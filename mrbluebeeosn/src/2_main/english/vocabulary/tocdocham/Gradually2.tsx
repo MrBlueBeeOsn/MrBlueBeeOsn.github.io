@@ -38,7 +38,7 @@ export default function GRADually2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-               [GRADually][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">GRAD ü a̛l ly</Link>] /ˈɡrædʒuəli/ ⬤••• (4x)
+               [GRADually][<Link to="/pronunciation/5-vowel-system">GRAD ü a̛l ly</Link>] /ˈɡrædʒuəli/ ⬤••• (4x)
               
             </span>
               

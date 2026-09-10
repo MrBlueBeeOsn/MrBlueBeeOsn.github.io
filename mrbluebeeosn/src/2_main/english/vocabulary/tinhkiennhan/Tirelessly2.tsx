@@ -38,7 +38,7 @@ export default function TIRElessly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [TIRElessly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">TĪRE le̛s sly</Link>] /ˈtaɪrləsli/ ⬤•• (3x)
+              [TIRElessly][<Link to="/pronunciation/5-vowel-system">TĪRE le̛s sly</Link>] /ˈtaɪrləsli/ ⬤•• (3x)
               
             </span>
               

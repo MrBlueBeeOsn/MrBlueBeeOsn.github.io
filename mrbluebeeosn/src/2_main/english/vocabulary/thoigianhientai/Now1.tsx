@@ -36,7 +36,7 @@ export default function NOW1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [NOW][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">NOW</Link>] /naʊ/ ⬤ (1x)
+                [NOW][<Link to="/pronunciation/5-vowel-system">NOW</Link>] /naʊ/ ⬤ (1x)
               </span>
             </li>
 

@@ -36,7 +36,7 @@ export default function DELicately1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [DELicately][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">DEL i̛ ca̛te ly</Link>] /ˈdɛlɪkətli/ ⬤••• (4x)
+                [DELicately][<Link to="/pronunciation/5-vowel-system">DEL i̛ ca̛te ly</Link>] /ˈdɛlɪkətli/ ⬤••• (4x)
               </span>
             </li>
 

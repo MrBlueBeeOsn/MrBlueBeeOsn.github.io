@@ -22,7 +22,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
         <p className="text-center">(BẢN HOÀN CHỈNH
 
           <sup>
-            <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">&nbsp;1&nbsp;</Link>
+            <Link to="/pronunciation/5-vowel-system">&nbsp;1&nbsp;</Link>
           </sup>
 
           <sup>

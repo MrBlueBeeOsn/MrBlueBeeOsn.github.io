@@ -38,7 +38,7 @@ export default function SOMEtimes2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [SOMEtimes][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SÔME tīmes</Link>] /ˈsʌmtaɪmz/ ⬤• (2x)
+              [SOMEtimes][<Link to="/pronunciation/5-vowel-system">SÔME tīmes</Link>] /ˈsʌmtaɪmz/ ⬤• (2x)
               
             </span>
               

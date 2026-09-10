@@ -38,7 +38,7 @@ export default function HAPpily2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [HAPpily][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">HAP pi̛ ly</Link>] /ˈhæpəli/ ⬤•• (3x)
+              [HAPpily][<Link to="/pronunciation/5-vowel-system">HAP pi̛ ly</Link>] /ˈhæpəli/ ⬤•• (3x)
               
             </span>
               

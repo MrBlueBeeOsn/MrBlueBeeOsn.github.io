@@ -36,7 +36,7 @@ export default function JOYfully1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [JOYfully][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">JOY fưl ly</Link>] /ˈdʒɔɪfəli/ ⬤•• (3x)
+                [JOYfully][<Link to="/pronunciation/5-vowel-system">JOY fưl ly</Link>] /ˈdʒɔɪfəli/ ⬤•• (3x)
               </span>
             </li>
 

@@ -36,7 +36,7 @@ export default function efFECtively1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                 [efFECtively][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėf FEC tive ly</Link>] /ɪˈfektɪvli/ •⬤•• (4x)
+                 [efFECtively][<Link to="/pronunciation/5-vowel-system">ėf FEC tive ly</Link>] /ɪˈfektɪvli/ •⬤•• (4x)
               </span>
             </li>
 

@@ -36,7 +36,7 @@ export default function NEVer1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [NEver][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">NEV e̛r</Link>] /ˈnevər/ ⬤• (2x)
+                [NEver][<Link to="/pronunciation/5-vowel-system">NEV e̛r</Link>] /ˈnevər/ ⬤• (2x)
               </span>
             </li>
 

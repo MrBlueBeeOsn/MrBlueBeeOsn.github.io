@@ -36,7 +36,7 @@ export default function HONestly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [HONestly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">HON ėst ly</Link>] /ˈɒnɪstli/ ⬤•• (3x)
+                [HONestly][<Link to="/pronunciation/5-vowel-system">HON ėst ly</Link>] /ˈɒnɪstli/ ⬤•• (3x)
               </span>
             </li>
 

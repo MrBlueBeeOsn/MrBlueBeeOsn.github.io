@@ -36,7 +36,7 @@ export default function REally1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [REally][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">RĖA̛L ly</Link>] /ˈriːəli/ ⬤• (2x)
+                [REally][<Link to="/pronunciation/5-vowel-system">RĖA̛L ly</Link>] /ˈriːəli/ ⬤• (2x)
               </span>
             </li>
 

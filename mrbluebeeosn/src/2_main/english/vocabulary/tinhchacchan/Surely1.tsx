@@ -36,7 +36,7 @@ export default function SUREly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [SUREly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SURE ly</Link>] /ˈʃʊrli/ ⬤• (2x)
+                [SUREly][<Link to="/pronunciation/5-vowel-system">SURE ly</Link>] /ˈʃʊrli/ ⬤• (2x)
               </span>
             </li>
 

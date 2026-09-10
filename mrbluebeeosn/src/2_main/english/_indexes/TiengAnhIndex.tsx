@@ -54,7 +54,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">7 dấu phụ phiên âm tiếng Anh
+                <Link to="/pronunciation/5-vowel-system">7 dấu phụ phiên âm tiếng Anh
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-2">

@@ -36,7 +36,7 @@ export default function atTENtively1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [atTENtively][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">a̛t TEN tive ly</Link>] /əˈten.tɪv.li/ •⬤•• (4x)
+                [atTENtively][<Link to="/pronunciation/5-vowel-system">a̛t TEN tive ly</Link>] /əˈten.tɪv.li/ •⬤•• (4x)
               </span>
             </li>
 

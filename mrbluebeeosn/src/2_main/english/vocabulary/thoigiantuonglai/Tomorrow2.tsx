@@ -40,7 +40,7 @@ export default function toMORrow2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [toMORrow][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tơ MÖR rōw</Link>] /təˈmɔː.roʊ/ •⬤• (3x)
+              [toMORrow][<Link to="/pronunciation/5-vowel-system">tơ MÖR rōw</Link>] /təˈmɔː.roʊ/ •⬤• (3x)
               
             </span>
               

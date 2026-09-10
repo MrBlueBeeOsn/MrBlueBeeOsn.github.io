@@ -38,7 +38,7 @@ export default function CAUtiously2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [CAUtiously][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">CÅU tiơus ly</Link>] /ˈkɔː.ʃəs.li/ ⬤•• (3x)
+              [CAUtiously][<Link to="/pronunciation/5-vowel-system">CÅU tiơus ly</Link>] /ˈkɔː.ʃəs.li/ ⬤•• (3x)
               
             </span>
               

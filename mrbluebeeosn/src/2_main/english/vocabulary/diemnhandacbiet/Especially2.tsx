@@ -38,7 +38,7 @@ export default function esPECially2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [esPECIALly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ės PEC ia̛l ly</Link>] /ɪˈspɛʃəli/ •⬤• (3x)
+              [esPECIALly][<Link to="/pronunciation/5-vowel-system">ės PEC ia̛l ly</Link>] /ɪˈspɛʃəli/ •⬤• (3x)
               
             </span>
               

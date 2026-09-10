@@ -36,7 +36,7 @@ export default function rePEATedly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [rePEATedly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rė PĒAT ėd ly</Link>] /rɪˈpiːtɪdli/ •⬤•• (4x)
+                [rePEATedly][<Link to="/pronunciation/5-vowel-system">rė PĒAT ėd ly</Link>] /rɪˈpiːtɪdli/ •⬤•• (4x)
               </span>
             </li>
 

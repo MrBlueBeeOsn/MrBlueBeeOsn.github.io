@@ -36,7 +36,7 @@ export default function VISibly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [VISibly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">VIS i̛ bly</Link>] /ˈvɪzəbli/ ⬤•• (3x)
+                [VISibly][<Link to="/pronunciation/5-vowel-system">VIS i̛ bly</Link>] /ˈvɪzəbli/ ⬤•• (3x)
               </span>
             </li>
 

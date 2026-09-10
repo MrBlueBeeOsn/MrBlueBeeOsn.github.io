@@ -38,7 +38,7 @@ export default function Usually2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [Usually][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">Ū su a̛l ly</Link>] /ˈjuːʒuəli/ ⬤••• (4x)
+              [Usually][<Link to="/pronunciation/5-vowel-system">Ū su a̛l ly</Link>] /ˈjuːʒuəli/ ⬤••• (4x)
               
             </span>
               

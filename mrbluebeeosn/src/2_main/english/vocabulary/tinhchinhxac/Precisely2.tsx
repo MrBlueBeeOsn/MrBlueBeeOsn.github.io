@@ -38,7 +38,7 @@ export default function preCISEly2(): React.JSX.Element {
 
             <span className="highlight-255-padding-3-6">
 
-              [preCISEly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prė CĪSE ly</Link>] /prɪˈsaɪs.li/ •⬤• (3x)
+              [preCISEly][<Link to="/pronunciation/5-vowel-system">prė CĪSE ly</Link>] /prɪˈsaɪs.li/ •⬤• (3x)
 
             </span>
               

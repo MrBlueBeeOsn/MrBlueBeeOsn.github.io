@@ -42,7 +42,7 @@ export default function (): React.JSX.Element {
               
               /li/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/ 
+              <Link to="/pronunciation/5-vowel-system">ly</Link>/ 
               
               <sup>&nbsp;⬤</sup>
               

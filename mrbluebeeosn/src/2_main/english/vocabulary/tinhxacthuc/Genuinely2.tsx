@@ -38,7 +38,7 @@ export default function GENuinely2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [GENuinely][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">GEN ū ine ly</Link>] /ˈdʒenjuɪnli/ ⬤••• (4x)
+              [GENuinely][<Link to="/pronunciation/5-vowel-system">GEN ū ine ly</Link>] /ˈdʒenjuɪnli/ ⬤••• (4x)
               
             </span>
               

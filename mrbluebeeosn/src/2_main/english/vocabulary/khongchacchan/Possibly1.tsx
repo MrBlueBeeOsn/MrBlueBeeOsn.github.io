@@ -36,7 +36,7 @@ export default function POSsibly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [POSsibly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">POS si̛b ly</Link>] /ˈpɒsəbli/ ⬤•• (3x)
+                [POSsibly][<Link to="/pronunciation/5-vowel-system">POS si̛b ly</Link>] /ˈpɒsəbli/ ⬤•• (3x)
               </span>
             </li>
 

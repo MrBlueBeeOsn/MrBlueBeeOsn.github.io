@@ -38,7 +38,7 @@ export default function OFten2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [OFten][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">OF te̛n</Link>] /ˈɒf.ən/ ⬤• (2x)
+              [OFten][<Link to="/pronunciation/5-vowel-system">OF te̛n</Link>] /ˈɒf.ən/ ⬤• (2x)
               
             </span>
               

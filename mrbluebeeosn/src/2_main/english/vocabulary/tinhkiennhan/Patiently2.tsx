@@ -38,7 +38,7 @@ export default function PAtiently2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [PAtiently][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">PĀ tie̛nt ly</Link>] /ˈpeɪ.ʃənt.li/ ⬤•• (3x)
+              [PAtiently][<Link to="/pronunciation/5-vowel-system">PĀ tie̛nt ly</Link>] /ˈpeɪ.ʃənt.li/ ⬤•• (3x)
               
             </span>
               

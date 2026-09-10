@@ -36,7 +36,7 @@ export default function VERy1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [VEry][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">VER y</Link>] /ˈveri/ ⬤• (2x)
+                [VEry][<Link to="/pronunciation/5-vowel-system">VER y</Link>] /ˈveri/ ⬤• (2x)
               </span>
             </li>
 

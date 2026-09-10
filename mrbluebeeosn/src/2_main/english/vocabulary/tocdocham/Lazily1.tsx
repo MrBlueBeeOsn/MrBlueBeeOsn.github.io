@@ -36,7 +36,7 @@ export default function LAzily1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [LAzily][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">LĀ zi̛ ly</Link>] /ˈleɪzəli/ ⬤•• (3x)
+                [LAzily][<Link to="/pronunciation/5-vowel-system">LĀ zi̛ ly</Link>] /ˈleɪzəli/ ⬤•• (3x)
               </span>
             </li>
 

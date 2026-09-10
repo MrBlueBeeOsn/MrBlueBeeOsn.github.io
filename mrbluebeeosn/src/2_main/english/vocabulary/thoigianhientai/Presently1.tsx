@@ -36,7 +36,7 @@ export default function PRESently1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [PRESently][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">PRES e̛nt ly</Link>] /ˈprezəntli/ ⬤•• (3x)
+                [PRESently][<Link to="/pronunciation/5-vowel-system">PRES e̛nt ly</Link>] /ˈprezəntli/ ⬤•• (3x)
               </span>
             </li>
 

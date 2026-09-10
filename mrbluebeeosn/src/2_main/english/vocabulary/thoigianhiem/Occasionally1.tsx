@@ -36,7 +36,7 @@ export default function ocCAsionally1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [ocCAsionally][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ơc CĀ siơn a̛l ly</Link>] /əˈkeɪʒənəli/ •⬤••• (5x)
+                [ocCAsionally][<Link to="/pronunciation/5-vowel-system">ơc CĀ siơn a̛l ly</Link>] /əˈkeɪʒənəli/ •⬤••• (5x)
               </span>
             </li>
 

@@ -38,7 +38,7 @@ export default function (): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
+                /i/ + /<Link to="/pronunciation/5-vowel-system">ly</Link>/
                 <sup>&nbsp;⬤</sup>
               </span>
             </li>

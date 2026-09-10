@@ -38,7 +38,7 @@ export default function CERtainly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [CERtainly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">CÊR ta̛in ly</Link>] /ˈsɜːrtnli/ ⬤•• (3x)
+              [CERtainly][<Link to="/pronunciation/5-vowel-system">CÊR ta̛in ly</Link>] /ˈsɜːrtnli/ ⬤•• (3x)
               
             </span>
               

@@ -36,7 +36,7 @@ export default function parTICularly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [parTIcularly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pa̛r TIC ư̇ la̛r ly</Link>] /pəˈtɪkjələrli/ •⬤••• (5x)
+                [parTIcularly][<Link to="/pronunciation/5-vowel-system">pa̛r TIC ư̇ la̛r ly</Link>] /pəˈtɪkjələrli/ •⬤••• (5x)
               </span>
             </li>
 

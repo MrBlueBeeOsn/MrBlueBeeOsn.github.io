@@ -38,7 +38,7 @@ export default function meTICulously2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [meTICulously][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">me̛ TIC ư̇ lơus ly</Link>] /məˈtɪkjələsli/ •⬤••• (5x)
+              [meTICulously][<Link to="/pronunciation/5-vowel-system">me̛ TIC ư̇ lơus ly</Link>] /məˈtɪkjələsli/ •⬤••• (5x)
               
             </span>
               

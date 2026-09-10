@@ -38,7 +38,7 @@ export default function GENTly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [GENTly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">GENT ly</Link>] /ˈdʒɛntlɪ/ ⬤• (2x)
+              [GENTly][<Link to="/pronunciation/5-vowel-system">GENT ly</Link>] /ˈdʒɛntlɪ/ ⬤• (2x)
               
             </span>
               

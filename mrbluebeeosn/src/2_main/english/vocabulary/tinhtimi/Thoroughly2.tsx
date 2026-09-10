@@ -38,7 +38,7 @@ export default function THORoughly2(): React.JSX.Element {
 
             <span className="highlight-255-padding-3-6">
 
-              [THOroughly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">THÔR ơugh ly</Link>] /ˈθʌrəli/ ⬤•• (3x)
+              [THOroughly][<Link to="/pronunciation/5-vowel-system">THÔR ơugh ly</Link>] /ˈθʌrəli/ ⬤•• (3x)
 
             </span>
 

@@ -36,7 +36,7 @@ export default function SOFTly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [SOFTly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SOFT ly</Link>] /ˈsɒftli/ ⬤• (2x)
+                [SOFTly][<Link to="/pronunciation/5-vowel-system">SOFT ly</Link>] /ˈsɒftli/ ⬤• (2x)
               </span>
             </li>
 

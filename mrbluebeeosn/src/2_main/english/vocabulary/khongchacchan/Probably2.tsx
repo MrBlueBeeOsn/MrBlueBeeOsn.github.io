@@ -38,7 +38,7 @@ export default function PROBably2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [PROBably][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">PROB a̛ ly</Link>] /ˈprɒbli/ ⬤• (3x)
+              [PROBably][<Link to="/pronunciation/5-vowel-system">PROB a̛ ly</Link>] /ˈprɒbli/ ⬤• (3x)
               
             </span>
               

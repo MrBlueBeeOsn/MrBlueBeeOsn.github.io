@@ -38,7 +38,7 @@ export default function CAREfully2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [CAREfully][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">CĀ̄RE fưl ly</Link>] /ˈkerfəli/ ⬤•• (3x)
+              [CAREfully][<Link to="/pronunciation/5-vowel-system">CĀ̄RE fưl ly</Link>] /ˈkerfəli/ ⬤•• (3x)
               
             </span>
               

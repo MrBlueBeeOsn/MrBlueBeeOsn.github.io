@@ -36,7 +36,7 @@ export default function STEADily1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [STEAdily][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">STEAD i̛ ly</Link>] /ˈsted.ə.li/ ⬤•• (3x)
+                [STEAdily][<Link to="/pronunciation/5-vowel-system">STEAD i̛ ly</Link>] /ˈsted.ə.li/ ⬤•• (3x)
               </span>
             </li>
 

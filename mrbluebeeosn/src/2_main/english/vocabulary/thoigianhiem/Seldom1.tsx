@@ -36,7 +36,7 @@ export default function SELdom1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [SELdom][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SEL dơm</Link>] /ˈsɛldəm/ ⬤• (2x)
+                [SELdom][<Link to="/pronunciation/5-vowel-system">SEL dơm</Link>] /ˈsɛldəm/ ⬤• (2x)
               </span>
             </li>
 

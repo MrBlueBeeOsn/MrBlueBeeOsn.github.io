@@ -36,7 +36,7 @@ export default function perSIStently1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [perSIStently][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pe̛r SIS te̛nt ly</Link>] /pəˈsɪs.tənt.li/ •⬤•• (4x)
+                [perSIStently][<Link to="/pronunciation/5-vowel-system">pe̛r SIS te̛nt ly</Link>] /pəˈsɪs.tənt.li/ •⬤•• (4x)
               </span>
             </li>
 
