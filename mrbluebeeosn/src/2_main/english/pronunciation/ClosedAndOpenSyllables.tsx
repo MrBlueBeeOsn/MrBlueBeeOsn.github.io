@@ -57,17 +57,17 @@ export default function ClosedAndOpenSyllables(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Letter A sounds like Ā /eɪ/ (as in "SAY")</li>
+					<li className="margin-bottom-20">Letter A sounds like Ā /eɪ/ (as in "SAY")</li>
 			
-					<li>Letter E sounds like Ē /iː/ (as in "SEE")</li>
+					<li className="margin-bottom-20">Letter E sounds like Ē /iː/ (as in "SEE")</li>
 			
-					<li>Letter I sounds like Ī /aɪ/ (as in "my")</li>
+					<li className="margin-bottom-20">Letter I sounds like Ī /aɪ/ (as in "my")</li>
 
 					<li>Letter O sounds like Ō /oʊ/ (as in "GO")</li>
-					<li className="list-none">Letter O sounds like Ȯ /ɑː/ (as in "DOG")</li>
+					<li className="list-none margin-bottom-20">Letter O sounds like Ȯ /ɔː/ (as in "DOG")</li>
 			
-					<li>Letter U sounds like YÜ /YÊU/ /juː/ (as in "USE")</li>
-					<li className="list-none">Letter U sounds like Ü /uː/ (as in "BLUE")</li>
+					<li>Letter U sounds like Ü /uː/ (as in "BLUE")</li>
+					<li className="list-none">Letter U sounds like YÜ /YÊU/ /juː/ (as in "USE")</li>
 			
 				</ul>
 			
@@ -94,13 +94,13 @@ export default function ClosedAndOpenSyllables(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Letter a sounds like /æ/ (as in "CAT")</li>
-					<li className="list-none">Letter a sounds like ä /ɑː/ (as in "CAR" or "HOT")</li>
+					<li className="list-none margin-bottom-20">Letter a sounds like ä /ɑː/ (as in "CAR" or "HOT")</li>
 			
-					<li>Letter e sounds like /e/ (as in "BED")</li>
+					<li className="margin-bottom-20">Letter e sounds like /e/ (as in "BED")</li>
 			
-					<li>Letter i sounds like /ɪ/ (as in "SIT")</li>
+					<li className="margin-bottom-20">Letter i sounds like /ɪ/ (as in "SIT")</li>
 
-					<li>Letter o sounds like /ɑː/ (as in "TOP")</li>
+					<li className="margin-bottom-20">Letter o sounds like /ɑː/ (as in "TOP")</li>
 			
 					<li>Letter u sounds like yə /ia/ (as in "ACcurate")</li>
 					<li className="list-none">Letter u sounds like u̇ /ʊ/ (as in "PUT")</li>
