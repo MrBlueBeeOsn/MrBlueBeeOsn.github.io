@@ -32,7 +32,44 @@ export default function VocabularyIndex(): React.JSX.Element {
 							
 			</div>
 
+
+
+			<div className="vocabulary-container margin-top-20">
+						
+				{/* =============================
+							Verbs
+				============================= */}
+
+
+				<details className="sub-box-fix">
 			
+					<summary id="verbs-functions-terms"><mark className="highlight-secondary-padding-2-4">VERBS: FUNCtions</mark></summary>
+
+					<ul className="list-border1">
+
+						{/* <li>
+							<Link to="/vocabulary/clear">[clear]</Link>
+						</li> */}
+
+						<li>
+							<Link to="/vocabulary/respond">[reSPOND]</Link> 	
+						</li>
+
+						<li>
+							<Link to="/vocabulary/create">[creATE]</Link> 	
+						</li>
+
+						
+						
+
+					</ul>
+
+
+				</details>
+
+
+			</div>
+
 			<div className="flex-container margin-top-20">
 			
 			
@@ -73,43 +110,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</div>
 
 			
-
-			</div>
-
-
-			<div className="vocabulary-container margin-top-20">
-						
-				{/* =============================
-							Verbs
-				============================= */}
-
-
-				<details className="sub-box-fix">
-			
-					<summary id="verbs-functions-terms"><mark className="highlight-secondary-padding-2-4">VERBS: FUNCtions</mark></summary>
-
-					<ul className="list-border1">
-
-						{/* <li>
-							<Link to="/vocabulary/clear">[clear]</Link>
-						</li> */}
-
-						<li>
-							<Link to="/vocabulary/respond">[reSPOND]</Link> 	
-						</li>
-
-						<li>
-							<Link to="/vocabulary/create">[creATE]</Link> 	
-						</li>
-
-						
-						
-
-					</ul>
-
-
-				</details>
-
 
 			</div>
 

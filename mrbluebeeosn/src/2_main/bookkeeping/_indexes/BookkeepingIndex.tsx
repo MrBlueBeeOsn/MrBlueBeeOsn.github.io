@@ -25,11 +25,11 @@ export default function BookkeepingIndex(): React.JSX.Element {
         
         {/* <VideoSearch /> */}
 
-        <DEALER />
+        
                           
       </div>
 
-      <div className="vocabulary-container">
+      <div className="vocabulary-container margin-top-20">
             
         {/* =============================
               Bookkeeping Quiz
@@ -163,6 +163,8 @@ export default function BookkeepingIndex(): React.JSX.Element {
         </div>
 
       </div>
+
+      <DEALER />
 
     </article>
     

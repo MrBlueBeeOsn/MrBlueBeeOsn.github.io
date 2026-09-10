@@ -31,54 +31,6 @@ export default function EnglishIndex(): React.JSX.Element {
         {/* <VideoSearch2 /> */}
                           
       </div>
-
-      
-
-      <div className="flex-container margin-top-20">
-
-        <div className="sub-box">
-        
-          {/* =============================
-              English Terms
-          ============================= */}
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/what-is-english?">English</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/what-is-the-english-language?">The English language</Link>
-              </div>
-            </li>
-            
-          </ul>
-
-        </div>
-
-        <div className="sub-box">
-        
-          {/* =============================
-              English Teacher
-          ============================= */}
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/what-is-an-english-teacher?">English Teacher</Link>
-              </div>
-            </li>
-            
-          </ul>
-
-        </div>
-
-      </div>
       
 
       <div className="vocabulary-container margin-top-20">
@@ -466,6 +418,53 @@ export default function EnglishIndex(): React.JSX.Element {
         </details>
 
         
+
+      </div>
+
+
+      <div className="flex-container margin-top-20">
+
+        <div className="sub-box">
+        
+          {/* =============================
+              English Terms
+          ============================= */}
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/what-is-english?">English</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/what-is-the-english-language?">The English language</Link>
+              </div>
+            </li>
+            
+          </ul>
+
+        </div>
+
+        <div className="sub-box">
+        
+          {/* =============================
+              English Teacher
+          ============================= */}
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/what-is-an-english-teacher?">English Teacher</Link>
+              </div>
+            </li>
+            
+          </ul>
+
+        </div>
 
       </div>
 
