@@ -99,6 +99,12 @@ export default function PronunciationIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
+                <Link to="/pronunciation/closed-and-open-syllables">Closed/Open Syllables</Link>
+              </div>
+            </li>
+            
+            <li>
+              <div className="li-content">
                 <Link to="/pronunciation/5-vowel-system">5 Vowel System</Link>
               </div>
             </li>

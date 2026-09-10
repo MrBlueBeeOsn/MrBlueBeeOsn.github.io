@@ -579,7 +579,18 @@
       "title": "Vowel System",
       "content": "Cracking the Merriam-Webster Vowel Code",
       "slug": "pronunciation/5-vowel-system",
-      "date": "2026-09-010",
+      "date": "2026-09-10",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "ClosedAndOpenSyllables",
+      "categoryDisplay": "Pronunciation",
+      "categorySlug": "pronunciation",
+      "title": "Vowel System",
+      "content": "Easy-to-understand guide to the Closed/Open Syllables and Long/Short Vowels rule.",
+      "slug": "pronunciation/closed-and-open-syllables",
+      "date": "2026-09-10",
       "views": 0,
       "likes": 0
     },
