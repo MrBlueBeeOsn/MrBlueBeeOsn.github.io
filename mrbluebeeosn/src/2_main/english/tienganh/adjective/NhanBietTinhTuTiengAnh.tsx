@@ -232,7 +232,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 			<h4 className="margin-y-40">9. Cảm thấy…: -ed</h4>
 					
-			<p className="margin-top-20 text-indent-whole">BORED, TIred, exCIted, INterested, surPRISED</p>
+			<p className="margin-top-20 text-indent-whole">BORED, TIred, exCIted, INTERested, surPRISED</p>
 			
 				<ul className="list-square">
 			
@@ -245,7 +245,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>the KIDS were SO <strong>exCIted</strong> about GOing to the aMUSEment PARK toMORrow.</li>
 					<li className="margin-bottom-20 list-none">Bọn trẻ rất <strong>hào hứng</strong> về việc đi công viên giải trí vào ngày mai.</li>
 			
-					<li>i am VEry <strong>INterested</strong> in LEARNing MORE about artiFIcial inTELligence.</li>
+					<li>i am VEry <strong>INTERested</strong> in LEARNing MORE about artiFIcial inTELligence.</li>
 					<li className="margin-bottom-20 list-none">Tôi rất <strong>quan tâm</strong> đến việc tìm hiểu thêm về trí tuệ nhân tạo.</li>
 			
 					<li>we were <strong>surPRISED</strong> by the unexPECted BIRTHday PARTy our FRIENDS THREW for us.</li>
@@ -290,7 +290,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i’m INterested.</li>
+					<li>i’m INTERested.</li>
 					<li className="margin-bottom-20 list-none">Tôi quan tâm.</li>
 			
 					<li>i’m BORED.</li>

@@ -66,12 +66,215 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 						<HashLink smooth to="#conTINue">conTINue</HashLink>
 					</span> &nbsp;
 
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#beGIN">beGIN</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#START">START</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#preFER">preFER</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#HATE">HATE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#LOVE">LOVE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#LIKE">LIKE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#MEAN">MEAN</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#gO-ON">gO ON</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#alLOW">alLOW</HashLink>
+					</span> &nbsp;
+
+
 				</p>
 
 				<p className="example-sentence text-center">
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#FANcy">FANcy</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#MIND">MIND</HashLink>
+					</span> &nbsp;
+					
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#sugGEST">sugGEST</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#iMAGine">iMAGine</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#conSIDer">conSIDer</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#aVOID">aVOID</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#KEPT">KEPT</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#FINish">FINish</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#giVE-UP">giVE UP</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#USED">USED</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#LOOK">LOOK</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#TIred">TIred</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#INTERest">INTERest</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#RISK">RISK</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#postPONE">postPONE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#MISS">MISS</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#PRACtice">PRACtice</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#deNY">deNY</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#adMIT">adMIT</HashLink>
+					</span> &nbsp;
+					
+				</p>
+
+
+				<p className="example-sentence text-center">
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#HATE2">HATE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#LOVE">LOVE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#LIKE">LIKE</HashLink>
+					</span> &nbsp;
+					
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#aGREE">aGREE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#LEARN">LEARN</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#reFUSE">reFUSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#HOPE">HOPE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#deCIded">deCIded</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#HELP">HELP</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#NEED">NEED</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#exPECT">exPECT</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#FORCE">FORCE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#TELL">TELL</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ASK">ASK</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#TEND">TEND</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#SEEM">SEEM</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#apPEAR">apPEAR</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#deSERVE">deSERVE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#afFORD">afFORD</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#MANage">MANage</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#FAIL">FAIL</HashLink>
+					</span> &nbsp;
 					
 
 				</p>
+
 
 			</div>
 
@@ -256,7 +459,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				</ul>
 			
-			<h4 className="margin-y-40">7. beGIN</h4>
+			<h4 className="margin-y-40" id="beGIN">7. beGIN</h4>
 			
 				<ul className="list-square">
 			
@@ -271,7 +474,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">8. START</h4>
+			<h4 className="margin-y-40" id="START">8. START</h4>
 			
 				<ul className="list-square">
 			
@@ -286,7 +489,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">9. preFER</h4>
+			<h4 className="margin-y-40" id="preFER">9. preFER</h4>
 			
 				<ul className="list-square">
 			
@@ -301,7 +504,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">10. HATE</h4>
+			<h4 className="margin-y-40" id="HATE">10. HATE</h4>
 			
 				<ul className="list-square">
 			
@@ -316,7 +519,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">11. LOVE</h4>
+			<h4 className="margin-y-40" id="LOVE">11. LOVE</h4>
 			
 				<ul className="list-square">
 			
@@ -331,7 +534,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">12. LIKE</h4>
+			<h4 className="margin-y-40" id="LIKE">12. LIKE</h4>
 			
 				<ul className="list-square">
 			
@@ -346,7 +549,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">13. MEAN</h4>
+			<h4 className="margin-y-40" id="MEAN">13. MEAN</h4>
 			
 				<ul className="list-square">
 			
@@ -360,8 +563,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				</ul>
 
-			
-			<h4 className="margin-y-40">14. gO ON</h4>
+			 
+			<h4 className="margin-y-40" id="gO-ON">14. gO ON</h4>
 			
 				<ul className="list-square">
 			
@@ -376,7 +579,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">15. alLOW</h4>
+			<h4 className="margin-y-40" id="alLOW">15. alLOW</h4>
 			
 				<ul className="list-square">
 			
@@ -397,7 +600,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">III. Chỉ dùng Gerund (-ing)</h3>
 			
 			
-			<h4 className="margin-y-40">1. FANcy GRABbing</h4>
+			<h4 className="margin-y-40" id="FANcy">1. FANcy</h4>
 			
 				<ul className="list-square">
 			
@@ -408,7 +611,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">2. MIND WORKing</h4>
+			<h4 className="margin-y-40" id="MIND">2. MIND</h4>
 			
 				<ul className="list-square">
 			
@@ -419,7 +622,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">3. sugGESTed TRYing</h4>
+			<h4 className="margin-y-40" id="sugGEST">3. sugGEST</h4>
 			
 				<ul className="list-square">
 			
@@ -430,7 +633,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">4. iMAGines LIVing</h4>
+			<h4 className="margin-y-40" id="iMAGine">4. iMAGine</h4>
 			
 				<ul className="list-square">
 			
@@ -441,7 +644,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">5. conSIDered CHANging</h4>
+			<h4 className="margin-y-40" id="conSIDer">5. conSIDer</h4>
 			
 				<ul className="list-square">
 			
@@ -452,7 +655,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">6. aVOIDed disCUSSing</h4>
+			<h4 className="margin-y-40" id="aVOID">6. aVOID</h4>
 			
 				<ul className="list-square">
 			
@@ -463,7 +666,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">7. KEPT WORKing</h4>
+			<h4 className="margin-y-40" id="KEPT">7. KEPT</h4>
 			
 				<ul className="list-square">
 			
@@ -474,7 +677,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">8. FINished TYping</h4>
+			<h4 className="margin-y-40" id="FINish">8. FINish</h4>
 			
 				<ul className="list-square">
 			
@@ -485,7 +688,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">9. giVE UP DRINKing</h4>
+			<h4 className="margin-y-40" id="giVE-UP">9. giVE UP</h4>
 			
 				<ul className="list-square">
 			
@@ -496,7 +699,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">10. is USED to WORKing</h4>
+			<h4 className="margin-y-40" id="USED">10. USED</h4>
 			
 				<ul className="list-square">
 			
@@ -507,7 +710,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">11. LOOK FORward to VISiting</h4>
+			<h4 className="margin-y-40" id="LOOK">11. LOOK</h4>
 			
 				<ul className="list-square">
 			
@@ -518,7 +721,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">12. TIred of FIXing</h4>
+			<h4 className="margin-y-40" id="TIred">12. TIred</h4>
 			
 				<ul className="list-square">
 			
@@ -529,18 +732,18 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">13. INterested in LEARNing</h4>
+			<h4 className="margin-y-40" id="INTERest">13. INTERest</h4>
 			
 				<ul className="list-square">
 			
-					<li>she is <strong>INterested in LEARNing</strong> adVANCED WEB deVELopment techNIQUES to imPROVE her ONline PROJects.</li>
+					<li>she is <strong>INTERested in LEARNing</strong> adVANCED WEB deVELopment techNIQUES to imPROVE her ONline PROJects.</li>
 					<li className="list-none">Cô ấy <strong>quan tâm đến việc học</strong> các kỹ thuật phát triển web nâng cao để cải thiện các dự án trực tuyến của mình.</li>
-					<li className="list-none">she là chủ thể. Sau cụm tính từ đi với giới từ INterested in, hành động tiếp theo bắt buộc phải ở dạng -ing (LEARNing), thể hiện sự hứng thú hoặc muốn tìm hiểu về một lĩnh vực, hoạt động nào đó.</li>
+					<li className="list-none">she là chủ thể. Sau cụm tính từ đi với giới từ INTERested in, hành động tiếp theo bắt buộc phải ở dạng -ing (LEARNing), thể hiện sự hứng thú hoặc muốn tìm hiểu về một lĩnh vực, hoạt động nào đó.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">14. RISK LOsing</h4>
+			<h4 className="margin-y-40" id="RISK">14. RISK</h4>
 			
 				<ul className="list-square">
 			
@@ -551,7 +754,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">15. postPONE upDAting</h4>
+			<h4 className="margin-y-40" id="postPONE">15. postPONE</h4>
 			
 				<ul className="list-square">
 			
@@ -562,7 +765,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">16. MISS CATCHing</h4>
+			<h4 className="margin-y-40" id="MISS">16. MISS</h4>
 			
 				<ul className="list-square">
 			
@@ -573,7 +776,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">17. PRACtice TYping</h4>
+			<h4 className="margin-y-40" id="PRACtice">17. PRACtice</h4>
 			
 				<ul className="list-square">
 			
@@ -584,7 +787,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">18. deNY MAking</h4>
+			<h4 className="margin-y-40" id="deNY">18. deNY</h4>
 			
 				<ul className="list-square">
 			
@@ -595,7 +798,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">19. adMIT MAking</h4>
+			<h4 className="margin-y-40" id="adMIT">19. adMIT</h4>
 			
 				<ul className="list-square">
 			
@@ -612,7 +815,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">IV. Chỉ dùng Infinitive (to V)</h3>
 
 
-			<h4 className="margin-y-40">1. would HATE to MISS</h4>
+			<h4 className="margin-y-40" id="HATE2">1. HATE</h4>
 			
 				<ul className="list-square">
 			
@@ -623,7 +826,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">2. would LOVE to disCUSS</h4>
+			<h4 className="margin-y-40" id="LOVE">2. LOVE</h4>
 			
 				<ul className="list-square">
 			
@@ -634,7 +837,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">3. would LIKE to CHECK</h4>
+			<h4 className="margin-y-40" id="LIKE">3. LIKE</h4>
 			
 				<ul className="list-square">
 			
@@ -645,7 +848,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">4. aGREED to HELP</h4>
+			<h4 className="margin-y-40" id="aGREE">4. aGREE</h4>
 			
 				<ul className="list-square">
 			
@@ -656,7 +859,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">5. LEARNED to COOK</h4>
+			<h4 className="margin-y-40" id="LEARN">5. LEARN</h4>
 			
 				<ul className="list-square">
 			
@@ -667,7 +870,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">6. reFUSED to SIGN</h4>
+			<h4 className="margin-y-40" id="reFUSE">6. reFUSE</h4>
 			
 				<ul className="list-square">
 			
@@ -678,7 +881,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">7. HOPES to FINish</h4>
+			<h4 className="margin-y-40" id="HOPE">7. HOPE</h4>
 			
 				<ul className="list-square">
 			
@@ -689,7 +892,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">8. deCIded to BUY</h4>
+			<h4 className="margin-y-40" id="deCIded">8. deCIded</h4>
 			
 				<ul className="list-square">
 			
@@ -700,7 +903,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">9. HELP his COLleague to FIX</h4>
+			<h4 className="margin-y-40" id="HELP">9. HELP</h4>
 			
 				<ul className="list-square">
 			
@@ -711,7 +914,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">10. NEED to reVIEW</h4>
+			<h4 className="margin-y-40" id="NEED">10. NEED</h4>
 			
 				<ul className="list-square">
 			
@@ -722,7 +925,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">11. exPECT to reCEIVE</h4>
+			<h4 className="margin-y-40" id="exPECT">11. exPECT</h4>
 			
 				<ul className="list-square">
 			
@@ -733,7 +936,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">12. FORCE her to reWRITE</h4>
+			<h4 className="margin-y-40" id="FORCE">12. FORCE</h4>
 			
 				<ul className="list-square">
 			
@@ -744,7 +947,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">13. TELL her to subMIT</h4>
+			<h4 className="margin-y-40" id="TELL">13. TELL</h4>
 			
 				<ul className="list-square">
 			
@@ -755,7 +958,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">14. ASK to LEAVE</h4>
+			<h4 className="margin-y-40" id="ASK">14. ASK</h4>
 			
 				<ul className="list-square">
 			
@@ -766,7 +969,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">15. TEND to CHECK</h4>
+			<h4 className="margin-y-40" id="TEND">15. TEND</h4>
 			
 				<ul className="list-square">
 			
@@ -777,7 +980,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">16. SEEM to underSTAND</h4>
+			<h4 className="margin-y-40" id="SEEM">16. SEEM</h4>
 			
 				<ul className="list-square">
 			
@@ -788,7 +991,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">17. apPEAR to SOLVE</h4>
+			<h4 className="margin-y-40" id="apPEAR">17. apPEAR</h4>
 			
 				<ul className="list-square">
 			
@@ -799,7 +1002,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">18. deSERVE to reCEIVE</h4>
+			<h4 className="margin-y-40" id="deSERVE">18. deSERVE</h4>
 			
 				<ul className="list-square">
 			
@@ -810,7 +1013,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">19. afFORD to BUY</h4>
+			<h4 className="margin-y-40" id="afFORD">19. afFORD</h4>
 			
 				<ul className="list-square">
 			
@@ -821,7 +1024,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">20. MANage to FINish</h4>
+			<h4 className="margin-y-40" id="MANage">20. MANage</h4>
 			
 				<ul className="list-square">
 			
@@ -832,7 +1035,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">21. FAIL to subMIT</h4>
+			<h4 className="margin-y-40" id="FAIL">21. FAIL</h4>
 			
 				<ul className="list-square">
 			

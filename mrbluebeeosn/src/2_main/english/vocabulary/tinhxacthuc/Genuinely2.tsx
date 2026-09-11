@@ -68,7 +68,7 @@ export default function GENuinely2(): React.JSX.Element {
         <li value="4">he was GENuinely SORry for his  misTAKE.</li>
         <li className="list-none margin-bottom-20">Anh ấy rất hối hận về lỗi lầm của mình.</li>
 
-        <li value="5">she was GENuinely INterested in his STOry.</li>
+        <li value="5">she was GENuinely INTERested in his STOry.</li>
         <li className="list-none margin-bottom-20">Cô ấy rất quan tâm đến câu chuyện của anh ấy.</li>
 
         <li value="6">i GENuinely beLIEVE in the POWer of LOVE.</li>
