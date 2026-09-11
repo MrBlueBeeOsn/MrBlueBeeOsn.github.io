@@ -101,7 +101,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-bottom-30 text-center">BÍ QUYẾT LÀM CHỦ "[BỘ 3 PHỤ KHỐI]" VÀ HỆ THỐNG ĐỘNG LỰC HỌC TIẾNG ANH LÊN TẦM ADVANCED</h4>
 
-			<p>Khi mới học tiếng Anh, chúng ta thường có xu hướng tư duy theo từng thành phần đơn lẻ rồi lắp ghép chúng lại thành những câu ngắn ngủi, rời rạc. Tuy nhiên, để chạm đến ngưỡng <strong>Advanced English</strong> – giao tiếp mượt mà và viết lách sắc bén – bạn bắt buộc phải chuyển mình sang tư duy theo cụm khối.</p>
+			<p>Khi mới học tiếng Anh, chúng ta thường có xu hướng tư duy theo từng thành phần đơn lẻ rồi lắp ghép chúng lại thành những câu ngắn ngủi, rời rạc. Tuy nhiên, để chạm đến ngưỡng <strong>adVANCED ENGlish</strong> – giao tiếp mượt mà và viết lách sắc bén – bạn bắt buộc phải chuyển mình sang tư duy theo cụm khối.</p>
 
 			<p>Chìa khóa vàng để thực hiện bước chuyển mình đó chính là làm chủ mối quan hệ giữa <strong>Hình thái khối hành động</strong> / <strong>khối quan hệ</strong> và <strong>Chức năng vận hành</strong> của chúng trong câu. Bài viết này sẽ là một cẩm nang toàn diện, giúp bạn thay đổi hoàn toàn thế giới quan về cấu trúc tiếng Anh thông qua hệ thống tư duy hai chiều Ngang - Dọc tối giản và logic nhất.</p>
 

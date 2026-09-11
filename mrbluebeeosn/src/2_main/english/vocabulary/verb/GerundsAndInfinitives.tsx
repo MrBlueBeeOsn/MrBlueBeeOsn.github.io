@@ -19,11 +19,68 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">GERunds and inFINitives</h1>
 
+
+			<div className="example">
+													
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#enJOY">enJOY</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#WANT">WANT</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#STOP">STOP</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#SWIM">SWIM</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#reMEMber">reMEMber</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#forGET">forGET</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#STOP2">STOP</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#TRY">TRY</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#reGRET">reGRET</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#conTINue">conTINue</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					
+
+				</p>
+
+			</div>
+
+
 			<h4 className="margin-bottom-30 text-center">“Kẻ thù” lớn nhất của người học tiếng Anh… nhưng thực ra rất dễ thương nếu bạn hiểu đúng cách</h4>
 
 			<p className="margin-top-20">Bạn đã bao giờ cảm thấy hoang mang khi đứng trước những câu như:</p>
 
-			<h4 className="margin-y-40">enJOY</h4>
+			<h4 className="margin-y-40" id="enJOY">enJOY</h4>
 			
 				<ul className="list-square">
 			
@@ -36,7 +93,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">WANT</h4>
+			<h4 className="margin-y-40" id="WANT">WANT</h4>
 			
 				<ul className="list-square">
 			
@@ -51,7 +108,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">Rồi đột nhiên lại gặp những câu "phản bội" kiểu:</p>
 
-			<h4 className="margin-y-40">STOP</h4>
+			<h4 className="margin-y-40" id="STOP">STOP</h4>
 			
 				<ul className="list-square">
 			
@@ -72,7 +129,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">I. Hai nhân vật chính và tính cách cơ bản</h3>
 
 
-			<h4 className="margin-y-40">SWIMming</h4>
+			<h4 className="margin-y-40" id="SWIM">SWIM</h4>
 			
 				<ul className="list-square">
 			
@@ -110,7 +167,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					
 			<p>Cặp đôi đáng sợ nhất mà ai cũng từng bị lừa:</p>
 			
-			<h4 className="margin-y-40">1. reMEMber</h4>
+			<h4 className="margin-y-40" id="reMEMber">1. reMEMber</h4>
 			
 				<ul className="list-square">
 			
@@ -125,7 +182,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">2. forGET</h4>
+			<h4 className="margin-y-40" id="forGET">2. forGET</h4>
 			
 				<ul className="list-square">
 			
@@ -140,7 +197,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">3. STOP</h4>
+			<h4 className="margin-y-40" id="STOP2">3. STOP</h4>
 			
 				<ul className="list-square">
 			
@@ -155,7 +212,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">4. TRY</h4>
+			<h4 className="margin-y-40" id="TRY">4. TRY</h4>
 			
 				<ul className="list-square">
 			
@@ -170,7 +227,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">5. reGRET</h4>
+			<h4 className="margin-y-40" id="reGRET">5. reGRET</h4>
 			
 				<ul className="list-square">
 			
@@ -185,7 +242,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">6. conTINue</h4>
+			<h4 className="margin-y-40" id="conTINue">6. conTINue</h4>
 			
 				<ul className="list-square">
 			
