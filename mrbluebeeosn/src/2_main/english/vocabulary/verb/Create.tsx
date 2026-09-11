@@ -19,6 +19,7 @@ export default function Create(): React.JSX.Element {
       
             
       <h1 className="margin-y-50 text-center">[creATE]</h1>
+      
 
       <div className="example">
               
@@ -68,6 +69,7 @@ export default function Create(): React.JSX.Element {
         </p>
 
       </div>
+
 
       {/* This is the content of Vocabulary Term. */}
 

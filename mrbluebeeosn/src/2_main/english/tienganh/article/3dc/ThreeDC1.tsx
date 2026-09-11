@@ -48,6 +48,57 @@ export default function ThreeDC1(): React.ReactElement {
 
 			</h1>
 
+
+			<div className="example">
+										
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-BASE">NOUN BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-BASE">ADjective BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-BASE">ADverb BASE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-PHRASE">NOUN PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-PHRASE">ADjective PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-PHRASE">ADverb PHRASE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-CLAUSE">NOUN CLAUSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-CLAUSE">ADverb CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+			</div>
+
+
 			<h4 className="margin-bottom-30 text-center">BÍ QUYẾT LÀM CHỦ "[BỘ 3 PHỤ KHỐI]" VÀ HỆ THỐNG ĐỘNG LỰC HỌC TIẾNG ANH LÊN TẦM ADVANCED</h4>
 
 			<p>Khi mới học tiếng Anh, chúng ta thường có xu hướng tư duy theo từng thành phần đơn lẻ rồi lắp ghép chúng lại thành những câu ngắn ngủi, rời rạc. Tuy nhiên, để chạm đến ngưỡng <strong>Advanced English</strong> – giao tiếp mượt mà và viết lách sắc bén – bạn bắt buộc phải chuyển mình sang tư duy theo cụm khối.</p>
@@ -246,7 +297,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Là đơn vị hành động hạt nhân nhỏ nhất, chỉ gồm đúng 1 từ. Vị trí đứng trong khối sẽ quyết định chức năng của khối hành động này:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CƠ</strong>][<strong>NOUN BASE</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-BASE"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CƠ</strong>][<strong>NOUN BASE</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -274,7 +325,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>TÍNH CƠ</strong>][<strong>ADJECTIVE BASE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADJECTIVE-BASE"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>TÍNH CƠ</strong>][<strong>ADJECTIVE BASE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -288,7 +339,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>TRẠNG CƠ</strong>][<strong>ADVERB BASE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADVERB-BASE"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>TRẠNG CƠ</strong>][<strong>ADVERB BASE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -307,7 +358,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="text-indent-whole">Là một khối hành động chứa nhiều từ kết hợp với nhau nhưng chưa có cấu trúc câu phức tạp hoàn chỉnh. Khối [VERB PHRASE][ĐỘNG CỤM] này sẽ đảm nhận các vai trò:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -335,7 +386,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>TÍNH CỤM</strong>][<strong>ADJECTIVE PHRASE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADJECTIVE-PHRASE"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>TÍNH CỤM</strong>][<strong>ADJECTIVE PHRASE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -349,7 +400,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>TRẠNG CỤM</strong>][<strong>ADVERB PHRASE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADVERB-PHRASE"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>TRẠNG CỤM</strong>][<strong>ADVERB PHRASE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -401,7 +452,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [SUBject PROnoun][CHỦ ĐẠI] và các cấu hình [VERB BASE][ĐỘNG CƠ] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [conJUNCtional BASE][LIÊN CƠ] tường minh:</p>
 
 
-			<p className="text-indent-whole"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="text-indent-whole" id="NOUN-CLAUSE"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -415,7 +466,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 
-			<p className="text-indent-whole"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+			<p className="text-indent-whole"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -429,7 +480,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>TÍNH CÂU</strong>][<strong>ADJECTIVE CLAUSE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADJECTIVE-CLAUSE"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADJECTIVE CLAUSE</strong>][<strong>TÍNH CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -443,7 +494,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>TRẠNG CÂU</strong>][<strong>ADVERB CLAUSE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADVERB-CLAUSE"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADVERB CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -464,7 +515,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p>Trong thực tế, rất nhiều khối [conJUNCtional CLAUSE][LIÊN CÂU] được lược bỏ hoàn toàn [conJUNCtional BASE][LIÊN CƠ] dẫn dắt. Lúc này, khối biểu hiện có hình thái bề ngoài giống hệt như một câu độc lập, nhưng chúng bắt buộc phải gắn kết chặt chẽ vào hệ thống để thực thi các chức năng cốt lõi:</p>
 
 
-			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>]:</p>
+			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -478,7 +529,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>TÍNH CÂU</strong>][<strong>ADJECTIVE CLAUSE</strong>]:</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>ADJECTIVE CLAUSE</strong>][<strong>TÍNH CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -492,7 +543,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>TRẠNG CÂU</strong>][<strong>ADVERB CLAUSE</strong>]:</p>
+			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>ADVERB CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			

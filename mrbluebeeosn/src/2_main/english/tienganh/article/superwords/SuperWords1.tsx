@@ -48,6 +48,57 @@ export default function SuperWords1(): React.JSX.Element {
 
 			</h1>
 
+
+			<div className="example">
+										
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-BASE">NOUN BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-BASE">ADjective BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-BASE">ADverb BASE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-PHRASE">NOUN PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-PHRASE">ADjective PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-PHRASE">ADverb PHRASE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-CLAUSE">NOUN CLAUSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-CLAUSE">ADverb CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+			</div>
+			
+
 			<h4 className="margin-bottom-30 text-center">Đừng Để Học Thuật Đánh Lừa: Bí Mật Tiếng Anh Từ Bản Đồ [Siêu Động Cơ]</h4>
 
 			<p>Bạn đã bao giờ rơi vào trạng thái "đứng hình" khi nhìn vào một câu tiếng Anh dài ba, bốn dòng trong các bài đọc hiểu hay tài liệu chuyên ngành chưa? Những định nghĩa cũ kỹ vô tình tạo ra một bức tường tâm lý, khiến chúng ta cảm thấy tiếng Anh bản xứ là một thứ gì đó vô cùng phức tạp và xa vời.</p>
@@ -240,7 +291,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái [ĐỘNG CƠ][Verb Base], chức năng của nó sẽ được quyết định bởi vị trí đứng:</p>
 
-			<p className="margin-top-20"><strong>Ví dụ 1a</strong>: [<strong>NOUN BASE</strong>][<strong>DANH CƠ</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20" id="NOUN-BASE"><strong>Ví dụ 1a</strong>: [<strong>NOUN BASE</strong>][<strong>DANH CƠ</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -268,7 +319,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>]</p>
+			<p className="margin-top-20" id="ADjective-BASE"><strong>Ví dụ 2</strong>: [<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -282,7 +333,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>]</p>
+			<p className="margin-top-20" id="ADverb-BASE"><strong>Ví dụ 3</strong>: [<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -304,7 +355,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Áp dụng quy tắc cốt lõi, đây là khối hành động mở rộng chứa nhiều chữ phối hợp bọc lót cho nhau nhưng chưa tạo thành một câu con hoàn chỉnh. Chức năng của [ĐỘNG CỤM][Verb Phrase] sẽ được quyết định dựa vào vị trí đứng trong câu lớn:</p>
 
-			<p className="margin-top-20"><strong>Ví dụ 1a</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20" id="NOUN-PHRASE"><strong>Ví dụ 1a</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -332,7 +383,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20" id="ADjective-PHRASE"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -346,7 +397,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>]</p>
+			<p className="margin-top-20" id="ADverb-PHRASE"><strong>Ví dụ 3</strong>: [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -409,7 +460,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái [conJUNCtional CLAUSE][LIÊN CÂU], ta xác định chức năng dựa trên khuôn mẫu như sau:</p>
 
-			<p className="margin-top-20"><strong>Ví dụ 1a</strong>: [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20" id="NOUN-CLAUSE"><strong>Ví dụ 1a</strong>: [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -437,7 +488,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]</p>
+			<p className="margin-top-20" id="ADjective-CLAUSE"><strong>Ví dụ 2</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -451,7 +502,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]</p>
+			<p className="margin-top-20" id="ADverb-CLAUSE"><strong>Ví dụ 3</strong>: [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			

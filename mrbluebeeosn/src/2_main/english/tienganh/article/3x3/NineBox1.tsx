@@ -48,6 +48,57 @@ export default function NineBox1(): React.JSX.Element {
 
 			</h1>
 
+
+			<div className="example">
+										
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-BASE">NOUN BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-BASE">ADjective BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-BASE">ADverb BASE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-PHRASE">NOUN PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-PHRASE">ADjective PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-PHRASE">ADverb PHRASE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-CLAUSE">NOUN CLAUSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-CLAUSE">ADverb CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+			</div>
+
+
 			<h4 className="margin-bottom-30 text-center">BẢN THIẾT KẾ LOGIC HỆ THỐNG ĐỘNG LẬP TRÌNH TRÊN [KIẾN TRÚC TƯ DUY 3X3]</h4>
 
 			<p>Nếu sở hữu tư duy hệ thống—như cách một kỹ sư phần mềm vận hành các luồng mã nguồn hay một nhà phân tích xử lý các kiến trúc cơ sở dữ liệu—bạn sẽ luôn cảm thấy bế tắc trước cách tiếp cận ngôn ngữ truyền thống. Những quy tắc rời rạc, những định nghĩa mơ hồ và hàng loạt ngoại lệ khiến bộ óc logic của bạn liên tục đòi hỏi một câu trả lời thỏa đáng: "Mô hình cấu trúc cốt lõi ở đây là gì?"</p>
@@ -215,7 +266,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khi đứng vào các vị trí khác nhau trong câu lớn, các khối hình thái cấp độ này sẽ hình thành nên các chức năng tương ứng:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>NOUN BASE</strong>][<strong>DANH CƠ</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-BASE"><strong>Hình thành Chức năng</strong> [<strong>NOUN BASE</strong>][<strong>DANH CƠ</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -243,7 +294,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-BASE"><strong>Hình thành Chức năng</strong> [<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -257,7 +308,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-BASE"><strong>Hình thành Chức năng</strong> [<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -291,7 +342,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">Khi đứng vào cấu trúc câu lớn, các khối hình thái này sẽ vận hành các chức năng dữ liệu cụ thể:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE"><strong>Hình thành Chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -319,7 +370,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-PHRASE"><strong>Hình thành Chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -333,7 +384,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 		
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-PHRASE"><strong>Hình thành Chức năng</strong> [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -353,7 +404,7 @@ export default function NineBox1(): React.JSX.Element {
 			<p className="text-indent-whole">Là đơn vị hành động mở rộng ở quy mô lớn nhất, chứa một cấu trúc câu con bên trong nó. Khi được "gắn" vào hệ thống, khối hình thái này sẽ hình thành nên các chức năng dữ liệu phức hợp:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-CLAUSE"><strong>Hình thành Chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -381,7 +432,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE"><strong>Hình thành Chức năng</strong> [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -395,7 +446,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-CLAUSE"><strong>Hình thành Chức năng</strong> [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			

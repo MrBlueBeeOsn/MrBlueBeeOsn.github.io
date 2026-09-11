@@ -134,7 +134,7 @@ export default function Clear(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>Tính Cơ</strong>] [<strong>Adjective Base</strong>] [<strong>Adjective Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>] [<strong>Adjective Base</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 2: /klɪə(r)/</p>
       

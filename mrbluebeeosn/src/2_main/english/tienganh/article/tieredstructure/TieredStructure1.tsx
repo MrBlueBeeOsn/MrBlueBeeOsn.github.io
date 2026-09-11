@@ -48,6 +48,57 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			</h1>
 
+
+			<div className="example">
+										
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-BASE">NOUN BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-BASE">ADjective BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-BASE">ADverb BASE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-PHRASE">NOUN PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-PHRASE">ADjective PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-PHRASE">ADverb PHRASE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-CLAUSE">NOUN CLAUSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-CLAUSE">ADverb CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+			</div>
+
+
 			<h4 className="margin-bottom-30 text-center">BẬT TƯ DUY LẬP TRÌNH: TUYỆT CHƯƠNG ĐÓNG GÓI MÃ NGUỒN [BASE][PHRASE][CLAUSE] - [CƠ][CỤM][CÂU]</h4>
 
 			<p>Bạn đã bao giờ rơi vào trạng thái "chập mạch" khi cố gắng nhồi nhét hàng tá cấu trúc ngôn ngữ phức tạp?</p>
@@ -244,7 +295,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý gốc của nó thuộc 1 trong 16 loại cấu trúc [BASE][CƠ]. Khi đặt vào câu, chính hình thái này sẽ hình thành nên các chức năng độc lập:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1.1</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>] [<strong>Noun Base</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-BASE"><strong>Ví dụ 1.1</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN BASE</strong>][<strong>DANH CƠ</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -258,7 +309,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1.2</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>] [<strong>Noun Base</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1.2</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN BASE</strong>][<strong>DANH CƠ</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -272,7 +323,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Hình thành chức năng</strong> [<strong>Tính Cơ</strong>] [<strong>Adjective Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-BASE"><strong>Ví dụ 2</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>]:</p>
 
 
 				<ul className="list-square">
@@ -288,7 +339,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Hình thành chức năng</strong> [<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-BASE"><strong>Ví dụ 3</strong>: <strong>Hình thành chức năng</strong> [<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -308,7 +359,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã chứa nhiều từ đi kèm hành động, họ nhận diện ngay diện mạo vật lý [VERB PHRASE][ĐỘNG CỤM]. Khối hình thái này sẽ hình thành đầy đủ các chương trình chức năng đầu ra:</p>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="">NOUN-PHRASE<strong>Ví dụ 4.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -336,7 +387,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-PHRASE"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -350,7 +401,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng</strong> [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-PHRASE"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng</strong> [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -541,7 +592,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<h5 className="margin-y-30 text-indent-whole">Phân hệ [conJUNCtional CLAUSE][LIÊN CÂU] (Có Từ Kết Nối)</h5>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.1</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-CLAUSE"><strong>Ví dụ 12.1</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -569,7 +620,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 13</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE"><strong>Ví dụ 13</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]</p>
 
 				<ul className="list-square">
 			
@@ -583,7 +634,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 14</strong>: <strong>Hình thành chức năng</strong> [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-CLAUSE"><strong>Ví dụ 14</strong>: <strong>Hình thành chức năng</strong> [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			

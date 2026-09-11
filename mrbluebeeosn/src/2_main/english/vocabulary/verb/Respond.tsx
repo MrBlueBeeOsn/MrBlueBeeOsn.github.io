@@ -20,6 +20,7 @@ export default function Respond(): React.JSX.Element {
 						
 			<h1 className="margin-y-50 text-center">[reSPOND]</h1>
 
+
         <div className="example">
         
           <p className="example-sentence text-center">
@@ -68,6 +69,7 @@ export default function Respond(): React.JSX.Element {
           </p>
 
         </div>
+      
 
       {/* This is the content of Vocabulary Term. */}
 

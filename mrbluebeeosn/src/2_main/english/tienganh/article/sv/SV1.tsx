@@ -48,6 +48,57 @@ export default function SV1(): React.JSX.Element {
 
 			</h1>
 
+
+			<div className="example">
+										
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-BASE">NOUN BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-BASE">ADjective BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-BASE">ADverb BASE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-PHRASE">NOUN PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-PHRASE">ADjective PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-PHRASE">ADverb PHRASE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-CLAUSE">NOUN CLAUSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-CLAUSE">ADverb CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+			</div>
+
+
 			<h4 className="margin-bottom-30 text-center">Cách Mạng Tư Duy Ngữ Pháp Tiếng Anh Bằng Hệ Trục Tọa Độ "[FUNCtions][LEVels]"</h4>
 
 			<p>Bản chất của việc làm chủ một ngôn ngữ không nằm ở việc học thuộc lòng các quy tắc phức tạp, mà nằm ở khả năng nhìn thấu cấu trúc và quy luật vận hành của nó. Khi các yếu tố cấu trúc được đơn giản hóa thành một bản đồ trực quan, tư duy của người học sẽ được giải phóng hoàn toàn để đạt đến tốc độ phản xạ tự nhiên nhất.</p>
@@ -232,7 +283,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Đơn vị hành động nhỏ nhất gồm 1 yếu tố gốc.</p>
 
-			<ul className="list-square">
+			<ul className="list-square" id="NOUN-BASE">
 			
 					<li>[WRIting] SHARPens the INtellect.</li>
 					<li className="margin-bottom-20 list-none">[Việc viết lách] mài sắc trí tuệ.</li>
@@ -254,7 +305,7 @@ export default function SV1(): React.JSX.Element {
 			
 				</ul>
 			
-				<ul className="list-square">
+				<ul className="list-square" id="ADjective-BASE">
 			
 					<li>the [GROWing] deMAND reQUIRES ACtion.</li>
 					<li className="margin-bottom-20 list-none">Nhu cầu [đang tăng cao] đòi hỏi phải hành động.</li>
@@ -266,7 +317,7 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 			
 			
-				<ul className="list-square">
+				<ul className="list-square" id="ADverb-BASE">
 			
 					<li>the TEAM coOPered [harMOniously].</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ đã hợp tác [một cách hài hòa].</li>
@@ -283,7 +334,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Đơn vị hành động chứa nhiều yếu tố kết hợp, cấu trúc không chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] - [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ]. Khi các dạng [BASE][CƠ] kết hợp với thành phần phụ trợ sau nó, chúng dán nhãn thành dạng cụm tương ứng:</p>
 
-			<ul className="list-square">
+			<ul className="list-square" id="NOUN-PHRASE">
 			
 					<li>[LEARNing a New LANguage] reQUIRES PAtience.</li>
 					<li className="margin-bottom-20 list-none">[Việc học một ngôn ngữ mới] đòi hỏi sự kiên nhẫn.</li>
@@ -306,7 +357,7 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 			
 			
-				<ul className="list-square">
+				<ul className="list-square" id="ADjective-PHRASE">
 			
 					<li>the CHILDren [PLAYing in the PARK] are LAUGHing.</li>
 					<li className="margin-bottom-20 list-none">Những đứa trẻ [đang chơi trong công viên] đang cười.</li>
@@ -318,7 +369,7 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 			
 			
-				<ul className="list-square">
+				<ul className="list-square" id="ADverb-PHRASE">
 			
 					<li>he WOKE UP EARly [to CATCH the TRAIN].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã thức dậy sớm [để bắt kịp chuyến tàu].</li>
@@ -365,7 +416,7 @@ export default function SV1(): React.JSX.Element {
 			<p className="text-indent-whole">Đơn vị hành động phức cao cấp, chứa một cấu trúc [CLAUSE][CÂU] hoàn chỉnh ở bên trong có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] - [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ].</p>
 
 
-			<ul className="list-square">
+			<ul className="list-square" id="NOUN-CLAUSE">
 			
 					<li>[WHAT you SAID] surPRISED me.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn đã nói] đã làm tôi ngạc nhiên.</li>
@@ -388,7 +439,7 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 
 			
-				<ul className="list-square">
+				<ul className="list-square" id="ADjective-CLAUSE">
 			
 					<li>the LAPtop [which i BOUGHT LAST WEEK] WORKS PERfectly.</li>
 					<li className="margin-bottom-20 list-none">Chiếc máy tính xách tay [mà tôi mua tuần trước] hoạt động hoàn hảo.</li>
@@ -400,7 +451,7 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 		
 			
-				<ul className="list-square">
+				<ul className="list-square" id="ADverb-CLAUSE">
 			
 					<li>we CANcelled the PICnic [be<strong>cause</strong> it RAINED HEAVily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa to].</li>

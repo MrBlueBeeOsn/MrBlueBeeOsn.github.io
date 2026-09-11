@@ -48,6 +48,57 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			</h1>
 
+
+			<div className="example">
+										
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#NOUN-BASE">NOUN BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#NOUN-PHRASE">NOUN PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#NOUN-CLAUSE">NOUN CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#ADjective-BASE">ADjective BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-PHRASE">ADjective PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#ADverb-BASE">ADverb BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-PHRASE">ADverb PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADverb-CLAUSE">ADverb CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+			</div>
+
+
 			<h4 className="margin-bottom-30 text-center">Phá Vỡ 12 Thời: Học Tiếng Anh Theo [Tư Duy Lắp Ghép][LEGo asSEMbly]</h4>
 
 			<p>Bạn đã dành bao nhiêu năm cuộc đời để học thuộc lòng những công thức cấu trúc phức tạp? Để rồi mỗi khi định mở miệng nói một câu, bộ nền não lại mất vài giây "đóng băng" để lục tìm trong trí nhớ xem phải chia các mảnh ghép [Lego] ra sao?</p>
@@ -308,7 +359,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="text-indent-whole">Khối này chịu trách nhiệm đóng gói các hành động, thực thể thành một cái tên, một đối tượng để làm [SUBject PROnoun][CHỦ ĐẠI] hoặc phần [OBject PROnoun][TÂN ĐẠI] tiếp nhận tác động trong câu.</p>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>NOUN BASE</strong>][<strong>DANH CƠ</strong>] <strong>cấu tạo từ</strong> [<strong>proGRESSive VERB BASE</strong>][<strong>TIẾP ĐỘNG CƠ</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-BASE">[<strong>NOUN BASE</strong>][<strong>DANH CƠ</strong>] <strong>cấu tạo từ</strong> [<strong>proGRESSive VERB BASE</strong>][<strong>TIẾP ĐỘNG CƠ</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -336,7 +387,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>proGRESSive VERB PHRASE</strong>][<strong>TIẾP ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>proGRESSive VERB PHRASE</strong>][<strong>TIẾP ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -410,7 +461,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-CLAUSE">[<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -457,7 +508,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để mô tả đặc điểm, tính chất hoặc trạng thái cho một đối tượng hoặc cho [SUBject PROnoun][CHỦ ĐẠI].</p>
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADjective BASE</strong>][<strong>DIỆN TÍNH CƠ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-BASE">[<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADjective BASE</strong>][<strong>DIỆN TÍNH CƠ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -471,7 +522,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>proGRESSive VERB PHRASE</strong>][<strong>TIẾP ĐỘNG CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-PHRASE">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>proGRESSive VERB PHRASE</strong>][<strong>TIẾP ĐỘNG CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -520,7 +571,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>PROnoun CLAUSE</strong>][<strong>ĐẠI CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE">[<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>PROnoun CLAUSE</strong>][<strong>ĐẠI CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -552,7 +603,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để mở rộng không gian, [Thời] gian, mục đích, cách thức hoặc nguyên nhân cho hành động chính của câu.</p>
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADverb BASE</strong>][<strong>DIỆN TRẠNG CƠ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-BASE">[<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADverb BASE</strong>][<strong>DIỆN TRẠNG CƠ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -566,7 +617,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN ĐỘNG CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-PHRASE">[<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN ĐỘNG CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -630,7 +681,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 					
-			<p className="margin-top-20 text-indent-whole">[<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-CLAUSE">[<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			

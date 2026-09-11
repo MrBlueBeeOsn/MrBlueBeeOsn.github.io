@@ -48,6 +48,27 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			</h1>
 
+
+			<div className="example">
+										
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#ADjective-BASE">ADjective BASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-PHRASE">ADjective PHRASE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+			</div>
+
+
 			<h4 className="margin-bottom-30 text-center">ĐIỂM MẠNH TƯƠNG ĐỒNG: BƯỚC ĐỘT PHÁ GIÚP NGƯỜI VIỆT THỐNG TRỊ TIẾNG ANH HỌC THUẬT VỀ CHỨC NĂNG [ADjective][TÍNH]</h4>
 
 			<p>Lối mòn tư duy kìm hãm thế hệ người học tại Việt Nam chính là định kiến: cấu trúc tiếng Anh "ngược" với tiếng Việt. Chúng ta thường bị đóng khung trong quy luật sơ cấp: [ADjective BASE][TÍNH CƠ] phải đứng trước [NOUN BASE][DANH CƠ].</p>
@@ -209,7 +230,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Chức năng [ADjective BASE][TÍNH CƠ]</h3>
+			<h3 className="margin-y-50 text-center" id="ADjective-BASE">3. Chức năng [ADjective BASE][TÍNH CƠ]</h3>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>] <strong>cấu tạo từ</strong> [<strong>ROOT ADjective BASE</strong>][<strong>RỄ TÍNH CƠ</strong>] <strong>nguyên bản</strong></p>
 			
@@ -270,7 +291,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Chức năng [ADjective PHRASE][TÍNH CỤM]</h3>
+			<h3 className="margin-y-50 text-center" id="ADjective-PHRASE">4. Chức năng [ADjective PHRASE][TÍNH CỤM]</h3>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>ROOT ADjective PHRASE</strong>][<strong>RỄ TÍNH CỤM</strong>] <strong>nguyên bản</strong></p>
 			
@@ -387,7 +408,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Chức năng [ADjective CLAUSE][TÍNH CÂU]</h3>
+			<h3 className="margin-y-50 text-center" id="ADjective-CLAUSE">5. Chức năng [ADjective CLAUSE][TÍNH CÂU]</h3>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>PROnoun CLAUSE</strong>][<strong>ĐẠI CÂU</strong>]</p>
 			
