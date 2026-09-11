@@ -19,6 +19,21 @@ export default function ClosedAndOpenSyllables(): React.JSX.Element {
 			
 			<h1 className="margin-y-50 text-center">Closed/Open Syllables</h1>
 
+				<div className="example">
+
+					<p className="example-sentence text-center">
+						<span className="highlight-255-padding-0-4 text-border" >
+							<HashLink smooth to="#OPEN-SYLlable">OPEN SYLlable</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#CLOSED-SYLlable">CLOSED SYLlable</HashLink>
+						</span> &nbsp;
+
+				 </p>
+
+				</div>
+
 			{/* This is the content of English Learning Term. */}
 
 			<h4 className="margin-bottom-30 text-center">Easy-to-understand guide to the <strong>Closed</strong>/<strong>Open Syllables</strong> and Long/Short Vowels rule.</h4>
@@ -47,7 +62,7 @@ export default function ClosedAndOpenSyllables(): React.JSX.Element {
 			<p>The syllable division dot · in Merriam-Webster is your golden key to knowing whether a syllable is open or closed.</p>
 
 
-			<h4 className="margin-y-40">1. OPEN Syllable (Ends in a Vowel)</h4>
+			<h4 className="margin-y-40" id="OPEN-SYLlable">1. OPEN Syllable (Ends in a Vowel)</h4>
 					
 			<p className="text-indent-whole">Definition: A syllable that ends in a Vowel (A, E, I, O, U). The door is "wide open" because no consonant is blocking it at the end.</p>
 
@@ -83,7 +98,7 @@ export default function ClosedAndOpenSyllables(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">2. CLOSED Syllable (Ends in a Consonant)</h4>
+			<h4 className="margin-y-40" id="CLOSED-SYLlable">2. CLOSED Syllable (Ends in a Consonant)</h4>
 					
 			<p className="text-indent-whole">Definition: A syllable that ends in one or more Consonants (b, c, d, g, n, t...). The consonant acts like a door slamming shut, locking the vowel inside.</p>
 
