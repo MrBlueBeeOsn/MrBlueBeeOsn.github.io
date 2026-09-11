@@ -19,6 +19,302 @@ export default function IrregularVerbs(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">irREGular VERBS</h1>
 
+			<div className="example">
+													
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#is">is</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#has">has</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#DO">DO</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#GO">GO</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#COME">COME</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#SEE">SEE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#GET">GET</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#MAKE">MAKE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#KNOW">KNOW</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#TAKE">TAKE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#GIVE">GIVE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#WRITE">WRITE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#SPEAK">SPEAK</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#FIND">FIND</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#THINK">THINK</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#TELL">TELL</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#SAY">SAY</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#beCOME">beCOME</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#LEAVE">LEAVE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#FEEL">FEEL</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#PUT">PUT</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#BRING">BRING</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#beGIN">beGIN</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#KEEP">KEEP</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#LET">LET</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#SET">SET</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#READ">READ</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#BUY">BUY</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#SIT">SIT</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#STAND">STAND</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#LOSE">LOSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#PAY">PAY</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#MEET">MEET</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#RUN">RUN</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#EAT">EAT</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#DRINK">DRINK</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#DRIVE">DRIVE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#BREAK">BREAK</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#CHOOSE">CHOOSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#forGET">forGET</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#HEAR">HEAR</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#HOLD">HOLD</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#LEARN">LEARN</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#SEND">SEND</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#SHOW">SHOW</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#SLEEP">SLEEP</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#SWIM">SWIM</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#TEACH">TEACH</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#underSTAND">underSTAND</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#WIN">WIN</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#WEAR">WEAR</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#FLY">FLY</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#FALL">FALL</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#CUT">CUT</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#HIT">HIT</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#HURT">HURT</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#COST">COST</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#BUILD">BUILD</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#CATCH">CATCH</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#THROW">THROW</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#SING">SING</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#V1">V1</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#V2">V2</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#V3">have/has + V3</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#V4">had + V3</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#V5">will have + V3</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#V6">be + V3</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#HOC-NHANH">Học Nhanh</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#CHUYEN-NGAN">Chuyện ngắn</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#Flashcard">Flashcard</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+
+			</div>
+
 			<h4 className="margin-bottom-30 text-center">Bảng đầy đủ & cách sử dụng chi tiết nhất (2025) </h4>
 
 			<p>Hành động bất quy tắc (irREGular VERBS) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như hành động thường. Tuy nhiên, chỉ cần nắm vững khoảng <strong>60–70 hành động phổ biến nhất</strong>, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.</p>
@@ -27,7 +323,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Bảng hành động bất quy tắc phổ biến nhất</h3>
 
-			<h4 className="margin-y-40">1. is</h4>
+			<h4 className="margin-y-40" id="is">1. is</h4>
 			
 				<ul className="list-square">
 			
@@ -46,7 +342,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">2. has</h4>
+			<h4 className="margin-y-40" id="has">2. has</h4>
 			
 				<ul className="list-square">
 			
@@ -65,7 +361,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">3. do</h4>
+			<h4 className="margin-y-40" id="DO">3. DO</h4>
 			
 				<ul className="list-square">
 			
@@ -84,7 +380,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">4. GO</h4>
+			<h4 className="margin-y-40" id="GO">4. GO</h4>
 			
 				<ul className="list-square">
 			
@@ -103,7 +399,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">5. COME</h4>
+			<h4 className="margin-y-40" id="COME">5. COME</h4>
 			
 				<ul className="list-square">
 			
@@ -122,7 +418,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">6. SEE</h4>
+			<h4 className="margin-y-40" id="SEE">6. SEE</h4>
 			
 				<ul className="list-square">
 			
@@ -141,7 +437,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">7. GET</h4>
+			<h4 className="margin-y-40" id="GET">7. GET</h4>
 			
 				<ul className="list-square">
 			
@@ -160,7 +456,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">8. MAKE</h4>
+			<h4 className="margin-y-40" id="MAKE">8. MAKE</h4>
 			
 				<ul className="list-square">
 			
@@ -179,7 +475,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">9. KNOW</h4>
+			<h4 className="margin-y-40" id="KNOW">9. KNOW</h4>
 			
 				<ul className="list-square">
 			
@@ -198,7 +494,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">10. TAKE</h4>
+			<h4 className="margin-y-40" id="TAKE">10. TAKE</h4>
 			
 				<ul className="list-square">
 			
@@ -218,7 +514,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 			
 			
-			<h4 className="margin-y-40">11. GIVE</h4>
+			<h4 className="margin-y-40" id="GIVE">11. GIVE</h4>
 			
 				<ul className="list-square">
 			
@@ -237,7 +533,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">12. WRITES</h4>
+			<h4 className="margin-y-40" id="WRITE">12. WRITE</h4>
 			
 				<ul className="list-square">
 			
@@ -256,7 +552,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">13. SPEAK</h4>
+			<h4 className="margin-y-40" id="SPEAK">13. SPEAK</h4>
 			
 				<ul className="list-square">
 			
@@ -275,7 +571,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">14. FIND</h4>
+			<h4 className="margin-y-40" id="FIND">14. FIND</h4>
 			
 				<ul className="list-square">
 			
@@ -294,7 +590,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">15. THINK</h4>
+			<h4 className="margin-y-40" id="THINK">15. THINK</h4>
 			
 				<ul className="list-square">
 			
@@ -313,7 +609,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">16. TELL</h4>
+			<h4 className="margin-y-40" id="TELL">16. TELL</h4>
 			
 				<ul className="list-square">
 			
@@ -332,7 +628,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">17. SAY</h4>
+			<h4 className="margin-y-40" id="SAY">17. SAY</h4>
 			
 				<ul className="list-square">
 			
@@ -351,7 +647,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">18. beCOME</h4>
+			<h4 className="margin-y-40" id="beCOME">18. beCOME</h4>
 			
 				<ul className="list-square">
 			
@@ -370,7 +666,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">19. LEAVE</h4>
+			<h4 className="margin-y-40" id="LEAVE">19. LEAVE</h4>
 			
 				<ul className="list-square">
 			
@@ -389,7 +685,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">20. FEEL</h4>
+			<h4 className="margin-y-40" id="FEEL">20. FEEL</h4>
 			
 				<ul className="list-square">
 			
@@ -409,7 +705,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 			
 			
-			<h4 className="margin-y-40">21. PUT</h4>
+			<h4 className="margin-y-40" id="PUT">21. PUT</h4>
 			
 				<ul className="list-square">
 			
@@ -428,7 +724,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">22. BRINGS</h4>
+			<h4 className="margin-y-40" id="BRING">22. BRING</h4>
 			
 				<ul className="list-square">
 			
@@ -447,7 +743,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">23. beGIN</h4>
+			<h4 className="margin-y-40" id="beGIN">23. beGIN</h4>
 			
 				<ul className="list-square">
 			
@@ -466,7 +762,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">24. KEEP</h4>
+			<h4 className="margin-y-40" id="KEEP">24. KEEP</h4>
 			
 				<ul className="list-square">
 			
@@ -485,7 +781,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">25. LET</h4>
+			<h4 className="margin-y-40" id="LET">25. LET</h4>
 			
 				<ul className="list-square">
 			
@@ -504,7 +800,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">26. SET</h4>
+			<h4 className="margin-y-40" id="SET">26. SET</h4>
 			
 				<ul className="list-square">
 			
@@ -523,7 +819,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">27. READ</h4>
+			<h4 className="margin-y-40" id="READ">27. READ</h4>
 			
 				<ul className="list-square">
 			
@@ -542,7 +838,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">28. BUY</h4>
+			<h4 className="margin-y-40" id="BUY">28. BUY</h4>
 			
 				<ul className="list-square">
 			
@@ -561,7 +857,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">29. SIT</h4>
+			<h4 className="margin-y-40" id="SIT">29. SIT</h4>
 			
 				<ul className="list-square">
 			
@@ -580,7 +876,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">30. STAND</h4>
+			<h4 className="margin-y-40" id="STAND">30. STAND</h4>
 			
 				<ul className="list-square">
 			
@@ -600,7 +896,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 			
 			
-			<h4 className="margin-y-40">31. LOSE</h4>
+			<h4 className="margin-y-40" id="LOSE">31. LOSE</h4>
 			
 				<ul className="list-square">
 			
@@ -619,7 +915,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">32. PAY</h4>
+			<h4 className="margin-y-40" id="PAY">32. PAY</h4>
 			
 				<ul className="list-square">
 			
@@ -638,7 +934,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">33. MEET</h4>
+			<h4 className="margin-y-40" id="MEET">33. MEET</h4>
 			
 				<ul className="list-square">
 			
@@ -657,7 +953,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">34. RUN</h4>
+			<h4 className="margin-y-40" id="RUN">34. RUN</h4>
 			
 				<ul className="list-square">
 			
@@ -676,7 +972,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">35. EAT</h4>
+			<h4 className="margin-y-40" id="EAT">35. EAT</h4>
 			
 				<ul className="list-square">
 			
@@ -695,7 +991,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">36. DRINK</h4>
+			<h4 className="margin-y-40" id="DRINK">36. DRINK</h4>
 			
 				<ul className="list-square">
 			
@@ -714,7 +1010,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">37. DRIVE</h4>
+			<h4 className="margin-y-40" id="DRIVE">37. DRIVE</h4>
 			
 				<ul className="list-square">
 			
@@ -733,7 +1029,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">38. BREAK</h4>
+			<h4 className="margin-y-40" id="BREAK">38. BREAK</h4>
 			
 				<ul className="list-square">
 			
@@ -752,7 +1048,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">39. CHOOSE</h4>
+			<h4 className="margin-y-40" id="CHOOSE">39. CHOOSE</h4>
 			
 				<ul className="list-square">
 			
@@ -771,7 +1067,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">40. forGET</h4>
+			<h4 className="margin-y-40" id="forGET">40. forGET</h4>
 			
 				<ul className="list-square">
 			
@@ -791,7 +1087,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 			
 			
-			<h4 className="margin-y-40">41. HEAR</h4>
+			<h4 className="margin-y-40" id="HEAR">41. HEAR</h4>
 			
 				<ul className="list-square">
 			
@@ -810,7 +1106,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">42. HOLD</h4>
+			<h4 className="margin-y-40" id="HOLD">42. HOLD</h4>
 			
 				<ul className="list-square">
 			
@@ -829,7 +1125,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">43. LEARN</h4>
+			<h4 className="margin-y-40" id="LEARN">43. LEARN</h4>
 			
 				<ul className="list-square">
 			
@@ -848,7 +1144,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">44. SEND</h4>
+			<h4 className="margin-y-40" id="SEND">44. SEND</h4>
 			
 				<ul className="list-square">
 			
@@ -867,7 +1163,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">45. SHOW</h4>
+			<h4 className="margin-y-40" id="SHOW">45. SHOW</h4>
 			
 				<ul className="list-square">
 			
@@ -886,7 +1182,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">46. SLEEP</h4>
+			<h4 className="margin-y-40" id="SLEEP">46. SLEEP</h4>
 			
 				<ul className="list-square">
 			
@@ -905,7 +1201,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">47. SWIM</h4>
+			<h4 className="margin-y-40" id="SWIM">47. SWIM</h4>
 			
 				<ul className="list-square">
 			
@@ -924,7 +1220,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">48. TEACH</h4>
+			<h4 className="margin-y-40" id="TEACH">48. TEACH</h4>
 			
 				<ul className="list-square">
 			
@@ -943,7 +1239,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">49. underSTAND</h4>
+			<h4 className="margin-y-40" id="underSTAND">49. underSTAND</h4>
 			
 				<ul className="list-square">
 			
@@ -962,7 +1258,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">50. WIN</h4>
+			<h4 className="margin-y-40" id="WIN">50. WIN</h4>
 			
 				<ul className="list-square">
 			
@@ -981,7 +1277,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">51. WEAR</h4>
+			<h4 className="margin-y-40" id="WEAR">51. WEAR</h4>
 			
 				<ul className="list-square">
 			
@@ -1000,7 +1296,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">52. FLY</h4>
+			<h4 className="margin-y-40" id="FLY">52. FLY</h4>
 			
 				<ul className="list-square">
 			
@@ -1019,7 +1315,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">53. FALL</h4>
+			<h4 className="margin-y-40" id="FALL">53. FALL</h4>
 			
 				<ul className="list-square">
 			
@@ -1038,7 +1334,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">54. CUT</h4>
+			<h4 className="margin-y-40" id="CUT">54. CUT</h4>
 			
 				<ul className="list-square">
 			
@@ -1057,7 +1353,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">55. HIT</h4>
+			<h4 className="margin-y-40" id="HIT">55. HIT</h4>
 			
 				<ul className="list-square">
 			
@@ -1076,7 +1372,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">56. HURT</h4>
+			<h4 className="margin-y-40" id="HURT">56. HURT</h4>
 			
 				<ul className="list-square">
 			
@@ -1095,7 +1391,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">57. COST</h4>
+			<h4 className="margin-y-40" id="COST">57. COST</h4>
 			
 				<ul className="list-square">
 			
@@ -1114,7 +1410,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">58. BUILD</h4>
+			<h4 className="margin-y-40" id="BUILD">58. BUILD</h4>
 			
 				<ul className="list-square">
 			
@@ -1133,7 +1429,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">59. CATCH</h4>
+			<h4 className="margin-y-40" id="CATCH">59. CATCH</h4>
 			
 				<ul className="list-square">
 			
@@ -1152,7 +1448,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">60. THROW</h4>
+			<h4 className="margin-y-40" id="THROW">60. THROW</h4>
 			
 				<ul className="list-square">
 			
@@ -1171,7 +1467,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">61. SING</h4>
+			<h4 className="margin-y-40" id="SING">61. SING</h4>
 			
 				<ul className="list-square">
 			
@@ -1194,7 +1490,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 
 			{/* V1: Nguyên thể / Hiện tại */}
 
-			<h4>V1: ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (Present Simple) (thêm s/es cho he/she/it)</h4>
+			<h4 id="V1">V1: ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (Present Simple) (thêm s/es cho he/she/it)</h4>
 
 			<p className="margin-top-20">Dùng để diễn tả thói quen, sự thật hiển nhiên, hoặc hành động lặp lại.</p>
 			
@@ -1207,7 +1503,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 
 			{/* V2: ⏳ Thời Gian Hành Động ở Quá Khứ Đơn */}
 
-			<h4 className="margin-top-20">V2: ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (Past Simple)</h4>
+			<h4 className="margin-top-20" id="V2">V2: ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (Past Simple)</h4>
 
 			<p className="margin-top-20 text-indent-whole">Dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ, thường đi kèm các từ chỉ thời gian như yesterday, last week, ago.</p>
 			
@@ -1220,7 +1516,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 
 			{/* V3: Quá khứ phân từ (Past Participle) */}
 
-			<h4 className="margin-top-20">V3: Quá khứ phân từ (Past Participle)</h4>
+			<h4 className="margin-top-20" id="V3">V3: Quá khứ phân từ (Past Participle)</h4>
 
 			<p className="margin-top-20">1️⃣ 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (have/has + V3)</p>
 
@@ -1233,7 +1529,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">2️⃣ 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (had + V3)</p>
+			<p className="margin-top-20" id="V4">2️⃣ 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (had + V3)</p>
 
 			<p className="margin-top-20 text-indent-whole">Dùng để diễn tả hành động xảy ra trước một hành động khác trong quá khứ.</p>
 			
@@ -1244,7 +1540,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">3️⃣ 📏 Khoảng Thời Gian Hành Động ở Tương Lai Hoàn Thành (will have + V3)</p>
+			<p className="margin-top-20" id="V5">3️⃣ 📏 Khoảng Thời Gian Hành Động ở Tương Lai Hoàn Thành (will have + V3)</p>
 
 			<p className="margin-top-20 text-indent-whole">Dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm trong tương lai.</p>
 			
@@ -1255,7 +1551,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				</ul>
 					
-			<p className="margin-top-20">4️⃣ Thể bị động (be + V3)</p>
+			<p className="margin-top-20" id="V6">4️⃣ Thể bị động (be + V3)</p>
 
 			<p className="margin-top-20 text-indent-whole">Dùng để nhấn mạnh hành động hoặc đối tượng chịu tác động, không nhấn mạnh người thực hiện.</p>
 			
@@ -1266,7 +1562,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				</ul>
 
-			<h3 className="margin-y-50 text-center">Mẹo học nhanh & nhớ lâu (được hàng ngàn học viên áp dụng thành công)</h3>
+			<h3 className="margin-y-50 text-center" id="HOC-NHANH">Mẹo học nhanh & nhớ lâu (được hàng ngàn học viên áp dụng thành công)</h3>
 
 			<h4 className="margin-top-30 margin-bottom-20">1. Học theo nhóm có quy luật phát âm (rất hiệu quả):</h4>
 					
@@ -1283,7 +1579,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">2. Học theo câu chuyện ngắn:</h4>
+			<h4 className="margin-y-40" id="CHUYEN-NGAN">2. Học theo câu chuyện ngắn:</h4>
 			
 				<ul className="list-square">
 			
@@ -1301,7 +1597,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-top-30 margin-bottom-20">3. Flashcard 3 mặt (rất mạnh):</h4>
+			<h4 className="margin-top-30 margin-bottom-20" id="Flashcard">3. Flashcard 3 mặt (rất mạnh):</h4>
 					
 				<ul className="list-square">
 			
