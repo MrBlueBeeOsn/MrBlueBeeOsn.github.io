@@ -325,7 +325,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADJECTIVE-BASE"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>TÍNH CƠ</strong>][<strong>ADJECTIVE BASE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-BASE"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -339,7 +339,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADVERB-BASE"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>TRẠNG CƠ</strong>][<strong>ADVERB BASE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-BASE"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -386,7 +386,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADJECTIVE-PHRASE"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>TÍNH CỤM</strong>][<strong>ADJECTIVE PHRASE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-PHRASE"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -400,7 +400,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADVERB-PHRASE"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>TRẠNG CỤM</strong>][<strong>ADVERB PHRASE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-PHRASE"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -418,7 +418,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="text-indent-whole">Là khối không bắt đầu bằng một từ hành động, mà được định hình bắt đầu bằng một [prepoSITional BASE][GIỚI CƠ] chỉ quan hệ kết hợp với một [OBject PROnoun][TÂN ĐẠI] phía sau.</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>TÍNH CỤM</strong>][<strong>ADJECTIVE PHRASE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -432,7 +432,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>TRẠNG CỤM</strong>][<strong>ADVERB PHRASE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -480,7 +480,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADJECTIVE-CLAUSE"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADJECTIVE CLAUSE</strong>][<strong>TÍNH CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -494,16 +494,16 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADVERB-CLAUSE"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADVERB CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-CLAUSE"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>we will HALT proDUCtion [unless the QUAlity STANdard imPROVES].</li>
+					<li>we will HALT proDUCtion [un<strong>less</strong> the QUAlity STANdard imPROVES].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ dừng sản xuất [ngoại trừ khi tiêu chuẩn chất lượng cải thiện].</li>
 			
-					<li className="list-none">Hình thái: Khối [unless the QUAlity STANdard imPROVES] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] điều kiện "unless" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the QUAlity STANdard" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "imPROVES".</li>
+					<li className="list-none">Hình thái: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the QUAlity STANdard" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "imPROVES".</li>
 			
-					<li className="list-none">Chức năng: Khối [unless the QUAlity STANdard imPROVES] - [ADverb CLAUSE][TRẠNG CÂU] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ] "will".</li>
+					<li className="list-none">Chức năng: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [ADverb CLAUSE][TRẠNG CÂU] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ] "will".</li>
 			
 				</ul>
 
@@ -529,7 +529,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>ADJECTIVE CLAUSE</strong>][<strong>TÍNH CÂU</strong>]:</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -543,7 +543,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>ADVERB CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]:</p>
+			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -613,7 +613,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 
 
-			<h4 className="margin-y-40">2. [TÍNH CỤM][ADJECTIVE PHRASE]</h4>
+			<h4 className="margin-y-40">2. [TÍNH CỤM][ADjective PHRASE]</h4>
 			
 				<ul className="list-square">
 			
@@ -636,7 +636,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 
-			<h4 className="margin-y-40">3. [TRẠNG CỤM][ADVERB PHRASE]</h4>
+			<h4 className="margin-y-40">3. [TRẠNG CỤM][ADverb PHRASE]</h4>
 			
 				<ul className="list-square">
 			

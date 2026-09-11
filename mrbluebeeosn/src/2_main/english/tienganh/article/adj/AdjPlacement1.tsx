@@ -410,7 +410,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center" id="ADjective-CLAUSE">5. Chức năng [ADjective CLAUSE][TÍNH CÂU]</h3>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>PROnoun CLAUSE</strong>][<strong>ĐẠI CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>SUBject PROnoun CLAUSE</strong>][<strong>CHỦ ĐẠI CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -424,7 +424,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>PROnoun CLAUSE</strong>][<strong>ĐẠI CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro-OBject PROnoun CLAUSE</strong>][<strong>ẨN-TÂN ĐẠI CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			

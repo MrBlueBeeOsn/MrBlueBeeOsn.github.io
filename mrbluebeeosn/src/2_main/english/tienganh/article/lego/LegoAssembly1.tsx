@@ -571,7 +571,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE">[<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>PROnoun CLAUSE</strong>][<strong>ĐẠI CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE">[<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>SUBject PROnoun CLAUSE</strong>][<strong>CHỦ ĐẠI CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			

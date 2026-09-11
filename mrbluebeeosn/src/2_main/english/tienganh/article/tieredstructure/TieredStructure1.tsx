@@ -359,7 +359,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã chứa nhiều từ đi kèm hành động, họ nhận diện ngay diện mạo vật lý [VERB PHRASE][ĐỘNG CỤM]. Khối hình thái này sẽ hình thành đầy đủ các chương trình chức năng đầu ra:</p>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="">NOUN-PHRASE<strong>Ví dụ 4.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE"><strong>Ví dụ 4.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
