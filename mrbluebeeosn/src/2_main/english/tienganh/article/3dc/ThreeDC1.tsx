@@ -722,7 +722,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>the CODE [which acCELerates the RENdering PROcess] reQUIRES optimiZAtion.</li>
+					<li>the CODE [which acCELerates the RENdering PROcess] reQUIres optimiZAtion.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [mà tăng tốc quy trình kết xuất] cần được tối ưu hóa.</li>
 			
 					<li className="list-none">Hình thái: Khối [which acCELerates the RENdering PROcess] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] bắt đầu bằng [SUBject PROnoun BASE][CHỦ ĐẠI CƠ] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates".</li>
@@ -739,7 +739,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>the [RENdering-acCELerating] CODE reQUIRES optimiZAtion.</li>
+					<li>the [RENdering-acCELerating] CODE reQUIres optimiZAtion.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [tăng-tốc-kết-xuất] cần được tối ưu hóa.</li>
 			
 					<li className="list-none">Hình thái: Khối [RENdering-acCELerating] - [MODified ADjective BASE][DIỆN TÍNH CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "acCELerate" mặc thêm (kết hợp) tiền tố thành phần [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] "RENdering-" và hậu tố "-ING" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] có cấu hình ghép.</li>
@@ -756,7 +756,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>the CODE [acCELerating the RENdering PROcess] reQUIRES optimiZAtion.</li>
+					<li>the CODE [acCELerating the RENdering PROcess] reQUIres optimiZAtion.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [đang tăng tốc quy trình kết xuất] cần được tối ưu hóa.</li>
 			
 					<li className="list-none">Hình thái: Khối [acCELerating the RENdering PROcess] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng phân từ đuôi "-ing" và có thành phần bổ trợ đi kèm.</li>

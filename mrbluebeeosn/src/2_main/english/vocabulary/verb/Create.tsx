@@ -213,7 +213,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIRES a [creAtive] TEAM.</li>
+          <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIres a [creAtive] TEAM.</li>
           <li className="margin-bottom-20 list-none">Mỗi bộ phận thiết kế sản phẩm đều yêu cầu một đội ngũ [có tính sáng tạo].</li>
       
           <li className="list-none">Hình thái: [creAtive] - [MODified ADjective BASE][DIỆN TÍNH CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] có khả năng mô tả tính chất đặc điểm.</li>
@@ -249,12 +249,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[CreAting MODern DIGital soLUtions] reQUIRES DEEP TECHnical KNOWledge.</li>
+          <li>[CreAting MODern DIGital soLUtions] reQUIres DEEP TECHnical KNOWledge.</li>
           <li className="margin-bottom-20 list-none">[Việc tạo ra các giải pháp kỹ thuật số hiện đại] đòi hỏi kiến thức kỹ thuật sâu rộng.</li>
       
           <li className="list-none">Hình thái: [CreAting MODern DIGital soLUtions] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] phát triển từ [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] "CreAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [CreAting MODern DIGital soLUtions] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIRES DEEP TECHnical KNOWledge" để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Chức năng: [CreAting MODern DIGital soLUtions] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres DEEP TECHnical KNOWledge" để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
 
@@ -726,7 +726,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[To underSTAND {'{how the SYStem creATES AUtomated rePORTS}'}] reQUIRES TECHnical SKILLS.</li>
+          <li>[To underSTAND {'{how the SYStem creATES AUtomated rePORTS}'}] reQUIres TECHnical SKILLS.</li>
           <li className="margin-bottom-20 list-none">[Việc hiểu {'{cách hệ thống tạo ra các báo cáo tự động}'}] đòi hỏi các kỹ năng kỹ thuật.</li>
       
         </ul>
@@ -737,7 +737,7 @@ export default function Create(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [To underSTAND {'{how the SYStem creATES AUtomated rePORTS}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [To underSTAND {'{how the SYStem creATES AUtomated rePORTS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIRES TECHnical SKILLS" để quản lý khối đầu việc ở đầu câu.</li>
+          <li className="list-none">Chức năng: [To underSTAND {'{how the SYStem creATES AUtomated rePORTS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres TECHnical SKILLS" để quản lý khối đầu việc ở đầu câu.</li>
       
         </ul>
 
@@ -892,12 +892,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[CreAting HIGH-IMpact CONtent] reQUIRES proFESsional dediCAtion.</li>
+          <li>[CreAting HIGH-IMpact CONtent] reQUIres proFESsional dediCAtion.</li>
           <li className="margin-bottom-20 list-none">[Việc tạo ra nội dung có sức tác động cao] đòi hỏi sự tận tụy chuyên nghiệp.</li>
       
           <li className="list-none">Hình thái gốc: [CreAting HIGH-IMpact CONtent] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] biểu hiện dưới dạng khối mã mở rộng chứa hành động và đối tượng đi kèm.</li>
       
-          <li className="list-none">Chức năng: [CreAting HIGH-IMpact CONtent] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIRES proFESsional dediCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Chức năng: [CreAting HIGH-IMpact CONtent] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
       
@@ -906,12 +906,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[DeVEloping efFECtive proMOtional maTErial] reQUIRES proFESsional dediCAtion.</li>
+          <li>[DeVEloping efFECtive proMOtional maTErial] reQUIres proFESsional dediCAtion.</li>
           <li className="margin-bottom-20 list-none">[Việc phát triển tài liệu quảng bá hiệu quả] đòi hỏi sự tận tụy chuyên nghiệp.</li>
       
           <li className="list-none">Hình thái mới: [DeVEloping efFECtive proMOtional maTErial] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Chức năng mới: [DeVEloping efFECtive proMOtional maTErial] - [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIRES proFESsional dediCAtion" của khối cũ.</li>
+          <li className="list-none">Chức năng mới: [DeVEloping efFECtive proMOtional maTErial] - [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" của khối cũ.</li>
       
         </ul>
 

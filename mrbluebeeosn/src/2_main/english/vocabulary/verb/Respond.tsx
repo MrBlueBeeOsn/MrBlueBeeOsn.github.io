@@ -213,7 +213,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li><strong>ever</strong>y CUStomer SERvice dePARTment reQUIRES a [reSPONsive] TEAM.</li>
+          <li><strong>ever</strong>y CUStomer SERvice dePARTment reQUIres a [reSPONsive] TEAM.</li>
           <li className="margin-bottom-20 list-none">Mỗi bộ phận dịch vụ khách hàng đều yêu cầu một đội ngũ [có độ phản hồi tốt/nhanh nhạy].</li>
       
           <li className="list-none">Hình thái: [reSPONsive] - [MODified ADjective BASE][DIỆN TÍNH CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "reSPOND" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] có khả năng mô tả tính chất đặc điểm.</li>
@@ -249,12 +249,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[reSPONDing QUICKly to eMERgency CALLS] reQUIRES PROPer prepaRAtion.</li>
+          <li>[reSPONDing QUICKly to eMERgency CALLS] reQUIres PROPer prepaRAtion.</li>
           <li className="margin-bottom-20 list-none">[Việc phản hồi nhanh chóng với các cuộc gọi khẩn cấp] đòi hỏi sự chuẩn bị kỹ lưỡng.</li>
       
           <li className="list-none">Hình thái: [reSPONDing QUICKly to eMERgency CALLS] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] phát triển từ [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [reSPONDing QUICKly to eMERgency CALLS] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIRES PROPer prepaRAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Chức năng: [reSPONDing QUICKly to eMERgency CALLS] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres PROPer prepaRAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
 
@@ -726,7 +726,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[To underSTAND {'{how the SYStem reSPONDS to NETwork FAIlures}'}] reQUIRES RIGorous TESting.</li>
+          <li>[To underSTAND {'{how the SYStem reSPONDS to NETwork FAIlures}'}] reQUIres RIGorous TESting.</li>
           <li className="margin-bottom-20 list-none">[Việc hiểu {'{cách hệ thống phản hồi đối với các sự cố mạng}'}] đòi hỏi sự kiểm thử nghiêm ngặt.</li>
       
         </ul>
@@ -737,7 +737,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [To underSTAND {'{how the SYStem reSPONDS to NETwork FAIlures}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [To underSTAND {'{how the SYStem reSPONDS to NETwork FAIlures}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIRES RIGorous TESting" để quản lý khối đầu việc ở đầu câu.</li>
+          <li className="list-none">Chức năng: [To underSTAND {'{how the SYStem reSPONDS to NETwork FAIlures}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres RIGorous TESting" để quản lý khối đầu việc ở đầu câu.</li>
       
         </ul>
 
@@ -790,7 +790,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>it reQUIRES experTISE [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}].</li>
+          <li>it reQUIres experTISE [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}].</li>
           <li className="margin-bottom-20 list-none">Nó đòi hỏi chuyên môn [để đánh giá {'{cách ứng dụng phản hồi đối với lưu lượng truy cập cao}'}].</li>
       
         </ul>
@@ -801,7 +801,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "to eVALuate" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [SUBject PROnoun][CHỦ ĐẠI] bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" trong cấu trúc [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIRES experTISE".</li>
+          <li className="list-none">Chức năng: [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [SUBject PROnoun][CHỦ ĐẠI] bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" trong cấu trúc [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres experTISE".</li>
       
         </ul>
 
@@ -892,12 +892,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[reSPONDing PROMPTly to CLIent QUEries] reQUIRES proFESsional communiCAtion.</li>
+          <li>[reSPONDing PROMPTly to CLIent QUEries] reQUIres proFESsional communiCAtion.</li>
           <li className="margin-bottom-20 list-none">[Việc phản hồi kịp thời các truy vấn của khách hàng] đòi hỏi giao tiếp chuyên nghiệp.</li>
       
           <li className="list-none">Hình thái gốc: [reSPONDing PROMPTly to CLIent QUEries] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] biểu hiện dưới dạng khối mã mở rộng chứa hành động và đối tượng đi kèm.</li>
       
-          <li className="list-none">Chức năng: [reSPONDing PROMPTly to CLIent QUEries] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIRES proFESsional communiCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Chức năng: [reSPONDing PROMPTly to CLIent QUEries] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres proFESsional communiCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
       
@@ -906,12 +906,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[ANswering CUStomer reQUESTS efFIciently] reQUIRES proFESsional communiCAtion.</li>
+          <li>[ANswering CUStomer reQUESTS efFIciently] reQUIres proFESsional communiCAtion.</li>
           <li className="margin-bottom-20 list-none">[Việc trả lời các yêu cầu của khách hàng một cách hiệu quả] đòi hỏi giao tiếp chuyên nghiệp.</li>
       
           <li className="list-none">Hình thái mới: [ANswering CUStomer reQUESTS efFIciently] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Chức năng mới: [ANswering CUStomer reQUESTS efFIciently] - [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIRES proFESsional communiCAtion" của khối cũ.</li>
+          <li className="list-none">Chức năng mới: [ANswering CUStomer reQUESTS efFIciently] - [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres proFESsional communiCAtion" của khối cũ.</li>
       
         </ul>
 

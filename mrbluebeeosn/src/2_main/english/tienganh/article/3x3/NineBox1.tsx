@@ -270,7 +270,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[conFIGuring] reQUIRES PROper forMATting RULES.</li>
+					<li>[conFIGuring] reQUIres PROper forMATting RULES.</li>
 					<li className="margin-bottom-20 list-none">[Việc cấu hình] yêu cầu các quy tắc định dạng phù hợp.</li>
 			
 					<li className="list-none">Hình thái: [conFIGuring] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] "conFIGure" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
@@ -559,7 +559,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>it reQUIRES DEEP TECHnical KNOWledge [to underSTAND {'{how the DAtabase HANdles the WORKload}'}].</li>
+					<li>it reQUIres DEEP TECHnical KNOWledge [to underSTAND {'{how the DAtabase HANdles the WORKload}'}].</li>
 					<li className="margin-bottom-20 list-none">Nó yêu cầu kiến thức kỹ thuật chuyên sâu [để hiểu {'{cách cơ sở dữ liệu xử lý khối lượng công việc}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
@@ -572,7 +572,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối {'{how the DAtabase HANdles the WORKload}'} bên trong đóng vai trò làm [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối hành động trực tiếp từ [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "to underSTAND".</li>
 
-					<li className="list-none">Và toàn bộ khối tổng thể [to underSTAND {'{how the DAtabase HANdles the WORKload}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIRES DEEP TECHnical KNOWledge" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Và toàn bộ khối tổng thể [to underSTAND {'{how the DAtabase HANdles the WORKload}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres DEEP TECHnical KNOWledge" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 
@@ -604,7 +604,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the SOURCE CODE [for {'{WHAT the TEAM dePLOYED YESterday}'}] reQUIRES a seCUrity AUdit.</li>
+					<li>the SOURCE CODE [for {'{WHAT the TEAM dePLOYED YESterday}'}] reQUIres a seCUrity AUdit.</li>
 					<li className="margin-bottom-20 list-none">Mã nguồn [cho {'{những gì đội ngũ triển khai ngày hôm qua}'}] yêu cầu một cuộc kiểm toán bảo mật.</li>
 
 					<li className="list-none">Hình thái:</li>

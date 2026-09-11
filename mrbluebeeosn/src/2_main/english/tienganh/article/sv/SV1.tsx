@@ -307,7 +307,7 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square" id="ADjective-BASE">
 			
-					<li>the [GROWing] deMAND reQUIRES ACtion.</li>
+					<li>the [GROWing] deMAND reQUIres ACtion.</li>
 					<li className="margin-bottom-20 list-none">Nhu cầu [đang tăng cao] đòi hỏi phải hành động.</li>
 			
 					<li className="list-none">Hình thái: [GROWing] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "GROW" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] phản ánh trạng thái đang vận động liên tục.</li>
@@ -336,7 +336,7 @@ export default function SV1(): React.JSX.Element {
 
 			<ul className="list-square" id="NOUN-PHRASE">
 			
-					<li>[LEARNing a New LANguage] reQUIRES PAtience.</li>
+					<li>[LEARNing a New LANguage] reQUIres PAtience.</li>
 					<li className="margin-bottom-20 list-none">[Việc học một ngôn ngữ mới] đòi hỏi sự kiên nhẫn.</li>
 			
 					<li className="list-none">Hình thái: [LEARNing a New LANguage] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] - [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ].</li>

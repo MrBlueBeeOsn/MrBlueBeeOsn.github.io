@@ -391,12 +391,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[deSIGNing SYStem ARchitecture] reQUIRES DEEP experTISE.</li>
+					<li>[deSIGNing SYStem ARchitecture] reQUIres DEEP experTISE.</li>
 					<li className="margin-bottom-20 list-none">[Việc thiết kế kiến trúc hệ thống] đòi hỏi chuyên môn sâu.</li>
 
 					<li className="list-none">Hình thái: [deSIGNing SYStem ARchitecture] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] deSIGNing phối hợp với khối định danh mục tiêu SYStem ARchitecture chịu tác động đi liền phía sau để làm rõ đối tượng được thiết kế.</li>
 
-					<li className="list-none">Chức năng: [deSIGNing SYStem ARchitecture] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước điều phối hạt nguồn [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] reQUIRES.</li>
+					<li className="list-none">Chức năng: [deSIGNing SYStem ARchitecture] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước điều phối hạt nguồn [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] reQUIres.</li>
 			
 				</ul>
 			
