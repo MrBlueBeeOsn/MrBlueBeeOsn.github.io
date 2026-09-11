@@ -595,6 +595,17 @@
       "likes": 0
     },
     {
+      "id": "EDSounds",
+      "categoryDisplay": "Pronunciation",
+      "categorySlug": "pronunciation",
+      "title": "ED Sounds",
+      "content": "ED Sounds",
+      "slug": "pronunciation/ED-sounds",
+      "date": "2026-09-11",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "BayDauPhuPhienAmTiengAnh1",
       "categoryDisplay": "Tiếng Anh",
       "categorySlug": "tieng-anh",

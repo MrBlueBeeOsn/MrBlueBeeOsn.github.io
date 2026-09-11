@@ -135,6 +135,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const UnstressedWords = lazy(() => import('@/2_main/english/pronunciation/UnstressedWords'));
 	const VowelSystem = lazy(() => import('@/2_main/english/pronunciation/VowelSystem'));
 	const ClosedAndOpenSyllables = lazy(() => import('@/2_main/english/pronunciation/ClosedAndOpenSyllables'));
+	const EDSounds = lazy(() => import('@/2_main/english/pronunciation/EDSounds'));
 
 	// 4. Tiếng Anh
 	const TiengAnhIndex = lazy(() => import('@/2_main/english/_indexes/TiengAnhIndex'));
@@ -744,6 +745,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/pronunciation/unstressed-words" element={<UnstressedWords />} />
 					<Route path="/pronunciation/5-vowel-system" element={<VowelSystem />} />
 					<Route path="/pronunciation/closed-and-open-syllables" element={<ClosedAndOpenSyllables />} />
+					<Route path="/pronunciation/ED-sounds" element={<EDSounds />} />
 					
 					{/* 4. Tiếng Anh */}
 					<Route path="/tieng-anh" element={<TiengAnhIndex />} />

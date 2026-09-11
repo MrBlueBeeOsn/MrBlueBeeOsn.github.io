@@ -5,6 +5,7 @@ import EnglishTopic from '@/components/topic/EnglishTopic';
 import SearchComponent from '@/components/search/SearchComponent';
 import VideoSearch2 from '@/components/video/test/VideoSearch2';
 import UNSTRESSED from '@/components/method/UNSTRESSED';
+import DictionaryWidget from '@/components/method/DictionaryWidget';
 
 export default function PronunciationIndex(): React.JSX.Element {
   return (<>
@@ -115,6 +116,12 @@ export default function PronunciationIndex(): React.JSX.Element {
               </div>
             </li>
 
+            <li>
+              <div className="li-content">
+                <Link to="/pronunciation/ED-sounds">ED Sounds</Link>
+              </div>
+            </li>
+
             
 
             
@@ -126,7 +133,8 @@ export default function PronunciationIndex(): React.JSX.Element {
       </div>
 
 
-      <UNSTRESSED />
+      {/* <UNSTRESSED /> */}
+      {/* <DictionaryWidget /> */}
 
     </article>
     

@@ -1,18 +1,27 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
-import { NavLink } from 'react-router-dom';
-import ExternalLink from '@/components/icon/ExternalLink';
-import { useState } from "react";
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
 
-export default function UNSTRESSED(): React.JSX.Element {
-  return (
+export default function EDSounds(): React.JSX.Element {
 
-    // <div className="topic-container">
+	const postId = "EDSounds";
 
-    // <div className="margin-y-50 text-border1 padding-10 highlight-238-padding-4-8">
+	return (<>
 
-    <div className="margin-y-50 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
+	<main className="image image2">
+
+		<article>
+		
+			<h4><HashLink smooth to="/pronunciation#pronunciation-terms"><mark className="highlight-tertiary-padding-4-8">Pronunciation</mark></HashLink></h4>
+			
+			<h1 className="margin-y-50 text-center">ED Sounds</h1>
+
+			{/* This is the content of English Learning Term. */}
+
+			<div className="margin-y-50 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
 			{/* =============================
 				UNSTRESSED
@@ -99,7 +108,31 @@ export default function UNSTRESSED(): React.JSX.Element {
 
 			
 
-		</div>
-    
-  );
+			</div>
+
+			<div className="viewcounter">
+			
+				<div className="post-date no-margin">
+					<span>September 11, 2026 · by Mr.ßEE ·</span>
+				</div>
+
+				<div className="eye-icon no-margin">
+					<EyeIcon />
+				</div>
+
+				<div className="post-date no-margin">
+					<ViewCounter postId={postId} />
+				</div>
+
+				<div className="like-button no-margin">
+					<LikeButton postId={postId} />
+				</div>
+
+			</div>
+
+		</article>
+		
+	</main>
+
+	</>);
 }
