@@ -599,9 +599,9 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>[HOW they BUILD the SYStem] deTERmines sucCESS.</li>
 					<li className="margin-bottom-20 list-none">[Cách mà họ xây dựng hệ thống] quyết định sự thành công.</li>
 
-					<li className="list-none">Hình thái: [HOW they BUILD the SYStem] - [conJUNCtional CLAUSE][LIÊN CÂU] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] kết nối how, có chủ thể "they" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] BUILD.</li>
+					<li className="list-none">Hình thái:  [HOW they BUILD the SYStem] - [conJUNCtional CLAUSE][LIÊN CÂU] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] kết nối HOW, có chủ thể "they" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] BUILD.</li>
 
-					<li className="list-none">Chức năng: [HOW they BUILD the SYStem] - [NOUN CLAUSE][DANH CÂU] đảm nhận nhiệm vụ làm khối [SUBject PROnoun][CHỦ ĐẠI] ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho hành động "deTERmines".</li>
+					<li className="list-none">Chức năng:  [HOW they BUILD the SYStem] - [NOUN CLAUSE][DANH CÂU] đảm nhận nhiệm vụ làm khối [SUBject PROnoun][CHỦ ĐẠI] ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho hành động "deTERmines".</li>
 			
 				</ul>
 

@@ -428,12 +428,12 @@ export default function Clear(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>i know [HOW you clear these system logs].</li>
+          <li>i know  [how you clear these system logs].</li>
           <li className="margin-bottom-20 list-none">Tôi biết [cách mà bạn xóa các nhật ký hệ thống này].</li>
       
-          <li className="list-none">Hình thái: [HOW you clear these system logs] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần liên kết trực quan ở đầu, có [SUBject PROnoun][CHỦ ĐẠI] "you" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "clear" thiết lập phối hợp hành động.</li>
+          <li className="list-none">Hình thái:  [how you clear these system logs] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần liên kết trực quan ở đầu, có [SUBject PROnoun][CHỦ ĐẠI] "you" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "clear" thiết lập phối hợp hành động.</li>
       
-          <li className="list-none">Chức năng: [HOW you clear these system logs] - [NOUN CLAUSE][DANH CÂU] trở thành [OBject PROnoun][TÂN ĐẠI] chứa dữ liệu mục tiêu chịu tác động từ hành động "know".</li>
+          <li className="list-none">Chức năng:  [how you clear these system logs] - [NOUN CLAUSE][DANH CÂU] trở thành [OBject PROnoun][TÂN ĐẠI] chứa dữ liệu mục tiêu chịu tác động từ hành động "know".</li>
       
         </ul>
       

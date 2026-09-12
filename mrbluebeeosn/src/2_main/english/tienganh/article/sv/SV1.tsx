@@ -421,9 +421,9 @@ export default function SV1(): React.JSX.Element {
 					<li>[WHAT you SAID] surPRISED me.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn đã nói] đã làm tôi ngạc nhiên.</li>
 			
-					<li className="list-none">Hình thái: [WHAT you SAID] - [conJUNCtional CLAUSE][LIÊN CÂU] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "SAID", bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "WHAT".</li>
+					<li className="list-none">Hình thái:  [WHAT you SAID] - [conJUNCtional CLAUSE][LIÊN CÂU] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "SAID", bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "WHAT".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [WHAT you SAID] - [NOUN CLAUSE][DANH CÂU] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "surPRISED" để làm [SUBject PROnoun][CHỦ ĐẠI] điều phối hành động cho toàn bộ [Câu Lớn][Sentence].</li>
+					<li className="margin-bottom-20 list-none">Chức năng:  [WHAT you SAID] - [NOUN CLAUSE][DANH CÂU] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "surPRISED" để làm [SUBject PROnoun][CHỦ ĐẠI] điều phối hành động cho toàn bộ [Câu Lớn][Sentence].</li>
 			
 				</ul>
 
@@ -776,9 +776,9 @@ export default function SV1(): React.JSX.Element {
 					<li>[WHAT you KNOW] is POWer.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn biết] tạo nên sức mạnh.</li>
 			
-					<li className="list-none">Hình thái: [WHAT you KNOW] - [conJUNCtional CLAUSE][LIÊN CÂU] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "KNOW", bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "WHAT".</li>
+					<li className="list-none">Hình thái:  [what you KNOW] - [conJUNCtional CLAUSE][LIÊN CÂU] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "KNOW", bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "WHAT".</li>
 
-					<li className="list-none">Chức năng: [WHAT you KNOW] - [NOUN CLAUSE][DANH CÂU] đứng ở đầu câu tạo nên [SUBject PROnoun][CHỦ ĐẠI] cho toàn câu.</li>
+					<li className="list-none">Chức năng:  [what you KNOW] - [NOUN CLAUSE][DANH CÂU] đứng ở đầu câu tạo nên [SUBject PROnoun][CHỦ ĐẠI] cho toàn câu.</li>
 			
 				</ul>
 			

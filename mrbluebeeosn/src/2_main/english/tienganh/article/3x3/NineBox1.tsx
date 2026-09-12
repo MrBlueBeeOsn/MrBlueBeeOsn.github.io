@@ -411,9 +411,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[HOW the SYStem enCRYPted the DAta] reMAINS a SEcret.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống mã hóa dữ liệu] vẫn là một bí mật.</li>
 			
-					<li className="list-none">Hình thái: [HOW the SYStem enCRYPted the DAta] – [conJUNCtional CLAUSE][LIÊN CÂU] chứa khối kết nối dẫn đường tường minh "How" kết hợp cùng một cấu trúc câu con xoay quanh [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "enCRYPted".</li>
+					<li className="list-none">Hình thái:  [HOW the SYStem enCRYPted the DAta] – [conJUNCtional CLAUSE][LIÊN CÂU] chứa khối kết nối dẫn đường tường minh "HOW" kết hợp cùng một cấu trúc câu con xoay quanh [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "enCRYPted".</li>
 			
-					<li className="list-none">Chức năng: [HOW the SYStem enCRYPted the DAta] – [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reMAINS" chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng:  [HOW the SYStem enCRYPted the DAta] – [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reMAINS" chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 			
@@ -694,9 +694,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[WHAT the DEVops engiNEER upDATed this MORNing] SATisfies the SYStem deMAND.</li>
 					<li className="margin-bottom-20 list-none">[Những gì kỹ sư DevOps cập nhật sáng nay] thỏa mãn yêu cầu của hệ thống.</li>
 			
-					<li className="list-none">Hình thái: [WHAT the DEVops engiNEER upDATed this MORNing] – [conJUNCtional CLAUSE][LIÊN CÂU] chứa cấu trúc kết nối tường minh "What" kết hợp cùng một cấu trúc câu con xoay quanh [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "upDATed".</li>
+					<li className="list-none">Hình thái:  [WHAT the DEVops engiNEER upDATed this MORNing] – [conJUNCtional CLAUSE][LIÊN CÂU] chứa cấu trúc kết nối tường minh "WHAT" kết hợp cùng một cấu trúc câu con xoay quanh [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "upDATed".</li>
 			
-					<li className="list-none">Chức năng: [WHAT the DEVops engiNEER upDATed this MORNing] – [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI], còn "the SYStem deMAND" đóng vai trò làm [NOUN BLOCK][DANH KHỐI] làm [OBject PROnoun][TÂN ĐẠI].</li>
+					<li className="list-none">Chức năng:  [WHAT the DEVops engiNEER upDATed this MORNing] – [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI], còn "the SYStem deMAND" đóng vai trò làm [NOUN BLOCK][DANH KHỐI] làm [OBject PROnoun][TÂN ĐẠI].</li>
 			
 				</ul>
 			

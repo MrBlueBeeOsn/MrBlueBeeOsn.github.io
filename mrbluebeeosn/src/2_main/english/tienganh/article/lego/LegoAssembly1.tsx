@@ -468,9 +468,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>[HOW the SYStem OPerates] deTERmines Overall perFORmance.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống vận hành] quyết định hiệu năng tổng thể.</li>
 
-					<li className="list-none">Hình thái: [HOW the SYStem OPerates] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa [conJUNCtional BASE][LIÊN CƠ] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
+					<li className="list-none">Hình thái:  [HOW the SYStem OPerates] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa [conJUNCtional BASE][LIÊN CƠ] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
 
-					<li className="list-none">Chức năng: [HOW the SYStem OPerates] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] deTERmines.</li>
+					<li className="list-none">Chức năng:  [HOW the SYStem OPerates] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] deTERmines.</li>
 			
 				</ul>
 
@@ -479,12 +479,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>AUditors CHECK [HOW TECHnicians seCURE DAta].</li>
+					<li>AUditors CHECK  [how TECHnicians seCURE DAta].</li>
 					<li className="margin-bottom-20 list-none">Kiểm toán viên kiểm tra [cách các kỹ thuật viên bảo mật dữ liệu].</li>
 
-					<li className="list-none">Hình thái: [HOW TECHnicians seCURE DAta] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa [conJUNCtional BASE][LIÊN CƠ] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
+					<li className="list-none">Hình thái:  [how TECHnicians seCURE DAta] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa [conJUNCtional BASE][LIÊN CƠ] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
 
-					<li className="list-none">Chức năng: [HOW TECHnicians seCURE DAta] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận nội dung thông tin trực tiếp, đứng sau [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] CHECK.</li>
+					<li className="list-none">Chức năng:  [how TECHnicians seCURE DAta] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận nội dung thông tin trực tiếp, đứng sau [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] CHECK.</li>
 			
 				</ul>
 

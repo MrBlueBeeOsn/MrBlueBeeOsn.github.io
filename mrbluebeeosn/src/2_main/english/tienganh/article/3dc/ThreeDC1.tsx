@@ -459,9 +459,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[HOW the TEAM seCURES the FUNding] reMAINS a CRITical QUEStion.</li>
 					<li className="margin-bottom-20 list-none">[Cách mà đội ngũ đảm bảo nguồn vốn] vẫn là một câu hỏi then chốt.</li>
 			
-					<li className="list-none">Hình thái: Khối [HOW the TEAM seCURES the FUNding] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "How" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "seCURES".</li>
+					<li className="list-none">Hình thái: Khối  [HOW the TEAM seCURES the FUNding] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "HOW" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "seCURES".</li>
 			
-					<li className="list-none">Chức năng: Khối [HOW the TEAM seCURES the FUNding] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước điều phối [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reMAINS".</li>
+					<li className="list-none">Chức năng: Khối  [HOW the TEAM seCURES the FUNding] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước điều phối [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reMAINS".</li>
 			
 				</ul>
 
@@ -775,12 +775,12 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>the PROgrammer disCOVered [HOW he could BYpass the seCUrity FIREwall].</li>
+					<li>the PROgrammer disCOVered  [how he could BYpass the seCUrity FIREwall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách mà anh ấy có thể vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: Khối [HOW he could BYpass the seCUrity FIREwall] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "HOW" lồng khối chủ vị hoàn chỉnh có [SOFT-MOdal BARE VERB BASE][Ý-THÁI THUẦN ĐỘNG CƠ] "could".</li>
+					<li className="list-none">Hình thái: Khối  [how he could BYpass the seCUrity FIREwall] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "HOW" lồng khối chủ vị hoàn chỉnh có [SOFT-MOdal BARE VERB BASE][Ý-THÁI THUẦN ĐỘNG CƠ] "could".</li>
 			
-					<li className="list-none">Chức năng: Khối [HOW he could BYpass the seCUrity FIREwall] - [NOUN CLAUSE][DANH CÂU] làm khối [OBject PROnoun][TÂN ĐẠI] nhận tác động trực tiếp của hành động "disCOVered".</li>
+					<li className="list-none">Chức năng: Khối  [how he could BYpass the seCUrity FIREwall] - [NOUN CLAUSE][DANH CÂU] làm khối [OBject PROnoun][TÂN ĐẠI] nhận tác động trực tiếp của hành động "disCOVered".</li>
 			
 				</ul>
 			
@@ -791,12 +791,12 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>the PROgrammer disCOVered [HOW to BYpass the seCUrity FIREwall].</li>
+					<li>the PROgrammer disCOVered  [how to BYpass the seCUrity FIREwall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: Khối [HOW to BYpass the seCUrity FIREwall] - [Liên Cụm][Conjunctional Phrase] bắt đầu bằng biểu hiện nghi vấn [conJUNCtional BASE][LIÊN CƠ] "HOW" dẫn dắt trực tiếp một cấu trúc hành động dạng "to + bare verb".</li>
+					<li className="list-none">Hình thái: Khối  [how to BYpass the seCUrity FIREwall] - [Liên Cụm][Conjunctional Phrase] bắt đầu bằng biểu hiện nghi vấn [conJUNCtional BASE][LIÊN CƠ] "HOW" dẫn dắt trực tiếp một cấu trúc hành động dạng "to + bare verb".</li>
 			
-					<li className="list-none">Chức năng: Khối [HOW to BYpass the seCUrity FIREwall] - [NOUN PHRASE][DANH CỤM] làm khối [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối của hành động "disCOVered".</li>
+					<li className="list-none">Chức năng: Khối  [how to BYpass the seCUrity FIREwall] - [NOUN PHRASE][DANH CỤM] làm khối [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối của hành động "disCOVered".</li>
 			
 				</ul>
 

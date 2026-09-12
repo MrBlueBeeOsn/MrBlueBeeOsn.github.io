@@ -107,7 +107,7 @@ export default function If(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">[Giá mà] tôi biết sự thật sớm hơn thì mọi chuyện đã khác rồi.</li>
 
           <li>WHAT-ifs (NOUN) - Thường dùng số nhiều 'what-ifs' /wɒt ɪfs/ (UK) hoặc /wʌt ɪfs/ (US)</li> 
-          <li className="list-none">STOP WORrying about ALL the [WHAT-ifs] and FOCus on the PRESent.</li>
+          <li className="list-none">STOP WORrying about ALL the  [what-ifs] and FOCus on the PRESent.</li>
           <li className="margin-bottom-20 list-none">Đừng lo lắng về tất cả những điều [nếu như] nữa và hãy tập trung vào hiện tại.</li>
           <li className="list-none">Lưu ý ngữ cảnh: Stop worrying về những điều "nếu như" và hãy tập trung vào hiện tại.</li>
 

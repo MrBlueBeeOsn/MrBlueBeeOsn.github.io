@@ -164,12 +164,12 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i underSTAND [WHAT you MEAN].</li>
+					<li>i underSTAND  [what you MEAN].</li>
 					<li className="list-none">Tôi hiểu [những gì bạn ngụ ý].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm [WHAT you MEAN] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] đứng sau hành động "underSTAND"</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm  [what you MEAN] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] đứng sau hành động "underSTAND"</p>
 
 			{/* 4. Chiến Lược 3 Bước Để Tạo Câu Phức Mượt Mà */}
 
