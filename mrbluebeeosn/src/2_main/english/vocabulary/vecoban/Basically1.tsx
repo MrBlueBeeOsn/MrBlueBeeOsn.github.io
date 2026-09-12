@@ -24,6 +24,43 @@ export default function BAsically1(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                          
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#ADverb">ADverb</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ADjective">ADjective</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#NOUN">NOUN</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#SYNonyms">SYNonyms</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ANtonyms">ANtonyms</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#VoCABulary-LEARNing-TIPS">🌻 VoCABulary LEARNing TIPS</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
       
       <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>BAsically</strong>" nhé.</p>
@@ -62,7 +99,7 @@ export default function BAsically1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>BAsically, i JUST WANT to reLAX.</li>
+          <li id="ADverb">BAsically, i JUST WANT to reLAX.</li>
           <li className="margin-bottom-20 list-none">Về cơ bản, tôi chỉ muốn thư giãn.</li>
 
           <li>BAsically, the PROBlem is that we DON'T have eNOUGH MONey.</li>
@@ -82,10 +119,10 @@ export default function BAsically1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the BAsic iDEa is VEry SIMple.</li>
+          <li id="ADjective">the BAsic iDEa is VEry SIMple.</li>
           <li className="margin-bottom-20 list-none">Ý tưởng cơ bản rất đơn giản.</li>
 
-          <li>the BASE of the PYramid is VEry WIDE.</li>
+          <li id="NOUN">the BASE of the PYramid is VEry WIDE.</li>
           <li className="list-none">Đáy của kim tự tháp rất rộng.</li>
 
         </ul>
@@ -94,7 +131,7 @@ export default function BAsically1(): React.JSX.Element {
             Từ đồng nghĩa:
       ============================= */}
         
-      <p className="margin-top-20">
+      <p className="margin-top-20" id="SYNonyms">
         <mark className="highlight-238-padding-4-8">
           <strong>Từ đồng nghĩa</strong>:
         </mark>
@@ -116,7 +153,7 @@ export default function BAsically1(): React.JSX.Element {
             Từ trái nghĩa:
       ============================= */}
 
-      <p className="margin-top-20">
+      <p className="margin-top-20" id="ANtonyms">
         <mark className="highlight-238-padding-4-8">
           <strong>Từ trái nghĩa</strong>:
         </mark>
@@ -136,7 +173,7 @@ export default function BAsically1(): React.JSX.Element {
             🌻 Mẹo học từ vựng:
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">🌻 Mẹo học từ vựng:</h3>
+      <h3 className="margin-y-50 text-center" id="VoCABulary-LEARNing-TIPS">🌻 Mẹo học từ vựng:</h3>
 
       {/* =============================
             1. Liên kết hình ảnh:

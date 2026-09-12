@@ -19,6 +19,25 @@ export default function When(): React.JSX.Element {
       
       <h1 className="margin-y-50 text-center">when</h1>
 
+      <div className="example">
+                                            
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#ADverb">ADverb</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ADjective">ADjective</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#NOUN">NOUN</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p className="margin-bottom-30">when: (conJUNCTion): Khi. Dùng để kết nối hai câu con, chỉ thời điểm một sự việc xảy ra hoặc một hành động được thực hiện.</p>

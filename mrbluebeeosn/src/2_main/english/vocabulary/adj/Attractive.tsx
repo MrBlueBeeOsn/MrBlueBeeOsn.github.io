@@ -19,6 +19,25 @@ export default function atTRACtive(): React.JSX.Element {
       
       <h1 className="margin-y-50 text-center">atTRACtive</h1>
 
+      <div className="example">
+                                            
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#ADverb">ADverb</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ADjective">ADjective</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#NOUN">NOUN</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p className="margin-bottom-30">[<strong>atTRACtive</strong>] (ADjective): Lôi cuốn, hấp dẫn, có sức hút. Từ này dùng để chỉ người hoặc vật có những đặc điểm gây ra sự chú ý, hứng thú hoặc thiện cảm.</p>

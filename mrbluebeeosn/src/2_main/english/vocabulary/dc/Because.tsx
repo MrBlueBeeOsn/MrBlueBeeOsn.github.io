@@ -19,6 +19,25 @@ export default function Because(): React.JSX.Element {
       
       <h1 className="margin-y-50 text-center">be<strong>cause</strong></h1>
 
+      <div className="example">
+                                            
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#ADverb">ADverb</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ADjective">ADjective</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#NOUN">NOUN</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p className="margin-bottom-30">be<strong>cause</strong> (conJUNCTion): Bởi vì. Từ này được dùng để mở đầu cho một câu con chỉ nguyên nhân, lý do giải thích cho một sự việc hoặc hành động trước đó.</p>

@@ -101,7 +101,7 @@ export default function (): React.JSX.Element {
             Từ đồng nghĩa:
       ============================= */}
         
-      <p className="margin-top-20">
+      <p className="margin-top-20" id="SYNonyms">
         <mark className="highlight-238-padding-4-8">
           <strong>Từ đồng nghĩa</strong>:
         </mark>
@@ -129,7 +129,7 @@ export default function (): React.JSX.Element {
             Từ trái nghĩa:
       ============================= */}
 
-      <p className="margin-top-20">
+      <p className="margin-top-20" id="ANtonyms">
         <mark className="highlight-238-padding-4-8">
           <strong>Từ trái nghĩa</strong>:
         </mark>
@@ -155,7 +155,7 @@ export default function (): React.JSX.Element {
             🌻 Mẹo học từ vựng:
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">🌻 Mẹo học từ vựng:</h3>
+      <h3 className="margin-y-50 text-center" id="VoCABulary-LEARNing-TIPS">🌻 Mẹo học từ vựng:</h3>
 
       {/* =============================
             1. Liên kết hình ảnh:

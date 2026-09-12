@@ -19,6 +19,25 @@ export default function GRATEful(): React.JSX.Element {
       
       <h1 className="margin-y-50 text-center">[GRATEful]</h1>
 
+      <div className="example">
+                                            
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#ADverb">ADverb</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ADjective">ADjective</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#NOUN">NOUN</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p className="margin-bottom-30">[<strong>GRATEful</strong>] (ADjective): Biết ơn, cảm kích. Từ này thể hiện lòng biết ơn hoặc sự trân trọng đối với những gì người khác đã làm cho mình hoặc những điều tốt đẹp mà mình nhận được.</p>

@@ -24,6 +24,43 @@ export default function SUDdenly1(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#ADverb">ADverb</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ADjective">ADjective</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#NOUN">NOUN</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#SYNonyms">SYNonyms</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ANtonyms">ANtonyms</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#VoCABulary-LEARNing-TIPS">🌻 VoCABulary LEARNing TIPS</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
       
       <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>SUDdenly</strong>" nhé.</p>
@@ -62,7 +99,7 @@ export default function SUDdenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>SUDdenly, the LIGHTS WENT OUT.</li>
+          <li id="ADverb">SUDdenly, the LIGHTS WENT OUT.</li>
           <li className="margin-bottom-20 list-none">Đột nhiên, đèn tắt.</li>
 
           <li>she SUDdenly REalized she had LEFT her PHONE at HOME.</li>
@@ -82,10 +119,10 @@ export default function SUDdenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>a SUDden STORM CAUSED the POWer OUtage.</li>
+          <li id="ADjective">a SUDden STORM CAUSED the POWer OUtage.</li>
           <li className="margin-bottom-20 list-none">Một cơn bão đột ngột đã gây ra mất điện.</li>
 
-          <li>the SUDdenness of the ACcident SHOCKED <strong>ever</strong>yone.</li>
+          <li id="NOUN">the SUDdenness of the ACcident SHOCKED <strong>ever</strong>yone.</li>
           <li className="list-none">Sự đột ngột của tai nạn khiến mọi người sốc.</li>
 
         </ul>
@@ -94,7 +131,7 @@ export default function SUDdenly1(): React.JSX.Element {
             Từ đồng nghĩa:
       ============================= */}
         
-      <p className="margin-top-20">
+      <p className="margin-top-20" id="SYNonyms">
         <mark className="highlight-238-padding-4-8">
           <strong>Từ đồng nghĩa</strong>:
         </mark>
@@ -116,7 +153,7 @@ export default function SUDdenly1(): React.JSX.Element {
             Từ trái nghĩa:
       ============================= */}
 
-      <p className="margin-top-20">
+      <p className="margin-top-20" id="ANtonyms">
         <mark className="highlight-238-padding-4-8">
           <strong>Từ trái nghĩa</strong>:
         </mark>
@@ -136,7 +173,7 @@ export default function SUDdenly1(): React.JSX.Element {
             🌻 Mẹo học từ vựng:
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">🌻 Mẹo học từ vựng:</h3>
+      <h3 className="margin-y-50 text-center" id="VoCABulary-LEARNing-TIPS">🌻 Mẹo học từ vựng:</h3>
 
       {/* =============================
             1. Liên kết hình ảnh:

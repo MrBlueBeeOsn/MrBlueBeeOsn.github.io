@@ -24,6 +24,43 @@ export default function CURrently1(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                            
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#ADverb">ADverb</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ADjective">ADjective</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#NOUN">NOUN</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#SYNonyms">SYNonyms</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ANtonyms">ANtonyms</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#VoCABulary-LEARNing-TIPS">🌻 VoCABulary LEARNing TIPS</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
       
       <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>CURrently</strong>" nhé.</p>
@@ -95,7 +132,7 @@ export default function CURrently1(): React.JSX.Element {
             Từ đồng nghĩa:
       ============================= */}
         
-      <p className="margin-top-20">
+      <p className="margin-top-20" id="SYNonyms">
         <mark className="highlight-238-padding-4-8">
           <strong>Từ đồng nghĩa</strong>:
         </mark>
@@ -117,7 +154,7 @@ export default function CURrently1(): React.JSX.Element {
             Từ trái nghĩa:
       ============================= */}
 
-      <p className="margin-top-20">
+      <p className="margin-top-20" id="ANtonyms">
         <mark className="highlight-238-padding-4-8">
           <strong>Từ trái nghĩa</strong>:
         </mark>
@@ -137,7 +174,7 @@ export default function CURrently1(): React.JSX.Element {
             🌻 Mẹo học từ vựng:
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">🌻 Mẹo học từ vựng:</h3>
+      <h3 className="margin-y-50 text-center" id="VoCABulary-LEARNing-TIPS">🌻 Mẹo học từ vựng:</h3>
 
       {/* =============================
             1. Liên kết hình ảnh:
