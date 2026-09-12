@@ -541,12 +541,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[how the ARtist creATES uNIQUE SCULPtures] FAScinates the AUdience.</li>
+          <li>[HOW the ARtist creATES uNIQUE SCULPtures] FAScinates the AUdience.</li>
           <li className="margin-bottom-20 list-none">[Cách người nghệ sĩ tạo ra các bức tượng điêu khắc độc đáo] cuốn hút khán giả.</li>
       
-          <li className="list-none">Hình thái: [how the ARtist creATES uNIQUE SCULPtures] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtional BASE][LIÊN CƠ] "How" ở đầu, mang [SUBject PROnoun][CHỦ ĐẠI] riêng "the ARtist" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái: [HOW the ARtist creATES uNIQUE SCULPtures] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtional BASE][LIÊN CƠ] "How" ở đầu, mang [SUBject PROnoun][CHỦ ĐẠI] riêng "the ARtist" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Chức năng: [how the ARtist creATES uNIQUE SCULPtures] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] quản lý khối thông tin quy trình, điều khiển chính cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "FAScinates".</li>
+          <li className="list-none">Chức năng: [HOW the ARtist creATES uNIQUE SCULPtures] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] quản lý khối thông tin quy trình, điều khiển chính cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "FAScinates".</li>
       
         </ul>
 
@@ -558,12 +558,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the diRECtor exPLAINED [how the TEAM creATES efFECtive adVERtisements].</li>
+          <li>the diRECtor exPLAINED [HOW the TEAM creATES efFECtive adVERtisements].</li>
           <li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ tạo ra các quảng cáo hiệu quả].</li>
       
-          <li className="list-none">Hình thái: [how the TEAM creATES efFECtive adVERtisements] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtional BASE][LIÊN CƠ] "how" ở đầu, có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái: [HOW the TEAM creATES efFECtive adVERtisements] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtional BASE][LIÊN CƠ] "how" ở đầu, có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Chức năng: [how the TEAM creATES efFECtive adVERtisements] - [NOUN CLAUSE][DANH CÂU] trở thành [OBject PROnoun][TÂN ĐẠI] chứa dữ liệu mục tiêu tiếp nhận cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "exPLAINED".</li>
+          <li className="list-none">Chức năng: [HOW the TEAM creATES efFECtive adVERtisements] - [NOUN CLAUSE][DANH CÂU] trở thành [OBject PROnoun][TÂN ĐẠI] chứa dữ liệu mục tiêu tiếp nhận cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "exPLAINED".</li>
       
         </ul>
       

@@ -541,12 +541,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[how the SYStem reSPONDS to seCUrity THREATS] deTERmines its reliaBILity.</li>
+          <li>[HOW the SYStem reSPONDS to seCUrity THREATS] deTERmines its reliaBILity.</li>
           <li className="margin-bottom-20 list-none">[Cách hệ thống phản hồi đối với các mối đe dọa bảo mật] quyết định độ tin cậy của nó.</li>
       
-          <li className="list-none">Hình thái: [how the SYStem reSPONDS to seCUrity THREATS] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtional BASE][LIÊN CƠ] "How" ở đầu, mang [SUBject PROnoun][CHỦ ĐẠI] riêng "the SYStem" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái: [HOW the SYStem reSPONDS to seCUrity THREATS] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtional BASE][LIÊN CƠ] "How" ở đầu, mang [SUBject PROnoun][CHỦ ĐẠI] riêng "the SYStem" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Chức năng: [how the SYStem reSPONDS to seCUrity THREATS] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] quản lý khối thông tin quy trình, điều khiển chính cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "deTERmines".</li>
+          <li className="list-none">Chức năng: [HOW the SYStem reSPONDS to seCUrity THREATS] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] quản lý khối thông tin quy trình, điều khiển chính cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "deTERmines".</li>
       
         </ul>
 
@@ -558,12 +558,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the diRECtor exPLAINED [how the TEAM reSPONDS to URgent inQUIRies].</li>
+          <li>the diRECtor exPLAINED [HOW the TEAM reSPONDS to URgent inQUIRies].</li>
           <li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ phản hồi các truy vấn khẩn cấp].</li>
       
-          <li className="list-none">Hình thái: [how the TEAM reSPONDS to URgent inQUIRies] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtional BASE][LIÊN CƠ] "how" ở đầu, có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái: [HOW the TEAM reSPONDS to URgent inQUIRies] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtional BASE][LIÊN CƠ] "how" ở đầu, có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Chức năng: [how the TEAM reSPONDS to URgent inQUIRies] - [NOUN CLAUSE][DANH CÂU] trở thành [OBject PROnoun][TÂN ĐẠI] chứa dữ liệu mục tiêu tiếp nhận cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "exPLAINED".</li>
+          <li className="list-none">Chức năng: [HOW the TEAM reSPONDS to URgent inQUIRies] - [NOUN CLAUSE][DANH CÂU] trở thành [OBject PROnoun][TÂN ĐẠI] chứa dữ liệu mục tiêu tiếp nhận cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "exPLAINED".</li>
       
         </ul>
       

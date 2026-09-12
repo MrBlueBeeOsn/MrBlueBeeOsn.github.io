@@ -408,12 +408,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[how the SYStem enCRYPted the DAta] reMAINS a SEcret.</li>
+					<li>[HOW the SYStem enCRYPted the DAta] reMAINS a SEcret.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống mã hóa dữ liệu] vẫn là một bí mật.</li>
 			
-					<li className="list-none">Hình thái: [how the SYStem enCRYPted the DAta] – [conJUNCtional CLAUSE][LIÊN CÂU] chứa khối kết nối dẫn đường tường minh "How" kết hợp cùng một cấu trúc câu con xoay quanh [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "enCRYPted".</li>
+					<li className="list-none">Hình thái: [HOW the SYStem enCRYPted the DAta] – [conJUNCtional CLAUSE][LIÊN CÂU] chứa khối kết nối dẫn đường tường minh "How" kết hợp cùng một cấu trúc câu con xoay quanh [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "enCRYPted".</li>
 			
-					<li className="list-none">Chức năng: [how the SYStem enCRYPted the DAta] – [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reMAINS" chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: [HOW the SYStem enCRYPted the DAta] – [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reMAINS" chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 			
