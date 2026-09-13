@@ -97,7 +97,7 @@ export default function ACcurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she ACcurately MEASured the inGREdients.</li>
+          <li id="ADverb">she ACcurately MEASured the inGREdients.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã đo đạc nguyên liệu một cách chính xác.</li>
 
           <li>the DAta was inACcurately reCORDed.</li>

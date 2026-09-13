@@ -97,7 +97,7 @@ export default function GENTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she CLOSED the DOOR GENTly.</li>
+          <li id="ADverb">she CLOSED the DOOR GENTly.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đóng cửa nhẹ nhàng.</li>
 
           <li>PLEASE SPEAK GENTly to the CHILD.</li>

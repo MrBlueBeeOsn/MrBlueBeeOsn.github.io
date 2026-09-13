@@ -97,7 +97,7 @@ export default function esPECially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">i LOVE all FRUITS, esPECially APples.</li>
+          <li id="ADverb">i LOVE all FRUITS, esPECially APples.</li>
           <li className="margin-bottom-20 list-none">Tôi thích tất cả các loại trái cây, đặc biệt là táo.</li>
 
           <li>she is VERy GOOD at LANguages, esPECially FRENCH.</li>

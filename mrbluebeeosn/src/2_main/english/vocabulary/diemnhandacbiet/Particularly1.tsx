@@ -97,7 +97,7 @@ export default function parTICularly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">i LIKE all KINDS of FRUITS, parTICularly APples.</li>
+          <li id="ADverb">i LIKE all KINDS of FRUITS, parTICularly APples.</li>
           <li className="margin-bottom-20 list-none">Tôi thích tất cả các loại trái cây, nhất là táo.</li>
 
           <li>the WEATHer in VietNAM is HOT, parTICularly in the SUMmer.</li>

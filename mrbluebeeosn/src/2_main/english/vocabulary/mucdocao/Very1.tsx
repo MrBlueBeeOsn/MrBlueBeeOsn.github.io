@@ -97,7 +97,7 @@ export default function VERy1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she is VERy BEAUtiful.</li>
+          <li id="ADverb">she is VERy BEAUtiful.</li>
           <li className="margin-bottom-20 list-none">Cô ấy rất đẹp.</li>
 
           <li>he RUNS VERy FAST.</li>

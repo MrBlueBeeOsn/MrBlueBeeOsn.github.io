@@ -97,7 +97,7 @@ export default function TRUly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she is TRUly a TAlented ARtist.</li>
+          <li id="ADverb">she is TRUly a TAlented ARtist.</li>
           <li className="margin-bottom-20 list-none">Cô ấy thực sự là một nghệ sĩ tài năng.</li>
 
           <li>i TRUly apPREciate your HELP.</li>

@@ -97,7 +97,7 @@ export default function LAzily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he LAzily FLIPPED through the PAges of the BOOK.</li>
+          <li id="ADverb">he LAzily FLIPPED through the PAges of the BOOK.</li>
           <li className="margin-bottom-20 list-none">Anh ta lật sách một cách lười biếng.</li>
 
           <li>the CAT LAzily SUNbathed on the PORCH.</li>

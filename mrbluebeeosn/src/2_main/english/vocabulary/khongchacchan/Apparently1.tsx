@@ -97,7 +97,7 @@ export default function apPARently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">apPARently, it's GOing to RAIN toMORrow.</li>
+          <li id="ADverb">apPARently, it's GOing to RAIN toMORrow.</li>
           <li className="margin-bottom-20 list-none">Hình như mai trời sẽ mưa.</li>
 
           <li>apPARently, she's MOving to a NEW CITy.</li>

@@ -97,7 +97,7 @@ export default function OBviously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">OBviously, the SUN RIses in the EAST.</li>
+          <li id="ADverb">OBviously, the SUN RIses in the EAST.</li>
           <li className="margin-bottom-20 list-none">Rõ ràng, mặt trời mọc ở hướng đông.</li>
 
           <li>she was OBviously upSET.</li>

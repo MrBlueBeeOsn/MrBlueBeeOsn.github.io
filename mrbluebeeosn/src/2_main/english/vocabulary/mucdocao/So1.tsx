@@ -95,7 +95,7 @@ export default function SO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the MOvie was SO GOOD.</li>
+          <li id="ADverb">the MOvie was SO GOOD.</li>
           <li className="margin-bottom-20 list-none">Bộ phim rất hay.</li>
 
           <li>she SINGS SO BEAUtifully.</li>

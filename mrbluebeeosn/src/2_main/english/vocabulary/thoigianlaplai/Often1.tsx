@@ -97,7 +97,7 @@ export default function OFten1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">i OFten GO to the GYM.</li>
+          <li id="ADverb">i OFten GO to the GYM.</li>
           <li className="margin-bottom-20 list-none">Tôi thường đi tập gym.</li>
 
           <li>she OFten forGETS her KEYS.</li>

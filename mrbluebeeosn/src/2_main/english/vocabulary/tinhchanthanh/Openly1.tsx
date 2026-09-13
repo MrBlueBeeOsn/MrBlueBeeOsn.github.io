@@ -97,7 +97,7 @@ export default function Openly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he Openly exPRESSED his oPINions.</li>
+          <li id="ADverb">he Openly exPRESSED his oPINions.</li>
           <li className="margin-bottom-20 list-none">Anh ấy công khai bày tỏ quan điểm của mình.</li>
 
           <li>they Openly supPORTed the NEW POLicy.</li>

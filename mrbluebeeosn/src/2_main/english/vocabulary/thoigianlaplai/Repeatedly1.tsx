@@ -97,7 +97,7 @@ export default function rePEATedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she rePEATedly ASKED him the SAME QUESTion.</li>
+          <li id="ADverb">she rePEATedly ASKED him the SAME QUESTion.</li>
           <li className="margin-bottom-20 list-none">Cô ấy liên tục hỏi anh ta cùng một câu hỏi.</li>
 
           <li>the exPERiment was rePEATedly conDUCTed to VERify the reSULTS.</li>

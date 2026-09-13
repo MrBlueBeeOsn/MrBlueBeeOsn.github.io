@@ -97,7 +97,7 @@ export default function YES1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">are you COMing to the PARTy? - YES, i AM.</li>
+          <li id="ADverb">are you COMing to the PARTy? - YES, i AM.</li>
           <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? - Có, tôi sẽ đến.</li>
 
           <li>do you LIKE COFfee? - YES, i DO.</li>

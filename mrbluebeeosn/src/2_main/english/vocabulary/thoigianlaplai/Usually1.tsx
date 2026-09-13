@@ -97,7 +97,7 @@ export default function Usually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">i Usually geT UP at 7 AM.</li>
+          <li id="ADverb">i Usually geT UP at 7 AM.</li>
           <li className="margin-bottom-20 list-none">Tôi thường thức dậy lúc 7 giờ sáng.</li>
 
           <li>we Usually GO to the MOvies on WEEKends.</li>

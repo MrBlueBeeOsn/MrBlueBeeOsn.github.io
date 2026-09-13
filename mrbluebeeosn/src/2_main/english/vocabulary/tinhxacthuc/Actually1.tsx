@@ -97,7 +97,7 @@ export default function ACtually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">i THOUGHT she was a DOCtor, but ACtually, she's a NURSE.</li>
+          <li id="ADverb">i THOUGHT she was a DOCtor, but ACtually, she's a NURSE.</li>
           <li className="margin-bottom-20 list-none">Tôi tưởng cô ấy là bác sĩ, nhưng thực ra cô ấy là y tá.</li>
 
           <li>i'm GOing to the LIbrary toDAY. - ACtually, i'm GOing to the GYM.</li>

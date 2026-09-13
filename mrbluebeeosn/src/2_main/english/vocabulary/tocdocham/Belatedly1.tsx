@@ -97,7 +97,7 @@ export default function beLAtedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he beLAtedly REalized his misTAKE.</li>
+          <li id="ADverb">he beLAtedly REalized his misTAKE.</li>
           <li className="margin-bottom-20 list-none">Anh ấy muộn màng nhận ra sai lầm của mình.</li>
 
           <li>the BIRTHday CARD arRIVED beLAtedly.</li>

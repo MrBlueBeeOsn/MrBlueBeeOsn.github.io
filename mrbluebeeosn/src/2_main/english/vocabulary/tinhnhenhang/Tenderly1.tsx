@@ -99,7 +99,7 @@ export default function TENderly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he KISSED her TENderly on the FOREhead.</li>
+          <li id="ADverb">he KISSED her TENderly on the FOREhead.</li>
           <li className="margin-bottom-20 list-none">Anh ấy hôn nhẹ lên trán cô ấy một cách trìu mến.</li>
 
           <li>she HELD the BAby TENderly in her ARMS.</li>

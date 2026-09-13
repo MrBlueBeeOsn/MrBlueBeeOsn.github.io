@@ -97,7 +97,7 @@ export default function meTICulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she meTICulously PLANNED her WEDding.</li>
+          <li id="ADverb">she meTICulously PLANNED her WEDding.</li>
           <li className="margin-bottom-20 list-none">Cô ấy lên kế hoạch cho đám cưới của mình một cách rất tỉ mỉ.</li>
 
           <li>the SCIentist meTICulously reCORDed the DAta.</li>

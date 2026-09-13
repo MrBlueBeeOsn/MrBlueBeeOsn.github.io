@@ -97,7 +97,7 @@ export default function CLEARly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she CLEARly exPLAINED the RULES.</li>
+          <li id="ADverb">she CLEARly exPLAINED the RULES.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã giải thích rõ ràng các quy tắc.</li>
 
           <li>the ANswer is CLEARly NO.</li>

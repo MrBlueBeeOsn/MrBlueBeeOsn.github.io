@@ -97,7 +97,7 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the SUN GRADually ROSE over the hoRIzon.</li>
+          <li id="ADverb">the SUN GRADually ROSE over the hoRIzon.</li>
           <li className="margin-bottom-20 list-none">Mặt trời dần dần mọc lên trên đường chân trời.</li>
 
           <li>her HEALTH is GRADually imPROVing.</li>

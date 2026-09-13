@@ -99,7 +99,7 @@ export default function RAPidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">techNOlogy is adVANCEing RAPidly.</li>
+          <li id="ADverb">techNOlogy is adVANCEing RAPidly.</li>
           <li className="margin-bottom-20 list-none">Công nghệ đang phát triển rất nhanh.</li>
 
           <li>the CHILD GREW RAPidly during her FIRST YEAR.</li>

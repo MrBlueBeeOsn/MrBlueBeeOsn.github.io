@@ -97,7 +97,7 @@ export default function NOW1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">i am EATing NOW.</li>
+          <li id="ADverb">i am EATing NOW.</li>
           <li className="margin-bottom-20 list-none">Tôi đang ăn bây giờ.</li>
 
           <li>NOW, PLEASE be QUIet.</li>

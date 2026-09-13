@@ -97,7 +97,7 @@ export default function SELdom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">i SELdom GO to the MOvies.</li>
+          <li id="ADverb">i SELdom GO to the MOvies.</li>
           <li className="margin-bottom-20 list-none">Tôi hiếm khi đi xem phim.</li>
 
           <li>she SELdom MAKES misTAKES.</li>

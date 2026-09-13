@@ -97,7 +97,7 @@ export default function perSIStently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she perSIStently ASKED QUEStions until she GOT an ANswer.</li>
+          <li id="ADverb">she perSIStently ASKED QUEStions until she GOT an ANswer.</li>
           <li className="margin-bottom-20 list-none">Cô ấy liên tục hỏi cho đến khi nhận được câu trả lời.</li>
 
           <li>the RAIN FELL perSIStently throughout the NIGHT.</li>

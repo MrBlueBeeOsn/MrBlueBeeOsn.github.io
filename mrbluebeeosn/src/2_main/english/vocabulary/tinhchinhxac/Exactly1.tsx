@@ -97,7 +97,7 @@ export default function exACTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">that's exACTly WHAT i THINKing.</li>
+          <li id="ADverb">that's exACTly WHAT i THINKing.</li>
           <li className="margin-bottom-20 list-none">Đúng là điều tôi đang nghĩ.</li>
 
           <li>she arRIVED at exACTly THREE o'CLOCK.</li>

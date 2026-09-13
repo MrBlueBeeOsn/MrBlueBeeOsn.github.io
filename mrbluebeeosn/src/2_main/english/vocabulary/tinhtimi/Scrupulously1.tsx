@@ -97,7 +97,7 @@ export default function SCRUpulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he FOLlowed the inSTRUCtions SCRUpulously.</li>
+          <li id="ADverb">he FOLlowed the inSTRUCtions SCRUpulously.</li>
           <li className="margin-bottom-20 list-none">Anh ấy tuân theo các hướng dẫn một cách tỉ mỉ.</li>
 
           <li>she CLEANED the HOUSE SCRUpulously.</li>

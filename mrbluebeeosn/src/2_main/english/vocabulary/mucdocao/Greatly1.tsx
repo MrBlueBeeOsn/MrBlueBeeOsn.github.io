@@ -97,7 +97,7 @@ export default function GREATly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">i GREATly apPREciated your HELP.</li>
+          <li id="ADverb">i GREATly apPREciated your HELP.</li>
           <li className="margin-bottom-20 list-none">Tôi rất cảm ơn sự giúp đỡ của bạn.</li>
 
           <li>the PRICE of HOUSing has GREATly inCREASED.</li>

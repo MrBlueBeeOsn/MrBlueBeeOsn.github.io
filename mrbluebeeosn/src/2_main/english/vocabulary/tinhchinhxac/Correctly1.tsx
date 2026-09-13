@@ -97,7 +97,7 @@ export default function corRECTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she ANswered all the QUEStions corRECTly.</li>
+          <li id="ADverb">she ANswered all the QUEStions corRECTly.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã trả lời tất cả các câu hỏi một cách chính xác.</li>
 
           <li>PLEASE MAKE SURE you FILL in the FORM corRECTly.</li>

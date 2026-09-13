@@ -97,7 +97,7 @@ export default function TIRElessly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she WORKED TIRElessly to FINish the PROJect on TIME.</li>
+          <li id="ADverb">she WORKED TIRElessly to FINish the PROJect on TIME.</li>
           <li className="margin-bottom-20 list-none">Cô ấy làm việc không biết mệt mỏi để hoàn thành dự án đúng hạn.</li>
 
           <li>the ATHletes TRAINED TIRElessly for the compeTITion.</li>

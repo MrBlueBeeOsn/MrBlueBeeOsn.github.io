@@ -97,7 +97,7 @@ export default function CURrently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">i am CURrently WORKing on a NEW PROJect.</li>
+          <li id="ADverb">i am CURrently WORKing on a NEW PROJect.</li>
           <li className="margin-bottom-20 list-none">Hiện tại tôi đang làm một dự án mới.</li>
 
           <li>she is CURrently LIVing in PARis.</li>

@@ -97,7 +97,7 @@ export default function toDAY1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">it's SUNny toDAY.</li>
+          <li id="ADverb">it's SUNny toDAY.</li>
           <li className="margin-bottom-20 list-none">Hôm nay trời nắng.</li>
 
           <li>i'm GOing to the MOvies toDAY.</li>

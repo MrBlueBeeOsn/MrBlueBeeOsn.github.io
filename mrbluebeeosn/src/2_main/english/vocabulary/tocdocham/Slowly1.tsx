@@ -97,7 +97,7 @@ export default function SLOWly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she WALKED SLOWly down the STREET.</li>
+          <li id="ADverb">she WALKED SLOWly down the STREET.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đi bộ chậm rãi trên đường phố.</li>
 
           <li>TIME PASSED SLOWly as i WAITed.</li>

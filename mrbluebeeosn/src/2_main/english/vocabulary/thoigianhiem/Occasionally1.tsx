@@ -97,7 +97,7 @@ export default function ocCAsionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">i ocCAsionally GO to the GYM.</li>
+          <li id="ADverb">i ocCAsionally GO to the GYM.</li>
           <li className="margin-bottom-20 list-none">Tôi thỉnh thoảng đi tập gym.</li>
 
           <li>it RAINS ocCAsionally in the DESert.</li>

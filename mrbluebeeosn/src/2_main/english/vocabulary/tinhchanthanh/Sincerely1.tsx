@@ -97,7 +97,7 @@ export default function sinCEREly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">sinCEREly, i apPREciate your HELP.</li>
+          <li id="ADverb">sinCEREly, i apPREciate your HELP.</li>
           <li className="margin-bottom-20 list-none">Thật lòng, tôi rất cảm ơn sự giúp đỡ của bạn.</li>
 
           <li>i HOPE you have a sinCEREly enJOYable TRIP.</li>

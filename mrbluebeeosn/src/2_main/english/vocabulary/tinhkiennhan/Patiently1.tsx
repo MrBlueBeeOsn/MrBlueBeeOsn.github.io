@@ -97,7 +97,7 @@ export default function PAtiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he WAITed PAtiently for his TURN.</li>
+          <li id="ADverb">he WAITed PAtiently for his TURN.</li>
           <li className="margin-bottom-20 list-none">Anh ấy kiên nhẫn chờ đến lượt của mình.</li>
 
           <li>she PAtiently LIStened to his STORy.</li>

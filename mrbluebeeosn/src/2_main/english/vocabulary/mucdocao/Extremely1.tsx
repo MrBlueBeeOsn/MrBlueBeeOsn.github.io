@@ -97,7 +97,7 @@ export default function exTREMEly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the exAM was exTREMEly DIFficult.</li>
+          <li id="ADverb">the exAM was exTREMEly DIFficult.</li>
           <li className="margin-bottom-20 list-none">Bài kiểm tra khó vô cùng.</li>
 
           <li>she is exTREMEly TALented.</li>
