@@ -120,7 +120,7 @@ export default function INstantly1(): React.JSX.Element {
           <li id="ADjective">THIS is an INstant COFfee.</li>
           <li className="margin-bottom-20 list-none">Đây là cà phê hòa tan.</li>
 
-          <li id="">the reACtion was instanTAneous.</li>
+          <li id="NOUN">the reACtion was instanTAneous.</li>
           <li className="list-none">Phản ứng diễn ra tức thì.</li>
 
         </ul>

@@ -22,9 +22,6 @@ export default function BEAUtiful(): React.JSX.Element {
       <div className="example">
                                             
         <p className="example-sentence text-center">
-          <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#ADverb">ADverb</HashLink>
-          </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#ADjective">ADjective</HashLink>
@@ -32,6 +29,14 @@ export default function BEAUtiful(): React.JSX.Element {
 
           <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB">VERB</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ADverb">ADverb</HashLink>
           </span> &nbsp;
 
         </p>
@@ -44,8 +49,14 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>the SUNset over the Ocean was TRUly [BEAUtiful].</li>
+          <li id="ADjective">the SUNset over the Ocean was TRUly [BEAUtiful].</li>
           <li className="list-none">Cảnh hoàng hôn trên biển thực sự rất đẹp.</li>
+
+          <li>WHAT a [BEAUtiful] SUNset!</li>
+          <li className="margin-bottom-20 list-none">Thật là một cảnh hoàng hôn đẹp tuyệt vời!</li>
+
+          <li>the POet WROTE about the [BEAUteous] STARS in the NIGHT SKY.</li>
+          <li className="list-none">Nhà thơ đã viết về những ngôi sao tuyệt đẹp trên bầu trời đêm.</li>
       
         </ul>
 
@@ -83,30 +94,18 @@ export default function BEAUtiful(): React.JSX.Element {
       <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn linh hoạt hơn trong diễn đạt, đặc biệt là khi áp dụng cấu trúc tập trung vào Danh Cơ để mô tả tính chất.</p>
 
         <ul className="list-square">
-
-          <li>[<strong>BEAUtiful</strong>] (ADjective) /ˈbjuː.tɪ.fəl/</li>
-          <li className="list-none">WHAT a [BEAUtiful] SUNset!</li>
-          <li className="margin-bottom-20 list-none">Thật là một cảnh hoàng hôn đẹp tuyệt vời!</li>
-
-          <li>[<strong>BEAUty</strong>] (NOUN) /ˈbjuːti/</li>
-          <li className="list-none">the [BEAUty] of the LANDscape TOOK my BREATH aWAY.</li>
+          
+          <li id="NOUN">the [BEAUty] of the LANDscape TOOK my BREATH aWAY.</li>
           <li className="margin-bottom-20 list-none">Vẻ đẹp của phong cảnh đã khiến tôi sững sờ.</li>
 
-          <li>[<strong>BEAUtify</strong>] (VERB) /ˈbjuːtɪfaɪ/</li>
-          <li className="list-none">They deCIded to [BEAUtify] the GARden with SEAsonal FLOWers.</li>
-          <li className="margin-bottom-20 list-none">Họ quyết định làm đẹp khu vườn bằng những loài hoa theo mùa.</li>
-
-          <li>[<strong>BEAUtifully</strong>] (ADverb) /ˈbjuːtɪfəli/</li>
-          <li className="list-none">the MUsic was [BEAUtifully] comPOSED and MOVED the enTIre AUdience.</li>
-          <li className="margin-bottom-20 list-none">Bản nhạc được sáng tác một cách tuyệt đẹp và đã làm lay động toàn bộ khán giả.</li>
-
-          <li>[<strong>beauTIcian</strong>] (NOUN - Chỉ người) /bjuːˈtɪʃn/</li>
           <li className="list-none">the proFESsional [beauTIcian] prePARED the ACtors for the FILM.</li>
           <li className="margin-bottom-20 list-none">Chuyên gia thẩm mỹ chuyên nghiệp đã chuẩn bị cho các diễn viên trong bộ phim.</li>
 
-          <li>[<strong>BEAUteous</strong>] (ADjective - Văn chương) /ˈbjuːtiəs/</li>
-          <li className="list-none">the POet WROTE about the [BEAUteous] STARS in the NIGHT SKY.</li>
-          <li className="list-none">Nhà thơ đã viết về những ngôi sao tuyệt đẹp trên bầu trời đêm.</li>
+          <li id="VERB">They deCIded to [BEAUtify] the GARden with SEAsonal FLOWers.</li>
+          <li className="margin-bottom-20 list-none">Họ quyết định làm đẹp khu vườn bằng những loài hoa theo mùa.</li>
+
+          <li id="ADverb">the MUsic was [BEAUtifully] comPOSED and MOVED the enTIre AUdience.</li>
+          <li className="margin-bottom-20 list-none">Bản nhạc được sáng tác một cách tuyệt đẹp và đã làm lay động toàn bộ khán giả.</li>
 
         </ul>
 

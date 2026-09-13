@@ -120,7 +120,7 @@ export default function ABsolutely1(): React.JSX.Element {
           <li id="ADjective">THIS is an ABsolute diSASter.</li>
           <li className="margin-bottom-20 list-none">Đây là một thảm họa hoàn toàn.</li>
 
-          <li id="">he beLIEVED in ABsolutism in POLitics.</li>
+          <li id="NOUN">he beLIEVED in ABsolutism in POLitics.</li>
           <li className="list-none">Anh ta tin vào chủ nghĩa tuyệt đối trong chính trị.</li>
 
         </ul>

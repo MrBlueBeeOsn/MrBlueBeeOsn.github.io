@@ -32,11 +32,11 @@ export default function SO1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective">ADjective</HashLink>
+            <HashLink smooth to="#PROnoun">PROnoun</HashLink>
           </span> &nbsp;
-
+          
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#NOUN">NOUN</HashLink>
+            <HashLink smooth to="#conJUNCtion">conJUNCtion</HashLink>
           </span> &nbsp;
 
         </p>
@@ -91,7 +91,7 @@ export default function SO1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">1. Rất, quá (trạng cơ mức độ): Dùng để nhấn mạnh mức độ của một Tính Cơ hoặc trạng cơ.</p>
+      <p className="margin-top-30 text-indent-whole">Rất, quá (trạng cơ mức độ): Dùng để nhấn mạnh mức độ của một Tính Cơ hoặc trạng cơ.</p>
 
         <ul className="list-square">
 
@@ -103,17 +103,6 @@ export default function SO1(): React.JSX.Element {
 
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">2. Như vậy, thế đó (trạng cơ cách thức/mức độ): Dùng để thay thế cho một ý đã được đề cập trước, tránh lặp lại.</p>
-
-        <ul className="list-square">
-
-          <li id="">is he COMing? - "i THINK SO."</li>
-          <li className="margin-bottom-20 list-none">Anh ấy có đến không? - "Tôi nghĩ thế."</li>
-
-          <li>she SAID she would HELP, and SO she DID.</li>
-          <li className="list-none">Cô ấy nói sẽ giúp, và cô ấy đã làm như vậy.</li>
-
-        </ul>
 
       {/* =============================
             Gia đình từ:
@@ -125,13 +114,22 @@ export default function SO1(): React.JSX.Element {
         </mark>
       </p>
 
+      <p className="margin-top-20 text-indent-whole"></p>
+
         <ul className="list-square">
 
-          <li id="ADjective">it was RAINing, SO we STAYED HOME.</li>
+          <li id="PROnoun">is he COMing? - "i THINK SO."</li>
+          <li className="list-none">Anh ấy có đến không? - "Tôi nghĩ thế."</li>
+          <li className="margin-bottom-20 list-none">Như vậy, thế đó (Dùng để thay thế cho một ý đã được đề cập trước, tránh lặp lại.)</li>
+          
+          <li id="conJUNCtion">it was RAINing, so we STAYED HOME.</li>
           <li className="margin-bottom-20 list-none">Trời đang mưa, vì vậy chúng tôi ở nhà.</li>
 
-          <li id="">he WORKED HARD, SO he GOT a proMOtion.</li>
+          <li>he WORKED HARD, so he GOT a proMOtion.</li>
           <li className="list-none">Anh ấy đã làm việc chăm chỉ, do đó anh ấy được thăng chức.</li>
+
+          <li>she SAID she would HELP, and so she DID.</li>
+          <li className="list-none">Cô ấy nói sẽ giúp, và cô ấy đã làm như vậy.</li>
 
         </ul>
 

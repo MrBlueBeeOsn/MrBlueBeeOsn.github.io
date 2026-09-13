@@ -35,10 +35,6 @@ export default function beLAtedly1(): React.JSX.Element {
             <HashLink smooth to="#ADjective">ADjective</HashLink>
           </span> &nbsp;
 
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#NOUN">NOUN</HashLink>
-          </span> &nbsp;
-
         </p>
 
         <p className="example-sentence text-center">
@@ -123,7 +119,7 @@ export default function beLAtedly1(): React.JSX.Element {
           <li id="ADjective">he OFfered a beLAted aPOLogy.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đưa ra một lời xin lỗi muộn màng.</li>
 
-          <li id="">we reCEIVED a beLAted inviTAtion.</li>
+          <li>we reCEIVED a beLAted inviTAtion.</li>
           <li className="list-none">Chúng tôi nhận được một lời mời muộn.</li>
 
         </ul>

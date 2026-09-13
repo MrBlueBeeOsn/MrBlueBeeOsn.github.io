@@ -36,7 +36,7 @@ export default function GENuinely1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#NOUN">NOUN</HashLink>
+            <HashLink smooth to="#VERB">VERB</HashLink>
           </span> &nbsp;
 
         </p>
@@ -120,7 +120,7 @@ export default function GENuinely1(): React.JSX.Element {
           <li id="ADjective">he has a GENuine INterest in ART.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một sự quan tâm chân thành đến nghệ thuật.</li>
 
-          <li id="">the WIND TURbine GENerates elecTRICity.</li>
+          <li id="VERB">the WIND TURbine GENerates elecTRICity.</li>
           <li className="list-none">Tuabin gió tạo ra điện.</li>
 
         </ul>

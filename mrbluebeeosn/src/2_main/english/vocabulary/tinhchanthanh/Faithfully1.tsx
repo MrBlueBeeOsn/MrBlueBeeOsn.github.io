@@ -120,7 +120,7 @@ export default function FAITHfully1(): React.JSX.Element {
           <li id="ADjective">he is a FAITHful FRIEND.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người bạn trung thành.</li>
 
-          <li id="">he has GREAT FAITH in his TEAM.</li>
+          <li id="NOUN">he has GREAT FAITH in his TEAM.</li>
           <li className="list-none">Anh ấy có niềm tin lớn vào đội của mình.</li>
 
         </ul>

@@ -32,10 +32,6 @@ export default function ocCAsionally1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective">ADjective</HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
@@ -117,7 +113,7 @@ export default function ocCAsionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">on SPEcial ocCAsions, we WEAR FORmal CLOTHES.</li>
+          <li id="NOUN">on SPEcial ocCAsions, we WEAR FORmal CLOTHES.</li>
           <li className="list-none">Trong những dịp đặc biệt, chúng ta mặc quần áo trang trọng.</li>
 
         </ul>

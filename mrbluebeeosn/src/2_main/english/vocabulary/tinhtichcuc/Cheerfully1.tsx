@@ -36,6 +36,10 @@ export default function CHEERfully1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB">VERB</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
@@ -117,14 +121,14 @@ export default function CHEERfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">the CROWD CHEERED the TEAM ON.</li>
+          <li id="ADjective">she has a CHEERful persoNALity.</li>
+          <li className="list-none">Cô ấy có một tính cách vui vẻ.</li>
+
+          <li id="VERB">the CROWD CHEERED the TEAM ON.</li>
           <li className="margin-bottom-20 list-none">Đám đông cổ vũ đội bóng.</li>
 
-          <li id="">her CHEER BRIGHtened UP the ROOM.</li>
+          <li id="NOUN">her CHEER BRIGHtened UP the ROOM.</li>
           <li className="margin-bottom-20 list-none">Sự vui vẻ của cô ấy làm căn phòng sáng bừng lên.</li>
-
-          <li id="">she has a CHEERful persoNALity.</li>
-          <li className="list-none">Cô ấy có một tính cách vui vẻ.</li>
 
         </ul>
 

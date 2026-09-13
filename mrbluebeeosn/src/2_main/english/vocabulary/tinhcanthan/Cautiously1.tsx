@@ -36,6 +36,10 @@ export default function CAUtiously1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB">VERB</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
@@ -126,11 +130,11 @@ export default function CAUtiously1(): React.JSX.Element {
           <li className="list-none">she is a CAUtious inVESTor.</li>
           <li className="margin-bottom-20 list-none">Cô ấy là một nhà đầu tư thận trọng.</li>
 
-          <li id="">EXercise CAUtion when HANDling CHEMicals.</li>
-          <li className="margin-bottom-20 list-none">Hãy thận trọng khi xử lý hóa chất.</li>
-
-          <li id="">the poLICE CAUtioned him about his SPEED.</li>
+          <li id="VERB">the poLICE CAUtioned him about his SPEED.</li>
           <li className="list-none">Cảnh sát đã cảnh báo anh ấy về tốc độ lái xe.</li>
+
+          <li id="NOUN">EXercise CAUtion when HANDling CHEMicals.</li>
+          <li className="margin-bottom-20 list-none">Hãy thận trọng khi xử lý hóa chất.</li>
 
         </ul>
 

@@ -36,6 +36,10 @@ export default function proDUCtively1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB">VERB</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
@@ -126,13 +130,13 @@ export default function proDUCtively1(): React.JSX.Element {
           <li className="list-none">he is a proDUCtive MEMber of the TEAM.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một thành viên năng suất của đội.</li>
 
-          <li id="">the FACtory proDUces CARS.</li>
+          <li id="VERB">the FACtory proDUces CARS.</li>
           <li className="margin-bottom-20 list-none">Nhà máy sản xuất ô tô.</li>
 
-          <li id="">they SELL FRESH PROduce at the MARket.</li>
+          <li id="NOUN">they SELL FRESH PROduce at the MARket.</li>
           <li className="margin-bottom-20 list-none">Họ bán nông sản tươi tại chợ.</li>
 
-          <li>the COMpany is FOcused on imPROVing producTIVity.</li>
+          <li className="list-none">the COMpany is FOcused on imPROVing producTIVity.</li>
           <li className="list-none">Công ty đang tập trung vào việc cải thiện năng suất.</li>
 
         </ul>

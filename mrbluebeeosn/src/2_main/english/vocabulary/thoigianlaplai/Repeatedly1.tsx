@@ -36,6 +36,10 @@ export default function rePEATedly1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB">VERB</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
@@ -117,14 +121,14 @@ export default function rePEATedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">PLEASE rePEAT that.</li>
+          <li id="ADjective">the rePEATed FAIlures disCOURaged him.</li>
+          <li className="list-none">Những thất bại liên tiếp làm anh ta nản lòng.</li>
+          
+          <li id="VERB">PLEASE rePEAT that.</li>
           <li className="margin-bottom-20 list-none">Làm ơn lặp lại điều đó.</li>
 
-          <li id="">the repeTITion of the SAME misTAKE is unacCEPTable.</li>
+          <li id="NOUN">the repeTITion of the SAME misTAKE is unacCEPTable.</li>
           <li className="margin-bottom-20 list-none">Việc lặp lại cùng một sai lầm là không thể chấp nhận được.</li>
-
-          <li id="">the rePEATed FAIlures disCOURaged him.</li>
-          <li className="list-none">Những thất bại liên tiếp làm anh ta nản lòng.</li>
 
         </ul>
 

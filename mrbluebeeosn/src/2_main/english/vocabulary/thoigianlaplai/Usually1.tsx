@@ -35,10 +35,6 @@ export default function Usually1(): React.JSX.Element {
             <HashLink smooth to="#ADjective">ADjective</HashLink>
           </span> &nbsp;
 
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#NOUN">NOUN</HashLink>
-          </span> &nbsp;
-
         </p>
 
         <p className="example-sentence text-center">
@@ -119,9 +115,6 @@ export default function Usually1(): React.JSX.Element {
 
           <li id="ADjective">THIS is my USual rouTINE.</li>
           <li className="margin-bottom-20 list-none">Đây là thói quen thường ngày của tôi.</li>
-
-          <li id="">i USE this PEN <strong>ever</strong>y DAY.</li>
-          <li className="list-none">Tôi dùng cây bút này mỗi ngày.</li>
 
         </ul>
 

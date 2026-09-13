@@ -120,7 +120,7 @@ export default function preCISEly1(): React.JSX.Element {
           <li id="ADjective">he GAVE preCISE inSTRUCtions.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đưa ra những chỉ dẫn chính xác.</li>
 
-          <li id="">the maCHINE OPerates with GREAT preCISion.</li>
+          <li id="NOUN">the maCHINE OPerates with GREAT preCISion.</li>
           <li className="list-none">Cỗ máy hoạt động với độ chính xác cao.</li>
 
         </ul>

@@ -22,9 +22,6 @@ export default function atTRACtive(): React.JSX.Element {
       <div className="example">
                                             
         <p className="example-sentence text-center">
-          <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#ADverb">ADverb</HashLink>
-          </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#ADjective">ADjective</HashLink>
@@ -32,6 +29,14 @@ export default function atTRACtive(): React.JSX.Element {
 
           <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB">VERB</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ADverb">ADverb</HashLink>
           </span> &nbsp;
 
         </p>
@@ -44,8 +49,11 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>the NEW JOB offer CAME with a VEry [atTRACtive] SALary.</li>
+          <li id="ADjective">the NEW JOB offer CAME with a VEry [atTRACtive] SALary.</li>
           <li className="list-none">Lời đề nghị công việc mới đi kèm với một mức lương rất hấp dẫn.</li>
+
+          <li>he has a VEry [atTRACtive] SMILE.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy có một nụ cười rất cuốn hút.</li>
       
         </ul>
 
@@ -84,24 +92,16 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>[<strong>atTRACtive</strong>] (ADjective) /əˈtræk.tɪv/</li>
-          <li className="list-none">he has a VEry [atTRACtive] SMILE.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy có một nụ cười rất cuốn hút.</li>
-
-          <li>[<strong>atTRACT</strong>] (VERB) /əˈtrækt/</li>
-          <li className="list-none">BRIGHT COLors OFten [atTRACT] BUTterflies to the GARden.</li>
-          <li className="margin-bottom-20 list-none">Màu sắc rực rỡ thường thu hút bướm đến vườn.</li>
-
-          <li>[<strong>atTRACtion</strong>] (NOUN) /əˈtrækʃn/</li>
-          <li className="list-none">the Eiffel TOWer is a MAjor TOUrist [atTRACtion] in PAris.</li>
+          <li id="NOUN">the Eiffel TOWer is a MAjor TOUrist [atTRACtion] in PAris.</li>
           <li className="margin-bottom-20 list-none">Tháp Eiffel là một điểm thu hút khách du lịch lớn ở Paris.</li>
 
-          <li>[<strong>atTRACtiveness</strong>] (NOUN - Trừu tượng) /əˈtræktɪvnəs/</li>
           <li className="list-none">the PHYSical [atTRACtiveness] of the PROduct deSIGN HELPED inCREASE SALES.</li>
           <li className="margin-bottom-20 list-none">Sự hấp dẫn về mặt hình thức của thiết kế sản phẩm đã giúp tăng doanh số bán hàng.</li>
 
-          <li>[<strong>atTRACtively</strong>] (ADverb) /əˈtræktɪvli/</li>
-          <li className="list-none">the TAble was [atTRACtively] DEcorated with FLOWers and CANdles.</li>
+          <li id="VERB">BRIGHT COLors OFten [atTRACT] BUTterflies to the GARden.</li>
+          <li className="margin-bottom-20 list-none">Màu sắc rực rỡ thường thu hút bướm đến vườn.</li>
+
+          <li id="ADverb">the TAble was [atTRACtively] DEcorated with FLOWers and CANdles.</li>
           <li className="list-none">Chiếc bàn được trang trí một cách lôi cuốn với hoa và nến.</li>
 
         </ul>

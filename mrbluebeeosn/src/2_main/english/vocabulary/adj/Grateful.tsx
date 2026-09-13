@@ -22,9 +22,6 @@ export default function GRATEful(): React.JSX.Element {
       <div className="example">
                                             
         <p className="example-sentence text-center">
-          <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#ADverb">ADverb</HashLink>
-          </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#ADjective">ADjective</HashLink>
@@ -32,6 +29,10 @@ export default function GRATEful(): React.JSX.Element {
 
           <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
+          </span> &nbsp;
+          
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ADverb">ADverb</HashLink>
           </span> &nbsp;
 
         </p>
@@ -44,8 +45,11 @@ export default function GRATEful(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>i am DEEPly [GRATEful] for your supPORT during this DIFFicult TIME.</li>
+          <li id="ADjective">i am DEEPly [GRATEful] for your supPORT during this DIFFicult TIME.</li>
           <li className="list-none">Tôi vô cùng biết ơn sự hỗ trợ của bạn trong khoảng thời gian khó khăn này.</li>
+
+          <li>she FELT [GRATEful] for the WARM hospiTALity of her HOSTS.</li>
+          <li className="margin-bottom-20 list-none">Cô cảm thấy biết ơn vì sự hiếu khách nồng hậu của những người chủ nhà.</li>
       
         </ul>
 
@@ -84,21 +88,14 @@ export default function GRATEful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>[<strong>GRATEful</strong>] (ADjective) /ˈɡreɪt.fəl/</li>
-          <li className="list-none">she FELT [GRATEful] for the WARM hospiTALity of her HOSTS.</li>
-          <li className="margin-bottom-20 list-none">Cô cảm thấy biết ơn vì sự hiếu khách nồng hậu của những người chủ nhà.</li>
-
-          <li>[<strong>GRATEfully</strong>] (ADverb) /ˈɡreɪt.fə.li/</li>
-          <li className="list-none">he [GRATEfully] acCEPted the OFFer of a HOT MEAL.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã trân trọng đón nhận lời đề nghị về một bữa ăn nóng sốt.</li>
-
-          <li>[<strong>GRATitude</strong>] (NOUN) /ˈɡræt.ɪ.tuːd/</li>
-          <li className="list-none">the SIMplest WAY to exPRESS your [GRATitude] is by SAYing THANK YOU.</li>
+          <li id="NOUN">the SIMplest WAY to exPRESS your [GRATitude] is by SAYing THANK YOU.</li>
           <li className="margin-bottom-20 list-none">Cách đơn giản nhất để bày tỏ lòng biết ơn của bạn là nói lời cảm ơn.</li>
 
-          <li>[<strong>GRATEfulness</strong>] (NOUN) /ˈɡreɪt.fəl.nəs/</li>
           <li className="list-none">a DEEP SENSE of [GRATEfulness] FILLED her HEART when she SAW her FAMILy SAFE.</li>
           <li className="list-none">Một cảm giác biết ơn sâu sắc tràn ngập trái tim cô khi thấy gia đình mình bình an.</li>
+
+          <li id="ADverb">he [GRATEfully] acCEPted the OFFer of a HOT MEAL.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã trân trọng đón nhận lời đề nghị về một bữa ăn nóng sốt.</li>
 
         </ul>
 

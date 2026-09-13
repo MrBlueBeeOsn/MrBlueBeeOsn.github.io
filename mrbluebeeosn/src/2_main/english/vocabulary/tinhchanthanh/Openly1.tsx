@@ -36,6 +36,10 @@ export default function Openly1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB">VERB</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
@@ -120,10 +124,10 @@ export default function Openly1(): React.JSX.Element {
           <li id="ADjective">the DOOR is Open.</li>
           <li className="margin-bottom-20 list-none">Cửa đang mở.</li>
 
-          <li id="">PLEASE Open the WINdow.</li>
+          <li id="VERB">PLEASE Open the WINdow.</li>
           <li className="margin-bottom-20 list-none">Làm ơn mở cửa sổ.</li>
 
-          <li id="">her Openness MADE her <strong>man</strong>y FRIENDS.</li>
+          <li id="NOUN">her Openness MADE her <strong>man</strong>y FRIENDS.</li>
           <li className="list-none">Sự cởi mở của cô ấy đã giúp cô ấy có nhiều bạn bè.</li>
 
         </ul>

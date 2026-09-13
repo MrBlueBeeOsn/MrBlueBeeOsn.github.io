@@ -120,10 +120,10 @@ export default function CURrently1(): React.JSX.Element {
           <li id="ADjective">the CURrent situAtion is VERy COMplex.</li>
           <li className="margin-bottom-20 list-none">Tình hình hiện tại rất phức tạp.</li>
 
-          <li id="">there is a GROWing CURrency of susPICion reGARDing the NEW POLicy.</li>
+          <li id="NOUN">there is a GROWing CURrency of susPICion reGARDing the NEW POLicy.</li>
           <li className="margin-bottom-20 list-none">Đang có một luồng nghi ngờ ngày càng tăng đối với chính sách mới.</li>
 
-          <li id="">the DOLlar is the CURrency of the uNIted STATES.</li>
+          <li className="list-none">the DOLlar is the CURrency of the uNIted STATES.</li>
           <li className="list-none">Đô la là đơn vị tiền tệ của Hoa Kỳ.</li>
 
         </ul>

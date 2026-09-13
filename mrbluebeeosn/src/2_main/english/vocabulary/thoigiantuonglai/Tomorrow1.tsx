@@ -32,10 +32,6 @@ export default function toMORrow1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective">ADjective</HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
@@ -117,11 +113,8 @@ export default function toMORrow1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">toMORrow is my BIRTHday.</li>
+          <li id="NOUN">toMORrow is my BIRTHday.</li>
           <li className="margin-bottom-20 list-none">Ngày mai là sinh nhật của tôi.</li>
-
-          <li id="">​​<strong>ever</strong>y DAY i GO to SCHOOL.</li>
-          <li className="list-none">Mỗi ngày tôi đều đi học.</li>
 
         </ul>
 

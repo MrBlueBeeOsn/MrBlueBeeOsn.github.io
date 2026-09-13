@@ -120,7 +120,7 @@ export default function corRECTly1(): React.JSX.Element {
           <li id="ADjective">your ANswer is corRECT.</li>
           <li className="margin-bottom-20 list-none">Câu trả lời của bạn đúng.</li>
 
-          <li id="">the TEACHer MADE a corRECtion to my ESsay.</li>
+          <li id="NOUN">the TEACHer MADE a corRECtion to my ESsay.</li>
           <li className="list-none">Giáo viên đã sửa một lỗi trong bài luận của tôi.</li>
 
         </ul>

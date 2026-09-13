@@ -34,11 +34,7 @@ export default function SOFTly1(): React.JSX.Element {
           <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#ADjective">ADjective</HashLink>
           </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#NOUN">NOUN</HashLink>
-          </span> &nbsp;
-
+          
         </p>
 
         <p className="example-sentence text-center">

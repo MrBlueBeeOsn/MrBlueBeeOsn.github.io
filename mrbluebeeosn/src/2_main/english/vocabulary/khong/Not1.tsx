@@ -32,11 +32,7 @@ export default function NOT1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective">ADjective</HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#NOUN">NOUN</HashLink>
+            <HashLink smooth to="#PROnoun">PROnoun</HashLink>
           </span> &nbsp;
 
         </p>
@@ -119,10 +115,10 @@ export default function NOT1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">there is NOTHing in the BOX.</li>
+          <li id="PROnoun">there is NOTHing in the BOX.</li>
           <li className="margin-bottom-20 list-none">Không có gì trong hộp.</li>
 
-          <li id="">NObody was at HOME.</li>
+          <li>NObody was at HOME.</li>
           <li className="list-none">Không ai ở nhà.</li>
 
         </ul>

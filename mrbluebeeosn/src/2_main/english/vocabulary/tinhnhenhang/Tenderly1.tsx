@@ -36,6 +36,10 @@ export default function TENderly1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB">VERB</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
@@ -91,9 +95,7 @@ export default function TENderly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>TENderly</strong>" miêu tả một hành động hoặc lời nói được thực hiện một cách dịu dàng, trìu mến, thể hiện sự quan tâm, yêu thương và lòng trắc ẩn.
-
-</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>TENderly</strong>" miêu tả một hành động hoặc lời nói được thực hiện một cách dịu dàng, trìu mến, thể hiện sự quan tâm, yêu thương và lòng trắc ẩn.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
@@ -123,10 +125,10 @@ export default function TENderly1(): React.JSX.Element {
           <li id="ADjective">he has a TENder HEART.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một trái tim dịu dàng.</li>
 
-          <li id="">she TENDED to the INjured BIRD.</li>
+          <li id="VERB">she TENDED to the INjured BIRD.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chăm sóc con chim bị thương một cách dịu dàng.</li>
 
-          <li id="">he SHOWED GREAT TENderness towards his CHILDren.</li>
+          <li id="NOUN">he SHOWED GREAT TENderness towards his CHILDren.</li>
           <li className="list-none">Anh ấy thể hiện sự âu yếm lớn đối với con cái của mình.</li>
 
         </ul>

@@ -36,6 +36,10 @@ export default function GRADually1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB">VERB</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
@@ -120,10 +124,10 @@ export default function GRADually1(): React.JSX.Element {
           <li id="ADjective">there was a GRADual inCREASE in TEMPERature.</li>
           <li className="margin-bottom-20 list-none">Có một sự gia tăng nhiệt độ dần dần.</li>
 
-          <li id="">the TEAcher GRADed the STUdents' ESsays.</li>
+          <li id="VERB">the TEAcher GRADed the STUdents' ESsays.</li>
           <li className="margin-bottom-20 list-none">Giáo viên chấm bài luận của học sinh.</li>
 
-          <li id="">she is in the FIFTH GRADE.</li>
+          <li id="NOUN">she is in the FIFTH GRADE.</li>
           <li className="list-none">Cô ấy học lớp năm.</li>
 
         </ul>

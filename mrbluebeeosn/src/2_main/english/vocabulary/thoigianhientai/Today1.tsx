@@ -32,10 +32,6 @@ export default function toDAY1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective">ADjective</HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
@@ -117,7 +113,7 @@ export default function toDAY1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">toDAY is a BEAUtiful DAY.</li>
+          <li id="NOUN">toDAY is a BEAUtiful DAY.</li>
           <li className="margin-bottom-20 list-none">Hôm nay là một ngày đẹp trời.</li>
 
           <li id=""><strong>ever</strong>y DAY i GO to SCHOOL.</li>

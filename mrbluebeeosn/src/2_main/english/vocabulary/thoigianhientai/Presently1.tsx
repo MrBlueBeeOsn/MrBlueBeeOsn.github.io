@@ -36,6 +36,10 @@ export default function PRESently1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB">VERB</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
@@ -124,10 +128,10 @@ export default function PRESently1(): React.JSX.Element {
           <li id="ADjective">the PRESent situAtion is VERy DIFFERent.</li>
           <li className="margin-bottom-20 list-none">Tình hình hiện tại rất khó khăn.</li>
 
-          <li id="">i will preSENT my iDEas at the MEETing.</li>
+          <li id="VERB">i will preSENT my iDEas at the MEETing.</li>
           <li className="margin-bottom-20 list-none">Tôi sẽ trình bày ý tưởng của mình tại cuộc họp.</li>
 
-          <li id="">as a PRESent for her graduAtion, i BOUGHT her a NEW LAPtop.</li>
+          <li id="NOUN">as a PRESent for her graduAtion, i BOUGHT her a NEW LAPtop.</li>
           <li className="list-none">Như một món quà tốt nghiệp, tôi đã mua cho cô ấy một chiếc laptop mới.</li>
 
         </ul>

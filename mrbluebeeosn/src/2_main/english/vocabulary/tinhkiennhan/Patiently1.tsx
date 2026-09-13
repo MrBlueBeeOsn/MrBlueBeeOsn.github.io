@@ -120,10 +120,10 @@ export default function PAtiently1(): React.JSX.Element {
           <li id="ADjective">he is a PAtient TEACHer.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một giáo viên kiên nhẫn.</li>
 
-          <li id="">the DOCtor TREAted the PAtient with CARE.</li>
+          <li id="NOUN">the DOCtor TREAted the PAtient with CARE.</li>
           <li className="margin-bottom-20 list-none">Bác sĩ chăm sóc bệnh nhân một cách cẩn thận.</li>
 
-          <li id="">he has a LOT of PAtience.</li>
+          <li className="list-none">he has a LOT of PAtience.</li>
           <li className="list-none">Anh ấy có rất nhiều sự kiên nhẫn.</li>
 
         </ul>

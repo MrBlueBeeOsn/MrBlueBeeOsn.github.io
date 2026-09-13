@@ -32,11 +32,11 @@ export default function SOON1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADjective">ADjective</HashLink>
+						<HashLink smooth to="#ADverb-er">ADverb-er</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#NOUN">NOUN</HashLink>
+						<HashLink smooth to="#ADverb-est">ADverb-est</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -117,11 +117,11 @@ export default function SOON1(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li id="">i will rePLY SOONest.</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ phản hồi sớm nhất.</li>
-
-					<li id="">when can you COME? the SOONer, the BETter.</li>
+					<li id="ADverb-er">when can you COME? the SOONer, the BETter.</li>
 					<li className="list-none">Bạn có thể đến khi nào? Càng sớm càng tốt.</li>
+					
+					<li id="ADverb-est">i will rePLY SOONest.</li>
+					<li className="margin-bottom-20 list-none">Tôi sẽ phản hồi sớm nhất.</li>
 
 				</ul>
 

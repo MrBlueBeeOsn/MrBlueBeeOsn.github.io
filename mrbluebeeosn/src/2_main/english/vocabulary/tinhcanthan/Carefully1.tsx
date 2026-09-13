@@ -120,7 +120,7 @@ export default function CAREfully1(): React.JSX.Element {
           <li id="ADjective">be CAREful with that GLASS.</li>
           <li className="margin-bottom-20 list-none">Cẩn thận với cái ly đó.</li>
 
-          <li id="">she TAKES GOOD CARE of her PLANTS.</li>
+          <li id="NOUN">she TAKES GOOD CARE of her PLANTS.</li>
           <li className="list-none">Cô ấy chăm sóc cây cối rất tốt.</li>
 
         </ul>

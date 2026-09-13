@@ -36,7 +36,7 @@ export default function TIRElessly1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#NOUN">NOUN</HashLink>
+            <HashLink smooth to="#VERB">VERB</HashLink>
           </span> &nbsp;
 
         </p>
@@ -117,11 +117,11 @@ export default function TIRElessly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">the LONG WALK TIRE me OUT.</li>
-          <li className="margin-bottom-20 list-none">Cái đi bộ dài làm tôi mệt mỏi.</li>
-
-          <li id="">i'm TOO TIred to gO OUT toNIGHT.</li>
+          <li id="ADjective">i'm TOO TIred to gO OUT toNIGHT.</li>
           <li className="list-none">Tôi quá mệt để đi ra ngoài tối nay.</li>
+          
+          <li id="VERB">the LONG WALK TIred me OUT.</li>
+          <li className="margin-bottom-20 list-none">Cái đi bộ dài đã làm tôi mệt mỏi.</li>
 
         </ul>
 

@@ -133,10 +133,10 @@ export default function POSitively1(): React.JSX.Element {
           <li id="ADjective">he has a POSitive ATtitude.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có thái độ tích cực.</li>
 
-          <li id="">the TEST reSULT was POSitive.</li>
+          <li className="list-none">the TEST reSULT was POSitive.</li>
           <li className="margin-bottom-20 list-none">Kết quả xét nghiệm là dương tính.</li>
 
-          <li id="">her posiTIVity is conTAgious.</li>
+          <li id="NOUN">her posiTIVity is conTAgious.</li>
           <li className="list-none">Sự tích cực của cô ấy có tính lan truyền.</li>
 
         </ul>

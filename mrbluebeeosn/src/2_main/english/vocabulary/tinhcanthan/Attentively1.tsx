@@ -120,7 +120,7 @@ export default function atTENtively1(): React.JSX.Element {
           <li id="ADjective">he is an atTENtive STUdent.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một học sinh chăm chú.</li>
 
-          <li id="">he PAID atTENtion to the DEtails.</li>
+          <li id="NOUN">he PAID atTENtion to the DEtails.</li>
           <li className="list-none">Anh ấy chú ý đến các chi tiết.</li>
 
         </ul>

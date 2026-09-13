@@ -36,6 +36,10 @@ export default function perSIStently1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB">VERB</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
@@ -117,13 +121,13 @@ export default function perSIStently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">despite the DIFficulties, she perSISted in her STUDies.</li>
+          <li id="ADjective">she's a VEry perSIStent PERson.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy là một người rất kiên trì.</li>
+          
+          <li id="VERB">despite the DIFficulties, she perSISted in her STUDies.</li>
           <li className="margin-bottom-20 list-none">Dù gặp khó khăn, cô ấy vẫn kiên trì học tập.</li>
 
-          <li id="">she's a VEry perSIStent PERson.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy là một người rất kiên trì.</li>
-
-          <li id="">her perSIStence PAID OFF.</li>
+          <li id="NOUN">her perSIStence PAID OFF.</li>
           <li className="list-none">Sự kiên trì của cô ấy đã được đền đáp.</li>
 
         </ul>

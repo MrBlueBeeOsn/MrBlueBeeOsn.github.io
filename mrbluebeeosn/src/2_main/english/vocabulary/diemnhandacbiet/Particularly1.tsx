@@ -36,7 +36,7 @@ export default function parTICularly1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#NOUN">NOUN</HashLink>
+            <HashLink smooth to="#VERB">VERB</HashLink>
           </span> &nbsp;
 
         </p>
@@ -120,7 +120,7 @@ export default function parTICularly1(): React.JSX.Element {
           <li id="ADjective">she is <Link to="/vocabulary/VERy-1">VERy</Link> parTICular about her CLOTHES.</li>
           <li className="margin-bottom-20 list-none">Cô ấy rất kỹ tính về quần áo của mình.</li>
 
-          <li id="">can you parTICularize the PROBlem?</li>
+          <li id="VERB">can you parTICularize the PROBlem?</li>
           <li className="list-none">Bạn có thể nêu chi tiết vấn đề không?</li>
 
         </ul>

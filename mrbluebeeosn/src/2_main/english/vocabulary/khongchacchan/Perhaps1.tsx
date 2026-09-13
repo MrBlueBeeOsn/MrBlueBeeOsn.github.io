@@ -31,14 +31,6 @@ export default function perHAPS1(): React.JSX.Element {
             <HashLink smooth to="#ADverb">ADverb</HashLink>
           </span> &nbsp;
 
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective">ADjective</HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#NOUN">NOUN</HashLink>
-          </span> &nbsp;
-
         </p>
 
         <p className="example-sentence text-center">
@@ -117,8 +109,7 @@ export default function perHAPS1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">his WORK was hapHAZard and disORganized.</li>
-          <li className="list-none">Công việc của anh ấy rất ngẫu nhiên và lộn xộn.</li>
+          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>perHAPS</strong>" vì nó là một từ đơn lẻ.</li>
 
         </ul>
 
@@ -136,7 +127,7 @@ export default function perHAPS1(): React.JSX.Element {
 
           <li><Link to="/vocabulary/MAYbe-1">MAYbe</Link> we can GO to the PARK LAter.</li>
           <li className="margin-bottom-20 list-none">Có lẽ chúng ta có thể đi công viên sau.</li>
-
+          
           <li>it is <Link to="/vocabulary/POSsibly-1">POSsibly</Link> the BEST BOOK i've EVer READ.</li>
           <li className="list-none">Có thể đây là cuốn sách hay nhất mà tôi từng đọc.</li>
 
