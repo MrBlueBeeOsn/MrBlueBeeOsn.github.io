@@ -117,7 +117,7 @@ export default function TIRElessly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the LONG WALK TIRE me OUT.</li>
+          <li id="ADjective">the LONG WALK TIRE me OUT.</li>
           <li className="margin-bottom-20 list-none">Cái đi bộ dài làm tôi mệt mỏi.</li>
 
           <li id="">i'm TOO TIred to gO OUT toNIGHT.</li>

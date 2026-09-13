@@ -117,7 +117,7 @@ export default function VISibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the STARS are VISible on a CLEAR NIGHT.</li>
+          <li id="ADjective">the STARS are VISible on a CLEAR NIGHT.</li>
           <li className="margin-bottom-20 list-none">Các ngôi sao có thể nhìn thấy vào một đêm trời quang.</li>
 
           <li id="">she has EXcellent VISion.</li>

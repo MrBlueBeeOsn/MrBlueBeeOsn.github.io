@@ -117,7 +117,7 @@ export default function ACcurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">his inforMAtion is ALways ACcurate.</li>
+          <li id="ADjective">his inforMAtion is ALways ACcurate.</li>
           <li className="margin-bottom-20 list-none">Thông tin của anh ấy luôn chính xác.</li>
 
           <li id="">the ACcuracy of the TEST reSULTS is CRUcial.</li>

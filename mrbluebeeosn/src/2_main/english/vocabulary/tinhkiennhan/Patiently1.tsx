@@ -117,7 +117,7 @@ export default function PAtiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he is a PAtient TEACHer.</li>
+          <li id="ADjective">he is a PAtient TEACHer.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một giáo viên kiên nhẫn.</li>
 
           <li id="">the DOCtor TREAted the PAtient with CARE.</li>

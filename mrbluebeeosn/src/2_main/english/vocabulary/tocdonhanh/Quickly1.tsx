@@ -119,7 +119,7 @@ export default function QUICKly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he is a QUICK LEARNer.</li>
+          <li id="ADjective">he is a QUICK LEARNer.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người học nhanh.</li>
 
           <li id="">his QUICKness imPRESSED <strong>ever</strong>yone.</li>

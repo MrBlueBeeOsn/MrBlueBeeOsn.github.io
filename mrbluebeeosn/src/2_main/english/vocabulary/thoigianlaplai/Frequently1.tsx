@@ -117,7 +117,7 @@ export default function FREquently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he is a FREquent VISitor to the LIbrary.</li>
+          <li id="ADjective">he is a FREquent VISitor to the LIbrary.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một khách quen của thư viện.</li>
 
           <li id="">the FREquency of ACcidents has inCREASED.</li>

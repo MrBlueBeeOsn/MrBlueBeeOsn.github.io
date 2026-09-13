@@ -117,7 +117,7 @@ export default function esPECially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">THIS is a SPECial ocCAsion.</li>
+          <li id="ADjective">THIS is a SPECial ocCAsion.</li>
           <li className="list-none">Đây là một dịp đặc biệt.</li>
 
         </ul>

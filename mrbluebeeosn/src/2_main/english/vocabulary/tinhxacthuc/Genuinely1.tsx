@@ -117,7 +117,7 @@ export default function GENuinely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he has a GENuine INterest in ART.</li>
+          <li id="ADjective">he has a GENuine INterest in ART.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một sự quan tâm chân thành đến nghệ thuật.</li>
 
           <li id="">the WIND TURbine GENerates elecTRICity.</li>

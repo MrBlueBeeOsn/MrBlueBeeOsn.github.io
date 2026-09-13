@@ -117,7 +117,7 @@ export default function Openly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the DOOR is Open.</li>
+          <li id="ADjective">the DOOR is Open.</li>
           <li className="margin-bottom-20 list-none">Cửa đang mở.</li>
 
           <li id="">PLEASE Open the WINdow.</li>

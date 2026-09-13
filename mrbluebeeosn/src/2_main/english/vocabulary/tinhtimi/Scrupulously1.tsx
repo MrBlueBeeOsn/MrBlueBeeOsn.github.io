@@ -117,7 +117,7 @@ export default function SCRUpulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he is a SCRUpulous PERson.</li>
+          <li id="ADjective">he is a SCRUpulous PERson.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người chu đáo.</li>
 
           <li id="">her SCRUpulousness imPRESSED <strong>ever</strong>yone.</li>

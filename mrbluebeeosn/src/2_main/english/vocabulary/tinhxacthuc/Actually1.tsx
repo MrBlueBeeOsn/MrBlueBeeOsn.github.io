@@ -117,7 +117,7 @@ export default function ACtually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the ACtual COST of the PROject was HIGHer than exPECTed.</li>
+          <li id="ADjective">the ACtual COST of the PROject was HIGHer than exPECTed.</li>
           <li className="margin-bottom-20 list-none">Chi phí thực tế của dự án cao hơn dự kiến.</li>
 
           <li id="">the actuALity of the situAtion is MUCH WORSE than i THOUGHT.</li>

@@ -117,7 +117,7 @@ export default function HIGHly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the MOUNtain is VERy HIGH.</li>
+          <li id="ADjective">the MOUNtain is VERy HIGH.</li>
           <li className="list-none">Ngọn núi rất cao.</li>
 
         </ul>

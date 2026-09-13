@@ -127,7 +127,7 @@ export default function SO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">it was RAINing, SO we STAYED HOME.</li>
+          <li id="ADjective">it was RAINing, SO we STAYED HOME.</li>
           <li className="margin-bottom-20 list-none">Trời đang mưa, vì vậy chúng tôi ở nhà.</li>
 
           <li id="">he WORKED HARD, SO he GOT a proMOtion.</li>

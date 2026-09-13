@@ -117,7 +117,7 @@ export default function SOFTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the BLANket is VERy SOFT.</li>
+          <li id="ADjective">the BLANket is VERy SOFT.</li>
           <li className="list-none">Chăn rất mềm.</li>
 
         </ul>

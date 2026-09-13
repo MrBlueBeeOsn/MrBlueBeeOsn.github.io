@@ -117,7 +117,7 @@ export default function sucCESSfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">his sucCESS was due to HARD WORK.</li>
+          <li id="ADjective">his sucCESS was due to HARD WORK.</li>
           <li className="margin-bottom-20 list-none">Sự thành công của anh ấy là nhờ làm việc chăm chỉ.</li>
 
           <li id="">the PARTy was a sucCESSful eVENT.</li>

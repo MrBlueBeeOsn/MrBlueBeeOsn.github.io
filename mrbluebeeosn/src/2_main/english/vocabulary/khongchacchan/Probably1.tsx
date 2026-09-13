@@ -117,7 +117,7 @@ export default function PROBably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">it's PROBable that it will RAIN toMORrow.</li>
+          <li id="ADjective">it's PROBable that it will RAIN toMORrow.</li>
           <li className="margin-bottom-20 list-none">Có khả năng trời sẽ mưa ngày mai.</li>
 
           <li id="">the probaBILity of WINning is LOW.</li>

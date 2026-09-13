@@ -120,7 +120,7 @@ export default function TENderly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he has a TENder HEART.</li>
+          <li id="ADjective">he has a TENder HEART.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một trái tim dịu dàng.</li>
 
           <li id="">she TENDED to the INjured BIRD.</li>

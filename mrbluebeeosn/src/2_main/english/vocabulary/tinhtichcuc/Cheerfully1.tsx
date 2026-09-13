@@ -117,7 +117,7 @@ export default function CHEERfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the CROWD CHEERED the TEAM ON.</li>
+          <li id="ADjective">the CROWD CHEERED the TEAM ON.</li>
           <li className="margin-bottom-20 list-none">Đám đông cổ vũ đội bóng.</li>
 
           <li id="">her CHEER BRIGHtened UP the ROOM.</li>

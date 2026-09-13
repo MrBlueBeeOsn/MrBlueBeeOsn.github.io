@@ -121,7 +121,7 @@ export default function PRESently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the PRESent situAtion is VERy DIFFERent.</li>
+          <li id="ADjective">the PRESent situAtion is VERy DIFFERent.</li>
           <li className="margin-bottom-20 list-none">Tình hình hiện tại rất khó khăn.</li>
 
           <li id="">i will preSENT my iDEas at the MEETing.</li>

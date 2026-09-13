@@ -117,7 +117,7 @@ export default function apPARently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">it's apPARent that she's TIred.</li>
+          <li id="ADjective">it's apPARent that she's TIred.</li>
           <li className="list-none">Rõ ràng là cô ấy mệt mỏi.</li>
 
         </ul>

@@ -120,7 +120,7 @@ export default function beLAtedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he OFfered a beLAted aPOLogy.</li>
+          <li id="ADjective">he OFfered a beLAted aPOLogy.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đưa ra một lời xin lỗi muộn màng.</li>
 
           <li id="">we reCEIVED a beLAted inviTAtion.</li>

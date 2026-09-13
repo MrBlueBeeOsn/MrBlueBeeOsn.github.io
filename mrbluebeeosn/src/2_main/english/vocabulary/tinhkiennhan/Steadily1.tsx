@@ -120,7 +120,7 @@ export default function STEADily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he has a STEADy JOB.</li>
+          <li id="ADjective">he has a STEADy JOB.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một công việc ổn định.</li>
         
           <li id="">STEADy yourSELF!</li>

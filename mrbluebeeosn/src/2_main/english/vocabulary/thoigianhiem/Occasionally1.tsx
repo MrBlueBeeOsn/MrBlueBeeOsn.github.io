@@ -117,7 +117,7 @@ export default function ocCAsionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">on SPEcial ocCAsions, we WEAR FORmal CLOTHES.</li>
+          <li id="ADjective">on SPEcial ocCAsions, we WEAR FORmal CLOTHES.</li>
           <li className="list-none">Trong những dịp đặc biệt, chúng ta mặc quần áo trang trọng.</li>
 
         </ul>

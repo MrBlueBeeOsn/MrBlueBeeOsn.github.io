@@ -117,7 +117,7 @@ export default function TRUly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">THAT is a TRUE STOry.</li>
+          <li id="ADjective">THAT is a TRUE STOry.</li>
           <li className="margin-bottom-20 list-none">Đó là một câu chuyện có thật.</li>
 
           <li id="">the TRUTH will SET you FREE.</li>

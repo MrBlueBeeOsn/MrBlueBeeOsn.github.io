@@ -117,7 +117,7 @@ export default function DILigently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he is a DILigent STUdent.</li>
+          <li id="ADjective">he is a DILigent STUdent.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một học sinh chăm chỉ.</li>
 
           <li id="">her DILigence was reWARded.</li>

@@ -117,7 +117,7 @@ export default function CLEARly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the SKY is CLEAR toDAY.</li>
+          <li id="ADjective">the SKY is CLEAR toDAY.</li>
           <li className="margin-bottom-20 list-none">Trời hôm nay trong xanh.</li>
 
           <li id="">the CLARity of her explaNAtion was imPRESsive.</li>

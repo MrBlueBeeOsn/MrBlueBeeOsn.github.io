@@ -119,10 +119,10 @@ export default function RAPidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the RIVer has a RAPid CURrent.</li>
+          <li id="ADjective">the RIVer has a RAPid CURrent.</li>
           <li className="margin-bottom-20 list-none">Con sông có dòng chảy siết.</li>
 
-          <li id="">the raPIDity of CHANGE surPRISED us.</li>
+          <li id="NOUN">the raPIDity of CHANGE surPRISED us.</li>
           <li className="list-none">Tốc độ thay đổi khiến chúng tôi ngạc nhiên.</li>
 
         </ul>

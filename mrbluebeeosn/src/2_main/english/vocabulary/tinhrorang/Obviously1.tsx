@@ -117,7 +117,7 @@ export default function OBviously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">it's OBvious that he's LYing.</li>
+          <li id="ADjective">it's OBvious that he's LYing.</li>
           <li className="list-none">Rõ ràng là anh ta đang nói dối.</li>
 
         </ul>

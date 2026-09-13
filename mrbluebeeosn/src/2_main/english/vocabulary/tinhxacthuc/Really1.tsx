@@ -120,7 +120,7 @@ export default function REally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">is THIS a REAL DIamond?</li>
+          <li id="ADjective">is THIS a REAL DIamond?</li>
           <li className="list-none">Đây có phải là kim cương thật không?</li>
 
         </ul>

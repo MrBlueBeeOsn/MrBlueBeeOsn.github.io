@@ -117,7 +117,7 @@ export default function LAzily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she is TOO LAzy to CLEAN her ROOM.</li>
+          <li id="ADjective">she is TOO LAzy to CLEAN her ROOM.</li>
           <li className="list-none">Cô ấy quá lười để dọn phòng.</li>
 
         </ul>

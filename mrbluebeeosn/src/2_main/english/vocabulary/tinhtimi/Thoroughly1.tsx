@@ -117,7 +117,7 @@ export default function THORoughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he GAVE a THORough explaNAtion.</li>
+          <li id="ADjective">he GAVE a THORough explaNAtion.</li>
           <li className="list-none">Anh ấy đã đưa ra một lời giải thích rất kỹ lưỡng.</li>
 
         </ul>

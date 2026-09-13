@@ -119,7 +119,7 @@ export default function NOT1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">there is NOTHing in the BOX.</li>
+          <li id="ADjective">there is NOTHing in the BOX.</li>
           <li className="margin-bottom-20 list-none">Không có gì trong hộp.</li>
 
           <li id="">NObody was at HOME.</li>

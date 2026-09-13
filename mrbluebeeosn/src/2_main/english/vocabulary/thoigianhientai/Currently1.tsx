@@ -117,7 +117,7 @@ export default function CURrently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">the CURrent situAtion is VERy COMplex.</li>
+          <li id="ADjective">the CURrent situAtion is VERy COMplex.</li>
           <li className="margin-bottom-20 list-none">Tình hình hiện tại rất phức tạp.</li>
 
           <li id="">there is a GROWing CURrency of susPICion reGARDing the NEW POLicy.</li>

@@ -117,7 +117,7 @@ export default function perHAPS1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">his WORK was hapHAZard and disORganized.</li>
+          <li id="ADjective">his WORK was hapHAZard and disORganized.</li>
           <li className="list-none">Công việc của anh ấy rất ngẫu nhiên và lộn xộn.</li>
 
         </ul>

@@ -117,7 +117,7 @@ export default function RAREly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">THIS is a RARE BOOK.</li>
+          <li id="ADjective">THIS is a RARE BOOK.</li>
           <li className="list-none">Đây là một cuốn sách hiếm.</li>
 
         </ul>

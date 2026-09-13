@@ -117,7 +117,7 @@ export default function HONestly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">he is an HONest MAN.</li>
+          <li id="ADjective">he is an HONest MAN.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người đàn ông trung thực.</li>
 
           <li id="">HONesty is the BEST POLicy.</li>

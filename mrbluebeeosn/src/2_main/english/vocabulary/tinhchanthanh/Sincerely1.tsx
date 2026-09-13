@@ -117,7 +117,7 @@ export default function sinCEREly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">she GAVE me a sinCERE aPOLogy.</li>
+          <li id="ADjective">she GAVE me a sinCERE aPOLogy.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã xin lỗi tôi một cách chân thành.</li>
 
           <li id="">his sinCERity TOUCHED me.</li>
