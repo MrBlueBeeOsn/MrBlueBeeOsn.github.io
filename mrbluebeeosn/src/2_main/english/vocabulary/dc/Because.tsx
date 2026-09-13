@@ -23,15 +23,27 @@ export default function Because(): React.JSX.Element {
                                             
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#ADverb">ADverb</HashLink>
+            <HashLink smooth to="#conJUNCTion">conJUNCTion</HashLink>
           </span> &nbsp;
 
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#prepoSITion">prepoSITion</HashLink>
+          </span> &nbsp;
+          
           <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#ADjective">ADjective</HashLink>
           </span> &nbsp;
-
+          
           <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#NOUN">NOUN</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB">VERB</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#ADverb">ADverb</HashLink>
           </span> &nbsp;
 
         </p>
@@ -44,7 +56,7 @@ export default function Because(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li id="">we STAYED inDOORS [be<strong>cause</strong>] it was RAINing HEAVily.</li>
+          <li id="conJUNCTion">we STAYED inDOORS [be<strong>cause</strong>] it was RAINing HEAVily.</li>
           <li className="list-none">Chúng tôi ở trong nhà [bởi vì] trời mưa to.</li>
 
           <li>i PASSED the exAM [be<strong>cause</strong>] i STUDied HARD EVERy NIGHT.</li>
@@ -86,34 +98,29 @@ export default function Because(): React.JSX.Element {
       <p className="margin-bottom-20">Từ "be<strong>cause</strong>" ban đầu được hình thành từ cụm từ gốc "by CAUSE of". Do đó, họ từ của nó tập trung xoay quanh gốc từ gốc là CAUSE.</p>
 
         <ul className="list-square">
-          
-          <li id="">be<strong>cause</strong> of (prepoSITion) /bɪˈkɒz əv/ (UK) hoặc /bɪˈkɔːz əv/ (US)</li>
-          <li className="list-none">the FLIGHT was deLAYED [be<strong>cause</strong> of] the THICK FOG.</li>
+        
+          <li id="prepoSITion">the FLIGHT was deLAYED [be<strong>cause</strong> of] the THICK FOG.</li>
           <li className="margin-bottom-20 list-none">Chuyến bay đã bị hoãn [vì] sương mù dày đặc.</li>
-          
-          <li id="">CAUSE of (NOUN) /kɔːz/</li>
-          <li className="list-none">the poLICE are TRYing to FIND the [CAUSE of] the ACcident.</li>
-          <li className="margin-bottom-20 list-none">Cảnh sát đang cố gắng tìm ra [nguyên nhân] của vụ tai nạn.</li>
-
-          <li id="">CAUSE (VERB) /kɔːz/</li>
-          <li className="list-none">the HEAVy RAIN could [CAUSE] seVERE FLOODing in LOW-LYing AReas.</li>
-          <li className="margin-bottom-20 list-none">Trận mưa lớn có thể [gây ra] lũ lụt nghiêm trọng ở các vùng trũng thấp.</li>
-
-          <li id="">CAUsal (ADjective) /ˈkɔːzl/</li>
+        
+          <li id="ADjective">CAUsal (ADjective) /ˈkɔːzl/</li>
           <li className="list-none">there is a CLEAR [CAUsal] LINK between POVerty and LACK of eduCAtion.</li>
           <li className="margin-bottom-20 list-none">Có một mối liên hệ [nhân quả] rõ ràng giữa nghèo đói và sự thiếu thốn giáo dục.</li>
 
-          <li id="">cauSALity (NOUN) - Trừu tượng /kɔːˈzæləti/</li>
+          <li id="NOUN">the poLICE are TRYing to FIND the [CAUSE] of the ACcident.</li>
+          <li className="margin-bottom-20 list-none">Cảnh sát đang cố gắng tìm ra [nguyên nhân] của vụ tai nạn.</li>
+          
           <li className="list-none">the STUDy inVEStigates the LAW of [cauSALity] in HUman beHAvior.</li>
           <li className="margin-bottom-20 list-none">Nghiên cứu điều tra quy luật [nhân quả] trong hành vi của con người.</li>
 
-          <li id="">CAUsally (ADverb) /ˈkɔːzəli/</li>
-          <li className="list-none">the TWO hisTORical eVENTS are [CAUsally] reLAted to EACH OTHer.</li>
-          <li className="margin-bottom-20 list-none">Hai sự kiện lịch sử này có mối quan hệ [nhân quả] với nhau.</li>
-
-          <li id="">cauSAtion (NOUN) /kɔːˈzeɪʃn/</li>
           <li className="list-none">the REsearch PROVED a STRONG [cauSAtion] between SMOking and LUNG diSEASE.</li>
           <li className="list-none">Nghiên cứu đã chứng minh một [mối quan hệ nhân quả] mạnh mẽ giữa việc hút thuốc và bệnh phổi.</li>
+
+          <li id="VERB">the HEAVy RAIN could [CAUSE] seVERE FLOODing in LOW-LYing AReas.</li>
+          <li className="margin-bottom-20 list-none">Trận mưa lớn có thể [gây ra] lũ lụt nghiêm trọng ở các vùng trũng thấp.</li>
+
+          <li id="ADverb">the TWO hisTORical eVENTS are [CAUsally] reLAted to EACH OTHer.</li>
+          <li className="margin-bottom-20 list-none">Hai sự kiện lịch sử này có mối quan hệ [nhân quả] với nhau.</li>
+          
 
         </ul>
 

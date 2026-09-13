@@ -23,15 +23,11 @@ export default function Although(): React.JSX.Element {
                                             
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#conJUNCTion">conJUNCTion</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#ADverb">ADverb</HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective">ADjective</HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
         </p>
@@ -44,7 +40,7 @@ export default function Although(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li id="">[al<strong>though</strong>] it RAINED HEAVily, they STILL WENT for a WALK.</li>
+          <li id="conJUNCTion">[al<strong>though</strong>] it RAINED HEAVily, they STILL WENT for a WALK.</li>
           <li className="list-none">[Mặc dù] trời mưa to, họ vẫn đi dạo.</li>
 
           <li>the ROOM was RATHer SMALL, [al<strong>though</strong>] it was VERy CLEAN and COMFORTable.</li>
@@ -87,17 +83,8 @@ export default function Although(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">though (conJUNCTion) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
-          <li className="list-none">they deCIded to GO on a PICnic, [though] the WEATHer was disapPOINting.</li>
-          <li className="margin-bottom-20 list-none">Họ đã quyết định đi dã ngoại, [dẫu cho] thời tiết thật đáng thất vọng.</li>
-
-          <li id="">THOUGH (ADverb) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
-          <li className="list-none">we comPLETely forGOT the MAP. we MANaged to FIND the hoTEL, THOUGH.</li>
+          <li id="ADverb">we comPLETely forGOT the MAP. we MANaged to FIND the hoTEL, THOUGH.</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã hoàn toàn quên mang theo bản đồ. [Dẫu vậy], chúng tôi vẫn tìm được khách sạn.</li>
-
-          <li id="">al<strong>be</strong>it (conJUNCTion) - Trang trọng /ˌɔːlˈbiːɪt/</li>
-          <li className="list-none">the uniVERsity acCEPTed the proPOsal, [al<strong>be</strong>it] with CERtain reserVAtions.</li>
-          <li className="list-none">Trường đại học đã chấp nhận đề xuất, [mặc dù] vẫn có những sự dè dặt nhất định.</li>
 
         </ul>
 
@@ -119,8 +106,11 @@ export default function Although(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>though she was TIred, she FINished the rePORT on TIME.</li>
+          <li>[though] she was TIred, she FINished the rePORT on TIME.</li>
           <li className="list-none">[Mặc dù] cô ấy mệt, cô ấy vẫn hoàn thành bản báo cáo đúng hạn.</li>
+
+          <li>they deCIded to GO on a PICnic, [though] the WEATHer was disapPOINting.</li>
+          <li className="list-none">Họ đã quyết định đi dã ngoại, [dẫu cho] thời tiết thật đáng thất vọng.</li>
 
         </ul>
 
@@ -213,6 +203,22 @@ export default function Although(): React.JSX.Element {
           <li className="list-none">[Mặc dù] tôi hiểu quan điểm của bạn, tôi không thể đồng ý với quyết định của bạn.</li>
 
         </ul>
+
+        {/* =============================
+            8. 
+      ============================= */}
+
+      <p className="margin-top-20" id="">8. al<strong>be</strong>it /ˌɔːlˈbiːɪt/</p>
+
+      <p className="text-indent-whole">Trang trọng</p>
+
+        <ul className="list-square">
+
+          <li id="">the uniVERsity acCEPTed the proPOsal, [al<strong>be</strong>it] with CERtain reserVAtions.</li>
+          <li className="list-none">Trường đại học đã chấp nhận đề xuất, [mặc dù] vẫn có những sự dè dặt nhất định.</li>
+
+        </ul>
+
 
       <div className="viewcounter">
       

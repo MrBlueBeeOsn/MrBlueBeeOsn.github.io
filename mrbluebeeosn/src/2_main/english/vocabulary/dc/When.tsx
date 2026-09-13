@@ -23,15 +23,11 @@ export default function When(): React.JSX.Element {
                                             
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#conJUNCTion">conJUNCTion</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#ADverb">ADverb</HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective">ADjective</HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#NOUN">NOUN</HashLink>
           </span> &nbsp;
 
         </p>
@@ -44,11 +40,15 @@ export default function When(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li id="">i will CALL you [when] i arRIVE at the STAtion.</li>
+          <li id="conJUNCTion">i will CALL you [when] i arRIVE at the STAtion.</li>
           <li className="list-none">Tôi sẽ gọi cho bạn [khi] tôi đến nhà ga.</li>
 
           <li>he LIVED in LONdon [when] he was a CHILD.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã sống ở Luân Đôn <strong>khi anh ấy còn là một đứa trẻ</strong>.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã sống ở Luân Đôn [khi] anh ấy còn là một đứa trẻ.</li>
+
+          <li>i will NEVer forGET the DAY [when] we FIRST MET.</li>
+          <li className="margin-bottom-20 list-none">Tôi sẽ không bao giờ quên cái ngày [mà] chúng ta lần đầu gặp gỡ.</li>
+          <li className="list-none">Dùng để thay thế cho một Danh Cơ chỉ thời gian đứng trước và nối liền với câu con quan hệ</li>
       
         </ul>
 
@@ -90,30 +90,16 @@ export default function When(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="">WHEN (ADverb) /wen/</li>
-          <li className="list-none">[WHEN] does the MOvie START?</li>
+          <li id="ADverb">[WHEN] does the MOvie START?</li>
           <li className="margin-bottom-20 list-none"><strong>Khi nào</strong> thì bộ phim bắt đầu?</li>
 
-          <li id="">when (conJUNCTion) /wen/ - Dùng để thay thế cho một Danh Cơ chỉ thời gian đứng trước và nối liền với câu con quan hệ</li>
-          <li className="list-none">i will NEVer forGET the DAY [when] we FIRST MET.</li>
-          <li className="margin-bottom-20 list-none">Tôi sẽ không bao giờ quên cái ngày <strong>mà chúng ta lần đầu gặp gỡ</strong>.</li>
+          <li>you DON'T HAVE to PAY me BACK RIGHT NOW. JUST DO it [wheNEVer].</li>
+          <li className="list-none">Bạn không cần phải trả tiền lại cho tôi ngay bây giờ đâu. Cứ làm việc đó <strong>vào bất cứ lúc nào cũng được</strong>.</li>
+          <li className="margin-bottom-20 list-none">Dùng độc lập</li>
 
-          <li id="">whenever (conJUNCTion) /wenˈevə(r)/</li>
-          <li className="list-none">you can BORrow my CAR [whenever] you NEED it.</li>
-          <li className="margin-bottom-20 list-none">Bạn có thể mượn xe của tôi <strong>bất cứ khi nào bạn cần nó</strong>.</li>
-
-          <li id="">wheNEVer (ADverb) - Dùng độc lập</li>
-          <li className="list-none">you DON'T HAVE to PAY me BACK RIGHT NOW. JUST DO it [wheNEVer].</li>
-          <li className="margin-bottom-20 list-none">Bạn không cần phải trả tiền lại cho tôi ngay bây giờ đâu. Cứ làm việc đó <strong>vào bất cứ lúc nào cũng được</strong>.</li>
-
-          <li id="">wheNEVer (ADverb) - Dùng trong câu hỏi nghi vấn</li>
-          <li className="list-none">[wheNEVer] WILL they FINish this conSTRUCTion WORK?</li>
+          <li>[wheNEVer] WILL they FINish this conSTRUCTion WORK?</li>
           <li className="margin-bottom-20 list-none">Khi nào thì họ mới chịu hoàn thành xong công trình xây dựng này đây không biết?</li>
-
-
-          <li id="">whence (ADverb) - Từ cổ / Trang trọng /wens/</li>
-          <li className="list-none">they reTURNED [whence] they CAME.</li>
-          <li className="list-none">Họ đã quay trở lại <strong>nơi mà họ đã từ đó đến</strong>.</li>
+          <li className="list-none">Dùng trong câu hỏi nghi vấn</li>
 
         </ul>
 
@@ -214,6 +200,37 @@ export default function When(): React.JSX.Element {
           <li className="list-none">[Vào lúc] chúng tôi đến được rạp chiếu phim, bộ phim đã bắt đầu rồi.</li>
 
         </ul>
+
+
+      {/* =============================
+            7. 
+      ============================= */}
+
+      <p className="margin-top-20" id="">7. whenever</p>
+
+        <ul className="list-square">
+
+          <li>you can BORrow my CAR [whenever] you NEED it.</li>
+          <li className="margin-bottom-20 list-none">Bạn có thể mượn xe của tôi <strong>bất cứ khi nào bạn cần nó</strong>.</li>
+
+        </ul>
+      
+
+      {/* =============================
+            8. 
+      ============================= */}
+
+      <p className="margin-top-20" id="">8. whence</p>
+
+      <p className="text-indent-whole">Từ cổ / Trang trọng</p>
+
+        <ul className="list-square">
+
+          <li>they reTURNED [whence] they CAME.</li>
+          <li className="list-none">Họ đã quay trở lại <strong>nơi mà họ đã từ đó đến</strong>.</li>
+
+        </ul>
+
 
       <div className="viewcounter">
       

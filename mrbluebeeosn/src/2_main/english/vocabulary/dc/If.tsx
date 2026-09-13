@@ -23,11 +23,15 @@ export default function If(): React.JSX.Element {
                                             
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#ADverb">ADverb</HashLink>
+            <HashLink smooth to="#conJUNCTion1">conJUNCTion 1</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective">ADjective</HashLink>
+            <HashLink smooth to="#conJUNCTion2">conJUNCTion 2</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#conJUNCTion3">conJUNCTion 3</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -44,8 +48,23 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li id="">[if] you STUDy HARD, you will PASS the EXAM.</li>
+          <li id="conJUNCTion1">[if] you STUDy HARD, you will PASS the EXAM.</li>
           <li className="list-none">Nếu bạn học hành chăm chỉ, bạn sẽ vượt qua kỳ thi.</li>
+
+          <li className="list-none">[if] it RAINS toMORrow, we will CANcel the PICnic.</li>
+          <li className="margin-bottom-20 list-none">[Nếu] ngày mai trời mưa, chúng tôi sẽ hủy chuyến dã ngoại.</li>
+
+          <li className="list-none">we can GO for a WALK [if] the RAIN STOPS.</li>
+          <li className="margin-bottom-20 list-none">Chúng ta có thể đi dạo [nếu] cơn mưa tạnh.</li>
+
+          <li id="conJUNCTion2">[if] i had a LOT of MONey, i would TRAVel around the WORLD.</li>
+          <li className="margin-bottom-20 list-none">[Nếu] tôi có thật nhiều tiền, tôi sẽ đi du lịch quanh thế giới.</li>
+
+          <li id="conJUNCTion3">[if] she had STARTed EARlier, she would NOT have MISSED the TRAIN.</li>
+          <li className="margin-bottom-20 list-none">[Nếu] cô ấy bắt đầu sớm hơn, cô ấy đã không bị lỡ chuyến tàu.</li>
+
+          <li className="list-none">[if] you had STUDied HARDer YESterday, you would KNOW the ANswer NOW.</li>
+          <li className="margin-bottom-20 list-none">[Nếu] hôm qua bạn học hành chăm chỉ hơn thì, bây giờ bạn đã biết câu trả lời rồi</li>
       
         </ul>
 
@@ -83,33 +102,10 @@ export default function If(): React.JSX.Element {
       <p className="margin-bottom-20">Từ "if" là một liên cơ ngắn và không có các dạng biến đổi trực tiếp bằng cách thêm tiền tố hay hậu tố. Tuy nhiên, nó nằm trong một nhóm các từ và cụm từ ngữ pháp biểu thị điều kiện hoặc sự giả định có cùng bản chất chức năng:</p>
 
         <ul className="list-square">
-
-          <li id="">if (1) /ɪf/</li>
-          <li className="list-none">[if] it RAINS toMORrow, we will CANcel the PICnic.</li>
-          <li className="margin-bottom-20 list-none">[Nếu] ngày mai trời mưa, chúng tôi sẽ hủy chuyến dã ngoại.</li>
-
-          <li className="list-none">we can GO for a WALK [if] the RAIN STOPS.</li>
-          <li className="margin-bottom-20 list-none">Chúng ta có thể đi dạo [nếu] cơn mưa tạnh.</li>
-
-          <li id="">if (2) /ɪf/</li>
-          <li className="list-none">[if] i had a LOT of MONey, i would TRAVel around the WORLD.</li>
-          <li className="margin-bottom-20 list-none">[Nếu] tôi có thật nhiều tiền, tôi sẽ đi du lịch quanh thế giới.</li>
-
-          <li id="">if (3) /ɪf/</li>
-          <li className="list-none">[if] she had STARTed EARlier, she would NOT have MISSED the TRAIN.</li>
-          <li className="margin-bottom-20 list-none">[Nếu] cô ấy bắt đầu sớm hơn, cô ấy đã không bị lỡ chuyến tàu.</li>
-
-          <li className="list-none">[if] you had STUDied HARDer YESterday, you would KNOW the ANswer NOW.</li>
-          <li className="margin-bottom-20 list-none">[Nếu] hôm qua bạn học hành chăm chỉ hơn thì, bây giờ bạn đã biết câu trả lời rồi</li>
-
-          <li id="">if Only (Cụm từ cố định - diễn tả ước muốn) /ɪf ˈəʊnli/ (UK) hoặc /ɪf ˈoʊnli/ (US)</li>
-          <li className="list-none">[if Only] i had KNOWN the TRUTH EARlier, THINGS would be DIFFERent.</li>
-          <li className="margin-bottom-20 list-none">[Giá mà] tôi biết sự thật sớm hơn thì mọi chuyện đã khác rồi.</li>
-
-          <li id="">WHAT-ifs (NOUN) - Thường dùng số nhiều 'what-ifs' /wɒt ɪfs/ (UK) hoặc /wʌt ɪfs/ (US)</li> 
-          <li className="list-none">STOP WORrying about ALL the  [what-ifs] and FOCus on the PRESent.</li>
+ 
+          <li id="NOUN">STOP WORrying about ALL the  [what-ifs] and FOCus on the PRESent.</li>
           <li className="margin-bottom-20 list-none">Đừng lo lắng về tất cả những điều [nếu như] nữa và hãy tập trung vào hiện tại.</li>
-          <li className="list-none">Lưu ý ngữ cảnh: Stop worrying về những điều "nếu như" và hãy tập trung vào hiện tại.</li>
+          <li className="list-none">Lưu ý ngữ cảnh: Thường dùng số nhiều 'what-ifs'. Stop worrying về những điều "nếu như" và hãy tập trung vào hiện tại.</li>
 
         </ul>
 
@@ -230,6 +226,23 @@ export default function If(): React.JSX.Element {
           <li className="list-none">Tôi không biết <strong>liệu</strong> cô ấy có chấp nhận lời mời nhận việc đó hay không.</li>
 
         </ul>
+
+      
+      {/* =============================
+            8. 
+      ============================= */}
+
+      <p className="margin-top-20" id="">8. if Only /ɪf ˈəʊnli/ (UK) hoặc /ɪf ˈoʊnli/ (US)</p>
+
+      <p className="text-indent-whole">Cụm từ cố định - diễn tả ước muốn</p>
+
+        <ul className="list-square">
+
+          <li className="list-none">[if Only] i had KNOWN the TRUTH EARlier, THINGS would be DIFFERent.</li>
+          <li className="margin-bottom-20 list-none">[Giá mà] tôi biết sự thật sớm hơn thì mọi chuyện đã khác rồi.</li>
+
+        </ul>
+          
 
       <div className="viewcounter">
       
