@@ -38,7 +38,7 @@ export default function SUDdenly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [SUDdenly][<Link to="/pronunciation/5-vowel-system">SÛD de̛n ly</Link>] /ˈsʌdənli/ ⬤•• (3x)
+              [SUDdenly][<Link to="/pronunciation/5-vowel-system">SƯD de̛n ly</Link>] /ˈsʌdənli/ ⬤•• (3x)
               
             </span>
               

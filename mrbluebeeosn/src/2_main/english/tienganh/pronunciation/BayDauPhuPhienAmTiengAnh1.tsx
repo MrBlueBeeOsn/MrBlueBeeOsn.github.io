@@ -218,12 +218,12 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
 
             <tr>
                 <td><strong>ô</strong> = /ʌ/</td>
-                <td>[OTHer][ÔTH er] /ˈʌð.ər/</td>
+                <td>[OTHer][ƠTH er] /ˈʌð.ər/</td>
             </tr>
 
             <tr>
-                <td><strong>û</strong> = /ʌ/</td>
-                <td>[SUN][SÛN]/sʌn/</td>
+                <td><strong>ư</strong> = /ʌ/</td>
+                <td>[SUN][SƯN]/sʌn/</td>
             </tr>
           </tbody>
         </table>

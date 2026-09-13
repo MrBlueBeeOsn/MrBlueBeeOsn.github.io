@@ -135,31 +135,31 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
       </div>
 
       {/* =============================
-          3. Circumflex (ˆ) — Caret vowel /ʌ/
+          3. Hook (̛ ) — Schwa stress /'ə/
       ============================= */}
 
       <div className="margin-y-15 text-border1 table-container">
 
         <div className="margin-y-30">
 
-          <h3 className="margin-y-50 text-center" id="circumflex">3. Circumflex <mark className="highlight-tertiary-padding-4-8">ˆ</mark> — Caret vowel /ʌ/</h3>
+          <h3 className="margin-y-50 text-center" id="circumflex">Hook (̛ ) <mark className="highlight-tertiary-padding-4-8">ˆ</mark> — Schwa stress /'ə/</h3>
 
-          <p className="margin-top-20 text-indent-whole">📌 Dùng dấu mũ cho âm caret /ʌ/ (âm giữa, miệng mở vừa).</p>
+          <p className="margin-top-20 text-indent-whole">📌 Dùng dấu Hook (̛ ) (như “ơ”) cho âm stress schwa</p>
 
           <p className="margin-y-20 text-word-spacing-1">
-            <span className="highlight-255-padding-4-8">â ô û</span>
+            <span className="highlight-255-padding-4-8">'a̛ 'ơ 'ư</span>
           </p>
 
           <p className="text-center">↓</p>
 
           <p className="margin-y-20 text-word-spacing-1">
-            <span className="highlight-255-padding-4-8">ʌ</span>
+            <span className="highlight-255-padding-4-8">'ə</span>
           </p>
 
           <ul className="list-square">
             <li>[beCAUSE][bė CAUSE] /bɪˈkɒz/ (function word)</li>
-            <li>[OTHer][ÔTH er] /ˈʌð.ər/</li>
-            <li>[BUTton][BÛT tơn] /ˈbʌt.ən/</li>
+            <li>[OTHer][ƠTH er] /ˈəð.ər/</li>
+            <li>[BUTton][BƯT tơn] /ˈbət.ən/</li>
           </ul>
 
         </div>

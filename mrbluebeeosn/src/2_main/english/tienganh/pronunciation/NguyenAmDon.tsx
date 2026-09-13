@@ -92,8 +92,8 @@ export default function NguyenAmDon(): React.JSX.Element {
               <td>/ʌ/</td>
               <td>
                 [beCAUSE][bė CAUSE] /bɪˈkɒz/ (function word)<br/>
-                [OTHer][ÔTH er] /ˈʌð.ər/<br/>
-                [SUN][SÛN]/sʌn/
+                [OTHer][ƠTH er] /ˈʌð.ər/<br/>
+                [SUN][SƯN]/sʌn/
               </td>
             </tr>
 
