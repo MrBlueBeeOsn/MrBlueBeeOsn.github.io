@@ -97,7 +97,7 @@ export default function CAREfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>PLEASE READ the inSTRUCtions CAREfully be<strong>fore</strong> you START.</li>
+          <li id="">PLEASE READ the inSTRUCtions CAREfully be<strong>fore</strong> you START.</li>
           <li className="margin-bottom-20 list-none">Vui lòng đọc kỹ hướng dẫn trước khi bắt đầu.</li>
 
           <li>she CAREfully PACKED her SUITcase for the TRIP.</li>
@@ -117,10 +117,10 @@ export default function CAREfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>be CAREful with that GLASS.</li>
+          <li id="">be CAREful with that GLASS.</li>
           <li className="margin-bottom-20 list-none">Cẩn thận với cái ly đó.</li>
 
-          <li>she TAKES GOOD CARE of her PLANTS.</li>
+          <li id="">she TAKES GOOD CARE of her PLANTS.</li>
           <li className="list-none">Cô ấy chăm sóc cây cối rất tốt.</li>
 
         </ul>

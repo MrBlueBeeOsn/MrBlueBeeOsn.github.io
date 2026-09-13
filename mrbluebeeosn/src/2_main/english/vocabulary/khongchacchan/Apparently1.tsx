@@ -97,7 +97,7 @@ export default function apPARently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>apPARently, it's GOing to RAIN toMORrow.</li>
+          <li id="">apPARently, it's GOing to RAIN toMORrow.</li>
           <li className="margin-bottom-20 list-none">Hình như mai trời sẽ mưa.</li>
 
           <li>apPARently, she's MOving to a NEW CITy.</li>
@@ -117,7 +117,7 @@ export default function apPARently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>it's apPARent that she's TIred.</li>
+          <li id="">it's apPARent that she's TIred.</li>
           <li className="list-none">Rõ ràng là cô ấy mệt mỏi.</li>
 
         </ul>

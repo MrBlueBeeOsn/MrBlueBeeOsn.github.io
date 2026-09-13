@@ -97,7 +97,7 @@ export default function PAINStakingly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he PAINStakingly reSTORED the OLD PAINting.</li>
+          <li id="">he PAINStakingly reSTORED the OLD PAINting.</li>
           <li className="margin-bottom-20 list-none">Anh ấy khôi phục bức tranh cũ một cách tỉ mỉ.</li>
 
           <li>she reSEARCHED the TOpic PAINStakingly.</li>
@@ -117,10 +117,10 @@ export default function PAINStakingly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he DID a PAINStaking JOB.</li>
+          <li id="">he DID a PAINStaking JOB.</li>
           <li className="margin-bottom-20 list-none">Anh ấy làm một công việc tỉ mỉ.</li>
 
-          <li>the PAINStakingness of her WORK was imPRESsive.</li>
+          <li id="">the PAINStakingness of her WORK was imPRESsive.</li>
           <li className="list-none">Sự tỉ mỉ trong công việc của cô ấy rất ấn tượng.</li>
 
         </ul>

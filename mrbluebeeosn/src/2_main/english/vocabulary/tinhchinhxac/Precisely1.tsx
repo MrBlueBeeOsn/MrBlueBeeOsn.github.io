@@ -97,7 +97,7 @@ export default function preCISEly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he MEASured the inGREdients preCISEly.</li>
+          <li id="">he MEASured the inGREdients preCISEly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đo các nguyên liệu một cách chính xác.</li>
 
           <li>she exPLAINED the situAtion preCISEly.</li>
@@ -117,10 +117,10 @@ export default function preCISEly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he GAVE preCISE inSTRUCtions.</li>
+          <li id="">he GAVE preCISE inSTRUCtions.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đưa ra những chỉ dẫn chính xác.</li>
 
-          <li>the maCHINE OPerates with GREAT preCISion.</li>
+          <li id="">the maCHINE OPerates with GREAT preCISion.</li>
           <li className="list-none">Cỗ máy hoạt động với độ chính xác cao.</li>
 
         </ul>

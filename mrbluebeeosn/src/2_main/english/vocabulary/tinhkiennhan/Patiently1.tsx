@@ -97,7 +97,7 @@ export default function PAtiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he WAITed PAtiently for his TURN.</li>
+          <li id="">he WAITed PAtiently for his TURN.</li>
           <li className="margin-bottom-20 list-none">Anh ấy kiên nhẫn chờ đến lượt của mình.</li>
 
           <li>she PAtiently LIStened to his STORy.</li>
@@ -117,13 +117,13 @@ export default function PAtiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he is a PAtient TEACHer.</li>
+          <li id="">he is a PAtient TEACHer.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một giáo viên kiên nhẫn.</li>
 
-          <li>the DOCtor TREAted the PAtient with CARE.</li>
+          <li id="">the DOCtor TREAted the PAtient with CARE.</li>
           <li className="margin-bottom-20 list-none">Bác sĩ chăm sóc bệnh nhân một cách cẩn thận.</li>
 
-          <li>he has a LOT of PAtience.</li>
+          <li id="">he has a LOT of PAtience.</li>
           <li className="list-none">Anh ấy có rất nhiều sự kiên nhẫn.</li>
 
         </ul>

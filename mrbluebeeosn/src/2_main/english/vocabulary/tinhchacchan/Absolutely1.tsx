@@ -97,7 +97,7 @@ export default function ABsolutely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i ABsolutely LOVE CHOCOLate.</li>
+          <li id="">i ABsolutely LOVE CHOCOLate.</li>
           <li className="margin-bottom-20 list-none">Tôi hoàn toàn yêu thích sô cô la.</li>
 
           <li>that's ABsolutely riDICulous!</li>
@@ -117,10 +117,10 @@ export default function ABsolutely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>THIS is an ABsolute diSASter.</li>
+          <li id="">THIS is an ABsolute diSASter.</li>
           <li className="margin-bottom-20 list-none">Đây là một thảm họa hoàn toàn.</li>
 
-          <li>he beLIEVED in ABsolutism in POLitics.</li>
+          <li id="">he beLIEVED in ABsolutism in POLitics.</li>
           <li className="list-none">Anh ta tin vào chủ nghĩa tuyệt đối trong chính trị.</li>
 
         </ul>

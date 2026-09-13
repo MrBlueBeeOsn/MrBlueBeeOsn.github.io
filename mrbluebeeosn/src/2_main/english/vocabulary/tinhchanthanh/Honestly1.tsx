@@ -97,7 +97,7 @@ export default function HONestly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>HONestly, i DON'T KNOW the ANswer.</li>
+          <li id="">HONestly, i DON'T KNOW the ANswer.</li>
           <li className="margin-bottom-20 list-none">Thật sự, tôi không biết câu trả lời.</li>
 
           <li>HONestly, i THINK you should reconSIDer your deCIsion.</li>
@@ -117,10 +117,10 @@ export default function HONestly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he is an HONest MAN.</li>
+          <li id="">he is an HONest MAN.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người đàn ông trung thực.</li>
 
-          <li>HONesty is the BEST POLicy.</li>
+          <li id="">HONesty is the BEST POLicy.</li>
           <li className="list-none">Trung thực là chính sách tốt nhất.</li>
 
         </ul>

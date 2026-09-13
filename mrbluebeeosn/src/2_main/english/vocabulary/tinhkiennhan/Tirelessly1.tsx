@@ -97,7 +97,7 @@ export default function TIRElessly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she WORKED TIRElessly to FINish the PROJect on TIME.</li>
+          <li id="">she WORKED TIRElessly to FINish the PROJect on TIME.</li>
           <li className="margin-bottom-20 list-none">Cô ấy làm việc không biết mệt mỏi để hoàn thành dự án đúng hạn.</li>
 
           <li>the ATHletes TRAINED TIRElessly for the compeTITion.</li>
@@ -117,10 +117,10 @@ export default function TIRElessly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the LONG WALK TIRE me OUT.</li>
+          <li id="">the LONG WALK TIRE me OUT.</li>
           <li className="margin-bottom-20 list-none">Cái đi bộ dài làm tôi mệt mỏi.</li>
 
-          <li>i'm TOO TIred to gO OUT toNIGHT.</li>
+          <li id="">i'm TOO TIred to gO OUT toNIGHT.</li>
           <li className="list-none">Tôi quá mệt để đi ra ngoài tối nay.</li>
 
         </ul>

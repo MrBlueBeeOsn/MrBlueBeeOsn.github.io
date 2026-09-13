@@ -99,7 +99,7 @@ export default function NOT1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i am NOT HUNgry.</li>
+          <li id="">i am NOT HUNgry.</li>
           <li className="margin-bottom-20 list-none">Tôi không đói.</li>
 
           <li>she is NOT a DOCtor.</li>
@@ -119,10 +119,10 @@ export default function NOT1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>there is NOTHing in the BOX.</li>
+          <li id="">there is NOTHing in the BOX.</li>
           <li className="margin-bottom-20 list-none">Không có gì trong hộp.</li>
 
-          <li>NObody was at HOME.</li>
+          <li id="">NObody was at HOME.</li>
           <li className="list-none">Không ai ở nhà.</li>
 
         </ul>

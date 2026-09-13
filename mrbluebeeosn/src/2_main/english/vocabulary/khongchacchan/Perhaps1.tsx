@@ -97,7 +97,7 @@ export default function perHAPS1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>perHAPS it will RAIN toMORrow.</li>
+          <li id="">perHAPS it will RAIN toMORrow.</li>
           <li className="margin-bottom-20 list-none">Có lẽ ngày mai trời sẽ mưa.</li>
 
           <li>perHAPS you should CALL her.</li>
@@ -117,7 +117,7 @@ export default function perHAPS1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>his WORK was hapHAZard and disORganized.</li>
+          <li id="">his WORK was hapHAZard and disORganized.</li>
           <li className="list-none">Công việc của anh ấy rất ngẫu nhiên và lộn xộn.</li>
 
         </ul>

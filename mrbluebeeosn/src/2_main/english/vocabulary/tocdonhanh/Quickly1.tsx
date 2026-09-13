@@ -99,7 +99,7 @@ export default function QUICKly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she RAN QUICKly to CATCH the BUS.</li>
+          <li id="">she RAN QUICKly to CATCH the BUS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chạy nhanh để bắt xe buýt.</li>
 
           <li>PLEASE rePLY to the Email as QUICKly as POSsible.</li>
@@ -119,10 +119,10 @@ export default function QUICKly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he is a QUICK LEARNer.</li>
+          <li id="">he is a QUICK LEARNer.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người học nhanh.</li>
 
-          <li>his QUICKness imPRESSED <strong>ever</strong>yone.</li>
+          <li id="">his QUICKness imPRESSED <strong>ever</strong>yone.</li>
           <li className="list-none">Sự nhanh nhẹn của anh ấy đã gây ấn tượng với mọi người.</li>
 
         </ul>

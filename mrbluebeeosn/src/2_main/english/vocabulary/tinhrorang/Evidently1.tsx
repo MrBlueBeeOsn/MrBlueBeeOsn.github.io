@@ -97,7 +97,7 @@ export default function EVidently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she was EVidently upSET about the NEWS.</li>
+          <li id="">she was EVidently upSET about the NEWS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy rõ ràng rất buồn về tin đó.</li>
 
           <li>the exPERiment reSULTS were EVidently sucCESSful.</li>
@@ -117,10 +117,10 @@ export default function EVidently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>there is NO EVidence to supPORT his CLAIM.</li>
+          <li id="">there is NO EVidence to supPORT his CLAIM.</li>
           <li className="margin-bottom-20 list-none">Không có bằng chứng nào để chứng minh cho tuyên bố của anh ta.</li>
 
-          <li>the soLUtion is EVident to <strong>ever</strong>yone.</li>
+          <li id="">the soLUtion is EVident to <strong>ever</strong>yone.</li>
           <li className="list-none">Giải pháp rất rõ ràng đối với mọi người.</li>
 
         </ul>

@@ -97,7 +97,7 @@ export default function GENuinely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she GENuinely CARES about her FRIENDS.</li>
+          <li id="">she GENuinely CARES about her FRIENDS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy thực sự quan tâm đến bạn bè của mình.</li>
 
           <li>he was GENuinely surPRISED by the GIFT.</li>
@@ -117,10 +117,10 @@ export default function GENuinely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he has a GENuine INterest in ART.</li>
+          <li id="">he has a GENuine INterest in ART.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một sự quan tâm chân thành đến nghệ thuật.</li>
 
-          <li>the WIND TURbine GENerates elecTRICity.</li>
+          <li id="">the WIND TURbine GENerates elecTRICity.</li>
           <li className="list-none">Tuabin gió tạo ra điện.</li>
 
         </ul>

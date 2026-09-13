@@ -97,7 +97,7 @@ export default function HIGHly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she is a HIGHly SKILLED muSICian.</li>
+          <li id="">she is a HIGHly SKILLED muSICian.</li>
           <li className="margin-bottom-20 list-none">Cô ấy là một nhạc sĩ rất tài năng.</li>
 
           <li>the PROJect is HIGHly imPORTant to the COMpany.</li>
@@ -117,7 +117,7 @@ export default function HIGHly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the MOUNtain is VERy HIGH.</li>
+          <li id="">the MOUNtain is VERy HIGH.</li>
           <li className="list-none">Ngọn núi rất cao.</li>
 
         </ul>

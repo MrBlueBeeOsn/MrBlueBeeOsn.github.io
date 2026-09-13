@@ -99,7 +99,7 @@ export default function DEFinitely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i will DEFinitely be THERE.</li>
+          <li id="">i will DEFinitely be THERE.</li>
           <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ đến đó.</li>
 
           <li>hat's DEFinitely <Link to="/vocabulary/NOT-1">NOT</Link> TRUE.</li>
@@ -119,10 +119,10 @@ export default function DEFinitely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>we NEED a DEFinite ANswer.</li>
+          <li id="">we NEED a DEFinite ANswer.</li>
           <li className="margin-bottom-20 list-none">Chúng ta cần một câu trả lời dứt khoát.</li>
 
-          <li>the defiNITion of "HAPpy" is DIFferent for <strong>ever</strong>yone.</li>
+          <li id="">the defiNITion of "HAPpy" is DIFferent for <strong>ever</strong>yone.</li>
           <li className="list-none">Định nghĩa về "hạnh phúc" khác nhau đối với mỗi người.</li>
 
         </ul>

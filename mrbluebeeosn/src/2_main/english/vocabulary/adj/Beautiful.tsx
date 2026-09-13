@@ -122,7 +122,7 @@ export default function BEAUtiful(): React.JSX.Element {
             1. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>1. [GORgeous]</strong> (ADjective) /ˈɡɔːrdʒəs/</p>
+      <p className="margin-top-20" id=""><strong>1. [GORgeous]</strong> (ADjective) /ˈɡɔːrdʒəs/</p>
 
       <p className="text-indent-whole">Dùng cho vẻ đẹp rực rỡ, lộng lẫy, thường gây ấn tượng mạnh ngay lập tức.</p>
 
@@ -137,7 +137,7 @@ export default function BEAUtiful(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>2. [STUNning]</strong> (ADjective) /ˈstʌnɪŋ/</p>
+      <p className="margin-top-20" id=""><strong>2. [STUNning]</strong> (ADjective) /ˈstʌnɪŋ/</p>
 
       <p className="text-indent-whole">Ám chỉ vẻ đẹp gây choáng ngợp, khiến người xem sững sờ hoặc bất ngờ.</p>
 
@@ -152,7 +152,7 @@ export default function BEAUtiful(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>3. [exQUISite]</strong> (ADjective) /ɪkˈskwɪzɪt/</p>
+      <p className="margin-top-20" id=""><strong>3. [exQUISite]</strong> (ADjective) /ɪkˈskwɪzɪt/</p>
 
       <p className="text-indent-whole">Dùng cho vẻ đẹp tinh tế, sắc sảo hoặc có sự gia công cực kỳ tỉ mỉ.</p>
 
@@ -167,7 +167,7 @@ export default function BEAUtiful(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>4. [LOVEly]</strong> (ADjective) /ˈlʌvli/</p>
+      <p className="margin-top-20" id=""><strong>4. [LOVEly]</strong> (ADjective) /ˈlʌvli/</p>
 
       <p className="text-indent-whole">Gợi lên vẻ đẹp duyên dáng, đáng yêu và mang lại cảm giác dễ chịu, ấm áp.</p>
 
@@ -182,7 +182,7 @@ export default function BEAUtiful(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>5. [RAdiant]</strong> (ADjective) /ˈreɪdiənt/</p>
+      <p className="margin-top-20" id=""><strong>5. [RAdiant]</strong> (ADjective) /ˈreɪdiənt/</p>
 
       <p className="text-indent-whole">Ám chỉ vẻ đẹp rạng rỡ, tỏa sáng, thường liên quan đến sức khỏe hoặc sự hạnh phúc.</p>
 
@@ -197,7 +197,7 @@ export default function BEAUtiful(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>6. [aesTHETic]</strong> (ADjective) /esˈθetɪk/</p>
+      <p className="margin-top-20" id=""><strong>6. [aesTHETic]</strong> (ADjective) /esˈθetɪk/</p>
 
       <p className="text-indent-whole">Có tính thẩm mỹ, thuộc về cái đẹp hoặc nghệ thuật.</p>
 
@@ -212,7 +212,7 @@ export default function BEAUtiful(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>7. [magNIFicent]</strong> (ADjective) /mæɡˈnɪfɪsnt/</p>
+      <p className="margin-top-20" id=""><strong>7. [magNIFicent]</strong> (ADjective) /mæɡˈnɪfɪsnt/</p>
 
       <p className="text-indent-whole">Dùng cho vẻ đẹp hùng vĩ, ấn tượng hoặc có quy mô tráng lệ.</p>
 

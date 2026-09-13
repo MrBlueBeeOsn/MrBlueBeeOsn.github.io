@@ -97,7 +97,7 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the SUN GRADually ROSE over the hoRIzon.</li>
+          <li id="">the SUN GRADually ROSE over the hoRIzon.</li>
           <li className="margin-bottom-20 list-none">Mặt trời dần dần mọc lên trên đường chân trời.</li>
 
           <li>her HEALTH is GRADually imPROVing.</li>
@@ -117,13 +117,13 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>there was a GRADual inCREASE in TEMPERature.</li>
+          <li id="">there was a GRADual inCREASE in TEMPERature.</li>
           <li className="margin-bottom-20 list-none">Có một sự gia tăng nhiệt độ dần dần.</li>
 
-          <li>the TEAcher GRADed the STUdents' ESsays.</li>
+          <li id="">the TEAcher GRADed the STUdents' ESsays.</li>
           <li className="margin-bottom-20 list-none">Giáo viên chấm bài luận của học sinh.</li>
 
-          <li>she is in the FIFTH GRADE.</li>
+          <li id="">she is in the FIFTH GRADE.</li>
           <li className="list-none">Cô ấy học lớp năm.</li>
 
         </ul>

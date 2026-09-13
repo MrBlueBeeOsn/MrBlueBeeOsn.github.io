@@ -97,7 +97,7 @@ export default function sinCEREly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>sinCEREly, i apPREciate your HELP.</li>
+          <li id="">sinCEREly, i apPREciate your HELP.</li>
           <li className="margin-bottom-20 list-none">Thật lòng, tôi rất cảm ơn sự giúp đỡ của bạn.</li>
 
           <li>i HOPE you have a sinCEREly enJOYable TRIP.</li>
@@ -117,10 +117,10 @@ export default function sinCEREly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she GAVE me a sinCERE aPOLogy.</li>
+          <li id="">she GAVE me a sinCERE aPOLogy.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã xin lỗi tôi một cách chân thành.</li>
 
-          <li>his sinCERity TOUCHED me.</li>
+          <li id="">his sinCERity TOUCHED me.</li>
           <li className="list-none">Sự chân thành của anh ấy đã chạm đến trái tim tôi.</li>
 
         </ul>

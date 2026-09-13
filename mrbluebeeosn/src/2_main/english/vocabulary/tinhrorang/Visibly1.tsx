@@ -97,7 +97,7 @@ export default function VISibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she was VISibly upSET.</li>
+          <li id="">she was VISibly upSET.</li>
           <li className="margin-bottom-20 list-none">Cô ấy rõ ràng đang rất buồn.</li>
 
           <li>the DAMage to the CAR was VISibly apPARent.</li>
@@ -117,10 +117,10 @@ export default function VISibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the STARS are VISible on a CLEAR NIGHT.</li>
+          <li id="">the STARS are VISible on a CLEAR NIGHT.</li>
           <li className="margin-bottom-20 list-none">Các ngôi sao có thể nhìn thấy vào một đêm trời quang.</li>
 
-          <li>she has EXcellent VISion.</li>
+          <li id="">she has EXcellent VISion.</li>
           <li className="list-none">Cô ấy có thị lực rất tốt.</li>
 
         </ul>

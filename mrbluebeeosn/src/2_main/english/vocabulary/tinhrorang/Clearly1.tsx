@@ -97,7 +97,7 @@ export default function CLEARly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she CLEARly exPLAINED the RULES.</li>
+          <li id="">she CLEARly exPLAINED the RULES.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã giải thích rõ ràng các quy tắc.</li>
 
           <li>the ANswer is CLEARly NO.</li>
@@ -117,10 +117,10 @@ export default function CLEARly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the SKY is CLEAR toDAY.</li>
+          <li id="">the SKY is CLEAR toDAY.</li>
           <li className="margin-bottom-20 list-none">Trời hôm nay trong xanh.</li>
 
-          <li>the CLARity of her explaNAtion was imPRESsive.</li>
+          <li id="">the CLARity of her explaNAtion was imPRESsive.</li>
           <li className="list-none">Sự rõ ràng trong lời giải thích của cô ấy thật ấn tượng.</li>
 
         </ul>

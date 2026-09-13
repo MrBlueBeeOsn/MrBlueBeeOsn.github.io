@@ -97,7 +97,7 @@ export default function GENTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she CLOSED the DOOR GENTly.</li>
+          <li id="">she CLOSED the DOOR GENTly.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đóng cửa nhẹ nhàng.</li>
 
           <li>PLEASE SPEAK GENTly to the CHILD.</li>
@@ -117,7 +117,7 @@ export default function GENTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she has a GENTle NAture.</li>
+          <li id="">she has a GENTle NAture.</li>
           <li className="list-none">Cô ấy có một tính cách dịu dàng.</li>
 
         </ul>

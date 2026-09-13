@@ -44,8 +44,11 @@ export default function Although(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>[al<strong>though</strong>] it RAINED HEAVily, they STILL WENT for a WALK.</li>
+          <li id="">[al<strong>though</strong>] it RAINED HEAVily, they STILL WENT for a WALK.</li>
           <li className="list-none">[Mặc dù] trời mưa to, họ vẫn đi dạo.</li>
+
+          <li>the ROOM was RATHer SMALL, [al<strong>though</strong>] it was VERy CLEAN and COMFORTable.</li>
+          <li className="margin-bottom-20 list-none">Căn phòng khá nhỏ, [mặc dù] nó rất sạch sẽ và thoải mái.</li>
       
         </ul>
 
@@ -84,19 +87,15 @@ export default function Although(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>al<strong>though</strong> (conJUNCTion) /ɔːlˈðəʊ/ (UK) hoặc /ɑːlˈðoʊ/ (US)</li>
-          <li className="list-none">the ROOM was RATHer SMALL, [al<strong>though</strong>] it was VERy CLEAN and COMFORTable.</li>
-          <li className="margin-bottom-20 list-none">Căn phòng khá nhỏ, [mặc dù] nó rất sạch sẽ và thoải mái.</li>
-
-          <li>though (conJUNCTion) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
+          <li id="">though (conJUNCTion) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
           <li className="list-none">they deCIded to GO on a PICnic, [though] the WEATHer was disapPOINting.</li>
           <li className="margin-bottom-20 list-none">Họ đã quyết định đi dã ngoại, [dẫu cho] thời tiết thật đáng thất vọng.</li>
 
-          <li>THOUGH (ADverb) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
+          <li id="">THOUGH (ADverb) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
           <li className="list-none">we comPLETely forGOT the MAP. we MANaged to FIND the hoTEL, THOUGH.</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã hoàn toàn quên mang theo bản đồ. [Dẫu vậy], chúng tôi vẫn tìm được khách sạn.</li>
 
-          <li>al<strong>be</strong>it (conJUNCTion) - Trang trọng /ˌɔːlˈbiːɪt/</li>
+          <li id="">al<strong>be</strong>it (conJUNCTion) - Trang trọng /ˌɔːlˈbiːɪt/</li>
           <li className="list-none">the uniVERsity acCEPTed the proPOsal, [al<strong>be</strong>it] with CERtain reserVAtions.</li>
           <li className="list-none">Trường đại học đã chấp nhận đề xuất, [mặc dù] vẫn có những sự dè dặt nhất định.</li>
 
@@ -114,7 +113,7 @@ export default function Although(): React.JSX.Element {
             1. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>1. Though</strong> /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</p>
+      <p className="margin-top-20" id=""><strong>1. Though</strong> /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</p>
 
       <p className="text-indent-whole">Thường dùng phổ biến trong văn nói hàng ngày hơn "al<strong>though</strong>", có tính linh hoạt cao vì vừa làm liên cơ đứng đầu/giữa câu, vừa làm Trạng Cơ đứng ở cuối câu.</p>
 
@@ -129,7 +128,7 @@ export default function Although(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20">2. Even though /ˈiːvn ðəʊ/ (UK) hoặc /ˈiːvn ðoʊ/ (US)</p>
+      <p className="margin-top-20" id="">2. Even though /ˈiːvn ðəʊ/ (UK) hoặc /ˈiːvn ðoʊ/ (US)</p>
 
       <p className="text-indent-whole">Mang ý nghĩa mạnh hơn "al<strong>though</strong>", nhấn mạnh sự tương phản rõ rệt hoặc một thực tế gây bất ngờ lớn.</p>
 
@@ -144,7 +143,7 @@ export default function Although(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20">3. In spite of /ɪn spaɪt əv/</p>
+      <p className="margin-top-20" id="">3. In spite of /ɪn spaɪt əv/</p>
 
       <p className="text-indent-whole">Mặc dù; đây là một cụm giới cơ, do đó theo sau nó phải là một Danh cơ, Danh cụm hoặc V-ing (không đi với một câu con).</p>
 
@@ -159,7 +158,7 @@ export default function Although(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20">4. de<strong>spite</strong> /dɪˈspaɪt/</p>
+      <p className="margin-top-20" id="">4. de<strong>spite</strong> /dɪˈspaɪt/</p>
 
       <p className="text-indent-whole">Tương tự như "in spite of", đây là một giới cơ mang sắc thái trang trọng hơn và theo sau bởi một Danh cơ, Danh cụm hoặc V-ing.</p>
 
@@ -174,7 +173,7 @@ export default function Although(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20">5. Even if /ˈiːvn ɪf/</p>
+      <p className="margin-top-20" id="">5. Even if /ˈiːvn ɪf/</p>
 
       <p className="text-indent-whole">Ngay cả khi, cho dù; dùng để diễn tả một giả định hoặc một điều kiện không ảnh hưởng đến kết quả của câu con chính.</p>
 
@@ -189,7 +188,7 @@ export default function Although(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20">6. Much as /mʌtʃ æz/ (UK) hoặc /mʌtʃ əz/ (US)</p>
+      <p className="margin-top-20" id="">6. Much as /mʌtʃ æz/ (UK) hoặc /mʌtʃ əz/ (US)</p>
 
       <p className="text-indent-whole">Mặc dù rất, dù cho rất; thường đi kèm với các hành động chỉ cảm xúc như like, love, want, dislike để nhấn mạnh mức độ của sự nhượng bộ.</p>
 
@@ -204,7 +203,7 @@ export default function Although(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20">7. while /waɪl/</p>
+      <p className="margin-top-20" id="">7. while /waɪl/</p>
 
       <p className="text-indent-whole">Mặc dù, trong khi; khi đặt ở đầu câu, từ này có thể dùng để thay thế cho "al<strong>though</strong>" nhằm tạo sự đối lập nhẹ nhàng giữa hai sự kiện.</p>
 

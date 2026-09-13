@@ -97,7 +97,7 @@ export default function exACTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>that's exACTly WHAT i THINKing.</li>
+          <li id="">that's exACTly WHAT i THINKing.</li>
           <li className="margin-bottom-20 list-none">Đúng là điều tôi đang nghĩ.</li>
 
           <li>she arRIVED at exACTly THREE o'CLOCK.</li>
@@ -117,7 +117,7 @@ export default function exACTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the exACT TIME is TWO fifTEEN p.M.</li>
+          <li id="">the exACT TIME is TWO fifTEEN p.M.</li>
           <li className="list-none">Thời gian chính xác là 2:15 chiều.</li>
 
         </ul>

@@ -97,7 +97,7 @@ export default function toDAY1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>it's SUNny toDAY.</li>
+          <li id="">it's SUNny toDAY.</li>
           <li className="margin-bottom-20 list-none">Hôm nay trời nắng.</li>
 
           <li>i'm GOing to the MOvies toDAY.</li>
@@ -117,10 +117,10 @@ export default function toDAY1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>toDAY is a BEAUtiful DAY.</li>
+          <li id="">toDAY is a BEAUtiful DAY.</li>
           <li className="margin-bottom-20 list-none">Hôm nay là một ngày đẹp trời.</li>
 
-          <li><strong>ever</strong>y DAY i GO to SCHOOL.</li>
+          <li id=""><strong>ever</strong>y DAY i GO to SCHOOL.</li>
           <li className="list-none">Mỗi ngày tôi đều đi học.</li>
 
         </ul>

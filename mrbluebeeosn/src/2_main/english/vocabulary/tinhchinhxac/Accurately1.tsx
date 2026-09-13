@@ -97,7 +97,7 @@ export default function ACcurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she ACcurately MEASured the inGREdients.</li>
+          <li id="">she ACcurately MEASured the inGREdients.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã đo đạc nguyên liệu một cách chính xác.</li>
 
           <li>the DAta was inACcurately reCORDed.</li>
@@ -117,10 +117,10 @@ export default function ACcurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>his inforMAtion is ALways ACcurate.</li>
+          <li id="">his inforMAtion is ALways ACcurate.</li>
           <li className="margin-bottom-20 list-none">Thông tin của anh ấy luôn chính xác.</li>
 
-          <li>the ACcuracy of the TEST reSULTS is CRUcial.</li>
+          <li id="">the ACcuracy of the TEST reSULTS is CRUcial.</li>
           <li className="list-none">Độ chính xác của kết quả kiểm tra là rất quan trọng.</li>
 
         </ul>

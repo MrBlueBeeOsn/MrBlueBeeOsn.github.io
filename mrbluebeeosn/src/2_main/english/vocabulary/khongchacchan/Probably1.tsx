@@ -97,7 +97,7 @@ export default function PROBably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i'll PROBably be HOME by 10.</li>
+          <li id="">i'll PROBably be HOME by 10.</li>
           <li className="margin-bottom-20 list-none">Có lẽ tôi sẽ về nhà trước 10 giờ.</li>
 
           <li>she PROBably KNOWS the ANswer.</li>
@@ -117,10 +117,10 @@ export default function PROBably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>it's PROBable that it will RAIN toMORrow.</li>
+          <li id="">it's PROBable that it will RAIN toMORrow.</li>
           <li className="margin-bottom-20 list-none">Có khả năng trời sẽ mưa ngày mai.</li>
 
-          <li>the probaBILity of WINning is LOW.</li>
+          <li id="">the probaBILity of WINning is LOW.</li>
           <li className="list-none">Xác suất chiến thắng rất thấp.</li>
 
         </ul>

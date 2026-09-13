@@ -97,7 +97,7 @@ export default function exTREMEly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the exAM was exTREMEly DIFficult.</li>
+          <li id="">the exAM was exTREMEly DIFficult.</li>
           <li className="margin-bottom-20 list-none">Bài kiểm tra khó vô cùng.</li>
 
           <li>she is exTREMEly TALented.</li>
@@ -117,10 +117,10 @@ export default function exTREMEly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he TOOK exTREME MEASures to proTECT his FAMILy.</li>
+          <li id="">he TOOK exTREME MEASures to proTECT his FAMILy.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã thực hiện những biện pháp cực đoan để bảo vệ gia đình.</li>
 
-          <li>the situAtion REACHed its exTREMity.</li>
+          <li id="">the situAtion REACHed its exTREMity.</li>
           <li className="list-none">Tình hình đã trở nên cực kỳ nghiêm trọng.</li>
 
         </ul>

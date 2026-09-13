@@ -97,7 +97,7 @@ export default function FAITHfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she FAITHfully SERVED her COMpany for <strong>man</strong>y YEARS.</li>
+          <li id="">she FAITHfully SERVED her COMpany for <strong>man</strong>y YEARS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã phục vụ công ty một cách trung thành trong nhiều năm.</li>
 
           <li>he FOLlowed the inSTRUCtions FAITHfully.</li>
@@ -117,10 +117,10 @@ export default function FAITHfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he is a FAITHful FRIEND.</li>
+          <li id="">he is a FAITHful FRIEND.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người bạn trung thành.</li>
 
-          <li>he has GREAT FAITH in his TEAM.</li>
+          <li id="">he has GREAT FAITH in his TEAM.</li>
           <li className="list-none">Anh ấy có niềm tin lớn vào đội của mình.</li>
 
         </ul>

@@ -97,7 +97,7 @@ export default function CHEERfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she GREETed me CHEERfully this MORNing.</li>
+          <li id="">she GREETed me CHEERfully this MORNing.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chào tôi một cách vui vẻ vào sáng nay.</li>
 
           <li>he WHISTled CHEERfully as he WORKED.</li>
@@ -117,13 +117,13 @@ export default function CHEERfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the CROWD CHEERED the TEAM ON.</li>
+          <li id="">the CROWD CHEERED the TEAM ON.</li>
           <li className="margin-bottom-20 list-none">Đám đông cổ vũ đội bóng.</li>
 
-          <li>her CHEER BRIGHtened UP the ROOM.</li>
+          <li id="">her CHEER BRIGHtened UP the ROOM.</li>
           <li className="margin-bottom-20 list-none">Sự vui vẻ của cô ấy làm căn phòng sáng bừng lên.</li>
 
-          <li>she has a CHEERful persoNALity.</li>
+          <li id="">she has a CHEERful persoNALity.</li>
           <li className="list-none">Cô ấy có một tính cách vui vẻ.</li>
 
         </ul>

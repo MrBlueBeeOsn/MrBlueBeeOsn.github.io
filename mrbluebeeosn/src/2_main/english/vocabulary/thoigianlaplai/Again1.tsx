@@ -97,7 +97,7 @@ export default function aGAIN1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>can you SAY THAT aGAIN?</li>
+          <li id="">can you SAY THAT aGAIN?</li>
           <li className="margin-bottom-20 list-none">Bạn có thể nói lại điều đó được không?</li>
 
           <li>i've SEEN this MOvie before, but i WANT to WATCH it aGAIN.</li>
@@ -117,7 +117,7 @@ export default function aGAIN1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he KEPT ASKing the SAME QUESTion aGAIN and aGAIN.</li>
+          <li id="">he KEPT ASKing the SAME QUESTion aGAIN and aGAIN.</li>
           <li className="list-none">Anh ấy cứ hỏi đi hỏi lại cùng một câu hỏi.</li>
 
         </ul>

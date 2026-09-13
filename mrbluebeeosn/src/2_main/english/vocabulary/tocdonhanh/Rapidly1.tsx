@@ -99,7 +99,7 @@ export default function RAPidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>techNOlogy is adVANCEing RAPidly.</li>
+          <li id="">techNOlogy is adVANCEing RAPidly.</li>
           <li className="margin-bottom-20 list-none">Công nghệ đang phát triển rất nhanh.</li>
 
           <li>the CHILD GREW RAPidly during her FIRST YEAR.</li>
@@ -119,10 +119,10 @@ export default function RAPidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the RIVer has a RAPid CURrent.</li>
+          <li id="">the RIVer has a RAPid CURrent.</li>
           <li className="margin-bottom-20 list-none">Con sông có dòng chảy siết.</li>
 
-          <li>the raPIDity of CHANGE surPRISED us.</li>
+          <li id="">the raPIDity of CHANGE surPRISED us.</li>
           <li className="list-none">Tốc độ thay đổi khiến chúng tôi ngạc nhiên.</li>
 
         </ul>

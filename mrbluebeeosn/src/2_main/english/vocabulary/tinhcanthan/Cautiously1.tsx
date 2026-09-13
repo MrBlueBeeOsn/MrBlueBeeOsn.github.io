@@ -97,7 +97,7 @@ export default function CAUtiously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he CAUtiously apPROACHED the STRAY DOG.</li>
+          <li id="">he CAUtiously apPROACHED the STRAY DOG.</li>
           <li className="margin-bottom-20 list-none">Anh ấy thận trọng tiếp cận con chó lạc.</li>
 
           <li>she CAUtiously Opened the DOOR, NOT KNOWing who was on the OTHer SIDE.</li>
@@ -120,16 +120,16 @@ export default function CAUtiously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>be CAUtious when CROSsing the STREET.</li>
+          <li id="">be CAUtious when CROSsing the STREET.</li>
           <li className="margin-bottom-20 list-none">Hãy thận trọng khi băng qua đường.</li>
 
           <li className="list-none">she is a CAUtious inVESTor.</li>
           <li className="margin-bottom-20 list-none">Cô ấy là một nhà đầu tư thận trọng.</li>
 
-          <li>EXercise CAUtion when HANDling CHEMicals.</li>
+          <li id="">EXercise CAUtion when HANDling CHEMicals.</li>
           <li className="margin-bottom-20 list-none">Hãy thận trọng khi xử lý hóa chất.</li>
 
-          <li>the poLICE CAUtioned him about his SPEED.</li>
+          <li id="">the poLICE CAUtioned him about his SPEED.</li>
           <li className="list-none">Cảnh sát đã cảnh báo anh ấy về tốc độ lái xe.</li>
 
         </ul>

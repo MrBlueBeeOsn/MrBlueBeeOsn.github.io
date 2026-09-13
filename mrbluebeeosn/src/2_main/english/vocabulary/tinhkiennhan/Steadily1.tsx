@@ -97,7 +97,7 @@ export default function STEADily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the RAIN FELL STEADily throughout the NIGHT.</li>
+          <li id="">the RAIN FELL STEADily throughout the NIGHT.</li>
           <li className="margin-bottom-20 list-none">Mưa rơi đều đặn suốt đêm.</li>
 
           <li>the COMpany's PROFits have been inCREASing STEADily for the PAST YEAR.</li>
@@ -120,13 +120,13 @@ export default function STEADily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he has a STEADy JOB.</li>
+          <li id="">he has a STEADy JOB.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một công việc ổn định.</li>
         
-          <li>STEADy yourSELF!</li>
+          <li id="">STEADy yourSELF!</li>
           <li className="margin-bottom-20 list-none">Hãy giữ vững!</li>
 
-          <li>he adMIred her STEADiness under PRESsure.</li>
+          <li id="">he adMIred her STEADiness under PRESsure.</li>
           <li className="list-none">Anh ấy ngưỡng mộ sự ổn định của cô ấy khi chịu áp lực.</li>
 
         </ul>

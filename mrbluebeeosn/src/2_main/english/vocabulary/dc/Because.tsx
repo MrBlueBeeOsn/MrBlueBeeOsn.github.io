@@ -44,8 +44,11 @@ export default function Because(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we STAYED inDOORS [be<strong>cause</strong>] it was RAINing HEAVily.</li>
+          <li id="">we STAYED inDOORS [be<strong>cause</strong>] it was RAINing HEAVily.</li>
           <li className="list-none">Chúng tôi ở trong nhà [bởi vì] trời mưa to.</li>
+
+          <li>i PASSED the exAM [be<strong>cause</strong>] i STUDied HARD EVERy NIGHT.</li>
+          <li className="margin-bottom-20 list-none">Tôi đã vượt qua kỳ thi [bởi vì] tôi học hành chăm chỉ mỗi tối.</li>
       
         </ul>
 
@@ -83,36 +86,32 @@ export default function Because(): React.JSX.Element {
       <p className="margin-bottom-20">Từ "be<strong>cause</strong>" ban đầu được hình thành từ cụm từ gốc "by CAUSE of". Do đó, họ từ của nó tập trung xoay quanh gốc từ gốc là CAUSE.</p>
 
         <ul className="list-square">
-
-          <li>be<strong>cause</strong> (conJUNCTion) /bɪˈkɒz/ (UK) hoặc /bɪˈkɔːz/ (US)</li>
-          <li className="list-none">i PASSED the exAM [be<strong>cause</strong>] i STUDied HARD EVERy NIGHT.</li>
-          <li className="margin-bottom-20 list-none">Tôi đã vượt qua kỳ thi [bởi vì] tôi học hành chăm chỉ mỗi tối.</li>
           
-          <li>be<strong>cause</strong> of (prepoSITion) /bɪˈkɒz əv/ (UK) hoặc /bɪˈkɔːz əv/ (US)</li>
+          <li id="">be<strong>cause</strong> of (prepoSITion) /bɪˈkɒz əv/ (UK) hoặc /bɪˈkɔːz əv/ (US)</li>
           <li className="list-none">the FLIGHT was deLAYED [be<strong>cause</strong> of] the THICK FOG.</li>
           <li className="margin-bottom-20 list-none">Chuyến bay đã bị hoãn [vì] sương mù dày đặc.</li>
           
-          <li>CAUSE of (NOUN) /kɔːz/</li>
+          <li id="">CAUSE of (NOUN) /kɔːz/</li>
           <li className="list-none">the poLICE are TRYing to FIND the [CAUSE of] the ACcident.</li>
           <li className="margin-bottom-20 list-none">Cảnh sát đang cố gắng tìm ra [nguyên nhân] của vụ tai nạn.</li>
 
-          <li>CAUSE (VERB) /kɔːz/</li>
+          <li id="">CAUSE (VERB) /kɔːz/</li>
           <li className="list-none">the HEAVy RAIN could [CAUSE] seVERE FLOODing in LOW-LYing AReas.</li>
           <li className="margin-bottom-20 list-none">Trận mưa lớn có thể [gây ra] lũ lụt nghiêm trọng ở các vùng trũng thấp.</li>
 
-          <li>CAUsal (ADjective) /ˈkɔːzl/</li>
+          <li id="">CAUsal (ADjective) /ˈkɔːzl/</li>
           <li className="list-none">there is a CLEAR [CAUsal] LINK between POVerty and LACK of eduCAtion.</li>
           <li className="margin-bottom-20 list-none">Có một mối liên hệ [nhân quả] rõ ràng giữa nghèo đói và sự thiếu thốn giáo dục.</li>
 
-          <li>cauSALity (NOUN) - Trừu tượng /kɔːˈzæləti/</li>
+          <li id="">cauSALity (NOUN) - Trừu tượng /kɔːˈzæləti/</li>
           <li className="list-none">the STUDy inVEStigates the LAW of [cauSALity] in HUman beHAvior.</li>
           <li className="margin-bottom-20 list-none">Nghiên cứu điều tra quy luật [nhân quả] trong hành vi của con người.</li>
 
-          <li>CAUsally (ADverb) /ˈkɔːzəli/</li>
+          <li id="">CAUsally (ADverb) /ˈkɔːzəli/</li>
           <li className="list-none">the TWO hisTORical eVENTS are [CAUsally] reLAted to EACH OTHer.</li>
           <li className="margin-bottom-20 list-none">Hai sự kiện lịch sử này có mối quan hệ [nhân quả] với nhau.</li>
 
-          <li>cauSAtion (NOUN) /kɔːˈzeɪʃn/</li>
+          <li id="">cauSAtion (NOUN) /kɔːˈzeɪʃn/</li>
           <li className="list-none">the REsearch PROVED a STRONG [cauSAtion] between SMOking and LUNG diSEASE.</li>
           <li className="list-none">Nghiên cứu đã chứng minh một [mối quan hệ nhân quả] mạnh mẽ giữa việc hút thuốc và bệnh phổi.</li>
 
@@ -130,7 +129,7 @@ export default function Because(): React.JSX.Element {
             1. 
       ============================= */}
 
-      <p className="margin-top-20">1. Since /sɪns/</p>
+      <p className="margin-top-20" id="">1. Since /sɪns/</p>
 
       <p className="text-indent-whole">Dùng khi lý do đã được cả người nói lẫn người nghe biết tới, hoặc khi lý do ít quan trọng hơn kết quả.</p>
 
@@ -145,7 +144,7 @@ export default function Because(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20">2. as /æz/</p>
+      <p className="margin-top-20" id="">2. as /æz/</p>
 
       <p className="text-indent-whole">Tương tự như since, thường mang sắc thái trang trọng hơn một chút và thường đặt câu con nguyên nhân ở đầu câu.</p>
 
@@ -160,7 +159,7 @@ export default function Because(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20">3. GIVen that /ˈɡɪvn ðæt/</p>
+      <p className="margin-top-20" id="">3. GIVen that /ˈɡɪvn ðæt/</p>
 
       <p className="text-indent-whole">Xét đến việc, dựa vào sự thật là; thường dùng khi muốn đưa một sự kiện thực tế làm căn cứ cho kết luận.</p>
 
@@ -175,7 +174,7 @@ export default function Because(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20">4. NOW that /naʊ ðæt/</p>
+      <p className="margin-top-20" id="">4. NOW that /naʊ ðæt/</p>
 
       <p className="text-indent-whole">Giờ đây khi mà; dùng để chỉ một nguyên nhân mới xuất hiện đem lại một kết quả ở hiện tại hoặc tương lai.</p>
 
@@ -190,7 +189,7 @@ export default function Because(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20">5. SEEing that /ˈsiːɪŋ ðæt/</p>
+      <p className="margin-top-20" id="">5. SEEing that /ˈsiːɪŋ ðæt/</p>
 
       <p className="text-indent-whole">Thấy rằng, bởi vì; thường dùng phổ biến trong văn nói khi lý do hiển hiện ngay trước mắt hoặc vừa được nhận ra.</p>
 
@@ -205,7 +204,7 @@ export default function Because(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20">6. for /fɔːr/</p>
+      <p className="margin-top-20" id="">6. for /fɔːr/</p>
 
       <p className="text-indent-whole">Bởi vì; một liên cơ mang sắc thái rất trang trọng, mang tính văn học hoặc cổ kính, dùng để đưa ra lý do giải thích cho lời khẳng định trước đó.</p>
 
@@ -220,7 +219,7 @@ export default function Because(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20">7. In that /ɪn ðæt/</p>
+      <p className="margin-top-20" id="">7. In that /ɪn ðæt/</p>
 
       <p className="text-indent-whole">Bởi vì, ở chỗ; dùng để giải thích hoặc làm rõ một nhận định trước đó bằng cách chỉ ra lý do cụ thể.</p>
 
@@ -235,7 +234,7 @@ export default function Because(): React.JSX.Element {
             8. 
       ============================= */}
 
-      <p className="margin-top-20">8. On the GROUNDS that /ɒn ðə ɡraʊndz ðæt/</p>
+      <p className="margin-top-20" id="">8. On the GROUNDS that /ɒn ðə ɡraʊndz ðæt/</p>
 
       <p className="text-indent-whole">Dựa trên lý do là, bởi vì; thường dùng trong bối cảnh trang trọng hoặc pháp lý khi đưa ra lập luận, bằng chứng.</p>
 

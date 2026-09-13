@@ -97,7 +97,7 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>when i TURNED ON the LIGHT, the ROOM beCAME INstantly BRIGHter.</li>
+          <li id="">when i TURNED ON the LIGHT, the ROOM beCAME INstantly BRIGHter.</li>
           <li className="margin-bottom-20 list-none">Khi tôi bật đèn lên, căn phòng sáng lên ngay lập tức.</li>
 
           <li>she reCOGnized him INstantly.</li>
@@ -117,10 +117,10 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>THIS is an INstant COFfee.</li>
+          <li id="">THIS is an INstant COFfee.</li>
           <li className="margin-bottom-20 list-none">Đây là cà phê hòa tan.</li>
 
-          <li>the reACtion was instanTAneous.</li>
+          <li id="">the reACtion was instanTAneous.</li>
           <li className="list-none">Phản ứng diễn ra tức thì.</li>
 
         </ul>

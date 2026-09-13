@@ -97,7 +97,7 @@ export default function SCRUpulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he FOLlowed the inSTRUCtions SCRUpulously.</li>
+          <li id="">he FOLlowed the inSTRUCtions SCRUpulously.</li>
           <li className="margin-bottom-20 list-none">Anh ấy tuân theo các hướng dẫn một cách tỉ mỉ.</li>
 
           <li>she CLEANED the HOUSE SCRUpulously.</li>
@@ -117,10 +117,10 @@ export default function SCRUpulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he is a SCRUpulous PERson.</li>
+          <li id="">he is a SCRUpulous PERson.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người chu đáo.</li>
 
-          <li>her SCRUpulousness imPRESSED <strong>ever</strong>yone.</li>
+          <li id="">her SCRUpulousness imPRESSED <strong>ever</strong>yone.</li>
           <li className="list-none">Sự chu đáo của cô ấy gây ấn tượng với mọi người.</li>
 
         </ul>

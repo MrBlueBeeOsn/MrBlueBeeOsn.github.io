@@ -101,7 +101,7 @@ export default function PRESently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i am PRESently WORKing on this PROJect.</li>
+          <li id="">i am PRESently WORKing on this PROJect.</li>
           <li className="margin-bottom-20 list-none">Hiện tại tôi đang làm việc trên dự án này.</li>
 
           <li>the MEETing will beGIN PRESently.</li>
@@ -121,13 +121,13 @@ export default function PRESently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the PRESent situAtion is VERy DIFFERent.</li>
+          <li id="">the PRESent situAtion is VERy DIFFERent.</li>
           <li className="margin-bottom-20 list-none">Tình hình hiện tại rất khó khăn.</li>
 
-          <li>i will preSENT my iDEas at the MEETing.</li>
+          <li id="">i will preSENT my iDEas at the MEETing.</li>
           <li className="margin-bottom-20 list-none">Tôi sẽ trình bày ý tưởng của mình tại cuộc họp.</li>
 
-          <li>as a PRESent for her graduAtion, i BOUGHT her a NEW LAPtop.</li>
+          <li id="">as a PRESent for her graduAtion, i BOUGHT her a NEW LAPtop.</li>
           <li className="list-none">Như một món quà tốt nghiệp, tôi đã mua cho cô ấy một chiếc laptop mới.</li>
 
         </ul>

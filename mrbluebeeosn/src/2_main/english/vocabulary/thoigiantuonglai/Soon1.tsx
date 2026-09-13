@@ -97,7 +97,7 @@ export default function SOON1(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>i'll be BACK SOON.</li>
+					<li id="">i'll be BACK SOON.</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ quay lại sớm.</li>
 
 					<li>the PARTy will START SOON.</li>
@@ -117,10 +117,10 @@ export default function SOON1(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>i will rePLY SOONest.</li>
+					<li id="">i will rePLY SOONest.</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ phản hồi sớm nhất.</li>
 
-					<li>when can you COME? the SOONer, the BETter.</li>
+					<li id="">when can you COME? the SOONer, the BETter.</li>
 					<li className="list-none">Bạn có thể đến khi nào? Càng sớm càng tốt.</li>
 
 				</ul>

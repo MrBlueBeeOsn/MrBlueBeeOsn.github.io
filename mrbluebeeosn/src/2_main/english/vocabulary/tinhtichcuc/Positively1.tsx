@@ -107,7 +107,7 @@ export default function POSitively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he reSPONDed POSitively to the sugGEStion.</li>
+          <li id="">he reSPONDed POSitively to the sugGEStion.</li>
           <li className="margin-bottom-20 list-none">Anh ấy phản hồi tích cực trước đề xuất.</li>
 
           <li>she POSitively iDENtified the SUSpect.</li>
@@ -130,13 +130,13 @@ export default function POSitively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he has a POSitive ATtitude.</li>
+          <li id="">he has a POSitive ATtitude.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có thái độ tích cực.</li>
 
-          <li>the TEST reSULT was POSitive.</li>
+          <li id="">the TEST reSULT was POSitive.</li>
           <li className="margin-bottom-20 list-none">Kết quả xét nghiệm là dương tính.</li>
 
-          <li>her posiTIVity is conTAgious.</li>
+          <li id="">her posiTIVity is conTAgious.</li>
           <li className="list-none">Sự tích cực của cô ấy có tính lan truyền.</li>
 
         </ul>

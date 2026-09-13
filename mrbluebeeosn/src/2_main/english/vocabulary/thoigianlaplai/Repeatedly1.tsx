@@ -97,7 +97,7 @@ export default function rePEATedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she rePEATedly ASKED him the SAME QUESTion.</li>
+          <li id="">she rePEATedly ASKED him the SAME QUESTion.</li>
           <li className="margin-bottom-20 list-none">Cô ấy liên tục hỏi anh ta cùng một câu hỏi.</li>
 
           <li>the exPERiment was rePEATedly conDUCTed to VERify the reSULTS.</li>
@@ -117,13 +117,13 @@ export default function rePEATedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>PLEASE rePEAT that.</li>
+          <li id="">PLEASE rePEAT that.</li>
           <li className="margin-bottom-20 list-none">Làm ơn lặp lại điều đó.</li>
 
-          <li>the repeTITion of the SAME misTAKE is unacCEPTable.</li>
+          <li id="">the repeTITion of the SAME misTAKE is unacCEPTable.</li>
           <li className="margin-bottom-20 list-none">Việc lặp lại cùng một sai lầm là không thể chấp nhận được.</li>
 
-          <li>the rePEATed FAIlures disCOURaged him.</li>
+          <li id="">the rePEATed FAIlures disCOURaged him.</li>
           <li className="list-none">Những thất bại liên tiếp làm anh ta nản lòng.</li>
 
         </ul>

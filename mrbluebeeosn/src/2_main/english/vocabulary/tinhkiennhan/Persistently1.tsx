@@ -97,7 +97,7 @@ export default function perSIStently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she perSIStently ASKED QUEStions until she GOT an ANswer.</li>
+          <li id="">she perSIStently ASKED QUEStions until she GOT an ANswer.</li>
           <li className="margin-bottom-20 list-none">Cô ấy liên tục hỏi cho đến khi nhận được câu trả lời.</li>
 
           <li>the RAIN FELL perSIStently throughout the NIGHT.</li>
@@ -117,13 +117,13 @@ export default function perSIStently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>despite the DIFficulties, she perSISted in her STUDies.</li>
+          <li id="">despite the DIFficulties, she perSISted in her STUDies.</li>
           <li className="margin-bottom-20 list-none">Dù gặp khó khăn, cô ấy vẫn kiên trì học tập.</li>
 
-          <li>she's a VEry perSIStent PERson.</li>
+          <li id="">she's a VEry perSIStent PERson.</li>
           <li className="margin-bottom-20 list-none">Cô ấy là một người rất kiên trì.</li>
 
-          <li>her perSIStence PAID OFF.</li>
+          <li id="">her perSIStence PAID OFF.</li>
           <li className="list-none">Sự kiên trì của cô ấy đã được đền đáp.</li>
 
         </ul>

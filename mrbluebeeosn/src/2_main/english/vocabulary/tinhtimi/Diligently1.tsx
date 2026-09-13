@@ -97,7 +97,7 @@ export default function DILigently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she DILigently STUdied for the exAM.</li>
+          <li id="">she DILigently STUdied for the exAM.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã chăm chỉ học bài để chuẩn bị cho kỳ thi.</li>
 
           <li>the WORKers DILigently rePAIRed the ROAD.</li>
@@ -117,10 +117,10 @@ export default function DILigently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he is a DILigent STUdent.</li>
+          <li id="">he is a DILigent STUdent.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một học sinh chăm chỉ.</li>
 
-          <li>her DILigence was reWARded.</li>
+          <li id="">her DILigence was reWARded.</li>
           <li className="list-none">Sự chăm chỉ của cô ấy đã được đền đáp.</li>
 
         </ul>

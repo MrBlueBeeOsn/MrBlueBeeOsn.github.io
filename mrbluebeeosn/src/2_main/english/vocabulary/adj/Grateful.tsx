@@ -114,7 +114,7 @@ export default function GRATEful(): React.JSX.Element {
             1. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>1. [THANKful] </strong> (ADjective) /ˈθæŋk.fəl/</p>
+      <p className="margin-top-20" id=""><strong>1. [THANKful] </strong> (ADjective) /ˈθæŋk.fəl/</p>
 
       <p className="text-indent-whole">Biết ơn, thường đi kèm cảm giác vui mừng hoặc nhẹ nhõm vì một điều tồi tệ đã không xảy ra hoặc một điều tốt đẹp đã đến.</p>
 
@@ -129,7 +129,7 @@ export default function GRATEful(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>2. [apPREciative] </strong> (ADjective) /əˈpriː.ʃə.tɪv/</p>
+      <p className="margin-top-20" id=""><strong>2. [apPREciative] </strong> (ADjective) /əˈpriː.ʃə.tɪv/</p>
 
       <p className="text-indent-whole">Biết trân trọng, thể hiện sự tán thưởng và hiểu rõ giá trị của một hành động hoặc sự giúp đỡ.</p>
 
@@ -144,7 +144,7 @@ export default function GRATEful(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>3. [obLIGED] </strong> (ADjective) /əˈblaɪdʒd/</p>
+      <p className="margin-top-20" id=""><strong>3. [obLIGED] </strong> (ADjective) /əˈblaɪdʒd/</p>
 
       <p className="text-indent-whole">Biết ơn hoặc cảm thấy có bổn phận phải cảm ơn ai đó vì một ân huệ, thường dùng trong bối cảnh trang trọng.</p>
 
@@ -159,7 +159,7 @@ export default function GRATEful(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>4. [inDEBTed] </strong> (ADjective) /ɪnˈdet.ɪd/</p>
+      <p className="margin-top-20" id=""><strong>4. [inDEBTed] </strong> (ADjective) /ɪnˈdet.ɪd/</p>
 
       <p className="text-indent-whole">Mang ơn, biết ơn sâu sắc vì ai đó đã giúp đỡ mình vượt qua hoàn cảnh ngặt nghèo (như thể mắc một món nợ ân nghĩa).</p>
 
@@ -174,7 +174,7 @@ export default function GRATEful(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>5. [beHOLDen] </strong> (ADjective) /bɪˈhəʊl.dən/</p>
+      <p className="margin-top-20" id=""><strong>5. [beHOLDen] </strong> (ADjective) /bɪˈhəʊl.dən/</p>
 
       <p className="text-indent-whole">Mắc nợ ân nghĩa, cảm thấy bị ràng buộc hoặc phụ thuộc vào ai đó do nhận sự giúp đỡ từ họ.</p>
 

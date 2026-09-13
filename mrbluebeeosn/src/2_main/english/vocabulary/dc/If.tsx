@@ -44,7 +44,7 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>[if] you STUDy HARD, you will PASS the EXAM.</li>
+          <li id="">[if] you STUDy HARD, you will PASS the EXAM.</li>
           <li className="list-none">Nếu bạn học hành chăm chỉ, bạn sẽ vượt qua kỳ thi.</li>
       
         </ul>
@@ -84,29 +84,29 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>if (1) /ɪf/</li>
+          <li id="">if (1) /ɪf/</li>
           <li className="list-none">[if] it RAINS toMORrow, we will CANcel the PICnic.</li>
           <li className="margin-bottom-20 list-none">[Nếu] ngày mai trời mưa, chúng tôi sẽ hủy chuyến dã ngoại.</li>
 
           <li className="list-none">we can GO for a WALK [if] the RAIN STOPS.</li>
           <li className="margin-bottom-20 list-none">Chúng ta có thể đi dạo [nếu] cơn mưa tạnh.</li>
 
-          <li>if (2) /ɪf/</li>
+          <li id="">if (2) /ɪf/</li>
           <li className="list-none">[if] i had a LOT of MONey, i would TRAVel around the WORLD.</li>
           <li className="margin-bottom-20 list-none">[Nếu] tôi có thật nhiều tiền, tôi sẽ đi du lịch quanh thế giới.</li>
 
-          <li>if (3) /ɪf/</li>
+          <li id="">if (3) /ɪf/</li>
           <li className="list-none">[if] she had STARTed EARlier, she would NOT have MISSED the TRAIN.</li>
           <li className="margin-bottom-20 list-none">[Nếu] cô ấy bắt đầu sớm hơn, cô ấy đã không bị lỡ chuyến tàu.</li>
 
           <li className="list-none">[if] you had STUDied HARDer YESterday, you would KNOW the ANswer NOW.</li>
           <li className="margin-bottom-20 list-none">[Nếu] hôm qua bạn học hành chăm chỉ hơn thì, bây giờ bạn đã biết câu trả lời rồi</li>
 
-          <li>if Only (Cụm từ cố định - diễn tả ước muốn) /ɪf ˈəʊnli/ (UK) hoặc /ɪf ˈoʊnli/ (US)</li>
+          <li id="">if Only (Cụm từ cố định - diễn tả ước muốn) /ɪf ˈəʊnli/ (UK) hoặc /ɪf ˈoʊnli/ (US)</li>
           <li className="list-none">[if Only] i had KNOWN the TRUTH EARlier, THINGS would be DIFFERent.</li>
           <li className="margin-bottom-20 list-none">[Giá mà] tôi biết sự thật sớm hơn thì mọi chuyện đã khác rồi.</li>
 
-          <li>WHAT-ifs (NOUN) - Thường dùng số nhiều 'what-ifs' /wɒt ɪfs/ (UK) hoặc /wʌt ɪfs/ (US)</li> 
+          <li id="">WHAT-ifs (NOUN) - Thường dùng số nhiều 'what-ifs' /wɒt ɪfs/ (UK) hoặc /wʌt ɪfs/ (US)</li> 
           <li className="list-none">STOP WORrying about ALL the  [what-ifs] and FOCus on the PRESent.</li>
           <li className="margin-bottom-20 list-none">Đừng lo lắng về tất cả những điều [nếu như] nữa và hãy tập trung vào hiện tại.</li>
           <li className="list-none">Lưu ý ngữ cảnh: Stop worrying về những điều "nếu như" và hãy tập trung vào hiện tại.</li>
@@ -125,7 +125,7 @@ export default function If(): React.JSX.Element {
             1. 
       ============================= */}
 
-      <p className="margin-top-20">1. proVIded that /prəˈvaɪdɪd ðæt/ (hoặc proVIding that)</p>
+      <p className="margin-top-20" id="">1. proVIded that /prəˈvaɪdɪd ðæt/ (hoặc proVIding that)</p>
 
       <p className="text-indent-whole">Với điều kiện là, miễn là; mang sắc thái trang trọng và nhấn mạnh vào điều kiện bắt buộc hơn "if".</p>
 
@@ -140,7 +140,7 @@ export default function If(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20">2. as LONG as /æz lɒŋ æz/ (UK) hoặc /æz lɔːŋ æz/ (US)</p>
+      <p className="margin-top-20" id="">2. as LONG as /æz lɒŋ æz/ (UK) hoặc /æz lɔːŋ æz/ (US)</p>
 
       <p className="text-indent-whole">Miễn là, chỉ cần; thường dùng phổ biến trong văn nói hàng ngày để đưa ra một điều kiện cụ thể.</p>
 
@@ -158,7 +158,7 @@ export default function If(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20">3. un<strong>less</strong> /ʌnˈles/</p>
+      <p className="margin-top-20" id="">3. un<strong>less</strong> /ʌnˈles/</p>
 
       <p className="text-indent-whole">Ngoại trừ khi, nếu không; từ này tương đương với cấu trúc "if not".</p>
       <p className="text-indent-whole">"Ngoại trừ khi" chính là loại trừ một điều kiện/tình huống.</p>
@@ -175,7 +175,7 @@ export default function If(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20">4. in case /ɪn keɪs/</p>
+      <p className="margin-top-20" id="">4. in case /ɪn keɪs/</p>
 
       <p className="text-indent-whole">Phòng khi, trong trường hợp; dùng để diễn tả một hành động chuẩn bị trước cho một tình huống có khả năng xảy ra.</p>
 
@@ -190,7 +190,7 @@ export default function If(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20">5. asSUMing that /əˈsjuːmɪŋ ðæt/ (UK) hoặc /əˈsuːmɪŋ ðæt/ (US)</p>
+      <p className="margin-top-20" id="">5. asSUMing that /əˈsjuːmɪŋ ðæt/ (UK) hoặc /əˈsuːmɪŋ ðæt/ (US)</p>
 
       <p className="text-indent-whole">Giả sử rằng, cứ cho là; dùng khi muốn chấp nhận một giả thuyết là đúng để thảo luận về kết quả của nó.</p>
 
@@ -205,7 +205,7 @@ export default function If(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20">6. On conDITion that /ɒn kənˈdɪʃn ðæt/ (UK) hoặc /ɑːn kənˈdɪʃn ðæt/ (US)</p>
+      <p className="margin-top-20" id="">6. On conDITion that /ɒn kənˈdɪʃn ðæt/ (UK) hoặc /ɑːn kənˈdɪʃn ðæt/ (US)</p>
 
       <p className="text-indent-whole">Với điều kiện là; một cụm từ rất trang trọng, thường dùng trong các thỏa thuận hoặc văn bản pháp lý.</p>
 
@@ -220,7 +220,7 @@ export default function If(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20">7. <strong>wheth</strong>er /ˈweðə(r)/</p>
+      <p className="margin-top-20" id="">7. <strong>wheth</strong>er /ˈweðə(r)/</p>
 
       <p className="text-indent-whole">Liệu... có hay không; dùng thay thế cho "if" khi có sự lựa chọn giữa hai khả năng (thường đi kèm cấu trúc whether... or not), mang sắc thái trang trọng hơn "if".</p>
 

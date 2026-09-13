@@ -99,7 +99,7 @@ export default function TENderly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he KISSED her TENderly on the FOREhead.</li>
+          <li id="">he KISSED her TENderly on the FOREhead.</li>
           <li className="margin-bottom-20 list-none">Anh ấy hôn nhẹ lên trán cô ấy một cách trìu mến.</li>
 
           <li>she HELD the BAby TENderly in her ARMS.</li>
@@ -120,13 +120,13 @@ export default function TENderly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he has a TENder HEART.</li>
+          <li id="">he has a TENder HEART.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một trái tim dịu dàng.</li>
 
-          <li>she TENDED to the INjured BIRD.</li>
+          <li id="">she TENDED to the INjured BIRD.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chăm sóc con chim bị thương một cách dịu dàng.</li>
 
-          <li>he SHOWED GREAT TENderness towards his CHILDren.</li>
+          <li id="">he SHOWED GREAT TENderness towards his CHILDren.</li>
           <li className="list-none">Anh ấy thể hiện sự âu yếm lớn đối với con cái của mình.</li>
 
         </ul>

@@ -97,7 +97,7 @@ export default function corRECTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she ANswered all the QUEStions corRECTly.</li>
+          <li id="">she ANswered all the QUEStions corRECTly.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã trả lời tất cả các câu hỏi một cách chính xác.</li>
 
           <li>PLEASE MAKE SURE you FILL in the FORM corRECTly.</li>
@@ -117,10 +117,10 @@ export default function corRECTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>your ANswer is corRECT.</li>
+          <li id="">your ANswer is corRECT.</li>
           <li className="margin-bottom-20 list-none">Câu trả lời của bạn đúng.</li>
 
-          <li>the TEACHer MADE a corRECtion to my ESsay.</li>
+          <li id="">the TEACHer MADE a corRECtion to my ESsay.</li>
           <li className="list-none">Giáo viên đã sửa một lỗi trong bài luận của tôi.</li>
 
         </ul>

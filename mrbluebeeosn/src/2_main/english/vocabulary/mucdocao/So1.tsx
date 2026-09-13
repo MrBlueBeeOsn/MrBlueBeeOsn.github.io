@@ -107,7 +107,7 @@ export default function SO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>is he COMing? - "i THINK SO."</li>
+          <li id="">is he COMing? - "i THINK SO."</li>
           <li className="margin-bottom-20 list-none">Anh ấy có đến không? - "Tôi nghĩ thế."</li>
 
           <li>she SAID she would HELP, and SO she DID.</li>
@@ -127,10 +127,10 @@ export default function SO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>it was RAINing, SO we STAYED HOME.</li>
+          <li id="">it was RAINing, SO we STAYED HOME.</li>
           <li className="margin-bottom-20 list-none">Trời đang mưa, vì vậy chúng tôi ở nhà.</li>
 
-          <li>he WORKED HARD, SO he GOT a proMOtion.</li>
+          <li id="">he WORKED HARD, SO he GOT a proMOtion.</li>
           <li className="list-none">Anh ấy đã làm việc chăm chỉ, do đó anh ấy được thăng chức.</li>
 
         </ul>

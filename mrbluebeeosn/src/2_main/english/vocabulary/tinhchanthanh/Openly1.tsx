@@ -97,7 +97,7 @@ export default function Openly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he Openly exPRESSED his oPINions.</li>
+          <li id="">he Openly exPRESSED his oPINions.</li>
           <li className="margin-bottom-20 list-none">Anh ấy công khai bày tỏ quan điểm của mình.</li>
 
           <li>they Openly supPORTed the NEW POLicy.</li>
@@ -117,13 +117,13 @@ export default function Openly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the DOOR is Open.</li>
+          <li id="">the DOOR is Open.</li>
           <li className="margin-bottom-20 list-none">Cửa đang mở.</li>
 
-          <li>PLEASE Open the WINdow.</li>
+          <li id="">PLEASE Open the WINdow.</li>
           <li className="margin-bottom-20 list-none">Làm ơn mở cửa sổ.</li>
 
-          <li>her Openness MADE her <strong>man</strong>y FRIENDS.</li>
+          <li id="">her Openness MADE her <strong>man</strong>y FRIENDS.</li>
           <li className="list-none">Sự cởi mở của cô ấy đã giúp cô ấy có nhiều bạn bè.</li>
 
         </ul>

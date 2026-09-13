@@ -97,7 +97,7 @@ export default function efFECtively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she efFECtively MANaged the PROJect.</li>
+          <li id="">she efFECtively MANaged the PROJect.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã quản lý dự án một cách hiệu quả.</li>
 
           <li>the NEW MEDicine efFECtively reDUCED the SYMPtoms.</li>
@@ -117,10 +117,10 @@ export default function efFECtively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>THIS is a VERy efFECTive METhod.</li>
+          <li id="">THIS is a VERy efFECTive METhod.</li>
           <li className="margin-bottom-20 list-none">Đây là một phương pháp rất hiệu quả.</li>
 
-          <li>the MEDicine had a POSitive efFECT.</li>
+          <li id="">the MEDicine had a POSitive efFECT.</li>
           <li className="list-none">Thuốc có tác dụng tích cực.</li>
 
         </ul>

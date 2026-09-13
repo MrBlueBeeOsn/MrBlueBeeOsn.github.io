@@ -97,7 +97,7 @@ export default function ACtually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i THOUGHT she was a DOCtor, but ACtually, she's a NURSE.</li>
+          <li id="">i THOUGHT she was a DOCtor, but ACtually, she's a NURSE.</li>
           <li className="margin-bottom-20 list-none">Tôi tưởng cô ấy là bác sĩ, nhưng thực ra cô ấy là y tá.</li>
 
           <li>i'm GOing to the LIbrary toDAY. - ACtually, i'm GOing to the GYM.</li>
@@ -117,10 +117,10 @@ export default function ACtually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the ACtual COST of the PROject was HIGHer than exPECTed.</li>
+          <li id="">the ACtual COST of the PROject was HIGHer than exPECTed.</li>
           <li className="margin-bottom-20 list-none">Chi phí thực tế của dự án cao hơn dự kiến.</li>
 
-          <li>the actuALity of the situAtion is MUCH WORSE than i THOUGHT.</li>
+          <li id="">the actuALity of the situAtion is MUCH WORSE than i THOUGHT.</li>
           <li className="list-none">Thực tế của tình hình tồi tệ hơn nhiều so với chúng ta nghĩ.</li>
 
         </ul>

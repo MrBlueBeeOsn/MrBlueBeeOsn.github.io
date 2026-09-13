@@ -97,7 +97,7 @@ export default function DELicately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she DELicately picked UP the FRAGile VASE.</li>
+          <li id="">she DELicately picked UP the FRAGile VASE.</li>
           <li className="margin-bottom-20 list-none">Cô ấy nhẹ nhàng nhặt chiếc bình thủy tinh dễ vỡ.</li>
 
           <li>he DELicately BROACHED the SUBject of MONey with his PARents.</li>
@@ -117,7 +117,7 @@ export default function DELicately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the CHIna is VERy DELicate.</li>
+          <li id="">the CHIna is VERy DELicate.</li>
           <li className="list-none">Đồ sứ rất dễ vỡ.</li>
 
         </ul>

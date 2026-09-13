@@ -118,7 +118,7 @@ export default function atTRACtive(): React.JSX.Element {
             1. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>1. [apPEALing]</strong> (ADjective) /əˈpiːlɪŋ/</p>
+      <p className="margin-top-20" id=""><strong>1. [apPEALing]</strong> (ADjective) /əˈpiːlɪŋ/</p>
 
       <p className="text-indent-whole">Gợi lên sự thích thú hoặc ham muốn; thường dùng cho các ý tưởng hoặc lựa chọn.</p>
 
@@ -133,7 +133,7 @@ export default function atTRACtive(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>2. [alLURing]</strong> (ADjective) /əˈlʊərɪŋ/</p>
+      <p className="margin-top-20" id=""><strong>2. [alLURing]</strong> (ADjective) /əˈlʊərɪŋ/</p>
 
       <p className="text-indent-whole">Có sức quyến rũ mạnh mẽ, thường mang tính huyền bí hoặc cám dỗ.</p>
 
@@ -148,7 +148,7 @@ export default function atTRACtive(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>3. [CAPtivating]</strong> (ADjective) /ˈkæptɪveɪtɪŋ/</p>
+      <p className="margin-top-20" id=""><strong>3. [CAPtivating]</strong> (ADjective) /ˈkæptɪveɪtɪŋ/</p>
 
       <p className="text-indent-whole">Làm say đắm, thu hút toàn bộ sự chú ý của một người.</p>
 
@@ -163,7 +163,7 @@ export default function atTRACtive(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>4. [CHARMing]</strong> (ADjective) /ˈtʃɑːmɪŋ/</p>
+      <p className="margin-top-20" id=""><strong>4. [CHARMing]</strong> (ADjective) /ˈtʃɑːmɪŋ/</p>
 
       <p className="text-indent-whole">Duyên dáng, có sức hút nhẹ nhàng và dễ mến.</p>
 
@@ -178,7 +178,7 @@ export default function atTRACtive(): React.JSX.Element {
             5.  
       ============================= */}
 
-      <p className="margin-top-20"><strong>5. [enGAging]</strong> (ADjective) /ɪnˈɡeɪdʒɪŋ/</p>
+      <p className="margin-top-20" id=""><strong>5. [enGAging]</strong> (ADjective) /ɪnˈɡeɪdʒɪŋ/</p>
 
       <p className="text-indent-whole">Lôi cuốn, khiến người khác muốn tham gia hoặc tương tác cùng.</p>
 
@@ -193,7 +193,7 @@ export default function atTRACtive(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>6. [FAScinating]</strong> (ADjective) /ˈfæsɪneɪtɪŋ/</p>
+      <p className="margin-top-20" id=""><strong>6. [FAScinating]</strong> (ADjective) /ˈfæsɪneɪtɪŋ/</p>
 
       <p className="text-indent-whole">Cực kỳ thú vị, khiến người ta không thể rời mắt hay ngừng suy nghĩ về nó.</p>
 

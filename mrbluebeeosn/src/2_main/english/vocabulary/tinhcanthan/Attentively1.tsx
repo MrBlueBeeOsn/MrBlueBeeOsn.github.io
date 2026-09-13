@@ -97,7 +97,7 @@ export default function atTENtively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he LIStened atTENtively to the TEACHer's inSTRUCtions.</li>
+          <li id="">he LIStened atTENtively to the TEACHer's inSTRUCtions.</li>
           <li className="margin-bottom-20 list-none">Anh ấy lắng nghe chăm chú những hướng dẫn của giáo viên.</li>
 
           <li>she WATCHED the perFORmance atTENtively.</li>
@@ -117,10 +117,10 @@ export default function atTENtively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he is an atTENtive STUdent.</li>
+          <li id="">he is an atTENtive STUdent.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một học sinh chăm chú.</li>
 
-          <li>he PAID atTENtion to the DEtails.</li>
+          <li id="">he PAID atTENtion to the DEtails.</li>
           <li className="list-none">Anh ấy chú ý đến các chi tiết.</li>
 
         </ul>
