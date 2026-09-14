@@ -162,7 +162,7 @@ export default function TRUly1(): React.JSX.Element {
           <li>he FALSEly acCUSED her of STEALing.</li>
           <li className="margin-bottom-20 list-none">Anh ta đã vu khống cô ấy ăn trộm.</li>
 
-          <li>apPArently, he is LEAVing the COMpany.</li>
+          <li>apPARently, he is LEAVing the COMpany.</li>
           <li className="list-none">Có vẻ như anh ấy sẽ rời khỏi công ty.</li>
 
         </ul>

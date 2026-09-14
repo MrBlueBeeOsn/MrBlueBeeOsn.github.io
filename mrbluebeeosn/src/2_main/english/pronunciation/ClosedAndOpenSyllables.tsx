@@ -79,7 +79,7 @@ export default function ClosedAndOpenSyllables(): React.JSX.Element {
 					<li className="margin-bottom-20">Letter I sounds like Ī /aɪ/ (as in "my")</li>
 
 					<li>Letter O sounds like Ō /oʊ/ (as in "GO")</li>
-					<li className="list-none margin-bottom-20">Letter O sounds like Ȯ /ɔː/ (as in "DOG")</li>
+					<li className="list-none margin-bottom-20">Letter O sounds like O /ɔː/ (as in "DOG")</li>
 			
 					<li>Letter U sounds like Ü /uː/ (as in "BLUE")</li>
 					<li className="list-none">Letter U sounds like YÜ /YÊU/ /juː/ (as in "USE")</li>

@@ -38,7 +38,7 @@ export default function GREATly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [GREATly][<Link to="/pronunciation/5-vowel-system">GREȦT ly</Link>] /ˈɡreɪtli/ ⬤• (2x)
+              [GREATly][<Link to="/pronunciation/5-vowel-system">GREAT ly</Link>] /ˈɡreɪtli/ ⬤• (2x)
               
             </span>
               

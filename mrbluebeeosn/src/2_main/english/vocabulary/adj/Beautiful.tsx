@@ -72,7 +72,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: [BEAUtiful][BĖAU ti fưl] /ˈbjuː.tɪ.fəl/</li>
+            <li>IPA: [BEAUtiful][BĒAU ti fưl] /ˈbjuː.tɪ.fəl/</li>
             <li>phoNETic BREAKdown: BYOO-tih-ful</li>
 
           </ul>

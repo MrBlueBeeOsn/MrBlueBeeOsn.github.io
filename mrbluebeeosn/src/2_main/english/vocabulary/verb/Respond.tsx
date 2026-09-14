@@ -83,7 +83,7 @@ export default function Respond(): React.JSX.Element {
 
           <p>[reSPOND] là một [ROOT VERB BASE][RỄ ĐỘNG CƠ] có nghĩa là phản hồi, trả lời, hoặc phản ứng lại một tác động trước đó.</p>
 
-          <p className="margin-top-20">Phát âm: [resPOND][rės POND] /rɪˈspɒnd/</p>
+          <p className="margin-top-20">Phát âm: [resPOND][res POND] /rɪˈspɒnd/</p>
 
             <ul className="list-square">
           
@@ -193,7 +193,7 @@ export default function Respond(): React.JSX.Element {
           
       <p className="margin-top-20 text-indent-whole" id="NOUN-BASE"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN BASE</strong>][<strong>DANH CƠ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 1: [resPONSE][rės PONSE] /rɪˈspɒns/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 1: [resPONSE][res PONSE] /rɪˈspɒns/</p>
       
         <ul className="list-square">
       
@@ -209,7 +209,7 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole" id="ADjective-BASE"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 2: [resPONsive][rės PON sive] /rɪˈspɒnsɪv/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 2: [resPONsive][res PON sive] /rɪˈspɒnsɪv/</p>
       
         <ul className="list-square">
       
@@ -225,7 +225,7 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole" id="ADverb-BASE"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 3: [resPONsively][rės PON sive ly] /rɪˈspɒnsɪvli/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 3: [reSPONsively][res PON sive ly] /rɪˈspɒnsɪvli/</p>
       
         <ul className="list-square">
       

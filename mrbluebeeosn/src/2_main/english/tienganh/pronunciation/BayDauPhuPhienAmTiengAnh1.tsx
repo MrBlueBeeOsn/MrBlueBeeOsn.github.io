@@ -154,7 +154,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
             
             <tr>
                 <td><strong>ē</strong> = /iː/</td>
-                <td>[he][hė] /hiː/ (function word)</td>
+                <td>[he][he] /hiː/ (function word)</td>
             </tr>
 
             <tr>
@@ -213,7 +213,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           <tbody>
             <tr>
                 <td><strong>â</strong> = /ʌ/</td>
-                <td>[beCAUSE][bė CAUSE] /bɪˈkɒz/ (function word)</td>
+                <td>[beCAUSE][be CAUSE] /bɪˈkɒz/ (function word)</td>
             </tr>
 
             <tr>
@@ -237,7 +237,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
 
         <h3 className="margin-y-50 text-center" id="dot-above">4. Dot above (˙) — Âm /ɪ/ biến thể</h3>
 
-        <p>📌 Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/</p>
+        <p>📌 Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ʊ/ hay /ɔː/</p>
 
         <table className="margin-y-50">
           <thead>
@@ -248,38 +248,17 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           </thead>
 
           <tbody>
+
             <tr>
-                <td><strong>ȧ</strong> = /ɪ/</td>
-                <td>[IMage][IM ȧge] /ˈɪm.ɪdʒ/</td>
+                <td><strong>U̇</strong> = /ʊ/</td>
+                <td>[PUT][PU̇T] /ˈpʊt/</td>
             </tr>
 
             <tr>
-                <td><strong>ė</strong> = /ɪ/</td>
-                <td>[exPENSE][ėx PENSE] /ɪkˈspens/</td>
+              <td><strong>Ȯ</strong> = /ɔː/</td>
+              <td>[SHORE][SHȮRE] /ʃɔːr/</td>
             </tr>
 
-            <tr>
-                <td><strong>i̇</strong> = /ɪ/</td>
-                <td>[FIT][FIT] /fɪt/ (i có dấu chấm trong fit)</td>
-            </tr>
-
-            <tr>
-                <td><strong>ȯ</strong></td>
-                <td>[WOMen][WȮM ėn] /ˈwɪm.ɪn/</td>
-            </tr>
-
-            <tr>
-                <td><strong>u̇</strong> = /ɪ/</td>
-                <td>[BUSINess][BU̇SI nėss] /ˈbɪz.nɪs/</td>
-            </tr>
-
-            <tr>
-                <td><strong>ư̇</strong> = /jə/ <br>
-                </br> 
-                <strong>u̇+ư</strong> = /j+ə/</td>
-
-                <td>[ACcurate][AC cư̇r a̛te] /ˈæk.jə.rət/</td>
-            </tr>
           </tbody>
         </table>
       </div>
@@ -325,7 +304,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
 
             <tr>
               <td><strong>ư</strong> = /ə/</td>
-              <td>[supPORT][sưp PÖRT] /səˈpɔːrt/</td>
+              <td>[supPORT][sưp PȮRT] /səˈpɔːrt/</td>
             </tr>
 
             <tr>
@@ -378,99 +357,12 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
               <td><strong>ä</strong> = /ɑː/</td>
               <td>
                 [CAR][CÄR] /kɑːr/<br/>
-                [AUtumn][ÄU tumn] /ˈɑː.t̬əm/
               </td>
-            </tr>
-
-            <tr>
-              <td><strong>ï</strong> = /iː/</td>
-              <td>[PIZza][PÏZ za̛] /ˈpiːt.sə/</td>
-            </tr>
-
-            <tr>
-              <td><strong>ö</strong> = /ɔː/</td>
-              <td>[SHORE][SHÖRE] /ʃɔːr/</td>
             </tr>
 
             <tr>
               <td><strong>ü</strong> = /uː/</td>
               <td>[TUESday][TÜES dāy] /ˈtʃuːz.deɪ/</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-
-      {/* =============================
-          7. Double Macron ( ̄ ̄ ) — Âm dài đặc biệt và biến thể mở rộng
-      ============================= */}
-
-      <div className="margin-y-15 text-border1 table-container">
-
-        <h3 className="margin-y-50 text-center" id="double-macron">7. Double Macron (&nbsp; ̄ ̄ ) — Âm dài đặc biệt và biến thể mở rộng</h3>
-
-        <p>📌 Biểu thị âm /uː/, /e/ /ɑː/</p>
-
-        <table className="margin-y-50">
-          <thead>
-            <tr>
-              <th>Ký hiệu</th>
-              <th>Ví dụ</th>
-            </tr>
-          </thead>
-          
-          <tbody>
-            <tr>
-                <td><strong>ā̄</strong> = /e/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>&nbsp;&nbsp; = /eə/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
-                
-                <td>
-                  [SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>
-                  [SQUARE][SQUĀ̄RE] /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)
-                 </td>
-            </tr>
-
-            <tr>
-                <td><strong>ē̄</strong> = /ɑː/</td>
-                <td>[GENre][GĒ̄Nre] /ˈʒɑːn.rə/</td>
-            </tr>
-
-            <tr>
-                <td><strong>ō̄</strong> = /uː/</td>
-                <td>
-                  [do][dō̄] /duː/<br/>
-                  [whose][whō̄se] /huːz/
-                </td>
-            </tr>
-
-            <tr>
-                <td><strong>ū̄</strong> = /e/</td>
-                <td>[BURy][BŪ̄R y] /ˈber.i/</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-
-      {/* =============================
-          8. Ring (˚) — Âm tròn /ɔː/
-      ============================= */}
-
-      <div className="margin-y-15 text-border1 table-container">
-
-        <h3 className="margin-y-50 text-center" id="ring">8. Ring (˚) — Âm tròn /ɔː/</h3>
-
-        <p>📌 Biểu thị một số trường hợp âm /ɔː/ đặc biệt.</p>
-
-        <table className="margin-y-50">
-          <thead>
-            <tr>
-              <th>Ký hiệu</th>
-              <th>Ví dụ</th>
-            </tr>
-          </thead>
-
-          <tbody>
-            <tr>
-                <td><strong>å</strong> = /ɔː/</td>
-                <td>[WAR][WÅR] /wɔːr/</td>
             </tr>
           </tbody>
         </table>
@@ -506,15 +398,15 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[IMage][IM ȧge] /ˈɪm.ɪdʒ/</li>
+          <li>[IMage][IM age] /ˈɪm.ɪdʒ/</li>
       
-          <li>[WOMen][WȮM ėn] wȯmėn</li>
+          <li>[WOMen][WOM en] women</li>
       
-          <li>[BUSINess][BU̇SI nėss] /ˈbɪz.nɪs/</li>
+          <li>[BUSINess][BU̇SI ness] /ˈbɪz.nɪs/</li>
 
           <li>[FIT][FIT] /fɪt/</li> 
       
-          <li>[exPENSE][ėx PENSE] /ɪkˈspens/</li>
+          <li>[eXPENSE][ex PENSE] /ɪkˈspens/</li>
       
       
         </ul>

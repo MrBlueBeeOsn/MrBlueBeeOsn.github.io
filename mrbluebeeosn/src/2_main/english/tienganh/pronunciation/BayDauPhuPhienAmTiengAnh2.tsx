@@ -120,7 +120,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
           <ul className="list-square">
             <li>[CAKE][CĀKE] /keɪk/</li>
-            <li>[he][hė] /hiː/ (function word)</li>
+            <li>[he][he] /hiː/ (function word)</li>
             <li>[TIME][TĪME] /taɪm/</li>
             <li>[GO][GŌ] /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>)</li>
             <li className="list-none">[GO][GŌ] /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
@@ -157,7 +157,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
           <ul className="list-square">
-            <li>[beCAUSE][bė CAUSE] /bɪˈkɒz/ (function word)</li>
+            <li>[beCAUSE][be CAUSE] /bɪˈkɒz/ (function word)</li>
             <li>[OTHer][ƠTH er] /ˈəð.ər/</li>
             <li>[BUTton][BƯT tơn] /ˈbət.ən/</li>
           </ul>
@@ -176,26 +176,21 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
           <h3 className="margin-y-50 text-center" id="dot-above">4. Dot above <mark className="highlight-tertiary-padding-4-8">˙</mark> — Âm /ɪ/ biến thể</h3>
 
-          <p className="margin-top-20 text-indent-whole">📌 Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/</p>
+          <p className="margin-top-20 text-indent-whole">📌 Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ʊ/ hay /ɔː/</p>
 
           <p className="margin-y-20 text-word-spacing-1">
-            <span className="highlight-255-padding-4-8">ȧ ė i̇ ȯ u̇ ư̇</span>
+            <span className="highlight-255-padding-4-8">u̇ ȯ</span>
           </p>
 
           <p className="text-center">↓</p>
 
           <p className="margin-y-20 text-word-spacing-1">
-            <span className="highlight-255-padding-4-8">ɪ</span>
+            <span className="highlight-255-padding-4-8">/ʊ/ /ɔː/</span>
           </p>
 
           <ul className="list-square">
-            <li>[IMage][IM ȧge] /ˈɪm.ɪdʒ/</li>
-            <li>[exPENSE][ėx PENSE] /ɪkˈspens/</li>
-            <li>[FIT][FIT] /fɪt/ (i có dấu chấm trong fit)</li>
-            <li>[WOMen][WȮM ėn] /ˈwɪm.ɪn/</li>
-            <li>[BUSINess][BU̇SI nėss] /ˈbɪz.nɪs/</li>
-            <li>[ACcurate][AC cư̇r a̛te] /ˈæk.jə.rət/</li>
-            <li className="list-none">u̇+ư = /j+ə/</li>
+            <li>[PUT][PU̇T] /ˈpʊt/</li>
+            <li>[SHORE][SHȮRE] /ʃɔːr/</li>
           </ul>
 
         </div>
@@ -229,7 +224,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
             <li>[TAken][TĀ ke̛n] /ˈteɪ.kən/</li>
             <li>[PENcil][PEN ci̛l] /ˈpen.səl/</li>
             <li>[LEMon][LEM ơn] /ˈlem.ən/</li>
-            <li>[supPORT][sưp PÖRT] /səˈpɔːrt/</li>
+            <li>[supPORT][sưp PȮRT] /səˈpɔːrt/</li>
           </ul>
 
           <p className="margin-y-20 text-word-spacing-1">
@@ -266,99 +261,26 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           <p className="margin-top-20 text-indent-whole">📌 Dùng khi nguyên âm “đặc biệt” (thường là âm dài / vị trí môi/lưỡi khác).</p>
           
           <p className="margin-y-20 text-word-spacing-1">
-            <span className="highlight-255-padding-4-8">ä ë ï ö ü</span>
+            <span className="highlight-255-padding-4-8">ä ü</span>
           </p>
 
           <p className="text-center">↓</p>
 
           <p className="margin-y-20 text-word-spacing-1">
-            <span className="highlight-255-padding-4-8">ɑː eː i: o: uː</span>
+            <span className="highlight-255-padding-4-8">ɑː uː</span>
           </p>
 
           <ul className="list-square">
             <li>[CAR][CÄR] /kɑːr/</li>
-            <li>[AUtumn][ÄU tumn] /ˈɑː.t̬əm/</li>
-            <li>[PIZza][PÏZ za̛] /ˈpiːt.sə/</li>
-            <li>[SHORE][SHÖRE] /ʃɔːr/</li>
-            <li>[TUESday][TÜES dāy] /ˈtʃuːz.deɪ/ (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
+            <li>[TUESday][TÜES dāy] /ˈtʃuːz.deɪ/</li>
+            <li>[BEAUtiful][TÜES dāy] /ˈbyü-ti-fəl/</li>
+            <li>[ACcurate][AC cur a̛te] /ˈa-kyə-rət/</li>
           </ul>
 
         </div>
 
       </div>
-      
-      {/* =============================
-          7. Double Macron ( ̄ ̄ ) Âm dài đặc biệt và biến thể mở rộng
-      ============================= */}
 
-      <div className="margin-y-15 text-border1 table-container">
-
-        <div className="margin-y-30">
-
-          <h3 className="margin-y-50 text-center" id="double-macron">7. Double Macron <mark className="highlight-tertiary-padding-4-8">&nbsp; ̄ ̄</mark> — Âm dài đặc biệt và biến thể mở rộng</h3>
-
-          <p className="margin-top-20 text-indent-whole">📌 Biểu thị âm /e/ /ɑː/ /uː/ /e/</p>
-
-          <p className="margin-y-20 text-word-spacing-1">
-            <span className="highlight-255-padding-4-8">ā̄ ē̄ ō̄ ū̄</span>
-          </p>
-
-          <p className="text-center">↓</p>
-
-          <p className="margin-y-20 text-word-spacing-1">
-            <span className="highlight-255-padding-4-8">e ɑː u: e</span>
-          </p>
-
-            <ul className="list-square">
-
-              <li>[many][MĀ̄N y] /ˈmen.i/</li>
-              <li>[LIbrary][LĪ brā̄r y] /ˈlaɪ.brer.i/</li>
-              <li>[SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)</li>
-              <li className="list-none margin-bottom-50">[SQUARE][SQUĀ̄RE] /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
-
-              <li className="margin-bottom-50">[GENre][GĒ̄Nre] /ˈʒɑːn.rə/</li>
-
-              <li>[do][dō̄] /duː/ (function word)</li>
-              <li>[MOVE][MŌ̄VE] /muːv/</li>
-              <li className="margin-bottom-20">[whose][whō̄se] /huːz/ (function word)</li>
-
-              <li className="margin-bottom-20">[BURy][BŪ̄R y] /ˈber.i/</li>
-
-            </ul>
-
-        </div>
-
-      </div>
-
-        {/* =============================
-          8. Ring (˚) — Âm tròn /ɔː/
-      ============================= */}
-
-      <div className="margin-y-15 text-border1 table-container">
-
-        <div className="margin-y-30">
-
-          <h3 className="margin-y-50 text-center" id="ring">8. Ring <mark className="highlight-tertiary-padding-4-8">˚</mark> — Âm tròn /ɔː/</h3>
-
-          <p className="margin-top-20 text-indent-whole">📌 Biểu thị một số trường hợp âm /ɔː/ đặc biệt.</p>
-
-          <p className="margin-y-20 text-word-spacing-1">
-            <span className="highlight-255-padding-4-8">å</span>
-          </p>
-
-          <p className="text-center">↓</p>
-
-          <p className="margin-y-20 text-word-spacing-1">
-            <span className="highlight-255-padding-4-8">ɔː</span>
-          </p>
-
-            <ul className="list-square">
-              <li className="margin-bottom-50">[WAR][WÅR] /wɔːr/</li>
-            </ul>
-
-        </div>
-
-      </div>
 
       {/* =============================
             Notes!

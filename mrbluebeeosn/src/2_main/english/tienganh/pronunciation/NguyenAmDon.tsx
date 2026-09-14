@@ -62,11 +62,11 @@ export default function NguyenAmDon(): React.JSX.Element {
             <tr>
               <td>/ɪ/</td>
               <td>
-                [IMage][IM ȧge] /ˈɪm.ɪdʒ/<br/>
-                [exPENSE][ėx PENSE] /ɪkˈspens/<br/>
+                [IMage][IM age] /ˈɪm.ɪdʒ/<br/>
+                [eXPENSE][ex PENSE] /ɪkˈspens/<br/>
                 [SIT][SIT] /sɪt/<br/>
-                [WOMen][WȮM ėn] /ˈwɪm.ɪn/<br/>
-                [BUSINess][BU̇SI nėss] /ˈbɪz.nɪs/<br/>
+                [WOMen][WOM en] /ˈwɪm.ɪn/<br/>
+                [BUSINess][BU̇SI ness] /ˈbɪz.nɪs/<br/>
                 [MYTH][MYTH] /mɪθ/
               </td>
             </tr>
@@ -75,7 +75,7 @@ export default function NguyenAmDon(): React.JSX.Element {
               <td>/iː/</td>
               <td>
                 [BEE][BEE] /biː/<br/>
-                [he][hė] /hiː/ (function word)<br/>
+                [he][he] /hiː/ (function word)<br/>
                 [PIZza][PÏZ za̛] /ˈpiːt.sə/
               </td>
             </tr>
@@ -91,7 +91,7 @@ export default function NguyenAmDon(): React.JSX.Element {
             <tr>
               <td>/ʌ/</td>
               <td>
-                [beCAUSE][bė CAUSE] /bɪˈkɒz/ (function word)<br/>
+                [beCAUSE][be CAUSE] /bɪˈkɒz/ (function word)<br/>
                 [OTHer][ƠTH er] /ˈʌð.ər/<br/>
                 [SUN][SƯN]/sʌn/
               </td>
@@ -117,7 +117,7 @@ export default function NguyenAmDon(): React.JSX.Element {
             <tr>
               <td>/ɔː/</td>
               <td>
-                [SHORE][SHÖRE] /ʃɔːr/<br/>
+                [SHORE][SHȮRE] /ʃɔːr/<br/>
                 [WAR][WÅR] /wɔːr/
               </td>
             </tr>
@@ -137,7 +137,7 @@ export default function NguyenAmDon(): React.JSX.Element {
                 [TAken][TĀ ke̛n] /ˈteɪ.kən//<br/>
                 [PENcil][PEN ci̛l] /ˈpen.səl/<br/>
                 [LEMon][LEM ơn] /ˈlem.ən/<br/>
-                [supPORT][sưp PÖRT] /səˈpɔːrt/
+                [supPORT][sưp PȮRT] /səˈpɔːrt/
               </td>
             </tr>
 
