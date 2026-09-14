@@ -127,7 +127,7 @@ export default function CHEERfully1(): React.JSX.Element {
           <li id="VERB">the CROWD CHEERED the TEAM ON.</li>
           <li className="margin-bottom-20 list-none">Đám đông cổ vũ đội bóng.</li>
 
-          <li id="NOUN">her CHEER BRIGHtened UP the ROOM.</li>
+          <li id="NOUN">her CHEER <strong>bright</strong>enED UP the ROOM.</li>
           <li className="margin-bottom-20 list-none">Sự vui vẻ của cô ấy làm căn phòng sáng bừng lên.</li>
 
         </ul>
@@ -211,7 +211,7 @@ export default function CHEERfully1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>cheerfully</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>CHEERfully</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 

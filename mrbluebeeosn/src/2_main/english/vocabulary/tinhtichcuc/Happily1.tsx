@@ -204,7 +204,7 @@ export default function HAPpily1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>happily</strong>" để diễn tả những khoảnh khắc hạnh phúc trong cuộc sống.</p>
+      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>HAPpily</strong>" để diễn tả những khoảnh khắc hạnh phúc trong cuộc sống.</p>
 
         <ul className="list-square">
 
