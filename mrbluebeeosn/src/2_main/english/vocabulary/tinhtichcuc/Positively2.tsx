@@ -26,6 +26,53 @@ export default function POSitively2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>POSitively</strong>" (một cách tích cực) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function POSitively2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the NEW POLicy POSitively imPACted emPLOYee moRALE.</li>
+        <li value="1" id="">the NEW POLicy POSitively imPACted emPLOYee moRALE.</li>
         <li className="list-none margin-bottom-20">Chính sách mới đã tác động tích cực đến tinh thần làm việc của nhân viên.</li>
 
-        <li value="2">the MENtor POSitively INfluenced her caREER PATH.</li>
+        <li value="2" id="">the MENtor POSitively INfluenced her caREER PATH.</li>
         <li className="list-none margin-bottom-20">Người cố vấn của cô ấy đã ảnh hưởng tích cực đến con đường sự nghiệp của cô ấy.</li>
 
-        <li value="3">he POSitively conTRIButed to the sucCESS of the PROject.</li>
+        <li value="3" id="">he POSitively conTRIButed to the sucCESS of the PROject.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã đóng góp tích cực vào sự thành công của dự án.</li>
 
-        <li value="4">EXercise POSitively afFECTS both PHYSical and MENtal HEALTH.</li>
+        <li value="4" id="">EXercise POSitively afFECTS both PHYSical and MENtal HEALTH.</li>
         <li className="list-none margin-bottom-20">Tập thể dục tác động tích cực đến cả sức khỏe thể chất và tinh thần.</li>
 
-        <li value="5">the CUStomers POSitively reSPONDed to the NEW PROduct.</li>
+        <li value="5" id="">the CUStomers POSitively reSPONDed to the NEW PROduct.</li>
         <li className="list-none margin-bottom-20">Khách hàng đã phản hồi tích cực về sản phẩm mới.</li>
 
-        <li value="6">the NEW MANagement POSitively CHANGED the COMpany's CULture.</li>
+        <li value="6" id="">the NEW MANagement POSitively CHANGED the COMpany's CULture.</li>
         <li className="list-none margin-bottom-20">Ban lãnh đạo mới đã thay đổi tích cực văn hóa công ty.</li>
 
-        <li value="7">the TEAcher POSitively reinFORCED the STUdents' EFforts.</li>
+        <li value="7" id="">the TEAcher POSitively reinFORCED the STUdents' EFforts.</li>
         <li className="list-none margin-bottom-20">Giáo viên đã củng cố tích cực những nỗ lực của học sinh.</li>
 
-        <li value="8">the camPAIGN POSitively proMOted HEALthy EAting HABits.</li>
+        <li value="8" id="">the camPAIGN POSitively proMOted HEALthy EAting HABits.</li>
         <li className="list-none margin-bottom-20">Chiến dịch đã thúc đẩy tích cực thói quen ăn uống lành mạnh.</li>
 
-        <li value="9">he POSitively VIEWED the CHALlenges as opporTUnities for GROWTH.</li>
+        <li value="9" id="">he POSitively VIEWED the CHALlenges as opporTUnities for GROWTH.</li>
         <li className="list-none margin-bottom-20">Anh ấy nhìn nhận tích cực những thách thức như cơ hội để phát triển.</li>
 
-        <li value="10">HARD WORK and dediCAtion POSitively afFECT the OUTcome of any PROject.</li>
+        <li value="10" id="">HARD WORK and dediCAtion POSitively afFECT the OUTcome of any PROject.</li>
         <li className="list-none margin-bottom-20">Sự chăm chỉ và tận tâm ảnh hưởng tích cực đến kết quả của mọi dự án.</li>
 
       </ol>

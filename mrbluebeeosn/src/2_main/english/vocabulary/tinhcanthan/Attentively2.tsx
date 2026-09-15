@@ -26,6 +26,53 @@ export default function atTENtively2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>atTENtively</strong>" (một cách chăm chú) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function atTENtively2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she atTENtively LISTENed to the SPEAKer.</li>
+        <li value="1" id="">she atTENtively LISTENed to the SPEAKer.</li>
         <li className="list-none margin-bottom-20">Cô ấy lắng nghe người nói một cách chăm chú.</li>
 
-        <li value="2">the STUdents atTENtively WATCHED the demonSTRAtion.</li>
+        <li value="2" id="">the STUdents atTENtively WATCHED the demonSTRAtion.</li>
         <li className="list-none margin-bottom-20">Các học sinh xem phần trình diễn một cách chăm chú.</li>
 
-        <li value="3">he atTENtively READ the CONtract be<strong>fore</strong> SIGNing it.</li>
+        <li value="3" id="">he atTENtively READ the CONtract be<strong>fore</strong> SIGNing it.</li>
         <li className="list-none margin-bottom-20">Anh ấy đọc hợp đồng một cách chăm chú trước khi ký.</li>
 
-        <li value="4">the SCIentist atTENtively obSERVED the CELLS under the MIcroscope.</li>
+        <li value="4" id="">the SCIentist atTENtively obSERVED the CELLS under the MIcroscope.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học quan sát các tế bào dưới kính hiển vi một cách chăm chú.</li>
 
-        <li value="5">she atTENtively STUDied for her exAMS.</li>
+        <li value="5" id="">she atTENtively STUDied for her exAMS.</li>
         <li className="list-none margin-bottom-20">Cô ấy học bài cho kỳ thi của mình một cách chăm chú.</li>
 
-        <li value="6">the DOG atTENtively FOLlowed its OWNer's comMANDS.</li>
+        <li value="6" id="">the DOG atTENtively FOLlowed its OWNer's comMANDS.</li>
         <li className="list-none margin-bottom-20">Con chó theo dõi lệnh của chủ nhân một cách chăm chú.</li>
 
-        <li value="7">the WORKers atTENtively LIStened to the SAFEty inSTRUCtions.</li>
+        <li value="7" id="">the WORKers atTENtively LIStened to the SAFEty inSTRUCtions.</li>
         <li className="list-none margin-bottom-20">Các công nhân lắng nghe hướng dẫn an toàn một cách chăm chú.</li>
 
-        <li value="8">he atTENtively PAID atTENtion to the LECture.</li>
+        <li value="8" id="">he atTENtively PAID atTENtion to the LECture.</li>
         <li className="list-none margin-bottom-20">Anh ấy chú ý đến bài giảng một cách chăm chú.</li>
 
-        <li value="9">she atTENtively TOOK NOTES DURing the MEETing.</li>
+        <li value="9" id="">she atTENtively TOOK NOTES DURing the MEETing.</li>
         <li className="list-none margin-bottom-20">Cô ấy ghi chú trong cuộc họp một cách chăm chú.</li>
 
-        <li value="10">the DOCtor atTENtively exAMined the PAtient.</li>
+        <li value="10" id="">the DOCtor atTENtively exAMined the PAtient.</li>
         <li className="list-none margin-bottom-20">Bác sĩ kiểm tra bệnh nhân một cách chăm chú.</li>
 
       </ol>

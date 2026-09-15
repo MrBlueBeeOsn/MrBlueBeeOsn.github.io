@@ -26,6 +26,53 @@ export default function DELicately2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>DELicately</strong>" (một cách tinh tế, khéo léo) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function DELicately2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the Ecosystem was DELicately BALanced be<strong>fore</strong> HUman interVENtion.</li>
+        <li value="1" id="">the Ecosystem was DELicately BALanced be<strong>fore</strong> HUman interVENtion.</li>
         <li className="list-none margin-bottom-20">Hệ sinh thái đã được cân bằng một cách tinh tế trước khi con người can thiệp.</li>
 
-        <li value="2">the TEA has a DELicately FLORal aROma.</li>
+        <li value="2" id="">the TEA has a DELicately FLORal aROma.</li>
         <li className="list-none margin-bottom-20">Trà có hương thơm hoa rất tinh tế.</li>
 
-        <li value="3">the PAINting was DELicately SHAded, creAting a SOFT, eTHEreal ATmosphere.</li>
+        <li value="3" id="">the PAINting was DELicately SHAded, creAting a SOFT, eTHEreal ATmosphere.</li>
         <li className="list-none margin-bottom-20">Bức tranh được tô màu một cách tinh tế, tạo ra một bầu không khí mềm mại, huyền ảo.</li>
 
-        <li value="4">the situAtion reQUIred to be DELicately HANdled to aVOID CONflict.</li>
+        <li value="4" id="">the situAtion reQUIred to be DELicately HANdled to aVOID CONflict.</li>
         <li className="list-none margin-bottom-20">Tình huống này cần được xử lý một cách khéo léo để tránh xung đột.</li>
 
-        <li value="5">the CURry was DELicately SPICED, alLOWing the NATURal FLAvors of the inGREdients to SHINE THROUGH.</li>
+        <li value="5" id="">the CURry was DELicately SPICED, alLOWing the NATURal FLAvors of the inGREdients to SHINE THROUGH.</li>
         <li className="list-none margin-bottom-20">Cà ri được gia vị một cách tinh tế, cho phép hương vị tự nhiên của các nguyên liệu tỏa sáng.</li>
 
-        <li value="6">the WATCH was DELicately conSTRUCted with INtricate DEtails.</li>
+        <li value="6" id="">the WATCH was DELicately conSTRUCted with INtricate DEtails.</li>
         <li className="list-none margin-bottom-20">Chiếc đồng hồ được chế tác một cách tinh xảo với những chi tiết phức tạp.</li>
 
-        <li value="7">the SILK SCARF was DELicately WOven with INtricate PATterns.</li>
+        <li value="7" id="">the SILK SCARF was DELicately WOven with INtricate PATterns.</li>
         <li className="list-none margin-bottom-20">Chiếc khăn lụa được dệt một cách tinh xảo với những họa tiết phức tạp.</li>
 
-        <li value="8">the ACrobat DELicately BALanced on the TIGHTrope.</li>
+        <li value="8" id="">the ACrobat DELicately BALanced on the TIGHTrope.</li>
         <li className="list-none margin-bottom-20">Nghệ sĩ xiếc cân bằng một cách tinh tế trên dây cáp.</li>
 
-        <li value="9">the ROOM was DELicately perFUMED with the SCENT of ROSES.</li>
+        <li value="9" id="">the ROOM was DELicately perFUMED with the SCENT of ROSES.</li>
         <li className="list-none margin-bottom-20">Căn phòng có mùi thơm hoa hồng rất tinh tế.</li>
 
-        <li value="10">the balleRIna was DELicately POISED on the TIP of her TOES.</li>
+        <li value="10" id="">the balleRIna was DELicately POISED on the TIP of her TOES.</li>
         <li className="list-none margin-bottom-20">Nữ vũ công ba lê đứng ở tư thế cân bằng một cách tinh tế trên mũi chân.</li>
 
       </ol>

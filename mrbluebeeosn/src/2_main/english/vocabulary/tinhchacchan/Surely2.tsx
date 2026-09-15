@@ -26,6 +26,53 @@ export default function SUREly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SUREly</strong>" (chắc chắn) và các cụm từ hay đi kèm nhé.
@@ -58,34 +105,34 @@ export default function SUREly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i THOUGHT i LEFT my KEYS on the TAble, and SUREly eNOUGH, THERE they WERE.</li>
+        <li value="1" id="">i THOUGHT i LEFT my KEYS on the TAble, and SUREly eNOUGH, THERE they WERE.</li>
         <li className="list-none margin-bottom-20">Tôi nghĩ rằng tôi để chìa khóa trên bàn, và quả nhiên, chúng ở đó.</li>
 
-        <li value="2">she WORKED so HARD; she SUREly must GET a proMOtion.</li>
+        <li value="2" id="">she WORKED so HARD; she SUREly must GET a proMOtion.</li>
         <li className="list-none margin-bottom-20">Cô ấy làm việc rất chăm chỉ, chắc chắn cô ấy phải được thăng chức.</li>
 
-        <li value="3">SUREly you KNOW the ANswer to this QUEStion.</li>
+        <li value="3" id="">SUREly you KNOW the ANswer to this QUEStion.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn biết câu trả lời cho câu hỏi này.</li>
 
-        <li value="4">SUREly you can FINish this TASK by toMORrow.</li>
+        <li value="4" id="">SUREly you can FINish this TASK by toMORrow.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn có thể hoàn thành công việc này vào ngày mai.</li>
 
-        <li value="5">the WEATHer FOREcast SAYS it will RAIN toMORrow, so SUREly we will NEED umBRELlas.</li>
+        <li value="5" id="">the WEATHer FOREcast SAYS it will RAIN toMORrow, so SUREly we will NEED umBRELlas.</li>
         <li className="list-none margin-bottom-20">Dự báo thời tiết nói rằng trời sẽ mưa vào ngày mai, vì vậy chắc chắn chúng ta sẽ cần ô.</li>
 
-        <li value="6">SUREly you underSTAND the imPORtance of this PROJect.</li>
+        <li value="6" id="">SUREly you underSTAND the imPORtance of this PROJect.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn hiểu tầm quan trọng của dự án này.</li>
 
-        <li value="7">SUREly you aGREE that THIS is the BEST soLUtion.</li>
+        <li value="7" id="">SUREly you aGREE that THIS is the BEST soLUtion.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn đồng ý rằng đây là giải pháp tốt nhất.</li>
 
-        <li value="8">SUREly you reMEMber the DAY we MET.</li>
+        <li value="8" id="">SUREly you reMEMber the DAY we MET.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn nhớ ngày chúng ta gặp nhau.</li>
 
-        <li value="9">SUREly you REalize the CONsequences of your ACtions.</li>
+        <li value="9" id="">SUREly you REalize the CONsequences of your ACtions.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn nhận ra hậu quả của hành động của mình.</li>
 
-        <li value="10">SUREly apPREciate all the HARD WORK we've PUT into THIS.</li>
+        <li value="10" id="">SUREly apPREciate all the HARD WORK we've PUT into THIS.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn đánh giá cao tất cả những nỗ lực mà chúng ta đã bỏ ra.</li>
 
       </ol>

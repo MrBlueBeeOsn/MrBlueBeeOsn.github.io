@@ -26,6 +26,53 @@ export default function SOFTly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SOFTly</strong>" (một cách nhẹ nhàng) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function SOFTly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she SOFTly SPOken to the BAby to CALM it DOWN.</li>
+        <li value="1" id="">she SOFTly SPOken to the BAby to CALM it DOWN.</li>
         <li className="list-none margin-bottom-20">Cô ấy nói nhỏ nhẹ với em bé để dỗ nó nín.</li>
 
-        <li value="2">the ROOM was SOFTly LIT by CANdlelight.</li>
+        <li value="2" id="">the ROOM was SOFTly LIT by CANdlelight.</li>
         <li className="list-none margin-bottom-20">Căn phòng được chiếu sáng dịu nhẹ bởi ánh nến.</li>
 
-        <li value="3">the CHAIR was SOFTly PADded for COMfort.</li>
+        <li value="3" id="">the CHAIR was SOFTly PADded for COMfort.</li>
         <li className="list-none margin-bottom-20">Chiếc ghế được đệm mềm mại để tạo cảm giác thoải mái.</li>
 
-        <li value="4">the MUsic was SOFTly PLAYED in the BACKground.</li>
+        <li value="4" id="">the MUsic was SOFTly PLAYED in the BACKground.</li>
         <li className="list-none margin-bottom-20">Âm nhạc được chơi nhẹ nhàng ở nền.</li>
 
-        <li value="5">she SOFTly BRUSHED her HAIR with a WOODen COMB.</li>
+        <li value="5" id="">she SOFTly BRUSHED her HAIR with a WOODen COMB.</li>
         <li className="list-none margin-bottom-20">Cô ấy chải nhẹ nhàng mái tóc bằng chiếc lược gỗ.</li>
 
-        <li value="6">he SOFTly WHISpered in her EAR.</li>
+        <li value="6" id="">he SOFTly WHISpered in her EAR.</li>
         <li className="list-none margin-bottom-20">Anh ấy thì thầm nhẹ nhàng vào tai cô ấy.</li>
 
-        <li value="7">she SOFTly CLOSED the DOOR behind her.</li>
+        <li value="7" id="">she SOFTly CLOSED the DOOR behind her.</li>
         <li className="list-none margin-bottom-20">Cô ấy đóng nhẹ nhàng cánh cửa sau lưng.</li>
 
-        <li value="8">the FIREflies were SOFTly GLOWing in the DARKness.</li>
+        <li value="8" id="">the FIREflies were SOFTly GLOWing in the DARKness.</li>
         <li className="list-none margin-bottom-20">Những con đom đóm phát ra ánh sáng dịu nhẹ trong bóng tối.</li>
 
-        <li value="9">SNOWflakes were SOFTly FALLing from the SKY.</li>
+        <li value="9" id="">SNOWflakes were SOFTly FALLing from the SKY.</li>
         <li className="list-none margin-bottom-20">Những bông tuyết rơi nhẹ nhàng từ trên trời xuống.</li>
 
-        <li value="10">the BIRD SOFTly LANDed on the BRANCH.</li>
+        <li value="10" id="">the BIRD SOFTly LANDed on the BRANCH.</li>
         <li className="list-none margin-bottom-20">Con chim hạ cánh nhẹ nhàng trên cành cây.</li>
 
       </ol>

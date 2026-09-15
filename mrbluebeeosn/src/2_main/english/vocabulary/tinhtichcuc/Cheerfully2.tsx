@@ -26,6 +26,53 @@ export default function CHEERfully2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CHEERfully</strong>" (một cách vui vẻ) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function CHEERfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she CHEERfully aGREED to HELP with the PARTy.</li>
+        <li value="1" id="">she CHEERfully aGREED to HELP with the PARTy.</li>
         <li className="list-none margin-bottom-20">Cô ấy vui vẻ đồng ý giúp đỡ tổ chức bữa tiệc.</li>
 
-        <li value="2">the CHILDren CHEERfully WAVED GOODbye to the BUS.</li>
+        <li value="2" id="">the CHILDren CHEERfully WAVED GOODbye to the BUS.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ vẫy tay chào tạm biệt xe buýt.</li>
 
-        <li value="3">he CHEERfully OFfered to CARry the HEAVy BOXes.</li>
+        <li value="3" id="">he CHEERfully OFfered to CARry the HEAVy BOXes.</li>
         <li className="list-none margin-bottom-20">Anh ấy vui vẻ tình nguyện mang những chiếc hộp nặng.</li>
 
-        <li value="4">she CHEERfully comPLIED with his reQUEST.</li>
+        <li value="4" id="">she CHEERfully comPLIED with his reQUEST.</li>
         <li className="list-none margin-bottom-20">Cô ấy vui vẻ tuân theo yêu cầu của anh ấy.</li>
 
-        <li value="5">he CHEERfully acCEPted the inviTAtion.</li>
+        <li value="5" id="">he CHEERfully acCEPted the inviTAtion.</li>
         <li className="list-none margin-bottom-20">Anh ấy vui vẻ chấp nhận lời mời.</li>
 
-        <li value="6">the STUdents CHEERfully parTICipated in the GAME.</li>
+        <li value="6" id="">the STUdents CHEERfully parTICipated in the GAME.</li>
         <li className="list-none margin-bottom-20">Học sinh vui vẻ tham gia trò chơi.</li>
 
-        <li value="7">the BIRDS CHEERfully SANG in the MORNing.</li>
+        <li value="7" id="">the BIRDS CHEERfully SANG in the MORNing.</li>
         <li className="list-none margin-bottom-20">Những chú chim vui vẻ hót líu lo vào buổi sáng.</li>
 
-        <li value="8">the CHILDren CHEERfully DANCED to the MUsic.</li>
+        <li value="8" id="">the CHILDren CHEERfully DANCED to the MUsic.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ nhảy múa theo nhạc.</li>
 
-        <li value="9">she CHEERfully GREETed her FRIENDS at the DOOR.</li>
+        <li value="9" id="">she CHEERfully GREETed her FRIENDS at the DOOR.</li>
         <li className="list-none margin-bottom-20">Cô ấy vui vẻ chào đón bạn bè ở cửa.</li>
 
-        <li value="10">he CHEERfully SMILED at her.</li>
+        <li value="10" id="">he CHEERfully SMILED at her.</li>
         <li className="list-none margin-bottom-20">Anh ấy cười tươi với cô ấy.</li>
 
       </ol>

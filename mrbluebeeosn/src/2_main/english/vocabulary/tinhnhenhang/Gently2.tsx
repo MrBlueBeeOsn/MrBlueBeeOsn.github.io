@@ -26,6 +26,53 @@ export default function GENTly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>GENTly</strong>" (nhẹ nhàng) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function GENTly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she GENTly caRESSED the BAby's CHEEK.</li>
+        <li value="1" id="">she GENTly caRESSED the BAby's CHEEK.</li>
         <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng vuốt ve má em bé.</li>
 
-        <li value="2">he GENTly PUSHED the DOOR Open.</li>
+        <li value="2" id="">he GENTly PUSHED the DOOR Open.</li>
         <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng đẩy cửa ra.</li>
 
-        <li value="3">she GENTly SHOOK the BOTtle to MIX the inGREdients.</li>
+        <li value="3" id="">she GENTly SHOOK the BOTtle to MIX the inGREdients.</li>
         <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng lắc chai để trộn các thành phần.</li>
 
-        <li value="4">the HILL GENTly SLOPED down to the VALley.</li>
+        <li value="4" id="">the HILL GENTly SLOPED down to the VALley.</li>
         <li className="list-none margin-bottom-20">Ngọn đồi thoai thoải xuống thung lũng.</li>
 
-        <li value="5">it was GENTly RAINing outSIDE.</li>
+        <li value="5" id="">it was GENTly RAINing outSIDE.</li>
         <li className="list-none margin-bottom-20">Trời đang mưa phùn bên ngoài.</li>
 
-        <li value="6">she SPOKE GENTly to the CHILD.</li>
+        <li value="6" id="">she SPOKE GENTly to the CHILD.</li>
         <li className="list-none margin-bottom-20">Cô ấy nói nhẹ nhàng với đứa trẻ.</li>
 
-        <li value="7">he GENTly SMILED at her.</li>
+        <li value="7" id="">he GENTly SMILED at her.</li>
         <li className="list-none margin-bottom-20">Anh ấy mỉm cười nhẹ nhàng với cô ấy.</li>
 
-        <li value="8">she GENTly LOWered herSELF into the CHAIR.</li>
+        <li value="8" id="">she GENTly LOWered herSELF into the CHAIR.</li>
         <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng ngồi xuống ghế.</li>
 
-        <li value="9">he GENTly TAPPED on the WINdow.</li>
+        <li value="9" id="">he GENTly TAPPED on the WINdow.</li>
         <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng gõ vào cửa sổ.</li>
 
-        <li value="10">the TREES GENTly SWAYED in the BREEZE.</li>
+        <li value="10" id="">the TREES GENTly SWAYED in the BREEZE.</li>
         <li className="list-none margin-bottom-20">Những cái cây đung đưa nhẹ nhàng trong gió.</li>
 
       </ol>

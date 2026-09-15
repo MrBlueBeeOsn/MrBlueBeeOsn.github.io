@@ -26,6 +26,53 @@ export default function CAUtiously2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CAUtiously</strong>" (một cách thận trọng) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function CAUtiously2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the CAT CAUtiously apPROACHed the unfaMILiar OBject.</li>
+        <li value="1" id="">the CAT CAUtiously apPROACHed the unfaMILiar OBject.</li>
         <li className="list-none margin-bottom-20">Con mèo thận trọng tiếp cận vật thể lạ.</li>
 
-        <li value="2">he CAUtiously MOVED through the DARK ROOM, FEEling for OBstacles.</li>
+        <li value="2" id="">he CAUtiously MOVED through the DARK ROOM, FEEling for OBstacles.</li>
         <li className="list-none margin-bottom-20">Anh ấy thận trọng di chuyển trong căn phòng tối, dò dẫm tìm vật cản.</li>
 
-        <li value="3">she CAUtiously SPOKE about the SENsitive TOPic.</li>
+        <li value="3" id="">she CAUtiously SPOKE about the SENsitive TOPic.</li>
         <li className="list-none margin-bottom-20">Cô ấy thận trọng nói về chủ đề nhạy cảm.</li>
 
-        <li value="4">the SCIentist CAUtiously exAMined the unKNOWN SUBstance.</li>
+        <li value="4" id="">the SCIentist CAUtiously exAMined the unKNOWN SUBstance.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học thận trọng kiểm tra chất lạ.</li>
 
-        <li value="5">they CAUtiously proCEEDed with the negotiAtions.</li>
+        <li value="5" id="">they CAUtiously proCEEDed with the negotiAtions.</li>
         <li className="list-none margin-bottom-20">Họ thận trọng tiến hành các cuộc đàm phán.</li>
 
-        <li value="6">he CAUtiously inVESTed a SMALL PORtion of his SAvings.</li>
+        <li value="6" id="">he CAUtiously inVESTed a SMALL PORtion of his SAvings.</li>
         <li className="list-none margin-bottom-20">Anh ấy thận trọng đầu tư một phần nhỏ số tiền tiết kiệm của mình.</li>
 
-        <li value="7">the CHILD CAUtiously apPROACHed the EDGE of the CLIFF.</li>
+        <li value="7" id="">the CHILD CAUtiously apPROACHed the EDGE of the CLIFF.</li>
         <li className="list-none margin-bottom-20">Đứa trẻ thận trọng tiếp cận mép vách đá.</li>
 
-        <li value="8">she CAUtiously Opened the CREAKing DOOR.</li>
+        <li value="8" id="">she CAUtiously Opened the CREAKing DOOR.</li>
         <li className="list-none margin-bottom-20">Cô ấy thận trọng mở cánh cửa kêu cót két.</li>
 
-        <li value="9">he CAUtiously TAsted the unfaMILiar DISH.</li>
+        <li value="9" id="">he CAUtiously TAsted the unfaMILiar DISH.</li>
         <li className="list-none margin-bottom-20">Anh ấy thận trọng nếm món ăn lạ.</li>
 
-        <li value="10">they CAUtiously aGREED to the proPOsal, with <strong>sever</strong>al conDITions.</li>
+        <li value="10" id="">they CAUtiously aGREED to the proPOsal, with <strong>sever</strong>al conDITions.</li>
         <li className="list-none margin-bottom-20">Họ thận trọng đồng ý với đề xuất, kèm theo một vài điều kiện.</li>
 
       </ol>

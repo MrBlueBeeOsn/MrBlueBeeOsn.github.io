@@ -26,6 +26,53 @@ export default function NOW2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>NOW</strong>" (bây giờ) trong tiếng Anh nhé.</p>
@@ -56,34 +103,34 @@ export default function NOW2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i NEED your HELP RIGHT NOW.</li>
+        <li value="1" id="">i NEED your HELP RIGHT NOW.</li>
         <li className="list-none margin-bottom-20">Tôi cần sự giúp đỡ của bạn ngay bây giờ.</li>
 
-        <li value="2">for NOW, let's JUST FOcus on FINishing this PROJect.</li>
+        <li value="2" id="">for NOW, let's JUST FOcus on FINishing this PROJect.</li>
         <li className="list-none margin-bottom-20">Trong lúc này, chúng ta hãy tập trung vào việc hoàn thành dự án này đã.</li>
 
-        <li value="3">i LIKE to GO HIking in the MOUNtains NOW and THEN.</li>
+        <li value="3" id="">i LIKE to GO HIking in the MOUNtains NOW and THEN.</li>
         <li className="list-none margin-bottom-20">Thỉnh thoảng tôi thích đi bộ đường dài trong núi.</li>
 
-        <li value="4">i NEVer KNEW about this PROBlem until NOW.</li>
+        <li value="4" id="">i NEVer KNEW about this PROBlem until NOW.</li>
         <li className="list-none margin-bottom-20">Tôi chưa từng biết về vấn đề này cho đến bây giờ.</li>
 
-        <li value="5">she USED to be VERy SHY, but THEN and NOW, she's VERy OUTgoing.</li>
+        <li value="5" id="">she USED to be VERy SHY, but THEN and NOW, she's VERy OUTgoing.</li>
         <li className="list-none margin-bottom-20">Cô ấy trước đây rất nhút nhát, nhưng từ đó đến nay, cô ấy rất hòa đồng.</li>
 
-        <li value="6">i will START EXercising <strong>ever</strong>y DAY from NOW ON.</li>
+        <li value="6" id="">i will START EXercising <strong>ever</strong>y DAY from NOW ON.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ bắt đầu tập thể dục mỗi ngày từ bây giờ.</li>
 
-        <li value="7">i SAW her JUST NOW.</li>
+        <li value="7" id="">i SAW her JUST NOW.</li>
         <li className="list-none margin-bottom-20">Tôi vừa mới thấy cô ấy.</li>
 
-        <li value="8">Even NOW, i CAN'T beLIEVE it HAPpened.</li>
+        <li value="8" id="">Even NOW, i CAN'T beLIEVE it HAPpened.</li>
         <li className="list-none margin-bottom-20">Ngay cả bây giờ, tôi vẫn không thể tin điều đó đã xảy ra.</li>
 
-        <li value="9">NOW that you're HERE, let's get STARTed.</li>
+        <li value="9" id="">NOW that you're HERE, let's get STARTed.</li>
         <li className="list-none margin-bottom-20">Bây giờ khi bạn đã ở đây, chúng ta bắt đầu nhé.</li>
 
-        <li value="10">i NEED to FINish this rePORT RIGHT this NOW.</li>
+        <li value="10" id="">i NEED to FINish this rePORT RIGHT this NOW.</li>
         <li className="list-none margin-bottom-20">Tôi cần hoàn thành báo cáo này ngay lập tức.</li>
 
       </ol>

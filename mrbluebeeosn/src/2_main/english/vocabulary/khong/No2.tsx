@@ -26,6 +26,53 @@ export default function NO2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>NO</strong>" (không) khi nó đóng vai trò là một Trạng Cơ trong tiếng Anh nhé. </p>
@@ -56,34 +103,34 @@ export default function NO2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she NO LONGer LIVES HERE.</li>
+        <li value="1" id="">she NO LONGer LIVES HERE.</li>
         <li className="list-none margin-bottom-20">Cô ấy không còn sống ở đây nữa.</li>
 
-        <li value="2">i WANT NO MORE of your exCUses.</li>
+        <li value="2" id="">i WANT NO MORE of your exCUses.</li>
         <li className="list-none margin-bottom-20">Tôi không muốn nghe thêm bất kỳ lời bào chữa nào của bạn nữa.</li>
 
-        <li value="3">the TASK is NO LESS DIFficult than the LAST one.</li>
+        <li value="3" id="">the TASK is NO LESS DIFficult than the LAST one.</li>
         <li className="list-none margin-bottom-20">Nhiệm vụ này không kém phần khó so với nhiệm vụ trước.</li>
 
-        <li value="4">NO MATter WHAT you SAY, i WON'T beLIEVE you.</li>
+        <li value="4" id="">NO MATter WHAT you SAY, i WON'T beLIEVE you.</li>
         <li className="list-none margin-bottom-20">Dù bạn nói gì đi nữa, tôi cũng sẽ không tin bạn.</li>
 
-        <li value="5">NO WAY! i'm NOT GOing to do THAT.</li>
+        <li value="5" id="">NO WAY! i'm NOT GOing to do THAT.</li>
         <li className="list-none margin-bottom-20">Không đời nào! Tôi sẽ không làm việc đó.</li>
 
-        <li value="6">NO WONder he's TIred. he's been WORKing ALL NIGHT.</li>
+        <li value="6" id="">NO WONder he's TIred. he's been WORKing ALL NIGHT.</li>
         <li className="list-none margin-bottom-20">Chẳng trách anh ấy mệt. Anh ấy đã làm việc cả đêm.</li>
 
-        <li value="7">NO DOUBT she will sucCEED.</li>
+        <li value="7" id="">NO DOUBT she will sucCEED.</li>
         <li className="list-none margin-bottom-20">Chắc chắn cô ấy sẽ thành công.</li>
 
-        <li value="8">would you LIKE some COFfee? NO THANKS, i'm NOT THIRsty.</li>
+        <li value="8" id="">would you LIKE some COFfee? NO THANKS, i'm NOT THIRsty.</li>
         <li className="list-none margin-bottom-20">Bạn có muốn uống cà phê không? Không, cảm ơn, tôi không khát.</li>
 
-        <li value="9">the MEETing will be NO LONger than TWO HOURs.</li>
+        <li value="9" id="">the MEETing will be NO LONger than TWO HOURs.</li>
         <li className="list-none margin-bottom-20">Cuộc họp sẽ không quá hai giờ.</li>
 
-        <li value="10">NO LESS than a THOUsand PEOple atTENDed the CONcert.</li>
+        <li value="10" id="">NO LESS than a THOUsand PEOple atTENDed the CONcert.</li>
         <li className="list-none margin-bottom-20">Có tới tận một ngàn người đã tham dự buổi hòa nhạc.</li>
 
       </ol>

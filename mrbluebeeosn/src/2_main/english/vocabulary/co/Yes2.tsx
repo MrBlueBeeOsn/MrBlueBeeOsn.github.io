@@ -26,6 +26,53 @@ export default function YES2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>YES</strong>" (vâng) khi nó đóng vai trò là một Trạng Cơ trong tiếng Anh nhé.</p>
@@ -56,34 +103,34 @@ export default function YES2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">is it a BEAUtiful DAY? YES, inDEED.</li>
+        <li value="1" id="">is it a BEAUtiful DAY? YES, inDEED.</li>
         <li className="list-none margin-bottom-20">"Hôm nay là một ngày đẹp trời phải không?" Đúng vậy, thật vậy.</li>
 
-        <li value="2">do you LIKE APples? YES, and i LIKE baNANas TOO.</li>
+        <li value="2" id="">do you LIKE APples? YES, and i LIKE baNANas TOO.</li>
         <li className="list-none margin-bottom-20">Bạn có thích táo không? Vâng, và tôi cũng thích chuối.</li>
 
-        <li value="3">can i COME to the PARTy? YES, but i have to LEAVE EARly.</li>
+        <li value="3" id="">can i COME to the PARTy? YES, but i have to LEAVE EARly.</li>
         <li className="list-none margin-bottom-20">Bạn có thể đến bữa tiệc không? Vâng, nhưng tôi phải đi sớm.</li>
 
-        <li value="4">can i BORrow your PEN? YES, of COURSE.</li>
+        <li value="4" id="">can i BORrow your PEN? YES, of COURSE.</li>
         <li className="list-none margin-bottom-20">Tôi có thể mượn bút của bạn không? Vâng, tất nhiên rồi.</li>
 
-        <li value="5">would you LIKE some HELP? YES, CERtainly.</li>
+        <li value="5" id="">would you LIKE some HELP? YES, CERtainly.</li>
         <li className="list-none margin-bottom-20">Bạn có muốn tôi giúp không? Vâng, chắc chắn rồi.</li>
 
-        <li value="6">would you LIKE anOTHer PIECE of CAKE? YES, PLEASE.</li>
+        <li value="6" id="">would you LIKE anOTHer PIECE of CAKE? YES, PLEASE.</li>
         <li className="list-none margin-bottom-20">Bạn có muốn thêm một miếng bánh không? Vâng, xin vui lòng.</li>
 
-        <li value="7">THAT'S WHAT i MEAN. YES, exACTly.</li>
+        <li value="7" id="">THAT'S WHAT i MEAN. YES, exACTly.</li>
         <li className="list-none margin-bottom-20">Đó là ý của tôi. Đúng vậy, chính xác.</li>
 
-        <li value="8">it's a BEAUtiful DAY, ISn't it? YES, inDEEDy.</li>
+        <li value="8" id="">it's a BEAUtiful DAY, ISn't it? YES, inDEEDy.</li>
         <li className="list-none margin-bottom-20">Hôm nay là một ngày đẹp trời, phải không? Đúng vậy, đúng là vậy.</li>
 
-        <li value="9">may i TAKE your ORder? YES, SIR.</li>
+        <li value="9" id="">may i TAKE your ORder? YES, SIR.</li>
         <li className="list-none margin-bottom-20">Tôi có thể nhận đơn hàng của ngài không? Vâng, thưa ngài.</li>
 
-        <li value="10">do you THINK we should GO to the PARTy? YES, i supPOSE so.</li>
+        <li value="10" id="">do you THINK we should GO to the PARTy? YES, i supPOSE so.</li>
         <li className="list-none margin-bottom-20">Bạn nghĩ chúng ta nên đi dự tiệc không? Vâng, tôi đoán vậy.</li>
 
       </ol>

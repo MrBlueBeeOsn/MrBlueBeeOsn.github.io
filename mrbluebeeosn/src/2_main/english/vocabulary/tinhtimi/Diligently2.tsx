@@ -26,6 +26,53 @@ export default function DILigently2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>DILigently</strong>" (một cách chăm chỉ) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function DILigently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she DILigently WORKED on her PROject until LATE at NIGHT.</li>
+        <li value="1" id="">she DILigently WORKED on her PROject until LATE at NIGHT.</li>
         <li className="list-none margin-bottom-20">Cô ấy chăm chỉ làm dự án đến tận khuya.</li>
 
-        <li value="2">he DILigently STUdied for his exAMs.</li>
+        <li value="2" id="">he DILigently STUdied for his exAMs.</li>
         <li className="list-none margin-bottom-20">Anh ấy chăm chỉ ôn thi.</li>
 
-        <li value="3">the deTECtives DILigently SEARCHED for CLUES.</li>
+        <li value="3" id="">the deTECtives DILigently SEARCHED for CLUES.</li>
         <li className="list-none margin-bottom-20">Các thám tử đã tìm kiếm manh mối một cách cẩn thận.</li>
 
-        <li value="4">she DILigently apPLIED herSELF to her NEW JOB.</li>
+        <li value="4" id="">she DILigently apPLIED herSELF to her NEW JOB.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã nghiêm túc làm việc với công việc mới của mình.</li>
 
-        <li value="5">the SCIentist DILigently reCORDed the DAta.</li>
+        <li value="5" id="">the SCIentist DILigently reCORDed the DAta.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học đã ghi chép dữ liệu một cách cẩn thận.</li>
 
-        <li value="6">he DILigently mainTAINED his GARden.</li>
+        <li value="6" id="">he DILigently mainTAINED his GARden.</li>
         <li className="list-none margin-bottom-20">Anh ấy chăm sóc khu vườn của mình rất cẩn thận.</li>
 
-        <li value="7">she DILigently FOLlowed the DOCtor's inSTRUCtions.</li>
+        <li value="7" id="">she DILigently FOLlowed the DOCtor's inSTRUCtions.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã làm theo chỉ dẫn của bác sĩ một cách nghiêm túc.</li>
 
-        <li value="8">the STUdents DILigently prePARED for the exAM.</li>
+        <li value="8" id="">the STUdents DILigently prePARED for the exAM.</li>
         <li className="list-none margin-bottom-20">Học sinh đã chuẩn bị kỹ lưỡng cho kỳ thi.</li>
 
-        <li value="9">he DILigently purSUED his DREAM of beCOMinɡ a WRIter.</li>
+        <li value="9" id="">he DILigently purSUED his DREAM of beCOMinɡ a WRIter.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã kiên trì theo đuổi ước mơ trở thành nhà văn.</li>
 
-        <li value="10">the SCIentist DILigently obSERVED the beHAvior of the ANimals.</li>
+        <li value="10" id="">the SCIentist DILigently obSERVED the beHAvior of the ANimals.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học đã quan sát hành vi của động vật một cách kỹ lưỡng.</li>
 
       </ol>

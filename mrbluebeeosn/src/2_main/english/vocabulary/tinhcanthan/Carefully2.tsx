@@ -26,6 +26,53 @@ export default function CAREfully2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CAREfully</strong>" (một cách cẩn thận) và các cụm từ thường đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function CAREfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the proPOsal was CAREfully conSIDered by the comMITtee.</li>
+        <li value="1" id="">the proPOsal was CAREfully conSIDered by the comMITtee.</li>
         <li className="list-none margin-bottom-20">Đề xuất đã được ủy ban cân nhắc kỹ lưỡng.</li>
 
-        <li value="2">the DOCtor CAREfully exAMined the PAtient.</li>
+        <li value="2" id="">the DOCtor CAREfully exAMined the PAtient.</li>
         <li className="list-none margin-bottom-20">Bác sĩ đã khám bệnh nhân rất kỹ lưỡng.</li>
 
-        <li value="3">the inGREdients were CAREfully seLECTed for the DISH.</li>
+        <li value="3" id="">the inGREdients were CAREfully seLECTed for the DISH.</li>
         <li className="list-none margin-bottom-20">Nguyên liệu đã được chọn lựa kỹ lưỡng cho món ăn.</li>
 
-        <li value="4">the FRAGile Item was CAREfully WRAPPED to preVENT BREAKage.</li>
+        <li value="4" id="">the FRAGile Item was CAREfully WRAPPED to preVENT BREAKage.</li>
         <li className="list-none margin-bottom-20">Vật liệu dễ vỡ đã được gói cẩn thận để tránh bị vỡ.</li>
 
-        <li value="5">she CAREfully LIStened to his explaNAtion.</li>
+        <li value="5" id="">she CAREfully LIStened to his explaNAtion.</li>
         <li className="list-none margin-bottom-20">Cô ấy lắng nghe lời giải thích của anh ấy rất cẩn thận.</li>
 
-        <li value="6">the inGREdients were CAREfully MEASured to enSURE the PERfect TASTE.</li>
+        <li value="6" id="">the inGREdients were CAREfully MEASured to enSURE the PERfect TASTE.</li>
         <li className="list-none margin-bottom-20">Nguyên liệu đã được đo lường cẩn thận để đảm bảo hương vị hoàn hảo.</li>
 
-        <li value="7">the TRIP was CAREfully PLANNED to aVOID any PROBlems.</li>
+        <li value="7" id="">the TRIP was CAREfully PLANNED to aVOID any PROBlems.</li>
         <li className="list-none margin-bottom-20">Chuyến đi đã được lên kế hoạch cẩn thận để tránh bất kỳ vấn đề nào.</li>
 
-        <li value="8">the PAtient's conDITion was CAREfully MONitored.</li>
+        <li value="8" id="">the PAtient's conDITion was CAREfully MONitored.</li>
         <li className="list-none margin-bottom-20">Tình trạng của bệnh nhân đã được theo dõi chặt chẽ.</li>
 
-        <li value="9">the anTIQUE VASE was CAREfully preSERVED for generAtions.</li>
+        <li value="9" id="">the anTIQUE VASE was CAREfully preSERVED for generAtions.</li>
         <li className="list-none margin-bottom-20">Cái bình cổ đã được bảo quản cẩn thận qua nhiều thế hệ.</li>
 
-        <li value="10">the FRAGile GLASS was CAREfully HANDled.</li>
+        <li value="10" id="">the FRAGile GLASS was CAREfully HANDled.</li>
         <li className="list-none margin-bottom-20">Cái ly thủy tinh dễ vỡ đã được xử lý cẩn thận.</li>
 
       </ol>

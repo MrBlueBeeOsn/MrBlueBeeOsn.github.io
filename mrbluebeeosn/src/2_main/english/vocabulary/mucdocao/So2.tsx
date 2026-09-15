@@ -26,6 +26,53 @@ export default function SO2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>SO</strong>" (quá, rất; như vậy) khi nó đóng vai trò là một Trạng Cơ trong tiếng Anh nhé.</p>
@@ -56,37 +103,37 @@ export default function SO2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">THANK you SO MUCH for your HELP!</li>
+        <li value="1" id="">THANK you SO MUCH for your HELP!</li>
         <li className="list-none margin-bottom-20">Cảm ơn bạn rất nhiều vì sự giúp đỡ của bạn!</li>
 
         <li value="2">there are SO <strong>man</strong>y PEOple here toDAY.</li>
         <li className="list-none margin-bottom-20">Hôm nay có quá nhiều người ở đây.</li>
 
-        <li value="3">this CAKE is SO GOOD!</li>
+        <li value="3" id="">this CAKE is SO GOOD!</li>
         <li className="list-none margin-bottom-20">Cái bánh này ngon quá!</li>
 
         <li value="4">she DROVE SO CAREfully through the NARrow STREETS.</li>
         <li className="list-none margin-bottom-20">Cô ấy lái xe rất cẩn thận qua những con phố hẹp.</li>
 
-        <li value="5">TIME FLIES SO FAST when you're HAVing FUN.</li>
+        <li value="5" id="">TIME FLIES SO FAST when you're HAVing FUN.</li>
         <li className="list-none margin-bottom-20">Thời gian trôi rất nhanh khi bạn vui vẻ.</li>
 
-        <li value="6">he STUDied HARD so that he could PASS the exAM.</li>
+        <li value="6" id="">he STUDied HARD so that he could PASS the exAM.</li>
         <li className="list-none margin-bottom-20">Anh ấy học chăm chỉ để mà anh ấy có thể vượt qua kỳ thi.</li>
 
-        <li value="7">Well, SO LONG for NOW!</li>
+        <li value="7" id="">Well, SO LONG for NOW!</li>
         <li className="list-none margin-bottom-20">Tạm biệt nhé!</li>
 
         <li className="list-none">it's been SO LONG since we LAST MET.</li>
         <li className="list-none margin-bottom-20">Đã quá lâu rồi kể từ lần cuối chúng ta gặp nhau.</li>
 
-        <li value="8">i MADE a misTAKE. "SO WHAT? <strong>ever</strong>yone MAKES misTAKES".</li>
+        <li value="8" id="">i MADE a misTAKE. "SO WHAT? <strong>ever</strong>yone MAKES misTAKES".</li>
         <li className="list-none margin-bottom-20">Tôi đã mắc lỗi. "Thì sao chứ? Ai cũng mắc lỗi mà."</li>
 
         <li value="9">we disCUSSED the BUDget, the TIMEline, the reSOURces, and SO ON.</li>
         <li className="list-none margin-bottom-20">Chúng tôi đã thảo luận về ngân sách, thời gian biểu, nguồn lực, và cứ thế.</li>
 
-        <li value="10">i LOVE CHOColate. "SO do i.", "SO am i".</li>
+        <li value="10" id="">i LOVE CHOColate. "SO do i.", "SO am i".</li>
         <li className="list-none margin-bottom-20">Tôi thích sô cô la. "Tôi cũng vậy."</li>
 
       </ol>

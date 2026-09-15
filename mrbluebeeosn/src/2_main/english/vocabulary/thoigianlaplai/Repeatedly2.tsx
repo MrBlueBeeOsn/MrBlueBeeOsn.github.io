@@ -26,6 +26,53 @@ export default function rePEATedly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>rePEATedly</strong>" (một cách lặp đi lặp lại) và các cụm từ hay đi kèm nhé.
@@ -58,34 +105,34 @@ export default function rePEATedly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she rePEATedly ASKED him to turN DOWN the MUsic.</li>
+        <li value="1" id="">she rePEATedly ASKED him to turN DOWN the MUsic.</li>
         <li className="list-none margin-bottom-20">Cô ấy liên tục yêu cầu anh ấy vặn nhỏ tiếng nhạc.</li>
 
-        <li value="2">he rePEATedly FAILED his DRIving TEST.</li>
+        <li value="2" id="">he rePEATedly FAILED his DRIving TEST.</li>
         <li className="list-none margin-bottom-20">Anh ấy thi bằng lái nhiều lần nhưng đều trượt.</li>
 
-        <li value="3">she was rePEATedly WARNED about the DANGers of SPEEDing.</li>
+        <li value="3" id="">she was rePEATedly WARNED about the DANGers of SPEEDing.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã được cảnh báo nhiều lần về nguy hiểm của việc lái xe quá tốc độ.</li>
 
-        <li value="4">the TEACHer rePEATedly EMphasized the imPORtance of STUDying.</li>
+        <li value="4" id="">the TEACHer rePEATedly EMphasized the imPORtance of STUDying.</li>
         <li className="list-none margin-bottom-20">Giáo viên đã nhấn mạnh nhiều lần tầm quan trọng của việc học.</li>
 
-        <li value="5">the NEW DRUG was rePEATedly TESTed for SAFEty.</li>
+        <li value="5" id="">the NEW DRUG was rePEATedly TESTed for SAFEty.</li>
         <li className="list-none margin-bottom-20">Loại thuốc mới đã được kiểm tra độ an toàn nhiều lần.</li>
 
-        <li value="6">she was rePEATedly exPOSED to LOUD NOISE.</li>
+        <li value="6" id="">she was rePEATedly exPOSED to LOUD NOISE.</li>
         <li className="list-none margin-bottom-20">Cô ấy thường xuyên tiếp xúc với tiếng ồn lớn.</li>
 
-        <li value="7">the PROJect was rePEATedly deLAYED due to FUNding ISsues.</li>
+        <li value="7" id="">the PROJect was rePEATedly deLAYED due to FUNding ISsues.</li>
         <li className="list-none margin-bottom-20">Dự án đã bị trì hoãn nhiều lần do vấn đề về tài chính.</li>
 
-        <li value="8">he rePEATedly MENtioned his deSIre to TRAVel.</li>
+        <li value="8" id="">he rePEATedly MENtioned his deSIre to TRAVel.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã đề cập nhiều lần về mong muốn được đi du lịch.</li>
 
-        <li value="9">the SCIentists rePEATedly obSERVED the beHAvior of the ANimals.</li>
+        <li value="9" id="">the SCIentists rePEATedly obSERVED the beHAvior of the ANimals.</li>
         <li className="list-none margin-bottom-20">Các nhà khoa học đã quan sát hành vi của động vật nhiều lần.</li>
 
-        <li value="10">she rePEATedly PRACticed the piANo PIECE until she could PLAY it PERfectly.</li>
+        <li value="10" id="">she rePEATedly PRACticed the piANo PIECE until she could PLAY it PERfectly.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã luyện tập bài piano đó nhiều lần cho đến khi chơi được hoàn hảo.</li>
 
       </ol>

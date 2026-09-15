@@ -26,6 +26,53 @@ export default function TIRElessly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>TIRElessly</strong>" (không mệt mỏi, kiên trì) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function TIRElessly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the SCIentists WORKED TIRElessly to FIND a CURE for the disEASE.</li>
+        <li value="1" id="">the SCIentists WORKED TIRElessly to FIND a CURE for the disEASE.</li>
         <li className="list-none margin-bottom-20">Các nhà khoa học làm việc không ngừng nghỉ để tìm ra phương pháp chữa trị cho căn bệnh.</li>
 
-        <li value="2">she TIRElessly purSUED her DREAMS of beCOMing a DOCtor.</li>
+        <li value="2" id="">she TIRElessly purSUED her DREAMS of beCOMing a DOCtor.</li>
         <li className="list-none margin-bottom-20">Cô ấy không ngừng theo đuổi ước mơ trở thành bác sĩ.</li>
 
-        <li value="3">the deTECtives TIRElessly SEARCHED for the MISsing PERson.</li>
+        <li value="3" id="">the deTECtives TIRElessly SEARCHED for the MISsing PERson.</li>
         <li className="list-none margin-bottom-20">Các thám tử không ngừng tìm kiếm người mất tích.</li>
 
-        <li value="4">the STUdent TIRElessly STUDied for the exAM.</li>
+        <li value="4" id="">the STUdent TIRElessly STUDied for the exAM.</li>
         <li className="list-none margin-bottom-20">Sinh viên học tập không ngừng nghỉ để chuẩn bị cho kỳ thi.</li>
 
-        <li value="5">the ACtivist TIRElessly camPAIGNED for HUman RIGHTS.</li>
+        <li value="5" id="">the ACtivist TIRElessly camPAIGNED for HUman RIGHTS.</li>
         <li className="list-none margin-bottom-20">Nhà hoạt động không ngừng vận động vì quyền con người.</li>
 
-        <li value="6">the LAWyer TIRElessly deFENded his CLIent.</li>
+        <li value="6" id="">the LAWyer TIRElessly deFENded his CLIent.</li>
         <li className="list-none margin-bottom-20">Luật sư không ngừng bảo vệ khách hàng của mình.</li>
 
-        <li value="7">the COMpany TIRElessly proMOted its NEW PRODuct.</li>
+        <li value="7" id="">the COMpany TIRElessly proMOted its NEW PRODuct.</li>
         <li className="list-none margin-bottom-20">Công ty không ngừng quảng bá sản phẩm mới của mình.</li>
 
-        <li value="8">the exPLORers TIRElessly exPLORED the unKNOWN TERritory.</li>
+        <li value="8" id="">the exPLORers TIRElessly exPLORED the unKNOWN TERritory.</li>
         <li className="list-none margin-bottom-20">Các nhà thám hiểm không ngừng khám phá vùng đất chưa biết.</li>
 
-        <li value="9">the ARTist TIRElessly creAted NEW WORKS of ART.</li>
+        <li value="9" id="">the ARTist TIRElessly creAted NEW WORKS of ART.</li>
         <li className="list-none margin-bottom-20">Nghệ sĩ không ngừng tạo ra những tác phẩm nghệ thuật mới.</li>
 
-        <li value="10">the ATHlete TIRElessly imPROVED his SKILLS.</li>
+        <li value="10" id="">the ATHlete TIRElessly imPROVED his SKILLS.</li>
         <li className="list-none margin-bottom-20">Vận động viên không ngừng cải thiện kỹ năng của mình.</li>
 
       </ol>

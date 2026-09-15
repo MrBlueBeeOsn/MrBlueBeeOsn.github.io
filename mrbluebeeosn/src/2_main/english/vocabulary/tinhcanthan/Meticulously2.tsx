@@ -26,6 +26,53 @@ export default function meTICulously2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>meTICulously</strong>" (một cách tỉ mỉ) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function meTICulously2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she meTICulously PLANNED the PARTy, MAking SURE <strong>ever</strong>y DEtail was PERfect.</li>
+        <li value="1" id="">she meTICulously PLANNED the PARTy, MAking SURE <strong>ever</strong>y DEtail was PERfect.</li>
         <li className="list-none margin-bottom-20">Cô ấy lên kế hoạch cho bữa tiệc một cách tỉ mỉ, đảm bảo mọi chi tiết đều hoàn hảo.</li>
 
-        <li value="2">the WATCH was meTICulously CRAFTed by SKILLED ARtisans.</li>
+        <li value="2" id="">the WATCH was meTICulously CRAFTed by SKILLED ARtisans.</li>
         <li className="list-none margin-bottom-20">Chiếc đồng hồ được các nghệ nhân lành nghề chế tác một cách tỉ mỉ.</li>
 
-        <li value="3">the rePORT was BASED on meTICulously REsearched DAta.</li>
+        <li value="3" id="">the rePORT was BASED on meTICulously REsearched DAta.</li>
         <li className="list-none margin-bottom-20">Báo cáo này dựa trên dữ liệu được nghiên cứu một cách tỉ mỉ.</li>
 
-        <li value="4">the GARden was meTICulously mainTAINED, with <strong>ever</strong>y PLANT PERfectly TRIMMED.</li>
+        <li value="4" id="">the GARden was meTICulously mainTAINED, with <strong>ever</strong>y PLANT PERfectly TRIMMED.</li>
         <li className="list-none margin-bottom-20">Khu vườn được chăm sóc tỉ mỉ, với từng cây đều được cắt tỉa hoàn hảo.</li>
 
-        <li value="5">the PAINTing was meTICulously deTAILED, CAPturing <strong>ever</strong>y NUance of the SUBject.</li>
+        <li value="5" id="">the PAINTing was meTICulously deTAILED, CAPturing <strong>ever</strong>y NUance of the SUBject.</li>
         <li className="list-none margin-bottom-20">Bức tranh được vẽ chi tiết tỉ mỉ, bắt trọn mọi sắc thái của chủ thể.</li>
 
-        <li value="6">the SCIentist meTICulously obSERVED the beHAvior of the ANimals.</li>
+        <li value="6" id="">the SCIentist meTICulously obSERVED the beHAvior of the ANimals.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học quan sát hành vi của động vật một cách tỉ mỉ.</li>
 
-        <li value="7">the hisTORian meTICulously reCORDed <strong>ever</strong>y DEtail of the eVent.</li>
+        <li value="7" id="">the hisTORian meTICulously reCORDed <strong>ever</strong>y DEtail of the eVent.</li>
         <li className="list-none margin-bottom-20">Nhà sử học ghi chép tỉ mỉ mọi chi tiết của sự kiện.</li>
 
-        <li value="8">the CHEF meTICulously prePARED the MEAL, Using Only the FRESHest inGREdients</li>
+        <li value="8" id="">the CHEF meTICulously prePARED the MEAL, Using Only the FRESHest inGREdients</li>
         <li className="list-none margin-bottom-20">Đầu bếp chuẩn bị món ăn một cách tỉ mỉ, chỉ sử dụng những nguyên liệu tươi ngon nhất.</li>
 
-        <li value="9">the MODel was meTICulously asSEMbled FOLlowing the inSTRUCtions exACTly.</li>
+        <li value="9" id="">the MODel was meTICulously asSEMbled FOLlowing the inSTRUCtions exACTly.</li>
         <li className="list-none margin-bottom-20">Mô hình được lắp ráp tỉ mỉ, tuân theo chính xác hướng dẫn.</li>
 
-        <li value="10">the engiNEER meTICulously inSPECTed the maCHINE for any DEfects.</li>
+        <li value="10" id="">the engiNEER meTICulously inSPECTed the maCHINE for any DEfects.</li>
         <li className="list-none margin-bottom-20">Kỹ sư kiểm tra máy móc một cách tỉ mỉ để tìm bất kỳ lỗi nào.</li>
 
       </ol>

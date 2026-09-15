@@ -26,6 +26,53 @@ export default function SELdom2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>SELdom</strong>" (hiếm khi) trong tiếng Anh nhé.</p>
@@ -56,34 +103,34 @@ export default function SELdom2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i SELdom SEE her at SCHOOL.</li>
+        <li value="1" id="">i SELdom SEE her at SCHOOL.</li>
         <li className="list-none margin-bottom-20">Tôi hiếm khi gặp cô ấy ở trường.</li>
 
-        <li value="2">he SELdom GOES to the CINema.</li>
+        <li value="2" id="">he SELdom GOES to the CINema.</li>
         <li className="list-none margin-bottom-20">Anh ấy hiếm khi đi xem phim.</li>
 
-        <li value="3">she SELdom EATS SPIcy FOOD.</li>
+        <li value="3" id="">she SELdom EATS SPIcy FOOD.</li>
         <li className="list-none margin-bottom-20">Cô ấy hiếm khi ăn đồ ăn cay.</li>
 
-        <li value="4">they SELdom READ NEWSpapers.</li>
+        <li value="4" id="">they SELdom READ NEWSpapers.</li>
         <li className="list-none margin-bottom-20">Họ hiếm khi đọc báo.</li>
 
-        <li value="5">we SELdom PLAY SPORTS.</li>
+        <li value="5" id="">we SELdom PLAY SPORTS.</li>
         <li className="list-none margin-bottom-20">Chúng tôi hiếm khi chơi thể thao.</li>
 
-        <li value="6">i SELdom HAVE TIME to reLAX.</li>
+        <li value="6" id="">i SELdom HAVE TIME to reLAX.</li>
         <li className="list-none margin-bottom-20">Tôi hiếm khi có thời gian để thư giãn.</li>
 
-        <li value="7">she SELdom THINKS about the PAST.</li>
+        <li value="7" id="">she SELdom THINKS about the PAST.</li>
         <li className="list-none margin-bottom-20">Cô ấy hiếm khi nghĩ về quá khứ.</li>
 
-        <li value="8">he SELdom MAKES misTAKES in his WORK.</li>
+        <li value="8" id="">he SELdom MAKES misTAKES in his WORK.</li>
         <li className="list-none margin-bottom-20">Anh ấy hiếm khi mắc lỗi trong công việc.</li>
 
-        <li value="9">i SELdom FEEL LONEly.</li>
+        <li value="9" id="">i SELdom FEEL LONEly.</li>
         <li className="list-none margin-bottom-20">Tôi hiếm khi cảm thấy cô đơn.</li>
 
-        <li value="10">they SELdom COME to VISit us.</li>
+        <li value="10" id="">they SELdom COME to VISit us.</li>
         <li className="list-none margin-bottom-20">Họ hiếm khi đến thăm chúng tôi.</li>
 
       </ol>

@@ -26,6 +26,53 @@ export default function preCISEly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>preCISEly</strong>" (một cách chính xác) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function preCISEly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the SCIentist preCISEly MEASured the CHEMicals.</li>
+        <li value="1" id="">the SCIentist preCISEly MEASured the CHEMicals.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học đo lường các hóa chất một cách chính xác.</li>
 
-        <li value="2">the engiNEER preCISEly CALculated the diMENsions.</li>
+        <li value="2" id="">the engiNEER preCISEly CALculated the diMENsions.</li>
         <li className="list-none margin-bottom-20">Kỹ sư tính toán các kích thước một cách chính xác.</li>
 
-        <li value="3">the LAW preCISEly deFINES the TERMS.</li>
+        <li value="3" id="">the LAW preCISEly deFINES the TERMS.</li>
         <li className="list-none margin-bottom-20">Luật định nghĩa các điều khoản một cách chính xác.</li>
 
-        <li value="4">the MAP preCISEly loCAted the TREAsure.</li>
+        <li value="4" id="">the MAP preCISEly loCAted the TREAsure.</li>
         <li className="list-none margin-bottom-20">Bản đồ xác định vị trí kho báu một cách chính xác.</li>
 
-        <li value="5">the CHEF preCISEly FOLlowed the RECipe.</li>
+        <li value="5" id="">the CHEF preCISEly FOLlowed the RECipe.</li>
         <li className="list-none margin-bottom-20">Đầu bếp tuân theo công thức một cách chính xác.</li>
 
-        <li value="6">the WITness preCISEly deSCRIBED the SUSpect.</li>
+        <li value="6" id="">the WITness preCISEly deSCRIBED the SUSpect.</li>
         <li className="list-none margin-bottom-20">Nhân chứng miêu tả nghi phạm một cách chính xác.</li>
 
-        <li value="7">the TEACHer preCISEly exPLAINED the CONcept.</li>
+        <li value="7" id="">the TEACHer preCISEly exPLAINED the CONcept.</li>
         <li className="list-none margin-bottom-20">Giáo viên giải thích khái niệm một cách chính xác.</li>
 
-        <li value="8">the maCHINE preCISEly conTROLLED the TEMPERature.</li>
+        <li value="8" id="">the maCHINE preCISEly conTROLLED the TEMPERature.</li>
         <li className="list-none margin-bottom-20">Máy móc kiểm soát nhiệt độ một cách chính xác.</li>
 
-        <li value="9">the PARTS were preCISEly aLIGNED.</li>
+        <li value="9" id="">the PARTS were preCISEly aLIGNED.</li>
         <li className="list-none margin-bottom-20">Các bộ phận được căn chỉnh một cách chính xác.</li>
 
-        <li value="10">the eVENT was preCISEly TIMED.</li>
+        <li value="10" id="">the eVENT was preCISEly TIMED.</li>
         <li className="list-none margin-bottom-20">Sự kiện được định thời gian một cách chính xác.</li>
 
       </ol>

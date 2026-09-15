@@ -26,6 +26,53 @@ export default function PROBably2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>PROBably</strong>" (có lẽ) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function PROBably2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">THIS is PROBably the BEST RESTAUrant in TOWN.</li>
+        <li value="1" id="">THIS is PROBably the BEST RESTAUrant in TOWN.</li>
         <li className="list-none margin-bottom-20">Đây có lẽ là nhà hàng ngon nhất trong thị trấn.</li>
 
-        <li value="2">i PROBably will NOT be ABle to MAKE it to the PARTy.</li>
+        <li value="2" id="">i PROBably will NOT be ABle to MAKE it to the PARTy.</li>
         <li className="list-none margin-bottom-20">Có lẽ tôi sẽ không đến được buổi tiệc.</li>
 
-        <li value="3">the MOST PROBably, she will arRIVE LATE.</li>
+        <li value="3" id="">the MOST PROBably, she will arRIVE LATE.</li>
         <li className="list-none margin-bottom-20">Rất có thể cô ấy sẽ đến muộn.</li>
 
-        <li value="4">i will PROBably GO to the MOvies toMORrow.</li>
+        <li value="4" id="">i will PROBably GO to the MOvies toMORrow.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ có lẽ đi xem phim vào ngày mai.</li>
 
-        <li value="5">the deLAY was PROBably due to the TRAFfic.</li>
+        <li value="5" id="">the deLAY was PROBably due to the TRAFfic.</li>
         <li className="list-none margin-bottom-20">Sự chậm trễ có lẽ là do giao thông.</li>
 
-        <li value="6">it is PROBably the BEST deCISion you can MAKE.</li>
+        <li value="6" id="">it is PROBably the BEST deCISion you can MAKE.</li>
         <li className="list-none margin-bottom-20">Có lẽ đó là quyết định tốt nhất bạn có thể đưa ra.</li>
 
-        <li value="7">PROBably the REAson is that he's TIred.</li>
+        <li value="7" id="">PROBably the REAson is that he's TIred.</li>
         <li className="list-none margin-bottom-20">Có lẽ lý do là anh ấy mệt.</li>
 
-        <li value="8">PROBably the BEST WAY is to CALL him FIRST.</li>
+        <li value="8" id="">PROBably the BEST WAY is to CALL him FIRST.</li>
         <li className="list-none margin-bottom-20">Có lẽ cách tốt nhất là gọi điện cho anh ấy trước.</li>
 
-        <li value="9">she's PROBably upSET be<strong>cause</strong> he DIDN'T CALL.</li>
+        <li value="9" id="">she's PROBably upSET be<strong>cause</strong> he DIDN'T CALL.</li>
         <li className="list-none margin-bottom-20">Cô ấy có lẽ buồn vì anh ấy không gọi điện.</li>
 
-        <li value="10">THIS is PROBably the MOST DIFficult TASK i've ever HAD.</li>
+        <li value="10" id="">THIS is PROBably the MOST DIFficult TASK i've ever HAD.</li>
         <li className="list-none margin-bottom-20">Đây có lẽ là nhiệm vụ khó khăn nhất mà tôi từng làm.</li>
 
       </ol>

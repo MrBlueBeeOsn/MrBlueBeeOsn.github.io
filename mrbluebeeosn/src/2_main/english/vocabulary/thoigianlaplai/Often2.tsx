@@ -26,6 +26,53 @@ export default function OFten2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>OFten</strong>" (thường xuyên) trong tiếng Anh nhé.</p>
@@ -56,34 +103,34 @@ export default function OFten2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i OFten DO my HOMEwork in the EVEning.</li>
+        <li value="1" id="">i OFten DO my HOMEwork in the EVEning.</li>
         <li className="list-none margin-bottom-20">Tôi thường làm bài tập về nhà vào buổi tối.</li>
 
-        <li value="2">we OFten GO to the BEACH on WEEKends.</li>
+        <li value="2" id="">we OFten GO to the BEACH on WEEKends.</li>
         <li className="list-none margin-bottom-20">Chúng tôi thường đi biển vào cuối tuần.</li>
 
-        <li value="3">she OFten EATS FRUITS for BREAKfast.</li>
+        <li value="3" id="">she OFten EATS FRUITS for BREAKfast.</li>
         <li className="list-none margin-bottom-20">Cô ấy thường ăn trái cây vào bữa sáng.</li>
 
-        <li value="4">he OFten READS BOOKS be<strong>fore</strong> GOing to BED.</li>
+        <li value="4" id="">he OFten READS BOOKS be<strong>fore</strong> GOing to BED.</li>
         <li className="list-none margin-bottom-20">Anh ấy thường đọc sách trước khi đi ngủ.</li>
 
-        <li value="5">CHILDren OFten PLAY outSIDE <strong>af</strong>ter SCHOOL.</li>
+        <li value="5" id="">CHILDren OFten PLAY outSIDE <strong>af</strong>ter SCHOOL.</li>
         <li className="list-none margin-bottom-20">Trẻ em thường chơi ngoài trời sau giờ học.</li>
 
-        <li value="6">i do NOT OFten WATCH tV, but SOMEtimes i do.</li>
+        <li value="6" id="">i do NOT OFten WATCH tV, but SOMEtimes i do.</li>
         <li className="list-none margin-bottom-20">Tôi không thường xuyên xem TV, nhưng thỉnh thoảng tôi cũng xem.</li>
 
-        <li value="7">i OFten DRINK COFfee in the MORNing.</li>
+        <li value="7" id="">i OFten DRINK COFfee in the MORNing.</li>
         <li className="list-none margin-bottom-20">Tôi thường uống cà phê vào buổi sáng.</li>
 
-        <li value="8">he OFten WORKS LATE at NIGHT.</li>
+        <li value="8" id="">he OFten WORKS LATE at NIGHT.</li>
         <li className="list-none margin-bottom-20">Anh ấy thường làm việc muộn vào ban đêm.</li>
 
-        <li value="9">we OFten GO SHOPping on WEEKends.</li>
+        <li value="9" id="">we OFten GO SHOPping on WEEKends.</li>
         <li className="list-none margin-bottom-20">Chúng tôi thường đi mua sắm vào cuối tuần.</li>
 
-        <li value="10">when i OFten FEEL STRESSED, i LISten to MUsic.</li>
+        <li value="10" id="">when i OFten FEEL STRESSED, i LISten to MUsic.</li>
         <li className="list-none margin-bottom-20">Thường khi tôi cảm thấy căng thẳng, tôi nghe nhạc.</li>
 
       </ol>

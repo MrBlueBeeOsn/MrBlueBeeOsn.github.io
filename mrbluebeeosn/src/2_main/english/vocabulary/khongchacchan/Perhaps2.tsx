@@ -26,6 +26,53 @@ export default function perHAPS2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>perHAPS</strong>" (có lẽ) trong tiếng Anh nhé.</p>
@@ -56,34 +103,34 @@ export default function perHAPS2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">perHAPS, howEVer, we should conSIDer OTHer OPtions.</li>
+        <li value="1" id="">perHAPS, howEVer, we should conSIDer OTHer OPtions.</li>
         <li className="list-none margin-bottom-20">Có lẽ, tuy nhiên, chúng ta nên xem xét các lựa chọn khác.</li>
 
-        <li value="2">perHAPS, on the OTHer HAND, she is JUST TIred.</li>
+        <li value="2" id="">perHAPS, on the OTHer HAND, she is JUST TIred.</li>
         <li className="list-none margin-bottom-20">Có lẽ, mặt khác, cô ấy chỉ đơn giản là mệt mỏi.</li>
 
-        <li value="3">perHAPS, it is POSsible that he forGOT.</li>
+        <li value="3" id="">perHAPS, it is POSsible that he forGOT.</li>
         <li className="list-none margin-bottom-20">Có lẽ, có thể là anh ấy đã quên.</li>
 
-        <li value="4">perHAPS, it is TRUE that she is NOT INTERested.</li>
+        <li value="4" id="">perHAPS, it is TRUE that she is NOT INTERested.</li>
         <li className="list-none margin-bottom-20">Có lẽ, đúng là cô ấy không hứng thú.</li>
 
-        <li value="5">perHAPS, if you STUDy HARder, you will PASS the eXAM.</li>
+        <li value="5" id="">perHAPS, if you STUDy HARder, you will PASS the eXAM.</li>
         <li className="list-none margin-bottom-20">Có lẽ, nếu bạn học chăm chỉ hơn, bạn sẽ vượt qua kỳ thi.</li>
 
-        <li value="6">perHAPS, in THAT CASE, we should postPONE the MEETing.</li>
+        <li value="6" id="">perHAPS, in THAT CASE, we should postPONE the MEETing.</li>
         <li className="list-none margin-bottom-20">Có lẽ, trong trường hợp đó, chúng ta nên hoãn cuộc họp.</li>
 
-        <li value="7">perHAPS, in<strong>stead</strong> of GOing to the MOVies, we could STAY HOME and WATCH a DVD.</li>
+        <li value="7" id="">perHAPS, in<strong>stead</strong> of GOing to the MOVies, we could STAY HOME and WATCH a DVD.</li>
         <li className="list-none margin-bottom-20">Có lẽ, thay vì đi xem phim, chúng ta có thể ở nhà và xem DVD.</li>
 
-        <li value="8">perHAPS, we should ASK for HELP.</li>
+        <li value="8" id="">perHAPS, we should ASK for HELP.</li>
         <li className="list-none margin-bottom-20">Có lẽ, chúng ta nên nhờ giúp đỡ.</li>
 
-        <li value="9">perHAPS, I THINK it's TIME to GO HOME.</li>
+        <li value="9" id="">perHAPS, I THINK it's TIME to GO HOME.</li>
         <li className="list-none margin-bottom-20">Có lẽ, tôi nghĩ đã đến lúc về nhà.</li>
 
-        <li value="10">perHAPS, it SEEMS that he is ANGry.</li>
+        <li value="10" id="">perHAPS, it SEEMS that he is ANGry.</li>
         <li className="list-none margin-bottom-20">Có lẽ, dường như anh ấy đang tức giận.</li>
 
       </ol>

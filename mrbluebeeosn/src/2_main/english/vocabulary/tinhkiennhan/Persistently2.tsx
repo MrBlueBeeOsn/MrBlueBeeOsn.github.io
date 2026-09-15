@@ -26,6 +26,53 @@ export default function perSIStently2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>perSIStently</strong>" (một cách kiên trì) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function perSIStently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she perSIStently purSUED her DREAM of beCOMing a DOCtor.</li>
+        <li value="1" id="">she perSIStently purSUED her DREAM of beCOMing a DOCtor.</li>
         <li className="list-none margin-bottom-20">Cô ấy kiên trì theo đuổi ước mơ trở thành bác sĩ.</li>
 
-        <li value="2">the JOURnalist perSIStently QUEStioned the poliTICian about the SCANdal.</li>
+        <li value="2" id="">the JOURnalist perSIStently QUEStioned the poliTICian about the SCANdal.</li>
         <li className="list-none margin-bottom-20">Nhà báo kiên trì đặt câu hỏi cho chính trị gia về vụ bê bối.</li>
 
-        <li value="3">he perSIStently deNIED any inVOLVEment in the CRIME.</li>
+        <li value="3" id="">he perSIStently deNIED any inVOLVEment in the CRIME.</li>
         <li className="list-none margin-bottom-20">Anh ta kiên quyết phủ nhận bất kỳ liên quan nào đến tội ác.</li>
 
-        <li value="4">it was perSIStently RUmored that he would reSIGN.</li>
+        <li value="4" id="">it was perSIStently RUmored that he would reSIGN.</li>
         <li className="list-none margin-bottom-20">Người ta liên tục đồn đại rằng ông ta sẽ từ chức.</li>
 
-        <li value="5">despite the DIFficulties, she reMAINED perSIStently optiMIStic.</li>
+        <li value="5" id="">despite the DIFficulties, she reMAINED perSIStently optiMIStic.</li>
         <li className="list-none margin-bottom-20">Mặc dù gặp khó khăn, cô ấy vẫn luôn lạc quan.</li>
 
-        <li value="6">he was perSIStently pesSIStic about the FUture of the COMpany.</li>
+        <li value="6" id="">he was perSIStently pesSIStic about the FUture of the COMpany.</li>
         <li className="list-none margin-bottom-20">Anh ta luôn bi quan về tương lai của công ty.</li>
 
-        <li value="7">the NOISE from the conSTRUCtion SITE was perSIStently anNOYing.</li>
+        <li value="7" id="">the NOISE from the conSTRUCtion SITE was perSIStently anNOYing.</li>
         <li className="list-none margin-bottom-20">Tiếng ồn từ công trường xây dựng làm phiền dai dẳng.</li>
 
-        <li value="8">it has been perSIStently RAINing for DAYS.</li>
+        <li value="8" id="">it has been perSIStently RAINing for DAYS.</li>
         <li className="list-none margin-bottom-20">Trời đã mưa dai dẳng suốt mấy ngày.</li>
 
-        <li value="9">SOMEone was perSIStently KNOCKing at the DOOR.</li>
+        <li value="9" id="">SOMEone was perSIStently KNOCKing at the DOOR.</li>
         <li className="list-none margin-bottom-20">Ai đó đang gõ cửa liên tục.</li>
 
-        <li value="10">he perSIStently TRIED to SOLVE the PUZzle.</li>
+        <li value="10" id="">he perSIStently TRIED to SOLVE the PUZzle.</li>
         <li className="list-none margin-bottom-20">Anh ấy cố gắng không ngừng để giải câu đố.</li>
 
       </ol>

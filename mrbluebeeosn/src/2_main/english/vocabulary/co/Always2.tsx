@@ -26,6 +26,53 @@ export default function ALways2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>ALways</strong>" (luôn luôn) trong tiếng Anh nhé.</p>
@@ -56,34 +103,34 @@ export default function ALways2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she ALways KIND to <strong>ever</strong>yone.</li>
+        <li value="1" id="">she ALways KIND to <strong>ever</strong>yone.</li>
         <li className="list-none margin-bottom-20">Cô ấy luôn luôn tử tế với mọi người.</li>
 
-        <li value="2">he ALways DOES his HOMEwork be<strong>fore</strong> DINner.</li>
+        <li value="2" id="">he ALways DOES his HOMEwork be<strong>fore</strong> DINner.</li>
         <li className="list-none margin-bottom-20">Anh ấy luôn làm bài tập về nhà trước khi ăn tối.</li>
 
-        <li value="3">we ALways GO to the PARK on SUNdays.</li>
+        <li value="3" id="">we ALways GO to the PARK on SUNdays.</li>
         <li className="list-none margin-bottom-20">Chúng tôi luôn đi công viên vào Chủ nhật.</li>
 
-        <li value="4">she ALways EATS BREAKfast in the MORNing.</li>
+        <li value="4" id="">she ALways EATS BREAKfast in the MORNing.</li>
         <li className="list-none margin-bottom-20">Cô ấy luôn ăn sáng vào buổi sáng.</li>
 
-        <li value="5">he ALways READS a BOOK be<strong>fore</strong> GOing to BED.</li>
+        <li value="5" id="">he ALways READS a BOOK be<strong>fore</strong> GOing to BED.</li>
         <li className="list-none margin-bottom-20">Anh ấy luôn đọc sách trước khi đi ngủ.</li>
 
-        <li value="6">i ALways FEEL HAPpy when i SEE her.</li>
+        <li value="6" id="">i ALways FEEL HAPpy when i SEE her.</li>
         <li className="list-none margin-bottom-20">Tôi luôn cảm thấy vui khi nhìn thấy cô ấy.</li>
 
-        <li value="7">i will ALways reMEMber your BIRthday.</li>
+        <li value="7" id="">i will ALways reMEMber your BIRthday.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ luôn nhớ ngày sinh nhật của bạn.</li>
 
-        <li value="8">my FRIENDS are ALways THERE for me.</li>
+        <li value="8" id="">my FRIENDS are ALways THERE for me.</li>
         <li className="list-none margin-bottom-20">Bạn bè tôi luôn ở bên cạnh tôi.</li>
 
-        <li value="9">she is ALways on TIME for her apPOINTments.</li>
+        <li value="9" id="">she is ALways on TIME for her apPOINTments.</li>
         <li className="list-none margin-bottom-20">Cô ấy luôn đúng giờ cho các cuộc hẹn của mình.</li>
 
-        <li value="10">his ATtitude is ALways the SAME.</li>
+        <li value="10" id="">his ATtitude is ALways the SAME.</li>
         <li className="list-none margin-bottom-20">Thái độ của anh ấy luôn như vậy.</li>
 
       </ol>

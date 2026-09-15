@@ -26,6 +26,53 @@ export default function VERy2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>VERy</strong>" (rất) trong tiếng Anh nhé.</p>
@@ -56,35 +103,35 @@ export default function VERy2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i VERy HAPpy to SEE you.</li>
+        <li value="1" id="">i VERy HAPpy to SEE you.</li>
         <li className="list-none margin-bottom-20">Tôi rất vui khi gặp bạn.</li>
 
-        <li value="2">i VERy TIred <strong>af</strong>ter WORK.</li>
+        <li value="2" id="">i VERy TIred <strong>af</strong>ter WORK.</li>
         <li className="list-none margin-bottom-20">Tôi rất mệt sau khi làm việc.</li>
 
-        <li value="3">i VERy HUNgry. can we EAT NOW?</li>
+        <li value="3" id="">i VERy HUNgry. can we EAT NOW?</li>
         <li className="list-none margin-bottom-20">Tôi rất đói. Chúng ta có thể ăn bây giờ không?</li>
 
         <li value="4">your ENGlish VERy GOOD.</li>
         <li className="list-none margin-bottom-20">Tiếng Anh của bạn rất tốt.</li>
 
-        <li value="5">the WEATHer VERy BAD toDAY.</li>
+        <li value="5" id="">the WEATHer VERy BAD toDAY.</li>
         <li className="list-none margin-bottom-20">Thời tiết hôm nay rất tệ.</li>
 
-        <li value="6">she RUN VERy QUICKly.</li>
+        <li value="6" id="">she RUN VERy QUICKly.</li>
         <li className="list-none margin-bottom-20">Cô ấy có thể chạy rất nhanh.</li>
 
-        <li value="7">PLEASE SPEAK VERy SLOWly.</li>
+        <li value="7" id="">PLEASE SPEAK VERy SLOWly.</li>
   
         <li className="list-none margin-bottom-20">Làm ơn nói chậm lại.</li>
 
-        <li value="8">PLEASE HANdle this GLASS VERy CAREfully.</li>
+        <li value="8" id="">PLEASE HANdle this GLASS VERy CAREfully.</li>
         <li className="list-none margin-bottom-20">Làm ơn cầm ly này thật cẩn thận.</li>
 
-        <li value="9">i LIKE COFfee VERy MUCH.</li>
+        <li value="9" id="">i LIKE COFfee VERy MUCH.</li>
         <li className="list-none margin-bottom-20">Tôi rất thích cà phê.</li>
 
-        <li value="10">i HAVE VERy LITtle TIME.</li>
+        <li value="10" id="">i HAVE VERy LITtle TIME.</li>
         <li className="list-none margin-bottom-20">Tôi có rất ít thời gian.</li>
 
       </ol>

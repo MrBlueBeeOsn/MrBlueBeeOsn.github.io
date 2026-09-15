@@ -26,6 +26,53 @@ export default function efFECtively2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>effectively</strong>" (một cách hiệu quả) và các cụm từ thường đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function efFECtively2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she efFECtively comMUNicated her iDEas to the TEAM.</li>
+        <li value="1" id="">she efFECtively comMUNicated her iDEas to the TEAM.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã truyền đạt ý tưởng của mình đến cả nhóm một cách hiệu quả.</li>
 
-        <li value="2">he efFECtively MANaged the PROJect within the DEADline.</li>
+        <li value="2" id="">he efFECtively MANaged the PROJect within the DEADline.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã quản lý dự án một cách hiệu quả trong thời hạn cho phép.</li>
 
-        <li value="3">the TEAM efFECtively SOLVED the PROBlem.</li>
+        <li value="3" id="">the TEAM efFECtively SOLVED the PROBlem.</li>
         <li className="list-none margin-bottom-20">Đội đã giải quyết vấn đề một cách hiệu quả.</li>
 
-        <li value="4">the NEW POLicy was efFECtively IMplemented.</li>
+        <li value="4" id="">the NEW POLicy was efFECtively IMplemented.</li>
         <li className="list-none margin-bottom-20">Chính sách mới đã được thực hiện một cách hiệu quả.</li>
 
-        <li value="5">she efFECtively USED her TIME to STUDy for the exAM.</li>
+        <li value="5" id="">she efFECtively USED her TIME to STUDy for the exAM.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã sử dụng thời gian của mình một cách hiệu quả để ôn thi.</li>
 
-        <li value="6">the COACH efFECtively MOtivated the TEAM to WIN the GAME.</li>
+        <li value="6" id="">the COACH efFECtively MOtivated the TEAM to WIN the GAME.</li>
         <li className="list-none margin-bottom-20">Huấn luyện viên đã động viên đội bóng một cách hiệu quả để giành chiến thắng.</li>
 
-        <li value="7">the TEACHer efFECtively TAUGHT the STUdents the NEW CONcept.</li>
+        <li value="7" id="">the TEACHer efFECtively TAUGHT the STUdents the NEW CONcept.</li>
         <li className="list-none margin-bottom-20">Giáo viên đã dạy học sinh khái niệm mới một cách hiệu quả.</li>
 
-        <li value="8">he efFECtively LED the COMpany through the CRIsis.</li>
+        <li value="8" id="">he efFECtively LED the COMpany through the CRIsis.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã lãnh đạo công ty vượt qua khủng hoảng một cách hiệu quả.</li>
 
-        <li value="9">she efFECtively neGOtiated a BETter DEAL for the COMpany.</li>
+        <li value="9" id="">she efFECtively neGOtiated a BETter DEAL for the COMpany.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã thương lượng một thỏa thuận tốt hơn cho công ty.</li>
 
-        <li value="10">the TEAM efFECtively colLABorated on the PROJect.</li>
+        <li value="10" id="">the TEAM efFECtively colLABorated on the PROJect.</li>
         <li className="list-none margin-bottom-20">Đội đã hợp tác hiệu quả trong dự án.</li>
 
       </ol>

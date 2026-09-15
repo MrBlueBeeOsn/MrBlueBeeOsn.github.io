@@ -26,6 +26,53 @@ export default function STEADily2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>STEADily</strong>" (một cách đều đặn) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function STEADily2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the COMpany's PROFits have been STEADily inCREASing over the PAST YEAR.</li>
+        <li value="1" id="">the COMpany's PROFits have been STEADily inCREASing over the PAST YEAR.</li>
         <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng một cách đều đặn trong năm qua.</li>
 
-        <li value="2">the unempLOYment RATE has been STEADily deCREASing.</li>
+        <li value="2" id="">the unempLOYment RATE has been STEADily deCREASing.</li>
         <li className="list-none margin-bottom-20">Tỷ lệ thất nghiệp đã giảm một cách đều đặn.</li>
 
-        <li value="3">the SMALL BUSIness has been STEADily GROWing its CUStomer BASE.</li>
+        <li value="3" id="">the SMALL BUSIness has been STEADily GROWing its CUStomer BASE.</li>
         <li className="list-none margin-bottom-20">Doanh nghiệp nhỏ đã phát triển cơ sở khách hàng của mình một cách đều đặn.</li>
 
-        <li value="4">the popuLARity of the PRODuct has been STEADily deCLIning.</li>
+        <li value="4" id="">the popuLARity of the PRODuct has been STEADily deCLIning.</li>
         <li className="list-none margin-bottom-20">Sự phổ biến của sản phẩm đã suy giảm một cách đều đặn.</li>
 
-        <li value="5">her ENGlish SKILLS have been STEADily imPROVing with PRACtice.</li>
+        <li value="5" id="">her ENGlish SKILLS have been STEADily imPROVing with PRACtice.</li>
         <li className="list-none margin-bottom-20">Kỹ năng tiếng Anh của cô ấy đã cải thiện một cách đều đặn nhờ luyện tập.</li>
 
-        <li value="6">he STEADily WORKED on the PROJect, MAKing conSIStent PROGress.</li>
+        <li value="6" id="">he STEADily WORKED on the PROJect, MAKing conSIStent PROGress.</li>
         <li className="list-none margin-bottom-20">Anh ấy làm việc trên dự án một cách đều đặn, đạt được tiến bộ ổn định.</li>
 
-        <li value="7">it STEADily RAINED throughout the MORNing.</li>
+        <li value="7" id="">it STEADily RAINED throughout the MORNing.</li>
         <li className="list-none margin-bottom-20">Trời mưa đều đặn suốt buổi sáng.</li>
 
-        <li value="8">the RIVer STEADily FLOWED toWARDS the SEA.</li>
+        <li value="8" id="">the RIVer STEADily FLOWED toWARDS the SEA.</li>
         <li className="list-none margin-bottom-20">Dòng sông chảy đều đặn ra biển.</li>
 
-        <li value="9">the ARmy STEADily adVANCED aCROSS the TERritory.</li>
+        <li value="9" id="">the ARmy STEADily adVANCED aCROSS the TERritory.</li>
         <li className="list-none margin-bottom-20">Quân đội tiến lên một cách đều đặn trên khắp lãnh thổ.</li>
 
-        <li value="10">she STEADily HELD the CAMERa to TAKE a CLEAR PICture.</li>
+        <li value="10" id="">she STEADily HELD the CAMERa to TAKE a CLEAR PICture.</li>
         <li className="list-none margin-bottom-20">Cô ấy giữ máy ảnh một cách chắc chắn để chụp một bức ảnh rõ nét.</li>
 
       </ol>

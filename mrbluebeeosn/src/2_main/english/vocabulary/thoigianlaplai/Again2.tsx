@@ -26,6 +26,53 @@ export default function aGAIN2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>aGAIN</strong>" (lại) trong tiếng Anh nhé.</p>
@@ -56,31 +103,31 @@ export default function aGAIN2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">he MADE the SAME misTAKE aGAIN and aGAIN.</li>
+        <li value="1" id="">he MADE the SAME misTAKE aGAIN and aGAIN.</li>
         <li className="list-none margin-bottom-20">Anh ấy lặp lại cùng một sai lầm nhiều lần.</li>
 
-        <li value="2">let's TRY THAT ONCE aGAIN.</li>
+        <li value="2" id="">let's TRY THAT ONCE aGAIN.</li>
         <li className="list-none margin-bottom-20">Hãy thử lại một lần nữa.</li>
 
-        <li value="3">i've TOLD you TIME and aGAIN NOT to DO that.</li>
+        <li value="3" id="">i've TOLD you TIME and aGAIN NOT to DO that.</li>
         <li className="list-none margin-bottom-20">Tôi đã nói với bạn nhiều lần rồi đấy.</li>
 
-        <li value="4">she PLAYED the SAME SONG Over and Over aGAIN</li>
+        <li value="4" id="">she PLAYED the SAME SONG Over and Over aGAIN</li>
         <li className="list-none margin-bottom-20">Cô ấy nghe đi nghe lại cùng một bài hát.</li>
 
-        <li value="5">we had to START ALL OVER aGAIN.</li>
+        <li value="5" id="">we had to START ALL OVER aGAIN.</li>
         <li className="list-none margin-bottom-20">Chúng ta phải bắt đầu lại từ đầu.</li>
 
-        <li value="6">i HOPE to SEE you aGAIN SOON.</li>
+        <li value="6" id="">i HOPE to SEE you aGAIN SOON.</li>
         <li className="list-none margin-bottom-20">Tôi hy vọng sẽ gặp lại bạn sớm.</li>
 
-        <li value="7">could you SAY THAT aGAIN, PLEASE?</li>
+        <li value="7" id="">could you SAY THAT aGAIN, PLEASE?</li>
         <li className="list-none margin-bottom-20">Bạn có thể nói lại được không?</li>
 
         <li value="8">NOT aGAIN! i've LOST my KEYS.</li>
         <li className="list-none margin-bottom-20">Không phải lần nữa! Tôi lại làm mất chìa khóa rồi.</li>
 
-        <li value="9">could you READ THAT ONCE MORE?</li>
+        <li value="9" id="">could you READ THAT ONCE MORE?</li>
         <li className="list-none margin-bottom-20">Bạn có thể đọc lại một lần nữa được không?</li>
 
         <li value="10">PLEASE DO it as beFORE.</li>

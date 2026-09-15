@@ -26,6 +26,53 @@ export default function BAsically2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#the-SAME">the SAME</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#imPOSsible">imPOSsible </HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#TRUE">TRUE</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#FInished">FInished</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#the-SAME-THING">the SAME THING</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#a-WASTE-of-TIME">a WASTE of TIME</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#the-iDEa-is">the iDEa is</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#underSTOOD">underSTOOD</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#the-SAME-as">the SAME as</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#SPEAKing">SPEAKing</HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>BAsically</strong>" (về cơ bản) và các cụm từ thường đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function BAsically2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">These TWO PROducts are BAsically the SAME.</li>
+        <li value="1" id="the-SAME">These TWO PROducts are BAsically the SAME.</li>
         <li className="list-none margin-bottom-20">Hai sản phẩm này về cơ bản là giống nhau.</li>
 
-        <li value="2">it's BAsically imPOSsible to FInish this TASK in ONE DAY.</li>
+        <li value="2" id="imPOSsible">it's BAsically imPOSsible to FInish this TASK in ONE DAY.</li>
         <li className="list-none margin-bottom-20">Về cơ bản là không thể hoàn thành nhiệm vụ này trong một ngày.</li>
 
-        <li value="3">what he SAID was BAsically TRUE.</li>
+        <li value="3" id="TRUE">what he SAID was BAsically TRUE.</li>
         <li className="list-none margin-bottom-20">Những gì anh ấy nói về cơ bản là đúng.</li>
 
-        <li value="4">the PROject is BAsically FInished.</li>
+        <li value="4" id="FInished">the PROject is BAsically FInished.</li>
         <li className="list-none margin-bottom-20">Dự án về cơ bản là đã hoàn thành.</li>
 
-        <li value="5">APples and PEARS are BAsically the SAME THING.</li>
+        <li value="5" id="the-SAME-THING">APples and PEARS are BAsically the SAME THING.</li>
         <li className="list-none margin-bottom-20">Táo và lê về cơ bản là một loại quả.</li>
 
-        <li value="6">WATCHing that MOvie was BAsically a WASTE of TIME.</li>
+        <li value="6" id="a-WASTE-of-TIME">WATCHing that MOvie was BAsically a WASTE of TIME.</li>
         <li className="list-none margin-bottom-20">Xem bộ phim đó về cơ bản là lãng phí thời gian.</li>
 
-        <li value="7">BAsically the iDEa is to SIMplify the PROcess.</li>
+        <li value="7" id="the-iDEa-is">BAsically the iDEa is to SIMplify the PROcess.</li>
         <li className="list-none margin-bottom-20">Về cơ bản, ý tưởng là đơn giản hóa quy trình.</li>
 
-        <li value="8">i THINK <strong>ever</strong>yone BAsically underSTOOD the inSTRUCtions.</li>
+        <li value="8" id="underSTOOD">i THINK <strong>ever</strong>yone BAsically underSTOOD the inSTRUCtions.</li>
         <li className="list-none margin-bottom-20">Tôi nghĩ mọi người về cơ bản là đã hiểu các hướng dẫn.</li>
 
-        <li value="9">THIS NEW MOdel is BAsically the SAME as the OLD one.</li>
+        <li value="9" id="the-SAME-as">THIS NEW MOdel is BAsically the SAME as the OLD one.</li>
         <li className="list-none margin-bottom-20">Mô hình mới này về cơ bản là giống như mô hình cũ.</li>
 
-        <li value="10">BAsically SPEAKing, we NEED MORE TIME to FInish the PROject.</li>
+        <li value="10" id="SPEAKing">BAsically SPEAKing, we NEED MORE TIME to FInish the PROject.</li>
         <li className="list-none margin-bottom-20">Nói một cách đơn giản, chúng ta cần thêm thời gian để hoàn thành dự án.</li>
 
       </ol>

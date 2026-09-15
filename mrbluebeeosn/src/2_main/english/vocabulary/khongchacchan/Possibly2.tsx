@@ -26,6 +26,53 @@ export default function POSsibly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>POSsibly</strong>" (có thể) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function POSsibly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">THIS is POSsibly the BEST COFfee i've EVer TAsted</li>
+        <li value="1" id="">THIS is POSsibly the BEST COFfee i've EVer TAsted</li>
         <li className="list-none margin-bottom-20">Đây có thể là ly cà phê ngon nhất mà tôi từng uống.</li>
 
-        <li value="2">what he SAID is POSsibly TRUE, but i'm NOT SURE</li>
+        <li value="2" id="">what he SAID is POSsibly TRUE, but i'm NOT SURE</li>
         <li className="list-none margin-bottom-20">Những gì anh ấy nói có thể là đúng, nhưng tôi không chắc chắn.</li>
 
-        <li value="3">SWIMming in this LAKE is POSsibly DANgerous due to the STRONG CURrents</li>
+        <li value="3" id="">SWIMming in this LAKE is POSsibly DANgerous due to the STRONG CURrents</li>
         <li className="list-none margin-bottom-20">Bơi ở hồ này có thể nguy hiểm do dòng chảy mạnh.</li>
 
-        <li value="4">THIS is POSsibly the WORST MOvie i've EVer SEEN</li>
+        <li value="4" id="">THIS is POSsibly the WORST MOvie i've EVer SEEN</li>
         <li className="list-none margin-bottom-20">Đây có thể là bộ phim tệ nhất mà tôi từng xem.</li>
 
-        <li value="5">my KEYS are POSsibly LOST SOMEwhere in the HOUSE</li>
+        <li value="5" id="">my KEYS are POSsibly LOST SOMEwhere in the HOUSE</li>
         <li className="list-none margin-bottom-20">Chìa khóa của tôi có thể bị mất ở đâu đó trong nhà.</li>
 
-        <li value="6">my WORDS were POSsibly misunderSTOOD</li>
+        <li value="6" id="">my WORDS were POSsibly misunderSTOOD</li>
         <li className="list-none margin-bottom-20">Có thể là lời nói của tôi đã bị hiểu nhầm.</li>
 
-        <li value="7">the FLIGHT is POSsibly deLAYED due to BAD WEATHer</li>
+        <li value="7" id="">the FLIGHT is POSsibly deLAYED due to BAD WEATHer</li>
         <li className="list-none margin-bottom-20">Chuyến bay có thể bị trì hoãn do thời tiết xấu.</li>
 
-        <li value="8">these TWO eVENTS are POSsibly reLAted</li>
+        <li value="8" id="">these TWO eVENTS are POSsibly reLAted</li>
         <li className="list-none margin-bottom-20">Hai sự kiện này có thể có liên quan với nhau.</li>
 
-        <li value="9">EATing TOO much SUgar is POSsibly HARMful to your HEALTH</li>
+        <li value="9" id="">EATing TOO much SUgar is POSsibly HARMful to your HEALTH</li>
         <li className="list-none margin-bottom-20">Ăn quá nhiều đường có thể có hại cho sức khỏe của bạn.</li>
 
-        <li value="10">MOving to a NEW CITy is POSsibly the BEST OPtion for my caREER</li>
+        <li value="10" id="">MOving to a NEW CITy is POSsibly the BEST OPtion for my caREER</li>
         <li className="list-none margin-bottom-20">Chuyển đến thành phố mới có thể là lựa chọn tốt nhất cho sự nghiệp của tôi.</li>
 
       </ol>

@@ -26,6 +26,53 @@ export default function REally2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>REally</strong>" (thực sự, rất) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function REally2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i REally LIKE PIZza.</li>
+        <li value="1" id="">i REally LIKE PIZza.</li>
         <li className="list-none margin-bottom-20">Tôi rất thích pizza.</li>
 
-        <li value="2">i REally WANT to GO to PAris.</li>
+        <li value="2" id="">i REally WANT to GO to PAris.</li>
         <li className="list-none margin-bottom-20">Tôi rất muốn đến Paris.</li>
 
-        <li value="3">she SPEAKS ENGlish REally WELL.</li>
+        <li value="3" id="">she SPEAKS ENGlish REally WELL.</li>
         <li className="list-none margin-bottom-20">Cô ấy nói tiếng Anh rất tốt.</li>
 
-        <li value="4">his HOUSE is REally BIG.</li>
+        <li value="4" id="">his HOUSE is REally BIG.</li>
         <li className="list-none margin-bottom-20">Nhà của anh ấy rất lớn.</li>
 
-        <li value="5">the CAR can GO REally FAST.</li>
+        <li value="5" id="">the CAR can GO REally FAST.</li>
         <li className="list-none margin-bottom-20">Chiếc xe có thể chạy rất nhanh.</li>
 
-        <li value="6">THIS MATH PROBlem is REally HARD.</li>
+        <li value="6" id="">THIS MATH PROBlem is REally HARD.</li>
         <li className="list-none margin-bottom-20">Bài toán này rất khó.</li>
 
-        <li value="7">that JOKE was REally FUNny.</li>
+        <li value="7" id="">that JOKE was REally FUNny.</li>
         <li className="list-none margin-bottom-20">Câu đùa đó thật hài hước.</li>
 
-        <li value="8">i'm REally TIred <strong>af</strong>ter WORK.</li>
+        <li value="8" id="">i'm REally TIred <strong>af</strong>ter WORK.</li>
         <li className="list-none margin-bottom-20">Tôi rất mệt sau khi làm việc.</li>
 
-        <li value="9">i'm REally HAPpy to SEE you.</li>
+        <li value="9" id="">i'm REally HAPpy to SEE you.</li>
         <li className="list-none margin-bottom-20">Tôi rất vui khi gặp bạn.</li>
 
-        <li value="10">i was REally surPRISED by the NEWS.</li>
+        <li value="10" id="">i was REally surPRISED by the NEWS.</li>
         <li className="list-none margin-bottom-20">Tôi rất ngạc nhiên khi nghe tin đó.</li>
 
       </ol>

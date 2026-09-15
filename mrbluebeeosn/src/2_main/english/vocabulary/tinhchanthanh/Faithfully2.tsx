@@ -26,6 +26,53 @@ export default function FAITHfully2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>FAITHfully</strong>" (một cách trung thành, tin cậy) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function FAITHfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">he FAITHfully SERVED his COUNtry for <strong>man</strong>y YEARS.</li>
+        <li value="1" id="">he FAITHfully SERVED his COUNtry for <strong>man</strong>y YEARS.</li>
         <li className="list-none margin-bottom-20">Ông ấy đã trung thành phục vụ đất nước trong nhiều năm.</li>
 
-        <li value="2">she FAITHfully FOLlowed the DOCtor's ORders.</li>
+        <li value="2" id="">she FAITHfully FOLlowed the DOCtor's ORders.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã tuân theo chỉ dẫn của bác sĩ một cách trung thành.</li>
 
-        <li value="3">the PAINTing was FAITHfully reproDUCED in the PRINT.</li>
+        <li value="3" id="">the PAINTing was FAITHfully reproDUCED in the PRINT.</li>
         <li className="list-none margin-bottom-20">Bức tranh đã được tái tạo một cách trung thành trong bản in.</li>
 
-        <li value="4">the eVENTS were FAITHfully reCORDed in the DIary.</li>
+        <li value="4" id="">the eVENTS were FAITHfully reCORDed in the DIary.</li>
         <li className="list-none margin-bottom-20">Các sự kiện đã được ghi chép một cách trung thành trong nhật ký.</li>
 
-        <li value="5">the PAINTing FAITHfully repreSENTed the BEAUty of the LANDscape.</li>
+        <li value="5" id="">the PAINTing FAITHfully repreSENTed the BEAUty of the LANDscape.</li>
         <li className="list-none margin-bottom-20">Bức tranh đã đại diện một cách trung thành cho vẻ đẹp của phong cảnh.</li>
 
-        <li value="6">the PLAN was FAITHfully EXecuted.</li>
+        <li value="6" id="">the PLAN was FAITHfully EXecuted.</li>
         <li className="list-none margin-bottom-20">Kế hoạch đã được thực hiện một cách trung thành.</li>
 
-        <li value="7">they FAITHfully beLIEVED in the POWer of LOVE.</li>
+        <li value="7" id="">they FAITHfully beLIEVED in the POWer of LOVE.</li>
         <li className="list-none margin-bottom-20">Họ tin tưởng một cách trung thành vào sức mạnh của tình yêu.</li>
 
-        <li value="8">she FAITHfully adHERED to her PRINciples.</li>
+        <li value="8" id="">she FAITHfully adHERED to her PRINciples.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã tuân thủ các nguyên tắc của mình một cách trung thành.</li>
 
-        <li value="9">the GARden was FAITHfully mainTAINED.</li>
+        <li value="9" id="">the GARden was FAITHfully mainTAINED.</li>
         <li className="list-none margin-bottom-20">Khu vườn đã được chăm sóc một cách cẩn thận.</li>
 
-        <li value="10">he FAITHfully reMEMbered his CHILDhood.</li>
+        <li value="10" id="">he FAITHfully reMEMbered his CHILDhood.</li>
         <li className="list-none margin-bottom-20">Ông ấy nhớ lại tuổi thơ của mình một cách rõ nét.</li>
 
       </ol>

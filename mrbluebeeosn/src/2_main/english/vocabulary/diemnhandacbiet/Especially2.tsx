@@ -26,6 +26,53 @@ export default function esPECially2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>esPECially</strong>" (đặc biệt là) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function esPECially2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i am esPECially INTERested in LEARNing about DIFferent CULtures.</li>
+        <li value="1" id="">i am esPECially INTERested in LEARNing about DIFferent CULtures.</li>
         <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến việc tìm hiểu về các nền văn hóa khác nhau.</li>
 
-        <li value="2">she is esPECially GOOD at PLAYing the piANo.</li>
+        <li value="2" id="">she is esPECially GOOD at PLAYing the piANo.</li>
         <li className="list-none margin-bottom-20">Cô ấy đặc biệt giỏi chơi piano.</li>
 
-        <li value="3">the SLEEP is esPECially imPORTant for GROWing CHILDren.</li>
+        <li value="3" id="">the SLEEP is esPECially imPORTant for GROWing CHILDren.</li>
         <li className="list-none margin-bottom-20">Giấc ngủ đặc biệt quan trọng đối với trẻ em đang lớn.</li>
 
-        <li value="4">the FInal exAM was esPECially DIFficult.</li>
+        <li value="4" id="">the FInal exAM was esPECially DIFficult.</li>
         <li className="list-none margin-bottom-20">Bài thi cuối kỳ đặc biệt khó.</li>
 
-        <li value="5">THIS is esPECially TRUE of PEOple who LIVE in BIG CITies.</li>
+        <li value="5" id="">THIS is esPECially TRUE of PEOple who LIVE in BIG CITies.</li>
         <li className="list-none margin-bottom-20">Điều này đặc biệt đúng với những người sống ở các thành phố lớn.</li>
 
-        <li value="6">i enJOY WALKing in the PARK, esPECially when the WEATHer is NICE.</li>
+        <li value="6" id="">i enJOY WALKing in the PARK, esPECially when the WEATHer is NICE.</li>
         <li className="list-none margin-bottom-20">Tôi thích đi dạo trong công viên, đặc biệt là khi trời đẹp.</li>
 
-        <li value="7">i esPECially LIKE CHOCOLate ICE CREAM.</li>
+        <li value="7" id="">i esPECially LIKE CHOCOLate ICE CREAM.</li>
         <li className="list-none margin-bottom-20">Tôi đặc biệt thích kem sô cô la.</li>
 
-        <li value="8">i've been FEELing TIred LATEly, esPECially since i've been WORKing so HARD.</li>
+        <li value="8" id="">i've been FEELing TIred LATEly, esPECially since i've been WORKing so HARD.</li>
         <li className="list-none margin-bottom-20">Gần đây tôi cảm thấy mệt mỏi, đặc biệt là từ khi tôi làm việc quá nhiều.</li>
 
-        <li value="9">this BOOK is esPECially for beGINners.</li>
+        <li value="9" id="">this BOOK is esPECially for beGINners.</li>
         <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt dành cho người mới bắt đầu.</li>
 
-        <li value="10">it's a GOOD DEAL, esPECially conSIDering the QUALity.</li>
+        <li value="10" id="">it's a GOOD DEAL, esPECially conSIDering the QUALity.</li>
         <li className="list-none margin-bottom-20">Đó là một giao dịch tốt, đặc biệt khi xét đến chất lượng.</li>
 
       </ol>

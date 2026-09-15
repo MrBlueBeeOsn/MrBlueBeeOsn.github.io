@@ -26,6 +26,53 @@ export default function THORoughly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>THORoughly</strong>" (một cách kỹ lưỡng, hoàn toàn) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function THORoughly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i THORoughly enJOYed the CONcert LAST NIGHT.</li>
+        <li value="1" id="">i THORoughly enJOYed the CONcert LAST NIGHT.</li>
         <li className="list-none margin-bottom-20">Tôi đã thưởng thức buổi hòa nhạc tối qua một cách trọn vẹn.</li>
 
-        <li value="2">be<strong>fore</strong> we MOVE IN, we NEED to THORoughly CLEAN the HOUSE.</li>
+        <li value="2" id="">be<strong>fore</strong> we MOVE IN, we NEED to THORoughly CLEAN the HOUSE.</li>
         <li className="list-none margin-bottom-20">Trước khi chuyển vào, chúng ta cần dọn dẹp nhà cửa thật kỹ lưỡng.</li>
 
-        <li value="3">the poLICE are THORoughly inVEStigating the CRIME SCENE.</li>
+        <li value="3" id="">the poLICE are THORoughly inVEStigating the CRIME SCENE.</li>
         <li className="list-none margin-bottom-20">Cảnh sát đang điều tra hiện trường vụ án một cách kỹ lưỡng.</li>
 
-        <li value="4">i am THORoughly conVINCEd of his INnocence.</li>
+        <li value="4" id="">i am THORoughly conVINCEd of his INnocence.</li>
         <li className="list-none margin-bottom-20">Tôi hoàn toàn tin chắc vào sự vô tội của anh ấy.</li>
 
-        <li value="5">MAKE SURE the inGREdients are THORoughly MIXED be<strong>fore</strong> BAking.</li>
+        <li value="5" id="">MAKE SURE the inGREdients are THORoughly MIXED be<strong>fore</strong> BAking.</li>
         <li className="list-none margin-bottom-20">Hãy chắc chắn trộn đều các nguyên liệu trước khi nướng.</li>
 
-        <li value="6">the NEW PROduct has been THORoughly TESted be<strong>fore</strong> being reLEASed.</li>
+        <li value="6" id="">the NEW PROduct has been THORoughly TESted be<strong>fore</strong> being reLEASed.</li>
         <li className="list-none margin-bottom-20">Sản phẩm mới đã được kiểm tra kỹ lưỡng trước khi được tung ra thị trường.</li>
 
-        <li value="7">the CIty's SKYline is THORoughly MODern.</li>
+        <li value="7" id="">the CIty's SKYline is THORoughly MODern.</li>
         <li className="list-none margin-bottom-20">Đường chân trời của thành phố rất hiện đại.</li>
 
-        <li value="8">i was THORoughly disGUSTed by his beHAvior.</li>
+        <li value="8" id="">i was THORoughly disGUSTed by his beHAvior.</li>
         <li className="list-none margin-bottom-20">Tôi cảm thấy ghê tởm tột độ trước hành vi của anh ta.</li>
 
-        <li value="9">she was THORoughly prePARED for the exAM.</li>
+        <li value="9" id="">she was THORoughly prePARED for the exAM.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã chuẩn bị rất kỹ cho kỳ thi.</li>
 
-        <li value="10">i THINK i THORoughly underSTAND the CONcept NOW.</li>
+        <li value="10" id="">i THINK i THORoughly underSTAND the CONcept NOW.</li>
         <li className="list-none margin-bottom-20">Tôi nghĩ giờ thì tôi đã hiểu rõ khái niệm này rồi.</li>
 
       </ol>

@@ -26,6 +26,53 @@ export default function PAtiently2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>PAtiently</strong>" (một cách kiên nhẫn) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function PAtiently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she PAtiently WAITed for her TURN.</li>
+        <li value="1" id="">she PAtiently WAITed for her TURN.</li>
         <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn chờ đến lượt mình.</li>
 
-        <li value="2">he PAtiently LIStened to the LONG explaNAtion.</li>
+        <li value="2" id="">he PAtiently LIStened to the LONG explaNAtion.</li>
         <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn lắng nghe lời giải thích dài dòng.</li>
 
-        <li value="3">the TEAcher PAtiently exPLAINED the LESson aGAIN.</li>
+        <li value="3" id="">the TEAcher PAtiently exPLAINED the LESson aGAIN.</li>
         <li className="list-none margin-bottom-20">Giáo viên kiên nhẫn giải thích lại bài học.</li>
 
-        <li value="4">she PAtiently TAUGHT her CHILD HOW to READ.</li>
+        <li value="4" id="">she PAtiently TAUGHT her CHILD HOW to READ.</li>
         <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn dạy con mình đọc.</li>
 
-        <li value="5">they PAtiently WORKED on the DIFficult PROJect.</li>
+        <li value="5" id="">they PAtiently WORKED on the DIFficult PROJect.</li>
         <li className="list-none margin-bottom-20">Họ kiên nhẫn làm việc cho dự án khó khăn.</li>
 
-        <li value="6">he PAtiently enDURED the PAIN.</li>
+        <li value="6" id="">he PAtiently enDURED the PAIN.</li>
         <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn chịu đựng cơn đau.</li>
 
-        <li value="7">the TOUR GUIDE PAtiently GUIded the GROUP through the muSEum.</li>
+        <li value="7" id="">the TOUR GUIDE PAtiently GUIded the GROUP through the muSEum.</li>
         <li className="list-none margin-bottom-20">Hướng dẫn viên du lịch kiên nhẫn hướng dẫn đoàn qua viện bảo tàng.</li>
 
-        <li value="8">the SCIentist PAtiently obSERVED the exPERiment.</li>
+        <li value="8" id="">the SCIentist PAtiently obSERVED the exPERiment.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học kiên nhẫn quan sát thí nghiệm.</li>
 
-        <li value="9">she PAtiently corRECted the STUdent's misTAKES.</li>
+        <li value="9" id="">she PAtiently corRECted the STUdent's misTAKES.</li>
         <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn sửa lỗi cho học sinh.</li>
 
-        <li value="10">they PAtiently NURtured the YOUNG PLANTS.</li>
+        <li value="10" id="">they PAtiently NURtured the YOUNG PLANTS.</li>
         <li className="list-none margin-bottom-20">Họ kiên nhẫn nuôi dưỡng những cây non.</li>
 
       </ol>

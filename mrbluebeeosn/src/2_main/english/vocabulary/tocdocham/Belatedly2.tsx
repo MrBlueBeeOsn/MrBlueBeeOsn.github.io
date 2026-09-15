@@ -26,6 +26,53 @@ export default function beLAtedly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>beLAtedly</strong>" (một cách muộn màng) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function beLAtedly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">he beLAtedly REalized he had forGOTten his WALlet.</li>
+        <li value="1" id="">he beLAtedly REalized he had forGOTten his WALlet.</li>
         <li className="list-none margin-bottom-20">Anh ấy muộn màng nhận ra mình đã quên ví.</li>
 
-        <li value="2">she beLAtedly aPOLogized for her RUDE beHAVior.</li>
+        <li value="2" id="">she beLAtedly aPOLogized for her RUDE beHAVior.</li>
         <li className="list-none margin-bottom-20">Cô ấy muộn màng xin lỗi vì hành vi thô lỗ của mình.</li>
 
-        <li value="3">they beLAtedly arRIVED at the MEEting due to TRAFfic.</li>
+        <li value="3" id="">they beLAtedly arRIVED at the MEEting due to TRAFfic.</li>
         <li className="list-none margin-bottom-20">Họ đến cuộc họp một cách muộn màng do tắc đường.</li>
 
-        <li value="4">he beLAtedly SENT the BIRTHday CARD, WEEKS <strong>af</strong>ter the ACtual DATE.</li>
+        <li value="4" id="">he beLAtedly SENT the BIRTHday CARD, WEEKS <strong>af</strong>ter the ACtual DATE.</li>
         <li className="list-none margin-bottom-20">Anh ấy gửi thiệp sinh nhật một cách muộn màng, vài tuần sau ngày sinh nhật thật.</li>
 
-        <li value="5">she beLAtedly reSPONded to his EMail <strong>af</strong>ter a LONG deLAY.</li>
+        <li value="5" id="">she beLAtedly reSPONded to his EMail <strong>af</strong>ter a LONG deLAY.</li>
         <li className="list-none margin-bottom-20">Cô ấy trả lời email của anh ấy một cách muộn màng sau một thời gian dài trì hoãn.</li>
 
-        <li value="6">they beLAtedly conGRATulated the NEW PArents on the BIRTH of their BAby.</li>
+        <li value="6" id="">they beLAtedly conGRATulated the NEW PArents on the BIRTH of their BAby.</li>
         <li className="list-none margin-bottom-20">Họ muộn màng chúc mừng cặp vợ chồng mới sinh em bé.</li>
 
-        <li value="7">the COMpany beLAtedly acKNOWledged the ERror in their PRODuct.</li>
+        <li value="7" id="">the COMpany beLAtedly acKNOWledged the ERror in their PRODuct.</li>
         <li className="list-none margin-bottom-20">Công ty muộn màng thừa nhận lỗi trong sản phẩm của họ.</li>
 
-        <li value="8">they beLAtedly disCOVered the MISSing DOCuments.</li>
+        <li value="8" id="">they beLAtedly disCOVered the MISSing DOCuments.</li>
         <li className="list-none margin-bottom-20">Họ muộn màng phát hiện ra những tài liệu bị thiếu.</li>
 
-        <li value="9">he beLAtedly UNderSTOOD the MEANing of her CRYPtic MESsage.</li>
+        <li value="9" id="">he beLAtedly UNderSTOOD the MEANing of her CRYPtic MESsage.</li>
         <li className="list-none margin-bottom-20">Anh ấy muộn màng hiểu ra ý nghĩa của tin nhắn khó hiểu của cô ấy.</li>
 
-        <li value="10">the COMpany beLAtedly OFfered compenSAtion to the afFECted CUStomers.</li>
+        <li value="10" id="">the COMpany beLAtedly OFfered compenSAtion to the afFECted CUStomers.</li>
         <li className="list-none margin-bottom-20">Công ty muộn màng đề nghị bồi thường cho những khách hàng bị ảnh hưởng.</li>
 
       </ol>

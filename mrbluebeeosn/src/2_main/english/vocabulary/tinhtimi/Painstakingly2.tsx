@@ -26,6 +26,53 @@ export default function PAINStakingly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>PAINStakingly</strong>" (một cách tỉ mỉ) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function PAINStakingly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the SCIentists PAINStakingly reSEARCHED the efFECTS of the NEW DRUG.</li>
+        <li value="1" id="">the SCIentists PAINStakingly reSEARCHED the efFECTS of the NEW DRUG.</li>
         <li className="list-none margin-bottom-20">Các nhà khoa học nghiên cứu một cách tỉ mỉ tác dụng của loại thuốc mới.</li>
 
-        <li value="2">the DAta was PAINStakingly ANalyzed to FIND any PATterns.</li>
+        <li value="2" id="">the DAta was PAINStakingly ANalyzed to FIND any PATterns.</li>
         <li className="list-none margin-bottom-20">Dữ liệu được phân tích một cách tỉ mỉ để tìm ra bất kỳ mẫu nào.</li>
 
-        <li value="3">the ARtist PAINStakingly creAted the INtricate SCULPture.</li>
+        <li value="3" id="">the ARtist PAINStakingly creAted the INtricate SCULPture.</li>
         <li className="list-none margin-bottom-20">Nghệ sĩ tạo ra tác phẩm điêu khắc phức tạp một cách tỉ mỉ.</li>
 
-        <li value="4">the TEAM PAINStakingly PLANNED the eVent to enSURE its sucCESS.</li>
+        <li value="4" id="">the TEAM PAINStakingly PLANNED the eVent to enSURE its sucCESS.</li>
         <li className="list-none margin-bottom-20">Nhóm lên kế hoạch cho sự kiện một cách tỉ mỉ để đảm bảo thành công.</li>
 
-        <li value="5">the oRIGinal CAR was PAINStakingly reSTORED to its oRIGinal conDItion.</li>
+        <li value="5" id="">the oRIGinal CAR was PAINStakingly reSTORED to its oRIGinal conDItion.</li>
         <li className="list-none margin-bottom-20">Chiếc xe cổ được phục hồi về tình trạng ban đầu một cách tỉ mỉ.</li>
 
-        <li value="6">the hisTORian PAINStakingly DOCumented the eVents of the WAR.</li>
+        <li value="6" id="">the hisTORian PAINStakingly DOCumented the eVents of the WAR.</li>
         <li className="list-none margin-bottom-20">Nhà sử học ghi chép các sự kiện của cuộc chiến một cách tỉ mỉ.</li>
 
-        <li value="7">the deTECtive PAINStakingly exAMined the CRIME SCENE.</li>
+        <li value="7" id="">the deTECtive PAINStakingly exAMined the CRIME SCENE.</li>
         <li className="list-none margin-bottom-20">Thám tử kiểm tra hiện trường vụ án một cách tỉ mỉ.</li>
 
-        <li value="8">the LAWyer PAINStakingly reVIEWED the CONtract.</li>
+        <li value="8" id="">the LAWyer PAINStakingly reVIEWED the CONtract.</li>
         <li className="list-none margin-bottom-20">Luật sư xem xét hợp đồng một cách tỉ mỉ.</li>
 
-        <li value="9">the mOdel AIRplane was PAINStakingly asSEMbled over SEVEral WEEks.</li>
+        <li value="9" id="">the mOdel AIRplane was PAINStakingly asSEMbled over SEVEral WEEks.</li>
         <li className="list-none margin-bottom-20">Mô hình máy bay được lắp ráp một cách tỉ mỉ trong vài tuần.</li>
 
-        <li value="10">the eVent was PAINStakingly ORganized to enSURE a SMOOTH exPErience.</li>
+        <li value="10" id="">the eVent was PAINStakingly ORganized to enSURE a SMOOTH exPErience.</li>
         <li className="list-none margin-bottom-20">Sự kiện được tổ chức một cách tỉ mỉ để đảm bảo trải nghiệm suôn sẻ.</li>
 
       </ol>

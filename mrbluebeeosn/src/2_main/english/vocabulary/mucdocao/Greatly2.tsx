@@ -26,6 +26,53 @@ export default function GREATly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>GREATly</strong>" (rất nhiều, rất lớn) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function GREATly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">your HELP is GREATly apPREciated.</li>
+        <li value="1" id="">your HELP is GREATly apPREciated.</li>
         <li className="list-none margin-bottom-20">Tôi rất biết ơn sự giúp đỡ của bạn.</li>
 
-        <li value="2">his HEALTH has GREATly imPROVED since he STARTed EXercising.</li>
+        <li value="2" id="">his HEALTH has GREATly imPROVED since he STARTed EXercising.</li>
         <li className="list-none margin-bottom-20">Sức khỏe của anh ấy đã cải thiện đáng kể kể từ khi anh ấy bắt đầu tập thể dục.</li>
 
-        <li value="3">his PARents GREATly INfluenced his deCISion.</li>
+        <li value="3" id="">his PARents GREATly INfluenced his deCISion.</li>
         <li className="list-none margin-bottom-20">Cha mẹ anh ấy đã ảnh hưởng rất lớn đến quyết định của anh ấy.</li>
 
-        <li value="4">she is GREATly adMIred for her COURage.</li>
+        <li value="4" id="">she is GREATly adMIred for her COURage.</li>
         <li className="list-none margin-bottom-20">Cô ấy được rất nhiều người ngưỡng mộ vì sự dũng cảm của mình.</li>
 
-        <li value="5">the PRICE of the PRODuct has been GREATly reDUCED.</li>
+        <li value="5" id="">the PRICE of the PRODuct has been GREATly reDUCED.</li>
         <li className="list-none margin-bottom-20">Giá của sản phẩm đã giảm đáng kể.</li>
 
-        <li value="6">SALES have GREATly inCREASED since the NEW MARketing camPAIGN.</li>
+        <li value="6" id="">SALES have GREATly inCREASED since the NEW MARketing camPAIGN.</li>
         <li className="list-none margin-bottom-20">Doanh số đã tăng lên đáng kể kể từ khi chiến dịch tiếp thị mới được triển khai.</li>
 
-        <li value="7">i am GREATly conCERNED about the enVIronment.</li>
+        <li value="7" id="">i am GREATly conCERNED about the enVIronment.</li>
         <li className="list-none margin-bottom-20">Tôi rất lo lắng về môi trường.</li>
 
-        <li value="8">i was GREATly disapPOINTed with the reSULTS.</li>
+        <li value="8" id="">i was GREATly disapPOINTed with the reSULTS.</li>
         <li className="list-none margin-bottom-20">Tôi rất thất vọng với kết quả.</li>
 
-        <li value="9">the STORy was GREATly exAGgerated.</li>
+        <li value="9" id="">the STORy was GREATly exAGgerated.</li>
         <li className="list-none margin-bottom-20">Câu chuyện đã bị phóng đại quá mức.</li>
 
-        <li value="10">he has GREATly BENefited from the NEW PROgram.</li>
+        <li value="10" id="">he has GREATly BENefited from the NEW PROgram.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã được lợi rất nhiều từ chương trình mới.</li>
 
       </ol>

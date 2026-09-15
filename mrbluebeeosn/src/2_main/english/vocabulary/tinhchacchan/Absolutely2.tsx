@@ -26,6 +26,53 @@ export default function ABsolutely2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ABsolutely</strong>" (hoàn toàn, tuyệt đối) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function ABsolutely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i am ABsolutely CERtain that he will WIN the RACE.</li>
+        <li value="1" id="">i am ABsolutely CERtain that he will WIN the RACE.</li>
         <li className="list-none margin-bottom-20">Tôi hoàn toàn chắc chắn rằng anh ấy sẽ thắng cuộc đua.</li>
 
-        <li value="2">it is ABsolutely NECessary to HAVE a PASSport to TRAVel abROAD.</li>
+        <li value="2" id="">it is ABsolutely NECessary to HAVE a PASSport to TRAVel abROAD.</li>
         <li className="list-none margin-bottom-20">Cần phải có hộ chiếu để đi du lịch nước ngoài là điều hoàn toàn cần thiết.</li>
 
-        <li value="3">you are ABsolutely RIGHT about that.</li>
+        <li value="3" id="">you are ABsolutely RIGHT about that.</li>
         <li className="list-none margin-bottom-20">Bạn hoàn toàn đúng về điều đó.</li>
 
-        <li value="4">i ABsolutely LOVE CHOCOLate ICE CREAM.</li>
+        <li value="4" id="">i ABsolutely LOVE CHOCOLate ICE CREAM.</li>
         <li className="list-none margin-bottom-20">Tôi rất thích kem sô cô la.</li>
 
-        <li value="5">i ABsolutely HATE SPIders.</li>
+        <li value="5" id="">i ABsolutely HATE SPIders.</li>
         <li className="list-none margin-bottom-20">Tôi ghét rắn độc.</li>
 
-        <li value="6">he SUNset was ABsolutely BEAUtiful.</li>
+        <li value="6" id="">he SUNset was ABsolutely BEAUtiful.</li>
         <li className="list-none margin-bottom-20">Hoàng hôn thật đẹp.</li>
 
-        <li value="7">the CAKE was ABsolutely PERfect.</li>
+        <li value="7" id="">the CAKE was ABsolutely PERfect.</li>
         <li className="list-none margin-bottom-20">Chiếc bánh thật hoàn hảo.</li>
 
-        <li value="8">what he SAID was ABsolutely TRUE.</li>
+        <li value="8" id="">what he SAID was ABsolutely TRUE.</li>
         <li className="list-none margin-bottom-20">Những gì anh ấy nói hoàn toàn đúng sự thật.</li>
 
-        <li value="9">i am ABsolutely conVINCED that she is INnocent.</li>
+        <li value="9" id="">i am ABsolutely conVINCED that she is INnocent.</li>
         <li className="list-none margin-bottom-20">Tôi hoàn toàn tin rằng cô ấy vô tội.</li>
 
-        <li value="10"><strong>af</strong>ter the MARathon, i was ABsolutely exHAUSTed.</li>
+        <li value="10" id=""><strong>af</strong>ter the MARathon, i was ABsolutely exHAUSTed.</li>
         <li className="list-none margin-bottom-20">Sau cuộc đua marathon, tôi mệt mỏi rã rời.</li>
 
       </ol>

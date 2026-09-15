@@ -26,6 +26,53 @@ export default function sucCESSfully2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>sucCESSfully</strong>" (một cách thành công) và các cụm từ thường đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function sucCESSfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the PROJect was sucCESSfully comPLEted on TIME.</li>
+        <li value="1" id="">the PROJect was sucCESSfully comPLEted on TIME.</li>
         <li className="list-none margin-bottom-20">Dự án đã được hoàn thành đúng hạn.</li>
 
-        <li value="2">the NEW PRODuct was sucCESSfully LAUNCHED in the MARket.</li>
+        <li value="2" id="">the NEW PRODuct was sucCESSfully LAUNCHED in the MARket.</li>
         <li className="list-none margin-bottom-20">Sản phẩm mới đã được ra mắt thành công trên thị trường.</li>
 
-        <li value="3">the NEW POLicy was sucCESSfully IMplemented.</li>
+        <li value="3" id="">the NEW POLicy was sucCESSfully IMplemented.</li>
         <li className="list-none margin-bottom-20">Chính sách mới đã được thực hiện thành công.</li>
 
-        <li value="4">the CONtract was sucCESSfully neGOtiated.</li>
+        <li value="4" id="">the CONtract was sucCESSfully neGOtiated.</li>
         <li className="list-none margin-bottom-20">Hợp đồng đã được thương lượng thành công.</li>
 
-        <li value="5">she sucCESSfully aDAPted to the NEW enVIronment.</li>
+        <li value="5" id="">she sucCESSfully aDAPted to the NEW enVIronment.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã thích nghi thành công với môi trường mới.</li>
 
-        <li value="6">the CAStle was sucCESSfully deFENded against the atTACK.</li>
+        <li value="6" id="">the CAStle was sucCESSfully deFENded against the atTACK.</li>
         <li className="list-none margin-bottom-20">Lâu đài đã được bảo vệ thành công trước cuộc tấn công.</li>
 
-        <li value="7">he sucCESSfully reCOVered from the ILLness.</li>
+        <li value="7" id="">he sucCESSfully reCOVered from the ILLness.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã hồi phục hoàn toàn sau cơn bệnh.</li>
 
-        <li value="8">the NEW SYStem was sucCESSfully INtegrated into the exISTing one.</li>
+        <li value="8" id="">the NEW SYStem was sucCESSfully INtegrated into the exISTing one.</li>
         <li className="list-none margin-bottom-20">Hệ thống mới đã được tích hợp thành công vào hệ thống hiện có.</li>
 
-        <li value="9">she sucCESSfully overCAME her FEAR of PUBlic SPEAKing.</li>
+        <li value="9" id="">she sucCESSfully overCAME her FEAR of PUBlic SPEAKing.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã vượt qua nỗi sợ nói trước đám đông một cách thành công.</li>
 
-        <li value="10">he sucCESSfully perSUADed her to CHANGE her MIND.</li>
+        <li value="10" id="">he sucCESSfully perSUADed her to CHANGE her MIND.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã thuyết phục cô ấy thay đổi ý kiến một cách thành công.</li>
 
       </ol>

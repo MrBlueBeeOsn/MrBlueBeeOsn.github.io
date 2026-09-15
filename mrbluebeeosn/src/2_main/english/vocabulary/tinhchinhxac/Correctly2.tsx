@@ -26,6 +26,53 @@ export default function corRECTly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>corRECTly</strong>" (một cách chính xác) và các cụm từ thường đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function corRECTly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the deTECtive corRECTly iDENtified the SUSpect.</li>
+        <li value="1" id="">the deTECtive corRECTly iDENtified the SUSpect.</li>
         <li className="list-none margin-bottom-20">Thám tử đã nhận dạng chính xác nghi phạm.</li>
 
-        <li value="2">she corRECTly ANswered all theQUEStions on the TEST.</li>
+        <li value="2" id="">she corRECTly ANswered all theQUEStions on the TEST.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã trả lời chính xác tất cả các câu hỏi trong bài kiểm tra.</li>
 
-        <li value="3">the MESsage was corRECTly inTERpreted by the reCEIver.</li>
+        <li value="3" id="">the MESsage was corRECTly inTERpreted by the reCEIver.</li>
         <li className="list-none margin-bottom-20">Thông điệp đã được người nhận diễn giải chính xác.</li>
 
-        <li value="4">he corRECTly SPELLED <strong>ever</strong>y WORD on the LIST.</li>
+        <li value="4" id="">he corRECTly SPELLED <strong>ever</strong>y WORD on the LIST.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã viết chính tả đúng mọi từ trong danh sách.</li>
 
-        <li value="5">the engiNEER corRECTly CALculated the LOAD-BEARing caPACity of the BRIDGE.</li>
+        <li value="5" id="">the engiNEER corRECTly CALculated the LOAD-BEARing caPACity of the BRIDGE.</li>
         <li className="list-none margin-bottom-20">Kỹ sư đã tính toán chính xác khả năng chịu tải của cây cầu.</li>
 
-        <li value="6">the RULES were corRECTly apPLIED in this CASE.</li>
+        <li value="6" id="">the RULES were corRECTly apPLIED in this CASE.</li>
         <li className="list-none margin-bottom-20">Quy tắc đã được áp dụng chính xác trong trường hợp này.</li>
 
-        <li value="7">the DOCtor corRECTly DIagnosed the PAtient's ILLness.</li>
+        <li value="7" id="">the DOCtor corRECTly DIagnosed the PAtient's ILLness.</li>
         <li className="list-none margin-bottom-20">Bác sĩ đã chẩn đoán chính xác bệnh của bệnh nhân.</li>
 
-        <li value="8">the CHESS PIEces were corRECTly poSITioned on the BOARD.</li>
+        <li value="8" id="">the CHESS PIEces were corRECTly poSITioned on the BOARD.</li>
         <li className="list-none margin-bottom-20">Các quân cờ đã được đặt đúng vị trí trên bàn cờ.</li>
 
-        <li value="9">the SCIentist corRECTly MEASured the TEMPERature of the soLUtion.</li>
+        <li value="9" id="">the SCIentist corRECTly MEASured the TEMPERature of the soLUtion.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học đã đo chính xác nhiệt độ của dung dịch.</li>
 
-        <li value="10">the inSTRUCtions were corRECTly underSTOOD by ALL the parTICipants.</li>
+        <li value="10" id="">the inSTRUCtions were corRECTly underSTOOD by ALL the parTICipants.</li>
         <li className="list-none margin-bottom-20">Hướng dẫn đã được tất cả người tham gia hiểu chính xác.</li>
 
       </ol>

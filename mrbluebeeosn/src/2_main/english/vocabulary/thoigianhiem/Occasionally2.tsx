@@ -26,6 +26,53 @@ export default function ocCAsionally2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ocCAsionally</strong>" (thỉnh thoảng) và các cụm từ thường đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function ocCAsionally2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she ocCAsionally FEELS LONEly, even though she HAS <strong>man</strong>y FRIENDS.</li>
+        <li value="1" id="">she ocCAsionally FEELS LONEly, even though she HAS <strong>man</strong>y FRIENDS.</li>
         <li className="list-none margin-bottom-20">Cô ấy thỉnh thoảng cảm thấy cô đơn, mặc dù có nhiều bạn bè.</li>
 
-        <li value="2">it ocCAsionally RAINS in the DESert.</li>
+        <li value="2" id="">it ocCAsionally RAINS in the DESert.</li>
         <li className="list-none margin-bottom-20">Sa mạc thỉnh thoảng cũng có mưa.</li>
 
-        <li value="3">my GRANDparents ocCAsionally VISits us on WEEKends.</li>
+        <li value="3" id="">my GRANDparents ocCAsionally VISits us on WEEKends.</li>
         <li className="list-none margin-bottom-20">Ông bà tôi thỉnh thoảng đến thăm chúng tôi vào cuối tuần.</li>
 
-        <li value="4">he ocCAsionally EATS SPIcy FOOD, but he DOESn't LIKE it VERy MUCH.</li>
+        <li value="4" id="">he ocCAsionally EATS SPIcy FOOD, but he DOESn't LIKE it VERy MUCH.</li>
         <li className="list-none margin-bottom-20">Anh ấy thỉnh thoảng ăn đồ cay, nhưng không thích lắm.</li>
 
-        <li value="5">she ocCAsionally WORKS from HOME when she's FEELing under the WEATHer.</li>
+        <li value="5" id="">she ocCAsionally WORKS from HOME when she's FEELing under the WEATHer.</li>
         <li className="list-none margin-bottom-20">Cô ấy thỉnh thoảng làm việc tại nhà khi không khỏe.</li>
 
-        <li value="6">he ocCAsionally PLAYS the piANo for FUN.</li>
+        <li value="6" id="">he ocCAsionally PLAYS the piANo for FUN.</li>
         <li className="list-none margin-bottom-20">Anh ấy thỉnh thoảng chơi piano để giải trí.</li>
 
-        <li value="7">i ocCAsionally forGET PEOple's NAMES.</li>
+        <li value="7" id="">i ocCAsionally forGET PEOple's NAMES.</li>
         <li className="list-none margin-bottom-20">Tôi thỉnh thoảng quên tên người khác.</li>
 
-        <li value="8">she ocCAsionally NEEDS HELP with her HOMEwork.</li>
+        <li value="8" id="">she ocCAsionally NEEDS HELP with her HOMEwork.</li>
         <li className="list-none margin-bottom-20">Cô ấy thỉnh thoảng cần giúp đỡ bài tập về nhà.</li>
 
-        <li value="9">he ocCAsionally TALKS about his CHILDhood.</li>
+        <li value="9" id="">he ocCAsionally TALKS about his CHILDhood.</li>
         <li className="list-none margin-bottom-20">Anh ấy thỉnh thoảng nói về tuổi thơ của mình.</li>
 
-        <li value="10">they ocCAsionally TRAVel to EURope in the SUMmer.</li>
+        <li value="10" id="">they ocCAsionally TRAVel to EURope in the SUMmer.</li>
         <li className="list-none margin-bottom-20">Họ thỉnh thoảng đi du lịch châu Âu vào mùa hè.</li>
 
       </ol>

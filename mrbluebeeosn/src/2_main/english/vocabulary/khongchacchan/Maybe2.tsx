@@ -26,6 +26,53 @@ export default function MAYbe2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>MAYbe</strong>" (có lẽ) trong tiếng Anh nhé.</p>
@@ -56,34 +103,34 @@ export default function MAYbe2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">let's meeT UP for COFfee MAYbe LAter.</li>
+        <li value="1" id="">let's meeT UP for COFfee MAYbe LAter.</li>
         <li className="list-none margin-bottom-20">Chúng ta có thể gặp nhau uống cà phê sau nhé.</li>
 
-        <li value="2">i'm NOT SURE if i can MAKE it. MAYbe NOT.</li>
+        <li value="2" id="">i'm NOT SURE if i can MAKE it. MAYbe NOT.</li>
         <li className="list-none margin-bottom-20">Tôi không chắc liệu tôi có đến được không. Có lẽ là không.</li>
 
-        <li value="3">you're RIGHT. MAYbe SO.</li>
+        <li value="3" id="">you're RIGHT. MAYbe SO.</li>
         <li className="list-none margin-bottom-20">Bạn đúng rồi. Có lẽ vậy.</li>
 
-        <li value="4">MAYbe if i STUDy HARder, i can PASS the eXAM.</li>
+        <li value="4" id="">MAYbe if i STUDy HARder, i can PASS the eXAM.</li>
         <li className="list-none margin-bottom-20">Có lẽ nếu tôi học chăm chỉ hơn, tôi có thể vượt qua kỳ thi.</li>
 
-        <li value="5">i DON'T KNOW WHAT to DO. should i STAY or MAYbe GO?</li>
+        <li value="5" id="">i DON'T KNOW WHAT to DO. should i STAY or MAYbe GO?</li>
         <li className="list-none margin-bottom-20">Tôi không biết phải làm gì. Tôi nên ở lại hay có lẽ nên đi?</li>
 
         <li value="6">JUST MAYbe, he'll CHANGE his MIND.</li>
         <li className="list-none margin-bottom-20">Có lẽ chỉ là anh ấy sẽ thay đổi ý kiến.</li>
 
-        <li value="7">MAYbe SOMEday i'll VISit jaPAN.</li>
+        <li value="7" id="">MAYbe SOMEday i'll VISit jaPAN.</li>
         <li className="list-none margin-bottom-20">Có lẽ một ngày nào đó tôi sẽ đến Nhật Bản.</li>
 
-        <li value="8">MAYbe it's be<strong>cause</strong> i'm TIred.</li>
+        <li value="8" id="">MAYbe it's be<strong>cause</strong> i'm TIred.</li>
         <li className="list-none margin-bottom-20">Có lẽ là vì tôi mệt mỏi.</li>
 
-        <li value="9">i'm NOT SURE, MAYbe we should LEAVE NOW.</li>
+        <li value="9" id="">i'm NOT SURE, MAYbe we should LEAVE NOW.</li>
         <li className="list-none margin-bottom-20">Tôi không chắc, có lẽ chúng ta nên đi bây giờ.</li>
 
-        <li value="10">i THINK MAYbe she's upSET.</li>
+        <li value="10" id="">i THINK MAYbe she's upSET.</li>
         <li className="list-none margin-bottom-20">Tôi nghĩ có lẽ cô ấy đang buồn.</li>
 
       </ol>

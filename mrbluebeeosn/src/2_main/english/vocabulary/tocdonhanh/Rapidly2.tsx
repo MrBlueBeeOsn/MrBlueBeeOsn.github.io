@@ -26,6 +26,53 @@ export default function RAPidly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>RAPidly</strong>" (một cách nhanh chóng) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function RAPidly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the CITy's popuLAtion is RAPidly GROWing.</li>
+        <li value="1" id="">the CITy's popuLAtion is RAPidly GROWing.</li>
         <li className="list-none margin-bottom-20">Dân số thành phố đang tăng trưởng nhanh chóng.</li>
 
-        <li value="2">the WORLD is RAPidly CHANging due to technoLOGical adVANCEments.</li>
+        <li value="2" id="">the WORLD is RAPidly CHANging due to technoLOGical adVANCEments.</li>
         <li className="list-none margin-bottom-20">Thế giới đang thay đổi nhanh chóng do sự phát triển của công nghệ.</li>
 
-        <li value="3">the disEASE is RAPidly SPREADing throughout the COUNtry.</li>
+        <li value="3" id="">the disEASE is RAPidly SPREADing throughout the COUNtry.</li>
         <li className="list-none margin-bottom-20">Bệnh đang lan rộng nhanh chóng khắp cả nước.</li>
 
-        <li value="4">the NUMber of enDANgered SPEcies is RAPidly deCLINing.</li>
+        <li value="4" id="">the NUMber of enDANgered SPEcies is RAPidly deCLINing.</li>
         <li className="list-none margin-bottom-20">Số lượng các loài động vật có nguy cơ tuyệt chủng đang giảm nhanh chóng.</li>
 
-        <li value="5">techNOlogy is RAPidly eVOLVing, MAKing our LIVES EAsier.</li>
+        <li value="5" id="">techNOlogy is RAPidly eVOLVing, MAKing our LIVES EAsier.</li>
         <li className="list-none margin-bottom-20">Công nghệ đang phát triển nhanh chóng, giúp cuộc sống của chúng ta dễ dàng hơn.</li>
 
-        <li value="6">the DEADline is RAPidly apPROACHing.</li>
+        <li value="6" id="">the DEADline is RAPidly apPROACHing.</li>
         <li className="list-none margin-bottom-20">Hạn chót đang đến gần.</li>
 
-        <li value="7">the COMpany is RAPidly exPANding into NEW MARkets.</li>
+        <li value="7" id="">the COMpany is RAPidly exPANding into NEW MARkets.</li>
         <li className="list-none margin-bottom-20">Công ty đang mở rộng nhanh chóng vào các thị trường mới.</li>
 
-        <li value="8">the OLD BUILDing is RAPidly deTERiorating.</li>
+        <li value="8" id="">the OLD BUILDing is RAPidly deTERiorating.</li>
         <li className="list-none margin-bottom-20">Tòa nhà cũ đang xuống cấp nhanh chóng.</li>
 
-        <li value="9">the CAR RAPidly acCELerated down the HIGHway.</li>
+        <li value="9" id="">the CAR RAPidly acCELerated down the HIGHway.</li>
         <li className="list-none margin-bottom-20">Chiếc xe tăng tốc nhanh chóng trên đường cao tốc.</li>
 
-        <li value="10">the RAINforest is RAPidly disapPEARing due to deforesTAtion.</li>
+        <li value="10" id="">the RAINforest is RAPidly disapPEARing due to deforesTAtion.</li>
         <li className="list-none margin-bottom-20">Rừng nhiệt đới đang biến mất nhanh chóng do nạn phá rừng.</li>
 
       </ol>

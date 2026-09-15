@@ -26,6 +26,53 @@ export default function proDUCtively2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>proDUCtively</strong>" (một cách hiệu quả) và các cụm từ hay đi kèm nhé.</p>
@@ -56,35 +103,35 @@ export default function proDUCtively2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the TEAM WORKED proDUCtively to MEET the PROJect DEADline.</li>
+        <li value="1" id="">the TEAM WORKED proDUCtively to MEET the PROJect DEADline.</li>
         <li className="list-none margin-bottom-20">Cả đội đã làm việc một cách hiệu quả để kịp thời hạn của dự án.</li>
 
-        <li value="2">she proDUCtively USED her TIME to LEARN a NEW SKILL.</li>
+        <li value="2" id="">she proDUCtively USED her TIME to LEARN a NEW SKILL.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã sử dụng thời gian của mình một cách hiệu quả để học một kỹ năng mới.</li>
 
-        <li value="3">he proDUCtively SPENT his MORNing WRITing rePORTS.</li>
+        <li value="3" id="">he proDUCtively SPENT his MORNing WRITing rePORTS.</li>
         <li className="list-none">He productively spent his morning writing reports.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã dành buổi sáng của mình một cách hiệu quả để viết báo cáo.</li>
 
-        <li value="4">the MANager proDUCtively MANaged the TEAM'S REsources.</li>
+        <li value="4" id="">the MANager proDUCtively MANaged the TEAM'S REsources.</li>
         <li className="list-none margin-bottom-20">Người quản lý đã quản lý các nguồn lực của nhóm một cách hiệu quả.</li>
 
-        <li value="5">she proDUCtively ORganized her WORKspace to imPROVE efFICiency.</li>
+        <li value="5" id="">she proDUCtively ORganized her WORKspace to imPROVE efFICiency.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã sắp xếp không gian làm việc của mình một cách hiệu quả để nâng cao năng suất.</li>
 
-        <li value="6">the TEAM proDUCtively comMUnicated their PROGress DURing the MEEting.</li>
+        <li value="6" id="">the TEAM proDUCtively comMUnicated their PROGress DURing the MEEting.</li>
         <li className="list-none margin-bottom-20">Cả đội đã giao tiếp một cách hiệu quả về tiến độ của họ trong cuộc họp.</li>
 
-        <li value="7">the TWO dePARTments proDUCtively colLABorated on the JOINT PROJect.</li>
+        <li value="7" id="">the TWO dePARTments proDUCtively colLABorated on the JOINT PROJect.</li>
         <li className="list-none margin-bottom-20">Hai phòng ban đã hợp tác một cách hiệu quả trong dự án chung.</li>
 
-        <li value="8">he proDUCtively LEARNED the NEW SOFTware by PRACticing REGularly.</li>
+        <li value="8" id="">he proDUCtively LEARNED the NEW SOFTware by PRACticing REGularly.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã học phần mềm mới một cách hiệu quả bằng cách luyện tập thường xuyên.</li>
 
-        <li value="9">hey proDUCtively PLANNED the eVENT to enSURE everything RAN SMOOTHly.</li>
+        <li value="9" id="">hey proDUCtively PLANNED the eVENT to enSURE everything RAN SMOOTHly.</li>
         <li className="list-none margin-bottom-20">Họ đã lên kế hoạch cho sự kiện một cách hiệu quả để đảm bảo mọi thứ diễn ra suôn sẻ.</li>
 
-        <li value="10">each MEMber proDUCtively conTRIButed their SKILLS to the TEAM'S sucCESS.</li>
+        <li value="10" id="">each MEMber proDUCtively conTRIButed their SKILLS to the TEAM'S sucCESS.</li>
         <li className="list-none margin-bottom-20">Mỗi thành viên đã đóng góp kỹ năng của mình một cách hiệu quả vào thành công của đội.</li>
 
       </ol>

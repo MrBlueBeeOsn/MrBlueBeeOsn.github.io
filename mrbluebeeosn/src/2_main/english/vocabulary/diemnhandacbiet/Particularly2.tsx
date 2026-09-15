@@ -26,6 +26,53 @@ export default function parTICularly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>parTICularly</strong>" (đặc biệt) và các cụm từ thường đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function parTICularly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i am parTICularly INTERested in HISTORy.</li>
+        <li value="1" id="">i am parTICularly INTERested in HISTORy.</li>
         <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến lịch sử.</li>
 
-        <li value="2">she is parTICularly CHOCOLate.</li>
+        <li value="2" id="">she is parTICularly CHOCOLate.</li>
         <li className="list-none margin-bottom-20">Cô ấy đặc biệt thích sô cô la.</li>
 
-        <li value="3">he is parTICularly GOOD at PLAYing the piANo.</li>
+        <li value="3" id="">he is parTICularly GOOD at PLAYing the piANo.</li>
         <li className="list-none margin-bottom-20">Anh ấy đặc biệt giỏi chơi piano.</li>
 
-        <li value="4">this TASK is parTICularly CHALlenging.</li>
+        <li value="4" id="">this TASK is parTICularly CHALlenging.</li>
         <li className="list-none margin-bottom-20">Nhiệm vụ này đặc biệt khó khăn.</li>
 
-        <li value="5">this inforMAtion is parTICularly RELevant to our disCUSsion.</li>
+        <li value="5" id="">this inforMAtion is parTICularly RELevant to our disCUSsion.</li>
         <li className="list-none margin-bottom-20">Thông tin này đặc biệt liên quan đến cuộc thảo luận của chúng ta.</li>
 
-        <li value="6">the SUNset was parTICularly BEAUtiful toDAY.</li>
+        <li value="6" id="">the SUNset was parTICularly BEAUtiful toDAY.</li>
         <li className="list-none margin-bottom-20">Hoàng hôn hôm nay đặc biệt đẹp.</li>
 
-        <li value="7">it is parTICularly imPORTant to arRIVE on TIME for the MEETing.</li>
+        <li value="7" id="">it is parTICularly imPORTant to arRIVE on TIME for the MEETing.</li>
         <li className="list-none margin-bottom-20">Việc đến đúng giờ cho cuộc họp là đặc biệt quan trọng.</li>
 
-        <li value="8">this PROBlem is parTICularly DIFficult to SOLVE.</li>
+        <li value="8" id="">this PROBlem is parTICularly DIFficult to SOLVE.</li>
         <li className="list-none margin-bottom-20">Vấn đề này đặc biệt khó giải quyết.</li>
 
-        <li value="9">this MEDicine is parTICularly efFECtive for TREATing HEADaches.</li>
+        <li value="9" id="">this MEDicine is parTICularly efFECtive for TREATing HEADaches.</li>
         <li className="list-none margin-bottom-20">Thuốc này đặc biệt hiệu quả trong việc điều trị đau đầu.</li>
 
-        <li value="10">this BOOK is parTICularly SUITable for beGINners.</li>
+        <li value="10" id="">this BOOK is parTICularly SUITable for beGINners.</li>
         <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt phù hợp cho người mới bắt đầu.</li>
 
       </ol>

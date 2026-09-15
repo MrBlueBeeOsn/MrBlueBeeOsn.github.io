@@ -26,6 +26,53 @@ export default function NEVer2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>NEVer</strong>" (không bao giờ) trong tiếng Anh nhé.</p>
@@ -56,34 +103,34 @@ export default function NEVer2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i have NEVer beFORE SEEN such a BEAUtiful SUNset.</li>
+        <li value="1" id="">i have NEVer beFORE SEEN such a BEAUtiful SUNset.</li>
         <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp như vậy.</li>
 
-        <li value="2">i will NEVer aGAIN MAKE that misTAKE.</li>
+        <li value="2" id="">i will NEVer aGAIN MAKE that misTAKE.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ lặp lại sai lầm đó nữa.</li>
 
-        <li value="3">NEVer MIND, it's NOT imPORTant.</li>
+        <li value="3" id="">NEVer MIND, it's NOT imPORTant.</li>
         <li className="list-none margin-bottom-20">Thôi đi, không quan trọng đâu.</li>
 
-        <li value="4">i have NEVer SEEN such a BIG DOG.</li>
+        <li value="4" id="">i have NEVer SEEN such a BIG DOG.</li>
         <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy con chó nào to như vậy.</li>
 
-        <li value="5">i have NEVer HEARD of that BAND.</li>
+        <li value="5" id="">i have NEVer HEARD of that BAND.</li>
         <li className="list-none margin-bottom-20">Tôi chưa bao giờ nghe nói về ban nhạc đó.</li>
 
-        <li value="6">i will NEVer forGET your KINDness.</li>
+        <li value="6" id="">i will NEVer forGET your KINDness.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ quên lòng tốt của bạn.</li>
 
-        <li value="7">it's NEVer TOO LATE to LEARN SOMEthing NEW.</li>
+        <li value="7" id="">it's NEVer TOO LATE to LEARN SOMEthing NEW.</li>
         <li className="list-none margin-bottom-20">Không bao giờ là quá muộn để học điều mới.</li>
 
-        <li value="8">NEVer SAY, ANything is POSsible.</li>
+        <li value="8" id="">NEVer SAY, ANything is POSsible.</li>
         <li className="list-none margin-bottom-20">Đừng nói không bao giờ, mọi thứ đều có thể xảy ra.</li>
 
-        <li value="9">i have NEVer in my LIFE SEEN such a BEAUtiful FLOWer.</li>
+        <li value="9" id="">i have NEVer in my LIFE SEEN such a BEAUtiful FLOWer.</li>
         <li className="list-none margin-bottom-20">Tôi chưa bao giờ trong đời thấy một bông hoa đẹp như vậy.</li>
 
-        <li value="10">NEVer giVE UP on your DREAMS.</li>
+        <li value="10" id="">NEVer giVE UP on your DREAMS.</li>
         <li className="list-none margin-bottom-20">Đừng bao giờ từ bỏ ước mơ của bạn.</li>
 
       </ol>

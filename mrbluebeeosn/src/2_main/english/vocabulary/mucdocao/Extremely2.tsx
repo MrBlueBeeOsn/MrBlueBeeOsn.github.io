@@ -26,6 +26,53 @@ export default function exTREMEly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>exTREMEly</strong>" (cực kỳ) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function exTREMEly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she was exTREMEly HAPpy to SEE her FAMILy.</li>
+        <li value="1" id="">she was exTREMEly HAPpy to SEE her FAMILy.</li>
         <li className="list-none margin-bottom-20">Cô ấy rất vui khi gặp lại gia đình.</li>
 
-        <li value="2"><strong>af</strong>ter WORKing all NIGHT, he was exTREMEly TIred.</li>
+        <li value="2" id=""><strong>af</strong>ter WORKing all NIGHT, he was exTREMEly TIred.</li>
         <li className="list-none margin-bottom-20">Sau khi làm việc cả đêm, anh ấy rất mệt mỏi.</li>
 
-        <li value="3">the exAM was exTREMEly DIFficult.</li>
+        <li value="3" id="">the exAM was exTREMEly DIFficult.</li>
         <li className="list-none margin-bottom-20">Bài kiểm tra rất khó.</li>
 
-        <li value="4">it's exTREMEly DANgerous to SWIM in this RIVer.</li>
+        <li value="4" id="">it's exTREMEly DANgerous to SWIM in this RIVer.</li>
         <li className="list-none margin-bottom-20">Bơi ở con sông này rất nguy hiểm.</li>
 
-        <li value="5">she is an exTREMEly TALented muSICian.</li>
+        <li value="5" id="">she is an exTREMEly TALented muSICian.</li>
         <li className="list-none margin-bottom-20">Cô ấy là một nhạc sĩ rất tài năng.</li>
 
-        <li value="6">the SUNset was exTREMEly BEAUtiful.</li>
+        <li value="6" id="">the SUNset was exTREMEly BEAUtiful.</li>
         <li className="list-none margin-bottom-20">Hoàng hôn rất đẹp.</li>
 
-        <li value="7">he is an exTREMEly RICH BUSINessman.</li>
+        <li value="7" id="">he is an exTREMEly RICH BUSINessman.</li>
         <li className="list-none margin-bottom-20">Ông ấy là một doanh nhân rất giàu có.</li>
 
-        <li value="8">it's exTREMEly COLD outSIDE toDAY.</li>
+        <li value="8" id="">it's exTREMEly COLD outSIDE toDAY.</li>
         <li className="list-none margin-bottom-20">Trời hôm nay lạnh quá.</li>
 
-        <li value="9"><strong>af</strong>ter PLAYing SPORTS all DAY, i was exTREMEly HUNGry.</li>
+        <li value="9" id=""><strong>af</strong>ter PLAYing SPORTS all DAY, i was exTREMEly HUNGry.</li>
         <li className="list-none margin-bottom-20">Sau khi chơi thể thao cả ngày, tôi rất đói.</li>
 
-        <li value="10">she was exTREMEly ANGry when she HEARD the NEWS.</li>
+        <li value="10" id="">she was exTREMEly ANGry when she HEARD the NEWS.</li>
         <li className="list-none margin-bottom-20">Cô ấy rất tức giận khi nghe tin đó.</li>
 
       </ol>

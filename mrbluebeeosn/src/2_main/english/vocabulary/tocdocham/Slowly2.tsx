@@ -26,6 +26,53 @@ export default function SLOWly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SLOWly</strong>" (chậm rãi) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function SLOWly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she is SLOWly but SUREly MAKing PROgress in her STUDies.</li>
+        <li value="1" id="">she is SLOWly but SUREly MAKing PROgress in her STUDies.</li>
         <li className="list-none margin-bottom-20">Cô ấy đang tiến bộ trong học tập một cách chậm mà chắc.</li>
 
-        <li value="2">the SOUND of the MUsic SLOWly FADed into the NIGHT.</li>
+        <li value="2" id="">the SOUND of the MUsic SLOWly FADed into the NIGHT.</li>
         <li className="list-none margin-bottom-20">Âm thanh của nhạc dần dần mờ nhạt vào đêm.</li>
 
-        <li value="3">he is SLOWly reCOVering from his ILLness.</li>
+        <li value="3" id="">he is SLOWly reCOVering from his ILLness.</li>
         <li className="list-none margin-bottom-20">Anh ấy đang dần dần hồi phục sau khi ốm.</li>
 
-        <li value="4">the PLANT is SLOWly GROWing TALler.</li>
+        <li value="4" id="">the PLANT is SLOWly GROWing TALler.</li>
         <li className="list-none margin-bottom-20">Cây đang dần dần cao lớn hơn.</li>
 
-        <li value="5">the CLImate is SLOWly CHANging due to GLObal WARMing.</li>
+        <li value="5" id="">the CLImate is SLOWly CHANging due to GLObal WARMing.</li>
         <li className="list-none margin-bottom-20">Khí hậu đang dần dần thay đổi do biến đổi khí hậu toàn cầu.</li>
 
-        <li value="6">the SNAIL was SLOWly MOVing across the LEAF.</li>
+        <li value="6" id="">the SNAIL was SLOWly MOVing across the LEAF.</li>
         <li className="list-none margin-bottom-20">Con ốc sên di chuyển chậm chạp trên lá.</li>
 
-        <li value="7">the OLD TREE was SLOWly DYing.</li>
+        <li value="7" id="">the OLD TREE was SLOWly DYing.</li>
         <li className="list-none margin-bottom-20">Cây già đang dần dần chết.</li>
 
-        <li value="8">the SHIP was SLOWly SINKing into the OCean.</li>
+        <li value="8" id="">the SHIP was SLOWly SINKing into the OCean.</li>
         <li className="list-none margin-bottom-20">Con tàu đang dần dần chìm xuống đại dương.</li>
 
-        <li value="9">the STORM was SLOWly apPROACHing the COAST.</li>
+        <li value="9" id="">the STORM was SLOWly apPROACHing the COAST.</li>
         <li className="list-none margin-bottom-20">Cơn bão đang dần dần tiến lại gần bờ biển.</li>
 
-        <li value="10">she was SLOWly REALizing the TRUTH.</li>
+        <li value="10" id="">she was SLOWly REALizing the TRUTH.</li>
         <li className="list-none margin-bottom-20">Cô ấy đang dần dần nhận ra sự thật.</li>
 
       </ol>

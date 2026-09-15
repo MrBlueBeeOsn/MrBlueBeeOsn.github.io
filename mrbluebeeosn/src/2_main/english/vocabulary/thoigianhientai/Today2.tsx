@@ -26,6 +26,53 @@ export default function toDAY2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>toDAY</strong>" (hôm nay) trong tiếng Anh nhé.</p>
@@ -56,34 +103,34 @@ export default function toDAY2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">toDAY is MONday.</li>
+        <li value="1" id="">toDAY is MONday.</li>
         <li className="list-none margin-bottom-20">Hôm nay là thứ Hai.</li>
 
-        <li value="2">toDAY, i am GOing to the PARK.</li>
+        <li value="2" id="">toDAY, i am GOing to the PARK.</li>
         <li className="list-none margin-bottom-20">Hôm nay, tôi sẽ đi công viên.</li>
 
-        <li value="3">as of toDAY, we have SOLD ONE HUNdred PROJects.</li>
+        <li value="3" id="">as of toDAY, we have SOLD ONE HUNdred PROJects.</li>
         <li className="list-none margin-bottom-20">Tính đến hôm nay, chúng tôi đã bán được 100 sản phẩm.</li>
 
-        <li value="4">Even toDAY, <strong>man</strong>y PEOple beLIEVE in GHOSTS.</li>
+        <li value="4" id="">Even toDAY, <strong>man</strong>y PEOple beLIEVE in GHOSTS.</li>
         <li className="list-none margin-bottom-20">Ngay cả ngày nay, nhiều người vẫn tin vào ma.</li>
 
-        <li value="5">i will CALL you LAter toDAY.</li>
+        <li value="5" id="">i will CALL you LAter toDAY.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ gọi cho bạn vào cuối ngày hôm nay.</li>
 
-        <li value="6">i MET him EARlier toDAY.</li>
+        <li value="6" id="">i MET him EARlier toDAY.</li>
         <li className="list-none margin-bottom-20">Tôi gặp anh ấy sớm hơn hôm nay.</li>
 
-        <li value="7">from toDAY ONwards, i will START EXercising.</li>
+        <li value="7" id="">from toDAY ONwards, i will START EXercising.</li>
         <li className="list-none margin-bottom-20">Từ hôm nay trở đi, tôi sẽ bắt đầu tập thể dục.</li>
 
-        <li value="8">toDAY is the DAY i get MARried.</li>
+        <li value="8" id="">toDAY is the DAY i get MARried.</li>
         <li className="list-none margin-bottom-20">Hôm nay là ngày tôi kết hôn.</li>
 
-        <li value="9">up to toDAY, we have comPLEted FIFty perCENT of the PROJect.</li>
+        <li value="9" id="">up to toDAY, we have comPLEted FIFty perCENT of the PROJect.</li>
         <li className="list-none margin-bottom-20">Cho đến hôm nay, chúng tôi đã hoàn thành 50% dự án.</li>
 
-        <li value="10">on this DAY, <strong>man</strong>y YEARS aGO, a GREAT WAR beGAN.</li>
+        <li value="10" id="">on this DAY, <strong>man</strong>y YEARS aGO, a GREAT WAR beGAN.</li>
         <li className="list-none margin-bottom-20">Vào ngày này, nhiều năm trước, một cuộc chiến tranh lớn đã bắt đầu.</li>
 
       </ol>

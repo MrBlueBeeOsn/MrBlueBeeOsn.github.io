@@ -26,6 +26,53 @@ export default function SCRUpulously2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SCRUpulously</strong>" (một cách tỉ mỉ) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function SCRUpulously2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the SURgeon SCRUpulously CLEANED his HANDS be<strong>fore</strong> the operAtion.</li>
+        <li value="1" id="">the SURgeon SCRUpulously CLEANED his HANDS be<strong>fore</strong> the operAtion.</li>
         <li className="list-none margin-bottom-20">Bác sĩ phẫu thuật làm sạch tay một cách tỉ mỉ trước khi phẫu thuật.</li>
 
-        <li value="2">the acCOUNtant SCRUpulously FOLlowed the reguLAtions.</li>
+        <li value="2" id="">the acCOUNtant SCRUpulously FOLlowed the reguLAtions.</li>
         <li className="list-none margin-bottom-20">Kế toán tuân thủ các quy định một cách tỉ mỉ.</li>
 
-        <li value="3">the REsearcher SCRUpulously exAMined the CRIME SCENE.</li>
+        <li value="3" id="">the REsearcher SCRUpulously exAMined the CRIME SCENE.</li>
         <li className="list-none margin-bottom-20">Thám tử kiểm tra hiện trường vụ án một cách tỉ mỉ.</li>
 
-        <li value="4">the REsearcher SCRUpulously DOCumented her FINDings.</li>
+        <li value="4" id="">the REsearcher SCRUpulously DOCumented her FINDings.</li>
         <li className="list-none margin-bottom-20">Nhà nghiên cứu ghi chép những phát hiện của mình một cách tỉ mỉ.</li>
 
-        <li value="5">the poliTIcian SCRUpulously aVOIDed any CONflict of INterest.</li>
+        <li value="5" id="">the poliTIcian SCRUpulously aVOIDed any CONflict of INterest.</li>
         <li className="list-none margin-bottom-20">Chính trị gia tránh mọi xung đột lợi ích một cách tỉ mỉ.</li>
 
-        <li value="6">the muSEum SCRUpulously mainTAINED the ARtifacts.</li>
+        <li value="6" id="">the muSEum SCRUpulously mainTAINED the ARtifacts.</li>
         <li className="list-none margin-bottom-20">Bảo tàng duy trì các hiện vật một cách tỉ mỉ.</li>
 
-        <li value="7">the COMpany SCRUpulously adHERED to the SAFEty reguLAtions.</li>
+        <li value="7" id="">the COMpany SCRUpulously adHERED to the SAFEty reguLAtions.</li>
         <li className="list-none margin-bottom-20">Công ty tuân thủ chặt chẽ các quy định an toàn một cách tỉ mỉ.</li>
 
-        <li value="8">the liBRARian SCRUpulously ORganized the BOOKS.</li>
+        <li value="8" id="">the liBRARian SCRUpulously ORganized the BOOKS.</li>
         <li className="list-none margin-bottom-20">Người thủ thư sắp xếp sách một cách tỉ mỉ.</li>
 
-        <li value="9">they SCRUpulously PLANNED the eVENT.</li>
+        <li value="9" id="">they SCRUpulously PLANNED the eVENT.</li>
         <li className="list-none margin-bottom-20">Họ lên kế hoạch cho sự kiện một cách tỉ mỉ.</li>
 
-        <li value="10">the SCIentist SCRUpulously reCORDed the DAta.</li>
+        <li value="10" id="">the SCIentist SCRUpulously reCORDed the DAta.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học ghi lại dữ liệu một cách tỉ mỉ.</li>
 
       </ol>

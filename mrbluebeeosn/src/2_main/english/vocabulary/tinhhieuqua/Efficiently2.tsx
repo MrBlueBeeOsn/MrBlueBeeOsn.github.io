@@ -26,6 +26,53 @@ export default function efFICiently2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>efFICiently</strong>" (hiệu quả) và các cụm từ thường đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function efFICiently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she efFICiently MANages her TIME to comPLETE all her TASKS.</li>
+        <li value="1" id="">she efFICiently MANages her TIME to comPLETE all her TASKS.</li>
         <li className="list-none margin-bottom-20">Cô ấy quản lý thời gian của mình một cách hiệu quả để hoàn thành tất cả công việc.</li>
 
-        <li value="2">the NEW SOFTware alLOWS us to WORK MORE efFICiently.</li>
+        <li value="2" id="">the NEW SOFTware alLOWS us to WORK MORE efFICiently.</li>
         <li className="list-none margin-bottom-20">Phần mềm mới cho phép chúng tôi làm việc hiệu quả hơn.</li>
 
-        <li value="3">we NEED to FIND WAYS to efFICiently USE our REsources.</li>
+        <li value="3" id="">we NEED to FIND WAYS to efFICiently USE our REsources.</li>
         <li className="list-none margin-bottom-20">Chúng ta cần tìm cách sử dụng hiệu quả các nguồn lực của mình.</li>
 
-        <li value="4">he is Able to efFICiently comMUnicate COMplex iDEas to his TEAM.</li>
+        <li value="4" id="">he is Able to efFICiently comMUnicate COMplex iDEas to his TEAM.</li>
         <li className="list-none margin-bottom-20">Anh ấy có thể truyền đạt hiệu quả những ý tưởng phức tạp cho đội của mình.</li>
 
-        <li value="5">the FACtory efFICiently proDUCES HIGH-QUALity PRODucts.</li>
+        <li value="5" id="">the FACtory efFICiently proDUCES HIGH-QUALity PRODucts.</li>
         <li className="list-none margin-bottom-20">Nhà máy sản xuất các sản phẩm chất lượng cao một cách hiệu quả.</li>
 
-        <li value="6">she efFICiently SOLVED the PROBlem and FOUND a soLUtion.</li>
+        <li value="6" id="">she efFICiently SOLVED the PROBlem and FOUND a soLUtion.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã giải quyết vấn đề một cách hiệu quả và tìm ra giải pháp.</li>
 
-        <li value="7">he can efFICiently LEARN and acQUIRE NEW SKILLS in a SHORT TIME.</li>
+        <li value="7" id="">he can efFICiently LEARN and acQUIRE NEW SKILLS in a SHORT TIME.</li>
         <li className="list-none margin-bottom-20">Anh ấy có thể học một cách hiệu quả và tiếp thu các kỹ năng mới trong thời gian ngắn.</li>
 
-        <li value="8">she efFICiently ORganizes her FILES and DOCuments.</li>
+        <li value="8" id="">she efFICiently ORganizes her FILES and DOCuments.</li>
         <li className="list-none margin-bottom-20">Cô ấy tổ chức các tập tin và tài liệu của mình một cách hiệu quả.</li>
 
-        <li value="9">the COMpany efFICiently transPORTS GOODS to CUStomers worldWIDE.</li>
+        <li value="9" id="">the COMpany efFICiently transPORTS GOODS to CUStomers worldWIDE.</li>
         <li className="list-none margin-bottom-20">Công ty vận chuyển hàng hóa đến khách hàng trên toàn thế giới một cách hiệu quả.</li>
 
-        <li value="10">we NEED to efFICiently Utilize our NATURal REsources.</li>
+        <li value="10" id="">we NEED to efFICiently Utilize our NATURal REsources.</li>
         <li className="list-none margin-bottom-20">Chúng ta cần sử dụng hiệu quả các tài nguyên thiên nhiên của mình.</li>
 
       </ol>

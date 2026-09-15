@@ -26,6 +26,53 @@ export default function sinCEREly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>sinCEREly</strong>" (một cách chân thành) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function sinCEREly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i sinCEREly aPOLogize for my misTAKE.</li>
+        <li value="1" id="">i sinCEREly aPOLogize for my misTAKE.</li>
         <li className="list-none margin-bottom-20">Tôi xin lỗi chân thành vì lỗi lầm của mình.</li>
 
-        <li value="2"> sinCEREly apPREciate your HELP.</li>
+        <li value="2" id=""> sinCEREly apPREciate your HELP.</li>
         <li className="list-none margin-bottom-20">Tôi rất trân trọng sự giúp đỡ của bạn.</li>
 
-        <li value="3">i sinCEREly HOPE that everything GOES WELL for you.</li>
+        <li value="3" id="">i sinCEREly HOPE that everything GOES WELL for you.</li>
         <li className="list-none margin-bottom-20">Tôi thật lòng hy vọng mọi việc sẽ diễn ra tốt đẹp với bạn.</li>
 
-        <li value="4">sinCEREly YOURS.</li>
+        <li value="4" id="">sinCEREly YOURS.</li>
         <li className="list-none margin-bottom-20">Thân ái.</li>
 
-        <li value="5">i sinCEREly beLIEVE in the POWer of LOVE.</li>
+        <li value="5" id="">i sinCEREly beLIEVE in the POWer of LOVE.</li>
         <li className="list-none margin-bottom-20">Tôi thật lòng tin vào sức mạnh của tình yêu.</li>
 
-        <li value="6">i sinCEREly reGRET NOT BEing ABle to atTEND your WEDding.</li>
+        <li value="6" id="">i sinCEREly reGRET NOT BEing ABle to atTEND your WEDding.</li>
         <li className="list-none margin-bottom-20">Tôi thật lòng hối hận vì không thể tham dự đám cưới của bạn.</li>
 
-        <li value="7">i sinCEREly THANK you for your supPORT.</li>
+        <li value="7" id="">i sinCEREly THANK you for your supPORT.</li>
         <li className="list-none margin-bottom-20">Tôi muốn chân thành cảm ơn bạn vì sự ủng hộ của bạn.</li>
 
-        <li value="8">i sinCEREly WISH you all the BEST in your NEW JOB.</li>
+        <li value="8" id="">i sinCEREly WISH you all the BEST in your NEW JOB.</li>
         <li className="list-none margin-bottom-20">Tôi chúc bạn thật lòng mọi điều tốt đẹp nhất trong công việc mới.</li>
 
-        <li value="9">sinCEREly YOURS, FAITHfully.</li>
+        <li value="9" id="">sinCEREly YOURS, FAITHfully.</li>
         <li className="list-none margin-bottom-20">Trân trọng, một cách trung thành.</li>
 
-        <li value="10">sinCEREly YOURS, with LOVE.</li>
+        <li value="10" id="">sinCEREly YOURS, with LOVE.</li>
         <li className="list-none margin-bottom-20">Trân trọng, với tình yêu thương</li>
 
       </ol>

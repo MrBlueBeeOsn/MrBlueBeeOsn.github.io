@@ -26,6 +26,53 @@ export default function SOON2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>SOON</strong>" (sớm) trong tiếng Anh nhé.</p>
@@ -56,22 +103,22 @@ export default function SOON2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">as SOON i FINish my WORK, i'll CALL you.</li>
+        <li value="1" id="">as SOON i FINish my WORK, i'll CALL you.</li>
         <li className="list-none margin-bottom-20">Ngay khi tôi làm xong việc, tôi sẽ gọi cho bạn.</li>
 
-        <li value="2">i'll be BACK VERy SOON.</li>
+        <li value="2" id="">i'll be BACK VERy SOON.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ quay lại rất sớm.</li>
 
-        <li value="3">it was NICE SEEing you. SEE you SOON!</li>
+        <li value="3" id="">it was NICE SEEing you. SEE you SOON!</li>
         <li className="list-none margin-bottom-20">Gặp bạn thật vui. Hẹn gặp lại sớm!</li>
 
         <li value="4">PLEASE rePLY as <strong>soon</strong> as POSsible.</li>
         <li className="list-none margin-bottom-20">Vui lòng trả lời càng sớm càng tốt.</li>
 
-        <li value="5">SOON <strong>af</strong>ter he arRIVED, the PARTy STARTed.</li>
+        <li value="5" id="">SOON <strong>af</strong>ter he arRIVED, the PARTy STARTed.</li>
         <li className="list-none margin-bottom-20">Ngay sau khi anh ấy đến, bữa tiệc bắt đầu.</li>
 
-        <li value="6">how SOON will the TRAIN arRIVE?</li>
+        <li value="6" id="">how SOON will the TRAIN arRIVE?</li>
         <li className="list-none margin-bottom-20">Tàu sẽ đến bao lâu nữa?</li>
 
         <li value="7">till SOON!</li>
@@ -83,7 +130,7 @@ export default function SOON2(): React.JSX.Element {
         <li value="9">SOONer or LAter, you will REalize your misTAKe.</li>
         <li className="list-none margin-bottom-20">Sớm muộn gì bạn cũng sẽ nhận ra lỗi lầm của mình.</li>
 
-        <li value="10">we HOPE to VISit you in the NEAR FUture.</li>
+        <li value="10" id="">we HOPE to VISit you in the NEAR FUture.</li>
         <li className="list-none margin-bottom-20">Chúng tôi hy vọng sẽ đến thăm bạn trong tương lai gần.</li>
 
       </ol>

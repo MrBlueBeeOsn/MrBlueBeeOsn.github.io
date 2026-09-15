@@ -26,6 +26,53 @@ export default function JOYfully2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>JOYfully</strong>" (một cách vui vẻ) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function JOYfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the inviTAtion was JOYfully acCEPted.</li>
+        <li value="1" id="">the inviTAtion was JOYfully acCEPted.</li>
         <li className="list-none margin-bottom-20">Lời mời đã được chấp nhận một cách vui vẻ.</li>
 
-        <li value="2">the CHILDren JOYfully parTICipated in the GAMES.</li>
+        <li value="2" id="">the CHILDren JOYfully parTICipated in the GAMES.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ tham gia vào các trò chơi một cách vui vẻ.</li>
 
-        <li value="3">their WEDding was JOYfully CELebrated by FRIENDS and FAMILy.</li>
+        <li value="3" id="">their WEDding was JOYfully CELebrated by FRIENDS and FAMILy.</li>
         <li className="list-none margin-bottom-20">Đám cưới của họ đã được bạn bè và gia đình tổ chức một cách vui vẻ.</li>
 
-        <li value="4">the HOLiday was JOYfully anTICipated by the CHILDren.</li>
+        <li value="4" id="">the HOLiday was JOYfully anTICipated by the CHILDren.</li>
         <li className="list-none margin-bottom-20">Các em nhỏ đã mong đợi kỳ nghỉ một cách vui vẻ.</li>
 
-        <li value="5">the COUPle JOYfully emBRACED <strong>af</strong>ter a LONG sepaRAtion.</li>
+        <li value="5" id="">the COUPle JOYfully emBRACED <strong>af</strong>ter a LONG sepaRAtion.</li>
         <li className="list-none margin-bottom-20">Cặp đôi đã ôm nhau thật chặt sau một thời gian dài xa cách.</li>
 
-        <li value="6">they JOYfully SHARED their exPEriences with each OTHer.</li>
+        <li value="6" id="">they JOYfully SHARED their exPEriences with each OTHer.</li>
         <li className="list-none margin-bottom-20">Họ đã chia sẻ những trải nghiệm của mình với nhau một cách vui vẻ.</li>
 
-        <li value="7">"i WON!" she JOYfully exCLAIMED.</li>
+        <li value="7" id="">"i WON!" she JOYfully exCLAIMED.</li>
         <li className="list-none margin-bottom-20">Cô ấy vui sướng kêu lên: "Tôi thắng rồi!"</li>
 
         <li value="8">the TRAVelers JOYfully reTURNED HOME.</li>
         <li className="list-none margin-bottom-20">Những người du lịch đã vui vẻ trở về nhà.</li>
 
-        <li value="9">the BIRDS JOYfully SANG in the MORNing.</li>
+        <li value="9" id="">the BIRDS JOYfully SANG in the MORNing.</li>
         <li className="list-none margin-bottom-20">Những chú chim hót líu lo một cách vui vẻ vào buổi sáng.</li>
 
-        <li value="10">the CHILDren JOYfully DANCED to the MUsic.</li>
+        <li value="10" id="">the CHILDren JOYfully DANCED to the MUsic.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ nhảy múa vui vẻ theo điệu nhạc.</li>
 
       </ol>

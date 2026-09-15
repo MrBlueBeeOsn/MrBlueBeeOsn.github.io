@@ -26,6 +26,53 @@ export default function HONestly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>HONestly</strong>" (một cách thành thật) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function HONestly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">HONestly SPEAKing, i DON'T LIKE that MOVie.</li>
+        <li value="1" id="">HONestly SPEAKing, i DON'T LIKE that MOVie.</li>
         <li className="list-none margin-bottom-20">Nói thật ra, tôi không thích bộ phim đó.</li>
 
-        <li value="2">i HONestly beLIEVE that he is INnocent.</li>
+        <li value="2" id="">i HONestly beLIEVE that he is INnocent.</li>
         <li className="list-none margin-bottom-20">Tôi thật sự tin rằng anh ấy vô tội.</li>
 
-        <li value="3">i HONestly THINK we should reconSIDer our PLANS.</li>
+        <li value="3" id="">i HONestly THINK we should reconSIDer our PLANS.</li>
         <li className="list-none margin-bottom-20">Tôi thật sự nghĩ rằng chúng ta nên xem xét lại kế hoạch của mình.</li>
 
-        <li value="4">i HONestly adMIT that i MADE a misTAKE.</li>
+        <li value="4" id="">i HONestly adMIT that i MADE a misTAKE.</li>
         <li className="list-none margin-bottom-20">Tôi thành thật thừa nhận rằng tôi đã mắc sai lầm.</li>
 
-        <li value="5">HONestly SPEAKing, HOW to SOLVE this PROBlem?</li>
+        <li value="5" id="">HONestly SPEAKing, HOW to SOLVE this PROBlem?</li>
         <li className="list-none margin-bottom-20">Nói thật ra, tôi không biết làm thế nào để giải quyết vấn đề này.</li>
 
-        <li value="6">HONestly, i'm surPRISED that you SAID that.</li>
+        <li value="6" id="">HONestly, i'm surPRISED that you SAID that.</li>
         <li className="list-none margin-bottom-20">Thật sự, tôi ngạc nhiên khi bạn nói như vậy.</li>
 
-        <li value="7">HONestly, i DON'T CARE WHAT he THINKS.</li>
+        <li value="7" id="">HONestly, i DON'T CARE WHAT he THINKS.</li>
         <li className="list-none margin-bottom-20">Thành thật mà nói, tôi không quan tâm anh ấy nghĩ gì.</li>
 
-        <li value="8">HONestly, i'm disapPOINTed with the reSULTS.</li>
+        <li value="8" id="">HONestly, i'm disapPOINTed with the reSULTS.</li>
         <li className="list-none margin-bottom-20">Thành thật mà nói, tôi thất vọng với kết quả.</li>
 
-        <li value="9">HONestly, i'm SCARED of the DARK.</li>
+        <li value="9" id="">HONestly, i'm SCARED of the DARK.</li>
         <li className="list-none margin-bottom-20">Thành thật mà nói, tôi sợ bóng tối.</li>
 
-        <li value="10">HONestly, i'm HAPpy that you're HERE.</li>
+        <li value="10" id="">HONestly, i'm HAPpy that you're HERE.</li>
         <li className="list-none margin-bottom-20">Thành thật mà nói, tôi rất vui khi bạn ở đây.</li>
 
       </ol>

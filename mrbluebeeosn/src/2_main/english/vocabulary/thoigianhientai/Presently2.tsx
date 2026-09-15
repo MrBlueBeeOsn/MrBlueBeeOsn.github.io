@@ -26,6 +26,53 @@ export default function PRESently2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>PRESently</strong>" (hiện tại) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function PRESently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the MANager is PRESently enGAGED in a MEETing.</li>
+        <li value="1" id="">the MANager is PRESently enGAGED in a MEETing.</li>
         <li className="list-none margin-bottom-20">Quản lý đang bận họp.</li>
 
-        <li value="2">engiNEERS are PRESently WORKing on a NEW PROJect.</li>
+        <li value="2" id="">engiNEERS are PRESently WORKing on a NEW PROJect.</li>
         <li className="list-none margin-bottom-20">Các kỹ sư đang làm việc trên một dự án mới.</li>
 
-        <li value="3">the PRODuct is PRESently aVAILable in all our STORES.</li>
+        <li value="3" id="">the PRODuct is PRESently aVAILable in all our STORES.</li>
         <li className="list-none margin-bottom-20">Sản phẩm hiện đang có sẵn tại tất cả các cửa hàng của chúng tôi.</li>
 
-        <li value="4">the NEW BRIDGE is PRESently under conSTRUCtion.</li>
+        <li value="4" id="">the NEW BRIDGE is PRESently under conSTRUCtion.</li>
         <li className="list-none margin-bottom-20">Cây cầu mới đang được xây dựng.</li>
 
-        <li value="5">he is PRESently LIVing in LONdon.</li>
+        <li value="5" id="">he is PRESently LIVing in LONdon.</li>
         <li className="list-none margin-bottom-20">Cô ấy hiện đang sống ở London.</li>
 
-        <li value="6">we are PRESently conSIDering DIFFERent OPtions.</li>
+        <li value="6" id="">we are PRESently conSIDering DIFFERent OPtions.</li>
         <li className="list-none margin-bottom-20">Chúng tôi đang cân nhắc các lựa chọn khác nhau.</li>
 
-        <li value="7">he is PRESently STUDying for his EXams.</li>
+        <li value="7" id="">he is PRESently STUDying for his EXams.</li>
         <li className="list-none margin-bottom-20">Anh ấy đang ôn thi.</li>
 
-        <li value="8">the WEIter is PRESently SERving the CUStomers.</li>
+        <li value="8" id="">the WEIter is PRESently SERving the CUStomers.</li>
         <li className="list-none margin-bottom-20">Người phục vụ đang phục vụ khách hàng.</li>
 
-        <li value="9">she is PRESently atTENDing a CONFERence in PAris.</li>
+        <li value="9" id="">she is PRESently atTENDing a CONFERence in PAris.</li>
         <li className="list-none margin-bottom-20">Cô ấy hiện đang tham dự một hội nghị ở Paris.</li>
 
-        <li value="10">the CITy is PRESently exPEriencing a HEAT WAVE.</li>
+        <li value="10" id="">the CITy is PRESently exPEriencing a HEAT WAVE.</li>
         <li className="list-none margin-bottom-20">Thành phố hiện đang trải qua một đợt nắng nóng.</li>
 
       </ol>

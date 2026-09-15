@@ -26,6 +26,53 @@ export default function CURrently2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CURrently</strong>" (hiện tại) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function CURrently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i am CURrently WORKing on a NEW PROJect.</li>
+        <li value="1" id="">i am CURrently WORKing on a NEW PROJect.</li>
         <li className="list-none margin-bottom-20">Tôi đang làm việc trên một dự án mới.</li>
 
-        <li value="2">she is CURrently STUDying for her exAMs.</li>
+        <li value="2" id="">she is CURrently STUDying for her exAMs.</li>
         <li className="list-none margin-bottom-20">Cô ấy đang ôn thi.</li>
 
-        <li value="3">they are CURrently LIVing in vietNAM.</li>
+        <li value="3" id="">they are CURrently LIVing in vietNAM.</li>
         <li className="list-none margin-bottom-20">Họ đang sống ở Việt Nam.</li>
 
-        <li value="4">the MANager is CURrently unaVAILable.</li>
+        <li value="4" id="">the MANager is CURrently unaVAILable.</li>
         <li className="list-none margin-bottom-20">Quản lý hiện không có mặt.</li>
 
-        <li value="5">the NEW BUILDing is CURrently under conSTRUCtion.</li>
+        <li value="5" id="">the NEW BUILDing is CURrently under conSTRUCtion.</li>
         <li className="list-none margin-bottom-20">Tòa nhà mới đang được xây dựng.</li>
 
-        <li value="6">your APplication is CURrently being reVIEWED.</li>
+        <li value="6" id="">your APplication is CURrently being reVIEWED.</li>
         <li className="list-none margin-bottom-20">Đơn đăng ký của bạn đang được xem xét.</li>
 
-        <li value="7">this RULE is CURrently in efFECT.</li>
+        <li value="7" id="">this RULE is CURrently in efFECT.</li>
         <li className="list-none margin-bottom-20">Quy tắc này hiện đang có hiệu lực.</li>
 
-        <li value="8">this VACcine is CURrently being deVELoped.</li>
+        <li value="8" id="">this VACcine is CURrently being deVELoped.</li>
         <li className="list-none margin-bottom-20">Một loại vắc xin mới đang được phát triển.</li>
 
-        <li value="9">this SONG is CURrently TRENDing on TIKTok.</li>
+        <li value="9" id="">this SONG is CURrently TRENDing on TIKTok.</li>
         <li className="list-none margin-bottom-20">Bài hát này đang rất hot trên TikTok.</li>
 
-        <li value="10">the PRODuct is CURrently aVAILable in all our STORES.</li>
+        <li value="10" id="">the PRODuct is CURrently aVAILable in all our STORES.</li>
         <li className="list-none margin-bottom-20">Sản phẩm này hiện có sẵn ở tất cả các cửa hàng.</li>
 
       </ol>

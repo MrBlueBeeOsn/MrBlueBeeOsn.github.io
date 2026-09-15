@@ -26,6 +26,53 @@ export default function Openly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>Openly</strong>" (một cách công khai) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function Openly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the ISsue was Openly disCUSSED at the MEETing.</li>
+        <li value="1" id="">the ISsue was Openly disCUSSED at the MEETing.</li>
         <li className="list-none margin-bottom-20">Vấn đề này đã được thảo luận công khai tại cuộc họp.</li>
 
-        <li value="2">the poliTICian was Openly CRITicized for his POLicies.</li>
+        <li value="2" id="">the poliTICian was Openly CRITicized for his POLicies.</li>
         <li className="list-none margin-bottom-20">Vị chính trị gia đã bị chỉ trích công khai vì các chính sách của ông ấy.</li>
 
-        <li value="3">the ATHlete was Openly adMIred for his aCHIEVEments.</li>
+        <li value="3" id="">the ATHlete was Openly adMIred for his aCHIEVEments.</li>
         <li className="list-none margin-bottom-20">Vận động viên này được ngưỡng mộ công khai vì những thành tích của anh ấy.</li>
 
-        <li value="4">the CAUSE was Openly supPORTed by <strong>man</strong>y ceLEBrities.</li>
+        <li value="4" id="">the CAUSE was Openly supPORTed by <strong>man</strong>y ceLEBrities.</li>
         <li className="list-none margin-bottom-20">Nguyên nhân này đã được nhiều người nổi tiếng ủng hộ công khai.</li>
 
-        <li value="5">the THEORy was Openly QUEStioned by <strong>man</strong>y SCIentists.</li>
+        <li value="5" id="">the THEORy was Openly QUEStioned by <strong>man</strong>y SCIentists.</li>
         <li className="list-none margin-bottom-20">Thuyết này đã bị nhiều nhà khoa học đặt câu hỏi công khai.</li>
 
-        <li value="6">the PLAN was Openly opPOSED by the LOcal RESidents.</li>
+        <li value="6" id="">the PLAN was Openly opPOSED by the LOcal RESidents.</li>
         <li className="list-none margin-bottom-20">Kế hoạch này đã bị người dân địa phương phản đối công khai.</li>
 
-        <li value="7">their FEELings were Openly exPRESSED in the LETter.</li>
+        <li value="7" id="">their FEELings were Openly exPRESSED in the LETter.</li>
         <li className="list-none margin-bottom-20">Cảm xúc của họ đã được bày tỏ công khai trong bức thư.</li>
 
-        <li value="8">his contriBUtions to the PROJect were Openly acKNOWledged by the TEAM.</li>
+        <li value="8" id="">his contriBUtions to the PROJect were Openly acKNOWledged by the TEAM.</li>
         <li className="list-none margin-bottom-20">Những đóng góp của anh ấy cho dự án đã được nhóm công nhận công khai.</li>
 
-        <li value="9">the proTESters Openly deFIEd the GOVernment's ORders.</li>
+        <li value="9" id="">the proTESters Openly deFIEd the GOVernment's ORders.</li>
         <li className="list-none margin-bottom-20">Những người biểu tình đã công khai thách thức lệnh của chính phủ.</li>
 
-        <li value="10">the NEW iDEa was Openly WELcomed by the TEAM.</li>
+        <li value="10" id="">the NEW iDEa was Openly WELcomed by the TEAM.</li>
         <li className="list-none margin-bottom-20">Ý tưởng mới đã được đội ngũ nhiệt liệt chào đón.</li>
 
       </ol>

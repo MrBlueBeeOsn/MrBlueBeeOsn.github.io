@@ -26,6 +26,53 @@ export default function toMORrow2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>toMORrow</strong>" (ngày mai) trong tiếng Anh nhé.
@@ -58,34 +105,34 @@ export default function toMORrow2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i have a MEETing toMORrow MORNing.</li>
+        <li value="1" id="">i have a MEETing toMORrow MORNing.</li>
         <li className="list-none margin-bottom-20">Tôi có một cuộc họp vào sáng mai.</li>
 
-        <li value="2">let's GO to the BEACH toMORrow afterNOON.</li>
+        <li value="2" id="">let's GO to the BEACH toMORrow afterNOON.</li>
         <li className="list-none margin-bottom-20">Chúng ta hãy đi biển vào chiều mai.</li>
 
-        <li value="3">i'm GOing to a PARTy toMORrow EVEning.</li>
+        <li value="3" id="">i'm GOing to a PARTy toMORrow EVEning.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ đi dự tiệc vào tối mai.</li>
 
-        <li value="4">it will be COLD toMORrow NIGHT.</li>
+        <li value="4" id="">it will be COLD toMORrow NIGHT.</li>
         <li className="list-none margin-bottom-20">Đêm mai sẽ lạnh.</li>
 
-        <li value="5">i'll SEE you DAY <strong>af</strong>ter toMORrow.</li>
+        <li value="5" id="">i'll SEE you DAY <strong>af</strong>ter toMORrow.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ gặp bạn vào ngày kia.</li>
 
-        <li value="6">i have a DENtist apPOINTment the DAY <strong>af</strong>ter toMORrow.</li>
+        <li value="6" id="">i have a DENtist apPOINTment the DAY <strong>af</strong>ter toMORrow.</li>
         <li className="list-none margin-bottom-20">Tôi có hẹn với nha sĩ vào ngày kia.</li>
 
-        <li value="7">i'm going on vaCAtion toMORrow WEEK.</li>
+        <li value="7" id="">i'm going on vaCAtion toMORrow WEEK.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ đi nghỉ mát vào tuần sau.</li>
 
-        <li value="8">my BIRTHday is toMORrow MONTH.</li>
+        <li value="8" id="">my BIRTHday is toMORrow MONTH.</li>
         <li className="list-none margin-bottom-20">Sinh nhật tôi vào tháng sau.</li>
 
-        <li value="9">i'll be BUSy toMORrow and the NEXT DAY.</li>
+        <li value="9" id="">i'll be BUSy toMORrow and the NEXT DAY.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ bận rộn vào ngày mai và ngày kia.</li>
 
-        <li value="10">we can MEET toMORrow or the DAY AFter.</li>
+        <li value="10" id="">we can MEET toMORrow or the DAY AFter.</li>
         <li className="list-none margin-bottom-20">Chúng ta có thể gặp nhau vào ngày mai hoặc ngày kia.</li>
 
       </ol>

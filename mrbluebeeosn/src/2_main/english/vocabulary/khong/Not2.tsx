@@ -26,6 +26,53 @@ export default function NOT2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>NOT</strong>" (không) trong tiếng Anh nhé.</p>
@@ -56,34 +103,34 @@ export default function NOT2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">THANK you for your HELP. - NOT at ALL.</li>
+        <li value="1" id="">THANK you for your HELP. - NOT at ALL.</li>
         <li className="list-none margin-bottom-20">Cảm ơn bạn đã giúp đỡ. - Không có gì đâu.</li>
 
-        <li value="2">she is NOT Only BEAUtiful but ALso inTELligent.</li>
+        <li value="2" id="">she is NOT Only BEAUtiful but ALso inTELligent.</li>
         <li className="list-none margin-bottom-20">Cô ấy không chỉ xinh đẹp mà còn thông minh.</li>
 
-        <li value="3">i am NOT SO MUCH INTERested in his STORy as in his REAson.</li>
+        <li value="3" id="">i am NOT SO MUCH INTERested in his STORy as in his REAson.</li>
         <li className="list-none margin-bottom-20">Tôi không quan tâm đến câu chuyện của anh ta bằng lý do của anh ta.</li>
 
-        <li value="4">i do NOT EAT MEAT any MORE.</li>
+        <li value="4" id="">i do NOT EAT MEAT any MORE.</li>
         <li className="list-none margin-bottom-20">Tôi không ăn thịt nữa.</li>
 
-        <li value="5">i do NOT LIKE this MOVie at ALL.</li>
+        <li value="5" id="">i do NOT LIKE this MOVie at ALL.</li>
         <li className="list-none margin-bottom-20">Tôi không thích bộ phim này chút nào.</li>
 
-        <li value="6">NOT Only is she KIND, but she is ALso VERy HELPful.</li>
+        <li value="6" id="">NOT Only is she KIND, but she is ALso VERy HELPful.</li>
         <li className="list-none margin-bottom-20">Không những cô ấy tốt bụng mà còn rất hữu ích.</li>
 
-        <li value="7">she is NOT as TALL as her BROTHer.</li>
+        <li value="7" id="">she is NOT as TALL as her BROTHer.</li>
         <li className="list-none margin-bottom-20">Cô ấy không cao bằng anh trai mình.</li>
 
-        <li value="8">i am NOT a BIT TIred.</li>
+        <li value="8" id="">i am NOT a BIT TIred.</li>
         <li className="list-none margin-bottom-20">Tôi không mệt mỏi chút nào.</li>
 
-        <li value="9">this TASK is NOT NEARly as DIFficult as i THOUGHT.</li>
+        <li value="9" id="">this TASK is NOT NEARly as DIFficult as i THOUGHT.</li>
         <li className="list-none margin-bottom-20">Công việc này không khó bằng những gì tôi nghĩ.</li>
 
-        <li value="10">it's NOT SO MUCH a PROBlem as a CHALlenge.</li>
+        <li value="10" id="">it's NOT SO MUCH a PROBlem as a CHALlenge.</li>
         <li className="list-none margin-bottom-20">Đó không phải là một vấn đề mà là một thử thách.</li>
 
       </ol>

@@ -26,6 +26,53 @@ export default function RAREly2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>RAREly</strong>" (hiếm khi) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function RAREly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">it RAREly HAPpens that we GET SNOW in this PART of the COUNtry.</li>
+        <li value="1" id="">it RAREly HAPpens that we GET SNOW in this PART of the COUNtry.</li>
         <li className="list-none margin-bottom-20">Hiếm khi có tuyết ở vùng này.</li>
 
-        <li value="2">that TYPE of BIRD is RAREly SEEN in this ARea.</li>
+        <li value="2" id="">that TYPE of BIRD is RAREly SEEN in this ARea.</li>
         <li className="list-none margin-bottom-20">Loại chim đó hiếm khi được nhìn thấy ở khu vực này.</li>
 
-        <li value="3">the TOPic is RAREly MENtioned in PUBlic.</li>
+        <li value="3" id="">the TOPic is RAREly MENtioned in PUBlic.</li>
         <li className="list-none margin-bottom-20">Chủ đề đó hiếm khi được nhắc đến công khai.</li>
 
-        <li value="4">that WORD is RAREly USED in everyday converSAtion.</li>
+        <li value="4" id="">that WORD is RAREly USED in everyday converSAtion.</li>
         <li className="list-none margin-bottom-20">Từ đó hiếm khi được sử dụng trong cuộc nói chuyện hàng ngày.</li>
 
-        <li value="5">ANcient ARtifacts are RAREly FOUND in this REgion.</li>
+        <li value="5" id="">ANcient ARtifacts are RAREly FOUND in this REgion.</li>
         <li className="list-none margin-bottom-20">Các hiện vật cổ xưa hiếm khi được tìm thấy ở khu vực này.</li>
 
-        <li value="6">my GRANDmother RAREly VISits us.</li>
+        <li value="6" id="">my GRANDmother RAREly VISits us.</li>
         <li className="list-none margin-bottom-20">Bà tôi hiếm khi đến thăm chúng tôi.</li>
 
-        <li value="7">such a seVERE STORM RAREly ocCURS in this AREa.</li>
+        <li value="7" id="">such a seVERE STORM RAREly ocCURS in this AREa.</li>
         <li className="list-none margin-bottom-20">Một cơn bão nghiêm trọng như vậy hiếm khi xảy ra ở khu vực này.</li>
 
-        <li value="8">she RAREly EAT MEAT.</li>
+        <li value="8" id="">she RAREly EAT MEAT.</li>
         <li className="list-none margin-bottom-20">Cô ấy hiếm khi ăn thịt.</li>
 
-        <li value="9">due to her BUSy SCHEDule, she RAREly SLEEPS MORE than SIX HOURS a NIGHT.</li>
+        <li value="9" id="">due to her BUSy SCHEDule, she RAREly SLEEPS MORE than SIX HOURS a NIGHT.</li>
         <li className="list-none margin-bottom-20">Vì lịch trình bận rộn, cô ấy hiếm khi ngủ quá sáu tiếng mỗi đêm.</li>
 
-        <li value="10">he is a VERy QUIet PERson and RAREly TALKS.</li>
+        <li value="10" id="">he is a VERy QUIet PERson and RAREly TALKS.</li>
         <li className="list-none margin-bottom-20">Anh ấy là một người rất trầm tính và hiếm khi nói chuyện.</li>
 
       </ol>

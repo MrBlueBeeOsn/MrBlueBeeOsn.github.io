@@ -26,6 +26,53 @@ export default function apPARently2(): React.JSX.Element {
         </sup>
       </h1>
 
+      <div className="example">
+                                
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#"></HashLink>
+          </span> &nbsp;
+
+        </p>
+
+      </div>
+
       {/* This is the content of Vocabulary Term. */}
 
       <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>apPARently</strong>" (dường như) và các cụm từ hay đi kèm nhé.</p>
@@ -56,34 +103,34 @@ export default function apPARently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the TASK SEEMED apPARently imPOSsible, but he MANaged to comPLETE it.</li>
+        <li value="1" id="">the TASK SEEMED apPARently imPOSsible, but he MANaged to comPLETE it.</li>
         <li className="list-none margin-bottom-20">Công việc đó dường như không thể, nhưng anh ấy đã hoàn thành nó.</li>
 
-        <li value="2">apPARently TRUE, she is LEAVing the COMpany NEXT WEEK.</li>
+        <li value="2" id="">apPARently TRUE, she is LEAVing the COMpany NEXT WEEK.</li>
         <li className="list-none margin-bottom-20">Dường như là đúng, cô ấy sẽ rời công ty vào tuần tới.</li>
 
-        <li value="3">the NUMbers apPEARED to be apPARently RANdom, but there was a PATtern.</li>
+        <li value="3" id="">the NUMbers apPEARED to be apPARently RANdom, but there was a PATtern.</li>
         <li className="list-none margin-bottom-20">Những con số dường như ngẫu nhiên, nhưng có một quy luật.</li>
 
-        <li value="4">the SNAKE LOOKED apPARently HARMless, but it was POIsonous.</li>
+        <li value="4" id="">the SNAKE LOOKED apPARently HARMless, but it was POIsonous.</li>
         <li className="list-none margin-bottom-20">Con rắn trông dường như vô hại, nhưng nó lại độc.</li>
 
-        <li value="5">the PROBlem SEEMED apPARently SIMple, but it was ACtually VERy COMplex.</li>
+        <li value="5" id="">the PROBlem SEEMED apPARently SIMple, but it was ACtually VERy COMplex.</li>
         <li className="list-none margin-bottom-20">Vấn đề dường như đơn giản, nhưng thực ra rất phức tạp.</li>
 
-        <li value="6">the TWO eVENTS SEEMED apPARently unreLAted, but they were conNECTed.</li>
+        <li value="6" id="">the TWO eVENTS SEEMED apPARently unreLAted, but they were conNECTed.</li>
         <li className="list-none margin-bottom-20">Hai sự kiện dường như không liên quan, nhưng chúng lại có mối liên hệ với nhau.</li>
 
-        <li value="7">she NODded, apPARently SATisfied with his ANswer.</li>
+        <li value="7" id="">she NODded, apPARently SATisfied with his ANswer.</li>
         <li className="list-none margin-bottom-20">Cô ấy gật đầu, dường như hài lòng với câu trả lời của anh ấy.</li>
 
-        <li value="8">he LOOKED aROUND, apPARently conFUSED.</li>
+        <li value="8" id="">he LOOKED aROUND, apPARently conFUSED.</li>
         <li className="list-none margin-bottom-20">Anh ta nhìn xung quanh, dường như đang bối rối.</li>
 
-        <li value="9">the BOOK was apPARently forGOTten on the TRAIN.</li>
+        <li value="9" id="">the BOOK was apPARently forGOTten on the TRAIN.</li>
         <li className="list-none margin-bottom-20">Cuốn sách dường như đã bị quên trên tàu.</li>
 
-        <li value="10">she SMILED, apPARently aWARE of his FEELings.</li>
+        <li value="10" id="">she SMILED, apPARently aWARE of his FEELings.</li>
         <li className="list-none margin-bottom-20">Cô ấy mỉm cười, dường như nhận thức được cảm xúc của anh ấy.</li>
 
       </ol>
