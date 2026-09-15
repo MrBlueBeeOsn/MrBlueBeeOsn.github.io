@@ -83,7 +83,7 @@ export default function Respond(): React.JSX.Element {
 
           <p>[reSPOND] là một [ROOT VERB BASE][RỄ ĐỘNG CƠ] có nghĩa là phản hồi, trả lời, hoặc phản ứng lại một tác động trước đó.</p>
 
-          <p className="margin-top-20">Phát âm: [resPOND][res POND] /rɪˈspɒnd/</p>
+          <p className="margin-top-20">Phát âm: [reSPOND][re SPOND] /rɪˈspɒnd/</p>
 
             <ul className="list-square">
           
@@ -193,7 +193,7 @@ export default function Respond(): React.JSX.Element {
           
       <p className="margin-top-20 text-indent-whole" id="NOUN-BASE"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN BASE</strong>][<strong>DANH CƠ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 1: [resPONSE][res PONSE] /rɪˈspɒns/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 1: [reSPONSE][re SPONSE] /rɪˈspɒns/</p>
       
         <ul className="list-square">
       
@@ -209,7 +209,7 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole" id="ADjective-BASE"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 2: [resPONsive][res PON sive] /rɪˈspɒnsɪv/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 2: [reSPONsive][re SPON sive] /rɪˈspɒnsɪv/</p>
       
         <ul className="list-square">
       
@@ -225,7 +225,7 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole" id="ADverb-BASE"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 3: [reSPONsively][res PON sive ly] /rɪˈspɒnsɪvli/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 3: [reSPONsively][re SPON sive ly] /rɪˈspɒnsɪvli/</p>
       
         <ul className="list-square">
       
@@ -401,7 +401,7 @@ export default function Respond(): React.JSX.Element {
           <li>they NEED a SYStem [reSPONsive to MARket CHAnges].</li>
           <li className="margin-bottom-20 list-none">Họ cần một hệ thống [có độ phản hồi linh hoạt với các thay đổi thị trường].</li>
       
-          <li className="list-none">Hình thái: [reSPONsive to MARket CHAnges] - [MODified ADjective PHRASE][DIỆN TÍNH CỤM] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "resPOND" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITional PHRASE][GIỚI CỤM] phía sau.</li>
+          <li className="list-none">Hình thái: [reSPONsive to MARket CHAnges] - [MODified ADjective PHRASE][DIỆN TÍNH CỤM] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "reSPOND" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITional PHRASE][GIỚI CỤM] phía sau.</li>
       
           <li className="list-none">Chức năng: [reSPONsive to MARket CHAnges] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau [NOUN BLOCK][DANH KHỐI] "system" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
       
@@ -978,12 +978,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the SYStem reSTARted [for a FULL resPONSE to the seCUrity PATCH].</li>
+          <li>the SYStem reSTARted [for a FULL reSPONSE to the seCUrity PATCH].</li>
           <li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [phục vụ cho một phản ứng trọn vẹn với bản vá bảo mật].</li>
       
-          <li className="list-none">Hình thái gốc: [for a FULL resPONSE to the seCUrity PATCH] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITional BASE][GIỚI CƠ] chỉ lý do / bối cảnh "for" để kéo theo khối [OBject PROnoun][TÂN ĐẠI] phía sau.</li>
+          <li className="list-none">Hình thái gốc: [for a FULL reSPONSE to the seCUrity PATCH] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITional BASE][GIỚI CƠ] chỉ lý do / bối cảnh "for" để kéo theo khối [OBject PROnoun][TÂN ĐẠI] phía sau.</li>
       
-          <li className="list-none">Chức năng: [for a FULL resPONSE to the seCUrity PATCH] - [ADverb PHRASE][TRẠNG CỤM] thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích, bổ nghĩa cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reSTARted".</li>
+          <li className="list-none">Chức năng: [for a FULL reSPONSE to the seCUrity PATCH] - [ADverb PHRASE][TRẠNG CỤM] thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích, bổ nghĩa cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reSTARted".</li>
       
         </ul>
       
@@ -992,12 +992,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the SYStem reSTARted [in resPONSE to the seCUrity PATCH].</li>
+          <li>the SYStem reSTARted [in reSPONSE to the seCUrity PATCH].</li>
           <li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [để ứng phó/phản hồi với bản vá bảo mật].</li>
       
-          <li className="list-none">Hình thái mới: [in resPONSE to the seCUrity PATCH] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] mới, bắt đầu bằng [COMplex prepoSITional BASE][PHỨC GIỚI CƠ] "in resPONSE to" được đưa vào thế chỗ.</li>
+          <li className="list-none">Hình thái mới: [in reSPONSE to the seCUrity PATCH] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] mới, bắt đầu bằng [COMplex prepoSITional BASE][PHỨC GIỚI CƠ] "in reSPONSE to" được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Chức năng mới: [in resPONSE to the seCUrity PATCH] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể, bổ nghĩa cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reSTARted" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu.</li>
+          <li className="list-none">Chức năng mới: [in reSPONSE to the seCUrity PATCH] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể, bổ nghĩa cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reSTARted" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu.</li>
       
         </ul>
 
