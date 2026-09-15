@@ -606,6 +606,28 @@
       "likes": 0
     },
     {
+      "id": "Schwa",
+      "categoryDisplay": "Pronunciation",
+      "categorySlug": "pronunciation",
+      "title": "Schwa",
+      "content": "Schwa",
+      "slug": "pronunciation/schwa",
+      "date": "2026-09-15",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "BanChatAmSchwa",
+      "categoryDisplay": "Pronunciation",
+      "categorySlug": "pronunciation",
+      "title": "Bản Chất Âm Schwa",
+      "content": "Bật mí nâng cao: 3 cách quy đổi âm Schwa thực tế trong tiếng Anh-Mỹ (NAE)",
+      "slug": "pronunciation/ban-chat-am-schwa",
+      "date": "2026-09-15",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "BayDauPhuPhienAmTiengAnh1",
       "categoryDisplay": "Tiếng Anh",
       "categorySlug": "tieng-anh",

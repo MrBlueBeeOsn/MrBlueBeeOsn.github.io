@@ -122,6 +122,18 @@ export default function PronunciationIndex(): React.JSX.Element {
               </div>
             </li>
 
+            <li>
+              <div className="li-content">
+                <Link to="/pronunciation/schwa">Schwa</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/pronunciation/ban-chat-am-schwa">Bản Chất Âm Schwa</Link>
+              </div>
+            </li>
+
             
 
             

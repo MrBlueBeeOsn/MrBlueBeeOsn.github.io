@@ -136,6 +136,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const VowelSystem = lazy(() => import('@/2_main/english/pronunciation/VowelSystem'));
 	const ClosedAndOpenSyllables = lazy(() => import('@/2_main/english/pronunciation/ClosedAndOpenSyllables'));
 	const EDSounds = lazy(() => import('@/2_main/english/pronunciation/EDSounds'));
+	const Schwa = lazy(() => import('@/2_main/english/pronunciation/Schwa'));
+	const BanChatAmSchwa = lazy(() => import('@/2_main/english/pronunciation/BanChatAmSchwa'));
 
 	// 4. Tiếng Anh
 	const TiengAnhIndex = lazy(() => import('@/2_main/english/_indexes/TiengAnhIndex'));
@@ -746,6 +748,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/pronunciation/5-vowel-system" element={<VowelSystem />} />
 					<Route path="/pronunciation/closed-and-open-syllables" element={<ClosedAndOpenSyllables />} />
 					<Route path="/pronunciation/ED-sounds" element={<EDSounds />} />
+					<Route path="/pronunciation/schwa" element={<Schwa />} />
+					<Route path="/pronunciation/ban-chat-am-schwa" element={<BanChatAmSchwa />} />
 					
 					{/* 4. Tiếng Anh */}
 					<Route path="/tieng-anh" element={<TiengAnhIndex />} />
