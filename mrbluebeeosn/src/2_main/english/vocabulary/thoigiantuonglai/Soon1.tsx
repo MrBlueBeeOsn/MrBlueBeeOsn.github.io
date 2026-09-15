@@ -97,7 +97,7 @@ export default function SOON1(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li id="">i'll be BACK SOON.</li>
+					<li id="ADverb">i'll be BACK SOON.</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ quay lại sớm.</li>
 
 					<li>the PARTy will START SOON.</li>
@@ -129,7 +129,7 @@ export default function SOON1(): React.JSX.Element {
 						Từ đồng nghĩa:
 			============================= */}
 				
-			<p className="margin-top-20">
+			<p className="margin-top-20" id="SYNonyms">
 				<mark className="highlight-238-padding-4-8">
 					<strong>Từ đồng nghĩa</strong>:
 				</mark>
@@ -151,7 +151,7 @@ export default function SOON1(): React.JSX.Element {
 						Từ trái nghĩa:
 			============================= */}
 
-			<p className="margin-top-20">
+			<p className="margin-top-20" id="ANtonyms">
 				<mark className="highlight-238-padding-4-8">
 					<strong>Từ trái nghĩa</strong>:
 				</mark>
