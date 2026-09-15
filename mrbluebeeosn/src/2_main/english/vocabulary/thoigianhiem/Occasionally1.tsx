@@ -133,7 +133,7 @@ export default function ocCAsionally1(): React.JSX.Element {
           <li><Link to="/vocabulary/SOMEtimes-1">SOMEtimes</Link> i FEEL LONEly.</li>
           <li className="margin-bottom-20 list-none">Đôi khi tôi cảm thấy cô đơn.</li>
 
-          <li>we MEET UP for COFfee NOW and THEN.</li>
+          <li>we meeT UP for COFfee NOW and THEN.</li>
           <li className="list-none">Chúng tôi gặp nhau uống cà phê thỉnh thoảng.</li>
 
         </ul>

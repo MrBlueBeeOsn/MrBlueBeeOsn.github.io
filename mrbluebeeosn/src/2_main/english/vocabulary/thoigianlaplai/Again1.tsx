@@ -32,7 +32,7 @@ export default function aGAIN1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#PHRAsal-ADverb">PHRAsal ADverb</HashLink>
+            <HashLink smooth to="#ADverb-PHRASE">ADverb PHRASE</HashLink>
           </span> &nbsp;
 
         </p>
@@ -113,7 +113,7 @@ export default function aGAIN1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="PHRAsal-ADverb">he KEPT ASKing the SAME QUESTion aGAIN and aGAIN.</li>
+          <li id="ADverb-PHRASE">he KEPT ASKing the SAME QUESTion aGAIN and aGAIN.</li>
           <li className="list-none">Anh ấy cứ hỏi đi hỏi lại cùng một câu hỏi.</li>
 
         </ul>

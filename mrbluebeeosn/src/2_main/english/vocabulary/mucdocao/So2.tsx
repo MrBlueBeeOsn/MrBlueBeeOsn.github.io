@@ -108,9 +108,9 @@ export default function SO2(): React.JSX.Element {
           <li className="list-none margin-bottom-20">Nhấn mạnh mức độ: "<strong>SO</strong>" thường được dùng để nhấn mạnh Tính Cơ hoặc Trạng Cơ.</li>
           
 
-          <li>it RAINED HEAVily, <strong>SO</strong> we STAYED HOME.</li>
+          <li>it RAINED HEAVily, <strong>so</strong> we STAYED HOME.</li>
           <li className="list-none">Trời mưa rất to, nên chúng tôi ở nhà.</li>
-          <li className="list-none margin-bottom-20">Chỉ kết quả: "<strong>So</strong>" có thể dùng để giới thiệu kết quả của một hành động hoặc tình huống.</li>
+          <li className="list-none margin-bottom-20">Chỉ kết quả: "<strong>so</strong>" có thể dùng để giới thiệu kết quả của một hành động hoặc tình huống.</li>
           
 
           <li>Đa dạng ngữ cảnh: "<strong>SO</strong>" là một từ rất phổ biến và có nhiều cách dùng khác nhau tùy thuộc vào ngữ cảnh.</li>

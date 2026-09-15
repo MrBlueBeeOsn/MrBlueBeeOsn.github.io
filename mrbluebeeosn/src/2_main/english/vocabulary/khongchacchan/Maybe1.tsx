@@ -125,7 +125,7 @@ export default function MAYbe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/perHAPS-1">perHAPS</Link> we can MEET UP LAter.</li>
+          <li><Link to="/vocabulary/perHAPS-1">perHAPS</Link> we can meeT UP LAter.</li>
           <li className="margin-bottom-20 list-none">Có lẽ chúng ta có thể gặp nhau sau.</li>
 
           <li>it's <Link to="/vocabulary/POSsibly-1">POSsibly</Link> the BEST DAY of my LIFE.</li>

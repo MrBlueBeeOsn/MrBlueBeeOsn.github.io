@@ -56,7 +56,7 @@ export default function MAYbe2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">let's MEET UP for COFfee MAYbe LAter.</li>
+        <li value="1">let's meeT UP for COFfee MAYbe LAter.</li>
         <li className="list-none margin-bottom-20">Chúng ta có thể gặp nhau uống cà phê sau nhé.</li>
 
         <li value="2">i'm NOT SURE if i can MAKE it. MAYbe NOT.</li>

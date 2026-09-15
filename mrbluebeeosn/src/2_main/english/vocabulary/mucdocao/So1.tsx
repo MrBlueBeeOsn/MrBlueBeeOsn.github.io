@@ -125,10 +125,10 @@ export default function SO1(): React.JSX.Element {
           <li id="conJUNCtion">it was RAINing, so we STAYED HOME.</li>
           <li className="margin-bottom-20 list-none">Trời đang mưa, vì vậy chúng tôi ở nhà.</li>
 
-          <li>he WORKED HARD, so he GOT a proMOtion.</li>
-          <li className="list-none">Anh ấy đã làm việc chăm chỉ, do đó anh ấy được thăng chức.</li>
+          <li className="list-none">he WORKED HARD, so he GOT a proMOtion.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã làm việc chăm chỉ, do đó anh ấy được thăng chức.</li>
 
-          <li>she SAID she would HELP, and so she DID.</li>
+          <li className="list-none">she SAID she would HELP, and so she DID.</li>
           <li className="list-none">Cô ấy nói sẽ giúp, và cô ấy đã làm như vậy.</li>
 
         </ul>
@@ -206,7 +206,7 @@ export default function SO1(): React.JSX.Element {
         <ul className="list-square">
 
 
-          <li>it STARTed to RAIN, SO we WENT HOME.</li>
+          <li>it STARTed to RAIN, so we WENT HOME.</li>
           <li className="list-none">Trời bắt đầu mưa, vì vậy chúng tôi đi về nhà.</li>
 
         </ul>
@@ -227,13 +227,16 @@ export default function SO1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she was SO TIred that she FELL aSLEEP imMEdiately.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy mệt đến nỗi cô ấy ngủ thiếp đi ngay lập tức.</li>
+          <li className="list-none">Cô ấy mệt đến nỗi cô ấy ngủ thiếp đi ngay lập tức.</li>
+          <li className="margin-bottom-20 list-none">➝ SO nhấn mạnh TIred: SO là ADverb</li>
 
           <li>are you COMing to the PARTy? "i THINK SO."</li>
-          <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? "Tôi nghĩ vậy."</li>
+          <li className="list-none">Bạn có đến bữa tiệc không? "Tôi nghĩ vậy."</li>
+          <li className="margin-bottom-20 list-none">➝ SO thay thế OBject: SO là PROnoun</li>
 
-          <li>it STARted RAINing HEAVily, SO we deCIded to GO HOME.</li>
+          <li>it STARted RAINing HEAVily, so we deCIded to GO HOME.</li>
           <li className="list-none">Trời bắt đầu mưa to, do đó/vì vậy chúng tôi quyết định về nhà.</li>
+          <li className="list-none">➝ so chỉ kết quả: so là conJUNCtion</li>
 
         </ul>
 
@@ -280,7 +283,7 @@ export default function SO1(): React.JSX.Element {
 
           <li>Khi "<strong>SO</strong>" là Trạng Cơ chỉ mức độ, nó thường đứng trước Tính Cơ hoặc trạng cơ.</li>
 
-          <li className="margin-bottom-20">Khi "<strong>SO</strong>" là liên cơ, nó thường đứng ở đầu câu con chỉ kết quả.</li>
+          <li className="margin-bottom-20">Khi "<strong>so</strong>" là liên cơ, nó thường đứng ở đầu câu con chỉ kết quả.</li>
 
         </ul>
 
