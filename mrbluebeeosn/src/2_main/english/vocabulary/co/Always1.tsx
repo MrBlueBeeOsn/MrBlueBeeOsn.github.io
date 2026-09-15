@@ -196,7 +196,7 @@ export default function ALways1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he ALways GETS UP at 6 a.M.</li>
+          <li>he ALways <strong>get</strong>S UP at 6 a.M.</li>
           <li className="list-none">Anh ấy luôn dậy lúc 6 giờ sáng.</li>
 
         </ul>

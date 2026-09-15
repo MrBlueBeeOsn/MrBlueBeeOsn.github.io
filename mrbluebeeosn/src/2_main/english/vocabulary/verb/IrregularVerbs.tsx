@@ -1289,9 +1289,9 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy [đã mặc] một chiếc váy xinh xắn đến bữa tiệc [vào tối qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng wore để chỉ việc đã xảy ra và kết thúc hoàn toàn trong quá khứ.</li>
 			
-					<li>THIS PAIR of SHOES [has been worn OUT comPLETely].</li>
+					<li>THIS PAIR of SHOES [has been worN OUT comPLETely].</li>
 					<li className="list-none">Đôi giày này [đã bị mòn đi hoàn toàn] [rồi].</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành bị động với cụm động worn OUT (trong đó OUT là trạng đi liền sau động worn), nói về sự việc đã hoàn tất và để lại kết quả ở hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành bị động với cụm động worN OUT (trong đó OUT là trạng đi liền sau động worn), nói về sự việc đã hoàn tất và để lại kết quả ở hiện tại.</li>
 			
 				</ul>
 

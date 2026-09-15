@@ -94,7 +94,7 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "MOST of the MILK _______ SPOILED because it was left OUT overNIGHT.",
+			question: "MOST of the MILK _______ SPOILED because it was lefT OUT overNIGHT.",
 			options: [
 				"have",
 				"are",

@@ -201,7 +201,7 @@ export default function RAREly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she RAREly GOES OUT on WEEKends.</li>
+          <li>she RAREly goeS OUT on WEEKends.</li>
           <li className="list-none">Cô ấy hiếm khi ra ngoài vào các ngày trong tuần.</li>
 
         </ul>

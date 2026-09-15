@@ -422,7 +422,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					<li id="haNG-OUT2">on WEEKends, i Usually LIKE to <strong>haNG OUT</strong> with my FRIENDS at a LOcal COFfee SHOP.</li>
 					<li className="margin-bottom-20 list-none">Vào cuối tuần, tôi thường thích <strong>đi chơi</strong> với bạn bè ở một quán cà phê địa phương.</li>
 			
-					<li id="catCH-UP2">we HAVEn't SEEN EACH OTHer for MONTHS, so we met UP for LUNCH to <strong>catCH UP</strong> on EACH OTHer's LIVES.</li>
+					<li id="catCH-UP2">we HAVEn't SEEN EACH OTHer for MONTHS, so we meT UP for LUNCH to <strong>catCH UP</strong> on EACH OTHer's LIVES.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã không gặp nhau nhiều tháng nay, vì vậy chúng tôi đã hẹn gặp nhau ăn trưa để <strong>cập nhật tình hình</strong> cuộc sống của nhau.</li>
 
 					<li id="get-aLONG2">FORtunately, ALL of my NEW COLleagues are VERy FRIENDly, and i <strong>get aLONG</strong> with them QUITE WELL.</li>

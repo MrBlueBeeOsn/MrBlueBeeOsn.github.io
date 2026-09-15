@@ -187,7 +187,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>Even in her SEVenties, she reMAINS VEry <strong>ACtive</strong> and GOES JOGging <strong>ever</strong>y MORNing.</li>
 					<li className="margin-bottom-20 list-none">Dù đã ở tuổi bảy mươi, bà ấy vẫn rất <strong>năng động</strong> và đi chạy bộ mỗi buổi sáng.</li>
 			
-					<li>the MARketing TEAM CAME UP with a <strong>creAtive</strong> camPAIGN to atTRACT YOUNGer CUStomers.</li>
+					<li>the MARketing TEAM caME UP with a <strong>creAtive</strong> camPAIGN to atTRACT YOUNGer CUStomers.</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ tiếp thị đã đưa ra một chiến dịch <strong>sáng tạo</strong> để thu hút khách hàng trẻ tuổi.</li>
 
 					<li>the hisTORical TOWN has <strong>man</strong>y ANcient BUILDings and an <strong>atTRACtive</strong> OLD-WORLD CHARM.</li>
@@ -265,7 +265,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>the LECture was SO <strong>BORing</strong> that MOST of the STUdents FELL aSLEEP.</li>
 					<li className="margin-bottom-20 list-none">Bài giảng <strong>nhàm chán</strong> đến mức phần lớn học sinh đã ngủ gật.</li>
 			
-					<li>HIKing UP the MOUNtain ALL DAY was VEry <strong>TIRing</strong>, but the VIEW at the TOP was WORTH it.</li>
+					<li>HIKing up the MOUNtain ALL DAY was VEry <strong>TIRing</strong>, but the VIEW at the TOP was WORTH it.</li>
 					<li className="margin-bottom-20 list-none">Việc đi bộ đường dài lên núi suốt cả ngày rất <strong>mệt</strong>, nhưng phong cảnh trên đỉnh thì rất đáng giá.</li>
 
 					<li>she TOLD me an <strong>INTEResting</strong> STOry about her TRIP to jaPAN.</li>

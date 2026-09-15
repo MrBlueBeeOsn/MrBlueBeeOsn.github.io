@@ -201,7 +201,7 @@ export default function aGAIN1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the PRICE of GAS is GOing UP aGAIN.</li>
+          <li>the PRICE of GAS is <strong>go</strong>iNG UP aGAIN.</li>
           <li className="list-none">Giá xăng lại tăng lên rồi.</li>
 
         </ul>

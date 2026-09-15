@@ -463,7 +463,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>it <strong>beGAN RAINing</strong> HEAVily JUST as we STEPPED OUT of the RESTAUrant.</li>
+					<li>it <strong>beGAN RAINing</strong> HEAVily JUST as we steppED OUT of the RESTAUrant.</li>
 					<li className="list-none">Trời <strong>bắt đầu đổ mưa</strong> lớn ngay khi chúng tôi bước ra khỏi nhà hàng.</li>
 					<li className="margin-bottom-20 list-none">it là chủ thể. Cấu trúc này thường được dùng khi miêu tả một quá trình hoặc sự việc tự nhiên bắt đầu diễn ra.</li>
 			
@@ -497,7 +497,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li className="list-none">Anh ấy <strong>thích làm việc</strong> với dữ liệu thô hơn là tóm tắt văn bản.</li>
 					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc preFER + V-ing thường dùng để diễn tả một sở thích chung mang tính lâu dài hoặc thói quen.</li>
 			
-					<li>RIGHT NOW, she <strong>preFERS to STAY</strong> HOME and READ a BOOK in<strong>stead</strong> of GOing OUT.</li>
+					<li>RIGHT NOW, she <strong>preFERS to STAY</strong> HOME and READ a BOOK in<strong>stead</strong> of <strong>go</strong>iNG OUT.</li>
 					<li className="list-none">Ngay lúc này, cô ấy <strong>thích ở nhà</strong> đọc sách hơn là đi chơi bên ngoài.</li>
 					<li className="list-none">she là chủ thể. Cấu trúc preFER + to V thường dùng khi nhấn mạnh vào một sở thích hoặc sự lựa chọn trong một tình huống cụ thể (thường đi kèm với từ would preFER hoặc các trạng từ chỉ thời điểm như now).</li>
 			
@@ -557,7 +557,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li className="list-none">Việc thay đổi phần mềm báo cáo <strong>có nghĩa là phải viết lại</strong> tất cả các tệp dữ liệu cũ.</li>
 					<li className="margin-bottom-20 list-none">Cụm CHANging the rePORTing SOFTware là chủ thể. Cấu trúc MEAN + V-ing dùng để chỉ hệ quả, sự việc hoặc kết quả tất yếu mà một hành động dẫn đến.</li>
 			
-					<li>he <strong>MEANT to FINish</strong> the fiNANcial AUdit rePORT YESterday, but he RAN OUT of TIME.</li>
+					<li>he <strong>MEANT to FINish</strong> the fiNANcial AUdit rePORT YESterday, but he raN OUT of TIME.</li>
 					<li className="list-none">Anh ấy <strong>đã có ý định hoàn thành</strong> báo cáo kiểm toán tài chính vào ngày hôm qua, nhưng anh ấy đã hết thời gian.</li>
 					<li className="list-none">he là chủ thể. Cấu trúc MEAN + to V dùng để diễn tả ý định, dự định hoặc mong muốn thực hiện một việc gì đó (thường dùng trong dạng quá khứ MEANT to để giải thích cho việc chưa hoàn thành).</li>
 			
@@ -568,11 +568,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>af</strong>ter a SHORT COFfee BREAK, she <strong>WENT ON WORKing</strong> on the MONTHly TAX rePORTS.</li>
+					<li><strong>af</strong>ter a SHORT COFfee BREAK, she <strong>wenT ON WORKing</strong> on the MONTHly TAX rePORTS.</li>
 					<li className="list-none">Sau một khoảng nghỉ uống cà phê ngắn, cô ấy <strong>đã tiếp tục làm</strong> các báo cáo thuế hàng tháng.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc gO ON + V-ing dùng để chỉ việc tiếp tục một hành động đang làm trước đó mà không bị gián đoạn hay thay đổi công việc.</li>
 			
-					<li>the acCOUNtant FINished reVIEWing the INvoices and then <strong>WENT ON to CHECK</strong> the BANK STATEments.</li>
+					<li>the acCOUNtant FINished reVIEWing the INvoices and then <strong>wenT ON to CHECK</strong> the BANK STATEments.</li>
 					<li className="list-none">Người kế toán đã xem xét xong các hóa đơn và sau đó <strong>chuyển sang kiểm tra</strong> các sao kê ngân hàng.</li>
 					<li className="list-none">the acCOUNtant là chủ thể. Cấu trúc gO ON + to V dùng khi hoàn thành xong một hành động/giai đoạn này và bước sang thực hiện một hành động, giai đoạn mới tiếp theo.</li>
 			
@@ -692,7 +692,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>GAVE UP DRINKing</strong> INstant COFfee and SWITCHED enTIrely to traDITional PHIN BREWS.</li>
+					<li>he <strong>gaVE UP DRINKing</strong> INstant COFfee and SWITCHED enTIrely to traDITional PHIN BREWS.</li>
 					<li className="list-none">Anh ấy <strong>đã từ bỏ việc uống</strong> cà phê hòa tan và chuyển hoàn toàn sang cà phê phin truyền thống.</li>
 					<li className="list-none">he là chủ thể. Sau cụm động từ giVE UP, hành động tiếp theo bắt buộc phải ở dạng -ing (DRINKing), dùng để chỉ việc từ bỏ hoặc chấm dứt một thói quen, hành động nào đó.</li>
 			
@@ -747,7 +747,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>RISKED LOsing</strong> all her fiNANcial DATA by NOT BACKing UP the SYStem REGularly.</li>
+					<li>she <strong>RISKED LOsing</strong> all her fiNANcial DATA by NOT <strong>back</strong>ing UP the SYStem REGularly.</li>
 					<li className="list-none">Cô ấy <strong>đã liều lĩnh để mất</strong> tất cả dữ liệu tài chính của mình vì không sao lưu hệ thống thường xuyên.</li>
 					<li className="list-none">she là chủ thể. Sau động từ risk, hành động tiếp theo bắt buộc phải ở dạng -ing (LOsing), dùng để diễn tả việc chấp nhận mạo hiểm đối mặt với một kết quả bất lợi.</li>
 			

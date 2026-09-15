@@ -371,7 +371,7 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square" id="ADverb-PHRASE">
 			
-					<li>he WOKE UP EARly [to CATCH the TRAIN].</li>
+					<li>he woKE UP EARly [to CATCH the TRAIN].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã thức dậy sớm [để bắt kịp chuyến tàu].</li>
 			
 					<li className="list-none">Hình thái: [to CATCH the TRAIN] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] xác định khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] - [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ], bắt đầu bằng [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] dạng V-ing trong các cấu trúc biến thể hoặc liên kết mở rộng.</li>

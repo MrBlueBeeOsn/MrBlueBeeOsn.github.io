@@ -99,7 +99,7 @@ export default function SUDdenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADverb">SUDdenly, the LIGHTS WENT OUT.</li>
+          <li id="ADverb">SUDdenly, the LIGHTS wenT OUT.</li>
           <li className="margin-bottom-20 list-none">Đột nhiên, đèn tắt.</li>
 
           <li>she SUDdenly REalized she had LEFT her PHONE at HOME.</li>

@@ -192,20 +192,20 @@ export default function VERBSADDS(): React.JSX.Element {
 					</p>
 
 					<p className="example-sentence">
-						<span className="pill s"><strong>ta</strong>king OFF</span> &nbsp;<span className="pill p"><strong>giv</strong>en UP</span> &nbsp;<span className="pill v"><strong>wo</strong>ken UP</span>
+						<span className="pill s"><strong>ta</strong>kiNG OFF</span> &nbsp;<span className="pill p"><strong>giv</strong>eN UP</span> &nbsp;<span className="pill v"><strong>wo</strong>keN UP</span>
 				 </p>
 				
 				
 					<p className="example-sentence">
-							<span className="pill s"><strong>bro</strong>ken DOWN</span> &nbsp;<span className="pill p"><strong>fig</strong>ured OUT</span> &nbsp;<span className="pill v"><strong>car</strong>ried ON</span>
+							<span className="pill s"><strong>bro</strong>keN DOWN</span> &nbsp;<span className="pill p"><strong>fig</strong>urED OUT</span> &nbsp;<span className="pill v"><strong>car</strong>riED ON</span>
 					</p>
 
 					<p className="example-sentence">
-							<span className="pill s"><strong>set</strong>tled IN</span> &nbsp;<span className="pill p"><strong>hur</strong>ried IN</span> &nbsp;<span className="pill v"><strong>hap</strong>pened ON</span>
+							<span className="pill s"><strong>set</strong>tlED IN</span> &nbsp;<span className="pill p"><strong>hur</strong>riED IN</span> &nbsp;<span className="pill v"><strong>hap</strong>penED ON</span>
 					</p>
 
 					<p className="example-sentence">
-						<span className="pill t">OFF, UP, DOWN, OUT, ON, IN, etc in PHRAsal VERBS are NOT <del>prepoSITions</del>, they are ADverbs, STRESSED ON ADverbs, NOT STRESSED on VERBS</span>
+						<span className="pill t">OFF, UP, DOWN, OUT, ON, IN, etc in PHRAsal VERBS are NOT <del>prepoSITions</del>, they are ADverbs, STRESSED on ADverbs, NOT STRESSED on VERBS</span>
 				 </p>
 
 

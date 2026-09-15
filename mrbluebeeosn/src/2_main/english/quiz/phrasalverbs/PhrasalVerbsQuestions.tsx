@@ -70,7 +70,7 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "when i ASKED about his FAMILy, he QUICKly brought UP a NEW TOPic. WHAT does \"briNG UP\" MEAN HERE?",
+			question: "when i ASKED about his FAMILy, he QUICKly broughT UP a NEW TOPic. WHAT does \"briNG UP\" MEAN HERE?",
 			options: [
 				"to RAISE a CHILD",
 				"to MENtion or introDUCE a SUBject",

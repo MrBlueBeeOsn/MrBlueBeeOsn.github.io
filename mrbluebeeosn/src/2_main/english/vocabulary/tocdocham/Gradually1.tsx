@@ -169,7 +169,7 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the LIGHTS <Link to="/vocabulary/SUDdenly-1">SUDdenly</Link> WENT OUT.</li>
+          <li>the LIGHTS <Link to="/vocabulary/SUDdenly-1">SUDdenly</Link> wenT OUT.</li>
           <li className="margin-bottom-20 list-none">Đèn đột ngột tắt.</li>
 
           <li>the MEEting ENDed abRUPTly.</li>

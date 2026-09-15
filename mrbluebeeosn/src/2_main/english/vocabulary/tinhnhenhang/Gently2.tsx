@@ -65,7 +65,7 @@ export default function GENTly2(): React.JSX.Element {
         <li value="3">she GENTly SHOOK the BOTtle to MIX the inGREdients.</li>
         <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng lắc chai để trộn các thành phần.</li>
 
-        <li value="4">the HILL GENTly SLOPED DOWN to the VALley.</li>
+        <li value="4">the HILL GENTly SLOPED down to the VALley.</li>
         <li className="list-none margin-bottom-20">Ngọn đồi thoai thoải xuống thung lũng.</li>
 
         <li value="5">it was GENTly RAINing outSIDE.</li>

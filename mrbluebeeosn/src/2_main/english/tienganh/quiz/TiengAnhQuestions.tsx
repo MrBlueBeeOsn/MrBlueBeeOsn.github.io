@@ -130,7 +130,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "Only after the PLANE had TAken OFF _______ REalize HOW NERvous he was.",
+			question: "Only after the PLANE had takeN OFF _______ REalize HOW NERvous he was.",
 			options: [
 				"did he",
 				"he did",
