@@ -553,9 +553,9 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>CHANging the rePORTing SOFTware <strong>MEANS reWRIting</strong> all the old DAta FILES.</li>
+					<li>CHAnging the rePORTing SOFTware <strong>MEANS reWRIting</strong> all the old DAta FILES.</li>
 					<li className="list-none">Việc thay đổi phần mềm báo cáo <strong>có nghĩa là phải viết lại</strong> tất cả các tệp dữ liệu cũ.</li>
-					<li className="margin-bottom-20 list-none">Cụm CHANging the rePORTing SOFTware là chủ thể. Cấu trúc MEAN + V-ing dùng để chỉ hệ quả, sự việc hoặc kết quả tất yếu mà một hành động dẫn đến.</li>
+					<li className="margin-bottom-20 list-none">Cụm CHAnging the rePORTing SOFTware là chủ thể. Cấu trúc MEAN + V-ing dùng để chỉ hệ quả, sự việc hoặc kết quả tất yếu mà một hành động dẫn đến.</li>
 			
 					<li>he <strong>MEANT to FINish</strong> the fiNANcial AUdit rePORT YESterday, but he raN OUT of TIME.</li>
 					<li className="list-none">Anh ấy <strong>đã có ý định hoàn thành</strong> báo cáo kiểm toán tài chính vào ngày hôm qua, nhưng anh ấy đã hết thời gian.</li>
@@ -648,9 +648,9 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>conSIDered CHANging</strong> her caREER PATH to FOcus enTIrely on NEW WEB deVELopment.</li>
+					<li>she <strong>conSIDered CHAnging</strong> her caREER PATH to FOcus enTIrely on NEW WEB deVELopment.</li>
 					<li className="list-none">Cô ấy <strong>đã cân nhắc việc thay đổi</strong> con đường sự nghiệp của mình để tập trung hoàn toàn vào việc phát triển web.</li>
-					<li className="list-none">she là chủ thể. Sau động từ conSIDer, hành động tiếp theo bắt buộc phải ở dạng -ing (CHANging), dùng để chỉ việc suy nghĩ, cân nhắc kỹ lưỡng về một khả năng hoặc hành động nào đó.</li>
+					<li className="list-none">she là chủ thể. Sau động từ conSIDer, hành động tiếp theo bắt buộc phải ở dạng -ing (CHAnging), dùng để chỉ việc suy nghĩ, cân nhắc kỹ lưỡng về một khả năng hoặc hành động nào đó.</li>
 			
 				</ul>
 			

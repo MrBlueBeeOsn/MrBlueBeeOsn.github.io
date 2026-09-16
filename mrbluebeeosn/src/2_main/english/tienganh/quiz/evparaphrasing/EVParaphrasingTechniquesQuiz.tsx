@@ -24,21 +24,21 @@ export default function EVParaphrasingTechniquesQuiz(): React.JSX.Element {
 			id: 1,
 			question: "WHICH of the FOLlowing is the MOST efFECtive WAY to START PARaphrasing a SENtence?",
 			options: [
-				"CHANging Only the ADjectives and ADverbs.",
+				"CHAnging Only the ADjectives and ADverbs.",
 				"Using a theSAUrus to rePLACE every SINGle WORD.",
 				"underSTANDing the FULL MEANing and then reWRIting it in your OWN WORDS.",
-				"rearRANging the WORD ORder without CHANging any voCABulary."
+				"rearRANging the WORD ORder without CHAnging any voCABulary."
 			],
 			correctAnswer: 2,
 			explanation: "PARaphrasing không chỉ là thay đổi từ ngữ mà quan trọng nhất là phải hiểu trọn vẹn ý nghĩa của câu gốc, sau đó diễn đạt lại theo cấu trúc và từ vựng của riêng mình để tránh đạo văn."
 		},
 		{
 			id: 2,
-			question: "CHANging \"the comMITtee postPONED the MEETing\" to \"the MEETing was postPONED by the comMITtee\" is an exAMple of WHICH techNIQUE?",
+			question: "CHAnging \"the comMITtee postPONED the MEETing\" to \"the MEETing was postPONED by the comMITtee\" is an exAMple of WHICH techNIQUE?",
 			options: [
 				"Using SYNonyms",
-				"CHANging the VOICE (ACtive to PASsive)",
-				"CHANging the PART of SPEECH",
+				"CHAnging the VOICE (ACtive to PASsive)",
+				"CHAnging the PART of SPEECH",
 				"comBIning SENtences"
 			],
 			correctAnswer: 1,
@@ -48,8 +48,8 @@ export default function EVParaphrasingTechniquesQuiz(): React.JSX.Element {
 			id: 3,
 			question: "if you CHANGE the WORD \"ACcurate\" to \"preCISE\" in a SENtence, WHICH techNIQUE are you Using?",
 			options: [
-				"CHANging the WORD FORM",
-				"CHANging the SENtence STRUCture",
+				"CHAnging the WORD FORM",
+				"CHAnging the SENtence STRUCture",
 				"Using SYNonyms",
 				"reDUcing CLAUses"
 			],
@@ -73,9 +73,9 @@ export default function EVParaphrasingTechniquesQuiz(): React.JSX.Element {
 			question: "Changing \"he deCIded to LEAVE because he was TIred\" to \"because of his faTIGUE, he deCIded to LEAVE\" inVOLVES:",
 			options: [
 				"Using ANtonyms",
-				"CHANging the PART of SPEECH (ADjective to NOUN)",
-				"CHANging a STATEment to a QUEStion",
-				"Only CHANging the WORD ORder"
+				"CHAnging the PART of SPEECH (ADjective to NOUN)",
+				"CHAnging a STATEment to a QUEStion",
+				"Only CHAnging the WORD ORder"
 			],
 			correctAnswer: 1,
 			explanation: "Tính cơ \"TIred\" (mệt mỏi) đã được chuyển thành Danh Cơ \"faTIGUE\" (sự mệt mỏi) để thay đổi cấu trúc câu."
@@ -120,10 +120,10 @@ export default function EVParaphrasingTechniquesQuiz(): React.JSX.Element {
 			id: 9,
 			question: "iDENtify the techNIQUE USED: \"the CAR was exPENsive\" -> \"the AUtomobile was NOT CHEAP.\"",
 			options: [
-				"CHANging WORD ORder",
+				"CHAnging WORD ORder",
 				"Using SYNonyms and ANtonyms (with neGAtion)",
-				"CHANging a CLAUSE to a PHRASE",
-				"CHANging from PASsive to ACtive"
+				"CHAnging a CLAUSE to a PHRASE",
+				"CHAnging from PASsive to ACtive"
 			],
 			correctAnswer: 1,
 			explanation: "Người viết đã thay \"CAR\" bằng \"AUtomobile\" (đồng nghĩa) và \"exPENsive\" bằng \"NOT CHEAP\" (phủ định của từ trái nghĩa)."

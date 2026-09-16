@@ -103,13 +103,13 @@ export default function QUICKly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the CIty is QUICKly GROWing and exPANding.</li>
+        <li value="1" id="">the CIty is QUICKly GROWing and exPANDing.</li>
         <li className="list-none margin-bottom-20">Thành phố đang phát triển và mở rộng rất nhanh.</li>
 
         <li value="2" id="">the SUN QUICKly FADed behind the CLOUDS.</li>
         <li className="list-none margin-bottom-20">Mặt trời nhanh chóng biến mất sau những đám mây.</li>
 
-        <li value="3" id="">the FASHion INdustry is QUICKly CHANging.</li>
+        <li value="3" id="">the FASHion INdustry is QUICKly CHAnging.</li>
         <li className="list-none margin-bottom-20">Ngành công nghiệp thời trang đang thay đổi rất nhanh.</li>
 
         <li value="4" id="">i QUICKly REalized my misTAKE.</li>

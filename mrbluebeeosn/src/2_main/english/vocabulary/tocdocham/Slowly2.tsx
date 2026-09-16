@@ -103,7 +103,7 @@ export default function SLOWly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she is SLOWly but SUREly MAKing PROgress in her STUDies.</li>
+        <li value="1" id="">she is SLOWly but SUREly MAking PROgress in her STUDies.</li>
         <li className="list-none margin-bottom-20">Cô ấy đang tiến bộ trong học tập một cách chậm mà chắc.</li>
 
         <li value="2" id="">the SOUND of the MUsic SLOWly FADed into the NIGHT.</li>
@@ -115,7 +115,7 @@ export default function SLOWly2(): React.JSX.Element {
         <li value="4" id="">the PLANT is SLOWly GROWing TALler.</li>
         <li className="list-none margin-bottom-20">Cây đang dần dần cao lớn hơn.</li>
 
-        <li value="5" id="">the CLImate is SLOWly CHANging due to GLObal WARMing.</li>
+        <li value="5" id="">the CLImate is SLOWly CHAnging due to GLObal WARMing.</li>
         <li className="list-none margin-bottom-20">Khí hậu đang dần dần thay đổi do biến đổi khí hậu toàn cầu.</li>
 
         <li value="6" id="">the SNAIL was SLOWly MOVing across the LEAF.</li>

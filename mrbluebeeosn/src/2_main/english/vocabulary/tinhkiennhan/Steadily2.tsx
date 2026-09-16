@@ -118,7 +118,7 @@ export default function STEADily2(): React.JSX.Element {
         <li value="5" id="">her ENGlish SKILLS have been STEADily imPROVing with PRACtice.</li>
         <li className="list-none margin-bottom-20">Kỹ năng tiếng Anh của cô ấy đã cải thiện một cách đều đặn nhờ luyện tập.</li>
 
-        <li value="6" id="">he STEADily WORKED on the PROJect, MAKing conSIStent PROGress.</li>
+        <li value="6" id="">he STEADily WORKED on the PROJect, MAking conSIStent PROGress.</li>
         <li className="list-none margin-bottom-20">Anh ấy làm việc trên dự án một cách đều đặn, đạt được tiến bộ ổn định.</li>
 
         <li value="7" id="">it STEADily RAINED throughout the MORNing.</li>
