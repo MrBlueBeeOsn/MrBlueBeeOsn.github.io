@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function Vegetables(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "Vegetables";
 
   return (<>
 
@@ -15,7 +15,9 @@ export default function (): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#nouns-"><mark className="highlight-tertiary-padding-4-8"></mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#nouns-fruits-&-vegetables"><mark className="highlight-tertiary-padding-4-8">NOUNS: FRUITS & VEGETables</mark></HashLink></h4>
+
+      <h1 className="margin-y-50 text-center">🥦 Nhóm Rau Củ Quả</h1>
 
       <div className="example">
                                 
@@ -103,7 +105,7 @@ export default function (): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎GEM ·</span>
+          <span>September 16, 2026 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

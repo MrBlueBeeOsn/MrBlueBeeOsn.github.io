@@ -1655,6 +1655,42 @@
 			"content": "[creATE] is a [Root Verb Base] that means to bring something into existence, or to cause something to happen. [creATE] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là tạo ra, sáng tạo, hoặc làm cho một điều gì đó xuất hiện.",
 			"slug": "vocabulary/create",
 			"date": "2026-07-07"
+		},
+		{ 
+			"id": "Fruits",
+			"categoryDisplay": "Tạo ra",
+			"categorySlug": "vocabulary#verbs-terms",
+			"title": "Fruits",
+			"content": "Fruits: 🍎 Nhóm Trái Cây",
+			"slug": "vocabulary/fruits",
+			"date": "2026-09-16"
+		},
+		{ 
+			"id": "Vegetables",
+			"categoryDisplay": "Tạo ra",
+			"categorySlug": "vocabulary#verbs-terms",
+			"title": "Vegetables",
+			"content": "Vegetables: 🥦 Nhóm Rau Củ Quả",
+			"slug": "vocabulary/Vegetables",
+			"date": "2026-09-16"
+		},
+		{ 
+			"id": "VietnameseFruits",
+			"categoryDisplay": "Tạo ra",
+			"categorySlug": "vocabulary#verbs-terms",
+			"title": "Vietnamese Fruits",
+			"content": "Vietnamese Fruits: 🥭 Trái Cây Đặc Sản Việt Nam",
+			"slug": "vocabulary/VietnameseFruits",
+			"date": "2026-09-16"
+		},
+		{ 
+			"id": "VietnameseVegetables",
+			"categoryDisplay": "Tạo ra",
+			"categorySlug": "vocabulary#verbs-terms",
+			"title": "Vietnamese Vegetables & Herbs",
+			"content": "Vietnamese Vegetables & Herbs: 🌿 Rau Củ & Gia Vị Đặc Sản",
+			"slug": "vocabulary/vietnamese-vegetables",
+			"date": "2026-09-16"
 		}
 	]
 }

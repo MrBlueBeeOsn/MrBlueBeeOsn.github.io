@@ -33,6 +33,49 @@ export default function VocabularyIndex(): React.JSX.Element {
 			</div>
 
 
+			<div className="flex-container margin-top-20">
+			
+			
+				{/* =============================
+						VERB
+				============================= */}
+
+				<div className="sub-box">
+
+					{/* =============================
+							VERBS
+					============================= */}
+			
+					<p id="nouns-fruits-&-vegetables"><mark className="highlight-secondary-padding-2-4">NOUNS: FRUITS & VEGETables</mark></p>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/fruits">FRUITS</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/vegetables">VEGETables</Link> 	
+						</li>
+
+						<li>
+							<Link to="/vocabulary/vietnamese-fruits">VietnaMESE FRUITS</Link> 	
+						</li>
+
+						<li>
+							<Link to="/vocabulary/vietnamese-vegetables">VietnaMESE VEGETables</Link> 	
+						</li>
+
+					</ul>
+
+				</div>
+
+			
+
+			</div>
+
+			<hr className="hr-short"/>
+
 
 			<div className="vocabulary-container margin-top-20">
 						

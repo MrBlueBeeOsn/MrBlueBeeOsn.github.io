@@ -350,7 +350,15 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const VocabularyIndex = lazy(() => import('@/2_main/english/_indexes/VocabularyIndex'));
 
 
-	// 1. Verbs
+
+	// 1. Nouns
+	const Fruits = lazy(() => import('@/2_main/english/vocabulary/noun/Fruits'));
+	const Vegetables = lazy(() => import('@/2_main/english/vocabulary/noun/Vegetables'));
+	const VietnameseFruits = lazy(() => import('@/2_main/english/vocabulary/noun/VietnameseFruits'));
+	const VietnameseVegetables = lazy(() => import('@/2_main/english/vocabulary/noun/VietnameseVegetables'));
+
+
+	// 2. Verbs
 	const Clear = lazy(() => import('@/2_main/english/vocabulary/verb/Clear'));
 	const Respond = lazy(() => import('@/2_main/english/vocabulary/verb/Respond'));
 	const Create = lazy(() => import('@/2_main/english/vocabulary/verb/Create'));
@@ -966,6 +974,12 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Vocabulary */}
 					<Route path="/vocabulary" element={<VocabularyIndex />} />
 
+		
+					{/* 1. Vocabulary - Nouns */}
+					<Route path="/vocabulary/fruits" element={<Fruits />} />
+					<Route path="/vocabulary/vegetables" element={<Vegetables />} />
+					<Route path="/vocabulary/vietnamese-fruits" element={<VietnameseFruits />} />
+					<Route path="/vocabulary/vietnamese-vegetables" element={<VietnameseVegetables />} />
 
 
 
