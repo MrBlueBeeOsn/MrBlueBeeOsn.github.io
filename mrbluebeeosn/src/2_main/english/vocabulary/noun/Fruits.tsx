@@ -71,7 +71,7 @@ export default function Fruits(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="APple">an [APple] a DAY KEEPS the DOCtor aWAY.</li>
-        <li className="list-none margin-bottom-20">Một quả táo mỗi ngày giúp tránh xa bác sĩ / Ăn táo mỗi ngày rất tốt cho sức khỏe.</li>
+        <li className="list-none margin-bottom-20">Một [quả táo] mỗi ngày giúp tránh xa bác sĩ / Ăn táo mỗi ngày rất tốt cho sức khỏe.</li>
 
         <li value="2" id="baNANas">CHILDren and MONkeys both LOVE EATing SWEET [baNANas].</li>
         <li className="list-none margin-bottom-20">Cả trẻ em và loài khỉ đều rất thích ăn [những quả chuối] ngọt.</li>
