@@ -103,7 +103,7 @@ export default function HONestly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">HONestly SPEAKing, i DON'T LIKE that MOVie.</li>
+        <li value="1" id="">HONestly SPEAKing, i DON'T LIKE that MOvie.</li>
         <li className="list-none margin-bottom-20">Nói thật ra, tôi không thích bộ phim đó.</li>
 
         <li value="2" id="">i HONestly beLIEVE that he is INnocent.</li>

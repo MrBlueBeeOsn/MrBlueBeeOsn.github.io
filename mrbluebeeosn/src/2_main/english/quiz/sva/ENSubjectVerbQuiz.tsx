@@ -70,7 +70,7 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "NEIther of the MOVies _______ WORTH WATCHing.",
+			question: "NEIther of the MOvies _______ WORTH WATCHing.",
 			options: [
 				"are",
 				"were",

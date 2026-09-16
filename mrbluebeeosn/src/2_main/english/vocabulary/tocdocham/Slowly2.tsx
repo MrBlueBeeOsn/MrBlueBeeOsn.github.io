@@ -106,7 +106,7 @@ export default function SLOWly2(): React.JSX.Element {
         <li value="1" id="">she is SLOWly but SUREly MAking PROgress in her STUDies.</li>
         <li className="list-none margin-bottom-20">Cô ấy đang tiến bộ trong học tập một cách chậm mà chắc.</li>
 
-        <li value="2" id="">the SOUND of the MUsic SLOWly FADed into the NIGHT.</li>
+        <li value="2" id="">the SOUND of the MUsic SLOWly FAded into the NIGHT.</li>
         <li className="list-none margin-bottom-20">Âm thanh của nhạc dần dần mờ nhạt vào đêm.</li>
 
         <li value="3" id="">he is SLOWly reCOVering from his ILLness.</li>

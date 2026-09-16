@@ -65,7 +65,7 @@ export default function ACtually2(): React.JSX.Element {
 				<li value="3">she does NOT ACtually LIKE COFfee, she JUST preTENDS.</li>
 				<li className="list-none margin-bottom-20">Cô ấy không thực sự thích cà phê, cô ấy chỉ giả vờ thôi.</li>
 
-				<li value="4">as a MATter of FACT, ACtually, i've ALREAdy SEEN that MOVie.</li>
+				<li value="4">as a MATter of FACT, ACtually, i've ALREAdy SEEN that MOvie.</li>
 				<li className="list-none margin-bottom-20">Thực tế mà nói thì, tôi đã xem bộ phim đó rồi.</li>
 
 				<li value="5">it's ACtually a LONG WALK to the STORE.</li>

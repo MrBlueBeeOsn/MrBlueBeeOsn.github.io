@@ -121,7 +121,7 @@ export default function perHAPS2(): React.JSX.Element {
         <li value="6" id="">perHAPS, in THAT CASE, we should postPONE the MEETing.</li>
         <li className="list-none margin-bottom-20">Có lẽ, trong trường hợp đó, chúng ta nên hoãn cuộc họp.</li>
 
-        <li value="7" id="">perHAPS, in<strong>stead</strong> of GOing to the MOVies, we could STAY HOME and WATCH a DVD.</li>
+        <li value="7" id="">perHAPS, in<strong>stead</strong> of GOing to the MOvies, we could STAY HOME and WATCH a DVD.</li>
         <li className="list-none margin-bottom-20">Có lẽ, thay vì đi xem phim, chúng ta có thể ở nhà và xem DVD.</li>
 
         <li value="8" id="">perHAPS, we should ASK for HELP.</li>

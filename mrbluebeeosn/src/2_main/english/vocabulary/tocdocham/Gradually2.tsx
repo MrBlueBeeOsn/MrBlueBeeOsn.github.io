@@ -118,7 +118,7 @@ export default function GRADually2(): React.JSX.Element {
         <li value="5" id="">his ENGlish GRADually imPROVED <strong>af</strong>ter STUDying for a YEAR.</li>
         <li className="list-none margin-bottom-20">Tiếng Anh của anh ấy cải thiện dần sau khi học một năm.</li>
 
-        <li value="6" id="">the SUNlight GRADually FADed as the DAY TURNED into NIGHT.</li>
+        <li value="6" id="">the SUNlight GRADually FAded as the DAY TURNED into NIGHT.</li>
         <li className="list-none margin-bottom-20">Ánh nắng mặt trời dần dần mờ nhạt khi ngày chuyển sang đêm.</li>
 
         <li value="7" id="">the PAIN GRADually disapPEARED <strong>af</strong>ter TAKing the MEDicine.</li>

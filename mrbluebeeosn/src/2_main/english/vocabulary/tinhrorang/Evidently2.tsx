@@ -80,7 +80,7 @@ export default function EVidently2(): React.JSX.Element {
 				<li value="8">she was EVidently aWARE of the DANger.</li>
 				<li className="list-none margin-bottom-20">Cô ấy rõ ràng biết về mối nguy hiểm.</li>
 
-				<li value="9">the TWO eVENTS were EVidently conNECted.</li>
+				<li value="9">the TWO eVENTS were EVidently conNECTed.</li>
 				<li className="list-none margin-bottom-20">Hai sự kiện đó rõ ràng có liên quan với nhau.</li>
 
 				<li value="10">you were EVidently misTAken about the DATE.</li>
