@@ -70,34 +70,34 @@ export default function VietnameseFruits(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">Known as the king of fruits, durian has a strong aroma and a creamy texture.</li>
+        <li value="1" id="">KNOWN as the KING of FRUITS, DURian has a STRONG aROma and a CREAMy TEXture.</li>
         <li className="list-none margin-bottom-20">Được mệnh danh là vua của các loài trái cây, sầu riêng có hương thơm nồng nàn và kết cấu béo ngậy.</li>
 
-        <li value="2" id="">With its bright pink skin and unique look, dragon fruit is very refreshing.</li>
+        <li value="2" id="">with its BRIGHT PINK SKIN and uNIQUE LOOK, DRAGon FRUIT is VERy reFRESHing.</li>
         <li className="list-none margin-bottom-20">Với lớp vỏ hồng sáng và vẻ ngoài độc đáo, quả thanh long mang lại cảm giác rất thanh mát.</li>
 
-        <li value="3" id="">The hairy red shell of a rambutan hides a sweet and juicy translucent fruit inside.</li>
+        <li value="3" id="">the HAIRy RED SHELL of a ramBUtan HIDES a SWEET and JUIcy transLUcent FRUIT inSIDE.</li>
         <li className="list-none margin-bottom-20">Lớp vỏ đỏ có lông của quả chôm chôm che giấu một phần thịt quả trong suốt, ngọt và mọng nước bên trong.</li>
 
-        <li value="4" id="">Những múi mít chín có hương thơm đặc trưng và vị ngọt, dai.</li>
-        <li className="list-none margin-bottom-20">Ripe jackfruit segments have a distinct fragrance and a chewy, sweet taste.</li>
+        <li value="4" id="">RIPE JACKfruit SEGments have a disTINCT FRAgrance and a CHEWy, SWEET TASTE.</li>
+        <li className="list-none margin-bottom-20">Những múi mít chín có hương thơm đặc trưng và vị ngọt, dai.</li>
 
-        <li value="5" id="">Summer in Vietnam is incomplete without enjoying a basket of fresh, sweet lychees.</li>
+        <li value="5" id="">SUMmer in VietNAM is incomPLETE with<strong>out</strong> enJOYing a BASket of FRESH, SWEET LYchees.</li>
         <li className="list-none margin-bottom-20">Mùa hè ở Việt Nam sẽ không trọn vẹn nếu thiếu đi việc thưởng thức một giỏ vải tươi ngọt.</li>
 
-        <li value="6" id="">Sweet longan fruits are often used to make a cooling herbal dessert soup in Vietnam.</li>
+        <li value="6" id="">SWEET LONGan FRUITS are OFten USED to MAKE a COOLing HERBal desSERT SOUP in VietnaMESE.</li>
         <li className="list-none margin-bottom-20">Những quả nhãn ngọt thường được dùng để làm món chè thanh mát ở Việt Nam.</li>
 
-        <li value="7" id="">The thick purple rind of a mangosteen protects tender, snow-white segments inside.</li>
+        <li value="7" id="">the THICK PURple RIND of a MANgosteen proTECTS TENder, SNOW-WHITE SEGments inSIDE.</li>
         <li className="list-none margin-bottom-20">Lớp vỏ tím dày của quả măng cụt bảo vệ những múi trắng muốt, mềm mại bên trong.</li>
 
-        <li value="8" id="">When sliced crosswise, a star fruit naturally forms a perfect five-pointed star shape.</li>
+        <li value="8" id="">when SLICED CROSSwise, a STAR FRUIT NATurally FORMS a PERfect FIVE-POINTed STAR SHAPE.</li>
         <li className="list-none margin-bottom-20">Khi cắt ngang, quả khế tự nhiên tạo thành hình ngôi sao năm cánh hoàn hảo.</li>
 
-        <li value="9" id="">Crunchy green guava dipped in chili salt is a popular street food among students.</li>
+        <li value="9" id="">CRUNCHy GREEN GUAva DIPPED in CHILi SALT is a POPular STREET FOOD a<strong>mong</strong> STUdents.</li>
         <li className="list-none margin-bottom-20">Ổi xanh giòn chấm muối ớt là món ăn vặt đường phố rất phổ biến của học sinh.</li>
 
-        <li value="10" id="">Vietnamese pomelo has large, juicy segments that are both sweet and slightly tangy.</li>
+        <li value="10" id="">VietnaMESE POMelo has LARGE, JUIcy SEGments that are both SWEET and SLIGHTly TANGy.</li>
         <li className="list-none margin-bottom-20">Bưởi Việt Nam có những tép lớn, mọng nước, vừa ngọt lại có vị chua thanh nhẹ.</li>
 
       </ol>
