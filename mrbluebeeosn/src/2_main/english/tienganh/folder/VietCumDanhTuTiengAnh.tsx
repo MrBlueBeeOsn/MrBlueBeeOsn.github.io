@@ -216,7 +216,7 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>November 19, 2025 · by Grok and 🐝Mr. Bee Osn  ·</span>
+					<span>noVEMber 19, 2025 · by Grok and 🐝Mr. Bee Osn  ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

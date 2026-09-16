@@ -1618,7 +1618,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>January 05, 2026 · by Grok ·</span>
+					<span>JANuary 05, 2026 · by Grok ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

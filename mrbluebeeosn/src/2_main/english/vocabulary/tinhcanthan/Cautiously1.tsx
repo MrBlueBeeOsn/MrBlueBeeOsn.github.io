@@ -334,7 +334,7 @@ export default function CAUtiously1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>May 12, 2025 · by 💎GEM ·</span>
+          <span>MAY 12, 2025 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

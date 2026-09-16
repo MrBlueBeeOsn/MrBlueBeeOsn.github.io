@@ -269,7 +269,7 @@ export default function meTICulously1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 3, 2024 · by 💎GEM ·</span>
+          <span>noVEMber 3, 2024 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

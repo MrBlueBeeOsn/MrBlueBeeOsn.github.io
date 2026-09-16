@@ -141,7 +141,7 @@ export default function JourneyIndex(): React.JSX.Element {
       <div className="viewcounter">
 
         <div className="post-date no-margin">
-          <span>September 1, 2025 · by 🐝Mr. Bee Osn ·</span>
+          <span>sepTEMber 1, 2025 · by 🐝Mr. Bee Osn ·</span>
         </div>
 
         <div className="eye-icon no-margin">

@@ -105,7 +105,7 @@ export default function Fruits(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>September 16, 2026 · by 💎GEM ·</span>
+          <span>sepTEMber 16, 2026 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

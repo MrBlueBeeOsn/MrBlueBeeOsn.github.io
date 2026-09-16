@@ -262,7 +262,7 @@ export default function SOFTly1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 12, 2024 · by 💎GEM ·</span>
+          <span>noVEMber 12, 2024 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

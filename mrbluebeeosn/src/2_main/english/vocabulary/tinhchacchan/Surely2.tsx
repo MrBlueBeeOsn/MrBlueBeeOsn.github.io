@@ -162,7 +162,7 @@ export default function SUREly2(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 15, 2024 · by 💎GEM ·</span>
+          <span>noVEMber 15, 2024 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

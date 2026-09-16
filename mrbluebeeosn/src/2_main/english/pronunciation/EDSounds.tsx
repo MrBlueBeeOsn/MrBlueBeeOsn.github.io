@@ -113,7 +113,7 @@ export default function EDSounds(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>September 11, 2026 · by Mr.ßEE ·</span>
+					<span>sepTEMber 11, 2026 · by Mr.ßEE ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

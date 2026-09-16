@@ -184,7 +184,7 @@ export default function PREsentPERfect(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>December 28, 2025 · by Grok and 🐝Mr. Bee Osn  ·</span>
+					<span>deCEMber 28, 2025 · by Grok and 🐝Mr. Bee Osn  ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

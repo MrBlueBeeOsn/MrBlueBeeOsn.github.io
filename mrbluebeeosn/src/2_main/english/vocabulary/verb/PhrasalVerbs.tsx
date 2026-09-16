@@ -490,7 +490,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>January 06, 2026 · by Grok ·</span>
+					<span>JANuary 06, 2026 · by Grok ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

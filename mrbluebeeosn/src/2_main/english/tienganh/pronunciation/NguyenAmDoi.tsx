@@ -114,7 +114,7 @@ export default function NguyenAmDoi(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>September 12, 2025 · by GPT and 🐝Mr. Bee Osn ·</span>
+          <span>sepTEMber 12, 2025 · by GPT and 🐝Mr. Bee Osn ·</span>
         </div>
 
         <div className="eye-icon no-margin">

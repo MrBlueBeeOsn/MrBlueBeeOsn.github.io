@@ -271,7 +271,7 @@ export default function DEFinitely1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 5, 2024 · by 💎GEM ·</span>
+          <span>noVEMber 5, 2024 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

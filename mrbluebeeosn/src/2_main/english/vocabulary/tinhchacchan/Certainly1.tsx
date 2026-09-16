@@ -272,7 +272,7 @@ export default function CERtainly1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 7, 2024· by 💎GEM ·</span>
+          <span>noVEMber 7, 2024· by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

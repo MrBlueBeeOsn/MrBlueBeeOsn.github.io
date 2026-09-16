@@ -160,7 +160,7 @@ export default function YES2(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>December 28, 2024 · by 💎GEM ·</span>
+          <span>deCEMber 28, 2024 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

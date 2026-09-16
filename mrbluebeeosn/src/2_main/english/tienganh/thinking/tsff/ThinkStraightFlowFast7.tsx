@@ -133,7 +133,7 @@ export default function ThinkStraightFlowFast7(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>January 12, 2026 · by PPLX and 🐝Mr. Bee Osn ·</span>
+					<span>JANuary 12, 2026 · by PPLX and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

@@ -162,7 +162,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 				<div className="viewcounter">
 	
 					<div className="post-date no-margin">
-						<span>December 04, 2025 · by DPSK ·</span>
+						<span>deCEMber 04, 2025 · by DPSK ·</span>
 					</div>
 	
 				</div>

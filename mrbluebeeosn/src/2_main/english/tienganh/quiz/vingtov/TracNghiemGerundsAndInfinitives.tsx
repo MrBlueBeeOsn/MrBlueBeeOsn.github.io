@@ -160,7 +160,7 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 				<div className="viewcounter">
 	
 					<div className="post-date no-margin">
-						<span>December 28, 2025 · by 💎GEM ·</span>
+						<span>deCEMber 28, 2025 · by 💎GEM ·</span>
 					</div>
 	
 				</div>

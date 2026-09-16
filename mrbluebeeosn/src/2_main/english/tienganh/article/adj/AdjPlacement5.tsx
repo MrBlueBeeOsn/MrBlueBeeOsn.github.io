@@ -430,7 +430,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>June 01, 2026 · by Claud and 🐝Mr. Bee Osn ·</span>
+					<span>JUNE 01, 2026 · by Claud and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

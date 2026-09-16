@@ -184,7 +184,7 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>November 29, 2025 · by Grok and 🐝Mr. Bee Osn  ·</span>
+					<span>noVEMber 29, 2025 · by Grok and 🐝Mr. Bee Osn  ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

@@ -215,7 +215,7 @@ export default function ClosedAndOpenSyllables(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>September 10, 2026 · by GOOGle Search AI and Mr.ßEE ·</span>
+					<span>sepTEMber 10, 2026 · by GOOGle Search AI and Mr.ßEE ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

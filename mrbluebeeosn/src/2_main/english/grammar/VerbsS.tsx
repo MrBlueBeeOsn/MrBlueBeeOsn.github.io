@@ -121,7 +121,7 @@ export default function VerbsAddS(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>September 05, 2026 · by Mr.ßEE ·</span>
+					<span>sepTEMber 05, 2026 · by Mr.ßEE ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
