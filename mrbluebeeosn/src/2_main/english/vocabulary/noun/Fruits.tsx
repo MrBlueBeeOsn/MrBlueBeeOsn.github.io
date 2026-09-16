@@ -70,35 +70,35 @@ export default function Fruits(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id=""></li>
-        <li className="list-none margin-bottom-20"></li>
+        <li value="1" id="">An apple a day keeps the doctor away.</li>
+        <li className="list-none margin-bottom-20">Một quả táo mỗi ngày giúp tránh xa bác sĩ / Ăn táo mỗi ngày rất tốt cho sức khỏe.</li>
 
-        <li value="2"></li>
-        <li className="list-none margin-bottom-20"></li>
+        <li value="2" id="">Children and monkeys both love eating sweet bananas.</li>
+        <li className="list-none margin-bottom-20">Cả trẻ em và loài khỉ đều rất thích ăn những quả chuối ngọt.</li>
 
-        <li value="3"></li>
-        <li className="list-none margin-bottom-20"></li>
+        <li value="3" id="">She drinks a glass of fresh orange juice every morning.</li>
+        <li className="list-none margin-bottom-20">Cô ấy uống một cốc nước cam tươi vào mỗi buổi sáng.</li>
 
-        <li value="4"></li>
-        <li className="list-none margin-bottom-20"></li>
+        <li value="4" id="">Vietnamese mangoes are famous for their rich and sweet flavor.</li>
+        <li className="list-none margin-bottom-20">Xoài Việt Nam nổi tiếng với hương vị đậm đà và ngọt ngào.</li>
 
-        <li value="5"></li>
-        <li className="list-none margin-bottom-20"></li>
+        <li value="5" id="">My mom uses pineapple to make a delicious sweet and sour pork dish.</li>
+        <li className="list-none margin-bottom-20">Mẹ tôi dùng dứa (thơm) để làm món thịt lợn xào chua ngọt rất ngon.</li>
 
-        <li value="6"></li>
-        <li className="list-none margin-bottom-20"></li>
+        <li value="6" id="">Eating a cold slice of watermelon is the best way to beat the summer heat.</li>
+        <li className="list-none margin-bottom-20">Ăn một lát dưa hấu lạnh là cách tuyệt vời nhất để xua tan cái nóng mùa hè.</li>
 
-        <li value="7"></li>
-        <li className="list-none margin-bottom-20"></li>
+        <li value="7" id="">She topped the birthday cake with fresh red strawberries.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã phủ lên chiếc bánh sinh nhật những quả dâu tây đỏ mọng tươi ngon.</li>
 
-        <li value="8"></li>
-        <li className="list-none margin-bottom-20"></li>
+        <li value="8" id="">Green and purple grapes are both great for making wine.</li>
+        <li className="list-none margin-bottom-20">Cả nho xanh và nho tím đều rất tuyệt vời để làm rượu vang.</li>
 
-        <li value="9"></li>
-        <li className="list-none margin-bottom-20"></li>
+        <li value="9" id="">Toast with mashed avocado and eggs is a very healthy breakfast.</li>
+        <li className="list-none margin-bottom-20">Bánh mì nướng bơ nghiền và trứng là một bữa sáng rất lành mạnh.</li>
 
-        <li value="10"></li>
-        <li className="list-none margin-bottom-20"></li>
+        <li value="10" id="">Ripe papaya is a soft, sweet, and vitamin-rich tropical fruit.</li>
+        <li className="list-none margin-bottom-20">Đu đủ chín là một loại trái cây nhiệt đới mềm, ngọt và giàu vitamin.</li>
 
       </ol>
 

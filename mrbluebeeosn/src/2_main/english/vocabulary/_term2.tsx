@@ -71,31 +71,31 @@ export default function (): React.JSX.Element {
         <li value="1" id=""></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="2"></li>
+        <li value="2" id=""></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="3"></li>
+        <li value="3" id=""></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="4"></li>
+        <li value="4" id=""></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="5"></li>
+        <li value="5" id=""></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="6"></li>
+        <li value="6" id=""></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="7"></li>
+        <li value="7" id=""></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="8"></li>
+        <li value="8" id=""></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="9"></li>
+        <li value="9" id=""></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="10"></li>
+        <li value="10" id=""></li>
         <li className="list-none margin-bottom-20"></li>
 
       </ol>
