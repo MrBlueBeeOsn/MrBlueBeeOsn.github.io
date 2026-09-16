@@ -55,7 +55,7 @@ export default function VietnameseVegetables(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#LUFfa">LUFfa</HashLink>
+            <HashLink smooth to="#LOOfah">LOOfah</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -94,7 +94,7 @@ export default function VietnameseVegetables(): React.JSX.Element {
         <li value="8" id="CORiander">FRESH [CORiander] (or ciLANtro) is SPRINkled on TOP of a HOT BOWL of BEEF NOOdle SOUP be<strong>fore</strong> SERVing.</li>
         <li className="list-none margin-bottom-20">[Rau mùi] tươi được rắc lên trên bát phở bò nóng hổi trước khi thưởng thức.</li>
 
-        <li value="9" id="LUFfa">SWEET [LUFfa] COOKED in a SIMple SHRIMP BROTH MAKES a reFRESHing SOUP for HOT DAYS.</li>
+        <li value="9" id="LOOfah">SWEET [LOOfah] COOKED in a SIMple SHRIMP BROTH MAKES a reFRESHing SOUP for HOT DAYS.</li>
         <li className="list-none margin-bottom-20">[Mướp] ngọt nấu với nước dùng tôm đơn giản tạo thành món canh thanh mát cho những ngày oi bức.</li>
 
         <li value="10" id="VietnaMESE-CORiander">a PLATE of baLUT EGGS is NEVer comPLETE without a HANDful of [VietnaMESE CORiander].</li>
