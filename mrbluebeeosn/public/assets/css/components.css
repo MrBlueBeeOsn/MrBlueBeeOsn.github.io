@@ -142,12 +142,12 @@ button:hover {
 	/* top: 40px; 15px; Gắn sát góc trên */
 	/* right: -45px; */
 	top: 115px;
-	left: 155px;
+	right: 0px;
 	width: 150px; /* Kích thước hình ảnh */
 	height: auto;
 	transform: translateY(-50%); /* Căn giữa theo chiều dọc */
 	object-fit: cover; /* Để hình ảnh không bị méo */
-	opacity: 45%;
+	opacity: 20%;
 	overflow: visible;
 	z-index: 10; /* Đảm bảo ảnh hiển thị trên các phần tử khác */
 }
