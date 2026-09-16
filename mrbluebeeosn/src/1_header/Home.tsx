@@ -32,8 +32,8 @@ export default function Home(): React.JSX.Element {
       
           <header className="portfolio-header title">
 
-            <h1 className="name">ßee EngDev</h1>
-            <div className="title">🐝 🅴nglish learner</div>
+            <h1 className="name">BLUE BOOKkeeper</h1>
+            <div className="title"><strong>HIEU TRONG KHAU</strong></div>
 
             <div className="margin-top-10 location"><FontAwesomeIcon icon={faLocationDot} /> HM District, HCMC</div>
             <div className="graduation"><FontAwesomeIcon icon={faGraduationCap} /> University of Economics HCMC</div>
@@ -120,7 +120,7 @@ export default function Home(): React.JSX.Element {
 
         <p className="margin-bottom-50 text-center text-small">
             
-          __Summer, 2025 · by <Link to="/about">Mr. ßee</Link>--
+          __SUMmer, 2025 · by <Link to="/about">Mr. ßEE</Link>--
             
         </p>
 
