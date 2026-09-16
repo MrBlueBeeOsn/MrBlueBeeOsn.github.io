@@ -195,10 +195,10 @@
 			.bee-wrapper1 {
 				position: absolute; /* Định vị tuyệt đối */
 				top: 105px;
-				left: 45px;
+				right: 0px;
 				width: 120px; /* Kích thước hình ảnh */
 				height: auto;
-				opacity: 45%;
+				opacity: 20%;
 			}
 
 			.bee-wrapper2 {
