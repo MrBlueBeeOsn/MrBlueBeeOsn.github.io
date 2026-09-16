@@ -89,7 +89,7 @@ export default function RAREly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ dùng để diễn tả một hành động, sự việc hoặc tình huống xảy ra không thường xuyên, ít khi hoặc hiếm có.
+            &nbsp;là một ADverb dùng để diễn tả một hành động, sự việc hoặc tình huống xảy ra không thường xuyên, ít khi hoặc hiếm có.
 
           </p>
 

@@ -91,7 +91,7 @@ export default function SUREly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ thường được sử dụng để thể hiện sự chắc chắn, tin tưởng vào một điều gì đó.
+            &nbsp;là một ADverb thường được sử dụng để thể hiện sự chắc chắn, tin tưởng vào một điều gì đó.
 
           </p>
 

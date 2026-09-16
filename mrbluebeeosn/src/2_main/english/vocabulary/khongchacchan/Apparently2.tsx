@@ -89,7 +89,7 @@ export default function apPARently2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ thường được dùng để thể hiện một thông tin mà người nói không chắc chắn hoàn toàn về tính xác thực của nó.
+            &nbsp;là một ADverb thường được dùng để thể hiện một thông tin mà người nói không chắc chắn hoàn toàn về tính xác thực của nó.
 
           </p>
 
@@ -147,7 +147,7 @@ export default function apPARently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>apPARently</strong>" thường đứng ở đầu câu hoặc trước một Tính Cơ hoặc danh cụm.</li>
+          <li>"<strong>apPARently</strong>" thường đứng ở đầu câu hoặc trước một ADjective hoặc danh cụm.</li>
 
           <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "SEEMingly", "<Link to="/vocabulary/EVidently-1">EVidently</Link>", "osTENsibly" để tạo sự đa dạng trong văn phong.</li>
 

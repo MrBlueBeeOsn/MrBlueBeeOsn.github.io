@@ -213,7 +213,7 @@ export default function Because(): React.JSX.Element {
 
       <p className="margin-top-20" id="">6. for /fɔːr/</p>
 
-      <p className="text-indent-whole">Bởi vì; một liên cơ mang sắc thái rất trang trọng, mang tính văn học hoặc cổ kính, dùng để đưa ra lý do giải thích cho lời khẳng định trước đó.</p>
+      <p className="text-indent-whole">Bởi vì; một conJUNCtion mang sắc thái rất trang trọng, mang tính văn học hoặc cổ kính, dùng để đưa ra lý do giải thích cho lời khẳng định trước đó.</p>
 
         <ul className="list-square">
 

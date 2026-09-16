@@ -258,7 +258,7 @@ export default function INstantly1(): React.JSX.Element {
 
           <li>Thời gian cực ngắn: "<strong>Instantly</strong>" nhấn mạnh vào sự xảy ra của một sự việc trong một khoảng thời gian cực kỳ ngắn.</li>
 
-          <li className="margin-bottom-20">Không có sự trì hoãn: Nó đối lập với các Trạng Cơ như "<Link to="/vocabulary/GRADually-1">GRADually</Link>" hay "<Link to="/vocabulary/SLOWly-1">SLOWly</Link>".</li>
+          <li className="margin-bottom-20">Không có sự trì hoãn: Nó đối lập với các ADverb như "<Link to="/vocabulary/GRADually-1">GRADually</Link>" hay "<Link to="/vocabulary/SLOWly-1">SLOWly</Link>".</li>
 
         </ul>
 

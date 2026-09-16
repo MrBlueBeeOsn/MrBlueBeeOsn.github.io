@@ -91,7 +91,7 @@ export default function toMORrow2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ chỉ thời gian, thường được dùng để diễn tả một hành động hoặc sự việc sẽ xảy ra vào ngày mai.
+            &nbsp;là một ADverb chỉ thời gian, thường được dùng để diễn tả một hành động hoặc sự việc sẽ xảy ra vào ngày mai.
 
           </p>
 
@@ -151,7 +151,7 @@ export default function toMORrow2(): React.JSX.Element {
 
           <li>"<strong>toMORrow</strong>" thường được dùng để chỉ một thời điểm gần trong tương lai.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>toMORrow</strong>" với nhiều Trạng Cơ khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>toMORrow</strong>" với nhiều ADverb khác để tạo ra các cụm từ đa dạng hơn.</li>
 
         </ul>
 

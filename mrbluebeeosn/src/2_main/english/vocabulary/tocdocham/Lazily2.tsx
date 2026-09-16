@@ -89,7 +89,7 @@ export default function LAzily2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ dùng để miêu tả một hành động được thực hiện một cách chậm rãi, thiếu năng lượng và không có sự cố gắng.
+            &nbsp;là một ADverb dùng để miêu tả một hành động được thực hiện một cách chậm rãi, thiếu năng lượng và không có sự cố gắng.
 
           </p>
 

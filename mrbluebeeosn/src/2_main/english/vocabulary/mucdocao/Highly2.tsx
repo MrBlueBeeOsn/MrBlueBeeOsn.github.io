@@ -89,7 +89,7 @@ export default function HIGHly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ dùng để nhấn mạnh mức độ cao của một Tính Cơ hoặc trạng cơ. Nó thường được sử dụng để diễn tả một điều gì đó ở mức độ rất lớn, rất tích cực hoặc rất tiêu cực.
+            &nbsp;là một ADverb dùng để nhấn mạnh mức độ cao của một ADjective hoặc trạng cơ. Nó thường được sử dụng để diễn tả một điều gì đó ở mức độ rất lớn, rất tích cực hoặc rất tiêu cực.
 
           </p>
 
@@ -147,7 +147,7 @@ export default function HIGHly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>HIGHly</strong>" thường đứng trước Tính Cơ hoặc Trạng Cơ để bổ nghĩa.</li>
+          <li>"<strong>HIGHly</strong>" thường đứng trước ADjective hoặc ADverb để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/exTREMEly-1">exTREMEly</Link>", "<Link to="/vocabulary/VERy-1">VERy</Link>", "reMARKably" để tạo sự đa dạng trong văn phong.</li>
 

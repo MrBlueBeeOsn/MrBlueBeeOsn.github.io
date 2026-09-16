@@ -79,7 +79,7 @@ export default function Although(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">Từ "al<strong>though</strong>" là một liên cơ thuần túy và không có các dạng biến đổi trực tiếp như danh cơ, hành động hay Tính Cơ trong họ từ của riêng nó. Tuy nhiên, nó có mối quan hệ gốc rễ chặt chẽ với từ though và các từ mang gốc biểu đạt sự nhượng bộ hoặc tương phản liên quan bao gồm:</p>
+      <p className="margin-bottom-20">Từ "al<strong>though</strong>" là một conJUNCtion thuần túy và không có các dạng biến đổi trực tiếp như danh cơ, hành động hay ADjective trong họ từ của riêng nó. Tuy nhiên, nó có mối quan hệ gốc rễ chặt chẽ với từ though và các từ mang gốc biểu đạt sự nhượng bộ hoặc tương phản liên quan bao gồm:</p>
 
         <ul className="list-square">
 
@@ -94,7 +94,7 @@ export default function Although(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms / Từ đồng nghĩa</h3>
 
-      <p className="margin-bottom-20">Dưới đây là các liên cơ và cụm từ có chức năng tương tự như "al<strong>though</strong>" nhưng mang sắc thái biểu đạt hoặc cấu trúc ngữ pháp khác nhau.</p>
+      <p className="margin-bottom-20">Dưới đây là các conJUNCtion và cụm từ có chức năng tương tự như "al<strong>though</strong>" nhưng mang sắc thái biểu đạt hoặc cấu trúc ngữ pháp khác nhau.</p>
 
       {/* =============================
             1. 
@@ -102,7 +102,7 @@ export default function Although(): React.JSX.Element {
 
       <p className="margin-top-20" id=""><strong>1. Though</strong> /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</p>
 
-      <p className="text-indent-whole">Thường dùng phổ biến trong văn nói hàng ngày hơn "al<strong>though</strong>", có tính linh hoạt cao vì vừa làm liên cơ đứng đầu/giữa câu, vừa làm Trạng Cơ đứng ở cuối câu.</p>
+      <p className="text-indent-whole">Thường dùng phổ biến trong văn nói hàng ngày hơn "al<strong>though</strong>", có tính linh hoạt cao vì vừa làm conJUNCtion đứng đầu/giữa câu, vừa làm ADverb đứng ở cuối câu.</p>
 
         <ul className="list-square">
 

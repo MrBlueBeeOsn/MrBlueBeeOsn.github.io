@@ -89,7 +89,7 @@ export default function SOFTly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ thường được sử dụng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, dịu dàng, không mạnh mẽ.
+            &nbsp;là một ADverb thường được sử dụng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, dịu dàng, không mạnh mẽ.
 
           </p>
 

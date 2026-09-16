@@ -80,7 +80,7 @@ export default function SentenceVariety9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Câu Ghép (Compound Sentence)</h4>
 					
-			<p className="text-indent-whole">Hai hoặc nhiều câu đơn được nối với nhau bằng liên cơ đẳng lập (FANBOYS: For, And, Nor, But, Or, Yet, So) hoặc dấu chấm phẩy.</p>
+			<p className="text-indent-whole">Hai hoặc nhiều câu đơn được nối với nhau bằng conJUNCtion đẳng lập (FANBOYS: For, And, Nor, But, Or, Yet, So) hoặc dấu chấm phẩy.</p>
 			
 				<ul className="list-square">
 			
@@ -150,7 +150,7 @@ export default function SentenceVariety9(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Khi bạn có hai ý tưởng độc lập nhưng liên quan, hãy dùng câu ghép để nối chúng lại, tạo sự liền mạch.</p>
 
-			<p className="text-indent-whole"><strong>Cách học</strong>: Luyện tập sử dụng các liên cơ FANBOYS. Hãy nghĩ về hai câu đơn và tìm cách nối chúng bằng liên cơ phù hợp nhất.</p>
+			<p className="text-indent-whole"><strong>Cách học</strong>: Luyện tập sử dụng các conJUNCtion FANBOYS. Hãy nghĩ về hai câu đơn và tìm cách nối chúng bằng conJUNCtion phù hợp nhất.</p>
 			
 				<ul className="list-square">
 			
@@ -167,7 +167,7 @@ export default function SentenceVariety9(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Khi bạn muốn giải thích lý do, thời gian, điều kiện, hoặc cung cấp thêm thông tin cho một ý tưởng chính, câu phức là lựa chọn hoàn hảo.</p>
 
-			<p className="text-indent-whole"><strong>Cách học</strong>: Tập trung vào các liên cơ phụ thuộc (because, although, when, if, while...) và đại cơ quan hệ (who, which, that...). Hãy nghĩ về một câu đơn, sau đó thêm một phụ câu để bổ sung ý nghĩa.</p>
+			<p className="text-indent-whole"><strong>Cách học</strong>: Tập trung vào các conJUNCtion phụ thuộc (because, although, when, if, while...) và PROnoun quan hệ (who, which, that...). Hãy nghĩ về một câu đơn, sau đó thêm một phụ câu để bổ sung ý nghĩa.</p>
 			
 				<ul className="list-square">
 			

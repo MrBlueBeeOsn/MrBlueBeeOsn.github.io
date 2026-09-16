@@ -75,7 +75,7 @@ export default function NO2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>NO</strong>" (không) khi nó đóng vai trò là một Trạng Cơ trong tiếng Anh nhé. </p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>NO</strong>" (không) khi nó đóng vai trò là một ADverb trong tiếng Anh nhé. </p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -147,7 +147,7 @@ export default function NO2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Trong nhiều trường hợp, "<strong>NO</strong>" có thể được coi như một phần tử trong một cụm từ hơn là một Trạng Cơ độc lập.</li>
+          <li>Trong nhiều trường hợp, "<strong>NO</strong>" có thể được coi như một phần tử trong một cụm từ hơn là một ADverb độc lập.</li>
 
           <li className="margin-bottom-20">Ý nghĩa của các cụm từ này có thể thay đổi tùy thuộc vào ngữ cảnh. Việc hiểu ngữ cảnh sẽ giúp bạn sử dụng các cụm từ này một cách chính xác.</li>
 

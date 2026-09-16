@@ -83,7 +83,7 @@ export default function VERy1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Dùng để nhấn mạnh mức độ của một Tính Cơ hoặc một Trạng Cơ khác, cho thấy một đặc điểm nào đó ở mức độ cao.</p>
+      <p className="margin-top-30 text-indent-whole">Dùng để nhấn mạnh mức độ của một ADjective hoặc một ADverb khác, cho thấy một đặc điểm nào đó ở mức độ cao.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
@@ -109,7 +109,7 @@ export default function VERy1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>VERy</strong>". Tuy nhiên, "<strong>VERy</strong>" thường được kết hợp với các Tính Cơ và Trạng Cơ khác để tạo thành các cụm từ mới.</li>
+          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>VERy</strong>". Tuy nhiên, "<strong>VERy</strong>" thường được kết hợp với các ADjective và ADverb khác để tạo thành các cụm từ mới.</li>
 
         </ul>
 
@@ -240,11 +240,11 @@ export default function VERy1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>VERy</strong>" thường đứng trước Tính Cơ hoặc trạng cơ.</li>
+          <li>"<strong>VERy</strong>" thường đứng trước ADjective hoặc trạng cơ.</li>
 
           <li>"<strong>VERy</strong>" có thể được sử dụng để nhấn mạnh cả tính chất tích cực và tiêu cực.</li>
 
-          <li className="margin-bottom-20">Để tránh lạm dụng "<strong>VERy</strong>", bạn có thể sử dụng các Tính Cơ hoặc Trạng Cơ mạnh hơn hoặc các cấu trúc so sánh hơn.</li>
+          <li className="margin-bottom-20">Để tránh lạm dụng "<strong>VERy</strong>", bạn có thể sử dụng các ADjective hoặc ADverb mạnh hơn hoặc các cấu trúc so sánh hơn.</li>
 
         </ul>
 

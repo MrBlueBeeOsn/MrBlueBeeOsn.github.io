@@ -235,10 +235,10 @@ export default function RAPidly1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1">the TRAIN is MOVing.</li>
+            <li value="1">the TRAIN is MOving.</li>
             <li className="list-none margin-bottom-20">Tàu đang chạy.</li>
 
-            <li value="2">the TRAIN is MOVing RAPidly.</li>
+            <li value="2">the TRAIN is MOving RAPidly.</li>
             <li className="list-none margin-bottom-20">Tàu đang chạy rất nhanh.</li>
 
           </ol>

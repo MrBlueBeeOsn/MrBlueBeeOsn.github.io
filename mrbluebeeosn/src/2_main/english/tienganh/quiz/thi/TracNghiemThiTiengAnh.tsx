@@ -30,7 +30,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				"has GONE"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là hành động lặp đi lặp lại (thói quen), được diễn tả bằng Trạng Cơ chỉ tần suất \"THREE TIMES a WEEK\". Ta sử dụng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (SIMple PRESent)."
+			explanation: "Đây là hành động lặp đi lặp lại (thói quen), được diễn tả bằng ADverb chỉ tần suất \"THREE TIMES a WEEK\". Ta sử dụng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (SIMple PRESent)."
 		},
 		{
 			id: 2,

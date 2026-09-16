@@ -89,7 +89,7 @@ export default function NOW2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ chỉ thời gian rất linh hoạt, có thể được sử dụng trong nhiều ngữ cảnh khác nhau.
+            &nbsp;là một ADverb chỉ thời gian rất linh hoạt, có thể được sử dụng trong nhiều ngữ cảnh khác nhau.
 
           </p>
 

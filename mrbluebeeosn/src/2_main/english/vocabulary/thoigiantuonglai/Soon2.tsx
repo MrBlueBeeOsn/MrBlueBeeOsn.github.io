@@ -89,7 +89,7 @@ export default function SOON2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ chỉ thời gian, thường được dùng để diễn tả một sự kiện sẽ xảy ra trong tương lai gần
+            &nbsp;là một ADverb chỉ thời gian, thường được dùng để diễn tả một sự kiện sẽ xảy ra trong tương lai gần
 
           </p>
 

@@ -64,7 +64,7 @@ export default function SentenceVariety7(): React.JSX.Element {
 					<li className="list-none">She smiled.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy mỉm cười.</li>
 
-					<li><strong>Câu ghép</strong> (<strong>Compound sentence</strong>): nối hai (hoặc nhiều) câu con độc lập bằng liên cơ (and, but, or, so) hoặc chấm phẩy.</li>
+					<li><strong>Câu ghép</strong> (<strong>Compound sentence</strong>): nối hai (hoặc nhiều) câu con độc lập bằng conJUNCtion (and, but, or, so) hoặc chấm phẩy.</li>
 					<li className="list-none">She smiled, and he waved.</li>
 					<li className="margin-bottom-20 list-none">Cô mỉm cười, và anh vẫy tay.</li>
 
@@ -87,7 +87,7 @@ export default function SentenceVariety7(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Có dấu phẩy nối câu con độc lập + liên cơ (<strong>and</strong>/<strong>but</strong>):</li>
+					<li>Có dấu phẩy nối câu con độc lập + conJUNCtion (<strong>and</strong>/<strong>but</strong>):</li>
 					<li className="margin-bottom-20 list-none">Khả năng là câu ghép.</li>
 
 					<li>Có từ nối như <strong>because</strong>/<strong>when</strong>/<strong>if</strong>/<strong>although</strong> ở đầu hoặc giữa câu:</li>
@@ -197,7 +197,7 @@ export default function SentenceVariety7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Câu cuối có ba câu con, hai phụ câu (because... và although...) và một câu con Tính Cơ (which...). Đây là mức độ người bản xứ.</p>
+			<p className="margin-top-20">Câu cuối có ba câu con, hai phụ câu (because... và although...) và một câu con ADjective (which...). Đây là mức độ người bản xứ.</p>
 
 			{/* Kết luận */}
 

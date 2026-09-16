@@ -78,7 +78,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"the DAY beFORE"
 			],
 			correctAnswer: 2,
-			explanation: "Khi chuyển từ câu trực tiếp sang câu gián tiếp (rePORTed SPEECH), Trạng Cơ chỉ thời gian toMORrow (ngày mai) phải được đổi thành the NEXT DAY hoặc the FOLlowing DAY."
+			explanation: "Khi chuyển từ câu trực tiếp sang câu gián tiếp (rePORTed SPEECH), ADverb chỉ thời gian toMORrow (ngày mai) phải được đổi thành the NEXT DAY hoặc the FOLlowing DAY."
 		},
 		{
 			id: 6,
@@ -102,7 +102,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 3,
-			explanation: "Ta dùng đại cơ quan hệ whose (của người mà/của cái mà) để chỉ mối quan hệ sở hữu. Cụm từ whose HANDwriting có nghĩa là \"chữ viết của học sinh đó\"."
+			explanation: "Ta dùng PROnoun quan hệ whose (của người mà/của cái mà) để chỉ mối quan hệ sở hữu. Cụm từ whose HANDwriting có nghĩa là \"chữ viết của học sinh đó\"."
 		},
 		{
 			id: 8,
@@ -138,7 +138,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"BORES"
 			],
 			correctAnswer: 0,
-			explanation: "Ta dùng Tính Cơ tận cùng bằng -ing (BORing) để mô tả bản chất của sự vật, sự việc (bộ phim mang tính chất buồn chán). Tính Cơ tận cùng bằng -ed (BORED) dùng để mô tả cảm xúc của con người hoặc sinh vật."
+			explanation: "Ta dùng ADjective tận cùng bằng -ing (BORing) để mô tả bản chất của sự vật, sự việc (bộ phim mang tính chất buồn chán). ADjective tận cùng bằng -ed (BORED) dùng để mô tả cảm xúc của con người hoặc sinh vật."
 		}
 	];
 

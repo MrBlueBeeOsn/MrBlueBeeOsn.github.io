@@ -142,7 +142,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* II. */}
 
-			<h3 className="margin-y-50 text-center">II. HỆ THỐNG PHÂN LOẠI ĐỘNG CƠ PHỨC HỢP THEO NHÓM</h3>
+			<h3 className="margin-y-50 text-center">II. HỆ THỐNG PHÂN LOẠI VERB PHỨC HỢP THEO NHÓM</h3>
 
 
 			<p>Dưới đây là sơ đồ bóc tách cách các phân loại [VERB BASE][ĐỘNG CƠ] phối hợp để tạo nên các cấu hình thời gian và thái độ khác nhau thông qua các nhóm chức năng chuyên biệt:</p>

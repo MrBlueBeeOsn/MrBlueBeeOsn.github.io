@@ -147,7 +147,7 @@ export default function FREquently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>FREquently</strong>" thường được đặt trước hành động hoặc Tính Cơ để bổ nghĩa.</li>
+          <li>"<strong>FREquently</strong>" thường được đặt trước hành động hoặc ADjective để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết hàng ngày.</li>
 

@@ -89,7 +89,7 @@ export default function VERy2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để nhấn mạnh mức độ của một Tính Cơ hoặc một Trạng Cơ khác.
+            &nbsp;thường được dùng để nhấn mạnh mức độ của một ADjective hoặc một ADverb khác.
 
           </p>
 
@@ -148,9 +148,9 @@ export default function VERy2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>VERy</strong>" thường đứng trước Tính Cơ hoặc Trạng Cơ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>VERy</strong>" thường đứng trước ADjective hoặc ADverb để nhấn mạnh ý nghĩa của chúng.</li>
 
-          <li className="margin-bottom-20">Có nhiều Trạng Cơ khác cũng có thể được sử dụng để thay thế cho "<strong>VERy</strong>" như: <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link>, inCREDibly, <Link to="/vocabulary/HIGHly-1">HIGHly</Link>, DEEPly, và nhiều hơn nữa.</li>
+          <li className="margin-bottom-20">Có nhiều ADverb khác cũng có thể được sử dụng để thay thế cho "<strong>VERy</strong>" như: <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link>, inCREDibly, <Link to="/vocabulary/HIGHly-1">HIGHly</Link>, DEEPly, và nhiều hơn nữa.</li>
 
         </ul>
 

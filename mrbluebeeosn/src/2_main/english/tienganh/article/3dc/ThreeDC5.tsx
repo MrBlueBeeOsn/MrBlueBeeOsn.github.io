@@ -528,7 +528,7 @@ export default function ThreeDC5(): React.ReactElement {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Khi nào bỏ đại cơ quan hệ?</h4>
+			<h4 className="margin-y-40">Khi nào bỏ PROnoun quan hệ?</h4>
 					
 			<p className="text-indent-whole"></p>
 

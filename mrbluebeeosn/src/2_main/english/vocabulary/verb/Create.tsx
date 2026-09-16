@@ -138,9 +138,9 @@ export default function Create(): React.JSX.Element {
           <li className="list-none">[PARTicle VERB BASE][HẠT ĐỘNG CƠ]: to</li>
           <li className="list-none">[SOFT-MOdal VERB BASE][Ý-THÁI ĐỘNG CƠ]: would, could, should, might</li>
           <li className="list-none">[asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ]: will, shall, can, must, may</li>
-          <li className="list-none">Nhóm Động Cơ Sai Khiến / Cho Phép: MAKE, LET, let's, HAVE</li>
-          <li className="list-none">Nhóm Động Cơ Hỗ Trợ / Tương Tác: HELP, GET (khi ở dạng đặc biệt)</li>
-          <li className="margin-bottom-20 list-none">Nhóm Động Cơ Tri Giác / Cảm Nhận: SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL</li>
+          <li className="list-none">Nhóm VERB Sai Khiến / Cho Phép: MAKE, LET, let's, HAVE</li>
+          <li className="list-none">Nhóm VERB Hỗ Trợ / Tương Tác: HELP, GET (khi ở dạng đặc biệt)</li>
+          <li className="margin-bottom-20 list-none">Nhóm VERB Tri Giác / Cảm Nhận: SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL</li>
       
           <li value="7">[<strong>PARTicle BARE VERB BASE</strong>][<strong>HẠT THUẦN ĐỘNG CƠ</strong>]: </li>
           <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau.</li>
@@ -422,7 +422,7 @@ export default function Create(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [CreAting a NEW VIsual iDENtity] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] kết hợp mở rộng do được rút gọn từ một hệ [conJUNCtional CLAUSE][LIÊN CÂU] phụ thuộc có cùng thành phần lõi [SUBject PROnoun][CHỦ ĐẠI].</li>
       
-          <li className="list-none">Chức năng: [CreAting a NEW VIsual iDENtity] - [ADverb PHRASE][TRẠNG CỤM] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "LAUNCHED" và toàn bộ mệnh đề chính.</li>
+          <li className="list-none">Chức năng: [CreAting a NEW VIsual iDENtity] - [ADverb PHRASE][TRẠNG CỤM] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "LAUNCHED" và toàn bộ CLAUSE chính.</li>
       
         </ul>
 
@@ -595,7 +595,7 @@ export default function Create(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [conJUNCtional CLAUSE][LIÊN CÂU] kích hoạt ngay sau thành phần [conJUNCtional BASE][LIÊN CƠ] nguyên nhân "be<strong>cause</strong>", chứa [SUBject PROnoun][CHỦ ĐẠI] "the FOUNder" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập module bối cảnh, bổ nghĩa cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "sucCEEded" và toàn bộ mệnh đề chính trước đó.</li>
+          <li className="list-none">Chức năng: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập module bối cảnh, bổ nghĩa cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "sucCEEded" và toàn bộ CLAUSE chính trước đó.</li>
       
         </ul>
 

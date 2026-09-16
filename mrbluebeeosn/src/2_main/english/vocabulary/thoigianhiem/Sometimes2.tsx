@@ -89,7 +89,7 @@ export default function SOMEtimes2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra không thường xuyên, có thể xảy ra hoặc không xảy ra.
+            &nbsp;là một ADverb chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra không thường xuyên, có thể xảy ra hoặc không xảy ra.
 
           </p>
 
@@ -149,7 +149,7 @@ export default function SOMEtimes2(): React.JSX.Element {
 
           <li>"<strong>SOMEtimes</strong>" thường đứng ở đầu câu hoặc giữa câu.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>SOMEtimes</strong>" với nhiều Trạng Cơ khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>SOMEtimes</strong>" với nhiều ADverb khác để tạo ra các cụm từ đa dạng hơn.</li>
 
         </ul>
 

@@ -75,7 +75,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Compound (ghép đẳng lập)</h4>
 					
-			<p className="text-indent-whole">2 câu con độc lập + liên cơ (and, but, or, so…)</p>
+			<p className="text-indent-whole">2 câu con độc lập + conJUNCtion (and, but, or, so…)</p>
 			
 				<ul className="list-square">
 			

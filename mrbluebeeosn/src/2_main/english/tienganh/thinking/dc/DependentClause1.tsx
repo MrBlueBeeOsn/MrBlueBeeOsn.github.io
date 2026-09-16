@@ -119,7 +119,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 					<li>Nhóm từ để hỏi <strong>WH</strong>-<strong>H</strong>: who, which, whom, whose, where, when, why, how.</li>
 			
-					<li>Các liên cơ chỉ mối quan hệ logic: be<strong>cause</strong>, al<strong>though</strong>, if, while, be<strong>fore</strong>, <strong>af</strong>ter, since.</li>
+					<li>Các conJUNCtion chỉ mối quan hệ logic: be<strong>cause</strong>, al<strong>though</strong>, if, while, be<strong>fore</strong>, <strong>af</strong>ter, since.</li>
 			
 				</ul>
 			
@@ -132,7 +132,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Chức năng [ADjective CLAUSE][TÍNH CÂU]</h4>
 					
-			<p className="text-indent-whole">Nằm ngay sau một Danh Cơ để định hình hoặc làm rõ đặc điểm cho Danh Cơ đó.</p>
+			<p className="text-indent-whole">Nằm ngay sau một NOUN để định hình hoặc làm rõ đặc điểm cho NOUN đó.</p>
 			
 				<ul className="list-square">
 			

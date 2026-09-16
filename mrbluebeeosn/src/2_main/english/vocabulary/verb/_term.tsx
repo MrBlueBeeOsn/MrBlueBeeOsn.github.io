@@ -87,9 +87,9 @@ export default function (): React.JSX.Element {
           <li className="list-none">[PARTicle VERB BASE][HẠT ĐỘNG CƠ]: to</li>
           <li className="list-none">[SOFT-MOdal VERB BASE][Ý-THÁI ĐỘNG CƠ]: would, could, should, might</li>
           <li className="list-none">[asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ]: will, shall, can, must, may</li>
-          <li className="list-none">Nhóm Động Cơ Sai Khiến / Cho Phép: make, LET, let's, have</li>
-          <li className="list-none">Nhóm Động Cơ Hỗ Trợ / Tương Tác: help, get (khi ở dạng đặc biệt)</li>
-          <li className="margin-bottom-20 list-none">Nhóm Động Cơ Tri Giác / Cảm Nhận: see, hear, watch, feel, notice, observe, smell</li>
+          <li className="list-none">Nhóm VERB Sai Khiến / Cho Phép: make, LET, let's, have</li>
+          <li className="list-none">Nhóm VERB Hỗ Trợ / Tương Tác: help, get (khi ở dạng đặc biệt)</li>
+          <li className="margin-bottom-20 list-none">Nhóm VERB Tri Giác / Cảm Nhận: see, hear, watch, feel, notice, observe, smell</li>
       
           <li value="7">[<strong>PARTicle BARE VERB BASE</strong>][<strong>HẠT THUẦN ĐỘNG CƠ</strong>]: </li>
           <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau.</li>

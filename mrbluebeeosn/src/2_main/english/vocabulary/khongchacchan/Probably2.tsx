@@ -89,7 +89,7 @@ export default function PROBably2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ chỉ khả năng, thường được dùng để diễn tả sự không chắc chắn hoàn toàn nhưng có khả năng xảy ra cao.
+            &nbsp;là một ADverb chỉ khả năng, thường được dùng để diễn tả sự không chắc chắn hoàn toàn nhưng có khả năng xảy ra cao.
 
           </p>
 

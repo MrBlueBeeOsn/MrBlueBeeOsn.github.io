@@ -470,7 +470,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "to exPLAIN" và kéo theo khối mệnh đề con bên trong.</li>
+						<li className="list-none">Hình thái: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "to exPLAIN" và kéo theo khối CLAUSE con bên trong.</li>
 
 						<li className="list-none">Chức năng: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "is URgent" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
 				

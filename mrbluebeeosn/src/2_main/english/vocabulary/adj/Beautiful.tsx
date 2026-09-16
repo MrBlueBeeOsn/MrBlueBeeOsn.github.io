@@ -91,7 +91,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn linh hoạt hơn trong diễn đạt, đặc biệt là khi áp dụng cấu trúc tập trung vào Danh Cơ để mô tả tính chất.</p>
+      <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn linh hoạt hơn trong diễn đạt, đặc biệt là khi áp dụng cấu trúc tập trung vào NOUN để mô tả tính chất.</p>
 
         <ul className="list-square">
           
@@ -218,7 +218,7 @@ export default function BEAUtiful(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the [magNIFicent] ARchitecture of the caTHEdral DATES BACK to the TWELFTH CENtury.</li>
-          <li className="list-none">Kiến trúc hùng vĩ của nhà thờ có niên đại cơ thế kỷ 12.</li>
+          <li className="list-none">Kiến trúc hùng vĩ của nhà thờ có niên PROnoun thế kỷ 12.</li>
 
         </ul>
 

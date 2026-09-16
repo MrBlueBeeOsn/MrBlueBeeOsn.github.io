@@ -89,7 +89,7 @@ export default function exTREMEly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ dùng để nhấn mạnh mức độ cao nhất của một Tính Cơ hoặc trạng cơ. Nó thường được sử dụng để diễn tả cảm xúc, tình huống hoặc sự vật vượt quá mức bình thường.
+            &nbsp;là một ADverb dùng để nhấn mạnh mức độ cao nhất của một ADjective hoặc trạng cơ. Nó thường được sử dụng để diễn tả cảm xúc, tình huống hoặc sự vật vượt quá mức bình thường.
 
           </p>
 
@@ -135,7 +135,7 @@ export default function exTREMEly2(): React.JSX.Element {
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh mức độ cao nhất của một Tính Cơ hoặc trạng cơ, tạo nên một hiệu ứng nhấn mạnh và tăng cường cảm xúc.</p>
+      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh mức độ cao nhất của một ADjective hoặc trạng cơ, tạo nên một hiệu ứng nhấn mạnh và tăng cường cảm xúc.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,7 +147,7 @@ export default function exTREMEly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>exTREMEly</strong>" thường được đặt trước Tính Cơ hoặc Trạng Cơ để bổ nghĩa.</li>
+          <li>"<strong>exTREMEly</strong>" thường được đặt trước ADjective hoặc ADverb để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
 

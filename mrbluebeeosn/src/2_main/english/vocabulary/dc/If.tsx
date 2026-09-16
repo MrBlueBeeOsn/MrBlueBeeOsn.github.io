@@ -99,7 +99,7 @@ export default function If(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">Từ "if" là một liên cơ ngắn và không có các dạng biến đổi trực tiếp bằng cách thêm tiền tố hay hậu tố. Tuy nhiên, nó nằm trong một nhóm các từ và cụm từ ngữ pháp biểu thị điều kiện hoặc sự giả định có cùng bản chất chức năng:</p>
+      <p className="margin-bottom-20">Từ "if" là một conJUNCtion ngắn và không có các dạng biến đổi trực tiếp bằng cách thêm tiền tố hay hậu tố. Tuy nhiên, nó nằm trong một nhóm các từ và cụm từ ngữ pháp biểu thị điều kiện hoặc sự giả định có cùng bản chất chức năng:</p>
 
         <ul className="list-square">
  

@@ -147,7 +147,7 @@ export default function INstantly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>INstantly</strong>" thường được đặt trước Tính Cơ hoặc phân từ quá khứ để nhấn mạnh ý nghĩa.</li>
+          <li>"<strong>INstantly</strong>" thường được đặt trước ADjective hoặc phân từ quá khứ để nhấn mạnh ý nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói hoặc văn viết không chính thức để tạo ra hiệu ứng mạnh mẽ.</li>
 

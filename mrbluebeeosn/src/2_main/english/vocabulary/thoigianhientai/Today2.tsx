@@ -89,7 +89,7 @@ export default function toDAY2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ chỉ thời gian rất phổ biến, thường được dùng để chỉ thời điểm hiện tại.
+            &nbsp;là một ADverb chỉ thời gian rất phổ biến, thường được dùng để chỉ thời điểm hiện tại.
 
           </p>
 

@@ -135,7 +135,7 @@ export default function REally2(): React.JSX.Element {
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh mức độ của một Tính Cơ hoặc trạng cơ. "<strong>Really</strong>" được sử dụng để làm tăng cường ý nghĩa của từ đi kèm.</p>
+      <p>** Các cụm từ trên đều nhấn mạnh mức độ của một ADjective hoặc trạng cơ. "<strong>Really</strong>" được sử dụng để làm tăng cường ý nghĩa của từ đi kèm.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,7 +147,7 @@ export default function REally2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>REally</strong>" có thể đứng trước hoặc sau Tính Cơ hoặc trạng cơ.</li>
+          <li>"<strong>REally</strong>" có thể đứng trước hoặc sau ADjective hoặc trạng cơ.</li>
 
           <li className="margin-bottom-20">Từ này rất phổ biến trong ngôn ngữ hàng ngày và được sử dụng trong nhiều ngữ cảnh khác nhau.</li>
 

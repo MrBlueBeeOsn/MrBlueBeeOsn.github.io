@@ -30,7 +30,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whatever"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ đóng vai trò làm danh chủ trong câu này cần một câu con danh cơ. \"what\" đóng vai trò là danh chủ bên trong câu con Danh Cơ đó (what MADE everyone... = Điều mà đã làm cho mọi người...). \"that\" không thể làm danh chủ của hành động \"MADE\" trong ngữ cảnh này nếu không có một Danh Cơ đi trước."
+			explanation: "Cụm từ đóng vai trò làm danh chủ trong câu này cần một câu con danh cơ. \"what\" đóng vai trò là danh chủ bên trong câu con NOUN đó (what MADE everyone... = Điều mà đã làm cho mọi người...). \"that\" không thể làm danh chủ của hành động \"MADE\" trong ngữ cảnh này nếu không có một NOUN đi trước."
 		},
 		{
 			id: 2,
@@ -54,7 +54,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whatever"
 			],
 			correctAnswer: 1,
-			explanation: "Sau giới cơ \"on\" cần một câu con danh cơ. Ở đây có Danh Cơ \"CANdidate\" ngay phía sau, do đó ta cần một hạn định cơ bổ nghĩa cho Danh Cơ này. \"whichever\" mang ý nghĩa \"bất cứ... nào\" trong một nhóm đối tượng có giới hạn (các ứng viên tham gia phỏng vấn)."
+			explanation: "Sau giới cơ \"on\" cần một câu con danh cơ. Ở đây có NOUN \"CANdidate\" ngay phía sau, do đó ta cần một hạn định cơ bổ nghĩa cho NOUN này. \"whichever\" mang ý nghĩa \"bất cứ... nào\" trong một nhóm đối tượng có giới hạn (các ứng viên tham gia phỏng vấn)."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"will subMIT"
 			],
 			correctAnswer: 1,
-			explanation: "Câu này sử dụng cấu trúc giả định (subJUNCtive MOOD) với Tính Cơ \"esSENtial \" (it is esSENtial  that + s + V-inf). Trong câu con Danh Cơ đi sau \"that\", hành động luôn ở dạng nguyên mẫu không \"to\" (BARE inFINitive) cho tất cả các ngôi."
+			explanation: "Câu này sử dụng cấu trúc giả định (subJUNCtive MOOD) với ADjective \"esSENtial \" (it is esSENtial  that + s + V-inf). Trong câu con NOUN đi sau \"that\", hành động luôn ở dạng nguyên mẫu không \"to\" (BARE inFINitive) cho tất cả các ngôi."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"why"
 			],
 			correctAnswer: 0,
-			explanation: "Danh câu làm danh nhận cho hành động \"KNOW\". Xét về mặt ngữ nghĩa, hành động \"arRIVE\" (đến) thường đi với Trạng Cơ chỉ thời gian, câu hỏi hỏi về thời điểm gói hàng đến nên dùng \"when\"."
+			explanation: "Danh câu làm danh nhận cho hành động \"KNOW\". Xét về mặt ngữ nghĩa, hành động \"arRIVE\" (đến) thường đi với ADverb chỉ thời gian, câu hỏi hỏi về thời điểm gói hàng đến nên dùng \"when\"."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"if"
 			],
 			correctAnswer: 2,
-			explanation: "Cả câu con đứng đầu câu làm danh chủ chính. Câu con phía sau \"she MANaged to FINish...\" đã đầy đủ các thành phần cấu trúc (s-V-O), do đó ta dùng \"that\" để biến toàn bộ sự việc này thành một câu con Danh Cơ (Việc mà cô ấy hoàn thành... đã làm tất cả bất ngờ)."
+			explanation: "Cả câu con đứng đầu câu làm danh chủ chính. Câu con phía sau \"she MANaged to FINish...\" đã đầy đủ các thành phần cấu trúc (s-V-O), do đó ta dùng \"that\" để biến toàn bộ sự việc này thành một câu con NOUN (Việc mà cô ấy hoàn thành... đã làm tất cả bất ngờ)."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Danh câu đứng sau giới cơ \"of\". Trong câu con này, ta cần một từ đóng vai trò làm danh chủ trước hành động bị động \"should be apPOINTed\". Vì vậy, ta phải chọn đại cơ danh chủ chỉ người là \"who\"."
+			explanation: "Danh câu đứng sau giới cơ \"of\". Trong câu con này, ta cần một từ đóng vai trò làm danh chủ trước hành động bị động \"should be apPOINTed\". Vì vậy, ta phải chọn PROnoun danh chủ chỉ người là \"who\"."
 		},
 		{
 			id: 8,
@@ -114,7 +114,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whatever"
 			],
 			correctAnswer: 2,
-			explanation: "Danh câu làm danh nhận cho hành động \"HEAR\". Hành động \"SAYing\" bên trong câu con Danh Cơ đang thiếu danh nhận trực tiếp (nói cái gì). \"what\" vừa làm từ nối vừa đóng vai trò là danh nhận cho \"SAYing\" (...nghe những gì hướng dẫn viên đang nói)."
+			explanation: "Danh câu làm danh nhận cho hành động \"HEAR\". Hành động \"SAYing\" bên trong câu con NOUN đang thiếu danh nhận trực tiếp (nói cái gì). \"what\" vừa làm từ nối vừa đóng vai trò là danh nhận cho \"SAYing\" (...nghe những gì hướng dẫn viên đang nói)."
 		},
 		{
 			id: 9,
@@ -138,7 +138,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"anyone"
 			],
 			correctAnswer: 2,
-			explanation: "Danh câu làm danh nhận cho hành động \"HIRE\". Trong câu con Danh Cơ này, từ cần điền đóng vai trò làm danh chủ trực tiếp của hành động \"QUALifies\", do đó ta phải chọn đại cơ nhân xưng dạng danh chủ là \"whoever\" (bất kỳ ai), chứ không dùng dạng danh nhận \"whomever\"."
+			explanation: "Danh câu làm danh nhận cho hành động \"HIRE\". Trong câu con NOUN này, từ cần điền đóng vai trò làm danh chủ trực tiếp của hành động \"QUALifies\", do đó ta phải chọn PROnoun nhân xưng dạng danh chủ là \"whoever\" (bất kỳ ai), chứ không dùng dạng danh nhận \"whomever\"."
 		}
 	];
 

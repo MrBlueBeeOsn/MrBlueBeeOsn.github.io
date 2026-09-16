@@ -362,7 +362,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[ANalyzing this DAta] is VItal for the LAUNCH.</li>
 					<li className="margin-bottom-20 list-none">[Việc phân tích dữ liệu này] là tối quan trọng cho việc ra mắt.</li>
 			
-					<li className="list-none">Hình thái: [Nalyzing this DAta] – [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] biểu thị khối hành động mở rộng bắt đầu bằng một dạng động cơ thêm đuôi -ing kết hợp cùng đối tượng tác động phía sau để mô tả trọn vẹn một sự việc.</li>
+					<li className="list-none">Hình thái: [Nalyzing this DAta] – [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] biểu thị khối hành động mở rộng bắt đầu bằng một dạng VERB thêm đuôi -ing kết hợp cùng đối tượng tác động phía sau để mô tả trọn vẹn một sự việc.</li>
 			
 					<li className="list-none">Chức năng: [Nalyzing this DAta] – [NOUN PHRASE][DANH CỤM] đang đứng vị trí đầu câu để đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] cho toàn câu lớn.</li>
 			

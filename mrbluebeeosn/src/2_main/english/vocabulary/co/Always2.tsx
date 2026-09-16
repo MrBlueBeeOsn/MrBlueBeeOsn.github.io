@@ -89,7 +89,7 @@ export default function ALways2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra mọi lúc, không có ngoại lệ.
+            &nbsp;là một ADverb chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra mọi lúc, không có ngoại lệ.
 
           </p>
 
@@ -149,7 +149,7 @@ export default function ALways2(): React.JSX.Element {
 
           <li>"<strong>ALways</strong>" thường đứng trước hành động chính trong câu.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>ALways</strong>" với nhiều Trạng Cơ khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>ALways</strong>" với nhiều ADverb khác để tạo ra các cụm từ đa dạng hơn.</li>
 
         </ul>
 

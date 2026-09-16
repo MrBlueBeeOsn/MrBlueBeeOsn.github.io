@@ -89,7 +89,7 @@ export default function aGAIN2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ chỉ tần suất, thường được dùng để diễn tả một hành động được lặp lại, hoặc một tình huống tương tự xảy ra một lần nữa.
+            &nbsp;là một ADverb chỉ tần suất, thường được dùng để diễn tả một hành động được lặp lại, hoặc một tình huống tương tự xảy ra một lần nữa.
 
           </p>
 

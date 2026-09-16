@@ -59,7 +59,7 @@ export default function Clear(): React.JSX.Element {
 
       {/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">HỆ THỐNG PHÂN LOẠI HẠT NHÂN ĐỘNG CƠ [VERB BASE CATegories]</h3>
+			<h3 className="margin-y-50 text-center">HỆ THỐNG PHÂN LOẠI HẠT NHÂN VERB [VERB BASE CATegories]</h3>
       
         <ol>
       
@@ -751,7 +751,7 @@ export default function Clear(): React.JSX.Element {
           <li>i like a [clear] system layout.</li>
           <li className="margin-bottom-20 list-none">Tôi thích một bố cục hệ thống [rõ ràng].</li>
       
-          <li className="list-none">Hình thái mới: [clear] - [ROOT ADjective BASE][RỄ TÍNH CƠ] hình thành từ khối [ROOT ADjective BASE][RỄ TÍNH CƠ] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần Tính Cơ đơn duy nhất.</li>
+          <li className="list-none">Hình thái mới: [clear] - [ROOT ADjective BASE][RỄ TÍNH CƠ] hình thành từ khối [ROOT ADjective BASE][RỄ TÍNH CƠ] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần ADjective đơn duy nhất.</li>
       
           <li className="list-none">Chức năng mới: [clear] - [ADjective BASE][TÍNH CƠ] thiết lập vị trí ngay trước đối tượng "system layout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       

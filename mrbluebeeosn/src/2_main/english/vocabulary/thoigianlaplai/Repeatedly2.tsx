@@ -91,7 +91,7 @@ export default function rePEATedly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ chỉ việc làm điều gì đó nhiều lần, liên tục.
+            &nbsp;là một ADverb chỉ việc làm điều gì đó nhiều lần, liên tục.
 
           </p>
 

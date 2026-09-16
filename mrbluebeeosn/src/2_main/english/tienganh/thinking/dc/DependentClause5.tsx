@@ -80,7 +80,7 @@ export default function DependentClause5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bước 2: Đặt từ nối vào đầu câu con phụ</h4>
 					
-			<p className="text-indent-whole">Chọn đúng loại từ tín hiệu — liên cơ phụ thuộc, đại cơ quan hệ, hoặc WH-word. Đặt nó ngay trước danh chủ của câu con phụ, không phải trước câu con chính.</p>
+			<p className="text-indent-whole">Chọn đúng loại từ tín hiệu — conJUNCtion phụ thuộc, PROnoun quan hệ, hoặc WH-word. Đặt nó ngay trước danh chủ của câu con phụ, không phải trước câu con chính.</p>
 			
 				<ul className="list-square">
 			

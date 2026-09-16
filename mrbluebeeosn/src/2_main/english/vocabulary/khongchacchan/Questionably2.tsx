@@ -147,7 +147,7 @@ export default function QUEStionably2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>QUEStionably</strong>" thường được đặt trước Tính Cơ để nhấn mạnh ý nghĩa.</li>
+          <li>"<strong>QUEStionably</strong>" thường được đặt trước ADjective để nhấn mạnh ý nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết hoặc nói để tạo ra một hiệu ứng nghi ngờ và cảnh giác.</li>
 

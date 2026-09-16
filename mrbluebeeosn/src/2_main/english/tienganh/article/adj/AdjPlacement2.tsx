@@ -388,7 +388,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. 🧠 TƯ DUY ĐẶT CÂU CỐT LÕI CỦA NGƯỜI BẢN XỨ: DANH CƠ + TÍNH CỤM / TÍNH CÂU</h3>
+			<h3 className="margin-y-50 text-center">5. 🧠 TƯ DUY ĐẶT CÂU CỐT LÕI CỦA NGƯỜI BẢN XỨ: NOUN + TÍNH CỤM / TÍNH CÂU</h3>
 
 			<p>Người bản xứ có một thói quen tư duy cực kỳ đặc trưng: Đưa <strong>thành phần chính cần nói lên đầu câu</strong>, sau đó mới thả <strong>phần mô tả ra phía sau</strong>.</p>
 

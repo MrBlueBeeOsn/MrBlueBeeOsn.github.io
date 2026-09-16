@@ -75,7 +75,7 @@ export default function SO2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>SO</strong>" (quá, rất; như vậy) khi nó đóng vai trò là một Trạng Cơ trong tiếng Anh nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>SO</strong>" (quá, rất; như vậy) khi nó đóng vai trò là một ADverb trong tiếng Anh nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function SO2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ rất linh hoạt, có thể dùng để nhấn mạnh mức độ, chỉ kết quả hoặc đồng ý với một điều gì đó.
+            &nbsp;là một ADverb rất linh hoạt, có thể dùng để nhấn mạnh mức độ, chỉ kết quả hoặc đồng ý với một điều gì đó.
 
           </p>
 
@@ -152,7 +152,7 @@ export default function SO2(): React.JSX.Element {
 
           <li><strong>SO</strong> BEAUtiful, <strong>SO</strong> QUICKly</li>
           <li className="list-none">Đẹp quá, nhanh quá!</li>
-          <li className="list-none margin-bottom-20">Nhấn mạnh mức độ: "<strong>SO</strong>" thường được dùng để nhấn mạnh Tính Cơ hoặc Trạng Cơ.</li>
+          <li className="list-none margin-bottom-20">Nhấn mạnh mức độ: "<strong>SO</strong>" thường được dùng để nhấn mạnh ADjective hoặc Trạng Cơ.</li>
           
 
           <li>it RAINED HEAVily, <strong>so</strong> we STAYED HOME.</li>

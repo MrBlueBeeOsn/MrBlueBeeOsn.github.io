@@ -66,7 +66,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"LOAF"
 			],
 			correctAnswer: 2,
-			explanation: "Các Danh Cơ tận cùng bằng -F hoặc -FE thường đổi thành -v rồi thêm -ES (LOAF -> LOAVES)."
+			explanation: "Các NOUN tận cùng bằng -F hoặc -FE thường đổi thành -v rồi thêm -ES (LOAF -> LOAVES)."
 		},
 		{
 			id: 5,

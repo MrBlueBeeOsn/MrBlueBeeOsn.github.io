@@ -147,7 +147,7 @@ export default function esPECially2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>esPECially</strong>" thường được đặt trước danh cơ, Tính Cơ hoặc câu con.</li>
+          <li>"<strong>esPECially</strong>" thường được đặt trước danh cơ, ADjective hoặc câu con.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để làm cho câu nói thêm phần nhấn mạnh.</li>
 

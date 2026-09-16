@@ -30,7 +30,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 0,
-			explanation: "Khi danh chủ bắt đầu bằng \"each of\" (Mỗi trong số...), hành động luôn chia ở dạng số ít bất kể Danh Cơ theo sau là số nhiều."
+			explanation: "Khi danh chủ bắt đầu bằng \"each of\" (Mỗi trong số...), hành động luôn chia ở dạng số ít bất kể NOUN theo sau là số nhiều."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"neither... nor...\" (Không... cũng không...), hành động phải chia theo danh chủ gần nó nhất (ở đây là \"emPLOYees\" - Danh Cơ số nhiều)."
+			explanation: "Với cấu trúc \"neither... nor...\" (Không... cũng không...), hành động phải chia theo danh chủ gần nó nhất (ở đây là \"emPLOYees\" - NOUN số nhiều)."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"are PRACticing"
 			],
 			correctAnswer: 1,
-			explanation: "\"TEAM\" là Danh Cơ tập hợp (colLECtive NOUN). Khi cả đội hoạt động như một đơn vị thống nhất, chúng ta chia hành động ở ngôi thứ 3 số ít."
+			explanation: "\"TEAM\" là NOUN tập hợp (colLECtive NOUN). Khi cả đội hoạt động như một đơn vị thống nhất, chúng ta chia hành động ở ngôi thứ 3 số ít."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 2,
-			explanation: "Các môn học kết thúc bằng đuôi \"-ics\" (matheMATics, PHYSics, ecoNOMics...) luôn được coi là Danh Cơ số ít."
+			explanation: "Các môn học kết thúc bằng đuôi \"-ics\" (matheMATics, PHYSics, ecoNOMics...) luôn được coi là NOUN số ít."
 		},
 		{
 			id: 5,
@@ -102,7 +102,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 1,
-			explanation: "Tương tự môn học, từ \"Politics\" (chính trị) khi nói về một lĩnh vực chung thì được tính là Danh Cơ số ít."
+			explanation: "Tương tự môn học, từ \"Politics\" (chính trị) khi nói về một lĩnh vực chung thì được tính là NOUN số ít."
 		},
 		{
 			id: 8,
@@ -114,7 +114,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 2,
-			explanation: "Mặc dù có hai Danh Cơ nối bằng \"and\", nhưng \"BREAD and BUTter\" được coi là một món ăn duy nhất (một chỉnh thể), nên dùng hành động số ít."
+			explanation: "Mặc dù có hai NOUN nối bằng \"and\", nhưng \"BREAD and BUTter\" được coi là một món ăn duy nhất (một chỉnh thể), nên dùng hành động số ít."
 		},
 		{
 			id: 9,
@@ -138,7 +138,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have NEEDed"
 			],
 			correctAnswer: 1,
-			explanation: "Các đại cơ bất định (everyone, SOMEone, NO one, everything...) luôn đi kèm với hành động chia ở số ít."
+			explanation: "Các PROnoun bất định (everyone, SOMEone, NO one, everything...) luôn đi kèm với hành động chia ở số ít."
 		}
 	];
 

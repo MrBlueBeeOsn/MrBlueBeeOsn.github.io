@@ -89,7 +89,7 @@ export default function ABsolutely2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ thường được dùng để nhấn mạnh một ý kiến, một câu trả lời hoặc một tình huống. Nó mang ý nghĩa hoàn toàn đồng ý, chắc chắn hoặc không có ngoại lệ nào.
+            &nbsp;là một ADverb thường được dùng để nhấn mạnh một ý kiến, một câu trả lời hoặc một tình huống. Nó mang ý nghĩa hoàn toàn đồng ý, chắc chắn hoặc không có ngoại lệ nào.
 
           </p>
 
@@ -147,7 +147,7 @@ export default function ABsolutely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>ABsolutely</strong>" thường được đặt trước Tính Cơ hoặc Trạng Cơ để bổ nghĩa.</li>
+          <li>"<strong>ABsolutely</strong>" thường được đặt trước ADjective hoặc ADverb để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
 

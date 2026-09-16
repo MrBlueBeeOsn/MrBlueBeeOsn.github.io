@@ -30,43 +30,43 @@ export default function SLOWly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#but-SUREly-MAking">but SUREly MAking</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FAded">FAded</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#reCOVering">reCOVering</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GROWing">GROWing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#CHAnging">CHAnging</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MOving">MOving</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DYing">DYing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SINKing">SINKing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#apPROACHing">apPROACHing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#REalizing">REalizing</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,39 +103,39 @@ export default function SLOWly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she is SLOWly but SUREly MAking PROgress in her STUDies.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đang tiến bộ trong học tập một cách chậm mà chắc.</li>
+        <li value="1" id="but-SUREly-MAking">she is SLOWly [but SUREly MAking] PROgress in her STUDies.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đang tiến bộ trong học tập [một cách chậm mà chắc].</li>
 
-        <li value="2" id="">the SOUND of the MUsic SLOWly FAded into the NIGHT.</li>
-        <li className="list-none margin-bottom-20">Âm thanh của nhạc dần dần mờ nhạt vào đêm.</li>
+        <li value="2" id="FAded">the SOUND of the MUsic SLOWly [FAded] into the NIGHT.</li>
+        <li className="list-none margin-bottom-20">Âm thanh của nhạc dần dần [mờ nhạt] vào đêm.</li>
 
-        <li value="3" id="">he is SLOWly reCOVering from his ILLness.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đang dần dần hồi phục sau khi ốm.</li>
+        <li value="3" id="reCOVering">he is SLOWly [reCOVering] from his ILLness.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đang dần dần [hồi phục] sau khi ốm.</li>
 
-        <li value="4" id="">the PLANT is SLOWly GROWing TALler.</li>
-        <li className="list-none margin-bottom-20">Cây đang dần dần cao lớn hơn.</li>
+        <li value="4" id="GROWing">the PLANT is SLOWly [GROWing] TALler.</li>
+        <li className="list-none margin-bottom-20">Cây đang dần dần cao [lớn] hơn.</li>
 
-        <li value="5" id="">the CLImate is SLOWly CHAnging due to GLObal WARMing.</li>
-        <li className="list-none margin-bottom-20">Khí hậu đang dần dần thay đổi do biến đổi khí hậu toàn cầu.</li>
+        <li value="5" id="CHAnging">the CLImate is SLOWly [CHAnging] due to GLObal WARMing.</li>
+        <li className="list-none margin-bottom-20">Khí hậu đang dần dần [thay đổi] do biến đổi khí hậu toàn cầu.</li>
 
-        <li value="6" id="">the SNAIL was SLOWly MOVing across the LEAF.</li>
-        <li className="list-none margin-bottom-20">Con ốc sên di chuyển chậm chạp trên lá.</li>
+        <li value="6" id="MOving">the SNAIL was SLOWly [MOving] across the LEAF.</li>
+        <li className="list-none margin-bottom-20">Con ốc sên [di chuyển] chậm chạp trên lá.</li>
 
-        <li value="7" id="">the OLD TREE was SLOWly DYing.</li>
-        <li className="list-none margin-bottom-20">Cây già đang dần dần chết.</li>
+        <li value="7" id="DYing">the OLD TREE was SLOWly [DYing].</li>
+        <li className="list-none margin-bottom-20">Cây già đang dần dần [chết].</li>
 
-        <li value="8" id="">the SHIP was SLOWly SINKing into the OCean.</li>
-        <li className="list-none margin-bottom-20">Con tàu đang dần dần chìm xuống đại dương.</li>
+        <li value="8" id="SINKing">the SHIP was SLOWly [SINKing] into the OCean.</li>
+        <li className="list-none margin-bottom-20">Con tàu đang dần dần [chìm] xuống đại dương.</li>
 
-        <li value="9" id="">the STORM was SLOWly apPROACHing the COAST.</li>
-        <li className="list-none margin-bottom-20">Cơn bão đang dần dần tiến lại gần bờ biển.</li>
+        <li value="9" id="apPROACHing">the STORM was SLOWly [apPROACHing] the COAST.</li>
+        <li className="list-none margin-bottom-20">Cơn bão đang dần dần [tiến lại gần] bờ biển.</li>
 
-        <li value="10" id="">she was SLOWly REALizing the TRUTH.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đang dần dần nhận ra sự thật.</li>
+        <li value="10" id="REalizing">she was SLOWly [REalizing] the TRUTH.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đang dần dần [nhận ra] sự thật.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh Tính Cơ từ và sự dần dần của một quá trình hoặc hành động. Chúng thường được sử dụng để mô tả những thay đổi nhỏ nhặt nhưng liên tục theo thời gian.</p>
+      <p>** Các cụm từ trên đều nhấn mạnh ADjective từ và sự dần dần của một quá trình hoặc hành động. Chúng thường được sử dụng để mô tả những thay đổi nhỏ nhặt nhưng liên tục theo thời gian.</p>
 
       {/* =============================
             Lưu ý:

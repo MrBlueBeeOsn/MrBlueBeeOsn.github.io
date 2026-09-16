@@ -78,7 +78,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"unless"
 			],
 			correctAnswer: 2,
-			explanation: "as long as (miễn là) dùng để mở đầu câu con trạng ngữ chỉ điều kiện (ADverb CLAUSE of conDITion). Các liên cơ còn lại không tạo nên mối quan hệ điều kiện hợp lý: even if (ngay cả khi), as if (như thể là), unless (ngoại trừ khi)."
+			explanation: "as long as (miễn là) dùng để mở đầu câu con trạng ngữ chỉ điều kiện (ADverb CLAUSE of conDITion). Các conJUNCtion còn lại không tạo nên mối quan hệ điều kiện hợp lý: even if (ngay cả khi), as if (như thể là), unless (ngoại trừ khi)."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"since"
 			],
 			correctAnswer: 0,
-			explanation: "Phía sau là một câu con hoàn chỉnh (he WOULDn't MISS...), do đó cần liên cơ so that (để mà) để mở đầu câu con trạng ngữ chỉ mục đích. in order to cũng mang nghĩa chỉ mục đích nhưng bắt buộc phải đi trực tiếp với hành động nguyên mẫu."
+			explanation: "Phía sau là một câu con hoàn chỉnh (he WOULDn't MISS...), do đó cần conJUNCtion so that (để mà) để mở đầu câu con trạng ngữ chỉ mục đích. in order to cũng mang nghĩa chỉ mục đích nhưng bắt buộc phải đi trực tiếp với hành động nguyên mẫu."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"because"
 			],
 			correctAnswer: 2,
-			explanation: "though (mặc dù) là liên cơ mở đầu một câu con trạng ngữ chỉ sự tương phản chứa cả danh chủ và hành động (the TRAFfic was...). despite và in spite of cũng mang nghĩa tương tự nhưng theo sau chúng bắt buộc phải là một danh cụm hoặc V-ing."
+			explanation: "though (mặc dù) là conJUNCtion mở đầu một câu con trạng ngữ chỉ sự tương phản chứa cả danh chủ và hành động (the TRAFfic was...). despite và in spite of cũng mang nghĩa tương tự nhưng theo sau chúng bắt buộc phải là một danh cụm hoặc V-ing."
 		},
 		{
 			id: 8,
@@ -138,7 +138,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"even though"
 			],
 			correctAnswer: 1,
-			explanation: "unless có nghĩa là \"ngoại trừ khi\" (bằng với if... NOT), mở đầu câu con trạng ngữ chỉ điều kiện. Nếu dùng các liên cơ điều kiện mang tính khẳng định như if hoặc proVIded that (nếu/miễn là bạn học nghiêm túc thì bạn sẽ trượt) sẽ làm câu bị sai hoàn toàn về mặt logic."
+			explanation: "unless có nghĩa là \"ngoại trừ khi\" (bằng với if... NOT), mở đầu câu con trạng ngữ chỉ điều kiện. Nếu dùng các conJUNCtion điều kiện mang tính khẳng định như if hoặc proVIded that (nếu/miễn là bạn học nghiêm túc thì bạn sẽ trượt) sẽ làm câu bị sai hoàn toàn về mặt logic."
 		}
 	];
 

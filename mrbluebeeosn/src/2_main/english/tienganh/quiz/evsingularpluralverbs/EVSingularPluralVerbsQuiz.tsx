@@ -30,7 +30,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"being"
 			],
 			correctAnswer: 0,
-			explanation: "Danh chủ chính là Danh Cơ số ít \"the LIST\", không phải \"Items\". Vì vậy, hành động phải chia ở số ít."
+			explanation: "Danh chủ chính là NOUN số ít \"the LIST\", không phải \"Items\". Vì vậy, hành động phải chia ở số ít."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"has WANTed"
 			],
 			correctAnswer: 2,
-			explanation: "Với cấu trúc \"neither... nor...\", hành động chia theo danh chủ gần nó nhất. \"the STUdents\" là Danh Cơ số nhiều nên dùng \"WANT\"."
+			explanation: "Với cấu trúc \"neither... nor...\", hành động chia theo danh chủ gần nó nhất. \"the STUdents\" là NOUN số nhiều nên dùng \"WANT\"."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"were"
 			],
 			correctAnswer: 1,
-			explanation: "Một số Danh Cơ kết thúc bằng \"s\" nhưng là tên môn học, lĩnh vực (ecoNOMics, PHYSics, matheMATics) thì luôn chia hành động ở số ít."
+			explanation: "Một số NOUN kết thúc bằng \"s\" nhưng là tên môn học, lĩnh vực (ecoNOMics, PHYSics, matheMATics) thì luôn chia hành động ở số ít."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 2,
-			explanation: "Cấu trúc \"a NUMber of + Danh Cơ số nhiều\" luôn đi với hành động số nhiều. (Ngược lại, \"The NUMber of\" sẽ đi với hành động số ít)."
+			explanation: "Cấu trúc \"a NUMber of + NOUN số nhiều\" luôn đi với hành động số nhiều. (Ngược lại, \"The NUMber of\" sẽ đi với hành động số ít)."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"are having"
 			],
 			correctAnswer: 0,
-			explanation: "Khi danh chủ bắt đầu bằng \"every\" hoặc \"EACH\", hành động luôn chia ở số ít bất kể có bao nhiêu Danh Cơ đi sau."
+			explanation: "Khi danh chủ bắt đầu bằng \"every\" hoặc \"EACH\", hành động luôn chia ở số ít bất kể có bao nhiêu NOUN đi sau."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"been"
 			],
 			correctAnswer: 2,
-			explanation: "Mặc dù \"SCISsors\" là Danh Cơ luôn ở dạng số nhiều, nhưng khi có cụm \"the PAIR of\" (Cặp/Cái) đứng trước, ta chia theo \"PAIR\" (số ít)."
+			explanation: "Mặc dù \"SCISsors\" là NOUN luôn ở dạng số nhiều, nhưng khi có cụm \"the PAIR of\" (Cặp/Cái) đứng trước, ta chia theo \"PAIR\" (số ít)."
 		},
 		{
 			id: 7,
@@ -138,7 +138,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 0,
-			explanation: "Khi hai Danh Cơ nối với nhau bằng \"and\" nhưng cùng chỉ về một món ăn hoặc một ý tưởng thống nhất, hành động sẽ chia ở số ít."
+			explanation: "Khi hai NOUN nối với nhau bằng \"and\" nhưng cùng chỉ về một món ăn hoặc một ý tưởng thống nhất, hành động sẽ chia ở số ít."
 		}
 	];
 

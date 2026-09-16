@@ -496,7 +496,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The movie is [______].</li>
 					<li className="margin-bottom-20 list-none">Bộ phim thì [rất thú vị].</li>
 			
-					<li className="list-none">Hình thái: [really exciting] - [ADjective PHRASE][TÍNH CỤM] gồm Trạng Cơ really và Tính Cơ exciting.</li>
+					<li className="list-none">Hình thái: [really exciting] - [ADjective PHRASE][TÍNH CỤM] gồm ADverb really và ADjective exciting.</li>
 			
 					<li className="list-none">Chức năng: [really exciting] - [ADjective PHRASE][TÍNH CỤM] miêu tả the movie.</li>
 			

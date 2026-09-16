@@ -89,7 +89,7 @@ export default function NEVer2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một Trạng Cơ chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc không xảy ra bao giờ cả.
+            &nbsp;là một ADverb chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc không xảy ra bao giờ cả.
 
           </p>
 
@@ -149,7 +149,7 @@ export default function NEVer2(): React.JSX.Element {
 
           <li>"<strong>NEVer</strong>" thường đứng ở đầu câu hoặc trước hành động chính.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>NEVer</strong>" với nhiều Trạng Cơ khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>NEVer</strong>" với nhiều ADverb khác để tạo ra các cụm từ đa dạng hơn.</li>
 
         </ul>
 

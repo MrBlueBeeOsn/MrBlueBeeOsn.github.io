@@ -100,7 +100,7 @@ export default function CLEARly2(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>"<strong>CLEARly</strong>" thường được đặt trước Tính Cơ hoặc hành động để nhấn mạnh ý nghĩa.</li>
+					<li>"<strong>CLEARly</strong>" thường được đặt trước ADjective hoặc hành động để nhấn mạnh ý nghĩa.</li>
 
 					<li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ cuộc trò chuyện hàng ngày đến văn bản học thuật.</li>
 

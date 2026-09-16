@@ -42,7 +42,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"WHAT"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"that you LENT me YESterday\" là một Adjective Clause (Câu con tính ngữ/quan hệ) bổ nghĩa cho Danh Cơ chỉ vật \"the BOOK\". Ta dùng đại cơ quan hệ \"that\" (hoặc \"which\") làm danh nhận thay thế cho vật. \"what\" không đứng sau Danh Cơ để bổ nghĩa như vậy."
+			explanation: "Cụm \"that you LENT me YESterday\" là một Adjective Clause (Câu con tính ngữ/quan hệ) bổ nghĩa cho NOUN chỉ vật \"the BOOK\". Ta dùng PROnoun quan hệ \"that\" (hoặc \"which\") làm danh nhận thay thế cho vật. \"what\" không đứng sau NOUN để bổ nghĩa như vậy."
 		},
 		{
 			id: 3,
@@ -66,7 +66,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm \"why she LEFT EARly\" là một Adjective Clause bổ nghĩa cho Danh Cơ \"the REAson\". Trạng Cơ quan hệ \"why\" được dùng để chỉ lý do cho Danh Cơ đứng trước nó."
+			explanation: "Cụm \"why she LEFT EARly\" là một Adjective Clause bổ nghĩa cho NOUN \"the REAson\". ADverb quan hệ \"why\" được dùng để chỉ lý do cho NOUN đứng trước nó."
 		},
 		{
 			id: 5,
@@ -102,7 +102,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"whom"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"whose BATtery LIFE is aMAzing\" là một Adjective Clause (câu con quan hệ không xác định). \"whose\" là đại cơ quan hệ chỉ sự sở hữu, thay thế cho cụm \"the LAPtop's BATtery LIFE\"."
+			explanation: "Cụm \"whose BATtery LIFE is aMAzing\" là một Adjective Clause (câu con quan hệ không xác định). \"whose\" là PROnoun quan hệ chỉ sự sở hữu, thay thế cho cụm \"the LAPtop's BATtery LIFE\"."
 		},
 		{
 			id: 8,
@@ -138,7 +138,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"although"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm \"as SOON as it STARTed RAINing HEAVily\" là một Adverb Clause of Time (Trạng câu chỉ thời gian). Liên cơ \"as SOON as\" (ngay khi) giúp câu diễn đạt đúng logic: hành động \"ở trong nhà\" diễn ra ngay tại thời điểm \"trời bắt đầu mưa to\"."
+			explanation: "Cụm \"as SOON as it STARTed RAINing HEAVily\" là một Adverb Clause of Time (Trạng câu chỉ thời gian). conJUNCtion \"as SOON as\" (ngay khi) giúp câu diễn đạt đúng logic: hành động \"ở trong nhà\" diễn ra ngay tại thời điểm \"trời bắt đầu mưa to\"."
 		}
 	];
 

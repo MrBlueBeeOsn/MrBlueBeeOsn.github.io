@@ -147,7 +147,7 @@ export default function HAPpily2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>HAPpily</strong>" thường được đặt trước hành động hoặc Tính Cơ để bổ nghĩa.</li>
+          <li>"<strong>HAPpily</strong>" thường được đặt trước hành động hoặc ADjective để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để làm cho câu nói thêm phần sinh động và cảm xúc.</li>
 
