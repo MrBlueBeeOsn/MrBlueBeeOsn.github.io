@@ -106,11 +106,11 @@ export default function Home(): React.JSX.Element {
           
               ☕ Happy <mark className="highlight-tertiary-padding-2-4">reading</mark> today!&nbsp;
 
-              <Link to="https://www.microsoft.com/en-us/edge/features/read-aloud" className="speaker-link" target="_blank" data-title="Play read aloud">
+              {/* <Link to="https://www.microsoft.com/en-us/edge/features/read-aloud" className="speaker-link" target="_blank" data-title="Play read aloud">
 
                 <i className="fa-solid fa-volume-high speaker-icon">&nbsp;</i>
 
-              </Link>
+              </Link> */}
               
               <i className="fa-solid fa-book-open-reader reader-icon"></i>
         
