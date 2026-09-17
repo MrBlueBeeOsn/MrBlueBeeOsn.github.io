@@ -34,13 +34,13 @@ export default function VowelSystem(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Long Ā (ā):</li>
+					<li>Long Ā \ā\:</li>
 					<li className="margin-bottom-20 list-none">ā is the long sound. It sounds like "Ây" in Vietnamese (e.g., CAKE \ˈkāk\).</li>
 			
-					<li>Short a (a):</li>
+					<li>Short A \a\:</li>
 					<li className="margin-bottom-20 list-none">Unmarked a is the short sound. It sounds like "A lai E" (e.g., CAT \ˈkat\).</li>
 			
-					<li>The 2-Dot Exception (ä):</li>
+					<li>The 2-Dot Exception \ä\:</li>
 					<li className="list-none">ä is the ultra-open "a" sound used for words like FAther \ˈfä-t͟hər\ and short-o words like HOT \ˈhät\.</li>
 			
 				</ul>
@@ -50,10 +50,10 @@ export default function VowelSystem(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Long Ē (ē):</li>
+					<li>Long Ē \ē\:</li>
 					<li className="margin-bottom-20 list-none">ē is the long sound. It sounds like a long "I" in Vietnamese (e.g., MEET \ˈmēt\).</li>
 			
-					<li>Short e (e):</li>
+					<li>Short E \e\:</li>
 					<li className="list-none">Unmarked e is the short sound. It sounds exactly like the crisp Vietnamese "e" (e.g., BED \ˈbed\).</li>
 			
 				</ul>
@@ -63,10 +63,10 @@ export default function VowelSystem(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Long Ī (ī):</li>
+					<li>Long Ī \ī\:</li>
 					<li className="margin-bottom-20 list-none">ī is the long sound. It sounds like "AI" in Vietnamese (e.g., TIME \ˈtīm\).</li>
 			
-					<li>Short i (i):</li>
+					<li>Short I \i\:</li>
 					<li className="list-none">Unmarked i is the short sound. It is a very quick, clipped sound that leans slightly toward "ư" (e.g., SIT \ˈsit\).</li>
 			
 				</ul>
@@ -76,13 +76,13 @@ export default function VowelSystem(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Long Ō (ō):</li>
+					<li>Long Ō \ō\:</li>
 					<li className="margin-bottom-20 list-none">ō is the long sound. It sounds like the Vietnamese "Ô" or "Ô-U" khum môi (e.g., GO \ˈgō\).</li>
 			
-					<li>1-Dot Open Ȯ (ȯ - 1 Dot):</li>
+					<li>1-Dot Open Ȯ \ȯ\ - 1 Dot:</li>
 					<li className="margin-bottom-20 list-none">For O, 1 dot means LONG. It sounds like a deep, rounded "O / Ô" in your throat like "con bò" (e.g., LAW \ˈlȯ\).</li>
 			
-					<li>2-Dot Short o (ä - 2 Dots):</li>
+					<li>2-Dot Short O \ä\ - 2 Dots:</li>
 					<li className="list-none">For O, 2 dots mean SHORT. It represents the American short-O where you drop your jaw completely flat and say "a" (e.g., HOT \ˈhät\).</li>
 			
 				</ul>
@@ -92,16 +92,16 @@ export default function VowelSystem(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Long Ü (ü - 2 Dots):</li>
+					<li>Long U \ü\ - 2 Dots:</li>
 					<li className="margin-bottom-20 list-none">For U, 2 dots mean LONG. It sounds like a deep, extended "U/OO" where you push your lips out (e.g., RULE \ˈrül\).</li>
 			
-					<li>Short u̇ (u̇ - 1 Dot):</li>
+					<li>Short U \u̇\ - 1 Dot:</li>
 					<li className="margin-bottom-20 list-none">For U, 1 dot means SHORT. It is a relaxed, quick "u" sound (e.g., BOOK \ˈbu̇k\).</li>
 
-					<li>Stressed Y-DUO YÜ (yü):</li>
+					<li>Stressed Y-DUO U \yü\:</li>
 					<li className="margin-bottom-20 list-none">Sounds exactly like "IU / YÊU" when the syllable is fully emphasized (e.g., CUTE \ˈkyüt\ → KYÊU-T, MUsic \ˈmyü-zik\ → MYÊU-zịck).</li>
 			
-					<li>Unstressed y-duo yə (yə):</li>
+					<li>Unstressed y-duo U \yə\:</li>
 					<li className="list-none">Sounds exactly like "ia / iơ" when the syllable is relaxed and spoken quickly (e.g., ACcurate \ˈak-yə-rət\ → AK-ia-rơt, POPular \ˈpä-pyə-lər\ → PÓP-pia-lờ).</li>
 			
 				</ul>

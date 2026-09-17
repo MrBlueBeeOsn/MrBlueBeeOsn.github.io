@@ -77,7 +77,7 @@ export default function EnglishTopic(): React.JSX.Element {
           //   }
           // }}
         >
-          <mark className="highlight-tertiary-padding-2-4">pronunciAtion</mark>
+          <mark className="highlight-tertiary-padding-2-4">\pronunciAtion\</mark>
         </NavLink>
 
         {/* Tiếng anh */}

@@ -30,43 +30,43 @@ export default function GRADually2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#inCREASED">inCREASED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#deCREASED">deCREASED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#reCOVered">reCOVered</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#CHANGED">CHANGED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#imPROVED">imPROVED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FAded">FAded</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#disapPEARED">disapPEARED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#deVELoped">deVELoped</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#aDAPTed">aDAPTed</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#deCLINED">deCLINED</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function GRADually2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the TEMPERature GRADually inCREASED throughout the DAY.</li>
-        <li className="list-none margin-bottom-20">Nhiệt độ tăng dần suốt cả ngày.</li>
+        <li value="1" id="inCREASED">the TEMPERature GRADually [inCREASED] through<strong>out</strong> the DAY.</li>
+        <li className="list-none margin-bottom-20">Nhiệt độ [tăng] dần suốt cả ngày.</li>
 
-        <li value="2" id="">the NOISE GRADually deCREASED as we MOVED FARther aWAY.</li>
-        <li className="list-none margin-bottom-20">Tiếng ồn giảm dần khi chúng tôi đi xa hơn.</li>
+        <li value="2" id="deCREASED">the NOISE GRADually [deCREASED] as we MOVED FARther aWAY.</li>
+        <li className="list-none margin-bottom-20">Tiếng ồn [giảm] dần khi chúng tôi đi xa hơn.</li>
 
-        <li value="3" id="">she GRADually reCOVered from her ILLness.</li>
-        <li className="list-none margin-bottom-20">Cô ấy dần dần hồi phục sức khỏe sau khi ốm.</li>
+        <li value="3" id="reCOVered">she GRADually [reCOVered] from her ILLness.</li>
+        <li className="list-none margin-bottom-20">Cô ấy dần dần [hồi phục] sức khỏe sau khi ốm.</li>
 
-        <li value="4" id="">the CLImate GRADually CHANGED over MILlions of YEARS.</li>
-        <li className="list-none margin-bottom-20">Khí hậu thay đổi dần trong hàng triệu năm.</li>
+        <li value="4" id="CHANGED">the CLImate GRADually [CHANGED] over MILlions of YEARS.</li>
+        <li className="list-none margin-bottom-20">Khí hậu [thay đổi] dần trong hàng triệu năm.</li>
 
-        <li value="5" id="">his ENGlish GRADually imPROVED <strong>af</strong>ter STUDying for a YEAR.</li>
-        <li className="list-none margin-bottom-20">Tiếng Anh của anh ấy cải thiện dần sau khi học một năm.</li>
+        <li value="5" id="imPROVED">his ENGlish GRADually [imPROVED] <strong>af</strong>ter STUDying for a YEAR.</li>
+        <li className="list-none margin-bottom-20">Tiếng Anh của anh ấy [cải thiện] dần sau khi học một năm.</li>
 
-        <li value="6" id="">the SUNlight GRADually FAded as the DAY TURNED into NIGHT.</li>
-        <li className="list-none margin-bottom-20">Ánh nắng mặt trời dần dần mờ nhạt khi ngày chuyển sang đêm.</li>
+        <li value="6" id="FAded">the SUNlight GRADually [FAded] as the DAY TURNED into NIGHT.</li>
+        <li className="list-none margin-bottom-20">Ánh nắng mặt trời dần dần [mờ nhạt] khi ngày chuyển sang đêm.</li>
 
-        <li value="7" id="">the PAIN GRADually disapPEARED <strong>af</strong>ter TAKing the MEDicine.</li>
-        <li className="list-none margin-bottom-20">Cơn đau dần dần biến mất sau khi uống thuốc.</li>
+        <li value="7" id="disapPEARED">the PAIN GRADually [disapPEARED] <strong>af</strong>ter TAKing the MEDicine.</li>
+        <li className="list-none margin-bottom-20">Cơn đau dần dần [biến mất] sau khi uống thuốc.</li>
 
-        <li value="8" id="">the CIty GRADually deVELoped into a MAjor meTROPolis.</li>
-        <li className="list-none margin-bottom-20">Thành phố dần dần phát triển thành một đô thị lớn.</li>
+        <li value="8" id="deVELoped">the CIty GRADually [deVELoped] into a MAjor meTROPolis.</li>
+        <li className="list-none margin-bottom-20">Thành phố dần dần [phát triển] thành một đô thị lớn.</li>
 
-        <li value="9" id="">she GRADually aDAPTed to the NEW enVIronment.</li>
-        <li className="list-none margin-bottom-20">Cô ấy dần dần thích nghi với môi trường mới.</li>
+        <li value="9" id="aDAPTed">she GRADually [aDAPTed] to the NEW enVIronment.</li>
+        <li className="list-none margin-bottom-20">Cô ấy dần dần [thích nghi] với môi trường mới.</li>
 
-        <li value="10" id="">his HEALTH GRADually deCLINED <strong>af</strong>ter the ACcident.</li>
-        <li className="list-none margin-bottom-20">Sức khỏe của ông ấy dần dần suy giảm sau tai nạn.</li>
+        <li value="10" id="deCLINED">his HEALTH GRADually [deCLINED] <strong>af</strong>ter the ACcident.</li>
+        <li className="list-none margin-bottom-20">Sức khỏe của ông ấy dần dần [suy giảm] sau tai nạn.</li>
 
       </ol>
 
