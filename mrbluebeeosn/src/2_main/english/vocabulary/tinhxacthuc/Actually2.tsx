@@ -77,7 +77,7 @@ export default function ACtually2(): React.JSX.Element {
 				<li value="7">it's ACtually SIMple to DO.</li>
 				<li className="list-none margin-bottom-20">Thực ra thì rất đơn giản để làm.</li>
 
-				<li value="8">i've ACtually BEEN to PAris TWICE.</li>
+				<li value="8">i've ACtually BEEN to PARis TWICE.</li>
 				<li className="list-none margin-bottom-20">Thực ra tôi đã đến Paris hai lần rồi.</li>
 
 				<li value="9">it's ACtually that exPENsive.</li>

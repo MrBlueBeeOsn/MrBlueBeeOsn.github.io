@@ -30,43 +30,43 @@ export default function REally2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LIKE">LIKE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WANT">WANT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WELL">WELL</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#BIG">BIG</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FAST">FAST</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HARD">HARD</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FUNny">FUNny</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TIred">TIred</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HAPpy">HAPpy</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#surPRISED">surPRISED</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,39 +103,39 @@ export default function REally2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">i REally LIKE PIZza.</li>
-        <li className="list-none margin-bottom-20">Tôi rất thích pizza.</li>
+        <li value="1" id="LIKE">i REally [LIKE] PIZza.</li>
+        <li className="list-none margin-bottom-20">Tôi rất [thích] PIZza.</li>
 
-        <li value="2" id="">i REally WANT to GO to PAris.</li>
-        <li className="list-none margin-bottom-20">Tôi rất muốn đến Paris.</li>
+        <li value="2" id="WANT">i REally [WANT] to GO to PARis.</li>
+        <li className="list-none margin-bottom-20">Tôi rất [muốn] đến PARis.</li>
 
-        <li value="3" id="">she SPEAKS ENGlish REally WELL.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nói tiếng Anh rất tốt.</li>
+        <li value="3" id="WELL">she SPEAKS ENGlish REally [WELL].</li>
+        <li className="list-none margin-bottom-20">Cô ấy nói tiếng Anh rất [tốt].</li>
 
-        <li value="4" id="">his HOUSE is REally BIG.</li>
-        <li className="list-none margin-bottom-20">Nhà của anh ấy rất lớn.</li>
+        <li value="4" id="BIG">his HOUSE is REally [BIG].</li>
+        <li className="list-none margin-bottom-20">Nhà của anh ấy rất [lớn].</li>
 
-        <li value="5" id="">the CAR can GO REally FAST.</li>
-        <li className="list-none margin-bottom-20">Chiếc xe có thể chạy rất nhanh.</li>
+        <li value="5" id="FAST">the CAR can GO REally [FAST].</li>
+        <li className="list-none margin-bottom-20">Chiếc xe có thể chạy rất [nhanh].</li>
 
-        <li value="6" id="">THIS MATH PROBlem is REally HARD.</li>
-        <li className="list-none margin-bottom-20">Bài toán này rất khó.</li>
+        <li value="6" id="HARD">THIS MATH PROBlem is REally [HARD].</li>
+        <li className="list-none margin-bottom-20">Bài toán này rất [khó].</li>
 
-        <li value="7" id="">that JOKE was REally FUNny.</li>
-        <li className="list-none margin-bottom-20">Câu đùa đó thật hài hước.</li>
+        <li value="7" id="FUNny">that JOKE was REally [FUNny].</li>
+        <li className="list-none margin-bottom-20">Câu đùa đó thật [hài hước].</li>
 
-        <li value="8" id="">i'm REally TIred <strong>af</strong>ter WORK.</li>
-        <li className="list-none margin-bottom-20">Tôi rất mệt sau khi làm việc.</li>
+        <li value="8" id="TIred">i'm REally [TIred] <strong>af</strong>ter WORK.</li>
+        <li className="list-none margin-bottom-20">Tôi rất [mệt] sau khi làm việc.</li>
 
-        <li value="9" id="">i'm REally HAPpy to SEE you.</li>
-        <li className="list-none margin-bottom-20">Tôi rất vui khi gặp bạn.</li>
+        <li value="9" id="HAPpy">i'm REally [HAPpy] to SEE you.</li>
+        <li className="list-none margin-bottom-20">Tôi rất [vui] khi gặp bạn.</li>
 
-        <li value="10" id="">i was REally surPRISED by the NEWS.</li>
-        <li className="list-none margin-bottom-20">Tôi rất ngạc nhiên khi nghe tin đó.</li>
+        <li value="10" id="surPRISED">i was REally [surPRISED] by the NEWS.</li>
+        <li className="list-none margin-bottom-20">Tôi rất [ngạc nhiên] khi nghe tin đó.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh mức độ của một ADjective hoặc TRẠNG. "<strong>Really</strong>" được sử dụng để làm tăng cường ý nghĩa của từ đi kèm.</p>
+      <p>** Các cụm từ trên đều nhấn mạnh mức độ của một ADjective hoặc ADverb. "<strong>REally</strong>" được sử dụng để làm tăng cường ý nghĩa của từ đi kèm.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,7 +147,7 @@ export default function REally2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>REally</strong>" có thể đứng trước hoặc sau ADjective hoặc TRẠNG.</li>
+          <li>"<strong>REally</strong>" có thể đứng trước hoặc sau ADjective hoặc ADverb.</li>
 
           <li className="margin-bottom-20">Từ này rất phổ biến trong ngôn ngữ hàng ngày và được sử dụng trong nhiều ngữ cảnh khác nhau.</li>
 

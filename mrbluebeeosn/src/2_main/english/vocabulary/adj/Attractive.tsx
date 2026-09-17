@@ -92,7 +92,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="NOUN">the Eiffel TOWer is a MAjor TOUrist [atTRACtion] in PAris.</li>
+          <li id="NOUN">the Eiffel TOWer is a MAjor TOUrist [atTRACtion] in PARis.</li>
           <li className="margin-bottom-20 list-none">Tháp Eiffel là một điểm thu hút khách du lịch lớn ở Paris.</li>
 
           <li className="list-none">the PHYSical [atTRACtiveness] of the PROduct deSIGN HELPED inCREASE SALES.</li>

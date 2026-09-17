@@ -89,7 +89,7 @@ export default function exTREMEly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb dùng để nhấn mạnh mức độ cao nhất của một ADjective hoặc TRẠNG. Nó thường được sử dụng để diễn tả cảm xúc, tình huống hoặc sự vật vượt quá mức bình thường.
+            &nbsp;là một ADverb dùng để nhấn mạnh mức độ cao nhất của một ADjective hoặc ADverb. Nó thường được sử dụng để diễn tả cảm xúc, tình huống hoặc sự vật vượt quá mức bình thường.
 
           </p>
 
@@ -135,7 +135,7 @@ export default function exTREMEly2(): React.JSX.Element {
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh mức độ cao nhất của một ADjective hoặc TRẠNG, tạo nên một hiệu ứng nhấn mạnh và tăng cường cảm xúc.</p>
+      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh mức độ cao nhất của một ADjective hoặc ADverb, tạo nên một hiệu ứng nhấn mạnh và tăng cường cảm xúc.</p>
 
       {/* =============================
             Lưu ý:

@@ -91,7 +91,7 @@ export default function SO1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Rất, quá (TRẠNG mức độ): Dùng để nhấn mạnh mức độ của một ADjective hoặc TRẠNG.</p>
+      <p className="margin-top-30 text-indent-whole">Rất, quá (TRẠNG mức độ): Dùng để nhấn mạnh mức độ của một ADjective hoặc ADverb.</p>
 
         <ul className="list-square">
 
@@ -281,7 +281,7 @@ export default function SO1(): React.JSX.Element {
 
           <li>"<strong>SO</strong>" là một từ rất linh hoạt và có nhiều chức năng khác nhau trong câu.</li>
 
-          <li>Khi "<strong>SO</strong>" là ADverb chỉ mức độ, nó thường đứng trước ADjective hoặc TRẠNG.</li>
+          <li>Khi "<strong>SO</strong>" là ADverb chỉ mức độ, nó thường đứng trước ADjective hoặc ADverb.</li>
 
           <li className="margin-bottom-20">Khi "<strong>so</strong>" là LIÊN, nó thường đứng ở đầu câu con chỉ kết quả.</li>
 

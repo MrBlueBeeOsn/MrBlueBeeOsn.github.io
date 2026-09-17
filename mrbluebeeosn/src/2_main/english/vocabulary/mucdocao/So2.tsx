@@ -152,7 +152,7 @@ export default function SO2(): React.JSX.Element {
 
           <li><strong>SO</strong> BEAUtiful, <strong>SO</strong> QUICKly</li>
           <li className="list-none">Đẹp quá, nhanh quá!</li>
-          <li className="list-none margin-bottom-20">Nhấn mạnh mức độ: "<strong>SO</strong>" thường được dùng để nhấn mạnh ADjective hoặc TRẠNG.</li>
+          <li className="list-none margin-bottom-20">Nhấn mạnh mức độ: "<strong>SO</strong>" thường được dùng để nhấn mạnh ADjective hoặc ADverb.</li>
           
 
           <li>it RAINED HEAVily, <strong>so</strong> we STAYED HOME.</li>

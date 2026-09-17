@@ -240,7 +240,7 @@ export default function VERy1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>VERy</strong>" thường đứng trước ADjective hoặc TRẠNG.</li>
+          <li>"<strong>VERy</strong>" thường đứng trước ADjective hoặc ADverb.</li>
 
           <li>"<strong>VERy</strong>" có thể được sử dụng để nhấn mạnh cả tính chất tích cực và tiêu cực.</li>
 

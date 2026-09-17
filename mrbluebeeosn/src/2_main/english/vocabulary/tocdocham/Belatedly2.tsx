@@ -30,43 +30,43 @@ export default function beLAtedly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#REalized">REalized</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#aPOLogized">aPOLogized</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#arRIVED">arRIVED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SENT">SENT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#reSPONDed">reSPONDed</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#conGRATulated">conGRATulated</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#acKNOWledged">acKNOWledged</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#disCOVered">disCOVered</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#underSTOOD">underSTOOD</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#OFfered">OFfered</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function beLAtedly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">he beLAtedly REalized he had forGOTten his WALlet.</li>
-        <li className="list-none margin-bottom-20">Anh ấy muộn màng nhận ra mình đã quên ví.</li>
+        <li value="1" id="REalized">he beLAtedly [REalized] he had forGOTten his WALlet.</li>
+        <li className="list-none margin-bottom-20">Anh ấy muộn màng [nhận ra] mình đã quên ví.</li>
 
-        <li value="2" id="">she beLAtedly aPOLogized for her RUDE beHAVior.</li>
-        <li className="list-none margin-bottom-20">Cô ấy muộn màng xin lỗi vì hành vi thô lỗ của mình.</li>
+        <li value="2" id="aPOLogized">she beLAtedly [aPOLogized] for her RUDE beHAVior.</li>
+        <li className="list-none margin-bottom-20">Cô ấy muộn màng [xin lỗi] vì hành vi thô lỗ của mình.</li>
 
-        <li value="3" id="">they beLAtedly arRIVED at the MEEting due to TRAFfic.</li>
-        <li className="list-none margin-bottom-20">Họ đến cuộc họp một cách muộn màng do tắc đường.</li>
+        <li value="3" id="arRIVED">they beLAtedly [arRIVED] at the MEEting due to TRAFfic.</li>
+        <li className="list-none margin-bottom-20">Họ [đến] cuộc họp một cách muộn màng do tắc đường.</li>
 
-        <li value="4" id="">he beLAtedly SENT the BIRTHday CARD, WEEKS <strong>af</strong>ter the ACtual DATE.</li>
-        <li className="list-none margin-bottom-20">Anh ấy gửi thiệp sinh nhật một cách muộn màng, vài tuần sau ngày sinh nhật thật.</li>
+        <li value="4" id="SENT">he beLAtedly [SENT] the BIRTHday CARD, WEEKS <strong>af</strong>ter the ACtual DATE.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [gửi] thiệp sinh nhật một cách muộn màng, vài tuần sau ngày sinh nhật thật.</li>
 
-        <li value="5" id="">she beLAtedly reSPONded to his EMail <strong>af</strong>ter a LONG deLAY.</li>
-        <li className="list-none margin-bottom-20">Cô ấy trả lời email của anh ấy một cách muộn màng sau một thời gian dài trì hoãn.</li>
+        <li value="5" id="reSPONDed">she beLAtedly [reSPONDed] to his EMail <strong>af</strong>ter a LONG deLAY.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [trả lời] email của anh ấy một cách muộn màng sau một thời gian dài trì hoãn.</li>
 
-        <li value="6" id="">they beLAtedly conGRATulated the NEW PArents on the BIRTH of their BAby.</li>
-        <li className="list-none margin-bottom-20">Họ muộn màng chúc mừng cặp vợ chồng mới sinh em bé.</li>
+        <li value="6" id="conGRATulated">they beLAtedly [conGRATulated] the NEW PArents on the BIRTH of their BAby.</li>
+        <li className="list-none margin-bottom-20">Họ muộn màng [chúc mừng] cặp vợ chồng mới sinh em bé.</li>
 
-        <li value="7" id="">the COMpany beLAtedly acKNOWledged the ERror in their PRODuct.</li>
-        <li className="list-none margin-bottom-20">Công ty muộn màng thừa nhận lỗi trong sản phẩm của họ.</li>
+        <li value="7" id="acKNOWledged">the COMpany beLAtedly [acKNOWledged] the ERror in their PRODuct.</li>
+        <li className="list-none margin-bottom-20">Công ty muộn màng [thừa nhận] lỗi trong sản phẩm của họ.</li>
 
-        <li value="8" id="">they beLAtedly disCOVered the MISSing DOCuments.</li>
-        <li className="list-none margin-bottom-20">Họ muộn màng phát hiện ra những tài liệu bị thiếu.</li>
+        <li value="8" id="disCOVered">they beLAtedly [disCOVered] the MISSing DOCuments.</li>
+        <li className="list-none margin-bottom-20">Họ muộn màng [phát hiện] ra những tài liệu bị thiếu.</li>
 
-        <li value="9" id="">he beLAtedly UNderSTOOD the MEANing of her CRYPtic MESsage.</li>
-        <li className="list-none margin-bottom-20">Anh ấy muộn màng hiểu ra ý nghĩa của tin nhắn khó hiểu của cô ấy.</li>
+        <li value="9" id="underSTOOD">he beLAtedly [underSTOOD] the MEANing of her CRYPtic MESsage.</li>
+        <li className="list-none margin-bottom-20">Anh ấy muộn màng [hiểu ra] ý nghĩa của tin nhắn khó hiểu của cô ấy.</li>
 
-        <li value="10" id="">the COMpany beLAtedly OFfered compenSAtion to the afFECted CUStomers.</li>
-        <li className="list-none margin-bottom-20">Công ty muộn màng đề nghị bồi thường cho những khách hàng bị ảnh hưởng.</li>
+        <li value="10" id="OFfered">the COMpany beLAtedly [OFfered] compenSAtion to the afFECted CUStomers.</li>
+        <li className="list-none margin-bottom-20">Công ty muộn màng [đề nghị] bồi thường cho những khách hàng bị ảnh hưởng.</li>
 
       </ol>
 

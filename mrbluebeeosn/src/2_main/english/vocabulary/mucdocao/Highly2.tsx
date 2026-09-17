@@ -89,7 +89,7 @@ export default function HIGHly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb dùng để nhấn mạnh mức độ cao của một ADjective hoặc TRẠNG. Nó thường được sử dụng để diễn tả một điều gì đó ở mức độ rất lớn, rất tích cực hoặc rất tiêu cực.
+            &nbsp;là một ADverb dùng để nhấn mạnh mức độ cao của một ADjective hoặc ADverb. Nó thường được sử dụng để diễn tả một điều gì đó ở mức độ rất lớn, rất tích cực hoặc rất tiêu cực.
 
           </p>
 

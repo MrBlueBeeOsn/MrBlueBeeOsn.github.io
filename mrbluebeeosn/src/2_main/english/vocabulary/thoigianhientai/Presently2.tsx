@@ -127,7 +127,7 @@ export default function PRESently2(): React.JSX.Element {
         <li value="8" id="">the WEIter is PRESently SERving the CUStomers.</li>
         <li className="list-none margin-bottom-20">Người phục vụ đang phục vụ khách hàng.</li>
 
-        <li value="9" id="">she is PRESently atTENDing a CONFERence in PAris.</li>
+        <li value="9" id="">she is PRESently atTENDing a CONFERence in PARis.</li>
         <li className="list-none margin-bottom-20">Cô ấy hiện đang tham dự một hội nghị ở Paris.</li>
 
         <li value="10" id="">the CITy is PRESently exPEriencing a HEAT WAVE.</li>
