@@ -639,6 +639,28 @@
       "likes": 0
     },
     {
+      "id": "COMmenter",
+      "categoryDisplay": "Pronunciation",
+      "categorySlug": "pronunciation",
+      "title": "COMmenter",
+      "content": "The Syllable Secret of COMmenter: Why KHAA-men-tər is Correct",
+      "slug": "pronunciation/COMmenter",
+      "date": "2026-09-17",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "connoisSEUR",
+      "categoryDisplay": "Pronunciation",
+      "categorySlug": "pronunciation",
+      "title": "connoisSEUR",
+      "content": "The Syllable Shift and Stress Strategy for connoisSEUR",
+      "slug": "pronunciation/connoisSEUR",
+      "date": "2026-09-17",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "BayDauPhuPhienAmTiengAnh1",
       "categoryDisplay": "Tiếng Anh",
       "categorySlug": "tieng-anh",

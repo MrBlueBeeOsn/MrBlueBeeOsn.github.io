@@ -35,16 +35,11 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 			<div className="flex-container margin-top-20">
 			
-			
 				{/* =============================
-						VERB
+						NOUNS
 				============================= */}
 
 				<div className="sub-box">
-
-					{/* =============================
-							VERBS
-					============================= */}
 			
 					<p id="nouns-fruits-&-vegetables"><mark className="highlight-secondary-padding-2-4">NOUNS: FRUITS & VEGETables</mark></p>
 
@@ -82,7 +77,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 				{/* =============================
 							Verbs
 				============================= */}
-
 
 				<details className="sub-box-fix">
 			

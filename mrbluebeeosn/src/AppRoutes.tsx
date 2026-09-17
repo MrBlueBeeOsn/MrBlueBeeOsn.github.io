@@ -140,6 +140,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BanChatAmSchwa = lazy(() => import('@/2_main/english/pronunciation/BanChatAmSchwa'));
 	const FlatAandDeepA = lazy(() => import('@/2_main/english/pronunciation/FlatAandDeepA'));
 
+	const COMmenter = lazy(() => import('@/2_main/english/pronunciation/COMmenter'));
+	const ConnoisSEUR = lazy(() => import('@/2_main/english/pronunciation/connoisSEUR'));
+
 	// 4. Tiếng Anh
 	const TiengAnhIndex = lazy(() => import('@/2_main/english/_indexes/TiengAnhIndex'));
 	const BayDauPhuPhienAmTiengAnh1 = lazy(() => import('@/2_main/english/tienganh/pronunciation/BayDauPhuPhienAmTiengAnh1'));
@@ -760,6 +763,9 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/pronunciation/schwa" element={<Schwa />} />
 					<Route path="/pronunciation/ban-chat-am-schwa" element={<BanChatAmSchwa />} />
 					<Route path="/pronunciation/flat-a-and-deep-a" element={<FlatAandDeepA />} />
+
+					<Route path="/pronunciation/COMmenter" element={<COMmenter />} />
+					<Route path="/pronunciation/connoisSEUR" element={<ConnoisSEUR />} />
 					
 					{/* 4. Tiếng Anh */}
 					<Route path="/tieng-anh" element={<TiengAnhIndex />} />

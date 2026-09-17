@@ -63,28 +63,27 @@ export default function PronunciationIndex(): React.JSX.Element {
 
       </div>
 
+
       <div className="flex-container margin-top-20">
+              
+        {/* =============================
+            NOUNS
+        ============================= */}
 
         <div className="sub-box">
-
-          {/* =============================
-              Pronunciation Terms
-          ============================= */}
+      
+          <p id="Syllable-Secret"><mark className="highlight-secondary-padding-2-4">Syllable Secret</mark></p>
 
           <ul className="list-border1">
 
             <li>
-              <div className="li-content">
-                <Link to="/pronunciation/what-is-pronunciation?">Pronunciation</Link>
-              </div>
+              <Link to="/pronunciation/COMmenter">COMmenter</Link>
             </li>
 
             <li>
-              <div className="li-content">
-                <Link to="/pronunciation/what-is-IPA?">IPA</Link>
-              </div>
+              <Link to="/pronunciation/connoisSEUR">connoisSEUR</Link> 	
             </li>
-            
+
           </ul>
 
         </div>
@@ -142,6 +141,37 @@ export default function PronunciationIndex(): React.JSX.Element {
 
             
 
+            
+          </ul>
+
+        </div>
+
+      
+
+      </div>
+      
+
+      <div className="flex-container margin-top-20">
+
+        <div className="sub-box">
+
+          {/* =============================
+              Pronunciation Terms
+          ============================= */}
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/pronunciation/what-is-pronunciation?">Pronunciation</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/pronunciation/what-is-IPA?">IPA</Link>
+              </div>
+            </li>
             
           </ul>
 
