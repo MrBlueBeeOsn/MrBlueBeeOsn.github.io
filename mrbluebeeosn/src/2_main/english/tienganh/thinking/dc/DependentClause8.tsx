@@ -124,7 +124,7 @@ export default function DependentClause8(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Danh cơ cần làm rõ: The developer</p>
+			<p className="margin-top-20 text-indent-whole">DANH cần làm rõ: The developer</p>
 
 			<p className="text-indent-whole">Mảnh phụ: who fixed the bug</p>
 
@@ -153,7 +153,7 @@ export default function DependentClause8(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>where</strong> = <strong>at which</strong>. Nó đứng sau NOUN chỉ nơi chốn. Lỗi phổ biến: "where we first met at". Thừa at vì where đã mang giới cơ rồi.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>where</strong> = <strong>at which</strong>. Nó đứng sau NOUN chỉ nơi chốn. Lỗi phổ biến: "where we first met at". Thừa at vì where đã mang GIỚI rồi.</p>
 
 
 			<h4 className="margin-y-40">6. </h4>
@@ -222,7 +222,7 @@ export default function DependentClause8(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Cách nhìn nhanh khi bạn gặp câu mới</h3>
 
-			<p>1. Tìm <strong>động cơ chính không nằm sau từ nối</strong>. Đó là xương sống.</p>
+			<p>1. Tìm <strong>ĐỘNG chính không nằm sau từ nối</strong>. Đó là xương sống.</p>
 
 			<p>2. Phần còn lại có danh chủ + hành động mà bắt đầu bằng that, what, who, which, where, when, because, although, if, unless... là <strong>dependent</strong>.</p>
 

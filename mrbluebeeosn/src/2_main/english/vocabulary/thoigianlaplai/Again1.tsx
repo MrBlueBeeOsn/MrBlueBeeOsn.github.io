@@ -245,7 +245,7 @@ export default function aGAIN1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>aGAIN</strong>" thường đứng sau động cơ.</li>
+          <li>"<strong>aGAIN</strong>" thường đứng sau ĐỘNG.</li>
 
           <li className="margin-bottom-20">"<strong>aGAIN</strong>" có thể được dùng để nhấn mạnh một ý tưởng hoặc cảm xúc.</li>
 

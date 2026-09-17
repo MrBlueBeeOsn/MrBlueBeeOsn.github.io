@@ -88,7 +88,7 @@ export default function TheBeautyOfTheGirl3(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Bước 1</strong>: Chuyển ADjective thành danh cơ</li>
+					<li><strong>Bước 1</strong>: Chuyển ADjective thành DANH</li>
 					<li className="list-none">Beautiful (xinh đẹp) → <strong>Beauty</strong> (vẻ đẹp)</li>
 
 					<li className="margin-top-20"><strong>Bước 2</strong>: Đọc thẳng từ trái sang phải</li>
@@ -153,9 +153,9 @@ export default function TheBeautyOfTheGirl3(): React.JSX.Element {
 				<table className="margin-top-20 margin-bottom-50">
 					<thead>
 						<tr>
-							<th>Tính cơ</th>
+							<th>TÍNH</th>
 							<th>→</th>
-							<th>Danh cơ</th>
+							<th>DANH</th>
 							<th>Ví dụ</th>
 						</tr>
 					</thead>

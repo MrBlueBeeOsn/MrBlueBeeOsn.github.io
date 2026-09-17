@@ -48,13 +48,13 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Danh cơ trước — mô tả sau: Chìa khóa đẳng cấp giúp người Việt làm chủ tiếng Anh nhanh hơn bạn nghĩ</h4>
+			<h4 className="margin-bottom-30 text-center">DANH trước — mô tả sau: Chìa khóa đẳng cấp giúp người Việt làm chủ tiếng Anh nhanh hơn bạn nghĩ</h4>
 
-			<p>Nhiều người Việt bước vào tiếng Anh với một niềm tin sai lầm: rằng tiếng Anh “khác hoàn toàn” so với tiếng mẹ đẻ, nhất là về vị trí của tính cơ.</p>
+			<p>Nhiều người Việt bước vào tiếng Anh với một niềm tin sai lầm: rằng tiếng Anh “khác hoàn toàn” so với tiếng mẹ đẻ, nhất là về vị trí của TÍNH.</p>
 
 			<p>Họ chỉ quen hai mẫu đơn giản:</p>
 
-			<p className="margin-top-20"><strong>Tính cơ đứng trước danh cơ</strong></p>
+			<p className="margin-top-20"><strong>TÍNH đứng trước DANH</strong></p>
 			
 				<ul className="list-square">
 			
@@ -63,7 +63,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20"><strong>Tính cơ đứng sau to be</strong></p>
+			<p className="margin-top-20"><strong>TÍNH đứng sau to be</strong></p>
 			
 				<ul className="list-square">
 			
@@ -79,9 +79,9 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Ở tiếng Anh, <strong>phần mô tả đứng sau danh cơ</strong>.</li>
+					<li>Ở tiếng Anh, <strong>phần mô tả đứng sau DANH</strong>.</li>
 			
-					<li><strong>Câu con</strong> hoặc <strong>cụm từ</strong> đóng vai trò như <strong>tính cơ</strong>.</li>
+					<li><strong>Câu con</strong> hoặc <strong>cụm từ</strong> đóng vai trò như <strong>TÍNH</strong>.</li>
 			
 				</ul>
 			
@@ -89,7 +89,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<p>Và đây chính là điểm tương đồng mạnh mẽ nhất với tiếng Việt:</p>
 
-			<p className="margin-y-20"><strong>Danh cơ trước</strong> — <strong>mô tả sau</strong>.</p>
+			<p className="margin-y-20"><strong>DANH trước</strong> — <strong>mô tả sau</strong>.</p>
 			
 			<p>Khi bạn hiểu rõ điều này, bạn không chỉ “biến tiếng Anh thành quen thuộc” mà còn sở hữu một chìa khóa giúp viết mạch lạc, nói tự nhiên và vượt qua rào cản tâm lý khiến nhiều người mãi dậm chân tại chỗ.</p>
 
@@ -150,11 +150,11 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 			<p className="margin-top-20">Không phải là “thứ gì đó xa lạ”</p>
 
-			<p>Chúng đơn giản là <strong>tính cơ dài</strong>, tức <strong>câu con tính cơ</strong> (<strong>adjective clause</strong>), đóng vai trò mô tả NOUN đứng ngay trước.</p>
+			<p>Chúng đơn giản là <strong>TÍNH dài</strong>, tức <strong>câu con TÍNH</strong> (<strong>adjective clause</strong>), đóng vai trò mô tả NOUN đứng ngay trước.</p>
 			
 			<p>Về chức năng và vị trí, tiếng Anh ở đây hoàn toàn đồng bộ với tiếng Việt:</p>
 
-			<p className="margin-y-20"><strong>Danh cơ trước</strong> — <strong>mô tả sau</strong>.</p>
+			<p className="margin-y-20"><strong>DANH trước</strong> — <strong>mô tả sau</strong>.</p>
 
 			{/* 2.  */}
 
@@ -178,9 +178,9 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Bí mật khiến người Việt vượt trội trong khu vực Đông Nam Á</h3>
 
-			<p>Người Việt có sẵn lợi thế lớn: thói quen <strong>đặt mô tả sau danh cơ</strong> trong tiếng mẹ đẻ.</p>
+			<p>Người Việt có sẵn lợi thế lớn: thói quen <strong>đặt mô tả sau DANH</strong> trong tiếng mẹ đẻ.</p>
 
-			<p>Khi hiểu và thực hành <strong>câu con tính</strong> từ như một “<strong>tính cơ dài</strong>” đặt sau danh cơ, bạn sẽ nhanh hơn nhiều so với người học ở các nước chưa có lợi thế tương tự.</p>
+			<p>Khi hiểu và thực hành <strong>câu con tính</strong> từ như một “<strong>TÍNH dài</strong>” đặt sau DANH, bạn sẽ nhanh hơn nhiều so với người học ở các nước chưa có lợi thế tương tự.</p>
 
 			<p>Điều này giúp bạn viết luận sắc bén, nói tự tin và tiếp cận văn viết nâng cao dễ dàng hơn.</p>
 
@@ -192,11 +192,11 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<p>Nắm câu con ADjective — hai câu con còn lại sẽ “tự động” quen</p>
 
-			<p>Khi bạn đã thành thạo <strong>câu con tính cơ</strong> (<strong>câu con mô tả</strong> sau danh cơ), hai câu con còn lại — <strong>câu con trạng ngữ</strong> (<strong>Adverbial Clause</strong>) và <strong>câu con danh cơ</strong> (<strong>Noun Clause</strong>) — sẽ trở nên dễ tiếp thu hơn rất nhiều.</p>
+			<p>Khi bạn đã thành thạo <strong>câu con TÍNH</strong> (<strong>câu con mô tả</strong> sau DANH), hai câu con còn lại — <strong>câu con trạng ngữ</strong> (<strong>Adverbial Clause</strong>) và <strong>câu con DANH</strong> (<strong>Noun Clause</strong>) — sẽ trở nên dễ tiếp thu hơn rất nhiều.</p>
 
 			<p>Vì bạn đã có thói quen nhận diện chức năng của từng phần trong câu (ai, làm gì, ở đâu, khi nào, vì sao, như thế nào), bạn sẽ hiểu nhanh vai trò của các câu con khác và dùng chúng linh hoạt trong viết luận và giao tiếp nâng cao.</p>
 
-			<p>Đây là lợi thế chiến lược: nắm vững <strong>câu con tính cơ</strong> trước, hai câu con còn lại sẽ theo sau một cách tự nhiên.</p>
+			<p>Đây là lợi thế chiến lược: nắm vững <strong>câu con TÍNH</strong> trước, hai câu con còn lại sẽ theo sau một cách tự nhiên.</p>
 
 			{/* 5.  */}
 
@@ -221,12 +221,12 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Hãy nghĩ “<strong>đây là phần mô tả cho danh cơ</strong>” — giống tiếng Việt.</p>
+			<p className="margin-top-20 text-indent-whole">Hãy nghĩ “<strong>đây là phần mô tả cho DANH</strong>” — giống tiếng Việt.</p>
 
 
 			<h4 className="margin-y-40">Luyện thói quen dịch theo cấu trúc:</h4>
 					
-			<p className="text-indent-whole">Dịch “danh cơ + mô tả” theo thứ tự tiếng Việt</p>
+			<p className="text-indent-whole">Dịch “DANH + mô tả” theo thứ tự tiếng Việt</p>
 
 			<p className="margin-top-20"></p>
 			
@@ -272,13 +272,13 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<p>Ở cấp độ cao — đặc biệt trong văn viết và giao tiếp nâng cao — tiếng Anh vận hành theo nguyên tắc:</p>
 
-			<p className="margin-y-20"><strong>Danh cơ trước</strong> — <strong>mô tả sau</strong>.</p>
+			<p className="margin-y-20"><strong>DANH trước</strong> — <strong>mô tả sau</strong>.</p>
 
 			<p>Giống tiếng Việt.</p>
 
-			<p>Hiểu và thực hành câu con ADjective như một “<strong>tính cơ dài</strong>” đặt sau NOUN sẽ giúp bạn giảm bớt rào cản tâm lý, viết mạch lạc hơn và tiến bộ nhanh hơn trong tiếng Anh.</p>
+			<p>Hiểu và thực hành câu con ADjective như một “<strong>TÍNH dài</strong>” đặt sau NOUN sẽ giúp bạn giảm bớt rào cản tâm lý, viết mạch lạc hơn và tiến bộ nhanh hơn trong tiếng Anh.</p>
 
-			<p>Khi bạn nắm vững <strong>câu con tính cơ</strong> trước, hai câu con còn lại — <strong>Adverbial Clause</strong> và <strong>Noun Clause</strong> — sẽ trở nên quen thuộc, và bạn sẽ thấy mình làm chủ tiếng Anh một cách tự nhiên và đẳng cấp.</p>
+			<p>Khi bạn nắm vững <strong>câu con TÍNH</strong> trước, hai câu con còn lại — <strong>Adverbial Clause</strong> và <strong>Noun Clause</strong> — sẽ trở nên quen thuộc, và bạn sẽ thấy mình làm chủ tiếng Anh một cách tự nhiên và đẳng cấp.</p>
 			
 
 			<div className="viewcounter">

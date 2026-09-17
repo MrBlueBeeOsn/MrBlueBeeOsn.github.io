@@ -99,7 +99,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Adverbial Clause (Trạng câu)</h4>
 					
-			<p className="text-indent-whole">Chức năng: bổ nghĩa cho động cơ, chỉ thời gian, nguyên nhân, điều kiện, nhượng bộ.</p>
+			<p className="text-indent-whole">Chức năng: bổ nghĩa cho ĐỘNG, chỉ thời gian, nguyên nhân, điều kiện, nhượng bộ.</p>
 			
 				<ul className="list-square">
 			
@@ -112,9 +112,9 @@ export default function DependentClause6(): React.JSX.Element {
 				</ul>
 		
 
-			<h4 className="margin-y-40">2. Adjective/Relative Clause (Câu con tính cơ/quan hệ)</h4>
+			<h4 className="margin-y-40">2. Adjective/Relative Clause (Câu con TÍNH/quan hệ)</h4>
 					
-			<p className="text-indent-whole">Chức năng: mô tả hoặc bổ sung thông tin cho danh cơ.</p>
+			<p className="text-indent-whole">Chức năng: mô tả hoặc bổ sung thông tin cho DANH.</p>
 			
 				<ul className="list-square">
 			
@@ -148,7 +148,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Chọn từ nối phù hợp:</h4>
 					
-			<p className="text-indent-whole">Dựa vào ý định (thời gian, nguyên nhân, mô tả, danh cơ).</p>
+			<p className="text-indent-whole">Dựa vào ý định (thời gian, nguyên nhân, mô tả, DANH).</p>
 			
 				<ul className="list-square">
 			
@@ -160,7 +160,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Xác định chức năng:</h4>
 					
-			<p className="text-indent-whole">Trạng ngữ, ADjective hay danh cơ.</p>
+			<p className="text-indent-whole">Trạng ngữ, ADjective hay DANH.</p>
 			
 				<ul className="list-square">
 			
@@ -226,7 +226,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">That:</h4>
 					
-			<p className="text-indent-whole">Thường dùng trong câu con quan hệ xác định hoặc câu con danh cơ, không cần dấu phẩy.</p>
+			<p className="text-indent-whole">Thường dùng trong câu con quan hệ xác định hoặc câu con DANH, không cần dấu phẩy.</p>
 			
 				<ul className="list-square">
 			

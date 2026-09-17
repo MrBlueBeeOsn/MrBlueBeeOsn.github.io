@@ -90,7 +90,7 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"even though"
 			],
 			correctAnswer: 0,
-			explanation: "\"deSPITE\" hoặc \"in SPITE of\" đi kèm với một danh cơ/danh cụm (the RAIN) để chỉ sự nhượng bộ (mặc dù)."
+			explanation: "\"deSPITE\" hoặc \"in SPITE of\" đi kèm với một DANH/danh cụm (the RAIN) để chỉ sự nhượng bộ (mặc dù)."
 		},
 		{
 			id: 7,
@@ -114,7 +114,7 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"into"
 			],
 			correctAnswer: 2,
-			explanation: "Dùng giới cơ \"on\" để chỉ vị trí trên bề mặt của một vật phẳng như cái bàn."
+			explanation: "Dùng GIỚI \"on\" để chỉ vị trí trên bề mặt của một vật phẳng như cái bàn."
 		},
 		{
 			id: 9,
@@ -138,7 +138,7 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"since"
 			],
 			correctAnswer: 0,
-			explanation: "Giới cơ \"in\" được dùng trước các tháng, mùa, năm và các khoảng thời gian dài."
+			explanation: "GIỚI \"in\" được dùng trước các tháng, mùa, năm và các khoảng thời gian dài."
 		}
 	];
 

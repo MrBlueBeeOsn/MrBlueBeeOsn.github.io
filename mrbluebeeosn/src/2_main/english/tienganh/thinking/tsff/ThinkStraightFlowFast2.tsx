@@ -87,7 +87,7 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Còn chúng ta? Chúng ta bị mắc kẹt trong "lời nguyền cấu trúc": <strong>tiếng Việt đòi hỏi NOUN phải đứng trước tính cơ</strong>.</p>
+			<p className="margin-top-20">Còn chúng ta? Chúng ta bị mắc kẹt trong "lời nguyền cấu trúc": <strong>tiếng Việt đòi hỏi NOUN phải đứng trước TÍNH</strong>.</p>
 
 			<p>Nhưng tôi có tin tốt cho bạn: <strong>Bạn hoàn toàn có thể phá vỡ lời nguyền này</strong>. Và bạn không cần phải sang Đức hay Hàn Quốc để làm điều đó.</p>
 
@@ -171,7 +171,7 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Những Thay Đổi Kỳ Diệu Bạn Sẽ Trải Nghiệm</h3>
 
-			<p>Tuần 1: Bạn bắt đầu đọc nhanh hơn 30%. Không còn bị vấp ở mỗi tính cụm-danh cơ.</p>
+			<p>Tuần 1: Bạn bắt đầu đọc nhanh hơn 30%. Không còn bị vấp ở mỗi tính cụm-DANH.</p>
 
 			<p>Tuần 2: Bạn bắt đầu nghe hiểu tốt hơn. Vì khi nghe "important decision", bạn không còn mất thời gian đảo ngược thành "quyết định quan trọng" nữa.</p>
 					

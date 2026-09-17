@@ -29,13 +29,13 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Khi học tiếng Anh, nhiều người Việt thường gặp khó khăn khi viết danh cụm (noun phrases) vì thói quen đặt ADjective trước NOUN trong tiếng Việt (ví dụ: “bông hoa đẹp”). Trong tiếng Anh, quy tắc ngược lại: NOUN chính luôn là “lõi”, còn các tính cơ, mạo từ (a/an/the), và các bổ ngữ khác thường đứng trước NOUN chính. Để viết danh cụm tiếng Anh một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>Danh Cơ viết trước</strong>, <strong>Tính Cơ viết sau</strong>" — nghĩa là suy nghĩ và viết theo thứ tự từ phải sang trái. Phương pháp này giúp bạn tránh dịch máy móc và tạo ra câu tiếng Anh chuẩn xác ngay từ đầu. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện.</p>
+			<p>Khi học tiếng Anh, nhiều người Việt thường gặp khó khăn khi viết danh cụm (noun phrases) vì thói quen đặt ADjective trước NOUN trong tiếng Việt (ví dụ: “bông hoa đẹp”). Trong tiếng Anh, quy tắc ngược lại: NOUN chính luôn là “lõi”, còn các TÍNH, mạo từ (a/an/the), và các bổ ngữ khác thường đứng trước NOUN chính. Để viết danh cụm tiếng Anh một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>DANH viết trước</strong>, <strong>TÍNH viết sau</strong>" — nghĩa là suy nghĩ và viết theo thứ tự từ phải sang trái. Phương pháp này giúp bạn tránh dịch máy móc và tạo ra câu tiếng Anh chuẩn xác ngay từ đầu. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện.</p>
 
 				<p className="margin-y-50 text-center">
 
 					<span className="highlight-238-padding-4-8 text-border1">
 
-						<span className="highlight-255-padding-0-4">Danh Cơ</span> Viết Trước, <span className="highlight-255-padding-0-4">Tính Cơ</span> Viết Sau
+						<span className="highlight-255-padding-0-4">DANH</span> Viết Trước, <span className="highlight-255-padding-0-4">TÍNH</span> Viết Sau
 
 					</span>
 
@@ -43,7 +43,7 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Tại sao phải suy nghĩ từ phải sang trái?</h3>
 			
-			<p>Trong tiếng Anh, NOUN chính (head noun) luôn nằm ở cuối danh cụm, còn các thành phần bổ nghĩa (tính cơ, mạo từ, số từ, NOUN ghép…) đứng trước nó.</p>
+			<p>Trong tiếng Anh, NOUN chính (head noun) luôn nằm ở cuối danh cụm, còn các thành phần bổ nghĩa (TÍNH, mạo từ, số từ, NOUN ghép…) đứng trước nó.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 
@@ -61,9 +61,9 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Bước 1</strong>: Viết <strong>danh cơ</strong> chính trước (phần bên phải nhất).</li>
+					<li><strong>Bước 1</strong>: Viết <strong>DANH</strong> chính trước (phần bên phải nhất).</li>
 
-					<li><strong>Bước 2</strong>: Bổ sung các <strong>tính cơ</strong>, <strong>mạo từ</strong>… từ phải sang trái (tức là thêm dần vào phía trước NOUN chính).</li>
+					<li><strong>Bước 2</strong>: Bổ sung các <strong>TÍNH</strong>, <strong>mạo từ</strong>… từ phải sang trái (tức là thêm dần vào phía trước NOUN chính).</li>
 
 				</ul>
 
@@ -91,7 +91,7 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">Bước 2: Bổ sung các thành phần từ phải sang trái</h3>
 
-				<p>Thêm dần các tính cơ, NOUN ghép, số từ… vào phía trước NOUN chính theo thứ tự ngược lại với tiếng Việt.</p>
+				<p>Thêm dần các TÍNH, NOUN ghép, số từ… vào phía trước NOUN chính theo thứ tự ngược lại với tiếng Việt.</p>
 
 					<ul className="list-square">
 
@@ -201,7 +201,7 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 					<li>Luôn bắt đầu bằng NOUN chính để não bạn tập trung vào “cái gì là trung tâm”.</li>
 
-					<li>Khi thêm tính cơ, hãy nghĩ theo tiếng Việt (tính cơ đứng sau) rồi đảo ngược lại để đặt trước danh cơ.</li>
+					<li>Khi thêm TÍNH, hãy nghĩ theo tiếng Việt (TÍNH đứng sau) rồi đảo ngược lại để đặt trước DANH.</li>
 
 					<li>Với mạo từ (a/an/the) và số từ (one, two, three…), luôn thêm chúng ở bước cuối cùng (vị trí xa nhất bên trái).</li>
 
@@ -211,7 +211,7 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">5. Kết luận</h3>
 			
-			<p>Phương pháp “<strong>danh cơ viết trước</strong>, <strong>tính cơ viết sau</strong>” (tức suy nghĩ và viết từ phải sang trái) là cách hiệu quả nhất để người Việt viết danh cụm tiếng Anh một cách tự nhiên, đúng ngữ pháp và nhanh chóng. Thay vì cố gắng dịch từng từ từ trái sang phải, hãy bắt đầu từ NOUN chính, rồi bổ sung dần các tính cơ, mạo từ vào phía trước. Chỉ cần thực hành 10–20 cụm mỗi ngày, bạn sẽ thấy mình viết tiếng Anh chuẩn hơn rất nhiều!</p>
+			<p>Phương pháp “<strong>DANH viết trước</strong>, <strong>TÍNH viết sau</strong>” (tức suy nghĩ và viết từ phải sang trái) là cách hiệu quả nhất để người Việt viết danh cụm tiếng Anh một cách tự nhiên, đúng ngữ pháp và nhanh chóng. Thay vì cố gắng dịch từng từ từ trái sang phải, hãy bắt đầu từ NOUN chính, rồi bổ sung dần các TÍNH, mạo từ vào phía trước. Chỉ cần thực hành 10–20 cụm mỗi ngày, bạn sẽ thấy mình viết tiếng Anh chuẩn hơn rất nhiều!</p>
 
 			<div className="viewcounter">
 			

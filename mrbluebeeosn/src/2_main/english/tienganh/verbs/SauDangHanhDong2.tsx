@@ -31,9 +31,9 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 
 			<p>Bạn vừa phát hiện ra một sự thật thú vị: hành động tiếng Anh không chỉ có 3 hay 4 dạng như nhiều người vẫn nghĩ… mà thực tế có tới <strong>6 dạng cơ bản</strong> mà ai học tiếng Anh nghiêm túc cũng nên nắm chắc!</p>
 
-			<p>Hôm nay, chúng ta sẽ cùng “mở kho báu” này một cách vui vẻ, dễ hiểu và cực kỳ thực tế. Khi bạn nắm được bộ 6 dạng này, bạn sẽ tự tin nói, viết, nghe, đọc mà không còn lo “sai chia động cơ” nữa.</p>
+			<p>Hôm nay, chúng ta sẽ cùng “mở kho báu” này một cách vui vẻ, dễ hiểu và cực kỳ thực tế. Khi bạn nắm được bộ 6 dạng này, bạn sẽ tự tin nói, viết, nghe, đọc mà không còn lo “sai chia ĐỘNG” nữa.</p>
 
-			<h3 className="margin-y-50 text-center">Bộ 6 Dạng [Động Cơ] “Hoàn Chỉnh” Của Tiếng Anh</h3>
+			<h3 className="margin-y-50 text-center">Bộ 6 Dạng [ĐỘNG] “Hoàn Chỉnh” Của Tiếng Anh</h3>
 
 			{/* Cặp 1: Work vs Works */}
 
@@ -41,7 +41,7 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 
 				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 1: Work vs Works</h3>
 
-				<h4 className="margin-top-50 margin-bottom-30">Work – Bare infinitive / Base form (động cơ nguyên mẫu không “to”)</h4>
+				<h4 className="margin-top-50 margin-bottom-30">Work – Bare infinitive / Base form (ĐỘNG nguyên mẫu không “to”)</h4>
 
 					<p className="text-indent-whole">Dùng cho I/you/we/they ⏳ Thời Gian Hành Động ở Hiện Tại Đơn, sau do/does/did, sau modal verbs (can, will, must, should, may…), và sau let/make/help…</p>
 
@@ -149,7 +149,7 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 
 				<p className="margin-top-20 text-indent-whole">→ Đây là dạng “năng động, sống động” nhất – giúp câu chuyện của bạn trở nên “đang diễn ra” ngay trước mắt người nghe.</p>
 
-				<h4 className="margin-top-50 margin-bottom-30">To work – Infinitive with “to” (động cơ nguyên mẫu có “to”)</h4>
+				<h4 className="margin-top-50 margin-bottom-30">To work – Infinitive with “to” (ĐỘNG nguyên mẫu có “to”)</h4>
 
 					<p className="text-indent-whole">Đây là dạng “được đóng gói” – xuất hiện sau các hành động như want, need, decide, plan, hope, learn, promise, try…</p>
 

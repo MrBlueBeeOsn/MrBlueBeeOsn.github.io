@@ -513,7 +513,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             {/* <li>
               <div className="li-content">
-                <Link to="/tieng-anh/5-dang-dong-tu-vang-rong-1">5 Dạng [Động Cơ] “Vàng Ròng”
+                <Link to="/tieng-anh/5-dang-dong-tu-vang-rong-1">5 Dạng [ĐỘNG] “Vàng Ròng”
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/5-dang-dong-tu-vang-rong-2">
@@ -621,7 +621,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/bi-quyet-nhan-biet-tinh-tu-trong-tieng-anh">Bí Quyết Nhận Biết Tính Cơ</Link>
+                <Link to="/tieng-anh/bi-quyet-nhan-biet-tinh-tu-trong-tieng-anh">Bí Quyết Nhận Biết TÍNH</Link>
               </div>
             </li>
 
@@ -754,7 +754,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/super-words-1">[SUper VERB BASE]
+                <Link to="/tieng-anh/super-words-1">[SUper VERB]
                 {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/super-words-2">

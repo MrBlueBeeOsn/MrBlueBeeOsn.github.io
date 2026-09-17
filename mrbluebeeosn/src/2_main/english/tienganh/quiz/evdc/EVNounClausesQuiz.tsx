@@ -30,7 +30,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whatever"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ đóng vai trò làm danh chủ trong câu này cần một câu con danh cơ. \"what\" đóng vai trò là danh chủ bên trong câu con NOUN đó (what MADE everyone... = Điều mà đã làm cho mọi người...). \"that\" không thể làm danh chủ của hành động \"MADE\" trong ngữ cảnh này nếu không có một NOUN đi trước."
+			explanation: "Cụm từ đóng vai trò làm danh chủ trong câu này cần một câu con DANH. \"what\" đóng vai trò là danh chủ bên trong câu con NOUN đó (what MADE everyone... = Điều mà đã làm cho mọi người...). \"that\" không thể làm danh chủ của hành động \"MADE\" trong ngữ cảnh này nếu không có một NOUN đi trước."
 		},
 		{
 			id: 2,
@@ -54,7 +54,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whatever"
 			],
 			correctAnswer: 1,
-			explanation: "Sau giới cơ \"on\" cần một câu con danh cơ. Ở đây có NOUN \"CANdidate\" ngay phía sau, do đó ta cần một hạn định cơ bổ nghĩa cho NOUN này. \"whichever\" mang ý nghĩa \"bất cứ... nào\" trong một nhóm đối tượng có giới hạn (các ứng viên tham gia phỏng vấn)."
+			explanation: "Sau GIỚI \"on\" cần một câu con DANH. Ở đây có NOUN \"CANdidate\" ngay phía sau, do đó ta cần một hạn định cơ bổ nghĩa cho NOUN này. \"whichever\" mang ý nghĩa \"bất cứ... nào\" trong một nhóm đối tượng có giới hạn (các ứng viên tham gia phỏng vấn)."
 		},
 		{
 			id: 4,
@@ -102,7 +102,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Danh câu đứng sau giới cơ \"of\". Trong câu con này, ta cần một từ đóng vai trò làm danh chủ trước hành động bị động \"should be apPOINTed\". Vì vậy, ta phải chọn PROnoun danh chủ chỉ người là \"who\"."
+			explanation: "Danh câu đứng sau GIỚI \"of\". Trong câu con này, ta cần một từ đóng vai trò làm danh chủ trước hành động bị động \"should be apPOINTed\". Vì vậy, ta phải chọn PROnoun danh chủ chỉ người là \"who\"."
 		},
 		{
 			id: 8,

@@ -17,7 +17,7 @@ export default function SuperWords6(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[BASE][PHRASE][CLAUSE]</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">[SUper VERB BASE]
+			<h1 className="margin-y-50 text-center">[SUper VERB]
 												
 				<sup><HashLink smooth to="/tieng-anh/super-words-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -48,7 +48,7 @@ export default function SuperWords6(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Siêu [Danh Cơ] Siêu [Tính Cơ] Siêu Trạng Cơ</h4>
+			<h4 className="margin-bottom-30 text-center">Siêu [DANH] Siêu [TÍNH] Siêu TRẠNG</h4>
 
 			<p></p>
 

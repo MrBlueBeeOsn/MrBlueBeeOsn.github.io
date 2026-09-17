@@ -52,7 +52,7 @@ export default function SV2(): React.JSX.Element {
 
 			<p>Bạn từng nghĩ viết lại câu (paraphrasing) là phải thay đổi cả cấu trúc?</p>
 
-			<p>Thực ra, khi đã nhận diện được Hình thái (Động Cơ / [Động Cụm] / [Liên Câu] / Giới Cụm) và Chức năng (Danh / Tính / Trạng) của từng khối, paraphrase trở thành bài toán đơn giản: thay một khối bằng một khối khác có cùng Chức năng. Câu vẫn đúng, ý nghĩa không đổi.</p>
+			<p>Thực ra, khi đã nhận diện được Hình thái (ĐỘNG / [Động Cụm] / [Liên Câu] / Giới Cụm) và Chức năng (Danh / Tính / Trạng) của từng khối, paraphrase trở thành bài toán đơn giản: thay một khối bằng một khối khác có cùng Chức năng. Câu vẫn đúng, ý nghĩa không đổi.</p>
 			
 			<p>Dưới đây là toàn bộ hệ thống, từ ba cấp độ cơ bản đến kỹ thuật paraphrase linh hoạt, với ví dụ minh họa theo đúng mẫu.</p>
 			
@@ -65,17 +65,17 @@ export default function SV2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[VERB BASE][ĐỘNG CƠ]</li>
+					<li>[VERB][ĐỘNG]</li>
 					<li className="margin-bottom-20 list-none">Dạng gốc của hành động hoặc trạng thái, không kèm theo bất kỳ dấu hiệu nào về thời điểm.</li>
 			
 					<li>[VERB PHRASE][ĐỘNG CỤM]</li>
-					<li className="margin-bottom-20 list-none">Nhóm từ bắt đầu bằng động cơ, có thể kèm thêm các thành phần bổ sung.</li>
+					<li className="margin-bottom-20 list-none">Nhóm từ bắt đầu bằng ĐỘNG, có thể kèm thêm các thành phần bổ sung.</li>
 
 					<li>[prepoSITional PHRASE][GIỚI CỤM]</li>
 					<li className="margin-bottom-20 list-none">Nhóm từ bắt đầu bằng một thành phần chỉ quan hệ không gian, thời gian, cách thức, mục đích, nguyên nhân (như in, on, at, for, with, by, of, to,...).</li>
 			
 					<li>[conJUNCtional CLAUSE][LIÊN CÂU]</li>
-					<li className="list-none">Một câu con có đầy đủ một thành phần thực hiện hành động và một động cơ.</li>
+					<li className="list-none">Một câu con có đầy đủ một thành phần thực hiện hành động và một ĐỘNG.</li>
 			
 				</ul>
 			
@@ -86,13 +86,13 @@ export default function SV2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Chức năng Danh</li>
-					<li className="margin-bottom-20 list-none">Đứng ở đầu câu, hoặc sau một động cơ, hoặc sau một hành động liên kết để đóng vai trò thực thể trung tâm hoặc [Danh Nhận] (đối tượng nhận tác động của hành động).</li>
+					<li className="margin-bottom-20 list-none">Đứng ở đầu câu, hoặc sau một ĐỘNG, hoặc sau một hành động liên kết để đóng vai trò thực thể trung tâm hoặc [Danh Nhận] (đối tượng nhận tác động của hành động).</li>
 			
 					<li>Chức năng Tính</li>
-					<li className="margin-bottom-20 list-none">Đứng trước hoặc sau một [Danh Cơ] để bổ sung đặc điểm cho thực thể đó.</li>
+					<li className="margin-bottom-20 list-none">Đứng trước hoặc sau một [DANH] để bổ sung đặc điểm cho thực thể đó.</li>
 			
 					<li>Chức năng Trạng</li>
-					<li className="list-none">Bổ nghĩa cho một động cơ, một [Tính Cơ], hoặc toàn bộ câu.</li>
+					<li className="list-none">Bổ nghĩa cho một ĐỘNG, một [TÍNH], hoặc toàn bộ câu.</li>
 			
 				</ul>
 			
@@ -101,9 +101,9 @@ export default function SV2(): React.JSX.Element {
 			
 				<ol>
 			
-					<li>Hình thái của nó là Động Cơ, Động Cụm, [Giới Cụm] hay Liên Câu?</li>
+					<li>Hình thái của nó là ĐỘNG, Động Cụm, [Giới Cụm] hay Liên Câu?</li>
 			
-					<li>Nó đang đứng ở vị trí nào? Đầu câu? Sau một [Danh Cơ]? Bên cạnh một động cơ?</li>
+					<li>Nó đang đứng ở vị trí nào? Đầu câu? Sau một [DANH]? Bên cạnh một ĐỘNG?</li>
 			
 				</ol>
 			
@@ -119,15 +119,15 @@ export default function SV2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Danh Cơ [NOUN BASE] – một hành động đảm nhiệm chức năng danh.</li>
+					<li>DANH [NOUN] – một hành động đảm nhiệm chức năng danh.</li>
 					<li>Danh Cụm [Noun Phrase] – một động cụm hoặc giới cụm đảm nhiệm chức năng danh.</li>
 					<li className="margin-bottom-20">Danh Câu [Noun Clause] – một động câu đảm nhiệm chức năng danh.</li>
 
-					<li>Tính Cơ [Adjective Base] – một hành động đảm nhiệm chức năng tính.</li>
+					<li>TÍNH [ADjective] – một hành động đảm nhiệm chức năng tính.</li>
 					<li>Tính Cụm [Adjective Phrase] – một động cụm hoặc giới cụm đảm nhiệm chức năng tính.</li>
 					<li className="margin-bottom-20">Tính Câu [Adjective Clause] – một động câu đảm nhiệm chức năng tính.</li>
 
-					<li>Trạng Cơ [Adverb Base] – một hành động đảm nhiệm chức năng trạng.</li>
+					<li>TRẠNG [AdVERB] – một hành động đảm nhiệm chức năng trạng.</li>
 					<li>Trạng Cụm [ADverb PHRASE] – một động cụm hoặc giới cụm đảm nhiệm chức năng trạng.</li>
 					<li className="margin-bottom-20">Trạng Câu [ADverb CLAUSE] – một động câu đảm nhiệm chức năng trạng.</li>
 			
@@ -142,16 +142,16 @@ export default function SV2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3.1 Chức năng Danh</h4>
 
-			<p className="text-indent-whole">Danh Cơ – Hình thái: Động Cơ</p>
+			<p className="text-indent-whole">DANH – Hình thái: ĐỘNG</p>
 			
 				<ul className="list-square">
 			
 					<li>[Swimming] is my favorite activity.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] là hoạt động yêu thích của tôi.</li>
 			
-					<li className="list-none">Hình thái: [Swimming] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ], biểu thị hành động được đóng gói thành một khái niệm.</li>
+					<li className="list-none">Hình thái: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ], biểu thị hành động được đóng gói thành một khái niệm.</li>
 			
-					<li className="list-none">Chức năng: [Swimming] – [NOUN BASE][DANH CƠ] đứng ở đầu câu, đóng vai trò thực thể trung tâm mà câu hướng đến.</li>
+					<li className="list-none">Chức năng: [Swimming] – [NOUN][DANH] đứng ở đầu câu, đóng vai trò thực thể trung tâm mà câu hướng đến.</li>
 			
 				</ul>
 			
@@ -163,7 +163,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He enjoys [reading mystery novels].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy thích [đọc tiểu thuyết trinh thám].</li>
 			
-					<li className="list-none">Hình thái: [reading mystery novels] – [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng hành động reading dạng V-ing, kèm thêm mystery novels để tạo thành một khối hoàn chỉnh.</li>
+					<li className="list-none">Hình thái: [reading mystery novels] – [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng hành động reading dạng V-ing, kèm thêm mystery novels để tạo thành một khối hoàn chỉnh.</li>
 			
 					<li className="list-none">Chức năng: [reading mystery novels] – [NOUN PHRASE][DANH CỤM] đứng sau hành động enjoys, là [Danh Nhận] – đối tượng tiếp nhận hành động.</li>
 			
@@ -187,16 +187,16 @@ export default function SV2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3.2 Chức năng Tính</h4>
 
-			<p className="text-indent-whole">Tính Cơ – Hình thái: Động Cơ</p>
+			<p className="text-indent-whole">TÍNH – Hình thái: ĐỘNG</p>
 			
 				<ul className="list-square">
 			
 					<li>We saw a [shining] star.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi thấy một ngôi sao [lấp lánh].</li>
 			
-					<li className="list-none">Hình thái: [shining] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "shine" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ], miêu tả trạng thái đang diễn ra.</li>
+					<li className="list-none">Hình thái: [shining] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "shine" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ], miêu tả trạng thái đang diễn ra.</li>
 			
-					<li className="list-none">Chức năng: [shining] – [ADjective BASE][TÍNH CƠ] đứng trước star, bổ sung đặc điểm cho thực thể star.</li>
+					<li className="list-none">Chức năng: [shining] – [ADjective][TÍNH] đứng trước star, bổ sung đặc điểm cho thực thể star.</li>
 			
 				</ul>
 			
@@ -208,7 +208,7 @@ export default function SV2(): React.JSX.Element {
 					<li>The child seems [exhausted from playing].</li>
 					<li className="margin-bottom-20 list-none">Đứa trẻ có vẻ [kiệt sức vì chơi].</li>
 			
-					<li className="list-none">Hình thái: [exhausted from playing] – [PERfect VERB PHRASE][HOÀN ĐỘNG CỤM] gồm hành động exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
+					<li className="list-none">Hình thái: [exhausted from playing] – [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] gồm hành động exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
 			
 					<li className="list-none">Chức năng: [exhausted from playing] – [ADjective PHRASE][TÍNH CỤM] đứng sau hành động seems, mô tả trạng thái của thực thể The child.</li>
 			
@@ -233,16 +233,16 @@ export default function SV2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3.3 Chức năng Trạng</h4>
 
-			<p className="text-indent-whole">Trạng Cơ – Hình thái: Động Cơ</p>
+			<p className="text-indent-whole">TRẠNG – Hình thái: ĐỘNG</p>
 			
 				<ul className="list-square">
 			
 					<li>He spoke [calmly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy nói [một cách bình tĩnh].</li>
 			
-					<li className="list-none">Hình thái: [calmly] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [ROOT ADjective BASE][RỄ TÍNH CƠ] nguyên bản "calm" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [calmly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][RỄ TÍNH] nguyên bản "calm" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
 			
-					<li className="list-none">Chức năng: [calmly] – [ADverb BASE][TRẠNG CƠ] đứng cạnh hành động spoke, bổ sung ý nghĩa về cách thức thực hiện hành động.</li>
+					<li className="list-none">Chức năng: [calmly] – [ADVERB][TRẠNG] đứng cạnh hành động spoke, bổ sung ý nghĩa về cách thức thực hiện hành động.</li>
 			
 				</ul>
 			
@@ -268,7 +268,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Although it was late], they continued working.</li>
 					<li className="margin-bottom-20 list-none">[Mặc dù trời đã muộn], họ vẫn tiếp tục làm việc.</li>
 			
-					<li className="list-none">Hình thái: [Although it was late] – [conJUNCtional CLAUSE][LIÊN CÂU] có it là thành phần thực hiện hành động, was là động cơ, late là thành phần bổ sung.</li>
+					<li className="list-none">Hình thái: [Although it was late] – [conJUNCtional CLAUSE][LIÊN CÂU] có it là thành phần thực hiện hành động, was là ĐỘNG, late là thành phần bổ sung.</li>
 			
 					<li className="list-none">Chức năng: [Although it was late] – [ADverb CLAUSE][TRẠNG CÂU] đứng đầu câu, bổ sung ý nghĩa về sự nhượng bộ cho toàn bộ câu chính.</li>
 			
@@ -293,7 +293,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{why I called her}'} – [NOUN CLAUSE][DANH CÂU] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
 
-					<li className="list-none">Hình thái lớp ngoài: [forgot {'{why I called her}'}] – [Tầng Thời-Thuần Động Cụm][Tiered Tense-Bare Verb Phrase] bắt đầu bằng [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
+					<li className="list-none">Hình thái lớp ngoài: [forgot {'{why I called her}'}] – [TIERed PAST TENSE VERB PHRASE] [TẦNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PAST TENSE VERB][QUÁ THỜI ĐỘNG] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
 			
 					<li className="list-none">Chức năng lớp ngoài: [forgot {'{why I called her}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ khối này nằm sau She, là [Danh Nhận] – đối tượng mà hành động forgot hướng đến.</li>
 			
@@ -309,7 +309,7 @@ export default function SV2(): React.JSX.Element {
 
 			<p>Khi đã thuần thục nhận diện Hình thái và Chức năng, paraphrase trở thành bài toán thay thế một khối bằng một khối khác có cùng Chức năng – không cần thay đổi cấu trúc tổng thể, không cần cùng Hình thái.</p>
 
-			<h4 className="margin-y-40">Ví dụ 1: Thay [Danh Cơ] bằng Danh Cụm</h4>
+			<h4 className="margin-y-40">Ví dụ 1: Thay [DANH] bằng Danh Cụm</h4>
 
 			<p className="text-indent-whole">Câu gốc:</p>
 			
@@ -318,9 +318,9 @@ export default function SV2(): React.JSX.Element {
 					<li>[Jogging] is beneficial.</li>
 					<li className="margin-bottom-20 list-none">[Chạy bộ] có lợi cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [Jogging] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "Jog" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [Jogging] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "Jog" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
 			
-					<li className="list-none">Chức năng: [Jogging] – [NOUN BASE][DANH CƠ] đứng ở đầu câu, là thực thể trung tâm.</li>
+					<li className="list-none">Chức năng: [Jogging] – [NOUN][DANH] đứng ở đầu câu, là thực thể trung tâm.</li>
 			
 				</ul>
 			
@@ -332,7 +332,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Going for a jog every morning] is beneficial.</li>
 					<li className="margin-bottom-20 list-none">[Đi chạy bộ mỗi sáng] có lợi cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [Going for a jog every morning] – [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM].</li>
+					<li className="list-none">Hình thái: [Going for a jog every morning] – [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM].</li>
 			
 					<li className="list-none">Chức năng: [Going for a jog every morning] – [NOUN PHRASE][DANH CỤM] vẫn đứng ở đầu câu, cùng vai trò thực thể trung tâm.</li>
 			
@@ -349,9 +349,9 @@ export default function SV2(): React.JSX.Element {
 					<li>I remember [his kindness].</li>
 					<li className="margin-bottom-20 list-none">Tôi nhớ [lòng tốt của anh ấy].</li>
 			
-					<li className="list-none">Hình thái: [his kindness] – đây là một khối [Danh Cơ] thuần túy, không xuất phát từ động cơ.</li>
+					<li className="list-none">Hình thái: [his kindness] – đây là một khối [DANH] thuần túy, không xuất phát từ ĐỘNG.</li>
 			
-					<li className="list-none">Chức năng: [his kindness] – [NOUN BASE][DANH CƠ] đứng sau hành động remember, là [Danh Nhận] của hành động.</li>
+					<li className="list-none">Chức năng: [his kindness] – [NOUN][DANH] đứng sau hành động remember, là [Danh Nhận] của hành động.</li>
 			
 				</ul>
 			
@@ -435,7 +435,7 @@ export default function SV2(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">Ví dụ 5: Thay [Trạng Cơ] bằng [Trạng Cụm] (Có Giới Cụm)</h4>
+			<h4 className="margin-y-40">Ví dụ 5: Thay [TRẠNG] bằng [Trạng Cụm] (Có Giới Cụm)</h4>
 
 			<p className="text-indent-whole">Câu gốc:</p>
 			
@@ -444,9 +444,9 @@ export default function SV2(): React.JSX.Element {
 					<li>He drives [carefully].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [cẩn thận].</li>
 			
-					<li className="list-none">Hình thái: [carefully] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "care" mặc thêm (kết hợp) hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [carefully] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "care" mặc thêm (kết hợp) hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
 			
-					<li className="list-none">Chức năng: [carefully] – [ADverb BASE][TRẠNG CƠ] bổ nghĩa cho hành động drives.</li>
+					<li className="list-none">Chức năng: [carefully] – [ADVERB][TRẠNG] bổ nghĩa cho hành động drives.</li>
 			
 				</ul>
 			
@@ -480,7 +480,7 @@ export default function SV2(): React.JSX.Element {
 					<li className="list-none">Hình thái: [That he finished the race] – [conJUNCtional CLAUSE][LIÊN CÂU].</li>
 					<li className="margin-bottom-20 list-none">Chức năng: [That he finished the race] – [NOUN CLAUSE][DANH CÂU] đứng ở đầu câu, là thực thể gây ra ấn tượng.</li>
 			
-					<li className="list-none">Hình thái: [everyone] – một khối [Danh Cơ] thuần túy.</li>
+					<li className="list-none">Hình thái: [everyone] – một khối [DANH] thuần túy.</li>
 					<li className="list-none">Chức năng: [everyone] – Danh Nhận, nhận tác động của hành động impressed.</li>
 			
 				</ul>
@@ -493,7 +493,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[His finishing the race] impressed [everyone].</li>
 					<li className="margin-bottom-20 list-none">[Việc anh ấy hoàn thành cuộc đua] gây ấn tượng [mọi người].</li>
 			
-					<li className="list-none">Hình thái: [His finishing the race] – [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM].</li>
+					<li className="list-none">Hình thái: [His finishing the race] – [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM].</li>
 			
 					<li className="list-none">Chức năng: [His finishing the race] – [NOUN PHRASE][DANH CỤM] vẫn đứng đầu câu, cùng chức năng.</li>
 			
@@ -524,7 +524,7 @@ export default function SV2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">7. KẾT LUẬN – PARAPHRASING LÀ TRÒ CHƠI THAY KHỐI CÙNG CHỨC NĂNG</h3>
 
-			<p>Hệ thống Cơ – Cụm – Câu và việc phân biệt rõ Hình thái (Động Cơ, Động Cụm, Giới Cụm, Liên Câu) với Chức năng Danh / Tính / Trạng không chỉ giúp người học hiểu sâu cấu trúc câu. Nó còn biến paraphrase thành một thao tác đơn giản, có thể thực hành một cách có ý thức:</p>
+			<p>Hệ thống Cơ – Cụm – Câu và việc phân biệt rõ Hình thái (ĐỘNG, Động Cụm, Giới Cụm, Liên Câu) với Chức năng Danh / Tính / Trạng không chỉ giúp người học hiểu sâu cấu trúc câu. Nó còn biến paraphrase thành một thao tác đơn giản, có thể thực hành một cách có ý thức:</p>
 			
 				<ul className="list-square">
 			
@@ -532,7 +532,7 @@ export default function SV2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Xác định khối cần thay – nó đang mang Chức năng gì? Danh, Tính hay Trạng?</li>
 			
 					<li>Bước 2:</li>
-					<li className="margin-bottom-20 list-none">Chọn một khối khác (có Hình thái bất kỳ: Động Cơ, Động Cụm, Giới Cụm, hay Liên Câu) nhưng phải đảm bảo cùng Chức năng.</li>
+					<li className="margin-bottom-20 list-none">Chọn một khối khác (có Hình thái bất kỳ: ĐỘNG, Động Cụm, Giới Cụm, hay Liên Câu) nhưng phải đảm bảo cùng Chức năng.</li>
 			
 					<li>Bước 3:</li>
 					<li className="list-none">Thế vào vị trí cũ, giữ nguyên phần còn lại của câu.</li>

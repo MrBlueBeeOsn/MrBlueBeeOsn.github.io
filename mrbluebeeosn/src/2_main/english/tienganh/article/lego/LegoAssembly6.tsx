@@ -70,10 +70,10 @@ export default function LegoAssembly6(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Danh chủ</li>
 
 					<li><strong>Head</strong> = hạt nhân:</li>
-					<li className="margin-bottom-20 list-none">Động cơ chia, thời động cơ, modal, hoặc be.</li>
+					<li className="margin-bottom-20 list-none">ĐỘNG chia, thời ĐỘNG, modal, hoặc be.</li>
 			
 					<li><strong>DP</strong> = Dependent Phrase</li>
-					<li className="margin-bottom-20 list-none">Nhãn chức năng cho phần phụ thuộc theo vị trí (object, complement, hoặc phần đứng ở vị trí subject). DP có thể là danh cụm, tính cụm, participial phrase, gerund clause, infinitive phrase, câu con danh cơ, v.v.</li>
+					<li className="margin-bottom-20 list-none">Nhãn chức năng cho phần phụ thuộc theo vị trí (object, complement, hoặc phần đứng ở vị trí subject). DP có thể là danh cụm, tính cụm, participial phrase, gerund clause, infinitive phrase, câu con DANH, v.v.</li>
 			
 					<li><strong>DC</strong> = Dependent Clause</li>
 					<li className="list-none">phụ câu có danh chủ + vị ngữ bên trong.</li>
@@ -87,7 +87,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 			
 					<li>Xác định <strong>S</strong> (vị trí danh chủ).</li>
 			
-					<li>Xác định <strong>Head</strong> (động cơ chia / thời gian hành động / modal / <strong>be</strong>).</li>
+					<li>Xác định <strong>Head</strong> (ĐỘNG chia / thời gian hành động / modal / <strong>be</strong>).</li>
 			
 					<li>Phần đứng sau <strong>Head</strong> (hoặc phần đứng trước Head nếu là danh chủ) là <strong>DP</strong> theo vị trí.</li>
 
@@ -105,10 +105,10 @@ export default function LegoAssembly6(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Động cơ chia</strong>:</li>
+					<li><strong>ĐỘNG chia</strong>:</li>
 					<li className="margin-bottom-20 list-none">Mang thì trong khẳng định; khi phủ định/nghi vấn cần trợ <strong>do</strong>/<strong>does</strong>/<strong>did</strong>.</li>
 
-					<li>[<strong>Thời Động Cơ</strong>] (<strong>do</strong>/<strong>does</strong>/<strong>did</strong>):</li>
+					<li>[<strong>Thời ĐỘNG</strong>] (<strong>do</strong>/<strong>does</strong>/<strong>did</strong>):</li>
 					<li className="margin-bottom-20 list-none">Tạo phủ định/nghi vấn cho present/past simple.</li>
 			
 					<li><strong>Modal</strong> (<strong>will</strong>/<strong>can</strong>/<strong>could</strong>):</li>
@@ -136,7 +136,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 					<li>Nếu Head là <strong>modal</strong>/<strong>trợ</strong></li>
 					<li className="margin-bottom-20 list-none">→ chèn <strong>not</strong> ngay sau Head.</li>
 			
-					<li>Nếu Head là <strong>động cơ chia</strong> (present/past simple)</li>
+					<li>Nếu Head là <strong>ĐỘNG chia</strong> (present/past simple)</li>
 					<li className="list-none">→ thay Head bằng <strong>do</strong>/<strong>does</strong>/<strong>did</strong>; hành động chính về nguyên mẫu.</li>
 			
 				</ul>
@@ -157,7 +157,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 					<li>She buys a car.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy mua một chiếc ô tô.</li>
 					<li className="list-none">She - S</li>
-					<li className="list-none">buys (động cơ chia) - Head (gốc)</li>
+					<li className="list-none">buys (ĐỘNG chia) - Head (gốc)</li>
 					<li className="list-none">a car (object) - DP</li>
 			
 				</ul>
@@ -274,7 +274,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 					<li>She knows what he wants.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy biết anh ấy muốn gì.</li>
 					<li className="list-none">She - S</li>
-					<li className="list-none">knows (động cơ chia) - Head</li>
+					<li className="list-none">knows (ĐỘNG chia) - Head</li>
 					<li className="list-none">what he wants - DP[DC] - DP theo chức năng là object; DC về cấu trúc là câu con NOUN (S+V)</li>
 			
 				</ul>

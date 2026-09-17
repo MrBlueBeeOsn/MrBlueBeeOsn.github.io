@@ -59,7 +59,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 			<p className="margin-top-20"><strong>Gấp 4 lần</strong>.</p>
 
 			<p>Một hôm tôi hỏi: "Hans, sao anh đọc nhanh vậy?"</p>
-			<p>Hans cười: "Dễ mà. Tiếng Đức giống tiếng Anh - đều là <strong>Tính cơ</strong> + <strong>Danh cơ</strong>. Tôi đọc thẳng từ trái sang phải thôi."</p>
+			<p>Hans cười: "Dễ mà. Tiếng Đức giống tiếng Anh - đều là <strong>TÍNH</strong> + <strong>DANH</strong>. Tôi đọc thẳng từ trái sang phải thôi."</p>
 
 			<p className="margin-top-20"><strong>Beautiful girl</strong> = <strong>Schönes Mädchen</strong> (Xinh đẹp cô gái)</p>
 
@@ -73,7 +73,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 					
 			<p>Tối đó tôi ngồi tra cứu. Phát hiện gây sốc:</p>
 
-			<p><strong>90% thế giới dùng</strong> "<strong>Tính cơ</strong> + <strong>Danh cơ</strong>":</p>
+			<p><strong>90% thế giới dùng</strong> "<strong>TÍNH</strong> + <strong>DANH</strong>":</p>
 			
 				<ul className="list-square">
 
@@ -88,7 +88,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 
 			<p className="margin-top-20">→ <strong>Hơn 5 tỷ người trên thế giới</strong>!</p>
 
-			<p>Chỉ 10% dùng "Danh cơ + Tính cơ":</p>
+			<p>Chỉ 10% dùng "DANH + TÍNH":</p>
 			
 				<ul className="list-square">
 
@@ -145,7 +145,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 					
 			<p>Bạn nghĩ thế?</p>
 
-			<p>Sai rồi! Tiếng Việt VỐN CÓ cấu trúc "Tính cơ + Danh cơ":</p>
+			<p>Sai rồi! Tiếng Việt VỐN CÓ cấu trúc "TÍNH + DANH":</p>
 			
 				<ul className="list-square">
 		
@@ -271,7 +271,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 
 			<h4 className="margin-bottom-20">Anh Tuấn - Lập trình viên, 29 tuổi</h4>
 
-			<p>"Làm việc với team Nhật. Họ đọc docs tiếng Anh siêu nhanh vì tiếng Nhật cũng 'Tính cơ + Danh cơ'.</p>
+			<p>"Làm việc với team Nhật. Họ đọc docs tiếng Anh siêu nhanh vì tiếng Nhật cũng 'TÍNH + DANH'.</p>
 
 			<p>Tôi tập đọc xuôi:</p>
 

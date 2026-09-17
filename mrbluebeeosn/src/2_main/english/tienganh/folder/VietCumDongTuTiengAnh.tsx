@@ -29,7 +29,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Khi học tiếng Anh, nhiều người Việt thường gặp khó khăn khi viết động cụm (verb phrases) có nhiều thời gian hành động vì trong tiếng Việt ta hay nói/think theo thứ tự “thời gian hành động + hành động chính” (đã đang ăn cơm). Trong tiếng Anh, thứ tự viết lại giống hệt cách ta nói trong đầu: <strong>thời gian hành động đứng trước</strong> → <strong>động cơ chính đứng sau</strong> (have been eating).</p>
+			<p>Khi học tiếng Anh, nhiều người Việt thường gặp khó khăn khi viết động cụm (verb phrases) có nhiều thời gian hành động vì trong tiếng Việt ta hay nói/think theo thứ tự “thời gian hành động + hành động chính” (đã đang ăn cơm). Trong tiếng Anh, thứ tự viết lại giống hệt cách ta nói trong đầu: <strong>thời gian hành động đứng trước</strong> → <strong>ĐỘNG chính đứng sau</strong> (have been eating).</p>
 
 			<p>Vì vậy, để viết đúng và nhanh nhất, bạn chỉ cần <strong>nghĩ theo đúng thứ tự tiếng Việt</strong> (từ trái sang phải), nhưng <strong>khi viết/bổ sung từng lớp thì làm từ phải sang trái</strong> – tức là luôn bắt đầu bằng hành động chính trước, rồi lần lượt thêm thời gian hành động vào phía trước nó. Phương pháp này giúp bạn không bao giờ bị rối thứ tự dù động cụm có dài bao nhiêu lớp đi nữa.</p>
 
@@ -37,7 +37,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 					<span className="highlight-238-padding-4-8 text-border1">
 
-						<span className="highlight-255-padding-0-4">Động Cơ</span> Viết Trước, <span className="highlight-255-padding-0-4">Trợ Động Cơ</span> Viết Sau
+						<span className="highlight-255-padding-0-4">ĐỘNG</span> Viết Trước, <span className="highlight-255-padding-0-4">Trợ ĐỘNG</span> Viết Sau
 
 					</span>
 
@@ -49,7 +49,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li><strong>Trong đầu bạn nghĩ</strong>: đã → đang → ăn → cơm → have been eating rice (đúng thứ tự tiếng Anh luôn!).</li>
 
-					<li><strong>Vấn đề xảy ra khi bạn cố viết liền một lần</strong>: bạn dễ quên lớp nào trước lớp nào sau, nhất là khi có 3–4 thời động cơ.</li>
+					<li><strong>Vấn đề xảy ra khi bạn cố viết liền một lần</strong>: bạn dễ quên lớp nào trước lớp nào sau, nhất là khi có 3–4 thời ĐỘNG.</li>
 
 					<li><strong>Giải pháp</strong>: Luôn bắt buộc mình viết hành động chính trước (phần bên phải nhất), rồi bổ sung từng thời gian hành động một từ phía trước nó (từ phải sang trái). Như vậy dù bạn nghĩ theo kiểu tiếng Việt bao nhiêu lần đi nữa, kết quả viết ra vẫn luôn đúng 100%.</li>
 
@@ -69,7 +69,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 				</ul>
 
-			<h3 className="margin-y-50 text-center">2. Các bước viết động cụm theo nguyên tắc “động cơ viết trước”</h3>
+			<h3 className="margin-y-50 text-center">2. Các bước viết động cụm theo nguyên tắc “ĐỘNG viết trước”</h3>
 
 			{/* =============================
 					Bước 1: Viết hành động chính trước (main verb)
@@ -93,7 +93,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">Bước 2: Bổ sung từng lớp thời gian hành động từ phải sang trái</h3>
 
-				<p>Thêm dần thời động cơ, phủ định, trạng cơ… vào phía trước hành động chính.</p>
+				<p>Thêm dần thời ĐỘNG, phủ định, TRẠNG… vào phía trước hành động chính.</p>
 
 					<ul className="list-square">
 
@@ -115,7 +115,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 					<ol>
 
-						<li>Động cơ chính: <strong>beat</strong></li>
+						<li>ĐỘNG chính: <strong>beat</strong></li>
 
 						<li>Thêm bị động: <strong>beaten</strong></li>
 
@@ -167,7 +167,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li><strong>Passive</strong> (bị động): be + V3</li>
 
-					<li><strong>Main verb</strong> (động cơ chính)</li>
+					<li><strong>Main verb</strong> (ĐỘNG chính)</li>
 
 				</ol>
 

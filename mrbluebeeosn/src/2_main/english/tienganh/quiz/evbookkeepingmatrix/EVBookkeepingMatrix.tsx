@@ -28,17 +28,17 @@ export default function (): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [reCORDing every BUSIness transACtion] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa, không có chủ thể thực hiện hành động đứng trước và không biến đổi theo thời gian. \n\n Chức năng: [reCORDing every BUSInesstransACtion] - [NOUN PHRASE][DANH CỤM] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"is\"."
+			explanation: "Hình thái: [reCORDing every BUSIness transACtion] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa, không có chủ thể thực hiện hành động đứng trước và không biến đổi theo thời gian. \n\n Chức năng: [reCORDing every BUSInesstransACtion] - [NOUN PHRASE][DANH CỤM] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"is\"."
 		},
 		{
 			id: 2,
 			question: "the BOOKkeeper proVIded the [adJUSTing] ENtries for the MONTH-end rePORTS. \n Người làm sổ sách đã cung cấp các bút toán [điều chỉnh] cho các báo cáo cuối tháng.",
 			options: [
-				"[ADjective BASE]",
-				"[ADverb BASE]"
+				"[ADjective]",
+				"[ADVERB]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [adJUSTing] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] bắt đầu từ [Động Cơ] nguyên bản dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adJUSTing] - [ADjective BASE][TÍNH CƠ] đi kèm ngay trước \"ENtries\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [adJUSTing] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adJUSTing] - [ADjective][TÍNH] đi kèm ngay trước \"ENtries\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function (): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [CALculating the TOtal PAYroll for the STAFF] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa phía sau, không có chủ thể riêng biệt. \n\n Chức năng: [CALculating the TOtal PAYroll for the STAFF] - [ADverb PHRASE][TRẠNG CỤM] đi kèm sau hành động chính \"WORKED\" đứng ra bổ nghĩa cho hành động đó theo góc độ cách thức."
+			explanation: "Hình thái: [CALculating the TOtal PAYroll for the STAFF] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa phía sau, không có chủ thể riêng biệt. \n\n Chức năng: [CALculating the TOtal PAYroll for the STAFF] - [ADverb PHRASE][TRẠNG CỤM] đi kèm sau hành động chính \"WORKED\" đứng ra bổ nghĩa cho hành động đó theo góc độ cách thức."
 		},
 		{
 			id: 4,
@@ -68,7 +68,7 @@ export default function (): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [conTAINing all the CREDit SALES] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thêm đuôi \"-ing\" kết hợp thành phần bổ nghĩa, không có chủ thể riêng đứng trước. \n\n Chức năng: [conTAINing all the CREDit SALES] - [ADjective PHRASE][TÍNH CỤM] đứng sau \"the LEDGer\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [conTAINing all the CREDit SALES] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thêm đuôi \"-ing\" kết hợp thành phần bổ nghĩa, không có chủ thể riêng đứng trước. \n\n Chức năng: [conTAINing all the CREDit SALES] - [ADjective PHRASE][TÍNH CỤM] đứng sau \"the LEDGer\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 6,
@@ -88,7 +88,7 @@ export default function (): React.JSX.Element {
 				"[TIERed NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [NOUN CLAUSE][DANH CÂU] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
+			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [NOUN CLAUSE][DANH CÂU] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
 		},
 		{
 			id: 8,

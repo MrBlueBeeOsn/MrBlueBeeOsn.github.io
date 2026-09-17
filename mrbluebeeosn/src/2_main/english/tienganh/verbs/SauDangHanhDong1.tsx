@@ -169,7 +169,7 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 
 					</ul>
 
-					<p className="margin-top-20"><strong>To Work</strong> (động cơ nguyên mẫu có “to” – to-inFINitive): Dùng sau WANT, NEED, deCIde, PLAN, HOPE, LEARN, TRY, PROMise…</p>
+					<p className="margin-top-20"><strong>To Work</strong> (ĐỘNG nguyên mẫu có “to” – to-inFINitive): Dùng sau WANT, NEED, deCIde, PLAN, HOPE, LEARN, TRY, PROMise…</p>
 
 					<p className="text-indent-whole">Ví dụ:</p>
 
@@ -240,7 +240,7 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Chỉ 10 phút mỗi ngày, sau 3 ngày bạn sẽ thấy: Tiếng Anh không còn là “động cơ lằng nhằng” nữa, mà chỉ còn 3 cặp đấu tay đôi vui vẻ và dễ nhớ!</p>
+			<p className="margin-top-20">Chỉ 10 phút mỗi ngày, sau 3 ngày bạn sẽ thấy: Tiếng Anh không còn là “ĐỘNG lằng nhằng” nữa, mà chỉ còn 3 cặp đấu tay đôi vui vẻ và dễ nhớ!</p>
 
 			<p>Bạn chọn cặp nào để “xem trận đấu” đầu tiên hôm nay? Cặp 1, cặp 2 hay cặp 3?</p>
 

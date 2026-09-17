@@ -32,13 +32,13 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Trong tiếng Anh, động cụm (verb phrases) thường bao gồm hành động chính kết hợp với các ADverb hoặc bổ ngữ, tạo nên ý nghĩa hoàn chỉnh. Khác với tiếng Việt, nơi ADverb thường đứng trước động cơ, trong tiếng Anh, ADverb hoặc các bổ ngữ thường đứng sau hành động chính. Để dịch động cụm sang tiếng Việt một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>Động Cơ dịch trước</strong>, <strong>Trạng Cơ dịch sau</strong>", đồng thời đặt các ADverb hoặc bổ ngữ vào dấu ngoặc đơn trong cấu trúc động cụm để dễ nhận diện và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
+			<p>Trong tiếng Anh, động cụm (verb phrases) thường bao gồm hành động chính kết hợp với các ADverb hoặc bổ ngữ, tạo nên ý nghĩa hoàn chỉnh. Khác với tiếng Việt, nơi ADverb thường đứng trước ĐỘNG, trong tiếng Anh, ADverb hoặc các bổ ngữ thường đứng sau hành động chính. Để dịch động cụm sang tiếng Việt một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>ĐỘNG dịch trước</strong>, <strong>TRẠNG dịch sau</strong>", đồng thời đặt các ADverb hoặc bổ ngữ vào dấu ngoặc đơn trong cấu trúc động cụm để dễ nhận diện và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
 
 				<p className="margin-y-50 text-center">
 
 					<span className="highlight-238-padding-4-8 text-border1">
 
-						<span className="highlight-255-padding-0-4">Động Cơ</span> Dịch Trước, <span className="highlight-255-padding-0-4">Trạng Cơ</span> Dịch Sau
+						<span className="highlight-255-padding-0-4">ĐỘNG</span> Dịch Trước, <span className="highlight-255-padding-0-4">TRẠNG</span> Dịch Sau
 						
 					</span>
 
@@ -50,9 +50,9 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Động cơ chính</strong> (<strong>head verb</strong>): Là từ cốt lõi, mang ý nghĩa chính của hành động, thường nằm ở vị trí đầu tiên trong động cụm.</li>
+					<li><strong>ĐỘNG chính</strong> (<strong>head verb</strong>): Là từ cốt lõi, mang ý nghĩa chính của hành động, thường nằm ở vị trí đầu tiên trong động cụm.</li>
 
-					<li><strong>Các thành phần bổ nghĩa</strong>: Bao gồm ADverb (adverbs), cụm giới cơ (prepositional phrases), hoặc các bổ ngữ khác, thường đứng sau hành động chính để bổ sung ý nghĩa về cách thức, thời gian, địa điểm, hoặc mức độ.</li>
+					<li><strong>Các thành phần bổ nghĩa</strong>: Bao gồm ADverb (adverbs), cụm GIỚI (prepositional phrases), hoặc các bổ ngữ khác, thường đứng sau hành động chính để bổ sung ý nghĩa về cách thức, thời gian, địa điểm, hoặc mức độ.</li>
 
 				</ul>
 			
@@ -72,13 +72,13 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">Bước 1: Xác định hành động chính</h3>
 
-				<p>Động cơ chính là từ cốt lõi trong động cụm, thường nằm ở vị trí đầu tiên. Đây là từ bạn sẽ dịch đầu tiên.</p>
+				<p>ĐỘNG chính là từ cốt lõi trong động cụm, thường nằm ở vị trí đầu tiên. Đây là từ bạn sẽ dịch đầu tiên.</p>
 				
 				<p className="margin-top-20">Ví dụ: Walk slowly in the park</p>
 
 					<ul className="list-square">
 
-						<li>Động cơ chính: <strong>walk</strong> (đi bộ).</li>
+						<li>ĐỘNG chính: <strong>walk</strong> (đi bộ).</li>
 
 					</ul>
 
@@ -132,9 +132,9 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 					<ul className="list-square">
 
-						<li>Động cơ chính: <strong>walk</strong> → đi bộ.</li>
+						<li>ĐỘNG chính: <strong>walk</strong> → đi bộ.</li>
 
-						<li>Trạng cơ và bổ ngữ (từ phải sang trái): <strong>in the park</strong> (trong công viên), <strong>slowly</strong> (chậm rãi).</li>
+						<li>TRẠNG và bổ ngữ (từ phải sang trái): <strong>in the park</strong> (trong công viên), <strong>slowly</strong> (chậm rãi).</li>
 
 						<li>Kết quả: đi bộ trong công viên chậm rãi.</li>
 
@@ -146,9 +146,9 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 					<ul className="list-square">
 
-						<li>Động cơ chính: <strong>sing</strong> → hát.</li>
+						<li>ĐỘNG chính: <strong>sing</strong> → hát.</li>
 
-						<li>Trạng cơ và bổ ngữ (từ phải sang trái): <strong>at the concert</strong> (tại buổi hòa nhạc), <strong>loudly</strong> (to lớn).</li>
+						<li>TRẠNG và bổ ngữ (từ phải sang trái): <strong>at the concert</strong> (tại buổi hòa nhạc), <strong>loudly</strong> (to lớn).</li>
 
 						<li>Kết quả: hát tại buổi hòa nhạc to lớn.</li>
 
@@ -158,15 +158,15 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Xử lý các động cụm phức tạp</h3>
 
-			<p>Khi động cụm có bổ ngữ phức tạp hơn, như cụm giới cơ hoặc câu con bổ nghĩa, bạn vẫn áp dụng nguyên tắc tương tự, nhưng chỉ đặt ADverb hoặc bổ ngữ trực tiếp liên quan đến cách thức, thời gian, hoặc địa điểm vào dấu ngoặc đơn, còn các thành phần khác được xử lý riêng.</p>
+			<p>Khi động cụm có bổ ngữ phức tạp hơn, như cụm GIỚI hoặc câu con bổ nghĩa, bạn vẫn áp dụng nguyên tắc tương tự, nhưng chỉ đặt ADverb hoặc bổ ngữ trực tiếp liên quan đến cách thức, thời gian, hoặc địa điểm vào dấu ngoặc đơn, còn các thành phần khác được xử lý riêng.</p>
 
 			<p className="margin-top-20">Ví dụ 1: look carefully at the picture</p>
 
 				<ul className="list-square">
 
-					<li>Động cơ chính: <strong>look</strong> → nhìn.</li>
+					<li>ĐỘNG chính: <strong>look</strong> → nhìn.</li>
 
-					<li>Trạng cơ và bổ ngữ trong ngoặc: <strong>look</strong> (<strong>carefully at the picture</strong>).</li>
+					<li>TRẠNG và bổ ngữ trong ngoặc: <strong>look</strong> (<strong>carefully at the picture</strong>).</li>
 
 					<li>Dịch (từ phải sang trái): <strong>at the picture</strong> (vào bức tranh), <strong>carefully</strong> (cẩn thận).</li>
 
@@ -178,9 +178,9 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Động cơ chính: <strong>run</strong> → chạy.</li>
+					<li>ĐỘNG chính: <strong>run</strong> → chạy.</li>
 
-					<li>Trạng cơ và bổ ngữ trong ngoặc: <strong>run</strong> (<strong>quickly to catch the bus</strong>).</li>
+					<li>TRẠNG và bổ ngữ trong ngoặc: <strong>run</strong> (<strong>quickly to catch the bus</strong>).</li>
 
 					<li>Dịch (từ phải sang trái): <strong>to catch the bus</strong> (để bắt xe buýt), <strong>quickly</strong> (nhanh chóng).</li>
 
@@ -192,9 +192,9 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Động cơ chính: <strong>dance</strong> → nhảy.</li>
+					<li>ĐỘNG chính: <strong>dance</strong> → nhảy.</li>
 
-					<li>Trạng cơ và bổ ngữ trong ngoặc: <strong>dance</strong> (<strong>gracefully in the ballroom</strong>).</li>
+					<li>TRẠNG và bổ ngữ trong ngoặc: <strong>dance</strong> (<strong>gracefully in the ballroom</strong>).</li>
 
 					<li>Kết quả: nhảy trong phòng khiêu vũ duyên dáng.</li>
 
@@ -204,19 +204,19 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Thứ tự ADverb trong tiếng Anh</strong>: Tiếng Anh thường sắp xếp ADverb theo thứ tự: cách thức (manner) → địa điểm (place) → thời gian (time). Khi đặt vào dấu ngoặc đơn, bạn giữ nguyên thứ tự này trong cấu trúc như <strong>động cơ</strong> (<strong>trạng cơ bổ ngữ</strong>), nhưng khi dịch, bạn đảo ngược từ phải sang trái để phù hợp với ngữ cảm tiếng Việt.</li>
+					<li><strong>Thứ tự ADverb trong tiếng Anh</strong>: Tiếng Anh thường sắp xếp ADverb theo thứ tự: cách thức (manner) → địa điểm (place) → thời gian (time). Khi đặt vào dấu ngoặc đơn, bạn giữ nguyên thứ tự này trong cấu trúc như <strong>ĐỘNG</strong> (<strong>TRẠNG bổ ngữ</strong>), nhưng khi dịch, bạn đảo ngược từ phải sang trái để phù hợp với ngữ cảm tiếng Việt.</li>
 
 					<li><strong>Ngữ cảm tự nhiên</strong>: Trong một số trường hợp, bạn có thể cần điều chỉnh thứ tự ADverb để câu văn tiếng Việt nghe mượt mà hơn. Ví dụ: <strong>run</strong> (<strong>quickly up the hill</strong>) được dịch là chạy lên đồi nhanh chóng, nhưng có thể điều chỉnh thành chạy nhanh lên đồi để tự nhiên hơn trong ngữ cảnh cụ thể.</li>
 
 					<li><strong>Bổ ngữ phức tạp</strong>: Với các cụm có bổ ngữ dài (như câu con bổ nghĩa), chỉ đặt ADverb hoặc bổ ngữ trực tiếp vào ngoặc đơn, còn các thành phần khác được dịch sau hành động chính theo cách thông thường.</li>
 
-					<li><strong>Trạng cơ và cụm giới cơ</strong>: Các cụm giới cơ (như <strong>up the hill</strong>, <strong>at the concert</strong>) thường được xem như một đơn vị bổ nghĩa và được dịch nguyên vẹn sau động cơ.</li>
+					<li><strong>TRẠNG và cụm GIỚI</strong>: Các cụm GIỚI (như <strong>up the hill</strong>, <strong>at the concert</strong>) thường được xem như một đơn vị bổ nghĩa và được dịch nguyên vẹn sau ĐỘNG.</li>
 
 				</ul>
 			
 			<h3 className="margin-y-50 text-center">5. Kết luận</h3>
 			
-			<p>Phương pháp dịch động cụm tiếng Anh theo nguyên tắc "<strong>Động Cơ dịch trước</strong>, <strong>Trạng Cơ dịch sau</strong>", kết hợp với việc đặt các ADverb và bổ ngữ vào dấu ngoặc đơn trong cấu trúc <strong>động cơ</strong> (<strong>trạng cơ bổ ngữ</strong>), giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định hành động chính trước, đặt các trạng cơ/bổ ngữ vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
+			<p>Phương pháp dịch động cụm tiếng Anh theo nguyên tắc "<strong>ĐỘNG dịch trước</strong>, <strong>TRẠNG dịch sau</strong>", kết hợp với việc đặt các ADverb và bổ ngữ vào dấu ngoặc đơn trong cấu trúc <strong>ĐỘNG</strong> (<strong>TRẠNG bổ ngữ</strong>), giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định hành động chính trước, đặt các TRẠNG/bổ ngữ vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
 			<div className="viewcounter">
 			

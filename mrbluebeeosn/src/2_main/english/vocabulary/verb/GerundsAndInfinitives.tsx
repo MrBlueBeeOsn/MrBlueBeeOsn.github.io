@@ -1086,7 +1086,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-y-20"><strong>Sau giới cơ thì phải</strong> -<strong>ing</strong> (đây là luật sắt)</p>
+			<p className="margin-y-20"><strong>Sau GIỚI thì phải</strong> -<strong>ing</strong> (đây là luật sắt)</p>
 			
 				<ul className="list-square">
 			
@@ -1159,7 +1159,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Khi bạn bắt đầu nghĩ theo cách này thay vì cố nhớ từng động cơ, bạn sẽ thấy chúng… thân thiện hơn rất nhiều.</p>
+			<p className="margin-top-20">Khi bạn bắt đầu nghĩ theo cách này thay vì cố nhớ từng ĐỘNG, bạn sẽ thấy chúng… thân thiện hơn rất nhiều.</p>
 
 			<p>Hãy thử nói to một câu với cả hai cách và cảm nhận sự khác biệt. Bạn sẽ thấy ngay: ngôn ngữ không chỉ là quy tắc, mà còn là <strong>cảm giác</strong>.</p>
 

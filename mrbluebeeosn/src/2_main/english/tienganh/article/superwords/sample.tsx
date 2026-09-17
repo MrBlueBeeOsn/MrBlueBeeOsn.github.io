@@ -17,7 +17,7 @@ export default function (): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[BASE][PHRASE][CLAUSE]</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">[SUper VERB BASE]
+			<h1 className="margin-y-50 text-center">[SUper VERB]
 												
 				<sup><HashLink smooth to="/tieng-anh/super-1">&nbsp;1&nbsp;</HashLink>
 				</sup>

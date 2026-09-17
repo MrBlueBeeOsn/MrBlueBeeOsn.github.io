@@ -96,15 +96,15 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 
 						<tr>
 								<td><strong>Sự vật</strong> (<strong>Tĩnh</strong>)</td>
-								<td>Danh cơ + Tính cơ</td>
-								<td><strong>Tính cơ</strong> + <strong>Danh cơ</strong></td>
+								<td>DANH + TÍNH</td>
+								<td><strong>TÍNH</strong> + <strong>DANH</strong></td>
 								<td>Chọn màu sơn trước, vẽ hình sau</td>
 						</tr>
 
 						<tr>
 								<td><strong>Hành động</strong> (<strong>Động</strong>)</td>
-								<td>Động cơ + Trạng cơ</td>
-								<td><strong>Trạng cơ</strong> + <strong>Động cơ</strong></td>
+								<td>ĐỘNG + TRẠNG</td>
+								<td><strong>TRẠNG</strong> + <strong>ĐỘNG</strong></td>
 								<td>Chọn nhạc nền trước, diễn xuất sau</td>
 						</tr>
 					</tbody>
@@ -128,7 +128,7 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Khi bạn nhìn thế giới bằng cách ưu tiên <strong>Cảm giác</strong> (<strong>Tính cơ</strong>/<strong>Trạng cơ</strong>) trước khi gọi tên <strong>Sự vật</strong>/<strong>Hành động</strong>, bạn đã chính thức bước qua cánh cửa của người bản xứ. Bạn không còn đang "học" tiếng Anh, mà bạn đang "cảm" tiếng Anh.</p>
+			<p className="margin-top-20">Khi bạn nhìn thế giới bằng cách ưu tiên <strong>Cảm giác</strong> (<strong>TÍNH</strong>/<strong>TRẠNG</strong>) trước khi gọi tên <strong>Sự vật</strong>/<strong>Hành động</strong>, bạn đã chính thức bước qua cánh cửa của người bản xứ. Bạn không còn đang "học" tiếng Anh, mà bạn đang "cảm" tiếng Anh.</p>
 
 			<h3 className="margin-y-50 text-center">Lời kết:</h3>
 

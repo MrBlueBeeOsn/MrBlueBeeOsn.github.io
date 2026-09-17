@@ -48,13 +48,13 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Danh cơ trước, ADjective sau — Chiến lược tư duy giúp người Việt chinh phục tiếng Anh</h4>
+			<h4 className="margin-bottom-30 text-center">DANH trước, ADjective sau — Chiến lược tư duy giúp người Việt chinh phục tiếng Anh</h4>
 
 			<p className="margin-y-40"><strong>Mở đầu</strong></p>
 					
 			<p>Hầu hết người Việt học tiếng Anh đều bắt đầu bằng hai mẫu quen thuộc:</p>
 
-			<p className="margin-top-20"><strong>Tính cơ đứng trước danh cơ</strong></p>
+			<p className="margin-top-20"><strong>TÍNH đứng trước DANH</strong></p>
 			
 				<ul className="list-square">
 			
@@ -63,7 +63,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20"><strong>Tính cơ sau</strong> “<strong>to be</strong>”</p>
+			<p className="margin-top-20"><strong>TÍNH sau</strong> “<strong>to be</strong>”</p>
 			
 				<ul className="list-square">
 			
@@ -72,11 +72,11 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Chính vì vậy nhiều người mặc định rằng “tính cơ phải đứng trước danh cơ” — và cảm thấy bối rối khi gặp những câu dài, phức tạp. </p>
+			<p className="margin-top-20">Chính vì vậy nhiều người mặc định rằng “TÍNH phải đứng trước DANH” — và cảm thấy bối rối khi gặp những câu dài, phức tạp. </p>
 
-			<p>Thực tế tinh tế hơn: trong văn nói nâng cao và văn viết học thuật, người bản ngữ thường <strong>đưa NOUN ra trước</strong>, rồi <strong>thả phần mô tả phía sau</strong> bằng một câu con đóng vai trò như tính cơ.</p>
+			<p>Thực tế tinh tế hơn: trong văn nói nâng cao và văn viết học thuật, người bản ngữ thường <strong>đưa NOUN ra trước</strong>, rồi <strong>thả phần mô tả phía sau</strong> bằng một câu con đóng vai trò như TÍNH.</p>
 			
-			<p>Nhận ra điều này là một bước ngoặt: nó biến tiếng Anh từ “khác” thành “quen”, vì trật tự <strong>Danh cơ</strong> → <strong>Mô tả</strong> rất giống cách người Việt suy nghĩ.</p>
+			<p>Nhận ra điều này là một bước ngoặt: nó biến tiếng Anh từ “khác” thành “quen”, vì trật tự <strong>DANH</strong> → <strong>Mô tả</strong> rất giống cách người Việt suy nghĩ.</p>
 			
 
 			{/* 1.  */}
@@ -87,10 +87,10 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Danh cơ đứng trước tính cơ</strong>:</li>
-					<li className="margin-bottom-20 list-none">Dùng khi bạn muốn <strong>nhấn mạnh danh cơ</strong> — giới thiệu đối tượng trước, rồi mô tả.</li>
+					<li><strong>DANH đứng trước TÍNH</strong>:</li>
+					<li className="margin-bottom-20 list-none">Dùng khi bạn muốn <strong>nhấn mạnh DANH</strong> — giới thiệu đối tượng trước, rồi mô tả.</li>
 			
-					<li><strong>Tính cơ đứng trước danh cơ</strong>:</li>
+					<li><strong>TÍNH đứng trước DANH</strong>:</li>
 					<li className="list-none">Dùng khi bạn muốn <strong>nhấn mạnh tính chất</strong> — mô tả ngay, ngắn gọn.</li>
 			
 				</ul>
@@ -102,13 +102,13 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Bộ ba câu con nền tảng của tiếng Anh nâng cao</h3>
 
-			<p>Khi đã làm chủ tư duy <strong>Danh cơ</strong> → <strong>Mô tả</strong>, việc tiếp cận hai loại câu con còn lại sẽ dễ dàng hơn.</p>
+			<p>Khi đã làm chủ tư duy <strong>DANH</strong> → <strong>Mô tả</strong>, việc tiếp cận hai loại câu con còn lại sẽ dễ dàng hơn.</p>
 
-			<p>Ba câu con này là <strong>câu con tính cơ</strong>, <strong>câu con trạng ngữ</strong>, và <strong>câu con danh cơ</strong> — chúng là công cụ chính để người bản ngữ xây dựng câu phức, lập luận và dẫn chứng.</p>
+			<p>Ba câu con này là <strong>câu con TÍNH</strong>, <strong>câu con trạng ngữ</strong>, và <strong>câu con DANH</strong> — chúng là công cụ chính để người bản ngữ xây dựng câu phức, lập luận và dẫn chứng.</p>
 
-			<h4 className="margin-y-40">1. Câu con ADjective — mô tả đứng sau danh cơ</h4>
+			<h4 className="margin-y-40">1. Câu con ADjective — mô tả đứng sau DANH</h4>
 
-			<p className="text-indent-whole"><strong>Chức năng</strong>: bổ sung, phân biệt hoặc mở rộng thông tin về danh cơ.</p>
+			<p className="text-indent-whole"><strong>Chức năng</strong>: bổ sung, phân biệt hoặc mở rộng thông tin về DANH.</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -128,7 +128,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Gợi ý thực hành</strong>: khi dịch câu tiếng Việt dạng <strong>Danh cơ</strong> + <strong>mô tả</strong>, hãy thử đặt NOUN trước rồi thêm câu con ADjective — cảm giác sẽ rất tự nhiên.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Gợi ý thực hành</strong>: khi dịch câu tiếng Việt dạng <strong>DANH</strong> + <strong>mô tả</strong>, hãy thử đặt NOUN trước rồi thêm câu con ADjective — cảm giác sẽ rất tự nhiên.</p>
 		
 
 			<h4 className="margin-y-40">2. Trạng câu — nối ý, giải thích hoàn cảnh</h4>
@@ -151,7 +151,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Danh câu — biến cả cụm thành danh chủ hoặc danh nhận</h4>
 					
-			<p className="text-indent-whole"><strong>Chức năng</strong>: đóng vai trò như một danh cơ; thường dùng để trích dẫn ý tưởng, lập luận, hoặc làm chủ đề thảo luận.</p>
+			<p className="text-indent-whole"><strong>Chức năng</strong>: đóng vai trò như một DANH; thường dùng để trích dẫn ý tưởng, lập luận, hoặc làm chủ đề thảo luận.</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -162,7 +162,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Gợi ý thực hành</strong>: dùng câu con NOUN để tóm tắt ý chính trước khi giải thích bằng câu con trạng ngữ và minh họa bằng câu con tính cơ.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Gợi ý thực hành</strong>: dùng câu con NOUN để tóm tắt ý chính trước khi giải thích bằng câu con trạng ngữ và minh họa bằng câu con TÍNH.</p>
 
 
 			{/* 3.  */}
@@ -175,9 +175,9 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 					<li value="2" className="margin-bottom-20"><strong>Giới thiệu NOUN chính</strong> - đối tượng của luận điểm.</li>
 
-					<li value="3" className="margin-bottom-20"><strong>Bổ sung bằng câu con tính cơ</strong> để phân biệt hoặc mô tả chi tiết.</li>
+					<li value="3" className="margin-bottom-20"><strong>Bổ sung bằng câu con TÍNH</strong> để phân biệt hoặc mô tả chi tiết.</li>
 			
-					<li value="4" className="margin-bottom-20"><strong>Dùng câu con danh cơ</strong> khi cần tóm tắt ý hoặc chuyển sang luận điểm tiếp theo.</li>
+					<li value="4" className="margin-bottom-20"><strong>Dùng câu con DANH</strong> khi cần tóm tắt ý hoặc chuyển sang luận điểm tiếp theo.</li>
 			
 				</ol>
 
@@ -197,10 +197,10 @@ export default function AdjPlacement6(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Khi đọc tiếng Việt, gạch dưới NOUN chính và phần mô tả.</li>
 			
 					<li value="2"><strong>Dịch theo mẫu</strong>:</li>
-					<li className="margin-bottom-20 list-none">Chuyển mô tả thành câu con tính cơ; đặt NOUN trước.</li>
+					<li className="margin-bottom-20 list-none">Chuyển mô tả thành câu con TÍNH; đặt NOUN trước.</li>
 
 					<li value="3"><strong>Thử biến thể</strong>:</li>
-					<li className="margin-bottom-20 list-none">Viết cùng một ý bằng ADjective trước danh cơ, rồi bằng NOUN + câu con tính cơ; so sánh sắc thái.</li>
+					<li className="margin-bottom-20 list-none">Viết cùng một ý bằng ADjective trước DANH, rồi bằng NOUN + câu con TÍNH; so sánh sắc thái.</li>
 			
 					<li value="4"><strong>Ghép mạch</strong>:</li>
 					<li className="margin-bottom-20 list-none">Viết đoạn 4–6 câu dùng cả ba câu con — chú ý dấu câu và nhịp câu.</li>
@@ -237,9 +237,9 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết luận: biến điểm tương đồng thành lợi thế cạnh tranh</h3>
 
-			<p>Việc nhận ra rằng tiếng Anh có một <strong>trật tự mô tả rất gần với tiếng Việt</strong> — <strong>danh cơ trước</strong>, <strong>mô tả sau</strong> — là một lợi thế lớn.</p>
+			<p>Việc nhận ra rằng tiếng Anh có một <strong>trật tự mô tả rất gần với tiếng Việt</strong> — <strong>DANH trước</strong>, <strong>mô tả sau</strong> — là một lợi thế lớn.</p>
 
-			<p>Khi bạn hiểu và thực hành <strong>câu con tính cơ</strong>, việc tiếp cận <strong>câu con trạng ngữ</strong> và <strong>câu con danh cơ</strong> sẽ trở nên tự nhiên.</p>
+			<p>Khi bạn hiểu và thực hành <strong>câu con TÍNH</strong>, việc tiếp cận <strong>câu con trạng ngữ</strong> và <strong>câu con DANH</strong> sẽ trở nên tự nhiên.</p>
 
 			<p>Ba câu con này là bộ công cụ giúp bạn đọc hiểu sâu, viết luận chặt chẽ và nói thuyết phục.</p>
 

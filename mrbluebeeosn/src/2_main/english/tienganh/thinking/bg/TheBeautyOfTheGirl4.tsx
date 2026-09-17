@@ -148,7 +148,7 @@ export default function TheBeautyOfTheGirl4(): React.JSX.Element {
 
 			<p className="margin-top-20"><strong>Mệt lắm</strong>!</p>
 
-			<p>Sau khi học cách chuyển ADjective thành danh cơ:</p>
+			<p>Sau khi học cách chuyển ADjective thành DANH:</p>
 
 			<ul className="list-square">
 

@@ -133,7 +133,7 @@ export default function SentenceVariety7(): React.JSX.Element {
 					<li><strong>Bước 1</strong> — <strong>Khung đơn giản</strong>: Danh chủ + hành động + (bổ ngữ).</li>
 					<li className="margin-bottom-20 list-none">I study English.</li>
 
-					<li><strong>Bước 2</strong> — <strong>Thêm chi tiết</strong>: thêm danh nhận, trạng cơ.</li>
+					<li><strong>Bước 2</strong> — <strong>Thêm chi tiết</strong>: thêm danh nhận, TRẠNG.</li>
 					<li className="margin-bottom-20 list-none">I study English every morning.</li>
 
 					<li><strong>Bước 3</strong> — <strong>Ghép ý liên quan</strong>: dùng and/but để nối hai ý.</li>
@@ -155,7 +155,7 @@ export default function SentenceVariety7(): React.JSX.Element {
 
 					<li>Luôn xen kẽ câu ngắn và câu dài trong đoạn văn.</li>
 
-					<li>Đa dạng cách mở đầu: <strong>dùng trạng cơ</strong>, <strong>câu con phụ</strong>, <strong>cụm phân từ</strong>, <strong>danh cơ</strong>.</li>
+					<li>Đa dạng cách mở đầu: <strong>dùng TRẠNG</strong>, <strong>câu con phụ</strong>, <strong>cụm phân từ</strong>, <strong>DANH</strong>.</li>
 
 					<li>Dùng dấu câu để điều tiết nhịp (chấm phẩy giúp nối ý mà vẫn giữ nhịp).</li>
 

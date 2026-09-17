@@ -241,7 +241,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">PHRAsal VERBS trong tiếng Anh – Bí quyết nói tự nhiên như người bản xứ (Cập nhật 2026)</h4>
 
-			<p>PHRAsal VERBS là “vũ khí bí mật” giúp bạn nâng tầm tiếng Anh giao tiếp, đặc biệt trong Ielts SPEAKing, TOEic SPEAKing hay cuộc sống hàng ngày. Đây là những cụm từ gồm <strong>Động Cơ</strong> + <strong>Trạng Cơ</strong> <strong>(<del> Giới Cơ</del></strong>) (như UP, DOWN, OUT, ON, OFF…), tạo nên nghĩa hoàn toàn mới, không đoán được từ nghĩa riêng lẻ.</p>
+			<p>PHRAsal VERBS là “vũ khí bí mật” giúp bạn nâng tầm tiếng Anh giao tiếp, đặc biệt trong Ielts SPEAKing, TOEic SPEAKing hay cuộc sống hàng ngày. Đây là những cụm từ gồm <strong>ĐỘNG</strong> + <strong>TRẠNG</strong> <strong>(<del> GIỚI</del></strong>) (như UP, DOWN, OUT, ON, OFF…), tạo nên nghĩa hoàn toàn mới, không đoán được từ nghĩa riêng lẻ.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			

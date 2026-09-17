@@ -30,7 +30,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 1,
-			explanation: "Đại cơ quan hệ thay thế cho NOUN chỉ người \"the WOMan\" và đóng vai trò làm danh chủ trong câu con quan hệ (đứng trước hành động \"LIVES\")."
+			explanation: "ĐẠI quan hệ thay thế cho NOUN chỉ người \"the WOMan\" và đóng vai trò làm danh chủ trong câu con quan hệ (đứng trước hành động \"LIVES\")."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 2,
-			explanation: "Đại cơ quan hệ thay thế cho NOUN chỉ vật \"the BOOK\" và đóng vai trò làm danh nhận trong câu con quan hệ."
+			explanation: "ĐẠI quan hệ thay thế cho NOUN chỉ vật \"the BOOK\" và đóng vai trò làm danh nhận trong câu con quan hệ."
 		},
 		{
 			id: 3,
@@ -66,7 +66,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"when"
 			],
 			correctAnswer: 0,
-			explanation: "Trạng cơ quan hệ chỉ nơi chốn, thay thế cho \"the RESTAUrant\" (tương đương với cụm \"at which\")."
+			explanation: "TRẠNG quan hệ chỉ nơi chốn, thay thế cho \"the RESTAUrant\" (tương đương với cụm \"at which\")."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"who"
 			],
 			correctAnswer: 2,
-			explanation: "Trạng cơ quan hệ chỉ thời gian, thay thế cho NOUN \"the DAY\"."
+			explanation: "TRẠNG quan hệ chỉ thời gian, thay thế cho NOUN \"the DAY\"."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"who"
 			],
 			correctAnswer: 2,
-			explanation: "Đại cơ quan hệ thay thế cho NOUN chỉ người \"the MAN\" và đóng vai trò làm danh nhận trong câu con quan hệ (sau nó là một đại cơ/danh chủ \"you\")."
+			explanation: "ĐẠI quan hệ thay thế cho NOUN chỉ người \"the MAN\" và đóng vai trò làm danh nhận trong câu con quan hệ (sau nó là một ĐẠI/danh chủ \"you\")."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"when"
 			],
 			correctAnswer: 0,
-			explanation: "Trạng cơ quan hệ chỉ lý do, thường đi kèm sau cụm từ NOUN \"the REAson\"."
+			explanation: "TRẠNG quan hệ chỉ lý do, thường đi kèm sau cụm từ NOUN \"the REAson\"."
 		},
 		{
 			id: 8,

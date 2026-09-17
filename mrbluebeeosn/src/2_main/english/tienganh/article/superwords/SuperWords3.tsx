@@ -17,7 +17,7 @@ export default function SuperWords3(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[BASE][PHRASE][CLAUSE]</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">[SUper VERB BASE]
+			<h1 className="margin-y-50 text-center">[SUper VERB]
 												
 				<sup><HashLink smooth to="/tieng-anh/super-words-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -48,7 +48,7 @@ export default function SuperWords3(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ, Siêu [Trạng Cơ] – Cách Gọi Mới Giúp Học Câu Con Tiếng Anh Dễ Hơn</h4>
+			<h4 className="margin-bottom-30 text-center">Siêu DANH, Siêu TÍNH, Siêu [TRẠNG] – Cách Gọi Mới Giúp Học Câu Con Tiếng Anh Dễ Hơn</h4>
 
 			<p></p>
 
@@ -72,17 +72,17 @@ export default function SuperWords3(): React.JSX.Element {
 			<p></p>
 
 
-			<h4 className="margin-y-40">1. Siêu [Danh Cơ] (Super Noun / Noun Clause)</h4>
+			<h4 className="margin-y-40">1. Siêu [DANH] (Super Noun / Noun Clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">2. Siêu [Tính Cơ] (Super Adjective / Adjective Clause / Relative Clause)</h4>
+			<h4 className="margin-y-40">2. Siêu [TÍNH] (Super Adjective / Adjective Clause / Relative Clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">3. Siêu [Trạng Cơ] (Super Adverb / Adverb Clause)</h4>
+			<h4 className="margin-y-40">3. Siêu [TRẠNG] (Super Adverb / Adverb Clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -90,7 +90,7 @@ export default function SuperWords3(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Lợi ích của cách gọi Siêu [Danh Cơ] – Siêu [Tính Cơ] – Siêu Trạng Cơ</h3>
+			<h3 className="margin-y-50 text-center">3. Lợi ích của cách gọi Siêu [DANH] – Siêu [TÍNH] – Siêu TRẠNG</h3>
 
 			<p></p>
 

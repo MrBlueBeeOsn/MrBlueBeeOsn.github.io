@@ -78,7 +78,7 @@ export default function SentenceVariety8(): React.JSX.Element {
 					<li>It was cold, <strong>so</strong> we stayed in.</li>
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Nhận diện: thấy dấu phẩy + liên cơ, hai vế đều đứng một mình được.</p>
+			<p className="margin-top-20 text-indent-whole">Nhận diện: thấy dấu phẩy + LIÊN, hai vế đều đứng một mình được.</p>
 
 			<h4 className="margin-y-40">3. Câu phức</h4>
 					

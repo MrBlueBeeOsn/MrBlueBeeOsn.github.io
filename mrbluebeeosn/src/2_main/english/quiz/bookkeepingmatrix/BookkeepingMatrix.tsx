@@ -25,16 +25,16 @@ export default function (): React.JSX.Element {
 			question: "[reCORDing tranSACtions] is the FIRST STEP in the acCOUNTing CYcle. \n [Việc ghi chép các giao dịch] là bước đầu tiên trong chu trình kế toán.",
 			options: [
 				"[NOUN PHRASE]",
-				"[NOUN BASE]"
+				"[NOUN]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [reCORDing tranSACtions] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] consisting of the gerund \"reCORDing\" and its direct object \"tranSACtions\" working together as a structural unit. \n\n Function: [reCORDing tranSACtions] - [NOUN PHRASE][DANH CỤM] serving as the complete subject of the sentence to initiate the main verb \"is\"."
+			explanation: "Form: [reCORDing tranSACtions] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] consisting of the gerund \"reCORDing\" and its direct object \"tranSACtions\" working together as a structural unit. \n\n Function: [reCORDing tranSACtions] - [NOUN PHRASE][DANH CỤM] serving as the complete subject of the sentence to initiate the main verb \"is\"."
 		},
 		{
 			id: 2,
 			question: "the PRImary GOAL of a BOOKkeeper is [to mainTAIN ACcurate LEDgers]. \n Mục tiêu chính của một người ghi sổ là [duy trì các sổ cái chính xác].",
 			options: [
-				"[NOUN BASE]",
+				"[NOUN]",
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 1,
@@ -44,11 +44,11 @@ export default function (): React.JSX.Element {
 			id: 3,
 			question: "the [AUdited] fiNANcial STATEments were subMITted to the TAX auTHORity. \n Các báo cáo tài chính [đã được kiểm toán] đã được nộp cho cơ quan thuế.",
 			options: [
-				"[ADjective BASE]",
+				"[ADjective]",
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [AUdited] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] using a single past participle form of the verb to function as a modifier. \n\n Function: [AUdited] - [ADjective BASE][TÍNH CƠ] directly modifying the financial noun \"STATEments\" to clarify their verified status."
+			explanation: "Form: [AUdited] - [PAST PARTiciple VERB][QUÁ HOÀN ĐỘNG] using a single past participle form of the verb to function as a modifier. \n\n Function: [AUdited] - [ADjective][TÍNH] directly modifying the financial noun \"STATEments\" to clarify their verified status."
 		},
 		{
 			id: 4,
@@ -58,7 +58,7 @@ export default function (): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [while REconciling the BANK STATEment] - [Liên Tiếp Động Cụm][Conjunctional Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while REconciling the BANK STATEment] - [ADverb PHRASE][TRẠNG CỤM] modifying the main action \"FOUND\" by establishing the exact accounting timeframe."
+			explanation: "Form: [while REconciling the BANK STATEment] - [Liên HIỆN TIẾP ĐỘNG CỤM][Conjunctional Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while REconciling the BANK STATEment] - [ADverb PHRASE][TRẠNG CỤM] modifying the main action \"FOUND\" by establishing the exact accounting timeframe."
 		},
 		{
 			id: 5,
@@ -98,7 +98,7 @@ export default function (): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [USED for PAYroll PROcessing] - [PERfect VERB PHRASE][HOÀN ĐỘNG CỤM] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [USED for PAYroll PROcessing] - [ADjective PHRASE][TÍNH CỤM] defining and restricting the meaning of the specific technical noun \"SOFTware\" being discussed."
+			explanation: "Form: [USED for PAYroll PROcessing] - [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [USED for PAYroll PROcessing] - [ADjective PHRASE][TÍNH CỤM] defining and restricting the meaning of the specific technical noun \"SOFTware\" being discussed."
 		},
 		{
 			id: 9,

@@ -110,7 +110,7 @@ export default function DependentClause2(): React.JSX.Element {
 					<li><strong>Nhóm nguyên nhân</strong> – <strong>tương phản</strong>:</li>
 					<li className="margin-bottom-20 list-none">because, since (nghĩa “bởi vì”), as (nghĩa “bởi vì”), although, even though, though, whereas, while (nghĩa “trong khi”).</li>
 			
-					<li><strong>Nhóm bổ nghĩa cho danh cơ</strong>:</li>
+					<li><strong>Nhóm bổ nghĩa cho DANH</strong>:</li>
 					<li className="margin-bottom-20 list-none">who, whom, which, that, whose, where, why.</li>
 			
 					<li><strong>Một số từ khác</strong>:</li>
@@ -263,7 +263,7 @@ export default function DependentClause2(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">Bài kiểm tra 2: Phép thử “thay bằng một danh cơ”</h4>
+			<h4 className="margin-y-40">Bài kiểm tra 2: Phép thử “thay bằng một DANH”</h4>
 
 			<p className="text-indent-whole">Đôi khi phụ câu làm danh chủ hoặc danh nhận (noun clause).</p>
 

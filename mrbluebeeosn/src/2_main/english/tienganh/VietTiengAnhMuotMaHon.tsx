@@ -23,14 +23,14 @@ export default function VietTiengAnhMuotMaHon(): React.JSX.Element {
 
 			<p>Bạn có bao giờ đang viết một câu tiếng Anh mà đột nhiên… khựng lại? Bạn nghĩ ra NOUN trước (ví dụ: “apple”), nhưng lại quên mất phải đặt ADjective (“red”) và mạo từ (“a”) ở trước nó. Kết quả là câu viết ra lủng củng, phải gạch xóa lung tung, hoặc tệ hơn – bạn mất luôn ý tưởng đang tuôn trào.</p>
 
-			<p>Nếu bạn cũng từng gặp tình trạng này (đặc biệt là người Việt mình, vì tiếng Việt thường đặt ADjective sau danh cơ), thì xin chúc mừng: bạn không hề đơn độc. Và quan trọng hơn, có một mẹo cực kỳ đơn giản nhưng hiệu quả mà rất nhiều người học tiếng Anh thành công đã áp dụng: <strong>chừa khoảng trống trước</strong>, <strong>viết danh cơ</strong>/<strong>động cơ chính trước</strong>, <strong>rồi quay lại bổ sung sau</strong>.</p>
+			<p>Nếu bạn cũng từng gặp tình trạng này (đặc biệt là người Việt mình, vì tiếng Việt thường đặt ADjective sau DANH), thì xin chúc mừng: bạn không hề đơn độc. Và quan trọng hơn, có một mẹo cực kỳ đơn giản nhưng hiệu quả mà rất nhiều người học tiếng Anh thành công đã áp dụng: <strong>chừa khoảng trống trước</strong>, <strong>viết DANH</strong>/<strong>ĐỘNG chính trước</strong>, <strong>rồi quay lại bổ sung sau</strong>.</p>
 
 
 			{/* Tại sao mẹo này lại hiệu quả đến vậy?. */}
 
 			<h3 className="margin-y-50 text-center">Tại sao mẹo này lại hiệu quả đến vậy?</h3>
 
-			<p>Tiếng Việt và hàng loạt ngôn ngữ khác (Pháp, Tây Ban Nha, Ý…) thường có thứ tự: <strong>danh cơ</strong> + <strong>tính cơ</strong>.</p>
+			<p>Tiếng Việt và hàng loạt ngôn ngữ khác (Pháp, Tây Ban Nha, Ý…) thường có thứ tự: <strong>DANH</strong> + <strong>TÍNH</strong>.</p>
 
 			<p>Ví dụ: quả táo đỏ, ngôi nhà đẹp, thông tin quan trọng.</p>
 
@@ -40,7 +40,7 @@ export default function VietTiengAnhMuotMaHon(): React.JSX.Element {
 
 					<span className="highlight-238-padding-4-8 text-border1">
 
-						<span className="highlight-255-padding-0-4">tính cơ</span> + <span className="highlight-255-padding-0-4">danh cơ</span>
+						<span className="highlight-255-padding-0-4">TÍNH</span> + <span className="highlight-255-padding-0-4">DANH</span>
 
 					</span>
 
@@ -84,11 +84,11 @@ export default function VietTiengAnhMuotMaHon(): React.JSX.Element {
 
 			</div>
 
-			{/* 2. Với hành động (động cơ hỗ trợ). */}
+			{/* 2. Với hành động (ĐỘNG hỗ trợ). */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">2. Với hành động (động cơ hỗ trợ)</h3>
+				<h3 className="margin-y-50 text-center">2. Với hành động (ĐỘNG hỗ trợ)</h3>
 
 					<p>Tương tự với thì, thể, câu hỏi:</p>
 
@@ -116,7 +116,7 @@ export default function VietTiengAnhMuotMaHon(): React.JSX.Element {
 
 					<li>Hàng nghìn học sinh, sinh viên Việt Nam dùng mẹo này khi viết essay IELTS, TOEFL.</li>
 			
-					<li>Trên các group học tiếng Anh, Reddit, diễn đàn, không ít người chia sẻ: “Mình hay chừa dấu gạch dưới cho a/an/the và tính cơ, viết NOUN trước cho dễ nghĩ”.</li>
+					<li>Trên các group học tiếng Anh, Reddit, diễn đàn, không ít người chia sẻ: “Mình hay chừa dấu gạch dưới cho a/an/the và TÍNH, viết NOUN trước cho dễ nghĩ”.</li>
 			
 					<li>Nhiều giáo viên tiếng Anh (cả Việt Nam lẫn bản xứ) còn chủ động hướng dẫn học viên làm vậy trong giai đoạn viết nháp: “Write the main noun or main verb first, leave a blank, then go back and add adjectives, articles, or auxiliaries.”</li>
 			

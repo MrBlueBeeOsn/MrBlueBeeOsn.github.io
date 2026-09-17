@@ -28,7 +28,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [SITting by the WINdow] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [SITting by the WINdow] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"the GIRL\"."
+			explanation: "Hình thái: [SITting by the WINdow] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [SITting by the WINdow] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"the GIRL\"."
 		},
 		{
 			id: 2,
@@ -84,41 +84,41 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			id: 7,
 			question: "the [BROken] VASE could NOT be rePAIRed. \n Chiếc bình [bị vỡ] đã không thể sửa chữa được.",
 			options: [
-				"[ADjective BASE]",
+				"[ADjective]",
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [BROken] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [BROken] - [ADjective BASE][TÍNH CƠ] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"VASE\"."
+			explanation: "Hình thái: [BROken] - [PAST PARTiciple VERB][QUÁ HOÀN ĐỘNG] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [BROken] - [ADjective][TÍNH] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"VASE\"."
 		},
 		{
 			id: 8,
 			question: "he MADE his YOUNGer BROTHer [CRY]. \n Anh ấy đã làm cho em trai mình [khóc].",
 			options: [
-				"[NOUN BASE]",
-				"[ADjective BASE]"
+				"[NOUN]",
+				"[ADjective]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [CRY] - [BARE VERB BASE][THUẦN ĐỘNG CƠ] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [CRY] - [ADjective BASE][TÍNH CƠ] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his YOUNGer BROTHer\" phía trước."
+			explanation: "Hình thái: [CRY] - [BARE VERB][THUẦN ĐỘNG] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [CRY] - [ADjective][TÍNH] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his YOUNGer BROTHer\" phía trước."
 		},
 		{
 			id: 9,
 			question: "the TEAM PRACticed HARD [to WIN] the CHAMpionship. \n Toàn đội đã luyện tập chăm chỉ [để giành được] chức vô địch.",
 			options: [
-				"[ADverb BASE]",
+				"[ADVERB]",
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to WIN] - [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to WIN] - [ADverb BASE][TRẠNG CƠ] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"PRACticed HARD\"."
+			explanation: "Hình thái: [to WIN] - [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to WIN] - [ADVERB][TRẠNG] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"PRACticed HARD\"."
 		},
 		{
 			id: 10,
 			question: "[SMOking] is STRICTly proHIBited in this HOSpital. \n [Việc hút thuốc] bị nghiêm cấm hoàn toàn trong bệnh viện này.",
 			options: [
-				"[NOUN BASE]",
+				"[NOUN]",
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [SMOking] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] bắt đầu từ [Động Cơ] nguyên bản tồn tại ở hình thái đuôi -ing đứng hoàn toàn độc lập, chưa phát triển các thành phần bổ khuyết đi kèm. \n\n Chức năng: [SMOking] - [NOUN BASE][DANH CƠ] đóng vai trò chủ thể cốt lõi ở đầu câu để chịu sự tác động từ phần thông tin phía sau."
+			explanation: "Hình thái: [SMOking] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản tồn tại ở hình thái đuôi -ing đứng hoàn toàn độc lập, chưa phát triển các thành phần bổ khuyết đi kèm. \n\n Chức năng: [SMOking] - [NOUN][DANH] đóng vai trò chủ thể cốt lõi ở đầu câu để chịu sự tác động từ phần thông tin phía sau."
 		}
 	];
 

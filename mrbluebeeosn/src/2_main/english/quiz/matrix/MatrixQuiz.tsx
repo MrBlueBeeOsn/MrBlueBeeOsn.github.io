@@ -28,27 +28,27 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [to LEARN EVERyday] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by combining the infinitive marker \"to\", the bare verb base \"LEARN\", and the adverbial modifier \"EVERyday\". \n\n Function: [to LEARN EVERyday] - [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"exPANDS\", acting as the nominal head of the sentence."
+			explanation: "Form: [to LEARN EVERyday] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by combining the infinitive marker \"to\", the bare VERB \"LEARN\", and the adverbial modifier \"EVERyday\". \n\n Function: [to LEARN EVERyday] - [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"exPANDS\", acting as the nominal head of the sentence."
 		},
 		{
 			id: 2,
 			question: "the [FALlen] LEAVES COVered the enTIre DRIVEway. \n Những chiếc lá [đã rụng] phủ kín cả lối vào xe.",
 			options: [
-				"[ADjective BASE]",
-				"[ADverb BASE]"
+				"[ADjective]",
+				"[ADVERB]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [FALlen] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] formed by the bare past participle form of the verb \"FALL\" without any auxiliary attachments. \n\n Function: [FALlen] - [ADjective BASE][TÍNH CƠ] modifies and directly describes the head noun \"LEAVES\"."
+			explanation: "Form: [FALlen] - [PAST PARTiciple VERB][QUÁ HOÀN ĐỘNG] formed by the bare past participle form of the verb \"FALL\" without any auxiliary attachments. \n\n Function: [FALlen] - [ADjective][TÍNH] modifies and directly describes the head noun \"LEAVES\"."
 		},
 		{
 			id: 3,
 			question: "the HEAVy DOOR FLEW [Open] due to the STRONG WIND. \n Cánh cửa nặng nề đã tung [mở] do cơn gió mạnh.",
 			options: [
-				"[ADjective BASE]",
-				"[ADverb BASE]"
+				"[ADjective]",
+				"[ADVERB]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [Open] - [BARE VERB BASE][THUẦN ĐỘNG CƠ] originating from a bare verb base. \n\n Function: [Open] - [ADverb BASE][TRẠNG CƠ] acts as a resultative complement modifying the verb \"FLEW\" to show the final state achieved by the action."
+			explanation: "Form: [Open] - [BARE VERB][THUẦN ĐỘNG] originating from a bare VERB. \n\n Function: [Open] - [ADVERB][TRẠNG] acts as a resultative complement modifying the verb \"FLEW\" to show the final state achieved by the action."
 		},
 		{
 			id: 4,
@@ -58,7 +58,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [MANaging a LARGE interNATional TEAM] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] formed by the gerund \"MANaging\" and its direct object phrase \"a LARGE interNATional TEAM\". \n\n Function: [MANaging a LARGE interNATional TEAM] - [NOUN PHRASE][DANH CỤM] occupies the subject slot of the main verb \"reQUIres\"."
+			explanation: "Form: [MANaging a LARGE interNATional TEAM] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] formed by the gerund \"MANaging\" and its direct object phrase \"a LARGE interNATional TEAM\". \n\n Function: [MANaging a LARGE interNATional TEAM] - [NOUN PHRASE][DANH CỤM] occupies the subject slot of the main verb \"reQUIres\"."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [WRITten by the FAmous proFESsor] - [PERfect VERB PHRASE][HOÀN ĐỘNG CỤM] formed by the past participle \"WRITten\" and its agentive prepositional phrase \"by the FAmous proFESsor\". \n\n Function: [WRITten by the FAmous proFESsor] - [ADjective PHRASE][TÍNH CỤM] post-modifies and restricts the meaning of the head noun \"BOOK\"."
+			explanation: "Form: [WRITten by the FAmous proFESsor] - [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] formed by the past participle \"WRITten\" and its agentive prepositional phrase \"by the FAmous proFESsor\". \n\n Function: [WRITten by the FAmous proFESsor] - [ADjective PHRASE][TÍNH CỤM] post-modifies and restricts the meaning of the head noun \"BOOK\"."
 		},
 		{
 			id: 6,
@@ -78,7 +78,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to FINish his gradUAtion THEsis] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by the infinitive marker \"to\", the verb base \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [ADverb PHRASE][TRẠNG CỤM] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
+			explanation: "Form: [to FINish his gradUAtion THEsis] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by the infinitive marker \"to\", the VERB \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [ADverb PHRASE][TRẠNG CỤM] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
 		},
 		{
 			id: 7,

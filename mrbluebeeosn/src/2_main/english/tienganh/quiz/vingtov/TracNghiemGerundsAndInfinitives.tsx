@@ -30,7 +30,7 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 				"to MEET"
 			],
 			correctAnswer: 1,
-			explanation: "Cấu trúc \"LOOK FORward to\" là một cụm từ cố định mang ý nghĩa mong đợi một điều gì đó với sự hân hoan. Trong cấu trúc này, từ \"to\" đóng vai trò là một giới cơ chứ không phải là dấu hiệu của hành động nguyên mẫu (to-inFINitive), vì vậy theo quy tắc ngữ pháp, sau giới cơ chúng ta phải sử dụng một danh hành động (V-ing)."
+			explanation: "Cấu trúc \"LOOK FORward to\" là một cụm từ cố định mang ý nghĩa mong đợi một điều gì đó với sự hân hoan. Trong cấu trúc này, từ \"to\" đóng vai trò là một GIỚI chứ không phải là dấu hiệu của hành động nguyên mẫu (to-inFINitive), vì vậy theo quy tắc ngữ pháp, sau GIỚI chúng ta phải sử dụng một danh hành động (V-ing)."
 		},
 		{
 			id: 2,
@@ -54,7 +54,7 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 				"BOUGHT"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ \"deCIDE\" (quyết định) là một trong những hành động luôn đi kèm với hành động nguyên mẫu có \"to\" (to-inFINitive) khi muốn diễn tả quyết định thực hiện một hành động nào đó trong tương lai."
+			explanation: "ĐỘNG \"deCIDE\" (quyết định) là một trong những hành động luôn đi kèm với hành động nguyên mẫu có \"to\" (to-inFINitive) khi muốn diễn tả quyết định thực hiện một hành động nào đó trong tương lai."
 		},
 		{
 			id: 4,
@@ -78,7 +78,7 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 				"GONE"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ \"sugGEST\" (gợi ý) khi được theo sau trực tiếp bởi một hành động khác mà không có danh nhận chỉ người thì hành động đó phải được chia ở dạng danh hành động (V-ing)."
+			explanation: "ĐỘNG \"sugGEST\" (gợi ý) khi được theo sau trực tiếp bởi một hành động khác mà không có danh nhận chỉ người thì hành động đó phải được chia ở dạng danh hành động (V-ing)."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 				"LOCKED"
 			],
 			correctAnswer: 1,
-			explanation: "Động cơ \"reMEMber\" có hai cách dùng: \"reMEMber + to V\" là nhớ phải làm gì (chưa làm), còn \"reMEMber + V-ing\" là nhớ đã làm gì trong quá khứ. Trong ngữ cảnh này, người nói nhớ về hành động khóa cửa đã thực hiện rồi nên phải dùng dạng V-ing."
+			explanation: "ĐỘNG \"reMEMber\" có hai cách dùng: \"reMEMber + to V\" là nhớ phải làm gì (chưa làm), còn \"reMEMber + V-ing\" là nhớ đã làm gì trong quá khứ. Trong ngữ cảnh này, người nói nhớ về hành động khóa cửa đã thực hiện rồi nên phải dùng dạng V-ing."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 				"SMOKED"
 			],
 			correctAnswer: 0,
-			explanation: "Động cơ \"STOP\" khi đi với \"V-ing\" có nghĩa là dừng hẳn một thói quen hoặc một hành động đang diễn ra. Ở đây, nhân vật này dừng hẳn việc hút thuốc vì lý do sức khỏe nên \"SMOking\" là đáp án đúng."
+			explanation: "ĐỘNG \"STOP\" khi đi với \"V-ing\" có nghĩa là dừng hẳn một thói quen hoặc một hành động đang diễn ra. Ở đây, nhân vật này dừng hẳn việc hút thuốc vì lý do sức khỏe nên \"SMOking\" là đáp án đúng."
 		},
 		{
 			id: 8,
@@ -126,7 +126,7 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 				"FINished"
 			],
 			correctAnswer: 1,
-			explanation: "Động cơ \"Manage\" mang nghĩa là xoay xở hoặc thành công làm được việc gì đó. Theo sau hành động này, chúng ta luôn sử dụng dạng nguyên mẫu có \"to\" (to-inFINitive)."
+			explanation: "ĐỘNG \"Manage\" mang nghĩa là xoay xở hoặc thành công làm được việc gì đó. Theo sau hành động này, chúng ta luôn sử dụng dạng nguyên mẫu có \"to\" (to-inFINitive)."
 		},
 		{
 			id: 10,

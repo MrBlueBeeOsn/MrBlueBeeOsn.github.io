@@ -73,13 +73,13 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Tính cơ đứng trước danh cơ.</p>
+			<p className="margin-top-20">TÍNH đứng trước DANH.</p>
 
 			<p>Trong khi tiếng Việt lại nói:</p>
 
-			<p><strong>Danh cơ đứng trước</strong>.</p>
+			<p><strong>DANH đứng trước</strong>.</p>
 
-			<p><strong>Tính cơ đứng sau</strong>.</p>
+			<p><strong>TÍNH đứng sau</strong>.</p>
 
 			<p className="margin-top-20">Sự khác biệt đó lặp đi lặp lại đủ lâu để người học hình thành một niềm tin gần như mặc định:</p>
 			
@@ -121,7 +121,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Họ học cách đặt ADjective trước danh cơ.</p>
+			<p className="margin-top-20">Họ học cách đặt ADjective trước DANH.</p>
 
 			<p>Họ học cách dùng ADjective sau hành động be.</p>
 
@@ -144,7 +144,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Người Bản Ngữ Không Nhấn Mạnh Tính Cơ. Họ Nhấn Mạnh Đối Tượng.</h3>
+			<h3 className="margin-y-50 text-center">2. Người Bản Ngữ Không Nhấn Mạnh TÍNH. Họ Nhấn Mạnh Đối Tượng.</h3>
 
 			<p>Hãy quan sát hai câu sau:</p>
 			
@@ -189,9 +189,9 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Tính cơ</strong> đứng trước NOUN thường <strong>nhấn mạnh đặc điểm</strong>.</li>
+					<li><strong>TÍNH</strong> đứng trước NOUN thường <strong>nhấn mạnh đặc điểm</strong>.</li>
 			
-					<li><strong>Danh cơ</strong> đứng trước phần mô tả thường <strong>nhấn mạnh đối tượng</strong>.</li>
+					<li><strong>DANH</strong> đứng trước phần mô tả thường <strong>nhấn mạnh đối tượng</strong>.</li>
 			
 				</ul>
 			
@@ -243,7 +243,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 			<p className="margin-top-20"><strong>Đối tượng trước</strong>, <strong>thông tin sau</strong>.</p>
 
-			<p><strong>Danh cơ trước</strong>, <strong>mô tả sau</strong>.</p>
+			<p><strong>DANH trước</strong>, <strong>mô tả sau</strong>.</p>
 
 			<p>Đột nhiên, tiếng Anh không còn xa lạ nữa.</p>
 
@@ -283,7 +283,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Adjective Clause</h4>
 					
-			<p className="text-indent-whole">Dùng để mở rộng danh cơ.</p>
+			<p className="text-indent-whole">Dùng để mở rộng DANH.</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -327,7 +327,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Noun Clause</h4>
 					
-			<p className="text-indent-whole">Dùng để biến một ý tưởng thành danh cơ.</p>
+			<p className="text-indent-whole">Dùng để biến một ý tưởng thành DANH.</p>
 			
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -355,7 +355,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Nó đồng bộ với cách tư duy tự nhiên của tiếng Việt:</p>
 
-			<p className="margin-y-30"><strong>Danh cơ trước</strong>, <strong>thông tin mô tả sau</strong>.</p>
+			<p className="margin-y-30"><strong>DANH trước</strong>, <strong>thông tin mô tả sau</strong>.</p>
 
 
 			<p>Khi làm chủ được điều này:</p>
@@ -386,7 +386,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Nhưng trong trường hợp này, có lẽ điều ngược lại mới đúng.</p>
 			
-			<p>Người Việt đã quen với mô hình: <strong>Danh cơ</strong> → <strong>Mô tả</strong></p>
+			<p>Người Việt đã quen với mô hình: <strong>DANH</strong> → <strong>Mô tả</strong></p>
 
 
 			<p>Đó chính là nền tảng của rất nhiều câu tiếng Anh tự nhiên.</p>
@@ -402,7 +402,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết Luận</h3>
 
-			<p>Phần lớn người học dành nhiều năm để ghi nhớ rằng ADjective trong tiếng Anh đứng trước danh cơ.</p>
+			<p>Phần lớn người học dành nhiều năm để ghi nhớ rằng ADjective trong tiếng Anh đứng trước DANH.</p>
 
 			<p>Điều đó đúng.</p>
 
@@ -410,7 +410,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Khi bước vào thế giới tiếng Anh thực sự, nơi các ý tưởng trở nên phong phú hơn và câu văn trở nên sâu sắc hơn, một mô hình khác bắt đầu xuất hiện liên tục:</p>
 
-			<p className="margin-y-20 "><strong>Danh cơ trước</strong>, <strong>thông tin mô tả sau</strong>.</p>
+			<p className="margin-y-20 "><strong>DANH trước</strong>, <strong>thông tin mô tả sau</strong>.</p>
 
 			<p>Và chính tại đây, tiếng Anh bất ngờ trở nên gần gũi với tiếng Việt hơn bao giờ hết.</p>
 

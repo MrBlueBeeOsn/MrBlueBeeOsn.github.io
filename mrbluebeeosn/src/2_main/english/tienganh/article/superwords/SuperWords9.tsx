@@ -17,7 +17,7 @@ export default function SuperWords9(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[BASE][PHRASE][CLAUSE]</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">[SUper VERB BASE]
+			<h1 className="margin-y-50 text-center">[SUper VERB]
 												
 				<sup><HashLink smooth to="/tieng-anh/super-words-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -67,7 +67,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Super-noun (Siêu Danh Cơ): Câu Con [Danh Cơ] - [Danh Cơ] Dài</h3>
+			<h3 className="margin-y-50 text-center">2. Super-noun (Siêu DANH): Câu Con [DANH] - [DANH] Dài</h3>
 
 			<p></p>
 
@@ -127,7 +127,7 @@ export default function SuperWords9(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Danh nhận của giới cơ (Object of Preposition)</h4>
+			<h4 className="margin-y-40">Danh nhận của GIỚI (Object of Preposition)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -185,7 +185,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Super-adjective (Siêu Tính Cơ): Câu Con [Tính Cơ] - [Tính Cơ] Dài</h3>
+			<h3 className="margin-y-50 text-center">3. Super-adjective (Siêu TÍNH): Câu Con [TÍNH] - [TÍNH] Dài</h3>
 
 			<p></p>
 
@@ -300,7 +300,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Super-adverb (Siêu Trạng Cơ): Câu Con [Trạng Cơ] - [Trạng Cơ] Dài</h3>
+			<h3 className="margin-y-50 text-center">4. Super-adverb (Siêu TRẠNG): Câu Con [TRẠNG] - [TRẠNG] Dài</h3>
 
 			<p></p>
 

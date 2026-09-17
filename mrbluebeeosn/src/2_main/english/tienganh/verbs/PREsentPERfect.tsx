@@ -25,7 +25,7 @@ export default function PREsentPERfect(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Là Gì?</h3>
 
-			<p>📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành được cấu tạo bởi <strong>have/has</strong> + <strong>động cơ ở dạng AST PARticiple</strong> (V3).</p>
+			<p>📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành được cấu tạo bởi <strong>have/has</strong> + <strong>ĐỘNG ở dạng AST PARticiple</strong> (V3).</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 

@@ -42,7 +42,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"toMAtoies"
 			],
 			correctAnswer: 2,
-			explanation: "Danh cơ tận cùng là -o (trước đó là một phụ âm) thường thêm -es để tạo thành số nhiều."
+			explanation: "DANH tận cùng là -o (trước đó là một phụ âm) thường thêm -es để tạo thành số nhiều."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"DOing"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ \"DO\" khi đi với danh chủ ngôi thứ ba số ít (she) sẽ thêm -ES thành \"DOES\"."
+			explanation: "ĐỘNG \"DO\" khi đi với danh chủ ngôi thứ ba số ít (she) sẽ thêm -ES thành \"DOES\"."
 		},
 		{
 			id: 4,
@@ -78,7 +78,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"FACtories"
 			],
 			correctAnswer: 1,
-			explanation: "Danh cơ tận cùng là phụ âm + -y, ta đổi -y thành -i rồi thêm -es."
+			explanation: "DANH tận cùng là phụ âm + -y, ta đổi -y thành -i rồi thêm -es."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"FIXing"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ tận cùng là -X khi chia ở ngôi thứ ba số ít ta thêm -es."
+			explanation: "ĐỘNG tận cùng là -X khi chia ở ngôi thứ ba số ít ta thêm -es."
 		},
 		{
 			id: 7,
@@ -114,7 +114,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"BOX"
 			],
 			correctAnswer: 2,
-			explanation: "Danh cơ tận cùng là -X thêm -es để tạo thành số nhiều."
+			explanation: "DANH tận cùng là -X thêm -es để tạo thành số nhiều."
 		},
 		{
 			id: 9,
@@ -126,7 +126,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"GOing"
 			],
 			correctAnswer: 1,
-			explanation: "Động cơ tận cùng là -O thêm -ES khi đi với danh chủ số ít (he)."
+			explanation: "ĐỘNG tận cùng là -O thêm -ES khi đi với danh chủ số ít (he)."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"MONkeyes"
 			],
 			correctAnswer: 0,
-			explanation: "Danh cơ tận cùng là nguyên âm (e) + -y, chúng ta chỉ cần thêm -s, không đổi thành -ies."
+			explanation: "DANH tận cùng là nguyên âm (e) + -y, chúng ta chỉ cần thêm -s, không đổi thành -ies."
 		}
 	];
 

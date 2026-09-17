@@ -90,7 +90,7 @@ export default function LegoAssembly3(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Head tích hợp</h4>
 					
-			<p className="text-indent-whole">Động cơ chính mang luôn thì</p>
+			<p className="text-indent-whole">ĐỘNG chính mang luôn thì</p>
 			
 				<ul className="list-square">
 			
@@ -146,7 +146,7 @@ export default function LegoAssembly3(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Sau Modal luôn là <strong>động cơ nguyên mẫu</strong>.</p>
+			<p className="margin-top-20 text-indent-whole">Sau Modal luôn là <strong>ĐỘNG nguyên mẫu</strong>.</p>
 
 			{/* 2.  */}
 

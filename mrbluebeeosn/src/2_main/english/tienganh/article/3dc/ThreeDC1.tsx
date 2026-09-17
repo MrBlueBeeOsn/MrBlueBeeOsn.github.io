@@ -53,15 +53,15 @@ export default function ThreeDC1(): React.ReactElement {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#NOUN-BASE">NOUN BASE</HashLink>
+						<HashLink smooth to="#NOUN-BASE">NOUN</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADjective-BASE">ADjective BASE</HashLink>
+						<HashLink smooth to="#ADjective-BASE">ADjective</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADverb-BASE">ADverb BASE</HashLink>
+						<HashLink smooth to="#ADverb-BASE">ADVERB</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -115,7 +115,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li><strong>Chiều dọc</strong> – <strong>4 Cấp độ Hình thái</strong>: [VERB BASE][ĐỘNG CƠ] → [VERB PHRASE][ĐỘNG CỤM] → [prepoSITional PHRASE][GIỚI CỤM] → [conJUNCtional CLAUSE][LIÊN CÂU]. Người học khi nhìn vào một câu chỉ cần nhận diện khối biểu hiện đang ở hình thái nào.</li>
+					<li><strong>Chiều dọc</strong> – <strong>4 Cấp độ Hình thái</strong>: [VERB][ĐỘNG] → [VERB PHRASE][ĐỘNG CỤM] → [prepoSITional PHRASE][GIỚI CỤM] → [conJUNCtional CLAUSE][LIÊN CÂU]. Người học khi nhìn vào một câu chỉ cần nhận diện khối biểu hiện đang ở hình thái nào.</li>
 			
 					<li><strong>Chiều ngang</strong> – <strong>3 Chức năng</strong>: [NOUN][DANH] / [ADjective][TÍNH] / [ADverb][TRẠNG]. Tùy thuộc vào vị trí đứng, các Hình thái trên sẽ "hóa thân" để thực thi một trong ba chức năng này.</li>
 			
@@ -126,7 +126,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 
-					<li><strong>Ở cấp độ</strong> [<strong>VERB BASE</strong>][<strong>ĐỘNG CƠ</strong>]: Sinh ra [NOUN BASE][DANH CƠ], [ADjective BASE][TÍNH CƠ], [ADverb BASE][TRẠNG CƠ].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>VERB</strong>][<strong>ĐỘNG</strong>]: Sinh ra [NOUN][DANH], [ADjective][TÍNH], [ADVERB][TRẠNG].</li>
 			
 					<li><strong>Ở cấp độ</strong> [<strong>VERB PHRASE</strong>][<strong>ĐỘNG CỤM</strong>]: Sinh ra [NOUN PHRASE][DANH CỤM], [ADjective PHRASE][TÍNH CỤM], [ADverb PHRASE][TRẠNG CỤM].</li>
 			
@@ -145,60 +145,60 @@ export default function ThreeDC1(): React.ReactElement {
 			<h3 className="margin-y-50 text-center">II. HỆ THỐNG PHÂN LOẠI VERB PHỨC HỢP THEO NHÓM</h3>
 
 
-			<p>Dưới đây là sơ đồ bóc tách cách các phân loại [VERB BASE][ĐỘNG CƠ] phối hợp để tạo nên các cấu hình thời gian và thái độ khác nhau thông qua các nhóm chức năng chuyên biệt:</p>
+			<p>Dưới đây là sơ đồ bóc tách cách các phân loại [VERB][ĐỘNG] phối hợp để tạo nên các cấu hình thời gian và thái độ khác nhau thông qua các nhóm chức năng chuyên biệt:</p>
           
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>TENSE VERB BASE</strong>][<strong>THỜI ĐỘNG CƠ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>TENSE VERB</strong>][<strong>THỜI ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm này dùng để chia mốc thời gian và trạng thái hoàn thành/tiếp diễn.</p>
 
         <ul className="list-square">
       
-          <li>be upGRADing → [Thời] be (am/is/are, was/were) + [Tiếp Động Cơ] upGRADing</li>
+          <li>be upGRADing → [Thời] be (am/is/are, was/were) + [HIỆN TIẾP ĐỘNG] upGRADing</li>
 
-          <li>have been reSTRUCturing → [Thời + Hoàn] have/has/had + been + [Tiếp Động Cơ] reSTRUCturing</li>
+          <li>have been reSTRUCturing → [Thời + Hoàn] have/has/had + been + [HIỆN TIẾP ĐỘNG] reSTRUCturing</li>
       
           <li>have VALidated → [Thời + Hoàn] have/has/had + VALidated</li>
       
-          <li>pioNEERS, pioNEERED → [Thời-Thuần Động Cơ] Tích hợp</li>
+          <li>pioNEERS, pioNEERED → [Thời-Thuần ĐỘNG] Tích hợp</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: [<strong>BARE VERB BASE</strong>][<strong>THUẦN ĐỘNG CƠ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: [<strong>BARE VERB</strong>][<strong>THUẦN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm dùng dạng nguyên bản, không chia.</p>
 
         <ul className="list-square">
       
-          <li>to coORdinate → [Hạt] to + [Thuần Động Cơ] coORdinate</li>
+          <li>to coORdinate → [Hạt] to + [Thuần ĐỘNG] coORdinate</li>
       
-          <li>DID conFIRM → [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] conFIRM</li>
+          <li>DID conFIRM → [Thời] did (Nhấn mạnh) + [Thuần ĐỘNG] conFIRM</li>
       
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>SOFT-MOdal BARE VERB BASE</strong>][<strong>Ý-THÁI THUẦN ĐỘNG CƠ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>SOFT-MOdal BARE VERB</strong>][<strong>Ý-THÁI THUẦN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm tình huống lịch sự, gợi ý: would (nhã nhặn), should (gợi ý), could (khả năng nhẹ), might (khả năng thấp), ought to (khuyên bảo), had better (khuyên nhủ).</p>
 
         <ul className="list-square">
       
-          <li>should STREAMline → [Ý-Thái] should (gợi ý) + [Thuần Động Cơ] STREAMline</li>
+          <li>should STREAMline → [Ý-Thái] should (gợi ý) + [Thuần ĐỘNG] STREAMline</li>
       
-          <li>could neGOtiate → [Ý-Thái] could (khả năng nhẹ) + [Thuần Động Cơ] neGOtiate</li>
+          <li>could neGOtiate → [Ý-Thái] could (khả năng nhẹ) + [Thuần ĐỘNG] neGOtiate</li>
       
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive-MOdal BARE VERB BASE</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG CƠ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive-MOdal BARE VERB</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm tình huống ép buộc, chắc chắn: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), have to (bắt buộc), may (khả năng).</p>
 
         <ul className="list-square">
       
-          <li>will IMplement → [Áp-Thái] will (cam kết) + [Thuần Động Cơ] IMplement</li>
+          <li>will IMplement → [Áp-Thái] will (cam kết) + [Thuần ĐỘNG] IMplement</li>
       
-          <li>must AUthorize → [Áp-Thái] must (ép buộc) + [Thuần Động Cơ] AUthorize</li>
+          <li>must AUthorize → [Áp-Thái] must (ép buộc) + [Thuần ĐỘNG] AUthorize</li>
       
         </ul>
 
@@ -212,52 +212,52 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ol>
       
-          <li value="1">[<strong>ROOT VERB BASE</strong>][<strong>RỄ ĐỘNG CƠ</strong>]: ANalyze, INnovate, transFORM</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
+          <li value="1">[<strong>ROOT VERB</strong>][<strong>RỄ ĐỘNG</strong>]: ANalyze, INnovate, transFORM</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng [ROOT VERB][RỄ ĐỘNG] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
       
-          <li value="2">[<strong>PARTicle VERB BASE</strong>][<strong>HẠT ĐỘNG CƠ</strong>]: to, UP, OUT, DOWN, OFF, ON, IN, aWAY, BACK, Over,...</li>
+          <li value="2">[<strong>PARTicle VERB</strong>][<strong>HẠT ĐỘNG</strong>]: to, UP, OUT, DOWN, OFF, ON, IN, aWAY, BACK, Over,...</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như UP, OUT, DOWN, OFF, ON, IN, aWAY, BACK, Over,... đơn lẻ đứng sau hành động để điều hướng không gian, hoàn tất hoặc biến đổi sắc thái ý nghĩa của hành động gốc.</li>
 
-          <li value="3">[<strong>TENSE VERB BASE</strong>][<strong>THỜI ĐỘNG CƠ</strong>]: does, did, is, has, was, am, are</li>
+          <li value="3">[<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / [Thời] trong câu.</li>
       
-          <li value="4">[<strong>SOFT-MOdal VERB BASE</strong>][<strong>Ý-THÁI ĐỘNG CƠ</strong>]: would, could, should, might, ought to, had BETter</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một [Phức Ý-Thái Động Cơ] [Complex Soft-Modal Verb Base] thống nhất.</li>
+          <li value="4">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might, ought to, had BETter</li>
+          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một [Phức Ý-Thái ĐỘNG] [Complex Soft-Modal VERB] thống nhất.</li>
 
-          <li value="5">[<strong>asSERTive-MOdal VERB BASE</strong>][<strong>ÁP-THÁI ĐỘNG CƠ</strong>]: will, shall, can, must, have to, may</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ] [Complex Assertive-Modal Verb Base] thống nhất.</li>
+          <li value="5">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, have to, may</li>
+          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái ĐỘNG] [Complex Assertive-Modal VERB] thống nhất.</li>
 
-          <li value="6">[<strong>BARE VERB BASE</strong>][<strong>THUẦN ĐỘNG CƠ</strong>]: ANalyze, INnovate, transFORM</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [PARTicle VERB BASE][HẠT ĐỘNG CƠ] "to", [SOFT-MOdal][Ý-THÁI] hay [asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ] hoặc [ROOT VERB BASE][RỄ ĐỘNG CƠ] MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL,...</li>
+          <li value="6">[<strong>BARE VERB</strong>][<strong>THUẦN ĐỘNG</strong>]: ANalyze, INnovate, transFORM</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [PARTicle VERB][HẠT ĐỘNG] "to", [SOFT-MOdal][Ý-THÁI] hay [asSERTive-MOdal VERB][ÁP-THÁI ĐỘNG] hoặc [ROOT VERB][RỄ ĐỘNG] MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL,...</li>
       
-          <li value="7">[<strong>PARTicle BARE VERB BASE</strong>][<strong>HẠT THUẦN ĐỘNG CƠ</strong>]: to ANalyze, to transFORM</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt Động Cơ] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
+          <li value="7">[<strong>PARTicle BARE VERB</strong>][<strong>HẠT THUẦN ĐỘNG</strong>]: to ANalyze, to transFORM</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt ĐỘNG] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
 
-          <li value="8">[<strong>SOFT-MOdal BARE VERB BASE</strong>][<strong>Ý-THÁI THUẦN ĐỘNG CƠ</strong>]: would transFORM, should ANalyze</li>
+          <li value="8">[<strong>SOFT-MOdal BARE VERB</strong>][<strong>Ý-THÁI THUẦN ĐỘNG</strong>]: would transFORM, should ANalyze</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>asSERTive-MOdal BARE VERB BASE</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG CƠ</strong>]: will transFORM, can ANalyze</li>
+          <li value="9">[<strong>asSERTive-MOdal BARE VERB</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG</strong>]: will transFORM, can ANalyze</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế xuống và hành động [Thuần] khiết.</li>
 
-          <li value="10">[<strong>TENSE BARE VERB BASE</strong>][<strong>THỜI THUẦN ĐỘNG CƠ</strong>]: DID ANalyze, DOES transFORM</li>
+          <li value="10">[<strong>TENSE BARE VERB</strong>][<strong>THỜI THUẦN ĐỘNG</strong>]: DID ANalyze, DOES transFORM</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu.</li>
 
-          <li value="11">[<strong>TENSE-BARE VERB BASE</strong>][<strong>THỜI-THUẦN ĐỘNG CƠ</strong>]: ANalyzed, ANalyzes, transFORMS</li>
+          <li value="11">[<strong>PAST TENSE VERB</strong>][<strong>QUÁ THỜI ĐỘNG</strong>], [<strong>3RD-PERson PRESent VERB</strong>][<strong>BA HIỆN ĐỘNG</strong>]: ANalyzed, ANalyzes, transFORMS</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] (Quá khứ/Hiện tại) và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
       
-          <li value="12">[<strong>proGRESSive VERB BASE</strong>][<strong>TIẾP ĐỘNG CƠ</strong>]: ANalyzing, INnovating, transFORMing</li>
+          <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: ANalyzing, INnovating, transFORMing</li>
           <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing thể hiện tính chất đang [Tiếp] diễn, kéo dài.</li>
 
-          <li value="13">[<strong>PERfect VERB BASE</strong>][<strong>HOÀN ĐỘNG CƠ</strong>]: ANalyzed, INnovated, been, transFORMED</li>
+          <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>QUÁ HOÀN ĐỘNG</strong>]: ANalyzed, INnovated, been, transFORMED</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành.</li>
       
-          <li value="14">[<strong>TENSE proGRESSive VERB BASE</strong>][<strong>THỜI TIẾP ĐỘNG CƠ</strong>]: is ANalyzing, was transFORMing</li>
+          <li value="14">[<strong>TENSE PRESent PARTiciple VERB</strong>][<strong>THỜI HIỆN TIẾP ĐỘNG</strong>]: is ANalyzing, was transFORMing</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
 
-          <li value="15">[<strong>TENSE PERfect VERB BASE</strong>][<strong>THỜI HOÀN ĐỘNG CƠ</strong>]: has ANalyzed, had transFORMED</li>
+          <li value="15">[<strong>TENSE PAST PARTiciple VERB</strong>][<strong>THỜI QUÁ HOÀN ĐỘNG</strong>]: has ANalyzed, had transFORMED</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] và hành động mang tính [Hoàn] thành.</li>
       
-          <li value="16">[<strong>TENSE PERfect proGRESSive VERB BASE</strong>][<strong>THỜI HOÀN TIẾP ĐỘNG CƠ</strong>]: has been ANalyzing, had been transFORMing</li>
+          <li value="16">[<strong>TENSE PERfect PRESent PARTiciple VERB</strong>][<strong>THỜI HOÀN HIỆN TIẾP ĐỘNG</strong>]: has been ANalyzing, had been transFORMing</li>
           <li className="list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
       
         </ol>
@@ -270,17 +270,17 @@ export default function ThreeDC1(): React.ReactElement {
 			
 			<p><strong>Quy tắc cốt lõi</strong>:</p>
 
-			<p className="margin-top-20">Khi bất kỳ họ [BASE][CƠ] nào (thuộc nhóm 16 mục trên) kéo theo các [OBject PROnoun][TÂN ĐẠI], [ADverb BASE][TRẠNG CƠ], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU] phía sau, toàn khối đó tự động chuyển đổi cấu trúc nội bộ và tái dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p className="margin-top-20">Khi bất kỳ họ [VERB][ĐỘNG] nào (thuộc nhóm 16 mục trên) kéo theo các [OBject PROnoun][TÂN ĐẠI], [ADVERB][TRẠNG], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU] phía sau, toàn khối đó tự động chuyển đổi cấu trúc nội bộ và tái dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
 			
 				<ul className="list-square">
 			
-					<li>Ví dụ 1: upGRADing [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] + the SYStem [OBject PROnoun][TÂN ĐẠI]</li>
-					<li className="margin-bottom-20 list-none">→ upGRADing the SYStem [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM].</li>
+					<li>Ví dụ 1: upGRADing [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] + the SYStem [OBject PROnoun][TÂN ĐẠI]</li>
+					<li className="margin-bottom-20 list-none">→ upGRADing the SYStem [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM].</li>
 			
-					<li>Ví dụ 2: to coORdinate [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] + efFIciently [ADverb BASE][TRẠNG CƠ]</li>
+					<li>Ví dụ 2: to coORdinate [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] + efFIciently [ADVERB][TRẠNG]</li>
 					<li className="margin-bottom-20 list-none">→ to coORdinate efFIciently [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM].</li>
 			
-					<li>Ví dụ 3: will IMplement [asSERTive-MOdal BARE VERB BASE][ÁP-THÁI THUẦN ĐỘNG CƠ] + the STRATegy [OBject PROnoun][TÂN ĐẠI]</li>
+					<li>Ví dụ 3: will IMplement [asSERTive-MOdal BARE VERB][ÁP-THÁI THUẦN ĐỘNG] + the STRATegy [OBject PROnoun][TÂN ĐẠI]</li>
 					<li className="list-none">→ will IMplement the STRATegy [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase].</li>
 			
 				</ul>
@@ -292,63 +292,63 @@ export default function ThreeDC1(): React.ReactElement {
 			<h3 className="margin-y-50 text-center">V. CÁC CẤP ĐỘ VẬN HÀNH THỰC TẾ QUA VÍ DỤ</h3>
 
 			
-			<h4 className="margin-y-40">1. Hình thái [ĐỘNG CƠ][VERB BASE]</h4>
+			<h4 className="margin-y-40">1. Hình thái [ĐỘNG][VERB]</h4>
 
 			<p className="text-indent-whole">Là đơn vị hành động hạt nhân nhỏ nhất, chỉ gồm đúng 1 từ. Vị trí đứng trong khối sẽ quyết định chức năng của khối hành động này:</p>
 
 
-			<p className="margin-top-20 text-indent-whole" id="NOUN-BASE"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CƠ</strong>][<strong>NOUN BASE</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-BASE"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH</strong>][<strong>NOUN</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>[JOGging] STRENGTHens the HEART.</li>
 					<li className="margin-bottom-20 list-none">[Việc chạy bộ] làm khỏe cơ tim.</li>
 			
-					<li className="list-none">Hình thái: Khối [JOGging] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "JOG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] đại diện cho một hành động biểu hiện khối cô đọng.</li>
+					<li className="list-none">Hình thái: Khối [JOGging] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "JOG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] đại diện cho một hành động biểu hiện khối cô đọng.</li>
 			
-					<li className="list-none">Chức năng: Khối [JOGging] - [NOUN BASE][DANH CƠ] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "STRENGTHens".</li>
+					<li className="list-none">Chức năng: Khối [JOGging] - [NOUN][DANH] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [3RD-PERson PRESent VERB][BA HIỆN ĐỘNG] "STRENGTHens".</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>DANH CƠ</strong>][<strong>NOUN BASE</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>DANH</strong>][<strong>NOUN</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>she enJOYS [SWIMming].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy thích [việc bơi lội].</li>
 			
-					<li className="list-none">Hình thái: Khối [SWIMming] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "SWIM" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] đại diện cho một hành động biểu hiện khối cô đọng.</li>
+					<li className="list-none">Hình thái: Khối [SWIMming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "SWIM" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] đại diện cho một hành động biểu hiện khối cô đọng.</li>
 			
-					<li className="list-none">Chức năng: Khối [SWIMming] - [NOUN BASE][DANH CƠ] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "enJOYS".</li>
+					<li className="list-none">Chức năng: Khối [SWIMming] - [NOUN][DANH] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [3RD-PERson PRESent VERB][BA HIỆN ĐỘNG] "enJOYS".</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADjective-BASE"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-BASE"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADjective</strong>][<strong>TÍNH</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>we NEED a [CUStomized] soLUtion.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi cần một giải pháp [được thiết kế riêng].</li>
 			
-					<li className="list-none">Hình thái: Khối [CUStomized] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "CUStomize" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] mang đặc tính bị động, hoàn tất.</li>
+					<li className="list-none">Hình thái: Khối [CUStomized] - [PAST PARTiciple VERB][QUÁ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "CUStomize" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] mang đặc tính bị động, hoàn tất.</li>
 			
-					<li className="list-none">Chức năng: Khối [CUStomized] - [ADjective BASE][TÍNH CƠ] đứng ngay trước một thực thể để biểu thị đặc tính và bổ nghĩa cho thực thể đó.</li>
+					<li className="list-none">Chức năng: Khối [CUStomized] - [ADjective][TÍNH] đứng ngay trước một thực thể để biểu thị đặc tính và bổ nghĩa cho thực thể đó.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADverb-BASE"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-BASE"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADVERB</strong>][<strong>TRẠNG</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>the SYStem FAILED [unexPECtedly] FAST.</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã trục trặc nhanh [một cách bất ngờ].</li>
 			
-					<li className="list-none">Hình thái: Khối [unexPECtedly] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "exPECT" mặc thêm (kết hợp) tiền tố phủ định "un-" cùng tổ hợp các hậu tố biến đổi trạng thái "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] biểu thị hoàn cảnh trạng thái đặc biệt.</li>
+					<li className="list-none">Hình thái: Khối [unexPECtedly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "exPECT" mặc thêm (kết hợp) tiền tố phủ định "un-" cùng tổ hợp các hậu tố biến đổi trạng thái "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] biểu thị hoàn cảnh trạng thái đặc biệt.</li>
 			
-					<li className="list-none">Chức năng: Khối [unexPECtedly] - [ADverb BASE][TRẠNG CƠ] đứng trước để biểu thị mức độ, tính chất bối cảnh và bổ nghĩa trực tiếp cho từ mô tả đặc tính nhanh đứng liền phía sau.</li>
+					<li className="list-none">Chức năng: Khối [unexPECtedly] - [ADVERB][TRẠNG] đứng trước để biểu thị mức độ, tính chất bối cảnh và bổ nghĩa trực tiếp cho từ mô tả đặc tính nhanh đứng liền phía sau.</li>
 			
 				</ul>
 			
@@ -365,7 +365,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>it TAKES exCEPtional negotiAtion SKILLS [to seCURE this CONtract].</li>
 					<li className="margin-bottom-20 list-none">Cần có kỹ năng đàm phán xuất sắc [để đạt được hợp đồng này].</li>
 			
-					<li className="list-none">Hình thái: Khối [to seCURE this CONtract] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "to seCURE" kéo theo một [OBject PROnoun][TÂN ĐẠI] phía sau.</li>
+					<li className="list-none">Hình thái: Khối [to seCURE this CONtract] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to seCURE" kéo theo một [OBject PROnoun][TÂN ĐẠI] phía sau.</li>
 			
 					<li className="list-none">Chức năng: Khối [to seCURE this CONtract] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "TAKES exCEPtional negotiAtion SKILLS" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
 			
@@ -379,9 +379,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the MANagement reSOLVED [to LIQuidate the underperFORming ASsets].</li>
 					<li className="margin-bottom-20 list-none">Ban quản lý đã quyết định [thanh lý các tài sản kém hiệu quả].</li>
 			
-					<li className="list-none">Hình thái: Khối [to LIQuidate the underperFORming ASsets] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "to LIQuidate" kéo theo một cụm [OBject PROnoun][TÂN ĐẠI] phức hợp phía sau.</li>
+					<li className="list-none">Hình thái: Khối [to LIQuidate the underperFORming ASsets] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to LIQuidate" kéo theo một cụm [OBject PROnoun][TÂN ĐẠI] phức hợp phía sau.</li>
 			
-					<li className="list-none">Chức năng: Khối [to LIQuidate the underperFORming ASsets] - [NOUN PHRASE][DANH CỤM] làm khối [OBject PROnoun][TÂN ĐẠI] mục tiêu cần thực hiện, đứng sau chịu sự điều phối của [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reSOLVED".</li>
+					<li className="list-none">Chức năng: Khối [to LIQuidate the underperFORming ASsets] - [NOUN PHRASE][DANH CỤM] làm khối [OBject PROnoun][TÂN ĐẠI] mục tiêu cần thực hiện, đứng sau chịu sự điều phối của [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "reSOLVED".</li>
 			
 				</ul>
 			
@@ -393,7 +393,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the OFficer [SUpervising the AUdit] deTECted a disCREPancy.</li>
 					<li className="margin-bottom-20 list-none">Người viên chức [đang giám sát việc kiểm toán] đã phát hiện ra một sự bất nhất.</li>
 			
-					<li className="list-none">Hình thái: Khối [SUpervising the AUdit] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng một [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] "SUpervising" kết hợp với một [OBject PROnoun][TÂN ĐẠI] phía sau.</li>
+					<li className="list-none">Hình thái: Khối [SUpervising the AUdit] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng một [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "SUpervising" kết hợp với một [OBject PROnoun][TÂN ĐẠI] phía sau.</li>
 			
 					<li className="list-none">Chức năng: Khối [SUpervising the AUdit] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau thực thể "the OFficer" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
 			
@@ -407,16 +407,16 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>he atTENDS WORKshops [to reFINE his LEADership STYLE].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy tham gia các hội thảo [để trau dồi phong cách lãnh đạo].</li>
 			
-					<li className="list-none">Hình thái: Khối [to reFINE his LEADership STYLE] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "to reFINE" kéo theo một cụm [OBject PROnoun][TÂN ĐẠI] làm thành phần bổ trợ.</li>
+					<li className="list-none">Hình thái: Khối [to reFINE his LEADership STYLE] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to reFINE" kéo theo một cụm [OBject PROnoun][TÂN ĐẠI] làm thành phần bổ trợ.</li>
 			
-					<li className="list-none">Chức năng: Khối [to reFINE his LEADership STYLE] - [ADverb PHRASE][TRẠNG CỤM] đứng cuối nhằm giải thích bối cảnh mục đích cho hành động tham gia được vận hành bởi [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "atTENDS".</li>
+					<li className="list-none">Chức năng: Khối [to reFINE his LEADership STYLE] - [ADverb PHRASE][TRẠNG CỤM] đứng cuối nhằm giải thích bối cảnh mục đích cho hành động tham gia được vận hành bởi [3RD-PERson PRESent VERB][BA HIỆN ĐỘNG] "atTENDS".</li>
 			
 				</ul>
 
 
 			<h4 className="margin-y-40">3. Hình thái [GIỚI CỤM][PREPOSITIONAL PHRASE]</h4>
 
-			<p className="text-indent-whole">Là khối không bắt đầu bằng một từ hành động, mà được định hình bắt đầu bằng một [prepoSITional BASE][GIỚI CƠ] chỉ quan hệ kết hợp với một [OBject PROnoun][TÂN ĐẠI] phía sau.</p>
+			<p className="text-indent-whole">Là khối không bắt đầu bằng một từ hành động, mà được định hình bắt đầu bằng một [prepoSITion][GIỚI] chỉ quan hệ kết hợp với một [OBject PROnoun][TÂN ĐẠI] phía sau.</p>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
 			
@@ -425,7 +425,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the OFfice [on the TOP FLOOR] has panoRAMic VIEWS.</li>
 					<li className="margin-bottom-20 list-none">Văn phòng [ở tầng trên cùng] có tầm nhìn toàn cảnh.</li>
 			
-					<li className="list-none">Hình thái: Khối [on the TOP FLOOR] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITional BASE][GIỚI CƠ] "on" liên kết quan hệ không gian trực tiếp với cụm [OBject PROnoun][TÂN ĐẠI] "the TOP FLOOR".</li>
+					<li className="list-none">Hình thái: Khối [on the TOP FLOOR] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "on" liên kết quan hệ không gian trực tiếp với cụm [OBject PROnoun][TÂN ĐẠI] "the TOP FLOOR".</li>
 			
 					<li className="list-none">Chức năng: Khối [on the TOP FLOOR] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sát ngay sau khối biểu thị thực thể "the OFfice" để bổ nghĩa chỉ bối cảnh vị trí đặc trưng cho văn phòng đó.</li>
 			
@@ -439,7 +439,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SYStem upDATES autoMATically [at MIDnight].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống tự động cập nhật [vào lúc nửa đêm].</li>
 			
-					<li className="list-none">Hình thái: Khối [at MIDnight] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITional BASE][GIỚI CƠ] "at" liên kết quan hệ thời gian trực tiếp với [OBject PROnoun][TÂN ĐẠI] "MIDnight".</li>
+					<li className="list-none">Hình thái: Khối [at MIDnight] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "at" liên kết quan hệ thời gian trực tiếp với [OBject PROnoun][TÂN ĐẠI] "MIDnight".</li>
 			
 					<li className="list-none">Chức năng: Khối [at MIDnight] - [ADverb PHRASE][TRẠNG CỤM] đứng cuối câu nhằm bổ nghĩa hoàn cảnh mốc thời gian diễn ra hành động cập nhật của hệ thống.</li>
 			
@@ -449,7 +449,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">4. Hình thái [LIÊN CÂU][CONJUNCTIONAL CLAUSE]</h4>
 
-			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [SUBject PROnoun][CHỦ ĐẠI] và các cấu hình [VERB BASE][ĐỘNG CƠ] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [conJUNCtional BASE][LIÊN CƠ] tường minh:</p>
+			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [SUBject PROnoun][CHỦ ĐẠI] và các cấu hình [VERB][ĐỘNG] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [conJUNCtion][LIÊN] tường minh:</p>
 
 
 			<p className="text-indent-whole" id="NOUN-CLAUSE"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
@@ -459,9 +459,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[HOW the TEAM seCURES the FUNding] reMAINS a CRITical QUEStion.</li>
 					<li className="margin-bottom-20 list-none">[Cách mà đội ngũ đảm bảo nguồn vốn] vẫn là một câu hỏi then chốt.</li>
 			
-					<li className="list-none">Hình thái: Khối  [HOW the TEAM seCURES the FUNding] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "HOW" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "seCURES".</li>
+					<li className="list-none">Hình thái: Khối  [HOW the TEAM seCURES the FUNding] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "HOW" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và [3RD-PERson PRESent VERB][BA HIỆN ĐỘNG] "seCURES".</li>
 			
-					<li className="list-none">Chức năng: Khối  [HOW the TEAM seCURES the FUNding] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước điều phối [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reMAINS".</li>
+					<li className="list-none">Chức năng: Khối  [HOW the TEAM seCURES the FUNding] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước điều phối [3RD-PERson PRESent VERB][BA HIỆN ĐỘNG] "reMAINS".</li>
 			
 				</ul>
 
@@ -473,9 +473,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the aNALysis reVEALED [that the ALgorithm posSESSED a BIas].</li>
 					<li className="margin-bottom-20 list-none">Kết quả phân tích cho thấy [rằng thuật toán đã có một sự thiên vị].</li>
 			
-					<li className="list-none">Hình thái: Khối [that the ALgorithm posSESSED a BIas] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "that" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the ALgorithm" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "posSESSED".</li>
+					<li className="list-none">Hình thái: Khối [that the ALgorithm posSESSED a BIas] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "that" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the ALgorithm" và [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "posSESSED".</li>
 			
-					<li className="list-none">Chức năng: Khối [that the ALgorithm posSESSED a BIas] - [NOUN CLAUSE][DANH CÂU] làm khối [OBject PROnoun][TÂN ĐẠI] chịu tác động trực tiếp đứng sau điều phối của [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reVEALED".</li>
+					<li className="list-none">Chức năng: Khối [that the ALgorithm posSESSED a BIas] - [NOUN CLAUSE][DANH CÂU] làm khối [OBject PROnoun][TÂN ĐẠI] chịu tác động trực tiếp đứng sau điều phối của [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "reVEALED".</li>
 			
 				</ul>
 			
@@ -487,7 +487,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SOFTware [which the TEAM dePLOYED LAST NIGHT] CRASHED.</li>
 					<li className="margin-bottom-20 list-none">Phần mềm [mà đội ngũ đã triển khai đêm qua] đã gặp sự cố.</li>
 			
-					<li className="list-none">Hình thái: Khối [which the TEAM dePLOYED LAST NIGHT] - [OBject PROnoun CLAUSE][TÂN ĐẠI CÂU] bắt đầu bằng [OBject PROnoun BASE][TÂN ĐẠI CƠ] quan hệ "which" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "dePLOYED".</li>
+					<li className="list-none">Hình thái: Khối [which the TEAM dePLOYED LAST NIGHT] - [OBject PROnoun CLAUSE][TÂN ĐẠI CÂU] bắt đầu bằng [OBject PRONOUN][TÂN ĐẠI] quan hệ "which" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "dePLOYED".</li>
 			
 					<li className="list-none">Chức năng: Khối [which the TEAM dePLOYED LAST NIGHT] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm ngay sau thực thể "the SOFTware" để bổ nghĩa chi tiết cho thực thể đó.</li>
 			
@@ -501,9 +501,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>we will HALT proDUCtion [un<strong>less</strong> the QUAlity STANdard imPROVES].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ dừng sản xuất [ngoại trừ khi tiêu chuẩn chất lượng cải thiện].</li>
 			
-					<li className="list-none">Hình thái: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the QUAlity STANdard" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "imPROVES".</li>
+					<li className="list-none">Hình thái: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the QUAlity STANdard" và [3RD-PERson PRESent VERB][BA HIỆN ĐỘNG] "imPROVES".</li>
 			
-					<li className="list-none">Chức năng: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [ADverb CLAUSE][TRẠNG CÂU] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ] "will".</li>
+					<li className="list-none">Chức năng: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [ADverb CLAUSE][TRẠNG CÂU] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [asSERTive-MOdal VERB][ÁP-THÁI ĐỘNG] "will".</li>
 			
 				</ul>
 
@@ -512,7 +512,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">VI. HIỆN TƯỢNG [ẨN LIÊN CÂU][ZERO CONJUNCTIONAL CLAUSE]</h3>
 
-			<p>Trong thực tế, rất nhiều khối [conJUNCtional CLAUSE][LIÊN CÂU] được lược bỏ hoàn toàn [conJUNCtional BASE][LIÊN CƠ] dẫn dắt. Lúc này, khối biểu hiện có hình thái bề ngoài giống hệt như một câu độc lập, nhưng chúng bắt buộc phải gắn kết chặt chẽ vào hệ thống để thực thi các chức năng cốt lõi:</p>
+			<p>Trong thực tế, rất nhiều khối [conJUNCtional CLAUSE][LIÊN CÂU] được lược bỏ hoàn toàn [conJUNCtion][LIÊN] dẫn dắt. Lúc này, khối biểu hiện có hình thái bề ngoài giống hệt như một câu độc lập, nhưng chúng bắt buộc phải gắn kết chặt chẽ vào hệ thống để thực thi các chức năng cốt lõi:</p>
 
 
 			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>]:</p>
@@ -522,9 +522,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the exECutive asSUMED [the BOARD would apPROVE the BUDget].</li>
 					<li className="margin-bottom-20 list-none">Vị giám đốc điều hành đã giả định [ban quản trị sẽ phê duyệt ngân sách].</li>
 			
-					<li className="list-none">Hình thái: Khối [the BOARD would apPROVE the BUDget] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] lồng ghép trực tiếp đứng sau hành động chính mà không cần sự hỗ trợ của [conJUNCtional BASE][LIÊN CƠ] "that".</li>
+					<li className="list-none">Hình thái: Khối [the BOARD would apPROVE the BUDget] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] lồng ghép trực tiếp đứng sau hành động chính mà không cần sự hỗ trợ của [conJUNCtion][LIÊN] "that".</li>
 			
-					<li className="list-none">Chức năng: Khối [the BOARD would apPROVE the BUDget] thực thi chức năng [NOUN CLAUSE][DANH CÂU] làm nhiệm vụ của một [OBject PROnoun][TÂN ĐẠI] chịu tác động trực tiếp đứng sau sự điều phối của [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] asSUMED.</li>
+					<li className="list-none">Chức năng: Khối [the BOARD would apPROVE the BUDget] thực thi chức năng [NOUN CLAUSE][DANH CÂU] làm nhiệm vụ của một [OBject PROnoun][TÂN ĐẠI] chịu tác động trực tiếp đứng sau sự điều phối của [PAST TENSE VERB][QUÁ THỜI ĐỘNG] asSUMED.</li>
 			
 				</ul>
 			
@@ -536,7 +536,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the MENtor [i conSULted YESterday] proVIded inVALuable adVICE.</li>
 					<li className="margin-bottom-20 list-none">Người cố vấn [tôi đã xin ý kiến ngày hôm qua] đã đưa ra lời khuyên vô giá.</li>
 			
-					<li className="list-none">Hình thái: Khối [i conSULted YESterday] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] có sự lược bỏ [ZEro-OBject PROnoun BASE][ẨN-TÂN ĐẠI CƠ] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong.</li>
+					<li className="list-none">Hình thái: Khối [i conSULted YESterday] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] có sự lược bỏ [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong.</li>
 			
 					<li className="list-none">Chức năng: Khối [i conSULted YESterday] thực thi chức năng [ADjective CLAUSE][TÍNH CÂU] đứng ôm ngay sau thực thể "the MENtor" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
 			
@@ -550,7 +550,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the HIGHer the PRESsure RIses, [the FASter the CHEMical reACTS].</li>
 					<li className="margin-bottom-20 list-none">Áp suất càng tăng cao, [hóa chất càng phản ứng nhanh hơn].</li>
 			
-					<li className="list-none">Hình thái: Khối [the FASter the CHEMical reACTS] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] mang cấu trúc so sánh lũy tiến song hành đặc trưng nhưng không sử dụng [conJUNCtional BASE][LIÊN CƠ] phụ thuộc truyền thống.</li>
+					<li className="list-none">Hình thái: Khối [the FASter the CHEMical reACTS] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] mang cấu trúc so sánh lũy tiến song hành đặc trưng nhưng không sử dụng [conJUNCtion][LIÊN] phụ thuộc truyền thống.</li>
 			
 					<li className="list-none">Chức năng: Khối [the FASter the CHEMical reACTS] thực thi chức năng [ADverb CLAUSE][TRẠNG CÂU] đóng vai trò một khối bối cảnh tương quan hệ quả để bổ nghĩa bối cảnh hệ quả cho vế điều kiện phía trước.</li>
 			
@@ -577,13 +577,13 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối bao ngoài [to underSTAND {'{why the SPEcies went exTINCT}'}] là một [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "to underSTAND".</li>
+					<li className="list-none">Khối bao ngoài [to underSTAND {'{why the SPEcies went exTINCT}'}] là một [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to underSTAND".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{why the SPEcies went exTINCT}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Khối {'{why the SPEcies went exTINCT}'} bên trong đóng vai trò là [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối của [BARE VERB BASE][THUẦN ĐỘNG CƠ] "underSTAND".</li>
+					<li className="list-none">Khối {'{why the SPEcies went exTINCT}'} bên trong đóng vai trò là [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối của [BARE VERB][THUẦN ĐỘNG] "underSTAND".</li>
 
 					<li className="list-none">Toàn bộ khối hỗn hợp [to underSTAND {'{why the SPEcies went exTINCT}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò tổng thể làm khối [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] deMANDS sciencTIFic REsearch để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] It.</li>
 			
@@ -599,15 +599,15 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối bao ngoài [to DEMonstrate {'{HOW the DRUG WORKS}'}] là một [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "to DEMonstrate".</li>
+					<li className="list-none">Khối bao ngoài [to DEMonstrate {'{HOW the DRUG WORKS}'}] là một [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to DEMonstrate".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{HOW the DRUG WORKS}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "HOW".</li>
+					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{HOW the DRUG WORKS}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "HOW".</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Khối {'{HOW the DRUG WORKS}'} bên trong đóng vai trò là [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [BARE VERB BASE][THUẦN ĐỘNG CƠ] "DEMonstrate".</li>
+					<li className="list-none">Khối {'{HOW the DRUG WORKS}'} bên trong đóng vai trò là [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [BARE VERB][THUẦN ĐỘNG] "DEMonstrate".</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [to DEMonstrate {'{HOW the DRUG WORKS}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò tổng thể làm khối [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] HOPE.</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [to DEMonstrate {'{HOW the DRUG WORKS}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò tổng thể làm khối [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [BARE VERB][THUẦN ĐỘNG] HOPE.</li>
 			
 				</ul>
 			
@@ -622,13 +622,13 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [over {'{whether the COMpany should MERGE}'}] là một [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] bắt đầu bằng [prepoSITional BASE][GIỚI CƠ] "over".</li>
+					<li className="list-none">Khối tổng thể [over {'{whether the COMpany should MERGE}'}] là một [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "over".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{whether the COMpany should MERGE}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] được mở đầu bằng [conJUNCtional BASE][LIÊN CƠ] "whether".</li>
+					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{whether the COMpany should MERGE}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] được mở đầu bằng [conJUNCtion][LIÊN] "whether".</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Khối {'{whether the COMpany should MERGE}'} bên trong thực thi chức năng [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] nhận quan hệ trực tiếp đứng sau [prepoSITional BASE][GIỚI CƠ] over.</li>
+					<li className="list-none">Khối {'{whether the COMpany should MERGE}'} bên trong thực thi chức năng [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] nhận quan hệ trực tiếp đứng sau [prepoSITion][GIỚI] over.</li>
 
 					<li className="list-none">Toàn bộ khối hỗn hợp [over {'{whether the COMpany should MERGE}'}] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm the disPUTE.</li>
 
@@ -645,15 +645,15 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [be<strong>cause</strong> of {'{HOW FREquently the SERver CRASHED}'}] là một [TIERed COMplex prepoSITional PHRASE][TẦNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITional BASE][PHỨC GIỚI CƠ] "be<strong>cause</strong> of".</li>
+					<li className="list-none">Khối tổng thể [be<strong>cause</strong> of {'{HOW FREquently the SERver CRASHED}'}] là một [TIERed COMplex prepoSITional PHRASE][TẦNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{HOW FREquently the SERver CRASHED}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng tổ hợp tuyến tính gồm [conJUNCtional BASE][LIÊN CƠ] "HOW" kết hợp cùng [ADverb BASE][TRẠNG CƠ] "FREquently".</li>
+					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{HOW FREquently the SERver CRASHED}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng tổ hợp tuyến tính gồm [conJUNCtion][LIÊN] "HOW" kết hợp cùng [ADVERB][TRẠNG] "FREquently".</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Khối {'{HOW FREquently the SERver CRASHED}'} bên trong thực thi chức năng [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] nhận quan hệ trực tiếp đứng sau [COMplex prepoSITional BASE][PHỨC GIỚI CƠ] be<strong>cause</strong> of.</li>
+					<li className="list-none">Khối {'{HOW FREquently the SERver CRASHED}'} bên trong thực thi chức năng [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] nhận quan hệ trực tiếp đứng sau [COMplex prepoSITion][PHỨC GIỚI] be<strong>cause</strong> of.</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [be<strong>cause</strong> of {'{HOW FREquently the SERver CRASHED}'}] thực thi chức năng [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] rediSIGNED.</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [be<strong>cause</strong> of {'{HOW FREquently the SERver CRASHED}'}] thực thi chức năng [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho [PAST TENSE VERB][QUÁ THỜI ĐỘNG] rediSIGNED.</li>
 			
 				</ul>
 	
@@ -674,7 +674,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SYStem CRASHED [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [vì nhiệt độ bên trong leo thang nhanh chóng].</li>
 			
-					<li className="list-none">Hình thái: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "be<strong>cause</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the inTERnal TEMPERature" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "EScalated".</li>
+					<li className="list-none">Hình thái: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "be<strong>cause</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the inTERnal TEMPERature" và [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "EScalated".</li>
 			
 					<li className="list-none">Chức năng: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [ADverb CLAUSE][TRẠNG CÂU] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "CRASHED".</li>
 			
@@ -683,16 +683,16 @@ export default function ThreeDC1(): React.ReactElement {
 			
 			<p className="margin-y-30 text-indent-whole"><strong>Viết lại 1</strong></p>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>MODified ADverb BASE</strong>][<strong>DIỆN TRẠNG CƠ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>MODified ADVERB</strong>][<strong>DIỆN TRẠNG</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>[acCORDingly], the SYStem CRASHED.</li>
 					<li className="margin-bottom-20 list-none">[Theo đó / Do vậy], hệ thống đã bị sập.</li>
 			
-					<li className="list-none">Hình thái: Khối [acCORDingly] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "acCORD" mặc thêm (kết hợp) hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] bối cảnh độc lập.</li>
+					<li className="list-none">Hình thái: Khối [acCORDingly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "acCORD" mặc thêm (kết hợp) hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] bối cảnh độc lập.</li>
 			
-					<li className="list-none">Chức năng: Khối [acCORDingly] - [ADverb BASE][TRẠNG CƠ] đứng biệt lập ở đầu câu để bổ nghĩa liên kết logic hệ quả cho toàn bộ nhận định phía sau.</li>
+					<li className="list-none">Chức năng: Khối [acCORDingly] - [ADVERB][TRẠNG] đứng biệt lập ở đầu câu để bổ nghĩa liên kết logic hệ quả cho toàn bộ nhận định phía sau.</li>
 			
 				</ul>
 
@@ -706,7 +706,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SYStem CRASHED [due to the RAPid TEMPERature escaLAtion].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [do sự leo thang nhiệt độ nhanh chóng].</li>
 			
-					<li className="list-none">Hình thái: Khối [due to the RAPid TEMPERature escaLAtion] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITional BASE][PHỨC GIỚI CƠ] "due to" điều phối một cấu trúc biểu thị thực thể phức hợp phía sau.</li>
+					<li className="list-none">Hình thái: Khối [due to the RAPid TEMPERature escaLAtion] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to" điều phối một cấu trúc biểu thị thực thể phức hợp phía sau.</li>
 			
 					<li className="list-none">Chức năng: Khối [due to the RAPid TEMPERature escaLAtion] - [ADverb PHRASE][TRẠNG CỤM] thực hiện chức năng cung cấp bối cảnh nguyên nhân rút gọn cho hành động chính "CRASHED".</li>
 			
@@ -725,7 +725,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the CODE [which acCELerates the RENdering PROcess] reQUIres optimiZAtion.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [mà tăng tốc quy trình kết xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: Khối [which acCELerates the RENdering PROcess] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] bắt đầu bằng [SUBject PROnoun BASE][CHỦ ĐẠI CƠ] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates".</li>
+					<li className="list-none">Hình thái: Khối [which acCELerates the RENdering PROcess] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates".</li>
 			
 					<li className="list-none">Chức năng: Khối [which acCELerating the RENdering PROcess] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể "the CODE".</li>
 			
@@ -735,16 +735,16 @@ export default function ThreeDC1(): React.ReactElement {
 			
 			<p className="margin-y-30 text-indent-whole"><strong>Viết lại 1</strong></p>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>MODified ADjective BASE</strong>][<strong>DIỆN TÍNH CƠ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>MODified ADjective</strong>][<strong>DIỆN TÍNH</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the [RENdering-acCELerating] CODE reQUIres optimiZAtion.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [tăng-tốc-kết-xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: Khối [RENdering-acCELerating] - [MODified ADjective BASE][DIỆN TÍNH CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "acCELerate" mặc thêm (kết hợp) tiền tố thành phần [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] "RENdering-" và hậu tố "-ING" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] có cấu hình ghép.</li>
+					<li className="list-none">Hình thái: Khối [RENdering-acCELerating] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "acCELerate" mặc thêm (kết hợp) tiền tố thành phần [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "RENdering-" và hậu tố "-ING" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] có cấu hình ghép.</li>
 			
-					<li className="list-none">Chức năng: Khối [RENdering-acCELerating] - [ADjective BASE][TÍNH CƠ] đứng trực tiếp phía trước để bổ nghĩa đặc tính vận hành cho khối biểu thị thực thể "CODE".</li>
+					<li className="list-none">Chức năng: Khối [RENdering-acCELerating] - [ADjective][TÍNH] đứng trực tiếp phía trước để bổ nghĩa đặc tính vận hành cho khối biểu thị thực thể "CODE".</li>
 			
 				</ul>
 			
@@ -752,14 +752,14 @@ export default function ThreeDC1(): React.ReactElement {
 			
 			<p className="margin-y-30 text-indent-whole"><strong>Viết lại 2</strong></p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>proGRESSive VERB PHRASE</strong>][<strong>TIẾP ĐỘNG CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>PRESent PARTiciple VERB PHRASE</strong>][<strong>HIỆN TIẾP ĐỘNG CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the CODE [acCELerating the RENdering PROcess] reQUIres optimiZAtion.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [đang tăng tốc quy trình kết xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: Khối [acCELerating the RENdering PROcess] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng phân từ đuôi "-ing" và có thành phần bổ trợ đi kèm.</li>
+					<li className="list-none">Hình thái: Khối [acCELerating the RENdering PROcess] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng phân từ đuôi "-ing" và có thành phần bổ trợ đi kèm.</li>
 			
 					<li className="list-none">Chức năng: Khối [acCELerating the RENdering PROcess] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sau bổ nghĩa rút gọn cho khối biểu thị thực thể "the CODE".</li>
 			
@@ -778,7 +778,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the PROgrammer disCOVered  [how he could BYpass the seCUrity FIREwall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách mà anh ấy có thể vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: Khối  [how he could BYpass the seCUrity FIREwall] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "HOW" lồng khối chủ vị hoàn chỉnh có [SOFT-MOdal BARE VERB BASE][Ý-THÁI THUẦN ĐỘNG CƠ] "could".</li>
+					<li className="list-none">Hình thái: Khối  [how he could BYpass the seCUrity FIREwall] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "HOW" lồng khối chủ vị hoàn chỉnh có [SOFT-MOdal BARE VERB][Ý-THÁI THUẦN ĐỘNG] "could".</li>
 			
 					<li className="list-none">Chức năng: Khối  [how he could BYpass the seCUrity FIREwall] - [NOUN CLAUSE][DANH CÂU] làm khối [OBject PROnoun][TÂN ĐẠI] nhận tác động trực tiếp của hành động "disCOVered".</li>
 			
@@ -794,7 +794,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the PROgrammer disCOVered  [how to BYpass the seCUrity FIREwall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: Khối  [how to BYpass the seCUrity FIREwall] - [Liên Cụm][Conjunctional Phrase] bắt đầu bằng biểu hiện nghi vấn [conJUNCtional BASE][LIÊN CƠ] "HOW" dẫn dắt trực tiếp một cấu trúc hành động dạng "to + bare verb".</li>
+					<li className="list-none">Hình thái: Khối  [how to BYpass the seCUrity FIREwall] - [Liên Cụm][Conjunctional Phrase] bắt đầu bằng biểu hiện nghi vấn [conJUNCtion][LIÊN] "HOW" dẫn dắt trực tiếp một cấu trúc hành động dạng "to + bare verb".</li>
 			
 					<li className="list-none">Chức năng: Khối  [how to BYpass the seCUrity FIREwall] - [NOUN PHRASE][DANH CỤM] làm khối [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối của hành động "disCOVered".</li>
 			
@@ -806,28 +806,28 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">IX. TUYỆT CHIÊU PHÂN BIỆT [LIÊN CÂU][CONJUNCTIONAL CLAUSE] THẦN TỐC BẰNG MẸO [THẾ THÂN]</h3>
 
-			<p>Khi gặp các khối [conJUNCtional CLAUSE][LIÊN CÂU] có hình thái giống hệt nhau (ví dụ: đều bắt đầu bằng một từ đa năng làm [conJUNCtional BASE][LIÊN CƠ] như that, when, where), người học rất dễ bị bối rối.</p>
+			<p>Khi gặp các khối [conJUNCtional CLAUSE][LIÊN CÂU] có hình thái giống hệt nhau (ví dụ: đều bắt đầu bằng một từ đa năng làm [conJUNCtion][LIÊN] như that, when, where), người học rất dễ bị bối rối.</p>
 
 			<p>Hãy áp dụng ngay phương pháp [<strong>Thế thân</strong>][<strong>Substitution</strong>] dựa trên nguyên lý thay thế bằng một khối từ mức độ [BASE][CƠ] cơ bản:</p>
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20 list-none">Nếu thế thế thân bằng một [ADverb BASE][TRẠNG CƠ] đơn lẻ (THEN, THERE) thành công</li>
+					<li className="margin-bottom-20 list-none">Nếu thế thế thân bằng một [ADVERB][TRẠNG] đơn lẻ (THEN, THERE) thành công</li>
 					<li className="list-none">→ Khối đó đảm nhiệm chức năng [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>].</li>
 			
-					<li className="margin-bottom-20 list-none">Nếu thế thế thân bằng một [ADjective BASE][TÍNH CƠ] đơn lẻ (BEAUtiful, SMART, NEW) thành công</li>
+					<li className="margin-bottom-20 list-none">Nếu thế thế thân bằng một [ADjective][TÍNH] đơn lẻ (BEAUtiful, SMART, NEW) thành công</li>
 					<li className="list-none">→ Khối đó phụ trách chức năng [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>].</li>
 			
-					<li className="margin-bottom-20 list-none">Nếu thế thế thân bằng một ký hiệu tổng quát "SOMEthing" hoặc "it" (tương đương một [NOUN BASE][DANH CƠ]) thành công</li>
+					<li className="margin-bottom-20 list-none">Nếu thế thế thân bằng một ký hiệu tổng quát "SOMEthing" hoặc "it" (tương đương một [NOUN][DANH]) thành công</li>
 					<li className="list-none">→ Khối đó gánh vác chức năng [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>].</li>
 			
 				</ul>
 
 			
-			<h5 className="margin-y-30">Thử thách phá án 3 cấu trúc có cùng hình thái [LIÊN CÂU][CONJUNCTIONAL CLAUSE] chứa biểu hiện [conJUNCtional BASE][LIÊN CƠ] "<strong>[where]</strong>":</h5>
+			<h5 className="margin-y-30">Thử thách phá án 3 cấu trúc có cùng hình thái [LIÊN CÂU][CONJUNCTIONAL CLAUSE] chứa biểu hiện [conJUNCtion][LIÊN] "<strong>[where]</strong>":</h5>
 			
 
-			<p className="margin-top-20">Trường hợp A: Thử thế thân bằng [ADverb BASE][TRẠNG CƠ] "<strong>[THERE]</strong>"</p>
+			<p className="margin-top-20">Trường hợp A: Thử thế thân bằng [ADVERB][TRẠNG] "<strong>[THERE]</strong>"</p>
 			
 				<ul className="list-square">
 			
@@ -839,7 +839,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20">Trường hợp B: Thử thế thân bằng [ADjective BASE][TÍNH CƠ] "<strong>[NEW]</strong>"</p>
+			<p className="margin-top-20">Trường hợp B: Thử thế thân bằng [ADjective][TÍNH] "<strong>[NEW]</strong>"</p>
 			
 				<ul className="list-square">
 			
@@ -851,7 +851,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20">Trường hợp C: Thử thế thân bằng [NOUN BASE][DANH CƠ] "<strong>[SOMEthing]</strong>"</p>
+			<p className="margin-top-20">Trường hợp C: Thử thế thân bằng [NOUN][DANH] "<strong>[SOMEthing]</strong>"</p>
 			
 				<ul className="list-square">
 			
@@ -869,7 +869,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">X. Đảo ngữ kết hợp (Inversion)</h3>
 		
-			<p>Nâng tầm [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>] lên mức học thuật cao nhất bằng cách tiến hành đưa đưa Trạng Câu/Cụm phủ định lên đầu, sau đó tiến hành đảo ngữ [Thời Động Cơ] thành phần chính:</p>
+			<p>Nâng tầm [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>] lên mức học thuật cao nhất bằng cách tiến hành đưa đưa Trạng Câu/Cụm phủ định lên đầu, sau đó tiến hành đảo ngữ [Thời ĐỘNG] thành phần chính:</p>
 
 			<h5 className="margin-y-30 text-indent-whole">Ví dụ 1</h5>
 
@@ -913,7 +913,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>[NEVer have] i SEEN such a proFESsional acCOUNTing SYStem.</li>
 						<li className="margin-bottom-20 list-none">[Đã chưa từng bao giờ] tôi thấy một hệ thống kế toán nào chuyên nghiệp đến thế.</li>
 
-						<li className="list-none">→ Việc đưa [NEVer have] - <strong>Trạng Cơ phủ định</strong> [<strong>Negative Adverb Base</strong>] "NEVer" và [TENSE VERB BASE][THỜI ĐỘNG CƠ] "have" lên đầu câu làm cho câu văn mang sắc thái nhấn mạnh cực độ, thể hiện sự ngạc nhiên hoặc khẳng định mạnh mẽ.</li>
+						<li className="list-none">→ Việc đưa [NEVer have] - <strong>TRẠNG phủ định</strong> [<strong>Negative AdVERB</strong>] "NEVer" và [TENSE VERB][THỜI ĐỘNG] "have" lên đầu câu làm cho câu văn mang sắc thái nhấn mạnh cực độ, thể hiện sự ngạc nhiên hoặc khẳng định mạnh mẽ.</li>
 				
 					</ul>
 
@@ -937,7 +937,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>[RAREly does] he REalize HOW MUCH his deCIsions afFECT the PROject.</li>
 						<li className="margin-bottom-20 list-none">[Hiếm khi thực sự] anh ấy nhận ra được các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
 
-						<li className="list-none">→ Việc đưa [RAREly does] - <strong>Trạng Cơ phủ định</strong> [<strong>Negative Adverb Base</strong>] "RAREly" và [TENSE VERB BASE][THỜI ĐỘNG CƠ] "does" lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức.</li>
+						<li className="list-none">→ Việc đưa [RAREly does] - <strong>TRẠNG phủ định</strong> [<strong>Negative AdVERB</strong>] "RAREly" và [TENSE VERB][THỜI ĐỘNG] "does" lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức.</li>
 				
 					</ul>
 					
@@ -962,7 +962,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>[NOT Only does] she WRITE CLEAN CODE, [but she ALso] deSIGNS BEAUtiful INterfaces.</li>
 						<li className="margin-bottom-20 list-none">[Không chỉ thực sự] cô ấy viết mã sạch, [mà] cô ấy [còn] thiết kế được các giao diện đẹp mắt.</li>
 
-						<li className="list-none">→ Việc đưa [NOT Only does] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "NOT Only" và [TENSE VERB BASE][THỜI ĐỘNG CƠ] "does" lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế.</li>
+						<li className="list-none">→ Việc đưa [NOT Only does] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "NOT Only" và [TENSE VERB][THỜI ĐỘNG] "does" lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế.</li>
 
 				
 					</ul>
@@ -987,7 +987,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>[under NO CIRcumstances must] you SHARE this PASSword.</li>
 						<li className="margin-bottom-20 list-none">[Dưới bất kỳ hoàn cảnh nào cũng không được phép] bạn chia sẻ mật khẩu này.</li>
 
-						<li className="list-none">→ Việc đưa ra giới hạn [under NO CIRcumstances must] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "under NO CIRcumstances" và [asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ] "must" lên đầu câu ngay từ đầu để "khóa" mọi khả năng ngay lập tức, sau đó mới nhắc đến hành động.</li>
+						<li className="list-none">→ Việc đưa ra giới hạn [under NO CIRcumstances must] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "under NO CIRcumstances" và [asSERTive-MOdal VERB][ÁP-THÁI ĐỘNG] "must" lên đầu câu ngay từ đầu để "khóa" mọi khả năng ngay lập tức, sau đó mới nhắc đến hành động.</li>
 				
 					</ul>
 

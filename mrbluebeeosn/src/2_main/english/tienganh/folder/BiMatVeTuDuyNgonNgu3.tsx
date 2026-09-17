@@ -81,9 +81,9 @@ export default function BiMatVeTuDuyNgonNgu3(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Thay vì nghĩ: "Nói (động cơ) + một cách nhẹ nhàng", hãy tập nghĩ: "<strong>Một sự nhẹ nhàng</strong>... <strong>trong lời nói</strong>" (Softly spoke).</li>
+					<li>Thay vì nghĩ: "Nói (ĐỘNG) + một cách nhẹ nhàng", hãy tập nghĩ: "<strong>Một sự nhẹ nhàng</strong>... <strong>trong lời nói</strong>" (Softly spoke).</li>
 			
-					<li>Thay vì nghĩ: "Hiểu (động cơ) + hoàn toàn", hãy tập nghĩ: "<strong>Một sự trọn vẹn</strong>... <strong>trong nhận thức</strong>" (Completely understand).</li>
+					<li>Thay vì nghĩ: "Hiểu (ĐỘNG) + hoàn toàn", hãy tập nghĩ: "<strong>Một sự trọn vẹn</strong>... <strong>trong nhận thức</strong>" (Completely understand).</li>
 			
 				</ul>
 
@@ -93,7 +93,7 @@ export default function BiMatVeTuDuyNgonNgu3(): React.JSX.Element {
 			
 			<h3 className="margin-y-50 text-center">4. Học cách "Cảm nhận" thay vì "Lắp ghép"</h3>
 
-			<p>Bí kíp để đạt được sự tự nhiên trong giao tiếp là hãy biến các cặp <strong>Trạng cơ</strong> + <strong>Động cơ</strong> thành những khối cảm xúc không thể tách rời (Emotion Chunks).</p>
+			<p>Bí kíp để đạt được sự tự nhiên trong giao tiếp là hãy biến các cặp <strong>TRẠNG</strong> + <strong>ĐỘNG</strong> thành những khối cảm xúc không thể tách rời (Emotion Chunks).</p>
 
 			<p>Đừng học từ Suddenly (đột ngột) và Stop (dừng lại) như hai mảnh ghép rời rạc. Hãy nạp vào đầu hình ảnh của một "sự dừng lại đột ngột" (<strong>Suddenly stopped</strong>). Khi đó, mỗi khi bạn muốn diễn tả một sự thay đổi bất ngờ, ADverb "Suddenly" sẽ tự động bật ra như một phản xạ tự nhiên để dọn đường cho hành động theo sau.</p>
 

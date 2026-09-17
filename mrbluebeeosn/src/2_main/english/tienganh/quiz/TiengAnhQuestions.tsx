@@ -78,7 +78,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"SEE"
 			],
 			correctAnswer: 0,
-			explanation: "Động cụm cố định là LOOK FORward to (mong chờ, mong đợi). Cấu trúc đúng là: LOOK FORward to + V-ing (danh động cơ)."
+			explanation: "Động cụm cố định là LOOK FORward to (mong chờ, mong đợi). Cấu trúc đúng là: LOOK FORward to + V-ing (danh ĐỘNG)."
 		},
 		{
 			id: 6,

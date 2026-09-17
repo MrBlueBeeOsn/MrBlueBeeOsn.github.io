@@ -71,12 +71,12 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Nguyên tắc 1</h4>
 					
-			<p className="text-indent-whole"><strong>Khi NOUN đứng trước tính cơ</strong>, người nói đang nhấn mạnh vào <strong>đối tượng</strong>. Hãy nhìn vào cái này — rồi ta mới nói về nó.</p>
+			<p className="text-indent-whole"><strong>Khi NOUN đứng trước TÍNH</strong>, người nói đang nhấn mạnh vào <strong>đối tượng</strong>. Hãy nhìn vào cái này — rồi ta mới nói về nó.</p>
 
 
 			<h4 className="margin-y-40">Nguyên tắc 2</h4>
 					
-			<p className="text-indent-whole"><strong>Khi ADjective đứng trước danh cơ</strong>, người nói đang nhấn mạnh vào <strong>đặc tính</strong>. Đây là thứ đặc biệt như thế này — và nó là một cái gì đó.</p>
+			<p className="text-indent-whole"><strong>Khi ADjective đứng trước DANH</strong>, người nói đang nhấn mạnh vào <strong>đặc tính</strong>. Đây là thứ đặc biệt như thế này — và nó là một cái gì đó.</p>
 
 			<p>Nghe có vẻ đơn giản. Nhưng hai nguyên tắc này giải thích tại sao người bản ngữ, trong những câu quan trọng, gần như luôn chọn cách đưa NOUN ra trước — rồi mới mô tả nó. Và cách đó, chính xác là cách tiếng Việt hoạt động.</p>
 
@@ -94,7 +94,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 					<li>A beautiful house.</li>
 					<li className="margin-bottom-20 list-none">Một ngôi nhà đẹp.</li>
 
-					<li className="list-none">Tính cơ ngắn, đứng trước danh cơ. Nhấn mạnh đặc tính.</li>
+					<li className="list-none">TÍNH ngắn, đứng trước DANH. Nhấn mạnh đặc tính.</li>
 			
 				</ul>
 
@@ -113,7 +113,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p>Não bộ người học lặng lẽ kết luận:</p>
 
-			<p>"<strong>Tính cơ trong tiếng Anh phải ngắn</strong>, <strong>phải đứng trước</strong>."</p>
+			<p>"<strong>TÍNH trong tiếng Anh phải ngắn</strong>, <strong>phải đứng trước</strong>."</p>
 
 			<p>Rồi khi gặp tiếng Anh thực tế — báo, sách, podcast, bài phát biểu — họ gặp một cấu trúc khác hoàn toàn mà không ai chuẩn bị cho họ. Và họ hoảng loạn, dù cấu trúc đó thực ra rất quen thuộc.</p>
 
@@ -133,17 +133,17 @@ export default function AdjPlacement5(): React.JSX.Element {
 					<li>the man <strong>whom I met yesterday</strong></li>
 					<li className="list-none">người đàn ông <strong>mà tôi gặp hôm qua</strong></li>
 					<li className="list-none">Noun → Adjective Clause</li>
-					<li className="margin-bottom-20 list-none">Danh cơ → câu con mô tả</li>
+					<li className="margin-bottom-20 list-none">DANH → câu con mô tả</li>
 			
 					<li>the decision <strong>that the board made</strong></li>
 					<li className="list-none">quyết định <strong>mà ban lãnh đạo đưa ra</strong></li>
 					<li className="list-none">Noun → Adjective Clause</li>
-					<li className="margin-bottom-20 list-none">Danh cơ → câu con mô tả</li>
+					<li className="margin-bottom-20 list-none">DANH → câu con mô tả</li>
 			
 					<li>the idea <strong>that we discussed</strong></li>
 					<li className="list-none">ý tưởng <strong>mà chúng tôi đã bàn</strong></li>
 					<li className="list-none">Noun → Adjective Clause</li>
-					<li className="list-none">Danh cơ → câu con mô tả</li>
+					<li className="list-none">DANH → câu con mô tả</li>
 			
 				</ul>
 			
@@ -154,11 +154,11 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Người bản ngữ tư duy như thế nào</h3>
 
-			<p>Trong giao tiếp nâng cao, viết luận, hay phát biểu, người bản ngữ không cố nhồi nhét mọi mô tả vào trước danh cơ. Họ làm ngược lại — và cách đó tự nhiên hơn nhiều:</p>
+			<p>Trong giao tiếp nâng cao, viết luận, hay phát biểu, người bản ngữ không cố nhồi nhét mọi mô tả vào trước DANH. Họ làm ngược lại — và cách đó tự nhiên hơn nhiều:</p>
 			
 				<ol>
 			
-					<li value="1"><strong>Đưa danh cơ</strong> — <strong>đối tượng chính</strong> — <strong>ra trước</strong></li>
+					<li value="1"><strong>Đưa DANH</strong> — <strong>đối tượng chính</strong> — <strong>ra trước</strong></li>
 					<li className="margin-bottom-20 list-none">Người nghe biết ngay chủ đề. Không cần đoán, không cần chờ.</li>
 			
 					<li value="2"><strong>Thả Adjective Clause phía sau</strong></li>
@@ -176,7 +176,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Ba lớp <strong>Adjective Clause</strong>, tất cả đứng sau danh cơ, tất cả hoạt động như ADjective mở rộng. Và tất cả đều vận hành theo đúng logic mà một người Việt đã dùng từ khi còn học nói tiếng mẹ đẻ.</p>
+			<p className="margin-top-20">Ba lớp <strong>Adjective Clause</strong>, tất cả đứng sau DANH, tất cả hoạt động như ADjective mở rộng. Và tất cả đều vận hành theo đúng logic mà một người Việt đã dùng từ khi còn học nói tiếng mẹ đẻ.</p>
 			
 
 			{/* 5.  */}
@@ -312,7 +312,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p className="text-indent-whole">Chức năng:</p>
 
-			<p className="text-indent-whole">Mô tả, giới hạn, hoặc làm rõ một danh cơ. Luôn đứng <strong>sau</strong> NOUN mà nó mô tả — đúng như cách tiếng Việt hoạt động. Đây là câu con người bản ngữ dùng nhiều nhất trong văn viết và hội thoại phức tạp.</p>
+			<p className="text-indent-whole">Mô tả, giới hạn, hoặc làm rõ một DANH. Luôn đứng <strong>sau</strong> NOUN mà nó mô tả — đúng như cách tiếng Việt hoạt động. Đây là câu con người bản ngữ dùng nhiều nhất trong văn viết và hội thoại phức tạp.</p>
 
 			<p className="margin-top-20"></p>
 			
@@ -344,7 +344,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Chức năng:</p>
 
-			<p className="text-indent-whole">Đóng vai trò như một <strong>danh cơ</strong> bên trong câu lớn hơn — làm danh chủ, danh nhận, hoặc bổ ngữ. Cho phép người nói nhúng nguyên một ý kiến, sự thật, hay câu hỏi vào trong một câu khác.</p>
+			<p className="text-indent-whole">Đóng vai trò như một <strong>DANH</strong> bên trong câu lớn hơn — làm danh chủ, danh nhận, hoặc bổ ngữ. Cho phép người nói nhúng nguyên một ý kiến, sự thật, hay câu hỏi vào trong một câu khác.</p>
 
 			<p className="margin-top-20"></p>
 			
@@ -410,7 +410,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p>Khi đọc tiếng Anh, hãy chủ động tìm NOUN chính trong câu. Sau đó nhìn vào những gì đứng sau nó và hỏi:</p>
 
-			<p><strong>Phần này đang làm gì</strong> — <strong>mô tả danh cơ</strong>, <strong>mô tả hành động</strong>, <strong>hay nhúng một ý vào câu</strong>?</p>
+			<p><strong>Phần này đang làm gì</strong> — <strong>mô tả DANH</strong>, <strong>mô tả hành động</strong>, <strong>hay nhúng một ý vào câu</strong>?</p>
 
 			<p>Khi câu hỏi đó trở thành bản năng, bạn đang đọc tiếng Anh theo đúng cách người bản ngữ viết nó.</p>
 
@@ -420,7 +420,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Để kết lại</h3>
 
-			<p>Tiếng Anh nâng cao vận hành theo cấu trúc <strong>Danh cơ</strong> + <strong>Tính cơ mở rộng</strong> — đúng như tiếng Việt. <strong>Adjective Clause</strong> là biểu hiện rõ nhất của logic đó, và nó là công cụ người bản ngữ dùng liên tục trong mọi văn bản phức tạp.</p>
+			<p>Tiếng Anh nâng cao vận hành theo cấu trúc <strong>DANH</strong> + <strong>TÍNH mở rộng</strong> — đúng như tiếng Việt. <strong>Adjective Clause</strong> là biểu hiện rõ nhất của logic đó, và nó là công cụ người bản ngữ dùng liên tục trong mọi văn bản phức tạp.</p>
 
 			<p>Khi người Việt nhận ra điều này và bắt đầu chủ động dùng Adjective Clause, không chỉ kỹ năng viết cải thiện — <strong>mà Adverbial Clause và Noun Clause cũng sẽ quen dần theo</strong>. Vì khi bạn đã hiểu một, bạn đã hiểu nguyên lý chung của cả ba.</p>
 

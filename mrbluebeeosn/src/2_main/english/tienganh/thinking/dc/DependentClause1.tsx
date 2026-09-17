@@ -102,7 +102,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Các liên cơ: for, and, nor, but, or, yet, so hoạt động như những cây cầu phẳng.</li>
+					<li>Các LIÊN: for, and, nor, but, or, yet, so hoạt động như những cây cầu phẳng.</li>
 			
 				</ul>
 			

@@ -66,7 +66,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"TOLD"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ deny (phủ nhận) luôn theo sau bởi một Gerund (V-ing). Trong trường hợp này, dùng Gerund hoàn thành (having TOLD) để nhấn mạnh rằng hành động kể bí mật xảy ra trước hành động phủ nhận."
+			explanation: "ĐỘNG deny (phủ nhận) luôn theo sau bởi một Gerund (V-ing). Trong trường hợp này, dùng Gerund hoàn thành (having TOLD) để nhấn mạnh rằng hành động kể bí mật xảy ra trước hành động phủ nhận."
 		},
 		{
 			id: 5,
@@ -114,7 +114,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"for"
 			],
 			correctAnswer: 2,
-			explanation: "Giới cơ at được dùng để chỉ thời điểm cụ thể, chính xác trong ngày (giờ, phút)."
+			explanation: "GIỚI at được dùng để chỉ thời điểm cụ thể, chính xác trong ngày (giờ, phút)."
 		},
 		{
 			id: 9,

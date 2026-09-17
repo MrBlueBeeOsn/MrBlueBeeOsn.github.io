@@ -31,7 +31,7 @@ export default function DichCauTiengVietSangTiengAnh(): React.JSX.Element {
 			
 					<li>Thay <strong>ngôi</strong> (tôi → I, bạn → you, anh ấy → he, của tôi → my…)</li>
 
-					<li>Thay <strong>động cơ</strong> + <strong>trạng cơ</strong> (thích → like, đang ăn → are eating, rất → very, vui vẻ → happily…)</li>
+					<li>Thay <strong>ĐỘNG</strong> + <strong>TRẠNG</strong> (thích → like, đang ăn → are eating, rất → very, vui vẻ → happily…)</li>
 			
 					<li>Thay NOUN + toàn bộ <strong>danh cụm</strong> (những bông hoa đỏ đẹp → beautiful red flowers)</li>
 			
@@ -169,11 +169,11 @@ export default function DichCauTiengVietSangTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Bước 1: chỉ thay <strong>đại cơ</strong> + <strong>sở hữu</strong> (my, your, his, her, our, their…).</li>
+					<li>Bước 1: chỉ thay <strong>ĐẠI</strong> + <strong>sở hữu</strong> (my, your, his, her, our, their…).</li>
 			
-					<li>Bước 2: chỉ thay <strong>động cơ</strong> + <strong>trạng cơ</strong> (đang → -ing, rất → very/really, vui vẻ → happily…).</li>
+					<li>Bước 2: chỉ thay <strong>ĐỘNG</strong> + <strong>TRẠNG</strong> (đang → -ing, rất → very/really, vui vẻ → happily…).</li>
 			
-					<li>Bước 3: “đảo ngược” toàn bộ <strong>danh cụm</strong>: ADjective → danh cơ.</li>
+					<li>Bước 3: “đảo ngược” toàn bộ <strong>danh cụm</strong>: ADjective → DANH.</li>
 			
 				</ul>
 
@@ -183,7 +183,7 @@ export default function DichCauTiengVietSangTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Ngôi</strong> → <strong>Động cơ</strong> & <strong>trạng cơ</strong> → <strong>Danh cơ</strong> & <strong>danh cụm</strong></li>
+					<li><strong>Ngôi</strong> → <strong>ĐỘNG</strong> & <strong>TRẠNG</strong> → <strong>DANH</strong> & <strong>danh cụm</strong></li>
 			
 					<li>→ Dù câu tiếng Việt có dài và phức tạp đến đâu, bạn cũng dịch ra tiếng Anh chuẩn 100% chỉ trong vài giây!</li>
 			

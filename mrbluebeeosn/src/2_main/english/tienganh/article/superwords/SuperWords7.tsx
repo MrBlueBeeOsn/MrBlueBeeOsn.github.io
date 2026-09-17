@@ -17,7 +17,7 @@ export default function SuperWords7(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[BASE][PHRASE][CLAUSE]</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">[SUper VERB BASE]
+			<h1 className="margin-y-50 text-center">[SUper VERB]
 												
 				<sup><HashLink smooth to="/tieng-anh/super-words-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -48,7 +48,7 @@ export default function SuperWords7(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ: Cách Gọi Song Ngữ Thông Minh Để "Bẻ Gãy" Câu Con Tiếng Anh</h4>
+			<h4 className="margin-bottom-30 text-center">Siêu DANH, Siêu TÍNH, Siêu TRẠNG: Cách Gọi Song Ngữ Thông Minh Để "Bẻ Gãy" Câu Con Tiếng Anh</h4>
 
 			<p></p>
 
@@ -79,21 +79,21 @@ export default function SuperWords7(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1️⃣ Super-noun (Siêu Danh Cơ) = Câu Con [Danh Cơ] / Noun Clause</h3>
+			<h3 className="margin-y-50 text-center">1️⃣ Super-noun (Siêu DANH) = Câu Con [DANH] / Noun Clause</h3>
 
 			<p></p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2️⃣ Super-adjective (Siêu Tính Cơ) = Câu Con [Tính Cơ] / Adjective Clause</h3>
+			<h3 className="margin-y-50 text-center">2️⃣ Super-adjective (Siêu TÍNH) = Câu Con [TÍNH] / Adjective Clause</h3>
 
 			<p></p>
 
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3️⃣ Super-adverb (Siêu Trạng Cơ) = Câu Con Trạng Ngữ / Adverb Clause</h3>
+			<h3 className="margin-y-50 text-center">3️⃣ Super-adverb (Siêu TRẠNG) = Câu Con Trạng Ngữ / Adverb Clause</h3>
 
 			<p></p>
 
@@ -294,7 +294,7 @@ export default function SuperWords7(): React.JSX.Element {
 
 			<p></p>
 
-			<h4 className="margin-y-40">Super-noun (Siêu Danh Cơ)</h4>
+			<h4 className="margin-y-40">Super-noun (Siêu DANH)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -337,7 +337,7 @@ export default function SuperWords7(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Super-adjective (Siêu Tính Cơ)</h4>
+			<h4 className="margin-y-40">Super-adjective (Siêu TÍNH)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -380,7 +380,7 @@ export default function SuperWords7(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Super-adverb (Siêu Trạng Cơ)</h4>
+			<h4 className="margin-y-40">Super-adverb (Siêu TRẠNG)</h4>
 					
 			<p className="text-indent-whole"></p>
 			

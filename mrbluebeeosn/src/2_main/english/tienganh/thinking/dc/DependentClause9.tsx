@@ -60,7 +60,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Bản Chất Của Sự Gắn Kết Hữu Cơ</h3>
 
-			<p>Một phụ câu, dù sở hữu đầy đủ danh chủ và động cơ, vẫn chưa thể tự mình truyền tải một thông điệp hoàn chỉnh. Nó luôn cần một <strong>câu con độc lập</strong> (<strong>Independent Clause</strong>) để làm điểm tựa, để ý nghĩa được neo giữ và phát triển. Sự kết nối này được tạo nên bởi một <strong>từ liên kết phụ thuộc</strong> (<strong>subordinator</strong>) đứng ở phần mở đầu. Những từ này, như because, although, if, when, who, which, that, as, hay các từ nghi vấn (Wh-words), không chỉ là dấu hiệu nhận biết mà còn là sợi dây liên kết, định hình mối quan hệ giữa các ý tưởng.</p>
+			<p>Một phụ câu, dù sở hữu đầy đủ danh chủ và ĐỘNG, vẫn chưa thể tự mình truyền tải một thông điệp hoàn chỉnh. Nó luôn cần một <strong>câu con độc lập</strong> (<strong>Independent Clause</strong>) để làm điểm tựa, để ý nghĩa được neo giữ và phát triển. Sự kết nối này được tạo nên bởi một <strong>từ liên kết phụ thuộc</strong> (<strong>subordinator</strong>) đứng ở phần mở đầu. Những từ này, như because, although, if, when, who, which, that, as, hay các từ nghi vấn (Wh-words), không chỉ là dấu hiệu nhận biết mà còn là sợi dây liên kết, định hình mối quan hệ giữa các ý tưởng.</p>
 
 			<p>Hãy hình dung một câu văn như một bản giao hưởng. Câu con là giai điệu chính, là chủ đề xuyên suốt. Phụ câu là những đoạn biến tấu, những hòa âm, những nốt nhạc bổ sung, chúng tự thân có giai điệu riêng nhưng chỉ thực sự thăng hoa khi được đặt vào tổng thể bản nhạc. Nếu tách rời, chúng sẽ trở nên lạc lõng và thiếu đi ngữ cảnh, không thể tạo nên một tác phẩm hoàn chỉnh.</p>
 
@@ -106,7 +106,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Câu Con Danh Ngữ (Noun Clauses)</h3>
 
-			<p><strong>Bản chất</strong>: Danh câu hoạt động như một NOUN trong câu. Điều này có nghĩa là chúng có thể đảm nhiệm mọi vai trò mà một NOUN thông thường có thể làm: danh chủ, danh nhận trực tiếp, danh nhận gián tiếp, bổ ngữ cho danh chủ, hoặc danh nhận của giới cơ. Chúng biến một ý tưởng, một sự kiện thành một đối tượng mà câu có thể tác động hoặc nói về.</p>
+			<p><strong>Bản chất</strong>: Danh câu hoạt động như một NOUN trong câu. Điều này có nghĩa là chúng có thể đảm nhiệm mọi vai trò mà một NOUN thông thường có thể làm: danh chủ, danh nhận trực tiếp, danh nhận gián tiếp, bổ ngữ cho danh chủ, hoặc danh nhận của GIỚI. Chúng biến một ý tưởng, một sự kiện thành một đối tượng mà câu có thể tác động hoặc nói về.</p>
 
 			<p><strong>Từ liên kết điển hình</strong>: Thường bắt đầu bằng that, what, whatever, who, whoever, whom, whomever, whose, which, whichever, when, where, why, how, if, whether.</p>
 
@@ -149,7 +149,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Ở đây "where she lives" là câu con danh ngữ, làm danh nhận trực tiếp cho hành động "know". Câu con này trả lời cho câu hỏi "know what?" và cung cấp thông tin chi tiết về địa điểm mà người nói không rõ, thay vì chỉ một NOUN đơn thuần. Nó mở rộng khả năng diễn đạt của động cơ, cho phép nó tác động lên một ý tưởng phức tạp, thể hiện sự thiếu thông tin một cách rõ ràng và tự nhiên hơn.</p>
+			<p className="margin-top-20 text-indent-whole">Ở đây "where she lives" là câu con danh ngữ, làm danh nhận trực tiếp cho hành động "know". Câu con này trả lời cho câu hỏi "know what?" và cung cấp thông tin chi tiết về địa điểm mà người nói không rõ, thay vì chỉ một NOUN đơn thuần. Nó mở rộng khả năng diễn đạt của ĐỘNG, cho phép nó tác động lên một ý tưởng phức tạp, thể hiện sự thiếu thông tin một cách rõ ràng và tự nhiên hơn.</p>
 
 			<p className="text-indent-whole">Thay vì nói:</p>
 			
@@ -194,9 +194,9 @@ export default function DependentClause9(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Làm Danh nhận của giới cơ:</h4>
+			<h4 className="margin-y-40">Làm Danh nhận của GIỚI:</h4>
 
-			<p className="text-indent-whole">Thậm chí, câu con danh ngữ còn có thể làm danh nhận của giới cơ, như trong:</p>
+			<p className="text-indent-whole">Thậm chí, câu con danh ngữ còn có thể làm danh nhận của GIỚI, như trong:</p>
 			
 				<ul className="list-square">
 			
@@ -205,7 +205,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Nơi "what will happen next" là câu con danh ngữ, làm đối tượng của giới cơ "about". Câu con này cho phép chúng ta diễn đạt sự lo lắng về một sự kiện hoặc tình huống chưa xác định, thay vì chỉ một NOUN cụ thể, thể hiện sự linh hoạt trong việc biểu đạt cảm xúc và suy nghĩ về tương lai. Nó cho phép giới cơ chi phối một ý tưởng phức tạp, làm cho câu văn trở nên uyển chuyển và giàu sắc thái hơn.</p>
+			<p className="margin-top-20 text-indent-whole">Nơi "what will happen next" là câu con danh ngữ, làm đối tượng của GIỚI "about". Câu con này cho phép chúng ta diễn đạt sự lo lắng về một sự kiện hoặc tình huống chưa xác định, thay vì chỉ một NOUN cụ thể, thể hiện sự linh hoạt trong việc biểu đạt cảm xúc và suy nghĩ về tương lai. Nó cho phép GIỚI chi phối một ý tưởng phức tạp, làm cho câu văn trở nên uyển chuyển và giàu sắc thái hơn.</p>
 					
 			<p className="text-indent-whole">Thay vì:</p>
 			
@@ -223,7 +223,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Câu Con Tính Ngữ (Adjective Clauses / Relative Clauses)</h3>
 
-			<p><strong>Bản chất</strong>: Câu con tính ngữ có chức năng như một tính cơ, tức là chúng bổ nghĩa cho một NOUN hoặc PROnoun đứng ngay trước nó (gọi là tiền ngữ - antecedent). Chúng cung cấp thông tin chi tiết hơn, giúp làm rõ, xác định hoặc bổ sung thông tin cho NOUN đó, giống như cách một ADjective đơn lẻ làm nhưng với khả năng diễn đạt phức tạp hơn, cho phép mô tả cả một hành động hoặc tình huống liên quan đến danh cơ, làm cho NOUN trở nên cụ thể và sống động hơn.</p>
+			<p><strong>Bản chất</strong>: Câu con tính ngữ có chức năng như một TÍNH, tức là chúng bổ nghĩa cho một NOUN hoặc PROnoun đứng ngay trước nó (gọi là tiền ngữ - antecedent). Chúng cung cấp thông tin chi tiết hơn, giúp làm rõ, xác định hoặc bổ sung thông tin cho NOUN đó, giống như cách một ADjective đơn lẻ làm nhưng với khả năng diễn đạt phức tạp hơn, cho phép mô tả cả một hành động hoặc tình huống liên quan đến DANH, làm cho NOUN trở nên cụ thể và sống động hơn.</p>
 
 			<p><strong>Từ liên kết điển hình</strong>: Thường bắt đầu bằng các PROnoun quan hệ (who, whom, whose, which, that) hoặc ADverb quan hệ (where, when, why).</p>
 
@@ -321,7 +321,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Câu Con Trạng Ngữ (Adverb Clauses)</h3>
 
-			<p><strong>Bản chất</strong>: Trạng câu hoạt động như một trạng cơ, bổ nghĩa cho động cơ, tính cơ, ADverb khác hoặc cả câu con chính. Chúng là những "người kể chuyện" về ngữ cảnh, cung cấp thông tin về thời gian, địa điểm, cách thức, nguyên nhân, mục đích, điều kiện, sự nhượng bộ, kết quả, hoặc so sánh. Đây là loại phụ câu đa dạng và linh hoạt nhất, mang đến sự phong phú cho câu văn, cho phép người viết thêm vào các lớp nghĩa sâu sắc và phức tạp, tạo nên sự liên kết logic chặt chẽ giữa các sự kiện.</p>
+			<p><strong>Bản chất</strong>: Trạng câu hoạt động như một TRẠNG, bổ nghĩa cho ĐỘNG, TÍNH, ADverb khác hoặc cả câu con chính. Chúng là những "người kể chuyện" về ngữ cảnh, cung cấp thông tin về thời gian, địa điểm, cách thức, nguyên nhân, mục đích, điều kiện, sự nhượng bộ, kết quả, hoặc so sánh. Đây là loại phụ câu đa dạng và linh hoạt nhất, mang đến sự phong phú cho câu văn, cho phép người viết thêm vào các lớp nghĩa sâu sắc và phức tạp, tạo nên sự liên kết logic chặt chẽ giữa các sự kiện.</p>
 
 			<p><strong>Từ liên kết điển hình</strong>: Là nhóm từ phong phú nhất, bao gồm because, although, if, since, while, unless, when, after, before, as, though, even though, whereas, in order that, so that, than, rather than, whether, provided that, as long as, as soon as, by the time, once, till, until, where, wherever, while, why, how, as if, as though, in case, lest, now that, supposing.</p>
 

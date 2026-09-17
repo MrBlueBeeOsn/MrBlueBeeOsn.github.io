@@ -258,7 +258,7 @@ export default function DEFinitely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ chắc chắn cao nhất: "<strong>DEFinitely</strong>" thể hiện mức độ chắc chắn cao nhất trong các trạng cơ.</li>
+          <li>Mức độ chắc chắn cao nhất: "<strong>DEFinitely</strong>" thể hiện mức độ chắc chắn cao nhất trong các TRẠNG.</li>
 
           <li className="margin-bottom-20">Không còn nghi ngờ: Nó loại bỏ mọi khả năng khác.</li>
 

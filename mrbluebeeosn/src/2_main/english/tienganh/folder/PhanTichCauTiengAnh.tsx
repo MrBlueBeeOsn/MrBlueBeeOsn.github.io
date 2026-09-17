@@ -33,7 +33,7 @@ export default function PhanTichCauTiengAnh(): React.JSX.Element {
 
 					<li><strong>Who</strong>? – <strong>Ai</strong>? (danh chủ, người/things thực hiện hoặc chịu hành động)</li>
 
-					<li><strong>What</strong>? – <strong>Làm gì</strong>? (động cơ chính + danh nhận)</li>
+					<li><strong>What</strong>? – <strong>Làm gì</strong>? (ĐỘNG chính + danh nhận)</li>
 
 					<li><strong>When</strong>? – <strong>Khi nào</strong>? (thời gian, thì của câu)</li>
 

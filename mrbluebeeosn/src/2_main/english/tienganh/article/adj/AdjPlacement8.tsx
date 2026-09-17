@@ -68,7 +68,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 			
 			<p className="margin-top-20">Từ đó, não tự khóa lại một niềm tin:</p>
 
-			<p className="margin-y-20 text-indent-whole">Tính cơ phải đứng trước danh cơ.</p>
+			<p className="margin-y-20 text-indent-whole">TÍNH phải đứng trước DANH.</p>
 
 			<p>Niềm tin này đủ dùng cho câu đơn. Nhưng càng viết dài, càng thuyết trình, càng làm việc bằng tiếng Anh, niềm tin đó càng kéo lùi.</p>
 			
@@ -83,7 +83,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 
 			<p>Ngôn ngữ là công cụ điều hướng sự chú ý. Tiếng Anh cho hai vị trí, mỗi vị trí là một lựa chọn nhấn.</p>
 
-			<h4 className="margin-y-40">Danh cơ trước, ADjective sau – nhấn vào vật thể.</h4>
+			<h4 className="margin-y-40">DANH trước, ADjective sau – nhấn vào vật thể.</h4>
 					
 			<p className="text-indent-whole">Bạn muốn người nghe biết đang nói về cái nào trước đã.</p>
 			
@@ -103,7 +103,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">Trọng tâm nằm ở <strong>house</strong>, <strong>man</strong>, <strong>something</strong>. Phần sau chỉ là ống kính zoom vào.</p>
 
 			
-			<h4 className="margin-y-40">Tính cơ trước NOUN – nhấn vào phẩm chất.</h4>
+			<h4 className="margin-y-40">TÍNH trước NOUN – nhấn vào phẩm chất.</h4>
 					
 			<p className="text-indent-whole">Bạn muốn biến phẩm chất thành nhãn dán.</p>
 			
@@ -134,7 +134,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2.1. Adjective Clause – máy quay</h4>
 					
-			<p className="text-indent-whole">Đây là <strong>câu con tính cơ</strong>. Nó không đứng một mình, nó <strong>bám vào danh cơ</strong> và kể chuyện về NOUN đó.</p>
+			<p className="text-indent-whole">Đây là <strong>câu con TÍNH</strong>. Nó không đứng một mình, nó <strong>bám vào DANH</strong> và kể chuyện về NOUN đó.</p>
 
 			<p className="text-indent-whole">Có hai cách dùng tinh tế:</p>
 
@@ -161,7 +161,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Khi đã quen đặt <strong>Adjective Clause sau danh cơ</strong>, việc rút gọn trở thành phản xạ:</p>
+			<p className="margin-top-20 text-indent-whole">Khi đã quen đặt <strong>Adjective Clause sau DANH</strong>, việc rút gọn trở thành phản xạ:</p>
 
 			<p className="margin-top-20">Ví dụ 1:</p>
 			
@@ -250,7 +250,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2.3. Noun Clause – hộp đóng gói</h4>
 
-			<p className="text-indent-whole">Đây là bước nhảy vọt. <strong>Noun Clause</strong> biến cả một ý tưởng thành một danh cơ.</p>
+			<p className="text-indent-whole">Đây là bước nhảy vọt. <strong>Noun Clause</strong> biến cả một ý tưởng thành một DANH.</p>
 			
 				<ul className="list-square">
 			
@@ -340,13 +340,13 @@ export default function AdjPlacement8(): React.JSX.Element {
 
 			<p>Đây là cấu trúc nhận thức chung của hai ngôn ngữ.</p>
 
-			<p>Trong khu vực, nhiều người học phải vật lộn để bỏ thói quen nhồi mọi thứ lên trước danh cơ.</p>
+			<p>Trong khu vực, nhiều người học phải vật lộn để bỏ thói quen nhồi mọi thứ lên trước DANH.</p>
 
 			<p>Người Việt thì ngược lại, chỉ cần nhận ra <strong>Adjective Clause</strong> chính là "phần mà..." trong tiếng mẹ đẻ, cánh cửa mở ra ngay.</p>
 
 			<p>Bắt đầu từ <strong>Adjective Clause</strong> vì nó hữu hình nhất.</p>
 
-			<p><strong>Bạn thấy danh cơ</strong>, <strong>bạn thấy phần mô tả ngay sau</strong>.</p>
+			<p><strong>Bạn thấy DANH</strong>, <strong>bạn thấy phần mô tả ngay sau</strong>.</p>
 
 			<p>Khi mắt quen với nhịp đó, <strong>Adverbial Clause</strong> tự nhiên chen vào để cho bối cảnh. Khi não đã chấp nhận việc đặt khối thông tin sau, Noun Clause trở thành cách đóng gói ý tưởng gọn nhất.</p>
 

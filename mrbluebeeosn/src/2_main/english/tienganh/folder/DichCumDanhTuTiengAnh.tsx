@@ -29,13 +29,13 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Trong quá trình học tiếng Anh, việc dịch các danh cụm (noun phrases) sang tiếng Việt một cách tự nhiên và đúng ngữ pháp là một thách thức lớn đối với người học. Trong tiếng Anh, ADjective và các bổ ngữ thường đứng trước NOUN chính, ngược lại với tiếng Việt, nơi NOUN đứng trước, còn ADjective và bổ ngữ đứng sau. Để dịch chính xác và tự nhiên, bạn có thể áp dụng nguyên tắc "<strong>Danh Cơ dịch trước</strong>, <strong>Tính Cơ dịch sau</strong>", đồng thời đặt các ADjective hoặc NOUN ghép vào dấu ngoặc đơn trong cấu trúc danh cụm để dễ nhớ và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
+			<p>Trong quá trình học tiếng Anh, việc dịch các danh cụm (noun phrases) sang tiếng Việt một cách tự nhiên và đúng ngữ pháp là một thách thức lớn đối với người học. Trong tiếng Anh, ADjective và các bổ ngữ thường đứng trước NOUN chính, ngược lại với tiếng Việt, nơi NOUN đứng trước, còn ADjective và bổ ngữ đứng sau. Để dịch chính xác và tự nhiên, bạn có thể áp dụng nguyên tắc "<strong>DANH dịch trước</strong>, <strong>TÍNH dịch sau</strong>", đồng thời đặt các ADjective hoặc NOUN ghép vào dấu ngoặc đơn trong cấu trúc danh cụm để dễ nhớ và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
 
 				<p className="margin-y-50 text-center">
 
 					<span className="highlight-238-padding-4-8 text-border1">
 
-						<span className="highlight-255-padding-0-4">Danh Cơ</span> Dịch Trước, <span className="highlight-255-padding-0-4">Tính Cơ</span> Dịch Sau
+						<span className="highlight-255-padding-0-4">DANH</span> Dịch Trước, <span className="highlight-255-padding-0-4">TÍNH</span> Dịch Sau
 
 					</span>
 
@@ -47,9 +47,9 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Danh cơ chính</strong> (<strong>head noun</strong>): Là từ cốt lõi, mang ý nghĩa chính, thường nằm ở vị trí cuối cùng của cụm.</li>
+					<li><strong>DANH chính</strong> (<strong>head noun</strong>): Là từ cốt lõi, mang ý nghĩa chính, thường nằm ở vị trí cuối cùng của cụm.</li>
 
-					<li><strong>Các thành phần bổ nghĩa</strong>: Bao gồm ADjective (adjectives), NOUN ghép (compound nouns), cụm giới cơ (prepositional phrases), hoặc câu con quan hệ (relative clauses), thường đứng trước NOUN chính.</li>
+					<li><strong>Các thành phần bổ nghĩa</strong>: Bao gồm ADjective (adjectives), NOUN ghép (compound nouns), cụm GIỚI (prepositional phrases), hoặc câu con quan hệ (relative clauses), thường đứng trước NOUN chính.</li>
 
 				</ul>
 			
@@ -69,13 +69,13 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">Bước 1: Xác định NOUN chính</h3>
 
-				<p>Danh cơ chính là từ cuối cùng trong danh cụm, đóng vai trò cốt lõi. Đây là từ bạn sẽ dịch đầu tiên.</p>
+				<p>DANH chính là từ cuối cùng trong danh cụm, đóng vai trò cốt lõi. Đây là từ bạn sẽ dịch đầu tiên.</p>
 				
 				<p className="margin-top-20">Ví dụ: A large wooden table</p>
 
 					<ul className="list-square">
 
-						<li>Danh cơ chính: <strong>table</strong> (bàn).</li>
+						<li>DANH chính: <strong>table</strong> (bàn).</li>
 
 					</ul>
 
@@ -129,9 +129,9 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 					<ul className="list-square">
 
-						<li>Danh cơ chính: <strong>house</strong> → nhà.</li>
+						<li>DANH chính: <strong>house</strong> → nhà.</li>
 
-						<li>Tính cơ (từ phải sang trái): <strong>stone</strong> (đá), <strong>old</strong> (cũ), <strong>beautiful</strong> (đẹp).</li>
+						<li>TÍNH (từ phải sang trái): <strong>stone</strong> (đá), <strong>old</strong> (cũ), <strong>beautiful</strong> (đẹp).</li>
 
 						<li>Kết quả: nhà đá cũ đẹp.</li>
 
@@ -143,9 +143,9 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 					<ul className="list-square">
 
-						<li>Danh cơ chính: <strong>table</strong> → bàn.</li>
+						<li>DANH chính: <strong>table</strong> → bàn.</li>
 
-						<li>Tính cơ trong ngoặc (từ phải sang trái): <strong>wooden</strong> (gỗ), <strong>large</strong> (lớn).</li>
+						<li>TÍNH trong ngoặc (từ phải sang trái): <strong>wooden</strong> (gỗ), <strong>large</strong> (lớn).</li>
 
 						<li>Kết quả: bàn gỗ lớn.</li>
 
@@ -155,13 +155,13 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Xử lý các danh cụm phức tạp</h3>
 
-			<p>Khi danh cụm có bổ ngữ phức tạp hơn, như cụm giới cơ hoặc câu con quan hệ, bạn vẫn áp dụng nguyên tắc tương tự, nhưng chỉ đặt ADjective hoặc NOUN ghép vào dấu ngoặc đơn, còn các bổ ngữ khác được xử lý riêng.</p>
+			<p>Khi danh cụm có bổ ngữ phức tạp hơn, như cụm GIỚI hoặc câu con quan hệ, bạn vẫn áp dụng nguyên tắc tương tự, nhưng chỉ đặt ADjective hoặc NOUN ghép vào dấu ngoặc đơn, còn các bổ ngữ khác được xử lý riêng.</p>
 
 			<p className="margin-top-20">Ví dụ 1: <strong>a book on the table</strong></p>
 
 				<ul className="list-square">
 
-					<li>Danh cơ chính: <strong>book</strong> → sách.</li>
+					<li>DANH chính: <strong>book</strong> → sách.</li>
 
 					<li>Bổ ngữ: <strong>on the table</strong> (trên bàn).</li>
 
@@ -173,7 +173,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Danh cơ chính: <strong>car</strong> → xe hơi.</li>
+					<li>DANH chính: <strong>car</strong> → xe hơi.</li>
 
 					<li>Tính câu: <strong>that is parked outside</strong> (được đỗ ngoài trời).</li>
 
@@ -185,9 +185,9 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Danh cơ chính: <strong>car</strong> → xe hơi.</li>
+					<li>DANH chính: <strong>car</strong> → xe hơi.</li>
 
-					<li>Tính cơ và NOUN ghép trong ngoặc (từ phải sang trái): <strong>sports</strong> (thể thao), <strong>red</strong> (đỏ), <strong>small</strong> (nhỏ).</li>
+					<li>TÍNH và NOUN ghép trong ngoặc (từ phải sang trái): <strong>sports</strong> (thể thao), <strong>red</strong> (đỏ), <strong>small</strong> (nhỏ).</li>
 
 					<li>Kết quả: xe hơi thể thao đỏ nhỏ.</li>
 
@@ -197,19 +197,19 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Thứ tự ADjective trong tiếng Anh</strong>: Tiếng Anh có quy tắc sắp xếp ADjective (ví dụ: opinion → size → age → material). Khi đặt vào dấu ngoặc đơn, bạn giữ nguyên thứ tự này trong cấu trúc như <strong>a</strong> (<strong>tính cơ</strong>) <strong>danh cơ</strong>, nhưng khi dịch, bạn đảo ngược từ phải sang trái để phù hợp với ngữ cảm tiếng Việt.</li>
+					<li><strong>Thứ tự ADjective trong tiếng Anh</strong>: Tiếng Anh có quy tắc sắp xếp ADjective (ví dụ: opinion → size → age → material). Khi đặt vào dấu ngoặc đơn, bạn giữ nguyên thứ tự này trong cấu trúc như <strong>a</strong> (<strong>TÍNH</strong>) <strong>DANH</strong>, nhưng khi dịch, bạn đảo ngược từ phải sang trái để phù hợp với ngữ cảm tiếng Việt.</li>
 
 					<li><strong>Ngữ cảm tự nhiên</strong>: Trong một số trường hợp, bạn có thể cần điều chỉnh thứ tự ADjective để câu văn tiếng Việt nghe mượt mà hơn. Ví dụ: <strong>a</strong> (<strong>beautiful old stone</strong>) <strong>house</strong> được dịch là nhà đá cũ đẹp, nhưng có thể điều chỉnh thành ngôi nhà đá đẹp cổ kính để tăng tính tự nhiên.</li>
 
 					<li><strong>Bổ ngữ phức tạp</strong>: Với các cụm có bổ ngữ dài (như câu con quan hệ), chỉ đặt ADjective hoặc NOUN ghép vào ngoặc đơn, còn các bổ ngữ khác được dịch sau NOUN chính theo cách thông thường.</li>
 
-					<li><strong>Danh cơ ghép</strong>: Các NOUN ghép (như <strong>sports</strong> trong <strong>sports car</strong>) được xử lý tương tự tính cơ, đặt trong ngoặc đơn và dịch sau NOUN chính.</li>
+					<li><strong>DANH ghép</strong>: Các NOUN ghép (như <strong>sports</strong> trong <strong>sports car</strong>) được xử lý tương tự TÍNH, đặt trong ngoặc đơn và dịch sau NOUN chính.</li>
 
 				</ul>
 
 			<h3 className="margin-y-50 text-center">5. Kết luận</h3>
 			
-			<p>Phương pháp dịch danh cụm tiếng Anh theo nguyên tắc "<strong>Danh Cơ dịch trước</strong>, <strong>Tính Cơ dịch sau</strong>", kết hợp với việc đặt các ADjective và NOUN ghép vào dấu ngoặc đơn trong cấu trúc <strong>a</strong> (<strong>tính cơ</strong>) <strong>danh cơ</strong>, giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định NOUN chính trước, đặt các tính cơ/danh cơ ghép vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
+			<p>Phương pháp dịch danh cụm tiếng Anh theo nguyên tắc "<strong>DANH dịch trước</strong>, <strong>TÍNH dịch sau</strong>", kết hợp với việc đặt các ADjective và NOUN ghép vào dấu ngoặc đơn trong cấu trúc <strong>a</strong> (<strong>TÍNH</strong>) <strong>DANH</strong>, giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định NOUN chính trước, đặt các TÍNH/DANH ghép vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
 			<div className="viewcounter">
 			

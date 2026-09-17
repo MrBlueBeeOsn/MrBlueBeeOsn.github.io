@@ -76,7 +76,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Hạt nhân — Động cơ</li>
+					<li>Hạt nhân — ĐỘNG</li>
 					<li className="margin-bottom-20 list-none">Mang chỉ dấu thời gian</li>
 			
 				</ul>
@@ -96,7 +96,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Head — Hạt nhân của câu</h3>
 
-			<p>Head không chỉ là động cơ. Nó là trung tâm điều khiển của câu — gánh luôn chỉ dấu thời gian, ngôi số, và cả phủ định khi cần.</p>
+			<p>Head không chỉ là ĐỘNG. Nó là trung tâm điều khiển của câu — gánh luôn chỉ dấu thời gian, ngôi số, và cả phủ định khi cần.</p>
 
 			<h4 className="margin-y-40">Head tích hợp</h4>
 
@@ -293,7 +293,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. DP — Dependent Phrase</h3>
 
-			<p>DP là tất cả những gì đứng sau Head, không có hành động chia riêng bên trong. Nó có thể là tính cơ, danh cơ, cụm V-ing, cụm nguyên mẫu, trạng cơ, hoặc cụm giới cơ.</p>
+			<p>DP là tất cả những gì đứng sau Head, không có hành động chia riêng bên trong. Nó có thể là TÍNH, DANH, cụm V-ing, cụm nguyên mẫu, TRẠNG, hoặc cụm GIỚI.</p>
 
 				<ul className="list-square">
 
@@ -301,7 +301,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Cô ấy vui hôm nay.</li>
 					<li className="list-none">She - S</li>
 					<li className="list-none">is - Head</li>
-					<li className="margin-bottom-20 list-none">happy today - DP tính cơ</li>
+					<li className="margin-bottom-20 list-none">happy today - DP TÍNH</li>
 
 					<li>She is reading a book.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đang đọc sách.</li>
@@ -313,13 +313,13 @@ export default function LegoAssembly5(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Anh ta mua xe mới.</li>
 					<li className="list-none">He - S</li>
 					<li className="list-none">buys - Head</li>
-					<li className="margin-bottom-20 list-none">a new car - DP danh cơ</li>
+					<li className="margin-bottom-20 list-none">a new car - DP DANH</li>
 			
 					<li>He works in Vietnam.</li>
 					<li className="margin-bottom-20 list-none">Anh ta làm việc ở Hà Nội.</li>
 					<li className="list-none">He - S</li>
 					<li className="list-none">works - Head</li>
-					<li className="margin-bottom-20 list-none">in Vietnam - DP giới cơ</li>
+					<li className="margin-bottom-20 list-none">in Vietnam - DP GIỚI</li>
 			 
 					<li>I will eat rice</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ ăn cơm.</li>
@@ -371,7 +371,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">DC bổ nghĩa NOUN trong S — Relative Clause</h4>
 					
-			<p className="text-indent-whole">DC có thể nằm bên trong S để bổ nghĩa cho danh cơ. Khi đó cấu trúc là: S [DC] Head DP.</p>
+			<p className="text-indent-whole">DC có thể nằm bên trong S để bổ nghĩa cho DANH. Khi đó cấu trúc là: S [DC] Head DP.</p>
 
 			<ul className="list-square">
 			

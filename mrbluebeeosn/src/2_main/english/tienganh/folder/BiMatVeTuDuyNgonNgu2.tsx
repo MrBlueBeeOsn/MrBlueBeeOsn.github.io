@@ -94,7 +94,7 @@ export default function BiMatVeTuDuyNgonNgu2(): React.JSX.Element {
 
 			<p>Những người giao tiếp tiếng Anh xuất sắc không bao giờ học từ vựng đơn lẻ. Họ học theo <strong>Cụm hình ảnh</strong> (<strong>Visual Chunks</strong>).</p>
 
-			<p>Thay vì học từ Blue và Ocean riêng biệt, họ nạp vào bộ nhớ một "tấm ảnh" duy nhất mang tên "<strong>Blue-ocean</strong>". Khi nhìn ra biển, họ không mất thời gian để tìm ADjective bổ nghĩa cho danh cơ, mà cả một khối hình ảnh "xanh-biển" sẽ hiện ra đồng nhất.</p>
+			<p>Thay vì học từ Blue và Ocean riêng biệt, họ nạp vào bộ nhớ một "tấm ảnh" duy nhất mang tên "<strong>Blue-ocean</strong>". Khi nhìn ra biển, họ không mất thời gian để tìm ADjective bổ nghĩa cho DANH, mà cả một khối hình ảnh "xanh-biển" sẽ hiện ra đồng nhất.</p>
 
 			<h3 className="margin-y-50 text-center">Lời kết:</h3>
 

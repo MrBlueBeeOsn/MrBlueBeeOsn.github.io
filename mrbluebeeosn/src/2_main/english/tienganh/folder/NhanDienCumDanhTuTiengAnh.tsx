@@ -35,7 +35,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Tay trái</strong> = <strong>How</strong> (như thế nào): tính cơ, trạng cơ, mạo từ, số từ, NOUN ghép…</li>
+					<li><strong>Tay trái</strong> = <strong>How</strong> (như thế nào): TÍNH, TRẠNG, mạo từ, số từ, NOUN ghép…</li>
 			
 					<li><strong>Tay phải</strong> = <strong>What</strong> (cái gì): NOUN chính luôn nằm cuối cùng</li>
 			
@@ -181,13 +181,13 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Người đàn ông cao ráo đẹp trai mặc vest đen</li>
 				
-						<li className="list-none">→ Mạo từ → chiều cao → ngoại hình → cụm giới cơ bổ sung → NOUN chính.</li>
+						<li className="list-none">→ Mạo từ → chiều cao → ngoại hình → cụm GIỚI bổ sung → NOUN chính.</li>
 				
 					</ul>
 
 			</div>
 
-			<h3 className="margin-y-50 text-center">Quy tắc nhớ nhanh OSASCOMP (khi tay trái có nhiều tính cơ)</h3>
+			<h3 className="margin-y-50 text-center">Quy tắc nhớ nhanh OSASCOMP (khi tay trái có nhiều TÍNH)</h3>
 
 			<p>Opinion → Size → Age → Shape → Color → Origin → Material → Purpose</p>
 
@@ -199,7 +199,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Tay trái</strong> = <strong>How</strong>: gom hết tính cơ, mạo từ, số từ, trạng cơ…</li>
+					<li><strong>Tay trái</strong> = <strong>How</strong>: gom hết TÍNH, mạo từ, số từ, TRẠNG…</li>
 			
 					<li><strong>Tay phải</strong> = <strong>What</strong>: NOUN chính luôn nằm cuối cùng</li>
 			

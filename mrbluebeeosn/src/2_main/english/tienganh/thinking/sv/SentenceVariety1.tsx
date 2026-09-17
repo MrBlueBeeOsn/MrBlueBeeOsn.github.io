@@ -124,7 +124,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 				</ul>
 		
 			
-			<h4 className="margin-y-40">Bước 2 (Nâng cấp danh cơ):</h4>
+			<h4 className="margin-y-40">Bước 2 (Nâng cấp DANH):</h4>
 					
 			<p className="text-indent-whole">Thay vì dùng ADjective đứng trước, hãy thử cấu trúc "the NOUN of...".</p>
 			

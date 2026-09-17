@@ -48,17 +48,17 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">"Danh Cơ Trước, Mô Tả Sau" – Chìa Khóa Vàng Mở Ra Tiềm Năng Ngôn Ngữ Vượt Trội Của Người Việt!</h4>
+			<h4 className="margin-bottom-30 text-center">"DANH Trước, Mô Tả Sau" – Chìa Khóa Vàng Mở Ra Tiềm Năng Ngôn Ngữ Vượt Trội Của Người Việt!</h4>
 
 			<p>Bạn có bao giờ tự hỏi, vì sao tiếng Anh, một ngôn ngữ tưởng chừng rất khác biệt, lại khiến hàng triệu người Việt phải vật lộn với những quy tắc tưởng chừng "ngược đời"?</p>
 
-			<p>Đặc biệt là quy tắc "tính cơ đứng trước danh cơ" – một sự đảo lộn hoàn toàn so với lối tư duy "ngôi nhà đẹp" quen thuộc của chúng ta.</p>
+			<p>Đặc biệt là quy tắc "TÍNH đứng trước DANH" – một sự đảo lộn hoàn toàn so với lối tư duy "ngôi nhà đẹp" quen thuộc của chúng ta.</p>
 
 			<p>Rào cản tâm lý này không chỉ làm chậm quá trình học, mà còn gieo vào lòng người học sự thiếu tự tin, khiến tiếng Anh trở thành một "ngọn núi" khó chinh phục.</p>
 			
 			<p>Nhưng hôm nay, mình không đến để kể về những khó khăn đó. Mình đến để vén màn một <strong>bí mật động trời</strong>, một <strong>chìa khóa vàng</strong> có thể thay đổi hoàn toàn cục diện. Một sự thật mà khi được khai mở, sẽ giúp bạn nhận ra rằng người Việt chúng ta không hề yếu thế, mà ngược lại, đang nắm giữ một <strong>siêu năng lực ngôn ngữ tiềm ẩn</strong>, có thể giúp chúng ta vượt trội hơn nhiều quốc gia khác trong khu vực.</p>
 
-			<p>Đó chính là việc làm chủ <strong>Câu con tính cơ</strong> (<strong>Adjective Clause</strong>)</p>
+			<p>Đó chính là việc làm chủ <strong>Câu con TÍNH</strong> (<strong>Adjective Clause</strong>)</p>
 
 			<p>Một cấu trúc mà khi được nhìn nhận đúng bản chất, sẽ cho thấy tiếng Anh và tiếng Việt có sự đồng điệu đến kinh ngạc ở cấp độ tư duy cao nhất!</p>
 
@@ -68,7 +68,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<p>Thử hỏi bất kỳ người Việt nào đang học tiếng Anh, họ sẽ kể vanh vách về hai kiểu ADjective cơ bản:</p>
 
-			<p className="margin-top-20"><strong>Tính cơ đứng trước danh cơ</strong></p>
+			<p className="margin-top-20"><strong>TÍNH đứng trước DANH</strong></p>
 			
 				<ul className="list-square">
 			
@@ -79,7 +79,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20"><strong>Tính cơ sau động cơ</strong> "<strong>to be</strong>":</p>
+			<p className="margin-top-20"><strong>TÍNH sau ĐỘNG</strong> "<strong>to be</strong>":</p>
 			
 				<ul className="list-square">
 			
@@ -94,13 +94,13 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<p>Trong thế giới giao tiếp nâng cao, văn viết học thuật, hay những câu phức tạp, người bản ngữ lại vận dụng một lối tư duy hoàn toàn khác – một lối tư duy mà chúng ta, những người Việt, đã thành thạo từ thuở ấu thơ:</p>
 
-			<p>Họ luôn đặt <strong>Danh cơ</strong> (<strong>Đối tượng chính</strong>) lên trước để định vị rõ ràng chủ thể, sau đó mới "thả" <strong>một chuỗi các câu con</strong> hoặc <strong>cụm từ để mô tả chi tiết</strong> về NOUN đó.</p>
+			<p>Họ luôn đặt <strong>DANH</strong> (<strong>Đối tượng chính</strong>) lên trước để định vị rõ ràng chủ thể, sau đó mới "thả" <strong>một chuỗi các câu con</strong> hoặc <strong>cụm từ để mô tả chi tiết</strong> về NOUN đó.</p>
 
 			<p>Cấu trúc này không chỉ dùng để bổ sung thông tin, mà còn để <strong>nhấn mạnh chính đối tượng đó</strong>, một cách tự nhiên và mạch lạc nhất.</p>
 
 			<p>Hãy cùng chiêm nghiệm sự đồng điệu đến ngỡ ngàng này:</p>
 
-			<p className="margin-top-20"><strong>Tính cơ đơn</strong></p>
+			<p className="margin-top-20"><strong>TÍNH đơn</strong></p>
 			
 				<ul className="list-square">
 			
@@ -112,7 +112,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20"><strong>Câu con tính cơ</strong></p>
+			<p className="margin-top-20"><strong>Câu con TÍNH</strong></p>
 			
 				<ul className="list-square">
 			
@@ -151,11 +151,11 @@ export default function AdjPlacement9(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20">Tiếng Anh (câu phức) = <strong>Danh cơ</strong> + <strong>Adjective Clause</strong></li>
+					<li className="margin-bottom-20">Tiếng Anh (câu phức) = <strong>DANH</strong> + <strong>Adjective Clause</strong></li>
 			
 					<li className="margin-bottom-20 list-none">Tương đồng với:</li>
 			
-					<li>Tiếng Việt = <strong>Danh cơ</strong> + <strong>Câu con mô tả</strong>.</li>
+					<li>Tiếng Việt = <strong>DANH</strong> + <strong>Câu con mô tả</strong>.</li>
 			
 				</ul>
 			
@@ -163,7 +163,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. "Câu Con Tính Cơ" – Tên Gọi Giải Phóng, Sức Mạnh Khai Phóng</h3>
+			<h3 className="margin-y-50 text-center">2. "Câu Con TÍNH" – Tên Gọi Giải Phóng, Sức Mạnh Khai Phóng</h3>
 
 			<p>Trong nhiều giáo trình, cấu trúc bổ nghĩa sau NOUN thường được gọi bằng một cái tên khá học thuật và đôi khi gây khó hiểu.</p>
 
@@ -173,21 +173,21 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<p>Đã đến lúc phá bỏ rào cản từ chính tên gọi! Từ nay, hãy gọi nó bằng đúng bản chất của mình:</p>
 
-			<p className="margin-y-40  text-indent-whole"><strong>Câu con tính cơ</strong> (<strong>Adjective Clause</strong>).</p>
+			<p className="margin-y-40  text-indent-whole"><strong>Câu con TÍNH</strong> (<strong>Adjective Clause</strong>).</p>
 
-			<p>Khi bạn gọi nó là "<strong>Câu con tính cơ</strong>", mọi thứ sẽ trở nên rõ ràng như ban ngày, như một ánh sáng soi rọi vào vùng tối của ngữ pháp:</p>
+			<p>Khi bạn gọi nó là "<strong>Câu con TÍNH</strong>", mọi thứ sẽ trở nên rõ ràng như ban ngày, như một ánh sáng soi rọi vào vùng tối của ngữ pháp:</p>
 			
 				<ul className="list-square">
 			
-					<li>Nó đóng vai trò như một <strong>tính cơ</strong> (dùng để <strong>mô tả</strong>).</li>
+					<li>Nó đóng vai trò như một <strong>TÍNH</strong> (dùng để <strong>mô tả</strong>).</li>
 			
-					<li>Nó <strong>đứng sau danh cơ</strong> (giống hệt tiếng Việt).</li>
+					<li>Nó <strong>đứng sau DANH</strong> (giống hệt tiếng Việt).</li>
 			
 					<li>Nó là công cụ mạnh mẽ giúp bạn <strong>mở rộng câu</strong>, <strong>cung cấp thông tin chi tiết</strong> một cách tự nhiên, không còn lo lắng về vị trí từ.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Người bản ngữ sử dụng <strong>Câu con tính cơ</strong> một cách nhuần nhuyễn, tự nhiên trong mọi cuộc hội thoại phức tạp, văn bản chuyên nghiệp và các bài luận.</p>
+			<p className="margin-top-20">Người bản ngữ sử dụng <strong>Câu con TÍNH</strong> một cách nhuần nhuyễn, tự nhiên trong mọi cuộc hội thoại phức tạp, văn bản chuyên nghiệp và các bài luận.</p>
 
 			<p>Đây là cách hiệu quả nhất để họ <strong>xác định đối tượng trước</strong>, sau đó mới "<strong>vẽ</strong>" <strong>thêm các chi tiết</strong>, làm rõ nghĩa cho NOUN đó. Điều này hoàn toàn khớp với cách chúng ta tư duy và diễn đạt trong tiếng Việt.</p>
 
@@ -197,7 +197,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Lợi Thế Vượt Trội Của Người Việt: Nắm Giữ "Bộ Ba Quyền Lực" Của Ngôn Ngữ</h3>
 
-			<p>Việc nhận ra rằng tiếng Anh cũng có cách tư duy "<strong>Danh cơ</strong> + <strong>Bổ nghĩa</strong>" này không chỉ là một kiến thức ngữ pháp, mà là một <strong>bước ngoặt tư duy lớn</strong>. Nó giúp bạn cảm thấy tiếng Anh không còn là một ngôn ngữ xa lạ, mà là một phiên bản khác, một sự mở rộng của chính tiếng mẹ đẻ mình.</p>
+			<p>Việc nhận ra rằng tiếng Anh cũng có cách tư duy "<strong>DANH</strong> + <strong>Bổ nghĩa</strong>" này không chỉ là một kiến thức ngữ pháp, mà là một <strong>bước ngoặt tư duy lớn</strong>. Nó giúp bạn cảm thấy tiếng Anh không còn là một ngôn ngữ xa lạ, mà là một phiên bản khác, một sự mở rộng của chính tiếng mẹ đẻ mình.</p>
 
 			<p>Thay vì chỉ loay hoay với các ADjective đơn lẻ, hãy mở rộng tầm nhìn để thấy rằng trong các câu phức tạp, tiếng Anh và tiếng Việt có cùng một "lối đi chung" – một con đường đã được trải sẵn cho bạn.</p>
 
@@ -211,7 +211,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Adjective Clause:</h4>
 					
-			<p className="text-indent-whole">Bổ nghĩa cho <strong>danh cơ</strong> (giống như <strong>tính cơ</strong>).</p>
+			<p className="text-indent-whole">Bổ nghĩa cho <strong>DANH</strong> (giống như <strong>TÍNH</strong>).</p>
 
 				<ul className="list-square">
 			
@@ -223,7 +223,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Adverbial Clause:</h4>
 					
-			<p className="text-indent-whole">Bổ nghĩa cho <strong>động cơ</strong>, <strong>tính cơ</strong> hoặc <strong>trạng cơ</strong> (giống như <strong>trạng cơ</strong>).</p>
+			<p className="text-indent-whole">Bổ nghĩa cho <strong>ĐỘNG</strong>, <strong>TÍNH</strong> hoặc <strong>TRẠNG</strong> (giống như <strong>TRẠNG</strong>).</p>
 
 				<ul className="list-square">
 			
@@ -235,7 +235,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Noun Clause:</h4>
 					
-			<p className="text-indent-whole">Đóng vai trò như một <strong>danh cơ</strong> (làm <strong>danh chủ</strong>, <strong>danh nhận</strong>, <strong>bổ ngữ</strong>).</p>
+			<p className="text-indent-whole">Đóng vai trò như một <strong>DANH</strong> (làm <strong>danh chủ</strong>, <strong>danh nhận</strong>, <strong>bổ ngữ</strong>).</p>
 			
 				<ul className="list-square">
 			
@@ -260,7 +260,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<p>Hãy tin vào bản năng ngôn ngữ của mình:</p>
 
-			<p><strong>Đặt NOUN lên trước</strong>, <strong>sau đó bồi thêm các</strong> "<strong>tính cơ</strong>" (<strong>câu con</strong> hoặc <strong>cụm từ</strong>) <strong>phía sau để mô tả</strong>.</p>
+			<p><strong>Đặt NOUN lên trước</strong>, <strong>sau đó bồi thêm các</strong> "<strong>TÍNH</strong>" (<strong>câu con</strong> hoặc <strong>cụm từ</strong>) <strong>phía sau để mô tả</strong>.</p>
 
 
 			<p>Khi bạn nhận ra sự "đồng bộ" này trong các cấu trúc phức tạp, bạn sẽ thấy việc chinh phục tiếng Anh không chỉ trở nên đơn giản, tự nhiên mà còn là một hành trình khám phá đầy thú vị.</p>

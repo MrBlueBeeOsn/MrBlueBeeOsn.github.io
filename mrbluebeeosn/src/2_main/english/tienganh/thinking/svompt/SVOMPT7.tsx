@@ -76,7 +76,7 @@ export default function SVOMPT7(): React.JSX.Element {
 
 					<li className="list-none">rồi <strong>O</strong> (<strong>Object</strong> - <strong>Danh nhận</strong>)</li>
 
-					<li className="list-none">Tiếp theo <strong>V</strong> (<strong>Verb</strong> - <strong>Động cơ</strong>) vọt lên</li>
+					<li className="list-none">Tiếp theo <strong>V</strong> (<strong>Verb</strong> - <strong>ĐỘNG</strong>) vọt lên</li>
 
 					<li className="margin-bottom-20 list-none">Bắt đầu bằng <strong>S</strong> (<strong>Subject</strong> - <strong>Danh chủ</strong>) ở vị trí gần nhất</li>
 			

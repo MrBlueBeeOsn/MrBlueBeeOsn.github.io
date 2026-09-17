@@ -85,7 +85,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Phụ câu là gì?</h3>
 					
-			<p>Phụ câu là một nhóm từ có đầy đủ danh chủ + động cơ, nhưng không tạo thành câu hoàn chỉnh khi đứng một mình. Nó cần một câu con độc lập để bổ sung ý nghĩa.</p>
+			<p>Phụ câu là một nhóm từ có đầy đủ danh chủ + ĐỘNG, nhưng không tạo thành câu hoàn chỉnh khi đứng một mình. Nó cần một câu con độc lập để bổ sung ý nghĩa.</p>
 			
 				<ul className="list-square">
 
@@ -124,7 +124,7 @@ export default function DependentClause7(): React.JSX.Element {
 					<li>Mục đích</li>
 					<li className="margin-bottom-20 list-none">so that, in order that</li>
 			
-					<li>Bổ nghĩa cho danh cơ</li>
+					<li>Bổ nghĩa cho DANH</li>
 					<li className="margin-bottom-20 list-none">who, which, that, whose</li>
 			
 					<li>Làm danh chủ/danh nhận</li>
@@ -135,7 +135,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bước 2: Viết phụ câu</h4>
 					
-			<p className="text-indent-whole">Cấu trúc: <strong>Từ nối</strong> + <strong>Danh chủ</strong> + <strong>Động cơ</strong></p>
+			<p className="text-indent-whole">Cấu trúc: <strong>Từ nối</strong> + <strong>Danh chủ</strong> + <strong>ĐỘNG</strong></p>
 			
 				<ul className="list-square">
 			
@@ -155,7 +155,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<p className="text-indent-whole"><strong>Cấu trúc 1</strong> — <strong>Phụ câu đứng đầu</strong>:</p>
 
-			<p className="text-indent-whole">[Từ nối + Danh chủ + Động cơ], + [Câu con]</p>
+			<p className="text-indent-whole">[Từ nối + Danh chủ + ĐỘNG], + [Câu con]</p>
 			
 				<ul className="list-square">
 			
@@ -166,7 +166,7 @@ export default function DependentClause7(): React.JSX.Element {
 					
 			<p className="margin-top-20 text-indent-whole"><strong>Cấu trúc 2</strong> — <strong>Phụ câu đứng cuối</strong>:</p>
 
-			<p className="text-indent-whole">[Câu con] + [Từ nối + Danh chủ + Động cơ]</p>
+			<p className="text-indent-whole">[Câu con] + [Từ nối + Danh chủ + ĐỘNG]</p>
 			
 				<ul className="list-square">
 			
@@ -217,7 +217,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Phụ câu có <strong>danh chủ</strong> + <strong>động cơ</strong>?</li>
+					<li>Phụ câu có <strong>danh chủ</strong> + <strong>ĐỘNG</strong>?</li>
 			
 					<li>Từ nối có đúng với ý nghĩa bạn muốn?</li>
 
@@ -328,7 +328,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Trạng câu (Adverb Clause)</h4>
 					
-			<p className="text-indent-whole">Bổ nghĩa cho <strong>động cơ</strong>, trả lời câu hỏi: khi nào? tại sao? nếu...?</p>
+			<p className="text-indent-whole">Bổ nghĩa cho <strong>ĐỘNG</strong>, trả lời câu hỏi: khi nào? tại sao? nếu...?</p>
 			
 				<ul className="list-square">
 			
@@ -350,7 +350,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Câu con ADjective (Adjective Clause)</h4>
 					
-			<p className="text-indent-whole">Bổ nghĩa cho <strong>danh cơ</strong> đứng trước nó.</p>
+			<p className="text-indent-whole">Bổ nghĩa cho <strong>DANH</strong> đứng trước nó.</p>
 			
 				<ul className="list-square">
 			
@@ -371,7 +371,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Danh câu (Noun Clause)</h4>
 					
-			<p className="text-indent-whole">Đóng vai trò như <strong>danh cơ</strong> — làm danh chủ, danh nhận, hoặc bổ ngữ.</p>
+			<p className="text-indent-whole">Đóng vai trò như <strong>DANH</strong> — làm danh chủ, danh nhận, hoặc bổ ngữ.</p>
 			
 				<ul className="list-square">
 			
@@ -444,7 +444,7 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">Câu con tính cơ</h4>
+			<h4 className="margin-y-40">Câu con TÍNH</h4>
 					
 				<ul className="list-square">
 			
@@ -606,7 +606,7 @@ export default function DependentClause7(): React.JSX.Element {
 			<h4 className="margin-y-40">Lỗi 7</h4>
 
 			<p className="text-indent-whole">The girl whom sings.</p>
-			<p className="text-indent-whole">Sai đại cơ</p>
+			<p className="text-indent-whole">Sai ĐẠI</p>
 			
 				<ul className="list-square">
 			
@@ -678,7 +678,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Loại câu con: Trạng ngữ</h4>
 
-			<p className="text-indent-whole">Chức năng: Bổ nghĩa động cơ</p>
+			<p className="text-indent-whole">Chức năng: Bổ nghĩa ĐỘNG</p>
 			<p className="text-indent-whole">Từ nối: because, if, when, although</p>
 					
 				<ul className="list-square">
@@ -689,9 +689,9 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Loại câu con: Tính cơ</h4>
+			<h4 className="margin-y-40">Loại câu con: TÍNH</h4>
 
-			<p className="text-indent-whole">Chức năng: Bổ nghĩa danh cơ</p>
+			<p className="text-indent-whole">Chức năng: Bổ nghĩa DANH</p>
 			<p className="text-indent-whole">Từ nối: who, which, that, whose</p>
 					
 				<ul className="list-square">
@@ -702,7 +702,7 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">Loại câu con: Danh cơ</h4>
+			<h4 className="margin-y-40">Loại câu con: DANH</h4>
 
 			<p className="text-indent-whole">Chức năng: Danh chủ/Danh nhận</p>
 			<p className="text-indent-whole">Từ nối: that, what, whether</p>

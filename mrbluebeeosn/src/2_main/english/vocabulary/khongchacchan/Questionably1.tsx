@@ -241,13 +241,13 @@ export default function QUEStionably1(): React.JSX.Element {
             <li className="list-none margin-bottom-20">Anh ấy là một người tốt.</li>
 
             <li value="2">his MOtives are QUEStionably GOOD.</li>
-            <li className="list-none margin-bottom-20">Động cơ của anh ấy có vẻ không tốt lắm.</li>
+            <li className="list-none margin-bottom-20">ĐỘNG của anh ấy có vẻ không tốt lắm.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">tạo ra sự nghi ngờ về động cơ</span> của người đó, trong khi câu đầu tiên khẳng định một cách chắc chắn.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">tạo ra sự nghi ngờ về ĐỘNG</span> của người đó, trong khi câu đầu tiên khẳng định một cách chắc chắn.</p>
 
       </div>
 

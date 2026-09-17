@@ -67,11 +67,11 @@ export default function LegoAssembly8(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Head – đầu máy mang thì</h4>
 				
-			<p className="text-indent-whole">Động cơ đã chia. Head có hai dạng:</p>
+			<p className="text-indent-whole">ĐỘNG đã chia. Head có hai dạng:</p>
 		
 			<ul className="list-square">
 		
-				<li><strong>Tích hợp</strong>: thì dính luôn vào động cơ.</li>
+				<li><strong>Tích hợp</strong>: thì dính luôn vào ĐỘNG.</li>
 				<li className="list-none">buys = does + buy</li>
 				<li className="list-none">knows = does + know</li>
 				<li className="margin-bottom-20 list-none">doesn't = does + not.</li>
@@ -259,7 +259,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">4. <strong>S chứa DC</strong> hoặc <strong>DP tính cơ</strong>:</p>
+			<p className="margin-top-20">4. <strong>S chứa DC</strong> hoặc <strong>DP TÍNH</strong>:</p>
 			
 				<ul className="list-square">
 			

@@ -29,15 +29,15 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Người Việt thường nói “bông hoa đỏ đẹp lớn” (tính cơ đứng sau danh cơ), nhưng tiếng Anh lại hoàn toàn ngược lại: tất cả <strong>tính cơ</strong>, <strong>mạo từ</strong>, <strong>số từ</strong>… phải <strong>đứng bên trái</strong>, <strong>danh cơ chính</strong> luôn <strong>đứng bên phải</strong> nhất.</p>
+			<p>Người Việt thường nói “bông hoa đỏ đẹp lớn” (TÍNH đứng sau DANH), nhưng tiếng Anh lại hoàn toàn ngược lại: tất cả <strong>TÍNH</strong>, <strong>mạo từ</strong>, <strong>số từ</strong>… phải <strong>đứng bên trái</strong>, <strong>DANH chính</strong> luôn <strong>đứng bên phải</strong> nhất.</p>
 
 			<p className="margin-top-20">Để sắp xếp danh cụm tiếng Anh một cách nhanh và không bao giờ sai, bạn chỉ cần làm đúng 2 bước lớn:</p>
 			
 				<ul className="list-square">
 			
-					<li>Bước 1: gom hết các <strong>tính cơ</strong>, <strong>mạo từ</strong>, <strong>số từ</strong>… vào <strong>bên trái</strong></li>
+					<li>Bước 1: gom hết các <strong>TÍNH</strong>, <strong>mạo từ</strong>, <strong>số từ</strong>… vào <strong>bên trái</strong></li>
 			
-					<li>Bước 2: đặt <strong>danh cơ chính</strong> vào <strong>bên phải</strong> cùng</li>
+					<li>Bước 2: đặt <strong>DANH chính</strong> vào <strong>bên phải</strong> cùng</li>
 			
 					<li className="list-none">→ Xong! Danh cụm đã đúng cấu trúc 100%.</li>
 			
@@ -47,13 +47,13 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 					<span className="highlight-238-padding-4-8 text-border1">
 
-						<span className="highlight-255-padding-0-4">Tính cơ, mạo từ, số từ</span> đứng bên trái, <span className="highlight-255-padding-0-4">danh cơ </span> đứng bên phải
+						<span className="highlight-255-padding-0-4">TÍNH, mạo từ, số từ</span> đứng bên trái, <span className="highlight-255-padding-0-4">DANH </span> đứng bên phải
 
 					</span>
 
 				</p>
 
-			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Tại sao phải “tính cơ bên trái – NOUN bên phải”?</h3>
+			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Tại sao phải “TÍNH bên trái – NOUN bên phải”?</h3>
 
 			<p>Tiếng Việt: đẹp → lớn → đỏ → hoa</p>
 			
@@ -61,7 +61,7 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<p className="margin-top-20">Nếu bạn cố xếp từ trái sang phải như tiếng Việt, bạn sẽ ra “flower beautiful red large” → sai hoàn toàn.</p>
 
-			<p>Giải pháp đơn giản nhất: luôn đặt <strong>danh cơ chính</strong> làm mốc <strong>bên phải</strong>, <strong>còn lại</strong> gom hết vào <strong>bên trái</strong>.</p>
+			<p>Giải pháp đơn giản nhất: luôn đặt <strong>DANH chính</strong> làm mốc <strong>bên phải</strong>, <strong>còn lại</strong> gom hết vào <strong>bên trái</strong>.</p>
 
 			<h3 className="margin-y-50 text-center">2. Hai bước sắp xếp danh cụm (rất dễ nhớ)</h3>
 
@@ -81,9 +81,9 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Số từ (one, two, three…)</li>
 				
-						<li>Tính cơ ý kiến (beautiful, cute, interesting…)</li>
+						<li>TÍNH ý kiến (beautiful, cute, interesting…)</li>
 
-						<li>Tính cơ kích thước, tuổi tác, hình dạng, màu sắc, nguồn gốc, chất liệu, mục đích…</li>
+						<li>TÍNH kích thước, tuổi tác, hình dạng, màu sắc, nguồn gốc, chất liệu, mục đích…</li>
 				
 					</ul>
 				
@@ -161,7 +161,7 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Danh cơ chính luôn là từ cuối cùng bên phải (không bao giờ đứng giữa hay đầu cụm).</li>
+					<li>DANH chính luôn là từ cuối cùng bên phải (không bao giờ đứng giữa hay đầu cụm).</li>
 
 					<li>Mạo từ (a/an/the) và số từ luôn đứng xa nhất bên trái.</li>
 
@@ -175,9 +175,9 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<p>Chỉ cần nhớ một nguyên tắc duy nhất:</p>
 
-			<p><strong>Tính cơ</strong> + <strong>mạo từ</strong> + <strong>số từ</strong> → gom hết <strong>bên trái</strong></p>
+			<p><strong>TÍNH</strong> + <strong>mạo từ</strong> + <strong>số từ</strong> → gom hết <strong>bên trái</strong></p>
 
-			<p><strong>Danh cơ chính</strong> → đặt <strong>bên phải</strong> cùng</p>
+			<p><strong>DANH chính</strong> → đặt <strong>bên phải</strong> cùng</p>
 			
 			<p>Thực hành 10–15 cụm mỗi ngày theo 2 bước này, chỉ sau 1 tuần bạn sẽ tự động sắp xếp danh cụm tiếng Anh chuẩn như người bản ngữ mà không cần suy nghĩ nhiều!</p>
 

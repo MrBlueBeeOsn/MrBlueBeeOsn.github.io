@@ -79,7 +79,7 @@ export default function Although(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">Từ "al<strong>though</strong>" là một conJUNCtion thuần túy và không có các dạng biến đổi trực tiếp như danh cơ, hành động hay ADjective trong họ từ của riêng nó. Tuy nhiên, nó có mối quan hệ gốc rễ chặt chẽ với từ though và các từ mang gốc biểu đạt sự nhượng bộ hoặc tương phản liên quan bao gồm:</p>
+      <p className="margin-bottom-20">Từ "al<strong>though</strong>" là một conJUNCtion thuần túy và không có các dạng biến đổi trực tiếp như DANH, hành động hay ADjective trong họ từ của riêng nó. Tuy nhiên, nó có mối quan hệ gốc rễ chặt chẽ với từ though và các từ mang gốc biểu đạt sự nhượng bộ hoặc tương phản liên quan bao gồm:</p>
 
         <ul className="list-square">
 
@@ -135,7 +135,7 @@ export default function Although(): React.JSX.Element {
 
       <p className="margin-top-20" id="">3. In spite of /ɪn spaɪt əv/</p>
 
-      <p className="text-indent-whole">Mặc dù; đây là một cụm giới cơ, do đó theo sau nó phải là một Danh cơ, Danh cụm hoặc V-ing (không đi với một câu con).</p>
+      <p className="text-indent-whole">Mặc dù; đây là một cụm GIỚI, do đó theo sau nó phải là một DANH, Danh cụm hoặc V-ing (không đi với một câu con).</p>
 
         <ul className="list-square">
 
@@ -150,7 +150,7 @@ export default function Although(): React.JSX.Element {
 
       <p className="margin-top-20" id="">4. de<strong>spite</strong> /dɪˈspaɪt/</p>
 
-      <p className="text-indent-whole">Tương tự như "in spite of", đây là một giới cơ mang sắc thái trang trọng hơn và theo sau bởi một Danh cơ, Danh cụm hoặc V-ing.</p>
+      <p className="text-indent-whole">Tương tự như "in spite of", đây là một GIỚI mang sắc thái trang trọng hơn và theo sau bởi một DANH, Danh cụm hoặc V-ing.</p>
 
         <ul className="list-square">
 

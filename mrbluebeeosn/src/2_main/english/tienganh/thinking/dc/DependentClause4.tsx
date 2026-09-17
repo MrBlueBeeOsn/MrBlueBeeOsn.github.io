@@ -109,7 +109,7 @@ export default function DependentClause4(): React.JSX.Element {
 			
 					<li>Danh chủ</li>
 			
-					<li>Động cơ</li>
+					<li>ĐỘNG</li>
 			
 				</ul>
 			

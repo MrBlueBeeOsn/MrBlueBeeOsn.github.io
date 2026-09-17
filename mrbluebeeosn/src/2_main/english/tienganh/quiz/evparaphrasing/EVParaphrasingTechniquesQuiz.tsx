@@ -66,7 +66,7 @@ export default function EVParaphrasingTechniquesQuiz(): React.JSX.Element {
 				"sigNIFicantly, the NUMber of TOURists inCREASED LAST YEAR."
 			],
 			correctAnswer: 0,
-			explanation: "Câu này sử dụng kết hợp cả thay đổi từ vựng (TOURists -> VISitors, inCREASED -> GROWTH) và thay đổi loại từ (động cơ \"inCREASED\" thành NOUN \"GROWTH\")."
+			explanation: "Câu này sử dụng kết hợp cả thay đổi từ vựng (TOURists -> VISitors, inCREASED -> GROWTH) và thay đổi loại từ (ĐỘNG \"inCREASED\" thành NOUN \"GROWTH\")."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVParaphrasingTechniquesQuiz(): React.JSX.Element {
 				"Only CHAnging the WORD ORder"
 			],
 			correctAnswer: 1,
-			explanation: "Tính cơ \"TIred\" (mệt mỏi) đã được chuyển thành NOUN \"faTIGUE\" (sự mệt mỏi) để thay đổi cấu trúc câu."
+			explanation: "TÍNH \"TIred\" (mệt mỏi) đã được chuyển thành NOUN \"faTIGUE\" (sự mệt mỏi) để thay đổi cấu trúc câu."
 		},
 		{
 			id: 6,

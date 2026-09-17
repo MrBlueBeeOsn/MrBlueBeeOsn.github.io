@@ -112,7 +112,7 @@ export default function ThreeDC8(): React.ReactElement {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Câu con tính cơ</h3>
+			<h3 className="margin-y-50 text-center">3. Câu con TÍNH</h3>
 
 			<p></p>
 

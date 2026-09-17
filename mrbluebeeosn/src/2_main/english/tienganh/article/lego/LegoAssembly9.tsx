@@ -83,7 +83,7 @@ export default function LegoAssembly9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">A. Câu Khẳng Định: S Head DP</h4>
 
-			<p className="text-indent-whole">Đây là cấu trúc nền tảng. Khối nội dung (DP) được lắp trực tiếp vào sau "động cơ" (Head).</p>
+			<p className="text-indent-whole">Đây là cấu trúc nền tảng. Khối nội dung (DP) được lắp trực tiếp vào sau "ĐỘNG" (Head).</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 			

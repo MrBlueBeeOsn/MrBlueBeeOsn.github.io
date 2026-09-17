@@ -48,11 +48,11 @@ export default function AdjPlacement3(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Bí Quyết Tiếng Anh Đẳng Cấp: Khi “Tính Cơ Dài” Làm Tiếng Anh Trở Nên Gần Gũi Với Tiếng Việt</h4>
+			<h4 className="margin-bottom-30 text-center">Bí Quyết Tiếng Anh Đẳng Cấp: Khi “TÍNH Dài” Làm Tiếng Anh Trở Nên Gần Gũi Với Tiếng Việt</h4>
 
 			<p>Bạn đã bao giờ cảm thấy tiếng Anh xa lạ và “ngược” với cách suy nghĩ của mình chưa?</p>
 
-			<p>Hầu hết người Việt chúng ta lớn lên với niềm tin rằng <strong>tính cơ trong tiếng Anh luôn phải đứng trước danh cơ</strong>.</p>
+			<p>Hầu hết người Việt chúng ta lớn lên với niềm tin rằng <strong>TÍNH trong tiếng Anh luôn phải đứng trước DANH</strong>.</p>
 
 			<p>Chúng ta học thuộc lòng:</p>
 			
@@ -86,15 +86,15 @@ export default function AdjPlacement3(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Danh cơ đứng trước</strong> + <strong>Tính cơ đứng sau</strong>:</li>
-					<li className="margin-bottom-20 list-none">Nhấn mạnh <strong>danh cơ</strong> (đối tượng chính). Họ đưa chủ thể ra trước để người nghe nắm rõ ngay, sau đó mới bổ sung thông tin chi tiết, sinh động.</li>
+					<li><strong>DANH đứng trước</strong> + <strong>TÍNH đứng sau</strong>:</li>
+					<li className="margin-bottom-20 list-none">Nhấn mạnh <strong>DANH</strong> (đối tượng chính). Họ đưa chủ thể ra trước để người nghe nắm rõ ngay, sau đó mới bổ sung thông tin chi tiết, sinh động.</li>
 			
-					<li><strong>Tính cơ đứng trước</strong> + <strong>Danh cơ</strong>:</li>
-					<li className="list-none">Nhấn mạnh <strong>tính cơ</strong> (đặc điểm nổi bật).</li>
+					<li><strong>TÍNH đứng trước</strong> + <strong>DANH</strong>:</li>
+					<li className="list-none">Nhấn mạnh <strong>TÍNH</strong> (đặc điểm nổi bật).</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Trong giao tiếp nâng cao, viết luận, kể chuyện hay các văn bản chuyên sâu, cấu trúc <strong>Danh cơ</strong> + <strong>Phần mô tả sau</strong> được sử dụng cực kỳ phổ biến.</p>
+			<p className="margin-top-20">Trong giao tiếp nâng cao, viết luận, kể chuyện hay các văn bản chuyên sâu, cấu trúc <strong>DANH</strong> + <strong>Phần mô tả sau</strong> được sử dụng cực kỳ phổ biến.</p>
 			
 			<p>Đây chính là lúc tiếng Anh trở nên gần gũi với tiếng Việt hơn bao giờ hết.</p>
 
@@ -103,9 +103,9 @@ export default function AdjPlacement3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Adjective Clause – Chìa Khóa Mở Ra Cả Một Thế Giới</h3>
 
-			<p>Adjective Clause chính là “<strong>tính cơ dài</strong>” – một câu con được dùng để bổ nghĩa chi tiết cho NOUN đứng trước.</p>
+			<p>Adjective Clause chính là “<strong>TÍNH dài</strong>” – một câu con được dùng để bổ nghĩa chi tiết cho NOUN đứng trước.</p>
 
-			<p>Nó luôn đứng <strong>sau danh cơ</strong>, tạo nên dòng chảy tự nhiên: giới thiệu đối tượng trước, rồi mới “vẽ” nên bức tranh chi tiết phía sau.</p>
+			<p>Nó luôn đứng <strong>sau DANH</strong>, tạo nên dòng chảy tự nhiên: giới thiệu đối tượng trước, rồi mới “vẽ” nên bức tranh chi tiết phía sau.</p>
 
 			<p>Đây là cấu trúc mà người bản ngữ sử dụng thành thạo trong mọi tình huống phức tạp. Và may mắn thay, nó <strong>hoàn toàn đồng bộ</strong> với cách tư duy tiếng Việt của chúng ta.</p>
 
@@ -150,24 +150,24 @@ export default function AdjPlacement3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Bộ Ba Câu Con – Nền Tảng Của Tiếng Anh Đẳng Cấp</h3>
 
-			<p>Khi bạn thực sự nắm vững <strong>Adjective Clause</strong>, bạn không chỉ cải thiện khả năng mô tả danh cơ. Bạn đang mở ra cánh cửa cho toàn bộ hệ thống tư duy câu phức của người bản ngữ.</p>
+			<p>Khi bạn thực sự nắm vững <strong>Adjective Clause</strong>, bạn không chỉ cải thiện khả năng mô tả DANH. Bạn đang mở ra cánh cửa cho toàn bộ hệ thống tư duy câu phức của người bản ngữ.</p>
 
 			<p className="margin-top-20">Adjective Clause là <strong>câu con đầu tiên và quan trọng nhất</strong> trong bộ ba trụ cột:</p>
 			
 				<ol>
 			
-					<li value="1"><strong>Adjective Clause</strong> (Câu con tính cơ)</li>
-					<li className="margin-bottom-20 list-none">Bổ nghĩa cho danh cơ</li>
+					<li value="1"><strong>Adjective Clause</strong> (Câu con TÍNH)</li>
+					<li className="margin-bottom-20 list-none">Bổ nghĩa cho DANH</li>
 			
 					<li value="2"><strong>Adverbial Clause</strong> (Trạng câu)</li>
-					<li className="margin-bottom-20 list-none">Bổ nghĩa cho động cơ, tính cơ, hoặc cả câu</li>
+					<li className="margin-bottom-20 list-none">Bổ nghĩa cho ĐỘNG, TÍNH, hoặc cả câu</li>
 			
 					<li value="3"><strong>Noun Clause</strong> (Danh câu)</li>
 					<li className="list-none">Hoạt động như một NOUN trong câu</li>
 			
 				</ol>
 			
-			<p className="margin-top-20">Hiểu sâu Adjective Clause với cấu trúc quen thuộc <strong>Danh cơ</strong> + <strong>Tính cơ dài</strong> sẽ tạo nền tảng vững chắc, giúp bạn tiếp cận hai câu con còn lại một cách tự nhiên và ít bỡ ngỡ hơn.</p>
+			<p className="margin-top-20">Hiểu sâu Adjective Clause với cấu trúc quen thuộc <strong>DANH</strong> + <strong>TÍNH dài</strong> sẽ tạo nền tảng vững chắc, giúp bạn tiếp cận hai câu con còn lại một cách tự nhiên và ít bỡ ngỡ hơn.</p>
 
 			<p>Đây chính là con đường ngắn nhất để bạn suy nghĩ và diễn đạt <strong>giống người bản ngữ</strong> – không chỉ đúng ngữ pháp, mà còn tinh tế và uyển chuyển.</p>
 			
@@ -219,7 +219,7 @@ export default function AdjPlacement3(): React.JSX.Element {
 
 			<p>Tiếng Anh không phải là một ngôn ngữ xa lạ. Ở tầng sâu nhất, nó chia sẻ cùng một logic tư duy với tiếng Việt:</p>
 
-			<p><strong>Danh cơ trước</strong> – <strong>Tính cơ dài sau</strong>.</p>
+			<p><strong>DANH trước</strong> – <strong>TÍNH dài sau</strong>.</p>
 
 			<p>Khi bạn nắm chắc Adjective Clause và bộ ba câu con quan trọng, bạn không chỉ học ngữ pháp – bạn đang học cách <strong>tư duy bằng tiếng Anh</strong>. Đó mới là chìa khóa để chinh phục giao tiếp đỉnh cao và viết lách thuyết phục.</p>
 

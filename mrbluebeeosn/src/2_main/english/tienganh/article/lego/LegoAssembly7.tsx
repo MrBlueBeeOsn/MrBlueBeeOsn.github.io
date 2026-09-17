@@ -156,7 +156,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<p className="margin-top-20">Head là phần quyết định <strong>thời</strong>, <strong>thể</strong>, <strong>khả năng</strong>, <strong>nghi vấn</strong>, <strong>phủ định</strong> của câu. Head có thể là:</p>
 
-			<h4 className="margin-y-40"><strong>Động cơ chính</strong> - <strong>Head tích hợp</strong>:</h4>
+			<h4 className="margin-y-40"><strong>ĐỘNG chính</strong> - <strong>Head tích hợp</strong>:</h4>
 					
 			<p className="text-indent-whole">Mang luôn "<strong>chỉ dấu thời</strong>"</p>
 			
@@ -243,7 +243,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Head tích hợp là gì?</h4>
 					
-			<p>Động cơ chính đã tích hợp sẵn thời gian hành động và thời gian = <strong>Head tích hợp</strong>.</p>
+			<p>ĐỘNG chính đã tích hợp sẵn thời gian hành động và thời gian = <strong>Head tích hợp</strong>.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
@@ -266,7 +266,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					
 			<p className="margin-top-20">DP không thể đứng một mình. Nó bổ nghĩa cho Head và có thể đóng vai trò:</p>
 
-			<p className="margin-top-20"><strong>Danh cơ</strong>: làm object / complement - <strong>DP</strong></p>
+			<p className="margin-top-20"><strong>DANH</strong>: làm object / complement - <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
@@ -277,7 +277,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20"><strong>Tính cơ</strong>: mô tả trạng thái, tính chất - <strong>DP</strong></p>
+			<p className="margin-top-20"><strong>TÍNH</strong>: mô tả trạng thái, tính chất - <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
@@ -288,7 +288,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20"><strong>Trạng cơ</strong>: thời gian, cách thức, mức độ - <strong>DP</strong></p>
+			<p className="margin-top-20"><strong>TRẠNG</strong>: thời gian, cách thức, mức độ - <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
@@ -299,7 +299,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20"><strong>Cụm giới cơ</strong>: nơi chốn, thời gian, lý do - <strong>DP</strong></p>
+			<p className="margin-top-20"><strong>Cụm GIỚI</strong>: nơi chốn, thời gian, lý do - <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
@@ -593,7 +593,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Anh ấy không mua xe hơi.</li>
 					<li className="list-none">He - S</li>
 					<li className="list-none">doesn't (does not gộp làm một) - Head</li>
-					<li className="list-none">buy a car (động cơ nguyên mẫu noun phrase) - DP</li>
+					<li className="list-none">buy a car (ĐỘNG nguyên mẫu noun phrase) - DP</li>
 			
 				</ul>
 
@@ -702,7 +702,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Đây là <strong>noun clause</strong> — câu con danh cơ, thay thế cho một noun phrase.</p>
+			<p className="margin-top-20 text-indent-whole">Đây là <strong>noun clause</strong> — câu con DANH, thay thế cho một noun phrase.</p>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Cấu trúc phân tích</strong>:</p>
@@ -777,7 +777,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 					<li>→ <strong>V</strong>-<strong>ing object</strong></li>
 					<li>→ <strong>tính cụm</strong></li>
-					<li>→ <strong>cụm giới cơ</strong></li>
+					<li>→ <strong>cụm GIỚI</strong></li>
 			
 				</ul>
 
@@ -798,7 +798,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li>I am in Vietnam.</li>
 					<li className="list-none">Tôi đang ở Việt Nam.</li>
 					<li className="list-none">am - Head</li>
-					<li className="list-none">in Vietnam (cụm giới cơ) - DP</li>
+					<li className="list-none">in Vietnam (cụm GIỚI) - DP</li>
 			
 				</ul>
 
@@ -819,7 +819,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li>I am not in Vietnam.</li>
 					<li className="list-none">Tôi không đang ở Việt Nam.</li>
 					<li className="list-none">am - Head</li>
-					<li className="list-none">not in Vietnam (not cụm giới cơ) - DP</li>
+					<li className="list-none">not in Vietnam (not cụm GIỚI) - DP</li>
 			
 				</ul>
 
@@ -840,7 +840,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li>Am I in Vietnam?</li>
 					<li className="list-none">Tôi có đang ở Việt Nam không?</li>
 					<li className="list-none">Am - Head</li>
-					<li className="list-none">in Vietnam (cụm giới cơ) - DP</li>
+					<li className="list-none">in Vietnam (cụm GIỚI) - DP</li>
 			
 				</ul>
 			
@@ -851,9 +851,9 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>→ <strong>động cơ nguyên mẫu object</strong></li>
+					<li>→ <strong>ĐỘNG nguyên mẫu object</strong></li>
 					<li>→ <strong>be tính cụm</strong></li>
-					<li>→ <strong>be cụm giới cơ</strong></li>
+					<li>→ <strong>be cụm GIỚI</strong></li>
 			
 				</ul>
 
@@ -875,7 +875,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li>I will be in Vietnam.</li>
 					<li className="list-none">Tôi sẽ ở Việt Nam.</li>
 					<li className="list-none">will - Head</li>
-					<li className="list-none">be in Vietnam (be cụm giới cơ)- DP</li>
+					<li className="list-none">be in Vietnam (be cụm GIỚI)- DP</li>
 			
 				</ul>
 
@@ -896,7 +896,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li>I will not be in Vietnam.</li>
 					<li className="list-none">Tôi sẽ không ở Việt Nam.</li>
 					<li className="list-none">will - Head</li>
-					<li className="list-none">not be in Vietnam (not be cụm giới cơ)- DP</li>
+					<li className="list-none">not be in Vietnam (not be cụm GIỚI)- DP</li>
 			
 				</ul>
 
@@ -917,7 +917,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li>Will I be in Vietnam?</li>
 					<li className="list-none">Tôi sẽ ở Việt Nam chứ?</li>
 					<li className="list-none">Will - Head</li>
-					<li className="list-none">be in Vietnam (be cụm giới cơ) - DP</li>
+					<li className="list-none">be in Vietnam (be cụm GIỚI) - DP</li>
 			
 				</ul>
 			
@@ -928,9 +928,9 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>→ <strong>động cơ nguyên mẫu object</strong></li>
+					<li>→ <strong>ĐỘNG nguyên mẫu object</strong></li>
 					<li>→ <strong>be tính cụm</strong></li>
-					<li>→ <strong>be cụm giới cơ</strong></li>
+					<li>→ <strong>be cụm GIỚI</strong></li>
 			
 				</ul>
 
@@ -951,7 +951,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li>	I could be in Vietnam.</li>
 					<li className="list-none">Tôi có thể ở Việt Nam.</li>
 					<li className="list-none">could - Head</li>
-					<li className="list-none">be in Vietnam (be cụm giới cơ) - DP</li>
+					<li className="list-none">be in Vietnam (be cụm GIỚI) - DP</li>
 			
 				</ul>
 
@@ -972,7 +972,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li>I could not be in Vietnam.</li>
 					<li className="list-none">Tôi không thể nào ở Việt Nam được.</li>
 					<li className="list-none">coud - Head</li>
-					<li className="list-none">not be in Vietnam (be cụm giới cơ) - DP</li>
+					<li className="list-none">not be in Vietnam (be cụm GIỚI) - DP</li>
 			
 				</ul>
 
@@ -993,7 +993,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li>Could I be in Vietnam</li>
 					<li className="list-none">Tôi có thể đang ở Việt Nam không?</li>
 					<li className="list-none">Could - Head</li>
-					<li className="list-none">be in Vietnam (be cụm giới cơ) - DP</li>
+					<li className="list-none">be in Vietnam (be cụm GIỚI) - DP</li>
 			
 				</ul>
 
@@ -1325,7 +1325,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li><strong>Mọi thứ sau Head</strong> (bao gồm not nếu có) = <strong>DP</strong></li>
 					<li><strong>not nằm trong DP</strong>, không đứng riêng</li>
 					<li><strong>DC</strong> có S V, <strong>có thể thay thế DP</strong> hoặc <strong>nằm trong DP</strong></li>
-					<li>Động cơ chính mang thời (buys = does + buy) = <strong>Head tích hợp</strong></li>
+					<li>ĐỘNG chính mang thời (buys = does + buy) = <strong>Head tích hợp</strong></li>
 					<li>am (<strong>Head</strong>) → V-ing - <strong>DP</strong></li>
 					<li>will/could (<strong>Head</strong>) → V nguyên mẫu - <strong>DP</strong></li>
 			

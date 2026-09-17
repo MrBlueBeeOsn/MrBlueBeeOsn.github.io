@@ -47,7 +47,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<h2 className="margin-bottom-50 text-center">Flow fast</h2>
 
-			<h4 className="margin-bottom-30 text-center">Bí Quyết "Hack" Tiếng Anh Cho Người Việt: Đặt [Tính Cơ] Trước [Danh Cơ] Ngay Từ Tư Duy Tiếng Việt – Cách Học Siêu Hiệu Quả Mà Ít Ai Biết!</h4>
+			<h4 className="margin-bottom-30 text-center">Bí Quyết "Hack" Tiếng Anh Cho Người Việt: Đặt [TÍNH] Trước [DANH] Ngay Từ Tư Duy Tiếng Việt – Cách Học Siêu Hiệu Quả Mà Ít Ai Biết!</h4>
 
 			<p>Bạn đã từng dịch câu tiếng Việt sang tiếng Anh và cảm thấy như não bộ đang "đấu vật" không?</p>
 
@@ -67,7 +67,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 			
 					<li>Tiếng Việt: NOUN + ADjective (noun + adjective) – như "cô gái xinh đẹp", "ly cà phê nóng", "bầu trời xanh thẳm".</li>
 			
-					<li>Tiếng Anh: <strong>Tính cơ</strong> + <strong>Danh cơ</strong> (adjective + noun) – beautiful girl, hot coffee, blue sky.</li>
+					<li>Tiếng Anh: <strong>TÍNH</strong> + <strong>DANH</strong> (adjective + noun) – beautiful girl, hot coffee, blue sky.</li>
 			
 				</ul>
 
@@ -81,7 +81,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Tại Sao Cách Này "Thần Kỳ" Với Người Việt?</h3>
 
-			<p>Hầu hết các ngôn ngữ lớn trên thế giới đều đặt <strong>tính cơ trước danh cơ</strong> – giống hệt tiếng Anh.</p>
+			<p>Hầu hết các ngôn ngữ lớn trên thế giới đều đặt <strong>TÍNH trước DANH</strong> – giống hệt tiếng Anh.</p>
 			
 				<ul className="list-square">
 		
@@ -93,11 +93,11 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<p className="margin-top-20">Người Đức, Hà Lan, Thụy Điển, Trung, Hàn, Nhật học tiếng Anh <strong>siêu nhanh</strong> phần trật tự từ vì cấu trúc <strong>đồng nhất</strong> – họ chỉ cần giữ nguyên thói quen!</p>
 
-			<p>Còn tiếng Việt (và một số ngôn ngữ Romance như Pháp, Tây Ban Nha) thì ngược lại: ADjective thường <strong>đứng sau danh cơ</strong>.</p>
+			<p>Còn tiếng Việt (và một số ngôn ngữ Romance như Pháp, Tây Ban Nha) thì ngược lại: ADjective thường <strong>đứng sau DANH</strong>.</p>
 
 			<p>Kết quả? Chúng ta phải "chiến đấu" với não bộ mỗi ngày.</p>
 
-			<p><strong>Giải pháp đỉnh cao</strong>: "Đồng nhất" cấu trúc bằng cách nghĩ <strong>tính cơ</strong> + <strong>danh cơ</strong> ngay từ tiếng Việt!</p>
+			<p><strong>Giải pháp đỉnh cao</strong>: "Đồng nhất" cấu trúc bằng cách nghĩ <strong>TÍNH</strong> + <strong>DANH</strong> ngay từ tiếng Việt!</p>
 
 			<p>Ban đầu lạ lắm, nhưng sau 1-2 tuần, <strong>bạn sẽ dịch tức thì</strong>, <strong>không cần quay xe</strong>, não "chảy" ngôn ngữ từ trái sang phải mượt mà.</p>
 
@@ -109,7 +109,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 					<thead>
 						<tr>
 							<th>Ý tưởng tiếng Việt thông thường</th>
-							<th>Nghĩ "đồng nhất" (tính cơ trước)</th>
+							<th>Nghĩ "đồng nhất" (TÍNH trước)</th>
 							<th>Dịch sang tiếng Anh (xuôi tay)</th>
 							<th>Lợi ích "hack" não</th>
 						</tr>
@@ -179,7 +179,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Luyện Tập 7 Ngày Thay Đổi Não Bộ – Chỉ 5-10 Phút/Ngày</h3>
 
-			<p><strong>Ngày 1-2</strong>: Quan sát xung quanh, nghĩ "tính cơ + danh cơ"</p>
+			<p><strong>Ngày 1-2</strong>: Quan sát xung quanh, nghĩ "TÍNH + DANH"</p>
 			
 				<ul className="list-square">
 
@@ -219,7 +219,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<p>Học tiếng Anh không phải lúc nào cũng nhồi từ vựng hay ngữ pháp.</p>
 
-			<p>Đôi khi chỉ cần <strong>thay đổi một góc nhìn</strong>: để <strong>tính cơ dẫn đầu</strong> ngay từ tư duy tiếng Việt.</p>
+			<p>Đôi khi chỉ cần <strong>thay đổi một góc nhìn</strong>: để <strong>TÍNH dẫn đầu</strong> ngay từ tư duy tiếng Việt.</p>
 
 			<p>Khi làm được, bạn không còn "dịch ngược" – bạn <strong>suy nghĩ song song</strong> với tiếng Anh.</p>
 

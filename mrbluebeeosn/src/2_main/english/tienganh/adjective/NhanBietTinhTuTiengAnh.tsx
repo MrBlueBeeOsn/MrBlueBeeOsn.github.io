@@ -17,15 +17,15 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#adjective-terms"><mark className="highlight-tertiary-padding-4-8">ADjective</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Bí Quyết Nhận Biết [Tính Cơ] Tiếng Anh Nhanh Như Chớp Qua Đuôi Từ</h1>
+			<h1 className="margin-y-50 text-center">Bí Quyết Nhận Biết [TÍNH] Tiếng Anh Nhanh Như Chớp Qua Đuôi Từ</h1>
 
-			<p>Bạn có bao giờ cảm thấy bối rối khi phải phân biệt <strong>tính cơ</strong> (<strong>adjective</strong>) với các từ loại khác trong câu? Đừng lo! Trong tiếng Anh, hầu hết ADjective đều để lại “dấu vân tay” rất rõ ràng qua <strong>đuôi từ</strong> (<strong>suffix</strong>). Chỉ cần ghi nhớ khoảng 8–10 đuôi phổ biến nhất, bạn đã có thể đoán đúng đến 85–90% các ADjective khi làm bài thi, viết luận hay giao tiếp hàng ngày.</p>
+			<p>Bạn có bao giờ cảm thấy bối rối khi phải phân biệt <strong>TÍNH</strong> (<strong>adjective</strong>) với các từ loại khác trong câu? Đừng lo! Trong tiếng Anh, hầu hết ADjective đều để lại “dấu vân tay” rất rõ ràng qua <strong>đuôi từ</strong> (<strong>suffix</strong>). Chỉ cần ghi nhớ khoảng 8–10 đuôi phổ biến nhất, bạn đã có thể đoán đúng đến 85–90% các ADjective khi làm bài thi, viết luận hay giao tiếp hàng ngày.</p>
 			
 			<p>Dưới đây là hướng dẫn chi tiết, sinh động và dễ nhớ nhất để bạn “bắt bài” ADjective chỉ trong tích tắc!</p>
 
-			<h3 className="margin-y-50 text-center">Tại sao đuôi từ lại “bật mí” tính cơ? Tóm tắt các đuôi ADjective phổ biến nhất</h3>
+			<h3 className="margin-y-50 text-center">Tại sao đuôi từ lại “bật mí” TÍNH? Tóm tắt các đuôi ADjective phổ biến nhất</h3>
 
-			<p>Tính cơ thường được tạo ra từ NOUN hoặc hành động bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.</p>
+			<p>TÍNH thường được tạo ra từ NOUN hoặc hành động bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.</p>
 					
 			<p>Dưới đây là <strong>bảng tóm tắt các đuôi ADjective phổ biến nhất</strong> kèm rất nhiều ví dụ thực tế:</p>
 
@@ -336,7 +336,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Chỉ 10 phút mỗi ngày, sau 3 ngày bạn sẽ thấy: Tiếng Anh không còn là “động cơ lằng nhằng” nữa, mà chỉ còn 3 cặp đấu tay đôi vui vẻ và dễ nhớ!</p>
+			<p className="margin-top-20">Chỉ 10 phút mỗi ngày, sau 3 ngày bạn sẽ thấy: Tiếng Anh không còn là “ĐỘNG lằng nhằng” nữa, mà chỉ còn 3 cặp đấu tay đôi vui vẻ và dễ nhớ!</p>
 
 			<h3 className="margin-y-50 text-center">Tóm lại – Top 8 đuôi “vàng” cần ghi nhớ ngay hôm nay</h3>
 
@@ -346,7 +346,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 			<p>Hãy thử áp dụng ngay hôm nay: lấy một bài báo tiếng Anh, gạch chân tất cả từ có đuôi trong danh sách trên và xem bạn đoán đúng bao nhiêu % nhé!</p>
 
-			<p>Chúc bạn học tốt và sớm trở thành “pro” nhận diện tính cơ! 🌟</p>
+			<p>Chúc bạn học tốt và sớm trở thành “pro” nhận diện TÍNH! 🌟</p>
 
 			<div className="viewcounter">
 			

@@ -246,7 +246,7 @@ export default function ThreeDC6(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<h4 className="margin-y-40">Tính cơ</h4>
+			<h4 className="margin-y-40">TÍNH</h4>
 
 			<p className="margin-top-20"></p>
 			
@@ -279,7 +279,7 @@ export default function ThreeDC6(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<h4 className="margin-y-40">Danh cơ / Danh nhận</h4>
+			<h4 className="margin-y-40">DANH / Danh nhận</h4>
 					
 			<p className="text-indent-whole"></p>
 
