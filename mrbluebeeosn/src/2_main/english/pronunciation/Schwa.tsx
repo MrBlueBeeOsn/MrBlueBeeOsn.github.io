@@ -85,7 +85,7 @@ export default function Schwa(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>sepTEMber 15, 2026 · by 💎GEM ·</span>
+          <span>sepTEMber 15, 2026 · by 💎GOOgle Search AI ·</span>
         </div>
 
         <div className="eye-icon no-margin">
