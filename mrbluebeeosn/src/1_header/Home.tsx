@@ -35,7 +35,7 @@ export default function Home(): React.JSX.Element {
             <h1 className="name">BLUE BOOKkeeper</h1>
             <div className="title"><strong>HIEU TRONG KHAU</strong></div>
 
-            <div className="margin-top-10 location"><FontAwesomeIcon icon={faLocationDot} /> HM District, HCMC</div>
+            <div className="margin-top-10 location"><FontAwesomeIcon icon={faLocationDot} /> Vietnam, HCMC</div>
             <div className="graduation"><FontAwesomeIcon icon={faGraduationCap} /> University of Economics HCMC</div>
             
             <div className="contact-info">
