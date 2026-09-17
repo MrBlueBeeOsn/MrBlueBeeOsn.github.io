@@ -87,7 +87,7 @@ export default function toMORrow2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [toMORrow][<Link to="/pronunciation/5-vowel-system">tơ MȮR rōw</Link>] /təˈmɔː.roʊ/ •⬤• (3x)
+              toMORrow \<Link to="/pronunciation/5-vowel-system">tơ MȮR rōw</Link>\ /təˈmɔː.roʊ/ •⬤• (3x)
               
             </span>
               

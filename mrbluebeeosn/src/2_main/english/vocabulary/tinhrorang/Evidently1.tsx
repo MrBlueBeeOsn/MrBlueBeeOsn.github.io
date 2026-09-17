@@ -73,7 +73,7 @@ export default function EVidently1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [EVidently][<Link to="/pronunciation/5-vowel-system">EV i de̛nt ly</Link>] /ˈevɪdəntli/ ⬤••• (4x)
+                EVidently \<Link to="/pronunciation/5-vowel-system">EV i de̛nt ly</Link>\ /ˈevɪdəntli/ ⬤••• (4x)
               </span>
             </li>
 

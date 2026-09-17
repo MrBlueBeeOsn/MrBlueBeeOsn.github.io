@@ -85,7 +85,7 @@ export default function atTENtively2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [atTENtively][<Link to="/pronunciation/5-vowel-system">a̛t TEN tive ly</Link>] /əˈten.tɪv.li/ •⬤•• (4x)
+              atTENtively \<Link to="/pronunciation/5-vowel-system">a̛t TEN tive ly</Link>\ /əˈten.tɪv.li/ •⬤•• (4x)
               
             </span>
               

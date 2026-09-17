@@ -85,7 +85,7 @@ export default function aGAIN2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [aGAIN][<Link to="/pronunciation/5-vowel-system">a̛ GĀ̄IN</Link>] /əˈɡen/ •⬤ (2x)
+              aGAIN \<Link to="/pronunciation/5-vowel-system">a̛ GĀ̄IN</Link>\ /əˈɡen/ •⬤ (2x)
               
             </span>
               

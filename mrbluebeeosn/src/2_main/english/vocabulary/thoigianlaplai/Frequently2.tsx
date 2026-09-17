@@ -85,7 +85,7 @@ export default function FREquently2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [FREquently][<Link to="/pronunciation/5-vowel-system">FRĒ que̛nt ly</Link>] /ˈfriːkwəntli ⬤•• (3x)
+              FREquently \<Link to="/pronunciation/5-vowel-system">FRĒ que̛nt ly</Link>\ /ˈfriːkwəntli ⬤•• (3x)
               
             </span>
               

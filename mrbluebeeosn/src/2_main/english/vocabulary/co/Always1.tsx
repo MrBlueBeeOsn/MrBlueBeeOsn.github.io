@@ -65,7 +65,7 @@ export default function ALways1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [ALways][<Link to="/pronunciation/5-vowel-system">ÅL wāys</Link>] /ˈɔːl.weɪz/ ⬤• (2x)
+                ALways \<Link to="/pronunciation/5-vowel-system">ÅL wāys</Link>\ /ˈɔːl.weɪz/ ⬤• (2x)
               </span>
             </li>
 

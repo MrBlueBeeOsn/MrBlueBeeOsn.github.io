@@ -71,7 +71,7 @@ export default function NOT1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [NOT][<Link to="/pronunciation/5-vowel-system">NOT</Link>] /nɒt/ ⬤
+                NOT \<Link to="/pronunciation/5-vowel-system">NOT</Link>\ /nɒt/ ⬤
               </span>
             </li>
 

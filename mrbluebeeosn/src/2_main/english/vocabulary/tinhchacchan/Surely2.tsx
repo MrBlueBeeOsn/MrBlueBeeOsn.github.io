@@ -87,7 +87,7 @@ export default function SUREly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [SUREly][<Link to="/pronunciation/5-vowel-system">SURE ly</Link>] /ˈʃʊrli/ ⬤• (2x)
+              SUREly \<Link to="/pronunciation/5-vowel-system">SURE ly</Link>\ /ˈʃʊrli/ ⬤• (2x)
               
             </span>
               

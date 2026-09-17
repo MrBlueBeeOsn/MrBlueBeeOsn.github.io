@@ -87,7 +87,7 @@ export default function rePEATedly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [rePEATedly][<Link to="/pronunciation/5-vowel-system">re PĒAT ed ly</Link>] /rɪˈpiːtɪdli/ •⬤•• (4x)
+              rePEATedly \<Link to="/pronunciation/5-vowel-system">re PĒAT ed ly</Link>\ /rɪˈpiːtɪdli/ •⬤•• (4x)
               
             </span>
               

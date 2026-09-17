@@ -73,7 +73,7 @@ export default function FAITHfully1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [FAITHfully][<Link to="/pronunciation/5-vowel-system">FĀITH fưl ly</Link>] /ˈfeɪθfəli/ ⬤•• (3x)
+                FAITHfully \<Link to="/pronunciation/5-vowel-system">FĀITH fưl ly</Link>\ /ˈfeɪθfəli/ ⬤•• (3x)
               </span>
             </li>
 

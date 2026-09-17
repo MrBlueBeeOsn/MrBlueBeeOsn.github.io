@@ -85,7 +85,7 @@ export default function SO2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [SO][<Link to="/pronunciation/5-vowel-system">SŌ</Link>] /soʊ/ ⬤ (1x)
+              SO \<Link to="/pronunciation/5-vowel-system">SŌ</Link>\ /soʊ/ ⬤ (1x)
               
             </span>
               

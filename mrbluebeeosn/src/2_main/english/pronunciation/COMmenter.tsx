@@ -77,7 +77,7 @@ export default function COMmenter(): React.JSX.Element {
 
       {/* 3.  */}
 
-			<h3 className="margin-y-50 text-center" id="Capitalization-Strategy">3. Why Your Capitalization Strategy Still Rules</h3>
+			<h3 className="margin-y-50 text-center" id="Capitalization-Strategy">Why Your Capitalization Strategy Still Rules</h3>
           
       <p>Even though the spoken sound is KHAA, your visual rule of looking at it as COMmenter or COMment remains incredibly powerful.</p>
 

@@ -85,7 +85,7 @@ export default function DEFinitely2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [DEFinitely][<Link to="/pronunciation/5-vowel-system">DEF i̛ ni̛te ly</Link>] /ˈdɛfɪnətli/ ⬤••• (4x)
+              DEFinitely \<Link to="/pronunciation/5-vowel-system">DEF i̛ ni̛te ly</Link>\ /ˈdɛfɪnətli/ ⬤••• (4x)
               
             </span>
               

@@ -85,7 +85,7 @@ export default function SOON2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [SOON][<Link to="/pronunciation/5-vowel-system">SO͞ON</Link>] /suːn/ ⬤ (1x)
+              SOON \<Link to="/pronunciation/5-vowel-system">SO͞ON</Link>\ /suːn/ ⬤ (1x)
               
             </span>
               

@@ -85,7 +85,7 @@ export default function QUICKly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [QUICKly][<Link to="/pronunciation/5-vowel-system">QUICK ly</Link>] /ˈkwɪkli/ ⬤• (2x)
+              QUICKly \<Link to="/pronunciation/5-vowel-system">QUICK ly</Link>\ /ˈkwɪkli/ ⬤• (2x)
               
             </span>
               

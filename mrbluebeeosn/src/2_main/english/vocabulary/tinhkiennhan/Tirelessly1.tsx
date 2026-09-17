@@ -73,7 +73,7 @@ export default function TIRElessly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [TIRElessly][<Link to="/pronunciation/5-vowel-system">TĪRE le̛s sly</Link>] /ˈtaɪrləsli/ ⬤•• (3x)
+                TIRElessly \<Link to="/pronunciation/5-vowel-system">TĪRE le̛s sly</Link>\ /ˈtaɪrləsli/ ⬤•• (3x)
               </span>
             </li>
 

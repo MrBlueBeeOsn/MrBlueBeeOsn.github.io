@@ -85,7 +85,7 @@ export default function CAUtiously2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [CAUtiously][<Link to="/pronunciation/5-vowel-system">CAU tiơus ly</Link>] /ˈkɔː.ʃəs.li/ ⬤•• (3x)
+              CAUtiously \<Link to="/pronunciation/5-vowel-system">CAU tiơus ly</Link>\ /ˈkɔː.ʃəs.li/ ⬤•• (3x)
               
             </span>
               

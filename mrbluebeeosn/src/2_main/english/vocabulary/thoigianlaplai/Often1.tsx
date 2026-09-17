@@ -65,7 +65,7 @@ export default function OFten1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [OFten][<Link to="/pronunciation/5-vowel-system">OF te̛n</Link>]  /ˈɒf.ən/ ⬤• (2x)
+                OFten \<Link to="/pronunciation/5-vowel-system">OF te̛n</Link>]  /ˈɒf.ən/ ⬤• (2x)
               </span>
             </li>
 

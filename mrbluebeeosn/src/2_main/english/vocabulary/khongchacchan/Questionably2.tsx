@@ -85,7 +85,7 @@ export default function QUEStionably2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [QUEStionably][<Link to="/pronunciation/5-vowel-system">QUES tiơn a̛b ly</Link>] /ˈkwɛstʃənəbli/ ⬤••• (4x)
+              QUEStionably \<Link to="/pronunciation/5-vowel-system">QUES tiơn a̛b ly</Link>\ /ˈkwɛstʃənəbli/ ⬤••• (4x)
               
             </span>
               

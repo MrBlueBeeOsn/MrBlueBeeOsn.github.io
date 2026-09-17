@@ -85,7 +85,7 @@ export default function CHEERfully2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [CHEERfully][<Link to="/pronunciation/5-vowel-system">CHEER fưl ly</Link>] /ˈtʃɪrfəli/ ⬤•• (3x)
+              CHEERfully \<Link to="/pronunciation/5-vowel-system">CHEER fưl ly</Link>\ /ˈtʃɪrfəli/ ⬤•• (3x)
               
             </span>
               

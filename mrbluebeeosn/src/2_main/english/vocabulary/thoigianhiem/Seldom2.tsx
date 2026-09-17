@@ -85,7 +85,7 @@ export default function SELdom2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [SELdom][<Link to="/pronunciation/5-vowel-system">SEL dơm</Link>] /ˈsɛldəm/ ⬤• (2x)
+              SELdom \<Link to="/pronunciation/5-vowel-system">SEL dơm</Link>\ /ˈsɛldəm/ ⬤• (2x)
               
             </span>
               

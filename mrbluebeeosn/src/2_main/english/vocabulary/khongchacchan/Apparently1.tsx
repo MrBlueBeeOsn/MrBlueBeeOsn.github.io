@@ -69,7 +69,7 @@ export default function apPARently1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [apPARently][<Link to="/pronunciation/5-vowel-system">a̛p PAR e̛nt ly</Link>] /əˈpærəntli/ •⬤•• (4x)
+                apPARently \<Link to="/pronunciation/5-vowel-system">a̛p PAR e̛nt ly</Link>\ /əˈpærəntli/ •⬤•• (4x)
               </span>
             </li>
 

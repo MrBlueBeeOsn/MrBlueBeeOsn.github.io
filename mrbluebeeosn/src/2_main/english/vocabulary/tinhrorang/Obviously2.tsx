@@ -38,7 +38,7 @@ export default function OBviously2(): React.JSX.Element {
 						
 						<span className="highlight-255-padding-3-6">
 							
-							[OBviously][<Link to="/pronunciation/5-vowel-system">OB vi ơus ly</Link>] /ˈɒbviəsli/ ⬤••• (4x)
+							[OBviously \<Link to="/pronunciation/5-vowel-system">OB vi ơus ly</Link>\ /ˈɒbviəsli/ ⬤••• (4x)
 							
 						</span>
 							

@@ -73,7 +73,7 @@ export default function PAINStakingly1(): React.JSX.Element {
               
             <li>
               <span className="highlight-255-padding-3-6">
-                 [PAINStakingly][<Link to="/pronunciation/5-vowel-system">PĀINS tā king ly</Link>] /ˈpeɪnzˌteɪ.kɪŋ.li/ ⬤••• (4x)
+                 PAINStakingly \<Link to="/pronunciation/5-vowel-system">PĀINS tā king ly</Link>\ /ˈpeɪnzˌteɪ.kɪŋ.li/ ⬤••• (4x)
               </span>
             </li>
             

@@ -73,7 +73,7 @@ export default function efFECtively1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                 [efFECtively][<Link to="/pronunciation/5-vowel-system">ef FEC tive ly</Link>] /ɪˈfektɪvli/ •⬤•• (4x)
+                 efFECtively \<Link to="/pronunciation/5-vowel-system">ef FEC tive ly</Link>\ /ɪˈfektɪvli/ •⬤•• (4x)
               </span>
             </li>
 

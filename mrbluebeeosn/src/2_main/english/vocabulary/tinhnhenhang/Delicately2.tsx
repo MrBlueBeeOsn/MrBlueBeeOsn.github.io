@@ -85,7 +85,7 @@ export default function DELicately2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [DELicately][<Link to="/pronunciation/5-vowel-system">DEL i̛ ca̛te ly</Link>] /ˈdɛlɪkətli/ ⬤••• (4x)
+              DELicately \<Link to="/pronunciation/5-vowel-system">DEL i̛ ca̛te ly</Link>\ /ˈdɛlɪkətli/ ⬤••• (4x)
               
             </span>
               

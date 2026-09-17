@@ -85,7 +85,7 @@ export default function BAsically2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [BAsically][<Link to="/pronunciation/5-vowel-system">BĀ sic a̛lly</Link>] /ˈbeɪsɪkli/ ⬤•• (3x)
+              BAsically \<Link to="/pronunciation/5-vowel-system">BĀ sic a̛lly</Link>\ /ˈbeɪsɪkli/ ⬤•• (3x)
               
             </span>
               

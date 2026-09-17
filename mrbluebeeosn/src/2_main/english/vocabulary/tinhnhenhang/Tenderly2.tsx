@@ -85,7 +85,7 @@ export default function TENderly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [TENderly][<Link to="/pronunciation/5-vowel-system">TEN de̛r ly</Link>] /ˈten.dər.li/ ⬤•• (3x)
+              TENderly \<Link to="/pronunciation/5-vowel-system">TEN de̛r ly</Link>\ /ˈten.dər.li/ ⬤•• (3x)
               
             </span>
               

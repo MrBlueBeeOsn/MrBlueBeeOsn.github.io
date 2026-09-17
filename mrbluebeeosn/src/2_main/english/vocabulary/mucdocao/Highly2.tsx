@@ -85,7 +85,7 @@ export default function HIGHly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [HIGHly][<Link to="/pronunciation/5-vowel-system">HĪGH ly</Link>] /ˈhaɪli/ ⬤• (2x)
+              HIGHly \<Link to="/pronunciation/5-vowel-system">HĪGH ly</Link>\ /ˈhaɪli/ ⬤• (2x)
               
             </span>
               

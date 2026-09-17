@@ -38,7 +38,7 @@ export default function CLEARly2(): React.JSX.Element {
 						
 						<span className="highlight-255-padding-3-6">
 							
-							[CLEARly][<Link to="/pronunciation/5-vowel-system">CLĒAR ly</Link>] /ˈklɪərli/ ⬤• (2x)
+							[CLEARly \<Link to="/pronunciation/5-vowel-system">CLĒAR ly</Link>\ /ˈklɪərli/ ⬤• (2x)
 							
 						</span>
 							
