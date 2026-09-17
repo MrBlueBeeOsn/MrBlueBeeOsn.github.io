@@ -134,6 +134,12 @@ export default function PronunciationIndex(): React.JSX.Element {
               </div>
             </li>
 
+            <li>
+              <div className="li-content">
+                <Link to="/pronunciation/flat-a-and-deep-a">Flat \a\ and Deep \ä\ Sounds</Link>
+              </div>
+            </li>
+
             
 
             
