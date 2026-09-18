@@ -201,7 +201,7 @@ export default function Create(): React.JSX.Element {
           
       <p className="margin-top-20 text-indent-whole" id="NOUN-HEAD"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 1: [creAtion][crē Ā tion] /kriːˈeɪʃn/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 1: [creAtion] \crē Ā tion\ /kriːˈeɪʃn/</p>
       
         <ul className="list-square">
       
@@ -217,7 +217,7 @@ export default function Create(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole" id="ADjective-HEAD"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 2: [creAtive][crē Ā tive] /kriːˈeɪtɪv/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 2: [creAtive] \crē Ā tive\ /kriːˈeɪtɪv/</p>
       
         <ul className="list-square">
       
@@ -233,7 +233,7 @@ export default function Create(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole" id="ADverb-HEAD"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 3: [creAtively][crē Ā tive ly] /kriːˈeɪtɪvli/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 3: [creAtively] \crē Ā tive ly\ /kriːˈeɪtɪvli/</p>
       
         <ul className="list-square">
       

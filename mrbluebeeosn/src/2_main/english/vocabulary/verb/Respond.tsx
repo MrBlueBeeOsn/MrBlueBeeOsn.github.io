@@ -201,7 +201,7 @@ export default function Respond(): React.JSX.Element {
           
       <p className="margin-top-20 text-indent-whole" id="NOUN-HEAD"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 1: [reSPONSE][re SPONSE] /rɪˈspɒns/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 1: [reSPONSE] \re SPONSE\ /rɪˈspɒns/</p>
       
         <ul className="list-square">
       
@@ -217,7 +217,7 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole" id="ADjective-HEAD"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 2: [reSPONsive][re SPON sive] /rɪˈspɒnsɪv/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 2: [reSPONsive] \re SPON sive\ /rɪˈspɒnsɪv/</p>
       
         <ul className="list-square">
       
@@ -233,7 +233,7 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole" id="ADverb-HEAD"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 3: [reSPONsively][re SPON sive ly] /rɪˈspɒnsɪvli/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 3: [reSPONsively] \re SPON sive ly\ /rɪˈspɒnsɪvli/</p>
       
         <ul className="list-square">
       
