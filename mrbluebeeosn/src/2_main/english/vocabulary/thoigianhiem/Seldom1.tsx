@@ -199,7 +199,7 @@ export default function SELdom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she SELdom comPLAINS about her JOB.</li>
+          <li>she SELdom comPLAINS a<strong>bout</strong> her JOB.</li>
           <li className="list-none">Cô ấy hiếm khi phàn nàn về công việc.</li>
 
         </ul>

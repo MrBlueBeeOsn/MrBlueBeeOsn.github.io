@@ -106,7 +106,7 @@ export default function perSIStently2(): React.JSX.Element {
         <li value="1" id="">she perSIStently purSUED her DREAM of beCOMing a DOCtor.</li>
         <li className="list-none margin-bottom-20">Cô ấy kiên trì theo đuổi ước mơ trở thành bác sĩ.</li>
 
-        <li value="2" id="">the JOURnalist perSIStently QUEStioned the poliTICian about the SCANdal.</li>
+        <li value="2" id="">the JOURnalist perSIStently QUEStioned the poliTICian a<strong>bout</strong> the SCANdal.</li>
         <li className="list-none margin-bottom-20">Nhà báo kiên trì đặt câu hỏi cho chính trị gia về vụ bê bối.</li>
 
         <li value="3" id="">he perSIStently deNIED any inVOLVEment in the CRIME.</li>
@@ -118,7 +118,7 @@ export default function perSIStently2(): React.JSX.Element {
         <li value="5" id="">despite the DIFficulties, she reMAINED perSIStently optiMIStic.</li>
         <li className="list-none margin-bottom-20">Mặc dù gặp khó khăn, cô ấy vẫn luôn lạc quan.</li>
 
-        <li value="6" id="">he was perSIStently pesSIStic about the FUture of the COMpany.</li>
+        <li value="6" id="">he was perSIStently pesSIStic a<strong>bout</strong> the FUture of the COMpany.</li>
         <li className="list-none margin-bottom-20">Anh ta luôn bi quan về tương lai của công ty.</li>
 
         <li value="7" id="">the NOISE from the conSTRUCtion SITE was perSIStently anNOYing.</li>

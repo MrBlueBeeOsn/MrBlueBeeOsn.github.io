@@ -204,7 +204,7 @@ export default function REally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i'm REally exCITed about the TRIP.</li>
+          <li>i'm REally exCITed a<strong>bout</strong> the TRIP.</li>
           <li className="list-none">Tôi rất háo hức về chuyến đi.</li>
 
         </ul>

@@ -68,7 +68,7 @@ export default function EVidently2(): React.JSX.Element {
 				<li value="4">he was EVidently surPRISED by the NEWS.</li>
 				<li className="list-none margin-bottom-20">Anh ấy rõ ràng rất ngạc nhiên trước tin tức đó.</li>
 
-				<li value="5">she was EVidently WORried about her SON'S HEALTH.</li>
+				<li value="5">she was EVidently WORried a<strong>bout</strong> her SON'S HEALTH.</li>
 				<li className="list-none margin-bottom-20">Cô ấy rõ ràng rất lo lắng về sức khỏe của con trai mình.</li>
 
 				<li value="6">he was EVidently unprePARED for the TEST.</li>
@@ -83,7 +83,7 @@ export default function EVidently2(): React.JSX.Element {
 				<li value="9">the TWO eVENTS were EVidently conNECTed.</li>
 				<li className="list-none margin-bottom-20">Hai sự kiện đó rõ ràng có liên quan với nhau.</li>
 
-				<li value="10">you were EVidently misTAken about the DATE.</li>
+				<li value="10">you were EVidently misTAken a<strong>bout</strong> the DATE.</li>
 				<li className="list-none margin-bottom-20">Bạn rõ ràng đã nhầm về ngày.</li>
 
 			</ol>

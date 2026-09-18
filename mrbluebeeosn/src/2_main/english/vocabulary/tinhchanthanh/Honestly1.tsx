@@ -159,7 +159,7 @@ export default function HONestly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he LIED disHONestly about his qualifiCAtions.</li>
+          <li>he LIED disHONestly a<strong>bout</strong> his qualifiCAtions.</li>
           <li className="margin-bottom-20 list-none">Anh ta đã nói dối một cách không trung thực về trình độ của mình.</li>
 
           <li>she deCEIVED him deCEITfully.</li>

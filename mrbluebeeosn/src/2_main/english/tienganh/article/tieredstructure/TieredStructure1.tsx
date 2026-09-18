@@ -524,7 +524,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the NEWS [about {'{how this TEAM deSIGNED the APP}'}] is INTEResting.</li>
+					<li>the NEWS [a<strong>bout</strong> {'{how this TEAM deSIGNED the APP}'}] is INTEResting.</li>
 					<li className="margin-bottom-20 list-none">Tin tức [về {'{cách mà đội này đã thiết kế ứng dụng}'}] thì thú vị.</li>
 			
 				</ul>
@@ -533,9 +533,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [about {'{how this TEAM deSIGNED the APP}'}] - [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITion][GIỚI] about.</li>
+						<li className="list-none">Hình thái: [a<strong>bout</strong> {'{how this TEAM deSIGNED the APP}'}] - [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 
-						<li className="list-none">Chức năng: [about {'{how this TEAM deSIGNED the APP}'}] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho "the NEWS" đứng trước nó.</li>
+						<li className="list-none">Chức năng: [a<strong>bout</strong> {'{how this TEAM deSIGNED the APP}'}] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho "the NEWS" đứng trước nó.</li>
 				
 					</ul>
 
@@ -546,7 +546,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{how this TEAM deSIGNED the APP}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể "this TEAM" và [PAST TENSE VERB][QUÁ THỜI ĐỘNG] deSIGNED.</li>
 
-					<li className="list-none">Chức năng: {'{how this TEAM deSIGNED the APP}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] about ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{how this TEAM deSIGNED the APP}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] a<strong>bout</strong> ở tầng ngoài.</li>
 			
 				</ul>
 

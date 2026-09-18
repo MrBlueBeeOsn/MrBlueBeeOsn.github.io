@@ -112,7 +112,7 @@ export default function NOW2(): React.JSX.Element {
         <li value="3" id="">i LIKE to GO HIking in the MOUNtains NOW and THEN.</li>
         <li className="list-none margin-bottom-20">Thỉnh thoảng tôi thích đi bộ đường dài trong núi.</li>
 
-        <li value="4" id="">i NEVer KNEW about this PROBlem until NOW.</li>
+        <li value="4" id="">i NEVer KNEW a<strong>bout</strong> this PROBlem until NOW.</li>
         <li className="list-none margin-bottom-20">Tôi chưa từng biết về vấn đề này cho đến bây giờ.</li>
 
         <li value="5" id="">she USED to be VERy SHY, but THEN and NOW, she's VERy OUTgoing.</li>

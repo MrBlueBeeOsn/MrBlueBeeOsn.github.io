@@ -628,20 +628,20 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the ARticle [about {'{how she sucCEEDed}'}] is inSPIring.</li>
+					<li>the ARticle [a<strong>bout</strong> {'{how she sucCEEDed}'}] is inSPIring.</li>
 					<li className="margin-bottom-20 list-none">Bài báo [về {'{cách cô ấy thành công}'}] rất truyền cảm hứng.</li>
 
 					<li className="list-none">Hình thái:</li>
 
 					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how she sucCEEDed}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "she" và [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "sucCEEDed", bắt đầu bằng [conJUNCtion][LIÊN] how.</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [about {'{how she sucCEEDed}'}] là một khối [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] about.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [a<strong>bout</strong> {'{how she sucCEEDed}'}] là một khối [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Tầng trong: Lớp trong {'{how she sucCEEDed}'} đóng vai trò là một [NOUN CLAUSE][DANH CÂU] đứng làm điểm tựa [OBject PROnoun][TÂN ĐẠI] dưới sự điều phối của [prepoSITion][GIỚI] about.</li>
+					<li className="list-none">Tầng trong: Lớp trong {'{how she sucCEEDed}'} đóng vai trò là một [NOUN CLAUSE][DANH CÂU] đứng làm điểm tựa [OBject PROnoun][TÂN ĐẠI] dưới sự điều phối của [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 
-					<li className="list-none">Tầng ngoài: Lớp ngoài [about {'{how she sucCEEDed}'}] đóng vai trò là một [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tổng thể bổ nghĩa cho [NOUN PHRASE][DANH CỤM] "the ARticle" đứng trước nó.</li>
+					<li className="list-none">Tầng ngoài: Lớp ngoài [a<strong>bout</strong> {'{how she sucCEEDed}'}] đóng vai trò là một [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tổng thể bổ nghĩa cho [NOUN PHRASE][DANH CỤM] "the ARticle" đứng trước nó.</li>
 			
 				</ul>
 

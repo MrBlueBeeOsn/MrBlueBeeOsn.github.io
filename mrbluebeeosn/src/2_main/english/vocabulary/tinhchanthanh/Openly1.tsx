@@ -169,7 +169,7 @@ export default function Openly1(): React.JSX.Element {
           <li>they SEcretly MET at NIGHT.</li>
           <li className="margin-bottom-20 list-none">Họ bí mật gặp nhau vào ban đêm.</li>
 
-          <li>we TALKED PRIvately about the MATter.</li>
+          <li>we TALKED PRIvately a<strong>bout</strong> the MATter.</li>
           <li className="list-none">Chúng tôi đã nói chuyện riêng về vấn đề này.</li>
 
         </ul>
@@ -195,7 +195,7 @@ export default function Openly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he Openly SPEAKing about his exPERIences.</li>
+          <li>he Openly SPEAKing a<strong>bout</strong> his exPERIences.</li>
           <li className="list-none">Anh ấy đang công khai chia sẻ về những trải nghiệm của mình.</li>
 
         </ul>

@@ -30,43 +30,43 @@ export default function GENuinely2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HAPpy">HAPpy</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#conCERNED-about">conCERNED about</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GRATEful-for">GRATEful for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SORry-for">SORry for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#INTERested-in">INTERested in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#beLIEVE-in">beLIEVE in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#adMIRE">adMIRE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#apPREciate">apPREciate</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#CARES-about">CARES about</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LOVES">LOVES</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function GENuinely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she was GENuinely HAPpy to SEE her OLD FRIENDS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rất vui khi gặp lại bạn bè cũ.</li>
+        <li value="1" id="HAPpy">she was GENuinely [HAPpy] to SEE her OLD FRIENDS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rất [vui] khi gặp lại bạn bè cũ.</li>
 
-        <li value="2" id="">he was GENuinely conCERNED about her WELL-BEing.</li>
+        <li value="2" id="conCERNED-about">he was GENuinely [conCERNED a<strong>bout</strong>] her WELL-BEing.</li>
         <li className="list-none margin-bottom-20">Anh ấy rất quan tâm đến sức khỏe của cô ấy.</li>
 
-        <li value="3" id="">i am GENuinely GRATEful for your HELP.</li>
-        <li className="list-none margin-bottom-20">Tôi thật sự biết ơn sự giúp đỡ của bạn.</li>
+        <li value="3" id="GRATEful-for">i am GENuinely [GRATEful for] your HELP.</li>
+        <li className="list-none margin-bottom-20">Tôi thật sự [biết ơn] sự giúp đỡ của bạn.</li>
 
-        <li value="4" id="">he was GENuinely SORry for his  misTAKE.</li>
-        <li className="list-none margin-bottom-20">Anh ấy rất hối hận về lỗi lầm của mình.</li>
+        <li value="4" id="SORry-for">he was GENuinely [SORry for] his  misTAKE.</li>
+        <li className="list-none margin-bottom-20">Anh ấy rất [[hối hận về] lỗi lầm của mình.</li>
 
-        <li value="5" id="">she was GENuinely INTERested in his STOry.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rất quan tâm đến câu chuyện của anh ấy.</li>
+        <li value="5" id="INTERested-in">she was GENuinely [INTERested in] his STOry.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rất [quan tâm đến] câu chuyện của anh ấy.</li>
 
-        <li value="6" id="">i GENuinely beLIEVE in the POWer of LOVE.</li>
-        <li className="list-none margin-bottom-20">Tôi thật sự tin vào sức mạnh của tình yêu.</li>
+        <li value="6" id="beLIEVE-in">i GENuinely [beLIEVE in] the POWer of LOVE.</li>
+        <li className="list-none margin-bottom-20">Tôi thật sự [tin vào] sức mạnh của tình yêu.</li>
 
-        <li value="7" id="">i GENuinely adMIRE her COUrage.</li>
-        <li className="list-none margin-bottom-20">Tôi rất ngưỡng mộ sự dũng cảm của cô ấy.</li>
+        <li value="7" id="adMIRE">i GENuinely [adMIRE] her COUrage.</li>
+        <li className="list-none margin-bottom-20">Tôi rất [ngưỡng mộ] sự dũng cảm của cô ấy.</li>
 
-        <li value="8" id="">i GENuinely apPREciate your KINDness.</li>
-        <li className="list-none margin-bottom-20">Tôi thật sự trân trọng lòng tốt của bạn.</li>
+        <li value="8" id="apPREciate">i GENuinely [apPREciate] your KINDness.</li>
+        <li className="list-none margin-bottom-20">Tôi thật sự [trân trọng] lòng tốt của bạn.</li>
 
-        <li value="9" id="">she GENuinely CARES about the WELfare of OTHers.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thật sự quan tâm đến phúc lợi của người khác.</li>
+        <li value="9" id="CARES-about">she GENuinely [CARES a<strong>bout</strong>] the WELfare of OTHers.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thật sự [quan tâm đến] phúc lợi của người khác.</li>
 
-        <li value="10" id="">he GENuinely LOVES his FAMILy.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thật sự yêu thương gia đình của mình.</li>
+        <li value="10" id="LOVES">he GENuinely [LOVES] his FAMILy.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thật sự [yêu thương] gia đình của mình.</li>
 
       </ol>
 

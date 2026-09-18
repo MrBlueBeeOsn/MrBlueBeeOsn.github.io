@@ -127,7 +127,7 @@ export default function ocCAsionally2(): React.JSX.Element {
         <li value="8" id="">she ocCAsionally NEEDS HELP with her HOMEwork.</li>
         <li className="list-none margin-bottom-20">Cô ấy thỉnh thoảng cần giúp đỡ bài tập về nhà.</li>
 
-        <li value="9" id="">he ocCAsionally TALKS about his CHILDhood.</li>
+        <li value="9" id="">he ocCAsionally TALKS a<strong>bout</strong> his CHILDhood.</li>
         <li className="list-none margin-bottom-20">Anh ấy thỉnh thoảng nói về tuổi thơ của mình.</li>
 
         <li value="10" id="">they ocCAsionally TRAVel to EURope in the SUMmer.</li>

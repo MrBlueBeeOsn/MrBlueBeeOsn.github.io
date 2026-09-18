@@ -103,7 +103,7 @@ export default function FREquently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the fAQ SECtion proVIDES ANswers to FREquently ASKED QUESTions about the PRODuct.</li>
+        <li value="1" id="">the fAQ SECtion proVIDES ANswers to FREquently ASKED QUESTions a<strong>bout</strong> the PRODuct.</li>
         <li className="list-none margin-bottom-20">Phần FAQ cung cấp câu trả lời cho những câu hỏi thường gặp về sản phẩm.</li>
 
         <li value="2" id="">THIS is a FREquently USED PHRASE in everyday converSAtion.</li>

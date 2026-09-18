@@ -26,6 +26,53 @@ export default function ACtually2(): React.JSX.Element {
 				</sup>
 			</h1>
 
+			<div className="example">
+																			
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#i-THINK">i THINK</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#it's">it's</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#LIKE">LIKE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#i've-ALREAdy-SEEN">i've ALREAdy SEEN</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#a-LONG-WALK">a LONG WALK</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#MEAN">MEAN</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#SIMple">SIMple</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#BEEN-to">BEEN to</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#NOT-THAT-exPENsive">NOT THAT exPENsive</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#i-was-WONdering-if">i was WONdering if</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+			</div>
+
 			{/* This is the content of Vocabulary Term. */}
 
 			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ACtually</strong>" (thực ra) và các cụm từ thường đi kèm nhé.</p>
@@ -38,7 +85,7 @@ export default function ACtually2(): React.JSX.Element {
 						
 						<span className="highlight-255-padding-3-6">
 							
-							[ACtually \<Link to="/pronunciation/5-vowel-system">AC tưa̛l ly</Link>\ /ˈæk.tʃəl.i/ ⬤•• (3x)
+							ACtually \<Link to="/pronunciation/5-vowel-system">AC tưa̛l ly</Link>\ /ˈæk.tʃəl.i/ ⬤•• (3x)
 							
 						</span>
 							
@@ -56,35 +103,35 @@ export default function ACtually2(): React.JSX.Element {
 
 			<ol className="margin-top-30 padding-left-30">
 
-				<li value="1">i THOUGHT he was ANGry, but ACtually, i THINK he was JUST TIred.</li>
-				<li className="list-none margin-bottom-20">Tôi tưởng anh ấy tức giận, nhưng thực ra, tôi nghĩ anh ấy chỉ mệt mỏi thôi.</li>
+				<li value="1" id="i-THINK">i THOUGHT he was ANGry, but ACtually, [i THINK] he was JUST TIred.</li>
+				<li className="list-none margin-bottom-20">Tôi tưởng anh ấy tức giận, nhưng thực ra, [tôi nghĩ] anh ấy chỉ mệt mỏi thôi.</li>
 
-				<li value="2">i THOUGHT it was a CAT, but ACtually, it's a racCOON.</li>
-				<li className="list-none margin-bottom-20">Tôi tưởng đó là một con mèo, nhưng thực ra, đó là một con gấu trúc.</li>
+				<li value="2" id="it's">i THOUGHT it was a CAT, but ACtually, [it's] a racCOON.</li>
+				<li className="list-none margin-bottom-20">Tôi tưởng đó là một con mèo, nhưng thực ra, [đó là] một con gấu trúc.</li>
 
-				<li value="3">she does NOT ACtually LIKE COFfee, she JUST preTENDS.</li>
-				<li className="list-none margin-bottom-20">Cô ấy không thực sự thích cà phê, cô ấy chỉ giả vờ thôi.</li>
+				<li value="3" id="LIKE">she does NOT ACtually [LIKE] COFfee, she JUST preTENDS.</li>
+				<li className="list-none margin-bottom-20">Cô ấy không thực sự [thích] cà phê, cô ấy chỉ giả vờ thôi.</li>
 
-				<li value="4">as a MATter of FACT, ACtually, i've ALREAdy SEEN that MOvie.</li>
-				<li className="list-none margin-bottom-20">Thực tế mà nói thì, tôi đã xem bộ phim đó rồi.</li>
+				<li value="4" id="i've-ALREAdy-SEEN">as a MATter of FACT, ACtually, [i've ALREAdy SEEN] that MOvie.</li>
+				<li className="list-none margin-bottom-20">Thực tế mà nói thì, [tôi đã xem] bộ phim đó rồi.</li>
 
-				<li value="5">it's ACtually a LONG WALK to the STORE.</li>
-				<li className="list-none margin-bottom-20">Thực ra thì đi bộ đến cửa hàng khá xa.</li>
+				<li value="5" id="a-LONG-WALK">it's ACtually [a LONG WALK] to the STORE.</li>
+				<li className="list-none margin-bottom-20">Thực ra thì [đi bộ] đến cửa hàng [khá xa].</li>
 
-				<li value="6">i did NOT ACtually MEAN to HURT your FEELings.</li>
-				<li className="list-none margin-bottom-20">Thực ra tôi không có ý làm bạn tổn thương.</li>
+				<li value="6" id="MEAN">i did NOT ACtually [MEAN] to HURT your FEELings.</li>
+				<li className="list-none margin-bottom-20">Thực ra tôi không [có ý] làm bạn tổn thương.</li>
 
-				<li value="7">it's ACtually SIMple to DO.</li>
-				<li className="list-none margin-bottom-20">Thực ra thì rất đơn giản để làm.</li>
+				<li value="7" id="SIMple">it's ACtually [SIMple] to DO.</li>
+				<li className="list-none margin-bottom-20">Thực ra thì rất [đơn giản] để làm.</li>
 
-				<li value="8">i've ACtually BEEN to PARis TWICE.</li>
-				<li className="list-none margin-bottom-20">Thực ra tôi đã đến Paris hai lần rồi.</li>
+				<li value="8" id="BEEN-to">i've ACtually [BEEN to] PARis TWICE.</li>
+				<li className="list-none margin-bottom-20">Thực ra tôi [đã đến] Paris hai lần rồi.</li>
 
-				<li value="9">it's ACtually that exPENsive.</li>
-				<li className="list-none margin-bottom-20">Thực ra không phải là đắt đâu.</li>
+				<li value="9" id="NOT-THAT-exPENsive">it's ACtually [NOT THAT exPENsive].</li>
+				<li className="list-none margin-bottom-20">Thực ra [cái đó không đắt lắm đâu].</li>
 
-				<li value="10">ACtually, i was WONdering if you could HELP me with THIS.</li>
-				<li className="list-none margin-bottom-20">Thực ra, tôi đang tự hỏi liệu bạn có thể giúp tôi việc này không.</li>
+				<li value="10" id="i-was-WONdering-if">ACtually, [i was WONdering if] you could HELP me with THIS.</li>
+				<li className="list-none margin-bottom-20">Thực ra, [tôi đang tự hỏi liệu] bạn có thể giúp tôi việc này không.</li>
 
 			</ol>
 

@@ -121,7 +121,7 @@ export default function SELdom2(): React.JSX.Element {
         <li value="6" id="">i SELdom HAVE TIME to reLAX.</li>
         <li className="list-none margin-bottom-20">Tôi hiếm khi có thời gian để thư giãn.</li>
 
-        <li value="7" id="">she SELdom THINKS about the PAST.</li>
+        <li value="7" id="">she SELdom THINKS a<strong>bout</strong> the PAST.</li>
         <li className="list-none margin-bottom-20">Cô ấy hiếm khi nghĩ về quá khứ.</li>
 
         <li value="8" id="">he SELdom MAKES misTAKES in his WORK.</li>

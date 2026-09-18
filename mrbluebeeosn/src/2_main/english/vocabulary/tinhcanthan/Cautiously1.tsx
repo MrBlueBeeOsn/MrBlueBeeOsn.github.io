@@ -107,7 +107,7 @@ export default function CAUtiously1(): React.JSX.Element {
           <li>she CAUtiously Opened the DOOR, NOT KNOWing who was on the OTHer SIDE.</li>
           <li className="margin-bottom-20 list-none">Cô ấy cẩn thận mở cửa, không biết ai ở bên kia.</li>
 
-          <li>the COMpany is CAUtiously optiMIStic about the NEW PRODuct LAUNCH.</li>
+          <li>the COMpany is CAUtiously optiMIStic a<strong>bout</strong> the NEW PRODuct LAUNCH.</li>
           <li className="list-none">Công ty thận trọng lạc quan về việc ra mắt sản phẩm mới.</li>
 
         </ul>
@@ -130,7 +130,7 @@ export default function CAUtiously1(): React.JSX.Element {
           <li className="list-none">she is a CAUtious inVESTor.</li>
           <li className="margin-bottom-20 list-none">Cô ấy là một nhà đầu tư thận trọng.</li>
 
-          <li id="VERB">the poLICE CAUtioned him about his SPEED.</li>
+          <li id="VERB">the poLICE CAUtioned him a<strong>bout</strong> his SPEED.</li>
           <li className="list-none">Cảnh sát đã cảnh báo anh ấy về tốc độ lái xe.</li>
 
           <li id="NOUN">EXercise CAUtion when HANDling CHEMicals.</li>
@@ -159,7 +159,7 @@ export default function CAUtiously1(): React.JSX.Element {
           <li>she EYED the STRANGer WARily.</li>
           <li className="margin-bottom-20 list-none">Cô ấy nhìn người lạ một cách cảnh giác.</li>
 
-          <li>he SPOKE CIRcumspectly about the SENsitive ISsue.</li>
+          <li>he SPOKE CIRcumspectly a<strong>bout</strong> the SENsitive ISsue.</li>
           <li className="list-none">Anh ấy đã nói một cách thận trọng về vấn đề nhạy cảm.</li>
 
         </ul>
@@ -293,10 +293,10 @@ export default function CAUtiously1(): React.JSX.Element {
 
           <ol>
 
-            <li className="margin-top-50">the COMpany is optiMIStic about the NEW PRODuct LAUNCH.</li>
+            <li className="margin-top-50">the COMpany is optiMIStic a<strong>bout</strong> the NEW PRODuct LAUNCH.</li>
             <li className="list-none margin-bottom-20">Công ty lạc quan về việc ra mắt sản phẩm mới.</li>
 
-            <li value="2">the COMpany is CAUtiously optiMIStic about the NEW PRODuct LAUNCH.</li>
+            <li value="2">the COMpany is CAUtiously optiMIStic a<strong>bout</strong> the NEW PRODuct LAUNCH.</li>
             <li className="list-none">Công ty thận trọng lạc quan về việc ra mắt sản phẩm mới.</li>
 
           </ol>

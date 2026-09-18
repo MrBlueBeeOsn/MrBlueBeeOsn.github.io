@@ -66,10 +66,10 @@ export default function OBviously2(): React.JSX.Element {
 				<li value="3">THIS is OBviously the BEST OPtion.</li>
 				<li className="list-none margin-bottom-20">Đây rõ ràng là lựa chọn tốt nhất.</li>
 
-				<li value="4">she was OBviously upSET about the NEWS.</li>
+				<li value="4">she was OBviously upSET a<strong>bout</strong> the NEWS.</li>
 				<li className="list-none margin-bottom-20">Cô ấy rõ ràng là buồn về tin tức đó.</li>
 
-				<li value="5">he was OBviously exCIted about the TRIP.</li>
+				<li value="5">he was OBviously exCIted a<strong>bout</strong> the TRIP.</li>
 				<li className="list-none margin-bottom-20">Anh ấy rõ ràng là rất hào hứng về chuyến đi.</li>
 
 				<li value="6">she was OBviously TIred <strong>af</strong>ter a LONG DAY.</li>
@@ -84,7 +84,7 @@ export default function OBviously2(): React.JSX.Element {
 				<li value="9">the DAMage was OBviously inTENtional.</li>
 				<li className="list-none margin-bottom-20">Những hư hại này rõ ràng là cố ý gây ra.</li>
 
-				<li value="10">you are OBviously misTAken about the FACTS.</li>
+				<li value="10">you are OBviously misTAken a<strong>bout</strong> the FACTS.</li>
 				<li className="list-none margin-bottom-20">Bạn rõ ràng là đã nhầm lẫn về những sự thật.</li>
 
 			</ol>

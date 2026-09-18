@@ -354,7 +354,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy [đã có] một cuộc họp hiệu quả với nhóm kế toán [vào ngày hôm qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng had để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they [have had] <strong>sever</strong>al disCUSsions about the NEW WEB PROJect.</li>
+					<li>they [have had] <strong>sever</strong>al disCUSsions a<strong>bout</strong> the NEW WEB PROJect.</li>
 					<li className="list-none">Họ [đã có] vài cuộc thảo luận về dự án web mới [rồi].</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have had (trong đó have là trợ động, còn had là động chính ở dạng phân từ hai), nói về sự việc đã diễn ra và vẫn có liên quan hoặc để lại kết quả ở hiện tại.</li>
 			
@@ -487,7 +487,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy [đã biết] cách chỉnh cài đặt máy ảnh của mình [vào ngày hôm qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng KNEW để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they [have KNOWN] about the NEW acCOUNTing reguLAtions for WEEKS.</li>
+					<li>they [have KNOWN] a<strong>bout</strong> the NEW acCOUNTing reguLAtions for WEEKS.</li>
 					<li className="list-none">Họ [đã biết] về các quy định kế toán mới trong nhiều tuần [rồi].</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have KNOWN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -522,7 +522,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy [đưa ra] những lời khuyên hữu ích về phát triển web [vào mỗi buổi tối].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng GIVES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li>she [GAVE] a presenTAtion about her phoTOGraphy portFOlio [YESterday].</li>
+					<li>she [GAVE] a presenTAtion a<strong>bout</strong> her phoTOGraphy portFOlio [YESterday].</li>
 					<li className="list-none">Cô ấy [đã thuyết trình] về danh mục đầu tư nhiếp ảnh của mình [vào ngày hôm qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng GAVE để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
@@ -541,7 +541,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy [viết] mã cho các dự án phát triển web của mình [vào mỗi buổi tối].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng WRITES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li>she [WROTE] an ARticle about her phoTOGraphy JOURney [YESterday].</li>
+					<li>she [WROTE] an ARticle a<strong>bout</strong> her phoTOGraphy JOURney [YESterday].</li>
 					<li className="list-none">Cô ấy [đã viết] một bài báo về hành trình nhiếp ảnh của mình [vào ngày hôm qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng WROTE để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
@@ -560,11 +560,11 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy [nói] tiếng Anh trôi chảy sau khi luyện tập với ứng dụng ngôn ngữ của mình [vào mỗi buổi tối].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SPEAKS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li>she [SPOKE] to the phoTOGraphy CLIent about the PROJect DEtails [YESterday].</li>
+					<li>she [SPOKE] to the phoTOGraphy CLIent a<strong>bout</strong> the PROJect DEtails [YESterday].</li>
 					<li className="list-none">Cô ấy [đã nói chuyện] với khách hàng về các chi tiết dự án nhiếp ảnh [vào ngày hôm qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng SPOKE để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they [have SPOken] about the NEW acCOUNTing STRATegies [alREADy].</li>
+					<li>they [have SPOken] a<strong>bout</strong> the NEW acCOUNTing STRATegies [alREADy].</li>
 					<li className="list-none">Họ [đã bàn bạc] về các chiến lược kế toán mới [rồi].</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SPOken, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -594,15 +594,15 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [THINKS] about NEW STRATegies for his WEB deVELopment WORK [<strong>ever</strong>y EVEning].</li>
+					<li>he [THINKS] a<strong>bout</strong> NEW STRATegies for his WEB deVELopment WORK [<strong>ever</strong>y EVEning].</li>
 					<li className="list-none">Anh ấy [suy nghĩ] về các chiến lược mới cho công việc phát triển web của mình [vào mỗi buổi tối].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng THINKS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li>she [THOUGHT] about rePAIRing her BROken CAMERa [YESterday].</li>
+					<li>she [THOUGHT] a<strong>bout</strong> rePAIRing her BROken CAMERa [YESterday].</li>
 					<li className="list-none">Cô ấy [đã suy nghĩ] về việc sửa chiếc máy ảnh bị hỏng của mình [vào ngày hôm qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng THOUGHT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they [have THOUGHT CAREfully] about the NEW fiNANcial PLAN.</li>
+					<li>they [have THOUGHT CAREfully] a<strong>bout</strong> the NEW fiNANcial PLAN.</li>
 					<li className="list-none">Họ [đã suy nghĩkỹ lưỡng]  về kế hoạch tài chính mới [rồi].</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have THOUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -613,15 +613,15 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [TELLS] his TEAM about his NEW PROJect iDEaS [<strong>ever</strong>y EVEning].</li>
+					<li>he [TELLS] his TEAM a<strong>bout</strong> his NEW PROJect iDEaS [<strong>ever</strong>y EVEning].</li>
 					<li className="list-none">Anh ấy [kể] cho đội ngũ của mình nghe về các ý tưởng dự án mới [vào mỗi buổi tối].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng TELLS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li>she [TOLD] me the WHOLE STORy about her CAMERa [YESterday].</li>
+					<li>she [TOLD] me the WHOLE STORy a<strong>bout</strong> her CAMERa [YESterday].</li>
 					<li className="list-none">Cô ấy [đã kể] cho tôi nghe toàn bộ câu chuyện về chiếc máy ảnh của cô ấy [vào ngày hôm qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng TOLD để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they [have TOLD] us all the DEtails about the acCOUNTing rePORT.</li>
+					<li>they [have TOLD] us all the DEtails a<strong>bout</strong> the acCOUNTing rePORT.</li>
 					<li className="list-none">Họ [đã nói] cho chúng tôi biết tất cả các chi tiết về báo cáo kế toán [rồi].</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have TOLD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -1079,7 +1079,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy [đã quên] trả lời tin nhắn của tôi [vào ngày hôm qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng forGOT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they [have forGOTten] all about the apPOINTment.</li>
+					<li>they [have forGOTten] all a<strong>bout</strong> the apPOINTment.</li>
 					<li className="list-none">Họ [đã quên] hết về cuộc hẹn đó [rồi].</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have forGOTten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -1099,7 +1099,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy [đã nghe] tin vui [vào ngày hôm qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng HEARD để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>we [have HEARD] about this PLAN [beFORE].</li>
+					<li>we [have HEARD] a<strong>bout</strong> this PLAN [beFORE].</li>
 					<li className="list-none">Chúng ta [đã nghe] về kế hoạch này [trước đây].</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have HEARD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			

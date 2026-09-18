@@ -97,7 +97,7 @@ export default function GENuinely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADverb">she GENuinely CARES about her FRIENDS.</li>
+          <li id="ADverb">she GENuinely CARES a<strong>bout</strong> her FRIENDS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy thực sự quan tâm đến bạn bè của mình.</li>
 
           <li>he was GENuinely surPRISED by the GIFT.</li>
@@ -162,7 +162,7 @@ export default function GENuinely1(): React.JSX.Element {
           <li>he SMILED insinCEREly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy cười một cách không chân thành.</li>
 
-          <li>he SPOKE hypoCRITically about HONEsty.</li>
+          <li>he SPOKE hypoCRITically a<strong>bout</strong> HONEsty.</li>
           <li className="list-none">Anh ta nói về sự trung thực một cách đạo đức giả.</li>
 
         </ul>

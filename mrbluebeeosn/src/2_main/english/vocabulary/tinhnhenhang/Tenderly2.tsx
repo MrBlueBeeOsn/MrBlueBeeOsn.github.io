@@ -115,7 +115,7 @@ export default function TENderly2(): React.JSX.Element {
         <li value="4" id="">she TENderly CARED for her SICK MOTHer.</li>
         <li className="list-none margin-bottom-20">Cô ấy chăm sóc người mẹ ốm yếu của mình một cách dịu dàng.</li>
 
-        <li value="5" id="">he TENderly SPOKE to her about her FEARS.</li>
+        <li value="5" id="">he TENderly SPOKE to her a<strong>bout</strong> her FEARS.</li>
         <li className="list-none margin-bottom-20">Anh ấy nói chuyện với cô ấy về nỗi sợ hãi của cô ấy một cách dịu dàng.</li>
 
         <li value="6" id="">she TENderly LOOKED at her SLEEPing CHILD.</li>

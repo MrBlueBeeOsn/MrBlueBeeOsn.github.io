@@ -113,7 +113,7 @@ export default function SUREly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">are you SURE about that?</li>
+          <li id="ADjective">are you SURE a<strong>bout</strong> that?</li>
           <li className="list-none">Bạn có chắc chắn về điều đó không?</li>
 
         </ul>

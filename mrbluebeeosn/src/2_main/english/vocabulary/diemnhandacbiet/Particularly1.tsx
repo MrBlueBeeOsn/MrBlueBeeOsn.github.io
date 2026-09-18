@@ -117,7 +117,7 @@ export default function parTICularly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">she is <Link to="/vocabulary/VERy-1">VERy</Link> parTICular about her CLOTHES.</li>
+          <li id="ADjective">she is <Link to="/vocabulary/VERy-1">VERy</Link> parTICular a<strong>bout</strong> her CLOTHES.</li>
           <li className="margin-bottom-20 list-none">Cô ấy rất kỹ tính về quần áo của mình.</li>
 
           <li id="VERB">can you parTICularize the PROBlem?</li>

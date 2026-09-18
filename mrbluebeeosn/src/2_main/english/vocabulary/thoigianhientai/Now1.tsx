@@ -147,7 +147,7 @@ export default function NOW1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>we can TALK about it LAter.</li>
+          <li>we can TALK a<strong>bout</strong> it LAter.</li>
           <li className="margin-bottom-20 list-none">Chúng ta có thể nói về điều đó sau.</li>
 
           <li>be<strong>fore</strong> i GO, i WANT to SAY GOODBYE.</li>

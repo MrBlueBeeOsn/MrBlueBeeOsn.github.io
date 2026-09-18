@@ -109,7 +109,7 @@ export default function ABsolutely2(): React.JSX.Element {
         <li value="2" id="">it is ABsolutely NECessary to HAVE a PASSport to TRAVel abROAD.</li>
         <li className="list-none margin-bottom-20">Cần phải có hộ chiếu để đi du lịch nước ngoài là điều hoàn toàn cần thiết.</li>
 
-        <li value="3" id="">you are ABsolutely RIGHT about that.</li>
+        <li value="3" id="">you are ABsolutely RIGHT a<strong>bout</strong> that.</li>
         <li className="list-none margin-bottom-20">Bạn hoàn toàn đúng về điều đó.</li>
 
         <li value="4" id="">i ABsolutely LOVE CHOCOLate ICE CREAM.</li>

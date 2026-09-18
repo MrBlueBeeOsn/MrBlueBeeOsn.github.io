@@ -103,8 +103,8 @@ export default function VISibly1(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the CHILDren were VISibly exCIted about the UPcoming TRIP.</li>
-        <li className="list-none">The children were visibly excited about the upcoming trip.</li>
+        <li value="1" id="">the CHILDren were VISibly exCIted a<strong>bout</strong> the UPcoming TRIP.</li>
+        <li className="list-none">The children were visibly excited a<strong>bout</strong> the upcoming trip.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ rõ ràng rất phấn khích về chuyến đi sắp tới.</li>
 
         <li value="2" id="">she was VISibly upSET <strong>af</strong>ter HEARing the BAD NEWS.</li>
@@ -128,7 +128,7 @@ export default function VISibly1(): React.JSX.Element {
         <li value="8" id="">she was VISibly NERvous be<strong>fore</strong> her SPEECH.</li>
         <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất lo lắng trước bài phát biểu của mình.</li>
 
-        <li value="9" id="">he was VISibly unCOMFORtable when they ASKED about his PAST.</li>
+        <li value="9" id="">he was VISibly unCOMFORtable when they ASKED a<strong>bout</strong> his PAST.</li>
         <li className="list-none margin-bottom-20">Anh ấy rõ ràng rất không thoải mái khi họ hỏi về quá khứ của anh.</li>
 
         <li value="10" id="">the TWO SISters were VISibly DIFFERent in persoNALity.</li>

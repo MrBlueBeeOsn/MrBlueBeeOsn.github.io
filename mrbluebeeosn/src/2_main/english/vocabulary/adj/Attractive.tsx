@@ -199,7 +199,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i FOUND the docuMENtary about DEEP-SEA CREAtures ABsolutely [FAScinating].</li>
+          <li>i FOUND the docuMENtary a<strong>bout</strong> DEEP-SEA CREAtures ABsolutely [FAScinating].</li>
           <li className="list-none">Tôi thấy bộ phim tài liệu về các sinh vật biển sâu hoàn toàn thú vị.</li>
 
         </ul>

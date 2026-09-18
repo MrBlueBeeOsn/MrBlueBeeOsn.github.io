@@ -69,7 +69,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>my MOTHer BAKED a <strong>deLICious</strong> CHOCOLate CAKE for my BIRTHday PARTy.</li>
 					<li className="margin-bottom-20 list-none">Mẹ tôi đã nướng một chiếc bánh sô-cô-la <strong>ngon tuyệt</strong> cho bữa tiệc sinh nhật của tôi.</li>
 			
-					<li>CHILDren are NATURally <strong>CURious</strong> about the WORLD around them and ALWAYS ASK <strong>man</strong>y QUEStions.</li>
+					<li>CHILDren are NATURally <strong>CURious</strong> a<strong>bout</strong> the WORLD around them and ALWAYS ASK <strong>man</strong>y QUEStions.</li>
 					<li className="margin-bottom-20 list-none">Trẻ em vốn dĩ <strong>tò mò</strong> về thế giới xung quanh và luôn đặt ra rất nhiều câu hỏi.</li>
 			
 					<li>the COMpany MADE an <strong>eNORmous</strong> PROFit this YEAR <strong>af</strong>ter LAUNCHing their NEW PRODuct LINE.</li>
@@ -208,7 +208,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>she LOOKED VEry <strong>HAPpy</strong> when she reCEIVED the GOOD NEWS about her proMOtion.</li>
+					<li>she LOOKED VEry <strong>HAPpy</strong> when she reCEIVED the GOOD NEWS a<strong>bout</strong> her proMOtion.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy trông rất <strong>vui vẻ</strong> khi nhận được tin vui về việc được thăng chức.</li>
 			
 					<li>it was a COLD and <strong>RAIny</strong> afterNOON, so we deCIDed to STAY inDOORS and WATCH a MOvie.</li>
@@ -242,10 +242,10 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li><strong>af</strong>ter WORKing for TEN HOURS STRAIGHT, she was TOO <strong>TIred</strong> to COOK DINner.</li>
 					<li className="margin-bottom-20 list-none">Sau khi làm việc suốt mười tiếng đồng hồ, cô ấy quá <strong>mệt mỏi</strong> để nấu bữa tối.</li>
 
-					<li>the KIDS were SO <strong>exCIted</strong> about GOing to the aMUSEment PARK toMORrow.</li>
+					<li>the KIDS were SO <strong>exCIted</strong> a<strong>bout</strong> GOing to the aMUSEment PARK toMORrow.</li>
 					<li className="margin-bottom-20 list-none">Bọn trẻ rất <strong>hào hứng</strong> về việc đi công viên giải trí vào ngày mai.</li>
 			
-					<li>i am VEry <strong>INTERested</strong> in LEARNing MORE about artiFIcial inTELligence.</li>
+					<li>i am VEry <strong>INTERested</strong> in LEARNing MORE a<strong>bout</strong> artiFIcial inTELligence.</li>
 					<li className="margin-bottom-20 list-none">Tôi rất <strong>quan tâm</strong> đến việc tìm hiểu thêm về trí tuệ nhân tạo.</li>
 			
 					<li>we were <strong>surPRISED</strong> by the unexPECted BIRTHday PARTy our FRIENDS THREW for us.</li>
@@ -268,7 +268,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>HIKing up the MOUNtain ALL DAY was VEry <strong>TIRing</strong>, but the VIEW at the TOP was WORTH it.</li>
 					<li className="margin-bottom-20 list-none">Việc đi bộ đường dài lên núi suốt cả ngày rất <strong>mệt</strong>, nhưng phong cảnh trên đỉnh thì rất đáng giá.</li>
 
-					<li>she TOLD me an <strong>INTEResting</strong> STOry about her TRIP to jaPAN.</li>
+					<li>she TOLD me an <strong>INTEResting</strong> STOry a<strong>bout</strong> her TRIP to jaPAN.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy kể cho tôi nghe một câu chuyện <strong>thú vị</strong> về chuyến đi Nhật Bản của cô ấy.</li>
 			
 					<li>WINning the CHAMpionship MATCH was the MOST <strong>exCIting</strong> MOment of his caREER.</li>

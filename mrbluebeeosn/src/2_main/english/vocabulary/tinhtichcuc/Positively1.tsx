@@ -181,7 +181,7 @@ export default function POSitively1(): React.JSX.Element {
           <li>he reACTed NEGatively to the NEWS.</li>
           <li className="margin-bottom-20 list-none">Anh ấy phản ứng tiêu cực với tin tức.</li>
 
-          <li>she SPOKE unCERtainly about her PLANS.</li>
+          <li>she SPOKE unCERtainly a<strong>bout</strong> her PLANS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy nói một cách không chắc chắn về kế hoạch của mình.</li>
 
           <li>the BAD WEAther ADversely afFECTed the CROPS.</li>

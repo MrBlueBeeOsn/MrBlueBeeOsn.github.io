@@ -55,7 +55,7 @@ export default function BEAUtiful(): React.JSX.Element {
           <li>WHAT a [BEAUtiful] SUNset!</li>
           <li className="margin-bottom-20 list-none">Thật là một cảnh hoàng hôn đẹp tuyệt vời!</li>
 
-          <li>the POet WROTE about the [BEAUteous] STARS in the NIGHT SKY.</li>
+          <li>the POet WROTE a<strong>bout</strong> the [BEAUteous] STARS in the NIGHT SKY.</li>
           <li className="list-none">Nhà thơ đã viết về những ngôi sao tuyệt đẹp trên bầu trời đêm.</li>
       
         </ul>

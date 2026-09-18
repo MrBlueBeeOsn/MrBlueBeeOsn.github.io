@@ -424,12 +424,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the presenTAtion [about reNEWable ENergy] atTRACted inVEStors.</li>
+					<li>the presenTAtion [a<strong>bout</strong> reNEWable ENergy] atTRACted inVEStors.</li>
 					<li className="margin-bottom-20 list-none">Bài thuyết trình [về năng lượng tái tạo] đã thu hút các nhà đầu tư.</li>
 			
-					<li className="list-none">Hình thái: [about reNEWable ENergy] – [prepoSITional PHRASE][GIỚI CỤM] thể hiện một khối thông tin định vị chủ đề bắt đầu bằng [prepoSITion][GIỚI] "about".</li>
+					<li className="list-none">Hình thái: [a<strong>bout</strong> reNEWable ENergy] – [prepoSITional PHRASE][GIỚI CỤM] thể hiện một khối thông tin định vị chủ đề bắt đầu bằng [prepoSITion][GIỚI] "a<strong>bout</strong>".</li>
 			
-					<li className="list-none">Chức năng: [about reNEWable ENergy] – [ADjective PHRASE][TÍNH CỤM] đang đứng vị trí ngay sau một đối tượng để bổ nghĩa, mô tả tính chất và định danh riêng cho bài thuyết trình đó.</li>
+					<li className="list-none">Chức năng: [a<strong>bout</strong> reNEWable ENergy] – [ADjective PHRASE][TÍNH CỤM] đang đứng vị trí ngay sau một đối tượng để bổ nghĩa, mô tả tính chất và định danh riêng cho bài thuyết trình đó.</li>
 			
 				</ul>
 			

@@ -111,7 +111,7 @@ export default function rePEATedly2(): React.JSX.Element {
         <li value="2" id="">he rePEATedly FAILED his DRIving TEST.</li>
         <li className="list-none margin-bottom-20">Anh ấy thi bằng lái nhiều lần nhưng đều trượt.</li>
 
-        <li value="3" id="">she was rePEATedly WARNED about the DANGers of SPEEDing.</li>
+        <li value="3" id="">she was rePEATedly WARNED a<strong>bout</strong> the DANGers of SPEEDing.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã được cảnh báo nhiều lần về nguy hiểm của việc lái xe quá tốc độ.</li>
 
         <li value="4" id="">the TEACHer rePEATedly EMphasized the imPORtance of STUDying.</li>

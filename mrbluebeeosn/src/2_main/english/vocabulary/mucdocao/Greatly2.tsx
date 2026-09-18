@@ -121,7 +121,7 @@ export default function GREATly2(): React.JSX.Element {
         <li value="6" id="">SALES have GREATly inCREASED since the NEW MARketing camPAIGN.</li>
         <li className="list-none margin-bottom-20">Doanh số đã tăng lên đáng kể kể từ khi chiến dịch tiếp thị mới được triển khai.</li>
 
-        <li value="7" id="">i am GREATly conCERNED about the enVIronment.</li>
+        <li value="7" id="">i am GREATly conCERNED a<strong>bout</strong> the enVIronment.</li>
         <li className="list-none margin-bottom-20">Tôi rất lo lắng về môi trường.</li>
 
         <li value="8" id="">i was GREATly disapPOINTed with the reSULTS.</li>
