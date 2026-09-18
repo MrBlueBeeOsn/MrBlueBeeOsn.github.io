@@ -208,7 +208,7 @@ export default function SV2(): React.JSX.Element {
 					<li>The child seems [exhausted from playing].</li>
 					<li className="margin-bottom-20 list-none">Đứa trẻ có vẻ [kiệt sức vì chơi].</li>
 			
-					<li className="list-none">Hình thái: [exhausted from playing] – [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] gồm hành động exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
+					<li className="list-none">Hình thái: [exhausted from playing] – [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] gồm hành động exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
 			
 					<li className="list-none">Chức năng: [exhausted from playing] – [ADjective PHRASE][TÍNH CỤM] đứng sau hành động seems, mô tả trạng thái của thực thể The child.</li>
 			

@@ -192,7 +192,7 @@ export default function LegoAssembly1(): React.JSX.Element {
           <li value="8">[<strong>SOFT MOdal and BARE inFINitive VERB</strong>][<strong>Ý THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: would OPerate, could HELP</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will OPerate, can LAUNCH</li>
+          <li value="9">[<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will OPerate, can LAUNCH</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết.</li>
 
           <li value="10">[<strong>auXILiary and BARE inFINitive VERB</strong>][<strong>TRỢ và THUẦN NGUYÊN ĐỘNG</strong>]: DID OPerate, DOES conSTRUCT</li>
@@ -207,7 +207,7 @@ export default function LegoAssembly1(): React.JSX.Element {
           <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: LAUNCHing, conSTRUCTing, OPerating</li>
           <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing thể hiện tính chất đang [Tiếp] diễn, kéo dài.</li>
 
-          <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>QUÁ HOÀN ĐỘNG</strong>]: LAUNCHED, conSTRUCTed, been, OPerating</li>
+          <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>ĐÃ HOÀN ĐỘNG</strong>]: LAUNCHED, conSTRUCTed, been, OPerating</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành.</li>
       
           <li value="14">[<strong>auXILiary and PRESent PARTiciple VERB</strong>][<strong>TRỢ và HIỆN TIẾP ĐỘNG</strong>]: is LAUNCHing, was conSTRUCTing</li>
@@ -238,7 +238,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>Ví dụ 2: to OPtimize [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG]</li>
 					<li className="margin-bottom-20 list-none">→ to OPtimize the DAtabase [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM].</li>
 			
-					<li>Ví dụ 3: will seCURE [asSERTive MOdal and BARE inFINitive VERB][ÁP-THÁI và THUẦN NGUYÊN ĐỘNG] + the NETwork [Danh Nhận]</li>
+					<li>Ví dụ 3: will seCURE [asSERTive MOdal and BARE inFINitive VERB][ÁP THÁI và THUẦN NGUYÊN ĐỘNG] + the NETwork [Danh Nhận]</li>
 					<li className="list-none">→ will seCURE the NETwork [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase].</li>
 			
 				</ul>
@@ -299,15 +299,15 @@ export default function LegoAssembly1(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP THÁI và THUẦN NGUYÊN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm tình huống ép buộc, chắc chắn: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), have to (bắt buộc), may (khả năng)</p>
 
         <ul className="list-square">
       
-          <li>will MODify → [asSERTive MOdal][ÁP-THÁI] will (cam kết) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] MODify</li>
+          <li>will MODify → [asSERTive MOdal][ÁP THÁI] will (cam kết) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] MODify</li>
       
-          <li>must seCURE → [asSERTive MOdal][ÁP-THÁI] must (ép buộc) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] seCURE</li>
+          <li>must seCURE → [asSERTive MOdal][ÁP THÁI] must (ép buộc) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] seCURE</li>
       
         </ul>
 

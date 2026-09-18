@@ -98,7 +98,7 @@ export default function (): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [USED for PAYroll PROcessing] - [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [USED for PAYroll PROcessing] - [ADjective PHRASE][TÍNH CỤM] defining and restricting the meaning of the specific technical noun \"SOFTware\" being discussed."
+			explanation: "Form: [USED for PAYroll PROcessing] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [USED for PAYroll PROcessing] - [ADjective PHRASE][TÍNH CỤM] defining and restricting the meaning of the specific technical noun \"SOFTware\" being discussed."
 		},
 		{
 			id: 9,

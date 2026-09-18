@@ -133,7 +133,7 @@ export default function AdjPlacement1(): React.JSX.Element {
           <li value="8">[<strong>SOFT MOdal and BARE inFINitive VERB</strong>][<strong>Ý THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: would VERify, could deSIGN</li>
           <li className="margin-bottom-20 list-none">Kết hợp [Thái] độ mềm mỏng với hành động [Thuần] khiết, biểu đạt sự nhường nhịn.</li>
       
-          <li value="9">[<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will VERify, can deSIGN</li>
+          <li value="9">[<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will VERify, can deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tính xác quyết với hành động [Thuần] khiết, tạo nên khả năng thực tế rõ ràng.</li>
 
           <li value="10">[<strong>auXILiary and BARE inFINitive VERB</strong>][<strong>TRỢ và THUẦN NGUYÊN ĐỘNG</strong>]: DID oRIGinate, DOES FORMulate</li>
@@ -148,7 +148,7 @@ export default function AdjPlacement1(): React.JSX.Element {
           <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: oRIGinating, FORMulating</li>
           <li className="margin-bottom-20 list-none">Hành động mang hậu tố "-ing", diễn tả trạng thái đang [Tiếp] diễn, kéo dài.</li>
 
-          <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>QUÁ HOÀN ĐỘNG</strong>]: oRIGinated, FORMulated</li>
+          <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>ĐÃ HOÀN ĐỘNG</strong>]: oRIGinated, FORMulated</li>
           <li className="margin-bottom-20 list-none">Dạng phân bổ trợ hoặc đuôi "-ed", xác lập trạng thái hành động đã trọn vẹn, [Hoàn] tất.</li>
       
           <li value="14">[<strong>auXILiary and PRESent PARTiciple VERB</strong>][<strong>TRỢ và HIỆN TIẾP ĐỘNG</strong>]: is oRIGinating, was FORMulating</li>
@@ -223,15 +223,15 @@ export default function AdjPlacement1(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP THÁI và THUẦN NGUYÊN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Tình huống xác quyết, ép buộc:</p>
 
         <ul className="list-square">
       
-          <li>will FORMulate → [asSERTive MOdal][ÁP-THÁI] will + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] FORMulate</li>
+          <li>will FORMulate → [asSERTive MOdal][ÁP THÁI] will + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] FORMulate</li>
       
-          <li>must oRIGinate → [asSERTive MOdal][ÁP-THÁI] must + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] oRIGinate</li>
+          <li>must oRIGinate → [asSERTive MOdal][ÁP THÁI] must + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] oRIGinate</li>
       
         </ul>
  
@@ -343,14 +343,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PAST PARTiciple VERB PHRASE</strong>][<strong>QUÁ HOÀN ĐỘNG CỤM</strong>] <strong>đã xong</strong>, <strong>bị động</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PAST PARTiciple VERB PHRASE</strong>][<strong>ĐÃ HOÀN ĐỘNG CỤM</strong>] <strong>đã xong</strong>, <strong>bị động</strong></p>
 			
 				<ul className="list-square">
 			
 					<li>the PROtocol [deSIGNED by exTERnal conSULtants] enSURES TOtal seCUrity.</li>
 					<li className="margin-bottom-20 list-none">Giao thức [được thiết kế bởi các chuyên gia tư vấn bên ngoài] đảm bảo bảo mật tuyệt đối.</li>
 			
-					<li className="list-none">Hình thái: [deSIGNED by exTERnal conSULtants] - [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] phát triển từ [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] "deSIGNED" kết hợp mở rộng ở dạng bị động.</li>
+					<li className="list-none">Hình thái: [deSIGNED by exTERnal conSULtants] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] phát triển từ [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] "deSIGNED" kết hợp mở rộng ở dạng bị động.</li>
 			
 					<li className="list-none">Chức năng: [deSIGNED by exTERnal conSULtants] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng "PROtocol" để mô tả đặc điểm trạng thái bị động hoàn thành.</li>
 			
@@ -371,7 +371,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE PAST PARTiciple VERB PHRASE</strong>][<strong>HẠT THUẦN QUÁ HOÀN ĐỘNG CỤM</strong>] <strong>sắp xảy ra</strong>, <strong>bị động</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE PAST PARTiciple VERB PHRASE</strong>][<strong>HẠT THUẦN ĐÃ HOÀN ĐỘNG CỤM</strong>] <strong>sắp xảy ra</strong>, <strong>bị động</strong></p>
 			
 				<ul className="list-square">
 			

@@ -163,7 +163,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
           <li>have been exPLORing ➔ [Thời ĐỘNG]have/has/had + been + [HIỆN TIẾP ĐỘNG] exPLORing</li>
       
-          <li>have exPLORED ➔ [Thời ĐỘNG]have/has/had + [QUÁ HOÀN ĐỘNG]exPLORED</li>
+          <li>have exPLORED ➔ [Thời ĐỘNG]have/has/had + [ĐÃ HOÀN ĐỘNG]exPLORED</li>
       
           <li>exPLORES, exPLORED ➔ [Thời-Thuần ĐỘNG] Tích hợp năng lượng thời gian trực tiếp vào chữ đơn.</li>
       
@@ -196,7 +196,7 @@ export default function TieredStructure1(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP THÁI và THUẦN NGUYÊN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm biểu thị tính ép buộc, cam kết hoặc chắc chắn cao, không để lại lối thoát cho người nghe: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), have to (bắt buộc), may (khả năng).</p>
 
@@ -242,7 +242,7 @@ export default function TieredStructure1(): React.JSX.Element {
           <li value="8">[<strong>SOFT MOdal and BARE inFINitive VERB</strong>][<strong>Ý THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: would exPLORE, could deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất cấu trúc giữa bộ lọc [Thái] độ nhã nhặn và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will exPLORE, can BUILD</li>
+          <li value="9">[<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will exPLORE, can BUILD</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất cấu trúc giữa bộ lọc [Thái] độ khẳng định, [Áp] đặt và hành động [Thuần] khiết.</li>
 
           <li value="10">[<strong>auXILiary and BARE inFINitive VERB</strong>][<strong>TRỢ và THUẦN NGUYÊN ĐỘNG</strong>]: DID BUILD, DOES deSIGN</li>
@@ -257,7 +257,7 @@ export default function TieredStructure1(): React.JSX.Element {
           <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: BUILDing, deSIGNing, exPLORing</li>
           <li className="margin-bottom-20 list-none">Hình thái hành động mang đuôi -ing biểu thị trạng thái [Tiếp] diễn, vận hành liên tục.</li>
 
-          <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>QUÁ HOÀN ĐỘNG</strong>]: BUILT, deSIGNED, been, exPLORED</li>
+          <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>ĐÃ HOÀN ĐỘNG</strong>]: BUILT, deSIGNED, been, exPLORED</li>
           <li className="margin-bottom-20 list-none">Hình thái hành động ở dạng hoàn thành (cột 3 hoặc thêm đuôi -ed) biểu thị tính chất trọn vẹn, [Hoàn] thành.</li>
       
           <li value="14">[<strong>auXILiary and PRESent PARTiciple VERB</strong>][<strong>TRỢ và HIỆN TIẾP ĐỘNG</strong>]: is BUILDing, was deSIGNing</li>
@@ -285,8 +285,8 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>exPLORing [HIỆN TIẾP ĐỘNG] + a NEW CIty [Danh Nhận]</li>
 					<li className="margin-bottom-20 list-none">➔ exPLORing a NEW CIty [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM].</li>
 			
-					<li>has BUILT [Thời QUÁ HOÀN ĐỘNG] + a SMART HOME [Danh Nhận] + REcently [TRẠNG]</li>
-					<li className="margin-bottom-20 list-none">➔ has BUILT a SMART HOME REcently [Thời QUÁ HOÀN ĐỘNG CỤM][Tense PAST PARTiciple VERB PHRASE].</li>
+					<li>has BUILT [Thời ĐÃ HOÀN ĐỘNG] + a SMART HOME [Danh Nhận] + REcently [TRẠNG]</li>
+					<li className="margin-bottom-20 list-none">➔ has BUILT a SMART HOME REcently [Thời ĐÃ HOÀN ĐỘNG CỤM][Tense PAST PARTiciple VERB PHRASE].</li>
 			
 				</ul>
 
@@ -402,7 +402,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>the SOFTware [BUILT by them] WORKS FLAWlessly.</li>
 					<li className="margin-bottom-20 list-none">Phần mềm [được xây dựng bởi họ] hoạt động không một lỗi nhỏ.</li>
 			
-					<li className="list-none">Hình thái: [BUILT by them] - [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] hiển dung dưới dạng một vùng mã chứa [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] BUILT bị động và phần mở rộng chủ thể.</li>
+					<li className="list-none">Hình thái: [BUILT by them] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] hiển dung dưới dạng một vùng mã chứa [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] BUILT bị động và phần mở rộng chủ thể.</li>
 			
 					<li className="list-none">Chức năng: [BUILT by them] - [ADjective PHRASE][TÍNH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng "SOFTware" để mô tả đặc điểm trạng thái của đối tượng đó.</li>
 			

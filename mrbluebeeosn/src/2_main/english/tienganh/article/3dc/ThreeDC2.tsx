@@ -315,7 +315,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>I like the bread [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi thích ổ bánh mì [do bà tôi làm].</li>
 			
-					<li className="list-none">Hình thái: [made by my grandmother] - [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] dạng V-ed kèm tác thể</li>
+					<li className="list-none">Hình thái: [made by my grandmother] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] dạng V-ed kèm tác thể</li>
 			
 					<li className="list-none">Chức năng: [made by my grandmother] - [ADjective PHRASE][TÍNH CỤM] bổ nghĩa cho [DANH] [the bread]</li>
 			

@@ -450,7 +450,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The car [______] runs smoothly.</li>
 					<li className="margin-bottom-20 list-none">Chiếc xe [được sửa hôm qua] chạy rất êm.</li>
 			
-					<li className="list-none">Hình thái: [repaired yesterday] – [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] dạng *-ed*.</li>
+					<li className="list-none">Hình thái: [repaired yesterday] – [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] dạng *-ed*.</li>
 			
 					<li className="list-none">Chức năng: [repaired yesterday] – [ADjective PHRASE][TÍNH CỤM] bổ nghĩa cho The car.</li>
 			

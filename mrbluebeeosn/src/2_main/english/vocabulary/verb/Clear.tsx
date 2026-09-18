@@ -38,7 +38,7 @@ export default function Clear(): React.JSX.Element {
               <li>you must [clear] the browser history.</li>
               <li className="margin-bottom-20 list-none">Bạn phải [xóa] lịch sử trình duyệt.</li>
 
-              <li className="list-none">Hình thái: [clear] - [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] dạng nguyên bản đứng sau [asSERTive MOdal and BARE inFINitive VERB][ÁP-THÁI và THUẦN NGUYÊN ĐỘNG] "must" để thực thi hành động tác động lên thành phần chịu tác động "the browser history".</li>
+              <li className="list-none">Hình thái: [clear] - [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] dạng nguyên bản đứng sau [asSERTive MOdal and BARE inFINitive VERB][ÁP THÁI và THUẦN NGUYÊN ĐỘNG] "must" để thực thi hành động tác động lên thành phần chịu tác động "the browser history".</li>
           
             </ul>
 
@@ -69,10 +69,10 @@ export default function Clear(): React.JSX.Element {
           <li value="2">[<strong>TENSE VERB</strong>][<strong>THỜI ĐỘNG</strong>]: is, was, has, had, will</li>
           <li className="margin-bottom-20 list-none">Là đơn vị từ đơn chuyên biệt chịu trách nhiệm kích hoạt bối cảnh thời gian (Hiện tại/Quá khứ) hoặc làm trợ lực thiết lập thể chủ động/bị động, hoàn thành/tiếp diễn.</li>
 
-          <li value="3">[<strong>Thời QUÁ HOÀN ĐỘNG</strong>][<strong>Complex Tense VERB</strong>]: had been, has been</li>
+          <li value="3">[<strong>Thời ĐÃ HOÀN ĐỘNG</strong>][<strong>Complex Tense VERB</strong>]: had been, has been</li>
           <li className="margin-bottom-20 list-none">Là phân hệ cụm mã gồm nhiều thành phần thời phối hợp nhau để xử lý các bối cảnh thời gian phức tạp (như 🏃‍♂️ Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành Tiếp Diễn, 🏃‍♂️ Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Tiếp Diễn).</li>
       
-          <li value="4">[<strong>Tiếp, QUÁ HOÀN ĐỘNG</strong>][<strong>Progressive, Perfect  VERB</strong>]: clearing, cleared (khi đi sau các trợ mã Thời)</li>
+          <li value="4">[<strong>Tiếp, ĐÃ HOÀN ĐỘNG</strong>][<strong>Progressive, Perfect  VERB</strong>]: clearing, cleared (khi đi sau các trợ mã Thời)</li>
           <li className="margin-bottom-20 list-none">Là mã hành động đã được biến đổi hình thái sang dạng chuyển động tiếp diễn (-ing) hoặc trạng thái hoàn thành/bị động (-v3/-ed) để phối hợp với thành phần Thời, trực tiếp hiển thị bản chất thực thi của hành động.</li>
 
           <li value="5">[<strong>Thái ĐỘNG</strong>][<strong>Modal VERB</strong>]: must, can, should, may, might</li>
@@ -92,11 +92,11 @@ export default function Clear(): React.JSX.Element {
 
           <li>was clearing → [Thời ĐỘNG] was + [HIỆN TIẾP ĐỘNG] clearing</li>
       
-          <li>has cleared → [Thời ĐỘNG] has + [QUÁ HOÀN ĐỘNG] cleared</li>
+          <li>has cleared → [Thời ĐỘNG] has + [ĐÃ HOÀN ĐỘNG] cleared</li>
       
-          <li>had been clearing → [Thời QUÁ HOÀN ĐỘNG] had been + [HIỆN TIẾP ĐỘNG] clearing</li>
+          <li>had been clearing → [Thời ĐÃ HOÀN ĐỘNG] had been + [HIỆN TIẾP ĐỘNG] clearing</li>
 
-          <li>has been clearing → [Thời QUÁ HOÀN ĐỘNG] has been + [HIỆN TIẾP ĐỘNG] clearing</li>
+          <li>has been clearing → [Thời ĐÃ HOÀN ĐỘNG] has been + [HIỆN TIẾP ĐỘNG] clearing</li>
       
           <li>cleared (⏳ Thời Gian Hành Động ở Quá Khứ Đơn) → [Thời-Thuần ĐỘNG] (Một đơn vị tích hợp cả hai)</li>
       
@@ -260,7 +260,7 @@ export default function Clear(): React.JSX.Element {
           <li>the files [cleared by the administrator] are permanently deleted.</li>
           <li className="margin-bottom-20 list-none">Các tệp tin [đã được xóa bởi quản trị viên] thì bị xóa vĩnh viễn.</li>
       
-          <li className="list-none">Hình thái: [cleared by the administrator] - [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] hiển thị dưới dạng một vùng mã chứa [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] ở dạng bị động thuộc trục thời quá khứ và phần mở rộng phương thức.</li>
+          <li className="list-none">Hình thái: [cleared by the administrator] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] hiển thị dưới dạng một vùng mã chứa [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] ở dạng bị động thuộc trục thời quá khứ và phần mở rộng phương thức.</li>
       
           <li className="list-none">Chức năng: [cleared by the administrator] - [ADjective PHRASE][TÍNH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng "files" để mô tả đặc điểm trạng thái bị động hoàn thành của đối tượng đó.</li>
       

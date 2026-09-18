@@ -68,7 +68,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [WRITten by the FAmous proFESsor] - [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] formed by the past participle \"WRITten\" and its agentive prepositional phrase \"by the FAmous proFESsor\". \n\n Function: [WRITten by the FAmous proFESsor] - [ADjective PHRASE][TÍNH CỤM] post-modifies and restricts the meaning of the head noun \"BOOK\"."
+			explanation: "Form: [WRITten by the FAmous proFESsor] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] formed by the past participle \"WRITten\" and its agentive prepositional phrase \"by the FAmous proFESsor\". \n\n Function: [WRITten by the FAmous proFESsor] - [ADjective PHRASE][TÍNH CỤM] post-modifies and restricts the meaning of the head noun \"BOOK\"."
 		},
 		{
 			id: 6,
