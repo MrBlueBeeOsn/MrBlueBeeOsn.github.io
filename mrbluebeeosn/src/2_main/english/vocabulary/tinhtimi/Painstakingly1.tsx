@@ -140,7 +140,7 @@ export default function PAINStakingly1(): React.JSX.Element {
           <li>she arRANGED the FLOWers <Link to="/vocabulary/meTICulously-1">meTICulously</Link>.</li>
           <li className="margin-bottom-20 list-none">Cô ấy sắp xếp hoa một cách tỉ mỉ.</li>
 
-          <li>he exAMined the DOCument <Link to="/vocabulary/Carefully-1">CAREfully</Link>.</li>
+          <li>he eXAMined the DOCument <Link to="/vocabulary/Carefully-1">CAREfully</Link>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy xem xét tài liệu một cách cẩn thận.</li>
 
           <li>they SEARCHED the HOUSE <Link to="/vocabulary/THORoughly-1">THORoughly</Link>.</li>
@@ -195,7 +195,7 @@ export default function PAINStakingly1(): React.JSX.Element {
           <li>he PAINStakingly rePAIRed the anTIQUE CLOCK.</li>
           <li className="margin-bottom-20 list-none">Anh ấy PAINStakingly sửa chữa chiếc đồng hồ cổ.</li>
 
-          <li>the SCIentist PAINStakingly exAMined the TIny SPEcimen.</li>
+          <li>the SCIentist PAINStakingly eXAMined the TIny SPEcimen.</li>
           <li className="list-none">Nhà khoa học tỉ mỉ kiểm tra mẫu vật nhỏ bé.</li>
 
         </ul>

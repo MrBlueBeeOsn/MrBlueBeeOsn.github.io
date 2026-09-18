@@ -230,10 +230,10 @@ export default function efFECtively1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1">she STUDied for the exAM.</li>
+            <li value="1">she STUDied for the eXAM.</li>
             <li className="list-none margin-bottom-20">Cô ấy đã học bài cho kỳ thi.</li>
 
-            <li value="2">she STUDied efFECtively for the exAM and GOT a HIGH SCORE.</li>
+            <li value="2">she STUDied efFECtively for the eXAM and GOT a HIGH SCORE.</li>
             <li className="list-none margin-bottom-20">Cô ấy đã học bài một cách hiệu quả cho kỳ thi và đạt điểm cao.</li>
 
           </ol>

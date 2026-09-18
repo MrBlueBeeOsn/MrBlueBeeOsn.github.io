@@ -82,7 +82,7 @@ export default function NguyenAmDoi(): React.JSX.Element {
 
             <tr>
                 <td>/jə/ (u̇+ư)</td>
-                <td>[ACcurate][AC cư̇r a̛te] /ˈæk.jə.rət/</td>
+                <td>[ACcurate][AC cưr a̛te] /ˈæk.jə.rət/</td>
             </tr>
 
             <tr>

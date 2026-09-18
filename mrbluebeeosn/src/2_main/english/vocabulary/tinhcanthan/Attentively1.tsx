@@ -140,7 +140,7 @@ export default function atTENtively1(): React.JSX.Element {
           <li>he HANDled the FRAgile OBject <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy xử lý vật dễ vỡ một cách cẩn thận.</li>
 
-          <li>he exAMined the DOCument CLOSEly.</li>
+          <li>he eXAMined the DOCument CLOSEly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy kiểm tra kỹ lưỡng tài liệu.</li>
 
           <li>he WATCHED the CHILDren WATCHfully.</li>

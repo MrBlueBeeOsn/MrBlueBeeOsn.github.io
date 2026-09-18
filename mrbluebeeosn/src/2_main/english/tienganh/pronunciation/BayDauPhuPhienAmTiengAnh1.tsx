@@ -412,11 +412,11 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">và ư̇ cho /jə/:</p>
+      <p className="margin-top-20 text-indent-whole">và ư cho /jə/:</p>
 
       <ul className="list-square">
       
-          <li>[ACcurate][AC cư̇r a̛te] /ˈæk.jə.rət/</li>
+          <li>[ACcurate][AC cưr a̛te] /ˈæk.jə.rət/</li>
       
         </ul>
 

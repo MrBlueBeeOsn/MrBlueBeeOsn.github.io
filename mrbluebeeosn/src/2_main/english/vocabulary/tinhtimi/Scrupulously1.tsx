@@ -73,7 +73,7 @@ export default function SCRUpulously1(): React.JSX.Element {
               
             <li>
               <span className="highlight-255-padding-3-6">
-                [SCRUpulously \<Link to="/pronunciation/5-vowel-system">SCRÜ pư̇ lơus ly</Link>\ /ˈskruː.pjə.ləs.li/ ⬤••• (4x)
+                [SCRUpulously \<Link to="/pronunciation/5-vowel-system">SCRÜ pư lơus ly</Link>\ /ˈskruː.pjə.ləs.li/ ⬤••• (4x)
               </span>
             </li>
             
@@ -192,7 +192,7 @@ export default function SCRUpulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he exAMined the DOCument SCRUpulously.</li>
+          <li>he eXAMined the DOCument SCRUpulously.</li>
           <li className="margin-bottom-20 list-none">Anh ấy kiểm tra tài liệu một cách tỉ mỉ.</li>
 
           <li>she CLEANED the HOUSE SCRUpulously.</li>

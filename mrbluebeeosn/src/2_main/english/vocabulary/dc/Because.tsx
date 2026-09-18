@@ -59,7 +59,7 @@ export default function Because(): React.JSX.Element {
           <li id="conJUNCTion">we STAYED inDOORS [be<strong>cause</strong>] it was RAINing HEAVily.</li>
           <li className="list-none">Chúng tôi ở trong nhà [bởi vì] trời mưa to.</li>
 
-          <li>i PASSED the exAM [be<strong>cause</strong>] i STUDied HARD <strong>ever</strong>y NIGHT.</li>
+          <li>i PASSED the eXAM [be<strong>cause</strong>] i STUDied HARD <strong>ever</strong>y NIGHT.</li>
           <li className="margin-bottom-20 list-none">Tôi đã vượt qua kỳ thi [bởi vì] tôi học hành chăm chỉ mỗi tối.</li>
       
         </ul>
@@ -187,7 +187,7 @@ export default function Because(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>[NOW that] the exAMS are OVer, we can FInally reLAX.</li>
+          <li>[NOW that] the eXAMS are OVer, we can FInally reLAX.</li>
           <li className="list-none">[Giờ đây khi] các kỳ thi đã qua, chúng tôi cuối cùng đã có thể thư giãn.</li>
 
         </ul>

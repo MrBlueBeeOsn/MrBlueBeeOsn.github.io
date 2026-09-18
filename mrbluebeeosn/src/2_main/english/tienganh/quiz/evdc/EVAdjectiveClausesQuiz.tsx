@@ -94,7 +94,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "the REAson _______ he FAILED the exAM was his LAziness.",
+			question: "the REAson _______ he FAILED the eXAM was his LAziness.",
 			options: [
 				"why",
 				"which",

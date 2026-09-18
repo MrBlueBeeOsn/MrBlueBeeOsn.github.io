@@ -118,7 +118,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "WHICH of the FOLlowing is an exAMple of the PASsive VOICE?",
+			question: "WHICH of the FOLlowing is an eXAMple of the PASsive VOICE?",
 			options: [
 				"the CHEF COOKED a WONderful MEAL.",
 				"the CHILDren are PLAYing in the PARK.",

@@ -46,7 +46,7 @@ export default function DCQuiz(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "CHOOSE the corRECT subORdinating conJUNCTion to comPLETE the SENtence: \"you WON'T PASS the exAM ________ you START STUDying HARDer.\"",
+			question: "CHOOSE the corRECT subORdinating conJUNCTion to comPLETE the SENtence: \"you WON'T PASS the eXAM ________ you START STUDying HARDer.\"",
 			options: [
 				"because",
 				"unless",
@@ -94,7 +94,7 @@ export default function DCQuiz(): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "iDENtify the FUNCtion of the NOUN CLAUSE in this SENtence: \"the TEACHer anNOUNCED that the exAM was postPONED.\"",
+			question: "iDENtify the FUNCtion of the NOUN CLAUSE in this SENtence: \"the TEACHer anNOUNCED that the eXAM was postPONED.\"",
 			options: [
 				"SUBject",
 				"diRECT OBject",
@@ -102,7 +102,7 @@ export default function DCQuiz(): React.JSX.Element {
 				"apPOSitive"
 			],
 			correctAnswer: 1,
-			explanation: "The noun clause \"that the exAM was postPONED\" answers the question \"anNOUNCED WHAT?\" making it the direct object of the transitive verb \"anNOUNCED.\""
+			explanation: "The noun clause \"that the eXAM was postPONED\" answers the question \"anNOUNCED WHAT?\" making it the direct object of the transitive verb \"anNOUNCED.\""
 		},
 		{
 			id: 8,

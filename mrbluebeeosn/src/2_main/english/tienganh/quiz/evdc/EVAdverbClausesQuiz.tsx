@@ -130,7 +130,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "you will FAIL the upCOMing exAM __________ you START STUDying SERiously RIGHT NOW.",
+			question: "you will FAIL the upCOMing eXAM __________ you START STUDying SERiously RIGHT NOW.",
 			options: [
 				"if",
 				"unless",

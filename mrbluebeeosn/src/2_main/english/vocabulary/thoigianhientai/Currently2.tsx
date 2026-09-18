@@ -106,7 +106,7 @@ export default function CURrently2(): React.JSX.Element {
         <li value="1" id="">i am CURrently WORKing on a NEW PROJect.</li>
         <li className="list-none margin-bottom-20">Tôi đang làm việc trên một dự án mới.</li>
 
-        <li value="2" id="">she is CURrently STUDying for her exAMs.</li>
+        <li value="2" id="">she is CURrently STUDying for her eXAMs.</li>
         <li className="list-none margin-bottom-20">Cô ấy đang ôn thi.</li>
 
         <li value="3" id="">they are CURrently LIVing in vietNAM.</li>

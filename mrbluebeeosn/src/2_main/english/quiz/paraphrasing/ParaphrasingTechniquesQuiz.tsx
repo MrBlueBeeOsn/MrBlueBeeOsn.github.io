@@ -50,7 +50,7 @@ export default function ParaphrasingTechniquesQuiz(): React.JSX.Element {
 			options: [
 				"a WORD with the OPposite MEANing.",
 				"a WORD that SOUNDS the SAME but has a DIFFERent MEANing.",
-				"a WORD or PHRASE that MEANS exACTly or NEARly the SAME as anOTHer.",
+				"a WORD or PHRASE that MEANS eXACTly or NEARly the SAME as anOTHer.",
 				"a WORD that is CAPitalized in every SENtence."
 			],
 			correctAnswer: 2,
@@ -70,7 +70,7 @@ export default function ParaphrasingTechniquesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "WHICH of THESE is an exAMple of CHAnging \"PARTS of SPEECH\" for PARaphrasing?",
+			question: "WHICH of THESE is an eXAMple of CHAnging \"PARTS of SPEECH\" for PARaphrasing?",
 			options: [
 				"Changing \"happy\" to \"joyful.\"",
 				"CHAnging \"the NURSE CARED for the PAtient\" to \"the NURSE proVIded CARE for the PAtient.\"",
@@ -133,7 +133,7 @@ export default function ParaphrasingTechniquesQuiz(): React.JSX.Element {
 			question: "when PARaphrasing a COMplex SENtence with MULtiple CLAUses, it is OFten HELPful to:",
 			options: [
 				"BREAK the LONG SENtence into TWO or MORE SHORTer SENtences.",
-				"KEEP the exACT punctuAtion but CHANGE the NOUNS.",
+				"KEEP the eXACT punctuAtion but CHANGE the NOUNS.",
 				"transLATE it into anOTHer LANGuage and BACK aGAIN.",
 				"USE the SAME conNECTors (and, but, so) as the oRIGinal."
 			],

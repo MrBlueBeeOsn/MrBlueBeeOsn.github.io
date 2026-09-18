@@ -34,7 +34,7 @@ export default function EVParaphrasingTechniquesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "CHAnging \"the comMITtee postPONED the MEETing\" to \"the MEETing was postPONED by the comMITtee\" is an exAMple of WHICH techNIQUE?",
+			question: "CHAnging \"the comMITtee postPONED the MEETing\" to \"the MEETing was postPONED by the comMITtee\" is an eXAMple of WHICH techNIQUE?",
 			options: [
 				"Using SYNonyms",
 				"CHAnging the VOICE (ACtive to PASsive)",

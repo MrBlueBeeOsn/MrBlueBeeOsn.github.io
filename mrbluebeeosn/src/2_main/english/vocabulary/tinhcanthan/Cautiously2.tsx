@@ -112,7 +112,7 @@ export default function CAUtiously2(): React.JSX.Element {
         <li value="3" id="">she CAUtiously SPOKE a<strong>bout</strong> the SENsitive TOPic.</li>
         <li className="list-none margin-bottom-20">Cô ấy thận trọng nói về chủ đề nhạy cảm.</li>
 
-        <li value="4" id="">the SCIentist CAUtiously exAMined the unKNOWN SUBstance.</li>
+        <li value="4" id="">the SCIentist CAUtiously eXAMined the unKNOWN SUBstance.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học thận trọng kiểm tra chất lạ.</li>
 
         <li value="5" id="">they CAUtiously proCEEDed with the negotiAtions.</li>

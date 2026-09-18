@@ -106,7 +106,7 @@ export default function DILigently2(): React.JSX.Element {
         <li value="1" id="">she DILigently WORKED on her PROject until LATE at NIGHT.</li>
         <li className="list-none margin-bottom-20">Cô ấy chăm chỉ làm dự án đến tận khuya.</li>
 
-        <li value="2" id="">he DILigently STUdied for his exAMs.</li>
+        <li value="2" id="">he DILigently STUdied for his eXAMs.</li>
         <li className="list-none margin-bottom-20">Anh ấy chăm chỉ ôn thi.</li>
 
         <li value="3" id="">the deTECtives DILigently SEARCHED for CLUES.</li>
@@ -124,7 +124,7 @@ export default function DILigently2(): React.JSX.Element {
         <li value="7" id="">she DILigently FOLlowed the DOCtor's inSTRUCtions.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã làm theo chỉ dẫn của bác sĩ một cách nghiêm túc.</li>
 
-        <li value="8" id="">the STUdents DILigently prePARED for the exAM.</li>
+        <li value="8" id="">the STUdents DILigently prePARED for the eXAM.</li>
         <li className="list-none margin-bottom-20">Học sinh đã chuẩn bị kỹ lưỡng cho kỳ thi.</li>
 
         <li value="9" id="">he DILigently purSUED his DREAM of beCOMinɡ a WRIter.</li>

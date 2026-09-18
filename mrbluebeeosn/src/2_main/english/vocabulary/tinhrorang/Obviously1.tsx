@@ -199,7 +199,7 @@ export default function OBviously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>OBviously, you NEED to STUdy HARder if you WANT to PASS the exAM.</li>
+          <li>OBviously, you NEED to STUdy HARder if you WANT to PASS the eXAM.</li>
           <li className="list-none">Rõ ràng, bạn cần học chăm chỉ hơn nếu muốn vượt qua kỳ thi.</li>
 
         </ul>

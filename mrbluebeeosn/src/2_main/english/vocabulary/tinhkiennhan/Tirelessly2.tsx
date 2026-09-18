@@ -112,7 +112,7 @@ export default function TIRElessly2(): React.JSX.Element {
         <li value="3" id="">the deTECtives TIRElessly SEARCHED for the MISsing PERson.</li>
         <li className="list-none margin-bottom-20">Các thám tử không ngừng tìm kiếm người mất tích.</li>
 
-        <li value="4" id="">the STUdent TIRElessly STUDied for the exAM.</li>
+        <li value="4" id="">the STUdent TIRElessly STUDied for the eXAM.</li>
         <li className="list-none margin-bottom-20">Sinh viên học tập không ngừng nghỉ để chuẩn bị cho kỳ thi.</li>
 
         <li value="5" id="">the ACtivist TIRElessly camPAIGNED for HUman RIGHTS.</li>

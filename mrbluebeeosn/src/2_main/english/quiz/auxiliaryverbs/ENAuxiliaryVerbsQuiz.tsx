@@ -118,7 +118,7 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "he ________ JUST FINished his CPA exAM.",
+			question: "he ________ JUST FINished his CPA eXAM.",
 			options: [
 				"is",
 				"does",

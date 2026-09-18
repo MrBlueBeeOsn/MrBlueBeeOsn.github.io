@@ -109,7 +109,7 @@ export default function exTREMEly2(): React.JSX.Element {
         <li value="2" id=""><strong>af</strong>ter WORKing all NIGHT, he was exTREMEly TIred.</li>
         <li className="list-none margin-bottom-20">Sau khi làm việc cả đêm, anh ấy rất mệt mỏi.</li>
 
-        <li value="3" id="">the exAM was exTREMEly DIFficult.</li>
+        <li value="3" id="">the eXAM was exTREMEly DIFficult.</li>
         <li className="list-none margin-bottom-20">Bài kiểm tra rất khó.</li>
 
         <li value="4" id="">it's exTREMEly DANgerous to SWIM in this RIVer.</li>

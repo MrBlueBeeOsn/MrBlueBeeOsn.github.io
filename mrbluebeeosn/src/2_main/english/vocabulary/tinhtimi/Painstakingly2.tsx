@@ -121,7 +121,7 @@ export default function PAINStakingly2(): React.JSX.Element {
         <li value="6" id="">the hisTORian PAINStakingly DOCumented the eVents of the WAR.</li>
         <li className="list-none margin-bottom-20">Nhà sử học ghi chép các sự kiện của cuộc chiến một cách tỉ mỉ.</li>
 
-        <li value="7" id="">the deTECtive PAINStakingly exAMined the CRIME SCENE.</li>
+        <li value="7" id="">the deTECtive PAINStakingly eXAMined the CRIME SCENE.</li>
         <li className="list-none margin-bottom-20">Thám tử kiểm tra hiện trường vụ án một cách tỉ mỉ.</li>
 
         <li value="8" id="">the LAWyer PAINStakingly reVIEWED the CONtract.</li>

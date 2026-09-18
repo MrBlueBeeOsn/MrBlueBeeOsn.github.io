@@ -121,7 +121,7 @@ export default function YES2(): React.JSX.Element {
         <li value="6" id="">would you LIKE anOTHer PIECE of CAKE? YES, PLEASE.</li>
         <li className="list-none margin-bottom-20">Bạn có muốn thêm một miếng bánh không? Vâng, xin vui lòng.</li>
 
-        <li value="7" id="">THAT'S WHAT i MEAN. YES, exACTly.</li>
+        <li value="7" id="">THAT'S WHAT i MEAN. YES, eXACTly.</li>
         <li className="list-none margin-bottom-20">Đó là ý của tôi. Đúng vậy, chính xác.</li>
 
         <li value="8" id="">it's a BEAUtiful DAY, ISn't it? YES, inDEEDy.</li>

@@ -115,7 +115,7 @@ export default function efFECtively2(): React.JSX.Element {
         <li value="4" id="">the NEW POLicy was efFECtively IMplemented.</li>
         <li className="list-none margin-bottom-20">Chính sách mới đã được thực hiện một cách hiệu quả.</li>
 
-        <li value="5" id="">she efFECtively USED her TIME to STUDy for the exAM.</li>
+        <li value="5" id="">she efFECtively USED her TIME to STUDy for the eXAM.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã sử dụng thời gian của mình một cách hiệu quả để ôn thi.</li>
 
         <li value="6" id="">the COACH efFECtively MOtivated the TEAM to WIN the GAME.</li>

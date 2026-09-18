@@ -30,43 +30,43 @@ export default function THORoughly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#enJOYED">enJOYED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#CLEAN">CLEAN</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#inVESTigating">inVESTigating</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#conVINCED-of">conVINCED of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MIXED">MIXED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TESTed">TESTed</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MODern">MODern</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#disGUSTed">disGUSTed</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#prePARED">prePARED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#underSTAND">underSTAND</HashLink>
           </span> &nbsp;
 
         </p>
@@ -85,7 +85,7 @@ export default function THORoughly2(): React.JSX.Element {
 
             <span className="highlight-255-padding-3-6">
 
-              [THOroughly \<Link to="/pronunciation/5-vowel-system">THƠR ơugh ly</Link>\ /ˈθʌrəli/ ⬤•• (3x)
+              THOroughly \<Link to="/pronunciation/5-vowel-system">THƠR ơugh ly</Link>\ /ˈθʌrəli/ ⬤•• (3x)
 
             </span>
 
@@ -103,35 +103,35 @@ export default function THORoughly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">i THORoughly enJOYed the CONcert LAST NIGHT.</li>
-        <li className="list-none margin-bottom-20">Tôi đã thưởng thức buổi hòa nhạc tối qua một cách trọn vẹn.</li>
+        <li value="1" id="enJOYED">i THORoughly [enJOYED] the CONcert LAST NIGHT.</li>
+        <li className="list-none margin-bottom-20">Tôi [đã thưởng thức] buổi hòa nhạc tối qua một cách trọn vẹn.</li>
 
-        <li value="2" id="">be<strong>fore</strong> we MOVE IN, we NEED to THORoughly CLEAN the HOUSE.</li>
-        <li className="list-none margin-bottom-20">Trước khi chuyển vào, chúng ta cần dọn dẹp nhà cửa thật kỹ lưỡng.</li>
+        <li value="2" id="CLEAN">be<strong>fore</strong> we MOVE IN, we NEED to THORoughly [CLEAN] the HOUSE.</li>
+        <li className="list-none margin-bottom-20">Trước khi chuyển vào, chúng ta cần [dọn dẹp] nhà cửa thật kỹ lưỡng.</li>
 
-        <li value="3" id="">the poLICE are THORoughly inVEStigating the CRIME SCENE.</li>
-        <li className="list-none margin-bottom-20">Cảnh sát đang điều tra hiện trường vụ án một cách kỹ lưỡng.</li>
+        <li value="3" id="inVESTigating">the poLICE are THORoughly [inVESTigating] the CRIME SCENE.</li>
+        <li className="list-none margin-bottom-20">Cảnh sát [đang điều tra] hiện trường vụ án một cách kỹ lưỡng.</li>
 
-        <li value="4" id="">i am THORoughly conVINCEd of his INnocence.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn tin chắc vào sự vô tội của anh ấy.</li>
+        <li value="4" id="conVINCED-of">i am THORoughly [conVINCED of] his INnocence.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn [tin chắc vào] sự vô tội của anh ấy.</li>
 
-        <li value="5" id="">MAKE SURE the inGREdients are THORoughly MIXED be<strong>fore</strong> BAking.</li>
-        <li className="list-none margin-bottom-20">Hãy chắc chắn trộn đều các nguyên liệu trước khi nướng.</li>
+        <li value="5" id="MIXED">MAKE SURE the inGREdients are THORoughly [MIXED] be<strong>fore</strong> BAking.</li>
+        <li className="list-none margin-bottom-20">Hãy chắc chắn [trộn đều] các nguyên liệu trước khi nướng.</li>
 
-        <li value="6" id="">the NEW PROduct has been THORoughly TESted be<strong>fore</strong> being reLEASed.</li>
-        <li className="list-none margin-bottom-20">Sản phẩm mới đã được kiểm tra kỹ lưỡng trước khi được tung ra thị trường.</li>
+        <li value="6" id="TESTed">the NEW PROduct has been THORoughly [TESTed] be<strong>fore</strong> being reLEASed.</li>
+        <li className="list-none margin-bottom-20">Sản phẩm mới [đã được kiểm tra] kỹ lưỡng trước khi được tung ra thị trường.</li>
 
-        <li value="7" id="">the CIty's SKYline is THORoughly MODern.</li>
-        <li className="list-none margin-bottom-20">Đường chân trời của thành phố rất hiện đại.</li>
+        <li value="7" id="MODern">the CIty's SKYline is THORoughly [MODern].</li>
+        <li className="list-none margin-bottom-20">Đường chân trời của thành phố rất [hiện đại].</li>
 
-        <li value="8" id="">i was THORoughly disGUSTed by his beHAvior.</li>
-        <li className="list-none margin-bottom-20">Tôi cảm thấy ghê tởm tột độ trước hành vi của anh ta.</li>
+        <li value="8" id="disGUSTed">i was THORoughly [disGUSTed] by his beHAvior.</li>
+        <li className="list-none margin-bottom-20">Tôi [cảm thấy ghê tởm] tột độ trước hành vi của anh ta.</li>
 
-        <li value="9" id="">she was THORoughly prePARED for the exAM.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã chuẩn bị rất kỹ cho kỳ thi.</li>
+        <li value="9" id="prePARED">she was THORoughly [prePARED] for the eXAM.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [đã chuẩn bị] rất kỹ cho kỳ thi.</li>
 
-        <li value="10" id="">i THINK i THORoughly underSTAND the CONcept NOW.</li>
-        <li className="list-none margin-bottom-20">Tôi nghĩ giờ thì tôi đã hiểu rõ khái niệm này rồi.</li>
+        <li value="10" id="underSTAND">i THINK i THORoughly [underSTAND] the CONcept NOW.</li>
+        <li className="list-none margin-bottom-20">Tôi nghĩ giờ thì tôi [đã hiểu] rõ khái niệm này rồi.</li>
 
       </ol>
 

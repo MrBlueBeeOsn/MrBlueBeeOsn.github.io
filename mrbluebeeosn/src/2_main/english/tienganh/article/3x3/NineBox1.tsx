@@ -232,7 +232,7 @@ export default function NineBox1(): React.JSX.Element {
       
           <li>to reSOLVE → [Hạt ĐỘNG] to + [Thuần ĐỘNG] reSOLVE</li>
       
-          <li>DID exAMine → [Thời] did (Nhấn mạnh) + [Thuần ĐỘNG] exAMine</li>
+          <li>DID eXAMine → [Thời] did (Nhấn mạnh) + [Thuần ĐỘNG] eXAMine</li>
       
         </ul>
       

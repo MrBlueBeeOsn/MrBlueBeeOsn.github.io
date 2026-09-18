@@ -73,7 +73,7 @@ export default function ACcurately1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                ACcurately \<Link to="/pronunciation/5-vowel-system">AC cư̇ ra̛te ly</Link>\ /ˈækjərətli/ ⬤••• (4x)
+                ACcurately \<Link to="/pronunciation/5-vowel-system">AC cư ra̛te ly</Link>\ /ˈækjərətli/ ⬤••• (4x)
               </span>
             </li>
 
@@ -137,7 +137,7 @@ export default function ACcurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i KNOW <Link to="/vocabulary/exACTly-1">exACTly</Link> WHAT you MEAN.</li>
+          <li>i KNOW <Link to="/vocabulary/eXACTly-1">eXACTly</Link> WHAT you MEAN.</li>
           <li className="margin-bottom-20 list-none">Tôi hiểu chính xác ý của bạn.</li>
 
           <li>the TIME was <Link to="/vocabulary/preCISEly-1">preCISEly</Link> THREE p.M.</li>

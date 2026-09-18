@@ -46,7 +46,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "if you had STUDied HARDer, you _________ the exAM.",
+			question: "if you had STUDied HARDer, you _________ the eXAM.",
 			options: [
 				"would PASS",
 				"would have PASSED",

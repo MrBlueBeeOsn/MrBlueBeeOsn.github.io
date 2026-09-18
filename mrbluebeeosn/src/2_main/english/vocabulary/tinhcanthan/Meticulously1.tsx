@@ -73,7 +73,7 @@ export default function meTICulously1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                meTICulously \<Link to="/pronunciation/5-vowel-system">me̛ TIC ư̇ lơus ly</Link>\ /məˈtɪkjələsli/ •⬤••• (5x)
+                meTICulously \<Link to="/pronunciation/5-vowel-system">me̛ TIC ư lơus ly</Link>\ /məˈtɪkjələsli/ •⬤••• (5x)
               </span>
             </li>
 

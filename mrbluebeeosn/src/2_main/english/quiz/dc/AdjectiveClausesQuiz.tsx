@@ -70,7 +70,7 @@ export default function AdjectiveClausesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "THIS is the exACT RESTAURant ________ my PARents MET for the FIRST TIME.",
+			question: "THIS is the eXACT RESTAURant ________ my PARents MET for the FIRST TIME.",
 			options: [
 				"which",
 				"that",

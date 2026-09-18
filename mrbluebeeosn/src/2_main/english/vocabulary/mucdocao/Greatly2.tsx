@@ -127,7 +127,7 @@ export default function GREATly2(): React.JSX.Element {
         <li value="8" id="">i was GREATly disapPOINTed with the reSULTS.</li>
         <li className="list-none margin-bottom-20">Tôi rất thất vọng với kết quả.</li>
 
-        <li value="9" id="">the STORy was GREATly exAGgerated.</li>
+        <li value="9" id="">the STORy was GREATly eXAGgerated.</li>
         <li className="list-none margin-bottom-20">Câu chuyện đã bị phóng đại quá mức.</li>
 
         <li value="10" id="">he has GREATly BENefited from the NEW PROgram.</li>

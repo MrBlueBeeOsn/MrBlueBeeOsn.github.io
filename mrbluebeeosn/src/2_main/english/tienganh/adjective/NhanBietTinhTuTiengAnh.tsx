@@ -109,7 +109,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he FELT <strong>HOPEless</strong> <strong>af</strong>ter FAILing the exAM for the THIRD TIME, but his TEACHer enCOURaged him to TRY aGAIN.</li>
+					<li>he FELT <strong>HOPEless</strong> <strong>af</strong>ter FAILing the eXAM for the THIRD TIME, but his TEACHer enCOURaged him to TRY aGAIN.</li>
 					<li className="margin-bottom-20 list-none">Anh ấy cảm thấy <strong>tuyệt vọng</strong> sau khi trượt kỳ thi lần thứ ba, nhưng giáo viên của anh ấy đã động viên anh thử lại.</li>
 			
 					<li>MAking a <strong>CAREless</strong> misTAKE on the FInal MATH TEST COST him the HIGHest GRADE in the CLASS.</li>

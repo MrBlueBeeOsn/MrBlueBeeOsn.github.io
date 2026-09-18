@@ -115,7 +115,7 @@ export default function atTENtively2(): React.JSX.Element {
         <li value="4" id="">the SCIentist atTENtively obSERVED the CELLS under the MIcroscope.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học quan sát các tế bào dưới kính hiển vi một cách chăm chú.</li>
 
-        <li value="5" id="">she atTENtively STUDied for her exAMS.</li>
+        <li value="5" id="">she atTENtively STUDied for her eXAMS.</li>
         <li className="list-none margin-bottom-20">Cô ấy học bài cho kỳ thi của mình một cách chăm chú.</li>
 
         <li value="6" id="">the DOG atTENtively FOLlowed its OWNer's comMANDS.</li>
@@ -130,7 +130,7 @@ export default function atTENtively2(): React.JSX.Element {
         <li value="9" id="">she atTENtively TOOK NOTES DURing the MEETing.</li>
         <li className="list-none margin-bottom-20">Cô ấy ghi chú trong cuộc họp một cách chăm chú.</li>
 
-        <li value="10" id="">the DOCtor atTENtively exAMined the PAtient.</li>
+        <li value="10" id="">the DOCtor atTENtively eXAMined the PAtient.</li>
         <li className="list-none margin-bottom-20">Bác sĩ kiểm tra bệnh nhân một cách chăm chú.</li>
 
       </ol>

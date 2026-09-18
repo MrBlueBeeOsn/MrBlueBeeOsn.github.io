@@ -118,7 +118,7 @@ export default function SO2(): React.JSX.Element {
         <li value="5" id="">TIME FLIES SO FAST when you're HAVing FUN.</li>
         <li className="list-none margin-bottom-20">Thời gian trôi rất nhanh khi bạn vui vẻ.</li>
 
-        <li value="6" id="">he STUDied HARD so that he could PASS the exAM.</li>
+        <li value="6" id="">he STUDied HARD so that he could PASS the eXAM.</li>
         <li className="list-none margin-bottom-20">Anh ấy học chăm chỉ để mà anh ấy có thể vượt qua kỳ thi.</li>
 
         <li value="7" id="">Well, SO LONG for NOW!</li>

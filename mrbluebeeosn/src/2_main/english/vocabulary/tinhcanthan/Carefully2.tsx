@@ -106,7 +106,7 @@ export default function CAREfully2(): React.JSX.Element {
         <li value="1" id="">the proPOsal was CAREfully conSIDered by the comMITtee.</li>
         <li className="list-none margin-bottom-20">Đề xuất đã được ủy ban cân nhắc kỹ lưỡng.</li>
 
-        <li value="2" id="">the DOCtor CAREfully exAMined the PAtient.</li>
+        <li value="2" id="">the DOCtor CAREfully eXAMined the PAtient.</li>
         <li className="list-none margin-bottom-20">Bác sĩ đã khám bệnh nhân rất kỹ lưỡng.</li>
 
         <li value="3" id="">the inGREdients were CAREfully seLECTed for the DISH.</li>

@@ -124,7 +124,7 @@ export default function Although(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>[Even though] he STUDied HARD, he FAILED the FInal exAM.</li>
+          <li>[Even though] he STUDied HARD, he FAILED the FInal eXAM.</li>
           <li className="list-none">[Mặc dù] anh ấy đã học hành chăm chỉ, anh ấy vẫn trượt kỳ thi cuối kỳ.</li>
 
         </ul>

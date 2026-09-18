@@ -85,7 +85,7 @@ export default function meTICulously2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              meTICulously \<Link to="/pronunciation/5-vowel-system">me̛ TIC ư̇ lơus ly</Link>\ /məˈtɪkjələsli/ •⬤••• (5x)
+              meTICulously \<Link to="/pronunciation/5-vowel-system">me̛ TIC ư lơus ly</Link>\ /məˈtɪkjələsli/ •⬤••• (5x)
               
             </span>
               
@@ -127,7 +127,7 @@ export default function meTICulously2(): React.JSX.Element {
         <li value="8" id="">the CHEF meTICulously prePARED the MEAL, Using Only the FRESHest inGREdients</li>
         <li className="list-none margin-bottom-20">Đầu bếp chuẩn bị món ăn một cách tỉ mỉ, chỉ sử dụng những nguyên liệu tươi ngon nhất.</li>
 
-        <li value="9" id="">the MODel was meTICulously asSEMbled FOLlowing the inSTRUCtions exACTly.</li>
+        <li value="9" id="">the MODel was meTICulously asSEMbled FOLlowing the inSTRUCtions eXACTly.</li>
         <li className="list-none margin-bottom-20">Mô hình được lắp ráp tỉ mỉ, tuân theo chính xác hướng dẫn.</li>
 
         <li value="10" id="">the engiNEER meTICulously inSPECTed the maCHINE for any DEfects.</li>

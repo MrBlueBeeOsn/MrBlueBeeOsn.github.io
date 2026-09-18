@@ -82,7 +82,7 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 6,
-			question: "the CHEF prePARED the DISH exACTly ___________ the traDITional REcipe inSTRUCTed.",
+			question: "the CHEF prePARED the DISH eXACTly ___________ the traDITional REcipe inSTRUCTed.",
 			options: [
 				"as if",
 				"like",

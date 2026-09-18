@@ -476,12 +476,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i beLIEVE [you will PASS the exAM].</li>
+					<li>i beLIEVE [you will PASS the eXAM].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn sẽ vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Hình thái: [you will PASS the exAM] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và khối hành động gồm [asSERTive-MOdal BARE VERB][ÁP-THÁI THUẦN ĐỘNG] "will" kết hợp với [BARE VERB][THUẦN ĐỘNG] "PASS".</li>
+					<li className="list-none">Hình thái: [you will PASS the eXAM] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và khối hành động gồm [asSERTive-MOdal BARE VERB][ÁP-THÁI THUẦN ĐỘNG] "will" kết hợp với [BARE VERB][THUẦN ĐỘNG] "PASS".</li>
 			
-					<li className="list-none">Chức năng: [you will PASS the exAM] - [NOUN CLAUSE][DANH CÂU] đứng sau [BARE VERB][THUẦN ĐỘNG] "beLIEVE" như một [OBject PROnoun][TÂN ĐẠI] thực thi.</li>
+					<li className="list-none">Chức năng: [you will PASS the eXAM] - [NOUN CLAUSE][DANH CÂU] đứng sau [BARE VERB][THUẦN ĐỘNG] "beLIEVE" như một [OBject PROnoun][TÂN ĐẠI] thực thi.</li>
 			
 				</ul>
 			
