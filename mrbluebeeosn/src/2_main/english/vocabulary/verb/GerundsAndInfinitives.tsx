@@ -21,6 +21,30 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 
 			<div className="example">
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#to-LOCK">to LOCK</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#LOCKing">LOCKing</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#SWIMming">SWIMming</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#to-SWIM">to SWIM</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#DRAWing">DRAWing</HashLink>
+					</span> &nbsp;
+
+
+				</p>
 													
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
@@ -278,8 +302,62 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 			</div>
 
+			<h4 className="margin-y-40">To-V: FORward-looking (Hướng về tương lai)</h4>
 
-			<h4 className="margin-bottom-30 text-center">“Kẻ thù” lớn nhất của người học tiếng Anh… nhưng thực ra rất dễ thương nếu bạn hiểu đúng cách</h4>
+			<p className="text-indent-whole">To-V (FORward): Hướng tới một hành động chưa xảy ra, một dự định hoặc mục tiêu.</p>
+			
+				<ul className="list-square">
+			
+					<li id="to-LOCK">i reMEMber [to LOCK] the DOOR.</li>
+					<li className="list-none">Tôi nhớ [phải khóa] cửa — hành động khóa cửa chưa diễn ra, bạn nhớ để chuẩn bị làm nó</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">V-ing: BACKward-looking (Hướng về quá khứ/Hiện tại)</h4>
+					
+			<p className="margin-top-20 text-indent-whole">V-ing (BACKward/in PROGress): Hướng về một trải nghiệm đã qua hoặc đang diễn ra.</p>
+			
+				<ul className="list-square">
+			
+					<li id="LOCKing">i reMEMber [LOCKing] the DOOR.</li>
+					<li className="margin-bottom-20 list-none">Tôi nhớ [là đã khóa] cửa rồi — hành động khóa cửa đã làm xong trong quá khứ.</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">Vai trò Chủ (Subject) và Tân (Object)</h4>
+			
+			<p className="text-indent-whole">Làm chủ ngữ (Subject): Gerund (V-ing) được dùng phổ biến và tự nhiên hơn rất nhiều so với To-V khi đứng đầu câu làm chủ ngữ.</p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li id="SWIMming">[SWIMming] is a GREAT EXercise.</li>
+					<li className="list-none">[Việc bơi lội] là một bài tập thể dục tuyệt vời.</li>
+					<li className="margin-bottom-20 list-none">Tự nhiên</li>
+			
+					<li id="to-SWIM">[to SWIM] is a GREAT EXercise.</li>
+					<li className="list-none">[Để bơi được] là một bài tập thể dục tuyệt vời.</li>
+					<li className="list-none">Trang trọng/Thơ văn (ít dùng)</li>
+			
+				</ul>
+
+		
+			<p className="margin-top-20 text-indent-whole">Sau giới từ: Chỉ có Gerund (V-ing) mới được đứng ngay sau các giới từ (in, on, at, about, for, of,...).</p>
+
+				<ul className="list-square">
+			
+					<li id="DRAWing">she is GOOD at [DRAWing].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy giỏi việc vẽ tranh.</li>
+
+					<li>Không dùng good at to DRAW</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-30 text-center">“Kẻ thù” lớn nhất của người học tiếng Anh… nhưng thực ra rất dễ thương nếu bạn hiểu đúng cách</h4>
 
 			<p className="margin-top-20">Bạn đã bao giờ cảm thấy hoang mang khi đứng trước những câu như:</p>
 
