@@ -208,7 +208,7 @@ export default function SV1(): React.JSX.Element {
         </ul>
 
 			
-			<h4 className="margin-y-40">III. Phân Hệ [BASE][CƠ]</h4>
+			<h4 className="margin-y-40">III. Phân Hệ [VERB][ĐỘNG]</h4>
 			
 				<ol>
       

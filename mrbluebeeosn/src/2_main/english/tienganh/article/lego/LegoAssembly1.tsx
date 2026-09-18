@@ -150,11 +150,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Hệ Thống Phân Hệ [BASE][CƠ] Thao Tác Hệ Thống</h3>
+			<h3 className="margin-y-50 text-center">2. Hệ Thống Phân Hệ [VERB][ĐỘNG] Thao Tác Hệ Thống</h3>
 
 			<p>Để vận hành chính xác cấu trúc trên, toàn bộ hệ thống hành động trong tiếng Anh được phân tách tường minh thành 16 cấu hình mảnh ghép [Lego] [ĐỘNG] cốt lõi. Việc hiểu rõ bản chất vật lý của từng loại sẽ giúp bạn lắp ráp câu mà không bao giờ bị nhầm lẫn [Thời] gian hay thể thức.</p>
 
-			<h4 className="margin-y-40">Phân Loại 16 Loại Phân Hệ [BASE][CƠ]:</h4>
+			<h4 className="margin-y-40">Phân Loại 16 Loại Phân Hệ [VERB][ĐỘNG]:</h4>
 			
 				<ol>
       

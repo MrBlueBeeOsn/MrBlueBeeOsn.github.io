@@ -209,7 +209,7 @@ export default function TieredStructure1(): React.JSX.Element {
         </ul>
 
 			
-			<h4 className="margin-y-40">B. Phân Hệ [BASE][CƠ] (16 Mục Phân Tách)</h4>
+			<h4 className="margin-y-40">B. Phân Hệ [VERB][ĐỘNG] (16 Mục Phân Tách)</h4>
 
 			<ol>
       

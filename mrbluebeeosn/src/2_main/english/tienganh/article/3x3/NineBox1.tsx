@@ -147,7 +147,7 @@ export default function NineBox1(): React.JSX.Element {
 			<p>Điểm mấu chốt của hệ thống tư duy logic này nằm ở việc tách biệt giữa hình thái bề ngoài nhìn thấy và chức năng thực tế sau khi đặt vào vị trí câu. Khi tiếp cận một câu, người học thực hiện bóc tách khối dữ liệu thô để xác định hình thái trước khi suy luận ra công dụng của nó.</p>
 
 
-			<h4 className="margin-y-40">2.1. Phân Hệ [BASE][CƠ]</h4>
+			<h4 className="margin-y-40">2.1. Phân Hệ [VERB][ĐỘNG]</h4>
 
 			<p className="text-indent-whole">Hệ thống ghi nhận hành động ở quy mô hạt nhân tối giản nhất thông qua bộ phân rã cấu trúc gồm 16 trạng thái hình thái chuyên biệt dưới đây:</p>
 			
