@@ -112,7 +112,7 @@ export default function GRADually2(): React.JSX.Element {
         <li value="3" id="reCOVered">she GRADually [reCOVered] from her ILLness.</li>
         <li className="list-none margin-bottom-20">Cô ấy dần dần [hồi phục] sức khỏe sau khi ốm.</li>
 
-        <li value="4" id="CHANGED">the CLImate GRADually [CHANGED] over MILlions of YEARS.</li>
+        <li value="4" id="CHANGED">the CLImate GRADually [CHANGED] <strong>o</strong>verMILlions of YEARS.</li>
         <li className="list-none margin-bottom-20">Khí hậu [thay đổi] dần trong hàng triệu năm.</li>
 
         <li value="5" id="imPROVED">his ENGlish GRADually [imPROVED] <strong>af</strong>ter STUDying for a YEAR.</li>

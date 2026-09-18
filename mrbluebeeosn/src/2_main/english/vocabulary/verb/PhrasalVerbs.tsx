@@ -344,7 +344,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					<li value="22" id="turnS-UP">he ALways <strong>turnS UP</strong> LATE!</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lúc nào cũng <strong>xuất hiện</strong> muộn!</li>
 
-					<li value="23" id="catCH-UP">let’s <strong>catCH UP</strong> over COFfee NEXT WEEK!</li>
+					<li value="23" id="catCH-UP">let’s <strong>catCH UP</strong> <strong>o</strong>verCOFfee NEXT WEEK!</li>
 					<li className="margin-bottom-20 list-none">Tuần tới chúng ta <strong>hẹn gặp</strong> nhau trò chuyện qua ly cà phê nhé!</li>
 			
 					<li value="24" id="cuT-DOWN">i’m TRYing to <strong>cuT DOWN</strong> on SUGar.</li>

@@ -49,7 +49,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li id="ADjective">the SUNset over the Ocean was TRUly [BEAUtiful].</li>
+          <li id="ADjective">the SUNset <strong>o</strong>verthe Ocean was TRUly [BEAUtiful].</li>
           <li className="list-none">Cảnh hoàng hôn trên biển thực sự rất đẹp.</li>
 
           <li>WHAT a [BEAUtiful] SUNset!</li>

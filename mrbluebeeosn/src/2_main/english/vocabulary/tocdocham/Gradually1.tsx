@@ -101,7 +101,7 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADverb">the SUN GRADually ROSE over the hoRIzon.</li>
+          <li id="ADverb">the SUN GRADually ROSE <strong>o</strong>verthe hoRIzon.</li>
           <li className="margin-bottom-20 list-none">Mặt trời dần dần mọc lên trên đường chân trời.</li>
 
           <li>her HEALTH is GRADually imPROVing.</li>
@@ -201,7 +201,7 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the TREE GREW GRADually over the YEARS.</li>
+          <li>the TREE GREW GRADually <strong>o</strong>verthe YEARS.</li>
           <li className="margin-bottom-20 list-none">Cây xanh lớn dần theo năm tháng.</li>
 
           <li>she GRADually beCAME MORE proFIcient in the NEW SKILL.</li>
@@ -249,7 +249,7 @@ export default function GRADually1(): React.JSX.Element {
             <li value="1">the PLANT GREW <Link to="/vocabulary/QUICKly-1">QUICKly</Link>.</li>
             <li className="list-none margin-bottom-20">Cây lớn nhanh.</li>
 
-            <li value="2">the PLANT GREW GRADually over the SUMmer.</li>
+            <li value="2">the PLANT GREW GRADually <strong>o</strong>verthe SUMmer.</li>
             <li className="list-none margin-bottom-20">Cây lớn dần trong suốt mùa hè.</li>
 
           </ol>

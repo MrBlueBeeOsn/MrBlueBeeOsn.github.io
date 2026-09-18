@@ -869,7 +869,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy [đã ngồi] trên băng ghế ở công viên [vào ngày hôm qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng SAT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they [have SAT] in the MEETing ROOM [for over an HOUR].</li>
+					<li>they [have SAT] in the MEETing ROOM [for <strong>o</strong>veran HOUR].</li>
 					<li className="list-none">Họ [đã ngồi] trong phòng họp [hơn một tiếng đồng hồ] [rồi].</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SAT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -1418,7 +1418,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy [xây] một ngôi nhà mới cho ba mẹ mình.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng BUILDS (cho chủ thể ngôi thứ ba số ít he) để chỉ việc làm diễn ra mang tính thường xuyên hoặc kế hoạch đang thực hiện.</li>
 			
-					<li>they [BUILT] a SMALL BRIDGE over the RIVER [LAST YEAR].</li>
+					<li>they [BUILT] a SMALL BRIDGE <strong>o</strong>verthe RIVER [LAST YEAR].</li>
 					<li className="list-none">Họ [đã xây] một cây cầu nhỏ bắc qua sông [vào năm ngoái].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng BUILT để chỉ việc đã hoàn tất hoàn toàn trong quá khứ, đi kèm mốc thời gian rõ ràng là LAST YEAR.</li>
 			

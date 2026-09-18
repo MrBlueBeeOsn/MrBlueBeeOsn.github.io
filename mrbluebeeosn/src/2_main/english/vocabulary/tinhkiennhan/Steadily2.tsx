@@ -103,7 +103,7 @@ export default function STEADily2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the COMpany's PROFits have been STEADily inCREASing over the PAST YEAR.</li>
+        <li value="1" id="">the COMpany's PROFits have been STEADily inCREASing <strong>o</strong>verthe PAST YEAR.</li>
         <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng một cách đều đặn trong năm qua.</li>
 
         <li value="2" id="">the unempLOYment RATE has been STEADily deCREASing.</li>

@@ -697,7 +697,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>they CANceled the LAUNCH [due to the deVICE overHEATing under PRESsure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [do thiết bị gặp tình trạng quá nhiệt dưới áp lực].</li>
 			
-					<li className="list-none">Hình thái: [due to the deVICE overHEATing under PRESsure] – [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] thể hiện khối thông tin mở rộng bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to", kéo theo [NOUN BLOCK][DANH KHỐI] "the deVICE" và một dạng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "overheating" được bọc lót -ing đi sau để cụm hóa [ROOT VERB][RỄ ĐỘNG] "overheat".</li>
+					<li className="list-none">Hình thái: [due to the deVICE overHEATing under PRESsure] – [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] thể hiện khối thông tin mở rộng bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to", kéo theo [NOUN BLOCK][DANH KHỐI] "the deVICE" và một dạng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "overHEATing" được bọc lót -ing đi sau để cụm hóa [ROOT VERB][RỄ ĐỘNG] "overHEAT".</li>
 
 					<li className="list-none">Chức năng: [due to the deVICE overHEATing under PRESsure] – [ADverb PHRASE][TRẠNG CỤM] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
 			

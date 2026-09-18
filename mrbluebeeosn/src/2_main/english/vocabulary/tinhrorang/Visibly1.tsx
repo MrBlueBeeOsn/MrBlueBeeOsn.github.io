@@ -160,7 +160,7 @@ export default function VISibly1(): React.JSX.Element {
           <li>the CHANGE was inVISibly SLOW.</li>
           <li className="margin-bottom-20 list-none">Sự thay đổi diễn ra một cách chậm chạp đến mức không thể nhận thấy.</li>
 
-          <li>the PLANT GREW imperCEPtibly over the WEEKS.</li>
+          <li>the PLANT GREW imperCEPtibly <strong>o</strong>verthe WEEKS.</li>
           <li className="list-none">Cây đã lớn lên một cách không thể nhận thấy trong vài tuần.</li>
 
         </ul>

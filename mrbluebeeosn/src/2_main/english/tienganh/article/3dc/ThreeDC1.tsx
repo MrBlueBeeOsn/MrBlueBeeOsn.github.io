@@ -617,12 +617,12 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>the disPUTE [over {'{whether the COMpany should MERGE}'}] deLAYED the negoTIAtion.</li>
+					<li>the disPUTE [<strong>o</strong>ver{'{whether the COMpany should MERGE}'}] deLAYED the negoTIAtion.</li>
 					<li className="margin-bottom-20 list-none">Cuộc tranh chấp [về việc {'{liệu công ty có nên sáp nhập hay không}'}] đã làm trì hoãn cuộc đàm phán.</li>
 			
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [over {'{whether the COMpany should MERGE}'}] là một [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "over".</li>
+					<li className="list-none">Khối tổng thể [<strong>o</strong>ver{'{whether the COMpany should MERGE}'}] là một [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "over".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{whether the COMpany should MERGE}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] được mở đầu bằng [conJUNCtion][LIÊN] "whether".</li>
 			
@@ -630,7 +630,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối {'{whether the COMpany should MERGE}'} bên trong thực thi chức năng [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] nhận quan hệ trực tiếp đứng sau [prepoSITion][GIỚI] over.</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [over {'{whether the COMpany should MERGE}'}] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm the disPUTE.</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [<strong>o</strong>ver{'{whether the COMpany should MERGE}'}] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm the disPUTE.</li>
 
 			
 				</ul>
