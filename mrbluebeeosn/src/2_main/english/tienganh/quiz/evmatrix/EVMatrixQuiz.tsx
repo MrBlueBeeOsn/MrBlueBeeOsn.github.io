@@ -38,7 +38,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to LEARN a NEW LANGuage] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LEARN a NEW LANGuage] - [NOUN PHRASE][DANH CỤM] đứng ở đầu câu để làm chủ thể cốt lõi thực hiện hành vi cho \"reQUIres\"."
+			explanation: "Hình thái: [to LEARN a NEW LANGuage] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LEARN a NEW LANGuage] - [NOUN PHRASE][DANH CỤM] đứng ở đầu câu để làm chủ thể cốt lõi thực hiện hành vi cho \"reQUIres\"."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [to LET in some FRESH AIR] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LET in some FRESH AIR] - [ADverb PHRASE][TRẠNG CỤM] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"Opens\"."
+			explanation: "Hình thái: [to LET in some FRESH AIR] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LET in some FRESH AIR] - [ADverb PHRASE][TRẠNG CỤM] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"Opens\"."
 		},
 		{
 			id: 4,
@@ -88,7 +88,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [BROken] - [PAST PARTiciple VERB][QUÁ HOÀN ĐỘNG] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [BROken] - [ADjective][TÍNH] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"VASE\"."
+			explanation: "Hình thái: [BROken] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [BROken] - [ADjective][TÍNH] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"VASE\"."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADjective]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [CRY] - [BARE VERB][THUẦN ĐỘNG] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [CRY] - [ADjective][TÍNH] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his YOUNGer BROTHer\" phía trước."
+			explanation: "Hình thái: [CRY] - [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [CRY] - [ADjective][TÍNH] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his YOUNGer BROTHer\" phía trước."
 		},
 		{
 			id: 9,
@@ -108,7 +108,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to WIN] - [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to WIN] - [ADVERB][TRẠNG] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"PRACticed HARD\"."
+			explanation: "Hình thái: [to WIN] - [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to WIN] - [ADVERB][TRẠNG] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"PRACticed HARD\"."
 		},
 		{
 			id: 10,

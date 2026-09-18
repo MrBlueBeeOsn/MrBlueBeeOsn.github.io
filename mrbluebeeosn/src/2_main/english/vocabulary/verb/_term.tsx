@@ -62,7 +62,7 @@ export default function (): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">HỆ THỐNG [PHÂN LOẠI HẠT NHÂN ĐỘNG][VERB CATegories]</h3>
 
-      <h4 className="margin-y-40">a. Phân hệ [BASE][CƠ]</h4>
+      <h4 className="margin-y-40">a. Phân hệ [VERB][ĐỘNG]</h4>
       
         <ol>
       
@@ -81,7 +81,7 @@ export default function (): React.JSX.Element {
           <li value="5">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, may</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive-MOdal VERB][PHỨC ÁP-THÁI ĐỘNG] thống nhất.</li>
 
-          <li value="6">[<strong>BARE VERB</strong>][<strong>THUẦN ĐỘNG</strong>]: </li>
+          <li value="6">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: </li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
 
           <li className="list-none">[PARTicle VERB][HẠT ĐỘNG]: to</li>
@@ -91,7 +91,7 @@ export default function (): React.JSX.Element {
           <li className="list-none">Nhóm VERB Hỗ Trợ / Tương Tác: help, get (khi ở dạng đặc biệt)</li>
           <li className="margin-bottom-20 list-none">Nhóm VERB Tri Giác / Cảm Nhận: see, hear, watch, feel, notice, observe, smell</li>
       
-          <li value="7">[<strong>PARTicle BARE VERB</strong>][<strong>HẠT THUẦN ĐỘNG</strong>]: </li>
+          <li value="7">[<strong>FULL inFINitive VERB</strong>][<strong>TOÀN NGUYÊN ĐỘNG</strong>]: </li>
           <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau.</li>
 
           <li value="8">[<strong>SOFT-MOdal BARE VERB</strong>][<strong>Ý-THÁI THUẦN ĐỘNG</strong>]: </li>
@@ -103,7 +103,7 @@ export default function (): React.JSX.Element {
           <li value="10">[<strong>TENSE BARE VERB</strong>][<strong>THỜI THUẦN ĐỘNG</strong>]: </li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu.</li>
 
-          <li value="11">[<strong>PAST TENSE VERB</strong>][<strong>QUÁ THỜI ĐỘNG</strong>], [<strong>3RD-PERson PRESent VERB</strong>][<strong>BA HIỆN ĐỘNG</strong>]: </li>
+          <li value="11">[<strong>PAST VERB</strong>][<strong>ĐÃ ĐỘNG</strong>], [<strong>3RD VERB</strong>][<strong>3RD ĐỘNG</strong>]: </li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] (Quá khứ/Hiện tại) và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
       
           <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: </li>
@@ -112,13 +112,13 @@ export default function (): React.JSX.Element {
           <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>QUÁ HOÀN ĐỘNG</strong>]: </li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành.</li>
       
-          <li value="14">[<strong>TENSE PRESent PARTiciple VERB</strong>][<strong>THỜI HIỆN TIẾP ĐỘNG</strong>]: </li>
+          <li value="14">[<strong>auXILiary and PRESent PARTiciple VERB</strong>][<strong>TRỢ và HIỆN TIẾP ĐỘNG</strong>]: </li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đang [Tiếp] diễn.</li>
 
-          <li value="15">[<strong>TENSE PAST PARTiciple VERB</strong>][<strong>THỜI QUÁ HOÀN ĐỘNG</strong>]: </li>
+          <li value="15">[<strong>auXILiary and PAST PARTiciple VERB</strong>][<strong>TRỢ và ĐÃ HOÀN ĐỘNG</strong>]: </li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đã trọn vẹn, [Hoàn] thành.</li>
       
-          <li value="16">[<strong>TENSE PERfect PRESent PARTiciple VERB</strong>][<strong>THỜI HOÀN HIỆN TIẾP ĐỘNG</strong>]: </li>
+          <li value="16">[<strong>auXILiary,  PAST and PRESent PARTiciple VERB</strong>][<strong>TRỢ, ĐÃ VÀ HIỆN TIẾP ĐỘNG</strong>]: </li>
           <li className="list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, tính chất đã trọn vẹn, [Hoàn] thành và tính chất đang [Tiếp] diễn.</li>
       
         </ol>

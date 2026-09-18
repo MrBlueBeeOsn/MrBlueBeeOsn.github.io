@@ -38,7 +38,7 @@ export default function (): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to mainTAIN ACcurate LEDgers] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to mainTAIN ACcurate LEDgers] - [NOUN PHRASE][DANH CỤM] acting as a subject complement to explain what the primary goal is after the linking verb."
+			explanation: "Form: [to mainTAIN ACcurate LEDgers] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to mainTAIN ACcurate LEDgers] - [NOUN PHRASE][DANH CỤM] acting as a subject complement to explain what the primary goal is after the linking verb."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function (): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [AUdited] - [PAST PARTiciple VERB][QUÁ HOÀN ĐỘNG] using a single past participle form of the verb to function as a modifier. \n\n Function: [AUdited] - [ADjective][TÍNH] directly modifying the financial noun \"STATEments\" to clarify their verified status."
+			explanation: "Form: [AUdited] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] using a single past participle form of the verb to function as a modifier. \n\n Function: [AUdited] - [ADjective][TÍNH] directly modifying the financial noun \"STATEments\" to clarify their verified status."
 		},
 		{
 			id: 4,
@@ -78,7 +78,7 @@ export default function (): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [to ANalyze the QUARTerly TAX impliCAtions] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] built from an infinitive structure that carries its own complex corporate object. \n\n Function: [to ANalyze the QUARTerly TAX impliCAtions] - [ADjective PHRASE][TÍNH CỤM] modifying the accounting professional noun \"conSULtant\" by identifying their specific intended responsibility."
+			explanation: "Form: [to ANalyze the QUARTerly TAX impliCAtions] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] built from an infinitive structure that carries its own complex corporate object. \n\n Function: [to ANalyze the QUARTerly TAX impliCAtions] - [ADjective PHRASE][TÍNH CỤM] modifying the accounting professional noun \"conSULtant\" by identifying their specific intended responsibility."
 		},
 		{
 			id: 7,

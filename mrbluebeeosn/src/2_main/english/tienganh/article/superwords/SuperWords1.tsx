@@ -144,10 +144,10 @@ export default function SuperWords1(): React.JSX.Element {
           <li value="5">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, have to, may</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, khẳng định chắc chắn. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive-MOdal VERB][PHỨC ÁP-THÁI ĐỘNG] thống nhất.</li>
 
-          <li value="6">[<strong>BARE VERB</strong>][<strong>THUẦN ĐỘNG</strong>]: BUILD, deSIGN, TEST</li>
+          <li value="6">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: BUILD, deSIGN, TEST</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [PARTicle VERB][HẠT ĐỘNG] "to", [SOFT-MOdal][Ý-THÁI] hay [asSERTive-MOdal VERB][ÁP-THÁI ĐỘNG] hoặc [ROOT VERB][RỄ ĐỘNG] MAKE, LET, let's, HELP, HAVE, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL.</li>
       
-          <li value="7">[<strong>PARTicle BARE VERB</strong>][<strong>HẠT THUẦN ĐỘNG</strong>]: to BUILD, to deSIGN</li>
+          <li value="7">[<strong>FULL inFINitive VERB</strong>][<strong>TOÀN NGUYÊN ĐỘNG</strong>]: to BUILD, to deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt ĐỘNG] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
 
           <li value="8">[<strong>SOFT-MOdal BARE VERB</strong>][<strong>Ý-THÁI THUẦN ĐỘNG</strong>]: would BUILD, could deSIGN</li>
@@ -159,7 +159,7 @@ export default function SuperWords1(): React.JSX.Element {
           <li value="10">[<strong>TENSE BARE VERB</strong>][<strong>THỜI THUẦN ĐỘNG</strong>]: DID BUILD, DOES deSIGN</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu.</li>
 
-          <li value="11">[<strong>PAST TENSE VERB</strong>][<strong>QUÁ THỜI ĐỘNG</strong>], [<strong>3RD-PERson PRESent VERB</strong>][<strong>BA HIỆN ĐỘNG</strong>]: BUILT, BUILDS, deSIGNS</li>
+          <li value="11">[<strong>PAST VERB</strong>][<strong>ĐÃ ĐỘNG</strong>], [<strong>3RD VERB</strong>][<strong>3RD ĐỘNG</strong>]: BUILT, BUILDS, deSIGNS</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] (Quá khứ/Hiện tại) và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
       
           <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: BUILDing, deSIGNing, TESTing</li>
@@ -168,13 +168,13 @@ export default function SuperWords1(): React.JSX.Element {
           <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>QUÁ HOÀN ĐỘNG</strong>]: BUILT, deSIGNED, been</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành và để lại kết quả.</li>
       
-          <li value="14">[<strong>TENSE PRESent PARTiciple VERB</strong>][<strong>THỜI HIỆN TIẾP ĐỘNG</strong>]: is BUILDing, was deSIGNing</li>
+          <li value="14">[<strong>auXILiary and PRESent PARTiciple VERB</strong>][<strong>TRỢ và HIỆN TIẾP ĐỘNG</strong>]: is BUILDing, was deSIGNing</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
 
-          <li value="15">[<strong>TENSE PAST PARTiciple VERB</strong>][<strong>THỜI QUÁ HOÀN ĐỘNG</strong>]: has BUILT, had deSIGNED</li>
+          <li value="15">[<strong>auXILiary and PAST PARTiciple VERB</strong>][<strong>TRỢ và ĐÃ HOÀN ĐỘNG</strong>]: has BUILT, had deSIGNED</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Hoàn] thành.</li>
       
-          <li value="16">[<strong>TENSE PERfect PRESent PARTiciple VERB</strong>][<strong>THỜI HOÀN HIỆN TIẾP ĐỘNG</strong>]: has been BUILDing, had been deSIGNing</li>
+          <li value="16">[<strong>auXILiary,  PAST and PRESent PARTiciple VERB</strong>][<strong>TRỢ, ĐÃ VÀ HIỆN TIẾP ĐỘNG</strong>]: has been BUILDing, had been deSIGNing</li>
           <li className="list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
       
         </ol>
@@ -218,7 +218,7 @@ export default function SuperWords1(): React.JSX.Element {
       
           <li>have OPtimized → [TENSE + PERfect][THỜI + HOÀN] have/has/had + OPtimized</li>
       
-          <li>OPtimized, OPtimizes → [PAST TENSE VERB][QUÁ THỜI ĐỘNG], [3RD-PERson PRESent VERB][BA HIỆN ĐỘNG] Tích hợp</li>
+          <li>OPtimized, OPtimizes → [PAST VERB][ĐÃ ĐỘNG], [3RD VERB][3RD ĐỘNG] Tích hợp</li>
       
         </ul>
       
@@ -229,9 +229,9 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to OPtimize → [PARTicle VERB][HẠT ĐỘNG] to + [BARE VERB][THUẦN ĐỘNG] OPtimize</li>
+          <li>to OPtimize → [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] OPtimize</li>
       
-          <li>DID OPtimize → [TENSE][THỜI] did (Nhấn mạnh) + [BARE VERB][THUẦN ĐỘNG] OPtimize</li>
+          <li>DID OPtimize → [TENSE][THỜI] did (Nhấn mạnh) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] OPtimize</li>
       
         </ul>
       
@@ -242,9 +242,9 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>should conSULT → [SOFT-MOdal][Ý-THÁI] should (gợi ý) + [BARE VERB][THUẦN ĐỘNG] conSULT</li>
+          <li>should conSULT → [SOFT-MOdal][Ý-THÁI] should (gợi ý) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] conSULT</li>
       
-          <li>could upGRADE → [SOFT-MOdal][Ý-THÁI] could (khả năng nhẹ) + [BARE VERB][THUẦN ĐỘNG] upGRADE</li>
+          <li>could upGRADE → [SOFT-MOdal][Ý-THÁI] could (khả năng nhẹ) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] upGRADE</li>
       
         </ul>
       
@@ -255,9 +255,9 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>will apPROVE → [asSERTive-MOdal][ÁP-THÁI] will (cam kết) + [BARE VERB][THUẦN ĐỘNG] apPROVE</li>
+          <li>will apPROVE → [asSERTive-MOdal][ÁP-THÁI] will (cam kết) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] apPROVE</li>
       
-          <li>must seCURE → [asSERTive-MOdal][ÁP-THÁI] must (ép buộc) + [BARE VERB][THUẦN ĐỘNG] seCURE</li>
+          <li>must seCURE → [asSERTive-MOdal][ÁP-THÁI] must (ép buộc) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] seCURE</li>
       
         </ul>
 
@@ -314,7 +314,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [deSIGNing] – [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ [ROOT VERB][RỄ ĐỘNG] nguyên bản "deSIGN" mặc thêm hậu tố "-ing" để tạo thành một khối cấp độ [BASE][CƠ] độc lập.</li>
 			
-					<li className="list-none">Chức năng: [deSIGNing] – [NOUN][DANH] đang đứng vị trí sau [3RD-PERson PRESent VERB][BA HIỆN ĐỘNG] "enJOYS" để làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận hành động yêu thích.</li>
+					<li className="list-none">Chức năng: [deSIGNing] – [NOUN][DANH] đang đứng vị trí sau [3RD VERB][3RD ĐỘNG] "enJOYS" để làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận hành động yêu thích.</li>
 			
 				</ul>
 			
@@ -326,7 +326,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>we FOUND an [unexPECted] soLUtion.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã tìm ra một giải pháp [bất ngờ/không mong đợi].</li>
 			
-					<li className="list-none">Hình thái: [unexPECted] – [PAST PARTiciple VERB][QUÁ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "exPECT" mặc thêm tiền tố phủ định "un-" kết hợp với hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] mang tính mô tả tĩnh.</li>
+					<li className="list-none">Hình thái: [unexPECted] – [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "exPECT" mặc thêm tiền tố phủ định "un-" kết hợp với hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] mang tính mô tả tĩnh.</li>
 			
 					<li className="list-none">Chức năng: [unexPECted] – [ADjective][TÍNH] đang đứng vị trí trước và bổ nghĩa, mô tả tính chất cho giải pháp.</li>
 			
@@ -404,7 +404,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>she STUDied HARD [to PASS the examiNAtion].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã học tập chăm chỉ [để vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Hình thái: [to PASS the examiNAtion] – [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] biểu thị khối hành động được dẫn dắt bởi hạt "to" kết hợp với hành động [Thuần] khiết và các thành phần bổ ngữ phía sau.</li>
+					<li className="list-none">Hình thái: [to PASS the examiNAtion] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] biểu thị khối hành động được dẫn dắt bởi hạt "to" kết hợp với hành động [Thuần] khiết và các thành phần bổ ngữ phía sau.</li>
 			
 					<li className="list-none">Chức năng: [to PASS the examiNAtion] – [ADverb PHRASE][TRẠNG CỤM] đang đứng vị trí cuối để bổ nghĩa cho toàn câu bằng cách làm rõ mục đích của hành động học tập.</li>
 			
@@ -612,7 +612,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] lớn đứng sau [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "sugGESted".</li>
+					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] lớn đứng sau [PAST VERB][ĐÃ ĐỘNG] "sugGESted".</li>
 
 					<li className="list-none">Trong đó khối phụ {'{WHAT the TEAM acCOMplished this QUARter}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong đứng vị trí [OBject PROnoun][TÂN ĐẠI] nhỏ tiếp nhận tác động từ hành động xem xét.</li>
 			

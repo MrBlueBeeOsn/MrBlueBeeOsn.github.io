@@ -254,7 +254,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She saves money [to travel abroad].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy tiết kiệm tiền [để đi du lịch nước ngoài].</li>
 			
-					<li className="list-none">Hình thái: [to travel abroad] – [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] gồm hành động nguyên mẫu có to và abroad.</li>
+					<li className="list-none">Hình thái: [to travel abroad] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] gồm hành động nguyên mẫu có to và abroad.</li>
 			
 					<li className="list-none">Chức năng: [to travel abroad] – [ADverb PHRASE][TRẠNG CỤM] đứng cuối câu, bổ sung ý nghĩa về mục đích cho hành động saves money.</li>
 			
@@ -293,7 +293,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{why I called her}'} – [NOUN CLAUSE][DANH CÂU] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
 
-					<li className="list-none">Hình thái lớp ngoài: [forgot {'{why I called her}'}] – [TIERed PAST TENSE VERB PHRASE] [TẦNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PAST TENSE VERB][QUÁ THỜI ĐỘNG] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
+					<li className="list-none">Hình thái lớp ngoài: [forgot {'{why I called her}'}] – [TIERed PAST TENSE VERB PHRASE] [TẦNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PAST VERB][ĐÃ ĐỘNG] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
 			
 					<li className="list-none">Chức năng lớp ngoài: [forgot {'{why I called her}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ khối này nằm sau She, là [Danh Nhận] – đối tượng mà hành động forgot hướng đến.</li>
 			
@@ -412,7 +412,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She called me [to share the good news].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy gọi cho tôi [để chia sẻ tin vui].</li>
 			
-					<li className="list-none">Hình thái: [to share the good news] – [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] dạng nguyên mẫu mục đích.</li>
+					<li className="list-none">Hình thái: [to share the good news] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng nguyên mẫu mục đích.</li>
 			
 					<li className="list-none">Chức năng: [to share the good news] – [ADverb PHRASE][TRẠNG CỤM] bổ sung ý nghĩa mục đích cho hành động called.</li>
 			

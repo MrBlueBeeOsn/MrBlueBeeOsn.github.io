@@ -114,7 +114,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She loves [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy thích [đọc tiểu thuyết trinh thám].</li>
 			
-					<li className="list-none">Hình thái: [to read mystery novels] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] gồm [to read] và tân thể [mystery novels]</li>
+					<li className="list-none">Hình thái: [to read mystery novels] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] gồm [to read] và tân thể [mystery novels]</li>
 			
 					<li className="list-none">Chức năng: [to read mystery novels] - [NOUN PHRASE][DANH CỤM] là đối tượng trực tiếp của [ĐỘNG] [loves], cái mà hành động yêu thích hướng đến</li>
 			
@@ -230,7 +230,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She woke up early [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy dậy sớm [để bắt chuyến xe buýt đầu tiên].</li>
 			
-					<li className="list-none">Hình thái: [to catch the first bus] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] dạng to-V kèm tân thể, chỉ mục đích</li>
+					<li className="list-none">Hình thái: [to catch the first bus] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V kèm tân thể, chỉ mục đích</li>
 			
 					<li className="list-none">Chức năng: [to catch the first bus] - [ADverb PHRASE][TRẠNG CỤM] bổ nghĩa cho [Động Cụm] [woke up early], giải thích mục đích của việc dậy sớm</li>
 			
@@ -281,7 +281,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______] is relaxing.</li>
 					<li className="margin-bottom-20 list-none">[Chạy trong công viên] thì thư giãn.</li>
 			
-					<li className="list-none">Hình thái: [To run in the park] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] to-V kèm bổ túc nơi chốn</li>
+					<li className="list-none">Hình thái: [To run in the park] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] to-V kèm bổ túc nơi chốn</li>
 			
 					<li className="list-none">Chức năng: [To run in the park] - [NOUN PHRASE][DANH CỤM] vẫn là chủ thể của câu</li>
 			

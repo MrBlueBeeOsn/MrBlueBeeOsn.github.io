@@ -28,7 +28,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [to LEARN EVERyday] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by combining the infinitive marker \"to\", the bare VERB \"LEARN\", and the adverbial modifier \"EVERyday\". \n\n Function: [to LEARN EVERyday] - [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"exPANDS\", acting as the nominal head of the sentence."
+			explanation: "Form: [to LEARN EVERyday] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] formed by combining the infinitive marker \"to\", the bare VERB \"LEARN\", and the adverbial modifier \"EVERyday\". \n\n Function: [to LEARN EVERyday] - [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"exPANDS\", acting as the nominal head of the sentence."
 		},
 		{
 			id: 2,
@@ -38,7 +38,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADVERB]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [FALlen] - [PAST PARTiciple VERB][QUÁ HOÀN ĐỘNG] formed by the bare past participle form of the verb \"FALL\" without any auxiliary attachments. \n\n Function: [FALlen] - [ADjective][TÍNH] modifies and directly describes the head noun \"LEAVES\"."
+			explanation: "Form: [FALlen] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] formed by the bare past participle form of the verb \"FALL\" without any auxiliary attachments. \n\n Function: [FALlen] - [ADjective][TÍNH] modifies and directly describes the head noun \"LEAVES\"."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADVERB]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [Open] - [BARE VERB][THUẦN ĐỘNG] originating from a bare VERB. \n\n Function: [Open] - [ADVERB][TRẠNG] acts as a resultative complement modifying the verb \"FLEW\" to show the final state achieved by the action."
+			explanation: "Form: [Open] - [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] originating from a bare VERB. \n\n Function: [Open] - [ADVERB][TRẠNG] acts as a resultative complement modifying the verb \"FLEW\" to show the final state achieved by the action."
 		},
 		{
 			id: 4,
@@ -78,7 +78,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to FINish his gradUAtion THEsis] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by the infinitive marker \"to\", the VERB \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [ADverb PHRASE][TRẠNG CỤM] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
+			explanation: "Form: [to FINish his gradUAtion THEsis] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] formed by the infinitive marker \"to\", the VERB \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [ADverb PHRASE][TRẠNG CỤM] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
 		},
 		{
 			id: 7,

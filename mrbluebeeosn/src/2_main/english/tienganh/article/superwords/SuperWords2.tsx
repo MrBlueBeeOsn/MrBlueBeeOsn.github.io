@@ -141,7 +141,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The [______] window needs repair.</li>
 					<li className="margin-bottom-20 list-none">Cái cửa sổ [vỡ] cần sửa.</li>
 			
-					<li className="list-none">Hình thái: [broken] - [PAST PARTiciple VERB][QUÁ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "break" mặc thêm hậu tố "-ed" ở dạng cột 3 để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [broken] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "break" mặc thêm hậu tố "-ed" ở dạng cột 3 để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
 			
 					<li className="list-none">Chức năng: [broken] - [ADjective][TÍNH] miêu tả trạng thái của cửa sổ.</li>
 			
@@ -197,7 +197,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] takes time.</li>
 					<li className="margin-bottom-20 list-none">[Học một ngôn ngữ mới] cần thời gian.</li>
 			
-					<li className="list-none">Hình thái: [To learn a new language] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] dạng to-V.</li>
+					<li className="list-none">Hình thái: [To learn a new language] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
 			
 					<li className="list-none">Chức năng: [To learn a new language] - [NOUN PHRASE][DANH CỤM] đứng đầu câu, chỉ một việc.</li>
 			
@@ -242,7 +242,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>She seems [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có vẻ [mệt].</li>
 			
-					<li className="list-none">Hình thái: [to be tired] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] dạng to-V.</li>
+					<li className="list-none">Hình thái: [to be tired] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
 			
 					<li className="list-none">Chức năng: [to be tired] - [ADjective PHRASE][TÍNH CỤM] bổ sung cho she.</li>
 			
@@ -259,7 +259,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He works hard [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy làm việc chăm chỉ [để kiếm tiền].</li>
 			
-					<li className="list-none">Hình thái: [to earn money] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] dạng to-V chỉ mục đích.</li>
+					<li className="list-none">Hình thái: [to earn money] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V chỉ mục đích.</li>
 			
 					<li className="list-none">Chức năng: [to earn money] - [ADverb PHRASE][TRẠNG CỤM] bổ sung mục đích cho works hard.</li>
 			
@@ -273,7 +273,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>She left [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy rời đi [để bắt xe buýt].</li>
 			
-					<li className="list-none">Hình thái: [to catch the bus] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] dạng to-V.</li>
+					<li className="list-none">Hình thái: [to catch the bus] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
 			
 					<li className="list-none">Chức năng: [to catch the bus] - [ADverb PHRASE][TRẠNG CỤM] bổ sung mục đích cho left.</li>
 			
@@ -449,7 +449,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Bơi mỗi ngày] thì tốt cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [To swim every day] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] dạng to-V.</li>
+					<li className="list-none">Hình thái: [To swim every day] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
 			
 					<li className="list-none">Chức năng: [To swim every day] - [NOUN PHRASE][DANH CỤM] đứng đầu câu, chỉ một việc.</li>
 			

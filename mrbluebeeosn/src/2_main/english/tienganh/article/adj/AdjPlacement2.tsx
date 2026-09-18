@@ -254,7 +254,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>She loves [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy thích [vẽ phong cảnh].</li>
 			
-					<li className="list-none">Hình thái: [to paint landscapes] – [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] gồm [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] to paint và thành phần đi kèm landscapes.</li>
+					<li className="list-none">Hình thái: [to paint landscapes] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] gồm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] to paint và thành phần đi kèm landscapes.</li>
 			
 					<li className="list-none">Chức năng: [to paint landscapes] – [NOUN PHRASE][DANH CỤM] đóng vai trò [Danh Nhận] (thành phần chịu tác động từ hành động loves).</li>
 			
@@ -363,7 +363,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>She studies hard [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy học chăm chỉ [để qua kỳ thi].</li>
 			
-					<li className="list-none">Hình thái: [to pass the exam] – [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] dạng nguyên mẫu.</li>
+					<li className="list-none">Hình thái: [to pass the exam] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng nguyên mẫu.</li>
 			
 					<li className="list-none">Chức năng: [to pass the exam] – [ADverb PHRASE][TRẠNG CỤM] chỉ mục đích, bổ nghĩa cho studies hard.</li>
 			
@@ -741,7 +741,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>[______] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Bơi mỗi sáng] thì thú vị.</li>
 			
-					<li className="list-none">[To swim every morning] – [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] dạng to + thành phần đi kèm → [NOUN PHRASE][DANH CỤM] – vẫn đóng vai trò Danh Chủ.</li>
+					<li className="list-none">[To swim every morning] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to + thành phần đi kèm → [NOUN PHRASE][DANH CỤM] – vẫn đóng vai trò Danh Chủ.</li>
 			
 				</ul>
 			

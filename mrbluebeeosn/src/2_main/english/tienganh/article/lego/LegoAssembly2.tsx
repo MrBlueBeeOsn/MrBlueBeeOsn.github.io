@@ -102,7 +102,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She wants [to learn English].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy muốn [học tiếng Anh].</li>
 			
-					<li className="list-none">Hình thái: [to learn English] – [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [ĐỘNG] ở dạng nguyên mẫu có to</li>
+					<li className="list-none">Hình thái: [to learn English] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [ĐỘNG] ở dạng nguyên mẫu có to</li>
 			
 					<li className="list-none">Chức năng: [to learn English] – [NOUN PHRASE][DANH CỤM] nhận tác động từ Head wants</li>
 			
@@ -198,7 +198,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She studies [to pass the exam].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy học [để vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Hình thái: [to pass the exam] – [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] nguyên mẫu chỉ mục đích</li>
+					<li className="list-none">Hình thái: [to pass the exam] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] nguyên mẫu chỉ mục đích</li>
 			
 					<li className="list-none">Chức năng: [to pass the exam] – [ADverb PHRASE][TRẠNG CỤM] bổ nghĩa cho việc studies nêu mục đích</li>
 			
@@ -232,7 +232,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He [forgot {'{that she needed the document}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [đã quên {'{rằng cô ấy cần tài liệu}'}].</li>
 			
-					<li className="list-none">Hình thái tổng thể: [forgot {'{that she needed the document}'}] – [TIERed PAST TENSE VERB PHRASE] [TẦNG QUÁ THỜI ĐỘNG CỤM] tầng ngoài [PAST TENSE VERB][QUÁ THỜI ĐỘNG] forgot</li>
+					<li className="list-none">Hình thái tổng thể: [forgot {'{that she needed the document}'}] – [TIERed PAST TENSE VERB PHRASE] [TẦNG QUÁ THỜI ĐỘNG CỤM] tầng ngoài [PAST VERB][ĐÃ ĐỘNG] forgot</li>
 					<li className="margin-bottom-20 list-none">Hình thái bên trong: {'{that she needed the document}'} – [conJUNCtional CLAUSE][LIÊN CÂU][conJUNCtional CLAUSE][LIÊN CÂU] tầng trong</li>
 
 					<li className="list-none">Chức năng của khối trong: {'{that she needed the document}'} – [NOUN CLAUSE][DANH CÂU]</li>
@@ -258,7 +258,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She wants [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy muốn [học tiếng Anh].</li>
 			
-					<li className="list-none">[to learn English] – [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] → chức năng [NOUN PHRASE][DANH CỤM]</li>
+					<li className="list-none">[to learn English] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] → chức năng [NOUN PHRASE][DANH CỤM]</li>
 			
 				</ul>
 			
@@ -315,7 +315,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He works hard [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy làm việc chăm chỉ [để kiếm tiền].</li>
 			
-					<li className="list-none">[to earn money] – [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] → chức năng [ADverb PHRASE][TRẠNG CỤM]</li>
+					<li className="list-none">[to earn money] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] → chức năng [ADverb PHRASE][TRẠNG CỤM]</li>
 			
 				</ul>
 			

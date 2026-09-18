@@ -90,7 +90,7 @@ export default function Respond(): React.JSX.Element {
               <li>the TEAM should [reSPOND] to the CLIent reQUEST imMEDIately.</li>
               <li className="margin-bottom-20 list-none">Đội ngũ nên [phản hồi] yêu cầu của khách hàng ngay lập tức.</li>
 
-              <li className="list-none">Hình thái: [reSPOND] - [BARE VERB][THUẦN ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "reSPOND" đứng sau chịu tác động từ [SOFT-MOdal VERB][Ý-THÁI ĐỘNG] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "to the CLIent reQUEST".</li>
+              <li className="list-none">Hình thái: [reSPOND] - [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "reSPOND" đứng sau chịu tác động từ [SOFT-MOdal VERB][Ý-THÁI ĐỘNG] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "to the CLIent reQUEST".</li>
           
             </ul>
 
@@ -113,7 +113,7 @@ export default function Respond(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">HỆ THỐNG [PHÂN LOẠI HẠT NHÂN ĐỘNG][VERB CATegories]</h3>
 
-      <h4 className="margin-y-40">a. Phân hệ [BASE][CƠ]</h4>
+      <h4 className="margin-y-40">a. Phân hệ [VERB][ĐỘNG]</h4>
       
         <ol>
       
@@ -132,7 +132,7 @@ export default function Respond(): React.JSX.Element {
           <li value="5">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, may</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive-MOdal VERB][PHỨC ÁP-THÁI ĐỘNG] thống nhất.</li>
 
-          <li value="6">[<strong>BARE VERB</strong>][<strong>THUẦN ĐỘNG</strong>]: reSPOND</li>
+          <li value="6">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: reSPOND</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
 
           <li className="list-none">[PARTicle VERB][HẠT ĐỘNG]: to</li>
@@ -142,7 +142,7 @@ export default function Respond(): React.JSX.Element {
           <li className="list-none">Nhóm VERB Hỗ Trợ / Tương Tác: HELP, GET (khi ở dạng đặc biệt)</li>
           <li className="margin-bottom-20 list-none">Nhóm VERB Tri Giác / Cảm Nhận: SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL</li>
       
-          <li value="7">[<strong>PARTicle BARE VERB</strong>][<strong>HẠT THUẦN ĐỘNG</strong>]: to reSPOND</li>
+          <li value="7">[<strong>FULL inFINitive VERB</strong>][<strong>TOÀN NGUYÊN ĐỘNG</strong>]: to reSPOND</li>
           <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau.</li>
 
           <li value="8">[<strong>SOFT-MOdal BARE VERB</strong>][<strong>Ý-THÁI THUẦN ĐỘNG</strong>]: would reSPOND, could reSPOND, should reSPOND</li>
@@ -154,7 +154,7 @@ export default function Respond(): React.JSX.Element {
           <li value="10">[<strong>TENSE BARE VERB</strong>][<strong>THỜI THUẦN ĐỘNG</strong>]: DID reSPOND, DOES reSPOND</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu.</li>
 
-          <li value="11">[<strong>PAST TENSE VERB</strong>][<strong>QUÁ THỜI ĐỘNG</strong>], [<strong>3RD-PERson PRESent VERB</strong>][<strong>BA HIỆN ĐỘNG</strong>]: reSPONDed, reSPONDS</li>
+          <li value="11">[<strong>PAST VERB</strong>][<strong>ĐÃ ĐỘNG</strong>], [<strong>3RD VERB</strong>][<strong>3RD ĐỘNG</strong>]: reSPONDed, reSPONDS</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] (Quá khứ/Hiện tại) và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
       
           <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: reSPONDing</li>
@@ -163,13 +163,13 @@ export default function Respond(): React.JSX.Element {
           <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>QUÁ HOÀN ĐỘNG</strong>]: reSPONDed, been</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành.</li>
       
-          <li value="14">[<strong>TENSE PRESent PARTiciple VERB</strong>][<strong>THỜI HIỆN TIẾP ĐỘNG</strong>]: is reSPONDing, was reSPONDing</li>
+          <li value="14">[<strong>auXILiary and PRESent PARTiciple VERB</strong>][<strong>TRỢ và HIỆN TIẾP ĐỘNG</strong>]: is reSPONDing, was reSPONDing</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đang [Tiếp] diễn.</li>
 
-          <li value="15">[<strong>TENSE PAST PARTiciple VERB</strong>][<strong>THỜI QUÁ HOÀN ĐỘNG</strong>]: has reSPONDed, had reSPONDed</li>
+          <li value="15">[<strong>auXILiary and PAST PARTiciple VERB</strong>][<strong>TRỢ và ĐÃ HOÀN ĐỘNG</strong>]: has reSPONDed, had reSPONDed</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đã trọn vẹn, [Hoàn] thành.</li>
       
-          <li value="16">[<strong>TENSE PERfect PRESent PARTiciple VERB</strong>][<strong>THỜI HOÀN HIỆN TIẾP ĐỘNG</strong>]: has been reSPONDing, had been reSPONDing</li>
+          <li value="16">[<strong>auXILiary,  PAST and PRESent PARTiciple VERB</strong>][<strong>TRỢ, ĐÃ VÀ HIỆN TIẾP ĐỘNG</strong>]: has been reSPONDing, had been reSPONDing</li>
           <li className="list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, tính chất đã trọn vẹn, [Hoàn] thành và tính chất đang [Tiếp] diễn.</li>
       
         </ol>
@@ -234,7 +234,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [reSPONsively] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "reSPOND" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] có khả năng bổ trợ bối cảnh phương thức.</li>
       
-          <li className="list-none">Chức năng: [reSPONsively] - [ADVERB][TRẠNG] làm thành phần bổ nghĩa cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "SOLVED" để xác định cách thức diễn ra.</li>
+          <li className="list-none">Chức năng: [reSPONsively] - [ADVERB][TRẠNG] làm thành phần bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "SOLVED" để xác định cách thức diễn ra.</li>
       
         </ul>
 
@@ -271,7 +271,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [reSPONDing to USer FEEDback] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] hình thành từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [reSPONDing to USer FEEDback] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận trực tiếp mục tiêu của hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "priORitized".</li>
+          <li className="list-none">Chức năng: [reSPONDing to USer FEEDback] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận trực tiếp mục tiêu của hành động [PAST VERB][ĐÃ ĐỘNG] "priORitized".</li>
       
         </ul>
 
@@ -285,9 +285,9 @@ export default function Respond(): React.JSX.Element {
           <li>[To reSPOND efFECtively in CRIsis situAtions] is the TEAM's MAIN GOAL.</li>
           <li className="margin-bottom-20 list-none">[Việc phản hồi hiệu quả trong các tình huống khủng hoảng] là mục tiêu chính của đội ngũ.</li>
       
-          <li className="list-none">Hình thái: [To reSPOND efFECtively in CRIsis situAtions] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] phát triển từ cụm [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none">Hình thái: [To reSPOND efFECtively in CRIsis situAtions] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] phát triển từ cụm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [To reSPOND efFECtively in CRIsis situAtions] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [3RD-PERson PRESent VERB][BA HIỆN ĐỘNG] "is" để định danh đầu việc làm chủ thể đầu câu.</li>
+          <li className="list-none">Chức năng: [To reSPOND efFECtively in CRIsis situAtions] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [3RD VERB][3RD ĐỘNG] "is" để định danh đầu việc làm chủ thể đầu câu.</li>
       
         </ul>
 
@@ -301,9 +301,9 @@ export default function Respond(): React.JSX.Element {
           <li>the SYStem AIMS [to reSPOND autoMATically to NETwork eVENTS].</li>
           <li className="margin-bottom-20 list-none">Hệ thống hướng tới [việc phản hồi tự động đối với các sự kiện mạng].</li>
       
-          <li className="list-none">Hình thái: [to reSPOND autoMATically to NETwork eVENTS] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] phát triển từ cụm [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none">Hình thái: [to reSPOND autoMATically to NETwork eVENTS] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] phát triển từ cụm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [to reSPOND autoMATically to NETwork eVENTS] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận trực tiếp mục tiêu tác động cho hành động [3RD-PERson PRESent VERB][BA HIỆN ĐỘNG] "AIMS".</li>
+          <li className="list-none">Chức năng: [to reSPOND autoMATically to NETwork eVENTS] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận trực tiếp mục tiêu tác động cho hành động [3RD VERB][3RD ĐỘNG] "AIMS".</li>
       
         </ul>
       
@@ -317,7 +317,7 @@ export default function Respond(): React.JSX.Element {
           <li>it is esSENtial [to reSPOND QUICKly to CUStomer comPLAINts].</li>
           <li className="margin-bottom-20 list-none">Việc [phản hồi nhanh chóng các khiếu nại của khách hàng] là điều thiết yếu.</li>
       
-          <li className="list-none">Hình thái: [to reSPOND QUICKly to CUStomer comPLAINts] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] phát triển từ cụm [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none">Hình thái: [to reSPOND QUICKly to CUStomer comPLAINts] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] phát triển từ cụm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
           <li className="list-none">Chức năng: [to reSPOND QUICKly to CUStomer comPLAINts] - [NOUN PHRASE][DANH CỤM] đảm nhận vai trò làm [SUBject PROnoun][CHỦ ĐẠI] bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" trong cấu trúc [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "is esSENtial".</li>
       
@@ -353,7 +353,7 @@ export default function Respond(): React.JSX.Element {
           <li>the OFficer [to reSPOND to the inQUIRy] has been asSIGNED.</li>
           <li className="margin-bottom-20 list-none">Sĩ quan [sắp sửa phản hồi truy vấn] đã được phân công.</li>
       
-          <li className="list-none">Hình thái: [to reSPOND to the inQUIRy] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] phát triển từ cụm [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none">Hình thái: [to reSPOND to the inQUIRy] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] phát triển từ cụm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
           <li className="list-none">Chức năng: [to reSPOND to the inQUIRy] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng "OFficer" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó.</li>
       
@@ -369,7 +369,7 @@ export default function Respond(): React.JSX.Element {
           <li>the EmaiL [to be reSPONDed to by the MANager] will be SENT toMORrow.</li>
           <li className="margin-bottom-20 list-none">Email [sắp sửa được phản hồi bởi người quản lý] sẽ được gửi vào ngày mai.</li>
       
-          <li className="list-none">Hình thái: [to be reSPONDed to by the MANager] - [PARTicle BARE PAST PARTiciple VERB PHRASE][HẠT THUẦN QUÁ HOÀN ĐỘNG CỤM] bắt đầu bằng [PARTicle VERB][HẠT ĐỘNG] "to" kéo theo vùng bổ trợ phía sau chứa [BARE VERB][THUẦN ĐỘNG] "be" và [PAST PARTiciple VERB][QUÁ HOÀN ĐỘNG] "reSPONDed" để biểu thị trạng thái bị động tương lai.</li>
+          <li className="list-none">Hình thái: [to be reSPONDed to by the MANager] - [FULL inFINitive PARTiciple VERB PHRASE][TOÀN NGUYÊN HOÀN ĐỘNG CỤM] bắt đầu bằng [PARTicle VERB][HẠT ĐỘNG] "to" kéo theo vùng bổ trợ phía sau chứa [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "be" và [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] "reSPONDed" để biểu thị trạng thái bị động tương lai.</li>
       
           <li className="list-none">Chức năng: [to be reSPONDed to by the MANager] - [ADjective PHRASE][TÍNH CỤM] kích hoạt bộ quét đặt ngay sau đối tượng "EmaiL" để mô tả trạng thái sắp sửa được tác động.</li>
       
@@ -385,7 +385,7 @@ export default function Respond(): React.JSX.Element {
           <li>the comPLAINT [reSPONDed to by the SERvice dePARTment] was reSOLVED YESterday.</li>
           <li className="margin-bottom-20 list-none">Khiếu nại [đã được phản hồi bởi bộ phận dịch vụ] đã được giải quyết ngày hôm qua.</li>
       
-          <li className="list-none">Hình thái: [reSPONDed to by the SERvice dePARTment] - [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] phát triển từ [PAST PARTiciple VERB][QUÁ HOÀN ĐỘNG] "reSPONDed" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [reSPONDed to by the SERvice dePARTment] - [PAST PARTiciple VERB PHRASE][QUÁ HOÀN ĐỘNG CỤM] phát triển từ [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] "reSPONDed" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: [reSPONDed to by the SERvice dePARTment] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng "comPLAINT" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này.</li>
       
@@ -422,7 +422,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [reSPONDing to REcent conSUmer TRENDS] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] kết hợp mở rộng do được rút gọn từ một hệ [conJUNCtional CLAUSE][LIÊN CÂU] phụ thuộc có cùng thành phần lõi [SUBject PROnoun][CHỦ ĐẠI].</li>
       
-          <li className="list-none">Chức năng: [reSPONDing to REcent conSUmer TRENDS] - [ADverb PHRASE][TRẠNG CỤM] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "LAUNCHED" và toàn bộ CLAUSE chính.</li>
+          <li className="list-none">Chức năng: [reSPONDing to REcent conSUmer TRENDS] - [ADverb PHRASE][TRẠNG CỤM] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "LAUNCHED" và toàn bộ CLAUSE chính.</li>
       
         </ul>
 
@@ -438,7 +438,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [reSPONDing to URgent MARket RISKS] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] phát triển từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "reSPONDing" kết hợp mở rộng đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
       
-          <li className="list-none">Chức năng: [reSPONDing to URgent MARket RISKS] - [ADverb PHRASE][TRẠNG CỤM] đóng vai trò làm khối bối cảnh cách thức, bổ nghĩa trực tiếp cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "ALlocated".</li>
+          <li className="list-none">Chức năng: [reSPONDing to URgent MARket RISKS] - [ADverb PHRASE][TRẠNG CỤM] đóng vai trò làm khối bối cảnh cách thức, bổ nghĩa trực tiếp cho hành động [PAST VERB][ĐÃ ĐỘNG] "ALlocated".</li>
       
         </ul>
 
@@ -452,9 +452,9 @@ export default function Respond(): React.JSX.Element {
           <li>[To reSPOND efFECtively to CUStomer deMANDS], the STAFF exTENDed WORKing HOURS.</li>
           <li className="margin-bottom-20 list-none">[Để phản hồi hiệu quả đối với các yêu cầu của khách hàng], nhân viên đã kéo dài giờ làm việc.</li>
       
-          <li className="list-none">Hình thái: [To reSPOND efFECtively to CUStomer deMANDS] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] phát triển từ cụm [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to reSPOND" kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none">Hình thái: [To reSPOND efFECtively to CUStomer deMANDS] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] phát triển từ cụm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to reSPOND" kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
       
-          <li className="list-none">Chức năng: [To reSPOND efFECtively to CUStomer deMANDS] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "exTENDed" và toàn bộ diễn biến phía sau.</li>
+          <li className="list-none">Chức năng: [To reSPOND efFECtively to CUStomer deMANDS] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "exTENDed" và toàn bộ diễn biến phía sau.</li>
       
         </ul>
 
@@ -468,9 +468,9 @@ export default function Respond(): React.JSX.Element {
           <li>the techNICian arRIVED [to reSPOND to the NETwork aLERT].</li>
           <li className="margin-bottom-20 list-none">Kỹ thuật viên đã đến [để phản hồi/xử lý cảnh báo mạng].</li>
       
-          <li className="list-none">Hình thái: [to reSPOND to the NETwork aLERT] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] phát triển từ cụm [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to reSPOND" kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
+          <li className="list-none">Hình thái: [to reSPOND to the NETwork aLERT] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] phát triển từ cụm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to reSPOND" kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
       
-          <li className="list-none">Chức năng: [to reSPOND to the NETwork aLERT] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "arRIVED".</li>
+          <li className="list-none">Chức năng: [to reSPOND to the NETwork aLERT] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động [PAST VERB][ĐÃ ĐỘNG] "arRIVED".</li>
       
         </ul>
 
@@ -507,7 +507,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [in reSPONSE to NEW seCUrity reguLAtions] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "In" kéo theo vùng [OBject PROnoun][TÂN ĐẠI] phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
       
-          <li className="list-none">Chức năng: [in reSPONSE to NEW seCUrity reguLAtions] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bổ nghĩa cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "upDATed".</li>
+          <li className="list-none">Chức năng: [in reSPONSE to NEW seCUrity reguLAtions] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "upDATed".</li>
       
         </ul>
 
@@ -523,7 +523,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [for a QUICK reSPONSE to the INcident] - [prepoSITional PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã xác lập lý do / bối cảnh, bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
       
-          <li className="list-none">Chức năng: [for a QUICK reSPONSE to the INcident] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bổ nghĩa cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "GATHered".</li>
+          <li className="list-none">Chức năng: [for a QUICK reSPONSE to the INcident] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "GATHered".</li>
       
         </ul>
 
@@ -546,7 +546,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái:  [HOW the SYStem reSPONDS to seCUrity THREATS] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtion][LIÊN] "HOW" ở đầu, mang [SUBject PROnoun][CHỦ ĐẠI] riêng "the SYStem" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Chức năng:  [HOW the SYStem reSPONDS to seCUrity THREATS] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] quản lý khối thông tin quy trình, điều khiển chính cho hành động [3RD-PERson PRESent VERB][BA HIỆN ĐỘNG] "deTERmines".</li>
+          <li className="list-none">Chức năng:  [HOW the SYStem reSPONDS to seCUrity THREATS] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] quản lý khối thông tin quy trình, điều khiển chính cho hành động [3RD VERB][3RD ĐỘNG] "deTERmines".</li>
       
         </ul>
 
@@ -563,7 +563,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái:  [how the TEAM reSPONDS to URgent inQUIRies] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtion][LIÊN] "how" ở đầu, có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Chức năng:  [how the TEAM reSPONDS to URgent inQUIRies] - [NOUN CLAUSE][DANH CÂU] trở thành [OBject PROnoun][TÂN ĐẠI] chứa dữ liệu mục tiêu tiếp nhận cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "exPLAINED".</li>
+          <li className="list-none">Chức năng:  [how the TEAM reSPONDS to URgent inQUIRies] - [NOUN CLAUSE][DANH CÂU] trở thành [OBject PROnoun][TÂN ĐẠI] chứa dữ liệu mục tiêu tiếp nhận cho hành động [PAST VERB][ĐÃ ĐỘNG] "exPLAINED".</li>
       
         </ul>
       
@@ -595,7 +595,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [conJUNCtional CLAUSE][LIÊN CÂU] kích hoạt ngay sau thành phần [conJUNCtion][LIÊN] nguyên nhân "be<strong>cause</strong>", chứa [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập module bối cảnh, bổ nghĩa cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "sucCEEDed" và toàn bộ CLAUSE chính trước đó.</li>
+          <li className="list-none">Chức năng: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập module bối cảnh, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "sucCEEDed" và toàn bộ CLAUSE chính trước đó.</li>
       
         </ul>
 
@@ -614,7 +614,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [the TEAM reSPONDed apPROpriately to the WARNing] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] đã ẩn thành phần [conJUNCtion][LIÊN] định hướng "that", chỉ còn hiển thị trọn vẹn khối [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và cụm hành động phía sau.</li>
       
-          <li className="list-none">Chức năng: [the TEAM reSPONDed apPROpriately to the WARNing] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận trực tiếp nội dung cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "beLIEVE".</li>
+          <li className="list-none">Chức năng: [the TEAM reSPONDed apPROpriately to the WARNing] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận trực tiếp nội dung cho hành động [PAST VERB][ĐÃ ĐỘNG] "beLIEVE".</li>
       
         </ul>
       
@@ -628,7 +628,7 @@ export default function Respond(): React.JSX.Element {
           <li>the Email [she reSPONDed to] conTAINED CRUcial inforMAtion.</li>
           <li className="margin-bottom-20 list-none">Email [mà cô ấy đã phản hồi] chứa đựng thông tin quan trọng.</li>
       
-          <li className="list-none">Hình thái: [she reSPONDed to] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] đã ẩn thành phần [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "she" và cụm [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "reSPONDed to".</li>
+          <li className="list-none">Hình thái: [she reSPONDed to] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] đã ẩn thành phần [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "she" và cụm [PAST VERB][ĐÃ ĐỘNG] "reSPONDed to".</li>
       
           <li className="list-none">Chức năng: [she reSPONDed to] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng "the Email" để làm rõ đặc điểm cho đối tượng này.</li>
       
@@ -705,7 +705,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [inVESTigating {'{why the TEAM reSPONDed POORly to the FEEDback}'}] - [TIERed PRESent PARTiciple VERB PHRASE][TẦNG HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "inVESTigating" kết hợp vùng mã mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [inVESTigating {'{why the TEAM reSPONDed POORly to the FEEDback}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận nội dung cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "sugGESTed".</li>
+          <li className="list-none">Chức năng: [inVESTigating {'{why the TEAM reSPONDed POORly to the FEEDback}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận nội dung cho hành động [PAST VERB][ĐÃ ĐỘNG] "sugGESTed".</li>
       
         </ul>
 
@@ -735,7 +735,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: [To underSTAND {'{how the SYStem reSPONDS to NETwork FAIlures}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
+          <li className="list-none">Hình thái: [To underSTAND {'{how the SYStem reSPONDS to NETwork FAIlures}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
       
           <li className="list-none">Chức năng: [To underSTAND {'{how the SYStem reSPONDS to NETwork FAIlures}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres RIGorous TESting" để quản lý khối đầu việc ở đầu câu.</li>
       
@@ -767,9 +767,9 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: [to ANalyze {'{how USers reSPOND to NEW INterface deSIGNS}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to ANalyze" kéo theo vùng mã bổ trợ phía sau.</li>
+          <li className="list-none">Hình thái: [to ANalyze {'{how USers reSPOND to NEW INterface deSIGNS}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to ANalyze" kéo theo vùng mã bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [to ANalyze {'{how USers reSPOND to NEW INterface deSIGNS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận mục tiêu kế hoạch cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "PLANS".</li>
+          <li className="list-none">Chức năng: [to ANalyze {'{how USers reSPOND to NEW INterface deSIGNS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận mục tiêu kế hoạch cho hành động [PAST VERB][ĐÃ ĐỘNG] "PLANS".</li>
       
         </ul>
 
@@ -799,7 +799,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [PARTicle BARE VERB][HẠT THUẦN ĐỘNG] "to eVALuate" và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none">Hình thái: [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to eVALuate" và kéo theo thành phần bổ trợ phía sau.</li>
       
           <li className="list-none">Chức năng: [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [SUBject PROnoun][CHỦ ĐẠI] bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" trong cấu trúc [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres experTISE".</li>
       
@@ -866,7 +866,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [on {'{why the GOVernment reSPONDed SLOWly to the eMERgency}'}] - [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] biểu thị dưới dạng một vùng mã xác lập nội dung lớn bắt đầu bằng [prepoSITion][GIỚI] "on".</li>
       
-          <li className="list-none">Chức năng: [on {'{why the GOVernment reSPONDed SLOWly to the eMERgency}'}] - [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm/nội dung tổng thể, bổ nghĩa cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "FOcused".</li>
+          <li className="list-none">Chức năng: [on {'{why the GOVernment reSPONDed SLOWly to the eMERgency}'}] - [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm/nội dung tổng thể, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "FOcused".</li>
       
         </ul>
 
@@ -925,7 +925,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái gốc: [by reSPONDing QUICKly to supPORT TICKets] - [prepoSITional PHRASE][GIỚI CỤM] hiển thị dưới dạng một vùng mã chứa [prepoSITion][GIỚI] phương thức "by" đi kèm cụm hành động phía sau.</li>
       
-          <li className="list-none">Chức năng: [by reSPONDing QUICKly to supPORT TICKets] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm khối bối cảnh phương thức, bổ nghĩa cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "imPROVED".</li>
+          <li className="list-none">Chức năng: [by reSPONDing QUICKly to supPORT TICKets] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm khối bối cảnh phương thức, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "imPROVED".</li>
       
         </ul>
       
@@ -939,7 +939,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái mới: [be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets] - [conJUNCtional CLAUSE][LIÊN CÂU] hiển thị dưới dạng khối mã chứa đầy đủ [SUBject PROnoun][CHỦ ĐẠI] "the team" và cụm hành động đi sau thành phần [conJUNCtion][LIÊN] "be<strong>cause</strong>".</li>
       
-          <li className="list-none">Chức năng mới: [be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets] - [ADverb CLAUSE][TRẠNG CÂU] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "imPROVED" và toàn bộ diễn biến phía trước.</li>
+          <li className="list-none">Chức năng mới: [be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets] - [ADverb CLAUSE][TRẠNG CÂU] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "imPROVED" và toàn bộ diễn biến phía trước.</li>
       
         </ul>
 
@@ -983,7 +983,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái gốc: [for a FULL reSPONSE to the seCUrity PATCH] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] chỉ lý do / bối cảnh "for" để kéo theo khối [OBject PROnoun][TÂN ĐẠI] phía sau.</li>
       
-          <li className="list-none">Chức năng: [for a FULL reSPONSE to the seCUrity PATCH] - [ADverb PHRASE][TRẠNG CỤM] thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích, bổ nghĩa cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "reSTARted".</li>
+          <li className="list-none">Chức năng: [for a FULL reSPONSE to the seCUrity PATCH] - [ADverb PHRASE][TRẠNG CỤM] thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "reSTARted".</li>
       
         </ul>
       
@@ -997,7 +997,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái mới: [in reSPONSE to the seCUrity PATCH] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] mới, bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "in reSPONSE to" được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Chức năng mới: [in reSPONSE to the seCUrity PATCH] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể, bổ nghĩa cho hành động [PAST TENSE VERB][QUÁ THỜI ĐỘNG] "reSTARted" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu.</li>
+          <li className="list-none">Chức năng mới: [in reSPONSE to the seCUrity PATCH] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "reSTARted" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu.</li>
       
         </ul>
 
