@@ -112,8 +112,10 @@ export default function AdjPlacement1(): React.JSX.Element {
 
           <li value="3">[<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]: is, was, does</li>
           <li className="margin-bottom-20 list-none">Các từ khóa mang năng lượng định vị [Thời] gian, thiết lập khung bối cảnh hiện tại hoặc quá khứ cho câu.</li>
+
+					<li value="4" className="margin-bottom-20">[<strong>MOdal VERB</strong>][<strong>THÁI ĐỘNG</strong>]:</li>
       
-          <li value="4">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should</li>
+          <li className="list-none">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ nhẹ nhàng, gợi [Ý], giảm bớt tính áp đặt, tạo sự [Ý] nhị. Các khối phức đặc biệt: [COMplex SOFT-MOdal VERB][PHỨC Ý-THÁI ĐỘNG] như ought to, had BETter được quét như một đơn vị thống nhất.</li>
 
           <li className="list-none">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, must, can</li>

@@ -137,8 +137,10 @@ export default function SuperWords1(): React.JSX.Element {
 
           <li value="3">[<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian hoặc chia mốc thời trong câu.</li>
+
+					<li value="4" className="margin-bottom-20">[<strong>MOdal VERB</strong>][<strong>THÁI ĐỘNG</strong>]:</li>
       
-          <li value="4">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might, ought to, had BETter</li>
+          <li className="list-none">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might, ought to, had BETter</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had better" được quét như một [COMplex SOFT-MOdal VERB][PHỨC Ý-THÁI ĐỘNG] thống nhất.</li>
 
           <li className="list-none">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, have to, may</li>

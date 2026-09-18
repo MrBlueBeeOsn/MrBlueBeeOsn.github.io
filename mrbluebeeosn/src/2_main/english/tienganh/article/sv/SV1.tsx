@@ -220,8 +220,10 @@ export default function SV1(): React.JSX.Element {
 
           <li value="3">[<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Các [TENSE VERB][THỜI ĐỘNG] xuất hiện đơn lẻ để gánh vác năng lượng [Thời] gian, [Thời] cho câu.</li>
+
+					<li value="4" className="margin-bottom-20">[<strong>MOdal VERB</strong>][<strong>THÁI ĐỘNG</strong>]:</li>
       
-          <li value="4">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might, ought to, had BETter</li>
+          <li className="list-none">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might, ought to, had BETter</li>
           <li className="margin-bottom-20 list-none">Hành động thể hiện [Thái] độ nhã nhặn, triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had better" được quét như một [COMplex SOFT-MOdal VERB][PHỨC Ý-THÁI ĐỘNG] thống nhất.</li>
 
           <li className="list-none">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, have to, may</li>

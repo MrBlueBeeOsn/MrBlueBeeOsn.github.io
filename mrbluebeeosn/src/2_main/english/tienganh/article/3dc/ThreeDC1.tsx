@@ -220,8 +220,10 @@ export default function ThreeDC1(): React.ReactElement {
 
           <li value="3">[<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / [Thời] trong câu.</li>
+
+					<li value="4" className="margin-bottom-20">[<strong>MOdal VERB</strong>][<strong>THÁI ĐỘNG</strong>]:</li>
       
-          <li value="4">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might, ought to, had BETter</li>
+          <li className="list-none">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might, ought to, had BETter</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một [Phức Ý-Thái ĐỘNG] [Complex Soft-Modal VERB] thống nhất.</li>
 
           <li className="list-none">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, have to, may</li>

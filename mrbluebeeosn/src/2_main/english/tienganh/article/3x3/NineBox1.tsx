@@ -161,8 +161,10 @@ export default function NineBox1(): React.JSX.Element {
 
           <li value="3">[<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Thành phần đơn lẻ chịu trách nhiệm tải năng lượng [Thời] gian và định vị mốc [Thời] gian xảy ra hành động trên trục số.</li>
+
+					<li value="4" className="margin-bottom-20">[<strong>MOdal VERB</strong>][<strong>THÁI ĐỘNG</strong>]:</li>
       
-          <li value="4">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might, ought to, had BETter</li>
+          <li className="list-none">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might, ought to, had BETter</li>
           <li className="margin-bottom-20 list-none">Khối biểu thị [Thái] độ mang tính [Ý] nhị, nhường nhịn, triệt tiêu tính áp đặt nhưng vẫn giữ nguyên mong muốn thực tế. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một [COMplex SOFT-MOdal VERB][PHỨC Ý-THÁI ĐỘNG] thống nhất.</li>
 
           <li className="list-none">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, have to, may</li>

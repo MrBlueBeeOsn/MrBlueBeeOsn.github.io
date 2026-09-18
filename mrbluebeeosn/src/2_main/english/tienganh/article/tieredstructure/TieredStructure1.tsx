@@ -221,8 +221,10 @@ export default function TieredStructure1(): React.JSX.Element {
 
           <li value="3">[<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Từ đơn lẻ đóng vai trò làm bộ định vị, mang năng lượng [Thời] gian thực tế vào trong câu.</li>
+
+					<li value="4" className="margin-bottom-20">[<strong>MOdal VERB</strong>][<strong>THÁI ĐỘNG</strong>]:</li>
       
-          <li value="4">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might</li>
+          <li className="list-none">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might</li>
           <li className="margin-bottom-20 list-none">Cấu trúc biểu thị [Thái] độ uyển chuyển, nhường nhịn và triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một thực thể [COMplex SOFT-MOdal VERB][PHỨC Ý-THÁI ĐỘNG] thống nhất.</li>
 
           <li className="list-none">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, may</li>
