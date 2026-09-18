@@ -169,7 +169,7 @@ export default function SV1(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: [<strong>BARE VERB</strong>][<strong>THUẦN ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: [<strong>BARE VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm giữ nguyên hình thái gốc nguyên bản, tuyệt đối không chia theo thời hay thực thể khơi nguồn.</p>
 
@@ -182,7 +182,7 @@ export default function SV1(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>SOFT-MOdal BARE VERB</strong>][<strong>Ý-THÁI THUẦN ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>SOFT-MOdal and BARE inFINitive VERB</strong>][<strong>Ý-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm diễn đạt các tình huống lịch sự, khuyên nhủ hoặc giả định nhẹ nhàng. Bao gồm: would (nhã nhặn), should (gợi ý), could (khả năng nhẹ), might (khả năng thấp), ought to (khuyên bảo), had better (khuyên nhủ).</p>
 
@@ -195,7 +195,7 @@ export default function SV1(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive-MOdal BARE VERB</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive-MOdal and BARE inFINitive VERB</strong>][<strong>ÁP-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm khẳng định, cam kết hoặc áp đặt thực tế một cách chắc chắn. Bao gồm: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), have to (bắt buộc), may (khả năng).</p>
 
@@ -224,8 +224,11 @@ export default function SV1(): React.JSX.Element {
           <li value="4">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might, ought to, had BETter</li>
           <li className="margin-bottom-20 list-none">Hành động thể hiện [Thái] độ nhã nhặn, triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had better" được quét như một [COMplex SOFT-MOdal VERB][PHỨC Ý-THÁI ĐỘNG] thống nhất.</li>
 
-          <li value="5">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, have to, may</li>
+          <li className="list-none">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, have to, may</li>
           <li className="margin-bottom-20 list-none">Hành động mang tính trực diện, [Áp] đặt thực tế xuống người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive-MOdal VERB][PHỨC ÁP-THÁI ĐỘNG] thống nhất.</li>
+
+					<li value="5">[<strong>BASE VERB</strong>][<strong>NỀN ĐỘNG</strong>]: LEARN, SPEAK, BUILD</li>
+          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [RỄ ĐỘNG] nằm trong từ điển. Ví dụ: they LEARN, SPEAK, BUILD.</li>
 
           <li value="6">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: LEARN, SPEAK, BUILD</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, đã giải phóng hoàn toàn và không đi kèm to, thường đứng ngay sau [PARTicle VERB][HẠT ĐỘNG] "to", [SOFT-MOdal][Ý-THÁI] hay [asSERTive-MOdal VERB][ÁP-THÁI ĐỘNG] hoặc [ROOT VERB][RỄ ĐỘNG] như MAKE, LET, let's, HELP, HAVE, SEE, HEAR, WATCH, FEEL, NOTICE.</li>
@@ -233,17 +236,20 @@ export default function SV1(): React.JSX.Element {
           <li value="7">[<strong>FULL inFINitive VERB</strong>][<strong>TOÀN NGUYÊN ĐỘNG</strong>]: to LEARN, to SPEAK, to BUILD</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [PARTicle VERB][HẠT ĐỘNG] và hành động [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] phía sau.</li>
 
-          <li value="8">[<strong>SOFT-MOdal BARE VERB</strong>][<strong>Ý-THÁI THUẦN ĐỘNG</strong>]: would BUILD, could SPEAK</li>
+          <li value="8">[<strong>SOFT-MOdal and BARE inFINitive VERB</strong>][<strong>Ý-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: would BUILD, could SPEAK</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>asSERTive-MOdal BARE VERB</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG</strong>]: will BUILD, can SPEAK</li>
+          <li value="9">[<strong>asSERTive-MOdal and BARE inFINitive VERB</strong>][<strong>ÁP-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will BUILD, can SPEAK</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết.</li>
 
-          <li value="10">[<strong>TENSE BARE VERB</strong>][<strong>THỜI THUẦN ĐỘNG</strong>]: DID SPEAK, DOES BUILD</li>
+          <li value="10">[<strong>auXILiary and BARE inFINitive VERB</strong>][<strong>TRỢ và THUẦN NGUYÊN ĐỘNG</strong>]: DID SPEAK, DOES BUILD</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được ngăn cách bởi một khoảng trắng.</li>
 
-          <li value="11">[<strong>PAST VERB</strong>][<strong>ĐÃ ĐỘNG</strong>], [<strong>3RD VERB</strong>][<strong>3RD ĐỘNG</strong>]: SPOKE, SPEAKS, BUILDS, WORKS</li>
-          <li className="margin-bottom-20 list-none">Hành động chính mang thời (chia thì đơn), tích hợp trọn vẹn trạng thái [Thời] gian và hành động [Thuần] khiết hòa tan gọn gàng vào một chữ duy nhất.</li>
+          <li value="11">[<strong>3RD VERB</strong>][<strong>3RD ĐỘNG</strong>]: SPEAKS, BUILDS, WORKS</li>
+          <li className="margin-bottom-20 list-none">Hành động chính mang [Thời] chia thời đơn, tích hợp trọn vẹn trạng thái [Thời] gian hiện tại và hành động [Thuần] khiết hòa tan gọn gàng vào một chữ duy nhất.</li>
+
+					<li className="list-none">[<strong>PAST VERB</strong>][<strong>ĐÃ ĐỘNG</strong>]: SPOKE</li>
+          <li className="margin-bottom-20 list-none">Hành động chính mang [Thời] chia thời đơn, tích hợp trọn vẹn trạng thái [Thời] gian quá khứ và hành động [Thuần] khiết hòa tan gọn gàng vào một chữ duy nhất.</li>
       
           <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: LEARNing, SPEAKing, BUILDing</li>
           <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing, biểu thị tính chất đang [Tiếp] diễn, kéo dài.</li>
@@ -479,7 +485,7 @@ export default function SV1(): React.JSX.Element {
 					<li>i beLIEVE [you will PASS the eXAM].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn sẽ vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Hình thái: [you will PASS the eXAM] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và khối hành động gồm [asSERTive-MOdal BARE VERB][ÁP-THÁI THUẦN ĐỘNG] "will" kết hợp với [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "PASS".</li>
+					<li className="list-none">Hình thái: [you will PASS the eXAM] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và khối hành động gồm [asSERTive-MOdal and BARE inFINitive VERB][ÁP-THÁI và THUẦN NGUYÊN ĐỘNG] "will" kết hợp với [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "PASS".</li>
 			
 					<li className="list-none">Chức năng: [you will PASS the eXAM] - [NOUN CLAUSE][DANH CÂU] đứng sau [BASE VERB][NỀN ĐỘNG] "beLIEVE" như một [OBject PROnoun][TÂN ĐẠI] thực thi.</li>
 			

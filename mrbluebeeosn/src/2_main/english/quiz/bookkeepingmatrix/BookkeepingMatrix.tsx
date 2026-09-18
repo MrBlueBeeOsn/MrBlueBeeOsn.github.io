@@ -108,7 +108,7 @@ export default function (): React.JSX.Element {
 				"[TIERed NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [KNOW {WHAT she reCORDed}] - [BARE VERB PHRASE][THUẦN ĐỘNG CỤM] serving as the predicate of the matrix clause, which embeds a finite objective clause inside its boundaries. \n\n Function: [KNOW {WHAT she reCORDed}] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] where the outer verbal predicate level marked by [] encapsulates an inner objective noun clause marked by {} representing the bookkeeping data."
+			explanation: "Form: [KNOW {WHAT she reCORDed}] - [BARE VERB PHRASE][THUẦN NGUYÊN ĐỘNG CỤM] serving as the predicate of the matrix clause, which embeds a finite objective clause inside its boundaries. \n\n Function: [KNOW {WHAT she reCORDed}] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] where the outer verbal predicate level marked by [] encapsulates an inner objective noun clause marked by {} representing the bookkeeping data."
 		},
 		{
 			id: 10,

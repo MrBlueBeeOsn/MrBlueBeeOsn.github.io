@@ -400,7 +400,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Toàn bộ [knows {'{what you did}'}'] - [BARE VERB PHRASE][THUẦN ĐỘNG CỤM] tầng ngoài.</li>
+					<li>Toàn bộ [knows {'{what you did}'}'] - [BARE VERB PHRASE][THUẦN NGUYÊN ĐỘNG CỤM] tầng ngoài.</li>
 					<li>{'{what you did}'} bên trong - [conJUNCtional CLAUSE][LIÊN CÂU] có you và did.</li>
 			
 				</ul>

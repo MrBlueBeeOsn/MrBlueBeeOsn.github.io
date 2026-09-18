@@ -116,8 +116,11 @@ export default function AdjPlacement1(): React.JSX.Element {
           <li value="4">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ nhẹ nhàng, gợi [Ý], giảm bớt tính áp đặt, tạo sự [Ý] nhị. Các khối phức đặc biệt: [COMplex SOFT-MOdal VERB][PHỨC Ý-THÁI ĐỘNG] như ought to, had BETter được quét như một đơn vị thống nhất.</li>
 
-          <li value="5">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, must, can</li>
+          <li className="list-none">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, must, can</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ trực diện, mang tính xác quyết và thực thi thực tế mạnh mẽ. Các khối phức đặc biệt: [COMplex asSERTive-MOdal VERB][PHỨC ÁP-THÁI ĐỘNG] như have to được quét như một đơn vị thống nhất.</li>
+
+					<li value="5">[<strong>BASE VERB</strong>][<strong>NỀN ĐỘNG</strong>]: oRIGinate, FORMulate</li>
+          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [RỄ ĐỘNG] nằm trong từ điển. Ví dụ: they oRIGinate, FORMulate.</li>
 
           <li value="6">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: oRIGinate, FORMulate</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết ở dạng tự do hoàn toàn, thường đứng ngay sau [PARTicle VERB][HẠT ĐỘNG] "to", [SOFT-MOdal][Ý-THÁI] hay [asSERTive-MOdal VERB][ÁP-THÁI ĐỘNG] hoặc [ROOT VERB][RỄ ĐỘNG] như MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL.</li>
@@ -125,17 +128,20 @@ export default function AdjPlacement1(): React.JSX.Element {
           <li value="7">[<strong>FULL inFINitive VERB</strong>][<strong>TOÀN NGUYÊN ĐỘNG</strong>]: to oRIGinate, to FORMulate</li>
           <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính giữa [Hạt] và hành động [Thuần] khiết, tạo nên mẫu hành động nguyên bản.</li>
 
-          <li value="8">[<strong>SOFT-MOdal BARE VERB</strong>][<strong>Ý-THÁI THUẦN ĐỘNG</strong>]: would VERify, could deSIGN</li>
+          <li value="8">[<strong>SOFT-MOdal and BARE inFINitive VERB</strong>][<strong>Ý-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: would VERify, could deSIGN</li>
           <li className="margin-bottom-20 list-none">Kết hợp [Thái] độ mềm mỏng với hành động [Thuần] khiết, biểu đạt sự nhường nhịn.</li>
       
-          <li value="9">[<strong>asSERTive-MOdal BARE VERB</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG</strong>]: will VERify, can deSIGN</li>
+          <li value="9">[<strong>asSERTive-MOdal and BARE inFINitive VERB</strong>][<strong>ÁP-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will VERify, can deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tính xác quyết với hành động [Thuần] khiết, tạo nên khả năng thực tế rõ ràng.</li>
 
-          <li value="10">[<strong>TENSE BARE VERB</strong>][<strong>THỜI THUẦN ĐỘNG</strong>]: DID oRIGinate, DOES FORMulate</li>
+          <li value="10">[<strong>auXILiary and BARE inFINitive VERB</strong>][<strong>TRỢ và THUẦN NGUYÊN ĐỘNG</strong>]: DID oRIGinate, DOES FORMulate</li>
           <li className="margin-bottom-20 list-none">Cấu trúc song hành tách biệt giữa yếu tố [Thời] và hành động [Thuần] khiết.</li>
 
-          <li value="11">[<strong>PAST VERB</strong>][<strong>ĐÃ ĐỘNG</strong>], [<strong>3RD VERB</strong>][<strong>3RD ĐỘNG</strong>]: oRIGinated, FORMulates</li>
-          <li className="margin-bottom-20 list-none">Sự tích hợp hoàn toàn năng lượng [Thời] và hành động [Thuần] khiết vào một đơn vị từ duy nhất.</li>
+          <li value="11">[<strong>3RD VERB</strong>][<strong>3RD ĐỘNG</strong>]: FORMulates</li>
+          <li className="margin-bottom-20 list-none">Sự tích hợp hoàn toàn năng lượng [Thời] hiện tại và hành động [Thuần] khiết vào một đơn vị từ duy nhất.</li>
+
+					<li className="list-none">[<strong>PAST VERB</strong>][<strong>ĐÃ ĐỘNG</strong>]: oRIGinated</li>
+          <li className="margin-bottom-20 list-none">Sự tích hợp hoàn toàn năng lượng [Thời] quá khứ và hành động [Thuần] khiết vào một đơn vị từ duy nhất.</li>
       
           <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: oRIGinating, FORMulating</li>
           <li className="margin-bottom-20 list-none">Hành động mang hậu tố "-ing", diễn tả trạng thái đang [Tiếp] diễn, kéo dài.</li>
@@ -189,7 +195,7 @@ export default function AdjPlacement1(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: [<strong>BARE VERB</strong>][<strong>THUẦN ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: [<strong>BARE VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Dạng nguyên bản, tĩnh tại:</p>
 
@@ -202,7 +208,7 @@ export default function AdjPlacement1(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>SOFT-MOdal BARE VERB</strong>][<strong>Ý-THÁI THUẦN ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>SOFT-MOdal and BARE inFINitive VERB</strong>][<strong>Ý-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Tình huống nhã nhặn, gợi mở:</p>
 
@@ -215,7 +221,7 @@ export default function AdjPlacement1(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive-MOdal BARE VERB</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive-MOdal and BARE inFINitive VERB</strong>][<strong>ÁP-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Tình huống xác quyết, ép buộc:</p>
 
@@ -349,7 +355,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 5</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN ĐỘNG CỤM</strong>] <strong>sắp xảy ra</strong>, <strong>chủ động</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 5</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN NGUYÊN ĐỘNG CỤM</strong>] <strong>sắp xảy ra</strong>, <strong>chủ động</strong></p>
 			
 				<ul className="list-square">
 			
@@ -474,7 +480,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>TIERed PARTicle BARE VERB PHRASE</strong>][<strong>TẦNG HẠT THUẦN ĐỘNG CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>TIERed PARTicle BARE VERB PHRASE</strong>][<strong>TẦNG HẠT THUẦN NGUYÊN ĐỘNG CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -487,7 +493,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to dePLOY" kết hợp mở rộng cấu trúc.</li>
+						<li className="list-none">Tầng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to dePLOY" kết hợp mở rộng cấu trúc.</li>
 
 						<li className="list-none">Tầng 2: {'{which OPtimize WORKflow}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng sâu bên trong.</li>
 				

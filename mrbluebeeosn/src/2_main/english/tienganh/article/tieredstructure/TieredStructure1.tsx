@@ -170,7 +170,7 @@ export default function TieredStructure1(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: [<strong>BARE VERB</strong>][<strong>THUẦN ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: [<strong>BARE VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm sử dụng cấu trúc hành động ở hình thái nguyên bản tuyệt đối, chưa qua chia tách hay biến đổi.</p>
 
@@ -183,7 +183,7 @@ export default function TieredStructure1(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>SOFT-MOdal BARE VERB</strong>][<strong>Ý-THÁI THUẦN ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>SOFT-MOdal and BARE inFINitive VERB</strong>][<strong>Ý-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm diễn đạt các tình huống giao tiếp lịch sự, nhã nhặn hoặc đưa ra lời khuyên, gợi ý nhẹ nhàng: would (nhã nhặn), should (gợi ý), could (khả năng nhẹ), might (khả năng thấp), ought to (khuyên bảo), had BETter (khuyên nhủ).</p>
 
@@ -196,7 +196,7 @@ export default function TieredStructure1(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive-MOdal BARE VERB</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive-MOdal and BARE inFINitive VERB</strong>][<strong>ÁP-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm biểu thị tính ép buộc, cam kết hoặc chắc chắn cao, không để lại lối thoát cho người nghe: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), have to (bắt buộc), may (khả năng).</p>
 
@@ -225,8 +225,11 @@ export default function TieredStructure1(): React.JSX.Element {
           <li value="4">[<strong>SOFT-MOdal VERB</strong>][<strong>Ý-THÁI ĐỘNG</strong>]: would, could, should, might</li>
           <li className="margin-bottom-20 list-none">Cấu trúc biểu thị [Thái] độ uyển chuyển, nhường nhịn và triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một thực thể [COMplex SOFT-MOdal VERB][PHỨC Ý-THÁI ĐỘNG] thống nhất.</li>
 
-          <li value="5">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, may</li>
+          <li className="list-none">[<strong>asSERTive-MOdal VERB</strong>][<strong>ÁP-THÁI ĐỘNG</strong>]: will, shall, can, must, may</li>
           <li className="margin-bottom-20 list-none">Cấu trúc biểu thị [Thái] độ trực diện, [Áp] đặt thực tế và có độ cam kết, ràng buộc cao. Khối phức đặc biệt "have to" được quét như một thực thể [COMplex asSERTive-MOdal VERB][PHỨC ÁP-THÁI ĐỘNG] thống nhất.</li>
+
+					<li value="5">[<strong>BASE VERB</strong>][<strong>NỀN ĐỘNG</strong>]: BUILD, deSIGN, exPLORE</li>
+          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [RỄ ĐỘNG] nằm trong từ điển. Ví dụ: they BUILD, deSIGN, exPLORE.</li>
 
           <li value="6">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: BUILD, deSIGN, exPLORE</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Thuần] khiết, nguyên bản đã được giải phóng hoàn toàn khỏi hạt "to", thường đứng ngay sau [PARTicle VERB][HẠT ĐỘNG] "to", [SOFT-MOdal][Ý-THÁI] hay [asSERTive-MOdal VERB][ÁP-THÁI ĐỘNG] hoặc các [ROOT VERB][RỄ ĐỘNG] tác động / tri giác như MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL, ...</li>
@@ -234,17 +237,20 @@ export default function TieredStructure1(): React.JSX.Element {
           <li value="7">[<strong>FULL inFINitive VERB</strong>][<strong>TOÀN NGUYÊN ĐỘNG</strong>]: to BUILD, to exPLORE</li>
           <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt nhân định hướng [Hạt ĐỘNG] và hành động [Thuần] khiết phía sau.</li>
 
-          <li value="8">[<strong>SOFT-MOdal BARE VERB</strong>][<strong>Ý-THÁI THUẦN ĐỘNG</strong>]: would exPLORE, could deSIGN</li>
+          <li value="8">[<strong>SOFT-MOdal and BARE inFINitive VERB</strong>][<strong>Ý-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: would exPLORE, could deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất cấu trúc giữa bộ lọc [Thái] độ nhã nhặn và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>asSERTive-MOdal BARE VERB</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG</strong>]: will exPLORE, can BUILD</li>
+          <li value="9">[<strong>asSERTive-MOdal and BARE inFINitive VERB</strong>][<strong>ÁP-THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will exPLORE, can BUILD</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất cấu trúc giữa bộ lọc [Thái] độ khẳng định, [Áp] đặt và hành động [Thuần] khiết.</li>
 
-          <li value="10">[<strong>TENSE BARE VERB</strong>][<strong>THỜI THUẦN ĐỘNG</strong>]: DID BUILD, DOES deSIGN</li>
+          <li value="10">[<strong>auXILiary and BARE inFINitive VERB</strong>][<strong>TRỢ và THUẦN NGUYÊN ĐỘNG</strong>]: DID BUILD, DOES deSIGN</li>
           <li className="margin-bottom-20 list-none">Tổ hợp song hành giữ nguyên khoảng trắng phân tách nhằm định vị [Thời] gian và hành động [Thuần] khiết.</li>
 
-          <li value="11">[<strong>PAST VERB</strong>][<strong>ĐÃ ĐỘNG</strong>], [<strong>3RD VERB</strong>][<strong>3RD ĐỘNG</strong>]: BUILT, BUILDS, deSIGNS</li>
-          <li className="margin-bottom-20 list-none">Trạng thái tích hợp tối giản khi năng lượng [Thời] gian và hành động [Thuần] khiết hòa tan làm một chữ duy nhất.</li>
+          <li value="11">[<strong>3RD VERB</strong>][<strong>3RD ĐỘNG</strong>]: BUILDS, deSIGNS</li>
+          <li className="margin-bottom-20 list-none">Trạng thái tích hợp tối giản khi năng lượng [Thời] gian hiện tại và hành động [Thuần] khiết hòa tan làm một chữ duy nhất.</li>
+
+					<li className="list-none">[<strong>PAST VERB</strong>][<strong>ĐÃ ĐỘNG</strong>]: BUILT</li>
+          <li className="margin-bottom-20 list-none">Trạng thái tích hợp tối giản khi năng lượng [Thời] gian quá khứ và hành động [Thuần] khiết hòa tan làm một chữ duy nhất.</li>
       
           <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: BUILDing, deSIGNing, exPLORing</li>
           <li className="margin-bottom-20 list-none">Hình thái hành động mang đuôi -ing biểu thị trạng thái [Tiếp] diễn, vận hành liên tục.</li>
@@ -368,7 +374,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [to deSIGN the INterface] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to deSIGN" kéo dài cho đến hết đối tượng của nó.</li>
 
-					<li className="list-none">Chức năng: [to deSIGN the INterface] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIres creaTIVity" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
+					<li className="list-none">Chức năng: [to deSIGN the INterface] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "reQUIres creaTIVity" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
 			
 				</ul>
 			
@@ -408,7 +414,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>she STUDied HARD [to BUILD this SYStem].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã học tập chăm chỉ [để xây dựng hệ thống này].</li>
 			
-					<li className="list-none">Hình thái: [to BUILD this SYStem] - [BARE VERB PHRASE][THUẦN ĐỘNG CỤM] định hình dưới dạng một vùng mã hành động mở rộng thuộc nhóm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] kéo theo đối tượng.</li>
+					<li className="list-none">Hình thái: [to BUILD this SYStem] - [BARE VERB PHRASE][THUẦN NGUYÊN ĐỘNG CỤM] định hình dưới dạng một vùng mã hành động mở rộng thuộc nhóm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] kéo theo đối tượng.</li>
 			
 					<li className="list-none">Chức năng: [to BUILD this SYStem] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau bổ nghĩa cho hành động.</li>
 			
@@ -470,9 +476,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to exPLAIN" và kéo theo khối CLAUSE con bên trong.</li>
+						<li className="list-none">Hình thái: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to exPLAIN" và kéo theo khối CLAUSE con bên trong.</li>
 
-						<li className="list-none">Chức năng: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "is URgent" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
+						<li className="list-none">Chức năng: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "is URgent" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
 				
 					</ul>
 
