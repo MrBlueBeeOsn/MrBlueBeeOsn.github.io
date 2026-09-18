@@ -15,7 +15,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[BASE][PHRASE][CLAUSE]</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[HEAD][PHRASE][CLAUSE]</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">[LEGo asSEMbly]
 												
@@ -66,7 +66,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 			<p className="margin-top-20">Dependent được tổ chức theo <strong>3 cấp độ</strong> (Cơ → Cụm → Câu) và <strong>3 chức năng</strong> (Danh – Tính – Trạng). Nguyên lý xuyên suốt: <strong>Hình thái trước</strong> – <strong>Chức năng sau</strong>.</p>
 
-			<p>Đầu tiên nhận diện Dependent là một [ROOT VERB][RỄ ĐỘNG], [VERB PHRASE][ĐỘNG CỤM] hay [conJUNCtional CLAUSE][LIÊN CÂU]. Sau đó, dựa vào vị trí trong câu lớn, suy ra nó đang đảm nhận chức năng Danh, Tính hay Trạng.</p>
+			<p>Đầu tiên nhận diện Dependent là một [ROOT VERB][GỐC ĐỘNG], [VERB PHRASE][ĐỘNG CỤM] hay [conJUNCtional CLAUSE][LIÊN CÂU]. Sau đó, dựa vào vị trí trong câu lớn, suy ra nó đang đảm nhận chức năng Danh, Tính hay Trạng.</p>
 
 			<p>Khi đã thuần thục, bạn có thể <strong>viết lại câu</strong> (<strong>paraphrasing</strong>) chỉ bằng cách thay khối Dependent này bằng một khối Dependent khác <strong>cùng chức năng</strong> – giống như đổi một miếng Lego cùng hình dạng nhưng khác màu.</p>
 
@@ -81,16 +81,16 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. 📦 Chức năng DANH</h3>
 
-			<h4 className="margin-y-40">Cấp độ Cơ – [NOUN][DANH]</h4>
+			<h4 className="margin-y-40">Cấp độ Cơ – [NOUN HEAD][DANH LÕI]</h4>
 			
 				<ul className="list-square">
 			
 					<li>[Swimming] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] thì tốt cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [Swimming] – [NOUN][DANH] đứng ở vị trí chỉ toàn bộ sự việc làm trung tâm cho câu</li>
+					<li className="list-none">Chức năng: [Swimming] – [NOUN HEAD][DANH LÕI] đứng ở vị trí chỉ toàn bộ sự việc làm trung tâm cho câu</li>
 			
 				</ul>
 
@@ -128,16 +128,16 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. 📦 Chức năng TÍNH</h3>
 
-			<h4 className="margin-y-40">Cấp độ Cơ – [ADjective][TÍNH]</h4>
+			<h4 className="margin-y-40">Cấp độ Cơ – [ADjective HEAD][TÍNH LÕI]</h4>
 			
 				<ul className="list-square">
 			
 					<li>She has a [sparkling] personality.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một tính cách [lấp lánh].</li>
 			
-					<li className="list-none">Hình thái: [sparkling] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [sparkling] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [sparkling] – [ADjective][TÍNH] bổ sung ý nghĩa cho [DANH] personality</li>
+					<li className="list-none">Chức năng: [sparkling] – [ADjective HEAD][TÍNH LÕI] bổ sung ý nghĩa cho [DANH] personality</li>
 			
 				</ul>
 
@@ -175,16 +175,16 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. 📦 Chức năng TRẠNG</h3>
 
-			<h4 className="margin-y-40">Cấp độ Cơ – [ADVERB][TRẠNG]</h4>
+			<h4 className="margin-y-40">Cấp độ Cơ – [ADverb HEAD][TRẠNG LÕI]</h4>
 			
 				<ul className="list-square">
 			
 					<li>He answered [politely].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [một cách lịch sự].</li>
 			
-					<li className="list-none">Hình thái: [politely] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][RỄ TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [politely] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [politely] – [ADVERB][TRẠNG] làm rõ cách thức cho [ĐỘNG] answered</li>
+					<li className="list-none">Chức năng: [politely] – [ADverb HEAD][TRẠNG LÕI] làm rõ cách thức cho [ĐỘNG] answered</li>
 			
 				</ul>
 
@@ -342,7 +342,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>[______] is fun.</li>
 					<li className="margin-bottom-20 list-none">[Chạy bộ] thì vui.</li>
 			
-					<li className="list-none">[Running] – [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] → chức năng [NOUN][DANH]</li>
+					<li className="list-none">[Running] – [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] → chức năng [NOUN HEAD][DANH LÕI]</li>
 			
 				</ul>
 			

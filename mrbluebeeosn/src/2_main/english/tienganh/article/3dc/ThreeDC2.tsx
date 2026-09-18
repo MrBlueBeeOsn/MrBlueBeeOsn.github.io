@@ -15,7 +15,7 @@ export default function ThreeDC2(): React.ReactElement {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[BASE][PHRASE][CLAUSE]</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[HEAD][PHRASE][CLAUSE]</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">[FORMS][FUNCtions]
 												
@@ -93,7 +93,7 @@ export default function ThreeDC2(): React.ReactElement {
 			<p className="text-indent-whole">Khối có chức năng Danh đóng vai trò như một DANH: nó có thể đứng đầu câu (là cái được nói đến), hoặc đứng sau một [ĐỘNG] (là cái nhận tác động), hoặc đứng sau [<strong>is</strong>] (là bản chất).</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong> – [<strong>NOUN</strong>][<strong>DANH</strong>]: [Running]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong> – [<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>]: [Running]</p>
 			
 				<ul className="list-square">
 			
@@ -102,7 +102,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: [Running] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản một từ ở dạng V-ing, không có gì kèm theo</li>
 			
-					<li className="list-none">Chức năng: [Running] - [NOUN][DANH] đứng đầu câu, là cái được khẳng định là [is fun]</li>
+					<li className="list-none">Chức năng: [Running] - [NOUN HEAD][DANH LÕI] đứng đầu câu, là cái được khẳng định là [is fun]</li>
 			
 				</ul>
 			
@@ -160,16 +160,16 @@ export default function ThreeDC2(): React.ReactElement {
 			<p className="text-indent-whole">Khối có chức năng Tính bổ nghĩa cho một [DANH] đứng ngay trước nó, giống như một [TÍNH] mở rộng.</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong> – [<strong>ADjective</strong>][<strong>TÍNH</strong>]: [warm]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong> – [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]: [warm]</p>
 			
 				<ul className="list-square">
 			
 					<li>She has a [______] smile.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có nụ cười [ấm áp].</li>
 			
-					<li className="list-none">Hình thái: [warm] - [ROOT ADjective][RỄ TÍNH] hình thành từ khối [ROOT ADjective][RỄ TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, chỉ tính chất</li>
+					<li className="list-none">Hình thái: [warm] - [ROOT ADjective][GỐC TÍNH] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, chỉ tính chất</li>
 			
-					<li className="list-none">Chức năng: [warm] - [ADjective][TÍNH] đứng trước [DANH] [smile] để mô tả đặc điểm của nụ cười</li>
+					<li className="list-none">Chức năng: [warm] - [ADjective HEAD][TÍNH LÕI] đứng trước [DANH] [smile] để mô tả đặc điểm của nụ cười</li>
 			
 				</ul>
 			
@@ -209,16 +209,16 @@ export default function ThreeDC2(): React.ReactElement {
 			<p className="text-indent-whole">Khối có chức năng Trạng bổ nghĩa cho một [ĐỘNG] (hoặc toàn bộ câu), trả lời các câu hỏi: khi nào? ở đâu? tại sao? bằng cách nào? với điều kiện gì? mặc dù gì?</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong> – [<strong>ADVERB</strong>][<strong>TRẠNG</strong>]: [correctly]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong> – [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]: [correctly]</p>
 			
 				<ul className="list-square">
 			
 					<li>He answered [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [chính xác].</li>
 			
-					<li className="list-none">Hình thái: [correctly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][RỄ TÍNH] nguyên bản "correct" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [correctly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "correct" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [correctly] - [ADVERB][TRẠNG] bổ nghĩa cho [ĐỘNG] [answered], cho biết cách thức hành động diễn ra.</li>
+					<li className="list-none">Chức năng: [correctly] - [ADverb HEAD][TRẠNG LÕI] bổ nghĩa cho [ĐỘNG] [answered], cho biết cách thức hành động diễn ra.</li>
 			
 				</ul>
 			
@@ -269,7 +269,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: [Running] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản một từ V-ing</li>
 			
-					<li className="list-none">Chức năng: [Running] - [NOUN][DANH] làm chủ thể của câu, cái được khẳng định là thư giãn</li>
+					<li className="list-none">Chức năng: [Running] - [NOUN HEAD][DANH LÕI] làm chủ thể của câu, cái được khẳng định là thư giãn</li>
 			
 				</ul>
 			
@@ -329,9 +329,9 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>I like the [______] bread.</li>
 					<li className="margin-bottom-20 list-none">Tôi thích ổ bánh mì [tươi].</li>
 			
-					<li className="list-none">Hình thái: [fresh] - [ROOT ADjective][RỄ TÍNH] hình thành từ khối [ROOT ADjective][RỄ TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện.</li>
+					<li className="list-none">Hình thái: [fresh] - [ROOT ADjective][GỐC TÍNH] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện.</li>
 			
-					<li className="list-none">Chức năng: [fresh] - [ADjective][TÍNH] bổ nghĩa cho [Danh Cụm] [the bread]</li>
+					<li className="list-none">Chức năng: [fresh] - [ADjective HEAD][TÍNH LÕI] bổ nghĩa cho [Danh Cụm] [the bread]</li>
 			
 				</ul>
 			
@@ -395,7 +395,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">[Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản một từ V-ing</li>
 
 					<li><strong>Bước 3</strong> – Xác định chức năng của khối đó trong câu.</li>
-					<li className="margin-bottom-20 list-none">[Swimming] - [NOUN][DANH] đứng đầu câu, là cái được nói đến</li>
+					<li className="margin-bottom-20 list-none">[Swimming] - [NOUN HEAD][DANH LÕI] đứng đầu câu, là cái được nói đến</li>
 			
 					<li><strong>Bước 4</strong> – Paraphrase bằng cách thay khối cùng chức năng.</li>
 					<li className="margin-bottom-20 list-none">Thay [Swimming] bằng [To swim regularly] (Danh Cụm) hoặc [That you swim often] (Danh Câu). Viết câu mới.</li>

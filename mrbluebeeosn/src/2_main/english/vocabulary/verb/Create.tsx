@@ -25,15 +25,15 @@ export default function Create(): React.JSX.Element {
               
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#NOUN-BASE">NOUN</HashLink>
+            <HashLink smooth to="#NOUN-HEAD">NOUN HEAD</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective-BASE">ADjective</HashLink>
+            <HashLink smooth to="#ADjective-HEAD">ADjective HEAD</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADverb-BASE">ADVERB</HashLink>
+            <HashLink smooth to="#ADverb-HEAD">ADVERB HEAD</HashLink>
           </span> &nbsp;
 
         </p>
@@ -81,7 +81,7 @@ export default function Create(): React.JSX.Element {
 
           <p className="margin-bottom-20">[creATE] is a [ROOT VERB] that means to bring something into existence, or to cause something to happen.</p>
 
-          <p>[creATE] là một [ROOT VERB][RỄ ĐỘNG] có nghĩa là tạo ra, sáng tạo, hoặc làm cho một điều gì đó xuất hiện.</p>
+          <p>[creATE] là một [ROOT VERB][GỐC ĐỘNG] có nghĩa là tạo ra, sáng tạo, hoặc làm cho một điều gì đó xuất hiện.</p>
 
           <p className="margin-top-20">Phát âm: [creATE][crē ĀTE] /kriːˈeɪt/</p>
 
@@ -90,7 +90,7 @@ export default function Create(): React.JSX.Element {
               <li>the TEAM should [creATE] a NEW MARketing STRATegy imMEdiately.</li>
               <li className="margin-bottom-20 list-none">Đội ngũ nên [tạo ra] một chiến lược tiếp thị mới ngay lập tức.</li>
 
-              <li className="list-none">Hình thái: [creATE] - [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "create" đứng sau chịu tác động từ [SOFT MOdal VERB][Ý THÁI ĐỘNG] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "a NEW MARketing STRATegy".</li>
+              <li className="list-none">Hình thái: [creATE] - [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "create" đứng sau chịu tác động từ [SOFT MOdal VERB][Ý THÁI ĐỘNG] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "a NEW MARketing STRATegy".</li>
           
             </ul>
 
@@ -113,12 +113,12 @@ export default function Create(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">HỆ THỐNG [PHÂN LOẠI HẠT NHÂN ĐỘNG][VERB CATegories]</h3>
 
-      <h4 className="margin-y-40">a. Phân hệ [VERB][ĐỘNG]</h4>
+      <h4 className="margin-y-40">a. Phân hệ [VERB HEAD][ĐỘNG LÕI]</h4>
       
         <ol>
       
-          <li value="1">[<strong>ROOT VERB</strong>][<strong>RỄ ĐỘNG</strong>]: cREATE</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng [ROOT VERB][RỄ ĐỘNG] nguyên bản chưa qua xử lý gộp hay biến hóa cấu trúc hình thái vật lý.</li>
+          <li value="1">[<strong>ROOT VERB</strong>][<strong>GỐC ĐỘNG</strong>]: cREATE</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng [ROOT VERB][GỐC ĐỘNG] nguyên bản chưa qua xử lý gộp hay biến hóa cấu trúc hình thái vật lý.</li>
       
           <li value="2">[<strong>PARTicle VERB</strong>][<strong>HẠT ĐỘNG</strong>]: to, OUT, IN, UP, BACK</li>
           <li className="margin-bottom-20 list-none">[Hạt] to đơn lẻ đóng vai trò mã định vị độc lập làm điểm tựa khởi động, đặt nền móng trực tiếp trước hành động để kích hoạt trạng thái nguyên bản hoặc định hướng tác động đến đối tượng. Các [Hạt] như OUT, IN, UP, BACK đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó.</li>
@@ -135,7 +135,7 @@ export default function Create(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB][PHỨC ÁP THÁI ĐỘNG] thống nhất.</li>
 
           <li value="5">[<strong>BASE VERB</strong>][<strong>NỀN ĐỘNG</strong>]: cREATE</li>
-          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [RỄ ĐỘNG] nằm trong từ điển. Ví dụ: they cREATE.</li>
+          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they cREATE.</li>
 
           <li value="6">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: cREATE</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
@@ -188,7 +188,7 @@ export default function Create(): React.JSX.Element {
           
       <p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-      <p className="text-indent-whole">Khi bất kỳ họ [VERB][ĐỘNG] nào thuộc hệ thống 16 mục trên kéo theo thành phần bổ trợ phía sau (như [OBject PROnoun][TÂN ĐẠI], [ADVERB][TRẠNG], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU]), toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+      <p className="text-indent-whole">Khi bất kỳ họ [VERB HEAD][ĐỘNG LÕI] nào thuộc hệ thống 16 mục trên kéo theo thành phần bổ trợ phía sau (như [OBject PROnoun][TÂN ĐẠI], [ADverb HEAD][TRẠNG LÕI], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU]), toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
       
 
 
@@ -197,9 +197,9 @@ export default function Create(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">PHẦN 1: HỆ THỐNG CÁC VÍ DỤ PHÂN HỆ MÃ TIẾNG ANH MỚI</h3>
 
       
-      <h4 className="margin-y-40">1. Phân hệ [VERB][ĐỘNG]</h4>
+      <h4 className="margin-y-40">1. Phân hệ [VERB HEAD][ĐỘNG LÕI]</h4>
           
-      <p className="margin-top-20 text-indent-whole" id="NOUN-BASE"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN</strong>][<strong>DANH</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="NOUN-HEAD"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 1: [creAtion][crē Ā tion] /kriːˈeɪʃn/</p>
       
@@ -208,14 +208,14 @@ export default function Create(): React.JSX.Element {
           <li>the arTIStic [creAtion] from the LOcal deSIGner imPRESSED the AUdience.</li>
           <li className="margin-bottom-20 list-none">Tác phẩm [sáng tạo] từ nhà thiết kế địa phương đã làm ấn tượng khán giả.</li>
       
-          <li className="list-none">Hình thái: [creAtion] - [MODified NOUN][DIỆN DANH] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "creATE" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] có khả năng định danh thực thể độc lập.</li>
+          <li className="list-none">Hình thái: [creAtion] - [MODified NOUN][DIỆN DANH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng định danh thực thể độc lập.</li>
       
-          <li className="list-none">Chức năng: [creAtion] - [NOUN][DANH] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+          <li className="list-none">Chức năng: [creAtion] - [NOUN HEAD][DANH LÕI] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADjective-BASE"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective</strong>][<strong>TÍNH</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="ADjective-HEAD"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 2: [creAtive][crē Ā tive] /kriːˈeɪtɪv/</p>
       
@@ -224,14 +224,14 @@ export default function Create(): React.JSX.Element {
           <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIres a [creAtive] TEAM.</li>
           <li className="margin-bottom-20 list-none">Mỗi bộ phận thiết kế sản phẩm đều yêu cầu một đội ngũ [có tính sáng tạo].</li>
       
-          <li className="list-none">Hình thái: [creAtive] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] có khả năng mô tả tính chất đặc điểm.</li>
+          <li className="list-none">Hình thái: [creAtive] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả tính chất đặc điểm.</li>
       
-          <li className="list-none">Chức năng: [creAtive] - [ADjective][TÍNH] kích hoạt bộ quét đặt ngay trước đối tượng "team" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [creAtive] - [ADjective HEAD][TÍNH LÕI] kích hoạt bộ quét đặt ngay trước đối tượng "team" để hiển thị đặc điểm của đối tượng đó.</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADverb-BASE"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADVERB</strong>][<strong>TRẠNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="ADverb-HEAD"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 3: [creAtively][crē Ā tive ly] /kriːˈeɪtɪvli/</p>
       
@@ -240,9 +240,9 @@ export default function Create(): React.JSX.Element {
           <li>the ARtist SOLVED the PROBlem [creAtively] during the PROject.</li>
           <li className="margin-bottom-20 list-none">Nghệ sĩ đã giải quyết vấn đề [một cách sáng tạo] trong suốt dự án.</li>
       
-          <li className="list-none">Hình thái: [creAtively] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "creATE" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] có khả năng bổ trợ bối cảnh phương thức.</li>
+          <li className="list-none">Hình thái: [creAtively] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
       
-          <li className="list-none">Chức năng: [creAtively] - [ADVERB][TRẠNG] làm thành phần bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "SOLVED" để xác định cách thức diễn ra.</li>
+          <li className="list-none">Chức năng: [creAtively] - [ADverb HEAD][TRẠNG LÕI] làm thành phần bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "SOLVED" để xác định cách thức diễn ra.</li>
       
         </ul>
 
@@ -311,7 +311,7 @@ export default function Create(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to creATE INnovative PROducts for conSUmers] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] phát triển từ cụm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to creATE" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [to creATE INnovative PROducts for conSUmers] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận trực tiếp mục tiêu tác động cho hành động [3RD VERB][3RD ĐỘNG] "AIMS".</li>
+          <li className="list-none">Chức năng: [to creATE INnovative PROducts for conSUmers] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận trực tiếp mục tiêu tác động cho hành động [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "AIMS".</li>
       
         </ul>
       
@@ -409,7 +409,7 @@ export default function Create(): React.JSX.Element {
           <li>they NEED a STRATegy [creAtive in its exeCUtion].</li>
           <li className="margin-bottom-20 list-none">Họ cần một chiến lược [sáng tạo trong cách thức thực thi].</li>
       
-          <li className="list-none">Hình thái: [creAtive in its exeCUtion] - [MODified ADjective PHRASE][DIỆN TÍNH CỤM] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITional PHRASE][GIỚI CỤM] phía sau.</li>
+          <li className="list-none">Hình thái: [creAtive in its exeCUtion] - [MODified ADjective PHRASE][DIỆN TÍNH CỤM] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITional PHRASE][GIỚI CỤM] phía sau.</li>
       
           <li className="list-none">Chức năng: [creAtive in its exeCUtion] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau [NOUN BLOCK][DANH KHỐI] "STRATegy" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
       
@@ -554,7 +554,7 @@ export default function Create(): React.JSX.Element {
       
           <li className="list-none">Hình thái:  [HOW the ARtist creATES uNIQUE SCULPtures] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtion][LIÊN] "HOW" ở đầu, mang [SUBject PROnoun][CHỦ ĐẠI] riêng "the ARtist" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Chức năng:  [HOW the ARtist creATES uNIQUE SCULPtures] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] quản lý khối thông tin quy trình, điều khiển chính cho hành động [3RD VERB][3RD ĐỘNG] "FAScinates".</li>
+          <li className="list-none">Chức năng:  [HOW the ARtist creATES uNIQUE SCULPtures] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] quản lý khối thông tin quy trình, điều khiển chính cho hành động [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "FAScinates".</li>
       
         </ul>
 
@@ -777,7 +777,7 @@ export default function Create(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to STUdy {'{how Users creATE PERsonal PROfiles}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to STUdy" kéo theo vùng mã bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [to STUdy {'{how Users creATE PERsonal PROfiles}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận mục tiêu kế hoạch cho hành động [3RD VERB][3RD ĐỘNG] "PLANS".</li>
+          <li className="list-none">Chức năng: [to STUdy {'{how Users creATE PERsonal PROfiles}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận mục tiêu kế hoạch cho hành động [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "PLANS".</li>
       
         </ul>
 
@@ -842,7 +842,7 @@ export default function Create(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [regarding {'{how the TEAM creATES NEW MARketing CHANnels}'}] - [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] (với "regarding" đóng vai trò [prepoSITion][GIỚI]) biểu thị dưới dạng một vùng mã lớn.</li>
       
-          <li className="list-none">Chức năng: [regarding {'{how the TEAM creATES NEW MARketing CHANnels}'}] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét tổng thể đặt ngay phía sau đối tượng "proPOsals" để mô tả đặc điểm nội dung cho [NOUN][DANH] này.</li>
+          <li className="list-none">Chức năng: [regarding {'{how the TEAM creATES NEW MARketing CHANnels}'}] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét tổng thể đặt ngay phía sau đối tượng "proPOsals" để mô tả đặc điểm nội dung cho [NOUN HEAD][DANH LÕI] này.</li>
       
         </ul>
 
@@ -894,7 +894,7 @@ export default function Create(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">PHẦN 2: ỨNG DỤNG ĐỘT PHÁ – GIẢI MÃ PARAPHRASING BẰNG KỸ THUẬT [THẾ KHỐI]</h3>
 
-      <h4 className="margin-y-40">1. Phân hệ [VERB][ĐỘNG]: Thay đổi các module chứa hành động</h4>
+      <h4 className="margin-y-40">1. Phân hệ [VERB HEAD][ĐỘNG LÕI]: Thay đổi các module chứa hành động</h4>
 
       <p className="margin-top-20 text-indent-whole"><strong>Case 1</strong>: <strong>Giữ nguyên cấp độ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>]</p>
       
@@ -952,7 +952,7 @@ export default function Create(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>Case 3</strong>: <strong>Kỹ thuật hạ cấp từ</strong> [<strong>CLAUSE</strong>][<strong>CÂU</strong>] <strong>về</strong> [<strong>BASE</strong>][<strong>CƠ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Case 3</strong>: <strong>Kỹ thuật hạ cấp từ</strong> [<strong>CLAUSE</strong>][<strong>CÂU</strong>] <strong>về</strong> [<strong>HEAD</strong>][<strong>LÕI</strong>]</p>
       
         <ul className="list-square">
       
@@ -973,9 +973,9 @@ export default function Create(): React.JSX.Element {
           <li>the STUdio HIred a [creAtive] TEAM.</li>
           <li className="margin-bottom-20 list-none">Xưởng phim đã thuê một đội ngũ [sáng tạo].</li>
       
-          <li className="list-none">Hình thái mới: [creAtive] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
+          <li className="list-none">Hình thái mới: [creAtive] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
       
-          <li className="list-none">Chức năng mới: [creAtive] - [ADjective][TÍNH] thiết lập vị trí ngay trước đối tượng để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Chức năng mới: [creAtive] - [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
         </ul>
 

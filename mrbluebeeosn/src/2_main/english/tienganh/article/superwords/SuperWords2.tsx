@@ -15,7 +15,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[BASE][PHRASE][CLAUSE]</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[HEAD][PHRASE][CLAUSE]</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">[SUper VERB]
 												
@@ -70,7 +70,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 			<p className="margin-top-20">Mỗi đơn vị khi xuất hiện đều có một <strong>Hình thái</strong> (hình dáng bên ngoài) và một <strong>Chức năng</strong> (việc nó làm).</p>
 
-			<p>Hình thái thường bắt nguồn từ [<strong>VERB</strong>][<strong>ĐỘNG</strong>], [<strong>VERB PHRASE</strong>][<strong>ĐỘNG CỤM</strong>] hoặc <strong>Liên Câu</strong> [<strong>conJUNCtion</strong>].</p>
+			<p>Hình thái thường bắt nguồn từ [<strong>VERB HEAD</strong>][<strong>ĐỘNG LÕI</strong>], [<strong>VERB PHRASE</strong>][<strong>ĐỘNG CỤM</strong>] hoặc <strong>Liên Câu</strong> [<strong>conJUNCtion</strong>].</p>
 
 			<p>Sau khi xác định Hình thái, bạn nhìn vào vị trí của nó trong câu lớn để biết Chức năng: <strong>Danh</strong>, <strong>Tính</strong> hay <strong>Trạng</strong>.</p>
 
@@ -84,10 +84,10 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">I. Cấp độ CƠ – một đơn vị duy nhất</h3>
 
-			<p>Một [<strong>VERB</strong>][<strong>ĐỘNG</strong>] có thể làm ba việc.</p>
+			<p>Một [<strong>VERB HEAD</strong>][<strong>ĐỘNG LÕI</strong>] có thể làm ba việc.</p>
 
 
-			<h4 className="margin-y-40">1. [NOUN][DANH]</h4>
+			<h4 className="margin-y-40">1. [NOUN HEAD][DANH LÕI]</h4>
 
 			<p className="text-indent-whole"><strong>Ví dụ</strong>: [Swimming]</p>
 			
@@ -98,7 +98,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
-					<li className="list-none">Chức năng: [Swimming] - [NOUN][DANH] đứng đầu câu, chỉ một hoạt động.</li>
+					<li className="list-none">Chức năng: [Swimming] - [NOUN HEAD][DANH LÕI] đứng đầu câu, chỉ một hoạt động.</li>
 			
 				</ul>
 			
@@ -112,13 +112,13 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Smoking] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
-					<li className="list-none">Chức năng: [Smoking] - [NOUN][DANH] đứng đầu câu, chỉ một thói quen.</li>
+					<li className="list-none">Chức năng: [Smoking] - [NOUN HEAD][DANH LÕI] đứng đầu câu, chỉ một thói quen.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">2. [ADjective][TÍNH]</h4>
+			<h4 className="margin-y-40">2. [ADjective HEAD][TÍNH LÕI]</h4>
 
 			<p className="text-indent-whole"><strong>Ví dụ</strong>: [exciting]</p>
 			
@@ -129,7 +129,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [exciting] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản dạng -ing.</li>
 			
-					<li className="list-none">Chức năng: [exciting] - [ADjective][TÍNH] bổ sung ý nghĩa cho movie.</li>
+					<li className="list-none">Chức năng: [exciting] - [ADjective HEAD][TÍNH LÕI] bổ sung ý nghĩa cho movie.</li>
 			
 				</ul>
 			
@@ -141,15 +141,15 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The [______] window needs repair.</li>
 					<li className="margin-bottom-20 list-none">Cái cửa sổ [vỡ] cần sửa.</li>
 			
-					<li className="list-none">Hình thái: [broken] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "break" mặc thêm hậu tố "-ed" ở dạng cột 3 để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [broken] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "break" mặc thêm hậu tố "-ed" ở dạng cột 3 để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [broken] - [ADjective][TÍNH] miêu tả trạng thái của cửa sổ.</li>
+					<li className="list-none">Chức năng: [broken] - [ADjective HEAD][TÍNH LÕI] miêu tả trạng thái của cửa sổ.</li>
 			
 				</ul>
 			
 			
 
-			<h4 className="margin-y-40">3. [ADVERB][TRẠNG]</h4>
+			<h4 className="margin-y-40">3. [ADverb HEAD][TRẠNG LÕI]</h4>
 
 			<p className="text-indent-whole"><strong>Ví dụ</strong>: [quickly]</p>
 			
@@ -158,9 +158,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He runs [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy chạy [nhanh].</li>
 			
-					<li className="list-none">Hình thái: [quickly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][RỄ TÍNH] nguyên bản "quick" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [quickly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "quick" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [quickly] - [ADVERB][TRẠNG] bổ sung cách thức cho runs.</li>
+					<li className="list-none">Chức năng: [quickly] - [ADverb HEAD][TRẠNG LÕI] bổ sung cách thức cho runs.</li>
 			
 				</ul>
 			
@@ -172,9 +172,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>She speaks [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy nói [nhẹ nhàng].</li>
 			
-					<li className="list-none">Hình thái: [softly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][RỄ TÍNH] nguyên bản "soft" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [softly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "soft" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [softly] - [ADVERB][TRẠNG] bổ sung cách thức cho speaks.</li>
+					<li className="list-none">Chức năng: [softly] - [ADverb HEAD][TRẠNG LÕI] bổ sung cách thức cho speaks.</li>
 			
 				</ul>
 
@@ -437,7 +437,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
-					<li className="list-none">Chức năng: [Swimming] - [NOUN][DANH] đứng đầu câu, chỉ một hoạt động.</li>
+					<li className="list-none">Chức năng: [Swimming] - [NOUN HEAD][DANH LÕI] đứng đầu câu, chỉ một hoạt động.</li>
 			
 				</ul>
 			
@@ -484,7 +484,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [exciting] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản dạng -ing.</li>
 			
-					<li className="list-none">Chức năng: [exciting] - [ADjective][TÍNH] miêu tả the movie.</li>
+					<li className="list-none">Chức năng: [exciting] - [ADjective HEAD][TÍNH LÕI] miêu tả the movie.</li>
 			
 				</ul>
 			
@@ -529,9 +529,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He drives [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [cẩn thận].</li>
 			
-					<li className="list-none">Hình thái: [carefully] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "care" mặc thêm hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [carefully] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "care" mặc thêm hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [carefully] - [ADVERB][TRẠNG] bổ sung cách thức cho drives.</li>
+					<li className="list-none">Chức năng: [carefully] - [ADverb HEAD][TRẠNG LÕI] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			

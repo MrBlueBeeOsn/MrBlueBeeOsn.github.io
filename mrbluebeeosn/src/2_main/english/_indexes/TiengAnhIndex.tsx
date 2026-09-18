@@ -640,10 +640,10 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <div className="sub-box">
 
           {/* =============================
-               [BASE][PHRASE][CLAUSE]
+               [HEAD][PHRASE][CLAUSE]
           ============================= */}
       
-          <p id="base-phrase-clause-terms"><mark className="highlight-secondary-padding-2-4">[BASE][PHRASE][CLAUSE]</mark></p>
+          <p id="base-phrase-clause-terms"><mark className="highlight-secondary-padding-2-4">[HEAD][PHRASE][CLAUSE]</mark></p>
 
           <ul className="list-border1">
 

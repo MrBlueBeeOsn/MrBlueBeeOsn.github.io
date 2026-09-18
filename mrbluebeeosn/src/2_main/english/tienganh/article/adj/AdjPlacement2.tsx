@@ -15,7 +15,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[BASE][PHRASE][CLAUSE]</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[HEAD][PHRASE][CLAUSE]</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">[ADjective FUNCtion]
 												
@@ -110,7 +110,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[running], [happiness]</li>
-					<li className="margin-bottom-20 list-none">– [NOUN][DANH]</li>
+					<li className="margin-bottom-20 list-none">– [NOUN HEAD][DANH LÕI]</li>
 			
 					<li>[reading books], [to win a prize]</li>
 					<li className="margin-bottom-20 list-none">– [NOUN PHRASE][DANH CỤM]</li>
@@ -126,7 +126,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[beautiful], [sparkling]</li>
-					<li className="margin-bottom-20 list-none">– [ADjective][TÍNH]</li>
+					<li className="margin-bottom-20 list-none">– [ADjective HEAD][TÍNH LÕI]</li>
 			
 					<li>[too hot to handle], [full of joy]</li>
 					<li className="margin-bottom-20 list-none">– [ADjective PHRASE][TÍNH CỤM]</li>
@@ -142,7 +142,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[quickly], [well]</li>
-					<li className="margin-bottom-20 list-none">– [ADVERB][TRẠNG]</li>
+					<li className="margin-bottom-20 list-none">– [ADverb HEAD][TRẠNG LÕI]</li>
 			
 					<li>[to earn money], [with great care]</li>
 					<li className="margin-bottom-20 list-none">– [ADverb PHRASE][TRẠNG CỤM]</li>
@@ -158,7 +158,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[run], [think], [be]</li>
-					<li className="margin-bottom-20 list-none">– [ROOT VERB][RỄ ĐỘNG]</li>
+					<li className="margin-bottom-20 list-none">– [ROOT VERB][GỐC ĐỘNG]</li>
 			
 					<li>[will finish the report]</li>
 					<li className="margin-bottom-20 list-none">– [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase]</li>
@@ -233,16 +233,16 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Chức năng DANH</h4>
 
-			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>NOUN</strong>][<strong>DANH</strong>]: [Running]</p>
+			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>]: [Running]</p>
 			
 				<ul className="list-square">
 			
 					<li>[______] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Chạy bộ] thì thú vị.</li>
 			
-					<li className="list-none">Hình thái: [Running] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "Run" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [Running] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "Run" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [Running] – [NOUN][DANH] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu, chỉ đối tượng chính của toàn bộ ý).</li>
+					<li className="list-none">Chức năng: [Running] – [NOUN HEAD][DANH LÕI] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu, chỉ đối tượng chính của toàn bộ ý).</li>
 			
 				</ul>
 			
@@ -296,16 +296,16 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Chức năng TÍNH</h4>
 
-			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective</strong>][<strong>TÍNH</strong>]: [sparkling]</p>
+			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]: [sparkling]</p>
 			
 				<ul className="list-square">
 			
 					<li>She wore a [______] necklace.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đeo một chiếc vòng cổ [lấp lánh].</li>
 			
-					<li className="list-none">Hình thái: [sparkling] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [sparkling] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [sparkling] – [ADjective][TÍNH] bổ nghĩa trực tiếp cho necklace.</li>
+					<li className="list-none">Chức năng: [sparkling] – [ADjective HEAD][TÍNH LÕI] bổ nghĩa trực tiếp cho necklace.</li>
 			
 				</ul>
 			
@@ -342,16 +342,16 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Chức năng TRẠNG</h4>
 
-			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADVERB</strong>][<strong>TRẠNG</strong>]: [calmly]</p>
+			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]: [calmly]</p>
 			
 				<ul className="list-square">
 			
 					<li>He answered [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [một cách bình tĩnh].</li>
 			
-					<li className="list-none">Hình thái: [calmly] – [ADVERB][TRẠNG].</li>
+					<li className="list-none">Hình thái: [calmly] – [ADverb HEAD][TRẠNG LÕI].</li>
 			
-					<li className="list-none">Chức năng: [calmly] – [ADVERB][TRẠNG] bổ nghĩa cho hành động answered, chỉ cách thức.</li>
+					<li className="list-none">Chức năng: [calmly] – [ADverb HEAD][TRẠNG LÕI] bổ nghĩa cho hành động answered, chỉ cách thức.</li>
 			
 				</ul>
 			
@@ -396,7 +396,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[<strong>NOUN</strong>][<strong>DANH</strong>]:</li>
+					<li>[<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>]:</li>
 					<li className="margin-bottom-20 list-none">Đối tượng cốt lõi được nhắc đến.</li>
 			
 					<li>[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</li>
@@ -728,7 +728,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>[______] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Học tập] thì thú vị.</li>
 			
-					<li className="list-none">[Learning] – [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] → [NOUN][DANH] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu).</li>
+					<li className="list-none">[Learning] – [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] → [NOUN HEAD][DANH LÕI] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu).</li>
 			
 				</ul>
 
@@ -794,7 +794,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The [______] man is a doctor.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [thân thiện] là bác sĩ.</li>
 			
-					<li className="list-none">[friendly] – [ADjective][TÍNH] – vẫn bổ nghĩa cho man.</li>
+					<li className="list-none">[friendly] – [ADjective HEAD][TÍNH LÕI] – vẫn bổ nghĩa cho man.</li>
 			
 				</ul>
 			
@@ -835,7 +835,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>He succeeded [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy thành công [một cách siêng năng].</li>
 			
-					<li className="list-none">[diligently] – [ADVERB][TRẠNG] – bổ nghĩa cho succeeded.</li>
+					<li className="list-none">[diligently] – [ADverb HEAD][TRẠNG LÕI] – bổ nghĩa cho succeeded.</li>
 			
 				</ul>
 			
@@ -880,7 +880,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The [______] teacher is very kind.</li>
 					<li className="margin-bottom-20 list-none">Người giáo viên [kiên nhẫn] thì rất tử tế.</li>
 			
-					<li className="list-none">[patient] – [ADjective][TÍNH] – bổ nghĩa cho teacher.</li>
+					<li className="list-none">[patient] – [ADjective HEAD][TÍNH LÕI] – bổ nghĩa cho teacher.</li>
 			
 				</ul>
 			

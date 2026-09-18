@@ -29,7 +29,7 @@ export default function Clear(): React.JSX.Element {
 
           <p className="margin-bottom-20">[CLEAR] is a [ROOT VERB] that means to remove things that are not wanted from a place, or to make something easy to see or understand.</p>
 
-          <p>[CLEAR] là một [ROOT VERB][RỄ ĐỘNG] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).</p>
+          <p>[CLEAR] là một [ROOT VERB][GỐC ĐỘNG] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).</p>
 
           <p className="margin-top-20">Ví dụ: /klɪə(r)/</p>
 
@@ -63,8 +63,8 @@ export default function Clear(): React.JSX.Element {
       
         <ol>
       
-          <li value="1">[<strong>ROOT VERB</strong>][<strong>RỄ ĐỘNG</strong>]: clear</li>
-          <li className="margin-bottom-20 list-none">Là mã hành động nguyên bản [ROOT VERB][RỄ ĐỘNG] (dọn dẹp, xóa bỏ, làm sạch), chưa qua xử lý dấu mốc thời gian hay phương thức, đóng vai trò là lõi dữ liệu thô.</li>
+          <li value="1">[<strong>ROOT VERB</strong>][<strong>GỐC ĐỘNG</strong>]: clear</li>
+          <li className="margin-bottom-20 list-none">Là mã hành động nguyên bản [ROOT VERB][GỐC ĐỘNG] (dọn dẹp, xóa bỏ, làm sạch), chưa qua xử lý dấu mốc thời gian hay phương thức, đóng vai trò là lõi dữ liệu thô.</li>
       
           <li value="2">[<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]: is, was, has, had, will</li>
           <li className="margin-bottom-20 list-none">Là đơn vị từ đơn chuyên biệt chịu trách nhiệm kích hoạt bối cảnh thời gian (Hiện tại/Quá khứ) hoặc làm trợ lực thiết lập thể chủ động/bị động, hoàn thành/tiếp diễn.</li>
@@ -98,7 +98,7 @@ export default function Clear(): React.JSX.Element {
 
           <li>has been clearing → [auXILiary and PAST PARTiciple VERB] has been + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] clearing</li>
       
-          <li>cleared (⏳ Thời Gian Hành Động ở Quá Khứ Đơn) → [3RD VERB][3RD ĐỘNG], [PAST VERB][ĐÃ ĐỘNG] (Một đơn vị tích hợp cả hai)</li>
+          <li>cleared (⏳ Thời Gian Hành Động ở Quá Khứ Đơn) → [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG], [PAST VERB][ĐÃ ĐỘNG] (Một đơn vị tích hợp cả hai)</li>
       
           <li>should clear → [Ý-Thái Thuần ĐỘNG] should + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to clear</li>
       
@@ -111,9 +111,9 @@ export default function Clear(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">PHẦN 1: HỆ THỐNG CÁC VÍ DỤ PHÂN HỆ MÃ TIẾNG ANH</h3>
 
       
-      <h4 className="margin-y-40">1. Phân hệ [VERB][ĐỘNG]</h4>
+      <h4 className="margin-y-40">1. Phân hệ [VERB HEAD][ĐỘNG LÕI]</h4>
 
-      <p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý của nó là [VERB][ĐỘNG].</p>
+      <p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý của nó là [VERB HEAD][ĐỘNG LÕI].</p>
 
       <p className="text-indent-whole">Khi đặt vào sơ đồ vận hành, chính hình thái [ĐỘNG] này sẽ hình thành nên các loại chức năng độc lập:</p>
 
@@ -127,14 +127,14 @@ export default function Clear(): React.JSX.Element {
           <li>the [clarity] of this instruction helped everyone.</li>
           <li className="margin-bottom-20 list-none">[Sự rõ ràng] của lời hướng dẫn này đã giúp đỡ mọi người.</li>
       
-          <li className="list-none">Hình thái: [clarity] - [MODified NOUN][DIỆN DANH] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "clear" biến đổi thành "clar" mặc thêm hậu tố "-ity" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ], tạo thành một thực thể định danh độc lập.</li>
+          <li className="list-none">Hình thái: [clarity] - [MODified NOUN][DIỆN DANH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "clear" biến đổi thành "clar" mặc thêm hậu tố "-ity" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], tạo thành một thực thể định danh độc lập.</li>
       
-          <li className="list-none">Chức năng: [clarity] - [NOUN][DANH] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để định danh cho một đặc tính/sự việc.</li>
+          <li className="list-none">Chức năng: [clarity] - [NOUN HEAD][DANH LÕI] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để định danh cho một đặc tính/sự việc.</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADjective</strong>][<strong>TÍNH</strong>] [<strong>ADjective</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>] [<strong>ADjective</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 2: /klɪə(r)/</p>
       
@@ -143,9 +143,9 @@ export default function Clear(): React.JSX.Element {
           <li>we need a [clear] explanation.</li>
           <li className="margin-bottom-20 list-none">Chúng ta cần một lời giải thích [rõ ràng].</li>
       
-          <li className="list-none">Hình thái: [clear] - Bản thân [VERB][ĐỘNG] khi giữ nguyên trạng thái từ đơn lẻ nhưng chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
+          <li className="list-none">Hình thái: [clear] - Bản thân [VERB HEAD][ĐỘNG LÕI] khi giữ nguyên trạng thái từ đơn lẻ nhưng chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
       
-          <li className="list-none">Chức năng: [clear] - [ADjective][TÍNH] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng "explanation" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [clear] - [ADjective HEAD][TÍNH LÕI] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng "explanation" để hiển thị đặc điểm của đối tượng đó.</li>
       
         </ul>
       
@@ -159,9 +159,9 @@ export default function Clear(): React.JSX.Element {
           <li>she explained the process [clearly].</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã giải thích quy trình [một cách rõ ràng].</li>
       
-          <li className="list-none">Hình thái: [clearly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][RỄ TÍNH] nguyên bản "clear" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
+          <li className="list-none">Hình thái: [clearly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "clear" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
       
-          <li className="list-none">Chức năng: [clearly] - [ADVERB][TRẠNG] thực thi vai trò làm thành phần bổ nghĩa đứng sau hành động "explained" để xác định bối cảnh cách thức.</li>
+          <li className="list-none">Chức năng: [clearly] - [ADverb HEAD][TRẠNG LÕI] thực thi vai trò làm thành phần bổ nghĩa đứng sau hành động "explained" để xác định bối cảnh cách thức.</li>
       
         </ul>
 
@@ -182,7 +182,7 @@ export default function Clear(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [clearing the browser history] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động xóa bỏ, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
       
-          <li className="list-none">Chức năng: [clearing the browser history] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] để thiết lập nền tảng thông tin đứng đầu toàn câu trước hạt nhân [3RD VERB][3RD ĐỘNG] "improves".</li>
+          <li className="list-none">Chức năng: [clearing the browser history] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] để thiết lập nền tảng thông tin đứng đầu toàn câu trước hạt nhân [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "improves".</li>
       
         </ul>
 
@@ -555,7 +555,7 @@ export default function Clear(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the program clears metadata}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject PROnoun][CHỦ ĐẠI] riêng "the program" và [3RD VERB][3RD ĐỘNG] riêng "clears" thiết lập theo trục thời hiện tại.</li>
+          <li className="list-none">Hình thái: {'{how the program clears metadata}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject PROnoun][CHỦ ĐẠI] riêng "the program" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] riêng "clears" thiết lập theo trục thời hiện tại.</li>
       
           <li className="list-none">Chức năng: {'{how the program clears metadata}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp từ hạt nhân hành động "Analyzing" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích.</li>
       
@@ -585,7 +585,7 @@ export default function Clear(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{why the database clears sessions}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject PROnoun][CHỦ ĐẠI] riêng "the database" và [3RD VERB][3RD ĐỘNG] riêng "clears" thiết lập theo trục thời hiện tại đi sau liên từ "why".</li>
+          <li className="list-none">Hình thái: {'{why the database clears sessions}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject PROnoun][CHỦ ĐẠI] riêng "the database" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] riêng "clears" thiết lập theo trục thời hiện tại đi sau liên từ "why".</li>
       
           <li className="list-none">Chức năng: {'{why the database clears sessions}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp từ hạt nhân hành động "monitoring" ở tầng ngoài, làm rõ nội dung cho việc giám sát.</li>
       
@@ -737,7 +737,7 @@ export default function Clear(): React.JSX.Element {
           <li>i like an application [which clears storage smoothly].</li>
           <li className="margin-bottom-20 list-none">Tôi thích một ứng dụng [cái mà dọn dẹp dung lượng một cách mượt mà].</li>
       
-          <li className="list-none">Hình thái gốc: [which clears storage smoothly] - [conJUNCtional CLAUSE][LIÊN CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [3RD VERB][3RD ĐỘNG] "clears".</li>
+          <li className="list-none">Hình thái gốc: [which clears storage smoothly] - [conJUNCtional CLAUSE][LIÊN CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "clears".</li>
       
           <li className="list-none">Chức năng: [which clears storage smoothly] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng "application".</li>
       
@@ -751,9 +751,9 @@ export default function Clear(): React.JSX.Element {
           <li>i like a [clear] system layout.</li>
           <li className="margin-bottom-20 list-none">Tôi thích một bố cục hệ thống [rõ ràng].</li>
       
-          <li className="list-none">Hình thái mới: [clear] - [ROOT ADjective][RỄ TÍNH] hình thành từ khối [ROOT ADjective][RỄ TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần ADjective đơn duy nhất.</li>
+          <li className="list-none">Hình thái mới: [clear] - [ROOT ADjective][GỐC TÍNH] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần ADjective đơn duy nhất.</li>
       
-          <li className="list-none">Chức năng mới: [clear] - [ADjective][TÍNH] thiết lập vị trí ngay trước đối tượng "system layout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Chức năng mới: [clear] - [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng "system layout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
         </ul>
 

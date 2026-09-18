@@ -15,7 +15,7 @@ export default function SV2(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[BASE][PHRASE][CLAUSE]</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[HEAD][PHRASE][CLAUSE]</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">[FUNCtions][LEVels]
 												
@@ -65,7 +65,7 @@ export default function SV2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[VERB][ĐỘNG]</li>
+					<li>[VERB HEAD][ĐỘNG LÕI]</li>
 					<li className="margin-bottom-20 list-none">Dạng gốc của hành động hoặc trạng thái, không kèm theo bất kỳ dấu hiệu nào về thời điểm.</li>
 			
 					<li>[VERB PHRASE][ĐỘNG CỤM]</li>
@@ -149,9 +149,9 @@ export default function SV2(): React.JSX.Element {
 					<li>[Swimming] is my favorite activity.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] là hoạt động yêu thích của tôi.</li>
 			
-					<li className="list-none">Hình thái: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ], biểu thị hành động được đóng gói thành một khái niệm.</li>
+					<li className="list-none">Hình thái: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], biểu thị hành động được đóng gói thành một khái niệm.</li>
 			
-					<li className="list-none">Chức năng: [Swimming] – [NOUN][DANH] đứng ở đầu câu, đóng vai trò thực thể trung tâm mà câu hướng đến.</li>
+					<li className="list-none">Chức năng: [Swimming] – [NOUN HEAD][DANH LÕI] đứng ở đầu câu, đóng vai trò thực thể trung tâm mà câu hướng đến.</li>
 			
 				</ul>
 			
@@ -194,9 +194,9 @@ export default function SV2(): React.JSX.Element {
 					<li>We saw a [shining] star.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi thấy một ngôi sao [lấp lánh].</li>
 			
-					<li className="list-none">Hình thái: [shining] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "shine" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ], miêu tả trạng thái đang diễn ra.</li>
+					<li className="list-none">Hình thái: [shining] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "shine" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], miêu tả trạng thái đang diễn ra.</li>
 			
-					<li className="list-none">Chức năng: [shining] – [ADjective][TÍNH] đứng trước star, bổ sung đặc điểm cho thực thể star.</li>
+					<li className="list-none">Chức năng: [shining] – [ADjective HEAD][TÍNH LÕI] đứng trước star, bổ sung đặc điểm cho thực thể star.</li>
 			
 				</ul>
 			
@@ -240,9 +240,9 @@ export default function SV2(): React.JSX.Element {
 					<li>He spoke [calmly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy nói [một cách bình tĩnh].</li>
 			
-					<li className="list-none">Hình thái: [calmly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][RỄ TÍNH] nguyên bản "calm" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [calmly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "calm" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [calmly] – [ADVERB][TRẠNG] đứng cạnh hành động spoke, bổ sung ý nghĩa về cách thức thực hiện hành động.</li>
+					<li className="list-none">Chức năng: [calmly] – [ADverb HEAD][TRẠNG LÕI] đứng cạnh hành động spoke, bổ sung ý nghĩa về cách thức thực hiện hành động.</li>
 			
 				</ul>
 			
@@ -318,9 +318,9 @@ export default function SV2(): React.JSX.Element {
 					<li>[Jogging] is beneficial.</li>
 					<li className="margin-bottom-20 list-none">[Chạy bộ] có lợi cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [Jogging] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "Jog" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [Jogging] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "Jog" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [Jogging] – [NOUN][DANH] đứng ở đầu câu, là thực thể trung tâm.</li>
+					<li className="list-none">Chức năng: [Jogging] – [NOUN HEAD][DANH LÕI] đứng ở đầu câu, là thực thể trung tâm.</li>
 			
 				</ul>
 			
@@ -351,7 +351,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [his kindness] – đây là một khối [DANH] thuần túy, không xuất phát từ ĐỘNG.</li>
 			
-					<li className="list-none">Chức năng: [his kindness] – [NOUN][DANH] đứng sau hành động remember, là [OBject PROnoun] của hành động.</li>
+					<li className="list-none">Chức năng: [his kindness] – [NOUN HEAD][DANH LÕI] đứng sau hành động remember, là [OBject PROnoun] của hành động.</li>
 			
 				</ul>
 			
@@ -444,9 +444,9 @@ export default function SV2(): React.JSX.Element {
 					<li>He drives [carefully].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [cẩn thận].</li>
 			
-					<li className="list-none">Hình thái: [carefully] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][RỄ ĐỘNG] nguyên bản "care" mặc thêm (kết hợp) hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [carefully] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "care" mặc thêm (kết hợp) hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [carefully] – [ADVERB][TRẠNG] bổ nghĩa cho hành động drives.</li>
+					<li className="list-none">Chức năng: [carefully] – [ADverb HEAD][TRẠNG LÕI] bổ nghĩa cho hành động drives.</li>
 			
 				</ul>
 			
