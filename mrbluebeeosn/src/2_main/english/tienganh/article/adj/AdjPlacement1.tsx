@@ -182,15 +182,15 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">C. Nhóm Phân Loại Năng Lượng Hành Động</h4>
           
-      <p className="text-indent-whole"><strong>Nhóm 1</strong>: [<strong>TENSE VERB</strong>][<strong>THỜI ĐỘNG</strong>]</p>
+      <p className="text-indent-whole"><strong>Nhóm 1</strong>: [<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]</p>
 
         <ul className="list-square">
       
-          <li>is oRIGinating → [TENSE][THỜI] be + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] oRIGinating</li>
+          <li>is oRIGinating → [auXILiary VERB][TRỢ ĐỘNG] be + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] oRIGinating</li>
 
-          <li>has been FORMulating → [TENSE + PERfect][THỜI + HOÀN] has + been + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] FORMulating</li>
+          <li>has been FORMulating → [auXILiary and PAST PARTiciple VERB][TRỢ và ĐÃ HOÀN ĐỘNG] has + been + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] FORMulating</li>
       
-          <li>has oRIGinated → [TENSE][THỜI] has + [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] oRIGinated</li>
+          <li>has oRIGinated → [auXILiary VERB][TRỢ ĐỘNG] has + [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] oRIGinated</li>
       
           <li>FORMulates/oRIGinated → [3RD VERB][3RD ĐỘNG], [PAST VERB][ĐÃ ĐỘNG] tích hợp</li>
       
@@ -205,7 +205,7 @@ export default function AdjPlacement1(): React.JSX.Element {
       
           <li>to FORMulate → [PARTicle][HẠT] to + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] FORMulate</li>
       
-          <li>DID oRIGinate → [TENSE][THỜI] did + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] oRIGinate</li>
+          <li>DID oRIGinate → [auXILiary VERB][TRỢ ĐỘNG] did + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] oRIGinate</li>
       
         </ul>
       

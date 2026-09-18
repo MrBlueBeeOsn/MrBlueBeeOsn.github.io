@@ -152,19 +152,19 @@ export default function SV1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">4 Nhóm Động Từ Cốt Lõi</h4>
           
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>TENSE VERB</strong>][<strong>THỜI ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm này định vị mốc [Thời] gian và biểu thị trạng thái [Hoàn] thành hoặc [Tiếp] diễn của hành động.</p>
 
         <ul className="list-square">
       
-          <li>be exPLOREing ➔ [Thời] be (am/is/are, was/were) + [HIỆN TIẾP ĐỘNG] exPLOREing</li>
+          <li>be exPLOREing ➔ [auXILiary VERB][TRỢ ĐỘNG] be (am/is/are, was/were) + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] exPLOREing</li>
 
-          <li>have been exPLOREing ➔ [Thời + Hoàn] have/has/had + been + [HIỆN TIẾP ĐỘNG] exPLOREing</li>
+          <li>have been exPLOREing ➔ [auXILiary and PAST PARTiciple VERB][TRỢ và ĐÃ HOÀN ĐỘNG] have/has/had been + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] exPLOREing</li>
       
-          <li>have exPLORED ➔ [Thời + Hoàn] have/has/had + exPLORED</li>
+          <li>have exPLORED ➔ [auXILiary VERB][TRỢ ĐỘNG] have/has/had + [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] exPLORED</li>
       
-          <li>exPLORES, exPLORED ➔ [Thời-Thuần ĐỘNG] Tích hợp hoàn toàn</li>
+          <li>exPLORES, exPLORED ➔ [3RD VERB][3RD ĐỘNG], [PAST VERB][ĐÃ ĐỘNG] Tích hợp hoàn toàn</li>
       
         </ul>
       
@@ -175,9 +175,9 @@ export default function SV1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to exPLORE ➔ [Hạt ĐỘNG] to + [Thuần ĐỘNG] exPLORE</li>
+          <li>to exPLORE ➔ [PARTicle VERB] to + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to exPLORE</li>
       
-          <li>DID exPLORE ➔ [Thời] did (Nhấn mạnh) + [Thuần ĐỘNG] exPLORE</li>
+          <li>DID exPLORE ➔ [auXILiary VERB][TRỢ ĐỘNG] did (Nhấn mạnh) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to exPLORE</li>
       
         </ul>
       
@@ -188,9 +188,9 @@ export default function SV1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>should exPLORE ➔ [Ý-Thái] should (gợi ý) + [Thuần ĐỘNG] exPLORE</li>
+          <li>should exPLORE ➔ [Ý-Thái] should (gợi ý) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to exPLORE</li>
       
-          <li>could exPLORE ➔ [Ý-Thái] could (khả năng nhẹ) + [Thuần ĐỘNG] exPLORE</li>
+          <li>could exPLORE ➔ [Ý-Thái] could (khả năng nhẹ) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to exPLORE</li>
       
         </ul>
       
@@ -201,9 +201,9 @@ export default function SV1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>will exPLORE ➔ [Áp-Thái] will (cam kết) + [Thuần ĐỘNG] exPLORE</li>
+          <li>will exPLORE ➔ [Áp-Thái] will (cam kết) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to exPLORE</li>
       
-          <li>must exPLORE ➔ [Áp-Thái] must (ép buộc) + [Thuần ĐỘNG] exPLORE</li>
+          <li>must exPLORE ➔ [Áp-Thái] must (ép buộc) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to exPLORE</li>
       
         </ul>
 
@@ -219,7 +219,7 @@ export default function SV1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như IN, ON, AT, BY đơn lẻ đứng sau đóng vai trò định hướng hành động để chỉ rõ không gian hoặc phương thức thực hiện.</li>
 
           <li value="3">[<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]: does, did, is, has, was, am, are</li>
-          <li className="margin-bottom-20 list-none">Các [TENSE VERB][THỜI ĐỘNG] xuất hiện đơn lẻ để gánh vác năng lượng [Thời] gian, [Thời] cho câu.</li>
+          <li className="margin-bottom-20 list-none">Các [FInite VERB][HẠN ĐỘNG] xuất hiện đơn lẻ để gánh vác năng lượng [Thời] gian, [Thời] cho câu.</li>
 
 					<li value="4" className="margin-bottom-20">[<strong>MOdal VERB</strong>][<strong>THÁI ĐỘNG</strong>]:</li>
       

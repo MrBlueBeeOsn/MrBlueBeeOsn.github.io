@@ -66,7 +66,7 @@ export default function Clear(): React.JSX.Element {
           <li value="1">[<strong>ROOT VERB</strong>][<strong>RỄ ĐỘNG</strong>]: clear</li>
           <li className="margin-bottom-20 list-none">Là mã hành động nguyên bản [ROOT VERB][RỄ ĐỘNG] (dọn dẹp, xóa bỏ, làm sạch), chưa qua xử lý dấu mốc thời gian hay phương thức, đóng vai trò là lõi dữ liệu thô.</li>
       
-          <li value="2">[<strong>TENSE VERB</strong>][<strong>THỜI ĐỘNG</strong>]: is, was, has, had, will</li>
+          <li value="2">[<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]: is, was, has, had, will</li>
           <li className="margin-bottom-20 list-none">Là đơn vị từ đơn chuyên biệt chịu trách nhiệm kích hoạt bối cảnh thời gian (Hiện tại/Quá khứ) hoặc làm trợ lực thiết lập thể chủ động/bị động, hoàn thành/tiếp diễn.</li>
 
           <li value="3">[<strong>Thời ĐÃ HOÀN ĐỘNG</strong>][<strong>Complex Tense VERB</strong>]: had been, has been</li>
@@ -88,19 +88,19 @@ export default function Clear(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>is clearing → [Thời ĐỘNG] is + [HIỆN TIẾP ĐỘNG] clearing</li>
+          <li>is clearing → [auXILiary VERB][TRỢ ĐỘNG] is + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] clearing</li>
 
-          <li>was clearing → [Thời ĐỘNG] was + [HIỆN TIẾP ĐỘNG] clearing</li>
+          <li>was clearing → [auXILiary VERB][TRỢ ĐỘNG] was + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] clearing</li>
       
-          <li>has cleared → [Thời ĐỘNG] has + [ĐÃ HOÀN ĐỘNG] cleared</li>
+          <li>has cleared → [auXILiary VERB][TRỢ ĐỘNG] has + [ĐÃ HOÀN ĐỘNG] cleared</li>
       
-          <li>had been clearing → [Thời ĐÃ HOÀN ĐỘNG] had been + [HIỆN TIẾP ĐỘNG] clearing</li>
+          <li>had been clearing → [auXILiary and PAST PARTiciple VERB] had been + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] clearing</li>
 
-          <li>has been clearing → [Thời ĐÃ HOÀN ĐỘNG] has been + [HIỆN TIẾP ĐỘNG] clearing</li>
+          <li>has been clearing → [auXILiary and PAST PARTiciple VERB] has been + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] clearing</li>
       
-          <li>cleared (⏳ Thời Gian Hành Động ở Quá Khứ Đơn) → [Thời-Thuần ĐỘNG] (Một đơn vị tích hợp cả hai)</li>
+          <li>cleared (⏳ Thời Gian Hành Động ở Quá Khứ Đơn) → [3RD VERB][3RD ĐỘNG], [PAST VERB][ĐÃ ĐỘNG] (Một đơn vị tích hợp cả hai)</li>
       
-          <li>should clear → [Ý-Thái Thuần ĐỘNG] should + [Thuần ĐỘNG] clear</li>
+          <li>should clear → [Ý-Thái Thuần ĐỘNG] should + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to clear</li>
       
         </ul>
       
@@ -547,7 +547,7 @@ export default function Clear(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [Analyzing {'{how the program clears metadata}'}] - [TIERed PRESent PARTiciple VERB PHRASE][TẦNG HIỆN TIẾP ĐỘNG CỤM] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [Analyzing {'{how the program clears metadata}'}] - [NOUN PHRASE][DANH CỤM] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm [SUBject PROnoun][CHỦ ĐẠI] để thiết lập nền tảng thông tin đứng đầu toàn câu trước [Thời ĐỘNG] "is".</li>
+          <li className="list-none">Chức năng: [Analyzing {'{how the program clears metadata}'}] - [NOUN PHRASE][DANH CỤM] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm [SUBject PROnoun][CHỦ ĐẠI] để thiết lập nền tảng thông tin đứng đầu toàn câu trước [auXILiary VERB][TRỢ ĐỘNG] "is".</li>
       
         </ul>
 

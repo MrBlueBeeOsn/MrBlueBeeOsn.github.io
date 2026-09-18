@@ -147,19 +147,19 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p>Dưới đây là sơ đồ bóc tách cách các phân loại [VERB][ĐỘNG] phối hợp để tạo nên các cấu hình thời gian và thái độ khác nhau thông qua các nhóm chức năng chuyên biệt:</p>
           
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>TENSE VERB</strong>][<strong>THỜI ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm này dùng để chia mốc thời gian và trạng thái hoàn thành/tiếp diễn.</p>
 
         <ul className="list-square">
       
-          <li>be upGRADing → [Thời] be (am/is/are, was/were) + [HIỆN TIẾP ĐỘNG] upGRADing</li>
+          <li>be upGRADing → [auXILiary VERB][TRỢ ĐỘNG] be (am/is/are, was/were) + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] upGRADing</li>
 
-          <li>have been reSTRUCturing → [Thời + Hoàn] have/has/had + been + [HIỆN TIẾP ĐỘNG] reSTRUCturing</li>
+          <li>have been reSTRUCturing → [auXILiary and PAST PARTiciple VERB][TRỢ và ĐÃ HOÀN ĐỘNG] have/has/had been + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] reSTRUCturing</li>
       
-          <li>have VALidated → [Thời + Hoàn] have/has/had + VALidated</li>
+          <li>have VALidated → [auXILiary VERB][TRỢ ĐỘNG] have/has/had + [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] VALidated</li>
       
-          <li>pioNEERS, pioNEERED → [Thời-Thuần ĐỘNG] Tích hợp</li>
+          <li>pioNEERS, pioNEERED → [3RD VERB][3RD ĐỘNG], [PAST VERB][ĐÃ ĐỘNG] Tích hợp</li>
       
         </ul>
       
@@ -170,9 +170,9 @@ export default function ThreeDC1(): React.ReactElement {
 
         <ul className="list-square">
       
-          <li>to coORdinate → [Hạt] to + [Thuần ĐỘNG] coORdinate</li>
+          <li>to coORdinate → [PARTicle VERB][HẠT ĐỘNG] to + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to coORdinate</li>
       
-          <li>DID conFIRM → [Thời] did (Nhấn mạnh) + [Thuần ĐỘNG] conFIRM</li>
+          <li>DID conFIRM → [auXILiary VERB][TRỢ ĐỘNG] did (Nhấn mạnh) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to conFIRM</li>
       
         </ul>
       
@@ -183,9 +183,9 @@ export default function ThreeDC1(): React.ReactElement {
 
         <ul className="list-square">
       
-          <li>should STREAMline → [Ý-Thái] should (gợi ý) + [Thuần ĐỘNG] STREAMline</li>
+          <li>should STREAMline → [SOFT MOdal VERB][Ý THÁI ĐỘNG] should (gợi ý) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to STREAMline</li>
       
-          <li>could neGOtiate → [Ý-Thái] could (khả năng nhẹ) + [Thuần ĐỘNG] neGOtiate</li>
+          <li>could neGOtiate → [SOFT MOdal VERB][Ý THÁI ĐỘNG] could (khả năng nhẹ) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to neGOtiate</li>
       
         </ul>
       
@@ -196,9 +196,9 @@ export default function ThreeDC1(): React.ReactElement {
 
         <ul className="list-square">
       
-          <li>will IMplement → [Áp-Thái] will (cam kết) + [Thuần ĐỘNG] IMplement</li>
+          <li>will IMplement → [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] will (cam kết) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to IMplement</li>
       
-          <li>must AUthorize → [Áp-Thái] must (ép buộc) + [Thuần ĐỘNG] AUthorize</li>
+          <li>must AUthorize → [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] must (ép buộc) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to AUthorize</li>
       
         </ul>
 
@@ -877,7 +877,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">X. Đảo ngữ kết hợp (Inversion)</h3>
 		
-			<p>Nâng tầm [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>] lên mức học thuật cao nhất bằng cách tiến hành đưa đưa Trạng Câu/Cụm phủ định lên đầu, sau đó tiến hành đảo ngữ [Thời ĐỘNG] thành phần chính:</p>
+			<p>Nâng tầm [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>] lên mức học thuật cao nhất bằng cách tiến hành đưa đưa Trạng Câu/Cụm phủ định lên đầu, sau đó tiến hành đảo ngữ [auXILiary VERB][TRỢ ĐỘNG] thành phần chính:</p>
 
 			<h5 className="margin-y-30 text-indent-whole">Ví dụ 1</h5>
 
@@ -921,7 +921,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>[NEVer have] i SEEN such a proFESsional acCOUNTing SYStem.</li>
 						<li className="margin-bottom-20 list-none">[Đã chưa từng bao giờ] tôi thấy một hệ thống kế toán nào chuyên nghiệp đến thế.</li>
 
-						<li className="list-none">→ Việc đưa [NEVer have] - <strong>TRẠNG phủ định</strong> [<strong>Negative AdVERB</strong>] "NEVer" và [TENSE VERB][THỜI ĐỘNG] "have" lên đầu câu làm cho câu văn mang sắc thái nhấn mạnh cực độ, thể hiện sự ngạc nhiên hoặc khẳng định mạnh mẽ.</li>
+						<li className="list-none">→ Việc đưa [NEVer have] - <strong>TRẠNG phủ định</strong> [<strong>Negative AdVERB</strong>] "NEVer" và [FInite VERB][HẠN ĐỘNG] "have" lên đầu câu làm cho câu văn mang sắc thái nhấn mạnh cực độ, thể hiện sự ngạc nhiên hoặc khẳng định mạnh mẽ.</li>
 				
 					</ul>
 
@@ -945,7 +945,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>[RAREly does] he REalize HOW MUCH his deCIsions afFECT the PROject.</li>
 						<li className="margin-bottom-20 list-none">[Hiếm khi thực sự] anh ấy nhận ra được các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
 
-						<li className="list-none">→ Việc đưa [RAREly does] - <strong>TRẠNG phủ định</strong> [<strong>Negative AdVERB</strong>] "RAREly" và [TENSE VERB][THỜI ĐỘNG] "does" lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức.</li>
+						<li className="list-none">→ Việc đưa [RAREly does] - <strong>TRẠNG phủ định</strong> [<strong>Negative AdVERB</strong>] "RAREly" và [FInite VERB][HẠN ĐỘNG] "does" lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức.</li>
 				
 					</ul>
 					
@@ -970,7 +970,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>[NOT Only does] she WRITE CLEAN CODE, [but she ALso] deSIGNS BEAUtiful INterfaces.</li>
 						<li className="margin-bottom-20 list-none">[Không chỉ thực sự] cô ấy viết mã sạch, [mà] cô ấy [còn] thiết kế được các giao diện đẹp mắt.</li>
 
-						<li className="list-none">→ Việc đưa [NOT Only does] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "NOT Only" và [TENSE VERB][THỜI ĐỘNG] "does" lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế.</li>
+						<li className="list-none">→ Việc đưa [NOT Only does] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "NOT Only" và [FInite VERB][HẠN ĐỘNG] "does" lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế.</li>
 
 				
 					</ul>

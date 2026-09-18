@@ -256,7 +256,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to paint landscapes] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] gồm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] to paint và thành phần đi kèm landscapes.</li>
 			
-					<li className="list-none">Chức năng: [to paint landscapes] – [NOUN PHRASE][DANH CỤM] đóng vai trò [Danh Nhận] (thành phần chịu tác động từ hành động loves).</li>
+					<li className="list-none">Chức năng: [to paint landscapes] – [NOUN PHRASE][DANH CỤM] đóng vai trò [OBject PROnoun] (thành phần chịu tác động từ hành động loves).</li>
 			
 				</ul>
 			
@@ -270,7 +270,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [what you whispered yesterday] – [conJUNCtional CLAUSE][LIÊN CÂU] bên trong có cặp you + whispered.</li>
 			
-					<li className="list-none">Chức năng: [what you whispered yesterday] – [NOUN CLAUSE][DANH CÂU] đóng vai trò [Danh Nhận] (thành phần tiếp nhận hành động remember).</li>
+					<li className="list-none">Chức năng: [what you whispered yesterday] – [NOUN CLAUSE][DANH CÂU] đóng vai trò [OBject PROnoun] (thành phần tiếp nhận hành động remember).</li>
 			
 				</ul>
 			
@@ -287,7 +287,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái tầng trong: {'{where she hides the key}'} – [conJUNCtional CLAUSE][LIÊN CÂU] → chức năng [NOUN CLAUSE][DANH CÂU].</li>
 			
-					<li className="list-none">Hình thái tầng ngoài: [knows {'{…}'}] – [TIERed 3RD-PERson PRESent VERB PHRASE] [TẦNG BA HIỆN ĐỘNG CỤM] → chức năng [Danh Cụm] phân tầng [TIERed NOUN PHRASE] đóng vai trò [Danh Nhận] (thành phần tiếp nhận hành động của He).</li>
+					<li className="list-none">Hình thái tầng ngoài: [knows {'{…}'}] – [TIERed 3RD-PERson PRESent VERB PHRASE] [TẦNG BA HIỆN ĐỘNG CỤM] → chức năng [Danh Cụm] phân tầng [TIERed NOUN PHRASE] đóng vai trò [OBject PROnoun] (thành phần tiếp nhận hành động của He).</li>
 			
 				</ul>
 			

@@ -215,19 +215,19 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Sơ đồ kiểm thử phối hợp các khối hình thái [Compilation Guide]:</h4>
           
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>TENSE VERB</strong>][<strong>THỜI ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Dùng để chia mốc [Thời] gian và trạng thái [Hoàn] thành/[Tiếp] diễn</p>
 
         <ul className="list-square">
       
-          <li>is conFIGuring → [Thời] is + [HIỆN TIẾP ĐỘNG] conFIGuring</li>
+          <li>is conFIGuring → [auXILiary VERB][TRỢ ĐỘNG] is + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] conFIGuring</li>
 
-          <li>have been inSPECTing → [Thời + Hoàn] have/has/had + been + [HIỆN TIẾP ĐỘNG] inSPECTing</li>
+          <li>have been inSPECTing → [auXILiary and PAST PARTiciple VERB][TRỢ và ĐÃ HOÀN ĐỘNG] have/has/had been + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] inSPECTing</li>
       
-          <li>has comPILED → [Thời + Hoàn] has + comPILED</li>
+          <li>has comPILED → [auXILiary VERB][TRỢ ĐỘNG] has + [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] comPILED</li>
       
-          <li>eVALuates, eVALuated → [Thời-Thuần ĐỘNG] Tích hợp</li>
+          <li>eVALuates, eVALuated → [3RD VERB][3RD ĐỘNG], [PAST VERB][ĐÃ ĐỘNG] Tích hợp</li>
       
         </ul>
       
@@ -238,9 +238,9 @@ export default function NineBox1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to reSOLVE → [Hạt ĐỘNG] to + [Thuần ĐỘNG] reSOLVE</li>
+          <li>to reSOLVE → [PARTicle VERB] to + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to reSOLVE</li>
       
-          <li>DID eXAMine → [Thời] did (Nhấn mạnh) + [Thuần ĐỘNG] eXAMine</li>
+          <li>DID eXAMine → [auXILiary VERB][TRỢ ĐỘNG] did (Nhấn mạnh) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to eXAMine</li>
       
         </ul>
       
@@ -251,9 +251,9 @@ export default function NineBox1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>should eVALuate → [Ý-Thái ĐỘNG] should (gợi ý) + [Thuần ĐỘNG] eVALuate</li>
+          <li>should eVALuate → [SOFT MOdal VERB] should (gợi ý) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to eVALuate</li>
       
-          <li>could upGRADE → [Ý-Thái ĐỘNG] could (khả năng nhẹ) + [Thuần ĐỘNG] upGRADE</li>
+          <li>could upGRADE → [SOFT MOdal VERB] could (khả năng nhẹ) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to upGRADE</li>
       
         </ul>
       
@@ -264,9 +264,9 @@ export default function NineBox1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>will enCRYPT → [Áp-Thái ĐỘNG] will (cam kết) + [Thuần ĐỘNG] enCRYPT</li>
+          <li>will enCRYPT → [asSERTive MOdal VERB] will (cam kết) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to enCRYPT</li>
       
-          <li>must seCURE → [Áp-Thái ĐỘNG] must (ép buộc) + [Thuần ĐỘNG] seCURE</li>
+          <li>must seCURE → [asSERTive MOdal VERB] must (ép buộc) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to seCURE</li>
       
         </ul>
 
@@ -387,7 +387,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [HANdling USer TRAFfic efFIciently] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] hình thành từ sự phối hợp giữa hạt nhân [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "HANdling" và các tham số bổ nghĩa "USer TRAFfic efFIciently" phía sau.</li>
 			
-					<li className="list-none">Chức năng: [HANdling USer TRAFfic efFIciently] – [ADjective PHRASE][TÍNH CỤM] đứng sau kết hợp với [TENSE VERB][THỜI ĐỘNG] "is" nhằm mô tả trạng thái thuộc tính diễn tiến cho dịch vụ nhỏ.</li>
+					<li className="list-none">Chức năng: [HANdling USer TRAFfic efFIciently] – [ADjective PHRASE][TÍNH CỤM] đứng sau kết hợp với [FInite VERB][HẠN ĐỘNG] "is" nhằm mô tả trạng thái thuộc tính diễn tiến cho dịch vụ nhỏ.</li>
 			
 				</ul>
 			

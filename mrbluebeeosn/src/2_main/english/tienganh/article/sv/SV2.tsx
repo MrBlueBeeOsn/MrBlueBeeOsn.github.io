@@ -86,7 +86,7 @@ export default function SV2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Chức năng Danh</li>
-					<li className="margin-bottom-20 list-none">Đứng ở đầu câu, hoặc sau một ĐỘNG, hoặc sau một hành động liên kết để đóng vai trò thực thể trung tâm hoặc [Danh Nhận] (đối tượng nhận tác động của hành động).</li>
+					<li className="margin-bottom-20 list-none">Đứng ở đầu câu, hoặc sau một ĐỘNG, hoặc sau một hành động liên kết để đóng vai trò thực thể trung tâm hoặc [OBject PROnoun] (đối tượng nhận tác động của hành động).</li>
 			
 					<li>Chức năng Tính</li>
 					<li className="margin-bottom-20 list-none">Đứng trước hoặc sau một [DANH] để bổ sung đặc điểm cho thực thể đó.</li>
@@ -165,7 +165,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [reading mystery novels] – [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng hành động reading dạng V-ing, kèm thêm mystery novels để tạo thành một khối hoàn chỉnh.</li>
 			
-					<li className="list-none">Chức năng: [reading mystery novels] – [NOUN PHRASE][DANH CỤM] đứng sau hành động enjoys, là [Danh Nhận] – đối tượng tiếp nhận hành động.</li>
+					<li className="list-none">Chức năng: [reading mystery novels] – [NOUN PHRASE][DANH CỤM] đứng sau hành động enjoys, là [OBject PROnoun] – đối tượng tiếp nhận hành động.</li>
 			
 				</ul>
 			
@@ -295,7 +295,7 @@ export default function SV2(): React.JSX.Element {
 
 					<li className="list-none">Hình thái lớp ngoài: [forgot {'{why I called her}'}] – [TIERed PAST TENSE VERB PHRASE] [TẦNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PAST VERB][ĐÃ ĐỘNG] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
 			
-					<li className="list-none">Chức năng lớp ngoài: [forgot {'{why I called her}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ khối này nằm sau She, là [Danh Nhận] – đối tượng mà hành động forgot hướng đến.</li>
+					<li className="list-none">Chức năng lớp ngoài: [forgot {'{why I called her}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ khối này nằm sau She, là [OBject PROnoun] – đối tượng mà hành động forgot hướng đến.</li>
 			
 				</ul>
 			
@@ -351,7 +351,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [his kindness] – đây là một khối [DANH] thuần túy, không xuất phát từ ĐỘNG.</li>
 			
-					<li className="list-none">Chức năng: [his kindness] – [NOUN][DANH] đứng sau hành động remember, là [Danh Nhận] của hành động.</li>
+					<li className="list-none">Chức năng: [his kindness] – [NOUN][DANH] đứng sau hành động remember, là [OBject PROnoun] của hành động.</li>
 			
 				</ul>
 			
@@ -500,7 +500,7 @@ export default function SV2(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20">Paraphrase lần 2 (thay [Danh Nhận] bằng [Danh Cụm] khác):</p>
+			<p className="margin-top-20">Paraphrase lần 2 (thay [OBject PROnoun] bằng [Danh Cụm] khác):</p>
 			
 				<ul className="list-square">
 			
@@ -509,7 +509,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [all the spectators] – một khối Danh Cụm.</li>
 			
-					<li className="list-none">Chức năng: [all the spectators] – [NOUN PHRASE][DANH CỤM] vẫn đứng sau hành động impressed, là [Danh Nhận] – nhận tác động của hành động.</li>
+					<li className="list-none">Chức năng: [all the spectators] – [NOUN PHRASE][DANH CỤM] vẫn đứng sau hành động impressed, là [OBject PROnoun] – nhận tác động của hành động.</li>
 			
 				</ul>
 			

@@ -99,7 +99,7 @@ export default function SuperWords1(): React.JSX.Element {
 			</div>
 			
 
-			<h4 className="margin-bottom-30 text-center">Đừng Để Học Thuật Đánh Lừa: Bí Mật Tiếng Anh Từ Bản Đồ [Siêu ĐỘNG]</h4>
+			<h4 className="margin-bottom-30 text-center">Đừng Để Học Thuật Đánh Lừa: Bí Mật Tiếng Anh Từ Bản Đồ [SUper][Siêu ĐỘNG]</h4>
 
 			<p>Bạn đã bao giờ rơi vào trạng thái "đứng hình" khi nhìn vào một câu tiếng Anh dài ba, bốn dòng trong các bài đọc hiểu hay tài liệu chuyên ngành chưa? Những định nghĩa cũ kỹ vô tình tạo ra một bức tường tâm lý, khiến chúng ta cảm thấy tiếng Anh bản xứ là một thứ gì đó vô cùng phức tạp và xa vời.</p>
 
@@ -214,17 +214,17 @@ export default function SuperWords1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">[Thời] gian và trạng thái [Hoàn] thành/[Tiếp] diễn:</h4>
           
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>TENSE VERB</strong>][<strong>THỜI ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm này dùng để chia mốc [Thời] gian và trạng thái [Hoàn] thành/[Tiếp] diễn.</p>
 
         <ul className="list-square">
       
-          <li>be exPANDing → [TENSE][THỜI] be (am/is/are, was/were) + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] exPANDing</li>
+          <li>be exPANDing → [auXILiary VERB][TRỢ ĐỘNG] be (am/is/are, was/were) + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] exPANDing</li>
 
-          <li>have been exPANDing → [TENSE + PERfect][THỜI + HOÀN] have/has/had + been + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] exPANDing</li>
+          <li>have been exPANDing → [auXILiary and PAST PARTiciple VERB][TRỢ và ĐÃ HOÀN ĐỘNG] have/has/had been + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] exPANDing</li>
       
-          <li>have OPtimized → [TENSE + PERfect][THỜI + HOÀN] have/has/had + OPtimized</li>
+          <li>have OPtimized → [auXILiary and PAST PARTiciple VERB][TRỢ và ĐÃ HOÀN ĐỘNG] have/has/had + OPtimized</li>
       
           <li>OPtimized, OPtimizes → [PAST VERB][ĐÃ ĐỘNG], [3RD VERB][3RD ĐỘNG] Tích hợp</li>
       
@@ -239,7 +239,7 @@ export default function SuperWords1(): React.JSX.Element {
       
           <li>to OPtimize → [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] OPtimize</li>
       
-          <li>DID OPtimize → [TENSE][THỜI] did (Nhấn mạnh) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] OPtimize</li>
+          <li>DID OPtimize → [auXILiary VERB][TRỢ ĐỘNG] did (Nhấn mạnh) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] OPtimize</li>
       
         </ul>
       

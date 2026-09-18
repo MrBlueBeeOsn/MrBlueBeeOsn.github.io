@@ -153,19 +153,19 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">A. Phân Phối Nhóm Chức Năng Cốt Lõi</h4>
           
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>TENSE VERB</strong>][<strong>THỜI ĐỘNG</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>auXILiary VERB</strong>][<strong>TRỢ ĐỘNG</strong>]</p>
 
       <p className="text-indent-whole">Nhóm này đảm nhận vai trò định vị mốc thời gian và biểu thị trạng thái [Hoàn] thành hoặc [Tiếp] diễn.</p>
 
         <ul className="list-square">
       
-          <li>be exPLORing ➔ [Thời ĐỘNG]be (am/is/are, was/were) + [HIỆN TIẾP ĐỘNG] exPLORing</li>
+          <li>be exPLORing ➔ [auXILiary VERB][TRỢ ĐỘNG] be (am/is/are, was/were) + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] exPLORing</li>
 
-          <li>have been exPLORing ➔ [Thời ĐỘNG]have/has/had + been + [HIỆN TIẾP ĐỘNG] exPLORing</li>
+          <li>have been exPLORing ➔ [auXILiary and PAST PARTiciple VERB][TRỢ và ĐÃ HOÀN ĐỘNG] have/has/had been + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] exPLORing</li>
       
-          <li>have exPLORED ➔ [Thời ĐỘNG]have/has/had + [ĐÃ HOÀN ĐỘNG]exPLORED</li>
+          <li>have exPLORED ➔ [auXILiary VERB][TRỢ ĐỘNG] have/has/had + [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] exPLORED</li>
       
-          <li>exPLORES, exPLORED ➔ [Thời-Thuần ĐỘNG] Tích hợp năng lượng thời gian trực tiếp vào chữ đơn.</li>
+          <li>exPLORES, exPLORED ➔ [3RD VERB][3RD ĐỘNG], [PAST VERB][ĐÃ ĐỘNG] Tích hợp năng lượng thời gian trực tiếp vào chữ đơn.</li>
       
         </ul>
       
@@ -176,9 +176,9 @@ export default function TieredStructure1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to exPLORE ➔ [Hạt ĐỘNG] to + [Thuần ĐỘNG] exPLORE</li>
+          <li>to exPLORE ➔ [PARTicle VERB] to + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to exPLORE</li>
       
-          <li>DID exPLORE ➔ [Thời ĐỘNG] did (Nhấn mạnh) + [Thuần ĐỘNG] exPLORE</li>
+          <li>DID exPLORE ➔ [auXILiary VERB][TRỢ ĐỘNG] did (Nhấn mạnh) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to exPLORE</li>
       
         </ul>
       
@@ -189,9 +189,9 @@ export default function TieredStructure1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>should exPLORE ➔ [Ý-Thái ĐỘNG] should (gợi ý) + [Thuần ĐỘNG] exPLORE</li>
+          <li>should exPLORE ➔ [SOFT MOdal VERB] should (gợi ý) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to exPLORE</li>
       
-          <li>could exPLORE ➔ [Ý-Thái ĐỘNG] could (khả năng nhẹ) + [Thuần ĐỘNG] exPLORE</li>
+          <li>could exPLORE ➔ [SOFT MOdal VERB] could (khả năng nhẹ) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to exPLORE</li>
       
         </ul>
       
@@ -202,9 +202,9 @@ export default function TieredStructure1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>will exPLORE ➔ [Áp-Thái ĐỘNG] will (cam kết) + [Thuần ĐỘNG] exPLORE</li>
+          <li>will exPLORE ➔ [asSERTive MOdal VERB] will (cam kết) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to exPLORE</li>
       
-          <li>must exPLORE ➔ [Áp-Thái ĐỘNG] must (ép buộc) + [Thuần ĐỘNG] exPLORE</li>
+          <li>must exPLORE ➔ [asSERTive MOdal VERB] must (ép buộc) + [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] to exPLORE</li>
       
         </ul>
 
@@ -276,17 +276,17 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className="text-indent-whole">Khi bất kỳ thành phần nào thuộc 16 họ [BASE][CƠ] trên kéo theo các thành phần phụ thuộc phía sau như [OBject PROnoun][TÂN ĐẠI] (khối nhận diện đối tượng), [ADVERB][TRẠNG], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU], toàn bộ khối liên kết đó lập tức chuyển đổi cấu trúc và nâng cấp nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p className="text-indent-whole">Khi bất kỳ thành phần nào thuộc 16 họ [VERB][ĐỘNG] trên kéo theo các thành phần phụ thuộc phía sau như [OBject PROnoun][TÂN ĐẠI] (khối nhận diện đối tượng), [ADVERB][TRẠNG], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU], toàn bộ khối liên kết đó lập tức chuyển đổi cấu trúc và nâng cấp nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
 
 			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li>exPLORing [HIỆN TIẾP ĐỘNG] + a NEW CIty [Danh Nhận]</li>
+					<li>exPLORing [PRESent PARTiciple VERB] + a NEW CIty [OBject PROnoun][TÂN ĐẠI]</li>
 					<li className="margin-bottom-20 list-none">➔ exPLORing a NEW CIty [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM].</li>
 			
-					<li>has BUILT [Thời ĐÃ HOÀN ĐỘNG] + a SMART HOME [Danh Nhận] + REcently [TRẠNG]</li>
-					<li className="margin-bottom-20 list-none">➔ has BUILT a SMART HOME REcently [Thời ĐÃ HOÀN ĐỘNG CỤM][Tense PAST PARTiciple VERB PHRASE].</li>
+					<li>has BUILT [auXILiary and PAST PARTiciple VERB] + a SMART HOME [OBject PROnoun] + REcently [TRẠNG]</li>
+					<li className="margin-bottom-20 list-none">➔ has BUILT a SMART HOME REcently [auXILiary and PAST PARTiciple VERB PHRASE][TRỢ và ĐÃ HOÀN ĐỘNG CỤM].</li>
 			
 				</ul>
 
@@ -697,7 +697,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>[had i deSIGNED the SOFTware], i would have TESTed it.</li>
 					<li className="margin-bottom-20 list-none">[Giá mà tôi thiết kế phần mềm], tôi đã kiểm tra nó rồi.</li>
 			
-					<li className="list-none">Hình thái: [had i deSIGNED the SOFTware] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] sử dụng cấu trúc đảo chip [TENSE VERB][THỜI ĐỘNG] had lên trước chủ thể "i", xóa bỏ hoàn toàn [conJUNCtion][LIÊN] điều kiện và đồng hành cùng [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] deSIGNED.</li>
+					<li className="list-none">Hình thái: [had i deSIGNED the SOFTware] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] sử dụng cấu trúc đảo chip [FInite VERB][HẠN ĐỘNG] had lên trước chủ thể "i", xóa bỏ hoàn toàn [conJUNCtion][LIÊN] điều kiện và đồng hành cùng [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] deSIGNED.</li>
 			
 					<li className="list-none">Chức năng: [had i deSIGNED the SOFTware] - [ADverb CLAUSE][TRẠNG CÂU] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
 			
