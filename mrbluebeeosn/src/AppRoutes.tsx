@@ -219,7 +219,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const LegoAssembly8 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly8'));
 	const LegoAssembly9 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly9'));
 
-	const DependentClause1 = lazy(() => import('@/2_main/english/tienganh/thinking/dc/DependentClause1'));
+	const DependentClause1 = lazy(() => import('@/2_main/english/tienganh/thinking/DependentClause1'));
 	const DependentClause2 = lazy(() => import('@/2_main/english/tienganh/thinking/dc/DependentClause2'));
 	const DependentClause3 = lazy(() => import('@/2_main/english/tienganh/thinking/dc/DependentClause3'));
 	const DependentClause4 = lazy(() => import('@/2_main/english/tienganh/thinking/dc/DependentClause4'));
@@ -229,7 +229,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const DependentClause8 = lazy(() => import('@/2_main/english/tienganh/thinking/dc/DependentClause8'));
 	const DependentClause9 = lazy(() => import('@/2_main/english/tienganh/thinking/dc/DependentClause9'));
 
-	const SentenceVariety1 = lazy(() => import('@/2_main/english/tienganh/thinking/sv/SentenceVariety1'));
+	const SentenceVariety1 = lazy(() => import('@/2_main/english/tienganh/thinking/SentenceVariety1'));
 	const SentenceVariety2 = lazy(() => import('@/2_main/english/tienganh/thinking/sv/SentenceVariety2'));
 	const SentenceVariety3 = lazy(() => import('@/2_main/english/tienganh/thinking/sv/SentenceVariety3'));
 	const SentenceVariety4 = lazy(() => import('@/2_main/english/tienganh/thinking/sv/SentenceVariety4'));
@@ -240,7 +240,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const SentenceVariety9 = lazy(() => import('@/2_main/english/tienganh/thinking/sv/SentenceVariety9'));
 
 
-	const SVOMPT1 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT1'));
+	const SVOMPT1 = lazy(() => import('@/2_main/english/tienganh/thinking/SVOMPT1'));
 	const SVOMPT2 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT2'));
 	const SVOMPT3 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT3'));
 	const SVOMPT4 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT4'));
@@ -249,7 +249,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const SVOMPT7 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT7'));
 	const SVOMPT8 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT8'));
 
-	const ThinkStraightFlowFast1 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast1'));
+	const ThinkStraightFlowFast1 = lazy(() => import('@/2_main/english/tienganh/thinking/ThinkStraightFlowFast1'));
 	const ThinkStraightFlowFast2 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast2'));
 	const ThinkStraightFlowFast3 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast3'));
 	const ThinkStraightFlowFast4 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast4'));
@@ -258,7 +258,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const ThinkStraightFlowFast7 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast8'));
 	const ThinkStraightFlowFast8 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast7'));
 
-	const TheBeautyOfTheGirl1 = lazy(() => import('@/2_main/english/tienganh/thinking/bg/TheBeautyOfTheGirl1'));
+	const TheBeautyOfTheGirl1 = lazy(() => import('@/2_main/english/tienganh/adjective/TheBeautyOfTheGirl1'));
 	const TheBeautyOfTheGirl2 = lazy(() => import('@/2_main/english/tienganh/thinking/bg/TheBeautyOfTheGirl2'));
 	const TheBeautyOfTheGirl3 = lazy(() => import('@/2_main/english/tienganh/thinking/bg/TheBeautyOfTheGirl3'));
 	const TheBeautyOfTheGirl4 = lazy(() => import('@/2_main/english/tienganh/thinking/bg/TheBeautyOfTheGirl4'));
@@ -288,6 +288,12 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/ThiTiengAnh'))
 
 	const VietTiengAnhMuotMaHon = lazy(() => import('@/2_main/english/tienganh/VietTiengAnhMuotMaHon'))
+
+
+	const TheNounDropMethod = lazy(() => import('@/2_main/english/tienganh/adjective/TheNounDropMethod'))
+
+
+	// vocabulary
 
 	const IrregularVerbs = lazy(() => import('@/2_main/english/vocabulary/verb/IrregularVerbs'))
 	const PhrasalVerbs = lazy(() => import('@/2_main/english/vocabulary/verb/PhrasalVerbs'))
@@ -913,6 +919,10 @@ export default function AppRoutes(): React.JSX.Element {
 					
 					
 					<Route path="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon" element={<VietTiengAnhMuotMaHon />} />
+
+					
+					<Route path="/tieng-anh/the-noun-drop-method" element={<TheNounDropMethod />} />
+
 
 					<Route path="/tieng-anh/irregular-verbs" element={<IrregularVerbs />} />
 					<Route path="/tieng-anh/phrasal-verbs" element={<PhrasalVerbs />} />
