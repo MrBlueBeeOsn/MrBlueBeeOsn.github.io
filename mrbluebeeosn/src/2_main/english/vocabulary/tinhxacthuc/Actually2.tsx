@@ -42,7 +42,7 @@ export default function ACtually2(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#i've-ALREAdy-SEEN">i've ALREAdy SEEN</HashLink>
+						<HashLink smooth to="#i've-alREADy-SEEN">i've alREADy SEEN</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -112,7 +112,7 @@ export default function ACtually2(): React.JSX.Element {
 				<li value="3" id="LIKE">she does NOT ACtually [LIKE] COFfee, she JUST preTENDS.</li>
 				<li className="list-none margin-bottom-20">Cô ấy không thực sự [thích] cà phê, cô ấy chỉ giả vờ thôi.</li>
 
-				<li value="4" id="i've-ALREAdy-SEEN">as a MATter of FACT, ACtually, [i've ALREAdy SEEN] that MOvie.</li>
+				<li value="4" id="i've-alREADy-SEEN">as a MATter of FACT, ACtually, [i've alREADy SEEN] that MOvie.</li>
 				<li className="list-none margin-bottom-20">Thực tế mà nói thì, [tôi đã xem] bộ phim đó rồi.</li>
 
 				<li value="5" id="a-LONG-WALK">it's ACtually [a LONG WALK] to the STORE.</li>

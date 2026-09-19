@@ -30,43 +30,43 @@ export default function VISibly1(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#exCIted-about">exCIted a<strong>bout</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#upSET">upSET</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SHAken">SHAken</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#reLIEVED">reLIEVED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#AGED">AGED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#imPROVED">imPROVED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#STRAINED">STRAINED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#NERvous">NERvous</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#unCOMFORTable">unCOMFORTable</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DIFFERent-in">DIFFERent in</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,36 +103,35 @@ export default function VISibly1(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the CHILDren were VISibly exCIted a<strong>bout</strong> the UPcoming TRIP.</li>
-        <li className="list-none">The children were visibly excited a<strong>bout</strong> the upcoming trip.</li>
-        <li className="list-none margin-bottom-20">Những đứa trẻ rõ ràng rất phấn khích về chuyến đi sắp tới.</li>
+        <li value="1" id="exCIted-about">the CHILDren were VISibly [exCIted a<strong>bout</strong>] the UPcoming TRIP.</li>
+        <li className="list-none margin-bottom-20">Những đứa trẻ rõ ràng [phấn khích về] chuyến đi sắp tới.</li>
 
-        <li value="2" id="">she was VISibly upSET <strong>af</strong>ter HEARing the BAD NEWS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất buồn sau khi nghe tin xấu.</li>
+        <li value="2" id="upSET">she was VISibly [upSET] <strong>af</strong>ter HEARing the BAD NEWS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rõ ràng [buồn] sau khi nghe tin xấu.</li>
 
-        <li value="3" id="">he was VISibly SHAKen <strong>af</strong>ter the ACcident.</li>
-        <li className="list-none margin-bottom-20">Anh ấy rõ ràng rất hoảng loạn sau vụ tai nạn.</li>
+        <li value="3" id="SHAken">he was VISibly [SHAken] <strong>af</strong>ter the ACcident.</li>
+        <li className="list-none margin-bottom-20">Anh ấy rõ ràng [hoảng loạn] sau vụ tai nạn.</li>
 
-        <li value="4" id="">she was VISibly reLIEVED when she FOUND her LOST KEYS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất nhẹ nhõm khi tìm thấy chìa khóa bị mất.</li>
+        <li value="4" id="reLIEVED">she was VISibly [reLIEVED] when she FOUND her LOST KEYS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rõ ràng [nhẹ nhõm] khi tìm thấy chìa khóa bị mất.</li>
 
-        <li value="5" id=""><strong>af</strong>ter YEARS of HARD WORK, he LOOKED VISibly AGED.</li>
-        <li className="list-none margin-bottom-20">Sau nhiều năm làm việc chăm chỉ, anh ấy trông già đi rõ rệt.</li>
+        <li value="5" id="AGED"><strong>af</strong>ter YEARS of HARD WORK, he LOOKED VISibly [AGED].</li>
+        <li className="list-none margin-bottom-20">Sau nhiều năm làm việc chăm chỉ, anh ấy trông [già đi] rõ rệt.</li>
 
-        <li value="6" id="">her HEALTH has VISibly imPROVED since she STARted EXercising.</li>
-        <li className="list-none margin-bottom-20">Sức khỏe của cô ấy đã cải thiện rõ rệt kể từ khi cô ấy bắt đầu tập thể dục.</li>
+        <li value="6" id="imPROVED">her HEALTH has VISibly [imPROVED] since she STARted EXercising.</li>
+        <li className="list-none margin-bottom-20">Sức khỏe của cô ấy [đã cải thiện] rõ rệt kể từ khi cô ấy bắt đầu tập thể dục.</li>
 
-        <li value="7" id="">his FACE was VISibly STRAINED as he LIFted the HEAVy BOX.</li>
-        <li className="list-none margin-bottom-20">Gương mặt anh ấy rõ ràng rất căng thẳng khi nâng chiếc hộp nặng.</li>
+        <li value="7" id="STRAINED">his FACE was VISibly [STRAINED] as he LIFted the HEAVy BOX.</li>
+        <li className="list-none margin-bottom-20">Gương mặt anh ấy rõ ràng [căng thẳng] khi nâng chiếc hộp nặng.</li>
 
-        <li value="8" id="">she was VISibly NERvous be<strong>fore</strong> her SPEECH.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất lo lắng trước bài phát biểu của mình.</li>
+        <li value="8" id="NERvous">she was VISibly [NERvous] be<strong>fore</strong> her SPEECH.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rõ ràng [lo lắng] trước bài phát biểu của mình.</li>
 
-        <li value="9" id="">he was VISibly unCOMFORtable when they ASKED a<strong>bout</strong> his PAST.</li>
-        <li className="list-none margin-bottom-20">Anh ấy rõ ràng rất không thoải mái khi họ hỏi về quá khứ của anh.</li>
+        <li value="9" id="unCOMFORTable">he was VISibly [unCOMFORTable] when they ASKED a<strong>bout</strong> his PAST.</li>
+        <li className="list-none margin-bottom-20">Anh ấy rõ ràng [không thoải mái] khi họ hỏi về quá khứ của anh.</li>
 
-        <li value="10" id="">the TWO SISters were VISibly DIFFERent in persoNALity.</li>
-        <li className="list-none margin-bottom-20">Hai chị em rõ ràng có tính cách khác nhau.</li>
+        <li value="10" id="DIFFERent-in">the TWO SISters were VISibly [DIFFERent in] persoNALity.</li>
+        <li className="list-none margin-bottom-20">Hai chị em rõ ràng có tính cách [khác nhau].</li>
 
       </ol>
 

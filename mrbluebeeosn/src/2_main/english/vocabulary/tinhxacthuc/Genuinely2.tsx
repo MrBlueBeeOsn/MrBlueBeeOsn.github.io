@@ -34,7 +34,7 @@ export default function GENuinely2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#conCERNED-about">conCERNED about</HashLink>
+            <HashLink smooth to="#conCERNED-about">conCERNED a<strong>bout</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -62,7 +62,7 @@ export default function GENuinely2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#CARES-about">CARES about</HashLink>
+            <HashLink smooth to="#CARES-about">CARES a<strong>bout</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">

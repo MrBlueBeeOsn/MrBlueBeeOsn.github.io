@@ -94,7 +94,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "which OPtion corRECTly comPLETES this conDITional SENtence? if i had KNOWN, i __________________ you.",
+			question: "which OPTion corRECTly comPLETES this conDITional SENtence? if i had KNOWN, i __________________ you.",
 			options: [
 				"will HELP",
 				"would HELP",
@@ -130,7 +130,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "CHOOSE the OPtion that BEST exPRESSes the SAME MEANing: \"it's a PIECE of CAKE.\"",
+			question: "CHOOSE the OPTion that BEST exPRESSes the SAME MEANing: \"it's a PIECE of CAKE.\"",
 			options: [
 				"it's VERy DIFficult.",
 				"it's a deLICious desSERT.",

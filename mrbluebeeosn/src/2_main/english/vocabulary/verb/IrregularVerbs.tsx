@@ -1052,7 +1052,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she [CHOOses] the BEST OPtion for the PROJect.</li>
+					<li>she [CHOOses] the BEST OPTion for the PROJect.</li>
 					<li className="list-none">Cô ấy [chọn] lựa chọn tốt nhất cho dự án.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng CHOOses (cho chủ thể ngôi thứ ba số ít she) để chỉ sự việc diễn ra theo quy luật.</li>
 			

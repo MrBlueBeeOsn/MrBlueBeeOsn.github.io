@@ -130,7 +130,7 @@ export default function POSsibly2(): React.JSX.Element {
         <li value="9" id="">EATing TOO much SUgar is POSsibly HARMful to your HEALTH</li>
         <li className="list-none margin-bottom-20">Ăn quá nhiều đường có thể có hại cho sức khỏe của bạn.</li>
 
-        <li value="10" id="">MOving to a NEW CITy is POSsibly the BEST OPtion for my caREER</li>
+        <li value="10" id="">MOving to a NEW CITy is POSsibly the BEST OPTion for my caREER</li>
         <li className="list-none margin-bottom-20">Chuyển đến thành phố mới có thể là lựa chọn tốt nhất cho sự nghiệp của tôi.</li>
 
       </ol>

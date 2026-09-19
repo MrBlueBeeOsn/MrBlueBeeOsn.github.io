@@ -62,7 +62,7 @@ export default function PAINstakingly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#asSEMbled-over">asSEMbled over</HashLink>
+            <HashLink smooth to="#asSEMbled-over">asSEMbled <strong>o</strong>ver</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">

@@ -722,12 +722,12 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[exPLORing OPtions] is CRUcial.</li>
+					<li>[exPLORing OPTions] is CRUcial.</li>
 					<li className="margin-bottom-20 list-none">[Việc khám phá các lựa chọn] thì quan trọng.</li>
 			
-					<li className="list-none">Hình thái: [exPLORing OPtions] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] biểu hiện dưới dạng khối mã mở rộng chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] exPLORing và đối tượng đi kèm.</li>
+					<li className="list-none">Hình thái: [exPLORing OPTions] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] biểu hiện dưới dạng khối mã mở rộng chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] exPLORing và đối tượng đi kèm.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [exPLORing OPtions] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ nền tảng để quản lý một đầu việc (khối [SUBject PROnoun][CHỦ ĐẠI]).</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [exPLORing OPTions] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ nền tảng để quản lý một đầu việc (khối [SUBject PROnoun][CHỦ ĐẠI]).</li>
 			
 				</ul>
 
