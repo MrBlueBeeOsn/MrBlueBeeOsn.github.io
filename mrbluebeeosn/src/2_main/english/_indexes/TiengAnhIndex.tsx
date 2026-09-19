@@ -621,7 +621,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/the-noun-drop-method">THE "ADjective HEAD" FIRST</Link>
+                <Link to="/tieng-anh/the-adjective-head-first">THE "ADjective HEAD" FIRST</Link>
               </div>
             </li>
 

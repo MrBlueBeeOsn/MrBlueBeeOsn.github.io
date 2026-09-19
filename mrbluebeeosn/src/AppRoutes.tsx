@@ -921,7 +921,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon" element={<VietTiengAnhMuotMaHon />} />
 
 					
-					<Route path="/tieng-anh/the-noun-drop-method" element={<TheAdjectiveHeadFirst />} />
+					<Route path="/tieng-anh/the-adjective-head-first" element={<TheAdjectiveHeadFirst />} />
 
 
 					<Route path="/tieng-anh/irregular-verbs" element={<IrregularVerbs />} />
