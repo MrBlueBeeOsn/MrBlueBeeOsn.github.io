@@ -30,7 +30,7 @@ export default function JOYfully2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#acCEPted">acCEPted</HashLink>
+            <HashLink smooth to="#acCEPTed">acCEPTed</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -103,7 +103,7 @@ export default function JOYfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="acCEPted">the inviTAtion was JOYfully [acCEPted].</li>
+        <li value="1" id="acCEPTed">the inviTAtion was JOYfully [acCEPTed].</li>
         <li className="list-none margin-bottom-20">Lời mời [đã được chấp nhận] một cách vui vẻ.</li>
 
         <li value="2" id="parTICipated">the CHILDren JOYfully [parTICipated] in the GAMES.</li>

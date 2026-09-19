@@ -66,7 +66,7 @@ export default function COMmenter(): React.JSX.Element {
       
         <ol>
       
-          <li><strong>First Syllable</strong> \ˈ<strong>kä</strong>\: Keep it completely open. Drop your jaw straight down for the deep *\ä* sound without closing your lips. It sounds like KHAA.</li>
+          <li><strong>First Syllable</strong> \ˈ<strong>kä</strong>\: Keep it completely open. Drop your jaw straight down for the deep \ä\ sound without closing your lips. It sounds like KHAA.</li>
       
           <li><strong>Second Syllable</strong> \ˌ<strong>men</strong>\: Immediately glide into the next beat where your lips close for the M sound naturally.</li>
       

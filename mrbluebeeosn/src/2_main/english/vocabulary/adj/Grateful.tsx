@@ -94,7 +94,7 @@ export default function GRATEful(): React.JSX.Element {
           <li className="list-none">a DEEP SENSE of [GRATEfulness] FILLED her HEART when she SAW her FAMILy SAFE.</li>
           <li className="list-none">Một cảm giác biết ơn sâu sắc tràn ngập trái tim cô khi thấy gia đình mình bình an.</li>
 
-          <li id="ADverb">he [GRATEfully] acCEPted the OFFer of a HOT MEAL.</li>
+          <li id="ADverb">he [GRATEfully] acCEPTed the OFFer of a HOT MEAL.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã trân trọng đón nhận lời đề nghị về một bữa ăn nóng sốt.</li>
 
         </ul>

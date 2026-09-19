@@ -100,7 +100,7 @@ export default function JOYfully1(): React.JSX.Element {
           <li id="ADverb">the CHILDren PLAYED JOYfully in the PARK.</li>
           <li className="margin-bottom-20 list-none">Những đứa trẻ chơi vui vẻ trong công viên.</li>
 
-          <li>she acCEPted the aWARD JOYfully.</li>
+          <li>she acCEPTed the aWARD JOYfully.</li>
           <li className="list-none">Cô ấy nhận giải thưởng một cách vui vẻ.</li>
 
         </ul>

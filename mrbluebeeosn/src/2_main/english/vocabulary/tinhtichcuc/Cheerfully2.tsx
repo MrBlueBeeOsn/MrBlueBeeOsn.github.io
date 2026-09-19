@@ -30,43 +30,43 @@ export default function CHEERfully2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#aGREED">aGREED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WAVED-GOODbye-to">WAVED GOODbye to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#OFfered">OFfered</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#comPLIED-with">comPLIED with</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#acCEPTed">acCEPTed</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#parTICipated-in">parTICipated in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SANG">SANG</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DANCED-to">DANCED to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GREETed">GREETed</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SMILED-at">SMILED at</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function CHEERfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she CHEERfully aGREED to HELP with the PARTy.</li>
-        <li className="list-none margin-bottom-20">Cô ấy vui vẻ đồng ý giúp đỡ tổ chức bữa tiệc.</li>
+        <li value="1" id="aGREED">she CHEERfully [aGREED] to HELP with the PARTy.</li>
+        <li className="list-none margin-bottom-20">Cô ấy vui vẻ [đồng ý] giúp đỡ tổ chức bữa tiệc.</li>
 
-        <li value="2" id="">the CHILDren CHEERfully WAVED GOODbye to the BUS.</li>
-        <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ vẫy tay chào tạm biệt xe buýt.</li>
+        <li value="2" id="WAVED-GOODbye-to">the CHILDren CHEERfully [WAVED GOODbye to] the BUS.</li>
+        <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ [vẫy tay chào tạm biệt] xe buýt.</li>
 
-        <li value="3" id="">he CHEERfully OFfered to CARry the HEAVy BOXes.</li>
-        <li className="list-none margin-bottom-20">Anh ấy vui vẻ tình nguyện mang những chiếc hộp nặng.</li>
+        <li value="3" id="OFfered">he CHEERfully [OFfered] to CARry the HEAVy BOXes.</li>
+        <li className="list-none margin-bottom-20">Anh ấy vui vẻ [tình nguyện] mang những chiếc hộp nặng.</li>
 
-        <li value="4" id="">she CHEERfully comPLIED with his reQUEST.</li>
-        <li className="list-none margin-bottom-20">Cô ấy vui vẻ tuân theo yêu cầu của anh ấy.</li>
+        <li value="4" id="comPLIED-with">she CHEERfully [comPLIED with] his reQUEST.</li>
+        <li className="list-none margin-bottom-20">Cô ấy vui vẻ [tuân theo] yêu cầu của anh ấy.</li>
 
-        <li value="5" id="">he CHEERfully acCEPted the inviTAtion.</li>
-        <li className="list-none margin-bottom-20">Anh ấy vui vẻ chấp nhận lời mời.</li>
+        <li value="5" id="acCEPTed">he CHEERfully [acCEPTed] the inviTAtion.</li>
+        <li className="list-none margin-bottom-20">Anh ấy vui vẻ [chấp nhận] lời mời.</li>
 
-        <li value="6" id="">the STUdents CHEERfully parTICipated in the GAME.</li>
-        <li className="list-none margin-bottom-20">Học sinh vui vẻ tham gia trò chơi.</li>
+        <li value="6" id="parTICipated-in">the STUdents CHEERfully [parTICipated in] the GAME.</li>
+        <li className="list-none margin-bottom-20">Học sinh vui vẻ [tham gia] trò chơi.</li>
 
-        <li value="7" id="">the BIRDS CHEERfully SANG in the MORNing.</li>
-        <li className="list-none margin-bottom-20">Những chú chim vui vẻ hót líu lo vào buổi sáng.</li>
+        <li value="7" id="SANG">the BIRDS CHEERfully [SANG] in the MORNing.</li>
+        <li className="list-none margin-bottom-20">Những chú chim vui vẻ [hót líu lo] vào buổi sáng.</li>
 
-        <li value="8" id="">the CHILDren CHEERfully DANCED to the MUsic.</li>
-        <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ nhảy múa theo nhạc.</li>
+        <li value="8" id="DANCED-to">the CHILDren CHEERfully [DANCED to] the MUsic.</li>
+        <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ [nhảy múa theo] nhạc.</li>
 
-        <li value="9" id="">she CHEERfully GREETed her FRIENDS at the DOOR.</li>
-        <li className="list-none margin-bottom-20">Cô ấy vui vẻ chào đón bạn bè ở cửa.</li>
+        <li value="9" id="GREETed">she CHEERfully [GREETed] her FRIENDS at the DOOR.</li>
+        <li className="list-none margin-bottom-20">Cô ấy vui vẻ [chào đón] bạn bè ở cửa.</li>
 
-        <li value="10" id="">he CHEERfully SMILED at her.</li>
-        <li className="list-none margin-bottom-20">Anh ấy cười tươi với cô ấy.</li>
+        <li value="10" id="SMILED-at">he CHEERfully [SMILED at] her.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [cười tươi với] cô ấy.</li>
 
       </ol>
 
