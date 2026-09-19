@@ -46,7 +46,7 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 
 			{/* 1. Bí kíp: Biến "TÍNH LÕI" thành "cái tính của" */}
 			
-			<h3 className="margin-y-50 text-center">1. Bí kíp: Biến "TÍNH LÕI" thành "cái tính ... của ..."</h3>
+			<h3 className="margin-y-50 text-center">1. Bí kíp: Biến "TÍNH LÕI" thành [cái tính] ... [của] ...</h3>
 
 			<p>Thay vì cố dịch ngược ADjective lên trước, hãy lập tức biến nó thành một NOUN chỉ <strong>bản chất</strong>. Hãy dùng cấu trúc "cái tính... của..." để tạo ra một dòng chảy mượt mà.</p>
 
@@ -57,12 +57,12 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 				<ul className="list-square">
 		
 					<li>Cách Việt (Dịch ngược):</li>
-					<li className="list-none">Đọc <strong>a BEAUtiful</strong>... (não chờ)... <strong>GIRL</strong>.</li>
-					<li className="margin-bottom-20 list-none">→ À, là <strong>Một cô gái đẹp</strong>.</li>
+					<li className="list-none">Đọc a BEAUtiful... (não chờ)... GIRL.</li>
+					<li className="margin-bottom-20 list-none">→ À, là Một cô gái đẹp.</li>
 			
 					<li>Cách Âu (Dịch xuôi):</li>
-					<li className="list-none">Đọc <strong>a BEAUtiful</strong> → nghĩ ngay Một cái tính <strong>đẹp</strong> của... đọc tiếp <strong>GIRL</strong></li>
-					<li className="list-none">→ Ghép thành Một cái tính <strong>đẹp</strong> của <strong>cô gái</strong>.</li>
+					<li className="list-none">Đọc a BEAUtiful → nghĩ ngay Một [cái tính] đẹp [của]... đọc tiếp GIRL</li>
+					<li className="list-none">→ Một [cái tính] đẹp [của] cô gái.</li>
 			
 				</ul>
 
@@ -78,23 +78,22 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 			
 					<li><strong>HOT COFfee</strong></li>
 					<li className="list-none">Dịch Việt: Cà phê nóng.</li>
-					<li className="margin-bottom-20 list-none">Dịch Âu: Cái tính <strong>nóng hổi</strong> của <strong>cà phê</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dịch Âu: [Cái tính] nóng hổi [của] cà phê.</li>
 
 					<li><strong>WIDE ROAD</strong></li>
 					<li className="list-none">Dịch Việt: Con đường rộng.</li>
-					<li className="margin-bottom-20 list-none">Dịch Âu: Cái tính <strong>rộng</strong> của <strong>con đường</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dịch Âu: [Cái tính] rộng [của] con đường.</li>
 			
 					<li><strong>OLD HOUSE</strong></li>
 					<li className="list-none">Dịch Việt: Ngôi nhà cũ.</li>
-					<li className="margin-bottom-20 list-none">Dịch Âu: Cái tính <strong>cũ kỹ</strong> của <strong>ngôi nhà</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dịch Âu: [Cái tính] cũ kỹ [của] ngôi nhà.</li>
 			
 					<li><strong>BLUE SKY</strong></li>
 					<li className="list-none">Dịch Việt: Bầu trời xanh.</li>
-					<li className="list-none">Dịch Âu: Cái tính <strong>xanh dương</strong> của <strong>bầu trời</strong>.</li>
+					<li className="list-none">Dịch Âu: [Cái tính] xanh dương [của] bầu trời.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
+
 
 			<p className="margin-top-20">Mắt bạn nhìn thấy chữ nào, não "nảy" số chữ đó. Không cần chờ đợi, không cần quay xe!</p>
 
@@ -111,13 +110,13 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 					<li><strong>Tư duy như người bản xứ</strong>: Trong các văn bản trang trọng, người Tây rất thích dùng cách nói này:</li>
 
 					<li className="list-none">the BEAUty of the GIRL</li>
-					<li className="list-none">Cái tính <strong>đẹp</strong> của <strong>cô gái</strong>.</li>
+					<li className="list-none">[Cái] đẹp [của] cô gái.</li>
 					<li className="margin-bottom-20 list-none">Khi bạn dịch xuôi, bạn vô tình đang làm quen với lối tư duy cao cấp của họ.</li>
 
 					<li><strong>Dễ dàng xử lý câu dài</strong>: Với những cụm từ phức tạp như:</li>
 
 					<li className="list-none">an exTREMELy exPENsive CAR.</li>
-					<li className="list-none">Cái tính <strong>đắt đỏ cực kỳ</strong> của <strong>chiếc xe</strong>.</li>
+					<li className="list-none">Một [cái tính] cực kỳ đắt đỏ [của] chiếc xe.</li>
 					<li className="list-none">Bạn chỉ cần đọc xuôi. Xong! Cực kỳ đơn giản.</li>
 			
 				</ul>
@@ -126,7 +125,7 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 			
 			<h3 className="margin-y-50 text-center">4. Lời kết: Hãy để mắt và não "về cùng một đội"</h3>
 
-			<p>Ngôn ngữ không nên là một bài toán đố về vị trí từ. Bằng cách mượn cấu trúc "Một cái tính <strong>đẹp</strong> của <strong>cô gái</strong>" để dịch cho cụm "<strong>a BEAUtiful GIRL</strong>", bạn đã giải phóng bộ não khỏi sự ngược ngào của ngữ pháp.</p>
+			<p>Ngôn ngữ không nên là một bài toán đố về vị trí từ. Bằng cách mượn cấu trúc "Một [cái tính] đẹp [của] cô gái" để dịch cho cụm "a BEAUtiful GIRL", bạn đã giải phóng bộ não khỏi sự ngược ngào của ngữ pháp.</p>
 
 			<p className="margin-top-20">Ngay bây giờ, hãy nhìn xung quanh phòng, tìm một đồ vật cùng một ADjective đi kèm, và tập "dịch xuôi" theo cách này. Bạn sẽ thấy tiếng Anh trở nên thân thiện hơn bao giờ hết!</p>
 
