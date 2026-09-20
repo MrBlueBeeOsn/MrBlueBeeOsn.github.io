@@ -54,7 +54,7 @@ export default function CHEERfully2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#SANG">SANG</HashLink>
+            <HashLink smooth to="#SANG-in">SANG in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -121,8 +121,8 @@ export default function CHEERfully2(): React.JSX.Element {
         <li value="6" id="parTICipated-in">the STUdents CHEERfully [parTICipated in] the GAME.</li>
         <li className="list-none margin-bottom-20">Học sinh vui vẻ [tham gia] trò chơi.</li>
 
-        <li value="7" id="SANG">the BIRDS CHEERfully [SANG] in the MORNing.</li>
-        <li className="list-none margin-bottom-20">Những chú chim vui vẻ [hót líu lo] vào buổi sáng.</li>
+        <li value="7" id="SANG-in">the BIRDS CHEERfully [SANG in] the MORNing.</li>
+        <li className="list-none margin-bottom-20">Những chú chim vui vẻ [hót líu lo vào] buổi sáng.</li>
 
         <li value="8" id="DANCED-to">the CHILDren CHEERfully [DANCED to] the MUsic.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ [nhảy múa theo] nhạc.</li>

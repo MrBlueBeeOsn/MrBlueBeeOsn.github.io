@@ -34,7 +34,7 @@ export default function JOYfully2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#parTICipated">parTICipated</HashLink>
+            <HashLink smooth to="#parTICipated-in">parTICipated in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -62,7 +62,7 @@ export default function JOYfully2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#SANG">SANG</HashLink>
+            <HashLink smooth to="#SANG-in">SANG in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -106,8 +106,8 @@ export default function JOYfully2(): React.JSX.Element {
         <li value="1" id="acCEPTed">the inviTAtion was JOYfully [acCEPTed].</li>
         <li className="list-none margin-bottom-20">Lời mời [đã được chấp nhận] một cách vui vẻ.</li>
 
-        <li value="2" id="parTICipated">the CHILDren JOYfully [parTICipated] in the GAMES.</li>
-        <li className="list-none margin-bottom-20">Những đứa trẻ [đã tham gia] vào các trò chơi một cách vui vẻ.</li>
+        <li value="2" id="parTICipated-in">the CHILDren JOYfully [parTICipated in] the GAMES.</li>
+        <li className="list-none margin-bottom-20">Những đứa trẻ [đã tham gia vào] các trò chơi một cách vui vẻ.</li>
 
         <li value="3" id="CELebrated">their WEDding was JOYfully [CELebrated] by FRIENDS and FAMILy.</li>
         <li className="list-none margin-bottom-20">Đám cưới của họ [đã được] bạn bè và gia đình [tổ chức] một cách vui vẻ.</li>
@@ -127,8 +127,8 @@ export default function JOYfully2(): React.JSX.Element {
         <li value="8" id="reTURNED">the TRAVelers JOYfully [reTURNED] HOME.</li>
         <li className="list-none margin-bottom-20">Những người du lịch [đã] vui vẻ [trở về] nhà.</li>
 
-        <li value="9" id="SANG">the BIRDS JOYfully [SANG] in the MORNing.</li>
-        <li className="list-none margin-bottom-20">Những chú chim [đã hót líu lo] một cách vui vẻ vào buổi sáng.</li>
+        <li value="9" id="SANG-in">the BIRDS JOYfully [SANG in] the MORNing.</li>
+        <li className="list-none margin-bottom-20">Những chú chim [đã hót líu lo] một cách vui vẻ [vào] buổi sáng.</li>
 
         <li value="10" id="DANCED-to">the CHILDren JOYfully [DANCED to] the MUsic.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ [nhảy múa] vui vẻ [theo] điệu nhạc.</li>

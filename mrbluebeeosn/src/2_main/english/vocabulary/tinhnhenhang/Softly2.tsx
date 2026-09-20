@@ -30,43 +30,43 @@ export default function SOFTly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SPOken-to">SPOken to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LIT-by">LIT by</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#PADded-for">PADded for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#PLAYED-in">PLAYED in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#BRUSHED">BRUSHED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WHISpered-in">WHISpered in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#CLOSED">CLOSED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GLOWing-in">GLOWing in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FALLing-from">FALLing from</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LANDed-on">LANDed on</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function SOFTly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she SOFTly SPOken to the BAby to CALM it DOWN.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nói nhỏ nhẹ với em bé để dỗ nó nín.</li>
+        <li value="1" id="SPOken-to">she SOFTly [SPOken to] the BAby to CALM it DOWN.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [nói] nhỏ nhẹ với em bé để dỗ nó nín.</li>
 
-        <li value="2" id="">the ROOM was SOFTly LIT by CANdlelight.</li>
-        <li className="list-none margin-bottom-20">Căn phòng được chiếu sáng dịu nhẹ bởi ánh nến.</li>
+        <li value="2" id="LIT-by">the ROOM was SOFTly [LIT by] CANdlelight.</li>
+        <li className="list-none margin-bottom-20">Căn phòng [được chiếu sáng] dịu nhẹ bởi ánh nến.</li>
 
-        <li value="3" id="">the CHAIR was SOFTly PADded for COMfort.</li>
-        <li className="list-none margin-bottom-20">Chiếc ghế được đệm mềm mại để tạo cảm giác thoải mái.</li>
+        <li value="3" id="PADded-for">the CHAIR was SOFTly [PADded for] COMfort.</li>
+        <li className="list-none margin-bottom-20">Chiếc ghế [được đệm] mềm mại để tạo cảm giác thoải mái.</li>
 
-        <li value="4" id="">the MUsic was SOFTly PLAYED in the BACKground.</li>
-        <li className="list-none margin-bottom-20">Âm nhạc được chơi nhẹ nhàng ở nền.</li>
+        <li value="4" id="PLAYED-in">the MUsic was SOFTly [PLAYED in] the BACKground.</li>
+        <li className="list-none margin-bottom-20">Âm nhạc [được chơi] nhẹ nhàng ở nền.</li>
 
-        <li value="5" id="">she SOFTly BRUSHED her HAIR with a WOODen COMB.</li>
-        <li className="list-none margin-bottom-20">Cô ấy chải nhẹ nhàng mái tóc bằng chiếc lược gỗ.</li>
+        <li value="5" id="BRUSHED">she SOFTly [BRUSHED] her HAIR with a WOODen COMB.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [chải] nhẹ nhàng mái tóc bằng chiếc lược gỗ.</li>
 
-        <li value="6" id="">he SOFTly WHISpered in her EAR.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thì thầm nhẹ nhàng vào tai cô ấy.</li>
+        <li value="6" id="WHISpered-in">he SOFTly [WHISpered in] her EAR.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [thì thầm] nhẹ nhàng [vào] tai cô ấy.</li>
 
-        <li value="7" id="">she SOFTly CLOSED the DOOR behind her.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đóng nhẹ nhàng cánh cửa sau lưng.</li>
+        <li value="7" id="CLOSED">she SOFTly [CLOSED] the DOOR behind her.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [đóng] nhẹ nhàng cánh cửa sau lưng.</li>
 
-        <li value="8" id="">the FIREflies were SOFTly GLOWing in the DARKness.</li>
-        <li className="list-none margin-bottom-20">Những con đom đóm phát ra ánh sáng dịu nhẹ trong bóng tối.</li>
+        <li value="8" id="GLOWing-in">the FIREflies were SOFTly [GLOWing in] the DARKness.</li>
+        <li className="list-none margin-bottom-20">Những con đom đóm [phát ra ánh sáng] dịu nhẹ [trong] bóng tối.</li>
 
-        <li value="9" id="">SNOWflakes were SOFTly FALLing from the SKY.</li>
-        <li className="list-none margin-bottom-20">Những bông tuyết rơi nhẹ nhàng từ trên trời xuống.</li>
+        <li value="9" id="FALLing-from">SNOWflakes were SOFTly [FALLing from] the SKY.</li>
+        <li className="list-none margin-bottom-20">Những bông tuyết [rơi] nhẹ nhàng [từ] trên trời xuống.</li>
 
-        <li value="10" id="">the BIRD SOFTly LANDed on the BRANCH.</li>
-        <li className="list-none margin-bottom-20">Con chim hạ cánh nhẹ nhàng trên cành cây.</li>
+        <li value="10" id="LANDed-on">the BIRD SOFTly [LANDed on] the BRANCH.</li>
+        <li className="list-none margin-bottom-20">Con chim [hạ cánh] nhẹ nhàng [trên] cành cây.</li>
 
       </ol>
 
@@ -149,7 +149,7 @@ export default function SOFTly2(): React.JSX.Element {
 
           <li>"<strong>SOFTly</strong>" thường đứng trước hành động để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/GENTly-1">gently</Link>", "QUIetly" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/GENTly-1">GENTly</Link>", "QUIetly" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 

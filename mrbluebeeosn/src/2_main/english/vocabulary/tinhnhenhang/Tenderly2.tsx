@@ -30,43 +30,43 @@ export default function TENderly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HELD">HELD</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TOUCHED">TOUCHED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#KISSED">KISSED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#CARED-for">CARED for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SPOKE-to">SPOKE to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LOOKED-at">LOOKED at</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SMILED-at">SMILED at</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#emBRACED">emBRACED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#COMforted">COMforted</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#caRESSED">caRESSED</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function TENderly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she TENderly HELD the BAby in her ARMS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy ôm đứa bé một cách dịu dàng trong vòng tay.</li>
+        <li value="1" id="HELD">she TENderly [HELD] the BAby in her ARMS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [ôm] đứa bé một cách dịu dàng trong vòng tay.</li>
 
-        <li value="2" id="">he TENderly TOUCHED her CHEEK.</li>
-        <li className="list-none margin-bottom-20">Anh ấy chạm nhẹ vào má cô ấy một cách dịu dàng.</li>
+        <li value="2" id="TOUCHED">he TENderly [TOUCHED] her CHEEK.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [chạm nhẹ] vào má cô ấy một cách dịu dàng.</li>
 
-        <li value="3" id="">they TENderly KISSED GOODbye.</li>
-        <li className="list-none margin-bottom-20">Họ hôn tạm biệt nhau một cách dịu dàng.</li>
+        <li value="3" id="KISSED">they TENderly [KISSED] GOODbye.</li>
+        <li className="list-none margin-bottom-20">Họ [hôn] tạm biệt nhau một cách dịu dàng.</li>
 
-        <li value="4" id="">she TENderly CARED for her SICK MOTHer.</li>
-        <li className="list-none margin-bottom-20">Cô ấy chăm sóc người mẹ ốm yếu của mình một cách dịu dàng.</li>
+        <li value="4" id="CARED-for">she TENderly [CARED for] her SICK MOTHer.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [chăm sóc] người mẹ ốm yếu của mình một cách dịu dàng.</li>
 
-        <li value="5" id="">he TENderly SPOKE to her a<strong>bout</strong> her FEARS.</li>
-        <li className="list-none margin-bottom-20">Anh ấy nói chuyện với cô ấy về nỗi sợ hãi của cô ấy một cách dịu dàng.</li>
+        <li value="5" id="SPOKE-to">he TENderly [SPOKE to] her a<strong>bout</strong> her FEARS.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [nói chuyện với] cô ấy về nỗi sợ hãi của cô ấy một cách dịu dàng.</li>
 
-        <li value="6" id="">she TENderly LOOKED at her SLEEPing CHILD.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nhìn đứa con đang ngủ của mình một cách dịu dàng.</li>
+        <li value="6" id="LOOKED-at">she TENderly [LOOKED at] her SLEEPing CHILD.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [nhìn] đứa con đang ngủ của mình một cách dịu dàng.</li>
 
-        <li value="7" id="">he TENderly SMILED at her.</li>
-        <li className="list-none margin-bottom-20">Anh ấy mỉm cười với cô ấy một cách dịu dàng.</li>
+        <li value="7" id="SMILED-at">he TENderly [SMILED at] her.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [mỉm cười với] cô ấy một cách dịu dàng.</li>
 
-        <li value="8" id="">they TENderly emBRACED <strong>af</strong>ter their LONG sepaRAtion.</li>
-        <li className="list-none margin-bottom-20">Họ ôm ấp nhau một cách dịu dàng sau thời gian dài xa cách.</li>
+        <li value="8" id="emBRACED">they TENderly [emBRACED] <strong>af</strong>ter their LONG sepaRAtion.</li>
+        <li className="list-none margin-bottom-20">Họ [ôm ấp] nhau một cách dịu dàng sau thời gian dài xa cách.</li>
 
-        <li value="9" id="">she TENderly COMforted her FRIEND who was CRYing.</li>
-        <li className="list-none margin-bottom-20">Cô ấy an ủi người bạn đang khóc của mình một cách dịu dàng.</li>
+        <li value="9" id="COMforted">she TENderly [COMforted] her FRIEND who was CRYing.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [an ủi] người bạn đang khóc của mình một cách dịu dàng.</li>
 
-        <li value="10" id="">he TENderly caRESSED her HAIR.</li>
-        <li className="list-none margin-bottom-20">Anh ấy vuốt ve mái tóc cô ấy một cách dịu dàng.</li>
+        <li value="10" id="caRESSED">he TENderly [caRESSED] her HAIR.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [vuốt ve] mái tóc cô ấy một cách dịu dàng.</li>
 
       </ol>
 
