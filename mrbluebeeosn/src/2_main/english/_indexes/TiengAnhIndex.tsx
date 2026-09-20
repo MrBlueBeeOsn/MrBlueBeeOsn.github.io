@@ -619,7 +619,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
           <ul className="list-border1">
 
-            <li>
+            {/* <li>
               <div className="li-content">
                 <Link to="/tieng-anh/the-adjective-head-first">THE "ADjective HEAD" FIRST</Link>
               </div>
@@ -630,7 +630,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/the-beauty-of-the-girl-1">the BEAUty of the GIRL
                 </Link>
               </div>
-            </li>
+            </li> */}
             
             <li>
               <div className="li-content">

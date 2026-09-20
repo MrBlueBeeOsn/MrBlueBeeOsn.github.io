@@ -123,6 +123,12 @@ export default function GrammarIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
+                <Link to="/grammar/the-LIFO-method">the LIFO METHod</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
                 <Link to="/grammar/how-to-remember-verbs-add-s">How to Remember: Verbs Add S</Link>
               </div>
             </li>

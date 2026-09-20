@@ -89,6 +89,15 @@
       "content": "How V and O (Object) both collapse into What",
       "slug": "grammar/verb-and-object",
       "date": "2026-09-10"
+    },
+    { 
+      "id": "TheLIFOMethod",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "The LIFO Method",
+      "content": "Train your brain to use the \"Last In, First Out\" rule.",
+      "slug": "grammar/the-LIFO-method",
+      "date": "2026-09-20"
     }
   ]
 }

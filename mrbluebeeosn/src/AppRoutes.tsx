@@ -119,6 +119,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const VerbsAddS = lazy(() => import('@/2_main/english/grammar/VerbsAddS'));
 	const VerbsS = lazy(() => import('@/2_main/english/grammar/VerbsS'));
 	const VerbAndObject = lazy(() => import('@/2_main/english/grammar/VerbAndObject'));
+	const TheLIFOMethod = lazy(() => import('@/2_main/english/grammar/TheLIFOMethod'));
 
 
 	// Quiz
@@ -750,6 +751,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/how-to-remember-verbs-add-s?" element={<VerbsAddS />} />
 					<Route path="/grammar/verbs-s?" element={<VerbsS />} />
 					<Route path="/grammar/verb-and-object" element={<VerbAndObject />} />
+					<Route path="/grammar/the-LIFO-method" element={<TheLIFOMethod />} />
 
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />

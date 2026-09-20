@@ -540,6 +540,17 @@
       "likes": 0
     },
     {
+      "id": "TheLIFOMethod",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "The LIFO Method",
+      "content": "Train your brain to use the \"Last In, First Out\" rule.",
+      "slug": "grammar/the-LIFO-method",
+      "date": "2026-09-20",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Pronunciation",
       "categoryDisplay": "Pronunciation",
       "categorySlug": "pronunciation",
