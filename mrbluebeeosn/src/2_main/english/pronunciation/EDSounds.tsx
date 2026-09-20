@@ -15,7 +15,7 @@ export default function EDSounds(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/pronunciation#pronunciation-terms"><mark className="highlight-tertiary-padding-4-8">Pronunciation</mark></HashLink></h4>
+			<h4><HashLink smooth to="/pronunciation#aMERican-IPA"><mark className="highlight-tertiary-padding-4-8">aMERican IPA</mark></HashLink></h4>
 			
 			<h1 className="margin-y-50 text-center">ED Sounds</h1>
 
