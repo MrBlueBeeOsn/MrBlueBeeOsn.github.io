@@ -26,6 +26,53 @@ export default function CLEARly2(): React.JSX.Element {
 				</sup>
 			</h1>
 
+			<div className="example">
+																			
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#STAted">STAted</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#deFINED">deFINED</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#VISible-on">VISible on</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#underSTOOD">underSTOOD</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#MORE">MORE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#esTABlished">esTABlished</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#DEMonstrates">DEMonstrates</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#INdicates">INdicates</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#arTICulated-and-EAsy">arTICulated and EAsy</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#inTENDed-as">inTENDed as</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+			</div>
+
 			{/* This is the content of Vocabulary Term. */}
 
 			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CLEARly</strong>" (một cách rõ ràng) và các cụm từ hay đi kèm nhé.</p>
@@ -38,7 +85,7 @@ export default function CLEARly2(): React.JSX.Element {
 						
 						<span className="highlight-255-padding-3-6">
 							
-							[CLEARly \<Link to="/pronunciation/5-vowel-system">CLĒAR ly</Link>\ /ˈklɪərli/ ⬤• (2x)
+							CLEARly \<Link to="/pronunciation/5-vowel-system">CLĒAR ly</Link>\ /ˈklɪərli/ ⬤• (2x)
 							
 						</span>
 							
@@ -56,35 +103,35 @@ export default function CLEARly2(): React.JSX.Element {
 
 			<ol className="margin-top-30 padding-left-30">
 
-				<li value="1">the RULES were CLEARly STAted at the beGINning of the GAME.</li>
+				<li value="1" id="STAted">the RULES were CLEARly [STAted] at the beGINning of the GAME.</li>
 				<li className="list-none margin-bottom-20">Quy tắc đã được nêu rõ ràng ngay từ đầu trò chơi.</li>
 
-				<li value="2">the TERMS of the CONtract were CLEARly deFINED.</li>
-				<li className="list-none margin-bottom-20">Các điều khoản của hợp đồng đã được định nghĩa rõ ràng.</li>
+				<li value="2" id="deFINED">the TERMS of the CONtract were CLEARly [deFINED].</li>
+				<li className="list-none margin-bottom-20">Các điều khoản của hợp đồng đã [được định nghĩa] rõ ràng.</li>
 
-				<li value="3">the STARS were CLEARly VISible on a CLEAR NIGHT.</li>
-				<li className="list-none margin-bottom-20">Những ngôi sao rất dễ thấy vào một đêm trời quang.</li>
+				<li value="3" id="VISible-on">the STARS were CLEARly [VISible on] a CLEAR NIGHT.</li>
+				<li className="list-none margin-bottom-20">Những ngôi sao dễ [thấy vào] một đêm trời quang.</li>
 
-				<li value="4">i HOPE my POINT is CLEARly underSTOOD.</li>
-				<li className="list-none margin-bottom-20">Tôi hy vọng ý của tôi đã được hiểu rõ.</li>
+				<li value="4" id="underSTOOD">i HOPE my POINT is CLEARly [underSTOOD].</li>
+				<li className="list-none margin-bottom-20">Tôi hy vọng ý của tôi [đã được hiểu] rõ.</li>
 
-				<li value="5">can you PLEASE exPLAIN THAT LESS CLEARly?</li>
-				<li className="list-none margin-bottom-20">Bạn có thể giải thích rõ ràng hơn được không?</li>
+				<li value="5" id="MORE">can you PLEASE exPLAIN THAT [MORE] CLEARly?</li>
+				<li className="list-none margin-bottom-20">Bạn làm ơn có thể giải thích điều đó rõ ràng [hơn] được không?</li>
 
-				<li value="6">the conNECtion between the TWO eVENTS was LESS CLEARly esTABlished.</li>
-				<li className="list-none margin-bottom-20">Mối liên hệ giữa hai sự kiện này ít rõ ràng hơn.</li>
+				<li value="6" id="esTABlished">the conNECtion between the TWO eVENTS was LESS CLEARly [esTABlished].</li>
+				<li className="list-none margin-bottom-20">Mối liên hệ giữa hai sự kiện [được xác lập] kém rõ ràng hơn.</li>
 
-				<li value="7">the exPERiment CLEARly DEMonstrates the efFECTS of CLImate CHANGE.</li>
-				<li className="list-none margin-bottom-20">Thí nghiệm rõ ràng chứng minh những tác động của biến đổi khí hậu.</li>
+				<li value="7" id="DEMonstrates">the exPERiment CLEARly [DEMonstrates] the efFECTS of CLImate CHANGE.</li>
+				<li className="list-none margin-bottom-20">Thí nghiệm rõ ràng [chứng minh] những tác động của biến đổi khí hậu.</li>
 
-				<li value="8">the MAP CLEARly INdicates the SHORtest ROUTE.</li>
-				<li className="list-none margin-bottom-20">Bản đồ rõ ràng chỉ ra tuyến đường ngắn nhất.</li>
+				<li value="8" id="INdicates">the MAP CLEARly [INdicates] the SHORtest ROUTE.</li>
+				<li className="list-none margin-bottom-20">Bản đồ rõ ràng [chỉ ra] tuyến đường ngắn nhất.</li>
 
-				<li value="9">his iDEaS were CLEARly arTICulated and EAsy to FOLlow.</li>
-				<li className="list-none margin-bottom-20">Ý tưởng của anh ấy được diễn đạt rõ ràng và dễ hiểu.</li>
+				<li value="9" id="arTICulated-and-EAsy">his iDEaS were CLEARly [arTICulated and EAsy] to FOLlow.</li>
+				<li className="list-none margin-bottom-20">Các ý tưởng của anh ấy rõ ràng [được diễn đạt lưu loát và dễ dàng] để theo kịp.</li>
 
-				<li value="10">it was CLEARly inTENded as a JOKE.</li>
-				<li className="list-none margin-bottom-20">Rõ ràng đó là một trò đùa.</li>
+				<li value="10" id="inTENDed-as">it was CLEARly [inTENDed as] a JOKE.</li>
+				<li className="list-none margin-bottom-20">Rõ ràng là [được định ý] như một trò đùa.</li>
 
 			</ol>
 

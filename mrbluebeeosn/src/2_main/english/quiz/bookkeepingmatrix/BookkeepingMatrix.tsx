@@ -78,7 +78,7 @@ export default function (): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [to ANalyze the QUARTerly TAX impliCAtions] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] built from an infinitive structure that carries its own complex corporate object. \n\n Function: [to ANalyze the QUARTerly TAX impliCAtions] - [ADjective PHRASE][TÍNH CỤM] modifying the accounting professional noun \"conSULtant\" by identifying their specific intended responsibility."
+			explanation: "Form: [to ANalyze the QUARTerly TAX impliCAtions] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] built from an infinitive structure that carries its own complex corporate object. \n\n Function: [to ANalyze the QUARTerly TAX impliCAtions] - [ADjective PHRASE][TÍNH CỤM] modifying the accounting professional noun \"conSULtant\" by identifying their specific inTENDed responsibility."
 		},
 		{
 			id: 7,

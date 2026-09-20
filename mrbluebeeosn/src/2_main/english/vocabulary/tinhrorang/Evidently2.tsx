@@ -26,6 +26,53 @@ export default function EVidently2(): React.JSX.Element {
 				</sup>
 			</h1>
 
+			<div className="example">
+																			
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#CLEAR-that">CLEAR that</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#FALSE">FALSE</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#PLEASED-with">PLEASED with</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#surPRISED-by">surPRISED by</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#WORried-about">WORried a<strong>bout</strong></HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#unprePARED-for">unprePARED for</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#inTENDed-as">inTENDed as</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#aWARE-of">aWARE of</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#conNECTed">conNECTed</HashLink>
+					</span> &nbsp;
+
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#misTAken-about">misTAken a<strong>bout</strong></HashLink>
+					</span> &nbsp;
+
+				</p>
+
+			</div>
+
 			{/* This is the content of Vocabulary Term. */}
 
 			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>EVidently</strong>" (một cách rõ ràng) và các cụm từ hay đi kèm nhé.</p>
@@ -38,7 +85,7 @@ export default function EVidently2(): React.JSX.Element {
 						
 						<span className="highlight-255-padding-3-6">
 							
-							[EVidently \<Link to="/pronunciation/5-vowel-system">EV i de̛nt ly</Link>\ /ˈevɪdəntli/ ⬤••• (4x)
+							EVidently \<Link to="/pronunciation/5-vowel-system">EV i de̛nt ly</Link>\ /ˈevɪdəntli/ ⬤••• (4x)
 							
 						</span>
 							
@@ -56,35 +103,35 @@ export default function EVidently2(): React.JSX.Element {
 
 			<ol className="margin-top-30 padding-left-30">
 
-				<li value="1">it was EVidently CLEAR that she was upSET.</li>
-				<li className="list-none margin-bottom-20">Rõ ràng là cô ấy rất buồn.</li>
+				<li value="1" id="CLEAR-that">it was EVidently [CLEAR that] she was upSET.</li>
+				<li className="list-none margin-bottom-20">Rõ ràng là [thấy rõ rằng] cô ấy đã buồn bã lẫn tức giận.</li>
 
-				<li value="2">his ALibi was EVidently FALSE.</li>
-				<li className="list-none margin-bottom-20">Bằng chứng ngoại phạm của anh ta rõ ràng là sai.</li>
+				<li value="2" id="FALSE">his ALibi was EVidently [FALSE].</li>
+				<li className="list-none margin-bottom-20">Bằng chứng ngoại phạm của anh ta rõ ràng là [sai].</li>
 
-				<li value="3">she was EVidently PLEASED with the GIFT.</li>
-				<li className="list-none margin-bottom-20">Cô ấy rõ ràng rất hài lòng với món quà.</li>
+				<li value="3" id="PLEASED-with">she was EVidently [PLEASED with] the GIFT.</li>
+				<li className="list-none margin-bottom-20">Cô ấy rõ ràng [hài lòng với] món quà.</li>
 
-				<li value="4">he was EVidently surPRISED by the NEWS.</li>
-				<li className="list-none margin-bottom-20">Anh ấy rõ ràng rất ngạc nhiên trước tin tức đó.</li>
+				<li value="4" id="surPRISED-by">he was EVidently [surPRISED by] the NEWS.</li>
+				<li className="list-none margin-bottom-20">Anh ấy rõ ràng [ngạc nhiên trước] tin tức đó.</li>
 
-				<li value="5">she was EVidently WORried a<strong>bout</strong> her SON'S HEALTH.</li>
-				<li className="list-none margin-bottom-20">Cô ấy rõ ràng rất lo lắng về sức khỏe của con trai mình.</li>
+				<li value="5" id="WORried-about">she was EVidently [WORried a<strong>bout</strong>] her SON'S HEALTH.</li>
+				<li className="list-none margin-bottom-20">Cô ấy rõ ràng [lo lắng về] sức khỏe của con trai mình.</li>
 
-				<li value="6">he was EVidently unprePARED for the TEST.</li>
-				<li className="list-none margin-bottom-20">Anh ấy rõ ràng chưa chuẩn bị cho bài kiểm tra.</li>
+				<li value="6" id="unprePARED-for">he was EVidently [unprePARED for] the TEST.</li>
+				<li className="list-none margin-bottom-20">Anh ấy rõ ràng [chưa chuẩn bị cho] bài kiểm tra.</li>
 
-				<li value="7">it was EVidently inTENded as a JOKE.</li>
-				<li className="list-none margin-bottom-20">Rõ ràng là nó được nói đùa.</li>
+				<li value="7" id="inTENDed-as">it was EVidently [inTENDed as] a JOKE.</li>
+				<li className="list-none margin-bottom-20">Rõ ràng là [được định ý như] một trò đùa.</li>
 
-				<li value="8">she was EVidently aWARE of the DANger.</li>
-				<li className="list-none margin-bottom-20">Cô ấy rõ ràng biết về mối nguy hiểm.</li>
+				<li value="8" id="aWARE-of">she was EVidently [aWARE of] the DANger.</li>
+				<li className="list-none margin-bottom-20">Cô ấy rõ ràng [biết về] mối nguy hiểm.</li>
 
-				<li value="9">the TWO eVENTS were EVidently conNECTed.</li>
-				<li className="list-none margin-bottom-20">Hai sự kiện đó rõ ràng có liên quan với nhau.</li>
+				<li value="9" id="conNECTed">the TWO eVENTS were EVidently [conNECTed].</li>
+				<li className="list-none margin-bottom-20">Hai sự kiện đó rõ ràng [có liên quan với nhau].</li>
 
-				<li value="10">you were EVidently misTAken a<strong>bout</strong> the DATE.</li>
-				<li className="list-none margin-bottom-20">Bạn rõ ràng đã nhầm về ngày.</li>
+				<li value="10" id="misTAken-about">you were EVidently [misTAken a<strong>bout</strong>] the DATE.</li>
+				<li className="list-none margin-bottom-20">Bạn rõ ràng [đã nhầm về] ngày.</li>
 
 			</ol>
 
