@@ -155,7 +155,7 @@ export default function SOFTly1(): React.JSX.Element {
           <li>he SHOUTed LOUDly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy hét lên rất to.</li>
 
-          <li>he HANdled the PACKage ROUGHly.</li>
+          <li>he HANDled the PACKage ROUGHly.</li>
           <li className="list-none">Anh ấy cầm gói hàng một cách thô bạo.</li>
 
         </ul>

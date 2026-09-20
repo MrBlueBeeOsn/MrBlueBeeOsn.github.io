@@ -152,7 +152,7 @@ export default function GENTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he HANdled the PACKage ROUGHly.</li>
+          <li>he HANDled the PACKage ROUGHly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy cầm gói hàng một cách thô bạo.</li>
 
           <li>the STORM RAGED VIolently.</li>

@@ -30,43 +30,43 @@ export default function GENTly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#caRESSED">caRESSED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#PUSHED">PUSHED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SHOOK">SHOOK</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SLOPED-DOWN-to">SLOPED DOWN to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#RAINing">RAINing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SPOKE-to">SPOKE to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SMILED-at">SMILED at</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LOWered-into">LOWered <strong>in</strong>to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TAPPED-on">TAPPED on</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SWAYED-in">SWAYED in</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function GENTly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she GENTly caRESSED the BAby's CHEEK.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng vuốt ve má em bé.</li>
+        <li value="1" id="caRESSED">she GENTly [caRESSED] the BAby's CHEEK.</li>
+        <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng [vuốt ve] má em bé.</li>
 
-        <li value="2" id="">he GENTly PUSHED the DOOR Open.</li>
-        <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng đẩy cửa ra.</li>
+        <li value="2" id="PUSHED">he GENTly [PUSHED] the DOOR Open.</li>
+        <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng [đẩy] cửa ra.</li>
 
-        <li value="3" id="">she GENTly SHOOK the BOTtle to MIX the inGREdients.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng lắc chai để trộn các thành phần.</li>
+        <li value="3" id="SHOOK">she GENTly [SHOOK] the BOTtle to MIX the inGREdients.</li>
+        <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng [lắc] chai để trộn các thành phần.</li>
 
-        <li value="4" id="">the HILL GENTly SLOPED down to the VALley.</li>
-        <li className="list-none margin-bottom-20">Ngọn đồi thoai thoải xuống thung lũng.</li>
+        <li value="4" id="SLOPED-DOWN-to">the HILL GENTly [SLOPED DOWN to] the VALley.</li>
+        <li className="list-none margin-bottom-20">Ngọn đồi thoai thoải [dốc xuống] thung lũng.</li>
 
-        <li value="5" id="">it was GENTly RAINing outSIDE.</li>
-        <li className="list-none margin-bottom-20">Trời đang mưa phùn bên ngoài.</li>
+        <li value="5" id="RAINing">it was GENTly [RAINing] outSIDE.</li>
+        <li className="list-none margin-bottom-20">Trời đang [mưa phùn] bên ngoài.</li>
 
-        <li value="6" id="">she SPOKE GENTly to the CHILD.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nói nhẹ nhàng với đứa trẻ.</li>
+        <li value="6" id="SPOKE-to">she [SPOKE] GENTly [to] the CHILD.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [nói] nhẹ nhàng [với] đứa trẻ.</li>
 
-        <li value="7" id="">he GENTly SMILED at her.</li>
-        <li className="list-none margin-bottom-20">Anh ấy mỉm cười nhẹ nhàng với cô ấy.</li>
+        <li value="7" id="SMILED-at">he GENTly [SMILED at] her.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [mỉm cười] nhẹ nhàng [với] cô ấy.</li>
 
-        <li value="8" id="">she GENTly LOWered herSELF into the CHAIR.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng ngồi xuống ghế.</li>
+        <li value="8" id="LOWered-into">she GENTly [LOWered] herSELF [<strong>in</strong>to] the CHAIR.</li>
+        <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng [ngồi xuống] ghế.</li>
 
-        <li value="9" id="">he GENTly TAPPED on the WINdow.</li>
-        <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng gõ vào cửa sổ.</li>
+        <li value="9" id="TAPPED-on">he GENTly [TAPPED on] the WINdow.</li>
+        <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng [gõ vào] cửa sổ.</li>
 
-        <li value="10" id="">the TREES GENTly SWAYED in the BREEZE.</li>
-        <li className="list-none margin-bottom-20">Những cái cây đung đưa nhẹ nhàng trong gió.</li>
+        <li value="10" id="SWAYED-in">the TREES GENTly [SWAYED in] the BREEZE.</li>
+        <li className="list-none margin-bottom-20">Những cái cây [đung đưa] nhẹ nhàng [trong] gió.</li>
 
       </ol>
 

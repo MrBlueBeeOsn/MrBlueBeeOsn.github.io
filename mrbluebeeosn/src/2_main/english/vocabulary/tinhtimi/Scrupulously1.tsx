@@ -140,7 +140,7 @@ export default function SCRUpulously1(): React.JSX.Element {
           <li>he PLANNED the eVENT <Link to="/vocabulary/meTICulously-1">meTICulously</Link>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy lên kế hoạch cho sự kiện một cách kỹ lưỡng.</li>
 
-          <li>he HANdled the GLASS <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
+          <li>he HANDled the GLASS <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy xử lý cái ly một cách cẩn thận.</li>
 
           <li className="list-none">he CHECKED the DOCuments <Link to="/vocabulary/THORoughly-1">THORoughly</Link>.</li>
@@ -160,7 +160,7 @@ export default function SCRUpulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he HANdled the GLASS CARElessly.</li>
+          <li>he HANDled the GLASS CARElessly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy xử lý cái ly một cách bất cẩn.</li>
 
           <li>he perFORMED his DUties NEGligently.</li>
