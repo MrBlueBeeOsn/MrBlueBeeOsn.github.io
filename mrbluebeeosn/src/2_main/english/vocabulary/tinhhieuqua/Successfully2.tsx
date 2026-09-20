@@ -118,7 +118,7 @@ export default function sucCESSfully2(): React.JSX.Element {
         <li value="5" id="">she sucCESSfully aDAPted to the NEW enVIronment.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã thích nghi thành công với môi trường mới.</li>
 
-        <li value="6" id="">the CAStle was sucCESSfully deFENded against the atTACK.</li>
+        <li value="6" id="">the CAStle was sucCESSfully deFENDed against the atTACK.</li>
         <li className="list-none margin-bottom-20">Lâu đài đã được bảo vệ thành công trước cuộc tấn công.</li>
 
         <li value="7" id="">he sucCESSfully reCOVered from the ILLness.</li>

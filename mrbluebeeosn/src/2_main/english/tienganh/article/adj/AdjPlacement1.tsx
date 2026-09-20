@@ -276,12 +276,12 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we obSERVED the [inCREASing] deMAND.</li>
+					<li>we obSERVED the [inCREAsing] deMAND.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã quan sát nhu cầu [đang gia tăng].</li>
 			
-					<li className="list-none">Hình thái: [inCREASing] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "inCREASE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu thị tính tiếp diễn.</li>
+					<li className="list-none">Hình thái: [inCREAsing] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "inCREASE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu thị tính tiếp diễn.</li>
 			
-					<li className="list-none">Chức năng: [inCREASing] - [ADjective HEAD][TÍNH LÕI] định hình trạng thái động đang phát triển cho [NOUN HEAD][DANH LÕI] "deMAND".</li>
+					<li className="list-none">Chức năng: [inCREAsing] - [ADjective HEAD][TÍNH LÕI] định hình trạng thái động đang phát triển cho [NOUN HEAD][DANH LÕI] "deMAND".</li>
 			
 				</ul>
 

@@ -30,43 +30,43 @@ export default function STEADily2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#inCREAsing-over">inCREAsing <strong>o</strong>ver</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#deCREAsing">deCREAsing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GROWing">GROWing</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#deCLIning">deCLIning</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#imPROVing-with">imPROVing with</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WORKED-on">WORKED on</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#RAINED-throughout">RAINED through<strong>out</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FLOWED-towards">FLOWED to<strong>wards</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#adVANCED-across">adVANCED a<strong>cross</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HELD">HELD</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function STEADily2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the COMpany's PROFits have been STEADily inCREASing <strong>o</strong>verthe PAST YEAR.</li>
-        <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng một cách đều đặn trong năm qua.</li>
+        <li value="1" id="inCREAsing-over">the COMpany's PROFits have been STEADily [inCREAsing <strong>o</strong>ver] the PAST YEAR.</li>
+        <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã [tăng] một cách đều đặn trong năm qua.</li>
 
-        <li value="2" id="">the unempLOYment RATE has been STEADily deCREASing.</li>
-        <li className="list-none margin-bottom-20">Tỷ lệ thất nghiệp đã giảm một cách đều đặn.</li>
+        <li value="2" id="deCREAsing">the unempLOYment RATE has been STEADily [deCREAsing].</li>
+        <li className="list-none margin-bottom-20">Tỷ lệ thất nghiệp đã [giảm] một cách đều đặn.</li>
 
-        <li value="3" id="">the SMALL BUSIness has been STEADily GROWing its CUStomer BASE.</li>
-        <li className="list-none margin-bottom-20">Doanh nghiệp nhỏ đã phát triển cơ sở khách hàng của mình một cách đều đặn.</li>
+        <li value="3" id="GROWing">the SMALL BUSIness has been STEADily [GROWing] its CUStomer BASE.</li>
+        <li className="list-none margin-bottom-20">Doanh nghiệp nhỏ đã [phát triển] cơ sở khách hàng của mình một cách đều đặn.</li>
 
-        <li value="4" id="">the popuLARity of the PRODuct has been STEADily deCLIning.</li>
-        <li className="list-none margin-bottom-20">Sự phổ biến của sản phẩm đã suy giảm một cách đều đặn.</li>
+        <li value="4" id="deCLIning">the popuLARity of the PRODuct has been STEADily [deCLIning].</li>
+        <li className="list-none margin-bottom-20">Sự phổ biến của sản phẩm đã [suy giảm] một cách đều đặn.</li>
 
-        <li value="5" id="">her ENGlish SKILLS have been STEADily imPROVing with PRACtice.</li>
-        <li className="list-none margin-bottom-20">Kỹ năng tiếng Anh của cô ấy đã cải thiện một cách đều đặn nhờ luyện tập.</li>
+        <li value="5" id="imPROVing-with">her ENGlish SKILLS have been STEADily [imPROVing with] PRACtice.</li>
+        <li className="list-none margin-bottom-20">Kỹ năng tiếng Anh của cô ấy đã [cải thiện] một cách đều đặn [nhờ] luyện tập.</li>
 
-        <li value="6" id="">he STEADily WORKED on the PROJect, MAking conSIStent PROGress.</li>
-        <li className="list-none margin-bottom-20">Anh ấy làm việc trên dự án một cách đều đặn, đạt được tiến bộ ổn định.</li>
+        <li value="6" id="WORKED-on">he STEADily [WORKED on] the PROJect, MAking conSIStent PROGress.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [làm việc trên] dự án một cách đều đặn, đạt được tiến bộ ổn định.</li>
 
-        <li value="7" id="">it STEADily RAINED throughout the MORNing.</li>
-        <li className="list-none margin-bottom-20">Trời mưa đều đặn suốt buổi sáng.</li>
+        <li value="7" id="RAINED-throughout">it STEADily [RAINED through<strong>out</strong>] the MORNing.</li>
+        <li className="list-none margin-bottom-20">Trời [mưa] đều đặn [suốt] buổi sáng.</li>
 
-        <li value="8" id="">the RIVer STEADily FLOWED toWARDS the SEA.</li>
-        <li className="list-none margin-bottom-20">Dòng sông chảy đều đặn ra biển.</li>
+        <li value="8" id="FLOWED-towards">the RIVer STEADily [FLOWED to<strong>wards</strong>] the SEA.</li>
+        <li className="list-none margin-bottom-20">Dòng sông [chảy] đều đặn [ra] biển.</li>
 
-        <li value="9" id="">the ARmy STEADily adVANCED aCROSS the TERritory.</li>
-        <li className="list-none margin-bottom-20">Quân đội tiến lên một cách đều đặn trên khắp lãnh thổ.</li>
+        <li value="9" id="adVANCED-across">the ARmy STEADily [adVANCED a<strong>cross</strong>] the TERritory.</li>
+        <li className="list-none margin-bottom-20">Quân đội [tiến lên] một cách đều đặn [trên] khắp lãnh thổ.</li>
 
-        <li value="10" id="">she STEADily HELD the CAMERa to TAKE a CLEAR PICture.</li>
-        <li className="list-none margin-bottom-20">Cô ấy giữ máy ảnh một cách chắc chắn để chụp một bức ảnh rõ nét.</li>
+        <li value="10" id="HELD">she STEADily [HELD] the CAMERa to TAKE a CLEAR PICture.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [giữ] máy ảnh một cách chắc chắn để chụp một bức ảnh rõ nét.</li>
 
       </ol>
 

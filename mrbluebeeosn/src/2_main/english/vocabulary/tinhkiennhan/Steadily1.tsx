@@ -104,7 +104,7 @@ export default function STEADily1(): React.JSX.Element {
           <li id="ADverb">the RAIN FELL STEADily throughout the NIGHT.</li>
           <li className="margin-bottom-20 list-none">Mưa rơi đều đặn suốt đêm.</li>
 
-          <li>the COMpany's PROFits have been inCREASing STEADily for the PAST YEAR.</li>
+          <li>the COMpany's PROFits have been inCREAsing STEADily for the PAST YEAR.</li>
           <li className="margin-bottom-20 list-none">Lợi nhuận của công ty đã tăng trưởng ổn định trong năm qua.</li>
 
           <li>he WALKED STEADily along the PATH.</li>
@@ -274,10 +274,10 @@ export default function STEADily1(): React.JSX.Element {
 
           <ol>
 
-            <li>the COMpany's PROFits have been inCREASing for the PAST YEAR.</li>
+            <li>the COMpany's PROFits have been inCREAsing for the PAST YEAR.</li>
             <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng trưởng trong năm qua.</li>
 
-            <li value="2">the COMpany's PROFits have been inCREASing STEADily for the PAST YEAR.</li>
+            <li value="2">the COMpany's PROFits have been inCREAsing STEADily for the PAST YEAR.</li>
             <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng trưởng ổn định trong năm qua.</li>
 
           </ol>

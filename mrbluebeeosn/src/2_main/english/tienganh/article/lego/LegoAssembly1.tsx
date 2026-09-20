@@ -769,12 +769,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>diRECtors apPROVE [inCREASing the BUDget].</li>
+					<li>diRECtors apPROVE [inCREAsing the BUDget].</li>
 					<li className="margin-bottom-20 list-none">Các giám đốc phê duyệt [việc tăng ngân sách].</li>
 			
-					<li className="list-none">Hình thái: [inCREASing the BUDget] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] inCREASing mang tính chất chuyển động kéo dài có đối tượng đi kèm.</li>
+					<li className="list-none">Hình thái: [inCREAsing the BUDget] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] inCREAsing mang tính chất chuyển động kéo dài có đối tượng đi kèm.</li>
 
-					<li className="list-none">Chức năng: [inCREASing the BUDget] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm phần [OBject PROnoun][TÂN ĐẠI], chịu tác động trực tiếp đứng sau hành động điều khiển apPROVE.</li>
+					<li className="list-none">Chức năng: [inCREAsing the BUDget] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm phần [OBject PROnoun][TÂN ĐẠI], chịu tác động trực tiếp đứng sau hành động điều khiển apPROVE.</li>
 			
 				</ul>
 			
