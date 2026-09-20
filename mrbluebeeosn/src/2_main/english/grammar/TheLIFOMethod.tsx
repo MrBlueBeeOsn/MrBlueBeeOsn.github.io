@@ -89,7 +89,7 @@ export default function TheLIFOMethod(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>sepTEMber 20, 2026 · by 💎GEM ·</span>
+          <span>sepTEMber 20, 2026 · by 💎GOOgle SEARCH AI ·</span>
         </div>
 
         <div className="eye-icon no-margin">

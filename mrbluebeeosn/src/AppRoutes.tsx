@@ -120,6 +120,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const VerbsS = lazy(() => import('@/2_main/english/grammar/VerbsS'));
 	const VerbAndObject = lazy(() => import('@/2_main/english/grammar/VerbAndObject'));
 	const TheLIFOMethod = lazy(() => import('@/2_main/english/grammar/TheLIFOMethod'));
+	const The6ElementFormula = lazy(() => import('@/2_main/english/grammar/The6ElementFormula'));
 
 
 	// Quiz
@@ -752,6 +753,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/verbs-s?" element={<VerbsS />} />
 					<Route path="/grammar/verb-and-object" element={<VerbAndObject />} />
 					<Route path="/grammar/the-LIFO-method" element={<TheLIFOMethod />} />
+					<Route path="/grammar/ the-6-element-formula" element={<The6ElementFormula />} />
 
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />
