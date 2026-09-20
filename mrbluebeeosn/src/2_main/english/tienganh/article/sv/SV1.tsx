@@ -229,44 +229,48 @@ export default function SV1(): React.JSX.Element {
           <li className="list-none">[<strong>asSERTive MOdal VERB</strong>][<strong>ÁP THÁI ĐỘNG</strong>]: will, shall, can, must, have to, may</li>
           <li className="margin-bottom-20 list-none">Hành động mang tính trực diện, [Áp] đặt thực tế xuống người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB][PHỨC ÁP THÁI ĐỘNG] thống nhất.</li>
 
-					<li value="5">[<strong>BASE VERB</strong>][<strong>NỀN ĐỘNG</strong>]: LEARN, SPEAK, BUILD</li>
-          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they LEARN, SPEAK, BUILD.</li>
+					<li value="5" className="margin-bottom-20">[<strong>non-FInite VERB</strong>][<strong>VÔ HẠN ĐỘNG</strong>]: HAVing NO TENSE or NO SUBject</li>
 
-          <li value="6">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: LEARN, SPEAK, BUILD</li>
+          <li className="list-none">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: LEARN, SPEAK, BUILD</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, đã giải phóng hoàn toàn và không đi kèm to, thường đứng ngay sau [PARTicle VERB][HẠT ĐỘNG] "to", [SOFT MOdal][Ý THÁI] hay [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] hoặc [ROOT VERB][GỐC ĐỘNG] như MAKE, LET, let's, HELP, HAVE, SEE, HEAR, WATCH, FEEL, NOTICE.</li>
       
-          <li value="7">[<strong>FULL inFINitive VERB</strong>][<strong>TOÀN NGUYÊN ĐỘNG</strong>]: to LEARN, to SPEAK, to BUILD</li>
+          <li className="list-none">[<strong>FULL inFINitive VERB</strong>][<strong>TOÀN NGUYÊN ĐỘNG</strong>]: to LEARN, to SPEAK, to BUILD</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [PARTicle VERB][HẠT ĐỘNG] và hành động [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] phía sau.</li>
 
-          <li value="8">[<strong>SOFT MOdal and BARE inFINitive VERB</strong>][<strong>Ý THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: would BUILD, could SPEAK</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị và hành động [Thuần] khiết.</li>
-      
-          <li value="9">[<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will BUILD, can SPEAK</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết.</li>
+					<li className="list-none">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: LEARNing, SPEAKing, BUILDing</li>
+          <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing, biểu thị tính chất đang [Tiếp] diễn, kéo dài.</li>
 
-          <li value="10">[<strong>auXILiary and BARE inFINitive VERB</strong>][<strong>TRỢ và THUẦN NGUYÊN ĐỘNG</strong>]: DID SPEAK, DOES BUILD</li>
-          <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được ngăn cách bởi một khoảng trắng.</li>
+          <li className="list-none">[<strong>PAST PARTiciple VERB</strong>][<strong>ĐÃ HOÀN ĐỘNG</strong>]: LEARNT, SPOKEN, BUILT, been</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng hoàn tất (cột 3/-ed), biểu thị tính chất trọn vẹn, [Hoàn] thành.</li>
 
-          <li value="11">[<strong>THIRD-PERson SINGular VERB</strong>][<strong>NGÔI 3 S ĐỘNG</strong>]: SPEAKS, BUILDS, WORKS</li>
+          <li value="6" className="margin-bottom-20">[<strong>FInite VERB</strong>][<strong>HẠN ĐỘNG</strong>]: HAVing TENSE or SUBject</li>
+
+					<li className="list-none">[<strong>BASE VERB</strong>][<strong>NỀN ĐỘNG</strong>]: LEARN, SPEAK, BUILD</li>
+          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they LEARN, SPEAK, BUILD.</li>
+					
+					<li className="list-none">[<strong>THIRD-PERson SINGular VERB</strong>][<strong>NGÔI 3 S ĐỘNG</strong>]: SPEAKS, BUILDS, WORKS</li>
           <li className="margin-bottom-20 list-none">Hành động chính mang [Thời] chia thời đơn, tích hợp trọn vẹn trạng thái [Thời] gian hiện tại và hành động [Thuần] khiết hòa tan gọn gàng vào một chữ duy nhất.</li>
 
 					<li className="list-none">[<strong>PAST VERB</strong>][<strong>ĐÃ ĐỘNG</strong>]: SPOKE</li>
           <li className="margin-bottom-20 list-none">Hành động chính mang [Thời] chia thời đơn, tích hợp trọn vẹn trạng thái [Thời] gian quá khứ và hành động [Thuần] khiết hòa tan gọn gàng vào một chữ duy nhất.</li>
       
-          <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: LEARNing, SPEAKing, BUILDing</li>
-          <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing, biểu thị tính chất đang [Tiếp] diễn, kéo dài.</li>
-
-          <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>ĐÃ HOÀN ĐỘNG</strong>]: LEARNT, SPOKEN, BUILT, been</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng hoàn tất (cột 3/-ed), biểu thị tính chất trọn vẹn, [Hoàn] thành.</li>
-      
-          <li value="14">[<strong>auXILiary and PRESent PARTiciple VERB</strong>][<strong>TRỢ và HIỆN TIẾP ĐỘNG</strong>]: is SPEAKing, was BUILDing</li>
+          <li className="list-none">[<strong>auXILiary and PRESent PARTiciple VERB</strong>][<strong>TRỢ và HIỆN TIẾP ĐỘNG</strong>]: is SPEAKing, was BUILDing</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa từ mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
 
-          <li value="15">[<strong>auXILiary and PAST PARTiciple VERB</strong>][<strong>TRỢ và ĐÃ HOÀN ĐỘNG</strong>]: has SPOken, had BUILT</li>
+          <li className="list-none">[<strong>auXILiary and PAST PARTiciple VERB</strong>][<strong>TRỢ và ĐÃ HOÀN ĐỘNG</strong>]: has SPOken, had BUILT</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa từ mang [Thời] và hành động mang tính [Hoàn] thành.</li>
       
-          <li value="16">[<strong>auXILiary,  PAST and PRESent PARTiciple VERB</strong>][<strong>TRỢ, ĐÃ VÀ HIỆN TIẾP ĐỘNG</strong>]: has been SPEAKing, had been BUILDing</li>
-          <li className="list-none">Sự hợp nhất tuyến tính đồng thời của ba lớp năng lượng: [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
+          <li className="list-none">[<strong>auXILiary, PAST and PRESent PARTiciple VERB</strong>][<strong>TRỢ, ĐÃ VÀ HIỆN TIẾP ĐỘNG</strong>]: has been SPEAKing, had been BUILDing</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính đồng thời của ba lớp năng lượng: [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
+
+					<li className="list-none">[<strong>SOFT MOdal and BARE inFINitive VERB</strong>][<strong>Ý THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: would BUILD, could SPEAK</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị và hành động [Thuần] khiết.</li>
+      
+          <li className="list-none">[<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will BUILD, can SPEAK</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết.</li>
+
+          <li className="list-none">[<strong>auXILiary and BARE inFINitive VERB</strong>][<strong>TRỢ và THUẦN NGUYÊN ĐỘNG</strong>]: DID SPEAK, DOES BUILD</li>
+          <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được ngăn cách bởi một khoảng trắng.</li>
       
         </ol>
 

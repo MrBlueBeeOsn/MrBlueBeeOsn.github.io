@@ -170,44 +170,48 @@ export default function NineBox1(): React.JSX.Element {
           <li className="list-none">[<strong>asSERTive MOdal VERB</strong>][<strong>ÁP THÁI ĐỘNG</strong>]: will, shall, can, must, have to, may</li>
           <li className="margin-bottom-20 list-none">Khối biểu thị [Thái] độ trực diện, mang tính cam kết, ép buộc hoặc [Áp] đặt trực tiếp xuống đối tượng nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB][PHỨC ÁP THÁI ĐỘNG] thống nhất.</li>
 
-					<li value="5">[<strong>BASE VERB</strong>][<strong>NỀN ĐỘNG</strong>]: ANalyze, comPILE, transMIT</li>
-          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they ANalyze, comPILE, transMIT.</li>
+					<li value="5" className="margin-bottom-20">[<strong>non-FInite VERB</strong>][<strong>VÔ HẠN ĐỘNG</strong>]: HAVing NO TENSE or NO SUBject</li>
 
-          <li value="6">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: ANalyze, comPILE, transMIT</li>
+          <li className="list-none">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: ANalyze, comPILE, transMIT</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng độc lập, hoàn toàn được giải phóng khỏi các liên kết định hướng và không đi kèm "to", thường đứng ngay sau [PARTicle VERB][HẠT ĐỘNG] "to", [SOFT MOdal][Ý THÁI] hay [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] hoặc [ROOT VERB][GỐC ĐỘNG] sai khiến / tri giác (MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL).</li>
       
-          <li value="7">[<strong>FULL inFINitive VERB</strong>][<strong>TOÀN NGUYÊN ĐỘNG</strong>]: to ANalyze, to transMIT</li>
+          <li className="list-none">[<strong>FULL inFINitive VERB</strong>][<strong>TOÀN NGUYÊN ĐỘNG</strong>]: to ANalyze, to transMIT</li>
           <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt định hướng nguyên bản [PARTicle VERB][HẠT ĐỘNG] và hành động [Thuần] khiết, nguyên bản.</li>
 
-          <li value="8">[<strong>SOFT MOdal and BARE inFINitive VERB</strong>][<strong>Ý THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: would transMIT, could HELP</li>
-          <li className="margin-bottom-20 list-none">Sự phối hợp tuyến tính giữa [Thái] độ nhã nhặn, không áp đặt và hành động [Thuần] khiết, nguyên bản.</li>
-      
-          <li value="9">[<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will transMIT, can ANalyze</li>
-          <li className="margin-bottom-20 list-none">Sự phối hợp tuyến tính giữa [Thái] độ khẳng định, [Áp] đặt thực tế và hành động [Thuần] khiết, nguyên bản.</li>
+					<li className="list-none">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: ANalyzing, comPILing, transMITting</li>
+          <li className="margin-bottom-20 list-none">Hành động tích hợp thêm đuôi -ing nhằm biểu thị trạng thái đang diễn ra, kéo dài liên tục tại thời điểm nói.</li>
 
-          <li value="10">[<strong>auXILiary and BARE inFINitive VERB</strong>][<strong>TRỢ và THUẦN NGUYÊN ĐỘNG</strong>]: DID ANalyze, DOES comPILE</li>
-          <li className="margin-bottom-20 list-none">Sự song hành trực tiếp giữa thành phần mang năng lượng [Thời] gian và hành động [Thuần] khiết, được phân tách rõ ràng bằng một khoảng trắng trong câu.</li>
+          <li className="list-none">[<strong>PAST PARTiciple VERB</strong>][<strong>ĐÃ HOÀN ĐỘNG</strong>]: ANalyzed, comPILED, been, transMITted</li>
+          <li className="margin-bottom-20 list-none">Hành động được chuyển đổi sang dạng biến đổi cột ba hoặc thêm đuôi -ed nhằm biểu thị tính chất trọn vẹn, [Hoàn] thành hoặc mang sắc thái bị động.</li>
 
-          <li value="11">[<strong>THIRD-PERson SINGular VERB</strong>][<strong>NGÔI 3 S ĐỘNG</strong>]: ANalyzes, comPILES</li>
+          <li value="6" className="margin-bottom-20">[<strong>FInite VERB</strong>][<strong>HẠN ĐỘNG</strong>]: HAVing TENSE or SUBject</li>
+
+					<li className="list-none">[<strong>BASE VERB</strong>][<strong>NỀN ĐỘNG</strong>]: ANalyze, comPILE, transMIT</li>
+          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they ANalyze, comPILE, transMIT.</li>
+					
+					<li className="list-none">[<strong>THIRD-PERson SINGular VERB</strong>][<strong>NGÔI 3 S ĐỘNG</strong>]: ANalyzes, comPILES</li>
           <li className="margin-bottom-20 list-none">Sự hòa tan tuyệt đối khi năng lượng [Thời] gian hiện tại và hành động [Thuần] khiết, nguyên bản chung vào trong cùng một chữ duy nhất.</li>
 
 					<li className="list-none">[<strong>PAST VERB</strong>][<strong>ĐÃ ĐỘNG</strong>]: ANalyzed</li>
           <li className="margin-bottom-20 list-none">Sự hòa tan tuyệt đối khi năng lượng [Thời] gian quá khứ và hành động [Thuần] khiết, nguyên bản chung vào trong cùng một chữ duy nhất.</li>
       
-          <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: ANalyzing, comPILing, transMITting</li>
-          <li className="margin-bottom-20 list-none">Hành động tích hợp thêm đuôi -ing nhằm biểu thị trạng thái đang diễn ra, kéo dài liên tục tại thời điểm nói.</li>
-
-          <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>ĐÃ HOÀN ĐỘNG</strong>]: ANalyzed, comPILED, been, transMITted</li>
-          <li className="margin-bottom-20 list-none">Hành động được chuyển đổi sang dạng biến đổi cột ba hoặc thêm đuôi -ed nhằm biểu thị tính chất trọn vẹn, [Hoàn] thành hoặc mang sắc thái bị động.</li>
-      
-          <li value="14">[<strong>auXILiary and PRESent PARTiciple VERB</strong>][<strong>TRỢ và HIỆN TIẾP ĐỘNG</strong>]: is ANalyzing, was comPILing</li>
+          <li className="list-none">[<strong>auXILiary and PRESent PARTiciple VERB</strong>][<strong>TRỢ và HIỆN TIẾP ĐỘNG</strong>]: is ANalyzing, was comPILing</li>
           <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính chặt chẽ giữa thành phần mang mốc [Thời] gian và trạng thái hành động đang diễn tiến.</li>
 
-          <li value="15">[<strong>auXILiary and PAST PARTiciple VERB</strong>][<strong>TRỢ và ĐÃ HOÀN ĐỘNG</strong>]: has ANalyzed, had comPILED</li>
+          <li className="list-none">[<strong>auXILiary and PAST PARTiciple VERB</strong>][<strong>TRỢ và ĐÃ HOÀN ĐỘNG</strong>]: has ANalyzed, had comPILED</li>
           <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính chặt chẽ giữa thành phần mang mốc [Thời] gian và trạng thái hành động đã [Hoàn] thành.</li>
       
-          <li value="16">[<strong>auXILiary,  PAST and PRESent PARTiciple VERB</strong>][<strong>TRỢ, ĐÃ VÀ HIỆN TIẾP ĐỘNG</strong>]: has been ANalyzing, had been comPILing</li>
-          <li className="list-none">Sự tích hợp tuyến tính đa tầng, nén đồng thời ba nguồn năng lượng: mốc [Thời] gian, tính [Hoàn] thành và tính [Tiếp] diễn vào cùng một khối.</li>
+          <li className="list-none">[<strong>auXILiary, PAST and PRESent PARTiciple VERB</strong>][<strong>TRỢ, ĐÃ VÀ HIỆN TIẾP ĐỘNG</strong>]: has been ANalyzing, had been comPILing</li>
+          <li className="margin-bottom-20 list-none">Sự tích hợp tuyến tính đa tầng, nén đồng thời ba nguồn năng lượng: mốc [Thời] gian, tính [Hoàn] thành và tính [Tiếp] diễn vào cùng một khối.</li>
+
+					<li className="list-none">[<strong>SOFT MOdal and BARE inFINitive VERB</strong>][<strong>Ý THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: would transMIT, could HELP</li>
+          <li className="margin-bottom-20 list-none">Sự phối hợp tuyến tính giữa [Thái] độ nhã nhặn, không áp đặt và hành động [Thuần] khiết, nguyên bản.</li>
+      
+          <li className="list-none">[<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will transMIT, can ANalyze</li>
+          <li className="margin-bottom-20 list-none">Sự phối hợp tuyến tính giữa [Thái] độ khẳng định, [Áp] đặt thực tế và hành động [Thuần] khiết, nguyên bản.</li>
+
+          <li className="list-none">[<strong>auXILiary and BARE inFINitive VERB</strong>][<strong>TRỢ và THUẦN NGUYÊN ĐỘNG</strong>]: DID ANalyze, DOES comPILE</li>
+          <li className="margin-bottom-20 list-none">Sự song hành trực tiếp giữa thành phần mang năng lượng [Thời] gian và hành động [Thuần] khiết, được phân tách rõ ràng bằng một khoảng trắng trong câu.</li>
       
         </ol>
 

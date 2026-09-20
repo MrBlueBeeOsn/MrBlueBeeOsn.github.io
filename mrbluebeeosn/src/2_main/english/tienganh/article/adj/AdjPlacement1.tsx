@@ -121,44 +121,48 @@ export default function AdjPlacement1(): React.JSX.Element {
           <li className="list-none">[<strong>asSERTive MOdal VERB</strong>][<strong>ÁP THÁI ĐỘNG</strong>]: will, must, can</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ trực diện, mang tính xác quyết và thực thi thực tế mạnh mẽ. Các khối phức đặc biệt: [COMplex asSERTive MOdal VERB][PHỨC ÁP THÁI ĐỘNG] như have to được quét như một đơn vị thống nhất.</li>
 
-					<li value="5">[<strong>BASE VERB</strong>][<strong>NỀN ĐỘNG</strong>]: oRIGinate, FORMulate</li>
-          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they oRIGinate, FORMulate.</li>
+					<li value="5" className="margin-bottom-20">[<strong>non-FInite VERB</strong>][<strong>VÔ HẠN ĐỘNG</strong>]: HAVing NO TENSE or NO SUBject</li>
 
-          <li value="6">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: oRIGinate, FORMulate</li>
+          <li className="list-none">[<strong>BARE inFINitive VERB</strong>][<strong>THUẦN NGUYÊN ĐỘNG</strong>]: oRIGinate, FORMulate</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết ở dạng tự do hoàn toàn, thường đứng ngay sau [PARTicle VERB][HẠT ĐỘNG] "to", [SOFT MOdal][Ý THÁI] hay [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] hoặc [ROOT VERB][GỐC ĐỘNG] như MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL.</li>
       
-          <li value="7">[<strong>FULL inFINitive VERB</strong>][<strong>TOÀN NGUYÊN ĐỘNG</strong>]: to oRIGinate, to FORMulate</li>
+          <li className="list-none">[<strong>FULL inFINitive VERB</strong>][<strong>TOÀN NGUYÊN ĐỘNG</strong>]: to oRIGinate, to FORMulate</li>
           <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính giữa [Hạt] và hành động [Thuần] khiết, tạo nên mẫu hành động nguyên bản.</li>
 
-          <li value="8">[<strong>SOFT MOdal and BARE inFINitive VERB</strong>][<strong>Ý THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: would VERify, could deSIGN</li>
-          <li className="margin-bottom-20 list-none">Kết hợp [Thái] độ mềm mỏng với hành động [Thuần] khiết, biểu đạt sự nhường nhịn.</li>
-      
-          <li value="9">[<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will VERify, can deSIGN</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tính xác quyết với hành động [Thuần] khiết, tạo nên khả năng thực tế rõ ràng.</li>
+					<li className="list-none">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: oRIGinating, FORMulating</li>
+          <li className="margin-bottom-20 list-none">Hành động mang hậu tố "-ing", diễn tả trạng thái đang [Tiếp] diễn, kéo dài.</li>
 
-          <li value="10">[<strong>auXILiary and BARE inFINitive VERB</strong>][<strong>TRỢ và THUẦN NGUYÊN ĐỘNG</strong>]: DID oRIGinate, DOES FORMulate</li>
-          <li className="margin-bottom-20 list-none">Cấu trúc song hành tách biệt giữa yếu tố [Thời] và hành động [Thuần] khiết.</li>
+          <li className="list-none">[<strong>PAST PARTiciple VERB</strong>][<strong>ĐÃ HOÀN ĐỘNG</strong>]: oRIGinated, FORMulated</li>
+          <li className="margin-bottom-20 list-none">Dạng phân bổ trợ hoặc đuôi "-ed", xác lập trạng thái hành động đã trọn vẹn, [Hoàn] tất.</li>
 
-          <li value="11">[<strong>THIRD-PERson SINGular VERB</strong>][<strong>NGÔI 3 S ĐỘNG</strong>]: FORMulates</li>
+          <li value="6" className="margin-bottom-20">[<strong>FInite VERB</strong>][<strong>HẠN ĐỘNG</strong>]: HAVing TENSE or SUBject</li>
+
+					<li className="list-none">[<strong>BASE VERB</strong>][<strong>NỀN ĐỘNG</strong>]: oRIGinate, FORMulate</li>
+          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they oRIGinate, FORMulate.</li>
+					
+					<li className="list-none">[<strong>THIRD-PERson SINGular VERB</strong>][<strong>NGÔI 3 S ĐỘNG</strong>]: FORMulates</li>
           <li className="margin-bottom-20 list-none">Sự tích hợp hoàn toàn năng lượng [Thời] hiện tại và hành động [Thuần] khiết vào một đơn vị từ duy nhất.</li>
 
 					<li className="list-none">[<strong>PAST VERB</strong>][<strong>ĐÃ ĐỘNG</strong>]: oRIGinated</li>
           <li className="margin-bottom-20 list-none">Sự tích hợp hoàn toàn năng lượng [Thời] quá khứ và hành động [Thuần] khiết vào một đơn vị từ duy nhất.</li>
       
-          <li value="12">[<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>]: oRIGinating, FORMulating</li>
-          <li className="margin-bottom-20 list-none">Hành động mang hậu tố "-ing", diễn tả trạng thái đang [Tiếp] diễn, kéo dài.</li>
-
-          <li value="13">[<strong>PAST PARTiciple VERB</strong>][<strong>ĐÃ HOÀN ĐỘNG</strong>]: oRIGinated, FORMulated</li>
-          <li className="margin-bottom-20 list-none">Dạng phân bổ trợ hoặc đuôi "-ed", xác lập trạng thái hành động đã trọn vẹn, [Hoàn] tất.</li>
-      
-          <li value="14">[<strong>auXILiary and PRESent PARTiciple VERB</strong>][<strong>TRỢ và HIỆN TIẾP ĐỘNG</strong>]: is oRIGinating, was FORMulating</li>
+          <li className="list-none">[<strong>auXILiary and PRESent PARTiciple VERB</strong>][<strong>TRỢ và HIỆN TIẾP ĐỘNG</strong>]: is oRIGinating, was FORMulating</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa yếu tố [Thời] và trạng thái hành động đang diễn ra.</li>
 
-          <li value="15">[<strong>auXILiary and PAST PARTiciple VERB</strong>][<strong>TRỢ và ĐÃ HOÀN ĐỘNG</strong>]: has oRIGinated, had FORMulated</li>
+          <li className="list-none">[<strong>auXILiary and PAST PARTiciple VERB</strong>][<strong>TRỢ và ĐÃ HOÀN ĐỘNG</strong>]: has oRIGinated, had FORMulated</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa yếu tố [Thời] và trạng thái hành động đã [Hoàn] thành.</li>
       
-          <li value="16">[<strong>auXILiary,  PAST and PRESent PARTiciple VERB</strong>][<strong>TRỢ, ĐÃ VÀ HIỆN TIẾP ĐỘNG</strong>]: has been oRIGinating, had been FORMulating</li>
-          <li className="list-none">Phức hợp ba tầng năng lượng: [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
+          <li className="list-none">[<strong>auXILiary, PAST and PRESent PARTiciple VERB</strong>][<strong>TRỢ, ĐÃ VÀ HIỆN TIẾP ĐỘNG</strong>]: has been oRIGinating, had been FORMulating</li>
+          <li className="margin-bottom-20 list-none">Phức hợp ba tầng năng lượng: [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
+
+					<li className="list-none">[<strong>SOFT MOdal and BARE inFINitive VERB</strong>][<strong>Ý THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: would VERify, could deSIGN</li>
+          <li className="margin-bottom-20 list-none">Kết hợp [Thái] độ mềm mỏng với hành động [Thuần] khiết, biểu đạt sự nhường nhịn.</li>
+      
+          <li className="list-none">[<strong>asSERTive MOdal and BARE inFINitive VERB</strong>][<strong>ÁP THÁI và THUẦN NGUYÊN ĐỘNG</strong>]: will VERify, can deSIGN</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tính xác quyết với hành động [Thuần] khiết, tạo nên khả năng thực tế rõ ràng.</li>
+
+          <li className="list-none">[<strong>auXILiary and BARE inFINitive VERB</strong>][<strong>TRỢ và THUẦN NGUYÊN ĐỘNG</strong>]: DID oRIGinate, DOES FORMulate</li>
+          <li className="margin-bottom-20 list-none">Cấu trúc song hành tách biệt giữa yếu tố [Thời] và hành động [Thuần] khiết.</li>
       
         </ol>
 
