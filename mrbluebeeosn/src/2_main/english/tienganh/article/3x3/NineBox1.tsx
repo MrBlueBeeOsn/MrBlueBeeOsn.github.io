@@ -576,7 +576,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [to underSTAND {'{how the DAtabase HANdles the WORKload}'}] - [emBEDded PARTicle BARE VERB PHRASE][NHÚNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] ở tầng ngoài bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to underSTAND".</li>
+					<li className="list-none">Khối tổng thể [to underSTAND {'{how the DAtabase HANdles the WORKload}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] ở tầng ngoài bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to underSTAND".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{how the DAtabase HANdles the WORKload}'} - [conJUNCtional CLAUSE][LIÊN CÂU] ở tầng trong.</li>
 			
@@ -598,7 +598,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [to BEAUtify {'{WHAT the LEgacy SCRIPT OUTputs}'}] - [emBEDded PARTicle BARE VERB PHRASE][NHÚNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] ở tầng ngoài bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to BEAUtify".</li>
+					<li className="list-none">Khối tổng thể [to BEAUtify {'{WHAT the LEgacy SCRIPT OUTputs}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] ở tầng ngoài bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to BEAUtify".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{WHAT the LEgacy SCRIPT OUTputs}'} - [conJUNCtional CLAUSE][LIÊN CÂU] ở tầng trong.</li>
 			
@@ -621,7 +621,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [for {'{WHAT the TEAM dePLOYED YESterday}'}] - [emBEDded prepoSITional PHRASE][NHÚNG GIỚI CỤM] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
+					<li className="list-none">Khối tổng thể [for {'{WHAT the TEAM dePLOYED YESterday}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{WHAT the TEAM dePLOYED YESterday}'} - [conJUNCtional CLAUSE][LIÊN CÂU] ở tầng trong bắt đầu bằng [conJUNCtion][LIÊN] "WHAT".</li>
 			
@@ -644,7 +644,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [at {'{where the SYStem STORES fiNANcial LOGS}'}] - [emBEDded prepoSITional PHRASE][NHÚNG GIỚI CỤM] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "at".</li>
+					<li className="list-none">Khối tổng thể [at {'{where the SYStem STORES fiNANcial LOGS}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "at".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{where the SYStem STORES fiNANcial LOGS}'} - [conJUNCtional CLAUSE][LIÊN CÂU] ở tầng trong bắt đầu bằng [conJUNCtion][LIÊN] "where".</li>
 			
