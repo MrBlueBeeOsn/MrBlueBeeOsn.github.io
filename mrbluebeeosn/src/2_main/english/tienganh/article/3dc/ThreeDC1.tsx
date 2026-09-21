@@ -573,7 +573,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 			{/* VII. */}
 
-			<h3 className="margin-y-50 text-center">VII. BẢN CHẤT PHÂN [TẦNG][TIERED] VÀ NGUYÊN TẮC "ĐIỂM NEO"</h3>
+			<h3 className="margin-y-50 text-center">VII. BẢN CHẤT PHÂN [NHÚNG][TIERED] VÀ NGUYÊN TẮC "ĐIỂM NEO"</h3>
 
 			<p>Trong các cấu trúc nâng cao, các hình thái lồng ghép vào nhau như các module linh kiện. Ranh giới ngoài cùng [] luôn đại diện cho khối bao quét tầng ngoài, và dấu {'{}'} sẽ bao quét khối lồng bên trong để thể hiện rõ mối quan hệ điều phối hệ thống.</p>
 
@@ -589,7 +589,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối bao ngoài [to underSTAND {'{why the SPEcies went exTINCT}'}] là một [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to underSTAND".</li>
+					<li className="list-none">Khối bao ngoài [to underSTAND {'{why the SPEcies went exTINCT}'}] là một [emBEDded PARTicle BARE VERB PHRASE][NHÚNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to underSTAND".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{why the SPEcies went exTINCT}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
 			
@@ -611,7 +611,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối bao ngoài [to DEMonstrate {'{HOW the DRUG WORKS}'}] là một [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to DEMonstrate".</li>
+					<li className="list-none">Khối bao ngoài [to DEMonstrate {'{HOW the DRUG WORKS}'}] là một [emBEDded PARTicle BARE VERB PHRASE][NHÚNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to DEMonstrate".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{HOW the DRUG WORKS}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "HOW".</li>
 			
@@ -634,7 +634,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [<strong>o</strong>ver{'{whether the COMpany should MERGE}'}] là một [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "over".</li>
+					<li className="list-none">Khối tổng thể [<strong>o</strong>ver{'{whether the COMpany should MERGE}'}] là một [emBEDded prepoSITional PHRASE][NHÚNG GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "over".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{whether the COMpany should MERGE}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] được mở đầu bằng [conJUNCtion][LIÊN] "whether".</li>
 			
@@ -657,7 +657,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [be<strong>cause</strong> of {'{HOW FREquently the SERver CRASHED}'}] là một [TIERed COMplex prepoSITional PHRASE][TẦNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of".</li>
+					<li className="list-none">Khối tổng thể [be<strong>cause</strong> of {'{HOW FREquently the SERver CRASHED}'}] là một [emBEDded COMplex prepoSITional PHRASE][NHÚNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{HOW FREquently the SERver CRASHED}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng tổ hợp tuyến tính gồm [conJUNCtion][LIÊN] "HOW" kết hợp cùng [ADverb HEAD][TRẠNG LÕI] "FREquently".</li>
 			

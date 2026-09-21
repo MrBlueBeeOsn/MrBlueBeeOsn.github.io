@@ -532,7 +532,7 @@ export default function SV1(): React.JSX.Element {
 			
 			{/* VII.  */}
 
-			<h3 className="margin-y-50 text-center">VII. Nguyên Tắc Phân [TIERed][TẦNG] Bằng "Điểm Neo"</h3>
+			<h3 className="margin-y-50 text-center">VII. Nguyên Tắc Phân [emBEDded][NHÚNG] Bằng "Điểm Neo"</h3>
 
 			<p>Khi xử lý các cấu trúc phức tạp chứa nhiều tầng lồng ghép, người học áp dụng quy ước mã hóa hình khối tăng dần:</p>
 			
@@ -580,7 +580,7 @@ export default function SV1(): React.JSX.Element {
 
 			{/* VIII.  */}
 
-			<h3 className="margin-y-50 text-center">VIII. Khối [TIERed STRUCtures][TẦNG ĐA TRÚC] Cao Cấp</h3>
+			<h3 className="margin-y-50 text-center">VIII. Khối [emBEDded STRUCtures][NHÚNG ĐA TRÚC] Cao Cấp</h3>
 
 			<p>Khi các hình khối lồng ghép vào nhau theo nhiều lớp như những chiếc hộp gỗ, hệ thống quy ước dấu sẽ giúp bóc tách chính xác mối quan hệ phân tầng về cả Hình thái lẫn Chức năng.</p>
 
@@ -600,7 +600,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how the ENgine WORKS}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] vì chứa đầy đủ hệ trục [SUBject PROnoun][CHỦ ĐẠI] "the ENgine" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "WORKS", bắt đầu bằng [conJUNCtion][LIÊN] how.</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCOVering {'{how the ENgine WORKS}'}] là một khối [TIERed PRESent PARTiciple VERB PHRASE][TẦNG HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thực thi [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng V-ing disCOVering.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCOVering {'{how the ENgine WORKS}'}] là một khối [emBEDded PRESent PARTiciple VERB PHRASE][NHÚNG HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thực thi [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng V-ing disCOVering.</li>
 			
 					<li className="list-none">Chức năng:</li>
 
@@ -622,7 +622,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Tầng trong: Khối lồng bên trong {'{WHAT they had disCOVered}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "they" và [PAST VERB][ĐÃ ĐỘNG] "had disCOVered", bắt đầu bằng [conJUNCtion][LIÊN] what.</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCUSSing {'{WHAT they had disCOVered}'}] là một khối [TIERed PRESent PARTiciple VERB PHRASE][TẦNG HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] disCUSSing.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCUSSing {'{WHAT they had disCOVered}'}] là một khối [emBEDded PRESent PARTiciple VERB PHRASE][NHÚNG HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] disCUSSing.</li>
 			
 					<li className="list-none">Chức năng:</li>
 
@@ -647,7 +647,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how she sucCEEDed}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "she" và [PAST VERB][ĐÃ ĐỘNG] "sucCEEDed", bắt đầu bằng [conJUNCtion][LIÊN] how.</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [a<strong>bout</strong> {'{how she sucCEEDed}'}] là một khối [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [a<strong>bout</strong> {'{how she sucCEEDed}'}] là một khối [emBEDded prepoSITional PHRASE][NHÚNG GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 			
 					<li className="list-none">Chức năng:</li>
 

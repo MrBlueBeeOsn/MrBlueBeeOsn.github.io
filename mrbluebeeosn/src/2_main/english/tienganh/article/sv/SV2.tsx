@@ -280,7 +280,7 @@ export default function SV2(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. DANH CỤM PHÂN TẦNG (NESTED NOUN PHRASE)</h3>
+			<h3 className="margin-y-50 text-center">4. DANH CỤM PHÂN NHÚNG (NESTED NOUN PHRASE)</h3>
 
 			<p>Khi một [Động Cụm] bên ngoài bao bọc bên trong một Liên Câu, ta có cấu trúc phân tầng. Lớp ngoài mang chức năng Danh Cụm, lớp trong mang chức năng Danh Câu.</p>
 			
@@ -293,7 +293,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{why I called her}'} – [NOUN CLAUSE][DANH CÂU] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
 
-					<li className="list-none">Hình thái lớp ngoài: [forgot {'{why I called her}'}] – [TIERed PAST TENSE VERB PHRASE] [TẦNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PAST VERB][ĐÃ ĐỘNG] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
+					<li className="list-none">Hình thái lớp ngoài: [forgot {'{why I called her}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PAST VERB][ĐÃ ĐỘNG] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
 			
 					<li className="list-none">Chức năng lớp ngoài: [forgot {'{why I called her}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ khối này nằm sau She, là [OBject PROnoun] – đối tượng mà hành động forgot hướng đến.</li>
 			

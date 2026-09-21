@@ -105,20 +105,20 @@ export default function MatrixQuiz(): React.JSX.Element {
 			question: "i [LOVE {LEARNing COMplex GRAMmar STRUCtures}]. \n Tôi [yêu thích việc {học các cấu trúc ngữ pháp phức tạp}].",
 			options: [
 				"[NOUN PHRASE]",
-				"[TIERed NOUN PHRASE]"
+				"[emBEDded NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [LOVE {LEARNing COMplex GRAMmar STRUCtures}] - [TIERed NOUN PHRASE][TẦNG ĐỘNG CỤM] containing an outer finite verb \"love\" and an embedded non-finite gerund phrase layer \"{LEARNing COMplex GRAMmar STRUCtures}\". \n\n Function: [LOVE {LEARNing COMplex GRAMmar STRUCtures}] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] acts as the complete nominal predicate block, where the outer layer is a [NOUN PHRASE][DANH CỤM] acting as the direct object of the subject \"i\", while nesting an internal secondary layer where the gerund phrase acts as an embedded [NOUN PHRASE][DANH CỤM] serving as the direct object of \"LOVE\"."
+			explanation: "Form: [LOVE {LEARNing COMplex GRAMmar STRUCtures}] - [emBEDded NOUN PHRASE][NHÚNG ĐỘNG CỤM] containing an outer finite verb \"love\" and an embedded non-finite gerund phrase layer \"{LEARNing COMplex GRAMmar STRUCtures}\". \n\n Function: [LOVE {LEARNing COMplex GRAMmar STRUCtures}] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] acts as the complete nominal predicate block, where the outer layer is a [NOUN PHRASE][DANH CỤM] acting as the direct object of the subject \"i\", while nesting an internal secondary layer where the gerund phrase acts as an embedded [NOUN PHRASE][DANH CỤM] serving as the direct object of \"LOVE\"."
 		},
 		{
 			id: 10,
 			question: "the BOARD MEMbers [sugGESTed {that we postPONE the CORporate AUdit}]. \n Các thành viên ban quản trị [đã đề xuất {rằng chúng ta hoãn lại việc kiểm toán công ty}].",
 			options: [
-				"[TIERed NOUN PHRASE]",
+				"[emBEDded NOUN PHRASE]",
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [sugGESTed {that we postPONE the CORporate AUdit}] - [TIERed NOUN PHRASE][TẦNG ĐỘNG CỤM] containing an outer finite verb \"sugGESTed\" and an embedded finite clause layer \"{that we postPONE the CORporate AUdit}\". \n\n Function: [sugGESTed {that we postPONE the CORporate AUdit}] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postPONE...}\", which is morphologically an [conJUNCtional CLAUSE][LIÊN CÂU] functioning as a [NOUN CLAUSE][DANH CÂU] acting as the direct object of the internal verb \"sugGESTed\"."
+			explanation: "Form: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG ĐỘNG CỤM] containing an outer finite verb \"sugGESTed\" and an embedded finite clause layer \"{that we postPONE the CORporate AUdit}\". \n\n Function: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postPONE...}\", which is morphologically an [conJUNCtional CLAUSE][LIÊN CÂU] functioning as a [NOUN CLAUSE][DANH CÂU] acting as the direct object of the internal verb \"sugGESTed\"."
 		}
 	];
 

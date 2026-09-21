@@ -596,7 +596,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">[eVALuating {'{how we ALlocated the BUDget}'}] – [TIERed PRESent PARTiciple VERB PHRASE][TẦNG HIỆN TIẾP ĐỘNG CỤM] ở tầng ngoài bắt đầu bằng dạng vận động -ing.</li>
+					<li className="list-none">[eVALuating {'{how we ALlocated the BUDget}'}] – [emBEDded PRESent PARTiciple VERB PHRASE][NHÚNG HIỆN TIẾP ĐỘNG CỤM] ở tầng ngoài bắt đầu bằng dạng vận động -ing.</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ {'{how we ALlocated the BUDget}'} là [conJUNCtional CLAUSE][LIÊN CÂU] được dẫn dắt bởi "how".</li>
 			
@@ -618,7 +618,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [TIERed PRESent PARTiciple VERB PHRASE][TẦNG HIỆN TIẾP ĐỘNG CỤM] ở tầng ngoài bắt đầu bằng dạng -ing.</li>
+					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [emBEDded PRESent PARTiciple VERB PHRASE][NHÚNG HIỆN TIẾP ĐỘNG CỤM] ở tầng ngoài bắt đầu bằng dạng -ing.</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ {'{WHAT the TEAM acCOMplished this QUARter}'} là [conJUNCtional CLAUSE][LIÊN CÂU] giữ vai trò làm bổ ngữ làm rõ sự việc.</li>
 			
@@ -640,7 +640,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">[in {'{which they TEST the SAMple}'}] – [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] "in".</li>
+					<li className="list-none">[in {'{which they TEST the SAMple}'}] – [emBEDded prepoSITional PHRASE][NHÚNG GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] "in".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ {'{which they TEST the SAMple}'} là [conJUNCtional CLAUSE][LIÊN CÂU] đóng vai trò bổ nghĩa hoàn chỉnh cho bối cảnh nơi chốn.</li>
 			
@@ -663,7 +663,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">[through {'{WHAT she disCOVered during REsearch}'}] – [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] phương thức "through".</li>
+					<li className="list-none">[through {'{WHAT she disCOVered during REsearch}'}] – [emBEDded prepoSITional PHRASE][NHÚNG GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] phương thức "through".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ {'{WHAT she disCOVered during REsearch}'} là [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một sự việc có thực tế diễn ra.</li>
 			

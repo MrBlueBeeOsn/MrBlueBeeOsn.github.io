@@ -109,7 +109,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<p>Đã đến lúc dọn dẹp toàn bộ mớ hỗn độn đó.</p>
 
-			<p>Hãy cùng bước vào một phòng thí nghiệm ngôn ngữ hoàn toàn mới — nơi tiếng Anh được chuẩn hóa theo <strong>Tư duy lập trình hệ thống</strong>. Chúng ta loại bỏ hoàn toàn các định nghĩa cũ để làm quen với hệ điều hành tối giản nhưng quyền lực bằng sức mạnh của [TIERed STRUCture][TẦNG CẤU TRÚC] và Khả năng xử lý đệ quy.</p>
+			<p>Hãy cùng bước vào một phòng thí nghiệm ngôn ngữ hoàn toàn mới — nơi tiếng Anh được chuẩn hóa theo <strong>Tư duy lập trình hệ thống</strong>. Chúng ta loại bỏ hoàn toàn các định nghĩa cũ để làm quen với hệ điều hành tối giản nhưng quyền lực bằng sức mạnh của [emBEDded STRUCture][NHÚNG CẤU TRÚC] và Khả năng xử lý đệ quy.</p>
 			
 
 			{/* 1.  */}
@@ -464,9 +464,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">D. Phân hệ [TIERed STRUCture][TẦNG CẤU TRÚC]</h4>
+			<h4 className="margin-y-40">D. Phân hệ [emBEDded STRUCture][NHÚNG CẤU TRÚC]</h4>
 					
-			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, bằng sức mạnh của [TIERed STRUCture][TẦNG CẤU TRÚC], các khối mã sẽ lồng vào nhau tạo nên các cấu trúc đóng gói tối tân.</p>
+			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, bằng sức mạnh của [emBEDded STRUCture][NHÚNG CẤU TRÚC], các khối mã sẽ lồng vào nhau tạo nên các cấu trúc đóng gói tối tân.</p>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
@@ -482,7 +482,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to exPLAIN" và kéo theo khối CLAUSE con bên trong.</li>
+						<li className="list-none">Hình thái: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [emBEDded PARTicle BARE VERB PHRASE][NHÚNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to exPLAIN" và kéo theo khối CLAUSE con bên trong.</li>
 
 						<li className="list-none">Chức năng: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "is URgent" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
 				
@@ -513,7 +513,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [ANalyzing {'{why the SYStem FAILED}'}] - [TIERed PRESent PARTiciple VERB PHRASE][TẦNG HIỆN TIẾP ĐỘNG CỤM] mở rộng bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] (ANalyzing) đứng ngay sau hành động chính.</li>
+						<li className="list-none">Hình thái: [ANalyzing {'{why the SYStem FAILED}'}] - [emBEDded PRESent PARTiciple VERB PHRASE][NHÚNG HIỆN TIẾP ĐỘNG CỤM] mở rộng bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] (ANalyzing) đứng ngay sau hành động chính.</li>
 
 						<li className="list-none">Chức năng: [ANalyzing {'{why the SYStem FAILED}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm cấu trúc tổng thể đóng chức năng tiếp nhận toàn bộ mục tiêu tác động của lệnh postPONE làm khối [OBject PROnoun][TÂN ĐẠI].</li>
 				
@@ -545,7 +545,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [a<strong>bout</strong> {'{how this TEAM deSIGNED the APP}'}] - [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
+						<li className="list-none">Hình thái: [a<strong>bout</strong> {'{how this TEAM deSIGNED the APP}'}] - [emBEDded prepoSITional PHRASE][NHÚNG GIỚI CỤM] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 
 						<li className="list-none">Chức năng: [a<strong>bout</strong> {'{how this TEAM deSIGNED the APP}'}] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho "the NEWS" đứng trước nó.</li>
 				
@@ -577,7 +577,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [at {'{where they BUILD the SOFTware}'}] - [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng [prepoSITion][GIỚI] at.</li>
+						<li className="list-none">Hình thái: [at {'{where they BUILD the SOFTware}'}] - [emBEDded prepoSITional PHRASE][NHÚNG GIỚI CỤM] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng [prepoSITion][GIỚI] at.</li>
 
 						<li className="list-none">Chức năng: [at {'{where they BUILD the SOFTware}'}] - [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho hành động "arRIVED".</li>
 				

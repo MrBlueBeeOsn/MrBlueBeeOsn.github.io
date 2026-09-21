@@ -85,10 +85,10 @@ export default function (): React.JSX.Element {
 			question: "[FInalizing {WHAT the AUditors reQUESTed} on TIME] PLEASED the MANager. \n [Hoàn tất {những gì các kiểm toán viên yêu cầu} đúng hạn] đã làm hài lòng người quản lý.",
 			options: [
 				"[NOUN CLAUSE]",
-				"[TIERed NOUN PHRASE]"
+				"[emBEDded NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [NOUN CLAUSE][DANH CÂU] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
+			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [NOUN CLAUSE][DANH CÂU] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
 		},
 		{
 			id: 8,

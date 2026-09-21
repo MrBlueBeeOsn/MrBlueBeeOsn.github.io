@@ -452,10 +452,10 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">6. [TIERed STRUCture][TẦNG CẤU TRÚC]</h3>
+			<h3 className="margin-y-50 text-center">6. [emBEDded STRUCture][NHÚNG CẤU TRÚC]</h3>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>TIERed prepoSITional PHRASE</strong>][<strong>TẦNG GIỚI CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>emBEDded prepoSITional PHRASE</strong>][<strong>NHÚNG GIỚI CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -468,7 +468,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [TIERed PRESent PARTiciple VERB PHRASE][TẦNG HIỆN TIẾP ĐỘNG CỤM] mở rộng từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "MAStering".</li>
+						<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [emBEDded PRESent PARTiciple VERB PHRASE][NHÚNG HIỆN TIẾP ĐỘNG CỤM] mở rộng từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "MAStering".</li>
 
 						<li className="list-none">Tầng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng ghép bên trong để phân tách chi tiết.</li>
 				
@@ -486,7 +486,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>TIERed PARTicle BARE VERB PHRASE</strong>][<strong>TẦNG HẠT THUẦN NGUYÊN ĐỘNG CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>emBEDded PARTicle BARE VERB PHRASE</strong>][<strong>NHÚNG HẠT THUẦN NGUYÊN ĐỘNG CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -499,7 +499,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to dePLOY" kết hợp mở rộng cấu trúc.</li>
+						<li className="list-none">Tầng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [emBEDded PARTicle BARE VERB PHRASE][NHÚNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to dePLOY" kết hợp mở rộng cấu trúc.</li>
 
 						<li className="list-none">Tầng 2: {'{which OPtimize WORKflow}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng sâu bên trong.</li>
 				
@@ -517,7 +517,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>TIERed prepoSITional PHRASE</strong>][<strong>TẦNG GIỚI CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>emBEDded prepoSITional PHRASE</strong>][<strong>NHÚNG GIỚI CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -530,7 +530,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [of {'{WHAT they inVEStigated}'}] - [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
+						<li className="list-none">Tầng 1: [of {'{WHAT they inVEStigated}'}] - [emBEDded prepoSITional PHRASE][NHÚNG GIỚI CỤM] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
 
 						<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] kết hợp [SUBject PRONOUN][CHỦ ĐẠI] "WHAT" tạo nên lõi thông tin.</li>
 				
@@ -548,7 +548,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>TIERed COMplex prepoSITional PHRASE</strong>][<strong>TẦNG PHỨC GIỚI CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>emBEDded COMplex prepoSITional PHRASE</strong>][<strong>NHÚNG PHỨC GIỚI CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -561,7 +561,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [TIERed COMplex prepoSITional PHRASE][TẦNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to" kết hợp tổ hợp phức hợp.</li>
+						<li className="list-none">Tầng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [emBEDded COMplex prepoSITional PHRASE][NHÚNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to" kết hợp tổ hợp phức hợp.</li>
 
 						<li className="list-none">Tầng 2: {'{which afFECted proDUCtion}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] tích hợp bổ trợ tầng sâu.</li>
 				

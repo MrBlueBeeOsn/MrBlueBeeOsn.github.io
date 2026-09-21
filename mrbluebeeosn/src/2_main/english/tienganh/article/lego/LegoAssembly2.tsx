@@ -232,7 +232,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He [forgot {'{that she needed the document}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [đã quên {'{rằng cô ấy cần tài liệu}'}].</li>
 			
-					<li className="list-none">Hình thái tổng thể: [forgot {'{that she needed the document}'}] – [TIERed PAST TENSE VERB PHRASE] [TẦNG QUÁ THỜI ĐỘNG CỤM] tầng ngoài [PAST VERB][ĐÃ ĐỘNG] forgot</li>
+					<li className="list-none">Hình thái tổng thể: [forgot {'{that she needed the document}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] tầng ngoài [PAST VERB][ĐÃ ĐỘNG] forgot</li>
 					<li className="margin-bottom-20 list-none">Hình thái bên trong: {'{that she needed the document}'} – [conJUNCtional CLAUSE][LIÊN CÂU][conJUNCtional CLAUSE][LIÊN CÂU] tầng trong</li>
 
 					<li className="list-none">Chức năng của khối trong: {'{that she needed the document}'} – [NOUN CLAUSE][DANH CÂU]</li>
