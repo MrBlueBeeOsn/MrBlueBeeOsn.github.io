@@ -179,7 +179,7 @@ export default function LegoAssembly9(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Hiện tượng "Khối lồng khối" (Tiered Blocks)</h4>
+			<h4 className="margin-y-40">Hiện tượng "Khối lồng khối" (emBEDded Blocks)</h4>
 
 			<p className="text-indent-whole">Đôi khi, một khối DP đứng sau Head lại chứa đựng một cấu trúc S+V bên trong. Chúng ta gọi đó là một <strong>DC</strong> (<strong>Dependent Clause</strong>) đóng vai trò làm DP.</p>
 

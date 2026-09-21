@@ -276,7 +276,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 
 
-			<p className="margin-top-20 text-indent-whole">🌟 <strong>Danh Cụm phân tầng</strong> [<strong>Tiered Noun Phrase</strong>]: [knows {'{where she hides the key}'}]</p>
+			<p className="margin-top-20 text-indent-whole">🌟 <strong>Danh Cụm phân tầng</strong> [<strong>emBEDded Noun Phrase</strong>]: [knows {'{where she hides the key}'}]</p>
 
 			<p className="margin-top-20 text-indent-whole">Khi một [Liên Câu] được lồng bên trong một Động Cụm, ta có một [Danh Cụm] phân tầng – cấu trúc cực kỳ phổ biến trong tiếng Anh đẳng cấp.</p>
 			

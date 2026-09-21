@@ -583,7 +583,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* .  */}
 
-			<h3 className="margin-y-50 text-center">Tuyệt Chiêu Nhìn Xuyên Thấu: Tư Duy [Phân Tầng][Tiered] Khối Phức Hợp</h3>
+			<h3 className="margin-y-50 text-center">Tuyệt Chiêu Nhìn Xuyên Thấu: Tư Duy [Phân Tầng][emBEDded] Khối Phức Hợp</h3>
 
 			<h4 className="margin-y-40">1. [NOUN PHRASE][DANH CỤM]</h4>
 

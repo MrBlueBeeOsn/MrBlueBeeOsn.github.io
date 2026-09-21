@@ -525,7 +525,7 @@ export default function Clear(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">5. Phân hệ [Nhúng Đóng Gói][Tiered Structure]</h4>
+      <h4 className="margin-y-40">5. Phân hệ [Nhúng Đóng Gói][emBEDded Structure]</h4>
 
       <p className="margin-top-20 text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, các khối mã sẽ lồng vào nhau tạo nên hệ thống phân tầng tối tân.</p>
 
@@ -592,7 +592,7 @@ export default function Clear(): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-top-20 text-indent-whole">[Tính Cụm Phân Tầng][Tiered Adjective Phrase]</h5>
+      <h5 className="margin-top-20 text-indent-whole">[Tính Cụm Phân Tầng][emBEDded Adjective Phrase]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 13:</p>
       
@@ -625,7 +625,7 @@ export default function Clear(): React.JSX.Element {
 
 
           
-      <h5 className="margin-top-20 text-indent-whole">[Trạng Cụm Phân Tầng][Tiered Adverb Phrase]</h5>
+      <h5 className="margin-top-20 text-indent-whole">[Trạng Cụm Phân Tầng][emBEDded Adverb Phrase]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 14:</p>
       

@@ -672,7 +672,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Nhúng trong: Khối lồng bên trong {'{than we exPECTed}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "we" và [PAST VERB][ĐÃ ĐỘNG] "exPECTed", được bắt đầu bằng [conJUNCtion][LIÊN] than.</li>
 
-					<li className="margin-bottom-20 list-none">Nhúng ngoài: Khối tổng thể bao ngoài [SLOWer {'{than we exPECTed}'}] là một khối [Nhúng Diện Trạng Cụm][Tiered Modified Adverb Phrase] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản SLOW kết hợp hậu tố -er.</li>
+					<li className="margin-bottom-20 list-none">Nhúng ngoài: Khối tổng thể bao ngoài [SLOWer {'{than we exPECTed}'}] là một khối [Nhúng Diện Trạng Cụm][emBEDded Modified Adverb Phrase] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản SLOW kết hợp hậu tố -er.</li>
 			
 					<li className="list-none">Chức năng:</li>
 

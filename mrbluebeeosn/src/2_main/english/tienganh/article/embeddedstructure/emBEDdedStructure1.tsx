@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function TieredStructure1(): React.JSX.Element {
+export default function emBEDdedStructure1(): React.JSX.Element {
 
-	const postId = "TieredStructure1";
+	const postId = "emBEDdedStructure1";
 
 	return (<>
 

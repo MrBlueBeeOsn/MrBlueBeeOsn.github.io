@@ -601,7 +601,7 @@ export default function (): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">5. Phân hệ [Nhúng Đóng Gói][Tiered Structure]</h4>
+      <h4 className="margin-y-40">5. Phân hệ [Nhúng Đóng Gói][emBEDded Structure]</h4>
 
       <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
 
