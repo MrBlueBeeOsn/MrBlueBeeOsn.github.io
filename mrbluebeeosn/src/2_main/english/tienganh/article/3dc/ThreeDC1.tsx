@@ -96,6 +96,27 @@ export default function ThreeDC1(): React.ReactElement {
 
 				</p>
 
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#emBEDded-CLAUSE">emBEDded CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#conJUNCtional-CLAUSE">Phân biệt: conJUNCtional CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border" >
+						<HashLink smooth to="#inVERsion">Đảo ngữ: inVERsion</HashLink>
+					</span> &nbsp;
+
+				</p>
+
 			</div>
 
 
@@ -501,7 +522,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [which the TEAM dePLOYED LAST NIGHT] - [OBject PROnoun CLAUSE][TÂN ĐẠI CÂU] bắt đầu bằng [OBject PRONOUN][TÂN ĐẠI] quan hệ "which" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và [PAST VERB][ĐÃ ĐỘNG] "dePLOYED".</li>
 			
-					<li className="list-none">Chức năng: Khối [which the TEAM dePLOYED LAST NIGHT] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm ngay sau thực thể "the SOFTware" để bổ nghĩa chi tiết cho thực thể đó.</li>
+					<li className="list-none">Chức năng: Khối [which the TEAM dePLOYED LAST NIGHT] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm ngay sau thực thể [PROnoun HEAD][ĐẠI LÕI] "the SOFTware" để bổ nghĩa chi tiết cho thực thể đó.</li>
 			
 				</ul>
 			
@@ -550,7 +571,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [i conSULted YESterday] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] có sự lược bỏ [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong.</li>
 			
-					<li className="list-none">Chức năng: Khối [i conSULted YESterday] thực thi chức năng [ADjective CLAUSE][TÍNH CÂU] đứng ôm ngay sau thực thể "the MENtor" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
+					<li className="list-none">Chức năng: Khối [i conSULted YESterday] thực thi chức năng [ADjective CLAUSE][TÍNH CÂU] đứng ôm ngay sau thực thể [PROnoun HEAD][ĐẠI LÕI] "the MENtor" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
 			
 				</ul>
 			
@@ -573,7 +594,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 			{/* VII. */}
 
-			<h3 className="margin-y-50 text-center">VII. BẢN CHẤT PHÂN [NHÚNG][TIERED] VÀ NGUYÊN TẮC "ĐIỂM NEO"</h3>
+			<h3 className="margin-y-50 text-center" id="emBEDded-CLAUSE">VII. BẢN CHẤT PHÂN [NHÚNG][EMBEDDED] VÀ NGUYÊN TẮC "ĐIỂM NEO"</h3>
 
 			<p>Trong các cấu trúc nâng cao, các hình thái lồng ghép vào nhau như các module linh kiện. Ranh giới ngoài cùng [] luôn đại diện cho khối bao quét tầng ngoài, và dấu {'{}'} sẽ bao quét khối lồng bên trong để thể hiện rõ mối quan hệ điều phối hệ thống.</p>
 
@@ -739,7 +760,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [which acCELerates the RENdering PROcess] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates".</li>
 			
-					<li className="list-none">Chức năng: Khối [which acCELerating the RENdering PROcess] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể "the CODE".</li>
+					<li className="list-none">Chức năng: Khối [which acCELerating the RENdering PROcess] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể [PROnoun HEAD][ĐẠI LÕI] "the CODE".</li>
 			
 				</ul>
 
@@ -816,7 +837,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* IX. */}
 
-			<h3 className="margin-y-50 text-center">IX. TUYỆT CHIÊU PHÂN BIỆT [LIÊN CÂU][CONJUNCTIONAL CLAUSE] THẦN TỐC BẰNG MẸO [THẾ THÂN]</h3>
+			<h3 className="margin-y-50 text-center" id="conJUNCtional-CLAUSE">IX. TUYỆT CHIÊU PHÂN BIỆT [LIÊN CÂU][CONJUNCTIONAL CLAUSE] THẦN TỐC BẰNG MẸO [THẾ THÂN]</h3>
 
 			<p>Khi gặp các khối [conJUNCtional CLAUSE][LIÊN CÂU] có hình thái giống hệt nhau (ví dụ: đều bắt đầu bằng một từ đa năng làm [conJUNCtion][LIÊN] như that, when, where), người học rất dễ bị bối rối.</p>
 
@@ -824,13 +845,13 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20 list-none">Nếu thế thế thân bằng một [ADverb HEAD][TRẠNG LÕI] đơn lẻ (THEN, THERE) thành công</li>
-					<li className="list-none">→ Khối đó đảm nhiệm chức năng [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>].</li>
+					<li>Nếu thế thế thân bằng một [ADverb HEAD][TRẠNG LÕI] đơn lẻ (THEN, THERE) thành công</li>
+					<li className="margin-bottom-20 list-none">→ Khối đó đảm nhiệm chức năng [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>].</li>
 			
-					<li className="margin-bottom-20 list-none">Nếu thế thế thân bằng một [ADjective HEAD][TÍNH LÕI] đơn lẻ (BEAUtiful, SMART, NEW) thành công</li>
-					<li className="list-none">→ Khối đó phụ trách chức năng [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>].</li>
+					<li>Nếu thế thế thân bằng một [ADjective HEAD][TÍNH LÕI] đơn lẻ (BEAUtiful, SMART, NEW) thành công</li>
+					<li className="margin-bottom-20 list-none">→ Khối đó phụ trách chức năng [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>].</li>
 			
-					<li className="margin-bottom-20 list-none">Nếu thế thế thân bằng một ký hiệu tổng quát "SOMEthing" hoặc "it" (tương đương một [NOUN HEAD][DANH LÕI]) thành công</li>
+					<li>Nếu thế thế thân bằng một ký hiệu tổng quát "SOMEthing" hoặc "it" (tương đương một [NOUN HEAD][DANH LÕI]) thành công</li>
 					<li className="list-none">→ Khối đó gánh vác chức năng [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>].</li>
 			
 				</ul>
@@ -844,7 +865,7 @@ export default function ThreeDC1(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li>the techNIcian will dePLOY the SOFTware [where the SIGnal PEAKS].</li>
-					<li className="margin-bottom-20 list-none">the techNIcian will dePLOY the SOFTware [THERE].</li>
+					<li className="margin-bottom-20">the techNIcian will dePLOY the SOFTware [THERE].</li>
 			
 					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] thực thi chức năng [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>] chỉ bối cảnh vị trí.</li>
 			
@@ -856,9 +877,9 @@ export default function ThreeDC1(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li>THIS is the SERver ROOM [where the SIGnal PEAKS].</li>
-					<li className="margin-bottom-20 list-none">THIS is the [NEW] SERver ROOM.</li>
+					<li className="margin-bottom-20">THIS is the [NEW] SERver ROOM.</li>
 			
-					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] hoàn thành chức năng [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước.</li>
+					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] hoàn thành chức năng [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước [NOUN HEAD][DANH LÕI] "ROOM".</li>
 			
 				</ul>
 			
@@ -868,7 +889,7 @@ export default function ThreeDC1(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li>the SYStem MONitors [where the SIGnal PEAKS].</li>
-					<li className="margin-bottom-20 list-none">the SYStem MONitors [SOMEthing].</li>
+					<li className="margin-bottom-20">the SYStem MONitors [SOMEthing].</li>
 			
 					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] đáp ứng chức năng [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] trực tiếp đứng sau hành động "MONitors".</li>
 			
@@ -879,7 +900,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* X. Bổ sung */}
 
-			<h3 className="margin-y-50 text-center">X. Đảo ngữ kết hợp (Inversion)</h3>
+			<h3 className="margin-y-50 text-center" id="inVERsion">X. Đảo ngữ kết hợp (inVERsion)</h3>
 		
 			<p>Nâng tầm [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>] lên mức học thuật cao nhất bằng cách tiến hành đưa đưa Trạng Câu/Cụm phủ định lên đầu, sau đó tiến hành đảo ngữ [auXILiary VERB][TRỢ ĐỘNG] thành phần chính:</p>
 

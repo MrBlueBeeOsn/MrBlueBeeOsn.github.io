@@ -96,6 +96,13 @@ export default function SuperWords1(): React.JSX.Element {
 
 				</p>
 
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#emBEDded-CLAUSE">emBEDded CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
 			</div>
 			
 
@@ -509,7 +516,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [who WROTE this ARticle] – [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau.</li>
 			
-					<li className="list-none">Chức năng: [who WROTE this ARticle] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho tác giả đó.</li>
+					<li className="list-none">Chức năng: [who WROTE this ARticle] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho [PROnoun HEAD][ĐẠI LÕI] "the AUthor" tác giả đó.</li>
 			
 				</ul>
 			
@@ -560,7 +567,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [he DROVE YESterday] – [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu.</li>
 			
-					<li className="list-none">Chức năng: [he DROVE YESterday] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí bám sát ngay sau [SUBject PROnoun][CHỦ ĐẠI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
+					<li className="list-none">Chức năng: [he DROVE YESterday] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí bám sát ngay sau [PROnoun HEAD][ĐẠI LÕI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
 				</ul>
 			
@@ -583,7 +590,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* .  */}
 
-			<h3 className="margin-y-50 text-center">Tuyệt Chiêu Nhìn Xuyên Thấu: Tư Duy [Phân Tầng][emBEDded] Khối Phức Hợp</h3>
+			<h3 className="margin-y-50 text-center" id="emBEDded-CLAUSE">Tuyệt Chiêu Nhìn Xuyên Thấu: Tư Duy [Phân Tầng][emBEDded] Khối Phức Hợp</h3>
 
 			<h4 className="margin-y-40">1. [NOUN PHRASE][DANH CỤM]</h4>
 

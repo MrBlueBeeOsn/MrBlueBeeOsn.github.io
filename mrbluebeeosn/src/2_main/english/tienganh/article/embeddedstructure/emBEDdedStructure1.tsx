@@ -17,7 +17,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[HEAD][PHRASE][CLAUSE]</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">[TIERED STRUCture]
+			<h1 className="margin-y-50 text-center">[EMBEDDED STRUCture]
 												
 				{/* <sup><HashLink smooth to="/tieng-anh/tiered-structure-1">&nbsp;1&nbsp;</HashLink>
 				</sup> */}
@@ -92,6 +92,13 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<span className="highlight-255-padding-0-4 text-border">
 						<HashLink smooth to="#ADverb-CLAUSE">ADverb CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#emBEDded-CLAUSE">emBEDded CLAUSE</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -464,7 +471,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">D. Phân hệ [emBEDded STRUCture][NHÚNG CẤU TRÚC]</h4>
+			<h4 className="margin-y-40" id="emBEDded-CLAUSE">D. Phân hệ [emBEDded STRUCture][NHÚNG CẤU TRÚC]</h4>
 					
 			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, bằng sức mạnh của [emBEDded STRUCture][NHÚNG CẤU TRÚC], các khối mã sẽ lồng vào nhau tạo nên các cấu trúc đóng gói tối tân.</p>
 
@@ -478,7 +485,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
 			
 					<ul className="list-square">
 				
@@ -489,7 +496,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
 			
 				<ul className="list-square">
 			
@@ -509,7 +516,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
 			
 					<ul className="list-square">
 				
@@ -520,7 +527,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
 			
 				<ul className="list-square">
 			
@@ -541,7 +548,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
 			
 					<ul className="list-square">
 				
@@ -552,7 +559,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
 			
 				<ul className="list-square">
 			
@@ -573,7 +580,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
 			
 					<ul className="list-square">
 				
@@ -584,7 +591,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
 			
 				<ul className="list-square">
 			
@@ -641,7 +648,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [who is deSIGNing the BUILDing] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] hiện diện dưới dạng khối câu bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] kết nối who, chứa [TENSE PRESent PARTiciple VERB][THỜI HIỆN TIẾP ĐỘNG] is deSIGNing riêng biệt.</li>
 
-					<li className="list-none">Chức năng: [who is deSIGNing the BUILDing] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một module lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng "ARchitect".</li>
+					<li className="list-none">Chức năng: [who is deSIGNing the BUILDing] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một module lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng [PROnoun HEAD][ĐẠI LÕI] "the ARchitect".</li>
 			
 				</ul>
 			
@@ -689,7 +696,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [i deSIGNED YESterday] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] chứa chủ thể "i" và [PAST VERB][ĐÃ ĐỘNG] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [OBject PRONOUN][TÂN ĐẠI] định vị nào dẫn đường.</li>
 			
-					<li className="list-none">Chức năng: [i deSIGNED YESterday] - [ADjective CLAUSE][TÍNH CÂU] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng "PLAN" đứng trước.</li>
+					<li className="list-none">Chức năng: [i deSIGNED YESterday] - [ADjective CLAUSE][TÍNH CÂU] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng [PROnoun HEAD][ĐẠI LÕI] "the PLAN" đứng trước.</li>
 			
 				</ul>
 			
@@ -784,7 +791,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [which was BUILT in jaPAN] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [which was BUILT in jaPAN] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng "deVICE".</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [which was BUILT in jaPAN] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng [NOUN HEAD][DANH LÕI] "deVICE".</li>
 			
 				</ul>
 			

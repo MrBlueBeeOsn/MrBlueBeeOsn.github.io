@@ -17,7 +17,7 @@ export default function emBEDdedStructure(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[HEAD][PHRASE][CLAUSE]</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">[TIERED STRUCture]
+			<h1 className="margin-y-50 text-center">[EMBEDDED STRUCture]
 												
 				<sup><HashLink smooth to="/tieng-anh/tiered-structure-1">&nbsp;1&nbsp;</HashLink>
 				</sup>

@@ -66,6 +66,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 				</p>
 
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#emBEDded-CLAUSE">emBEDded CLAUSE</HashLink>
+					</span> &nbsp;
+
+				</p>
+
 			</div>
 
 
@@ -431,7 +438,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [which GOVerns MARket reguLAtions] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" nối tiếp chuỗi hành động chia thời.</li>
 			
-					<li className="list-none">Chức năng: [which GOVerns MARket reguLAtions] - [ADjective CLAUSE][TÍNH CÂU] định danh bản chất chức năng của "FRAMEwork".</li>
+					<li className="list-none">Chức năng: [which GOVerns MARket reguLAtions] - [ADjective CLAUSE][TÍNH CÂU] định danh bản chất chức năng của [PROnoun HEAD][ĐẠI LÕI] "FRAMEwork".</li>
 			
 				</ul>
 
@@ -445,14 +452,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [EXperts recomMEND] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] bỏ qua [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định.</li>
 			
-					<li className="list-none">Chức năng: [EXperts recomMEND] - [ADjective CLAUSE][TÍNH CÂU] thu gọn không gian biểu đạt để làm rõ đặc điểm đối tượng "paRAMeters".</li>
+					<li className="list-none">Chức năng: [EXperts recomMEND] - [ADjective CLAUSE][TÍNH CÂU] thu gọn không gian biểu đạt để làm rõ đặc điểm đối tượng [PROnoun HEAD][ĐẠI LÕI] "paRAMeters".</li>
 			
 				</ul>
 
 			
 			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">6. [emBEDded STRUCture][NHÚNG CẤU TRÚC]</h3>
+			<h3 className="margin-y-50 text-center" id="emBEDded-CLAUSE">6. [emBEDded STRUCture][NHÚNG CẤU TRÚC]</h3>
 			
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>][<strong>GIỚI và NHÚNG CÂU</strong>]</p>
@@ -464,24 +471,24 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong>:</p>
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Nhúng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG CÂU] mở rộng từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "MAStering".</li>
+						<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG CÂU] mở rộng từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "MAStering".</li>
 
-						<li className="list-none">Nhúng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng ghép bên trong để phân tách chi tiết.</li>
+						<li className="list-none">Tầng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng ghép bên trong để phân tách chi tiết.</li>
 				
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Nhúng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [ADjective PHRASE][TÍNH CỤM] bám sát phía sau "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
+					<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [ADjective PHRASE][TÍNH CỤM] bám sát phía sau "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
 
-					<li className="list-none">Nhúng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "CORE THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
+					<li className="list-none">Tầng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN HEAD][DANH LÕI] "THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
 			
 				</ul>
 
@@ -495,24 +502,24 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong>:</p>
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Nhúng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to dePLOY" kết hợp mở rộng cấu trúc.</li>
+						<li className="list-none">Tầng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to dePLOY" kết hợp mở rộng cấu trúc.</li>
 
-						<li className="list-none">Nhúng 2: {'{which OPtimize WORKflow}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng sâu bên trong.</li>
+						<li className="list-none">Tầng 2: {'{which OPtimize WORKflow}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng sâu bên trong.</li>
 				
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Nhúng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [ADjective PHRASE][TÍNH CỤM] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho [NOUN BLOCK][DANH KHỐI] "the deCIsion".</li>
+					<li className="list-none">Tầng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [ADjective PHRASE][TÍNH CỤM] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho [NOUN BLOCK][DANH KHỐI] "the deCIsion".</li>
 
-					<li className="list-none">Nhúng 2: {'{which OPtimize WORKflow}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "AUtomated SYStems" nhằm xác định rõ tính năng của hệ thống.</li>
+					<li className="list-none">Tầng 2: {'{which OPtimize WORKflow}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN HEAD][DANH LÕI] "SYStems" nhằm xác định rõ tính năng của hệ thống.</li>
 			
 				</ul>
 
@@ -526,24 +533,24 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong>:</p>
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Nhúng 1: [of {'{WHAT they inVEStigated}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
+						<li className="list-none">Tầng 1: [of {'{WHAT they inVEStigated}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
 
-						<li className="list-none">Nhúng 2: {'{WHAT they inVEStigated}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] kết hợp [SUBject PRONOUN][CHỦ ĐẠI] "WHAT" tạo nên lõi thông tin.</li>
+						<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] kết hợp [SUBject PRONOUN][CHỦ ĐẠI] "WHAT" tạo nên lõi thông tin.</li>
 				
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Nhúng 1: [of {'{WHAT they inVEStigated}'}] - [ADjective PHRASE][TÍNH CỤM] mở rộng thông tin bổ trợ cho [NOUN BLOCK][DANH KHỐI] "the aNALysis".</li>
+					<li className="list-none">Tầng 1: [of {'{WHAT they inVEStigated}'}] - [ADjective PHRASE][TÍNH CỤM] mở rộng thông tin bổ trợ cho [NOUN BLOCK][DANH KHỐI] "the aNALysis".</li>
 
-					<li className="list-none">Nhúng 2: {'{WHAT they inVEStigated}'} - [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
+					<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
 			
 				</ul>
 
@@ -557,24 +564,24 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong>:</p>
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Nhúng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [emBEDded COMplex prepoSITional PHRASE][NHÚNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to" kết hợp tổ hợp phức hợp.</li>
+						<li className="list-none">Tầng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [emBEDded COMplex prepoSITional PHRASE][NHÚNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to" kết hợp tổ hợp phức hợp.</li>
 
-						<li className="list-none">Nhúng 2: {'{which afFECted proDUCtion}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] tích hợp bổ trợ tầng sâu.</li>
+						<li className="list-none">Tầng 2: {'{which afFECted proDUCtion}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] tích hợp bổ trợ tầng sâu.</li>
 				
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Nhúng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [ADjective PHRASE][TÍNH CỤM] đa tầng bóc tách sâu nguyên nhân và hệ quả cho [NOUN BLOCK][DANH KHỐI] "SHIFTS".</li>
+					<li className="list-none">Tầng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [ADjective PHRASE][TÍNH CỤM] đa tầng bóc tách sâu nguyên nhân và hệ quả cho [NOUN BLOCK][DANH KHỐI] "SHIFTS".</li>
 
-					<li className="list-none">Nhúng 2: {'{which afFECted proDUCtion}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "MARket fluctuAtions" để chỉ rõ khía cạnh biến động.</li>
+					<li className="list-none">Tầng 2: {'{which afFECted proDUCtion}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "MARket fluctuAtions" để chỉ rõ khía cạnh biến động.</li>
 			
 				</ul>
 			
@@ -640,7 +647,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [who is STANding THERE] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] "who" kết hợp [TENSE PRESent PARTiciple VERB][THỜI HIỆN TIẾP ĐỘNG] "is STANding".</li>
 			
-					<li className="list-none">Chức năng: [who is STANding THERE] - [ADjective CLAUSE][TÍNH CÂU] định danh chính xác đối tượng thông qua hành động cụ thể đang diễn ra.</li>
+					<li className="list-none">Chức năng: [who is STANding THERE] - [ADjective CLAUSE][TÍNH CÂU] định danh chính xác đối tượng [PROnoun HEAD][ĐẠI LÕI] "the MAN" thông qua hành động cụ thể đang diễn ra.</li>
 			
 				</ul>
 			
@@ -656,7 +663,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [which is efFECtive] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" kết hợp [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "is" và [MODified ADjective][DIỆN TÍNH] "efFECtive".</li>
 			
-					<li className="list-none">Chức năng: [which is efFECtive] - [ADjective CLAUSE][TÍNH CÂU] vạch rõ bản chất định danh cho đối tượng [NOUN HEAD][DANH LÕI].</li>
+					<li className="list-none">Chức năng: [which is efFECtive] - [ADjective CLAUSE][TÍNH CÂU] vạch rõ bản chất định danh cho đối tượng [PROnoun HEAD][ĐẠI LÕI] "the POLicy".</li>
 			
 				</ul>
 			

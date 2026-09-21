@@ -68,6 +68,13 @@ export default function Respond(): React.JSX.Element {
 
           </p>
 
+          <p className="example-sentence text-center">
+            <span className="highlight-255-padding-0-4 text-border">
+              <HashLink smooth to="#emBEDded-CLAUSE">emBEDded CLAUSE</HashLink>
+            </span> &nbsp;
+  
+          </p>
+
         </div>
       
 
@@ -591,7 +598,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [which reSPONDS to USer reQUESTS] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại.</li>
       
-          <li className="list-none">Chức năng: [which reSPONDS to USer reQUESTS] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một module lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng "SERver".</li>
+          <li className="list-none">Chức năng: [which reSPONDS to USer reQUESTS] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một module lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [PROnoun HEAD][ĐẠI LÕI] "SERver".</li>
       
         </ul>
       
@@ -642,7 +649,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [she reSPONDed to] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] đã ẩn thành phần [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "she" và cụm [PAST VERB][ĐÃ ĐỘNG] "reSPONDed to".</li>
       
-          <li className="list-none">Chức năng: [she reSPONDed to] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng "the Email" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none">Chức năng: [she reSPONDed to] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "the Email" để làm rõ đặc điểm cho đối tượng này.</li>
       
         </ul>
       
@@ -664,7 +671,7 @@ export default function Respond(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">5. Phân hệ [Nhúng Đóng Gói][emBEDded Structure]</h4>
+      <h4 className="margin-y-40" id="emBEDded-CLAUSE">5. Phân hệ [Nhúng Đóng Gói][emBEDded Structure]</h4>
 
       <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
 
@@ -679,7 +686,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -689,7 +696,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -711,7 +718,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -721,7 +728,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -743,7 +750,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -753,7 +760,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -775,7 +782,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -785,7 +792,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -807,7 +814,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -817,7 +824,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -840,7 +847,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -850,7 +857,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -872,7 +879,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -882,7 +889,7 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -965,7 +972,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái gốc: [which reSPONDS to SYStem ISsues autoMATically] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] "which" và cụm hành động phía sau.</li>
       
-          <li className="list-none">Chức năng: [which reSPONDS to SYStem ISsues autoMATically] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng "SERvice".</li>
+          <li className="list-none">Chức năng: [which reSPONDS to SYStem ISsues autoMATically] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng [NOUN HEAD][DANH LÕI] "SERvice".</li>
       
         </ul>
       

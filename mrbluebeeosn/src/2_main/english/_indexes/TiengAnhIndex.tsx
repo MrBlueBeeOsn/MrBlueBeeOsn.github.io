@@ -662,7 +662,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/tiered-structure-1">[TIERED STRUCture]
+                <Link to="/tieng-anh/tiered-structure-1">[EMBEDDED STRUCture]
                 {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/tiered-structure-2">
