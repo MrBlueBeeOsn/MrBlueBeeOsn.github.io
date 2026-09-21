@@ -30,43 +30,43 @@ export default function eXACTly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#RIGHT">RIGHT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WHAT-i-MEAN">WHAT i MEAN</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#the-SAME-as">the SAME as</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#as-PLANNED-for">as PLANNED for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SURE-WHAT-he-MEANT">SURE WHAT he MEANT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HOW-many-PEOple">HOW <strong>man</strong>y PEOple</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WHERE-the-LIbrary-IS">WHERE the LIbrary IS</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WHEN-does">WHEN does</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#the-SAME-as-MINE">the SAME as MINE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WHAT-i-NEEDed-for">WHAT i NEEDed for</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function eXACTly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">THAT'S eXACTly RIGHT! you've HIT the NAIL on the HEAD.</li>
-        <li className="list-none margin-bottom-20">Đúng chính xác rồi! Bạn đã nói trúng phóc.</li>
+        <li value="1" id="RIGHT">THAT'S eXACTly [RIGHT]! you've HIT the NAIL on the HEAD.</li>
+        <li className="list-none margin-bottom-20">[Đúng] chính xác rồi! Bạn đã nói trúng phóc.</li>
 
-        <li value="2" id="">YES, eXACTly WHAT i MEAN. it's unFAIR.</li>
-        <li className="list-none margin-bottom-20">Đúng vậy, đó chính là điều tôi muốn nói. Nó thật bất công.</li>
+        <li value="2" id="WHAT-i-MEAN">YES, eXACTly [WHAT i MEAN]. it's unFAIR.</li>
+        <li className="list-none margin-bottom-20">Đúng vậy, đó chính là [điều tôi muốn nói]. Nó thật bất công.</li>
 
-        <li value="3" id="">my NEW PHONE is eXACTly the SAME as my OLD ONE.</li>
-        <li className="list-none margin-bottom-20">Điện thoại mới của tôi hoàn toàn giống với cái cũ.</li>
+        <li value="3" id="the-SAME-as">my NEW PHONE is eXACTly [the SAME as] my OLD ONE.</li>
+        <li className="list-none margin-bottom-20">Điện thoại mới của tôi [hoàn toàn giống với] cái cũ.</li>
 
-        <li value="4" id="">everything WENT eXACTly as PLANNED for the PARTy.</li>
-        <li className="list-none margin-bottom-20">Mọi thứ diễn ra đúng như kế hoạch cho bữa tiệc.</li>
+        <li value="4" id="as-PLANNED-for">everything WENT eXACTly [as PLANNED for] the PARTy.</li>
+        <li className="list-none margin-bottom-20">Mọi thứ diễn ra đúng [như kế hoạch cho] bữa tiệc.</li>
 
-        <li value="5" id="">i'm NOT eXACTly SURE WHAT he MEANT by THAT.</li>
-        <li className="list-none margin-bottom-20">Tôi không thực sự chắc chắn về ý của anh ấy.</li>
+        <li value="5" id="SURE-WHAT-he-MEANT">i'm NOT eXACTly [SURE WHAT he MEANT] by THAT.</li>
+        <li className="list-none margin-bottom-20">Tôi không thực sự chắc chắn [về ý của anh ấy].</li>
 
-        <li value="6" id="">eXACTly HOW <strong>man</strong>y PEOple atTENDed the CONFERence?</li>
-        <li className="list-none margin-bottom-20">Chính xác có bao nhiêu người tham dự hội nghị?</li>
+        <li value="6" id="HOW-many-PEOple">eXACTly [HOW <strong>man</strong>y PEOple] atTENDed the CONFERence?</li>
+        <li className="list-none margin-bottom-20">Chính xác [có bao nhiêu người] tham dự hội nghị?</li>
 
-        <li value="7">can you TELL me eXACTly WHERE the LIbrary IS?</li>
-        <li className="list-none margin-bottom-20">Bạn có thể cho tôi biết thư viện ở chính xác đâu không?</li>
+        <li value="7" id="WHERE-the-LIbrary-IS">can you TELL me eXACTly [WHERE the LIbrary IS]?</li>
+        <li className="list-none margin-bottom-20">Bạn có thể cho tôi biết [thư viện ở] chính xác [đâu không]?</li>
 
-        <li value="8">eXACTly WHEN DOES the TRAIN LEAVE?</li>
-        <li className="list-none margin-bottom-20">Tàu khởi hành chính xác lúc mấy giờ?</li>
+        <li value="8" id="WHEN-does">eXACTly [WHEN does] the TRAIN LEAVE?</li>
+        <li className="list-none margin-bottom-20">Tàu khởi hành chính xác [lúc mấy giờ]?</li>
 
-        <li value="9">her DRESS is eXACTly the SAME as MINE.</li>
-        <li className="list-none margin-bottom-20">Váy của cô ấy hoàn toàn giống với váy của tôi.</li>
+        <li value="9" id="the-SAME-as-MINE">her DRESS is eXACTly [the SAME as MINE].</li>
+        <li className="list-none margin-bottom-20">Váy của cô ấy hoàn toàn [giống với váy của tôi].</li>
 
-        <li value="10" id="">THIS BOOK is eXACTly WHAT i NEEDed for my REsearch.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này đúng là điều tôi cần cho bài nghiên cứu của mình.</li>
+        <li value="10" id="WHAT-i-NEEDed-for">THIS BOOK is eXACTly [WHAT i NEEDed for] my REsearch.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này đúng là [điều tôi cần cho] bài nghiên cứu của mình.</li>
 
       </ol>
 

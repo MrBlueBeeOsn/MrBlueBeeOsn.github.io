@@ -30,43 +30,43 @@ export default function preCISEly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MEASured">MEASured</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#CALculated">CALculated</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#deFINES">deFINES</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#loCAted">loCAted</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FOLlowed">FOLlowed</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#deSCRIBED">deSCRIBED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#exPLAINED">exPLAINED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#conTROLLED">conTROLLED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#aLIGNED">aLIGNED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TIMED">TIMED</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function preCISEly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the SCIentist preCISEly MEASured the CHEMicals.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học đo lường các hóa chất một cách chính xác.</li>
+        <li value="1" id="MEASured">the SCIentist preCISEly [MEASured] the CHEMicals.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học [đã đo lường] các hóa chất một cách chính xác.</li>
 
-        <li value="2" id="">the engiNEER preCISEly CALculated the diMENsions.</li>
-        <li className="list-none margin-bottom-20">Kỹ sư tính toán các kích thước một cách chính xác.</li>
+        <li value="2" id="CALculated">the engiNEER preCISEly [CALculated] the diMENsions.</li>
+        <li className="list-none margin-bottom-20">Kỹ sư [đã tính toán] các kích thước một cách chính xác.</li>
 
-        <li value="3" id="">the LAW preCISEly deFINES the TERMS.</li>
-        <li className="list-none margin-bottom-20">Luật định nghĩa các điều khoản một cách chính xác.</li>
+        <li value="3" id="deFINES">the LAW preCISEly [deFINES] the TERMS.</li>
+        <li className="list-none margin-bottom-20">Luật [định nghĩa] các điều khoản một cách chính xác.</li>
 
-        <li value="4" id="">the MAP preCISEly loCAted the TREAsure.</li>
-        <li className="list-none margin-bottom-20">Bản đồ xác định vị trí kho báu một cách chính xác.</li>
+        <li value="4" id="loCAted">the MAP preCISEly [loCAted] the TREAsure.</li>
+        <li className="list-none margin-bottom-20">Bản đồ [đã xác định] vị trí kho báu một cách chính xác.</li>
 
-        <li value="5" id="">the CHEF preCISEly FOLlowed the RECipe.</li>
-        <li className="list-none margin-bottom-20">Đầu bếp tuân theo công thức một cách chính xác.</li>
+        <li value="5" id="FOLlowed">the CHEF preCISEly [FOLlowed] the RECipe.</li>
+        <li className="list-none margin-bottom-20">Đầu bếp [đã tuân theo] công thức một cách chính xác.</li>
 
-        <li value="6" id="">the WITness preCISEly deSCRIBED the SUSpect.</li>
-        <li className="list-none margin-bottom-20">Nhân chứng miêu tả nghi phạm một cách chính xác.</li>
+        <li value="6" id="deSCRIBED">the WITness preCISEly [deSCRIBED] the SUSpect.</li>
+        <li className="list-none margin-bottom-20">Nhân chứng [đã miêu tả] nghi phạm một cách chính xác.</li>
 
-        <li value="7" id="">the TEACHer preCISEly exPLAINED the CONcept.</li>
-        <li className="list-none margin-bottom-20">Giáo viên giải thích khái niệm một cách chính xác.</li>
+        <li value="7" id="exPLAINED">the TEACHer preCISEly [exPLAINED] the CONcept.</li>
+        <li className="list-none margin-bottom-20">Giáo viên [đã giải thích] khái niệm một cách chính xác.</li>
 
-        <li value="8" id="">the maCHINE preCISEly conTROLLED the TEMPERature.</li>
-        <li className="list-none margin-bottom-20">Máy móc kiểm soát nhiệt độ một cách chính xác.</li>
+        <li value="8" id="conTROLLED">the maCHINE preCISEly [conTROLLED] the TEMPERature.</li>
+        <li className="list-none margin-bottom-20">Máy móc [đã kiểm soát] nhiệt độ một cách chính xác.</li>
 
-        <li value="9" id="">the PARTS were preCISEly aLIGNED.</li>
-        <li className="list-none margin-bottom-20">Các bộ phận được căn chỉnh một cách chính xác.</li>
+        <li value="9" id="aLIGNED">the PARTS were preCISEly [aLIGNED].</li>
+        <li className="list-none margin-bottom-20">Các bộ phận đã [được căn chỉnh] một cách chính xác.</li>
 
-        <li value="10" id="">the eVENT was preCISEly TIMED.</li>
-        <li className="list-none margin-bottom-20">Sự kiện được định thời gian một cách chính xác.</li>
+        <li value="10" id="TIMED">the eVENT was preCISEly [TIMED].</li>
+        <li className="list-none margin-bottom-20">Sự kiện đã [được định thời gian] một cách chính xác.</li>
 
       </ol>
 
