@@ -46,9 +46,9 @@ export default function TENderly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#SPOKE-to">SPOKE to</HashLink>
+            <HashLink smooth to="#SPOKE-to-about">SPOKE to ... a<strong>bout</strong></HashLink>
           </span> &nbsp;
-
+        
           <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#LOOKED-at">LOOKED at</HashLink>
           </span> &nbsp;
@@ -115,8 +115,8 @@ export default function TENderly2(): React.JSX.Element {
         <li value="4" id="CARED-for">she TENderly [CARED for] her SICK MOTHer.</li>
         <li className="list-none margin-bottom-20">Cô ấy [chăm sóc] người mẹ ốm yếu của mình một cách dịu dàng.</li>
 
-        <li value="5" id="SPOKE-to">he TENderly [SPOKE to] her a<strong>bout</strong> her FEARS.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [nói chuyện với] cô ấy về nỗi sợ hãi của cô ấy một cách dịu dàng.</li>
+        <li value="5" id="SPOKE-to-about">he TENderly [SPOKE to] her [a<strong>bout</strong>] her FEARS.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [nói chuyện với] cô ấy [về] nỗi sợ hãi của cô ấy một cách dịu dàng.</li>
 
         <li value="6" id="LOOKED-at">she TENderly [LOOKED at] her SLEEPing CHILD.</li>
         <li className="list-none margin-bottom-20">Cô ấy [nhìn] đứa con đang ngủ của mình một cách dịu dàng.</li>

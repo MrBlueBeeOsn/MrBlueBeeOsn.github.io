@@ -15,7 +15,7 @@ export default function VISibly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-chinh-xac"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-ro-rang"><mark className="highlight-tertiary-padding-4-8">ADverbs: rõ ràng</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">VISibly
         <sup>
@@ -34,15 +34,15 @@ export default function VISibly1(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#upSET">upSET</HashLink>
+            <HashLink smooth to="#upSET-after-HEARing">upSET <strong>af</strong>ter HEARing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#SHAken">SHAken</HashLink>
+            <HashLink smooth to="#SHAken-after">SHAken <strong>af</strong>ter</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#reLIEVED">reLIEVED</HashLink>
+            <HashLink smooth to="#reLIEVED-when">reLIEVED when</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -106,14 +106,14 @@ export default function VISibly1(): React.JSX.Element {
         <li value="1" id="exCIted-about">the CHILDren were VISibly [exCIted a<strong>bout</strong>] the UPcoming TRIP.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ rõ ràng [phấn khích về] chuyến đi sắp tới.</li>
 
-        <li value="2" id="upSET">she was VISibly [upSET] <strong>af</strong>ter HEARing the BAD NEWS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rõ ràng [buồn] sau khi nghe tin xấu.</li>
+        <li value="2" id="upSET-after-HEARing">she was VISibly [upSET <strong>af</strong>ter HEARing] the BAD NEWS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rõ ràng [buồn sau khi nghe] tin xấu.</li>
 
-        <li value="3" id="SHAken">he was VISibly [SHAken] <strong>af</strong>ter the ACcident.</li>
-        <li className="list-none margin-bottom-20">Anh ấy rõ ràng [hoảng loạn] sau vụ tai nạn.</li>
+        <li value="3" id="SHAken-after">he was VISibly [SHAken <strong>af</strong>ter] the ACcident.</li>
+        <li className="list-none margin-bottom-20">Anh ấy rõ ràng [hoảng loạn sau] vụ tai nạn.</li>
 
-        <li value="4" id="reLIEVED">she was VISibly [reLIEVED] when she FOUND her LOST KEYS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rõ ràng [nhẹ nhõm] khi tìm thấy chìa khóa bị mất.</li>
+        <li value="4" id="reLIEVED-when">she was VISibly [reLIEVED when] she FOUND her LOST KEYS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rõ ràng [nhẹ nhõm khi] tìm thấy chìa khóa bị mất.</li>
 
         <li value="5" id="AGED"><strong>af</strong>ter YEARS of HARD WORK, he LOOKED VISibly [AGED].</li>
         <li className="list-none margin-bottom-20">Sau nhiều năm làm việc chăm chỉ, anh ấy trông [già đi] rõ rệt.</li>

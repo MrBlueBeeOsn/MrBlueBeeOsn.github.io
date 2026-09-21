@@ -62,7 +62,7 @@ export default function efFICiently2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#transPORTS-to">transPORTS to</HashLink>
+            <HashLink smooth to="#transPORTS-to">transPORTS ... to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">

@@ -30,7 +30,7 @@ export default function efFECtively2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#comMUnicated-to">comMUnicated to</HashLink>
+            <HashLink smooth to="#comMUnicated-to">comMUnicated ... to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">

@@ -30,43 +30,43 @@ export default function GRADually2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#inCREASED">inCREASED</HashLink>
+            <HashLink smooth to="#inCREASED-throughout">inCREASED through<strong>out</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#deCREASED">deCREASED</HashLink>
+            <HashLink smooth to="#deCREASED-as">deCREASED as</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#reCOVered">reCOVered</HashLink>
+            <HashLink smooth to="#reCOVered-from">reCOVered from</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#CHANGED">CHANGED</HashLink>
+            <HashLink smooth to="#CHANGED-over">CHANGED <strong>o</strong>ver</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#imPROVED">imPROVED</HashLink>
+            <HashLink smooth to="#imPROVED-after">imPROVED <strong>af</strong>ter</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#FAded">FAded</HashLink>
+            <HashLink smooth to="#FAded-as">FAded as</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#disapPEARED">disapPEARED</HashLink>
+            <HashLink smooth to="#disapPEARED-after">disapPEARED <strong>af</strong>ter</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#deVELoped">deVELoped</HashLink>
+            <HashLink smooth to="#deVELoped-into">deVELoped <strong>in</strong>to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#aDAPTed">aDAPTed</HashLink>
+            <HashLink smooth to="#aDAPTed-to">aDAPTed to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#deCLINED">deCLINED</HashLink>
+            <HashLink smooth to="#deCLINED-after">deCLINED <strong>af</strong>ter</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function GRADually2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="inCREASED">the TEMPERature GRADually [inCREASED] through<strong>out</strong> the DAY.</li>
-        <li className="list-none margin-bottom-20">Nhiệt độ [tăng] dần suốt cả ngày.</li>
+        <li value="1" id="inCREASED-throughout">the TEMPERature GRADually [inCREASED through<strong>out</strong>] the DAY.</li>
+        <li className="list-none margin-bottom-20">Nhiệt độ [tăng] dần [suốt] cả ngày.</li>
 
-        <li value="2" id="deCREASED">the NOISE GRADually [deCREASED] as we MOVED FARther aWAY.</li>
-        <li className="list-none margin-bottom-20">Tiếng ồn [giảm] dần khi chúng tôi đi xa hơn.</li>
+        <li value="2" id="deCREASED-as">the NOISE GRADually [deCREASED as] we MOVED FARther aWAY.</li>
+        <li className="list-none margin-bottom-20">Tiếng ồn [giảm] dần [khi] chúng tôi đi xa hơn.</li>
 
-        <li value="3" id="reCOVered">she GRADually [reCOVered] from her ILLness.</li>
+        <li value="3" id="reCOVered-from">she GRADually [reCOVered from] her ILLness.</li>
         <li className="list-none margin-bottom-20">Cô ấy dần dần [hồi phục] sức khỏe sau khi ốm.</li>
 
-        <li value="4" id="CHANGED">the CLImate GRADually [CHANGED] <strong>o</strong>verMILlions of YEARS.</li>
-        <li className="list-none margin-bottom-20">Khí hậu [thay đổi] dần trong hàng triệu năm.</li>
+        <li value="4" id="CHANGED-over">the CLImate GRADually [CHANGED <strong>o</strong>ver] MILlions of YEARS.</li>
+        <li className="list-none margin-bottom-20">Khí hậu [thay đổi] dần [trong] hàng triệu năm.</li>
 
-        <li value="5" id="imPROVED">his ENGlish GRADually [imPROVED] <strong>af</strong>ter STUDying for a YEAR.</li>
-        <li className="list-none margin-bottom-20">Tiếng Anh của anh ấy [cải thiện] dần sau khi học một năm.</li>
+        <li value="5" id="imPROVED-after">his ENGlish GRADually [imPROVED <strong>af</strong>ter] STUDying for a YEAR.</li>
+        <li className="list-none margin-bottom-20">Tiếng Anh của anh ấy [cải thiện] dần [sau khi] học một năm.</li>
 
-        <li value="6" id="FAded">the SUNlight GRADually [FAded] as the DAY TURNED into NIGHT.</li>
-        <li className="list-none margin-bottom-20">Ánh nắng mặt trời dần dần [mờ nhạt] khi ngày chuyển sang đêm.</li>
+        <li value="6" id="FAded-as">the SUNlight GRADually [FAded as] the DAY TURNED into NIGHT.</li>
+        <li className="list-none margin-bottom-20">Ánh nắng mặt trời dần dần [mờ nhạt khi] ngày chuyển sang đêm.</li>
 
-        <li value="7" id="disapPEARED">the PAIN GRADually [disapPEARED] <strong>af</strong>ter TAKing the MEDicine.</li>
-        <li className="list-none margin-bottom-20">Cơn đau dần dần [biến mất] sau khi uống thuốc.</li>
+        <li value="7" id="disapPEARED-after">the PAIN GRADually [disapPEARED <strong>af</strong>ter] TAKing the MEDicine.</li>
+        <li className="list-none margin-bottom-20">Cơn đau dần dần [biến mất sau khi] uống thuốc.</li>
 
-        <li value="8" id="deVELoped">the CIty GRADually [deVELoped] into a MAjor meTROPolis.</li>
-        <li className="list-none margin-bottom-20">Thành phố dần dần [phát triển] thành một đô thị lớn.</li>
+        <li value="8" id="deVELoped-into">the CIty GRADually [deVELoped <strong>in</strong>to] a MAjor meTROPolis.</li>
+        <li className="list-none margin-bottom-20">Thành phố dần dần [phát triển thành] một đô thị lớn.</li>
 
-        <li value="9" id="aDAPTed">she GRADually [aDAPTed] to the NEW enVIronment.</li>
-        <li className="list-none margin-bottom-20">Cô ấy dần dần [thích nghi] với môi trường mới.</li>
+        <li value="9" id="aDAPTed-to">she GRADually [aDAPTed to] the NEW enVIronment.</li>
+        <li className="list-none margin-bottom-20">Cô ấy dần dần [thích nghi với] môi trường mới.</li>
 
-        <li value="10" id="deCLINED">his HEALTH GRADually [deCLINED] <strong>af</strong>ter the ACcident.</li>
-        <li className="list-none margin-bottom-20">Sức khỏe của ông ấy dần dần [suy giảm] sau tai nạn.</li>
+        <li value="10" id="deCLINED-after">his HEALTH GRADually [deCLINED <strong>af</strong>ter] the ACcident.</li>
+        <li className="list-none margin-bottom-20">Sức khỏe của ông ấy dần dần [suy giảm sau] tai nạn.</li>
 
       </ol>
 

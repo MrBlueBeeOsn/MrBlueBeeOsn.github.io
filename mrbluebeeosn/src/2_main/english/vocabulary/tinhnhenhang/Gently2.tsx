@@ -50,7 +50,7 @@ export default function GENTly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#SPOKE-to">SPOKE to</HashLink>
+            <HashLink smooth to="#SPOKE-to">SPOKE ... to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >

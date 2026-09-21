@@ -30,11 +30,11 @@ export default function perSISTently2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#purSUED-of">purSUED of</HashLink>
+            <HashLink smooth to="#purSUED-of">purSUED ... of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#QUESTioned-about">QUESTioned a<strong>bout</strong></HashLink>
+            <HashLink smooth to="#QUESTioned-about">QUESTioned ... a<strong>bout</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">

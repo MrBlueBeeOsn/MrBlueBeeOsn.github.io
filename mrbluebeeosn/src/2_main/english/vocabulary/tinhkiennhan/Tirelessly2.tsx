@@ -34,7 +34,7 @@ export default function TIRElessly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#purSUED-of">purSUED of</HashLink>
+            <HashLink smooth to="#purSUED-of">purSUED ... of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">

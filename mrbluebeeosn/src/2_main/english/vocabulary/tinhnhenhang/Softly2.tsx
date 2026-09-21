@@ -46,7 +46,7 @@ export default function SOFTly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#BRUSHED">BRUSHED</HashLink>
+            <HashLink smooth to="#BRUSHED-with">BRUSHED ... with</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -104,19 +104,19 @@ export default function SOFTly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="SPOken-to">she SOFTly [SPOken to] the BAby to CALM it DOWN.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [nói] nhỏ nhẹ với em bé để dỗ nó nín.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [nói] nhỏ nhẹ [với] em bé để dỗ nó nín.</li>
 
         <li value="2" id="LIT-by">the ROOM was SOFTly [LIT by] CANdlelight.</li>
-        <li className="list-none margin-bottom-20">Căn phòng [được chiếu sáng] dịu nhẹ bởi ánh nến.</li>
+        <li className="list-none margin-bottom-20">Căn phòng [được chiếu sáng] dịu nhẹ [bởi] ánh nến.</li>
 
         <li value="3" id="PADded-for">the CHAIR was SOFTly [PADded for] COMfort.</li>
         <li className="list-none margin-bottom-20">Chiếc ghế [được đệm] mềm mại để tạo cảm giác thoải mái.</li>
 
         <li value="4" id="PLAYED-in">the MUsic was SOFTly [PLAYED in] the BACKground.</li>
-        <li className="list-none margin-bottom-20">Âm nhạc [được chơi] nhẹ nhàng ở nền.</li>
+        <li className="list-none margin-bottom-20">Âm nhạc [được chơi] nhẹ nhàng [ở] nền.</li>
 
-        <li value="5" id="BRUSHED">she SOFTly [BRUSHED] her HAIR with a WOODen COMB.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [chải] nhẹ nhàng mái tóc bằng chiếc lược gỗ.</li>
+        <li value="5" id="BRUSHED-with">she SOFTly [BRUSHED] her HAIR [with] a WOODen COMB.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [chải] nhẹ nhàng mái tóc [bằng] chiếc lược gỗ.</li>
 
         <li value="6" id="WHISpered-in">he SOFTly [WHISpered in] her EAR.</li>
         <li className="list-none margin-bottom-20">Anh ấy [thì thầm] nhẹ nhàng [vào] tai cô ấy.</li>
