@@ -512,8 +512,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const PerHAPS2 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/perHAPS2'));
 	const POSsibly1 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/POSsibly1'));
 	const POSsibly2 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/POSsibly2'));
-	const QUEStionably1 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/QUEStionably1'));
-	const QUEStionably2 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/QUEStionably2'));
+	const QUESTionably1 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/QUESTionably1'));
+	const QUESTionably2 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/QUESTionably2'));
 	const PROBably1 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/PROBably1'));
 	const PROBably2 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/PROBably2'));
 	const ApPARently1 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/apPARently1'));
@@ -580,8 +580,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const PAtiently2 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/PAtiently2'));
 	const TIRElessly1 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/TIRElessly1'));
 	const TIRElessly2 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/TIRElessly2'));
-	const PerSIStently1 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/perSIStently1'));
-	const PerSIStently2 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/perSIStently2'));
+	const PerSIStently1 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/perSISTently1'));
+	const PerSIStently2 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/perSISTently2'));
 	const STEADily1 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/STEADily1'));
 	const STEADily2 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/STEADily2'));
 
@@ -1141,8 +1141,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/perHAPS-2" element={<PerHAPS2 />} />
 					<Route path="/vocabulary/POSsibly-1" element={<POSsibly1 />} />
 					<Route path="/vocabulary/POSsibly-2" element={<POSsibly2 />} />
-					<Route path="/vocabulary/QUEStionably-1" element={<QUEStionably1 />} />
-					<Route path="/vocabulary/QUEStionably-2" element={<QUEStionably2 />} />
+					<Route path="/vocabulary/QUESTionably-1" element={<QUESTionably1 />} />
+					<Route path="/vocabulary/QUESTionably-2" element={<QUESTionably2 />} />
 					<Route path="/vocabulary/PROBably-1" element={<PROBably1 />} />
 					<Route path="/vocabulary/PROBably-2" element={<PROBably2 />} />
 					<Route path="/vocabulary/apPARently-1" element={<ApPARently1 />} />
@@ -1209,8 +1209,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/PAtiently-2" element={<PAtiently2 />} />
 					<Route path="/vocabulary/TIRElessly-1" element={<TIRElessly1 />} />
 					<Route path="/vocabulary/TIRElessly-2" element={<TIRElessly2 />} />
-					<Route path="/vocabulary/perSIStently-1" element={<PerSIStently1 />} />
-					<Route path="/vocabulary/perSIStently-2" element={<PerSIStently2 />} />
+					<Route path="/vocabulary/perSISTently-1" element={<PerSIStently1 />} />
+					<Route path="/vocabulary/perSISTently-2" element={<PerSIStently2 />} />
 					<Route path="/vocabulary/STEADily-1" element={<STEADily1 />} />
 					<Route path="/vocabulary/STEADily-2" element={<STEADily2 />} />
 

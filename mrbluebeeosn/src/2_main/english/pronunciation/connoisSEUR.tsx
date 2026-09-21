@@ -15,7 +15,7 @@ export default function connoisSEUR(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/pronunciation#Syllable-Secret"><mark className="highlight-tertiary-padding-4-8">Syllable Secret</mark></HashLink></h4>
+      <h4><HashLink smooth to="/pronunciation#SYLlable-SEcret"><mark className="highlight-tertiary-padding-4-8">SYLlable SEcret</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">connoisSEUR</h1>
 

@@ -69,7 +69,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>my MOTHer BAKED a <strong>deLICious</strong> CHOCOLate CAKE for my BIRTHday PARTy.</li>
 					<li className="margin-bottom-20 list-none">Mẹ tôi đã nướng một chiếc bánh sô-cô-la <strong>ngon tuyệt</strong> cho bữa tiệc sinh nhật của tôi.</li>
 			
-					<li>CHILDren are NATURally <strong>CURious</strong> a<strong>bout</strong> the WORLD around them and ALWAYS ASK <strong>man</strong>y QUEStions.</li>
+					<li>CHILDren are NATURally <strong>CURious</strong> a<strong>bout</strong> the WORLD around them and ALWAYS ASK <strong>man</strong>y QUESTions.</li>
 					<li className="margin-bottom-20 list-none">Trẻ em vốn dĩ <strong>tò mò</strong> về thế giới xung quanh và luôn đặt ra rất nhiều câu hỏi.</li>
 			
 					<li>the COMpany MADE an <strong>eNORmous</strong> PROFit this YEAR <strong>af</strong>ter LAUNCHing their NEW PRODuct LINE.</li>

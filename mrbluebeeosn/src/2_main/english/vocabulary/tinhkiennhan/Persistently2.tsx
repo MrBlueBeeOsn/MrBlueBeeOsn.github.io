@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function perSIStently2(): React.JSX.Element {
+export default function perSISTently2(): React.JSX.Element {
 
-  const postId = "perSIStently2";
+  const postId = "perSISTently2";
 
   return (<>
 
@@ -17,12 +17,12 @@ export default function perSIStently2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adverbs-kien-nhan"><mark className="highlight-tertiary-padding-4-8">ADverbs: kiên nhẫn</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">perSIStently
+      <h1 className="margin-y-50 text-center">perSISTently
         <sup>
-          <Link to="/vocabulary/perSIStently-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/perSISTently-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/perSIStently-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/perSISTently-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
@@ -30,43 +30,43 @@ export default function perSIStently2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#purSUED-of">purSUED of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#QUESTioned-about">QUESTioned a<strong>bout</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#deNIED">deNIED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#RUmored-that">RUmored that</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#reMAINED">reMAINED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#pesSISTic-about">pesSISTic a<strong>bout</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#anNOYing">anNOYing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#RAINing-for">RAINing for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#KNOCKing-at">KNOCKing at</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TRIED">TRIED</HashLink>
           </span> &nbsp;
 
         </p>
@@ -75,7 +75,7 @@ export default function perSIStently2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>perSIStently</strong>" (một cách kiên trì) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>perSISTently</strong>" (một cách kiên trì) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -85,7 +85,7 @@ export default function perSIStently2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              perSIStently \<Link to="/pronunciation/5-vowel-system">pe̛r SIS te̛nt ly</Link>\ /pəˈsɪs.tənt.li/ •⬤•• (4x)
+              perSISTently \<Link to="/pronunciation/5-vowel-system">pe̛r SIS te̛nt ly</Link>\ /pəˈsɪs.tənt.li/ •⬤•• (4x)
               
             </span>
               
@@ -103,35 +103,35 @@ export default function perSIStently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she perSIStently purSUED her DREAM of beCOMing a DOCtor.</li>
-        <li className="list-none margin-bottom-20">Cô ấy kiên trì theo đuổi ước mơ trở thành bác sĩ.</li>
+        <li value="1" id="purSUED-of">she perSISTently [purSUED] her DREAM [of] beCOMing a DOCtor.</li>
+        <li className="list-none margin-bottom-20">Cô ấy kiên trì [theo đuổi] ước mơ trở thành bác sĩ.</li>
 
-        <li value="2" id="">the JOURnalist perSIStently QUEStioned the poliTICian a<strong>bout</strong> the SCANdal.</li>
-        <li className="list-none margin-bottom-20">Nhà báo kiên trì đặt câu hỏi cho chính trị gia về vụ bê bối.</li>
+        <li value="2" id="QUESTioned-about">the JOURnalist perSISTently [QUESTioned] the poliTICian [a<strong>bout</strong>] the SCANdal.</li>
+        <li className="list-none margin-bottom-20">Nhà báo kiên trì [đặt câu hỏi] cho chính trị gia [về] vụ bê bối.</li>
 
-        <li value="3" id="">he perSIStently deNIED any inVOLVEment in the CRIME.</li>
-        <li className="list-none margin-bottom-20">Anh ta kiên quyết phủ nhận bất kỳ liên quan nào đến tội ác.</li>
+        <li value="3" id="deNIED">he perSISTently [deNIED] any inVOLVEment in the CRIME.</li>
+        <li className="list-none margin-bottom-20">Anh ta kiên quyết [phủ nhận] bất kỳ liên quan nào đến tội ác.</li>
 
-        <li value="4" id="">it was perSIStently RUmored that he would reSIGN.</li>
-        <li className="list-none margin-bottom-20">Người ta liên tục đồn đại rằng ông ta sẽ từ chức.</li>
+        <li value="4" id="RUmored-that">it was perSISTently [RUmored that] he would reSIGN.</li>
+        <li className="list-none margin-bottom-20">Người ta liên tục [đồn đại rằng] ông ta sẽ từ chức.</li>
 
-        <li value="5" id="">despite the DIFficulties, she reMAINED perSIStently optiMIStic.</li>
-        <li className="list-none margin-bottom-20">Mặc dù gặp khó khăn, cô ấy vẫn luôn lạc quan.</li>
+        <li value="5" id="reMAINED">despite the DIFficulties, she [reMAINED] perSISTently optiMIStic.</li>
+        <li className="list-none margin-bottom-20">Mặc dù gặp khó khăn, cô ấy [vẫn] luôn lạc quan.</li>
 
-        <li value="6" id="">he was perSIStently pesSIStic a<strong>bout</strong> the FUture of the COMpany.</li>
-        <li className="list-none margin-bottom-20">Anh ta luôn bi quan về tương lai của công ty.</li>
+        <li value="6" id="pesSISTic-about">he was perSISTently [pesSISTic a<strong>bout</strong>] the FUture of the COMpany.</li>
+        <li className="list-none margin-bottom-20">Anh ta luôn [bi quan về] tương lai của công ty.</li>
 
-        <li value="7" id="">the NOISE from the conSTRUCtion SITE was perSIStently anNOYing.</li>
-        <li className="list-none margin-bottom-20">Tiếng ồn từ công trường xây dựng làm phiền dai dẳng.</li>
+        <li value="7" id="anNOYing">the NOISE from the conSTRUCtion SITE was perSISTently [anNOYing].</li>
+        <li className="list-none margin-bottom-20">Tiếng ồn từ công trường xây dựng [làm phiền] dai dẳng.</li>
 
-        <li value="8" id="">it has been perSIStently RAINing for DAYS.</li>
-        <li className="list-none margin-bottom-20">Trời đã mưa dai dẳng suốt mấy ngày.</li>
+        <li value="8" id="RAINing-for">it has been perSISTently [RAINing for] DAYS.</li>
+        <li className="list-none margin-bottom-20">Trời đã [mưa] dai dẳng [suốt] mấy ngày.</li>
 
-        <li value="9" id="">SOMEone was perSIStently KNOCKing at the DOOR.</li>
-        <li className="list-none margin-bottom-20">Ai đó đang gõ cửa liên tục.</li>
+        <li value="9" id="KNOCKing-at">SOMEone was perSISTently [KNOCKing at] the DOOR.</li>
+        <li className="list-none margin-bottom-20">Ai đó [đang gõ] cửa liên tục.</li>
 
-        <li value="10" id="">he perSIStently TRIED to SOLVE the PUZzle.</li>
-        <li className="list-none margin-bottom-20">Anh ấy cố gắng không ngừng để giải câu đố.</li>
+        <li value="10" id="TRIED">he perSISTently [TRIED] to SOLVE the PUZzle.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [cố gắng] không ngừng để giải câu đố.</li>
 
       </ol>
 
@@ -147,7 +147,7 @@ export default function perSIStently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>perSIStently</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"<strong>perSISTently</strong>" thường đứng trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể mang cả ý nghĩa tích cực và tiêu cực, tùy thuộc vào ngữ cảnh sử dụng.</li>
 

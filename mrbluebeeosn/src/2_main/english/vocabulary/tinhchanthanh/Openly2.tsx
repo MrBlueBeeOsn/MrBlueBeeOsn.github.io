@@ -115,7 +115,7 @@ export default function Openly2(): React.JSX.Element {
         <li value="4" id="">the CAUSE was Openly supPORTed by <strong>man</strong>y ceLEBrities.</li>
         <li className="list-none margin-bottom-20">Nguyên nhân này đã được nhiều người nổi tiếng ủng hộ công khai.</li>
 
-        <li value="5" id="">the THEORy was Openly QUEStioned by <strong>man</strong>y SCIentists.</li>
+        <li value="5" id="">the THEORy was Openly QUESTioned by <strong>man</strong>y SCIentists.</li>
         <li className="list-none margin-bottom-20">Thuyết này đã bị nhiều nhà khoa học đặt câu hỏi công khai.</li>
 
         <li value="6" id="">the PLAN was Openly opPOSED by the LOcal RESidents.</li>

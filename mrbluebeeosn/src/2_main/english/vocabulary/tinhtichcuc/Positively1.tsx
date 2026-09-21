@@ -252,10 +252,10 @@ export default function POSitively1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1">he ANswered the QUEStion.</li>
+            <li value="1">he ANswered the QUESTion.</li>
             <li className="list-none margin-bottom-20">Anh ấy trả lời câu hỏi.</li>
 
-            <li value="2">he ANswered the QUEStion POSitively.</li>
+            <li value="2">he ANswered the QUESTion POSitively.</li>
             <li className="list-none margin-bottom-20">Anh ấy trả lời câu hỏi một cách khẳng định/tích cực.</li>
 
           </ol>

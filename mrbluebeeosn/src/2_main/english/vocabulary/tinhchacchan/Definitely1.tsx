@@ -190,7 +190,7 @@ export default function DEFinitely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he NODded DEFinitely in reSPONSE to the QUEStion.</li>
+          <li>he NODded DEFinitely in reSPONSE to the QUESTion.</li>
           <li className="list-none">Anh ấy gật đầu một cách chắc chắn để trả lời câu hỏi.</li>
 
         </ul>

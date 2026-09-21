@@ -139,7 +139,7 @@ export default function BAsically1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>esSENtially, it's a QUEStion of MONey.</li>
+          <li>esSENtially, it's a QUESTion of MONey.</li>
           <li className="margin-bottom-20 list-none">Về bản chất, đó là một vấn đề về tiền bạc.</li>
 
           <li>fundaMENtally, i aGREE with you.</li>

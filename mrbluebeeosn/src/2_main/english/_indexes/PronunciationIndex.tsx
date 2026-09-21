@@ -72,7 +72,7 @@ export default function PronunciationIndex(): React.JSX.Element {
 
         <div className="sub-box">
       
-          <p id="Syllable-Secret"><mark className="highlight-secondary-padding-2-4">Syllable Secret</mark></p>
+          <p id="SYLlable-SEcret"><mark className="highlight-secondary-padding-2-4">SYLlable SEcret</mark></p>
 
           <ul className="list-border1">
 

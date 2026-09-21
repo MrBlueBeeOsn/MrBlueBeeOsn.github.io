@@ -74,7 +74,7 @@ export default function EVParaphrasingTechniquesQuiz(): React.JSX.Element {
 			options: [
 				"Using ANtonyms",
 				"CHAnging the PART of SPEECH (ADjective to NOUN)",
-				"CHAnging a STATEment to a QUEStion",
+				"CHAnging a STATEment to a QUESTion",
 				"Only CHAnging the WORD ORder"
 			],
 			correctAnswer: 1,

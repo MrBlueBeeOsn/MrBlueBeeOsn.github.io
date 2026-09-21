@@ -118,7 +118,7 @@ export default function DEFinitely2(): React.JSX.Element {
         <li value="5" id="">the MOvie was DEFinitely WORTH it WATChing.</li>
         <li className="list-none margin-bottom-20">Bộ phim đó chắc chắn đáng xem.</li>
 
-        <li value="6" id="">i DEFinitely KNOW the ANswer to that QUEStion.</li>
+        <li value="6" id="">i DEFinitely KNOW the ANswer to that QUESTion.</li>
         <li className="list-none margin-bottom-20">Tôi chắc chắn biết câu trả lời cho câu hỏi đó.</li>
 
         <li value="7" id="">i DEFinitely recomMEND this REStaurant.</li>

@@ -322,10 +322,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/QUEStionably-1">QUEStionably
+							<Link to="/vocabulary/QUESTionably-1">QUESTionably
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/QUEStionably-2">
+									<Link to="/vocabulary/QUESTionably-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
@@ -905,10 +905,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/perSIStently-1">perSIStently
+							<Link to="/vocabulary/perSISTently-1">perSISTently
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/perSIStently-2">
+									<Link to="/vocabulary/perSISTently-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

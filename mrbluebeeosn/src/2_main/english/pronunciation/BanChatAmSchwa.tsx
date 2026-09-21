@@ -48,7 +48,7 @@ export default function BanChatAmSchwa(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#QUEStion">QUEStion</HashLink>
+            <HashLink smooth to="#QUESTion">QUESTion</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
@@ -130,7 +130,7 @@ export default function BanChatAmSchwa(): React.JSX.Element {
         </ul>
 
 
-      <h4 className="margin-y-40" id="QUEStion">4/ QUEStion \ˈkwes-tʃən\</h4>
+      <h4 className="margin-y-40" id="QUESTion">4/ QUESTion \ˈkwes-tʃən\</h4>
       
         <ul className="list-square">
       

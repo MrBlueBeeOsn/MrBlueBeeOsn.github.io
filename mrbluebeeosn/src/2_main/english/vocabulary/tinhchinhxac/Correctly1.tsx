@@ -97,7 +97,7 @@ export default function corRECTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADverb">she ANswered all the QUEStions corRECTly.</li>
+          <li id="ADverb">she ANswered all the QUESTions corRECTly.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã trả lời tất cả các câu hỏi một cách chính xác.</li>
 
           <li>PLEASE MAKE SURE you FILL in the FORM corRECTly.</li>
@@ -157,7 +157,7 @@ export default function corRECTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he ANswered the QUEStion incorRECTly.</li>
+          <li>he ANswered the QUESTion incorRECTly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã trả lời câu hỏi một cách sai lầm.</li>
 
           <li>she was TREATed imPROPerly.</li>
@@ -228,10 +228,10 @@ export default function corRECTly1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1">he ANswered the QUEStion.</li>
+            <li value="1">he ANswered the QUESTion.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi.</li>
 
-            <li value="2">he ANswered the QUEStion corRECTly.</li>
+            <li value="2">he ANswered the QUESTion corRECTly.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi một cách chính xác.</li>
 
           </ol>

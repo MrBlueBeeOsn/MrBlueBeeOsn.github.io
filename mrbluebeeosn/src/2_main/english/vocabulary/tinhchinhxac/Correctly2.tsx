@@ -106,7 +106,7 @@ export default function corRECTly2(): React.JSX.Element {
         <li value="1" id="">the deTECtive corRECTly iDENtified the SUSpect.</li>
         <li className="list-none margin-bottom-20">Thám tử đã nhận dạng chính xác nghi phạm.</li>
 
-        <li value="2" id="">she corRECTly ANswered all theQUEStions on the TEST.</li>
+        <li value="2" id="">she corRECTly ANswered all theQUESTions on the TEST.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã trả lời chính xác tất cả các câu hỏi trong bài kiểm tra.</li>
 
         <li value="3" id="">the MESsage was corRECTly inTERpreted by the reCEIver.</li>

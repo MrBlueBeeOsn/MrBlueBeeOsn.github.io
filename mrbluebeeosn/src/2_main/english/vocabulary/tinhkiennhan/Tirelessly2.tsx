@@ -149,7 +149,7 @@ export default function TIRElessly2(): React.JSX.Element {
 
           <li>"<strong>TIRElessly</strong>" thường đứng trước hành động để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "inCESsantly", "perSIStently", "reLENTlessly" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "inCESsantly", "perSISTently", "reLENTlessly" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 

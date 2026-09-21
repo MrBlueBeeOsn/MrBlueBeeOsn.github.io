@@ -15,7 +15,7 @@ export default function COMmenter(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/pronunciation#Syllable-Secret"><mark className="highlight-tertiary-padding-4-8">Syllable Secret</mark></HashLink></h4>
+      <h4><HashLink smooth to="/pronunciation#SYLlable-SEcret"><mark className="highlight-tertiary-padding-4-8">SYLlable SEcret</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">COMmenter</h1>
 
@@ -23,7 +23,7 @@ export default function COMmenter(): React.JSX.Element {
                                                   
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#The-Syllable-Secret">The Syllable Secret</HashLink>
+            <HashLink smooth to="#The-SYLlable-SEcret">The Syllable Secret</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
@@ -43,7 +43,7 @@ export default function COMmenter(): React.JSX.Element {
 
       {/* 1.  */}
 
-			<h3 className="margin-y-50 text-center" id="The-Syllable-Secret">The Syllable Secret of COMmenter: Why KHAA-men-tər is Correct</h3>
+			<h3 className="margin-y-50 text-center" id="The-SYLlable-SEcret">The Syllable Secret of COMmenter: Why KHAA-men-tər is Correct</h3>
 
       <p>When you look up the precise syllable division in the Merriam-Webster dictionary, it is written exactly like this:</p>
       
