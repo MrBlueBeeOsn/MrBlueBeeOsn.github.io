@@ -525,7 +525,7 @@ export default function Clear(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">5. Phân hệ [Tầng Đóng Gói][Tiered Structure]</h4>
+      <h4 className="margin-y-40">5. Phân hệ [Nhúng Đóng Gói][Tiered Structure]</h4>
 
       <p className="margin-top-20 text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, các khối mã sẽ lồng vào nhau tạo nên hệ thống phân tầng tối tân.</p>
 
@@ -541,7 +541,7 @@ export default function Clear(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -551,7 +551,7 @@ export default function Clear(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -571,7 +571,7 @@ export default function Clear(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -581,7 +581,7 @@ export default function Clear(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -603,7 +603,7 @@ export default function Clear(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -613,7 +613,7 @@ export default function Clear(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -636,7 +636,7 @@ export default function Clear(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -646,7 +646,7 @@ export default function Clear(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       

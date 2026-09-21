@@ -664,7 +664,7 @@ export default function Create(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">5. Phân hệ [Tầng Đóng Gói][Tiered Structure]</h4>
+      <h4 className="margin-y-40">5. Phân hệ [Nhúng Đóng Gói][Tiered Structure]</h4>
 
       <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
 
@@ -679,7 +679,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -689,7 +689,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -711,7 +711,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -721,7 +721,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -743,7 +743,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -753,7 +753,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -775,7 +775,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -785,7 +785,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -807,7 +807,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -817,7 +817,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -840,7 +840,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -850,7 +850,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -872,7 +872,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -882,7 +882,7 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       

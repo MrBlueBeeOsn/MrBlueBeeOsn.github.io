@@ -558,7 +558,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Phân Tầng Khối Dữ Liệu Phức Hợp [Tiered Modules]</h3>
+			<h3 className="margin-y-50 text-center">3. Phân Nhúng Khối Dữ Liệu Phức Hợp [Tiered Modules]</h3>
 
 			<p>Trong các cấu trúc phức tạp, các Module sẽ lồng vào nhau theo kiến trúc hình khối.</p>
 

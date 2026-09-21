@@ -464,24 +464,24 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong>:</p>
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [emBEDded PRESent PARTiciple VERB PHRASE][NHÚNG HIỆN TIẾP ĐỘNG CỤM] mở rộng từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "MAStering".</li>
+						<li className="list-none">Nhúng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [emBEDded PRESent PARTiciple VERB PHRASE][NHÚNG HIỆN TIẾP ĐỘNG CỤM] mở rộng từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "MAStering".</li>
 
-						<li className="list-none">Tầng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng ghép bên trong để phân tách chi tiết.</li>
+						<li className="list-none">Nhúng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng ghép bên trong để phân tách chi tiết.</li>
 				
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [ADjective PHRASE][TÍNH CỤM] bám sát phía sau "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
+					<li className="list-none">Nhúng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [ADjective PHRASE][TÍNH CỤM] bám sát phía sau "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
 
-					<li className="list-none">Tầng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "CORE THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
+					<li className="list-none">Nhúng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "CORE THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
 			
 				</ul>
 
@@ -495,24 +495,24 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong>:</p>
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [emBEDded PARTicle BARE VERB PHRASE][NHÚNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to dePLOY" kết hợp mở rộng cấu trúc.</li>
+						<li className="list-none">Nhúng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [emBEDded PARTicle BARE VERB PHRASE][NHÚNG HẠT THUẦN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to dePLOY" kết hợp mở rộng cấu trúc.</li>
 
-						<li className="list-none">Tầng 2: {'{which OPtimize WORKflow}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng sâu bên trong.</li>
+						<li className="list-none">Nhúng 2: {'{which OPtimize WORKflow}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng sâu bên trong.</li>
 				
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Tầng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [ADjective PHRASE][TÍNH CỤM] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho [NOUN BLOCK][DANH KHỐI] "the deCIsion".</li>
+					<li className="list-none">Nhúng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [ADjective PHRASE][TÍNH CỤM] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho [NOUN BLOCK][DANH KHỐI] "the deCIsion".</li>
 
-					<li className="list-none">Tầng 2: {'{which OPtimize WORKflow}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "AUtomated SYStems" nhằm xác định rõ tính năng của hệ thống.</li>
+					<li className="list-none">Nhúng 2: {'{which OPtimize WORKflow}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "AUtomated SYStems" nhằm xác định rõ tính năng của hệ thống.</li>
 			
 				</ul>
 
@@ -526,24 +526,24 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong>:</p>
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [of {'{WHAT they inVEStigated}'}] - [emBEDded prepoSITional PHRASE][NHÚNG GIỚI CỤM] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
+						<li className="list-none">Nhúng 1: [of {'{WHAT they inVEStigated}'}] - [emBEDded prepoSITional PHRASE][NHÚNG GIỚI CỤM] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
 
-						<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] kết hợp [SUBject PRONOUN][CHỦ ĐẠI] "WHAT" tạo nên lõi thông tin.</li>
+						<li className="list-none">Nhúng 2: {'{WHAT they inVEStigated}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] kết hợp [SUBject PRONOUN][CHỦ ĐẠI] "WHAT" tạo nên lõi thông tin.</li>
 				
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Tầng 1: [of {'{WHAT they inVEStigated}'}] - [ADjective PHRASE][TÍNH CỤM] mở rộng thông tin bổ trợ cho [NOUN BLOCK][DANH KHỐI] "the aNALysis".</li>
+					<li className="list-none">Nhúng 1: [of {'{WHAT they inVEStigated}'}] - [ADjective PHRASE][TÍNH CỤM] mở rộng thông tin bổ trợ cho [NOUN BLOCK][DANH KHỐI] "the aNALysis".</li>
 
-					<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
+					<li className="list-none">Nhúng 2: {'{WHAT they inVEStigated}'} - [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
 			
 				</ul>
 
@@ -557,24 +557,24 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Nhúng 1</strong>:</p>
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [emBEDded COMplex prepoSITional PHRASE][NHÚNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to" kết hợp tổ hợp phức hợp.</li>
+						<li className="list-none">Nhúng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [emBEDded COMplex prepoSITional PHRASE][NHÚNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to" kết hợp tổ hợp phức hợp.</li>
 
-						<li className="list-none">Tầng 2: {'{which afFECted proDUCtion}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] tích hợp bổ trợ tầng sâu.</li>
+						<li className="list-none">Nhúng 2: {'{which afFECted proDUCtion}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] tích hợp bổ trợ tầng sâu.</li>
 				
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Nhúng 2</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Tầng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [ADjective PHRASE][TÍNH CỤM] đa tầng bóc tách sâu nguyên nhân và hệ quả cho [NOUN BLOCK][DANH KHỐI] "SHIFTS".</li>
+					<li className="list-none">Nhúng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [ADjective PHRASE][TÍNH CỤM] đa tầng bóc tách sâu nguyên nhân và hệ quả cho [NOUN BLOCK][DANH KHỐI] "SHIFTS".</li>
 
-					<li className="list-none">Tầng 2: {'{which afFECted proDUCtion}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "MARket fluctuAtions" để chỉ rõ khía cạnh biến động.</li>
+					<li className="list-none">Nhúng 2: {'{which afFECted proDUCtion}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "MARket fluctuAtions" để chỉ rõ khía cạnh biến động.</li>
 			
 				</ul>
 			

@@ -100,7 +100,7 @@ export default function SuperWords4(): React.JSX.Element {
 
 			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">6. Công Thức Ba Tầng Của Tiếng Anh</h3>
+			<h3 className="margin-y-50 text-center">6. Công Thức Ba Nhúng Của Tiếng Anh</h3>
 
 			<p></p>
 
