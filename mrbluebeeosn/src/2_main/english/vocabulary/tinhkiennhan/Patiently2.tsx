@@ -29,44 +29,44 @@ export default function PAtiently2(): React.JSX.Element {
       <div className="example">
                                 
         <p className="example-sentence text-center">
-          <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#WAITed-for">WAITed for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LIStened-to">LIStened to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#exPLAINED">exPLAINED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TAUGHT">TAUGHT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WORKED-on">WORKED on</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#enDURED">enDURED</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#GUIded">GUIded</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#obSERVED">obSERVED</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#corRECTed">corRECTed</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#NURtured">NURtured</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function PAtiently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she PAtiently WAITed for her TURN.</li>
-        <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn chờ đến lượt mình.</li>
+        <li value="1" id="WAITed-for">she PAtiently [WAITed for] her TURN.</li>
+        <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn [chờ đến] lượt mình.</li>
 
-        <li value="2" id="">he PAtiently LIStened to the LONG explaNAtion.</li>
-        <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn lắng nghe lời giải thích dài dòng.</li>
+        <li value="2" id="LIStened-to">he PAtiently [LIStened to] the LONG explaNAtion.</li>
+        <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn [lắng nghe] lời giải thích dài dòng.</li>
 
-        <li value="3" id="">the TEAcher PAtiently exPLAINED the LESson aGAIN.</li>
-        <li className="list-none margin-bottom-20">Giáo viên kiên nhẫn giải thích lại bài học.</li>
+        <li value="3" id="exPLAINED">the TEAcher PAtiently [exPLAINED] the LESson aGAIN.</li>
+        <li className="list-none margin-bottom-20">Giáo viên kiên nhẫn [giải thích] lại bài học.</li>
 
-        <li value="4" id="">she PAtiently TAUGHT her CHILD HOW to READ.</li>
-        <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn dạy con mình đọc.</li>
+        <li value="4" id="TAUGHT">she PAtiently [TAUGHT] her CHILD HOW to READ.</li>
+        <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn [dạy] con mình đọc.</li>
 
-        <li value="5" id="">they PAtiently WORKED on the DIFficult PROJect.</li>
-        <li className="list-none margin-bottom-20">Họ kiên nhẫn làm việc cho dự án khó khăn.</li>
+        <li value="5" id="WORKED-on">they PAtiently [WORKED on] the DIFficult PROJect.</li>
+        <li className="list-none margin-bottom-20">Họ kiên nhẫn [làm việc cho] dự án khó khăn.</li>
 
-        <li value="6" id="">he PAtiently enDURED the PAIN.</li>
-        <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn chịu đựng cơn đau.</li>
+        <li value="6" id="enDURED">he PAtiently [enDURED] the PAIN.</li>
+        <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn [chịu đựng] cơn đau.</li>
 
-        <li value="7" id="">the TOUR GUIDE PAtiently GUIded the GROUP through the muSEum.</li>
-        <li className="list-none margin-bottom-20">Hướng dẫn viên du lịch kiên nhẫn hướng dẫn đoàn qua viện bảo tàng.</li>
+        <li value="7" id="GUIded">the TOUR GUIDE PAtiently [GUIded] the GROUP through the muSEum.</li>
+        <li className="list-none margin-bottom-20">Hướng dẫn viên du lịch kiên nhẫn [hướng dẫn] đoàn qua viện bảo tàng.</li>
 
-        <li value="8" id="">the SCIentist PAtiently obSERVED the exPERiment.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học kiên nhẫn quan sát thí nghiệm.</li>
+        <li value="8" id="obSERVED">the SCIentist PAtiently [obSERVED] the exPERiment.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học kiên nhẫn [quan sát] thí nghiệm.</li>
 
-        <li value="9" id="">she PAtiently corRECted the STUdent's misTAKES.</li>
-        <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn sửa lỗi cho học sinh.</li>
+        <li value="9" id="corRECTed">she PAtiently [corRECTed] the STUdent's misTAKES.</li>
+        <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn [sửa lỗi] cho học sinh.</li>
 
-        <li value="10" id="">they PAtiently NURtured the YOUNG PLANTS.</li>
-        <li className="list-none margin-bottom-20">Họ kiên nhẫn nuôi dưỡng những cây non.</li>
+        <li value="10" id="NURtured">they PAtiently [NURtured] the YOUNG PLANTS.</li>
+        <li className="list-none margin-bottom-20">Họ kiên nhẫn [nuôi dưỡng] những cây non.</li>
 
       </ol>
 

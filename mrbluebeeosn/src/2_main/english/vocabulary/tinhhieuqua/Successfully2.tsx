@@ -30,43 +30,43 @@ export default function sucCESSfully2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#comPLEted-on">comPLEted on</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LAUNCHED-in">LAUNCHED in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#IMplemented">IMplemented</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#neGOtiated">neGOtiated</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#aDAPTed-to">aDAPTed to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#deFENDed-against">deFENDed a<strong>gainst</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#reCOVered-from">reCOVered from</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#INtegrated-into">INtegrated <strong>in</strong>to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#overCAME">overCAME</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#perSUAded">perSUAded</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function sucCESSfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the PROJect was sucCESSfully comPLEted on TIME.</li>
-        <li className="list-none margin-bottom-20">Dự án đã được hoàn thành đúng hạn.</li>
+        <li value="1" id="comPLEted-on">the PROJect was sucCESSfully [comPLEted on] TIME.</li>
+        <li className="list-none margin-bottom-20">Dự án đã [được hoàn thành] thành công đúng hạn.</li>
 
-        <li value="2" id="">the NEW PRODuct was sucCESSfully LAUNCHED in the MARket.</li>
-        <li className="list-none margin-bottom-20">Sản phẩm mới đã được ra mắt thành công trên thị trường.</li>
+        <li value="2" id="LAUNCHED-in">the NEW PRODuct was sucCESSfully [LAUNCHED in] the MARket.</li>
+        <li className="list-none margin-bottom-20">Sản phẩm mới đã [được ra mắt] thành công trên thị trường.</li>
 
-        <li value="3" id="">the NEW POLicy was sucCESSfully IMplemented.</li>
-        <li className="list-none margin-bottom-20">Chính sách mới đã được thực hiện thành công.</li>
+        <li value="3" id="IMplemented">the NEW POLicy was sucCESSfully [IMplemented].</li>
+        <li className="list-none margin-bottom-20">Chính sách mới [đã được thực hiện] thành công.</li>
 
-        <li value="4" id="">the CONtract was sucCESSfully neGOtiated.</li>
-        <li className="list-none margin-bottom-20">Hợp đồng đã được thương lượng thành công.</li>
+        <li value="4" id="neGOtiated">the CONtract was sucCESSfully [neGOtiated].</li>
+        <li className="list-none margin-bottom-20">Hợp đồng đã [được thương lượng] thành công.</li>
 
-        <li value="5" id="">she sucCESSfully aDAPted to the NEW enVIronment.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã thích nghi thành công với môi trường mới.</li>
+        <li value="5" id="aDAPTed-to">she sucCESSfully [aDAPTed to] the NEW enVIronment.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [đã thích nghi] thành công với môi trường mới.</li>
 
-        <li value="6" id="">the CAStle was sucCESSfully deFENDed against the atTACK.</li>
-        <li className="list-none margin-bottom-20">Lâu đài đã được bảo vệ thành công trước cuộc tấn công.</li>
+        <li value="6" id="deFENDed-against">the CAStle was sucCESSfully [deFENDed a<strong>gainst</strong>] the atTACK.</li>
+        <li className="list-none margin-bottom-20">Lâu đài đã [được bảo vệ] thành công trước cuộc tấn công.</li>
 
-        <li value="7" id="">he sucCESSfully reCOVered from the ILLness.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã hồi phục hoàn toàn sau cơn bệnh.</li>
+        <li value="7" id="reCOVered-from">he sucCESSfully [reCOVered from] the ILLness.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [đã hồi phục] hoàn toàn sau cơn bệnh.</li>
 
-        <li value="8" id="">the NEW SYStem was sucCESSfully INtegrated into the exISTing one.</li>
-        <li className="list-none margin-bottom-20">Hệ thống mới đã được tích hợp thành công vào hệ thống hiện có.</li>
+        <li value="8" id="INtegrated-into">the NEW SYStem was sucCESSfully [INtegrated <strong>in</strong>to] the eXISTing one.</li>
+        <li className="list-none margin-bottom-20">Hệ thống mới [đã được tích hợp] thành công vào hệ thống hiện có.</li>
 
-        <li value="9" id="">she sucCESSfully overCAME her FEAR of PUBlic SPEAKing.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã vượt qua nỗi sợ nói trước đám đông một cách thành công.</li>
+        <li value="9" id="overCAME">she sucCESSfully [overCAME] her FEAR of PUBlic SPEAKing.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [đã vượt qua] nỗi sợ nói trước đám đông một cách thành công.</li>
 
-        <li value="10" id="">he sucCESSfully perSUADed her to CHANGE her MIND.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã thuyết phục cô ấy thay đổi ý kiến một cách thành công.</li>
+        <li value="10" id="perSUAded">he sucCESSfully [perSUAded] her to CHANGE her MIND.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [đã thuyết phục] cô ấy thay đổi ý kiến một cách thành công.</li>
 
       </ol>
 

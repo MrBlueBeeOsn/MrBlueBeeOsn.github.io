@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function proDUCtively1(): React.JSX.Element {
+export default function proDUCTively1(): React.JSX.Element {
 
-  const postId = "proDUCtively1";
+  const postId = "proDUCTively1";
 
   return (<>
 
@@ -17,10 +17,10 @@ export default function proDUCtively1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adverbs-hieu-qua"><mark className="highlight-tertiary-padding-4-8">ADverbs: hiệu quả</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">proDUCtively
-        <sup><Link to="/vocabulary/proDUCtively-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">proDUCTively
+        <sup><Link to="/vocabulary/proDUCTively-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/proDUCtively-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/proDUCTively-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
@@ -67,7 +67,7 @@ export default function proDUCtively1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>proDUCtively</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>proDUCTively</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -77,7 +77,7 @@ export default function proDUCtively1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                proDUCtively \<Link to="/pronunciation/5-vowel-system">prơ DƯC tive ly</Link>\ /prəˈdʌk.tɪv.li/ •⬤•• (4x)
+                proDUCTively \<Link to="/pronunciation/5-vowel-system">prơ DƯC tive ly</Link>\ /prəˈdʌk.tɪv.li/ •⬤•• (4x)
               </span>
             </li>
 
@@ -95,19 +95,19 @@ export default function proDUCtively1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>proDUCtively</strong>" miêu tả cách một người làm việc, sử dụng thời gian hoặc tài nguyên để tạo ra kết quả tốt, có giá trị hoặc đạt được mục tiêu một cách hiệu quả.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>proDUCTively</strong>" miêu tả cách một người làm việc, sử dụng thời gian hoặc tài nguyên để tạo ra kết quả tốt, có giá trị hoặc đạt được mục tiêu một cách hiệu quả.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li id="ADverb">she SPENT her MORNing proDUCtively, FINishING <strong>sever</strong>al imPORTant TASKS.</li>
+          <li id="ADverb">she SPENT her MORNing proDUCTively, FINishING <strong>sever</strong>al imPORTant TASKS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành nhiều nhiệm vụ quan trọng.</li>
 
-          <li>the TEAM WORKED proDUCtively toGETHer to MEET the DEADline.</li>
+          <li>the TEAM WORKED proDUCTively toGETHer to MEET the DEADline.</li>
           <li className="margin-bottom-20 list-none">Cả đội đã làm việc hiệu quả cùng nhau để kịp thời hạn.</li>
 
-          <li>he USED his FREE TIME proDUCtively by LEARNing a NEW SKILL.</li>
+          <li>he USED his FREE TIME proDUCTively by LEARNing a NEW SKILL.</li>
           <li className="list-none">Anh ấy đã sử dụng thời gian rảnh rỗi của mình một cách có ích bằng cách học một kỹ năng mới.</li>
 
         </ul>
@@ -184,7 +184,7 @@ export default function proDUCtively1(): React.JSX.Element {
           <li>the PROJect was MANaged inefFICiently.</li>
           <li className="margin-bottom-20 list-none">Quy trình đã được quản lý một cách không hiệu quả.</li>
 
-          <li>he SPENT the WHOLE DAY unproDUCtively.</li>
+          <li>he SPENT the WHOLE DAY unproDUCTively.</li>
           <li className="list-none">He spent the whole day unproductively.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã dành cả ngày một cách không hiệu quả.</li>
 
@@ -217,13 +217,13 @@ export default function proDUCtively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he WORKED proDUCtively and acCOMplished a LOT.</li>
+          <li>he WORKED proDUCTively and acCOMplished a LOT.</li>
           <li className="margin-bottom-20 list-none">Anh ấy làm việc hiệu quả và hoàn thành nhiều việc.</li>
 
-          <li>the GARden GREW proDUCtively, YIELding aBUNdant FRUITS and FLOWers.</li>
+          <li>the GARden GREW proDUCTively, YIELding aBUNdant FRUITS and FLOWers.</li>
           <li className="margin-bottom-20 list-none">Khu vườn phát triển tươi tốt, cho nhiều hoa trái.</li>
 
-          <li>the TEAM MET proDUCtively, GENerating NUmerous iDEaS.</li>
+          <li>the TEAM MET proDUCTively, GENerating NUmerous iDEaS.</li>
           <li className="list-none">Nhóm đã họp hiệu quả, đưa ra nhiều ý tưởng.</li>
 
         </ul>
@@ -243,7 +243,7 @@ export default function proDUCtively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i PLAN to USE my comMUTE TIME proDUCtively by LIStening to PODcasts.</li>
+          <li>i PLAN to USE my comMUTE TIME proDUCTively by LIStening to PODcasts.</li>
           <li className="list-none">Tôi dự định sử dụng thời gian đi làm một cách hiệu quả bằng cách nghe podcast.</li>
 
         </ul>
@@ -268,7 +268,7 @@ export default function proDUCtively1(): React.JSX.Element {
             <li value="1">she SPENT her MORNing WORKing.</li>
             <li className="list-none margin-bottom-20">Cô ấy đã dành buổi sáng của mình để làm việc.</li>
 
-            <li value="2">she SPENT her MORNing proDUCtively, FINishING <strong>sever</strong>al imPORTant TASKS.</li>
+            <li value="2">she SPENT her MORNing proDUCTively, FINishING <strong>sever</strong>al imPORTant TASKS.</li>
             <li className="list-none margin-bottom-20">Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành nhiều nhiệm vụ quan trọng.</li>
 
           </ol>
@@ -284,7 +284,7 @@ export default function proDUCtively1(): React.JSX.Element {
             <li>the TEAM WORKED toGETHer to MEET the DEADline.</li>
             <li className="list-none margin-bottom-20">Cả đội đã làm việc cùng nhau để kịp thời hạn.</li>
 
-            <li value="2">the TEAM WORKED proDUCtively toGETHer to MEET the DEADline.</li>
+            <li value="2">the TEAM WORKED proDUCTively toGETHer to MEET the DEADline.</li>
             <li className="list-none margin-bottom-20">Cả đội đã làm việc hiệu quả cùng nhau để kịp thời hạn.</li>
 
           </ol>
@@ -300,7 +300,7 @@ export default function proDUCtively1(): React.JSX.Element {
             <li>he USED his FREE TIME by LEARNing a NEW SKILL.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã sử dụng thời gian rảnh rỗi của mình bằng cách học một kỹ năng mới.</li>
 
-            <li value="2">he USED his FREE TIME proDUCtively by LEARNing a NEW SKILL.</li>
+            <li value="2">he USED his FREE TIME proDUCTively by LEARNing a NEW SKILL.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã sử dụng thời gian rảnh rỗi của mình một cách có ích bằng cách học một kỹ năng mới.</li>
 
           </ol>

@@ -658,7 +658,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she aDAPted [through {'{WHAT she disCOVered during REsearch}'}].</li>
+					<li>she aDAPTed [through {'{WHAT she disCOVered during REsearch}'}].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã thích nghi [thông qua {'{những gì cô ấy khám phá ra trong lúc nghiên cứu}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
