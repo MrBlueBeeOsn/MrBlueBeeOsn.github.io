@@ -603,7 +603,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center" id="emBEDded-CLAUSE">VII. BẢN CHẤT PHÂN [NHÚNG][EMBEDDED] VÀ NGUYÊN TẮC "ĐIỂM NEO"</h3>
 
-			<p>Trong các cấu trúc nâng cao, các hình thái lồng ghép vào nhau như các module linh kiện. Ranh giới ngoài cùng [] luôn đại diện cho khối bao quét tầng ngoài, và dấu {'{}'} sẽ bao quét khối lồng bên trong để thể hiện rõ mối quan hệ điều phối hệ thống.</p>
+			<p>Trong các cấu trúc nâng cao, các hình thái lồng ghép vào nhau như các MODule linh kiện. Ranh giới ngoài cùng [] luôn đại diện cho khối bao quét tầng ngoài, và dấu {'{}'} sẽ bao quét khối lồng bên trong để thể hiện rõ mối quan hệ điều phối hệ thống.</p>
 
 
 			<h4 className="margin-y-40">1. [DANH CỤM][NOUN PHRASE]</h4>

@@ -162,7 +162,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Quy Tắc Vận Hành: Hệ Thống Phân Loại Khối Hành Động</h3>
 
-			<p>Để hệ thống vận hành mượt mà, bộ lọc tư duy của bạn cần nắm vững cấu trúc phân rã của các module hành động dưới đây.</p>
+			<p>Để hệ thống vận hành mượt mà, bộ lọc tư duy của bạn cần nắm vững cấu trúc phân rã của các MODule hành động dưới đây.</p>
 
 			
 			<h4 className="margin-y-40">A. Phân Phối Nhóm Chức Năng Cốt Lõi</h4>
@@ -655,7 +655,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [who is deSIGNing the BUILDing] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] hiện diện dưới dạng khối câu bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] kết nối who, chứa [TENSE PRESent PARTiciple VERB][THỜI HIỆN TIẾP ĐỘNG] is deSIGNing riêng biệt.</li>
 
-					<li className="list-none">Chức năng: [who is deSIGNing the BUILDing] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một module lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng [PROnoun HEAD][ĐẠI LÕI] "the ARchitect".</li>
+					<li className="list-none">Chức năng: [who is deSIGNing the BUILDing] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng [PROnoun HEAD][ĐẠI LÕI] "the ARchitect".</li>
 			
 				</ul>
 			
@@ -669,7 +669,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [be<strong>cause</strong> it RAINED HEAVily] - [conJUNCtional CLAUSE][LIÊN CÂU] kích hoạt ngay sau [conJUNCtion][LIÊN] kết nối be<strong>cause</strong>, chứa chủ thể "it" và [PAST VERB][ĐÃ ĐỘNG] RAINED mang dấu mốc tích hợp quá khứ.</li>
 					
-					<li className="list-none">Chức năng: [be<strong>cause</strong> it RAINED HEAVily] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập module định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> it RAINED HEAVily] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập MODule định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
 			
 				</ul>
 
@@ -734,7 +734,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			<p>Bạn có thể tự do nâng cấp hoặc hạ cấp các khối mã giữa các mức độ [HEAD][LÕI], [PHRASE][CỤM], và [CLAUSE][CÂU] một cách linh hoạt dựa trên sơ đồ phân loại hình thái:</p>
 
 
-			<h4 className="margin-y-40">Phân hệ [VERB HEAD][ĐỘNG LÕI]: Thay đổi các module chứa hành động</h4>
+			<h4 className="margin-y-40">Phân hệ [VERB HEAD][ĐỘNG LÕI]: Thay đổi các MODule chứa hành động</h4>
 
 			<h5 className="margin-y-30 text-indent-whole">Case 1: Giữ nguyên cấp độ [PHRASE][CỤM], thay thế khối mã tương đương</h5>
 			
@@ -798,7 +798,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [which was BUILT in jaPAN] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [which was BUILT in jaPAN] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng [NOUN HEAD][DANH LÕI] "deVICE".</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [which was BUILT in jaPAN] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [NOUN HEAD][DANH LÕI] "deVICE".</li>
 			
 				</ul>
 			
@@ -815,7 +815,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">Phân hệ [prepoSITion][GIỚI]: Thay đổi các module chứa cấu trúc định vị</h4>
+			<h4 className="margin-y-40">Phân hệ [prepoSITion][GIỚI]: Thay đổi các MODule chứa cấu trúc định vị</h4>
 
 			<h5 className="margin-y-30 text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí cấp độ [PHRASE][CỤM] và thay thế khối mã tương đương</h5>
 			
@@ -861,7 +861,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Hệ thống 16 lớp của Phân hệ [VERB HEAD][ĐỘNG LÕI]; Phân hệ [PHRASE][CỤM]; hay Phân hệ [CLAUSE][CÂU].</li>
 			
 					<li value="2"><strong>Đóng gói phân tầng</strong> bằng các ký hiệu [...] và {'{...}'}:</li>
-					<li className="list-none">Để nhận diện ngay lập tức Chức năng ([Danh], [Tính], [Trạng]) mà các module đang đảm nhận tại vị trí đó trong câu.</li>
+					<li className="list-none">Để nhận diện ngay lập tức Chức năng ([Danh], [Tính], [Trạng]) mà các MODule đang đảm nhận tại vị trí đó trong câu.</li>
 			
 				</ol>
 			

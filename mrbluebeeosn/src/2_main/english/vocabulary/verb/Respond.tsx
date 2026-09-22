@@ -605,7 +605,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [which reSPONDS to USer reQUESTS] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại.</li>
       
-          <li className="list-none">Chức năng: [which reSPONDS to USer reQUESTS] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một module lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [PROnoun HEAD][ĐẠI LÕI] "SERver".</li>
+          <li className="list-none">Chức năng: [which reSPONDS to USer reQUESTS] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [PROnoun HEAD][ĐẠI LÕI] "SERver".</li>
       
         </ul>
       
@@ -621,7 +621,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [conJUNCtional CLAUSE][LIÊN CÂU] kích hoạt ngay sau thành phần [conJUNCtion][LIÊN] nguyên nhân "be<strong>cause</strong>", chứa [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập module bối cảnh, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "sucCEEDed" và toàn bộ CLAUSE chính trước đó.</li>
+          <li className="list-none">Chức năng: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập MODule bối cảnh, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "sucCEEDed" và toàn bộ CLAUSE chính trước đó.</li>
       
         </ul>
 
@@ -912,7 +912,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center" id="PARaphrasing">PHẦN 2: ỨNG DỤNG ĐỘT PHÁ – GIẢI MÃ [PARaphrasing] BẰNG KỸ THUẬT [THẾ KHỐI]</h3>
 
-      <h4 className="margin-y-40">1. Phân hệ [VERB HEAD][ĐỘNG LÕI]: Thay đổi các module chứa hành động</h4>
+      <h4 className="margin-y-40">1. Phân hệ [VERB HEAD][ĐỘNG LÕI]: Thay đổi các MODule chứa hành động</h4>
 
       <p className="margin-top-20 text-indent-whole"><strong>Case 1</strong>: <strong>Giữ nguyên cấp độ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>]</p>
       
@@ -979,7 +979,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái gốc: [which reSPONDS to SYStem ISsues autoMATically] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] "which" và cụm hành động phía sau.</li>
       
-          <li className="list-none">Chức năng: [which reSPONDS to SYStem ISsues autoMATically] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng [NOUN HEAD][DANH LÕI] "SERvice".</li>
+          <li className="list-none">Chức năng: [which reSPONDS to SYStem ISsues autoMATically] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [NOUN HEAD][DANH LÕI] "SERvice".</li>
       
         </ul>
       
@@ -998,7 +998,7 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
 
 
-      <h4 className="margin-y-40">2. Phân hệ [prepoSITion][GIỚI]: Thay đổi các module chứa mã định vị</h4>
+      <h4 className="margin-y-40">2. Phân hệ [prepoSITion][GIỚI]: Thay đổi các MODule chứa mã định vị</h4>
 
       <p className="margin-top-20 text-indent-whole"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí cấp độ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>]</p>
       

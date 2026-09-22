@@ -114,7 +114,7 @@ export default function IELTSQuestions(): React.JSX.Element {
 				"the SCORing criTEria are comPLETEly DIFFERent."
 			],
 			correctAnswer: 1,
-			explanation: "The Listening and Speaking tests are the same for both modules. However, the Reading and Writing tests differ in content and task requirements to reflect the different purposes (acaDEMic for uniVERsity / proFESsional regisTRAtion; GENERal TRAINing for miGRAtion / WORK / SECondary eduCAtion)."
+			explanation: "The Listening and Speaking tests are the same for both MODules. However, the Reading and Writing tests differ in content and task requirements to reflect the different purposes (acaDEMic for uniVERsity / proFESsional regisTRAtion; GENERal TRAINing for miGRAtion / WORK / SECondary eduCAtion)."
 		},
 		{
 			id: 9,
