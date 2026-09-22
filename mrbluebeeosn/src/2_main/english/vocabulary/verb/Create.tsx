@@ -74,6 +74,13 @@ export default function Create(): React.JSX.Element {
           </span> &nbsp;
 
         </p>
+
+        <p className="example-sentence text-center">
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#PARaphrasing">PARaphrasing</HashLink>
+          </span> &nbsp;
+
+        </p>
         
 
       </div>
@@ -904,7 +911,7 @@ export default function Create(): React.JSX.Element {
 
       {/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">PHẦN 2: ỨNG DỤNG ĐỘT PHÁ – GIẢI MÃ PARAPHRASING BẰNG KỸ THUẬT [THẾ KHỐI]</h3>
+			<h3 className="margin-y-50 text-center" id="PARaphrasing">PHẦN 2: ỨNG DỤNG ĐỘT PHÁ – GIẢI MÃ PARAPHRASING BẰNG KỸ THUẬT [THẾ KHỐI]</h3>
 
       <h4 className="margin-y-40">1. Phân hệ [VERB HEAD][ĐỘNG LÕI]: Thay đổi các module chứa hành động</h4>
 

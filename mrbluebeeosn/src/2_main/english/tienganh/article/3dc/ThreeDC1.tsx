@@ -111,6 +111,13 @@ export default function ThreeDC1(): React.ReactElement {
 				</p>
 
 				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#PARaphrasing">PARaphrasing</HashLink>
+					</span> &nbsp;
+
+				</p>
+
+				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
 						<HashLink smooth to="#inVERsion">Đảo ngữ: inVERsion</HashLink>
 					</span> &nbsp;
@@ -694,7 +701,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* V. */}
 
-			<h3 className="margin-y-50 text-center">VIII. ĐỈNH CAO PARAPHRASING: TƯ DUY THAY THẾ [KHỐI] CÙNG CHỨC NĂNG</h3>
+			<h3 className="margin-y-50 text-center" id="PARaphrasing">VIII. ĐỈNH CAO PARAPHRASING: TƯ DUY THAY THẾ [KHỐI] CÙNG CHỨC NĂNG</h3>
 
 			<h4 className="margin-y-40">1. Paraphrasing cho chức năng [ADverb HEAD][TRẠNG LÕI] (Mô tả hoàn cảnh, bối cảnh)</h4>
 

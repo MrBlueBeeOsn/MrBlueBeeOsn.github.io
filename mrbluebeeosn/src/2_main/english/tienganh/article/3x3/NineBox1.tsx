@@ -103,6 +103,13 @@ export default function NineBox1(): React.JSX.Element {
 
 				</p>
 
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#PARaphrasing">PARaphrasing</HashLink>
+					</span> &nbsp;
+
+				</p>
+
 			</div>
 
 
@@ -667,7 +674,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			{/* 4. */}
 
-			<h3 className="margin-y-50 text-center">4. Tối Ưu Hóa Kỹ Năng Viết Lại Câu [Paraphrasing] Bằng Quy Tắc Chuyển Đổi Cấp Độ</h3>
+			<h3 className="margin-y-50 text-center" id="PARaphrasing">4. Tối Ưu Hóa Kỹ Năng Viết Lại Câu [Paraphrasing] Bằng Quy Tắc Chuyển Đổi Cấp Độ</h3>
 
 			<p>Khi bộ não của bạn đã hình thành phản xạ bóc tách tự động—tách biệt hoàn toàn hình thái thô bên ngoài và chức năng thực tế bên trong—thì kỹ năng viết lại câu trở thành một bài toán "thay khối cùng chức năng" và không cần thay đổi cấu trúc tổng thể.</p>
 

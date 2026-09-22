@@ -73,6 +73,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 				</p>
 
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#PARaphrasing">PARaphrasing</HashLink>
+					</span> &nbsp;
+
+				</p>
+
 			</div>
 
 
@@ -589,7 +596,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 7. */}
 
-			<h3 className="margin-y-50 text-center">7. Paraphrase - Chuyển Đổi Chức Năng (Nâng Cấp Tư Duy)</h3>
+			<h3 className="margin-y-50 text-center" id="PARaphrasing">7. PARaphrasing - Chuyển Đổi Chức Năng (Nâng Cấp Tư Duy)</h3>
 
 
 			<h4 className="margin-y-40">A. Chuyển từ [ADjective HEAD][TÍNH LÕI] ➔ [ADjective PHRASE][TÍNH CỤM]</h4>

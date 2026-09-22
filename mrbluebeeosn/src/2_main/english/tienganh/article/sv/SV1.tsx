@@ -103,6 +103,13 @@ export default function SV1(): React.JSX.Element {
 
 				</p>
 
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#PARaphrasing">PARaphrasing</HashLink>
+					</span> &nbsp;
+
+				</p>
+
 			</div>
 
 
@@ -693,7 +700,7 @@ export default function SV1(): React.JSX.Element {
 
 			{/* VII.  */}
 
-			<h3 className="margin-y-50 text-center">IX. Paraphrasing: Nghệ Thuật Thay [Khối] Cùng Chức Năng</h3>
+			<h3 className="margin-y-50 text-center" id="PARaphrasing">IX. Paraphrasing: Nghệ Thuật Thay [Khối] Cùng Chức Năng</h3>
 
 			<p>Khi tư duy hình khối [HEAD][LÕI] - [PHRASE][CỤM] - [CLAUSE][CÂU] đã trở thành bản năng, kỹ thuật viết lại câu (paraphrasing) không còn là việc đổi yếu tố cấu trúc một cách khiên cưỡng. Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp module: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
 

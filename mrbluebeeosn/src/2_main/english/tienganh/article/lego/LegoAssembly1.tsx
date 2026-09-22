@@ -103,6 +103,13 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 				</p>
 
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#PARaphrasing">PARaphrasing</HashLink>
+					</span> &nbsp;
+
+				</p>
+
 			</div>
 
 
@@ -732,7 +739,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 			{/* 7.  */}
 
-			<h3 className="margin-y-50 text-center">7. Ứng Dụng Đỉnh Cao: Paraphrasing Bằng Tư Duy "Thay Khối Đồng Chức Năng"</h3>
+			<h3 className="margin-y-50 text-center" id="PARaphrasing">7. Ứng Dụng Đỉnh Cao: Paraphrasing Bằng Tư Duy "Thay Khối Đồng Chức Năng"</h3>
 
 			<p>Bản chất của viết lại câu chỉ đơn giản là một bài toán giữ nguyên bộ khung cấu trúc tổng thể, chỉ nhấc một khối [Lego] ra và đặt vào đó một khối [Lego] khác có kích thước hoặc hình thái khác nhưng mang cùng một màu Chức năng.</p>
 

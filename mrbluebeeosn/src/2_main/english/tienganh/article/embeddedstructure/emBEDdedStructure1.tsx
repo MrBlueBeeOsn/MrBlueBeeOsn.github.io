@@ -103,6 +103,13 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 				</p>
 
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#PARaphrasing">PARaphrasing</HashLink>
+					</span> &nbsp;
+
+				</p>
+
 			</div>
 
 
@@ -718,7 +725,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 			{/* 4. */}
 
-			<h3 className="margin-y-50 text-center">4. Ứng Dụng Đột Phá: Kỹ Thuật "Thế Khối" Trong Paraphrasing</h3>
+			<h3 className="margin-y-50 text-center" id="PARaphrasing">4. Ứng Dụng Đột Phá: Kỹ Thuật "Thế Khối" Trong Paraphrasing</h3>
 
 			<p>Khi tư duy của bạn đã thoát khỏi lối mòn của việc nhìn từ đơn lẻ và chuyển sang nhận diện hệ thống theo <strong>Hình thái trước</strong> - <strong>Chức năng sau</strong>, việc viết lại câu (Paraphrasing) không còn là một thử thách mò mẫm cấu trúc từ vựng nữa.</p>
 

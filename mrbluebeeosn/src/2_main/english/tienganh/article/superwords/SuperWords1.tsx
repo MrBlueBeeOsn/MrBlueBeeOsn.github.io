@@ -103,6 +103,13 @@ export default function SuperWords1(): React.JSX.Element {
 
 				</p>
 
+				<p className="example-sentence text-center">
+					<span className="highlight-255-padding-0-4 text-border">
+						<HashLink smooth to="#PARaphrasing">PARaphrasing</HashLink>
+					</span> &nbsp;
+
+				</p>
+
 			</div>
 			
 
@@ -690,7 +697,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<hr className="hr-short"/>
 
-			<h3 className="margin-y-50 text-center">Ứng Dụng Đột Phá: Paraphrasing Bằng Tư Duy "Thay [Khối] Cùng Chức Năng"</h3>
+			<h3 className="margin-y-50 text-center" id="PARaphrasing">Ứng Dụng Đột Phá: Paraphrasing Bằng Tư Duy "Thay [Khối] Cùng Chức Năng"</h3>
 
 			<h5 className="text-indent-whole">Câu gốc: Sử dụng khối [conJUNCtional CLAUSE][LIÊN CÂU]</h5>
 			
