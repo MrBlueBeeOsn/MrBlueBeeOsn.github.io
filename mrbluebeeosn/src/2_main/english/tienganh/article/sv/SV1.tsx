@@ -338,7 +338,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [GROWing] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "GROW" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] phản ánh trạng thái đang vận động liên tục.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [GROWing] - [ADjective HEAD][TÍNH LÕI] đứng trước [NOUN HEAD][DANH LÕI] "deMAND" nhằm mô tả đặc điểm của đối tượng.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [GROWing] - [ADjective HEAD][TÍNH LÕI] đứng trước [PROnoun HEAD][ĐẠI LÕI] "deMAND" nhằm mô tả đặc điểm của đối tượng.</li>
 			
 				</ul>
 			
@@ -390,7 +390,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [PLAYing in the PARK] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] biểu thị khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] - [VERB HEAD][ĐỘNG LÕI], bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng V-ing.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [PLAYing in the PARK] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau đối tượng những đứa trẻ nhằm mô tả mức độ đặc điểm của [ADjective HEAD][TÍNH LÕI] này.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [PLAYing in the PARK] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "the CHILDren" những đứa trẻ nhằm mô tả mức độ đặc điểm.</li>
 			
 				</ul>
 			
@@ -532,12 +532,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the TEA was so HOT [i COULDN'T DRINK it].</li>
+					<li>the TEA was SO HOT [i COULDN'T DRINK it].</li>
 					<li className="margin-bottom-20 list-none">Trà quá nóng [đến mức tôi không thể uống được].</li>
 			
 					<li className="list-none">Hình thái: [i COULDN'T DRINK it] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "i" và cụm hành động gồm [SOFT MOdal VERB][Ý THÁI ĐỘNG] "COULDN'T" kết hợp với [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "DRINK".</li>
 			
-					<li className="list-none">Chức năng: [i COULDN'T DRINK it] - [ADverb CLAUSE][TRẠNG CÂU] gắn vào phía sau [ADjective HEAD][TÍNH LÕI] "HOT" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [ADjective HEAD][TÍNH LÕI] này.</li>
+					<li className="list-none">Chức năng: [i COULDN'T DRINK it] - [ADverb CLAUSE][TRẠNG CÂU] gắn vào phía sau [ADjective HEAD][TÍNH LÕI] "HOT" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [ADverb HEAD][TRẠNG LÕI] "SO".</li>
 			
 				</ul>
 			

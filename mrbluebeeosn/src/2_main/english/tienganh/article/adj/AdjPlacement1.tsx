@@ -684,7 +684,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [efFECtive] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][DIỆN TÍNH] "efFECtive", chuyên trách cài đặt đặc tính mang lại kết quả cao cho đối tượng đi kèm.</li>
 			
-					<li className="list-none">Chức năng: [efFECtive] - [ADjective HEAD][TÍNH LÕI] cài đặt nhãn dán thuộc tính cố định, rút gọn thông tin tối đa cho đối tượng [NOUN HEAD][DANH LÕI].</li>
+					<li className="list-none">Chức năng: [efFECtive] - [ADjective HEAD][TÍNH LÕI] cài đặt nhãn dán thuộc tính cố định, rút gọn thông tin tối đa cho đối tượng [NOUN HEAD][DANH LÕI] "POLicy".</li>
 			
 				</ul>
 			

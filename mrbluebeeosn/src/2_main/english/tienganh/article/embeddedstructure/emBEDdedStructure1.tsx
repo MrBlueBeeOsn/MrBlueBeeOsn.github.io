@@ -359,7 +359,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [deSIGNED] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "deSIGN" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu hiện dưới dạng hạt nhân hành động mang trạng thái bị động.</li>
 					
-					<li className="list-none">Chức năng: [deSIGNED] - [ADjective HEAD][TÍNH LÕI] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng "BLUEprint" để hiển thị đặc điểm vật lý của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [deSIGNED] - [ADjective HEAD][TÍNH LÕI] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng [OBject HEAD][TÂN LÕI] "BLUEprint" để hiển thị đặc điểm vật lý của đối tượng đó.</li>
 			
 				</ul>
 			
@@ -809,7 +809,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái mới: [jaPAN-BUILT] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "BUILT" mặc thêm tiền tố "Japan-" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] thuộc nhóm chức năng mô tả.</li>
 			
-					<li className="list-none">Chức năng mới: [jaPAN-BUILT] - [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng "deVICE" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+					<li className="list-none">Chức năng mới: [jaPAN-BUILT] - [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng [OBject HEAD][TÂN LÕI] "deVICE" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
 			
 				</ul>
 			

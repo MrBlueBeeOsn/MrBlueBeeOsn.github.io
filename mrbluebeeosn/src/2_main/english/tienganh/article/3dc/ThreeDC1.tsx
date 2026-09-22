@@ -374,7 +374,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [CUStomized] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "CUStomize" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang đặc tính bị động, hoàn tất.</li>
 			
-					<li className="list-none">Chức năng: Khối [CUStomized] - [ADjective HEAD][TÍNH LÕI] đứng ngay trước một thực thể để biểu thị đặc tính và bổ nghĩa cho thực thể đó.</li>
+					<li className="list-none">Chức năng: Khối [CUStomized] - [ADjective HEAD][TÍNH LÕI] đứng ngay trước một thực thể [OBject HEAD][TÂN LÕI] "soLUtion" để biểu thị đặc tính và bổ nghĩa cho thực thể đó.</li>
 			
 				</ul>
 			
@@ -784,7 +784,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [RENdering-acCELerating] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "acCELerate" mặc thêm (kết hợp) tiền tố thành phần [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "RENdering-" và hậu tố "-ING" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có cấu hình ghép.</li>
 			
-					<li className="list-none">Chức năng: Khối [RENdering-acCELerating] - [ADjective HEAD][TÍNH LÕI] đứng trực tiếp phía trước để bổ nghĩa đặc tính vận hành cho khối biểu thị thực thể "CODE".</li>
+					<li className="list-none">Chức năng: Khối [RENdering-acCELerating] - [ADjective HEAD][TÍNH LÕI] đứng trực tiếp phía trước để bổ nghĩa đặc tính vận hành cho khối biểu thị thực thể [PROnoun HEAD][ĐẠI LÕI] "CODE".</li>
 			
 				</ul>
 			
@@ -886,7 +886,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>THIS is the SERver ROOM [where the SIGnal PEAKS].</li>
 					<li className="margin-bottom-20">THIS is the [NEW] SERver ROOM.</li>
 			
-					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] hoàn thành chức năng [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước [NOUN HEAD][DANH LÕI] "ROOM".</li>
+					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] hoàn thành chức năng [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước [OBject HEAD][TÂN LÕI] "ROOM".</li>
 			
 				</ul>
 			

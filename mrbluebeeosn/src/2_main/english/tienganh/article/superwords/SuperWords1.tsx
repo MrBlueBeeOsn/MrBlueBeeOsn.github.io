@@ -354,7 +354,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [unexPECted] – [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "exPECT" mặc thêm tiền tố phủ định "un-" kết hợp với hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính mô tả tĩnh.</li>
 			
-					<li className="list-none">Chức năng: [unexPECted] – [ADjective HEAD][TÍNH LÕI] đang đứng vị trí trước và bổ nghĩa, mô tả tính chất cho giải pháp.</li>
+					<li className="list-none">Chức năng: [unexPECted] – [ADjective HEAD][TÍNH LÕI] đang đứng vị trí trước và bổ nghĩa, mô tả tính chất cho [OBject HEAD][TÂN LÕI] "soLUtion" giải pháp.</li>
 			
 				</ul>
 			

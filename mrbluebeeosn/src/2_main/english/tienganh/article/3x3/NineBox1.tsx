@@ -329,7 +329,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [INtegrated] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "INtegrate" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [INtegrated] – [ADjective HEAD][TÍNH LÕI] đứng ngay trước đối tượng để mô tả thuộc tính.</li>
+					<li className="list-none">Chức năng: [INtegrated] – [ADjective HEAD][TÍNH LÕI] đứng ngay trước đối tượng [OBject HEAD][TÂN LÕI] "FILE" để mô tả thuộc tính.</li>
 			
 				</ul>
 			
@@ -740,7 +740,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [unseCURED] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "seCURE" kết hợp tiền tố phủ định "un-" và mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [unseCURED] – [ADjective HEAD][TÍNH LÕI] đứng trước để định rõ thuộc tính cho [NOUN HEAD][DANH LÕI] "conNECtion" kết nối.</li>
+					<li className="list-none">Chức năng: [unseCURED] – [ADjective HEAD][TÍNH LÕI] đứng trước để định rõ thuộc tính cho [OBject HEAD][TÂN LÕI] "conNECtion" kết nối.</li>
 			
 				</ul>
 			
@@ -754,7 +754,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [CAUSing seCUrity LEAKS] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] hình thành từ sự phối hợp giữa hạt nhân [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "CAUSing" và mở rộng mục tiêu "seCUrity LEAKS" phía sau.</li>
 			
-					<li className="list-none">Chức năng: [CAUSing seCUrity LEAKS] – [ADjective PHRASE][TÍNH CỤM] đứng sau bổ nghĩa thuộc tính diễn tiến cho [NOUN HEAD][DANH LÕI] "conNECtion" kết nối.</li>
+					<li className="list-none">Chức năng: [CAUSing seCUrity LEAKS] – [ADjective PHRASE][TÍNH CỤM] đứng sau bổ nghĩa thuộc tính diễn tiến cho [OBject HEAD][TÂN LÕI] "conNECtion" kết nối.</li>
 			
 				</ul>
 			
@@ -768,7 +768,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [which alLOWS unAUthorized USer ACcess] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "alLOWS".</li>
 			
-					<li className="list-none">Chức năng: [which alLOWS unAUthorized USer ACcess] – [ADjective CLAUSE][TÍNH CÂU] đứng sau làm nhiệm vụ định danh thuộc tính cho [NOUN HEAD][DANH LÕI] "conNECtion" kết nối.</li>
+					<li className="list-none">Chức năng: [which alLOWS unAUthorized USer ACcess] – [ADjective CLAUSE][TÍNH CÂU] đứng sau làm nhiệm vụ định danh thuộc tính cho [OBject HEAD][TÂN LÕI] "conNECtion" kết nối.</li>
 			
 				</ul>
 
@@ -782,7 +782,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [with MULtiple seCUrity FLAWS] – Khối [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "with" kết hợp với cụm mục tiêu "MULtiple seCUrity FLAWS" phía sau.</li>
 			
-					<li className="list-none">Chức năng: [with MULtiple seCUrity FLAWS] – [ADjective PHRASE][TÍNH CỤM] đứng sau để bổ nghĩa thuộc tính sở hữu đặc điểm cho [NOUN HEAD][DANH LÕI] "conNECtion" kết nối.</li>
+					<li className="list-none">Chức năng: [with MULtiple seCUrity FLAWS] – [ADjective PHRASE][TÍNH CỤM] đứng sau để bổ nghĩa thuộc tính sở hữu đặc điểm cho [OBject HEAD][TÂN LÕI] "conNECtion" kết nối.</li>
 			
 				</ul>
 			
