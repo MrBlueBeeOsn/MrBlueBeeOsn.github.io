@@ -622,7 +622,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>the inVESTment [GENerating HIGH PROfits] is YOURS.</li>
 					<li className="margin-bottom-20 list-none">Khoản đầu tư [tạo ra lợi nhuận cao] là của bạn.</li>
 			
-					<li className="list-none">Hình thái: [GENerating HIGH PROfits] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] dẫn dắt bởi [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "GENerating" đi kèm [OBject PROnoun][TÂN ĐẠI] "HIGH PROfits".</li>
+					<li className="list-none">Hình thái: [GENerating HIGH PROfits] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] dẫn dắt bởi [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "GENerating" đi kèm [NOUN BLOCK][DANH KHỐI] "HIGH PROfits".</li>
 			
 					<li className="list-none">Chức năng: [GENerating HIGH PROfits] - [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái chủ động tạo ra giá trị của đối tượng trung tâm [PROnoun HEAD][ĐẠI LÕI] "the inVESTment".</li>
 			
@@ -652,7 +652,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>the MAN [who is STANding THERE] is my BOSS.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [người mà đang đứng đó] là sếp tôi.</li>
 			
-					<li className="list-none">Hình thái: [who is STANding THERE] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] "who" kết hợp [TENSE PRESent PARTiciple VERB][THỜI HIỆN TIẾP ĐỘNG] "is STANding".</li>
+					<li className="list-none">Hình thái: [who is STANding THERE] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] "who" kết hợp [auXILiary and PRESent PARTiciple VERB][TRỢ và HIỆN TIẾP ĐỘNG] "is STANding".</li>
 			
 					<li className="list-none">Chức năng: [who is STANding THERE] - [ADjective CLAUSE][TÍNH CÂU] định danh chính xác đối tượng [PROnoun HEAD][ĐẠI LÕI] "the MAN" thông qua hành động cụ thể đang diễn ra.</li>
 			

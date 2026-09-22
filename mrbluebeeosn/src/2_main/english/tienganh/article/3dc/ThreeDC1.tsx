@@ -408,7 +408,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [to seCURE this CONtract] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to seCURE" kéo theo một [OBject PROnoun][TÂN ĐẠI] phía sau.</li>
 			
-					<li className="list-none">Chức năng: Khối [to seCURE this CONtract] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "TAKES exCEPtional negotiAtion SKILLS" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
+					<li className="list-none">Chức năng: Khối [to seCURE this CONtract] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "TAKES exCEPtional negotiAtion SKILLS" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
 			
 				</ul>
 
@@ -466,7 +466,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the OFFice [on the TOP FLOOR] has panoRAMic VIEWS.</li>
 					<li className="margin-bottom-20 list-none">Văn phòng [ở tầng trên cùng] có tầm nhìn toàn cảnh.</li>
 			
-					<li className="list-none">Hình thái: Khối [on the TOP FLOOR] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "on" liên kết quan hệ không gian trực tiếp với cụm [OBject PROnoun][TÂN ĐẠI] "the TOP FLOOR".</li>
+					<li className="list-none">Hình thái: Khối [on the TOP FLOOR] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "on" liên kết quan hệ không gian trực tiếp với cụm [NOUN BLOCK][DANH KHỐI] "the TOP FLOOR".</li>
 			
 					<li className="list-none">Chức năng: Khối [on the TOP FLOOR] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sát ngay sau khối biểu thị thực thể [PROnoun HEAD][ĐẠI LÕI] "the OFfice" để bổ nghĩa chỉ bối cảnh vị trí đặc trưng cho văn phòng đó.</li>
 			
@@ -626,7 +626,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối {'{why the SPEcies went exTINCT}'} bên trong đóng vai trò là [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối của [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "underSTAND".</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [to underSTAND {'{why the SPEcies went exTINCT}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò tổng thể làm khối [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] deMANDS sciencTIFic REsearch để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] It.</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [to underSTAND {'{why the SPEcies went exTINCT}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò tổng thể làm khối [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] deMANDS sciencTIFic REsearch để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] It.</li>
 			
 				</ul>
 

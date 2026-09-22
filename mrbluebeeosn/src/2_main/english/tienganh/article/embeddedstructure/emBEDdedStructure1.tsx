@@ -395,7 +395,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [to deSIGN the INterface] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to deSIGN" kéo dài cho đến hết đối tượng của nó.</li>
 
-					<li className="list-none">Chức năng: [to deSIGN the INterface] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "reQUIres creaTIVity" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
+					<li className="list-none">Chức năng: [to deSIGN the INterface] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres creaTIVity" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
 			
 				</ul>
 			
@@ -499,7 +499,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				
 						<li className="list-none">Hình thái: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to exPLAIN" và kéo theo khối CLAUSE con bên trong.</li>
 
-						<li className="list-none">Chức năng: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [SUBject PROnoun][CHỦ ĐẠI] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "is URgent" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
+						<li className="list-none">Chức năng: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is URgent" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
 				
 					</ul>
 
@@ -654,7 +654,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>the ARchitect [who is deSIGNing the BUILDing] is BUSy.</li>
 					<li className="margin-bottom-20 list-none">Người kiến trúc sư [người mà đang thiết kế tòa nhà] thì đang bận.</li>
 
-					<li className="list-none">Hình thái: [who is deSIGNing the BUILDing] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] hiện diện dưới dạng khối câu bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] kết nối who, chứa [TENSE PRESent PARTiciple VERB][THỜI HIỆN TIẾP ĐỘNG] is deSIGNing riêng biệt.</li>
+					<li className="list-none">Hình thái: [who is deSIGNing the BUILDing] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] hiện diện dưới dạng khối câu bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] kết nối who, chứa [auXILiary and PRESent PARTiciple VERB][TRỢ và HIỆN TIẾP ĐỘNG] is deSIGNing riêng biệt.</li>
 
 					<li className="list-none">Chức năng: [who is deSIGNing the BUILDing] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng [PROnoun HEAD][ĐẠI LÕI] "the ARchitect".</li>
 			

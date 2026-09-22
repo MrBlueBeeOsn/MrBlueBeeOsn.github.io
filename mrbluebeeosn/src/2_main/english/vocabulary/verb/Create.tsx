@@ -281,7 +281,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [CreAting MODern DIGital soLUtions] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] phát triển từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "CreAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [CreAting MODern DIGital soLUtions] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "reQUIres DEEP TECHnical KNOWledge" để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Chức năng: [CreAting MODern DIGital soLUtions] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres DEEP TECHnical KNOWledge" để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
 
@@ -346,7 +346,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to creATE STRONG seCUrity PROtocols] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] phát triển từ cụm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to creATE" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [to creATE STRONG seCUrity PROtocols] - [NOUN PHRASE][DANH CỤM] đảm nhận vai trò làm [SUBject PROnoun][CHỦ ĐẠI] bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" trong cấu trúc [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "is esSENtial".</li>
+          <li className="list-none">Chức năng: [to creATE STRONG seCUrity PROtocols] - [NOUN PHRASE][DANH CỤM] đảm nhận vai trò làm [SUBject PROnoun][CHỦ ĐẠI] bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is esSENtial".</li>
       
         </ul>
 
@@ -700,7 +700,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [CreAting soLUtions for {'{WHAT CLIents STRUGgle with}'}] - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG CÂU] lớn phát triển từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "CreAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [CreAting soLUtions for {'{WHAT CLIents STRUGgle with}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "BUILDS MARket VAlue".</li>
+          <li className="list-none">Chức năng: [CreAting soLUtions for {'{WHAT CLIents STRUGgle with}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "BUILDS MARket VAlue".</li>
       
         </ul>
 
@@ -764,7 +764,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [To underSTAND {'{how the SYStem creATES AUtomated rePORTS}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [To underSTAND {'{how the SYStem creATES AUtomated rePORTS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "reQUIres TECHnical SKILLS" để quản lý khối đầu việc ở đầu câu.</li>
+          <li className="list-none">Chức năng: [To underSTAND {'{how the SYStem creATES AUtomated rePORTS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres TECHnical SKILLS" để quản lý khối đầu việc ở đầu câu.</li>
       
         </ul>
 
@@ -828,7 +828,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to eVAluate {'{how the appliCAtion creATES User LOGS}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to eVAluate" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [to eVAluate {'{how the appliCAtion creATES User LOGS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [SUBject PROnoun][CHỦ ĐẠI] bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" trong cấu trúc [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "TAKES experTISE".</li>
+          <li className="list-none">Chức năng: [to eVAluate {'{how the appliCAtion creATES User LOGS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [SUBject PROnoun][CHỦ ĐẠI] bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "TAKES experTISE".</li>
       
         </ul>
 
@@ -924,7 +924,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Hình thái gốc: [CreAting HIGH-IMpact CONtent] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] biểu hiện dưới dạng khối mã mở rộng chứa hành động và đối tượng đi kèm.</li>
       
-          <li className="list-none">Chức năng: [CreAting HIGH-IMpact CONtent] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Chức năng: [CreAting HIGH-IMpact CONtent] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
       
@@ -938,7 +938,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Hình thái mới: [DeVEloping efFECtive proMOtional maTErial] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Chức năng mới: [DeVEloping efFECtive proMOtional maTErial] - [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [TENSE-BARE VERB PHRASE][THỜI-THUẦN NGUYÊN ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" của khối cũ.</li>
+          <li className="list-none">Chức năng mới: [DeVEloping efFECtive proMOtional maTErial] - [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject PROnoun][CHỦ ĐẠI] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" của khối cũ.</li>
       
         </ul>
 
