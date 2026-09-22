@@ -100,7 +100,7 @@ export default function HONestly1(): React.JSX.Element {
           <li id="ADverb">HONestly, i DON'T KNOW the ANswer.</li>
           <li className="margin-bottom-20 list-none">Thật sự, tôi không biết câu trả lời.</li>
 
-          <li>HONestly, i THINK you should reconSIDer your deCIsion.</li>
+          <li>HONestly, i THINK you should reconSIDer your deCISion.</li>
           <li className="list-none">Thành thật mà nói, tôi nghĩ bạn nên xem xét lại quyết định của mình.</li>
 
         </ul>

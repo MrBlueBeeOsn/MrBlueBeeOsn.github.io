@@ -405,7 +405,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [HANdling USer TRAFfic efFIciently] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] hình thành từ sự phối hợp giữa hạt nhân [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "HANdling" và các tham số bổ nghĩa "USer TRAFfic efFIciently" phía sau.</li>
 			
-					<li className="list-none">Chức năng: [HANdling USer TRAFfic efFIciently] – [ADjective PHRASE][TÍNH CỤM] đứng sau kết hợp với [FInite VERB][HẠN ĐỘNG] "is" nhằm mô tả trạng thái thuộc tính diễn tiến cho dịch vụ nhỏ.</li>
+					<li className="list-none">Chức năng: [HANdling USer TRAFfic efFIciently] – [ADjective PHRASE][TÍNH CỤM] đứng sau kết hợp với [FInite VERB][HẠN ĐỘNG] "is" nhằm mô tả trạng thái thuộc tính diễn tiến cho [PROnoun HEAD][ĐẠI LÕI] "the MIcroservice" dịch vụ nhỏ.</li>
 			
 				</ul>
 			
@@ -550,7 +550,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [for the WEB FRAMEwork] – [prepoSITional PHRASE][GIỚI CỤM] dẫn đầu bằng một [prepoSITion][GIỚI] đơn lẻ kết hợp cùng khối danh mục mục tiêu phía sau.</li>
 			
-					<li className="list-none">Chức năng: [for the WEB FRAMEwork] – [ADjective PHRASE][TÍNH CỤM] đứng ngay sau đối tượng nhằm xác định rõ thuộc tính định danh cho tài liệu.</li>
+					<li className="list-none">Chức năng: [for the WEB FRAMEwork] – [ADjective PHRASE][TÍNH CỤM] đứng ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "the documenTAtion" nhằm xác định rõ thuộc tính định danh cho tài liệu.</li>
 			
 				</ul>
 			
@@ -643,7 +643,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối {'{WHAT the TEAM dePLOYED YESterday}'} bên trong đóng vai trò làm [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp từ [prepoSITion][GIỚI] đứng trước.</li>
 
-					<li className="list-none">Và toàn bộ khối tổng thể [for {'{WHAT the TEAM dePLOYED YESterday}'}] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] nhằm mô tả thuộc tính định danh cho khối [NOUN PHRASE][DANH CỤM] "the SOURCE CODE" phía trước.</li>
+					<li className="list-none">Và toàn bộ khối tổng thể [for {'{WHAT the TEAM dePLOYED YESterday}'}] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] nhằm mô tả thuộc tính định danh cho khối [NOUN BLOCK][DANH KHỐI] "the SOURCE CODE" phía trước.</li>
 			
 				</ul>
 			
@@ -740,7 +740,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [unseCURED] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "seCURE" kết hợp tiền tố phủ định "un-" và mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [unseCURED] – [ADjective HEAD][TÍNH LÕI] đứng trước để định rõ thuộc tính cho [MODified NOUN][DIỆN DANH] "conNECtion" kết nối.</li>
+					<li className="list-none">Chức năng: [unseCURED] – [ADjective HEAD][TÍNH LÕI] đứng trước để định rõ thuộc tính cho [NOUN HEAD][DANH LÕI] "conNECtion" kết nối.</li>
 			
 				</ul>
 			
@@ -754,7 +754,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [CAUSing seCUrity LEAKS] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] hình thành từ sự phối hợp giữa hạt nhân [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "CAUSing" và mở rộng mục tiêu "seCUrity LEAKS" phía sau.</li>
 			
-					<li className="list-none">Chức năng: [CAUSing seCUrity LEAKS] – [ADjective PHRASE][TÍNH CỤM] đứng sau bổ nghĩa thuộc tính diễn tiến cho [MODified NOUN][DIỆN DANH] "conNECtion" kết nối.</li>
+					<li className="list-none">Chức năng: [CAUSing seCUrity LEAKS] – [ADjective PHRASE][TÍNH CỤM] đứng sau bổ nghĩa thuộc tính diễn tiến cho [NOUN HEAD][DANH LÕI] "conNECtion" kết nối.</li>
 			
 				</ul>
 			
@@ -782,7 +782,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [with MULtiple seCUrity FLAWS] – Khối [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "with" kết hợp với cụm mục tiêu "MULtiple seCUrity FLAWS" phía sau.</li>
 			
-					<li className="list-none">Chức năng: [with MULtiple seCUrity FLAWS] – [ADjective PHRASE][TÍNH CỤM] đứng sau để bổ nghĩa thuộc tính sở hữu đặc điểm cho [MODified NOUN][DIỆN DANH] "conNECtion" kết nối.</li>
+					<li className="list-none">Chức năng: [with MULtiple seCUrity FLAWS] – [ADjective PHRASE][TÍNH CỤM] đứng sau để bổ nghĩa thuộc tính sở hữu đặc điểm cho [NOUN HEAD][DANH LÕI] "conNECtion" kết nối.</li>
 			
 				</ul>
 			

@@ -422,7 +422,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [BUILT by them] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] hiển dung dưới dạng một vùng mã chứa [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] BUILT bị động và phần mở rộng chủ thể.</li>
 			
-					<li className="list-none">Chức năng: [BUILT by them] - [ADjective PHRASE][TÍNH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng "SOFTware" để mô tả đặc điểm trạng thái của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [BUILT by them] - [ADjective PHRASE][TÍNH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "SOFTware" để mô tả đặc điểm trạng thái của đối tượng đó.</li>
 			
 				</ul>
 			
@@ -458,7 +458,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [in this TEAM] - [prepoSITional PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [prepoSITion][GIỚI] in.</li>
 			
-					<li className="list-none">Chức năng: [in this TEAM] - [ADjective PHRASE][TÍNH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng "engiNEERS" để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [in this TEAM] - [ADjective PHRASE][TÍNH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "engiNEERS" để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
 			
 				</ul>
 			
@@ -561,7 +561,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				
 						<li className="list-none">Hình thái: [a<strong>bout</strong> {'{how this TEAM deSIGNED the APP}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 
-						<li className="list-none">Chức năng: [a<strong>bout</strong> {'{how this TEAM deSIGNED the APP}'}] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho "the NEWS" đứng trước nó.</li>
+						<li className="list-none">Chức năng: [a<strong>bout</strong> {'{how this TEAM deSIGNED the APP}'}] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho [PROnoun HEAD][ĐẠI LÕI] "the NEWS" đứng trước nó.</li>
 				
 					</ul>
 
@@ -826,7 +826,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [on the DESK] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng từ định vị vị trí bề mặt [prepoSITion][GIỚI] on.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [on the DESK] - [ADjective PHRASE][TÍNH CỤM] bổ nghĩa trực tiếp cho thành phần tên gọi "FILES" đứng trước.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [on the DESK] - [ADjective PHRASE][TÍNH CỤM] bổ nghĩa trực tiếp cho thành phần tên gọi [PROnoun HEAD][ĐẠI LÕI] "FILES" đứng trước.</li>
 			
 				</ul>
 			
@@ -838,7 +838,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái mới: [inSIDE the CABinet] - [prepoSITional PHRASE][GIỚI CỤM] mới bắt đầu bằng [prepoSITion][GIỚI] định vị không gian inSIDE được đưa vào thế chỗ.</li>
 			
-					<li className="list-none">Chức năng mới: [inSIDE the CABinet] - [ADjective PHRASE][TÍNH CỤM] tiếp tục đảm nhận chính xác vai trò mô tả, quét đặc điểm bối cảnh cho đối tượng "FILES" của khối cũ mà không làm biến dạng sơ đồ câu.</li>
+					<li className="list-none">Chức năng mới: [inSIDE the CABinet] - [ADjective PHRASE][TÍNH CỤM] tiếp tục đảm nhận chính xác vai trò mô tả, quét đặc điểm bối cảnh cho đối tượng [PROnoun HEAD][ĐẠI LÕI] "FILES" của khối cũ mà không làm biến dạng sơ đồ câu.</li>
 			
 				</ul>
 			

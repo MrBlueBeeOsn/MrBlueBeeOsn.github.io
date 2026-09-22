@@ -419,7 +419,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [under the BLACK CAR] - [prepoSITional PHRASE][GIỚI CỤM] cấu thành khối bắt đầu bằng một [prepoSITion][GIỚI] mốc vị trí.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [under the BLACK CAR] - [ADjective PHRASE][TÍNH CỤM] neo ngay sau đối tượng con mèo để mô tả đặc điểm vị trí nhận diện riêng biệt cho nó.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [under the BLACK CAR] - [ADjective PHRASE][TÍNH CỤM] neo ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "the CAT" con mèo để mô tả đặc điểm vị trí nhận diện riêng biệt cho nó.</li>
 			
 				</ul>
 			
@@ -667,7 +667,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Nhúng trong: Lớp trong {'{how she sucCEEDed}'} đóng vai trò là một [NOUN CLAUSE][DANH CÂU] đứng làm điểm tựa [OBject PROnoun][TÂN ĐẠI] dưới sự điều phối của [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 
-					<li className="list-none">Nhúng ngoài: Lớp ngoài [a<strong>bout</strong> {'{how she sucCEEDed}'}] đóng vai trò là một [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tổng thể bổ nghĩa cho [NOUN PHRASE][DANH CỤM] "the ARticle" đứng trước nó.</li>
+					<li className="list-none">Nhúng ngoài: Lớp ngoài [a<strong>bout</strong> {'{how she sucCEEDed}'}] đóng vai trò là một [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tổng thể bổ nghĩa cho [PROnoun HEAD][ĐẠI LÕI] "the ARticle" đứng trước nó.</li>
 			
 				</ul>
 

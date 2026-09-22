@@ -435,7 +435,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [SUpervising the AUdit] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng một [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "SUpervising" kết hợp với một [OBject PROnoun][TÂN ĐẠI] phía sau.</li>
 			
-					<li className="list-none">Chức năng: Khối [SUpervising the AUdit] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau thực thể "the OFficer" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
+					<li className="list-none">Chức năng: Khối [SUpervising the AUdit] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau thực thể [PROnoun HEAD][ĐẠI LÕI] "the OFficer" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
 			
 				</ul>
 			
@@ -467,7 +467,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [on the TOP FLOOR] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "on" liên kết quan hệ không gian trực tiếp với cụm [OBject PROnoun][TÂN ĐẠI] "the TOP FLOOR".</li>
 			
-					<li className="list-none">Chức năng: Khối [on the TOP FLOOR] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sát ngay sau khối biểu thị thực thể "the OFfice" để bổ nghĩa chỉ bối cảnh vị trí đặc trưng cho văn phòng đó.</li>
+					<li className="list-none">Chức năng: Khối [on the TOP FLOOR] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sát ngay sau khối biểu thị thực thể [PROnoun HEAD][ĐẠI LÕI] "the OFfice" để bổ nghĩa chỉ bối cảnh vị trí đặc trưng cho văn phòng đó.</li>
 			
 				</ul>
 			
@@ -670,7 +670,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối {'{whether the COMpany should MERGE}'} bên trong thực thi chức năng [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] nhận quan hệ trực tiếp đứng sau [prepoSITion][GIỚI] over.</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [<strong>o</strong>ver{'{whether the COMpany should MERGE}'}] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm the disPUTE.</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [<strong>o</strong>ver{'{whether the COMpany should MERGE}'}] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm the [PROnoun HEAD][ĐẠI LÕI] "the disPUTE".</li>
 
 			
 				</ul>
@@ -801,7 +801,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [acCELerating the RENdering PROCess] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng phân từ đuôi "-ing" và có thành phần bổ trợ đi kèm.</li>
 			
-					<li className="list-none">Chức năng: Khối [acCELerating the RENdering PROCess] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sau bổ nghĩa rút gọn cho khối biểu thị thực thể "the CODE".</li>
+					<li className="list-none">Chức năng: Khối [acCELerating the RENdering PROCess] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sau bổ nghĩa rút gọn cho khối biểu thị thực thể [PROnoun HEAD][ĐẠI LÕI] "the CODE".</li>
 			
 				</ul>
 
@@ -964,7 +964,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<ul className="list-square">
 				
-						<li>he [RAREly] REalizes HOW MUCH his deCIsions afFECT the PROject.</li>
+						<li>he [RAREly] REalizes HOW MUCH his deCISions afFECT the PROject.</li>
 						<li className="margin-bottom-20 list-none">Anh ấy [hiếm khi] nhận ra các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
 				
 					</ul>
@@ -974,7 +974,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<ul className="list-square">
 
-						<li>[RAREly does] he REalize HOW MUCH his deCIsions afFECT the PROject.</li>
+						<li>[RAREly does] he REalize HOW MUCH his deCISions afFECT the PROject.</li>
 						<li className="margin-bottom-20 list-none">[Hiếm khi thực sự] anh ấy nhận ra được các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
 
 						<li className="list-none">→ Việc đưa [RAREly does] - <strong>TRẠNG phủ định</strong> [<strong>Negative AdVERB</strong>] "RAREly" và [FInite VERB][HẠN ĐỘNG] "does" lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức.</li>

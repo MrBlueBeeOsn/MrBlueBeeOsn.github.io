@@ -166,7 +166,7 @@ export default function PAINstakingly1(): React.JSX.Element {
           <li>she HANDled the eQUIPment NEGligently.</li>
           <li className="margin-bottom-20 list-none">Cô ấy xử lý thiết bị một cách cẩu thả.</li>
 
-          <li>he MADE a deCIsion HAstily.</li>
+          <li>he MADE a deCISion HAstily.</li>
           <li className="list-none">Anh ấy đưa ra quyết định một cách vội vàng.</li>
 
         </ul>

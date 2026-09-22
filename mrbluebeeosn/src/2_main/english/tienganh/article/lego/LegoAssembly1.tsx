@@ -557,7 +557,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [MONitoring the conTROL PANel] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] MONitoring kết hợp với đối tượng chịu tác động the conTROL PANel để tạo nên một hành động đang được kéo dài trực quan.</li>
 
-					<li className="list-none">Chức năng: [MONitoring the conTROL PANel] - [ADjective PHRASE][TÍNH CỤM] đứng sau bộ nguồn is để làm phần mô tả trực tiếp trạng thái hành động diễn tiến của [SUBject PROnoun][CHỦ ĐẠI] the OPerator.</li>
+					<li className="list-none">Chức năng: [MONitoring the conTROL PANel] - [ADjective PHRASE][TÍNH CỤM] đứng sau bộ nguồn is để làm phần mô tả trực tiếp trạng thái hành động diễn tiến của [PROnoun HEAD][ĐẠI LÕI] the OPerator.</li>
 			
 				</ul>
 
@@ -570,7 +570,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [with the HIGH-resoLUtion LENS] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] with kết hợp cùng một khối chức năng Danh nhằm giới hạn phạm vi mô tả của [prepoSITion][GIỚI].</li>
 
-					<li className="list-none">Chức năng: [with the HIGH-resoLUtion LENS] - [ADjective PHRASE][TÍNH CỤM] đứng sau [NOUN PHRASE][DANH CỤM] the deVICE để mô tả đặc điểm cấu tạo nhận dạng của đối tượng này.</li>
+					<li className="list-none">Chức năng: [with the HIGH-resoLUtion LENS] - [ADjective PHRASE][TÍNH CỤM] đứng sau [PROnoun HEAD][ĐẠI LÕI] the deVICE để mô tả đặc điểm cấu tạo nhận dạng của đối tượng này.</li>
 			
 				</ul>
 
@@ -590,7 +590,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Khối tổng thể [with the perSPECtive {'{that FACTS GUIDE deVELopment}'}] đóng vai trò là [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] bổ nghĩa, mô tả đặc điểm thuộc tính cho [SUBject PROnoun][CHỦ ĐẠI] the SPECialist.</li>
+					<li className="list-none">Khối tổng thể [with the perSPECtive {'{that FACTS GUIDE deVELopment}'}] đóng vai trò là [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] bổ nghĩa, mô tả đặc điểm thuộc tính cho [PROnoun HEAD][ĐẠI LÕI] the SPECialist.</li>
 
 					<li className="list-none">Khối nhỏ bên trong {'{that FACTS GUIDE deVELopment}'} đóng vai trò là [NOUN CLAUSE][DANH CÂU] làm nhiệm vụ đồng vị, giải thích nội dung trực tiếp cho [NOUN HEAD][DANH LÕI] perSPECtive.</li>
 			
