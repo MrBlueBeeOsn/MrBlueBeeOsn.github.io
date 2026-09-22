@@ -130,7 +130,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "everyone in the OFfice _______ to atTEND the MEETing toMORrow.",
+			question: "everyone in the OFFice _______ to atTEND the MEETing toMORrow.",
 			options: [
 				"NEED",
 				"NEEDS",

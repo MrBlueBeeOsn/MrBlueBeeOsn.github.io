@@ -392,7 +392,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy [đã đi] đến công viên để chụp lại những bức ảnh về người thả diều [vào ngày hôm qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng WENT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they [have GONE]to the OFfice to FInalize the QUARterly fiNANcial STATEments.</li>
+					<li>they [have GONE]to the OFFice to FInalize the QUARterly fiNANcial STATEments.</li>
 					<li className="list-none">Họ [đã đi] đến văn phòng để hoàn thiện các báo cáo tài chính quý [rồi].</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have GONE, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -670,7 +670,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [LEAVES] his OFfice [<strong>ever</strong>y EVEning] <strong>af</strong>ter FINishing all TASKS.</li>
+					<li>he [LEAVES] his OFFice [<strong>ever</strong>y EVEning] <strong>af</strong>ter FINishing all TASKS.</li>
 					<li className="list-none">Anh ấy [rời] văn phòng [vào mỗi buổi tối] sau khi hoàn thành tất cả các nhiệm vụ.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng LEAVES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -793,7 +793,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy [đã thả con mèo ra] ngoài nhà [vào sáng nay].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng LET để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they [have LET] us USE their OFfice SPACE for the MEEting.</li>
+					<li>they [have LET] us USE their OFFice SPACE for the MEEting.</li>
 					<li className="list-none">Họ [đã cho] chúng tôi sử dụng không gian văn phòng của họ cho cuộc họp [rồi].</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have LET, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			

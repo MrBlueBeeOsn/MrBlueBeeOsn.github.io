@@ -130,7 +130,7 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "they are PLANning to seT UP a NEW BRANCH OFfice in LONdon NEXT YEAR. WHAT does \"seT UP\" MEAN?",
+			question: "they are PLANning to seT UP a NEW BRANCH OFFice in LONdon NEXT YEAR. WHAT does \"seT UP\" MEAN?",
 			options: [
 				"to DECorate",
 				"to TRICK someone",

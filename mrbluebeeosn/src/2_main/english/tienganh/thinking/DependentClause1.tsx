@@ -72,7 +72,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the OFfice is CLOSED.</li>
+					<li>the OFFice is CLOSED.</li>
 					<li className="list-none">Văn phòng đã đóng cửa.</li>
 			
 				</ul>
@@ -84,7 +84,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>since the OFfice is CLOSED...</li>
+					<li>since the OFFice is CLOSED...</li>
 					<li className="list-none">Vì văn phòng đã đóng cửa...</li>
 			
 				</ul>
