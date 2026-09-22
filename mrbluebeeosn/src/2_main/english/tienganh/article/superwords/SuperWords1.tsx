@@ -53,7 +53,8 @@ export default function SuperWords1(): React.JSX.Element {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#NOUN-HEAD">NOUN HEAD</HashLink>
+						<HashLink smooth to="#PROnoun-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#OBject-HEAD">OBject HEAD</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -317,7 +318,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái [ĐỘNG][VERB], chức năng của nó sẽ được quyết định bởi vị trí đứng:</p>
 
-			<p className="margin-top-20" id="NOUN-HEAD"><strong>Ví dụ 1a</strong>: [<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20" id="PROnoun-HEAD"><strong>Ví dụ 1a</strong>: [<strong>PROnoun HEAD</strong>][<strong>ĐẠI LÕI</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -326,12 +327,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [OPtimizing] – [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "OPtimize" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] hoạt động độc lập.</li>
 			
-					<li className="list-none">Chức năng: [OPtimizing] – [NOUN HEAD][DANH LÕI] đang đứng vị trí khởi đầu để làm [SUBject PROnoun][CHỦ ĐẠI] cho toàn câu lớn.</li>
+					<li className="list-none">Chức năng: [OPtimizing] – [PROnoun HEAD][ĐẠI LÕI] đang đứng vị trí khởi đầu để làm [SUBject PROnoun][CHỦ ĐẠI] cho toàn câu lớn.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20"><strong>Ví dụ 1b</strong>: [<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>] <strong>làm</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+			<p className="margin-top-20" id="OBject-HEAD"><strong>Ví dụ 1b</strong>: [<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>làm</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -340,7 +341,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [deSIGNing] – [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ [ROOT VERB][GỐC ĐỘNG] nguyên bản "deSIGN" mặc thêm hậu tố "-ing" để tạo thành một khối cấp độ [HEAD][LÕI] độc lập.</li>
 			
-					<li className="list-none">Chức năng: [deSIGNing] – [NOUN HEAD][DANH LÕI] đang đứng vị trí sau [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "enJOYS" để làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận hành động yêu thích.</li>
+					<li className="list-none">Chức năng: [deSIGNing] – [OBject HEAD][TÂN LÕI] đang đứng vị trí sau [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "enJOYS" để làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận hành động yêu thích.</li>
 			
 				</ul>
 			
