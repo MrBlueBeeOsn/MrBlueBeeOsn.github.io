@@ -97,7 +97,7 @@ export default function efFICiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADverb">she comPLETed the TASK efFICiently.</li>
+          <li id="ADverb">she comPLETEd the TASK efFICiently.</li>
           <li className="margin-bottom-20 list-none">Cô ấy hoàn thành công việc một cách hiệu quả.</li>
 
           <li>THIS NEW SOFTware will HELP us WORK MORE efFICiently.</li>
