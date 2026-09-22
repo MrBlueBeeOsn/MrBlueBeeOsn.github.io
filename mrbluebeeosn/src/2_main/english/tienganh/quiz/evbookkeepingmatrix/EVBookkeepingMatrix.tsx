@@ -72,13 +72,13 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 6,
-			question: "we USE SPECialized SOFTware [to AUtomate the BOOKkeeping PROcess]. \n Chúng tôi sử dụng phần mềm chuyên dụng [để tự động hóa quy trình ghi chép sổ sách].",
+			question: "we USE SPECialized SOFTware [to AUtomate the BOOKkeeping PROCess]. \n Chúng tôi sử dụng phần mềm chuyên dụng [để tự động hóa quy trình ghi chép sổ sách].",
 			options: [
 				"[ADverb PHRASE]",
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to AUtomate the BOOKkeeping PROcess] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng hành động có \"to\" đi kèm các thành phần bổ nghĩa. \n\n Chức năng: [to AUtomate the BOOKkeeping PROcess] - [ADverb PHRASE][TRẠNG CỤM] đứng sau hành động chính \"USE\" đứng ra bổ nghĩa cho hành động đó theo góc độ mục đích."
+			explanation: "Hình thái: [to AUtomate the BOOKkeeping PROCess] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng hành động có \"to\" đi kèm các thành phần bổ nghĩa. \n\n Chức năng: [to AUtomate the BOOKkeeping PROCess] - [ADverb PHRASE][TRẠNG CỤM] đứng sau hành động chính \"USE\" đứng ra bổ nghĩa cho hành động đó theo góc độ mục đích."
 		},
 		{
 			id: 7,

@@ -92,13 +92,13 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "the MODern SOFTware [USED for PAYroll PROcessing] reQUIres an ANnual LIcense UPdate. \n Phần mềm hiện đại [được sử dụng để xử lý bảng lương] yêu cầu một bản cập nhật giấy phép hàng năm.",
+			question: "the MODern SOFTware [USED for PAYroll PROCessing] reQUIres an ANnual LIcense UPdate. \n Phần mềm hiện đại [được sử dụng để xử lý bảng lương] yêu cầu một bản cập nhật giấy phép hàng năm.",
 			options: [
 				"[ADjective PHRASE]",
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [USED for PAYroll PROcessing] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [USED for PAYroll PROcessing] - [ADjective PHRASE][TÍNH CỤM] defining and restricting the meaning of the specific technical noun \"SOFTware\" being discussed."
+			explanation: "Form: [USED for PAYroll PROCessing] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [USED for PAYroll PROCessing] - [ADjective PHRASE][TÍNH CỤM] defining and restricting the meaning of the specific technical noun \"SOFTware\" being discussed."
 		},
 		{
 			id: 9,

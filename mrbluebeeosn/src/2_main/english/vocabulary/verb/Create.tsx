@@ -245,7 +245,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [creAtive] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả tính chất đặc điểm.</li>
       
-          <li className="list-none">Chức năng: [creAtive] - [ADjective HEAD][TÍNH LÕI] kích hoạt bộ quét đặt ngay trước đối tượng "team" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [creAtive] - [ADjective HEAD][TÍNH LÕI] kích hoạt bộ quét đặt ngay trước đối tượng [NOUN HEAD][DANH LÕI] "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
       
         </ul>
       
@@ -994,7 +994,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Hình thái mới: [creAtive] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
       
-          <li className="list-none">Chức năng mới: [creAtive] - [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Chức năng mới: [creAtive] - [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng [NOUN HEAD][DANH LÕI] "TEAM". để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
         </ul>
 

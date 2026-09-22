@@ -58,7 +58,7 @@ export default function ParaphrasingTechniquesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 4,
-			question: "WHEN should you USE quoTAtion MARKS during the PARaphrasing PROcess?",
+			question: "WHEN should you USE quoTAtion MARKS during the PARaphrasing PROCess?",
 			options: [
 				"when you USE MORE than THREE WORDS from the oRIGinal TEXT.",
 				"when you USE uNIQUE TERMS or speCIFic PHRASES that CANnot be CHANGED.",

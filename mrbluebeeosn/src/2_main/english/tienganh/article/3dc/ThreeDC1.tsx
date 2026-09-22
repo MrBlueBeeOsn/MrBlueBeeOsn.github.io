@@ -762,12 +762,12 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>the CODE [which acCELerates the RENdering PROcess] reQUIres optimiZAtion.</li>
+					<li>the CODE [which acCELerates the RENdering PROCess] reQUIres optimiZAtion.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [mà tăng tốc quy trình kết xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: Khối [which acCELerates the RENdering PROcess] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates".</li>
+					<li className="list-none">Hình thái: Khối [which acCELerates the RENdering PROCess] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates".</li>
 			
-					<li className="list-none">Chức năng: Khối [which acCELerating the RENdering PROcess] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể [PROnoun HEAD][ĐẠI LÕI] "the CODE".</li>
+					<li className="list-none">Chức năng: Khối [which acCELerating the RENdering PROCess] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể [PROnoun HEAD][ĐẠI LÕI] "the CODE".</li>
 			
 				</ul>
 
@@ -796,12 +796,12 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>the CODE [acCELerating the RENdering PROcess] reQUIres optimiZAtion.</li>
+					<li>the CODE [acCELerating the RENdering PROCess] reQUIres optimiZAtion.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [đang tăng tốc quy trình kết xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: Khối [acCELerating the RENdering PROcess] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng phân từ đuôi "-ing" và có thành phần bổ trợ đi kèm.</li>
+					<li className="list-none">Hình thái: Khối [acCELerating the RENdering PROCess] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng phân từ đuôi "-ing" và có thành phần bổ trợ đi kèm.</li>
 			
-					<li className="list-none">Chức năng: Khối [acCELerating the RENdering PROcess] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sau bổ nghĩa rút gọn cho khối biểu thị thực thể "the CODE".</li>
+					<li className="list-none">Chức năng: Khối [acCELerating the RENdering PROCess] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sau bổ nghĩa rút gọn cho khối biểu thị thực thể "the CODE".</li>
 			
 				</ul>
 

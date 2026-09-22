@@ -63,7 +63,7 @@ export default function IELTSQuestions(): React.JSX.Element {
 				"MATCHing HEADings",
 				"TRUE / FALSE / NOT GIVen",
 				"SENtence comPLEtion",
-				"deSCRIbing a PROcess"
+				"deSCRIbing a PROCess"
 			],
 			correctAnswer: 3,
 			explanation: "Describing a Process is a typical requirement for Writing Task 1 (acaDEMic), not a question type found in the IELTS Reading test. Reading questions test comprehension and information retrieval."

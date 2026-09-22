@@ -241,12 +241,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the [clarity] of this instruction helped everyone.</li>
+          <li>the [CLARity] of this inSTRUCTion HELPED EVERyone.</li>
           <li className="margin-bottom-20 list-none">[Sự rõ ràng] của lời hướng dẫn này đã giúp đỡ mọi người.</li>
       
-          <li className="list-none">Hình thái: [clarity] - [MODified NOUN][DIỆN DANH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "CLEAR" biến đổi thành "clar" mặc thêm hậu tố "-ity" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], tạo thành một thực thể định danh độc lập.</li>
+          <li className="list-none">Hình thái: [CLARity] - [MODified NOUN][DIỆN DANH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "CLEAR" biến đổi thành "CLAR" mặc thêm hậu tố "-ity" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], tạo thành một thực thể định danh độc lập.</li>
       
-          <li className="list-none">Chức năng: [clarity] - [NOUN HEAD][DANH LÕI] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để định danh cho một đặc tính/sự việc.</li>
+          <li className="list-none">Chức năng: [CLARity] - [NOUN HEAD][DANH LÕI] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để định danh cho một đặc tính/sự việc.</li>
       
         </ul>
       
@@ -257,12 +257,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we need a [CLEAR] explanation.</li>
+          <li>we NEED a [CLEAR] explaNAtion.</li>
           <li className="margin-bottom-20 list-none">Chúng ta cần một lời giải thích [rõ ràng].</li>
       
           <li className="list-none">Hình thái: [CLEAR] - Bản thân [VERB HEAD][ĐỘNG LÕI] khi giữ nguyên trạng thái từ đơn lẻ nhưng chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
       
-          <li className="list-none">Chức năng: [CLEAR] - [ADjective HEAD][TÍNH LÕI] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng "explanation" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [CLEAR] - [ADjective HEAD][TÍNH LÕI] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng [NOUN HEAD][DANH LÕI] "explaNAtion" để hiển thị đặc điểm của đối tượng đó.</li>
       
         </ul>
       
@@ -273,12 +273,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>she explained the process [CLEARly].</li>
+          <li>she exPLAINED the PROCess [CLEARly].</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã giải thích quy trình [một cách rõ ràng].</li>
       
           <li className="list-none">Hình thái: [CLEARly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "CLEAR" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
       
-          <li className="list-none">Chức năng: [CLEARly] - [ADverb HEAD][TRẠNG LÕI] thực thi vai trò làm thành phần bổ nghĩa đứng sau hành động "explained" để xác định bối cảnh cách thức.</li>
+          <li className="list-none">Chức năng: [CLEARly] - [ADverb HEAD][TRẠNG LÕI] thực thi vai trò làm thành phần bổ nghĩa đứng sau hành động "exPLAINED" để xác định bối cảnh cách thức.</li>
       
         </ul>
 
@@ -290,7 +290,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE"><strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 4:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 4a: [SUBject PROnoun][CHỦ ĐẠI]</p>
       
         <ul className="list-square">
       
@@ -308,12 +308,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the IT team finished [CLEARing old database files].</li>
+          <li>the IT TEAM FINished [CLEARing OLD DAtabase FILES].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ CNTT đã hoàn thành [việc dọn dẹp các tệp tin cơ sở dữ liệu cũ].</li>
       
-          <li className="list-none">Hình thái: [CLEARing old database files] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động dọn dẹp, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
+          <li className="list-none">Hình thái: [CLEARing OLD DAtabase FILES] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động dọn dẹp, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
       
-          <li className="list-none">Chức năng: [CLEARing old database files] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] (thành phần chịu tác động) tích hợp chuỗi dữ liệu đầu việc đứng ngay sau cặp phối hợp [SUBject PROnoun][CHỦ ĐẠI] và [PAST VERB][ĐÃ ĐỘNG] "finished".</li>
+          <li className="list-none">Chức năng: [CLEARing OLD DAtabase FILES] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] (thành phần chịu tác động) tích hợp chuỗi dữ liệu đầu việc đứng ngay sau cặp phối hợp [SUBject PROnoun][CHỦ ĐẠI] và [PAST VERB][ĐÃ ĐỘNG] "FINished".</li>
       
         </ul>
 
@@ -870,7 +870,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái mới: [CLEAR] - [ROOT ADjective][GỐC TÍNH] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần ADjective đơn duy nhất.</li>
       
-          <li className="list-none">Chức năng mới: [CLEAR] - [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng "SYStem LAYout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Chức năng mới: [CLEAR] - [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng [NOUN BLOCK][DANH KHỐI] "SYStem LAYout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
         </ul>
 
