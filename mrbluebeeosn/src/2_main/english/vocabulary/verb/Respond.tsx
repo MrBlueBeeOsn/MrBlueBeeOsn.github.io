@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Respond(): React.JSX.Element {
+export default function reSPOND(): React.JSX.Element {
 
-	const postId = "Respond";
+	const postId = "reSPOND";
 
 	return (<>
 

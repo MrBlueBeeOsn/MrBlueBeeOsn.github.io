@@ -1630,30 +1630,30 @@
 			"date": "2026-05-26"
 		},
 		{ 
-			"id": "Clear",
+			"id": "CLEAR",
 			"categoryDisplay": "Làm rõ",
 			"categorySlug": "vocabulary#verbs-terms",
-			"title": "Clear",
-			"content": "clear] is a [Root Verb Base] that means to remove things that are not wanted from a place, or to make something easy to see or understand. [clear] là một [Rễ Động Cơ \\Root Verb Base] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).",
-			"slug": "vocabulary/clear",
+			"title": "CLEAR",
+			"content": "[CLEAR] is a [ROOT VERB] that means to remove things that are not wanted from a place, or to make something easy to see or understand. [CLEAR] là một [ROOT VERB][GỐC ĐỘNG] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).",
+			"slug": "vocabulary/CLEAR",
 			"date": "2026-06-19"
 		},
 		{ 
-			"id": "Respond",
+			"id": "reSPOND",
 			"categoryDisplay": "Phản hồi",
 			"categorySlug": "vocabulary#verbs-terms",
-			"title": "Respond",
+			"title": "reSPOND",
 			"content": "reSPOND] is a [Root Verb Base] that means to say or write something as an answer, or to react to something. [reSPOND] là một [Rễ Động Cơ \\Root Verb Base] có nghĩa là phản hồi, trả lời, hoặc phản ứng lại một tác động trước đó.",
-			"slug": "vocabulary/respond",
+			"slug": "vocabulary/reSPOND",
 			"date": "2026-06-20"
 		},
 		{ 
-			"id": "Create",
+			"id": "creATE",
 			"categoryDisplay": "Tạo ra",
 			"categorySlug": "vocabulary#verbs-terms",
-			"title": "Create",
+			"title": "creATE",
 			"content": "creATE] is a [Root Verb Base] that means to bring something into existence, or to cause something to happen. [creATE] là một [Rễ Động Cơ \\Root Verb Base] có nghĩa là tạo ra, sáng tạo, hoặc làm cho một điều gì đó xuất hiện.",
-			"slug": "vocabulary/create",
+			"slug": "vocabulary/creATE",
 			"date": "2026-07-07"
 		},
 		{ 

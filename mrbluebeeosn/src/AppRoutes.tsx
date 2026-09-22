@@ -371,9 +371,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 
 	// 2. Verbs
-	const Clear = lazy(() => import('@/2_main/english/vocabulary/verb/Clear'));
-	const Respond = lazy(() => import('@/2_main/english/vocabulary/verb/Respond'));
-	const Create = lazy(() => import('@/2_main/english/vocabulary/verb/Create'));
+	const CLEAR = lazy(() => import('@/2_main/english/vocabulary/verb/CLEAR'));
+	const ReSPOND = lazy(() => import('@/2_main/english/vocabulary/verb/reSPOND'));
+	const CreATE = lazy(() => import('@/2_main/english/vocabulary/verb/creATE'));
 	
 
 
@@ -1006,9 +1006,9 @@ export default function AppRoutes(): React.JSX.Element {
 
 
 					{/* 1. Vocabulary - Verbs */}
-					<Route path="/vocabulary/clear" element={<Clear />} />
-					<Route path="/vocabulary/respond" element={<Respond />} />
-					<Route path="/vocabulary/create" element={<Create />} />
+					<Route path="/vocabulary/CLEAR" element={<CLEAR />} />
+					<Route path="/vocabulary/reSPOND" element={<ReSPOND />} />
+					<Route path="/vocabulary/creATE" element={<CreATE />} />
 					
 
 

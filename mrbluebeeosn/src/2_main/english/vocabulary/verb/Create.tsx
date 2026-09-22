@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Create(): React.JSX.Element {
+export default function creATE(): React.JSX.Element {
 
-  const postId = "Create";
+  const postId = "creATE";
 
   return (<>
 
