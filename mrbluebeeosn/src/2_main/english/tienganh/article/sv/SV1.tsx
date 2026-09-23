@@ -296,7 +296,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p>📌 <strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className="margin-top-20">"Khi bất kỳ họ [VERB HEAD][ĐỘNG LÕI] nào thuộc 16 mục trên kéo theo các [OBject PROnoun][TÂN ĐẠI], [ADverb HEAD][TRẠNG LÕI], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU] phía sau, toàn bộ khối đó lập tức chuyển đổi cấu trúc và được dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó."</p>
+			<p className="margin-top-20">"Khi bất kỳ họ [VERB HEAD][ĐỘNG LÕI] nào thuộc 16 mục trên kéo theo các [OBject HEAD][TÂN LÕI], [OBject PHRASE][TÂN CỤM], [OBject CLAUSE][TÂN CÂU], [ADverb HEAD][TRẠNG LÕI], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU] phía sau, toàn bộ khối đó lập tức chuyển đổi cấu trúc và được dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó."</p>
 			
 
 			{/* V.  */}
@@ -613,7 +613,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Nhúng trong: Khối lồng bên trong {'{how the ENgine WORKS}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] vì chứa đầy đủ hệ trục [SUBject PROnoun][CHỦ ĐẠI] "the ENgine" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "WORKS", bắt đầu bằng [conJUNCtion][LIÊN] how.</li>
+					<li className="list-none">Nhúng trong: Khối lồng bên trong {'{how the ENgine WORKS}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] vì chứa đầy đủ hệ trục [SUBject HEAD][CHỦ LÕI] "the ENgine" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "WORKS", bắt đầu bằng [conJUNCtion][LIÊN] how.</li>
 
 					<li className="margin-bottom-20 list-none">Nhúng ngoài: Khối tổng thể bao ngoài [disCOVering {'{how the ENgine WORKS}'}] là một khối [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG CÂU] bắt đầu bằng hành động thực thi [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng V-ing disCOVering.</li>
 			
@@ -759,7 +759,7 @@ export default function SV1(): React.JSX.Element {
 					<li>we arRIVED [<strong>af</strong>ter the RAIN STOPPED].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [sau khi cơn mưa tạnh].</li>
 			
-					<li className="list-none">Hình thái: [<strong>af</strong>ter the RAIN STOPPED] - [conJUNCtional CLAUSE][LIÊN CÂU] thể hiện khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "the RAIN" và [PAST VERB][ĐÃ ĐỘNG] "STOPPED", bắt đầu bằng [conJUNCtion][LIÊN] "<strong>af</strong>ter ".</li>
+					<li className="list-none">Hình thái: [<strong>af</strong>ter the RAIN STOPPED] - [conJUNCtional CLAUSE][LIÊN CÂU] thể hiện khối hành động phức có chứa hệ trục [SUBject HEAD][CHỦ LÕI] "the RAIN" và [PAST VERB][ĐÃ ĐỘNG] "STOPPED", bắt đầu bằng [conJUNCtion][LIÊN] "<strong>af</strong>ter ".</li>
 
 					<li className="list-none">Chức năng: [<strong>af</strong>ter the RAIN STOPPED] - [ADverb CLAUSE][TRẠNG CÂU] gắn vào phía sau [PAST VERB][ĐÃ ĐỘNG] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời gian cho toàn bộ hành động phía trước.</li>
 			

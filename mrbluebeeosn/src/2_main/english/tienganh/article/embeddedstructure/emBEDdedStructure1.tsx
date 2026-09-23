@@ -301,7 +301,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>exPLORing [PRESent PARTiciple VERB] + a NEW CIty [OBject PROnoun][TÂN ĐẠI]</li>
+					<li>exPLORing [PRESent PARTiciple VERB] + a NEW CIty [NOUN PHRASE][DANH CỤM]</li>
 					<li className="margin-bottom-20 list-none">➔ exPLORing a NEW CIty [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM].</li>
 			
 					<li>has BUILT [auXILiary and PAST PARTiciple VERB] + a SMART HOME [OBject PROnoun] + REcently [TRẠNG]</li>
@@ -395,7 +395,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [to deSIGN the INterface] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to deSIGN" kéo dài cho đến hết đối tượng của nó.</li>
 
-					<li className="list-none">Chức năng: [to deSIGN the INterface] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres creaTIVity" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
+					<li className="list-none">Chức năng: [to deSIGN the INterface] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PHRASE][CHỦ CỤM] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres creaTIVity" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
 			
 				</ul>
 			

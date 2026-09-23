@@ -299,7 +299,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [CLEARing the browser history] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động xóa bỏ, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
       
-          <li className="list-none">Chức năng: [CLEARing the browser history] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] để thiết lập nền tảng thông tin đứng đầu toàn câu trước hạt nhân [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "improves".</li>
+          <li className="list-none">Chức năng: [CLEARing the browser history] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PHRASE][CHỦ CỤM] để thiết lập nền tảng thông tin đứng đầu toàn câu trước hạt nhân [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "improves".</li>
       
         </ul>
 
@@ -313,7 +313,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [CLEARing OLD DAtabase FILES] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động dọn dẹp, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
       
-          <li className="list-none">Chức năng: [CLEARing OLD DAtabase FILES] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] (thành phần chịu tác động) tích hợp chuỗi dữ liệu đầu việc đứng ngay sau cặp phối hợp [SUBject PROnoun][CHỦ ĐẠI] và [PAST VERB][ĐÃ ĐỘNG] "FINished".</li>
+          <li className="list-none">Chức năng: [CLEARing OLD DAtabase FILES] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PHRASE][TÂN CỤM] (thành phần chịu tác động) tích hợp chuỗi dữ liệu đầu việc đứng ngay sau cặp phối hợp [SUBject PROnoun][CHỦ ĐẠI] và [PAST VERB][ĐÃ ĐỘNG] "FINished".</li>
       
         </ul>
 
@@ -550,7 +550,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [how you CLEAR these SYStem LOGS] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần liên kết trực quan ở đầu, có [SUBject PROnoun][CHỦ ĐẠI] "you" và [BASE VERB][NỀN ĐỘNG] "CLEAR" thiết lập phối hợp hành động.</li>
       
-          <li className="list-none">Chức năng: [how you CLEAR these SYStem LOGS] - [NOUN CLAUSE][DANH CÂU] trở thành [OBject PROnoun][TÂN ĐẠI] chứa dữ liệu mục tiêu chịu tác động từ [VERB HEAD][ĐỘNG LÕI] "KNOW".</li>
+          <li className="list-none">Chức năng: [how you CLEAR these SYStem LOGS] - [NOUN CLAUSE][DANH CÂU] trở thành [OBject CLAUSE][TÂN CÂU] chứa dữ liệu mục tiêu chịu tác động từ [VERB HEAD][ĐỘNG LÕI] "KNOW".</li>
       
         </ul>
       
@@ -580,7 +580,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>the TEAM CELebrated [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã ăn mừng [vì người trưởng nhóm đã thông qua ngân sách dự án].</li>
       
-          <li className="list-none">Hình thái: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [conJUNCtional CLAUSE][LIÊN CÂU] kích hoạt ngay sau [conJUNCtion][LIÊN] nguyên nhân "be<strong>cause</strong>", chứa [SUBject PROnoun][CHỦ ĐẠI] "the LEADer" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED" mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [conJUNCtional CLAUSE][LIÊN CÂU] kích hoạt ngay sau [conJUNCtion][LIÊN] nguyên nhân "be<strong>cause</strong>", chứa [SUBject HEAD][CHỦ LÕI] "the LEADer" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED" mang dấu mốc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần diện thông tin chính "the TEAM CELebrated" đứng trước.</li>
       
@@ -604,7 +604,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [you CLEARED the STORage SPACE] - [conJUNCtional CLAUSE][LIÊN CÂU] đã ẩn [conJUNCtion][LIÊN] định hướng "that", chỉ còn hiển thị trọn vẹn khối [SUBject PROnoun][CHỦ ĐẠI] "you" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED".</li>
       
-          <li className="list-none">Chức năng: [you CLEARED the STORage SPACE] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] nhận toàn bộ năng lượng niềm tin từ [BASE VERB][NỀN ĐỘNG] "beLIEVE".</li>
+          <li className="list-none">Chức năng: [you CLEARED the STORage SPACE] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject CLAUSE][TÂN CÂU] nhận toàn bộ năng lượng niềm tin từ [BASE VERB][NỀN ĐỘNG] "beLIEVE".</li>
       
         </ul>
       
@@ -618,7 +618,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>the DESK [the emPLOYee CLEARED] LOOKED VERy NEAT.</li>
           <li className="margin-bottom-20 list-none">Chiếc bàn làm việc [mà người nhân viên đã dọn dẹp] trông rất gọn gàng.</li>
       
-          <li className="list-none">Hình thái: [the emPLOYee CLEARED] - [conJUNCtional CLAUSE][LIÊN CÂU] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "the emPLOYee" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED".</li>
+          <li className="list-none">Hình thái: [the emPLOYee CLEARED] - [conJUNCtional CLAUSE][LIÊN CÂU] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [SUBject HEAD][CHỦ LÕI] "the emPLOYee" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED".</li>
       
           <li className="list-none">Chức năng: [the emPLOYee CLEARED] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the DESK" để làm rõ đặc điểm cho đối tượng này.</li>
       
@@ -674,7 +674,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: {'{how the PROgram CLEARS METadata}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject PROnoun][CHỦ ĐẠI] riêng "the program" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] riêng "CLEARS" thiết lập theo trục thời hiện tại.</li>
       
-          <li className="list-none">Chức năng: {'{how the PROgram CLEARS METadata}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp từ hạt nhân hành động "Analyzing" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích.</li>
+          <li className="list-none">Chức năng: {'{how the PROgram CLEARS METadata}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject CLAUSE][TÂN CÂU] chịu sự điều phối trực tiếp từ hạt nhân hành động "Analyzing" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích.</li>
       
         </ul>
 
@@ -694,7 +694,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [MONitoring {'{why the DAtabase CLEARS SESsions}'}] - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG CÂU] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [MONitoring {'{why the DAtabase CLEARS SESsions}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] (thành phần chịu tác động) đứng ngay sau hạt nhân [BASE VERB][NỀN ĐỘNG] "recomMEND" để bổ sung trọn vẹn thông tin cho hành động kiến nghị này.</li>
+          <li className="list-none">Chức năng: [MONitoring {'{why the DAtabase CLEARS SESsions}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [OBject PHRASE][TÂN CỤM] (thành phần chịu tác động) đứng ngay sau hạt nhân [BASE VERB][NỀN ĐỘNG] "recomMEND" để bổ sung trọn vẹn thông tin cho hành động kiến nghị này.</li>
       
         </ul>
 
@@ -704,7 +704,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: {'{why the DAtabase CLEARS SESsions}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject PROnoun][CHỦ ĐẠI] riêng "the DAtabase" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] riêng "CLEARS" thiết lập theo trục thời hiện tại đi sau [conJUNCtion][LIÊN] "why".</li>
       
-          <li className="list-none">Chức năng: {'{why the DAtabase CLEARS SESsions}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp từ hạt nhân hành động "MONitoring" ở tầng ngoài, làm rõ nội dung cho việc giám sát.</li>
+          <li className="list-none">Chức năng: {'{why the DAtabase CLEARS SESsions}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject CLAUSE][TÂN CÂU] chịu sự điều phối trực tiếp từ hạt nhân hành động "MONitoring" ở tầng ngoài, làm rõ nội dung cho việc giám sát.</li>
       
         </ul>
 
@@ -736,7 +736,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: {'{how they CLEAR the seCUrity CHECK}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject PROnoun][CHỦ ĐẠI] "they" và [BASE VERB][NỀN ĐỘNG] "CLEAR".</li>
       
-          <li className="list-none">Chức năng: {'{how they CLEAR the seCUrity CHECK}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "a<strong>bout</strong>" ở tầng ngoài.</li>
+          <li className="list-none">Chức năng: {'{how they CLEAR the seCUrity CHECK}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject CLAUSE][TÂN CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "a<strong>bout</strong>" ở tầng ngoài.</li>
       
         </ul>
 
@@ -769,7 +769,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: {'{where the TEAM CLEARED the LAND}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject PROnoun][CHỦ ĐẠI] riêng "the TEAM" và [PAST VERB][ĐÃ ĐỘNG] riêng "CLEARED" thuộc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: {'{where the TEAM CLEARED the LAND}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "at" ở tầng ngoài.</li>
+          <li className="list-none">Chức năng: {'{where the TEAM CLEARED the LAND}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject CLAUSE][TÂN CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "at" ở tầng ngoài.</li>
       
         </ul>
       
@@ -809,7 +809,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái mới: [EMPtying the TEMporary FOLDer] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] xuất hiện dưới dạng khối mở rộng mới chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] khác được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Chức năng mới: [EMPtying the TEMporary FOLDer]- [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject PROnoun][CHỦ ĐẠI] của khối cũ.</li>
+          <li className="list-none">Chức năng mới: [EMPtying the TEMporary FOLDer]- [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject PHRASE][CHỦ CỤM] của khối cũ.</li>
       
         </ul>
 
@@ -838,7 +838,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>we imPROVED the perFORmance [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện hiệu suất [vì hệ thống đã dọn sạch tất cả dữ liệu rác].</li>
       
-          <li className="list-none">Hình thái mới: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [conJUNCtional CLAUSE][LIÊN CÂU] hiển thị dưới dạng khối mã chứa đầy đủ [SUBject PROnoun][CHỦ ĐẠI] "the system" và hạt nhân [PAST VERB][ĐÃ ĐỘNG] "CLEARED" đi sau [conJUNCtion][LIÊN] "be<strong>cause</strong>".</li>
+          <li className="list-none">Hình thái mới: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [conJUNCtional CLAUSE][LIÊN CÂU] hiển thị dưới dạng khối mã chứa đầy đủ [SUBject HEAD][CHỦ LÕI] "the system" và hạt nhân [PAST VERB][ĐÃ ĐỘNG] "CLEARED" đi sau [conJUNCtion][LIÊN] "be<strong>cause</strong>".</li>
       
           <li className="list-none">Chức năng mới: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [ADverb CLAUSE][TRẠNG CÂU] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính.</li>
       

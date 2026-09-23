@@ -295,13 +295,13 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p>Khi bất kỳ họ [VERB HEAD][ĐỘNG LÕI] nào thuộc hệ thống 16 mục trên kéo theo các thành phần bổ trợ phía sau như [OBject PROnoun][TÂN ĐẠI], [ADverb HEAD][TRẠNG LÕI], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU], toàn bộ khối thông tin mở rộng đó sẽ lập tức chuyển đổi cấu trúc và dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p>Khi bất kỳ họ [VERB HEAD][ĐỘNG LÕI] nào thuộc hệ thống 16 mục trên kéo theo các thành phần bổ trợ phía sau như [OBject HEAD][TÂN LÕI], [OBject PHRASE][TÂN CỤM], [OBject CLAUSE][TÂN CÂU], [ADverb HEAD][TRẠNG LÕI], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU], toàn bộ khối thông tin mở rộng đó sẽ lập tức chuyển đổi cấu trúc và dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li>exPANDing [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] + the business [OBject PROnoun][TÂN ĐẠI]</li>
+					<li>exPANDing [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] + the business [NOUN HEAD][DANH LÕI]</li>
 					<li className="margin-bottom-20 list-none">→ exPANDing the BUSIness [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM].</li>
 			
 				</ul>

@@ -251,13 +251,13 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Ví dụ 1: LAUNCHing [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] + the APP [OBject PROnoun][TÂN ĐẠI]</li>
+					<li>Ví dụ 1: LAUNCHing [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] + the APP [NOUN HEAD][DANH LÕI]</li>
 					<li className="margin-bottom-20 list-none">→ LAUNCHing the APP [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM].</li>
 			
 					<li>Ví dụ 2: to OPtimize [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG]</li>
 					<li className="margin-bottom-20 list-none">→ to OPtimize the DAtabase [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM].</li>
 			
-					<li>Ví dụ 3: will seCURE [asSERTive MOdal and BARE inFINitive VERB][ÁP THÁI và THUẦN NGUYÊN ĐỘNG] + the NETwork [OBject PROnoun][TÂN ĐẠI]</li>
+					<li>Ví dụ 3: will seCURE [asSERTive MOdal and BARE inFINitive VERB][ÁP THÁI và THUẦN NGUYÊN ĐỘNG] + the NETwork [OBject HEAD][TÂN LÕI]</li>
 					<li className="list-none">→ will seCURE the NETwork [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase].</li>
 			
 				</ul>
@@ -423,7 +423,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [deSIGNing SYStem ARchitecture] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] deSIGNing phối hợp với khối định danh mục tiêu SYStem ARchitecture chịu tác động đi liền phía sau để làm rõ đối tượng được thiết kế.</li>
 
-					<li className="list-none">Chức năng: [deSIGNing SYStem ARchitecture] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng trước điều phối hạt nguồn [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] reQUIres.</li>
+					<li className="list-none">Chức năng: [deSIGNing SYStem ARchitecture] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PHRASE][CHỦ CỤM] đứng trước điều phối hạt nguồn [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] reQUIres.</li>
 			
 				</ul>
 			
@@ -437,7 +437,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [LAUNCHing the NEW SERvice] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] LAUNCHing phối hợp với khối mô tả thuộc tính và đối tượng phía sau để tạo nên chỉnh thể hành động kéo dài có mục tiêu xác định.</li>
 
-					<li className="list-none">Chức năng: [LAUNCHing the NEW SERvice] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI], tiếp nhận yêu cầu tác động trực tiếp đứng ngay sau bộ nguồn [PAST VERB][ĐÃ ĐỘNG] deLAYED.</li>
+					<li className="list-none">Chức năng: [LAUNCHing the NEW SERvice] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PHRASE][TÂN CỤM], tiếp nhận yêu cầu tác động trực tiếp đứng ngay sau bộ nguồn [PAST VERB][ĐÃ ĐỘNG] deLAYED.</li>
 			
 				</ul>
 			
@@ -497,7 +497,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:  [HOW the SYStem OPerates] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa [conJUNCtion][LIÊN] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
 
-					<li className="list-none">Chức năng:  [HOW the SYStem OPerates] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] deTERmines.</li>
+					<li className="list-none">Chức năng:  [HOW the SYStem OPerates] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [SUBject CLAUSE][CHỦ CÂU] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] deTERmines.</li>
 			
 				</ul>
 
@@ -511,7 +511,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:  [how TECHnicians seCURE DAta] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa [conJUNCtion][LIÊN] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
 
-					<li className="list-none">Chức năng:  [how TECHnicians seCURE DAta] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận nội dung thông tin trực tiếp, đứng sau [BASE VERB][NỀN ĐỘNG] CHECK.</li>
+					<li className="list-none">Chức năng:  [how TECHnicians seCURE DAta] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject CLAUSE][TÂN CÂU] tiếp nhận nội dung thông tin trực tiếp, đứng sau [BASE VERB][NỀN ĐỘNG] CHECK.</li>
 			
 				</ul>
 
@@ -525,7 +525,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [the STRATegy DRIVES GROWTH] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] có đầy đủ cấu hình [SUBject PROnoun][CHỦ ĐẠI] nội bộ và hành động nhưng đã bị chủ động lược bỏ đi [conJUNCtion][LIÊN] that ở đầu khối nhằm tối giản cấu trúc bề mặt.</li>
 
-					<li className="list-none">Chức năng: [the STRATegy DRIVES GROWTH] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận nội dung thông tin trực tiếp cho hành động beLIEVES.</li>
+					<li className="list-none">Chức năng: [the STRATegy DRIVES GROWTH] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject CLAUSE][TÂN CÂU] tiếp nhận nội dung thông tin trực tiếp cho hành động beLIEVES.</li>
 			
 				</ul>
 			

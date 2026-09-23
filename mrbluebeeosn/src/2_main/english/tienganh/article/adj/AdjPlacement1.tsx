@@ -185,13 +185,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p className=" text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className=" text-indent-whole">Khi bất kỳ họ [VERB HEAD][ĐỘNG LÕI] nào kéo theo các [OBject PROnoun][TÂN ĐẠI], [ADverb HEAD][TRẠNG LÕI], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU] phía sau, toàn khối đó tự động chuyển cấu trúc thành [PHRASE][CỤM].</p>
+			<p className=" text-indent-whole">Khi bất kỳ họ [VERB HEAD][ĐỘNG LÕI] nào kéo theo các [OBject HEAD][TÂN LÕI], [OBject PHRASE][TÂN CỤM], [OBject CLAUSE][TÂN CÂU], [ADverb HEAD][TRẠNG LÕI], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU] phía sau, toàn khối đó tự động chuyển cấu trúc thành [PHRASE][CỤM].</p>
 
 			<p className="text-indent-whole margin-top-20">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li>FORMulating [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] + a STRATegy [OBject PROnoun][TÂN ĐẠI]</li>
+					<li>FORMulating [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] + a STRATegy [NOUN HEAD][DANH LÕI]</li>
 			
 					<li>➔ FORMulating a STRATegy [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM].</li>
 			
