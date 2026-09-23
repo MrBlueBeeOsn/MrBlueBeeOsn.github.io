@@ -309,7 +309,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [STRUCtured] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "STRUCture" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu thị trạng thái hoàn tất.</li>
 			
-					<li className="list-none">Chức năng: [STRUCtured] - [ADjective HEAD][TÍNH LÕI] xác lập đặc tính kết quả hoàn thành cho [PROnoun HEAD][ĐẠI LÕI] "rePORT".</li>
+					<li className="list-none">Chức năng: [STRUCtured] - [ADjective HEAD][TÍNH LÕI] xác lập đặc tính kết quả hoàn thành cho [SUBject HEAD][CHỦ LÕI] "rePORT".</li>
 			
 				</ul>
 
@@ -342,7 +342,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [preVENtive against SYStem FAIlures] - [MODified ADjective PHRASE][DIỆN TÍNH CỤM] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "preVENT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][DIỆN TÍNH] "preVENtive", sau đó mở rộng kết hợp với [prepoSITional PHRASE][GIỚI CỤM] "against SYStem FAIlures" để tạo thành một khối [PHRASE][CỤM] hoàn chỉnh.</li>
 			
-					<li className="list-none">Chức năng: [preVENtive against SYStem FAIlures] - [ADjective PHRASE][TÍNH CỤM] gắn liền phía sau [PROnoun HEAD][ĐẠI LÕI] "iNItiative" nhằm mở rộng ý nghĩa đánh giá chất lượng.</li>
+					<li className="list-none">Chức năng: [preVENtive against SYStem FAIlures] - [ADjective PHRASE][TÍNH CỤM] gắn liền phía sau [SUBject HEAD][CHỦ LÕI] "iNItiative" nhằm mở rộng ý nghĩa đánh giá chất lượng.</li>
 			
 				</ul>
 
@@ -356,7 +356,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [eVALuating the FUNding reQUESTs] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] phát triển từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "eVALuating" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
 			
-					<li className="list-none">Chức năng: [eVALuating the FUNding reQUESTs] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "comMITtee" để hiển thị đặc điểm hành động chủ động của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [eVALuating the FUNding reQUESTs] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "comMITtee" để hiển thị đặc điểm hành động chủ động của đối tượng đó.</li>
 			
 				</ul>
 
@@ -370,7 +370,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [deSIGNED by exTERnal conSULtants] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] phát triển từ [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] "deSIGNED" kết hợp mở rộng ở dạng bị động.</li>
 			
-					<li className="list-none">Chức năng: [deSIGNED by exTERnal conSULtants] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "PROtocol" để mô tả đặc điểm trạng thái bị động hoàn thành.</li>
+					<li className="list-none">Chức năng: [deSIGNED by exTERnal conSULtants] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "PROtocol" để mô tả đặc điểm trạng thái bị động hoàn thành.</li>
 			
 				</ul>
 
@@ -384,7 +384,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to inSPECT the SERvers] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] phát triển từ cụm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to inSPECT" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
-					<li className="list-none">Chức năng: [to inSPECT the SERvers] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "techNICian" để quét và hiển thị đặc điểm hành động sắp xảy ra mang tính chủ động của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [to inSPECT the SERvers] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "techNICian" để quét và hiển thị đặc điểm hành động sắp xảy ra mang tính chủ động của đối tượng đó.</li>
 			
 				</ul>
 
@@ -398,7 +398,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to be upDATed NEXT WEEK] - [FULL inFINitive PARTiciple VERB PHRASE][TOÀN NGUYÊN HOÀN ĐỘNG CỤM] bắt đầu bằng [PARTicle VERB][HẠT ĐỘNG] "to" kéo theo vùng bổ trợ phía sau chứa [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "be" và [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] "upDATed" để biểu thị trạng thái bị động tương lai.</li>
 			
-					<li className="list-none">Chức năng: [to be upDATed NEXT WEEK] - [ADjective PHRASE][TÍNH CỤM] kích hoạt bộ quét đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "SOFTware" để mô tả trạng thái sắp sửa được tác động.</li>
+					<li className="list-none">Chức năng: [to be upDATed NEXT WEEK] - [ADjective PHRASE][TÍNH CỤM] kích hoạt bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "SOFTware" để mô tả trạng thái sắp sửa được tác động.</li>
 			
 				</ul>
 
@@ -412,7 +412,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [in the ARchive] - [prepoSITional PHRASE][GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] "in" kết hợp [NOUN BLOCK][DANH KHỐI] định vị.</li>
 			
-					<li className="list-none">Chức năng: [in the ARchive] - [ADjective PHRASE][TÍNH CỤM] bổ trợ vị trí không gian trực tiếp cho [PROnoun HEAD][ĐẠI LÕI] "MANuscript".</li>
+					<li className="list-none">Chức năng: [in the ARchive] - [ADjective PHRASE][TÍNH CỤM] bổ trợ vị trí không gian trực tiếp cho [SUBject HEAD][CHỦ LÕI] "MANuscript".</li>
 			
 				</ul>
 
@@ -426,7 +426,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [owing to straTEgic SHIFTS] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "owing to".</li>
 			
-					<li className="list-none">Chức năng: [owing to straTEgic SHIFTS] - [ADjective PHRASE][TÍNH CỤM] thiết lập mối quan hệ nguyên nhân kết quả cho chủ thể [PROnoun HEAD][ĐẠI LÕI] "PROfits".</li>
+					<li className="list-none">Chức năng: [owing to straTEgic SHIFTS] - [ADjective PHRASE][TÍNH CỤM] thiết lập mối quan hệ nguyên nhân kết quả cho chủ thể [SUBject HEAD][CHỦ LÕI] "PROfits".</li>
 			
 				</ul>
 
@@ -445,7 +445,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [which GOVerns MARket reguLAtions] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" nối tiếp chuỗi hành động chia thời.</li>
 			
-					<li className="list-none">Chức năng: [which GOVerns MARket reguLAtions] - [ADjective CLAUSE][TÍNH CÂU] định danh bản chất chức năng của [PROnoun HEAD][ĐẠI LÕI] "FRAMEwork".</li>
+					<li className="list-none">Chức năng: [which GOVerns MARket reguLAtions] - [ADjective CLAUSE][TÍNH CÂU] định danh bản chất chức năng của [SUBject HEAD][CHỦ LÕI] "FRAMEwork".</li>
 			
 				</ul>
 
@@ -459,7 +459,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [EXperts recomMEND] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] bỏ qua [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định.</li>
 			
-					<li className="list-none">Chức năng: [EXperts recomMEND] - [ADjective CLAUSE][TÍNH CÂU] thu gọn không gian biểu đạt để làm rõ đặc điểm đối tượng [PROnoun HEAD][ĐẠI LÕI] "paRAMeters".</li>
+					<li className="list-none">Chức năng: [EXperts recomMEND] - [ADjective CLAUSE][TÍNH CÂU] thu gọn không gian biểu đạt để làm rõ đặc điểm đối tượng [SUBject HEAD][CHỦ LÕI] "paRAMeters".</li>
 			
 				</ul>
 
@@ -493,7 +493,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [ADjective PHRASE][TÍNH CỤM] bám sát phía sau [PROnoun HEAD][ĐẠI LÕI] "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
+					<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [ADjective PHRASE][TÍNH CỤM] bám sát phía sau [SUBject HEAD][CHỦ LÕI] "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
 
 					<li className="list-none">Tầng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN HEAD][DANH LÕI] "THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
 			
@@ -524,7 +524,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Tầng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [ADjective PHRASE][TÍNH CỤM] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho [PROnoun HEAD][ĐẠI LÕI] "the deCISion".</li>
+					<li className="list-none">Tầng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [ADjective PHRASE][TÍNH CỤM] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho [SUBject HEAD][CHỦ LÕI] "the deCISion".</li>
 
 					<li className="list-none">Tầng 2: {'{which OPtimize WORKflow}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN HEAD][DANH LÕI] "SYStems" nhằm xác định rõ tính năng của hệ thống.</li>
 			
@@ -586,7 +586,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Tầng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [ADjective PHRASE][TÍNH CỤM] đa tầng bóc tách sâu nguyên nhân và hệ quả cho [PROnoun HEAD][ĐẠI LÕI] "SHIFTS".</li>
+					<li className="list-none">Tầng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [ADjective PHRASE][TÍNH CỤM] đa tầng bóc tách sâu nguyên nhân và hệ quả cho [SUBject HEAD][CHỦ LÕI] "SHIFTS".</li>
 
 					<li className="list-none">Tầng 2: {'{which afFECted proDUCtion}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "MARket fluctuAtions" để chỉ rõ khía cạnh biến động.</li>
 			
@@ -610,7 +610,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [PROfitable] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "profit" mặc thêm (kết hợp) hậu tố "-able" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][DIỆN TÍNH] "PROfitable", chuyên trách cài đặt đặc tính sinh lợi cho đối tượng đi kèm.</li>
 			
-					<li className="list-none">Chức năng: [PROfitable] - [ADjective HEAD][TÍNH LÕI] cài đặt đặc tính cố định cho [PROnoun HEAD][ĐẠI LÕI] "inVESTment".</li>
+					<li className="list-none">Chức năng: [PROfitable] - [ADjective HEAD][TÍNH LÕI] cài đặt đặc tính cố định cho [SUBject HEAD][CHỦ LÕI] "inVESTment".</li>
 			
 				</ul>
 			
@@ -624,7 +624,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [GENerating HIGH PROfits] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] dẫn dắt bởi [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "GENerating" đi kèm [NOUN BLOCK][DANH KHỐI] "HIGH PROfits".</li>
 			
-					<li className="list-none">Chức năng: [GENerating HIGH PROfits] - [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái chủ động tạo ra giá trị của đối tượng trung tâm [PROnoun HEAD][ĐẠI LÕI] "the inVESTment".</li>
+					<li className="list-none">Chức năng: [GENerating HIGH PROfits] - [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái chủ động tạo ra giá trị của đối tượng trung tâm [SUBject HEAD][CHỦ LÕI] "the inVESTment".</li>
 			
 				</ul>
 
@@ -640,7 +640,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [STANding THERE] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "STANding".</li>
 			
-					<li className="list-none">Chức năng: [STANding THERE] - [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái hành động đang diễn ra của chủ thể [PROnoun HEAD][ĐẠI LÕI] "the MAN".</li>
+					<li className="list-none">Chức năng: [STANding THERE] - [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái hành động đang diễn ra của chủ thể [SUBject HEAD][CHỦ LÕI] "the MAN".</li>
 			
 				</ul>
 			
@@ -654,7 +654,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [who is STANding THERE] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] "who" kết hợp [auXILiary and PRESent PARTiciple VERB][TRỢ và HIỆN TIẾP ĐỘNG] "is STANding".</li>
 			
-					<li className="list-none">Chức năng: [who is STANding THERE] - [ADjective CLAUSE][TÍNH CÂU] định danh chính xác đối tượng [PROnoun HEAD][ĐẠI LÕI] "the MAN" thông qua hành động cụ thể đang diễn ra.</li>
+					<li className="list-none">Chức năng: [who is STANding THERE] - [ADjective CLAUSE][TÍNH CÂU] định danh chính xác đối tượng [SUBject HEAD][CHỦ LÕI] "the MAN" thông qua hành động cụ thể đang diễn ra.</li>
 			
 				</ul>
 			
@@ -670,7 +670,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [which is efFECtive] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" kết hợp [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "is" và [MODified ADjective][DIỆN TÍNH] "efFECtive".</li>
 			
-					<li className="list-none">Chức năng: [which is efFECtive] - [ADjective CLAUSE][TÍNH CÂU] vạch rõ bản chất định danh cho đối tượng [PROnoun HEAD][ĐẠI LÕI] "the POLicy".</li>
+					<li className="list-none">Chức năng: [which is efFECtive] - [ADjective CLAUSE][TÍNH CÂU] vạch rõ bản chất định danh cho đối tượng [SUBject HEAD][CHỦ LÕI] "the POLicy".</li>
 			
 				</ul>
 			
@@ -684,7 +684,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [efFECtive] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][DIỆN TÍNH] "efFECtive", chuyên trách cài đặt đặc tính mang lại kết quả cao cho đối tượng đi kèm.</li>
 			
-					<li className="list-none">Chức năng: [efFECtive] - [ADjective HEAD][TÍNH LÕI] cài đặt nhãn dán thuộc tính cố định, rút gọn thông tin tối đa cho đối tượng [PROnoun HEAD][ĐẠI LÕI] "POLicy".</li>
+					<li className="list-none">Chức năng: [efFECtive] - [ADjective HEAD][TÍNH LÕI] cài đặt nhãn dán thuộc tính cố định, rút gọn thông tin tối đa cho đối tượng [SUBject HEAD][CHỦ LÕI] "POLicy".</li>
 			
 				</ul>
 			

@@ -25,7 +25,7 @@ export default function reSPOND(): React.JSX.Element {
         
           <p className="example-sentence text-center">
             <span className="highlight-255-padding-0-4 text-border" >
-              <HashLink smooth to="#PROnoun-HEAD">PROnoun HEAD</HashLink>
+              <HashLink smooth to="#SUBject-HEAD">PROnoun HEAD</HashLink>
             </span> &nbsp;
 
             <span className="highlight-255-padding-0-4 text-border">
@@ -217,7 +217,7 @@ export default function reSPOND(): React.JSX.Element {
       
       <h4 className="margin-y-40">1. Phân hệ [VERB HEAD][ĐỘNG LÕI]</h4>
           
-      <p className="margin-top-20 text-indent-whole" id="PROnoun-HEAD"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>PROnoun HEAD</strong>][<strong>ĐẠI LÕI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="SUBject-HEAD"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>SUBject HEAD</strong>][<strong>CHỦ LÕI</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 1: [reSPONSE] \re SPONSE\ /rɪˈspɒns/</p>
       
@@ -228,7 +228,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [reSPONSE] - [MODified NOUN][DIỆN DANH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "reSPOND" biến đổi cấu trúc đuôi "-se" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng định danh thực thể độc lập.</li>
       
-          <li className="list-none">Chức năng: [reSPONSE] - [PROnoun HEAD][ĐẠI LÕI] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+          <li className="list-none">Chức năng: [reSPONSE] - [SUBject HEAD][CHỦ LÕI] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
       
         </ul>
       
@@ -364,7 +364,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [reSPONDing to the CRIsis] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] phát triển từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
       
-          <li className="list-none">Chức năng: [reSPONDing to the CRIsis] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "Agent" để hiển thị đặc điểm và bổ nghĩa cho đối tượng đó.</li>
+          <li className="list-none">Chức năng: [reSPONDing to the CRIsis] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "Agent" để hiển thị đặc điểm và bổ nghĩa cho đối tượng đó.</li>
       
         </ul>
       
@@ -381,7 +381,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to reSPOND to the inQUIRy] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] phát triển từ cụm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [to reSPOND to the inQUIRy] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "OFficer" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [to reSPOND to the inQUIRy] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "OFficer" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó.</li>
       
         </ul>
       
@@ -397,7 +397,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to be reSPONDed to by the MANager] - [FULL inFINitive PARTiciple VERB PHRASE][TOÀN NGUYÊN HOÀN ĐỘNG CỤM] bắt đầu bằng [PARTicle VERB][HẠT ĐỘNG] "to" kéo theo vùng bổ trợ phía sau chứa [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "be" và [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] "reSPONDed" để biểu thị trạng thái bị động tương lai.</li>
       
-          <li className="list-none">Chức năng: [to be reSPONDed to by the MANager] - [ADjective PHRASE][TÍNH CỤM] kích hoạt bộ quét đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "Email" để mô tả trạng thái sắp sửa được tác động.</li>
+          <li className="list-none">Chức năng: [to be reSPONDed to by the MANager] - [ADjective PHRASE][TÍNH CỤM] kích hoạt bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "Email" để mô tả trạng thái sắp sửa được tác động.</li>
       
         </ul>
       
@@ -413,7 +413,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [reSPONDed to by the SERvice dePARTment] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] phát triển từ [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] "reSPONDed" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: [reSPONDed to by the SERvice dePARTment] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "comPLAINT" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này.</li>
+          <li className="list-none">Chức năng: [reSPONDed to by the SERvice dePARTment] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "comPLAINT" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này.</li>
       
         </ul>
       
@@ -515,7 +515,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [in the reSPONSE to the ofFIcial STATEment] - [prepoSITional PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [prepoSITion][GIỚI] "in".</li>
       
-          <li className="list-none">Chức năng: [in the reSPONSE to the ofFIcial STATEment] - [ADjective PHRASE][TÍNH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "deLAY" để hiển thị và mô tả phạm vi thuộc về của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [in the reSPONSE to the ofFIcial STATEment] - [ADjective PHRASE][TÍNH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng [SUBject HEAD][CHỦ LÕI] "deLAY" để hiển thị và mô tả phạm vi thuộc về của đối tượng đó.</li>
       
         </ul>
       
@@ -605,7 +605,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [which reSPONDS to USer reQUESTS] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại.</li>
       
-          <li className="list-none">Chức năng: [which reSPONDS to USer reQUESTS] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [PROnoun HEAD][ĐẠI LÕI] "SERver".</li>
+          <li className="list-none">Chức năng: [which reSPONDS to USer reQUESTS] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [SUBject HEAD][CHỦ LÕI] "SERver".</li>
       
         </ul>
       
@@ -656,7 +656,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [she reSPONDed to] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] đã ẩn thành phần [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "she" và cụm [PAST VERB][ĐÃ ĐỘNG] "reSPONDed to".</li>
       
-          <li className="list-none">Chức năng: [she reSPONDed to] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "the Email" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none">Chức năng: [she reSPONDed to] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the Email" để làm rõ đặc điểm cho đối tượng này.</li>
       
         </ul>
       

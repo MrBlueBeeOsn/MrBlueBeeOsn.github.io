@@ -53,7 +53,7 @@ export default function NineBox1(): React.JSX.Element {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#PROnoun-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#SUBject-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#OBject-HEAD">OBject HEAD</HashLink>
 					</span> &nbsp;
 
@@ -293,7 +293,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khi đứng vào các vị trí khác nhau trong câu lớn, các khối hình thái cấp độ này sẽ hình thành nên các chức năng tương ứng:</p>
 
-			<p className="margin-top-20 text-indent-whole" id="PROnoun-HEAD"><strong>Hình thành Chức năng</strong> [<strong>PROnoun HEAD</strong>][<strong>ĐẠI LÕI</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="SUBject-HEAD"><strong>Hình thành Chức năng</strong> [<strong>SUBject HEAD</strong>][<strong>CHỦ LÕI</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -302,12 +302,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [conFIGuring] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "conFIGure" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [conFIGuring] – [PROnoun HEAD][ĐẠI LÕI] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: [conFIGuring] – [SUBject HEAD][CHỦ LÕI] đóng vai trò làm [SUBject][CHỦ] chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 			
 				
-			<p className="margin-top-20 text-indent-whole" id="OBject-HEAD"><strong>Hình thành Chức năng</strong> [<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>làm</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="OBject-HEAD"><strong>Hình thành Chức năng</strong> [<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -316,7 +316,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [deBUGging] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "deBUG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [deBUGging] – [OBject HEAD][TÂN LÕI] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] đứng sau làm mục tiêu chịu tác động trực tiếp từ [VERB HEAD][ĐỘNG LÕI] "supPORTS".</li>
+					<li className="list-none">Chức năng: [deBUGging] – [OBject HEAD][TÂN LÕI] đóng vai trò làm [OBject][TÂN] đứng sau làm mục tiêu chịu tác động trực tiếp từ [VERB HEAD][ĐỘNG LÕI] "supPORTS".</li>
 			
 				</ul>
 			
@@ -406,7 +406,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [HANdling USer TRAFfic efFIciently] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] hình thành từ sự phối hợp giữa hạt nhân [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "HANdling" và các tham số bổ nghĩa "USer TRAFfic efFIciently" phía sau.</li>
 			
-					<li className="list-none">Chức năng: [HANdling USer TRAFfic efFIciently] – [ADjective PHRASE][TÍNH CỤM] đứng sau kết hợp với [FInite VERB][HẠN ĐỘNG] "is" nhằm mô tả trạng thái thuộc tính diễn tiến cho [PROnoun HEAD][ĐẠI LÕI] "the MIcroservice" dịch vụ nhỏ.</li>
+					<li className="list-none">Chức năng: [HANdling USer TRAFfic efFIciently] – [ADjective PHRASE][TÍNH CỤM] đứng sau kết hợp với [FInite VERB][HẠN ĐỘNG] "is" nhằm mô tả trạng thái thuộc tính diễn tiến cho [SUBject HEAD][CHỦ LÕI] "the MIcroservice" dịch vụ nhỏ.</li>
 			
 				</ul>
 			
@@ -468,7 +468,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [which comPUTES the enCRYPtion KEY] – [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] chứa khối kết nối định danh tường minh "which" kết hợp cùng một cấu trúc câu con xoay quanh [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "comPUTES".</li>
 			
-					<li className="list-none">Chức năng: [which comPUTES the enCRYPtion KEY] – [ADjective CLAUSE][TÍNH CÂU] đóng vai trò định danh thuộc tính để bổ nghĩa cho [PROnoun HEAD][ĐẠI LÕI] "the ALgorithm", chỉ rõ loại thuật toán nào cho khối đứng trước.</li>
+					<li className="list-none">Chức năng: [which comPUTES the enCRYPtion KEY] – [ADjective CLAUSE][TÍNH CÂU] đóng vai trò định danh thuộc tính để bổ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the ALgorithm", chỉ rõ loại thuật toán nào cho khối đứng trước.</li>
 			
 				</ul>
 			
@@ -515,7 +515,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [the VENdor proVIDed YESterday] – [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] vắng bóng thành phần kết nối nhưng có đầy đủ kết cấu câu con lồng ghép xoay quanh [PAST VERB][ĐÃ ĐỘNG] "proVIDed".</li>
 			
-					<li className="list-none">Chức năng: [the VENdor proVIDed YESterday] – [ADjective CLAUSE][TÍNH CÂU] đóng vai trò định danh thuộc tính để chỉ rõ loại API nào, bổ nghĩa trực tiếp cho khối [PROnoun HEAD][ĐẠI LÕI] "the API" phía trước.</li>
+					<li className="list-none">Chức năng: [the VENdor proVIDed YESterday] – [ADjective CLAUSE][TÍNH CÂU] đóng vai trò định danh thuộc tính để chỉ rõ loại API nào, bổ nghĩa trực tiếp cho khối [SUBject HEAD][CHỦ LÕI] "the API" phía trước.</li>
 			
 				</ul>
 			
@@ -551,7 +551,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [for the WEB FRAMEwork] – [prepoSITional PHRASE][GIỚI CỤM] dẫn đầu bằng một [prepoSITion][GIỚI] đơn lẻ kết hợp cùng khối danh mục mục tiêu phía sau.</li>
 			
-					<li className="list-none">Chức năng: [for the WEB FRAMEwork] – [ADjective PHRASE][TÍNH CỤM] đứng ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "the documenTAtion" nhằm xác định rõ thuộc tính định danh cho tài liệu.</li>
+					<li className="list-none">Chức năng: [for the WEB FRAMEwork] – [ADjective PHRASE][TÍNH CỤM] đứng ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the documenTAtion" nhằm xác định rõ thuộc tính định danh cho tài liệu.</li>
 			
 				</ul>
 			
@@ -695,7 +695,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [reFACtoring] – [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "reFACtor" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [reFACtoring] – [PROnoun HEAD][ĐẠI LÕI] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI], còn "the SYStem deMAND" đóng vai trò làm [OBject PROnoun][TÂN ĐẠI].</li>
+					<li className="list-none">Chức năng: [reFACtoring] – [SUBject HEAD][CHỦ LÕI] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI], còn "the SYStem deMAND" đóng vai trò làm [OBject PROnoun][TÂN ĐẠI].</li>
 			
 				</ul>
 			

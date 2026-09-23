@@ -53,7 +53,7 @@ export default function SuperWords1(): React.JSX.Element {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#PROnoun-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#SUBject-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#OBject-HEAD">OBject HEAD</HashLink>
 					</span> &nbsp;
 
@@ -318,7 +318,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái [ĐỘNG][VERB], chức năng của nó sẽ được quyết định bởi vị trí đứng:</p>
 
-			<p className="margin-top-20" id="PROnoun-HEAD"><strong>Ví dụ 1a</strong>: [<strong>PROnoun HEAD</strong>][<strong>ĐẠI LÕI</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20" id="SUBject-HEAD"><strong>Ví dụ 1a</strong>: [<strong>SUBject HEAD</strong>][<strong>CHỦ LÕI</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -327,12 +327,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [OPtimizing] – [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "OPtimize" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] hoạt động độc lập.</li>
 			
-					<li className="list-none">Chức năng: [OPtimizing] – [PROnoun HEAD][ĐẠI LÕI] đang đứng vị trí khởi đầu để làm [SUBject PROnoun][CHỦ ĐẠI] cho toàn câu lớn.</li>
+					<li className="list-none">Chức năng: [OPtimizing] – [SUBject HEAD][CHỦ LÕI] đang đứng vị trí khởi đầu để làm [SUBject][CHỦ] cho toàn câu lớn.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20" id="OBject-HEAD"><strong>Ví dụ 1b</strong>: [<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>làm</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+			<p className="margin-top-20" id="OBject-HEAD"><strong>Ví dụ 1b</strong>: [<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -341,7 +341,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [deSIGNing] – [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ [ROOT VERB][GỐC ĐỘNG] nguyên bản "deSIGN" mặc thêm hậu tố "-ing" để tạo thành một khối cấp độ [HEAD][LÕI] độc lập.</li>
 			
-					<li className="list-none">Chức năng: [deSIGNing] – [OBject HEAD][TÂN LÕI] đang đứng vị trí sau [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "enJOYS" để làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận hành động yêu thích.</li>
+					<li className="list-none">Chức năng: [deSIGNing] – [OBject HEAD][TÂN LÕI] đang đứng vị trí sau [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "enJOYS" để làm [OBject][TÂN] tiếp nhận hành động yêu thích.</li>
 			
 				</ul>
 			
@@ -419,7 +419,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [OPtimizing the appliCAtion] – [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] biểu thị khối hành động mở rộng mở đầu bằng dạng vận động -ing nhằm biểu thị tiến trình của một hành động chưa kết thúc.</li>
 			
-					<li className="list-none">Chức năng: [OPtimizing the appliCAtion] – [ADjective PHRASE][TÍNH CỤM] đang đứng vị trí sau để bổ nghĩa, mô tả trạng thái thực thi đang diễn ra của [PROnoun HEAD][ĐẠI LÕI] "the deVELopers".</li>
+					<li className="list-none">Chức năng: [OPtimizing the appliCAtion] – [ADjective PHRASE][TÍNH CỤM] đang đứng vị trí sau để bổ nghĩa, mô tả trạng thái thực thi đang diễn ra của [SUBject HEAD][CHỦ LÕI] "the deVELopers".</li>
 			
 				</ul>
 			
@@ -456,7 +456,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [a<strong>bout</strong> reNEWable ENergy] – [prepoSITional PHRASE][GIỚI CỤM] thể hiện một khối thông tin định vị chủ đề bắt đầu bằng [prepoSITion][GIỚI] "a<strong>bout</strong>".</li>
 			
-					<li className="list-none">Chức năng: [a<strong>bout</strong> reNEWable ENergy] – [ADjective PHRASE][TÍNH CỤM] đang đứng vị trí ngay sau một đối tượng [PROnoun HEAD][ĐẠI LÕI] "the presenTAtion" để bổ nghĩa, mô tả tính chất và định danh riêng cho bài thuyết trình đó.</li>
+					<li className="list-none">Chức năng: [a<strong>bout</strong> reNEWable ENergy] – [ADjective PHRASE][TÍNH CỤM] đang đứng vị trí ngay sau một đối tượng [SUBject HEAD][CHỦ LÕI] "the presenTAtion" để bổ nghĩa, mô tả tính chất và định danh riêng cho bài thuyết trình đó.</li>
 			
 				</ul>
 			
@@ -524,7 +524,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [who WROTE this ARticle] – [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau.</li>
 			
-					<li className="list-none">Chức năng: [who WROTE this ARticle] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho [PROnoun HEAD][ĐẠI LÕI] "the AUthor" tác giả đó.</li>
+					<li className="list-none">Chức năng: [who WROTE this ARticle] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the AUthor" tác giả đó.</li>
 			
 				</ul>
 			
@@ -575,7 +575,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [he DROVE YESterday] – [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu.</li>
 			
-					<li className="list-none">Chức năng: [he DROVE YESterday] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí bám sát ngay sau [PROnoun HEAD][ĐẠI LÕI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
+					<li className="list-none">Chức năng: [he DROVE YESterday] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí bám sát ngay sau [SUBject HEAD][CHỦ LÕI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
 				</ul>
 			
@@ -661,7 +661,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">[in {'{which they TEST the SAMple}'}] – [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tầng ngoài đứng ngay sau thành phần [PROnoun HEAD][ĐẠI LÕI] chính "the LABoratory" để bổ nghĩa và khu biệt không gian.</li>
+					<li className="list-none">[in {'{which they TEST the SAMple}'}] – [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tầng ngoài đứng ngay sau thành phần [SUBject HEAD][CHỦ LÕI] chính "the LABoratory" để bổ nghĩa và khu biệt không gian.</li>
 
 					<li className="list-none">Trong đó khối phụ {'{which they TEST the SAMple}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong đứng vị trí làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "in".</li>
 			

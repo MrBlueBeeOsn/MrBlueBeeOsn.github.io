@@ -98,7 +98,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
-					<li className="list-none">Chức năng: [Swimming] - [PROnoun HEAD][ĐẠI LÕI] đứng đầu câu, chỉ một hoạt động.</li>
+					<li className="list-none">Chức năng: [Swimming] - [SUBject HEAD][CHỦ LÕI] đứng đầu câu, chỉ một hoạt động.</li>
 			
 				</ul>
 			
@@ -112,7 +112,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Smoking] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
-					<li className="list-none">Chức năng: [Smoking] - [PROnoun HEAD][ĐẠI LÕI] đứng đầu câu, chỉ một thói quen.</li>
+					<li className="list-none">Chức năng: [Smoking] - [SUBject HEAD][CHỦ LÕI] đứng đầu câu, chỉ một thói quen.</li>
 			
 				</ul>
 			
@@ -437,7 +437,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
-					<li className="list-none">Chức năng: [Swimming] - [PROnoun HEAD][ĐẠI LÕI] đứng đầu câu, chỉ một hoạt động.</li>
+					<li className="list-none">Chức năng: [Swimming] - [SUBject HEAD][CHỦ LÕI] đứng đầu câu, chỉ một hoạt động.</li>
 			
 				</ul>
 			

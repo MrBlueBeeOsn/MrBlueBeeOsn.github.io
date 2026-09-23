@@ -53,7 +53,7 @@ export default function ThreeDC1(): React.ReactElement {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#PROnoun-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#SUBject-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#OBject-HEAD">OBject HEAD</HashLink>
 					</span> &nbsp;
 
@@ -338,7 +338,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Là đơn vị hành động hạt nhân nhỏ nhất, chỉ gồm đúng 1 từ. Vị trí đứng trong khối sẽ quyết định chức năng của khối hành động này:</p>
 
 
-			<p className="margin-top-20 text-indent-whole" id="PROnoun-HEAD"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>PROnoun HEAD</strong>][<strong>ĐẠI LÕI</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="SUBject-HEAD"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>SUBject HEAD</strong>][<strong>CHỦ LÕI</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -347,12 +347,12 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [JOGging] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "JOG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] đại diện cho một hành động biểu hiện khối cô đọng.</li>
 			
-					<li className="list-none">Chức năng: Khối [JOGging] - [PROnoun HEAD][ĐẠI LÕI] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "STRENGTHens".</li>
+					<li className="list-none">Chức năng: Khối [JOGging] - [SUBject HEAD][CHỦ LÕI] đóng vai trò làm [SUBject][CHỦ] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "STRENGTHens".</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="OBject-HEAD"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="OBject-HEAD"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>làm khối</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -361,7 +361,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [SWIMming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "SWIM" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] đại diện cho một hành động biểu hiện khối cô đọng.</li>
 			
-					<li className="list-none">Chức năng: Khối [SWIMming] - [OBject HEAD][TÂN LÕI] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "enJOYS".</li>
+					<li className="list-none">Chức năng: Khối [SWIMming] - [OBject HEAD][TÂN LÕI] đóng vai trò làm [OBject][TÂN] chịu sự điều phối trực tiếp của [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "enJOYS".</li>
 			
 				</ul>
 			
@@ -399,7 +399,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="text-indent-whole">Là một khối hành động chứa nhiều từ kết hợp với nhau nhưng chưa có cấu trúc câu phức tạp hoàn chỉnh. Khối [VERB PHRASE][ĐỘNG CỤM] này sẽ đảm nhận các vai trò:</p>
 
-			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -413,7 +413,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] <strong>làm khối</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -436,7 +436,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [SUpervising the AUdit] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng một [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "SUpervising" kết hợp với một [OBject PROnoun][TÂN ĐẠI] phía sau.</li>
 			
-					<li className="list-none">Chức năng: Khối [SUpervising the AUdit] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau thực thể [PROnoun HEAD][ĐẠI LÕI] "the OFficer" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
+					<li className="list-none">Chức năng: Khối [SUpervising the AUdit] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau thực thể [SUBject HEAD][CHỦ LÕI] "the OFficer" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
 			
 				</ul>
 			
@@ -468,7 +468,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [on the TOP FLOOR] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "on" liên kết quan hệ không gian trực tiếp với cụm [NOUN BLOCK][DANH KHỐI] "the TOP FLOOR".</li>
 			
-					<li className="list-none">Chức năng: Khối [on the TOP FLOOR] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sát ngay sau khối biểu thị thực thể [PROnoun HEAD][ĐẠI LÕI] "the OFfice" để bổ nghĩa chỉ bối cảnh vị trí đặc trưng cho văn phòng đó.</li>
+					<li className="list-none">Chức năng: Khối [on the TOP FLOOR] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sát ngay sau khối biểu thị thực thể [SUBject HEAD][CHỦ LÕI] "the OFfice" để bổ nghĩa chỉ bối cảnh vị trí đặc trưng cho văn phòng đó.</li>
 			
 				</ul>
 			
@@ -493,7 +493,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [SUBject PROnoun][CHỦ ĐẠI] và các cấu hình [VERB HEAD][ĐỘNG LÕI] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [conJUNCtion][LIÊN] tường minh:</p>
 
 
-			<p className="text-indent-whole" id="NOUN-CLAUSE"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="text-indent-whole" id="NOUN-CLAUSE"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -507,7 +507,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 
-			<p className="text-indent-whole"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+			<p className="text-indent-whole"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -530,7 +530,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [which the TEAM dePLOYED LAST NIGHT] - [OBject PROnoun CLAUSE][TÂN ĐẠI CÂU] bắt đầu bằng [OBject PRONOUN][TÂN ĐẠI] quan hệ "which" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject PROnoun][CHỦ ĐẠI] "the TEAM" và [PAST VERB][ĐÃ ĐỘNG] "dePLOYED".</li>
 			
-					<li className="list-none">Chức năng: Khối [which the TEAM dePLOYED LAST NIGHT] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm ngay sau thực thể [PROnoun HEAD][ĐẠI LÕI] "the SOFTware" để bổ nghĩa chi tiết cho thực thể đó.</li>
+					<li className="list-none">Chức năng: Khối [which the TEAM dePLOYED LAST NIGHT] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm ngay sau thực thể [SUBject HEAD][CHỦ LÕI] "the SOFTware" để bổ nghĩa chi tiết cho thực thể đó.</li>
 			
 				</ul>
 			
@@ -579,7 +579,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [i conSULted YESterday] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] có sự lược bỏ [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong.</li>
 			
-					<li className="list-none">Chức năng: Khối [i conSULted YESterday] thực thi chức năng [ADjective CLAUSE][TÍNH CÂU] đứng ôm ngay sau thực thể [PROnoun HEAD][ĐẠI LÕI] "the MENtor" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
+					<li className="list-none">Chức năng: Khối [i conSULted YESterday] thực thi chức năng [ADjective CLAUSE][TÍNH CÂU] đứng ôm ngay sau thực thể [SUBject HEAD][CHỦ LÕI] "the MENtor" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
 			
 				</ul>
 			
@@ -671,7 +671,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối {'{whether the COMpany should MERGE}'} bên trong thực thi chức năng [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] nhận quan hệ trực tiếp đứng sau [prepoSITion][GIỚI] over.</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [<strong>o</strong>ver{'{whether the COMpany should MERGE}'}] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm the [PROnoun HEAD][ĐẠI LÕI] "the disPUTE".</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [<strong>o</strong>ver{'{whether the COMpany should MERGE}'}] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm the [SUBject HEAD][CHỦ LÕI] "the disPUTE".</li>
 
 			
 				</ul>
@@ -768,7 +768,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [which acCELerates the RENdering PROCess] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates".</li>
 			
-					<li className="list-none">Chức năng: Khối [which acCELerating the RENdering PROCess] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể [PROnoun HEAD][ĐẠI LÕI] "the CODE".</li>
+					<li className="list-none">Chức năng: Khối [which acCELerating the RENdering PROCess] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể [SUBject HEAD][CHỦ LÕI] "the CODE".</li>
 			
 				</ul>
 
@@ -785,7 +785,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [RENdering-acCELerating] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "acCELerate" mặc thêm (kết hợp) tiền tố thành phần [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "RENdering-" và hậu tố "-ING" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có cấu hình ghép.</li>
 			
-					<li className="list-none">Chức năng: Khối [RENdering-acCELerating] - [ADjective HEAD][TÍNH LÕI] đứng trực tiếp phía trước để bổ nghĩa đặc tính vận hành cho khối biểu thị thực thể [PROnoun HEAD][ĐẠI LÕI] "CODE".</li>
+					<li className="list-none">Chức năng: Khối [RENdering-acCELerating] - [ADjective HEAD][TÍNH LÕI] đứng trực tiếp phía trước để bổ nghĩa đặc tính vận hành cho khối biểu thị thực thể [SUBject HEAD][CHỦ LÕI] "CODE".</li>
 			
 				</ul>
 			
@@ -802,7 +802,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [acCELerating the RENdering PROCess] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng phân từ đuôi "-ing" và có thành phần bổ trợ đi kèm.</li>
 			
-					<li className="list-none">Chức năng: Khối [acCELerating the RENdering PROCess] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sau bổ nghĩa rút gọn cho khối biểu thị thực thể [PROnoun HEAD][ĐẠI LÕI] "the CODE".</li>
+					<li className="list-none">Chức năng: Khối [acCELerating the RENdering PROCess] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sau bổ nghĩa rút gọn cho khối biểu thị thực thể [SUBject HEAD][CHỦ LÕI] "the CODE".</li>
 			
 				</ul>
 

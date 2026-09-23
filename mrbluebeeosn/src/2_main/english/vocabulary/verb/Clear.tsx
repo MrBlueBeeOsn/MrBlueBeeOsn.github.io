@@ -27,7 +27,7 @@ export default function CLEAR(): React.JSX.Element {
                     
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#PROnoun-HEAD">PROnoun HEAD</HashLink>
+            <HashLink smooth to="#SUBject-HEAD">PROnoun HEAD</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -235,7 +235,7 @@ export default function CLEAR(): React.JSX.Element {
       <p className="text-indent-whole">Khi đặt vào sơ đồ vận hành, chính hình thái [ĐỘNG] này sẽ hình thành nên các loại chức năng độc lập:</p>
 
           
-      <p className="margin-top-20 text-indent-whole" id="PROnoun-HEAD"><strong>Hình thành chức năng</strong> [<strong>PROnoun HEAD</strong>][<strong>ĐẠI LÕI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="SUBject-HEAD"><strong>Hình thành chức năng</strong> [<strong>SUBject HEAD</strong>][<strong>CHỦ LÕI</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 1: /ˈklærəti/</p>
       
@@ -246,7 +246,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [CLARity] - [MODified NOUN][DIỆN DANH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "CLEAR" biến đổi thành "CLAR" mặc thêm hậu tố "-ity" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], tạo thành một thực thể định danh độc lập.</li>
       
-          <li className="list-none">Chức năng: [CLARity] - [PROnoun HEAD][ĐẠI LÕI] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để định danh cho một đặc tính/sự việc.</li>
+          <li className="list-none">Chức năng: [CLARity] - [SUBject HEAD][CHỦ LÕI] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để định danh cho một đặc tính/sự việc.</li>
       
         </ul>
       
@@ -331,7 +331,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to CLEAR the MEETing ROOM] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] chứa [PARTicle VERB][HẠT ĐỘNG] ở dạng nguyên bản có "to" để biểu thị tính chủ động hướng tới tương lai.</li>
       
-          <li className="list-none">Chức năng: [to CLEAR the MEETing ROOM] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [PROnoun Block][ĐẠI KHỐI] "STAFF MEMber" để quét và hiển thị đặc điểm hành động sắp sửa xảy ra mang tính chủ động của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [to CLEAR the MEETing ROOM] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [SUBject BLOCK][CHỦ KHỐI] "STAFF MEMber" để quét và hiển thị đặc điểm hành động sắp sửa xảy ra mang tính chủ động của đối tượng đó.</li>
       
         </ul>
       
@@ -347,7 +347,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to be CLEARED NEXT MONTH] - [FULL inFINitive PARTiciple VERB PHRASE][TOÀN NGUYÊN HOÀN ĐỘNG CỤM] hiển thị dưới dạng mô hình "to be + V3/-ed", chứa [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] biến đổi hình thái bị động, kết hợp phần mở rộng phương thức để biểu thị trạng thái bị động hướng tới tương lai.</li>
       
-          <li className="list-none">Chức năng: [to be CLEARED NEXT MONTH] - [ADjective PHRASE][TÍNH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "LAND" để mô tả đặc điểm trạng thái sắp sửa được tác động của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [to be CLEARED NEXT MONTH] - [ADjective PHRASE][TÍNH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "LAND" để mô tả đặc điểm trạng thái sắp sửa được tác động của đối tượng đó.</li>
       
         </ul>
       
@@ -363,7 +363,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [CLEARing the ROAD BLOCK] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] thêm đuôi "-ing" để biểu thị tính chủ động đang xảy ra.</li>
       
-          <li className="list-none">Chức năng: [CLEARing the ROAD BLOCK] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "WORKer" để quét và hiển thị đặc điểm hành động chủ động của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [CLEARing the ROAD BLOCK] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "WORKer" để quét và hiển thị đặc điểm hành động chủ động của đối tượng đó.</li>
       
         </ul>
       
@@ -379,7 +379,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [CLEARED by the adMINistrator] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] hiển thị dưới dạng một vùng mã chứa [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] ở dạng bị động thuộc trục thời quá khứ và phần mở rộng phương thức.</li>
       
-          <li className="list-none">Chức năng: [CLEARED by the adMINistrator] - [ADjective PHRASE][TÍNH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "FILES" để mô tả đặc điểm trạng thái bị động hoàn thành của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [CLEARED by the adMINistrator] - [ADjective PHRASE][TÍNH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "FILES" để mô tả đặc điểm trạng thái bị động hoàn thành của đối tượng đó.</li>
       
         </ul>
       
@@ -485,7 +485,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [for a CLEAR STRATegy] - [prepoSITional PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
       
-          <li className="list-none">Chức năng: [for a CLEAR STRATegy] - [ADjective PHRASE][TÍNH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "reQUIrement" để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [for a CLEAR STRATegy] - [ADjective PHRASE][TÍNH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng [SUBject HEAD][CHỦ LÕI] "reQUIrement" để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
       
         </ul>
       
@@ -566,7 +566,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [who CLEARED the ERror CODES] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân [PAST VERB][ĐÃ ĐỘNG] "CLEARED" xử lý bối cảnh thuộc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: [who CLEARED the ERror CODES] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng [PROnoun HEAD][ĐẠI LÕI] "the engiNEER".</li>
+          <li className="list-none">Chức năng: [who CLEARED the ERror CODES] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng [SUBject HEAD][CHỦ LÕI] "the engiNEER".</li>
       
         </ul>
       
@@ -620,7 +620,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [the emPLOYee CLEARED] - [conJUNCtional CLAUSE][LIÊN CÂU] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "the emPLOYee" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED".</li>
       
-          <li className="list-none">Chức năng: [the emPLOYee CLEARED] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "the DESK" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none">Chức năng: [the emPLOYee CLEARED] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the DESK" để làm rõ đặc điểm cho đối tượng này.</li>
       
         </ul>
       

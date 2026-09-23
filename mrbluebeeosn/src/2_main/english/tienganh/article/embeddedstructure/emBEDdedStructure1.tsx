@@ -53,7 +53,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#PROnoun-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#SUBject-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#OBject-HEAD">OBject HEAD</HashLink>
 					</span> &nbsp;
 
@@ -322,7 +322,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý gốc của nó thuộc 1 trong 16 loại cấu trúc [HEAD][LÕI]. Khi đặt vào câu, chính hình thái này sẽ hình thành nên các chức năng độc lập:</p>
 
 
-			<p className="margin-top-20 text-indent-whole" id="PROnoun-HEAD"><strong>Ví dụ 1.1</strong>: <strong>Hình thành chức năng</strong> [<strong>PROnoun HEAD</strong>][<strong>ĐẠI LÕI</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="SUBject-HEAD"><strong>Ví dụ 1.1</strong>: <strong>Hình thành chức năng</strong> [<strong>SUBject HEAD</strong>][<strong>CHỦ LÕI</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -331,12 +331,12 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [exPLORing] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "exPLORE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] thể hiện một hành động đơn lẻ.</li>
 
-					<li className="list-none">Chức năng: [exPLORing] - [PROnoun HEAD][ĐẠI LÕI] đảm nhận nhiệm vụ làm khối [SUBject PROnoun][CHỦ ĐẠI] ở đầu câu để định danh cho một hoạt động.</li>
+					<li className="list-none">Chức năng: [exPLORing] - [SUBject HEAD][CHỦ LÕI] đảm nhận nhiệm vụ làm khối [SUBject][CHỦ] ở đầu câu để định danh cho một hoạt động.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="OBject-HEAD"><strong>Ví dụ 1.2</strong>: <strong>Hình thành chức năng</strong> [<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="OBject-HEAD"><strong>Ví dụ 1.2</strong>: <strong>Hình thành chức năng</strong> [<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>làm khối</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -345,7 +345,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [LAUNCHing] — [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] giữ hình thái hành động dạng "-ing" ở cấp độ [HEAD][LÕI] đơn lẻ đứng phía sau một hành động [BASE VERB][NỀN ĐỘNG] "deLAY".</li>
 
-					<li className="list-none">Chức năng: [LAUNCHing] — [OBject HEAD][TÂN LÕI] đóng vai trò làm khối [OBject PROnoun][TÂN ĐẠI] tiếp nhận trực tiếp sự tác động từ [VERB HEAD][ĐỘNG LÕI] "deLAY".</li>
+					<li className="list-none">Chức năng: [LAUNCHing] — [OBject HEAD][TÂN LÕI] đóng vai trò làm khối [OBject][TÂN] tiếp nhận trực tiếp sự tác động từ [VERB HEAD][ĐỘNG LÕI] "deLAY".</li>
 			
 				</ul>
 			
@@ -386,7 +386,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã chứa nhiều từ đi kèm hành động, họ nhận diện ngay diện mạo vật lý [VERB PHRASE][ĐỘNG CỤM]. Khối hình thái này sẽ hình thành đầy đủ các chương trình chức năng đầu ra:</p>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE"><strong>Ví dụ 4.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE"><strong>Ví dụ 4.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -400,7 +400,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4.2</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4.2</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -423,7 +423,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [BUILT by them] - [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] hiển dung dưới dạng một vùng mã chứa [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] BUILT bị động và phần mở rộng chủ thể.</li>
 			
-					<li className="list-none">Chức năng: [BUILT by them] - [ADjective PHRASE][TÍNH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "SOFTware" để mô tả đặc điểm trạng thái của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [BUILT by them] - [ADjective PHRASE][TÍNH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "SOFTware" để mô tả đặc điểm trạng thái của đối tượng đó.</li>
 			
 				</ul>
 			
@@ -459,7 +459,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [in this TEAM] - [prepoSITional PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [prepoSITion][GIỚI] in.</li>
 			
-					<li className="list-none">Chức năng: [in this TEAM] - [ADjective PHRASE][TÍNH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "engiNEERS" để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [in this TEAM] - [ADjective PHRASE][TÍNH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng [SUBject HEAD][CHỦ LÕI] "engiNEERS" để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
 			
 				</ul>
 			
@@ -484,7 +484,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, bằng sức mạnh của [emBEDded STRUCture][NHÚNG CẤU TRÚC], các khối mã sẽ lồng vào nhau tạo nên các cấu trúc đóng gói tối tân.</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -515,7 +515,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.2</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.2</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -562,7 +562,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				
 						<li className="list-none">Hình thái: [a<strong>bout</strong> {'{how this TEAM deSIGNED the APP}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 
-						<li className="list-none">Chức năng: [a<strong>bout</strong> {'{how this TEAM deSIGNED the APP}'}] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho [PROnoun HEAD][ĐẠI LÕI] "the NEWS" đứng trước nó.</li>
+						<li className="list-none">Chức năng: [a<strong>bout</strong> {'{how this TEAM deSIGNED the APP}'}] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho [SUBject HEAD][CHỦ LÕI] "the NEWS" đứng trước nó.</li>
 				
 					</ul>
 
@@ -619,7 +619,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			<h5 className="margin-y-30 text-indent-whole">Phân hệ [conJUNCtional CLAUSE][LIÊN CÂU] (Có Từ Kết Nối)</h5>
 
 
-			<p className="margin-top-20 text-indent-whole" id="NOUN-CLAUSE"><strong>Ví dụ 12.1</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-CLAUSE"><strong>Ví dụ 12.1</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -633,7 +633,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.2</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.2</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -656,7 +656,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [who is deSIGNing the BUILDing] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] hiện diện dưới dạng khối câu bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] kết nối who, chứa [auXILiary and PRESent PARTiciple VERB][TRỢ và HIỆN TIẾP ĐỘNG] is deSIGNing riêng biệt.</li>
 
-					<li className="list-none">Chức năng: [who is deSIGNing the BUILDing] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng [PROnoun HEAD][ĐẠI LÕI] "the ARchitect".</li>
+					<li className="list-none">Chức năng: [who is deSIGNing the BUILDing] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng [SUBject HEAD][CHỦ LÕI] "the ARchitect".</li>
 			
 				</ul>
 			
@@ -704,7 +704,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [i deSIGNED YESterday] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] chứa chủ thể "i" và [PAST VERB][ĐÃ ĐỘNG] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [OBject PRONOUN][TÂN ĐẠI] định vị nào dẫn đường.</li>
 			
-					<li className="list-none">Chức năng: [i deSIGNED YESterday] - [ADjective CLAUSE][TÍNH CÂU] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng [PROnoun HEAD][ĐẠI LÕI] "the PLAN" đứng trước.</li>
+					<li className="list-none">Chức năng: [i deSIGNED YESterday] - [ADjective CLAUSE][TÍNH CÂU] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng [SUBject HEAD][CHỦ LÕI] "the PLAN" đứng trước.</li>
 			
 				</ul>
 			
@@ -827,7 +827,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [on the DESK] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng từ định vị vị trí bề mặt [prepoSITion][GIỚI] on.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [on the DESK] - [ADjective PHRASE][TÍNH CỤM] bổ nghĩa trực tiếp cho thành phần tên gọi [PROnoun HEAD][ĐẠI LÕI] "FILES" đứng trước.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [on the DESK] - [ADjective PHRASE][TÍNH CỤM] bổ nghĩa trực tiếp cho thành phần tên gọi [SUBject HEAD][CHỦ LÕI] "FILES" đứng trước.</li>
 			
 				</ul>
 			
@@ -839,7 +839,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái mới: [inSIDE the CABinet] - [prepoSITional PHRASE][GIỚI CỤM] mới bắt đầu bằng [prepoSITion][GIỚI] định vị không gian inSIDE được đưa vào thế chỗ.</li>
 			
-					<li className="list-none">Chức năng mới: [inSIDE the CABinet] - [ADjective PHRASE][TÍNH CỤM] tiếp tục đảm nhận chính xác vai trò mô tả, quét đặc điểm bối cảnh cho đối tượng [PROnoun HEAD][ĐẠI LÕI] "FILES" của khối cũ mà không làm biến dạng sơ đồ câu.</li>
+					<li className="list-none">Chức năng mới: [inSIDE the CABinet] - [ADjective PHRASE][TÍNH CỤM] tiếp tục đảm nhận chính xác vai trò mô tả, quét đặc điểm bối cảnh cho đối tượng [SUBject HEAD][CHỦ LÕI] "FILES" của khối cũ mà không làm biến dạng sơ đồ câu.</li>
 			
 				</ul>
 			

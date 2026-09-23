@@ -53,7 +53,7 @@ export default function SV1(): React.JSX.Element {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#PROnoun-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#SUBject-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#OBject-HEAD">OBject HEAD</HashLink>
 					</span> &nbsp;
 
@@ -310,14 +310,14 @@ export default function SV1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Đơn vị hành động nhỏ nhất gồm 1 yếu tố gốc.</p>
 
-			<ul className="list-square" id="PROnoun-HEAD">
+			<ul className="list-square" id="SUBject-HEAD">
 			
 					<li>[WRIting] SHARPens the INtellect.</li>
 					<li className="margin-bottom-20 list-none">[Việc viết lách] mài sắc trí tuệ.</li>
 			
 					<li className="list-none">Hình thái: [WRIting] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "WRITE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], đóng vai trò làm hạt nhân hành động đơn lẻ cho cấu trúc câu.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [WRIting] - [PROnoun HEAD][ĐẠI LÕI] đứng ở đầu câu tạo nên [SUBject PROnoun][CHỦ ĐẠI] cho toàn câu.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [WRIting] - [SUBject HEAD][CHỦ LÕI] đứng ở đầu câu để làm [SUBject][CHỦ] cho toàn câu.</li>
 			
 				</ul>
 
@@ -328,7 +328,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [READing] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "READ" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], đóng vai trò làm hạt nhân hành động tiếp diễn.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [READing] - [OBject HEAD][TÂN LÕI] đứng sau [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "PRACtices" làm [OBject PROnoun][TÂN ĐẠI] gánh chịu trực tiếp tác động từ hành động luyện tập của thực thể khơi nguồn.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [READing] - [OBject HEAD][TÂN LÕI] đứng sau [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "PRACtices" để làm [OBject][TÂN] gánh chịu trực tiếp tác động từ hành động luyện tập của thực thể khơi nguồn.</li>
 			
 				</ul>
 			
@@ -339,7 +339,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [GROWing] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "GROW" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] phản ánh trạng thái đang vận động liên tục.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [GROWing] - [ADjective HEAD][TÍNH LÕI] đứng trước [PROnoun HEAD][ĐẠI LÕI] "deMAND" nhằm mô tả đặc điểm của đối tượng.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [GROWing] - [ADjective HEAD][TÍNH LÕI] đứng trước [SUBject HEAD][CHỦ LÕI] "deMAND" nhằm mô tả đặc điểm của đối tượng.</li>
 			
 				</ul>
 			
@@ -391,7 +391,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [PLAYing in the PARK] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] biểu thị khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] - [VERB HEAD][ĐỘNG LÕI], bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng V-ing.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [PLAYing in the PARK] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "the CHILDren" những đứa trẻ nhằm mô tả mức độ đặc điểm.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [PLAYing in the PARK] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the CHILDren" những đứa trẻ nhằm mô tả mức độ đặc điểm.</li>
 			
 				</ul>
 			
@@ -420,7 +420,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [under the BLACK CAR] - [prepoSITional PHRASE][GIỚI CỤM] cấu thành khối bắt đầu bằng một [prepoSITion][GIỚI] mốc vị trí.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [under the BLACK CAR] - [ADjective PHRASE][TÍNH CỤM] neo ngay sau đối tượng [PROnoun HEAD][ĐẠI LÕI] "the CAT" con mèo để mô tả đặc điểm vị trí nhận diện riêng biệt cho nó.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [under the BLACK CAR] - [ADjective PHRASE][TÍNH CỤM] neo ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the CAT" con mèo để mô tả đặc điểm vị trí nhận diện riêng biệt cho nó.</li>
 			
 				</ul>
 			
@@ -473,7 +473,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [which i BOUGHT LAST WEEK] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] định hình khối hành động phức có chứa hệ trục [SUBject PRONOUN][CHỦ ĐẠI] "i" và [PAST VERB][ĐÃ ĐỘNG] "BOUGHT", bắt đầu bằng [conJUNCtion][LIÊN] "which".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [which i BOUGHT LAST WEEK] - [ADjective CLAUSE][TÍNH CÂU] thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [PROnoun HEAD][ĐẠI LÕI] "LAPtop".</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [which i BOUGHT LAST WEEK] - [ADjective CLAUSE][TÍNH CÂU] thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [SUBject HEAD][CHỦ LÕI] "LAPtop".</li>
 			
 				</ul>
 		
@@ -523,7 +523,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [she LENT me] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "she" và [PAST VERB][ĐÃ ĐỘNG] "LENT".</li>
 			
-					<li className="list-none">Chức năng: [she LENT me] - [ADjective CLAUSE][TÍNH CÂU] đứng ngay sau đối tượng cuốn sách nhằm mô tả đặc điểm riêng biệt cho [PROnoun HEAD][ĐẠI LÕI] "the BOOK".</li>
+					<li className="list-none">Chức năng: [she LENT me] - [ADjective CLAUSE][TÍNH CÂU] đứng ngay sau đối tượng cuốn sách nhằm mô tả đặc điểm riêng biệt cho [SUBject HEAD][CHỦ LÕI] "the BOOK".</li>
 			
 				</ul>
 			
@@ -668,7 +668,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Nhúng trong: Lớp trong {'{how she sucCEEDed}'} đóng vai trò là một [NOUN CLAUSE][DANH CÂU] đứng làm điểm tựa [OBject PROnoun][TÂN ĐẠI] dưới sự điều phối của [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 
-					<li className="list-none">Nhúng ngoài: Lớp ngoài [a<strong>bout</strong> {'{how she sucCEEDed}'}] đóng vai trò là một [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tổng thể bổ nghĩa cho [PROnoun HEAD][ĐẠI LÕI] "the ARticle" đứng trước nó.</li>
+					<li className="list-none">Nhúng ngoài: Lớp ngoài [a<strong>bout</strong> {'{how she sucCEEDed}'}] đóng vai trò là một [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tổng thể bổ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the ARticle" đứng trước nó.</li>
 			
 				</ul>
 
@@ -777,7 +777,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [KNOWledge] - [MODified NOUN][DIỆN DANH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "KNOW" kết hợp hậu tố "-ledge" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 
-					<li className="list-none">Chức năng: [KNOWledge] - [PROnoun HEAD][ĐẠI LÕI] đứng ở đầu câu tạo nên [SUBject PROnoun][CHỦ ĐẠI] cho toàn câu.</li>
+					<li className="list-none">Chức năng: [KNOWledge] - [SUBject HEAD][CHỦ LÕI] đứng ở đầu câu tạo nên [SUBject PROnoun][CHỦ ĐẠI] cho toàn câu.</li>
 			
 				</ul>
 			

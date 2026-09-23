@@ -53,7 +53,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#PROnoun-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#SUBject-HEAD">PROnoun HEAD</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#OBject-HEAD">OBject HEAD</HashLink>
 					</span> &nbsp;
 
@@ -386,7 +386,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="text-indent-whole">Khối này chịu trách nhiệm đóng gói các hành động, thực thể thành một cái tên, một đối tượng để làm [SUBject PROnoun][CHỦ ĐẠI] hoặc phần [OBject PROnoun][TÂN ĐẠI] tiếp nhận tác động trong câu.</p>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="PROnoun-HEAD">[<strong>PROnoun HEAD</strong>][<strong>ĐẠI LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="SUBject-HEAD">[<strong>SUBject HEAD</strong>][<strong>CHỦ LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -395,12 +395,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [SWIMming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "SWIM" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu đạt một tiến trình hành động được thực hiện hóa.</li>
 
-					<li className="list-none">Chức năng: [SWIMming] - [PROnoun HEAD][ĐẠI LÕI] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] kích hoạt và cung cấp năng lượng cho bộ nguồn [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] imPROVES.</li>
+					<li className="list-none">Chức năng: [SWIMming] - [SUBject HEAD][CHỦ LÕI] đóng vai trò làm [SUBject][CHỦ] kích hoạt và cung cấp năng lượng cho bộ nguồn [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] imPROVES.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="OBject-HEAD">[<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>] <strong>làm</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="OBject-HEAD">[<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB</strong>][<strong>HIỆN TIẾP ĐỘNG</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -409,7 +409,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [TRAINing] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "TRAIN" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu đạt một tiến trình hành động được thực hiện hóa.</li>
 
-					<li className="list-none">Chức năng: [TRAINing] - [OBject HEAD][TÂN LÕI] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận sự chú trọng tác động trực tiếp đứng ngay sau bộ nguồn [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] EMphasizes.</li>
+					<li className="list-none">Chức năng: [TRAINing] - [OBject HEAD][TÂN LÕI] đóng vai trò làm [OBject][TÂN] tiếp nhận sự chú trọng tác động trực tiếp đứng ngay sau bộ nguồn [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] EMphasizes.</li>
 			
 				</ul>
 
@@ -558,7 +558,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [MONitoring the conTROL PANel] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] MONitoring kết hợp với đối tượng chịu tác động the conTROL PANel để tạo nên một hành động đang được kéo dài trực quan.</li>
 
-					<li className="list-none">Chức năng: [MONitoring the conTROL PANel] - [ADjective PHRASE][TÍNH CỤM] đứng sau bộ nguồn is để làm phần mô tả trực tiếp trạng thái hành động diễn tiến của [PROnoun HEAD][ĐẠI LÕI] the OPerator.</li>
+					<li className="list-none">Chức năng: [MONitoring the conTROL PANel] - [ADjective PHRASE][TÍNH CỤM] đứng sau bộ nguồn is để làm phần mô tả trực tiếp trạng thái hành động diễn tiến của [SUBject HEAD][CHỦ LÕI] the OPerator.</li>
 			
 				</ul>
 
@@ -571,7 +571,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [with the HIGH-resoLUtion LENS] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] with kết hợp cùng một khối chức năng Danh nhằm giới hạn phạm vi mô tả của [prepoSITion][GIỚI].</li>
 
-					<li className="list-none">Chức năng: [with the HIGH-resoLUtion LENS] - [ADjective PHRASE][TÍNH CỤM] đứng sau [PROnoun HEAD][ĐẠI LÕI] the deVICE để mô tả đặc điểm cấu tạo nhận dạng của đối tượng này.</li>
+					<li className="list-none">Chức năng: [with the HIGH-resoLUtion LENS] - [ADjective PHRASE][TÍNH CỤM] đứng sau [SUBject HEAD][CHỦ LÕI] the deVICE để mô tả đặc điểm cấu tạo nhận dạng của đối tượng này.</li>
 			
 				</ul>
 
@@ -591,7 +591,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Khối tổng thể [with the perSPECtive {'{that FACTS GUIDE deVELopment}'}] đóng vai trò là [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] bổ nghĩa, mô tả đặc điểm thuộc tính cho [PROnoun HEAD][ĐẠI LÕI] the SPECialist.</li>
+					<li className="list-none">Khối tổng thể [with the perSPECtive {'{that FACTS GUIDE deVELopment}'}] đóng vai trò là [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] bổ nghĩa, mô tả đặc điểm thuộc tính cho [SUBject HEAD][CHỦ LÕI] the SPECialist.</li>
 
 					<li className="list-none">Khối nhỏ bên trong {'{that FACTS GUIDE deVELopment}'} đóng vai trò là [NOUN CLAUSE][DANH CÂU] làm nhiệm vụ đồng vị, giải thích nội dung trực tiếp cho [NOUN HEAD][DANH LÕI] perSPECtive.</li>
 			
@@ -621,7 +621,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [they IMplemented LAST MONTH] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] có cấu trúc [S]-[HEAD] đầy đủ nhưng đã bị chủ động lược bỏ [OBject PRONOUN][TÂN ĐẠI] which/that ở đầu khối để tăng tốc độ truyền đạt của dòng thông tin.</li>
 
-					<li className="list-none">Chức năng: [they IMplemented LAST MONTH] - [ADjective CLAUSE][TÍNH CÂU] làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm thuộc tính cho thực thể [PROnoun HEAD][ĐẠI LÕI] the POLicy.</li>
+					<li className="list-none">Chức năng: [they IMplemented LAST MONTH] - [ADjective CLAUSE][TÍNH CÂU] làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm thuộc tính cho thực thể [SUBject HEAD][CHỦ LÕI] the POLicy.</li>
 			
 				</ul>
 
