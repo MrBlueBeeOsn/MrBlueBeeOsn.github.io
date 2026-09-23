@@ -29,44 +29,44 @@ export default function sinCEREly2(): React.JSX.Element {
       <div className="example">
                                 
         <p className="example-sentence text-center">
-          <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#aPOLogize-for">aPOLogize for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#apPREciate">apPREciate</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HOPE-that">HOPE that</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#YOURS">YOURS</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#beLIEVE-in-the-POWer-of">beLIEVE in the POWer of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#reGRET-NOT-BEing-ABle-to-atTEND">reGRET NOT BEing ABle to atTEND</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#THANK-you-for">THANK you for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WISH-you-all-the-BEST-in">WISH you all the BEST in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#YOURS-FAITHfully">YOURS, FAITHfully</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#YOURS-with-LOVE">YOURS, with LOVE</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function sinCEREly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">i sinCEREly aPOLogize for my misTAKE.</li>
-        <li className="list-none margin-bottom-20">Tôi xin lỗi chân thành vì lỗi lầm của mình.</li>
+        <li value="1" id="aPOLogize-for">i sinCEREly [aPOLogize for] my misTAKE.</li>
+        <li className="list-none margin-bottom-20">Tôi [xin lỗi] chân thành [vì] lỗi lầm của mình.</li>
 
-        <li value="2" id=""> sinCEREly apPREciate your HELP.</li>
-        <li className="list-none margin-bottom-20">Tôi rất trân trọng sự giúp đỡ của bạn.</li>
+        <li value="2" id="apPREciate">i sinCEREly [apPREciate] your HELP.</li>
+        <li className="list-none margin-bottom-20">Tôi chân thành [cảm kích] sự giúp đỡ của bạn</li>
 
-        <li value="3" id="">i sinCEREly HOPE that everything GOES WELL for you.</li>
-        <li className="list-none margin-bottom-20">Tôi thật lòng hy vọng mọi việc sẽ diễn ra tốt đẹp với bạn.</li>
+        <li value="3" id="HOPE-that">i sinCEREly [HOPE that] everything GOES WELL for you.</li>
+        <li className="list-none margin-bottom-20">Tôi thật lòng [hy vọng rằng] mọi việc sẽ diễn ra tốt đẹp với bạn.</li>
 
-        <li value="4" id="">sinCEREly YOURS.</li>
+        <li value="4" id="YOURS">sinCEREly [YOURS].</li>
         <li className="list-none margin-bottom-20">Thân ái.</li>
 
-        <li value="5" id="">i sinCEREly beLIEVE in the POWer of LOVE.</li>
-        <li className="list-none margin-bottom-20">Tôi thật lòng tin vào sức mạnh của tình yêu.</li>
+        <li value="5" id="beLIEVE-in-the-POWer-of">i sinCEREly [beLIEVE in the POWer of] LOVE.</li>
+        <li className="list-none margin-bottom-20">Tôi thật lòng [tin vào sức mạnh của] tình yêu.</li>
 
-        <li value="6" id="">i sinCEREly reGRET NOT BEing ABle to atTEND your WEDding.</li>
-        <li className="list-none margin-bottom-20">Tôi thật lòng hối hận vì không thể tham dự đám cưới của bạn.</li>
+        <li value="6" id="reGRET-NOT-BEing-ABle-to-atTEND">i sinCEREly [reGRET NOT BEing ABle to atTEND] your WEDding.</li>
+        <li className="list-none margin-bottom-20">Tôi thật lòng [hối hận vì không thể tham dự] đám cưới của bạn.</li>
 
-        <li value="7" id="">i sinCEREly THANK you for your supPORT.</li>
-        <li className="list-none margin-bottom-20">Tôi muốn chân thành cảm ơn bạn vì sự ủng hộ của bạn.</li>
+        <li value="7" id="THANK-you-for">i sinCEREly [THANK you for] your supPORT.</li>
+        <li className="list-none margin-bottom-20">Tôi muốn chân thành [cảm ơn bạn vì] sự ủng hộ của bạn.</li>
 
-        <li value="8" id="">i sinCEREly WISH you all the BEST in your NEW JOB.</li>
-        <li className="list-none margin-bottom-20">Tôi chúc bạn thật lòng mọi điều tốt đẹp nhất trong công việc mới.</li>
+        <li value="8" id="WISH-you-all-the-BEST-in">i sinCEREly [WISH you all the BEST in] your NEW JOB.</li>
+        <li className="list-none margin-bottom-20">Tôi [chúc bạn] thật lòng [mọi điều tốt đẹp nhất trong] công việc mới.</li>
 
-        <li value="9" id="">sinCEREly YOURS, FAITHfully.</li>
-        <li className="list-none margin-bottom-20">Trân trọng, một cách trung thành.</li>
+        <li value="9" id="YOURS-FAITHfully">sinCEREly [YOURS, FAITHfully].</li>
+        <li className="list-none margin-bottom-20">Trân trọng, [một cách trung thành].</li>
 
-        <li value="10" id="">sinCEREly YOURS, with LOVE.</li>
-        <li className="list-none margin-bottom-20">Trân trọng, với tình yêu thương</li>
+        <li value="10" id="YOURS-with-LOVE">sinCEREly [YOURS, with LOVE].</li>
+        <li className="list-none margin-bottom-20">Trân trọng, [với tình yêu thương].</li>
 
       </ol>
 

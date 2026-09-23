@@ -30,43 +30,43 @@ export default function Openly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#disCUSSED-at">disCUSSED at</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#CRITicized-for">CRITicized for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#adMIred-for">adMIred for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#supPORTed-by">supPORTed by</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#QUESTioned-by">QUESTioned by</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#opPOSED-by">opPOSED by</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#exPRESSED-in">exPRESSED in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#acKNOWledged-by">acKNOWledged by</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#deFIED">deFIED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WELcomed-by">WELcomed by</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function Openly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the ISsue was Openly disCUSSED at the MEETing.</li>
-        <li className="list-none margin-bottom-20">Vấn đề này đã được thảo luận công khai tại cuộc họp.</li>
+        <li value="1" id="disCUSSED-at">the ISsue was Openly [disCUSSED at] the MEETing.</li>
+        <li className="list-none margin-bottom-20">Vấn đề này đã [được thảo luận] công khai [tại] cuộc họp.</li>
 
-        <li value="2" id="">the poliTICian was Openly CRITicized for his POLicies.</li>
-        <li className="list-none margin-bottom-20">Vị chính trị gia đã bị chỉ trích công khai vì các chính sách của ông ấy.</li>
+        <li value="2" id="CRITicized-for">the poliTICian was Openly [CRITicized for] his POLicies.</li>
+        <li className="list-none margin-bottom-20">Vị chính trị gia [đã bị chỉ trích] công khai [vì] các chính sách của ông ấy.</li>
 
-        <li value="3" id="">the ATHlete was Openly adMIred for his aCHIEVEments.</li>
-        <li className="list-none margin-bottom-20">Vận động viên này được ngưỡng mộ công khai vì những thành tích của anh ấy.</li>
+        <li value="3" id="adMIred-for">the ATHlete was Openly [adMIred for] his aCHIEVEments.</li>
+        <li className="list-none margin-bottom-20">Vận động viên này [được ngưỡng mộ] công khai [vì] những thành tích của anh ấy.</li>
 
-        <li value="4" id="">the CAUSE was Openly supPORTed by <strong>man</strong>y ceLEBrities.</li>
-        <li className="list-none margin-bottom-20">Nguyên nhân này đã được nhiều người nổi tiếng ủng hộ công khai.</li>
+        <li value="4" id="supPORTed-by">the CAUSE was Openly [supPORTed by] <strong>man</strong>y ceLEBrities.</li>
+        <li className="list-none margin-bottom-20">Nguyên nhân này đã [được ủng hộ bởi] nhiều người nổi tiếng công khai. (được nhiều người nổi tiếng ủng hộ công khai).</li>
 
-        <li value="5" id="">the THEORy was Openly QUESTioned by <strong>man</strong>y SCIentists.</li>
-        <li className="list-none margin-bottom-20">Thuyết này đã bị nhiều nhà khoa học đặt câu hỏi công khai.</li>
+        <li value="5" id="QUESTioned-by">the THEORy was Openly [QUESTioned by] <strong>man</strong>y SCIentists.</li>
+        <li className="list-none margin-bottom-20">Thuyết này đã [bị đặt câu hỏi bởi] nhiều nhà khoa học công khai. (bị nhiều nhà khoa học đặt câu hỏi công khai.)</li>
 
-        <li value="6" id="">the PLAN was Openly opPOSED by the LOcal RESidents.</li>
-        <li className="list-none margin-bottom-20">Kế hoạch này đã bị người dân địa phương phản đối công khai.</li>
+        <li value="6" id="opPOSED-by">the PLAN was Openly [opPOSED by] the LOcal RESidents.</li>
+        <li className="list-none margin-bottom-20">Kế hoạch này đã [bị phản đối bởi] người dân địa phương công khai.(bị người dân địa phương phản đối công khai).</li>
 
-        <li value="7" id="">their FEELings were Openly exPRESSED in the LETter.</li>
-        <li className="list-none margin-bottom-20">Cảm xúc của họ đã được bày tỏ công khai trong bức thư.</li>
+        <li value="7" id="exPRESSED-in">their FEELings were Openly [exPRESSED in] the LETter.</li>
+        <li className="list-none margin-bottom-20">Cảm xúc của họ đã [được bày tỏ] công khai [trong] bức thư.</li>
 
-        <li value="8" id="">his contriBUtions to the PROJect were Openly acKNOWledged by the TEAM.</li>
-        <li className="list-none margin-bottom-20">Những đóng góp của anh ấy cho dự án đã được nhóm công nhận công khai.</li>
+        <li value="8" id="acKNOWledged-by">his contriBUtions to the PROJect were Openly [acKNOWledged by] the TEAM.</li>
+        <li className="list-none margin-bottom-20">Những đóng góp của anh ấy cho dự án đã [được công nhận bởi] nhóm công khai. (được nhóm công nhận công khai.)</li>
 
-        <li value="9" id="">the proTESters Openly deFIEd the GOVernment's ORders.</li>
-        <li className="list-none margin-bottom-20">Những người biểu tình đã công khai thách thức lệnh của chính phủ.</li>
+        <li value="9" id="deFIED">the proTESters Openly [deFIED] the GOVernment's ORders.</li>
+        <li className="list-none margin-bottom-20">Những người [đã biểu tình] đã công khai thách thức lệnh của chính phủ.</li>
 
-        <li value="10" id="">the NEW iDEa was Openly WELcomed by the TEAM.</li>
-        <li className="list-none margin-bottom-20">Ý tưởng mới đã được đội ngũ nhiệt liệt chào đón.</li>
+        <li value="10" id="WELcomed-by">the NEW iDEa was Openly [WELcomed by] the TEAM.</li>
+        <li className="list-none margin-bottom-20">Ý tưởng mới đã [được chào đón bởi] đội ngũ nhiệt liệt. (được đội ngũ nhiệt liệt chào đón).</li>
 
       </ol>
 
