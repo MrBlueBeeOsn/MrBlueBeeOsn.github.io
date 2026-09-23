@@ -34,11 +34,11 @@ export default function RAPidly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#CHAnging">CHAnging</HashLink>
+            <HashLink smooth to="#CHAnging-due-to">CHAnging due to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#SPREADing">SPREADing</HashLink>
+            <HashLink smooth to="#SPREADing-throughout">SPREADing through<strong>out</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
@@ -54,7 +54,7 @@ export default function RAPidly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#exPANDing">exPANDing</HashLink>
+            <HashLink smooth to="#exPANDing-into">exPANDing <strong>in</strong>to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -62,11 +62,11 @@ export default function RAPidly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#acCELerated">acCELerated</HashLink>
+            <HashLink smooth to="#acCELerated-down">acCELerated down</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#disapPEARing">disapPEARing</HashLink>
+            <HashLink smooth to="#disapPEARing-due-to">disapPEARing due to</HashLink>
           </span> &nbsp;
 
         </p>
@@ -106,11 +106,11 @@ export default function RAPidly2(): React.JSX.Element {
         <li value="1" id="GROWing">the CITy's popuLAtion is RAPidly [GROWing].</li>
         <li className="list-none margin-bottom-20">Dân số thành phố đang tăng trưởng nhanh chóng.</li>
 
-        <li value="2" id="CHAnging">the WORLD is RAPidly [CHAnging] due to technoLOGical adVANCEments.</li>
-        <li className="list-none margin-bottom-20">Thế giới [đang thay đổi] nhanh chóng do sự phát triển của công nghệ.</li>
+        <li value="2" id="CHAnging-due-to">the WORLD is RAPidly [CHAnging due to] technoLOGical adVANCEments.</li>
+        <li className="list-none margin-bottom-20">Thế giới [đang thay đổi] nhanh chóng [do] sự phát triển của công nghệ.</li>
 
-        <li value="3" id="SPREADing">the disEASE is RAPidly [SPREADing] through<strong>out</strong> the COUNtry.</li>
-        <li className="list-none margin-bottom-20">Bệnh [đang lan rộng] nhanh chóng khắp cả nước.</li>
+        <li value="3" id="SPREADing-throughout">the disEASE is RAPidly [SPREADing through<strong>out</strong>] the COUNtry.</li>
+        <li className="list-none margin-bottom-20">Bệnh [đang lan rộng] nhanh chóng [khắp] cả nước.</li>
 
         <li value="4" id="deCLIning">the NUMber of enDANgered SPEcies is RAPidly [deCLIning].</li>
         <li className="list-none margin-bottom-20">Số lượng các loài động vật có nguy cơ tuyệt chủng [đang giảm] nhanh chóng.</li>
@@ -121,17 +121,17 @@ export default function RAPidly2(): React.JSX.Element {
         <li value="6" id="apPROACHing">the DEADline is RAPidly [apPROACHing].</li>
         <li className="list-none margin-bottom-20">Hạn chót [đang đến] gần.</li>
 
-        <li value="7" id="exPANDing">the COMpany is RAPidly [exPANDing] into NEW MARkets.</li>
-        <li className="list-none margin-bottom-20">Công ty [đang mở rộng] nhanh chóng vào các thị trường mới.</li>
+        <li value="7" id="exPANDing-into">the COMpany is RAPidly [exPANDing <strong>in</strong>to] NEW MARkets.</li>
+        <li className="list-none margin-bottom-20">Công ty [đang mở rộng] nhanh chóng [vào] các thị trường mới.</li>
 
         <li value="8" id="deTEriorating">the OLD BUILDing is RAPidly [deTEriorating].</li>
         <li className="list-none margin-bottom-20">Tòa nhà cũ [đang xuống cấp] nhanh chóng.</li>
 
-        <li value="9" id="acCELerated">the CAR RAPidly [acCELerated] down the HIGHway.</li>
-        <li className="list-none margin-bottom-20">Chiếc xe [tăng tốc] nhanh chóng trên đường cao tốc.</li>
+        <li value="9" id="acCELerated-down">the CAR RAPidly [acCELerated down] the HIGHway.</li>
+        <li className="list-none margin-bottom-20">Chiếc xe [tăng tốc] nhanh chóng [xuống] đường cao tốc.</li>
 
-        <li value="10" id="disapPEARing">the RAINforest is RAPidly [disapPEARing] due to deforesTAtion.</li>
-        <li className="list-none margin-bottom-20">Rừng nhiệt đới [đang biến mất] nhanh chóng do nạn phá rừng.</li>
+        <li value="10" id="disapPEARing-due-to">the RAINforest is RAPidly [disapPEARing due to] deforesTAtion.</li>
+        <li className="list-none margin-bottom-20">Rừng nhiệt đới [đang biến mất] nhanh chóng [do] nạn phá rừng.</li>
 
       </ol>
 

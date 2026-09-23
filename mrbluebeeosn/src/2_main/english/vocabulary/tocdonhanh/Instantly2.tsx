@@ -30,7 +30,7 @@ export default function INstantly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#RECognizable">RECognizable</HashLink>
+            <HashLink smooth to="#RECognizable-around">RECognizable a<strong>round</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -50,7 +50,7 @@ export default function INstantly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#reLIEVED">reLIEVED</HashLink>
+            <HashLink smooth to="#reLIEVED-when">reLIEVED when</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
@@ -66,7 +66,7 @@ export default function INstantly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#conNECTed">conNECTed</HashLink>
+            <HashLink smooth to="#conNECTed-when">conNECTed when</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,8 +103,8 @@ export default function INstantly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="RECognizable">the EIffel TOWer is INstantly [RECognizable] around the WORLD.</li>
-        <li className="list-none margin-bottom-20">Tháp Eiffel dễ nhận biết ngay lập tức trên toàn thế giới.</li>
+        <li value="1" id="RECognizable-around">the EIffel TOWer is INstantly [RECognizable a<strong>round</strong>] the WORLD.</li>
+        <li className="list-none margin-bottom-20">Tháp Eiffel [dễ nhận biết] ngay lập tức [trên] toàn thế giới.</li>
 
         <li value="2" id="adDICTive">THIS GAME is so much FUN, it's INstantly [adDICTive].</li>
         <li className="list-none margin-bottom-20">Trò chơi này rất vui, nó [gây nghiện] ngay lập tức.</li>
@@ -118,8 +118,8 @@ export default function INstantly2(): React.JSX.Element {
         <li value="5" id="reGRETful">as <strong>soon</strong> as i SAID it, i FELT INstantly [reGRETful].</li>
         <li className="list-none margin-bottom-20">Ngay khi tôi nói ra điều đó, tôi đã cảm thấy [hối hận] ngay lập tức.</li>
 
-        <li value="6" id="reLIEVED">i FELT INstantly [reLIEVED] when i HEARD the GOOD NEWS.</li>
-        <li className="list-none margin-bottom-20">Tôi cảm thấy [nhẹ nhõm] ngay lập tức khi nghe tin tốt lành.</li>
+        <li value="6" id="reLIEVED-when">i FELT INstantly [reLIEVED when] i HEARD the GOOD NEWS.</li>
+        <li className="list-none margin-bottom-20">Tôi cảm thấy [nhẹ nhõm] ngay lập tức [khi] nghe tin tốt lành.</li>
 
         <li value="7" id="FAmous">the VIdeo WENT VIral and she beCAME INstantly [FAmous].</li>
         <li className="list-none margin-bottom-20">Video trở nên lan truyền và cô ấy trở nên [nổi tiếng] ngay lập tức.</li>
@@ -130,8 +130,8 @@ export default function INstantly2(): React.JSX.Element {
         <li value="9" id="forGOTten">as <strong>soon</strong> as i LEFT the ROOM, his NAME was INstantly [forGOTten].</li>
         <li className="list-none margin-bottom-20">Ngay khi tôi rời khỏi phòng, tôi [đã quên] tên anh ấy ngay lập tức.</li>
 
-        <li value="10" id="conNECTed">we INstantly [conNECTed] when we FIRST MET.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi [đã kết nối] ngay lập tức khi gặp nhau lần đầu.</li>
+        <li value="10" id="conNECTed-when">we INstantly [conNECTed when] we FIRST MET.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi [đã kết nối] ngay lập tức [khi] gặp nhau lần đầu.</li>
 
       </ol>
 

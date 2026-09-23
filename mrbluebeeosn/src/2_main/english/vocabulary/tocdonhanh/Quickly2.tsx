@@ -34,7 +34,7 @@ export default function QUICKly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#FAded">FAded</HashLink>
+            <HashLink smooth to="#FAded-behind">FAded be<strong>hind</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -50,7 +50,7 @@ export default function QUICKly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#SPREAD">SPREAD</HashLink>
+            <HashLink smooth to="#SPREAD-throughout">SPREAD through<strong>out</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
@@ -62,11 +62,11 @@ export default function QUICKly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#beCAME">beCAME</HashLink>
+            <HashLink smooth to="#beCAME-with">beCAME ... with</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#EATen">EATen</HashLink>
+            <HashLink smooth to="#EATen-by">EATen by</HashLink>
           </span> &nbsp;
 
         </p>
@@ -106,32 +106,32 @@ export default function QUICKly2(): React.JSX.Element {
         <li value="1" id="GROWing-and-exPANDing">the CIty is QUICKly [GROWing and exPANDing].</li>
         <li className="list-none margin-bottom-20">Thành phố [đang phát triển và mở rộng] rất nhanh.</li>
 
-        <li value="2" id="FAded">the SUN QUICKly [FAded] be<strong>hind</strong> the CLOUDS.</li>
-        <li className="list-none margin-bottom-20">Mặt trời nhanh chóng [biến mất] sau những đám mây.</li>
+        <li value="2" id="FAded-behind">the SUN QUICKly [FAded] be<strong>hind</strong>] the CLOUDS.</li>
+        <li className="list-none margin-bottom-20">Mặt trời nhanh chóng đã [biến mất sau] những đám mây.</li>
 
         <li value="3" id="CHAnging">the FASHion INdustry is QUICKly [CHAnging].</li>
         <li className="list-none margin-bottom-20">Ngành công nghiệp thời trang [đang thay đổi] rất nhanh.</li>
 
         <li value="4" id="REalized">i QUICKly [REalized] my misTAKE.</li>
-        <li className="list-none margin-bottom-20">Tôi nhanh chóng [nhận ra] lỗi lầm của mình.</li>
+        <li className="list-none margin-bottom-20">Tôi nhanh chóng [đã nhận ra] lỗi lầm của mình.</li>
 
         <li value="5" id="forGOTten">the INcident was QUICKly [forGOTten].</li>
-        <li className="list-none margin-bottom-20">Vụ việc đó nhanh chóng [bị lãng quên].</li>
+        <li className="list-none margin-bottom-20">Vụ việc đó nhanh chóng đã [bị lãng quên].</li>
 
-        <li value="6" id="SPREAD">the RUmor QUICKly [SPREAD] through<strong>out</strong> the SCHOOL.</li>
-        <li className="list-none margin-bottom-20">Tin đồn nhanh chóng [lan truyền] khắp trường học.</li>
+        <li value="6" id="SPREAD-throughout">the RUmor QUICKly [SPREAD through<strong>out</strong>] the SCHOOL.</li>
+        <li className="list-none margin-bottom-20">Tin đồn nhanh chóng [đã lan truyền khắp] trường học.</li>
 
         <li value="7" id="SOLVED">the PROBlem was QUICKly [SOLVED].</li>
         <li className="list-none margin-bottom-20">Vấn đề đã [được giải quyết] nhanh chóng.</li>
 
         <li value="8" id="TIred"><strong>af</strong>ter a LONG DAY, i was QUICKly [TIred].</li>
-        <li className="list-none margin-bottom-20">Sau một ngày dài, tôi nhanh chóng [cảm thấy mệt mỏi].</li>
+        <li className="list-none margin-bottom-20">Sau một ngày dài, tôi nhanh chóng [đã cảm thấy mệt mỏi].</li>
 
-        <li value="9" id="beCAME">she QUICKly [beCAME] BORED with the MOvie.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nhanh chóng [cảm thấy] chán bộ phim.</li>
+        <li value="9" id="beCAME-with">she QUICKly [beCAME] BORED [with] the MOvie.</li>
+        <li className="list-none margin-bottom-20">Cô ấy nhanh chóng [đã cảm thấy] chán [với] bộ phim.</li>
 
-        <li value="10" id="EATen">the CAKE was QUICKly [EATen] by the CHILDren.</li>
-        <li className="list-none margin-bottom-20">Cái bánh nhanh chóng [bị] bọn trẻ [ăn hết].</li>
+        <li value="10" id="EATen-by">the CAKE was QUICKly [EATen by] the CHILDren.</li>
+        <li className="list-none margin-bottom-20">Cái bánh nhanh chóng đã [bị ăn hết bởi] bọn trẻ. (đã bị bọn trẻ ăn hết).</li>
 
       </ol>
 
