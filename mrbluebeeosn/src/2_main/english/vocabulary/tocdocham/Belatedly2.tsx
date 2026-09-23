@@ -34,11 +34,11 @@ export default function beLAtedly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#aPOLogized">aPOLogized</HashLink>
+            <HashLink smooth to="#aPOLogized-for">aPOLogized for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#arRIVED">arRIVED</HashLink>
+            <HashLink smooth to="#arRIVED-at">arRIVED at</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
@@ -46,7 +46,7 @@ export default function beLAtedly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#reSPONDed">reSPONDed</HashLink>
+            <HashLink smooth to="#reSPONDed-to">reSPONDed to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -66,7 +66,7 @@ export default function beLAtedly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#OFfered">OFfered</HashLink>
+            <HashLink smooth to="#OFfered-to">OFfered ... to</HashLink>
           </span> &nbsp;
 
         </p>
@@ -106,16 +106,16 @@ export default function beLAtedly2(): React.JSX.Element {
         <li value="1" id="REalized">he beLAtedly [REalized] he had forGOTten his WALlet.</li>
         <li className="list-none margin-bottom-20">Anh ấy muộn màng [nhận ra] mình đã quên ví.</li>
 
-        <li value="2" id="aPOLogized">she beLAtedly [aPOLogized] for her RUDE beHAVior.</li>
-        <li className="list-none margin-bottom-20">Cô ấy muộn màng [xin lỗi] vì hành vi thô lỗ của mình.</li>
+        <li value="2" id="aPOLogized-for">she beLAtedly [aPOLogized for] her RUDE beHAVior.</li>
+        <li className="list-none margin-bottom-20">Cô ấy muộn màng [xin lỗi vì] hành vi thô lỗ của mình.</li>
 
-        <li value="3" id="arRIVED">they beLAtedly [arRIVED] at the MEEting due to TRAFfic.</li>
+        <li value="3" id="arRIVED-at">they beLAtedly [arRIVED at] the MEEting due to TRAFfic.</li>
         <li className="list-none margin-bottom-20">Họ [đến] cuộc họp một cách muộn màng do tắc đường.</li>
 
         <li value="4" id="SENT">he beLAtedly [SENT] the BIRTHday CARD, WEEKS <strong>af</strong>ter the ACtual DATE.</li>
         <li className="list-none margin-bottom-20">Anh ấy [gửi] thiệp sinh nhật một cách muộn màng, vài tuần sau ngày sinh nhật thật.</li>
 
-        <li value="5" id="reSPONDed">she beLAtedly [reSPONDed] to his EMail <strong>af</strong>ter a LONG deLAY.</li>
+        <li value="5" id="reSPONDed-to">she beLAtedly [reSPONDed to] his EMail <strong>af</strong>ter a LONG deLAY.</li>
         <li className="list-none margin-bottom-20">Cô ấy [trả lời] email của anh ấy một cách muộn màng sau một thời gian dài trì hoãn.</li>
 
         <li value="6" id="conGRATulated">they beLAtedly [conGRATulated] the NEW PArents on the BIRTH of their BAby.</li>
@@ -130,8 +130,8 @@ export default function beLAtedly2(): React.JSX.Element {
         <li value="9" id="underSTOOD">he beLAtedly [underSTOOD] the MEANing of her CRYPtic MESsage.</li>
         <li className="list-none margin-bottom-20">Anh ấy muộn màng [hiểu ra] ý nghĩa của tin nhắn khó hiểu của cô ấy.</li>
 
-        <li value="10" id="OFfered">the COMpany beLAtedly [OFfered] compenSAtion to the afFECted CUStomers.</li>
-        <li className="list-none margin-bottom-20">Công ty muộn màng [đề nghị] bồi thường cho những khách hàng bị ảnh hưởng.</li>
+        <li value="10" id="OFfered-to">the COMpany beLAtedly [OFfered] compenSAtion [to] the afFECted CUStomers.</li>
+        <li className="list-none margin-bottom-20">Công ty muộn màng [đề nghị] bồi thường [cho] những khách hàng bị ảnh hưởng.</li>
 
       </ol>
 
