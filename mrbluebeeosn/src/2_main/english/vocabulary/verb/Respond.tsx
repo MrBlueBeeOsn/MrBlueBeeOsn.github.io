@@ -334,18 +334,18 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN NGUYÊN ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>] <strong>bổ nghĩa</strong> [<strong>PLACEholder SUBject</strong>][<strong>GIỮ CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN NGUYÊN ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4e:</p>
       
         <ul className="list-square">
       
-          <li>it is esSENtial [to reSPOND QUICKly to CUStomer comPLAINts].</li>
-          <li className="margin-bottom-20 list-none">Việc [phản hồi nhanh chóng các khiếu nại của khách hàng] là điều thiết yếu.</li>
+          <li>[it] is esSENtial [to reSPOND QUICKly to CUStomer comPLAINts].</li>
+          <li className="margin-bottom-20 list-none">Điều thiết yếu là việc [phản hồi nhanh chóng các khiếu nại của khách hàng].</li>
       
           <li className="list-none">Hình thái: [to reSPOND QUICKly to CUStomer comPLAINts] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] phát triển từ cụm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [to reSPOND QUICKly to CUStomer comPLAINts] - [NOUN PHRASE][DANH CỤM] đảm nhận vai trò làm [SUBject PROnoun][CHỦ ĐẠI] bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is esSENtial".</li>
+          <li className="list-none">Chức năng: [to reSPOND QUICKly to CUStomer comPLAINts] - [NOUN PHRASE][DANH CỤM] đảm nhận vai trò làm [SUBject PROnoun][CHỦ ĐẠI] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is esSENtial".</li>
       
         </ul>
 
@@ -810,14 +810,14 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>] <strong>bổ nghĩa</strong> [<strong>PLACEholder SUBject</strong>][<strong>GIỮ CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12e:</p>
       
         <ul className="list-square">
       
-          <li>it reQUIres experTISE [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}].</li>
-          <li className="margin-bottom-20 list-none">Nó đòi hỏi chuyên môn [để đánh giá {'{cách ứng dụng phản hồi đối với lưu lượng truy cập cao}'}].</li>
+          <li>[it] reQUIres experTISE [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}].</li>
+          <li className="margin-bottom-20 list-none">Đòi hỏi chuyên môn [để đánh giá {'{cách ứng dụng phản hồi đối với lưu lượng truy cập cao}'}].</li>
       
         </ul>
 
@@ -827,7 +827,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to eVALuate" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [SUBject PROnoun][CHỦ ĐẠI] bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres experTISE".</li>
+          <li className="list-none">Chức năng: [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [SUBject PROnoun][CHỦ ĐẠI] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres experTISE".</li>
       
         </ul>
 

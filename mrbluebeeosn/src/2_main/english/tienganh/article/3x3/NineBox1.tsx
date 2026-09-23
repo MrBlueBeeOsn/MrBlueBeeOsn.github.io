@@ -373,12 +373,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>it TAKES a LOT of TIME [to enCRYPT the SYStem communiCAtion].</li>
-					<li className="margin-bottom-20 list-none">Nó tốn rất nhiều thời gian [để mã hóa truyền thông hệ thống].</li>
+					<li>[it] TAKES a LOT of TIME [to enCRYPT the SYStem communiCAtion].</li>
+					<li className="margin-bottom-20 list-none">Tốn rất nhiều thời gian [để mã hóa truyền thông hệ thống].</li>
 			
 					<li className="list-none">Hình thái: [to enCRYPT the SYStem communiCAtion] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] hình thành từ sự kết hợp giữa hạt nhân [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to enCRYPT" và mở rộng hành động phía sau.</li>
 			
-					<li className="list-none">Chức năng: [to enCRYPT the SYStem communiCAtion] – [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "TAKES a LOT of TIME" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: [to enCRYPT the SYStem communiCAtion] – [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "TAKES a LOT of TIME" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 
@@ -586,8 +586,8 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>it reQUIres DEEP TECHnical KNOWledge [to underSTAND {'{how the DAtabase HANdles the WORKload}'}].</li>
-					<li className="margin-bottom-20 list-none">Nó yêu cầu kiến thức kỹ thuật chuyên sâu [để hiểu {'{cách cơ sở dữ liệu xử lý khối lượng công việc}'}].</li>
+					<li>[it] reQUIres DEEP TECHnical KNOWledge [to underSTAND {'{how the DAtabase HANdles the WORKload}'}].</li>
+					<li className="margin-bottom-20 list-none">Yêu cầu kiến thức kỹ thuật chuyên sâu [để hiểu {'{cách cơ sở dữ liệu xử lý khối lượng công việc}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
 
@@ -599,7 +599,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối {'{how the DAtabase HANdles the WORKload}'} bên trong đóng vai trò làm [NOUN CLAUSE][DANH CÂU] làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối hành động trực tiếp từ [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to underSTAND".</li>
 
-					<li className="list-none">Và toàn bộ khối tổng thể [to underSTAND {'{how the DAtabase HANdles the WORKload}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres DEEP TECHnical KNOWledge" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It" chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Và toàn bộ khối tổng thể [to underSTAND {'{how the DAtabase HANdles the WORKload}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres DEEP TECHnical KNOWledge" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 

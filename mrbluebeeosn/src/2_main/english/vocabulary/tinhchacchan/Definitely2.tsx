@@ -30,43 +30,43 @@ export default function DEFinitely2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#NOT-GOing-to">NOT GOing to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#will-be-THERE-on-TIME">will be THERE on TIME</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#the-BEST-PIZza-i've">the BEST PIZza i've</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#NEED">NEED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WORTH-it-WATChing">WORTH it WATChing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#KNOW-to">KNOW ... to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#recomMEND">recomMEND</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#aGREE-with">aGREE with</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#NOT-TRUE">NOT TRUE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#the-BEST-CHOICE">the BEST CHOICE</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function DEFinitely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">i DEFinitely NOT GOing to that PARTy.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ không đi bữa tiệc đó.</li>
+        <li value="1" id="NOT-GOing-to">i DEFinitely [NOT GOing to] that PARTy.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn [sẽ không đi] bữa tiệc đó.</li>
 
-        <li value="2" id="">i DEFinitely will be THERE on TIME.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ đến đúng giờ.</li>
+        <li value="2" id="will-be-THERE-on-TIME">i DEFinitely [will be THERE on TIME].</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn [sẽ đến đúng giờ].</li>
 
-        <li value="3" id="">THIS is DEFinitely the BEST PIZza i've EVer had.</li>
-        <li className="list-none margin-bottom-20">Đây chắc chắn là pizza ngon nhất mà tôi từng ăn.</li>
+        <li value="3" id="the-BEST-PIZza-i've">THIS is DEFinitely [the BEST PIZza i've] EVer had.</li>
+        <li className="list-none margin-bottom-20">Đây chắc chắn là [PIZza ngon nhất mà tôi] từng ăn.</li>
 
-        <li value="4" id="">i DEFinitely NEED a vaCAtion.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn cần một kỳ nghỉ.</li>
+        <li value="4" id="NEED">i DEFinitely [NEED] a vaCAtion.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn [cần] một kỳ nghỉ.</li>
 
-        <li value="5" id="">the MOvie was DEFinitely WORTH it WATChing.</li>
-        <li className="list-none margin-bottom-20">Bộ phim đó chắc chắn đáng xem.</li>
+        <li value="5" id="WORTH-it-WATChing">the MOvie was DEFinitely [WORTH it WATChing].</li>
+        <li className="list-none margin-bottom-20">Bộ phim đó chắc chắn [đáng xem].</li>
 
-        <li value="6" id="">i DEFinitely KNOW the ANswer to that QUESTion.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn biết câu trả lời cho câu hỏi đó.</li>
+        <li value="6" id="KNOW-to">i DEFinitely [KNOW] the ANswer [to] that QUESTion.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn [biết] câu trả lời [cho] câu hỏi đó.</li>
 
-        <li value="7" id="">i DEFinitely recomMEND this REStaurant.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn đề xuất nhà hàng này.</li>
+        <li value="7" id="recomMEND">i DEFinitely [recomMEND] this REStaurant.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn [đề xuất] nhà hàng này.</li>
 
-        <li value="8" id="">i DEFinitely aGREE with you.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn đồng ý với bạn.</li>
+        <li value="8" id="aGREE-with">i DEFinitely [aGREE with] you.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn [đồng ý với] bạn.</li>
 
-        <li value="9" id="">that STOry is DEFinitely NOT TRUE.</li>
-        <li className="list-none margin-bottom-20">Câu chuyện đó chắc chắn không đúng.</li>
+        <li value="9" id="NOT-TRUE">that STOry is DEFinitely [NOT TRUE].</li>
+        <li className="list-none margin-bottom-20">Câu chuyện đó chắc chắn [không đúng].</li>
 
-        <li value="10" id="">BUYing this HOUSE is DEFinitely the BEST CHOICE.</li>
-        <li className="list-none margin-bottom-20">Mua căn nhà này chắc chắn là lựa chọn tốt nhất.</li>
+        <li value="10" id="the-BEST-CHOICE">BUYing this HOUSE is DEFinitely [the BEST CHOICE].</li>
+        <li className="list-none margin-bottom-20">Mua căn nhà này chắc chắn là [lựa chọn tốt nhất].</li>
 
       </ol>
 

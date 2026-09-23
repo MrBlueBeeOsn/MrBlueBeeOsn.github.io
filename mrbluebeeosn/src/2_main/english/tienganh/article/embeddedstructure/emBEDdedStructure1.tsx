@@ -390,12 +390,12 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>it reQUIres creaTIVity [to deSIGN the INterface].</li>
-					<li className="margin-bottom-20 list-none">Nó đòi hỏi sự sáng tạo [để thiết kế giao diện].</li>
+					<li>[it] reQUIres creaTIVity [to deSIGN the INterface].</li>
+					<li className="margin-bottom-20 list-none">Đòi hỏi sự sáng tạo [để thiết kế giao diện].</li>
 
 					<li className="list-none">Hình thái: [to deSIGN the INterface] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to deSIGN" kéo dài cho đến hết đối tượng của nó.</li>
 
-					<li className="list-none">Chức năng: [to deSIGN the INterface] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres creaTIVity" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
+					<li className="list-none">Chức năng: [to deSIGN the INterface] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres creaTIVity" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
 			
 				</ul>
 			
@@ -488,8 +488,8 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>it is URgent [to exPLAIN {'{how we deSIGN this PLATform}'}].</li>
-					<li className="margin-bottom-20 list-none">Nó thì khẩn cấp [để giải thích {'{cách mà chúng tôi thiết kế nền tảng này}'}].</li>
+					<li>[it] is URgent [to exPLAIN {'{how we deSIGN this PLATform}'}].</li>
+					<li className="margin-bottom-20 list-none">Điều khẩn cấp là [việc giải thích {'{cách mà chúng tôi thiết kế nền tảng này}'}].</li>
 			
 				</ul>
 			
@@ -499,7 +499,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				
 						<li className="list-none">Hình thái: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to exPLAIN" và kéo theo khối CLAUSE con bên trong.</li>
 
-						<li className="list-none">Chức năng: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is URgent" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
+						<li className="list-none">Chức năng: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is URgent" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
 				
 					</ul>
 

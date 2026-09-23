@@ -30,43 +30,43 @@ export default function ABsolutely2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#CERtain-that">CERtain that</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#NECessary-to-HAVE">NECessary to HAVE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#RIGHT-about">RIGHT a<strong>bout</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LOVE">LOVE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HATE">HATE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#BEAUtiful">BEAUtiful</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#PERfect">PERfect</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TRUE">TRUE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#conVINCED-that">conVINCED that</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#exHAUSTed">exHAUSTed</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function ABsolutely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">i am ABsolutely CERtain that he will WIN the RACE.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn chắc chắn rằng anh ấy sẽ thắng cuộc đua.</li>
+        <li value="1" id="CERtain-that">i am ABsolutely [CERtain that] he will WIN the RACE.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn [chắc chắn rằng] anh ấy sẽ thắng cuộc đua.</li>
 
-        <li value="2" id="">it is ABsolutely NECessary to HAVE a PASSport to TRAVel abROAD.</li>
-        <li className="list-none margin-bottom-20">Cần phải có hộ chiếu để đi du lịch nước ngoài là điều hoàn toàn cần thiết.</li>
+        <li value="2" id="NECessary-to-HAVE">it is ABsolutely [NECessary to HAVE] a PASSport to TRAVel abROAD.</li>
+        <li className="list-none margin-bottom-20">Tuyệt đối [cần phải có] hộ chiếu để đi du lịch nước ngoài.</li>
 
-        <li value="3" id="">you are ABsolutely RIGHT a<strong>bout</strong> that.</li>
-        <li className="list-none margin-bottom-20">Bạn hoàn toàn đúng về điều đó.</li>
+        <li value="3" id="RIGHT-about">you are ABsolutely [RIGHT a<strong>bout</strong>] that.</li>
+        <li className="list-none margin-bottom-20">Bạn hoàn toàn [đúng về] điều đó.</li>
 
-        <li value="4" id="">i ABsolutely LOVE CHOCOLate ICE CREAM.</li>
-        <li className="list-none margin-bottom-20">Tôi rất thích kem sô cô la.</li>
+        <li value="4" id="LOVE">i ABsolutely [LOVE] CHOCOLate ICE CREAM.</li>
+        <li className="list-none margin-bottom-20">Tôi cực kỳ [thích] kem sô cô la.</li>
 
-        <li value="5" id="">i ABsolutely HATE SPIders.</li>
-        <li className="list-none margin-bottom-20">Tôi ghét rắn độc.</li>
+        <li value="5" id="HATE">i ABsolutely [HATE] SPIders.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn [ghét] nhện.</li>
 
-        <li value="6" id="">he SUNset was ABsolutely BEAUtiful.</li>
-        <li className="list-none margin-bottom-20">Hoàng hôn thật đẹp.</li>
+        <li value="6" id="BEAUtiful">he SUNset was ABsolutely [BEAUtiful].</li>
+        <li className="list-none margin-bottom-20">Hoàng hôn thật [đẹp].</li>
 
-        <li value="7" id="">the CAKE was ABsolutely PERfect.</li>
-        <li className="list-none margin-bottom-20">Chiếc bánh thật hoàn hảo.</li>
+        <li value="7" id="PERfect">the CAKE was ABsolutely [PERfect].</li>
+        <li className="list-none margin-bottom-20">Chiếc bánh thật [hoàn hảo].</li>
 
-        <li value="8" id="">what he SAID was ABsolutely TRUE.</li>
-        <li className="list-none margin-bottom-20">Những gì anh ấy nói hoàn toàn đúng sự thật.</li>
+        <li value="8" id="TRUE">what he SAID was ABsolutely [TRUE].</li>
+        <li className="list-none margin-bottom-20">Những gì anh ấy nói hoàn toàn [đúng sự thật].</li>
 
-        <li value="9" id="">i am ABsolutely conVINCED that she is INnocent.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn tin rằng cô ấy vô tội.</li>
+        <li value="9" id="conVINCED-that">i am ABsolutely [conVINCED that] she is INnocent.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn [tin rằng] cô ấy vô tội.</li>
 
-        <li value="10" id=""><strong>af</strong>ter the MARathon, i was ABsolutely exHAUSTed.</li>
-        <li className="list-none margin-bottom-20">Sau cuộc đua marathon, tôi mệt mỏi rã rời.</li>
+        <li value="10" id="exHAUSTed"><strong>af</strong>ter the MARathon, i was ABsolutely [exHAUSTed].</li>
+        <li className="list-none margin-bottom-20">Sau cuộc đua marathon, tôi đã [mệt mỏi rã rời].</li>
 
       </ol>
 
