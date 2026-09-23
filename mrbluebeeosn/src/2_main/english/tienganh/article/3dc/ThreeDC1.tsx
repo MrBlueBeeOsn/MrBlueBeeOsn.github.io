@@ -821,7 +821,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối  [how he could BYpass the seCUrity FIREwall] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "HOW" lồng khối chủ vị hoàn chỉnh có [SOFT MOdal and BARE inFINitive VERB][Ý THÁI và THUẦN NGUYÊN ĐỘNG] "could".</li>
 			
-					<li className="list-none">Chức năng: Khối  [how he could BYpass the seCUrity FIREwall] - [NOUN CLAUSE][DANH CÂU] làm khối [OBject PROnoun][TÂN ĐẠI] nhận tác động trực tiếp của hành động "disCOVered".</li>
+					<li className="list-none">Chức năng: Khối  [how he could BYpass the seCUrity FIREwall] - [NOUN CLAUSE][DANH CÂU] làm khối [OBject PROnoun][TÂN ĐẠI] nhận tác động trực tiếp của [VERB HEAD][ĐỘNG LÕI] "disCOVered".</li>
 			
 				</ul>
 			
@@ -837,7 +837,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối  [how to BYpass the seCUrity FIREwall] - [Liên Cụm][Conjunctional Phrase] bắt đầu bằng biểu hiện nghi vấn [conJUNCtion][LIÊN] "HOW" dẫn dắt trực tiếp một cấu trúc hành động dạng "to + bare verb".</li>
 			
-					<li className="list-none">Chức năng: Khối  [how to BYpass the seCUrity FIREwall] - [NOUN PHRASE][DANH CỤM] làm khối [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối của hành động "disCOVered".</li>
+					<li className="list-none">Chức năng: Khối  [how to BYpass the seCUrity FIREwall] - [NOUN PHRASE][DANH CỤM] làm khối [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối của [VERB HEAD][ĐỘNG LÕI] "disCOVered".</li>
 			
 				</ul>
 
@@ -899,7 +899,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SYStem MONitors [where the SIGnal PEAKS].</li>
 					<li className="margin-bottom-20">the SYStem MONitors [SOMEthing].</li>
 			
-					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] đáp ứng chức năng [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] đóng vai trò làm [OBject HEAD][TÂN LÕI] trực tiếp đứng sau hành động "MONitors".</li>
+					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] đáp ứng chức năng [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] đóng vai trò làm [OBject HEAD][TÂN LÕI] trực tiếp đứng sau [VERB HEAD][ĐỘNG LÕI] "MONitors".</li>
 			
 				</ul>
 

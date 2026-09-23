@@ -345,7 +345,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [LAUNCHing] — [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] giữ hình thái hành động dạng "-ing" ở cấp độ [HEAD][LÕI] đơn lẻ đứng phía sau một hành động [BASE VERB][NỀN ĐỘNG] "deLAY".</li>
 
-					<li className="list-none">Chức năng: [LAUNCHing] — [OBject HEAD][TÂN LÕI] đóng vai trò làm khối [OBject PROnoun][TÂN ĐẠI] tiếp nhận trực tiếp sự tác động từ hành động "deLAY".</li>
+					<li className="list-none">Chức năng: [LAUNCHing] — [OBject HEAD][TÂN LÕI] đóng vai trò làm khối [OBject PROnoun][TÂN ĐẠI] tiếp nhận trực tiếp sự tác động từ [VERB HEAD][ĐỘNG LÕI] "deLAY".</li>
 			
 				</ul>
 			
@@ -375,7 +375,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [exPRESsively] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "exPRESS" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính chất bổ trợ trạng thái.</li>
 
-					<li className="list-none">Chức năng: [exPRESsively] - [ADverb HEAD][TRẠNG LÕI] thực thi vai trò bổ nghĩa đứng ngay sau hành động "exPLAINED" để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
+					<li className="list-none">Chức năng: [exPRESsively] - [ADverb HEAD][TRẠNG LÕI] thực thi vai trò bổ nghĩa đứng ngay sau [VERB HEAD][ĐỘNG LÕI] "exPLAINED" để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
 			
 				</ul>
 			
@@ -594,7 +594,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				
 						<li className="list-none">Hình thái: [at {'{where they BUILD the SOFTware}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng [prepoSITion][GIỚI] at.</li>
 
-						<li className="list-none">Chức năng: [at {'{where they BUILD the SOFTware}'}] - [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho hành động "arRIVED".</li>
+						<li className="list-none">Chức năng: [at {'{where they BUILD the SOFTware}'}] - [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho [VERB HEAD][ĐỘNG LÕI] "arRIVED".</li>
 				
 					</ul>
 
@@ -628,7 +628,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:  [HOW they BUILD the SYStem] - [conJUNCtional CLAUSE][LIÊN CÂU] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [conJUNCtion][LIÊN] kết nối HOW, có chủ thể "they" và [BASE VERB][NỀN ĐỘNG] BUILD.</li>
 
-					<li className="list-none">Chức năng:  [HOW they BUILD the SYStem] - [NOUN CLAUSE][DANH CÂU] đảm nhận nhiệm vụ làm khối [SUBject PROnoun][CHỦ ĐẠI] ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho hành động "deTERmines".</li>
+					<li className="list-none">Chức năng:  [HOW they BUILD the SYStem] - [NOUN CLAUSE][DANH CÂU] đảm nhận nhiệm vụ làm khối [SUBject PROnoun][CHỦ ĐẠI] ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho [VERB HEAD][ĐỘNG LÕI] "deTERmines".</li>
 			
 				</ul>
 

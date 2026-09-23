@@ -278,7 +278,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [CLEARly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "CLEAR" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
       
-          <li className="list-none">Chức năng: [CLEARly] - [ADverb HEAD][TRẠNG LÕI] thực thi vai trò làm thành phần bổ nghĩa đứng sau hành động "exPLAINED" để xác định bối cảnh cách thức.</li>
+          <li className="list-none">Chức năng: [CLEARly] - [ADverb HEAD][TRẠNG LÕI] thực thi vai trò làm thành phần bổ nghĩa đứng sau [VERB HEAD][ĐỘNG LÕI] "exPLAINED" để xác định bối cảnh cách thức.</li>
       
         </ul>
 
@@ -413,7 +413,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to CLEAR CACHE FILES] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] định hình dưới dạng một vùng mã hành động đứng cuối chuỗi thông tin, bắt đầu bằng [PARTicle VERB][HẠT ĐỘNG] nguyên bản có "to".</li>
       
-          <li className="list-none">Chức năng: [to CLEAR CACHE FILES] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho hành động "RAN the SOFTware".</li>
+          <li className="list-none">Chức năng: [to CLEAR CACHE FILES] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho [VERB HEAD][ĐỘNG LÕI] "RAN".</li>
       
         </ul>
 
@@ -445,7 +445,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [CLEARing OLD User PROfiles] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng đuôi "-ing" đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
       
-          <li className="list-none">Chức năng: [CLEARing OLD User PROfiles] - [ADverb PHRASE][TRẠNG CỤM] đóng vai trò làm khối bối cảnh cách thức/nội dung đi kèm để bổ nghĩa trực tiếp cho khuôn mẫu hành động "SPENT HOURS" phía trước.</li>
+          <li className="list-none">Chức năng: [CLEARing OLD User PROfiles] - [ADverb PHRASE][TRẠNG CỤM] đóng vai trò làm khối bối cảnh cách thức/nội dung đi kèm để bổ nghĩa trực tiếp cho khuôn mẫu [VERB HEAD][ĐỘNG LÕI] "SPENT" phía trước.</li>
       
         </ul>
 
@@ -503,7 +503,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [<strong>af</strong>ter a CLEAR explaNAtion] - [prepoSITional PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã xác lập thời điểm, bắt đầu bằng [prepoSITion][GIỚI] "<strong>af</strong>ter".</li>
       
-          <li className="list-none">Chức năng: [<strong>af</strong>ter a CLEAR explaNAtion] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm một khối bối cảnh thời gian đứng sau để xác định cơ sở cho hành động "MADE the deCISion".</li>
+          <li className="list-none">Chức năng: [<strong>af</strong>ter a CLEAR explaNAtion] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm một khối bối cảnh thời gian đứng sau để xác định cơ sở cho [VERB HEAD][ĐỘNG LÕI] "MADE".</li>
       
         </ul>
 
@@ -550,7 +550,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [how you CLEAR these SYStem LOGS] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần liên kết trực quan ở đầu, có [SUBject PROnoun][CHỦ ĐẠI] "you" và [BASE VERB][NỀN ĐỘNG] "CLEAR" thiết lập phối hợp hành động.</li>
       
-          <li className="list-none">Chức năng: [how you CLEAR these SYStem LOGS] - [NOUN CLAUSE][DANH CÂU] trở thành [OBject PROnoun][TÂN ĐẠI] chứa dữ liệu mục tiêu chịu tác động từ hành động "KNOW".</li>
+          <li className="list-none">Chức năng: [how you CLEAR these SYStem LOGS] - [NOUN CLAUSE][DANH CÂU] trở thành [OBject PROnoun][TÂN ĐẠI] chứa dữ liệu mục tiêu chịu tác động từ [VERB HEAD][ĐỘNG LÕI] "KNOW".</li>
       
         </ul>
       
@@ -759,7 +759,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [at {'{where TEAM CLEARED the LAND}'}] - [prepoSITional PHRASE][GIỚI CỤM] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng [prepoSITion][GIỚI] "at".</li>
       
-          <li className="list-none">Chức năng: [at {'{where the TEAM CLEARED the LAND}'}] - [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho hành động "LOOKED diRECTly".</li>
+          <li className="list-none">Chức năng: [at {'{where the TEAM CLEARED the LAND}'}] - [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho [VERB HEAD][ĐỘNG LÕI] "LOOKED".</li>
       
         </ul>
 

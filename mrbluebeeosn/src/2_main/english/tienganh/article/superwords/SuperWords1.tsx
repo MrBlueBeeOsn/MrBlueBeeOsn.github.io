@@ -496,7 +496,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [whaTEVer you deCIDE] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [conJUNCtion][LIÊN] "WhatEVer".</li>
 			
-					<li className="list-none">Chức năng: [whaTEVer you deCIDE] – [NOUN CLAUSE][DANH CÂU] đang đứng ở đầu câu lớn để giữ vai trò làm [SUBject PROnoun][CHỦ ĐẠI] thực hiện hành động "will SHAPE".</li>
+					<li className="list-none">Chức năng: [whaTEVer you deCIDE] – [NOUN CLAUSE][DANH CÂU] đang đứng ở đầu câu lớn để giữ vai trò làm [SUBject PROnoun][CHỦ ĐẠI] thực hiện [VERB HEAD][ĐỘNG LÕI] "SHAPE".</li>
 			
 				</ul>
 			
@@ -510,7 +510,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [that she SPOKE the TRUTH] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con hoàn chỉnh có đầy đủ chủ vị và được dẫn dắt hiển lộ bởi [conJUNCtion][LIÊN] "that".</li>
 			
-					<li className="list-none">Chức năng: [that she SPOKE the TRUTH] – [NOUN CLAUSE][DANH CÂU] đang đứng vị trí [OBject PROnoun][TÂN ĐẠI] để tiếp nhận hành động từ hành động "discovered" của [SUBject PROnoun][CHỦ ĐẠI] "i".</li>
+					<li className="list-none">Chức năng: [that she SPOKE the TRUTH] – [NOUN CLAUSE][DANH CÂU] đang đứng vị trí [OBject PROnoun][TÂN ĐẠI] để tiếp nhận hành động từ [VERB HEAD][ĐỘNG LÕI] "disCOVered" của [SUBject PROnoun][CHỦ ĐẠI] "i".</li>
 			
 				</ul>
 			
@@ -561,7 +561,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [you TOOK the corRECT STEPS] – [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
 			
-					<li className="list-none">Chức năng: [you TOOK the corRECT STEPS] – [NOUN CLAUSE][DANH CÂU] đang đứng vị trí [OBject PROnoun][TÂN ĐẠI] để làm rõ sự việc chịu tác động trực tiếp từ hành động "beLIEVE".</li>
+					<li className="list-none">Chức năng: [you TOOK the corRECT STEPS] – [NOUN CLAUSE][DANH CÂU] đang đứng vị trí [OBject PROnoun][TÂN ĐẠI] để làm rõ sự việc chịu tác động trực tiếp từ [VERB HEAD][ĐỘNG LÕI] "beLIEVE".</li>
 			
 				</ul>
 			

@@ -316,7 +316,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [deBUGging] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "deBUG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [deBUGging] – [OBject HEAD][TÂN LÕI] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] đứng sau làm mục tiêu chịu tác động trực tiếp từ hành động "supPORTS".</li>
+					<li className="list-none">Chức năng: [deBUGging] – [OBject HEAD][TÂN LÕI] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] đứng sau làm mục tiêu chịu tác động trực tiếp từ [VERB HEAD][ĐỘNG LÕI] "supPORTS".</li>
 			
 				</ul>
 			
@@ -392,7 +392,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to upGRADE the CLOUD INfrastructure] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] hình thành từ sự kết hợp giữa hạt nhân [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to upGRADE" và mở rộng hành động phía sau.</li>
 			
-					<li className="list-none">Chức năng: [to upGRADE the CLOUD INfrastructure] – [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] đứng sau làm mục tiêu chịu tác động trực tiếp từ hành động "CHOOSE".</li>
+					<li className="list-none">Chức năng: [to upGRADE the CLOUD INfrastructure] – [NOUN PHRASE][DANH CỤM] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] đứng sau làm mục tiêu chịu tác động trực tiếp từ [VERB HEAD][ĐỘNG LÕI] "CHOOSE".</li>
 			
 				</ul>
 			

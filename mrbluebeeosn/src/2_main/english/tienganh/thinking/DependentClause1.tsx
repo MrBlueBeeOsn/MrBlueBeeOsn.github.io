@@ -169,7 +169,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm  [what you MEAN] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] đứng sau hành động "underSTAND"</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm  [what you MEAN] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] đứng sau [VERB HEAD][ĐỘNG LÕI] "underSTAND"</p>
 
 			{/* 4. Chiến Lược 3 Bước Để Tạo Câu Phức Mượt Mà */}
 
