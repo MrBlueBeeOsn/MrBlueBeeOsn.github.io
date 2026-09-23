@@ -112,7 +112,7 @@ export default function Because(): React.JSX.Element {
           <li className="list-none">the STUDy inVEStigates the LAW of [cauSALity] in HUman beHAvior.</li>
           <li className="margin-bottom-20 list-none">Nghiên cứu điều tra quy luật [nhân quả] trong hành vi của con người.</li>
 
-          <li className="list-none">the REsearch PROVED a STRONG [cauSAtion] between SMOking and LUNG diSEASE.</li>
+          <li className="list-none">the reSEARCH PROVED a STRONG [cauSAtion] between SMOking and LUNG diSEASE.</li>
           <li className="list-none">Nghiên cứu đã chứng minh một [mối quan hệ nhân quả] mạnh mẽ giữa việc hút thuốc và bệnh phổi.</li>
 
           <li id="VERB">the HEAVy RAIN could [CAUSE] seVERE FLOODing in LOW-LYing AReas.</li>

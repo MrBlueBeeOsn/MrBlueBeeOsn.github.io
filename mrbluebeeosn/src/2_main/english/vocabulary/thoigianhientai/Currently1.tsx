@@ -236,7 +236,7 @@ export default function CURrently1(): React.JSX.Element {
             <li value="1">she WORKED as a TEACHer for TEN YEARS.</li>
             <li className="list-none margin-bottom-20">Cô ấy đã làm giáo viên trong 10 năm.</li>
 
-            <li value="2">she is CURrently WORKing on a NEW REsearch PROJect.</li>
+            <li value="2">she is CURrently WORKing on a NEW reSEARCH PROJect.</li>
             <li className="list-none margin-bottom-20">Cô ấy hiện đang làm việc trên một dự án nghiên cứu mới.</li>
 
           </ol>

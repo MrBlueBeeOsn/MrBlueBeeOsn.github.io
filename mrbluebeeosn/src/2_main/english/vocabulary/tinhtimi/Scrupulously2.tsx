@@ -109,10 +109,10 @@ export default function SCRUpulously2(): React.JSX.Element {
         <li value="2" id="FOLlowed">the acCOUNtant SCRUpulously [FOLlowed] the reguLAtions.</li>
         <li className="list-none margin-bottom-20">Kế toán [đã tuân thủ] các quy định một cách tỉ mỉ.</li>
 
-        <li value="3" id="eXAMined">the REsearcher SCRUpulously [eXAMined] the CRIME SCENE.</li>
+        <li value="3" id="eXAMined">the reSEARCHer SCRUpulously [eXAMined] the CRIME SCENE.</li>
         <li className="list-none margin-bottom-20">Thám tử [đã kiểm tra] hiện trường vụ án một cách tỉ mỉ.</li>
 
-        <li value="4" id="DOCumented">the REsearcher SCRUpulously [DOCumented] her FINDings.</li>
+        <li value="4" id="DOCumented">the reSEARCHer SCRUpulously [DOCumented] her FINDings.</li>
         <li className="list-none margin-bottom-20">Nhà nghiên cứu [đã ghi chép] những phát hiện của mình một cách tỉ mỉ.</li>
 
         <li value="5" id="aVOIDed">the poliTIcian SCRUpulously [aVOIDed] any CONflict of INterest.</li>

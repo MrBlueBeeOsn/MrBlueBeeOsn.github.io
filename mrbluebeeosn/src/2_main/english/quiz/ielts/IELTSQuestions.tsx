@@ -135,7 +135,7 @@ export default function IELTSQuestions(): React.JSX.Element {
 				"an acaDEMic LECture.",
 				"a converSAtion between TWO PEOple in a SOcial or EVERyday CONtext.",
 				"a NEWS rePORT or anNOUNCEment.",
-				"a MONologue about a REsearch PROJect."
+				"a MONologue about a reSEARCH PROJect."
 			],
 			correctAnswer: 1,
 			explanation: "Listening Section 1 is typically a dialogue (a conversation between two people) set in a social context, such as booking a hotel, inquiring about a service, or opening a bank account."

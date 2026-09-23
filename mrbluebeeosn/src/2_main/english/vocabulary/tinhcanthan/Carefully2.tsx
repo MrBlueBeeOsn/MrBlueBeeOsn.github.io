@@ -30,43 +30,43 @@ export default function CAREfully2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#conSIDered-by">conSIDered by</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#eXAMined">eXAMined</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#seLECTed-for">seLECTed for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WRAPPED-to-preVENT">WRAPPED to preVENT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LIStened-to">LIStened to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MEASured-to-enSURE">MEASured to enSURE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#PLANNED-to-aVOID">PLANNED to aVOID</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MONitored">MONitored</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#preSERVED-for">preSERVED for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HANDled">HANDled</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function CAREfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the proPOsal was CAREfully conSIDered by the comMITtee.</li>
-        <li className="list-none margin-bottom-20">Đề xuất đã được ủy ban cân nhắc kỹ lưỡng.</li>
+        <li value="1" id="conSIDered-by">the proPOsal was CAREfully [conSIDered by] the comMITtee.</li>
+        <li className="list-none margin-bottom-20">Đề xuất đã [được cân nhắc bởi] ủy ban kỹ lưỡng. (được ủy ban cân nhắc kỹ lưỡng.)</li>
 
-        <li value="2" id="">the DOCtor CAREfully eXAMined the PAtient.</li>
-        <li className="list-none margin-bottom-20">Bác sĩ đã khám bệnh nhân rất kỹ lưỡng.</li>
+        <li value="2" id="eXAMined">the DOCtor CAREfully [eXAMined] the PAtient.</li>
+        <li className="list-none margin-bottom-20">Bác sĩ [đã khám] bệnh nhân rất kỹ lưỡng.</li>
 
-        <li value="3" id="">the inGREdients were CAREfully seLECTed for the DISH.</li>
-        <li className="list-none margin-bottom-20">Nguyên liệu đã được chọn lựa kỹ lưỡng cho món ăn.</li>
+        <li value="3" id="seLECTed-for">the inGREdients were CAREfully [seLECTed for] the DISH.</li>
+        <li className="list-none margin-bottom-20">Nguyên liệu đã [được chọn lựa] kỹ lưỡng [cho] món ăn.</li>
 
-        <li value="4" id="">the FRAGile Item was CAREfully WRAPPED to preVENT BREAKage.</li>
-        <li className="list-none margin-bottom-20">Vật liệu dễ vỡ đã được gói cẩn thận để tránh bị vỡ.</li>
+        <li value="4" id="WRAPPED-to-preVENT">the FRAGile Item was CAREfully [WRAPPED to preVENT] BREAKage.</li>
+        <li className="list-none margin-bottom-20">Vật liệu dễ vỡ đã [được gói] cẩn thận [để tránh] bị vỡ.</li>
 
-        <li value="5" id="">she CAREfully LIStened to his explaNAtion.</li>
-        <li className="list-none margin-bottom-20">Cô ấy lắng nghe lời giải thích của anh ấy rất cẩn thận.</li>
+        <li value="5" id="LIStened-to">she CAREfully [LIStened to] his explaNAtion.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [đã lắng nghe] lời giải thích của anh ấy rất cẩn thận.</li>
 
-        <li value="6" id="">the inGREdients were CAREfully MEASured to enSURE the PERfect TASTE.</li>
-        <li className="list-none margin-bottom-20">Nguyên liệu đã được đo lường cẩn thận để đảm bảo hương vị hoàn hảo.</li>
+        <li value="6" id="MEASured-to-enSURE">the inGREdients were CAREfully [MEASured to enSURE] the PERfect TASTE.</li>
+        <li className="list-none margin-bottom-20">Nguyên liệu đã [được đo lường] cẩn thận [để đảm bảo] hương vị hoàn hảo.</li>
 
-        <li value="7" id="">the TRIP was CAREfully PLANNED to aVOID any PROBlems.</li>
-        <li className="list-none margin-bottom-20">Chuyến đi đã được lên kế hoạch cẩn thận để tránh bất kỳ vấn đề nào.</li>
+        <li value="7" id="PLANNED-to-aVOID">the TRIP was CAREfully [PLANNED to aVOID] any PROBlems.</li>
+        <li className="list-none margin-bottom-20">Chuyến đi đã [được lên kế hoạch] cẩn thận [để tránh] bất kỳ vấn đề nào.</li>
 
-        <li value="8" id="">the PAtient's conDITion was CAREfully MONitored.</li>
-        <li className="list-none margin-bottom-20">Tình trạng của bệnh nhân đã được theo dõi chặt chẽ.</li>
+        <li value="8" id="MONitored">the PAtient's conDITion was CAREfully [MONitored].</li>
+        <li className="list-none margin-bottom-20">Tình trạng của bệnh nhân đã [được theo dõi] chặt chẽ.</li>
 
-        <li value="9" id="">the anTIQUE VASE was CAREfully preSERVED for generAtions.</li>
-        <li className="list-none margin-bottom-20">Cái bình cổ đã được bảo quản cẩn thận qua nhiều thế hệ.</li>
+        <li value="9" id="preSERVED-for">the anTIQUE VASE was CAREfully [preSERVED for] generAtions.</li>
+        <li className="list-none margin-bottom-20">Cái bình cổ đã [được bảo quản] cẩn thận [qua] nhiều thế hệ.</li>
 
-        <li value="10" id="">the FRAGile GLASS was CAREfully HANDled.</li>
-        <li className="list-none margin-bottom-20">Cái ly thủy tinh dễ vỡ đã được xử lý cẩn thận.</li>
+        <li value="10" id="HANDled">the FRAGile GLASS was CAREfully [HANDled].</li>
+        <li className="list-none margin-bottom-20">Cái ly thủy tinh dễ vỡ đã [được xử lý] cẩn thận.</li>
 
       </ol>
 

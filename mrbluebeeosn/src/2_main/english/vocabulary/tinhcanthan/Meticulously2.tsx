@@ -29,44 +29,44 @@ export default function meTICulously2(): React.JSX.Element {
       <div className="example">
                                 
         <p className="example-sentence text-center">
-          <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#PLANNED">PLANNED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#CRAFTed-by">CRAFTed by</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#reSEARCHED">reSEARCHED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#mainTAINED">mainTAINED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#deTAILED">deTAILED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#obSERVED">obSERVED</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#reCORDed">reCORDed</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#prePARED">prePARED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#asSEMbled">asSEMbled</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#inSPECTed-for">inSPECTed for</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function meTICulously2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she meTICulously PLANNED the PARTy, MAking SURE <strong>ever</strong>y DEtail was PERfect.</li>
-        <li className="list-none margin-bottom-20">Cô ấy lên kế hoạch cho bữa tiệc một cách tỉ mỉ, đảm bảo mọi chi tiết đều hoàn hảo.</li>
+        <li value="1" id="PLANNED">she meTICulously [PLANNED] the PARTy, MAking SURE <strong>ever</strong>y DEtail was PERfect.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [đã lên kế hoạch] cho bữa tiệc một cách tỉ mỉ, đảm bảo mọi chi tiết đều hoàn hảo.</li>
 
-        <li value="2" id="">the WATCH was meTICulously CRAFTed by SKILLED ARtisans.</li>
-        <li className="list-none margin-bottom-20">Chiếc đồng hồ được các nghệ nhân lành nghề chế tác một cách tỉ mỉ.</li>
+        <li value="2" id="CRAFTed-by">the WATCH was meTICulously [CRAFTed by] SKILLED ARtisans.</li>
+        <li className="list-none margin-bottom-20">Chiếc đồng hồ đã [được chế tác bởi] các nghệ nhân lành nghề một cách tỉ mỉ. (được các nghệ nhân lành nghề chế tác một cách tỉ mỉ.)</li>
 
-        <li value="3" id="">the rePORT was BASED on meTICulously REsearched DAta.</li>
-        <li className="list-none margin-bottom-20">Báo cáo này dựa trên dữ liệu được nghiên cứu một cách tỉ mỉ.</li>
+        <li value="3" id="reSEARCHED">the rePORT was BASED on meTICulously [reSEARCHED] DAta.</li>
+        <li className="list-none margin-bottom-20">Báo cáo này đã dựa trên dữ liệu [được nghiên cứu] một cách tỉ mỉ.</li>
 
-        <li value="4" id="">the GARden was meTICulously mainTAINED, with <strong>ever</strong>y PLANT PERfectly TRIMMED.</li>
-        <li className="list-none margin-bottom-20">Khu vườn được chăm sóc tỉ mỉ, với từng cây đều được cắt tỉa hoàn hảo.</li>
+        <li value="4" id="mainTAINED">the GARden was meTICulously [mainTAINED], with <strong>ever</strong>y PLANT PERfectly TRIMMED.</li>
+        <li className="list-none margin-bottom-20">Khu vườn đã [được chăm sóc] tỉ mỉ, với từng cây đều được cắt tỉa hoàn hảo.</li>
 
-        <li value="5" id="">the PAINTing was meTICulously deTAILED, CAPturing <strong>ever</strong>y NUance of the SUBject.</li>
-        <li className="list-none margin-bottom-20">Bức tranh được vẽ chi tiết tỉ mỉ, bắt trọn mọi sắc thái của chủ thể.</li>
+        <li value="5" id="deTAILED">the PAINTing was meTICulously [deTAILED], CAPturing <strong>ever</strong>y NUance of the SUBject.</li>
+        <li className="list-none margin-bottom-20">Bức tranh đã [được vẽ] chi tiết tỉ mỉ, bắt trọn mọi sắc thái của chủ thể.</li>
 
-        <li value="6" id="">the SCIentist meTICulously obSERVED the beHAvior of the ANimals.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học quan sát hành vi của động vật một cách tỉ mỉ.</li>
+        <li value="6" id="obSERVED">the SCIentist meTICulously [obSERVED] the beHAvior of the ANimals.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học [đã quan sát] hành vi của động vật một cách tỉ mỉ.</li>
 
-        <li value="7" id="">the hisTORian meTICulously reCORDed <strong>ever</strong>y DEtail of the eVent.</li>
-        <li className="list-none margin-bottom-20">Nhà sử học ghi chép tỉ mỉ mọi chi tiết của sự kiện.</li>
+        <li value="7" id="reCORDed">the hisTORian meTICulously [reCORDed] <strong>ever</strong>y DEtail of the eVent.</li>
+        <li className="list-none margin-bottom-20">Nhà sử học [đã ghi chép] tỉ mỉ mọi chi tiết của sự kiện.</li>
 
-        <li value="8" id="">the CHEF meTICulously prePARED the MEAL, Using Only the FRESHest inGREdients</li>
-        <li className="list-none margin-bottom-20">Đầu bếp chuẩn bị món ăn một cách tỉ mỉ, chỉ sử dụng những nguyên liệu tươi ngon nhất.</li>
+        <li value="8" id="prePARED">the CHEF meTICulously [prePARED] the MEAL, Using Only the FRESHest inGREdients</li>
+        <li className="list-none margin-bottom-20">Đầu bếp [đã chuẩn bị] món ăn một cách tỉ mỉ, chỉ sử dụng những nguyên liệu tươi ngon nhất.</li>
 
-        <li value="9" id="">the MODel was meTICulously asSEMbled FOLlowing the inSTRUCtions eXACTly.</li>
-        <li className="list-none margin-bottom-20">Mô hình được lắp ráp tỉ mỉ, tuân theo chính xác hướng dẫn.</li>
+        <li value="9" id="asSEMbled">the MODel was meTICulously [asSEMbled] FOLlowing the inSTRUCtions eXACTly.</li>
+        <li className="list-none margin-bottom-20">Mô hình đã [được lắp ráp] tỉ mỉ, tuân theo chính xác hướng dẫn.</li>
 
-        <li value="10" id="">the engiNEER meTICulously inSPECTed the maCHINE for any DEfects.</li>
-        <li className="list-none margin-bottom-20">Kỹ sư kiểm tra máy móc một cách tỉ mỉ để tìm bất kỳ lỗi nào.</li>
+        <li value="10" id="inSPECTed-for">the engiNEER meTICulously [inSPECTed] the maCHINE [for] any DEfects.</li>
+        <li className="list-none margin-bottom-20">Kỹ sư [đã kiểm tra] máy móc một cách tỉ mỉ [để] tìm bất kỳ lỗi nào.</li>
 
       </ol>
 

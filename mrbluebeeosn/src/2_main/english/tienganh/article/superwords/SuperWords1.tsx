@@ -673,20 +673,20 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she aDAPTed [through {'{WHAT she disCOVered during REsearch}'}].</li>
+					<li>she aDAPTed [through {'{WHAT she disCOVered during reSEARCH}'}].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã thích nghi [thông qua {'{những gì cô ấy khám phá ra trong lúc nghiên cứu}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">[through {'{WHAT she disCOVered during REsearch}'}] – [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] mở đầu bằng [prepoSITion][GIỚI] phương thức "through".</li>
+					<li className="list-none">[through {'{WHAT she disCOVered during reSEARCH}'}] – [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] mở đầu bằng [prepoSITion][GIỚI] phương thức "through".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ {'{WHAT she disCOVered during REsearch}'} là [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một sự việc có thực tế diễn ra.</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ {'{WHAT she disCOVered during reSEARCH}'} là [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một sự việc có thực tế diễn ra.</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">[through {'{WHAT she disCOVered during REsearch}'}] – [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
+					<li className="list-none">[through {'{WHAT she disCOVered during reSEARCH}'}] – [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
 
-					<li className="list-none">Trong đó khối phụ {'{WHAT she disCOVered during REsearch}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong đứng vị trí làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận mối quan hệ phương tiện từ [prepoSITion][GIỚI] "through".</li>
+					<li className="list-none">Trong đó khối phụ {'{WHAT she disCOVered during reSEARCH}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong đứng vị trí làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận mối quan hệ phương tiện từ [prepoSITion][GIỚI] "through".</li>
 
 			
 				</ul>

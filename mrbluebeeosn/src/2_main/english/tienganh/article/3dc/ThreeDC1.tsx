@@ -613,7 +613,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 				<ul className="list-square">
 			
-					<li>[it] deMANDS sciencTIFic REsearch [to underSTAND {'{why the SPEcies went exTINCT}'}].</li>
+					<li>[it] deMANDS sciencTIFic reSEARCH [to underSTAND {'{why the SPEcies went exTINCT}'}].</li>
 					<li className="margin-bottom-20 list-none">Đòi hỏi các nghiên cứu khoa học [để thấu hiểu {'{tại sao loài này tuyệt chủng}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
@@ -626,7 +626,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối {'{why the SPEcies went exTINCT}'} bên trong đóng vai trò là [NOUN CLAUSE][DANH CÂU] làm [OBject CLAUSE][TÂN CÂU] chịu sự điều phối của [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "underSTAND".</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [to underSTAND {'{why the SPEcies went exTINCT}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò tổng thể làm khối [SUBject PHRASE][CHỦ CỤM] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] deMANDS sciencTIFic REsearch để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] [it].</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [to underSTAND {'{why the SPEcies went exTINCT}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò tổng thể làm khối [SUBject PHRASE][CHỦ CỤM] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] deMANDS sciencTIFic reSEARCH để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] [it].</li>
 			
 				</ul>
 

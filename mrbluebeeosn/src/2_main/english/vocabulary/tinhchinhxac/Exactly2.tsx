@@ -130,7 +130,7 @@ export default function eXACTly2(): React.JSX.Element {
         <li value="9" id="the-SAME-as-MINE">her DRESS is eXACTly [the SAME as MINE].</li>
         <li className="list-none margin-bottom-20">Váy của cô ấy hoàn toàn [giống với váy của tôi].</li>
 
-        <li value="10" id="WHAT-i-NEEDed-for">THIS BOOK is eXACTly [WHAT i NEEDed for] my REsearch.</li>
+        <li value="10" id="WHAT-i-NEEDed-for">THIS BOOK is eXACTly [WHAT i NEEDed for] my reSEARCH.</li>
         <li className="list-none margin-bottom-20">Cuốn sách này đúng là [điều tôi cần cho] bài nghiên cứu của mình.</li>
 
       </ol>

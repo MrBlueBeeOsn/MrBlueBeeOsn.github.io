@@ -162,7 +162,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>the COUNtry is CURrently FAcing MAjor <strong>ecoNOMic</strong> CHALlenges due to inFLAtion.</li>
 					<li className="margin-bottom-20 list-none">Đất nước hiện đang phải đối mặt với những thách thức <strong>kinh tế</strong> lớn do lạm phát.</li>
 			
-					<li>REsearchers USED <strong>scienTIFic</strong> MEthods to TEST the SAFEty of the NEW MEDicine.</li>
+					<li>reSEARCHers USED <strong>scienTIFic</strong> MEthods to TEST the SAFEty of the NEW MEDicine.</li>
 					<li className="margin-bottom-20 list-none">Các nhà nghiên cứu đã sử dụng các phương pháp <strong>khoa học</strong> để kiểm tra độ an toàn của loại thuốc mới.</li>
 
 					<li>the TWO NAtions SIGNED a <strong>hisTORic</strong> PEACE aGREEment <strong>af</strong>ter DEcades of CONflict.</li>
