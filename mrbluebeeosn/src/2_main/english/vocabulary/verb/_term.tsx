@@ -550,7 +550,7 @@ export default function (): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [CONtact CLAUSE][CHẠM CÂU]</h5>
 
       <p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>]</p>
 

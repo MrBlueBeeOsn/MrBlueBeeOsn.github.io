@@ -304,7 +304,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 4b: [OBject PROnoun][TÂN ĐẠI]</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 4b: [OBject PHRASE][TÂN CỤM]</p>
       
         <ul className="list-square">
       
@@ -588,12 +588,12 @@ export default function CLEAR(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [CONtact CLAUSE][CHẠM CÂU]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ở phân hệ này, các thành phần liên kết đã được người bản ngữ chủ động lược bỏ để tối ưu tốc độ truyền tải thông tin. Về diện mạo vật lý, khối mã này nhìn hoàn toàn giống như một hệ con độc lập có đầy đủ cặp bài trùng [SUBject PROnoun][CHỦ ĐẠI] và ĐỘNG, tuy nhiên chức năng của nó vẫn là chức năng phụ thuộc và vẫn sinh ra đầy đủ 3 đầu ra: Danh, Tính, Trạng.</p>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>OBject CLAUSE</strong>][<strong>TÂN CÂU</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11a:</p>
       
@@ -679,7 +679,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">Ví dụ 12b: [OBject PROnoun][TÂN ĐẠI]</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 12b: [OBject PHRASE][TÂN CỤM]</p>
       
         <ul className="list-square">
       
@@ -884,7 +884,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>we STARTed the implemenTAtion [<strong>af</strong>ter a CLEAR BRIEFing].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã bắt đầu việc triển khai [sau một buổi hướng dẫn rõ ràng].</li>
       
-          <li className="list-none">Hình thái gốc: [<strong>af</strong>ter a CLEAR BRIEFing] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] chỉ mốc thời gian "<strong>af</strong>ter " để kéo theo khối [OBject PROnoun][TÂN ĐẠI] phía sau.</li>
+          <li className="list-none">Hình thái gốc: [<strong>af</strong>ter a CLEAR BRIEFing] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] chỉ mốc thời gian "<strong>af</strong>ter " để kéo theo khối [NOUN PHRASE][DANH CỤM] phía sau.</li>
       
           <li className="list-none">Chức năng: [<strong>af</strong>ter a CLEAR BRIEFing] - [ADverb PHRASE][TRẠNG CỤM] thực thi vai trò làm khối bối cảnh thời gian đứng sau để xác định cơ sở cho hành động chính.</li>
       

@@ -457,7 +457,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>the paRAMeters [EXperts recomMEND] must be TESTed.</li>
 					<li className="margin-bottom-20 list-none">Các thông số [mà các chuyên gia khuyên dùng] phải được kiểm tra.</li>
 			
-					<li className="list-none">Hình thái: [EXperts recomMEND] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] bỏ qua [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định.</li>
+					<li className="list-none">Hình thái: [EXperts recomMEND] - [CONtact CLAUSE][CHẠM CÂU] bỏ qua [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định.</li>
 			
 					<li className="list-none">Chức năng: [EXperts recomMEND] - [ADjective CLAUSE][TÍNH CÂU] thu gọn không gian biểu đạt để làm rõ đặc điểm đối tượng [SUBject HEAD][CHỦ LÕI] "paRAMeters".</li>
 			

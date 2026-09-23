@@ -286,7 +286,7 @@ export default function reSPOND(): React.JSX.Element {
 
   
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB PHRASE</strong>][<strong>HIỆN TIẾP ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB PHRASE</strong>][<strong>HIỆN TIẾP ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>OBject PHRASE</strong>][<strong>TÂN CỤM</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4b:</p>
       
@@ -318,7 +318,7 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
 
   
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN NGUYÊN ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN NGUYÊN ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>OBject PHRASE</strong>][<strong>TÂN CỤM</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4d:</p>
       
@@ -578,7 +578,7 @@ export default function reSPOND(): React.JSX.Element {
 
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>] <strong>làm</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>] <strong>làm</strong> [<strong>OBject CLAUSE</strong>][<strong>TÂN CÂU</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9b:</p>
       
@@ -627,7 +627,7 @@ export default function reSPOND(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [CONtact CLAUSE][CHẠM CÂU]</h5>
 
       <p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>]</p>
 
@@ -638,7 +638,7 @@ export default function reSPOND(): React.JSX.Element {
           <li>they beLIEVE [the TEAM reSPONDed apPROpriately to the WARNing].</li>
           <li className="margin-bottom-20 list-none">Họ tin rằng [đội ngũ đã phản hồi/xử lý một cách thích hợp đối với cảnh báo].</li>
       
-          <li className="list-none">Hình thái: [the TEAM reSPONDed apPROpriately to the WARNing] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] đã ẩn thành phần [conJUNCtion][LIÊN] định hướng "that", chỉ còn hiển thị trọn vẹn khối [SUBject HEAD][CHỦ LÕI] "the TEAM" và cụm hành động phía sau.</li>
+          <li className="list-none">Hình thái: [the TEAM reSPONDed apPROpriately to the WARNing] - [CONtact CLAUSE][CHẠM CÂU] đã ẩn thành phần [conJUNCtion][LIÊN] định hướng "that", chỉ còn hiển thị trọn vẹn khối [SUBject HEAD][CHỦ LÕI] "the TEAM" và cụm hành động phía sau.</li>
       
           <li className="list-none">Chức năng: [the TEAM reSPONDed apPROpriately to the WARNing] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm [OBject CLAUSE][TÂN CÂU] tiếp nhận trực tiếp nội dung cho hành động [PAST VERB][ĐÃ ĐỘNG] "beLIEVE".</li>
       
@@ -654,7 +654,7 @@ export default function reSPOND(): React.JSX.Element {
           <li>the Email [she reSPONDed to] conTAINED CRUcial inforMAtion.</li>
           <li className="margin-bottom-20 list-none">Email [mà cô ấy đã phản hồi] chứa đựng thông tin quan trọng.</li>
       
-          <li className="list-none">Hình thái: [she reSPONDed to] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] đã ẩn thành phần [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "she" và cụm [PAST VERB][ĐÃ ĐỘNG] "reSPONDed to".</li>
+          <li className="list-none">Hình thái: [she reSPONDed to] - [CONtact CLAUSE][CHẠM CÂU] đã ẩn thành phần [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "she" và cụm [PAST VERB][ĐÃ ĐỘNG] "reSPONDed to".</li>
       
           <li className="list-none">Chức năng: [she reSPONDed to] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the Email" để làm rõ đặc điểm cho đối tượng này.</li>
       
@@ -670,7 +670,7 @@ export default function reSPOND(): React.JSX.Element {
           <li>[should the SERver reSPOND SLOWly], reSTART the appliCAtion.</li>
           <li className="margin-bottom-20 list-none">[Nếu máy chủ phản hồi chậm], hãy khởi động lại ứng dụng.</li>
       
-          <li className="list-none">Hình thái: [should the SERver reSPOND SLOWly] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] vận hành ở trạng thái ẩn thành phần [conJUNCtion][LIÊN] điều kiện "if" bằng giải pháp đảo [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [SUBject HEAD][CHỦ LÕI] "the SERver" và [BARE VERB PHRASE][THUẦN NGUYÊN ĐỘNG CỤM] "reSPOND SLOWly".</li>
+          <li className="list-none">Hình thái: [should the SERver reSPOND SLOWly] - [CONtact CLAUSE][CHẠM CÂU] vận hành ở trạng thái ẩn thành phần [conJUNCtion][LIÊN] điều kiện "if" bằng giải pháp đảo [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [SUBject HEAD][CHỦ LÕI] "the SERver" và [BARE VERB PHRASE][THUẦN NGUYÊN ĐỘNG CỤM] "reSPOND SLOWly".</li>
       
           <li className="list-none">Chức năng: [should the SERver reSPOND SLOWly] - [ADverb CLAUSE][TRẠNG CÂU] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau.</li>
       
@@ -714,7 +714,7 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB and emBEDded CLAUSE</strong>][<strong>HIỆN TIẾP ĐỘNG và NHÚNG CÂU</strong>] <strong>làm</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB and emBEDded CLAUSE</strong>][<strong>HIỆN TIẾP ĐỘNG và NHÚNG CÂU</strong>] <strong>làm</strong> [<strong>OBject PHRASE</strong>][<strong>TÂN CỤM</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12b:</p>
       
@@ -1007,7 +1007,7 @@ export default function reSPOND(): React.JSX.Element {
           <li>the SYStem reSTARTed [for a FULL reSPONSE to the seCUrity PATCH].</li>
           <li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [phục vụ cho một phản ứng trọn vẹn với bản vá bảo mật].</li>
       
-          <li className="list-none">Hình thái gốc: [for a FULL reSPONSE to the seCUrity PATCH] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] chỉ lý do / bối cảnh "for" để kéo theo khối [OBject PROnoun][TÂN ĐẠI] phía sau.</li>
+          <li className="list-none">Hình thái gốc: [for a FULL reSPONSE to the seCUrity PATCH] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] chỉ lý do / bối cảnh "for" để kéo theo khối [NOUN PHRASE][DANH CỤM] phía sau.</li>
       
           <li className="list-none">Chức năng: [for a FULL reSPONSE to the seCUrity PATCH] - [ADverb PHRASE][TRẠNG CỤM] thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "reSTARTed".</li>
       

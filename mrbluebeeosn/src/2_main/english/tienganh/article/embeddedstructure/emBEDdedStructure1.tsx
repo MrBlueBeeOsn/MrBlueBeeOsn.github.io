@@ -295,7 +295,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 			<p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className="text-indent-whole">Khi bất kỳ thành phần nào thuộc 16 họ [VERB HEAD][ĐỘNG LÕI] trên kéo theo các thành phần phụ thuộc phía sau như [OBject PROnoun][TÂN ĐẠI] (khối nhận diện đối tượng), [ADverb HEAD][TRẠNG LÕI], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU], toàn bộ khối liên kết đó lập tức chuyển đổi cấu trúc và nâng cấp nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p className="text-indent-whole">Khi bất kỳ thành phần nào thuộc 16 họ [VERB HEAD][ĐỘNG LÕI] trên kéo theo các thành phần phụ thuộc phía sau như [OBject HEAD][TÂN LÕI], [OBject PHRASE][TÂN CỤM], [OBject CLAUSE][TÂN CÂU] (khối nhận diện đối tượng), [ADverb HEAD][TRẠNG LÕI], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU], toàn bộ khối liên kết đó lập tức chuyển đổi cấu trúc và nâng cấp nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
 
 			<p className="margin-top-20"></p>
 			
@@ -409,7 +409,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [exPLORing the WILderness] — [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] (exPLORing) cùng với đối tượng của nó.</li>
 
-					<li className="list-none">Chức năng: [exPLORing the WILderness] — [NOUN PHRASE][DANH CỤM] đóng vai trò làm khối [OBject PROnoun][TÂN ĐẠI] tiếp nhận dữ liệu đầu vào và chịu sự tác động trực tiếp từ hành động supPORT.</li>
+					<li className="list-none">Chức năng: [exPLORing the WILderness] — [NOUN PHRASE][DANH CỤM] đóng vai trò làm khối [OBject PHRASE][TÂN CỤM] tiếp nhận dữ liệu đầu vào và chịu sự tác động trực tiếp từ hành động supPORT.</li>
 			
 				</ul>
 			
@@ -510,7 +510,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{how we deSIGN this PLATform}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ chủ thể hành động riêng "we" và hạt nhân [BASE VERB][NỀN ĐỘNG] deSIGN, bắt đầu từ [conJUNCtion][LIÊN] how.</li>
 
-					<li className="list-none">Chức năng: {'{how we deSIGN this PLATform}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject PROnoun][TÂN ĐẠI] (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
+					<li className="list-none">Chức năng: {'{how we deSIGN this PLATform}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject CLAUSE][TÂN CÂU] (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
 			
 				</ul>
 
@@ -530,7 +530,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				
 						<li className="list-none">Hình thái: [ANalyzing {'{why the SYStem FAILED}'}] - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG CÂU] mở rộng bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] (ANalyzing) đứng ngay sau hành động chính.</li>
 
-						<li className="list-none">Chức năng: [ANalyzing {'{why the SYStem FAILED}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm cấu trúc tổng thể đóng chức năng tiếp nhận toàn bộ mục tiêu tác động của lệnh postPONE làm khối [OBject PROnoun][TÂN ĐẠI].</li>
+						<li className="list-none">Chức năng: [ANalyzing {'{why the SYStem FAILED}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm cấu trúc tổng thể đóng chức năng tiếp nhận toàn bộ mục tiêu tác động của lệnh postPONE làm khối [OBject PHRASE][TÂN CỤM].</li>
 				
 					</ul>
 
@@ -541,7 +541,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{why the SYStem FAILED}'} - [conJUNCtional CLAUSE][LIÊN CÂU] nằm gọn bên trong làm tham số bổ trợ, tích hợp sẵn [conJUNCtion][LIÊN] why kết nối cùng chủ thể "the SYStem" và [PAST VERB][ĐÃ ĐỘNG] FAILED.</li>
 
-					<li className="list-none">Chức năng: {'{why the SYStem FAILED}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò cấp con chịu sự điều phối của [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] tầng ngoài làm khối [OBject PROnoun][TÂN ĐẠI].</li>
+					<li className="list-none">Chức năng: {'{why the SYStem FAILED}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò cấp con chịu sự điều phối của [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] tầng ngoài làm khối [OBject CLAUSE][TÂN CÂU].</li>
 			
 				</ul>
 			
@@ -573,7 +573,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{how this TEAM deSIGNED the APP}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể "this TEAM" và [PAST VERB][ĐÃ ĐỘNG] deSIGNED.</li>
 
-					<li className="list-none">Chức năng: {'{how this TEAM deSIGNED the APP}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] a<strong>bout</strong> ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{how this TEAM deSIGNED the APP}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject CLAUSE][TÂN CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] a<strong>bout</strong> ở tầng ngoài.</li>
 			
 				</ul>
 
@@ -605,7 +605,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{where they BUILD the SOFTware}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể riêng "they" cùng hạt nhân [BASE VERB][NỀN ĐỘNG] BUILD.</li>
 
-					<li className="list-none">Chức năng: {'{where they BUILD the SOFTware}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] at ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{where they BUILD the SOFTware}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject CLAUSE][TÂN CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] at ở tầng ngoài.</li>
 			
 				</ul>
 
@@ -642,7 +642,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [where you exPLORE] - [conJUNCtional CLAUSE][LIÊN CÂU] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [conJUNCtion][LIÊN] kết nối where, có chủ thể "you" và [ROOT VERB][GỐC ĐỘNG] exPLORE.</li>
 
-					<li className="list-none">Chức năng: [where you exPLORE] - [NOUN CLAUSE][DANH CÂU] trở thành khối [OBject PROnoun][TÂN ĐẠI] chứa dữ liệu mục tiêu chịu tác động từ hệ thống lệnh ngoài.</li>
+					<li className="list-none">Chức năng: [where you exPLORE] - [NOUN CLAUSE][DANH CÂU] trở thành khối [OBject CLAUSE][TÂN CÂU] chứa dữ liệu mục tiêu chịu tác động từ hệ thống lệnh ngoài.</li>
 			
 				</ul>
 			
@@ -676,21 +676,21 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 			
 
-			<h5 className="margin-y-30 text-indent-whole">Phân hệ [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] (Không Chứa Từ Kết Nối)</h5>
+			<h5 className="margin-y-30 text-indent-whole">Phân hệ [CONtact CLAUSE][CHẠM CÂU] (Không Chứa Từ Kết Nối)</h5>
 			
 
 			<p className="text-indent-whole">Đây là trạng thái tối tân của ngôn ngữ khi thành phần liên kết bị triệt tiêu hoàn toàn. Khối mã xuất hiện dưới dạng một câu con độc lập về mặt hiển thị, nhưng thực thi trọn vẹn các chức năng hệ thống:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 15</strong>: [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 15</strong>: [<strong>OBject CLAUSE</strong>][<strong>TÂN CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>i beLIEVE [you BUILD GREAT THINGS].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn xây dựng những điều tuyệt vời].</li>
 			
-					<li className="list-none">Hình thái: [you BUILD GREAT THINGS] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] mang diện mạo của một dòng lệnh độc lập với chủ thể "you" và [BASE VERB][NỀN ĐỘNG] BUILD, hoàn toàn ẩn đi [conJUNCtion][LIÊN] kết nối.</li>
+					<li className="list-none">Hình thái: [you BUILD GREAT THINGS] - [CONtact CLAUSE][CHẠM CÂU] mang diện mạo của một dòng lệnh độc lập với chủ thể "you" và [BASE VERB][NỀN ĐỘNG] BUILD, hoàn toàn ẩn đi [conJUNCtion][LIÊN] kết nối.</li>
 			
-					<li className="list-none">Chức năng: [you BUILD GREAT THINGS] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject PROnoun][TÂN ĐẠI] nạp dữ liệu trực tiếp cho [ROOT VERB][GỐC ĐỘNG] "beLIEVE".</li>
+					<li className="list-none">Chức năng: [you BUILD GREAT THINGS] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject CLAUSE][TÂN CÂU] nạp dữ liệu trực tiếp cho [ROOT VERB][GỐC ĐỘNG] "beLIEVE".</li>
 			
 				</ul>
 			
@@ -702,7 +702,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>the PLAN [i deSIGNED YESterday] is LOST.</li>
 					<li className="margin-bottom-20 list-none">Bản kế hoạch [tôi thiết kế ngày hôm qua] thì bị mất.</li>
 			
-					<li className="list-none">Hình thái: [i deSIGNED YESterday] - [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] chứa chủ thể "i" và [PAST VERB][ĐÃ ĐỘNG] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [OBject PRONOUN][TÂN ĐẠI] định vị nào dẫn đường.</li>
+					<li className="list-none">Hình thái: [i deSIGNED YESterday] - [CONtact CLAUSE][CHẠM CÂU] chứa chủ thể "i" và [PAST VERB][ĐÃ ĐỘNG] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [OBject PRONOUN][TÂN ĐẠI] định vị nào dẫn đường.</li>
 			
 					<li className="list-none">Chức năng: [i deSIGNED YESterday] - [ADjective CLAUSE][TÍNH CÂU] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng [SUBject HEAD][CHỦ LÕI] "the PLAN" đứng trước.</li>
 			
@@ -716,7 +716,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>[had i deSIGNED the SOFTware], i would have TESTed it.</li>
 					<li className="margin-bottom-20 list-none">[Giá mà tôi thiết kế phần mềm], tôi đã kiểm tra nó rồi.</li>
 			
-					<li className="list-none">Hình thái: [had i deSIGNED the SOFTware] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] sử dụng cấu trúc đảo chip [FInite VERB][HẠN ĐỘNG] had lên trước chủ thể "i", xóa bỏ hoàn toàn [conJUNCtion][LIÊN] điều kiện và đồng hành cùng [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] deSIGNED.</li>
+					<li className="list-none">Hình thái: [had i deSIGNED the SOFTware] - [CONtact CLAUSE][CHẠM CÂU] sử dụng cấu trúc đảo chip [FInite VERB][HẠN ĐỘNG] had lên trước chủ thể "i", xóa bỏ hoàn toàn [conJUNCtion][LIÊN] điều kiện và đồng hành cùng [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] deSIGNED.</li>
 			
 					<li className="list-none">Chức năng: [had i deSIGNED the SOFTware] - [ADverb CLAUSE][TRẠNG CÂU] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
 			
