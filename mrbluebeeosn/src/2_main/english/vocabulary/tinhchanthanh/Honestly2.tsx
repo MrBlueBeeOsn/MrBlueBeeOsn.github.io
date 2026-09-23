@@ -30,43 +30,43 @@ export default function HONestly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SPEAKing-i-DON'T-LIKE">SPEAKing, i DON'T LIKE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#beLIEVE-that">beLIEVE that</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#THINK-we">THINK we</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#adMIT-that">adMIT that</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SPEAKing-HOW-to-SOLVE">SPEAKing, HOW to SOLVE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#i'm-surPRISED-that">i'm surPRISED that</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#i-DON'T-CARE-WHAT">i DON'T CARE WHAT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#i'm-disapPOINTed-with">i'm disapPOINTed with</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#i'm-SCARED-of">i'm SCARED of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#i'm-HAPpy-that">i'm HAPpy that</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function HONestly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">HONestly SPEAKing, i DON'T LIKE that MOvie.</li>
-        <li className="list-none margin-bottom-20">Nói thật ra, tôi không thích bộ phim đó.</li>
+        <li value="1" id="SPEAKing-i-DON'T-LIKE">HONestly [SPEAKing, i DON'T LIKE] that MOvie.</li>
+        <li className="list-none margin-bottom-20">Nói thật ra, [tôi không thích] bộ phim đó.</li>
 
-        <li value="2" id="">i HONestly beLIEVE that he is INnocent.</li>
-        <li className="list-none margin-bottom-20">Tôi thật sự tin rằng anh ấy vô tội.</li>
+        <li value="2" id="beLIEVE-that">i HONestly [beLIEVE that] he is INnocent.</li>
+        <li className="list-none margin-bottom-20">Tôi thật sự [tin rằng] anh ấy vô tội.</li>
 
-        <li value="3" id="">i HONestly THINK we should reconSIDer our PLANS.</li>
-        <li className="list-none margin-bottom-20">Tôi thật sự nghĩ rằng chúng ta nên xem xét lại kế hoạch của mình.</li>
+        <li value="3" id="THINK-we">i HONestly [THINK we] should reconSIDer our PLANS.</li>
+        <li className="list-none margin-bottom-20">Tôi thật sự [nghĩ rằng chúng ta] nên xem xét lại kế hoạch của mình.</li>
 
-        <li value="4" id="">i HONestly adMIT that i MADE a misTAKE.</li>
-        <li className="list-none margin-bottom-20">Tôi thành thật thừa nhận rằng tôi đã mắc sai lầm.</li>
+        <li value="4" id="adMIT-that">i HONestly [adMIT that] i MADE a misTAKE.</li>
+        <li className="list-none margin-bottom-20">Tôi thành thật [thừa nhận rằng] tôi đã mắc sai lầm.</li>
 
-        <li value="5" id="">HONestly SPEAKing, HOW to SOLVE this PROBlem?</li>
-        <li className="list-none margin-bottom-20">Nói thật ra, tôi không biết làm thế nào để giải quyết vấn đề này.</li>
+        <li value="5" id="SPEAKing-HOW-to-SOLVE">HONestly [SPEAKing, HOW to SOLVE] this PROBlem?</li>
+        <li className="list-none margin-bottom-20">[Nói] thật ra, [tôi không biết làm thế nào để giải quyết] vấn đề này.</li>
 
-        <li value="6" id="">HONestly, i'm surPRISED that you SAID that.</li>
-        <li className="list-none margin-bottom-20">Thật sự, tôi ngạc nhiên khi bạn nói như vậy.</li>
+        <li value="6" id="i'm-surPRISED-that">HONestly, [i'm surPRISED that] you SAID that.</li>
+        <li className="list-none margin-bottom-20">Thật sự, [tôi ngạc nhiên khi] bạn nói như vậy.</li>
 
-        <li value="7" id="">HONestly, i DON'T CARE WHAT he THINKS.</li>
-        <li className="list-none margin-bottom-20">Thành thật mà nói, tôi không quan tâm anh ấy nghĩ gì.</li>
+        <li value="7" id="i-DON'T-CARE-WHAT">HONestly, [i DON'T CARE WHAT] he THINKS.</li>
+        <li className="list-none margin-bottom-20">Thành thật mà nói, [tôi không quan tâm những gì] anh ấy nghĩ. (anh ấy nghĩ gì).</li>
 
-        <li value="8" id="">HONestly, i'm disapPOINTed with the reSULTS.</li>
-        <li className="list-none margin-bottom-20">Thành thật mà nói, tôi thất vọng với kết quả.</li>
+        <li value="8" id="i'm-disapPOINTed-with">HONestly, [i'm disapPOINTed with] the reSULTS.</li>
+        <li className="list-none margin-bottom-20">Thành thật mà nói, [tôi thất vọng với] kết quả.</li>
 
-        <li value="9" id="">HONestly, i'm SCARED of the DARK.</li>
-        <li className="list-none margin-bottom-20">Thành thật mà nói, tôi sợ bóng tối.</li>
+        <li value="9" id="i'm-SCARED-of">HONestly, [i'm SCARED of] the DARK.</li>
+        <li className="list-none margin-bottom-20">Thành thật mà nói, [tôi sợ] bóng tối.</li>
 
-        <li value="10" id="">HONestly, i'm HAPpy that you're HERE.</li>
-        <li className="list-none margin-bottom-20">Thành thật mà nói, tôi rất vui khi bạn ở đây.</li>
+        <li value="10" id="i'm-HAPpy-that">HONestly, [i'm HAPpy that] you're HERE.</li>
+        <li className="list-none margin-bottom-20">Thành thật mà nói, [tôi rất vui khi] bạn ở đây.</li>
 
       </ol>
 

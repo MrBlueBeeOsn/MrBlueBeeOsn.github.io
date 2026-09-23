@@ -30,43 +30,43 @@ export default function SUREly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#eNOUGH">eNOUGH</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#must-GET">must GET</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#you-KNOW">you KNOW</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#you-can-FINish">you can FINish</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#we-will-NEED">we will NEED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#you-underSTAND">you underSTAND</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#you-aGREE-that">you aGREE that</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#you-reMEMber">you reMEMber</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#you-REalize">you REalize</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#apPREciate-all">apPREciate all</HashLink>
           </span> &nbsp;
 
         </p>
@@ -105,35 +105,35 @@ export default function SUREly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">i THOUGHT i LEFT my KEYS on the TAble, and SUREly eNOUGH, THERE they WERE.</li>
-        <li className="list-none margin-bottom-20">Tôi nghĩ rằng tôi để chìa khóa trên bàn, và quả nhiên, chúng ở đó.</li>
+        <li value="1" id="eNOUGH">i THOUGHT i LEFT my KEYS on the TAble, and SUREly [eNOUGH], THERE they WERE.</li>
+        <li className="list-none margin-bottom-20">Tôi nghĩ rằng tôi để chìa khóa trên bàn, và đúng [như dự đoán] (quả nhiên), chúng ở đó.</li>
 
-        <li value="2" id="">she WORKED so HARD; she SUREly must GET a proMOtion.</li>
-        <li className="list-none margin-bottom-20">Cô ấy làm việc rất chăm chỉ, chắc chắn cô ấy phải được thăng chức.</li>
+        <li value="2" id="must-GET">she WORKED so HARD; she SUREly [must GET] a proMOtion.</li>
+        <li className="list-none margin-bottom-20">Cô ấy làm việc rất chăm chỉ, chắc chắn cô ấy [phải được] thăng chức.</li>
 
-        <li value="3" id="">SUREly you KNOW the ANswer to this QUESTion.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn bạn biết câu trả lời cho câu hỏi này.</li>
+        <li value="3" id="you-KNOW">SUREly [you KNOW] the ANswer to this QUESTion.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn [bạn biết] câu trả lời cho câu hỏi này.</li>
 
-        <li value="4" id="">SUREly you can FINish this TASK by toMORrow.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn bạn có thể hoàn thành công việc này vào ngày mai.</li>
+        <li value="4" id="you-can-FINish">SUREly [you can FINish] this TASK by toMORrow.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn [bạn có thể hoàn thành] công việc này vào ngày mai.</li>
 
-        <li value="5" id="">the WEATHer FOREcast SAYS it will RAIN toMORrow, so SUREly we will NEED umBRELlas.</li>
-        <li className="list-none margin-bottom-20">Dự báo thời tiết nói rằng trời sẽ mưa vào ngày mai, vì vậy chắc chắn chúng ta sẽ cần ô.</li>
+        <li value="5" id="we-will-NEED">the WEATHer FOREcast SAYS it will RAIN toMORrow, so SUREly [we will NEED] umBRELlas.</li>
+        <li className="list-none margin-bottom-20">Dự báo thời tiết nói rằng trời sẽ mưa vào ngày mai, vì vậy chắc chắn [chúng ta sẽ cần] ô.</li>
 
-        <li value="6" id="">SUREly you underSTAND the imPORtance of this PROJect.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn bạn hiểu tầm quan trọng của dự án này.</li>
+        <li value="6" id="you-underSTAND">SUREly [you underSTAND] the imPORtance of this PROJect.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn [bạn hiểu] tầm quan trọng của dự án này.</li>
 
-        <li value="7" id="">SUREly you aGREE that THIS is the BEST soLUtion.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn bạn đồng ý rằng đây là giải pháp tốt nhất.</li>
+        <li value="7" id="you-aGREE-that">SUREly [you aGREE that] THIS is the BEST soLUtion.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn [bạn đồng ý rằng] đây là giải pháp tốt nhất.</li>
 
-        <li value="8" id="">SUREly you reMEMber the DAY we MET.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn bạn nhớ ngày chúng ta gặp nhau.</li>
+        <li value="8" id="you-reMEMber">SUREly [you reMEMber] the DAY we MET.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn [bạn nhớ] ngày chúng ta gặp nhau.</li>
 
-        <li value="9" id="">SUREly you REalize the CONsequences of your ACtions.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn bạn nhận ra hậu quả của hành động của mình.</li>
+        <li value="9" id="you-REalize">SUREly [you REalize] the CONsequences of your ACtions.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn [bạn nhận ra] hậu quả của hành động của mình.</li>
 
-        <li value="10" id="">SUREly apPREciate all the HARD WORK we've PUT into THIS.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn bạn đánh giá cao tất cả những nỗ lực mà chúng ta đã bỏ ra.</li>
+        <li value="10" id="apPREciate-all">SUREly [apPREciate all] the HARD WORK we've PUT into THIS.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn bạn [đánh giá cao] tất cả những nỗ lực mà chúng ta đã bỏ ra.</li>
 
       </ol>
 
