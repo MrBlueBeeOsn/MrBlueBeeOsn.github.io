@@ -369,7 +369,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">Khi đứng vào cấu trúc câu lớn, các khối hình thái này sẽ vận hành các chức năng dữ liệu cụ thể:</p>
 
-			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE"><strong>Hình thành Chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE"><strong>Hình thành Chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm</strong> [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -431,7 +431,7 @@ export default function NineBox1(): React.JSX.Element {
 			<p className="text-indent-whole">Là đơn vị hành động mở rộng ở quy mô lớn nhất, chứa một cấu trúc câu con bên trong nó. Khi được "gắn" vào hệ thống, khối hình thái này sẽ hình thành nên các chức năng dữ liệu phức hợp:</p>
 
 
-			<p className="margin-top-20 text-indent-whole" id="NOUN-CLAUSE"><strong>Hình thành Chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-CLAUSE"><strong>Hình thành Chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm</strong> [<strong>SUBject CLAUSE</strong>][<strong>CHỦ CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -466,7 +466,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the ALgorithm [which comPUTES the enCRYPtion KEY] WORKS FAST.</li>
 					<li className="margin-bottom-20 list-none">Thuật toán [mà nó tính toán khóa mã hóa] hoạt động nhanh.</li>
 			
-					<li className="list-none">Hình thái: [which comPUTES the enCRYPtion KEY] – [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] chứa khối kết nối định danh tường minh "which" kết hợp cùng một cấu trúc câu con xoay quanh [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "comPUTES".</li>
+					<li className="list-none">Hình thái: [which comPUTES the enCRYPtion KEY] – [RELative CLAUSE][QUAN CÂU] chứa khối kết nối định danh tường minh "which" kết hợp cùng một cấu trúc câu con xoay quanh [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "comPUTES".</li>
 			
 					<li className="list-none">Chức năng: [which comPUTES the enCRYPtion KEY] – [ADjective CLAUSE][TÍNH CÂU] đóng vai trò định danh thuộc tính để bổ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the ALgorithm", chỉ rõ loại thuật toán nào cho khối đứng trước.</li>
 			
@@ -695,7 +695,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [reFACtoring] – [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "reFACtor" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [reFACtoring] – [SUBject HEAD][CHỦ LÕI] đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI], còn "the SYStem deMAND" đóng vai trò làm [OBject PHRASE][TÂN CỤM].</li>
+					<li className="list-none">Chức năng: [reFACtoring] – [SUBject HEAD][CHỦ LÕI] đóng vai trò làm [SUBject][CHỦ], còn "the SYStem deMAND" đóng vai trò làm [OBject PHRASE][TÂN CỤM].</li>
 			
 				</ul>
 			
@@ -767,7 +767,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>we must rePLACE this conNECtion [which alLOWS unAUthorized USer ACcess].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [mà nó cho phép người dùng không được cấp quyền truy cập vào] này.</li>
 			
-					<li className="list-none">Hình thái: [which alLOWS unAUthorized USer ACcess] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "alLOWS".</li>
+					<li className="list-none">Hình thái: [which alLOWS unAUthorized USer ACcess] - [RELative CLAUSE][QUAN CÂU] chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "alLOWS".</li>
 			
 					<li className="list-none">Chức năng: [which alLOWS unAUthorized USer ACcess] – [ADjective CLAUSE][TÍNH CÂU] đứng sau làm nhiệm vụ định danh thuộc tính cho [OBject HEAD][TÂN LÕI] "conNECtion" kết nối.</li>
 			

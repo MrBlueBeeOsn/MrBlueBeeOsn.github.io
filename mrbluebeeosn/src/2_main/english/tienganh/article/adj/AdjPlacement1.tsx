@@ -102,7 +102,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li>[<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>] <strong>đứng trước thành phần bổ nghĩa</strong>:</li>
 					<li className="list-none">→ <strong>Nhấn mạnh Đối tượng</strong></li>
-					<li className="list-none">Khi muốn đối tượng chính làm "mỏ neo", người bản ngữ đặt [NOUN HEAD][DANH LÕI] lên đầu, sau đó mới thả chuỗi thông tin bổ trợ phía sau bằng [ADjective PHRASE][TÍNH CỤM] hoặc [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU].</li>
+					<li className="list-none">Khi muốn đối tượng chính làm "mỏ neo", người bản ngữ đặt [NOUN HEAD][DANH LÕI] lên đầu, sau đó mới thả chuỗi thông tin bổ trợ phía sau bằng [ADjective PHRASE][TÍNH CỤM] hoặc [RELative CLAUSE][QUAN CÂU].</li>
 			
 				</ul>
 
@@ -436,14 +436,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center" id="ADjective-CLAUSE">5. Chức năng [ADjective CLAUSE][TÍNH CÂU]</h3>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>SUBject PROnoun CLAUSE</strong>][<strong>CHỦ ĐẠI CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the FRAMEwork [which GOVerns MARket reguLAtions] is roBUST.</li>
 					<li className="margin-bottom-20 list-none">Khung [cái mà chi phối các quy định thị trường] thì vô cùng vững chắc.</li>
 			
-					<li className="list-none">Hình thái: [which GOVerns MARket reguLAtions] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" nối tiếp chuỗi hành động chia thời.</li>
+					<li className="list-none">Hình thái: [which GOVerns MARket reguLAtions] - [RELative CLAUSE][QUAN CÂU] mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" nối tiếp chuỗi hành động chia thời.</li>
 			
 					<li className="list-none">Chức năng: [which GOVerns MARket reguLAtions] - [ADjective CLAUSE][TÍNH CÂU] định danh bản chất chức năng của [SUBject HEAD][CHỦ LÕI] "FRAMEwork".</li>
 			
@@ -484,7 +484,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				
 						<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG CÂU] mở rộng từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "MAStering".</li>
 
-						<li className="list-none">Tầng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng ghép bên trong để phân tách chi tiết.</li>
+						<li className="list-none">Tầng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [RELative CLAUSE][QUAN CÂU] lồng ghép bên trong để phân tách chi tiết.</li>
 				
 					</ul>
 
@@ -515,7 +515,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				
 						<li className="list-none">Tầng 1: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to dePLOY" kết hợp mở rộng cấu trúc.</li>
 
-						<li className="list-none">Tầng 2: {'{which OPtimize WORKflow}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] lồng sâu bên trong.</li>
+						<li className="list-none">Tầng 2: {'{which OPtimize WORKflow}'} - [RELative CLAUSE][QUAN CÂU] lồng sâu bên trong.</li>
 				
 					</ul>
 
@@ -546,7 +546,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				
 						<li className="list-none">Tầng 1: [of {'{WHAT they inVEStigated}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
 
-						<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] kết hợp [SUBject PRONOUN][CHỦ ĐẠI] "WHAT" tạo nên lõi thông tin.</li>
+						<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [RELative CLAUSE][QUAN CÂU] kết hợp [SUBject PRONOUN][CHỦ ĐẠI] "WHAT" - "the THING WHICH" tạo nên lõi thông tin.</li>
 				
 					</ul>
 
@@ -577,7 +577,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				
 						<li className="list-none">Tầng 1: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [emBEDded COMplex prepoSITional PHRASE][NHÚNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to" kết hợp tổ hợp phức hợp.</li>
 
-						<li className="list-none">Tầng 2: {'{which afFECted proDUCtion}'} - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] tích hợp bổ trợ tầng sâu.</li>
+						<li className="list-none">Tầng 2: {'{which afFECted proDUCtion}'} - [RELative CLAUSE][QUAN CÂU] tích hợp bổ trợ tầng sâu.</li>
 				
 					</ul>
 
@@ -652,7 +652,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>the MAN [who is STANding THERE] is my BOSS.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [người mà đang đứng đó] là sếp tôi.</li>
 			
-					<li className="list-none">Hình thái: [who is STANding THERE] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] "who" kết hợp [auXILiary and PRESent PARTiciple VERB][TRỢ và HIỆN TIẾP ĐỘNG] "is STANding".</li>
+					<li className="list-none">Hình thái: [who is STANding THERE] - [RELative CLAUSE][QUAN CÂU] "who" kết hợp [auXILiary and PRESent PARTiciple VERB][TRỢ và HIỆN TIẾP ĐỘNG] "is STANding".</li>
 			
 					<li className="list-none">Chức năng: [who is STANding THERE] - [ADjective CLAUSE][TÍNH CÂU] định danh chính xác đối tượng [SUBject HEAD][CHỦ LÕI] "the MAN" thông qua hành động cụ thể đang diễn ra.</li>
 			
@@ -668,7 +668,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>the POLicy [which is efFECtive] will be apPLIED.</li>
 					<li className="margin-bottom-20 list-none">Chính sách [cái mà hiệu quả] sẽ được áp dụng.</li>
 			
-					<li className="list-none">Hình thái: [which is efFECtive] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" kết hợp [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "is" và [MODified ADjective][DIỆN TÍNH] "efFECtive".</li>
+					<li className="list-none">Hình thái: [which is efFECtive] - [RELative CLAUSE][QUAN CÂU] mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" kết hợp [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "is" và [MODified ADjective][DIỆN TÍNH] "efFECtive".</li>
 			
 					<li className="list-none">Chức năng: [which is efFECtive] - [ADjective CLAUSE][TÍNH CÂU] vạch rõ bản chất định danh cho đối tượng [SUBject HEAD][CHỦ LÕI] "the POLicy".</li>
 			

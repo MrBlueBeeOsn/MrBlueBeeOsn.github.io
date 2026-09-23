@@ -499,7 +499,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				
 						<li className="list-none">Hình thái: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to exPLAIN" và kéo theo khối CLAUSE con bên trong.</li>
 
-						<li className="list-none">Chức năng: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [SUBject PROnoun][CHỦ ĐẠI] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is URgent" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
+						<li className="list-none">Chức năng: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [SUBject PHRASE][CHỦ CỤM] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is URgent" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
 				
 					</ul>
 
@@ -628,7 +628,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:  [HOW they BUILD the SYStem] - [conJUNCtional CLAUSE][LIÊN CÂU] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [conJUNCtion][LIÊN] kết nối HOW, có chủ thể "they" và [BASE VERB][NỀN ĐỘNG] BUILD.</li>
 
-					<li className="list-none">Chức năng:  [HOW they BUILD the SYStem] - [NOUN CLAUSE][DANH CÂU] đảm nhận nhiệm vụ làm khối [SUBject PROnoun][CHỦ ĐẠI] ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho [VERB HEAD][ĐỘNG LÕI] "deTERmines".</li>
+					<li className="list-none">Chức năng:  [HOW they BUILD the SYStem] - [NOUN CLAUSE][DANH CÂU] đảm nhận nhiệm vụ làm khối [SUBject CLAUSE][CHỦ CÂU] ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho [VERB HEAD][ĐỘNG LÕI] "deTERmines".</li>
 			
 				</ul>
 
@@ -654,7 +654,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>the ARchitect [who is deSIGNing the BUILDing] is BUSy.</li>
 					<li className="margin-bottom-20 list-none">Người kiến trúc sư [người mà đang thiết kế tòa nhà] thì đang bận.</li>
 
-					<li className="list-none">Hình thái: [who is deSIGNing the BUILDing] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] hiện diện dưới dạng khối câu bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] kết nối who, chứa [auXILiary and PRESent PARTiciple VERB][TRỢ và HIỆN TIẾP ĐỘNG] is deSIGNing riêng biệt.</li>
+					<li className="list-none">Hình thái: [who is deSIGNing the BUILDing] - [RELative CLAUSE][QUAN CÂU] hiện diện dưới dạng khối câu bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] kết nối who, chứa [auXILiary and PRESent PARTiciple VERB][TRỢ và HIỆN TIẾP ĐỘNG] is deSIGNing riêng biệt.</li>
 
 					<li className="list-none">Chức năng: [who is deSIGNing the BUILDing] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng [SUBject HEAD][CHỦ LÕI] "the ARchitect".</li>
 			
@@ -746,7 +746,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [exPLORing OPTions] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] biểu hiện dưới dạng khối mã mở rộng chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] exPLORing và đối tượng đi kèm.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [exPLORing OPTions] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ nền tảng để quản lý một đầu việc (khối [SUBject PROnoun][CHỦ ĐẠI]).</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [exPLORing OPTions] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ nền tảng khối [SUBject PHRASE][CHỦ CỤM] để quản lý một đầu việc.</li>
 			
 				</ul>
 
@@ -758,7 +758,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái mới: [eVALuating METrics] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] xuất hiện dưới dạng khối mở rộng mới chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] eVALuating được đưa vào thế chỗ.</li>
 			
-					<li className="list-none">Chức năng mới: [eVALuating METrics] - [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm khối [SUBject PROnoun][CHỦ ĐẠI] của khối cũ.</li>
+					<li className="list-none">Chức năng mới: [eVALuating METrics] - [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm khối [SUBject PHRASE][CHỦ CỤM] của khối cũ.</li>
 			
 				</ul>
 
@@ -797,7 +797,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>i BOUGHT a deVICE [which was BUILT in jaPAN].</li>
 					<li className="margin-bottom-20 list-none">Tôi đã mua một thiết bị [cái mà đã được xây dựng tại Nhật].</li>
 			
-					<li className="list-none">Hình thái: [which was BUILT in jaPAN] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi.</li>
+					<li className="list-none">Hình thái: [which was BUILT in jaPAN] - [RELative CLAUSE][QUAN CÂU] thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi.</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [which was BUILT in jaPAN] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [OBject HEAD][TÂN LÕI] "deVICE".</li>
 			

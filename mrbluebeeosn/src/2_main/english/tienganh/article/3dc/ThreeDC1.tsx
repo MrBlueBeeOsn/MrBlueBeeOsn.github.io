@@ -528,7 +528,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SOFTware [which the TEAM dePLOYED LAST NIGHT] CRASHED.</li>
 					<li className="margin-bottom-20 list-none">Phần mềm [mà đội ngũ đã triển khai đêm qua] đã gặp sự cố.</li>
 			
-					<li className="list-none">Hình thái: Khối [which the TEAM dePLOYED LAST NIGHT] - [OBject PROnoun CLAUSE][TÂN ĐẠI CÂU] bắt đầu bằng [OBject PRONOUN][TÂN ĐẠI] quan hệ "which" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the TEAM" và [PAST VERB][ĐÃ ĐỘNG] "dePLOYED".</li>
+					<li className="list-none">Hình thái: Khối [which the TEAM dePLOYED LAST NIGHT] - [RELative CLAUSE][QUAN CÂU] bắt đầu bằng [OBject PRONOUN][TÂN ĐẠI] quan hệ "which" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the TEAM" và [PAST VERB][ĐÃ ĐỘNG] "dePLOYED".</li>
 			
 					<li className="list-none">Chức năng: Khối [which the TEAM dePLOYED LAST NIGHT] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm ngay sau thực thể [SUBject HEAD][CHỦ LÕI] "the SOFTware" để bổ nghĩa chi tiết cho thực thể đó.</li>
 			
@@ -609,7 +609,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">1. [DANH CỤM][NOUN PHRASE]</h4>
 
-			<p className="text-indent-whole"><strong>Làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
+			<p className="text-indent-whole"><strong>Làm khối</strong> [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>]:</p>
 
 				<ul className="list-square">
 			
@@ -766,7 +766,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the CODE [which acCELerates the RENdering PROCess] reQUIres optimiZAtion.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [mà tăng tốc quy trình kết xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: Khối [which acCELerates the RENdering PROCess] - [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates".</li>
+					<li className="list-none">Hình thái: Khối [which acCELerates the RENdering PROCess] - [RELative CLAUSE][QUAN CÂU] bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates".</li>
 			
 					<li className="list-none">Chức năng: Khối [which acCELerating the RENdering PROCess] - [ADjective CLAUSE][TÍNH CÂU] đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể [SUBject HEAD][CHỦ LÕI] "the CODE".</li>
 			
