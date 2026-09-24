@@ -30,43 +30,43 @@ export default function NOW2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#NEED-RIGHT">NEED ... RIGHT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#for">for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#and-THEN">and THEN</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#until">un<strong>til</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#but-THEN-and">but THEN and</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#from-ON">from ... ON</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SAW-JUST">SAW ... JUST</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#Even">Even</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#that-you're-HERE">that you're HERE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#NEED-to-FINish-RIGHT">NEED to FINish ... RIGHT</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function NOW2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">i NEED your HELP RIGHT NOW.</li>
-        <li className="list-none margin-bottom-20">Tôi cần sự giúp đỡ của bạn ngay bây giờ.</li>
+        <li value="1" id="NEED-RIGHT">i [NEED] your HELP [RIGHT] NOW.</li>
+        <li className="list-none margin-bottom-20">Tôi [cần] sự giúp đỡ của bạn [ngay] bây giờ.</li>
 
-        <li value="2" id="">for NOW, let's JUST FOcus on FINishing this PROJect.</li>
-        <li className="list-none margin-bottom-20">Trong lúc này, chúng ta hãy tập trung vào việc hoàn thành dự án này đã.</li>
+        <li value="2" id="for">[for] NOW, let's JUST FOcus on FINishing this PROJect.</li>
+        <li className="list-none margin-bottom-20">[Trong] lúc này, chúng ta hãy tập trung vào việc hoàn thành dự án này đã.</li>
 
-        <li value="3" id="">i LIKE to GO HIking in the MOUNtains NOW and THEN.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi thích đi bộ đường dài trong núi.</li>
+        <li value="3" id="and-THEN">i LIKE to GO HIking in the MOUNtains NOW [and THEN].</li>
+        <li className="list-none margin-bottom-20">Tôi thích đi bộ đường dài trong núi lúc này [lúc khác]. (thỉnh thoảng).</li>
 
-        <li value="4" id="">i NEVer KNEW a<strong>bout</strong> this PROBlem un<strong>til</strong> NOW.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa từng biết về vấn đề này cho đến bây giờ.</li>
+        <li value="4" id="until">i NEVer KNEW a<strong>bout</strong> this PROBlem [un<strong>til</strong>] NOW.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa từng biết về vấn đề này [cho đến] bây giờ.</li>
 
-        <li value="5" id="">she USED to be VERy SHY, but THEN and NOW, she's VERy OUTgoing.</li>
-        <li className="list-none margin-bottom-20">Cô ấy trước đây rất nhút nhát, nhưng từ đó đến nay, cô ấy rất hòa đồng.</li>
+        <li value="5" id="but-THEN-and">she USED to be VERy SHY, [but THEN and] NOW, she's VERy OUTgoing.</li>
+        <li className="list-none margin-bottom-20">Cô ấy trước đây rất nhút nhát, [nhưng từ đó đến] nay, cô ấy rất hòa đồng.</li>
 
-        <li value="6" id="">i will START EXercising <strong>ever</strong>y DAY from NOW ON.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ bắt đầu tập thể dục mỗi ngày từ bây giờ.</li>
+        <li value="6" id="from-ON">i will START EXercising <strong>ever</strong>y DAY [from] NOW [ON].</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ bắt đầu tập thể dục mỗi ngày [từ ngay] bây giờ.</li>
 
-        <li value="7" id="">i SAW her JUST NOW.</li>
-        <li className="list-none margin-bottom-20">Tôi vừa mới thấy cô ấy.</li>
+        <li value="7" id="SAW-JUST">i [SAW] her [JUST] NOW.</li>
+        <li className="list-none margin-bottom-20">Tôi [vừa mới thấy] cô ấy.</li>
 
-        <li value="8" id="">Even NOW, i CAN'T beLIEVE it HAPpened.</li>
-        <li className="list-none margin-bottom-20">Ngay cả bây giờ, tôi vẫn không thể tin điều đó đã xảy ra.</li>
+        <li value="8" id="Even">[Even] NOW, i CAN'T beLIEVE it HAPpened.</li>
+        <li className="list-none margin-bottom-20">[Ngay cả] bây giờ, tôi vẫn không thể tin điều đó đã xảy ra.</li>
 
-        <li value="9" id="">NOW that you're HERE, let's get STARTed.</li>
-        <li className="list-none margin-bottom-20">Bây giờ khi bạn đã ở đây, chúng ta bắt đầu nhé.</li>
+        <li value="9" id="that-you're-HERE">NOW [that you're HERE], let's get STARTed.</li>
+        <li className="list-none margin-bottom-20">Bây giờ [khi bạn đã ở đây], chúng ta bắt đầu nhé.</li>
 
-        <li value="10" id="">i NEED to FINish this rePORT RIGHT this NOW.</li>
-        <li className="list-none margin-bottom-20">Tôi cần hoàn thành báo cáo này ngay lập tức.</li>
+        <li value="10" id="NEED-to-FINish-RIGHT">i [NEED to FINish] this rePORT [RIGHT] this NOW.</li>
+        <li className="list-none margin-bottom-20">Tôi [cần hoàn thành] báo cáo này [ngay] lập tức.</li>
 
       </ol>
 
