@@ -72,7 +72,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 6,
-			question: "he stayED UP ALL NIGHT [to FINish his gradUAtion THEsis]. \n Anh ấy đã thức cả đêm [để hoàn thành luận văn tốt nghiệp của mình].",
+			question: "he stayED UP all NIGHT [to FINish his gradUAtion THEsis]. \n Anh ấy đã thức cả đêm [để hoàn thành luận văn tốt nghiệp của mình].",
 			options: [
 				"[NOUN PHRASE]",
 				"[ADverb PHRASE]"

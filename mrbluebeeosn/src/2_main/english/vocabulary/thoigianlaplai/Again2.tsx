@@ -30,43 +30,43 @@ export default function aGAIN2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MADE">MADE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TRY-THAT-ONCE">TRY THAT ONCE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#NOT-to-DO-THAT">NOT to DO THAT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#PLAYED-Over-and-Over">PLAYED ... Over and Over</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#to-START-all-Over">to START all Over</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HOPE-to-SEE-SOON">HOPE to SEE ...SOON</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SAY-THAT">SAY THAT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#NOT">NOT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#ONCE-MORE">ONCE MORE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DO-as-beFORE">DO ... as beFORE</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function aGAIN2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">he MADE the SAME misTAKE aGAIN and aGAIN.</li>
-        <li className="list-none margin-bottom-20">Anh ấy lặp lại cùng một sai lầm nhiều lần.</li>
+        <li value="1" id="MADE">he [MADE] the SAME misTAKE aGAIN and aGAIN.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [lặp lại] cùng một sai lầm nhiều lần.</li>
 
-        <li value="2" id="">let's TRY THAT ONCE aGAIN.</li>
-        <li className="list-none margin-bottom-20">Hãy thử lại một lần nữa.</li>
+        <li value="2" id="TRY-THAT-ONCE">let's [TRY THAT ONCE] aGAIN.</li>
+        <li className="list-none margin-bottom-20">Hãy [thử lại một] lần nữa.</li>
 
-        <li value="3" id="">i've TOLD you TIME and aGAIN NOT to DO that.</li>
-        <li className="list-none margin-bottom-20">Tôi đã nói với bạn nhiều lần rồi đấy.</li>
+        <li value="3" id="NOT-to-DO-THAT">i've TOLD you TIME and aGAIN [NOT to DO THAT].</li>
+        <li className="list-none margin-bottom-20">Tôi đã bảo bạn hết lần này đến lần khác là [không được làm] điều đó.</li>
 
-        <li value="4" id="">she PLAYED the SAME SONG Over and Over aGAIN</li>
-        <li className="list-none margin-bottom-20">Cô ấy nghe đi nghe lại cùng một bài hát.</li>
+        <li value="4" id="PLAYED-Over-and-Over">she [PLAYED] the SAME SONG [Over and Over] aGAIN</li>
+        <li className="list-none margin-bottom-20">Cô ấy [nghe đi nghe lại cùng] một bài hát.</li>
 
-        <li value="5" id="">we had to START ALL OVER aGAIN.</li>
-        <li className="list-none margin-bottom-20">Chúng ta phải bắt đầu lại từ đầu.</li>
+        <li value="5" id="to-START-all-Over">we had [to START all Over] aGAIN.</li>
+        <li className="list-none margin-bottom-20">Chúng ta [phải bắt đầu] lại [từ đầu].</li>
 
-        <li value="6" id="">i HOPE to SEE you aGAIN SOON.</li>
-        <li className="list-none margin-bottom-20">Tôi hy vọng sẽ gặp lại bạn sớm.</li>
+        <li value="6" id="HOPE-to-SEE-SOON">i [HOPE to SEE] you aGAIN [SOON].</li>
+        <li className="list-none margin-bottom-20">Tôi [hy vọng sẽ gặp lại bạn] sớm.</li>
 
-        <li value="7" id="">could you SAY THAT aGAIN, PLEASE?</li>
-        <li className="list-none margin-bottom-20">Bạn có thể nói lại được không?</li>
+        <li value="7" id="SAY-THAT">could you [SAY THAT] aGAIN, PLEASE?</li>
+        <li className="list-none margin-bottom-20">Bạn có thể [nói lại] một lần nữa được không?</li>
 
-        <li value="8">NOT aGAIN! i've LOST my KEYS.</li>
-        <li className="list-none margin-bottom-20">Không phải lần nữa! Tôi lại làm mất chìa khóa rồi.</li>
+        <li value="8" id="NOT">[NOT] aGAIN! i've LOST my KEYS.</li>
+        <li className="list-none margin-bottom-20">[Không phải] lần nữa! Tôi lại làm mất chìa khóa rồi.</li>
 
-        <li value="9" id="">could you READ THAT ONCE MORE?</li>
-        <li className="list-none margin-bottom-20">Bạn có thể đọc lại một lần nữa được không?</li>
+        <li value="9" id="ONCE-MORE">could you READ THAT [ONCE MORE]?</li>
+        <li className="list-none margin-bottom-20">Bạn có thể đọc lại [một lần nữa] được không?</li>
 
-        <li value="10">PLEASE DO it as beFORE.</li>
-        <li className="list-none margin-bottom-20">Làm ơn làm như trước đây.</li>
+        <li value="10" id="DO-as-beFORE">PLEASE [DO] it [as beFORE].</li>
+        <li className="list-none margin-bottom-20">Làm ơn [làm như trước đây].</li>
 
       </ol>
 

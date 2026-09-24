@@ -130,7 +130,7 @@ export default function corRECTly2(): React.JSX.Element {
         <li value="9" id="MEASured-of">the SCIentist corRECTly [MEASured] the TEMPERature [of] the soLUtion.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học [đã đo] chính xác nhiệt độ [của] dung dịch.</li>
 
-        <li value="10" id="underSTOOD-by">the inSTRUCtions were corRECTly [underSTOOD by] ALL the parTICipants.</li>
+        <li value="10" id="underSTOOD-by">the inSTRUCtions were corRECTly [underSTOOD by] all the parTICipants.</li>
         <li className="list-none margin-bottom-20">Hướng dẫn đã [được hiểu] chính xác [bởi] tất cả người tham gia . (được tất cả người tham gia hiểu chính xác.)</li>
 
       </ol>

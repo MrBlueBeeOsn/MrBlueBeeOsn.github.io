@@ -439,7 +439,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i disCOVERED the TRUTH.</li>
+					<li>i disCOverED the TRUTH.</li>
 					<li className="list-none">Tôi đã khám phá ra sự thật.</li>
 					<li className="margin-bottom-20 list-none">Thường mang tính trang trọng hơn, nhấn mạnh việc tìm ra điều gì đó mới mẻ hoặc bị che giấu.</li>
 			

@@ -103,7 +103,7 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
  
-          <li id="NOUN">STOP WORrying a<strong>bout</strong> ALL the  [what-ifs] and FOCus on the PRESent.</li>
+          <li id="NOUN">STOP WORrying a<strong>bout</strong> all the  [what-ifs] and FOCus on the PRESent.</li>
           <li className="margin-bottom-20 list-none">Đừng lo lắng về tất cả những điều [nếu như] nữa và hãy tập trung vào hiện tại.</li>
           <li className="list-none">Lưu ý ngữ cảnh: Thường dùng số nhiều 'what-ifs'. Stop worrying về những điều "nếu như" và hãy tập trung vào hiện tại.</li>
 

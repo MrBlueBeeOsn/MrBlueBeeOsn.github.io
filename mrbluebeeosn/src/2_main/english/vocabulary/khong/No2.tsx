@@ -118,7 +118,7 @@ export default function NO2(): React.JSX.Element {
         <li value="5" id="">NO WAY! i'm NOT GOing to do THAT.</li>
         <li className="list-none margin-bottom-20">Không đời nào! Tôi sẽ không làm việc đó.</li>
 
-        <li value="6" id="">NO WONder he's TIred. he's been WORKing ALL NIGHT.</li>
+        <li value="6" id="">NO WONder he's TIred. he's been WORKing all NIGHT.</li>
         <li className="list-none margin-bottom-20">Chẳng trách anh ấy mệt. Anh ấy đã làm việc cả đêm.</li>
 
         <li value="7" id="">NO DOUBT she will sucCEED.</li>

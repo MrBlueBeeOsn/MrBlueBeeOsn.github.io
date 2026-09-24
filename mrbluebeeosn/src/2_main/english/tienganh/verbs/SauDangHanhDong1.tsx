@@ -131,7 +131,7 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 						<li className="list-none">Cô ấy chưa bao giờ ăn sầu riêng.</li>
 						<li className="margin-bottom-20 list-none">📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (PREsent PERfect). Thường dùng phó từ NEVer để nói về trải nghiệm tính đến thời điểm hiện tại.</li>
 
-						<li>by 5 p.M., we had FINished ALL the TASKS.</li>
+						<li>by 5 p.M., we had FINished all the TASKS.</li>
 						<li className="list-none">Trước 5 giờ chiều, chúng tôi đã hoàn thành tất cả các nhiệm vụ.</li>
 						<li className="margin-bottom-20 list-none">📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (PAST PERfect). Diễn tả một hành động đã hoàn tất trước một thời điểm cụ thể trong quá khứ (trước mốc 5 giờ chiều hôm đó).</li>
 

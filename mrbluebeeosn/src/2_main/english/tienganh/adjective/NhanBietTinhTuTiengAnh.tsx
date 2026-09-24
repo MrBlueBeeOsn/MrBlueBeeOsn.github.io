@@ -38,7 +38,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li><strong>af</strong>ter a LONG DAY at WORK, I LOVE reLAXing on my <strong>COMFORtable</strong> SOfa with a GOOD BOOK.</li>
 					<li className="margin-bottom-20 list-none">Sau một ngày dài làm việc, tôi thích thư giãn trên chiếc ghế sofa <strong>thoải mái</strong> của mình với một cuốn sách hay.</li>
 			
-					<li>as a TEAM LEADer, he is <strong>reSPONsible</strong> for MAking SURE ALL PROJects are comPLEted on TIME.</li>
+					<li>as a TEAM LEADer, he is <strong>reSPONsible</strong> for MAking SURE all PROJects are comPLEted on TIME.</li>
 					<li className="margin-bottom-20 list-none">Với tư cách là trưởng nhóm, anh ấy <strong>chịu trách nhiệm</strong> đảm bảo tất cả các dự án được hoàn thành đúng hạn.</li>
 
 					<li>our COMpany OFfers <strong>FLEXible</strong> WORKing HOURS, alLOWing emPLOYees to START WORK between EIGHT AM and TEN AM.</li>
@@ -97,7 +97,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li><strong>af</strong>ter years of HARD WORK, her TECH STARtup FInally beCAME a <strong>sucCESSful</strong> GLObal COMpany.</li>
 					<li className="margin-bottom-20 list-none">Sau nhiều năm làm việc chăm chỉ, công ty khởi nghiệp công nghệ của cô ấy cuối cùng đã trở thành một công ty toàn cầu <strong>thành công</strong>.</li>
 			
-					<li>the CEO deLIVered a <strong>POWerful</strong> SPEECH that inSPIred ALL the emPLOYees at the MEETing.</li>
+					<li>the CEO deLIVered a <strong>POWerful</strong> SPEECH that inSPIred all the emPLOYees at the MEETing.</li>
 					<li className="list-none">Giám đốc điều hành đã có một bài phát biểu <strong>mạnh mẽ</strong> truyền cảm hứng cho tất cả nhân viên trong cuộc họp.</li>
 			
 				</ul>
@@ -265,7 +265,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>the LECture was SO <strong>BORing</strong> that MOST of the STUdents FELL aSLEEP.</li>
 					<li className="margin-bottom-20 list-none">Bài giảng <strong>nhàm chán</strong> đến mức phần lớn học sinh đã ngủ gật.</li>
 			
-					<li>HIKing up the MOUNtain ALL DAY was VEry <strong>TIRing</strong>, but the VIEW at the TOP was WORTH it.</li>
+					<li>HIKing up the MOUNtain all DAY was VEry <strong>TIRing</strong>, but the VIEW at the TOP was WORTH it.</li>
 					<li className="margin-bottom-20 list-none">Việc đi bộ đường dài lên núi suốt cả ngày rất <strong>mệt</strong>, nhưng phong cảnh trên đỉnh thì rất đáng giá.</li>
 
 					<li>she TOLD me an <strong>INTEResting</strong> STOry a<strong>bout</strong> her TRIP to jaPAN.</li>
