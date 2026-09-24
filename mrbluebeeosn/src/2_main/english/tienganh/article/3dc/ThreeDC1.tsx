@@ -1015,7 +1015,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<ul className="list-square">
 				
-						<li>you [must NOT] SHARE this PASSword under any CIRcumstances.</li>
+						<li>you [must NOT] SHARE this PASSword <strong>un</strong>der any CIRcumstances.</li>
 						<li className="list-none">Bạn [không được phép] chia sẻ mật khẩu này dưới bất kỳ hoàn cảnh nào.</li>
 				
 					</ul>

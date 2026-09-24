@@ -1327,7 +1327,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy [đã bị ngã] từ chỗ thiết bị máy quay [trong lúc làm việc ngoài trời].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng FELL để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li><strong>sever</strong>al OLD TREES [have <strong>fal</strong>len DOWN] [DURing the STORM].</li>
+					<li><strong>sever</strong>al OLD TREES [have <strong>fal</strong>len DOWN] [<strong>dur</strong>ing the STORM].</li>
 					<li className="list-none">Một số cây cổ thụ [đã bị đổ sập] [trong cơn bão].</li>
 					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (FALLen) đi sau have để nói về sự việc đã xảy ra và để lại kết quả ở hiện tại, với chủ thể là <strong>sever</strong>al OLD TREES (một số cây cổ thụ).</li>
 			

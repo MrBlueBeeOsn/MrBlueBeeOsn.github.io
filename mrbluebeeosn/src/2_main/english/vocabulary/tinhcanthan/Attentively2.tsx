@@ -30,43 +30,43 @@ export default function atTENtively2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LISTENed-to">LISTENed to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WATCHED">WATCHED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#READ-before">READ ... be<strong>fore</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#obSERVED-under">obSERVED ... <strong>dur</strong>ing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#STUDied-for">STUDied for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FOLlowed">FOLlowed</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LIStened-to2">LIStened to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#PAID-atTENtion-to">PAID atTENtion to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TOOK-during">TOOK ... <strong>dur</strong>ing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#eXAMined">eXAMined</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function atTENtively2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she atTENtively LISTENed to the SPEAKer.</li>
-        <li className="list-none margin-bottom-20">Cô ấy lắng nghe người nói một cách chăm chú.</li>
+        <li value="1" id="LISTENed-to">she atTENtively [LISTENed to] the SPEAKer.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [đã lắng nghe] người nói một cách chăm chú.</li>
 
-        <li value="2" id="">the STUdents atTENtively WATCHED the demonSTRAtion.</li>
-        <li className="list-none margin-bottom-20">Các học sinh xem phần trình diễn một cách chăm chú.</li>
+        <li value="2" id="WATCHED">the STUdents atTENtively [WATCHED] the demonSTRAtion.</li>
+        <li className="list-none margin-bottom-20">Các học sinh đã xem phần trình diễn một cách chăm chú.</li>
 
-        <li value="3" id="">he atTENtively READ the CONtract be<strong>fore</strong> SIGNing it.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đọc hợp đồng một cách chăm chú trước khi ký.</li>
+        <li value="3" id="READ-before">he atTENtively [READ] the CONtract [be<strong>fore</strong>] SIGNing it.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [đã đọc] hợp đồng một cách chăm chú [trước] khi ký.</li>
 
-        <li value="4" id="">the SCIentist atTENtively obSERVED the CELLS under the MIcroscope.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học quan sát các tế bào dưới kính hiển vi một cách chăm chú.</li>
+        <li value="4" id="obSERVED-under">the SCIentist atTENtively [obSERVED] the CELLS [<strong>un</strong>der] the MIcroscope.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học [đã quan sát] các tế bào [dưới] kính hiển vi một cách chăm chú.</li>
 
-        <li value="5" id="">she atTENtively STUDied for her eXAMS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy học bài cho kỳ thi của mình một cách chăm chú.</li>
+        <li value="5" id="STUDied-for">she atTENtively [STUDied for] her eXAMS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [đã học bài cho] kỳ thi của mình một cách chăm chú.</li>
 
-        <li value="6" id="">the DOG atTENtively FOLlowed its OWNer's comMANDS.</li>
-        <li className="list-none margin-bottom-20">Con chó theo dõi lệnh của chủ nhân một cách chăm chú.</li>
+        <li value="6" id="FOLlowed">the DOG atTENtively [FOLlowed] its OWNer's comMANDS.</li>
+        <li className="list-none margin-bottom-20">Con chó [đã theo dõi] lệnh của chủ nhân một cách chăm chú.</li>
 
-        <li value="7" id="">the WORKers atTENtively LIStened to the SAFEty inSTRUCtions.</li>
-        <li className="list-none margin-bottom-20">Các công nhân lắng nghe hướng dẫn an toàn một cách chăm chú.</li>
+        <li value="7" id="LIStened-to2">the WORKers atTENtively [LIStened to] the SAFEty inSTRUCtions.</li>
+        <li className="list-none margin-bottom-20">Các công nhân [đã lắng nghe] hướng dẫn an toàn một cách chăm chú.</li>
 
-        <li value="8" id="">he atTENtively PAID atTENtion to the LECture.</li>
-        <li className="list-none margin-bottom-20">Anh ấy chú ý đến bài giảng một cách chăm chú.</li>
+        <li value="8" id="PAID-atTENtion-to">he atTENtively [PAID atTENtion to] the LECture.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [đã chú ý đến] bài giảng một cách chăm chú.</li>
 
-        <li value="9" id="">she atTENtively TOOK NOTES DURing the MEETing.</li>
-        <li className="list-none margin-bottom-20">Cô ấy ghi chú trong cuộc họp một cách chăm chú.</li>
+        <li value="9" id="TOOK-during">she atTENtively [TOOK] NOTES <strong>dur</strong>ing the MEETing.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [đã ghi] chú/bài [trong] cuộc họp một cách chăm chú.</li>
 
-        <li value="10" id="">the DOCtor atTENtively eXAMined the PAtient.</li>
-        <li className="list-none margin-bottom-20">Bác sĩ kiểm tra bệnh nhân một cách chăm chú.</li>
+        <li value="10" id="eXAMined">the DOCtor atTENtively [eXAMined] the PAtient.</li>
+        <li className="list-none margin-bottom-20">Bác sĩ [đã kiểm tra] bệnh nhân một cách chăm chú.</li>
 
       </ol>
 

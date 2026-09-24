@@ -781,7 +781,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>is USED to WORKing</strong> LONG HOURS under HIGH PRESsure in the acCOUNTing dePARTment.</li>
+					<li>he <strong>is USED to WORKing</strong> LONG HOURS <strong>un</strong>der HIGH PRESsure in the acCOUNTing dePARTment.</li>
 					<li className="list-none">Anh ấy <strong>đã quen với việc làm việc</strong> nhiều giờ liền dưới áp lực cao trong phòng kế toán.</li>
 					<li className="list-none">he là chủ thể. Sau cụm từ be USED to (quen với), hành động tiếp theo bắt buộc phải ở dạng -ing (WORKing). (Lưu ý phân biệt với cấu trúc USED to + V nguyên mẫu dùng để chỉ thói quen trong quá khứ).</li>
 			

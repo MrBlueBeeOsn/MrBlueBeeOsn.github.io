@@ -130,7 +130,7 @@ export default function STEADily1(): React.JSX.Element {
           <li id="VERB">STEADy yourSELF!</li>
           <li className="margin-bottom-20 list-none">Hãy giữ vững!</li>
 
-          <li id="NOUN">he adMIred her STEADiness under PRESsure.</li>
+          <li id="NOUN">he adMIred her STEADiness <strong>un</strong>der PRESsure.</li>
           <li className="list-none">Anh ấy ngưỡng mộ sự ổn định của cô ấy khi chịu áp lực.</li>
 
         </ul>

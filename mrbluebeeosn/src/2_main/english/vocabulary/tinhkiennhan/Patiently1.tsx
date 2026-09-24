@@ -146,7 +146,7 @@ export default function PAtiently1(): React.JSX.Element {
           <li>he LIStened to their comPLAINTS TOLerantly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy lắng nghe những lời phàn nàn của họ một cách khoan dung.</li>
 
-          <li>she enDURed the PAIN enDURingly.</li>
+          <li>she enDURed the PAIN en<strong>dur</strong>ingly.</li>
           <li className="list-none">Cô ấy chịu đựng nỗi đau một cách bền bỉ.</li>
 
         </ul>

@@ -115,7 +115,7 @@ export default function CURrently2(): React.JSX.Element {
         <li value="4" id="">the MANager is CURrently unaVAILable.</li>
         <li className="list-none margin-bottom-20">Quản lý hiện không có mặt.</li>
 
-        <li value="5" id="">the NEW BUILDing is CURrently under conSTRUCtion.</li>
+        <li value="5" id="">the NEW BUILDing is CURrently <strong>un</strong>der conSTRUCtion.</li>
         <li className="list-none margin-bottom-20">Tòa nhà mới đang được xây dựng.</li>
 
         <li value="6" id="">your APplication is CURrently being reVIEWED.</li>

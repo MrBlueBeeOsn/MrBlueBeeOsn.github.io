@@ -30,43 +30,43 @@ export default function toMORrow2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MORNing">MORNing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#afterNOON">afterNOON</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#EVEning">EVEning</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#NIGHT">NIGHT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DAY-after">DAY <strong>af</strong>ter</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#the-DAY-after">the DAY <strong>af</strong>ter</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WEEK">WEEK</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MONTH">MONTH</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#BUSy">BUSy</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MEET">MEET</HashLink>
           </span> &nbsp;
 
         </p>
@@ -105,35 +105,35 @@ export default function toMORrow2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">i have a MEETing toMORrow MORNing.</li>
-        <li className="list-none margin-bottom-20">Tôi có một cuộc họp vào sáng mai.</li>
+        <li value="1" id="MORNing">i have a MEETing toMORrow [MORNing].</li>
+        <li className="list-none margin-bottom-20">Tôi có một cuộc họp [vào sáng] mai.</li>
 
-        <li value="2" id="">let's GO to the BEACH toMORrow afterNOON.</li>
-        <li className="list-none margin-bottom-20">Chúng ta hãy đi biển vào chiều mai.</li>
+        <li value="2" id="afterNOON">let's GO to the BEACH toMORrow [afterNOON].</li>
+        <li className="list-none margin-bottom-20">Chúng ta hãy đi biển [vào chiều] mai.</li>
 
-        <li value="3" id="">i'm GOing to a PARTy toMORrow EVEning.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ đi dự tiệc vào tối mai.</li>
+        <li value="3" id="EVEning">i'm GOing to a PARTy toMORrow [EVEning].</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ đi dự tiệc [vào tối] mai.</li>
 
-        <li value="4" id="">it will be COLD toMORrow NIGHT.</li>
-        <li className="list-none margin-bottom-20">Đêm mai sẽ lạnh.</li>
+        <li value="4" id="NIGHT">it will be COLD toMORrow [NIGHT].</li>
+        <li className="list-none margin-bottom-20">[Đêm] mai sẽ lạnh.</li>
 
-        <li value="5" id="">i'll SEE you DAY <strong>af</strong>ter toMORrow.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ gặp bạn vào ngày kia.</li>
+        <li value="5" id="DAY-after">i'll SEE you [DAY <strong>af</strong>ter] toMORrow.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ gặp bạn [vào ngày kia].</li>
 
-        <li value="6" id="">i have a DENtist apPOINTment the DAY <strong>af</strong>ter toMORrow.</li>
-        <li className="list-none margin-bottom-20">Tôi có hẹn với nha sĩ vào ngày kia.</li>
+        <li value="6" id="the-DAY-after">i have a DENtist apPOINTment [the DAY <strong>af</strong>ter] toMORrow.</li>
+        <li className="list-none margin-bottom-20">Tôi có hẹn với nha sĩ [vào ngày kia].</li>
 
-        <li value="7" id="">i'm going on vaCAtion toMORrow WEEK.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ đi nghỉ mát vào tuần sau.</li>
+        <li value="7" id="WEEK">i'm going on vaCAtion toMORrow [WEEK].</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ đi nghỉ mát [vào tuần] sau.</li>
 
-        <li value="8" id="">my BIRTHday is toMORrow MONTH.</li>
-        <li className="list-none margin-bottom-20">Sinh nhật tôi vào tháng sau.</li>
+        <li value="8" id="MONTH">my BIRTHday is toMORrow [MONTH].</li>
+        <li className="list-none margin-bottom-20">Sinh nhật tôi vào [tháng] sau.</li>
 
-        <li value="9" id="">i'll be BUSy toMORrow and the NEXT DAY.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ bận rộn vào ngày mai và ngày kia.</li>
+        <li value="9" id="BUSy">i'll be [BUSy] toMORrow and the NEXT DAY.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ [bận rộn] vào ngày mai và ngày kia.</li>
 
-        <li value="10" id="">we can MEET toMORrow or the DAY AFter.</li>
-        <li className="list-none margin-bottom-20">Chúng ta có thể gặp nhau vào ngày mai hoặc ngày kia.</li>
+        <li value="10" id="MEET">we can [MEET] toMORrow or the DAY AFter.</li>
+        <li className="list-none margin-bottom-20">Chúng ta có thể [gặp nhau] vào ngày mai hoặc ngày kia.</li>
 
       </ol>
 

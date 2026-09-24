@@ -112,7 +112,7 @@ export default function PRESently2(): React.JSX.Element {
         <li value="3" id="">the PRODuct is PRESently aVAILable in all our STORES.</li>
         <li className="list-none margin-bottom-20">Sản phẩm hiện đang có sẵn tại tất cả các cửa hàng của chúng tôi.</li>
 
-        <li value="4" id="">the NEW BRIDGE is PRESently under conSTRUCtion.</li>
+        <li value="4" id="">the NEW BRIDGE is PRESently <strong>un</strong>der conSTRUCtion.</li>
         <li className="list-none margin-bottom-20">Cây cầu mới đang được xây dựng.</li>
 
         <li value="5" id="">he is PRESently LIVing in LONdon.</li>

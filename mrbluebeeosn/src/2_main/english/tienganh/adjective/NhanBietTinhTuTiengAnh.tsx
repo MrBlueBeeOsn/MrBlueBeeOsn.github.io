@@ -60,7 +60,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>SWIMming in this DEEP RIVer DURing a HEAVy STORM is exTREMEly <strong>DANgerous</strong>.</li>
+					<li>SWIMming in this DEEP RIVer <strong>dur</strong>ing a HEAVy STORM is exTREMEly <strong>DANgerous</strong>.</li>
 					<li className="margin-bottom-20 list-none">Bơi lội ở dòng sông sâu này trong một trận bão lớn là cực kỳ <strong>nguy hiểm</strong>.</li>
 			
 					<li>PARis is FAmous for its <strong>roMANtic</strong> ATmosphere and iCONic LANDmarks like the EIFFel TOWer.</li>
@@ -115,7 +115,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>MAking a <strong>CAREless</strong> misTAKE on the FInal MATH TEST COST him the HIGHest GRADE in the CLASS.</li>
 					<li className="margin-bottom-20 list-none">Việc mắc một lỗi <strong>bất cẩn</strong> trong bài kiểm tra toán cuối kỳ đã khiến cậu ấy mất đi điểm số cao nhất lớp.</li>
 
-					<li>the LOcal CHARity ORganization proVIDES FOOD and SHELter for <strong>HOMEless</strong> PEOple DURing the COLD WINter MONTHS.</li>
+					<li>the LOcal CHARity ORganization proVIDES FOOD and SHELter for <strong>HOMEless</strong> PEOple <strong>dur</strong>ing the COLD WINter MONTHS.</li>
 					<li className="margin-bottom-20 list-none">Tổ chức từ thiện địa phương cung cấp thức ăn và chỗ ở cho những người <strong>vô gia cư</strong> trong những tháng mùa đông lạnh giá.</li>
 			
 					<li>we were STUCK in <strong>ENDless</strong> TRAFfic on the HIGHway for over TWO HOURS.</li>
@@ -146,7 +146,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>volunTEERing at the LOcal FOOD BANK is a GREAT WAY to BUILD STRONG <strong>SOcial</strong> conNECtions.</li>
 					<li className="margin-bottom-20 list-none">Làm tình nguyện tại ngân hàng thực phẩm địa phương là một cách tuyệt vời để xây dựng các mối quan hệ <strong>xã hội</strong> khăng khít.</li>
 			
-					<li>my FAMILy ALways GATHers to COOK <strong>traDITional</strong> DISHes DURing the LUnar NEW YEAR.</li>
+					<li>my FAMILy ALways GATHers to COOK <strong>traDITional</strong> DISHes <strong>dur</strong>ing the LUnar NEW YEAR.</li>
 					<li className="list-none">Gia đình tôi luôn quây quần nấu các món ăn <strong>truyền thống</strong> trong dịp Tết Nguyên Đán.</li>
 			
 				</ul>

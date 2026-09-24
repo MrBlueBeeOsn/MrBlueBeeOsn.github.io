@@ -118,7 +118,7 @@ export default function proDUCTively2(): React.JSX.Element {
         <li value="5" id="ORganized">she proDUCTively [ORganized] her WORKspace to imPROVE efFICiency.</li>
         <li className="list-none margin-bottom-20">Cô ấy [đã sắp xếp] không gian làm việc của mình một cách hiệu quả để nâng cao năng suất.</li>
 
-        <li value="6" id="comMUnicated">the TEAM proDUCTively [comMUnicated] their PROGress DURing the MEEting.</li>
+        <li value="6" id="comMUnicated">the TEAM proDUCTively [comMUnicated] their PROGress <strong>dur</strong>ing the MEEting.</li>
         <li className="list-none margin-bottom-20">Cả đội [đã giao tiếp] một cách hiệu quả về tiến độ của họ trong cuộc họp.</li>
 
         <li value="7" id="colLABorated-on">the TWO dePARTments proDUCTively [colLABorated on] the JOINT PROJect.</li>
