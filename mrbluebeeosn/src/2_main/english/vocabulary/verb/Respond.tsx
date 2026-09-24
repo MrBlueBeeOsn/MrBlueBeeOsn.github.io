@@ -25,7 +25,7 @@ export default function reSPOND(): React.JSX.Element {
         
           <p className="example-sentence text-center">
             <span className="highlight-255-padding-0-4 text-border" >
-              <HashLink smooth to="#SUBject-HEAD">PROnoun HEAD</HashLink>
+              <HashLink smooth to="#SUBject-HEAD">SUBject HEAD</HashLink>
             </span> &nbsp;
 
             <span className="highlight-255-padding-0-4 text-border">
