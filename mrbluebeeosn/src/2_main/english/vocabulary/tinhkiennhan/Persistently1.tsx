@@ -101,7 +101,7 @@ export default function perSISTently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADverb">she perSISTently ASKED QUESTions until she GOT an ANswer.</li>
+          <li id="ADverb">she perSISTently ASKED QUESTions un<strong>til</strong> she GOT an ANswer.</li>
           <li className="margin-bottom-20 list-none">Cô ấy liên tục hỏi cho đến khi nhận được câu trả lời.</li>
 
           <li>the RAIN FELL perSISTently throughout the NIGHT.</li>
@@ -215,7 +215,7 @@ export default function perSISTently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she perSISTently KNOCKED on the DOOR until SOMEone ANswered.</li>
+          <li>she perSISTently KNOCKED on the DOOR un<strong>til</strong> SOMEone ANswered.</li>
           <li className="list-none">Cô ấy liên tục gõ cửa cho đến khi có người mở cửa.</li>
 
         </ul>

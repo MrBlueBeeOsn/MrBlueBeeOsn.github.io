@@ -836,7 +836,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>postPONED upDAting</strong> the fiNANcial RECords until the NEW SOFTware was FULLy inSTALLED.</li>
+					<li>she <strong>postPONED upDAting</strong> the fiNANcial RECords un<strong>til</strong> the NEW SOFTware was FULLy inSTALLED.</li>
 					<li className="list-none">Cô ấy <strong>đã hoãn việc cập nhật</strong> hồ sơ tài chính cho đến khi phần mềm mới được cài đặt hoàn chỉnh.</li>
 					<li className="list-none">she là chủ thể. Sau động từ postPONE, hành động tiếp theo bắt buộc phải ở dạng -ing (upDAting), dùng để chỉ việc trì hoãn hoặc dời lại một kế hoạch, hành động sang một thời điểm khác.</li>
 			
@@ -952,7 +952,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>reFUSED to SIGN</strong> the fiNANcial AUdit rePORT until all ERrors were corRECTed.</li>
+					<li>he <strong>reFUSED to SIGN</strong> the fiNANcial AUdit rePORT un<strong>til</strong> all ERrors were corRECTed.</li>
 					<li className="list-none">Anh ấy <strong>đã từ chối ký</strong> báo cáo kiểm toán tài chính cho đến khi tất cả các lỗi được sửa chữa.</li>
 					<li className="list-none">he là chủ thể. Sau động từ reFUSE, hành động tiếp theo bắt buộc phải ở dạng to V (to SIGN), thể hiện thái độ không đồng ý hoặc kiên quyết không thực hiện một hành động cụ thể.</li>
 			

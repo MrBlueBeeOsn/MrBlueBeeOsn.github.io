@@ -30,43 +30,43 @@ export default function Usually2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DOES-after">DOES ... <strong>af</strong>ter</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GOES-to-at">GOES to ... at</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#RAINS-in">RAINS in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TAKES">TAKES</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FEELS-HAPpy-after">FEELS HAPpy <strong>af</strong>ter</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LOOKS-TIred-in">LOOKS TIred in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#EATS-for">EATS ... for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LIVES-in">LIVES in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WORKS-from-on">WORKS from ... on</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#PLAYS-with">PLAYS ... with</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function Usually2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she Usually DOES her HOMEwork <strong>af</strong>ter DINner.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thường làm bài tập về nhà sau bữa tối.</li>
+        <li value="1" id="DOES-after">she Usually [DOES] her HOMEwork [<strong>af</strong>ter] DINner.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường [làm] bài tập về nhà [sau] bữa tối.</li>
 
-        <li value="2" id="">he Usually GOES to BED at 10 p.M.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường đi ngủ lúc 10 giờ tối.</li>
+        <li value="2" id="GOES-to-at">he Usually [GOES to] BED [at] 10 p.M.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường [đi] ngủ [lúc] 10 giờ tối.</li>
 
-        <li value="3" id="">it Usually RAINS in the WINter.</li>
-        <li className="list-none margin-bottom-20">Mùa đông thường mưa.</li>
+        <li value="3" id="RAINS-in">it Usually [RAINS in] the WINter.</li>
+        <li className="list-none margin-bottom-20">Mùa đông thường [mưa].</li>
 
-        <li value="4" id="">it Usually TAKES me an HOUR to GET to WORK.</li>
-        <li className="list-none margin-bottom-20">Tôi thường mất một giờ để đi làm.</li>
+        <li value="4" id="TAKES">it Usually [TAKES] me an HOUR to GET to WORK.</li>
+        <li className="list-none margin-bottom-20">Tôi thường [mất] một giờ để đi làm.</li>
 
-        <li value="5" id="">she Usually FEELS HAPpy <strong>af</strong>ter EXercising.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thường cảm thấy vui vẻ sau khi tập thể dục.</li>
+        <li value="5" id="FEELS-HAPpy-after">she Usually [FEELS HAPpy <strong>af</strong>ter] EXercising.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường [cảm thấy vui vẻ sau khi] tập thể dục.</li>
 
-        <li value="6" id="">he Usually LOOKS TIred in the MORNing.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường trông mệt mỏi vào buổi sáng.</li>
+        <li value="6" id="LOOKS-TIred-in">he Usually [LOOKS TIred in] the MORNing.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường [trông mệt mỏi vào] buổi sáng.</li>
 
-        <li value="7" id="">she Usually EATS FRUITS for BREAKfast.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thường ăn trái cây vào bữa sáng.</li>
+        <li value="7" id="EATS-for">she Usually [EATS] FRUITS [for] BREAKfast.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường [ăn] trái cây [cho] bữa sáng.</li>
 
-        <li value="8" id="">he Usually LIVES in a SMALL aPARTment.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường sống trong một căn hộ nhỏ.</li>
+        <li value="8" id="LIVES-in">he Usually [LIVES in] a SMALL aPARTment.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường [sống trong] một căn hộ nhỏ.</li>
 
-        <li value="9" id="">she Usually WORKS from HOME on FRIdays.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thường làm việc tại nhà vào thứ Sáu.</li>
+        <li value="9" id="WORKS-from-on">she Usually [WORKS from] HOME [on] FRIdays.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường [làm] việc tại nhà [vào] thứ Sáu.</li>
 
-        <li value="10" id="">he Usually PLAYS BASketball with his FRIENDS on WEEKends.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường chơi bóng rổ với bạn bè vào cuối tuần.</li>
+        <li value="10" id="PLAYS-with">he Usually [PLAYS] BASketball [with] his FRIENDS on WEEKends.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường [chơi] bóng rổ [với] bạn bè vào cuối tuần.</li>
 
       </ol>
 

@@ -30,43 +30,43 @@ export default function rePEATedly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#ASKED-to-turN-DOWN">ASKED ... to turN DOWN</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FAILED">FAILED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WARNED-about-of">WARNED about ... of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#EMphasized-of">EMphasized ... of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TESTed-for">TESTed for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#exPOSED-to">exPOSED to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#deLAYED-due-to">deLAYED due to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MENtioned-to-TRAVel">MENtioned ... to TRAVel</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#obSERVED-of">obSERVED ... of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#PRACticed-until">PRACticed ... un<strong>til</strong></HashLink>
           </span> &nbsp;
 
         </p>
@@ -105,35 +105,35 @@ export default function rePEATedly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she rePEATedly ASKED him to turN DOWN the MUsic.</li>
-        <li className="list-none margin-bottom-20">Cô ấy liên tục yêu cầu anh ấy vặn nhỏ tiếng nhạc.</li>
+        <li value="1" id="ASKED-to-turN-DOWN">she rePEATedly [ASKED] him [to turN DOWN] the MUsic.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [đã liên tục yêu cầu] anh ấy [vặn nhỏ] tiếng nhạc.</li>
 
-        <li value="2" id="">he rePEATedly FAILED his DRIving TEST.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thi bằng lái nhiều lần nhưng đều trượt.</li>
+        <li value="2" id="FAILED">he rePEATedly [FAILED] his DRIving TEST.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [đã] liên tiếp [trượt] kỳ thi sát hạch lái xe.</li>
 
-        <li value="3" id="">she was rePEATedly WARNED a<strong>bout</strong> the DANGers of SPEEDing.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã được cảnh báo nhiều lần về nguy hiểm của việc lái xe quá tốc độ.</li>
+        <li value="3" id="WARNED-about-of">she was rePEATedly [WARNED a<strong>bout</strong>] the DANGers [of] SPEEDing.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã [được cảnh báo] nhiều lần [về] nguy hiểm [của] việc lái xe quá tốc độ.</li>
 
-        <li value="4" id="">the TEACHer rePEATedly EMphasized the imPORtance of STUDying.</li>
-        <li className="list-none margin-bottom-20">Giáo viên đã nhấn mạnh nhiều lần tầm quan trọng của việc học.</li>
+        <li value="4" id="EMphasized-of">the TEACHer rePEATedly [EMphasized] the imPORtance [of] STUDying.</li>
+        <li className="list-none margin-bottom-20">Giáo viên [đã nhấn mạnh] nhiều lần tầm quan trọng [của] việc học.</li>
 
-        <li value="5" id="">the NEW DRUG was rePEATedly TESTed for SAFEty.</li>
-        <li className="list-none margin-bottom-20">Loại thuốc mới đã được kiểm tra độ an toàn nhiều lần.</li>
+        <li value="5" id="TESTed-for">the NEW DRUG was rePEATedly [TESTed for] SAFEty.</li>
+        <li className="list-none margin-bottom-20">Loại thuốc mới đã [được kiểm tra] độ an toàn nhiều lần.</li>
 
-        <li value="6" id="">she was rePEATedly exPOSED to LOUD NOISE.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thường xuyên tiếp xúc với tiếng ồn lớn.</li>
+        <li value="6" id="exPOSED-to">she was rePEATedly [exPOSED to] LOUD NOISE.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường xuyên [tiếp xúc với] tiếng ồn lớn.</li>
 
-        <li value="7" id="">the PROJect was rePEATedly deLAYED due to FUNding ISsues.</li>
-        <li className="list-none margin-bottom-20">Dự án đã bị trì hoãn nhiều lần do vấn đề về tài chính.</li>
+        <li value="7" id="deLAYED-due-to">the PROJect was rePEATedly [deLAYED due to] FUNding ISsues.</li>
+        <li className="list-none margin-bottom-20">Dự án đã [bị trì hoãn] nhiều lần [do] vấn đề về tài chính.</li>
 
-        <li value="8" id="">he rePEATedly MENtioned his deSIre to TRAVel.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã đề cập nhiều lần về mong muốn được đi du lịch.</li>
+        <li value="8" id="MENtioned-to-TRAVel">he rePEATedly [MENtioned] his deSIre [to TRAVel].</li>
+        <li className="list-none margin-bottom-20">Anh ấy [đã đề cập] nhiều lần [về] mong muốn [đi du lịch].</li>
 
-        <li value="9" id="">the SCIentists rePEATedly obSERVED the beHAvior of the ANimals.</li>
-        <li className="list-none margin-bottom-20">Các nhà khoa học đã quan sát hành vi của động vật nhiều lần.</li>
+        <li value="9" id="obSERVED-of">the SCIentists rePEATedly [obSERVED] the beHAvior [of] the ANimals.</li>
+        <li className="list-none margin-bottom-20">Các nhà khoa học [đã quan sát] hành vi [của] động vật nhiều lần.</li>
 
-        <li value="10" id="">she rePEATedly PRACticed the piANo PIECE until she could PLAY it PERfectly.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã luyện tập bài piano đó nhiều lần cho đến khi chơi được hoàn hảo.</li>
+        <li value="10" id="PRACticed-until">she rePEATedly [PRACticed] the piANo PIECE [un<strong>til</strong>] she could PLAY it PERfectly.</li>
+        <li className="list-none margin-bottom-20">Cô ấy [đã luyện tập] bài piano đó nhiều lần [cho đến khi] chơi được hoàn hảo.</li>
 
       </ol>
 

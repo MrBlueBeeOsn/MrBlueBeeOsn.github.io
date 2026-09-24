@@ -314,7 +314,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					<li value="12" id="lookiNG-FORward">i’m <strong>lookiNG FORward</strong> to the TET HOLiday!</li>
 					<li className="margin-bottom-20 list-none">Tôi rất <strong>mong chờ</strong> kỳ nghỉ Tết!</li>
 
-					<li value="13" id="puT-OFF">they <strong>puT OFF</strong> the MEETing until NEXT WEEK.</li>
+					<li value="13" id="puT-OFF">they <strong>puT OFF</strong> the MEETing un<strong>til</strong> NEXT WEEK.</li>
 					<li className="margin-bottom-20 list-none">Họ <strong>đã hoãn</strong> cuộc họp lại cho đến tuần tới.</li>
 			
 					<li value="14" id="takeS-AFter">she REally <strong>takeS AFter</strong> her MOTHer.</li>

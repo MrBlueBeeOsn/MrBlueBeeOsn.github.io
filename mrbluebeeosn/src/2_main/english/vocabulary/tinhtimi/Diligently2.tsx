@@ -103,7 +103,7 @@ export default function DILigently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="WORKED-on">she DILigently [WORKED on] her PROject until LATE at NIGHT.</li>
+        <li value="1" id="WORKED-on">she DILigently [WORKED on] her PROject un<strong>til</strong> LATE at NIGHT.</li>
         <li className="list-none margin-bottom-20">Cô ấy chăm chỉ [làm] dự án đến tận khuya.</li>
 
         <li value="2" id="STUDied-for">he DILigently [STUDied for] his eXAMs.</li>

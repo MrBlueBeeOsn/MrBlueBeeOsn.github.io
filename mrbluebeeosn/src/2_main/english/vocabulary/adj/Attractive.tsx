@@ -154,7 +154,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>her [CAPtivating] perFORmance HELD the AUdience’s atTENtion until the VEry END.</li>
+          <li>her [CAPtivating] perFORmance HELD the AUdience’s atTENtion un<strong>til</strong> the VEry END.</li>
           <li className="list-none">Màn trình diễn say đắm của cô ấy đã giữ được sự chú ý của khán giả cho đến tận cuối cùng.</li>
 
         </ul>

@@ -30,43 +30,43 @@ export default function OFten2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DO-in">DO ... in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GO-to-on">GO to ... on</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#EATS-for">EATS ... for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#READS-before">READS ... be<strong>fore</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#PLAY-outSIDE-after">PLAY outSIDE <strong>af</strong>ter</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WATCH-but-SOMEtimes-i-do">WATCH ... but SOMEtimes i do</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DRINK-COFfee-in">DRINK COFfee in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WORKS-LATE-at">WORKS LATE at</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GO-SHOPping-on">GO SHOPping on</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FEEL-STRESSED">FEEL STRESSED</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function OFten2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">i OFten DO my HOMEwork in the EVEning.</li>
+        <li value="1" id="DO-in">i OFten [DO] my HOMEwork [in] the EVEning.</li>
         <li className="list-none margin-bottom-20">Tôi thường làm bài tập về nhà vào buổi tối.</li>
 
-        <li value="2" id="">we OFten GO to the BEACH on WEEKends.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi thường đi biển vào cuối tuần.</li>
+        <li value="2" id="GO-to-on">we OFten [GO to] the BEACH [on] WEEKends.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi thường [đi] biển [vào] cuối tuần.</li>
 
-        <li value="3" id="">she OFten EATS FRUITS for BREAKfast.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thường ăn trái cây vào bữa sáng.</li>
+        <li value="3" id="EATS-for">she OFten [EATS] FRUITS [for] BREAKfast.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường [ăn] trái cây [cho] bữa sáng.</li>
 
-        <li value="4" id="">he OFten READS BOOKS be<strong>fore</strong> GOing to BED.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường đọc sách trước khi đi ngủ.</li>
+        <li value="4" id="READS-before">he OFten [READS] BOOKS [be<strong>fore</strong>] GOing to BED.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường [đọc] sách [trước khi] đi ngủ.</li>
 
-        <li value="5" id="">CHILDren OFten PLAY outSIDE <strong>af</strong>ter SCHOOL.</li>
-        <li className="list-none margin-bottom-20">Trẻ em thường chơi ngoài trời sau giờ học.</li>
+        <li value="5" id="PLAY-outSIDE-after">CHILDren OFten [PLAY outSIDE <strong>af</strong>ter] SCHOOL.</li>
+        <li className="list-none margin-bottom-20">Trẻ em thường [chơi ngoài trời sau] giờ học.</li>
 
-        <li value="6" id="">i do NOT OFten WATCH tV, but SOMEtimes i do.</li>
-        <li className="list-none margin-bottom-20">Tôi không thường xuyên xem TV, nhưng thỉnh thoảng tôi cũng xem.</li>
+        <li value="6" id="WATCH-but-SOMEtimes-i-do">i do NOT OFten [WATCH] TV, [but SOMEtimes i do].</li>
+        <li className="list-none margin-bottom-20">Tôi không thường [xuyên xem] TV, [nhưng thỉnh thoảng tôi cũng xem].</li>
 
-        <li value="7" id="">i OFten DRINK COFfee in the MORNing.</li>
-        <li className="list-none margin-bottom-20">Tôi thường uống cà phê vào buổi sáng.</li>
+        <li value="7" id="DRINK-COFfee-in">i OFten [DRINK COFfee in] the MORNing.</li>
+        <li className="list-none margin-bottom-20">Tôi thường [uống cà phê vào] buổi sáng.</li>
 
-        <li value="8" id="">he OFten WORKS LATE at NIGHT.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường làm việc muộn vào ban đêm.</li>
+        <li value="8" id="WORKS-LATE-at">he OFten [WORKS LATE at] NIGHT.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường [làm việc muộn vào] ban đêm.</li>
 
-        <li value="9" id="">we OFten GO SHOPping on WEEKends.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi thường đi mua sắm vào cuối tuần.</li>
+        <li value="9" id="GO-SHOPping-on">we OFten [GO SHOPping on] WEEKends.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi thường [đi mua sắm vào] cuối tuần.</li>
 
-        <li value="10" id="">when i OFten FEEL STRESSED, i LISten to MUsic.</li>
-        <li className="list-none margin-bottom-20">Thường khi tôi cảm thấy căng thẳng, tôi nghe nhạc.</li>
+        <li value="10" id="FEEL-STRESSED">when i OFten [FEEL STRESSED], i LISten to MUsic.</li>
+        <li className="list-none margin-bottom-20">Thường khi tôi [cảm thấy căng thẳng], tôi nghe nhạc.</li>
 
       </ol>
 
