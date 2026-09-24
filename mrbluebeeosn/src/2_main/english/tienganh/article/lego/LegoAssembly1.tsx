@@ -126,12 +126,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. Bộ Khung Xương Duy Nhất: [S] [HEAD] [dePENDent]</h3>
+			<h3 className="margin-y-50 text-center">1. Bộ Khung Xương Duy Nhất: [S] [V] [O]</h3>
 			
-			<p>Mọi câu lớn có thể đứng độc lập và kết thúc bằng dấu chấm trong tiếng Anh, thực chất chỉ là sự vận hành của ba thành phần cơ bản luôn đóng khung [S], [HEAD], [dePENDent]:</p>
+			<p>Mọi câu lớn có thể đứng độc lập và kết thúc bằng dấu chấm trong tiếng Anh, thực chất chỉ là sự vận hành của ba thành phần cơ bản luôn đóng khung [SUBject], [VERB], [OBject]:</p>
 
 
-			<h4 className="margin-y-40 text-indent-whole">[<strong>S</strong>] [<strong>HEAD</strong>] [<strong>dePENDent</strong>]</h4>
+			<h4 className="margin-y-40 text-indent-whole">[<strong>S HEAD</strong>] [<strong>V HEAD</strong>] [<strong>O HEAD</strong>]</h4>
 			
 				<ul className="list-square">
 			
