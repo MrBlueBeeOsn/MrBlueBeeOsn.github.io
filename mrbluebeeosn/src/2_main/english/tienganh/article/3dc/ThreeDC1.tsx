@@ -163,9 +163,15 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li><strong>Ở cấp độ</strong> [<strong>prepoSITional PHRASE</strong>][<strong>GIỚI CỤM</strong>]: Sinh ra [ADjective PHRASE][TÍNH CỤM], [ADverb PHRASE][TRẠNG CỤM].</li>
 
-					<li><strong>Ở cấp độ</strong> [<strong>PROnoun CLAUSE</strong>][<strong>ĐẠI CÂU</strong>]: Sinh ra [ADjective CLAUSE][TÍNH CÂU]</li>
+					<li><strong>Ở cấp độ</strong> [<strong>deCLARative CONtent CLAUSE</strong>][<strong>THUẬT NỘI CÂU</strong>]: Sinh ra [NOUN CLAUSE][DANH CÂU].</li>
 
-					<li><strong>Ở cấp độ</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>]: Sinh ra [NOUN CLAUSE][DANH CÂU], [ADjective CLAUSE][TÍNH CÂU], [ADverb CLAUSE][TRẠNG CÂU].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>ZEro CONtent CLAUSE</strong>][<strong>KHUYẾT NỘI CÂU</strong>]: Sinh ra [NOUN CLAUSE][DANH CÂU].</li>
+
+					<li><strong>Ở cấp độ</strong> [<strong>interROGative CONtent CLAUSE</strong>][<strong>VẤN NỘI CÂU</strong>]: Sinh ra [NOUN CLAUSE][DANH CÂU].</li>
+
+					<li><strong>Ở cấp độ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]: Sinh ra [ADjective CLAUSE][TÍNH CÂU].</li>
+
+					<li><strong>Ở cấp độ</strong> [<strong>suBORdinate CLAUSE</strong>][<strong>PHỤ CÂU</strong>]: Sinh ra [ADverb CLAUSE][TRẠNG CÂU].</li>
 			
 				</ul>
 
@@ -502,7 +508,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[HOW the TEAM seCURES the FUNding] reMAINS a CRITical QUESTion.</li>
 					<li className="margin-bottom-20 list-none">[Cách mà đội ngũ đảm bảo nguồn vốn] vẫn là một câu hỏi then chốt.</li>
 			
-					<li className="list-none">Hình thái: Khối [HOW the TEAM seCURES the FUNding] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "HOW" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the TEAM" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "seCURES".</li>
+					<li className="list-none">Hình thái: Khối [HOW the TEAM seCURES the FUNding] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "HOW" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the TEAM" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "seCURES".</li>
 			
 					<li className="list-none">Chức năng: Khối [HOW the TEAM seCURES the FUNding] - [SUBject CLAUSE][CHỦ CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đứng trước điều phối [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "reMAINS".</li>
 			
@@ -516,7 +522,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the aNALysis reVEALED [that the ALgorithm posSESSED a BIas].</li>
 					<li className="margin-bottom-20 list-none">Kết quả phân tích cho thấy [rằng thuật toán đã có một sự thiên vị].</li>
 			
-					<li className="list-none">Hình thái: Khối [that the ALgorithm posSESSED a BIas] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "that" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the ALgorithm" và [PAST VERB][ĐÃ ĐỘNG] "posSESSED".</li>
+					<li className="list-none">Hình thái: Khối [that the ALgorithm posSESSED a BIas] - [deCLARative CONtent CLAUSE][THUẬT NỘI CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "that" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the ALgorithm" và [PAST VERB][ĐÃ ĐỘNG] "posSESSED".</li>
 			
 					<li className="list-none">Chức năng: Khối [that the ALgorithm posSESSED a BIas] - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu tác động trực tiếp đứng sau điều phối của [PAST VERB][ĐÃ ĐỘNG] "reVEALED".</li>
 			
@@ -544,7 +550,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>we will HALT proDUCtion [un<strong>less</strong> the QUAlity STANdard imPROVES].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ dừng sản xuất [ngoại trừ khi tiêu chuẩn chất lượng cải thiện].</li>
 			
-					<li className="list-none">Hình thái: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the QUAlity STANdard" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "imPROVES".</li>
+					<li className="list-none">Hình thái: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [suBORdinate CLAUSE][PHỤ CÂU] bắt đầu bằng [conJUNCtion][LIÊN] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the QUAlity STANdard" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "imPROVES".</li>
 			
 					<li className="list-none">Chức năng: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [ADverb CLAUSE][TRẠNG CÂU] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] "will".</li>
 			
@@ -565,7 +571,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the exECutive asSUMED [the BOARD would apPROVE the BUDget].</li>
 					<li className="margin-bottom-20 list-none">Vị giám đốc điều hành đã giả định [ban quản trị sẽ phê duyệt ngân sách].</li>
 			
-					<li className="list-none">Hình thái: Khối [the BOARD would apPROVE the BUDget] - [CONtact CLAUSE][CHẠM CÂU] lồng ghép trực tiếp đứng sau hành động chính mà không cần sự hỗ trợ của [conJUNCtion][LIÊN] "that".</li>
+					<li className="list-none">Hình thái: Khối [the BOARD would apPROVE the BUDget] - [ZEro COMplement CLAUSE][KHUYẾT BỔ CÂU] lồng ghép trực tiếp đứng sau hành động chính mà không cần sự hỗ trợ của [conJUNCtion][LIÊN] "that".</li>
 			
 					<li className="list-none">Chức năng: Khối [the BOARD would apPROVE the BUDget] thực thi chức năng [NOUN CLAUSE][DANH CÂU] làm nhiệm vụ của một [OBject CLAUSE][TÂN CÂU] chịu tác động trực tiếp đứng sau sự điều phối của [PAST VERB][ĐÃ ĐỘNG] asSUMED.</li>
 			
@@ -579,7 +585,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the MENtor [i conSULted YESterday] proVIded inVALuable adVICE.</li>
 					<li className="margin-bottom-20 list-none">Người cố vấn [tôi đã xin ý kiến ngày hôm qua] đã đưa ra lời khuyên vô giá.</li>
 			
-					<li className="list-none">Hình thái: Khối [i conSULted YESterday] - [CONtact CLAUSE][CHẠM CÂU] có sự lược bỏ [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong.</li>
+					<li className="list-none">Hình thái: Khối [i conSULted YESterday] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] có sự lược bỏ [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong.</li>
 			
 					<li className="list-none">Chức năng: Khối [i conSULted YESterday] thực thi chức năng [ADjective CLAUSE][TÍNH CÂU] đứng ôm ngay sau thực thể [SUBject HEAD][CHỦ LÕI] "the MENtor" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
 			
@@ -593,7 +599,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the HIGHer the PRESsure RIses, [the FASter the CHEMical reACTS].</li>
 					<li className="margin-bottom-20 list-none">Áp suất càng tăng cao, [hóa chất càng phản ứng nhanh hơn].</li>
 			
-					<li className="list-none">Hình thái: Khối [the FASter the CHEMical reACTS] - [CONtact CLAUSE][CHẠM CÂU] mang cấu trúc so sánh lũy tiến song hành đặc trưng nhưng không sử dụng [conJUNCtion][LIÊN] phụ thuộc truyền thống.</li>
+					<li className="list-none">Hình thái: Khối [the FASter the CHEMical reACTS] - [ZEro suBORdinate CLAUSE][KHUYẾT PHỤ CÂU] mang cấu trúc so sánh lũy tiến song hành đặc trưng nhưng không sử dụng [conJUNCtion][LIÊN] phụ thuộc truyền thống.</li>
 			
 					<li className="list-none">Chức năng: Khối [the FASter the CHEMical reACTS] thực thi chức năng [ADverb CLAUSE][TRẠNG CÂU] đóng vai trò một khối bối cảnh tương quan hệ quả để bổ nghĩa bối cảnh hệ quả cho vế điều kiện phía trước.</li>
 			
@@ -710,14 +716,14 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái</strong> [<strong>suBORdinate CLAUSE</strong>][<strong>PHỤ CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the SYStem CRASHED [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [vì nhiệt độ bên trong leo thang nhanh chóng].</li>
 			
-					<li className="list-none">Hình thái: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "be<strong>cause</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "TEMPERature" và [PAST VERB][ĐÃ ĐỘNG] "EScalated".</li>
+					<li className="list-none">Hình thái: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [suBORdinate CLAUSE][PHỤ CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "be<strong>cause</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "TEMPERature" và [PAST VERB][ĐÃ ĐỘNG] "EScalated".</li>
 			
 					<li className="list-none">Chức năng: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [ADverb CLAUSE][TRẠNG CÂU] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "CRASHED".</li>
 			
@@ -761,7 +767,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 
-			<p className="text-indent-whole"><strong>Dùng hình thái</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>]</p>
+			<p className="text-indent-whole"><strong>Dùng hình thái</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -811,7 +817,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">3. Paraphrasing cho chức năng [NOUN HEAD][DANH LÕI]</h4>
 
-			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>: <strong>Dùng hình thái</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>]</p>
+			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>: <strong>Dùng hình thái</strong> [<strong>interROGative CONtent CLAUSE</strong>][<strong>VẤN NỘI CÂU</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole">Làm [OBject CLAUSE][TÂN CÂU]</p>
 
@@ -821,7 +827,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the PROgrammer disCOVered  [how he could BYpass the seCUrity FIREwall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách mà anh ấy có thể vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: Khối [how he could BYpass the seCUrity FIREwall] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "HOW" lồng khối chủ vị hoàn chỉnh có [SOFT MOdal and BARE inFINitive VERB][Ý THÁI và THUẦN NGUYÊN ĐỘNG] "could".</li>
+					<li className="list-none">Hình thái: Khối [how he could BYpass the seCUrity FIREwall] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] bắt đầu bằng [conJUNCtion][LIÊN] "HOW" lồng khối chủ vị hoàn chỉnh có [SOFT MOdal and BARE inFINitive VERB][Ý THÁI và THUẦN NGUYÊN ĐỘNG] "could".</li>
 			
 					<li className="list-none">Chức năng: Khối [how he could BYpass the seCUrity FIREwall] - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] nhận tác động trực tiếp của [VERB HEAD][ĐỘNG LÕI] "disCOVered".</li>
 			

@@ -88,7 +88,7 @@ export default function (): React.JSX.Element {
 				"[emBEDded NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [NOUN CLAUSE][DANH CÂU] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
+			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [suBORdinate CLAUSE][PHỤ CÂU] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [NOUN CLAUSE][DANH CÂU] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function (): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [that the BOOKkeeper MADE a SERious ERror] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng \"that\", có chứa chủ thể \"the BOOKkeeper\" và hành động \"made\" xác định theo thời quá khứ. \n\n Chức năng: [that the BOOKkeeper MADE a SERious ERror] - [NOUN CLAUSE][DANH CÂU] đứng sau hành động \"REalized\" giữ vai trò tiếp nhận tác động từ hành động này."
+			explanation: "Hình thái: [that the BOOKkeeper MADE a SERious ERror] - [suBORdinate CLAUSE][PHỤ CÂU] bắt đầu bằng \"that\", có chứa chủ thể \"the BOOKkeeper\" và hành động \"made\" xác định theo thời quá khứ. \n\n Chức năng: [that the BOOKkeeper MADE a SERious ERror] - [NOUN CLAUSE][DANH CÂU] đứng sau hành động \"REalized\" giữ vai trò tiếp nhận tác động từ hành động này."
 		},
 		{
 			id: 9,
@@ -108,7 +108,7 @@ export default function (): React.JSX.Element {
 				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [who AUdits our BOOKS every YEAR] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng thành phần liên kết \"who\", có chứa hành động \"AUdits\" xác định theo thời hiện tại. \n\n Chức năng: [who AUdits our BOOKS every YEAR] - [ADjective CLAUSE][TÍNH CÂU] đứng sau \"the acCOUNTant\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [who AUdits our BOOKS every YEAR] - [suBORdinate CLAUSE][PHỤ CÂU] bắt đầu bằng thành phần liên kết \"who\", có chứa hành động \"AUdits\" xác định theo thời hiện tại. \n\n Chức năng: [who AUdits our BOOKS every YEAR] - [ADjective CLAUSE][TÍNH CÂU] đứng sau \"the acCOUNTant\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 10,
@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "[because the TAX LAWS CHANGED REcently] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng thành phần liên kết \"because\", có chứa chủ thể \"the TAX LAWS\" và hành động \"CHANGED\" xác định theo thời quá khứ. \n\n Chức năng: [because the TAX LAWS CHANGED REcently] - [ADverb CLAUSE][TRẠNG CÂU] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
+			explanation: "[because the TAX LAWS CHANGED REcently] - [suBORdinate CLAUSE][PHỤ CÂU] bắt đầu bằng thành phần liên kết \"because\", có chứa chủ thể \"the TAX LAWS\" và hành động \"CHANGED\" xác định theo thời quá khứ. \n\n Chức năng: [because the TAX LAWS CHANGED REcently] - [ADverb CLAUSE][TRẠNG CÂU] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
 		}
 	];
 

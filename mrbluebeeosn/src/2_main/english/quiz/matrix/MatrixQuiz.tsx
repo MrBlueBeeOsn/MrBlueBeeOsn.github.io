@@ -88,7 +88,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [where they conDUCT MEDical exPERiments] - [conJUNCtional CLAUSE][LIÊN CÂU] formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conDUCT\". \n\n Function: [where they conDUCT MEDical exPERiments] - [ADjective CLAUSE][TÍNH CÂU] post-modifies and defines the spatial traits of the head noun \"LABORatory\"."
+			explanation: "Form: [where they conDUCT MEDical exPERiments] - [suBORdinate CLAUSE][PHỤ CÂU] formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conDUCT\". \n\n Function: [where they conDUCT MEDical exPERiments] - [ADjective CLAUSE][TÍNH CÂU] post-modifies and defines the spatial traits of the head noun \"LABORatory\"."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [although the TEAM FACED seVERE BUDget CUTS] - [conJUNCtional CLAUSE][LIÊN CÂU] formed by the subordinating conjunction \"although\" followed by a full clause containing the subject \"the TEAM\" and finite verb \"FACED\". \n\n Function: [although the TEAM FACED seVERE BUDget CUTS] - [ADverb CLAUSE][TRẠNG CÂU] modifies the entire main clause by providing a situational context of concession."
+			explanation: "Form: [although the TEAM FACED seVERE BUDget CUTS] - [suBORdinate CLAUSE][PHỤ CÂU] formed by the subordinating conjunction \"although\" followed by a full clause containing the subject \"the TEAM\" and finite verb \"FACED\". \n\n Function: [although the TEAM FACED seVERE BUDget CUTS] - [ADverb CLAUSE][TRẠNG CÂU] modifies the entire main clause by providing a situational context of concession."
 		},
 		{
 			id: 9,

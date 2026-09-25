@@ -450,7 +450,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[WHAT you SAID] surPRISED me.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn đã nói] đã làm tôi ngạc nhiên.</li>
 			
-					<li className="list-none">Hình thái:  [WHAT you SAID] - [conJUNCtional CLAUSE][LIÊN CÂU] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [PAST VERB][ĐÃ ĐỘNG] "SAID", bắt đầu bằng [conJUNCtion][LIÊN] "WHAT".</li>
+					<li className="list-none">Hình thái:  [WHAT you SAID] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [PAST VERB][ĐÃ ĐỘNG] "SAID", bắt đầu bằng [conJUNCtion][LIÊN] "WHAT".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng:  [WHAT you SAID] - [SUBject CLAUSE][CHỦ CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [PAST VERB][ĐÃ ĐỘNG] "surPRISED" để làm [SUBject][CHỦ] điều phối hành động cho toàn bộ [Câu Lớn][Sentence].</li>
 			
@@ -461,7 +461,7 @@ export default function SV1(): React.JSX.Element {
 					<li><strong>ever</strong>yone KNOWS [that WAter BOILS at ONE HUNdred deGREES].</li>
 					<li className="margin-bottom-20 list-none">Mọi người đều biết [rằng nước sôi ở 100 độ].</li>
 			
-					<li className="list-none">Hình thái: [that WAter BOILS at ONE HUNdred deGREES] - [conJUNCtional CLAUSE][LIÊN CÂU] tạo nên khối hành động phức có chứa hệ trục [SUBject HEAD][CHỦ LÕI] "WAter" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "BOILS", bắt đầu bằng [conJUNCtion][LIÊN] "that".</li>
+					<li className="list-none">Hình thái: [that WAter BOILS at ONE HUNdred deGREES] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] tạo nên khối hành động phức có chứa hệ trục [SUBject HEAD][CHỦ LÕI] "WAter" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "BOILS", bắt đầu bằng [conJUNCtion][LIÊN] "that".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [that WAter BOILS at ONE HUNdred deGREES] - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đảm nhận nhiệm vụ của một khối đối tượng đứng sau [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "KNOWS" để làm [OBject][TÂN] dưới sự điều phối của nó.</li>
 			
@@ -485,7 +485,7 @@ export default function SV1(): React.JSX.Element {
 					<li>we CANcelled the PICnic [be<strong>cause</strong> it RAINED HEAVily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa to].</li>
 			
-					<li className="list-none">Hình thái: [be<strong>cause</strong> it RAINED HEAVily] - [conJUNCtional CLAUSE][LIÊN CÂU] thể hiện khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "it" và [PAST VERB][ĐÃ ĐỘNG] "RAINED", bắt đầu bằng [conJUNCtion][LIÊN] "be<strong>cause</strong>".</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ CÂU] thể hiện khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "it" và [PAST VERB][ĐÃ ĐỘNG] "RAINED", bắt đầu bằng [conJUNCtion][LIÊN] "be<strong>cause</strong>".</li>
 			
 					<li className="list-none">Chức năng: [be<strong>cause</strong> it RAINED HEAVily] - [ADverb CLAUSE][TRẠNG CÂU] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
 			
@@ -508,7 +508,7 @@ export default function SV1(): React.JSX.Element {
 					<li>i beLIEVE [you will PASS the eXAM].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn sẽ vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Hình thái: [you will PASS the eXAM] - [CONtact CLAUSE][CHẠM CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và khối hành động gồm [asSERTive MOdal and BARE inFINitive VERB][ÁP THÁI và THUẦN NGUYÊN ĐỘNG] "will" kết hợp với [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "PASS".</li>
+					<li className="list-none">Hình thái: [you will PASS the eXAM] - [ZEro COMplement CLAUSE][KHUYẾT BỔ CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và khối hành động gồm [asSERTive MOdal and BARE inFINitive VERB][ÁP THÁI và THUẦN NGUYÊN ĐỘNG] "will" kết hợp với [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "PASS".</li>
 			
 					<li className="list-none">Chức năng: [you will PASS the eXAM] - [NOUN CLAUSE][DANH CÂU] đứng sau [BASE VERB][NỀN ĐỘNG] "beLIEVE" như một [OBject CLAUSE][TÂN CÂU] thực thi.</li>
 			
@@ -523,7 +523,7 @@ export default function SV1(): React.JSX.Element {
 					<li>the BOOK [she LENT me] was FAScinating.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [cô ấy cho tôi mượn] rất hấp dẫn.</li>
 			
-					<li className="list-none">Hình thái: [she LENT me] - [CONtact CLAUSE][CHẠM CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "she" và [PAST VERB][ĐÃ ĐỘNG] "LENT".</li>
+					<li className="list-none">Hình thái: [she LENT me] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "she" và [PAST VERB][ĐÃ ĐỘNG] "LENT".</li>
 			
 					<li className="list-none">Chức năng: [she LENT me] - [ADjective CLAUSE][TÍNH CÂU] đứng ngay sau đối tượng cuốn sách nhằm mô tả đặc điểm riêng biệt cho [SUBject HEAD][CHỦ LÕI] "the BOOK".</li>
 			
@@ -538,7 +538,7 @@ export default function SV1(): React.JSX.Element {
 					<li>the TEA was SO HOT [i COULDN'T DRINK it].</li>
 					<li className="margin-bottom-20 list-none">Trà quá nóng [đến mức tôi không thể uống được].</li>
 			
-					<li className="list-none">Hình thái: [i COULDN'T DRINK it] - [CONtact CLAUSE][CHẠM CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "i" và cụm hành động gồm [SOFT MOdal VERB][Ý THÁI ĐỘNG] "COULDN'T" kết hợp với [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "DRINK".</li>
+					<li className="list-none">Hình thái: [i COULDN'T DRINK it] - [ZEro suBORdinate CLAUSE][KHUYẾT PHỤ CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "i" và cụm hành động gồm [SOFT MOdal VERB][Ý THÁI ĐỘNG] "COULDN'T" kết hợp với [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "DRINK".</li>
 			
 					<li className="list-none">Chức năng: [i COULDN'T DRINK it] - [ADverb CLAUSE][TRẠNG CÂU] gắn vào phía sau [ADjective HEAD][TÍNH LÕI] "HOT" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [ADverb HEAD][TRẠNG LÕI] "SO".</li>
 			
@@ -761,7 +761,7 @@ export default function SV1(): React.JSX.Element {
 					<li>we arRIVED [<strong>af</strong>ter the RAIN STOPPED].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [sau khi cơn mưa tạnh].</li>
 			
-					<li className="list-none">Hình thái: [<strong>af</strong>ter the RAIN STOPPED] - [conJUNCtional CLAUSE][LIÊN CÂU] thể hiện khối hành động phức có chứa hệ trục [SUBject HEAD][CHỦ LÕI] "the RAIN" và [PAST VERB][ĐÃ ĐỘNG] "STOPPED", bắt đầu bằng [conJUNCtion][LIÊN] "<strong>af</strong>ter ".</li>
+					<li className="list-none">Hình thái: [<strong>af</strong>ter the RAIN STOPPED] - [suBORdinate CLAUSE][PHỤ CÂU] thể hiện khối hành động phức có chứa hệ trục [SUBject HEAD][CHỦ LÕI] "the RAIN" và [PAST VERB][ĐÃ ĐỘNG] "STOPPED", bắt đầu bằng [conJUNCtion][LIÊN] "<strong>af</strong>ter ".</li>
 
 					<li className="list-none">Chức năng: [<strong>af</strong>ter the RAIN STOPPED] - [ADverb CLAUSE][TRẠNG CÂU] gắn vào phía sau [PAST VERB][ĐÃ ĐỘNG] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời gian cho toàn bộ hành động phía trước.</li>
 			
@@ -805,7 +805,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[WHAT you KNOW] is POWer.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn biết] tạo nên sức mạnh.</li>
 			
-					<li className="list-none">Hình thái:  [what you KNOW] - [conJUNCtional CLAUSE][LIÊN CÂU] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [BASE VERB][NỀN ĐỘNG] "KNOW", bắt đầu bằng [conJUNCtion][LIÊN] "WHAT".</li>
+					<li className="list-none">Hình thái:  [what you KNOW] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [BASE VERB][NỀN ĐỘNG] "KNOW", bắt đầu bằng [conJUNCtion][LIÊN] "WHAT".</li>
 
 					<li className="list-none">Chức năng:  [what you KNOW] - [NOUN CLAUSE][DANH CÂU] đứng ở đầu câu tạo nên [SUBject CLAUSE][CHỦ CÂU] cho toàn câu.</li>
 			

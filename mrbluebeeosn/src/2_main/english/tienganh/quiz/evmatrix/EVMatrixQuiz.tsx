@@ -58,7 +58,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [that you LENT me YESterday] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (LENT). \n\n Chức năng: [that you LENT me YESterday] - [ADjective CLAUSE][TÍNH CÂU] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"the BOOK\"."
+			explanation: "Hình thái: [that you LENT me YESterday] - [suBORdinate CLAUSE][PHỤ CÂU] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (LENT). \n\n Chức năng: [that you LENT me YESterday] - [ADjective CLAUSE][TÍNH CÂU] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"the BOOK\"."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [as SOON as the RAIN STOPS] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as SOON as the RAIN STOPS] - [ADverb CLAUSE][TRẠNG CÂU] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"they will LEAVE\"."
+			explanation: "Hình thái: [as SOON as the RAIN STOPS] - [suBORdinate CLAUSE][PHỤ CÂU] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as SOON as the RAIN STOPS] - [ADverb CLAUSE][TRẠNG CÂU] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"they will LEAVE\"."
 		},
 		{
 			id: 7,

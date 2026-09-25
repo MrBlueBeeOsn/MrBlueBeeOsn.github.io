@@ -68,7 +68,7 @@ export default function (): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [that the COMpany's ANnual REVenue inCREASED] - [conJUNCtional CLAUSE][LIÊN CÂU] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [that the COMpany's ANnual REVenue inCREASED] - [NOUN CLAUSE][DANH CÂU] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
+			explanation: "Form: [that the COMpany's ANnual REVenue inCREASED] - [suBORdinate CLAUSE][PHỤ CÂU] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [that the COMpany's ANnual REVenue inCREASED] - [NOUN CLAUSE][DANH CÂU] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
 		},
 		{
 			id: 6,
@@ -88,7 +88,7 @@ export default function (): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [because the TRAVel exPENses were not AUthorized] - [conJUNCtional CLAUSE][LIÊN CÂU] utilizing a causal conjunction coupled with a complete financial subject and a passive voice verb structure. \n\n Function: [because the TRAVel exPENses were not AUthorized] - [ADverb CLAUSE][TRẠNG CÂU] modifying the independent clause by providing the regulatory reason why the reimbursement failed."
+			explanation: "Form: [because the TRAVel exPENses were not AUthorized] - [suBORdinate CLAUSE][PHỤ CÂU] utilizing a causal conjunction coupled with a complete financial subject and a passive voice verb structure. \n\n Function: [because the TRAVel exPENses were not AUthorized] - [ADverb CLAUSE][TRẠNG CÂU] modifying the independent clause by providing the regulatory reason why the reimbursement failed."
 		},
 		{
 			id: 8,
@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
 				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [whether the GENERal LEDger was UPdated] - [conJUNCtional CLAUSE][LIÊN CÂU] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the GENERal LEDger was UPdated] - [NOUN CLAUSE][DANH CÂU] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"ASKED\"."
+			explanation: "Form: [whether the GENERal LEDger was UPdated] - [suBORdinate CLAUSE][PHỤ CÂU] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the GENERal LEDger was UPdated] - [NOUN CLAUSE][DANH CÂU] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"ASKED\"."
 		}
 	];
 

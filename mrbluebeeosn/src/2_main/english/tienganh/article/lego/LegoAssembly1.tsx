@@ -496,28 +496,28 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="SUBject-CLAUSE">[<strong>SUBject CLAUSE</strong>][<strong>CHỦ CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="SUBject-CLAUSE">[<strong>SUBject CLAUSE</strong>][<strong>CHỦ CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>interROGative CONtent CLAUSE</strong>][<strong>VẤN NỘI CÂU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>[HOW the SYStem OPerates] deTERmines Overall perFORmance.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống vận hành] quyết định hiệu năng tổng thể.</li>
 
-					<li className="list-none">Hình thái:  [HOW the SYStem OPerates] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa [conJUNCtion][LIÊN] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
+					<li className="list-none">Hình thái:  [HOW the SYStem OPerates] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] chứa [conJUNCtion][LIÊN] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
 
 					<li className="list-none">Chức năng:  [HOW the SYStem OPerates] - [SUBject CLAUSE][CHỦ CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] deTERmines.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="OBject-CLAUSE">[<strong>OBject CLAUSE</strong>][<strong>TÂN CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="OBject-CLAUSE">[<strong>OBject CLAUSE</strong>][<strong>TÂN CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>interROGative CONtent CLAUSE</strong>][<strong>VẤN NỘI CÂU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>AUditors CHECK [how TECHnicians seCURE DAta].</li>
 					<li className="margin-bottom-20 list-none">Kiểm toán viên kiểm tra [cách các kỹ thuật viên bảo mật dữ liệu].</li>
 
-					<li className="list-none">Hình thái:  [how TECHnicians seCURE DAta] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa [conJUNCtion][LIÊN] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
+					<li className="list-none">Hình thái:  [how TECHnicians seCURE DAta] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] chứa [conJUNCtion][LIÊN] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
 
 					<li className="list-none">Chức năng:  [how TECHnicians seCURE DAta] - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] tiếp nhận nội dung thông tin trực tiếp, đứng sau [BASE VERB][NỀN ĐỘNG] CHECK.</li>
 			
@@ -531,7 +531,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>MANagement dyNAMic beLIEVES [the STRATegy DRIVES GROWTH].</li>
 					<li className="margin-bottom-20 list-none">Ban quản lý tin tưởng [chiến lược thúc đẩy tăng trưởng].</li>
 
-					<li className="list-none">Hình thái: [the STRATegy DRIVES GROWTH] - [CONtact CLAUSE][CHẠM CÂU] có đầy đủ cấu hình [SUBject HEAD][CHỦ LÕI] nội bộ và hành động nhưng đã bị chủ động lược bỏ đi [conJUNCtion][LIÊN] that ở đầu khối nhằm tối giản cấu trúc bề mặt.</li>
+					<li className="list-none">Hình thái: [the STRATegy DRIVES GROWTH] - [ZEro COMplement CLAUSE][KHUYẾT BỔ CÂU] có đầy đủ cấu hình [SUBject HEAD][CHỦ LÕI] nội bộ và hành động nhưng đã bị chủ động lược bỏ đi [conJUNCtion][LIÊN] that ở đầu khối nhằm tối giản cấu trúc bề mặt.</li>
 
 					<li className="list-none">Chức năng: [the STRATegy DRIVES GROWTH] - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] tiếp nhận nội dung thông tin trực tiếp cho hành động beLIEVES.</li>
 			
@@ -620,14 +620,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro-PROnoun CLAUSE</strong>][<strong>ẨN-ĐẠI CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro RELative CLAUSE</strong>][<strong>VÔ QUAN CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>the POLicy [they IMplemented LAST MONTH] deCREASED Overhead.</li>
 					<li className="margin-bottom-20 list-none">Chính sách [họ triển khai tháng trước] đã làm giảm chi phí vận hành.</li>
 
-					<li className="list-none">Hình thái: [they IMplemented LAST MONTH] - [CONtact CLAUSE][CHẠM CÂU] có cấu trúc [S]-[HEAD] đầy đủ nhưng đã bị chủ động lược bỏ [OBject PRONOUN][TÂN ĐẠI] which/that ở đầu khối để tăng tốc độ truyền đạt của dòng thông tin.</li>
+					<li className="list-none">Hình thái: [they IMplemented LAST MONTH] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] có cấu trúc [S]-[HEAD] đầy đủ nhưng đã bị chủ động lược bỏ [OBject PRONOUN][TÂN ĐẠI] which/that ở đầu khối để tăng tốc độ truyền đạt của dòng thông tin.</li>
 
 					<li className="list-none">Chức năng: [they IMplemented LAST MONTH] - [ADjective CLAUSE][TÍNH CÂU] làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm thuộc tính cho thực thể [SUBject HEAD][CHỦ LÕI] the POLicy.</li>
 			
@@ -716,14 +716,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 					
-			<p className="margin-top-20 text-indent-whole" id="ADverb-CLAUSE">[<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-CLAUSE">[<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>suBORdinate CLAUSE</strong>][<strong>PHỤ CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>we will PAUSE deVELopment [be<strong>cause</strong> the CLIent reQUESted alteRAtions].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ tạm dừng phát triển [bởi vì khách hàng yêu cầu những thay đổi].</li>
 
-					<li className="list-none">Hình thái: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa [conJUNCtion][LIÊN] be<strong>cause</strong> và một bộ khung [S]-[HEAD] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [suBORdinate CLAUSE][PHỤ CÂU] chứa [conJUNCtion][LIÊN] be<strong>cause</strong> và một bộ khung [S]-[HEAD] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
 
 					<li className="list-none">Chức năng: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [ADverb CLAUSE][TRẠNG CÂU] bổ nghĩa cho hành động chính của bộ nguồn [SOFT MOdal][Ý THÁI] hay [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] will PAUSE, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
 					
@@ -738,7 +738,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>[had the WARNing TRIGgered SOONer], we would have MITigated RISKS.</li>
 					<li className="margin-bottom-20 list-none">[Nếu cảnh báo kích hoạt sớm hơn], chúng tôi đã giảm thiểu được các rủi ro.</li>
 
-					<li className="list-none">Hình thái: [had the WARNing TRIGgered SOONer] - [CONtact CLAUSE][CHẠM CÂU] giả định đã triệt tiêu hoàn toàn [conJUNCtion][LIÊN] điều kiện bằng phương pháp đảo cấu trúc đảo khối [FInite VERB][HẠN ĐỘNG] Had lên đứng trước [SUBject HEAD][CHỦ LÕI] nội bộ the WARNing.</li>
+					<li className="list-none">Hình thái: [had the WARNing TRIGgered SOONer] - [ZEro suBORdinate CLAUSE][KHUYẾT PHỤ CÂU] giả định đã triệt tiêu hoàn toàn [conJUNCtion][LIÊN] điều kiện bằng phương pháp đảo cấu trúc đảo khối [FInite VERB][HẠN ĐỘNG] Had lên đứng trước [SUBject HEAD][CHỦ LÕI] nội bộ the WARNing.</li>
 
 					<li className="list-none">Chức năng: [had the WARNing TRIGgered SOONer] - [ADverb CLAUSE][TRẠNG CÂU] đóng vai trò cung cấp cảnh báo nền tảng giả định bối cảnh điều kiện tiên quyết cho hệ quả của câu lớn phía sau.</li>
 					
@@ -802,14 +802,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Biến đổi sang khối</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>] <strong>đóng vai trò</strong> [<strong>DANH</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Biến đổi sang khối</strong> [<strong>deCLARative CONtent CLAUSE</strong>][<strong>THUẬT NỘI CÂU</strong>] <strong>đóng vai trò</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>diRECtors apPROVE [that the dePARTment inCREASes the BUDget].</li>
 					<li className="margin-bottom-20 list-none">Các giám đốc phê duyệt [rằng phòng ban sẽ tăng ngân sách].</li>
 			
-					<li className="list-none">Hình thái: [that the dePARTment inCREASes the BUDget] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] that bao bọc lấy một kết cấu câu hoàn chỉnh có chủ vị phân định rõ ràng.</li>
+					<li className="list-none">Hình thái: [that the dePARTment inCREASes the BUDget] - [deCLARative CONtent CLAUSE][THUẬT NỘI CÂU] bắt đầu bằng [conJUNCtion][LIÊN] that bao bọc lấy một kết cấu câu hoàn chỉnh có chủ vị phân định rõ ràng.</li>
 					
 					<li className="list-none">Chức năng: [that the dePARTment inCREASes the BUDget] - [NOUN CLAUSE][DANH CÂU] giữ nguyên vị trí chức năng [OBject CLAUSE][TÂN CÂU] đứng sau apPROVE nhưng cấu trúc hình thái được bung mở thành một câu con đầy đủ cấu trúc [S]-[HEAD] bên trong để chi tiết hóa thông tin.</li>
 			

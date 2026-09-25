@@ -510,7 +510,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{how we deSIGN this PLATform}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ chủ thể hành động riêng "we" và hạt nhân [BASE VERB][NỀN ĐỘNG] deSIGN, bắt đầu từ [conJUNCtion][LIÊN] how.</li>
+					<li className="list-none">Hình thái: {'{how we deSIGN this PLATform}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ chủ thể hành động riêng "we" và hạt nhân [BASE VERB][NỀN ĐỘNG] deSIGN, bắt đầu từ [conJUNCtion][LIÊN] how.</li>
 
 					<li className="list-none">Chức năng: {'{how we deSIGN this PLATform}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject CLAUSE][TÂN CÂU] (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
 			
@@ -541,7 +541,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{why the SYStem FAILED}'} - [conJUNCtional CLAUSE][LIÊN CÂU] nằm gọn bên trong làm tham số bổ trợ, tích hợp sẵn [conJUNCtion][LIÊN] why kết nối cùng chủ thể "the SYStem" và [PAST VERB][ĐÃ ĐỘNG] FAILED.</li>
+					<li className="list-none">Hình thái: {'{why the SYStem FAILED}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] nằm gọn bên trong làm tham số bổ trợ, tích hợp sẵn [conJUNCtion][LIÊN] why kết nối cùng chủ thể "the SYStem" và [PAST VERB][ĐÃ ĐỘNG] FAILED.</li>
 
 					<li className="list-none">Chức năng: {'{why the SYStem FAILED}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò cấp con chịu sự điều phối của [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] tầng ngoài làm khối [OBject CLAUSE][TÂN CÂU].</li>
 			
@@ -573,7 +573,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{how this TEAM deSIGNED the APP}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể "this TEAM" và [PAST VERB][ĐÃ ĐỘNG] deSIGNED.</li>
+					<li className="list-none">Hình thái: {'{how this TEAM deSIGNED the APP}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể "this TEAM" và [PAST VERB][ĐÃ ĐỘNG] deSIGNED.</li>
 
 					<li className="list-none">Chức năng: {'{how this TEAM deSIGNED the APP}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject CLAUSE][TÂN CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] a<strong>bout</strong> ở tầng ngoài.</li>
 			
@@ -605,7 +605,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{where they BUILD the SOFTware}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể riêng "they" cùng hạt nhân [BASE VERB][NỀN ĐỘNG] BUILD.</li>
+					<li className="list-none">Hình thái: {'{where they BUILD the SOFTware}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể riêng "they" cùng hạt nhân [BASE VERB][NỀN ĐỘNG] BUILD.</li>
 
 					<li className="list-none">Chức năng: {'{where they BUILD the SOFTware}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject CLAUSE][TÂN CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] at ở tầng ngoài.</li>
 			
@@ -628,7 +628,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>[HOW they BUILD the SYStem] deTERmines sucCESS.</li>
 					<li className="margin-bottom-20 list-none">[Cách mà họ xây dựng hệ thống] quyết định sự thành công.</li>
 
-					<li className="list-none">Hình thái:  [HOW they BUILD the SYStem] - [conJUNCtional CLAUSE][LIÊN CÂU] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [conJUNCtion][LIÊN] kết nối HOW, có chủ thể "they" và [BASE VERB][NỀN ĐỘNG] BUILD.</li>
+					<li className="list-none">Hình thái:  [HOW they BUILD the SYStem] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [conJUNCtion][LIÊN] kết nối HOW, có chủ thể "they" và [BASE VERB][NỀN ĐỘNG] BUILD.</li>
 
 					<li className="list-none">Chức năng:  [HOW they BUILD the SYStem] - [SUBject CLAUSE][CHỦ CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đảm nhận nhiệm vụ làm khối [SUBject][CHỦ] ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho [VERB HEAD][ĐỘNG LÕI] "deTERmines".</li>
 			
@@ -642,7 +642,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>i KNOW [where you exPLORE].</li>
 					<li className="margin-bottom-20 list-none">Tôi biết [nơi mà bạn khám phá].</li>
 
-					<li className="list-none">Hình thái: [where you exPLORE] - [conJUNCtional CLAUSE][LIÊN CÂU] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [conJUNCtion][LIÊN] kết nối where, có chủ thể "you" và [ROOT VERB][GỐC ĐỘNG] exPLORE.</li>
+					<li className="list-none">Hình thái: [where you exPLORE] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [conJUNCtion][LIÊN] kết nối where, có chủ thể "you" và [ROOT VERB][GỐC ĐỘNG] exPLORE.</li>
 
 					<li className="list-none">Chức năng: [where you exPLORE] - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] trở thành khối [OBject][TÂN] chứa dữ liệu mục tiêu chịu tác động từ hệ thống lệnh ngoài.</li>
 			
@@ -670,7 +670,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>we STAYED inSIDE [be<strong>cause</strong> it RAINED HEAVily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã ở bên trong [bởi vì trời đã mưa rất dày].</li>
 
-					<li className="list-none">Hình thái: [be<strong>cause</strong> it RAINED HEAVily] - [conJUNCtional CLAUSE][LIÊN CÂU] kích hoạt ngay sau [conJUNCtion][LIÊN] kết nối be<strong>cause</strong>, chứa chủ thể "it" và [PAST VERB][ĐÃ ĐỘNG] RAINED mang dấu mốc tích hợp quá khứ.</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ CÂU] kích hoạt ngay sau [conJUNCtion][LIÊN] kết nối be<strong>cause</strong>, chứa chủ thể "it" và [PAST VERB][ĐÃ ĐỘNG] RAINED mang dấu mốc tích hợp quá khứ.</li>
 					
 					<li className="list-none">Chức năng: [be<strong>cause</strong> it RAINED HEAVily] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập MODule định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
 			
@@ -690,7 +690,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>i beLIEVE [you BUILD GREAT THINGS].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn xây dựng những điều tuyệt vời].</li>
 			
-					<li className="list-none">Hình thái: [you BUILD GREAT THINGS] - [CONtact CLAUSE][CHẠM CÂU] mang diện mạo của một dòng lệnh độc lập với chủ thể "you" và [BASE VERB][NỀN ĐỘNG] BUILD, hoàn toàn ẩn đi [conJUNCtion][LIÊN] kết nối.</li>
+					<li className="list-none">Hình thái: [you BUILD GREAT THINGS] - [ZEro COMplement CLAUSE][KHUYẾT BỔ CÂU] mang diện mạo của một dòng lệnh độc lập với chủ thể "you" và [BASE VERB][NỀN ĐỘNG] BUILD, hoàn toàn ẩn đi [conJUNCtion][LIÊN] kết nối.</li>
 			
 					<li className="list-none">Chức năng: [you BUILD GREAT THINGS] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject CLAUSE][TÂN CÂU] nạp dữ liệu trực tiếp cho [ROOT VERB][GỐC ĐỘNG] "beLIEVE".</li>
 			
@@ -704,7 +704,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>the PLAN [i deSIGNED YESterday] is LOST.</li>
 					<li className="margin-bottom-20 list-none">Bản kế hoạch [tôi thiết kế ngày hôm qua] thì bị mất.</li>
 			
-					<li className="list-none">Hình thái: [i deSIGNED YESterday] - [CONtact CLAUSE][CHẠM CÂU] chứa chủ thể "i" và [PAST VERB][ĐÃ ĐỘNG] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [OBject PRONOUN][TÂN ĐẠI] định vị nào dẫn đường.</li>
+					<li className="list-none">Hình thái: [i deSIGNED YESterday] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] chứa chủ thể "i" và [PAST VERB][ĐÃ ĐỘNG] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [OBject PRONOUN][TÂN ĐẠI] định vị nào dẫn đường.</li>
 			
 					<li className="list-none">Chức năng: [i deSIGNED YESterday] - [ADjective CLAUSE][TÍNH CÂU] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng [SUBject HEAD][CHỦ LÕI] "the PLAN" đứng trước.</li>
 			
@@ -718,7 +718,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>[had i deSIGNED the SOFTware], i would have TESTed it.</li>
 					<li className="margin-bottom-20 list-none">[Giá mà tôi thiết kế phần mềm], tôi đã kiểm tra nó rồi.</li>
 			
-					<li className="list-none">Hình thái: [had i deSIGNED the SOFTware] - [CONtact CLAUSE][CHẠM CÂU] sử dụng cấu trúc đảo chip [FInite VERB][HẠN ĐỘNG] had lên trước chủ thể "i", xóa bỏ hoàn toàn [conJUNCtion][LIÊN] điều kiện và đồng hành cùng [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] deSIGNED.</li>
+					<li className="list-none">Hình thái: [had i deSIGNED the SOFTware] - [ZEro suBORdinate CLAUSE][KHUYẾT PHỤ CÂU] sử dụng cấu trúc đảo chip [FInite VERB][HẠN ĐỘNG] had lên trước chủ thể "i", xóa bỏ hoàn toàn [conJUNCtion][LIÊN] điều kiện và đồng hành cùng [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] deSIGNED.</li>
 			
 					<li className="list-none">Chức năng: [had i deSIGNED the SOFTware] - [ADverb CLAUSE][TRẠNG CÂU] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
 			
@@ -784,7 +784,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>we deLAYED the LAUNCH [be<strong>cause</strong> it RAINED HEAVily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn buổi ra mắt [bởi vì trời đã mưa rất dày].</li>
 			
-					<li className="list-none">Hình thái mới: [be<strong>cause</strong> it RAINED HEAVily] - [conJUNCtional CLAUSE][LIÊN CÂU] hiển thị dưới dạng khối mã chứa đầy đủ chủ thể hành động it và hạt nhân [PAST VERB][ĐÃ ĐỘNG] RAINED thiết lập cấu hình tích hợp thời quá khứ.</li>
+					<li className="list-none">Hình thái mới: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ CÂU] hiển thị dưới dạng khối mã chứa đầy đủ chủ thể hành động it và hạt nhân [PAST VERB][ĐÃ ĐỘNG] RAINED thiết lập cấu hình tích hợp thời quá khứ.</li>
 			
 					<li className="list-none">Chức năng mới: [be<strong>cause</strong> it RAINED HEAVily] - [ADverb CLAUSE][TRẠNG CÂU] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn nhưng giữ nguyên giá trị nội dung.</li>
 			

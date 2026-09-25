@@ -552,7 +552,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[how you CLEAR these SYStem LOGS] is confidential.</li>
           <li className="margin-bottom-20 list-none"> [Cách bạn xóa các nhật ký hệ thống này] là bảo mật.</li>
       
-          <li className="list-none">Hình thái: [how you CLEAR these SYStem LOGS] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần liên kết trực quan ở đầu, có [SUBject PROnoun][CHỦ ĐẠI] "you" và [BASE VERB][NỀN ĐỘNG] "CLEAR" thiết lập phối hợp hành động.</li>
+          <li className="list-none">Hình thái: [how you CLEAR these SYStem LOGS] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] chứa thành phần liên kết trực quan ở đầu, có [SUBject PROnoun][CHỦ ĐẠI] "you" và [BASE VERB][NỀN ĐỘNG] "CLEAR" thiết lập phối hợp hành động.</li>
       
           <li className="list-none">Chức năng: [how you CLEAR these SYStem LOGS] - [SUBject CLAUSE][CHỦ CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] quản lý khối thông tin quy trình, điều khiển chính cho hành động [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "is".</li>
       
@@ -568,7 +568,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>the engiNEER [who CLEARED the ERror CODES] FIXED the SERver.</li>
           <li className="margin-bottom-20 list-none">Người kỹ sư [người mà đã xóa các mã lỗi] đã sửa chữa máy chủ.</li>
       
-          <li className="list-none">Hình thái: [who CLEARED the ERror CODES] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân [PAST VERB][ĐÃ ĐỘNG] "CLEARED" xử lý bối cảnh thuộc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [who CLEARED the ERror CODES] - [RELative CLAUSE][QUAN CÂU] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân [PAST VERB][ĐÃ ĐỘNG] "CLEARED" xử lý bối cảnh thuộc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: [who CLEARED the ERror CODES] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng [SUBject HEAD][CHỦ LÕI] "the engiNEER".</li>
       
@@ -584,7 +584,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>the TEAM CELebrated [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã ăn mừng [vì người trưởng nhóm đã thông qua ngân sách dự án].</li>
       
-          <li className="list-none">Hình thái: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [conJUNCtional CLAUSE][LIÊN CÂU] kích hoạt ngay sau [conJUNCtion][LIÊN] nguyên nhân "be<strong>cause</strong>", chứa [SUBject HEAD][CHỦ LÕI] "the LEADer" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED" mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [suBORdinate CLAUSE][PHỤ CÂU] kích hoạt ngay sau [conJUNCtion][LIÊN] nguyên nhân "be<strong>cause</strong>", chứa [SUBject HEAD][CHỦ LÕI] "the LEADer" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED" mang dấu mốc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần diện thông tin chính "the TEAM CELebrated" đứng trước.</li>
       
@@ -606,7 +606,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>i beLIEVE [you CLEARED the STORage SPACE].</li>
           <li className="margin-bottom-20 list-none">Tôi tin [bạn đã dọn sạch không gian lưu trữ].</li>
       
-          <li className="list-none">Hình thái: [you CLEARED the STORage SPACE] - [conJUNCtional CLAUSE][LIÊN CÂU] đã ẩn [conJUNCtion][LIÊN] định hướng "that", chỉ còn hiển thị trọn vẹn khối [SUBject PROnoun][CHỦ ĐẠI] "you" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED".</li>
+          <li className="list-none">Hình thái: [you CLEARED the STORage SPACE] - [ZEro CONtent CLAUSE][KHUYẾT NỘI CÂU] đã ẩn [conJUNCtion][LIÊN] định hướng "that", chỉ còn hiển thị trọn vẹn khối [SUBject PROnoun][CHỦ ĐẠI] "you" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED".</li>
       
           <li className="list-none">Chức năng: [you CLEARED the STORage SPACE] - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] nhận toàn bộ năng lượng niềm tin từ [BASE VERB][NỀN ĐỘNG] "beLIEVE".</li>
       
@@ -622,7 +622,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>the DESK [the emPLOYee CLEARED] LOOKED VERy NEAT.</li>
           <li className="margin-bottom-20 list-none">Chiếc bàn làm việc [mà người nhân viên đã dọn dẹp] trông rất gọn gàng.</li>
       
-          <li className="list-none">Hình thái: [the emPLOYee CLEARED] - [conJUNCtional CLAUSE][LIÊN CÂU] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [SUBject HEAD][CHỦ LÕI] "the emPLOYee" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED".</li>
+          <li className="list-none">Hình thái: [the emPLOYee CLEARED] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [SUBject HEAD][CHỦ LÕI] "the emPLOYee" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED".</li>
       
           <li className="list-none">Chức năng: [the emPLOYee CLEARED] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the DESK" để làm rõ đặc điểm cho đối tượng này.</li>
       
@@ -638,7 +638,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[should you CLEAR the PENDing TASKS toDAY], we will START the NEW PLAN.</li>
           <li className="margin-bottom-20 list-none">[Nếu bạn giải quyết xong các nhiệm vụ còn tồn đọng trong hôm nay], chúng tôi sẽ bắt đầu kế hoạch mới.</li>
       
-          <li className="list-none">Hình thái: [should you CLEAR the PENDing TASKS toDAY] - [conJUNCtional CLAUSE][LIÊN CÂU] vận hành ở trạng thái ẩn [conJUNCtion][LIÊN] điều kiện "if" bằng giải pháp đảo [SOFT MOdal and BARE inFINitive VERB][Ý THÁI và THUẦN NGUYÊN ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [SUBject PROnoun][CHỦ ĐẠI] "you" và [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "CLEAR".</li>
+          <li className="list-none">Hình thái: [should you CLEAR the PENDing TASKS toDAY] - [suBORdinate CLAUSE][PHỤ CÂU] vận hành ở trạng thái ẩn [conJUNCtion][LIÊN] điều kiện "if" bằng giải pháp đảo [SOFT MOdal and BARE inFINitive VERB][Ý THÁI và THUẦN NGUYÊN ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [SUBject PROnoun][CHỦ ĐẠI] "you" và [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "CLEAR".</li>
       
           <li className="list-none">Chức năng: [should you CLEAR the PENDing TASKS toDAY] - [ADverb CLAUSE][TRẠNG CÂU] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
       
@@ -668,7 +668,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [ANalyzing {'{how the PROgram CLEARS METadata}'}] - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG CÂU] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [ANalyzing {'{how the PROgram CLEARS METadata}'}] - [NOUN PHRASE][DANH CỤM] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm [[SUBject PHRASE][CHỦ CỤM] để thiết lập nền tảng thông tin đứng đầu toàn câu trước [auXILiary VERB][TRỢ ĐỘNG] "is".</li>
+          <li className="list-none">Chức năng: [ANalyzing {'{how the PROgram CLEARS METadata}'}] - [NOUN PHRASE][DANH CỤM] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm [SUBject PHRASE][CHỦ CỤM] để thiết lập nền tảng thông tin đứng đầu toàn câu trước [auXILiary VERB][TRỢ ĐỘNG] "is".</li>
       
         </ul>
 
@@ -676,7 +676,7 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the PROgram CLEARS METadata}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the program" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] riêng "CLEARS" thiết lập theo trục thời hiện tại.</li>
+          <li className="list-none">Hình thái: {'{how the PROgram CLEARS METadata}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the program" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] riêng "CLEARS" thiết lập theo trục thời hiện tại.</li>
       
           <li className="list-none">Chức năng: {'{how the PROgram CLEARS METadata}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp từ hạt nhân hành động "Analyzing" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích.</li>
       
@@ -706,7 +706,7 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{why the DAtabase CLEARS SESsions}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the DAtabase" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] riêng "CLEARS" thiết lập theo trục thời hiện tại đi sau [conJUNCtion][LIÊN] "why".</li>
+          <li className="list-none">Hình thái: {'{why the DAtabase CLEARS SESsions}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the DAtabase" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] riêng "CLEARS" thiết lập theo trục thời hiện tại đi sau [conJUNCtion][LIÊN] "why".</li>
       
           <li className="list-none">Chức năng: {'{why the DAtabase CLEARS SESsions}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp từ hạt nhân hành động "MONitoring" ở tầng ngoài, làm rõ nội dung cho việc giám sát.</li>
       
@@ -738,7 +738,7 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how they CLEAR the seCUrity CHECK}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject PROnoun][CHỦ ĐẠI] "they" và [BASE VERB][NỀN ĐỘNG] "CLEAR".</li>
+          <li className="list-none">Hình thái: {'{how they CLEAR the seCUrity CHECK}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject PROnoun][CHỦ ĐẠI] "they" và [BASE VERB][NỀN ĐỘNG] "CLEAR".</li>
       
           <li className="list-none">Chức năng: {'{how they CLEAR the seCUrity CHECK}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "a<strong>bout</strong>" ở tầng ngoài.</li>
       
@@ -771,7 +771,7 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{where the TEAM CLEARED the LAND}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] riêng "the TEAM" và [PAST VERB][ĐÃ ĐỘNG] riêng "CLEARED" thuộc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: {'{where the TEAM CLEARED the LAND}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] riêng "the TEAM" và [PAST VERB][ĐÃ ĐỘNG] riêng "CLEARED" thuộc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: {'{where the TEAM CLEARED the LAND}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "at" ở tầng ngoài.</li>
       
@@ -842,7 +842,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>we imPROVED the perFORmance [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện hiệu suất [vì hệ thống đã dọn sạch tất cả dữ liệu rác].</li>
       
-          <li className="list-none">Hình thái mới: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [conJUNCtional CLAUSE][LIÊN CÂU] hiển thị dưới dạng khối mã chứa đầy đủ [SUBject HEAD][CHỦ LÕI] "the system" và hạt nhân [PAST VERB][ĐÃ ĐỘNG] "CLEARED" đi sau [conJUNCtion][LIÊN] "be<strong>cause</strong>".</li>
+          <li className="list-none">Hình thái mới: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [suBORdinate CLAUSE][PHỤ CÂU] hiển thị dưới dạng khối mã chứa đầy đủ [SUBject HEAD][CHỦ LÕI] "the system" và hạt nhân [PAST VERB][ĐÃ ĐỘNG] "CLEARED" đi sau [conJUNCtion][LIÊN] "be<strong>cause</strong>".</li>
       
           <li className="list-none">Chức năng mới: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [ADverb CLAUSE][TRẠNG CÂU] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính.</li>
       
@@ -858,7 +858,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>i LIKE an appliCAtion [which CLEARS STORage SMOOTHly].</li>
           <li className="margin-bottom-20 list-none">Tôi thích một ứng dụng [cái mà dọn dẹp dung lượng một cách mượt mà].</li>
       
-          <li className="list-none">Hình thái gốc: [which CLEARS STORage SMOOTHly] - [conJUNCtional CLAUSE][LIÊN CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "CLEARS".</li>
+          <li className="list-none">Hình thái gốc: [which CLEARS STORage SMOOTHly] - [RELative CLAUSE][QUAN CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "CLEARS".</li>
       
           <li className="list-none">Chức năng: [which CLEARS STORage SMOOTHly] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [OBject HEAD][TÂN LÕI] "appliCAtion".</li>
       

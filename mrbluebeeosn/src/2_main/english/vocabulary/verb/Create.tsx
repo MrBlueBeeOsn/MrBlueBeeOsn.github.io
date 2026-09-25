@@ -564,7 +564,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="SUBject-CLAUSE">[<strong>SUBject CLAUSE</strong>][<strong>CHỦ CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="SUBject-CLAUSE">[<strong>SUBject CLAUSE</strong>][<strong>CHỦ CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>interROGative CONtent CLAUSE</strong>][<strong>VẤN NỘI CÂU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9a:</p>
       
@@ -573,7 +573,8 @@ export default function creATE(): React.JSX.Element {
           <li>[HOW the ARtist creATES uNIQUE SCULPtures] FAScinates the AUdience.</li>
           <li className="margin-bottom-20 list-none">[Cách người nghệ sĩ tạo ra các bức tượng điêu khắc độc đáo] cuốn hút khán giả.</li>
       
-          <li className="list-none">Hình thái:  [HOW the ARtist creATES uNIQUE SCULPtures] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtion][LIÊN] "HOW" ở đầu, mang [SUBject HEAD][CHỦ LÕI] riêng "the ARtist" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái:  [HOW the ARtist creATES uNIQUE SCULPtures] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU]
+ chứa thành phần [conJUNCtion][LIÊN] "HOW" ở đầu, mang [SUBject HEAD][CHỦ LÕI] riêng "the ARtist" và cụm hành động phối hợp phía sau.</li>
       
           <li className="list-none">Chức năng:  [HOW the ARtist creATES uNIQUE SCULPtures] - [SUBject CLAUSE][CHỦ CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] quản lý khối thông tin quy trình, điều khiển chính cho hành động [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "FAScinates".</li>
       
@@ -581,7 +582,7 @@ export default function creATE(): React.JSX.Element {
 
 
 
-      <p className="margin-top-20 text-indent-whole" id="OBject-CLAUSE">[<strong>OBject CLAUSE</strong>][<strong>TÂN CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="OBject-CLAUSE">[<strong>OBject CLAUSE</strong>][<strong>TÂN CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>interROGative CONtent CLAUSE</strong>][<strong>VẤN NỘI CÂU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9b:</p>
       
@@ -590,7 +591,8 @@ export default function creATE(): React.JSX.Element {
           <li>the diRECtor exPLAINED [how the TEAM creATES efFECtive adVERtisements].</li>
           <li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ tạo ra các quảng cáo hiệu quả].</li>
       
-          <li className="list-none">Hình thái:  [how the TEAM creATES efFECtive adVERtisements] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa thành phần [conJUNCtion][LIÊN] "how" ở đầu, có [SUBject HEAD][CHỦ LÕI] "the TEAM" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái:  [how the TEAM creATES efFECtive adVERtisements] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU]
+ chứa thành phần [conJUNCtion][LIÊN] "how" ở đầu, có [SUBject HEAD][CHỦ LÕI] "the TEAM" và cụm hành động phối hợp phía sau.</li>
       
           <li className="list-none">Chức năng:  [how the TEAM creATES efFECtive adVERtisements] - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chứa dữ liệu mục tiêu tiếp nhận cho hành động [PAST VERB][ĐÃ ĐỘNG] "exPLAINED".</li>
       
@@ -622,7 +624,7 @@ export default function creATE(): React.JSX.Element {
           <li>the VENture sucCEEded [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion].</li>
           <li className="margin-bottom-20 list-none">Dự án đã thành công [vì nhà sáng lập đã tạo ra một tầm nhìn rõ ràng].</li>
       
-          <li className="list-none">Hình thái: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [conJUNCtional CLAUSE][LIÊN CÂU] kích hoạt ngay sau thành phần [conJUNCtion][LIÊN] nguyên nhân "be<strong>cause</strong>", chứa [SUBject HEAD][CHỦ LÕI] "the FOUNder" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [suBORdinate CLAUSE][PHỤ CÂU] kích hoạt ngay sau thành phần [conJUNCtion][LIÊN] nguyên nhân "be<strong>cause</strong>", chứa [SUBject HEAD][CHỦ LÕI] "the FOUNder" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập MODule bối cảnh, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "sucCEEded" và toàn bộ CLAUSE chính trước đó.</li>
       
@@ -641,7 +643,7 @@ export default function creATE(): React.JSX.Element {
           <li>they beLIEVE [the Agency creAted a reLIable SYStem].</li>
           <li className="margin-bottom-20 list-none">Họ tin rằng [cơ quan đã tạo ra một hệ thống đáng tin cậy].</li>
       
-          <li className="list-none">Hình thái: [the Agency creAted a reLIable SYStem] - [CONtact CLAUSE][CHẠM CÂU] đã ẩn thành phần [conJUNCtion][LIÊN] định hướng "that", chỉ còn hiển thị trọn vẹn khối [SUBject HEAD][CHỦ LÕI] "the Agency" và cụm hành động phía sau.</li>
+          <li className="list-none">Hình thái: [the Agency creAted a reLIable SYStem] - [ZEro CONtent CLAUSE][KHUYẾT NỘI CÂU] đã ẩn thành phần [conJUNCtion][LIÊN] định hướng "that", chỉ còn hiển thị trọn vẹn khối [SUBject HEAD][CHỦ LÕI] "the Agency" và cụm hành động phía sau.</li>
       
           <li className="list-none">Chức năng: [the Agency creAted a reLIable SYStem] - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] tiếp nhận trực tiếp nội dung cho hành động [BASE VERB][NỀN ĐỘNG] "beLIEVE".</li>
       
@@ -657,7 +659,7 @@ export default function creATE(): React.JSX.Element {
           <li>the deSIGN [she creAted for the CLIent] WON a presTIgious aWARD.</li>
           <li className="margin-bottom-20 list-none">Mẫu thiết kế [mà cô ấy đã tạo ra cho khách hàng] đã giành một giải thưởng uy tín.</li>
       
-          <li className="list-none">Hình thái: [she creAted for the CLIent] - [CONtact CLAUSE][CHẠM CÂU] đã ẩn thành phần [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "she" và cụm [PAST VERB PHRASE][ĐÃ ĐỘNG CỤM] "creAted for the CLIent".</li>
+          <li className="list-none">Hình thái: [she creAted for the CLIent] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn thành phần [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "she" và cụm [PAST VERB PHRASE][ĐÃ ĐỘNG CỤM] "creAted for the CLIent".</li>
       
           <li className="list-none">Chức năng: [she creAted for the CLIent] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
       
@@ -673,7 +675,7 @@ export default function creATE(): React.JSX.Element {
           <li>[should the PROgram creATE TECHnical ERrors], aLERT the SYStem adMINistrator.</li>
           <li className="margin-bottom-20 list-none">[Nếu chương trình tạo ra các lỗi kỹ thuật], hãy báo cho quản trị viên hệ thống.</li>
       
-          <li className="list-none">Hình thái: [should the PROgram creATE TECHnical ERrors] - [CONtact CLAUSE][CHẠM CÂU] vận hành ở trạng thái ẩn thành phần [conJUNCtion][LIÊN] điều kiện "if" bằng giải pháp đảo [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [SUBject HEAD][CHỦ LÕI] "the PROgram" và [BARE VERB PHRASE][THUẦN NGUYÊN ĐỘNG CỤM] "creATE TECHnical ERrors".</li>
+          <li className="list-none">Hình thái: [should the PROgram creATE TECHnical ERrors] - [ZEro suBORdinate CLAUSE][KHUYẾT PHỤ CÂU] vận hành ở trạng thái ẩn thành phần [conJUNCtion][LIÊN] điều kiện "if" bằng giải pháp đảo [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [SUBject HEAD][CHỦ LÕI] "the PROgram" và [BARE VERB PHRASE][THUẦN NGUYÊN ĐỘNG CỤM] "creATE TECHnical ERrors".</li>
       
           <li className="list-none">Chức năng: [should the PROgram creATE TECHnical ERrors] - [ADverb CLAUSE][TRẠNG CÂU] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau.</li>
       
@@ -710,7 +712,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{WHAT CLIents STRUGgle with}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] riêng "CLIents" và cụm hành động riêng đi sau thành phần [conJUNCtion][LIÊN] "WHAT".</li>
+          <li className="list-none">Hình thái: {'{WHAT CLIents STRUGgle with}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] riêng "CLIents" và cụm hành động riêng đi sau thành phần [conJUNCtion][LIÊN] "WHAT".</li>
       
           <li className="list-none">Chức năng: {'{WHAT CLIents STRUGgle with}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "for" ở tầng ngoài.</li>
       
@@ -742,7 +744,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{why the TEAM creAted outDAted deSIGNS}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau thành phần [conJUNCtion][LIÊN] "why".</li>
+          <li className="list-none">Hình thái: {'{why the TEAM creAted outDAted deSIGNS}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau thành phần [conJUNCtion][LIÊN] "why".</li>
       
           <li className="list-none">Chức năng: {'{why the TEAM creAted outDAted deSIGNS}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp từ hạt nhân "exPLORing" ở tầng ngoài, làm rõ nội dung cho việc tìm hiểu.</li>
       
@@ -774,7 +776,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the SYStem creATES AUtomated rePORTS}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] "the system" và cụm hành động riêng đi sau thành phần [conJUNCtion][LIÊN] "how".</li>
+          <li className="list-none">Hình thái: {'{how the SYStem creATES AUtomated rePORTS}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] "the system" và cụm hành động riêng đi sau thành phần [conJUNCtion][LIÊN] "how".</li>
       
           <li className="list-none">Chức năng: {'{how the SYStem creATES AUtomated rePORTS}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài.</li>
       
@@ -806,7 +808,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how Users creATE PERsonal PROfiles}'} - [conJUNCtional CLAUSE][LIÊN CÂU] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa [SUBject HEAD][CHỦ LÕI] riêng "Users" và cụm hành động riêng đi sau thành phần [conJUNCtion][LIÊN] "how".</li>
+          <li className="list-none">Hình thái: {'{how Users creATE PERsonal PROfiles}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa [SUBject HEAD][CHỦ LÕI] riêng "Users" và cụm hành động riêng đi sau thành phần [conJUNCtion][LIÊN] "how".</li>
       
           <li className="list-none">Chức năng: {'{how Users creATE PERsonal PROfiles}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp từ hạt nhân "STUdy" ở tầng ngoài.</li>
       
@@ -838,7 +840,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the appliCAtion creATES User LOGS}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [conJUNCtion][LIÊN] "how".</li>
+          <li className="list-none">Hình thái: {'{how the appliCAtion creATES User LOGS}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [conJUNCtion][LIÊN] "how".</li>
       
           <li className="list-none">Chức năng: {'{how the appliCAtion creATES User LOGS}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp từ hạt nhân "eVAluate" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá.</li>
       
@@ -871,7 +873,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the TEAM creATES NEW MARketing CHANnels}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] "the TEAM" và cụm hành động đi sau thành phần [conJUNCtion][LIÊN] "how".</li>
+          <li className="list-none">Hình thái: {'{how the TEAM creATES NEW MARketing CHANnels}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] "the TEAM" và cụm hành động đi sau thành phần [conJUNCtion][LIÊN] "how".</li>
       
           <li className="list-none">Chức năng: {'{how the TEAM creATES NEW MARketing CHANnels}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp ở tầng ngoài.</li>
       
@@ -903,7 +905,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{why the deSIGner creAted COMplex LAYouts}'} - [conJUNCtional CLAUSE][LIÊN CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] riêng "the deSIGner" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [conJUNCtion][LIÊN] "why".</li>
+          <li className="list-none">Hình thái: {'{why the deSIGner creAted COMplex LAYouts}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] riêng "the deSIGner" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [conJUNCtion][LIÊN] "why".</li>
       
           <li className="list-none">Chức năng: {'{why the deSIGner creAted COMplex LAYouts}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "on" ở tầng ngoài.</li>
       
@@ -959,14 +961,14 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>suBORdinate CLAUSE</strong>][<strong>PHỤ CÂU</strong>]</p>
       
         <ul className="list-square">
       
           <li>the COMpany BOOSted VAlue [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts].</li>
           <li className="margin-bottom-20 list-none">Công ty đã gia tăng giá trị [vì các nhà phát triển đã tạo ra các sản phẩm độc đáo].</li>
       
-          <li className="list-none">Hình thái mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [conJUNCtional CLAUSE][LIÊN CÂU] hiển thị dưới dạng khối mã chứa đầy đủ [SUBject HEAD][CHỦ LÕI] "the deVElopers" và cụm hành động đi sau thành phần [conJUNCtion][LIÊN] "be<strong>cause</strong>".</li>
+          <li className="list-none">Hình thái mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [suBORdinate CLAUSE][PHỤ CÂU] hiển thị dưới dạng khối mã chứa đầy đủ [SUBject HEAD][CHỦ LÕI] "the deVElopers" và cụm hành động đi sau thành phần [conJUNCtion][LIÊN] "be<strong>cause</strong>".</li>
       
           <li className="list-none">Chức năng mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [ADverb CLAUSE][TRẠNG CÂU] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "BOOSted" và toàn bộ diễn biến phía trước.</li>
       

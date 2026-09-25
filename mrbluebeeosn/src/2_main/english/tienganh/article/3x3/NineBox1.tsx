@@ -529,7 +529,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[should the compiLAtion comPLETE], the operAtions TEAM will TRIGger the dePLOYment.</li>
 					<li className="margin-bottom-20 list-none">[Nếu việc biên dịch hoàn thành], đội ngũ vận hành sẽ kích hoạt triển khai.</li>
 			
-					<li className="list-none">Hình thái: [should the compiLAtion comPLETE] - [CONtact CLAUSE][CHẠM CÂU] vận hành ở trạng thái ẩn thành phần [conJUNCtion][LIÊN] điều kiện "if" bằng cách đảo khối [SOFT MOdal VERB][Ý THÁI ĐỘNG] "Should" lên trước khối [SUBject HEAD][CHỦ LÕI] "the compiLAtion", kéo theo [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "comPLETE".</li>
+					<li className="list-none">Hình thái: [should the compiLAtion comPLETE] - [ZEro suBORdinate CLAUSE][KHUYẾT PHỤ CÂU] vận hành ở trạng thái ẩn thành phần [conJUNCtion][LIÊN] điều kiện "if" bằng cách đảo khối [SOFT MOdal VERB][Ý THÁI ĐỘNG] "Should" lên trước khối [SUBject HEAD][CHỦ LÕI] "the compiLAtion", kéo theo [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "comPLETE".</li>
 			
 					<li className="list-none">Chức năng: [should the compiLAtion comPLETE] – [ADverb CLAUSE][TRẠNG CÂU] bổ nghĩa bối cảnh điều kiện giả định cho hệ thống hành động phía sau.</li>
 			
@@ -595,7 +595,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [to underSTAND {'{how the DAtabase HANdles the WORKload}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] ở tầng ngoài bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to underSTAND".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{how the DAtabase HANdles the WORKload}'} - [conJUNCtional CLAUSE][LIÊN CÂU] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{how the DAtabase HANdles the WORKload}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] ở tầng trong.</li>
 			
 					<li className="list-none">Chức năng:</li>
 
@@ -617,7 +617,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [to BEAUtify {'{WHAT the LEgacy SCRIPT OUTputs}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] ở tầng ngoài bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to BEAUtify".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{WHAT the LEgacy SCRIPT OUTputs}'} - [conJUNCtional CLAUSE][LIÊN CÂU] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{WHAT the LEgacy SCRIPT OUTputs}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] ở tầng trong.</li>
 			
 					<li className="list-none">Chức năng:</li>
 
@@ -640,7 +640,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [for {'{WHAT the TEAM dePLOYED YESterday}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{WHAT the TEAM dePLOYED YESterday}'} - [conJUNCtional CLAUSE][LIÊN CÂU] ở tầng trong bắt đầu bằng [conJUNCtion][LIÊN] "WHAT".</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{WHAT the TEAM dePLOYED YESterday}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] ở tầng trong bắt đầu bằng [conJUNCtion][LIÊN] "WHAT".</li>
 			
 					<li className="list-none">Chức năng:</li>
 
@@ -663,7 +663,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [at {'{where the SYStem STORES fiNANcial LOGS}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "at".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{where the SYStem STORES fiNANcial LOGS}'} - [conJUNCtional CLAUSE][LIÊN CÂU] ở tầng trong bắt đầu bằng [conJUNCtion][LIÊN] "where".</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{where the SYStem STORES fiNANcial LOGS}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] ở tầng trong bắt đầu bằng [conJUNCtion][LIÊN] "where".</li>
 			
 					<li className="list-none">Chức năng:</li>
 
@@ -829,7 +829,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the appliCAtion SYNCS DAta [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [bất cứ khi nào dịch vụ nhỏ chạy nền gửi tín hiệu].</li>
 			
-					<li className="list-none">Hình thái: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] - [conJUNCtional CLAUSE][LIÊN CÂU] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "when<strong>ev</strong>er" kết hợp cùng cấu trúc câu con xoay quanh [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "SENDS".</li>
+					<li className="list-none">Hình thái: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] - [suBORdinate CLAUSE][PHỤ CÂU] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "when<strong>ev</strong>er" kết hợp cùng cấu trúc câu con xoay quanh [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "SENDS".</li>
 			
 					<li className="list-none">Chức năng: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] – [ADverb CLAUSE][TRẠNG CÂU] bổ nghĩa bối cảnh điều kiện [Thời] gian cho hành động [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "SYNCS" đồng bộ hóa.</li>
 			

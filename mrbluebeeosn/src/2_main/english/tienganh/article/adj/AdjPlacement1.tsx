@@ -450,14 +450,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro-OBject PROnoun CLAUSE</strong>][<strong>ẨN-TÂN ĐẠI CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro RELative CLAUSE</strong>][<strong>VÔ QUAN CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the paRAMeters [EXperts recomMEND] must be TESTed.</li>
 					<li className="margin-bottom-20 list-none">Các thông số [mà các chuyên gia khuyên dùng] phải được kiểm tra.</li>
 			
-					<li className="list-none">Hình thái: [EXperts recomMEND] - [CONtact CLAUSE][CHẠM CÂU] bỏ qua [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định.</li>
+					<li className="list-none">Hình thái: [EXperts recomMEND] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] bỏ qua [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định.</li>
 			
 					<li className="list-none">Chức năng: [EXperts recomMEND] - [ADjective CLAUSE][TÍNH CÂU] thu gọn không gian biểu đạt để làm rõ đặc điểm đối tượng [SUBject HEAD][CHỦ LÕI] "paRAMeters".</li>
 			
