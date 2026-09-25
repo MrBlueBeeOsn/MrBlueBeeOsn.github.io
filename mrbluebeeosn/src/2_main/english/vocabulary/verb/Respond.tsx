@@ -978,12 +978,12 @@ export default function reSPOND(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the FIRM HIred a SERvice [which reSPONDS to SYStem ISsues autoMATically].</li>
-          <li className="margin-bottom-20 list-none">Công ty đã thuê một dịch vụ [cái mà phản hồi các sự cố hệ thống một cách tự động].</li>
+          <li>the FIRM HIred [a SERvice {'{which reSPONDS to SYStem ISsues autoMATically}'}].</li>
+          <li className="margin-bottom-20 list-none">Công ty đã thuê [một dịch vụ {'{cái mà phản hồi các sự cố hệ thống một cách tự động}'}].</li>
       
-          <li className="list-none">Hình thái gốc: [which reSPONDS to SYStem ISsues autoMATically] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] "which" và cụm hành động phía sau.</li>
+          <li className="list-none">Hình thái gốc: {'{which reSPONDS to SYStem ISsues autoMATically}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] "which" và cụm hành động phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [OBject HEAD][TÂN LÕI] "SERvice".</li>
       
-          <li className="list-none">Chức năng: [which reSPONDS to SYStem ISsues autoMATically] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [OBject HEAD][TÂN LÕI] "SERvice".</li>
+          <li className="list-none">Chức năng: [a SERvice {'{which reSPONDS to SYStem ISsues autoMATically}'}] - [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
