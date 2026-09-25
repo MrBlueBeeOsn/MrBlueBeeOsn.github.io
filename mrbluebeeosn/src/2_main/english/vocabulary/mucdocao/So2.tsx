@@ -30,43 +30,47 @@ export default function SO2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MUCH-for">MUCH for</HashLink>
+          </span> &nbsp;
+          
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#many-PEOple"><strong>man</strong>y PEOple</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GOOD">GOOD</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#CAREfully-through">CAREfully through</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FAST-when">FAST when</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#that">that</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LONG-for-NOW">LONG for NOW</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LONG-since">LONG since</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WHAT">WHAT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#ON">ON</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#do-i-am-i">do i (am i)</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,38 +107,38 @@ export default function SO2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">THANK you SO MUCH for your HELP!</li>
-        <li className="list-none margin-bottom-20">Cảm ơn bạn rất nhiều vì sự giúp đỡ của bạn!</li>
+        <li value="1" id="MUCH-for">THANK you SO [MUCH for] your HELP!</li>
+        <li className="list-none margin-bottom-20">Cảm ơn bạn rất [nhiều vì] sự giúp đỡ của bạn!</li>
 
-        <li value="2">there are SO <strong>man</strong>y PEOple here toDAY.</li>
-        <li className="list-none margin-bottom-20">Hôm nay có quá nhiều người ở đây.</li>
+        <li value="2" id="many-PEOple">there are SO [<strong>man</strong>y PEOple] here toDAY.</li>
+        <li className="list-none margin-bottom-20">Hôm nay có quá [nhiều người] ở đây.</li>
 
-        <li value="3" id="">this CAKE is SO GOOD!</li>
-        <li className="list-none margin-bottom-20">Cái bánh này ngon quá!</li>
+        <li value="3" id="GOOD">this CAKE is SO [GOOD]!</li>
+        <li className="list-none margin-bottom-20">Cái bánh này [ngon] quá!</li>
 
-        <li value="4">she DROVE SO CAREfully through the NARrow STREETS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy lái xe rất cẩn thận qua những con phố hẹp.</li>
+        <li value="4" id="CAREfully-through">she DROVE SO [CAREfully through] the NARrow STREETS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy lái xe rất [cẩn thận qua] những con phố hẹp.</li>
 
-        <li value="5" id="">TIME FLIES SO FAST when you're HAVing FUN.</li>
-        <li className="list-none margin-bottom-20">Thời gian trôi rất nhanh khi bạn vui vẻ.</li>
+        <li value="5" id="FAST-when">TIME FLIES SO [FAST when] you're HAVing FUN.</li>
+        <li className="list-none margin-bottom-20">Thời gian trôi [rất nhanh khi] bạn vui vẻ.</li>
 
-        <li value="6" id="">he STUDied HARD so that he could PASS the eXAM.</li>
-        <li className="list-none margin-bottom-20">Anh ấy học chăm chỉ để mà anh ấy có thể vượt qua kỳ thi.</li>
+        <li value="6" id="that">he STUDied HARD so [that] he could PASS the eXAM.</li>
+        <li className="list-none margin-bottom-20">Anh ấy học chăm chỉ [để mà] anh ấy có thể vượt qua kỳ thi.</li>
 
-        <li value="7" id="">Well, SO LONG for NOW!</li>
-        <li className="list-none margin-bottom-20">Tạm biệt nhé!</li>
+        <li value="7" id="LONG-for-NOW">Well, SO [LONG for NOW]!</li>
+        <li className="list-none margin-bottom-20">Chà, quá [dài cho bây giờ]! (Tạm biệt nhé!)</li>
 
-        <li className="list-none">it's been SO LONG since we LAST MET.</li>
-        <li className="list-none margin-bottom-20">Đã quá lâu rồi kể từ lần cuối chúng ta gặp nhau.</li>
+        <li className="list-none" id="LONG-since">it's been SO [LONG since] we LAST MET.</li>
+        <li className="list-none margin-bottom-20">Đã quá [lâu rồi kể từ] lần cuối chúng ta gặp nhau.</li>
 
-        <li value="8" id="">i MADE a misTAKE. "SO WHAT? <strong>ever</strong>yone MAKES misTAKES".</li>
-        <li className="list-none margin-bottom-20">Tôi đã mắc lỗi. "Thì sao chứ? Ai cũng mắc lỗi mà."</li>
+        <li value="8" id="WHAT">i MADE a misTAKE. "SO [WHAT]? <strong>ever</strong>yone MAKES misTAKES".</li>
+        <li className="list-none margin-bottom-20">Tôi đã mắc lỗi. "Vậy [cái gì]? (Thì sao?) Ai cũng mắc lỗi mà."</li>
 
-        <li value="9">we disCUSSED the BUDget, the TIMEline, the reSOURces, and SO ON.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi đã thảo luận về ngân sách, thời gian biểu, nguồn lực, và cứ thế.</li>
+        <li value="9" id="ON">we disCUSSED the BUDget, the TIMEline, the reSOURces, and SO [ON].</li>
+        <li className="list-none margin-bottom-20">Chúng tôi đã thảo luận về ngân sách, thời gian biểu, nguồn lực, và [vân vân].</li>
 
-        <li value="10" id="">i LOVE CHOColate. "SO do i.", "SO am i".</li>
-        <li className="list-none margin-bottom-20">Tôi thích sô cô la. "Tôi cũng vậy."</li>
+        <li value="10" id="do-i-am-i">i LOVE CHOColate. "SO [do i].", "SO [am i]".</li>
+        <li className="list-none margin-bottom-20">Tôi thích sô cô la. ["Tôi cũng vậy."]</li>
 
       </ol>
 
@@ -150,7 +154,7 @@ export default function SO2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>SO</strong> BEAUtiful, <strong>SO</strong> QUICKly</li>
+          <li><strong>SO</strong> BEAUtiful, <strong>SO</strong> <Link to="/vocabulary/QUICKly-1">QUICKly</Link></li>
           <li className="list-none">Đẹp quá, nhanh quá!</li>
           <li className="list-none margin-bottom-20">Nhấn mạnh mức độ: "<strong>SO</strong>" thường được dùng để nhấn mạnh ADjective hoặc ADverb.</li>
           
