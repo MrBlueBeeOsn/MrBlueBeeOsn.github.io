@@ -30,7 +30,7 @@ export default function SOMEtimes2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#GO-for-in">GO for ... in</HashLink>
+            <HashLink smooth to="#GO-for-a-WALK-in">GO for a WALK in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -103,8 +103,8 @@ export default function SOMEtimes2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="GO-for-in">I SOMEtimes [GO for] a WALK [in] the PARK.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi [đi] dạo [trong] công viên.</li>
+        <li value="1" id="GO-for-a-WALK-in">I SOMEtimes [GO for a WALK in] the PARK.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi [đi dạo trong] công viên.</li>
 
         <li value="2" id="RAINS-in">it SOMEtimes [RAINS in] the SUMmer.</li>
         <li className="list-none margin-bottom-20">Thỉnh thoảng trời [mưa vào] mùa hè.</li>
