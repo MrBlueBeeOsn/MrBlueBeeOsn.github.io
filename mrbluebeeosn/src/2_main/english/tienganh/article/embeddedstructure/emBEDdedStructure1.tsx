@@ -512,7 +512,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{how we deSIGN this PLATform}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ chủ thể hành động riêng "we" và hạt nhân [BASE VERB][NỀN ĐỘNG] deSIGN, bắt đầu từ [conJUNCtion][LIÊN] how.</li>
 
-					<li className="list-none">Chức năng: {'{how we deSIGN this PLATform}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject CLAUSE][TÂN CÂU] (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
+					<li className="list-none">Chức năng: {'{how we deSIGN this PLATform}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject][TÂN] (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
 			
 				</ul>
 
@@ -543,7 +543,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{why the SYStem FAILED}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] nằm gọn bên trong làm tham số bổ trợ, tích hợp sẵn [conJUNCtion][LIÊN] why kết nối cùng chủ thể "the SYStem" và [PAST VERB][ĐÃ ĐỘNG] FAILED.</li>
 
-					<li className="list-none">Chức năng: {'{why the SYStem FAILED}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò cấp con chịu sự điều phối của [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] tầng ngoài làm khối [OBject CLAUSE][TÂN CÂU].</li>
+					<li className="list-none">Chức năng: {'{why the SYStem FAILED}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đóng vai trò cấp con chịu sự điều phối của [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] tầng ngoài làm khối [OBject][TÂN].</li>
 			
 				</ul>
 			
@@ -575,7 +575,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{how this TEAM deSIGNED the APP}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể "this TEAM" và [PAST VERB][ĐÃ ĐỘNG] deSIGNED.</li>
 
-					<li className="list-none">Chức năng: {'{how this TEAM deSIGNED the APP}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject CLAUSE][TÂN CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] a<strong>bout</strong> ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{how this TEAM deSIGNED the APP}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject][TÂN] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] a<strong>bout</strong> ở tầng ngoài.</li>
 			
 				</ul>
 
@@ -607,7 +607,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{where they BUILD the SOFTware}'} - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể riêng "they" cùng hạt nhân [BASE VERB][NỀN ĐỘNG] BUILD.</li>
 
-					<li className="list-none">Chức năng: {'{where they BUILD the SOFTware}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject CLAUSE][TÂN CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] at ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{where they BUILD the SOFTware}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject][TÂN] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] at ở tầng ngoài.</li>
 			
 				</ul>
 
@@ -692,7 +692,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [you BUILD GREAT THINGS] - [ZEro COMplement CLAUSE][KHUYẾT BỔ CÂU] mang diện mạo của một dòng lệnh độc lập với chủ thể "you" và [BASE VERB][NỀN ĐỘNG] BUILD, hoàn toàn ẩn đi [conJUNCtion][LIÊN] kết nối.</li>
 			
-					<li className="list-none">Chức năng: [you BUILD GREAT THINGS] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject CLAUSE][TÂN CÂU] nạp dữ liệu trực tiếp cho [ROOT VERB][GỐC ĐỘNG] "beLIEVE".</li>
+					<li className="list-none">Chức năng: [you BUILD GREAT THINGS] - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [OBject][TÂN] nạp dữ liệu trực tiếp cho [ROOT VERB][GỐC ĐỘNG] "beLIEVE".</li>
 			
 				</ul>
 			
@@ -748,7 +748,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [exPLORing OPTions] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] biểu hiện dưới dạng khối mã mở rộng chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] exPLORing và đối tượng đi kèm.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [exPLORing OPTions] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ nền tảng khối [SUBject PHRASE][CHỦ CỤM] để quản lý một đầu việc.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [exPLORing OPTions] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ nền tảng khối [SUBject][CHỦ] để quản lý một đầu việc.</li>
 			
 				</ul>
 
@@ -760,7 +760,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái mới: [eVALuating METrics] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] xuất hiện dưới dạng khối mở rộng mới chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] eVALuating được đưa vào thế chỗ.</li>
 			
-					<li className="list-none">Chức năng mới: [eVALuating METrics] - [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm khối [SUBject PHRASE][CHỦ CỤM] của khối cũ.</li>
+					<li className="list-none">Chức năng mới: [eVALuating METrics] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm khối [SUBject][CHỦ] của khối cũ.</li>
 			
 				</ul>
 

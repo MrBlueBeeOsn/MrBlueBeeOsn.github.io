@@ -28,7 +28,7 @@ export default function (): React.JSX.Element {
 				"[NOUN]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [reCORDing tranSACtions] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] consisting of the gerund \"reCORDing\" and its direct object \"tranSACtions\" working together as a structural unit. \n\n Function: [reCORDing tranSACtions] - [NOUN PHRASE][DANH CỤM] serving as the complete subject of the sentence to initiate the main verb \"is\"."
+			explanation: "Form: [reCORDing tranSACtions] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] consisting of the gerund \"reCORDing\" and its direct object \"tranSACtions\" working together as a structural unit. \n\n Function: [reCORDing tranSACtions] - [SUBject PHRASE][CHỦ CỤM] is formed from [NOUN PHRASE][DANH CỤM] serving as the complete subject of the sentence to initiate the main verb \"is\"."
 		},
 		{
 			id: 2,
@@ -38,7 +38,7 @@ export default function (): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to mainTAIN ACcurate LEDgers] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to mainTAIN ACcurate LEDgers] - [NOUN PHRASE][DANH CỤM] acting as a subject complement to explain what the primary goal is after the linking verb."
+			explanation: "Form: [to mainTAIN ACcurate LEDgers] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to mainTAIN ACcurate LEDgers] - [OBject PHRASE][TÂN CỤM] is formed from  [NOUN PHRASE][DANH CỤM] acting as a subject complement to explain what the primary goal is after the linking verb."
 		},
 		{
 			id: 3,
@@ -68,7 +68,7 @@ export default function (): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [that the COMpany's ANnual REVenue inCREASED] - [suBORdinate CLAUSE][PHỤ CÂU] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [that the COMpany's ANnual REVenue inCREASED] - [NOUN CLAUSE][DANH CÂU] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
+			explanation: "Form: [that the COMpany's ANnual REVenue inCREASED] - [deCLARative CONtent CLAUSE][THUẬT NỘI CÂU] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [that the COMpany's ANnual REVenue inCREASED] - [SUBject CLAUSE][CHỦ CÂU] is formed from [NOUN CLAUSE][DANH CÂU] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
 		},
 		{
 			id: 6,
@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
 				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [whether the GENERal LEDger was UPdated] - [suBORdinate CLAUSE][PHỤ CÂU] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the GENERal LEDger was UPdated] - [NOUN CLAUSE][DANH CÂU] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"ASKED\"."
+			explanation: "Form: [whether the GENERal LEDger was UPdated] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the GENERal LEDger was UPdated] - [OBject CLAUSE][TÂN CÂU] is formed from [NOUN CLAUSE][DANH CÂU] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"ASKED\"."
 		}
 	];
 

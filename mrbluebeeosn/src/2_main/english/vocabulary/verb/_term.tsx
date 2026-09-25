@@ -501,7 +501,7 @@ export default function (): React.JSX.Element {
 
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>suBORdinate CLAUSE</strong>][<strong>PHỤ CÂU</strong>] <strong>làm</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>interROGative CONtent CLAUSE</strong>][<strong>VẤN NỘI CÂU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9b:</p>
       

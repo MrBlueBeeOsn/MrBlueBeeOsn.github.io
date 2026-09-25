@@ -28,7 +28,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [to LEARN EVERyday] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] formed by combining the infinitive marker \"to\", the bare VERB \"LEARN\", and the adverbial modifier \"EVERyday\". \n\n Function: [to LEARN EVERyday] - [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"exPANDS\", acting as the nominal head of the sentence."
+			explanation: "Form: [to LEARN EVERyday] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] formed by combining the infinitive marker \"to\", the bare VERB \"LEARN\", and the adverbial modifier \"EVERyday\". \n\n Function: [to LEARN EVERyday] - [SUBject PHRASE][CHỦ CỤM] is formed from  [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"exPANDS\", acting as the nominal head of the sentence."
 		},
 		{
 			id: 2,
@@ -58,7 +58,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [MANaging a LARGE interNATional TEAM] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] formed by the gerund \"MANaging\" and its direct object phrase \"a LARGE interNATional TEAM\". \n\n Function: [MANaging a LARGE interNATional TEAM] - [NOUN PHRASE][DANH CỤM] occupies the subject slot of the main verb \"reQUIres\"."
+			explanation: "Form: [MANaging a LARGE interNATional TEAM] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] formed by the gerund \"MANaging\" and its direct object phrase \"a LARGE interNATional TEAM\". \n\n Function: [MANaging a LARGE interNATional TEAM] - [SUBject PHRASE][CHỦ CỤM] is formed from [NOUN PHRASE][DANH CỤM] occupies the subject slot of the main verb \"reQUIres\"."
 		},
 		{
 			id: 5,
@@ -88,7 +88,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [where they conDUCT MEDical exPERiments] - [suBORdinate CLAUSE][PHỤ CÂU] formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conDUCT\". \n\n Function: [where they conDUCT MEDical exPERiments] - [ADjective CLAUSE][TÍNH CÂU] post-modifies and defines the spatial traits of the head noun \"LABORatory\"."
+			explanation: "Form: [where they conDUCT MEDical exPERiments] - [RELative CLAUSE][QUAN CÂU] formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conDUCT\". \n\n Function: [where they conDUCT MEDical exPERiments] - [ADjective CLAUSE][TÍNH CÂU] post-modifies and defines the spatial traits of the head noun \"LABORatory\"."
 		},
 		{
 			id: 8,

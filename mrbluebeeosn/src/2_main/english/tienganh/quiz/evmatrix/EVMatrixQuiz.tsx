@@ -38,7 +38,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to LEARN a NEW LANGuage] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LEARN a NEW LANGuage] - [NOUN PHRASE][DANH CỤM] đứng ở đầu câu để làm chủ thể cốt lõi thực hiện hành vi cho \"reQUIres\"."
+			explanation: "Hình thái: [to LEARN a NEW LANGuage] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LEARN a NEW LANGuage] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng ở đầu câu để làm [SUBject][CHỦ] chủ thể cốt lõi thực hiện hành vi cho \"reQUIres\"."
 		},
 		{
 			id: 3,
@@ -58,7 +58,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [that you LENT me YESterday] - [suBORdinate CLAUSE][PHỤ CÂU] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (LENT). \n\n Chức năng: [that you LENT me YESterday] - [ADjective CLAUSE][TÍNH CÂU] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"the BOOK\"."
+			explanation: "Hình thái: [that you LENT me YESterday] - [RELative CLAUSE][QUAN CÂU] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (LENT). \n\n Chức năng: [that you LENT me YESterday] - [ADjective CLAUSE][TÍNH CÂU] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"the BOOK\"."
 		},
 		{
 			id: 5,

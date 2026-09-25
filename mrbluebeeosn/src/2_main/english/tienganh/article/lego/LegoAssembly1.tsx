@@ -797,7 +797,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [inCREAsing the BUDget] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt từ [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] inCREAsing mang tính chất chuyển động kéo dài có đối tượng đi kèm.</li>
 
-					<li className="list-none">Chức năng: [inCREAsing the BUDget] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm phần [OBject PHRASE][TÂN CỤM], chịu tác động trực tiếp đứng sau hành động điều khiển apPROVE.</li>
+					<li className="list-none">Chức năng: [inCREAsing the BUDget] - [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] đóng vai trò làm phần [OBject][TÂN], chịu tác động trực tiếp đứng sau hành động điều khiển apPROVE.</li>
 			
 				</ul>
 			
@@ -811,7 +811,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [that the dePARTment inCREASes the BUDget] - [deCLARative CONtent CLAUSE][THUẬT NỘI CÂU] bắt đầu bằng [conJUNCtion][LIÊN] that bao bọc lấy một kết cấu câu hoàn chỉnh có chủ vị phân định rõ ràng.</li>
 					
-					<li className="list-none">Chức năng: [that the dePARTment inCREASes the BUDget] - [NOUN CLAUSE][DANH CÂU] giữ nguyên vị trí chức năng [OBject CLAUSE][TÂN CÂU] đứng sau apPROVE nhưng cấu trúc hình thái được bung mở thành một câu con đầy đủ cấu trúc [S]-[HEAD] bên trong để chi tiết hóa thông tin.</li>
+					<li className="list-none">Chức năng: [that the dePARTment inCREASes the BUDget] - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] giữ nguyên vị trí chức năng [OBject][TÂN] đứng sau apPROVE nhưng cấu trúc hình thái được bung mở thành một câu con đầy đủ cấu trúc [S]-[HEAD] bên trong để chi tiết hóa thông tin.</li>
 			
 				</ul>
 			

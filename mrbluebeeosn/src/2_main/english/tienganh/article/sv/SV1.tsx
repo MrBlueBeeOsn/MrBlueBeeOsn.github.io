@@ -510,7 +510,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [you will PASS the eXAM] - [ZEro COMplement CLAUSE][KHUYẾT BỔ CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và khối hành động gồm [asSERTive MOdal and BARE inFINitive VERB][ÁP THÁI và THUẦN NGUYÊN ĐỘNG] "will" kết hợp với [BARE inFINitive VERB][THUẦN NGUYÊN ĐỘNG] "PASS".</li>
 			
-					<li className="list-none">Chức năng: [you will PASS the eXAM] - [NOUN CLAUSE][DANH CÂU] đứng sau [BASE VERB][NỀN ĐỘNG] "beLIEVE" như một [OBject CLAUSE][TÂN CÂU] thực thi.</li>
+					<li className="list-none">Chức năng: [you will PASS the eXAM] - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đứng sau [BASE VERB][NỀN ĐỘNG] "beLIEVE" như một [OBject][TÂN] thực thi.</li>
 			
 				</ul>
 			
@@ -807,7 +807,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái:  [what you KNOW] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [BASE VERB][NỀN ĐỘNG] "KNOW", bắt đầu bằng [conJUNCtion][LIÊN] "WHAT".</li>
 
-					<li className="list-none">Chức năng:  [what you KNOW] - [NOUN CLAUSE][DANH CÂU] đứng ở đầu câu tạo nên [SUBject CLAUSE][CHỦ CÂU] cho toàn câu.</li>
+					<li className="list-none">Chức năng:  [what you KNOW] - [SUBject CLAUSE][CHỦ CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đứng ở đầu câu tạo nên [SUBject][CHỦ] cho toàn câu.</li>
 			
 				</ul>
 			

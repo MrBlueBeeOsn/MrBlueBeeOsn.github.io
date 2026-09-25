@@ -668,7 +668,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [ANalyzing {'{how the PROgram CLEARS METadata}'}] - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG CÂU] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [ANalyzing {'{how the PROgram CLEARS METadata}'}] - [NOUN PHRASE][DANH CỤM] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm [SUBject PHRASE][CHỦ CỤM] để thiết lập nền tảng thông tin đứng đầu toàn câu trước [auXILiary VERB][TRỢ ĐỘNG] "is".</li>
+          <li className="list-none">Chức năng: [ANalyzing {'{how the PROgram CLEARS METadata}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm [SUBject][CHỦ] để thiết lập nền tảng thông tin đứng đầu toàn câu trước [auXILiary VERB][TRỢ ĐỘNG] "is".</li>
       
         </ul>
 
@@ -799,7 +799,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái gốc: [CLEARing the BROWser CACHE] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] biểu hiện dưới dạng khối mã mở rộng chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng "-ing" và đối tượng đi kèm.</li>
       
-          <li className="list-none">Chức năng: [CLEARing the BROWser CACHE] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject PHRASE][CHỦ CỤM] để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Chức năng: [CLEARing the BROWser CACHE] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject][CHỦ] để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
       
@@ -813,7 +813,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái mới: [EMPtying the TEMporary FOLDer] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] xuất hiện dưới dạng khối mở rộng mới chứa [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] khác được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Chức năng mới: [EMPtying the TEMporary FOLDer]- [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject PHRASE][CHỦ CỤM] của khối cũ.</li>
+          <li className="list-none">Chức năng mới: [EMPtying the TEMporary FOLDer]- [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject][CHỦ] của khối cũ.</li>
       
         </ul>
 

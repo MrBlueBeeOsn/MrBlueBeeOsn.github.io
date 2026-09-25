@@ -557,7 +557,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Tầng 1: [of {'{WHAT they inVEStigated}'}] - [ADjective PHRASE][TÍNH CỤM] mở rộng thông tin bổ trợ cho [NOUN HEAD][DANH LÕI] "the aNALysis".</li>
 
-					<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
+					<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
 			
 				</ul>
 

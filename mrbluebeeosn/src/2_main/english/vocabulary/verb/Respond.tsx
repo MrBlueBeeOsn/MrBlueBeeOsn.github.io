@@ -347,7 +347,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to reSPOND QUICKly to CUStomer comPLAINts] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] phát triển từ cụm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [to reSPOND QUICKly to CUStomer comPLAINts] - [NOUN PHRASE][DANH CỤM] đảm nhận vai trò làm [SUBject PHRASE][CHỦ CỤM] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is esSENtial".</li>
+          <li className="list-none">Chức năng: [to reSPOND QUICKly to CUStomer comPLAINts] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] đảm nhận vai trò làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is esSENtial".</li>
       
         </ul>
 
@@ -927,7 +927,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái gốc: [reSPONDing PROMPTly to CLIent QUEries] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] biểu hiện dưới dạng khối mã mở rộng chứa hành động và đối tượng đi kèm.</li>
       
-          <li className="list-none">Chức năng: [reSPONDing PROMPTly to CLIent QUEries] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject PHRASE][CHỦ CỤM] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional communiCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Chức năng: [reSPONDing PROMPTly to CLIent QUEries] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject PHRASE][CHỦ CỤM] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional communiCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
       
@@ -941,7 +941,7 @@ export default function reSPOND(): React.JSX.Element {
       
           <li className="list-none">Hình thái mới: [ANswering CUStomer reQUESTS efFIciently] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Chức năng mới: [ANswering CUStomer reQUESTS efFIciently] - [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject PHRASE][CHỦ CỤM] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional communiCAtion" của khối cũ.</li>
+          <li className="list-none">Chức năng mới: [ANswering CUStomer reQUESTS efFIciently] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject PHRASE][CHỦ CỤM] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional communiCAtion" của khối cũ.</li>
       
         </ul>
 
