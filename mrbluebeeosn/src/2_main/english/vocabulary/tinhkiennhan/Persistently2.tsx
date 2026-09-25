@@ -85,7 +85,7 @@ export default function perSISTently2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              perSISTently \<Link to="/pronunciation/5-vowel-system">pe̛r SIS te̛nt ly</Link>\ /pəˈsɪs.tənt.li/ •⬤•• (4x)
+              perSISTently \<Link to="/pronunciation/5-vowel-system">pe̛r SIS te̛nt ly</Link>\ /pəˈsɪs.tənt.li/ •⬤•• (FOUR SYLlables)
               
             </span>
               

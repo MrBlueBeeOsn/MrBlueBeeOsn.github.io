@@ -85,7 +85,7 @@ export default function DILigently2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              DILigently \<Link to="/pronunciation/5-vowel-system">DIL i̛ ge̛nt ly</Link>\ /ˈdɪl.ə.dʒənt.li/ ⬤••• (4x)
+              DILigently \<Link to="/pronunciation/5-vowel-system">DIL i̛ ge̛nt ly</Link>\ /ˈdɪl.ə.dʒənt.li/ ⬤••• (FOUR SYLlables)
               
               </span>
 
@@ -106,7 +106,7 @@ export default function DILigently2(): React.JSX.Element {
         <li value="1" id="WORKED-on">she DILigently [WORKED on] her PROject un<strong>til</strong> LATE at NIGHT.</li>
         <li className="list-none margin-bottom-20">Cô ấy chăm chỉ [làm] dự án đến tận khuya.</li>
 
-        <li value="2" id="STUDied-for">he DILigently [STUDied for] his eXAMs.</li>
+        <li value="2" id="STUDied-for">he DILigently [STUDied for] his eXAMS.</li>
         <li className="list-none margin-bottom-20">Anh ấy [chăm chỉ] ôn thi.</li>
 
         <li value="3" id="SEARCHED-for">the deTECtives DILigently [SEARCHED for] CLUES.</li>

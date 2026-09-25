@@ -65,7 +65,7 @@ export default function perHAPS1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                perHAPS \<Link to="/pronunciation/5-vowel-system">pe̛r HAPS</Link>\ /pəˈhæps/ •⬤ (2x)
+                perHAPS \<Link to="/pronunciation/5-vowel-system">pe̛r HAPS</Link>\ /pəˈhæps/ •⬤ (TWO SYLlables)
               </span>
             </li>
 

@@ -22,7 +22,7 @@ export default function PrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "she _______ STUDying for her FInal eXAMs all DAY YESterday.",
+			question: "she _______ STUDying for her FInal eXAMS all DAY YESterday.",
 			options: [
 				"does",
 				"has",

@@ -73,7 +73,7 @@ export default function CERtainly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                CERtainly \<Link to="/pronunciation/5-vowel-system">CÊR ta̛in ly</Link>\ /ˈsɜːrtnli/ ⬤•• (3x)
+                CERtainly \<Link to="/pronunciation/5-vowel-system">CÊR ta̛in ly</Link>\ /ˈsɜːrtnli/ ⬤•• (THREE SYLlables)
               </span>
             </li>
 

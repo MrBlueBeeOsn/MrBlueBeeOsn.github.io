@@ -75,7 +75,7 @@ export default function RAPidly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [RAPidly \<Link to="/pronunciation/5-vowel-system">RAP id ly</Link>\ /ˈræpɪdli/ ⬤•• (3x)
+                [RAPidly \<Link to="/pronunciation/5-vowel-system">RAP id ly</Link>\ /ˈræpɪdli/ ⬤•• (THREE SYLlables)
               </span>
             </li>
 

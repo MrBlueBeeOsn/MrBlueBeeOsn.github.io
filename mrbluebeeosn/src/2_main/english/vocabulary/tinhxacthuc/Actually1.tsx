@@ -73,7 +73,7 @@ export default function ACtually1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                ACtually \<Link to="/pronunciation/5-vowel-system">AC tưa̛l ly</Link>\ /ˈæk.tʃəl.i/ ⬤•• (3x)
+                ACtually \<Link to="/pronunciation/5-vowel-system">AC tưa̛l ly</Link>\ /ˈæk.tʃəl.i/ ⬤•• (THREE SYLlables)
               </span>
             </li>
 

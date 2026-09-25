@@ -85,7 +85,7 @@ export default function RAREly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              RAREly \<Link to="/pronunciation/5-vowel-system">RĀ̄RE ly</Link>\ /ˈrerli/ ⬤• (2x)
+              RAREly \<Link to="/pronunciation/5-vowel-system">RĀ̄RE ly</Link>\ /ˈrerli/ ⬤• (TWO SYLlables)
               
             </span>
               

@@ -85,7 +85,7 @@ export default function EVer2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              EVer \<Link to="/pronunciation/5-vowel-system">EV e̛r</Link>\ /ˈev.ər/ ⬤• (2x)
+              EVer \<Link to="/pronunciation/5-vowel-system">EV e̛r</Link>\ /ˈev.ər/ ⬤• (TWO SYLlables)
               
             </span>
               

@@ -85,7 +85,7 @@ export default function corRECTly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-               corRECTly \<Link to="/pronunciation/5-vowel-system">cơr RECT ly</Link>\ /kəˈrektli/ •⬤• (3x)
+               corRECTly \<Link to="/pronunciation/5-vowel-system">cơr RECT ly</Link>\ /kəˈrektli/ •⬤• (THREE SYLlables)
               
             </span>
               

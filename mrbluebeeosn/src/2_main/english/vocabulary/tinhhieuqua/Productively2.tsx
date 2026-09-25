@@ -85,7 +85,7 @@ export default function proDUCTively2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              proDUCTively \<Link to="/pronunciation/5-vowel-system">prơ DƯC tive ly</Link>\ /prəˈdʌk.tɪv.li/ •⬤•• (4x)
+              proDUCTively \<Link to="/pronunciation/5-vowel-system">prơ DƯC tive ly</Link>\ /prəˈdʌk.tɪv.li/ •⬤•• (FOUR SYLlables)
               
             </span>
               

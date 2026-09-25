@@ -85,7 +85,7 @@ export default function exTREMEly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              exTREMEly \<Link to="/pronunciation/5-vowel-system">ex TRĒME ly</Link>\ /ɪkˈstriːmli/ •⬤• (3x)
+              exTREMEly \<Link to="/pronunciation/5-vowel-system">ex TRĒME ly</Link>\ /ɪkˈstriːmli/ •⬤• (THREE SYLlables)
               
             </span>
               

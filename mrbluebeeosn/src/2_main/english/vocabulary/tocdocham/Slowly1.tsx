@@ -73,7 +73,7 @@ export default function SLOWly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                SLOWly \<Link to="/pronunciation/5-vowel-system">SLŌW ly</Link>\ /ˈsləʊli/ ⬤• (2x)
+                SLOWly \<Link to="/pronunciation/5-vowel-system">SLŌW ly</Link>\ /ˈsləʊli/ ⬤• (TWO SYLlables)
               </span>
             </li>
 

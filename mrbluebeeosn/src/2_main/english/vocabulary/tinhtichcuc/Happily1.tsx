@@ -73,7 +73,7 @@ export default function HAPpily1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                HAPpily \<Link to="/pronunciation/5-vowel-system">HAP pi̛ ly</Link>\ /ˈhæpəli/ ⬤•• (3x)
+                HAPpily \<Link to="/pronunciation/5-vowel-system">HAP pi̛ ly</Link>\ /ˈhæpəli/ ⬤•• (THREE SYLlables)
               </span>
             </li>
 

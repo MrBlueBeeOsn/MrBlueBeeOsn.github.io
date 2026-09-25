@@ -85,7 +85,7 @@ export default function TRUly2(): React.JSX.Element {
 						
 						<span className="highlight-255-padding-3-6">
 							
-							[TRUly \<Link to="/pronunciation/5-vowel-system">TRÜ ly</Link>\ /ˈtruːli/ ⬤• (2x)
+							[TRUly \<Link to="/pronunciation/5-vowel-system">TRÜ ly</Link>\ /ˈtruːli/ ⬤• (TWO SYLlables)
 							
 						</span>
 							

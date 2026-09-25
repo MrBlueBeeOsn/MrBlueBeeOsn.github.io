@@ -85,7 +85,7 @@ export default function THORoughly2(): React.JSX.Element {
 
             <span className="highlight-255-padding-3-6">
 
-              THOroughly \<Link to="/pronunciation/5-vowel-system">THƠR ơugh ly</Link>\ /ˈθʌrəli/ ⬤•• (3x)
+              THOroughly \<Link to="/pronunciation/5-vowel-system">THƠR ơugh ly</Link>\ /ˈθʌrəli/ ⬤•• (THREE SYLlables)
 
             </span>
 
@@ -118,7 +118,7 @@ export default function THORoughly2(): React.JSX.Element {
         <li value="5" id="MIXED">MAKE SURE the inGREdients are THORoughly [MIXED] be<strong>fore</strong> BAking.</li>
         <li className="list-none margin-bottom-20">Hãy chắc chắn [trộn đều] các nguyên liệu trước khi nướng.</li>
 
-        <li value="6" id="TESTed">the NEW PROduct has been THORoughly [TESTed] be<strong>fore</strong> being reLEASed.</li>
+        <li value="6" id="TESTed">the NEW PROduct has been THORoughly [TESTed] be<strong>fore</strong> <strong>be</strong>ing reLEASed.</li>
         <li className="list-none margin-bottom-20">Sản phẩm mới [đã được kiểm tra] kỹ lưỡng trước khi được tung ra thị trường.</li>
 
         <li value="7" id="MODern">the CIty's SKYline is THORoughly [MODern].</li>

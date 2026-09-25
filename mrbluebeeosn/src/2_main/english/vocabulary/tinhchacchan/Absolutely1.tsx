@@ -73,7 +73,7 @@ export default function ABsolutely1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                ABsolutely \<Link to="/pronunciation/5-vowel-system">ab sơ LÜTE ly</Link>\ /ˈæb·səˌlut·li/ ⬤••• (4x)
+                ABsolutely \<Link to="/pronunciation/5-vowel-system">ab sơ LÜTE ly</Link>\ /ˈæb·səˌlut·li/ ⬤••• (FOUR SYLlables)
               </span>
             </li>
 

@@ -85,7 +85,7 @@ export default function INstantly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              INstantly \<Link to="/pronunciation/5-vowel-system">IN sta̛nt ly</Link>\ /ˈɪnstəntli/ ⬤•• (3x)
+              INstantly \<Link to="/pronunciation/5-vowel-system">IN sta̛nt ly</Link>\ /ˈɪnstəntli/ ⬤•• (THREE SYLlables)
               
             </span>
               

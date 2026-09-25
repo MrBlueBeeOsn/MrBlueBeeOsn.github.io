@@ -85,7 +85,7 @@ export default function beLAtedly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              beLAtedly \<Link to="/pronunciation/5-vowel-system">be LĀ ted ly</Link>\ /bɪˈleɪ.tɪd.li/ •⬤•• (4x)
+              beLAtedly \<Link to="/pronunciation/5-vowel-system">be LĀ ted ly</Link>\ /bɪˈleɪ.tɪd.li/ •⬤•• (FOUR SYLlables)
               
             </span>
               

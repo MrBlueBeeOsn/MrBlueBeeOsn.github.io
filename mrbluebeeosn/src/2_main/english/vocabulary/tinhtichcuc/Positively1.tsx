@@ -73,7 +73,7 @@ export default function POSitively1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                POSitively \<Link to="/pronunciation/5-vowel-system">POS i̛ tive ly</Link>\ /ˈpɒz.ə.tɪv.li/ ⬤••• (4x)
+                POSitively \<Link to="/pronunciation/5-vowel-system">POS i̛ tive ly</Link>\ /ˈpɒz.ə.tɪv.li/ ⬤••• (FOUR SYLlables)
               </span>
             </li>
 

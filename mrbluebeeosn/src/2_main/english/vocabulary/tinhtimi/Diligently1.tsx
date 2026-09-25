@@ -73,7 +73,7 @@ export default function DILigently1(): React.JSX.Element {
               
             <li>
               <span className="highlight-255-padding-3-6">
-                [DILigently \<Link to="/pronunciation/5-vowel-system">DIL i̛ ge̛nt ly</Link>\ /ˈdɪl.ə.dʒənt.li/ ⬤••• (4x)
+                [DILigently \<Link to="/pronunciation/5-vowel-system">DIL i̛ ge̛nt ly</Link>\ /ˈdɪl.ə.dʒənt.li/ ⬤••• (FOUR SYLlables)
               </span>
             </li>
             

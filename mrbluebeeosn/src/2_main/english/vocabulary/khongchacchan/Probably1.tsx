@@ -73,7 +73,7 @@ export default function PROBably1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                PROBAbly \<Link to="/pronunciation/5-vowel-system">PROB a̛ ly</Link>\ /ˈprɒbəbli/ ⬤• (3x)
+                PROBAbly \<Link to="/pronunciation/5-vowel-system">PROB a̛ ly</Link>\ /ˈprɒbəbli/ ⬤• (THREE SYLlables)
               </span>
             </li>
 

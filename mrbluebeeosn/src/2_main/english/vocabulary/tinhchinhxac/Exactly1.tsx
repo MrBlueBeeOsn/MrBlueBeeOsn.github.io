@@ -69,7 +69,7 @@ export default function eXACTly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                eXACTly \<Link to="/pronunciation/5-vowel-system">ex ACT ly</Link>\ /ɪɡˈzæktli/ •⬤• (3x)
+                eXACTly \<Link to="/pronunciation/5-vowel-system">ex ACT ly</Link>\ /ɪɡˈzæktli/ •⬤• (THREE SYLlables)
               </span>
             </li>
 

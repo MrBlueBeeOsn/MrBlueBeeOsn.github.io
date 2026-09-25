@@ -85,7 +85,7 @@ export default function toDAY2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              toDAY \<Link to="/pronunciation/5-vowel-system">tơ DĀY</Link>\ /təˈdeɪ/ •⬤ (2x)
+              toDAY \<Link to="/pronunciation/5-vowel-system">tơ DĀY</Link>\ /təˈdeɪ/ •⬤ (TWO SYLlables)
               
             </span>
               

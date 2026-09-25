@@ -85,7 +85,7 @@ export default function Openly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              Openly \<Link to="/pronunciation/5-vowel-system">Ō pe̛n ly</Link>\ /ˈoʊpənli/ ⬤•• (3x)
+              Openly \<Link to="/pronunciation/5-vowel-system">Ō pe̛n ly</Link>\ /ˈoʊpənli/ ⬤•• (THREE SYLlables)
               
             </span>
               

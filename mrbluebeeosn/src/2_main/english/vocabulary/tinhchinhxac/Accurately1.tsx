@@ -73,7 +73,7 @@ export default function ACcurately1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                ACcurately \<Link to="/pronunciation/5-vowel-system">AC cư ra̛te ly</Link>\ /ˈækjərətli/ ⬤••• (4x)
+                ACcurately \<Link to="/pronunciation/5-vowel-system">AC cư ra̛te ly</Link>\ /ˈækjərətli/ ⬤••• (FOUR SYLlables)
               </span>
             </li>
 

@@ -73,7 +73,7 @@ export default function HONestly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                HONestly \<Link to="/pronunciation/5-vowel-system">HON est ly</Link>\ /ˈɒnɪstli/ ⬤•• (3x)
+                HONestly \<Link to="/pronunciation/5-vowel-system">HON est ly</Link>\ /ˈɒnɪstli/ ⬤•• (THREE SYLlables)
               </span>
             </li>
 

@@ -85,7 +85,7 @@ export default function SCRUpulously2(): React.JSX.Element {
 
             <span className="highlight-255-padding-3-6">
 
-              SCRUpulously \<Link to="/pronunciation/5-vowel-system">SCRÜ pư lơus ly</Link>\ /ˈskruː.pjə.ləs.li/ ⬤••• (4x)
+              SCRUpulously \<Link to="/pronunciation/5-vowel-system">SCRÜ pư lơus ly</Link>\ /ˈskruː.pjə.ləs.li/ ⬤••• (FOUR SYLlables)
 
             </span>
               

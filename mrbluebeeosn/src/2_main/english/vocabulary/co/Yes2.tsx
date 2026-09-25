@@ -85,7 +85,7 @@ export default function YES2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              YES \<Link to="/pronunciation/5-vowel-system">YES</Link>\ /jɛs/ ⬤ (1x)
+              YES \<Link to="/pronunciation/5-vowel-system">YES</Link>\ /jɛs/ ⬤ (ONE SYLlable)
               
             </span>
               

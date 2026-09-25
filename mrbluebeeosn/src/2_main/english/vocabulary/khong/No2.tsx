@@ -85,7 +85,7 @@ export default function NO2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              NO \<Link to="/pronunciation/5-vowel-system">NŌ</Link>\ /noʊ/ ⬤ (1x)
+              NO \<Link to="/pronunciation/5-vowel-system">NŌ</Link>\ /noʊ/ ⬤ (ONE SYLlable)
               
             </span>
               

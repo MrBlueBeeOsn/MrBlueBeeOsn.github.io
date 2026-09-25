@@ -85,7 +85,7 @@ export default function ALways2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              ALways \<Link to="/pronunciation/5-vowel-system">ÅL wāys</Link>\ /ˈɔːl.weɪz/ ⬤• (2x)
+              ALways \<Link to="/pronunciation/5-vowel-system">ÅL wāys</Link>\ /ˈɔːl.weɪz/ ⬤• (TWO SYLlables)
               
             </span>
               

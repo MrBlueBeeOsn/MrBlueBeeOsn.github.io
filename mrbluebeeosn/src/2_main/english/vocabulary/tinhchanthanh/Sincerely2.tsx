@@ -85,7 +85,7 @@ export default function sinCEREly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              sinCEREly \<Link to="/pronunciation/5-vowel-system">sin CĒRE ly</Link>\ /sɪnˈsɪrlɪ/ •⬤• (3x)
+              sinCEREly \<Link to="/pronunciation/5-vowel-system">sin CĒRE ly</Link>\ /sɪnˈsɪrlɪ/ •⬤• (THREE SYLlables)
               
             </span>
               

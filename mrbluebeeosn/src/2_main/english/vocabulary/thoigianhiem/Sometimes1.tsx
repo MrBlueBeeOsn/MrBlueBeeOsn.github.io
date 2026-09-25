@@ -65,7 +65,7 @@ export default function SOMEtimes1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                SOMEtimes \<Link to="/pronunciation/5-vowel-system">SÔME tīmes</Link>\ /ˈsʌmtaɪmz/ ⬤• (2x)
+                SOMEtimes \<Link to="/pronunciation/5-vowel-system">SÔME tīmes</Link>\ /ˈsʌmtaɪmz/ ⬤• (TWO SYLlables)
               </span>
             </li>
 
