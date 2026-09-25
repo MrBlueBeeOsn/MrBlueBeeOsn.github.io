@@ -256,7 +256,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to travel abroad] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] gồm hành động nguyên mẫu có to và abroad.</li>
 			
-					<li className="list-none">Chức năng: [to travel abroad] – [ADverb PHRASE][TRẠNG CỤM] đứng cuối câu, bổ sung ý nghĩa về mục đích cho hành động saves money.</li>
+					<li className="list-none">Chức năng: [to travel abroad] – [ADjunct][PHỤ] đứng cuối câu, bổ sung ý nghĩa về mục đích cho hành động saves money.</li>
 			
 				</ul>
 			
@@ -270,7 +270,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Although it was late] – [conJUNCtional CLAUSE][LIÊN CÂU] có it là thành phần thực hiện hành động, was là ĐỘNG, late là thành phần bổ sung.</li>
 			
-					<li className="list-none">Chức năng: [Although it was late] – [ADverb CLAUSE][TRẠNG CÂU] đứng đầu câu, bổ sung ý nghĩa về sự nhượng bộ cho toàn bộ câu chính.</li>
+					<li className="list-none">Chức năng: [Although it was late] – [ADjunct][PHỤ] đứng đầu câu, bổ sung ý nghĩa về sự nhượng bộ cho toàn bộ câu chính.</li>
 			
 				</ul>
 			
@@ -414,7 +414,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to share the good news] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng nguyên mẫu mục đích.</li>
 			
-					<li className="list-none">Chức năng: [to share the good news] – [ADverb PHRASE][TRẠNG CỤM] bổ sung ý nghĩa mục đích cho hành động called.</li>
+					<li className="list-none">Chức năng: [to share the good news] – [ADjunct][PHỤ] bổ sung ý nghĩa mục đích cho hành động called.</li>
 			
 				</ul>
 			
@@ -428,7 +428,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [so that she could share the good news] – [conJUNCtional CLAUSE][LIÊN CÂU].</li>
 			
-					<li className="list-none">Chức năng: [so that she could share the good news] – [ADverb CLAUSE][TRẠNG CÂU] vẫn bổ sung ý nghĩa mục đích.</li>
+					<li className="list-none">Chức năng: [so that she could share the good news] – [ADjunct][PHỤ] vẫn bổ sung ý nghĩa mục đích.</li>
 			
 				</ul>
 			
@@ -460,7 +460,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [with great care] – [prepoSITional PHRASE][GIỚI CỤM], một cụm chỉ cách thức, bắt đầu bằng with.</li>
 			
-					<li className="list-none">Chức năng: [with great care] – [ADverb PHRASE][TRẠNG CỤM] vẫn bổ nghĩa cho hành động drives.</li>
+					<li className="list-none">Chức năng: [with great care] – [ADjunct][PHỤ] vẫn bổ nghĩa cho hành động drives.</li>
 			
 				</ul>
 			

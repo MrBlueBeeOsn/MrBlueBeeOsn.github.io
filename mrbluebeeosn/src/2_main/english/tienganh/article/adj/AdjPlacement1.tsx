@@ -185,7 +185,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p className=" text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className=" text-indent-whole">Khi bất kỳ họ [VERB HEAD][ĐỘNG LÕI] nào kéo theo các [OBject HEAD][TÂN LÕI], [OBject PHRASE][TÂN CỤM], [OBject CLAUSE][TÂN CÂU], [ADverb HEAD][TRẠNG LÕI], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU] phía sau, toàn khối đó tự động chuyển cấu trúc thành [PHRASE][CỤM].</p>
+			<p className=" text-indent-whole">Khi bất kỳ họ [VERB HEAD][ĐỘNG LÕI] nào kéo theo các [OBject HEAD][TÂN LÕI], [OBject PHRASE][TÂN CỤM], [OBject CLAUSE][TÂN CÂU], [ADverb HEAD][TRẠNG LÕI], [ADjunct][PHỤ], hoặc [ADjunct][PHỤ] phía sau, toàn khối đó tự động chuyển cấu trúc thành [PHRASE][CỤM].</p>
 
 			<p className="text-indent-whole margin-top-20">Ví dụ:</p>
 			
@@ -557,7 +557,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Tầng 1: [of {'{WHAT they inVEStigated}'}] - [ADjective PHRASE][TÍNH CỤM] mở rộng thông tin bổ trợ cho [NOUN HEAD][DANH LÕI] "the aNALysis".</li>
 
-					<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
+					<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [OBject CLAUSE][TÂN CÂU] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
 			
 				</ul>
 

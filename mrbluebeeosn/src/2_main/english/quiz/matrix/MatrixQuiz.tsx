@@ -78,7 +78,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to FINish his gradUAtion THEsis] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] formed by the infinitive marker \"to\", the VERB \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [ADverb PHRASE][TRẠNG CỤM] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
+			explanation: "Form: [to FINish his gradUAtion THEsis] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] formed by the infinitive marker \"to\", the VERB \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [ADjunct][PHỤ] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
 		},
 		{
 			id: 7,
@@ -98,7 +98,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [although the TEAM FACED seVERE BUDget CUTS] - [suBORdinate CLAUSE][PHỤ CÂU] formed by the subordinating conjunction \"although\" followed by a full clause containing the subject \"the TEAM\" and finite verb \"FACED\". \n\n Function: [although the TEAM FACED seVERE BUDget CUTS] - [ADverb CLAUSE][TRẠNG CÂU] modifies the entire main clause by providing a situational context of concession."
+			explanation: "Form: [although the TEAM FACED seVERE BUDget CUTS] - [suBORdinate CLAUSE][PHỤ CÂU] formed by the subordinating conjunction \"although\" followed by a full clause containing the subject \"the TEAM\" and finite verb \"FACED\". \n\n Function: [although the TEAM FACED seVERE BUDget CUTS] - [ADjunct][PHỤ] modifies the entire main clause by providing a situational context of concession."
 		},
 		{
 			id: 9,

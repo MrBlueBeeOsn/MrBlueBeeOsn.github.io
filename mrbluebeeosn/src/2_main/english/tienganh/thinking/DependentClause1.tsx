@@ -144,7 +144,7 @@ export default function DependentClause1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">→ Cụm [THAT is BARKing] đóng vai trò như một [ADjective CLAUSE][TÍNH CÂU] lớn để phân biệt con chó này với những con khác</p>
 			
 			
-			<h4 className="margin-y-40">Chức năng [ADverb CLAUSE][TRẠNG CÂU]</h4>
+			<h4 className="margin-y-40">Chức năng [ADjunct][PHỤ]</h4>
 					
 			<p className="text-indent-whole">Thiết lập bối cảnh cho hành động chính, làm rõ các yếu tố về thời gian, lý do hoặc sự tương phản.</p>
 			

@@ -145,10 +145,10 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">– [ADverb HEAD][TRẠNG LÕI]</li>
 			
 					<li>[to earn money], [with great care]</li>
-					<li className="margin-bottom-20 list-none">– [ADverb PHRASE][TRẠNG CỤM]</li>
+					<li className="margin-bottom-20 list-none">– [ADjunct][PHỤ]</li>
 			
 					<li>[because it rained], [when you arrive]</li>
-					<li className="list-none">– [ADverb CLAUSE][TRẠNG CÂU]</li>
+					<li className="list-none">– [ADjunct][PHỤ]</li>
 			
 				</ul>
 			
@@ -356,7 +356,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>]: [to pass the exam]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]: [to pass the exam]</p>
 			
 				<ul className="list-square">
 			
@@ -365,12 +365,12 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to pass the exam] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng nguyên mẫu.</li>
 			
-					<li className="list-none">Chức năng: [to pass the exam] – [ADverb PHRASE][TRẠNG CỤM] chỉ mục đích, bổ nghĩa cho studies hard.</li>
+					<li className="list-none">Chức năng: [to pass the exam] – [ADjunct][PHỤ] chỉ mục đích, bổ nghĩa cho studies hard.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]: [because it was raining heavily]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]: [because it was raining heavily]</p>
 			
 				<ul className="list-square">
 			
@@ -379,7 +379,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [because it was raining heavily] – [conJUNCtional CLAUSE][LIÊN CÂU] bên trong có cặp it + was raining.</li>
 			
-					<li className="list-none">Chức năng: [because it was raining heavily] – [ADverb CLAUSE][TRẠNG CÂU] chỉ nguyên nhân, bổ nghĩa cho hành động stayed.</li>
+					<li className="list-none">Chức năng: [because it was raining heavily] – [ADjunct][PHỤ] chỉ nguyên nhân, bổ nghĩa cho hành động stayed.</li>
 			
 				</ul>
 			
@@ -811,7 +811,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>He succeeded [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy thành công [vì anh ấy làm việc chăm chỉ].</li>
 			
-					<li className="list-none">[because he worked hard] – [conJUNCtional CLAUSE][LIÊN CÂU] → [ADverb CLAUSE][TRẠNG CÂU] chỉ nguyên nhân.</li>
+					<li className="list-none">[because he worked hard] – [conJUNCtional CLAUSE][LIÊN CÂU] → [ADjunct][PHỤ] chỉ nguyên nhân.</li>
 			
 				</ul>
 			
@@ -823,7 +823,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>He succeeded [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy thành công [bằng cách làm việc chăm chỉ].</li>
 			
-					<li className="list-none">[by working hard] – [prepoSITional PHRASE][GIỚI CỤM] dạng [Giới Cụm] + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] -ing → [ADverb PHRASE][TRẠNG CỤM] – vẫn chỉ nguyên nhân/cách thức.</li>
+					<li className="list-none">[by working hard] – [prepoSITional PHRASE][GIỚI CỤM] dạng [Giới Cụm] + [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] -ing → [ADjunct][PHỤ] – vẫn chỉ nguyên nhân/cách thức.</li>
 			
 				</ul>
 			

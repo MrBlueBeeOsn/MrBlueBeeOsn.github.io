@@ -189,7 +189,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Cụm – [ADverb PHRASE][TRẠNG CỤM]</h4>
+			<h4 className="margin-y-40">Cấp độ Cụm – [ADjunct][PHỤ]</h4>
 					
 			<p className="margin-top-20 text-indent-whole"></p>
 			
@@ -200,12 +200,12 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to pass the exam] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] nguyên mẫu chỉ mục đích</li>
 			
-					<li className="list-none">Chức năng: [to pass the exam] – [ADverb PHRASE][TRẠNG CỤM] bổ nghĩa cho việc studies nêu mục đích</li>
+					<li className="list-none">Chức năng: [to pass the exam] – [ADjunct][PHỤ] bổ nghĩa cho việc studies nêu mục đích</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Câu – [ADverb CLAUSE][TRẠNG CÂU]</h4>
+			<h4 className="margin-y-40">Cấp độ Câu – [ADjunct][PHỤ]</h4>
 			
 				<ul className="list-square">
 			
@@ -214,7 +214,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [because it is raining] – [conJUNCtional CLAUSE][LIÊN CÂU] có it và [ĐỘNG] is raining</li>
 			
-					<li className="list-none">Chức năng: [because it is raining] – [ADverb CLAUSE][TRẠNG CÂU] giải thích nguyên nhân cho hành động will stay home</li>
+					<li className="list-none">Chức năng: [because it is raining] – [ADjunct][PHỤ] giải thích nguyên nhân cho hành động will stay home</li>
 			
 				</ul>
 		
@@ -315,7 +315,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He works hard [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy làm việc chăm chỉ [để kiếm tiền].</li>
 			
-					<li className="list-none">[to earn money] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] → chức năng [ADverb PHRASE][TRẠNG CỤM]</li>
+					<li className="list-none">[to earn money] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] → chức năng [ADjunct][PHỤ]</li>
 			
 				</ul>
 			
@@ -327,7 +327,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He works hard [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy làm việc chăm chỉ [để mà anh ấy có thể kiếm thêm tiền].</li>
 			
-					<li className="list-none">[so that he can earn more money] – [conJUNCtional CLAUSE][LIÊN CÂU] → chức năng [ADverb CLAUSE][TRẠNG CÂU]</li>
+					<li className="list-none">[so that he can earn more money] – [conJUNCtional CLAUSE][LIÊN CÂU] → chức năng [ADjunct][PHỤ]</li>
 			
 				</ul>
 

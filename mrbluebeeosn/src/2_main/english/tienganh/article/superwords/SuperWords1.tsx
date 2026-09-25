@@ -297,7 +297,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p>Khi bất kỳ họ [VERB HEAD][ĐỘNG LÕI] nào thuộc hệ thống 16 mục trên kéo theo các thành phần bổ trợ phía sau như [OBject HEAD][TÂN LÕI], [OBject PHRASE][TÂN CỤM], [OBject CLAUSE][TÂN CÂU], [ADverb HEAD][TRẠNG LÕI], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU], toàn bộ khối thông tin mở rộng đó sẽ lập tức chuyển đổi cấu trúc và dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p>Khi bất kỳ họ [VERB HEAD][ĐỘNG LÕI] nào thuộc hệ thống 16 mục trên kéo theo các thành phần bổ trợ phía sau như [OBject HEAD][TÂN LÕI], [OBject PHRASE][TÂN CỤM], [OBject CLAUSE][TÂN CÂU], [ADverb HEAD][TRẠNG LÕI], [ADjunct][PHỤ], hoặc [ADjunct][PHỤ], toàn bộ khối thông tin mở rộng đó sẽ lập tức chuyển đổi cấu trúc và dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
@@ -426,7 +426,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20" id="ADverb-PHRASE"><strong>Ví dụ 3</strong>: [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>]</p>
+			<p className="margin-top-20" id="ADverb-PHRASE"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -435,7 +435,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to PASS the examiNAtion] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] biểu thị khối hành động được dẫn dắt bởi hạt "to" kết hợp với hành động [Thuần] khiết và các thành phần bổ ngữ phía sau.</li>
 			
-					<li className="list-none">Chức năng: [to PASS the examiNAtion] – [ADverb PHRASE][TRẠNG CỤM] đang đứng vị trí cuối để bổ nghĩa cho toàn câu bằng cách làm rõ mục đích của hành động học tập.</li>
+					<li className="list-none">Chức năng: [to PASS the examiNAtion] – [ADjunct][PHỤ] đang đứng vị trí cuối để bổ nghĩa cho toàn câu bằng cách làm rõ mục đích của hành động học tập.</li>
 			
 				</ul>
 
@@ -463,7 +463,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>]</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -472,7 +472,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [in the afterNOON] – [prepoSITional PHRASE][GIỚI CỤM] thể hiện một khối thông tin định vị thời gian bắt đầu bằng [prepoSITion][GIỚI] "in".</li>
 			
-					<li className="list-none">Chức năng: [in the afterNOON] – [ADverb PHRASE][TRẠNG CỤM] đang đứng vị trí sau để bổ nghĩa cho toàn câu bằng cách thiết lập bối cảnh thời gian cho hành động lên lịch.</li>
+					<li className="list-none">Chức năng: [in the afterNOON] – [ADjunct][PHỤ] đang đứng vị trí sau để bổ nghĩa cho toàn câu bằng cách thiết lập bối cảnh thời gian cho hành động lên lịch.</li>
 			
 				</ul>
 			
@@ -498,7 +498,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [whaTEVer you deCIDE] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [conJUNCtion][LIÊN] "WhatEVer".</li>
 			
-					<li className="list-none">Chức năng: [whaTEVer you deCIDE] – [SUBject CLAUSE][CHỦ CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đang đứng ở đầu câu lớn để giữ vai trò làm [SUBject][CHỦ] thực hiện [VERB HEAD][ĐỘNG LÕI] "SHAPE".</li>
+					<li className="list-none">Chức năng: [whaTEVer you deCIDE] – [SUBject CLAUSE][CHỦ CÂU] đang đứng ở đầu câu lớn để giữ vai trò làm [SUBject][CHỦ] thực hiện [VERB HEAD][ĐỘNG LÕI] "SHAPE".</li>
 			
 				</ul>
 			
@@ -512,7 +512,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [that she SPOKE the TRUTH] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con hoàn chỉnh có đầy đủ chủ vị và được dẫn dắt hiển lộ bởi [conJUNCtion][LIÊN] "that".</li>
 			
-					<li className="list-none">Chức năng: [that she SPOKE the TRUTH] – [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đang đứng vị trí [OBject][TÂN] để tiếp nhận hành động từ [VERB HEAD][ĐỘNG LÕI] "disCOVered" của [SUBject PROnoun][CHỦ ĐẠI] "i".</li>
+					<li className="list-none">Chức năng: [that she SPOKE the TRUTH] – [OBject CLAUSE][TÂN CÂU] đang đứng vị trí [OBject][TÂN] để tiếp nhận hành động từ [VERB HEAD][ĐỘNG LÕI] "disCOVered" của [SUBject PROnoun][CHỦ ĐẠI] "i".</li>
 			
 				</ul>
 			
@@ -531,7 +531,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20" id="ADverb-CLAUSE"><strong>Ví dụ 3</strong>: [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]</p>
+			<p className="margin-top-20" id="ADverb-CLAUSE"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -540,7 +540,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [when the MANager SIGnals] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con hoàn chỉnh được kết nối thông qua khối liên kết chỉ thời điểm "when" để chỉ định rõ mốc thời gian.</li>
 			
-					<li className="list-none">Chức năng: [when the MANager SIGnals] – [ADverb CLAUSE][TRẠNG CÂU] đang đứng vị trí sau để mô tả bối cảnh thời gian cho hành động bắt đầu của câu lớn.</li>
+					<li className="list-none">Chức năng: [when the MANager SIGnals] – [ADjunct][PHỤ] đang đứng vị trí sau để mô tả bối cảnh thời gian cho hành động bắt đầu của câu lớn.</li>
 			
 				</ul>
 
@@ -563,7 +563,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [you TOOK the corRECT STEPS] – [CONtact CLAUSE][CHẠM CÂU] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
 			
-					<li className="list-none">Chức năng: [you TOOK the corRECT STEPS] – [OBject CLAUSE][TÂN CÂU] được hình thành từ [NOUN CLAUSE][DANH CÂU] đang đứng vị trí [OBject][TÂN] để làm rõ sự việc chịu tác động trực tiếp từ [VERB HEAD][ĐỘNG LÕI] "beLIEVE".</li>
+					<li className="list-none">Chức năng: [you TOOK the corRECT STEPS] – [OBject CLAUSE][TÂN CÂU] đang đứng vị trí [OBject][TÂN] để làm rõ sự việc chịu tác động trực tiếp từ [VERB HEAD][ĐỘNG LÕI] "beLIEVE".</li>
 			
 				</ul>
 			
@@ -582,7 +582,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]</p>
+			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -591,7 +591,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [should they reQUEST asSIStance] – [CONtact CLAUSE][CHẠM CÂU] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng ý thái lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
 			
-					<li className="list-none">Chức năng: [should they reQUEST asSIStance] – [ADverb CLAUSE][TRẠNG CÂU] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
+					<li className="list-none">Chức năng: [should they reQUEST asSIStance] – [ADjunct][PHỤ] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
 			
 				</ul>
 			
@@ -671,7 +671,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">3. [ADverb PHRASE][TRẠNG CỤM]</h4>
+			<h4 className="margin-y-40">3. [ADjunct][PHỤ]</h4>
 			
 				<ul className="list-square">
 			
@@ -686,7 +686,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">[through {'{WHAT she disCOVered during reSEARCH}'}] – [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
+					<li className="list-none">[through {'{WHAT she disCOVered during reSEARCH}'}] – [<strong>ADjunct</strong>][<strong>PHỤ</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
 
 					<li className="list-none">Trong đó khối phụ {'{WHAT she disCOVered during reSEARCH}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong tiếp nhận mối quan hệ phương tiện từ [prepoSITion][GIỚI] "through".</li>
 
@@ -711,7 +711,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [be<strong>cause</strong> the deVICE overHEATed <strong>un</strong>der PRESsure] – [conJUNCtional CLAUSE][LIÊN CÂU] thể hiện một cấu trúc câu con hoàn chỉnh có khối liên kết chỉ nguyên nhân "be<strong>cause</strong>" dẫn dắt ở đầu.</li>
 
-					<li className="list-none">Chức năng: [be<strong>cause</strong> the deVICE overHEATed <strong>un</strong>der PRESsure] – [ADverb CLAUSE][TRẠNG CÂU] đang đứng vị trí ở cuối để bổ nghĩa cho toàn câu lớn bằng cách thiết lập nguyên nhân diễn ra sự việc.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> the deVICE overHEATed <strong>un</strong>der PRESsure] – [ADjunct][PHỤ] đang đứng vị trí ở cuối để bổ nghĩa cho toàn câu lớn bằng cách thiết lập nguyên nhân diễn ra sự việc.</li>
 			
 				</ul>
 
@@ -728,7 +728,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] thể hiện khối thông tin mở rộng bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to", kéo theo [NOUN BLOCK][DANH KHỐI] "the deVICE" và một dạng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "overHEATing" được bọc lót -ing đi sau để cụm hóa [ROOT VERB][GỐC ĐỘNG] "overHEAT".</li>
 
-					<li className="list-none">Chức năng: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [ADverb PHRASE][TRẠNG CỤM] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
+					<li className="list-none">Chức năng: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [ADjunct][PHỤ] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
 			
 				</ul>
 
@@ -745,7 +745,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [be<strong>cause</strong> of the HARDware FAIlure] – [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] thể hiện một khối thông tin không chứa hành động, bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of" điều phối trực tiếp một [NOUN BLOCK][DANH KHỐI] trung tâm đứng sau.</li>
 
-					<li className="list-none">Chức năng: [be<strong>cause</strong> of the HARDware FAIlure] – [ADverb PHRASE][TRẠNG CỤM] đang đứng vị trí ở cuối câu để làm mốc thiết lập bối cảnh nguyên nhân, bổ nghĩa cho toàn câu lớn.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> of the HARDware FAIlure] – [ADjunct][PHỤ] đang đứng vị trí ở cuối câu để làm mốc thiết lập bối cảnh nguyên nhân, bổ nghĩa cho toàn câu lớn.</li>
 			
 				</ul>
 			

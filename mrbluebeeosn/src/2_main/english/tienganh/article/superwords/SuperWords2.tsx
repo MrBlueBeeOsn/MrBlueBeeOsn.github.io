@@ -250,7 +250,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 			
 
-			<h4 className="margin-y-40">6. [ADverb PHRASE][TRẠNG CỤM]</h4>
+			<h4 className="margin-y-40">6. [ADjunct][PHỤ]</h4>
 
 			<p className="text-indent-whole"><strong>Ví dụ</strong>: [to earn money]</p>
 			
@@ -261,7 +261,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to earn money] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V chỉ mục đích.</li>
 			
-					<li className="list-none">Chức năng: [to earn money] - [ADverb PHRASE][TRẠNG CỤM] bổ sung mục đích cho works hard.</li>
+					<li className="list-none">Chức năng: [to earn money] - [ADjunct][PHỤ] bổ sung mục đích cho works hard.</li>
 			
 				</ul>
 			
@@ -275,7 +275,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to catch the bus] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
 			
-					<li className="list-none">Chức năng: [to catch the bus] - [ADverb PHRASE][TRẠNG CỤM] bổ sung mục đích cho left.</li>
+					<li className="list-none">Chức năng: [to catch the bus] - [ADjunct][PHỤ] bổ sung mục đích cho left.</li>
 			
 				</ul>
 			
@@ -350,7 +350,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">9. [ADverb CLAUSE][TRẠNG CÂU]</h4>
+			<h4 className="margin-y-40">9. [ADjunct][PHỤ]</h4>
 
 			<p className="text-indent-whole"><strong>Ví dụ</strong>: [Because it rained]</p>
 			
@@ -361,7 +361,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Because it rained] - [suBORdinate CLAUSE][PHỤ CÂU] có it và rained.</li>
 			
-					<li className="list-none">Chức năng: [Because it rained] - [ADverb CLAUSE][TRẠNG CÂU] chỉ nguyên nhân cho stayed home</li>
+					<li className="list-none">Chức năng: [Because it rained] - [ADjunct][PHỤ] chỉ nguyên nhân cho stayed home</li>
 			
 				</ul>
 			
@@ -375,7 +375,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [When you arrive] - [suBORdinate CLAUSE][PHỤ CÂU] có you và arrive.</li>
 			
-					<li className="list-none">Chức năng: [When you arrive] - [ADverb CLAUSE][TRẠNG CÂU] chỉ thời gian cho call me.</li>
+					<li className="list-none">Chức năng: [When you arrive] - [ADjunct][PHỤ] chỉ thời gian cho call me.</li>
 			
 				</ul>
 			
@@ -543,9 +543,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He drives [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [với sự cẩn thận lớn].</li>
 			
-					<li className="list-none">Hình thái: [with great care] - [ADverb PHRASE][TRẠNG CỤM] dạng giới từ cụm.</li>
+					<li className="list-none">Hình thái: [with great care] - [ADjunct][PHỤ] dạng giới từ cụm.</li>
 			
-					<li className="list-none">Chức năng: [with great care] - [ADverb PHRASE][TRẠNG CỤM] bổ sung cách thức cho drives.</li>
+					<li className="list-none">Chức năng: [with great care] - [ADjunct][PHỤ] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			
@@ -559,7 +559,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [as if he were taking a test] - [suBORdinate CLAUSE][PHỤ CÂU] có he và were taking.</li>
 			
-					<li className="list-none">Chức năng: [as if he were taking a test] - [ADverb CLAUSE][TRẠNG CÂU] bổ sung cách thức cho drives.</li>
+					<li className="list-none">Chức năng: [as if he were taking a test] - [ADjunct][PHỤ] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			
