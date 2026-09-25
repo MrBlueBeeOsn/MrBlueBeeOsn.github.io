@@ -30,43 +30,43 @@ export default function SOMEtimes2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GO-for-in">GO for ... in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#RAINS-in">RAINS in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GO-to-on">GO to ... on</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#PLAY-in">PLAY ... in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#NOT-but-OFten-VISits">NOT ... but OFten VISits</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LIKES-NOT">LIKES ... NOT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DRINK-in">DRINK ... in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#READ-at">READ ... at</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GO-on">GO ... on</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FEEL-STRESSED">FEEL STRESSED</HashLink>
           </span> &nbsp;
 
         </p>
@@ -85,7 +85,7 @@ export default function SOMEtimes2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              SOMEtimes \<Link to="/pronunciation/5-vowel-system">SÔME tīmes</Link>\ /ˈsʌmtaɪmz/ ⬤• (TWO SYLlables)
+              SOMEtimes \<Link to="/pronunciation/5-vowel-system">SƠME tīmes</Link>\ /ˈsʌmtaɪmz/ ⬤• (TWO SYLlables)
               
             </span>
               
@@ -103,35 +103,35 @@ export default function SOMEtimes2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">I SOMEtimes GO for a WALK in the PARK.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi đi dạo trong công viên.</li>
+        <li value="1" id="GO-for-in">I SOMEtimes [GO for] a WALK [in] the PARK.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi [đi] dạo [trong] công viên.</li>
 
-        <li value="2" id="">it SOMEtimes RAINS in the SUMmer.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng trời mưa vào mùa hè.</li>
+        <li value="2" id="RAINS-in">it SOMEtimes [RAINS in] the SUMmer.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng trời [mưa vào] mùa hè.</li>
 
-        <li value="3" id="">we SOMEtimes GO to the MOvies on WEEKends.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng chúng ta đi xem phim vào cuối tuần.</li>
+        <li value="3" id="GO-to-on">we SOMEtimes [GO to] the MOvies [on] WEEKends.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng chúng ta [đi] xem phim [vào] cuối tuần.</li>
 
-        <li value="4" id="">they SOMEtimes PLAY SOCcer in the YARD.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng họ chơi bóng đá trong sân.</li>
+        <li value="4" id="PLAY-in">they SOMEtimes [PLAY] SOCcer [in] the YARD.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng họ [chơi] bóng đá [trong] sân.</li>
 
-        <li value="5" id="">he does NOT SOMEtimes but OFten VISits his GRANDparents.</li>
-        <li className="list-none margin-bottom-20">Anh ấy không phải thỉnh thoảng mà thường xuyên đến thăm ông bà.</li>
+        <li value="5" id="NOT-but-OFten-VISits">he does [NOT] SOMEtimes [but OFten VISits] his GRANDparents.</li>
+        <li className="list-none margin-bottom-20">Anh ấy [không phải] thỉnh thoảng [mà thường xuyên đến thăm] ông bà.</li>
 
-        <li value="6" id="">she SOMEtimes LIKES COFfee and SOMEtimes NOT.</li>
-        <li className="list-none margin-bottom-20">Cô ấy lúc thích cà phê lúc không.</li>
+        <li value="6" id="LIKES-NOT">she SOMEtimes [LIKES] COFfee and SOMEtimes [NOT].</li>
+        <li className="list-none margin-bottom-20">Cô ấy lúc [thích] cà phê lúc [không].</li>
 
-        <li value="7" id="">I SOMEtimes DRINK TEA in the MORNing.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi uống trà vào buổi sáng.</li>
+        <li value="7" id="DRINK-in">I SOMEtimes [DRINK] TEA [in] the MORNing.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi [uống] trà [vào] buổi sáng.</li>
 
-        <li value="8" id="">I SOMEtimes READ BOOKS at NIGHT.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi đọc sách vào ban đêm.</li>
+        <li value="8" id="READ-at">I SOMEtimes [READ] BOOKS [at] NIGHT.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi [đọc] sách [vào] ban đêm.</li>
 
-        <li value="9" id="">we SOMEtimes GO CAMPing on WEEKends.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng chúng tôi đi cắm trại vào cuối tuần.</li>
+        <li value="9" id="GO-on">we SOMEtimes [GO] CAMPing [on] WEEKends.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng chúng tôi [đi] cắm trại [vào] cuối tuần.</li>
 
-        <li value="10" id="">when I SOMEtimes FEEL STRESSED, I LISten to MUsic.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng khi tôi cảm thấy căng thẳng, tôi nghe nhạc.</li>
+        <li value="10" id="FEEL-STRESSED">when I SOMEtimes [FEEL STRESSED], I LISten to MUsic.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng khi tôi [cảm thấy căng thẳng], tôi nghe nhạc.</li>
 
       </ol>
 

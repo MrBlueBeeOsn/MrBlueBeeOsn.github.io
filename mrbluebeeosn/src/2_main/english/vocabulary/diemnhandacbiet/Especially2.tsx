@@ -85,7 +85,7 @@ export default function esPECially2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              esPECIALly \<Link to="/pronunciation/5-vowel-system">es PEC ia̛l ly</Link>\ /ɪˈspɛʃəli/ •⬤• (THREE SYLlables)
+              esPECially \<Link to="/pronunciation/5-vowel-system">es PEC ia̛l ly</Link>\ /ɪˈspɛʃəli/ •⬤•• (FOUR SYLlables)
               
             </span>
               
