@@ -30,15 +30,15 @@ export default function LAzily2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#stretchED-OUT-on">stretchED OUT on</HashLink>
+            <HashLink smooth to="#stretchED-OUT-on-the">stretchED OUT on the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#WANdered-through">WANdered through</HashLink>
+            <HashLink smooth to="#WANdered-through-the">WANdered through the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#FLIPPED-through">FLIPPED through</HashLink>
+            <HashLink smooth to="#FLIPPED-through-the">FLIPPED through the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
@@ -46,27 +46,27 @@ export default function LAzily2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#LOUNGED-by">LOUNGED by</HashLink>
+            <HashLink smooth to="#LOUNGED-by-the">LOUNGED by the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#READ">READ</HashLink>
+            <HashLink smooth to="#READ-the">READ the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#WATCHED">WATCHED</HashLink>
+            <HashLink smooth to="#WATCHED-the">WATCHED the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#SPOKE-into">SPOKE <strong>in</strong>to</HashLink>
+            <HashLink smooth to="#SPOKE-into-the">SPOKE <strong>in</strong>to the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#WALKED-across">WALKED a<strong>cross</strong></HashLink>
+            <HashLink smooth to="#WALKED-across-the">WALKED a<strong>cross</strong> the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#SUNbathed-on">SUNbathed on</HashLink>
+            <HashLink smooth to="#SUNbathed-on-the">SUNbathed on the</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,34 +103,34 @@ export default function LAzily2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="stretchED-OUT-on"><strong>af</strong>ter a LONG DAY, he LAzily [stretchED OUT on] the COUCH.</li>
+        <li value="1" id="stretchED-OUT-on-the"><strong>af</strong>ter a LONG DAY, he LAzily [stretchED OUT on the] COUCH.</li>
         <li className="list-none margin-bottom-20">Sau một ngày dài, anh ấy lười biếng [nằm dài ra] ghế sofa.</li>
 
-        <li value="2" id="WANdered-through">she LAzily [WANdered through] the PARK, enJOYing the SUNshine.</li>
+        <li value="2" id="WANdered-through-the">she LAzily [WANdered through the] PARK, enJOYing the SUNshine.</li>
         <li className="list-none margin-bottom-20">Cô ấy lười biếng [đi lang thang trong] công viên, tận hưởng ánh nắng mặt trời.</li>
 
-        <li value="3" id="FLIPPED-through">he LAzily [FLIPPED through] the CHANnels on TV.</li>
+        <li value="3" id="FLIPPED-through-the">he LAzily [FLIPPED through the] CHANnels on TV.</li>
         <li className="list-none margin-bottom-20">Anh ấy lười biếng [lật qua lật lại] các kênh trên TV.</li>
 
         <li value="4" id="ATE">the CAT LAzily [ATE] its FOOD.</li>
         <li className="list-none margin-bottom-20">Con mèo lười biếng [ăn] thức ăn của nó.</li>
 
-        <li value="5" id="LOUNGED-by">she LAzily [LOUNGED by] the POOL.</li>
+        <li value="5" id="LOUNGED-by-the">she LAzily [LOUNGED by the] POOL.</li>
         <li className="list-none margin-bottom-20">Cô ấy lười biếng [nằm dài bên] hồ bơi.</li>
 
-        <li value="6" id="READ">he LAzily [READ] the NEWSpaper.</li>
+        <li value="6" id="READ-the">he LAzily [READ the] NEWSpaper.</li>
         <li className="list-none margin-bottom-20">Anh ấy lười biếng [đọc] báo.</li>
 
-        <li value="7" id="WATCHED">they LAzily [WATCHED] the CLOUDS DRIFT BY.</li>
+        <li value="7" id="WATCHED-the">they LAzily [WATCHED the] CLOUDS DRIFT BY.</li>
         <li className="list-none margin-bottom-20">Họ lười biếng [ngắm nhìn] những đám mây trôi.</li>
 
-        <li value="8" id="SPOKE-into">she LAzily [SPOKE <strong>in</strong>to] the PHONE.</li>
+        <li value="8" id="SPOKE-into-the">she LAzily [SPOKE <strong>in</strong>to the] PHONE.</li>
         <li className="list-none margin-bottom-20">Cô ấy lười biếng [nói vào] điện thoại.</li>
 
-        <li value="9" id="WALKED-across">the DOG LAzily [WALKED a<strong>cross</strong>] the YARD.</li>
+        <li value="9" id="WALKED-across-the">the DOG LAzily [WALKED a<strong>cross</strong> the] YARD.</li>
         <li className="list-none margin-bottom-20">Con chó lười biếng [đi qua] sân.</li>
 
-        <li value="10" id="SUNbathed-on">she LAzily [SUNbathed on] the BEACH.</li>
+        <li value="10" id="SUNbathed-on-the">she LAzily [SUNbathed on the] BEACH.</li>
         <li className="list-none margin-bottom-20">Cô ấy lười biếng [tắm nắng trên] bãi biển.</li>
 
       </ol>

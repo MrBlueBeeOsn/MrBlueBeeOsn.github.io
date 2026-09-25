@@ -58,11 +58,11 @@ export default function BAsically2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#underSTOOD">underSTOOD</HashLink>
+            <HashLink smooth to="#underSTOOD-the">underSTOOD the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#the-SAME-as">the SAME as</HashLink>
+            <HashLink smooth to="#the-SAME-as-the">the SAME as the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -124,10 +124,10 @@ export default function BAsically2(): React.JSX.Element {
         <li value="7" id="the-iDEa-is">BAsically [the iDEa is] to SIMplify the PROCess.</li>
         <li className="list-none margin-bottom-20">Về cơ bản, [ý tưởng là] đơn giản hóa quy trình.</li>
 
-        <li value="8" id="underSTOOD">i THINK <strong>ever</strong>yone BAsically [underSTOOD] the inSTRUCtions.</li>
+        <li value="8" id="underSTOOD-the">i THINK <strong>ever</strong>yone BAsically [underSTOOD the] inSTRUCtions.</li>
         <li className="list-none margin-bottom-20">Tôi nghĩ mọi người về cơ bản là [đã hiểu] các hướng dẫn.</li>
 
-        <li value="9" id="the-SAME-as">THIS NEW MOdel is BAsically [the SAME as] the OLD one.</li>
+        <li value="9" id="the-SAME-as-the">THIS NEW MOdel is BAsically [the SAME as the] OLD one.</li>
         <li className="list-none margin-bottom-20">Mô hình mới này về cơ bản là [giống như] mô hình cũ.</li>
 
         <li value="10" id="SPEAKing">BAsically [SPEAKing], we NEED MORE TIME to FInish the PROject.</li>

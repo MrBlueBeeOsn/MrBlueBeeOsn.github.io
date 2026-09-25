@@ -30,7 +30,7 @@ export default function INstantly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#RECognizable-around">RECognizable a<strong>round</strong></HashLink>
+            <HashLink smooth to="#RECognizable-around-the">RECognizable a<strong>round</strong> the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -103,7 +103,7 @@ export default function INstantly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="RECognizable-around">the EIffel TOWer is INstantly [RECognizable a<strong>round</strong>] the WORLD.</li>
+        <li value="1" id="RECognizable-around-the">the EIffel TOWer is INstantly [RECognizable a<strong>round</strong> the] WORLD.</li>
         <li className="list-none margin-bottom-20">Tháp Eiffel [dễ nhận biết] ngay lập tức [trên] toàn thế giới.</li>
 
         <li value="2" id="adDICTive">THIS GAME is so much FUN, it's INstantly [adDICTive].</li>

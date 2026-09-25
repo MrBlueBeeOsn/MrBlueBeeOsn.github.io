@@ -34,7 +34,7 @@ export default function SLOWly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#FAded-into">FAded <strong>in</strong>to</HashLink>
+            <HashLink smooth to="#FAded-into-the">FAded <strong>in</strong>to the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -50,7 +50,7 @@ export default function SLOWly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#MOving-across">MOving across</HashLink>
+            <HashLink smooth to="#MOving-across-the">MOving a<strong>cross</strong> the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
@@ -58,15 +58,15 @@ export default function SLOWly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#SINKing-into">SINKing <strong>in</strong>to</HashLink>
+            <HashLink smooth to="#SINKing-into-the">SINKing <strong>in</strong>to the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#apPROACHing">apPROACHing</HashLink>
+            <HashLink smooth to="#apPROACHing-the">apPROACHing the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#REalizing">REalizing</HashLink>
+            <HashLink smooth to="#REalizing-the">REalizing the</HashLink>
           </span> &nbsp;
 
         </p>
@@ -106,7 +106,7 @@ export default function SLOWly2(): React.JSX.Element {
         <li value="1" id="but-SUREly-MAking-in">she is SLOWly [but SUREly MAking] PROgress [in] her STUDies.</li>
         <li className="list-none margin-bottom-20">Cô ấy đang tiến bộ [trong] học tập [một cách chậm mà chắc].</li>
 
-        <li value="2" id="FAded-into">the SOUND of the MUsic SLOWly [FAded <strong>in</strong>to] the NIGHT.</li>
+        <li value="2" id="FAded-into-the">the SOUND of the MUsic SLOWly [FAded <strong>in</strong>to the] NIGHT.</li>
         <li className="list-none margin-bottom-20">Âm thanh của nhạc dần dần [mờ nhạt vào] đêm.</li>
 
         <li value="3" id="reCOVering-from">he is SLOWly [reCOVering from] his ILLness.</li>
@@ -118,19 +118,19 @@ export default function SLOWly2(): React.JSX.Element {
         <li value="5" id="CHAnging-due-to">the CLImate is SLOWly [CHAnging due to] GLObal WARMing.</li>
         <li className="list-none margin-bottom-20">Khí hậu đang dần dần [thay đổi do] biến đổi khí hậu toàn cầu.</li>
 
-        <li value="6" id="MOving-across">the SNAIL was SLOWly [MOving a<strong>cross</strong>] the LEAF.</li>
+        <li value="6" id="MOving-across-the">the SNAIL was SLOWly [MOving a<strong>cross</strong> the] LEAF.</li>
         <li className="list-none margin-bottom-20">Con ốc sên [di chuyển] chậm chạp [trên] lá.</li>
 
         <li value="7" id="DYing">the OLD TREE was SLOWly [DYing].</li>
         <li className="list-none margin-bottom-20">Cây già đang dần dần [chết].</li>
 
-        <li value="8" id="SINKing-into">the SHIP was SLOWly [SINKing <strong>in</strong>to] the OCean.</li>
+        <li value="8" id="SINKing-into-the">the SHIP was SLOWly [SINKing <strong>in</strong>to the] OCean.</li>
         <li className="list-none margin-bottom-20">Con tàu đang dần dần [chìm xuống] đại dương.</li>
 
-        <li value="9" id="apPROACHing">the STORM was SLOWly [apPROACHing] the COAST.</li>
+        <li value="9" id="apPROACHing">the STORM was SLOWly [apPROACHing the] COAST.</li>
         <li className="list-none margin-bottom-20">Cơn bão đang dần dần [tiến lại gần] bờ biển.</li>
 
-        <li value="10" id="REalizing">she was SLOWly [REalizing] the TRUTH.</li>
+        <li value="10" id="REalizing-the">she was SLOWly [REalizing the] TRUTH.</li>
         <li className="list-none margin-bottom-20">Cô ấy đang dần dần [nhận ra] sự thật.</li>
 
       </ol>

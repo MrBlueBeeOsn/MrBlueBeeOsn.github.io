@@ -30,7 +30,7 @@ export default function SUDdenly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#STOPPED-in">STOPPED in</HashLink>
+            <HashLink smooth to="#STOPPED-in-the">STOPPED in the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -38,7 +38,7 @@ export default function SUDdenly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#apPEARED-in">apPEARED in</HashLink>
+            <HashLink smooth to="#apPEARED-in-the">apPEARED in the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
@@ -54,7 +54,7 @@ export default function SUDdenly2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#disapPEARED-in">disapPEARED in</HashLink>
+            <HashLink smooth to="#disapPEARED-in-a">disapPEARED in a</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -103,13 +103,13 @@ export default function SUDdenly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="STOPPED-in">the CAR SUDdenly [STOPPED in] the MIDdle of the ROAD.</li>
+        <li value="1" id="STOPPED-in-the">the CAR SUDdenly [STOPPED in the] MIDdle of the ROAD.</li>
         <li className="list-none margin-bottom-20">Chiếc xe đột ngột [dừng lại] giữa đường.</li>
 
         <li value="2" id="REalized-that">i SUDdenly [REalized that] i had forGOTten my KEYS.</li>
         <li className="list-none margin-bottom-20">Tôi đột nhiên [nhận ra rằng] mình đã quên chìa khóa.</li>
 
-        <li value="3" id="apPEARED-in">a GHOST SUDdenly [apPEARED in] the MIRror.</li>
+        <li value="3" id="apPEARED-in-the">a GHOST SUDdenly [apPEARED in the] MIRror.</li>
         <li className="list-none margin-bottom-20">Một bóng ma đột nhiên [xuất hiện trong] gương.</li>
 
         <li value="4" id="CHANGED">the WEAther SUDdenly [CHANGED] and it STARted to RAIN.</li>
@@ -121,8 +121,8 @@ export default function SUDdenly2(): React.JSX.Element {
         <li value="6" id="reMEMbered">the SUDdenly [reMEMbered] where i had LEFT my PHONE.</li>
         <li className="list-none margin-bottom-20">Tôi đột nhiên [nhớ ra] mình đã để điện thoại ở đâu.</li>
 
-        <li value="7" id="disapPEARED-in">the maGIcian SUDdenly [disapPEARED in] a PUFF of SMOKE.</li>
-        <li className="list-none margin-bottom-20">Nhà ảo thuật đột nhiên [biến mất trong] một làn khói.</li>
+        <li value="7" id="disapPEARED-in-a">the maGIcian SUDdenly [disapPEARED in a] PUFF of SMOKE.</li>
+        <li className="list-none margin-bottom-20">Nhà ảo thuật đột nhiên [biến mất trong một] làn khói.</li>
 
         <li value="8" id="beCAME">the sky SUDdenly [beCAME] DARK and STORmy.</li>
         <li className="list-none margin-bottom-20">Bầu trời đột nhiên [trở nên] tối tăm và bão tố.</li>
