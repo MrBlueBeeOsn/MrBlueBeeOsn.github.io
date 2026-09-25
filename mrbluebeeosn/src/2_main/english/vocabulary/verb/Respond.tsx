@@ -45,7 +45,7 @@ export default function reSPOND(): React.JSX.Element {
             </span> &nbsp;
 
             <span className="highlight-255-padding-0-4 text-border">
-              <HashLink smooth to="#ADjective-PHRASE">ADjective PHRASE</HashLink>
+              <HashLink smooth to="#SUBject-PHRASE-2">SUBject PHRASE 2</HashLink>
             </span> &nbsp;
 
             <span className="highlight-255-padding-0-4 text-border">
@@ -352,7 +352,7 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole" id="ADjective-PHRASE"><strong>2.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="SUBject-PHRASE-2"><strong>2.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 
       
       <p className="margin-top-20 text-indent-whole">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB PHRASE</strong>][<strong>HIỆN TIẾP ĐỘNG CỤM</strong>] <strong>đang diễn ra</strong>, <strong>chủ động</strong>:</p>
@@ -598,18 +598,18 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 10:</p>
       
         <ul className="list-square">
       
-          <li>the SERver [which reSPONDS to USer reQUESTS] was REcently upGRADed.</li>
-          <li className="margin-bottom-20 list-none">Máy chủ [cái mà phản hồi các yêu cầu của người dùng] gần đây đã được nâng cấp.</li>
+          <li>[the SERver {'{which reSPONDS to USer reQUESTS}'}] was REcently upGRADed.</li>
+          <li className="margin-bottom-20 list-none">[Máy chủ {'{cái mà phản hồi các yêu cầu của người dùng}'}] gần đây đã được nâng cấp.</li>
       
-          <li className="list-none">Hình thái: [which reSPONDS to USer reQUESTS] - [RELative CLAUSE][QUAN CÂU] chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại.</li>
+          <li className="list-none">Hình thái: {'{which reSPONDS to USer reQUESTS}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [SUBject HEAD][CHỦ LÕI] "SERver".</li>
       
-          <li className="list-none">Chức năng: [which reSPONDS to USer reQUESTS] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [SUBject HEAD][CHỦ LÕI] "SERver".</li>
+          <li className="list-none">Chức năng: [the SERver {'{which reSPONDS to USer reQUESTS}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -649,18 +649,18 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>4.2.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>4.2.2</strong> <strong>Hình thành chức năng</strong> [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11b:</p>
       
         <ul className="list-square">
       
-          <li>the Email [she reSPONDed to] conTAINED CRUcial inforMAtion.</li>
-          <li className="margin-bottom-20 list-none">Email [mà cô ấy đã phản hồi] chứa đựng thông tin quan trọng.</li>
+          <li>[the Email {'{she reSPONDed to}'}] conTAINED CRUcial inforMAtion.</li>
+          <li className="margin-bottom-20 list-none">[Email {'{mà cô ấy đã phản hồi}'}] chứa đựng thông tin quan trọng.</li>
       
-          <li className="list-none">Hình thái: [she reSPONDed to] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn thành phần [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "she" và cụm [PAST VERB][ĐÃ ĐỘNG] "reSPONDed to".</li>
+          <li className="list-none">Hình thái: {'{she reSPONDed to}'} - {'{ZEro RELative CLAUSE}'}{'{KHUYẾT QUAN CÂU}'} đã ẩn thành phần [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "she" và cụm [PAST VERB][ĐÃ ĐỘNG] "reSPONDed to". Đóng vai trò như bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the Email" để làm rõ đặc điểm cho đối tượng này.</li>
       
-          <li className="list-none">Chức năng: [she reSPONDed to] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the Email" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none">Chức năng: [the Email {'{she reSPONDed to}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -981,7 +981,7 @@ export default function reSPOND(): React.JSX.Element {
           <li>the FIRM HIred a SERvice [which reSPONDS to SYStem ISsues autoMATically].</li>
           <li className="margin-bottom-20 list-none">Công ty đã thuê một dịch vụ [cái mà phản hồi các sự cố hệ thống một cách tự động].</li>
       
-          <li className="list-none">Hình thái gốc: [which reSPONDS to SYStem ISsues autoMATically] - [RELative CLAUSE][QUAN CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] "which" và cụm hành động phía sau.</li>
+          <li className="list-none">Hình thái gốc: [which reSPONDS to SYStem ISsues autoMATically] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] "which" và cụm hành động phía sau.</li>
       
           <li className="list-none">Chức năng: [which reSPONDS to SYStem ISsues autoMATically] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [OBject HEAD][TÂN LÕI] "SERvice".</li>
       

@@ -108,7 +108,7 @@ export default function (): React.JSX.Element {
 				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [who AUdits our BOOKS every YEAR] - [RELative CLAUSE][QUAN CÂU] bắt đầu bằng thành phần liên kết \"who\", có chứa hành động \"AUdits\" xác định theo thời hiện tại. \n\n Chức năng: [who AUdits our BOOKS every YEAR] - [ADjective CLAUSE][TÍNH CÂU] đứng sau \"the acCOUNTant\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [who AUdits our BOOKS every YEAR] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} bắt đầu bằng thành phần liên kết \"who\", có chứa hành động \"AUdits\" xác định theo thời hiện tại. \n\n Chức năng: [who AUdits our BOOKS every YEAR] - [ADjective CLAUSE][TÍNH CÂU] đứng sau \"the acCOUNTant\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 10,

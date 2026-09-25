@@ -47,7 +47,7 @@ export default function CLEAR(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective-PHRASE">ADjective PHRASE</HashLink>
+            <HashLink smooth to="#SUBject-PHRASE-2">SUBject PHRASE 2</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -322,7 +322,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole" id="ADjective-PHRASE"><strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="SUBject-PHRASE-2"><strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">[<strong>TÍNH CỤM</strong>] <strong>dạng sắp xảy ra chủ động</strong> -<strong>to V</strong>:</p>
 
@@ -559,18 +559,18 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE"><strong>Hình thành chức năng</strong> [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE"><strong>Hình thành chức năng</strong> [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 10:</p>
       
         <ul className="list-square">
       
-          <li>the engiNEER [who CLEARED the ERror CODES] FIXED the SERver.</li>
-          <li className="margin-bottom-20 list-none">Người kỹ sư [người mà đã xóa các mã lỗi] đã sửa chữa máy chủ.</li>
+          <li>[the engiNEER {'{who CLEARED the ERror CODES}'}] FIXED the SERver.</li>
+          <li className="margin-bottom-20 list-none">[Người kỹ sư {'{người mà đã xóa các mã lỗi}'}] đã sửa chữa máy chủ.</li>
       
-          <li className="list-none">Hình thái: [who CLEARED the ERror CODES] - [RELative CLAUSE][QUAN CÂU] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân [PAST VERB][ĐÃ ĐỘNG] "CLEARED" xử lý bối cảnh thuộc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: {'{who CLEARED the ERror CODES}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} chứa mã liên kết chỉ người đứng đầu, mang hạt nhân [PAST VERB][ĐÃ ĐỘNG] "CLEARED" xử lý bối cảnh thuộc trục thời quá khứ. Hoạt động như một MODule lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng [SUBject HEAD][CHỦ LÕI] "the engiNEER".</li>
       
-          <li className="list-none">Chức năng: [who CLEARED the ERror CODES] - [ADjective CLAUSE][TÍNH CÂU] hoạt động như một MODule lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng [SUBject HEAD][CHỦ LÕI] "the engiNEER".</li>
+          <li className="list-none">Chức năng: [the engiNEER {'{who CLEARED the ERror CODES}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -613,18 +613,18 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11b:</p>
       
         <ul className="list-square">
       
-          <li>the DESK [the emPLOYee CLEARED] LOOKED VERy NEAT.</li>
-          <li className="margin-bottom-20 list-none">Chiếc bàn làm việc [mà người nhân viên đã dọn dẹp] trông rất gọn gàng.</li>
+          <li>[the DESK {'{the emPLOYee CLEARED}'}] LOOKED VERy NEAT.</li>
+          <li className="margin-bottom-20 list-none">[Chiếc bàn làm việc {'{mà người nhân viên đã dọn dẹp}'}] trông rất gọn gàng.</li>
       
-          <li className="list-none">Hình thái: [the emPLOYee CLEARED] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [SUBject HEAD][CHỦ LÕI] "the emPLOYee" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED".</li>
+          <li className="list-none">Hình thái: {'{the emPLOYee CLEARED}'} - {'{ZEro RELative CLAUSE}'}{'{KHUYẾT QUAN CÂU}'} đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [SUBject HEAD][CHỦ LÕI] "the emPLOYee" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED". Đóng vai trò như bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the DESK" để làm rõ đặc điểm cho đối tượng này.</li>
       
-          <li className="list-none">Chức năng: [the emPLOYee CLEARED] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò như bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the DESK" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none">Chức năng: [the DESK {'{the emPLOYee CLEARED}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -849,18 +849,18 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-y-30 text-indent-whole">Case 3: Kỹ thuật hạ cấp từ [LIÊN CÂU] về [TÍNH LÕI]</h5>
+      <h5 className="margin-y-30 text-indent-whole">Case 3: Kỹ thuật hạ cấp từ [CLAUSE] về [HEAD]</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>CLAUSE</strong> → <strong>HEAD</strong>]</p>
       
         <ul className="list-square">
       
-          <li>i LIKE an appliCAtion [which CLEARS STORage SMOOTHly].</li>
+          <li>i LIKE [an appliCAtion {'{which CLEARS STORage SMOOTHly}'}].</li>
           <li className="margin-bottom-20 list-none">Tôi thích một ứng dụng [cái mà dọn dẹp dung lượng một cách mượt mà].</li>
       
-          <li className="list-none">Hình thái gốc: [which CLEARS STORage SMOOTHly] - [RELative CLAUSE][QUAN CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "CLEARS".</li>
+          <li className="list-none">Hình thái gốc: {'{which CLEARS STORage SMOOTHly}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "CLEARS". Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [OBject HEAD][TÂN LÕI] "appliCAtion".</li>
       
-          <li className="list-none">Chức năng: [which CLEARS STORage SMOOTHly] - [ADjective CLAUSE][TÍNH CÂU] đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [OBject HEAD][TÂN LÕI] "appliCAtion".</li>
+          <li className="list-none">Chức năng: [an appliCAtion {'{which CLEARS STORage SMOOTHly}'}] - [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -869,12 +869,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>i LIKE a [CLEAR] SYStem LAYout.</li>
+          <li>i LIKE [a {'{CLEAR}'} SYStem LAYout].</li>
           <li className="margin-bottom-20 list-none">Tôi thích một bố cục hệ thống [rõ ràng].</li>
       
-          <li className="list-none">Hình thái mới: [CLEAR] - [ROOT ADjective][GỐC TÍNH] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần ADjective đơn duy nhất.</li>
+          <li className="list-none">Hình thái mới: {'{CLEAR}'}- [ADjective HEAD][TÍNH LÕI] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần ADjective đơn duy nhất. Thiết lập vị trí ngay trước đối tượng [NOUN BLOCK][DANH KHỐI] "SYStem LAYout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
-          <li className="list-none">Chức năng mới: [CLEAR] - [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng [NOUN BLOCK][DANH KHỐI] "SYStem LAYout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Chức năng mới: [a {'{CLEAR}'} SYStem LAYout] - [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
 
