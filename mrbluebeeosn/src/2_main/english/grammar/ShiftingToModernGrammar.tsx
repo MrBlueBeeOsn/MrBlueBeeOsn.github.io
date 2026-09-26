@@ -64,7 +64,7 @@ export default function ShiftingToModernGrammar(): React.JSX.Element {
 
           <li>Traditional label: Conjunction.</li>
       
-          <li>Modern label: Preposition.</li>
+          <li>Modern label: <Link to="/grammar/rethinking-the-preposition-phrase">Preposition</Link>.</li>
       
           <li>Structural view: Takes a whole sentence as its complement.</li>
       
@@ -79,7 +79,7 @@ export default function ShiftingToModernGrammar(): React.JSX.Element {
 
           <li>Traditional label: Preposition.</li>
       
-          <li>Modern label: Preposition.</li>
+          <li>Modern label: <Link to="/grammar/rethinking-the-preposition-phrase">Preposition</Link>.</li>
       
           <li>Structural view: Takes a noun or a whole sentence as its complement.</li>
       
