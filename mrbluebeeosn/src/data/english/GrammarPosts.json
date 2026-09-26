@@ -125,6 +125,15 @@
       "content": "While traditional textbooks break clauses down into Noun, Adjective, and Adverb clauses, Cambridge 2002 and Oxford Modern English Grammar completely discard this old trio.",
       "slug": "grammar/the-3-types-of-clauses",
       "date": "2026-09-26"
+    },
+    { 
+      "id": "QuestionsToContentClauses",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Questions to Content Clauses",
+      "content": "The Origin of Content Clauses, Indirect Questions, and Relative Clauses",
+      "slug": "grammar/questions-to-content-clauses",
+      "date": "2026-09-26"
     }
   ]
 }

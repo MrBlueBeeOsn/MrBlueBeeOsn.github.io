@@ -123,6 +123,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const The6ElementFormula = lazy(() => import('@/2_main/english/grammar/The6ElementFormula'));
 	const RethinkingThePrepositionPhrase = lazy(() => import('@/2_main/english/grammar/RethinkingThePrepositionPhrase'));
 	const ShiftingToModernGrammar = lazy(() => import('@/2_main/english/grammar/ShiftingToModernGrammar'));
+	const QuestionsToContentClauses = lazy(() => import('@/2_main/english/grammar/QuestionsToContentClauses'));
 
 
 	// Quiz
@@ -758,6 +759,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/the-6-element-formula" element={<The6ElementFormula />} />
 					<Route path="/grammar/rethinking-the-preposition-phrase" element={<RethinkingThePrepositionPhrase />} />
 					<Route path="/grammar/shifting-to-modern-grammar" element={<ShiftingToModernGrammar />} />
+					<Route path="/grammar/questions-to-content-clauses" element={<QuestionsToContentClauses />} />
 
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />

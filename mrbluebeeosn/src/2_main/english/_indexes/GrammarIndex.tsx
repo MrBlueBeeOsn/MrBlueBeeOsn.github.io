@@ -123,6 +123,12 @@ export default function GrammarIndex(): React.JSX.Element {
             
             <li>
               <div className="li-content">
+                <Link to="/grammar/questions-to-content-clauses">Questions to Content Clauses</Link>
+              </div>
+            </li>
+            
+            <li>
+              <div className="li-content">
                 <Link to="/grammar/the-6-element-formula">The 6-Element Formula</Link>
               </div>
             </li>
