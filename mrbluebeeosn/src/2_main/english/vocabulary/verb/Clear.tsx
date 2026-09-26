@@ -63,11 +63,11 @@ export default function CLEAR(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+            <HashLink smooth to="#RELative-CLAUSE">RELative CLAUSE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADverb-CLAUSE">ADverb CLAUSE</HashLink>
+            <HashLink smooth to="#ADjunct">ADjunct</HashLink>
           </span> &nbsp;
 
         </p>
@@ -559,7 +559,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE"><strong>Hình thành chức năng</strong> [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="RELative-CLAUSE"><strong>Hình thành chức năng</strong> [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 10:</p>
       
@@ -575,7 +575,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADverb-CLAUSE"><strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="ADjunct"><strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11:</p>
       

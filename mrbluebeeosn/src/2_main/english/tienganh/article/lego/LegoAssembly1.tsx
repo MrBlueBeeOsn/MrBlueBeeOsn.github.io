@@ -85,7 +85,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+						<HashLink smooth to="#RELative-CLAUSE">RELative CLAUSE</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -100,7 +100,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADverb-CLAUSE">ADverb CLAUSE</HashLink>
+						<HashLink smooth to="#ADjunct">ADjunct</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -602,7 +602,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE">[<strong>OBject PHRASE</strong>][<strong>TÂN CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="RELative-CLAUSE">[<strong>OBject PHRASE</strong>][<strong>TÂN CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -716,7 +716,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 					
-			<p className="margin-top-20 text-indent-whole" id="ADverb-CLAUSE">[<strong>ADjunct</strong>][<strong>PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>suBORdinate CLAUSE</strong>][<strong>PHỤ CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjunct">[<strong>ADjunct</strong>][<strong>PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>suBORdinate CLAUSE</strong>][<strong>PHỤ CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			

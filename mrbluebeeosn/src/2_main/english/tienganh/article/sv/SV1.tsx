@@ -90,11 +90,11 @@ export default function SV1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+						<HashLink smooth to="#RELative-CLAUSE">RELative CLAUSE</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADverb-CLAUSE">ADverb CLAUSE</HashLink>
+						<HashLink smooth to="#ADjunct">ADjunct</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -468,19 +468,19 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 
 			
-				<ul className="list-square" id="ADjective-CLAUSE">
+				<ul className="list-square" id="RELative-CLAUSE">
 			
-					<li>the LAPtop [which i BOUGHT LAST WEEK] WORKS PERfectly.</li>
-					<li className="margin-bottom-20 list-none">Chiếc máy tính xách tay [mà tôi mua tuần trước] hoạt động hoàn hảo.</li>
+					<li>[the LAPtop {'{which i BOUGHT LAST WEEK}'}] WORKS PERfectly.</li>
+					<li className="margin-bottom-20 list-none">[Chiếc máy tính xách tay {'{mà tôi mua tuần trước}'}] hoạt động hoàn hảo.</li>
 			
-					<li className="list-none">Hình thái: [which i BOUGHT LAST WEEK] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} định hình khối hành động phức có chứa hệ trục [SUBject PRONOUN][CHỦ ĐẠI] "i" và [PAST VERB][ĐÃ ĐỘNG] "BOUGHT", bắt đầu bằng [conJUNCtion][LIÊN] "which".</li>
+					<li className="list-none">Hình thái: {'{which i BOUGHT LAST WEEK}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} định hình khối hành động phức có chứa hệ trục [SUBject PRONOUN][CHỦ ĐẠI] "i" và [PAST VERB][ĐÃ ĐỘNG] "BOUGHT", bắt đầu bằng [conJUNCtion][LIÊN] "which". Thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [SUBject HEAD][CHỦ LÕI] "LAPtop".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [which i BOUGHT LAST WEEK] - [ADjective CLAUSE][TÍNH CÂU] thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [SUBject HEAD][CHỦ LÕI] "LAPtop".</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [the LAPtop {'{which i BOUGHT LAST WEEK}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 		
 			
-				<ul className="list-square" id="ADverb-CLAUSE">
+				<ul className="list-square" id="ADjunct">
 			
 					<li>we CANcelled the PICnic [be<strong>cause</strong> it RAINED HEAVily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa to].</li>
@@ -516,16 +516,16 @@ export default function SV1(): React.JSX.Element {
 			
 			
 
-			<h4 className="margin-y-40">B. [ADjective CLAUSE][TÍNH CÂU]</h4>
+			<h4 className="margin-y-40">B. [RELative CLAUSE][QUAN CÂU]</h4>
 			
 				<ul className="list-square">
 			
-					<li>the BOOK [she LENT me] was FAScinating.</li>
-					<li className="margin-bottom-20 list-none">Cuốn sách [cô ấy cho tôi mượn] rất hấp dẫn.</li>
+					<li>[the BOOK {'{she LENT me}'}] was FAScinating.</li>
+					<li className="margin-bottom-20 list-none">[Cuốn sách {'{cô ấy cho tôi mượn}'}] rất hấp dẫn.</li>
 			
-					<li className="list-none">Hình thái: [she LENT me] - {'{ZEro RELative CLAUSE}'}{'{KHUYẾT QUAN CÂU}'} đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "she" và [PAST VERB][ĐÃ ĐỘNG] "LENT".</li>
+					<li className="list-none">Hình thái: {'{she LENT me}'} - {'{ZEro RELative CLAUSE}'}{'{KHUYẾT QUAN CÂU}'} đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "she" và [PAST VERB][ĐÃ ĐỘNG] "LENT". Đứng ngay sau đối tượng cuốn sách nhằm mô tả đặc điểm riêng biệt cho [SUBject HEAD][CHỦ LÕI] "the BOOK".</li>
 			
-					<li className="list-none">Chức năng: [she LENT me] - [ADjective CLAUSE][TÍNH CÂU] đứng ngay sau đối tượng cuốn sách nhằm mô tả đặc điểm riêng biệt cho [SUBject HEAD][CHỦ LÕI] "the BOOK".</li>
+					<li className="list-none">Chức năng: [the BOOK {'{she LENT me}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 			
@@ -570,26 +570,26 @@ export default function SV1(): React.JSX.Element {
 
 				<ul className="list-square">
 			
-					<li>[FINDing the KEY {'{which Opens <what is HIDden>}'}]  is DIFficult.</li>
+					<li>[FINDing {'{'}the KEY {'<'}which Opens "what is HIDden"{'>}'}]  is DIFficult.</li>
 					<li className="margin-bottom-20 list-none">[Việc tìm kiếm chiếc chìa khóa {'{mà mở <thứ đang bị giấu>}'}] thì khó khăn.</li>
 					
-					<li><strong>Khối ngoài</strong> &lt;&gt;:</li>
+					<li><strong>Khối trong</strong> {'<>'}:</li>
 
-					<li className="list-none">Hình thái lớp trong cùng &lt;&gt;: &lt;what is HIDden&gt; là một [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] what.</li>
+					<li className="list-none">Hình thái lớp trong cùng {'<>'}: "what is HIDden" là một [interROGative CONtent CLAUSE][VẤN NỘI CÂU] bắt đầu bằng [PROnoun][ĐẠI] what.</li>
 
-					<li className="margin-bottom-20 list-none">Chức năng lớp trong cùng &lt;&gt;: &lt;what is HIDden&gt; đóng vai trò là một [OBject CLAUSE][TÂN CÂU] dưới sự điều phối của hành động mở opens.</li>
+					<li className="margin-bottom-20 list-none">Chức năng lớp trong cùng {'<>'}: "what is HIDden" đóng vai trò là một [ADjective PHR][TÂN CÂU] dưới sự điều phối của hành động mở Opens.</li>
 
 					<li><strong>Khối giữa</strong> {'{}'}:</li>
 
-					<li className="list-none">Hình thái lớp trung gian {'{}'}: {'{which Opens <what is HIDden>}'} là một [RELative CLAUSE][QUAN CÂU] bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] which.</li>
+					<li className="list-none">Hình thái lớp trung gian {'{}'}: {'<'}which Opens "what is HIDden"{'>'} là một [RELative CLAUSE][QUAN CÂU] bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] which. Neo ngay sau [NOUN HEAD][DANH LÕI] "the KEY" để bổ nghĩa và định danh trực tiếp cho chiếc chìa khóa đó.</li>
 
-					<li className="margin-bottom-20 list-none">Chức năng lớp trung gian {'{}'}: {'{which Opens <what is HIDden>}'} đóng vai trò là một [ADjective CLAUSE][TÍNH CÂU] neo ngay sau [NOUN HEAD][DANH LÕI] "the KEY" để bổ nghĩa và định danh trực tiếp cho chiếc chìa khóa đó.</li>
+					<li className="margin-bottom-20 list-none">Chức năng lớp trung gian {'{}'}: {'{'}the KEY {'<'}which Opens "what is HIDden"{'>}'} - [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 
 					<li><strong>Khối ngoài</strong> []:</li>
 
-					<li className="list-none">Hình thái tổng thể bao ngoài []: [FINDing the KEY {'{which Opens <what is HIDden>}'}] là một khối [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng V-ing FINDing.</li>
+					<li className="list-none">Hình thái tổng thể bao ngoài []: [FINDing {'{'}the KEY {'<'}which Opens "what is HIDden"{'>}'}] là một khối [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng V-ing FINDing.</li>
 
-					<li className="list-none">Chức năng lớp tổng thể bao ngoài []: [FINDing the KEY {'{which Opens <what is HIDden>}'}] vận hành đồng bộ như một khối [NOUN PHRASE][DANH CỤM] lớn giữ vai trò làm [SUBject PHRASE][CHỦ CỤM] điều phối hệ trục thông tin hành động cho toàn bộ [Câu Lớn][Sentence].</li>
+					<li className="list-none">Chức năng lớp tổng thể bao ngoài []: [FINDing {'{'}the KEY {'<'}which Opens "what is HIDden"{'>}'}] giữ vai trò làm [SUBject PHRASE][CHỦ CỤM] điều phối hệ trục thông tin hành động cho toàn bộ [Câu Lớn][Sentence], vận hành đồng bộ như một khối [NOUN PHRASE][DANH CỤM] lớn.</li>
 			
 				</ul>
 			

@@ -90,11 +90,11 @@ export default function NineBox1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+						<HashLink smooth to="#RELative-CLAUSE">RELative CLAUSE</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADverb-CLAUSE">ADverb CLAUSE</HashLink>
+						<HashLink smooth to="#ADjunct">ADjunct</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -149,7 +149,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li>[NOUN HEAD][DANH LÕI], [NOUN PHRASE][DANH CỤM]</li>
 			
-					<li>[ADjective HEAD][TÍNH LÕI], [ADjective PHRASE][TÍNH CỤM], [ADjective CLAUSE][TÍNH CÂU]</li>
+					<li>[ADjective HEAD][TÍNH LÕI], [ADjective PHRASE][TÍNH CỤM].</li>
 			
 					<li>[ADverb HEAD][TRẠNG LÕI], [ADjunct][PHỤ], [ADjunct][PHỤ].</li>
 			
@@ -461,21 +461,21 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADjective-CLAUSE"><strong>Hình thành Chức năng</strong> [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="RELative-CLAUSE"><strong>Hình thành Chức năng</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>the ALgorithm [which comPUTES the enCRYPtion KEY] WORKS FAST.</li>
-					<li className="margin-bottom-20 list-none">Thuật toán [mà nó tính toán khóa mã hóa] hoạt động nhanh.</li>
+					<li>[the ALgorithm {'{which comPUTES the enCRYPtion KEY}'}] WORKS FAST.</li>
+					<li className="margin-bottom-20 list-none">[Thuật toán {'{mà nó tính toán khóa mã hóa}'}] hoạt động nhanh.</li>
 			
-					<li className="list-none">Hình thái: [which comPUTES the enCRYPtion KEY] – [RELative CLAUSE][QUAN CÂU] chứa khối kết nối định danh tường minh "which" kết hợp cùng một cấu trúc câu con xoay quanh [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "comPUTES".</li>
+					<li className="list-none">Hình thái: {'{which comPUTES the enCRYPtion KEY}'} – [RELative CLAUSE][QUAN CÂU] chứa khối kết nối định danh tường minh "which" kết hợp cùng một cấu trúc câu con xoay quanh [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "comPUTES". Đóng vai trò định danh thuộc tính để bổ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the ALgorithm", chỉ rõ loại thuật toán nào cho khối đứng trước.</li>
 			
-					<li className="list-none">Chức năng: [which comPUTES the enCRYPtion KEY] – [ADjective CLAUSE][TÍNH CÂU] đóng vai trò định danh thuộc tính để bổ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the ALgorithm", chỉ rõ loại thuật toán nào cho khối đứng trước.</li>
+					<li className="list-none">Chức năng: [the ALgorithm {'{which comPUTES the enCRYPtion KEY}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADverb-CLAUSE"><strong>Hình thành Chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjunct"><strong>Hình thành Chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -508,16 +508,16 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>the API [the VENdor proVIDed YESterday] THROWS exCEPtions.</li>
-					<li className="margin-bottom-20 list-none">Giao diện lập trình ứng dụng [nhà cung cấp cung cấp ngày hôm qua] ném ra các ngoại lệ.</li>
+					<li>[the API {'{the VENdor proVIDed YESterday}'}] THROWS exCEPtions.</li>
+					<li className="margin-bottom-20 list-none">[Giao diện lập trình ứng dụng {'{nhà cung cấp cung cấp ngày hôm qua}'}] ném ra các ngoại lệ.</li>
 			
-					<li className="list-none">Hình thái: [the VENdor proVIDed YESterday] – [CONtact CLAUSE][CHẠM CÂU] vắng bóng thành phần kết nối nhưng có đầy đủ kết cấu câu con lồng ghép xoay quanh [PAST VERB][ĐÃ ĐỘNG] "proVIDed".</li>
+					<li className="list-none">Hình thái: {'{the VENdor proVIDed YESterday}'} – [CONtact CLAUSE][CHẠM CÂU] vắng bóng thành phần kết nối nhưng có đầy đủ kết cấu câu con lồng ghép xoay quanh [PAST VERB][ĐÃ ĐỘNG] "proVIDed". Đóng vai trò định danh thuộc tính để chỉ rõ loại API nào, bổ nghĩa trực tiếp cho khối [SUBject HEAD][CHỦ LÕI] "the API" phía trước.</li>
 			
-					<li className="list-none">Chức năng: [the VENdor proVIDed YESterday] – [ADjective CLAUSE][TÍNH CÂU] đóng vai trò định danh thuộc tính để chỉ rõ loại API nào, bổ nghĩa trực tiếp cho khối [SUBject HEAD][CHỦ LÕI] "the API" phía trước.</li>
+					<li className="list-none">Chức năng: [the API {'{the VENdor proVIDed YESterday}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 			
@@ -762,16 +762,16 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>CLAUSE</strong>][<strong>CÂU</strong>] - <strong>Hệ</strong> [<strong>VERB HEAD</strong>][<strong>ĐỘNG LÕI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>CLAUSE</strong>][<strong>CÂU</strong>] - <strong>Hệ</strong> [<strong>HEAD</strong>][<strong>LÕI</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>we must rePLACE this conNECtion [which alLOWS unAUthorized USer ACcess].</li>
-					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [mà nó cho phép người dùng không được cấp quyền truy cập vào] này.</li>
+					<li>we must rePLACE [this conNECtion {'{which alLOWS unAUthorized USer ACcess}'}].</li>
+					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế [kết nối {'{mà nó cho phép người dùng không được cấp quyền truy cập vào}'} này].</li>
 			
-					<li className="list-none">Hình thái: [which alLOWS unAUthorized USer ACcess] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "alLOWS".</li>
+					<li className="list-none">Hình thái: {'{which alLOWS unAUthorized USer ACcess}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "alLOWS". Đứng sau làm nhiệm vụ định danh thuộc tính cho [OBject HEAD][TÂN LÕI] "conNECtion" kết nối.</li>
 			
-					<li className="list-none">Chức năng: [which alLOWS unAUthorized USer ACcess] – [ADjective CLAUSE][TÍNH CÂU] đứng sau làm nhiệm vụ định danh thuộc tính cho [OBject HEAD][TÂN LÕI] "conNECtion" kết nối.</li>
+					<li className="list-none">Chức năng: [this conNECtion {'{which alLOWS unAUthorized USer ACcess}'}] - [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 

@@ -61,7 +61,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+						<HashLink smooth to="#RELative-CLAUSE">RELative CLAUSE</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -434,7 +434,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center" id="ADjective-CLAUSE">5. Chức năng [RELative CLAUSE][QUAN CÂU]</h3>
+			<h3 className="margin-y-50 text-center" id="RELative-CLAUSE">5. Chức năng [RELative CLAUSE][QUAN CÂU]</h3>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
 			
@@ -499,7 +499,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối giữa: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [ADjective PHRASE][TÍNH CỤM] bám sát phía sau [SUBject HEAD][CHỦ LÕI] "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
 
-					<li className="list-none">Khối trong: {'{which are reQUIred for adVANCED PLACEment}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN HEAD][DANH LÕI] "THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
+					<li className="list-none">Khối trong: {'{which are reQUIred for adVANCED PLACEment}'} - [RELative CLAUSE][QUAN CÂU] bổ nghĩa cho [NOUN HEAD][DANH LÕI] "THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
 			
 				</ul>
 
@@ -530,7 +530,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối ngoài: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [ADjective PHRASE][TÍNH CỤM] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho [SUBject HEAD][CHỦ LÕI] "the deCISion".</li>
 
-					<li className="list-none">Khối trong: {'{which OPtimize WORKflow}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN HEAD][DANH LÕI] "SYStems" nhằm xác định rõ tính năng của hệ thống.</li>
+					<li className="list-none">Khối trong: {'{which OPtimize WORKflow}'} - [RELative CLAUSE][QUAN CÂU] bổ nghĩa cho [NOUN HEAD][DANH LÕI] "SYStems" nhằm xác định rõ tính năng của hệ thống.</li>
 			
 				</ul>
 
@@ -592,7 +592,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối ngoài: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [ADjective PHRASE][TÍNH CỤM] đa tầng bóc tách sâu nguyên nhân và hệ quả cho [SUBject HEAD][CHỦ LÕI] "SHIFTS".</li>
 
-					<li className="list-none">Khối trong: {'{which afFECted proDUCtion}'} - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "MARket fluctuAtions" để chỉ rõ khía cạnh biến động.</li>
+					<li className="list-none">Khối trong: {'{which afFECted proDUCtion}'} - [RELative CLAUSE][QUAN CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "MARket fluctuAtions" để chỉ rõ khía cạnh biến động.</li>
 			
 				</ul>
 			
@@ -633,48 +633,48 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">B. Chuyển từ [ADjective PHRASE][TÍNH CỤM] ➔ [ADjective CLAUSE][TÍNH CÂU]</h4>
+			<h4 className="margin-y-40">B. Chuyển từ [PHRASE][CỤM] ➔ [CLAUSE][CÂU]</h4>
 
 			<p className="text-indent-whole"><strong>Gốc</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>the MAN [STANding THERE] is my BOSS.</li>
+					<li>[the MAN {'{STANding THERE}'}] is my BOSS.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [đang đứng đó] là sếp tôi.</li>
 			
-					<li className="list-none">Hình thái: [STANding THERE] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "STANding".</li>
+					<li className="list-none">Hình thái: {'{STANding THERE}'} - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] "STANding". Đóng vai trò [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái hành động đang diễn ra của chủ thể [SUBject HEAD][CHỦ LÕI] "the MAN".</li>
 			
-					<li className="list-none">Chức năng: [STANding THERE] - [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái hành động đang diễn ra của chủ thể [SUBject HEAD][CHỦ LÕI] "the MAN".</li>
-			
-				</ul>
-			
-
-			<p className="margin-top-20 text-indent-whole"><strong>Chuyển đổi</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]</p>
-			
-				<ul className="list-square">
-			
-					<li>the MAN [who is STANding THERE] is my BOSS.</li>
-					<li className="margin-bottom-20 list-none">Người đàn ông [người mà đang đứng đó] là sếp tôi.</li>
-			
-					<li className="list-none">Hình thái: [who is STANding THERE] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} "who" kết hợp [auXILiary and PRESent PARTiciple VERB][TRỢ và HIỆN TIẾP ĐỘNG] "is STANding".</li>
-			
-					<li className="list-none">Chức năng: [who is STANding THERE] - [ADjective CLAUSE][TÍNH CÂU] định danh chính xác đối tượng [SUBject HEAD][CHỦ LÕI] "the MAN" thông qua hành động cụ thể đang diễn ra.</li>
+					<li className="list-none">Chức năng: [the MAN {'{STANding THERE}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 			
 
-			<h4 className="margin-y-40">C. Chuyển từ [ADjective CLAUSE][TÍNH CÂU] ➔ [ADjective HEAD][TÍNH LÕI]</h4>
-
-			<p className="text-indent-whole"><strong>Gốc</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chuyển đổi</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>the POLicy [which is efFECtive] will be apPLIED.</li>
-					<li className="margin-bottom-20 list-none">Chính sách [cái mà hiệu quả] sẽ được áp dụng.</li>
+					<li>[the MAN {'{who is STANding THERE}'}] is my BOSS.</li>
+					<li className="margin-bottom-20 list-none">[Người đàn ông {'{người mà đang đứng đó}'}] là sếp tôi.</li>
 			
-					<li className="list-none">Hình thái: [which is efFECtive] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" kết hợp [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "is" và [MODified ADjective][DIỆN TÍNH] "efFECtive".</li>
+					<li className="list-none">Hình thái: {'{who is STANding THERE}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} "who" kết hợp [auXILiary and PRESent PARTiciple VERB][TRỢ và HIỆN TIẾP ĐỘNG] "is STANding". Định danh chính xác đối tượng [SUBject HEAD][CHỦ LÕI] "the MAN" thông qua hành động cụ thể đang diễn ra.</li>
 			
-					<li className="list-none">Chức năng: [which is efFECtive] - [ADjective CLAUSE][TÍNH CÂU] vạch rõ bản chất định danh cho đối tượng [SUBject HEAD][CHỦ LÕI] "the POLicy".</li>
+					<li className="list-none">Chức năng: [the MAN {'{who is STANding THERE}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">C. Chuyển từ [CLAUSE][CÂU] ➔ [HEAD][LÕI]</h4>
+
+			<p className="text-indent-whole"><strong>Gốc</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>[the POLicy {'{which is efFECtive}'}] will be apPLIED.</li>
+					<li className="margin-bottom-20 list-none">[Chính sách {'{cái mà hiệu quả}'}] sẽ được áp dụng.</li>
+			
+					<li className="list-none">Hình thái: {'{which is efFECtive}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" kết hợp [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "is" và [MODified ADjective][DIỆN TÍNH] "efFECtive". Vạch rõ bản chất định danh cho đối tượng [SUBject HEAD][CHỦ LÕI] "the POLicy".</li>
+			
+					<li className="list-none">Chức năng: [the POLicy {'{which is efFECtive}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 			

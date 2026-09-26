@@ -90,11 +90,11 @@ export default function SuperWords1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADjective-CLAUSE">ADjective CLAUSE</HashLink>
+						<HashLink smooth to="#RELative-CLAUSE">RELative CLAUSE</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADverb-CLAUSE">ADverb CLAUSE</HashLink>
+						<HashLink smooth to="#ADjunct">ADjunct</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -517,21 +517,21 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20" id="ADjective-CLAUSE"><strong>Ví dụ 2</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]</p>
+			<p className="margin-top-20" id="RELative-CLAUSE"><strong>Ví dụ 2</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>the AUthor [who WROTE this ARticle] is an EXpert.</li>
-					<li className="margin-bottom-20 list-none">Tác giả [người mà đã viết bài báo này] là một chuyên gia.</li>
+					<li>[the AUthor {'{who WROTE this ARticle}'}] is an EXpert.</li>
+					<li className="margin-bottom-20 list-none">[Tác giả {'{người mà đã viết bài báo này}'}] là một chuyên gia.</li>
 			
-					<li className="list-none">Hình thái: [who WROTE this ARticle] – [RELative CLAUSE][QUAN CÂU] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau.</li>
+					<li className="list-none">Hình thái: {'{who WROTE this ARticle}'} – [RELative CLAUSE][QUAN CÂU] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau. Đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the AUthor" tác giả đó.</li>
 			
-					<li className="list-none">Chức năng: [who WROTE this ARticle] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the AUthor" tác giả đó.</li>
+					<li className="list-none">Chức năng: [the AUthor {'{who WROTE this ARticle}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20" id="ADverb-CLAUSE"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+			<p className="margin-top-20" id="ADjunct"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -568,16 +568,16 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>the CAR [he DROVE YESterday] beLONGED to his FAther.</li>
-					<li className="margin-bottom-20 list-none">Chiếc xe [anh ấy lái hôm qua] thuộc về ba anh ấy.</li>
+					<li>[the CAR {'{he DROVE YESterday}'}] beLONGED to his FAther.</li>
+					<li className="margin-bottom-20 list-none">[Chiếc xe {'{anh ấy lái hôm qua}'}] thuộc về ba anh ấy.</li>
 			
-					<li className="list-none">Hình thái: [he DROVE YESterday] – [CONtact CLAUSE][CHẠM CÂU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu.</li>
+					<li className="list-none">Hình thái: {'{he DROVE YESterday}'} – [CONtact CLAUSE][CHẠM CÂU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu. Đang đứng vị trí bám sát ngay sau [SUBject HEAD][CHỦ LÕI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
-					<li className="list-none">Chức năng: [he DROVE YESterday] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí bám sát ngay sau [SUBject HEAD][CHỦ LÕI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
+					<li className="list-none">Chức năng: [the CAR {'{he DROVE YESterday}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 			
