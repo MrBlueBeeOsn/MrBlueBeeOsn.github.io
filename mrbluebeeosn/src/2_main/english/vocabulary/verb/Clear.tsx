@@ -246,7 +246,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[the {'{CLARity}'} of this inSTRUCTion] HELPED EVERyone.</li>
           <li className="margin-bottom-20 list-none">[{'{Sự rõ ràng}'} của lời hướng dẫn này] đã giúp đỡ mọi người.</li>
       
-          <li className="list-none">Khối trong: {'{CLARity}'} - {'{MODified NOUN}'}{'{DIỆN DANH}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "CLEAR" biến đổi thành "CLAR" mặc thêm hậu tố "-ity" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], tạo thành một [SUBject][CHỦ] thực thể định danh độc lập. [SUBject HEAD][CHỦ LÕI] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để làm định danh [NOUN HEAD][DANH LÕI] cho một đặc tính/sự việc.</li>
+          <li className="list-none">Khối trong: {'{CLARity}'} - {'{MODified NOUN}'}{'{DIỆN DANH}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "CLEAR" biến đổi thành "CLAR" mặc thêm hậu tố "-ity" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], tạo thành một [SUBject][CHỦ] thực thể định danh độc lập. [SUBject HEAD][CHỦ LÕI] đảm nhận nhiệm vụ làm thành phần nền tảng [NOUN HEAD][DANH LÕI] ở đầu câu, để làm định danh cho một đặc tính/sự việc.</li>
       
           <li className="list-none">Khối ngoài: [the {'{CLARity}'} of this inSTRUCTion] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       

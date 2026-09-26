@@ -229,7 +229,7 @@ export default function creATE(): React.JSX.Element {
           <li>[the arTIStic {'{creAtion}'} from the LOcal deSIGner] imPRESSED the AUdience.</li>
           <li className="margin-bottom-20 list-none">[Tác phẩm {'{sáng tạo}'} từ nhà thiết kế địa phương] đã làm ấn tượng khán giả.</li>
       
-          <li className="list-none">Khối trong: {'{creAtion}'} - {'{MODified NOUN}'}{'{DIỆN DANH}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [SUBject][CHỦ] định danh thực thể độc lập. [NOUN HEAD][DANH LÕI] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+          <li className="list-none">Khối trong: {'{creAtion}'} - {'{MODified NOUN}'}{'{DIỆN DANH}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [SUBject][CHỦ] định danh thực thể độc lập. [SUBject HEAD][CHỦ LÕI] đảm nhận nhiệm vụ làm thành phần định danh [NOUN HEAD][DANH LÕI] nền tảng đứng đầu câu.</li>
       
           <li className="list-none">Khối ngoài: [the arTIStic {'{creAtion}'} from the LOcal deSIGner] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       

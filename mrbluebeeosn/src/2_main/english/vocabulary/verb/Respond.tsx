@@ -228,7 +228,7 @@ export default function reSPOND(): React.JSX.Element {
           <li>[the RAPid {'{reSPONSE}'} from the supPORT TEAM] imPRESSED the CUStomers.</li>
           <li className="margin-bottom-20 list-none">[Sự {'{phản hồi}'} nhanh chóng từ đội ngũ hỗ trợ] đã làm ấn tượng các khách hàng.</li>
       
-          <li className="list-none">Khối trong: {'{reSPONSE}'} - {'{MODified NOUN}'}{'{DIỆN DANH}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "reSPOND" biến đổi cấu trúc đuôi "-se" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [SUBject][CHỦ] định danh  thực thể độc lập. [SUBject HEAD][CHỦ LÕI] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+          <li className="list-none">Khối trong: {'{reSPONSE}'} - {'{MODified NOUN}'}{'{DIỆN DANH}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "reSPOND" biến đổi cấu trúc đuôi "-se" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [SUBject][CHỦ] định danh  thực thể độc lập. [SUBject HEAD][CHỦ LÕI] đảm nhận nhiệm vụ làm thành phần định danh [NOUN HEAD][DANH LÕI] nền tảng đứng đầu câu.</li>
       
           <li className="list-none">Khối ngoài: [the RAPid {'{reSPONSE}'} from the supPORT TEAM] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
