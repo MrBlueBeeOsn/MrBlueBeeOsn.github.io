@@ -573,19 +573,19 @@ export default function SV1(): React.JSX.Element {
 					<li>[FINDing the KEY {'{which Opens <what is HIDden>}'}]  is DIFficult.</li>
 					<li className="margin-bottom-20 list-none">[Việc tìm kiếm chiếc chìa khóa {'{mà mở <thứ đang bị giấu>}'}] thì khó khăn.</li>
 					
-					<li><strong>Tầng 3</strong> &lt;&gt;:</li>
+					<li><strong>Khối ngoài</strong> &lt;&gt;:</li>
 
 					<li className="list-none">Hình thái lớp trong cùng &lt;&gt;: &lt;what is HIDden&gt; là một [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtion][LIÊN] what.</li>
 
 					<li className="margin-bottom-20 list-none">Chức năng lớp trong cùng &lt;&gt;: &lt;what is HIDden&gt; đóng vai trò là một [OBject CLAUSE][TÂN CÂU] dưới sự điều phối của hành động mở opens.</li>
 
-					<li><strong>Tầng 2</strong> {'{}'}:</li>
+					<li><strong>Khối giữa</strong> {'{}'}:</li>
 
 					<li className="list-none">Hình thái lớp trung gian {'{}'}: {'{which Opens <what is HIDden>}'} là một [RELative CLAUSE][QUAN CÂU] bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] which.</li>
 
 					<li className="margin-bottom-20 list-none">Chức năng lớp trung gian {'{}'}: {'{which Opens <what is HIDden>}'} đóng vai trò là một [ADjective CLAUSE][TÍNH CÂU] neo ngay sau [NOUN HEAD][DANH LÕI] "the KEY" để bổ nghĩa và định danh trực tiếp cho chiếc chìa khóa đó.</li>
 
-					<li><strong>Tầng 1</strong> []:</li>
+					<li><strong>Khối ngoài</strong> []:</li>
 
 					<li className="list-none">Hình thái tổng thể bao ngoài []: [FINDing the KEY {'{which Opens <what is HIDden>}'}] là một khối [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng V-ing FINDing.</li>
 

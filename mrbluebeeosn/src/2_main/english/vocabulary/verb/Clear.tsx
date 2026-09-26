@@ -662,7 +662,7 @@ export default function CLEAR(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -672,7 +672,7 @@ export default function CLEAR(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -692,7 +692,7 @@ export default function CLEAR(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -702,7 +702,7 @@ export default function CLEAR(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -724,7 +724,7 @@ export default function CLEAR(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -734,7 +734,7 @@ export default function CLEAR(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
@@ -757,7 +757,7 @@ export default function CLEAR(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -767,7 +767,7 @@ export default function CLEAR(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
