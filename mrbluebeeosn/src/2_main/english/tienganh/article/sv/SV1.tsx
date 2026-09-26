@@ -353,7 +353,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [harMOniously] – [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "HARmonize" kết hợp các hậu tố "-ous" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính chất phương thức vận hành.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [harMOniously] - [ADverb HEAD][TRẠNG LÕI] đứng sau hành động nhằm chỉ ra cách thức thực hiện.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [harMOniously] - [ADjunct 1][PHỤ 1] đứng sau hành động nhằm chỉ ra cách thức thực hiện.</li>
 			
 				</ul>
 			
@@ -405,7 +405,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to CATCH the TRAIN] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] xác định khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [SUBject HEAD][CHỦ LÕI] - [VERB HEAD][ĐỘNG LÕI], bắt đầu bằng [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] dạng V-ing trong các cấu trúc biến thể hoặc liên kết mở rộng.</li>
 			
-					<li className="list-none">Chức năng: [to CATCH the TRAIN] - [ADjunct][PHỤ] gắn vào phía sau nhằm làm rõ mục đích cho phần thông tin trước đó.</li>
+					<li className="list-none">Chức năng: [to CATCH the TRAIN] - [ADjunct 2][PHỤ 2] gắn vào phía sau nhằm làm rõ mục đích cho phần thông tin trước đó.</li>
 			
 				</ul>
 			
@@ -487,7 +487,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ CÂU] thể hiện khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "it" và [PAST VERB][ĐÃ ĐỘNG] "RAINED", bắt đầu bằng [conJUNCtion][LIÊN] "be<strong>cause</strong>".</li>
 			
-					<li className="list-none">Chức năng: [be<strong>cause</strong> it RAINED HEAVily] - [ADjunct][PHỤ] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> it RAINED HEAVily] - [ADjunct 3][PHỤ 3] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
 			
 				</ul>
 
@@ -721,7 +721,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [LATE] - [ROOT ADVERB][GỐC TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "LATE" đóng vai trò diện mạo đơn lẻ ở cấp độ [HEAD][LÕI].</li>
 
-					<li className="list-none">Chức năng: [LATE] - [ADverb HEAD][TRẠNG LÕI] đứng sau [PAST VERB][ĐÃ ĐỘNG] "arRIVED" làm [ADverb HEAD][TRẠNG LÕI] bổ nghĩa hoàn cảnh thời gian cho hành động.</li>
+					<li className="list-none">Chức năng: [LATE] - [ADjunct 1][PHỤ 1] đứng sau [PAST VERB][ĐÃ ĐỘNG] "arRIVED" làm [ADverb HEAD][TRẠNG LÕI] bổ nghĩa hoàn cảnh thời gian cho hành động.</li>
 			
 				</ul>
 

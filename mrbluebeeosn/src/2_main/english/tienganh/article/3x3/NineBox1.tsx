@@ -413,7 +413,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 		
-			<p className="margin-top-20 text-indent-whole" id="ADjunct-2"><strong>Hình thành Chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjunct-2"><strong>Hình thành Chức năng</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -422,7 +422,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to seCURE the dePLOYment PIPEline] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] hình thành từ sự kết hợp giữa hạt nhân [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to seCURE" và mở rộng hành động phía sau.</li>
 			
-					<li className="list-none">Chức năng: [to seCURE the dePLOYment PIPEline] – [ADjunct][PHỤ] bổ nghĩa bối cảnh mục đích cho hành động kiểm thử.</li>
+					<li className="list-none">Chức năng: [to seCURE the dePLOYment PIPEline] – [ADjunct 2][PHỤ 2] bổ nghĩa bối cảnh mục đích cho hành động kiểm thử.</li>
 			
 				</ul>
 			
@@ -475,7 +475,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADjunct-3"><strong>Hình thành Chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjunct-3"><strong>Hình thành Chức năng</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -484,7 +484,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [be<strong>cause</strong> the DAtabase SPACE FILLED] – [conJUNCtional CLAUSE][LIÊN CÂU] chứa khối kết nối chỉ nguyên nhân "be<strong>cause</strong>" kết hợp cùng câu con xoay quanh [PAST VERB][ĐÃ ĐỘNG] "FILLED".</li>
 			
-					<li className="list-none">Chức năng: [be<strong>cause</strong> the DAtabase SPACE FILLED] – [ADjunct][PHỤ] bổ nghĩa bối cảnh nguyên nhân cho hành động bắt đầu của việc sao lưu.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> the DAtabase SPACE FILLED] – [ADjunct 3][PHỤ 3] bổ nghĩa bối cảnh nguyên nhân cho hành động bắt đầu của việc sao lưu.</li>
 			
 				</ul>
 

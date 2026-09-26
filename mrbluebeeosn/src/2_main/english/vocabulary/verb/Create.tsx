@@ -263,7 +263,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [creAtively] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
       
-          <li className="list-none">Chức năng: [creAtively] - [ADverb HEAD][TRẠNG LÕI] làm thành phần bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "SOLVED" để xác định cách thức diễn ra.</li>
+          <li className="list-none">Chức năng: [creAtively] - [ADjunct 1][PHỤ 1] làm thành phần bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "SOLVED" để xác định cách thức diễn ra.</li>
       
         </ul>
 
@@ -437,7 +437,7 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADjunct-2"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="ADjunct-2"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>]</p>
 
 
       <p className="margin-top-20 text-indent-whole">[<strong>ADjunct</strong>][<strong>PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB PHRASE</strong>][<strong>HIỆN TIẾP ĐỘNG CỤM</strong>] <strong>có dấu phẩy</strong>:</p>
@@ -451,7 +451,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [CreAting a NEW VIsual iDENtity] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] kết hợp mở rộng do được rút gọn từ một hệ [conJUNCtional CLAUSE][LIÊN CÂU] phụ thuộc có cùng thành phần lõi [SUBject PROnoun][CHỦ ĐẠI].</li>
       
-          <li className="list-none">Chức năng: [CreAting a NEW VIsual iDENtity] - [ADjunct][PHỤ] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "LAUNCHED" và toàn bộ CLAUSE chính.</li>
+          <li className="list-none">Chức năng: [CreAting a NEW VIsual iDENtity] - [ADjunct 2][PHỤ 2] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "LAUNCHED" và toàn bộ CLAUSE chính.</li>
       
         </ul>
 
@@ -615,7 +615,7 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADjunct-3"><strong>4.1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="ADjunct-3"><strong>4.1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11:</p>
       
@@ -626,7 +626,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [suBORdinate CLAUSE][PHỤ CÂU] kích hoạt ngay sau thành phần [conJUNCtion][LIÊN] nguyên nhân "be<strong>cause</strong>", chứa [SUBject HEAD][CHỦ LÕI] "the FOUNder" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [ADjunct][PHỤ] thiết lập MODule bối cảnh, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "sucCEEded" và toàn bộ CLAUSE chính trước đó.</li>
+          <li className="list-none">Chức năng: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [ADjunct 3][PHỤ 3] thiết lập MODule bối cảnh, bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "sucCEEded" và toàn bộ CLAUSE chính trước đó.</li>
       
         </ul>
 

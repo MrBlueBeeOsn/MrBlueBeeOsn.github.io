@@ -160,7 +160,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [quickly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "quick" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [quickly] - [ADverb HEAD][TRẠNG LÕI] bổ sung cách thức cho runs.</li>
+					<li className="list-none">Chức năng: [quickly] - [ADjunct 1][PHỤ 1] bổ sung cách thức cho runs.</li>
 			
 				</ul>
 			
@@ -174,7 +174,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [softly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "soft" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [softly] - [ADverb HEAD][TRẠNG LÕI] bổ sung cách thức cho speaks.</li>
+					<li className="list-none">Chức năng: [softly] - [ADjunct 1][PHỤ 1] bổ sung cách thức cho speaks.</li>
 			
 				</ul>
 
@@ -531,7 +531,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [carefully] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "care" mặc thêm hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [carefully] - [ADverb HEAD][TRẠNG LÕI] bổ sung cách thức cho drives.</li>
+					<li className="list-none">Chức năng: [carefully] - [ADjunct 1][PHỤ 1] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			

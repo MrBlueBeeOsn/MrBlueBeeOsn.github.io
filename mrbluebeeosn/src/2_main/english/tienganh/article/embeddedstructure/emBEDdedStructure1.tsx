@@ -377,7 +377,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [exPRESsively] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "exPRESS" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính chất bổ trợ trạng thái.</li>
 
-					<li className="list-none">Chức năng: [exPRESsively] - [ADverb HEAD][TRẠNG LÕI] thực thi vai trò bổ nghĩa đứng ngay sau [VERB HEAD][ĐỘNG LÕI] "exPLAINED" để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
+					<li className="list-none">Chức năng: [exPRESsively] - [ADjunct 1][PHỤ 1] thực thi vai trò bổ nghĩa đứng ngay sau [VERB HEAD][ĐỘNG LÕI] "exPLAINED" để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
 			
 				</ul>
 			
@@ -430,7 +430,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="ADjunct-2"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjunct-2"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -439,7 +439,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to BUILD this SYStem] - [BARE VERB PHRASE][THUẦN NGUYÊN ĐỘNG CỤM] định hình dưới dạng một vùng mã hành động mở rộng thuộc nhóm [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] kéo theo đối tượng.</li>
 			
-					<li className="list-none">Chức năng: [to BUILD this SYStem] - [ADjunct][PHỤ] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau bổ nghĩa cho hành động.</li>
+					<li className="list-none">Chức năng: [to BUILD this SYStem] - [ADjunct 2][PHỤ 2] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau bổ nghĩa cho hành động.</li>
 			
 				</ul>
 			
@@ -663,7 +663,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADjunct-3"><strong>Ví dụ 14</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjunct-3"><strong>Ví dụ 14</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -672,7 +672,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ CÂU] kích hoạt ngay sau [conJUNCtion][LIÊN] kết nối be<strong>cause</strong>, chứa chủ thể "it" và [PAST VERB][ĐÃ ĐỘNG] RAINED mang dấu mốc tích hợp quá khứ.</li>
 					
-					<li className="list-none">Chức năng: [be<strong>cause</strong> it RAINED HEAVily] - [ADjunct][PHỤ] thiết lập MODule định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> it RAINED HEAVily] - [ADjunct 3][PHỤ 3] thiết lập MODule định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
 			
 				</ul>
 

@@ -280,7 +280,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [CLEARly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "CLEAR" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
       
-          <li className="list-none">Chức năng: [CLEARly] - [ADverb HEAD][TRẠNG LÕI] thực thi vai trò làm thành phần bổ nghĩa đứng sau [VERB HEAD][ĐỘNG LÕI] "exPLAINED" để xác định bối cảnh cách thức.</li>
+          <li className="list-none">Chức năng: [CLEARly] - [ADjunct 1][PHỤ 1] thực thi vai trò làm thành phần bổ nghĩa đứng sau [VERB HEAD][ĐỘNG LÕI] "exPLAINED" để xác định bối cảnh cách thức.</li>
       
         </ul>
 
@@ -404,7 +404,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADjunct-2"><strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>] </p>
+      <p className="margin-top-20 text-indent-whole" id="ADjunct-2"><strong>Hình thành chức năng</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>] </p>
 
       <p className="margin-top-20 text-indent-whole"><strong>TRẠNG CỤM dạng</strong> -<strong>to V</strong>:</p>
 
@@ -417,7 +417,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to CLEAR CACHE FILES] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] định hình dưới dạng một vùng mã hành động đứng cuối chuỗi thông tin, bắt đầu bằng [PARTicle VERB][HẠT ĐỘNG] nguyên bản có "to".</li>
       
-          <li className="list-none">Chức năng: [to CLEAR CACHE FILES] - [ADjunct][PHỤ] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho [VERB HEAD][ĐỘNG LÕI] "RAN".</li>
+          <li className="list-none">Chức năng: [to CLEAR CACHE FILES] - [ADjunct 2][PHỤ 3] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho [VERB HEAD][ĐỘNG LÕI] "RAN".</li>
       
         </ul>
 
@@ -575,7 +575,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADjunct-3"><strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="ADjunct-3"><strong>Hình thành chức năng</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11:</p>
       
@@ -586,7 +586,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [suBORdinate CLAUSE][PHỤ CÂU] kích hoạt ngay sau [conJUNCtion][LIÊN] nguyên nhân "be<strong>cause</strong>", chứa [SUBject HEAD][CHỦ LÕI] "the LEADer" và [PAST VERB][ĐÃ ĐỘNG] "CLEARED" mang dấu mốc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [ADjunct][PHỤ] thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần diện thông tin chính "the TEAM CELebrated" đứng trước.</li>
+          <li className="list-none">Chức năng: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [ADjunct 3][PHỤ 3] thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần diện thông tin chính "the TEAM CELebrated" đứng trước.</li>
       
         </ul>
 

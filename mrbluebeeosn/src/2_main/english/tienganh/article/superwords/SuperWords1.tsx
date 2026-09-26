@@ -426,7 +426,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20" id="ADjunct-2"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+			<p className="margin-top-20" id="ADjunct-2"><strong>Ví dụ 3</strong>: [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -435,7 +435,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to PASS the examiNAtion] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] biểu thị khối hành động được dẫn dắt bởi hạt "to" kết hợp với hành động [Thuần] khiết và các thành phần bổ ngữ phía sau.</li>
 			
-					<li className="list-none">Chức năng: [to PASS the examiNAtion] – [ADjunct][PHỤ] đang đứng vị trí cuối để bổ nghĩa cho toàn câu bằng cách làm rõ mục đích của hành động học tập.</li>
+					<li className="list-none">Chức năng: [to PASS the examiNAtion] – [ADjunct 2][PHỤ 2] đang đứng vị trí cuối để bổ nghĩa cho toàn câu bằng cách làm rõ mục đích của hành động học tập.</li>
 			
 				</ul>
 
@@ -531,7 +531,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20" id="ADjunct-3"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+			<p className="margin-top-20" id="ADjunct-3"><strong>Ví dụ 3</strong>: [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -540,7 +540,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [when the MANager SIGnals] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con hoàn chỉnh được kết nối thông qua khối liên kết chỉ thời điểm "when" để chỉ định rõ mốc thời gian.</li>
 			
-					<li className="list-none">Chức năng: [when the MANager SIGnals] – [ADjunct][PHỤ] đang đứng vị trí sau để mô tả bối cảnh thời gian cho hành động bắt đầu của câu lớn.</li>
+					<li className="list-none">Chức năng: [when the MANager SIGnals] – [ADjunct 3][PHỤ 3] đang đứng vị trí sau để mô tả bối cảnh thời gian cho hành động bắt đầu của câu lớn.</li>
 			
 				</ul>
 

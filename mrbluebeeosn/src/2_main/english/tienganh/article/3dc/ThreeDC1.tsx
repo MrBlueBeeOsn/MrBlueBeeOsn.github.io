@@ -395,7 +395,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [unexPECtedly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "exPECT" mặc thêm (kết hợp) tiền tố phủ định "un-" cùng tổ hợp các hậu tố biến đổi trạng thái "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu thị hoàn cảnh trạng thái đặc biệt.</li>
 			
-					<li className="list-none">Chức năng: Khối [unexPECtedly] - [ADverb HEAD][TRẠNG LÕI] đứng trước để biểu thị mức độ, tính chất bối cảnh và bổ nghĩa trực tiếp cho từ mô tả đặc tính nhanh đứng liền phía sau.</li>
+					<li className="list-none">Chức năng: Khối [unexPECtedly] - [ADjunct 1][PHỤ 1] đứng trước để biểu thị mức độ, tính chất bối cảnh và bổ nghĩa trực tiếp cho từ mô tả đặc tính nhanh đứng liền phía sau.</li>
 			
 				</ul>
 			
@@ -447,7 +447,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADjunct-2"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjunct-2"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -456,7 +456,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [to reFINE his LEADership STYLE] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [FULL inFINitive VERB][TOÀN NGUYÊN ĐỘNG] "to reFINE" kéo theo một cụm [NOUN PHRASE][DANH CỤM] làm thành phần bổ trợ.</li>
 			
-					<li className="list-none">Chức năng: Khối [to reFINE his LEADership STYLE] - [ADjunct][PHỤ] đứng cuối nhằm giải thích bối cảnh mục đích cho hành động tham gia được vận hành bởi [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "atTENDS".</li>
+					<li className="list-none">Chức năng: Khối [to reFINE his LEADership STYLE] - [ADjunct 2][PHỤ 2] đứng cuối nhằm giải thích bối cảnh mục đích cho hành động tham gia được vận hành bởi [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "atTENDS".</li>
 			
 				</ul>
 
@@ -541,7 +541,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADjunct-3"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjunct-3"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -550,7 +550,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [suBORdinate CLAUSE][PHỤ CÂU] bắt đầu bằng [conJUNCtion][LIÊN] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the QUAlity STANdard" và [THIRD-PERson SINGular VERB][NGÔI 3 S ĐỘNG] "imPROVES".</li>
 			
-					<li className="list-none">Chức năng: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [ADjunct][PHỤ] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] "will".</li>
+					<li className="list-none">Chức năng: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [ADjunct 3][PHỤ 3] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [asSERTive MOdal VERB][ÁP THÁI ĐỘNG] "will".</li>
 			
 				</ul>
 
@@ -739,7 +739,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [acCORDingly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "acCORD" mặc thêm (kết hợp) hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] bối cảnh độc lập.</li>
 			
-					<li className="list-none">Chức năng: Khối [acCORDingly] - [ADverb HEAD][TRẠNG LÕI] đứng biệt lập ở đầu câu để bổ nghĩa liên kết logic hệ quả cho toàn bộ nhận định phía sau.</li>
+					<li className="list-none">Chức năng: Khối [acCORDingly] - [ADjunct 1][PHỤ 1] đứng biệt lập ở đầu câu để bổ nghĩa liên kết logic hệ quả cho toàn bộ nhận định phía sau.</li>
 			
 				</ul>
 
