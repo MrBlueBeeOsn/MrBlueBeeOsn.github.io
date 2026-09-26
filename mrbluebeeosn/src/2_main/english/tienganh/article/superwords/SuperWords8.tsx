@@ -15,7 +15,7 @@ export default function SuperWords8(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[HEAD][PHRASE][CLAUSE]</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#SUBject-VERB-OBject-ADjunct"><mark className="highlight-tertiary-padding-4-8">[SUBject][VERB][OBject][ADjunct]</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">[SUper VERB]
 												

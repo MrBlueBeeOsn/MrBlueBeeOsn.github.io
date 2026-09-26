@@ -15,7 +15,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[HEAD][PHRASE][CLAUSE]</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#SUBject-VERB-OBject-ADjunct"><mark className="highlight-tertiary-padding-4-8">[SUBject][VERB][OBject][ADjunct]</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">[ADjective FUNCtion]
 												
@@ -61,7 +61,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#RELative-CLAUSE">RELative CLAUSE</HashLink>
+						<HashLink smooth to="#SUBject-CLAUSE-2">SUBject CLAUSE 2</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -434,7 +434,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center" id="RELative-CLAUSE">5. Chức năng [RELative CLAUSE][QUAN CÂU]</h3>
+			<h3 className="margin-y-50 text-center" id="SUBject CLAUSE-2">5. Chức năng [RELative CLAUSE][QUAN CÂU]</h3>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
 			

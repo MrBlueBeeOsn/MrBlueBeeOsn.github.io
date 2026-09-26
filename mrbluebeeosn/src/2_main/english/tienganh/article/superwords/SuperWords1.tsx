@@ -15,7 +15,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[HEAD][PHRASE][CLAUSE]</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#SUBject-VERB-OBject-ADjunct"><mark className="highlight-tertiary-padding-4-8">[SUBject][VERB][OBject][ADjunct]</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">[SUper VERB]
 												
@@ -62,7 +62,7 @@ export default function SuperWords1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADverb-HEAD">ADverb HEAD</HashLink>
+						<HashLink smooth to="#ADjunct-1">ADjunct 1</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -78,7 +78,7 @@ export default function SuperWords1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADverb-PHRASE">ADverb PHRASE</HashLink>
+						<HashLink smooth to="#ADjunct-2">ADjunct 2</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -90,11 +90,11 @@ export default function SuperWords1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#RELative-CLAUSE">RELative CLAUSE</HashLink>
+						<HashLink smooth to="#SUBject-CLAUSE-2">SUBject CLAUSE 2</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADjunct">ADjunct</HashLink>
+						<HashLink smooth to="#ADjunct-3">ADjunct 3</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -362,7 +362,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20" id="ADverb-HEAD"><strong>Ví dụ 3</strong>: [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
+			<p className="margin-top-20" id="ADjunct-1"><strong>Ví dụ 3</strong>: [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -426,7 +426,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20" id="ADverb-PHRASE"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+			<p className="margin-top-20" id="ADjunct-2"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -517,7 +517,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20" id="RELative-CLAUSE"><strong>Ví dụ 2</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
+			<p className="margin-top-20" id="SUBject CLAUSE-2"><strong>Ví dụ 2</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -531,7 +531,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20" id="ADjunct"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+			<p className="margin-top-20" id="ADjunct-3"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
 			
 				<ul className="list-square">
 			

@@ -33,7 +33,7 @@ export default function reSPOND(): React.JSX.Element {
             </span> &nbsp;
 
             <span className="highlight-255-padding-0-4 text-border">
-              <HashLink smooth to="#ADverb-HEAD">ADverb HEAD</HashLink>
+              <HashLink smooth to="#ADjunct-1">ADjunct 1</HashLink>
             </span> &nbsp;
 
           </p>
@@ -49,7 +49,7 @@ export default function reSPOND(): React.JSX.Element {
             </span> &nbsp;
 
             <span className="highlight-255-padding-0-4 text-border">
-              <HashLink smooth to="#ADverb-PHRASE">ADverb PHRASE</HashLink>
+              <HashLink smooth to="#ADjunct-2">ADjunct 2</HashLink>
             </span> &nbsp;
 
           </p>
@@ -61,11 +61,11 @@ export default function reSPOND(): React.JSX.Element {
             </span> &nbsp;
 
             <span className="highlight-255-padding-0-4 text-border">
-              <HashLink smooth to="#RELative-CLAUSE">RELative CLAUSE</HashLink>
+              <HashLink smooth to="#SUBject-CLAUSE-2">SUBject CLAUSE 2</HashLink>
             </span> &nbsp;
 
             <span className="highlight-255-padding-0-4 text-border">
-              <HashLink smooth to="#ADjunct">ADjunct</HashLink>
+              <HashLink smooth to="#ADjunct-3">ADjunct 3</HashLink>
             </span> &nbsp;
 
           </p>
@@ -251,7 +251,7 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADverb-HEAD"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="ADjunct-1"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 3: [reSPONsively] \re SPON sive ly\ /rɪˈspɒnsɪvli/</p>
       
@@ -436,7 +436,7 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADverb-PHRASE"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="ADjunct-2"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
 
 
       <p className="margin-top-20 text-indent-whole">[<strong>ADjunct</strong>][<strong>PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB PHRASE</strong>][<strong>HIỆN TIẾP ĐỘNG CỤM</strong>] <strong>có dấu phẩy</strong>:</p>
@@ -598,7 +598,7 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="RELative-CLAUSE"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="SUBject CLAUSE-2"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 10:</p>
       
@@ -614,7 +614,7 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADjunct"><strong>4.1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="ADjunct-3"><strong>4.1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11:</p>
       
