@@ -226,12 +226,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the arTIStic [creAtion] from the LOcal deSIGner imPRESSED the AUdience.</li>
-          <li className="margin-bottom-20 list-none">Tác phẩm [sáng tạo] từ nhà thiết kế địa phương đã làm ấn tượng khán giả.</li>
+          <li>[the arTIStic {'{creAtion}'} from the LOcal deSIGner] imPRESSED the AUdience.</li>
+          <li className="margin-bottom-20 list-none">[Tác phẩm {'{sáng tạo}'} từ nhà thiết kế địa phương] đã làm ấn tượng khán giả.</li>
       
-          <li className="list-none">Khối trong: [creAtion] - [MODified NOUN][DIỆN DANH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng định danh thực thể độc lập.</li>
+          <li className="list-none">Khối trong: {'{creAtion}'} - {'{MODified NOUN}'}{'{DIỆN DANH}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [SUBject][CHỦ] định danh thực thể độc lập. [NOUN HEAD][DANH LÕI] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
       
-          <li className="list-none">Khối ngoài: [creAtion] - [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+          <li className="list-none">Khối ngoài: [the arTIStic {'{creAtion}'} from the LOcal deSIGner] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -242,12 +242,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIres a [creAtive] TEAM.</li>
-          <li className="margin-bottom-20 list-none">Mỗi bộ phận thiết kế sản phẩm đều yêu cầu một đội ngũ [có tính sáng tạo].</li>
+          <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIres [a {'{creAtive}'} TEAM].</li>
+          <li className="margin-bottom-20 list-none">Mỗi bộ phận thiết kế sản phẩm đều yêu cầu [một đội ngũ {'{có tính sáng tạo}'}].</li>
       
-          <li className="list-none">Khối trong: [creAtive] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả tính chất đặc điểm.</li>
+          <li className="list-none">Khối trong: {'{creAtive}'} - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm. [ADjective HEAD][TÍNH LÕI] kích hoạt bộ quét đặt ngay trước đối tượng [OBject HEAD][TÂN LÕI] "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
       
-          <li className="list-none">Khối ngoài: [creAtive] - [ADjective HEAD][TÍNH LÕI] kích hoạt bộ quét đặt ngay trước đối tượng [OBject HEAD][TÂN LÕI] "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Khối ngoài: [a {'{creAtive}'} TEAM] - [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -258,12 +258,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the ARtist SOLVED the PROBlem [creAtively] during the PROject.</li>
-          <li className="margin-bottom-20 list-none">Nghệ sĩ đã giải quyết vấn đề [một cách sáng tạo] trong suốt dự án.</li>
+          <li>the ARtist SOLVED the PROBlem [{'{creAtively}'} {'{during the PROject}'}].</li>
+          <li className="margin-bottom-20 list-none">Nghệ sĩ đã giải quyết vấn đề [{'{một cách sáng tạo}'} {'{trong suốt dự án}'}].</li>
       
-          <li className="list-none">Khối trong: [creAtively] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
+          <li className="list-none">Khối trong: {'{creAtively}'} - {'{MODified ADVERB}'}{'{DIỆN TRẠNG}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
       
-          <li className="list-none">Khối ngoài: [creAtively] - [ADjunct 1][PHỤ 1] làm thành phần bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "SOLVED" để xác định cách thức diễn ra.</li>
+          <li className="list-none">Khối ngoài: [{'{creAtively}'} {'{during the PROject}'}] - [ADjunct 1][PHỤ 1] và [ADjunct 2][PHỤ 2] làm thành phần bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "SOLVED" để xác định cách thức diễn ra.</li>
       
         </ul>
 
@@ -993,12 +993,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the STUdio HIred a [creAtive] TEAM.</li>
+          <li>the STUdio HIred [a {'{creAtive}'} TEAM].</li>
           <li className="margin-bottom-20 list-none">Xưởng phim đã thuê một đội ngũ [sáng tạo].</li>
       
-          <li className="list-none">Khối trong mới: [creAtive] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
+          <li className="list-none">Khối trong mới: {'{creAtive}'} - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng [OBject HEAD][TÂN LÕI] "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
-          <li className="list-none">Khối ngoài mới: [creAtive] - [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng [OBject HEAD][TÂN LÕI] "TEAM". để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Khối ngoài mới: [a {'{creAtive}'} TEAM] - [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
 

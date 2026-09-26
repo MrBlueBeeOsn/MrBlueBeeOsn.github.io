@@ -225,12 +225,12 @@ export default function reSPOND(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the RAPid [reSPONSE] from the supPORT TEAM imPRESSED the CUStomers.</li>
-          <li className="margin-bottom-20 list-none">Sự [phản hồi] nhanh chóng từ đội ngũ hỗ trợ đã làm ấn tượng các khách hàng.</li>
+          <li>[the RAPid {'{reSPONSE}'} from the supPORT TEAM] imPRESSED the CUStomers.</li>
+          <li className="margin-bottom-20 list-none">[Sự {'{phản hồi}'} nhanh chóng từ đội ngũ hỗ trợ] đã làm ấn tượng các khách hàng.</li>
       
-          <li className="list-none">Khối trong: [reSPONSE] - [MODified NOUN][DIỆN DANH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "reSPOND" biến đổi cấu trúc đuôi "-se" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng định danh thực thể độc lập.</li>
+          <li className="list-none">Khối trong: {'{reSPONSE}'} - {'{MODified NOUN}'}{'{DIỆN DANH}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "reSPOND" biến đổi cấu trúc đuôi "-se" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [SUBject][CHỦ] định danh  thực thể độc lập. [SUBject HEAD][CHỦ LÕI] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
       
-          <li className="list-none">Khối ngoài: [reSPONSE] - [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+          <li className="list-none">Khối ngoài: [the RAPid {'{reSPONSE}'} from the supPORT TEAM] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -241,12 +241,12 @@ export default function reSPOND(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li><strong>ever</strong>y CUStomer SERvice dePARTment reQUIres a [reSPONsive] TEAM.</li>
-          <li className="margin-bottom-20 list-none">Mỗi bộ phận dịch vụ khách hàng đều yêu cầu một đội ngũ [có độ phản hồi tốt/nhanh nhạy].</li>
+          <li><strong>ever</strong>y CUStomer SERvice dePARTment reQUIres [a {'{reSPONsive}'} TEAM].</li>
+          <li className="margin-bottom-20 list-none">Mỗi bộ phận dịch vụ khách hàng đều yêu cầu [một đội ngũ {'{có độ phản hồi tốt/nhanh nhạy}'}].</li>
       
-          <li className="list-none">Khối trong: [reSPONsive] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "reSPOND" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả tính chất đặc điểm.</li>
+          <li className="list-none">Khối trong: {'{reSPONsive}'} - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "reSPOND" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm. [ADjective HEAD][TÍNH LÕI] kích hoạt bộ quét đặt ngay trước đối tượng [OBject HEAD][TÂN LÕI] "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
       
-          <li className="list-none">Khối ngoài: [reSPONsive] - [ADjective HEAD][TÍNH LÕI] kích hoạt bộ quét đặt ngay trước đối tượng [OBject HEAD][TÂN LÕI] "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Khối ngoài: [a {'{reSPONsive}'} TEAM] - [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -257,12 +257,12 @@ export default function reSPOND(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the SYStem SOLVED the QUEry [reSPONsively] during the TEST.</li>
-          <li className="margin-bottom-20 list-none">Hệ thống đã giải quyết truy vấn [một cách nhanh nhạy] trong suốt bài kiểm tra.</li>
+          <li>the SYStem SOLVED the QUEry [{'{reSPONsively}'} {'{during the TEST}'}].</li>
+          <li className="margin-bottom-20 list-none">Hệ thống đã giải quyết truy vấn [{'{một cách nhanh nhạy}'} {'{trong suốt bài kiểm tra}'}].</li>
       
-          <li className="list-none">Khối trong: [reSPONsively] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "reSPOND" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
+          <li className="list-none">Khối trong: {'{reSPONsively}'} - {'{MODified ADVERB}'}{'{DIỆN TRẠNG}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "reSPOND" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
       
-          <li className="list-none">Khối ngoài: [reSPONsively] - [ADjunct 1][PHỤ 1] làm thành phần bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "SOLVED" để xác định cách thức diễn ra.</li>
+          <li className="list-none">Khối ngoài: [{'{reSPONsively}'} {'{during the TEST}'}] - [ADjunct 1][PHỤ 1] và [ADjunct 2][PHỤ 2] làm thành phần bổ nghĩa cho hành động [PAST VERB][ĐÃ ĐỘNG] "SOLVED" để xác định cách thức diễn ra.</li>
       
         </ul>
 
@@ -994,7 +994,7 @@ export default function reSPOND(): React.JSX.Element {
           <li>the FIRM HIred a [reSPONsive] SERvice.</li>
           <li className="margin-bottom-20 list-none">Công ty đã thuê một dịch vụ [có độ phản hồi nhanh nhạy/linh hoạt].</li>
       
-          <li className="list-none">Khối trong mới: [reSPONsive] - [MODified ADjective][DIỆN TÍNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
+          <li className="list-none">Khối trong mới: [reSPONsive] - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
       
           <li className="list-none">Khối ngoài mới: [reSPONsive] - [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng [OBject HEAD][TÂN LÕI] "SERvice" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
