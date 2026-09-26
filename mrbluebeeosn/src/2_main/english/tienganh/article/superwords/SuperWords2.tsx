@@ -96,9 +96,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is fun.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] thì vui.</li>
 			
-					<li className="list-none">Hình thái: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
+					<li className="list-none">Khối trong: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
-					<li className="list-none">Chức năng: [Swimming] - [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, chỉ một hoạt động.</li>
+					<li className="list-none">Khối ngoài: [Swimming] - [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, chỉ một hoạt động.</li>
 			
 				</ul>
 			
@@ -110,9 +110,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is harmful.</li>
 					<li className="margin-bottom-20 list-none">[Hút thuốc] có hại.</li>
 			
-					<li className="list-none">Hình thái: [Smoking] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
+					<li className="list-none">Khối trong: [Smoking] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
-					<li className="list-none">Chức năng: [Smoking] - [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, chỉ một thói quen.</li>
+					<li className="list-none">Khối ngoài: [Smoking] - [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, chỉ một thói quen.</li>
 			
 				</ul>
 			
@@ -127,9 +127,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>That is an [______] movie.</li>
 					<li className="margin-bottom-20 list-none">Đó là một bộ phim [thú vị].</li>
 			
-					<li className="list-none">Hình thái: [exciting] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản dạng -ing.</li>
+					<li className="list-none">Khối trong: [exciting] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản dạng -ing.</li>
 			
-					<li className="list-none">Chức năng: [exciting] - [ADjective HEAD][TÍNH LÕI] bổ sung ý nghĩa cho movie.</li>
+					<li className="list-none">Khối ngoài: [exciting] - [ADjective HEAD][TÍNH LÕI] bổ sung ý nghĩa cho movie.</li>
 			
 				</ul>
 			
@@ -141,9 +141,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The [______] window needs repair.</li>
 					<li className="margin-bottom-20 list-none">Cái cửa sổ [vỡ] cần sửa.</li>
 			
-					<li className="list-none">Hình thái: [broken] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "break" mặc thêm hậu tố "-ed" ở dạng cột 3 để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [broken] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "break" mặc thêm hậu tố "-ed" ở dạng cột 3 để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [broken] - [ADjective HEAD][TÍNH LÕI] miêu tả trạng thái của cửa sổ.</li>
+					<li className="list-none">Khối ngoài: [broken] - [ADjective HEAD][TÍNH LÕI] miêu tả trạng thái của cửa sổ.</li>
 			
 				</ul>
 			
@@ -158,9 +158,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He runs [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy chạy [nhanh].</li>
 			
-					<li className="list-none">Hình thái: [quickly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "quick" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [quickly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "quick" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [quickly] - [ADjunct 1][PHỤ 1] bổ sung cách thức cho runs.</li>
+					<li className="list-none">Khối ngoài: [quickly] - [ADjunct 1][PHỤ 1] bổ sung cách thức cho runs.</li>
 			
 				</ul>
 			
@@ -172,9 +172,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>She speaks [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy nói [nhẹ nhàng].</li>
 			
-					<li className="list-none">Hình thái: [softly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "soft" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [softly] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "soft" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [softly] - [ADjunct 1][PHỤ 1] bổ sung cách thức cho speaks.</li>
+					<li className="list-none">Khối ngoài: [softly] - [ADjunct 1][PHỤ 1] bổ sung cách thức cho speaks.</li>
 			
 				</ul>
 
@@ -197,9 +197,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] takes time.</li>
 					<li className="margin-bottom-20 list-none">[Học một ngôn ngữ mới] cần thời gian.</li>
 			
-					<li className="list-none">Hình thái: [To learn a new language] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
+					<li className="list-none">Khối trong: [To learn a new language] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
 			
-					<li className="list-none">Chức năng: [To learn a new language] - [NOUN PHRASE][DANH CỤM] đứng đầu câu, chỉ một việc.</li>
+					<li className="list-none">Khối ngoài: [To learn a new language] - [NOUN PHRASE][DANH CỤM] đứng đầu câu, chỉ một việc.</li>
 			
 				</ul>
 			
@@ -211,9 +211,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is good for health.</li>
 					<li className="margin-bottom-20 list-none">[Dậy sớm] tốt cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [Getting up early] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] dạng V-ing.</li>
+					<li className="list-none">Khối trong: [Getting up early] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] dạng V-ing.</li>
 			
-					<li className="list-none">Chức năng: [Getting up early] - [NOUN PHRASE][DANH CỤM] đứng đầu câu, chỉ một thói quen.</li>
+					<li className="list-none">Khối ngoài: [Getting up early] - [NOUN PHRASE][DANH CỤM] đứng đầu câu, chỉ một thói quen.</li>
 			
 				</ul>
 			
@@ -228,9 +228,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The baby is [______].</li>
 					<li className="margin-bottom-20 list-none">Em bé đang [ngủ yên bình].</li>
 			
-					<li className="list-none">Hình thái: [sleeping peacefully] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] gồm hành động chính sleeping và trạng cụm peacefully.</li>
+					<li className="list-none">Khối trong: [sleeping peacefully] - [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] gồm hành động chính sleeping và trạng cụm peacefully.</li>
 			
-					<li className="list-none">Chức năng: [sleeping peacefully] - [ADjective PHRASE][TÍNH CỤM] miêu tả trạng thái của the baby.</li>
+					<li className="list-none">Khối ngoài: [sleeping peacefully] - [ADjective PHRASE][TÍNH CỤM] miêu tả trạng thái của the baby.</li>
 			
 				</ul>
 			
@@ -242,9 +242,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>She seems [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có vẻ [mệt].</li>
 			
-					<li className="list-none">Hình thái: [to be tired] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
+					<li className="list-none">Khối trong: [to be tired] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
 			
-					<li className="list-none">Chức năng: [to be tired] - [ADjective PHRASE][TÍNH CỤM] bổ sung cho she.</li>
+					<li className="list-none">Khối ngoài: [to be tired] - [ADjective PHRASE][TÍNH CỤM] bổ sung cho she.</li>
 			
 				</ul>
 			
@@ -259,9 +259,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He works hard [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy làm việc chăm chỉ [để kiếm tiền].</li>
 			
-					<li className="list-none">Hình thái: [to earn money] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V chỉ mục đích.</li>
+					<li className="list-none">Khối trong: [to earn money] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V chỉ mục đích.</li>
 			
-					<li className="list-none">Chức năng: [to earn money] - [ADjunct][PHỤ] bổ sung mục đích cho works hard.</li>
+					<li className="list-none">Khối ngoài: [to earn money] - [ADjunct][PHỤ] bổ sung mục đích cho works hard.</li>
 			
 				</ul>
 			
@@ -273,9 +273,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>She left [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy rời đi [để bắt xe buýt].</li>
 			
-					<li className="list-none">Hình thái: [to catch the bus] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
+					<li className="list-none">Khối trong: [to catch the bus] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
 			
-					<li className="list-none">Chức năng: [to catch the bus] - [ADjunct][PHỤ] bổ sung mục đích cho left.</li>
+					<li className="list-none">Khối ngoài: [to catch the bus] - [ADjunct][PHỤ] bổ sung mục đích cho left.</li>
 			
 				</ul>
 			
@@ -297,9 +297,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] shocked me.</li>
 					<li className="margin-bottom-20 list-none">[Những gì cô ấy nói] làm tôi sốc.</li>
 			
-					<li className="list-none">Hình thái: [What she said] - [suBORdinate CLAUSE][PHỤ CÂU] có she và said.</li>
+					<li className="list-none">Khối trong: [What she said] - [suBORdinate CLAUSE][PHỤ CÂU] có she và said.</li>
 			
-					<li className="list-none">Chức năng: [What she said] - [NOUN CLAUSE][DANH CÂU] đứng đầu câu, chỉ một nội dung.</li>
+					<li className="list-none">Khối ngoài: [What she said] - [NOUN CLAUSE][DANH CÂU] đứng đầu câu, chỉ một nội dung.</li>
 			
 				</ul>
 			
@@ -311,9 +311,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>I believe [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [rằng bạn đúng].</li>
 			
-					<li className="list-none">Hình thái: [that you are right] - [suBORdinate CLAUSE][PHỤ CÂU] có you và are.</li>
+					<li className="list-none">Khối trong: [that you are right] - [suBORdinate CLAUSE][PHỤ CÂU] có you và are.</li>
 			
-					<li className="list-none">Chức năng: [that you are right] - [NOUN CLAUSE][DANH CÂU] làm đối tượng cho believe.</li>
+					<li className="list-none">Khối ngoài: [that you are right] - [NOUN CLAUSE][DANH CÂU] làm đối tượng cho believe.</li>
 			
 				</ul>
 			
@@ -328,9 +328,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The man [______] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [đã giúp tôi] là bạn tôi.</li>
 			
-					<li className="list-none">Hình thái: [who helped me] - [suBORdinate CLAUSE][PHỤ CÂU] có who và helped.</li>
+					<li className="list-none">Khối trong: [who helped me] - [suBORdinate CLAUSE][PHỤ CÂU] có who và helped.</li>
 			
-					<li className="list-none">Chức năng: [who helped me] - [ADjective CLAUSE][TÍNH CÂU] bổ sung cho the man.</li>
+					<li className="list-none">Khối ngoài: [who helped me] - [ADjective CLAUSE][TÍNH CÂU] bổ sung cho the man.</li>
 			
 				</ul>
 			
@@ -342,9 +342,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The book [______] is great.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [mà tôi mượn] rất hay.</li>
 			
-					<li className="list-none">Hình thái: [that I borrowed] - [suBORdinate CLAUSE][PHỤ CÂU] có I và borrowed.</li>
+					<li className="list-none">Khối trong: [that I borrowed] - [suBORdinate CLAUSE][PHỤ CÂU] có I và borrowed.</li>
 			
-					<li className="list-none">Chức năng: [that I borrowed] - [ADjective CLAUSE][TÍNH CÂU] bổ sung cho the book.</li>
+					<li className="list-none">Khối ngoài: [that I borrowed] - [ADjective CLAUSE][TÍNH CÂU] bổ sung cho the book.</li>
 			
 				</ul>
 			
@@ -359,9 +359,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______], we stayed home.</li>
 					<li className="margin-bottom-20 list-none">[Vì trời mưa], chúng tôi ở nhà.</li>
 			
-					<li className="list-none">Hình thái: [Because it rained] - [suBORdinate CLAUSE][PHỤ CÂU] có it và rained.</li>
+					<li className="list-none">Khối trong: [Because it rained] - [suBORdinate CLAUSE][PHỤ CÂU] có it và rained.</li>
 			
-					<li className="list-none">Chức năng: [Because it rained] - [ADjunct][PHỤ] chỉ nguyên nhân cho stayed home</li>
+					<li className="list-none">Khối ngoài: [Because it rained] - [ADjunct][PHỤ] chỉ nguyên nhân cho stayed home</li>
 			
 				</ul>
 			
@@ -373,9 +373,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______], call me.</li>
 					<li className="margin-bottom-20 list-none">[Khi bạn đến], hãy gọi tôi.</li>
 			
-					<li className="list-none">Hình thái: [When you arrive] - [suBORdinate CLAUSE][PHỤ CÂU] có you và arrive.</li>
+					<li className="list-none">Khối trong: [When you arrive] - [suBORdinate CLAUSE][PHỤ CÂU] có you và arrive.</li>
 			
-					<li className="list-none">Chức năng: [When you arrive] - [ADjunct][PHỤ] chỉ thời gian cho call me.</li>
+					<li className="list-none">Khối ngoài: [When you arrive] - [ADjunct][PHỤ] chỉ thời gian cho call me.</li>
 			
 				</ul>
 			
@@ -435,9 +435,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] thì tốt cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
+					<li className="list-none">Khối trong: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
-					<li className="list-none">Chức năng: [Swimming] - [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, chỉ một hoạt động.</li>
+					<li className="list-none">Khối ngoài: [Swimming] - [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, chỉ một hoạt động.</li>
 			
 				</ul>
 			
@@ -449,9 +449,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Bơi mỗi ngày] thì tốt cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [To swim every day] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
+					<li className="list-none">Khối trong: [To swim every day] - [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng to-V.</li>
 			
-					<li className="list-none">Chức năng: [To swim every day] - [NOUN PHRASE][DANH CỤM] đứng đầu câu, chỉ một việc.</li>
+					<li className="list-none">Khối ngoài: [To swim every day] - [NOUN PHRASE][DANH CỤM] đứng đầu câu, chỉ một việc.</li>
 			
 				</ul>
 			
@@ -463,9 +463,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Việc bạn bơi thường xuyên] thì tốt cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [That you swim regularly] - [suBORdinate CLAUSE][PHỤ CÂU] có you và swim.</li>
+					<li className="list-none">Khối trong: [That you swim regularly] - [suBORdinate CLAUSE][PHỤ CÂU] có you và swim.</li>
 			
-					<li className="list-none">Chức năng: [That you swim regularly] - [NOUN CLAUSE][DANH CÂU] đứng đầu câu, chỉ một sự việc.</li>
+					<li className="list-none">Khối ngoài: [That you swim regularly] - [NOUN CLAUSE][DANH CÂU] đứng đầu câu, chỉ một sự việc.</li>
 			
 				</ul>
 			
@@ -482,9 +482,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The movie is [______].</li>
 					<li className="margin-bottom-20 list-none">Bộ phim thì [thú vị].</li>
 			
-					<li className="list-none">Hình thái: [exciting] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản dạng -ing.</li>
+					<li className="list-none">Khối trong: [exciting] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản dạng -ing.</li>
 			
-					<li className="list-none">Chức năng: [exciting] - [ADjective HEAD][TÍNH LÕI] miêu tả the movie.</li>
+					<li className="list-none">Khối ngoài: [exciting] - [ADjective HEAD][TÍNH LÕI] miêu tả the movie.</li>
 			
 				</ul>
 			
@@ -496,9 +496,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The movie is [______].</li>
 					<li className="margin-bottom-20 list-none">Bộ phim thì [rất thú vị].</li>
 			
-					<li className="list-none">Hình thái: [really exciting] - [ADjective PHRASE][TÍNH CỤM] gồm ADverb really và ADjective exciting.</li>
+					<li className="list-none">Khối trong: [really exciting] - [ADjective PHRASE][TÍNH CỤM] gồm ADverb really và ADjective exciting.</li>
 			
-					<li className="list-none">Chức năng: [really exciting] - [ADjective PHRASE][TÍNH CỤM] miêu tả the movie.</li>
+					<li className="list-none">Khối ngoài: [really exciting] - [ADjective PHRASE][TÍNH CỤM] miêu tả the movie.</li>
 			
 				</ul>
 			
@@ -510,9 +510,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The movie is [______].</li>
 					<li className="margin-bottom-20 list-none">Bộ phim là [điều mọi người gọi là thú vị].</li>
 			
-					<li className="list-none">Hình thái: [what everyone calls exciting] - [suBORdinate CLAUSE][PHỤ CÂU] có everyone và calls.</li>
+					<li className="list-none">Khối trong: [what everyone calls exciting] - [suBORdinate CLAUSE][PHỤ CÂU] có everyone và calls.</li>
 			
-					<li className="list-none">Chức năng: [what everyone calls exciting] - [ADjective CLAUSE][TÍNH CÂU] miêu tả the movie.</li>
+					<li className="list-none">Khối ngoài: [what everyone calls exciting] - [ADjective CLAUSE][TÍNH CÂU] miêu tả the movie.</li>
 			
 				</ul>
 			
@@ -529,9 +529,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He drives [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [cẩn thận].</li>
 			
-					<li className="list-none">Hình thái: [carefully] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "care" mặc thêm hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [carefully] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "care" mặc thêm hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [carefully] - [ADjunct 1][PHỤ 1] bổ sung cách thức cho drives.</li>
+					<li className="list-none">Khối ngoài: [carefully] - [ADjunct 1][PHỤ 1] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			
@@ -543,9 +543,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He drives [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [với sự cẩn thận lớn].</li>
 			
-					<li className="list-none">Hình thái: [with great care] - [ADjunct][PHỤ] dạng giới từ cụm.</li>
+					<li className="list-none">Khối trong: [with great care] - [ADjunct][PHỤ] dạng giới từ cụm.</li>
 			
-					<li className="list-none">Chức năng: [with great care] - [ADjunct][PHỤ] bổ sung cách thức cho drives.</li>
+					<li className="list-none">Khối ngoài: [with great care] - [ADjunct][PHỤ] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			
@@ -557,9 +557,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He drives [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [như thể đang thi].</li>
 			
-					<li className="list-none">Hình thái: [as if he were taking a test] - [suBORdinate CLAUSE][PHỤ CÂU] có he và were taking.</li>
+					<li className="list-none">Khối trong: [as if he were taking a test] - [suBORdinate CLAUSE][PHỤ CÂU] có he và were taking.</li>
 			
-					<li className="list-none">Chức năng: [as if he were taking a test] - [ADjunct][PHỤ] bổ sung cách thức cho drives.</li>
+					<li className="list-none">Khối ngoài: [as if he were taking a test] - [ADjunct][PHỤ] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			

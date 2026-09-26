@@ -88,9 +88,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>[Swimming] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] thì tốt cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [Swimming] – [NOUN HEAD][DANH LÕI] đứng ở vị trí chỉ toàn bộ sự việc làm trung tâm cho câu</li>
+					<li className="list-none">Khối ngoài: [Swimming] – [NOUN HEAD][DANH LÕI] đứng ở vị trí chỉ toàn bộ sự việc làm trung tâm cho câu</li>
 			
 				</ul>
 
@@ -102,9 +102,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She wants [to learn English].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy muốn [học tiếng Anh].</li>
 			
-					<li className="list-none">Hình thái: [to learn English] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [ĐỘNG] ở dạng nguyên mẫu có to</li>
+					<li className="list-none">Khối trong: [to learn English] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [ĐỘNG] ở dạng nguyên mẫu có to</li>
 			
-					<li className="list-none">Chức năng: [to learn English] – [NOUN PHRASE][DANH CỤM] nhận tác động từ Head wants</li>
+					<li className="list-none">Khối ngoài: [to learn English] – [NOUN PHRASE][DANH CỤM] nhận tác động từ Head wants</li>
 			
 				</ul>
 
@@ -116,9 +116,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>I remember [what you told me].</li>
 					<li className="margin-bottom-20 list-none">Tôi nhớ [những gì bạn đã nói với tôi].</li>
 			
-					<li className="list-none">Hình thái: [what you told me] – [conJUNCtional CLAUSE][LIÊN CÂU] có you làm trung tâm và [ĐỘNG] told</li>
+					<li className="list-none">Khối trong: [what you told me] – [conJUNCtional CLAUSE][LIÊN CÂU] có you làm trung tâm và [ĐỘNG] told</li>
 			
-					<li className="list-none">Chức năng: [what you told me] – [NOUN CLAUSE][DANH CÂU] làm phần được remember tác động đến</li>
+					<li className="list-none">Khối ngoài: [what you told me] – [NOUN CLAUSE][DANH CÂU] làm phần được remember tác động đến</li>
 			
 				</ul>
 
@@ -135,9 +135,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She has a [sparkling] personality.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một tính cách [lấp lánh].</li>
 			
-					<li className="list-none">Hình thái: [sparkling] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [sparkling] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [sparkling] – [ADjective HEAD][TÍNH LÕI] bổ sung ý nghĩa cho [DANH] personality</li>
+					<li className="list-none">Khối ngoài: [sparkling] – [ADjective HEAD][TÍNH LÕI] bổ sung ý nghĩa cho [DANH] personality</li>
 			
 				</ul>
 
@@ -149,9 +149,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>The soup tastes [absolutely delicious].</li>
 					<li className="margin-bottom-20 list-none">Món súp có vị [ngon tuyệt].</li>
 			
-					<li className="list-none">Hình thái: [absolutely delicious] – [ADjective PHRASE][TÍNH CỤM] gồm [TRẠNG] absolutely và [TÍNH] delicious</li>
+					<li className="list-none">Khối trong: [absolutely delicious] – [ADjective PHRASE][TÍNH CỤM] gồm [TRẠNG] absolutely và [TÍNH] delicious</li>
 			
-					<li className="list-none">Chức năng: [absolutely delicious] – [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái của The soup sau Head tastes</li>
+					<li className="list-none">Khối ngoài: [absolutely delicious] – [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái của The soup sau Head tastes</li>
 			
 				</ul>
 
@@ -163,9 +163,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>The laptop [that I bought yesterday] is already broken.</li>
 					<li className="margin-bottom-20 list-none">Chiếc máy tính [mà tôi đã mua hôm qua] thì đã hỏng.</li>
 			
-					<li className="list-none">Hình thái: [that I bought yesterday] – [conJUNCtional CLAUSE][LIÊN CÂU] có I và [ĐỘNG] bought</li>
+					<li className="list-none">Khối trong: [that I bought yesterday] – [conJUNCtional CLAUSE][LIÊN CÂU] có I và [ĐỘNG] bought</li>
 			
-					<li className="list-none">Chức năng: [that I bought yesterday] – [ADjective CLAUSE][TÍNH CÂU] bổ sung thông tin cho [DANH] The laptop</li>
+					<li className="list-none">Khối ngoài: [that I bought yesterday] – [ADjective CLAUSE][TÍNH CÂU] bổ sung thông tin cho [DANH] The laptop</li>
 			
 				</ul>
 
@@ -182,9 +182,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He answered [politely].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [một cách lịch sự].</li>
 			
-					<li className="list-none">Hình thái: [politely] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [politely] - [MODified ADVERB][DIỆN TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Chức năng: [politely] – [ADverb HEAD][TRẠNG LÕI] làm rõ cách thức cho [ĐỘNG] answered</li>
+					<li className="list-none">Khối ngoài: [politely] – [ADverb HEAD][TRẠNG LÕI] làm rõ cách thức cho [ĐỘNG] answered</li>
 			
 				</ul>
 
@@ -198,9 +198,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She studies [to pass the exam].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy học [để vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Hình thái: [to pass the exam] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] nguyên mẫu chỉ mục đích</li>
+					<li className="list-none">Khối trong: [to pass the exam] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] nguyên mẫu chỉ mục đích</li>
 			
-					<li className="list-none">Chức năng: [to pass the exam] – [ADjunct][PHỤ] bổ nghĩa cho việc studies nêu mục đích</li>
+					<li className="list-none">Khối ngoài: [to pass the exam] – [ADjunct][PHỤ] bổ nghĩa cho việc studies nêu mục đích</li>
 			
 				</ul>
 
@@ -212,9 +212,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>I will stay home [because it is raining].</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ ở nhà [bởi vì trời đang mưa].</li>
 			
-					<li className="list-none">Hình thái: [because it is raining] – [conJUNCtional CLAUSE][LIÊN CÂU] có it và [ĐỘNG] is raining</li>
+					<li className="list-none">Khối trong: [because it is raining] – [conJUNCtional CLAUSE][LIÊN CÂU] có it và [ĐỘNG] is raining</li>
 			
-					<li className="list-none">Chức năng: [because it is raining] – [ADjunct][PHỤ] giải thích nguyên nhân cho hành động will stay home</li>
+					<li className="list-none">Khối ngoài: [because it is raining] – [ADjunct][PHỤ] giải thích nguyên nhân cho hành động will stay home</li>
 			
 				</ul>
 		
@@ -232,11 +232,11 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He [forgot {'{that she needed the document}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [đã quên {'{rằng cô ấy cần tài liệu}'}].</li>
 			
-					<li className="list-none">Hình thái tổng thể: [forgot {'{that she needed the document}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] tầng ngoài [PAST VERB][ĐÃ ĐỘNG] forgot</li>
+					<li className="list-none">Khối trong tổng thể: [forgot {'{that she needed the document}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] tầng ngoài [PAST VERB][ĐÃ ĐỘNG] forgot</li>
 					<li className="margin-bottom-20 list-none">Hình thái bên trong: {'{that she needed the document}'} – [conJUNCtional CLAUSE][LIÊN CÂU][conJUNCtional CLAUSE][LIÊN CÂU] tầng trong</li>
 
-					<li className="list-none">Chức năng của khối trong: {'{that she needed the document}'} – [NOUN CLAUSE][DANH CÂU]</li>
-					<li className="list-none">Chức năng của khối ngoài: [forgot {'{that she needed the document}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ là khối mở rộng sau He</li>
+					<li className="list-none">Khối ngoài của khối trong: {'{that she needed the document}'} – [NOUN CLAUSE][DANH CÂU]</li>
+					<li className="list-none">Khối ngoài của khối ngoài: [forgot {'{that she needed the document}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ là khối mở rộng sau He</li>
 			
 				</ul>
 			
