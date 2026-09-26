@@ -86,29 +86,29 @@ export default function GrammarIndex(): React.JSX.Element {
       </div>
 
       <div className="flex-container margin-top-20">
+                    
+        {/* =============================
+            NOUNS
+        ============================= */}
 
         <div className="sub-box">
-        
-          {/* =============================
-              Grammar Terms
-          ============================= */}
+      
+          <p id="Modern-Grammar"><mark className="highlight-secondary-padding-2-4">Modern Grammar</mark></p>
 
           <ul className="list-border1">
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/what-is-an-adverb?">Adverb</Link>&nbsp;
-                <Link to="/grammar/what-is-a-verb?">Verb</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/what-is-an-adjective?">Adjective</Link>&nbsp;
-                <Link to="/grammar/what-is-a-noun?">Noun</Link>
+                <Link to="/grammar/shifting-to-modern-grammar">Shifting to Modern Grammar</Link>
               </div>
             </li>
             
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/rethinking-the-preposition-phrase">Rethinking the Preposition Phrase</Link>
+              </div>
+            </li>
+
           </ul>
 
         </div>
@@ -120,10 +120,10 @@ export default function GrammarIndex(): React.JSX.Element {
           ============================= */}
 
           <ul className="list-border1">
-
+            
             <li>
               <div className="li-content">
-                <Link to="/grammar/ the-6-element-formula">The 6-Element Formula</Link>
+                <Link to="/grammar/the-6-element-formula">The 6-Element Formula</Link>
               </div>
             </li>
             
@@ -154,6 +154,40 @@ export default function GrammarIndex(): React.JSX.Element {
           </ul>
 
         </div>
+
+      
+      </div>
+      
+
+      <div className="flex-container margin-top-20">
+
+        <div className="sub-box">
+        
+          {/* =============================
+              Grammar Terms
+          ============================= */}
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/what-is-an-adverb?">Adverb</Link>&nbsp;
+                <Link to="/grammar/what-is-a-verb?">Verb</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/what-is-an-adjective?">Adjective</Link>&nbsp;
+                <Link to="/grammar/what-is-a-noun?">Noun</Link>
+              </div>
+            </li>
+            
+          </ul>
+
+        </div>
+
+        
 
 
       </div>
