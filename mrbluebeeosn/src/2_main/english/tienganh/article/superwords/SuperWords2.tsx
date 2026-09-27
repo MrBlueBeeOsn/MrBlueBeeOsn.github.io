@@ -70,7 +70,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 			<p className="margin-top-20">Mỗi đơn vị khi xuất hiện đều có một <strong>Hình thái</strong> (hình dáng bên ngoài) và một <strong>Chức năng</strong> (việc nó làm).</p>
 
-			<p>Hình thái thường bắt nguồn từ [<strong>VERB HEAD</strong>][<strong>ĐỘNG LÕI</strong>], [<strong>VERB PHRASE</strong>][<strong>ĐỘNG CỤM</strong>] hoặc <strong>Liên Câu</strong> [<strong>conJUNCtion</strong>].</p>
+			<p>Hình thái thường bắt nguồn từ [<strong>PREDicator HEAD</strong>][<strong>VỊ LÕI</strong>], [<strong>VERB PHRASE</strong>][<strong>ĐỘNG CỤM</strong>] hoặc <strong>Liên Câu</strong> [<strong>conJUNCtion</strong>].</p>
 
 			<p>Sau khi xác định Hình thái, bạn nhìn vào vị trí của nó trong câu lớn để biết Chức năng: <strong>Danh</strong>, <strong>Tính</strong> hay <strong>Trạng</strong>.</p>
 
@@ -84,7 +84,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">I. Cấp độ CƠ – một đơn vị duy nhất</h3>
 
-			<p>Một [<strong>VERB HEAD</strong>][<strong>ĐỘNG LÕI</strong>] có thể làm ba việc.</p>
+			<p>Một [<strong>PREDicator HEAD</strong>][<strong>VỊ LÕI</strong>] có thể làm ba việc.</p>
 
 
 			<h4 className="margin-y-40">1. [NOUN HEAD][DANH LÕI]</h4>
@@ -96,7 +96,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is fun.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] thì vui.</li>
 			
-					<li className="list-none">Khối trong: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
+					<li className="list-none">Khối trong: [Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
 					<li className="list-none">Khối ngoài: [Swimming] - [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, chỉ một hoạt động.</li>
 			
@@ -110,7 +110,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is harmful.</li>
 					<li className="margin-bottom-20 list-none">[Hút thuốc] có hại.</li>
 			
-					<li className="list-none">Khối trong: [Smoking] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
+					<li className="list-none">Khối trong: [Smoking] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
 					<li className="list-none">Khối ngoài: [Smoking] - [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, chỉ một thói quen.</li>
 			
@@ -127,7 +127,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>That is an [______] movie.</li>
 					<li className="margin-bottom-20 list-none">Đó là một bộ phim [thú vị].</li>
 			
-					<li className="list-none">Khối trong: [exciting] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản dạng -ing.</li>
+					<li className="list-none">Khối trong: [exciting] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản dạng -ing.</li>
 			
 					<li className="list-none">Khối ngoài: [exciting] - [ADjective HEAD][TÍNH LÕI] bổ sung ý nghĩa cho movie.</li>
 			
@@ -141,7 +141,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The [______] window needs repair.</li>
 					<li className="margin-bottom-20 list-none">Cái cửa sổ [vỡ] cần sửa.</li>
 			
-					<li className="list-none">Khối trong: [broken] - [PAST PARTiciple VERB][ĐÃ HOÀN ĐỘNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "break" mặc thêm hậu tố "-ed" ở dạng cột 3 để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [broken] - [PAST PARTiciple FORM][KHỨ TÍNH MẪU] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "break" mặc thêm hậu tố "-ed" ở dạng cột 3 để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none">Khối ngoài: [broken] - [ADjective HEAD][TÍNH LÕI] miêu tả trạng thái của cửa sổ.</li>
 			
@@ -435,7 +435,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] thì tốt cho sức khỏe.</li>
 			
-					<li className="list-none">Khối trong: [Swimming] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
+					<li className="list-none">Khối trong: [Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
 					<li className="list-none">Khối ngoài: [Swimming] - [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, chỉ một hoạt động.</li>
 			
@@ -482,7 +482,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The movie is [______].</li>
 					<li className="margin-bottom-20 list-none">Bộ phim thì [thú vị].</li>
 			
-					<li className="list-none">Khối trong: [exciting] - [PRESent PARTiciple VERB][HIỆN TIẾP ĐỘNG] bắt đầu từ [ĐỘNG] nguyên bản dạng -ing.</li>
+					<li className="list-none">Khối trong: [exciting] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản dạng -ing.</li>
 			
 					<li className="list-none">Khối ngoài: [exciting] - [ADjective HEAD][TÍNH LÕI] miêu tả the movie.</li>
 			
