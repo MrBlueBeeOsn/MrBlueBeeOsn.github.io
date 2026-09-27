@@ -177,7 +177,7 @@ export default function CLEAR(): React.JSX.Element {
           <li className="list-none">[<strong>PLAIN PRESent FORM</strong>][<strong>GIẢN HIỆN HÌNH</strong>]: CLEAR</li>
           <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they CLEAR.</li>
           
-          <li className="list-none">[<strong>3rd SINGular PRESent FORM</strong>][<strong>BA LẺ HIỆN HÌNH</strong>]: CLEARS, is</li>
+          <li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>][<strong>3RD LẺ HIỆN HÌNH</strong>]: CLEARS, is</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] hiện tại và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
 
           <li className="list-none">[<strong>PRETerite FORM</strong>][<strong>KHỨ HÌNH</strong>]: CLEARED</li>
@@ -217,7 +217,7 @@ export default function CLEAR(): React.JSX.Element {
 
           <li>has been CLEARing → [auXILiary and PAST PARTiciple VERB] has been + [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] CLEARing</li>
       
-          <li>CLEARED (⏳ Thời Gian Hành Động ở Quá Khứ Đơn) → [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] (Một đơn vị tích hợp cả hai)</li>
+          <li>CLEARED (⏳ Thời Gian Hành Động ở Quá Khứ Đơn) → [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] (Một đơn vị tích hợp cả hai)</li>
       
           <li>should CLEAR → [Ý-Thái Thuần ĐỘNG] should + [PLAIN FORM][GIẢN HÌNH] to CLEAR</li>
       
@@ -301,7 +301,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [CLEARing the browser history] - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] chứa [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động xóa bỏ, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
       
-          <li className="list-none">Khối ngoài: [CLEARing the browser history] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] để thiết lập nền tảng thông tin đứng đầu toàn câu để làm [SUBject][CHỦ] trước hạt nhân [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "improves".</li>
+          <li className="list-none">Khối ngoài: [CLEARing the browser history] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] để thiết lập nền tảng thông tin đứng đầu toàn câu để làm [SUBject][CHỦ] trước hạt nhân [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "improves".</li>
       
         </ul>
 
@@ -554,7 +554,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [how you CLEAR these SYStem LOGS] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa thành phần liên kết trực quan ở đầu, có [SUBject PROnoun][CHỦ ĐẠI] "you" và [PLAIN PRESent FORM][GIẢN HIỆN HÌNH] "CLEAR" thiết lập phối hợp hành động.</li>
       
-          <li className="list-none">Khối ngoài: [how you CLEAR these SYStem LOGS] - [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ] quản lý khối thông tin quy trình, điều khiển chính cho hành động [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "is".</li>
+          <li className="list-none">Khối ngoài: [how you CLEAR these SYStem LOGS] - [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ] quản lý khối thông tin quy trình, điều khiển chính cho hành động [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "is".</li>
       
         </ul>
       
@@ -676,7 +676,7 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Khối trong: {'{HOW the PROgram CLEARS METadata}'} - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the program" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] riêng "CLEARS" thiết lập theo trục thời hiện tại.</li>
+          <li className="list-none">Khối trong: {'{HOW the PROgram CLEARS METadata}'} - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the program" và [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] riêng "CLEARS" thiết lập theo trục thời hiện tại.</li>
       
           <li className="list-none">Khối ngoài: {'{HOW the PROgram CLEARS METadata}'} - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] chịu sự điều phối trực tiếp từ hạt nhân hành động "Analyzing" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích.</li>
       
@@ -706,7 +706,7 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Khối trong: {'{WHY the DAtabase CLEARS SESsions}'} - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the DAtabase" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] riêng "CLEARS" thiết lập theo trục thời hiện tại đi sau [ADverb][TRẠNG] "WHY".</li>
+          <li className="list-none">Khối trong: {'{WHY the DAtabase CLEARS SESsions}'} - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the DAtabase" và [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] riêng "CLEARS" thiết lập theo trục thời hiện tại đi sau [ADverb][TRẠNG] "WHY".</li>
       
           <li className="list-none">Khối ngoài: {'{WHY the DAtabase CLEARS SESsions}'} - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] chịu sự điều phối trực tiếp từ hạt nhân hành động "MONitoring" ở tầng ngoài, làm rõ nội dung cho việc giám sát.</li>
       
@@ -858,7 +858,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>i LIKE [an appliCAtion {'{which CLEARS STORage SMOOTHly}'}].</li>
           <li className="margin-bottom-20 list-none">Tôi thích một ứng dụng [cái mà dọn dẹp dung lượng một cách mượt mà].</li>
       
-          <li className="list-none">Khối trong gốc: {'{which CLEARS STORage SMOOTHly}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "CLEARS". Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [OBject HEAD][TÂN LÕI] "appliCAtion".</li>
+          <li className="list-none">Khối trong gốc: {'{which CLEARS STORage SMOOTHly}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "CLEARS". Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [OBject HEAD][TÂN LÕI] "appliCAtion".</li>
       
           <li className="list-none">Khối ngoài: [an appliCAtion {'{which CLEARS STORage SMOOTHly}'}] - [non-FInite CLAUsal OBject][BẤT-ĐỊNH VẾ TÂN] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       

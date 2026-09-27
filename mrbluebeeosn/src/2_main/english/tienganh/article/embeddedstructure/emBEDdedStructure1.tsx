@@ -182,7 +182,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
       
           <li>have exPLORED ➔ [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] have/has/had + [PAST PARTiciple FORM][KHỨ TÍNH HÌNH] exPLORED</li>
       
-          <li>exPLORES, exPLORED ➔ [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] Tích hợp năng lượng thời gian trực tiếp vào chữ đơn.</li>
+          <li>exPLORES, exPLORED ➔ [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] Tích hợp năng lượng thời gian trực tiếp vào chữ đơn.</li>
       
         </ul>
       
@@ -266,7 +266,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li className="list-none">[<strong>PLAIN PRESent FORM</strong>][<strong>GIẢN HIỆN HÌNH</strong>]: BUILD, deSIGN, exPLORE</li>
           <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they BUILD, deSIGN, exPLORE.</li>
 					
-					<li className="list-none">[<strong>3rd SINGular PRESent FORM</strong>][<strong>BA LẺ HIỆN HÌNH</strong>]: BUILDS, deSIGNS</li>
+					<li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>][<strong>3RD LẺ HIỆN HÌNH</strong>]: BUILDS, deSIGNS</li>
           <li className="margin-bottom-20 list-none">Trạng thái tích hợp tối giản khi năng lượng [Thời] gian hiện tại và hành động [Thuần] khiết hòa tan làm một chữ duy nhất.</li>
 
 					<li className="list-none">[<strong>PRETerite FORM</strong>][<strong>KHỨ HÌNH</strong>]: BUILT</li>

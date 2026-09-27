@@ -17,9 +17,11 @@ export default function VerbsAddS(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/grammar#grammar-terms"><mark className="highlight-tertiary-padding-4-8">Grammar</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">How to remember: Verbs add s</h1>
+			<h1 className="margin-y-50 text-center">Verb add S</h1>
 
 			{/* This is the content of English Learning Term. */}
+
+			<h4 className="margin-bottom-30 text-center">How to remember</h4>
 
 			<p>Remembering to add an "-s" to verbs is essential for third-person singular subjects (he, she, it, singular nouns) in the simple present tense. A simple way to remember this is: "If the subject is one, add an s to the fun" (verb).</p>
 

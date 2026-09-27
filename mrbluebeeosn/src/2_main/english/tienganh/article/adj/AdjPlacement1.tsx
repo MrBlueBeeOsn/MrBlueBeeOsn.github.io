@@ -154,7 +154,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li className="list-none">[<strong>PLAIN PRESent FORM</strong>][<strong>GIẢN HIỆN HÌNH</strong>]: oRIGinate, FORMulate</li>
           <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they oRIGinate, FORMulate.</li>
 					
-					<li className="list-none">[<strong>3rd SINGular PRESent FORM</strong>][<strong>BA LẺ HIỆN HÌNH</strong>]: FORMulates</li>
+					<li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>][<strong>3RD LẺ HIỆN HÌNH</strong>]: FORMulates</li>
           <li className="margin-bottom-20 list-none">Sự tích hợp hoàn toàn năng lượng [Thời] hiện tại và hành động [Thuần] khiết vào một đơn vị từ duy nhất.</li>
 
 					<li className="list-none">[<strong>PRETerite FORM</strong>][<strong>KHỨ HÌNH</strong>]: oRIGinated</li>
@@ -210,7 +210,7 @@ export default function AdjPlacement1(): React.JSX.Element {
       
           <li>has oRIGinated → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] has + [PAST PARTiciple FORM][KHỨ TÍNH HÌNH] oRIGinated</li>
       
-          <li>FORMulates/oRIGinated → [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] tích hợp</li>
+          <li>FORMulates/oRIGinated → [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] tích hợp</li>
       
         </ul>
       
@@ -672,7 +672,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>[the POLicy {'{which is efFECtive}'}] will be apPLIED.</li>
 					<li className="margin-bottom-20 list-none">[Chính sách {'{cái mà hiệu quả}'}] sẽ được áp dụng.</li>
 			
-					<li className="list-none">Khối trong: {'{which is efFECtive}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" kết hợp [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "is" và [MODified ADjective][DIỆN TÍNH] "efFECtive". Vạch rõ bản chất định danh cho đối tượng [SUBject HEAD][CHỦ LÕI] "the POLicy".</li>
+					<li className="list-none">Khối trong: {'{which is efFECtive}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" kết hợp [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "is" và [MODified ADjective][DIỆN TÍNH] "efFECtive". Vạch rõ bản chất định danh cho đối tượng [SUBject HEAD][CHỦ LÕI] "the POLicy".</li>
 			
 					<li className="list-none">Khối ngoài: [the POLicy {'{which is efFECtive}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			

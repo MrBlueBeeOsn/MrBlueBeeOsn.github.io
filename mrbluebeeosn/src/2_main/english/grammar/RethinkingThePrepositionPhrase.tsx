@@ -17,7 +17,7 @@ export default function RethinkingThePrepositionPhrase(): React.JSX.Element {
     
       <h4><HashLink smooth to="/grammar#Modern-Grammar"><mark className="highlight-tertiary-padding-4-8">Modern Grammar</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">The Preposition Phrase</h1>
+      <h1 className="margin-y-50 text-center">Preposition Phrase</h1>
 
       {/* This is the content of English Learning Term. */}
 

@@ -222,7 +222,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="list-none">[<strong>PLAIN PRESent FORM</strong>][<strong>GIẢN HIỆN HÌNH</strong>]: LAUNCH, conSTRUCT, OPerate</li>
           <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they LAUNCH, conSTRUCT, OPerate.</li>
 					
-					<li className="list-none">[<strong>3rd SINGular PRESent FORM</strong>][<strong>BA LẺ HIỆN HÌNH</strong>]: LAUNCHes, conSTRUCTS</li>
+					<li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>][<strong>3RD LẺ HIỆN HÌNH</strong>]: LAUNCHes, conSTRUCTS</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian hiện tại và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
 
 					<li className="list-none">[<strong>PRETerite FORM</strong>][<strong>KHỨ HÌNH</strong>]: LAUNCHED</li>
@@ -295,7 +295,7 @@ export default function LegoAssembly1(): React.JSX.Element {
       
           <li>have LAUNCHED → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] have/has/had + [PAST PARTiciple FORM][KHỨ TÍNH HÌNH] LAUNCHED</li>
       
-          <li>LAUNCHes, LAUNCHED → [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] Tích hợp</li>
+          <li>LAUNCHes, LAUNCHED → [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] Tích hợp</li>
       
         </ul>
       
@@ -399,7 +399,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: [SWIMming] - [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "SWIM" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu đạt một tiến trình hành động được thực hiện hóa.</li>
 
-					<li className="list-none">Khối ngoài: [SWIMming] - [NOUN PHRASE SUBject][DANH CỤM CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đóng vai trò làm [SUBject][CHỦ] kích hoạt và cung cấp năng lượng cho bộ nguồn [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] imPROVES.</li>
+					<li className="list-none">Khối ngoài: [SWIMming] - [NOUN PHRASE SUBject][DANH CỤM CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đóng vai trò làm [SUBject][CHỦ] kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] imPROVES.</li>
 			
 				</ul>
 
@@ -413,7 +413,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: [TRAINing] - [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "TRAIN" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu đạt một tiến trình hành động được thực hiện hóa.</li>
 
-					<li className="list-none">Khối ngoài: [TRAINing] - [OBject HEAD ][TÂN LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] tiếp nhận sự chú trọng tác động trực tiếp đứng ngay sau bộ nguồn [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] EMphasizes.</li>
+					<li className="list-none">Khối ngoài: [TRAINing] - [OBject HEAD ][TÂN LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] tiếp nhận sự chú trọng tác động trực tiếp đứng ngay sau bộ nguồn [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] EMphasizes.</li>
 			
 				</ul>
 
@@ -427,7 +427,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: [deSIGNing SYStem ARchitecture] - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] deSIGNing phối hợp với khối định danh mục tiêu SYStem ARchitecture chịu tác động đi liền phía sau để làm rõ đối tượng được thiết kế.</li>
 
-					<li className="list-none">Khối ngoài: [deSIGNing SYStem ARchitecture] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước điều phối hạt nguồn [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] reQUIres.</li>
+					<li className="list-none">Khối ngoài: [deSIGNing SYStem ARchitecture] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước điều phối hạt nguồn [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] reQUIres.</li>
 			
 				</ul>
 			
@@ -501,7 +501,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong:  [HOW the SYStem OPerates] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa [ADverb][TRẠNG] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
 
-					<li className="list-none">Khối ngoài:  [HOW the SYStem OPerates] - [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] deTERmines.</li>
+					<li className="list-none">Khối ngoài:  [HOW the SYStem OPerates] - [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] deTERmines.</li>
 			
 				</ul>
 

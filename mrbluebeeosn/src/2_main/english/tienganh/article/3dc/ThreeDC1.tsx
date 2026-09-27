@@ -194,7 +194,7 @@ export default function ThreeDC1(): React.ReactElement {
       
           <li>have VALidated → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] have/has/had + [PAST PARTiciple FORM][KHỨ TÍNH HÌNH] VALidated</li>
       
-          <li>pioNEERS, pioNEERED → [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] Tích hợp</li>
+          <li>pioNEERS, pioNEERED → [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] Tích hợp</li>
       
         </ul>
       
@@ -283,7 +283,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="list-none">[<strong>PLAIN PRESent FORM</strong>][<strong>GIẢN HIỆN HÌNH</strong>]: ANalyze, INnovate, transFORM</li>
           <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they ANalyze, INnovate, transFORM.</li>
 					
-					<li className="list-none">[<strong>3rd SINGular PRESent FORM</strong>][<strong>BA LẺ HIỆN HÌNH</strong>]: ANalyzes, transFORMS</li>
+					<li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>][<strong>3RD LẺ HIỆN HÌNH</strong>]: ANalyzes, transFORMS</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] hiện tại và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
 
 					<li className="list-none">[<strong>PRETerite FORM</strong>][<strong>KHỨ HÌNH</strong>]: ANalyzed</li>
@@ -353,7 +353,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Khối trong: Khối [JOGging] - [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "JOG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] đại diện cho một hành động biểu hiện khối cô đọng.</li>
 			
-					<li className="list-none">Khối ngoài: Khối [JOGging] - [NOUN PHRASE SUBject][DANH CỤM CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đóng vai trò làm [SUBject][CHỦ] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "STRENGTHens".</li>
+					<li className="list-none">Khối ngoài: Khối [JOGging] - [NOUN PHRASE SUBject][DANH CỤM CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đóng vai trò làm [SUBject][CHỦ] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "STRENGTHens".</li>
 			
 				</ul>
 
@@ -367,7 +367,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Khối trong: Khối [SWIMming] - [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "SWIM" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] đại diện cho một hành động biểu hiện khối cô đọng.</li>
 			
-					<li className="list-none">Khối ngoài: Khối [SWIMming] - [OBject HEAD ][TÂN LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] chịu sự điều phối trực tiếp của [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "enJOYS".</li>
+					<li className="list-none">Khối ngoài: Khối [SWIMming] - [OBject HEAD ][TÂN LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] chịu sự điều phối trực tiếp của [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "enJOYS".</li>
 			
 				</ul>
 			
@@ -456,7 +456,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Khối trong: Khối [to reFINE his LEADership STYLE] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to reFINE" kéo theo một cụm [NOUN PHRASE][DANH CỤM] làm thành phần bổ trợ.</li>
 			
-					<li className="list-none">Khối ngoài: Khối [to reFINE his LEADership STYLE] - [ADjunct 2][PHỤ 2] đứng cuối nhằm giải thích bối cảnh mục đích cho hành động tham gia được vận hành bởi [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "atTENDS".</li>
+					<li className="list-none">Khối ngoài: Khối [to reFINE his LEADership STYLE] - [ADjunct 2][PHỤ 2] đứng cuối nhằm giải thích bối cảnh mục đích cho hành động tham gia được vận hành bởi [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "atTENDS".</li>
 			
 				</ul>
 
@@ -506,9 +506,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[HOW the TEAM seCURES the FUNding] reMAINS a CRITical QUESTion.</li>
 					<li className="margin-bottom-20 list-none">[Cách mà đội ngũ đảm bảo nguồn vốn] vẫn là một câu hỏi then chốt.</li>
 			
-					<li className="list-none">Khối trong: Khối [HOW the TEAM seCURES the FUNding] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] bắt đầu bằng [ADverb][TRẠNG] "HOW" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the TEAM" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "seCURES".</li>
+					<li className="list-none">Khối trong: Khối [HOW the TEAM seCURES the FUNding] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] bắt đầu bằng [ADverb][TRẠNG] "HOW" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the TEAM" và [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "seCURES".</li>
 			
-					<li className="list-none">Khối ngoài: Khối [HOW the TEAM seCURES the FUNding] - [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ] đứng trước điều phối [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "reMAINS".</li>
+					<li className="list-none">Khối ngoài: Khối [HOW the TEAM seCURES the FUNding] - [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ] đứng trước điều phối [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "reMAINS".</li>
 			
 				</ul>
 
@@ -548,7 +548,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>we will HALT proDUCtion [un<strong>less</strong> the QUAlity STANdard imPROVES].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ dừng sản xuất [ngoại trừ khi tiêu chuẩn chất lượng cải thiện].</li>
 			
-					<li className="list-none">Khối trong: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [suBORdinate CLAUSE][PHỤ VẾ] bắt đầu bằng [PrepoSITion][GIỚI] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the QUAlity STANdard" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "imPROVES".</li>
+					<li className="list-none">Khối trong: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [suBORdinate CLAUSE][PHỤ VẾ] bắt đầu bằng [PrepoSITion][GIỚI] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the QUAlity STANdard" và [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "imPROVES".</li>
 			
 					<li className="list-none">Khối ngoài: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [ADjunct 3][PHỤ 3] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "will".</li>
 			

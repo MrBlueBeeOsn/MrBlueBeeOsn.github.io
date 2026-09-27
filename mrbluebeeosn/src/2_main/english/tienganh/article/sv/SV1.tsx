@@ -181,7 +181,7 @@ export default function SV1(): React.JSX.Element {
       
           <li>have exPLORED ➔ [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] have/has/had + [PAST PARTiciple FORM][KHỨ TÍNH HÌNH] exPLORED</li>
       
-          <li>exPLORES, exPLORED ➔ [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] Tích hợp hoàn toàn</li>
+          <li>exPLORES, exPLORED ➔ [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] Tích hợp hoàn toàn</li>
       
         </ul>
       
@@ -265,7 +265,7 @@ export default function SV1(): React.JSX.Element {
 					<li className="list-none">[<strong>PLAIN PRESent FORM</strong>][<strong>GIẢN HIỆN HÌNH</strong>]: LEARN, SPEAK, BUILD</li>
           <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they LEARN, SPEAK, BUILD.</li>
 					
-					<li className="list-none">[<strong>3rd SINGular PRESent FORM</strong>][<strong>BA LẺ HIỆN HÌNH</strong>]: SPEAKS, BUILDS, WORKS</li>
+					<li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>][<strong>3RD LẺ HIỆN HÌNH</strong>]: SPEAKS, BUILDS, WORKS</li>
           <li className="margin-bottom-20 list-none">Hành động chính mang [Thời] chia thời đơn, tích hợp trọn vẹn trạng thái [Thời] gian hiện tại và hành động [Thuần] khiết hòa tan gọn gàng vào một chữ duy nhất.</li>
 
 					<li className="list-none">[<strong>PRETerite FORM</strong>][<strong>KHỨ HÌNH</strong>]: SPOKE</li>
@@ -330,7 +330,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [READing] - [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "READ" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], đóng vai trò làm hạt nhân hành động tiếp diễn.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [READing] - [OBject HEAD ][TÂN LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đứng sau [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "PRACtices" để làm [OBject][TÂN] gánh chịu trực tiếp tác động từ hành động luyện tập của thực thể khơi nguồn.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [READing] - [OBject HEAD ][TÂN LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đứng sau [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "PRACtices" để làm [OBject][TÂN] gánh chịu trực tiếp tác động từ hành động luyện tập của thực thể khơi nguồn.</li>
 			
 				</ul>
 			
@@ -461,9 +461,9 @@ export default function SV1(): React.JSX.Element {
 					<li><strong>ever</strong>yone KNOWS [that WAter BOILS at ONE HUNdred deGREES].</li>
 					<li className="margin-bottom-20 list-none">Mọi người đều biết [rằng nước sôi ở 100 độ].</li>
 			
-					<li className="list-none">Khối trong: [that WAter BOILS at ONE HUNdred deGREES] - [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] tạo nên khối hành động phức có chứa hệ trục [SUBject HEAD][CHỦ LÕI] "WAter" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "BOILS", bắt đầu bằng [suBORdinator][HẠ] "that".</li>
+					<li className="list-none">Khối trong: [that WAter BOILS at ONE HUNdred deGREES] - [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] tạo nên khối hành động phức có chứa hệ trục [SUBject HEAD][CHỦ LÕI] "WAter" và [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "BOILS", bắt đầu bằng [suBORdinator][HẠ] "that".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [that WAter BOILS at ONE HUNdred deGREES] - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] đảm nhận nhiệm vụ của một khối đối tượng đứng sau [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "KNOWS" để làm [OBject][TÂN] dưới sự điều phối của nó.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [that WAter BOILS at ONE HUNdred deGREES] - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] đảm nhận nhiệm vụ của một khối đối tượng đứng sau [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "KNOWS" để làm [OBject][TÂN] dưới sự điều phối của nó.</li>
 			
 				</ul>
 
@@ -615,7 +615,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{HOW the ENgine WORKS}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] vì chứa đầy đủ hệ trục [SUBject HEAD][CHỦ LÕI] "the ENgine" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "WORKS", bắt đầu bằng [ADverb][TRẠNG] "HOW".</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{HOW the ENgine WORKS}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] vì chứa đầy đủ hệ trục [SUBject HEAD][CHỦ LÕI] "the ENgine" và [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "WORKS", bắt đầu bằng [ADverb][TRẠNG] "HOW".</li>
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCOVering {'{HOW the ENgine WORKS}'}] là một khối [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG VẾ] bắt đầu bằng hành động thực thi [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] dạng V-ing disCOVering.</li>
 			

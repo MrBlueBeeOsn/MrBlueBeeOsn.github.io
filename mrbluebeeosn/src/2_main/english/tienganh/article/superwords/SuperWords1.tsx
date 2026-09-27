@@ -182,7 +182,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li className="list-none">[<strong>PLAIN PRESent FORM</strong>][<strong>GIẢN HIỆN HÌNH</strong>]: BUILD, deSIGN, TEST</li>
           <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they BUILD, deSIGN, TEST.</li>
 					
-					<li className="list-none">[<strong>3rd SINGular PRESent FORM</strong>][<strong>BA LẺ HIỆN HÌNH</strong>]: BUILDS, deSIGNS</li>
+					<li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>][<strong>3RD LẺ HIỆN HÌNH</strong>]: BUILDS, deSIGNS</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] hiện tại và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
 
 					<li className="list-none">[<strong>PRETerite FORM</strong>][<strong>KHỨ HÌNH</strong>]: BUILT</li>
@@ -247,7 +247,7 @@ export default function SuperWords1(): React.JSX.Element {
       
           <li>have OPtimized → [PREDicator][VỊ] have/has/had + OPtimized</li>
       
-          <li>OPtimized, OPtimizes → [PRETerite FORM][KHỨ HÌNH], [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] Tích hợp</li>
+          <li>OPtimized, OPtimizes → [PRETerite FORM][KHỨ HÌNH], [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] Tích hợp</li>
       
         </ul>
       
@@ -343,7 +343,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [deSIGNing] – [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] hình thành từ [ROOT VERB][GỐC ĐỘNG] nguyên bản "deSIGN" mặc thêm hậu tố "-ing" để tạo thành một khối cấp độ [HEAD][LÕI] độc lập.</li>
 			
-					<li className="list-none">Khối ngoài: [deSIGNing] – [OBject HEAD ][TÂN LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đang đứng vị trí sau [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "enJOYS" để làm [OBject][TÂN] tiếp nhận hành động yêu thích.</li>
+					<li className="list-none">Khối ngoài: [deSIGNing] – [OBject HEAD ][TÂN LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đang đứng vị trí sau [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "enJOYS" để làm [OBject][TÂN] tiếp nhận hành động yêu thích.</li>
 			
 				</ul>
 			
