@@ -53,24 +53,24 @@ export default function LegoAssembly1(): React.JSX.Element {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#SUBject-HEAD">SUBject HEAD</HashLink>&nbsp;/&nbsp;
-						<HashLink smooth to="#OBject-HEAD">OBject HEAD</HashLink>
+						<HashLink smooth to="#NOUN-PHRASE-SUBject">NOUN PHRASE SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#NOUN-PHRASE-OBject">NOUN PHRASE OBject</HashLink>
 					</span> &nbsp;
 
 				</p>
 
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#SUBject-PHRASE">SUBject PHRASE</HashLink>&nbsp;/&nbsp;
-						<HashLink smooth to="#OBject-PHRASE">OBject PHRASE</HashLink>
+						<HashLink smooth to="#non-FInite-CLAUsal-SUBject">non-FInite CLAUsal SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#non-FInite-CLAUsal-OBject">non-FInite CLAUsal OBject</HashLink>
 					</span> &nbsp;
 
 				</p>
 
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#SUBject-CLAUSE">SUBject CLAUSE</HashLink>&nbsp;/&nbsp;
-						<HashLink smooth to="#OBject-CLAUSE">OBject CLAUSE</HashLink>
+						<HashLink smooth to="#FInite-CLAUsal-SUBject">FInite CLAUsal SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#FInite-CLAUsal-OBject">FInite CLAUsal OBject</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -81,11 +81,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#SUBject-PHRASE-2">SUBject PHRASE 2</HashLink>
+						<HashLink smooth to="#non-FInite-CLAUsal-SUBject-2">non-FInite CLAUsal SUBject 2</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#SUBject-CLAUSE-2">SUBject CLAUSE 2</HashLink>
+						<HashLink smooth to="#FInite-CLAUsal-SUBject-2">FInite CLAUsal SUBject 2</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -143,11 +143,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[<strong>SUBject HEAD</strong>][<strong>CHỦ LÕI</strong>]: Khối định danh đối tượng hành động.</li>
+					<li>[<strong>NOUN PHRASE SUBject</strong>][<strong>DANH CỤM CHỦ</strong>]: Khối định danh đối tượng hành động.</li>
 			
 					<li>[<strong>PREDicator HEAD</strong>][<strong>VỊ LÕI</strong>]: Hạt nhân/Bộ nguồn - Khối điều khiển toàn câu, luôn đứng liền kề với [S]. [Hạt nhân]/[Bộ nguồn][HEAD] là hạt nhân [PREDicator HEAD][VỊ LÕI] hoặc chứa các trợ nguồn [Thời] gian, gánh vác bối cảnh [Thời] gian kết hợp logic thực thi hành động để cấp năng lượng cho toàn câu.</li>
 			
-					<li>[<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>]: Là tất cả những gì đứng sau [HEAD]. Chúng mang tư duy "dePENDent - phụ thuộc", sinh ra là để bám vào [HEAD] và không bao giờ có thể đứng độc lập một mình.</li>
+					<li>[<strong>NOUN PHRASE OBject</strong>][<strong>DANH CỤM TÂN</strong>]: Là tất cả những gì đứng sau [HEAD]. Chúng mang tư duy "dePENDent - phụ thuộc", sinh ra là để bám vào [HEAD] và không bao giờ có thể đứng độc lập một mình.</li>
 
 				</ul>
 			
@@ -390,7 +390,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="text-indent-whole">Khối này chịu trách nhiệm đóng gói các hành động, thực thể thành một cái tên, một đối tượng để làm [SUBject HEAD][CHỦ LÕI] hoặc phần [OBject HEAD][TÂN LÕI] tiếp nhận tác động trong câu.</p>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="SUBject-HEAD">[<strong>SUBject HEAD</strong>][<strong>CHỦ LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH MẪU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-SUBject">[<strong>NOUN PHRASE SUBject</strong>][<strong>DANH CỤM CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH MẪU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -399,12 +399,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: [SWIMming] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "SWIM" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu đạt một tiến trình hành động được thực hiện hóa.</li>
 
-					<li className="list-none">Khối ngoài: [SWIMming] - [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đóng vai trò làm [SUBject][CHỦ] kích hoạt và cung cấp năng lượng cho bộ nguồn [3rd SINGular PRESent FORM][BA LẺ HIỆN MẪU] imPROVES.</li>
+					<li className="list-none">Khối ngoài: [SWIMming] - [NOUN PHRASE SUBject][DANH CỤM CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đóng vai trò làm [SUBject][CHỦ] kích hoạt và cung cấp năng lượng cho bộ nguồn [3rd SINGular PRESent FORM][BA LẺ HIỆN MẪU] imPROVES.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="OBject-HEAD">[<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH MẪU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-OBject">[<strong>NOUN PHRASE OBject</strong>][<strong>DANH CỤM TÂN</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH MẪU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -418,7 +418,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="SUBject-PHRASE">[<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH CÂU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-SUBject">[<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH CÂU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -427,12 +427,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: [deSIGNing SYStem ARchitecture] - [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH MẪU] deSIGNing phối hợp với khối định danh mục tiêu SYStem ARchitecture chịu tác động đi liền phía sau để làm rõ đối tượng được thiết kế.</li>
 
-					<li className="list-none">Khối ngoài: [deSIGNing SYStem ARchitecture] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước điều phối hạt nguồn [3rd SINGular PRESent FORM][BA LẺ HIỆN MẪU] reQUIres.</li>
+					<li className="list-none">Khối ngoài: [deSIGNing SYStem ARchitecture] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước điều phối hạt nguồn [3rd SINGular PRESent FORM][BA LẺ HIỆN MẪU] reQUIres.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="OBject-PHRASE">[<strong>OBject PHRASE</strong>][<strong>TÂN CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH CÂU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-OBject">[<strong>non-FInite CLAUsal OBject</strong>][<strong>BẤT-ĐỊNH CÂU TÂN</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH CÂU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -441,13 +441,13 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: [LAUNCHing the NEW SERvice] - [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH MẪU] LAUNCHing phối hợp với khối mô tả thuộc tính và đối tượng phía sau để tạo nên chỉnh thể hành động kéo dài có mục tiêu xác định.</li>
 
-					<li className="list-none">Khối ngoài: [LAUNCHing the NEW SERvice] - [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM], tiếp nhận yêu cầu tác động trực tiếp đứng ngay sau bộ nguồn [PRETerite FORM][KHỨ MẪU] deLAYED.</li>
+					<li className="list-none">Khối ngoài: [LAUNCHing the NEW SERvice] - [non-FInite CLAUsal OBject][BẤT-ĐỊNH CÂU TÂN] được hình thành từ [NOUN PHRASE][DANH CỤM], tiếp nhận yêu cầu tác động trực tiếp đứng ngay sau bộ nguồn [PRETerite FORM][KHỨ MẪU] deLAYED.</li>
 			
 				</ul>
 			
 			
 
-			<p className="margin-top-20 text-indent-whole" id="emBEDded-CLAUSE">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB and emBEDded CLAUSE</strong>][<strong>HIỆN TIẾP ĐỘNG và NHÚNG CÂU</strong>] <strong>làm</strong> [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="emBEDded-CLAUSE">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB and emBEDded CLAUSE</strong>][<strong>HIỆN TIẾP ĐỘNG và NHÚNG CÂU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -462,15 +462,15 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối ngoài:</li>
 
-					<li className="list-none">Khối tổng thể [inVESTigating {'{why the appliCAtion FAILED}'}] đóng vai trò là [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] làm [SUBject PHRASE][CHỦ CỤM] để kích hoạt bộ nguồn hành động TAKES phía sau.</li>
+					<li className="list-none">Khối tổng thể [inVESTigating {'{why the appliCAtion FAILED}'}] đóng vai trò là [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] làm [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] để kích hoạt bộ nguồn hành động TAKES phía sau.</li>
 
-					<li className="list-none">Khối nhỏ bên trong {'{why the appliCAtion FAILED}'} đóng vai trò là [OBject CLAUSE][TÂN CÂU] làm phần tiếp nhận tác động trực tiếp chịu sự điều phối nội bộ của hành động InVESTigating.</li>
+					<li className="list-none">Khối nhỏ bên trong {'{why the appliCAtion FAILED}'} đóng vai trò là [FInite CLAUsal OBject][ĐỊNH CÂU TÂN] làm phần tiếp nhận tác động trực tiếp chịu sự điều phối nội bộ của hành động InVESTigating.</li>
 			
 				</ul>
 			
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB and emBEDded CLAUSE</strong>][<strong>HIỆN TIẾP ĐỘNG và NHÚNG CÂU</strong>] <strong>làm</strong> [<strong>OBject PHRASE</strong>][<strong>TÂN CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB and emBEDded CLAUSE</strong>][<strong>HIỆN TIẾP ĐỘNG và NHÚNG CÂU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal OBject</strong>][<strong>BẤT-ĐỊNH CÂU TÂN</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -485,14 +485,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối ngoài:</li>
 
-					<li className="list-none">Khối tổng thể [preDICTing {'{HOW the CLImate will SHIFT}'}] đóng vai trò là [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] làm [OBject PHRASE][TÂN CỤM] cho hành động chính coORdinate.</li>
+					<li className="list-none">Khối tổng thể [preDICTing {'{HOW the CLImate will SHIFT}'}] đóng vai trò là [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] làm [non-FInite CLAUsal OBject][BẤT-ĐỊNH CÂU TÂN] cho hành động chính coORdinate.</li>
 
-					<li className="list-none">Khối nhỏ bên trong {'{HOW the CLImate will SHIFT}'} đóng vai trò là [OBject CLAUSE][TÂN CÂU] làm phần tiếp nhận tác động trực tiếp cho hành động preDICTing.</li>
+					<li className="list-none">Khối nhỏ bên trong {'{HOW the CLImate will SHIFT}'} đóng vai trò là [FInite CLAUsal OBject][ĐỊNH CÂU TÂN] làm phần tiếp nhận tác động trực tiếp cho hành động preDICTing.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="SUBject-CLAUSE">[<strong>SUBject CLAUSE</strong>][<strong>CHỦ CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>interROGative CONtent CLAUSE</strong>][<strong>VẤN NỘI CÂU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject">[<strong>FInite CLAUsal SUBject</strong>][<strong>ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>interROGative CONtent CLAUSE</strong>][<strong>VẤN NỘI CÂU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -501,12 +501,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong:  [HOW the SYStem OPerates] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] chứa [conJUNCtion][LIÊN] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
 
-					<li className="list-none">Khối ngoài:  [HOW the SYStem OPerates] - [SUBject CLAUSE][CHỦ CÂU] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [3rd SINGular PRESent FORM][BA LẺ HIỆN MẪU] deTERmines.</li>
+					<li className="list-none">Khối ngoài:  [HOW the SYStem OPerates] - [FInite CLAUsal SUBject][ĐỊNH CÂU CHỦ] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [3rd SINGular PRESent FORM][BA LẺ HIỆN MẪU] deTERmines.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="OBject-CLAUSE">[<strong>OBject CLAUSE</strong>][<strong>TÂN CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>interROGative CONtent CLAUSE</strong>][<strong>VẤN NỘI CÂU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-OBject">[<strong>FInite CLAUsal OBject</strong>][<strong>ĐỊNH CÂU TÂN</strong>] <strong>cấu tạo từ</strong> [<strong>interROGative CONtent CLAUSE</strong>][<strong>VẤN NỘI CÂU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -515,12 +515,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong:  [how TECHnicians seCURE DAta] - [interROGative CONtent CLAUSE][VẤN NỘI CÂU] chứa [conJUNCtion][LIÊN] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
 
-					<li className="list-none">Khối ngoài:  [how TECHnicians seCURE DAta] - [OBject CLAUSE][TÂN CÂU] tiếp nhận nội dung thông tin trực tiếp, đứng sau [PLAIN PRESent FORM][GIẢN HIỆN MẪU] CHECK.</li>
+					<li className="list-none">Khối ngoài:  [how TECHnicians seCURE DAta] - [FInite CLAUsal OBject][ĐỊNH CÂU TÂN] tiếp nhận nội dung thông tin trực tiếp, đứng sau [PLAIN PRESent FORM][GIẢN HIỆN MẪU] CHECK.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>OBject CLAUSE</strong>][<strong>TÂN CÂU</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro conJUNCtional CLAUSE</strong>][<strong>ẨN LIÊN CÂU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUsal OBject</strong>][<strong>ĐỊNH CÂU TÂN</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro conJUNCtional CLAUSE</strong>][<strong>ẨN LIÊN CÂU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -529,7 +529,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: [the STRATegy DRIVES GROWTH] - [ZEro COMplement CLAUSE][KHUYẾT BỔ CÂU] có đầy đủ cấu hình [SUBject HEAD][CHỦ LÕI] nội bộ và hành động nhưng đã bị chủ động lược bỏ đi [conJUNCtion][LIÊN] that ở đầu khối nhằm tối giản cấu trúc bề mặt.</li>
 
-					<li className="list-none">Khối ngoài: [the STRATegy DRIVES GROWTH] - [OBject CLAUSE][TÂN CÂU] tiếp nhận nội dung thông tin trực tiếp cho hành động beLIEVES.</li>
+					<li className="list-none">Khối ngoài: [the STRATegy DRIVES GROWTH] - [FInite CLAUsal OBject][ĐỊNH CÂU TÂN] tiếp nhận nội dung thông tin trực tiếp cho hành động beLIEVES.</li>
 			
 				</ul>
 			
@@ -553,7 +553,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="SUBject-PHRASE-2">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-SUBject-2">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -602,7 +602,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="SUBject CLAUSE-2">[<strong>OBject PHRASE</strong>][<strong>TÂN CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2">[<strong>FInite CLAUsal OBject</strong>][<strong>ĐỊNH CÂU TÂN</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -611,12 +611,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: {'{which conTAINS the rePORT}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} chứa [SUBject PRONOUN][CHỦ ĐẠI] which đóng vai trò thế cho khối định danh đứng trước, đồng thời làm nhiệm vụ làm [SUBject HEAD][CHỦ LÕI] nội bộ kết hợp liền mạch với hành động conTAINS. Bổ nghĩa trực tiếp để giới hạn và xác định đặc điểm rõ ràng cho [OBject HEAD][TÂN LÕI] the FILE.</li>
 
-					<li className="list-none">Khối ngoài: [the FILE {'{which conTAINS the rePORT}'}] - [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the FILE {'{which conTAINS the rePORT}'}] - [non-FInite CLAUsal OBject][BẤT-ĐỊNH CÂU TÂN] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro RELative CLAUSE</strong>][<strong>KHUYẾT QUAN CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro RELative CLAUSE</strong>][<strong>KHUYẾT QUAN CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -625,7 +625,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: {'{họ triển khai tháng trước}'} - {'{ZEro RELative CLAUSE}'}{'{KHUYẾT QUAN CÂU}'} có cấu trúc [S]-[HEAD] đầy đủ nhưng đã bị chủ động lược bỏ [OBject PRONOUN][TÂN ĐẠI] which/that ở đầu khối để tăng tốc độ truyền đạt của dòng thông tin. Làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm thuộc tính cho thực thể [SUBject HEAD][CHỦ LÕI] the POLicy.</li>
 
-					<li className="list-none">Khối ngoài: [the POLicy {'{they IMplemented LAST MONTH}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the POLicy {'{they IMplemented LAST MONTH}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 
@@ -676,7 +676,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>OBject PHRASE</strong>][<strong>TÂN CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>][<strong>GIỚI và NHÚNG CÂU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUsal OBject</strong>][<strong>BẤT-ĐỊNH CÂU TÂN</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>][<strong>GIỚI và NHÚNG CÂU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -693,7 +693,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối ngoài:</li>
 
-					<li className="list-none">Khối tổng thể [the tranSITion {'{'}at the MOment {'<'}when the upDATe comPLEted{'>}'}] - [OBject PHRASE][TÂN CỤM]</li>
+					<li className="list-none">Khối tổng thể [the tranSITion {'{'}at the MOment {'<'}when the upDATe comPLEted{'>}'}] - [non-FInite CLAUsal OBject][BẤT-ĐỊNH CÂU TÂN]</li>
 					
 					<li className="list-none">Khối giữa [at the MOment {'<when the upDATe comPLEted>'}] đóng vai trò là [<strong>ADjunct</strong>][<strong>PHỤ</strong>] bổ sung bối cảnh mốc [Thời] gian cụ thể cho hành động chính iNITiated.</li>
 
@@ -797,7 +797,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [inCREAsing the BUDget] - [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] bắt từ [GERund-PARTiciple FORM][DANH-TÍNH MẪU] inCREAsing mang tính chất chuyển động kéo dài có đối tượng đi kèm.</li>
 
-					<li className="list-none">Khối ngoài: [inCREAsing the BUDget] - [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] đóng vai trò làm phần [OBject][TÂN], chịu tác động trực tiếp đứng sau hành động điều khiển apPROVE.</li>
+					<li className="list-none">Khối ngoài: [inCREAsing the BUDget] - [non-FInite CLAUsal OBject][BẤT-ĐỊNH CÂU TÂN] được hình thành từ [NOUN PHRASE][DANH CỤM] đóng vai trò làm phần [OBject][TÂN], chịu tác động trực tiếp đứng sau hành động điều khiển apPROVE.</li>
 			
 				</ul>
 			
@@ -811,7 +811,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [that the dePARTment inCREASes the BUDget] - [deCLARative CONtent CLAUSE][THUẬT NỘI CÂU] bắt đầu bằng [conJUNCtion][LIÊN] that bao bọc lấy một kết cấu câu hoàn chỉnh có chủ vị phân định rõ ràng.</li>
 					
-					<li className="list-none">Khối ngoài: [that the dePARTment inCREASes the BUDget] - [OBject CLAUSE][TÂN CÂU] giữ nguyên vị trí chức năng [OBject][TÂN] đứng sau apPROVE nhưng cấu trúc hình thái được bung mở thành một câu con đầy đủ cấu trúc [S]-[HEAD] bên trong để chi tiết hóa thông tin.</li>
+					<li className="list-none">Khối ngoài: [that the dePARTment inCREASes the BUDget] - [FInite CLAUsal OBject][ĐỊNH CÂU TÂN] giữ nguyên vị trí chức năng [OBject][TÂN] đứng sau apPROVE nhưng cấu trúc hình thái được bung mở thành một câu con đầy đủ cấu trúc [S]-[HEAD] bên trong để chi tiết hóa thông tin.</li>
 			
 				</ul>
 			

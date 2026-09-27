@@ -53,8 +53,8 @@ export default function SuperWords1(): React.JSX.Element {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#SUBject-HEAD">SUBject HEAD</HashLink>&nbsp;/&nbsp;
-						<HashLink smooth to="#OBject-HEAD">OBject HEAD</HashLink>
+						<HashLink smooth to="#NOUN-PHRASE-SUBject">NOUN PHRASE SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#NOUN-PHRASE-OBject">NOUN PHRASE OBject</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -69,12 +69,12 @@ export default function SuperWords1(): React.JSX.Element {
 
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#SUBject-PHRASE">SUBject PHRASE</HashLink>&nbsp;/&nbsp;
-						<HashLink smooth to="#OBject-PHRASE">OBject PHRASE</HashLink>
+						<HashLink smooth to="#non-FInite-CLAUsal-SUBject">non-FInite CLAUsal SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#non-FInite-CLAUsal-OBject">non-FInite CLAUsal OBject</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#SUBject-PHRASE-2">SUBject PHRASE 2</HashLink>
+						<HashLink smooth to="#non-FInite-CLAUsal-SUBject-2">non-FInite CLAUsal SUBject 2</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -85,12 +85,12 @@ export default function SuperWords1(): React.JSX.Element {
 
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#SUBject-CLAUSE">SUBject CLAUSE</HashLink>&nbsp;/&nbsp;
-						<HashLink smooth to="#OBject-CLAUSE">OBject CLAUSE</HashLink>
+						<HashLink smooth to="#FInite-CLAUsal-SUBject">FInite CLAUsal SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#FInite-CLAUsal-OBject">FInite CLAUsal OBject</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#SUBject-CLAUSE-2">SUBject CLAUSE 2</HashLink>
+						<HashLink smooth to="#FInite-CLAUsal-SUBject-2">FInite CLAUsal SUBject 2</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -297,7 +297,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p>Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào thuộc hệ thống 16 mục trên kéo theo các thành phần bổ trợ phía sau như [OBject HEAD][TÂN LÕI], [OBject PHRASE][TÂN CỤM], [OBject CLAUSE][TÂN CÂU], [ADverb HEAD][TRẠNG LÕI], [ADjunct][PHỤ], hoặc [ADjunct][PHỤ], toàn bộ khối thông tin mở rộng đó sẽ lập tức chuyển đổi cấu trúc và dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p>Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào thuộc hệ thống 16 mục trên kéo theo các thành phần bổ trợ phía sau như [OBject HEAD][TÂN LÕI], [non-FInite CLAUsal OBject][BẤT-ĐỊNH CÂU TÂN], [FInite CLAUsal OBject][ĐỊNH CÂU TÂN], [ADverb HEAD][TRẠNG LÕI], [ADjunct][PHỤ], hoặc [ADjunct][PHỤ], toàn bộ khối thông tin mở rộng đó sẽ lập tức chuyển đổi cấu trúc và dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
@@ -320,7 +320,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái [ĐỘNG][VERB], chức năng của nó sẽ được quyết định bởi vị trí đứng:</p>
 
-			<p className="margin-top-20" id="SUBject-HEAD"><strong>Ví dụ 1a</strong>: [<strong>SUBject HEAD</strong>][<strong>CHỦ LÕI</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+			<p className="margin-top-20" id="NOUN-PHRASE-SUBject"><strong>Ví dụ 1a</strong>: [<strong>NOUN PHRASE SUBject</strong>][<strong>DANH CỤM CHỦ</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -334,7 +334,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20" id="OBject-HEAD"><strong>Ví dụ 1b</strong>: [<strong>OBject HEAD</strong>][<strong>TÂN LÕI</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
+			<p className="margin-top-20" id="NOUN-PHRASE-OBject"><strong>Ví dụ 1b</strong>: [<strong>NOUN PHRASE OBject</strong>][<strong>DANH CỤM TÂN</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -384,7 +384,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Áp dụng quy tắc cốt lõi, đây là khối hành động mở rộng chứa nhiều chữ phối hợp bọc lót cho nhau nhưng chưa tạo thành một câu con hoàn chỉnh. Chức năng của [ĐỘNG CỤM][Verb Phrase] sẽ được quyết định dựa vào vị trí đứng trong câu lớn:</p>
 
-			<p className="margin-top-20" id="SUBject-PHRASE"><strong>Ví dụ 1a</strong>: [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+			<p className="margin-top-20" id="non-FInite-CLAUsal-SUBject"><strong>Ví dụ 1a</strong>: [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -393,12 +393,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [Nalyzing this DAta] – [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] biểu thị khối hành động mở rộng bắt đầu bằng một dạng VERB thêm đuôi -ing kết hợp cùng đối tượng tác động phía sau để mô tả trọn vẹn một sự việc.</li>
 			
-					<li className="list-none">Khối ngoài: [Nalyzing this DAta] – [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] đang đứng vị trí đầu câu để đóng vai trò làm [SUBject][CHỦ] cho toàn câu lớn.</li>
+					<li className="list-none">Khối ngoài: [Nalyzing this DAta] – [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đang đứng vị trí đầu câu để đóng vai trò làm [SUBject][CHỦ] cho toàn câu lớn.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20" id="OBject-PHRASE"><strong>Ví dụ 1b</strong>: [<strong>OBject PHRASE</strong>][<strong>TÂN CỤM</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
+			<p className="margin-top-20" id="non-FInite-CLAUsal-OBject"><strong>Ví dụ 1b</strong>: [<strong>non-FInite CLAUsal OBject</strong>][<strong>BẤT-ĐỊNH CÂU TÂN</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -407,12 +407,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [disCUSSing the BUDget] – [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] biểu thị khối hành động phát triển từ một hình thái -ing kéo theo thành phần thông tin bổ trợ phía sau để hoàn thiện nghĩa cho đối tượng bị tác động.</li>
 			
-					<li className="list-none">Khối ngoài: [disCUSSing the BUDget] – [OBject PHRASE][TÂN CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM] đang đứng sau hành động chính để đóng vai trò làm [OBject][TÂN] cho toàn câu lớn.</li>
+					<li className="list-none">Khối ngoài: [disCUSSing the BUDget] – [non-FInite CLAUsal OBject][BẤT-ĐỊNH CÂU TÂN] được hình thành từ [NOUN PHRASE][DANH CỤM] đang đứng sau hành động chính để đóng vai trò làm [OBject][TÂN] cho toàn câu lớn.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20" id="SUBject-PHRASE-2"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20" id="non-FInite-CLAUsal-SUBject-2"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -489,7 +489,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái [conJUNCtional CLAUSE][LIÊN CÂU], ta xác định chức năng dựa trên khuôn mẫu như sau:</p>
 
-			<p className="margin-top-20" id="SUBject-CLAUSE"><strong>Ví dụ 1a</strong>: [<strong>SUBject CLAUSE</strong>][<strong>CHỦ CÂU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+			<p className="margin-top-20" id="FInite-CLAUsal-SUBject"><strong>Ví dụ 1a</strong>: [<strong>FInite CLAUsal SUBject</strong>][<strong>ĐỊNH CÂU CHỦ</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -498,12 +498,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [whaTEVer you deCIDE] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [conJUNCtion][LIÊN] "WhatEVer".</li>
 			
-					<li className="list-none">Khối ngoài: [whaTEVer you deCIDE] – [SUBject CLAUSE][CHỦ CÂU] đang đứng ở đầu câu lớn để giữ vai trò làm [SUBject][CHỦ] thực hiện [PREDicator HEAD][VỊ LÕI] "SHAPE".</li>
+					<li className="list-none">Khối ngoài: [whaTEVer you deCIDE] – [FInite CLAUsal SUBject][ĐỊNH CÂU CHỦ] đang đứng ở đầu câu lớn để giữ vai trò làm [SUBject][CHỦ] thực hiện [PREDicator HEAD][VỊ LÕI] "SHAPE".</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20" id="OBject-CLAUSE"><strong>Ví dụ 1b</strong>: [<strong>OBject CLAUSE</strong>][<strong>TÂN CÂU</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
+			<p className="margin-top-20" id="FInite-CLAUsal-OBject"><strong>Ví dụ 1b</strong>: [<strong>FInite CLAUsal OBject</strong>][<strong>ĐỊNH CÂU TÂN</strong>] <strong>làm</strong> [<strong>OBject</strong>][<strong>TÂN</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -512,12 +512,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [that she SPOKE the TRUTH] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con hoàn chỉnh có đầy đủ chủ vị và được dẫn dắt hiển lộ bởi [conJUNCtion][LIÊN] "that".</li>
 			
-					<li className="list-none">Khối ngoài: [that she SPOKE the TRUTH] – [OBject CLAUSE][TÂN CÂU] đang đứng vị trí [OBject][TÂN] để tiếp nhận hành động từ [PREDicator HEAD][VỊ LÕI] "disCOVered" của [SUBject PROnoun][CHỦ ĐẠI] "i".</li>
+					<li className="list-none">Khối ngoài: [that she SPOKE the TRUTH] – [FInite CLAUsal OBject][ĐỊNH CÂU TÂN] đang đứng vị trí [OBject][TÂN] để tiếp nhận hành động từ [PREDicator HEAD][VỊ LÕI] "disCOVered" của [SUBject PROnoun][CHỦ ĐẠI] "i".</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20" id="SUBject CLAUSE-2"><strong>Ví dụ 2</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
+			<p className="margin-top-20" id="FInite-CLAUsal-SUBject-2"><strong>Ví dụ 2</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -526,7 +526,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{who WROTE this ARticle}'} – [RELative CLAUSE][QUAN CÂU] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau. Đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the AUthor" tác giả đó.</li>
 			
-					<li className="list-none">Khối ngoài: [the AUthor {'{who WROTE this ARticle}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the AUthor {'{who WROTE this ARticle}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 			
@@ -563,7 +563,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [you TOOK the corRECT STEPS] – [CONtact CLAUSE][CHẠM CÂU] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
 			
-					<li className="list-none">Khối ngoài: [you TOOK the corRECT STEPS] – [OBject CLAUSE][TÂN CÂU] đang đứng vị trí [OBject][TÂN] để làm rõ sự việc chịu tác động trực tiếp từ [PREDicator HEAD][VỊ LÕI] "beLIEVE".</li>
+					<li className="list-none">Khối ngoài: [you TOOK the corRECT STEPS] – [FInite CLAUsal OBject][ĐỊNH CÂU TÂN] đang đứng vị trí [OBject][TÂN] để làm rõ sự việc chịu tác động trực tiếp từ [PREDicator HEAD][VỊ LÕI] "beLIEVE".</li>
 			
 				</ul>
 			
@@ -577,7 +577,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{he DROVE YESterday}'} – [CONtact CLAUSE][CHẠM CÂU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu. Đang đứng vị trí bám sát ngay sau [SUBject HEAD][CHỦ LÕI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
-					<li className="list-none">Khối ngoài: [the CAR {'{he DROVE YESterday}'}] - [SUBject PHRASE][CHỦ CỤM] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the CAR {'{he DROVE YESterday}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 			
@@ -604,7 +604,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. [NOUN PHRASE][DANH CỤM]</h4>
 
-			<p className="text-indent-whole"><strong>Kịch bản A</strong>: <strong>Làm</strong> [<strong>SUBject PHRASE</strong>][<strong>CHỦ CỤM</strong>]:</p>
+			<p className="text-indent-whole"><strong>Kịch bản A</strong>: <strong>Làm</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -619,14 +619,14 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Khối ngoài:</li>
 
-					<li className="list-none">[eVALuating {'{how we ALlocated the BUDget}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [SUBject PHRASE][CHỦ CỤM] đứng ở đầu câu lớn.</li>
+					<li className="list-none">[eVALuating {'{how we ALlocated the BUDget}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] đứng ở đầu câu lớn.</li>
 
-					<li className="list-none">Trong đó khối phụ {'{how we ALlocated the BUDget}'} - [OBject CLAUSE][TÂN CÂU] tầng trong chịu tác động trực tiếp từ hành động "eVALuating" đánh giá.</li>
+					<li className="list-none">Trong đó khối phụ {'{how we ALlocated the BUDget}'} - [FInite CLAUsal OBject][ĐỊNH CÂU TÂN] tầng trong chịu tác động trực tiếp từ hành động "eVALuating" đánh giá.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Kịch bản B</strong>: <strong>Làm</strong> [<strong>OBject PHRASE</strong>][<strong>TÂN CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Kịch bản B</strong>: <strong>Làm</strong> [<strong>non-FInite CLAUsal OBject</strong>][<strong>BẤT-ĐỊNH CÂU TÂN</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -641,9 +641,9 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Khối ngoài:</li>
 
-					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [OBject PHRASE][TÂN CỤM] lớn đứng sau [PRETerite FORM][KHỨ MẪU] "sugGESted".</li>
+					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [non-FInite CLAUsal OBject][BẤT-ĐỊNH CÂU TÂN] lớn đứng sau [PRETerite FORM][KHỨ MẪU] "sugGESted".</li>
 
-					<li className="list-none">Trong đó khối phụ {'{WHAT the TEAM acCOMplished this QUARter}'} - [OBject CLAUSE][TÂN CÂU] tầng trong nhỏ tiếp nhận tác động từ hành động xem xét.</li>
+					<li className="list-none">Trong đó khối phụ {'{WHAT the TEAM acCOMplished this QUARter}'} - [FInite CLAUsal OBject][ĐỊNH CÂU TÂN] tầng trong nhỏ tiếp nhận tác động từ hành động xem xét.</li>
 			
 				</ul>
 
@@ -665,7 +665,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">[in {'{which they TEST the SAMple}'}] – [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tầng ngoài đứng ngay sau thành phần [SUBject HEAD][CHỦ LÕI] chính "the LABoratory" để bổ nghĩa và khu biệt không gian.</li>
 
-					<li className="list-none">Trong đó khối phụ {'{which they TEST the SAMple}'} - [OBject CLAUSE][TÂN CÂU] tầng trong chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "in".</li>
+					<li className="list-none">Trong đó khối phụ {'{which they TEST the SAMple}'} - [FInite CLAUsal OBject][ĐỊNH CÂU TÂN] tầng trong chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "in".</li>
 			
 				</ul>
 			
@@ -688,7 +688,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">[through {'{WHAT she disCOVered during reSEARCH}'}] – [<strong>ADjunct</strong>][<strong>PHỤ</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
 
-					<li className="list-none">Trong đó khối phụ {'{WHAT she disCOVered during reSEARCH}'} - [OBject CLAUSE][TÂN CÂU] tầng trong tiếp nhận mối quan hệ phương tiện từ [prepoSITion][GIỚI] "through".</li>
+					<li className="list-none">Trong đó khối phụ {'{WHAT she disCOVered during reSEARCH}'} - [FInite CLAUsal OBject][ĐỊNH CÂU TÂN] tầng trong tiếp nhận mối quan hệ phương tiện từ [prepoSITion][GIỚI] "through".</li>
 
 			
 				</ul>
