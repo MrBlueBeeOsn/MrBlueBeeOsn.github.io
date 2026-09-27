@@ -88,7 +88,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [where they conDUCT MEDical exPERiments] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conDUCT\". \n\n Function: [where they conDUCT MEDical exPERiments] - [ADjective CLAUSE][TÍNH VẾ] post-modifies and defines the spatial traits of the head noun \"LABORatory\"."
+			explanation: "Form: [where they conDUCT MEDical exPERiments] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conDUCT\". \n\n Function: [where they conDUCT MEDical exPERiments] - [RELative CLAUSE][QUAN VẾ] post-modifies and defines the spatial traits of the head noun \"LABORatory\"."
 		},
 		{
 			id: 8,
@@ -118,7 +118,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG ĐỘNG CỤM] containing an outer finite verb \"sugGESTed\" and an embedded finite clause layer \"{that we postPONE the CORporate AUdit}\". \n\n Function: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postPONE...}\", which is morphologically an [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] functioning as a [NOUN CLAUSE][DANH VẾ] acting as the direct object of the internal verb \"sugGESTed\"."
+			explanation: "Form: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG ĐỘNG CỤM] containing an outer finite verb \"sugGESTed\" and an embedded finite clause layer \"{that we postPONE the CORporate AUdit}\". \n\n Function: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postPONE...}\", which is morphologically an [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] functioning as a [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] acting as the direct object of the internal verb \"sugGESTed\"."
 		}
 	];
 

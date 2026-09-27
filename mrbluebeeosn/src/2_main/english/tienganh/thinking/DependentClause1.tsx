@@ -130,7 +130,7 @@ export default function DependentClause1(): React.JSX.Element {
 
 			<p>Mọi phụ câu dù dài hay ngắn đều chỉ đảm nhận vị trí tương đương với một từ loại cơ bản.</p>
 			
-			<h4 className="margin-y-40">Chức năng [ADjective CLAUSE][TÍNH VẾ]</h4>
+			<h4 className="margin-y-40">Chức năng [RELative CLAUSE][QUAN VẾ]</h4>
 					
 			<p className="text-indent-whole">Nằm ngay sau một NOUN để định hình hoặc làm rõ đặc điểm cho NOUN đó.</p>
 			
@@ -141,7 +141,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm [THAT is BARKing] đóng vai trò như một [ADjective CLAUSE][TÍNH VẾ] lớn để phân biệt con chó này với những con khác</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm [THAT is BARKing] đóng vai trò như một [RELative CLAUSE][QUAN VẾ] lớn để phân biệt con chó này với những con khác</p>
 			
 			
 			<h4 className="margin-y-40">Chức năng [ADjunct][PHỤ]</h4>
@@ -158,7 +158,7 @@ export default function DependentClause1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">→ Cụm [be<strong>cause</strong> it was COLD] giải thích nguyên nhân cho việc ở trong nhà.</p>
 			
 			
-			<h4 className="margin-y-40">Chức năng [NOUN CLAUSE][DANH VẾ]</h4>
+			<h4 className="margin-y-40">Chức năng [interROGative CONtent CLAUSE][VẤN NỘI VẾ]</h4>
 					
 			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Câu thông thường để làm [SUBject PROnoun][CHỦ ĐẠI] hoặc [OBject PROnoun][TÂN ĐẠI] chịu tác động.</p>
 			

@@ -68,7 +68,7 @@ export default function ThreeDC2(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li>[<strong>running</strong>]</li>
-					<li className="margin-bottom-20 list-none">Hình thái: [running] - [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] bắt đầu từ [ĐỘNG] nguyên bản một từ duy nhất ở dạng V-ing, không có chủ thể hay bổ túc kèm theo</li>
+					<li className="margin-bottom-20 list-none">Hình thái: [running] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản một từ duy nhất ở dạng V-ing, không có chủ thể hay bổ túc kèm theo</li>
 			
 					<li>[<strong>eat an apple</strong>]</li>
 					<li className="margin-bottom-20 list-none">Hình thái: [eat an apple] - [BARE infiniTIval CLAUSE][THUẦN NGUYÊN VẾ] gồm [ĐỘNG] [eat] và một tân thể [an apple], nhưng không có chủ thể riêng bên trong</li>
@@ -100,7 +100,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______] is fun.</li>
 					<li className="margin-bottom-20 list-none">[Chạy bộ] thì vui.</li>
 			
-					<li className="list-none">Khối trong: [Running] - [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] bắt đầu từ [ĐỘNG] nguyên bản một từ ở dạng V-ing, không có gì kèm theo</li>
+					<li className="list-none">Khối trong: [Running] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản một từ ở dạng V-ing, không có gì kèm theo</li>
 			
 					<li className="list-none">Khối ngoài: [Running] - [NOUN PHRASE SUBject][DANH CỤM CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, là cái được khẳng định là [is fun]</li>
 			
@@ -267,7 +267,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______] is relaxing.</li>
 					<li className="margin-bottom-20 list-none">[Chạy bộ] thì thư giãn.</li>
 			
-					<li className="list-none">Khối trong: [Running] - [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] bắt đầu từ [ĐỘNG] nguyên bản một từ V-ing</li>
+					<li className="list-none">Khối trong: [Running] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản một từ V-ing</li>
 			
 					<li className="list-none">Khối ngoài: [Running] - [NOUN PHRASE SUBject][DANH CỤM CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] làm chủ thể của câu, cái được khẳng định là thư giãn</li>
 			
@@ -392,7 +392,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Ví dụ: [Swimming] is good for health.</li>
 			
 					<li><strong>Bước 2</strong> – Xác định hình thái của từng khối.</li>
-					<li className="margin-bottom-20 list-none">[Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] bắt đầu từ [ĐỘNG] nguyên bản một từ V-ing</li>
+					<li className="margin-bottom-20 list-none">[Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản một từ V-ing</li>
 
 					<li><strong>Bước 3</strong> – Xác định chức năng của khối đó trong câu.</li>
 					<li className="margin-bottom-20 list-none">[Swimming] - [NOUN PHRASE SUBject][DANH CỤM CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, là cái được nói đến</li>

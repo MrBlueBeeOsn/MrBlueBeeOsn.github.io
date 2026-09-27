@@ -597,7 +597,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the HIGHer the PRESsure RIses, [the FASter the CHEMical reACTS].</li>
 					<li className="margin-bottom-20 list-none">Áp suất càng tăng cao, [hóa chất càng phản ứng nhanh hơn].</li>
 			
-					<li className="list-none">Khối trong: Khối [the FASter the CHEMical reACTS] - [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] mang cấu trúc so sánh lũy tiến song hành đặc trưng nhưng không sử dụng [suBORdinator][HẠ] phụ thuộc truyền thống.</li>
+					<li className="list-none">Khối trong: Khối [the FASter the CHEMical reACTS] - [ZEro suBORdinate CLAUSE][KHUYẾT PHỤ VẾ] mang cấu trúc so sánh lũy tiến song hành đặc trưng nhưng không sử dụng [suBORdinator][HẠ] phụ thuộc truyền thống.</li>
 			
 					<li className="list-none">Khối ngoài: Khối [the FASter the CHEMical reACTS] thực thi chức năng [ADjunct][PHỤ] đóng vai trò một khối bối cảnh tương quan hệ quả để bổ nghĩa bối cảnh hệ quả cho vế điều kiện phía trước.</li>
 			
