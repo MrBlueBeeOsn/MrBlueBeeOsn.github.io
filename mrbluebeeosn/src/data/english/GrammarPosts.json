@@ -163,12 +163,21 @@
       "date": "2026-09-27"
     },
     { 
-      "id": "The6CoreVerbShapes",
+      "id": "TheFormsOFfTheVerb",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
-      "title": "The 6 Core Verb Shapes",
-      "content": "The 6 Core Verb Shapes",
-      "slug": "grammar/the-6-core-verb-shapes",
+      "title": "The Forms of the English Verb",
+      "content": "The Six Core Inflectional Forms of the English Verb: Morphology vs. Clause Structure",
+      "slug": "grammar/the-forms-of-the-verb",
+      "date": "2026-09-27"
+    },
+    { 
+      "id": "TheLexicalVerbREAD",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "The Lexical Verb READ",
+      "content": "The Morphological Framework of CGEL 2002: Understanding \"Forms\" and Syncretism in the Paradigm of Read",
+      "slug": "grammar/the-lexical-verb-READ",
       "date": "2026-09-27"
     }
   ]

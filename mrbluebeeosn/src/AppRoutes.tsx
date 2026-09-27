@@ -127,7 +127,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const ThePhrasevsClauseDebate = lazy(() => import('@/2_main/english/grammar/ThePhrasevsClauseDebate'));
 	const PredicatorAndAdjunct = lazy(() => import('@/2_main/english/grammar/PredicatorAndAdjunct'));
 	const VerbAndPredicator = lazy(() => import('@/2_main/english/grammar/VerbAndPredicator'));
-	const The6CoreVerbShapes = lazy(() => import('@/2_main/english/grammar/The6CoreVerbShapes'));
+	const TheFormsOFfTheVerb = lazy(() => import('@/2_main/english/grammar/TheFormsOFfTheVerb'));
+	const TheLexicalVerbREAD = lazy(() => import('@/2_main/english/grammar/TheLexicalVerbREAD'));
 
 
 	// Quiz
@@ -767,7 +768,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/the-phrase-vs-clause-debate" element={<ThePhrasevsClauseDebate />} />
 					<Route path="/grammar/predicator-and-adjunct" element={<PredicatorAndAdjunct />} />
 					<Route path="/grammar/verb-and-predicator" element={<VerbAndPredicator />} />
-					<Route path="/grammar/the-6-core-verb-shapes" element={<The6CoreVerbShapes />} />
+					<Route path="/grammar/the-forms-of-the-verb" element={<TheFormsOFfTheVerb />} />
+					<Route path="/grammar/the-lexical-verb-READ" element={<TheLexicalVerbREAD />} />
 
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />

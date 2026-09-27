@@ -129,7 +129,13 @@ export default function GrammarIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/the-6-core-verb-shapes">The 6 Core Verb Shapes</Link>
+                <Link to="/grammar/the-forms-of-the-verb">The Forms of the Verb</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/the-lexical-verb-READ">the Lexical Verb READ</Link>
               </div>
             </li>
 
