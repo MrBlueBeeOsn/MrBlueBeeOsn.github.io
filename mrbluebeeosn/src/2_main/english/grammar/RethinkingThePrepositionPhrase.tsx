@@ -17,11 +17,11 @@ export default function RethinkingThePrepositionPhrase(): React.JSX.Element {
     
       <h4><HashLink smooth to="/grammar#Modern-Grammar"><mark className="highlight-tertiary-padding-4-8">Modern Grammar</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">Rethinking the Preposition Phrase</h1>
+      <h1 className="margin-y-50 text-center">The Preposition Phrase</h1>
 
       {/* This is the content of English Learning Term. */}
 
-      <h4 className="margin-bottom-30 text-center">A Cambridge 2002 Framework</h4>
+      <h4 className="margin-bottom-30 text-center">Rethinking the Preposition Phrase: A Cambridge 2002 Framework</h4>
       
       <p>In traditional English grammar, word classification often relies heavily on what follows a specific word. For instance, words like because, after, or although are abruptly shifted from "prepositions" to "conjunctions" the moment they are followed by a clause instead of a noun.</p>
       

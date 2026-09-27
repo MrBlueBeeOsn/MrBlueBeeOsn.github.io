@@ -17,11 +17,11 @@ export default function ShiftingToModernGrammar(): React.JSX.Element {
     
       <h4><HashLink smooth to="/grammar#Modern-Grammar"><mark className="highlight-tertiary-padding-4-8">Modern Grammar</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">Shifting to Modern Grammar</h1>
+      <h1 className="margin-y-50 text-center">Modern Grammar</h1>
 
       {/* This is the content of English Learning Term. */}
 
-      <h4 className="margin-bottom-30 text-center">Understanding Prepositions and Clauses (Cambridge 2002 vs. Merriam-Webster)</h4>
+      <h4 className="margin-bottom-30 text-center">Shifting to Modern Grammar: Understanding Prepositions and Clauses (Cambridge 2002 vs. Merriam-Webster)</h4>
       
       <p>When analyzing the English language, learners often encounter a frustrating clash between traditional dictionaries like Merriam-Webster and advanced academic frameworks like The Cambridge Grammar of the English Language (2002) and the Oxford Modern English Grammar.</p>
       

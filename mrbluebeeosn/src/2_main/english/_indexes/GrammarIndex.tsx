@@ -99,13 +99,37 @@ export default function GrammarIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/shifting-to-modern-grammar">Shifting to Modern Grammar</Link>
+                <Link to="/grammar/shifting-to-modern-grammar">Modern Grammar</Link>
               </div>
             </li>
             
             <li>
               <div className="li-content">
-                <Link to="/grammar/rethinking-the-preposition-phrase">Rethinking the Preposition Phrase</Link>
+                <Link to="/grammar/rethinking-the-preposition-phrase">The Preposition Phrase</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/verb-and-predicator">"Verb" and "Predicator"</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/predicator-and-adjunct">Predicator and Adjunct</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/the-phrase-vs-clause-debate">The "Phrase" vs. "Clause"</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/the-6-core-verb-shapes">The 6 Core Verb Shapes</Link>
               </div>
             </li>
 

@@ -109,21 +109,21 @@
       "date": "2026-09-20"
     },
     { 
-      "id": "The6PrepositionPhrases",
+      "id": "RethinkingThePrepositionPhrase",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
-      "title": "The 6 Preposition Phrases",
+      "title": "Rethinking The Preposition Phrase",
       "content": "Rethinking the Preposition Phrase: A Cambridge 2002 Framework",
       "slug": "grammar/the-6-types-of-complements",
       "date": "2026-09-26"
     },
     { 
-      "id": "The3TypesOfClauses",
+      "id": "ShiftingToModernGrammar",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
-      "title": "The 3 Types of Clauses",
-      "content": "While traditional textbooks break clauses down into Noun, Adjective, and Adverb clauses, Cambridge 2002 and Oxford Modern English Grammar completely discard this old trio.",
-      "slug": "grammar/the-3-types-of-clauses",
+      "title": "Modern Grammar",
+      "content": "Shifting to Modern Grammar: Understanding Prepositions and Clauses (Cambridge 2002 vs. Merriam-Webster)",
+      "slug": "grammar/shifting-to-modern-grammar",
       "date": "2026-09-26"
     },
     { 
@@ -134,6 +134,42 @@
       "content": "The Origin of Content Clauses, Indirect Questions, and Relative Clauses",
       "slug": "grammar/questions-to-content-clauses",
       "date": "2026-09-26"
+    },
+    { 
+      "id": "VerbandPredicator",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Ver band Predicator",
+      "content": "The Hidden Engine of a Sentence: Understanding the Difference Between \"Verb\" and \"Predicator\"",
+      "slug": "grammar/verb-and-predicator",
+      "date": "2026-09-27"
+    },
+    { 
+      "id": "PredicatorandAdjunct",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Predicator and Adjunct",
+      "content": "A Guide to Clause Structure: Predicator and Adjunct (Cambridge 2002)",
+      "slug": "grammar/predicator-and-adjunct",
+      "date": "2026-09-27"
+    },
+    { 
+      "id": "ThePhrasevsClauseDebate",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "The Phrase vs Clause",
+      "content": "Clarifying the \"Phrase\" vs. \"Clause\" Debate: Structural Classification in the Cambridge Grammar of the English Language (2002)",
+      "slug": "grammar/the-phrase-vs-clause-debate",
+      "date": "2026-09-27"
+    },
+    { 
+      "id": "The6CoreVerbShapes",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "The 6 Core Verb Shapes",
+      "content": "The 6 Core Verb Shapes",
+      "slug": "grammar/the-6-core-verb-shapes",
+      "date": "2026-09-27"
     }
   ]
 }

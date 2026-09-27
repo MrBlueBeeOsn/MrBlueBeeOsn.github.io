@@ -124,6 +124,10 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const RethinkingThePrepositionPhrase = lazy(() => import('@/2_main/english/grammar/RethinkingThePrepositionPhrase'));
 	const ShiftingToModernGrammar = lazy(() => import('@/2_main/english/grammar/ShiftingToModernGrammar'));
 	const QuestionsToContentClauses = lazy(() => import('@/2_main/english/grammar/QuestionsToContentClauses'));
+	const ThePhrasevsClauseDebate = lazy(() => import('@/2_main/english/grammar/ThePhrasevsClauseDebate'));
+	const PredicatorAndAdjunct = lazy(() => import('@/2_main/english/grammar/PredicatorAndAdjunct'));
+	const VerbAndPredicator = lazy(() => import('@/2_main/english/grammar/VerbAndPredicator'));
+	const The6CoreVerbShapes = lazy(() => import('@/2_main/english/grammar/The6CoreVerbShapes'));
 
 
 	// Quiz
@@ -760,6 +764,10 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/rethinking-the-preposition-phrase" element={<RethinkingThePrepositionPhrase />} />
 					<Route path="/grammar/shifting-to-modern-grammar" element={<ShiftingToModernGrammar />} />
 					<Route path="/grammar/questions-to-content-clauses" element={<QuestionsToContentClauses />} />
+					<Route path="/grammar/the-phrase-vs-clause-debate" element={<ThePhrasevsClauseDebate />} />
+					<Route path="/grammar/predicator-and-adjunct" element={<PredicatorAndAdjunct />} />
+					<Route path="/grammar/verb-and-predicator" element={<VerbAndPredicator />} />
+					<Route path="/grammar/the-6-core-verb-shapes" element={<The6CoreVerbShapes />} />
 
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />
