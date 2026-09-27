@@ -653,10 +653,10 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <div className="sub-box">
 
           {/* =============================
-            [SUBject][VERB][OBject][ADjunct]
+            [SUBject][PREDicator][OBject][ADjunct]
           ============================= */}
       
-          <p id="SUBject-VERB-OBject-ADjunct"><mark className="highlight-secondary-padding-2-4">[SUBject][VERB][OBject][ADjunct]</mark></p>
+          <p id="SUBject-PREDicator-OBject-ADjunct"><mark className="highlight-secondary-padding-2-4">[SUBject][PREDicator][OBject][ADjunct]</mark></p>
 
           <ul className="list-border1">
 

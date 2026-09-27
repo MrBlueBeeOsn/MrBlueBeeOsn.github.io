@@ -15,7 +15,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#SUBject-VERB-OBject-ADjunct"><mark className="highlight-tertiary-padding-4-8">[SUBject][VERB][OBject][ADjunct]</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#SUBject-PREDicator-OBject-ADjunct"><mark className="highlight-tertiary-padding-4-8">[SUBject][PREDicator][OBject][ADjunct]</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">[EMBEDDED STRUCture]
 												
@@ -116,7 +116,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			</div>
 
 
-			<h4 className="margin-bottom-30 text-center">BẬT TƯ DUY LẬP TRÌNH: TUYỆT CHƯƠNG ĐÓNG GÓI MÃ NGUỒN [SUBject][VERB][OBject][ADjunct] - [LÕI][CỤM][CÂU]</h4>
+			<h4 className="margin-bottom-30 text-center">BẬT TƯ DUY LẬP TRÌNH: TUYỆT CHƯƠNG ĐÓNG GÓI MÃ NGUỒN [SUBject][PREDicator][OBject][ADjunct] - [LÕI][CỤM][CÂU]</h4>
 
 			<p>Bạn đã bao giờ rơi vào trạng thái "chập mạch" khi cố gắng nhồi nhét hàng tá cấu trúc ngôn ngữ phức tạp?</p>
 
