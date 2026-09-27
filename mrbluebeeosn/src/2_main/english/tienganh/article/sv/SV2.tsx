@@ -68,7 +68,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[PREDicator HEAD][VỊ LÕI]</li>
 					<li className="margin-bottom-20 list-none">Dạng gốc của hành động hoặc trạng thái, không kèm theo bất kỳ dấu hiệu nào về thời điểm.</li>
 			
-					<li>[VERB PHRASE][ĐỘNG CỤM]</li>
+					<li>[CLAUSE][CÂU]</li>
 					<li className="margin-bottom-20 list-none">Nhóm từ bắt đầu bằng ĐỘNG, có thể kèm thêm các thành phần bổ sung.</li>
 
 					<li>[prepoSITional PHRASE][GIỚI CỤM]</li>
@@ -163,7 +163,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He enjoys [reading mystery novels].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy thích [đọc tiểu thuyết trinh thám].</li>
 			
-					<li className="list-none">Khối trong: [reading mystery novels] – [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] bắt đầu bằng hành động reading dạng V-ing, kèm thêm mystery novels để tạo thành một khối hoàn chỉnh.</li>
+					<li className="list-none">Khối trong: [reading mystery novels] – [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] bắt đầu bằng hành động reading dạng V-ing, kèm thêm mystery novels để tạo thành một khối hoàn chỉnh.</li>
 			
 					<li className="list-none">Khối ngoài: [reading mystery novels] – [NOUN PHRASE][DANH CỤM] đứng sau hành động enjoys, là [OBject PROnoun] – đối tượng tiếp nhận hành động.</li>
 			
@@ -208,7 +208,7 @@ export default function SV2(): React.JSX.Element {
 					<li>The child seems [exhausted from playing].</li>
 					<li className="margin-bottom-20 list-none">Đứa trẻ có vẻ [kiệt sức vì chơi].</li>
 			
-					<li className="list-none">Khối trong: [exhausted from playing] – [PAST PARTiciple VERB PHRASE][ĐÃ HOÀN ĐỘNG CỤM] gồm hành động exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
+					<li className="list-none">Khối trong: [exhausted from playing] – [PAST PARTiciple CLAUSE][KHỨ TÍNH CÂU] gồm hành động exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
 			
 					<li className="list-none">Khối ngoài: [exhausted from playing] – [ADjective PHRASE][TÍNH CỤM] đứng sau hành động seems, mô tả trạng thái của thực thể The child.</li>
 			
@@ -254,7 +254,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She saves money [to travel abroad].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy tiết kiệm tiền [để đi du lịch nước ngoài].</li>
 			
-					<li className="list-none">Khối trong: [to travel abroad] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] gồm hành động nguyên mẫu có to và abroad.</li>
+					<li className="list-none">Khối trong: [to travel abroad] – [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] gồm hành động nguyên mẫu có to và abroad.</li>
 			
 					<li className="list-none">Khối ngoài: [to travel abroad] – [ADjunct][PHỤ] đứng cuối câu, bổ sung ý nghĩa về mục đích cho hành động saves money.</li>
 			
@@ -332,7 +332,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Going for a jog every morning] is beneficial.</li>
 					<li className="margin-bottom-20 list-none">[Đi chạy bộ mỗi sáng] có lợi cho sức khỏe.</li>
 			
-					<li className="list-none">Khối trong: [Going for a jog every morning] – [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM].</li>
+					<li className="list-none">Khối trong: [Going for a jog every morning] – [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU].</li>
 			
 					<li className="list-none">Khối ngoài: [Going for a jog every morning] – [NOUN PHRASE][DANH CỤM] vẫn đứng ở đầu câu, cùng vai trò thực thể trung tâm.</li>
 			
@@ -412,7 +412,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She called me [to share the good news].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy gọi cho tôi [để chia sẻ tin vui].</li>
 			
-					<li className="list-none">Khối trong: [to share the good news] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] dạng nguyên mẫu mục đích.</li>
+					<li className="list-none">Khối trong: [to share the good news] – [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] dạng nguyên mẫu mục đích.</li>
 			
 					<li className="list-none">Khối ngoài: [to share the good news] – [ADjunct][PHỤ] bổ sung ý nghĩa mục đích cho hành động called.</li>
 			
@@ -493,7 +493,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[His finishing the race] impressed [everyone].</li>
 					<li className="margin-bottom-20 list-none">[Việc anh ấy hoàn thành cuộc đua] gây ấn tượng [mọi người].</li>
 			
-					<li className="list-none">Khối trong: [His finishing the race] – [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM].</li>
+					<li className="list-none">Khối trong: [His finishing the race] – [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU].</li>
 			
 					<li className="list-none">Khối ngoài: [His finishing the race] – [NOUN PHRASE][DANH CỤM] vẫn đứng đầu câu, cùng chức năng.</li>
 			

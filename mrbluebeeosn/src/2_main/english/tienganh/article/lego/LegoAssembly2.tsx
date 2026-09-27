@@ -66,7 +66,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 			<p className="margin-top-20">Dependent được tổ chức theo <strong>3 cấp độ</strong> (Cơ → Cụm → Câu) và <strong>3 chức năng</strong> (Danh – Tính – Trạng). Nguyên lý xuyên suốt: <strong>Hình thái trước</strong> – <strong>Chức năng sau</strong>.</p>
 
-			<p>Đầu tiên nhận diện Dependent là một [ROOT VERB][GỐC ĐỘNG], [VERB PHRASE][ĐỘNG CỤM] hay [conJUNCtional CLAUSE][LIÊN CÂU]. Sau đó, dựa vào vị trí trong câu lớn, suy ra nó đang đảm nhận chức năng Danh, Tính hay Trạng.</p>
+			<p>Đầu tiên nhận diện Dependent là một [ROOT VERB][GỐC ĐỘNG], [CLAUSE][CÂU] hay [conJUNCtional CLAUSE][LIÊN CÂU]. Sau đó, dựa vào vị trí trong câu lớn, suy ra nó đang đảm nhận chức năng Danh, Tính hay Trạng.</p>
 
 			<p>Khi đã thuần thục, bạn có thể <strong>viết lại câu</strong> (<strong>paraphrasing</strong>) chỉ bằng cách thay khối Dependent này bằng một khối Dependent khác <strong>cùng chức năng</strong> – giống như đổi một miếng Lego cùng hình dạng nhưng khác màu.</p>
 
@@ -102,7 +102,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She wants [to learn English].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy muốn [học tiếng Anh].</li>
 			
-					<li className="list-none">Khối trong: [to learn English] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] bắt đầu bằng [ĐỘNG] ở dạng nguyên mẫu có to</li>
+					<li className="list-none">Khối trong: [to learn English] – [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] bắt đầu bằng [ĐỘNG] ở dạng nguyên mẫu có to</li>
 			
 					<li className="list-none">Khối ngoài: [to learn English] – [NOUN PHRASE][DANH CỤM] nhận tác động từ Head wants</li>
 			
@@ -198,7 +198,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She studies [to pass the exam].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy học [để vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Khối trong: [to pass the exam] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] nguyên mẫu chỉ mục đích</li>
+					<li className="list-none">Khối trong: [to pass the exam] – [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] nguyên mẫu chỉ mục đích</li>
 			
 					<li className="list-none">Khối ngoài: [to pass the exam] – [ADjunct][PHỤ] bổ nghĩa cho việc studies nêu mục đích</li>
 			
@@ -258,7 +258,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She wants [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy muốn [học tiếng Anh].</li>
 			
-					<li className="list-none">[to learn English] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] → chức năng [NOUN PHRASE][DANH CỤM]</li>
+					<li className="list-none">[to learn English] – [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] → chức năng [NOUN PHRASE][DANH CỤM]</li>
 			
 				</ul>
 			
@@ -288,7 +288,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>The girl [______] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Cô gái [đang ngồi trên ghế dài] là bạn tôi.</li>
 			
-					<li className="list-none">[sitting on the bench] – [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] → chức năng [ADjective PHRASE][TÍNH CỤM]</li>
+					<li className="list-none">[sitting on the bench] – [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] → chức năng [ADjective PHRASE][TÍNH CỤM]</li>
 			
 				</ul>
 			
@@ -315,7 +315,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He works hard [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy làm việc chăm chỉ [để kiếm tiền].</li>
 			
-					<li className="list-none">[to earn money] – [FULL inFINitive VERB PHRASE][TOÀN NGUYÊN ĐỘNG CỤM] → chức năng [ADjunct][PHỤ]</li>
+					<li className="list-none">[to earn money] – [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] → chức năng [ADjunct][PHỤ]</li>
 			
 				</ul>
 			
@@ -354,7 +354,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>[______] is fun.</li>
 					<li className="margin-bottom-20 list-none">[Chạy bộ mỗi sáng] thì vui.</li>
 			
-					<li className="list-none">[Running every morning] – [PRESent PARTiciple VERB PHRASE][HIỆN TIẾP ĐỘNG CỤM] → chức năng [NOUN PHRASE][DANH CỤM]</li>
+					<li className="list-none">[Running every morning] – [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] → chức năng [NOUN PHRASE][DANH CỤM]</li>
 			
 				</ul>
 			
