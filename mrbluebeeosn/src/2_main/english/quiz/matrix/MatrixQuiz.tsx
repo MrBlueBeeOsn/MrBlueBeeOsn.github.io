@@ -28,7 +28,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [to LEARN EVERyday] - [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] formed by combining the infinitive marker \"to\", the bare VERB \"LEARN\", and the adverbial modifier \"EVERyday\". \n\n Function: [to LEARN EVERyday] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] is formed from  [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"exPANDS\", acting as the nominal head of the sentence."
+			explanation: "Form: [to LEARN EVERyday] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] formed by combining the infinitive marker \"to\", the bare VERB \"LEARN\", and the adverbial modifier \"EVERyday\". \n\n Function: [to LEARN EVERyday] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] is formed from  [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"exPANDS\", acting as the nominal head of the sentence."
 		},
 		{
 			id: 2,
@@ -58,7 +58,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [MANaging a LARGE interNATional TEAM] - [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] formed by the gerund \"MANaging\" and its direct object phrase \"a LARGE interNATional TEAM\". \n\n Function: [MANaging a LARGE interNATional TEAM] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] is formed from [NOUN PHRASE][DANH CỤM] occupies the subject slot of the main verb \"reQUIres\"."
+			explanation: "Form: [MANaging a LARGE interNATional TEAM] - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] formed by the gerund \"MANaging\" and its direct object phrase \"a LARGE interNATional TEAM\". \n\n Function: [MANaging a LARGE interNATional TEAM] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] is formed from [NOUN PHRASE][DANH CỤM] occupies the subject slot of the main verb \"reQUIres\"."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [WRITten by the FAmous proFESsor] - [PAST PARTiciple CLAUSE][KHỨ TÍNH CÂU] formed by the past participle \"WRITten\" and its agentive prepositional phrase \"by the FAmous proFESsor\". \n\n Function: [WRITten by the FAmous proFESsor] - [ADjective PHRASE][TÍNH CỤM] post-modifies and restricts the meaning of the head noun \"BOOK\"."
+			explanation: "Form: [WRITten by the FAmous proFESsor] - [PAST PARTiciple CLAUSE][KHỨ TÍNH VẾ] formed by the past participle \"WRITten\" and its agentive prepositional phrase \"by the FAmous proFESsor\". \n\n Function: [WRITten by the FAmous proFESsor] - [ADjective PHRASE][TÍNH CỤM] post-modifies and restricts the meaning of the head noun \"BOOK\"."
 		},
 		{
 			id: 6,
@@ -78,7 +78,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to FINish his gradUAtion THEsis] - [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] formed by the infinitive marker \"to\", the VERB \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [ADjunct][PHỤ] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
+			explanation: "Form: [to FINish his gradUAtion THEsis] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] formed by the infinitive marker \"to\", the VERB \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [ADjunct][PHỤ] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
 		},
 		{
 			id: 7,
@@ -88,7 +88,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [where they conDUCT MEDical exPERiments] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conDUCT\". \n\n Function: [where they conDUCT MEDical exPERiments] - [ADjective CLAUSE][TÍNH CÂU] post-modifies and defines the spatial traits of the head noun \"LABORatory\"."
+			explanation: "Form: [where they conDUCT MEDical exPERiments] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conDUCT\". \n\n Function: [where they conDUCT MEDical exPERiments] - [ADjective CLAUSE][TÍNH VẾ] post-modifies and defines the spatial traits of the head noun \"LABORatory\"."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [although the TEAM FACED seVERE BUDget CUTS] - [suBORdinate CLAUSE][PHỤ CÂU] formed by the subordinating conjunction \"although\" followed by a full clause containing the subject \"the TEAM\" and finite verb \"FACED\". \n\n Function: [although the TEAM FACED seVERE BUDget CUTS] - [ADjunct][PHỤ] modifies the entire main clause by providing a situational context of concession."
+			explanation: "Form: [although the TEAM FACED seVERE BUDget CUTS] - [suBORdinate CLAUSE][PHỤ VẾ] formed by the subordinating conjunction \"although\" followed by a full clause containing the subject \"the TEAM\" and finite verb \"FACED\". \n\n Function: [although the TEAM FACED seVERE BUDget CUTS] - [ADjunct][PHỤ] modifies the entire main clause by providing a situational context of concession."
 		},
 		{
 			id: 9,
@@ -118,7 +118,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG ĐỘNG CỤM] containing an outer finite verb \"sugGESTed\" and an embedded finite clause layer \"{that we postPONE the CORporate AUdit}\". \n\n Function: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postPONE...}\", which is morphologically an [conJUNCtional CLAUSE][LIÊN CÂU] functioning as a [NOUN CLAUSE][DANH CÂU] acting as the direct object of the internal verb \"sugGESTed\"."
+			explanation: "Form: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG ĐỘNG CỤM] containing an outer finite verb \"sugGESTed\" and an embedded finite clause layer \"{that we postPONE the CORporate AUdit}\". \n\n Function: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postPONE...}\", which is morphologically an [conJUNCtional CLAUSE][LIÊN VẾ] functioning as a [NOUN CLAUSE][DANH VẾ] acting as the direct object of the internal verb \"sugGESTed\"."
 		}
 	];
 

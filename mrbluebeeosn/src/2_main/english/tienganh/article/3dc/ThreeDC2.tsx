@@ -71,10 +71,10 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Hình thái: [running] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản một từ duy nhất ở dạng V-ing, không có chủ thể hay bổ túc kèm theo</li>
 			
 					<li>[<strong>eat an apple</strong>]</li>
-					<li className="margin-bottom-20 list-none">Hình thái: [eat an apple] - [BARE infiniTIval CLAUSE][THUẦN NGUYÊN CÂU] gồm [ĐỘNG] [eat] và một tân thể [an apple], nhưng không có chủ thể riêng bên trong</li>
+					<li className="margin-bottom-20 list-none">Hình thái: [eat an apple] - [BARE infiniTIval CLAUSE][THUẦN NGUYÊN VẾ] gồm [ĐỘNG] [eat] và một tân thể [an apple], nhưng không có chủ thể riêng bên trong</li>
 			
 					<li>[<strong>that she sings well</strong>]</li>
-					<li className="list-none">Khối trong: [that she sings well] - [suBORdinate CLAUSE][PHỤ CÂU] có cặp chủ thể [she] và hành động [sings] bên trong, nhưng không thể đứng độc lập thành câu hoàn chỉnh</li>
+					<li className="list-none">Khối trong: [that she sings well] - [suBORdinate CLAUSE][PHỤ VẾ] có cặp chủ thể [she] và hành động [sings] bên trong, nhưng không thể đứng độc lập thành câu hoàn chỉnh</li>
 			
 				</ul>
 
@@ -114,23 +114,23 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She loves [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy thích [đọc tiểu thuyết trinh thám].</li>
 			
-					<li className="list-none">Khối trong: [to read mystery novels] - [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] gồm [to read] và tân thể [mystery novels]</li>
+					<li className="list-none">Khối trong: [to read mystery novels] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] gồm [to read] và tân thể [mystery novels]</li>
 			
 					<li className="list-none">Khối ngoài: [to read mystery novels] - [NOUN PHRASE][DANH CỤM] là đối tượng trực tiếp của [ĐỘNG] [loves], cái mà hành động yêu thích hướng đến</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>]: [That you forgot my birthday]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>NOUN CLAUSE</strong>][<strong>DANH VẾ</strong>]: [That you forgot my birthday]</p>
 			
 				<ul className="list-square">
 			
 					<li>[______] upset me.</li>
 					<li className="margin-bottom-20 list-none">[Việc bạn quên sinh nhật tôi] làm tôi buồn.</li>
 			
-					<li className="list-none">Khối trong: [That you forgot my birthday] - [suBORdinate CLAUSE][PHỤ CÂU] có cặp [you] và [forgot] bên trong</li>
+					<li className="list-none">Khối trong: [That you forgot my birthday] - [suBORdinate CLAUSE][PHỤ VẾ] có cặp [you] và [forgot] bên trong</li>
 			
-					<li className="list-none">Khối ngoài: [That you forgot my birthday] - [NOUN CLAUSE][DANH CÂU] đứng đầu câu, là toàn bộ sự kiện gây ra tác động [upset me]</li>
+					<li className="list-none">Khối ngoài: [That you forgot my birthday] - [NOUN CLAUSE][DANH VẾ] đứng đầu câu, là toàn bộ sự kiện gây ra tác động [upset me]</li>
 			
 				</ul>
 			
@@ -144,9 +144,9 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Khối trong khối ngoài: [ heard {'{ ... }'} ] - [emBEDded NOUN PHRASE][NHÚNG ĐỘNG CỤM] gồm [ĐỘNG] [heard] và một khối bên trong</li>
 			
-					<li className="margin-bottom-20 list-none">Hình thái khối trong: {'{ that she had won }'} - [suBORdinate CLAUSE][PHỤ CÂU] có cặp [she] và [had won]</li>
+					<li className="margin-bottom-20 list-none">Hình thái khối trong: {'{ that she had won }'} - [suBORdinate CLAUSE][PHỤ VẾ] có cặp [she] và [had won]</li>
 
-					<li className="list-none">Khối ngoài khối trong: {'{ that she had won }'} - [NOUN CLAUSE][DANH CÂU] là nội dung của hành động nghe</li>
+					<li className="list-none">Khối ngoài khối trong: {'{ that she had won }'} - [NOUN CLAUSE][DANH VẾ] là nội dung của hành động nghe</li>
 			
 					<li className="list-none">Khối ngoài khối ngoài: toàn bộ [ heard {'{ ... }'} ] - [NOUN PHRASE][DANH CỤM] là đối tượng trực tiếp của [ĐỘNG] [heard], chịu tác động từ chủ thể [We]</li>
 			
@@ -181,23 +181,23 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>The boy [______] is my brother.</li>
 					<li className="margin-bottom-20 list-none">Cậu bé [đội mũ đỏ] là em trai tôi.</li>
 			
-					<li className="list-none">Khối trong: [wearing a red cap] - [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] dạng V-ing kèm tân thể [a red cap]</li>
+					<li className="list-none">Khối trong: [wearing a red cap] - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] dạng V-ing kèm tân thể [a red cap]</li>
 			
 					<li className="list-none">Khối ngoài: [wearing a red cap] - [ADjective PHRASE][TÍNH CỤM] bổ nghĩa cho [DANH] [The boy], xác định cậu bé nào</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]: [which I dropped yesterday]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>ADjective CLAUSE</strong>][<strong>TÍNH VẾ</strong>]: [which I dropped yesterday]</p>
 			
 				<ul className="list-square">
 			
 					<li>The laptop [______] still works.</li>
 					<li className="margin-bottom-20 list-none">Chiếc laptop [mà tôi làm rơi hôm qua] vẫn chạy.</li>
 			
-					<li className="list-none">Khối trong: [which I dropped yesterday] - [suBORdinate CLAUSE][PHỤ CÂU] có cặp [I] và [dropped]</li>
+					<li className="list-none">Khối trong: [which I dropped yesterday] - [suBORdinate CLAUSE][PHỤ VẾ] có cặp [I] và [dropped]</li>
 			
-					<li className="list-none">Khối ngoài: [which I dropped yesterday] - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [DANH] [The laptop], giúp phân biệt nó với các laptop khác</li>
+					<li className="list-none">Khối ngoài: [which I dropped yesterday] - [ADjective CLAUSE][TÍNH VẾ] bổ nghĩa cho [DANH] [The laptop], giúp phân biệt nó với các laptop khác</li>
 			
 				</ul>
 			
@@ -230,7 +230,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She woke up early [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy dậy sớm [để bắt chuyến xe buýt đầu tiên].</li>
 			
-					<li className="list-none">Khối trong: [to catch the first bus] - [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] dạng to-V kèm tân thể, chỉ mục đích</li>
+					<li className="list-none">Khối trong: [to catch the first bus] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] dạng to-V kèm tân thể, chỉ mục đích</li>
 			
 					<li className="list-none">Khối ngoài: [to catch the first bus] - [ADjunct][PHỤ] bổ nghĩa cho [Động Cụm] [woke up early], giải thích mục đích của việc dậy sớm</li>
 			
@@ -244,7 +244,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______], you will improve.</li>
 					<li className="margin-bottom-20 list-none">[Nếu bạn học đều đặn], bạn sẽ tiến bộ.</li>
 			
-					<li className="list-none">Khối trong: [If you study regularly] - [suBORdinate CLAUSE][PHỤ CÂU] có cặp [you] và [study]</li>
+					<li className="list-none">Khối trong: [If you study regularly] - [suBORdinate CLAUSE][PHỤ VẾ] có cặp [you] và [study]</li>
 			
 					<li className="list-none">Khối ngoài: [If you study regularly] - [ADjunct][PHỤ] bổ nghĩa cho nhóm từ chính [you will improve], chỉ điều kiện cần để xảy ra kết quả</li>
 			
@@ -281,7 +281,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______] is relaxing.</li>
 					<li className="margin-bottom-20 list-none">[Chạy trong công viên] thì thư giãn.</li>
 			
-					<li className="list-none">Khối trong: [To run in the park] - [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] to-V kèm bổ túc nơi chốn</li>
+					<li className="list-none">Khối trong: [To run in the park] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] to-V kèm bổ túc nơi chốn</li>
 			
 					<li className="list-none">Khối ngoài: [To run in the park] - [NOUN PHRASE][DANH CỤM] vẫn là chủ thể của câu</li>
 			
@@ -295,9 +295,9 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______] is relaxing.</li>
 					<li className="margin-bottom-20 list-none">[Việc bạn chạy mỗi sáng] thì thư giãn.</li>
 			
-					<li className="list-none">Khối trong: [That you run every morning] - [suBORdinate CLAUSE][PHỤ CÂU] có cặp [you] và [run]</li>
+					<li className="list-none">Khối trong: [That you run every morning] - [suBORdinate CLAUSE][PHỤ VẾ] có cặp [you] và [run]</li>
 			
-					<li className="list-none">Khối ngoài: [That you run every morning] - [NOUN CLAUSE][DANH CÂU] cùng chức năng chủ thể</li>
+					<li className="list-none">Khối ngoài: [That you run every morning] - [NOUN CLAUSE][DANH VẾ] cùng chức năng chủ thể</li>
 			
 				</ul>
 			
@@ -315,7 +315,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>I like the bread [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi thích ổ bánh mì [do bà tôi làm].</li>
 			
-					<li className="list-none">Khối trong: [made by my grandmother] - [PAST PARTiciple CLAUSE][KHỨ TÍNH CÂU] dạng V-ed kèm tác thể</li>
+					<li className="list-none">Khối trong: [made by my grandmother] - [PAST PARTiciple CLAUSE][KHỨ TÍNH VẾ] dạng V-ed kèm tác thể</li>
 			
 					<li className="list-none">Khối ngoài: [made by my grandmother] - [ADjective PHRASE][TÍNH CỤM] bổ nghĩa cho [DANH] [the bread]</li>
 			
@@ -343,9 +343,9 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>I like the bread [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi thích ổ bánh mì [mà bà tôi đã làm].</li>
 			
-					<li className="list-none">Khối trong: [which my grandmother made] - [suBORdinate CLAUSE][PHỤ CÂU] có cặp [my grandmother] và [made]</li>
+					<li className="list-none">Khối trong: [which my grandmother made] - [suBORdinate CLAUSE][PHỤ VẾ] có cặp [my grandmother] và [made]</li>
 			
-					<li className="list-none">Khối ngoài: [which my grandmother made] - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [DANH] [the bread]</li>
+					<li className="list-none">Khối ngoài: [which my grandmother made] - [ADjective CLAUSE][TÍNH VẾ] bổ nghĩa cho [DANH] [the bread]</li>
 			
 				</ul>
 			
@@ -360,7 +360,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She passed the exam [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đỗ kỳ thi [vì cô ấy học chăm chỉ].</li>
 			
-					<li className="list-none">Khối trong: [because she studied hard] - [suBORdinate CLAUSE][PHỤ CÂU] có cặp [she] và [studied]</li>
+					<li className="list-none">Khối trong: [because she studied hard] - [suBORdinate CLAUSE][PHỤ VẾ] có cặp [she] và [studied]</li>
 			
 					<li className="list-none">Khối ngoài: [because she studied hard] - [ADjunct][PHỤ] chỉ lý do, bổ nghĩa cho [Động Cụm] [passed the exam]</li>
 			
@@ -374,7 +374,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She passed the exam [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đỗ kỳ thi [bằng cách học chăm chỉ].</li>
 			
-					<li className="list-none">Khối trong: [by studying hard] - [prepoSITional PHRASE][GIỚI CỤM] giới từ kết hợp với V-ing</li>
+					<li className="list-none">Khối trong: [by studying hard] - [prepoSITion PHRASE][GIỚI CỤM] giới từ kết hợp với V-ing</li>
 			
 					<li className="list-none">Khối ngoài: [by studying hard] - [ADjunct][PHỤ] bổ nghĩa cho [Động Cụm] [passed the exam], chỉ cách thức đạt được kết quả</li>
 			

@@ -68,13 +68,13 @@ export default function SV2(): React.JSX.Element {
 					<li>[PREDicator HEAD][VỊ LÕI]</li>
 					<li className="margin-bottom-20 list-none">Dạng gốc của hành động hoặc trạng thái, không kèm theo bất kỳ dấu hiệu nào về thời điểm.</li>
 			
-					<li>[CLAUSE][CÂU]</li>
+					<li>[CLAUSE][VẾ]</li>
 					<li className="margin-bottom-20 list-none">Nhóm từ bắt đầu bằng ĐỘNG, có thể kèm thêm các thành phần bổ sung.</li>
 
-					<li>[prepoSITional PHRASE][GIỚI CỤM]</li>
+					<li>[prepoSITion PHRASE][GIỚI CỤM]</li>
 					<li className="margin-bottom-20 list-none">Nhóm từ bắt đầu bằng một thành phần chỉ quan hệ không gian, thời gian, cách thức, mục đích, nguyên nhân (như in, on, at, for, with, by, of, to,...).</li>
 			
-					<li>[conJUNCtional CLAUSE][LIÊN CÂU]</li>
+					<li>[conJUNCtional CLAUSE][LIÊN VẾ]</li>
 					<li className="list-none">Một câu con có đầy đủ một thành phần thực hiện hành động và một ĐỘNG.</li>
 			
 				</ul>
@@ -163,7 +163,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He enjoys [reading mystery novels].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy thích [đọc tiểu thuyết trinh thám].</li>
 			
-					<li className="list-none">Khối trong: [reading mystery novels] – [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] bắt đầu bằng hành động reading dạng V-ing, kèm thêm mystery novels để tạo thành một khối hoàn chỉnh.</li>
+					<li className="list-none">Khối trong: [reading mystery novels] – [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] bắt đầu bằng hành động reading dạng V-ing, kèm thêm mystery novels để tạo thành một khối hoàn chỉnh.</li>
 			
 					<li className="list-none">Khối ngoài: [reading mystery novels] – [NOUN PHRASE][DANH CỤM] đứng sau hành động enjoys, là [OBject PROnoun] – đối tượng tiếp nhận hành động.</li>
 			
@@ -177,9 +177,9 @@ export default function SV2(): React.JSX.Element {
 					<li>[How she solved the puzzle] amazed everyone.</li>
 					<li className="margin-bottom-20 list-none">[Cách cô ấy giải câu đố] làm mọi người kinh ngạc.</li>
 			
-					<li className="list-none">Khối trong: [How she solved the puzzle] – [conJUNCtional CLAUSE][LIÊN CÂU] có một thành phần thực hiện hành động là she, hành động solved ở dạng có đuôi -ed, và the puzzle.</li>
+					<li className="list-none">Khối trong: [How she solved the puzzle] – [conJUNCtional CLAUSE][LIÊN VẾ] có một thành phần thực hiện hành động là she, hành động solved ở dạng có đuôi -ed, và the puzzle.</li>
 			
-					<li className="list-none">Khối ngoài: [How she solved the puzzle] – [NOUN CLAUSE][DANH CÂU] đứng ở đầu câu, đảm nhận vai trò thực thể gây ra trạng thái amazed.</li>
+					<li className="list-none">Khối ngoài: [How she solved the puzzle] – [NOUN CLAUSE][DANH VẾ] đứng ở đầu câu, đảm nhận vai trò thực thể gây ra trạng thái amazed.</li>
 			
 				</ul>
 			
@@ -208,7 +208,7 @@ export default function SV2(): React.JSX.Element {
 					<li>The child seems [exhausted from playing].</li>
 					<li className="margin-bottom-20 list-none">Đứa trẻ có vẻ [kiệt sức vì chơi].</li>
 			
-					<li className="list-none">Khối trong: [exhausted from playing] – [PAST PARTiciple CLAUSE][KHỨ TÍNH CÂU] gồm hành động exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
+					<li className="list-none">Khối trong: [exhausted from playing] – [PAST PARTiciple CLAUSE][KHỨ TÍNH VẾ] gồm hành động exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
 			
 					<li className="list-none">Khối ngoài: [exhausted from playing] – [ADjective PHRASE][TÍNH CỤM] đứng sau hành động seems, mô tả trạng thái của thực thể The child.</li>
 			
@@ -222,9 +222,9 @@ export default function SV2(): React.JSX.Element {
 					<li>The café [where we first met] has closed.</li>
 					<li className="margin-bottom-20 list-none">Quán cà phê [nơi chúng tôi gặp nhau lần đầu] đã đóng cửa.</li>
 			
-					<li className="list-none">Khối trong: [where we first met] – [conJUNCtional CLAUSE][LIÊN CÂU] có we là thành phần thực hiện hành động, met là hành động dạng có đuôi -ed, first là thành phần bổ sung.</li>
+					<li className="list-none">Khối trong: [where we first met] – [conJUNCtional CLAUSE][LIÊN VẾ] có we là thành phần thực hiện hành động, met là hành động dạng có đuôi -ed, first là thành phần bổ sung.</li>
 			
-					<li className="list-none">Khối ngoài: [where we first met] – [ADjective CLAUSE][TÍNH CÂU] đứng ngay sau The café, xác định rõ thực thể đang được nói đến.</li>
+					<li className="list-none">Khối ngoài: [where we first met] – [ADjective CLAUSE][TÍNH VẾ] đứng ngay sau The café, xác định rõ thực thể đang được nói đến.</li>
 			
 				</ul>
 			
@@ -254,7 +254,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She saves money [to travel abroad].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy tiết kiệm tiền [để đi du lịch nước ngoài].</li>
 			
-					<li className="list-none">Khối trong: [to travel abroad] – [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] gồm hành động nguyên mẫu có to và abroad.</li>
+					<li className="list-none">Khối trong: [to travel abroad] – [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] gồm hành động nguyên mẫu có to và abroad.</li>
 			
 					<li className="list-none">Khối ngoài: [to travel abroad] – [ADjunct][PHỤ] đứng cuối câu, bổ sung ý nghĩa về mục đích cho hành động saves money.</li>
 			
@@ -268,7 +268,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Although it was late], they continued working.</li>
 					<li className="margin-bottom-20 list-none">[Mặc dù trời đã muộn], họ vẫn tiếp tục làm việc.</li>
 			
-					<li className="list-none">Khối trong: [Although it was late] – [conJUNCtional CLAUSE][LIÊN CÂU] có it là thành phần thực hiện hành động, was là ĐỘNG, late là thành phần bổ sung.</li>
+					<li className="list-none">Khối trong: [Although it was late] – [conJUNCtional CLAUSE][LIÊN VẾ] có it là thành phần thực hiện hành động, was là ĐỘNG, late là thành phần bổ sung.</li>
 			
 					<li className="list-none">Khối ngoài: [Although it was late] – [ADjunct][PHỤ] đứng đầu câu, bổ sung ý nghĩa về sự nhượng bộ cho toàn bộ câu chính.</li>
 			
@@ -289,9 +289,9 @@ export default function SV2(): React.JSX.Element {
 					<li>She [forgot {'{why I called her}'}].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy [quên {'{tại sao tôi gọi cho cô ấy}'}].</li>
 			
-					<li className="list-none">Khối trong lớp trong: {'{why I called her}'} – [conJUNCtional CLAUSE][LIÊN CÂU] có I là thành phần thực hiện hành động, called là hành động dạng có đuôi -ed, her là đối tượng.</li>
+					<li className="list-none">Khối trong lớp trong: {'{why I called her}'} – [conJUNCtional CLAUSE][LIÊN VẾ] có I là thành phần thực hiện hành động, called là hành động dạng có đuôi -ed, her là đối tượng.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{why I called her}'} – [NOUN CLAUSE][DANH CÂU] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
+					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{why I called her}'} – [NOUN CLAUSE][DANH VẾ] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
 
 					<li className="list-none">Khối trong lớp ngoài: [forgot {'{why I called her}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PRETerite FORM][KHỨ MẪU] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
 			
@@ -332,7 +332,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Going for a jog every morning] is beneficial.</li>
 					<li className="margin-bottom-20 list-none">[Đi chạy bộ mỗi sáng] có lợi cho sức khỏe.</li>
 			
-					<li className="list-none">Khối trong: [Going for a jog every morning] – [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU].</li>
+					<li className="list-none">Khối trong: [Going for a jog every morning] – [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ].</li>
 			
 					<li className="list-none">Khối ngoài: [Going for a jog every morning] – [NOUN PHRASE][DANH CỤM] vẫn đứng ở đầu câu, cùng vai trò thực thể trung tâm.</li>
 			
@@ -363,9 +363,9 @@ export default function SV2(): React.JSX.Element {
 					<li>I remember [that he was kind to me].</li>
 					<li className="margin-bottom-20 list-none">Tôi nhớ [rằng anh ấy đã tốt với tôi].</li>
 			
-					<li className="list-none">Khối trong: [that he was kind to me] – [conJUNCtional CLAUSE][LIÊN CÂU].</li>
+					<li className="list-none">Khối trong: [that he was kind to me] – [conJUNCtional CLAUSE][LIÊN VẾ].</li>
 			
-					<li className="list-none">Khối ngoài: [that he was kind to me] – [NOUN CLAUSE][DANH CÂU] vẫn đứng sau hành động remember, cùng chức năng Danh Nhận.</li>
+					<li className="list-none">Khối ngoài: [that he was kind to me] – [NOUN CLAUSE][DANH VẾ] vẫn đứng sau hành động remember, cùng chức năng Danh Nhận.</li>
 			
 				</ul>
 			
@@ -381,9 +381,9 @@ export default function SV2(): React.JSX.Element {
 					<li>The student [who sits in the front row] always answers first.</li>
 					<li className="margin-bottom-20 list-none">Học sinh [ngồi ở hàng ghế đầu] luôn trả lời đầu tiên.</li>
 			
-					<li className="list-none">Khối trong: [who sits in the front row] – [conJUNCtional CLAUSE][LIÊN CÂU] có thành phần thực hiện hành động là who, hành động sits, và phần bổ sung in the front row.</li>
+					<li className="list-none">Khối trong: [who sits in the front row] – [conJUNCtional CLAUSE][LIÊN VẾ] có thành phần thực hiện hành động là who, hành động sits, và phần bổ sung in the front row.</li>
 			
-					<li className="list-none">Khối ngoài: [who sits in the front row] – [ADjective CLAUSE][TÍNH CÂU] đứng ngay sau The student, bổ sung đặc điểm.</li>
+					<li className="list-none">Khối ngoài: [who sits in the front row] – [ADjective CLAUSE][TÍNH VẾ] đứng ngay sau The student, bổ sung đặc điểm.</li>
 			
 				</ul>
 			
@@ -395,7 +395,7 @@ export default function SV2(): React.JSX.Element {
 					<li>The student [in the front row] always answers first.</li>
 					<li className="margin-bottom-20 list-none">Học sinh [ở hàng ghế đầu] luôn trả lời đầu tiên.</li>
 			
-					<li className="list-none">Khối trong: [in the front row] – [prepoSITional PHRASE][GIỚI CỤM], một cụm chỉ phạm vi không gian, bắt đầu bằng in.</li>
+					<li className="list-none">Khối trong: [in the front row] – [prepoSITion PHRASE][GIỚI CỤM], một cụm chỉ phạm vi không gian, bắt đầu bằng in.</li>
 			
 					<li className="list-none">Khối ngoài: [in the front row] – [ADjective PHRASE][TÍNH CỤM] vẫn đứng sau The student, cùng chức năng bổ sung đặc điểm.</li>
 			
@@ -412,7 +412,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She called me [to share the good news].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy gọi cho tôi [để chia sẻ tin vui].</li>
 			
-					<li className="list-none">Khối trong: [to share the good news] – [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] dạng nguyên mẫu mục đích.</li>
+					<li className="list-none">Khối trong: [to share the good news] – [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] dạng nguyên mẫu mục đích.</li>
 			
 					<li className="list-none">Khối ngoài: [to share the good news] – [ADjunct][PHỤ] bổ sung ý nghĩa mục đích cho hành động called.</li>
 			
@@ -426,7 +426,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She called me [so that she could share the good news].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy gọi cho tôi [để mà cô ấy có thể chia sẻ tin vui].</li>
 			
-					<li className="list-none">Khối trong: [so that she could share the good news] – [conJUNCtional CLAUSE][LIÊN CÂU].</li>
+					<li className="list-none">Khối trong: [so that she could share the good news] – [conJUNCtional CLAUSE][LIÊN VẾ].</li>
 			
 					<li className="list-none">Khối ngoài: [so that she could share the good news] – [ADjunct][PHỤ] vẫn bổ sung ý nghĩa mục đích.</li>
 			
@@ -458,7 +458,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He drives [with great care].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [với sự cẩn thận lớn].</li>
 			
-					<li className="list-none">Khối trong: [with great care] – [prepoSITional PHRASE][GIỚI CỤM], một cụm chỉ cách thức, bắt đầu bằng with.</li>
+					<li className="list-none">Khối trong: [with great care] – [prepoSITion PHRASE][GIỚI CỤM], một cụm chỉ cách thức, bắt đầu bằng with.</li>
 			
 					<li className="list-none">Khối ngoài: [with great care] – [ADjunct][PHỤ] vẫn bổ nghĩa cho hành động drives.</li>
 			
@@ -477,8 +477,8 @@ export default function SV2(): React.JSX.Element {
 					<li>[That he finished the race] impressed [everyone].</li>
 					<li className="margin-bottom-20 list-none">[Việc anh ấy hoàn thành cuộc đua] gây ấn tượng [mọi người].</li>
 
-					<li className="list-none">Khối trong: [That he finished the race] – [conJUNCtional CLAUSE][LIÊN CÂU].</li>
-					<li className="margin-bottom-20 list-none">Chức năng: [That he finished the race] – [NOUN CLAUSE][DANH CÂU] đứng ở đầu câu, là thực thể gây ra ấn tượng.</li>
+					<li className="list-none">Khối trong: [That he finished the race] – [conJUNCtional CLAUSE][LIÊN VẾ].</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [That he finished the race] – [NOUN CLAUSE][DANH VẾ] đứng ở đầu câu, là thực thể gây ra ấn tượng.</li>
 			
 					<li className="list-none">Khối trong: [everyone] – một khối [DANH] thuần túy.</li>
 					<li className="list-none">Khối ngoài: [everyone] – Danh Nhận, nhận tác động của hành động impressed.</li>
@@ -493,7 +493,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[His finishing the race] impressed [everyone].</li>
 					<li className="margin-bottom-20 list-none">[Việc anh ấy hoàn thành cuộc đua] gây ấn tượng [mọi người].</li>
 			
-					<li className="list-none">Khối trong: [His finishing the race] – [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU].</li>
+					<li className="list-none">Khối trong: [His finishing the race] – [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ].</li>
 			
 					<li className="list-none">Khối ngoài: [His finishing the race] – [NOUN PHRASE][DANH CỤM] vẫn đứng đầu câu, cùng chức năng.</li>
 			

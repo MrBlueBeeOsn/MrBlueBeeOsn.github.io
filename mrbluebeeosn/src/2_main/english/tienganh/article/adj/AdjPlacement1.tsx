@@ -102,7 +102,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li>[<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>] <strong>đứng trước thành phần bổ nghĩa</strong>:</li>
 					<li className="list-none">→ <strong>Nhấn mạnh Đối tượng</strong></li>
-					<li className="list-none">Khi muốn đối tượng chính làm "mỏ neo", người bản ngữ đặt [NOUN HEAD][DANH LÕI] lên đầu, sau đó mới thả chuỗi thông tin bổ trợ phía sau bằng [ADjective PHRASE][TÍNH CỤM] hoặc [RELative CLAUSE][QUAN CÂU].</li>
+					<li className="list-none">Khi muốn đối tượng chính làm "mỏ neo", người bản ngữ đặt [NOUN HEAD][DANH LÕI] lên đầu, sau đó mới thả chuỗi thông tin bổ trợ phía sau bằng [ADjective PHRASE][TÍNH CỤM] hoặc [RELative CLAUSE][QUAN VẾ].</li>
 			
 				</ul>
 
@@ -181,11 +181,11 @@ export default function AdjPlacement1(): React.JSX.Element {
         </ol>
 
 
-			<h4 className="margin-y-40">B. Phân hệ [CLAUSE][CÂU]</h4>
+			<h4 className="margin-y-40">B. Phân hệ [CLAUSE][VẾ]</h4>
 
 			<p className=" text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className=" text-indent-whole">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào kéo theo các [OBject HEAD][TÂN LÕI], [non-FInite CLAUsal OBject][BẤT-ĐỊNH CÂU TÂN], [FInite CLAUsal OBject][ĐỊNH CÂU TÂN], [ADverb HEAD][TRẠNG LÕI], [ADjunct][PHỤ], hoặc [ADjunct][PHỤ] phía sau, toàn khối đó tự động chuyển cấu trúc thành [PHRASE][CỤM].</p>
+			<p className=" text-indent-whole">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào kéo theo các [OBject HEAD][TÂN LÕI], [non-FInite CLAUsal OBject][BẤT-ĐỊNH VẾ TÂN], [FInite CLAUsal OBject][ĐỊNH VẾ TÂN], [ADverb HEAD][TRẠNG LÕI], [ADjunct][PHỤ], hoặc [ADjunct][PHỤ] phía sau, toàn khối đó tự động chuyển cấu trúc thành [PHRASE][CỤM].</p>
 
 			<p className="text-indent-whole margin-top-20">Ví dụ:</p>
 			
@@ -193,7 +193,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li>FORMulating [GERund-PARTiciple FORM][DANH-TÍNH MẪU] + a STRATegy [NOUN HEAD][DANH LÕI]</li>
 			
-					<li>➔ FORMulating a STRATegy [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU].</li>
+					<li>➔ FORMulating a STRATegy [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ].</li>
 			
 				</ul>
 
@@ -326,7 +326,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>they dePLOYED a NETwork [CApable of HANdling VAST DAted].</li>
 					<li className="margin-bottom-20 list-none">Họ đã triển khai một mạng lưới [có khả năng xử lý dữ liệu lớn].</li>
 			
-					<li className="list-none">Khối trong: [CApable of HANdling VAST DAted] - [ROOT ADjective PHRASE][GỐC TÍNH CỤM] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "CApable", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng [prepoSITional PHRASE][GIỚI CỤM] phía sau chứa [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] biến đổi từ lõi hành động sau [prepoSITion][GIỚI] "of".</li>
+					<li className="list-none">Khối trong: [CApable of HANdling VAST DAted] - [ROOT ADjective PHRASE][GỐC TÍNH CỤM] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "CApable", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng [prepoSITion PHRASE][GIỚI CỤM] phía sau chứa [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] biến đổi từ lõi hành động sau [prepoSITion][GIỚI] "of".</li>
 			
 					<li className="list-none">Khối ngoài: [CApable of HANdling VAST DAted] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [OBject HEAD][TÂN LÕI] "NETwork" để xác định năng lực, đặc điểm của đối tượng đó.</li>
 			
@@ -340,77 +340,77 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>an iNItiative [preVENtive against SYStem FAIlures] was LAUNCHED.</li>
 					<li className="margin-bottom-20 list-none">Một sáng kiến [phòng ngừa chống lại các sự cố hệ thống] đã được khởi động.</li>
 			
-					<li className="list-none">Khối trong: [preVENtive against SYStem FAIlures] - [MODified ADjective PHRASE][DIỆN TÍNH CỤM] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "preVENT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][DIỆN TÍNH] "preVENtive", sau đó mở rộng kết hợp với [prepoSITional PHRASE][GIỚI CỤM] "against SYStem FAIlures" để tạo thành một khối [PHRASE][CỤM] hoàn chỉnh.</li>
+					<li className="list-none">Khối trong: [preVENtive against SYStem FAIlures] - [MODified ADjective PHRASE][DIỆN TÍNH CỤM] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "preVENT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][DIỆN TÍNH] "preVENtive", sau đó mở rộng kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "against SYStem FAIlures" để tạo thành một khối [PHRASE][CỤM] hoàn chỉnh.</li>
 			
 					<li className="list-none">Khối ngoài: [preVENtive against SYStem FAIlures] - [ADjective PHRASE][TÍNH CỤM] gắn liền phía sau [SUBject HEAD][CHỦ LÕI] "iNItiative" nhằm mở rộng ý nghĩa đánh giá chất lượng.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH CÂU</strong>] <strong>đang diễn ra</strong>, <strong>chủ động</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH VẾ</strong>] <strong>đang diễn ra</strong>, <strong>chủ động</strong></p>
 			
 				<ul className="list-square">
 			
 					<li>the comMITtee [eVALuating the FUNding reQUESTs] conVENED toDAY.</li>
 					<li className="margin-bottom-20 list-none">Ủy ban [đang đánh giá các yêu cầu tài trợ] đã họp vào hôm nay.</li>
 			
-					<li className="list-none">Khối trong: [eVALuating the FUNding reQUESTs] - [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH MẪU] "eVALuating" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
+					<li className="list-none">Khối trong: [eVALuating the FUNding reQUESTs] - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH MẪU] "eVALuating" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
 			
 					<li className="list-none">Khối ngoài: [eVALuating the FUNding reQUESTs] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "comMITtee" để hiển thị đặc điểm hành động chủ động của đối tượng đó.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PAST PARTiciple CLAUSE</strong>][<strong>KHỨ TÍNH CÂU</strong>] <strong>đã xong</strong>, <strong>bị động</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PAST PARTiciple CLAUSE</strong>][<strong>KHỨ TÍNH VẾ</strong>] <strong>đã xong</strong>, <strong>bị động</strong></p>
 			
 				<ul className="list-square">
 			
 					<li>the PROtocol [deSIGNED by exTERnal conSULtants] enSURES TOtal seCUrity.</li>
 					<li className="margin-bottom-20 list-none">Giao thức [được thiết kế bởi các chuyên gia tư vấn bên ngoài] đảm bảo bảo mật tuyệt đối.</li>
 			
-					<li className="list-none">Khối trong: [deSIGNED by exTERnal conSULtants] - [PAST PARTiciple CLAUSE][KHỨ TÍNH CÂU] phát triển từ [PAST PARTiciple FORM][KHỨ TÍNH MẪU] "deSIGNED" kết hợp mở rộng ở dạng bị động.</li>
+					<li className="list-none">Khối trong: [deSIGNED by exTERnal conSULtants] - [PAST PARTiciple CLAUSE][KHỨ TÍNH VẾ] phát triển từ [PAST PARTiciple FORM][KHỨ TÍNH MẪU] "deSIGNED" kết hợp mở rộng ở dạng bị động.</li>
 			
 					<li className="list-none">Khối ngoài: [deSIGNED by exTERnal conSULtants] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "PROtocol" để mô tả đặc điểm trạng thái bị động hoàn thành.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 5</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN CÂU</strong>] <strong>sắp xảy ra</strong>, <strong>chủ động</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 5</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN VẾ</strong>] <strong>sắp xảy ra</strong>, <strong>chủ động</strong></p>
 			
 				<ul className="list-square">
 			
 					<li>the techNICian [to inSPECT the SERvers] arRIVed EARly.</li>
 					<li className="margin-bottom-20 list-none">Kỹ thuật viên [sắp sửa kiểm tra các máy chủ] đã đến sớm.</li>
 			
-					<li className="list-none">Khối trong: [to inSPECT the SERvers] - [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] phát triển từ cụm [to-infiniTIval][TO-NGUYÊN] "to inSPECT" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none">Khối trong: [to inSPECT the SERvers] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] phát triển từ cụm [to-infiniTIval][TO-NGUYÊN] "to inSPECT" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
 					<li className="list-none">Khối ngoài: [to inSPECT the SERvers] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "techNICian" để quét và hiển thị đặc điểm hành động sắp xảy ra mang tính chủ động của đối tượng đó.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN CÂU</strong>] <strong>sắp xảy ra</strong>, <strong>bị động</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN VẾ</strong>] <strong>sắp xảy ra</strong>, <strong>bị động</strong></p>
 			
 				<ul className="list-square">
 			
 					<li>the SOFTware [to be upDATed NEXT WEEK] reQUIres adMINistrative RIGHTS.</li>
 					<li className="margin-bottom-20 list-none">Phần mềm [sắp sửa được cập nhật vào tuần tới] yêu cầu quyền quản trị.</li>
 			
-					<li className="list-none">Khối trong: [to be upDATed NEXT WEEK] - [to-infiniTIval CLAUSE][TO-NGUYÊN CÂU] bắt đầu bằng [PARTicle VERB][HẠT ĐỘNG] "to" kéo theo vùng bổ trợ phía sau chứa [PLAIN FORM][GIẢN MẪU] "be" và [PAST PARTiciple FORM][KHỨ TÍNH MẪU] "upDATed" để biểu thị trạng thái bị động tương lai.</li>
+					<li className="list-none">Khối trong: [to be upDATed NEXT WEEK] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] bắt đầu bằng [PARTicle VERB][HẠT ĐỘNG] "to" kéo theo vùng bổ trợ phía sau chứa [PLAIN FORM][GIẢN MẪU] "be" và [PAST PARTiciple FORM][KHỨ TÍNH MẪU] "upDATed" để biểu thị trạng thái bị động tương lai.</li>
 			
 					<li className="list-none">Khối ngoài: [to be upDATed NEXT WEEK] - [ADjective PHRASE][TÍNH CỤM] kích hoạt bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "SOFTware" để mô tả trạng thái sắp sửa được tác động.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 7</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITional PHRASE</strong>][<strong>GIỚI CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 7</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the MANuscript [in the ARchive] conTAINS hisTORical NOTES.</li>
 					<li className="margin-bottom-20 list-none">Bản thảo [trong kho lưu trữ] chứa các ghi chú lịch sử.</li>
 			
-					<li className="list-none">Khối trong: [in the ARchive] - [prepoSITional PHRASE][GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] "in" kết hợp [NOUN BLOCK][DANH KHỐI] định vị.</li>
+					<li className="list-none">Khối trong: [in the ARchive] - [prepoSITion PHRASE][GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] "in" kết hợp [NOUN BLOCK][DANH KHỐI] định vị.</li>
 			
 					<li className="list-none">Khối ngoài: [in the ARchive] - [ADjective PHRASE][TÍNH CỤM] bổ trợ vị trí không gian trực tiếp cho [SUBject HEAD][CHỦ LÕI] "MANuscript".</li>
 			
@@ -434,9 +434,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center" id="FInite-CLAUsal-SUBject-2">5. Chức năng [RELative CLAUSE][QUAN CÂU]</h3>
+			<h3 className="margin-y-50 text-center" id="FInite-CLAUsal-SUBject-2">5. Chức năng [RELative CLAUSE][QUAN VẾ]</h3>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN VẾ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -445,12 +445,12 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{which GOVerns MARket reguLAtions}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" nối tiếp chuỗi hành động chia thời. Định danh bản chất chức năng của [SUBject HEAD][CHỦ LÕI] "FRAMEwork".</li>
 			
-					<li className="list-none">Khối ngoài: [the FRAMEwork {'{which GOVerns MARket reguLAtions}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the FRAMEwork {'{which GOVerns MARket reguLAtions}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro RELative CLAUSE</strong>][<strong>KHUYẾT QUAN CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro RELative CLAUSE</strong>][<strong>KHUYẾT QUAN VẾ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -459,7 +459,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{EXperts recomMEND}'} - {'{ZEro RELative CLAUSE}'}{'{KHUYẾT QUAN CÂU}'} bỏ qua [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định. Thu gọn không gian biểu đạt để làm rõ đặc điểm đối tượng [SUBject HEAD][CHỦ LÕI] "paRAMeters".</li>
 			
-					<li className="list-none">Khối ngoài: [the paRAMeters {'{EXperts recomMEND}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the paRAMeters {'{EXperts recomMEND}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 
@@ -469,7 +469,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center" id="emBEDded-CLAUSE">6. [emBEDded STRUCture][NHÚNG CẤU TRÚC]</h3>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>][<strong>GIỚI và NHÚNG CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>][<strong>GIỚI và NHÚNG VẾ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -484,7 +484,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 						<li className="list-none">Khối ngoài: [STUdents {'{'}MAStering CORE THEories {'<'}which are reQUIred for adVANCED PLACEment{'>}'}] - [NOUN PHRASE][DANH CỤM]</li>
 				
-						<li className="list-none">Khối giữa: {'{'}MAStering CORE THEories {'<'}which are reQUIred for adVANCED PLACEment{'>}'} - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG CÂU] mở rộng từ [GERund-PARTiciple FORM][DANH-TÍNH MẪU] "MAStering".</li>
+						<li className="list-none">Khối giữa: {'{'}MAStering CORE THEories {'<'}which are reQUIred for adVANCED PLACEment{'>}'} - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG VẾ] mở rộng từ [GERund-PARTiciple FORM][DANH-TÍNH MẪU] "MAStering".</li>
 
 						<li className="list-none">Khối trong: {'<'}which are reQUIred for adVANCED PLACEment{'>'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} lồng ghép bên trong để phân tách chi tiết.</li>
 				
@@ -495,16 +495,16 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li className="list-none">Khối ngoài: [STUdents {'{'}MAStering CORE THEories {'<'}which are reQUIred for adVANCED PLACEment{'>}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ]</li>
+					<li className="list-none">Khối ngoài: [STUdents {'{'}MAStering CORE THEories {'<'}which are reQUIred for adVANCED PLACEment{'>}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ]</li>
 			
 					<li className="list-none">Khối giữa: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [ADjective PHRASE][TÍNH CỤM] bám sát phía sau [SUBject HEAD][CHỦ LÕI] "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
 
-					<li className="list-none">Khối trong: {'{which are reQUIred for adVANCED PLACEment}'} - [RELative CLAUSE][QUAN CÂU] bổ nghĩa cho [NOUN HEAD][DANH LÕI] "THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
+					<li className="list-none">Khối trong: {'{which are reQUIred for adVANCED PLACEment}'} - [RELative CLAUSE][QUAN VẾ] bổ nghĩa cho [NOUN HEAD][DANH LÕI] "THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG VẾ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -517,7 +517,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Khối ngoài: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG CÂU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to dePLOY" kết hợp mở rộng cấu trúc.</li>
+						<li className="list-none">Khối ngoài: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG VẾ] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to dePLOY" kết hợp mở rộng cấu trúc.</li>
 
 						<li className="list-none">Khối trong: {'{which OPtimize WORKflow}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} lồng sâu bên trong.</li>
 				
@@ -530,12 +530,12 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối ngoài: [to dePLOY AUtomated SYStems {'{which OPtimize WORKflow}'}] - [ADjective PHRASE][TÍNH CỤM] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho [SUBject HEAD][CHỦ LÕI] "the deCISion".</li>
 
-					<li className="list-none">Khối trong: {'{which OPtimize WORKflow}'} - [RELative CLAUSE][QUAN CÂU] bổ nghĩa cho [NOUN HEAD][DANH LÕI] "SYStems" nhằm xác định rõ tính năng của hệ thống.</li>
+					<li className="list-none">Khối trong: {'{which OPtimize WORKflow}'} - [RELative CLAUSE][QUAN VẾ] bổ nghĩa cho [NOUN HEAD][DANH LÕI] "SYStems" nhằm xác định rõ tính năng của hệ thống.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>][<strong>GIỚI và NHÚNG CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>][<strong>GIỚI và NHÚNG VẾ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -548,7 +548,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Khối ngoài: [of {'{WHAT they inVEStigated}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG CÂU] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
+						<li className="list-none">Khối ngoài: [of {'{WHAT they inVEStigated}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG VẾ] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
 
 						<li className="list-none">Khối trong: {'{WHAT they inVEStigated}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} kết hợp [SUBject PRONOUN][CHỦ ĐẠI] "WHAT" - "the THING WHICH" tạo nên lõi thông tin.</li>
 				
@@ -561,7 +561,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối ngoài: [of {'{WHAT they inVEStigated}'}] - [ADjective PHRASE][TÍNH CỤM] mở rộng thông tin bổ trợ cho [NOUN HEAD][DANH LÕI] "the aNALysis".</li>
 
-					<li className="list-none">Khối trong: {'{WHAT they inVEStigated}'} - [FInite CLAUsal OBject][ĐỊNH CÂU TÂN] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
+					<li className="list-none">Khối trong: {'{WHAT they inVEStigated}'} - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
 			
 				</ul>
 
@@ -592,7 +592,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối ngoài: [due to MARket fluctuAtions {'{which afFECted proDUCtion}'}] - [ADjective PHRASE][TÍNH CỤM] đa tầng bóc tách sâu nguyên nhân và hệ quả cho [SUBject HEAD][CHỦ LÕI] "SHIFTS".</li>
 
-					<li className="list-none">Khối trong: {'{which afFECted proDUCtion}'} - [RELative CLAUSE][QUAN CÂU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "MARket fluctuAtions" để chỉ rõ khía cạnh biến động.</li>
+					<li className="list-none">Khối trong: {'{which afFECted proDUCtion}'} - [RELative CLAUSE][QUAN VẾ] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "MARket fluctuAtions" để chỉ rõ khía cạnh biến động.</li>
 			
 				</ul>
 			
@@ -626,14 +626,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>the inVESTment [GENerating HIGH PROfits] is YOURS.</li>
 					<li className="margin-bottom-20 list-none">Khoản đầu tư [tạo ra lợi nhuận cao] là của bạn.</li>
 			
-					<li className="list-none">Khối trong: [GENerating HIGH PROfits] - [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] dẫn dắt bởi [GERund-PARTiciple FORM][DANH-TÍNH MẪU] "GENerating" đi kèm [NOUN BLOCK][DANH KHỐI] "HIGH PROfits".</li>
+					<li className="list-none">Khối trong: [GENerating HIGH PROfits] - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] dẫn dắt bởi [GERund-PARTiciple FORM][DANH-TÍNH MẪU] "GENerating" đi kèm [NOUN BLOCK][DANH KHỐI] "HIGH PROfits".</li>
 			
 					<li className="list-none">Khối ngoài: [GENerating HIGH PROfits] - [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái chủ động tạo ra giá trị của đối tượng trung tâm [SUBject HEAD][CHỦ LÕI] "the inVESTment".</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">B. Chuyển từ [PHRASE][CỤM] ➔ [CLAUSE][CÂU]</h4>
+			<h4 className="margin-y-40">B. Chuyển từ [PHRASE][CỤM] ➔ [CLAUSE][VẾ]</h4>
 
 			<p className="text-indent-whole"><strong>Gốc</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 			
@@ -642,14 +642,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>[the MAN {'{STANding THERE}'}] is my BOSS.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [đang đứng đó] là sếp tôi.</li>
 			
-					<li className="list-none">Khối trong: {'{STANding THERE}'} - [GERund-PARTiciple CLAUSE][DANH-TÍNH CÂU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH MẪU] "STANding". Đóng vai trò [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái hành động đang diễn ra của chủ thể [SUBject HEAD][CHỦ LÕI] "the MAN".</li>
+					<li className="list-none">Khối trong: {'{STANding THERE}'} - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH MẪU] "STANding". Đóng vai trò [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái hành động đang diễn ra của chủ thể [SUBject HEAD][CHỦ LÕI] "the MAN".</li>
 			
-					<li className="list-none">Khối ngoài: [the MAN {'{STANding THERE}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the MAN {'{STANding THERE}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Chuyển đổi</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chuyển đổi</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN VẾ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -658,14 +658,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{who is STANding THERE}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} "who" kết hợp [PREDicator][VỊ] "is STANding". Định danh chính xác đối tượng [SUBject HEAD][CHỦ LÕI] "the MAN" thông qua hành động cụ thể đang diễn ra.</li>
 			
-					<li className="list-none">Khối ngoài: [the MAN {'{who is STANding THERE}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the MAN {'{who is STANding THERE}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 			
 
-			<h4 className="margin-y-40">C. Chuyển từ [CLAUSE][CÂU] ➔ [HEAD][LÕI]</h4>
+			<h4 className="margin-y-40">C. Chuyển từ [CLAUSE][VẾ] ➔ [HEAD][LÕI]</h4>
 
-			<p className="text-indent-whole"><strong>Gốc</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN CÂU</strong>]</p>
+			<p className="text-indent-whole"><strong>Gốc</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN VẾ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -674,7 +674,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{which is efFECtive}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" kết hợp [3rd SINGular PRESent FORM][BA LẺ HIỆN MẪU] "is" và [MODified ADjective][DIỆN TÍNH] "efFECtive". Vạch rõ bản chất định danh cho đối tượng [SUBject HEAD][CHỦ LÕI] "the POLicy".</li>
 			
-					<li className="list-none">Khối ngoài: [the POLicy {'{which is efFECtive}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH CÂU CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the POLicy {'{which is efFECtive}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
 				</ul>
 			
@@ -699,7 +699,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết Luận</h3>
 
-			<p>Việc duy trì các tầng phân tích giúp bộ não không bị quá tải khi xử lý các cấu trúc học thuật phức tạp. Khi làm chủ được các tầng chức năng Tính và sự phối hợp giữa [HEAD][LÕI]-[PHRASE][CỤM]-[CLAUSE][CÂU], tiếng Anh sẽ trở thành công cụ biểu đạt mạnh mẽ, trôi chảy và đầy uy lực trong mọi văn bản học thuật.</p>
+			<p>Việc duy trì các tầng phân tích giúp bộ não không bị quá tải khi xử lý các cấu trúc học thuật phức tạp. Khi làm chủ được các tầng chức năng Tính và sự phối hợp giữa [HEAD][LÕI]-[PHRASE][CỤM]-[CLAUSE][VẾ], tiếng Anh sẽ trở thành công cụ biểu đạt mạnh mẽ, trôi chảy và đầy uy lực trong mọi văn bản học thuật.</p>
 
 
 			<div className="viewcounter">
