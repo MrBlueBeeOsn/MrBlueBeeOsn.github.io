@@ -529,7 +529,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[should the compiLAtion comPLETE], the operAtions TEAM will TRIGger the dePLOYment.</li>
 					<li className="margin-bottom-20 list-none">[Nếu việc biên dịch hoàn thành], đội ngũ vận hành sẽ kích hoạt triển khai.</li>
 			
-					<li className="list-none">Khối trong: [should the compiLAtion comPLETE] - [ZEro suBORdinate CLAUSE][KHUYẾT PHỤ VẾ] vận hành ở trạng thái ẩn thành phần [conJUNCtion][LIÊN] điều kiện "if" bằng cách đảo khối [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "Should" lên trước khối [SUBject HEAD][CHỦ LÕI] "the compiLAtion", kéo theo [PLAIN FORM][GIẢN MẪU] "comPLETE".</li>
+					<li className="list-none">Khối trong: [should the compiLAtion comPLETE] - [ZEro suBORdinate CLAUSE][KHUYẾT PHỤ VẾ] vận hành ở trạng thái ẩn thành phần [PrepoSITion][GIỚI] điều kiện "if" bằng cách đảo khối [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "Should" lên trước khối [SUBject HEAD][CHỦ LÕI] "the compiLAtion", kéo theo [PLAIN FORM][GIẢN MẪU] "comPLETE".</li>
 			
 					<li className="list-none">Khối ngoài: [should the compiLAtion comPLETE] – [ADjunct][PHỤ] bổ nghĩa bối cảnh điều kiện giả định cho hệ thống hành động phía sau.</li>
 			
@@ -588,20 +588,20 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[it] reQUIres DEEP TECHnical KNOWledge [to underSTAND {'{how the DAtabase HANdles the WORKload}'}].</li>
+					<li>[it] reQUIres DEEP TECHnical KNOWledge [to underSTAND {'{HOW the DAtabase HANdles the WORKload}'}].</li>
 					<li className="margin-bottom-20 list-none">Yêu cầu kiến thức kỹ thuật chuyên sâu [để hiểu {'{cách cơ sở dữ liệu xử lý khối lượng công việc}'}].</li>
 
 					<li className="list-none">Khối trong:</li>
 
-					<li className="list-none">Khối tổng thể [to underSTAND {'{how the DAtabase HANdles the WORKload}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG VẾ] ở tầng ngoài bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to underSTAND".</li>
+					<li className="list-none">Khối tổng thể [to underSTAND {'{HOW the DAtabase HANdles the WORKload}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG VẾ] ở tầng ngoài bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to underSTAND".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{how the DAtabase HANdles the WORKload}'} - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{HOW the DAtabase HANdles the WORKload}'} - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] ở tầng trong.</li>
 			
 					<li className="list-none">Khối ngoài:</li>
 
-					<li className="list-none">Khối {'{how the DAtabase HANdles the WORKload}'} bên trong đóng vai trò làm [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] chịu sự điều phối hành động trực tiếp từ [to-infiniTIval][TO-NGUYÊN] "to underSTAND".</li>
+					<li className="list-none">Khối {'{HOW the DAtabase HANdles the WORKload}'} bên trong đóng vai trò làm [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] chịu sự điều phối hành động trực tiếp từ [to-infiniTIval][TO-NGUYÊN] "to underSTAND".</li>
 
-					<li className="list-none">Và toàn bộ khối tổng thể [to underSTAND {'{how the DAtabase HANdles the WORKload}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres DEEP TECHnical KNOWledge" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Và toàn bộ khối tổng thể [to underSTAND {'{HOW the DAtabase HANdles the WORKload}'}] vận hành với chức năng [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres DEEP TECHnical KNOWledge" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 

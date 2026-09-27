@@ -451,20 +451,20 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[inVESTigating {'{why the appliCAtion FAILED}'}] TAKES conSIDerable TIME.</li>
+					<li>[inVESTigating {'{WHY the appliCAtion FAILED}'}] TAKES conSIDerable TIME.</li>
 					<li className="margin-bottom-20 list-none">[Việc điều tra {'{lý do ứng dụng lỗi}'}] mất nhiều thời gian.</li>
 
 					<li className="list-none">Khối trong:</li>
 
-					<li className="list-none">Khối tổng thể [inVESTigating {'{why the appliCAtion FAILED}'}] là một [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG VẾ] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH MẪU] inVESTigating ôm trọn phần phụ thuộc phức tạp bên trong.</li>
+					<li className="list-none">Khối tổng thể [inVESTigating {'{WHY the appliCAtion FAILED}'}] là một [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG VẾ] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH MẪU] inVESTigating ôm trọn phần phụ thuộc phức tạp bên trong.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{why the appliCAtion FAILED}'} là một [conJUNCtional CLAUSE][LIÊN VẾ] bắt đầu bằng [conJUNCtion][LIÊN] why kết hợp với một cấu trúc [S]-[HEAD] nội bộ của riêng nó.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{WHY the appliCAtion FAILED}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] bắt đầu bằng [conJUNCtion][LIÊN] why kết hợp với một cấu trúc [S]-[HEAD] nội bộ của riêng nó.</li>
 
 					<li className="list-none">Khối ngoài:</li>
 
-					<li className="list-none">Khối tổng thể [inVESTigating {'{why the appliCAtion FAILED}'}] đóng vai trò là [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] làm [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] để kích hoạt bộ nguồn hành động TAKES phía sau.</li>
+					<li className="list-none">Khối tổng thể [inVESTigating {'{WHY the appliCAtion FAILED}'}] đóng vai trò là [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] làm [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] để kích hoạt bộ nguồn hành động TAKES phía sau.</li>
 
-					<li className="list-none">Khối nhỏ bên trong {'{why the appliCAtion FAILED}'} đóng vai trò là [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] làm phần tiếp nhận tác động trực tiếp chịu sự điều phối nội bộ của hành động InVESTigating.</li>
+					<li className="list-none">Khối nhỏ bên trong {'{WHY the appliCAtion FAILED}'} đóng vai trò là [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] làm phần tiếp nhận tác động trực tiếp chịu sự điều phối nội bộ của hành động InVESTigating.</li>
 			
 				</ul>
 			
@@ -481,7 +481,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [preDICTing {'{HOW the CLImate will SHIFT}'}] là một [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG VẾ] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH MẪU] preDICTing kéo theo cấu trúc phụ thuộc nhiều tầng.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{HOW the CLImate will SHIFT}'} là một [conJUNCtional CLAUSE][LIÊN VẾ] bắt đầu bằng [conJUNCtion][LIÊN] HOW kết hợp với một cấu trúc [S]-[HEAD] nội bộ chứa [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{HOW the CLImate will SHIFT}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] bắt đầu bằng [conJUNCtion][LIÊN] HOW kết hợp với một cấu trúc [S]-[HEAD] nội bộ chứa [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
 
 					<li className="list-none">Khối ngoài:</li>
 
@@ -591,7 +591,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [with the perSPECtive {'{that FACTS GUIDE deVELopment}'}] là một [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG VẾ] bắt đầu bằng [prepoSITion][GIỚI] with bao bọc lấy các cấu trúc phụ thuộc tầng dưới tạo nên chiều sâu thông tin.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{that FACTS GUIDE deVELopment}'} là một [conJUNCtional CLAUSE][LIÊN VẾ] chứa [conJUNCtion][LIÊN] that kết hợp với một cấu hình [S]-[HEAD] nội bộ đã được chia [Thời] gian.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{that FACTS GUIDE deVELopment}'} là một [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] chứa [suBORdinator][HẠ] that kết hợp với một cấu hình [S]-[HEAD] nội bộ đã được chia [Thời] gian.</li>
 
 					<li className="list-none">Khối ngoài:</li>
 
@@ -689,7 +689,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối giữa {'{'}at the MOment {'<'}when the upDATe comPLEted{'>}'} là một [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG VẾ] bắt đầu bằng [prepoSITion][GIỚI] at ôm lấy cấu trúc phức hợp tầng dưới nhằm định vị [Thời] gian.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'<when the upDATe comPLEted>'} là một [conJUNCtional CLAUSE][LIÊN VẾ] chứa [conJUNCtion][LIÊN] when liên kết một câu con hoàn chỉnh có chủ vị riêng.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'<when the upDATe comPLEted>'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa [conJUNCtion][LIÊN] when liên kết một câu con hoàn chỉnh có chủ vị riêng.</li>
 
 					<li className="list-none">Khối ngoài:</li>
 

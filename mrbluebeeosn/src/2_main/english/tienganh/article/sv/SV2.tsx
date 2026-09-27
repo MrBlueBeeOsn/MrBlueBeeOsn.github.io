@@ -74,7 +74,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[prepoSITion PHRASE][GIỚI CỤM]</li>
 					<li className="margin-bottom-20 list-none">Nhóm từ bắt đầu bằng một thành phần chỉ quan hệ không gian, thời gian, cách thức, mục đích, nguyên nhân (như in, on, at, for, with, by, of, to,...).</li>
 			
-					<li>[conJUNCtional CLAUSE][LIÊN VẾ]</li>
+					<li>[CLAUSE][VẾ]</li>
 					<li className="list-none">Một câu con có đầy đủ một thành phần thực hiện hành động và một ĐỘNG.</li>
 			
 				</ul>
@@ -268,7 +268,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Although it was late], they continued working.</li>
 					<li className="margin-bottom-20 list-none">[Mặc dù trời đã muộn], họ vẫn tiếp tục làm việc.</li>
 			
-					<li className="list-none">Khối trong: [Although it was late] – [conJUNCtional CLAUSE][LIÊN VẾ] có it là thành phần thực hiện hành động, was là ĐỘNG, late là thành phần bổ sung.</li>
+					<li className="list-none">Khối trong: [Although it was late] – [prepoSITion PHRASE][GIỚI CỤM] có it là thành phần thực hiện hành động, was là ĐỘNG, late là thành phần bổ sung.</li>
 			
 					<li className="list-none">Khối ngoài: [Although it was late] – [ADjunct][PHỤ] đứng đầu câu, bổ sung ý nghĩa về sự nhượng bộ cho toàn bộ câu chính.</li>
 			
@@ -286,16 +286,16 @@ export default function SV2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>She [forgot {'{why I called her}'}].</li>
+					<li>She [forgot {'{WHY I called her}'}].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy [quên {'{tại sao tôi gọi cho cô ấy}'}].</li>
 			
-					<li className="list-none">Khối trong lớp trong: {'{why I called her}'} – [conJUNCtional CLAUSE][LIÊN VẾ] có I là thành phần thực hiện hành động, called là hành động dạng có đuôi -ed, her là đối tượng.</li>
+					<li className="list-none">Khối trong lớp trong: {'{WHY I called her}'} – [interROGative CONtent CLAUSE][VẤN NỘI VẾ] có I là thành phần thực hiện hành động, called là hành động dạng có đuôi -ed, her là đối tượng.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{why I called her}'} – [NOUN CLAUSE][DANH VẾ] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
+					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{WHY I called her}'} – [NOUN CLAUSE][DANH VẾ] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
 
-					<li className="list-none">Khối trong lớp ngoài: [forgot {'{why I called her}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PRETerite FORM][KHỨ MẪU] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
+					<li className="list-none">Khối trong lớp ngoài: [forgot {'{WHY I called her}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PRETerite FORM][KHỨ MẪU] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
 			
-					<li className="list-none">Khối ngoài lớp ngoài: [forgot {'{why I called her}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ khối này nằm sau She, là [OBject PROnoun] – đối tượng mà hành động forgot hướng đến.</li>
+					<li className="list-none">Khối ngoài lớp ngoài: [forgot {'{WHY I called her}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ khối này nằm sau She, là [OBject PROnoun] – đối tượng mà hành động forgot hướng đến.</li>
 			
 				</ul>
 			
@@ -477,7 +477,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[That he finished the race] impressed [everyone].</li>
 					<li className="margin-bottom-20 list-none">[Việc anh ấy hoàn thành cuộc đua] gây ấn tượng [mọi người].</li>
 
-					<li className="list-none">Khối trong: [That he finished the race] – [conJUNCtional CLAUSE][LIÊN VẾ].</li>
+					<li className="list-none">Khối trong: [That he finished the race] – [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ].</li>
 					<li className="margin-bottom-20 list-none">Chức năng: [That he finished the race] – [NOUN CLAUSE][DANH VẾ] đứng ở đầu câu, là thực thể gây ra ấn tượng.</li>
 			
 					<li className="list-none">Khối trong: [everyone] – một khối [DANH] thuần túy.</li>

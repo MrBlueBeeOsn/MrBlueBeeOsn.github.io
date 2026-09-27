@@ -118,7 +118,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG ĐỘNG CỤM] containing an outer finite verb \"sugGESTed\" and an embedded finite clause layer \"{that we postPONE the CORporate AUdit}\". \n\n Function: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postPONE...}\", which is morphologically an [conJUNCtional CLAUSE][LIÊN VẾ] functioning as a [NOUN CLAUSE][DANH VẾ] acting as the direct object of the internal verb \"sugGESTed\"."
+			explanation: "Form: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG ĐỘNG CỤM] containing an outer finite verb \"sugGESTed\" and an embedded finite clause layer \"{that we postPONE the CORporate AUdit}\". \n\n Function: [sugGESTed {that we postPONE the CORporate AUdit}] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postPONE...}\", which is morphologically an [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] functioning as a [NOUN CLAUSE][DANH VẾ] acting as the direct object of the internal verb \"sugGESTed\"."
 		}
 	];
 

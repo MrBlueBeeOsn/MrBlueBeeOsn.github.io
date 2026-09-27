@@ -440,7 +440,7 @@ export default function SV1(): React.JSX.Element {
 			
 			
 
-			<h4 className="margin-y-40">4. Hình thái [conJUNCtional CLAUSE][LIÊN VẾ]</h4>
+			<h4 className="margin-y-40">4. Hình thái [CONtent CLAUSE][NỘI VẾ]</h4>
 
 			<p className="text-indent-whole">Đơn vị hành động phức cao cấp, chứa một cấu trúc [CLAUSE][VẾ] hoàn chỉnh ở bên trong có chứa hệ trục [SUBject HEAD][CHỦ LÕI] - [PREDicator HEAD][VỊ LÕI].</p>
 
@@ -610,20 +610,20 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[disCOVering {'{how the ENgine WORKS}'}] is INTEResting.</li>
+					<li>[disCOVering {'{HOW the ENgine WORKS}'}] is INTEResting.</li>
 					<li className="margin-bottom-20 list-none">[Việc phát hiện ra {'{cách thức mà hành động hoạt động}'}] thì thú vị.</li>
 
 					<li className="list-none">Khối trong:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how the ENgine WORKS}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] vì chứa đầy đủ hệ trục [SUBject HEAD][CHỦ LÕI] "the ENgine" và [3rd SINGular PRESent FORM][BA LẺ HIỆN MẪU] "WORKS", bắt đầu bằng [conJUNCtion][LIÊN] how.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{HOW the ENgine WORKS}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] vì chứa đầy đủ hệ trục [SUBject HEAD][CHỦ LÕI] "the ENgine" và [3rd SINGular PRESent FORM][BA LẺ HIỆN MẪU] "WORKS", bắt đầu bằng [conJUNCtion][LIÊN] how.</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCOVering {'{how the ENgine WORKS}'}] là một khối [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG VẾ] bắt đầu bằng hành động thực thi [GERund-PARTiciple FORM][DANH-TÍNH MẪU] dạng V-ing disCOVering.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCOVering {'{HOW the ENgine WORKS}'}] là một khối [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG VẾ] bắt đầu bằng hành động thực thi [GERund-PARTiciple FORM][DANH-TÍNH MẪU] dạng V-ing disCOVering.</li>
 			
 					<li className="list-none">Khối ngoài:</li>
 
-					<li className="list-none">Tầng trong: Lớp trong {'{how the ENgine WORKS}'} đóng vai trò là một [FInite CLAUsal OBject][ĐỊNH VẾ TÂN], neo ngay sau hành động thực thi [GERund-PARTiciple FORM][DANH-TÍNH MẪU] disCOVering để làm [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] cho hành động đó.</li>
+					<li className="list-none">Tầng trong: Lớp trong {'{HOW the ENgine WORKS}'} đóng vai trò là một [FInite CLAUsal OBject][ĐỊNH VẾ TÂN], neo ngay sau hành động thực thi [GERund-PARTiciple FORM][DANH-TÍNH MẪU] disCOVering để làm [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] cho hành động đó.</li>
 
-					<li className="list-none">Tầng ngoài: Lớp ngoài [disCOVering {'{how the ENgine WORKS}'}] vận hành đồng bộ như một khối [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] lớn, đứng ở đầu câu giữ vai trò làm [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] điều phối trục thông tin hành động cho toàn bộ [SENtence][CÂU LỚN].</li>
+					<li className="list-none">Tầng ngoài: Lớp ngoài [disCOVering {'{HOW the ENgine WORKS}'}] vận hành đồng bộ như một khối [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] lớn, đứng ở đầu câu giữ vai trò làm [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] điều phối trục thông tin hành động cho toàn bộ [SENtence][CÂU LỚN].</li>
 			
 				</ul>
 
@@ -657,20 +657,20 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the ARticle [a<strong>bout</strong> {'{how she sucCEEDed}'}] is inSPIring.</li>
+					<li>the ARticle [a<strong>bout</strong> {'{HOW she sucCEEDed}'}] is inSPIring.</li>
 					<li className="margin-bottom-20 list-none">Bài báo [về {'{cách cô ấy thành công}'}] rất truyền cảm hứng.</li>
 
 					<li className="list-none">Khối trong:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how she sucCEEDed}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "she" và [PRETerite FORM][KHỨ MẪU] "sucCEEDed", bắt đầu bằng [conJUNCtion][LIÊN] how.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{HOW she sucCEEDed}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "she" và [PRETerite FORM][KHỨ MẪU] "sucCEEDed", bắt đầu bằng [conJUNCtion][LIÊN] how.</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [a<strong>bout</strong> {'{how she sucCEEDed}'}] là một khối [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG VẾ] bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [a<strong>bout</strong> {'{HOW she sucCEEDed}'}] là một khối [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG VẾ] bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 			
 					<li className="list-none">Khối ngoài:</li>
 
-					<li className="list-none">Tầng trong: Lớp trong {'{how she sucCEEDed}'} đóng vai trò là một [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] đứng làm điểm tựa [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] dưới sự điều phối của [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
+					<li className="list-none">Tầng trong: Lớp trong {'{HOW she sucCEEDed}'} đóng vai trò là một [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] đứng làm điểm tựa [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] dưới sự điều phối của [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 
-					<li className="list-none">Tầng ngoài: Lớp ngoài [a<strong>bout</strong> {'{how she sucCEEDed}'}] đóng vai trò là một [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tổng thể bổ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the ARticle" đứng trước nó.</li>
+					<li className="list-none">Tầng ngoài: Lớp ngoài [a<strong>bout</strong> {'{HOW she sucCEEDed}'}] đóng vai trò là một [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tổng thể bổ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the ARticle" đứng trước nó.</li>
 			
 				</ul>
 
@@ -707,7 +707,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p>Khi tư duy hình khối [HEAD][LÕI] - [PHRASE][CỤM] - [CLAUSE][VẾ] đã trở thành bản năng, kỹ thuật viết lại câu (paraphrasing) không còn là việc đổi yếu tố cấu trúc một cách khiên cưỡng. Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp MODule: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
 
-			<p>Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì thông qua việc phối hợp cùng ma trận [Danh] - [Tính] - [Trạng], người học có toàn quyền nhấc một khối [HEAD][LÕI] ra và đặt một khối [PHRASE][CỤM] như [CLAUSE][VẾ], [prepoSITion PHRASE][GIỚI CỤM] hoặc một khối [CLAUSE][VẾ] như [conJUNCtional CLAUSE][LIÊN VẾ] vào để thế chỗ. Cấu trúc tổng thể của [SENtence][CÂU LỚN] hoàn toàn không bị phá vỡ hay xáo trộn.</p>
+			<p>Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì thông qua việc phối hợp cùng ma trận [Danh] - [Tính] - [Trạng], người học có toàn quyền nhấc một khối [HEAD][LÕI] ra và đặt một khối [PHRASE][CỤM] như [CLAUSE][VẾ], [prepoSITion PHRASE][GIỚI CỤM] hoặc một khối [CLAUSE][VẾ] như [CONtent CLAUSE][NỘI VẾ] vào để thế chỗ. Cấu trúc tổng thể của [SENtence][CÂU LỚN] hoàn toàn không bị phá vỡ hay xáo trộn.</p>
 
 			<p>Kỹ thuật dịch chuyển khối cùng chức năng này giúp người học tự do thực hiện việc chuyển đổi mượt mà giữa [PREDicator HEAD][VỊ LÕI], [prepoSITion][GIỚI] và [CLAUSE][VẾ] theo ý muốn. Hãy xem cách chúng ta biến đổi linh hoạt một thông điệp thông qua việc hoán đổi các khối cấu trúc cùng giữ Chức năng [Trạng]:</p>
 
