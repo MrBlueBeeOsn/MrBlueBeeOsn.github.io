@@ -177,17 +177,17 @@ export default function TheFormsOFfTheVerb(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>Preterite: was, were</li>
+          <li>Preterite Form: was, were</li>
       
-          <li>3rd Single Present: is</li>
+          <li>3rd Singular Present Form: is</li>
       
-          <li>Plain Present: am, are</li>
+          <li>Plain Present Form: am, are</li>
 
           <li>Plain Form: be</li>
       
-          <li>Gerund-Participle: being</li>
+          <li>Gerund-Participle Form: being</li>
       
-          <li>Past Participle: been</li>
+          <li>Past Participle Form: been</li>
       
         </ul>
 
@@ -200,7 +200,7 @@ export default function TheFormsOFfTheVerb(): React.JSX.Element {
       
           <li><strong>PRETerite FORM</strong>: READ (/rɛd/)</li>
       
-          <li><strong>3rd SINGle PRESent FORM</strong>: READS (/riːdz/)</li>
+          <li><strong>3rd SINGular  PRESent FORM</strong>: READS (/riːdz/)</li>
       
           <li><strong>PLAIN PRESent FORM</strong>: READ (/riːd/)</li>
 
