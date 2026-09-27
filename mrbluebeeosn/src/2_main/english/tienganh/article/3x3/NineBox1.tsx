@@ -187,29 +187,29 @@ export default function NineBox1(): React.JSX.Element {
           <li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>][<strong>HIỆN THÁI TRỢ ĐỘNG</strong>]: will, shall, can, must, have to, may</li>
           <li className="margin-bottom-20 list-none">Khối biểu thị [Thái] độ trực diện, mang tính cam kết, ép buộc hoặc [Áp] đặt trực tiếp xuống đối tượng nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB][PHỨC ÁP THÁI ĐỘNG] thống nhất.</li>
 
-					<li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>][<strong>BẤT-ĐỊNH HÌNH</strong>]: HAVing NO TENSE or NO SUBject</li>
+					<li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>][<strong>BẤT-ĐỊNH DẠNG</strong>]: HAVing NO TENSE or NO SUBject</li>
 
-          <li className="list-none">[<strong>PLAIN FORM</strong>][<strong>GIẢN HÌNH</strong>]: ANalyze, comPILE, transMIT</li>
+          <li className="list-none">[<strong>PLAIN FORM</strong>][<strong>GIẢN DẠNG</strong>]: ANalyze, comPILE, transMIT</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng độc lập, hoàn toàn được giải phóng khỏi các liên kết định hướng và không đi kèm "to", thường đứng ngay sau [PARTicle VERB][HẠT ĐỘNG] "to", [SOFT MOdal][Ý THÁI] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] hoặc [ROOT VERB][GỐC ĐỘNG] sai khiến / tri giác (MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL).</li>
       
           <li className="list-none">[to-infiniTIval][TO-NGUYÊN]: to ANalyze, to transMIT</li>
           <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt định hướng nguyên bản [PARTicle VERB][HẠT ĐỘNG] và hành động [Thuần] khiết, nguyên bản.</li>
 
-					<li className="list-none">[<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH HÌNH</strong>]: ANalyzing, comPILing, transMITting</li>
+					<li className="list-none">[<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH DẠNG</strong>]: ANalyzing, comPILing, transMITting</li>
           <li className="margin-bottom-20 list-none">Hành động tích hợp thêm đuôi -ing nhằm biểu thị trạng thái đang diễn ra, kéo dài liên tục tại thời điểm nói.</li>
 
-          <li className="list-none">[<strong>PAST PARTiciple FORM</strong>][<strong>KHỨ TÍNH HÌNH</strong>]: ANalyzed, comPILED, been, transMITted</li>
+          <li className="list-none">[<strong>PAST PARTiciple FORM</strong>][<strong>KHỨ TÍNH DẠNG</strong>]: ANalyzed, comPILED, been, transMITted</li>
           <li className="margin-bottom-20 list-none">Hành động được chuyển đổi sang dạng biến đổi cột ba hoặc thêm đuôi -ed nhằm biểu thị tính chất trọn vẹn, [Hoàn] thành hoặc mang sắc thái bị động.</li>
 
-          <li value="6" className="margin-bottom-20">[<strong>FInite FORMS</strong>][<strong>ĐỊNH HÌNH</strong>]: HAVing TENSE or SUBject</li>
+          <li value="6" className="margin-bottom-20">[<strong>FInite FORMS</strong>][<strong>ĐỊNH DẠNG</strong>]: HAVing TENSE or SUBject</li>
 
-					<li className="list-none">[<strong>PLAIN PRESent FORM</strong>][<strong>GIẢN HIỆN HÌNH</strong>]: ANalyze, comPILE, transMIT</li>
+					<li className="list-none">[<strong>PLAIN PRESent FORM</strong>][<strong>GIẢN HIỆN DẠNG</strong>]: ANalyze, comPILE, transMIT</li>
           <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they ANalyze, comPILE, transMIT.</li>
 					
-					<li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>][<strong>3RD LẺ HIỆN HÌNH</strong>]: ANalyzes, comPILES</li>
+					<li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>][<strong>3RD ÍT HIỆN DẠNG</strong>]: ANalyzes, comPILES</li>
           <li className="margin-bottom-20 list-none">Sự hòa tan tuyệt đối khi năng lượng [Thời] gian hiện tại và hành động [Thuần] khiết, nguyên bản chung vào trong cùng một chữ duy nhất.</li>
 
-					<li className="list-none">[<strong>PRETerite FORM</strong>][<strong>KHỨ HÌNH</strong>]: ANalyzed</li>
+					<li className="list-none">[<strong>PRETerite FORM</strong>][<strong>KHỨ DẠNG</strong>]: ANalyzed</li>
           <li className="margin-bottom-20 list-none">Sự hòa tan tuyệt đối khi năng lượng [Thời] gian quá khứ và hành động [Thuần] khiết, nguyên bản chung vào trong cùng một chữ duy nhất.</li>
       
           <li className="list-none">[<strong>PREDicator</strong>][<strong>VỊ</strong>]: is ANalyzing, was comPILing</li>
@@ -242,13 +242,13 @@ export default function NineBox1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>is conFIGuring → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] is + [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] conFIGuring</li>
+          <li>is conFIGuring → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] is + [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] conFIGuring</li>
 
-          <li>have been inSPECTing → [PREDicator][VỊ] have/has/had been + [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] inSPECTing</li>
+          <li>have been inSPECTing → [PREDicator][VỊ] have/has/had been + [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] inSPECTing</li>
       
-          <li>has comPILED → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] has + [PAST PARTiciple FORM][KHỨ TÍNH HÌNH] comPILED</li>
+          <li>has comPILED → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] has + [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] comPILED</li>
       
-          <li>eVALuates, eVALuated → [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH], [PRETerite FORM][KHỨ HÌNH] Tích hợp</li>
+          <li>eVALuates, eVALuated → [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG], [PRETerite FORM][KHỨ DẠNG] Tích hợp</li>
       
         </ul>
       
@@ -259,9 +259,9 @@ export default function NineBox1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to reSOLVE → [PARTicle VERB] to + [PLAIN FORM][GIẢN HÌNH] to reSOLVE</li>
+          <li>to reSOLVE → [PARTicle VERB] to + [PLAIN FORM][GIẢN DẠNG] to reSOLVE</li>
       
-          <li>DID eXAMine → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] did (Nhấn mạnh) + [PLAIN FORM][GIẢN HÌNH] to eXAMine</li>
+          <li>DID eXAMine → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] did (Nhấn mạnh) + [PLAIN FORM][GIẢN DẠNG] to eXAMine</li>
       
         </ul>
       
@@ -272,9 +272,9 @@ export default function NineBox1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>should eVALuate → [SOFT MOdal VERB] should (gợi ý) + [PLAIN FORM][GIẢN HÌNH] to eVALuate</li>
+          <li>should eVALuate → [SOFT MOdal VERB] should (gợi ý) + [PLAIN FORM][GIẢN DẠNG] to eVALuate</li>
       
-          <li>could upGRADE → [SOFT MOdal VERB] could (khả năng nhẹ) + [PLAIN FORM][GIẢN HÌNH] to upGRADE</li>
+          <li>could upGRADE → [SOFT MOdal VERB] could (khả năng nhẹ) + [PLAIN FORM][GIẢN DẠNG] to upGRADE</li>
       
         </ul>
       
@@ -285,9 +285,9 @@ export default function NineBox1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>will enCRYPT → [asSERTive MOdal VERB] will (cam kết) + [PLAIN FORM][GIẢN HÌNH] to enCRYPT</li>
+          <li>will enCRYPT → [asSERTive MOdal VERB] will (cam kết) + [PLAIN FORM][GIẢN DẠNG] to enCRYPT</li>
       
-          <li>must seCURE → [asSERTive MOdal VERB] must (ép buộc) + [PLAIN FORM][GIẢN HÌNH] to seCURE</li>
+          <li>must seCURE → [asSERTive MOdal VERB] must (ép buộc) + [PLAIN FORM][GIẢN DẠNG] to seCURE</li>
       
         </ul>
 
@@ -300,9 +300,9 @@ export default function NineBox1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[conFIGuring] reQUIres PROper forMATting RULES.</li>
-					<li className="margin-bottom-20 list-none">[Việc cấu hình] yêu cầu các quy tắc định dạng phù hợp.</li>
+					<li className="margin-bottom-20 list-none">[Việc cấu DẠNG] yêu cầu các quy tắc định dạng phù hợp.</li>
 			
-					<li className="list-none">Khối trong: [conFIGuring] - [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "conFIGure" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [conFIGuring] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "conFIGure" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none">Khối ngoài: [conFIGuring] – [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đóng vai trò làm [SUBject][CHỦ] chịu trách nhiệm thực thi câu lớn.</li>
 			
@@ -316,7 +316,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the SYStem supPORTS [deBUGging].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống hỗ trợ [việc gỡ lỗi].</li>
 			
-					<li className="list-none">Khối trong: [deBUGging] - [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "deBUG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [deBUGging] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "deBUG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none">Khối ngoài: [deBUGging] – [OBject HEAD ][TÂN LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đứng sau làm [OBject][TÂN] mục tiêu chịu tác động trực tiếp từ [PREDicator HEAD][VỊ LÕI] "supPORTS".</li>
 			
@@ -330,7 +330,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the ANalyst proVIDed an [INtegrated] SOURCE CODE FILE.</li>
 					<li className="margin-bottom-20 list-none">Nhà phân tích đã cung cấp một tệp mã nguồn [được tích hợp].</li>
 			
-					<li className="list-none">Khối trong: [INtegrated] - [PAST PARTiciple FORM][KHỨ TÍNH HÌNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "INtegrate" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [INtegrated] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "INtegrate" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none">Khối ngoài: [INtegrated] – [ADjective HEAD][TÍNH LÕI] đứng ngay trước đối tượng [OBject HEAD][TÂN LÕI] "FILE" để mô tả thuộc tính.</li>
 			
@@ -362,7 +362,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>LEARNing [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] + a NEW LANguage [NOUN PHRASE][DANH CỤM]</li>
+					<li>LEARNing [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] + a NEW LANguage [NOUN PHRASE][DANH CỤM]</li>
 					
 					<li>→ LEARNing a NEW LANguage [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ].</li>
 			
@@ -406,7 +406,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the MIcroservice is [HANdling USer TRAFfic efFIciently].</li>
 					<li className="margin-bottom-20 list-none">Dịch vụ nhỏ [đang xử lý lưu lượng truy cập người dùng hiệu quả].</li>
 			
-					<li className="list-none">Khối trong: [HANdling USer TRAFfic efFIciently] - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] hình thành từ sự phối hợp giữa hạt nhân [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] "HANdling" và các tham số bổ nghĩa "USer TRAFfic efFIciently" phía sau.</li>
+					<li className="list-none">Khối trong: [HANdling USer TRAFfic efFIciently] - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] hình thành từ sự phối hợp giữa hạt nhân [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "HANdling" và các tham số bổ nghĩa "USer TRAFfic efFIciently" phía sau.</li>
 			
 					<li className="list-none">Khối ngoài: [HANdling USer TRAFfic efFIciently] – [ADjective PHRASE][TÍNH CỤM] đứng sau kết hợp với [FInite VERB][HẠN ĐỘNG] "is" nhằm mô tả trạng thái thuộc tính diễn tiến cho [SUBject HEAD][CHỦ LÕI] "the MIcroservice" dịch vụ nhỏ.</li>
 			
@@ -440,9 +440,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[HOW the SYStem enCRYPted the DAta] reMAINS a SEcret.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống mã hóa dữ liệu] vẫn là một bí mật.</li>
 			
-					<li className="list-none">Khối trong:  [HOW the SYStem enCRYPted the DAta] – [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa khối kết nối dẫn đường tường minh "HOW" kết hợp cùng một cấu trúc câu con xoay quanh [PRETerite FORM][KHỨ HÌNH] "enCRYPted".</li>
+					<li className="list-none">Khối trong:  [HOW the SYStem enCRYPted the DAta] – [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa khối kết nối dẫn đường tường minh "HOW" kết hợp cùng một cấu trúc câu con xoay quanh [PRETerite FORM][KHỨ DẠNG] "enCRYPted".</li>
 			
-					<li className="list-none">Khối ngoài:  [HOW the SYStem enCRYPted the DAta] – [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ] đứng trước [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "reMAINS" để làm [SUBject][CHỦ] chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Khối ngoài:  [HOW the SYStem enCRYPted the DAta] – [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ] đứng trước [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reMAINS" để làm [SUBject][CHỦ] chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 			
@@ -454,7 +454,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the CONsole VERifies [that the BACKground TASK FAILED].</li>
 					<li className="margin-bottom-20 list-none">Bảng điều khiển xác nhận [rằng tác vụ chạy nền đã thất bại].</li>
 			
-					<li className="list-none">Khối trong: [that the BACKground TASK FAILED] – [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] chứa khối kết nối dẫn đường tường minh "that" kết hợp cùng một cấu trúc câu con xoay quanh [PRETerite FORM][KHỨ HÌNH] "FAILED".</li>
+					<li className="list-none">Khối trong: [that the BACKground TASK FAILED] – [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] chứa khối kết nối dẫn đường tường minh "that" kết hợp cùng một cấu trúc câu con xoay quanh [PRETerite FORM][KHỨ DẠNG] "FAILED".</li>
 			
 					<li className="list-none">Khối ngoài: [that the BACKground TASK FAILED] – [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] hoạt động như một khối làm [OBject][TÂN] dữ liệu đứng sau để làm rõ mục tiêu được xác nhận.</li>
 			
@@ -468,7 +468,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[the ALgorithm {'{which comPUTES the enCRYPtion KEY}'}] WORKS FAST.</li>
 					<li className="margin-bottom-20 list-none">[Thuật toán {'{mà nó tính toán khóa mã hóa}'}] hoạt động nhanh.</li>
 			
-					<li className="list-none">Khối trong: {'{which comPUTES the enCRYPtion KEY}'} – [RELative CLAUSE][QUAN VẾ] chứa khối kết nối định danh tường minh "which" kết hợp cùng một cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "comPUTES". Đóng vai trò định danh thuộc tính để bổ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the ALgorithm", chỉ rõ loại thuật toán nào cho khối đứng trước.</li>
+					<li className="list-none">Khối trong: {'{which comPUTES the enCRYPtion KEY}'} – [RELative CLAUSE][QUAN VẾ] chứa khối kết nối định danh tường minh "which" kết hợp cùng một cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "comPUTES". Đóng vai trò định danh thuộc tính để bổ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the ALgorithm", chỉ rõ loại thuật toán nào cho khối đứng trước.</li>
 			
 					<li className="list-none">Khối ngoài: [the ALgorithm {'{which comPUTES the enCRYPtion KEY}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
@@ -482,7 +482,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the BACKup iNItiates [be<strong>cause</strong> the DAtabase SPACE FILLED].</li>
 					<li className="margin-bottom-20 list-none">Việc sao lưu bắt đầu [bởi vì dung lượng cơ sở dữ liệu đã đầy].</li>
 			
-					<li className="list-none">Khối trong: [be<strong>cause</strong> the DAtabase SPACE FILLED] – [prepoSITion PHRASE][GIỚI CỤM] chứa khối kết nối chỉ nguyên nhân "be<strong>cause</strong>" kết hợp cùng câu con xoay quanh [PRETerite FORM][KHỨ HÌNH] "FILLED".</li>
+					<li className="list-none">Khối trong: [be<strong>cause</strong> the DAtabase SPACE FILLED] – [prepoSITion PHRASE][GIỚI CỤM] chứa khối kết nối chỉ nguyên nhân "be<strong>cause</strong>" kết hợp cùng câu con xoay quanh [PRETerite FORM][KHỨ DẠNG] "FILLED".</li>
 			
 					<li className="list-none">Khối ngoài: [be<strong>cause</strong> the DAtabase SPACE FILLED] – [ADjunct 3][PHỤ 3] bổ nghĩa bối cảnh nguyên nhân cho hành động bắt đầu của việc sao lưu.</li>
 			
@@ -501,7 +501,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the NETwork ARchitect susPECTS [the FIREwall BLOCKS the PACKet].</li>
 					<li className="margin-bottom-20 list-none">Kiến trúc sư mạng nghi ngờ [tường lửa chặn gói tin].</li>
 			
-					<li className="list-none">Khối trong: [the FIREwall BLOCKS the PACKet] – [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] vắng bóng thành phần kết nối dẫn đường nhưng có đầy đủ kết cấu câu con xoay quanh [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "BLOCKS".</li>
+					<li className="list-none">Khối trong: [the FIREwall BLOCKS the PACKet] – [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] vắng bóng thành phần kết nối dẫn đường nhưng có đầy đủ kết cấu câu con xoay quanh [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "BLOCKS".</li>
 			
 					<li className="list-none">Khối ngoài: [the FIREwall BLOCKS the PACKet] – [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] dữ liệu trực tiếp đứng sau sự điều phối của hành động nghi ngờ.</li>
 			
@@ -515,7 +515,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[the API {'{the VENdor proVIDed YESterday}'}] THROWS exCEPtions.</li>
 					<li className="margin-bottom-20 list-none">[Giao diện lập trình ứng dụng {'{nhà cung cấp cung cấp ngày hôm qua}'}] ném ra các ngoại lệ.</li>
 			
-					<li className="list-none">Khối trong: {'{the VENdor proVIDed YESterday}'} – [ZEro RELative CLAUSE][KHUYẾT QUAN VẾ] vắng bóng thành phần kết nối nhưng có đầy đủ kết cấu câu con lồng ghép xoay quanh [PRETerite FORM][KHỨ HÌNH] "proVIDed". Đóng vai trò định danh thuộc tính để chỉ rõ loại API nào, bổ nghĩa trực tiếp cho khối [SUBject HEAD][CHỦ LÕI] "the API" phía trước.</li>
+					<li className="list-none">Khối trong: {'{the VENdor proVIDed YESterday}'} – [ZEro RELative CLAUSE][KHUYẾT QUAN VẾ] vắng bóng thành phần kết nối nhưng có đầy đủ kết cấu câu con lồng ghép xoay quanh [PRETerite FORM][KHỨ DẠNG] "proVIDed". Đóng vai trò định danh thuộc tính để chỉ rõ loại API nào, bổ nghĩa trực tiếp cho khối [SUBject HEAD][CHỦ LÕI] "the API" phía trước.</li>
 			
 					<li className="list-none">Khối ngoài: [the API {'{the VENdor proVIDed YESterday}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
@@ -529,7 +529,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[should the compiLAtion comPLETE], the operAtions TEAM will TRIGger the dePLOYment.</li>
 					<li className="margin-bottom-20 list-none">[Nếu việc biên dịch hoàn thành], đội ngũ vận hành sẽ kích hoạt triển khai.</li>
 			
-					<li className="list-none">Khối trong: [should the compiLAtion comPLETE] - [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] vận hành ở trạng thái ẩn thành phần [PrepoSITion][GIỚI] điều kiện "if" bằng cách đảo khối [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "Should" lên trước khối [SUBject HEAD][CHỦ LÕI] "the compiLAtion", kéo theo [PLAIN FORM][GIẢN HÌNH] "comPLETE".</li>
+					<li className="list-none">Khối trong: [should the compiLAtion comPLETE] - [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] vận hành ở trạng thái ẩn thành phần [PrepoSITion][GIỚI] điều kiện "if" bằng cách đảo khối [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "Should" lên trước khối [SUBject HEAD][CHỦ LÕI] "the compiLAtion", kéo theo [PLAIN FORM][GIẢN DẠNG] "comPLETE".</li>
 			
 					<li className="list-none">Khối ngoài: [should the compiLAtion comPLETE] – [ADjunct][PHỤ] bổ nghĩa bối cảnh điều kiện giả định cho hệ thống hành động phía sau.</li>
 			
@@ -565,7 +565,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>they MONitor SERver NODES [be<strong>cause</strong> of the TRAFfic SPIKE].</li>
 					<li className="margin-bottom-20 list-none">Họ giám sát các nút máy chủ [bởi vì sự tăng đột biến của lưu lượng truy cập].</li>
 			
-					<li className="list-none">Khối trong: [be<strong>cause</strong> of the TRAFfic SPIKE] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of" kết hợp với [NOUN BLOCK][DANH KHỐI] "the TRAFfic SPIKE" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [PLAIN PRESent FORM][GIẢN HIỆN HÌNH] "MONitor".</li>
+					<li className="list-none">Khối trong: [be<strong>cause</strong> of the TRAFfic SPIKE] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of" kết hợp với [NOUN BLOCK][DANH KHỐI] "the TRAFfic SPIKE" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "MONitor".</li>
 			
 					<li className="list-none">Khối ngoài: [be<strong>cause</strong> of the TRAFfic SPIKE] – [ADjunct][PHỤ] bổ nghĩa bối cảnh nguyên nhân cho hành động giám sát.</li>
 			
@@ -695,7 +695,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[reFACtoring] SATisfies the SYStem deMAND.</li>
 					<li className="margin-bottom-20 list-none">[Việc tái cấu trúc mã nguồn] thỏa mãn yêu cầu của hệ thống.</li>
 			
-					<li className="list-none">Khối trong: [reFACtoring] – [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "reFACtor" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [reFACtoring] – [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "reFACtor" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none">Khối ngoài: [reFACtoring] – [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đóng vai trò làm [SUBject][CHỦ], còn "the SYStem deMAND" đóng vai trò làm [non-FInite CLAUsal OBject][BẤT-ĐỊNH VẾ TÂN].</li>
 			
@@ -723,7 +723,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[WHAT the DEVops engiNEER upDATed this MORNing] SATisfies the SYStem deMAND.</li>
 					<li className="margin-bottom-20 list-none">[Những gì kỹ sư DevOps cập nhật sáng nay] thỏa mãn yêu cầu của hệ thống.</li>
 			
-					<li className="list-none">Khối trong:  [WHAT the DEVops engiNEER upDATed this MORNing] – [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa cấu trúc kết nối tường minh "WHAT" kết hợp cùng một cấu trúc câu con xoay quanh [PRETerite FORM][KHỨ HÌNH] "upDATed".</li>
+					<li className="list-none">Khối trong:  [WHAT the DEVops engiNEER upDATed this MORNing] – [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa cấu trúc kết nối tường minh "WHAT" kết hợp cùng một cấu trúc câu con xoay quanh [PRETerite FORM][KHỨ DẠNG] "upDATed".</li>
 			
 					<li className="list-none">Khối ngoài:  [WHAT the DEVops engiNEER upDATed this MORNing] – [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ], còn "the SYStem deMAND" đóng vai trò làm [non-FInite CLAUsal OBject][BẤT-ĐỊNH VẾ TÂN].</li>
 			
@@ -741,7 +741,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>we must rePLACE this [unseCURED] conNECtion.</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [không an toàn] này.</li>
 			
-					<li className="list-none">Khối trong: [unseCURED] - [PAST PARTiciple FORM][KHỨ TÍNH HÌNH] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "seCURE" kết hợp tiền tố phủ định "un-" và mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [unseCURED] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "seCURE" kết hợp tiền tố phủ định "un-" và mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none">Khối ngoài: [unseCURED] – [ADjective HEAD][TÍNH LÕI] đứng trước để định rõ thuộc tính cho [OBject HEAD][TÂN LÕI] "conNECtion" kết nối.</li>
 			
@@ -755,7 +755,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>we must rePLACE this conNECtion [CAUSing seCUrity LEAKS].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [gây ra rò rỉ bảo mật] này.</li>
 			
-					<li className="list-none">Khối trong: [CAUSing seCUrity LEAKS] - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] hình thành từ sự phối hợp giữa hạt nhân [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] "CAUSing" và mở rộng mục tiêu "seCUrity LEAKS" phía sau.</li>
+					<li className="list-none">Khối trong: [CAUSing seCUrity LEAKS] - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] hình thành từ sự phối hợp giữa hạt nhân [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CAUSing" và mở rộng mục tiêu "seCUrity LEAKS" phía sau.</li>
 			
 					<li className="list-none">Khối ngoài: [CAUSing seCUrity LEAKS] – [ADjective PHRASE][TÍNH CỤM] đứng sau bổ nghĩa thuộc tính diễn tiến cho [OBject HEAD][TÂN LÕI] "conNECtion" kết nối.</li>
 			
@@ -769,7 +769,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>we must rePLACE [this conNECtion {'{which alLOWS unAUthorized USer ACcess}'}].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế [kết nối {'{mà nó cho phép người dùng không được cấp quyền truy cập vào}'} này].</li>
 			
-					<li className="list-none">Khối trong: {'{which alLOWS unAUthorized USer ACcess}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "alLOWS". Đứng sau làm nhiệm vụ định danh thuộc tính cho [OBject HEAD][TÂN LÕI] "conNECtion" kết nối.</li>
+					<li className="list-none">Khối trong: {'{which alLOWS unAUthorized USer ACcess}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "alLOWS". Đứng sau làm nhiệm vụ định danh thuộc tính cho [OBject HEAD][TÂN LÕI] "conNECtion" kết nối.</li>
 			
 					<li className="list-none">Khối ngoài: [this conNECtion {'{which alLOWS unAUthorized USer ACcess}'}] - [non-FInite CLAUsal OBject][BẤT-ĐỊNH VẾ TÂN] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
@@ -803,7 +803,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [proDUCTively] - {'{MODified ADVERB}'}{'{DIỆN TRẠNG}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] "proDUCE" kết hợp hậu tố "-tive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Khối ngoài: [proDUCTively] – [ADverb HEAD][TRẠNG LÕI] bổ nghĩa cách thức vận hành cho hành động [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "SYNCS" đồng bộ hóa.</li>
+					<li className="list-none">Khối ngoài: [proDUCTively] – [ADverb HEAD][TRẠNG LÕI] bổ nghĩa cách thức vận hành cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS" đồng bộ hóa.</li>
 			
 				</ul>
 			
@@ -817,7 +817,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [to eLIMinate DAta inconSIStency] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] hình thành từ sự kết hợp giữa hạt nhân [to-infiniTIval][TO-NGUYÊN] "to eLIMinate" và mở rộng hành động phía sau.</li>
 			
-					<li className="list-none">Khối ngoài: [to eLIMinate DAta inconSIStency] – [ADjunct][PHỤ] bổ nghĩa bối cảnh mục đích cho hành động [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "SYNCS" đồng bộ hóa.</li>
+					<li className="list-none">Khối ngoài: [to eLIMinate DAta inconSIStency] – [ADjunct][PHỤ] bổ nghĩa bối cảnh mục đích cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS" đồng bộ hóa.</li>
 			
 				</ul>
 			
@@ -829,9 +829,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the appliCAtion SYNCS DAta [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [bất cứ khi nào dịch vụ nhỏ chạy nền gửi tín hiệu].</li>
 			
-					<li className="list-none">Khối trong: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] - [suBORdinate CLAUSE][PHỤ VẾ] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "when<strong>ev</strong>er" kết hợp cùng cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "SENDS".</li>
+					<li className="list-none">Khối trong: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] - [suBORdinate CLAUSE][PHỤ VẾ] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "when<strong>ev</strong>er" kết hợp cùng cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SENDS".</li>
 			
-					<li className="list-none">Khối ngoài: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] – [ADjunct][PHỤ] bổ nghĩa bối cảnh điều kiện [Thời] gian cho hành động [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "SYNCS" đồng bộ hóa.</li>
+					<li className="list-none">Khối ngoài: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] – [ADjunct][PHỤ] bổ nghĩa bối cảnh điều kiện [Thời] gian cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS" đồng bộ hóa.</li>
 			
 				</ul>
 
@@ -843,9 +843,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the appliCAtion SYNCS DAta [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [bởi vì một chính sách đồng bộ hóa tự động].</li>
 			
-					<li className="list-none">Khối trong: [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of" kết hợp với [NOUN BLOCK][DANH KHỐI] "an AUtomated synchroniZAtion POlicy" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "SYNCS".</li>
+					<li className="list-none">Khối trong: [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of" kết hợp với [NOUN BLOCK][DANH KHỐI] "an AUtomated synchroniZAtion POlicy" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS".</li>
 			
-					<li className="list-none">Khối ngoài: [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy] – [ADjunct][PHỤ] bổ nghĩa bối cảnh nguyên nhân cho hành động [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "SYNCS" đồng bộ hóa.</li>
+					<li className="list-none">Khối ngoài: [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy] – [ADjunct][PHỤ] bổ nghĩa bối cảnh nguyên nhân cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS" đồng bộ hóa.</li>
 			
 				</ul>
 			

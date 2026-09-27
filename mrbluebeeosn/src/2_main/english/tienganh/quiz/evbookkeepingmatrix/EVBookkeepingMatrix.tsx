@@ -38,7 +38,7 @@ export default function (): React.JSX.Element {
 				"[ADVERB]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [adJUSTing] - [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] bắt đầu từ [ĐỘNG] nguyên bản dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adJUSTing] - [ADjective HEAD][TÍNH LÕI] đi kèm ngay trước \"ENtries\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [adJUSTing] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] bắt đầu từ [ĐỘNG] nguyên bản dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adJUSTing] - [ADjective HEAD][TÍNH LÕI] đi kèm ngay trước \"ENtries\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 3,

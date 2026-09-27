@@ -163,29 +163,29 @@ export default function SuperWords1(): React.JSX.Element {
           <li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>][<strong>HIỆN THÁI TRỢ ĐỘNG</strong>]: will, shall, can, must, have to, may</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, khẳng định chắc chắn. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB][PHỨC ÁP THÁI ĐỘNG] thống nhất.</li>
 
-					<li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>][<strong>BẤT-ĐỊNH HÌNH</strong>]: HAVing NO TENSE or NO SUBject</li>
+					<li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>][<strong>BẤT-ĐỊNH DẠNG</strong>]: HAVing NO TENSE or NO SUBject</li>
 
-          <li className="list-none">[<strong>PLAIN FORM</strong>][<strong>GIẢN HÌNH</strong>]: BUILD, deSIGN, TEST</li>
+          <li className="list-none">[<strong>PLAIN FORM</strong>][<strong>GIẢN DẠNG</strong>]: BUILD, deSIGN, TEST</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [PARTicle VERB][HẠT ĐỘNG] "to", [SOFT MOdal][Ý THÁI] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] hoặc [ROOT VERB][GỐC ĐỘNG] MAKE, LET, let's, HELP, HAVE, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL.</li>
       
           <li className="list-none">[to-infiniTIval][TO-NGUYÊN]: to BUILD, to deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt ĐỘNG] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
 
-					<li className="list-none">[<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH HÌNH</strong>]: BUILDing, deSIGNing, TESTing</li>
+					<li className="list-none">[<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH DẠNG</strong>]: BUILDing, deSIGNing, TESTing</li>
           <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing thể hiện tính chất đang [Tiếp] diễn, vận động hoặc kéo dài.</li>
 
-          <li className="list-none">[<strong>PAST PARTiciple FORM</strong>][<strong>KHỨ TÍNH HÌNH</strong>]: BUILT, deSIGNED, been</li>
+          <li className="list-none">[<strong>PAST PARTiciple FORM</strong>][<strong>KHỨ TÍNH DẠNG</strong>]: BUILT, deSIGNED, been</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành và để lại kết quả.</li>
 
-          <li value="6" className="margin-bottom-20">[<strong>FInite FORMS</strong>][<strong>ĐỊNH HÌNH</strong>]: HAVing TENSE or SUBject</li>
+          <li value="6" className="margin-bottom-20">[<strong>FInite FORMS</strong>][<strong>ĐỊNH DẠNG</strong>]: HAVing TENSE or SUBject</li>
 
-					<li className="list-none">[<strong>PLAIN PRESent FORM</strong>][<strong>GIẢN HIỆN HÌNH</strong>]: BUILD, deSIGN, TEST</li>
+					<li className="list-none">[<strong>PLAIN PRESent FORM</strong>][<strong>GIẢN HIỆN DẠNG</strong>]: BUILD, deSIGN, TEST</li>
           <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they BUILD, deSIGN, TEST.</li>
 					
-					<li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>][<strong>3RD LẺ HIỆN HÌNH</strong>]: BUILDS, deSIGNS</li>
+					<li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>][<strong>3RD ÍT HIỆN DẠNG</strong>]: BUILDS, deSIGNS</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] hiện tại và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
 
-					<li className="list-none">[<strong>PRETerite FORM</strong>][<strong>KHỨ HÌNH</strong>]: BUILT</li>
+					<li className="list-none">[<strong>PRETerite FORM</strong>][<strong>KHỨ DẠNG</strong>]: BUILT</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] quá khứ và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
       
           <li className="list-none">[<strong>PREDicator</strong>][<strong>VỊ</strong>]: is BUILDing, was deSIGNing</li>
@@ -241,13 +241,13 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>be exPANDing → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] be (am/is/are, was/were) + [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] exPANDing</li>
+          <li>be exPANDing → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] be (am/is/are, was/were) + [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] exPANDing</li>
 
-          <li>have been exPANDing → [PREDicator][VỊ] have/has/had been + [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] exPANDing</li>
+          <li>have been exPANDing → [PREDicator][VỊ] have/has/had been + [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] exPANDing</li>
       
           <li>have OPtimized → [PREDicator][VỊ] have/has/had + OPtimized</li>
       
-          <li>OPtimized, OPtimizes → [PRETerite FORM][KHỨ HÌNH], [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] Tích hợp</li>
+          <li>OPtimized, OPtimizes → [PRETerite FORM][KHỨ DẠNG], [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] Tích hợp</li>
       
         </ul>
       
@@ -260,7 +260,7 @@ export default function SuperWords1(): React.JSX.Element {
       
           <li>to OPtimize → [to-infiniTIval][TO-NGUYÊN] OPtimize</li>
       
-          <li>DID OPtimize → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] did (Nhấn mạnh) + [PLAIN FORM][GIẢN HÌNH] OPtimize</li>
+          <li>DID OPtimize → [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] did (Nhấn mạnh) + [PLAIN FORM][GIẢN DẠNG] OPtimize</li>
       
         </ul>
       
@@ -271,9 +271,9 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>should conSULT → [SOFT MOdal][Ý THÁI] should (gợi ý) + [PLAIN FORM][GIẢN HÌNH] conSULT</li>
+          <li>should conSULT → [SOFT MOdal][Ý THÁI] should (gợi ý) + [PLAIN FORM][GIẢN DẠNG] conSULT</li>
       
-          <li>could upGRADE → [SOFT MOdal][Ý THÁI] could (khả năng nhẹ) + [PLAIN FORM][GIẢN HÌNH] upGRADE</li>
+          <li>could upGRADE → [SOFT MOdal][Ý THÁI] could (khả năng nhẹ) + [PLAIN FORM][GIẢN DẠNG] upGRADE</li>
       
         </ul>
       
@@ -284,9 +284,9 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>will apPROVE → [asSERTive MOdal][ÁP THÁI] will (cam kết) + [PLAIN FORM][GIẢN HÌNH] apPROVE</li>
+          <li>will apPROVE → [asSERTive MOdal][ÁP THÁI] will (cam kết) + [PLAIN FORM][GIẢN DẠNG] apPROVE</li>
       
-          <li>must seCURE → [asSERTive MOdal][ÁP THÁI] must (ép buộc) + [PLAIN FORM][GIẢN HÌNH] seCURE</li>
+          <li>must seCURE → [asSERTive MOdal][ÁP THÁI] must (ép buộc) + [PLAIN FORM][GIẢN DẠNG] seCURE</li>
       
         </ul>
 
@@ -303,7 +303,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>exPANDing [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] + the business [NOUN HEAD][DANH LÕI]</li>
+					<li>exPANDing [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] + the business [NOUN HEAD][DANH LÕI]</li>
 					<li className="margin-bottom-20 list-none">→ exPANDing the BUSIness [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ].</li>
 			
 				</ul>
@@ -327,7 +327,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[OPtimizing] reQUIres inTENSE FOcus.</li>
 					<li className="margin-bottom-20 list-none">[Việc tối ưu hóa] đòi hỏi sự tập trung cao độ.</li>
 			
-					<li className="list-none">Khối trong: [OPtimizing] – [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "OPtimize" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] hoạt động độc lập.</li>
+					<li className="list-none">Khối trong: [OPtimizing] – [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "OPtimize" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] hoạt động độc lập.</li>
 			
 					<li className="list-none">Khối ngoài: [OPtimizing] – [SUBject HEAD][CHỦ LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đang đứng vị trí khởi đầu để làm [SUBject][CHỦ] cho toàn câu lớn.</li>
 			
@@ -341,9 +341,9 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>she enJOYS [deSIGNing].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy yêu thích [việc thiết kế].</li>
 			
-					<li className="list-none">Khối trong: [deSIGNing] – [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] hình thành từ [ROOT VERB][GỐC ĐỘNG] nguyên bản "deSIGN" mặc thêm hậu tố "-ing" để tạo thành một khối cấp độ [HEAD][LÕI] độc lập.</li>
+					<li className="list-none">Khối trong: [deSIGNing] – [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ [ROOT VERB][GỐC ĐỘNG] nguyên bản "deSIGN" mặc thêm hậu tố "-ing" để tạo thành một khối cấp độ [HEAD][LÕI] độc lập.</li>
 			
-					<li className="list-none">Khối ngoài: [deSIGNing] – [OBject HEAD ][TÂN LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đang đứng vị trí sau [3RD SINGular PRESent FORM][3RD LẺ HIỆN HÌNH] "enJOYS" để làm [OBject][TÂN] tiếp nhận hành động yêu thích.</li>
+					<li className="list-none">Khối ngoài: [deSIGNing] – [OBject HEAD ][TÂN LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] đang đứng vị trí sau [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "enJOYS" để làm [OBject][TÂN] tiếp nhận hành động yêu thích.</li>
 			
 				</ul>
 			
@@ -355,7 +355,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>we FOUND an [unexPECted] soLUtion.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã tìm ra một giải pháp [bất ngờ/không mong đợi].</li>
 			
-					<li className="list-none">Khối trong: [unexPECted] – [PAST PARTiciple FORM][KHỨ TÍNH HÌNH] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "exPECT" mặc thêm tiền tố phủ định "un-" kết hợp với hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính mô tả tĩnh.</li>
+					<li className="list-none">Khối trong: [unexPECted] – [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "exPECT" mặc thêm tiền tố phủ định "un-" kết hợp với hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính mô tả tĩnh.</li>
 			
 					<li className="list-none">Khối ngoài: [unexPECted] – [ADjective HEAD][TÍNH LÕI] đang đứng vị trí trước và bổ nghĩa, mô tả tính chất cho [OBject HEAD][TÂN LÕI] "soLUtion" giải pháp.</li>
 			
@@ -641,7 +641,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Khối ngoài:</li>
 
-					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [non-FInite CLAUsal OBject][BẤT-ĐỊNH VẾ TÂN] lớn đứng sau [PRETerite FORM][KHỨ HÌNH] "sugGESted".</li>
+					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [non-FInite CLAUsal OBject][BẤT-ĐỊNH VẾ TÂN] lớn đứng sau [PRETerite FORM][KHỨ DẠNG] "sugGESted".</li>
 
 					<li className="list-none">Trong đó khối phụ {'{WHAT the TEAM acCOMplished this QUARter}'} - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] tầng trong nhỏ tiếp nhận tác động từ hành động xem xét.</li>
 			
@@ -726,7 +726,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>they CANceled the LAUNCH [due to the deVICE overHEATing <strong>un</strong>der PRESsure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [do thiết bị gặp tình trạng quá nhiệt dưới áp lực].</li>
 			
-					<li className="list-none">Khối trong: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] thể hiện khối thông tin mở rộng bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to", kéo theo [NOUN BLOCK][DANH KHỐI] "the deVICE" và một dạng [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] "overHEATing" được bọc lót -ing đi sau để cụm hóa [ROOT VERB][GỐC ĐỘNG] "overHEAT".</li>
+					<li className="list-none">Khối trong: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] thể hiện khối thông tin mở rộng bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to", kéo theo [NOUN BLOCK][DANH KHỐI] "the deVICE" và một dạng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "overHEATing" được bọc lót -ing đi sau để cụm hóa [ROOT VERB][GỐC ĐỘNG] "overHEAT".</li>
 
 					<li className="list-none">Khối ngoài: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [ADjunct][PHỤ] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
 			
