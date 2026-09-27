@@ -354,7 +354,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 					<li>[<strong>PHRASE</strong>][<strong>CỤM</strong>]: Khối phức hợp làm một chức năng chung nhưng không có lõi [S] và hành động riêng theo quy tắc kéo theo thành phần phụ thuộc.</li>
 
-					<li>[<strong>CLAUSE</strong>][<strong>VẾ</strong>]: Một câu con có cấu trúc [S] và hành động riêng bên trong được khóa lại bởi một [conJUNCtion][LIÊN] để đi làm thuê cho câu lớn.</li>
+					<li>[<strong>CLAUSE</strong>][<strong>VẾ</strong>]: Một câu con có cấu trúc [S] và hành động riêng bên trong được khóa lại bởi một [PROnoun][ĐẠI] như who, which, what; [ADverb][TRẠNG] như HOW, WHY; [PrepoSITion][GIỚI] như where, when, if, because; [SuBORdinator][HẠ] như that để đi làm thuê cho câu lớn.</li>
 			
 				</ul>
 
@@ -458,7 +458,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [inVESTigating {'{WHY the appliCAtion FAILED}'}] là một [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG VẾ] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] inVESTigating ôm trọn phần phụ thuộc phức tạp bên trong.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{WHY the appliCAtion FAILED}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] bắt đầu bằng [conJUNCtion][LIÊN] why kết hợp với một cấu trúc [S]-[HEAD] nội bộ của riêng nó.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{WHY the appliCAtion FAILED}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] bắt đầu bằng [ADverb][TRẠNG] "WHY" kết hợp với một cấu trúc [S]-[HEAD] nội bộ của riêng nó.</li>
 
 					<li className="list-none">Khối ngoài:</li>
 
@@ -481,7 +481,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [preDICTing {'{HOW the CLImate will SHIFT}'}] là một [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG VẾ] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] preDICTing kéo theo cấu trúc phụ thuộc nhiều tầng.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{HOW the CLImate will SHIFT}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] bắt đầu bằng [conJUNCtion][LIÊN] HOW kết hợp với một cấu trúc [S]-[HEAD] nội bộ chứa [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{HOW the CLImate will SHIFT}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] bắt đầu bằng [ADverb][TRẠNG] "HOW" kết hợp với một cấu trúc [S]-[HEAD] nội bộ chứa [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
 
 					<li className="list-none">Khối ngoài:</li>
 
@@ -499,7 +499,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>[HOW the SYStem OPerates] deTERmines Overall perFORmance.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống vận hành] quyết định hiệu năng tổng thể.</li>
 
-					<li className="list-none">Khối trong:  [HOW the SYStem OPerates] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa [conJUNCtion][LIÊN] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
+					<li className="list-none">Khối trong:  [HOW the SYStem OPerates] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa [ADverb][TRẠNG] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
 
 					<li className="list-none">Khối ngoài:  [HOW the SYStem OPerates] - [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] deTERmines.</li>
 			
@@ -513,7 +513,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>AUditors CHECK [how TECHnicians seCURE DAta].</li>
 					<li className="margin-bottom-20 list-none">Kiểm toán viên kiểm tra [cách các kỹ thuật viên bảo mật dữ liệu].</li>
 
-					<li className="list-none">Khối trong:  [how TECHnicians seCURE DAta] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa [conJUNCtion][LIÊN] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
+					<li className="list-none">Khối trong:  [how TECHnicians seCURE DAta] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa [ADverb][TRẠNG] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
 
 					<li className="list-none">Khối ngoài:  [how TECHnicians seCURE DAta] - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] tiếp nhận nội dung thông tin trực tiếp, đứng sau [PLAIN PRESent FORM][GIẢN HIỆN HÌNH] CHECK.</li>
 			
@@ -527,7 +527,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>MANagement dyNAMic beLIEVES [the STRATegy DRIVES GROWTH].</li>
 					<li className="margin-bottom-20 list-none">Ban quản lý tin tưởng [chiến lược thúc đẩy tăng trưởng].</li>
 
-					<li className="list-none">Khối trong: [the STRATegy DRIVES GROWTH] - [ZEro COMplement CLAUSE][KHUYẾT BỔ VẾ] có đầy đủ cấu hình [SUBject HEAD][CHỦ LÕI] nội bộ và hành động nhưng đã bị chủ động lược bỏ đi [conJUNCtion][LIÊN] that ở đầu khối nhằm tối giản cấu trúc bề mặt.</li>
+					<li className="list-none">Khối trong: [the STRATegy DRIVES GROWTH] - [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] có đầy đủ cấu hình [SUBject HEAD][CHỦ LÕI] nội bộ và hành động nhưng đã bị chủ động lược bỏ đi [suBORdinator][HẠ] "that" ở đầu khối nhằm tối giản cấu trúc bề mặt.</li>
 
 					<li className="list-none">Khối ngoài: [the STRATegy DRIVES GROWTH] - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] tiếp nhận nội dung thông tin trực tiếp cho hành động beLIEVES.</li>
 			
@@ -689,7 +689,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối giữa {'{'}at the MOment {'<'}when the upDATe comPLEted{'>}'} là một [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG VẾ] bắt đầu bằng [prepoSITion][GIỚI] at ôm lấy cấu trúc phức hợp tầng dưới nhằm định vị [Thời] gian.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'<when the upDATe comPLEted>'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa [conJUNCtion][LIÊN] when liên kết một câu con hoàn chỉnh có chủ vị riêng.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'<when the upDATe comPLEted>'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa [PrepoSITion][GIỚI] when liên kết một câu con hoàn chỉnh có chủ vị riêng.</li>
 
 					<li className="list-none">Khối ngoài:</li>
 
@@ -723,7 +723,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>we will PAUSE deVELopment [be<strong>cause</strong> the CLIent reQUESted alteRAtions].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ tạm dừng phát triển [bởi vì khách hàng yêu cầu những thay đổi].</li>
 
-					<li className="list-none">Khối trong: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [suBORdinate CLAUSE][PHỤ VẾ] chứa [conJUNCtion][LIÊN] be<strong>cause</strong> và một bộ khung [S]-[HEAD] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
+					<li className="list-none">Khối trong: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [suBORdinate CLAUSE][PHỤ VẾ] chứa [PrepoSITion][GIỚI] be<strong>cause</strong> và một bộ khung [S]-[HEAD] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
 
 					<li className="list-none">Khối ngoài: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [ADjunct 3][PHỤ 3] bổ nghĩa cho hành động chính của bộ nguồn [SOFT MOdal][Ý THÁI] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will PAUSE, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
 					
@@ -738,7 +738,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>[had the WARNing TRIGgered SOONer], we would have MITigated RISKS.</li>
 					<li className="margin-bottom-20 list-none">[Nếu cảnh báo kích hoạt sớm hơn], chúng tôi đã giảm thiểu được các rủi ro.</li>
 
-					<li className="list-none">Khối trong: [had the WARNing TRIGgered SOONer] - [ZEro suBORdinate CLAUSE][KHUYẾT PHỤ VẾ] giả định đã triệt tiêu hoàn toàn [conJUNCtion][LIÊN] điều kiện bằng phương pháp đảo cấu trúc đảo khối [FInite VERB][HẠN ĐỘNG] Had lên đứng trước [SUBject HEAD][CHỦ LÕI] nội bộ the WARNing.</li>
+					<li className="list-none">Khối trong: [had the WARNing TRIGgered SOONer] - [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] giả định đã triệt tiêu hoàn toàn [PrepoSITion][GIỚI] điều kiện bằng phương pháp đảo cấu trúc đảo khối [FInite VERB][HẠN ĐỘNG] Had lên đứng trước [SUBject HEAD][CHỦ LÕI] nội bộ the WARNing.</li>
 
 					<li className="list-none">Khối ngoài: [had the WARNing TRIGgered SOONer] - [ADjunct][PHỤ] đóng vai trò cung cấp cảnh báo nền tảng giả định bối cảnh điều kiện tiên quyết cho hệ quả của câu lớn phía sau.</li>
 					
@@ -809,7 +809,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>diRECtors apPROVE [that the dePARTment inCREASes the BUDget].</li>
 					<li className="margin-bottom-20 list-none">Các giám đốc phê duyệt [rằng phòng ban sẽ tăng ngân sách].</li>
 			
-					<li className="list-none">Khối trong: [that the dePARTment inCREASes the BUDget] - [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] bắt đầu bằng [conJUNCtion][LIÊN] that bao bọc lấy một kết cấu câu hoàn chỉnh có chủ vị phân định rõ ràng.</li>
+					<li className="list-none">Khối trong: [that the dePARTment inCREASes the BUDget] - [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] bắt đầu bằng [suBORdinator][HẠ] "that" bao bọc lấy một kết cấu câu hoàn chỉnh có chủ vị phân định rõ ràng.</li>
 					
 					<li className="list-none">Khối ngoài: [that the dePARTment inCREASes the BUDget] - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] giữ nguyên vị trí chức năng [OBject][TÂN] đứng sau apPROVE nhưng cấu trúc hình thái được bung mở thành một câu con đầy đủ cấu trúc [S]-[HEAD] bên trong để chi tiết hóa thông tin.</li>
 			

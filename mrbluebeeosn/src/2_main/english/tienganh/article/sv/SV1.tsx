@@ -450,7 +450,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[WHAT you SAID] surPRISED me.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn đã nói] đã làm tôi ngạc nhiên.</li>
 			
-					<li className="list-none">Khối trong:  [WHAT you SAID] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [PRETerite FORM][KHỨ HÌNH] "SAID", bắt đầu bằng [conJUNCtion][LIÊN] "WHAT".</li>
+					<li className="list-none">Khối trong:  [WHAT you SAID] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [PRETerite FORM][KHỨ HÌNH] "SAID", bắt đầu bằng [PROnoun][ĐẠI] "what".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng:  [WHAT you SAID] - [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [PRETerite FORM][KHỨ HÌNH] "surPRISED" để làm [SUBject][CHỦ] điều phối hành động cho toàn bộ [SENtence][CÂU LỚN].</li>
 			
@@ -461,7 +461,7 @@ export default function SV1(): React.JSX.Element {
 					<li><strong>ever</strong>yone KNOWS [that WAter BOILS at ONE HUNdred deGREES].</li>
 					<li className="margin-bottom-20 list-none">Mọi người đều biết [rằng nước sôi ở 100 độ].</li>
 			
-					<li className="list-none">Khối trong: [that WAter BOILS at ONE HUNdred deGREES] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] tạo nên khối hành động phức có chứa hệ trục [SUBject HEAD][CHỦ LÕI] "WAter" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "BOILS", bắt đầu bằng [conJUNCtion][LIÊN] "that".</li>
+					<li className="list-none">Khối trong: [that WAter BOILS at ONE HUNdred deGREES] - [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] tạo nên khối hành động phức có chứa hệ trục [SUBject HEAD][CHỦ LÕI] "WAter" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "BOILS", bắt đầu bằng [suBORdinator][HẠ] "that".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [that WAter BOILS at ONE HUNdred deGREES] - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] đảm nhận nhiệm vụ của một khối đối tượng đứng sau [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "KNOWS" để làm [OBject][TÂN] dưới sự điều phối của nó.</li>
 			
@@ -473,7 +473,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[the LAPtop {'{which i BOUGHT LAST WEEK}'}] WORKS PERfectly.</li>
 					<li className="margin-bottom-20 list-none">[Chiếc máy tính xách tay {'{mà tôi mua tuần trước}'}] hoạt động hoàn hảo.</li>
 			
-					<li className="list-none">Khối trong: {'{which i BOUGHT LAST WEEK}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} định hình khối hành động phức có chứa hệ trục [SUBject PRONOUN][CHỦ ĐẠI] "i" và [PRETerite FORM][KHỨ HÌNH] "BOUGHT", bắt đầu bằng [conJUNCtion][LIÊN] "which". Thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [SUBject HEAD][CHỦ LÕI] "LAPtop".</li>
+					<li className="list-none">Khối trong: {'{which i BOUGHT LAST WEEK}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} định hình khối hành động phức có chứa hệ trục [SUBject PRONOUN][CHỦ ĐẠI] "i" và [PRETerite FORM][KHỨ HÌNH] "BOUGHT", bắt đầu bằng [PROnoun][ĐẠI] "which". Thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [SUBject HEAD][CHỦ LÕI] "LAPtop".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [the LAPtop {'{which i BOUGHT LAST WEEK}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
@@ -485,7 +485,7 @@ export default function SV1(): React.JSX.Element {
 					<li>we CANcelled the PICnic [be<strong>cause</strong> it RAINED HEAVily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa to].</li>
 			
-					<li className="list-none">Khối trong: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ VẾ] thể hiện khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "it" và [PRETerite FORM][KHỨ HÌNH] "RAINED", bắt đầu bằng [conJUNCtion][LIÊN] "be<strong>cause</strong>".</li>
+					<li className="list-none">Khối trong: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ VẾ] thể hiện khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "it" và [PRETerite FORM][KHỨ HÌNH] "RAINED", bắt đầu bằng [PrepoSITion][GIỚI] "be<strong>cause</strong>".</li>
 			
 					<li className="list-none">Khối ngoài: [be<strong>cause</strong> it RAINED HEAVily] - [ADjunct 3][PHỤ 3] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
 			
@@ -494,11 +494,11 @@ export default function SV1(): React.JSX.Element {
 
 			{/* VI.  */}
 
-			<h3 className="margin-y-50 text-center">VI. Hiện Tượng [CONtact CLAUSE][CHẠM VẾ]</h3>
+			<h3 className="margin-y-50 text-center">VI. Hiện Tượng [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ]</h3>
 
 			<p>Trong tiếng Anh tự nhiên, người bản ngữ rất thường xuyên lược bỏ hoàn toàn thành phần kết nối bề nổi. Nếu khối này ẩn đi thành phần kết nối nhưng vẫn chứa hệ trục [SUBject HEAD][CHỦ LÕI] - [PREDicator HEAD][VỊ LÕI] nằm bên trong cấu trúc lớn hơn, nó thực chất là một dạng [CLAUSE][VẾ] đặc thù.</p>
 
-			<p>Lúc này, khối [CONtact CLAUSE][CHẠM VẾ] hoàn toàn không chứa [conJUNCtion][LIÊN], hiển thị cấu hình giống hệt như một câu độc lập nhưng thực chất phải neo chặt vào hệ thống để làm tròn 3 chức năng:</p>
+			<p>Lúc này, khối [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] hoàn toàn không chứa [SuBORdinator][HẠ], hiển thị cấu hình giống hệt như một câu độc lập nhưng thực chất phải neo chặt vào hệ thống để làm tròn 3 chức năng:</p>
 
 
 			<h4 className="margin-y-40">A. [FInite CLAUsal OBject][ĐỊNH VẾ TÂN]</h4>
@@ -508,7 +508,7 @@ export default function SV1(): React.JSX.Element {
 					<li>i beLIEVE [you will PASS the eXAM].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn sẽ vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Khối trong: [you will PASS the eXAM] - [ZEro COMplement CLAUSE][KHUYẾT BỔ VẾ] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và khối hành động gồm [PREDicator][VỊ] "will" kết hợp với [PLAIN FORM][GIẢN HÌNH] "PASS".</li>
+					<li className="list-none">Khối trong: [you will PASS the eXAM] - [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và khối hành động gồm [PREDicator][VỊ] "will" kết hợp với [PLAIN FORM][GIẢN HÌNH] "PASS".</li>
 			
 					<li className="list-none">Khối ngoài: [you will PASS the eXAM] - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] đứng sau [PLAIN PRESent FORM][GIẢN HIỆN HÌNH] "beLIEVE" như một [OBject][TÂN] thực thi.</li>
 			
@@ -538,7 +538,7 @@ export default function SV1(): React.JSX.Element {
 					<li>the TEA was SO HOT [i COULDN'T DRINK it].</li>
 					<li className="margin-bottom-20 list-none">Trà quá nóng [đến mức tôi không thể uống được].</li>
 			
-					<li className="list-none">Khối trong: [i COULDN'T DRINK it] - [ZEro suBORdinate CLAUSE][KHUYẾT PHỤ VẾ] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "i" và cụm hành động gồm [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "COULDN'T" kết hợp với [PLAIN FORM][GIẢN HÌNH] "DRINK".</li>
+					<li className="list-none">Khối trong: [i COULDN'T DRINK it] - [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "i" và cụm hành động gồm [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "COULDN'T" kết hợp với [PLAIN FORM][GIẢN HÌNH] "DRINK".</li>
 			
 					<li className="list-none">Khối ngoài: [i COULDN'T DRINK it] - [ADjunct][PHỤ] gắn vào phía sau [ADjective HEAD][TÍNH LÕI] "HOT" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [ADverb HEAD][TRẠNG LÕI] "SO".</li>
 			
@@ -615,7 +615,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{HOW the ENgine WORKS}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] vì chứa đầy đủ hệ trục [SUBject HEAD][CHỦ LÕI] "the ENgine" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "WORKS", bắt đầu bằng [conJUNCtion][LIÊN] how.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{HOW the ENgine WORKS}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] vì chứa đầy đủ hệ trục [SUBject HEAD][CHỦ LÕI] "the ENgine" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "WORKS", bắt đầu bằng [ADverb][TRẠNG] "HOW".</li>
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCOVering {'{HOW the ENgine WORKS}'}] là một khối [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG VẾ] bắt đầu bằng hành động thực thi [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] dạng V-ing disCOVering.</li>
 			
@@ -637,7 +637,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{WHAT they had disCOVered}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "they" và [PRETerite FORM][KHỨ HÌNH] "had disCOVered", bắt đầu bằng [conJUNCtion][LIÊN] what.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{WHAT they had disCOVered}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "they" và [PRETerite FORM][KHỨ HÌNH] "had disCOVered", bắt đầu bằng [PROnoun][ĐẠI] "what".</li>
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCUSSing {'{WHAT they had disCOVered}'}] là một khối [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG VẾ] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH HÌNH] disCUSSing.</li>
 			
@@ -662,7 +662,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{HOW she sucCEEDed}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "she" và [PRETerite FORM][KHỨ HÌNH] "sucCEEDed", bắt đầu bằng [conJUNCtion][LIÊN] how.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{HOW she sucCEEDed}'} là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "she" và [PRETerite FORM][KHỨ HÌNH] "sucCEEDed", bắt đầu bằng [ADverb][TRẠNG] "HOW".</li>
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [a<strong>bout</strong> {'{HOW she sucCEEDed}'}] là một khối [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG VẾ] bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 			
@@ -687,7 +687,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{than we exPECTed}'} là một [ComPARative CLAUSE][SO VẾ] có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "we" và [PRETerite FORM][KHỨ HÌNH] "exPECTed", được bắt đầu bằng [conJUNCtion][LIÊN] than.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{than we exPECTed}'} là một [ComPARative CLAUSE][SO VẾ] có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "we" và [PRETerite FORM][KHỨ HÌNH] "exPECTed", được bắt đầu bằng [PrepoSITion][GIỚI] than.</li>
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [SLOWer {'{than we exPECTed}'}] là một khối [Nhúng Diện Trạng Cụm][emBEDded Modified Adverb Phrase] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản SLOW kết hợp hậu tố -er.</li>
 			
@@ -761,7 +761,7 @@ export default function SV1(): React.JSX.Element {
 					<li>we arRIVED [<strong>af</strong>ter the RAIN STOPPED].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [sau khi cơn mưa tạnh].</li>
 			
-					<li className="list-none">Khối trong: [<strong>af</strong>ter the RAIN STOPPED] - [suBORdinate CLAUSE][PHỤ VẾ] thể hiện khối hành động phức có chứa hệ trục [SUBject HEAD][CHỦ LÕI] "the RAIN" và [PRETerite FORM][KHỨ HÌNH] "STOPPED", bắt đầu bằng [conJUNCtion][LIÊN] "<strong>af</strong>ter ".</li>
+					<li className="list-none">Khối trong: [<strong>af</strong>ter the RAIN STOPPED] - [suBORdinate CLAUSE][PHỤ VẾ] thể hiện khối hành động phức có chứa hệ trục [SUBject HEAD][CHỦ LÕI] "the RAIN" và [PRETerite FORM][KHỨ HÌNH] "STOPPED", bắt đầu bằng [PrepoSITion][GIỚI] "<strong>af</strong>ter ".</li>
 
 					<li className="list-none">Khối ngoài: [<strong>af</strong>ter the RAIN STOPPED] - [ADjunct][PHỤ] gắn vào phía sau [PRETerite FORM][KHỨ HÌNH] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời gian cho toàn bộ hành động phía trước.</li>
 			
@@ -805,7 +805,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[WHAT you KNOW] is POWer.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn biết] tạo nên sức mạnh.</li>
 			
-					<li className="list-none">Khối trong:  [what you KNOW] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [PLAIN PRESent FORM][GIẢN HIỆN HÌNH] "KNOW", bắt đầu bằng [conJUNCtion][LIÊN] "WHAT".</li>
+					<li className="list-none">Khối trong:  [what you KNOW] - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] tạo nên khối hành động phức có chứa hệ trục [SUBject PROnoun][CHỦ ĐẠI] "you" và [PLAIN PRESent FORM][GIẢN HIỆN HÌNH] "KNOW", bắt đầu bằng [PROnoun][ĐẠI] "what".</li>
 
 					<li className="list-none">Khối ngoài:  [what you KNOW] - [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ] đứng ở đầu câu tạo nên [SUBject][CHỦ] cho toàn câu.</li>
 			

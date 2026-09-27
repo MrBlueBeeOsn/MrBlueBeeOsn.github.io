@@ -540,7 +540,7 @@ export default function CLEAR(): React.JSX.Element {
           
       <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [CLAUSE][VẾ]</h5>
 
-      <p className="margin-top-20 text-indent-whole">Phân hệ này sử dụng các mã kết nối ([conJUNCtion][LIÊN] hoặc mã định vị) xuất hiện trực tiếp ở đầu hệ con để làm điểm tựa liên kết dữ liệu.</p>
+      <p className="margin-top-20 text-indent-whole">Phân hệ này sử dụng các mã kết nối ([ADverb][TRẠNG], [PrepoSITion][GIỚI] hoặc mã định vị [PROnoun][ĐẠI]) xuất hiện trực tiếp ở đầu hệ con để làm điểm tựa liên kết dữ liệu.</p>
 
 
       <p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject"><strong>Hình thành chức năng</strong> [<strong>FInite CLAUsal SUBject</strong>][<strong>ĐỊNH CÂU CHỦ</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
@@ -584,7 +584,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>the TEAM CELebrated [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã ăn mừng [vì người trưởng nhóm đã thông qua ngân sách dự án].</li>
       
-          <li className="list-none">Khối trong: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [suBORdinate CLAUSE][PHỤ VẾ] kích hoạt ngay sau [conJUNCtion][LIÊN] nguyên nhân "be<strong>cause</strong>", chứa [SUBject HEAD][CHỦ LÕI] "the LEADer" và [PRETerite FORM][KHỨ HÌNH] "CLEARED" mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none">Khối trong: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [suBORdinate CLAUSE][PHỤ VẾ] kích hoạt ngay sau [PrepoSITion][GIỚI] nguyên nhân "be<strong>cause</strong>", chứa [SUBject HEAD][CHỦ LÕI] "the LEADer" và [PRETerite FORM][KHỨ HÌNH] "CLEARED" mang dấu mốc trục thời quá khứ.</li>
       
           <li className="list-none">Khối ngoài: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [ADjunct 3][PHỤ 3] thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần diện thông tin chính "the TEAM CELebrated" đứng trước.</li>
       
@@ -592,7 +592,7 @@ export default function CLEAR(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [CONtact CLAUSE][CHẠM VẾ]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ở phân hệ này, các thành phần liên kết đã được người bản ngữ chủ động lược bỏ để tối ưu tốc độ truyền tải thông tin. Về diện mạo vật lý, khối mã này nhìn hoàn toàn giống như một hệ con độc lập có đầy đủ cặp bài trùng [SUBject HEAD][CHỦ LÕI] và [PREDicator HEAD][VỊ LÕI], tuy nhiên chức năng của nó vẫn là chức năng phụ thuộc và vẫn sinh ra đầy đủ 3 đầu ra: Danh, Tính, Trạng.</p>
 
@@ -606,7 +606,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>i beLIEVE [you CLEARED the STORage SPACE].</li>
           <li className="margin-bottom-20 list-none">Tôi tin [bạn đã dọn sạch không gian lưu trữ].</li>
       
-          <li className="list-none">Khối trong: [you CLEARED the STORage SPACE] - [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] đã ẩn [conJUNCtion][LIÊN] định hướng "that", chỉ còn hiển thị trọn vẹn khối [SUBject PROnoun][CHỦ ĐẠI] "you" và [PRETerite FORM][KHỨ HÌNH] "CLEARED".</li>
+          <li className="list-none">Khối trong: [you CLEARED the STORage SPACE] - [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] đã ẩn [SuBORdinator][HẠ] định hướng "that", chỉ còn hiển thị trọn vẹn khối [SUBject PROnoun][CHỦ ĐẠI] "you" và [PRETerite FORM][KHỨ HÌNH] "CLEARED".</li>
       
           <li className="list-none">Khối ngoài: [you CLEARED the STORage SPACE] - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] nhận toàn bộ năng lượng niềm tin từ [PLAIN PRESent FORM][GIẢN HIỆN HÌNH] "beLIEVE".</li>
       
@@ -638,7 +638,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[should you CLEAR the PENDing TASKS toDAY], we will START the NEW PLAN.</li>
           <li className="margin-bottom-20 list-none">[Nếu bạn giải quyết xong các nhiệm vụ còn tồn đọng trong hôm nay], chúng tôi sẽ bắt đầu kế hoạch mới.</li>
       
-          <li className="list-none">Khối trong: [should you CLEAR the PENDing TASKS toDAY] - [suBORdinate CLAUSE][PHỤ VẾ] vận hành ở trạng thái ẩn [conJUNCtion][LIÊN] điều kiện "if" bằng giải pháp đảo [PREDicator][VỊ] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [SUBject PROnoun][CHỦ ĐẠI] "you" và [PLAIN FORM][GIẢN HÌNH] "CLEAR".</li>
+          <li className="list-none">Khối trong: [should you CLEAR the PENDing TASKS toDAY] - [suBORdinate CLAUSE][PHỤ VẾ] vận hành ở trạng thái ẩn [PrepoSITion][GIỚI] điều kiện "if" bằng giải pháp đảo [PREDicator][VỊ] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [SUBject PROnoun][CHỦ ĐẠI] "you" và [PLAIN FORM][GIẢN HÌNH] "CLEAR".</li>
       
           <li className="list-none">Khối ngoài: [should you CLEAR the PENDing TASKS toDAY] - [ADjunct][PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
       
@@ -706,7 +706,7 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Khối trong: {'{WHY the DAtabase CLEARS SESsions}'} - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the DAtabase" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] riêng "CLEARS" thiết lập theo trục thời hiện tại đi sau [conJUNCtion][LIÊN] "why".</li>
+          <li className="list-none">Khối trong: {'{WHY the DAtabase CLEARS SESsions}'} - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the DAtabase" và [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] riêng "CLEARS" thiết lập theo trục thời hiện tại đi sau [ADverb][TRẠNG] "WHY".</li>
       
           <li className="list-none">Khối ngoài: {'{WHY the DAtabase CLEARS SESsions}'} - [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] chịu sự điều phối trực tiếp từ hạt nhân hành động "MONitoring" ở tầng ngoài, làm rõ nội dung cho việc giám sát.</li>
       
@@ -842,7 +842,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>we imPROVED the perFORmance [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện hiệu suất [vì hệ thống đã dọn sạch tất cả dữ liệu rác].</li>
       
-          <li className="list-none">Khối trong mới: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [suBORdinate CLAUSE][PHỤ VẾ] hiển thị dưới dạng khối mã chứa đầy đủ [SUBject HEAD][CHỦ LÕI] "the system" và hạt nhân [PRETerite FORM][KHỨ HÌNH] "CLEARED" đi sau [conJUNCtion][LIÊN] "be<strong>cause</strong>".</li>
+          <li className="list-none">Khối trong mới: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [suBORdinate CLAUSE][PHỤ VẾ] hiển thị dưới dạng khối mã chứa đầy đủ [SUBject HEAD][CHỦ LÕI] "the system" và hạt nhân [PRETerite FORM][KHỨ HÌNH] "CLEARED" đi sau [PrepoSITion][GIỚI] "be<strong>cause</strong>".</li>
       
           <li className="list-none">Khối ngoài mới: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [ADjunct][PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính.</li>
       

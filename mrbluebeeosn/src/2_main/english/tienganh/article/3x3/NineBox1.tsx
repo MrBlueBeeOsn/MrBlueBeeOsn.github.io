@@ -501,7 +501,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the NETwork ARchitect susPECTS [the FIREwall BLOCKS the PACKet].</li>
 					<li className="margin-bottom-20 list-none">Kiến trúc sư mạng nghi ngờ [tường lửa chặn gói tin].</li>
 			
-					<li className="list-none">Khối trong: [the FIREwall BLOCKS the PACKet] – [CONtact CLAUSE][CHẠM VẾ] vắng bóng thành phần kết nối dẫn đường nhưng có đầy đủ kết cấu câu con xoay quanh [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "BLOCKS".</li>
+					<li className="list-none">Khối trong: [the FIREwall BLOCKS the PACKet] – [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] vắng bóng thành phần kết nối dẫn đường nhưng có đầy đủ kết cấu câu con xoay quanh [3rd SINGular PRESent FORM][BA LẺ HIỆN HÌNH] "BLOCKS".</li>
 			
 					<li className="list-none">Khối ngoài: [the FIREwall BLOCKS the PACKet] – [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] dữ liệu trực tiếp đứng sau sự điều phối của hành động nghi ngờ.</li>
 			
@@ -515,7 +515,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[the API {'{the VENdor proVIDed YESterday}'}] THROWS exCEPtions.</li>
 					<li className="margin-bottom-20 list-none">[Giao diện lập trình ứng dụng {'{nhà cung cấp cung cấp ngày hôm qua}'}] ném ra các ngoại lệ.</li>
 			
-					<li className="list-none">Khối trong: {'{the VENdor proVIDed YESterday}'} – [CONtact CLAUSE][CHẠM VẾ] vắng bóng thành phần kết nối nhưng có đầy đủ kết cấu câu con lồng ghép xoay quanh [PRETerite FORM][KHỨ HÌNH] "proVIDed". Đóng vai trò định danh thuộc tính để chỉ rõ loại API nào, bổ nghĩa trực tiếp cho khối [SUBject HEAD][CHỦ LÕI] "the API" phía trước.</li>
+					<li className="list-none">Khối trong: {'{the VENdor proVIDed YESterday}'} – [ZEro RELative CLAUSE][KHUYẾT QUAN VẾ] vắng bóng thành phần kết nối nhưng có đầy đủ kết cấu câu con lồng ghép xoay quanh [PRETerite FORM][KHỨ HÌNH] "proVIDed". Đóng vai trò định danh thuộc tính để chỉ rõ loại API nào, bổ nghĩa trực tiếp cho khối [SUBject HEAD][CHỦ LÕI] "the API" phía trước.</li>
 			
 					<li className="list-none">Khối ngoài: [the API {'{the VENdor proVIDed YESterday}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
@@ -529,7 +529,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[should the compiLAtion comPLETE], the operAtions TEAM will TRIGger the dePLOYment.</li>
 					<li className="margin-bottom-20 list-none">[Nếu việc biên dịch hoàn thành], đội ngũ vận hành sẽ kích hoạt triển khai.</li>
 			
-					<li className="list-none">Khối trong: [should the compiLAtion comPLETE] - [ZEro suBORdinate CLAUSE][KHUYẾT PHỤ VẾ] vận hành ở trạng thái ẩn thành phần [PrepoSITion][GIỚI] điều kiện "if" bằng cách đảo khối [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "Should" lên trước khối [SUBject HEAD][CHỦ LÕI] "the compiLAtion", kéo theo [PLAIN FORM][GIẢN HÌNH] "comPLETE".</li>
+					<li className="list-none">Khối trong: [should the compiLAtion comPLETE] - [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] vận hành ở trạng thái ẩn thành phần [PrepoSITion][GIỚI] điều kiện "if" bằng cách đảo khối [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "Should" lên trước khối [SUBject HEAD][CHỦ LÕI] "the compiLAtion", kéo theo [PLAIN FORM][GIẢN HÌNH] "comPLETE".</li>
 			
 					<li className="list-none">Khối ngoài: [should the compiLAtion comPLETE] – [ADjunct][PHỤ] bổ nghĩa bối cảnh điều kiện giả định cho hệ thống hành động phía sau.</li>
 			
@@ -640,7 +640,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [for {'{WHAT the TEAM dePLOYED YESterday}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG VẾ] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{WHAT the TEAM dePLOYED YESterday}'} - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] ở tầng trong bắt đầu bằng [conJUNCtion][LIÊN] "WHAT".</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{WHAT the TEAM dePLOYED YESterday}'} - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] ở tầng trong bắt đầu bằng [PROnoun][ĐẠI] "what".</li>
 			
 					<li className="list-none">Khối ngoài:</li>
 
@@ -663,7 +663,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [at {'{where the SYStem STORES fiNANcial LOGS}'}] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG VẾ] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "at".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{where the SYStem STORES fiNANcial LOGS}'} - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] ở tầng trong bắt đầu bằng [conJUNCtion][LIÊN] "where".</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{where the SYStem STORES fiNANcial LOGS}'} - [interROGative CONtent CLAUSE][VẤN NỘI VẾ] ở tầng trong bắt đầu bằng [PrepoSITion][GIỚI] "where".</li>
 			
 					<li className="list-none">Khối ngoài:</li>
 

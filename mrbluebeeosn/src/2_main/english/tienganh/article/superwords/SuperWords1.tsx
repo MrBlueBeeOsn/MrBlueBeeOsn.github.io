@@ -496,7 +496,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[whaTEVer you deCIDE] will SHAPE our FUture.</li>
 					<li className="margin-bottom-20 list-none">[Bất cứ điều gì bạn quyết định] sẽ định hình tương lai của chúng ta.</li>
 			
-					<li className="list-none">Khối trong: [whaTEVer you deCIDE] – [interROGative CONtent CLAUSE][VẤN NỘI VẾ] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [conJUNCtion][LIÊN] "WhatEVer".</li>
+					<li className="list-none">Khối trong: [whaTEVer you deCIDE] – [interROGative CONtent CLAUSE][VẤN NỘI VẾ] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [PROnoun][ĐẠI] "whatEVer".</li>
 			
 					<li className="list-none">Khối ngoài: [whaTEVer you deCIDE] – [FInite CLAUsal SUBject][ĐỊNH VẾ CHỦ] đang đứng ở đầu câu lớn để giữ vai trò làm [SUBject][CHỦ] thực hiện [PREDicator HEAD][VỊ LÕI] "SHAPE".</li>
 			
@@ -510,7 +510,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>i disCOVered [that she SPOKE the TRUTH].</li>
 					<li className="margin-bottom-20 list-none">Tôi đã phát hiện ra [rằng cô ấy đã nói sự thật].</li>
 			
-					<li className="list-none">Khối trong: [that she SPOKE the TRUTH] – [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] biểu thị một cấu trúc câu con hoàn chỉnh có đầy đủ chủ vị và được dẫn dắt hiển lộ bởi [conJUNCtion][LIÊN] "that".</li>
+					<li className="list-none">Khối trong: [that she SPOKE the TRUTH] – [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ] biểu thị một cấu trúc câu con hoàn chỉnh có đầy đủ chủ vị và được dẫn dắt hiển lộ bởi [suBORdinator][HẠ] "that".</li>
 			
 					<li className="list-none">Khối ngoài: [that she SPOKE the TRUTH] – [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] đang đứng vị trí [OBject][TÂN] để tiếp nhận hành động từ [PREDicator HEAD][VỊ LÕI] "disCOVered" của [SUBject PROnoun][CHỦ ĐẠI] "i".</li>
 			
@@ -547,7 +547,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* .  */}
 
-			<h3 className="margin-y-50 text-center">Đột Phá Nâng Cao: Bản Chất Của [CONtact CLAUSE][CHẠM VẾ]</h3>
+			<h3 className="margin-y-50 text-center">Đột Phá Nâng Cao: Bản Chất Của [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ]</h3>
 
 			<p>Trong văn phong bản ngữ, người ta thường lược bỏ các cơ liên kết nhằm đẩy tốc độ truyền tải thông tin lên tối đa.</p>
 
@@ -561,7 +561,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>i beLIEVE [you TOOK the corRECT STEPS].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn đã đi đúng hướng].</li>
 			
-					<li className="list-none">Khối trong: [you TOOK the corRECT STEPS] – [CONtact CLAUSE][CHẠM VẾ] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
+					<li className="list-none">Khối trong: [you TOOK the corRECT STEPS] – [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
 			
 					<li className="list-none">Khối ngoài: [you TOOK the corRECT STEPS] – [FInite CLAUsal OBject][ĐỊNH VẾ TÂN] đang đứng vị trí [OBject][TÂN] để làm rõ sự việc chịu tác động trực tiếp từ [PREDicator HEAD][VỊ LÕI] "beLIEVE".</li>
 			
@@ -575,7 +575,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[the CAR {'{he DROVE YESterday}'}] beLONGED to his FAther.</li>
 					<li className="margin-bottom-20 list-none">[Chiếc xe {'{anh ấy lái hôm qua}'}] thuộc về ba anh ấy.</li>
 			
-					<li className="list-none">Khối trong: {'{he DROVE YESterday}'} – [CONtact CLAUSE][CHẠM VẾ] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu. Đang đứng vị trí bám sát ngay sau [SUBject HEAD][CHỦ LÕI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
+					<li className="list-none">Khối trong: {'{he DROVE YESterday}'} – [ZEro RELative CLAUSE][KHUYẾT QUAN VẾ] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu. Đang đứng vị trí bám sát ngay sau [SUBject HEAD][CHỦ LÕI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
 					<li className="list-none">Khối ngoài: [the CAR {'{he DROVE YESterday}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			
@@ -589,7 +589,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[should they reQUEST asSIStance], the supPORT LINE will OPEN.</li>
 					<li className="margin-bottom-20 list-none">[Nếu họ yêu cầu sự hỗ trợ], đường dây trợ giúp sẽ mở cửa.</li>
 			
-					<li className="list-none">Khối trong: [should they reQUEST asSIStance] – [CONtact CLAUSE][CHẠM VẾ] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng ý thái lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
+					<li className="list-none">Khối trong: [should they reQUEST asSIStance] – [ZEro CONtent CLAUSE][KHUYẾT NỘI VẾ] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng ý thái lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
 			
 					<li className="list-none">Khối ngoài: [should they reQUEST asSIStance] – [ADjunct][PHỤ] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
 			
