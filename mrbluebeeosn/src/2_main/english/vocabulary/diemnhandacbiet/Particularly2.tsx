@@ -30,43 +30,43 @@ export default function parTICularly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#INTERested-in">INTERested in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FOND-of">FOND of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GOOD-at-PLAYing-the">GOOD at PLAYing the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#CHALlenging">CHALlenging</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#RELevant-to">RELevant to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#BEAUtiful-toDAY">BEAUtiful toDAY</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#imPORTant-to-arRIVE-on-TIME-for-the">imPORTant to arRIVE on TIME for the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DIFficult-to-SOLVE">DIFficult to SOLVE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#efFECtive-for">efFECtive for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SUITable-for">SUITable for</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function parTICularly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">i am parTICularly INTERested in HISTORy.</li>
+        <li value="1" id="INTERested-in">i am parTICularly [INTERested in] HISTORy.</li>
         <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến lịch sử.</li>
 
-        <li value="2" id="">she is parTICularly CHOCOLate.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đặc biệt thích sô cô la.</li>
+        <li value="2" id="FOND-of">she is parTICularly [FOND of] CHOCOLate.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đặc biệt [mê] sô cô la.</li>
 
-        <li value="3" id="">he is parTICularly GOOD at PLAYing the piANo.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đặc biệt giỏi chơi piano.</li>
+        <li value="3" id="GOOD-at-PLAYing-the">he is parTICularly [GOOD at PLAYing the] piANo.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đặc biệt [giỏi chơi] piano.</li>
 
-        <li value="4" id="">this TASK is parTICularly CHALlenging.</li>
-        <li className="list-none margin-bottom-20">Nhiệm vụ này đặc biệt khó khăn.</li>
+        <li value="4" id="CHALlenging">this TASK is parTICularly [CHALlenging].</li>
+        <li className="list-none margin-bottom-20">Nhiệm vụ này đặc biệt [khó khăn / thách thức].</li>
 
-        <li value="5" id="">this inforMAtion is parTICularly RELevant to our disCUSsion.</li>
-        <li className="list-none margin-bottom-20">Thông tin này đặc biệt liên quan đến cuộc thảo luận của chúng ta.</li>
+        <li value="5" id="RELevant-to">this inforMAtion is parTICularly [RELevant to] our disCUSsion.</li>
+        <li className="list-none margin-bottom-20">Thông tin này đặc biệt [liên quan đến] cuộc thảo luận của chúng ta.</li>
 
-        <li value="6" id="">the SUNset was parTICularly BEAUtiful toDAY.</li>
-        <li className="list-none margin-bottom-20">Hoàng hôn hôm nay đặc biệt đẹp.</li>
+        <li value="6" id="BEAUtiful-toDAY">the SUNset was parTICularly [BEAUtiful toDAY].</li>
+        <li className="list-none margin-bottom-20">Hoàng hôn [hôm nay] đặc biệt [đẹp].</li>
 
-        <li value="7" id="">it is parTICularly imPORTant to arRIVE on TIME for the MEETing.</li>
-        <li className="list-none margin-bottom-20">Việc đến đúng giờ cho cuộc họp là đặc biệt quan trọng.</li>
+        <li value="7" id="imPORTant-to-arRIVE-on-TIME-for-the">it is parTICularly [imPORTant to arRIVE on TIME for the] MEETing.</li>
+        <li className="list-none margin-bottom-20">Đặc biệt [quan trọng là phải đến đúng giờ cho] cuộc họp.</li>
 
-        <li value="8" id="">this PROBlem is parTICularly DIFficult to SOLVE.</li>
-        <li className="list-none margin-bottom-20">Vấn đề này đặc biệt khó giải quyết.</li>
+        <li value="8" id="DIFficult-to-SOLVE">this PROBlem is parTICularly [DIFficult to SOLVE].</li>
+        <li className="list-none margin-bottom-20">Vấn đề này đặc biệt [khó giải quyết].</li>
 
-        <li value="9" id="">this MEDicine is parTICularly efFECtive for TREATing HEADaches.</li>
-        <li className="list-none margin-bottom-20">Thuốc này đặc biệt hiệu quả trong việc điều trị đau đầu.</li>
+        <li value="9" id="efFECtive-for">this MEDicine is parTICularly [efFECtive for] TREATing HEADaches.</li>
+        <li className="list-none margin-bottom-20">Thuốc này đặc biệt [hiệu quả trong] việc điều trị đau đầu.</li>
 
-        <li value="10" id="">this BOOK is parTICularly SUITable for beGINners.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt phù hợp cho người mới bắt đầu.</li>
+        <li value="10" id="SUITable-for">this BOOK is parTICularly [SUITable for] beGINners.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt [phù hợp cho] người mới bắt đầu.</li>
 
       </ol>
 

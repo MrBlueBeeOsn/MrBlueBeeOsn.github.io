@@ -30,43 +30,43 @@ export default function esPECially2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#INTERested-in-LEARNing-about">INTERested in LEARNing a<strong>bout</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GOOD-at-PLAYing-the">GOOD at PLAYing the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#imPORTant-for-GROWing">imPORTant for GROWing</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DIFficult">DIFficult</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TRUE-of">TRUE of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#when">when</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LIKE">LIKE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#since">since</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#for">for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#conSIDering-the">conSIDering the</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function esPECially2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">i am esPECially INTERested in LEARNing a<strong>bout</strong> DIFferent CULtures.</li>
-        <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến việc tìm hiểu về các nền văn hóa khác nhau.</li>
+        <li value="1" id="INTERested-in-LEARNing-about">i am esPECially [INTERested in LEARNing a<strong>bout</strong>] DIFferent CULtures.</li>
+        <li className="list-none margin-bottom-20">Tôi đặc biệt [quan tâm đến việc tìm hiểu về] các nền văn hóa khác nhau.</li>
 
-        <li value="2" id="">she is esPECially GOOD at PLAYing the piANo.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đặc biệt giỏi chơi piano.</li>
+        <li value="2" id="GOOD-at-PLAYing-the">she is esPECially [GOOD at PLAYing the] piANo.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đặc biệt [giỏi chơi] piano.</li>
 
-        <li value="3" id="">the SLEEP is esPECially imPORTant for GROWing CHILDren.</li>
-        <li className="list-none margin-bottom-20">Giấc ngủ đặc biệt quan trọng đối với trẻ em đang lớn.</li>
+        <li value="3" id="imPORTant-for-GROWing">the SLEEP is esPECially [imPORTant for GROWing] CHILDren.</li>
+        <li className="list-none margin-bottom-20">Giấc ngủ đặc biệt [quan trọng đối với] trẻ [đang lớn].</li>
 
-        <li value="4" id="">the FInal eXAM was esPECially DIFficult.</li>
-        <li className="list-none margin-bottom-20">Bài thi cuối kỳ đặc biệt khó.</li>
+        <li value="4" id="DIFficult">the FInal eXAM was esPECially [DIFficult].</li>
+        <li className="list-none margin-bottom-20">Bài thi cuối kỳ đặc biệt [khó].</li>
 
-        <li value="5" id="">THIS is esPECially TRUE of PEOple who LIVE in BIG CITies.</li>
-        <li className="list-none margin-bottom-20">Điều này đặc biệt đúng với những người sống ở các thành phố lớn.</li>
+        <li value="5" id="TRUE-of">THIS is esPECially [TRUE of] PEOple who LIVE in BIG CITies.</li>
+        <li className="list-none margin-bottom-20">Điều này đặc biệt [đúng với] những người sống ở các thành phố lớn.</li>
 
-        <li value="6" id="">i enJOY WALKing in the PARK, esPECially when the WEATHer is NICE.</li>
-        <li className="list-none margin-bottom-20">Tôi thích đi dạo trong công viên, đặc biệt là khi trời đẹp.</li>
+        <li value="6" id="when">i enJOY WALKing in the PARK, esPECially [when] the WEATHer is NICE.</li>
+        <li className="list-none margin-bottom-20">Tôi thích đi dạo trong công viên, đặc biệt là [khi] trời đẹp.</li>
 
-        <li value="7" id="">i esPECially LIKE CHOCOLate ICE CREAM.</li>
-        <li className="list-none margin-bottom-20">Tôi đặc biệt thích kem sô cô la.</li>
+        <li value="7" id="LIKE">i esPECially [LIKE] CHOCOLate ICE CREAM.</li>
+        <li className="list-none margin-bottom-20">Tôi đặc biệt [thích] kem sô cô la.</li>
 
-        <li value="8" id="">i've been FEELing TIred LATEly, esPECially since i've been WORKing so HARD.</li>
-        <li className="list-none margin-bottom-20">Gần đây tôi cảm thấy mệt mỏi, đặc biệt là từ khi tôi làm việc quá nhiều.</li>
+        <li value="8" id="since">i've been FEELing TIred LATEly, esPECially [since] i've been WORKing so HARD.</li>
+        <li className="list-none margin-bottom-20">Gần đây tôi cảm thấy mệt mỏi, đặc biệt là [từ khi] tôi làm việc quá nhiều.</li>
 
-        <li value="9" id="">this BOOK is esPECially for beGINners.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt dành cho người mới bắt đầu.</li>
+        <li value="9" id="for">this BOOK is esPECially [for] beGINners.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt dành [cho] người mới bắt đầu.</li>
 
-        <li value="10" id="">it's a GOOD DEAL, esPECially conSIDering the QUALity.</li>
-        <li className="list-none margin-bottom-20">Đó là một giao dịch tốt, đặc biệt khi xét đến chất lượng.</li>
+        <li value="10" id="conSIDering-the">it's a GOOD DEAL, esPECially [conSIDering the] QUALity.</li>
+        <li className="list-none margin-bottom-20">Đó là một giao dịch tốt, đặc biệt [khi xét đến] chất lượng.</li>
 
       </ol>
 
