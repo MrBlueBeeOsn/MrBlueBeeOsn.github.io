@@ -30,43 +30,43 @@ export default function HIGHly2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#recomMENDed-for">recomMENDed for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SKILLED">SKILLED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MOtivated-to-DO-on">MOtivated to DO ... on</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#efFECtive-in">efFECtive in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#comPETitive">comPETitive</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#unLIKEly-that">unLIKEly that</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#conTAgious">conTAgious</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#PRAISED-by-the">PRAISED by the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#VISible-from">VISible from</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#soPHISticated">soPHISticated</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function HIGHly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">this BOOK is HIGHly recomMENDed for <strong>an</strong>yone INTERested in HISTORy.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này rất được khuyến nghị cho bất kỳ ai quan tâm đến lịch sử.</li>
+        <li value="1" id="recomMENDed-for">this BOOK is HIGHly [recomMENDed for] <strong>an</strong>yone INTERested in HISTORy.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này rất [được khuyến nghị] cho bất kỳ ai quan tâm đến lịch sử.</li>
 
-        <li value="2" id="">the STUdents were HIGHly SKILLED SURgeon.</li>
-        <li className="list-none margin-bottom-20">Cô ấy là một bác sĩ phẫu thuật rất giỏi.</li>
+        <li value="2" id="SKILLED">the STUdents were HIGHly [SKILLED] SURgeon.</li>
+        <li className="list-none margin-bottom-20">Cô ấy là một bác sĩ phẫu thuật rất [giỏi].</li>
 
-        <li value="3" id="">the STUdents were HIGHly MOtivated to DO WELL on the eXAM.</li>
-        <li className="list-none margin-bottom-20">Các học sinh rất có động lực để làm tốt bài kiểm tra.</li>
+        <li value="3" id="MOtivated-to-DO-on">the STUdents were HIGHly [MOtivated to DO] WELL [on] the eXAM.</li>
+        <li className="list-none margin-bottom-20">Các học sinh rất [có động lực để làm] tốt bài kiểm tra.</li>
 
-        <li value="4" id="">his NEW MEDicine is HIGHly efFECtive in TREATing the diSEASE.</li>
-        <li className="list-none margin-bottom-20">Thuốc mới này rất hiệu quả trong việc điều trị bệnh.</li>
+        <li value="4" id="efFECtive-in">his NEW MEDicine is HIGHly [efFECtive in] TREATing the diSEASE.</li>
+        <li className="list-none margin-bottom-20">Thuốc mới này rất [hiệu quả trong] việc điều trị bệnh.</li>
 
-        <li value="5" id="">the JOB MARket is HIGHly comPETitive.</li>
-        <li className="list-none margin-bottom-20">Thị trường việc làm rất cạnh tranh.</li>
+        <li value="5" id="comPETitive">the JOB MARket is HIGHly [comPETitive].</li>
+        <li className="list-none margin-bottom-20">Thị trường việc làm rất [cạnh tranh].</li>
 
-        <li value="6" id="">it is HIGHly unLIKEly that he will WIN the LOTtery.</li>
-        <li className="list-none margin-bottom-20">Rất khó có thể anh ấy sẽ trúng số.</li>
+        <li value="6" id="unLIKEly-that">it is HIGHly [unLIKEly that] he will WIN the LOTtery.</li>
+        <li className="list-none margin-bottom-20">Rất [khó có thể] anh ấy sẽ trúng số.</li>
 
-        <li value="7" id="">the FLU is HIGHly conTAgious.</li>
-        <li className="list-none margin-bottom-20">Cúm rất dễ lây.</li>
+        <li value="7" id="conTAgious">the FLU is HIGHly [conTAgious].</li>
+        <li className="list-none margin-bottom-20">Cúm rất dễ [lây].</li>
 
-        <li value="8" id="">the MOvies was HIGHly PRAISED by the CRITics.</li>
-        <li className="list-none margin-bottom-20">Bộ phim đã được các nhà phê bình ca ngợi rất nhiều.</li>
+        <li value="8" id="PRAISED-by-the">the MOvies was HIGHly [PRAISED by the] CRITics.</li>
+        <li className="list-none margin-bottom-20">Bộ phim đã [được] các nhà phê bình [ca ngợi] rất nhiều.</li>
 
-        <li value="9" id="">the SIGN is HIGHly VISible from the HIGHway.</li>
-        <li className="list-none margin-bottom-20">Biển báo rất dễ thấy từ xa lộ.</li>
+        <li value="9" id="VISible-from">the SIGN is HIGHly [VISible from] the HIGHway.</li>
+        <li className="list-none margin-bottom-20">Biển báo rất [dễ thấy từ] xa lộ.</li>
 
-        <li value="10" id="">the techNOLogy USED in this PRODuct is HIGHly soPHISticated.</li>
-        <li className="list-none margin-bottom-20">Công nghệ được sử dụng trong sản phẩm này rất tinh vi.</li>
+        <li value="10" id="soPHISticated">the techNOLogy USED in this PRODuct is HIGHly [soPHISticated].</li>
+        <li className="list-none margin-bottom-20">Công nghệ được sử dụng trong sản phẩm này rất [tinh vi].</li>
 
       </ol>
 
