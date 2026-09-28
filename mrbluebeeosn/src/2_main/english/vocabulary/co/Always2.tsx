@@ -30,43 +30,43 @@ export default function ALways2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#KIND-to">KIND to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DOES-before">DOES ... be<strong>fore</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#GO-to-on">GO to ... on</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#EATS-in-the">EATS ... in the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#READS-before-GOing-to">READS ... be<strong>fore</strong> GOing to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FEEL-HAPpy-when">FEEL HAPpy when</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#reMEMber">reMEMber</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#THERE-for">THERE for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#on-TIME-for">on TIME for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#the-SAME">the SAME</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function ALways2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she ALways KIND to <strong>ever</strong>yone.</li>
-        <li className="list-none margin-bottom-20">Cô ấy luôn luôn tử tế với mọi người.</li>
+        <li value="1" id="KIND-to">she ALways [KIND to] <strong>ever</strong>yone.</li>
+        <li className="list-none margin-bottom-20">Cô ấy luôn luôn [tử tế với] mọi người.</li>
 
-        <li value="2" id="">he ALways DOES his HOMEwork be<strong>fore</strong> DINner.</li>
-        <li className="list-none margin-bottom-20">Anh ấy luôn làm bài tập về nhà trước khi ăn tối.</li>
+        <li value="2" id="DOES-before">he ALways [DOES] his HOMEwork [be<strong>fore</strong>] DINner.</li>
+        <li className="list-none margin-bottom-20">Anh ấy luôn [làm] bài tập về nhà [trước khi] ăn tối.</li>
 
-        <li value="3" id="">we ALways GO to the PARK on SUNdays.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi luôn đi công viên vào Chủ nhật.</li>
+        <li value="3" id="GO-to-on">we ALways [GO to] the PARK [on] SUNdays.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi luôn [đi] công viên [vào] Chủ nhật.</li>
 
-        <li value="4" id="">she ALways EATS BREAKfast in the MORNing.</li>
-        <li className="list-none margin-bottom-20">Cô ấy luôn ăn sáng vào buổi sáng.</li>
+        <li value="4" id="EATS-in-the">she ALways [EATS] BREAKfast [in the] MORNing.</li>
+        <li className="list-none margin-bottom-20">Cô ấy luôn [ăn] sáng [vào] buổi sáng.</li>
 
-        <li value="5" id="">he ALways READS a BOOK be<strong>fore</strong> GOing to BED.</li>
-        <li className="list-none margin-bottom-20">Anh ấy luôn đọc sách trước khi đi ngủ.</li>
+        <li value="5" id="READS-before-GOing-to">he ALways [READS] a BOOK [be<strong>fore</strong> GOing to] BED.</li>
+        <li className="list-none margin-bottom-20">Anh ấy luôn [đọc] sách [trước khi] đi ngủ.</li>
 
-        <li value="6" id="">i ALways FEEL HAPpy when i SEE her.</li>
-        <li className="list-none margin-bottom-20">Tôi luôn cảm thấy vui khi nhìn thấy cô ấy.</li>
+        <li value="6" id="FEEL-HAPpy-when">i ALways [FEEL HAPpy when] i SEE her.</li>
+        <li className="list-none margin-bottom-20">Tôi luôn [cảm thấy vui khi] nhìn thấy cô ấy.</li>
 
-        <li value="7" id="">i will ALways reMEMber your BIRthday.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ luôn nhớ ngày sinh nhật của bạn.</li>
+        <li value="7" id="reMEMber">i will ALways [reMEMber] your BIRthday.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ luôn [nhớ] ngày sinh nhật của bạn.</li>
 
-        <li value="8" id="">my FRIENDS are ALways THERE for me.</li>
-        <li className="list-none margin-bottom-20">Bạn bè tôi luôn ở bên cạnh tôi.</li>
+        <li value="8" id="THERE-for">my FRIENDS are ALways [THERE for] me.</li>
+        <li className="list-none margin-bottom-20">Bạn bè tôi luôn [ở bên cạnh] tôi.</li>
 
-        <li value="9" id="">she is ALways on TIME for her apPOINTments.</li>
-        <li className="list-none margin-bottom-20">Cô ấy luôn đúng giờ cho các cuộc hẹn của mình.</li>
+        <li value="9" id="on-TIME-for">she is ALways [on TIME for] her apPOINTments.</li>
+        <li className="list-none margin-bottom-20">Cô ấy luôn [đúng giờ cho] các cuộc hẹn của mình.</li>
 
-        <li value="10" id="">his ATtitude is ALways the SAME.</li>
-        <li className="list-none margin-bottom-20">Thái độ của anh ấy luôn như vậy.</li>
+        <li value="10" id="the-SAME">his ATtitude is ALways [the SAME].</li>
+        <li className="list-none margin-bottom-20">Thái độ của anh ấy luôn [như vậy].</li>
 
       </ol>
 
