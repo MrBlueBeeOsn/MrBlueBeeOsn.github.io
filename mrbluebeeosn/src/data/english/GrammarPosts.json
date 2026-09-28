@@ -179,6 +179,15 @@
       "content": "The Morphological Framework of CGEL 2002: Understanding \"Forms\" and Syncretism in the Paradigm of Read",
       "slug": "grammar/the-lexical-verb-READ",
       "date": "2026-09-27"
+    },
+    { 
+      "id": "Cambridge2002Framework",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "The Cambridge 2002 Framework",
+      "content": "Re-Engineering English: Why the Cambridge 2002 Framework Changes Everything",
+      "slug": "grammar/cambridge-2002-framework",
+      "date": "2026-09-28"
     }
   ]
 }

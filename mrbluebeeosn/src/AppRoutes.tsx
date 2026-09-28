@@ -121,14 +121,15 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const VerbAndObject = lazy(() => import('@/2_main/english/grammar/VerbAndObject'));
 	const TheLIFOMethod = lazy(() => import('@/2_main/english/grammar/TheLIFOMethod'));
 	const The6ElementFormula = lazy(() => import('@/2_main/english/grammar/The6ElementFormula'));
-	const RethinkingThePrepositionPhrase = lazy(() => import('@/2_main/english/grammar/RethinkingThePrepositionPhrase'));
-	const ShiftingToModernGrammar = lazy(() => import('@/2_main/english/grammar/ShiftingToModernGrammar'));
+	const RethinkingThePrepositionPhrase = lazy(() => import('@/2_main/english/grammar/ModernGrammar/RethinkingThePrepositionPhrase'));
+	const ShiftingToModernGrammar = lazy(() => import('@/2_main/english/grammar/ModernGrammar/ShiftingToModernGrammar'));
 	const QuestionsToContentClauses = lazy(() => import('@/2_main/english/grammar/QuestionsToContentClauses'));
-	const ThePhrasevsClauseDebate = lazy(() => import('@/2_main/english/grammar/ThePhrasevsClauseDebate'));
-	const PredicatorAndAdjunct = lazy(() => import('@/2_main/english/grammar/PredicatorAndAdjunct'));
-	const VerbAndPredicator = lazy(() => import('@/2_main/english/grammar/VerbAndPredicator'));
-	const TheFormsOFfTheVerb = lazy(() => import('@/2_main/english/grammar/TheFormsOFfTheVerb'));
-	const TheLexicalVerbREAD = lazy(() => import('@/2_main/english/grammar/TheLexicalVerbREAD'));
+	const ThePhrasevsClauseDebate = lazy(() => import('@/2_main/english/grammar/ModernGrammar/ThePhrasevsClauseDebate'));
+	const PredicatorAndAdjunct = lazy(() => import('@/2_main/english/grammar/ModernGrammar/PredicatorAndAdjunct'));
+	const VerbAndPredicator = lazy(() => import('@/2_main/english/grammar/ModernGrammar/VerbAndPredicator'));
+	const TheFormsOFfTheVerb = lazy(() => import('@/2_main/english/grammar/ModernGrammar/TheFormsOFfTheVerb'));
+	const TheLexicalVerbREAD = lazy(() => import('@/2_main/english/grammar/ModernGrammar/TheLexicalVerbREAD'));
+	const Cambridge2002Framework = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Cambridge2002Framework'));
 
 
 	// Quiz
@@ -770,6 +771,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/verb-and-predicator" element={<VerbAndPredicator />} />
 					<Route path="/grammar/the-forms-of-the-verb" element={<TheFormsOFfTheVerb />} />
 					<Route path="/grammar/the-lexical-verb-READ" element={<TheLexicalVerbREAD />} />
+					<Route path="/grammar/the-lexical-verb-READ" element={<Cambridge2002Framework />} />
 
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />
