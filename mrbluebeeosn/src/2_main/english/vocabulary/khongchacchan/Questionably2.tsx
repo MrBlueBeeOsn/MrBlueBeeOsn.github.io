@@ -30,43 +30,43 @@ export default function QUESTionably2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#ETHical">ETHical</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LEGAL">LEGAL</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SAFE">SAFE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TRUE">TRUE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MOtivated">MOtivated</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#obTAINED-and-could-be-inadMISsible-in">obTAINED and could be inadMISsible in</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#QUALified-for-the">QUALified for the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#RELevant-to">RELevant to</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#FAIR">FAIR</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HONest">HONest</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function QUESTionably2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the COMpany's PRACtices were QUESTionably ETHical, RAIsing conCERNS among conSUmers.</li>
-        <li className="list-none margin-bottom-20">Những thực hành của công ty đó có đạo đức đáng ngờ, gây lo ngại cho người tiêu dùng.</li>
+        <li value="1" id="ETHical">the COMpany's PRACtices were QUESTionably [ETHical], RAIsing conCERNS among conSUmers.</li>
+        <li className="list-none margin-bottom-20">Những thực hành của công ty đó [có đạo đức] đáng ngờ, gây lo ngại cho người tiêu dùng.</li>
 
-        <li value="2" id="">the DEAL was QUESTionably LEGAL, and could have SERious CONsequences.</li>
-        <li className="list-none margin-bottom-20">Thỏa thuận đó có tính pháp lý đáng ngờ và có thể gây ra hậu quả nghiêm trọng.</li>
+        <li value="2" id="LEGAL">the DEAL was QUESTionably [LEGAL], and could have SERious CONsequences.</li>
+        <li className="list-none margin-bottom-20">Thỏa thuận đó [có tính pháp lý] đáng ngờ và có thể gây ra hậu quả nghiêm trọng.</li>
 
-        <li value="3" id="">the OLD BUILDing was QUESTionably SAFE, and NEEDed to be RENovated.</li>
-        <li className="list-none margin-bottom-20">Tòa nhà cũ có độ an toàn đáng ngờ và cần được cải tạo.</li>
+        <li value="3" id="SAFE">the OLD BUILDing was QUESTionably [SAFE], and NEEDed to be RENovated.</li>
+        <li className="list-none margin-bottom-20">Tòa nhà cũ [có độ an toàn] đáng ngờ và cần được cải tạo.</li>
 
-        <li value="4" id="">his STORy SEEMED QUESTionably TRUE, and i had my DOUBTS.</li>
-        <li className="list-none margin-bottom-20">Câu chuyện của anh ta có vẻ đáng ngờ về sự thật, và tôi nghi ngờ.</li>
+        <li value="4" id="TRUE">his STORy SEEMED QUESTionably [TRUE], and i had my DOUBTS.</li>
+        <li className="list-none margin-bottom-20">Câu chuyện của anh ta có vẻ đáng ngờ về [sự thật], và tôi nghi ngờ.</li>
 
-        <li value="5" id="">her SUDden CHANGE of HEART was QUESTionably MOtivated, and i WONdered WHAT she was REally UP to.</li>
-        <li className="list-none margin-bottom-20">Sự thay đổi đột ngột của cô ấy có hành động đáng ngờ, và tôi tự hỏi cô ấy đang lên kế hoạch gì.</li>
+        <li value="5" id="MOtivated">her SUDden CHANGE of HEART was QUESTionably [MOtivated], and i WONdered WHAT she was REally UP to.</li>
+        <li className="list-none margin-bottom-20">Sự thay đổi đột ngột của cô ấy [có hành động] đáng ngờ, và tôi tự hỏi cô ấy đang lên kế hoạch gì.</li>
 
-        <li value="6" id="">the EVidence was QUESTionably obTAINED and could be inadMISsible in COURT.</li>
-        <li className="list-none margin-bottom-20">Bằng chứng được lấy một cách đáng ngờ và có thể không được chấp nhận tại tòa.</li>
+        <li value="6" id="obTAINED-and-could-be-inadMISsible-in">the EVidence was QUESTionably [obTAINED and could be inadMISsible in] COURT.</li>
+        <li className="list-none margin-bottom-20">Bằng chứng đã [được lấy] một cách đáng ngờ [và có thể không được chấp nhận] tại tòa.</li>
 
-        <li value="7" id="">he was QUESTionably QUALified for the JOB, and <strong>man</strong>y PEOple DOUBTed his aBILities.</li>
-        <li className="list-none margin-bottom-20">Anh ta có năng lực đáng ngờ cho công việc đó, và nhiều người nghi ngờ về khả năng của anh ta.</li>
+        <li value="7" id="QUALified-for-the">he was QUESTionably [QUALified for the] JOB, and <strong>man</strong>y PEOple DOUBTed his aBILities.</li>
+        <li className="list-none margin-bottom-20">Anh ta [có năng lực] đáng ngờ [cho] công việc đó, và nhiều người nghi ngờ về khả năng của anh ta.</li>
 
-        <li value="8" id="">the inforMAtion preSENTed was QUESTionably RELevant to the CASE.</li>
-        <li className="list-none margin-bottom-20">Thông tin được trình bày có liên quan một cách đáng ngờ đến vụ án.</li>
+        <li value="8" id="RELevant-to">the inforMAtion preSENTed was QUESTionably [RELevant to] the CASE.</li>
+        <li className="list-none margin-bottom-20">Thông tin được trình bày [có liên quan] một cách đáng ngờ đến vụ án.</li>
 
-        <li value="9" id="">the deCISion was QUESTionably FAIR, and <strong>man</strong>y PEOple FELT they were TREATed unFAIRly.</li>
-        <li className="list-none margin-bottom-20">Quyết định đó có tính công bằng đáng ngờ, và nhiều người cảm thấy họ bị đối xử bất công.</li>
+        <li value="9" id="FAIR">the deCISion was QUESTionably [FAIR], and <strong>man</strong>y PEOple FELT they were TREATed unFAIRly.</li>
+        <li className="list-none margin-bottom-20">Quyết định đó có tính [công bằng] đáng ngờ, và nhiều người cảm thấy họ bị đối xử bất công.</li>
 
-        <li value="10" id="">his explaNAtion SEEMED QUESTionably HONest, and i DIDN'T beLIEVE him.</li>
-        <li className="list-none margin-bottom-20">Lời giải thích của anh ta có vẻ thành thật một cách đáng ngờ, và tôi không tin anh ta.</li>
+        <li value="10" id="HONest">his explaNAtion SEEMED QUESTionably [HONest], and i DIDN'T beLIEVE him.</li>
+        <li className="list-none margin-bottom-20">Lời giải thích của anh ta có vẻ [thành thật] một cách đáng ngờ, và tôi không tin anh ta.</li>
 
       </ol>
 
