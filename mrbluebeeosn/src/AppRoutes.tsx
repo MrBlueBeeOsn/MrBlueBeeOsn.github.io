@@ -133,6 +133,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const FormsOFfTheVerb = lazy(() => import('@/2_main/english/grammar/ModernGrammar/FormsOFfTheVerb'));
 	const LexicalVerbREAD = lazy(() => import('@/2_main/english/grammar/ModernGrammar/LexicalVerbREAD'));
 	const Cambridge2002Framework = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Cambridge2002Framework'));
+	const Complements = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Complements'));
+	const Phrases = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Phrases'));
 
 
 	// Quiz
@@ -777,6 +779,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/forms-of-the-verb" element={<FormsOFfTheVerb />} />
 					<Route path="/grammar/lexical-verb-READ" element={<LexicalVerbREAD />} />
 					<Route path="/grammar/cambridge-2002-framework" element={<Cambridge2002Framework />} />
+					<Route path="/grammar/complements" element={<Complements />} />
+					<Route path="/grammar/phrases" element={<Phrases />} />
 
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />

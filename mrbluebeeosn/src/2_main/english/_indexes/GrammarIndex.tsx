@@ -105,6 +105,18 @@ export default function GrammarIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
+                <Link to="/grammar/complements">Complements</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/phrases">Phrases</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
                 <Link to="/grammar/cambridge-2002-framework">Cambridge 2002 Framework</Link>
               </div>
             </li>
