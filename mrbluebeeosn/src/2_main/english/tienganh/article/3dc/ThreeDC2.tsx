@@ -71,7 +71,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Hình thái: [running] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản một từ duy nhất ở dạng V-ing, không có chủ thể hay bổ túc kèm theo</li>
 			
 					<li>[<strong>eat an apple</strong>]</li>
-					<li className="margin-bottom-20 list-none">Hình thái: [eat an apple] - [BARE infiniTIval CLAUSE][THUẦN NGUYÊN VẾ] gồm [ĐỘNG] [eat] và một tân thể [an apple], nhưng không có chủ thể riêng bên trong</li>
+					<li className="margin-bottom-20 list-none">Hình thái: [eat an apple] - [BARE infiniTIval CLAUSE][MỆNH NGUYÊN THUẦN] gồm [ĐỘNG] [eat] và một tân thể [an apple], nhưng không có chủ thể riêng bên trong</li>
 			
 					<li>[<strong>that she sings well</strong>]</li>
 					<li className="list-none">Khối trong: [that she sings well] - [suBORdinate CLAUSE][PHỤ VẾ] có cặp chủ thể [she] và hành động [sings] bên trong, nhưng không thể đứng độc lập thành câu hoàn chỉnh</li>
@@ -114,7 +114,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She loves [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy thích [đọc tiểu thuyết trinh thám].</li>
 			
-					<li className="list-none">Khối trong: [to read mystery novels] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] gồm [to read] và tân thể [mystery novels]</li>
+					<li className="list-none">Khối trong: [to read mystery novels] - [to-infiniTIval CLAUSE][MỆNH NGUYÊN-TO] gồm [to read] và tân thể [mystery novels]</li>
 			
 					<li className="list-none">Khối ngoài: [to read mystery novels] - [NOUN PHRASE][DANH CỤM] là đối tượng trực tiếp của [ĐỘNG] [loves], cái mà hành động yêu thích hướng đến</li>
 			
@@ -181,7 +181,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>The boy [______] is my brother.</li>
 					<li className="margin-bottom-20 list-none">Cậu bé [đội mũ đỏ] là em trai tôi.</li>
 			
-					<li className="list-none">Khối trong: [wearing a red cap] - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] dạng V-ing kèm tân thể [a red cap]</li>
+					<li className="list-none">Khối trong: [wearing a red cap] - [GERund-PARTiciple CLAUSE][MỆNH TÍNH-DANH] dạng V-ing kèm tân thể [a red cap]</li>
 			
 					<li className="list-none">Khối ngoài: [wearing a red cap] - [ADjective PHRASE][TÍNH CỤM] bổ nghĩa cho [DANH] [The boy], xác định cậu bé nào</li>
 			
@@ -230,7 +230,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She woke up early [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy dậy sớm [để bắt chuyến xe buýt đầu tiên].</li>
 			
-					<li className="list-none">Khối trong: [to catch the first bus] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] dạng to-V kèm tân thể, chỉ mục đích</li>
+					<li className="list-none">Khối trong: [to catch the first bus] - [to-infiniTIval CLAUSE][MỆNH NGUYÊN-TO] dạng to-V kèm tân thể, chỉ mục đích</li>
 			
 					<li className="list-none">Khối ngoài: [to catch the first bus] - [ADjunct][PHỤ] bổ nghĩa cho [Động Cụm] [woke up early], giải thích mục đích của việc dậy sớm</li>
 			
@@ -281,7 +281,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______] is relaxing.</li>
 					<li className="margin-bottom-20 list-none">[Chạy trong công viên] thì thư giãn.</li>
 			
-					<li className="list-none">Khối trong: [To run in the park] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] to-V kèm bổ túc nơi chốn</li>
+					<li className="list-none">Khối trong: [To run in the park] - [to-infiniTIval CLAUSE][MỆNH NGUYÊN-TO] to-V kèm bổ túc nơi chốn</li>
 			
 					<li className="list-none">Khối ngoài: [To run in the park] - [NOUN PHRASE][DANH CỤM] vẫn là chủ thể của câu</li>
 			
@@ -315,7 +315,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>I like the bread [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi thích ổ bánh mì [do bà tôi làm].</li>
 			
-					<li className="list-none">Khối trong: [made by my grandmother] - [PAST PARTiciple CLAUSE][KHỨ TÍNH VẾ] dạng V-ed kèm tác thể</li>
+					<li className="list-none">Khối trong: [made by my grandmother] - [PAST PARTiciple CLAUSE][MỆNH TÍNH KHỨ] dạng V-ed kèm tác thể</li>
 			
 					<li className="list-none">Khối ngoài: [made by my grandmother] - [ADjective PHRASE][TÍNH CỤM] bổ nghĩa cho [DANH] [the bread]</li>
 			

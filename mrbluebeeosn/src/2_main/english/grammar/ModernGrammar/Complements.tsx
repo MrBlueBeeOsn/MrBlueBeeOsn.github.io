@@ -47,15 +47,15 @@ export default function Complements(): React.JSX.Element {
 
 			{/* II.  */}
 
-			<h3 className="margin-y-50 text-center">II. Morphological Identity: The Lexeme and the Plain Form</h3>
+			<h3 className="margin-y-50 text-center">II. Morphological Identity: The LEXeme and the Plain Form</h3>
 			
 			<p className="margin-top-20">When identifying an uninflected verb as it appears in a dictionary entry, CGEL (2002) avoids terms like "root verb" or "infinitive verb" at the morphological level. Instead, the framework introduces a strict division between abstract lexical items and their real-world shapes:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>The Verb Lexeme</strong>: This represents the abstract lexical entity, containing all semantic definitions and the entire paradigm of its variants. In CGEL, lexemes are conventionally represented in capital letters (e.g., the lexeme TAKE or BE).</li>
+					<li><strong>The Verb LEXeme</strong>: This represents the abstract lexical entity, containing all semantic definitions and the entire paradigm of its variants. In CGEL, LEXemes are conventionally represented in capital letters (e.g., the LEXeme TAKE or BE).</li>
 			
-					<li><strong>The Plain Form</strong>: This is the actual inflectional shape of the verb when it lacks any overt suffixes or modifications (no -s, -ed, or -ing). The dictionary entry headword take is the plain form representing the lexeme TAKE.</li>
+					<li><strong>The Plain Form</strong>: This is the actual inflectional shape of the verb when it lacks any overt suffixes or modifications (no -s, -ed, or -ing). The dictionary entry headword take is the plain form representing the LEXeme TAKE.</li>
 			
 				</ul>
 			

@@ -28,7 +28,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [SITting by the WINdow] - [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [SITting by the WINdow] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"the GIRL\"."
+			explanation: "Hình thái: [SITting by the WINdow] - [GERund-PARTiciple CLAUSE][MỆNH TÍNH-DANH] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [SITting by the WINdow] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"the GIRL\"."
 		},
 		{
 			id: 2,
@@ -38,7 +38,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to LEARN a NEW LANGuage] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LEARN a NEW LANGuage] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng ở đầu câu để làm [SUBject][CHỦ] chủ thể cốt lõi thực hiện hành vi cho \"reQUIres\"."
+			explanation: "Hình thái: [to LEARN a NEW LANGuage] - [to-infiniTIval CLAUSE][MỆNH NGUYÊN-TO] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LEARN a NEW LANGuage] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng ở đầu câu để làm [SUBject][CHỦ] chủ thể cốt lõi thực hiện hành vi cho \"reQUIres\"."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [to LET in some FRESH AIR] - [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LET in some FRESH AIR] - [ADjunct][PHỤ] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"Opens\"."
+			explanation: "Hình thái: [to LET in some FRESH AIR] - [to-infiniTIval CLAUSE][MỆNH NGUYÊN-TO] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LET in some FRESH AIR] - [ADjunct][PHỤ] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"Opens\"."
 		},
 		{
 			id: 4,
@@ -58,7 +58,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [that you LENT me YESterday] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (LENT). \n\n Chức năng: [that you LENT me YESterday] - [RELative CLAUSE][QUAN VẾ] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"the BOOK\"."
+			explanation: "Hình thái: [that you LENT me YESterday] - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (LENT). \n\n Chức năng: [that you LENT me YESterday] - [RELative CLAUSE][MỆNH QUAN] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"the BOOK\"."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[emBEDded NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [KNOW {WHAT we should DO NEXT}] - [Nhúng Thuần Động Cụm][Bare emBEDded Verb Phrase] chứa hành vi hạt nhân \"KNOW\" đi kèm thành phần bổ khuyết là một [interROGative CONtent CLAUSE][VẤN NỘI VẾ] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [KNOW {WHAT we should DO NEXT}] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"KNOW\" ở bên trong."
+			explanation: "Hình thái: [KNOW {WHAT we should DO NEXT}] - [Nhúng Thuần Động Cụm][Bare emBEDded Verb Phrase] chứa hành vi hạt nhân \"KNOW\" đi kèm thành phần bổ khuyết là một [Open InterROGative CONtent CLAUSE][MỆNH NỘI VẤN MỞ] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [KNOW {WHAT we should DO NEXT}] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"KNOW\" ở bên trong."
 		},
 		{
 			id: 6,
@@ -88,7 +88,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [BROken] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [BROken] - [ADjective HEAD][TÍNH LÕI] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"VASE\"."
+			explanation: "Hình thái: [BROken] - [PAST PARTiciple FORM][DẠNG TÍNH KHỨ] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [BROken] - [ADjective HEAD][TÍNH LÕI] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"VASE\"."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADjective]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [CRY] - [PLAIN FORM][GIẢN DẠNG] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [CRY] - [ADjective HEAD][TÍNH LÕI] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his YOUNGer BROTHer\" phía trước."
+			explanation: "Hình thái: [CRY] - [PLAIN FORM][DẠNG GIẢN] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [CRY] - [ADjective HEAD][TÍNH LÕI] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his YOUNGer BROTHer\" phía trước."
 		},
 		{
 			id: 9,
@@ -108,7 +108,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to WIN] - [to-infiniTIval][TO-NGUYÊN] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to WIN] - [ADjunct 1][PHỤ 1] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"PRACticed HARD\"."
+			explanation: "Hình thái: [to WIN] - [to-infiniTIval][NGUYÊN-TO] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to WIN] - [ADjunct 1][PHỤ 1] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"PRACticed HARD\"."
 		},
 		{
 			id: 10,
@@ -118,7 +118,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [SMOking] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] bắt đầu từ [ĐỘNG] nguyên bản tồn tại ở hình thái đuôi -ing đứng hoàn toàn độc lập, chưa phát triển các thành phần bổ khuyết đi kèm. \n\n Chức năng: [SMOking] - [NOUN PHRASE SUBject][DANH CỤM CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đóng vai trò chủ thể cốt lõi ở đầu câu để chịu sự tác động từ phần thông tin phía sau."
+			explanation: "Hình thái: [SMOking] - [GERund-PARTiciple FORM][DẠNG TÍNH-DANH] bắt đầu từ [ĐỘNG] nguyên bản tồn tại ở hình thái đuôi -ing đứng hoàn toàn độc lập, chưa phát triển các thành phần bổ khuyết đi kèm. \n\n Chức năng: [SMOking] - [NOUN PHRASE SUBject][DANH CỤM CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đóng vai trò chủ thể cốt lõi ở đầu câu để chịu sự tác động từ phần thông tin phía sau."
 		}
 	];
 

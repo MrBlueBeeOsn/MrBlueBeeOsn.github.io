@@ -31,11 +31,11 @@ export default function TheLexicalVerbREAD(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>A "<strong>Verb</strong>" is a Lexeme (An Abstract Lexical Unit.s):</li>
+          <li>A "<strong>Verb</strong>" is a LEXeme (An Abstract Lexical Unit.s):</li>
           <li className="margin-bottom-20 list-none">The verb READ is a single, abstract dictionary entry. Whether it manifests in speech or writing as read, reads, or reading, it remains the exact same underlying verb. Calling a specific slot in a paradigm a "Preterite verb" is a taxonomic error; it incorrectly implies that English possesses a unique part-of-speech category or a different vocabulary word for the past tense.</li>
       
           <li>A "<strong>Form</strong>" is an Inflectional Realization:</li>
-          <li className="list-none">A single lexeme must put on different morphological "clothes"—known as inflectional forms—to fulfill specific syntactic roles in a sentence. Therefore, Preterite <strong>form</strong> accurately means "the past tense inflectional variant of the lexeme READ."</li>
+          <li className="list-none">A single LEXeme must put on different morphological "clothes"—known as inflectional forms—to fulfill specific syntactic roles in a sentence. Therefore, Preterite <strong>form</strong> accurately means "the past tense inflectional variant of the LEXeme READ."</li>
       
         </ul>
       

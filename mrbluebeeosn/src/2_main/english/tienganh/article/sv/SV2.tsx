@@ -65,7 +65,7 @@ export default function SV2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[PREDicator HEAD][VỊ LÕI]</li>
+					<li>[PREDicator HEAD][LÕI VỊ]</li>
 					<li className="margin-bottom-20 list-none">Dạng gốc của hành động hoặc trạng thái, không kèm theo bất kỳ dấu hiệu nào về thời điểm.</li>
 			
 					<li>[CLAUSE][VẾ]</li>
@@ -149,7 +149,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Swimming] is my favorite activity.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] là hoạt động yêu thích của tôi.</li>
 			
-					<li className="list-none">Khối trong: [Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], biểu thị hành động được đóng gói thành một khái niệm.</li>
+					<li className="list-none">Khối trong: [Swimming] - [GERund-PARTiciple FORM][DẠNG TÍNH-DANH] hình thành từ khối [VERB LEXeme][VỊ ĐỘNG] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], biểu thị hành động được đóng gói thành một khái niệm.</li>
 			
 					<li className="list-none">Khối ngoài: [Swimming] – [NOUN HEAD][DANH LÕI] đứng ở đầu câu, đóng vai trò thực thể trung tâm mà câu hướng đến.</li>
 			
@@ -163,7 +163,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He enjoys [reading mystery novels].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy thích [đọc tiểu thuyết trinh thám].</li>
 			
-					<li className="list-none">Khối trong: [reading mystery novels] – [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ] bắt đầu bằng hành động reading dạng V-ing, kèm thêm mystery novels để tạo thành một khối hoàn chỉnh.</li>
+					<li className="list-none">Khối trong: [reading mystery novels] – [GERund-PARTiciple CLAUSE][MỆNH TÍNH-DANH] bắt đầu bằng hành động reading dạng V-ing, kèm thêm mystery novels để tạo thành một khối hoàn chỉnh.</li>
 			
 					<li className="list-none">Khối ngoài: [reading mystery novels] – [NOUN PHRASE][DANH CỤM] đứng sau hành động enjoys, là [OBject PROnoun] – đối tượng tiếp nhận hành động.</li>
 			
@@ -194,7 +194,7 @@ export default function SV2(): React.JSX.Element {
 					<li>We saw a [shining] star.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi thấy một ngôi sao [lấp lánh].</li>
 			
-					<li className="list-none">Khối trong: [shining] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "shine" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], miêu tả trạng thái đang diễn ra.</li>
+					<li className="list-none">Khối trong: [shining] - [GERund-PARTiciple FORM][DẠNG TÍNH-DANH] hình thành từ khối [VERB LEXeme][VỊ ĐỘNG] nguyên bản "shine" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], miêu tả trạng thái đang diễn ra.</li>
 			
 					<li className="list-none">Khối ngoài: [shining] – [ADjective HEAD][TÍNH LÕI] đứng trước star, bổ sung đặc điểm cho thực thể star.</li>
 			
@@ -208,7 +208,7 @@ export default function SV2(): React.JSX.Element {
 					<li>The child seems [exhausted from playing].</li>
 					<li className="margin-bottom-20 list-none">Đứa trẻ có vẻ [kiệt sức vì chơi].</li>
 			
-					<li className="list-none">Khối trong: [exhausted from playing] – [PAST PARTiciple CLAUSE][KHỨ TÍNH VẾ] gồm hành động exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
+					<li className="list-none">Khối trong: [exhausted from playing] – [PAST PARTiciple CLAUSE][MỆNH TÍNH KHỨ] gồm hành động exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
 			
 					<li className="list-none">Khối ngoài: [exhausted from playing] – [ADjective PHRASE][TÍNH CỤM] đứng sau hành động seems, mô tả trạng thái của thực thể The child.</li>
 			
@@ -254,7 +254,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She saves money [to travel abroad].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy tiết kiệm tiền [để đi du lịch nước ngoài].</li>
 			
-					<li className="list-none">Khối trong: [to travel abroad] – [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] gồm hành động nguyên mẫu có to và abroad.</li>
+					<li className="list-none">Khối trong: [to travel abroad] – [to-infiniTIval CLAUSE][MỆNH NGUYÊN-TO] gồm hành động nguyên mẫu có to và abroad.</li>
 			
 					<li className="list-none">Khối ngoài: [to travel abroad] – [ADjunct][PHỤ] đứng cuối câu, bổ sung ý nghĩa về mục đích cho hành động saves money.</li>
 			
@@ -289,11 +289,11 @@ export default function SV2(): React.JSX.Element {
 					<li>She [forgot {'{WHY I called her}'}].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy [quên {'{tại sao tôi gọi cho cô ấy}'}].</li>
 			
-					<li className="list-none">Khối trong lớp trong: {'{WHY I called her}'} – [interROGative CONtent CLAUSE][VẤN NỘI VẾ] có I là thành phần thực hiện hành động, called là hành động dạng có đuôi -ed, her là đối tượng.</li>
+					<li className="list-none">Khối trong lớp trong: {'{WHY I called her}'} – [Open InterROGative CONtent CLAUSE][MỆNH NỘI VẤN MỞ] có I là thành phần thực hiện hành động, called là hành động dạng có đuôi -ed, her là đối tượng.</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{WHY I called her}'} – [NOUN CLAUSE][DANH VẾ] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
 
-					<li className="list-none">Khối trong lớp ngoài: [forgot {'{WHY I called her}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PRETerite FORM][KHỨ DẠNG] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
+					<li className="list-none">Khối trong lớp ngoài: [forgot {'{WHY I called her}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PRETerite FORM][DẠNG KHỨ] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
 			
 					<li className="list-none">Khối ngoài lớp ngoài: [forgot {'{WHY I called her}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ khối này nằm sau She, là [OBject PROnoun] – đối tượng mà hành động forgot hướng đến.</li>
 			
@@ -318,7 +318,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Jogging] is beneficial.</li>
 					<li className="margin-bottom-20 list-none">[Chạy bộ] có lợi cho sức khỏe.</li>
 			
-					<li className="list-none">Khối trong: [Jogging] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "Jog" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [Jogging] - [GERund-PARTiciple FORM][DẠNG TÍNH-DANH] hình thành từ khối [VERB LEXeme][VỊ ĐỘNG] nguyên bản "Jog" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none">Khối ngoài: [Jogging] – [NOUN HEAD][DANH LÕI] đứng ở đầu câu, là thực thể trung tâm.</li>
 			
@@ -332,7 +332,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Going for a jog every morning] is beneficial.</li>
 					<li className="margin-bottom-20 list-none">[Đi chạy bộ mỗi sáng] có lợi cho sức khỏe.</li>
 			
-					<li className="list-none">Khối trong: [Going for a jog every morning] – [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ].</li>
+					<li className="list-none">Khối trong: [Going for a jog every morning] – [GERund-PARTiciple CLAUSE][MỆNH TÍNH-DANH].</li>
 			
 					<li className="list-none">Khối ngoài: [Going for a jog every morning] – [NOUN PHRASE][DANH CỤM] vẫn đứng ở đầu câu, cùng vai trò thực thể trung tâm.</li>
 			
@@ -412,7 +412,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She called me [to share the good news].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy gọi cho tôi [để chia sẻ tin vui].</li>
 			
-					<li className="list-none">Khối trong: [to share the good news] – [to-infiniTIval CLAUSE][TO-NGUYÊN VẾ] dạng nguyên mẫu mục đích.</li>
+					<li className="list-none">Khối trong: [to share the good news] – [to-infiniTIval CLAUSE][MỆNH NGUYÊN-TO] dạng nguyên mẫu mục đích.</li>
 			
 					<li className="list-none">Khối ngoài: [to share the good news] – [ADjunct][PHỤ] bổ sung ý nghĩa mục đích cho hành động called.</li>
 			
@@ -444,7 +444,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He drives [carefully].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [cẩn thận].</li>
 			
-					<li className="list-none">Khối trong: [carefully] - {'{MODified ADVERB}'}{'{DIỆN TRẠNG}'} hình thành từ khối [ROOT VERB][GỐC ĐỘNG] nguyên bản "care" mặc thêm (kết hợp) hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [carefully] - {'{MODified ADVERB}'}{'{DIỆN TRẠNG}'} hình thành từ khối [VERB LEXeme][VỊ ĐỘNG] nguyên bản "care" mặc thêm (kết hợp) hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none">Khối ngoài: [carefully] – [ADverb HEAD][TRẠNG LÕI] bổ nghĩa cho hành động drives.</li>
 			
@@ -477,7 +477,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[That he finished the race] impressed [everyone].</li>
 					<li className="margin-bottom-20 list-none">[Việc anh ấy hoàn thành cuộc đua] gây ấn tượng [mọi người].</li>
 
-					<li className="list-none">Khối trong: [That he finished the race] – [deCLARative CONtent CLAUSE][THUẬT NỘI VẾ].</li>
+					<li className="list-none">Khối trong: [That he finished the race] – [deCLARative CONtent CLAUSE][MỆNH NỘI THUẬT].</li>
 					<li className="margin-bottom-20 list-none">Chức năng: [That he finished the race] – [NOUN CLAUSE][DANH VẾ] đứng ở đầu câu, là thực thể gây ra ấn tượng.</li>
 			
 					<li className="list-none">Khối trong: [everyone] – một khối [DANH] thuần túy.</li>
@@ -493,7 +493,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[His finishing the race] impressed [everyone].</li>
 					<li className="margin-bottom-20 list-none">[Việc anh ấy hoàn thành cuộc đua] gây ấn tượng [mọi người].</li>
 			
-					<li className="list-none">Khối trong: [His finishing the race] – [GERund-PARTiciple CLAUSE][DANH-TÍNH VẾ].</li>
+					<li className="list-none">Khối trong: [His finishing the race] – [GERund-PARTiciple CLAUSE][MỆNH TÍNH-DANH].</li>
 			
 					<li className="list-none">Khối ngoài: [His finishing the race] – [NOUN PHRASE][DANH CỤM] vẫn đứng đầu câu, cùng chức năng.</li>
 			
