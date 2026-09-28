@@ -178,17 +178,57 @@ export default function Complements(): React.JSX.Element {
 					<li className="list-none"><strong>The exclamative content clause</strong> functions as <strong>the finite clausal complement of the verb</strong> 'remember'.</li>
 			
 				</ul>
-			
 
+			
 			<h4 className="margin-y-40">5. Relative Clausal Complement (Infrequent but Distinct):</h4>
 					
 			<p className="text-indent-whole">Unlike standard relative clauses which function as modifiers (adjuncts), certain highly specialized relative clauses function directly as licensed <strong>complements</strong> of specific lexical items.</p>
+
+			<p className="margin-top-20">Ví dụ 1: Khi dùng từ "Cái gì / Thứ mà"</p>
 			
 				<ul className="list-square">
 			
-					<li>Example: He is to blame for [what happened].</li>
+					<li>Relative Clause: I bought [{'{the thing'} that you recommended].</li>
+					<li className="margin-bottom-20 list-none">Có danh từ "the thing"</li>
+
+					<li>Fused Relative Clause: I bought [what you recommended].</li>
+					<li className="list-none">Chữ "what" đã thay thế cho cả cụm "the thing that"</li>
 			
-					<li className="list-none"><strong>The fused relative clause</strong> functions as a <strong>clausal complement</strong> within the prepositional phrase.</li>
+				</ul>
+			
+			<p className="margin-top-20">Ví dụ 2: Khi nói về người</p>
+
+				<ul className="list-square">
+			
+					<li>Relative Clause: [{'{Anyone}'} who wants to come] is welcome.</li>
+					<li className="margin-bottom-20 list-none">Có danh từ/đại từ "Anyone"</li>
+
+					<li>Fused Relative Clause: [Whoever] wants to come is welcome.</li>
+					<li className="list-none">Chữ "Whoever" tự mang nghĩa là "bất cứ ai người mà"</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20">Ví dụ 3: Khi nói về nơi chốn</p>
+
+				<ul className="list-square">
+			
+					<li>Relative Clause: This is [the place {'{where we first met}'}].</li>
+					<li className="margin-bottom-20 list-none">Có danh từ "the place"</li>
+
+					<li>Fused Relative Clause: This is [where we first met].</li>
+					<li className="list-none">Chữ "where" đóng vai trò là "nơi mà"</li>
+			
+				</ul>
+
+			
+			<ul className="list-square">
+			
+					<li>Relative Clause: for [the thing {'{that happened}'}]</li>
+					<li className="margin-bottom-20 list-none">The <strong>relative clause</strong> functions as a <strong>modifier</strong> within a nominal constituent.</li>
+
+					<li>Fused Relative Clause: for [what happened].</li>
+					<li className="list-none">The <strong>fused relative construction</strong> functions as a <strong>preposition complement</strong> within the preposition phrase.</li>
 			
 				</ul>
 			
