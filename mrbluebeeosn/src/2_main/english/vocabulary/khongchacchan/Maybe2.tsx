@@ -30,43 +30,43 @@ export default function MAYbe2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LAter">LAter</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#NOT">NOT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SO">SO</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#if-i-STUDy-HARder">if i STUDy HARder</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#or-GO">or ... GO</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#JUST">JUST</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SOMEday">SOMEday</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#it's-because">it's be<strong>cause</strong></HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#we-should-LEAVE-NOW">we should LEAVE NOW</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#she's-upSET">she's upSET</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,34 +103,34 @@ export default function MAYbe2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">let's meeT UP for COFfee MAYbe LAter.</li>
-        <li className="list-none margin-bottom-20">Chúng ta có thể gặp nhau uống cà phê sau nhé.</li>
+        <li value="1" id="LAter">let's meeT UP for COFfee MAYbe [LAter].</li>
+        <li className="list-none margin-bottom-20">Chúng ta có thể gặp nhau uống cà phê [sau nhé].</li>
 
-        <li value="2" id="">i'm NOT SURE if i can MAKE it. MAYbe NOT.</li>
-        <li className="list-none margin-bottom-20">Tôi không chắc liệu tôi có đến được không. Có lẽ là không.</li>
+        <li value="2" id="NOT">i'm NOT SURE if i can MAKE it. MAYbe [NOT].</li>
+        <li className="list-none margin-bottom-20">Tôi không chắc liệu tôi có đến được không. Có lẽ là [không].</li>
 
-        <li value="3" id="">you're RIGHT. MAYbe SO.</li>
-        <li className="list-none margin-bottom-20">Bạn đúng rồi. Có lẽ vậy.</li>
+        <li value="3" id="SO">you're RIGHT. MAYbe [SO].</li>
+        <li className="list-none margin-bottom-20">Bạn đúng rồi. Có lẽ [vậy].</li>
 
-        <li value="4" id="">MAYbe if i STUDy HARder, i can PASS the eXAM.</li>
-        <li className="list-none margin-bottom-20">Có lẽ nếu tôi học chăm chỉ hơn, tôi có thể vượt qua kỳ thi.</li>
+        <li value="4" id="if-i-STUDy-HARder">MAYbe [if i STUDy HARder], i can PASS the eXAM.</li>
+        <li className="list-none margin-bottom-20">Có lẽ nếu tôi học chăm chỉ hơn, [tôi] có thể [vượt qua kỳ thi].</li>
 
-        <li value="5" id="">i DON'T KNOW WHAT to DO. should i STAY or MAYbe GO?</li>
-        <li className="list-none margin-bottom-20">Tôi không biết phải làm gì. Tôi nên ở lại hay có lẽ nên đi?</li>
+        <li value="5" id="or-GO">i DON'T KNOW WHAT to DO. should i STAY [or] MAYbe [GO]?</li>
+        <li className="list-none margin-bottom-20">Tôi không biết phải làm gì. Tôi nên ở lại [hay] có lẽ nên [đi]?</li>
 
-        <li value="6">JUST MAYbe, he'll CHANGE his MIND.</li>
-        <li className="list-none margin-bottom-20">Có lẽ chỉ là anh ấy sẽ thay đổi ý kiến.</li>
+        <li value="6" id="JUST">[JUST] MAYbe, he'll CHANGE his MIND.</li>
+        <li className="list-none margin-bottom-20">Có lẽ [chỉ] là anh ấy sẽ thay đổi ý kiến.</li>
 
-        <li value="7" id="">MAYbe SOMEday i'll VISit jaPAN.</li>
-        <li className="list-none margin-bottom-20">Có lẽ một ngày nào đó tôi sẽ đến Nhật Bản.</li>
+        <li value="7" id="SOMEday">MAYbe [SOMEday] i'll VISit jaPAN.</li>
+        <li className="list-none margin-bottom-20">Có lẽ [một ngày nào đó] tôi sẽ đến Nhật Bản.</li>
 
-        <li value="8" id="">MAYbe it's be<strong>cause</strong> i'm TIred.</li>
-        <li className="list-none margin-bottom-20">Có lẽ là vì tôi mệt mỏi.</li>
+        <li value="8" id="it's-because">MAYbe [it's be<strong>cause</strong>] i'm TIred.</li>
+        <li className="list-none margin-bottom-20">Có lẽ [là vì] tôi mệt mỏi.</li>
 
-        <li value="9" id="">i'm NOT SURE, MAYbe we should LEAVE NOW.</li>
-        <li className="list-none margin-bottom-20">Tôi không chắc, có lẽ chúng ta nên đi bây giờ.</li>
+        <li value="9" id="we-should-LEAVE-NOW">i'm NOT SURE, MAYbe [we should LEAVE NOW].</li>
+        <li className="list-none margin-bottom-20">Tôi không chắc, có lẽ [chúng ta nên đi bây giờ].</li>
 
-        <li value="10" id="">i THINK MAYbe she's upSET.</li>
+        <li value="10" id="she's-upSET">i THINK MAYbe [she's upSET].</li>
         <li className="list-none margin-bottom-20">Tôi nghĩ có lẽ cô ấy đang buồn.</li>
 
       </ol>

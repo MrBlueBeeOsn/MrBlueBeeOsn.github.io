@@ -30,43 +30,43 @@ export default function apPARently2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#imPOSsible-but-comPLETE">imPOSsible, but ... comPLETE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TRUE">TRUE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#RANdom-but-a-PATtern">RANdom, but ... a PATtern</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HARMless-but-POIsonous">HARMless, but ... POIsonous</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SIMple-but-VERy-COMplex">SIMple, but ... VERy COMplex</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#unreLAted-but-conNECTed">unreLAted, but ... conNECTed</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SATisfied-with">SATisfied with</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#conFUSED">conFUSED</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#forGOTten-on-the">forGOTten on the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#aWARE-of">aWARE of</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function apPARently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">the TASK SEEMED apPARently imPOSsible, but he MANaged to comPLETE it.</li>
-        <li className="list-none margin-bottom-20">Công việc đó dường như không thể, nhưng anh ấy đã hoàn thành nó.</li>
+        <li value="1" id="imPOSsible-but-comPLETE">the TASK SEEMED apPARently [imPOSsible, but] he MANaged to [comPLETE] it.</li>
+        <li className="list-none margin-bottom-20">Công việc đó dường như [không thể, nhưng] anh ấy [đã hoàn thành] nó.</li>
 
-        <li value="2" id="">apPARently TRUE, she is LEAVing the COMpany NEXT WEEK.</li>
-        <li className="list-none margin-bottom-20">Dường như là đúng, cô ấy sẽ rời công ty vào tuần tới.</li>
+        <li value="2" id="TRUE">apPARently [TRUE], she is LEAVing the COMpany NEXT WEEK.</li>
+        <li className="list-none margin-bottom-20">Dường như là [đúng], cô ấy sẽ rời công ty vào tuần tới.</li>
 
-        <li value="3" id="">the NUMbers apPEARED to be apPARently RANdom, but there was a PATtern.</li>
-        <li className="list-none margin-bottom-20">Những con số dường như ngẫu nhiên, nhưng có một quy luật.</li>
+        <li value="3" id="RANdom-but-a-PATtern">the NUMbers apPEARED to be apPARently [RANdom, but] there was [a PATtern].</li>
+        <li className="list-none margin-bottom-20">Những con số dường như [ngẫu nhiên, nhưng] có [một quy luật].</li>
 
-        <li value="4" id="">the SNAKE LOOKED apPARently HARMless, but it was POIsonous.</li>
-        <li className="list-none margin-bottom-20">Con rắn trông dường như vô hại, nhưng nó lại độc.</li>
+        <li value="4" id="HARMless-but-POIsonous">the SNAKE LOOKED apPARently [HARMless, but] it was [POIsonous].</li>
+        <li className="list-none margin-bottom-20">Con rắn trông dường như [vô hại, nhưng] nó lại [độc].</li>
 
-        <li value="5" id="">the PROBlem SEEMED apPARently SIMple, but it was ACtually VERy COMplex.</li>
-        <li className="list-none margin-bottom-20">Vấn đề dường như đơn giản, nhưng thực ra rất phức tạp.</li>
+        <li value="5" id="SIMple-but-VERy-COMplex">the PROBlem SEEMED apPARently [SIMple, but] it was ACtually [VERy COMplex].</li>
+        <li className="list-none margin-bottom-20">Vấn đề dường như [đơn giản, nhưng] thực ra [rất phức tạp].</li>
 
-        <li value="6" id="">the TWO eVENTS SEEMED apPARently unreLAted, but they were conNECTed.</li>
-        <li className="list-none margin-bottom-20">Hai sự kiện dường như không liên quan, nhưng chúng lại có mối liên hệ với nhau.</li>
+        <li value="6" id="unreLAted-but-conNECTed">the TWO eVENTS SEEMED apPARently [unreLAted, but] they were [conNECTed].</li>
+        <li className="list-none margin-bottom-20">Hai sự kiện dường như [không liên quan, nhưng] chúng lại [có mối liên hệ với nhau].</li>
 
-        <li value="7" id="">she NODded, apPARently SATisfied with his ANswer.</li>
-        <li className="list-none margin-bottom-20">Cô ấy gật đầu, dường như hài lòng với câu trả lời của anh ấy.</li>
+        <li value="7" id="SATisfied-with">she NODded, apPARently [SATisfied with] his ANswer.</li>
+        <li className="list-none margin-bottom-20">Cô ấy gật đầu, dường như [hài lòng với] câu trả lời của anh ấy.</li>
 
-        <li value="8" id="">he LOOKED aROUND, apPARently conFUSED.</li>
-        <li className="list-none margin-bottom-20">Anh ta nhìn xung quanh, dường như đang bối rối.</li>
+        <li value="8" id="conFUSED">he LOOKED aROUND, apPARently [conFUSED].</li>
+        <li className="list-none margin-bottom-20">Anh ta nhìn xung quanh, dường như [đang bối rối].</li>
 
-        <li value="9" id="">the BOOK was apPARently forGOTten on the TRAIN.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách dường như đã bị quên trên tàu.</li>
+        <li value="9" id="forGOTten-on-the">the BOOK was apPARently [forGOTten on the] TRAIN.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách dường như [đã bị quên trên] tàu.</li>
 
-        <li value="10" id="">she SMILED, apPARently aWARE of his FEELings.</li>
-        <li className="list-none margin-bottom-20">Cô ấy mỉm cười, dường như nhận thức được cảm xúc của anh ấy.</li>
+        <li value="10" id="aWARE-of">she SMILED, apPARently [aWARE of] his FEELings.</li>
+        <li className="list-none margin-bottom-20">Cô ấy mỉm cười, dường như [nhận thức được] cảm xúc của anh ấy.</li>
 
       </ol>
 

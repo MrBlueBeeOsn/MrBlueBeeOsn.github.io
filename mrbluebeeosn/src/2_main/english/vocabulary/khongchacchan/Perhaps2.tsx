@@ -30,43 +30,43 @@ export default function perHAPS2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#howEVer">howEVer</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#on-the-OTHer-HAND">on the OTHer HAND</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#it-is-POSsible-that">it is POSsible that</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#it-is-TRUE-that">it is TRUE that</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#if-you-STUDy-HARder">if you STUDy HARder</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#in-THAT-CASE">in THAT CASE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#instead-of-GOing-to-the">in<strong>stead</strong> of GOing to the</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#we-should-ASK-for">we should ASK for</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#i-THINK">i THINK</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#it-SEEMS-that">it SEEMS that</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function perHAPS2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">perHAPS, howEVer, we should conSIDer OTHer OPTions.</li>
+        <li value="1" id="howEVer">perHAPS, [howEVer], we should conSIDer OTHer OPTions.</li>
         <li className="list-none margin-bottom-20">Có lẽ, tuy nhiên, chúng ta nên xem xét các lựa chọn khác.</li>
 
-        <li value="2" id="">perHAPS, on the OTHer HAND, she is JUST TIred.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, mặt khác, cô ấy chỉ đơn giản là mệt mỏi.</li>
+        <li value="2" id="on-the-OTHer-HAND">perHAPS, [on the OTHer HAND], she is JUST TIred.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, [mặt khác], cô ấy chỉ đơn giản là mệt mỏi.</li>
 
-        <li value="3" id="">perHAPS, it is POSsible that he forGOT.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, có thể là anh ấy đã quên.</li>
+        <li value="3" id="it-is-POSsible-that">perHAPS, [it is POSsible that] he forGOT.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, [có thể là] anh ấy đã quên.</li>
 
-        <li value="4" id="">perHAPS, it is TRUE that she is NOT INTERested.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, đúng là cô ấy không hứng thú.</li>
+        <li value="4" id="it-is-TRUE-that">perHAPS, [it is TRUE that] she is NOT INTERested.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, [đúng là] cô ấy không hứng thú.</li>
 
-        <li value="5" id="">perHAPS, if you STUDy HARder, you will PASS the eXAM.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, nếu bạn học chăm chỉ hơn, bạn sẽ vượt qua kỳ thi.</li>
+        <li value="5" id="if-you-STUDy-HARder">perHAPS, [if you STUDy HARder], you will PASS the eXAM.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, [nếu bạn học chăm chỉ hơn], bạn sẽ vượt qua kỳ thi.</li>
 
-        <li value="6" id="">perHAPS, in THAT CASE, we should postPONE the MEETing.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, trong trường hợp đó, chúng ta nên hoãn cuộc họp.</li>
+        <li value="6" id="in-THAT-CASE">perHAPS, [in THAT CASE], we should postPONE the MEETing.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, [trong trường hợp đó], chúng ta nên hoãn cuộc họp.</li>
 
-        <li value="7" id="">perHAPS, in<strong>stead</strong> of GOing to the MOvies, we could STAY HOME and WATCH a DVD.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, thay vì đi xem phim, chúng ta có thể ở nhà và xem DVD.</li>
+        <li value="7" id="instead-of-GOing-to-the">perHAPS, [in<strong>stead</strong> of GOing to the] MOvies, we could STAY HOME and WATCH a DVD.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, [thay vì đi] xem phim, chúng ta có thể ở nhà và xem DVD.</li>
 
-        <li value="8" id="">perHAPS, we should ASK for HELP.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, chúng ta nên nhờ giúp đỡ.</li>
+        <li value="8" id="we-should-ASK-for">perHAPS, [we should ASK for] HELP.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, [chúng ta nên nhờ] giúp đỡ.</li>
 
-        <li value="9" id="">perHAPS, I THINK it's TIME to GO HOME.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, tôi nghĩ đã đến lúc về nhà.</li>
+        <li value="9" id="i-THINK">perHAPS, [i THINK] it's TIME to GO HOME.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, [tôi nghĩ] đã đến lúc về nhà.</li>
 
-        <li value="10" id="">perHAPS, it SEEMS that he is ANGry.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, dường như anh ấy đang tức giận.</li>
+        <li value="10" id="it-SEEMS-that">perHAPS, [it SEEMS that] he is ANGry.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, [dường như] anh ấy đang tức giận.</li>
 
       </ol>
 
