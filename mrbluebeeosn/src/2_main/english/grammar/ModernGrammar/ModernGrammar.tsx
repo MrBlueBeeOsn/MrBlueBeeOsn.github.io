@@ -100,7 +100,7 @@ export default function ShiftingToModernGrammar(): React.JSX.Element {
       
           <li>The Clause (Sentence): A complete mini-statement containing a subject and a predicate.</li>
       
-          <li><Link to="/grammar/rethinking-the-preposition-phrase">The Preposition Phrase</Link>: The entire combination acting as a single unit.</li>
+          <li><Link to="/grammar/preposition-phrase">The Preposition Phrase</Link>: The entire combination acting as a single unit.</li>
       
         </ul>
 
@@ -114,7 +114,7 @@ export default function ShiftingToModernGrammar(): React.JSX.Element {
       
           <li>Clause (Sentence): {'{the update completed}'}</li>
       
-          <li><Link to="/grammar/rethinking-the-preposition-phrase">prepoSITion PHRASE</Link>: <strong>[because {'{the update completed}'}]</strong></li>
+          <li><Link to="/grammar/preposition-phrase">prepoSITion PHRASE</Link>: <strong>[because {'{the update completed}'}]</strong></li>
       
         </ul>
       
@@ -139,7 +139,7 @@ export default function ShiftingToModernGrammar(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">[]: SUBject PHRASE / NOUN PHRASE</li>
       
           <li>After a preposition: They waited [until <strong>{'{the update completed}'}</strong>].</li>
-          <li className="margin-bottom-20 list-none">[]: <Link to="/grammar/rethinking-the-preposition-phrase">prepoSITion PHRASE</Link> / ADjunct</li>
+          <li className="margin-bottom-20 list-none">[]: <Link to="/grammar/preposition-phrase">prepoSITion PHRASE</Link> / ADjunct</li>
       
         </ul>
       

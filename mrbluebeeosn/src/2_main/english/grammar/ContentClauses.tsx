@@ -17,11 +17,11 @@ export default function QuestionsToContentClauses(): React.JSX.Element {
     
       <h4><HashLink smooth to="/grammar#grammar-terms"><mark className="highlight-tertiary-padding-4-8">Grammar</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">Questions to Content Clauses</h1>
+      <h1 className="margin-y-50 text-center">Content Clauses</h1>
 
       {/* This is the content of English Learning Term. */}
 
-      <h4 className="margin-bottom-30 text-center">The Origin of Content Clauses, Indirect Questions, and Relative Clauses</h4>
+      <h4 className="margin-bottom-30 text-center">Questions to Content Clauses: The Origin of Content Clauses, Indirect Questions, and Relative Clauses</h4>
       
       <p>In everyday communication and content writing, we constantly face a hidden challenge: how to share a question or deliver an answer without sounding abrupt.</p>
       

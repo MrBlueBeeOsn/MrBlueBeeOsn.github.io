@@ -510,9 +510,9 @@
       "id": "VerbsAddS",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
-      "title": "How to Remember Verbs Add S",
+      "title": "Verbs add S",
       "content": "Learn how to remember which verbs take an 's' in the third person singular.",
-      "slug": "grammar/how-to-remember-verbs-add-s",
+      "slug": "grammar/verbs-add-s",
       "date": "2026-05-04",
       "views": 0,
       "likes": 0
@@ -522,8 +522,8 @@
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
       "title": "Verbs S",
-      "content": "Verbs S",
-      "slug": "grammar/verbs-s",
+      "content": "Verb & S",
+      "slug": "grammar/verb-&-s",
       "date": "2026-09-05",
       "views": 0,
       "likes": 0
@@ -534,7 +534,7 @@
       "categorySlug": "grammar",
       "title": "Verb And Object",
       "content": "How V and O (Object) both collapse into What",
-      "slug": "grammar/verb-and-object",
+      "slug": "grammar/verb-&-object",
       "date": "2026-09-10",
       "views": 0,
       "likes": 0
@@ -545,7 +545,7 @@
       "categorySlug": "grammar",
       "title": "The LIFO Method",
       "content": "Train your brain to use the \"Last In, First Out\" rule.",
-      "slug": "grammar/the-LIFO-method",
+      "slug": "grammar/LIFO-method",
       "date": "2026-09-20",
       "views": 0,
       "likes": 0
@@ -556,7 +556,7 @@
       "categorySlug": "grammar",
       "title": "The 6 Element Formula",
       "content": "Master the Perfect English Sentence with the 6-Element Formula",
-      "slug": "grammar/8-word-formula",
+      "slug": "grammar/6-element-formula",
       "date": "2026-09-20",
       "views": 0,
       "likes": 0
@@ -567,7 +567,7 @@
       "categorySlug": "grammar",
       "title": "Rethinking The Preposition Phrase",
       "content": "Rethinking the Preposition Phrase: A Cambridge 2002 Framework",
-      "slug": "grammar/the-6-types-of-complements",
+      "slug": "grammar/preposition-phrase",
       "date": "2026-09-26",
       "views": 0,
       "likes": 0
@@ -578,7 +578,7 @@
       "categorySlug": "grammar",
       "title": "Modern Grammar",
       "content": "Shifting to Modern Grammar: Understanding Prepositions and Clauses (Cambridge 2002 vs. Merriam-Webster)",
-      "slug": "grammar/shifting-to-modern-grammar",
+      "slug": "grammar/modern-grammar",
       "date": "2026-09-26",
       "views": 0,
       "likes": 0
@@ -589,7 +589,7 @@
       "categorySlug": "grammar",
       "title": "Questions to Content Clauses",
       "content": "The Origin of Content Clauses, Indirect Questions, and Relative Clauses",
-      "slug": "grammar/questions-to-content-clauses",
+      "slug": "grammar/content-clauses",
       "date": "2026-09-26",
       "views": 0,
       "likes": 0
@@ -598,9 +598,9 @@
       "id": "VerbandPredicator",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
-      "title": "Ver band Predicator",
+      "title": "Verb & Predicator",
       "content": "The Hidden Engine of a Sentence: Understanding the Difference Between \"Verb\" and \"Predicator\"",
-      "slug": "grammar/verb-and-predicator",
+      "slug": "grammar/verb-&-predicator",
       "date": "2026-09-27",
       "views": 0,
       "likes": 0
@@ -609,9 +609,9 @@
       "id": "PredicatorandAdjunct",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
-      "title": "Predicator and Adjunct",
+      "title": "Predicator & Adjunct",
       "content": "A Guide to Clause Structure: Predicator and Adjunct (Cambridge 2002)",
-      "slug": "grammar/predicator-and-adjunct",
+      "slug": "grammar/predicator-&-adjunct",
       "date": "2026-09-27",
       "views": 0,
       "likes": 0
@@ -622,7 +622,7 @@
       "categorySlug": "grammar",
       "title": "The Phrase vs Clause",
       "content": "Clarifying the \"Phrase\" vs. \"Clause\" Debate: Structural Classification in the Cambridge Grammar of the English Language (2002)",
-      "slug": "grammar/the-phrase-vs-clause-debate",
+      "slug": "grammar/phrase-vs-clause",
       "date": "2026-09-27",
       "views": 0,
       "likes": 0
@@ -633,7 +633,7 @@
       "categorySlug": "grammar",
       "title": "The Forms of the English Verb",
       "content": "The Six Core Inflectional Forms of the English Verb: Morphology vs. Clause Structure",
-      "slug": "grammar/the-forms-of-the-verb",
+      "slug": "grammar/forms-of-the-verb",
       "date": "2026-09-27",
       "views": 0,
       "likes": 0
@@ -644,8 +644,19 @@
       "categorySlug": "grammar",
       "title": "The Lexical Verb READ",
       "content": "The Morphological Framework of CGEL 2002: Understanding \"Forms\" and Syncretism in the Paradigm of Read",
-      "slug": "grammar/the-lexical-verb-READ",
+      "slug": "grammar/lexical-verb-READ",
       "date": "2026-09-27",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Cambridge2002Framework",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "The Cambridge 2002 Framework",
+      "content": "Re-Engineering English: Why the Cambridge 2002 Framework Changes Everything",
+      "slug": "grammar/cambridge-2002-framework",
+      "date": "2026-09-28",
       "views": 0,
       "likes": 0
     },

@@ -99,7 +99,7 @@ export default function GrammarIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/shifting-to-modern-grammar">Modern Grammar</Link>
+                <Link to="/grammar/modern-grammar">Modern Grammar</Link>
               </div>
             </li>
 
@@ -111,37 +111,37 @@ export default function GrammarIndex(): React.JSX.Element {
             
             <li>
               <div className="li-content">
-                <Link to="/grammar/rethinking-the-preposition-phrase">Preposition Phrase</Link>
+                <Link to="/grammar/preposition-phrase">Preposition Phrase</Link>
               </div>
             </li>
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/verb-and-predicator">Verb & Predicator</Link>
+                <Link to="/grammar/verb-&-predicator">Verb & Predicator</Link>
               </div>
             </li>
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/predicator-and-adjunct">Predicator & Adjunct</Link>
+                <Link to="/grammar/predicator-&-adjunct">Predicator & Adjunct</Link>
               </div>
             </li>
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/the-phrase-vs-clause-debate">Phrase vs. Clause</Link>
+                <Link to="/grammar/phrase-vs-clause">Phrase vs. Clause</Link>
               </div>
             </li>
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/the-forms-of-the-verb">Forms of the Verb</Link>
+                <Link to="/grammar/forms-of-the-verb">Forms of the Verb</Link>
               </div>
             </li>
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/the-lexical-verb-READ">Lexical Verb: READ</Link>
+                <Link to="/grammar/lexical-verb-READ">Lexical Verb: READ</Link>
               </div>
             </li>
 
@@ -159,19 +159,19 @@ export default function GrammarIndex(): React.JSX.Element {
             
             <li>
               <div className="li-content">
-                <Link to="/grammar/questions-to-content-clauses">Questions to Content Clauses</Link>
+                <Link to="/grammar/content-clauses">Content Clauses</Link>
               </div>
             </li>
             
             <li>
               <div className="li-content">
-                <Link to="/grammar/the-6-element-formula">6-Element Formula</Link>
+                <Link to="/grammar/6-element-formula">6-Element Formula</Link>
               </div>
             </li>
             
             <li>
               <div className="li-content">
-                <Link to="/grammar/the-LIFO-method">LIFO METHod</Link>
+                <Link to="/grammar/LIFO-method">LIFO METHod</Link>
               </div>
             </li>
 
@@ -183,13 +183,13 @@ export default function GrammarIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/verbs-s">Verbs S</Link>
+                <Link to="/grammar/verb-&-S">Verbs S</Link>
               </div>
             </li>
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/verb-and-object">Verb & Object</Link>
+                <Link to="/grammar/verb-&-object">Verb & Object</Link>
               </div>
             </li>
             

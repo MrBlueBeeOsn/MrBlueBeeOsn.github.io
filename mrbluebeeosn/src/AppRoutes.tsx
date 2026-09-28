@@ -116,19 +116,22 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Verb = lazy(() => import('@/2_main/english/grammar/Verb'));
 	const Adjective = lazy(() => import('@/2_main/english/grammar/Adjective'));
 	const Noun = lazy(() => import('@/2_main/english/grammar/Noun'));
-	const VerbsAddS = lazy(() => import('@/2_main/english/grammar/VerbsAddS'));
-	const VerbsS = lazy(() => import('@/2_main/english/grammar/VerbsS'));
-	const VerbAndObject = lazy(() => import('@/2_main/english/grammar/VerbAndObject'));
-	const TheLIFOMethod = lazy(() => import('@/2_main/english/grammar/TheLIFOMethod'));
+	const VerbsAddS = lazy(() => import('@/2_main/english/grammar/VerbAddS'));
+	const VerbAndS = lazy(() => import('@/2_main/english/grammar/Verb&S'));
+	const VerbAndObject = lazy(() => import('@/2_main/english/grammar/Verb&Object'));
+	const LIFOMethod = lazy(() => import('@/2_main/english/grammar/LIFOMethod'));
 	const The6ElementFormula = lazy(() => import('@/2_main/english/grammar/The6ElementFormula'));
-	const RethinkingThePrepositionPhrase = lazy(() => import('@/2_main/english/grammar/ModernGrammar/RethinkingThePrepositionPhrase'));
-	const ShiftingToModernGrammar = lazy(() => import('@/2_main/english/grammar/ModernGrammar/ShiftingToModernGrammar'));
-	const QuestionsToContentClauses = lazy(() => import('@/2_main/english/grammar/QuestionsToContentClauses'));
-	const ThePhrasevsClauseDebate = lazy(() => import('@/2_main/english/grammar/ModernGrammar/ThePhrasevsClauseDebate'));
-	const PredicatorAndAdjunct = lazy(() => import('@/2_main/english/grammar/ModernGrammar/PredicatorAndAdjunct'));
-	const VerbAndPredicator = lazy(() => import('@/2_main/english/grammar/ModernGrammar/VerbAndPredicator'));
-	const TheFormsOFfTheVerb = lazy(() => import('@/2_main/english/grammar/ModernGrammar/TheFormsOFfTheVerb'));
-	const TheLexicalVerbREAD = lazy(() => import('@/2_main/english/grammar/ModernGrammar/TheLexicalVerbREAD'));
+	const ContentClauses = lazy(() => import('@/2_main/english/grammar/ContentClauses'));
+	
+	// Modern Grammar
+	
+	const PrepositionPhrase = lazy(() => import('@/2_main/english/grammar/ModernGrammar/PrepositionPhrase'));
+	const ModernGrammar = lazy(() => import('@/2_main/english/grammar/ModernGrammar/ModernGrammar'));
+	const PhrasevsClause = lazy(() => import('@/2_main/english/grammar/ModernGrammar/PhrasevsClause'));
+	const PredicatorAndAdjunct = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Predicator&Adjunct'));
+	const VerbAndPredicator = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Verb&Predicator'));
+	const FormsOFfTheVerb = lazy(() => import('@/2_main/english/grammar/ModernGrammar/FormsOFfTheVerb'));
+	const LexicalVerbREAD = lazy(() => import('@/2_main/english/grammar/ModernGrammar/LexicalVerbREAD'));
 	const Cambridge2002Framework = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Cambridge2002Framework'));
 
 
@@ -758,20 +761,22 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/what-is-a-verb?" element={<Verb />} />
 					<Route path="/grammar/what-is-an-adjective?" element={<Adjective />} />
 					<Route path="/grammar/what-is-a-noun?" element={<Noun />} />
-					<Route path="/grammar/how-to-remember-verbs-add-s?" element={<VerbsAddS />} />
-					<Route path="/grammar/verbs-s?" element={<VerbsS />} />
-					<Route path="/grammar/verb-and-object" element={<VerbAndObject />} />
-					<Route path="/grammar/the-LIFO-method" element={<TheLIFOMethod />} />
-					<Route path="/grammar/the-6-element-formula" element={<The6ElementFormula />} />
-					<Route path="/grammar/rethinking-the-preposition-phrase" element={<RethinkingThePrepositionPhrase />} />
-					<Route path="/grammar/shifting-to-modern-grammar" element={<ShiftingToModernGrammar />} />
-					<Route path="/grammar/questions-to-content-clauses" element={<QuestionsToContentClauses />} />
-					<Route path="/grammar/the-phrase-vs-clause-debate" element={<ThePhrasevsClauseDebate />} />
-					<Route path="/grammar/predicator-and-adjunct" element={<PredicatorAndAdjunct />} />
-					<Route path="/grammar/verb-and-predicator" element={<VerbAndPredicator />} />
-					<Route path="/grammar/the-forms-of-the-verb" element={<TheFormsOFfTheVerb />} />
-					<Route path="/grammar/the-lexical-verb-READ" element={<TheLexicalVerbREAD />} />
-					<Route path="/grammar/the-lexical-verb-READ" element={<Cambridge2002Framework />} />
+					<Route path="/grammar/Verb-add-S" element={<VerbsAddS />} />
+					<Route path="/grammar/verb-&-S" element={<VerbAndS />} />
+					<Route path="/grammar/verb-&-object" element={<VerbAndObject />} />
+					<Route path="/grammar/LIFO-method" element={<LIFOMethod />} />
+					<Route path="/grammar/6-element-formula" element={<The6ElementFormula />} />
+					<Route path="/grammar/content-clauses" element={<ContentClauses />} />
+
+					{/* Modern Grammar */}
+					<Route path="/grammar/preposition-phrase" element={<PrepositionPhrase />} />
+					<Route path="/grammar/modern-grammar" element={<ModernGrammar />} />
+					<Route path="/grammar/phrase-vs-clause" element={<PhrasevsClause />} />
+					<Route path="/grammar/predicator-&-adjunct" element={<PredicatorAndAdjunct />} />
+					<Route path="/grammar/verb-&-predicator" element={<VerbAndPredicator />} />
+					<Route path="/grammar/forms-of-the-verb" element={<FormsOFfTheVerb />} />
+					<Route path="/grammar/lexical-verb-READ" element={<LexicalVerbREAD />} />
+					<Route path="/grammar/cambridge-2002-framework" element={<Cambridge2002Framework />} />
 
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />
