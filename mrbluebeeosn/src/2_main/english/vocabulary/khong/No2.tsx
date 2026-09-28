@@ -30,43 +30,43 @@ export default function NO2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LONGer-LIVES-HERE">LONGer LIVES HERE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MORE-of">MORE of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LESS-DIFficult-than">LESS DIFficult than</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MATter-WHAT-you-SAY">MATter WHAT you SAY</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WAY">WAY</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#WONder">WONder</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#DOUBT">DOUBT</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#THANKS">THANKS</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LONger-than">LONger than</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#LESS-than">LESS than</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function NO2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">she NO LONGer LIVES HERE.</li>
-        <li className="list-none margin-bottom-20">Cô ấy không còn sống ở đây nữa.</li>
+        <li value="1" id="LONGer-LIVES-HERE">she NO [LONGer LIVES HERE].</li>
+        <li className="list-none margin-bottom-20">Cô ấy không [sống lâu hơn ở đây].</li>
 
-        <li value="2" id="">i WANT NO MORE of your exCUses.</li>
-        <li className="list-none margin-bottom-20">Tôi không muốn nghe thêm bất kỳ lời bào chữa nào của bạn nữa.</li>
+        <li value="2" id="MORE-of">i WANT NO [MORE of] your exCUses.</li>
+        <li className="list-none margin-bottom-20">Tôi không muốn [nghe thêm] lời bào chữa của bạn.</li>
 
-        <li value="3" id="">the TASK is NO LESS DIFficult than the LAST one.</li>
-        <li className="list-none margin-bottom-20">Nhiệm vụ này không kém phần khó so với nhiệm vụ trước.</li>
+        <li value="3" id="LESS-DIFficult-than">the TASK is NO [LESS DIFficult than] the LAST one.</li>
+        <li className="list-none margin-bottom-20">Nhiệm vụ này không [kém phần khó so với] nhiệm vụ trước.</li>
 
-        <li value="4" id="">NO MATter WHAT you SAY, i WON'T beLIEVE you.</li>
-        <li className="list-none margin-bottom-20">Dù bạn nói gì đi nữa, tôi cũng sẽ không tin bạn.</li>
+        <li value="4" id="MATter-WHAT-you-SAY">NO [MATter WHAT you SAY], i WON'T beLIEVE you.</li>
+        <li className="list-none margin-bottom-20">Không [thành vấn đề bạn nói gì], tôi sẽ không tin bạn.</li>
 
-        <li value="5" id="">NO WAY! i'm NOT GOing to do THAT.</li>
+        <li value="5" id="WAY">NO [WAY]! i'm NOT GOing to do THAT.</li>
         <li className="list-none margin-bottom-20">Không đời nào! Tôi sẽ không làm việc đó.</li>
 
-        <li value="6" id="">NO WONder he's TIred. he's been WORKing all NIGHT.</li>
-        <li className="list-none margin-bottom-20">Chẳng trách anh ấy mệt. Anh ấy đã làm việc cả đêm.</li>
+        <li value="6" id="WONder">NO [WONder] he's TIred. he's been WORKing all NIGHT.</li>
+        <li className="list-none margin-bottom-20">Không [có gì đáng kinh ngạc] khi anh ấy mệt mỏi. Anh ấy đã và đang làm việc suốt đêm.</li>
 
-        <li value="7" id="">NO DOUBT she will sucCEED.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn cô ấy sẽ thành công.</li>
+        <li value="7" id="DOUBT">NO [DOUBT] she will sucCEED.</li>
+        <li className="list-none margin-bottom-20">Không [nghi ngờ gì nữa], cô ấy sẽ thành công.</li>
 
-        <li value="8" id="">would you LIKE some COFfee? NO THANKS, i'm NOT THIRsty.</li>
-        <li className="list-none margin-bottom-20">Bạn có muốn uống cà phê không? Không, cảm ơn, tôi không khát.</li>
+        <li value="8" id="THANKS">would you LIKE some COFfee? NO [THANKS], i'm NOT THIRsty.</li>
+        <li className="list-none margin-bottom-20">Bạn có muốn uống cà phê không? Không, [cảm ơn], tôi không khát.</li>
 
-        <li value="9" id="">the MEETing will be NO LONger than TWO HOURs.</li>
-        <li className="list-none margin-bottom-20">Cuộc họp sẽ không quá hai giờ.</li>
+        <li value="9" id="LONger-than">the MEETing will be NO [LONger than] TWO HOURs.</li>
+        <li className="list-none margin-bottom-20">Cuộc họp sẽ không [lâu hơn] hai tiếng.</li>
 
-        <li value="10" id="">NO LESS than a THOUsand PEOple atTENDed the CONcert.</li>
-        <li className="list-none margin-bottom-20">Có tới tận một ngàn người đã tham dự buổi hòa nhạc.</li>
+        <li value="10" id="LESS-than">NO [LESS than] a THOUsand PEOple atTENDed the CONcert.</li>
+        <li className="list-none margin-bottom-20">Không [ít hơn] một nghìn người đã tham dự buổi hòa nhạc.</li>
 
       </ol>
 

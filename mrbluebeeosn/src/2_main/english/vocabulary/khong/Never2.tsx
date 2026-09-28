@@ -30,43 +30,43 @@ export default function NEVer2(): React.JSX.Element {
                                 
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#beFORE-SEEN-such-a">beFORE SEEN such a</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#aGAIN-MAKE">aGAIN MAKE</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#MIND">MIND</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SEEN-such-a">SEEN such a</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#HEARD-of">HEARD of</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#forGET">forGET</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#TOO-LATE-to-LEARN">TOO LATE to LEARN</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#SAY">SAY</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#in-my-LIFE-SEEN-such-a">in my LIFE SEEN such a</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#"></HashLink>
+            <HashLink smooth to="#giVE-UP-on">giVE UP on</HashLink>
           </span> &nbsp;
 
         </p>
@@ -103,35 +103,35 @@ export default function NEVer2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="">i have NEVer beFORE SEEN such a BEAUtiful SUNset.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp như vậy.</li>
+        <li value="1" id="beFORE-SEEN-such-a">i have NEVer [beFORE SEEN such a] BEAUtiful SUNset.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa bao giờ [trước đây nhìn thấy một] hoàng hôn đẹp [như vậy].</li>
 
-        <li value="2" id="">i will NEVer aGAIN MAKE that misTAKE.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ lặp lại sai lầm đó nữa.</li>
+        <li value="2" id="aGAIN-MAKE">i will NEVer [aGAIN MAKE] that misTAKE.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ [lặp lại] sai lầm đó nữa.</li>
 
-        <li value="3" id="">NEVer MIND, it's NOT imPORTant.</li>
-        <li className="list-none margin-bottom-20">Thôi đi, không quan trọng đâu.</li>
+        <li value="3" id="MIND">NEVer [MIND], it's NOT imPORTant.</li>
+        <li className="list-none margin-bottom-20">Đừng bao giờ [bận tâm], nó thì không quan trọng.</li>
 
-        <li value="4" id="">i have NEVer SEEN such a BIG DOG.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy con chó nào to như vậy.</li>
+        <li value="4" id="SEEN-such-a">i have NEVer [SEEN such a] BIG DOG.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa bao giờ [thấy mộtư con chó nào to [như vậy].</li>
 
-        <li value="5" id="">i have NEVer HEARD of that BAND.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ nghe nói về ban nhạc đó.</li>
+        <li value="5" id="HEARD-of">i have NEVer [HEARD of] that BAND.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa bao giờ [nghe nói về] ban nhạc đó.</li>
 
-        <li value="6" id="">i will NEVer forGET your KINDness.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ quên lòng tốt của bạn.</li>
+        <li value="6" id="forGET">i will NEVer [forGET] your KINDness.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ [quên] lòng tốt của bạn.</li>
 
-        <li value="7" id="">it's NEVer TOO LATE to LEARN SOMEthing NEW.</li>
-        <li className="list-none margin-bottom-20">Không bao giờ là quá muộn để học điều mới.</li>
+        <li value="7" id="TOO-LATE-to-LEARN">it's NEVer [TOO LATE to LEARN] SOMEthing NEW.</li>
+        <li className="list-none margin-bottom-20">Không bao giờ là [quá muộn để học] điều mới.</li>
 
-        <li value="8" id="">NEVer SAY, ANything is POSsible.</li>
-        <li className="list-none margin-bottom-20">Đừng nói không bao giờ, mọi thứ đều có thể xảy ra.</li>
+        <li value="8" id="SAY">NEVer [SAY], ANything is POSsible.</li>
+        <li className="list-none margin-bottom-20">[Đừng nói] không bao giờ, mọi thứ đều có thể xảy ra.</li>
 
-        <li value="9" id="">i have NEVer in my LIFE SEEN such a BEAUtiful FLOWer.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ trong đời thấy một bông hoa đẹp như vậy.</li>
+        <li value="9" id="in-my-LIFE-SEEN-such-a">i have NEVer [in my LIFE SEEN such a] BEAUtiful FLOWer.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa bao giờ [trong đời thấy một] bông hoa đẹp [như vậy].</li>
 
-        <li value="10" id="">NEVer giVE UP on your DREAMS.</li>
-        <li className="list-none margin-bottom-20">Đừng bao giờ từ bỏ ước mơ của bạn.</li>
+        <li value="10" id="giVE-UP-on">NEVer [giVE UP on] your DREAMS.</li>
+        <li className="list-none margin-bottom-20">Đừng bao giờ [từ bỏ] ước mơ của bạn.</li>
 
       </ol>
 
