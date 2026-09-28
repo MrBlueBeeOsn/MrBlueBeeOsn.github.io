@@ -36,11 +36,11 @@ export default function Complements(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Complement Selection: Traditional prepositions typically select a Noun Phrase (NP) as their complement. Infinitival to, conversely, licenses and combines with a Verb Phrase (VP) operating in its plain form.</li>
+					<li><strong>Complement Selection</strong>: Traditional prepositions typically select a Noun Phrase (NP) as their complement. Infinitival to, conversely, licenses and combines with a Verb Phrase (VP) operating in its plain form.</li>
 			
-					<li>Structural Parallelism: Infinitival to functions as a purely structural marker introduced to head a non-finite subordinate clause. This makes it syntactically analogous to the marker that in finite subordinate clauses (e.g., I think [that you are right]).</li>
+					<li><strong>Structural Parallelism</strong>: Infinitival to functions as a purely structural marker introduced to head a non-finite subordinate clause. This makes it syntactically analogous to the marker that in finite subordinate clauses (e.g., I think [that you are right]).</li>
 			
-					<li>Grammaticalisation: While infinitival to historically evolved from the directional preposition to, in modern English it has undergone total grammaticalisation. It has shed its semantic spatial meaning to become a pure structural flag for non-finiteness.</li>
+					<li><strong>Grammaticalisation</strong>: While infinitival to historically evolved from the directional preposition to, in modern English it has undergone total grammaticalisation. It has shed its semantic spatial meaning to become a pure structural flag for non-finiteness.</li>
 			
 				</ul>
 
@@ -53,9 +53,9 @@ export default function Complements(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The Verb Lexeme: This represents the abstract lexical entity, containing all semantic definitions and the entire paradigm of its variants. In CGEL, lexemes are conventionally represented in capital letters (e.g., the lexeme TAKE or BE).</li>
+					<li><strong>The Verb Lexeme</strong>: This represents the abstract lexical entity, containing all semantic definitions and the entire paradigm of its variants. In CGEL, lexemes are conventionally represented in capital letters (e.g., the lexeme TAKE or BE).</li>
 			
-					<li>The Plain Form: This is the actual inflectional shape of the verb when it lacks any overt suffixes or modifications (no -s, -ed, or -ing). The dictionary entry headword take is the plain form representing the lexeme TAKE.</li>
+					<li><strong>The Plain Form</strong>: This is the actual inflectional shape of the verb when it lacks any overt suffixes or modifications (no -s, -ed, or -ing). The dictionary entry headword take is the plain form representing the lexeme TAKE.</li>
 			
 				</ul>
 			
@@ -64,13 +64,13 @@ export default function Complements(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The imperative:</li>
+					<li><strong>The imperative</strong>:</li>
 					<li className="margin-bottom-20 list-none">Example: Give me the book.</li>
 			
-					<li>The present subjunctive:</li>
+					<li><strong>The present subjunctive</strong>:</li>
 					<li className="margin-bottom-20 list-none">Example: I insist that he be present.</li>
 			
-					<li>The infinitival:</li>
+					<li><strong>The infinitival</strong>:</li>
 					<li className="list-none">Example: I want to go. / I must go.</li>
 			
 				</ul>
@@ -82,7 +82,7 @@ export default function Complements(): React.JSX.Element {
 
 			<p>One of CGEL's most significant departures from traditional grammar is its refusal to use the terms "noun" or "noun clause" for clausal structures acting as core arguments. Phrases like that he is right or to go do not share the structural or distributional properties of Noun Phrases (NPs). Instead, CGEL separates them into Categories (what they are) and Functions (what they do).</p>
 
-			<h3>Category: Content Clauses</h3>
+			<h3 className="margin-y-50">Category: Content Clauses</h3>
 
 			<p>When analyzing the formal grammatical class of these clauses, CGEL classifies them as content clauses (subordinate clauses that lack the distinctive structural features of relative or comparative clauses).</p>
 
@@ -121,7 +121,7 @@ export default function Complements(): React.JSX.Element {
 			<p className="margin-top-20">Note on Imperatives: CGEL explicitly points out that there are no subordinate imperative content clauses in modern English; clauses following verbs of demanding or commanding are structurally either present subjunctives or infinitivals.</p>
 
 
-			<h3>Function: Clausal Complements and Subjects</h3>
+			<h3 className="margin-y-50">Function: Clausal Complements and Subjects</h3>
 
 			<p>When evaluating what these categories do inside a sentence, they are mapped to specific structural functions. CGEL explicitly avoids assigning "Object" status to clauses, opting for a highly refined relational breakdown across various finite and non-finite clausal structures:</p>
 
@@ -133,7 +133,7 @@ export default function Complements(): React.JSX.Element {
 			
 					<li>Example: [That he failed] is a pity.</li>
 			
-					<li className="list-none">The declarative content clause functions as the finite clausal subject.</li>
+					<li className="list-none"><strong>The declarative content clause</strong> functions as <strong>the finite clausal subject</strong>.</li>
 			
 				</ul>
 			
@@ -146,7 +146,7 @@ export default function Complements(): React.JSX.Element {
 			
 					<li>Example: I think [that he is right].</li>
 			
-					<li className="list-none">The declarative content clause functions as the finite clausal complement of the verb 'think'.</li>
+					<li className="list-none"><strong>The declarative content clause</strong> functions as <strong>the finite clausal complement of the verb</strong> 'think'.</li>
 			
 				</ul>
 			
@@ -159,10 +159,10 @@ export default function Complements(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Example 1: I wonder [whether he will arrive].</li>
-					<li className="margin-bottom-20 list-none">The closed interrogative content clause functions as the finite clausal complement of the verb 'wonder'</li>
+					<li className="margin-bottom-20 list-none"><strong>The closed interrogative content clause</strong> functions as <strong>the finite clausal complement of the verb</strong> 'wonder'</li>
 			
 					<li>Example 2: She asked [what he bought].</li>
-					<li className="list-none">The open interrogative content clause functions as the finite clausal complement of the verb 'ask'.</li>
+					<li className="list-none"><strong>The open interrogative content clause</strong> functions as <strong>the finite clausal complement of the verb</strong> 'ask'.</li>
 			
 				</ul>
 			
@@ -175,7 +175,7 @@ export default function Complements(): React.JSX.Element {
 			
 					<li>Example: I remember [what a great time we had].</li>
 			
-					<li className="list-none">The exclamative content clause functions as the finite clausal complement of the verb 'remember'.</li>
+					<li className="list-none"><strong>The exclamative content clause</strong> functions as <strong>the finite clausal complement of the verb</strong> 'remember'.</li>
 			
 				</ul>
 			
@@ -188,7 +188,7 @@ export default function Complements(): React.JSX.Element {
 			
 					<li>Example: He is to blame for [what happened].</li>
 			
-					<li className="list-none">The fused relative clause functions as a clausal complement within the prepositional phrase.</li>
+					<li className="list-none"><strong>The fused relative clause</strong> functions as a <strong>clausal complement</strong> within the prepositional phrase.</li>
 			
 				</ul>
 			
@@ -201,7 +201,7 @@ export default function Complements(): React.JSX.Element {
 			
 					<li>Example: She is taller [than he is].</li>
 			
-					<li className="list-none">The comparative clause functions as the clausal complement to the comparative head element.</li>
+					<li className="list-none"><strong>The comparative clause</strong> functions as <strong>the clausal complement</strong> to the comparative head element.</li>
 			
 				</ul>
 			
@@ -215,7 +215,7 @@ export default function Complements(): React.JSX.Element {
 			
 					<li>Example: I managed [to open the door].</li>
 			
-					<li className="list-none">The infinitival clause functions as a non-finite clausal complement—specifically, a catenative complement—of the verb 'manage'.</li>
+					<li className="list-none"><strong>The infinitival clause functions</strong> as <strong>a non-finite clausal complement</strong> — specifically, <strong>a catenative complement of the verb</strong> 'manage'.</li>
 			
 				</ul>
 			
