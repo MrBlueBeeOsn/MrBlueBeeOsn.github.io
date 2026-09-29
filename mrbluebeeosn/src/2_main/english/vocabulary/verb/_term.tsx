@@ -192,7 +192,7 @@ export default function (): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>2.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4a:</p>
       
@@ -225,7 +225,7 @@ export default function (): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4c:</p>
       
@@ -257,7 +257,7 @@ export default function (): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4e:</p>
       
@@ -484,7 +484,7 @@ export default function (): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH ĐIỀU</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUsal SUBject</strong>][<strong>ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as SUBject</strong>][<strong>CHIA ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9a:</p>
       
@@ -605,7 +605,7 @@ export default function (): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB and emBEDded CLAUSE</strong>][<strong>HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB and emBEDded CLAUSE</strong>][<strong>HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12a:</p>
       
@@ -669,7 +669,7 @@ export default function (): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12c:</p>
       
@@ -733,7 +733,7 @@ export default function (): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12e:</p>
       

@@ -160,7 +160,7 @@ export default function creATE(): React.JSX.Element {
           <li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>][<strong>HIỆN THÁI TRỢ ĐỘNG</strong>]: will, shall, can, must, may</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB][PHỨC ÁP THÁI ĐỘNG] thống nhất.</li>
 
-          <li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>][<strong>BẤT-ĐỊNH DẠNG</strong>]: HAVing NO TENSE or NO SUBject</li>
+          <li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>][<strong>CHƯA-CHIA DẠNG</strong>]: HAVing NO TENSE or NO SUBject</li>
 
           <li className="list-none">[<strong>PLAIN FORM</strong>][<strong>GIẢN DẠNG</strong>]: cREATE</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
@@ -181,7 +181,7 @@ export default function creATE(): React.JSX.Element {
           <li className="list-none">[<strong>PAST PARTiciple FORM</strong>][<strong>KHỨ TÍNH DẠNG</strong>]: creATed, been</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành.</li>
 
-          <li value="6" className="margin-bottom-20">[<strong>FInite FORMS</strong>][<strong>ĐỊNH DẠNG</strong>]: HAVing TENSE or SUBject</li>
+          <li value="6" className="margin-bottom-20">[<strong>FInite FORMS</strong>][<strong>CHIA DẠNG</strong>]: HAVing TENSE or SUBject</li>
 
           <li className="list-none">[<strong>PLAIN PRESent FORM</strong>][<strong>GIẢN HIỆN DẠNG</strong>]: cREATE</li>
           <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they cREATE.</li>
@@ -218,7 +218,7 @@ export default function creATE(): React.JSX.Element {
           
       <p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-      <p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào thuộc hệ thống 16 mục trên kéo theo thành phần bổ trợ phía sau (như [OBject HEAD][TÂN LÕI], [non-FInite CLAUSE as CATenative COMplement][BẤT-ĐỊNH ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][ĐỊNH ĐIỀU làm BỔ], [ADverb HEAD][TRẠNG LÕI], [ADjunct][PHỤ], hoặc [ADjunct][PHỤ]), toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+      <p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào thuộc hệ thống 16 mục trên kéo theo thành phần bổ trợ phía sau (như [OBject HEAD][TÂN LÕI], [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ], [ADverb HEAD][TRẠNG LÕI], [ADjunct][PHỤ], hoặc [ADjunct][PHỤ]), toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
       
 
 
@@ -240,7 +240,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{creAtion}'} - {'{MODified NOUN}'}{'{DIỆN DANH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [SUBject][CHỦ] định danh thực thể độc lập. [SUBject HEAD][CHỦ LÕI] đảm nhận nhiệm vụ làm thành phần định danh [NOUN HEAD][DANH LÕI] nền tảng đứng đầu câu.</li>
       
-          <li className="list-none">Khối ngoài: [the arTIStic {'{creAtion}'} from the LOcal deSIGner] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+          <li className="list-none">Khối ngoài: [the arTIStic {'{creAtion}'} from the LOcal deSIGner] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -256,7 +256,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{creAtive}'} - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm. [ADjective HEAD][TÍNH LÕI] kích hoạt bộ quét đặt ngay trước đối tượng [OBject HEAD][TÂN LÕI] "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
       
-          <li className="list-none">Khối ngoài: [a {'{creAtive}'} TEAM] - [non-FInite CLAUSE as CATenative COMplement][BẤT-ĐỊNH ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+          <li className="list-none">Khối ngoài: [a {'{creAtive}'} TEAM] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -281,7 +281,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>2.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-SUBject">[<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-SUBject">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4a:</p>
       
@@ -292,13 +292,13 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [CreAting MODern DIGital soLUtions] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CreAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [CreAting MODern DIGital soLUtions] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres DEEP TECHnical KNOWledge" để làm [SUBject][CHỦ] quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Khối ngoài: [CreAting MODern DIGital soLUtions] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres DEEP TECHnical KNOWledge" để làm [SUBject][CHỦ] quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
 
   
 
-      <p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-COMplement">[<strong>non-FInite CLAUsal COMplement</strong>][<strong>BẤT-ĐỊNH CÂU TÂN</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>làm</strong> [<strong>COMplement</strong>][<strong>BỔ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-COMplement">[<strong>non-FInite CLAUSE as COMplement</strong>][<strong>CHƯA-CHIA ĐIỀU làm BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>làm</strong> [<strong>COMplement</strong>][<strong>BỔ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4b:</p>
       
@@ -309,12 +309,12 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [creAting enGAging User CONtent] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] hình thành từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [creAting enGAging User CONtent] - [non-FInite CLAUSE as CATenative COMplement][BẤT-ĐỊNH ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM] tiếp nhận trực tiếp mục tiêu của hành động [PRETerite FORM][KHỨ DẠNG] "priORitized".</li>
+          <li className="list-none">Khối ngoài: [creAting enGAging User CONtent] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM] tiếp nhận trực tiếp mục tiêu của hành động [PRETerite FORM][KHỨ DẠNG] "priORitized".</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4c:</p>
       
@@ -325,12 +325,12 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [To creATE susTAINable ENergy SYStems] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval][TO-NGUYÊN] "to creATE" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [To creATE susTAINable ENergy SYStems] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước hành động [PRETerite FORM][KHỨ DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu.</li>
+          <li className="list-none">Khối ngoài: [To creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước hành động [PRETerite FORM][KHỨ DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu.</li>
       
         </ul>
 
   
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal COMplement</strong>][<strong>BẤT-ĐỊNH CÂU TÂN</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as COMplement</strong>][<strong>CHƯA-CHIA ĐIỀU làm BỔ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4d:</p>
       
@@ -341,12 +341,12 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [to creATE INnovative PROducts for conSUmers] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval][TO-NGUYÊN] "to creATE" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [to creATE INnovative PROducts for conSUmers] - [non-FInite CLAUSE as CATenative COMplement][BẤT-ĐỊNH ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM] tiếp nhận trực tiếp mục tiêu tác động cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "AIMS".</li>
+          <li className="list-none">Khối ngoài: [to creATE INnovative PROducts for conSUmers] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM] tiếp nhận trực tiếp mục tiêu tác động cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "AIMS".</li>
       
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4e:</p>
       
@@ -357,7 +357,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [to creATE STRONG seCUrity PROtocols] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval][TO-NGUYÊN] "to creATE" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đảm nhận vai trò làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is esSENtial".</li>
+          <li className="list-none">Khối ngoài: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đảm nhận vai trò làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is esSENtial".</li>
       
         </ul>
 
@@ -573,7 +573,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Hình thành chức năng</strong> [<strong>CONtent CLAUSE</strong>][<strong>NỘI ĐIỀU</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject">[<strong>FInite CLAUsal SUBject</strong>][<strong>ĐỊNH CÂU CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject">[<strong>FInite CLAUSE as SUBject</strong>][<strong>CHIA ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9a:</p>
       
@@ -585,13 +585,13 @@ export default function creATE(): React.JSX.Element {
           <li className="list-none">Khối trong:  [HOW the ARtist creATES uNIQUE SCULPtures] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU]
  chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, mang [SUBject HEAD][CHỦ LÕI] riêng "the ARtist" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Khối ngoài:  [HOW the ARtist creATES uNIQUE SCULPtures] - [FInite CLAUSE as SUBject][ĐỊNH ĐIỀU làm CHỦ] quản lý khối thông tin quy trình, điều khiển chính cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "FAScinates".</li>
+          <li className="list-none">Khối ngoài:  [HOW the ARtist creATES uNIQUE SCULPtures] - [FInite CLAUSE as SUBject][CHIA ĐIỀU làm CHỦ] quản lý khối thông tin quy trình, điều khiển chính cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "FAScinates".</li>
       
         </ul>
 
 
 
-      <p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-COMplement">[<strong>FInite CLAUsal COMplement</strong>][<strong>ĐỊNH CÂU TÂN</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>] <strong>làm</strong> [<strong>COMplement</strong>][<strong>BỔ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-COMplement">[<strong>FInite CLAUSE as COMplement</strong>][<strong>CHIA ĐIỀU làm BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>] <strong>làm</strong> [<strong>COMplement</strong>][<strong>BỔ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9b:</p>
       
@@ -603,12 +603,12 @@ export default function creATE(): React.JSX.Element {
           <li className="list-none">Khối trong:  [how the TEAM creATES efFECtive adVERtisements] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU]
  chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, có [SUBject HEAD][CHỦ LÕI] "the TEAM" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Khối ngoài:  [how the TEAM creATES efFECtive adVERtisements] - [FInite CLAUSE as COMplement][ĐỊNH ĐIỀU làm BỔ] chứa dữ liệu mục tiêu tiếp nhận cho hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED".</li>
+          <li className="list-none">Khối ngoài:  [how the TEAM creATES efFECtive adVERtisements] - [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ] chứa dữ liệu mục tiêu tiếp nhận cho hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED".</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 10:</p>
       
@@ -619,7 +619,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{which creATES SOlar ENergy}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [SUBject HEAD][CHỦ LÕI] "ENgine".</li>
       
-          <li className="list-none">Khối ngoài: [the ENgine {'{which creATES SOlar ENergy}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+          <li className="list-none">Khối ngoài: [the ENgine {'{which creATES SOlar ENergy}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -654,12 +654,12 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [the Agency creAted a reLIable SYStem] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] đã ẩn thành phần [SuBORdinator][HẠ] định hướng "that", chỉ còn hiển thị trọn vẹn khối [SUBject HEAD][CHỦ LÕI] "the Agency" và cụm hành động phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [the Agency creAted a reLIable SYStem] - [FInite CLAUSE as COMplement][ĐỊNH ĐIỀU làm BỔ] tiếp nhận trực tiếp nội dung cho hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "beLIEVE".</li>
+          <li className="list-none">Khối ngoài: [the Agency creAted a reLIable SYStem] - [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ] tiếp nhận trực tiếp nội dung cho hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "beLIEVE".</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>4.2.2</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>4.2.2</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11b:</p>
       
@@ -670,7 +670,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{she creAted for the CLIent}'} - {'{ZEro RELative CLAUSE}'}{'{KHUYẾT QUAN CÂU}'} đã ẩn thành phần [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "she" và cụm [PAST VERB PHRASE][ĐÃ ĐỘNG CỤM] "creAted for the CLIent". Đóng vai trò như bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
       
-          <li className="list-none">Khối ngoài: [the deSIGN {'{she creAted for the CLIent}'}] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+          <li className="list-none">Khối ngoài: [the deSIGN {'{she creAted for the CLIent}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -696,7 +696,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB and emBEDded CLAUSE</strong>][<strong>HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB and emBEDded CLAUSE</strong>][<strong>HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12a:</p>
       
@@ -713,7 +713,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [CreAting soLUtions for {'{WHAT CLIents STRUGgle with}'}] - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU] lớn phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CreAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [CreAting soLUtions for {'{WHAT CLIents STRUGgle with}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "BUILDS MARket VAlue".</li>
+          <li className="list-none">Khối ngoài: [CreAting soLUtions for {'{WHAT CLIents STRUGgle with}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "BUILDS MARket VAlue".</li>
       
         </ul>
 
@@ -723,12 +723,12 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{WHAT CLIents STRUGgle with}'} - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] riêng "CLIents" và cụm hành động riêng đi sau thành phần [PROnoun][ĐẠI] "what".</li>
       
-          <li className="list-none">Khối ngoài: {'{WHAT CLIents STRUGgle with}'} - [FInite CLAUSE as COMplement][ĐỊNH ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "for" ở tầng ngoài.</li>
+          <li className="list-none">Khối ngoài: {'{WHAT CLIents STRUGgle with}'} - [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "for" ở tầng ngoài.</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB and emBEDded CLAUSE</strong>][<strong>HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal COMplement</strong>][<strong>BẤT-ĐỊNH CÂU TÂN</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PRESent PARTiciple VERB and emBEDded CLAUSE</strong>][<strong>HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as COMplement</strong>][<strong>CHƯA-CHIA ĐIỀU làm BỔ</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12b:</p>
       
@@ -745,7 +745,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [exPLORing {'{WHY the TEAM creAted outDAted deSIGNS}'}] - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "exPLORing" kết hợp vùng mã mở rộng phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [exPLORing {'{WHY the TEAM creAted outDAted deSIGNS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [non-FInite CLAUSE as CATenative COMplement][BẤT-ĐỊNH ĐIỀU làm CHUỖI BỔ] tiếp nhận nội dung cho hành động [PRETerite FORM][KHỨ DẠNG] "sugGESted".</li>
+          <li className="list-none">Khối ngoài: [exPLORing {'{WHY the TEAM creAted outDAted deSIGNS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] tiếp nhận nội dung cho hành động [PRETerite FORM][KHỨ DẠNG] "sugGESted".</li>
       
         </ul>
 
@@ -755,12 +755,12 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{WHY the TEAM creAted outDAted deSIGNS}'} - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau thành phần [ADverb][TRẠNG] "WHY".</li>
       
-          <li className="list-none">Khối ngoài: {'{WHY the TEAM creAted outDAted deSIGNS}'} - [FInite CLAUSE as COMplement][ĐỊNH ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "exPLORing" ở tầng ngoài, làm rõ nội dung cho việc tìm hiểu.</li>
+          <li className="list-none">Khối ngoài: {'{WHY the TEAM creAted outDAted deSIGNS}'} - [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "exPLORing" ở tầng ngoài, làm rõ nội dung cho việc tìm hiểu.</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12c:</p>
       
@@ -777,7 +777,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [To underSTAND {'{HOW the SYStem creATES AUtomated rePORTS}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [To underSTAND {'{HOW the SYStem creATES AUtomated rePORTS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres TECHnical SKILLS" để quản lý khối đầu việc ở đầu câu.</li>
+          <li className="list-none">Khối ngoài: [To underSTAND {'{HOW the SYStem creATES AUtomated rePORTS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres TECHnical SKILLS" để quản lý khối đầu việc ở đầu câu.</li>
       
         </ul>
 
@@ -787,12 +787,12 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{HOW the SYStem creATES AUtomated rePORTS}'} - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] "the system" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
       
-          <li className="list-none">Khối ngoài: {'{HOW the SYStem creATES AUtomated rePORTS}'} - [FInite CLAUSE as COMplement][ĐỊNH ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài.</li>
+          <li className="list-none">Khối ngoài: {'{HOW the SYStem creATES AUtomated rePORTS}'} - [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài.</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal COMplement</strong>][<strong>BẤT-ĐỊNH CÂU TÂN</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as COMplement</strong>][<strong>CHƯA-CHIA ĐIỀU làm BỔ</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12d:</p>
       
@@ -809,7 +809,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [to STUdy {'{HOW Users creATE PERsonal PROfiles}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to STUdy" kéo theo vùng mã bổ trợ phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [to STUdy {'{HOW Users creATE PERsonal PROfiles}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [non-FInite CLAUSE as CATenative COMplement][BẤT-ĐỊNH ĐIỀU làm CHUỖI BỔ] tiếp nhận mục tiêu kế hoạch cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "PLANS".</li>
+          <li className="list-none">Khối ngoài: [to STUdy {'{HOW Users creATE PERsonal PROfiles}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] tiếp nhận mục tiêu kế hoạch cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "PLANS".</li>
       
         </ul>
 
@@ -819,12 +819,12 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{HOW Users creATE PERsonal PROfiles}'} - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa [SUBject HEAD][CHỦ LÕI] riêng "Users" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
       
-          <li className="list-none">Khối ngoài: {'{HOW Users creATE PERsonal PROfiles}'} - [FInite CLAUSE as COMplement][ĐỊNH ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "STUdy" ở tầng ngoài.</li>
+          <li className="list-none">Khối ngoài: {'{HOW Users creATE PERsonal PROfiles}'} - [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "STUdy" ở tầng ngoài.</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUsal SUBject</strong>][<strong>BẤT-ĐỊNH CÂU CHỦ</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>FULL inFINitive VERB and emBEDded CLAUSE</strong>][<strong>TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU</strong>] <strong>làm</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12e:</p>
       
@@ -841,7 +841,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [to eVAluate {'{HOW the appliCAtion creATES User LOGS}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to eVAluate" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [to eVAluate {'{HOW the appliCAtion creATES User LOGS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [SUBject [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "TAKES experTISE".</li>
+          <li className="list-none">Khối ngoài: [to eVAluate {'{HOW the appliCAtion creATES User LOGS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [SUBject [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "TAKES experTISE".</li>
       
         </ul>
 
@@ -851,7 +851,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{HOW the appliCAtion creATES User LOGS}'} - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [SUBject HEAD][CHỦ LÕI] riêng "the appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
       
-          <li className="list-none">Khối ngoài: {'{HOW the appliCAtion creATES User LOGS}'} - [FInite CLAUSE as COMplement][ĐỊNH ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "eVAluate" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá.</li>
+          <li className="list-none">Khối ngoài: {'{HOW the appliCAtion creATES User LOGS}'} - [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "eVAluate" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá.</li>
       
         </ul>
       
@@ -884,7 +884,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{HOW the TEAM creATES NEW MARketing CHANnels}'} - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] "the TEAM" và cụm hành động đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
       
-          <li className="list-none">Khối ngoài: {'{HOW the TEAM creATES NEW MARketing CHANnels}'} - [FInite CLAUSE as COMplement][ĐỊNH ĐIỀU làm BỔ] chịu sự điều phối trực tiếp ở tầng ngoài.</li>
+          <li className="list-none">Khối ngoài: {'{HOW the TEAM creATES NEW MARketing CHANnels}'} - [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp ở tầng ngoài.</li>
       
         </ul>
 
@@ -916,7 +916,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{WHY the deSIGner creAted COMplex LAYouts}'} - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [SUBject HEAD][CHỦ LÕI] riêng "the deSIGner" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [ADverb][TRẠNG] "WHY".</li>
       
-          <li className="list-none">Khối ngoài: {'{WHY the deSIGner creAted COMplex LAYouts}'} - [FInite CLAUSE as COMplement][ĐỊNH ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "on" ở tầng ngoài.</li>
+          <li className="list-none">Khối ngoài: {'{WHY the deSIGner creAted COMplex LAYouts}'} - [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "on" ở tầng ngoài.</li>
       
         </ul>
       
@@ -937,7 +937,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong gốc: [CreAting HIGH-IMpact CONtent] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] biểu hiện dưới dạng khối mã mở rộng chứa hành động và đối tượng đi kèm.</li>
       
-          <li className="list-none">Khối ngoài: [CreAting HIGH-IMpact CONtent] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject][CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Khối ngoài: [CreAting HIGH-IMpact CONtent] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject][CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
       
@@ -951,7 +951,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong mới: [DeVEloping efFECtive proMOtional maTErial] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Khối ngoài mới: [DeVEloping efFECtive proMOtional maTErial] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject][CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" của khối cũ.</li>
+          <li className="list-none">Khối ngoài mới: [DeVEloping efFECtive proMOtional maTErial] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject][CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" của khối cũ.</li>
       
         </ul>
 
@@ -993,7 +993,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong gốc: {'{which creATES interACtive ART PROjects}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] "which" và cụm hành động phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [OBject HEAD][TÂN LÕI] "TEAM".</li>
       
-          <li className="list-none">Khối ngoài: [a TEAM {'{which creATES interACtive ART PROjects}'}] - [non-FInite CLAUSE as CATenative COMplement][BẤT-ĐỊNH ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+          <li className="list-none">Khối ngoài: [a TEAM {'{which creATES interACtive ART PROjects}'}] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
       
@@ -1007,7 +1007,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong mới: {'{creAtive}'} - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng [OBject HEAD][TÂN LÕI] "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
-          <li className="list-none">Khối ngoài mới: [a {'{creAtive}'} TEAM] - [non-FInite CLAUSE as CATenative COMplement][BẤT-ĐỊNH ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+          <li className="list-none">Khối ngoài mới: [a {'{creAtive}'} TEAM] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
         </ul>
 

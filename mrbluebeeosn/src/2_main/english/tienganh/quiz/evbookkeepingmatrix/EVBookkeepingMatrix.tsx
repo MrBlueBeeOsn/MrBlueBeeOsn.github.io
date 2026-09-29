@@ -28,7 +28,7 @@ export default function (): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [reCORDing every BUSIness transACtion] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa, không có chủ thể thực hiện hành động đứng trước và không biến đổi theo thời gian. \n\n Chức năng: [reCORDing every BUSInesstransACtion] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] cả này giữ vai trò làm thành phần [SUBject][CHỦ] đứng đầu chính đứng trước \"is\"."
+			explanation: "Hình thái: [reCORDing every BUSIness transACtion] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa, không có chủ thể thực hiện hành động đứng trước và không biến đổi theo thời gian. \n\n Chức năng: [reCORDing every BUSInesstransACtion] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] cả này giữ vai trò làm thành phần [SUBject][CHỦ] đứng đầu chính đứng trước \"is\"."
 		},
 		{
 			id: 2,
@@ -58,7 +58,7 @@ export default function (): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to mainTAIN ACcurate fiNANcial REcords] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng hành động đi kèm \"to\" phía trước kết hợp thành phần bổ nghĩa, không chứa chủ thể thực hiện hành động. \n\n Chức năng: [to mainTAIN ACcurate fiNANcial REcords] - [non-FInite CLAUsal SUBject][BẤT-ĐỊNH VẾ CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] cả này giữ vai trò làm thành phần [SUBject][CHỦ] đứng đầu chính đứng trước \"reQUIres\"."
+			explanation: "Hình thái: [to mainTAIN ACcurate fiNANcial REcords] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng hành động đi kèm \"to\" phía trước kết hợp thành phần bổ nghĩa, không chứa chủ thể thực hiện hành động. \n\n Chức năng: [to mainTAIN ACcurate fiNANcial REcords] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] cả này giữ vai trò làm thành phần [SUBject][CHỦ] đứng đầu chính đứng trước \"reQUIres\"."
 		},
 		{
 			id: 5,
@@ -88,7 +88,7 @@ export default function (): React.JSX.Element {
 				"[emBEDded NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [FInite CLAUSE as COMplement][ĐỊNH ĐIỀU làm BỔ] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
+			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function (): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [that the BOOKkeeper MADE a SERious ERror] - [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] bắt đầu bằng \"that\", có chứa chủ thể \"the BOOKkeeper\" và hành động \"made\" xác định theo thời quá khứ. \n\n Chức năng: [that the BOOKkeeper MADE a SERious ERror] - [FInite CLAUSE as COMplement][ĐỊNH ĐIỀU làm BỔ] đứng sau hành động \"REalized\" giữ vai trò tiếp nhận tác động từ hành động này."
+			explanation: "Hình thái: [that the BOOKkeeper MADE a SERious ERror] - [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] bắt đầu bằng \"that\", có chứa chủ thể \"the BOOKkeeper\" và hành động \"made\" xác định theo thời quá khứ. \n\n Chức năng: [that the BOOKkeeper MADE a SERious ERror] - [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ] đứng sau hành động \"REalized\" giữ vai trò tiếp nhận tác động từ hành động này."
 		},
 		{
 			id: 9,
