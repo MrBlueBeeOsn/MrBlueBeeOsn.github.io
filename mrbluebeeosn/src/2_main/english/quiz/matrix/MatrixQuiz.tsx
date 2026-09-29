@@ -28,7 +28,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [to LEARN EVERyday] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] formed by combining the infinitive marker \"to\", the bare VERB \"LEARN\", and the adverbial modifier \"EVERyday\". \n\n Function: [to LEARN EVERyday] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] is formed from  [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"exPANDS\", acting as the nominal head of the sentence."
+			explanation: "Form: [to LEARN EVERyday] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] formed by combining the infinitive marker \"to\", the bare VERB \"LEARN\", and the adverbial modifier \"EVERyday\". \n\n Function: [to LEARN EVERyday] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] is formed from  [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"exPANDS\", acting as the nominal head of the sentence."
 		},
 		{
 			id: 2,
@@ -58,7 +58,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [MANaging a LARGE interNATional TEAM] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] formed by the gerund \"MANaging\" and its direct object phrase \"a LARGE interNATional TEAM\". \n\n Function: [MANaging a LARGE interNATional TEAM] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] is formed from [NOUN PHRASE][DANH CỤM] occupies the subject slot of the main verb \"reQUIres\"."
+			explanation: "Form: [MANaging a LARGE interNATional TEAM] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] formed by the gerund \"MANaging\" and its direct object phrase \"a LARGE interNATional TEAM\". \n\n Function: [MANaging a LARGE interNATional TEAM] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] is formed from [NOUN PHRASE][DANH CỤM] occupies the subject slot of the main verb \"reQUIres\"."
 		},
 		{
 			id: 5,

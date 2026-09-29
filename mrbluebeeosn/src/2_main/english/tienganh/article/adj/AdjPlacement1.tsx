@@ -281,14 +281,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADjective</strong>][<strong>DIỆN TÍNH</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADjective</strong>][<strong>ĐỊNH TÍNH</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>they dePLOYED an [INnovative] SYStem.</li>
 					<li className="margin-bottom-20 list-none">Họ đã triển khai một hệ thống [đổi mới, sáng tạo].</li>
 			
-					<li className="list-none">Khối trong: [INnovative] - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "INnovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang đặc tính mới.</li>
+					<li className="list-none">Khối trong: [INnovative] - {'{MODified ADjective}'}{'{ĐỊNH TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "INnovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang đặc tính mới.</li>
 			
 					<li className="list-none">Khối ngoài: [INnovative] - [ADjective HEAD][TÍNH LÕI] bổ trợ trực tiếp đặc điểm cho [MODifier HEAD][ĐỊNH LÕI] "SYStem".</li>
 			
@@ -342,14 +342,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADjective PHRASE</strong>][<strong>DIỆN TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADjective PHRASE</strong>][<strong>ĐỊNH TÍNH CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>an iNItiative [preVENtive against SYStem FAIlures] was LAUNCHED.</li>
 					<li className="margin-bottom-20 list-none">Một sáng kiến [phòng ngừa chống lại các sự cố hệ thống] đã được khởi động.</li>
 			
-					<li className="list-none">Khối trong: [preVENtive against SYStem FAIlures] - [MODified ADjective PHRASE][DIỆN TÍNH CỤM] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "preVENT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][DIỆN TÍNH] "preVENtive", sau đó mở rộng kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "against SYStem FAIlures" để tạo thành một khối [PHRASE][CỤM] hoàn chỉnh.</li>
+					<li className="list-none">Khối trong: [preVENtive against SYStem FAIlures] - [MODified ADjective PHRASE][ĐỊNH TÍNH CỤM] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "preVENT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][ĐỊNH TÍNH] "preVENtive", sau đó mở rộng kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "against SYStem FAIlures" để tạo thành một khối [PHRASE][CỤM] hoàn chỉnh.</li>
 			
 					<li className="list-none">Khối ngoài: [preVENtive against SYStem FAIlures] - [ADjective PHRASE][TÍNH CỤM] gắn liền phía sau [SUBject HEAD][CHỦ LÕI] "iNItiative" nhằm mở rộng ý nghĩa đánh giá chất lượng.</li>
 			
@@ -454,7 +454,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{which GOVerns MARket reguLAtions}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" nối tiếp chuỗi hành động chia thời. Định danh bản chất chức năng của [SUBject HEAD][CHỦ LÕI] "FRAMEwork".</li>
 			
-					<li className="list-none">Khối ngoài: [the FRAMEwork {'{which GOVerns MARket reguLAtions}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the FRAMEwork {'{which GOVerns MARket reguLAtions}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
 			
 				</ul>
 
@@ -468,7 +468,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{EXperts recomMEND}'} - {'{ZEro RELative CLAUSE}'}{'{KHUYẾT QUAN CÂU}'} bỏ qua [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định. Thu gọn không gian biểu đạt để làm rõ đặc điểm đối tượng [SUBject HEAD][CHỦ LÕI] "paRAMeters".</li>
 			
-					<li className="list-none">Khối ngoài: [the paRAMeters {'{EXperts recomMEND}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the paRAMeters {'{EXperts recomMEND}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
 			
 				</ul>
 
@@ -504,7 +504,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li className="list-none">Khối ngoài: [STUdents {'{'}MAStering CORE THEories {'<'}which are reQUIred for adVANCED PLACEment{'>}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ]</li>
+					<li className="list-none">Khối ngoài: [STUdents {'{'}MAStering CORE THEories {'<'}which are reQUIred for adVANCED PLACEment{'>}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ]</li>
 			
 					<li className="list-none">Khối giữa: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [ADjective PHRASE][TÍNH CỤM] bám sát phía sau [SUBject HEAD][CHỦ LÕI] "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
 
@@ -621,7 +621,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>the [PROfitable] inVESTment is YOURS.</li>
 					<li className="margin-bottom-20 list-none">Khoản đầu tư [có lợi nhuận] là của bạn.</li>
 			
-					<li className="list-none">Khối trong: [PROfitable] - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "profit" mặc thêm (kết hợp) hậu tố "-able" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][DIỆN TÍNH] "PROfitable", chuyên trách cài đặt đặc tính sinh lợi cho đối tượng đi kèm.</li>
+					<li className="list-none">Khối trong: [PROfitable] - {'{MODified ADjective}'}{'{ĐỊNH TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "profit" mặc thêm (kết hợp) hậu tố "-able" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][ĐỊNH TÍNH] "PROfitable", chuyên trách cài đặt đặc tính sinh lợi cho đối tượng đi kèm.</li>
 			
 					<li className="list-none">Khối ngoài: [PROfitable] - [ADjective HEAD][TÍNH LÕI] cài đặt đặc tính cố định cho [SUBject HEAD][CHỦ LÕI] "inVESTment".</li>
 			
@@ -653,7 +653,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{STANding THERE}'} - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "STANding". Đóng vai trò [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái hành động đang diễn ra của chủ thể [SUBject HEAD][CHỦ LÕI] "the MAN".</li>
 			
-					<li className="list-none">Khối ngoài: [the MAN {'{STANding THERE}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the MAN {'{STANding THERE}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
 			
 				</ul>
 			
@@ -667,7 +667,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{who is STANding THERE}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} "who" kết hợp [PREDicator][VỊ] "is STANding". Định danh chính xác đối tượng [SUBject HEAD][CHỦ LÕI] "the MAN" thông qua hành động cụ thể đang diễn ra.</li>
 			
-					<li className="list-none">Khối ngoài: [the MAN {'{who is STANding THERE}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the MAN {'{who is STANding THERE}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
 			
 				</ul>
 			
@@ -681,9 +681,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>[the POLicy {'{which is efFECtive}'}] will be apPLIED.</li>
 					<li className="margin-bottom-20 list-none">[Chính sách {'{cái mà hiệu quả}'}] sẽ được áp dụng.</li>
 			
-					<li className="list-none">Khối trong: {'{which is efFECtive}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" kết hợp [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "is" và [MODified ADjective][DIỆN TÍNH] "efFECtive". Vạch rõ bản chất định danh cho đối tượng [SUBject HEAD][CHỦ LÕI] "the POLicy".</li>
+					<li className="list-none">Khối trong: {'{which is efFECtive}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} mở đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] "which" kết hợp [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "is" và [MODified ADjective][ĐỊNH TÍNH] "efFECtive". Vạch rõ bản chất định danh cho đối tượng [SUBject HEAD][CHỦ LÕI] "the POLicy".</li>
 			
-					<li className="list-none">Khối ngoài: [the POLicy {'{which is efFECtive}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the POLicy {'{which is efFECtive}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
 			
 				</ul>
 			
@@ -695,7 +695,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>the [efFECtive] POLicy will be apPLIED.</li>
 					<li className="margin-bottom-20 list-none">Chính sách [hiệu quả] sẽ được áp dụng.</li>
 			
-					<li className="list-none">Khối trong: [efFECtive] - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][DIỆN TÍNH] "efFECtive", chuyên trách cài đặt đặc tính mang lại kết quả cao cho đối tượng đi kèm.</li>
+					<li className="list-none">Khối trong: [efFECtive] - {'{MODified ADjective}'}{'{ĐỊNH TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][ĐỊNH TÍNH] "efFECtive", chuyên trách cài đặt đặc tính mang lại kết quả cao cho đối tượng đi kèm.</li>
 			
 					<li className="list-none">Khối ngoài: [efFECtive] - [ADjective HEAD][TÍNH LÕI] cài đặt nhãn dán thuộc tính cố định, rút gọn thông tin tối đa cho đối tượng [SUBject HEAD][CHỦ LÕI] "POLicy".</li>
 			

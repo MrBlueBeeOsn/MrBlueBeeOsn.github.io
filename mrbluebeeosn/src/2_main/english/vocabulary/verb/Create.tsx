@@ -238,9 +238,9 @@ export default function creATE(): React.JSX.Element {
           <li>[the arTIStic {'{creAtion}'} from the LOcal deSIGner] imPRESSED the AUdience.</li>
           <li className="margin-bottom-20 list-none">[Tác phẩm {'{sáng tạo}'} từ nhà thiết kế địa phương] đã làm ấn tượng khán giả.</li>
       
-          <li className="list-none">Khối trong: {'{creAtion}'} - {'{MODified NOUN}'}{'{DIỆN DANH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [SUBject][CHỦ] định danh thực thể độc lập. [SUBject HEAD][CHỦ LÕI] đảm nhận nhiệm vụ làm thành phần định danh [NOUN HEAD][DANH LÕI] nền tảng đứng đầu câu.</li>
+          <li className="list-none">Khối trong: {'{creAtion}'} - {'{MODified NOUN}'}{'{ĐỊNH DANH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "creAtion" có khả năng định danh thực thể độc lập.</li>
       
-          <li className="list-none">Khối ngoài: [the arTIStic {'{creAtion}'} from the LOcal deSIGner] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+          <li className="list-none">Khối ngoài: [the arTIStic {'{creAtion}'} from the LOcal deSIGner] - [NOUN PHRASE as SUBject][DANH CỤM] là CHỦ] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
       
         </ul>
       
@@ -254,9 +254,9 @@ export default function creATE(): React.JSX.Element {
           <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIres [a {'{creAtive}'} TEAM].</li>
           <li className="margin-bottom-20 list-none">Mỗi bộ phận thiết kế sản phẩm đều yêu cầu [một đội ngũ {'{có tính sáng tạo}'}].</li>
       
-          <li className="list-none">Khối trong: {'{creAtive}'} - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm. [ADjective HEAD][TÍNH LÕI] kích hoạt bộ quét đặt ngay trước đối tượng [MODifier HEAD][ĐỊNH LÕI] "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Khối trong: {'{creAtive}'} - {'{MODified ADjective}'}{'{ĐỊNH TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm. [ADjective HEAD][TÍNH LÕI] kích hoạt bộ quét đặt ngay trước đối tượng [MODifier HEAD][ĐỊNH LÕI] "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
       
-          <li className="list-none">Khối ngoài: [a {'{creAtive}'} TEAM] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+          <li className="list-none">Khối ngoài: [a {'{creAtive}'} TEAM] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
       
         </ul>
       
@@ -270,7 +270,7 @@ export default function creATE(): React.JSX.Element {
           <li>the ARtist SOLVED the PROBlem [{'{creAtively}'} {'{during the PROject}'}].</li>
           <li className="margin-bottom-20 list-none">Nghệ sĩ đã giải quyết vấn đề [{'{một cách sáng tạo}'} {'{trong suốt dự án}'}].</li>
       
-          <li className="list-none">Khối trong: {'{creAtively}'} - {'{MODified ADVERB}'}{'{DIỆN TRẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
+          <li className="list-none">Khối trong: {'{creAtively}'} - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
       
           <li className="list-none">Khối ngoài: [{'{creAtively}'} {'{during the PROject}'}] - [ADjunct 1][PHỤ 1] và [ADjunct 2][PHỤ 2] làm thành phần bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED" để xác định cách thức diễn ra.</li>
       
@@ -292,7 +292,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [CreAting MODern DIGital soLUtions] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CreAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [CreAting MODern DIGital soLUtions] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres DEEP TECHnical KNOWledge" để làm [SUBject][CHỦ] quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Khối ngoài: [CreAting MODern DIGital soLUtions] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres DEEP TECHnical KNOWledge" để làm [SUBject][CHỦ] quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
 
@@ -325,7 +325,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [To creATE susTAINable ENergy SYStems] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval][TO-NGUYÊN] "to creATE" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [To creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước hành động [PRETerite FORM][KHỨ DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu.</li>
+          <li className="list-none">Khối ngoài: [To creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước hành động [PRETerite FORM][KHỨ DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu.</li>
       
         </ul>
 
@@ -357,7 +357,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [to creATE STRONG seCUrity PROtocols] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval][TO-NGUYÊN] "to creATE" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đảm nhận vai trò làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is esSENtial".</li>
+          <li className="list-none">Khối ngoài: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] được hình thành từ [NOUN PHRASE][DANH CỤM] đảm nhận vai trò làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is esSENtial".</li>
       
         </ul>
 
@@ -430,7 +430,7 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADjective PHRASE</strong>][<strong>DIỆN TÍNH CỤM</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADjective PHRASE</strong>][<strong>ĐỊNH TÍNH CỤM</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5e:</p>
       
@@ -439,7 +439,7 @@ export default function creATE(): React.JSX.Element {
           <li>they NEED a STRATegy [creAtive in its exeCUtion].</li>
           <li className="margin-bottom-20 list-none">Họ cần một chiến lược [sáng tạo trong cách thức thực thi].</li>
       
-          <li className="list-none">Khối trong: [creAtive in its exeCUtion] - [MODified ADjective PHRASE][DIỆN TÍNH CỤM] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITion PHRASE][GIỚI CỤM] phía sau.</li>
+          <li className="list-none">Khối trong: [creAtive in its exeCUtion] - [MODified ADjective PHRASE][ĐỊNH TÍNH CỤM] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITion PHRASE][GIỚI CỤM] phía sau.</li>
       
           <li className="list-none">Khối ngoài: [creAtive in its exeCUtion] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau [MODifier HEAD][ĐỊNH LÕI] "STRATegy" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
       
@@ -585,7 +585,7 @@ export default function creATE(): React.JSX.Element {
           <li className="list-none">Khối trong:  [HOW the ARtist creATES uNIQUE SCULPtures] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU]
  chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, mang [SUBject HEAD][CHỦ LÕI] riêng "the ARtist" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Khối ngoài:  [HOW the ARtist creATES uNIQUE SCULPtures] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU làm CHỦ] quản lý khối thông tin quy trình, điều khiển chính cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "FAScinates".</li>
+          <li className="list-none">Khối ngoài:  [HOW the ARtist creATES uNIQUE SCULPtures] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU] quản lý khối thông tin quy trình, điều khiển chính cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "FAScinates".</li>
       
         </ul>
 
@@ -619,7 +619,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{which creATES SOlar ENergy}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [SUBject HEAD][CHỦ LÕI] "ENgine".</li>
       
-          <li className="list-none">Khối ngoài: [the ENgine {'{which creATES SOlar ENergy}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+          <li className="list-none">Khối ngoài: [the ENgine {'{which creATES SOlar ENergy}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
       
         </ul>
       
@@ -670,7 +670,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{she creAted for the CLIent}'} - {'{ZEro RELative CLAUSE}'}{'{KHUYẾT QUAN CÂU}'} đã ẩn thành phần [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] vật thể đứng trước, giữ lại khối [SUBject PROnoun][CHỦ ĐẠI] "she" và cụm [PAST VERB PHRASE][ĐÃ ĐỘNG CỤM] "creAted for the CLIent". Đóng vai trò như bộ quét đặt ngay sau đối tượng [SUBject HEAD][CHỦ LÕI] "the deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
       
-          <li className="list-none">Khối ngoài: [the deSIGN {'{she creAted for the CLIent}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+          <li className="list-none">Khối ngoài: [the deSIGN {'{she creAted for the CLIent}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
       
         </ul>
       
@@ -713,7 +713,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [CreAting soLUtions for {'{WHAT CLIents STRUGgle with}'}] - [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU] lớn phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CreAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [CreAting soLUtions for {'{WHAT CLIents STRUGgle with}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "BUILDS MARket VAlue".</li>
+          <li className="list-none">Khối ngoài: [CreAting soLUtions for {'{WHAT CLIents STRUGgle with}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "BUILDS MARket VAlue".</li>
       
         </ul>
 
@@ -777,7 +777,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [To underSTAND {'{HOW the SYStem creATES AUtomated rePORTS}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [To underSTAND {'{HOW the SYStem creATES AUtomated rePORTS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres TECHnical SKILLS" để quản lý khối đầu việc ở đầu câu.</li>
+          <li className="list-none">Khối ngoài: [To underSTAND {'{HOW the SYStem creATES AUtomated rePORTS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres TECHnical SKILLS" để quản lý khối đầu việc ở đầu câu.</li>
       
         </ul>
 
@@ -841,7 +841,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [to eVAluate {'{HOW the appliCAtion creATES User LOGS}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to eVAluate" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Khối ngoài: [to eVAluate {'{HOW the appliCAtion creATES User LOGS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [SUBject [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "TAKES experTISE".</li>
+          <li className="list-none">Khối ngoài: [to eVAluate {'{HOW the appliCAtion creATES User LOGS}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [SUBject [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "TAKES experTISE".</li>
       
         </ul>
 
@@ -937,7 +937,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong gốc: [CreAting HIGH-IMpact CONtent] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] biểu hiện dưới dạng khối mã mở rộng chứa hành động và đối tượng đi kèm.</li>
       
-          <li className="list-none">Khối ngoài: [CreAting HIGH-IMpact CONtent] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject][CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Khối ngoài: [CreAting HIGH-IMpact CONtent] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] được hình thành từ [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject][CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
       
@@ -951,7 +951,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong mới: [DeVEloping efFECtive proMOtional maTErial] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Khối ngoài mới: [DeVEloping efFECtive proMOtional maTErial] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject][CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" của khối cũ.</li>
+          <li className="list-none">Khối ngoài mới: [DeVEloping efFECtive proMOtional maTErial] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] được hình thành từ [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject][CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" của khối cũ.</li>
       
         </ul>
 
@@ -993,21 +993,21 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong gốc: {'{which creATES interACtive ART PROjects}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [SUBject PRONOUN][CHỦ ĐẠI] "which" và cụm hành động phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [MODifier HEAD][ĐỊNH LÕI] "TEAM".</li>
       
-          <li className="list-none">Khối ngoài: [a TEAM {'{which creATES interACtive ART PROjects}'}] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+          <li className="list-none">Khối ngoài: [a TEAM {'{which creATES interACtive ART PROjects}'}] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về</strong> [<strong>MODified ADjective</strong>][<strong>DIỆN TÍNH</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về</strong> [<strong>MODified ADjective</strong>][<strong>ĐỊNH TÍNH</strong>]</p>
       
         <ul className="list-square">
       
           <li>the STUdio HIred [a {'{creAtive}'} TEAM].</li>
           <li className="margin-bottom-20 list-none">Xưởng phim đã thuê một đội ngũ [sáng tạo].</li>
       
-          <li className="list-none">Khối trong mới: {'{creAtive}'} - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng [MODifier HEAD][ĐỊNH LÕI] "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Khối trong mới: {'{creAtive}'} - {'{MODified ADjective}'}{'{ĐỊNH TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. [ADjective HEAD][TÍNH LÕI] thiết lập vị trí ngay trước đối tượng [MODifier HEAD][ĐỊNH LÕI] "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
-          <li className="list-none">Khối ngoài mới: [a {'{creAtive}'} TEAM] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+          <li className="list-none">Khối ngoài mới: [a {'{creAtive}'} TEAM] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
       
         </ul>
 

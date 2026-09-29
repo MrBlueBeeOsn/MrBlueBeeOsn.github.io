@@ -102,7 +102,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Khối trong: [Running] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản một từ ở dạng V-ing, không có gì kèm theo</li>
 			
-					<li className="list-none">Khối ngoài: [Running] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, là cái được khẳng định là [is fun]</li>
+					<li className="list-none">Khối ngoài: [Running] - [NOUN PHRASE as SUBject][DANH CỤM] đứng đầu câu, là cái được khẳng định là [is fun]</li>
 			
 				</ul>
 			
@@ -216,7 +216,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>He answered [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [chính xác].</li>
 			
-					<li className="list-none">Khối trong: [correctly] - {'{MODified ADVERB}'}{'{DIỆN TRẠNG}'} hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "correct" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none">Khối trong: [correctly] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "correct" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none">Khối ngoài: [correctly] - [ADjunct 1][PHỤ 1] bổ nghĩa cho [ĐỘNG] [answered], cho biết cách thức hành động diễn ra.</li>
 			
@@ -269,7 +269,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Khối trong: [Running] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản một từ V-ing</li>
 			
-					<li className="list-none">Khối ngoài: [Running] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] làm chủ thể của câu, cái được khẳng định là thư giãn</li>
+					<li className="list-none">Khối ngoài: [Running] - [NOUN PHRASE as SUBject][DANH CỤM] làm chủ thể của câu, cái được khẳng định là thư giãn</li>
 			
 				</ul>
 			
@@ -395,7 +395,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">[Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH MẪU] bắt đầu từ [ĐỘNG] nguyên bản một từ V-ing</li>
 
 					<li><strong>Bước 3</strong> – Xác định chức năng của khối đó trong câu.</li>
-					<li className="margin-bottom-20 list-none">[Swimming] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đứng đầu câu, là cái được nói đến</li>
+					<li className="margin-bottom-20 list-none">[Swimming] - [NOUN PHRASE as SUBject][DANH CỤM] đứng đầu câu, là cái được nói đến</li>
 			
 					<li><strong>Bước 4</strong> – Paraphrase bằng cách thay khối cùng chức năng.</li>
 					<li className="margin-bottom-20 list-none">Thay [Swimming] bằng [To swim regularly] (Danh Cụm) hoặc [That you swim often] (Danh Câu). Viết câu mới.</li>

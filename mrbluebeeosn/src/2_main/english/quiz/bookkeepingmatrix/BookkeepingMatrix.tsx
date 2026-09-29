@@ -28,7 +28,7 @@ export default function (): React.JSX.Element {
 				"[NOUN]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [reCORDing tranSACtions] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] consisting of the gerund \"reCORDing\" and its direct object \"tranSACtions\" working together as a structural unit. \n\n Function: [reCORDing tranSACtions] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] is formed from [NOUN PHRASE][DANH CỤM] serving as the complete subject of the sentence to initiate the main verb \"is\"."
+			explanation: "Form: [reCORDing tranSACtions] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] consisting of the gerund \"reCORDing\" and its direct object \"tranSACtions\" working together as a structural unit. \n\n Function: [reCORDing tranSACtions] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] is formed from [NOUN PHRASE][DANH CỤM] serving as the complete subject of the sentence to initiate the main verb \"is\"."
 		},
 		{
 			id: 2,
@@ -68,7 +68,7 @@ export default function (): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [that the COMpany's ANnual REVenue inCREASED] - [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [that the COMpany's ANnual REVenue inCREASED] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU làm CHỦ] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
+			explanation: "Form: [that the COMpany's ANnual REVenue inCREASED] - [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [that the COMpany's ANnual REVenue inCREASED] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
 		},
 		{
 			id: 6,

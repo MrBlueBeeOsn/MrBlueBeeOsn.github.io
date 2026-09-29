@@ -415,11 +415,11 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[The presentation] ... (Bài thuyết trình)</li>
+					<li>[The presentation]... (Bài thuyết trình)</li>
 			
-					<li>[The project] ... (Dự án)</li>
+					<li>[The project]... (Dự án)</li>
 			
-					<li>[The artist] ... (Người nghệ sĩ)</li>
+					<li>[The artist]... (Người nghệ sĩ)</li>
 			
 				</ul>
 

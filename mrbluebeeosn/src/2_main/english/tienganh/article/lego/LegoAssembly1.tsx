@@ -402,12 +402,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[SWIMming] imPROVES PHYSical enDURance.</li>
+					<li>[{'{SWIMming}'}] imPROVES PHYSical enDURance.</li>
 					<li className="margin-bottom-20 list-none">[Việc bơi lội] cải thiện sức bền thể chất.</li>
 
-					<li className="list-none">Khối trong: [SWIMming] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "SWIM" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu đạt một tiến trình hành động được thực hiện hóa.</li>
+					<li className="list-none">Khối trong: {'{SWIMming}'} - {'{GERund-PARTiciple FORM}'}{'{DANH-TÍNH DẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "SWIM" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "SWIMming" biểu đạt một tiến trình hành động được thực hiện hóa.</li>
 
-					<li className="list-none">Khối ngoài: [SWIMming] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đóng vai trò làm [SUBject][CHỦ] kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] imPROVES.</li>
+					<li className="list-none">Khối ngoài: [{'{SWIMming}'}] - [NOUN PHRASE as SUBject][DANH CỤM] kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] imPROVES.</li>
 			
 				</ul>
 
@@ -421,7 +421,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: [TRAINing] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "TRAIN" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu đạt một tiến trình hành động được thực hiện hóa.</li>
 
-					<li className="list-none">Khối ngoài: [TRAINing] - [OBject HEAD ][TÂN LÕI] được hình thành từ [NOUN HEAD][DANH LÕI] tiếp nhận sự chú trọng tác động trực tiếp đứng ngay sau bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] EMphasizes.</li>
+					<li className="list-none">Khối ngoài: [TRAINing] - [OBject HEAD ][TÂN LÕI]  tiếp nhận sự chú trọng tác động trực tiếp đứng ngay sau bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] EMphasizes.</li>
 			
 				</ul>
 
@@ -435,7 +435,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: [deSIGNing SYStem ARchitecture] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] deSIGNing phối hợp với khối định danh mục tiêu SYStem ARchitecture chịu tác động đi liền phía sau để làm rõ đối tượng được thiết kế.</li>
 
-					<li className="list-none">Khối ngoài: [deSIGNing SYStem ARchitecture] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước điều phối hạt nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] reQUIres.</li>
+					<li className="list-none">Khối ngoài: [deSIGNing SYStem ARchitecture] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước điều phối hạt nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] reQUIres.</li>
 			
 				</ul>
 			
@@ -470,7 +470,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối ngoài:</li>
 
-					<li className="list-none">Khối tổng thể [inVESTigating {'{WHY the appliCAtion FAILED}'}] đóng vai trò là [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] để kích hoạt bộ nguồn hành động TAKES phía sau.</li>
+					<li className="list-none">Khối tổng thể [inVESTigating {'{WHY the appliCAtion FAILED}'}] đóng vai trò là [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] để kích hoạt bộ nguồn hành động TAKES phía sau.</li>
 
 					<li className="list-none">Khối nhỏ bên trong {'{WHY the appliCAtion FAILED}'} đóng vai trò là [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] làm phần tiếp nhận tác động trực tiếp chịu sự điều phối nội bộ của hành động InVESTigating.</li>
 			
@@ -509,7 +509,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong:  [HOW the SYStem OPerates] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [ADverb][TRẠNG] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
 
-					<li className="list-none">Khối ngoài:  [HOW the SYStem OPerates] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU làm CHỦ] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] deTERmines.</li>
+					<li className="list-none">Khối ngoài:  [HOW the SYStem OPerates] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] deTERmines.</li>
 			
 				</ul>
 
@@ -547,14 +547,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để mô tả đặc điểm, tính chất hoặc trạng thái cho một đối tượng hoặc cho [SUBject HEAD][CHỦ LÕI].</p>
 
-			<p className="margin-top-20 text-indent-whole" id="ADjective-HEAD">[<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADjective</strong>][<strong>DIỆN TÍNH</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjective-HEAD">[<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADjective</strong>][<strong>ĐỊNH TÍNH</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>THIS is an [INnovative] soLUtion.</li>
 					<li className="margin-bottom-20 list-none">Đây là một giải pháp [mang tính đổi mới].</li>
 
-					<li className="list-none">Khối trong: [INnovative] - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "INnovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng biểu đạt một đặc tính, thuộc tính tĩnh của sự vật.</li>
+					<li className="list-none">Khối trong: [INnovative] - {'{MODified ADjective}'}{'{ĐỊNH TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "INnovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng biểu đạt một đặc tính, thuộc tính tĩnh của sự vật.</li>
 
 					<li className="list-none">Khối ngoài: [INnovative] - [ADjective HEAD][TÍNH LÕI] đứng trước [MODifier HEAD][ĐỊNH LÕI] "soLUtion" để bổ nghĩa và tô màu thuộc tính đặc điểm cho giải pháp.</li>
 			
@@ -619,7 +619,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: {'{which conTAINS the rePORT}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} chứa [SUBject PRONOUN][CHỦ ĐẠI] which đóng vai trò thế cho khối định danh đứng trước, đồng thời làm nhiệm vụ làm [SUBject HEAD][CHỦ LÕI] nội bộ kết hợp liền mạch với hành động conTAINS. Bổ nghĩa trực tiếp để giới hạn và xác định đặc điểm rõ ràng cho [MODifier HEAD][ĐỊNH LÕI] "the FILE".</li>
 
-					<li className="list-none">Khối ngoài: [the FILE {'{which conTAINS the rePORT}'}] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the FILE {'{which conTAINS the rePORT}'}] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
 			
 				</ul>
 
@@ -633,7 +633,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: {'{họ triển khai tháng trước}'} - {'{ZEro RELative CLAUSE}'}{'{KHUYẾT QUAN CÂU}'} có cấu trúc [S]-[HEAD] đầy đủ nhưng đã bị chủ động lược bỏ [OBject PRONOUN][TÂN ĐẠI] which/that ở đầu khối để tăng tốc độ truyền đạt của dòng thông tin. Làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm thuộc tính cho thực thể [SUBject HEAD][CHỦ LÕI] the POLicy.</li>
 
-					<li className="list-none">Khối ngoài: [the POLicy {'{they IMplemented LAST MONTH}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the POLicy {'{they IMplemented LAST MONTH}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
 			
 				</ul>
 
@@ -642,14 +642,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để mở rộng không gian, [Thời] gian, mục đích, cách thức hoặc nguyên nhân cho hành động chính của câu.</p>
 
-			<p className="margin-top-20 text-indent-whole" id="ADjunct-1">[<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADVERB</strong>][<strong>DIỆN TRẠNG</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADjunct-1">[<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADVERB</strong>][<strong>ĐỊNH TRẠNG</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>the seCURity PATCH proTECTS the SYStem [efFECtively].</li>
 					<li className="margin-bottom-20 list-none">Bản vá bảo mật bảo vệ hệ thống [một cách hiệu quả thực tế].</li>
 
-					<li className="list-none">Khối trong: [efFECtively] - {'{MODified ADVERB}'}{'{DIỆN TRẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ nghĩa cách thức, mô hình hóa trạng thái cho hành động.</li>
+					<li className="list-none">Khối trong: [efFECtively] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ nghĩa cách thức, mô hình hóa trạng thái cho hành động.</li>
 
 					<li className="list-none">Khối ngoài: [efFECtively] - [ADjunct 1][PHỤ 1] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động proTECTS.</li>
 			
@@ -770,7 +770,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the PLATform upDATed [SEAMlessly].</li>
 					<li className="margin-bottom-20 list-none">Nền tảng đã cập nhật [một cách mượt mà không gián đoạn].</li>
 			
-					<li className="list-none">Khối trong: [SEAMlessly] - {'{MODified ADVERB}'}{'{DIỆN TRẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "SEAM" mặc thêm (kết hợp) hậu tố "-less" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có vai trò chỉ trạng thái hoàn hảo, không có vết nối.</li>
+					<li className="list-none">Khối trong: [SEAMlessly] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "SEAM" mặc thêm (kết hợp) hậu tố "-less" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có vai trò chỉ trạng thái hoàn hảo, không có vết nối.</li>
 
 					<li className="list-none">Khối ngoài: [SEAMlessly] - [ADjunct 1][PHỤ 1] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động upDATed.</li>
 			

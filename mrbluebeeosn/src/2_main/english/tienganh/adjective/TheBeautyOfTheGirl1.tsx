@@ -46,7 +46,7 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 
 			{/* 1. Bí kíp: Biến "TÍNH LÕI" thành "cái tính của" */}
 			
-			<h3 className="margin-y-50 text-center">1. Bí kíp: Biến "TÍNH LÕI" thành [cái] ... [của] ...</h3>
+			<h3 className="margin-y-50 text-center">1. Bí kíp: Biến "TÍNH LÕI" thành [cái]... [của]...</h3>
 
 			<p>Thay vì cố dịch ngược ADjective lên trước, hãy lập tức biến nó thành một NOUN chỉ <strong>bản chất</strong>. Hãy dùng cấu trúc "cái tính... của..." để tạo ra một dòng chảy mượt mà.</p>
 

@@ -337,12 +337,12 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[exPLORing] BROADens our hoRIzons.</li>
+					<li>[{'{exPLORing}'}] BROADens our hoRIzons.</li>
 					<li className="margin-bottom-20 list-none">[Việc khám phá] mở rộng tầm nhìn của chúng ta.</li>
 
-					<li className="list-none">Khối trong: [exPLORing] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "exPLORE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] thể hiện một hành động đơn lẻ.</li>
+					<li className="list-none">Khối trong: {'{exPLORing}'} - {'{GERund-PARTiciple FORM}'}{'{DANH-TÍNH DẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "exPLORE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "exPLORing" thể hiện một hành động đơn lẻ.</li>
 
-					<li className="list-none">Khối ngoài: [exPLORing] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] được hình thành từ [NOUN HEAD][DANH LÕI] đảm nhận nhiệm vụ làm khối [SUBject][CHỦ] ở đầu câu để định danh cho một hoạt động.</li>
+					<li className="list-none">Khối ngoài: [{'{exPLORing}'}] - [NOUN PHRASE as SUBject][DANH CỤM] đảm nhận nhiệm vụ ở đầu câu để định danh cho một hoạt động.</li>
 			
 				</ul>
 
@@ -384,7 +384,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>she exPLAINED the LAYout [exPRESsively].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã giải thích sơ đồ bố trí [một cách đầy biểu cảm].</li>
 
-					<li className="list-none">Khối trong: [exPRESsively] - {'{MODified ADVERB}'}{'{DIỆN TRẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "exPRESS" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính chất bổ trợ trạng thái.</li>
+					<li className="list-none">Khối trong: [exPRESsively] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "exPRESS" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính chất bổ trợ trạng thái.</li>
 
 					<li className="list-none">Khối ngoài: [exPRESsively] - [ADjunct 1][PHỤ 1] thực thi vai trò bổ nghĩa đứng ngay sau [PREDicator HEAD][VỊ LÕI] "exPLAINED" để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
 			
@@ -406,7 +406,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: [to deSIGN the INterface] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to deSIGN" kéo dài cho đến hết đối tượng của nó.</li>
 
-					<li className="list-none">Khối ngoài: [to deSIGN the INterface] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres creaTIVity" để làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
+					<li className="list-none">Khối ngoài: [to deSIGN the INterface] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "reQUIres creaTIVity" để làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
 			
 				</ul>
 			
@@ -510,7 +510,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				
 						<li className="list-none">Khối trong: [to exPLAIN {'{HOW we deSIGN this PLATform}'}] - [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to exPLAIN" và kéo theo khối CLAUSE con bên trong.</li>
 
-						<li className="list-none">Khối ngoài: [to exPLAIN {'{HOW we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is URgent" để làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
+						<li className="list-none">Khối ngoài: [to exPLAIN {'{HOW we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] đứng sau [THIRD-PERson SINGular VERB PHRASE ][NGÔI 3 S ĐỘNG CỤM] "is URgent" để làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
 				
 					</ul>
 
@@ -639,7 +639,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong:  [HOW they BUILD the SYStem] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [ADverb][TRẠNG] kết nối HOW, có chủ thể "they" và [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] BUILD.</li>
 
-					<li className="list-none">Khối ngoài:  [HOW they BUILD the SYStem] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU làm CHỦ] đảm nhận nhiệm vụ làm khối [SUBject][CHỦ] ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho [PREDicator HEAD][VỊ LÕI] "deTERmines".</li>
+					<li className="list-none">Khối ngoài:  [HOW they BUILD the SYStem] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU] đảm nhận nhiệm vụ ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho [PREDicator HEAD][VỊ LÕI] "deTERmines".</li>
 			
 				</ul>
 
@@ -667,7 +667,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: {'{who is deSIGNing the BUILDing}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} hiện diện dưới dạng khối câu bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] kết nối who, chứa [PREDicator][VỊ] is deSIGNing riêng biệt. Hoạt động như một MODule lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng [SUBject HEAD][CHỦ LÕI] "the ARchitect".</li>
 
-					<li className="list-none">Khối ngoài: [the ARchitect {'{who is deSIGNing the BUILDing}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the ARchitect {'{who is deSIGNing the BUILDing}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
 			
 				</ul>
 			
@@ -715,7 +715,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{i deSIGNED YESterday}'} - {'{ZEro RELative CLAUSE}'}{'{KHUYẾT QUAN CÂU}'} chứa chủ thể "i" và [PRETerite FORM][KHỨ DẠNG] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [OBject PRONOUN][TÂN ĐẠI] định vị nào dẫn đường. Vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng [SUBject HEAD][CHỦ LÕI] "the PLAN" đứng trước.</li>
 			
-					<li className="list-none">Khối ngoài: [the PLAN {'{i deSIGNED YESterday}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">Khối ngoài: [the PLAN {'{i deSIGNED YESterday}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
 			
 				</ul>
 			
@@ -757,7 +757,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [exPLORing OPTions] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] biểu hiện dưới dạng khối mã mở rộng chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] exPLORing và đối tượng đi kèm.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [exPLORing OPTions] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ nền tảng khối [SUBject][CHỦ] để quản lý một đầu việc.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [exPLORing OPTions] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] được hình thành từ [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ nền tảng khối [SUBject][CHỦ] để quản lý một đầu việc.</li>
 			
 				</ul>
 
@@ -769,7 +769,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong mới: [eVALuating METrics] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] xuất hiện dưới dạng khối mở rộng mới chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] eVALuating được đưa vào thế chỗ.</li>
 			
-					<li className="list-none">Khối ngoài mới: [eVALuating METrics] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm khối [SUBject][CHỦ] của khối cũ.</li>
+					<li className="list-none">Khối ngoài mới: [eVALuating METrics] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] được hình thành từ [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm khối [SUBject][CHỦ] của khối cũ.</li>
 			
 				</ul>
 
@@ -810,7 +810,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{which was BUILT in jaPAN}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [MODifier HEAD][ĐỊNH LÕI] "deVICE".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [a deVICE {'{which was BUILT in jaPAN}'}] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [a deVICE {'{which was BUILT in jaPAN}'}] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
 			
 				</ul>
 			
