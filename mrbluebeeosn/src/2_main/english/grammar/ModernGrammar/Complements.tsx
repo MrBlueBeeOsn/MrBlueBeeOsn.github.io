@@ -133,7 +133,7 @@ export default function Complements(): React.JSX.Element {
 			
 					<li>Example: [That he failed] is a pity.</li>
 			
-					<li className="list-none"><strong>The declarative content clause</strong> functions as <strong>the finite clausal subject</strong>.</li>
+					<li className="list-none"><strong>The declarative content clause</strong> functions as a type of <strong>the finite clause as subject</strong>.</li>
 			
 				</ul>
 			
@@ -146,7 +146,7 @@ export default function Complements(): React.JSX.Element {
 			
 					<li>Example: I think [that he is right].</li>
 			
-					<li className="list-none"><strong>The declarative content clause</strong> functions as <strong>the finite clausal complement of the verb</strong> 'think'.</li>
+					<li className="list-none"><strong>The declarative content clause</strong> functions as an instance of <strong>the finite clause as complement</strong> of the verb 'think'.</li>
 			
 				</ul>
 			
@@ -159,10 +159,10 @@ export default function Complements(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Example 1: I wonder [whether he will arrive].</li>
-					<li className="margin-bottom-20 list-none"><strong>The closed interrogative content clause</strong> functions as <strong>the finite clausal complement of the verb</strong> 'wonder'</li>
+					<li className="margin-bottom-20 list-none"><strong>The closed interrogative content clause</strong> functions as an instance of <strong>the finite clause as complement</strong> of the verb 'wonder'.</li>
 			
 					<li>Example 2: She asked [what he bought].</li>
-					<li className="list-none"><strong>The open interrogative content clause</strong> functions as <strong>the finite clausal complement of the verb</strong> 'ask'.</li>
+					<li className="list-none"><strong>The open interrogative content clause</strong> functions as an instance of <strong>the finite clause as complement</strong> of the verb 'ask'.</li>
 			
 				</ul>
 			
@@ -175,7 +175,7 @@ export default function Complements(): React.JSX.Element {
 			
 					<li>Example: I remember [what a great time we had].</li>
 			
-					<li className="list-none"><strong>The exclamative content clause</strong> functions as <strong>the finite clausal complement of the verb</strong> 'remember'.</li>
+					<li className="list-none"><strong>The exclamative content clause</strong> functions as an instance of <strong>the finite clause as complement</strong> of the verb 'remember'.</li>
 			
 				</ul>
 
@@ -225,10 +225,10 @@ export default function Complements(): React.JSX.Element {
 			<ul className="list-square">
 			
 					<li>Relative Clause: for [the thing {'{that happened}'}]</li>
-					<li className="margin-bottom-20 list-none">The <strong>relative clause</strong> functions as a <strong>modifier</strong> within a nominal constituent.</li>
+					<li className="margin-bottom-20 list-none"><strong>The relative clause</strong> functions as an instance of <strong>the clause as modifier</strong> within a nominal constituent.</li>
 
 					<li>Fused Relative Clause: for [what happened].</li>
-					<li className="list-none">The <strong>fused relative construction</strong> functions as a <strong>preposition complement</strong> within the preposition phrase.</li>
+					<li className="list-none">The <strong>fused relative construction</strong> functions as an instance of <strong>the Noun Phrase as complement</strong> within the prepositional phrase.</li>
 			
 				</ul>
 			
@@ -241,7 +241,7 @@ export default function Complements(): React.JSX.Element {
 			
 					<li>Example: She is taller [than he is].</li>
 			
-					<li className="list-none"><strong>The comparative clause</strong> functions as <strong>the clausal complement</strong> to the comparative head element.</li>
+					<li className="list-none"><strong>The comparative clause</strong> functions as an instance of <strong>the clause as complement</strong> of the comparative head element.</li>
 			
 				</ul>
 			
@@ -255,7 +255,7 @@ export default function Complements(): React.JSX.Element {
 			
 					<li>Example: I managed [to open the door].</li>
 			
-					<li className="list-none"><strong>The infinitival clause functions</strong> as <strong>a non-finite clausal complement</strong> — specifically, <strong>a catenative complement of the verb</strong> 'manage'.</li>
+					<li className="list-none"><strong>The infinitival clause</strong> functions as an instance of <strong>the non-finite clause as catenative complement</strong> of the verb 'manage'.</li>
 			
 				</ul>
 			
