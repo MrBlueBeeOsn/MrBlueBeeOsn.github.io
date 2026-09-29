@@ -273,7 +273,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>Ví dụ 2: to OPtimize [to-infiniTIval][TO-NGUYÊN]</li>
 					<li className="margin-bottom-20 list-none">→ to OPtimize the DAtabase [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU].</li>
 			
-					<li>Ví dụ 3: will seCURE [PREDicator][VỊ] + the NETwork [OBject HEAD][TÂN LÕI]</li>
+					<li>Ví dụ 3: will seCURE [PREDicator][VỊ] + the NETwork [COMplement][BỔ]</li>
 					<li className="list-none">→ will seCURE the NETwork [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase].</li>
 			
 				</ul>
@@ -395,7 +395,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Lớp Chức Năng 1: Khối Giao Tiếp [DANH]</h4>
 
-			<p className="text-indent-whole">Khối này chịu trách nhiệm đóng gói các hành động, thực thể thành một cái tên, một đối tượng để làm [SUBject HEAD][CHỦ LÕI] hoặc phần [OBject HEAD][TÂN LÕI] tiếp nhận tác động trong câu.</p>
+			<p className="text-indent-whole">Khối này chịu trách nhiệm đóng gói các hành động, thực thể thành một cái tên, một đối tượng để làm [SUBject HEAD][CHỦ LÕI] hoặc phần [COMplement HEAD][BỔ LÕI] tiếp nhận tác động trong câu.</p>
 			
 
 			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-SUBject">[<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH DẠNG</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
@@ -556,7 +556,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối trong: [INnovative] - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "INnovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng biểu đạt một đặc tính, thuộc tính tĩnh của sự vật.</li>
 
-					<li className="list-none">Khối ngoài: [INnovative] - [ADjective HEAD][TÍNH LÕI] đứng trước [OBject HEAD][TÂN LÕI] soLUtion để bổ nghĩa và tô màu thuộc tính đặc điểm cho giải pháp.</li>
+					<li className="list-none">Khối ngoài: [INnovative] - [ADjective HEAD][TÍNH LÕI] đứng trước [MODifier HEAD][ĐỊNH LÕI] "soLUtion" để bổ nghĩa và tô màu thuộc tính đặc điểm cho giải pháp.</li>
 			
 				</ul>
 			
@@ -617,7 +617,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the SERver adMINistrator seCURED [the FILE {'{which conTAINS the rePORT}'}].</li>
 					<li className="margin-bottom-20 list-none">Quản trị viên máy chủ đã bảo mật [tập tin {'{chứa báo cáo}'}].</li>
 
-					<li className="list-none">Khối trong: {'{which conTAINS the rePORT}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} chứa [SUBject PRONOUN][CHỦ ĐẠI] which đóng vai trò thế cho khối định danh đứng trước, đồng thời làm nhiệm vụ làm [SUBject HEAD][CHỦ LÕI] nội bộ kết hợp liền mạch với hành động conTAINS. Bổ nghĩa trực tiếp để giới hạn và xác định đặc điểm rõ ràng cho [OBject HEAD][TÂN LÕI] the FILE.</li>
+					<li className="list-none">Khối trong: {'{which conTAINS the rePORT}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} chứa [SUBject PRONOUN][CHỦ ĐẠI] which đóng vai trò thế cho khối định danh đứng trước, đồng thời làm nhiệm vụ làm [SUBject HEAD][CHỦ LÕI] nội bộ kết hợp liền mạch với hành động conTAINS. Bổ nghĩa trực tiếp để giới hạn và xác định đặc điểm rõ ràng cho [MODifier HEAD][ĐỊNH LÕI] "the FILE".</li>
 
 					<li className="list-none">Khối ngoài: [the FILE {'{which conTAINS the rePORT}'}] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
 			

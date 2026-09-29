@@ -194,7 +194,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p className=" text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className=" text-indent-whole">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào kéo theo các [OBject HEAD][TÂN LÕI], [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ], [ADverb HEAD][TRẠNG LÕI], [ADjunct][PHỤ], hoặc [ADjunct][PHỤ] phía sau, toàn khối đó tự động chuyển cấu trúc thành [PHRASE][CỤM].</p>
+			<p className=" text-indent-whole">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào kéo theo các [COMplement][BỔ], [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ], [ADverb HEAD][TRẠNG LÕI], hoặc [ADjunct][PHỤ] phía sau, toàn khối đó tự động chuyển cấu trúc thành [PHRASE][CỤM].</p>
 
 			<p className="text-indent-whole margin-top-20">Ví dụ:</p>
 			
@@ -276,7 +276,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [SWIFT] - [ROOT ADjective][GỐC TÍNH] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "SWIFT".</li>
 			
-					<li className="list-none">Khối ngoài: [SWIFT] - [ADjective HEAD][TÍNH LÕI] cài đặt đặc tính cố định cho [OBject HEAD][TÂN LÕI] "SKILLS".</li>
+					<li className="list-none">Khối ngoài: [SWIFT] - [ADjective HEAD][TÍNH LÕI] cài đặt đặc tính cố định cho [MODifier HEAD][ĐỊNH LÕI] "SKILLS".</li>
 			
 				</ul>
 
@@ -290,7 +290,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [INnovative] - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "INnovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang đặc tính mới.</li>
 			
-					<li className="list-none">Khối ngoài: [INnovative] - [ADjective HEAD][TÍNH LÕI] bổ trợ trực tiếp đặc điểm cho [OBject HEAD][TÂN LÕI] "SYStem".</li>
+					<li className="list-none">Khối ngoài: [INnovative] - [ADjective HEAD][TÍNH LÕI] bổ trợ trực tiếp đặc điểm cho [MODifier HEAD][ĐỊNH LÕI] "SYStem".</li>
 			
 				</ul>
 
@@ -304,7 +304,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [inCREAsing] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "inCREASE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu thị tính tiếp diễn.</li>
 			
-					<li className="list-none">Khối ngoài: [inCREAsing] - [ADjective HEAD][TÍNH LÕI] định hình trạng thái động đang phát triển cho [OBject HEAD][TÂN LÕI] "deMAND".</li>
+					<li className="list-none">Khối ngoài: [inCREAsing] - [ADjective HEAD][TÍNH LÕI] định hình trạng thái động đang phát triển cho [MODifier HEAD][ĐỊNH LÕI] "deMAND".</li>
 			
 				</ul>
 
@@ -337,7 +337,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: [CApable of HANdling VAST DAted] - [ROOT ADjective PHRASE][GỐC TÍNH CỤM] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "CApable", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng [prepoSITion PHRASE][GIỚI CỤM] phía sau chứa [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] biến đổi từ lõi hành động sau [prepoSITion][GIỚI] "of".</li>
 			
-					<li className="list-none">Khối ngoài: [CApable of HANdling VAST DAted] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [OBject HEAD][TÂN LÕI] "NETwork" để xác định năng lực, đặc điểm của đối tượng đó.</li>
+					<li className="list-none">Khối ngoài: [CApable of HANdling VAST DAted] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [MODifier HEAD][ĐỊNH LÕI] "NETwork" để xác định năng lực, đặc điểm của đối tượng đó.</li>
 			
 				</ul>
 

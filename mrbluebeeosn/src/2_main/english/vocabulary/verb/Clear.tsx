@@ -271,7 +271,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>we NEED [a {'{CLEAR}'} explaNAtion].</li>
           <li className="margin-bottom-20 list-none">Chúng ta cần [một lời giải thích {'{rõ ràng}'}].</li>
       
-          <li className="list-none">Khối trong: {'{CLEAR}'} - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "CLEAR" khi giữ nguyên trạng thái nhưng chuyển đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm dưới dạng từ đơn lẻ. [ADjective HEAD][TÍNH LÕI] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng [OBject HEAD][TÂN LÕI] "explaNAtion" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Khối trong: {'{CLEAR}'} - {'{MODified ADjective}'}{'{DIỆN TÍNH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "CLEAR" khi giữ nguyên trạng thái nhưng chuyển đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm dưới dạng từ đơn lẻ. [ADjective HEAD][TÍNH LÕI] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng [MODifier HEAD][ĐỊNH LÕI] "explaNAtion" để hiển thị đặc điểm của đối tượng đó.</li>
       
           <li className="list-none">Khối ngoài: [a {'{CLEAR}'} explaNAtion] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       
@@ -408,7 +408,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [CApable of CLEARing BACKground JUNK] - CỤM thành phần bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng GIỚI CỤM phía sau, chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng -ing sau GIỚI.</li>
       
-          <li className="list-none">Khối ngoài: [CApable of CLEARing BACKground JUNK] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [OBject HEAD][TÂN LÕI] "appliCAtion" để quét và xác định năng lực, đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Khối ngoài: [CApable of CLEARing BACKground JUNK] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng [MODifier HEAD][ĐỊNH LÕI] "appliCAtion" để quét và xác định năng lực, đặc điểm của đối tượng đó.</li>
       
         </ul>
       
@@ -739,7 +739,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Khối trong: [a<strong>bout</strong> {'{HOW they CLEAR the seCUrity CHECK}'}] - [prepoSITion PHRASE][GIỚI CỤM] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITion][GIỚI] "a<strong>bout</strong>".</li>
       
-          <li className="list-none">Khối ngoài: [a<strong>bout</strong> {'{HOW they CLEAR the seCUrity CHECK}'}] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ lọc tổng thể đặt ngay phía sau để mô tả đặc điểm nội dung cho [OBject HEAD][TÂN LÕI] "DOUBTS" đứng trước nó.</li>
+          <li className="list-none">Khối ngoài: [a<strong>bout</strong> {'{HOW they CLEAR the seCUrity CHECK}'}] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ lọc tổng thể đặt ngay phía sau để mô tả đặc điểm nội dung cho [MODifier HEAD][ĐỊNH LÕI] "DOUBTS" đứng trước nó.</li>
       
         </ul>
 
@@ -867,7 +867,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>i LIKE [an appliCAtion {'{which CLEARS STORage SMOOTHly}'}].</li>
           <li className="margin-bottom-20 list-none">Tôi thích một ứng dụng [cái mà dọn dẹp dung lượng một cách mượt mà].</li>
       
-          <li className="list-none">Khối trong gốc: {'{which CLEARS STORage SMOOTHly}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "CLEARS". Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [OBject HEAD][TÂN LÕI] "appliCAtion".</li>
+          <li className="list-none">Khối trong gốc: {'{which CLEARS STORage SMOOTHly}'} - {'{RELative CLAUSE}'}{'{QUAN CÂU}'} thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "CLEARS". Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [MODifier HEAD][ĐỊNH LÕI] "appliCAtion".</li>
       
           <li className="list-none">Khối ngoài: [an appliCAtion {'{which CLEARS STORage SMOOTHly}'}] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM].</li>
       

@@ -326,7 +326,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 			<p><strong>Quy tắc cốt lõi</strong>:</p>
 
-			<p className="margin-top-20">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào (thuộc nhóm 16 mục trên) kéo theo các [OBject HEAD][TÂN LÕI], [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ], [ADverb HEAD][TRẠNG LÕI], [ADjunct][PHỤ], hoặc [ADjunct][PHỤ] phía sau, toàn khối đó tự động chuyển đổi cấu trúc nội bộ và tái dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p className="margin-top-20">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào (thuộc nhóm 16 mục trên) kéo theo các [COMplement][BỔ], [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ], [ADverb HEAD][TRẠNG LÕI], hoặc [ADjunct][PHỤ] phía sau, toàn khối đó tự động chuyển đổi cấu trúc nội bộ và tái dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
 			
 				<ul className="list-square">
 			
@@ -336,7 +336,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>Ví dụ 2: to coORdinate [to-infiniTIval][TO-NGUYÊN] + efFIciently [ADverb HEAD][TRẠNG LÕI]</li>
 					<li className="margin-bottom-20 list-none">→ to coORdinate efFIciently [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU].</li>
 			
-					<li>Ví dụ 3: will IMplement [PREDicator][VỊ] + the STRATegy [OBject HEAD][TÂN LÕI]</li>
+					<li>Ví dụ 3: will IMplement [PREDicator][VỊ] + the STRATegy [COMplement][BỔ]</li>
 					<li className="list-none">→ will IMplement the STRATegy [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase].</li>
 			
 				</ul>
@@ -390,7 +390,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Khối trong: Khối [CUStomized] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "CUStomize" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang đặc tính bị động, hoàn tất.</li>
 			
-					<li className="list-none">Khối ngoài: Khối [CUStomized] - [ADjective HEAD][TÍNH LÕI] đứng ngay trước một thực thể [OBject HEAD][TÂN LÕI] "soLUtion" để biểu thị đặc tính và bổ nghĩa cho thực thể đó.</li>
+					<li className="list-none">Khối ngoài: Khối [CUStomized] - [ADjective HEAD][TÍNH LÕI] đứng ngay trước một thực thể [MODifier HEAD][ĐỊNH LÕI] "soLUtion" để biểu thị đặc tính và bổ nghĩa cho thực thể đó.</li>
 			
 				</ul>
 			
@@ -902,7 +902,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>THIS is the SERver ROOM [where the SIGnal PEAKS].</li>
 					<li className="margin-bottom-20">THIS is the [NEW] SERver ROOM.</li>
 			
-					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] hoàn thành chức năng [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước [OBject HEAD][TÂN LÕI] "ROOM".</li>
+					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] hoàn thành chức năng [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước [MODifier HEAD][ĐỊNH LÕI] "ROOM".</li>
 			
 				</ul>
 			
@@ -914,7 +914,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SYStem MONitors [where the SIGnal PEAKS].</li>
 					<li className="margin-bottom-20">the SYStem MONitors [SOMEthing].</li>
 			
-					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] đáp ứng chức năng [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>] đóng vai trò làm [OBject HEAD][TÂN LÕI] trực tiếp đứng sau [PREDicator HEAD][VỊ LÕI] "MONitors".</li>
+					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] đáp ứng chức năng [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>] đóng vai trò làm [FInite CLAUSE as COMplement][CHIA ĐIỀU làm BỔ] trực tiếp đứng sau [PREDicator HEAD][VỊ LÕI] "MONitors".</li>
 			
 				</ul>
 
