@@ -206,6 +206,24 @@
       "content": "The Shift in Syntax: Why Modern Grammar Replaced \"Prepositional Clauses\" with Phrases",
       "slug": "grammar/phrases",
       "date": "2026-09-28"
+    },
+    { 
+      "id": "CatenativeConstructions",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Catenative Constructions",
+      "content": "Syntactic Framework for Catenative Constructions (CGEL 2002 Standard)",
+      "slug": "grammar/catenative-constructions",
+      "date": "2026-09-29"
+    },
+    { 
+      "id": "PrepositionsAndTo",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Prepositions & To",
+      "content": "The Status of Prepositions and \"To\" in The Cambridge Grammar of the English Language (2002)",
+      "slug": "grammar/prepositions-&-to",
+      "date": "2026-09-29"
     }
   ]
 }

@@ -135,6 +135,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Cambridge2002Framework = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Cambridge2002Framework'));
 	const Complements = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Complements'));
 	const Phrases = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Phrases'));
+	const CatenativeConstructions = lazy(() => import('@/2_main/english/grammar/ModernGrammar/CatenativeConstructions'));
+	const PrepositionsAndTo = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Prepositions&To'));
 
 
 	// Quiz
@@ -781,6 +783,9 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/cambridge-2002-framework" element={<Cambridge2002Framework />} />
 					<Route path="/grammar/complements" element={<Complements />} />
 					<Route path="/grammar/phrases" element={<Phrases />} />
+					<Route path="/grammar/catenative-constructions" element={<CatenativeConstructions />} />
+					<Route path="/grammar/prepositions-&-to" element={<PrepositionsAndTo />} />
+					
 
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />

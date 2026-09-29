@@ -157,6 +157,18 @@ export default function GrammarIndex(): React.JSX.Element {
               </div>
             </li>
 
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/catenative-constructions">Catenative Constructions</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/prepositions-&-to">Prepositions & To</Link>
+              </div>
+            </li>
+
           </ul>
 
         </div>

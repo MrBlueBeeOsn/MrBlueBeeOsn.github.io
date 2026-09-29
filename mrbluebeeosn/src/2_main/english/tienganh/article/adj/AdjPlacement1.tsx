@@ -130,7 +130,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li className="list-none">[<strong>TRANsitive PrepoSITion</strong>][<strong>NGOẠI GIỚI</strong>]: to</li>
 					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] cho [prepoSITion][GIỚI] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
 					
-					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>][<strong>NỘI GIỚI</strong>]: OUT, IN, WITH, BACK</li>
+					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>][<strong>NỘI GIỚI</strong>] - [<strong>PARTicles</strong>][<strong>HẠT</strong>]: OUT, IN, WITH, BACK</li>
 					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion][NỘI GIỚI] như aWAY, BACK, FORTH, THROUGH đơn lẻ đứng sau hành động để tạo ra hướng di chuyển hoặc chuyển hóa trạng thái không gian của hành động đó. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
 
           <li value="3">[<strong>non-MOdal auXILiary VERB</strong>][<strong>PHI-THÁI TRỢ ĐỘNG</strong>]: is, was, does</li>

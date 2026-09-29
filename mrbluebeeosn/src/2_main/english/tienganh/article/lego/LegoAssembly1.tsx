@@ -193,7 +193,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="list-none">[<strong>TRANsitive PrepoSITion</strong>][<strong>NGOẠI GIỚI</strong>]: to</li>
 					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] cho [prepoSITion][GIỚI] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
 					
-					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>][<strong>NỘI GIỚI</strong>]: OUT, IN, WITH, BACK</li>
+					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>][<strong>NỘI GIỚI</strong>] - [<strong>PARTicles</strong>][<strong>HẠT</strong>]: OUT, IN, WITH, BACK</li>
 					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion][NỘI GIỚI] như aWAY, BACK, FORward, Over, ... đơn lẻ đứng sau hành động để điều hướng hướng đi, khuếch đại thái độ hoặc biến đổi hoàn toàn sắc thái ý nghĩa của hành động gốc. Ví dụ: pasS <strong>aWAY</strong>, paY <strong>BACK</strong>, briNG <strong>FORward</strong>, taKE <strong>Over</strong>, turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
 
           <li value="3">[<strong>non-MOdal auXILiary VERB</strong>][<strong>PHI-THÁI TRỢ ĐỘNG</strong>]: does, did, is, has, was, am, are</li>
