@@ -15,7 +15,7 @@ export default function SuperWords5(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#SUBject-PREDicator-OBject-ADjunct"><mark className="highlight-tertiary-padding-4-8">[SUBject][PREDicator][OBject][ADjunct]</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#SUBject-PREDicator-COMplement-ADjunct"><mark className="highlight-tertiary-padding-4-8">[SUBject][PREDicator][COMplement][ADjunct]</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">[SUper VERB]
 												
