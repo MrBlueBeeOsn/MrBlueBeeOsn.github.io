@@ -240,7 +240,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{creAtion}'} - {'{MODified NOUN}'}{'{ĐỊNH DANH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "creAtion" có khả năng định danh thực thể độc lập.</li>
       
-          <li className="list-none">Khối ngoài: [the arTIStic {'{creAtion}'} from the LOcal deSIGner] - [NOUN PHRASE as SUBject][DANH CỤM] là CHỦ] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+          <li className="list-none">Khối ngoài: [the arTIStic {'{creAtion}'} from the LOcal deSIGner] - [NOUN PHRASE as SUBject][DANH CỤM] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu. Kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "from the LOcal deSIGner" bổ nghĩa cho [NOUN HEAD][DANH LÕI] "creAtion"</li>
       
         </ul>
       

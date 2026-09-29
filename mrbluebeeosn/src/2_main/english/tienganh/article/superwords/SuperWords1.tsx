@@ -338,7 +338,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{OPtimizing}'} – {'{GERund-PARTiciple FORM}'}{'{DANH-TÍNH DẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "OPtimize" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "OPtimizing" hoạt động độc lập.</li>
 			
-					<li className="list-none">Khối ngoài: [{'{OPtimizing}'}] – [NOUN PHRASE as SUBject][DANH CỤM] là CHỦ] đang đứng vị trí khởi đầu để cho toàn câu lớn.</li>
+					<li className="list-none">Khối ngoài: [{'{OPtimizing}'}] – [NOUN PHRASE as SUBject][DANH CỤM] đang đứng vị trí khởi đầu để cho toàn câu lớn.</li>
 			
 				</ul>
 

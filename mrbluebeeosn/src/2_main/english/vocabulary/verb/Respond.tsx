@@ -240,7 +240,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none">Khối trong: {'{reSPONSE}'} - {'{MODified NOUN}'}{'{ĐỊNH DANH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "reSPOND" biến đổi cấu trúc đuôi "-se" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "reSPONSE" có khả năng định danh thực thể độc lập.</li>
 			
-					<li className="list-none">Khối ngoài: [the RAPid {'{reSPONSE}'} from the supPORT TEAM] - [NOUN PHRASE as SUBject][DANH CỤM] là CHỦ] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+					<li className="list-none">Khối ngoài: [the RAPid {'{reSPONSE}'} from the supPORT TEAM] - [NOUN PHRASE as SUBject][DANH CỤM] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
 			
 				</ul>
 			

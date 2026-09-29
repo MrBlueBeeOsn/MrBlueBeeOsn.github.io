@@ -257,7 +257,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none">Khối trong: {'{CLARity}'} - {'{MODified NOUN}'}{'{ĐỊNH DANH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "CLEAR" biến đổi thành "CLAR" mặc thêm hậu tố "-ity" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "CLARity", tạo thành một thực thể định danh độc lập.</li>
       
-          <li className="list-none">Khối ngoài: [the {'{CLARity}'} of this inSTRUCTion] - [NOUN PHRASE as SUBject][DANH CỤM] là CHỦ] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu, để làm định danh cho một đặc tính/sự việc.</li>
+          <li className="list-none">Khối ngoài: [the {'{CLARity}'} of this inSTRUCTion] - [NOUN PHRASE as SUBject][DANH CỤM] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu, để làm định danh cho một đặc tính/sự việc.</li>
       
         </ul>
       
