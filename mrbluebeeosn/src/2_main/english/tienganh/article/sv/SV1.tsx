@@ -321,16 +321,18 @@ export default function SV1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Đơn vị hành động nhỏ nhất gồm 1 yếu tố gốc.</p>
 
-			<ul className="list-square" id="non-FInite-CLAUSEasSUBject-1">
-			
-					<li>[{'{WRIting ...}'}] SHARPens the INtellect.</li>
-					<li className="margin-bottom-20 list-none">[Việc viết lách] mài sắc trí tuệ.</li>
-			
-					<li className="list-none">Khối trong: {'{WRIting ...}'} - {'{GERund-PARTiciple CLAUSE}'}{'{DANH-TÍNH ĐIỀU}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "WRITE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [VERB HEAD][ĐỘNG LÕI] "WRIting". Bạn có thể mở rộng câu bằng một [ADverb][TRẠNG] {'{WRIting DAIly}'} "Viết hàng ngày" hoặc một [COMplement][BỔ] {'{WRIting ESsays}'} "Viết tiểu luận".</li>
-			
-					<li className="margin-bottom-20 list-none">Chức năng: [{'{WRIting ...}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng ở đầu cho toàn câu.</li>
-			
-				</ul>
+
+			<ol id="non-FInite-CLAUSEasSUBject-1">
+      
+          <li className="list-none">[WRIting ...] SHARPens the INtellect.</li>
+          <li className="margin-bottom-20 list-none">[Việc viết lách ...] mài sắc trí tuệ.</li>
+          
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [WRIting ...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng ở đầu cho toàn câu.</li>
+          
+          <li value="2" className="margin-bottom-50"><strong>Khối trong</strong>: [...] - [ADverb as post-MODifier][TRẠNG làm HẬU-CHỈNH] "DAIly" - "hàng ngày" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "WRIting" hoặc bạn có thể mở rộng câu bằng một [NOUN PHRASE as COMplement] "ESsays" - "tiểu luận".</li>
+      
+        </ol>
+
 
 				<ul className="list-square" id="NOUN-PHRASE-as-COMplement">
 			
