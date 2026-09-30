@@ -250,16 +250,18 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 1: /ˈklærəti/</p>
       
-        <ul className="list-square">
+        <ol>
       
-          <li>[the {'{CLARity}'} of this inSTRUCTion] HELPED EVERyone.</li>
-          <li className="margin-bottom-20 list-none">[{'{Sự rõ ràng}'} của lời hướng dẫn này] đã giúp đỡ mọi người.</li>
+          <li className="list-none">[the CLARity of this inSTRUCTion] HELPED EVERyone.</li>
+          <li className="margin-bottom-20 list-none">[Sự rõ ràng của lời hướng dẫn này] đã giúp đỡ mọi người.</li>
+    
+          <li value="1" className="margin-bottom-10"><strong>Khối trong</strong>: [this inSTRUCTion] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [prepoSITion][GIỚI] "of".</li>
+
+          <li value="2" className="margin-bottom-10"><strong>Khối giữa</strong>: [of this inSTRUCTion] - [prepoSITion PHRASE as MODifier][GIỚI CỤM làm CHỈNH] của [HEAD NOUN][LÕI DANH] "CLARity".</li>
       
-          <li className="list-none">Khối trong: {'{CLARity}'} - {'{MODified NOUN}'}{'{ĐỊNH DANH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "CLEAR" biến đổi thành "CLAR" mặc thêm hậu tố "-ity" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "CLARity", tạo thành một thực thể định danh độc lập.</li>
+          <li value="3" className="margin-bottom-10"><strong>Khối ngoài</strong>: [the CLARity of this inSTRUCTion] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [SENtence][CÂU] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu, để làm định danh cho một đặc tính/sự việc.</li>
       
-          <li className="list-none">Khối ngoài: [the {'{CLARity}'} of this inSTRUCTion] - [NOUN PHRASE as SUBject][DANH CỤM] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu, để làm định danh cho một đặc tính/sự việc.</li>
-      
-        </ul>
+        </ol>
       
       
       <p className="margin-top-20 text-indent-whole" id="ADjective-HEAD"><strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
@@ -315,7 +317,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as COMplement</strong>][<strong>CHƯA-CHIA ĐIỀU làm BỔ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as COMplement</strong>][<strong>CHƯA-CHIA ĐIỀU làm BỔ</strong>] <strong>làm</strong> [<strong>COMplement</strong>][<strong>BỔ</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-COMplement">Ví dụ 4b: </p>
       
@@ -606,7 +608,7 @@ export default function CLEAR(): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole">Ở phân hệ này, các thành phần liên kết đã được người bản ngữ chủ động lược bỏ để tối ưu tốc độ truyền tải thông tin. Về diện mạo vật lý, khối mã này nhìn hoàn toàn giống như một hệ con độc lập có đầy đủ cặp bài trùng [SUBject HEAD][CHỦ LÕI] và [PREDicator HEAD][VỊ LÕI], tuy nhiên chức năng của nó vẫn là chức năng phụ thuộc và vẫn sinh ra đầy đủ 3 đầu ra: Danh, Tính, Trạng.</p>
 
 
-      <p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-COMplement"><strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as COMplement</strong>][<strong>BỊ-CHIA ĐIỀU làm BỔ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-COMplement"><strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as COMplement</strong>][<strong>BỊ-CHIA ĐIỀU làm BỔ</strong>] <strong>làm</strong> [<strong>COMplement</strong>][<strong>BỔ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11a:</p>
       
