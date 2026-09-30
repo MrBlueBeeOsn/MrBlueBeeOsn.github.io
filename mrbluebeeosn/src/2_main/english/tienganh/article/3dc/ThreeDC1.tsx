@@ -53,7 +53,7 @@ export default function ThreeDC1(): React.ReactElement {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#NOUN-PHRASE-as-SUBject">NOUN PHRASE as SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-1">non-FInite CLAUSE as SUBject 1</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#NOUN-PHRASE-as-COMplement">NOUN PHRASE as COMplement</HashLink>
 					</span> &nbsp;
 
@@ -69,12 +69,12 @@ export default function ThreeDC1(): React.ReactElement {
 
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#non-FInite-CLAUsal-SUBject">non-FInite CLAUsal SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-2">non-FInite CLAUSE as SUBject 2</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#non-FInite-CLAUsal-COMplement">non-FInite CLAUsal COMplement</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#non-FInite-CLAUsal-SUBject-2">non-FInite CLAUsal SUBject 2</HashLink>
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-3">non-FInite CLAUSE as SUBject 3</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -353,16 +353,16 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Là đơn vị hành động hạt nhân nhỏ nhất, chỉ gồm đúng 1 từ. Vị trí đứng trong khối sẽ quyết định chức năng của khối hành động này:</p>
 
 
-			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-SUBject"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-1"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>[{'{JOGging}'}] STRENGTHens the HEART.</li>
+					<li>[{'{JOGging...}'}] STRENGTHens the HEART.</li>
 					<li className="margin-bottom-20 list-none">[Việc chạy bộ] làm khỏe cơ tim.</li>
 			
-					<li className="list-none">Khối trong: Khối {'{JOGging}'} - {'{GERund-PARTiciple FORM}'}{'{[DANH-TÍNH DẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "JOG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [DANH HEAD][DANH LÕI] "JOGging" đại diện cho một hành động biểu hiện khối cô đọng.</li>
+					<li className="list-none">Khối trong: Khối {'{JOGging...}'} - {'{GERund-PARTiciple CLAUSE}'}{'{[DANH-TÍNH ĐIỀU}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "JOG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối hành động "JOGging" có thể kết hợp thêm trạng {'{JOGging DAIly}'}.</li>
 			
-					<li className="list-none">Khối ngoài: Khối [{'{JOGging}'}] - [NOUN PHRASE as SUBject][DANH CỤM] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "STRENGTHens".</li>
+					<li className="list-none">Khối ngoài: Khối [{'{JOGging...}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "STRENGTHens".</li>
 			
 				</ul>
 
@@ -414,7 +414,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="text-indent-whole">Là một khối hành động chứa nhiều từ kết hợp với nhau nhưng chưa có cấu trúc câu phức tạp hoàn chỉnh. Khối [CLAUSE][ĐIỀU] này sẽ đảm nhận các vai trò:</p>
 
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-SUBject"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-2"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -442,7 +442,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-SUBject-2"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-3"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			

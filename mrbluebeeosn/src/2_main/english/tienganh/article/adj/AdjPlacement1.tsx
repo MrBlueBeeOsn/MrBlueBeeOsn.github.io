@@ -57,7 +57,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#non-FInite-CLAUsal-SUBject-2">non-FInite CLAUsal SUBject 2</HashLink>
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-3">non-FInite CLAUSE as SUBject 3</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -326,7 +326,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center" id="non-FInite-CLAUsal-SUBject-2">4. Chức năng [ADjective PHRASE][TÍNH CỤM]</h3>
+			<h3 className="margin-y-50 text-center" id="non-FInite-CLAUSE-as-SUBject-3">4. Chức năng [ADjective PHRASE][TÍNH CỤM]</h3>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>ROOT ADjective PHRASE</strong>][<strong>GỐC TÍNH CỤM</strong>] <strong>nguyên bản</strong></p>
 			

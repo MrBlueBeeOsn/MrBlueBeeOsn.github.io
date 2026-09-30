@@ -40,12 +40,12 @@ export default function reSPOND(): React.JSX.Element {
 
 					<p className="example-sentence text-center">
 						<span className="highlight-255-padding-0-4 text-border" >
-							<HashLink smooth to="#non-FInite-CLAUsal-SUBject">non-FInite CLAUsal SUBject</HashLink>&nbsp;/&nbsp;
+							<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-2">non-FInite CLAUSE as SUBject 2</HashLink>&nbsp;/&nbsp;
 							<HashLink smooth to="#non-FInite-CLAUsal-COMplement">non-FInite CLAUsal COMplement</HashLink>
 						</span> &nbsp;
 
 						<span className="highlight-255-padding-0-4 text-border">
-							<HashLink smooth to="#non-FInite-CLAUsal-SUBject-2">non-FInite CLAUsal SUBject 2</HashLink>
+							<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-3">non-FInite CLAUSE as SUBject 3</HashLink>
 						</span> &nbsp;
 
 						<span className="highlight-255-padding-0-4 text-border">
@@ -281,7 +281,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole"><strong>2.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-SUBject">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-2">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole">Ví dụ 4a:</p>
 			
@@ -362,7 +362,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-SUBject-2"><strong>2.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-3"><strong>2.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 
 			
 			<p className="margin-top-20 text-indent-whole">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>đang diễn ra</strong>, <strong>chủ động</strong>:</p>

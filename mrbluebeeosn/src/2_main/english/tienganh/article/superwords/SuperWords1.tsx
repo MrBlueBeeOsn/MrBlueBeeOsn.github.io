@@ -69,12 +69,12 @@ export default function SuperWords1(): React.JSX.Element {
 
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#non-FInite-CLAUsal-SUBject">non-FInite CLAUsal SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-2">non-FInite CLAUSE as SUBject 2</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#non-FInite-CLAUsal-COMplement">non-FInite CLAUsal COMplement</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#non-FInite-CLAUsal-SUBject-2">non-FInite CLAUsal SUBject 2</HashLink>
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-3">non-FInite CLAUSE as SUBject 3</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -393,7 +393,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Áp dụng quy tắc cốt lõi, đây là khối hành động mở rộng chứa nhiều chữ phối hợp bọc lót cho nhau nhưng chưa tạo thành một câu con hoàn chỉnh. Chức năng của [ĐỘNG CỤM][Verb Phrase] sẽ được quyết định dựa vào vị trí đứng trong câu lớn:</p>
 
-			<p className="margin-top-20" id="non-FInite-CLAUsal-SUBject"><strong>Ví dụ 1a</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+			<p className="margin-top-20" id="non-FInite-CLAUSE-as-SUBject-2"><strong>Ví dụ 1a</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -421,7 +421,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20" id="non-FInite-CLAUsal-SUBject-2"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20" id="non-FInite-CLAUSE-as-SUBject-3"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			

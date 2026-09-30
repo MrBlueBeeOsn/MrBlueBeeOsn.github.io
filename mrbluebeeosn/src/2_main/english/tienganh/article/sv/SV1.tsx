@@ -69,12 +69,12 @@ export default function SV1(): React.JSX.Element {
 
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#non-FInite-CLAUsal-SUBject">non-FInite CLAUsal SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-2">non-FInite CLAUSE as SUBject 2</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#non-FInite-CLAUsal-COMplement">non-FInite CLAUsal COMplement</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#non-FInite-CLAUsal-SUBject-2">non-FInite CLAUsal SUBject 2</HashLink>
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-3">non-FInite CLAUSE as SUBject 3</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -372,7 +372,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Đơn vị hành động chứa nhiều yếu tố kết hợp, cấu trúc không chứa hệ trục [SUBject HEAD][CHỦ LÕI] - [PREDicator HEAD][VỊ LÕI]. Khi các dạng [HEAD][LÕI] kết hợp với thành phần phụ trợ sau nó, chúng dán nhãn thành dạng cụm tương ứng:</p>
 
-			<ul className="list-square" id="non-FInite-CLAUsal-SUBject">
+			<ul className="list-square" id="non-FInite-CLAUSE-as-SUBject-2">
 			
 					<li>[LEARNing a New LANguage] reQUIres PAtience.</li>
 					<li className="margin-bottom-20 list-none">[Việc học một ngôn ngữ mới] đòi hỏi sự kiên nhẫn.</li>
@@ -395,7 +395,7 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 			
 			
-				<ul className="list-square" id="non-FInite-CLAUsal-SUBject-2">
+				<ul className="list-square" id="non-FInite-CLAUSE-as-SUBject-3">
 			
 					<li>the CHILDren [PLAYing in the PARK] are LAUGHing.</li>
 					<li className="margin-bottom-20 list-none">Những đứa trẻ [đang chơi trong công viên] đang cười.</li>

@@ -53,7 +53,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#NOUN-PHRASE-as-SUBject">NOUN PHRASE as SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-1">non-FInite CLAUSE as SUBject 1</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#NOUN-PHRASE-as-COMplement">NOUN PHRASE as COMplement</HashLink>
 					</span> &nbsp;
 
@@ -61,7 +61,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#non-FInite-CLAUsal-SUBject">non-FInite CLAUsal SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-2">non-FInite CLAUSE as SUBject 2</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#non-FInite-CLAUsal-COMplement">non-FInite CLAUsal COMplement</HashLink>
 					</span> &nbsp;
 
@@ -81,7 +81,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#non-FInite-CLAUsal-SUBject-2">non-FInite CLAUsal SUBject 2</HashLink>
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-3">non-FInite CLAUSE as SUBject 3</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -398,16 +398,16 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="text-indent-whole">Khối này chịu trách nhiệm đóng gói các hành động, thực thể thành một cái tên, một đối tượng để làm [SUBject HEAD][CHỦ LÕI] hoặc phần [COMplement HEAD][BỔ LÕI] tiếp nhận tác động trong câu.</p>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-SUBject">[<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH DẠNG</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-1">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH DẠNG</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>[{'{SWIMming}'}] imPROVES PHYSical enDURance.</li>
+					<li>[{'{SWIMming...}'}] imPROVES PHYSical enDURance.</li>
 					<li className="margin-bottom-20 list-none">[Việc bơi lội] cải thiện sức bền thể chất.</li>
 
-					<li className="list-none">Khối trong: {'{SWIMming}'} - {'{GERund-PARTiciple FORM}'}{'{DANH-TÍNH DẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "SWIM" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "SWIMming" biểu đạt một tiến trình hành động được thực hiện hóa.</li>
+					<li className="list-none">Khối trong: {'{SWIMming...}'} - {'{GERund-PARTiciple CLAUSE}'}{'{DANH-TÍNH ĐIỀU}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "SWIM" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [VERB][ĐỘNG] "SWIMming". Nó duy trì các thuộc tính động hơn là thuộc tính danh và có thể mang theo trạng. Ví dụ: [{'{SWIMming REGularly}'}] - {'{GERund-PARTiciple CLAUSE}'}</li>
 
-					<li className="list-none">Khối ngoài: [{'{SWIMming}'}] - [NOUN PHRASE as SUBject][DANH CỤM] kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] imPROVES.</li>
+					<li className="list-none">Khối ngoài: [{'{SWIMming...}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] imPROVES.</li>
 			
 				</ul>
 
@@ -426,7 +426,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-SUBject">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-2">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -561,7 +561,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-SUBject-2">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-3">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]:</p>
 			
 				<ul className="list-square">
 			
