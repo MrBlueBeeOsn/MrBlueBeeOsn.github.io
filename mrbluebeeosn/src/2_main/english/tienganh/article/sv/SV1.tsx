@@ -53,7 +53,7 @@ export default function SV1(): React.JSX.Element {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#NOUN-PHRASE-as-SUBject">NOUN PHRASE as SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#non-FInite-CLAUSEasSUBject-1">non-FInite CLAUSE as SUBject 1</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#NOUN-PHRASE-as-COMplement">NOUN PHRASE as COMplement</HashLink>
 					</span> &nbsp;
 
@@ -321,14 +321,14 @@ export default function SV1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Đơn vị hành động nhỏ nhất gồm 1 yếu tố gốc.</p>
 
-			<ul className="list-square" id="NOUN-PHRASE-as-SUBject">
+			<ul className="list-square" id="non-FInite-CLAUSEasSUBject-1">
 			
-					<li>[{'{WRIting}'}] SHARPens the INtellect.</li>
+					<li>[{'{WRIting ...}'}] SHARPens the INtellect.</li>
 					<li className="margin-bottom-20 list-none">[Việc viết lách] mài sắc trí tuệ.</li>
 			
-					<li className="list-none">Khối trong: {'{WRIting}'} - {'{GERund-PARTiciple FORM}'}{'{DANH-TÍNH DẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "WRITE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "WRIting", đóng vai trò làm hạt nhân hành động đơn lẻ cho cấu trúc câu.</li>
+					<li className="list-none">Khối trong: {'{WRIting ...}'} - {'{GERund-PARTiciple CLAUSE}'}{'{DANH-TÍNH ĐIỀU}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "WRITE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [VERB HEAD][ĐỘNG LÕI] "WRIting". Bạn có thể mở rộng câu bằng một [ADverb][TRẠNG] {'{WRIting DAIly}'} "Viết hàng ngày" hoặc một [COMplement][BỔ] {'{WRIting ESsays}'} "Viết tiểu luận".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [{'{WRIting}'}] - [NOUN PHRASE as SUBject][DANH CỤM] đứng ở đầu cho toàn câu.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [{'{WRIting ...}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng ở đầu cho toàn câu.</li>
 			
 				</ul>
 

@@ -229,7 +229,7 @@ export default function creATE(): React.JSX.Element {
       
       <h4 className="margin-y-40">1. Phân hệ [PREDicator HEAD][VỊ LÕI]</h4>
           
-      <p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-SUBject"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-SUBject"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 1: [creAtion] \crē Ā tion\ /kriːˈeɪʃn/</p>
       

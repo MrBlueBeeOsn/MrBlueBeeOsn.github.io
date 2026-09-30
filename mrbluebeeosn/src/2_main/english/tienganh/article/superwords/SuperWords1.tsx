@@ -53,7 +53,7 @@ export default function SuperWords1(): React.JSX.Element {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#NOUN-PHRASE-as-SUBject">NOUN PHRASE as SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-1">non-FInite CLAUSE as SUBject-1</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#NOUN-PHRASE-as-COMplement">NOUN PHRASE as COMplement</HashLink>
 					</span> &nbsp;
 
@@ -329,21 +329,21 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái [ĐỘNG][VERB], chức năng của nó sẽ được quyết định bởi vị trí đứng:</p>
 
-			<p className="margin-top-20" id="NOUN-PHRASE-as-SUBject"><strong>Ví dụ 1a</strong>: [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+			<p className="margin-top-20" id="non-FInite-CLAUSE-as-SUBject-1"><strong>Ví dụ 1a</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>[{'{OPtimizing}'}] reQUIres inTENSE FOcus.</li>
+					<li>[{'{OPtimizing...}'}] reQUIres inTENSE FOcus.</li>
 					<li className="margin-bottom-20 list-none">[Việc tối ưu hóa] đòi hỏi sự tập trung cao độ.</li>
 			
-					<li className="list-none">Khối trong: {'{OPtimizing}'} – {'{GERund-PARTiciple FORM}'}{'{DANH-TÍNH DẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "OPtimize" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "OPtimizing" hoạt động độc lập.</li>
+					<li className="list-none">Khối trong: {'{OPtimizing...}'} – {'{GERund-PARTiciple CLAUSE}'}{'{DANH-TÍNH ĐIỀU}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "OPtimize" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [VERB HEAD][ĐỘNG LÕI] "OPtimizing". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể tự nhiên có [COMplement][BỔ] theo sau. Ví dụ: {'{OPtimizing the CODE}'} hoặc [ADverb][TRẠNG] {'{OPtimizing conTINuously}'}.</li>
 			
-					<li className="list-none">Khối ngoài: [{'{OPtimizing}'}] – [NOUN PHRASE as SUBject][DANH CỤM] đang đứng vị trí khởi đầu để cho toàn câu lớn.</li>
+					<li className="list-none">Khối ngoài: [{'{OPtimizing...}'}] – [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đang đứng vị trí khởi đầu để cho toàn câu lớn.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20" id="NOUN-PHRASE-as-COMplement"><strong>Ví dụ 1b</strong>: [<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>] <strong>làm</strong> [<strong>COMplement</strong>][<strong>BỔ</strong>]</p>
+			<p className="margin-top-20" id="NOUN-PHRASE-as-COMplement"><strong>Ví dụ 1b</strong>: [<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -393,7 +393,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Áp dụng quy tắc cốt lõi, đây là khối hành động mở rộng chứa nhiều chữ phối hợp bọc lót cho nhau nhưng chưa tạo thành một câu con hoàn chỉnh. Chức năng của [ĐỘNG CỤM][Verb Phrase] sẽ được quyết định dựa vào vị trí đứng trong câu lớn:</p>
 
-			<p className="margin-top-20" id="non-FInite-CLAUSE-as-SUBject-2"><strong>Ví dụ 1a</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+			<p className="margin-top-20" id="non-FInite-CLAUSE-as-SUBject-2"><strong>Ví dụ 1a</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -407,7 +407,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20" id="non-FInite-CLAUsal-COMplement"><strong>Ví dụ 1b</strong>: [<strong>non-FInite CLAUSE as COMplement</strong>][<strong>CHƯA-CHIA ĐIỀU làm BỔ</strong>] <strong>làm</strong> [<strong>COMplement</strong>][<strong>BỔ</strong>]</p>
+			<p className="margin-top-20" id="non-FInite-CLAUsal-COMplement"><strong>Ví dụ 1b</strong>: [<strong>non-FInite CLAUSE as COMplement</strong>][<strong>CHƯA-CHIA ĐIỀU làm BỔ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -498,7 +498,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái [CONtent CLAUSE][NỘI ĐIỀU], ta xác định chức năng dựa trên khuôn mẫu như sau:</p>
 
-			<p className="margin-top-20" id="FInite-CLAUsal-SUBject"><strong>Ví dụ 1a</strong>: [<strong>FInite CLAUSE as SUBject</strong>][<strong>BỊ-CHIA ĐIỀU làm CHỦ</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+			<p className="margin-top-20" id="FInite-CLAUsal-SUBject"><strong>Ví dụ 1a</strong>: [<strong>FInite CLAUSE as SUBject</strong>][<strong>BỊ-CHIA ĐIỀU làm CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -512,7 +512,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20" id="FInite-CLAUsal-COMplement"><strong>Ví dụ 1b</strong>: [<strong>FInite CLAUSE as COMplement</strong>][<strong>BỊ-CHIA ĐIỀU làm BỔ</strong>] <strong>làm</strong> [<strong>COMplement</strong>][<strong>BỔ</strong>]</p>
+			<p className="margin-top-20" id="FInite-CLAUsal-COMplement"><strong>Ví dụ 1b</strong>: [<strong>FInite CLAUSE as COMplement</strong>][<strong>BỊ-CHIA ĐIỀU làm BỔ</strong>]</p>
 			
 				<ul className="list-square">
 			

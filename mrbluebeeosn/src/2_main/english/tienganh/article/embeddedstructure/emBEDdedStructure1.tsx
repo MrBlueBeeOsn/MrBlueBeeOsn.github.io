@@ -53,7 +53,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 										
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#NOUN-PHRASE-as-SUBject">NOUN PHRASE as SUBject</HashLink>&nbsp;/&nbsp;
+						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-1">non-FInite CLAUSE as SUBject 1</HashLink>&nbsp;/&nbsp;
 						<HashLink smooth to="#NOUN-PHRASE-as-COMplement">NOUN PHRASE as COMplement</HashLink>
 					</span> &nbsp;
 
@@ -333,16 +333,16 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý gốc của nó thuộc 1 trong 16 loại cấu trúc [HEAD][LÕI]. Khi đặt vào câu, chính hình thái này sẽ hình thành nên các chức năng độc lập:</p>
 
 
-			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-SUBject"><strong>Ví dụ 1.1</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-1"><strong>Ví dụ 1.1</strong>: <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>[{'{exPLORing}'}] BROADens our hoRIzons.</li>
-					<li className="margin-bottom-20 list-none">[Việc khám phá] mở rộng tầm nhìn của chúng ta.</li>
+					<li>[{'{exPLORing ...}'}] BROADens our hoRIzons.</li>
+					<li className="margin-bottom-20 list-none">[{'{Việc khám phá ...}'}] mở rộng tầm nhìn của chúng ta.</li>
 
-					<li className="list-none">Khối trong: {'{exPLORing}'} - {'{GERund-PARTiciple FORM}'}{'{DANH-TÍNH DẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "exPLORE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "exPLORing" thể hiện một hành động đơn lẻ.</li>
+					<li className="list-none">Khối trong: {'{exPLORing}'} - {'{GERund-PARTiciple FORM}'}{'{DANH-TÍNH DẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "exPLORE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [VERB HEAD][ĐỘNG LÕI] "exPLORing". Bạn có thể mở rộng câu bằng một [ADverb][TRẠNG] {'{exPLORing FREEly}'} "Việc khám phá tự do" hoặc một [COMplement][BỔ] {'{exPLORing the WORLD}'} "Việc khám phá thế giới".</li>
 
-					<li className="list-none">Khối ngoài: [{'{exPLORing}'}] - [NOUN PHRASE as SUBject][DANH CỤM] đảm nhận nhiệm vụ ở đầu câu để định danh cho một hoạt động.</li>
+					<li className="list-none">Khối ngoài: [{'{exPLORing}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đảm nhận nhiệm vụ ở đầu câu để định danh cho một hoạt động.</li>
 			
 				</ul>
 
