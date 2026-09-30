@@ -233,16 +233,20 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 1: [creAtion] \crē Ā tion\ /kriːˈeɪʃn/</p>
       
-        <ul className="list-square">
+        <ol>
       
-          <li>[the arTIStic {'{creAtion}'} from the LOcal deSIGner] imPRESSED the AUdience.</li>
-          <li className="margin-bottom-20 list-none">[Tác phẩm {'{sáng tạo}'} từ nhà thiết kế địa phương] đã làm ấn tượng khán giả.</li>
+          <li className="list-none">[the arTIStic creAtion from the LOcal deSIGner] imPRESSED the AUdience.</li>
+          <li className="margin-bottom-20 list-none">[Tác phẩm sáng tạo từ nhà thiết kế địa phương] đã làm ấn tượng khán giả.</li>
+          
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [the arTIStic creAtion from the LOcal deSIGner] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [SENtence][CÂU] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+    
+          <li value="2" className="margin-bottom-10"><strong>Khối giữa</strong> (<strong>Trước</strong>): [arTIStic] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD NOUN][LÕI DANH] "creAtion".</li>
+
+					<li value="2" className="margin-bottom-10"><strong>Khối giữa</strong> (<strong>Sau</strong>): [from the LOcal deSIGner] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [HEAD NOUN][LÕI DANH] "creAtion".</li>
+          
+          <li value="3" className="margin-bottom-50"><strong>Khối trong</strong>: [the LOcal deSIGner] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [prepoSITion][GIỚI] "from".</li>
       
-          <li className="list-none">Khối trong: {'{creAtion}'} - {'{MODified NOUN}'}{'{ĐỊNH DANH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "creAtion" có khả năng định danh thực thể độc lập.</li>
-      
-          <li className="list-none">Khối ngoài: [the arTIStic {'{creAtion}'} from the LOcal deSIGner] - [NOUN PHRASE as SUBject][DANH CỤM] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu. Kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "from the LOcal deSIGner" bổ nghĩa cho [NOUN HEAD][DANH LÕI] "creAtion"</li>
-      
-        </ul>
+        </ol>
       
       
       <p className="margin-top-20 text-indent-whole" id="ADjective-HEAD"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>

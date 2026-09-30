@@ -233,16 +233,20 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">Ví dụ 1: [reSPONSE] \re SPONSE\ /rɪˈspɒns/</p>
 			
-				<ul className="list-square">
-			
-					<li>[the RAPid {'{reSPONSE}'} from the supPORT TEAM] imPRESSED the CUStomers.</li>
-					<li className="margin-bottom-20 list-none">[Sự {'{phản hồi}'} nhanh chóng từ đội ngũ hỗ trợ] đã làm ấn tượng các khách hàng.</li>
-			
-					<li className="list-none">Khối trong: {'{reSPONSE}'} - {'{MODified NOUN}'}{'{ĐỊNH DANH}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "reSPOND" biến đổi cấu trúc đuôi "-se" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "reSPONSE" có khả năng định danh thực thể độc lập.</li>
-			
-					<li className="list-none">Khối ngoài: [the RAPid {'{reSPONSE}'} from the supPORT TEAM] - [NOUN PHRASE as SUBject][DANH CỤM] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
-			
-				</ul>
+				<ol>
+      
+          <li className="list-none">[the RAPid reSPONSE from the supPORT TEAM] imPRESSED the CUStomers.</li>
+          <li className="margin-bottom-20 list-none">[Sự phản hồi nhanh chóng từ đội ngũ hỗ trợ] đã làm ấn tượng các khách hàng.</li>
+          
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [the RAPid reSPONSE from the supPORT TEAM] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [SENtence][CÂU] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+    
+          <li value="2" className="margin-bottom-10"><strong>Khối giữa</strong> (<strong>Trước</strong>): [RAPid] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD NOUN][LÕI DANH] "reSPONSE".</li>
+
+					<li value="2" className="margin-bottom-10"><strong>Khối giữa</strong> (<strong>Sau</strong>): [from the supPORT TEAM] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [HEAD NOUN][LÕI DANH] "reSPONSE".</li>
+          
+          <li value="3" className="margin-bottom-50"><strong>Khối trong</strong>: [the supPORT TEAM] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [prepoSITion][GIỚI] "from".</li>
+      
+        </ol>
 			
 			
 			<p className="margin-top-20 text-indent-whole" id="ADjective-HEAD"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
