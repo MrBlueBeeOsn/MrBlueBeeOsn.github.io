@@ -88,9 +88,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>[Swimming] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] thì tốt cho sức khỏe.</li>
 			
-					<li className="list-none">Khối trong: [Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Khối ngoài: [Swimming] – [NOUN HEAD][DANH LÕI] đứng ở vị trí chỉ toàn bộ sự việc làm trung tâm cho câu</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Swimming] – [NOUN HEAD][DANH LÕI] đứng ở vị trí chỉ toàn bộ sự việc làm trung tâm cho câu</li>
 			
 				</ul>
 
@@ -102,9 +102,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She wants [to learn English].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy muốn [học tiếng Anh].</li>
 			
-					<li className="list-none">Khối trong: [to learn English] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [ĐỘNG] ở dạng nguyên mẫu có to</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to learn English] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [ĐỘNG] ở dạng nguyên mẫu có to</li>
 			
-					<li className="list-none">Khối ngoài: [to learn English] – [NOUN PHRASE][DANH CỤM] nhận tác động từ Head wants</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to learn English] – [NOUN PHRASE][DANH CỤM] nhận tác động từ Head wants</li>
 			
 				</ul>
 
@@ -116,9 +116,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>I remember [what you told me].</li>
 					<li className="margin-bottom-20 list-none">Tôi nhớ [những gì bạn đã nói với tôi].</li>
 			
-					<li className="list-none">Khối trong: [what you told me] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] có you làm trung tâm và [ĐỘNG] told</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [what you told me] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] có you làm trung tâm và [ĐỘNG] told</li>
 			
-					<li className="list-none">Khối ngoài: [what you told me] – [NOUN CLAUSE][DANH ĐIỀU] làm phần được remember tác động đến</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [what you told me] – [NOUN CLAUSE][DANH ĐIỀU] làm phần được remember tác động đến</li>
 			
 				</ul>
 
@@ -135,9 +135,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She has a [sparkling] personality.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một tính cách [lấp lánh].</li>
 			
-					<li className="list-none">Khối trong: [sparkling] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [sparkling] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Khối ngoài: [sparkling] – [ADjective HEAD][TÍNH LÕI] bổ sung ý nghĩa cho [DANH] personality</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [sparkling] – [ADjective HEAD][TÍNH LÕI] bổ sung ý nghĩa cho [DANH] personality</li>
 			
 				</ul>
 
@@ -149,9 +149,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>The soup tastes [absolutely delicious].</li>
 					<li className="margin-bottom-20 list-none">Món súp có vị [ngon tuyệt].</li>
 			
-					<li className="list-none">Khối trong: [absolutely delicious] – [ADjective PHRASE][TÍNH CỤM] gồm [TRẠNG] absolutely và [TÍNH] delicious</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [absolutely delicious] – [ADjective PHRASE][TÍNH CỤM] gồm [TRẠNG] absolutely và [TÍNH] delicious</li>
 			
-					<li className="list-none">Khối ngoài: [absolutely delicious] – [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái của The soup sau Head tastes</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [absolutely delicious] – [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái của The soup sau Head tastes</li>
 			
 				</ul>
 
@@ -163,9 +163,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>The laptop [that I bought yesterday] is already broken.</li>
 					<li className="margin-bottom-20 list-none">Chiếc máy tính [mà tôi đã mua hôm qua] thì đã hỏng.</li>
 			
-					<li className="list-none">Khối trong: [that I bought yesterday] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] có I và [ĐỘNG] bought</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that I bought yesterday] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] có I và [ĐỘNG] bought</li>
 			
-					<li className="list-none">Khối ngoài: [that I bought yesterday] – [ADjective CLAUSE][TÍNH ĐIỀU] bổ sung thông tin cho [DANH] The laptop</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [that I bought yesterday] – [ADjective CLAUSE][TÍNH ĐIỀU] bổ sung thông tin cho [DANH] The laptop</li>
 			
 				</ul>
 
@@ -182,9 +182,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He answered [politely].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [một cách lịch sự].</li>
 			
-					<li className="list-none">Khối trong: [politely] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [politely] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none">Khối ngoài: [politely] – [ADverb HEAD][TRẠNG LÕI] làm rõ cách thức cho [ĐỘNG] answered</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [politely] – [ADverb HEAD][TRẠNG LÕI] làm rõ cách thức cho [ĐỘNG] answered</li>
 			
 				</ul>
 
@@ -198,9 +198,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She studies [to pass the exam].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy học [để vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Khối trong: [to pass the exam] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] nguyên mẫu chỉ mục đích</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to pass the exam] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] nguyên mẫu chỉ mục đích</li>
 			
-					<li className="list-none">Khối ngoài: [to pass the exam] – [ADjunct][PHỤ] bổ nghĩa cho việc studies nêu mục đích</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADjunct][PHỤ] bổ nghĩa cho việc studies nêu mục đích</li>
 			
 				</ul>
 
@@ -212,9 +212,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>I will stay home [because it is raining].</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ ở nhà [bởi vì trời đang mưa].</li>
 			
-					<li className="list-none">Khối trong: [because it is raining] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] có it và [ĐỘNG] is raining</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [because it is raining] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] có it và [ĐỘNG] is raining</li>
 			
-					<li className="list-none">Khối ngoài: [because it is raining] – [ADjunct][PHỤ] giải thích nguyên nhân cho hành động will stay home</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it is raining] – [ADjunct][PHỤ] giải thích nguyên nhân cho hành động will stay home</li>
 			
 				</ul>
 		
@@ -232,11 +232,11 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He [forgot {'{that she needed the document}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [đã quên {'{rằng cô ấy cần tài liệu}'}].</li>
 			
-					<li className="list-none">Khối trong tổng thể: [forgot {'{that she needed the document}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] tầng ngoài [PRETerite FORM][KHỨ DẠNG] forgot</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> tổng thể: [forgot {'{that she needed the document}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] tầng ngoài [PRETerite FORM][KHỨ DẠNG] forgot</li>
 					<li className="margin-bottom-20 list-none">Hình thái bên trong: {'{that she needed the document}'} – [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] tầng trong</li>
 
-					<li className="list-none">Khối ngoài của khối trong: {'{that she needed the document}'} – [NOUN CLAUSE][DANH ĐIỀU]</li>
-					<li className="list-none">Khối ngoài của khối ngoài: [forgot {'{that she needed the document}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ là khối mở rộng sau He</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> của khối trong: {'{that she needed the document}'} – [NOUN CLAUSE][DANH ĐIỀU]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> của khối ngoài: [forgot {'{that she needed the document}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ là khối mở rộng sau He</li>
 			
 				</ul>
 			
