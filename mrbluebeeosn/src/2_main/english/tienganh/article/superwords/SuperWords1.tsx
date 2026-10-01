@@ -330,17 +330,17 @@ export default function SuperWords1(): React.JSX.Element {
 			<p>Khi nhìn thấy hình thái [ĐỘNG][VERB], chức năng của nó sẽ được quyết định bởi vị trí đứng:</p>
 
 			<p className="margin-top-20" id="non-FInite-CLAUSE-as-SUBject-1"><strong>Ví dụ 1a</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]</p>
-			
-				<ul className="list-square">
-			
-					<li>[{'{OPtimizing...}'}] reQUIres inTENSE FOcus.</li>
-					<li className="margin-bottom-20 list-none">[Việc tối ưu hóa] đòi hỏi sự tập trung cao độ.</li>
-			
-					<li className="list-none">Khối trong: {'{OPtimizing...}'} – {'{GERund-PARTiciple CLAUSE}'}{'{DANH-TÍNH ĐIỀU}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "OPtimize" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [VERB HEAD][ĐỘNG LÕI] "OPtimizing". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể tự nhiên có [COMplement][BỔ] theo sau. Ví dụ: {'{OPtimizing the CODE}'} hoặc [ADverb][TRẠNG] {'{OPtimizing conTINuously}'}.</li>
-			
-					<li className="list-none">Khối ngoài: [{'{OPtimizing...}'}] – [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đang đứng vị trí khởi đầu để cho toàn câu lớn.</li>
-			
-				</ul>
+
+				<ol>
+      
+          <li className="list-none">[OPtimizing ...] reQUIres inTENSE FOcus.</li>
+          <li className="margin-bottom-20 list-none">[Việc tối ưu hóa] đòi hỏi sự tập trung cao độ.</li>
+          
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [OPtimizing ...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng vị trí khởi đầu để cho toàn câu lớn.</li>
+          
+          <li value="2" className="margin-bottom-50"><strong>Khối trong</strong>: [...] - [ADverb as post-MODifier][TRẠNG làm HẬU-CHỈNH] "efFICiently" - "hiệu quả" hay "conTINuously" - "liên tục" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "OPtimizing". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the DAtabase" - "cơ sở dữ liệu" hay "the CODE" - "mã nguồn"</li>
+      
+        </ol>
 
 			
 			<p className="margin-top-20" id="NOUN-PHRASE-as-COMplement"><strong>Ví dụ 1b</strong>: [<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>]</p>

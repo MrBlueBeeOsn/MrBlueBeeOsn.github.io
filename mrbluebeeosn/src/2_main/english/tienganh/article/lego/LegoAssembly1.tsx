@@ -399,17 +399,17 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 
 			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-1">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH DẠNG</strong>] <strong>làm</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>[{'{SWIMming...}'}] imPROVES PHYSical enDURance.</li>
-					<li className="margin-bottom-20 list-none">[Việc bơi lội] cải thiện sức bền thể chất.</li>
 
-					<li className="list-none">Khối trong: {'{SWIMming...}'} - {'{GERund-PARTiciple CLAUSE}'}{'{DANH-TÍNH ĐIỀU}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "SWIM" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [VERB][ĐỘNG] "SWIMming". Nó duy trì các thuộc tính động hơn là thuộc tính danh và có thể mang theo trạng. Ví dụ: [{'{SWIMming REGularly}'}] - {'{GERund-PARTiciple CLAUSE}'}</li>
-
-					<li className="list-none">Khối ngoài: [{'{SWIMming...}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] imPROVES.</li>
-			
-				</ul>
+				<ol>
+      
+          <li className="list-none">[SWIMming ...] imPROVES PHYSical enDURance.</li>
+          <li className="margin-bottom-20 list-none">[Việc bơi lội] cải thiện sức bền thể chất.</li>
+          
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [SWIMming ...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES".</li>
+          
+          <li value="2" className="margin-bottom-50"><strong>Khối trong</strong>: [...] - [ADverb as post-MODifier][TRẠNG làm HẬU-CHỈNH] "REGularly" - "thường xuyên" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "OPtimizing". Là một [inTRANsitive VERB][NỘI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [COMplement][BỔ] về vị trí hay hướng "in the POOL" - "trong hồ bơi".</li>
+      
+        </ol>
 
 			
 			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-COMplement">[<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH DẠNG</strong>] <strong>làm</strong> [<strong>COMplement</strong>][<strong>BỔ</strong>]:</p>
