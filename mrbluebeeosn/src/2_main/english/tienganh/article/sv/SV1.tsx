@@ -327,9 +327,9 @@ export default function SV1(): React.JSX.Element {
           <li className="list-none">[WRIting ...] SHARPens the INtellect.</li>
           <li className="margin-bottom-20 list-none">[Việc viết lách ...] mài sắc trí tuệ.</li>
           
-          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [WRIting ...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng ở đầu cho toàn câu.</li>
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [WRIting ...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng vị trí khởi đầu cho toàn câu lớn, kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SHARPens".</li>
           
-          <li value="2" className="margin-bottom-50"><strong>Khối trong</strong>: [...] - [ADverb as post-MODifier][TRẠNG làm HẬU-CHỈNH] "DAIly" - "hàng ngày" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "WRIting". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "ESsays" - "tiểu luận".</li>
+          <li value="2" className="margin-bottom-50"><strong>Khối trong</strong>: [...] - [ADverb as ADjunct][TRẠNG làm PHỤ] "DAIly" - "hàng ngày" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "WRIting". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "ESsays" - "tiểu luận".</li>
       
         </ol>
 

@@ -255,7 +255,7 @@ export default function CLEAR(): React.JSX.Element {
           <li className="list-none">[the CLARity of this inSTRUCTion] HELPED EVERyone.</li>
           <li className="margin-bottom-20 list-none">[Sự rõ ràng của lời hướng dẫn này] đã giúp đỡ mọi người.</li>
           
-          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [the CLARity of this inSTRUCTion] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [SENtence][CÂU] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu, để làm định danh cho một đặc tính/sự việc.</li>
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [the CLARity of this inSTRUCTion] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [SENtence][CÂU] đứng vị trí khởi đầu cho toàn câu lớn, kích hoạt và cung cấp năng lượng cho bộ nguồn [PRETerite FORM][KHỨ DẠNG] "HELPED".</li>
     
           <li value="2" className="margin-bottom-10"><strong>Khối giữa</strong>: [of this inSTRUCTion] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [HEAD NOUN][LÕI DANH] "CLARity".</li>
           

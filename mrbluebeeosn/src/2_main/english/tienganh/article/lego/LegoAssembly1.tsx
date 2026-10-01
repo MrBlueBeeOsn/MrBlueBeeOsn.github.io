@@ -407,7 +407,7 @@ export default function LegoAssembly1(): React.JSX.Element {
           
           <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [SWIMming ...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES".</li>
           
-          <li value="2" className="margin-bottom-50"><strong>Khối trong</strong>: [...] - [ADverb as post-MODifier][TRẠNG làm HẬU-CHỈNH] "REGularly" - "thường xuyên" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "OPtimizing". Là một [inTRANsitive VERB][NỘI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [COMplement][BỔ] về vị trí hay hướng "in the POOL" - "trong hồ bơi".</li>
+          <li value="2" className="margin-bottom-50"><strong>Khối trong</strong>: [...] - [ADverb as ADjunct][TRẠNG làm PHỤ] "REGularly" - "thường xuyên" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "SWIMming". Là một [inTRANsitive VERB][NỘI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] về vị trí hay hướng "in the POOL" - "trong hồ bơi".</li>
       
         </ol>
 

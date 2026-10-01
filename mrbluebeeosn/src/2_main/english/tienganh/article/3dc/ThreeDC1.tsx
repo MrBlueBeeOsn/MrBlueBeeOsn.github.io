@@ -354,15 +354,26 @@ export default function ThreeDC1(): React.ReactElement {
 
 
 			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-1"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
+
+				<ol>
+      
+          <li className="list-none">[JOGging ...] STRENGTHens the HEART.</li>
+          <li className="margin-bottom-20 list-none">[Việc chạy bộ ...] làm khỏe cơ tim.</li>
+          
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [JOGging ...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "STRENGTHens".</li>
+          
+          <li value="2" className="margin-bottom-50"><strong>Khối trong</strong>: [...] - [ADverb as ADjunct][TRẠNG làm PHỤ] "outDOORS" - "ngoài trời" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "JOGging". Là một [inTRANsitive VERB][NỘI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một  [PrepoSIion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] "in the MORNing" của "JOGging". Hoặc [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] "FREquent" - "thường xuyên" của "JOBging".</li>
+      
+        </ol>
 			
 				<ul className="list-square">
 			
-					<li>[{'{JOGging...}'}] STRENGTHens the HEART.</li>
-					<li className="margin-bottom-20 list-none">[Việc chạy bộ] làm khỏe cơ tim.</li>
+					<li>[JOGging ...] STRENGTHens the HEART.</li>
+					<li className="margin-bottom-20 list-none">[Việc chạy bộ ...] làm khỏe cơ tim.</li>
 			
 					<li className="list-none">Khối trong: Khối {'{JOGging...}'} - {'{GERund-PARTiciple CLAUSE}'}{'{[DANH-TÍNH ĐIỀU}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "JOG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối hành động "JOGging" có thể kết hợp thêm trạng {'{JOGging DAIly}'}.</li>
 			
-					<li className="list-none">Khối ngoài: Khối [{'{JOGging...}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "STRENGTHens".</li>
+					<li className="list-none">Khối ngoài: Khối [{'{JOGging...}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] </li>
 			
 				</ul>
 

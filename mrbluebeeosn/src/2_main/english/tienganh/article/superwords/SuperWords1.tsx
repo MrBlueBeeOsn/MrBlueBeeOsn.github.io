@@ -336,9 +336,9 @@ export default function SuperWords1(): React.JSX.Element {
           <li className="list-none">[OPtimizing ...] reQUIres inTENSE FOcus.</li>
           <li className="margin-bottom-20 list-none">[Việc tối ưu hóa] đòi hỏi sự tập trung cao độ.</li>
           
-          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [OPtimizing ...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng vị trí khởi đầu để cho toàn câu lớn.</li>
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [OPtimizing ...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng vị trí khởi đầu cho toàn câu lớn, kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres".</li>
           
-          <li value="2" className="margin-bottom-50"><strong>Khối trong</strong>: [...] - [ADverb as post-MODifier][TRẠNG làm HẬU-CHỈNH] "efFICiently" - "hiệu quả" hay "conTINuously" - "liên tục" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "OPtimizing". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the DAtabase" - "cơ sở dữ liệu" hay "the CODE" - "mã nguồn"</li>
+          <li value="2" className="margin-bottom-50"><strong>Khối trong</strong>: [...] - [ADverb as ADjunct][TRẠNG làm PHỤ] "efFICiently" - "hiệu quả" hay "conTINuously" - "liên tục" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "OPtimizing". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the DAtabase" - "cơ sở dữ liệu" hay "the CODE" - "mã nguồn".</li>
       
         </ol>
 

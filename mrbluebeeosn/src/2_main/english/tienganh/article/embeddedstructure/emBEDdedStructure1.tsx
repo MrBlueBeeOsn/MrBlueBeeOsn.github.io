@@ -334,17 +334,17 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 
 			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-1"><strong>Ví dụ 1.1</strong>: <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>[{'{exPLORing ...}'}] BROADens our hoRIzons.</li>
-					<li className="margin-bottom-20 list-none">[{'{Việc khám phá ...}'}] mở rộng tầm nhìn của chúng ta.</li>
 
-					<li className="list-none">Khối trong: {'{exPLORing}'} - {'{GERund-PARTiciple FORM}'}{'{DANH-TÍNH DẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "exPLORE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [VERB HEAD][ĐỘNG LÕI] "exPLORing". Bạn có thể mở rộng câu bằng một [ADverb][TRẠNG] {'{exPLORing FREEly}'} "Việc khám phá tự do" hoặc một [COMplement][BỔ] {'{exPLORing the WORLD}'} "Việc khám phá thế giới".</li>
-
-					<li className="list-none">Khối ngoài: [{'{exPLORing}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đảm nhận nhiệm vụ ở đầu câu để định danh cho một hoạt động.</li>
-			
-				</ul>
+				<ol>
+      
+          <li className="list-none">[exPLORing ...] BROADens our hoRIzons.</li>
+          <li className="margin-bottom-20 list-none">[Việc khám phá ...] mở rộng tầm nhìn của chúng ta.</li>
+          
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [exPLORing ...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "BROADens".</li>
+          
+          <li value="2" className="margin-bottom-50"><strong>Khối trong</strong>: [...] - [ADverb as ADjunct][TRẠNG làm PHỤ] "FREEly" - "tự do", "mindfully" - "một cách có ý thức" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "exPLORing". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the WORLD" - "thế giới", "new CULtures" - "các nền văn hóa mới".</li>
+      
+        </ol>
 
 			
 			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-COMplement"><strong>Ví dụ 1.2</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>] <strong>làm khối</strong> [<strong>COMplement</strong>][<strong>BỔ</strong>]:</p>

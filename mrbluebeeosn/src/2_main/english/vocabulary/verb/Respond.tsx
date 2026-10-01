@@ -238,7 +238,7 @@ export default function reSPOND(): React.JSX.Element {
           <li className="list-none">[the RAPid reSPONSE from the supPORT TEAM] imPRESSED the CUStomers.</li>
           <li className="margin-bottom-20 list-none">[Sự phản hồi nhanh chóng từ đội ngũ hỗ trợ] đã làm ấn tượng các khách hàng.</li>
           
-          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [the RAPid reSPONSE from the supPORT TEAM] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [SENtence][CÂU] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [the RAPid reSPONSE from the supPORT TEAM] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [SENtence][CÂU] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu, kích hoạt và cung cấp năng lượng cho bộ nguồn [PRETerite FORM][KHỨ DẠNG] "imPRESSED".</li>
     
           <li value="2" className="margin-bottom-10"><strong>Khối giữa</strong> (<strong>Trước</strong>): [RAPid] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD NOUN][LÕI DANH] "reSPONSE".</li>
 

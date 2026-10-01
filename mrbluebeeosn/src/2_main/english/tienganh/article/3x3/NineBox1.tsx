@@ -305,17 +305,17 @@ export default function NineBox1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi đứng vào các vị trí khác nhau trong câu lớn, các khối hình thái cấp độ này sẽ hình thành nên các chức năng tương ứng:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-1"><strong>Hình thành Chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>[{'{conFIGuring ...}'}] reQUIres PROper forMATting RULES.</li>
-					<li className="margin-bottom-20 list-none">[Việc cấu DẠNG] yêu cầu các quy tắc định dạng phù hợp.</li>
-			
-					<li className="list-none">Khối trong: {'{conFIGuring ...}'} - {'{GERund-PARTiciple FORM}'}{'{DANH-TÍNH DẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] "conFIGure" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối [NOUN HEAD][DANH LÕI] "conFIGuring". Bạn có thể mở rộng câu bằng một [ADverb][TRẠNG] {'{conFIGuring corRECTly}'} "Cấu hình đúng" hoặc một [COMplement][BỔ] {'{conFIGuring the SYStem}'} "Cấu hình hệ thống".</li>
-			
-					<li className="list-none">Khối ngoài: [{'{conFIGuring}'}] – [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] chịu trách nhiệm thực thi câu lớn.</li>
-			
-				</ul>
+
+				<ol>
+      
+          <li className="list-none">[conFIGuring ...] reQUIres PROper forMATting RULES.</li>
+          <li className="margin-bottom-20 list-none">[Việc cấu DẠNG] yêu cầu các quy tắc định dạng phù hợp.</li>
+          
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [conFIGuring ...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chịu trách nhiệm thực thi câu lớn, kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres".</li>
+          
+          <li value="2" className="margin-bottom-50"><strong>Khối trong</strong>: [...] - [ADverb as ADjunct][TRẠNG làm PHỤ] "corRECTly" - "đúng", "MANually" - "thủ công" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "conFIGuring". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the SYStem" - "hệ thống", "the SOFTware" - "phần mềm".</li>
+      
+        </ol>
 			
 				
 			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-COMplement"><strong>Hình thành Chức năng</strong> [<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>]:</p>

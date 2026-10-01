@@ -238,7 +238,7 @@ export default function creATE(): React.JSX.Element {
           <li className="list-none">[the arTIStic creAtion from the LOcal deSIGner] imPRESSED the AUdience.</li>
           <li className="margin-bottom-20 list-none">[Tác phẩm sáng tạo từ nhà thiết kế địa phương] đã làm ấn tượng khán giả.</li>
           
-          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [the arTIStic creAtion from the LOcal deSIGner] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [SENtence][CÂU] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+          <li value="1" className="margin-bottom-10"><strong>Khối ngoài</strong>: [the arTIStic creAtion from the LOcal deSIGner] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [SENtence][CÂU] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu, kích hoạt và cung cấp năng lượng cho bộ nguồn [PRETerite FORM][KHỨ DẠNG] "imPRESSED".</li>
     
           <li value="2" className="margin-bottom-10"><strong>Khối giữa</strong> (<strong>Trước</strong>): [arTIStic] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD NOUN][LÕI DANH] "creAtion".</li>
 
