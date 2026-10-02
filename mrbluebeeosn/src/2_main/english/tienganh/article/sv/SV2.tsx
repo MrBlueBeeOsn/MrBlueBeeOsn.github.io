@@ -256,7 +256,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to travel abroad] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] gồm hành động nguyên mẫu có to và abroad.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to travel abroad] – [ADjunct][PHỤ] đứng cuối câu, bổ sung ý nghĩa về mục đích cho hành động saves money.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to travel abroad] – [ADverb as ADjunct][GIỚI làm PHỤ] đứng cuối câu, bổ sung ý nghĩa về mục đích cho hành động saves money.</li>
 			
 				</ul>
 			
@@ -270,7 +270,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Although it was late] – [prepoSITion PHRASE][GIỚI CỤM] có it là thành phần thực hiện hành động, was là ĐỘNG, late là thành phần bổ sung.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Although it was late] – [ADjunct][PHỤ] đứng đầu câu, bổ sung ý nghĩa về sự nhượng bộ cho toàn bộ câu chính.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Although it was late] – [ADverb as ADjunct][GIỚI làm PHỤ] đứng đầu câu, bổ sung ý nghĩa về sự nhượng bộ cho toàn bộ câu chính.</li>
 			
 				</ul>
 			
@@ -414,7 +414,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to share the good news] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng nguyên mẫu mục đích.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to share the good news] – [ADjunct][PHỤ] bổ sung ý nghĩa mục đích cho hành động called.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to share the good news] – [ADverb as ADjunct][GIỚI làm PHỤ] bổ sung ý nghĩa mục đích cho hành động called.</li>
 			
 				</ul>
 			
@@ -428,7 +428,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [so that she could share the good news] – [conJUNCtional CLAUSE][LIÊN ĐIỀU].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [so that she could share the good news] – [ADjunct][PHỤ] vẫn bổ sung ý nghĩa mục đích.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [so that she could share the good news] – [ADverb as ADjunct][GIỚI làm PHỤ] vẫn bổ sung ý nghĩa mục đích.</li>
 			
 				</ul>
 			
@@ -460,7 +460,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [with great care] – [prepoSITion PHRASE][GIỚI CỤM], một cụm chỉ cách thức, bắt đầu bằng with.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with great care] – [ADjunct][PHỤ] vẫn bổ nghĩa cho hành động drives.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with great care] – [ADverb as ADjunct][GIỚI làm PHỤ] vẫn bổ nghĩa cho hành động drives.</li>
 			
 				</ul>
 			

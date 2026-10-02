@@ -456,7 +456,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">C. Phân hệ [prepoSITion PHRASE][GIỚI CỤM]</h4>
 					
-			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã mở rộng bắt đầu bằng một cấu trúc định vị ([prepoSITion][GIỚI] hoặc [COMplex prepoSITion][PHỨC GIỚI]) kéo theo một khối tên gọi phía sau, họ nhận diện ngay diện mạo vật lý [prepoSITion PHRASE][GIỚI CỤM] hoặc [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM].</p>
+			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã mở rộng bắt đầu bằng một cấu trúc định vị [prepoSITion][GIỚI] kéo theo một khối tên gọi phía sau, họ nhận diện ngay diện mạo vật lý [prepoSITion PHRASE][GIỚI CỤM] hoặc [prepoSITion PHRASE][GIỚI CỤM].</p>
 
 			<p className="text-indent-whole">Khối hình thái này không tạo ra dữ liệu đầu việc ([Danh]) mà chỉ chuyên biệt hình thành nên các chương trình chức năng:</p>
 
@@ -475,7 +475,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 8</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>] (Dùng [COMplex prepoSITion][PHỨC GIỚI])</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 8</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>] (Dùng [prepoSITion][GIỚI])</p>
 			
 				<ul className="list-square">
 			
@@ -484,7 +484,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of the seVERE STORM] - [ADjunct][PHỤ] đảm nhiệm vai trò làm một khối bối cảnh nguyên nhân đứng sau hành động để xác định lý do diễn ra sự việc.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the seVERE STORM] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] mở đầu bằng một tổ hợp định vị lý do đóng vai trò làm [COMplex prepoSITion][PHỨC GIỚI] (be<strong>cause</strong> of).</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the seVERE STORM] - [prepoSITion PHRASE][GIỚI CỤM] mở đầu bằng một tổ hợp định vị lý do đóng vai trò làm [prepoSITion][GIỚI] (be<strong>cause</strong>).</li>
 			
 				</ul>
 			
@@ -782,7 +782,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>we deLAYED the LAUNCH [be<strong>cause</strong> of the HEAVy RAIN].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn buổi ra mắt [bởi vì trận mưa lớn].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the HEAVy RAIN] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of" kết hợp với [NOUN BLOCK][DANH KHỐI] "the HEAVy RAIN" làm bổ ngữ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the HEAVy RAIN] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>" kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "of the HEAVy RAIN" làm bổ ngữ.</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [be<strong>cause</strong> of the HEAVy RAIN] - [ADjunct][PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cụm, đóng vai trò làm [ADjunct][PHỤ] bối cảnh nguyên nhân.</li>
 			

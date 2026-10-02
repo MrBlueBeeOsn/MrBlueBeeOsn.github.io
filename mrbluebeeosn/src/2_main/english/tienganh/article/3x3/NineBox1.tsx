@@ -538,7 +538,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[should the compiLAtion comPLETE], the operAtions TEAM will TRIGger the dePLOYment.</li>
 					<li className="margin-bottom-20 list-none">[Nếu việc biên dịch hoàn thành], đội ngũ vận hành sẽ kích hoạt triển khai.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the compiLAtion comPLETE] – [ADjunct][PHỤ] bổ nghĩa bối cảnh điều kiện giả định cho hệ thống hành động phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the compiLAtion comPLETE] – [ADverb as ADjunct][GIỚI làm PHỤ] bổ nghĩa bối cảnh điều kiện giả định cho hệ thống hành động phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [should the compiLAtion comPLETE] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] vận hành ở trạng thái ẩn thành phần [PrepoSITion][GIỚI] điều kiện "if" bằng cách đảo khối [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "Should" lên trước khối [HEAD as SUBject][LÕI làm CHỦ] "the compiLAtion", kéo theo [PLAIN FORM][GIẢN DẠNG] "comPLETE".</li>
 			
@@ -550,7 +550,7 @@ export default function NineBox1(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Bên cạnh hệ động, cấu trúc ngôn ngữ còn được vận hành bởi các khối liên kết không xuất phát từ gốc hành động, tiêu biểu là [prepoSITion PHRASE][GIỚI CỤM].</p>
 
-			<p className="text-indent-whole">Khối này được nhận diện trực tiếp bằng mắt thông qua cấu trúc dẫn đường: [prepoSITion][GIỚI] hoặc [COMplex prepoSITion][PHỨC GIỚI] đứng đầu, phối hợp cùng một khối danh mục mục tiêu làm [NOUN PHRASE][DANH CỤM] phía sau. Khi đưa vào vận hành, khối này chỉ đảm nhận việc kích hoạt thuộc tính hoặc bối cảnh.</p>
+			<p className="text-indent-whole">Khối này được nhận diện trực tiếp bằng mắt thông qua cấu trúc dẫn đường: [prepoSITion][GIỚI] đứng đầu, phối hợp cùng một khối danh mục mục tiêu làm [NOUN PHRASE][DANH CỤM] phía sau. Khi đưa vào vận hành, khối này chỉ đảm nhận việc kích hoạt thuộc tính hoặc bối cảnh.</p>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
@@ -574,9 +574,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>they MONitor SERver NODES [be<strong>cause</strong> of the TRAFfic SPIKE].</li>
 					<li className="margin-bottom-20 list-none">Họ giám sát các nút máy chủ [bởi vì sự tăng đột biến của lưu lượng truy cập].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of the TRAFfic SPIKE] – [ADjunct][PHỤ] bổ nghĩa bối cảnh nguyên nhân cho hành động giám sát.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of the TRAFfic SPIKE] – [ADverb as ADjunct][GIỚI làm PHỤ] bổ nghĩa bối cảnh nguyên nhân cho hành động giám sát.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the TRAFfic SPIKE] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of" kết hợp với [NOUN BLOCK][DANH KHỐI] "the TRAFfic SPIKE" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "MONitor".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the TRAFfic SPIKE] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][ GIỚI] "be<strong>cause</strong>" kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "to the TRAFfic SPIKE" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "MONitor".</li>
 			
 				</ul>
 			
@@ -824,7 +824,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the appliCAtion SYNCS DAta [to eLIMinate DAta inconSIStency].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [để loại bỏ việc dữ liệu không nhất quán].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eLIMinate DAta inconSIStency] – [ADjunct][PHỤ] bổ nghĩa bối cảnh mục đích cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS" đồng bộ hóa.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eLIMinate DAta inconSIStency] – [ADverb as ADjunct][GIỚI làm PHỤ] bổ nghĩa bối cảnh mục đích cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS" đồng bộ hóa.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to eLIMinate DAta inconSIStency] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] hình thành từ sự kết hợp giữa hạt nhân [to-infiniTIval][TO-NGUYÊN] "to eLIMinate" và mở rộng hành động phía sau.</li>
 			
@@ -838,7 +838,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the appliCAtion SYNCS DAta [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [bất cứ khi nào dịch vụ nhỏ chạy nền gửi tín hiệu].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] – [ADjunct][PHỤ] bổ nghĩa bối cảnh điều kiện [Thời] gian cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS" đồng bộ hóa.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] – [ADverb as ADjunct][GIỚI làm PHỤ] bổ nghĩa bối cảnh điều kiện [Thời] gian cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS" đồng bộ hóa.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] - [suBORdinate CLAUSE][PHỤ ĐIỀU] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "when<strong>ev</strong>er" kết hợp cùng cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SENDS".</li>
 			
@@ -852,9 +852,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the appliCAtion SYNCS DAta [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [bởi vì một chính sách đồng bộ hóa tự động].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy] – [ADjunct][PHỤ] bổ nghĩa bối cảnh nguyên nhân cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS" đồng bộ hóa.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy] – [ADverb as ADjunct][GIỚI làm PHỤ] bổ nghĩa bối cảnh nguyên nhân cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS" đồng bộ hóa.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of" kết hợp với [NOUN BLOCK][DANH KHỐI] "an AUtomated synchroniZAtion POlicy" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>" kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "to an AUtomated synchroniZAtion POlicy" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS".</li>
 			
 				</ul>
 			

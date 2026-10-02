@@ -189,7 +189,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Cụm – [ADjunct][PHỤ]</h4>
+			<h4 className="margin-y-40">Cấp độ Cụm – [ADverb as ADjunct][GIỚI làm PHỤ]</h4>
 					
 			<p className="margin-top-20 text-indent-whole"></p>
 			
@@ -200,12 +200,12 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to pass the exam] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] nguyên mẫu chỉ mục đích</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADjunct][PHỤ] bổ nghĩa cho việc studies nêu mục đích</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADverb as ADjunct][GIỚI làm PHỤ] bổ nghĩa cho việc studies nêu mục đích</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Câu – [ADjunct][PHỤ]</h4>
+			<h4 className="margin-y-40">Cấp độ Câu – [ADverb as ADjunct][GIỚI làm PHỤ]</h4>
 			
 				<ul className="list-square">
 			
@@ -214,7 +214,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [because it is raining] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] có it và [ĐỘNG] is raining</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it is raining] – [ADjunct][PHỤ] giải thích nguyên nhân cho hành động will stay home</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it is raining] – [ADverb as ADjunct][GIỚI làm PHỤ] giải thích nguyên nhân cho hành động will stay home</li>
 			
 				</ul>
 		

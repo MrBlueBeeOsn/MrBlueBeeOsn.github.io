@@ -435,7 +435,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [owing to straTEgic SHIFTS] - [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] thiết lập mối quan hệ nguyên nhân kết quả cho chủ thể [HEAD as SUBject][LÕI làm CHỦ] "PROfits".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [owing to straTEgic SHIFTS] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "owing to".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [owing to straTEgic SHIFTS] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "owing" kết hợp [prepoSITion PHRASE][GIỚI CỤM] "to straTEgic SHIFTS".</li>
 			
 				</ul>
 
@@ -588,7 +588,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to MARket fluctuAtions which afFECted proDUCtion] - [emBEDded COMplex prepoSITional PHRASE][NHÚNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to" kết hợp tổ hợp phức hợp.</li>
+						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to MARket fluctuAtions which afFECted proDUCtion] - [emBEDded COMplex prepoSITional PHRASE][NHÚNG PHỨC GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "due" kết hợp [prepoSITion PHRASE][GIỚI CỤM] "to MARket fluctuAtions which afFECted proDUCtion".</li>
 
 						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which afFECted proDUCtion - RELative CLAUSEQUAN CÂU tích hợp bổ trợ tầng sâu.</li>
 				

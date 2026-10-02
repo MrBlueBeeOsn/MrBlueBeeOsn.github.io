@@ -478,7 +478,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>we SCHEDuled the CONference [in the afterNOON].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã lên lịch cuộc họp [vào buổi chiều].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the afterNOON] – [ADjunct][PHỤ] đang đứng vị trí sau để bổ nghĩa cho toàn câu bằng cách thiết lập bối cảnh thời gian cho hành động lên lịch.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the afterNOON] – [ADverb as ADjunct][GIỚI làm PHỤ] đang đứng vị trí sau để bổ nghĩa cho toàn câu bằng cách thiết lập bối cảnh thời gian cho hành động lên lịch.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in the afterNOON] – [prepoSITion PHRASE][GIỚI CỤM] thể hiện một khối thông tin định vị thời gian bắt đầu bằng [prepoSITion][GIỚI] "in".</li>
 			
@@ -597,7 +597,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[should they reQUEST asSIStance], the supPORT LINE will OPEN.</li>
 					<li className="margin-bottom-20 list-none">[Nếu họ yêu cầu sự hỗ trợ], đường dây trợ giúp sẽ mở cửa.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should they reQUEST asSIStance] – [ADjunct][PHỤ] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should they reQUEST asSIStance] – [ADverb as ADjunct][GIỚI làm PHỤ] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [should they reQUEST asSIStance] – [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
 			
@@ -716,7 +716,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>they CANceled the LAUNCH [be<strong>cause</strong> the deVICE overHEATed <strong>un</strong>der PRESsure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [vì thiết bị quá nhiệt dưới áp lực].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the deVICE overHEATed <strong>un</strong>der PRESsure] – [ADjunct][PHỤ] đang đứng vị trí ở cuối để bổ nghĩa cho toàn câu lớn bằng cách thiết lập nguyên nhân diễn ra sự việc.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the deVICE overHEATed <strong>un</strong>der PRESsure] – [ADverb as ADjunct][GIỚI làm PHỤ] đang đứng vị trí ở cuối để bổ nghĩa cho toàn câu lớn bằng cách thiết lập nguyên nhân diễn ra sự việc.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> the deVICE overHEATed <strong>un</strong>der PRESsure] – [prepoSITion PHRASE][GIỚI CỤM] thể hiện một cấu trúc câu con hoàn chỉnh có khối liên kết chỉ nguyên nhân "be<strong>cause</strong>" dẫn dắt ở đầu.</li>
 			
@@ -724,7 +724,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			
 
-			<h5 className="margin-y-30 text-indent-whole">Cách viết lại 1: Dùng khối [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM]</h5>
+			<h5 className="margin-y-30 text-indent-whole">Cách viết lại 1: Dùng khối [prepoSITion PHRASE][GIỚI CỤM]</h5>
 
 			<p className="margin-top-20 text-indent-whole">Thay thế bằng cụm chữ có cấu trúc -ing</p>
 			
@@ -733,15 +733,15 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>they CANceled the LAUNCH [due to the deVICE overHEATing <strong>un</strong>der PRESsure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [do thiết bị gặp tình trạng quá nhiệt dưới áp lực].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [ADjunct][PHỤ] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [ADverb as ADjunct][GIỚI làm PHỤ] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] thể hiện khối thông tin mở rộng bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to", kéo theo [NOUN BLOCK][DANH KHỐI] "the deVICE" và một dạng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "overHEATing" được bọc lót -ing đi sau để cụm hóa [VERB LEXEME][ĐỘNG VỊ] "overHEAT".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [prepoSITion PHRASE][GIỚI CỤM] thể hiện khối thông tin mở rộng bắt đầu bằng [prepoSITion][GIỚI] "due", kéo theo [prepoSITion PHRASE][GIỚI CỤM] "to the deVICE" và một dạng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "overHEATing" được bọc lót -ing đi sau để cụm hóa [VERB LEXEME][ĐỘNG VỊ] "overHEAT".</li>
 			
 				</ul>
 
 			
 
-			<h5 className="margin-y-30 text-indent-whole">Cách viết lại 2: Dùng khối [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM]</h5>
+			<h5 className="margin-y-30 text-indent-whole">Cách viết lại 2: Dùng khối [prepoSITion PHRASE][GIỚI CỤM]</h5>
 
 			<p className="margin-top-20 text-indent-whole">Rút gọn tối đa thành một cụm [NOUN BLOCK][DANH KHỐI]</p>
 			
@@ -750,9 +750,9 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>they CANceled the LAUNCH [be<strong>cause</strong> of the HARDware FAIlure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [vì lỗi phần cứng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of the HARDware FAIlure] – [ADjunct][PHỤ] đang đứng vị trí ở cuối câu để làm mốc thiết lập bối cảnh nguyên nhân, bổ nghĩa cho toàn câu lớn.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of the HARDware FAIlure] – [ADverb as ADjunct][GIỚI làm PHỤ] đang đứng vị trí ở cuối câu để làm mốc thiết lập bối cảnh nguyên nhân, bổ nghĩa cho toàn câu lớn.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the HARDware FAIlure] – [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] thể hiện một khối thông tin không chứa hành động, bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of" điều phối trực tiếp một [NOUN BLOCK][DANH KHỐI] trung tâm đứng sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the HARDware FAIlure] – [prepoSITion PHRASE][GIỚI CỤM] thể hiện một khối thông tin không chứa hành động, bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>" điều phối trực tiếp một [prepoSITion PHRASE][GIỚI CỤM] phía sau.</li>
 			
 				</ul>
 			

@@ -711,13 +711,13 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">Khối HOW FREquently the SERver CRASHED bên trong thực thi chức năng làm [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] nhận quan hệ trực tiếp đứng sau [COMplex prepoSITion][PHỨC GIỚI] be<strong>cause</strong> of.</li>
+					<li className="list-none">Khối HOW FREquently the SERver CRASHED bên trong thực thi chức năng làm [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] nhận quan hệ trực tiếp đứng sau [prepoSITion][GIỚI] be<strong>cause</strong> kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "of HOW FREquently the SERver CRASHED".</li>
 
 					<li className="list-none">Toàn bộ khối hỗn hợp [be<strong>cause</strong> of HOW FREquently the SERver CRASHED] thực thi chức năng [<strong>ADjunct</strong>][<strong>PHỤ</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho [PRETerite FORM][KHỨ DẠNG] rediSIGNED.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">Khối tổng thể [be<strong>cause</strong> of HOW FREquently the SERver CRASHED] là một [emBEDded COMplex prepoSITional PHRASE][NHÚNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "be<strong>cause</strong> of".</li>
+					<li className="list-none">Khối tổng thể [be<strong>cause</strong> of HOW FREquently the SERver CRASHED] là một [emBEDded COMplex prepoSITional PHRASE][NHÚNG PHỨC GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>" kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "of HOW FREquently the SERver CRASHED".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói HOW FREquently the SERver CRASHED là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng tổ hợp tuyến tính gồm [ADverb][TRẠNG] "HOW" kết hợp cùng [ADverb HEAD][TRẠNG LÕI] "FREquently".</li>
 			
@@ -774,7 +774,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [due to the RAPid TEMPERature escaLAtion] - [ADjunct][PHỤ] thực hiện chức năng cung cấp bối cảnh nguyên nhân rút gọn cho hành động chính "CRASHED".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [due to the RAPid TEMPERature escaLAtion] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "due to" điều phối một cấu trúc biểu thị thực thể phức hợp phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [due to the RAPid TEMPERature escaLAtion] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "due" điều phối một [prepoSITion PHRASE][GIỚI CỤM] "to the RAPid TEMPERature escaLAtion".</li>
 			
 				</ul>
 			

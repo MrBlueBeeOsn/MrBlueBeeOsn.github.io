@@ -381,7 +381,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li>[prepoSITion][GIỚI] hình thành nên dạng hành động gốc cấu hình nền tảng.</li>
 
-					<li>[COMplex prepoSITion][PHỨC GIỚI] hình thành nên các biến thể cụm từ chỉ mối quan hệ phức hợp.</li>
+					<li>[prepoSITion][GIỚI] hình thành nên các biến thể cụm từ chỉ mối quan hệ phức hợp.</li>
 
 					<li>[prepoSITion PHRASE][GIỚI CỤM] hình thành nên chức năng [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM], [ADjunct][PHỤ].</li>
 			
@@ -719,7 +719,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to a MEMORy LEAK] - [ADjunct][PHỤ] mở rộng bối cảnh nguyên nhân lý do cho trạng thái sự việc CRASHED.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [due to a MEMORy LEAK] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng một [COMplex prepoSITion][PHỨC GIỚI] due to kết hợp khối định danh đi kèm phía sau để chỉ nguyên nhân khách quan.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [due to a MEMORy LEAK] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng một [prepoSITion][GIỚI] "due kết hợp khối [prepoSITion PHRASE][PHỨC GIỚI CỤM] "to a MEMORy LEAK" đi kèm phía sau để chỉ nguyên nhân khách quan.</li>
 			
 				</ul>
 			

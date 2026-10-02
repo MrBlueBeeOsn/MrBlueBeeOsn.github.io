@@ -145,10 +145,10 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">– [ADverb HEAD][TRẠNG LÕI]</li>
 			
 					<li>[to earn money], [with great care]</li>
-					<li className="margin-bottom-20 list-none">– [ADjunct][PHỤ]</li>
+					<li className="margin-bottom-20 list-none">– [ADverb as ADjunct][GIỚI làm PHỤ]</li>
 			
 					<li>[because it rained], [when you arrive]</li>
-					<li className="list-none">– [ADjunct][PHỤ]</li>
+					<li className="list-none">– [ADverb as ADjunct][GIỚI làm PHỤ]</li>
 			
 				</ul>
 			
@@ -365,7 +365,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to pass the exam] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng nguyên mẫu.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADjunct][PHỤ] chỉ mục đích, bổ nghĩa cho studies hard.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADverb as ADjunct][GIỚI làm PHỤ] chỉ mục đích, bổ nghĩa cho studies hard.</li>
 			
 				</ul>
 			
@@ -379,7 +379,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [because it was raining heavily] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] bên trong có cặp it + was raining.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it was raining heavily] – [ADjunct][PHỤ] chỉ nguyên nhân, bổ nghĩa cho hành động stayed.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it was raining heavily] – [ADverb as ADjunct][GIỚI làm PHỤ] chỉ nguyên nhân, bổ nghĩa cho hành động stayed.</li>
 			
 				</ul>
 			

@@ -806,7 +806,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to ANalyze HOW USers reSPOND to NEW INterface deSIGNS] - [<strong>non-FInite CLAUSE as CATenative COMplement</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHUỖI BỔ</strong>] của [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "PLANS", tiếp nhận mục tiêu kế hoạch cho hành động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to ANalyze HOW USers reSPOND to NEW INterface deSIGNS] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "PLANS", tiếp nhận mục tiêu kế hoạch cho hành động.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to ANalyze HOW USers reSPOND to NEW INterface deSIGNS] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to ANalyze" kéo theo vùng mã bổ trợ phía sau.</li>
 			
@@ -1036,7 +1036,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [in reSPONSE to the seCUrity PATCH] - [ADjunct][PHỤ] đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "reSTARTed" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [in reSPONSE to the seCUrity PATCH] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] mới, bắt đầu bằng [COMplex prepoSITion][PHỨC GIỚI] "in reSPONSE to" được đưa vào thế chỗ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [in reSPONSE to the seCUrity PATCH] - [prepoSITion PHRASE][GIỚI CỤM] mới, bắt đầu bằng [prepoSITion][GIỚI] "in" được đưa vào thế chỗ.</li>
 			
 				</ul>
 

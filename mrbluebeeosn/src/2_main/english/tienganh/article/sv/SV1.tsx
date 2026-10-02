@@ -162,7 +162,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p>Với hệ thống mới, quy trình tư duy được thực hiện một cách tự nhiên và khoa học: Người học nhìn thấy Hình thái trước, sau đó dựa vào vị trí để giải mã ra Chức năng.</p>
 
-			<p>Hành động trong câu chính là các dạng [PREDicator HEAD][VỊ LÕI] xung lực vận hành, song hành cùng cấu trúc liên kết không hành động là [prepoSITion][GIỚI] hoặc [COMplex prepoSITion][PHỨC GIỚI].</p>
+			<p>Hành động trong câu chính là các dạng [PREDicator HEAD][VỊ LÕI] xung lực vận hành, song hành cùng cấu trúc liên kết không hành động là [prepoSITion][GIỚI].</p>
 
 			<p>Để giải mã chính xác bản chất cấu trúc, trục hình thái [PREDicator HEAD][VỊ LÕI] được chia tách hệ thống thành 4 nhóm cốt lõi và phân hệ 16 mục sau:</p>
 			
