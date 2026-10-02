@@ -402,7 +402,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Nalyzing this DAta] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] biểu thị khối hành động mở rộng bắt đầu bằng một dạng VERB thêm đuôi -ing kết hợp cùng đối tượng tác động phía sau để mô tả trọn vẹn một sự việc.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Nalyzing this DAta] – [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] được hình thành từ [NOUN PHRASE][DANH CỤM] đang đứng vị trí đầu câu để cho toàn câu lớn.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Nalyzing this DAta] – [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đang đứng vị trí đầu câu để cho toàn câu lớn.</li>
 			
 				</ul>
 			
@@ -535,7 +535,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: {'{who WROTE this ARticle}'} – [RELative CLAUSE][QUAN ĐIỀU] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau. Đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the AUthor" tác giả đó.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the AUthor {'{who WROTE this ARticle}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the AUthor {'{who WROTE this ARticle}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 			
 				</ul>
 			
@@ -586,7 +586,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: {'{he DROVE YESterday}'} – [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu. Đang đứng vị trí bám sát ngay sau [SUBject HEAD][CHỦ LÕI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the CAR {'{he DROVE YESterday}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the CAR {'{he DROVE YESterday}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 			
 				</ul>
 			
@@ -628,7 +628,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">[eVALuating {'{HOW we ALlocated the BUDget}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] đứng ở đầu câu lớn.</li>
+					<li className="list-none">[eVALuating {'{HOW we ALlocated the BUDget}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng ở đầu câu lớn.</li>
 
 					<li className="list-none">Trong đó khối phụ {'{HOW we ALlocated the BUDget}'} - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tầng trong chịu tác động trực tiếp từ hành động "eVALuating" đánh giá.</li>
 			

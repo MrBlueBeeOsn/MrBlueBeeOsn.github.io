@@ -435,7 +435,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [deSIGNing SYStem ARchitecture] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] deSIGNing phối hợp với khối định danh mục tiêu SYStem ARchitecture chịu tác động đi liền phía sau để làm rõ đối tượng được thiết kế.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [deSIGNing SYStem ARchitecture] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước điều phối hạt nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] reQUIres.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [deSIGNing SYStem ARchitecture] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước điều phối hạt nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] reQUIres.</li>
 			
 				</ul>
 			
@@ -470,7 +470,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">Khối tổng thể [inVESTigating {'{WHY the appliCAtion FAILED}'}] đóng vai trò là [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] để kích hoạt bộ nguồn hành động TAKES phía sau.</li>
+					<li className="list-none">Khối tổng thể [inVESTigating {'{WHY the appliCAtion FAILED}'}] đóng vai trò là [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] để kích hoạt bộ nguồn hành động TAKES phía sau.</li>
 
 					<li className="list-none">Khối nhỏ bên trong {'{WHY the appliCAtion FAILED}'} đóng vai trò là [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] làm phần tiếp nhận tác động trực tiếp chịu sự điều phối nội bộ của hành động InVESTigating.</li>
 			
@@ -633,7 +633,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: {'{họ triển khai tháng trước}'} - {'{ZEro RELative CLAUSE}'}{'{KHUYẾT QUAN CÂU}'} có cấu trúc [S]-[HEAD] đầy đủ nhưng đã bị chủ động lược bỏ [OBject PRONOUN][TÂN ĐẠI] which/that ở đầu khối để tăng tốc độ truyền đạt của dòng thông tin. Làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm thuộc tính cho thực thể [SUBject HEAD][CHỦ LÕI] the POLicy.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the POLicy {'{they IMplemented LAST MONTH}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU] làm CHỦ].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the POLicy {'{they IMplemented LAST MONTH}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 			
 				</ul>
 
