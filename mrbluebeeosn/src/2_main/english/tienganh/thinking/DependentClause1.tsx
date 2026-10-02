@@ -160,7 +160,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Chức năng [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU]</h4>
 					
-			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Câu thông thường để làm [SUBject PROnoun][CHỦ ĐẠI] hoặc [OBject PROnoun][TÂN ĐẠI] chịu tác động.</p>
+			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Câu thông thường để làm [PROnoun as SUBject ][ĐẠI làm CHỦ] hoặc [RElative PROnoun][QUAN ĐẠI] chịu tác động.</p>
 			
 				<ul className="list-square">
 			
@@ -169,7 +169,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm  [what you MEAN] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] đứng sau [PREDicator HEAD][VỊ LÕI] "underSTAND"</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm  [what you MEAN] đóng vai trò làm [RElative PROnoun][QUAN ĐẠI] đứng sau [PREDicator HEAD][VỊ LÕI] "underSTAND"</p>
 
 			{/* 4. Chiến Lược 3 Bước Để Tạo Câu Phức Mượt Mà */}
 

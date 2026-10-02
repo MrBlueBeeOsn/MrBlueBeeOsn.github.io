@@ -62,7 +62,7 @@ export default function ThreeDC1(): React.ReactElement {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADjunct-1">ADjunct 1</HashLink>
+						<HashLink smooth to="#ADverb-as-ADjunct-1">ADverb as ADjunct 1</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -78,7 +78,7 @@ export default function ThreeDC1(): React.ReactElement {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADjunct-2">ADjunct 2</HashLink>
+						<HashLink smooth to="#ADverb-as-ADjunct-2">ADverb as ADjunct 2</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -94,7 +94,7 @@ export default function ThreeDC1(): React.ReactElement {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADjunct-3">ADjunct 3</HashLink>
+						<HashLink smooth to="#ADverb-as-ADjunct-3">ADverb as ADjunct 3</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -148,7 +148,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li><strong>Chiều dọc</strong> – <strong>4 Cấp độ Hình thái</strong>: [PREDicator HEAD][VỊ LÕI] → [CLAUSE][ĐIỀU] → [prepoSITion PHRASE][GIỚI CỤM]. Người học khi nhìn vào một câu chỉ cần nhận diện khối biểu hiện đang ở hình thái nào.</li>
 			
-					<li><strong>Chiều ngang</strong> – <strong>3 Chức năng</strong>: [NOUN HEAD][DANH LÕI] / [ADjective HEAD][TÍNH LÕI] / [ADverb HEAD][TRẠNG LÕI]. Tùy thuộc vào vị trí đứng, các Hình thái trên sẽ "hóa thân" để thực thi một trong ba chức năng này.</li>
+					<li><strong>Chiều ngang</strong> – <strong>3 Chức năng</strong>: [HEAD as NOUN][LÕI làm DANH] / [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] / [ADverb HEAD][TRẠNG LÕI]. Tùy thuộc vào vị trí đứng, các Hình thái trên sẽ "hóa thân" để thực thi một trong ba chức năng này.</li>
 			
 				</ul>
 			
@@ -157,11 +157,11 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 
-					<li><strong>Ở cấp độ</strong> [<strong>PREDicator HEAD</strong>][<strong>VỊ LÕI</strong>]: Sinh ra [NOUN HEAD][DANH LÕI], [ADjective HEAD][TÍNH LÕI], [ADverb HEAD][TRẠNG LÕI].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>PREDicator HEAD</strong>][<strong>VỊ LÕI</strong>]: Sinh ra [HEAD as NOUN][LÕI làm DANH], [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH], [ADverb HEAD][TRẠNG LÕI].</li>
 			
-					<li><strong>Ở cấp độ</strong> [<strong>VERB PHRASE</strong>][<strong>ĐỘNG CỤM</strong>]: Sinh ra [NOUN PHRASE][DANH CỤM], [ADjective PHRASE][TÍNH CỤM], [ADjunct][PHỤ].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>VERB PHRASE</strong>][<strong>ĐỘNG CỤM</strong>]: Sinh ra [NOUN PHRASE][DANH CỤM], [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM], [ADjunct][PHỤ].</li>
 			
-					<li><strong>Ở cấp độ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]: Sinh ra [ADjective PHRASE][TÍNH CỤM], [ADjunct][PHỤ].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]: Sinh ra [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM], [ADjunct][PHỤ].</li>
 
 					<li><strong>Ở cấp độ</strong> [<strong>deCLARative CONtent CLAUSE</strong>][<strong>THUẬT NỘI ĐIỀU</strong>]: Sinh ra [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU] và [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ].</li>
 
@@ -330,7 +330,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>Ví dụ 1: upGRADing [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] + the SYStem [NOUN HEAD][DANH LÕI]</li>
+					<li>Ví dụ 1: upGRADing [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] + the SYStem [HEAD as NOUN][LÕI làm DANH]</li>
 					<li className="margin-bottom-20 list-none">→ upGRADing the SYStem [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU].</li>
 			
 					<li>Ví dụ 2: to coORdinate [to-infiniTIval][TO-NGUYÊN] + efFIciently [ADverb HEAD][TRẠNG LÕI]</li>
@@ -362,7 +362,7 @@ export default function ThreeDC1(): React.ReactElement {
           
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [JOGging ...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "STRENGTHens".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [...] - [ADverb as ADjunct][TRẠNG làm PHỤ] "outDOORS" - "ngoài trời" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "JOGging". Là một [inTRANsitive VERB][NỘI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một  [PrepoSIion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] "in the MORNing" của "JOGging". Hoặc [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] "FREquent" - "thường xuyên" của "JOBging".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [...] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] "outDOORS" - "ngoài trời" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "JOGging". Là một [inTRANsitive VERB][NỘI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một  [PrepoSIion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] "in the MORNing" của "JOGging". Hoặc [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] "FREquent" - "thường xuyên" của "JOBging".</li>
       
         </ul>
 			
@@ -373,7 +373,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [JOGging...] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] </li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối JOGging... - GERund-PARTiciple CLAUSE[DANH-TÍNH ĐIỀU hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "JOG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối hành động "JOGging" có thể kết hợp thêm trạng JOGging DAIly.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối JOGging... - [GERund-PARTiciple CLAUSE[DANH-TÍNH ĐIỀU] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "JOG" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối hành động "JOGging" có thể kết hợp thêm trạng JOGging DAIly.</li>
 			
 				</ul>
 
@@ -385,7 +385,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>she enJOYS [SWIMming].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy thích [việc bơi lội].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [SWIMming] - [OBject HEAD ][TÂN LÕI]  chịu sự điều phối trực tiếp của [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "enJOYS".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [SWIMming] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [PREDicator as HEAD] "enJOYS", chịu sự điều phối trực tiếp của [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "enJOYS".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [SWIMming] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "SWIM" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] đại diện cho một hành động biểu hiện khối cô đọng.</li>
 			
@@ -399,23 +399,23 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>we NEED a [CUStomized] soLUtion.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi cần một giải pháp [được thiết kế riêng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [CUStomized] - [ADjective HEAD][TÍNH LÕI] đứng ngay trước một thực thể [MODifier HEAD][ĐỊNH LÕI] "soLUtion" để biểu thị đặc tính và bổ nghĩa cho thực thể đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [CUStomized] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đứng ngay trước một thực thể  "soLUtion" để biểu thị đặc tính và bổ nghĩa cho thực thể đó.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [CUStomized] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "CUStomize" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang đặc tính bị động, hoàn tất.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADjunct-1"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-1"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>the SYStem FAILED [unexPECtedly] FAST.</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã trục trặc nhanh [một cách bất ngờ].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [unexPECtedly] - [ADjunct 1][PHỤ 1] đứng trước để biểu thị mức độ, tính chất bối cảnh và bổ nghĩa trực tiếp cho từ mô tả đặc tính nhanh đứng liền phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [unexPECtedly] - [ADverb as ADjunct 1][TRẠNG làm PHỤ 1] đứng trước để biểu thị mức độ, tính chất bối cảnh và bổ nghĩa trực tiếp cho từ mô tả đặc tính nhanh đứng liền phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [unexPECtedly] - MODified ADVERBĐỊNH TRẠNG hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "exPECT" mặc thêm (kết hợp) tiền tố phủ định "un-" cùng tổ hợp các hậu tố biến đổi trạng thái "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu thị hoàn cảnh trạng thái đặc biệt.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [unexPECtedly] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "exPECT" mặc thêm (kết hợp) tiền tố phủ định "un-" cùng tổ hợp các hậu tố biến đổi trạng thái "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu thị hoàn cảnh trạng thái đặc biệt.</li>
 			
 				</ul>
 			
@@ -460,21 +460,21 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the OFficer [SUpervising the AUdit] deTECted a disCREPancy.</li>
 					<li className="margin-bottom-20 list-none">Người viên chức [đang giám sát việc kiểm toán] đã phát hiện ra một sự bất nhất.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [SUpervising the AUdit] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau thực thể [SUBject HEAD][CHỦ LÕI] "the OFficer" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [SUpervising the AUdit] - [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng ngay sau thực thể [HEAD as SUBject][LÕI làm CHỦ] "the OFficer" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [SUpervising the AUdit] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng một [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "SUpervising" kết hợp với một [NOUN HEAD][DANH LÕI] "the AUdit" phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [SUpervising the AUdit] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng một [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "SUpervising" kết hợp với một [HEAD as NOUN][LÕI làm DANH] "the AUdit" phía sau.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADjunct-2"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-2"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>he atTENDS WORKshops [to reFINE his LEADership STYLE].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy tham gia các hội thảo [để trau dồi phong cách lãnh đạo].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [to reFINE his LEADership STYLE] - [ADjunct 2][PHỤ 2] đứng cuối nhằm giải thích bối cảnh mục đích cho hành động tham gia được vận hành bởi [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "atTENDS".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [to reFINE his LEADership STYLE] - [ADverb as ADjunct 2][TRẠNG làm PHỤ 2] đứng cuối nhằm giải thích bối cảnh mục đích cho hành động tham gia được vận hành bởi [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "atTENDS".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [to reFINE his LEADership STYLE] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to reFINE" kéo theo một cụm [NOUN PHRASE][DANH CỤM] làm thành phần bổ trợ.</li>
 			
@@ -492,7 +492,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the OFFice [on the TOP FLOOR] has panoRAMic VIEWS.</li>
 					<li className="margin-bottom-20 list-none">Văn phòng [ở tầng trên cùng] có tầm nhìn toàn cảnh.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [on the TOP FLOOR] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sát ngay sau khối biểu thị thực thể [SUBject HEAD][CHỦ LÕI] "the OFfice" để bổ nghĩa chỉ bối cảnh vị trí đặc trưng cho văn phòng đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [on the TOP FLOOR] - [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng ôm sát ngay sau khối biểu thị thực thể [HEAD as SUBject][LÕI làm CHỦ] "the OFfice" để bổ nghĩa chỉ bối cảnh vị trí đặc trưng cho văn phòng đó.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [on the TOP FLOOR] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "on" liên kết quan hệ không gian trực tiếp với cụm [NOUN BLOCK][DANH KHỐI] "the TOP FLOOR".</li>
 			
@@ -508,7 +508,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [at MIDnight] - [ADjunct][PHỤ] đứng cuối câu nhằm bổ nghĩa hoàn cảnh mốc thời gian diễn ra hành động cập nhật của hệ thống.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [at MIDnight] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "at" liên kết quan hệ thời gian trực tiếp với [NOUN HEAD][DANH LÕI] "MIDnight".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [at MIDnight] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "at" liên kết quan hệ thời gian trực tiếp với [HEAD as NOUN][LÕI làm DANH] "MIDnight".</li>
 			
 				</ul>
 
@@ -516,7 +516,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">4. Hình thái [PrepoSITion][GIỚI]</h4>
 
-			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [SUBject HEAD][CHỦ LÕI] và các cấu hình [PREDicator HEAD][VỊ LÕI] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [ADverb][TRẠNG] tường minh:</p>
+			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [HEAD as SUBject][LÕI làm CHỦ] và các cấu hình [PREDicator HEAD][VỊ LÕI] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [ADverb][TRẠNG] tường minh:</p>
 
 
 			<p className="text-indent-whole" id="FInite-CLAUsal-SUBject"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>FInite CLAUSE as SUBject</strong>][<strong>BỊ-CHIA ĐIỀU làm CHỦ</strong>] <strong>làm khối</strong> [<strong>SUBject</strong>][<strong>CHỦ</strong>]</p>
@@ -528,7 +528,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [HOW the TEAM seCURES the FUNding] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU] đứng trước điều phối [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reMAINS".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [HOW the TEAM seCURES the FUNding] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "HOW" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the TEAM" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "seCURES".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [HOW the TEAM seCURES the FUNding] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "HOW" kết hợp với cấu trúc một khối hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] "the TEAM" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "seCURES".</li>
 			
 				</ul>
 
@@ -542,7 +542,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [that the ALgorithm posSESSED a BIas] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu tác động trực tiếp đứng sau điều phối của [PRETerite FORM][KHỨ DẠNG] "reVEALED".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [that the ALgorithm posSESSED a BIas] - [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] bắt đầu bằng [suBORdinator][HẠ] "that" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the ALgorithm" và [PRETerite FORM][KHỨ DẠNG] "posSESSED".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [that the ALgorithm posSESSED a BIas] - [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] bắt đầu bằng [suBORdinator][HẠ] "that" kết hợp với cấu trúc một khối hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] "the ALgorithm" và [PRETerite FORM][KHỨ DẠNG] "posSESSED".</li>
 			
 				</ul>
 			
@@ -556,21 +556,21 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [the SOFTware which the TEAM dePLOYED LAST NIGHT]- [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối which the TEAM dePLOYED LAST NIGHT - RELative CLAUSEQUAN CÂU bắt đầu bằng [OBject PRONOUN][TÂN ĐẠI] quan hệ "which" kết hợp với cấu trúc một khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the TEAM" và [PRETerite FORM][KHỨ DẠNG] "dePLOYED". Đứng ôm ngay sau thực thể [SUBject HEAD][CHỦ LÕI] "the SOFTware" để bổ nghĩa chi tiết cho thực thể đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối which the TEAM dePLOYED LAST NIGHT - RELative CLAUSEQUAN CÂU bắt đầu bằng [RElative PRONOUN][QUAN ĐẠI] quan hệ "which" kết hợp với cấu trúc một khối hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] "the TEAM" và [PRETerite FORM][KHỨ DẠNG] "dePLOYED". Đứng ôm ngay sau thực thể [HEAD as SUBject][LÕI làm CHỦ] "the SOFTware" để bổ nghĩa chi tiết cho thực thể đó.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADjunct-3"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-3"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>we will HALT proDUCtion [un<strong>less</strong> the QUAlity STANdard imPROVES].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ dừng sản xuất [ngoại trừ khi tiêu chuẩn chất lượng cải thiện].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [ADjunct 3][PHỤ 3] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "will".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "will".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [suBORdinate CLAUSE][PHỤ ĐIỀU] bắt đầu bằng [PrepoSITion][GIỚI] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "the QUAlity STANdard" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [suBORdinate CLAUSE][PHỤ ĐIỀU] bắt đầu bằng [PrepoSITion][GIỚI] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] "the QUAlity STANdard" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES".</li>
 			
 				</ul>
 
@@ -605,7 +605,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [the MENtor i conSULted YESterday] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối i conSULted YESterday - ZEro RELative CLAUSEKHUYẾT QUAN CÂU có sự lược bỏ [ZEro-OBject PRONOUN][ẨN-TÂN ĐẠI] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong. Đứng ôm ngay sau thực thể [SUBject HEAD][CHỦ LÕI] "the MENtor" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối i conSULted YESterday - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] có sự lược bỏ [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong. Đứng ôm ngay sau thực thể [HEAD as SUBject][LÕI làm CHỦ] "the MENtor" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
 			
 				</ul>
 			
@@ -650,7 +650,7 @@ export default function ThreeDC1(): React.ReactElement {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">Khối bao ngoài [to underSTAND WHY the SPEcies went exTINCT] là một [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to underSTAND".</li>
+					<li className="list-none">Khối bao ngoài [to underSTAND WHY the SPEcies went exTINCT] là một [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to underSTAND".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói WHY the SPEcies went exTINCT là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
 			
@@ -672,7 +672,7 @@ export default function ThreeDC1(): React.ReactElement {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">Khối bao ngoài [to DEMonstrate HOW the DRUG WORKS] là một [FULL inFINitive VERB and emBEDded CLAUSE][TOÀN NGUYÊN ĐỘNG và NHÚNG ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to DEMonstrate".</li>
+					<li className="list-none">Khối bao ngoài [to DEMonstrate HOW the DRUG WORKS] là một [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "to DEMonstrate".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói HOW the DRUG WORKS là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "HOW".</li>
 			
@@ -691,7 +691,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối whether the COMpany should MERGE bên trong thực thi chức năng làm [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] nhận quan hệ trực tiếp đứng sau [prepoSITion][GIỚI] over.</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [<strong>o</strong>verwhether the COMpany should MERGE] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm the [SUBject HEAD][CHỦ LÕI] "the disPUTE".</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [<strong>o</strong>verwhether the COMpany should MERGE] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm the [HEAD as SUBject][LÕI làm CHỦ] "the disPUTE".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
@@ -742,7 +742,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [ADjunct][PHỤ] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "CRASHED".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [suBORdinate CLAUSE][PHỤ ĐIỀU] bắt đầu bằng [PrepoSITion][GIỚI] "be<strong>cause</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [SUBject HEAD][CHỦ LÕI] "TEMPERature" và [PRETerite FORM][KHỨ DẠNG] "EScalated".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [suBORdinate CLAUSE][PHỤ ĐIỀU] bắt đầu bằng [PrepoSITion][GIỚI] "be<strong>cause</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] "TEMPERature" và [PRETerite FORM][KHỨ DẠNG] "EScalated".</li>
 			
 				</ul>
 			
@@ -756,9 +756,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[acCORDingly], the SYStem CRASHED.</li>
 					<li className="margin-bottom-20 list-none">[Theo đó / Do vậy], hệ thống đã bị sập.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [acCORDingly] - [ADjunct 1][PHỤ 1] đứng biệt lập ở đầu câu để bổ nghĩa liên kết logic hệ quả cho toàn bộ nhận định phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [acCORDingly] - [ADverb as ADjunct 1][TRẠNG làm PHỤ 1] đứng biệt lập ở đầu câu để bổ nghĩa liên kết logic hệ quả cho toàn bộ nhận định phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [acCORDingly] - MODified ADVERBĐỊNH TRẠNG hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "acCORD" mặc thêm (kết hợp) hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] bối cảnh độc lập.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [acCORDingly] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "acCORD" mặc thêm (kết hợp) hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] bối cảnh độc lập.</li>
 			
 				</ul>
 
@@ -780,7 +780,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 
 
-			<h4 className="margin-y-40">2. Paraphrasing cho chức năng [ADjective HEAD][TÍNH LÕI] (Mô tả, định danh thực thể)</h4>
+			<h4 className="margin-y-40">2. Paraphrasing cho chức năng [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] (Mô tả, định danh thực thể)</h4>
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 
@@ -793,7 +793,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [the CODE which acCELerates the RENdering PROCess] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối which acCELerates the RENdering PROCess - RELative CLAUSEQUAN CÂU bắt đầu bằng [SUBject PRONOUN][CHỦ ĐẠI] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates". Đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể [SUBject HEAD][CHỦ LÕI] "the CODE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối which acCELerates the RENdering PROCess - RELative CLAUSEQUAN CÂU bắt đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates". Đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể [HEAD as SUBject][LÕI làm CHỦ] "the CODE".</li>
 			
 				</ul>
 
@@ -808,9 +808,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the [RENdering-acCELerating] CODE reQUIres optimiZAtion.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [tăng-tốc-kết-xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [RENdering-acCELerating] - [ADjective HEAD][TÍNH LÕI] đứng trực tiếp phía trước để bổ nghĩa đặc tính vận hành cho khối biểu thị thực thể [SUBject HEAD][CHỦ LÕI] "CODE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [RENdering-acCELerating] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đứng trực tiếp phía trước để bổ nghĩa đặc tính vận hành cho khối biểu thị thực thể [HEAD as SUBject][LÕI làm CHỦ] "CODE".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [RENdering-acCELerating] - MODified ADjectiveĐỊNH TÍNH hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "acCELerate" mặc thêm (kết hợp) tiền tố thành phần [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "RENdering-" và hậu tố "-ING" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có cấu hình ghép.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [RENdering-acCELerating] - [MODified ADjective][CHỈNH TÍNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "acCELerate" mặc thêm (kết hợp) tiền tố thành phần [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "RENdering-" và hậu tố "-ING" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có cấu hình ghép.</li>
 			
 				</ul>
 			
@@ -825,14 +825,14 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the CODE [acCELerating the RENdering PROCess] reQUIres optimiZAtion.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [đang tăng tốc quy trình kết xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [acCELerating the RENdering PROCess] - [ADjective PHRASE][TÍNH CỤM] đứng ôm sau bổ nghĩa rút gọn cho khối biểu thị thực thể [SUBject HEAD][CHỦ LÕI] "the CODE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [acCELerating the RENdering PROCess] - [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng ôm sau bổ nghĩa rút gọn cho khối biểu thị thực thể [HEAD as SUBject][LÕI làm CHỦ] "the CODE".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [acCELerating the RENdering PROCess] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng phân từ đuôi "-ing" và có thành phần bổ trợ đi kèm.</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">3. Paraphrasing cho chức năng [NOUN HEAD][DANH LÕI]</h4>
+			<h4 className="margin-y-40">3. Paraphrasing cho chức năng [HEAD as NOUN][LÕI làm DANH]</h4>
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>: <strong>Dùng hình thái</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
 
@@ -881,10 +881,10 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>Nếu thế thế thân bằng một [ADverb HEAD][TRẠNG LÕI] đơn lẻ (THEN, THERE) thành công</li>
 					<li className="margin-bottom-20 list-none">→ Khối đó đảm nhiệm chức năng [<strong>ADjunct</strong>][<strong>PHỤ</strong>].</li>
 			
-					<li>Nếu thế thế thân bằng một [ADjective HEAD][TÍNH LÕI] đơn lẻ (BEAUtiful, SMART, NEW) thành công</li>
+					<li>Nếu thế thế thân bằng một [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đơn lẻ (BEAUtiful, SMART, NEW) thành công</li>
 					<li className="margin-bottom-20 list-none">→ Khối đó phụ trách chức năng [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>].</li>
 			
-					<li>Nếu thế thế thân bằng một ký hiệu tổng quát "SOMEthing" hoặc "it" (tương đương một [NOUN HEAD][DANH LÕI]) thành công</li>
+					<li>Nếu thế thế thân bằng một ký hiệu tổng quát "SOMEthing" hoặc "it" (tương đương một [HEAD as NOUN][LÕI làm DANH]) thành công</li>
 					<li className="list-none">→ Khối đó gánh vác chức năng [<strong>CONtent CLAUSE</strong>][<strong>NỘI ĐIỀU</strong>].</li>
 			
 				</ul>
@@ -905,19 +905,19 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20">Trường hợp B: Thử thế thân bằng [ADjective HEAD][TÍNH LÕI] "<strong>[NEW]</strong>"</p>
+			<p className="margin-top-20">Trường hợp B: Thử thế thân bằng [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] "<strong>[NEW]</strong>"</p>
 			
 				<ul className="list-square">
 			
 					<li>THIS is the SERver ROOM [where the SIGnal PEAKS].</li>
 					<li className="margin-bottom-20">THIS is the [NEW] SERver ROOM.</li>
 			
-					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] hoàn thành chức năng [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước [MODifier HEAD][ĐỊNH LÕI] "ROOM".</li>
+					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] hoàn thành chức năng [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước  "ROOM".</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20">Trường hợp C: Thử thế thân bằng [NOUN HEAD][DANH LÕI] "<strong>[SOMEthing]</strong>"</p>
+			<p className="margin-top-20">Trường hợp C: Thử thế thân bằng [HEAD as NOUN][LÕI làm DANH] "<strong>[SOMEthing]</strong>"</p>
 			
 				<ul className="list-square">
 			

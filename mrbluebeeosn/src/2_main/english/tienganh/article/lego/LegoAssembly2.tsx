@@ -81,7 +81,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. 📦 Chức năng DANH</h3>
 
-			<h4 className="margin-y-40">Cấp độ Cơ – [NOUN HEAD][DANH LÕI]</h4>
+			<h4 className="margin-y-40">Cấp độ Cơ – [HEAD as NOUN][LÕI làm DANH]</h4>
 			
 				<ul className="list-square">
 			
@@ -90,7 +90,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Swimming] – [NOUN HEAD][DANH LÕI] đứng ở vị trí chỉ toàn bộ sự việc làm trung tâm cho câu</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Swimming] – [HEAD as NOUN][LÕI làm DANH] đứng ở vị trí chỉ toàn bộ sự việc làm trung tâm cho câu</li>
 			
 				</ul>
 
@@ -128,7 +128,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. 📦 Chức năng TÍNH</h3>
 
-			<h4 className="margin-y-40">Cấp độ Cơ – [ADjective HEAD][TÍNH LÕI]</h4>
+			<h4 className="margin-y-40">Cấp độ Cơ – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH]</h4>
 			
 				<ul className="list-square">
 			
@@ -137,21 +137,21 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [sparkling] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [sparkling] – [ADjective HEAD][TÍNH LÕI] bổ sung ý nghĩa cho [DANH] personality</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [sparkling] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] bổ sung ý nghĩa cho [DANH] personality</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Cụm – [ADjective PHRASE][TÍNH CỤM]</h4>
+			<h4 className="margin-y-40">Cấp độ Cụm – [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</h4>
 			
 				<ul className="list-square">
 			
 					<li>The soup tastes [absolutely delicious].</li>
 					<li className="margin-bottom-20 list-none">Món súp có vị [ngon tuyệt].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [absolutely delicious] – [ADjective PHRASE][TÍNH CỤM] gồm [TRẠNG] absolutely và [TÍNH] delicious</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [absolutely delicious] – [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] gồm [TRẠNG] absolutely và [TÍNH] delicious</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [absolutely delicious] – [ADjective PHRASE][TÍNH CỤM] mô tả trạng thái của The soup sau Head tastes</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [absolutely delicious] – [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] mô tả trạng thái của The soup sau Head tastes</li>
 			
 				</ul>
 
@@ -182,7 +182,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He answered [politely].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [một cách lịch sự].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [politely] - MODified ADVERBĐỊNH TRẠNG hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [politely] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [politely] – [ADverb HEAD][TRẠNG LÕI] làm rõ cách thức cho [ĐỘNG] answered</li>
 			
@@ -288,7 +288,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>The girl [______] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Cô gái [đang ngồi trên ghế dài] là bạn tôi.</li>
 			
-					<li className="list-none">[sitting on the bench] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] → chức năng [ADjective PHRASE][TÍNH CỤM]</li>
+					<li className="list-none">[sitting on the bench] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] → chức năng [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</li>
 			
 				</ul>
 			
@@ -342,7 +342,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>[______] is fun.</li>
 					<li className="margin-bottom-20 list-none">[Chạy bộ] thì vui.</li>
 			
-					<li className="list-none">[Running] – [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] → chức năng [NOUN HEAD][DANH LÕI]</li>
+					<li className="list-none">[Running] – [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] → chức năng [HEAD as NOUN][LÕI làm DANH]</li>
 			
 				</ul>
 			
