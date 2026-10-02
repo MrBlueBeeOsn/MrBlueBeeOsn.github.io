@@ -142,16 +142,16 @@ export default function LegoAssembly2(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Cụm – [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</h4>
+			<h4 className="margin-y-40">Cấp độ Cụm – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</h4>
 			
 				<ul className="list-square">
 			
 					<li>The soup tastes [absolutely delicious].</li>
 					<li className="margin-bottom-20 list-none">Món súp có vị [ngon tuyệt].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [absolutely delicious] – [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] gồm [TRẠNG] absolutely và [TÍNH] delicious</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [absolutely delicious] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] gồm [TRẠNG] absolutely và [TÍNH] delicious</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [absolutely delicious] – [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] mô tả trạng thái của The soup sau Head tastes</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [absolutely delicious] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] mô tả trạng thái của The soup sau Head tastes</li>
 			
 				</ul>
 
@@ -189,7 +189,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Cụm – [ADverb as ADjunct][GIỚI làm PHỤ]</h4>
+			<h4 className="margin-y-40">Cấp độ Cụm – [ADverb as ADjunct][TRẠNG làm PHỤ]</h4>
 					
 			<p className="margin-top-20 text-indent-whole"></p>
 			
@@ -200,12 +200,12 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to pass the exam] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] nguyên mẫu chỉ mục đích</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADverb as ADjunct][GIỚI làm PHỤ] bổ nghĩa cho việc studies nêu mục đích</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa cho việc studies nêu mục đích</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Câu – [ADverb as ADjunct][GIỚI làm PHỤ]</h4>
+			<h4 className="margin-y-40">Cấp độ Câu – [ADverb as ADjunct][TRẠNG làm PHỤ]</h4>
 			
 				<ul className="list-square">
 			
@@ -214,7 +214,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [because it is raining] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] có it và [ĐỘNG] is raining</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it is raining] – [ADverb as ADjunct][GIỚI làm PHỤ] giải thích nguyên nhân cho hành động will stay home</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it is raining] – [ADverb as ADjunct][TRẠNG làm PHỤ] giải thích nguyên nhân cho hành động will stay home</li>
 			
 				</ul>
 		
@@ -288,7 +288,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>The girl [______] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Cô gái [đang ngồi trên ghế dài] là bạn tôi.</li>
 			
-					<li className="list-none">[sitting on the bench] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] → chức năng [non-FInite CLAUSE as post-MODifier ][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</li>
+					<li className="list-none">[sitting on the bench] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] → chức năng [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</li>
 			
 				</ul>
 			
