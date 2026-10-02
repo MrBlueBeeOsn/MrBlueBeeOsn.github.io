@@ -614,7 +614,7 @@ export default function SV1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. [NOUN PHRASE][DANH CỤM]</h4>
 
-			<p className="text-indent-whole">Khối [NOUN PHRASE][DANH CỤM] lớn đóng vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] hoặc [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ], nhưng bên trong nó lại chứa một khối chức năng phụ trợ lồng ghép để làm rõ thông tin.</p>
+			<p className="text-indent-whole">Khối [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] hoặc [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ], nhưng bên trong nó lại chứa một khối chức năng phụ trợ lồng ghép để làm rõ thông tin.</p>
 
 			<p><strong>Thể hiện Chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>]</p>
 			
@@ -631,7 +631,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">Tầng ngoài: Lớp ngoài [disCOVering HOW the ENgine WORKS] vận hành đồng bộ như một khối [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] lớn, đứng ở đầu câu giữ vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] điều phối trục thông tin hành động cho toàn bộ [SENtence][CÂU LỚN].</li>
+					<li className="list-none">Tầng ngoài: Lớp ngoài [disCOVering HOW the ENgine WORKS] vận hành đồng bộ như một khối [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] lớn, đứng ở đầu câu giữ vai trò làm  điều phối trục thông tin hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "is" cho toàn bộ [SENtence][CÂU LỚN].</li>
 					
 					<li className="list-none">Tầng trong: Lớp trong HOW the ENgine WORKS đóng vai trò là một [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ], neo ngay sau hành động thực thi [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] disCOVering để làm [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] cho hành động đó.</li>
 			
@@ -653,7 +653,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">Tầng ngoài: Lớp ngoài [disCUSSing WHAT they had disCOVered] vận hành như một khối [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] lớn đứng ngay sau [PRETerite FORM][KHỨ DẠNG] "aVOIDed" nhằm làm [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] chịu sự điều phối trực tiếp từ nó.</li>
+					<li className="list-none">Tầng ngoài: Lớp ngoài [disCUSSing WHAT they had disCOVered] vận hành như một khối [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] lớn của hành động [PRETerite FORM][KHỨ DẠNG] "aVOIDed" nhằm chịu sự điều phối trực tiếp từ nó.</li>
 					
 					<li className="list-none">Tầng trong: Lớp trong WHAT they had disCOVered đóng vai trò là một [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ], neo ngay sau hành động thực thi disCUSSing để làm [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] cho hành động đó.</li>
 			

@@ -621,7 +621,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">[eVALuating HOW we ALlocated the BUDget] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng ở đầu câu lớn.</li>
+					<li className="list-none">[eVALuating HOW we ALlocated the BUDget] – [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] tầng ngoài đóng vai trò đứng ở đầu câu lớn.</li>
 
 					<li className="list-none">Trong đó khối phụ HOW we ALlocated the BUDget - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tầng trong chịu tác động trực tiếp từ hành động "eVALuating" đánh giá.</li>
 					
@@ -643,7 +643,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">[reVIEWing WHAT the TEAM acCOMplished this QUARter] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] lớn đứng sau [PRETerite FORM][KHỨ DẠNG] "sugGESted".</li>
+					<li className="list-none">[reVIEWing WHAT the TEAM acCOMplished this QUARter] – [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] tầng ngoài đóng vai trò lớn đứng sau hành động [PRETerite FORM][KHỨ DẠNG] "sugGESted".</li>
 
 					<li className="list-none">Trong đó khối phụ WHAT the TEAM acCOMplished this QUARter - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tầng trong nhỏ tiếp nhận tác động từ hành động xem xét.</li>
 					
