@@ -106,15 +106,15 @@ export default function ShiftingToModernGrammar(): React.JSX.Element {
 
       <h4 className="margin-y-40">Example:</h4>
           
-      <p className="margin-top-20 text-indent-whole">We left [because {'{the update completed}'}].</p>
+      <p className="margin-top-20 text-indent-whole">We left [because the update completed].</p>
       
         <ul className="list-square">
       
           <li>Preposition: because</li>
       
-          <li>Clause (Sentence): {'{the update completed}'}</li>
+          <li>Clause (Sentence): the update completed</li>
       
-          <li><Link to="/grammar/preposition-phrase">prepoSITion PHRASE</Link>: <strong>[because {'{the update completed}'}]</strong></li>
+          <li><Link to="/grammar/preposition-phrase">prepoSITion PHRASE</Link>: <strong>[because the update completed]</strong></li>
       
         </ul>
       
@@ -126,48 +126,48 @@ export default function ShiftingToModernGrammar(): React.JSX.Element {
 
       <p>While traditional textbooks break clauses down into Noun, Adjective, and Adverb clauses, Cambridge 2002 and Oxford Modern English Grammar completely discard this old trio. Since "Adverb clauses" are now viewed as Preposition Phrases, the modern system reclassifies all finite subordinate clauses into exactly three clean categories:</p>
 
-      <h4 className="margin-y-40">Content Clause: {'{...}'}</h4>
+      <h4 className="margin-y-40">Content Clause: ...</h4>
 
       <p className="margin-top-20 text-indent-whole">Definition: Provides the core informational substance needed to complete a verb, a noun, or a preposition.</p>
       
         <ul className="list-square">
       
-          <li>After a verb: I know [<strong>{'{that the update completed}'}</strong>].</li>
+          <li>After a verb: I know [<strong>that the update completed</strong>].</li>
           <li className="margin-bottom-20 list-none">[]: OBject PHRASE / NOUN PHRASE</li>
       
-          <li>After a noun: [The rumor <strong>{'{'}that the update completed{'}'}</strong>] spread quickly.</li>
+          <li>After a noun: [The rumor <strong>that the update completed</strong>] spread quickly.</li>
           <li className="margin-bottom-20 list-none">[]: SUBject PHRASE / NOUN PHRASE</li>
       
-          <li>After a preposition: They waited [until <strong>{'{the update completed}'}</strong>].</li>
+          <li>After a preposition: They waited [until <strong>the update completed</strong>].</li>
           <li className="margin-bottom-20 list-none">[]: <Link to="/grammar/preposition-phrase">prepoSITion PHRASE</Link> / ADjunct</li>
       
         </ul>
       
-      <h4 className="margin-y-40">Relative Clause: {'{...}'}</h4>
+      <h4 className="margin-y-40">Relative Clause: ...</h4>
 
       <p className="margin-top-20 text-indent-whole">Definition: Directly modifies a noun to provide more specific information about it (traditionally called an adjective clause).</p>
       
         <ul className="list-square">
       
-          <li>Example 1: [The system <strong>{'{which was updated}'}</strong>] is working perfectly.</li>
+          <li>Example 1: [The system <strong>which was updated</strong>] is working perfectly.</li>
           <li className="margin-bottom-20 list-none">[]: SUBject PHRASE / NOUN PHRASE</li>
       
-          <li>Example 2: [The engineer <strong>{'{who ran the update}'}</strong>] has left the building.</li>
+          <li>Example 2: [The engineer <strong>who ran the update</strong>] has left the building.</li>
           <li className="margin-bottom-20 list-none">[]: SUBject PHRASE / NOUN PHRASE</li>
       
         </ul>
 
 
-      <h4 className="margin-y-40">Comparative Clause: {'{...}'}</h4>
+      <h4 className="margin-y-40">Comparative Clause: ...</h4>
 
       <p className="margin-top-20 text-indent-whole">Definition: A specialized structure used exclusively inside comparison frameworks, typically introduced by than or as.</p>
       
         <ul className="list-square">
       
-          <li>Example 1: The new version runs [much faster than <strong>{'{the old one did}'}</strong>].</li>
+          <li>Example 1: The new version runs [much faster than <strong>the old one did</strong>].</li>
           <li className="margin-bottom-20 list-none">[]: comPARative PHRASE / ADjunct</li>
       
-          <li>Example 2: The setup was not [as difficult as <strong>{'{we expected}'}</strong>].</li>
+          <li>Example 2: The setup was not [as difficult as <strong>we expected</strong>].</li>
           <li className="margin-bottom-20 list-none">[]: comPARative PHRASE / ADjunct</li>
       
         </ul>

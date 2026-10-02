@@ -529,12 +529,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[the AUthor {'{who WROTE this ARticle}'}] is an EXpert.</li>
-					<li className="margin-bottom-20 list-none">[Tác giả {'{người mà đã viết bài báo này}'}] là một chuyên gia.</li>
+					<li>[the AUthor who WROTE this ARticle] is an EXpert.</li>
+					<li className="margin-bottom-20 list-none">[Tác giả người mà đã viết bài báo này] là một chuyên gia.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the AUthor {'{who WROTE this ARticle}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the AUthor who WROTE this ARticle] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: {'{who WROTE this ARticle}'} – [RELative CLAUSE][QUAN ĐIỀU] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau. Đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the AUthor" tác giả đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: who WROTE this ARticle – [RELative CLAUSE][QUAN ĐIỀU] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau. Đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho [SUBject HEAD][CHỦ LÕI] "the AUthor" tác giả đó.</li>
 			
 				</ul>
 			
@@ -580,12 +580,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[the CAR {'{he DROVE YESterday}'}] beLONGED to his FAther.</li>
-					<li className="margin-bottom-20 list-none">[Chiếc xe {'{anh ấy lái hôm qua}'}] thuộc về ba anh ấy.</li>
+					<li>[the CAR he DROVE YESterday] beLONGED to his FAther.</li>
+					<li className="margin-bottom-20 list-none">[Chiếc xe anh ấy lái hôm qua] thuộc về ba anh ấy.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the CAR {'{he DROVE YESterday}'}] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the CAR he DROVE YESterday] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: {'{he DROVE YESterday}'} – [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu. Đang đứng vị trí bám sát ngay sau [SUBject HEAD][CHỦ LÕI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: he DROVE YESterday – [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu. Đang đứng vị trí bám sát ngay sau [SUBject HEAD][CHỦ LÕI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
 				</ul>
 			
@@ -616,20 +616,20 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[eVALuating {'{HOW we ALlocated the BUDget}'}] was CRITical.</li>
-					<li className="margin-bottom-20 list-none">[Việc đánh giá {'{cách chúng ta phân bổ ngân sách}'}] đã mang tính sống còn.</li>
+					<li>[eVALuating HOW we ALlocated the BUDget] was CRITical.</li>
+					<li className="margin-bottom-20 list-none">[Việc đánh giá cách chúng ta phân bổ ngân sách] đã mang tính sống còn.</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">[eVALuating {'{HOW we ALlocated the BUDget}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng ở đầu câu lớn.</li>
+					<li className="list-none">[eVALuating HOW we ALlocated the BUDget] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng ở đầu câu lớn.</li>
 
-					<li className="list-none">Trong đó khối phụ {'{HOW we ALlocated the BUDget}'} - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tầng trong chịu tác động trực tiếp từ hành động "eVALuating" đánh giá.</li>
+					<li className="list-none">Trong đó khối phụ HOW we ALlocated the BUDget - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tầng trong chịu tác động trực tiếp từ hành động "eVALuating" đánh giá.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">[eVALuating {'{HOW we ALlocated the BUDget}'}] – [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU] ở tầng ngoài bắt đầu bằng dạng vận động -ing.</li>
+					<li className="list-none">[eVALuating HOW we ALlocated the BUDget] – [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU] ở tầng ngoài bắt đầu bằng dạng vận động -ing.</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ {'{HOW we ALlocated the BUDget}'} là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] được dẫn dắt bởi "how".</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ HOW we ALlocated the BUDget là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] được dẫn dắt bởi "how".</li>
 			
 				</ul>
 			
@@ -638,20 +638,20 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the MANager sugGESted [reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}].</li>
-					<li className="margin-bottom-20 list-none">Người quản lý đã đề xuất [việc xem xét lại {'{những gì đội ngũ đã hoàn thành trong quý này}'}].</li>
+					<li>the MANager sugGESted [reVIEWing WHAT the TEAM acCOMplished this QUARter].</li>
+					<li className="margin-bottom-20 list-none">Người quản lý đã đề xuất [việc xem xét lại những gì đội ngũ đã hoàn thành trong quý này].</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] lớn đứng sau [PRETerite FORM][KHỨ DẠNG] "sugGESted".</li>
+					<li className="list-none">[reVIEWing WHAT the TEAM acCOMplished this QUARter] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] lớn đứng sau [PRETerite FORM][KHỨ DẠNG] "sugGESted".</li>
 
-					<li className="list-none">Trong đó khối phụ {'{WHAT the TEAM acCOMplished this QUARter}'} - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tầng trong nhỏ tiếp nhận tác động từ hành động xem xét.</li>
+					<li className="list-none">Trong đó khối phụ WHAT the TEAM acCOMplished this QUARter - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tầng trong nhỏ tiếp nhận tác động từ hành động xem xét.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU] ở tầng ngoài bắt đầu bằng dạng -ing.</li>
+					<li className="list-none">[reVIEWing WHAT the TEAM acCOMplished this QUARter] – [PRESent PARTiciple VERB and emBEDded CLAUSE][HIỆN TIẾP ĐỘNG và NHÚNG ĐIỀU] ở tầng ngoài bắt đầu bằng dạng -ing.</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ {'{WHAT the TEAM acCOMplished this QUARter}'} là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] giữ vai trò làm bổ ngữ làm rõ sự việc.</li>
+					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ WHAT the TEAM acCOMplished this QUARter là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] giữ vai trò làm bổ ngữ làm rõ sự việc.</li>
 			
 				</ul>
 
@@ -660,20 +660,20 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the LABoratory [in {'{which they TEST the SAMple}'}] is seCURE.</li>
-					<li className="margin-bottom-20 list-none">Phòng thí nghiệm [trong {'{nơi mà họ kiểm tra mẫu thử}'}] thì an toàn.</li>
+					<li>the LABoratory [in which they TEST the SAMple] is seCURE.</li>
+					<li className="margin-bottom-20 list-none">Phòng thí nghiệm [trong nơi mà họ kiểm tra mẫu thử] thì an toàn.</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">[in {'{which they TEST the SAMple}'}] – [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tầng ngoài đứng ngay sau thành phần [SUBject HEAD][CHỦ LÕI] chính "the LABoratory" để bổ nghĩa và khu biệt không gian.</li>
+					<li className="list-none">[in which they TEST the SAMple] – [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tầng ngoài đứng ngay sau thành phần [SUBject HEAD][CHỦ LÕI] chính "the LABoratory" để bổ nghĩa và khu biệt không gian.</li>
 
-					<li className="list-none">Trong đó khối phụ {'{which they TEST the SAMple}'} - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tầng trong chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "in".</li>
+					<li className="list-none">Trong đó khối phụ which they TEST the SAMple - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tầng trong chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "in".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">[in {'{which they TEST the SAMple}'}] – [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] mở đầu bằng [prepoSITion][GIỚI] "in".</li>
+					<li className="list-none">[in which they TEST the SAMple] – [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] mở đầu bằng [prepoSITion][GIỚI] "in".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ {'{which they TEST the SAMple}'} là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] đóng vai trò bổ nghĩa hoàn chỉnh cho bối cảnh nơi chốn.</li>
+					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ which they TEST the SAMple là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] đóng vai trò bổ nghĩa hoàn chỉnh cho bối cảnh nơi chốn.</li>
 			
 				</ul>
 			
@@ -683,20 +683,20 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she aDAPTed [through {'{WHAT she disCOVered during reSEARCH}'}].</li>
-					<li className="margin-bottom-20 list-none">Cô ấy đã thích nghi [thông qua {'{những gì cô ấy khám phá ra trong lúc nghiên cứu}'}].</li>
+					<li>she aDAPTed [through WHAT she disCOVered during reSEARCH].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy đã thích nghi [thông qua những gì cô ấy khám phá ra trong lúc nghiên cứu].</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">[through {'{WHAT she disCOVered during reSEARCH}'}] – [<strong>ADjunct</strong>][<strong>PHỤ</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
+					<li className="list-none">[through WHAT she disCOVered during reSEARCH] – [<strong>ADjunct</strong>][<strong>PHỤ</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
 
-					<li className="list-none">Trong đó khối phụ {'{WHAT she disCOVered during reSEARCH}'} - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tầng trong tiếp nhận mối quan hệ phương tiện từ [prepoSITion][GIỚI] "through".</li>
+					<li className="list-none">Trong đó khối phụ WHAT she disCOVered during reSEARCH - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tầng trong tiếp nhận mối quan hệ phương tiện từ [prepoSITion][GIỚI] "through".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">[through {'{WHAT she disCOVered during reSEARCH}'}] – [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] mở đầu bằng [prepoSITion][GIỚI] phương thức "through".</li>
+					<li className="list-none">[through WHAT she disCOVered during reSEARCH] – [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] mở đầu bằng [prepoSITion][GIỚI] phương thức "through".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ {'{WHAT she disCOVered during reSEARCH}'} là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] biểu thị một sự việc có thực tế diễn ra.</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ WHAT she disCOVered during reSEARCH là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] biểu thị một sự việc có thực tế diễn ra.</li>
 			
 				</ul>
 		

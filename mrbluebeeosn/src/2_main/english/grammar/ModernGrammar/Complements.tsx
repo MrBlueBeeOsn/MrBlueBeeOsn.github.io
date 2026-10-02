@@ -188,7 +188,7 @@ export default function Complements(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Relative Clause: I bought [{'{the thing'} that you recommended].</li>
+					<li>Relative Clause: I bought [the thing] that you recommended].</li>
 					<li className="margin-bottom-20 list-none">Có danh từ "the thing"</li>
 
 					<li>Fused Relative Clause: I bought [what you recommended].</li>
@@ -200,7 +200,7 @@ export default function Complements(): React.JSX.Element {
 
 				<ul className="list-square">
 			
-					<li>Relative Clause: [{'{Anyone}'} who wants to come] is welcome.</li>
+					<li>Relative Clause: [Anyone who wants to come] is welcome.</li>
 					<li className="margin-bottom-20 list-none">Có danh từ/đại từ "Anyone"</li>
 
 					<li>Fused Relative Clause: [Whoever] wants to come is welcome.</li>
@@ -213,7 +213,7 @@ export default function Complements(): React.JSX.Element {
 
 				<ul className="list-square">
 			
-					<li>Relative Clause: This is [the place {'{where we first met}'}].</li>
+					<li>Relative Clause: This is [the place where we first met].</li>
 					<li className="margin-bottom-20 list-none">Có danh từ "the place"</li>
 
 					<li>Fused Relative Clause: This is [where we first met].</li>
@@ -224,7 +224,7 @@ export default function Complements(): React.JSX.Element {
 			
 			<ul className="list-square">
 			
-					<li>Relative Clause: for [the thing {'{that happened}'}]</li>
+					<li>Relative Clause: for [the thing that happened]</li>
 					<li className="margin-bottom-20 list-none"><strong>The relative clause</strong> functions as an instance of <strong>the clause as modifier</strong> within a nominal constituent.</li>
 
 					<li>Fused Relative Clause: for [what happened].</li>

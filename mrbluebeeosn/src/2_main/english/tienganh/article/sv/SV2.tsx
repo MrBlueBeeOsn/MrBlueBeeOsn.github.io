@@ -240,7 +240,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He spoke [calmly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy nói [một cách bình tĩnh].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [calmly] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "calm" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [calmly] - MODified ADVERBĐỊNH TRẠNG hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "calm" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [calmly] – [ADverb HEAD][TRẠNG LÕI] đứng cạnh hành động spoke, bổ sung ý nghĩa về cách thức thực hiện hành động.</li>
 			
@@ -286,16 +286,16 @@ export default function SV2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>She [forgot {'{WHY I called her}'}].</li>
-					<li className="margin-bottom-20 list-none">Cô ấy [quên {'{tại sao tôi gọi cho cô ấy}'}].</li>
+					<li>She [forgot WHY I called her].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy [quên tại sao tôi gọi cho cô ấy].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> lớp trong: {'{WHY I called her}'} – [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] có I là thành phần thực hiện hành động, called là hành động dạng có đuôi -ed, her là đối tượng.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> lớp trong: WHY I called her – [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] có I là thành phần thực hiện hành động, called là hành động dạng có đuôi -ed, her là đối tượng.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{WHY I called her}'} – [NOUN CLAUSE][DANH ĐIỀU] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
+					<li className="margin-bottom-20 list-none">Chức năng lớp trong: WHY I called her – [NOUN CLAUSE][DANH ĐIỀU] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> lớp ngoài: [forgot {'{WHY I called her}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PRETerite FORM][KHỨ DẠNG] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> lớp ngoài: [forgot WHY I called her] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] bắt đầu bằng [PRETerite FORM][KHỨ DẠNG] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> lớp ngoài: [forgot {'{WHY I called her}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ khối này nằm sau She, là [OBject PROnoun] – đối tượng mà hành động forgot hướng đến.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> lớp ngoài: [forgot WHY I called her] – [NOUN PHRASE][DANH CỤM] toàn bộ khối này nằm sau She, là [OBject PROnoun] – đối tượng mà hành động forgot hướng đến.</li>
 			
 				</ul>
 			
@@ -444,7 +444,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He drives [carefully].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [cẩn thận].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [carefully] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "care" mặc thêm (kết hợp) hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [carefully] - MODified ADVERBĐỊNH TRẠNG hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "care" mặc thêm (kết hợp) hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [carefully] – [ADverb HEAD][TRẠNG LÕI] bổ nghĩa cho hành động drives.</li>
 			

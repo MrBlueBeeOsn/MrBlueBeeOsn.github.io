@@ -182,7 +182,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He answered [politely].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [một cách lịch sự].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [politely] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [politely] - MODified ADVERBĐỊNH TRẠNG hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [politely] – [ADverb HEAD][TRẠNG LÕI] làm rõ cách thức cho [ĐỘNG] answered</li>
 			
@@ -229,14 +229,14 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>He [forgot {'{that she needed the document}'}].</li>
-					<li className="margin-bottom-20 list-none">Anh ấy [đã quên {'{rằng cô ấy cần tài liệu}'}].</li>
+					<li>He [forgot that she needed the document].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy [đã quên rằng cô ấy cần tài liệu].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> tổng thể: [forgot {'{that she needed the document}'}] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] tầng ngoài [PRETerite FORM][KHỨ DẠNG] forgot</li>
-					<li className="margin-bottom-20 list-none">Hình thái bên trong: {'{that she needed the document}'} – [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] tầng trong</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> tổng thể: [forgot that she needed the document] – [emBEDded PAST TENSE VERB PHRASE] [NHÚNG QUÁ THỜI ĐỘNG CỤM] tầng ngoài [PRETerite FORM][KHỨ DẠNG] forgot</li>
+					<li className="margin-bottom-20 list-none">Hình thái bên trong: that she needed the document – [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] tầng trong</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> của khối trong: {'{that she needed the document}'} – [NOUN CLAUSE][DANH ĐIỀU]</li>
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> của khối ngoài: [forgot {'{that she needed the document}'}] – [NOUN PHRASE][DANH CỤM] toàn bộ là khối mở rộng sau He</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> của khối trong: that she needed the document – [NOUN CLAUSE][DANH ĐIỀU]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> của khối ngoài: [forgot that she needed the document] – [NOUN PHRASE][DANH CỤM] toàn bộ là khối mở rộng sau He</li>
 			
 				</ul>
 			

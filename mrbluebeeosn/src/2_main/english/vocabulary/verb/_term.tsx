@@ -626,7 +626,7 @@ export default function (): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
       
         <ul className="list-square">
       
@@ -658,7 +658,7 @@ export default function (): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
       
         <ul className="list-square">
       
@@ -690,7 +690,7 @@ export default function (): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
       
         <ul className="list-square">
       
@@ -722,7 +722,7 @@ export default function (): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
       
         <ul className="list-square">
       
@@ -754,7 +754,7 @@ export default function (): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
       
         <ul className="list-square">
       
@@ -787,7 +787,7 @@ export default function (): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
       
         <ul className="list-square">
       
@@ -819,7 +819,7 @@ export default function (): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
       
         <ul className="list-square">
       

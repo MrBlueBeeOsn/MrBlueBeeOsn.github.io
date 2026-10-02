@@ -158,7 +158,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He runs [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy chạy [nhanh].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [quickly] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "quick" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [quickly] - MODified ADVERBĐỊNH TRẠNG hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "quick" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [quickly] - [ADjunct 1][PHỤ 1] bổ sung cách thức cho runs.</li>
 			
@@ -172,7 +172,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>She speaks [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy nói [nhẹ nhàng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [softly] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "soft" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [softly] - MODified ADVERBĐỊNH TRẠNG hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "soft" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [softly] - [ADjunct 1][PHỤ 1] bổ sung cách thức cho speaks.</li>
 			
@@ -384,15 +384,15 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Mở rộng: [NOUN PHRASE][DANH CỤM]</h4>
 
-			<p className="text-indent-whole">Đôi khi bạn thấy một [Động Cụm] bên ngoài bao bọc một {'{Liên Câu}'} bên trong. Cả hai tầng đều làm việc Danh, nhưng khác cấp độ.</p>
+			<p className="text-indent-whole">Đôi khi bạn thấy một [Động Cụm] bên ngoài bao bọc một Liên Câu bên trong. Cả hai tầng đều làm việc Danh, nhưng khác cấp độ.</p>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ</strong>: [knows {'{what you did}'}]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ</strong>: [knows what you did]</p>
 			
 				<ul className="list-square">
 			
 					<li>She [______].</li>
-					<li className="margin-bottom-20 list-none">Cô ấy [biết {'{những gì bạn đã làm}'}].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy [biết những gì bạn đã làm].</li>
 			
 				</ul>
 
@@ -400,8 +400,8 @@ export default function SuperWords2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Toàn bộ [knows {'{what you did}'}'] - [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] tầng ngoài.</li>
-					<li>{'{what you did}'} bên trong - [suBORdinate CLAUSE][PHỤ ĐIỀU] có you và did.</li>
+					<li>Toàn bộ [knows what you did'] - [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] tầng ngoài.</li>
+					<li>what you did bên trong - [suBORdinate CLAUSE][PHỤ ĐIỀU] có you và did.</li>
 			
 				</ul>
 			
@@ -409,8 +409,8 @@ export default function SuperWords2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>{'{what you did}'} - [NOUN CLAUSE][DANH ĐIỀU] làm đối tượng cho knows.</li>
-					<li>Toàn bộ [knows {'{what you did}'}] - [NOUN PHRASE][DANH CỤM] làm một khối hoàn chỉnh gắn với She.</li>
+					<li>what you did - [NOUN CLAUSE][DANH ĐIỀU] làm đối tượng cho knows.</li>
+					<li>Toàn bộ [knows what you did] - [NOUN PHRASE][DANH CỤM] làm một khối hoàn chỉnh gắn với She.</li>
 			
 				</ul>
 			
@@ -529,7 +529,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He drives [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [cẩn thận].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [carefully] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "care" mặc thêm hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [carefully] - MODified ADVERBĐỊNH TRẠNG hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "care" mặc thêm hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [carefully] - [ADjunct 1][PHỤ 1] bổ sung cách thức cho drives.</li>
 			

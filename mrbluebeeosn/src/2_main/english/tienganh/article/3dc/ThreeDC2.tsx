@@ -135,20 +135,20 @@ export default function ThreeDC2(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ đặc biệt</strong> – <strong>Danh Cụm phân tầng</strong> (khối ngoài [ ... ], khối trong {'{ ... }'}): [ heard {'{ that she had won }'} ]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ đặc biệt</strong> – <strong>Danh Cụm phân tầng</strong> (khối ngoài [ ... ], khối trong  ... ): [ heard  that she had won  ]</p>
 			
 				<ul className="list-square">
 			
 					<li>We [ ______ ].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi [ nghe {'{ rằng cô ấy đã thắng }'} ].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi [ nghe  rằng cô ấy đã thắng  ].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> khối ngoài: [ heard {'{ ... }'} ] - [emBEDded NOUN PHRASE][NHÚNG ĐỘNG CỤM] gồm [ĐỘNG] [heard] và một khối bên trong</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> khối ngoài: [ heard  ...  ] - [emBEDded NOUN PHRASE][NHÚNG ĐỘNG CỤM] gồm [ĐỘNG] [heard] và một khối bên trong</li>
 			
-					<li className="margin-bottom-20 list-none">Hình thái khối trong: {'{ that she had won }'} - [suBORdinate CLAUSE][PHỤ ĐIỀU] có cặp [she] và [had won]</li>
+					<li className="margin-bottom-20 list-none">Hình thái khối trong:  that she had won  - [suBORdinate CLAUSE][PHỤ ĐIỀU] có cặp [she] và [had won]</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> khối trong: {'{ that she had won }'} - [NOUN CLAUSE][DANH ĐIỀU] là nội dung của hành động nghe</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> khối trong:  that she had won  - [NOUN CLAUSE][DANH ĐIỀU] là nội dung của hành động nghe</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> khối ngoài: toàn bộ [ heard {'{ ... }'} ] - [NOUN PHRASE][DANH CỤM] là đối tượng trực tiếp của [ĐỘNG] [heard], chịu tác động từ chủ thể [We]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> khối ngoài: toàn bộ [ heard  ...  ] - [NOUN PHRASE][DANH CỤM] là đối tượng trực tiếp của [ĐỘNG] [heard], chịu tác động từ chủ thể [We]</li>
 			
 				</ul>
 
@@ -216,7 +216,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>He answered [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [chính xác].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [correctly] - {'{MODified ADVERB}'}{'{ĐỊNH TRẠNG}'} hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "correct" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [correctly] - MODified ADVERBĐỊNH TRẠNG hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "correct" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [correctly] - [ADjunct 1][PHỤ 1] bổ nghĩa cho [ĐỘNG] [answered], cho biết cách thức hành động diễn ra.</li>
 			

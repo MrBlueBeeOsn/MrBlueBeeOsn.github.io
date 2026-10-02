@@ -276,18 +276,18 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 
 
-			<p className="margin-top-20 text-indent-whole">🌟 <strong>Danh Cụm phân tầng</strong> [<strong>emBEDded Noun Phrase</strong>]: [knows {'{where she hides the key}'}]</p>
+			<p className="margin-top-20 text-indent-whole">🌟 <strong>Danh Cụm phân tầng</strong> [<strong>emBEDded Noun Phrase</strong>]: [knows where she hides the key]</p>
 
 			<p className="margin-top-20 text-indent-whole">Khi một [Liên Câu] được lồng bên trong một Động Cụm, ta có một [Danh Cụm] phân tầng – cấu trúc cực kỳ phổ biến trong tiếng Anh đẳng cấp.</p>
 			
 				<ul className="list-square">
 			
 					<li>He [______].</li>
-					<li className="margin-bottom-20 list-none">Anh ấy [biết {'{nơi cô ấy giấu chìa khóa}'}].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy [biết nơi cô ấy giấu chìa khóa].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> tầng trong: {'{where she hides the key}'} – [conJUNCtional CLAUSE][LIÊN ĐIỀU] → chức năng [NOUN CLAUSE][DANH ĐIỀU].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> tầng trong: where she hides the key – [conJUNCtional CLAUSE][LIÊN ĐIỀU] → chức năng [NOUN CLAUSE][DANH ĐIỀU].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> tầng ngoài: [knows {'{…}'}] – [emBEDded 3RD-PERson PRESent VERB PHRASE] [NHÚNG BA HIỆN ĐỘNG CỤM] → chức năng [Danh Cụm] phân tầng [emBEDded NOUN PHRASE] đóng vai trò [OBject PROnoun] (thành phần tiếp nhận hành động của He).</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> tầng ngoài: [knows …] – [emBEDded 3RD-PERson PRESent VERB PHRASE] [NHÚNG BA HIỆN ĐỘNG CỤM] → chức năng [Danh Cụm] phân tầng [emBEDded NOUN PHRASE] đóng vai trò [OBject PROnoun] (thành phần tiếp nhận hành động của He).</li>
 			
 				</ul>
 			
