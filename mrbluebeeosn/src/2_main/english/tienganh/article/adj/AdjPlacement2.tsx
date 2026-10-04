@@ -356,7 +356,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]: [to pass the exam]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]: [to pass the exam]</p>
 			
 				<ul className="list-square">
 			
@@ -370,7 +370,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]: [because it was raining heavily]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]: [because it was raining heavily]</p>
 			
 				<ul className="list-square">
 			

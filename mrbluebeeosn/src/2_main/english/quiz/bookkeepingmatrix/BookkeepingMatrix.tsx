@@ -58,7 +58,7 @@ export default function (): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [while REconciling the BANK STATEment] - [Liên HIỆN TIẾP ĐỘNG CỤM][Conjunctional Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while REconciling the BANK STATEment] - [ADjunct][PHỤ] modifying the main action \"FOUND\" by establishing the exact accounting timeframe."
+			explanation: "Form: [while REconciling the BANK STATEment] - [Liên HIỆN TIẾP ĐỘNG CỤM][Conjunctional Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while REconciling the BANK STATEment] - [ADverb as ADjunct][TRẠNG làm PHỤ] modifying the main action \"FOUND\" by establishing the exact accounting timeframe."
 		},
 		{
 			id: 5,
@@ -88,7 +88,7 @@ export default function (): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [because the TRAVel exPENses were not AUthorized] - [suBORdinate CLAUSE][PHỤ ĐIỀU] utilizing a causal conjunction coupled with a complete financial subject and a passive voice verb structure. \n\n Function: [because the TRAVel exPENses were not AUthorized] - [ADjunct][PHỤ] modifying the independent clause by providing the regulatory reason why the reimbursement failed."
+			explanation: "Form: [because the TRAVel exPENses were not AUthorized] - [suBORdinate CLAUSE][PHỤ ĐIỀU] utilizing a causal conjunction coupled with a complete financial subject and a passive voice verb structure. \n\n Function: [because the TRAVel exPENses were not AUthorized] - [ADverb as ADjunct][TRẠNG làm PHỤ] modifying the independent clause by providing the regulatory reason why the reimbursement failed."
 		},
 		{
 			id: 8,

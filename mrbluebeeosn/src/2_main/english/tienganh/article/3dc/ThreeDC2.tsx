@@ -223,7 +223,7 @@ export default function ThreeDC2(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong> – [<strong>ADjunct</strong>][<strong>PHỤ</strong>]: [to catch the first bus]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong> – [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]: [to catch the first bus]</p>
 			
 				<ul className="list-square">
 			
@@ -232,12 +232,12 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to catch the first bus] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng to-V kèm tân thể, chỉ mục đích</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to catch the first bus] - [ADjunct][PHỤ] bổ nghĩa cho [Động Cụm] [woke up early], giải thích mục đích của việc dậy sớm</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to catch the first bus] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa cho [Động Cụm] [woke up early], giải thích mục đích của việc dậy sớm</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>ADjunct</strong>][<strong>PHỤ</strong>]: [If you study regularly]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]: [If you study regularly]</p>
 			
 				<ul className="list-square">
 			
@@ -246,7 +246,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [If you study regularly] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có cặp [you] và [study]</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [If you study regularly] - [ADjunct][PHỤ] bổ nghĩa cho nhóm từ chính [you will improve], chỉ điều kiện cần để xảy ra kết quả</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [If you study regularly] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa cho nhóm từ chính [you will improve], chỉ điều kiện cần để xảy ra kết quả</li>
 			
 				</ul>
 
@@ -362,7 +362,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [because she studied hard] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có cặp [she] và [studied]</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because she studied hard] - [ADjunct][PHỤ] chỉ lý do, bổ nghĩa cho [Động Cụm] [passed the exam]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because she studied hard] - [ADverb as ADjunct][TRẠNG làm PHỤ] chỉ lý do, bổ nghĩa cho [Động Cụm] [passed the exam]</li>
 			
 				</ul>
 			
@@ -376,7 +376,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [by studying hard] - [prepoSITion PHRASE][GIỚI CỤM] giới từ kết hợp với V-ing</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [by studying hard] - [ADjunct][PHỤ] bổ nghĩa cho [Động Cụm] [passed the exam], chỉ cách thức đạt được kết quả</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [by studying hard] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa cho [Động Cụm] [passed the exam], chỉ cách thức đạt được kết quả</li>
 			
 				</ul>
 			

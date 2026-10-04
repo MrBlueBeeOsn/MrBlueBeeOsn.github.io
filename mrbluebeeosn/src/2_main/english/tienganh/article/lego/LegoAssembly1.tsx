@@ -603,7 +603,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">Khối tổng thể [with the perSPECtive that FACTS GUIDE deVELopment] là một [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] bắt đầu bằng [prepoSITion][GIỚI] with bao bọc lấy các cấu trúc phụ thuộc tầng dưới tạo nên chiều sâu thông tin.</li>
+					<li className="list-none">Khối tổng thể [with the perSPECtive that FACTS GUIDE deVELopment] là một [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] with bao bọc lấy các cấu trúc phụ thuộc tầng dưới tạo nên chiều sâu thông tin.</li>
 
 					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong that FACTS GUIDE deVELopment là một [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] chứa [suBORdinator][HẠ] that kết hợp với một cấu hình [S]-[HEAD] nội bộ đã được chia [Thời] gian.</li>
 			
@@ -619,7 +619,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the FILE which conTAINS the rePORT] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which conTAINS the rePORT - RELative CLAUSEQUAN CÂU chứa [PROnoun as SUBject ][ĐẠI làm CHỦ] which đóng vai trò thế cho khối định danh đứng trước, đồng thời làm nhiệm vụ làm [HEAD as SUBject][LÕI làm CHỦ] nội bộ kết hợp liền mạch với hành động conTAINS. Bổ nghĩa trực tiếp để giới hạn và xác định đặc điểm rõ ràng cho  "the FILE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which conTAINS the rePORT - [RELative CLAUSE][QUAN CÂU] chứa [PROnoun as SUBject ][ĐẠI làm CHỦ] which đóng vai trò thế cho khối định danh đứng trước, đồng thời làm nhiệm vụ làm [HEAD as SUBject][LÕI làm CHỦ] nội bộ kết hợp liền mạch với hành động conTAINS. Bổ nghĩa trực tiếp để giới hạn và xác định đặc điểm rõ ràng cho  "the FILE".</li>
 			
 				</ul>
 
@@ -670,14 +670,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>ADjunct</strong>][<strong>PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>we dePLOYED the appliCAtion [in the CLOUD INfrastructure].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã triển khai ứng dụng [trong hạ tầng điện toán đám mây].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the CLOUD INfrastructure] - [ADjunct][PHỤ] đứng cuối câu để bổ sung bối cảnh không gian vị trí nơi diễn ra toàn bộ sự việc.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the CLOUD INfrastructure] - [ADverb as ADjunct][TRẠNG làm PHỤ] đứng cuối câu để bổ sung bối cảnh không gian vị trí nơi diễn ra toàn bộ sự việc.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in the CLOUD INfrastructure] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] in kết hợp một khối chức năng Danh chỉ không gian để xác định phạm vi hoạt động của [prepoSITion][GIỚI].</li>
 			
@@ -695,7 +695,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [the tranSITion at the MOment when the upDATe comPLEted] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ]</li>
 					
-					<li className="list-none">Khối giữa [at the MOment when the upDATe comPLEted] đóng vai trò là [<strong>ADjunct</strong>][<strong>PHỤ</strong>] bổ sung bối cảnh mốc [Thời] gian cụ thể cho hành động chính iNITiated.</li>
+					<li className="list-none">Khối giữa [at the MOment when the upDATe comPLEted] đóng vai trò là [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] bổ sung bối cảnh mốc [Thời] gian cụ thể cho hành động chính iNITiated.</li>
 
 					<li className="list-none">Khối nhỏ bên trong when the upDATe comPLEted đóng vai trò là [RELative CLAUSE][QUAN ĐIỀU] bổ nghĩa tính chất xác định trực tiếp cho [HEAD as NOUN][LÕI làm DANH] MOment.</li>
 					
@@ -703,21 +703,21 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [the tranSITion at the MOment when the upDATe comPLEted] - [NOUN PHRASE][DANH CỤM]</li>
 
-					<li className="list-none">Khối giữa at the MOment when the upDATe comPLEted là một [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] bắt đầu bằng [prepoSITion][GIỚI] at ôm lấy cấu trúc phức hợp tầng dưới nhằm định vị [Thời] gian.</li>
+					<li className="list-none">Khối giữa at the MOment when the upDATe comPLEted là một [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] at ôm lấy cấu trúc phức hợp tầng dưới nhằm định vị [Thời] gian.</li>
 
 					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong when the upDATe comPLEted là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [PrepoSITion][GIỚI] when liên kết một câu con hoàn chỉnh có chủ vị riêng.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>ADjunct</strong>][<strong>PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>COMplex prepoSITional PHRASE</strong>][<strong>PHỨC GIỚI CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>COMplex prepoSITional PHRASE</strong>][<strong>PHỨC GIỚI CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>the PROgram CRASHED [due to a MEMORy LEAK].</li>
 					<li className="margin-bottom-20 list-none">Chương trình đã bị sập [vì lỗi rò rỉ bộ nhớ].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to a MEMORy LEAK] - [ADjunct][PHỤ] mở rộng bối cảnh nguyên nhân lý do cho trạng thái sự việc CRASHED.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to a MEMORy LEAK] - [ADverb as ADjunct][TRẠNG làm PHỤ] mở rộng bối cảnh nguyên nhân lý do cho trạng thái sự việc CRASHED.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [due to a MEMORy LEAK] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng một [prepoSITion][GIỚI] "due kết hợp khối [prepoSITion PHRASE][PHỨC GIỚI CỤM] "to a MEMORy LEAK" đi kèm phía sau để chỉ nguyên nhân khách quan.</li>
 			
@@ -739,14 +739,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADjunct</strong>][<strong>PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro conJUNCtional CLAUSE</strong>][<strong>ẨN LIÊN ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro conJUNCtional CLAUSE</strong>][<strong>ẨN LIÊN ĐIỀU</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>[had the WARNing TRIGgered SOONer], we would have MITigated RISKS.</li>
 					<li className="margin-bottom-20 list-none">[Nếu cảnh báo kích hoạt sớm hơn], chúng tôi đã giảm thiểu được các rủi ro.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had the WARNing TRIGgered SOONer] - [ADjunct][PHỤ] đóng vai trò cung cấp cảnh báo nền tảng giả định bối cảnh điều kiện tiên quyết cho hệ quả của câu lớn phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had the WARNing TRIGgered SOONer] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò cung cấp cảnh báo nền tảng giả định bối cảnh điều kiện tiên quyết cho hệ quả của câu lớn phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [had the WARNing TRIGgered SOONer] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] giả định đã triệt tiêu hoàn toàn [PrepoSITion][GIỚI] điều kiện bằng phương pháp đảo cấu trúc đảo khối [FInite VERB][HẠN ĐỘNG] Had lên đứng trước [HEAD as SUBject][LÕI làm CHỦ] nội bộ the WARNing.</li>
 			
@@ -785,7 +785,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the PLATform upDATed [as <strong>soon</strong> as the CODE PATCH WENT LIVE].</li>
 					<li className="margin-bottom-20 list-none">Nền tảng đã cập nhật [ngay khi bản vá mã nguồn được kích hoạt trực tuyến].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [as <strong>soon</strong> as the CODE PATCH WENT LIVE] - [ADjunct][PHỤ] thay thế vị trí của [ADverb HEAD][TRẠNG LÕI] cũ, mở rộng quy mô thông tin thành bối cảnh [Thời] gian cho hành động chính updated nhưng vẫn giữ nguyên màu sắc chức năng cung cấp bối cảnh.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [as <strong>soon</strong> as the CODE PATCH WENT LIVE] - [ADverb as ADjunct][TRẠNG làm PHỤ] thay thế vị trí của [ADverb HEAD][TRẠNG LÕI] cũ, mở rộng quy mô thông tin thành bối cảnh [Thời] gian cho hành động chính updated nhưng vẫn giữ nguyên màu sắc chức năng cung cấp bối cảnh.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [as <strong>soon</strong> as the CODE PATCH WENT LIVE] - [Phức Liên Câu][Complex Conjunctional Clause] cấp độ [CLAUSE][ĐIỀU], chứa [Phức LIÊN][Complex conJUNCtion] as <strong>soon</strong> as kết hợp với một bộ cấu trúc [S]-[HEAD] hoàn chỉnh bên trong để mô tả một mốc sự kiện kích hoạt tức thời.</li>
 			

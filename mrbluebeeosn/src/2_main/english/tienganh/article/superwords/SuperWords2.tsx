@@ -261,7 +261,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to earn money] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng to-V chỉ mục đích.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to earn money] - [ADjunct][PHỤ] bổ sung mục đích cho works hard.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to earn money] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ sung mục đích cho works hard.</li>
 			
 				</ul>
 			
@@ -275,7 +275,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to catch the bus] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng to-V.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to catch the bus] - [ADjunct][PHỤ] bổ sung mục đích cho left.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to catch the bus] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ sung mục đích cho left.</li>
 			
 				</ul>
 			
@@ -361,7 +361,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Because it rained] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có it và rained.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Because it rained] - [ADjunct][PHỤ] chỉ nguyên nhân cho stayed home</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Because it rained] - [ADverb as ADjunct][TRẠNG làm PHỤ] chỉ nguyên nhân cho stayed home</li>
 			
 				</ul>
 			
@@ -375,7 +375,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [When you arrive] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có you và arrive.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [When you arrive] - [ADjunct][PHỤ] chỉ thời gian cho call me.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [When you arrive] - [ADverb as ADjunct][TRẠNG làm PHỤ] chỉ thời gian cho call me.</li>
 			
 				</ul>
 			
@@ -543,9 +543,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He drives [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [với sự cẩn thận lớn].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [with great care] - [ADjunct][PHỤ] dạng giới từ cụm.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [with great care] - [ADverb as ADjunct][TRẠNG làm PHỤ] dạng giới từ cụm.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with great care] - [ADjunct][PHỤ] bổ sung cách thức cho drives.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with great care] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			
@@ -559,7 +559,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [as if he were taking a test] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có he và were taking.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [as if he were taking a test] - [ADjunct][PHỤ] bổ sung cách thức cho drives.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [as if he were taking a test] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			

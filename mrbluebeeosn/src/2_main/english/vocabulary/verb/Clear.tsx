@@ -442,7 +442,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[to CLEAR the misunderSTANDing], she SENT an Email.</li>
           <li className="margin-bottom-20 list-none">[Để xóa bỏ sự hiểu lầm], cô ấy đã gửi một email.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to CLEAR the misunderSTANDing], - [ADjunct][PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích nhấn mạnh cho toàn bộ phần diện thông tin chính phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to CLEAR the misunderSTANDing], - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích nhấn mạnh cho toàn bộ phần diện thông tin chính phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CLEAR the misunderSTANDing] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] nguyên bản có "to", được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
       
@@ -458,7 +458,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>the MANager SPENT HOURS [CLEARing OLD User PROfiles].</li>
           <li className="margin-bottom-20 list-none">Người quản lý đã dành hàng giờ đồng hồ [cho việc xóa các hồ sơ người dùng cũ].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing OLD User PROfiles] - [ADjunct][PHỤ] đóng vai trò làm khối bối cảnh cách thức/nội dung đi kèm để bổ nghĩa trực tiếp cho khuôn mẫu [PREDicator HEAD][VỊ LÕI] "SPENT" phía trước.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing OLD User PROfiles] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò làm khối bối cảnh cách thức/nội dung đi kèm để bổ nghĩa trực tiếp cho khuôn mẫu [PREDicator HEAD][VỊ LÕI] "SPENT" phía trước.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARing OLD User PROfiles] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng đuôi "-ing" đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
       
@@ -474,7 +474,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[CLEARing the WORKspace EARly], he LEFT the OFFice with PEACE of MIND.</li>
           <li className="margin-bottom-20 list-none">[Do dọn dẹp không gian làm việc sớm], anh ấy đã rời văn phòng với tâm trí thảnh thơi.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the WORKspace EARly] - [ADjunct][PHỤ] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the WORKspace EARly] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARing the WORKspace EARly] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng "-ing" do được rút gọn từ một hệ [LIÊN ĐIỀU] Trạng phụ thuộc có cùng thành phần lõi [PROnoun as SUBject ][ĐẠI làm CHỦ].</li>
       
@@ -505,9 +505,9 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>ADjunct</strong>][<strong>PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 8a:</p>
       
@@ -516,14 +516,14 @@ export default function CLEAR(): React.JSX.Element {
           <li>they MADE the deCISion [<strong>af</strong>ter a CLEAR explaNAtion].</li>
           <li className="margin-bottom-20 list-none">Họ đã đưa ra quyết định [sau một lời giải thích rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [<strong>af</strong>ter a CLEAR explaNAtion] - [ADjunct][PHỤ] đảm nhận vai trò làm một khối bối cảnh thời gian đứng sau để xác định cơ sở cho [PREDicator HEAD][VỊ LÕI] "MADE".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [<strong>af</strong>ter a CLEAR explaNAtion] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm một khối bối cảnh thời gian đứng sau để xác định cơ sở cho [PREDicator HEAD][VỊ LÕI] "MADE".</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [<strong>af</strong>ter a CLEAR explaNAtion] - [prepoSITion PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã xác lập thời điểm, bắt đầu bằng [prepoSITion][GIỚI] "<strong>af</strong>ter".</li>
       
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>ADjunct</strong>][<strong>PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 8b:</p>
       
@@ -532,7 +532,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[with a CLEAR GOAL], she QUICKly FINished the rePORT.</li>
           <li className="margin-bottom-20 list-none">[Với một mục tiêu rõ ràng], cô ấy đã hoàn thành bản báo cáo một cách nhanh chóng.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with a CLEAR GOAL] - [ADjunct][PHỤ] đảm nhận nhiệm vụ thiết lập một khối bối cảnh phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with a CLEAR GOAL] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ thiết lập một khối bối cảnh phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [with a CLEAR GOAL] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "with" kéo theo vùng cụm danh chủ/DANH CỤM phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
       
@@ -581,7 +581,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the engiNEER who CLEARED the ERror CODES] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: who CLEARED the ERror CODES - RELative CLAUSEQUAN CÂU chứa mã liên kết chỉ người đứng đầu, mang hạt nhân [PRETerite FORM][KHỨ DẠNG] "CLEARED" xử lý bối cảnh thuộc trục thời quá khứ. Hoạt động như một MODule lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the engiNEER".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: who CLEARED the ERror CODES - [RELative CLAUSE][QUAN CÂU] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân [PRETerite FORM][KHỨ DẠNG] "CLEARED" xử lý bối cảnh thuộc trục thời quá khứ. Hoạt động như một MODule lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the engiNEER".</li>
       
         </ul>
       
@@ -640,7 +640,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11c:</p>
       
@@ -649,7 +649,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[should you CLEAR the PENDing TASKS toDAY], we will START the NEW PLAN.</li>
           <li className="margin-bottom-20 list-none">[Nếu bạn giải quyết xong các nhiệm vụ còn tồn đọng trong hôm nay], chúng tôi sẽ bắt đầu kế hoạch mới.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should you CLEAR the PENDing TASKS toDAY] - [ADjunct][PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should you CLEAR the PENDing TASKS toDAY] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [should you CLEAR the PENDing TASKS toDAY] - [suBORdinate CLAUSE][PHỤ ĐIỀU] vận hành ở trạng thái ẩn [PrepoSITion][GIỚI] điều kiện "if" bằng giải pháp đảo [PREDicator][VỊ] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [PROnoun as SUBject ][ĐẠI làm CHỦ] "you" và [PLAIN FORM][GIẢN DẠNG] "CLEAR".</li>
       
@@ -682,8 +682,6 @@ export default function CLEAR(): React.JSX.Element {
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [ANalyzing HOW the PROgram CLEARS METadata] - [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
       
         <ul className="list-square">
       
@@ -712,8 +710,6 @@ export default function CLEAR(): React.JSX.Element {
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [MONitoring WHY the DAtabase CLEARS SESsions] - [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
       
         <ul className="list-square">
       
@@ -744,8 +740,6 @@ export default function CLEAR(): React.JSX.Element {
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a<strong>bout</strong> HOW they CLEAR the seCUrity CHECK] - [prepoSITion PHRASE][GIỚI CỤM] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITion][GIỚI] "a<strong>bout</strong>".</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
       
         <ul className="list-square">
       
@@ -772,13 +766,11 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [at where the TEAM CLEARED the LAND] - [<strong>ADjunct</strong>][<strong>PHỤ</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho [PREDicator HEAD][VỊ LÕI] "LOOKED".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [at where the TEAM CLEARED the LAND] - [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho [PREDicator HEAD][VỊ LÕI] "LOOKED".</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [at where TEAM CLEARED the LAND] - [prepoSITion PHRASE][GIỚI CỤM] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng [prepoSITion][GIỚI] "at".</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
       
         <ul className="list-square">
       
@@ -839,7 +831,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>we imPROVED the perFORmance [by CLEARing OLD DAtabase LOGS].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện hiệu suất [bằng cách xóa các nhật ký cơ sở dữ liệu cũ].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [by CLEARing OLD DAtabase LOGS] - [ADjunct][PHỤ] đảm nhận vai trò làm một khối bối cảnh phương thức đứng sau bổ nghĩa cho hành động chính.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [by CLEARing OLD DAtabase LOGS] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm một khối bối cảnh phương thức đứng sau bổ nghĩa cho hành động chính.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [by CLEARing OLD DAtabase LOGS] - [prepoSITion PHRASE][GIỚI CỤM] hiển thị dưới dạng một vùng mã chứa [prepoSITion][GIỚI] phương thức "by" đi kèm [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] đuôi "-ing" và đối tượng.</li>
       
@@ -853,7 +845,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>we imPROVED the perFORmance [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện hiệu suất [vì hệ thống đã dọn sạch tất cả dữ liệu rác].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [ADjunct][PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [suBORdinate CLAUSE][PHỤ ĐIỀU] hiển thị dưới dạng khối mã chứa đầy đủ [HEAD as SUBject][LÕI làm CHỦ] "the system" và hạt nhân [PRETerite FORM][KHỨ DẠNG] "CLEARED" đi sau [PrepoSITion][GIỚI] "be<strong>cause</strong>".</li>
       
@@ -871,7 +863,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [an appliCAtion which CLEARS STORage SMOOTHly] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
          
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: which CLEARS STORage SMOOTHly - RELative CLAUSEQUAN CÂU thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "CLEARS". Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng  "appliCAtion".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: which CLEARS STORage SMOOTHly - [RELative CLAUSE][QUAN CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "CLEARS". Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng  "appliCAtion".</li>
       
         </ul>
       
@@ -899,7 +891,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>we STARTed the implemenTAtion [<strong>af</strong>ter a CLEAR BRIEFing].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã bắt đầu việc triển khai [sau một buổi hướng dẫn rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [<strong>af</strong>ter a CLEAR BRIEFing] - [ADjunct][PHỤ] thực thi vai trò làm khối bối cảnh thời gian đứng sau để xác định cơ sở cho hành động chính.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [<strong>af</strong>ter a CLEAR BRIEFing] - [ADverb as ADjunct][TRẠNG làm PHỤ] thực thi vai trò làm khối bối cảnh thời gian đứng sau để xác định cơ sở cho hành động chính.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [<strong>af</strong>ter a CLEAR BRIEFing] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] chỉ mốc thời gian "<strong>af</strong>ter " để kéo theo khối [NOUN PHRASE][DANH CỤM] phía sau.</li>
       
@@ -913,7 +905,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>we STARTed the implemenTAtion [with a CLEAR BRIEFing].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã bắt đầu việc triển khai [với một buổi hướng dẫn rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [with a CLEAR BRIEFing] - [ADjunct][PHỤ] tiếp tục đảm nhận chính xác vai trò thiết lập khối bối cảnh phương thức cho hành động chính mà không làm biến dạng sơ đồ sắp xếp tổng thể.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [with a CLEAR BRIEFing] - [ADverb as ADjunct][TRẠNG làm PHỤ] tiếp tục đảm nhận chính xác vai trò thiết lập khối bối cảnh phương thức cho hành động chính mà không làm biến dạng sơ đồ sắp xếp tổng thể.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [with a CLEAR BRIEFing] - [prepoSITion PHRASE][GIỚI CỤM] mới, bắt đầu bằng [prepoSITion][GIỚI] đồng hành/phương thức "with" được đưa vào thế chỗ.</li>
       

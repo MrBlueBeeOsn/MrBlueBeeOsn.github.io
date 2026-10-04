@@ -48,7 +48,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [to LET in some FRESH AIR] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LET in some FRESH AIR] - [ADjunct][PHỤ] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"Opens\"."
+			explanation: "Hình thái: [to LET in some FRESH AIR] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LET in some FRESH AIR] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"Opens\"."
 		},
 		{
 			id: 4,
@@ -58,7 +58,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [that you LENT me YESterday] - RELative CLAUSEQUAN CÂU bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (LENT). \n\n Chức năng: [that you LENT me YESterday] - [RELative CLAUSE][QUAN ĐIỀU] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"the BOOK\"."
+			explanation: "Hình thái: [that you LENT me YESterday] - [RELative CLAUSE][QUAN CÂU] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (LENT). \n\n Chức năng: [that you LENT me YESterday] - [RELative CLAUSE][QUAN ĐIỀU] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"the BOOK\"."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [as SOON as the RAIN STOPS] - [suBORdinate CLAUSE][PHỤ ĐIỀU] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as SOON as the RAIN STOPS] - [ADjunct][PHỤ] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"they will LEAVE\"."
+			explanation: "Hình thái: [as SOON as the RAIN STOPS] - [suBORdinate CLAUSE][PHỤ ĐIỀU] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as SOON as the RAIN STOPS] - [ADverb as ADjunct][TRẠNG làm PHỤ] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"they will LEAVE\"."
 		},
 		{
 			id: 7,

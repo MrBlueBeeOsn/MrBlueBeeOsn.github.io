@@ -475,14 +475,14 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 8</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>] (Dùng [prepoSITion][GIỚI])</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 8</strong>: <strong>Hình thành chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] (Dùng [prepoSITion][GIỚI])</p>
 			
 				<ul className="list-square">
 			
 					<li>we STAYED inDOORS [be<strong>cause</strong> of the seVERE STORM].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã ở trong nhà [bởi vì trận bão dữ dội].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of the seVERE STORM] - [ADjunct][PHỤ] đảm nhiệm vai trò làm một khối bối cảnh nguyên nhân đứng sau hành động để xác định lý do diễn ra sự việc.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of the seVERE STORM] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhiệm vai trò làm một khối bối cảnh nguyên nhân đứng sau hành động để xác định lý do diễn ra sự việc.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the seVERE STORM] - [prepoSITion PHRASE][GIỚI CỤM] mở đầu bằng một tổ hợp định vị lý do đóng vai trò làm [prepoSITion][GIỚI] (be<strong>cause</strong>).</li>
 			
@@ -513,9 +513,6 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to exPLAIN HOW we deSIGN this PLATform] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to exPLAIN ..." và kéo theo khối CLAUSE con bên trong.</li>
 				
 					</ul>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
 			
 				<ul className="list-square">
 			
@@ -544,9 +541,6 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [ANalyzing WHY the SYStem FAILED] - [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] mở rộng bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] (ANalyzing) đứng ngay sau hành động chính.</li>
 				
 					</ul>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
 			
 				<ul className="list-square">
 			
@@ -573,12 +567,9 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				
 						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a<strong>bout</strong> HOW this TEAM deSIGNED the APP] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho [HEAD as SUBject][LÕI làm CHỦ] "the NEWS" đứng trước nó.</li>
 						
-						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a<strong>bout</strong> HOW this TEAM deSIGNED the APP] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
+						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a<strong>bout</strong> HOW this TEAM deSIGNED the APP] - [prepoSITion PHRASE][GIỚI CỤM] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 				
 					</ul>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
 			
 				<ul className="list-square">
 			
@@ -590,7 +581,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 11</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 11</strong>: [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -603,14 +594,11 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [at where they BUILD the SOFTware] - [<strong>ADjunct</strong>][<strong>PHỤ</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho [PREDicator HEAD][VỊ LÕI] "arRIVED".</li>
+						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [at where they BUILD the SOFTware] - [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho [PREDicator HEAD][VỊ LÕI] "arRIVED".</li>
 						
-						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [at where they BUILD the SOFTware] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng [prepoSITion][GIỚI] at.</li>
+						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [at where they BUILD the SOFTware] - [prepoSITion PHRASE][GIỚI CỤM] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng [prepoSITion][GIỚI] at.</li>
 				
 					</ul>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Khối trong</strong> (<strong>Cấp thành phần</strong> - ...):</p>
 			
 				<ul className="list-square">
 			
@@ -667,7 +655,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ARchitect who is deSIGNing the BUILDing] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: who is deSIGNing the BUILDing - RELative CLAUSEQUAN CÂU hiện diện dưới dạng khối câu bắt đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] kết nối who, chứa [PREDicator][VỊ] is deSIGNing riêng biệt. Hoạt động như một MODule lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the ARchitect".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: who is deSIGNing the BUILDing - [RELative CLAUSE][QUAN CÂU] hiện diện dưới dạng khối câu bắt đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] kết nối who, chứa [PREDicator][VỊ] is deSIGNing riêng biệt. Hoạt động như một MODule lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the ARchitect".</li>
 			
 				</ul>
 			
@@ -720,14 +708,14 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 17</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 17</strong>: [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>[had i deSIGNED the SOFTware], i would have TESTed it.</li>
 					<li className="margin-bottom-20 list-none">[Giá mà tôi thiết kế phần mềm], tôi đã kiểm tra nó rồi.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had i deSIGNED the SOFTware] - [ADjunct][PHỤ] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had i deSIGNED the SOFTware] - [ADverb as ADjunct][TRẠNG làm PHỤ] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [had i deSIGNED the SOFTware] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] sử dụng cấu trúc đảo chip [FInite VERB][HẠN ĐỘNG] had lên trước chủ thể "i", xóa bỏ hoàn toàn [PrepoSITion][GIỚI] điều kiện và đồng hành cùng [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] deSIGNED.</li>
 			
@@ -784,7 +772,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the HEAVy RAIN] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>" kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "of the HEAVy RAIN" làm bổ ngữ.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [be<strong>cause</strong> of the HEAVy RAIN] - [ADjunct][PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cụm, đóng vai trò làm [ADjunct][PHỤ] bối cảnh nguyên nhân.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [be<strong>cause</strong> of the HEAVy RAIN] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cụm, đóng vai trò làm [ADjunct][PHỤ] bối cảnh nguyên nhân.</li>
 			
 				</ul>
 
@@ -793,7 +781,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>we deLAYED the LAUNCH [be<strong>cause</strong> it RAINED HEAVily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn buổi ra mắt [bởi vì trời đã mưa rất dày].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [be<strong>cause</strong> it RAINED HEAVily] - [ADjunct][PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn nhưng giữ nguyên giá trị nội dung.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [be<strong>cause</strong> it RAINED HEAVily] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn nhưng giữ nguyên giá trị nội dung.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ ĐIỀU] hiển thị dưới dạng khối mã chứa đầy đủ chủ thể hành động it và hạt nhân [PRETerite FORM][KHỨ DẠNG] RAINED thiết lập cấu hình tích hợp thời quá khứ.</li>
 			
@@ -808,7 +796,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>i BOUGHT [a deVICE which was BUILT in jaPAN].</li>
 					<li className="margin-bottom-20 list-none">Tôi đã mua một thiết bị [cái mà đã được xây dựng tại Nhật].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which was BUILT in jaPAN - RELative CLAUSEQUAN CÂU thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng  "deVICE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which was BUILT in jaPAN - [RELative CLAUSE][QUAN CÂU] thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng  "deVICE".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [a deVICE which was BUILT in jaPAN] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
 			

@@ -499,14 +499,14 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>the SYStem upDATES autoMATically [at MIDnight].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống tự động cập nhật [vào lúc nửa đêm].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [at MIDnight] - [ADjunct][PHỤ] đứng cuối câu nhằm bổ nghĩa hoàn cảnh mốc thời gian diễn ra hành động cập nhật của hệ thống.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [at MIDnight] - [ADverb as ADjunct][TRẠNG làm PHỤ] đứng cuối câu nhằm bổ nghĩa hoàn cảnh mốc thời gian diễn ra hành động cập nhật của hệ thống.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [at MIDnight] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "at" liên kết quan hệ thời gian trực tiếp với [HEAD as NOUN][LÕI làm DANH] "MIDnight".</li>
 			
@@ -556,7 +556,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [the SOFTware which the TEAM dePLOYED LAST NIGHT]- [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối which the TEAM dePLOYED LAST NIGHT - RELative CLAUSEQUAN CÂU bắt đầu bằng [RElative PRONOUN][QUAN ĐẠI] quan hệ "which" kết hợp với cấu trúc một khối hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] "the TEAM" và [PRETerite FORM][KHỨ DẠNG] "dePLOYED". Đứng ôm ngay sau thực thể [HEAD as SUBject][LÕI làm CHỦ] "the SOFTware" để bổ nghĩa chi tiết cho thực thể đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối which the TEAM dePLOYED LAST NIGHT - [RELative CLAUSE][QUAN CÂU] bắt đầu bằng [RElative PRONOUN][QUAN ĐẠI] quan hệ "which" kết hợp với cấu trúc một khối hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] "the TEAM" và [PRETerite FORM][KHỨ DẠNG] "dePLOYED". Đứng ôm ngay sau thực thể [HEAD as SUBject][LÕI làm CHỦ] "the SOFTware" để bổ nghĩa chi tiết cho thực thể đó.</li>
 			
 				</ul>
 			
@@ -610,7 +610,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]:</p>
+			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -695,7 +695,7 @@ export default function ThreeDC1(): React.ReactElement {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">Khối tổng thể [<strong>o</strong>ver whether the COMpany should MERGE] là một [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] bắt đầu bằng [prepoSITion][GIỚI] "over".</li>
+					<li className="list-none">Khối tổng thể [<strong>o</strong>ver whether the COMpany should MERGE] là một [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "over".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói whether the COMpany should MERGE là một [prepoSITion PHRASE][GIỚI CỤM] được mở đầu bằng [SuBORdinator][HẠ] "<strong>wheth</strong>er".</li>
 			
@@ -713,7 +713,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối HOW FREquently the SERver CRASHED bên trong thực thi chức năng làm [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] nhận quan hệ trực tiếp đứng sau [prepoSITion][GIỚI] be<strong>cause</strong> kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "of HOW FREquently the SERver CRASHED".</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [be<strong>cause</strong> of HOW FREquently the SERver CRASHED] thực thi chức năng [<strong>ADjunct</strong>][<strong>PHỤ</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho [PRETerite FORM][KHỨ DẠNG] rediSIGNED.</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [be<strong>cause</strong> of HOW FREquently the SERver CRASHED] thực thi chức năng [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho [PRETerite FORM][KHỨ DẠNG] rediSIGNED.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
@@ -740,7 +740,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SYStem CRASHED [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [vì nhiệt độ bên trong leo thang nhanh chóng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [ADjunct][PHỤ] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "CRASHED".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [ADverb as ADjunct][TRẠNG làm PHỤ] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "CRASHED".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [suBORdinate CLAUSE][PHỤ ĐIỀU] bắt đầu bằng [PrepoSITion][GIỚI] "be<strong>cause</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] "TEMPERature" và [PRETerite FORM][KHỨ DẠNG] "EScalated".</li>
 			
@@ -772,7 +772,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SYStem CRASHED [due to the RAPid TEMPERature escaLAtion].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [do sự leo thang nhiệt độ nhanh chóng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [due to the RAPid TEMPERature escaLAtion] - [ADjunct][PHỤ] thực hiện chức năng cung cấp bối cảnh nguyên nhân rút gọn cho hành động chính "CRASHED".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [due to the RAPid TEMPERature escaLAtion] - [ADverb as ADjunct][TRẠNG làm PHỤ] thực hiện chức năng cung cấp bối cảnh nguyên nhân rút gọn cho hành động chính "CRASHED".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [due to the RAPid TEMPERature escaLAtion] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "due" điều phối một [prepoSITion PHRASE][GIỚI CỤM] "to the RAPid TEMPERature escaLAtion".</li>
 			
@@ -793,7 +793,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [the CODE which acCELerates the RENdering PROCess] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối which acCELerates the RENdering PROCess - RELative CLAUSEQUAN CÂU bắt đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates". Đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể [HEAD as SUBject][LÕI làm CHỦ] "the CODE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối which acCELerates the RENdering PROCess - [RELative CLAUSE][QUAN CÂU] bắt đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates". Đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể [HEAD as SUBject][LÕI làm CHỦ] "the CODE".</li>
 			
 				</ul>
 
@@ -879,7 +879,7 @@ export default function ThreeDC1(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li>Nếu thế thế thân bằng một [ADverb HEAD][TRẠNG LÕI] đơn lẻ (THEN, THERE) thành công</li>
-					<li className="margin-bottom-20 list-none">→ Khối đó đảm nhiệm chức năng [<strong>ADjunct</strong>][<strong>PHỤ</strong>].</li>
+					<li className="margin-bottom-20 list-none">→ Khối đó đảm nhiệm chức năng [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>].</li>
 			
 					<li>Nếu thế thế thân bằng một [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đơn lẻ (BEAUtiful, SMART, NEW) thành công</li>
 					<li className="margin-bottom-20 list-none">→ Khối đó phụ trách chức năng [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>].</li>
@@ -900,7 +900,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the techNIcian will dePLOY the SOFTware [where the SIGnal PEAKS].</li>
 					<li className="margin-bottom-20">the techNIcian will dePLOY the SOFTware [THERE].</li>
 			
-					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] thực thi chức năng [<strong>ADjunct</strong>][<strong>PHỤ</strong>] chỉ bối cảnh vị trí.</li>
+					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] thực thi chức năng [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] chỉ bối cảnh vị trí.</li>
 			
 				</ul>
 			
@@ -935,7 +935,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center" id="inVERsion">X. Đảo ngữ kết hợp (inVERsion)</h3>
 		
-			<p>Nâng tầm [<strong>ADjunct</strong>][<strong>PHỤ</strong>] lên mức học thuật cao nhất bằng cách tiến hành đưa đưa Trạng Câu/Cụm phủ định lên đầu, sau đó tiến hành đảo ngữ [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] thành phần chính:</p>
+			<p>Nâng tầm [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] lên mức học thuật cao nhất bằng cách tiến hành đưa đưa Trạng Câu/Cụm phủ định lên đầu, sau đó tiến hành đảo ngữ [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] thành phần chính:</p>
 
 			<h5 className="margin-y-30 text-indent-whole">Ví dụ 1</h5>
 

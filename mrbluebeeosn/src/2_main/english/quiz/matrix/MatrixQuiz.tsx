@@ -78,7 +78,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to FINish his gradUAtion THEsis] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] formed by the infinitive marker \"to\", the VERB \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [ADjunct][PHỤ] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
+			explanation: "Form: [to FINish his gradUAtion THEsis] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] formed by the infinitive marker \"to\", the VERB \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [ADverb as ADjunct][TRẠNG làm PHỤ] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
 		},
 		{
 			id: 7,
@@ -88,7 +88,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [where they conDUCT MEDical exPERiments] - RELative CLAUSEQUAN CÂU formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conDUCT\". \n\n Function: [where they conDUCT MEDical exPERiments] - [RELative CLAUSE][QUAN ĐIỀU] post-modifies and defines the spatial traits of the head noun \"LABORatory\"."
+			explanation: "Form: [where they conDUCT MEDical exPERiments] - [RELative CLAUSE][QUAN CÂU] formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conDUCT\". \n\n Function: [where they conDUCT MEDical exPERiments] - [RELative CLAUSE][QUAN ĐIỀU] post-modifies and defines the spatial traits of the head noun \"LABORatory\"."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [although the TEAM FACED seVERE BUDget CUTS] - [suBORdinate CLAUSE][PHỤ ĐIỀU] formed by the subordinating conjunction \"although\" followed by a full clause containing the subject \"the TEAM\" and finite verb \"FACED\". \n\n Function: [although the TEAM FACED seVERE BUDget CUTS] - [ADjunct][PHỤ] modifies the entire main clause by providing a situational context of concession."
+			explanation: "Form: [although the TEAM FACED seVERE BUDget CUTS] - [suBORdinate CLAUSE][PHỤ ĐIỀU] formed by the subordinating conjunction \"although\" followed by a full clause containing the subject \"the TEAM\" and finite verb \"FACED\". \n\n Function: [although the TEAM FACED seVERE BUDget CUTS] - [ADverb as ADjunct][TRẠNG làm PHỤ] modifies the entire main clause by providing a situational context of concession."
 		},
 		{
 			id: 9,

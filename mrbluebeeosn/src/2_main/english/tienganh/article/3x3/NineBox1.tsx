@@ -531,7 +531,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -567,7 +567,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADjunct</strong>][<strong>PHỤ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -653,7 +653,7 @@ export default function NineBox1(): React.JSX.Element {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">Khối tổng thể [for WHAT the TEAM dePLOYED YESterday] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
+					<li className="list-none">Khối tổng thể [for WHAT the TEAM dePLOYED YESterday] - [prepoSITion PHRASE][GIỚI CỤM] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói WHAT the TEAM dePLOYED YESterday - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] ở tầng trong bắt đầu bằng [PROnoun][ĐẠI] "what".</li>
 			
@@ -672,11 +672,11 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối where the SYStem STORES fiNANcial LOGS bên trong đóng vai trò làm [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ [prepoSITion][GIỚI] chỉ vị trí.</li>
 
-					<li className="list-none">Và toàn bộ khối tổng thể [at where the SYStem STORES fiNANcial LOGS] vận hành với chức năng [<strong>ADjunct</strong>][<strong>PHỤ</strong>] nhằm bổ nghĩa bối cảnh không gian cho hành động kiểm tra sổ cái.</li>
+					<li className="list-none">Và toàn bộ khối tổng thể [at where the SYStem STORES fiNANcial LOGS] vận hành với chức năng [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] nhằm bổ nghĩa bối cảnh không gian cho hành động kiểm tra sổ cái.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">Khối tổng thể [at where the SYStem STORES fiNANcial LOGS] - [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "at".</li>
+					<li className="list-none">Khối tổng thể [at where the SYStem STORES fiNANcial LOGS] - [prepoSITion PHRASE][GIỚI CỤM] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "at".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói where the SYStem STORES fiNANcial LOGS - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] ở tầng trong bắt đầu bằng [PrepoSITion][GIỚI] "where".</li>
 			
@@ -780,7 +780,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [this conNECtion which alLOWS unAUthorized USer ACcess] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which alLOWS unAUthorized USer ACcess - RELative CLAUSEQUAN CÂU chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "alLOWS". Đứng sau làm nhiệm vụ định danh thuộc tính cho  "conNECtion" kết nối.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which alLOWS unAUthorized USer ACcess - [RELative CLAUSE][QUAN CÂU] chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "alLOWS". Đứng sau làm nhiệm vụ định danh thuộc tính cho  "conNECtion" kết nối.</li>
 			
 				</ul>
 

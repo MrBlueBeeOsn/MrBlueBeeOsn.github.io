@@ -30,12 +30,15 @@ npm run db:server
 json-server --watch src/data/db.json --port 3001
 npx json-server src/data/db.json --port 3001
 
+npm run install
+
 Bash
 cd /D/Github/Black/MrBlackBeeOsn.github.io/mrblackbeeosn
 cd /D/Github/Blue/MrBlueBeeOsn.github.io/mrbluebeeosn
 cd /D/Github/Green/MrGreenBeeOsn.github.io/mrgreenbeeosn
 
-npm run install
+git add . → git commit -m "bee" → git push → npm run deploy.
+
 npm run dev
 
 npm run db:generate

@@ -442,7 +442,7 @@ export default function SV1(): React.JSX.Element {
 					<li>we arRIVED [at MIDnight].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [vào lúc nửa đêm].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [at MIDnight] - [ADjunct][PHỤ] gắn vào cuối câu chịu trách nhiệm cung cấp hoàn cảnh thời điểm cho sự việc.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [at MIDnight] - [ADverb as ADjunct][TRẠNG làm PHỤ] gắn vào cuối câu chịu trách nhiệm cung cấp hoàn cảnh thời điểm cho sự việc.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [at MIDnight] - [prepoSITion PHRASE][GIỚI CỤM] cấu thành khối bắt đầu bằng một [prepoSITion][GIỚI] mốc thời gian.</li>
 			
@@ -483,7 +483,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[the LAPtop which i BOUGHT LAST WEEK] WORKS PERfectly.</li>
 					<li className="margin-bottom-20 list-none">[Chiếc máy tính xách tay mà tôi mua tuần trước] hoạt động hoàn hảo.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which i BOUGHT LAST WEEK - RELative CLAUSEQUAN CÂU định hình khối hành động phức có chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "i" và [PRETerite FORM][KHỨ DẠNG] "BOUGHT", bắt đầu bằng [PROnoun][ĐẠI] "which". Thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [HEAD as SUBject][LÕI làm CHỦ] "LAPtop".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which i BOUGHT LAST WEEK - [RELative CLAUSE][QUAN CÂU] định hình khối hành động phức có chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "i" và [PRETerite FORM][KHỨ DẠNG] "BOUGHT", bắt đầu bằng [PROnoun][ĐẠI] "which". Thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [HEAD as SUBject][LÕI làm CHỦ] "LAPtop".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [the LAPtop which i BOUGHT LAST WEEK] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 			
@@ -548,7 +548,7 @@ export default function SV1(): React.JSX.Element {
 					<li>the TEA was SO HOT [i COULDN'T DRINK it].</li>
 					<li className="margin-bottom-20 list-none">Trà quá nóng [đến mức tôi không thể uống được].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [i COULDN'T DRINK it] - [ADjunct][PHỤ] gắn vào phía sau [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] "HOT" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [ADverb HEAD][TRẠNG LÕI] "SO".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [i COULDN'T DRINK it] - [ADverb as ADjunct][TRẠNG làm PHỤ] gắn vào phía sau [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] "HOT" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [ADverb HEAD][TRẠNG LÕI] "SO".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [i COULDN'T DRINK it] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "i" và cụm hành động gồm [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "COULDN'T" kết hợp với [PLAIN FORM][GIẢN DẠNG] "DRINK".</li>
 			
@@ -672,7 +672,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [a<strong>bout</strong> HOW she sucCEEDed] là một khối [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [a<strong>bout</strong> HOW she sucCEEDed] là một khối [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 					
 					<li className="list-none">Tầng trong: Khối lồng bên trong HOW she sucCEEDed là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] có chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "she" và [PRETerite FORM][KHỨ DẠNG] "sucCEEDed", bắt đầu bằng [ADverb][TRẠNG] "HOW".</li>
 			
@@ -703,7 +703,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">Tầng ngoài: Lớp trong [SLOWer than we exPECTed] vận hành đồng bộ như một khối [<strong>ADjunct</strong>][<strong>PHỤ</strong>] tổng thể gắn sau [PRETerite FORM][KHỨ DẠNG] "WALKED" nhằm làm rõ hoàn cảnh cách thức hành động được thực hiện.</li>
+					<li className="list-none">Tầng ngoài: Lớp trong [SLOWer than we exPECTed] vận hành đồng bộ như một khối [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] tổng thể gắn sau [PRETerite FORM][KHỨ DẠNG] "WALKED" nhằm làm rõ hoàn cảnh cách thức hành động được thực hiện.</li>
 					
 					<li className="list-none">Tầng trong: Lớp trong than we exPECTed đóng vai trò là một [ADjunct][PHỤ] phụ thuộc, neo vào sau [MODified ADVERB][ĐỊNH TRẠNG] dạng so sánh SLOWer để làm rõ mức độ cho cấu trúc so sánh.</li>
 			
@@ -743,7 +743,7 @@ export default function SV1(): React.JSX.Element {
 					<li>we arRIVED [to HELP our FRIENDS].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [để giúp đỡ bạn bè của chúng tôi].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to HELP our FRIENDS] - [ADjunct][PHỤ] đứng sau [PRETerite FORM][KHỨ DẠNG] "arRIVED" nhằm làm rõ mục đích cho phần thông tin trước đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to HELP our FRIENDS] - [ADverb as ADjunct][TRẠNG làm PHỤ] đứng sau [PRETerite FORM][KHỨ DẠNG] "arRIVED" nhằm làm rõ mục đích cho phần thông tin trước đó.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to HELP our FRIENDS] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [HEAD as SUBject][LÕI làm CHỦ] - [PREDicator HEAD][VỊ LÕI], bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] "to".</li>
 			
@@ -757,7 +757,7 @@ export default function SV1(): React.JSX.Element {
 					<li>we arRIVED [at NOON].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [vào buổi trưa].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [at NOON] - [ADjunct][PHỤ] gắn vào phía sau [PRETerite FORM][KHỨ DẠNG] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời điểm cho sự việc.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [at NOON] - [ADverb as ADjunct][TRẠNG làm PHỤ] gắn vào phía sau [PRETerite FORM][KHỨ DẠNG] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời điểm cho sự việc.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [at NOON] - [prepoSITion PHRASE][GIỚI CỤM] cấu thành khối bắt đầu bằng một [prepoSITion][GIỚI] mốc thời gian.</li>
 			
@@ -771,7 +771,7 @@ export default function SV1(): React.JSX.Element {
 					<li>we arRIVED [<strong>af</strong>ter the RAIN STOPPED].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [sau khi cơn mưa tạnh].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [<strong>af</strong>ter the RAIN STOPPED] - [ADjunct][PHỤ] gắn vào phía sau [PRETerite FORM][KHỨ DẠNG] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời gian cho toàn bộ hành động phía trước.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [<strong>af</strong>ter the RAIN STOPPED] - [ADverb as ADjunct][TRẠNG làm PHỤ] gắn vào phía sau [PRETerite FORM][KHỨ DẠNG] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời gian cho toàn bộ hành động phía trước.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [<strong>af</strong>ter the RAIN STOPPED] - [suBORdinate CLAUSE][PHỤ ĐIỀU] thể hiện khối hành động phức có chứa hệ trục [HEAD as SUBject][LÕI làm CHỦ] "the RAIN" và [PRETerite FORM][KHỨ DẠNG] "STOPPED", bắt đầu bằng [PrepoSITion][GIỚI] "<strong>af</strong>ter ".</li>
 			

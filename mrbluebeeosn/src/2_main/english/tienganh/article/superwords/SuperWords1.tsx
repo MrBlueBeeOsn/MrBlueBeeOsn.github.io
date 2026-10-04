@@ -471,7 +471,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -590,7 +590,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>ADjunct</strong>][<strong>PHỤ</strong>]</p>
+			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -671,7 +671,7 @@ export default function SuperWords1(): React.JSX.Element {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">[in which they TEST the SAMple] – [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] mở đầu bằng [prepoSITion][GIỚI] "in".</li>
+					<li className="list-none">[in which they TEST the SAMple] – [prepoSITion PHRASE][GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] "in".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ which they TEST the SAMple là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] đóng vai trò bổ nghĩa hoàn chỉnh cho bối cảnh nơi chốn.</li>
 			
@@ -688,13 +688,13 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">[through WHAT she disCOVered during reSEARCH] – [<strong>ADjunct</strong>][<strong>PHỤ</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
+					<li className="list-none">[through WHAT she disCOVered during reSEARCH] – [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
 
 					<li className="list-none">Trong đó khối phụ WHAT she disCOVered during reSEARCH - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tầng trong tiếp nhận mối quan hệ phương tiện từ [prepoSITion][GIỚI] "through".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">[through WHAT she disCOVered during reSEARCH] – [prepoSITion and emBEDded CLAUSE][GIỚI và NHÚNG ĐIỀU] mở đầu bằng [prepoSITion][GIỚI] phương thức "through".</li>
+					<li className="list-none">[through WHAT she disCOVered during reSEARCH] – [prepoSITion PHRASE][GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] phương thức "through".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ WHAT she disCOVered during reSEARCH là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] biểu thị một sự việc có thực tế diễn ra.</li>
 			
