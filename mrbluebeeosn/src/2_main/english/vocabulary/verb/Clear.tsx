@@ -275,7 +275,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a CLEAR explaNAtion] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: CLEAR - [MODified ADjective][CHỈNH TÍNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "CLEAR" khi giữ nguyên trạng thái nhưng chuyển đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm dưới dạng từ đơn lẻ. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng  "explaNAtion" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: CLEAR - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "CLEAR" khi giữ nguyên trạng thái nhưng chuyển đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm dưới dạng từ đơn lẻ. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng  "explaNAtion" để hiển thị đặc điểm của đối tượng đó.</li>
       
         </ul>
       

@@ -260,7 +260,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a reSPONsive TEAM] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: reSPONsive - [MODified ADjective][CHỈNH TÍNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "reSPOND" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] kích hoạt bộ quét đặt ngay trước đối tượng  "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: reSPONsive - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "TEAM". Hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "reSPOND" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] kích hoạt bộ quét đặt ngay trước đối tượng  "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
 			
 				</ul>
 			
@@ -271,12 +271,14 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the SYStem SOLVED the QUEry [reSPONsively during the TEST].</li>
-					<li className="margin-bottom-20 list-none">Hệ thống đã giải quyết truy vấn [một cách nhanh nhạy trong suốt bài kiểm tra].</li>
+					<li>the SYStem SOLVED [the QUEry reSPONsively during the TEST].</li>
+					<li className="margin-bottom-20 list-none">Hệ thống đã giải quyết [truy vấn một cách nhanh nhạy trong suốt bài kiểm tra].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONsively during the TEST] - [ADverb as ADjunct 1][TRẠNG làm PHỤ 1] và [ADverb as ADjunct 2][TRẠNG làm PHỤ 2] làm thành phần bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED" để xác định cách thức diễn ra.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the QUEry reSPONsively during the TEST] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG]"SOLVED".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: reSPONsively - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "reSPOND" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONsively during the TEST] - [ADverb as ADjunct 1][TRẠNG làm PHỤ 1] làm thành phần bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED" để xác định cách thức diễn ra. Hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "reSPOND" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
+
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [during the TEST] - [ADverb as ADjunct][TRẠNG làm PHỤ] làm thành phần bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED" để xác định cách thức diễn ra. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED".</li>
 			
 				</ul>
 
@@ -294,9 +296,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[reSPONDing QUICKly to eMERgency CALLS] reQUIres PROPer prepaRAtion.</li>
 					<li className="margin-bottom-20 list-none">[Việc phản hồi nhanh chóng với các cuộc gọi khẩn cấp] đòi hỏi sự chuẩn bị kỹ lưỡng.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing QUICKly to eMERgency CALLS] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres PROPer prepaRAtion" để làm [SUBject][CHỦ] quản lý một đầu việc lớn ở đầu câu.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing QUICKly to eMERgency CALLS] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres PROPer prepaRAtion" để làm [SUBject][CHỦ] quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDing QUICKly to eMERgency CALLS] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to eMERgency CALLS] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPONDing".</li>
 			
 				</ul>
 
@@ -311,9 +313,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the supPORT TEAM priORitized [reSPONDing to USer FEEDback].</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ hỗ trợ đã ưu tiên [việc phản hồi các phản hồi của người dùng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing to USer FEEDback] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "priORitized" tiếp nhận trực tiếp mục tiêu.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing to USer FEEDback] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "priORitized" tiếp nhận trực tiếp mục tiêu. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] hình thành từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDing to USer FEEDback] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] hình thành từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to USer FEEDback] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPONDing".</li>
 			
 				</ul>
 
@@ -327,9 +329,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[To reSPOND efFECtively in CRIsis situAtions] is the TEAM's MAIN GOAL.</li>
 					<li className="margin-bottom-20 list-none">[Việc phản hồi hiệu quả trong các tình huống khủng hoảng] là mục tiêu chính của đội ngũ.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To reSPOND efFECtively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To reSPOND efFECtively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [To reSPOND efFECtively in CRIsis situAtions] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in CRIsis situAtions] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPOND".</li>
 			
 				</ul>
 
@@ -343,9 +345,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the SYStem AIMS [to reSPOND autoMATically to NETwork eVENTS].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống hướng tới [việc phản hồi tự động đối với các sự kiện mạng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND autoMATically to NETwork eVENTS] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "AIMS" tiếp nhận trực tiếp mục tiêu tác động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND autoMATically to NETwork eVENTS] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "AIMS" tiếp nhận trực tiếp mục tiêu tác động. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to reSPOND autoMATically to NETwork eVENTS] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to NETwork eVENTS] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động "reSPOND".</li>
 			
 				</ul>
 			
@@ -359,9 +361,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[it] is esSENtial [to reSPOND QUICKly to CUStomer comPLAINts].</li>
 					<li className="margin-bottom-20 list-none">Điều thiết yếu là việc [phản hồi nhanh chóng các khiếu nại của khách hàng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND QUICKly to CUStomer comPLAINts] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND QUICKly to CUStomer comPLAINts] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to reSPOND QUICKly to CUStomer comPLAINts] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CUStomer comPLAINts] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động "reSPOND".</li>
 			
 				</ul>
 
@@ -391,12 +393,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the OFficer [to reSPOND to the inQUIRy] has been asSIGNED.</li>
-					<li className="margin-bottom-20 list-none">Sĩ quan [sắp sửa phản hồi truy vấn] đã được phân công.</li>
+					<li>[the OFficer to reSPOND to the inQUIRy] has been asSIGNED.</li>
+					<li className="margin-bottom-20 list-none">[Sĩ quan sắp sửa phản hồi truy vấn] đã được phân công.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND to the inQUIRy] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "OFficer" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the OFficer to reSPOND to the inQUIRy] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PREDicator][VỊ] "has been asSIGNED".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to reSPOND to the inQUIRy] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to reSPOND to the inQUIRy] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [HEAD as SUBject][LÕI làm CHỦ] "OFficer" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
 				</ul>
 			
@@ -407,12 +409,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the Email [to be reSPONDed to by the MANager] will be SENT toMORrow.</li>
-					<li className="margin-bottom-20 list-none">Email [sắp sửa được phản hồi bởi người quản lý] sẽ được gửi vào ngày mai.</li>
+					<li>[the Email to be reSPONDed to by the MANager] will be SENT toMORrow.</li>
+					<li className="margin-bottom-20 list-none">[Email sắp sửa được phản hồi bởi người quản lý] sẽ được gửi vào ngày mai.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to be reSPONDed to by the MANager] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] kích hoạt bộ quét đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "Email" để mô tả trạng thái sắp sửa được tác động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the Email to be reSPONDed to by the MANager] - [NOUN PHRASE as SUBJECT][DANH CỤM làm CHỦ] của hành động [PREDicator][VỊ] "will be SENT"</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to be reSPONDed to by the MANager] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] "to" kéo theo vùng bổ trợ phía sau chứa [PLAIN FORM][GIẢN DẠNG] "be" và [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] "reSPONDed" để biểu thị trạng thái bị động tương lai.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to be reSPONDed to by the MANager] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [HEAD as SUBject][LÕI làm CHỦ] "Email" để mô tả trạng thái sắp sửa được tác động. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] "to" kéo theo vùng bổ trợ phía sau chứa [PLAIN FORM][GIẢN DẠNG] "be" và [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] "reSPONDed" để biểu thị trạng thái bị động tương lai.</li>
 			
 				</ul>
 			
@@ -423,12 +425,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the comPLAINT [reSPONDed to by the SERvice dePARTment] was reSOLVED YESterday.</li>
-					<li className="margin-bottom-20 list-none">Khiếu nại [đã được phản hồi bởi bộ phận dịch vụ] đã được giải quyết ngày hôm qua.</li>
+					<li>[the comPLAINT reSPONDed to by the SERvice dePARTment] was reSOLVED YESterday.</li>
+					<li className="margin-bottom-20 list-none">[Khiếu nại đã được phản hồi bởi bộ phận dịch vụ] đã được giải quyết ngày hôm qua.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDed to by the SERvice dePARTment] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "comPLAINT" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the comPLAINT reSPONDed to by the SERvice dePARTment] - [NOUN PHRASE as SUBJECT][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "reSPONDed", biểu thị đối tượng đã được phản hồi.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDed to by the SERvice dePARTment] - [PAST PARTiciple CLAUSE][KHỨ TÍNH ĐIỀU] phát triển từ [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] "reSPONDed" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDed to by the SERvice dePARTment] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [HEAD as SUBject][LÕI làm CHỦ] "comPLAINT" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này. Bản chất là [PAST PARTiciple CLAUSE][KHỨ TÍNH ĐIỀU] phát triển từ [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] "reSPONDed" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
 			
 				</ul>
 			
@@ -439,12 +441,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>they NEED a SYStem [reSPONsive to MARket CHAnges].</li>
-					<li className="margin-bottom-20 list-none">Họ cần một hệ thống [có độ phản hồi linh hoạt với các thay đổi thị trường].</li>
+					<li>they NEED [a SYStem reSPONsive to MARket CHAnges].</li>
+					<li className="margin-bottom-20 list-none">Họ cần [một hệ thống có độ phản hồi linh hoạt với các thay đổi thị trường].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONsive to MARket CHAnges] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng ngay sau  "SYStem" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a SYStem reSPONsive to MARket CHAnges] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "NEED"</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONsive to MARket CHAnges] - [MODified ADjective PHRASE][ĐỊNH TÍNH CỤM] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "reSPOND" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITion PHRASE][GIỚI CỤM] phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONsive to MARket CHAnges] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của của [HEAD as SUBject][LÕI làm CHỦ] "SYStem" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó. Bản chất là [ADjective PHRASE as post-MODifier][TÍNH CỤM làm HẬU-CHỈNH] của "SYStem".</li>
 			
 				</ul>
 			
@@ -460,9 +462,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[reSPONDing to REcent conSUmer TRENDS], the COMpany LAUNCHED NEW FEAtures.</li>
 					<li className="margin-bottom-20 list-none">[Phản ứng/Phản hồi lại các xu hướng tiêu dùng gần đây], công ty đã ra mắt các tính năng mới.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing to REcent conSUmer TRENDS] - [ADverb as ADjunct 2][TRẠNG làm PHỤ 2] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "LAUNCHED" và toàn bộ CLAUSE chính.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing to REcent conSUmer TRENDS] - [ADverb as ADjunct 2][TRẠNG làm PHỤ 2] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "LAUNCHED" và toàn bộ CLAUSE chính. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] kết hợp mở rộng do được rút gọn từ một hệ [prepoSITion PHRASE][GIỚI CỤM] phụ thuộc có cùng thành phần lõi [PROnoun as SUBject ][ĐẠI làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDing to REcent conSUmer TRENDS] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] kết hợp mở rộng do được rút gọn từ một hệ [prepoSITion PHRASE][GIỚI CỤM] phụ thuộc có cùng thành phần lõi [PROnoun as SUBject ][ĐẠI làm CHỦ].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to REcent conSUmer TRENDS] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] cho [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing"</li>
 			
 				</ul>
 
@@ -473,12 +475,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the COMpany ALlocated FUNDS [reSPONDing to URgent MARket RISKS].</li>
-					<li className="margin-bottom-20 list-none">Công ty đã phân bổ các khoản kinh phí [để ứng phó/phản hồi với các rủi ro thị trường khẩn cấp].</li>
+					<li>the COMpany ALlocated [FUNDS reSPONDing to URgent MARket RISKS].</li>
+					<li className="margin-bottom-20 list-none">Công ty đã phân bổ [các khoản kinh phí để ứng phó/phản hồi với các rủi ro thị trường khẩn cấp].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing to URgent MARket RISKS] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò làm khối bối cảnh cách thức, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [FUNDS reSPONDing to URgent MARket RISKS] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động "ALlocated".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDing to URgent MARket RISKS] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" kết hợp mở rộng đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDing to URgent MARket RISKS] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò làm khối bối cảnh cách thức, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" kết hợp mở rộng đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
 			
 				</ul>
 
@@ -492,9 +494,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[To reSPOND efFECtively to CUStomer deMANDS], the STAFF exTENDed WORKing HOURS.</li>
 					<li className="margin-bottom-20 list-none">[Để phản hồi hiệu quả đối với các yêu cầu của khách hàng], nhân viên đã kéo dài giờ làm việc.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To reSPOND efFECtively to CUStomer deMANDS] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "exTENDed" và toàn bộ diễn biến phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To reSPOND efFECtively to CUStomer deMANDS] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "exTENDed" và toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [To reSPOND efFECtively to CUStomer deMANDS] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CUStomer deMANDS] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPOND".</li>
 			
 				</ul>
 
@@ -508,9 +510,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the techNICian arRIVED [to reSPOND to the NETwork aLERT].</li>
 					<li className="margin-bottom-20 list-none">Kỹ thuật viên đã đến [để phản hồi/xử lý cảnh báo mạng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND to the NETwork aLERT] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "arRIVED".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND to the NETwork aLERT] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "arRIVED". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to reSPOND to the NETwork aLERT] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the NETwork aLERT] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPOND".</li>
 			
 				</ul>
 
@@ -527,9 +529,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the deLAY [in the reSPONSE to the ofFIcial STATEment] CAUSED PUBlic conCERNS.</li>
 					<li className="margin-bottom-20 list-none">Sự chậm trễ [trong việc phản hồi đối với tuyên bố chính thức] đã gây ra những lo ngại trong công chúng.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the reSPONSE to the ofFIcial STATEment] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "deLAY" để hiển thị và mô tả phạm vi thuộc về của đối tượng đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the reSPONSE to the ofFIcial STATEment] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "deLAY" để hiển thị và mô tả phạm vi thuộc về của đối tượng đó. Bản chất là [prepoSITion PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [prepoSITion][GIỚI] "in".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in the reSPONSE to the ofFIcial STATEment] - [prepoSITion PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [prepoSITion][GIỚI] "in".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the reSPONSE to the ofFIcial STATEment] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [prepoSITion][GIỚI] "in".</li>
 			
 				</ul>
 			
@@ -545,9 +547,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[in reSPONSE to NEW seCUrity reguLAtions], the SYStem upDATed autoMATically.</li>
 					<li className="margin-bottom-20 list-none">[Nhằm phản hồi/đáp lại các quy định bảo mật mới], hệ thống đã tự động cập nhật.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in reSPONSE to NEW seCUrity reguLAtions] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "upDATed".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in reSPONSE to NEW seCUrity reguLAtions] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "upDATed". Bản chất là [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "in" kéo theo vùng [NOUN PHRASE][DANH CỤM] phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in reSPONSE to NEW seCUrity reguLAtions] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "in" kéo theo vùng [NOUN PHRASE][DANH CỤM] phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONSE to NEW seCUrity reguLAtions] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [prepoSITion][GIỚI] "in".</li>
 			
 				</ul>
 
@@ -561,9 +563,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the TEAM GATHered [for a QUICK reSPONSE to the INcident].</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ đã tập hợp [phục vụ cho một phản hồi nhanh chóng đối với sự cố].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for a QUICK reSPONSE to the INcident] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "GATHered".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for a QUICK reSPONSE to the INcident] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "GATHered". Bản chất là [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "GATHered", xuất hiện dưới dạng một vùng mã xác lập lý do / bối cảnh.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [for a QUICK reSPONSE to the INcident] - [prepoSITion PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã xác lập lý do / bối cảnh, bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a QUICK reSPONSE to the INcident] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [prepoSITion][GIỚI] "for".</li>
 			
 				</ul>
 
@@ -584,9 +586,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[HOW the SYStem reSPONDS to seCUrity THREATS] deTERmines its reliaBILity.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống phản hồi đối với các mối đe dọa bảo mật] quyết định độ tin cậy của nó.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW the SYStem reSPONDS to seCUrity THREATS] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU] quản lý khối thông tin quy trình, làm [SUBject][CHỦ] điều khiển chính cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "deTERmines".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW the SYStem reSPONDS to seCUrity THREATS] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU] quản lý khối thông tin quy trình, làm [SUBject][CHỦ] điều khiển chính cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "deTERmines". Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, mang [HEAD as SUBject][LÕI làm CHỦ] riêng "the SYStem" và cụm hành động phối hợp phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [HOW the SYStem reSPONDS to seCUrity THREATS] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, mang [HEAD as SUBject][LÕI làm CHỦ] riêng "the SYStem" và cụm hành động phối hợp phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [to seCUrity THREATS] - </li>
 			
 				</ul>
 			
@@ -600,9 +602,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the diRECtor exPLAINED [how the TEAM reSPONDS to URgent inQUIRies].</li>
 					<li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ phản hồi các truy vấn khẩn cấp].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [how the TEAM reSPONDS to URgent inQUIRies] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chứa dữ liệu mục tiêu tiếp nhận cho hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [how the TEAM reSPONDS to URgent inQUIRies] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chứa dữ liệu mục tiêu tiếp nhận cho hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED". Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, có [HEAD as SUBject][LÕI làm CHỦ] "the TEAM" và cụm hành động phối hợp phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [how the TEAM reSPONDS to URgent inQUIRies] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, có [HEAD as SUBject][LÕI làm CHỦ] "the TEAM" và cụm hành động phối hợp phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [to URgent inQUIRies] - </li>
 			
 				</ul>
 			
@@ -616,9 +618,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[the SERver which reSPONDS to USer reQUESTS] was REcently upGRADed.</li>
 					<li className="margin-bottom-20 list-none">[Máy chủ cái mà phản hồi các yêu cầu của người dùng] gần đây đã được nâng cấp.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the SERver which reSPONDS to USer reQUESTS] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the SERver which reSPONDS to USer reQUESTS] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "was".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which reSPONDS to USer reQUESTS - [RELative CLAUSE][QUAN CÂU] chứa thành phần [PROnoun as SUBject ][ĐẠI làm CHỦ] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [HEAD as SUBject][LÕI làm CHỦ] "SERver".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which reSPONDS to USer reQUESTS] - [FInite CLAUSE as post-MODifier][BỊ-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SERver". Bản chất là [RELative CLAUSE][QUAN CÂU] chứa thành phần [PROnoun as SUBject ][ĐẠI làm CHỦ] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [HEAD as SUBject][LÕI làm CHỦ] "SERver".</li>
 			
 				</ul>
 			
@@ -632,9 +634,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the camPAIGN sucCEEDed [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges].</li>
 					<li className="margin-bottom-20 list-none">Chiến dịch đã thành công [vì đội ngũ đã phản hồi/thích ứng kịp thời với các thay đổi thị trường].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] thiết lập MODule bối cảnh, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "sucCEEDed" và toàn bộ CLAUSE chính trước đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] thiết lập MODule bối cảnh, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "sucCEEDed" và toàn bộ CLAUSE chính trước đó. Bản chất là [suBORdinate CLAUSE][PHỤ ĐIỀU] kích hoạt ngay sau thành phần [PrepoSITion][GIỚI] nguyên nhân "be<strong>cause</strong>", chứa [HEAD as SUBject][LÕI làm CHỦ] "the TEAM" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [suBORdinate CLAUSE][PHỤ ĐIỀU] kích hoạt ngay sau thành phần [PrepoSITion][GIỚI] nguyên nhân "be<strong>cause</strong>", chứa [HEAD as SUBject][LÕI làm CHỦ] "the TEAM" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to MARket CHAnges] - </li>
 			
 				</ul>
 
@@ -651,9 +653,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>they beLIEVE [the TEAM reSPONDed apPROpriately to the WARNing].</li>
 					<li className="margin-bottom-20 list-none">Họ tin rằng [đội ngũ đã phản hồi/xử lý một cách thích hợp đối với cảnh báo].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the TEAM reSPONDed apPROpriately to the WARNing] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tiếp nhận trực tiếp nội dung cho hành động [PRETerite FORM][KHỨ DẠNG] "beLIEVE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the TEAM reSPONDed apPROpriately to the WARNing] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tiếp nhận trực tiếp nội dung cho hành động [PRETerite FORM][KHỨ DẠNG] "beLIEVE". Bản chất là [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] đã ẩn thành phần [SuBORdinator][HẠ] định hướng "that", chỉ còn hiển thị trọn vẹn khối [HEAD as SUBject][LÕI làm CHỦ] "the TEAM" và cụm hành động phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the TEAM reSPONDed apPROpriately to the WARNing] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] đã ẩn thành phần [SuBORdinator][HẠ] định hướng "that", chỉ còn hiển thị trọn vẹn khối [HEAD as SUBject][LÕI làm CHỦ] "the TEAM" và cụm hành động phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the WARNing] - </li>
 			
 				</ul>
 			
@@ -669,7 +671,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the Email she reSPONDed to] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: she reSPONDed to - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn thành phần [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] vật thể đứng trước, giữ lại khối [PROnoun as SUBject ][ĐẠI làm CHỦ] "she" và cụm [PRETerite FORM][KHỨ DẠNG] "reSPONDed to". Đóng vai trò như bộ quét đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the Email" để làm rõ đặc điểm cho đối tượng này.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [she reSPONDed to] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn thành phần [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] vật thể đứng trước, giữ lại khối [PROnoun as SUBject ][ĐẠI làm CHỦ] "she" và cụm [PRETerite FORM][KHỨ DẠNG] "reSPONDed to". Đóng vai trò như bộ quét đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the Email" để làm rõ đặc điểm cho đối tượng này.</li>
 			
 				</ul>
 			
@@ -685,7 +687,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the SERver reSPOND SLOWly] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [should the SERver reSPOND SLOWly] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] vận hành ở trạng thái ẩn thành phần [PrepoSITion][GIỚI] điều kiện "if" bằng giải pháp đảo [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [HEAD as SUBject][LÕI làm CHỦ] "the SERver" và [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] "reSPOND SLOWly".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the SERver reSPOND SLOWly] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] vận hành ở trạng thái ẩn thành phần [PrepoSITion][GIỚI] điều kiện "if" bằng giải pháp đảo [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [HEAD as SUBject][LÕI làm CHỦ] "the SERver" và [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] "reSPOND SLOWly".</li>
 			
 				</ul>
 
@@ -708,17 +710,9 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing efFECtively to WHAT CUStomers comPLAIN about] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm  đứng trước hành động [THIRD-PERson SINGular VERB FORM][NGÔI 3 S ĐỘNG DẠNG] "imPROVES".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing efFECtively to WHAT CUStomers comPLAIN about] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm  đứng trước hành động [THIRD-PERson SINGular VERB FORM][NGÔI 3 S ĐỘNG DẠNG] "imPROVES". Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] lớn phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDing efFECtively to WHAT CUStomers comPLAIN about] - [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] lớn phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
-			
-				</ul>
-			
-				<ul className="list-square">
-			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: WHAT CUStomers comPLAIN about - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "to" ở tầng ngoài.</li>
-					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: WHAT CUStomers comPLAIN about - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [HEAD as SUBject][LÕI làm CHỦ] riêng "CUStomers" và cụm hành động riêng đi sau thành phần [PROnoun][ĐẠI] "WHAT".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHAT CUStomers comPLAIN about] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "to" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [HEAD as SUBject][LÕI làm CHỦ] riêng "CUStomers" và cụm hành động riêng đi sau thành phần [PROnoun][ĐẠI] "WHAT".</li>
 			
 				</ul>
 
@@ -736,17 +730,9 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [inVESTigating WHY the TEAM reSPONDed POORly to the FEEDback] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] tiếp nhận nội dung cho hành động [PRETerite FORM][KHỨ DẠNG] "sugGESTed".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [inVESTigating WHY the TEAM reSPONDed POORly to the FEEDback] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] tiếp nhận nội dung cho hành động [PRETerite FORM][KHỨ DẠNG] "sugGESTed". Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "inVESTigating" kết hợp vùng mã mở rộng phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [inVESTigating WHY the TEAM reSPONDed POORly to the FEEDback] - [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "inVESTigating" kết hợp vùng mã mở rộng phía sau.</li>
-			
-				</ul>
-			
-				<ul className="list-square">
-			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: WHY the TEAM reSPONDed POORly to the FEEDback - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "inVESTigating" ở tầng ngoài, làm rõ nội dung cho việc điều tra.</li>
-					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: WHY the TEAM reSPONDed POORly to the FEEDback - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [HEAD as SUBject][LÕI làm CHỦ] riêng "the TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau thành phần [ADverb][TRẠNG] "WHY".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the TEAM reSPONDed POORly to the FEEDback] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "inVESTigating" ở tầng ngoài, làm rõ nội dung cho việc điều tra. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [HEAD as SUBject][LÕI làm CHỦ] riêng "the TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau thành phần [ADverb][TRẠNG] "WHY".</li>
 			
 				</ul>
 
@@ -764,17 +750,9 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] - [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] của hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres RIGorous TESting" để quản lý khối đầu việc ở đầu câu.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] - [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] của hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres RIGorous TESting" để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [To underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
-			
-				</ul>
-			
-				<ul className="list-square">
-			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: HOW the SYStem reSPONDS to NETwork FAIlures - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài.</li>
-					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: HOW the SYStem reSPONDS to NETwork FAIlures - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [HEAD as SUBject][LÕI làm CHỦ] "the SYStem" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem reSPONDS to NETwork FAIlures] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [HEAD as SUBject][LÕI làm CHỦ] "the SYStem" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
 			
 				</ul>
 
@@ -792,17 +770,9 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to ANalyze HOW USers reSPOND to NEW INterface deSIGNS] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "PLANS", tiếp nhận mục tiêu kế hoạch cho hành động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to ANalyze HOW USers reSPOND to NEW INterface deSIGNS] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "PLANS", tiếp nhận mục tiêu kế hoạch cho hành động. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to ANalyze ..." kéo theo vùng mã bổ trợ phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to ANalyze HOW USers reSPOND to NEW INterface deSIGNS] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to ANalyze ..." kéo theo vùng mã bổ trợ phía sau.</li>
-			
-				</ul>
-			
-				<ul className="list-square">
-			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: HOW USers reSPOND to NEW INterface deSIGNS - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "ANalyze" ở tầng ngoài.</li>
-					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: HOW USers reSPOND to NEW INterface deSIGNS - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa [HEAD as SUBject][LÕI làm CHỦ] riêng "USers" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW USers reSPOND to NEW INterface deSIGNS] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "ANalyze" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa [HEAD as SUBject][LÕI làm CHỦ] riêng "USers" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
 			
 				</ul>
 
@@ -820,20 +790,11 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres experTISE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>CHƯA-CHIA ĐIỀU làm CHỦ</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres experTISE". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to eVALuate ..." và kéo theo thành phần bổ trợ phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to eVALuate ..." và kéo theo thành phần bổ trợ phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "eVALuate" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là HOW the appliCAtion reSPONDS to HIGH TRAFfic - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [HEAD as SUBject][LÕI làm CHỦ] riêng "the appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
 			
 				</ul>
-			
-				<ul className="list-square">
-			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: HOW the appliCAtion reSPONDS to HIGH TRAFfic - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "eVALuate" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá.</li>
-					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: HOW the appliCAtion reSPONDS to HIGH TRAFfic - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [HEAD as SUBject][LÕI làm CHỦ] riêng "the appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
-			
-				</ul>
-			
 			
 
 			<p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
@@ -849,17 +810,9 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [regarding HOW the organiZAtion reSPONDS to MARket CRIses] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét tổng thể đặt ngay phía sau đối tượng  "rePORTS" để mô tả đặc điểm nội dung.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [regarding HOW the organiZAtion reSPONDS to MARket CRIses] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "rePORTS", vận hành như một bộ quét tổng thể đặt ngay phía sau đối tượng "rePORTS" để mô tả đặc điểm nội dung. Với "regarding" đóng vai trò [prepoSITion][GIỚI] biểu thị dưới dạng một vùng mã lớn.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [regarding HOW the organiZAtion reSPONDS to MARket CRIses] - [prepoSITion PHRASE][GIỚI CỤM] (với "regarding" đóng vai trò [prepoSITion][GIỚI]) biểu thị dưới dạng một vùng mã lớn.</li>
-			
-				</ul>
-			
-				<ul className="list-square">
-			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: HOW the organiZAtion reSPONDS to MARket CRIses - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp ở tầng ngoài.</li>
-					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: HOW the organiZAtion reSPONDS to MARket CRIses - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [HEAD as SUBject][LÕI làm CHỦ] "the organiZAtion" và cụm hành động đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the organiZAtion reSPONDS to MARket CRIses] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [HEAD as SUBject][LÕI làm CHỦ] "the organiZAtion" và cụm hành động đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
 			
 				</ul>
 
@@ -969,7 +922,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [a reSPONsive SERvice] - </li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] "SERvice" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Bản chất là [MODified ADjective][CHỈNH TÍNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] "SERvice" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Bản chất là [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
 			
 				</ul>
 

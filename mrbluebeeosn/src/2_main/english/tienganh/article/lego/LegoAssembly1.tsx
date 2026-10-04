@@ -556,7 +556,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [INnovative] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đứng trước  "soLUtion" để bổ nghĩa và tô màu thuộc tính đặc điểm cho giải pháp.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [INnovative] - [MODified ADjective][CHỈNH TÍNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "INnovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng biểu đạt một đặc tính, thuộc tính tĩnh của sự vật.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [INnovative] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "INnovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng biểu đạt một đặc tính, thuộc tính tĩnh của sự vật.</li>
 			
 				</ul>
 			

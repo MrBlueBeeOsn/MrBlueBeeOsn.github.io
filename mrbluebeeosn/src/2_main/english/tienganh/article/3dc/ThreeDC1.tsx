@@ -810,7 +810,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [RENdering-acCELerating] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đứng trực tiếp phía trước để bổ nghĩa đặc tính vận hành cho khối biểu thị thực thể [HEAD as SUBject][LÕI làm CHỦ] "CODE".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [RENdering-acCELerating] - [MODified ADjective][CHỈNH TÍNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "acCELerate" mặc thêm (kết hợp) tiền tố thành phần [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "RENdering-" và hậu tố "-ING" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có cấu hình ghép.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [RENdering-acCELerating] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "acCELerate" mặc thêm (kết hợp) tiền tố thành phần [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "RENdering-" và hậu tố "-ING" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có cấu hình ghép.</li>
 			
 				</ul>
 			

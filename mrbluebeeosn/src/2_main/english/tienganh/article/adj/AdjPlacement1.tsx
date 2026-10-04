@@ -290,7 +290,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [INnovative] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] bổ trợ trực tiếp đặc điểm cho  "SYStem".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [INnovative] - [MODified ADjective][CHỈNH TÍNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "INnovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang đặc tính mới.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [INnovative] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "INnovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang đặc tính mới.</li>
 			
 				</ul>
 
@@ -351,7 +351,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [preVENtive against SYStem FAIlures] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] gắn liền phía sau [HEAD as SUBject][LÕI làm CHỦ] "iNItiative" nhằm mở rộng ý nghĩa đánh giá chất lượng.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [preVENtive against SYStem FAIlures] - [MODified ADjective PHRASE][ĐỊNH TÍNH CỤM] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "preVENT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][ĐỊNH TÍNH] "preVENtive", sau đó mở rộng kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "against SYStem FAIlures" để tạo thành một khối [PHRASE][CỤM] hoàn chỉnh.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [preVENtive against SYStem FAIlures] - [ADjective PHRASE as post-MODifier][TÍNH CỤM làm HẬU-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "preVENT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][ĐỊNH TÍNH] "preVENtive", sau đó mở rộng kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "against SYStem FAIlures" để tạo thành một khối [PHRASE][CỤM] hoàn chỉnh.</li>
 			
 				</ul>
 
@@ -621,7 +621,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>the [PROfitable] inVESTment is YOURS.</li>
 					<li className="margin-bottom-20 list-none">Khoản đầu tư [có lợi nhuận] là của bạn.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [PROfitable] - [MODified ADjective][CHỈNH TÍNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "profit" mặc thêm (kết hợp) hậu tố "-able" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][ĐỊNH TÍNH] "PROfitable", chuyên trách cài đặt đặc tính sinh lợi cho đối tượng đi kèm.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [PROfitable] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "profit" mặc thêm (kết hợp) hậu tố "-able" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][ĐỊNH TÍNH] "PROfitable", chuyên trách cài đặt đặc tính sinh lợi cho đối tượng đi kèm.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [PROfitable] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] cài đặt đặc tính cố định cho [HEAD as SUBject][LÕI làm CHỦ] "inVESTment".</li>
 			
@@ -695,7 +695,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>the [efFECtive] POLicy will be apPLIED.</li>
 					<li className="margin-bottom-20 list-none">Chính sách [hiệu quả] sẽ được áp dụng.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [efFECtive] - [MODified ADjective][CHỈNH TÍNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][ĐỊNH TÍNH] "efFECtive", chuyên trách cài đặt đặc tính mang lại kết quả cao cho đối tượng đi kèm.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [efFECtive] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][ĐỊNH TÍNH] "efFECtive", chuyên trách cài đặt đặc tính mang lại kết quả cao cho đối tượng đi kèm.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [efFECtive] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] cài đặt nhãn dán thuộc tính cố định, rút gọn thông tin tối đa cho đối tượng [HEAD as SUBject][LÕI làm CHỦ] "POLicy".</li>
 			

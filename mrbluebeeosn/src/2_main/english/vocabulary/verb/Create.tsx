@@ -260,7 +260,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a creAtive TEAM] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: creAtive - [MODified ADjective][CHỈNH TÍNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] kích hoạt bộ quét đặt ngay trước đối tượng  "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: creAtive - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] kích hoạt bộ quét đặt ngay trước đối tượng  "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
       
         </ul>
       
@@ -445,7 +445,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAtive in its exeCUtion] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng ngay sau  "STRATegy" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtive in its exeCUtion] - [MODified ADjective PHRASE][ĐỊNH TÍNH CỤM] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITion PHRASE][GIỚI CỤM] phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtive in its exeCUtion] - [ADjective PHRASE as post-MODifier][TÍNH CỤM làm HẬU-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITion PHRASE][GIỚI CỤM] phía sau.</li>
       
         </ul>
       
@@ -981,7 +981,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [a creAtive TEAM] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: creAtive - [MODified ADjective][CHỈNH TÍNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] thiết lập vị trí ngay trước đối tượng  "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: creAtive - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] thiết lập vị trí ngay trước đối tượng  "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
         </ul>
 
