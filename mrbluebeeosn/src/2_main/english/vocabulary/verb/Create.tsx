@@ -704,7 +704,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[CreAting soLUtions for WHAT CLIents STRUGgle with] BUILDS MARket VAlue.</li>
+          <li>[CreAting soLUtions for WHAT CLIents STRUGgle with] BUILDS MARket VALue.</li>
           <li className="margin-bottom-20 list-none">[Việc tạo ra các giải pháp cho những gì khách hàng đang gặp khó khăn] xây dựng giá trị thị trường.</li>
       
         </ul>
@@ -880,20 +880,11 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [on WHY the deSIGner creAted COMplex LAYouts] - [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm/nội dung tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "FOcused".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [on WHY the deSIGner creAted COMplex LAYouts] - [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm/nội dung tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "FOcused". Bản chất là [prepoSITion PHRASE][GIỚI CỤM] biểu thị dưới dạng một vùng mã xác lập nội dung lớn bắt đầu bằng [prepoSITion][GIỚI] "on".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [on WHY the deSIGner creAted COMplex LAYouts] - [prepoSITion PHRASE][GIỚI CỤM] biểu thị dưới dạng một vùng mã xác lập nội dung lớn bắt đầu bằng [prepoSITion][GIỚI] "on".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the deSIGner creAted COMplex LAYouts] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "on" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [HEAD as SUBject][LÕI làm CHỦ] riêng "the deSIGner" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [ADverb][TRẠNG] "WHY".</li>
       
         </ul>
-      
-        <ul className="list-square">
-      
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: WHY the deSIGner creAted COMplex LAYouts - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "on" ở tầng ngoài.</li>
-          
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: WHY the deSIGner creAted COMplex LAYouts - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [HEAD as SUBject][LÕI làm CHỦ] riêng "the deSIGner" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [ADverb][TRẠNG] "WHY".</li>
-      
-        </ul>
-      
 
 
       {/* 2.  */}
@@ -909,9 +900,9 @@ export default function creATE(): React.JSX.Element {
           <li>[CreAting HIGH-IMpact CONtent] reQUIres proFESsional dediCAtion.</li>
           <li className="margin-bottom-20 list-none">[Việc tạo ra nội dung có sức tác động cao] đòi hỏi sự tận tụy chuyên nghiệp.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CreAting HIGH-IMpact CONtent] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [SUBject][CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CreAting HIGH-IMpact CONtent] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" để quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] biểu hiện dưới dạng khối mã mở rộng chứa hành động và đối tượng đi kèm.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [CreAting HIGH-IMpact CONtent] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] biểu hiện dưới dạng khối mã mở rộng chứa hành động và đối tượng đi kèm.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [HIGH-IMpact CONtent] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động "CreAting" chứa các đặc điểm mô tả nội dung có sức tác động cao.</li>
       
         </ul>
       
@@ -920,12 +911,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[DeVEloping efFECtive proMOtional maTErial] reQUIres proFESsional dediCAtion.</li>
+          <li>[deVELoping efFECtive proMOtional maTErial] reQUIres proFESsional dediCAtion.</li>
           <li className="margin-bottom-20 list-none">[Việc phát triển tài liệu quảng bá hiệu quả] đòi hỏi sự tận tụy chuyên nghiệp.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [DeVEloping efFECtive proMOtional maTErial] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm thành phần [SUBject][CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" của khối cũ.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [deVELoping efFECtive proMOtional maTErial] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" của khối cũ. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [DeVEloping efFECtive proMOtional maTErial] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [efFECtive proMOtional maTErial] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động "deVELoping" mới chứa các đặc điểm mô tả tài liệu quảng bá hiệu quả.</li>
       
         </ul>
 
@@ -934,12 +925,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the COMpany BOOSted VAlue [by creAting uNIQUE PROducts].</li>
+          <li>the COMpany BOOSted [VALue by creAting uNIQUE PROducts].</li>
           <li className="margin-bottom-20 list-none">Công ty đã gia tăng giá trị [bằng cách tạo ra các sản phẩm độc đáo].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [by creAting uNIQUE PROducts] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm khối bối cảnh phương thức, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [VALue by creAting uNIQUE PROducts] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [by creAting uNIQUE PROducts] - [prepoSITion PHRASE][GIỚI CỤM] hiển thị dưới dạng một vùng mã chứa [prepoSITion][GIỚI] phương thức "by" đi kèm cụm hành động phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [by creAting uNIQUE PROducts] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm khối bối cảnh phương thức, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted". Bản chất là [by creAting uNIQUE PROducts] - [prepoSITion PHRASE][GIỚI CỤM] hiển thị dưới dạng một vùng mã chứa [prepoSITion][GIỚI] phương thức "by" đi kèm cụm hành động phía sau.</li>
       
         </ul>
       
@@ -948,12 +939,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the COMpany BOOSted VAlue [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts].</li>
-          <li className="margin-bottom-20 list-none">Công ty đã gia tăng giá trị [vì các nhà phát triển đã tạo ra các sản phẩm độc đáo].</li>
+          <li>the COMpany BOOSted [VALue be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts].</li>
+          <li className="margin-bottom-20 list-none">Công ty đã gia tăng [giá trị vì các nhà phát triển đã tạo ra các sản phẩm độc đáo].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted" và toàn bộ diễn biến phía trước.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [VALue be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [suBORdinate CLAUSE][PHỤ ĐIỀU] hiển thị dưới dạng khối mã chứa đầy đủ [HEAD as SUBject][LÕI làm CHỦ] "the deVElopers" và cụm hành động đi sau thành phần [PrepoSITion][GIỚI] "be<strong>cause</strong>".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted" và toàn bộ diễn biến phía trước. Bản chất là [suBORdinate CLAUSE][PHỤ ĐIỀU] hiển thị dưới dạng khối mã chứa đầy đủ [HEAD as SUBject][LÕI làm CHỦ] "the deVElopers" và cụm hành động đi sau thành phần [PrepoSITion][GIỚI] "be<strong>cause</strong>".</li>
       
         </ul>
 
@@ -967,7 +958,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a TEAM which creATES interACtive ART PROjects] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: which creATES interACtive ART PROjects - [RELative CLAUSE][QUAN CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [PROnoun as SUBject ][ĐẠI làm CHỦ] "which" và cụm hành động phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng  "TEAM".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [which creATES interACtive ART PROjects] - [RELative CLAUSE][QUAN CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [PROnoun as SUBject ][ĐẠI làm CHỦ] "which" và cụm hành động phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng  "TEAM".</li>
       
         </ul>
       
@@ -992,12 +983,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the TEAM ALlocated TIME [for the creAtion of the SYStem INterface].</li>
-          <li className="margin-bottom-20 list-none">Đội ngũ đã phân bổ thời gian [phục vụ cho việc tạo ra giao diện hệ thống].</li>
+          <li>the TEAM ALlocated [TIME for the creAtion of the SYStem INterface].</li>
+          <li className="margin-bottom-20 list-none">Đội ngũ đã phân bổ [thời gian phục vụ cho việc tạo ra giao diện hệ thống].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of the SYStem INterface] - [ADverb as ADjunct][TRẠNG làm PHỤ] thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> gốc: [TIME for the creAtion of the SYStem INterface] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [for the creAtion of the SYStem INterface] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] chỉ lý do / bối cảnh "for" để kéo theo khối [NOUN PHRASE][DANH CỤM] phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [for the creAtion of the SYStem INterface] - [ADverb as ADjunct][TRẠNG làm PHỤ] thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated". Bản chất là [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] chỉ lý do / bối cảnh "for" để kéo theo khối [NOUN PHRASE][DANH CỤM] phía sau.</li>
       
         </ul>
       
@@ -1006,12 +997,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the TEAM ALlocated TIME [to creATE the SYStem INterface].</li>
-          <li className="margin-bottom-20 list-none">Đội ngũ đã phân bổ thời gian [để tạo ra giao diện hệ thống].</li>
+          <li>the TEAM ALlocated [TIME to creATE the SYStem INterface].</li>
+          <li className="margin-bottom-20 list-none">Đội ngũ đã phân bổ [thời gian để tạo ra giao diện hệ thống].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [to creATE the SYStem INterface] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò thiết lập khối bối cảnh mục đích tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [TIME to creATE the SYStem INterface]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [to creATE the SYStem INterface] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] mới, bắt đầu bằng [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to creATE ..." được đưa vào thế chỗ.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [to creATE the SYStem INterface] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò thiết lập khối bối cảnh mục đích tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] mới, bắt đầu bằng [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to creATE ..." được đưa vào thế chỗ.</li>
       
         </ul>
 
