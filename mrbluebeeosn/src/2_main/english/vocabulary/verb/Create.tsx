@@ -708,8 +708,6 @@ export default function creATE(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">[Việc tạo ra các giải pháp cho những gì khách hàng đang gặp khó khăn] xây dựng giá trị thị trường.</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -738,8 +736,6 @@ export default function creATE(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Người quản lý đã gợi ý [việc tìm hiểu lý do tại sao đội ngũ lại tạo ra các thiết kế lỗi thời].</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -768,8 +764,6 @@ export default function creATE(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">[Việc hiểu cách hệ thống tạo ra các báo cáo tự động] đòi hỏi các kỹ năng kỹ thuật.</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -798,8 +792,6 @@ export default function creATE(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Công ty có kế hoạch [nghiên cứu cách người dùng tạo ra các hồ sơ cá nhân].</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -828,8 +820,6 @@ export default function creATE(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Đòi hỏi chuyên môn [để đánh giá cách ứng dụng tạo ra các nhật ký người dùng].</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -859,8 +849,6 @@ export default function creATE(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Hội đồng đã xem xét các đề xuất [liên quan đến cách đội ngũ tạo ra các kênh tiếp thị mới].</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -889,8 +877,6 @@ export default function creATE(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cuộc họp đã tập trung [vào lý do tại sao nhà thiết kế lại tạo ra các bố cục phức tạp].</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       

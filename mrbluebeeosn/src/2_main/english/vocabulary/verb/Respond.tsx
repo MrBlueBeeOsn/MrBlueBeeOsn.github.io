@@ -705,8 +705,6 @@ export default function reSPOND(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">[Việc phản hồi hiệu quả đối với những gì khách hàng phàn nàn] làm tăng độ trung thành thương hiệu.</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
 			
 				<ul className="list-square">
 			
@@ -735,8 +733,6 @@ export default function reSPOND(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Người quản lý đã gợi ý [việc điều tra lý do tại sao đội ngũ lại phản hồi kém trước những ý kiến đóng góp].</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
 			
 				<ul className="list-square">
 			
@@ -765,8 +761,6 @@ export default function reSPOND(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">[Việc hiểu cách hệ thống phản hồi đối với các sự cố mạng] đòi hỏi sự kiểm thử nghiêm ngặt.</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
 			
 				<ul className="list-square">
 			
@@ -795,8 +789,6 @@ export default function reSPOND(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Công ty có kế hoạch [phân tích cách người dùng phản hồi với các thiết kế giao diện mới].</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
 			
 				<ul className="list-square">
 			
@@ -825,8 +817,6 @@ export default function reSPOND(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Đòi hỏi chuyên môn [để đánh giá cách ứng dụng phản hồi đối với lưu lượng truy cập cao].</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
 			
 				<ul className="list-square">
 			
@@ -856,8 +846,6 @@ export default function reSPOND(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Hội đồng đã xem xét các báo cáo [liên quan đến cách tổ chức ứng phó/phản hồi với các khủng hoảng thị trường].</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
 			
 				<ul className="list-square">
 			

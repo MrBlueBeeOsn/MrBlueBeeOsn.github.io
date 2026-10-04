@@ -672,8 +672,6 @@ export default function CLEAR(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">[Việc phân tích cách mà chương trình xóa siêu dữ liệu] thì cần thiết.</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -700,8 +698,6 @@ export default function CLEAR(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Chúng tôi kiến nghị [việc giám sát tại sao cơ sở dữ liệu lại xóa các phiên làm việc].</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -730,8 +726,6 @@ export default function CLEAR(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Họ có những nghi ngờ [về cách mà họ vượt qua vòng kiểm tra an ninh].</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
@@ -761,8 +755,6 @@ export default function CLEAR(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Viên sĩ quan đã nhìn thẳng [vào nơi mà đội ngũ đã giải phóng mặt bằng].</li>
       
         </ul>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       

@@ -504,8 +504,6 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
-			
 					<ul className="list-square">
 				
 						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to exPLAIN HOW we deSIGN this PLATform] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] đóng vai trò chủ trì điều phối toàn bộ câu làm khối của hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
@@ -589,8 +587,6 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Cô ấy đã đến [tại nơi mà họ xây dựng phần mềm].</li>
 			
 				</ul>
-			
-				<p className="margin-top-20 text-indent-whole"><strong>Khối ngoài</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
 			
 					<ul className="list-square">
 				
