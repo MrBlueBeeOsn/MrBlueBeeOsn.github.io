@@ -24,68 +24,134 @@ export default function CLEAR(): React.JSX.Element {
 
 
       <div className="example">
-                    
+              
         <p className="example-sentence text-center">
+          
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#NOUN-PHRASE-as-SUBject">NOUN PHRASE as SUBject</HashLink>
+            <HashLink smooth to="#1">1</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADjective-HEAD">ADjective HEAD</HashLink>
+            <HashLink smooth to="#2">2</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADverb-as-ADjunct-1">ADverb as ADjunct 1</HashLink>
+            <HashLink smooth to="#3">3</HashLink>
           </span> &nbsp;
 
-        </p>
-
-        <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-2">non-FInite CLAUSE as SUBject 2</HashLink>&nbsp;/&nbsp;
-            <HashLink smooth to="#non-FInite-CLAUsal-COMplement">non-FInite CLAUsal COMplement</HashLink>
+            <HashLink smooth to="#4a">4a</HashLink>
           </span> &nbsp;
 
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-3">non-FInite CLAUSE as SUBject 3</HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADverb-as-ADjunct-2">ADverb as ADjunct 2</HashLink>
-          </span> &nbsp;
-
-        </p>
-
-        <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#FInite-CLAUsal-SUBject">FInite CLAUsal SUBject</HashLink>&nbsp;/&nbsp;
-            <HashLink smooth to="#FInite-CLAUsal-COMplement">FInite CLAUsal COMplement</HashLink>
+            <HashLink smooth to="#4b">4b</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#FInite-CLAUsal-SUBject-2">FInite CLAUsal SUBject 2</HashLink>
+            <HashLink smooth to="#5a">5a</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#ADverb-as-ADjunct-3">ADverb as ADjunct 3</HashLink>
+            <HashLink smooth to="#5b">5b</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#5c">5c</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#5d">5d</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#5e">5e</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#6a">6a</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#6b">6b</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#6c">6c</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#6d">6d</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#7">7</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#8a">8a</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#8b">8b</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#9a">9a</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#9b">9b</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#10">10</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#11a">11a</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#11b">11b</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#11c">11c</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#12a">12a</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#12b">12b</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#13">13</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#14">14</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#Case-1">Case 1</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#Case-2">Case 2</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#Case-3">Case 3</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#Case-4">Case 4</HashLink>
           </span> &nbsp;
 
         </p>
-
-        <p className="example-sentence text-center">
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#emBEDded-CLAUSE">emBEDded CLAUSE</HashLink>
-          </span> &nbsp;
-
-        </p>
-
-        <p className="example-sentence text-center">
-          <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#PARaphrasing">PARaphrasing</HashLink>
-          </span> &nbsp;
-
-        </p>
-        
 
       </div>
 
@@ -246,9 +312,9 @@ export default function CLEAR(): React.JSX.Element {
       <p className="text-indent-whole">Khi đặt vào sơ đồ vận hành, chính hình thái [ĐỘNG] này sẽ hình thành nên các loại chức năng độc lập:</p>
 
           
-      <p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-SUBject"><strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 1: /ˈklærəti/</p>
+      <p className="margin-top-20 text-indent-whole" id="1">Ví dụ 1: /ˈklærəti/</p>
       
         <ul className="list-square">
       
@@ -264,9 +330,9 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADjective-HEAD"><strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 2: /klɪə(r)/</p>
+      <p className="margin-top-20 text-indent-whole" id="2">Ví dụ 2: /klɪə(r)/</p>
       
         <ul className="list-square">
       
@@ -280,9 +346,9 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-1"><strong>Hình thành chức năng</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 3: /ˈklɪəli/</p>
+      <p className="margin-top-20 text-indent-whole" id="3">Ví dụ 3: /ˈklɪəli/</p>
       
         <ul className="list-square">
       
@@ -303,7 +369,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-2">Ví dụ 4a:</p>
+      <p className="margin-top-20 text-indent-whole" id="4a">Ví dụ 4a:</p>
       
         <ul className="list-square">
       
@@ -319,7 +385,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm BỔ</strong>]</p>
       
-      <p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-COMplement">Ví dụ 4b: </p>
+      <p className="margin-top-20 text-indent-whole" id="4b">Ví dụ 4b: </p>
       
         <ul className="list-square">
       
@@ -333,11 +399,11 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-3"><strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>biểu thị hành động sắp xảy ra chủ động</strong> -<strong>to V</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 5a:</p>
+      <p className="margin-top-20 text-indent-whole" id="5a">Ví dụ 5a:</p>
       
         <ul className="list-square">
       
@@ -353,7 +419,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>biểu thị hành động sắp xảy ra bị động -to be</strong> <strong>v3</strong>/-<strong>ed</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 5b:</p>
+      <p className="margin-top-20 text-indent-whole" id="5b">Ví dụ 5b:</p>
       
         <ul className="list-square">
       
@@ -369,7 +435,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>biểu thị hành động đang diễn ra</strong> -<strong>ing</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 5c:</p>
+      <p className="margin-top-20 text-indent-whole" id="5c">Ví dụ 5c:</p>
       
         <ul className="list-square">
       
@@ -385,7 +451,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>biểu thị hành động đã xong bị động</strong> -<strong>v3</strong>/-<strong>ed</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 5d:</p>
+      <p className="margin-top-20 text-indent-whole" id="5d">Ví dụ 5d:</p>
       
         <ul className="list-square">
       
@@ -401,7 +467,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]:</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 5e:</p>
+      <p className="margin-top-20 text-indent-whole" id="5e">Ví dụ 5e:</p>
       
         <ul className="list-square">
       
@@ -415,11 +481,11 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-2"><strong>Hình thành chức năng</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>] </p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>] </p>
 
       <p className="margin-top-20 text-indent-whole"><strong>TRẠNG CỤM dạng</strong> -<strong>to V</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 6a:</p>
+      <p className="margin-top-20 text-indent-whole" id="6a">Ví dụ 6a:</p>
       
         <ul className="list-square">
       
@@ -435,7 +501,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>TRẠNG CỤM dạng</strong> -<strong>to V</strong> (<strong>có dấu phẩy</strong>):</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 6b:</p>
+      <p className="margin-top-20 text-indent-whole" id="6b">Ví dụ 6b:</p>
       
         <ul className="list-square">
       
@@ -451,7 +517,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>TRẠNG CỤM dạng</strong> -<strong>ing</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 6c:</p>
+      <p className="margin-top-20 text-indent-whole" id="6c">Ví dụ 6c:</p>
       
         <ul className="list-square">
       
@@ -467,7 +533,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>TRẠNG CỤM dạng</strong> -<strong>ing</strong> (<strong>có dấu phẩy</strong>):</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 6d:</p>
+      <p className="margin-top-20 text-indent-whole" id="6d">Ví dụ 6d:</p>
       
         <ul className="list-square">
       
@@ -490,7 +556,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>GIỚI CỤM</strong>]:</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 7:</p>
+      <p className="margin-top-20 text-indent-whole" id="7">Ví dụ 7:</p>
       
         <ul className="list-square">
       
@@ -508,7 +574,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>]:</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 8a:</p>
+      <p className="margin-top-20 text-indent-whole" id="8a">Ví dụ 8a:</p>
       
         <ul className="list-square">
       
@@ -524,7 +590,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 8b:</p>
+      <p className="margin-top-20 text-indent-whole" id="8b">Ví dụ 8b:</p>
       
         <ul className="list-square">
       
@@ -553,9 +619,9 @@ export default function CLEAR(): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole">Phân hệ này sử dụng các mã kết nối ([ADverb][TRẠNG], [prepoSITion][GIỚI] hoặc mã định vị [PROnoun][ĐẠI]) xuất hiện trực tiếp ở đầu hệ con để làm điểm tựa liên kết dữ liệu.</p>
 
 
-      <p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject"><strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as SUBject</strong>][<strong>ĐỊNH-THỜI ĐIỀU làm CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as SUBject</strong>][<strong>ĐỊNH-THỜI ĐIỀU làm CHỦ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 9:</p>
+      <p className="margin-top-20 text-indent-whole" id="9a">Ví dụ 9a:</p>
       
         <ul className="list-square">
       
@@ -569,9 +635,9 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 10:</p>
+      <p className="margin-top-20 text-indent-whole" id="9b">Ví dụ 9b:</p>
       
         <ul className="list-square">
       
@@ -585,9 +651,9 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-3"><strong>Hình thành chức năng</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 11:</p>
+      <p className="margin-top-20 text-indent-whole" id="10">Ví dụ 10:</p>
       
         <ul className="list-square">
       
@@ -607,9 +673,9 @@ export default function CLEAR(): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole">Ở phân hệ này, các thành phần liên kết đã được người bản ngữ chủ động lược bỏ để tối ưu tốc độ truyền tải thông tin. Về diện mạo vật lý, khối mã này nhìn hoàn toàn giống như một hệ con độc lập có đầy đủ cặp bài trùng [NOUN as HEAD][DANH làm LÕI] và [PREDicator HEAD][VỊ LÕI], tuy nhiên chức năng của nó vẫn là chức năng phụ thuộc và vẫn sinh ra đầy đủ 3 đầu ra: Danh, Tính, Trạng.</p>
 
 
-      <p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-COMplement"><strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as COMplement</strong>][<strong>ĐỊNH-THỜI ĐIỀU làm BỔ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as COMplement</strong>][<strong>ĐỊNH-THỜI ĐIỀU làm BỔ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 11a:</p>
+      <p className="margin-top-20 text-indent-whole" id="11a">Ví dụ 11a:</p>
       
         <ul className="list-square">
       
@@ -625,7 +691,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 11b:</p>
+      <p className="margin-top-20 text-indent-whole" id="11b">Ví dụ 11b:</p>
       
         <ul className="list-square">
       
@@ -641,7 +707,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 11c:</p>
+      <p className="margin-top-20 text-indent-whole" id="11c">Ví dụ 11c:</p>
       
         <ul className="list-square">
       
@@ -656,14 +722,14 @@ export default function CLEAR(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40" id="emBEDded-CLAUSE">5. Phân hệ [Nhúng Đóng Gói][emBEDded Structure]</h4>
+      <h4 className="margin-y-40">5. Phân hệ [Nhúng Đóng Gói][emBEDded Structure]</h4>
 
       <p className="margin-top-20 text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, các khối mã sẽ lồng vào nhau tạo nên hệ thống phân tầng tối tân.</p>
 
 
       <h5 className="margin-top-20 text-indent-whole">[NOUN PHRASE][DANH CỤM]</h5>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 12a: [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] làm CHỦ]</p>
+      <p className="margin-top-20 text-indent-whole" id="12a">Ví dụ 12a: [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] làm CHỦ]</p>
       
         <ul className="list-square">
       
@@ -681,7 +747,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">Ví dụ 12b: [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ]</p>
+      <p className="margin-top-20 text-indent-whole" id="12b">Ví dụ 12b: [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ]</p>
       
         <ul className="list-square">
       
@@ -701,7 +767,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <h5 className="margin-top-20 text-indent-whole">[non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</h5>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 13:</p>
+      <p className="margin-top-20 text-indent-whole" id="13">Ví dụ 13:</p>
       
         <ul className="list-square">
       
@@ -724,7 +790,7 @@ export default function CLEAR(): React.JSX.Element {
           
       <h5 className="margin-top-20 text-indent-whole">[ADjunct][PHỤ]</h5>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 14:</p>
+      <p className="margin-top-20 text-indent-whole" id="14">Ví dụ 14:</p>
       
         <ul className="list-square">
       
@@ -745,14 +811,14 @@ export default function CLEAR(): React.JSX.Element {
 
       {/* 2.  */}
 
-			<h3 className="margin-y-50 text-center" id="PARaphrasing">PHẦN 2: ỨNG DỤNG ĐỘT PHÁ – GIẢI MÃ PARAPHRASING BẰNG KỸ THUẬT "THẾ KHỐI"</h3>
+			<h3 className="margin-y-50 text-center">PHẦN 2: ỨNG DỤNG ĐỘT PHÁ – GIẢI MÃ PARAPHRASING BẰNG KỸ THUẬT "THẾ KHỐI"</h3>
 
       <p>Khi tư duy đã chuyển sang nhận diện hệ thống theo <strong>Hình thái trước</strong> - <strong>Chức năng sau</strong>, việc diễn đạt lại thông tin (PARaphrasing) trở thành bài toán lập trình thuần túy: <strong>Thay thế các khối mã có cùng chức năng đầu ra</strong> mà không cần phá vỡ hay làm biến dạng thiết lập tổng thể của khuôn mẫu chung.</p>
 
 
       <h4 className="margin-y-40">1. Phân hệ Động: Thay đổi các MODule chứa hành động</h4>
 
-      <h5 className="margin-y-30 text-indent-whole">Case 1: Giữ nguyên cấp độ, thay thế khối mã tương đương</h5>
+      <h5 className="margin-y-30 text-indent-whole" id="Case-1">Case 1: Giữ nguyên cấp độ, thay thế khối mã tương đương</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>CỤM</strong> → <strong>CỤM</strong>]</p>
       
@@ -783,7 +849,7 @@ export default function CLEAR(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ [GIỚI CỤM] lên [LIÊN ĐIỀU]</h5>
+      <h5 className="margin-y-30 text-indent-whole" id="Case-2">Case 2: Kỹ thuật nâng cấp từ [GIỚI CỤM] lên [LIÊN ĐIỀU]</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>PHRASE</strong> → <strong>CLAUSE</strong>]</p>
       
@@ -813,7 +879,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-y-30 text-indent-whole">Case 3: Kỹ thuật hạ cấp từ [CLAUSE] về [HEAD]</h5>
+      <h5 className="margin-y-30 text-indent-whole" id="Case-3">Case 3: Kỹ thuật hạ cấp từ [CLAUSE] về [HEAD]</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>CLAUSE</strong> → <strong>HEAD</strong>]</p>
       
@@ -845,7 +911,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <h4 className="margin-y-40">2. Phân hệ Giới: Thay đổi các MODule chứa mã định vị</h4>
 
-      <h5 className="text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí và thay thế khối mã [GIỚI CỤM] tương đương</h5>
+      <h5 className="text-indent-whole" id="Case-4">Case 4: Kỹ thuật hoán đổi vị trí và thay thế khối mã [GIỚI CỤM] tương đương</h5>
       
         <ul className="list-square">
       

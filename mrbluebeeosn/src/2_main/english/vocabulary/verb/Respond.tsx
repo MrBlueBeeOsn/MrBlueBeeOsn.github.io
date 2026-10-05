@@ -24,64 +24,159 @@ export default function reSPOND(): React.JSX.Element {
 				<div className="example">
 				
 					<p className="example-sentence text-center">
+						
 						<span className="highlight-255-padding-0-4 text-border" >
-							<HashLink smooth to="#NOUN-PHRASE-as-SUBject">NOUN PHRASE as SUBject</HashLink>
+							<HashLink smooth to="#1">1</HashLink>
 						</span> &nbsp;
 
 						<span className="highlight-255-padding-0-4 text-border">
-							<HashLink smooth to="#ADjective-HEAD">ADjective HEAD</HashLink>
+							<HashLink smooth to="#2">2</HashLink>
 						</span> &nbsp;
 
 						<span className="highlight-255-padding-0-4 text-border">
-							<HashLink smooth to="#ADverb-as-ADjunct-1">ADverb as ADjunct 1</HashLink>
+							<HashLink smooth to="#3">3</HashLink>
 						</span> &nbsp;
 
-					</p>
-
-					<p className="example-sentence text-center">
 						<span className="highlight-255-padding-0-4 text-border" >
-							<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-2">non-FInite CLAUSE as SUBject 2</HashLink>&nbsp;/&nbsp;
-							<HashLink smooth to="#non-FInite-CLAUsal-COMplement">non-FInite CLAUsal COMplement</HashLink>
+							<HashLink smooth to="#4a">4a</HashLink>
 						</span> &nbsp;
 
-						<span className="highlight-255-padding-0-4 text-border">
-							<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-3">non-FInite CLAUSE as SUBject 3</HashLink>
-						</span> &nbsp;
-
-						<span className="highlight-255-padding-0-4 text-border">
-							<HashLink smooth to="#ADverb-as-ADjunct-2">ADverb as ADjunct 2</HashLink>
-						</span> &nbsp;
-
-					</p>
-
-					<p className="example-sentence text-center">
 						<span className="highlight-255-padding-0-4 text-border" >
-							<HashLink smooth to="#FInite-CLAUsal-SUBject">FInite CLAUsal SUBject</HashLink>&nbsp;/&nbsp;
-							<HashLink smooth to="#FInite-CLAUsal-COMplement">FInite CLAUsal COMplement</HashLink>
+							<HashLink smooth to="#4b">4b</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border" >
+							<HashLink smooth to="#4c">4c</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border" >
+							<HashLink smooth to="#4d">4d</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border" >
+							<HashLink smooth to="#4e">4e</HashLink>
 						</span> &nbsp;
 
 						<span className="highlight-255-padding-0-4 text-border">
-							<HashLink smooth to="#FInite-CLAUsal-SUBject-2">FInite CLAUsal SUBject 2</HashLink>
+							<HashLink smooth to="#5a">5a</HashLink>
 						</span> &nbsp;
 
 						<span className="highlight-255-padding-0-4 text-border">
-							<HashLink smooth to="#ADverb-as-ADjunct-3">ADverb as ADjunct 3</HashLink>
+							<HashLink smooth to="#5b">5b</HashLink>
 						</span> &nbsp;
 
-					</p>
-
-					<p className="example-sentence text-center">
 						<span className="highlight-255-padding-0-4 text-border">
-							<HashLink smooth to="#emBEDded-CLAUSE">emBEDded CLAUSE</HashLink>
+							<HashLink smooth to="#5c">5c</HashLink>
 						</span> &nbsp;
-	
-					</p>
 
-					<p className="example-sentence text-center">
 						<span className="highlight-255-padding-0-4 text-border">
-							<HashLink smooth to="#PARaphrasing">PARaphrasing</HashLink>
+							<HashLink smooth to="#5d">5d</HashLink>
 						</span> &nbsp;
-	
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#5e">5e</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#6a">6a</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#6b">6b</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#6c">6c</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#6d">6d</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border" >
+							<HashLink smooth to="#7">7</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#8a">8a</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#8b">8b</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#9a">9a</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#9b">9b</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border" >
+							<HashLink smooth to="#9c">9c</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border" >
+							<HashLink smooth to="#10">10</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#11a">11a</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#11b">11b</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#11c">11c</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#12a">12a</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#12b">12b</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#12c">12c</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#12d">12d</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#12e">12e</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#13">13</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#14">14</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border" >
+							<HashLink smooth to="#Case-1">Case 1</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#Case-2">Case 2</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#Case-3">Case 3</HashLink>
+						</span> &nbsp;
+
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#Case-4">Case 4</HashLink>
+						</span> &nbsp;
+
 					</p>
 
 				</div>
@@ -229,9 +324,9 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">1. Phân hệ [PREDicator HEAD][VỊ LÕI]</h4>
 					
-			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-SUBject"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 1: [reSPONSE] \re SPONSE\ /rɪˈspɒns/</p>
+			<p className="margin-top-20 text-indent-whole" id="1">Ví dụ 1: [reSPONSE] \re SPONSE\ /rɪˈspɒns/</p>
 			
 				<ul className="list-square">
       
@@ -249,9 +344,9 @@ export default function reSPOND(): React.JSX.Element {
         </ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADjective-HEAD"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 2: [reSPONsive] \re SPON sive\ /rɪˈspɒnsɪv/</p>
+			<p className="margin-top-20 text-indent-whole" id="2">Ví dụ 2: [reSPONsive] \re SPON sive\ /rɪˈspɒnsɪv/</p>
 			
 				<ul className="list-square">
 			
@@ -265,7 +360,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-1"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole">Ví dụ 3: [reSPONsively] \re SPON sive ly\ /rɪˈspɒnsɪvli/</p>
 			
@@ -287,9 +382,9 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole"><strong>2.1</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE</strong>][<strong>PHI-THỜI ĐIỀU</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-2">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 4a:</p>
+			<p className="margin-top-20 text-indent-whole" id="4a">Ví dụ 4a:</p>
 			
 				<ul className="list-square">
 			
@@ -304,9 +399,9 @@ export default function reSPOND(): React.JSX.Element {
 
 	
 
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-COMplement">[<strong>non-FInite CLAUSE as COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 4b:</p>
+			<p className="margin-top-20 text-indent-whole" id="4b">Ví dụ 4b:</p>
 			
 				<ul className="list-square">
 			
@@ -322,7 +417,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 4c:</p>
+			<p className="margin-top-20 text-indent-whole" id="4c">Ví dụ 4c:</p>
 			
 				<ul className="list-square">
 			
@@ -338,7 +433,7 @@ export default function reSPOND(): React.JSX.Element {
 	
 			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as CATenative COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm CHUỖI BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 4d:</p>
+			<p className="margin-top-20 text-indent-whole" id="4d">Ví dụ 4d:</p>
 			
 				<ul className="list-square">
 			
@@ -354,7 +449,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>làm</strong> <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 4e:</p>
+			<p className="margin-top-20 text-indent-whole" id="4e">Ví dụ 4e:</p>
 			
 				<ul className="list-square">
 			
@@ -368,12 +463,12 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-3"><strong>2.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>2.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 
 			
 			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>biểu thị hành động đang diễn ra</strong>, <strong>chủ động</strong>:</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 5a:</p>
+			<p className="margin-top-20 text-indent-whole" id="5a">Ví dụ 5a:</p>
 			
 				<ul className="list-square">
 			
@@ -389,7 +484,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>biểu thị hành động sắp xảy ra</strong>, <strong>chủ động</strong>:</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 5b:</p>
+			<p className="margin-top-20 text-indent-whole" id="5b">Ví dụ 5b:</p>
 			
 				<ul className="list-square">
 			
@@ -405,7 +500,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>biểu thị hành động sắp xảy ra</strong>, <strong>bị động</strong>:</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 5c:</p>
+			<p className="margin-top-20 text-indent-whole" id="5c">Ví dụ 5c:</p>
 			
 				<ul className="list-square">
 			
@@ -421,7 +516,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>PAST PARTiciple CLAUSE</strong>][<strong>KHỨ TÍNH ĐIỀU</strong>] <strong>biểu thị hành động đã xong</strong>, <strong>bị động</strong>:</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 5d:</p>
+			<p className="margin-top-20 text-indent-whole" id="5d">Ví dụ 5d:</p>
 			
 				<ul className="list-square">
 			
@@ -437,7 +532,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>MODified ADjective PHRASE</strong>][<strong>ĐỊNH TÍNH CỤM</strong>]:</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 5e:</p>
+			<p className="margin-top-20 text-indent-whole" id="5e">Ví dụ 5e:</p>
 			
 				<ul className="list-square">
 			
@@ -451,11 +546,11 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-2"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>có dấu phẩy</strong>:</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 6a:</p>
+			<p className="margin-top-20 text-indent-whole" id="6a">Ví dụ 6a:</p>
 			
 				<ul className="list-square">
 			
@@ -471,7 +566,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]:</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 6b:</p>
+			<p className="margin-top-20 text-indent-whole" id="6b">Ví dụ 6b:</p>
 			
 				<ul className="list-square">
 			
@@ -487,7 +582,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>có dấu phẩy</strong>:</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 6c:</p>
+			<p className="margin-top-20 text-indent-whole" id="6c">Ví dụ 6c:</p>
 			
 				<ul className="list-square">
 			
@@ -503,7 +598,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>]:</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 6d:</p>
+			<p className="margin-top-20 text-indent-whole" id="6d">Ví dụ 6d:</p>
 			
 				<ul className="list-square">
 			
@@ -522,7 +617,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole"><strong>3.1</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 7:</p>
+			<p className="margin-top-20 text-indent-whole" id="7">Ví dụ 7:</p>
 			
 				<ul className="list-square">
 			
@@ -540,7 +635,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 8a:</p>
+			<p className="margin-top-20 text-indent-whole" id="8a">Ví dụ 8a:</p>
 			
 				<ul className="list-square">
 			
@@ -556,7 +651,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 8b:</p>
+			<p className="margin-top-20 text-indent-whole" id="8b">Ví dụ 8b:</p>
 			
 				<ul className="list-square">
 			
@@ -577,9 +672,9 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Hình thành chức năng</strong> [<strong>CONtent CLAUSE</strong>][<strong>NỘI ĐIỀU</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject">[<strong>FInite CLAUSE as SUBject</strong>][<strong>ĐỊNH-THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as SUBject</strong>][<strong>ĐỊNH-THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 9a:</p>
+			<p className="margin-top-20 text-indent-whole" id="9a">Ví dụ 9a:</p>
 			
 				<ul className="list-square">
 			
@@ -593,9 +688,9 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-COMplement">[<strong>FInite CLAUSE as COMplement</strong>][<strong>ĐỊNH-THỜI ĐIỀU làm BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as COMplement</strong>][<strong>ĐỊNH-THỜI ĐIỀU làm BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 9b:</p>
+			<p className="margin-top-20 text-indent-whole" id="9b">Ví dụ 9b:</p>
 			
 				<ul className="list-square">
 			
@@ -609,9 +704,9 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 10:</p>
+			<p className="margin-top-20 text-indent-whole" id="9c">Ví dụ 9c:</p>
 			
 				<ul className="list-square">
 			
@@ -625,9 +720,9 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-3"><strong>4.1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>4.1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 11:</p>
+			<p className="margin-top-20 text-indent-whole" id="10">Ví dụ 10:</p>
 			
 				<ul className="list-square">
 			
@@ -646,7 +741,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Hình thành chức năng</strong> [<strong>CONtent CLAUSE</strong>][<strong>NỘI ĐIỀU</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 11a:</p>
+			<p className="margin-top-20 text-indent-whole" id="11a">Ví dụ 11a:</p>
 			
 				<ul className="list-square">
 			
@@ -662,7 +757,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole"><strong>4.2.2</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 11b:</p>
+			<p className="margin-top-20 text-indent-whole" id="11b">Ví dụ 11b:</p>
 			
 				<ul className="list-square">
 			
@@ -678,7 +773,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole"><strong>4.2.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 11c:</p>
+			<p className="margin-top-20 text-indent-whole" id="11c">Ví dụ 11c:</p>
 			
 				<ul className="list-square">
 			
@@ -693,13 +788,13 @@ export default function reSPOND(): React.JSX.Element {
 
 
 
-			<h4 className="margin-y-40" id="emBEDded-CLAUSE">5. Phân hệ [Nhúng Đóng Gói][emBEDded Structure]</h4>
+			<h4 className="margin-y-40">5. Phân hệ [Nhúng Đóng Gói][emBEDded Structure]</h4>
 
 			<p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE</strong>][<strong>PHI-THỜI ĐIỀU</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTicipial CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]</p>
 			
-			<p className="margin-top-20 text-indent-whole">Ví dụ 12a:</p>
+			<p className="margin-top-20 text-indent-whole" id="12a">Ví dụ 12a:</p>
 			
 				<ul className="list-square">
 			
@@ -719,7 +814,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTicipial CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]</p>
 			
-			<p className="margin-top-20 text-indent-whole">Ví dụ 12b:</p>
+			<p className="margin-top-20 text-indent-whole" id="12b">Ví dụ 12b:</p>
 			
 				<ul className="list-square">
 			
@@ -739,7 +834,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>]</p>
 			
-			<p className="margin-top-20 text-indent-whole">Ví dụ 12c:</p>
+			<p className="margin-top-20 text-indent-whole" id="12c">Ví dụ 12c:</p>
 			
 				<ul className="list-square">
 			
@@ -759,7 +854,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as CATenative COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm CHUỖI BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>]</p>
 			
-			<p className="margin-top-20 text-indent-whole">Ví dụ 12d:</p>
+			<p className="margin-top-20 text-indent-whole" id="12d">Ví dụ 12d:</p>
 			
 				<ul className="list-square">
 			
@@ -779,7 +874,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
 			
-			<p className="margin-top-20 text-indent-whole">Ví dụ 12e:</p>
+			<p className="margin-top-20 text-indent-whole" id="12e">Ví dụ 12e:</p>
 			
 				<ul className="list-square">
 			
@@ -799,7 +894,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 13:</p>
+			<p className="margin-top-20 text-indent-whole" id="13">Ví dụ 13:</p>
 			
 				<ul className="list-square">
 			
@@ -819,7 +914,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole"><strong>5.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 14:</p>
+			<p className="margin-top-20 text-indent-whole" id="14">Ví dụ 14:</p>
 			
 				<ul className="list-square">
 			
@@ -839,11 +934,11 @@ export default function reSPOND(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center" id="PARaphrasing">PHẦN 2: ỨNG DỤNG ĐỘT PHÁ – GIẢI MÃ [PARaphrasing] BẰNG KỸ THUẬT [THẾ KHỐI]</h3>
+			<h3 className="margin-y-50 text-center">PHẦN 2: ỨNG DỤNG ĐỘT PHÁ – GIẢI MÃ [PARaphrasing] BẰNG KỸ THUẬT [THẾ KHỐI]</h3>
 
 			<h4 className="margin-y-40">1. Phân hệ [PREDicator HEAD][VỊ LÕI]: Thay đổi các MODule chứa hành động</h4>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Case 1</strong>: <strong>Giữ nguyên cấp độ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-1"><strong>Case 1</strong>: <strong>Giữ nguyên cấp độ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -871,7 +966,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Case 2</strong>: <strong>Kỹ thuật nâng cấp từ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>] <strong>lên</strong> [<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-2"><strong>Case 2</strong>: <strong>Kỹ thuật nâng cấp từ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>] <strong>lên</strong> [<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -899,7 +994,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Case 3</strong>: <strong>Kỹ thuật hạ cấp từ</strong> [<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>] <strong>về</strong> [<strong>HEAD</strong>][<strong>LÕI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-3"><strong>Case 3</strong>: <strong>Kỹ thuật hạ cấp từ</strong> [<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>] <strong>về</strong> [<strong>HEAD</strong>][<strong>LÕI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -929,7 +1024,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Phân hệ [prepoSITion][GIỚI]: Thay đổi các MODule chứa mã định vị</h4>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí cấp độ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí cấp độ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
