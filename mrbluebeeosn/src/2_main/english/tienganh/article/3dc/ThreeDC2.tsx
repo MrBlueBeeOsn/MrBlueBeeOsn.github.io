@@ -232,7 +232,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to catch the first bus] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng to-V kèm tân thể, chỉ mục đích</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to catch the first bus] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa cho [Động Cụm] [woke up early], giải thích mục đích của việc dậy sớm</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to catch the first bus] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] bổ nghĩa cho [Động Cụm] [woke up early], giải thích mục đích của việc dậy sớm</li>
 			
 				</ul>
 			
@@ -246,7 +246,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [If you study regularly] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có cặp [you] và [study]</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [If you study regularly] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa cho nhóm từ chính [you will improve], chỉ điều kiện cần để xảy ra kết quả</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [If you study regularly] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] bổ nghĩa cho nhóm từ chính [you will improve], chỉ điều kiện cần để xảy ra kết quả</li>
 			
 				</ul>
 
@@ -362,7 +362,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [because she studied hard] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có cặp [she] và [studied]</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because she studied hard] - [ADverb as ADjunct][TRẠNG làm PHỤ] chỉ lý do, bổ nghĩa cho [Động Cụm] [passed the exam]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because she studied hard] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] chỉ lý do, bổ nghĩa cho [Động Cụm] [passed the exam]</li>
 			
 				</ul>
 			
@@ -376,7 +376,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [by studying hard] - [prepoSITion PHRASE][GIỚI CỤM] giới từ kết hợp với V-ing</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [by studying hard] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa cho [Động Cụm] [passed the exam], chỉ cách thức đạt được kết quả</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [by studying hard] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] bổ nghĩa cho [Động Cụm] [passed the exam], chỉ cách thức đạt được kết quả</li>
 			
 				</ul>
 			

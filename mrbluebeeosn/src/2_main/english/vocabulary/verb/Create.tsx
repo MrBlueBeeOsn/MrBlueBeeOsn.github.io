@@ -372,7 +372,7 @@ export default function creATE(): React.JSX.Element {
 
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtively] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [during the PROject] - [ADverb as ADjunct 2][TRẠNG làm PHỤ 2] làm thành phần bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED" để xác định cách thức diễn ra. Bản chất là [prepoSITtion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [during the PROject] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] làm thành phần bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED" để xác định cách thức diễn ra. Bản chất là [prepoSITtion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED".</li>
       
         </ul>
 
@@ -523,9 +523,9 @@ export default function creATE(): React.JSX.Element {
           <li>[the SYStem creAted by the TECH TEAM] was LAUNCHED YESterday.</li>
           <li className="margin-bottom-20 list-none">[Hệ thống đã được tạo ra bởi đội ngũ công nghệ] đã được ra mắt ngày hôm qua.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the SYStem creAted by the TECH TEAM] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] có chức năng làm chủ cho [PREDicator][VỊ] "was LAUNCHED".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the SYStem creAted by the TECH TEAM] - [NOUN PHRASE as SUBJECT][DANH CỤM làm CHỦ] của hành động [VERB PHRASE as PREDicator] "was LAUNCHED". Trong đó, "was" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite][ĐỊNH-THỜI], còn "LAUNCHED" là các dạng [non-FInite][PHI-THỜI] đi kèm, biểu thị đối tượng đã được ra mắt.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAted by the TECH TEAM] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đặt ngay sau đối tượng [NOUN as HEAD][DANH làm LÕI] "SYStem" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này. Bản chất là [PAST PARTiciple CLAUSE][KHỨ TÍNH ĐIỀU] phát triển từ [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] "creAted" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAted by the TECH TEAM] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SYStem" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này. Bản chất là [PAST PARTiciple CLAUSE][KHỨ TÍNH ĐIỀU] phát triển từ [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] "creAted" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
       
         </ul>
       
@@ -539,9 +539,9 @@ export default function creATE(): React.JSX.Element {
           <li>they NEED [a STRATegy creAtive in its exeCUtion].</li>
           <li className="margin-bottom-20 list-none">Họ cần [một chiến lược sáng tạo trong cách thức thực thi].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a STRATegy creAtive in its exeCUtion] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] có chức năng làm chủ cho [VERB LEXEME][ĐỘNG VỊ] "NEED".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a STRATegy creAtive in its exeCUtion] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "NEED".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtive in its exeCUtion] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng ngay sau  "STRATegy" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó. Bản chất là [ADjective PHRASE as post-MODifier][TÍNH CỤM làm HẬU-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITion PHRASE][GIỚI CỤM] phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtive in its exeCUtion] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "STRATegy" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó. Bản chất là [ADjective PHRASE as post-MODifier][TÍNH CỤM làm HẬU-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITion PHRASE][GIỚI CỤM] phía sau.</li>
       
         </ul>
       
@@ -558,7 +558,7 @@ export default function creATE(): React.JSX.Element {
           <li>[CreAting a NEW VIsual iDENtity], the BRAND LAUNCHED its camPAIGN.</li>
           <li className="margin-bottom-20 list-none">[Tạo ra một bộ nhận diện hình ảnh mới], thương hiệu đã ra mắt chiến dịch của mình.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CreAting a NEW VIsual iDENtity] - [ADverb as ADjunct 2][TRẠNG làm PHỤ 2] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "LAUNCHED" và toàn bộ CLAUSE chính. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] kết hợp mở rộng do được rút gọn từ một hệ [CONtent CLAUSE][NỘI ĐIỀU] phụ thuộc có cùng thành phần lõi [PROnoun as SUBject ][ĐẠI làm CHỦ].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CreAting a NEW VIsual iDENtity] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "LAUNCHED" và toàn bộ CLAUSE chính. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] kết hợp mở rộng do được rút gọn từ một hệ [CONtent CLAUSE][NỘI ĐIỀU] phụ thuộc có cùng thành phần lõi [PROnoun as SUBject ][ĐẠI làm CHỦ].</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a NEW VIsual iDENtity] - </li>
       
@@ -574,9 +574,9 @@ export default function creATE(): React.JSX.Element {
           <li>the Agency ALlocated [REsources creAting CUStom SOFTware TOOLS].</li>
           <li className="margin-bottom-20 list-none">Cơ quan đã phân bổ [các nguồn lực với mục đích tạo ra các công cụ phần mềm tùy chỉnh].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [REsources creAting CUStom SOFTware TOOLS] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [REsources creAting CUStom SOFTware TOOLS] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAting CUStom SOFTware TOOLS] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò làm khối bối cảnh cách thức, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" kết hợp mở rộng đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAting CUStom SOFTware TOOLS] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đóng vai trò làm khối bối cảnh cách thức, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" kết hợp mở rộng đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
       
         </ul>
 
@@ -590,7 +590,7 @@ export default function creATE(): React.JSX.Element {
           <li>[To creATE HIGH-QUAlity PROducts], the TEAM upGRAded their maCHINES.</li>
           <li className="margin-bottom-20 list-none">[Để tạo ra các sản phẩm chất lượng cao], đội ngũ đã nâng cấp máy móc của họ.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To creATE HIGH-QUAlity PROducts] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "upGRAded" và toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to creATE ..." kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To creATE HIGH-QUAlity PROducts] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "upGRAded" và toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to creATE ..." kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HIGH-QUAlity PROducts] - </li>
       
@@ -608,7 +608,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [LATE to creATE the FInal PROtotype] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "STAYED", đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to creATE the FInal PROtotype] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "STAYED". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to creATE ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to creATE the FInal PROtotype] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "STAYED". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to creATE ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
       
         </ul>
 
@@ -643,7 +643,7 @@ export default function creATE(): React.JSX.Element {
           <li>[For the creAtion of BETter SERvices], the FIRM inVESTment inCREASED.</li>
           <li className="margin-bottom-20 list-none">[Nhằm phục vụ cho việc tạo ra các dịch vụ tốt hơn], khoản đầu tư của công ty đã tăng lên.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [For the creAtion of BETter SERvices] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "inCREASED". Bản chất là [prepoSITion PHRASE as post-MODidifer][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "creAtion", bắt đầu bằng [prepoSITion][GIỚI] "for" kéo theo vùng [NOUN PHRASE][DANH CỤM] phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [For the creAtion of BETter SERvices] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "inCREASED". Bản chất là [prepoSITion PHRASE as post-MODidifer][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "creAtion", bắt đầu bằng [prepoSITion][GIỚI] "for" kéo theo vùng [NOUN PHRASE][DANH CỤM] phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtion of BETter SERvices] - </li>
       
@@ -659,7 +659,7 @@ export default function creATE(): React.JSX.Element {
           <li>the TEAM GAthered [for the creAtion of a NEW PROject PLAN].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã tập hợp [phục vụ cho việc tạo ra một kế hoạch dự án mới].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of a NEW PROject PLAN] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "GAthered". Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "GAthered", xuất hiện dưới dạng một vùng mã xác lập lý do / bối cảnh, bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of a NEW PROject PLAN] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "GAthered". Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "GAthered", xuất hiện dưới dạng một vùng mã xác lập lý do / bối cảnh, bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the creAtion of a NEW PROject PLAN] - </li>
       
@@ -782,7 +782,7 @@ export default function creATE(): React.JSX.Element {
           <li>[should the PROgram creATE TECHnical ERrors], aLERT the SYStem adMINistrator.</li>
           <li className="margin-bottom-20 list-none">[Nếu chương trình tạo ra các lỗi kỹ thuật], hãy báo cho quản trị viên hệ thống.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the PROgram creATE TECHnical ERrors] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau. Bản chất là [should the PROgram creATE TECHnical ERrors] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] vận hành ở trạng thái ẩn thành phần [prepoSITion][GIỚI] điều kiện "if" bằng giải pháp đảo [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [NOUN as HEAD][DANH làm LÕI] "PROgram" và [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] "creATE TECHnical ERrors".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the PROgram creATE TECHnical ERrors] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau. Bản chất là [should the PROgram creATE TECHnical ERrors] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] vận hành ở trạng thái ẩn thành phần [prepoSITion][GIỚI] điều kiện "if" bằng giải pháp đảo [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [NOUN as HEAD][DANH làm LÕI] "PROgram" và [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] "creATE TECHnical ERrors".</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the PROgram creATE TECHnical ERrors]</li>
       
@@ -979,7 +979,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [VALue by creAting uNIQUE PROducts] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [by creAting uNIQUE PROducts] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm khối bối cảnh phương thức, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted". Bản chất là [by creAting uNIQUE PROducts] - [prepoSITion PHRASE][GIỚI CỤM] hiển thị dưới dạng một vùng mã chứa [prepoSITion][GIỚI] phương thức "by" đi kèm cụm hành động phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [by creAting uNIQUE PROducts] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm khối bối cảnh phương thức, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted". Bản chất là [by creAting uNIQUE PROducts] - [prepoSITion PHRASE][GIỚI CỤM] hiển thị dưới dạng một vùng mã chứa [prepoSITion][GIỚI] phương thức "by" đi kèm cụm hành động phía sau.</li>
       
         </ul>
       
@@ -993,7 +993,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [VALue be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted" và toàn bộ diễn biến phía trước. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] hiển thị dưới dạng khối mã chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] "deVElopers" và cụm hành động đi sau thành phần [prepoSITion][GIỚI] "be<strong>cause</strong>".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted" và toàn bộ diễn biến phía trước. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] hiển thị dưới dạng khối mã chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] "deVElopers" và cụm hành động đi sau thành phần [prepoSITion][GIỚI] "be<strong>cause</strong>".</li>
       
         </ul>
 
@@ -1037,7 +1037,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> gốc: [TIME for the creAtion of the SYStem INterface] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [for the creAtion of the SYStem INterface] - [ADverb as ADjunct][TRẠNG làm PHỤ] thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated". Bản chất là [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] chỉ lý do / bối cảnh "for" để kéo theo khối [NOUN PHRASE][DANH CỤM] phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [for the creAtion of the SYStem INterface] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated". Bản chất là [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] chỉ lý do / bối cảnh "for" để kéo theo khối [NOUN PHRASE][DANH CỤM] phía sau.</li>
       
         </ul>
       
@@ -1051,7 +1051,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [TIME to creATE the SYStem INterface]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [to creATE the SYStem INterface] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò thiết lập khối bối cảnh mục đích tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] mới, được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "creATE ..." được đưa vào thế chỗ.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [to creATE the SYStem INterface] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò thiết lập khối bối cảnh mục đích tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] mới, được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "creATE ..." được đưa vào thế chỗ.</li>
       
         </ul>
 

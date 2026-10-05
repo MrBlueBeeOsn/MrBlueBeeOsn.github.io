@@ -446,7 +446,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>she STUDied HARD [to BUILD this SYStem].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã học tập chăm chỉ [để xây dựng hệ thống này].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to BUILD this SYStem] - [ADverb as ADjunct 2][TRẠNG làm PHỤ 2] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau bổ nghĩa cho hành động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to BUILD this SYStem] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau bổ nghĩa cho hành động.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to BUILD this SYStem] - [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] định hình dưới dạng một vùng mã hành động mở rộng thuộc nhóm [to-infiniTIval][TO-NGUYÊN] kéo theo đối tượng.</li>
 			
@@ -482,7 +482,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>we STAYED inDOORS [be<strong>cause</strong> of the seVERE STORM].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã ở trong nhà [bởi vì trận bão dữ dội].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of the seVERE STORM] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhiệm vai trò làm một khối bối cảnh nguyên nhân đứng sau hành động để xác định lý do diễn ra sự việc.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of the seVERE STORM] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhiệm vai trò làm một khối bối cảnh nguyên nhân đứng sau hành động để xác định lý do diễn ra sự việc.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the seVERE STORM] - [prepoSITion PHRASE][GIỚI CỤM] mở đầu bằng một tổ hợp định vị lý do đóng vai trò làm [prepoSITion][GIỚI] (be<strong>cause</strong>).</li>
 			
@@ -711,7 +711,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>[had i deSIGNED the SOFTware], i would have TESTed it.</li>
 					<li className="margin-bottom-20 list-none">[Giá mà tôi thiết kế phần mềm], tôi đã kiểm tra nó rồi.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had i deSIGNED the SOFTware] - [ADverb as ADjunct][TRẠNG làm PHỤ] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had i deSIGNED the SOFTware] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [had i deSIGNED the SOFTware] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] sử dụng cấu trúc đảo chip [FInite VERB][HẠN ĐỘNG] had lên trước chủ thể "i", xóa bỏ hoàn toàn [prepoSITion][GIỚI] điều kiện và đồng hành cùng [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] deSIGNED.</li>
 			
@@ -768,7 +768,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the HEAVy RAIN] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>" kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "of the HEAVy RAIN" làm bổ ngữ.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [be<strong>cause</strong> of the HEAVy RAIN] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cụm, đóng vai trò làm [ADjunct][PHỤ] bối cảnh nguyên nhân.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [be<strong>cause</strong> of the HEAVy RAIN] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cụm, đóng vai trò làm [ADjunct][PHỤ] bối cảnh nguyên nhân.</li>
 			
 				</ul>
 
@@ -777,7 +777,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>we deLAYED the LAUNCH [be<strong>cause</strong> it RAINED HEAVily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn buổi ra mắt [bởi vì trời đã mưa rất dày].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [be<strong>cause</strong> it RAINED HEAVily] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn nhưng giữ nguyên giá trị nội dung.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [be<strong>cause</strong> it RAINED HEAVily] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn nhưng giữ nguyên giá trị nội dung.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> it RAINED HEAVily] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] hiển thị dưới dạng khối mã chứa đầy đủ chủ thể hành động it và hạt nhân [PRETerite FORM][KHỨ DẠNG] RAINED thiết lập cấu hình tích hợp thời quá khứ.</li>
 			

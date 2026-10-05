@@ -474,7 +474,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>he atTENDS WORKshops [to reFINE his LEADership STYLE].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy tham gia các hội thảo [để trau dồi phong cách lãnh đạo].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [to reFINE his LEADership STYLE] - [ADverb as ADjunct 2][TRẠNG làm PHỤ 2] đứng cuối nhằm giải thích bối cảnh mục đích cho hành động tham gia được vận hành bởi [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "atTENDS".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [to reFINE his LEADership STYLE] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đứng cuối nhằm giải thích bối cảnh mục đích cho hành động tham gia được vận hành bởi [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "atTENDS".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [to reFINE his LEADership STYLE] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "reFINE ..." kéo theo một cụm [NOUN PHRASE][DANH CỤM] làm thành phần bổ trợ.</li>
 			
@@ -506,7 +506,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SYStem upDATES autoMATically [at MIDnight].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống tự động cập nhật [vào lúc nửa đêm].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [at MIDnight] - [ADverb as ADjunct][TRẠNG làm PHỤ] đứng cuối câu nhằm bổ nghĩa hoàn cảnh mốc thời gian diễn ra hành động cập nhật của hệ thống.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [at MIDnight] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đứng cuối câu nhằm bổ nghĩa hoàn cảnh mốc thời gian diễn ra hành động cập nhật của hệ thống.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [at MIDnight] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "at" liên kết quan hệ thời gian trực tiếp với [HEAD as NOUN][LÕI làm DANH] "MIDnight".</li>
 			
@@ -740,7 +740,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SYStem CRASHED [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [vì nhiệt độ bên trong leo thang nhanh chóng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [ADverb as ADjunct][TRẠNG làm PHỤ] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "CRASHED".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "CRASHED".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [NOUN as HEAD][DANH làm LÕI] "TEMPERature" và [PRETerite FORM][KHỨ DẠNG] "EScalated".</li>
 			
@@ -772,7 +772,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SYStem CRASHED [due to the RAPid TEMPERature escaLAtion].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [do sự leo thang nhiệt độ nhanh chóng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [due to the RAPid TEMPERature escaLAtion] - [ADverb as ADjunct][TRẠNG làm PHỤ] thực hiện chức năng cung cấp bối cảnh nguyên nhân rút gọn cho hành động chính "CRASHED".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [due to the RAPid TEMPERature escaLAtion] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] thực hiện chức năng cung cấp bối cảnh nguyên nhân rút gọn cho hành động chính "CRASHED".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [due to the RAPid TEMPERature escaLAtion] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "due" điều phối một [prepoSITion PHRASE][GIỚI CỤM] "to the RAPid TEMPERature escaLAtion".</li>
 			

@@ -48,7 +48,7 @@ export default function (): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [CALculating the TOtal PAYroll for the STAFF] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa phía sau, không có chủ thể riêng biệt. \n\n Chức năng: [CALculating the TOtal PAYroll for the STAFF] - [ADverb as ADjunct][TRẠNG làm PHỤ] đi kèm sau hành động chính \"WORKED\" đứng ra bổ nghĩa cho hành động đó theo góc độ cách thức."
+			explanation: "Hình thái: [CALculating the TOtal PAYroll for the STAFF] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa phía sau, không có chủ thể riêng biệt. \n\n Chức năng: [CALculating the TOtal PAYroll for the STAFF] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đi kèm sau hành động chính \"WORKED\" đứng ra bổ nghĩa cho hành động đó theo góc độ cách thức."
 		},
 		{
 			id: 4,
@@ -78,7 +78,7 @@ export default function (): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to AUtomate the BOOKkeeping PROCess] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng hành động có \"to\" đi kèm các thành phần bổ nghĩa. \n\n Chức năng: [to AUtomate the BOOKkeeping PROCess] - [ADverb as ADjunct][TRẠNG làm PHỤ] đứng sau hành động chính \"USE\" đứng ra bổ nghĩa cho hành động đó theo góc độ mục đích."
+			explanation: "Hình thái: [to AUtomate the BOOKkeeping PROCess] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng hành động có \"to\" đi kèm các thành phần bổ nghĩa. \n\n Chức năng: [to AUtomate the BOOKkeeping PROCess] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đứng sau hành động chính \"USE\" đứng ra bổ nghĩa cho hành động đó theo góc độ mục đích."
 		},
 		{
 			id: 7,
@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "[because the TAX LAWS CHANGED REcently] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] bắt đầu bằng thành phần liên kết \"because\", có chứa chủ thể \"the TAX LAWS\" và hành động \"CHANGED\" xác định theo thời quá khứ. \n\n Chức năng: [because the TAX LAWS CHANGED REcently] - [ADverb as ADjunct][TRẠNG làm PHỤ] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
+			explanation: "[because the TAX LAWS CHANGED REcently] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] bắt đầu bằng thành phần liên kết \"because\", có chứa chủ thể \"the TAX LAWS\" và hành động \"CHANGED\" xác định theo thời quá khứ. \n\n Chức năng: [because the TAX LAWS CHANGED REcently] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
 		}
 	];
 

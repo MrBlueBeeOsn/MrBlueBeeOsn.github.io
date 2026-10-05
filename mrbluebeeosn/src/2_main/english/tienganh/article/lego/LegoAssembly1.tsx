@@ -663,7 +663,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the TECHnician TESTS WEEKly [to preVENT SYStem FAILures].</li>
 					<li className="margin-bottom-20 list-none">Kỹ thuật viên kiểm tra hàng tuần [để ngăn ngừa sự cố hệ thống].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to preVENT SYStem FAILures] - [ADverb as ADjunct 2][TRẠNG làm PHỤ 2] đứng cuối câu để làm rõ bối cảnh mục đích hướng tới của hành động thực thi trước đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to preVENT SYStem FAILures] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đứng cuối câu để làm rõ bối cảnh mục đích hướng tới của hành động thực thi trước đó.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to preVENT SYStem FAILures] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng một [to-infiniTIval][TO-NGUYÊN] to preVENT phối hợp với khối định danh chịu tác động phía sau.</li>
 			
@@ -677,7 +677,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>we dePLOYED the appliCAtion [in the CLOUD INfrastructure].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã triển khai ứng dụng [trong hạ tầng điện toán đám mây].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the CLOUD INfrastructure] - [ADverb as ADjunct][TRẠNG làm PHỤ] đứng cuối câu để bổ sung bối cảnh không gian vị trí nơi diễn ra toàn bộ sự việc.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the CLOUD INfrastructure] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đứng cuối câu để bổ sung bối cảnh không gian vị trí nơi diễn ra toàn bộ sự việc.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in the CLOUD INfrastructure] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] in kết hợp một khối chức năng Danh chỉ không gian để xác định phạm vi hoạt động của [prepoSITion][GIỚI].</li>
 			
@@ -717,7 +717,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the PROgram CRASHED [due to a MEMORy LEAK].</li>
 					<li className="margin-bottom-20 list-none">Chương trình đã bị sập [vì lỗi rò rỉ bộ nhớ].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to a MEMORy LEAK] - [ADverb as ADjunct][TRẠNG làm PHỤ] mở rộng bối cảnh nguyên nhân lý do cho trạng thái sự việc CRASHED.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to a MEMORy LEAK] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] mở rộng bối cảnh nguyên nhân lý do cho trạng thái sự việc CRASHED.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [due to a MEMORy LEAK] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng một [prepoSITion][GIỚI] "due kết hợp khối [prepoSITion PHRASE][PHỨC GIỚI CỤM] "to a MEMORy LEAK" đi kèm phía sau để chỉ nguyên nhân khách quan.</li>
 			
@@ -746,7 +746,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>[had the WARNing TRIGgered SOONer], we would have MITigated RISKS.</li>
 					<li className="margin-bottom-20 list-none">[Nếu cảnh báo kích hoạt sớm hơn], chúng tôi đã giảm thiểu được các rủi ro.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had the WARNing TRIGgered SOONer] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò cung cấp cảnh báo nền tảng giả định bối cảnh điều kiện tiên quyết cho hệ quả của câu lớn phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had the WARNing TRIGgered SOONer] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đóng vai trò cung cấp cảnh báo nền tảng giả định bối cảnh điều kiện tiên quyết cho hệ quả của câu lớn phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [had the WARNing TRIGgered SOONer] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] giả định đã triệt tiêu hoàn toàn [prepoSITion][GIỚI] điều kiện bằng phương pháp đảo cấu trúc đảo khối [FInite VERB][HẠN ĐỘNG] Had lên đứng trước [NOUN as HEAD][DANH làm LÕI] nội bộ the WARNing.</li>
 			
@@ -785,7 +785,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the PLATform upDATed [as <strong>soon</strong> as the CODE PATCH WENT LIVE].</li>
 					<li className="margin-bottom-20 list-none">Nền tảng đã cập nhật [ngay khi bản vá mã nguồn được kích hoạt trực tuyến].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [as <strong>soon</strong> as the CODE PATCH WENT LIVE] - [ADverb as ADjunct][TRẠNG làm PHỤ] thay thế vị trí của [ADverb HEAD][TRẠNG LÕI] cũ, mở rộng quy mô thông tin thành bối cảnh [Thời] gian cho hành động chính updated nhưng vẫn giữ nguyên màu sắc chức năng cung cấp bối cảnh.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [as <strong>soon</strong> as the CODE PATCH WENT LIVE] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] thay thế vị trí của [ADverb HEAD][TRẠNG LÕI] cũ, mở rộng quy mô thông tin thành bối cảnh [Thời] gian cho hành động chính updated nhưng vẫn giữ nguyên màu sắc chức năng cung cấp bối cảnh.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [as <strong>soon</strong> as the CODE PATCH WENT LIVE] - [Phức Liên Câu][Complex Conjunctional Clause] cấp độ [CLAUSE][ĐIỀU], chứa [Phức LIÊN][Complex conJUNCtion] as <strong>soon</strong> as kết hợp với một bộ cấu trúc [S]-[HEAD] hoàn chỉnh bên trong để mô tả một mốc sự kiện kích hoạt tức thời.</li>
 			
