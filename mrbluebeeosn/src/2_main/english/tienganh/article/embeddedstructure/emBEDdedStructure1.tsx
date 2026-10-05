@@ -637,7 +637,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [where you exPLORE] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] trở thành khối [COMplement][BỔ] chứa dữ liệu mục tiêu chịu tác động từ hệ thống lệnh ngoài.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [where you exPLORE] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [PrepoSITion][GIỚI] kết nối where, có chủ thể "you" và [VERB LEXEME][ĐỘNG VỊ] exPLORE.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [where you exPLORE] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [prepoSITion][GIỚI] kết nối where, có chủ thể "you" và [VERB LEXEME][ĐỘNG VỊ] exPLORE.</li>
 			
 				</ul>
 			
@@ -665,7 +665,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> it RAINED HEAVily] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] thiết lập MODule định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ ĐIỀU] kích hoạt ngay sau [PrepoSITion][GIỚI] kết nối be<strong>cause</strong>, chứa chủ thể "it" và [PRETerite FORM][KHỨ DẠNG] RAINED mang dấu mốc tích hợp quá khứ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ ĐIỀU] kích hoạt ngay sau [prepoSITion][GIỚI] kết nối be<strong>cause</strong>, chứa chủ thể "it" và [PRETerite FORM][KHỨ DẠNG] RAINED mang dấu mốc tích hợp quá khứ.</li>
 			
 				</ul>
 
@@ -713,7 +713,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had i deSIGNED the SOFTware] - [ADverb as ADjunct][TRẠNG làm PHỤ] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [had i deSIGNED the SOFTware] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] sử dụng cấu trúc đảo chip [FInite VERB][HẠN ĐỘNG] had lên trước chủ thể "i", xóa bỏ hoàn toàn [PrepoSITion][GIỚI] điều kiện và đồng hành cùng [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] deSIGNED.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [had i deSIGNED the SOFTware] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] sử dụng cấu trúc đảo chip [FInite VERB][HẠN ĐỘNG] had lên trước chủ thể "i", xóa bỏ hoàn toàn [prepoSITion][GIỚI] điều kiện và đồng hành cùng [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] deSIGNED.</li>
 			
 				</ul>
 			

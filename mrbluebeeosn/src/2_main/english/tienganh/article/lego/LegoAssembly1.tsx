@@ -362,7 +362,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 					<li>[<strong>PHRASE</strong>][<strong>CỤM</strong>]: Khối phức hợp làm một chức năng chung nhưng không có lõi [S] và hành động riêng theo quy tắc kéo theo thành phần phụ thuộc.</li>
 
-					<li>[<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>]: Một câu con có cấu trúc [S] và hành động riêng bên trong được khóa lại bởi một [PROnoun][ĐẠI] như who, which, what; [ADverb][TRẠNG] như HOW, WHY; [PrepoSITion][GIỚI] như where, when, if, because; [SuBORdinator][HẠ] như that để đi làm thuê cho câu lớn.</li>
+					<li>[<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>]: Một câu con có cấu trúc [S] và hành động riêng bên trong được khóa lại bởi một [PROnoun][ĐẠI] như who, which, what; [ADverb][TRẠNG] như HOW, WHY; [prepoSITion][GIỚI] như where, when, if, because; [SuBORdinator][HẠ] như that để đi làm thuê cho câu lớn.</li>
 			
 				</ul>
 
@@ -705,7 +705,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối giữa at the MOment when the upDATe comPLEted là một [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] at ôm lấy cấu trúc phức hợp tầng dưới nhằm định vị [Thời] gian.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong when the upDATe comPLEted là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [PrepoSITion][GIỚI] when liên kết một câu con hoàn chỉnh có chủ vị riêng.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong when the upDATe comPLEted là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [prepoSITion][GIỚI] when liên kết một câu con hoàn chỉnh có chủ vị riêng.</li>
 			
 				</ul>
 
@@ -733,7 +733,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] bổ nghĩa cho hành động chính của bộ nguồn [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will PAUSE, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [suBORdinate CLAUSE][PHỤ ĐIỀU] chứa [PrepoSITion][GIỚI] be<strong>cause</strong> và một bộ khung [S]-[HEAD] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [suBORdinate CLAUSE][PHỤ ĐIỀU] chứa [prepoSITion][GIỚI] be<strong>cause</strong> và một bộ khung [S]-[HEAD] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
 					
 			
 				</ul>
@@ -748,7 +748,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had the WARNing TRIGgered SOONer] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò cung cấp cảnh báo nền tảng giả định bối cảnh điều kiện tiên quyết cho hệ quả của câu lớn phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [had the WARNing TRIGgered SOONer] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] giả định đã triệt tiêu hoàn toàn [PrepoSITion][GIỚI] điều kiện bằng phương pháp đảo cấu trúc đảo khối [FInite VERB][HẠN ĐỘNG] Had lên đứng trước [HEAD as SUBject][LÕI làm CHỦ] nội bộ the WARNing.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [had the WARNing TRIGgered SOONer] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] giả định đã triệt tiêu hoàn toàn [prepoSITion][GIỚI] điều kiện bằng phương pháp đảo cấu trúc đảo khối [FInite VERB][HẠN ĐỘNG] Had lên đứng trước [HEAD as SUBject][LÕI làm CHỦ] nội bộ the WARNing.</li>
 			
 				</ul>
 

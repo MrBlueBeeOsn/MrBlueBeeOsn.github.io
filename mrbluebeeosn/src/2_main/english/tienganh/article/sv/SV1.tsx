@@ -497,7 +497,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> it RAINED HEAVily] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ ĐIỀU] thể hiện khối hành động phức có chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "it" và [PRETerite FORM][KHỨ DẠNG] "RAINED", bắt đầu bằng [PrepoSITion][GIỚI] "be<strong>cause</strong>".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ ĐIỀU] thể hiện khối hành động phức có chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "it" và [PRETerite FORM][KHỨ DẠNG] "RAINED", bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>".</li>
 			
 				</ul>
 
@@ -699,7 +699,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [SLOWer than we exPECTed] là một khối [Nhúng Diện Trạng Cụm][emBEDded Modified Adverb Phrase] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản SLOW kết hợp hậu tố -er.</li>
 					
-					<li className="list-none">Tầng trong: Khối lồng bên trong than we exPECTed là một [comPARative CLAUSE][SO ĐIỀU] có chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "we" và [PRETerite FORM][KHỨ DẠNG] "exPECTed", được bắt đầu bằng [PrepoSITion][GIỚI] than.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong than we exPECTed là một [comPARative CLAUSE][SO ĐIỀU] có chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "we" và [PRETerite FORM][KHỨ DẠNG] "exPECTed", được bắt đầu bằng [prepoSITion][GIỚI] than.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
@@ -773,7 +773,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [<strong>af</strong>ter the RAIN STOPPED] - [ADverb as ADjunct][TRẠNG làm PHỤ] gắn vào phía sau [PRETerite FORM][KHỨ DẠNG] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời gian cho toàn bộ hành động phía trước.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [<strong>af</strong>ter the RAIN STOPPED] - [suBORdinate CLAUSE][PHỤ ĐIỀU] thể hiện khối hành động phức có chứa hệ trục [HEAD as SUBject][LÕI làm CHỦ] "the RAIN" và [PRETerite FORM][KHỨ DẠNG] "STOPPED", bắt đầu bằng [PrepoSITion][GIỚI] "<strong>af</strong>ter ".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [<strong>af</strong>ter the RAIN STOPPED] - [suBORdinate CLAUSE][PHỤ ĐIỀU] thể hiện khối hành động phức có chứa hệ trục [HEAD as SUBject][LÕI làm CHỦ] "the RAIN" và [PRETerite FORM][KHỨ DẠNG] "STOPPED", bắt đầu bằng [prepoSITion][GIỚI] "<strong>af</strong>ter ".</li>
 			
 				</ul>
 			

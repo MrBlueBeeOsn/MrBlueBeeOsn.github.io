@@ -494,7 +494,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [on the TOP FLOOR] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng ôm sát ngay sau khối biểu thị thực thể [HEAD as SUBject][LÕI làm CHỦ] "the OFfice" để bổ nghĩa chỉ bối cảnh vị trí đặc trưng cho văn phòng đó.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [on the TOP FLOOR] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "on" liên kết quan hệ không gian trực tiếp với cụm [NOUN BLOCK][DANH KHỐI] "the TOP FLOOR".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [on the TOP FLOOR] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "on" liên kết quan hệ không gian trực tiếp với cụm [NOUN PHRASE][DANH CỤM] "the TOP FLOOR".</li>
 			
 				</ul>
 			
@@ -514,7 +514,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 
 
-			<h4 className="margin-y-40">4. Hình thái [PrepoSITion][GIỚI]</h4>
+			<h4 className="margin-y-40">4. Hình thái [prepoSITion][GIỚI]</h4>
 
 			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [HEAD as SUBject][LÕI làm CHỦ] và các cấu hình [PREDicator HEAD][VỊ LÕI] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [ADverb][TRẠNG] tường minh:</p>
 
@@ -570,7 +570,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "will".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [suBORdinate CLAUSE][PHỤ ĐIỀU] bắt đầu bằng [PrepoSITion][GIỚI] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] "the QUAlity STANdard" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [suBORdinate CLAUSE][PHỤ ĐIỀU] bắt đầu bằng [prepoSITion][GIỚI] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] "the QUAlity STANdard" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES".</li>
 			
 				</ul>
 
@@ -742,7 +742,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [ADverb as ADjunct][TRẠNG làm PHỤ] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "CRASHED".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [suBORdinate CLAUSE][PHỤ ĐIỀU] bắt đầu bằng [PrepoSITion][GIỚI] "be<strong>cause</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] "TEMPERature" và [PRETerite FORM][KHỨ DẠNG] "EScalated".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [suBORdinate CLAUSE][PHỤ ĐIỀU] bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] "TEMPERature" và [PRETerite FORM][KHỨ DẠNG] "EScalated".</li>
 			
 				</ul>
 			
@@ -872,7 +872,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center" id="conJUNCtional-CLAUSE">IX. TUYỆT CHIÊU PHÂN BIỆT [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] THẦN TỐC BẰNG MẸO [THẾ THÂN]</h3>
 
-			<p>Khi gặp các khối [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] có hình thái giống hệt nhau (ví dụ: đều bắt đầu bằng một từ đa năng làm [SuBORdinator][HẠ] như that, [PrepoSITion][GIỚI]: when, where), người học rất dễ bị bối rối.</p>
+			<p>Khi gặp các khối [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] có hình thái giống hệt nhau (ví dụ: đều bắt đầu bằng một từ đa năng làm [SuBORdinator][HẠ] như that, [prepoSITion][GIỚI]: when, where), người học rất dễ bị bối rối.</p>
 
 			<p>Hãy áp dụng ngay phương pháp [<strong>Thế thân</strong>][<strong>Substitution</strong>] dựa trên nguyên lý thay thế bằng một khối từ mức độ [HEAD][LÕI] cơ bản:</p>
 			
@@ -890,7 +890,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 			
-			<h5 className="margin-y-30">Thử thách phá án 3 cấu trúc có cùng hình thái [CLAUSE][ĐIỀU] chứa biểu hiện [PrepoSITion][GIỚI] "<strong>[where]</strong>":</h5>
+			<h5 className="margin-y-30">Thử thách phá án 3 cấu trúc có cùng hình thái [CLAUSE][ĐIỀU] chứa biểu hiện [prepoSITion][GIỚI] "<strong>[where]</strong>":</h5>
 			
 
 			<p className="margin-top-20">Trường hợp A: Thử thế thân bằng [ADverb HEAD][TRẠNG LÕI] "<strong>[THERE]</strong>"</p>

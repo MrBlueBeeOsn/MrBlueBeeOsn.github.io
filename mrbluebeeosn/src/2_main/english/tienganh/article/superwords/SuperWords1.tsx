@@ -585,7 +585,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the CAR he DROVE YESterday] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: he DROVE YESterday – [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu. Đang đứng vị trí bám sát ngay sau [HEAD as SUBject][LÕI làm CHỦ] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: he DROVE YESterday – [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN PHRASE][DANH CỤM] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu. Đang đứng vị trí bám sát ngay sau [HEAD as SUBject][LÕI làm CHỦ] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
 				</ul>
 			
@@ -743,7 +743,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h5 className="margin-y-30 text-indent-whole">Cách viết lại 2: Dùng khối [prepoSITion PHRASE][GIỚI CỤM]</h5>
 
-			<p className="margin-top-20 text-indent-whole">Rút gọn tối đa thành một cụm [NOUN BLOCK][DANH KHỐI]</p>
+			<p className="margin-top-20 text-indent-whole">Rút gọn tối đa thành một cụm [NOUN PHRASE][DANH CỤM]</p>
 			
 				<ul className="list-square">
 			

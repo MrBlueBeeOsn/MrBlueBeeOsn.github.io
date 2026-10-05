@@ -421,7 +421,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the ARchive] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ trợ vị trí không gian trực tiếp cho [HEAD as SUBject][LÕI làm CHỦ] "MANuscript".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in the ARchive] - [prepoSITion PHRASE][GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] "in" kết hợp [NOUN BLOCK][DANH KHỐI] định vị.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in the ARchive] - [prepoSITion PHRASE][GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] "in" kết hợp [NOUN PHRASE][DANH CỤM] định vị.</li>
 			
 				</ul>
 
@@ -601,7 +601,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to MARket fluctuAtions which afFECted proDUCtion] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đa tầng bóc tách sâu nguyên nhân và hệ quả cho [HEAD as SUBject][LÕI làm CHỦ] "SHIFTS".</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which afFECted proDUCtion - [RELative CLAUSE][QUAN ĐIỀU] bổ nghĩa cho [NOUN BLOCK][DANH KHỐI] "MARket fluctuAtions" để chỉ rõ khía cạnh biến động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which afFECted proDUCtion - [RELative CLAUSE][QUAN ĐIỀU] bổ nghĩa cho [NOUN PHRASE][DANH CỤM] "MARket fluctuAtions" để chỉ rõ khía cạnh biến động.</li>
 			
 				</ul>
 			
@@ -635,7 +635,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>the inVESTment [GENerating HIGH PROfits] is YOURS.</li>
 					<li className="margin-bottom-20 list-none">Khoản đầu tư [tạo ra lợi nhuận cao] là của bạn.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [GENerating HIGH PROfits] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] dẫn dắt bởi [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "GENerating" đi kèm [NOUN BLOCK][DANH KHỐI] "HIGH PROfits".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [GENerating HIGH PROfits] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] dẫn dắt bởi [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "GENerating" đi kèm [NOUN PHRASE][DANH CỤM] "HIGH PROfits".</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [GENerating HIGH PROfits] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] mô tả trạng thái chủ động tạo ra giá trị của đối tượng trung tâm [HEAD as SUBject][LÕI làm CHỦ] "the inVESTment".</li>
 			
