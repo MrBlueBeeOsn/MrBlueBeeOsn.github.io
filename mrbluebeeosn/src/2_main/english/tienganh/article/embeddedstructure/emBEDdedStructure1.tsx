@@ -384,7 +384,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>she exPLAINED the LAYout [exPRESsively].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã giải thích sơ đồ bố trí [một cách đầy biểu cảm].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [exPRESsively] - [ADverb as ADjunct 1][TRẠNG làm PHỤ 1] thực thi vai trò bổ nghĩa đứng ngay sau [PREDicator HEAD][VỊ LÕI] "exPLAINED" để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [exPRESsively] - [ADverb as ADjunct][TRẠNG làm PHỤ] thực thi vai trò bổ nghĩa đứng ngay sau [PREDicator HEAD][VỊ LÕI] "exPLAINED" để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [exPRESsively] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "exPRESS" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính chất bổ trợ trạng thái.</li>
 			

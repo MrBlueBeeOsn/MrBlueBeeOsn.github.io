@@ -48,7 +48,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADVERB]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [Open] - [PLAIN FORM][GIẢN DẠNG] originating from a bare VERB. \n\n Function: [Open] - [ADverb as ADjunct 1][TRẠNG làm PHỤ 1] acts as a resultative complement modifying the verb \"FLEW\" to show the final state achieved by the action."
+			explanation: "Form: [Open] - [PLAIN FORM][GIẢN DẠNG] originating from a bare VERB. \n\n Function: [Open] - [ADverb as ADjunct][TRẠNG làm PHỤ] acts as a resultative complement modifying the verb \"FLEW\" to show the final state achieved by the action."
 		},
 		{
 			id: 4,

@@ -160,7 +160,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [quickly] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "quick" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [quickly] - [ADverb as ADjunct 1][TRẠNG làm PHỤ 1] bổ sung cách thức cho runs.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [quickly] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ sung cách thức cho runs.</li>
 			
 				</ul>
 			
@@ -174,7 +174,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [softly] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "soft" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [softly] - [ADverb as ADjunct 1][TRẠNG làm PHỤ 1] bổ sung cách thức cho speaks.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [softly] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ sung cách thức cho speaks.</li>
 			
 				</ul>
 
@@ -531,7 +531,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [carefully] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "care" mặc thêm hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [carefully] - [ADverb as ADjunct 1][TRẠNG làm PHỤ 1] bổ sung cách thức cho drives.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [carefully] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			
