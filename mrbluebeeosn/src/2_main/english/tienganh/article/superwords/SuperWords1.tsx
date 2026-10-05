@@ -146,8 +146,8 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ol>
       
-          <li value="1">[<strong>VERB LEXEME</strong>][<strong>ĐỘNG VỊ</strong>]: BUILD, deSIGN, TEST</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng [VERB LEXEME][ĐỘNG VỊ] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
+          <li value="1">[<strong>VERB LEXeme</strong>][<strong>ĐỘNG VỊ</strong>]: BUILD, deSIGN, TEST</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng [VERB LEXeme][ĐỘNG VỊ] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
 
 					<li value="2">[<strong>infiniTIval MARKer</strong>][<strong>NGUYÊN DẤU</strong>]: to</li>
 					<li className="margin-bottom-20 list-none">[infiniTIval MARKer][NGUYÊN DẤU] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Ví dụ: • Sentence A (Marked): You ought <strong>to</strong> leave. • Sentence B (Unmarked): You should leave.</li>
@@ -175,7 +175,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>][<strong>PHI-THỜI DẠNG</strong>]: HAVing NO TENSE or NO SUBject</li>
 
           <li className="list-none">[<strong>PLAIN FORM</strong>][<strong>GIẢN DẠNG</strong>]: BUILD, deSIGN, TEST</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [infiniTIval MARKer][NGUYÊN DẤU] "to", [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] hoặc [VERB LEXEME][ĐỘNG VỊ] MAKE, LET, let's, HELP, HAVE, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL.</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [infiniTIval MARKer][NGUYÊN DẤU] "to", [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] hoặc [VERB LEXeme][ĐỘNG VỊ] MAKE, LET, let's, HELP, HAVE, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL.</li>
       
           <li className="list-none">[<strong>to-infiniTIval</strong>][<strong>TO-NGUYÊN</strong>]: to BUILD, to deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt ĐỘNG] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
@@ -219,7 +219,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			
 
-			<p className="margin-top-20">Bên cạnh đó, ngôn ngữ còn sử dụng một loại hình thái khối đặc biệt không xuất phát từ [VERB LEXEME][ĐỘNG VỊ], đó là [prepoSITion PHRASE][GIỚI CỤM]. Khối hình thái này chuyên đảm nhận việc sinh ra chức năng [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] và [ADverb HEAD][TRẠNG LÕI] ở cấp độ [PHRASE][CỤM].</p>
+			<p className="margin-top-20">Bên cạnh đó, ngôn ngữ còn sử dụng một loại hình thái khối đặc biệt không xuất phát từ [VERB LEXeme][ĐỘNG VỊ], đó là [prepoSITion PHRASE][GIỚI CỤM]. Khối hình thái này chuyên đảm nhận việc sinh ra chức năng [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] và [ADverb HEAD][TRẠNG LÕI] ở cấp độ [PHRASE][CỤM].</p>
 			
 			<p>Hãy nhớ hai định nghĩa nền tảng về câu:</p>
 			
@@ -306,7 +306,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p>Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào thuộc hệ thống 16 mục trên kéo theo các thành phần bổ trợ phía sau như [COMplement][BỔ], [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][ĐỊNH-THỜI ĐIỀU làm BỔ], [ADverb HEAD][TRẠNG LÕI], hoặc [ADjunct][PHỤ], toàn bộ khối thông tin mở rộng đó sẽ lập tức chuyển đổi cấu trúc và dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p>Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào thuộc hệ thống 16 mục trên kéo theo các thành phần bổ trợ phía sau như [COMplement][BỔ], [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ], [ADverb HEAD][TRẠNG LÕI], hoặc [ADjunct][PHỤ], toàn bộ khối thông tin mở rộng đó sẽ lập tức chuyển đổi cấu trúc và dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
@@ -352,7 +352,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [deSIGNing] – [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [HEAD as PREDdicate][LỖI làm VỊ] "enJOYS", đang đứng vị trí sau [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "enJOYS" để làm [COMplement][BỔ] tiếp nhận hành động yêu thích.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [deSIGNing] – [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ [VERB LEXEME][ĐỘNG VỊ] nguyên bản "deSIGN" mặc thêm hậu tố "-ing" để tạo thành một khối cấp độ [HEAD][LÕI] độc lập.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [deSIGNing] – [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ [VERB LEXeme][ĐỘNG VỊ] nguyên bản "deSIGN" mặc thêm hậu tố "-ing" để tạo thành một khối cấp độ [HEAD][LÕI] độc lập.</li>
 			
 				</ul>
 			
@@ -366,7 +366,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [unexPECted] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đang đứng vị trí trước và bổ nghĩa, mô tả tính chất cho  "soLUtion" giải pháp.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [unexPECted] – [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "exPECT" mặc thêm tiền tố phủ định "un-" kết hợp với hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính mô tả tĩnh.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [unexPECted] – [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [VERB LEXeme][ĐỘNG VỊ] nguyên bản "exPECT" mặc thêm tiền tố phủ định "un-" kết hợp với hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính mô tả tĩnh.</li>
 					
 			
 				</ul>
@@ -381,7 +381,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [rePEAtedly] – [ADverb HEAD][TRẠNG LÕI] đang đứng vị trí sau để mô tả cách thức, tính chất cho hành động bị lỗi.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [rePEAtedly] – [MODified ADVERB][ĐỊNH TRẠNG] hình thành từ [VERB LEXEME][ĐỘNG VỊ] nguyên bản "rePEAT" kết hợp các hậu tố "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] chỉ phương thức hoạt động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [rePEAtedly] – [MODified ADVERB][ĐỊNH TRẠNG] hình thành từ [VERB LEXeme][ĐỘNG VỊ] nguyên bản "rePEAT" kết hợp các hậu tố "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] chỉ phương thức hoạt động.</li>
 			
 				</ul>
 
@@ -497,28 +497,28 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái [CONtent CLAUSE][NỘI ĐIỀU], ta xác định chức năng dựa trên khuôn mẫu như sau:</p>
 
-			<p className="margin-top-20" id="FInite-CLAUsal-SUBject"><strong>Ví dụ 1a</strong>: [<strong>FInite CLAUSE as SUBject</strong>][<strong>ĐỊNH-THỜI ĐIỀU làm CHỦ</strong>]</p>
+			<p className="margin-top-20" id="FInite-CLAUsal-SUBject"><strong>Ví dụ 1a</strong>: [<strong>FInite CLAUSE as SUBject</strong>][<strong>THỜI ĐIỀU làm CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>[whaTEVer you deCIDE] will SHAPE our FUture.</li>
 					<li className="margin-bottom-20 list-none">[Bất cứ điều gì bạn quyết định] sẽ định hình tương lai của chúng ta.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [whaTEVer you deCIDE] – [FInite CLAUSE as SUBject][ĐỊNH-THỜI ĐIỀU] đang đứng ở đầu câu lớn để giữ vai trò làm [SUBject][CHỦ] thực hiện [PREDicator HEAD][VỊ LÕI] "SHAPE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [whaTEVer you deCIDE] – [FInite CLAUSE as SUBject][THỜI ĐIỀU] đang đứng ở đầu câu lớn để giữ vai trò làm [SUBject][CHỦ] thực hiện [PREDicator HEAD][VỊ LÕI] "SHAPE".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [whaTEVer you deCIDE] – [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [PROnoun][ĐẠI] "whatEVer".</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20" id="FInite-CLAUsal-COMplement"><strong>Ví dụ 1b</strong>: [<strong>FInite CLAUSE as COMplement</strong>][<strong>ĐỊNH-THỜI ĐIỀU làm BỔ</strong>]</p>
+			<p className="margin-top-20" id="FInite-CLAUsal-COMplement"><strong>Ví dụ 1b</strong>: [<strong>FInite CLAUSE as COMplement</strong>][<strong>THỜI ĐIỀU làm BỔ</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>i disCOVered [that she SPOKE the TRUTH].</li>
 					<li className="margin-bottom-20 list-none">Tôi đã phát hiện ra [rằng cô ấy đã nói sự thật].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [that she SPOKE the TRUTH] – [FInite CLAUSE as COMplement][ĐỊNH-THỜI ĐIỀU làm BỔ] đang đứng vị trí [COMplement][BỔ] để tiếp nhận hành động từ [PREDicator HEAD][VỊ LÕI] "disCOVered" của [PROnoun as SUBject ][ĐẠI làm CHỦ] "i".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [that she SPOKE the TRUTH] – [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] đang đứng vị trí [COMplement][BỔ] để tiếp nhận hành động từ [PREDicator HEAD][VỊ LÕI] "disCOVered" của [PROnoun as SUBject ][ĐẠI làm CHỦ] "i".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that she SPOKE the TRUTH] – [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] biểu thị một cấu trúc câu con hoàn chỉnh có đầy đủ chủ vị và được dẫn dắt hiển lộ bởi [suBORdinator][HẠ] "that".</li>
 			
@@ -569,7 +569,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>i beLIEVE [you TOOK the corRECT STEPS].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn đã đi đúng hướng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [you TOOK the corRECT STEPS] – [FInite CLAUSE as COMplement][ĐỊNH-THỜI ĐIỀU làm BỔ] đang đứng vị trí [COMplement][BỔ] để làm rõ sự việc chịu tác động trực tiếp từ [PREDicator HEAD][VỊ LÕI] "beLIEVE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [you TOOK the corRECT STEPS] – [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] đang đứng vị trí [COMplement][BỔ] để làm rõ sự việc chịu tác động trực tiếp từ [PREDicator HEAD][VỊ LÕI] "beLIEVE".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [you TOOK the corRECT STEPS] – [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
 			
@@ -623,7 +623,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">[eVALuating HOW we ALlocated the BUDget] – [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] tầng ngoài đóng vai trò đứng ở đầu câu lớn.</li>
 
-					<li className="list-none">Trong đó khối phụ HOW we ALlocated the BUDget - [FInite CLAUSE as COMplement][ĐỊNH-THỜI ĐIỀU làm BỔ] tầng trong chịu tác động trực tiếp từ hành động "eVALuating" đánh giá.</li>
+					<li className="list-none">Trong đó khối phụ HOW we ALlocated the BUDget - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] tầng trong chịu tác động trực tiếp từ hành động "eVALuating" đánh giá.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
@@ -645,7 +645,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">[reVIEWing WHAT the TEAM acCOMplished this QUARter] – [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] tầng ngoài đóng vai trò lớn đứng sau hành động [PRETerite FORM][KHỨ DẠNG] "sugGESted".</li>
 
-					<li className="list-none">Trong đó khối phụ WHAT the TEAM acCOMplished this QUARter - [FInite CLAUSE as COMplement][ĐỊNH-THỜI ĐIỀU làm BỔ] tầng trong nhỏ tiếp nhận tác động từ hành động xem xét.</li>
+					<li className="list-none">Trong đó khối phụ WHAT the TEAM acCOMplished this QUARter - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] tầng trong nhỏ tiếp nhận tác động từ hành động xem xét.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
@@ -667,7 +667,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">[in which they TEST the SAMple] – [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tầng ngoài đứng ngay sau thành phần [NOUN as HEAD][DANH làm LÕI] chính "the LABoratory" để bổ nghĩa và khu biệt không gian.</li>
 
-					<li className="list-none">Trong đó khối phụ which they TEST the SAMple - [FInite CLAUSE as COMplement][ĐỊNH-THỜI ĐIỀU làm BỔ] tầng trong chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "in".</li>
+					<li className="list-none">Trong đó khối phụ which they TEST the SAMple - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] tầng trong chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "in".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
@@ -690,7 +690,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">[through WHAT she disCOVered during reSEARCH] – [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
 
-					<li className="list-none">Trong đó khối phụ WHAT she disCOVered during reSEARCH - [FInite CLAUSE as COMplement][ĐỊNH-THỜI ĐIỀU làm BỔ] tầng trong tiếp nhận mối quan hệ phương tiện từ [prepoSITion][GIỚI] "through".</li>
+					<li className="list-none">Trong đó khối phụ WHAT she disCOVered during reSEARCH - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] tầng trong tiếp nhận mối quan hệ phương tiện từ [prepoSITion][GIỚI] "through".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
@@ -735,7 +735,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [ADverb as ADjunct][TRẠNG làm PHỤ] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [prepoSITion PHRASE][GIỚI CỤM] thể hiện khối thông tin mở rộng bắt đầu bằng [prepoSITion][GIỚI] "due", kéo theo [prepoSITion PHRASE][GIỚI CỤM] "to the deVICE" và một dạng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "overHEATing" được bọc lót -ing đi sau để cụm hóa [VERB LEXEME][ĐỘNG VỊ] "overHEAT".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [prepoSITion PHRASE][GIỚI CỤM] thể hiện khối thông tin mở rộng bắt đầu bằng [prepoSITion][GIỚI] "due", kéo theo [prepoSITion PHRASE][GIỚI CỤM] "to the deVICE" và một dạng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "overHEATing" được bọc lót -ing đi sau để cụm hóa [VERB LEXeme][ĐỘNG VỊ] "overHEAT".</li>
 			
 				</ul>
 
