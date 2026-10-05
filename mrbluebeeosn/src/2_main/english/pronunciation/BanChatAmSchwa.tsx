@@ -190,7 +190,7 @@ export default function BanChatAmSchwa(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3 cách quy đổi âm Schwa thực tế trong tiếng Anh-Mỹ (NAE)</h3>
 
-      <p><strong>IPA</strong>Để giúp bạn dễ dàng làm chủ ngữ điệu cờ hoa, bản chất âm Schwa \ə\ khi áp dụng vào giao tiếp thực tế có thể chia thành các hướng tư duy sau:</p>
+      <p><strong>IPA</strong>Để giúp bạn dễ dàng làm chủ điệu cờ hoa, bản chất âm Schwa \ə\ khi áp dụng vào giao tiếp thực tế có thể chia thành các hướng tư duy sau:</p>
 
       {/* 4.  */}
 

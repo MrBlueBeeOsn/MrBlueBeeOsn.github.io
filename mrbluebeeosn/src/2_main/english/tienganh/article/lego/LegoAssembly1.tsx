@@ -395,7 +395,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Lớp Chức Năng 1: Khối Giao Tiếp [DANH]</h4>
 
-			<p className="text-indent-whole">Khối này chịu trách nhiệm đóng gói các hành động, thực thể thành một cái tên, một đối tượng để làm [HEAD as SUBject][LÕI làm CHỦ] hoặc phần [COMplement HEAD][BỔ LÕI] tiếp nhận tác động trong câu.</p>
+			<p className="text-indent-whole">Khối này chịu trách nhiệm đóng gói các hành động, thực thể thành một cái tên, một đối tượng để làm [NOUN as HEAD][DANH làm LÕI] hoặc phần [COMplement HEAD][BỔ LÕI] tiếp nhận tác động trong câu.</p>
 			
 
 			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-1">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple FORM</strong>][<strong>DANH-TÍNH DẠNG</strong>]:</p>
@@ -509,7 +509,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW the SYStem OPerates] - [FInite CLAUSE as SUBject][ĐỊNH-THỜI ĐIỀU] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] deTERmines.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [HOW the SYStem OPerates] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [ADverb][TRẠNG] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [HOW the SYStem OPerates] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [ADverb][TRẠNG] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [NOUN as HEAD][DANH làm LÕI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
 			
 				</ul>
 
@@ -523,7 +523,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [how TECHnicians seCURE DAta] - [FInite CLAUSE as COMplement][ĐỊNH-THỜI ĐIỀU làm BỔ] tiếp nhận nội dung thông tin trực tiếp, đứng sau [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] CHECK.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [how TECHnicians seCURE DAta] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [ADverb][TRẠNG] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [HEAD as SUBject][LÕI làm CHỦ] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [how TECHnicians seCURE DAta] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [ADverb][TRẠNG] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [NOUN as HEAD][DANH làm LÕI] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
 			
 				</ul>
 
@@ -537,7 +537,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the STRATegy DRIVES GROWTH] - [FInite CLAUSE as COMplement][ĐỊNH-THỜI ĐIỀU làm BỔ] tiếp nhận nội dung thông tin trực tiếp cho hành động beLIEVES.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the STRATegy DRIVES GROWTH] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] có đầy đủ cấu hình [HEAD as SUBject][LÕI làm CHỦ] nội bộ và hành động nhưng đã bị chủ động lược bỏ đi [suBORdinator][HẠ] "that" ở đầu khối nhằm tối giản cấu trúc bề mặt.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the STRATegy DRIVES GROWTH] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] có đầy đủ cấu hình [NOUN as HEAD][DANH làm LÕI] nội bộ và hành động nhưng đã bị chủ động lược bỏ đi [suBORdinator][HẠ] "that" ở đầu khối nhằm tối giản cấu trúc bề mặt.</li>
 			
 				</ul>
 			
@@ -545,7 +545,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Lớp Chức Năng 2: Khối Mô Tả [TÍNH]</h4>
 
-			<p className="text-indent-whole">Khối này dùng để mô tả đặc điểm, tính chất hoặc trạng thái cho một đối tượng hoặc cho [HEAD as SUBject][LÕI làm CHỦ].</p>
+			<p className="text-indent-whole">Khối này dùng để mô tả đặc điểm, tính chất hoặc trạng thái cho một đối tượng hoặc cho [NOUN as HEAD][DANH làm LÕI].</p>
 
 			<p className="margin-top-20 text-indent-whole" id="ADjective-HEAD">[<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADjective</strong>][<strong>ĐỊNH TÍNH</strong>]:</p>
 			
@@ -568,7 +568,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the OPerator is [MONitoring the conTROL PANel].</li>
 					<li className="margin-bottom-20 list-none">Người vận hành thì [đang theo dõi bảng điều khiển].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [MONitoring the conTROL PANel] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng sau bộ nguồn is để làm phần mô tả trực tiếp trạng thái hành động diễn tiến của [HEAD as SUBject][LÕI làm CHỦ] the OPerator.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [MONitoring the conTROL PANel] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng sau bộ nguồn is để làm phần mô tả trực tiếp trạng thái hành động diễn tiến của [NOUN as HEAD][DANH làm LÕI] the OPerator.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [MONitoring the conTROL PANel] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] MONitoring kết hợp với đối tượng chịu tác động the conTROL PANel để tạo nên một hành động đang được kéo dài trực quan.</li>
 			
@@ -581,7 +581,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the deVICE [with the HIGH-resoLUtion LENS] GENerates SHARP VISual DAta.</li>
 					<li className="margin-bottom-20 list-none">Thiết bị [với ống kính độ phân giải cao] tạo ra dữ liệu hình ảnh sắc nét.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with the HIGH-resoLUtion LENS] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng sau [HEAD as SUBject][LÕI làm CHỦ] the deVICE để mô tả đặc điểm cấu tạo nhận dạng của đối tượng này.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with the HIGH-resoLUtion LENS] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng sau [NOUN as HEAD][DANH làm LÕI] the deVICE để mô tả đặc điểm cấu tạo nhận dạng của đối tượng này.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [with the HIGH-resoLUtion LENS] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] with kết hợp cùng một khối chức năng Danh nhằm giới hạn phạm vi mô tả của [prepoSITion][GIỚI].</li>
 			
@@ -597,7 +597,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">Khối tổng thể [with the perSPECtive that FACTS GUIDE deVELopment] đóng vai trò là [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] bổ nghĩa, mô tả đặc điểm thuộc tính cho [HEAD as SUBject][LÕI làm CHỦ] the SPECialist.</li>
+					<li className="list-none">Khối tổng thể [with the perSPECtive that FACTS GUIDE deVELopment] đóng vai trò là [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] bổ nghĩa, mô tả đặc điểm thuộc tính cho [NOUN as HEAD][DANH làm LÕI] the SPECialist.</li>
 
 					<li className="list-none">Khối nhỏ bên trong that FACTS GUIDE deVELopment đóng vai trò là [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] làm nhiệm vụ đồng vị, giải thích nội dung trực tiếp cho [HEAD as NOUN][LÕI làm DANH] perSPECtive.</li>
 					
@@ -619,7 +619,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the FILE which conTAINS the rePORT] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which conTAINS the rePORT - [RELative CLAUSE][QUAN CÂU] chứa [PROnoun as SUBject ][ĐẠI làm CHỦ] which đóng vai trò thế cho khối định danh đứng trước, đồng thời làm nhiệm vụ làm [HEAD as SUBject][LÕI làm CHỦ] nội bộ kết hợp liền mạch với hành động conTAINS. Bổ nghĩa trực tiếp để giới hạn và xác định đặc điểm rõ ràng cho  "the FILE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which conTAINS the rePORT - [RELative CLAUSE][QUAN CÂU] chứa [PROnoun as SUBject ][ĐẠI làm CHỦ] which đóng vai trò thế cho khối định danh đứng trước, đồng thời làm nhiệm vụ làm [NOUN as HEAD][DANH làm LÕI] nội bộ kết hợp liền mạch với hành động conTAINS. Bổ nghĩa trực tiếp để giới hạn và xác định đặc điểm rõ ràng cho  "the FILE".</li>
 			
 				</ul>
 
@@ -633,7 +633,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the POLicy they IMplemented LAST MONTH] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: họ triển khai tháng trước - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] có cấu trúc [S]-[HEAD] đầy đủ nhưng đã bị chủ động lược bỏ [RElative PRONOUN][QUAN ĐẠI] which/that ở đầu khối để tăng tốc độ truyền đạt của dòng thông tin. Làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm thuộc tính cho thực thể [HEAD as SUBject][LÕI làm CHỦ] the POLicy.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: họ triển khai tháng trước - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] có cấu trúc [S]-[HEAD] đầy đủ nhưng đã bị chủ động lược bỏ [RElative PRONOUN][QUAN ĐẠI] which/that ở đầu khối để tăng tốc độ truyền đạt của dòng thông tin. Làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm thuộc tính cho thực thể [NOUN as HEAD][DANH làm LÕI] the POLicy.</li>
 			
 				</ul>
 
@@ -748,7 +748,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had the WARNing TRIGgered SOONer] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò cung cấp cảnh báo nền tảng giả định bối cảnh điều kiện tiên quyết cho hệ quả của câu lớn phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [had the WARNing TRIGgered SOONer] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] giả định đã triệt tiêu hoàn toàn [prepoSITion][GIỚI] điều kiện bằng phương pháp đảo cấu trúc đảo khối [FInite VERB][HẠN ĐỘNG] Had lên đứng trước [HEAD as SUBject][LÕI làm CHỦ] nội bộ the WARNing.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [had the WARNing TRIGgered SOONer] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] giả định đã triệt tiêu hoàn toàn [prepoSITion][GIỚI] điều kiện bằng phương pháp đảo cấu trúc đảo khối [FInite VERB][HẠN ĐỘNG] Had lên đứng trước [NOUN as HEAD][DANH làm LÕI] nội bộ the WARNing.</li>
 			
 				</ul>
 
@@ -845,7 +845,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h5 className="margin-y-30">Luật Nghi vấn: Nhấc dòng [Thời] gian lên đầu câu lớn</h5>
 
-			<p className="text-indent-whole">Khi chuyển sang câu hỏi, bạn chỉ cần tách khối và nhấc riêng thành phần trợ nguồn [Thời] gian/khối [Thái] từ đứng trước (như [FInite VERB][HẠN ĐỘNG] / [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] / [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG]) đặt ra trước [HEAD as SUBject][LÕI làm CHỦ], để lại phần hành động cốt lõi ở phía sau.</p>
+			<p className="text-indent-whole">Khi chuyển sang câu hỏi, bạn chỉ cần tách khối và nhấc riêng thành phần trợ nguồn [Thời] gian/khối [Thái] từ đứng trước (như [FInite VERB][HẠN ĐỘNG] / [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] / [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG]) đặt ra trước [NOUN as HEAD][DANH làm LÕI], để lại phần hành động cốt lõi ở phía sau.</p>
 			
 				<ul className="list-square">
 			

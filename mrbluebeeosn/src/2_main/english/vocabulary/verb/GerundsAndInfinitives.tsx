@@ -328,7 +328,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Vai trò Chủ (Subject) và Tân (Object)</h4>
 			
-			<p className="text-indent-whole">Làm chủ ngữ (Subject): Gerund (V-ing) được dùng phổ biến và tự nhiên hơn rất nhiều so với To-V khi đứng đầu câu làm chủ ngữ.</p>
+			<p className="text-indent-whole">Làm chủ (Subject): Gerund (V-ing) được dùng phổ biến và tự nhiên hơn rất nhiều so với To-V khi đứng đầu câu làm chủ.</p>
 
 			<p className="margin-top-20"></p>
 			
