@@ -652,6 +652,265 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         <div className="sub-box">
 
+          {/* =============================
+            [SUBject][PREDicator][COMplement][ADjunct]
+          ============================= */}
+      
+          <p id="SUBject-PREDicator-COMplement-ADjunct"><mark className="highlight-secondary-padding-2-4">[SUBject][PREDicator][COMplement][ADjunct]</mark></p>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/tiered-structure-1">[EMBEDDED STRUCture]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/tiered-structure-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/nine-box-1">[FUNCtional THINKing]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/nine-box-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/s-v-1">[FUNCtions][LEVels]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/s-v-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link> */}
+                {/* <Link to="/tieng-anh/s-v-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/s-v-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/s-v-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/s-v-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/s-v-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/s-v-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/s-v-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/super-words-1">[SUper VERB]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/super-words-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link> */}
+                {/* <Link to="/tieng-anh/super-words-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-words-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-words-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-words-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-words-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-words-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-words-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/three-dc-1">[FORMS][FUNCtions]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/three-dc-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link> */}
+                {/* <Link to="/tieng-anh/three-dc-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/three-dc-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/three-dc-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/three-dc-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/three-dc-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/three-dc-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/three-dc-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/adj-placement-1">[ADjective FUNCtion]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/adj-placement-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link> */}
+                {/* <Link to="/tieng-anh/adj-placement-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/lego-assembly-1">[LEGo asSEMbly]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/lego-assembly-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link> */}
+                {/* <Link to="/tieng-anh/lego-assembly-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/lego-assembly-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/lego-assembly-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/lego-assembly-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/lego-assembly-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/lego-assembly-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/lego-assembly-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+          </ul>
+
+        </div>
+
+        <div className="sub-box">
+
           <ul className="list-border1">
 
             <li><Link to="/tieng-anh/giao-vien-tieng-anh-la-gi?">Giáo viên tiếng Anh</Link></li>

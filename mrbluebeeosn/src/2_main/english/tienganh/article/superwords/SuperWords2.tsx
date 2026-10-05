@@ -297,7 +297,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] shocked me.</li>
 					<li className="margin-bottom-20 list-none">[Những gì cô ấy nói] làm tôi sốc.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [What she said] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có she và said.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [What she said] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có she và said.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [What she said] - [NOUN CLAUSE][DANH ĐIỀU] đứng đầu câu, chỉ một nội dung.</li>
 			
@@ -311,7 +311,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>I believe [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [rằng bạn đúng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that you are right] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có you và are.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that you are right] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có you và are.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [that you are right] - [NOUN CLAUSE][DANH ĐIỀU] làm đối tượng cho believe.</li>
 			
@@ -328,7 +328,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The man [______] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [đã giúp tôi] là bạn tôi.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [who helped me] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có who và helped.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [who helped me] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có who và helped.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [who helped me] - [ADjective CLAUSE][TÍNH ĐIỀU] bổ sung cho the man.</li>
 			
@@ -342,7 +342,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The book [______] is great.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [mà tôi mượn] rất hay.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that I borrowed] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có I và borrowed.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that I borrowed] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có I và borrowed.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [that I borrowed] - [ADjective CLAUSE][TÍNH ĐIỀU] bổ sung cho the book.</li>
 			
@@ -359,7 +359,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______], we stayed home.</li>
 					<li className="margin-bottom-20 list-none">[Vì trời mưa], chúng tôi ở nhà.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Because it rained] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có it và rained.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Because it rained] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có it và rained.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Because it rained] - [ADverb as ADjunct][TRẠNG làm PHỤ] chỉ nguyên nhân cho stayed home</li>
 			
@@ -373,7 +373,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______], call me.</li>
 					<li className="margin-bottom-20 list-none">[Khi bạn đến], hãy gọi tôi.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [When you arrive] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có you và arrive.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [When you arrive] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có you và arrive.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [When you arrive] - [ADverb as ADjunct][TRẠNG làm PHỤ] chỉ thời gian cho call me.</li>
 			
@@ -401,7 +401,7 @@ export default function SuperWords2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Toàn bộ [knows what you did'] - [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] tầng ngoài.</li>
-					<li>what you did bên trong - [suBORdinate CLAUSE][PHỤ ĐIỀU] có you và did.</li>
+					<li>what you did bên trong - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có you và did.</li>
 			
 				</ul>
 			
@@ -463,7 +463,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Việc bạn bơi thường xuyên] thì tốt cho sức khỏe.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [That you swim regularly] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có you và swim.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [That you swim regularly] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có you và swim.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [That you swim regularly] - [NOUN CLAUSE][DANH ĐIỀU] đứng đầu câu, chỉ một sự việc.</li>
 			
@@ -510,7 +510,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The movie is [______].</li>
 					<li className="margin-bottom-20 list-none">Bộ phim là [điều mọi người gọi là thú vị].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [what everyone calls exciting] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có everyone và calls.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [what everyone calls exciting] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có everyone và calls.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [what everyone calls exciting] - [ADjective CLAUSE][TÍNH ĐIỀU] miêu tả the movie.</li>
 			
@@ -557,7 +557,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He drives [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [như thể đang thi].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [as if he were taking a test] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có he và were taking.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [as if he were taking a test] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có he và were taking.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [as if he were taking a test] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ sung cách thức cho drives.</li>
 			

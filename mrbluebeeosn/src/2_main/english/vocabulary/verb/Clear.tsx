@@ -275,7 +275,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a CLEAR explaNAtion] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: CLEAR - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "CLEAR" khi giữ nguyên trạng thái nhưng chuyển đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm dưới dạng từ đơn lẻ. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng  "explaNAtion" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEAR] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [VERB LEXEME][ĐỘNG VỊ] nguyên bản "CLEAR" khi giữ nguyên trạng thái nhưng chuyển đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm dưới dạng từ đơn lẻ. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng  "explaNAtion" để hiển thị đặc điểm của đối tượng đó.</li>
       
         </ul>
       
@@ -286,12 +286,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>she exPLAINED the PROCess [CLEARly].</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã giải thích quy trình [một cách rõ ràng].</li>
+          <li>she exPLAINED [the PROCess CLEARly].</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã giải thích [quy trình một cách rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARly] - [ADverb as ADjunct 1][TRẠNG làm PHỤ 1] thực thi vai trò làm thành phần bổ nghĩa đứng sau [PREDicator HEAD][VỊ LÕI] "exPLAINED" để xác định bối cảnh cách thức.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the PROCess CLEARly]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: CLEARly - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "CLEAR" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARly] - [ADverb as ADjunct 1][TRẠNG làm PHỤ 1] thực thi vai trò làm thành phần bổ nghĩa đứng sau [PREDicator HEAD][VỊ LÕI] "exPLAINED" để xác định bối cảnh cách thức. Bản chất là [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "CLEAR" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
       
         </ul>
 
@@ -310,9 +310,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>[Clearing the browser history] improves security.</li>
           <li className="margin-bottom-20 list-none">[Việc xóa lịch sử trình duyệt] cải thiện tính bảo mật.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the browser history] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] để thiết lập nền tảng thông tin đứng đầu toàn câu để làm [SUBject][CHỦ] trước hạt nhân [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "improves".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the browser history] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] để thiết lập nền tảng thông tin đứng đầu toàn câu để làm [SUBject][CHỦ] trước hạt nhân [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "improves". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động xóa bỏ, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARing the browser history] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động xóa bỏ, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the browser history] - </li>
       
         </ul>
 
@@ -326,9 +326,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>the IT TEAM FINished [CLEARing OLD DAtabase FILES].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ CNTT đã hoàn thành [việc dọn dẹp các tệp tin cơ sở dữ liệu cũ].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing OLD DAtabase FILES] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM] tích hợp chuỗi dữ liệu đầu việc để làm [COMplement][BỔ] thành phần chịu tác động đứng ngay sau cặp phối hợp [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] "the IT TEAM" và [PRETerite FORM][KHỨ DẠNG] "FINished".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing OLD DAtabase FILES] - [non-FInite CLAUSE as CATenative COMplement][CHƯA-CHIA ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM] tích hợp chuỗi dữ liệu đầu việc để làm [COMplement][BỔ] thành phần chịu tác động đứng ngay sau cặp phối hợp [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] "the IT TEAM" và [PRETerite FORM][KHỨ DẠNG] "FINished". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động dọn dẹp, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARing OLD DAtabase FILES] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động dọn dẹp, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [OLD DAtabase FILES] - </li>
       
         </ul>
 
@@ -349,7 +349,7 @@ export default function CLEAR(): React.JSX.Element {
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CLEAR the MEETing ROOM] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "MEMber" để quét và hiển thị đặc điểm hành động sắp sửa xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to CLEAR ..." để biểu thị tính chủ động hướng tới tương lai.</li>
       
         </ul>
-      [infiniTIval MARKer][NGUYÊN DẤU]
+
       
       <p className="margin-top-20 text-indent-whole">[<strong>TÍNH CỤM</strong>] <strong>dạng sắp xảy ra bị động -to be</strong> <strong>v3</strong>/-<strong>ed</strong>:</p>
 
@@ -357,12 +357,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the LAND [to be CLEARED NEXT MONTH] beLONGS to the CITy.</li>
+          <li>[the LAND to be CLEARED NEXT MONTH] beLONGS to the CITy.</li>
           <li className="margin-bottom-20 list-none">Khu đất [sắp sửa được giải phóng mặt bằng vào tháng tới] thuộc về thành phố.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to be CLEARED NEXT MONTH] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "LAND" để mô tả đặc điểm trạng thái sắp sửa được tác động của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the LAND to be CLEARED NEXT MONTH]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to be CLEARED NEXT MONTH] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] hiển thị dưới dạng mô hình "to be + V3/-ed", chứa [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] biến đổi hình thái bị động, kết hợp phần mở rộng phương thức để biểu thị trạng thái bị động hướng tới tương lai.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to be CLEARED NEXT MONTH] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "LAND" để mô tả đặc điểm trạng thái sắp sửa được tác động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] hiển thị dưới dạng mô hình "to be + V3/-ed", chứa [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] biến đổi hình thái bị động, kết hợp phần mở rộng phương thức để biểu thị trạng thái bị động hướng tới tương lai.</li>
       
         </ul>
       
@@ -373,12 +373,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the WORKer [CLEARing the ROAD BLOCK] WORE a VEST.</li>
+          <li>[the WORKer CLEARing the ROAD BLOCK] WORE a VEST.</li>
           <li className="margin-bottom-20 list-none">Người công nhân [đang dọn dẹp chướng ngại vật trên đường] đã mặc một chiếc áo khoác bảo hộ.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the ROAD BLOCK] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "WORKer" để quét và hiển thị đặc điểm hành động chủ động của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the WORKer CLEARing the ROAD BLOCK]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARing the ROAD BLOCK] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] thêm đuôi "-ing" để biểu thị tính chủ động đang xảy ra.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARing the ROAD BLOCK] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "WORKer" để quét và hiển thị đặc điểm hành động chủ động của đối tượng đó. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] thêm đuôi "-ing" để biểu thị tính chủ động đang xảy ra.</li>
       
         </ul>
       
@@ -389,12 +389,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the FILES [CLEARED by the adMINistrator] are PERmanently deLETEd.</li>
-          <li className="margin-bottom-20 list-none">Các tệp tin [đã được xóa bởi quản trị viên] thì bị xóa vĩnh viễn.</li>
+          <li>[the FILES CLEARED by the adMINistrator] are PERmanently deLETEd.</li>
+          <li className="margin-bottom-20 list-none">[Các tệp tin đã được xóa bởi quản trị viên] thì bị xóa vĩnh viễn.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARED by the adMINistrator] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "FILES" để mô tả đặc điểm trạng thái bị động hoàn thành của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the FILES CLEARED by the adMINistrator]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARED by the adMINistrator] - [PAST PARTiciple CLAUSE][KHỨ TÍNH ĐIỀU] hiển thị dưới dạng một vùng mã chứa [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] ở dạng bị động thuộc trục thời quá khứ và phần mở rộng phương thức.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARED by the adMINistrator] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "FILES" để mô tả đặc điểm trạng thái bị động hoàn thành của đối tượng đó. Bản chất là [PAST PARTiciple CLAUSE][KHỨ TÍNH ĐIỀU] hiển thị dưới dạng một vùng mã chứa [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] ở dạng bị động thuộc trục thời quá khứ và phần mở rộng phương thức.</li>
       
         </ul>
       
@@ -405,12 +405,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we FOUND an appliCAtion [CApable of CLEARing BACKground JUNK].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi đã tìm thấy một ứng dụng [có khả năng dọn dẹp rác chạy ngầm].</li>
+          <li>we FOUND [an appliCAtion CApable of CLEARing BACKground JUNK].</li>
+          <li className="margin-bottom-20 list-none">Chúng tôi đã tìm thấy [một ứng dụng có khả năng dọn dẹp rác chạy ngầm].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CApable of CLEARing BACKground JUNK] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đặt ngay sau đối tượng  "appliCAtion" để quét và xác định năng lực, đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [an appliCAtion CApable of CLEARing BACKground JUNK]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CApable of CLEARing BACKground JUNK] - CỤM thành phần bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng GIỚI CỤM phía sau, chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng -ing sau GIỚI.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CApable of CLEARing BACKground JUNK] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đặt ngay sau đối tượng  "appliCAtion" để quét và xác định năng lực, đặc điểm của đối tượng đó. Bản chất là [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng -ing.</li>
       
         </ul>
       
@@ -423,12 +423,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>they RAN the SOFTware [to CLEAR CACHE FILES].</li>
-          <li className="margin-bottom-20 list-none">Họ đã chạy phần mềm [để xóa các tệp bộ nhớ đệm].</li>
+          <li>they RAN [the SOFTware to CLEAR CACHE FILES].</li>
+          <li className="margin-bottom-20 list-none">Họ đã chạy [phần mềm để xóa các tệp bộ nhớ đệm].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to CLEAR CACHE FILES] - [ADjunct 2][PHỤ 3] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho [PREDicator HEAD][VỊ LÕI] "RAN".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the SOFTware to CLEAR CACHE FILES]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CLEAR CACHE FILES] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] định hình dưới dạng một vùng mã hành động đứng cuối chuỗi thông tin, bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] nguyên bản có "to".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CLEAR CACHE FILES] - [ADjunct 2][PHỤ 3] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho [PREDicator HEAD][VỊ LÕI] "RAN". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] định hình dưới dạng một vùng mã hành động đứng cuối chuỗi thông tin, bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] nguyên bản có "to".</li>
       
         </ul>
 
@@ -455,12 +455,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the MANager SPENT HOURS [CLEARing OLD User PROfiles].</li>
+          <li>the MANager SPENT [HOURS CLEARing OLD User PROfiles].</li>
           <li className="margin-bottom-20 list-none">Người quản lý đã dành hàng giờ đồng hồ [cho việc xóa các hồ sơ người dùng cũ].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing OLD User PROfiles] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò làm khối bối cảnh cách thức/nội dung đi kèm để bổ nghĩa trực tiếp cho khuôn mẫu [PREDicator HEAD][VỊ LÕI] "SPENT" phía trước.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HOURS CLEARing OLD User PROfiles]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARing OLD User PROfiles] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng đuôi "-ing" đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARing OLD User PROfiles] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò làm khối bối cảnh cách thức/nội dung đi kèm để bổ nghĩa trực tiếp cho khuôn mẫu [PREDicator HEAD][VỊ LÕI] "SPENT" phía trước. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng đuôi "-ing" đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
       
         </ul>
 
@@ -474,12 +474,11 @@ export default function CLEAR(): React.JSX.Element {
           <li>[CLEARing the WORKspace EARly], he LEFT the OFFice with PEACE of MIND.</li>
           <li className="margin-bottom-20 list-none">[Do dọn dẹp không gian làm việc sớm], anh ấy đã rời văn phòng với tâm trí thảnh thơi.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the WORKspace EARly] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the WORKspace EARly] - [ADverb as ADjunct][TRẠNG làm PHỤ] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng "-ing" do được rút gọn từ một hệ [LIÊN ĐIỀU] Trạng phụ thuộc có cùng thành phần lõi [PROnoun as SUBject ][ĐẠI làm CHỦ].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARing the WORKspace EARly] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng "-ing" do được rút gọn từ một hệ [LIÊN ĐIỀU] Trạng phụ thuộc có cùng thành phần lõi [PROnoun as SUBject ][ĐẠI làm CHỦ].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the WORKspace EARly] - </li>
       
         </ul>
-
 
 
       <h4 className="margin-y-40">3. Phân hệ [prepoSITion PHRASE][GIỚI CỤM]</h4>
@@ -495,12 +494,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the reQUIrement [for a CLEAR STRATegy] is URgent.</li>
+          <li>[the reQUIrement for a CLEAR STRATegy] is URgent.</li>
           <li className="margin-bottom-20 list-none">Yêu cầu [cho một chiến lược rõ ràng] thì khẩn cấp.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for a CLEAR STRATegy] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "reQUIrement" để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the reQUIrement for a CLEAR STRATegy]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [for a CLEAR STRATegy] - [prepoSITion PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [for a CLEAR STRATegy] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "reQUIrement" để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó. Bản chất là [prepoSITion PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
       
         </ul>
       
@@ -513,12 +512,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>they MADE the deCISion [<strong>af</strong>ter a CLEAR explaNAtion].</li>
-          <li className="margin-bottom-20 list-none">Họ đã đưa ra quyết định [sau một lời giải thích rõ ràng].</li>
+          <li>they MADE [the deCISion <strong>af</strong>ter a CLEAR explaNAtion].</li>
+          <li className="margin-bottom-20 list-none">Họ đã đưa ra [quyết định sau một lời giải thích rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [<strong>af</strong>ter a CLEAR explaNAtion] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm một khối bối cảnh thời gian đứng sau để xác định cơ sở cho [PREDicator HEAD][VỊ LÕI] "MADE".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deCISion <strong>af</strong>ter a CLEAR explaNAtion]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [<strong>af</strong>ter a CLEAR explaNAtion] - [prepoSITion PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã xác lập thời điểm, bắt đầu bằng [prepoSITion][GIỚI] "<strong>af</strong>ter".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [<strong>af</strong>ter a CLEAR explaNAtion] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò làm một khối bối cảnh thời gian đứng sau để xác định cơ sở cho [PREDicator HEAD][VỊ LÕI] "MADE". Bản chất là [prepoSITion PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã xác lập thời điểm, bắt đầu bằng [prepoSITion][GIỚI] "<strong>af</strong>ter".</li>
       
         </ul>
 
@@ -532,9 +531,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>[with a CLEAR GOAL], she QUICKly FINished the rePORT.</li>
           <li className="margin-bottom-20 list-none">[Với một mục tiêu rõ ràng], cô ấy đã hoàn thành bản báo cáo một cách nhanh chóng.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with a CLEAR GOAL] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ thiết lập một khối bối cảnh phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with a CLEAR GOAL] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ thiết lập một khối bối cảnh phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau. Bản chất là [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "with" kéo theo vùng cụm danh chủ/DANH CỤM phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [with a CLEAR GOAL] - [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "with" kéo theo vùng cụm danh chủ/DANH CỤM phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a CLEAR GOAL] - </li>
       
         </ul>
 
@@ -563,9 +562,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>[how you CLEAR these SYStem LOGS] is confidential.</li>
           <li className="margin-bottom-20 list-none"> [Cách bạn xóa các nhật ký hệ thống này] là bảo mật.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [how you CLEAR these SYStem LOGS] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU] quản lý khối thông tin quy trình, điều khiển chính cho hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [how you CLEAR these SYStem LOGS] - [FInite CLAUSE as SUBject][BỊ-CHIA ĐIỀU] quản lý khối thông tin quy trình, điều khiển chính cho hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is". Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần liên kết trực quan ở đầu, có [PROnoun as SUBject ][ĐẠI làm CHỦ] "you" và [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "CLEAR" thiết lập phối hợp hành động.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [how you CLEAR these SYStem LOGS] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần liên kết trực quan ở đầu, có [PROnoun as SUBject ][ĐẠI làm CHỦ] "you" và [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "CLEAR" thiết lập phối hợp hành động.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [you CLEAR these SYStem LOGS] - </li>
       
         </ul>
       
@@ -579,9 +578,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>[the engiNEER who CLEARED the ERror CODES] FIXED the SERver.</li>
           <li className="margin-bottom-20 list-none">[Người kỹ sư người mà đã xóa các mã lỗi] đã sửa chữa máy chủ.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the engiNEER who CLEARED the ERror CODES] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the engiNEER who CLEARED the ERror CODES] - [NOUN PHRASE as SUBject][DANH CỤM] của hành động [PRETerite FORM][KHỨ DẠNG] "FIXED", đóng vai trò chủ thể cốt lõi trong câu.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: who CLEARED the ERror CODES - [RELative CLAUSE][QUAN CÂU] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân [PRETerite FORM][KHỨ DẠNG] "CLEARED" xử lý bối cảnh thuộc trục thời quá khứ. Hoạt động như một MODule lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the engiNEER".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [who CLEARED the ERror CODES] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "engiNEER". Bản chất là [RELative CLAUSE][QUAN CÂU] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân [PRETerite FORM][KHỨ DẠNG] "CLEARED" xử lý bối cảnh thuộc trục thời quá khứ. Hoạt động như một MODule lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng [HEAD as SUBject][LÕI làm CHỦ] "engiNEER".</li>
       
         </ul>
       
@@ -595,9 +594,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>the TEAM CELebrated [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã ăn mừng [vì người trưởng nhóm đã thông qua ngân sách dự án].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần diện thông tin chính "the TEAM CELebrated" đứng trước.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần diện thông tin chính "the TEAM CELebrated" đứng trước. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "CELebrated".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [suBORdinate CLAUSE][PHỤ ĐIỀU] kích hoạt ngay sau [prepoSITion][GIỚI] nguyên nhân "be<strong>cause</strong>", chứa [HEAD as SUBject][LÕI làm CHỦ] "the LEADer" và [PRETerite FORM][KHỨ DẠNG] "CLEARED" mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the LEADer CLEARED the PROject BUDget] - Kích hoạt ngay sau [prepoSITion][GIỚI] nguyên nhân "be<strong>cause</strong>", chứa [HEAD as SUBject][LÕI làm CHỦ] "LEADer" và [PRETerite FORM][KHỨ DẠNG] "CLEARED" mang dấu mốc trục thời quá khứ.</li>
       
         </ul>
 
@@ -617,9 +616,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>i beLIEVE [you CLEARED the STORage SPACE].</li>
           <li className="margin-bottom-20 list-none">Tôi tin [bạn đã dọn sạch không gian lưu trữ].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [you CLEARED the STORage SPACE] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] nhận toàn bộ năng lượng niềm tin từ [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "beLIEVE".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [you CLEARED the STORage SPACE] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] nhận toàn bộ năng lượng niềm tin từ [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "beLIEVE". Bản chất là [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] đã ẩn [SuBORdinator][HẠ] định hướng "that".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [you CLEARED the STORage SPACE] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] đã ẩn [SuBORdinator][HẠ] định hướng "that", chỉ còn hiển thị trọn vẹn khối [PROnoun as SUBject ][ĐẠI làm CHỦ] "you" và [PRETerite FORM][KHỨ DẠNG] "CLEARED".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [you CLEARED the STORage SPACE] - Chỉ còn hiển thị trọn vẹn khối [PROnoun as SUBject ][ĐẠI làm CHỦ] "you" và [PRETerite FORM][KHỨ DẠNG] "CLEARED". </li>
       
         </ul>
       
@@ -633,9 +632,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>[the DESK the emPLOYee CLEARED] LOOKED VERy NEAT.</li>
           <li className="margin-bottom-20 list-none">[Chiếc bàn làm việc mà người nhân viên đã dọn dẹp] trông rất gọn gàng.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the DESK the emPLOYee CLEARED] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the DESK the emPLOYee CLEARED] - </li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: the emPLOYee CLEARED - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [HEAD as SUBject][LÕI làm CHỦ] "the emPLOYee" và [PRETerite FORM][KHỨ DẠNG] "CLEARED". Đóng vai trò như bộ quét đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the DESK" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the emPLOYee CLEARED] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ]. Bản chất là [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [HEAD as SUBject][LÕI làm CHỦ] "emPLOYee" và [PRETerite FORM][KHỨ DẠNG] "CLEARED". Đóng vai trò như bộ quét đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "DESK" để làm rõ đặc điểm cho đối tượng này.</li>
       
         </ul>
       
@@ -809,7 +808,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [the perFORmance be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPROVED".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPROVED", hiển thị dưới dạng khối mã chứa đầy đủ [HEAD as SUBject][LÕI làm CHỦ] "the system" và hạt nhân [PRETerite FORM][KHỨ DẠNG] "CLEARED" đi sau [prepoSITion][GIỚI] "be<strong>cause</strong>".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPROVED", hiển thị dưới dạng khối mã chứa đầy đủ [HEAD as SUBject][LÕI làm CHỦ] "system" và hạt nhân [PRETerite FORM][KHỨ DẠNG] "CLEARED" đi sau [prepoSITion][GIỚI] "be<strong>cause</strong>".</li>
       
         </ul>
 

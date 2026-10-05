@@ -605,7 +605,7 @@ export default function creATE(): React.JSX.Element {
           <li>the diRECtor exPLAINED [how the TEAM creATES efFECtive adVERtisements].</li>
           <li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ tạo ra các quảng cáo hiệu quả].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [how the TEAM creATES efFECtive adVERtisements] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chứa dữ liệu mục tiêu tiếp nhận cho hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED". Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, có [HEAD as SUBject][LÕI làm CHỦ] "the TEAM" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [how the TEAM creATES efFECtive adVERtisements] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chứa dữ liệu mục tiêu tiếp nhận cho hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED". Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, có [HEAD as SUBject][LÕI làm CHỦ] "TEAM" và cụm hành động phối hợp phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the TEAM creATES efFECtive adVERtisements] - </li>
       
@@ -637,7 +637,7 @@ export default function creATE(): React.JSX.Element {
           <li>the VENture sucCEEded [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion].</li>
           <li className="margin-bottom-20 list-none">Dự án đã thành công [vì nhà sáng lập đã tạo ra một tầm nhìn rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] thiết lập MODule bối cảnh, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "sucCEEded" và toàn bộ CLAUSE chính trước đó. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] kích hoạt ngay sau thành phần [prepoSITion][GIỚI] nguyên nhân "be<strong>cause</strong>", chứa [HEAD as SUBject][LÕI làm CHỦ] "the FOUNder" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] thiết lập MODule bối cảnh, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "sucCEEded" và toàn bộ CLAUSE chính trước đó. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] kích hoạt ngay sau thành phần [prepoSITion][GIỚI] nguyên nhân "be<strong>cause</strong>", chứa [HEAD as SUBject][LÕI làm CHỦ] "FOUNder" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the FOUNder creAted a CLEAR VIsion] - </li>
       
@@ -656,7 +656,7 @@ export default function creATE(): React.JSX.Element {
           <li>they beLIEVE [the Agency creAted a reLIable SYStem].</li>
           <li className="margin-bottom-20 list-none">Họ tin rằng [cơ quan đã tạo ra một hệ thống đáng tin cậy].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the Agency creAted a reLIable SYStem] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tiếp nhận trực tiếp nội dung cho hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "beLIEVE". Bản chất là [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] đã ẩn thành phần [SuBORdinator][HẠ] định hướng "that", chỉ còn hiển thị trọn vẹn khối [HEAD as SUBject][LÕI làm CHỦ] "the Agency" và cụm hành động phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the Agency creAted a reLIable SYStem] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] tiếp nhận trực tiếp nội dung cho hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "beLIEVE". Bản chất là [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] đã ẩn thành phần [SuBORdinator][HẠ] định hướng "that", chỉ còn hiển thị trọn vẹn khối [HEAD as SUBject][LÕI làm CHỦ] "Agency" và cụm hành động phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the Agency creAted a reLIable SYStem] - </li>
       
@@ -674,7 +674,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deSIGN she creAted for the CLIent] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [she creAted for the CLIent] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn thành phần [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] vật thể đứng trước, giữ lại khối [PROnoun as SUBject ][ĐẠI làm CHỦ] "she" và cụm [PAST VERB PHRASE][ĐÃ ĐỘNG CỤM] "creAted for the CLIent". Đóng vai trò như bộ quét đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [she creAted for the CLIent] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn thành phần [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] vật thể đứng trước, giữ lại khối [PROnoun as SUBject ][ĐẠI làm CHỦ] "she" và cụm [PAST VERB PHRASE][ĐÃ ĐỘNG CỤM] "creAted for the CLIent". Đóng vai trò như bộ quét đặt ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
       
         </ul>
       
@@ -688,7 +688,7 @@ export default function creATE(): React.JSX.Element {
           <li>[should the PROgram creATE TECHnical ERrors], aLERT the SYStem adMINistrator.</li>
           <li className="margin-bottom-20 list-none">[Nếu chương trình tạo ra các lỗi kỹ thuật], hãy báo cho quản trị viên hệ thống.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the PROgram creATE TECHnical ERrors] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau. Bản chất là [should the PROgram creATE TECHnical ERrors] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] vận hành ở trạng thái ẩn thành phần [prepoSITion][GIỚI] điều kiện "if" bằng giải pháp đảo [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [HEAD as SUBject][LÕI làm CHỦ] "the PROgram" và [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] "creATE TECHnical ERrors".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the PROgram creATE TECHnical ERrors] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau. Bản chất là [should the PROgram creATE TECHnical ERrors] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] vận hành ở trạng thái ẩn thành phần [prepoSITion][GIỚI] điều kiện "if" bằng giải pháp đảo [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [HEAD as SUBject][LÕI làm CHỦ] "PROgram" và [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] "creATE TECHnical ERrors".</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the PROgram creATE TECHnical ERrors]</li>
       
@@ -755,7 +755,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To underSTAND HOW the SYStem creATES AUtomated rePORTS] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ] của hành động hành động [THIRD-PERson SINGular VERB FORM][NGÔI 3 S ĐỘNG DẠNG] "reQUIres", để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem creATES AUtomated rePORTS] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [HEAD as SUBject][LÕI làm CHỦ] "the system" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem creATES AUtomated rePORTS] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [HEAD as SUBject][LÕI làm CHỦ] "system" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
       
         </ul>
 
@@ -817,7 +817,7 @@ export default function creATE(): React.JSX.Element {
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [regarding HOW the TEAM creATES NEW MARketing CHANnels] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "proPOsals" (với "regarding" đóng vai trò [prepoSITion][GIỚI]) biểu thị dưới dạng một vùng mã lớn.</li>
 
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the TEAM creATES NEW MARketing CHANnels] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [HEAD as SUBject][LÕI làm CHỦ] "the TEAM" và cụm hành động đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the TEAM creATES NEW MARketing CHANnels] - [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] chịu sự điều phối trực tiếp ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [HEAD as SUBject][LÕI làm CHỦ] "TEAM" và cụm hành động đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
       
         </ul>
 
@@ -899,7 +899,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [VALue be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts]</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted" và toàn bộ diễn biến phía trước. Bản chất là [suBORdinate CLAUSE][PHỤ ĐIỀU] hiển thị dưới dạng khối mã chứa đầy đủ [HEAD as SUBject][LÕI làm CHỦ] "the deVElopers" và cụm hành động đi sau thành phần [prepoSITion][GIỚI] "be<strong>cause</strong>".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted" và toàn bộ diễn biến phía trước. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] hiển thị dưới dạng khối mã chứa đầy đủ [HEAD as SUBject][LÕI làm CHỦ] "deVElopers" và cụm hành động đi sau thành phần [prepoSITion][GIỚI] "be<strong>cause</strong>".</li>
       
         </ul>
 

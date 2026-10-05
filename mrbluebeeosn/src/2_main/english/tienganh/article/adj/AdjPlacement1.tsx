@@ -537,7 +537,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to dePLOY AUtomated SYStems which OPtimize WORKflow] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho [HEAD as SUBject][LÕI làm CHỦ] "the deCISion".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to dePLOY AUtomated SYStems which OPtimize WORKflow] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho [HEAD as SUBject][LÕI làm CHỦ] "deCISion".</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which OPtimize WORKflow - [RELative CLAUSE][QUAN ĐIỀU] bổ nghĩa cho [HEAD as NOUN][LÕI làm DANH] "SYStems" nhằm xác định rõ tính năng của hệ thống.</li>
 			
@@ -637,7 +637,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [GENerating HIGH PROfits] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] dẫn dắt bởi [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "GENerating" đi kèm [NOUN PHRASE][DANH CỤM] "HIGH PROfits".</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [GENerating HIGH PROfits] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] mô tả trạng thái chủ động tạo ra giá trị của đối tượng trung tâm [HEAD as SUBject][LÕI làm CHỦ] "the inVESTment".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [GENerating HIGH PROfits] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] mô tả trạng thái chủ động tạo ra giá trị của đối tượng trung tâm [HEAD as SUBject][LÕI làm CHỦ] "inVESTment".</li>
 			
 				</ul>
 
@@ -651,7 +651,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>[the MAN STANding THERE] is my BOSS.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [đang đứng đó] là sếp tôi.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: STANding THERE - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "STANding". Đóng vai trò [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] mô tả trạng thái hành động đang diễn ra của chủ thể [HEAD as SUBject][LÕI làm CHỦ] "the MAN".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: STANding THERE - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "STANding". Đóng vai trò [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] mô tả trạng thái hành động đang diễn ra của chủ thể [HEAD as SUBject][LÕI làm CHỦ] "MAN".</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the MAN STANding THERE] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 			
@@ -665,7 +665,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>[the MAN who is STANding THERE] is my BOSS.</li>
 					<li className="margin-bottom-20 list-none">[Người đàn ông người mà đang đứng đó] là sếp tôi.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: who is STANding THERE - [RELative CLAUSE][QUAN CÂU] "who" kết hợp [PREDicator][VỊ] "is STANding". Định danh chính xác đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the MAN" thông qua hành động cụ thể đang diễn ra.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: who is STANding THERE - [RELative CLAUSE][QUAN CÂU] "who" kết hợp [PREDicator][VỊ] "is STANding". Định danh chính xác đối tượng [HEAD as SUBject][LÕI làm CHỦ] "MAN" thông qua hành động cụ thể đang diễn ra.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the MAN who is STANding THERE] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 			
@@ -681,7 +681,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>[the POLicy which is efFECtive] will be apPLIED.</li>
 					<li className="margin-bottom-20 list-none">[Chính sách cái mà hiệu quả] sẽ được áp dụng.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which is efFECtive - [RELative CLAUSE][QUAN CÂU] mở đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] "which" kết hợp [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" và [MODified ADjective][ĐỊNH TÍNH] "efFECtive". Vạch rõ bản chất định danh cho đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the POLicy".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which is efFECtive - [RELative CLAUSE][QUAN CÂU] mở đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] "which" kết hợp [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" và [MODified ADjective][ĐỊNH TÍNH] "efFECtive". Vạch rõ bản chất định danh cho đối tượng [HEAD as SUBject][LÕI làm CHỦ] "POLicy".</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the POLicy which is efFECtive] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 			

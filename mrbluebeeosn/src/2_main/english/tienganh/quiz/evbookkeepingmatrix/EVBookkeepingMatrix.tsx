@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "[because the TAX LAWS CHANGED REcently] - [suBORdinate CLAUSE][PHỤ ĐIỀU] bắt đầu bằng thành phần liên kết \"because\", có chứa chủ thể \"the TAX LAWS\" và hành động \"CHANGED\" xác định theo thời quá khứ. \n\n Chức năng: [because the TAX LAWS CHANGED REcently] - [ADverb as ADjunct][TRẠNG làm PHỤ] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
+			explanation: "[because the TAX LAWS CHANGED REcently] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] bắt đầu bằng thành phần liên kết \"because\", có chứa chủ thể \"the TAX LAWS\" và hành động \"CHANGED\" xác định theo thời quá khứ. \n\n Chức năng: [because the TAX LAWS CHANGED REcently] - [ADverb as ADjunct][TRẠNG làm PHỤ] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
 		}
 	];
 

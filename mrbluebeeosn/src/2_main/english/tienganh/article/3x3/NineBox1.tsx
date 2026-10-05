@@ -415,7 +415,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the MIcroservice is [HANdling USer TRAFfic efFIciently].</li>
 					<li className="margin-bottom-20 list-none">Dịch vụ nhỏ [đang xử lý lưu lượng truy cập người dùng hiệu quả].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HANdling USer TRAFfic efFIciently] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng sau kết hợp với [FInite VERB][HẠN ĐỘNG] "is" nhằm mô tả trạng thái thuộc tính diễn tiến cho [HEAD as SUBject][LÕI làm CHỦ] "the MIcroservice" dịch vụ nhỏ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HANdling USer TRAFfic efFIciently] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng sau kết hợp với [FInite VERB][HẠN ĐỘNG] "is" nhằm mô tả trạng thái thuộc tính diễn tiến cho [HEAD as SUBject][LÕI làm CHỦ] "MIcroservice" dịch vụ nhỏ.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HANdling USer TRAFfic efFIciently] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] hình thành từ sự phối hợp giữa hạt nhân [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "HANdling" và các tham số bổ nghĩa "USer TRAFfic efFIciently" phía sau.</li>
 			
@@ -479,7 +479,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ALgorithm which comPUTES the enCRYPtion KEY] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which comPUTES the enCRYPtion KEY – [RELative CLAUSE][QUAN ĐIỀU] chứa khối kết nối định danh tường minh "which" kết hợp cùng một cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "comPUTES". Đóng vai trò định danh thuộc tính để bổ nghĩa cho [HEAD as SUBject][LÕI làm CHỦ] "the ALgorithm", chỉ rõ loại thuật toán nào cho khối đứng trước.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which comPUTES the enCRYPtion KEY – [RELative CLAUSE][QUAN ĐIỀU] chứa khối kết nối định danh tường minh "which" kết hợp cùng một cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "comPUTES". Đóng vai trò định danh thuộc tính để bổ nghĩa cho [HEAD as SUBject][LÕI làm CHỦ] "ALgorithm", chỉ rõ loại thuật toán nào cho khối đứng trước.</li>
 			
 				</ul>
 			
@@ -526,7 +526,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the API the VENdor proVIDed YESterday] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: the VENdor proVIDed YESterday – [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] vắng bóng thành phần kết nối nhưng có đầy đủ kết cấu câu con lồng ghép xoay quanh [PRETerite FORM][KHỨ DẠNG] "proVIDed". Đóng vai trò định danh thuộc tính để chỉ rõ loại API nào, bổ nghĩa trực tiếp cho khối [HEAD as SUBject][LÕI làm CHỦ] "the API" phía trước.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: the VENdor proVIDed YESterday – [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] vắng bóng thành phần kết nối nhưng có đầy đủ kết cấu câu con lồng ghép xoay quanh [PRETerite FORM][KHỨ DẠNG] "proVIDed". Đóng vai trò định danh thuộc tính để chỉ rõ loại API nào, bổ nghĩa trực tiếp cho khối [HEAD as SUBject][LÕI làm CHỦ] "API" phía trước.</li>
 			
 				</ul>
 			
@@ -540,7 +540,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the compiLAtion comPLETE] – [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa bối cảnh điều kiện giả định cho hệ thống hành động phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [should the compiLAtion comPLETE] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] vận hành ở trạng thái ẩn thành phần [prepoSITion][GIỚI] điều kiện "if" bằng cách đảo khối [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "Should" lên trước khối [HEAD as SUBject][LÕI làm CHỦ] "the compiLAtion", kéo theo [PLAIN FORM][GIẢN DẠNG] "comPLETE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [should the compiLAtion comPLETE] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] vận hành ở trạng thái ẩn thành phần [prepoSITion][GIỚI] điều kiện "if" bằng cách đảo khối [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "Should" lên trước khối [HEAD as SUBject][LÕI làm CHỦ] "compiLAtion", kéo theo [PLAIN FORM][GIẢN DẠNG] "comPLETE".</li>
 			
 				</ul>
 
@@ -560,7 +560,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>the documenTAtion [for the WEB FRAMEwork] conTAINS ERrors.</li>
 					<li className="margin-bottom-20 list-none">Tài liệu hướng dẫn [cho khung phần mềm web] chứa các lỗi.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the WEB FRAMEwork] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the documenTAtion" nhằm xác định rõ thuộc tính định danh cho tài liệu.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the WEB FRAMEwork] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "documenTAtion" nhằm xác định rõ thuộc tính định danh cho tài liệu.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [for the WEB FRAMEwork] – [prepoSITion PHRASE][GIỚI CỤM] dẫn đầu bằng một [prepoSITion][GIỚI] đơn lẻ kết hợp cùng khối danh mục mục tiêu phía sau.</li>
 			
@@ -840,7 +840,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] – [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa bối cảnh điều kiện [Thời] gian cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SYNCS" đồng bộ hóa.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] - [suBORdinate CLAUSE][PHỤ ĐIỀU] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "when<strong>ev</strong>er" kết hợp cùng cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SENDS".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "when<strong>ev</strong>er" kết hợp cùng cấu trúc câu con xoay quanh [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SENDS".</li>
 			
 				</ul>
 

@@ -403,7 +403,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [PLAYing in the PARK] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] biểu thị khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [HEAD as SUBject][LÕI làm CHỦ] - [PREDicator HEAD][VỊ LÕI], bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng V-ing.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [PLAYing in the PARK] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the CHILDren" những đứa trẻ nhằm mô tả mức độ đặc điểm.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [PLAYing in the PARK] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "CHILDren" những đứa trẻ nhằm mô tả mức độ đặc điểm.</li>
 			
 				</ul>
 			
@@ -432,7 +432,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [under the BLACK CAR] - [prepoSITion PHRASE][GIỚI CỤM] cấu thành khối bắt đầu bằng một [prepoSITion][GIỚI] mốc vị trí.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [under the BLACK CAR] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] neo ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the CAT" con mèo để mô tả đặc điểm vị trí nhận diện riêng biệt cho nó.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [under the BLACK CAR] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] neo ngay sau đối tượng [HEAD as SUBject][LÕI làm CHỦ] "CAT" con mèo để mô tả đặc điểm vị trí nhận diện riêng biệt cho nó.</li>
 			
 				</ul>
 			
@@ -497,7 +497,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> it RAINED HEAVily] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ ĐIỀU] thể hiện khối hành động phức có chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "it" và [PRETerite FORM][KHỨ DẠNG] "RAINED", bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> it RAINED HEAVily] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] thể hiện khối hành động phức có chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "it" và [PRETerite FORM][KHỨ DẠNG] "RAINED", bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>".</li>
 			
 				</ul>
 
@@ -535,7 +535,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the BOOK she LENT me] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: she LENT me - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "she" và [PRETerite FORM][KHỨ DẠNG] "LENT". Đứng ngay sau đối tượng cuốn sách nhằm mô tả đặc điểm riêng biệt cho [HEAD as SUBject][LÕI làm CHỦ] "the BOOK".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: she LENT me - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "she" và [PRETerite FORM][KHỨ DẠNG] "LENT". Đứng ngay sau đối tượng cuốn sách nhằm mô tả đặc điểm riêng biệt cho [HEAD as SUBject][LÕI làm CHỦ] "BOOK".</li>
 			
 				</ul>
 			
@@ -627,7 +627,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCOVering HOW the ENgine WORKS] là một khối [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng hành động thực thi [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng V-ing disCOVering.</li>
 					
-					<li className="list-none">Tầng trong: Khối lồng bên trong HOW the ENgine WORKS là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] vì chứa đầy đủ hệ trục [HEAD as SUBject][LÕI làm CHỦ] "the ENgine" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "WORKS", bắt đầu bằng [ADverb][TRẠNG] "HOW".</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong HOW the ENgine WORKS là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] vì chứa đầy đủ hệ trục [HEAD as SUBject][LÕI làm CHỦ] "ENgine" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "WORKS", bắt đầu bằng [ADverb][TRẠNG] "HOW".</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
@@ -678,7 +678,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">Tầng ngoài: Lớp ngoài [a<strong>bout</strong> HOW she sucCEEDed] đóng vai trò là một [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tổng thể bổ nghĩa cho [HEAD as SUBject][LÕI làm CHỦ] "the ARticle" đứng trước nó.</li>
+					<li className="list-none">Tầng ngoài: Lớp ngoài [a<strong>bout</strong> HOW she sucCEEDed] đóng vai trò là một [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tổng thể bổ nghĩa cho [HEAD as SUBject][LÕI làm CHỦ] "ARticle" đứng trước nó.</li>
 					
 					<li className="list-none">Tầng trong: Lớp trong HOW she sucCEEDed đóng vai trò là một [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] đứng làm điểm tựa [FInite CLAUSE as COMplement][BỊ-CHIA ĐIỀU làm BỔ] dưới sự điều phối của [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 			
@@ -773,7 +773,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [<strong>af</strong>ter the RAIN STOPPED] - [ADverb as ADjunct][TRẠNG làm PHỤ] gắn vào phía sau [PRETerite FORM][KHỨ DẠNG] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời gian cho toàn bộ hành động phía trước.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [<strong>af</strong>ter the RAIN STOPPED] - [suBORdinate CLAUSE][PHỤ ĐIỀU] thể hiện khối hành động phức có chứa hệ trục [HEAD as SUBject][LÕI làm CHỦ] "the RAIN" và [PRETerite FORM][KHỨ DẠNG] "STOPPED", bắt đầu bằng [prepoSITion][GIỚI] "<strong>af</strong>ter ".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [<strong>af</strong>ter the RAIN STOPPED] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] thể hiện khối hành động phức có chứa hệ trục [HEAD as SUBject][LÕI làm CHỦ] "RAIN" và [PRETerite FORM][KHỨ DẠNG] "STOPPED", bắt đầu bằng [prepoSITion][GIỚI] "<strong>af</strong>ter ".</li>
 			
 				</ul>
 			

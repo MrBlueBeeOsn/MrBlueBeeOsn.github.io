@@ -427,7 +427,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>the deVELopers have been [OPtimizing the appliCAtion].</li>
 					<li className="margin-bottom-20 list-none">Các lập trình viên đã và đang [tối ưu hóa ứng dụng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [OPtimizing the appliCAtion] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đang đứng vị trí sau để bổ nghĩa, mô tả trạng thái thực thi đang diễn ra của [HEAD as SUBject][LÕI làm CHỦ] "the deVELopers".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [OPtimizing the appliCAtion] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đang đứng vị trí sau để bổ nghĩa, mô tả trạng thái thực thi đang diễn ra của [HEAD as SUBject][LÕI làm CHỦ] "deVELopers".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [OPtimizing the appliCAtion] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] biểu thị khối hành động mở rộng mở đầu bằng dạng vận động -ing nhằm biểu thị tiến trình của một hành động chưa kết thúc.</li>
 			
@@ -464,7 +464,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>the presenTAtion [a<strong>bout</strong> reNEWable ENergy] atTRACted inVEStors.</li>
 					<li className="margin-bottom-20 list-none">Bài thuyết trình [về năng lượng tái tạo] đã thu hút các nhà đầu tư.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a<strong>bout</strong> reNEWable ENergy] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đang đứng vị trí ngay sau một đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the presenTAtion" để bổ nghĩa, mô tả tính chất và định danh riêng cho bài thuyết trình đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a<strong>bout</strong> reNEWable ENergy] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đang đứng vị trí ngay sau một đối tượng [HEAD as SUBject][LÕI làm CHỦ] "presenTAtion" để bổ nghĩa, mô tả tính chất và định danh riêng cho bài thuyết trình đó.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a<strong>bout</strong> reNEWable ENergy] – [prepoSITion PHRASE][GIỚI CỤM] thể hiện một khối thông tin định vị chủ đề bắt đầu bằng [prepoSITion][GIỚI] "a<strong>bout</strong>".</li>
 			
@@ -534,7 +534,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the AUthor who WROTE this ARticle] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: who WROTE this ARticle – [RELative CLAUSE][QUAN ĐIỀU] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau. Đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho [HEAD as SUBject][LÕI làm CHỦ] "the AUthor" tác giả đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: who WROTE this ARticle – [RELative CLAUSE][QUAN ĐIỀU] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau. Đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho [HEAD as SUBject][LÕI làm CHỦ] "AUthor" tác giả đó.</li>
 			
 				</ul>
 			
@@ -585,7 +585,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the CAR he DROVE YESterday] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: he DROVE YESterday – [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN PHRASE][DANH CỤM] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu. Đang đứng vị trí bám sát ngay sau [HEAD as SUBject][LÕI làm CHỦ] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: he DROVE YESterday – [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN PHRASE][DANH CỤM] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu. Đang đứng vị trí bám sát ngay sau [HEAD as SUBject][LÕI làm CHỦ] "CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
 				</ul>
 			

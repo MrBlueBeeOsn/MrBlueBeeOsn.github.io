@@ -74,7 +74,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Hình thái: [eat an apple] - [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] gồm [ĐỘNG] [eat] và một tân thể [an apple], nhưng không có chủ thể riêng bên trong</li>
 			
 					<li>[<strong>that she sings well</strong>]</li>
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that she sings well] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có cặp chủ thể [she] và hành động [sings] bên trong, nhưng không thể đứng độc lập thành câu hoàn chỉnh</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that she sings well] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có cặp chủ thể [she] và hành động [sings] bên trong, nhưng không thể đứng độc lập thành câu hoàn chỉnh</li>
 			
 				</ul>
 
@@ -128,7 +128,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______] upset me.</li>
 					<li className="margin-bottom-20 list-none">[Việc bạn quên sinh nhật tôi] làm tôi buồn.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [That you forgot my birthday] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có cặp [you] và [forgot] bên trong</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [That you forgot my birthday] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có cặp [you] và [forgot] bên trong</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [That you forgot my birthday] - [NOUN CLAUSE][DANH ĐIỀU] đứng đầu câu, là toàn bộ sự kiện gây ra tác động [upset me]</li>
 			
@@ -144,7 +144,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> khối ngoài: [ heard  ...  ] - [emBEDded NOUN PHRASE][NHÚNG ĐỘNG CỤM] gồm [ĐỘNG] [heard] và một khối bên trong</li>
 			
-					<li className="margin-bottom-20 list-none">Hình thái khối trong:  that she had won  - [suBORdinate CLAUSE][PHỤ ĐIỀU] có cặp [she] và [had won]</li>
+					<li className="margin-bottom-20 list-none">Hình thái khối trong:  that she had won  - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có cặp [she] và [had won]</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> khối trong:  that she had won  - [NOUN CLAUSE][DANH ĐIỀU] là nội dung của hành động nghe</li>
 			
@@ -195,7 +195,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>The laptop [______] still works.</li>
 					<li className="margin-bottom-20 list-none">Chiếc laptop [mà tôi làm rơi hôm qua] vẫn chạy.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which I dropped yesterday] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có cặp [I] và [dropped]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which I dropped yesterday] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có cặp [I] và [dropped]</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [which I dropped yesterday] - [ADjective CLAUSE][TÍNH ĐIỀU] bổ nghĩa cho [DANH] [The laptop], giúp phân biệt nó với các laptop khác</li>
 			
@@ -244,7 +244,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______], you will improve.</li>
 					<li className="margin-bottom-20 list-none">[Nếu bạn học đều đặn], bạn sẽ tiến bộ.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [If you study regularly] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có cặp [you] và [study]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [If you study regularly] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có cặp [you] và [study]</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [If you study regularly] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa cho nhóm từ chính [you will improve], chỉ điều kiện cần để xảy ra kết quả</li>
 			
@@ -295,7 +295,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______] is relaxing.</li>
 					<li className="margin-bottom-20 list-none">[Việc bạn chạy mỗi sáng] thì thư giãn.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [That you run every morning] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có cặp [you] và [run]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [That you run every morning] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có cặp [you] và [run]</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [That you run every morning] - [NOUN CLAUSE][DANH ĐIỀU] cùng chức năng chủ thể</li>
 			
@@ -343,7 +343,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>I like the bread [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi thích ổ bánh mì [mà bà tôi đã làm].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which my grandmother made] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có cặp [my grandmother] và [made]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which my grandmother made] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có cặp [my grandmother] và [made]</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [which my grandmother made] - [ADjective CLAUSE][TÍNH ĐIỀU] bổ nghĩa cho [DANH] [the bread]</li>
 			
@@ -360,7 +360,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She passed the exam [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đỗ kỳ thi [vì cô ấy học chăm chỉ].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [because she studied hard] - [suBORdinate CLAUSE][PHỤ ĐIỀU] có cặp [she] và [studied]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [because she studied hard] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] có cặp [she] và [studied]</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because she studied hard] - [ADverb as ADjunct][TRẠNG làm PHỤ] chỉ lý do, bổ nghĩa cho [Động Cụm] [passed the exam]</li>
 			

@@ -563,7 +563,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a<strong>bout</strong> HOW this TEAM deSIGNED the APP] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho [HEAD as SUBject][LÕI làm CHỦ] "the NEWS" đứng trước nó.</li>
+						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a<strong>bout</strong> HOW this TEAM deSIGNED the APP] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho [HEAD as SUBject][LÕI làm CHỦ] "NEWS" đứng trước nó.</li>
 						
 						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a<strong>bout</strong> HOW this TEAM deSIGNED the APP] - [prepoSITion PHRASE][GIỚI CỤM] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 				
@@ -651,7 +651,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ARchitect who is deSIGNing the BUILDing] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: who is deSIGNing the BUILDing - [RELative CLAUSE][QUAN CÂU] hiện diện dưới dạng khối câu bắt đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] kết nối who, chứa [PREDicator][VỊ] is deSIGNing riêng biệt. Hoạt động như một MODule lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the ARchitect".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: who is deSIGNing the BUILDing - [RELative CLAUSE][QUAN CÂU] hiện diện dưới dạng khối câu bắt đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] kết nối who, chứa [PREDicator][VỊ] is deSIGNing riêng biệt. Hoạt động như một MODule lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng [HEAD as SUBject][LÕI làm CHỦ] "ARchitect".</li>
 			
 				</ul>
 			
@@ -665,7 +665,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> it RAINED HEAVily] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] thiết lập MODule định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ ĐIỀU] kích hoạt ngay sau [prepoSITion][GIỚI] kết nối be<strong>cause</strong>, chứa chủ thể "it" và [PRETerite FORM][KHỨ DẠNG] RAINED mang dấu mốc tích hợp quá khứ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> it RAINED HEAVily] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] kích hoạt ngay sau [prepoSITion][GIỚI] kết nối be<strong>cause</strong>, chứa chủ thể "it" và [PRETerite FORM][KHỨ DẠNG] RAINED mang dấu mốc tích hợp quá khứ.</li>
 			
 				</ul>
 
@@ -699,7 +699,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the PLAN i deSIGNED YESterday] - [non-FInite CLAUSE as SUBject][CHƯA-CHIA ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: i deSIGNED YESterday - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] chứa chủ thể "i" và [PRETerite FORM][KHỨ DẠNG] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [RElative PRONOUN][QUAN ĐẠI] định vị nào dẫn đường. Vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng [HEAD as SUBject][LÕI làm CHỦ] "the PLAN" đứng trước.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: i deSIGNED YESterday - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] chứa chủ thể "i" và [PRETerite FORM][KHỨ DẠNG] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [RElative PRONOUN][QUAN ĐẠI] định vị nào dẫn đường. Vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng [HEAD as SUBject][LÕI làm CHỦ] "PLAN" đứng trước.</li>
 			
 				</ul>
 			
@@ -779,7 +779,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [be<strong>cause</strong> it RAINED HEAVily] - [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn nhưng giữ nguyên giá trị nội dung.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> it RAINED HEAVily] - [suBORdinate CLAUSE][PHỤ ĐIỀU] hiển thị dưới dạng khối mã chứa đầy đủ chủ thể hành động it và hạt nhân [PRETerite FORM][KHỨ DẠNG] RAINED thiết lập cấu hình tích hợp thời quá khứ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> it RAINED HEAVily] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] hiển thị dưới dạng khối mã chứa đầy đủ chủ thể hành động it và hạt nhân [PRETerite FORM][KHỨ DẠNG] RAINED thiết lập cấu hình tích hợp thời quá khứ.</li>
 			
 				</ul>
 

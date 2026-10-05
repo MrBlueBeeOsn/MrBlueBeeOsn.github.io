@@ -733,7 +733,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] bổ nghĩa cho hành động chính của bộ nguồn [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will PAUSE, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [suBORdinate CLAUSE][PHỤ ĐIỀU] chứa [prepoSITion][GIỚI] be<strong>cause</strong> và một bộ khung [S]-[HEAD] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] chứa [prepoSITion][GIỚI] be<strong>cause</strong> và một bộ khung [S]-[HEAD] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
 					
 			
 				</ul>
