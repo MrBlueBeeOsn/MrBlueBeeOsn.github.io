@@ -142,16 +142,16 @@ export default function LegoAssembly2(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Cụm – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</h4>
+			<h4 className="margin-y-40">Cấp độ Cụm – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</h4>
 			
 				<ul className="list-square">
 			
 					<li>The soup tastes [absolutely delicious].</li>
 					<li className="margin-bottom-20 list-none">Món súp có vị [ngon tuyệt].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [absolutely delicious] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] gồm [TRẠNG] absolutely và [TÍNH] delicious</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [absolutely delicious] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] gồm [TRẠNG] absolutely và [TÍNH] delicious</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [absolutely delicious] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] mô tả trạng thái của The soup sau Head tastes</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [absolutely delicious] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] mô tả trạng thái của The soup sau Head tastes</li>
 			
 				</ul>
 
@@ -288,7 +288,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>The girl [______] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Cô gái [đang ngồi trên ghế dài] là bạn tôi.</li>
 			
-					<li className="list-none">[sitting on the bench] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] → chức năng [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</li>
+					<li className="list-none">[sitting on the bench] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] → chức năng [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</li>
 			
 				</ul>
 			

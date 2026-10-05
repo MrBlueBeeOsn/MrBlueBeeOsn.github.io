@@ -210,7 +210,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [exhausted from playing] – [PAST PARTiciple CLAUSE][KHỨ TÍNH ĐIỀU] gồm hành động exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [exhausted from playing] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng sau hành động seems, mô tả trạng thái của thực thể The child.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [exhausted from playing] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng sau hành động seems, mô tả trạng thái của thực thể The child.</li>
 			
 				</ul>
 			
@@ -397,7 +397,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in the front row] – [prepoSITion PHRASE][GIỚI CỤM], một cụm chỉ phạm vi không gian, bắt đầu bằng in.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the front row] – [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] vẫn đứng sau The student, cùng chức năng bổ sung đặc điểm.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the front row] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] vẫn đứng sau The student, cùng chức năng bổ sung đặc điểm.</li>
 			
 				</ul>
 			

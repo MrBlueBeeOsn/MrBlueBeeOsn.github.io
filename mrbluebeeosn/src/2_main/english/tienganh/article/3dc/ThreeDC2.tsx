@@ -183,7 +183,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [wearing a red cap] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] dạng V-ing kèm tân thể [a red cap]</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [wearing a red cap] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ nghĩa cho [DANH] [The boy], xác định cậu bé nào</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [wearing a red cap] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ nghĩa cho [DANH] [The boy], xác định cậu bé nào</li>
 			
 				</ul>
 			
@@ -317,7 +317,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [made by my grandmother] - [PAST PARTiciple CLAUSE][KHỨ TÍNH ĐIỀU] dạng V-ed kèm tác thể</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [made by my grandmother] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ nghĩa cho [DANH] [the bread]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [made by my grandmother] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ nghĩa cho [DANH] [the bread]</li>
 			
 				</ul>
 			

@@ -219,7 +219,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 			
 
-			<h4 className="margin-y-40">5. [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</h4>
+			<h4 className="margin-y-40">5. [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</h4>
 
 			<p className="text-indent-whole"><strong>Ví dụ</strong>: [sleeping peacefully]</p>
 			
@@ -230,7 +230,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [sleeping peacefully] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] gồm hành động chính sleeping và trạng cụm peacefully.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [sleeping peacefully] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] miêu tả trạng thái của the baby.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [sleeping peacefully] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] miêu tả trạng thái của the baby.</li>
 			
 				</ul>
 			
@@ -244,7 +244,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to be tired] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng to-V.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to be tired] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ sung cho she.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to be tired] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ sung cho she.</li>
 			
 				</ul>
 			
@@ -496,9 +496,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The movie is [______].</li>
 					<li className="margin-bottom-20 list-none">Bộ phim thì [rất thú vị].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [really exciting] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] gồm ADverb really và ADjective exciting.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [really exciting] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] gồm ADverb really và ADjective exciting.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [really exciting] - [non-FInite CLAUSE as post-MODifier][CHƯA-CHIA ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] miêu tả the movie.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [really exciting] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] miêu tả the movie.</li>
 			
 				</ul>
 			
