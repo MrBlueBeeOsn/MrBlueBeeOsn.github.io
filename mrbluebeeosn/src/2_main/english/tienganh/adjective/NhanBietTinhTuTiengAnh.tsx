@@ -94,7 +94,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>the LOcal TOURist GUIDE GAVE us <strong>HELPful</strong> adVICE on where to FIND the BEST STREET FOOD.</li>
 					<li className="margin-bottom-20 list-none">Hướng dẫn viên du lịch địa phương đã cho chúng tôi những lời khuyên <strong>hữu ích</strong> về nơi tìm thấy những món ăn đường phố ngon nhất.</li>
 			
-					<li><strong>af</strong>ter years of HARD WORK, her TECH STARtup FInally beCAME a <strong>sucCESSful</strong> GLObal COMpany.</li>
+					<li><strong>af</strong>ter years of HARD WORK, her TECH STARTup FInally beCAME a <strong>sucCESSful</strong> GLObal COMpany.</li>
 					<li className="margin-bottom-20 list-none">Sau nhiều năm làm việc chăm chỉ, công ty khởi nghiệp công nghệ của cô ấy cuối cùng đã trở thành một công ty toàn cầu <strong>thành công</strong>.</li>
 			
 					<li>the CEO deLIVered a <strong>POWerful</strong> SPEECH that inSPIred all the emPLOYees at the MEETing.</li>

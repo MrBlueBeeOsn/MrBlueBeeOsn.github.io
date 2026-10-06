@@ -426,7 +426,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the supPORT TEAM priORitized [reSPONDing to USer FEEDback].</li>
-					<li className="margin-bottom-20 list-none">Đội ngũ hỗ trợ đã ưu tiên [việc phản hồi các phản hồi của người dùng].</li>
+					<li className="margin-bottom-20 list-none">Đội ngũ hỗ trợ đã ưu tiên [việc phản hồi ý kiến phản hồi của người dùng].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing to USer FEEDback] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "priORitized" tiếp nhận trực tiếp mục tiêu. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] hình thành từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 

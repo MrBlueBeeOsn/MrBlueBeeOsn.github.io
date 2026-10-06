@@ -423,12 +423,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the STARtup TEAM priORitized [creAting enGAging User CONtent].</li>
+          <li>the STARTup TEAM priORitized [creAting enGAging User CONtent].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ khởi nghiệp đã ưu tiên [việc tạo ra nội dung thu hút người dùng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting enGAging User CONtent] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM] tiếp nhận trực tiếp mục tiêu của hành động [PRETerite FORM][KHỨ DẠNG] "priORitized". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] hình thành từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting enGAging User CONtent] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "priORitized" tiếp nhận trực tiếp mục tiêu. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] hình thành từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [enGAging User CONtent] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [enGAging User CONtent] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động "creAting". Trong đó "enGAging" là [GERund-PARTiciple as pre-MODifier][DANH-TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "CONtent".</li>
       
         </ul>
 

@@ -414,18 +414,18 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm BỔ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as CATenative COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm CHUỖI BỔ</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole" id="4b">Ví dụ 4b: </p>
       
         <ul className="list-square">
       
           <li>the IT TEAM FINished [CLEARing OLD DAtabase FILES].</li>
-          <li className="margin-bottom-20 list-none">Đội ngũ CNTT đã hoàn thành [việc dọn dẹp các tệp tin cơ sở dữ liệu cũ].</li>
+          <li className="margin-bottom-20 list-none">Đội CNTT đã hoàn tất việc [xóa các tệp cơ sở dữ liệu cũ].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing OLD DAtabase FILES] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM] tích hợp chuỗi dữ liệu đầu việc để làm [COMplement][BỔ] thành phần chịu tác động đứng ngay sau cặp phối hợp [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] "the IT TEAM" và [PRETerite FORM][KHỨ DẠNG] "FINished". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động dọn dẹp, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing OLD DAtabase FILES] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "FINished". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CLEARing", mở rộng thành một vùng mã hành động phức hợp gồm hành động dọn dẹp, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [OLD DAtabase FILES] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [OLD DAtabase FILES] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] tiếp nhận trực tiếp mục tiêu của hành động "CLEARing".</li>
       
         </ul>
 
