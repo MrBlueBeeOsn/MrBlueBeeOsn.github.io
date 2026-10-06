@@ -507,7 +507,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [an appliCAtion CApable of CLEARing BACKground JUNK] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động [PRETerite FORM][KHỨ DẠNG] "FOUND".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CApable of CLEARing BACKground JUNK] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "appliCAtion" để quét và xác định năng lực, đặc điểm của đối tượng đó. Bản chất là [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng -ing.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CApable of CLEARing BACKground JUNK] - [ADjective PHRASE as post-MODifier][TÍNH CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "appliCAtion" để quét và xác định năng lực, đặc điểm của đối tượng đó.</li>
       
         </ul>
       

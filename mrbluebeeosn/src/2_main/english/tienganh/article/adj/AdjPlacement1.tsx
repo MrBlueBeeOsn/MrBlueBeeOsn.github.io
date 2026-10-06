@@ -342,7 +342,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>MODified ADjective PHRASE</strong>][<strong>ĐỊNH TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>ADjective PHRASE as post-MODifier</strong>][<strong>TÍNH CỤM làm HẬU-CHỈNH</strong>]</p>
 			
 				<ul className="list-square">
 			

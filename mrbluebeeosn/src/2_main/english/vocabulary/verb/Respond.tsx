@@ -550,7 +550,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>MODified ADjective PHRASE</strong>][<strong>ĐỊNH TÍNH CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>ADjective PHRASE as post-MODifier</strong>][<strong>TÍNH CỤM làm HẬU-CHỈNH</strong>]:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="5e">Ví dụ 5e:</p>
 			
@@ -561,7 +561,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a SYStem reSPONsive to MARket CHAnges] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "NEED".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONsive to MARket CHAnges] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SYStem" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó. Bản chất là [ADjective PHRASE as post-MODifier][TÍNH CỤM làm HẬU-CHỈNH] của "SYStem".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONsive to MARket CHAnges] - [ADjective PHRASE as post-MODifier][TÍNH CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SYStem" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
 			
 				</ul>
 			

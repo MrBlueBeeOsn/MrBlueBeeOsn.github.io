@@ -549,7 +549,7 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>MODified ADjective PHRASE</strong>][<strong>ĐỊNH TÍNH CỤM</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>ADjective PHRASE as post-MODifier</strong>][<strong>TÍNH CỤM làm HẬU-CHỈNH</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole" id="5e">Ví dụ 5e:</p>
       
@@ -560,7 +560,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a STRATegy creAtive in its exeCUtion] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "NEED".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtive in its exeCUtion] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "STRATegy" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó. Bản chất là [ADjective PHRASE as post-MODifier][TÍNH CỤM làm HẬU-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITion PHRASE][GIỚI CỤM] phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtive in its exeCUtion] - [ADjective PHRASE as post-MODifier][TÍNH CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "STRATegy" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó. Hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITion PHRASE][GIỚI CỤM] phía sau "in its exeCUtion".</li>
       
         </ul>
       
