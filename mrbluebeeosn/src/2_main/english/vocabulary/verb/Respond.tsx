@@ -442,9 +442,9 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[To reSPOND efFECtively in CRIsis situAtions] is the TEAM's MAIN GOAL.</li>
-					<li className="margin-bottom-20 list-none">[Việc phản hồi hiệu quả trong các tình huống khủng hoảng] là mục tiêu chính của đội ngũ.</li>
+					<li className="margin-bottom-20 list-none">[Phản ứng hiệu quả trong các tình huống khẩn cấp] là mục tiêu chính của đội.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To reSPOND efFECtively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động trạng thái [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To reSPOND efFECtively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động trạng thái [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ...". Trong đó "efFECtively" là [ADverb as ADjunct][TRẠNG làm PHỤ] của hành động [PLAIN FORM][GIẢN DẠNG] "reSPOND" và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in CRIsis situAtions] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPOND".</li>
 			

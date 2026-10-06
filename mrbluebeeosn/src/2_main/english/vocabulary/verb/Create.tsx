@@ -442,9 +442,9 @@ export default function creATE(): React.JSX.Element {
           <li>[To creATE susTAINable ENergy SYStems] is the founDAtion's MAIN GOAL.</li>
           <li className="margin-bottom-20 list-none">[Việc tạo ra các hệ thống năng lượng bền vững] là mục tiêu chính của quỹ.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng trước hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [susTAINable ENergy SYStems] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [susTAINable ENergy SYStems] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động "creATE".</li>
       
         </ul>
 
