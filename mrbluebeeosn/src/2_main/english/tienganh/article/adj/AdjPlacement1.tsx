@@ -365,7 +365,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [eVALuating the FUNding reQUESTs] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đặt ngay sau đối tượng [NOUN as HEAD][DANH làm LÕI] "comMITtee" để hiển thị đặc điểm hành động chủ động của đối tượng đó.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [eVALuating the FUNding reQUESTs] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "eVALuating" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [eVALuating the FUNding reQUESTs] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "eVALuating" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
 			
 				</ul>
 
@@ -379,7 +379,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [deSIGNED by exTERnal conSULtants] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đặt ngay sau đối tượng [NOUN as HEAD][DANH làm LÕI] "PROtocol" để mô tả đặc điểm trạng thái bị động hoàn thành.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [deSIGNED by exTERnal conSULtants] - [PAST PARTiciple CLAUSE][KHỨ TÍNH ĐIỀU] phát triển từ [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] "deSIGNED" kết hợp mở rộng ở dạng bị động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [deSIGNED by exTERnal conSULtants] - [PAST PARTiciple CLAUSE][KHỨ TÍNH ĐIỀU] cấu tạo từ [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] "deSIGNED" kết hợp mở rộng ở dạng bị động.</li>
 			
 				</ul>
 
@@ -393,7 +393,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to inSPECT the SERvers] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đặt ngay sau đối tượng [NOUN as HEAD][DANH làm LÕI] "techNICian" để quét và hiển thị đặc điểm hành động sắp xảy ra mang tính chủ động của đối tượng đó.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to inSPECT the SERvers] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] phát triển từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to inSPECT ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to inSPECT the SERvers] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to inSPECT ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
 				</ul>
 

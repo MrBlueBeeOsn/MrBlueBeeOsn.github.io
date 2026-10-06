@@ -404,12 +404,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[Clearing the browser history] improves security.</li>
-          <li className="margin-bottom-20 list-none">[Việc xóa lịch sử trình duyệt] cải thiện tính bảo mật.</li>
+          <li>[CLEARing the BROWser HISTORy] imPROVES security.</li>
+          <li className="margin-bottom-20 list-none">[Xóa lịch sử trình duyệt] giúp tăng cường an ninh.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the browser history] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] để thiết lập nền tảng thông tin đứng đầu toàn câu để làm [SUBject][CHỦ] trước hạt nhân [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "improves". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động xóa bỏ, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the BROWser HISTORy] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động xóa bỏ, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the browser history] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the BROWser HISTORy] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] tiếp nhận trực tiếp mục tiêu của hành động "CLEARing".</li>
       
         </ul>
 
@@ -439,7 +439,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>[the STAFF MEMber to CLEAR the MEETing ROOM] is outSIDE.</li>
-          <li className="margin-bottom-20 list-none">[Nhân viên sắp sửa dọn dẹp phòng họp] thì ở bên ngoài.</li>
+          <li className="margin-bottom-20 list-none">[Nhân viên phụ trách dọn dẹp phòng họp] đang ở bên ngoài.</li>
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the STAFF MEMber to CLEAR the MEETing ROOM] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động trạng thái [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is".</li>
           
@@ -455,7 +455,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>[the LAND to be CLEARED NEXT MONTH] beLONGS to the CITy.</li>
-          <li className="margin-bottom-20 list-none">Khu đất [sắp sửa được giải phóng mặt bằng vào tháng tới] thuộc về thành phố.</li>
+          <li className="margin-bottom-20 list-none">[Khu đất sẽ được giải phóng mặt bằng vào tháng tới] thuộc sở hữu của thành phố.</li>
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the LAND to be CLEARED NEXT MONTH] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "beLONGS". Trong đó, "beLONGS" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite][THỜI].</li>
           
@@ -471,7 +471,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>[the WORKer CLEARing the ROAD BLOCK] WORE a VEST.</li>
-          <li className="margin-bottom-20 list-none">Người công nhân [đang dọn dẹp chướng ngại vật trên đường] đã mặc một chiếc áo khoác bảo hộ.</li>
+          <li className="margin-bottom-20 list-none">[Người công nhân đang dọn dẹp chướng ngại vật trên đường] mặc một chiếc áo khoác phản quang.</li>
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the WORKer CLEARing the ROAD BLOCK]- [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "WORE". Trong đó, "WORE" là [LEXical VERB as PREDicator][VỰNG ĐỘNG làm VỊ] mang [FInite][THỜI].</li>
           
@@ -487,7 +487,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>[the FILES CLEARED by the adMINistrator] are PERmanently deLETEd.</li>
-          <li className="margin-bottom-20 list-none">[Các tệp tin đã được xóa bởi quản trị viên] thì bị xóa vĩnh viễn.</li>
+          <li className="margin-bottom-20 list-none">[Các tệp đã được quản trị viên xóa] sẽ bị xóa vĩnh viễn.</li>
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the FILES CLEARED by the adMINistrator] - [NOUN PHRASE as SUBJECT][DANH CỤM làm CHỦ] của hành động [VERB PHRASE as PREDicator] "are deLETEd". Trong đó, "are" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite][THỜI], còn "deLETEd" là các dạng [non-FInite][PHI-THỜI] đi kèm, biểu thị đối tượng đã được xóa.</li>
           
@@ -503,7 +503,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>we FOUND [an appliCAtion CApable of CLEARing BACKground JUNK].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi đã tìm thấy [một ứng dụng có khả năng dọn dẹp rác chạy ngầm].</li>
+          <li className="margin-bottom-20 list-none">Chúng tôi đã tìm thấy [một ứng dụng có khả năng loại bỏ các tập tin rác trong nền].</li>
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [an appliCAtion CApable of CLEARing BACKground JUNK] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động [PRETerite FORM][KHỨ DẠNG] "FOUND".</li>
           
