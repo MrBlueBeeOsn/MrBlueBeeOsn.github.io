@@ -422,7 +422,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 		
-			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-2"><strong>Hình thành Chức năng</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-2"><strong>Hình thành Chức năng</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -484,7 +484,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-3"><strong>Hình thành Chức năng</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-3"><strong>Hình thành Chức năng</strong>[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>]:</p>
 			
 				<ul className="list-square">
 			

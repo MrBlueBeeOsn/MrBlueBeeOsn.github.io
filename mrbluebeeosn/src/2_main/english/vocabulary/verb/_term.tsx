@@ -360,7 +360,7 @@ export default function (): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>có dấu phẩy</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>có dấu phẩy</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 6a:</p>
       
@@ -376,7 +376,7 @@ export default function (): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 6b:</p>
       
@@ -392,7 +392,7 @@ export default function (): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>có dấu phẩy</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>có dấu phẩy</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 6c:</p>
       
@@ -408,7 +408,7 @@ export default function (): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 6d:</p>
       
@@ -445,7 +445,7 @@ export default function (): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>3.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 8a:</p>
       
@@ -461,7 +461,7 @@ export default function (): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 8b:</p>
       

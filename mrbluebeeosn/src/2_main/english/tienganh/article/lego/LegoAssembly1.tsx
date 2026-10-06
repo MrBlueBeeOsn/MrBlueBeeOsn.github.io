@@ -656,7 +656,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-2">[<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-2">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -670,7 +670,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -710,7 +710,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>COMplex prepoSITional PHRASE</strong>][<strong>PHỨC GIỚI CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>COMplex prepoSITional PHRASE</strong>][<strong>PHỨC GIỚI CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -739,7 +739,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro conJUNCtional CLAUSE</strong>][<strong>ẨN LIÊN ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro conJUNCtional CLAUSE</strong>][<strong>ẨN LIÊN ĐIỀU</strong>]:</p>
 			
 				<ul className="list-square">
 			

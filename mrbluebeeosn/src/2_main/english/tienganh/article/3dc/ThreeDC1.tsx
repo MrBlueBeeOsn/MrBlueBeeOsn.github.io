@@ -467,7 +467,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-2"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-2"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -561,7 +561,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-3"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-3"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong>[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>]:</p>
 			
 				<ul className="list-square">
 			

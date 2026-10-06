@@ -512,7 +512,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>] </p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] </p>
 
       <p className="margin-top-20 text-indent-whole"><strong>TRẠNG CỤM dạng</strong> -<strong>to V</strong>:</p>
 
@@ -603,7 +603,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole" id="8a">Ví dụ 8a:</p>
       
@@ -619,7 +619,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
 
       <p className="margin-top-20 text-indent-whole" id="8b">Ví dụ 8b:</p>
       
@@ -682,7 +682,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong>[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="10">Ví dụ 10:</p>
       

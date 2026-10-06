@@ -566,9 +566,9 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct 2</strong>][<strong>PHỤ 2</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>có dấu phẩy</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>] <strong>có dấu phẩy</strong>:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="6a">Ví dụ 6a:</p>
 			
@@ -584,7 +584,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="6b">Ví dụ 6b:</p>
 			
@@ -600,7 +600,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>có dấu phẩy</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>có dấu phẩy</strong>:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="6c">Ví dụ 6c:</p>
 			
@@ -616,7 +616,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>]:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="6d">Ví dụ 6d:</p>
 			
@@ -653,7 +653,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole"><strong>3.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
 
 			<p className="margin-top-20 text-indent-whole" id="8a">Ví dụ 8a:</p>
 			
@@ -669,7 +669,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="8b">Ví dụ 8b:</p>
 			
@@ -740,7 +740,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>4.1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>4.1.3</strong> <strong>Hình thành chức năng</strong>[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="10">Ví dụ 10:</p>
 			
