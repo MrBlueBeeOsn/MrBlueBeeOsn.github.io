@@ -639,18 +639,22 @@ export default function creATE(): React.JSX.Element {
 
       <h4 className="margin-y-40">3. Phân hệ [prepoSITion PHRASE][GIỚI CỤM]</h4>
       
-      <p className="margin-top-20 text-indent-whole"><strong>3.1</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>3.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="7">Ví dụ 7:</p>
       
         <ul className="list-square">
       
           <li>[the deLAY in the creAtion of the NEW PORtal] RAISED SEVeral conCERNS.</li>
-          <li className="margin-bottom-20 list-none">[Sự chậm trễ trong việc tạo ra cổng thông tin mới] đã dấy lên nhiều lo ngại.</li>
+          <li className="margin-bottom-20 list-none">[Sự chậm trễ trong việc xây dựng cổng thông tin mới] đã gây ra một số lo ngại.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deLAY in the creAtion of the NEW PORtal] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "RAISED", là đối tượng chính của câu, đứng đầu câu và chịu trách nhiệm về mặt ngữ nghĩa.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deLAY in the creAtion of the NEW PORtal] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "RAISED", đứng đầu câu và chịu trách nhiệm về mặt ngữ nghĩa.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in the creAtion of the NEW PORtal] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng [NOUN as HEAD][DANH làm LÕI] "deLAY" để hiển thị và mô tả phạm vi thuộc về của đối tượng đó. Bản chất là [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "deLAY", bắt đầu bằng [prepoSITion][GIỚI] "in".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
+
+          <li className="list-none margin-bottom-10">[in the creAtion of the NEW PORtal] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "deLAY", để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [prepoSITion][GIỚI] "in".</li>
+
+          <li className="list-none margin-bottom-10">[of the NEW PORtal] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "creAtion", để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
       
         </ul>
       
