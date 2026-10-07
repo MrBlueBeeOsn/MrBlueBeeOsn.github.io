@@ -195,9 +195,9 @@ export default function CLEAR(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">HỆ THỐNG PHÂN LOẠI HẠT NHÂN VERB [VERB CATegories]</h3>
 
 
-      <h4 className="margin-y-40">a. Phân hệ [PREDicator HEAD][VỊ LÕI]</h4>
+      <h4 className="margin-y-40">a. Phân hệ [PREDicator][VỊ]</h4>
       
-        <ol>
+        <ol className="margin-top-40">
       
           <li value="1">[<strong>LEXical VERB</strong>][<strong>VỰNG ĐỘNG</strong>]: CLEAR</li>
           <li className="margin-bottom-20 list-none">Là mã hành động nguyên bản (dọn dẹp, xóa bỏ, làm sạch), chưa qua xử lý dấu mốc thời gian hay phương thức, đóng vai trò là lõi dữ liệu thô.</li>
@@ -278,9 +278,16 @@ export default function CLEAR(): React.JSX.Element {
       
         </ol>
 
-        <ol>
+      
+      <h4 className="margin-y-40">b. Phân hệ [CLAUSE][ĐIỀU]</h4>
+          
+      <p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
+
+      <p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement][BỔ], [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ], [FInite CLAUSE as ADjunct][THỜI ĐIỀU làm PHỤ], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+
+      <ol>
 			
-					<li value="8">[<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>] (ĐIỀU CÂU): because [it rains].</li>
+					<li value="1">[<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>] (ĐIỀU CÂU): because [it rains].</li>
 					<li className="list-none"><strong>Why ĐIỀU</strong>? - Traditional textbooks teach you that "CLAUSE" is "mệnh đề" or "vế". But to a native speaker, a CLAUSE is simply a distinct, self-contained 'ĐIỀU' (unit). In law, it is a ĐIỀU khoản (legal unit). In grammar, it is a ĐIỀU câu (grammatical unit). Understanding it this way helps you think exactly like a native speaker.</li>
 
 					<li className="margin-bottom-20 list-none"><strong>Why prepoSITion PHRASE</strong>, <strong>not conJUNCtion CLAUSE</strong>?</li>
@@ -289,20 +296,13 @@ export default function CLEAR(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">[MORDern GRAMmar][NGỮ PHÁP HIỆN ĐẠI] không tách biệt phía sau [prepoSITion][GIỚI] là một [CLAUSE][ĐIỀU] hay một [NOUN PHRASE][DANH CỤM]. Bất cứ thứ gì sau [prepoSITion][GIỚI] đều được coi là [COMplement][BỔ] và được gọi là [prepoSITion PHRASE][GIỚI CỤM] "be<strong>cause</strong> <strong>it RAINS</strong>". [MORDern GRAMmar][NGỮ PHÁP HIỆN ĐẠI] không sử dụng thuật ngữ [conJUNCtion CLAUSE][LIÊN ĐIỀU] vì đây là ngữ pháp truyền thống cách đây hàng trăm năm.</li>
 			
-					<li value="9">[<strong>coORdinator</strong>][<strong>ĐỒNG</strong>] (ĐỒNG CÂU): to</li>
+					<li value="2">[<strong>coORdinator</strong>][<strong>ĐỒNG</strong>] (ĐỒNG CÂU): to</li>
 					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "but", "or", "and" mới chính là [conJUNCtion][LIÊN], còn lại là [prepoSITion][GIỚI] hoặc các từ khác.</li>
 
-					<li value="10">[<strong>suBORdinator</strong>][<strong>HẠ</strong>] (HẠ CÂU/ HẠ CẤP CÂU): to</li>
+					<li value="3">[<strong>suBORdinator</strong>][<strong>HẠ</strong>] (HẠ CÂU/ HẠ CẤP CÂU): to</li>
 					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "that" "if" mang nghĩa liệu, "<strong>wheth</strong>er" - liệu</li>
 			
 				</ol>
-
-      
-      <h4 className="margin-y-40">b. Phân hệ [CLAUSE][ĐIỀU]</h4>
-          
-      <p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
-
-      <p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement][BỔ], [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ], [FInite CLAUSE as ADjunct][THỜI ĐIỀU làm PHỤ], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
 
 
       <p className="margin-top-20"><strong>Sơ đồ phối hợp mã mã nguồn</strong> [<strong>Clear</strong>]:</p>
@@ -416,7 +416,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as CATenative COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm CHUỖI BỔ</strong>]</p>
       
-      <p className="margin-top-20 text-indent-whole" id="4b">Ví dụ 4b: </p>
+      <p className="margin-top-20 text-indent-whole" id="4b">Ví dụ 4b:</p>
       
         <ul className="list-square">
       

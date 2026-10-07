@@ -224,7 +224,7 @@ export default function creATE(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">HỆ THỐNG [PHÂN LOẠI HẠT NHÂN ĐỘNG][VERB CATegories]</h3>
 
-      <h4 className="margin-y-40">a. Phân hệ [PREDicator HEAD][VỊ LÕI]</h4>
+      <h4 className="margin-y-40">a. Phân hệ [PREDicator][VỊ]</h4>
       
         <ol>
       
@@ -305,10 +305,17 @@ export default function creATE(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu. Trong đó, "DID", "DOES" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite][THỜI], còn "creATE" là các dạng [non-FInite][PHI-THỜI] đi kèm.</li>
       
         </ol>
+      
 
-        <ol>
+      <h4 className="margin-y-40">b. Phân hệ [CLAUSE][ĐIỀU]</h4>
+          
+      <p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
+
+      <p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement][BỔ], [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ], [FInite CLAUSE as ADjunct][THỜI ĐIỀU làm PHỤ], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+
+      <ol className="margin-top-40">
 			
-					<li value="8">[<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>] (ĐIỀU CÂU): because [it rains].</li>
+					<li value="1">[<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>] (ĐIỀU CÂU): because [it rains].</li>
 					<li className="list-none"><strong>Why ĐIỀU</strong>? - Traditional textbooks teach you that "CLAUSE" is "mệnh đề" or "vế". But to a native speaker, a CLAUSE is simply a distinct, self-contained 'ĐIỀU' (unit). In law, it is a ĐIỀU khoản (legal unit). In grammar, it is a ĐIỀU câu (grammatical unit). Understanding it this way helps you think exactly like a native speaker.</li>
 
 					<li className="margin-bottom-20 list-none"><strong>Why prepoSITion PHRASE</strong>, <strong>not conJUNCtion CLAUSE</strong>?</li>
@@ -317,21 +324,13 @@ export default function creATE(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">[MORDern GRAMmar][NGỮ PHÁP HIỆN ĐẠI] không tách biệt phía sau [prepoSITion][GIỚI] là một [CLAUSE][ĐIỀU] hay một [NOUN PHRASE][DANH CỤM]. Bất cứ thứ gì sau [prepoSITion][GIỚI] đều được coi là [COMplement][BỔ] và được gọi là [prepoSITion PHRASE][GIỚI CỤM] "be<strong>cause</strong> <strong>it RAINS</strong>". [MORDern GRAMmar][NGỮ PHÁP HIỆN ĐẠI] không sử dụng thuật ngữ [conJUNCtion CLAUSE][LIÊN ĐIỀU] vì đây là ngữ pháp truyền thống cách đây hàng trăm năm.</li>
 			
-					<li value="9">[<strong>coORdinator</strong>][<strong>ĐỒNG</strong>] (ĐỒNG CÂU): to</li>
+					<li value="2">[<strong>coORdinator</strong>][<strong>ĐỒNG</strong>] (ĐỒNG CÂU): to</li>
 					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "but", "or", "and" mới chính là [conJUNCtion][LIÊN], còn lại là [prepoSITion][GIỚI] hoặc các từ khác.</li>
 
-					<li value="10">[<strong>suBORdinator</strong>][<strong>HẠ</strong>] (HẠ CÂU/ HẠ CẤP CÂU): to</li>
+					<li value="3">[<strong>suBORdinator</strong>][<strong>HẠ</strong>] (HẠ CÂU/ HẠ CẤP CÂU): to</li>
 					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "that" "if" mang nghĩa liệu, "<strong>wheth</strong>er" - liệu</li>
 			
 				</ol>
-      
-      
-
-      <h4 className="margin-y-40">b. Phân hệ [CLAUSE][ĐIỀU]</h4>
-          
-      <p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
-
-      <p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement][BỔ], [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ], [FInite CLAUSE as ADjunct][THỜI ĐIỀU làm PHỤ], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
       
 
 
@@ -455,12 +454,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the COMpany AIMS [to creATE INnovative PROducts for conSUmers].</li>
-          <li className="margin-bottom-20 list-none">Công ty hướng tới [việc tạo ra các sản phẩm đổi mới cho người tiêu dùng].</li>
+          <li>the COMpany aims [to creATE INnovative PROducts for conSUmers].</li>
+          <li className="margin-bottom-20 list-none">Công ty đặt mục tiêu [tạo ra các sản phẩm sáng tạo dành cho người tiêu dùng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE INnovative PROducts for conSUmers] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM] tiếp nhận trực tiếp mục tiêu tác động cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "AIMS". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE INnovative PROducts for conSUmers] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "AIMS". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [INnovative PROducts for conSUmers] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [INnovative PROducts for conSUmers] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động [PLAIN FORM][GIẢN DẠNG] "creATE". Bên trong chứa "for conSUmers" là [prepoSITion PHRASE as post-MODdifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "PROducts".</li>
       
         </ul>
       
@@ -474,7 +473,7 @@ export default function creATE(): React.JSX.Element {
           <li>[it] is esSENtial [to creATE STRONG seCUrity PROtocols].</li>
           <li className="margin-bottom-20 list-none">[Điều] thiết yếu là [việc tạo ra các giao thức bảo mật mạnh mẽ].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc "is esSENtial". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc "is esSENtial". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [STRONG seCUrity PROtocols] - </li>
       
@@ -512,7 +511,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ARchitect to creATE the BUILDing BLUEprints] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [VERB PHRASE as PREDicator][ĐỘNG CỤM làm VỊ] "has been apPOINted". Trong đó, "has" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite][THỜI], còn "been apPOINted" là các dạng [non-FInite][PHI-THỜI] đi kèm.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to creATE the BUILDing BLUEprints] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "ARchitect" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to creATE the BUILDing BLUEprints] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "ARchitect" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
         </ul>
       
@@ -609,7 +608,7 @@ export default function creATE(): React.JSX.Element {
           <li>[To creATE HIGH-QUAlity PROducts], the TEAM upGRAded their maCHINES.</li>
           <li className="margin-bottom-20 list-none">[Để tạo ra các sản phẩm chất lượng cao], đội ngũ đã nâng cấp máy móc của họ.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To creATE HIGH-QUAlity PROducts] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "upGRAded" và toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to creATE ..." kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To creATE HIGH-QUAlity PROducts] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "upGRAded" và toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HIGH-QUAlity PROducts] - </li>
       
@@ -627,7 +626,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [LATE to creATE the FInal PROtotype] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "STAYED", đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to creATE the FInal PROtotype] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "STAYED". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to creATE ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to creATE the FInal PROtotype] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "STAYED". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
       
         </ul>
 

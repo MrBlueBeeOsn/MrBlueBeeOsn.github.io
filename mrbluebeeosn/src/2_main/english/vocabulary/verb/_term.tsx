@@ -62,7 +62,7 @@ export default function (): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">HỆ THỐNG [PHÂN LOẠI HẠT NHÂN ĐỘNG][VERB CATegories]</h3>
 
-      <h4 className="margin-y-40">a. Phân hệ [PREDicator HEAD][VỊ LÕI]</h4>
+      <h4 className="margin-y-40">a. Phân hệ [PREDicator][VỊ]</h4>
       
         <ol>
       

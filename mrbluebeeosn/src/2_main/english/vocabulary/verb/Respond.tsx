@@ -224,7 +224,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">HỆ THỐNG [PHÂN LOẠI HẠT NHÂN ĐỘNG][VERB CATegories]</h3>
 
-			<h4 className="margin-y-40">a. Phân hệ [PREDicator HEAD][VỊ LÕI]</h4>
+			<h4 className="margin-y-40">a. Phân hệ [PREDicator][VỊ]</h4>
 			
 				<ol>
 			
@@ -307,10 +307,17 @@ export default function reSPOND(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu. Trong đó, "DID", "DOES" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite][THỜI], còn "reSPOND" là các dạng [non-FInite][PHI-THỜI] đi kèm.</li>
 			
 				</ol>
-
-				<ol>
 			
-					<li value="8">[<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>] (ĐIỀU CÂU): because [it rains].</li>
+
+			<h4 className="margin-y-40">b. Phân hệ [CLAUSE][ĐIỀU]</h4>
+					
+			<p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
+
+			<p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement][BỔ], [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ], [FInite CLAUSE as ADjunct][THỜI ĐIỀU làm PHỤ], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+
+			<ol className="margin-top-40">
+			
+					<li value="1">[<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>] (ĐIỀU CÂU): because [it rains].</li>
 					<li className="list-none"><strong>Why ĐIỀU</strong>? - Traditional textbooks teach you that "CLAUSE" is "mệnh đề" or "vế". But to a native speaker, a CLAUSE is simply a distinct, self-contained 'ĐIỀU' (unit). In law, it is a ĐIỀU khoản (legal unit). In grammar, it is a ĐIỀU câu (grammatical unit). Understanding it this way helps you think exactly like a native speaker.</li>
 
 					<li className="margin-bottom-20 list-none"><strong>Why prepoSITion PHRASE</strong>, <strong>not conJUNCtion CLAUSE</strong>?</li>
@@ -319,21 +326,13 @@ export default function reSPOND(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">[MORDern GRAMmar][NGỮ PHÁP HIỆN ĐẠI] không tách biệt phía sau [prepoSITion][GIỚI] là một [CLAUSE][ĐIỀU] hay một [NOUN PHRASE][DANH CỤM]. Bất cứ thứ gì sau [prepoSITion][GIỚI] đều được coi là [COMplement][BỔ] và được gọi là [prepoSITion PHRASE][GIỚI CỤM] "be<strong>cause</strong> <strong>it RAINS</strong>". [MORDern GRAMmar][NGỮ PHÁP HIỆN ĐẠI] không sử dụng thuật ngữ [conJUNCtion CLAUSE][LIÊN ĐIỀU] vì đây là ngữ pháp truyền thống cách đây hàng trăm năm.</li>
 			
-					<li value="9">[<strong>coORdinator</strong>][<strong>ĐỒNG</strong>] (ĐỒNG CÂU): to</li>
+					<li value="2">[<strong>coORdinator</strong>][<strong>ĐỒNG</strong>] (ĐỒNG CÂU): to</li>
 					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "but", "or", "and" mới chính là [conJUNCtion][LIÊN], còn lại là [prepoSITion][GIỚI] hoặc các từ khác.</li>
 
-					<li value="10">[<strong>suBORdinator</strong>][<strong>HẠ</strong>] (HẠ CÂU/ HẠ CẤP CÂU): to</li>
+					<li value="3">[<strong>suBORdinator</strong>][<strong>HẠ</strong>] (HẠ CÂU/ HẠ CẤP CÂU): to</li>
 					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "that" "if" mang nghĩa liệu, "<strong>wheth</strong>er" - liệu</li>
 			
 				</ol>
-			
-			
-
-			<h4 className="margin-y-40">b. Phân hệ [CLAUSE][ĐIỀU]</h4>
-					
-			<p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
-
-			<p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD][VỊ LÕI] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement][BỔ], [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ], [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ], [FInite CLAUSE as ADjunct][THỜI ĐIỀU làm PHỤ], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
 			
 
 
@@ -458,11 +457,11 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the SYStem AIMS [to reSPOND autoMATically to NETwork eVENTS].</li>
-					<li className="margin-bottom-20 list-none">Hệ thống hướng tới [việc phản hồi tự động đối với các sự kiện mạng].</li>
+					<li className="margin-bottom-20 list-none">Hệ thống này nhằm mục đích [phản hồi tự động trước các sự kiện mạng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND autoMATically to NETwork eVENTS] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "AIMS" tiếp nhận trực tiếp mục tiêu tác động. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND autoMATically to NETwork eVENTS] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "AIMS" tiếp nhận trực tiếp mục tiêu tác động. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to NETwork eVENTS] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động "reSPOND".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to NETwork eVENTS] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động [PLAIN FORM][GIẢN DẠNG] "reSPOND".</li>
 			
 				</ul>
 			
@@ -476,7 +475,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[it] is esSENtial [to reSPOND QUICKly to CUStomer comPLAINts].</li>
 					<li className="margin-bottom-20 list-none">Điều thiết yếu là việc [phản hồi nhanh chóng các khiếu nại của khách hàng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND QUICKly to CUStomer comPLAINts] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND QUICKly to CUStomer comPLAINts] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CUStomer comPLAINts] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động "reSPOND".</li>
 			
@@ -513,7 +512,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the OFficer to reSPOND to the inQUIRy] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [VERB PHRASE as PREDicator][ĐỘNG CỤM làm VỊ] "has been asSIGNED". Trong đó, "has" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite][THỜI], còn "been asSIGNED" là các dạng [non-FInite][PHI-THỜI] đi kèm.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to reSPOND to the inQUIRy] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "OFficer" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to reSPOND to the inQUIRy] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "OFficer" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
 				</ul>
 			
@@ -609,7 +608,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[To reSPOND efFECtively to CUStomer deMANDS], the STAFF exTENDed WORKing HOURS.</li>
 					<li className="margin-bottom-20 list-none">[Để phản hồi hiệu quả đối với các yêu cầu của khách hàng], nhân viên đã kéo dài giờ làm việc.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To reSPOND efFECtively to CUStomer deMANDS] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "exTENDed" và toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To reSPOND efFECtively to CUStomer deMANDS] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "exTENDed" và toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ..." kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CUStomer deMANDS] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPOND".</li>
 			
@@ -625,7 +624,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the techNICian arRIVED [to reSPOND to the NETwork aLERT].</li>
 					<li className="margin-bottom-20 list-none">Kỹ thuật viên đã đến [để phản hồi/xử lý cảnh báo mạng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND to the NETwork aLERT] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "arRIVED". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] cấu tạo từ cụm [to-infiniTIval VERB PHRASE][TO-NGUYÊN ĐỘNG CỤM] "to reSPOND ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND to the NETwork aLERT] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "arRIVED". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the NETwork aLERT] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPOND".</li>
 			
