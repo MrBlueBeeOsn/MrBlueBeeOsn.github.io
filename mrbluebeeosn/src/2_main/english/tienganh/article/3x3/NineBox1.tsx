@@ -604,7 +604,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối HOW the DAtabase HANdles the WORKload bên trong đóng vai trò làm [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối hành động trực tiếp từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "underSTAND ...".</li>
 
-					<li className="list-none">Và toàn bộ khối tổng thể [to underSTAND HOW the DAtabase HANdles the WORKload] vận hành với chức năng [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động [THIRD-PERson SINGular VERB FORM][NGÔI 3 S ĐỘNG DẠNG] "reQUIres" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Và toàn bộ khối tổng thể [to underSTAND HOW the DAtabase HANdles the WORKload] vận hành với chức năng [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" chịu trách nhiệm thực thi câu lớn.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 

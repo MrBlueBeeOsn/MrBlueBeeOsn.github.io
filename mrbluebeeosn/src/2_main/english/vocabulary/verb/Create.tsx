@@ -464,18 +464,18 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as extraPOSED SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm NGOẠI CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="4e">Ví dụ 4e:</p>
       
         <ul className="list-square">
       
           <li>[it] is esSENtial [to creATE STRONG seCUrity PROtocols].</li>
-          <li className="margin-bottom-20 list-none">[Điều] thiết yếu là [việc tạo ra các giao thức bảo mật mạnh mẽ].</li>
+          <li className="margin-bottom-20 list-none">[Điều] đó là điều thiết yếu [để xây dựng các giao thức bảo mật vững chắc].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc "is esSENtial". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as extraPOSED SUBject][PHI-THỜI ĐIỀU làm NGOẠI CHỦ] của hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [STRONG seCUrity PROtocols] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [STRONG seCUrity PROtocols] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động [PLAIN FORM][GIẢN DẠNG] "creATE".</li>
       
         </ul>
 
@@ -825,7 +825,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting soLUtions for WHAT CLIents STRUGgle with] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động hành động [THIRD-PERson SINGular VERB FORM][NGÔI 3 S ĐỘNG DẠNG] "BUILDS", chịu trách nhiệm làm một khối đầu việc lớn. Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] lớn phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting soLUtions for WHAT CLIents STRUGgle with] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "BUILDS", chịu trách nhiệm làm một khối đầu việc lớn. Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] lớn phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHAT CLIents STRUGgle with] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "for" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] riêng "CLIents" và cụm hành động riêng đi sau thành phần [PROnoun][ĐẠI] "what".</li>
       
@@ -865,7 +865,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To underSTAND HOW the SYStem creATES AUtomated rePORTS] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động hành động [THIRD-PERson SINGular VERB FORM][NGÔI 3 S ĐỘNG DẠNG] "reQUIres", để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To underSTAND HOW the SYStem creATES AUtomated rePORTS] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres", để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem creATES AUtomated rePORTS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] "system" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
       
@@ -892,7 +892,7 @@ export default function creATE(): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as extraPOSED SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm NGOẠI CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>][<strong>GIẢ ĐẠI</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole" id="12e">Ví dụ 12e:</p>
       
@@ -905,7 +905,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVAluate HOW the appliCAtion creATES User LOGS] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động [THIRD-PERson SINGular VERB FORM][NGÔI 3 S ĐỘNG DẠNG] "TAKES", chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò  bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "eVAluate ..." và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVAluate HOW the appliCAtion creATES User LOGS] - [non-FInite CLAUSE as extraPOSED SUBject][PHI-THỜI ĐIỀU làm NGOẠICHỦ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "TAKES", chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò  bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "eVAluate ..." và kéo theo thành phần bổ trợ phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the appliCAtion creATES User LOGS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "eVAluate" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] riêng "the appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [ADverb][TRẠNG] "HOW". - </li>
       

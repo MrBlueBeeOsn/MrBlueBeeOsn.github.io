@@ -506,7 +506,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to exPLAIN HOW we deSIGN this PLATform] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] đóng vai trò chủ trì điều phối toàn bộ câu làm khối của hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
+						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to exPLAIN HOW we deSIGN this PLATform] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] đóng vai trò chủ trì điều phối toàn bộ câu làm khối của hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
 						
 						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to exPLAIN HOW we deSIGN this PLATform] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "exPLAIN ..." và kéo theo khối CLAUSE con bên trong.</li>
 				
