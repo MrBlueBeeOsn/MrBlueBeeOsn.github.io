@@ -15,7 +15,7 @@ export default function CLEAR(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#verbs-functions-terms"><mark className="highlight-tertiary-padding-4-8">VERBS: FUNCtions</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#VERBS-MODern-CAmbridge-2002"><mark className="highlight-tertiary-padding-4-8">VERBS - MODern CAmbridge 2002</mark></HashLink></h4>
 
       
       <h1 className="margin-y-50 text-center">[CLEAR]</h1>
@@ -168,7 +168,7 @@ export default function CLEAR(): React.JSX.Element {
 
           <p>[CLEAR] là một [LEXical VERB][VỰNG ĐỘNG] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).</p>
 
-          <p className="margin-top-20">Ví dụ: /klɪə(r)/</p>
+          <p className="margin-top-20">Phát âm:[CLEAR][CLĒAR] /klɪə(r)/</p>
 
             <ul className="list-square">
           
@@ -296,9 +296,9 @@ export default function CLEAR(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none"><strong>Why prepoSITion PHRASE</strong>, <strong>not conJUNCtion CLAUSE</strong>?</li>
 
-					<li className="margin-bottom-20 list-none">[MORDern GRAMmar][NGỮ PHÁP HIỆN ĐẠI] xem "be<strong>cause</strong> <strong>it RAINS</strong>" là [prepoSITion PHRASE][GIỚI CỤM] vì cho rằng [prepoSITion][GIỚI] và [VERB][ĐỘNG] là giống nhau. Nếu phía sau VERB là một CLAUSE thì vẫn gọi là [VERB PHRASE][ĐỘNG CỤM].</li>
+					<li className="margin-bottom-20 list-none">[MODern GRAMmar][NGỮ PHÁP HIỆN ĐẠI] xem "be<strong>cause</strong> <strong>it RAINS</strong>" là [prepoSITion PHRASE][GIỚI CỤM] vì cho rằng [prepoSITion][GIỚI] và [VERB][ĐỘNG] là giống nhau. Nếu phía sau VERB là một CLAUSE thì vẫn gọi là [VERB PHRASE][ĐỘNG CỤM].</li>
 
-					<li className="margin-bottom-20 list-none">[MORDern GRAMmar][NGỮ PHÁP HIỆN ĐẠI] không tách biệt phía sau [prepoSITion][GIỚI] là một [CLAUSE][ĐIỀU] hay một [NOUN PHRASE][DANH CỤM]. Bất cứ thứ gì sau [prepoSITion][GIỚI] đều được coi là [COMplement][BỔ] và được gọi là [prepoSITion PHRASE][GIỚI CỤM] "be<strong>cause</strong> <strong>it RAINS</strong>". [MORDern GRAMmar][NGỮ PHÁP HIỆN ĐẠI] không sử dụng thuật ngữ [conJUNCtion CLAUSE][LIÊN ĐIỀU] vì đây là ngữ pháp truyền thống cách đây hàng trăm năm.</li>
+					<li className="margin-bottom-20 list-none">[MODern GRAMmar][NGỮ PHÁP HIỆN ĐẠI] không tách biệt phía sau [prepoSITion][GIỚI] là một [CLAUSE][ĐIỀU] hay một [NOUN PHRASE][DANH CỤM]. Bất cứ thứ gì sau [prepoSITion][GIỚI] đều được coi là [COMplement][BỔ] và được gọi là [prepoSITion PHRASE][GIỚI CỤM] "be<strong>cause</strong> <strong>it RAINS</strong>". [MODern GRAMmar][NGỮ PHÁP HIỆN ĐẠI] không sử dụng thuật ngữ [conJUNCtion CLAUSE][LIÊN ĐIỀU] vì đây là ngữ pháp truyền thống cách đây hàng trăm năm.</li>
 			
 					<li value="2">[<strong>coORdinator</strong>][<strong>ĐỒNG</strong>] (ĐỒNG CÂU): to</li>
 					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "but", "or", "and" mới chính là [conJUNCtion][LIÊN], còn lại là [prepoSITion][GIỚI] hoặc các từ khác.</li>
@@ -570,11 +570,17 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>[CLEARing the WORKspace EARly], he LEFT the OFFice with PEACE of MIND.</li>
-          <li className="margin-bottom-20 list-none">[Do dọn dẹp không gian làm việc sớm], anh ấy đã rời văn phòng với tâm trí thảnh thơi.</li>
+          <li className="margin-bottom-20 list-none">[Dọn dẹp không gian làm việc từ sớm], anh ấy rời văn phòng với tâm trạng thoải mái.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the WORKspace EARly] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng "-ing" do được rút gọn từ một hệ [LIÊN ĐIỀU] Trạng phụ thuộc có cùng thành phần lõi [PROnoun as SUBject ][ĐẠI làm CHỦ].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
+
+          <li className="list-none margin-bottom-10">[CLEARing the WORKspace EARly] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "LEFT", đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy. Được rút gọn từ [FInite CLAUSE as ADjunct][THỜI ĐIỀU làm PHỤ] của [PRETerite FORM][KHỨ DẠNG] "LEFT", mang [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CLEARing" kết hợp với [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the WORKspace" và [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] "EARly" của hành động "CLEARing".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the WORKspace EARly] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
+
+          <li className="list-none margin-bottom-10">[the WORKspace] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CLEARing".</li>
+
+          <li className="list-none margin-bottom-10">[EARly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CLEARing".</li>
       
         </ul>
 

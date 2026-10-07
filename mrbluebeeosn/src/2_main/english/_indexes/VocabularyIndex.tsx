@@ -118,10 +118,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 				<div className="sub-box">
 
 					{/* =============================
-							VERBS: FUNCtions
+							VERBS - MODern CAmbridge 2002
 					============================= */}
 			
-					<p id="verbs-functions-terms"><mark className="highlight-secondary-padding-2-4">VERBS: FUNCtions</mark></p>
+					<p id="VERBS-MODern-CAmbridge-2002"><mark className="highlight-secondary-padding-2-4">VERBS - MODern CAmbridge 2002</mark></p>
 
 					<ul className="list-border1">
 
