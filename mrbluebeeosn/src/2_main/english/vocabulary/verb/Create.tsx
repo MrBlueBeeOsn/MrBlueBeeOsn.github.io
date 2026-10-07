@@ -659,25 +659,23 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>3.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
-
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>3.2</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>][<strong>GIỚI CỤM làm PHỤ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="8a">Ví dụ 8a:</p>
       
         <ul className="list-square">
       
-          <li>[For the creAtion of BETter SERvices], the FIRM inVESTment inCREASED.</li>
-          <li className="margin-bottom-20 list-none">[Nhằm phục vụ cho việc tạo ra các dịch vụ tốt hơn], khoản đầu tư của công ty đã tăng lên.</li>
+          <li>[for the creAtion of BETter SERvices], the FIRM inVESTment inCREASED.</li>
+          <li className="margin-bottom-20 list-none">[Để tạo ra các dịch vụ tốt hơn], công ty đã tăng cường đầu tư.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [For the creAtion of BETter SERvices] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "inCREASED". Bản chất là [prepoSITion PHRASE as post-MODidifer][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "creAtion", bắt đầu bằng [prepoSITion][GIỚI] "for" kéo theo vùng [NOUN PHRASE][DANH CỤM] phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of BETter SERvices] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "inCREASED", đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [prepoSITion][GIỚI] "for" kéo theo vùng [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the creAtion ..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtion of BETter SERvices] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [of BETter SERvices] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "creAtion", bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
       
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>3.3</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole" id="8b">Ví dụ 8b:</p>
       

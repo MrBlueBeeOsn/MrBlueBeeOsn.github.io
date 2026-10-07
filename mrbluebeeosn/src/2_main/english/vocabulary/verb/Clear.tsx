@@ -606,25 +606,25 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
-
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành 2 chức năng song song</strong></p>
 
       <p className="margin-top-20 text-indent-whole" id="8a">Ví dụ 8a:</p>
       
         <ul className="list-square">
       
-          <li>they MADE [the deCISion <strong>af</strong>ter a CLEAR explaNAtion].</li>
-          <li className="margin-bottom-20 list-none">Họ đã đưa ra [quyết định sau một lời giải thích rõ ràng].</li>
+          <li>they MADE [the deCISion] [<strong>af</strong>ter a CLEAR explaNAtion].</li>
+          <li className="margin-bottom-20 list-none">Họ đã ra [quyết định] [sau khi được giải thích rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deCISion <strong>af</strong>ter a CLEAR explaNAtion]</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
+
+          <li className="list-none margin-bottom-10">[the deCISion] - [NOUN PHRASE as COMPlement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "MADE".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [<strong>af</strong>ter a CLEAR explaNAtion] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm một khối bối cảnh thời gian đứng sau để xác định cơ sở cho [PREDicator HEAD][VỊ LÕI] "MADE". Bản chất là [prepoSITion PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã xác lập thời điểm, bắt đầu bằng [prepoSITion][GIỚI] "<strong>af</strong>ter".</li>
+          <li className="list-none margin-bottom-10">[<strong>af</strong>ter a CLEAR explaNAtion] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "MADE", đảm nhận vai trò làm một khối bối cảnh thời gian đứng sau, bắt đầu bằng [prepoSITion][GIỚI] "<strong>af</strong>ter" kéo theo vùng [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "a CLEAR explaNAtion" phía sau.</li>
       
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [prepoSITional PHRASE][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
 
       <p className="margin-top-20 text-indent-whole" id="8b">Ví dụ 8b:</p>
       

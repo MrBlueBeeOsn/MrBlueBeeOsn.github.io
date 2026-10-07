@@ -664,25 +664,23 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>3.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
-
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>] (<strong>có dấu phẩy</strong>):</p>
+			<p className="margin-top-20 text-indent-whole"><strong>3.2</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>][<strong>GIỚI CỤM làm PHỤ</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="8a">Ví dụ 8a:</p>
 			
 				<ul className="list-square">
 			
 					<li>[in reSPONSE to NEW seCUrity reguLAtions], the SYStem upDATed autoMATically.</li>
-					<li className="margin-bottom-20 list-none">[Nhằm phản hồi/đáp lại các quy định bảo mật mới], hệ thống đã tự động cập nhật.</li>
+					<li className="margin-bottom-20 list-none">[Để tuân thủ các quy định an ninh mới], hệ thống đã tự động cập nhật.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in reSPONSE to NEW seCUrity reguLAtions] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "upDATed". Bản chất là [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "in" kéo theo vùng [NOUN PHRASE][DANH CỤM] phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in reSPONSE to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "upDATed", đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [prepoSITion][GIỚI] "in" kéo theo vùng [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "reSPONSE..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONSE to NEW seCUrity reguLAtions] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [prepoSITion][GIỚI] "in".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "reSPONSE", bắt đầu bằng [prepoSITion][GIỚI] "to".</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>3.3</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="8b">Ví dụ 8b:</p>
 			
