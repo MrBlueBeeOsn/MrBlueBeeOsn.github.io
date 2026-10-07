@@ -538,11 +538,11 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>[to CLEAR the misunderSTANDing], she SENT an Email.</li>
-          <li className="margin-bottom-20 list-none">[Để xóa bỏ sự hiểu lầm], cô ấy đã gửi một email.</li>
+          <li className="margin-bottom-20 list-none">[Để làm rõ sự hiểu lầm], cô ấy đã gửi một email.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to CLEAR the misunderSTANDing], - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích nhấn mạnh cho toàn bộ phần diện thông tin chính phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to CLEAR the misunderSTANDing], - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "SENT", đảm nhận nhiệm vụ làm khối bối cảnh mục đích nhấn mạnh cho toàn bộ phần diện thông tin chính phía sau. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp một [VERB PHRASE][ĐỘNG CỤM] "CLEAR the misunderSTANDing", được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CLEAR the misunderSTANDing] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] nguyên bản có "to", được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the misunderSTANDing] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PLAIN FORM][GIẢN DẠNG] "CLEAR".</li>
       
         </ul>
       

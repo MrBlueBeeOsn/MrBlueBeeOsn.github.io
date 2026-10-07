@@ -589,18 +589,18 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>]:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="6b">Ví dụ 6b:</p>
 			
 				<ul className="list-square">
 			
 					<li>the COMpany ALlocated [FUNDS reSPONDing to URgent MARket RISKS].</li>
-					<li className="margin-bottom-20 list-none">Công ty đã phân bổ [các khoản kinh phí để ứng phó/phản hồi với các rủi ro thị trường khẩn cấp].</li>
+					<li className="margin-bottom-20 list-none">Công ty đã phân bổ [nguồn vốn để ứng phó với các rủi ro thị trường cấp bách].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [FUNDS reSPONDing to URgent MARket RISKS] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động "ALlocated".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [FUNDS reSPONDing to URgent MARket RISKS] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDing to URgent MARket RISKS] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đóng vai trò làm khối bối cảnh cách thức, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" kết hợp mở rộng đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDing to URgent MARket RISKS] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "FUNDS". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" kết hợp với [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] "to URgent MARket RISKS" của hành động "reSPONDing".</li>
 			
 				</ul>
 

@@ -588,18 +588,18 @@ export default function creATE(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole" id="6b">Ví dụ 6b:</p>
       
         <ul className="list-square">
       
           <li>the Agency ALlocated [REsources creAting CUStom SOFTware TOOLS].</li>
-          <li className="margin-bottom-20 list-none">Cơ quan đã phân bổ [các nguồn lực với mục đích tạo ra các công cụ phần mềm tùy chỉnh].</li>
+          <li className="margin-bottom-20 list-none">Cơ quan này đã phân bổ [nguồn lực để phát triển các công cụ phần mềm tùy chỉnh].</li>
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [REsources creAting CUStom SOFTware TOOLS] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAting CUStom SOFTware TOOLS] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đóng vai trò làm khối bối cảnh cách thức, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" kết hợp mở rộng đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAting CUStom SOFTware TOOLS] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "REsources". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" kết hợp với [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "CUStom SOFTware TOOLS" của hành động "creAting".</li>
       
         </ul>
 
