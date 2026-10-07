@@ -190,16 +190,16 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">4. [NOUN PHRASE][DANH CỤM]</h4>
 
-			<p className="text-indent-whole"><strong>Ví dụ</strong>: [To learn a new language]</p>
+			<p className="text-indent-whole"><strong>Ví dụ</strong>: [to learn a new language]</p>
 			
 				<ul className="list-square">
 			
 					<li>[______] takes time.</li>
 					<li className="margin-bottom-20 list-none">[Học một ngôn ngữ mới] cần thời gian.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [To learn a new language] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng to-V.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to learn a new language] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng to-V.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To learn a new language] - [NOUN PHRASE][DANH CỤM] đứng đầu câu, chỉ một việc.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to learn a new language] - [NOUN PHRASE][DANH CỤM] đứng đầu câu, chỉ một việc.</li>
 			
 				</ul>
 			
@@ -442,16 +442,16 @@ export default function SuperWords2(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Thay bằng Danh Cụm</strong> (<strong>cùng chức năng Danh</strong>): [To swim every day]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Thay bằng Danh Cụm</strong> (<strong>cùng chức năng Danh</strong>): [to swim every day]</p>
 			
 				<ul className="list-square">
 			
 					<li>[______] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Bơi mỗi ngày] thì tốt cho sức khỏe.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [To swim every day] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng to-V.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to swim every day] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng to-V.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To swim every day] - [NOUN PHRASE][DANH CỤM] đứng đầu câu, chỉ một việc.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to swim every day] - [NOUN PHRASE][DANH CỤM] đứng đầu câu, chỉ một việc.</li>
 			
 				</ul>
 			

@@ -274,16 +274,16 @@ export default function ThreeDC2(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Paraphrase 1</strong> (<strong>thay bằng Danh Cụm</strong>): [To run in the park]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Paraphrase 1</strong> (<strong>thay bằng Danh Cụm</strong>): [to run in the park]</p>
 			
 				<ul className="list-square">
 			
 					<li>[______] is relaxing.</li>
 					<li className="margin-bottom-20 list-none">[Chạy trong công viên] thì thư giãn.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [To run in the park] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] to-V kèm bổ túc nơi chốn</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to run in the park] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] to-V kèm bổ túc nơi chốn</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To run in the park] - [NOUN PHRASE][DANH CỤM] vẫn là chủ thể của câu</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to run in the park] - [NOUN PHRASE][DANH CỤM] vẫn là chủ thể của câu</li>
 			
 				</ul>
 			
@@ -398,7 +398,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">[Swimming] - [NOUN PHRASE as SUBject][DANH CỤM] đứng đầu câu, là cái được nói đến</li>
 			
 					<li><strong>Bước 4</strong> – Paraphrase bằng cách thay khối cùng chức năng.</li>
-					<li className="margin-bottom-20 list-none">Thay [Swimming] bằng [To swim regularly] (Danh Cụm) hoặc [That you swim often] (Danh Câu). Viết câu mới.</li>
+					<li className="margin-bottom-20 list-none">Thay [Swimming] bằng [to swim regularly] (Danh Cụm) hoặc [That you swim often] (Danh Câu). Viết câu mới.</li>
 			
 					<li><strong>Bước 5</strong> – Lặp lại với các câu khác, mỗi ngày 5 câu.</li>
 					<li className="list-none">Dần dần chuyển sang paraphrase các khối có chức năng Tính và Trạng.</li>

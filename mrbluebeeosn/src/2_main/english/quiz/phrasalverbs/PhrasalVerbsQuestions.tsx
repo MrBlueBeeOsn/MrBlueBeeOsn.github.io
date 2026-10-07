@@ -86,7 +86,7 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 			options: [
 				"STOPPED WORKing because of a FAULT",
 				"FELL on the FLOOR",
-				"STARTed WORKing efFECtively",
+				"STARTed WORKing efFECTively",
 				"diVIded INto SMALler PARTS"
 			],
 			correctAnswer: 0,

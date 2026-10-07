@@ -547,18 +547,18 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="6c">Ví dụ 6c:</p>
       
         <ul className="list-square">
       
           <li>the MANager SPENT [HOURS CLEARing OLD User PROfiles].</li>
-          <li className="margin-bottom-20 list-none">Người quản lý đã dành hàng giờ đồng hồ [cho việc xóa các hồ sơ người dùng cũ].</li>
+          <li className="margin-bottom-20 list-none">Người quản lý đã dành [số giờ để xóa các hồ sơ người dùng cũ].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HOURS CLEARing OLD User PROfiles]</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HOURS CLEARing OLD User PROfiles] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "SPENT".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARing OLD User PROfiles] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đóng vai trò làm khối bối cảnh cách thức/nội dung đi kèm để bổ nghĩa trực tiếp cho khuôn mẫu [PREDicator HEAD][VỊ LÕI] "SPENT" phía trước. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng đuôi "-ing" đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARing OLD User PROfiles] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "HOURS". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CLEARing" kết hợp với [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "OLD User PROfiles" của hành động "CLEARing".</li>
       
         </ul>
 

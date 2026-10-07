@@ -734,14 +734,14 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">Muốn paraphrase mà vẫn giữ nguyên cấu trúc [khối đầu câu] + is exciting, ta chỉ cần thay khối [DANH] bằng một khối khác cũng có chức năng DANH.</p>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Paraphrase 1</strong> – <strong>thay bằng một Danh Cụm</strong> [<strong>Noun Phrase</strong>] <strong>khác</strong>: [To swim every morning]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Paraphrase 1</strong> – <strong>thay bằng một Danh Cụm</strong> [<strong>Noun Phrase</strong>] <strong>khác</strong>: [to swim every morning]</p>
 			
 				<ul className="list-square">
 			
 					<li>[______] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Bơi mỗi sáng] thì thú vị.</li>
 			
-					<li className="list-none">[To swim every morning] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng to + thành phần đi kèm → [NOUN PHRASE][DANH CỤM] – vẫn đóng vai trò Danh Chủ.</li>
+					<li className="list-none">[to swim every morning] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng to + thành phần đi kèm → [NOUN PHRASE][DANH CỤM] – vẫn đóng vai trò Danh Chủ.</li>
 			
 				</ul>
 			

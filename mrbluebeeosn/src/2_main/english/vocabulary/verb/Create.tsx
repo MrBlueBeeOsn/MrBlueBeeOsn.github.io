@@ -351,16 +351,16 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the arTIStic creAtion from the LOcal deSIGner] imPRESSED the AUdience.</li>
+          <li>[the arTIStic creAtion from the LOcal deSIGNer] imPRESSED the AUdience.</li>
           <li className="margin-bottom-20 list-none">[Tác phẩm nghệ thuật của nhà thiết kế địa phương] đã gây ấn tượng mạnh với khán giả.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the arTIStic creAtion from the LOcal deSIGner] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPRESSED", đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the arTIStic creAtion from the LOcal deSIGNer] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPRESSED", đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
           <li className="list-none margin-bottom-10">[arTIStic] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "creAtion".</li>
 
-          <li className="list-none margin-bottom-10">[from the LOcal deSIGner] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "creAtion".</li>
+          <li className="list-none margin-bottom-10">[from the LOcal deSIGNer] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "creAtion".</li>
       
         </ul>
       
@@ -444,10 +444,10 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[To creATE susTAINable ENergy SYStems] is the founDAtion's MAIN GOAL.</li>
+          <li>[to creATE susTAINable ENergy SYStems] is the founDAtion's MAIN GOAL.</li>
           <li className="margin-bottom-20 list-none">[Việc tạo ra các hệ thống năng lượng bền vững] là mục tiêu chính của quỹ.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [susTAINable ENergy SYStems] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động "creATE".</li>
       
@@ -610,12 +610,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[To creATE HIGH-QUAlity PROducts], the TEAM upGRAded their maCHINES.</li>
-          <li className="margin-bottom-20 list-none">[Để tạo ra các sản phẩm chất lượng cao], đội ngũ đã nâng cấp máy móc của họ.</li>
+          <li>[to creATE HIGH-QUAlity PROducts], the TEAM upGRAded their maCHINES.</li>
+          <li className="margin-bottom-20 list-none">[Để tạo ra các sản phẩm chất lượng cao], đội ngũ đã nâng cấp các máy móc của mình.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To creATE HIGH-QUAlity PROducts] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "upGRAded" và toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE HIGH-QUAlity PROducts] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "upGRAded", đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ...". Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HIGH-QUAlity PROducts] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HIGH-QUAlity PROducts] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PLAIN FORM][GIẢN DẠNG] "creATE".</li>
       
         </ul>
 
@@ -626,7 +626,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the deSIGner STAYED [LATE to creATE the FInal PROtotype].</li>
+          <li>the deSIGNer STAYED [LATE to creATE the FInal PROtotype].</li>
           <li className="margin-bottom-20 list-none">Nhà thiết kế đã ở lại muộn [để tạo ra mẫu nguyên mẫu cuối cùng].</li>
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [LATE to creATE the FInal PROtotype] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "STAYED", đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động.</li>
@@ -863,14 +863,14 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[To underSTAND HOW the SYStem creATES AUtomated rePORTS] reQUIres TECHnical SKILLS.</li>
+          <li>[to underSTAND HOW the SYStem creATES AUtomated rePORTS] reQUIres TECHnical SKILLS.</li>
           <li className="margin-bottom-20 list-none">[Việc hiểu cách hệ thống tạo ra các báo cáo tự động] đòi hỏi các kỹ năng kỹ thuật.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To underSTAND HOW the SYStem creATES AUtomated rePORTS] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres", để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to underSTAND HOW the SYStem creATES AUtomated rePORTS] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres", để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem creATES AUtomated rePORTS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] "system" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
       
@@ -945,16 +945,16 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the MEEting FOcused [on WHY the deSIGner creAted COMplex LAYouts].</li>
+          <li>the MEEting FOcused [on WHY the deSIGNer creAted COMplex LAYouts].</li>
           <li className="margin-bottom-20 list-none">Cuộc họp đã tập trung [vào lý do tại sao nhà thiết kế lại tạo ra các bố cục phức tạp].</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [on WHY the deSIGner creAted COMplex LAYouts] - [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm/nội dung tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "FOcused". Bản chất là [prepoSITion PHRASE][GIỚI CỤM] biểu thị dưới dạng một vùng mã xác lập nội dung lớn bắt đầu bằng [prepoSITion][GIỚI] "on".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [on WHY the deSIGNer creAted COMplex LAYouts] - [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm/nội dung tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "FOcused". Bản chất là [prepoSITion PHRASE][GIỚI CỤM] biểu thị dưới dạng một vùng mã xác lập nội dung lớn bắt đầu bằng [prepoSITion][GIỚI] "on".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the deSIGner creAted COMplex LAYouts] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "on" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] riêng "the deSIGner" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [ADverb][TRẠNG] "WHY".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the deSIGNer creAted COMplex LAYouts] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "on" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] riêng "the deSIGNer" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [ADverb][TRẠNG] "WHY".</li>
       
         </ul>
 

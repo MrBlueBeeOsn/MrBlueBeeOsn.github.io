@@ -646,12 +646,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the seCURity PATCH proTECTS the SYStem [efFECtively].</li>
+					<li>the seCURity PATCH proTECTS the SYStem [efFECTively].</li>
 					<li className="margin-bottom-20 list-none">Bản vá bảo mật bảo vệ hệ thống [một cách hiệu quả thực tế].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [efFECtively] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động proTECTS.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [efFECTively] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động proTECTS.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [efFECtively] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ nghĩa cách thức, mô hình hóa trạng thái cho hành động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [efFECTively] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ nghĩa cách thức, mô hình hóa trạng thái cho hành động.</li>
 			
 				</ul>
 

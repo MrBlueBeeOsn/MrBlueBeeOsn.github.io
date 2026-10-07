@@ -446,10 +446,10 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[To reSPOND efFECtively in CRIsis situAtions] is the TEAM's MAIN GOAL.</li>
+					<li>[to reSPOND efFECTively in CRIsis situAtions] is the TEAM's MAIN GOAL.</li>
 					<li className="margin-bottom-20 list-none">[Phản ứng hiệu quả trong các tình huống khẩn cấp] là mục tiêu chính của đội.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To reSPOND efFECtively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động trạng thái [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ...". Trong đó "efFECtively" là [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PLAIN FORM][GIẢN DẠNG] "reSPOND" và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND efFECTively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động trạng thái [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ...". Trong đó "efFECTively" là [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PLAIN FORM][GIẢN DẠNG] "reSPOND" và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in CRIsis situAtions] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPOND".</li>
 			
@@ -611,12 +611,16 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[To reSPOND efFECtively to CUStomer deMANDS], the STAFF exTENDed WORKing HOURS.</li>
-					<li className="margin-bottom-20 list-none">[Để phản hồi hiệu quả đối với các yêu cầu của khách hàng], nhân viên đã kéo dài giờ làm việc.</li>
+					<li>[to reSPOND efFECTively to CUStomer deMANDS], the STAFF exTENDed WORKing HOURS.</li>
+					<li className="margin-bottom-20 list-none">[Để đáp ứng hiệu quả nhu cầu của khách hàng], các nhân viên đã kéo dài thời gian làm việc.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To reSPOND efFECtively to CUStomer deMANDS] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "exTENDed" và toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ..." kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND efFECTively to CUStomer deMANDS] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "exTENDed", đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ...". Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CUStomer deMANDS] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPOND".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
+
+					<li className="list-none margin-bottom-10">[efFECTively] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PLAIN FORM][GIẢN DẠNG] "reSPOND". Hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "efFECT" qua biến thể mô tả đặc điểm và thêm hậu tố "ive" và "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+
+					<li className="list-none margin-bottom-10">[to CUStomer deMANDS] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động [PLAIN FORM][GIẢN DẠNG] "reSPOND".</li>
 			
 				</ul>
 
@@ -823,14 +827,14 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[reSPONDing efFECtively to WHAT CUStomers comPLAIN about] imPROVES BRAND LOYalty.</li>
+					<li>[reSPONDing efFECTively to WHAT CUStomers comPLAIN about] imPROVES BRAND LOYalty.</li>
 					<li className="margin-bottom-20 list-none">[Việc phản hồi hiệu quả đối với những gì khách hàng phàn nàn] làm tăng độ trung thành thương hiệu.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing efFECtively to WHAT CUStomers comPLAIN about] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm  đứng trước hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES". Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] lớn phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing efFECTively to WHAT CUStomers comPLAIN about] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm  đứng trước hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES". Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] lớn phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHAT CUStomers comPLAIN about] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "to" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] riêng "CUStomers" và cụm hành động riêng đi sau thành phần [PROnoun][ĐẠI] "WHAT".</li>
 			
@@ -863,14 +867,14 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[To underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] reQUIres RIGorous TESting.</li>
+					<li>[to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] reQUIres RIGorous TESting.</li>
 					<li className="margin-bottom-20 list-none">[Việc hiểu cách hệ thống phản hồi đối với các sự cố mạng] đòi hỏi sự kiểm thử nghiêm ngặt.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] - [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] của hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres RIGorous TESting" để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] - [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] của hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres RIGorous TESting" để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem reSPONDS to NETwork FAIlures] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] "SYStem" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
 			

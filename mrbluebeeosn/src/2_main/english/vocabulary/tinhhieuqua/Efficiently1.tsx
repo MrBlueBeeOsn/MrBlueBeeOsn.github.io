@@ -137,7 +137,7 @@ export default function efFICiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the MEDicine WORKED <Link to="/vocabulary/efFECtively-1">efFECtively</Link>.</li>
+          <li>the MEDicine WORKED <Link to="/vocabulary/efFECTively-1">efFECTively</Link>.</li>
           <li className="margin-bottom-20 list-none">Thuốc có tác dụng hiệu quả.</li>
 
           <li>we NEED to WORK MORE <Link to="/vocabulary/proDUCTively-1">proDUCTively</Link> to MEET the DEADline.</li>
