@@ -153,7 +153,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Phát triển tuyến tính từ [HEAD][LÕI] → [PHRASE][CỤM] → [CLAUSE][ĐIỀU].</li>
 			
 					<li><strong>Chiều ngang</strong> — <strong>Chức năng thực thi</strong>:</li>
-					<li className="list-none">3 chương trình phần mềm cốt lõi được hình thành bao gồm [HEAD as NOUN][LÕI làm DANH] (Dữ liệu/Đầu việc), [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] (Bộ lọc/Mô tả), và [ADverb HEAD][TRẠNG LÕI] (Bối cảnh).</li>
+					<li className="list-none">3 chương trình phần mềm cốt lõi được hình thành bao gồm [NOUN as HEAD][DANH làm LÕI] (Dữ liệu/Đầu việc), [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] (Bộ lọc/Mô tả), và [ADverb HEAD][TRẠNG LÕI] (Bối cảnh).</li>
 			
 				</ul>
 
@@ -342,7 +342,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
           
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [exPLORing ...] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "BROADens".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [...] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] "FREEly" - "tự do", "mindfully" - "một cách có ý thức" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "exPLORing". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the WORLD" - "thế giới", "new CULtures" - "các nền văn hóa mới".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [...] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] "FREEly" - "tự do", "mindfully" - "một cách có ý thức" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "exPLORing". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the WORLD" - "thế giới", "new CULtures" - "các nền văn hóa mới".</li>
       
         </ul>
 
@@ -369,7 +369,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>we inSPECTed the [deSIGNED] BLUEprint.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã kiểm tra bản thiết kế [được phác thảo].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [deSIGNED] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng  "BLUEprint" để hiển thị đặc điểm vật lý của đối tượng đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [deSIGNED] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng  "BLUEprint" để hiển thị đặc điểm vật lý của đối tượng đó.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [deSIGNED] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "deSIGN" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu hiện dưới dạng hạt nhân hành động mang trạng thái bị động.</li>
 			
@@ -384,9 +384,9 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>she exPLAINED the LAYout [exPRESsively].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã giải thích sơ đồ bố trí [một cách đầy biểu cảm].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [exPRESsively] - [ADverb as ADjunct][TRẠNG làm PHỤ] thực thi vai trò bổ nghĩa đứng ngay sau [PREDicator HEAD][VỊ LÕI] "exPLAINED" để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [exPRESsively] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] thực thi vai trò bổ nghĩa đứng ngay sau [PREDicator HEAD][VỊ LÕI] "exPLAINED" để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [exPRESsively] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "exPRESS" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính chất bổ trợ trạng thái.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [exPRESsively] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "exPRESS" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính chất bổ trợ trạng thái.</li>
 			
 				</ul>
 			
@@ -803,7 +803,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>i BOUGHT a [jaPAN-BUILT] deVICE.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã mua một thiết bị [do Nhật chế tạo].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [jaPAN-BUILT] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] thiết lập vị trí ngay trước đối tượng  "deVICE" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [jaPAN-BUILT] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] thiết lập vị trí ngay trước đối tượng  "deVICE" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [jaPAN-BUILT] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "BUILT" mặc thêm tiền tố "Japan-" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] thuộc nhóm chức năng mô tả.</li>
 			

@@ -128,7 +128,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p>Đó là cách học cũ kỹ – cách học biến tiếng Anh thành một môn toán học đầy tính đánh đố.</p>
 
-			<p>Hôm nay, mình sẽ chia sẻ với bạn một tư duy đột phá, một hệ thống tối giản hóa toàn bộ cấu trúc tiếng Anh về một bộ khung duy nhất. Hệ thống này dựa trên một quy luật ghi nhớ siêu trực quan: Hệ thống ma trận logic 3 Chiều Ngang Chức năng: [HEAD as NOUN][LÕI làm DANH] / [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] / [ADverb HEAD][TRẠNG LÕI] và 3 Chiều Dọc Cấp độ: [HEAD][LÕI] - [PHRASE][CỤM] - [CLAUSE][ĐIỀU].</p>
+			<p>Hôm nay, mình sẽ chia sẻ với bạn một tư duy đột phá, một hệ thống tối giản hóa toàn bộ cấu trúc tiếng Anh về một bộ khung duy nhất. Hệ thống này dựa trên một quy luật ghi nhớ siêu trực quan: Hệ thống ma trận logic 3 Chiều Ngang Chức năng: [NOUN as HEAD][DANH làm LÕI] / [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] / [ADverb HEAD][TRẠNG LÕI] và 3 Chiều Dọc Cấp độ: [HEAD][LÕI] - [PHRASE][CỤM] - [CLAUSE][ĐIỀU].</p>
 
 
 
@@ -267,7 +267,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Ví dụ 1: LAUNCHing [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] + the APP [HEAD as NOUN][LÕI làm DANH]</li>
+					<li>Ví dụ 1: LAUNCHing [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] + the APP [NOUN as HEAD][DANH làm LÕI]</li>
 					<li className="margin-bottom-20 list-none">→ LAUNCHing the APP [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU].</li>
 			
 					<li>Ví dụ 2: to OPtimize [to-infiniTIval][TO-NGUYÊN]</li>
@@ -367,7 +367,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">Chiều Ngang Chức năng: [HEAD as NOUN][LÕI làm DANH] / [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] / [ADverb HEAD][TRẠNG LÕI] (Mảnh [Lego] dùng để làm gì?)</h4>
+			<h4 className="margin-y-40">Chiều Ngang Chức năng: [NOUN as HEAD][DANH làm LÕI] / [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] / [ADverb HEAD][TRẠNG LÕI] (Mảnh [Lego] dùng để làm gì?)</h4>
 
 			<p className="text-indent-whole">Khi một Hình thái được đặt vào một vị trí cụ thể trong khung câu, nó sẽ kích hoạt một trong ba chức năng cốt lõi: [<strong>Danh</strong>] / [<strong>Tính</strong>] / [<strong>Trạng</strong>].</p>
 
@@ -375,7 +375,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[LEXical VERB][VỰNG ĐỘNG] hình thành nên chức năng [HEAD as NOUN][LÕI làm DANH], [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH], [ADverb HEAD][TRẠNG LÕI].</li>
+					<li>[LEXical VERB][VỰNG ĐỘNG] hình thành nên chức năng [NOUN as HEAD][DANH làm LÕI], [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI], [ADverb HEAD][TRẠNG LÕI].</li>
 			
 					<li>[CLAUSE][ĐIỀU] hình thành nên chức năng [NOUN PHRASE][DANH CỤM], [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM], [ADjunct][PHỤ].</li>
 
@@ -407,7 +407,7 @@ export default function LegoAssembly1(): React.JSX.Element {
           
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [SWIMming ...] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [...] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] "REGularly" - "thường xuyên" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "SWIMming". Là một [inTRANsitive VERB][NỘI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] về vị trí hay hướng "in the POOL" - "trong hồ bơi".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [...] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] "REGularly" - "thường xuyên" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "SWIMming". Là một [inTRANsitive VERB][NỘI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] về vị trí hay hướng "in the POOL" - "trong hồ bơi".</li>
       
         </ul>
 
@@ -554,7 +554,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>THIS is an [INnovative] soLUtion.</li>
 					<li className="margin-bottom-20 list-none">Đây là một giải pháp [mang tính đổi mới].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [INnovative] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đứng trước  "soLUtion" để bổ nghĩa và tô màu thuộc tính đặc điểm cho giải pháp.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [INnovative] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] đứng trước  "soLUtion" để bổ nghĩa và tô màu thuộc tính đặc điểm cho giải pháp.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [INnovative] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "INnovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng biểu đạt một đặc tính, thuộc tính tĩnh của sự vật.</li>
 			
@@ -599,7 +599,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [with the perSPECtive that FACTS GUIDE deVELopment] đóng vai trò là [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] bổ nghĩa, mô tả đặc điểm thuộc tính cho [NOUN as HEAD][DANH làm LÕI] the SPECialist.</li>
 
-					<li className="list-none">Khối nhỏ bên trong that FACTS GUIDE deVELopment đóng vai trò là [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] làm nhiệm vụ đồng vị, giải thích nội dung trực tiếp cho [HEAD as NOUN][LÕI làm DANH] perSPECtive.</li>
+					<li className="list-none">Khối nhỏ bên trong that FACTS GUIDE deVELopment đóng vai trò là [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] làm nhiệm vụ đồng vị, giải thích nội dung trực tiếp cho [NOUN as HEAD][DANH làm LÕI] perSPECtive.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
@@ -649,9 +649,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the seCURity PATCH proTECTS the SYStem [efFECtively].</li>
 					<li className="margin-bottom-20 list-none">Bản vá bảo mật bảo vệ hệ thống [một cách hiệu quả thực tế].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [efFECtively] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động proTECTS.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [efFECtively] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động proTECTS.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [efFECtively] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ nghĩa cách thức, mô hình hóa trạng thái cho hành động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [efFECtively] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ nghĩa cách thức, mô hình hóa trạng thái cho hành động.</li>
 			
 				</ul>
 
@@ -697,7 +697,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					
 					<li className="list-none">Khối giữa [at the MOment when the upDATe comPLEted] đóng vai trò là [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] bổ sung bối cảnh mốc [Thời] gian cụ thể cho hành động chính iNITiated.</li>
 
-					<li className="list-none">Khối nhỏ bên trong when the upDATe comPLEted đóng vai trò là [RELative CLAUSE][QUAN ĐIỀU] bổ nghĩa tính chất xác định trực tiếp cho [HEAD as NOUN][LÕI làm DANH] MOment.</li>
+					<li className="list-none">Khối nhỏ bên trong when the upDATe comPLEted đóng vai trò là [RELative CLAUSE][QUAN ĐIỀU] bổ nghĩa tính chất xác định trực tiếp cho [NOUN as HEAD][DANH làm LÕI] MOment.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
@@ -769,9 +769,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the PLATform upDATed [SEAMlessly].</li>
 					<li className="margin-bottom-20 list-none">Nền tảng đã cập nhật [một cách mượt mà không gián đoạn].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [SEAMlessly] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động upDATed.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [SEAMlessly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động upDATed.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [SEAMlessly] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "SEAM" mặc thêm (kết hợp) hậu tố "-less" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có vai trò chỉ trạng thái hoàn hảo, không có vết nối.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [SEAMlessly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "SEAM" mặc thêm (kết hợp) hậu tố "-less" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có vai trò chỉ trạng thái hoàn hảo, không có vết nối.</li>
 			
 				</ul>
 			

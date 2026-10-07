@@ -81,7 +81,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. 📦 Chức năng DANH</h3>
 
-			<h4 className="margin-y-40">Cấp độ Cơ – [HEAD as NOUN][LÕI làm DANH]</h4>
+			<h4 className="margin-y-40">Cấp độ Cơ – [NOUN as HEAD][DANH làm LÕI]</h4>
 			
 				<ul className="list-square">
 			
@@ -90,7 +90,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Swimming] – [HEAD as NOUN][LÕI làm DANH] đứng ở vị trí chỉ toàn bộ sự việc làm trung tâm cho câu</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Swimming] – [NOUN as HEAD][DANH làm LÕI] đứng ở vị trí chỉ toàn bộ sự việc làm trung tâm cho câu</li>
 			
 				</ul>
 
@@ -128,7 +128,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. 📦 Chức năng TÍNH</h3>
 
-			<h4 className="margin-y-40">Cấp độ Cơ – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH]</h4>
+			<h4 className="margin-y-40">Cấp độ Cơ – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI]</h4>
 			
 				<ul className="list-square">
 			
@@ -137,7 +137,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [sparkling] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [sparkling] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] bổ sung ý nghĩa cho [DANH] personality</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [sparkling] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] bổ sung ý nghĩa cho [DANH] personality</li>
 			
 				</ul>
 
@@ -182,14 +182,14 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He answered [politely].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [một cách lịch sự].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [politely] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [politely] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [politely] – [ADverb HEAD][TRẠNG LÕI] làm rõ cách thức cho [ĐỘNG] answered</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Cụm – [ADverb as ADjunct][TRẠNG làm PHỤ]</h4>
+			<h4 className="margin-y-40">Cấp độ Cụm – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ]</h4>
 					
 			<p className="margin-top-20 text-indent-whole"></p>
 			
@@ -200,12 +200,12 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to pass the exam] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] nguyên mẫu chỉ mục đích</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa cho việc studies nêu mục đích</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] bổ nghĩa cho việc studies nêu mục đích</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Câu – [ADverb as ADjunct][TRẠNG làm PHỤ]</h4>
+			<h4 className="margin-y-40">Cấp độ Câu – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ]</h4>
 			
 				<ul className="list-square">
 			
@@ -214,7 +214,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [because it is raining] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] có it và [ĐỘNG] is raining</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it is raining] – [ADverb as ADjunct][TRẠNG làm PHỤ] giải thích nguyên nhân cho hành động will stay home</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it is raining] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] giải thích nguyên nhân cho hành động will stay home</li>
 			
 				</ul>
 		
@@ -342,7 +342,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>[______] is fun.</li>
 					<li className="margin-bottom-20 list-none">[Chạy bộ] thì vui.</li>
 			
-					<li className="list-none">[Running] – [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] → chức năng [HEAD as NOUN][LÕI làm DANH]</li>
+					<li className="list-none">[Running] – [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] → chức năng [NOUN as HEAD][DANH làm LÕI]</li>
 			
 				</ul>
 			

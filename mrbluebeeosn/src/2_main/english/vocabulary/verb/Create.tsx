@@ -161,6 +161,10 @@ export default function creATE(): React.JSX.Element {
             <HashLink smooth to="#14">14</HashLink>
           </span> &nbsp;
 
+        </p>
+
+        <p className="example-sentence text-center">
+
           <span className="highlight-255-padding-0-4 text-border" >
             <HashLink smooth to="#Case-1">Case 1</HashLink>
           </span> &nbsp;
@@ -348,20 +352,20 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>[the arTIStic creAtion from the LOcal deSIGner] imPRESSED the AUdience.</li>
-          <li className="margin-bottom-20 list-none">[Tác phẩm sáng tạo từ nhà thiết kế địa phương] đã làm ấn tượng khán giả.</li>
+          <li className="margin-bottom-20 list-none">[Tác phẩm nghệ thuật của nhà thiết kế địa phương] đã gây ấn tượng mạnh với khán giả.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the arTIStic creAtion from the LOcal deSIGner] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [SENtence][CÂU] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu, kích hoạt và cung cấp năng lượng cho bộ nguồn [PRETerite FORM][KHỨ DẠNG] "imPRESSED".</li>
-    
-          <li className="list-none margin-bottom-10"><strong>Khối giữa</strong> (<strong>Trước</strong>): [arTIStic] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD NOUN][LÕI DANH] "creAtion".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the arTIStic creAtion from the LOcal deSIGner] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPRESSED", đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+          
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối giữa</strong> (<strong>Sau</strong>): [from the LOcal deSIGner] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [HEAD NOUN][LÕI DANH] "creAtion".</li>
-          
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the LOcal deSIGner] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [prepoSITion][GIỚI] "from".</li>
+          <li className="list-none margin-bottom-10">[arTIStic] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "creAtion".</li>
+
+          <li className="list-none margin-bottom-10">[from the LOcal deSIGner] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "creAtion".</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as diRECT OBject</strong>][<strong>DANH CỤM làm TRỰC TÂN</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="2">Ví dụ 2: [creAtive] \crē Ā tive\ /kriːˈeɪtɪv/</p>
       
@@ -370,27 +374,29 @@ export default function creATE(): React.JSX.Element {
           <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIres [a creAtive TEAM].</li>
           <li className="margin-bottom-20 list-none">Mỗi bộ phận thiết kế sản phẩm đều yêu cầu [một đội ngũ có tính sáng tạo].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a creAtive TEAM] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a creAtive TEAM] - [NOUN PHRASE as diRECT OBject][DANH CỤM làm TRỰC TÂN] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: creAtive - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] kích hoạt bộ quét đặt ngay trước đối tượng  "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtive] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài có khả năng mô tả tính chất đặc điểm của [NOUN as HEAD][DANH làm LÕI] "TEAM".</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành 3 chức năng song song</strong></p>
 
       <p className="margin-top-20 text-indent-whole" id="3">Ví dụ 3: [creAtively] \crē Ā tive ly\ /kriːˈeɪtɪvli/</p>
       
         <ul className="list-square">
       
-          <li>the ARtist SOLVED [the PROBlem creAtively during the PROject].</li>
-          <li className="margin-bottom-20 list-none">Nghệ sĩ đã giải quyết [vấn đề một cách sáng tạo trong suốt dự án].</li>
-      
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the PROBlem creAtively during the PROject] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED".</li>
+          <li>the ARtist SOLVED [the PROBlem] [creAtively] [during the PROject].</li>
+          <li className="margin-bottom-20 list-none">Nghệ sĩ đã giải quyết [vấn đề] [một cách sáng tạo] [trong suốt dự án].</li>
 
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtively] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "creATE" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
-          
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [during the PROject] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] làm thành phần bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED" để xác định cách thức diễn ra. Bản chất là [prepoSITtion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
+
+          <li className="list-none margin-bottom-10">[the PROBlem] - [NOUN PHRASE as diRECT OBject][DANH CỤM làm TRỰC TÂN] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED".</li>
+
+          <li className="list-none margin-bottom-10">[creAtively] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED". Hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "creATE" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+
+          <li className="list-none margin-bottom-10">[during the PROject] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED" để xác định khung thời gian diễn ra.</li>
       
         </ul>
 
@@ -1039,7 +1045,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [a creAtive TEAM] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: creAtive - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] thiết lập vị trí ngay trước đối tượng  "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: creAtive - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] thiết lập vị trí ngay trước đối tượng  "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
         </ul>
 

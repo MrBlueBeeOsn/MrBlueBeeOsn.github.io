@@ -110,7 +110,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[running], [happiness]</li>
-					<li className="margin-bottom-20 list-none">– [HEAD as NOUN][LÕI làm DANH]</li>
+					<li className="margin-bottom-20 list-none">– [NOUN as HEAD][DANH làm LÕI]</li>
 			
 					<li>[reading books], [to win a prize]</li>
 					<li className="margin-bottom-20 list-none">– [NOUN PHRASE][DANH CỤM]</li>
@@ -126,7 +126,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[beautiful], [sparkling]</li>
-					<li className="margin-bottom-20 list-none">– [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH]</li>
+					<li className="margin-bottom-20 list-none">– [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI]</li>
 			
 					<li>[too hot to handle], [full of joy]</li>
 					<li className="margin-bottom-20 list-none">– [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</li>
@@ -145,10 +145,10 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">– [ADverb HEAD][TRẠNG LÕI]</li>
 			
 					<li>[to earn money], [with great care]</li>
-					<li className="margin-bottom-20 list-none">– [ADverb as ADjunct][TRẠNG làm PHỤ]</li>
+					<li className="margin-bottom-20 list-none">– [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ]</li>
 			
 					<li>[because it rained], [when you arrive]</li>
-					<li className="list-none">– [ADverb as ADjunct][TRẠNG làm PHỤ]</li>
+					<li className="list-none">– [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ]</li>
 			
 				</ul>
 			
@@ -242,7 +242,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Running] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "Run" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Running] – [HEAD as NOUN][LÕI làm DANH] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu, chỉ đối tượng chính của toàn bộ ý).</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Running] – [NOUN as HEAD][DANH làm LÕI] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu, chỉ đối tượng chính của toàn bộ ý).</li>
 			
 				</ul>
 			
@@ -305,7 +305,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [sparkling] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [sparkling] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] bổ nghĩa trực tiếp cho necklace.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [sparkling] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] bổ nghĩa trực tiếp cho necklace.</li>
 			
 				</ul>
 			
@@ -365,7 +365,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to pass the exam] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng nguyên mẫu.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADverb as ADjunct][TRẠNG làm PHỤ] chỉ mục đích, bổ nghĩa cho studies hard.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] chỉ mục đích, bổ nghĩa cho studies hard.</li>
 			
 				</ul>
 			
@@ -379,7 +379,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [because it was raining heavily] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] bên trong có cặp it + was raining.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it was raining heavily] – [ADverb as ADjunct][TRẠNG làm PHỤ] chỉ nguyên nhân, bổ nghĩa cho hành động stayed.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it was raining heavily] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] chỉ nguyên nhân, bổ nghĩa cho hành động stayed.</li>
 			
 				</ul>
 			
@@ -728,7 +728,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>[______] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Học tập] thì thú vị.</li>
 			
-					<li className="list-none">[Learning] – [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] → [HEAD as NOUN][LÕI làm DANH] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu).</li>
+					<li className="list-none">[Learning] – [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] → [NOUN as HEAD][DANH làm LÕI] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu).</li>
 			
 				</ul>
 
@@ -794,7 +794,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The [______] man is a doctor.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [thân thiện] là bác sĩ.</li>
 			
-					<li className="list-none">[friendly] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] – vẫn bổ nghĩa cho man.</li>
+					<li className="list-none">[friendly] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] – vẫn bổ nghĩa cho man.</li>
 			
 				</ul>
 			
@@ -880,7 +880,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The [______] teacher is very kind.</li>
 					<li className="margin-bottom-20 list-none">Người giáo viên [kiên nhẫn] thì rất tử tế.</li>
 			
-					<li className="list-none">[patient] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] – bổ nghĩa cho teacher.</li>
+					<li className="list-none">[patient] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] – bổ nghĩa cho teacher.</li>
 			
 				</ul>
 			

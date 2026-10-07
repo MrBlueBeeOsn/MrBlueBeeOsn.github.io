@@ -161,6 +161,10 @@ export default function reSPOND(): React.JSX.Element {
 							<HashLink smooth to="#14">14</HashLink>
 						</span> &nbsp;
 
+					</p>
+
+					<p className="example-sentence text-center">
+
 						<span className="highlight-255-padding-0-4 text-border" >
 							<HashLink smooth to="#Case-1">Case 1</HashLink>
 						</span> &nbsp;
@@ -350,20 +354,20 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
       
           <li>[the RAPid reSPONSE from the supPORT TEAM] imPRESSED the CUStomers.</li>
-          <li className="margin-bottom-20 list-none">[Sự phản hồi nhanh chóng từ đội ngũ hỗ trợ] đã làm ấn tượng các khách hàng.</li>
+          <li className="margin-bottom-20 list-none">[Phản hồi nhanh chóng từ đội ngũ hỗ trợ] đã gây ấn tượng mạnh với khách hàng.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the RAPid reSPONSE from the supPORT TEAM] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [SENtence][CÂU] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu, kích hoạt và cung cấp năng lượng cho bộ nguồn [PRETerite FORM][KHỨ DẠNG] "imPRESSED".</li>
-    
-          <li className="list-none margin-bottom-10"><strong>Khối giữa</strong> (<strong>Trước</strong>): [RAPid] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD NOUN][LÕI DANH] "reSPONSE".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the RAPid reSPONSE from the supPORT TEAM] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPRESSED", đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu. Bên trong chứa </li>
+          
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối giữa</strong> (<strong>Sau</strong>): [from the supPORT TEAM] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [HEAD NOUN][LÕI DANH] "reSPONSE".</li>
-          
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the supPORT TEAM] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [prepoSITion][GIỚI] "from".</li>
+					<li className="list-none margin-bottom-10">[RAPid] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "reSPONSE".</li>
+
+					<li className="list-none margin-bottom-10">[from the supPORT TEAM] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "reSPONSE".</li>
       
         </ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as diRECT OBject</strong>][<strong>DANH CỤM làm TRỰC TÂN</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="2">Ví dụ 2: [reSPONsive] \re SPON sive\ /rɪˈspɒnsɪv/</p>
 			
@@ -372,27 +376,29 @@ export default function reSPOND(): React.JSX.Element {
 					<li><strong>ever</strong>y CUStomer SERvice dePARTment reQUIres [a reSPONsive TEAM].</li>
 					<li className="margin-bottom-20 list-none">Mỗi bộ phận dịch vụ khách hàng đều yêu cầu [một đội ngũ có độ phản hồi tốt/nhanh nhạy].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a reSPONsive TEAM] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a reSPONsive TEAM] - [NOUN PHRASE as diRECT OBject][DANH CỤM làm TRỰC TÂN] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres".</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: reSPONsive - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "TEAM". Hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "reSPOND" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] kích hoạt bộ quét đặt ngay trước đối tượng  "TEAM" để hiển thị đặc điểm của đối tượng đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONsive] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "TEAM". Hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "reSPOND" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài có khả năng mô tả tính chất đặc điểm của [NOUN as HEAD][DANH làm LÕI] "TEAM".</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành 3 chức năng song song</strong></p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ 3: [reSPONsively] \re SPON sive ly\ /rɪˈspɒnsɪvli/</p>
+			<p className="margin-top-20 text-indent-whole" id="3">Ví dụ 3: [reSPONsively] \re SPON sive ly\ /rɪˈspɒnsɪvli/</p>
 			
 				<ul className="list-square">
 			
-					<li>the SYStem SOLVED [the QUEry reSPONsively during the TEST].</li>
-					<li className="margin-bottom-20 list-none">Hệ thống đã giải quyết [truy vấn một cách nhanh nhạy trong suốt bài kiểm tra].</li>
-			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the QUEry reSPONsively during the TEST] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG]"SOLVED".</li>
+					<li>the SYStem SOLVED [the QUEry] [reSPONsively] [during the TEST].</li>
+					<li className="margin-bottom-20 list-none">Hệ thống đã giải quyết [truy vấn] [một cách nhanh nhạy] [trong suốt bài kiểm tra].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONsively during the TEST] - [ADverb as ADjunct][TRẠNG làm PHỤ] làm thành phần bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED" để xác định cách thức diễn ra. Hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "reSPOND" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ trợ bối cảnh phương thức.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [during the TEST] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] làm thành phần bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED" để xác định cách thức diễn ra. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED".</li>
+					<li className="list-none margin-bottom-10">[the QUEry] - [NOUN PHRASE as diRECT OBject][DANH CỤM làm TRỰC TÂN] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED".</li>
+
+					<li className="list-none margin-bottom-10">[reSPONsively] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED". Hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "reSPOND" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+
+					<li className="list-none margin-bottom-10">[during the TEST] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED" để xác định khung thời gian diễn ra.</li>
 			
 				</ul>
 
@@ -443,7 +449,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[To reSPOND efFECtively in CRIsis situAtions] is the TEAM's MAIN GOAL.</li>
 					<li className="margin-bottom-20 list-none">[Phản ứng hiệu quả trong các tình huống khẩn cấp] là mục tiêu chính của đội.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To reSPOND efFECtively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động trạng thái [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ...". Trong đó "efFECtively" là [ADverb as ADjunct][TRẠNG làm PHỤ] của hành động [PLAIN FORM][GIẢN DẠNG] "reSPOND" và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [To reSPOND efFECtively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động trạng thái [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ...". Trong đó "efFECtively" là [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PLAIN FORM][GIẢN DẠNG] "reSPOND" và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in CRIsis situAtions] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPOND".</li>
 			
@@ -1022,7 +1028,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> gốc: [a SERvice which reSPONDS to SYStem ISsues autoMATically] - [NOUN PHRASE][DANH CỤM] chứa một [RELative CLAUSE][QUAN ĐIỀU] "which ..." để bổ nghĩa cho [HEA as NOUN][LÕI làm DANH] "SERvice".</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [a SERvice which reSPONDS to SYStem ISsues autoMATically] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ]. Bản chất là [RELative CLAUSE][QUAN CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [PROnoun as SUBject ][ĐẠI làm CHỦ] "which" và cụm hành động phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [HEAD as NOUN][LÕI làm DANH] "SERvice".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [a SERvice which reSPONDS to SYStem ISsues autoMATically] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ]. Bản chất là [RELative CLAUSE][QUAN CÂU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [PROnoun as SUBject ][ĐẠI làm CHỦ] "which" và cụm hành động phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [NOUN as HEAD][DANH làm LÕI] "SERvice".</li>
 			
 				</ul>
 			
@@ -1036,7 +1042,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [a reSPONsive SERvice] - </li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] "SERvice" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Bản chất là [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SERvice" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Bản chất là [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
 			
 				</ul>
 

@@ -151,7 +151,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], biểu thị hành động được đóng gói thành một khái niệm.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Swimming] – [HEAD as NOUN][LÕI làm DANH] đứng ở đầu câu, đóng vai trò thực thể trung tâm mà câu hướng đến.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Swimming] – [NOUN as HEAD][DANH làm LÕI] đứng ở đầu câu, đóng vai trò thực thể trung tâm mà câu hướng đến.</li>
 			
 				</ul>
 			
@@ -196,7 +196,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [shining] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "shine" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], miêu tả trạng thái đang diễn ra.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [shining] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đứng trước star, bổ sung đặc điểm cho thực thể star.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [shining] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] đứng trước star, bổ sung đặc điểm cho thực thể star.</li>
 			
 				</ul>
 			
@@ -240,7 +240,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He spoke [calmly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy nói [một cách bình tĩnh].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [calmly] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "calm" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [calmly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "calm" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [calmly] – [ADverb HEAD][TRẠNG LÕI] đứng cạnh hành động spoke, bổ sung ý nghĩa về cách thức thực hiện hành động.</li>
 			
@@ -256,7 +256,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to travel abroad] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] gồm hành động nguyên mẫu có to và abroad.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to travel abroad] – [ADverb as ADjunct][TRẠNG làm PHỤ] đứng cuối câu, bổ sung ý nghĩa về mục đích cho hành động saves money.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to travel abroad] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] đứng cuối câu, bổ sung ý nghĩa về mục đích cho hành động saves money.</li>
 			
 				</ul>
 			
@@ -270,7 +270,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Although it was late] – [prepoSITion PHRASE][GIỚI CỤM] có it là thành phần thực hiện hành động, was là ĐỘNG, late là thành phần bổ sung.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Although it was late] – [ADverb as ADjunct][TRẠNG làm PHỤ] đứng đầu câu, bổ sung ý nghĩa về sự nhượng bộ cho toàn bộ câu chính.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Although it was late] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] đứng đầu câu, bổ sung ý nghĩa về sự nhượng bộ cho toàn bộ câu chính.</li>
 			
 				</ul>
 			
@@ -320,7 +320,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Jogging] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "Jog" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Jogging] – [HEAD as NOUN][LÕI làm DANH] đứng ở đầu câu, là thực thể trung tâm.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Jogging] – [NOUN as HEAD][DANH làm LÕI] đứng ở đầu câu, là thực thể trung tâm.</li>
 			
 				</ul>
 			
@@ -351,7 +351,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [his kindness] – đây là một khối [DANH] thuần túy, không xuất phát từ ĐỘNG.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [his kindness] – [HEAD as NOUN][LÕI làm DANH] đứng sau hành động remember, là [OBject PROnoun] của hành động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [his kindness] – [NOUN as HEAD][DANH làm LÕI] đứng sau hành động remember, là [OBject PROnoun] của hành động.</li>
 			
 				</ul>
 			
@@ -414,7 +414,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to share the good news] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng nguyên mẫu mục đích.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to share the good news] – [ADverb as ADjunct][TRẠNG làm PHỤ] bổ sung ý nghĩa mục đích cho hành động called.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to share the good news] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] bổ sung ý nghĩa mục đích cho hành động called.</li>
 			
 				</ul>
 			
@@ -428,7 +428,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [so that she could share the good news] – [conJUNCtional CLAUSE][LIÊN ĐIỀU].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [so that she could share the good news] – [ADverb as ADjunct][TRẠNG làm PHỤ] vẫn bổ sung ý nghĩa mục đích.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [so that she could share the good news] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] vẫn bổ sung ý nghĩa mục đích.</li>
 			
 				</ul>
 			
@@ -444,7 +444,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He drives [carefully].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [cẩn thận].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [carefully] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "care" mặc thêm (kết hợp) hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [carefully] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "care" mặc thêm (kết hợp) hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [carefully] – [ADverb HEAD][TRẠNG LÕI] bổ nghĩa cho hành động drives.</li>
 			
@@ -460,7 +460,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [with great care] – [prepoSITion PHRASE][GIỚI CỤM], một cụm chỉ cách thức, bắt đầu bằng with.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with great care] – [ADverb as ADjunct][TRẠNG làm PHỤ] vẫn bổ nghĩa cho hành động drives.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with great care] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] vẫn bổ nghĩa cho hành động drives.</li>
 			
 				</ul>
 			

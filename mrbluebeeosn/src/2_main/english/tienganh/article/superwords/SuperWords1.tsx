@@ -137,7 +137,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li><strong>Chiều dọc</strong> — <strong>Các Cấp độ của Hình thái</strong>: [HEAD][LÕI] → [PHRASE][CỤM] → [CLAUSE][ĐIỀU].</li>
 			
-					<li><strong>Chiều ngang</strong> — <strong>3 Chức năng cốt lõi</strong>: [HEAD as NOUN][LÕI làm DANH] — [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] — [ADverb HEAD][TRẠNG LÕI].</li>
+					<li><strong>Chiều ngang</strong> — <strong>3 Chức năng cốt lõi</strong>: [NOUN as HEAD][DANH làm LÕI] — [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] — [ADverb HEAD][TRẠNG LÕI].</li>
 			
 				</ul>
 			
@@ -219,7 +219,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			
 
-			<p className="margin-top-20">Bên cạnh đó, ngôn ngữ còn sử dụng một loại hình thái khối đặc biệt không xuất phát từ [LEXical VERB][VỰNG ĐỘNG], đó là [prepoSITion PHRASE][GIỚI CỤM]. Khối hình thái này chuyên đảm nhận việc sinh ra chức năng [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] và [ADverb HEAD][TRẠNG LÕI] ở cấp độ [PHRASE][CỤM].</p>
+			<p className="margin-top-20">Bên cạnh đó, ngôn ngữ còn sử dụng một loại hình thái khối đặc biệt không xuất phát từ [LEXical VERB][VỰNG ĐỘNG], đó là [prepoSITion PHRASE][GIỚI CỤM]. Khối hình thái này chuyên đảm nhận việc sinh ra chức năng [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] và [ADverb HEAD][TRẠNG LÕI] ở cấp độ [PHRASE][CỤM].</p>
 			
 			<p>Hãy nhớ hai định nghĩa nền tảng về câu:</p>
 			
@@ -312,7 +312,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>exPANDing [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] + the business [HEAD as NOUN][LÕI làm DANH]</li>
+					<li>exPANDing [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] + the business [NOUN as HEAD][DANH làm LÕI]</li>
 					<li className="margin-bottom-20 list-none">→ exPANDing the BUSIness [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU].</li>
 			
 				</ul>
@@ -338,7 +338,7 @@ export default function SuperWords1(): React.JSX.Element {
           
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [OPtimizing ...] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng vị trí khởi đầu cho toàn câu lớn, kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [...] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] "efFICiently" - "hiệu quả" hay "conTINuously" - "liên tục" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "OPtimizing". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the DAtabase" - "cơ sở dữ liệu" hay "the CODE" - "mã nguồn".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [...] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] "efFICiently" - "hiệu quả" hay "conTINuously" - "liên tục" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "OPtimizing". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể tự nhiên có có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the DAtabase" - "cơ sở dữ liệu" hay "the CODE" - "mã nguồn".</li>
       
         </ul>
 
@@ -364,7 +364,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>we FOUND an [unexPECted] soLUtion.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã tìm ra một giải pháp [bất ngờ/không mong đợi].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [unexPECted] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đang đứng vị trí trước và bổ nghĩa, mô tả tính chất cho  "soLUtion" giải pháp.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [unexPECted] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] đang đứng vị trí trước và bổ nghĩa, mô tả tính chất cho  "soLUtion" giải pháp.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [unexPECted] – [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "exPECT" mặc thêm tiền tố phủ định "un-" kết hợp với hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính mô tả tĩnh.</li>
 					
@@ -478,7 +478,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>we SCHEDuled the CONference [in the afterNOON].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã lên lịch cuộc họp [vào buổi chiều].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the afterNOON] – [ADverb as ADjunct][TRẠNG làm PHỤ] đang đứng vị trí sau để bổ nghĩa cho toàn câu bằng cách thiết lập bối cảnh thời gian cho hành động lên lịch.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the afterNOON] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] đang đứng vị trí sau để bổ nghĩa cho toàn câu bằng cách thiết lập bối cảnh thời gian cho hành động lên lịch.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in the afterNOON] – [prepoSITion PHRASE][GIỚI CỤM] thể hiện một khối thông tin định vị thời gian bắt đầu bằng [prepoSITion][GIỚI] "in".</li>
 			
@@ -597,7 +597,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[should they reQUEST asSIStance], the supPORT LINE will OPEN.</li>
 					<li className="margin-bottom-20 list-none">[Nếu họ yêu cầu sự hỗ trợ], đường dây trợ giúp sẽ mở cửa.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should they reQUEST asSIStance] – [ADverb as ADjunct][TRẠNG làm PHỤ] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should they reQUEST asSIStance] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [should they reQUEST asSIStance] – [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
 			
@@ -716,7 +716,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>they CANceled the LAUNCH [be<strong>cause</strong> the deVICE overHEATed <strong>un</strong>der PRESsure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [vì thiết bị quá nhiệt dưới áp lực].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the deVICE overHEATed <strong>un</strong>der PRESsure] – [ADverb as ADjunct][TRẠNG làm PHỤ] đang đứng vị trí ở cuối để bổ nghĩa cho toàn câu lớn bằng cách thiết lập nguyên nhân diễn ra sự việc.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the deVICE overHEATed <strong>un</strong>der PRESsure] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] đang đứng vị trí ở cuối để bổ nghĩa cho toàn câu lớn bằng cách thiết lập nguyên nhân diễn ra sự việc.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> the deVICE overHEATed <strong>un</strong>der PRESsure] – [prepoSITion PHRASE][GIỚI CỤM] thể hiện một cấu trúc câu con hoàn chỉnh có khối liên kết chỉ nguyên nhân "be<strong>cause</strong>" dẫn dắt ở đầu.</li>
 			
@@ -733,7 +733,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>they CANceled the LAUNCH [due to the deVICE overHEATing <strong>un</strong>der PRESsure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [do thiết bị gặp tình trạng quá nhiệt dưới áp lực].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [ADverb as ADjunct][TRẠNG làm PHỤ] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [due to the deVICE overHEATing <strong>un</strong>der PRESsure] – [prepoSITion PHRASE][GIỚI CỤM] thể hiện khối thông tin mở rộng bắt đầu bằng [prepoSITion][GIỚI] "due", kéo theo [prepoSITion PHRASE][GIỚI CỤM] "to the deVICE" và một dạng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "overHEATing" được bọc lót -ing đi sau để cụm hóa [LEXical VERB][VỰNG ĐỘNG] "overHEAT".</li>
 			
@@ -750,7 +750,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>they CANceled the LAUNCH [be<strong>cause</strong> of the HARDware FAIlure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [vì lỗi phần cứng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of the HARDware FAIlure] – [ADverb as ADjunct][TRẠNG làm PHỤ] đang đứng vị trí ở cuối câu để làm mốc thiết lập bối cảnh nguyên nhân, bổ nghĩa cho toàn câu lớn.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> of the HARDware FAIlure] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] đang đứng vị trí ở cuối câu để làm mốc thiết lập bối cảnh nguyên nhân, bổ nghĩa cho toàn câu lớn.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> of the HARDware FAIlure] – [prepoSITion PHRASE][GIỚI CỤM] thể hiện một khối thông tin không chứa hành động, bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>" điều phối trực tiếp một [prepoSITion PHRASE][GIỚI CỤM] phía sau.</li>
 			
@@ -770,7 +770,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li>Nó thuộc về hệ thống phân loại [PREDicator HEAD][VỊ LÕI]: [HEAD][LÕI], [PHRASE][CỤM], [CLAUSE][ĐIỀU] hay thuộc về khối [prepoSITion PHRASE][GIỚI CỤM]?</li>
 			
-					<li>Sau đó, hãy nhìn vào vị trí đứng của nó để gọi tên đúng Chức năng [HEAD as NOUN][LÕI làm DANH] — [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] — [ADverb HEAD][TRẠNG LÕI].</li>
+					<li>Sau đó, hãy nhìn vào vị trí đứng của nó để gọi tên đúng Chức năng [NOUN as HEAD][DANH làm LÕI] — [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] — [ADverb HEAD][TRẠNG LÕI].</li>
 			
 				</ul>
 			

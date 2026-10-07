@@ -135,6 +135,10 @@ export default function CLEAR(): React.JSX.Element {
             <HashLink smooth to="#14">14</HashLink>
           </span> &nbsp;
 
+        </p>
+
+        <p className="example-sentence text-center">
+
           <span className="highlight-255-padding-0-4 text-border" >
             <HashLink smooth to="#Case-1">Case 1</HashLink>
           </span> &nbsp;
@@ -350,18 +354,16 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>[the CLARity of this inSTRUCTion] HELPED EVERyone.</li>
-          <li className="margin-bottom-20 list-none">[Sự rõ ràng của lời hướng dẫn này] đã giúp đỡ mọi người.</li>
+          <li className="margin-bottom-20 list-none">[Sự rõ ràng của hướng dẫn này] đã giúp ích cho tất cả mọi người.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the CLARity of this inSTRUCTion] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [SENtence][CÂU] đứng vị trí khởi đầu cho toàn câu lớn, kích hoạt và cung cấp năng lượng cho bộ nguồn [PRETerite FORM][KHỨ DẠNG] "HELPED".</li>
-    
-          <li className="list-none margin-bottom-10"><strong>Khối giữa</strong>: [of this inSTRUCTion] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [HEAD NOUN][LÕI DANH] "CLARity".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the CLARity of this inSTRUCTion] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "HELPED", đứng vị trí khởi đầu cho toàn câu lớn.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [this inSTRUCTion] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [prepoSITion][GIỚI] "of".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [of this inSTRUCTion] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "CLARity".</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as diRECT OBject</strong>][<strong>DANH CỤM làm TRỰC TÂN</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="2">Ví dụ 2: /klɪə(r)/</p>
       
@@ -370,25 +372,27 @@ export default function CLEAR(): React.JSX.Element {
           <li>we NEED [a CLEAR explaNAtion].</li>
           <li className="margin-bottom-20 list-none">Chúng ta cần [một lời giải thích rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a CLEAR explaNAtion] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a CLEAR explaNAtion] - [NOUN PHRASE as diRECT OBject][DANH CỤM làm TRỰC TÂN] của hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "NEED".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEAR] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "CLEAR" khi giữ nguyên trạng thái nhưng chuyển đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng [ADjective][TÍNH] mô tả tính chất đặc điểm dưới dạng từ đơn lẻ. [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng  "explaNAtion" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEAR] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "CLEAR" có diện mạo bên ngoài có khả năng mô tả tính chất đặc điểm của [NOUN as HEAD][DANH làm LÕI] "explaNAtion".</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>ADverb HEAD</strong>][<strong>TRẠNG LÕI</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành 2 chức năng song song</strong></p>
 
       <p className="margin-top-20 text-indent-whole" id="3">Ví dụ 3: /ˈklɪəli/</p>
       
         <ul className="list-square">
       
-          <li>she exPLAINED [the PROCess CLEARly].</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã giải thích [quy trình một cách rõ ràng].</li>
+          <li>she exPLAINED [the PROCess] [CLEARly].</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã giải thích [quy trình] [một cách rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the PROCess CLEARly]</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
+
+          <li className="list-none margin-bottom-10">[the PROCess] - [NOUN PHRASE as diRECT OBject][DANH CỤM làm TRỰC TÂN] của hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARly] - [ADverb as ADjunct][TRẠNG làm PHỤ] thực thi vai trò làm thành phần bổ nghĩa đứng sau [PREDicator HEAD][VỊ LÕI] "exPLAINED" để xác định bối cảnh cách thức. Bản chất là [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "CLEAR" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
+          <li className="list-none margin-bottom-10">[CLEARly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED". Hình thành từ khối [ADjective][TÍNH] nguyên bản "CLEAR" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
       
         </ul>
 
@@ -905,7 +909,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [the perFORmance be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPROVED".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [ADverb as ADjunct][TRẠNG làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPROVED", hiển thị dưới dạng khối mã chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] "system" và hạt nhân [PRETerite FORM][KHỨ DẠNG] "CLEARED" đi sau [prepoSITion][GIỚI] "be<strong>cause</strong>".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPROVED", hiển thị dưới dạng khối mã chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] "system" và hạt nhân [PRETerite FORM][KHỨ DẠNG] "CLEARED" đi sau [prepoSITion][GIỚI] "be<strong>cause</strong>".</li>
       
         </ul>
 
@@ -935,7 +939,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [a CLEAR SYStem LAYout] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [CLEAR]- [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần ADjective đơn duy nhất. Thiết lập vị trí ngay trước đối tượng [NOUN PHRASE][DANH CỤM] "SYStem LAYout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [CLEAR]- [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần ADjective đơn duy nhất. Thiết lập vị trí ngay trước đối tượng [NOUN PHRASE][DANH CỤM] "SYStem LAYout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
         </ul>
 

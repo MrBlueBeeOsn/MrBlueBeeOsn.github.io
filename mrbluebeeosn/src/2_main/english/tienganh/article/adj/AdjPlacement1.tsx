@@ -83,11 +83,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 			</div>
 
 
-			<h4 className="margin-bottom-30 text-center">ĐIỂM MẠNH TƯƠNG ĐỒNG: BƯỚC ĐỘT PHÁ GIÚP NGƯỜI VIỆT THỐNG TRỊ TIẾNG ANH HỌC THUẬT VỀ CHỨC NĂNG [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH]</h4>
+			<h4 className="margin-bottom-30 text-center">ĐIỂM MẠNH TƯƠNG ĐỒNG: BƯỚC ĐỘT PHÁ GIÚP NGƯỜI VIỆT THỐNG TRỊ TIẾNG ANH HỌC THUẬT VỀ CHỨC NĂNG [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI]</h4>
 
-			<p>Lối mòn tư duy kìm hãm thế hệ người học tại Việt Nam chính là định kiến: cấu trúc tiếng Anh "ngược" với tiếng Việt. Chúng ta thường bị đóng khung trong quy luật sơ cấp: [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] phải đứng trước [HEAD as NOUN][LÕI làm DANH].</p>
+			<p>Lối mòn tư duy kìm hãm thế hệ người học tại Việt Nam chính là định kiến: cấu trúc tiếng Anh "ngược" với tiếng Việt. Chúng ta thường bị đóng khung trong quy luật sơ cấp: [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] phải đứng trước [NOUN as HEAD][DANH làm LÕI].</p>
 			
-			<p>Tuy nhiên, trong văn viết học thuật và các cấu trúc câu phức, người bản ngữ ưu tiên sử dụng trật tự [HEAD as NOUN][LÕI làm DANH] đứng trước, thành phần bổ nghĩa mang chức năng [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đứng sau. Đây chính là "khóa vàng" giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp.</p>
+			<p>Tuy nhiên, trong văn viết học thuật và các cấu trúc câu phức, người bản ngữ ưu tiên sử dụng trật tự [NOUN as HEAD][DANH làm LÕI] đứng trước, thành phần bổ nghĩa mang chức năng [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] đứng sau. Đây chính là "khóa vàng" giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp.</p>
 			
 
 			{/* 1.  */}
@@ -102,7 +102,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li>[<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>] <strong>đứng trước thành phần bổ nghĩa</strong>:</li>
 					<li className="list-none">→ <strong>Nhấn mạnh Đối tượng</strong></li>
-					<li className="list-none">Khi muốn đối tượng chính làm "mỏ neo", người bản ngữ đặt [HEAD as NOUN][LÕI làm DANH] lên đầu, sau đó mới thả chuỗi thông tin bổ trợ phía sau bằng [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] hoặc [RELative CLAUSE][QUAN ĐIỀU].</li>
+					<li className="list-none">Khi muốn đối tượng chính làm "mỏ neo", người bản ngữ đặt [NOUN as HEAD][DANH làm LÕI] lên đầu, sau đó mới thả chuỗi thông tin bổ trợ phía sau bằng [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] hoặc [RELative CLAUSE][QUAN ĐIỀU].</li>
 			
 				</ul>
 
@@ -200,7 +200,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>FORMulating [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] + a STRATegy [HEAD as NOUN][LÕI làm DANH]</li>
+					<li>FORMulating [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] + a STRATegy [NOUN as HEAD][DANH làm LÕI]</li>
 			
 					<li>➔ FORMulating a STRATegy [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU].</li>
 			
@@ -265,7 +265,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center" id="ADjective-HEAD">3. Chức năng [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH]</h3>
+			<h3 className="margin-y-50 text-center" id="ADjective-HEAD">3. Chức năng [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI]</h3>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>] <strong>cấu tạo từ</strong> [<strong>ROOT ADjective</strong>][<strong>GỐC TÍNH</strong>] <strong>nguyên bản</strong></p>
 			
@@ -274,7 +274,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>she has [SWIFT] communiCAtion SKILLS.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có kỹ năng giao tiếp [nhanh chóng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [SWIFT] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] cài đặt đặc tính cố định cho  "SKILLS".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [SWIFT] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] cài đặt đặc tính cố định cho  "SKILLS".</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [SWIFT] - [ROOT ADjective][GỐC TÍNH] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "SWIFT".</li>
 			
@@ -288,7 +288,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>they dePLOYED an [INnovative] SYStem.</li>
 					<li className="margin-bottom-20 list-none">Họ đã triển khai một hệ thống [đổi mới, sáng tạo].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [INnovative] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] bổ trợ trực tiếp đặc điểm cho  "SYStem".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [INnovative] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] bổ trợ trực tiếp đặc điểm cho  "SYStem".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [INnovative] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "INnovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang đặc tính mới.</li>
 			
@@ -302,7 +302,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>we obSERVED the [inCREAsing] deMAND.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã quan sát nhu cầu [đang gia tăng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [inCREAsing] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] định hình trạng thái động đang phát triển cho  "deMAND".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [inCREAsing] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] định hình trạng thái động đang phát triển cho  "deMAND".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [inCREAsing] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "inCREASE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu thị tính tiếp diễn.</li>
 			
@@ -316,7 +316,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>the [STRUCtured] rePORT was subMITted.</li>
 					<li className="margin-bottom-20 list-none">Bản báo cáo [được cấu trúc hóa] đã được nộp.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [STRUCtured] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] xác lập đặc tính kết quả hoàn thành cho [NOUN as HEAD][DANH làm LÕI] "rePORT".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [STRUCtured] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] xác lập đặc tính kết quả hoàn thành cho [NOUN as HEAD][DANH làm LÕI] "rePORT".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [STRUCtured] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "STRUCture" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu thị trạng thái hoàn tất.</li>
 			
@@ -508,7 +508,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none">Khối giữa: [MAStering CORE THEories which are reQUIred for adVANCED PLACEment] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bám sát phía sau [NOUN as HEAD][DANH làm LÕI] "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which are reQUIred for adVANCED PLACEment - [RELative CLAUSE][QUAN ĐIỀU] bổ nghĩa cho [HEAD as NOUN][LÕI làm DANH] "THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which are reQUIred for adVANCED PLACEment - [RELative CLAUSE][QUAN ĐIỀU] bổ nghĩa cho [NOUN as HEAD][DANH làm LÕI] "THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
 			
 				</ul>
 
@@ -539,7 +539,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to dePLOY AUtomated SYStems which OPtimize WORKflow] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho [NOUN as HEAD][DANH làm LÕI] "deCISion".</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which OPtimize WORKflow - [RELative CLAUSE][QUAN ĐIỀU] bổ nghĩa cho [HEAD as NOUN][LÕI làm DANH] "SYStems" nhằm xác định rõ tính năng của hệ thống.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which OPtimize WORKflow - [RELative CLAUSE][QUAN ĐIỀU] bổ nghĩa cho [NOUN as HEAD][DANH làm LÕI] "SYStems" nhằm xác định rõ tính năng của hệ thống.</li>
 			
 				</ul>
 
@@ -568,7 +568,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [of WHAT they inVEStigated] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] mở rộng thông tin bổ trợ cho [HEAD as NOUN][LÕI làm DANH] "the aNALysis".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [of WHAT they inVEStigated] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] mở rộng thông tin bổ trợ cho [NOUN as HEAD][DANH làm LÕI] "the aNALysis".</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: WHAT they inVEStigated - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
 			
@@ -612,7 +612,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center" id="PARaphrasing">7. PARaphrasing - Chuyển Đổi Chức Năng (Nâng Cấp Tư Duy)</h3>
 
 
-			<h4 className="margin-y-40">A. Chuyển từ [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] ➔ [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</h4>
+			<h4 className="margin-y-40">A. Chuyển từ [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] ➔ [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</h4>
 
 			<p className="text-indent-whole"><strong>Gốc</strong>: [<strong>ADjective HEAD</strong>][<strong>TÍNH LÕI</strong>]</p>
 			
@@ -623,7 +623,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [PROfitable] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "profit" mặc thêm (kết hợp) hậu tố "-able" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][ĐỊNH TÍNH] "PROfitable", chuyên trách cài đặt đặc tính sinh lợi cho đối tượng đi kèm.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [PROfitable] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] cài đặt đặc tính cố định cho [NOUN as HEAD][DANH làm LÕI] "inVESTment".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [PROfitable] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] cài đặt đặc tính cố định cho [NOUN as HEAD][DANH làm LÕI] "inVESTment".</li>
 			
 				</ul>
 			
@@ -697,7 +697,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [efFECtive] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang diện mạo [MODified ADjective][ĐỊNH TÍNH] "efFECtive", chuyên trách cài đặt đặc tính mang lại kết quả cao cho đối tượng đi kèm.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [efFECtive] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] cài đặt nhãn dán thuộc tính cố định, rút gọn thông tin tối đa cho đối tượng [NOUN as HEAD][DANH làm LÕI] "POLicy".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [efFECtive] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] cài đặt nhãn dán thuộc tính cố định, rút gọn thông tin tối đa cho đối tượng [NOUN as HEAD][DANH làm LÕI] "POLicy".</li>
 			
 				</ul>
 			

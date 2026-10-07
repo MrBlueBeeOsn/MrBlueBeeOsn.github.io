@@ -328,7 +328,7 @@ export default function SV1(): React.JSX.Element {
           
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [WRIting ...] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng vị trí khởi đầu cho toàn câu lớn, kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "SHARPens".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [...] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] "DAIly" - "hàng ngày" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "WRIting". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "ESsays" - "tiểu luận".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [...] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] "DAIly" - "hàng ngày" của [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "WRIting". Là một [TRANsitive VERB][NGOẠI ĐỘNG], nó có thể mở rộng câu bằng một [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "ESsays" - "tiểu luận".</li>
       
         </ul>
 
@@ -351,7 +351,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [GROWing] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "GROW" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] phản ánh trạng thái đang vận động liên tục.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [GROWing] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đứng trước [NOUN as HEAD][DANH làm LÕI] "deMAND" nhằm mô tả đặc điểm của đối tượng.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [GROWing] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] đứng trước [NOUN as HEAD][DANH làm LÕI] "deMAND" nhằm mô tả đặc điểm của đối tượng.</li>
 			
 				</ul>
 			
@@ -363,7 +363,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [harMOniously] – [MODified ADVERB][ĐỊNH TRẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "HARmonize" kết hợp các hậu tố "-ous" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính chất phương thức vận hành.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [harMOniously] - [ADverb as ADjunct][TRẠNG làm PHỤ] đứng sau hành động nhằm chỉ ra cách thức thực hiện.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [harMOniously] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] đứng sau hành động nhằm chỉ ra cách thức thực hiện.</li>
 			
 				</ul>
 			
@@ -548,7 +548,7 @@ export default function SV1(): React.JSX.Element {
 					<li>the TEA was SO HOT [i COULDN'T DRINK it].</li>
 					<li className="margin-bottom-20 list-none">Trà quá nóng [đến mức tôi không thể uống được].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [i COULDN'T DRINK it] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] gắn vào phía sau [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] "HOT" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [ADverb HEAD][TRẠNG LÕI] "SO".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [i COULDN'T DRINK it] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] gắn vào phía sau [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "HOT" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [ADverb HEAD][TRẠNG LÕI] "SO".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [i COULDN'T DRINK it] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [PROnoun as SUBject ][ĐẠI làm CHỦ] "i" và cụm hành động gồm [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "COULDN'T" kết hợp với [PLAIN FORM][GIẢN DẠNG] "DRINK".</li>
 			
@@ -599,7 +599,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Chức năng lớp trung gian : the KEY which Opens "what is HIDden" - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> lớp trung gian : which Opens "what is HIDden" là một [RELative CLAUSE][QUAN ĐIỀU] bắt đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] which. Neo ngay sau [HEAD as NOUN][LÕI làm DANH] "the KEY" để bổ nghĩa và định danh trực tiếp cho chiếc chìa khóa đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> lớp trung gian : which Opens "what is HIDden" là một [RELative CLAUSE][QUAN ĐIỀU] bắt đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] which. Neo ngay sau [NOUN as HEAD][DANH làm LÕI] "the KEY" để bổ nghĩa và định danh trực tiếp cho chiếc chìa khóa đó.</li>
 			
 				</ul>
 			
@@ -729,7 +729,7 @@ export default function SV1(): React.JSX.Element {
 					<li>we arRIVED [LATE].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [muộn].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [LATE] - [ADverb as ADjunct][TRẠNG làm PHỤ] đứng sau [PRETerite FORM][KHỨ DẠNG] "arRIVED" làm [ADverb HEAD][TRẠNG LÕI] bổ nghĩa hoàn cảnh thời gian cho hành động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [LATE] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] đứng sau [PRETerite FORM][KHỨ DẠNG] "arRIVED" làm [ADverb HEAD][TRẠNG LÕI] bổ nghĩa hoàn cảnh thời gian cho hành động.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [LATE] - [ROOT ADVERB][GỐC TRẠNG] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "LATE" đóng vai trò diện mạo đơn lẻ ở cấp độ [HEAD][LÕI].</li>
 			

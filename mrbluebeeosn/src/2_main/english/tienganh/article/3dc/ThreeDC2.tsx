@@ -169,7 +169,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [warm] - [ROOT ADjective][GỐC TÍNH] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, chỉ tính chất</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [warm] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] đứng trước [DANH] [smile] để mô tả đặc điểm của nụ cười</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [warm] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] đứng trước [DANH] [smile] để mô tả đặc điểm của nụ cười</li>
 			
 				</ul>
 			
@@ -216,9 +216,9 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>He answered [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [chính xác].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [correctly] - [ADVERB as ADjunct 1][TRẠNG làm PHỤ 1] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "correct" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [correctly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "correct" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [correctly] - [ADverb as ADjunct][TRẠNG làm PHỤ] bổ nghĩa cho [ĐỘNG] [answered], cho biết cách thức hành động diễn ra.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [correctly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] bổ nghĩa cho [ĐỘNG] [answered], cho biết cách thức hành động diễn ra.</li>
 			
 				</ul>
 			
@@ -331,7 +331,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [fresh] - [ROOT ADjective][GỐC TÍNH] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [fresh] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [HEAD as NOUN][LÕI làm DANH] bổ nghĩa cho [Danh Cụm] [the bread]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [fresh] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] bổ nghĩa cho [Danh Cụm] [the bread]</li>
 			
 				</ul>
 			
