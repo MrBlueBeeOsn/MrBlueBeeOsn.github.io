@@ -374,7 +374,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>ever</strong>y CUStomer SERvice dePARTment reQUIres [a reSPONsive TEAM].</li>
-					<li className="margin-bottom-20 list-none">Mỗi bộ phận dịch vụ khách hàng đều yêu cầu [một đội ngũ có độ phản hồi tốt/nhanh nhạy].</li>
+					<li className="margin-bottom-20 list-none">Mỗi bộ phận Dịch vụ Khách hàng đều cần có [một đội ngũ làm việc nhanh nhạy].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a reSPONsive TEAM] - [NOUN PHRASE as diRECT OBject][DANH CỤM làm TRỰC TÂN] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres".</li>
 
@@ -390,7 +390,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the SYStem SOLVED [the QUEry] [reSPONsively] [during the TEST].</li>
-					<li className="margin-bottom-20 list-none">Hệ thống đã giải quyết [truy vấn] [một cách nhanh nhạy] [trong suốt bài kiểm tra].</li>
+					<li className="margin-bottom-20 list-none">Hệ thống đã giải quyết [câu truy vấn] [một cách linh hoạt] [trong quá trình kiểm thử].</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
 

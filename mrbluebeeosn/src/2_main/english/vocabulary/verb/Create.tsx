@@ -372,7 +372,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIres [a creAtive TEAM].</li>
-          <li className="margin-bottom-20 list-none">Mỗi bộ phận thiết kế sản phẩm đều yêu cầu [một đội ngũ có tính sáng tạo].</li>
+          <li className="margin-bottom-20 list-none">Mỗi bộ phận thiết kế sản phẩm đều cần có [một đội ngũ sáng tạo].</li>
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a creAtive TEAM] - [NOUN PHRASE as diRECT OBject][DANH CỤM làm TRỰC TÂN] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres".</li>
           
@@ -388,7 +388,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the ARtist SOLVED [the PROBlem] [creAtively] [during the PROject].</li>
-          <li className="margin-bottom-20 list-none">Nghệ sĩ đã giải quyết [vấn đề] [một cách sáng tạo] [trong suốt dự án].</li>
+          <li className="margin-bottom-20 list-none">Nghệ sĩ đã giải quyết [vấn đề] [một cách sáng tạo] [trong quá trình thực hiện dự án].</li>
 
           <li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
 
