@@ -372,7 +372,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>we NEED [a CLEAR explaNAtion].</li>
           <li className="margin-bottom-20 list-none">Chúng ta cần [một lời giải thích rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a CLEAR explaNAtion] - [NOUN PHRASE as diRECT OBject][DANH CỤM làm TRỰC TÂN] của hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "NEED".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a CLEAR explaNAtion] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "NEED".</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEAR] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "CLEAR" có diện mạo bên ngoài có khả năng mô tả tính chất đặc điểm của [NOUN as HEAD][DANH làm LÕI] "explaNAtion".</li>
       
@@ -390,7 +390,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[the PROCess] - [NOUN PHRASE as diRECT OBject][DANH CỤM làm TRỰC TÂN] của hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED".</li>
+          <li className="list-none margin-bottom-10">[the PROCess] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED".</li>
           
           <li className="list-none margin-bottom-10">[CLEARly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED". Hình thành từ khối [ADjective][TÍNH] nguyên bản "CLEAR" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
       
@@ -413,7 +413,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the BROWser HISTORy] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động xóa bỏ, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the BROWser HISTORy] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] tiếp nhận trực tiếp mục tiêu của hành động "CLEARing".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the BROWser HISTORy] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] tiếp nhận trực tiếp mục tiêu của hành động "CLEARing".</li>
       
         </ul>
 
@@ -429,7 +429,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing OLD DAtabase FILES] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "FINished". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CLEARing", mở rộng thành một vùng mã hành động phức hợp gồm hành động dọn dẹp, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [OLD DAtabase FILES] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] tiếp nhận trực tiếp mục tiêu của hành động "CLEARing".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [OLD DAtabase FILES] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] tiếp nhận trực tiếp mục tiêu của hành động "CLEARing".</li>
       
         </ul>
 
@@ -484,7 +484,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>biểu thị hành động đã xong bị động</strong> -<strong>v3</strong>/-<strong>ed</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as SUBJECT</strong>][<strong>DANH CỤM làm CHỦ</strong>] <strong>biểu thị hành động đã xong bị động</strong> -<strong>v3</strong>/-<strong>ed</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole" id="5d">Ví dụ 5d:</p>
       
@@ -500,7 +500,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole" id="5e">Ví dụ 5e:</p>
       
@@ -509,32 +509,29 @@ export default function CLEAR(): React.JSX.Element {
           <li>we FOUND [an appliCAtion CApable of CLEARing BACKground JUNK].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã tìm thấy [một ứng dụng có khả năng loại bỏ các tập tin rác trong nền].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [an appliCAtion CApable of CLEARing BACKground JUNK] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động [PRETerite FORM][KHỨ DẠNG] "FOUND".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [an appliCAtion CApable of CLEARing BACKground JUNK] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "FOUND".</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CApable of CLEARing BACKground JUNK] - [ADjective PHRASE as post-MODifier][TÍNH CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "appliCAtion" để quét và xác định năng lực, đặc điểm của đối tượng đó.</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] </p>
-
-      <p className="margin-top-20 text-indent-whole"><strong>TRẠNG CỤM dạng</strong> -<strong>to V</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as post-MODifier</strong>][<strong>PHI-THỜI ĐIỀU làm HẬU-CHỈNH</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="6a">Ví dụ 6a:</p>
       
         <ul className="list-square">
       
           <li>they RAN [the SOFTware to CLEAR CACHE FILES].</li>
-          <li className="margin-bottom-20 list-none">Họ đã chạy [phần mềm để xóa các tệp bộ nhớ đệm].</li>
+          <li className="margin-bottom-20 list-none">Họ đã chạy [phần mềm để xóa các tập tin bộ nhớ đệm].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the SOFTware to CLEAR CACHE FILES] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động [PRETerite FORM][KHỨ DẠNG] "RAN".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the SOFTware to CLEAR CACHE FILES] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "RAN".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CLEAR CACHE FILES] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho [PREDicator HEAD][VỊ LÕI] "RAN". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] định hình dưới dạng một vùng mã hành động đứng cuối chuỗi thông tin, bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] nguyên bản có "to".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CLEAR CACHE FILES] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SOFTware". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp một [VERB PHRASE][ĐỘNG CỤM] "CLEAR CACHE FILES".</li>
       
         </ul>
 
-      
-      <p className="margin-top-20 text-indent-whole"><strong>TRẠNG CỤM dạng</strong> -<strong>to V</strong> (<strong>có dấu phẩy</strong>):</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="6b">Ví dụ 6b:</p>
       
@@ -548,9 +545,9 @@ export default function CLEAR(): React.JSX.Element {
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CLEAR the misunderSTANDing] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] nguyên bản có "to", được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
       
         </ul>
+      
 
-
-      <p className="margin-top-20 text-indent-whole"><strong>TRẠNG CỤM dạng</strong> -<strong>ing</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="6c">Ví dụ 6c:</p>
       
@@ -566,7 +563,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>TRẠNG CỤM dạng</strong> -<strong>ing</strong> (<strong>có dấu phẩy</strong>):</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="6d">Ví dụ 6d:</p>
       

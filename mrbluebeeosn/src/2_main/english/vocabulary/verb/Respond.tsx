@@ -376,7 +376,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li><strong>ever</strong>y CUStomer SERvice dePARTment reQUIres [a reSPONsive TEAM].</li>
 					<li className="margin-bottom-20 list-none">Mỗi bộ phận Dịch vụ Khách hàng đều cần có [một đội ngũ làm việc nhanh nhạy].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a reSPONsive TEAM] - [NOUN PHRASE as diRECT OBject][DANH CỤM làm TRỰC TÂN] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a reSPONsive TEAM] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres".</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONsive] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "TEAM". Hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "reSPOND" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài có khả năng mô tả tính chất đặc điểm của [NOUN as HEAD][DANH làm LÕI] "TEAM".</li>
 			
@@ -394,7 +394,7 @@ export default function reSPOND(): React.JSX.Element {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
 
-					<li className="list-none margin-bottom-10">[the QUEry] - [NOUN PHRASE as diRECT OBject][DANH CỤM làm TRỰC TÂN] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED".</li>
+					<li className="list-none margin-bottom-10">[the QUEry] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED".</li>
 
 					<li className="list-none margin-bottom-10">[reSPONsively] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "SOLVED". Hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "reSPOND" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
 
@@ -564,7 +564,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>they NEED [a SYStem reSPONsive to MARket CHAnges].</li>
 					<li className="margin-bottom-20 list-none">Họ cần [một hệ thống có khả năng thích ứng với những thay đổi của thị trường].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a SYStem reSPONsive to MARket CHAnges] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "NEED".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a SYStem reSPONsive to MARket CHAnges] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "NEED".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONsive to MARket CHAnges] - [ADjective PHRASE as post-MODifier][TÍNH CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SYStem" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
 			
@@ -580,11 +580,11 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[reSPONDing to REcent conSUmer TRENDS], the COMpany LAUNCHED NEW FEAtures.</li>
-					<li className="margin-bottom-20 list-none">[Phản ứng/Phản hồi lại các xu hướng tiêu dùng gần đây], công ty đã ra mắt các tính năng mới.</li>
+					<li className="margin-bottom-20 list-none">[Để đáp ứng các xu hướng tiêu dùng gần đây], công ty đã ra mắt các tính năng mới.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing to REcent conSUmer TRENDS] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "LAUNCHED" và toàn bộ CLAUSE chính. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] kết hợp mở rộng do được rút gọn từ một hệ [prepoSITion PHRASE][GIỚI CỤM] phụ thuộc có cùng thành phần lõi [PROnoun as SUBject ][ĐẠI làm CHỦ].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing to REcent conSUmer TRENDS] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "LAUNCHED", đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho toàn bộ [CLAUSE][ĐIỀU] chính. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" kết hợp một hệ [prepoSITion PHRASE as COMPlentment][GIỚI CỤM làm BỔ] của "reSPONDing".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to REcent conSUmer TRENDS] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] cho [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing"</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to REcent conSUmer TRENDS] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing".</li>
 			
 				</ul>
 
@@ -598,7 +598,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the COMpany ALlocated [FUNDS reSPONDing to URgent MARket RISKS].</li>
 					<li className="margin-bottom-20 list-none">Công ty đã phân bổ [các khoản kinh phí để ứng phó/phản hồi với các rủi ro thị trường khẩn cấp].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [FUNDS reSPONDing to URgent MARket RISKS] - [NOUN PHRASE as OBject][DANH CỤM làm TÂN] của hành động "ALlocated".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [FUNDS reSPONDing to URgent MARket RISKS] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động "ALlocated".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDing to URgent MARket RISKS] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đóng vai trò làm khối bối cảnh cách thức, bổ nghĩa trực tiếp cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" kết hợp mở rộng đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
 			
