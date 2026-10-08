@@ -659,7 +659,7 @@ export default function reSPOND(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10">[in the reSPONSE to the ofFIcial STATEment] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "deLAY" để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [prepoSITion][GIỚI] "in".</li>
 
-					<li className="list-none margin-bottom-10">[to the ofFIcial STATEment] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "reSPONSE".</li>
+					<li className="list-none margin-bottom-10">[to the ofFIcial STATEment] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "reSPONSE", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "reSPOND" kéo theo [prepoSITion][GIỚI] "to".</li>
 			
 				</ul>
 			
@@ -671,27 +671,27 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[in reSPONSE to NEW seCUrity reguLAtions], the SYStem upDATed autoMATically.</li>
-					<li className="margin-bottom-20 list-none">[Để tuân thủ các quy định an ninh mới], hệ thống đã tự động cập nhật.</li>
+					<li className="margin-bottom-20 list-none">[Để đáp ứng các quy định an ninh mới], hệ thống đã tự động cập nhật.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in reSPONSE to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "upDATed", đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [prepoSITion][GIỚI] "in" kéo theo vùng [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "reSPONSE..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "reSPONSE", bắt đầu bằng [prepoSITion][GIỚI] "to".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "reSPONSE", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "reSPOND" kéo theo [prepoSITion][GIỚI] "to".</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>3.3</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>3.3</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>][<strong>GIỚI CỤM làm PHỤ</strong>]:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="8b">Ví dụ 8b:</p>
 			
 				<ul className="list-square">
 			
 					<li>the TEAM GATHered [for a QUICK reSPONSE to the INcident].</li>
-					<li className="margin-bottom-20 list-none">Đội ngũ đã tập hợp [phục vụ cho một phản hồi nhanh chóng đối với sự cố].</li>
+					<li className="margin-bottom-20 list-none">Đội đã tập hợp lại [để phản ứng nhanh chóng trước sự cố].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for a QUICK reSPONSE to the INcident] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "GATHered". Bản chất là [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "GATHered", xuất hiện dưới dạng một vùng mã xác lập lý do / bối cảnh.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for a QUICK reSPONSE to the INcident] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "GATHered" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a QUICK reSPONSE to the INcident] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [prepoSITion][GIỚI] "for".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the INcident] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "reSPONSE", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "reSPOND" kéo theo [prepoSITion][GIỚI] "to".</li>
 			
 				</ul>
 

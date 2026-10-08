@@ -654,7 +654,7 @@ export default function creATE(): React.JSX.Element {
 
           <li className="list-none margin-bottom-10">[in the creAtion of the NEW PORtal] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "deLAY", để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [prepoSITion][GIỚI] "in".</li>
 
-          <li className="list-none margin-bottom-10">[of the NEW PORtal] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "creAtion", để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
+          <li className="list-none margin-bottom-10">[of the NEW PORtal] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "creAtion", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "creATE" kéo theo [prepoSITion][GIỚI] "of".</li>
       
         </ul>
       
@@ -670,23 +670,23 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of BETter SERvices] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "inCREASED", đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [prepoSITion][GIỚI] "for" kéo theo vùng [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the creAtion ..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [of BETter SERvices] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "creAtion", bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [of BETter SERvices] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "creAtion", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "creATE" kéo theo [prepoSITion][GIỚI] "of".</li>
       
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>3.3</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>3.3</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>][<strong>GIỚI CỤM làm PHỤ</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole" id="8b">Ví dụ 8b:</p>
       
         <ul className="list-square">
       
           <li>the TEAM GAthered [for the creAtion of a NEW PROject PLAN].</li>
-          <li className="margin-bottom-20 list-none">Đội ngũ đã tập hợp [phục vụ cho việc tạo ra một kế hoạch dự án mới].</li>
+          <li className="margin-bottom-20 list-none">Đội ngũ đã tập hợp lại [để xây dựng một kế hoạch dự án mới].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of a NEW PROject PLAN] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "GAthered". Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "GAthered", xuất hiện dưới dạng một vùng mã xác lập lý do / bối cảnh, bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of a NEW PROject PLAN] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "GAthered" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the creAtion of a NEW PROject PLAN] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [of a NEW PROject PLAN] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "creAtion", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "creATE" kéo theo [prepoSITion][GIỚI] "of".</li>
       
         </ul>
 
