@@ -414,7 +414,7 @@ export default function creATE(): React.JSX.Element {
           <li>[creAting MODern DIGital soLUtions] reQUIres DEEP TECHnical KNOWledge.</li>
           <li className="margin-bottom-20 list-none">[Tạo ra các giải pháp kỹ thuật số hiện đại] đòi hỏi kiến thức kỹ thuật chuyên sâu.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting MODern DIGital soLUtions] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "reQUIres", quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting MODern DIGital soLUtions] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động trạng thái [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "reQUIres", quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [MODern DIGital soLUtions] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] tiếp nhận trực tiếp mục tiêu của hành động "creAting".</li>
       
@@ -447,7 +447,7 @@ export default function creATE(): React.JSX.Element {
           <li>[to creATE susTAINable ENergy SYStems] is the founDAtion's MAIN GOAL.</li>
           <li className="margin-bottom-20 list-none">[Việc tạo ra các hệ thống năng lượng bền vững] là mục tiêu chính của quỹ.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [susTAINable ENergy SYStems] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động "creATE".</li>
       
@@ -479,7 +479,7 @@ export default function creATE(): React.JSX.Element {
           <li>[it] is esSENtial [to creATE STRONG seCUrity PROtocols].</li>
           <li className="margin-bottom-20 list-none">[Điều] đó là điều thiết yếu [để xây dựng các giao thức bảo mật vững chắc].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as extraPOSED SUBject][PHI-THỜI ĐIỀU làm NGOẠI CHỦ] của hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as extraPOSED SUBject][PHI-THỜI ĐIỀU làm NGOẠI CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [STRONG seCUrity PROtocols] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PLAIN FORM][GIẢN DẠNG] "creATE".</li>
       
@@ -648,13 +648,13 @@ export default function creATE(): React.JSX.Element {
           <li>[the deLAY in the creAtion of the NEW PORtal] RAISED SEVeral conCERNS.</li>
           <li className="margin-bottom-20 list-none">[Sự chậm trễ trong việc xây dựng cổng thông tin mới] đã gây ra một số lo ngại.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deLAY in the creAtion of the NEW PORtal] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "RAISED", đứng đầu câu và chịu trách nhiệm về mặt ngữ nghĩa.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deLAY in the creAtion of the NEW PORtal] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "RAISED" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đứng đầu câu và chịu trách nhiệm về mặt ngữ nghĩa.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[in the creAtion of the NEW PORtal] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "deLAY", để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [prepoSITion][GIỚI] "in".</li>
+          <li className="list-none margin-bottom-10">[in the creAtion of the NEW PORtal] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] ở [deVERBal NOUN][ĐỘNG DANH] "deLAY", để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "in".</li>
 
-          <li className="list-none margin-bottom-10">[of the NEW PORtal] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "creAtion", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "creATE" kéo theo [prepoSITion][GIỚI] "of".</li>
+          <li className="list-none margin-bottom-10">[of the NEW PORtal] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] ở [deVERBal NOUN][ĐỘNG DANH] "creAtion", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "creATE" kéo theo [TRANsitive prepoSITion][NGOẠI GIỚI] "of".</li>
       
         </ul>
       
@@ -668,9 +668,9 @@ export default function creATE(): React.JSX.Element {
           <li>[for the creAtion of BETter SERvices], the FIRM inVESTment inCREASED.</li>
           <li className="margin-bottom-20 list-none">[Để tạo ra các dịch vụ tốt hơn], công ty đã tăng cường đầu tư.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of BETter SERvices] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "inCREASED", đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [prepoSITion][GIỚI] "for" kéo theo vùng [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the creAtion ..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of BETter SERvices] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "inCREASED" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "for" kéo theo vùng [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "the creAtion ..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [of BETter SERvices] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "creAtion", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "creATE" kéo theo [prepoSITion][GIỚI] "of".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [of BETter SERvices] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] ở [deVERBal NOUN][ĐỘNG DANH] "creAtion", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "creATE" kéo theo [TRANsitive prepoSITion][NGOẠI GIỚI] "of".</li>
       
         </ul>
 
@@ -684,9 +684,9 @@ export default function creATE(): React.JSX.Element {
           <li>the TEAM GAthered [for the creAtion of a NEW PROject PLAN].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã tập hợp lại [để xây dựng một kế hoạch dự án mới].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of a NEW PROject PLAN] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "GAthered" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of a NEW PROject PLAN] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "GAthered" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "for".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [of a NEW PROject PLAN] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "creAtion", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "creATE" kéo theo [prepoSITion][GIỚI] "of".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [of a NEW PROject PLAN] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] ở [deVERBal NOUN][ĐỘNG DANH] "creAtion", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "creATE" kéo theo [TRANsitive prepoSITion][NGOẠI GIỚI] "of".</li>
       
         </ul>
 

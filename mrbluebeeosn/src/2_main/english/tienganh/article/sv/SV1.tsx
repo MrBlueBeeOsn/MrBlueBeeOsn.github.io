@@ -631,7 +631,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">Tầng ngoài: Lớp ngoài [disCOVering HOW the ENgine WORKS] vận hành đồng bộ như một khối [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] lớn, đứng ở đầu câu giữ vai trò làm  điều phối trục thông tin hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" cho toàn bộ [SENtence][CÂU LỚN].</li>
+					<li className="list-none">Tầng ngoài: Lớp ngoài [disCOVering HOW the ENgine WORKS] vận hành đồng bộ như một khối [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] lớn, đứng ở đầu câu giữ vai trò làm  điều phối trục thông tin hành động trạng thái [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" cho toàn bộ [SENtence][CÂU LỚN].</li>
 					
 					<li className="list-none">Tầng trong: Lớp trong HOW the ENgine WORKS đóng vai trò là một [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ], neo ngay sau hành động thực thi [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] disCOVering để làm [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] cho hành động đó.</li>
 			

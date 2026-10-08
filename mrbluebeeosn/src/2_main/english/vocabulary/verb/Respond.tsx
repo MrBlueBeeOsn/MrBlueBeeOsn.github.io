@@ -449,7 +449,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[to reSPOND efFECTively in CRIsis situAtions] is the TEAM's MAIN GOAL.</li>
 					<li className="margin-bottom-20 list-none">[Phản ứng hiệu quả trong các tình huống khẩn cấp] là mục tiêu chính của đội.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND efFECTively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động trạng thái [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ...". Trong đó "efFECTively" là [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PLAIN FORM][GIẢN DẠNG] "reSPOND" và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND efFECTively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ...". Trong đó "efFECTively" là [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của hành động [PLAIN FORM][GIẢN DẠNG] "reSPOND" và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in CRIsis situAtions] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPOND".</li>
 			
@@ -481,7 +481,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[it] is esSENtial [to reSPOND QUICKly to CUStomer comPLAINts].</li>
 					<li className="margin-bottom-20 list-none">[Điều] đó là điều thiết yếu [để phản hồi nhanh chóng các khiếu nại của khách hàng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND QUICKly to CUStomer comPLAINts] - [non-FInite CLAUSE as extraPOSED SUBject][PHI-THỜI ĐIỀU làm NGOẠI CHỦ] của hành động [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND QUICKly to CUStomer comPLAINts] - [non-FInite CLAUSE as extraPOSED SUBject][PHI-THỜI ĐIỀU làm NGOẠI CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CUStomer comPLAINts] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động [PLAIN FORM][GIẢN DẠNG] "reSPOND".</li>
 			
@@ -653,13 +653,13 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[the deLAY in the reSPONSE to the ofFIcial STATEment] CAUSED PUBlic conCERNS.</li>
 					<li className="margin-bottom-20 list-none">[Sự chậm trễ trong việc phản hồi tuyên bố chính thức] đã gây ra lo ngại trong dư luận.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deLAY in the reSPONSE to the ofFIcial STATEment] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "CAUSED".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deLAY in the reSPONSE to the ofFIcial STATEment] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [TRANsitive VERB][NgOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "CAUSED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none margin-bottom-10">[in the reSPONSE to the ofFIcial STATEment] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "deLAY" để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [prepoSITion][GIỚI] "in".</li>
+					<li className="list-none margin-bottom-10">[in the reSPONSE to the ofFIcial STATEment] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] ở [deVERBal NOUN][ĐỘNG DANH] "deLAY" để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "in".</li>
 
-					<li className="list-none margin-bottom-10">[to the ofFIcial STATEment] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "reSPONSE", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "reSPOND" kéo theo [prepoSITion][GIỚI] "to".</li>
+					<li className="list-none margin-bottom-10">[to the ofFIcial STATEment] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] ở [deVERBal NOUN][ĐỘNG DANH] "reSPONSE", được hình thành từ [inTRANsitive VERB][NỘI ĐỘNG] "reSPOND" kéo theo [TRANsitive prepoSITion][NGOẠI GIỚI] "to".</li>
 			
 				</ul>
 			
@@ -670,12 +670,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[in reSPONSE to NEW seCUrity reguLAtions], the SYStem upDATed autoMATically.</li>
+					<li>[in reSPONSE to NEW seCUrity reguLAtions], the SYStem upDAted autoMATically.</li>
 					<li className="margin-bottom-20 list-none">[Để đáp ứng các quy định an ninh mới], hệ thống đã tự động cập nhật.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in reSPONSE to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "upDATed", đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [prepoSITion][GIỚI] "in" kéo theo vùng [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "reSPONSE..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in reSPONSE to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "upDAted" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "in" kéo theo vùng [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "reSPONSE..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "reSPONSE", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "reSPOND" kéo theo [prepoSITion][GIỚI] "to".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] ở [deVERBal NOUN][ĐỘNG DANH] "reSPONSE", được hình thành từ [inTRANsitive VERB][NỘI ĐỘNG] "reSPOND" kéo theo [TRANsitive prepoSITion][NGOẠI GIỚI] "to".</li>
 			
 				</ul>
 
@@ -689,9 +689,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the TEAM GATHered [for a QUICK reSPONSE to the INcident].</li>
 					<li className="margin-bottom-20 list-none">Đội đã tập hợp lại [để phản ứng nhanh chóng trước sự cố].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for a QUICK reSPONSE to the INcident] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "GATHered" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for a QUICK reSPONSE to the INcident] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "GATHered" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "for".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the INcident] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] "reSPONSE", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "reSPOND" kéo theo [prepoSITion][GIỚI] "to".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the INcident] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] ở [deVERBal NOUN][ĐỘNG DANH] "reSPONSE", được hình thành từ [inTRANsitive VERB][NỘI ĐỘNG] "reSPOND" kéo theo [TRANsitive prepoSITion][NGOẠI GIỚI] "to".</li>
 			
 				</ul>
 

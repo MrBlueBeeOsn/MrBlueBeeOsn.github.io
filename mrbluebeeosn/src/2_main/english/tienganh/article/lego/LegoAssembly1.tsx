@@ -766,10 +766,10 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the PLATform upDATed [SEAMlessly].</li>
+					<li>the PLATform upDAted [SEAMlessly].</li>
 					<li className="margin-bottom-20 list-none">Nền tảng đã cập nhật [một cách mượt mà không gián đoạn].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [SEAMlessly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động upDATed.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [SEAMlessly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động upDAted.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [SEAMlessly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "SEAM" mặc thêm (kết hợp) hậu tố "-less" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có vai trò chỉ trạng thái hoàn hảo, không có vết nối.</li>
 			
@@ -782,7 +782,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the PLATform upDATed [as <strong>soon</strong> as the CODE PATCH WENT LIVE].</li>
+					<li>the PLATform upDAted [as <strong>soon</strong> as the CODE PATCH WENT LIVE].</li>
 					<li className="margin-bottom-20 list-none">Nền tảng đã cập nhật [ngay khi bản vá mã nguồn được kích hoạt trực tuyến].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [as <strong>soon</strong> as the CODE PATCH WENT LIVE] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] thay thế vị trí của [ADverb HEAD][TRẠNG LÕI] cũ, mở rộng quy mô thông tin thành bối cảnh [Thời] gian cho hành động chính updated nhưng vẫn giữ nguyên màu sắc chức năng cung cấp bối cảnh.</li>

@@ -402,12 +402,12 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the SOFTware [to be upDATed NEXT WEEK] reQUIres adMINistrative RIGHTS.</li>
+					<li>the SOFTware [to be upDAted NEXT WEEK] reQUIres adMINistrative RIGHTS.</li>
 					<li className="margin-bottom-20 list-none">Phần mềm [sắp sửa được cập nhật vào tuần tới] yêu cầu quyền quản trị.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to be upDATed NEXT WEEK] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SOFTware" để mô tả trạng thái sắp sửa được tác động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to be upDAted NEXT WEEK] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SOFTware" để mô tả trạng thái sắp sửa được tác động.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to be upDATed NEXT WEEK] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] "to" kéo theo vùng bổ trợ phía sau chứa [PLAIN FORM][GIẢN DẠNG] "be" và [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] "upDATed" để biểu thị trạng thái bị động tương lai.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to be upDAted NEXT WEEK] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [infiniTIval MARKer][NGUYÊN DẤU] "to" kéo theo vùng bổ trợ phía sau chứa [PLAIN FORM][GIẢN DẠNG] "be" và [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] "upDAted" để biểu thị trạng thái bị động tương lai.</li>
 			
 				</ul>
 

@@ -729,12 +729,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[WHAT the DEVops engiNEER upDATed this MORNing] SATisfies the SYStem deMAND.</li>
+					<li>[WHAT the DEVops engiNEER upDAted this MORNing] SATisfies the SYStem deMAND.</li>
 					<li className="margin-bottom-20 list-none">[Những gì kỹ sư DevOps cập nhật sáng nay] thỏa mãn yêu cầu của hệ thống.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [WHAT the DEVops engiNEER upDATed this MORNing] – [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ], còn "the SYStem deMAND" đóng vai trò làm [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [WHAT the DEVops engiNEER upDAted this MORNing] – [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ], còn "the SYStem deMAND" đóng vai trò làm [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [WHAT the DEVops engiNEER upDATed this MORNing] – [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa cấu trúc kết nối tường minh "WHAT" kết hợp cùng một cấu trúc câu con xoay quanh [PRETerite FORM][KHỨ DẠNG] "upDATed".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [WHAT the DEVops engiNEER upDAted this MORNing] – [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa cấu trúc kết nối tường minh "WHAT" kết hợp cùng một cấu trúc câu con xoay quanh [PRETerite FORM][KHỨ DẠNG] "upDAted".</li>
 			
 				</ul>
 			
