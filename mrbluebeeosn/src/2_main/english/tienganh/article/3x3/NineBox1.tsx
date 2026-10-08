@@ -387,7 +387,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[it] TAKES a LOT of TIME [to enCRYPT the SYStem communiCAtion].</li>
 					<li className="margin-bottom-20 list-none">Tốn rất nhiều thời gian [để mã hóa truyền thông hệ thống].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to enCRYPT the SYStem communiCAtion] – [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng sau [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "TAKES a LOT of TIME" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to enCRYPT the SYStem communiCAtion] – [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng sau [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "TAKES a LOT of TIME" để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" chịu trách nhiệm thực thi câu lớn.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to enCRYPT the SYStem communiCAtion] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] hình thành từ sự kết hợp giữa hạt nhân [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "enCRYPT ..." và mở rộng hành động phía sau.</li>
 			

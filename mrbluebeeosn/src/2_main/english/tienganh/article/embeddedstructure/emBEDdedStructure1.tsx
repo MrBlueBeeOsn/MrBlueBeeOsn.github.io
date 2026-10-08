@@ -404,7 +404,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>[it] reQUIres creaTIVity [to deSIGN the INterface].</li>
 					<li className="margin-bottom-20 list-none">Đòi hỏi sự sáng tạo [để thiết kế giao diện].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to deSIGN the INterface] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng sau [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres creaTIVity" để làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to deSIGN the INterface] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng sau [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres creaTIVity" để làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to deSIGN the INterface] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "deSIGN ..." kéo dài cho đến hết đối tượng của nó.</li>
 			

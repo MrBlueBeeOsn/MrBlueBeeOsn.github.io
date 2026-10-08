@@ -967,16 +967,16 @@ export default function creATE(): React.JSX.Element {
 
       <h4 className="margin-y-40">1. Phân hệ [PREDicator HEAD][VỊ LÕI]: Thay đổi các MODule chứa hành động</h4>
 
-      <p className="margin-top-20 text-indent-whole" id="Case-1"><strong>Case 1</strong>: <strong>Giữ nguyên cấp độ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="Case-1"><strong>Case 1</strong>: <strong>Giữ nguyên cấp độ</strong> [<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>]</p>
       
         <ul className="list-square">
       
           <li>[creAting HIGH-IMpact CONtent] reQUIres proFESsional dediCAtion.</li>
-          <li className="margin-bottom-20 list-none">[Việc tạo ra nội dung có sức tác động cao] đòi hỏi sự tận tụy chuyên nghiệp.</li>
+          <li className="margin-bottom-20 list-none">[Tạo ra nội dung có tác động mạnh] đòi hỏi sự cầm cố chuyên nghiệp.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting HIGH-IMpact CONtent] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" để quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] biểu hiện dưới dạng khối mã mở rộng chứa hành động và đối tượng đi kèm.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting HIGH-IMpact CONtent] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres" trong [MAIN CLAUSE][CHÍNH ĐIỀU], để quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" và đối tượng đi kèm "HIGH-IMpact CONtent".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [HIGH-IMpact CONtent] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động "creAting" chứa các đặc điểm mô tả nội dung có sức tác động cao.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [HIGH-IMpact CONtent] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] "creAting", chứa các đặc điểm mô tả nội dung có sức tác động cao.</li>
       
         </ul>
       
@@ -988,7 +988,7 @@ export default function creATE(): React.JSX.Element {
           <li>[deVELoping efFECtive proMOtional maTErial] reQUIres proFESsional dediCAtion.</li>
           <li className="margin-bottom-20 list-none">[Việc phát triển tài liệu quảng bá hiệu quả] đòi hỏi sự tận tụy chuyên nghiệp.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [deVELoping efFECtive proMOtional maTErial] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional dediCAtion" của khối cũ. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [deVELoping efFECtive proMOtional maTErial] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] đứng trước hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres proFESsional dediCAtion" của khối cũ. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [efFECtive proMOtional maTErial] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động "deVELoping" mới chứa các đặc điểm mô tả tài liệu quảng bá hiệu quả.</li>
       

@@ -856,16 +856,16 @@ export default function CLEAR(): React.JSX.Element {
 
       <h5 className="margin-y-30 text-indent-whole" id="Case-1">Case 1: Giữ nguyên cấp độ, thay thế khối mã tương đương</h5>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>CỤM</strong> → <strong>CỤM</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>CLAUSE</strong> → <strong>CLAUSE</strong>]</p>
       
         <ul className="list-square">
       
           <li>[CLEARing the BROWser CACHE] is NECessary.</li>
-          <li className="margin-bottom-20 list-none">[Việc xóa bộ nhớ đệm trình duyệt] thì cần thiết.</li>
+          <li className="margin-bottom-20 list-none">[Xóa bộ nhớ cache của trình duyệt] là điều cần thiết.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> gốc: [CLEARing the BROWser CACHE] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] biểu hiện dưới dạng khối mã mở rộng chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng "-ing" và đối tượng đi kèm.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> gốc: [CLEARing the BROWser CACHE] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CLEARing" và đối tượng đi kèm.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [the BROWser CACHE] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [the BROWser CACHE] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CLEARing".</li>
       
         </ul>
       

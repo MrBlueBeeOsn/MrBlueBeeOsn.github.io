@@ -432,7 +432,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[it] TAKES exCEPtional negotiAtion SKILLS [to seCURE this CONtract].</li>
 					<li className="margin-bottom-20 list-none">Cần có kỹ năng đàm phán xuất sắc [để đạt được hợp đồng này].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [to seCURE this CONtract] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng sau [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "TAKES exCEPtional negotiAtion SKILLS" để làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [to seCURE this CONtract] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng sau [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "TAKES exCEPtional negotiAtion SKILLS" để làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [to seCURE this CONtract] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "seCURE ..." kéo theo một [NOUN PHRASE][DANH CỤM] phía sau.</li>
 			
@@ -646,7 +646,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối WHY the SPEcies went exTINCT bên trong đóng vai trò làm [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối của [PLAIN FORM][GIẢN DẠNG] "underSTAND".</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [to underSTAND WHY the SPEcies went exTINCT] vận hành với chức năng [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] đóng vai trò tổng thể làm khối nhưng đứng sau [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] deMANDS sciencTIFic reSEARCH để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] [it].</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [to underSTAND WHY the SPEcies went exTINCT] vận hành với chức năng [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] đóng vai trò tổng thể làm khối nhưng đứng sau [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] deMANDS sciencTIFic reSEARCH để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] [it].</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 

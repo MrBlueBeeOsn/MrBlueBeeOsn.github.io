@@ -435,7 +435,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing to USer FEEDback] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "priORitized" trong [MAIN CLAUSE][CHÍNH ĐIỀU] tiếp nhận trực tiếp mục tiêu. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] hình thành từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to USer FEEDback] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động "reSPONDing".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to USer FEEDback] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] "reSPONDing".</li>
 			
 				</ul>
 
@@ -876,7 +876,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] - [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] của hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres RIGorous TESting" để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] - [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres RIGorous TESting" để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem reSPONDS to NETwork FAIlures] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] "SYStem" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
 			
@@ -969,16 +969,20 @@ export default function reSPOND(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Phân hệ [PREDicator HEAD][VỊ LÕI]: Thay đổi các MODule chứa hành động</h4>
 
-			<p className="margin-top-20 text-indent-whole" id="Case-1"><strong>Case 1</strong>: <strong>Giữ nguyên cấp độ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-1"><strong>Case 1</strong>: <strong>Giữ nguyên cấp độ</strong> [<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>[reSPONDing PROMPTly to CLIent QUEries] reQUIres proFESsional communiCAtion.</li>
-					<li className="margin-bottom-20 list-none">[Việc phản hồi kịp thời các truy vấn của khách hàng] đòi hỏi giao tiếp chuyên nghiệp.</li>
+					<li className="margin-bottom-20 list-none">[Trả lời kịp thời các thắc mắc của khách hàng] đòi hỏi kỹ năng giao tiếp chuyên nghiệp.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing PROMPTly to CLIent QUEries] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional communiCAtion" để quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] biểu hiện dưới dạng khối mã mở rộng chứa hành động và đối tượng đi kèm.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> gốc: [reSPONDing PROMPTly to CLIent QUEries] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres" trong [MAIN CLAUSE][CHÍNH ĐIỀU], để quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" và đối tượng đi kèm.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [PROMPTly to CLIent QUEries] - [PREposition PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động "reSPONDing", chứa thông tin về thời gian và đối tượng của hành động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc:</li>
+
+					<li className="list-none margin-bottom-10">[PROMPTly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing", chứa thông tin về thời gian.</li>
+
+					<li className="list-none margin-bottom-10">[to CLIent QUEries] - [PREposition PHRASE as COMplement][GIỚI CỤM làm BỔ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing", chứa đối tượng của hành động.</li>
 			
 				</ul>
 			
@@ -990,7 +994,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[ANswering CUStomer reQUESTS efFIciently] reQUIres proFESsional communiCAtion.</li>
 					<li className="margin-bottom-20 list-none">[Việc trả lời các yêu cầu của khách hàng một cách hiệu quả] đòi hỏi giao tiếp chuyên nghiệp.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [ANswering CUStomer reQUESTS efFIciently] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] đứng trước hành động [THIRD-PERson SINGular VERB PHRASE][NGÔI 3 S ĐỘNG CỤM] "reQUIres proFESsional communiCAtion" của khối cũ. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [ANswering CUStomer reQUESTS efFIciently] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] đứng trước hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres proFESsional communiCAtion" của khối cũ. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [CUStomer reQUESTS efFIciently] - [NOUN PHRASE][DANH CỤM] mới chứa các yêu cầu của khách hàng được thực hiện một cách hiệu quả.</li>
 			
