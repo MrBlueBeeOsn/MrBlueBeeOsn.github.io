@@ -1005,16 +1005,24 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole" id="Case-2"><strong>Case 2</strong>: <strong>Kỹ thuật nâng cấp từ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>] <strong>lên</strong> [<strong>CLAUSE</strong>][<strong>ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-2"><strong>Case 2</strong>:[<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>the COMpany imPROVED [satisFACtion by reSPONDing QUICKly to supPORT TICKets].</li>
-					<li className="margin-bottom-20 list-none">Công ty đã cải thiện [sự hài lòng bằng cách phản hồi nhanh chóng các phiếu hỗ trợ].</li>
+					<li>the COMpany imPROVED [satisFACtion] [by reSPONDing QUICKly to supPORT TICKets].</li>
+					<li className="margin-bottom-20 list-none">Công ty đã nâng cao [mức độ hài lòng của khách hàng bằng cách phản hồi nhanh chóng các yêu cầu hỗ trợ].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [satisFACtion by reSPONDing QUICKly to supPORT TICKets] - [NOUN PHRASE][DANH CỤM] chứa một [prepoSITion PHRASE as post-MODidier][GIỚI CỤM làm HẬU-CHỈNH] "by ..." để bổ nghĩa cho [HEA as NOUN][LÕI làm DANH] "satisFACtion".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối song song gốc</strong>:</li>
+
+					<li className="list-none margin-bottom-10">[satisFACtion] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [by reSPONDing QUICKly to supPORT TICKets] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm khối bối cảnh phương thức, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "imPROVED". Bản chất là [prepoSITion PHRASE][GIỚI CỤM] hiển thị dưới dạng một vùng mã chứa [TRANsitive prepoSITion][NGOẠI GIỚI] phương thức "by" đi kèm cụm hành động phía sau.</li>
+					<li className="list-none margin-bottom-10">[by reSPONDing QUICKly to supPORT TICKets] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" để mô tả cách thức thực hiện hành động, bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "by".</li>
+
+					<li className="list-none margin-bottom-10"><strong>Khối trong gốc</strong>:</li>
+
+					<li className="list-none margin-bottom-10">[QUICKly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing". Hình thành từ khối [LEXical ADjective][VỰNG TÍNH] nguyên bản "QUICK" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+					
+					<li className="list-none margin-bottom-10">[to supPORT TICKets] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing", chứa đối tượng tiếp nhận trực tiếp.</li>
 			
 				</ul>
 			

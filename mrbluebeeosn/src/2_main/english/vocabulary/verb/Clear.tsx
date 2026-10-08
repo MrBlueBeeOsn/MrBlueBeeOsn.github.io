@@ -885,18 +885,20 @@ export default function CLEAR(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole" id="Case-2">Case 2: Kỹ thuật nâng cấp từ [GIỚI CỤM] lên [LIÊN ĐIỀU]</h5>
+      <h5 className="margin-y-30 text-indent-whole" id="Case-2">Case 2: Khối song song gốc</h5>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>PHRASE</strong> → <strong>CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[NOUN PHRASE as COMplement][DANH CỤM làm BỔ]</p>
       
         <ul className="list-square">
       
-          <li>we imPROVED [the perFORmance by CLEARing OLD DAtabase LOGS].</li>
+          <li>we imPROVED [the perFORmance] [by CLEARing OLD DAtabase LOGS].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện [hiệu suất bằng cách xóa các nhật ký cơ sở dữ liệu cũ].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> gốc: [the perFORmance by CLEARing OLD DAtabase LOGS] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPROVED".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song song</strong> gốc:</li>
+
+          <li className="list-none margin-bottom-10">[the perFORmance] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [by CLEARing OLD DAtabase LOGS] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò làm một khối bối cảnh phương thức đứng sau bổ nghĩa cho hành động chính. Bản chất là [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPROVED", hiển thị dưới dạng một vùng mã chứa [TRANsitive prepoSITion][NGOẠI GIỚI] phương thức "by" đi kèm [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] đuôi "-ing" và đối tượng.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [by CLEARing OLD DAtabase LOGS] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU], bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] phương thức "by" đi kèm cụm hành động phía sau.</li>
       
         </ul>
       
