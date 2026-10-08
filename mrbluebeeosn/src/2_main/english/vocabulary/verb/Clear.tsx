@@ -875,11 +875,11 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>[EMPtying the TEMporary FOLDer] is NECessary.</li>
-          <li className="margin-bottom-20 list-none">[Việc làm trống thư mục tạm thời] thì cần thiết.</li>
+          <li className="margin-bottom-20 list-none">[Xóa thư mục tạm thời] là việc cần thiết.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [EMPtying the TEMporary FOLDer]- [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is". Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] xuất hiện dưới dạng khối mở rộng mới chứa [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] khác được đưa vào thế chỗ.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [EMPtying the TEMporary FOLDer]- [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ một hành động tiếp diễn  [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "EMPtying", kết hợp khối mở rộng mới.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [the TEMporary FOLDer] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [the TEMporary FOLDer] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "EMPtying".</li>
       
         </ul>
 

@@ -987,16 +987,20 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>GERund-PARTiciple CLAUSE</strong>][<strong>DANH-TÍNH ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>[ANswering CUStomer reQUESTS efFIciently] reQUIres proFESsional communiCAtion.</li>
-					<li className="margin-bottom-20 list-none">[Việc trả lời các yêu cầu của khách hàng một cách hiệu quả] đòi hỏi giao tiếp chuyên nghiệp.</li>
+					<li className="margin-bottom-20 list-none">[Trả lời các yêu cầu của khách hàng một cách hiệu quả] đòi hỏi kỹ năng giao tiếp chuyên nghiệp.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [ANswering CUStomer reQUESTS efFIciently] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] đứng trước hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres proFESsional communiCAtion" của khối cũ. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [ANswering CUStomer reQUESTS efFIciently] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ một hành động tiếp diễn [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "ANswering" cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [CUStomer reQUESTS efFIciently] - [NOUN PHRASE][DANH CỤM] mới chứa các yêu cầu của khách hàng được thực hiện một cách hiệu quả.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới:</li>
+
+					<li className="list-none margin-bottom-10">[CUStomer reQUESTS] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] "ANswering", chứa các yêu cầu của khách hàng.</li>
+
+					<li className="list-none margin-bottom-10">[efFIciently] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của của [TRANsitive VERB][NGOẠI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "ANswering", được thực hiện một cách hiệu quả.</li>
 			
 				</ul>
 
