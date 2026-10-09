@@ -601,7 +601,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the reQUIrement for a CLEAR STRATegy] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [for a CLEAR STRATegy] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] ở [deVERBal NOUN][ĐỘNG DANH] "reQUIrement", được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "reQUIre" kéo theo [TRANsitive prepoSITion][NGOẠI GIỚI] "for".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [for a CLEAR STRATegy] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] ở [deVERBal NOUN][ĐỘNG DANH] "reQUIrement" được hình thành từ [TRANsitive VERB][NGOẠI ĐỘNG] "reQUIre" kéo theo [TRANsitive prepoSITion][NGOẠI GIỚI] "for".</li>
       
         </ul>
       
@@ -617,7 +617,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối song</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[the deCISion] - [NOUN PHRASE as COMPlement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "MADE" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
+          <li className="list-none margin-bottom-10">[the deCISion] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "MADE" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
           <li className="list-none margin-bottom-10">[<strong>af</strong>ter a CLEAR explaNAtion] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "MADE" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đảm nhận vai trò làm một khối bối cảnh thời gian đứng sau, bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "<strong>af</strong>ter" kéo theo vùng [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] "a CLEAR explaNAtion" phía sau.</li>
       
@@ -863,7 +863,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[CLEARing the BROWser CACHE] is NECessary.</li>
           <li className="margin-bottom-20 list-none">[Xóa bộ nhớ cache của trình duyệt] là điều cần thiết.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> gốc: [CLEARing the BROWser CACHE] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CLEARing" và đối tượng đi kèm.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the BROWser CACHE] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CLEARing" và đối tượng đi kèm.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the BROWser CACHE] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "CLEARing".</li>
       
@@ -947,16 +947,18 @@ export default function CLEAR(): React.JSX.Element {
 
       <h4 className="margin-y-40">2. Phân hệ Giới: Thay đổi các MODule chứa mã định vị</h4>
 
-      <h5 className="text-indent-whole" id="Case-4">Case 4: Kỹ thuật hoán đổi vị trí và thay thế khối mã [GIỚI CỤM] tương đương</h5>
+      <p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí và thay thế khối mã</strong> [<strong>prepoSITion PHRASE as COMplement</strong>][<strong>GIỚI CỤM làm BỔ</strong>] <strong>tương đương</strong></p>
       
         <ul className="list-square">
       
-          <li>we STARTed [the implemenTAtion <strong>af</strong>ter a CLEAR BRIEFing].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi đã bắt đầu việc triển khai [sau một buổi hướng dẫn rõ ràng].</li>
+          <li>we STARTed [the implemenTAtion] [<strong>af</strong>ter a CLEAR BRIEFing].</li>
+          <li className="margin-bottom-20 list-none">Chúng tôi đã bắt đầu [việc triển khai] [sau khi có một buổi hội thảo rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> gốc: [the implemenTAtion <strong>af</strong>ter a CLEAR BRIEFing] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "STARTed".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song song</strong>: </li>
+
+          <li className="list-none margin-bottom-10">[the implemenTAtion] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "STARTed" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [<strong>af</strong>ter a CLEAR BRIEFing] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] thực thi vai trò làm khối bối cảnh thời gian đứng sau để xác định cơ sở cho hành động chính. Bản chất là [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] chỉ mốc thời gian "<strong>af</strong>ter " để kéo theo khối [NOUN PHRASE][DANH CỤM] phía sau.</li>
+          <li className="list-none margin-bottom-10">[<strong>af</strong>ter a CLEAR BRIEFing] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "STARTed" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] chỉ mốc thời gian "<strong>af</strong>ter " kéo theo khối [NOUN PHRASE][DANH CỤM] phía sau. Để thực thi vai trò làm khối bối cảnh thời gian đứng sau để xác định cơ sở cho hành động chính [PRETerite FORM][KHỨ DẠNG] "STARTed".</li>
       
         </ul>
       
@@ -965,12 +967,14 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we STARTed [the implemenTAtion with a CLEAR BRIEFing].</li>
+          <li>we STARTed [the implemenTAtion] [with a CLEAR BRIEFing].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã bắt đầu việc triển khai [với một buổi hướng dẫn rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [the implemenTAtion with a CLEAR BRIEFing] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "STARTed".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song song mới</strong>:</li>
+
+          <li className="list-none margin-bottom-10">[the implemenTAtion] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "STARTed" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [with a CLEAR BRIEFing] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] tiếp tục đảm nhận chính xác vai trò thiết lập khối bối cảnh phương thức cho hành động chính mà không làm biến dạng sơ đồ sắp xếp tổng thể. Bản chất là [prepoSITion PHRASE][GIỚI CỤM] mới, bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] đồng hành/phương thức "with" được đưa vào thế chỗ.</li>
+          <li className="list-none margin-bottom-10">[with a CLEAR BRIEFing] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "STARTed" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] đồng hành/phương thức "with" được đưa vào thế chỗ, tiếp tục đảm nhận chính xác vai trò thiết lập khối bối cảnh phương thức cho hành động chính mà không làm biến dạng sơ đồ sắp xếp tổng thể.</li>
       
         </ul>
 
