@@ -731,18 +731,18 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="9c">Ví dụ 9c:</p>
       
         <ul className="list-square">
       
           <li>[the ENgine which creATES SOlar ENergy] was REcently inSTALLED.</li>
-          <li className="margin-bottom-20 list-none">[Cỗ máy cái mà tạo ra năng lượng mặt trời] gần đây đã được lắp đặt.</li>
+          <li className="margin-bottom-20 list-none">[Cỗ máy tạo ra năng lượng mặt trời] vừa được lắp đặt.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ENgine which creATES SOlar ENergy] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [VERB PHRASE as PREDicator][ĐỘNG CỤM làm VỊ] "was ... inSTALLED".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ENgine which creATES SOlar ENergy] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "was" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which creATES SOlar ENergy] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ]. Bản chất là [RELative CLAUSE][QUAN ĐIỀU] chứa thành phần [PROnoun as HEAD][ĐẠI làm LÕI] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [NOUN as HEAD][DANH làm LÕI] "ENgine".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which creATES SOlar ENergy] - [FInite CLAUSE as post-MODifier][THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "ENgine". Bản chất là [RELative CLAUSE][QUAN ĐIỀU] chứa thành phần [PROnoun as HEAD][ĐẠI làm LÕI] vật thể "which" ở đầu, mang cụm hành động [FInite CLAUSE][THỜI ĐIỀU] "creATES ..." phối hợp phía sau xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối [NOUN as HEAD][DANH làm LÕI] "ENgine" để nhận diện và mô tả đặc điểm cho đối tượng.</li>
       
         </ul>
       

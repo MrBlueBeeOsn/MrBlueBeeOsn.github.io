@@ -735,18 +735,18 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="9c">Ví dụ 9c:</p>
 			
 				<ul className="list-square">
 			
 					<li>[the SERver which reSPONDS to USer reQUESTS] was REcently upGRADed.</li>
-					<li className="margin-bottom-20 list-none">[Máy chủ cái mà phản hồi các yêu cầu của người dùng] gần đây đã được nâng cấp.</li>
+					<li className="margin-bottom-20 list-none">[Máy chủ xử lý các yêu cầu của người dùng] vừa được nâng cấp.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the SERver which reSPONDS to USer reQUESTS] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [PRETerite FORM][KHỨ DẠNG] "was".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the SERver which reSPONDS to USer reQUESTS] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "was" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which reSPONDS to USer reQUESTS] - [FInite CLAUSE as post-MODifier][THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SERver". Bản chất là [RELative CLAUSE][QUAN ĐIỀU] chứa thành phần [PROnoun as HEAD][ĐẠI làm LÕI] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [NOUN as HEAD][DANH làm LÕI] "SERver".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which reSPONDS to USer reQUESTS] - [FInite CLAUSE as post-MODifier][THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SERver". Bản chất là [RELative CLAUSE][QUAN ĐIỀU] chứa thành phần [PROnoun as HEAD][ĐẠI làm LÕI] vật thể "which" ở đầu, mang cụm hành động [FInite CLAUSE][THỜI ĐIỀU] "reSPONDS ..." phối hợp phía sau xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối [NOUN as HEAD][DANH làm LÕI] "SERver" để nhận diện và mô tả đặc điểm cho đối tượng.</li>
 			
 				</ul>
 			
