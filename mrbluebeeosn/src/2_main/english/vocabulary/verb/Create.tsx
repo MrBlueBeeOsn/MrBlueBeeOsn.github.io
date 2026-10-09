@@ -1053,7 +1053,7 @@ export default function creATE(): React.JSX.Element {
 
       <h4 className="margin-y-40">2. Phân hệ [TRANsitive prepoSITion][NGOẠI GIỚI]: Thay đổi các MODule chứa mã định vị</h4>
 
-      <p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí cấp độ</strong> [<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí cấp độ</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>][<strong>GIỚI CỤM làm PHỤ</strong>]</p>
       
         <ul className="list-square">
       
@@ -1071,16 +1071,18 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>to-infiniTIval CLAUSE</strong>][<strong>TO-NGUYÊN ĐIỀU</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>][<strong>PHI-THỜI ĐIỀU làm PHỤ</strong>]:</p>
       
         <ul className="list-square">
       
-          <li>the TEAM ALlocated [TIME to creATE the SYStem INterface].</li>
-          <li className="margin-bottom-20 list-none">Đội ngũ đã phân bổ [thời gian để tạo ra giao diện hệ thống].</li>
+          <li>the TEAM ALlocated [TIME] [to creATE the SYStem INterface].</li>
+          <li className="margin-bottom-20 list-none">Nhóm đã dành [thời gian] [để phát triển giao diện hệ thống].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [TIME to creATE the SYStem INterface]</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song song mới</strong>:</li>
+
+          <li className="list-none margin-bottom-10">[TIME] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "ALlocated" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [to creATE the SYStem INterface] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò thiết lập khối bối cảnh mục đích tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "ALlocated" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] mới, được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "creATE ..." được đưa vào thế chỗ.</li>
+          <li className="list-none margin-bottom-10">[to creATE the SYStem INterface] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "ALlocated" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đảm nhận vai trò thiết lập khối bối cảnh mục đích tổng thể. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "creATE ..." và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
         </ul>
 

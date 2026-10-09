@@ -947,7 +947,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <h4 className="margin-y-40">2. Phân hệ Giới: Thay đổi các MODule chứa mã định vị</h4>
 
-      <p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí và thay thế khối mã</strong> [<strong>prepoSITion PHRASE as COMplement</strong>][<strong>GIỚI CỤM làm BỔ</strong>] <strong>tương đương</strong></p>
+      <p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí và thay thế khối mã</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>][<strong>GIỚI CỤM làm PHỤ</strong>] <strong>tương đương</strong></p>
       
         <ul className="list-square">
       
@@ -963,18 +963,18 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Thế khối [GIỚI CỤM] tương đương</strong>:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Thế khối [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] tương đương</strong>:</p>
       
         <ul className="list-square">
       
           <li>we STARTed [the implemenTAtion] [with a CLEAR BRIEFing].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi đã bắt đầu việc triển khai [với một buổi hướng dẫn rõ ràng].</li>
+          <li className="margin-bottom-20 list-none">Chúng tôi đã bắt đầu [việc triển khai] [bằng một buổi hội thảo rõ ràng].</li>
       
           <li className="list-none margin-bottom-10"><strong>Khối song song mới</strong>:</li>
 
           <li className="list-none margin-bottom-10">[the implemenTAtion] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "STARTed" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10">[with a CLEAR BRIEFing] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "STARTed" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] đồng hành/phương thức "with" được đưa vào thế chỗ, tiếp tục đảm nhận chính xác vai trò thiết lập khối bối cảnh phương thức cho hành động chính mà không làm biến dạng sơ đồ sắp xếp tổng thể.</li>
+          <li className="list-none margin-bottom-10">[with a CLEAR BRIEFing] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "STARTed" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] đồng hành/phương thức "with" và khối [NOUN PHRASE][DANH CỤM] phía sau được đưa vào thế chỗ, tiếp tục đảm nhận chính xác vai trò thiết lập khối bối cảnh phương thức cho hành động chính mà không làm biến dạng sơ đồ sắp xếp tổng thể.</li>
       
         </ul>
 

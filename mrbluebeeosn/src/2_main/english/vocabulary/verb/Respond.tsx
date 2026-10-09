@@ -1069,7 +1069,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Phân hệ [TRANsitive prepoSITion][NGOẠI GIỚI]: Thay đổi các MODule chứa mã định vị</h4>
 
-			<p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí cấp độ</strong> [<strong>prepoSITion PHRASE as COMplement</strong>][<strong>GIỚI CỤM làm BỔ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí cấp độ</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>][<strong>GIỚI CỤM làm PHỤ</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -1083,16 +1083,16 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>COMplex prepoSITional PHRASE</strong>][<strong>PHỨC GIỚI CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>][<strong>GIỚI CỤM làm PHỤ</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>the SYStem reSTARTed [in reSPONSE to the seCUrity PATCH].</li>
-					<li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [để ứng phó/phản hồi với bản vá bảo mật].</li>
+					<li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [để áp dụng bản vá bảo mật].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [in reSPONSE to the seCUrity PATCH] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "reSTARTed" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu. Bản chất là [prepoSITion PHRASE][GIỚI CỤM] mới, bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "in" được đưa vào thế chỗ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [in reSPONSE to the seCUrity PATCH] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "reSTARTed" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "in" được đưa vào thế chỗ, đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "reSTARTed".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [to the seCUrity PATCH]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [to the seCUrity PATCH] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [NOUN as HEAD][DANH làm LÕI] ở [deVERBal NOUN][ĐỘNG DANH] "reSPONSE", được hình thành từ [inTRANsitive VERB][NỘI ĐỘNG] "reSPOND" kéo theo [TRANsitive prepoSITion][NGOẠI GIỚI] "to" và khối [NOUN PHRASE][DANH CỤM] phía sau.</li>
 			
 				</ul>
 
