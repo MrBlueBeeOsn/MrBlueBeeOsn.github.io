@@ -726,11 +726,11 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the diRECtor exPLAINED [HOW the TEAM reSPONDS to URgent inQUIRies].</li>
-					<li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ phản hồi các truy vấn khẩn cấp].</li>
+					<li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ xử lý các yêu cầu khẩn cấp].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW the TEAM reSPONDS to URgent inQUIRies] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chứa dữ liệu mục tiêu tiếp nhận cho hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED". Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, có [NOUN as HEAD][DANH làm LÕI] "TEAM" và cụm hành động phối hợp phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW the TEAM reSPONDS to URgent inQUIRies] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "exPLAINED" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, có [NOUN as HEAD][DANH làm LÕI] "TEAM" và cụm hành động [FInite CLAUSE][THỜI ĐIỀU] "reSPONDS ..." phối hợp phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [to URgent inQUIRies] - </li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [to URgent inQUIRies] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reSPONDS", bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "to" và khối [NOUN PHRASE][DANH CỤM] phía sau.</li>
 			
 				</ul>
 			

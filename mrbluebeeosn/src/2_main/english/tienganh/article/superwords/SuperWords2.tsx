@@ -98,7 +98,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Swimming] - [NOUN PHRASE as SUBject][DANH CỤM] đứng đầu câu, chỉ một hoạt động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Swimming] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] đứng đầu câu, chỉ một hoạt động.</li>
 			
 				</ul>
 			
@@ -112,7 +112,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Smoking] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Smoking] - [NOUN PHRASE as SUBject][DANH CỤM] đứng đầu câu, chỉ một thói quen.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Smoking] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] đứng đầu câu, chỉ một thói quen.</li>
 			
 				</ul>
 			
@@ -437,7 +437,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Swimming] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] bắt đầu từ [ĐỘNG] nguyên bản thêm -ing.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Swimming] - [NOUN PHRASE as SUBject][DANH CỤM] đứng đầu câu, chỉ một hoạt động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Swimming] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] đứng đầu câu, chỉ một hoạt động.</li>
 			
 				</ul>
 			

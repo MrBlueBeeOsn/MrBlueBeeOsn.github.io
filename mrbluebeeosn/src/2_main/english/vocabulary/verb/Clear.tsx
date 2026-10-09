@@ -671,18 +671,18 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="9b">Ví dụ 9b:</p>
       
         <ul className="list-square">
       
           <li>[the engiNEER who CLEARED the ERror CODES] FIXED the SERver.</li>
-          <li className="margin-bottom-20 list-none">[Người kỹ sư người mà đã xóa các mã lỗi] đã sửa chữa máy chủ.</li>
+          <li className="margin-bottom-20 list-none">[Kỹ sư đã xóa các mã lỗi] đã khắc phục sự cố máy chủ.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the engiNEER who CLEARED the ERror CODES] - [NOUN PHRASE as SUBject][DANH CỤM] của hành động [PRETerite FORM][KHỨ DẠNG] "FIXED", đóng vai trò chủ thể cốt lõi trong câu.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the engiNEER who CLEARED the ERror CODES] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "FIXED" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đóng vai trò chủ thể cốt lõi trong câu.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [who CLEARED the ERror CODES] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "engiNEER". Bản chất là [RELative CLAUSE][QUAN ĐIỀU] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân [PRETerite FORM][KHỨ DẠNG] "CLEARED" xử lý bối cảnh thuộc trục thời quá khứ. Hoạt động như một MODule lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng [NOUN as HEAD][DANH làm LÕI] "engiNEER".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [who CLEARED the ERror CODES] - [FInite CLAUSE as post-MODifier][THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "engiNEER". Bản chất là [RELative CLAUSE][QUAN ĐIỀU] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân  xử lý bối cảnh thuộc trục thời quá khứ. Hoạt động như một MODule lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng [NOUN as HEAD][DANH làm LÕI] "engiNEER".</li>
       
         </ul>
       

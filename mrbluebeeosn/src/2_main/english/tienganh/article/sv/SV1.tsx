@@ -787,7 +787,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[KNOWledge] is POWer.</li>
 					<li className="margin-bottom-20 list-none">[Tri thức] là sức mạnh.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [KNOWledge] - [NOUN PHRASE as SUBject][DANH CỤM] đứng ở đầu câu làm [SUBject][CHỦ] cho toàn câu.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [KNOWledge] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] đứng ở đầu câu làm [SUBject][CHỦ] cho toàn câu.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [KNOWledge] - MODified NOUNĐỊNH DANH hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "KNOW" kết hợp hậu tố "-ledge" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
