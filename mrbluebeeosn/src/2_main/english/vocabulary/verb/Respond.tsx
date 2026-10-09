@@ -1039,7 +1039,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole" id="Case-3"><strong>Case 3</strong>: <strong>Kỹ thuật hạ cấp từ</strong> [<strong>FInite CLAUSE as post-MODifier</strong>][<strong>THỜI ĐIỀU làm HẬU-CHỈNH</strong>] <strong>về</strong> [<strong>ADjective as pre-MODdifier</strong>][<strong>TÍNH làm TIỀN-CHỈNH</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-3"><strong>Case 3</strong>: <strong>Kỹ thuật hạ cấp từ</strong> [<strong>FInite CLAUSE as post-MODifier</strong>][<strong>THỜI ĐIỀU làm HẬU-CHỈNH</strong>] <strong>về</strong> [<strong>ADjective as pre-MODifier</strong>][<strong>TÍNH làm TIỀN-CHỈNH</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -1053,16 +1053,16 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về</strong> [<strong>ADjective as pre-MODdifier</strong>][<strong>TÍNH làm TIỀN-CHỈNH</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về</strong> [<strong>ADjective as pre-MODifier</strong>][<strong>TÍNH làm TIỀN-CHỈNH</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the FIRM HIred [a reSPONsive SERvice].</li>
-					<li className="margin-bottom-20 list-none">Công ty đã thuê một dịch vụ [có độ phản hồi nhanh nhạy/linh hoạt].</li>
+					<li className="margin-bottom-20 list-none">Công ty đã thuê [một dịch vụ linh hoạt].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [a reSPONsive SERvice] - </li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [a reSPONsive SERvice] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "HIred" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SERvice" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Bản chất là [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [reSPONsive] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "SERvice" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối [deVERBal ADjective][ĐỘNG TÍNH] "reSPONsive", có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
 			
 				</ul>
 

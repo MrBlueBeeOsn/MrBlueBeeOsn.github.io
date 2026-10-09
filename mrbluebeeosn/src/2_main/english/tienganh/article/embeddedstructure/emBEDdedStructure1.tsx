@@ -153,7 +153,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Phát triển tuyến tính từ [HEAD][LÕI] → [PHRASE][CỤM] → [CLAUSE][ĐIỀU].</li>
 			
 					<li><strong>Chiều ngang</strong> — <strong>Chức năng thực thi</strong>:</li>
-					<li className="list-none">3 chương trình phần mềm cốt lõi được hình thành bao gồm [NOUN as HEAD][DANH làm LÕI] (Dữ liệu/Đầu việc), [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] (Bộ lọc/Mô tả), và [ADverb HEAD][TRẠNG LÕI] (Bối cảnh).</li>
+					<li className="list-none">3 chương trình phần mềm cốt lõi được hình thành bao gồm [NOUN as HEAD][DANH làm LÕI] (Dữ liệu/Đầu việc), [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] (Bộ lọc/Mô tả), và [ADverb HEAD][TRẠNG LÕI] (Bối cảnh).</li>
 			
 				</ul>
 
@@ -369,7 +369,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>we inSPECTed the [deSIGNED] BLUEprint.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã kiểm tra bản thiết kế [được phác thảo].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [deSIGNED] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng  "BLUEprint" để hiển thị đặc điểm vật lý của đối tượng đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [deSIGNED] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng  "BLUEprint" để hiển thị đặc điểm vật lý của đối tượng đó.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [deSIGNED] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "deSIGN" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu hiện dưới dạng hạt nhân hành động mang trạng thái bị động.</li>
 			
@@ -803,7 +803,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>i BOUGHT a [jaPAN-BUILT] deVICE.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã mua một thiết bị [do Nhật chế tạo].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [jaPAN-BUILT] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] thiết lập vị trí ngay trước đối tượng  "deVICE" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [jaPAN-BUILT] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] thiết lập vị trí ngay trước đối tượng  "deVICE" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [jaPAN-BUILT] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "BUILT" mặc thêm tiền tố "Japan-" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] thuộc nhóm chức năng mô tả.</li>
 			

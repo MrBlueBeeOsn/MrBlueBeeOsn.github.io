@@ -137,7 +137,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li><strong>Chiều dọc</strong> — <strong>Các Cấp độ của Hình thái</strong>: [HEAD][LÕI] → [PHRASE][CỤM] → [CLAUSE][ĐIỀU].</li>
 			
-					<li><strong>Chiều ngang</strong> — <strong>3 Chức năng cốt lõi</strong>: [NOUN as HEAD][DANH làm LÕI] — [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] — [ADverb HEAD][TRẠNG LÕI].</li>
+					<li><strong>Chiều ngang</strong> — <strong>3 Chức năng cốt lõi</strong>: [NOUN as HEAD][DANH làm LÕI] — [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] — [ADverb HEAD][TRẠNG LÕI].</li>
 			
 				</ul>
 			
@@ -219,7 +219,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			
 
-			<p className="margin-top-20">Bên cạnh đó, ngôn ngữ còn sử dụng một loại hình thái khối đặc biệt không xuất phát từ [LEXical VERB][VỰNG ĐỘNG], đó là [prepoSITion PHRASE][GIỚI CỤM]. Khối hình thái này chuyên đảm nhận việc sinh ra chức năng [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] và [ADverb HEAD][TRẠNG LÕI] ở cấp độ [PHRASE][CỤM].</p>
+			<p className="margin-top-20">Bên cạnh đó, ngôn ngữ còn sử dụng một loại hình thái khối đặc biệt không xuất phát từ [LEXical VERB][VỰNG ĐỘNG], đó là [prepoSITion PHRASE][GIỚI CỤM]. Khối hình thái này chuyên đảm nhận việc sinh ra chức năng [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] và [ADverb HEAD][TRẠNG LÕI] ở cấp độ [PHRASE][CỤM].</p>
 			
 			<p>Hãy nhớ hai định nghĩa nền tảng về câu:</p>
 			
@@ -364,7 +364,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>we FOUND an [unexPECted] soLUtion.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã tìm ra một giải pháp [bất ngờ/không mong đợi].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [unexPECted] – [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] đang đứng vị trí trước và bổ nghĩa, mô tả tính chất cho  "soLUtion" giải pháp.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [unexPECted] – [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] đang đứng vị trí trước và bổ nghĩa, mô tả tính chất cho  "soLUtion" giải pháp.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [unexPECted] – [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "exPECT" mặc thêm tiền tố phủ định "un-" kết hợp với hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] mang tính mô tả tĩnh.</li>
 					
@@ -770,7 +770,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li>Nó thuộc về hệ thống phân loại [PREDicator HEAD][VỊ LÕI]: [HEAD][LÕI], [PHRASE][CỤM], [CLAUSE][ĐIỀU] hay thuộc về khối [prepoSITion PHRASE][GIỚI CỤM]?</li>
 			
-					<li>Sau đó, hãy nhìn vào vị trí đứng của nó để gọi tên đúng Chức năng [NOUN as HEAD][DANH làm LÕI] — [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] — [ADverb HEAD][TRẠNG LÕI].</li>
+					<li>Sau đó, hãy nhìn vào vị trí đứng của nó để gọi tên đúng Chức năng [NOUN as HEAD][DANH làm LÕI] — [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] — [ADverb HEAD][TRẠNG LÕI].</li>
 			
 				</ul>
 			

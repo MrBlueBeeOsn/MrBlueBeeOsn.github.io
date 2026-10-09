@@ -915,32 +915,32 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-y-30 text-indent-whole" id="Case-3">Case 3: Kỹ thuật hạ cấp từ [CLAUSE] về [ADjective]</h5>
+      <h5 className="margin-y-30 text-indent-whole" id="Case-3">Case 3: Kỹ thuật hạ cấp từ [FInite CLAUSE][THỜI ĐIỀU] về [ADjective][TÍNH]</h5>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as post-MODifier</strong>][<strong>THỜI ĐIỀU làm HẬU-CHỈNH</strong>] <strong>→</strong> [<strong>ADjective as pre-MODdifier</strong>][<strong>TÍNH làm TIỀN-CHỈNH</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as post-MODifier</strong>][<strong>THỜI ĐIỀU làm HẬU-CHỈNH</strong>] <strong>→</strong> [<strong>ADjective as pre-MODifier</strong>][<strong>TÍNH làm TIỀN-CHỈNH</strong>]</p>
       
         <ul className="list-square">
       
           <li>i LIKE [an appliCAtion which CLEARS STORage SMOOTHly].</li>
           <li className="margin-bottom-20 list-none">Tôi thích [một ứng dụng giúp dọn dẹp bộ nhớ một cách mượt mà].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [an appliCAtion which CLEARS STORage SMOOTHly] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "LIKE".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [an appliCAtion which CLEARS STORage SMOOTHly] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "LIKE" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
          
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which CLEARS STORage SMOOTHly] - [FInite CLAUSE as post-MODifier][THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "appliCAtion". Bản chất là [RELative CLAUSE][QUAN ĐIỀU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và cụm hành động [FInite CLAUSE][THỜI ĐIỀU] "CLEARS ..." phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng "appliCAtion".</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về HEAD</strong> (<strong>Từ đơn</strong>):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về</strong> [<strong>ADjective as pre-MODifier</strong>][<strong>TÍNH làm TIỀN-CHỈNH</strong>]:</p>
       
         <ul className="list-square">
       
           <li>i LIKE [a CLEAR SYStem LAYout].</li>
-          <li className="margin-bottom-20 list-none">Tôi thích một bố cục hệ thống [rõ ràng].</li>
+          <li className="margin-bottom-20 list-none">Tôi thích [một cách bố trí hệ thống rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [a CLEAR SYStem LAYout] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [a CLEAR SYStem LAYout] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "LIKE" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [CLEAR]- [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần ADjective đơn duy nhất. Thiết lập vị trí ngay trước đối tượng [NOUN PHRASE][DANH CỤM] "SYStem LAYout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [CLEAR] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "LAYout". Hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "CLEAR", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm [deVERBal ADjective][ĐỘNG TÍNH] "CLEAR", đã được cô đọng hoàn toàn về dạng một thành phần đơn duy nhất. Thiết lập vị trí ngay trước đối tượng [NOUN PHRASE][DANH CỤM] "SYStem LAYout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
         </ul>
 

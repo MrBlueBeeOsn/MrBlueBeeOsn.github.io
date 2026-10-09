@@ -48,7 +48,7 @@ export default function (): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [AUdited] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] using a single past participle form of the verb to function as a modifier. \n\n Function: [AUdited] - [ADjective as pre-MODdifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] directly modifying the financial noun \"STATEments\" to clarify their verified status."
+			explanation: "Form: [AUdited] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] using a single past participle form of the verb to function as a modifier. \n\n Function: [AUdited] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] directly modifying the financial noun \"STATEments\" to clarify their verified status."
 		},
 		{
 			id: 4,
