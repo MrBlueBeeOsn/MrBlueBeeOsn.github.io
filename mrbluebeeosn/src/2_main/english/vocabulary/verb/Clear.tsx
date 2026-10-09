@@ -388,7 +388,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>she exPLAINED [the PROCess] [CLEARly].</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã giải thích [quy trình] [một cách rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song</strong>:</li>
 
           <li className="list-none margin-bottom-10">[the PROCess] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "exPLAINED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
@@ -615,7 +615,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>they MADE [the deCISion] [<strong>af</strong>ter a CLEAR explaNAtion].</li>
           <li className="margin-bottom-20 list-none">Họ đã ra [quyết định] [sau khi được giải thích rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song</strong>:</li>
 
           <li className="list-none margin-bottom-10">[the deCISion] - [NOUN PHRASE as COMPlement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "MADE" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
@@ -885,34 +885,32 @@ export default function CLEAR(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole" id="Case-2">Case 2: Khối song song gốc</h5>
+      <h5 className="margin-y-30 text-indent-whole" id="Case-2">Case 2: Khối song</h5>
 
-      <p className="margin-top-20 text-indent-whole">[NOUN PHRASE as COMplement][DANH CỤM làm BỔ]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm BỔ</strong>]</p>
       
         <ul className="list-square">
       
           <li>we imPROVED [the perFORmance] [by CLEARing OLD DAtabase LOGS].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện [hiệu suất bằng cách xóa các nhật ký cơ sở dữ liệu cũ].</li>
+          <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện [hiệu suất] [bằng cách xóa các nhật ký cơ sở dữ liệu cũ].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối song song</strong> gốc:</li>
-
-          <li className="list-none margin-bottom-10">[the perFORmance] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the perFORmance] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> gốc: [by CLEARing OLD DAtabase LOGS] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU], bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] phương thức "by" đi kèm cụm hành động phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song gốc</strong>: [by CLEARing OLD DAtabase LOGS] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU], bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] phương thức "by" đi kèm cụm hành động [non-FInite CLAUSE as COMplement][PHI-THỜI ĐIỀU làm BỔ] "CLEARing ..." phía sau.</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên [LIÊN ĐIỀU]</strong>:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>FInite CLAUSE as COMplement</strong>][<strong>THỜI ĐIỀU làm BỔ</strong>]:</p>
       
         <ul className="list-square">
       
-          <li>we imPROVED [the perFORmance be<strong>cause</strong> the SYStem CLEARED all JUNK DAta].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện [hiệu suất vì hệ thống đã dọn sạch tất cả dữ liệu rác].</li>
+          <li>we imPROVED [the perFORmance] [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta].</li>
+          <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện [hiệu suất] [vì hệ thống đã dọn sạch tất cả dữ liệu rác].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [the perFORmance be<strong>cause</strong> the SYStem CLEARED all JUNK DAta] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPROVED".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the perFORmance] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [PRETerite FORM][KHỨ DẠNG] "imPROVED", hiển thị dưới dạng khối mã chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] "system" và hạt nhân [PRETerite FORM][KHỨ DẠNG] "CLEARED" đi sau [TRANsitive prepoSITion][NGOẠI GIỚI] "be<strong>cause</strong>".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song mới</strong>: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta]- [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "be<strong>cause</strong>", bên trong chứa "the SYStem CLEARED ...", là một [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive prepoSITion][NGOẠI GIỚI] "be<strong>cause</strong>", đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn.</li>
       
         </ul>
 

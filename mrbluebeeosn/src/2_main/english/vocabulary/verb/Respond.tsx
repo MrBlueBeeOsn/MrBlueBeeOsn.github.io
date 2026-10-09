@@ -392,7 +392,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the SYStem SOLVED [the QUEry] [reSPONsively] [during the TEST].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã giải quyết [câu truy vấn] [một cách linh hoạt] [trong quá trình kiểm thử].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
+					<li className="list-none margin-bottom-10"><strong>Khối song</strong>:</li>
 
 					<li className="list-none margin-bottom-10">[the QUEry] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "SOLVED".</li>
 
@@ -1005,20 +1005,18 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole" id="Case-2"><strong>Case 2</strong>:[<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-2"><strong>Case 2</strong>:[<strong>non-FInite CLAUSE as COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm BỔ</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the COMpany imPROVED [satisFACtion] [by reSPONDing QUICKly to supPORT TICKets].</li>
 					<li className="margin-bottom-20 list-none">Công ty đã nâng cao [mức độ hài lòng của khách hàng bằng cách phản hồi nhanh chóng các yêu cầu hỗ trợ].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối song song gốc</strong>:</li>
-
-					<li className="list-none margin-bottom-10">[satisFACtion] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [satisFACtion] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
 					
-					<li className="list-none margin-bottom-10">[by reSPONDing QUICKly to supPORT TICKets] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" để mô tả cách thức thực hiện hành động, bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "by".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối song gốc</strong>: [by reSPONDing QUICKly to supPORT TICKets] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" để mô tả cách thức thực hiện hành động, bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "by" đi kèm cụm hành động [non-FInite CLAUSE as COMplement][PHI-THỜI ĐIỀU làm BỔ] "reSPONDing ..." phía sau.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong gốc</strong>:</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
 					<li className="list-none margin-bottom-10">[QUICKly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing". Hình thành từ khối [LEXical ADjective][VỰNG TÍNH] nguyên bản "QUICK" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
 					
@@ -1027,16 +1025,16 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>suBORdinate CLAUSE</strong>][<strong>PHỤ ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>FInite CLAUSE as COMplement</strong>][<strong>THỜI ĐIỀU làm BỔ</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the COMpany imPROVED [satisFACtion be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets].</li>
 					<li className="margin-bottom-20 list-none">Công ty đã cải thiện sự hài lòng [vì đội ngũ đã phản hồi nhanh chóng các phiếu hỗ trợ].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [satisFACtion be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets] - [NOUN PHRASE][DANH CỤM] chứa một [prepoSITion PHRASE as post-MODidier][GIỚI CỤM làm HẬU-CHỈNH] "be<strong>cause</strong> ..." để bổ nghĩa cho [HEA as NOUN][LÕI làm DANH] "satisFACtion".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [satisFACtion] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "imPROVED" và toàn bộ diễn biến phía trước. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] hiển thị dưới dạng khối mã chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] "team" và cụm hành động đi sau thành phần [TRANsitive prepoSITion][NGOẠI GIỚI] "be<strong>cause</strong>".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối song mới</strong>: [be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "imPROVED" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "be<strong>cause</strong>", bên trong chứa "the TEAM reSPONDED...", là một [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive prepoSITion][NGOẠI GIỚI] "be<strong>cause</strong>", đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn.</li>
 			
 				</ul>
 

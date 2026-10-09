@@ -390,7 +390,7 @@ export default function creATE(): React.JSX.Element {
           <li>the ARtist SOLVED [the PROBlem] [creAtively] [during the PROject].</li>
           <li className="margin-bottom-20 list-none">Nghệ sĩ đã giải quyết [vấn đề] [một cách sáng tạo] [trong quá trình thực hiện dự án].</li>
 
-          <li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song</strong>:</li>
 
           <li className="list-none margin-bottom-10">[the PROBlem] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "SOLVED".</li>
 
@@ -995,32 +995,30 @@ export default function creATE(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole" id="Case-2"><strong>Case 2</strong>: [<strong>2 khối song song</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="Case-2"><strong>Case 2</strong>: [<strong>non-FInite CLAUSE as COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm BỔ</strong>]</p>
       
         <ul className="list-square">
       
           <li>the COMpany BOOSted [VALue] [by creAting uNIQUE PROducts].</li>
           <li className="margin-bottom-20 list-none">Công ty đã nâng cao [giá trị] [bằng cách tạo ra các sản phẩm độc đáo].</li>
-      
-          <li className="list-none margin-bottom-10"><strong>Khối song song gốc</strong>:</li>
 
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [VALue] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "BOOSted" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10">[by creAting uNIQUE PROducts] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "BOOSted" trong [MAIN CLAUSE][CHÍNH ĐIỀU], bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] phương thức "by" đi kèm cụm hành động phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song gốc</strong>: [by creAting uNIQUE PROducts] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "BOOSted" trong [MAIN CLAUSE][CHÍNH ĐIỀU], bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] phương thức "by" đi kèm cụm hành động [non-FInite CLAUSE as COMplement][PHI-THỜI ĐIỀU làm BỔ] "creAting uNIQUE PROducts" phía sau.</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>suBORdinate CLAUSE</strong>][<strong>PHỤ ĐIỀU</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>FInite CLAUSE as COMplement</strong>][<strong>THỜI ĐIỀU làm COMplement</strong>]</p>
       
         <ul className="list-square">
       
-          <li>the COMpany BOOSted [VALue be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts].</li>
+          <li>the COMpany BOOSted [VALue] [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts].</li>
           <li className="margin-bottom-20 list-none">Công ty đã gia tăng [giá trị vì các nhà phát triển đã tạo ra các sản phẩm độc đáo].</li>
-      
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong> mới: [VALue be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts]</li>
+
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [VALue] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "BOOSted" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong> mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "BOOSted" và toàn bộ diễn biến phía trước. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] hiển thị dưới dạng khối mã chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] "deVElopers" và cụm hành động đi sau thành phần [TRANsitive prepoSITion][NGOẠI GIỚI] "be<strong>cause</strong>".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối song mới</strong>: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "BOOSted" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "be<strong>cause</strong>", bên trong chứa "the deVElopers creAted...", là một [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive prepoSITion][NGOẠI GIỚI] "be<strong>cause</strong>", đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn.</li>
       
         </ul>
 
