@@ -698,33 +698,33 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Hình thành chức năng</strong> [<strong>CONtent CLAUSE</strong>][<strong>NỘI ĐIỀU</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as SUBject</strong>][<strong>THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as SUBject</strong>][<strong>THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="9a">Ví dụ 9a:</p>
       
         <ul className="list-square">
       
           <li>[HOW the ARtist creATES uNIQUE SCULPtures] FAScinates the AUdience.</li>
-          <li className="margin-bottom-20 list-none">[Cách người nghệ sĩ tạo ra các bức tượng điêu khắc độc đáo] cuốn hút khán giả.</li>
+          <li className="margin-bottom-20 list-none">[Cách nghệ sĩ tạo ra những tác phẩm điêu khắc độc đáo] khiến khán giả say mê.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HOW the ARtist creATES uNIQUE SCULPtures] - [FInite CLAUSE as SUBject][THỜI ĐIỀU] quản lý khối thông tin quy trình, điều khiển chính cho hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "FAScinates". Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, mang [NOUN as HEAD][DANH làm LÕI] riêng "the ARtist" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HOW the ARtist creATES uNIQUE SCULPtures] - [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "FAScinates" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, mang [NOUN as HEAD][DANH làm LÕI] riêng "ARtist" và cụm hành động [FInite CLAUSE][THỜI ĐIỀU] "creATES ..." phối hợp phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the ARtist creATES uNIQUE SCULPtures] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [uNIQUE SCULPtures] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "creATES".</li>
       
         </ul>
 
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as COMplement</strong>][<strong>THỜI ĐIỀU làm BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as COMplement</strong>][<strong>THỜI ĐIỀU làm BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="9b">Ví dụ 9b:</p>
       
         <ul className="list-square">
       
-          <li>the diRECtor exPLAINED [how the TEAM creATES efFECtive adVERtisements].</li>
+          <li>the diRECtor exPLAINED [HOW the TEAM creATES efFECtive adVERtisements].</li>
           <li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ tạo ra các quảng cáo hiệu quả].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [how the TEAM creATES efFECtive adVERtisements] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chứa dữ liệu mục tiêu tiếp nhận cho hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED". Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, có [NOUN as HEAD][DANH làm LÕI] "TEAM" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HOW the TEAM creATES efFECtive adVERtisements] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chứa dữ liệu mục tiêu tiếp nhận cho hành động [PRETerite FORM][KHỨ DẠNG] "exPLAINED". Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa thành phần [ADverb][TRẠNG] "HOW" ở đầu, có [NOUN as HEAD][DANH làm LÕI] "TEAM" và cụm hành động phối hợp phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the TEAM creATES efFECtive adVERtisements] - </li>
       
@@ -742,7 +742,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ENgine which creATES SOlar ENergy] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của hành động [VERB PHRASE as PREDicator][ĐỘNG CỤM làm VỊ] "was ... inSTALLED".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which creATES SOlar ENergy] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ]. Bản chất là [RELative CLAUSE][QUAN ĐIỀU] chứa thành phần [PROnoun as SUBject ][ĐẠI làm CHỦ] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [NOUN as HEAD][DANH làm LÕI] "ENgine".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which creATES SOlar ENergy] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ]. Bản chất là [RELative CLAUSE][QUAN ĐIỀU] chứa thành phần [PROnoun as HEAD][ĐẠI làm LÕI] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng [NOUN as HEAD][DANH làm LÕI] "ENgine".</li>
       
         </ul>
       
@@ -793,7 +793,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deSIGN she creAted for the CLIent] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [she creAted for the CLIent] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn thành phần [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] vật thể đứng trước, giữ lại khối [PROnoun as SUBject ][ĐẠI làm CHỦ] "she" và cụm [PAST VERB PHRASE][ĐÃ ĐỘNG CỤM] "creAted for the CLIent". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD][DANH làm LÕI] "deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [she creAted for the CLIent] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn thành phần [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] vật thể đứng trước, giữ lại khối [PROnoun as HEAD][ĐẠI làm LÕI] "she" và cụm [PAST VERB PHRASE][ĐÃ ĐỘNG CỤM] "creAted for the CLIent". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD][DANH làm LÕI] "deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
       
         </ul>
       
@@ -834,7 +834,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting soLUtions for WHAT CLIents STRUGgle with] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "BUILDS", chịu trách nhiệm làm một khối đầu việc lớn. Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] lớn phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHAT CLIents STRUGgle with] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [TRANsitive prepoSITion][NGOẠI GIỚI] "for" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] riêng "CLIents" và cụm hành động riêng đi sau thành phần [PROnoun][ĐẠI] "what".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHAT CLIents STRUGgle with] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [TRANsitive prepoSITion][NGOẠI GIỚI] "for" ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] riêng "CLIents" và cụm hành động riêng đi sau thành phần [PROnoun][ĐẠI] "what".</li>
       
         </ul>
 
@@ -854,7 +854,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [exPLORing WHY the TEAM creAted outDAted deSIGNS] - [<strong>non-FInite CLAUSE as CATenative COMplement</strong>][<strong>PHI-THỜI ĐIỀU làm CHUỖI BỔ</strong>] của hành động [PRETerite FORM][KHỨ DẠNG] "sugGESted", đóng vai trò làm  tiếp nhận nội dung. Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "exPLORing" kết hợp vùng mã mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the TEAM creAted outDAted deSIGNS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "exPLORing" ở tầng ngoài, làm rõ nội dung cho việc tìm hiểu. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] riêng "the TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau thành phần [ADverb][TRẠNG] "WHY".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the TEAM creAted outDAted deSIGNS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "exPLORing" ở tầng ngoài, làm rõ nội dung cho việc tìm hiểu. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] riêng "TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau thành phần [ADverb][TRẠNG] "WHY".</li>
       
         </ul>
 
@@ -874,7 +874,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to underSTAND HOW the SYStem creATES AUtomated rePORTS] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres", để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem creATES AUtomated rePORTS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] "system" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem creATES AUtomated rePORTS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] "system" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
       
         </ul>
 
@@ -894,7 +894,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to STUdy HOW Users creATE PERsonal PROfiles] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "PLANS", đóng vai trò làm  tiếp nhận mục tiêu kế hoạch. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "STUdy ..." kéo theo vùng mã bổ trợ phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW Users creATE PERsonal PROfiles] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "STUdy" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa [NOUN as HEAD][DANH làm LÕI] riêng "Users" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW Users creATE PERsonal PROfiles] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "STUdy" ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa [NOUN as HEAD][DANH làm LÕI] riêng "Users" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
       
         </ul>
 
@@ -914,7 +914,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVAluate HOW the appliCAtion creATES User LOGS] - [non-FInite CLAUSE as extraPOSED SUBject][PHI-THỜI ĐIỀU làm NGOẠICHỦ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "TAKES", chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò  bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "eVAluate ..." và kéo theo thành phần bổ trợ phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the appliCAtion creATES User LOGS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "eVAluate" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] riêng "the appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [ADverb][TRẠNG] "HOW". - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the appliCAtion creATES User LOGS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "eVAluate" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] riêng "appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [ADverb][TRẠNG] "HOW". - </li>
       
         </ul>
     
@@ -936,7 +936,7 @@ export default function creATE(): React.JSX.Element {
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [regarding HOW the TEAM creATES NEW MARketing CHANnels] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "proPOsals" (với "regarding" đóng vai trò [TRANsitive prepoSITion][NGOẠI GIỚI]) biểu thị dưới dạng một vùng mã lớn.</li>
 
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the TEAM creATES NEW MARketing CHANnels] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] "TEAM" và cụm hành động đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the TEAM creATES NEW MARketing CHANnels] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] "TEAM" và cụm hành động đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
       
         </ul>
 
@@ -956,7 +956,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [on WHY the deSIGNer creAted COMplex LAYouts] - [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm/nội dung tổng thể, bổ nghĩa cho hành động [PRETerite FORM][KHỨ DẠNG] "FOcused". Bản chất là [prepoSITion PHRASE][GIỚI CỤM] biểu thị dưới dạng một vùng mã xác lập nội dung lớn bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "on".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the deSIGNer creAted COMplex LAYouts] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [TRANsitive prepoSITion][NGOẠI GIỚI] "on" ở tầng ngoài. Bản chất là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] riêng "the deSIGNer" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [ADverb][TRẠNG] "WHY".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the deSIGNer creAted COMplex LAYouts] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [TRANsitive prepoSITion][NGOẠI GIỚI] "on" ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] riêng "deSIGNer" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [ADverb][TRẠNG] "WHY".</li>
       
         </ul>
 
@@ -1032,7 +1032,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a TEAM which creATES interACtive ART PROjects] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "HIred" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which creATES interACtive ART PROjects] - [FInite CLAUSE as post-MODifier][THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "TEAM". Bản chất là [RELative CLAUSE][QUAN ĐIỀU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [PROnoun as SUBject ][ĐẠI làm CHỦ] "which" và cụm hành động [FInite CLAUSE][THỜI ĐIỀU] "creATES ..." phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng  "TEAM".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which creATES interACtive ART PROjects] - [FInite CLAUSE as post-MODifier][THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "TEAM". Bản chất là [RELative CLAUSE][QUAN ĐIỀU] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [PROnoun as HEAD][ĐẠI làm LÕI] "which" và cụm hành động [FInite CLAUSE][THỜI ĐIỀU] "creATES ..." phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng  "TEAM".</li>
       
         </ul>
       

@@ -770,7 +770,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The man [______] is a doctor.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [sống cạnh nhà] là bác sĩ.</li>
 			
-					<li className="list-none">[who lives next door] – [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] → [ADjective CLAUSE][TÍNH ĐIỀU] – bổ nghĩa cho The man.</li>
+					<li className="list-none">[who lives next door] – [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] → [ADjective CLAUSE][TÍNH ĐIỀU] – bổ nghĩa cho The man.</li>
 			
 				</ul>
 			

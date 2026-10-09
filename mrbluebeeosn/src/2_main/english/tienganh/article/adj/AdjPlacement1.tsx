@@ -452,7 +452,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>[the FRAMEwork which GOVerns MARket reguLAtions] is roBUST.</li>
 					<li className="margin-bottom-20 list-none">Khung [cái mà chi phối các quy định thị trường] thì vô cùng vững chắc.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which GOVerns MARket reguLAtions - [RELative CLAUSE][QUAN ĐIỀU] mở đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] "which" nối tiếp chuỗi hành động chia thời. Định danh bản chất chức năng của [NOUN as HEAD][DANH làm LÕI] "FRAMEwork".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which GOVerns MARket reguLAtions - [RELative CLAUSE][QUAN ĐIỀU] mở đầu bằng [PROnoun as HEAD][ĐẠI làm LÕI] "which" nối tiếp chuỗi hành động chia thời. Định danh bản chất chức năng của [NOUN as HEAD][DANH làm LÕI] "FRAMEwork".</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the FRAMEwork which GOVerns MARket reguLAtions] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ].</li>
 			
@@ -559,7 +559,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				
 						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [of WHAT they inVEStigated] - [prepoSITion PHRASE][GIỚI CỤM] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [prepoSITion][GIỚI] "of".</li>
 
-						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: WHAT they inVEStigated - [RELative CLAUSE][QUAN ĐIỀU] kết hợp [PROnoun as SUBject ][ĐẠI làm CHỦ] "WHAT" - "the THING WHICH" tạo nên lõi thông tin.</li>
+						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: WHAT they inVEStigated - [RELative CLAUSE][QUAN ĐIỀU] kết hợp [PROnoun as HEAD][ĐẠI làm LÕI] "WHAT" - "the THING WHICH" tạo nên lõi thông tin.</li>
 				
 					</ul>
 
@@ -681,7 +681,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>[the POLicy which is efFECtive] will be apPLIED.</li>
 					<li className="margin-bottom-20 list-none">[Chính sách cái mà hiệu quả] sẽ được áp dụng.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which is efFECtive - [RELative CLAUSE][QUAN ĐIỀU] mở đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] "which" kết hợp [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" và [MODified ADjective][ĐỊNH TÍNH] "efFECtive". Vạch rõ bản chất định danh cho đối tượng [NOUN as HEAD][DANH làm LÕI] "POLicy".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which is efFECtive - [RELative CLAUSE][QUAN ĐIỀU] mở đầu bằng [PROnoun as HEAD][ĐẠI làm LÕI] "which" kết hợp [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" và [MODified ADjective][ĐỊNH TÍNH] "efFECtive". Vạch rõ bản chất định danh cho đối tượng [NOUN as HEAD][DANH làm LÕI] "POLicy".</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the POLicy which is efFECtive] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ].</li>
 			

@@ -484,7 +484,7 @@ export default function (): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH ĐIỀU</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as SUBject</strong>][<strong>THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as SUBject</strong>][<strong>THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9a:</p>
       
@@ -501,7 +501,7 @@ export default function (): React.JSX.Element {
 
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN CLAUSE</strong>][<strong>DANH ĐIỀU</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN CLAUSE</strong>][<strong>DANH ĐIỀU</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9b:</p>
       

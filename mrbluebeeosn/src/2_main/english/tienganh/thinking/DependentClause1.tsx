@@ -158,9 +158,9 @@ export default function DependentClause1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">→ Cụm [be<strong>cause</strong> it was COLD] giải thích nguyên nhân cho việc ở trong nhà.</p>
 			
 			
-			<h4 className="margin-y-40">Chức năng [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU]</h4>
+			<h4 className="margin-y-40">Chức năng [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU]</h4>
 					
-			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Câu thông thường để làm [PROnoun as SUBject ][ĐẠI làm CHỦ] hoặc [RElative PROnoun][QUAN ĐẠI] chịu tác động.</p>
+			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Câu thông thường để làm [PROnoun as HEAD][ĐẠI làm LÕI] hoặc [RElative PROnoun][QUAN ĐẠI] chịu tác động.</p>
 			
 				<ul className="list-square">
 			

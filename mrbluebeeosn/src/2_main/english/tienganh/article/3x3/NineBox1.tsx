@@ -449,9 +449,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[HOW the SYStem enCRYPted the DAta] reMAINS a SEcret.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống mã hóa dữ liệu] vẫn là một bí mật.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW the SYStem enCRYPted the DAta] – [FInite CLAUSE as SUBject][THỜI ĐIỀU] đứng trước [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reMAINS" để làm [SUBject][CHỦ] chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW the SYStem enCRYPted the DAta] – [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] đứng trước [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reMAINS" để làm [SUBject][CHỦ] chịu trách nhiệm thực thi câu lớn.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [HOW the SYStem enCRYPted the DAta] – [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa khối kết nối dẫn đường tường minh "HOW" kết hợp cùng một cấu trúc câu con xoay quanh [PRETerite FORM][KHỨ DẠNG] "enCRYPted".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [HOW the SYStem enCRYPted the DAta] – [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa khối kết nối dẫn đường tường minh "HOW" kết hợp cùng một cấu trúc câu con xoay quanh [PRETerite FORM][KHỨ DẠNG] "enCRYPted".</li>
 			
 				</ul>
 			
@@ -610,7 +610,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [to underSTAND HOW the DAtabase HANdles the WORKload] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] ở tầng ngoài được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "underSTAND ...".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói HOW the DAtabase HANdles the WORKload - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói HOW the DAtabase HANdles the WORKload - [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] ở tầng trong.</li>
 			
 				</ul>
 
@@ -632,7 +632,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [to BEAUtify WHAT the LEgacy SCRIPT OUTputs] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] ở tầng ngoài được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "BEAUtify ...".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói WHAT the LEgacy SCRIPT OUTputs - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói WHAT the LEgacy SCRIPT OUTputs - [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] ở tầng trong.</li>
 			
 				</ul>
 			
@@ -655,7 +655,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [for WHAT the TEAM dePLOYED YESterday] - [prepoSITion PHRASE][GIỚI CỤM] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "for".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói WHAT the TEAM dePLOYED YESterday - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] ở tầng trong bắt đầu bằng [PROnoun][ĐẠI] "what".</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói WHAT the TEAM dePLOYED YESterday - [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] ở tầng trong bắt đầu bằng [PROnoun][ĐẠI] "what".</li>
 			
 				</ul>
 			
@@ -678,7 +678,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [at where the SYStem STORES fiNANcial LOGS] - [prepoSITion PHRASE][GIỚI CỤM] ở tầng ngoài bắt đầu bằng [prepoSITion][GIỚI] "at".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói where the SYStem STORES fiNANcial LOGS - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] ở tầng trong bắt đầu bằng [prepoSITion][GIỚI] "where".</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói where the SYStem STORES fiNANcial LOGS - [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] ở tầng trong bắt đầu bằng [prepoSITion][GIỚI] "where".</li>
 			
 				</ul>
 			
@@ -734,7 +734,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [WHAT the DEVops engiNEER upDAted this MORNing] – [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ], còn "the SYStem deMAND" đóng vai trò làm [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [WHAT the DEVops engiNEER upDAted this MORNing] – [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa cấu trúc kết nối tường minh "WHAT" kết hợp cùng một cấu trúc câu con xoay quanh [PRETerite FORM][KHỨ DẠNG] "upDAted".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [WHAT the DEVops engiNEER upDAted this MORNing] – [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa cấu trúc kết nối tường minh "WHAT" kết hợp cùng một cấu trúc câu con xoay quanh [PRETerite FORM][KHỨ DẠNG] "upDAted".</li>
 			
 				</ul>
 			

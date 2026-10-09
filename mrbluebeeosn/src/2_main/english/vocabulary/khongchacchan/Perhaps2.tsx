@@ -103,7 +103,7 @@ export default function perHAPS2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="howEVer">perHAPS, [howEVer], we should conSIDer OTHer OPTions.</li>
+        <li value="1" id="howEVer">perHAPS, [HOWEVer], we should conSIDer OTHer OPTions.</li>
         <li className="list-none margin-bottom-20">Có lẽ, tuy nhiên, chúng ta nên xem xét các lựa chọn khác.</li>
 
         <li value="2" id="on-the-OTHer-HAND">perHAPS, [on the OTHer HAND], she is JUST TIred.</li>

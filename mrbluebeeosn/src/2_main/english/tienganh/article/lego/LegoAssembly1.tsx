@@ -472,7 +472,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [inVESTigating WHY the appliCAtion FAILED] là một [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] inVESTigating ôm trọn phần phụ thuộc phức tạp bên trong.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong WHY the appliCAtion FAILED là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "WHY" kết hợp với một cấu trúc [S]-[HEAD] nội bộ của riêng nó.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong WHY the appliCAtion FAILED là một [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "WHY" kết hợp với một cấu trúc [S]-[HEAD] nội bộ của riêng nó.</li>
 			
 				</ul>
 			
@@ -495,35 +495,35 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [preDICTing HOW the CLImate will SHIFT] là một [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] preDICTing kéo theo cấu trúc phụ thuộc nhiều tầng.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong HOW the CLImate will SHIFT là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "HOW" kết hợp với một cấu trúc [S]-[HEAD] nội bộ chứa [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong HOW the CLImate will SHIFT là một [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "HOW" kết hợp với một cấu trúc [S]-[HEAD] nội bộ chứa [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject">[<strong>FInite CLAUSE as SUBject</strong>][<strong>THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject">[<strong>FInite CLAUSE as SUBject</strong>][<strong>THỜI ĐIỀU làm CHỦ</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>[HOW the SYStem OPerates] deTERmines Overall perFORmance.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống vận hành] quyết định hiệu năng tổng thể.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW the SYStem OPerates] - [FInite CLAUSE as SUBject][THỜI ĐIỀU] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] deTERmines.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW the SYStem OPerates] - [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] deTERmines.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [HOW the SYStem OPerates] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [ADverb][TRẠNG] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [NOUN as HEAD][DANH làm LÕI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [HOW the SYStem OPerates] - [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [ADverb][TRẠNG] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [NOUN as HEAD][DANH làm LÕI] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-COMplement">[<strong>FInite CLAUSE as COMplement</strong>][<strong>THỜI ĐIỀU làm BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-COMplement">[<strong>FInite CLAUSE as COMplement</strong>][<strong>THỜI ĐIỀU làm BỔ</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>AUditors CHECK [how TECHnicians seCURE DAta].</li>
+					<li>AUditors CHECK [HOW TECHnicians seCURE DAta].</li>
 					<li className="margin-bottom-20 list-none">Kiểm toán viên kiểm tra [cách các kỹ thuật viên bảo mật dữ liệu].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [how TECHnicians seCURE DAta] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] tiếp nhận nội dung thông tin trực tiếp, đứng sau [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] CHECK.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW TECHnicians seCURE DAta] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] tiếp nhận nội dung thông tin trực tiếp, đứng sau [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] CHECK.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [how TECHnicians seCURE DAta] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [ADverb][TRẠNG] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [NOUN as HEAD][DANH làm LÕI] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [HOW TECHnicians seCURE DAta] - [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [ADverb][TRẠNG] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [NOUN as HEAD][DANH làm LÕI] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
 			
 				</ul>
 
@@ -619,7 +619,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the FILE which conTAINS the rePORT] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which conTAINS the rePORT - [RELative CLAUSE][QUAN ĐIỀU] chứa [PROnoun as SUBject ][ĐẠI làm CHỦ] which đóng vai trò thế cho khối định danh đứng trước, đồng thời làm nhiệm vụ làm [NOUN as HEAD][DANH làm LÕI] nội bộ kết hợp liền mạch với hành động conTAINS. Bổ nghĩa trực tiếp để giới hạn và xác định đặc điểm rõ ràng cho  "the FILE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which conTAINS the rePORT - [RELative CLAUSE][QUAN ĐIỀU] chứa [PROnoun as HEAD][ĐẠI làm LÕI] which đóng vai trò thế cho khối định danh đứng trước, đồng thời làm nhiệm vụ làm [NOUN as HEAD][DANH làm LÕI] nội bộ kết hợp liền mạch với hành động conTAINS. Bổ nghĩa trực tiếp để giới hạn và xác định đặc điểm rõ ràng cho  "the FILE".</li>
 			
 				</ul>
 
@@ -705,7 +705,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối giữa at the MOment when the upDATe comPLEted là một [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] at ôm lấy cấu trúc phức hợp tầng dưới nhằm định vị [Thời] gian.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong when the upDATe comPLEted là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [prepoSITion][GIỚI] when liên kết một câu con hoàn chỉnh có chủ vị riêng.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong when the upDATe comPLEted là một [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] chứa [prepoSITion][GIỚI] when liên kết một câu con hoàn chỉnh có chủ vị riêng.</li>
 			
 				</ul>
 

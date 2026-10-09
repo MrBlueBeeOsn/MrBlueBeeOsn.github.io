@@ -504,9 +504,9 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[whaTEVer you deCIDE] will SHAPE our FUture.</li>
 					<li className="margin-bottom-20 list-none">[Bất cứ điều gì bạn quyết định] sẽ định hình tương lai của chúng ta.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [whaTEVer you deCIDE] – [FInite CLAUSE as SUBject][THỜI ĐIỀU] đang đứng ở đầu câu lớn để giữ vai trò làm [SUBject][CHỦ] thực hiện [PREDicator HEAD][VỊ LÕI] "SHAPE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [whaTEVer you deCIDE] – [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] đang đứng ở đầu câu lớn để giữ vai trò làm [SUBject][CHỦ] thực hiện [PREDicator HEAD][VỊ LÕI] "SHAPE".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [whaTEVer you deCIDE] – [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [PROnoun][ĐẠI] "whatEVer".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [whaTEVer you deCIDE] – [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [PROnoun][ĐẠI] "whatEVer".</li>
 			
 				</ul>
 			
@@ -518,7 +518,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>i disCOVered [that she SPOKE the TRUTH].</li>
 					<li className="margin-bottom-20 list-none">Tôi đã phát hiện ra [rằng cô ấy đã nói sự thật].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [that she SPOKE the TRUTH] – [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] đang đứng vị trí [COMplement][BỔ] để tiếp nhận hành động từ [PREDicator HEAD][VỊ LÕI] "disCOVered" của [PROnoun as SUBject ][ĐẠI làm CHỦ] "i".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [that she SPOKE the TRUTH] – [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] đang đứng vị trí [COMplement][BỔ] để tiếp nhận hành động từ [PREDicator HEAD][VỊ LÕI] "disCOVered" của [PROnoun as HEAD][ĐẠI làm LÕI] "i".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that she SPOKE the TRUTH] – [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] biểu thị một cấu trúc câu con hoàn chỉnh có đầy đủ chủ vị và được dẫn dắt hiển lộ bởi [suBORdinator][HẠ] "that".</li>
 			
@@ -548,7 +548,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [when the MANager SIGnals] – [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] đang đứng vị trí sau để mô tả bối cảnh thời gian cho hành động bắt đầu của câu lớn.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [when the MANager SIGnals] – [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] biểu thị một cấu trúc câu con hoàn chỉnh được kết nối thông qua khối liên kết chỉ thời điểm "when" để chỉ định rõ mốc thời gian.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [when the MANager SIGnals] – [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] biểu thị một cấu trúc câu con hoàn chỉnh được kết nối thông qua khối liên kết chỉ thời điểm "when" để chỉ định rõ mốc thời gian.</li>
 			
 				</ul>
 
@@ -559,7 +559,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Trong văn phong bản ngữ, người ta thường lược bỏ các cơ liên kết nhằm đẩy tốc độ truyền tải thông tin lên tối đa.</p>
 
-			<p>Về hình thái trực quan, các khối này trông giống hệt như một câu con độc lập có đầy đủ [PROnoun as SUBject ][ĐẠI làm CHỦ] và hành động riêng, nhưng về bản chất, chúng không thể đứng tách rời một mình mà phải cắm chặt vào cấu trúc tổng thể:</p>
+			<p>Về hình thái trực quan, các khối này trông giống hệt như một câu con độc lập có đầy đủ [PROnoun as HEAD][ĐẠI làm LÕI] và hành động riêng, nhưng về bản chất, chúng không thể đứng tách rời một mình mà phải cắm chặt vào cấu trúc tổng thể:</p>
 
 
 			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>ZEro CONtent CLAUSE</strong>][<strong>KHUYẾT NỘI ĐIỀU</strong>]</p>
@@ -629,7 +629,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">[eVALuating HOW we ALlocated the BUDget] – [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] ở tầng ngoài bắt đầu bằng dạng vận động -ing.</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ HOW we ALlocated the BUDget là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] được dẫn dắt bởi "how".</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ HOW we ALlocated the BUDget là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] được dẫn dắt bởi "how".</li>
 			
 				</ul>
 			
@@ -651,7 +651,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">[reVIEWing WHAT the TEAM acCOMplished this QUARter] – [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] ở tầng ngoài bắt đầu bằng dạng -ing.</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ WHAT the TEAM acCOMplished this QUARter là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] giữ vai trò làm bổ ngữ làm rõ sự việc.</li>
+					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ WHAT the TEAM acCOMplished this QUARter là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] giữ vai trò làm bổ ngữ làm rõ sự việc.</li>
 			
 				</ul>
 
@@ -673,7 +673,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">[in which they TEST the SAMple] – [prepoSITion PHRASE][GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] "in".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ which they TEST the SAMple là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] đóng vai trò bổ nghĩa hoàn chỉnh cho bối cảnh nơi chốn.</li>
+					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ which they TEST the SAMple là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] đóng vai trò bổ nghĩa hoàn chỉnh cho bối cảnh nơi chốn.</li>
 			
 				</ul>
 			
@@ -696,7 +696,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">[through WHAT she disCOVered during reSEARCH] – [prepoSITion PHRASE][GIỚI CỤM] mở đầu bằng [prepoSITion][GIỚI] phương thức "through".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ WHAT she disCOVered during reSEARCH là [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] biểu thị một sự việc có thực tế diễn ra.</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ WHAT she disCOVered during reSEARCH là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] biểu thị một sự việc có thực tế diễn ra.</li>
 			
 				</ul>
 		

@@ -289,7 +289,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She [forgot WHY I called her].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy [quên tại sao tôi gọi cho cô ấy].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> lớp trong: WHY I called her – [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] có I là thành phần thực hiện hành động, called là hành động dạng có đuôi -ed, her là đối tượng.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong> lớp trong: WHY I called her – [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] có I là thành phần thực hiện hành động, called là hành động dạng có đuôi -ed, her là đối tượng.</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng lớp trong: WHY I called her – [NOUN CLAUSE][DANH ĐIỀU] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
 

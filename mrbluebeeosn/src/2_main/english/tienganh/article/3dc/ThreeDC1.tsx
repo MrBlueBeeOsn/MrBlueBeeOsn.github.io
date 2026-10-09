@@ -163,11 +163,11 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li><strong>Ở cấp độ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]: Sinh ra [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM], [ADjunct][PHỤ].</li>
 
-					<li><strong>Ở cấp độ</strong> [<strong>deCLARative CONtent CLAUSE</strong>][<strong>THUẬT NỘI ĐIỀU</strong>]: Sinh ra [FInite CLAUSE as SUBject][THỜI ĐIỀU] và [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>deCLARative CONtent CLAUSE</strong>][<strong>THUẬT NỘI ĐIỀU</strong>]: Sinh ra [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] và [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ].</li>
 
-					<li><strong>Ở cấp độ</strong> [<strong>ZEro CONtent CLAUSE</strong>][<strong>KHUYẾT NỘI ĐIỀU</strong>]: Sinh ra [FInite CLAUSE as SUBject][THỜI ĐIỀU] và [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>ZEro CONtent CLAUSE</strong>][<strong>KHUYẾT NỘI ĐIỀU</strong>]: Sinh ra [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] và [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ].</li>
 
-					<li><strong>Ở cấp độ</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]: Sinh ra [FInite CLAUSE as SUBject][THỜI ĐIỀU] và [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]: Sinh ra [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] và [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ].</li>
 
 					<li><strong>Ở cấp độ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]: Sinh ra [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] và [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ].</li>
 			
@@ -526,9 +526,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[HOW the TEAM seCURES the FUNding] reMAINS a CRITical QUESTion.</li>
 					<li className="margin-bottom-20 list-none">[Cách mà đội ngũ đảm bảo nguồn vốn] vẫn là một câu hỏi then chốt.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [HOW the TEAM seCURES the FUNding] - [FInite CLAUSE as SUBject][THỜI ĐIỀU] đứng trước điều phối [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reMAINS".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [HOW the TEAM seCURES the FUNding] - [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] đứng trước điều phối [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reMAINS".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [HOW the TEAM seCURES the FUNding] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "HOW" kết hợp với cấu trúc một khối hoàn chỉnh có [NOUN as HEAD][DANH làm LÕI] "TEAM" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "seCURES".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [HOW the TEAM seCURES the FUNding] - [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "HOW" kết hợp với cấu trúc một khối hoàn chỉnh có [NOUN as HEAD][DANH làm LÕI] "TEAM" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "seCURES".</li>
 			
 				</ul>
 
@@ -652,7 +652,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối bao ngoài [to underSTAND WHY the SPEcies went exTINCT] là một [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "underSTAND ...".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong bao gói WHY the SPEcies went exTINCT là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
+					<li className="margin-bottom-20 list-none">Bên trong bao gói WHY the SPEcies went exTINCT là một [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
 			
 				</ul>
 
@@ -674,7 +674,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối bao ngoài [to DEMonstrate HOW the DRUG WORKS] là một [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "DEMonstrate ...".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong bao gói HOW the DRUG WORKS là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "HOW".</li>
+					<li className="margin-bottom-20 list-none">Bên trong bao gói HOW the DRUG WORKS là một [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "HOW".</li>
 			
 				</ul>
 			
@@ -719,7 +719,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối tổng thể [be<strong>cause</strong> of HOW FREquently the SERver CRASHED] là một [emBEDded COMplex prepoSITional PHRASE][NHÚNG PHỨC GIỚI CỤM] bắt đầu bằng [prepoSITion][GIỚI] "be<strong>cause</strong>" kết hợp với [prepoSITion PHRASE][GIỚI CỤM] "of HOW FREquently the SERver CRASHED".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong bao gói HOW FREquently the SERver CRASHED là một [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng tổ hợp tuyến tính gồm [ADverb][TRẠNG] "HOW" kết hợp cùng [ADverb HEAD][TRẠNG LÕI] "FREquently".</li>
+					<li className="margin-bottom-20 list-none">Bên trong bao gói HOW FREquently the SERver CRASHED là một [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng tổ hợp tuyến tính gồm [ADverb][TRẠNG] "HOW" kết hợp cùng [ADverb HEAD][TRẠNG LÕI] "FREquently".</li>
 			
 				</ul>
 	
@@ -793,7 +793,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [the CODE which acCELerates the RENdering PROCess] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối which acCELerates the RENdering PROCess - [RELative CLAUSE][QUAN ĐIỀU] bắt đầu bằng [PROnoun as SUBject ][ĐẠI làm CHỦ] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates". Đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể [NOUN as HEAD][DANH làm LÕI] "CODE".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối which acCELerates the RENdering PROCess - [RELative CLAUSE][QUAN ĐIỀU] bắt đầu bằng [PROnoun as HEAD][ĐẠI làm LÕI] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "acCELerates". Đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể [NOUN as HEAD][DANH làm LÕI] "CODE".</li>
 			
 				</ul>
 
@@ -834,19 +834,19 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">3. Paraphrasing cho chức năng [NOUN as HEAD][DANH làm LÕI]</h4>
 
-			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>: <strong>Dùng hình thái</strong> [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
+			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>: <strong>Dùng hình thái</strong> [<strong>Open interROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole">Làm [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ]</p>
 
 			
 				<ul className="list-square">
 			
-					<li>the PROgrammer disCOVered  [how he could BYpass the seCUrity FIREwall].</li>
+					<li>the PROgrammer disCOVered  [HOW he could BYpass the seCUrity FIREwall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách mà anh ấy có thể vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [how he could BYpass the seCUrity FIREwall] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] nhận tác động trực tiếp của [PREDicator HEAD][VỊ LÕI] "disCOVered".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [HOW he could BYpass the seCUrity FIREwall] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] nhận tác động trực tiếp của [PREDicator HEAD][VỊ LÕI] "disCOVered".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [HOW he could BYpass the seCUrity FIREwall] - [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "HOW" lồng khối chủ vị hoàn chỉnh có [PREDicator][VỊ] "could".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [HOW he could BYpass the seCUrity FIREwall] - [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "HOW" lồng khối chủ vị hoàn chỉnh có [PREDicator][VỊ] "could".</li>
 			
 				</ul>
 			
@@ -857,10 +857,10 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>the PROgrammer disCOVered  [how to BYpass the seCUrity FIREwall].</li>
+					<li>the PROgrammer disCOVered  [HOW to BYpass the seCUrity FIREwall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [how to BYpass the seCUrity FIREwall] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM] chịu sự điều phối của [PREDicator HEAD][VỊ LÕI] "disCOVered".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [HOW to BYpass the seCUrity FIREwall] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM] chịu sự điều phối của [PREDicator HEAD][VỊ LÕI] "disCOVered".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [HOW to BYpass the seCUrity FIREwall] - [Liên Cụm][Conjunctional Phrase] bắt đầu bằng biểu hiện nghi vấn [ADverb][TRẠNG] "HOW" dẫn dắt trực tiếp một cấu trúc hành động dạng "to + bare verb".</li>
 			
@@ -870,9 +870,9 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* IX. */}
 
-			<h3 className="margin-y-50 text-center" id="conJUNCtional-CLAUSE">IX. TUYỆT CHIÊU PHÂN BIỆT [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] THẦN TỐC BẰNG MẸO [THẾ THÂN]</h3>
+			<h3 className="margin-y-50 text-center" id="conJUNCtional-CLAUSE">IX. TUYỆT CHIÊU PHÂN BIỆT [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] THẦN TỐC BẰNG MẸO [THẾ THÂN]</h3>
 
-			<p>Khi gặp các khối [Open InterROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] có hình thái giống hệt nhau (ví dụ: đều bắt đầu bằng một từ đa năng làm [SuBORdinator][HẠ] như that, [prepoSITion][GIỚI]: when, where), người học rất dễ bị bối rối.</p>
+			<p>Khi gặp các khối [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] có hình thái giống hệt nhau (ví dụ: đều bắt đầu bằng một từ đa năng làm [SuBORdinator][HẠ] như that, [prepoSITion][GIỚI]: when, where), người học rất dễ bị bối rối.</p>
 
 			<p>Hãy áp dụng ngay phương pháp [<strong>Thế thân</strong>][<strong>Substitution</strong>] dựa trên nguyên lý thay thế bằng một khối từ mức độ [HEAD][LÕI] cơ bản:</p>
 			
@@ -924,7 +924,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SYStem MONitors [where the SIGnal PEAKS].</li>
 					<li className="margin-bottom-20">the SYStem MONitors [SOMEthing].</li>
 			
-					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] đáp ứng chức năng [<strong>Open InterROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>] đóng vai trò làm [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] trực tiếp đứng sau [PREDicator HEAD][VỊ LÕI] "MONitors".</li>
+					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] đáp ứng chức năng [<strong>Open interROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>] đóng vai trò làm [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] trực tiếp đứng sau [PREDicator HEAD][VỊ LÕI] "MONitors".</li>
 			
 				</ul>
 
