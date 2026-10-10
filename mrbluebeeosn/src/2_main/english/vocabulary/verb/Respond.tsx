@@ -205,7 +205,7 @@ export default function reSPOND(): React.JSX.Element {
 							<li>the TEAM should [reSPOND] to the CLIent reQUEST imMEDIately.</li>
 							<li className="margin-bottom-20 list-none">Đội ngũ nên [phản hồi] yêu cầu của khách hàng ngay lập tức.</li>
 
-							<li className="list-none margin-bottom-10"><strong>Khối</strong>: [reSPOND] - [PLAIN FORM][GIẢN DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "reSPOND" đứng sau chịu tác động từ [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "to the CLIent reQUEST".</li>
+							<li className="list-none margin-bottom-10"><strong>Khối</strong>: [reSPOND] - [PLAIN FORM][GIẢN DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "reSPOND" đứng sau chịu tác động từ [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "to the CLIent reQUEST".</li>
 					
 						</ul>
 
@@ -253,7 +253,7 @@ export default function reSPOND(): React.JSX.Element {
 
 					<li value="4" className="margin-bottom-20">[<strong>MOdal auXILiary VERB</strong>][<strong>THÁI TRỢ ĐỘNG</strong>]:</li>
 			
-					<li className="list-none">[<strong>PREterite MOdal auXILiary VERB</strong>][<strong>KHỨ THÁI TRỢ ĐỘNG</strong>]: would, could, should, might</li>
+					<li className="list-none">[<strong>PRETerite MOdal auXILiary VERB</strong>][<strong>KHỨ THÁI TRỢ ĐỘNG</strong>]: would, could, should, might</li>
 					<li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tư, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một khối thống nhất.</li>
 
 					<li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>][<strong>HIỆN THÁI TRỢ ĐỘNG</strong>]: will, shall, can, must, may</li>
@@ -265,7 +265,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
 
 					<li className="list-none">• [<strong>infiniTIval MARKer</strong>][<strong>NGUYÊN DẤU</strong>]: to</li>
-					<li className="list-none">• [<strong>PREterite MOdal auXILiary VERB</strong>][<strong>KHỨ THÁI TRỢ ĐỘNG</strong>]: would, could, should, might</li>
+					<li className="list-none">• [<strong>PRETerite MOdal auXILiary VERB</strong>][<strong>KHỨ THÁI TRỢ ĐỘNG</strong>]: would, could, should, might</li>
 					<li className="list-none">• [<strong>PREsent MOdal auXILiary VERB</strong>][<strong>HIỆN THÁI TRỢ ĐỘNG</strong>]: will, shall, can, must, may</li>
 					<li className="list-none">• Nhóm VERB Sai Khiến / Cho Phép: MAKE, LET, let's, HAVE</li>
 					<li className="list-none">• Nhóm VERB Hỗ Trợ / Tương Tác: HELP, GET (khi ở dạng đặc biệt)</li>
@@ -302,7 +302,7 @@ export default function reSPOND(): React.JSX.Element {
 
 					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>][<strong>ĐỘNG CỤM làm VỊ</strong>]: would reSPOND, could reSPOND, should reSPOND</li>
 
-					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết. Trong đó, "would", "could", "should" là [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] mang [FInite][THỜI], còn "reSPOND" là các dạng [non-FInite][PHI-THỜI] đi kèm.</li>
+					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết. Trong đó, "would", "could", "should" là [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] mang [FInite][THỜI], còn "reSPOND" là các dạng [non-FInite][PHI-THỜI] đi kèm.</li>
 			
 					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>][<strong>ĐỘNG CỤM làm VỊ</strong>]: will reSPOND, can reSPOND</li>
 					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết. Trong đó, "will", "can" là [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] mang [FInite][THỜI], còn "reSPOND" là các dạng [non-FInite][PHI-THỜI] đi kèm.</li>
@@ -801,7 +801,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>4.2.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>4.2.3</strong> <strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as ADjunct</strong>][<strong>THỜI ĐIỀU làm PHỤ</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="11c">Ví dụ 11c:</p>
 			
@@ -810,9 +810,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[should the SERver reSPOND SLOWly], reSTART the appliCAtion.</li>
 					<li className="margin-bottom-20 list-none">[Nếu máy chủ phản hồi chậm], hãy khởi động lại ứng dụng.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the SERver reSPOND SLOWly] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the SERver reSPOND SLOWly] - [FInite CLAUSE as ADjunct][THỜI ĐIỀU làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN FORM][GIẢN DẠNG] "reSTART" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau. Bản chất là [inVERTed CLAUSE][ĐẢO ĐIỀU] vận hành ở trạng thái ẩn thành phần [suBORdinator][HẠ] điều kiện "if" bằng giải pháp đảo [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [NOUN as HEAD][DANH làm LÕI] "SERver" và [FInite CLAUSE][THỜI ĐIỀU] "reSPOND SLOWly".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the SERver reSPOND SLOWly] - [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU] vận hành ở trạng thái ẩn thành phần [TRANsitive prepoSITion][NGOẠI GIỚI] điều kiện "if" bằng giải pháp đảo [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [NOUN as HEAD][DANH làm LÕI] "SERver" và [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] "reSPOND SLOWly".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [SLOWly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PLAIN FORM][GIẢN DẠNG] "reSPOND". Hình thành từ khối [LEXical ADjective][VỰNG TÍNH] nguyên bản "SLOW" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
 			
 				</ul>
 

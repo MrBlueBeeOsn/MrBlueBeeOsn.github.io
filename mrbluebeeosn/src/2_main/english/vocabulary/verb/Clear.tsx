@@ -175,7 +175,7 @@ export default function CLEAR(): React.JSX.Element {
               <li>you must [CLEAR] the browser history.</li>
               <li className="margin-bottom-20 list-none">Bạn phải [xóa] lịch sử trình duyệt.</li>
 
-              <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEAR] - [PLAIN FORM][GIẢN DẠNG] dạng nguyên bản đứng sau [PREDicator][VỊ] "must" để thực thi hành động tác động lên thành phần chịu tác động "the browser history".</li>
+              <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEAR] - [PLAIN FORM][GIẢN DẠNG] dạng nguyên bản đứng sau [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "must" để thực thi hành động tác động lên thành phần chịu tác động "the browser history".</li>
           
             </ul>
 
@@ -224,7 +224,7 @@ export default function CLEAR(): React.JSX.Element {
           <li value="4">[<strong>MOdal auXILiary VERB</strong>][<strong>THÁI TRỢ ĐỘNG</strong>]: must, can, should, may, might</li>
           <li className="margin-bottom-20 list-none">Là mã thiết lập chế độ, tâm thế hoặc khả năng, mức độ chắc chắn của hành động (như bắt buộc, có thể, nên).</li>
       
-          <li className="list-none">[<strong>PREterite MOdal auXILiary VERB</strong>][<strong>KHỨ THÁI TRỢ ĐỘNG</strong>]: would, could, should, might</li>
+          <li className="list-none">[<strong>PRETerite MOdal auXILiary VERB</strong>][<strong>KHỨ THÁI TRỢ ĐỘNG</strong>]: would, could, should, might</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tư, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một khối thống nhất.</li>
 
           <li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>][<strong>HIỆN THÁI TRỢ ĐỘNG</strong>]: will, shall, can, must, may</li>
@@ -236,7 +236,7 @@ export default function CLEAR(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
 
           <li className="list-none">• [<strong>infiniTIval MARKer</strong>][<strong>NGUYÊN DẤU</strong>]: to</li>
-          <li className="list-none">• [<strong>PREterite MOdal auXILiary VERB</strong>][<strong>KHỨ THÁI TRỢ ĐỘNG</strong>]: would, could, should, might</li>
+          <li className="list-none">• [<strong>PRETerite MOdal auXILiary VERB</strong>][<strong>KHỨ THÁI TRỢ ĐỘNG</strong>]: would, could, should, might</li>
           <li className="list-none">• [<strong>PREsent MOdal auXILiary VERB</strong>][<strong>HIỆN THÁI TRỢ ĐỘNG</strong>]: will, shall, can, must, may</li>
           <li className="list-none">• Nhóm VERB Sai Khiến / Cho Phép: MAKE, LET, let's, HAVE</li>
           <li className="list-none">• Nhóm VERB Hỗ Trợ / Tương Tác: HELP, GET (khi ở dạng đặc biệt)</li>
@@ -272,7 +272,7 @@ export default function CLEAR(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Là phân hệ cụm mã gồm nhiều thành phần thời phối hợp nhau để xử lý các bối cảnh thời gian phức tạp (như 🏃‍♂️ Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Tiếp Diễn, 🏃‍♂️ Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành Tiếp Diễn). Trong đó, "has", "had" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite][THỜI], còn "been CLEARing" là các dạng [non-FInite][PHI-THỜI] đi kèm.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>][<strong>ĐỘNG CỤM làm VỊ</strong>]: would CLEAR, could CLEAR, should CLEAR</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết. Trong đó, "would", "could", "should" là [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] mang [FInite][THỜI], còn "CLEAR" là các dạng [non-FInite][PHI-THỜI] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết. Trong đó, "would", "could", "should" là [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] mang [FInite][THỜI], còn "CLEAR" là các dạng [non-FInite][PHI-THỜI] đi kèm.</li>
       
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>][<strong>ĐỘNG CỤM làm VỊ</strong>]: will CLEAR, can CLEAR</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết. Trong đó, "will", "can" là [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] mang [FInite][THỜI], còn "CLEAR" là các dạng [non-FInite][PHI-THỜI] đi kèm.</li>
@@ -741,18 +741,18 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as ADjunct</strong>][<strong>THỜI ĐIỀU làm PHỤ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="11c">Ví dụ 11c:</p>
       
         <ul className="list-square">
       
           <li>[should you CLEAR the PENDing TASKS toDAY], we will START the NEW PLAN.</li>
-          <li className="margin-bottom-20 list-none">[Nếu bạn giải quyết xong các nhiệm vụ còn tồn đọng trong hôm nay], chúng tôi sẽ bắt đầu kế hoạch mới.</li>
+          <li className="margin-bottom-20 list-none">[Nếu bạn hoàn thành các nhiệm vụ đang chờ xử lý trong hôm nay], chúng tôi sẽ bắt đầu thực hiện kế hoạch mới.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should you CLEAR the PENDing TASKS toDAY] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau. Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] của hành động [VERB PHRASE as PREDicator][ĐỘNG CỤM làm VỊ] "will START", vận hành ở trạng thái ẩn [TRANsitive prepoSITion][NGOẠI GIỚI] điều kiện "if" bằng giải pháp đảo [MOdal auXILiary VERB][THÁI TRỢ ĐỘNG] "should" lên trước.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should you CLEAR the PENDing TASKS toDAY] - [FInite CLAUSE as ADjunct][THỜI ĐIỀU làm PHỤ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN FORM][GIẢN DẠNG] "START" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau. Bản chất là [inVERTed CLAUSE][ĐẢO ĐIỀU] vận hành ở trạng thái ẩn [suBORdinator][HẠ] điều kiện "if" bằng giải pháp đảo [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] "should" lên trước. Tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [PROnoun as HEAD][ĐẠI làm LÕI] "you" và [FInite CLAUSE][THỜI ĐIỀU] "CLEAR the PENDing TASKS toDAY".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [should you CLEAR the PENDing TASKS toDAY] tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [PROnoun as HEAD][ĐẠI làm LÕI] "you" và [PLAIN FORM][GIẢN DẠNG] "CLEAR".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the PENDing TASKS toDAY] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN FORM][GIẢN DẠNG] "CLEAR".</li>
       
         </ul>
 

@@ -218,9 +218,9 @@ export default function ThreeDC1(): React.ReactElement {
 
         <ul className="list-square">
       
-          <li>should STREAMline → [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] should (gợi ý) + [PLAIN FORM][GIẢN DẠNG] to STREAMline</li>
+          <li>should STREAMline → [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] should (gợi ý) + [PLAIN FORM][GIẢN DẠNG] to STREAMline</li>
       
-          <li>could neGOtiate → [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] could (khả năng nhẹ) + [PLAIN FORM][GIẢN DẠNG] to neGOtiate</li>
+          <li>could neGOtiate → [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] could (khả năng nhẹ) + [PLAIN FORM][GIẢN DẠNG] to neGOtiate</li>
       
         </ul>
       
@@ -267,7 +267,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li value="4" className="margin-bottom-20">[<strong>MOdal auXILiary VERB</strong>][<strong>THÁI TRỢ ĐỘNG</strong>]:</li>
       
-          <li className="list-none">[<strong>PREterite MOdal auXILiary VERB</strong>][<strong>KHỨ THÁI TRỢ ĐỘNG</strong>]: would, could, should, might, ought to, had BETter</li>
+          <li className="list-none">[<strong>PRETerite MOdal auXILiary VERB</strong>][<strong>KHỨ THÁI TRỢ ĐỘNG</strong>]: would, could, should, might, ought to, had BETter</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một khối thống nhất.</li>
 
           <li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>][<strong>HIỆN THÁI TRỢ ĐỘNG</strong>]: will, shall, can, must, have to, may</li>
@@ -276,7 +276,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>][<strong>PHI-THỜI DẠNG</strong>]: HAVing NO TENSE or NO SUBject</li>
 
           <li className="list-none">[<strong>PLAIN FORM</strong>][<strong>GIẢN DẠNG</strong>]: ANalyze, INnovate, transFORM</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [infiniTIval MARKer][NGUYÊN DẤU] "to", [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] hoặc [LEXical VERB][VỰNG ĐỘNG] MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL,...</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [infiniTIval MARKer][NGUYÊN DẤU] "to", [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] hoặc [LEXical VERB][VỰNG ĐỘNG] MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL,...</li>
       
           <li className="list-none">[<strong>to-infiniTIval</strong>][<strong>TO-NGUYÊN</strong>]: to ANalyze, to transFORM</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt ĐỘNG] kết hợp cùng hành động [Thuần] khiết phía sau.</li>

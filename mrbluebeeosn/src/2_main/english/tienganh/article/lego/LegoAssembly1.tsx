@@ -158,7 +158,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Do đó, khi chuyển sang câu phủ định hoặc nghi vấn, khối hạt nhân [Hạt nhân]/[Bộ nguồn][HEAD] bắt buộc phải thực hiện thao tác tách cấu hình:</p>
 
-			<p className="text-indent-whole">[HEAD] → [FInite VERB][HẠN ĐỘNG] / [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] + [PLAIN FORM][GIẢN DẠNG]</p>
+			<p className="text-indent-whole">[HEAD] → [FInite VERB][HẠN ĐỘNG] / [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] + [PLAIN FORM][GIẢN DẠNG]</p>
 					
 			<p className="text-indent-whole">Vì bản chất [dePENDent][PHỤ] là tất cả những gì đứng sau [HEAD], nên:</p>
 			
@@ -201,7 +201,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li value="4" className="margin-bottom-20">[<strong>MOdal auXILiary VERB</strong>][<strong>THÁI TRỢ ĐỘNG</strong>]:</li>
       
-          <li className="list-none">[<strong>PREterite MOdal auXILiary VERB</strong>][<strong>KHỨ THÁI TRỢ ĐỘNG</strong>]: would, could, should, might</li>
+          <li className="list-none">[<strong>PRETerite MOdal auXILiary VERB</strong>][<strong>KHỨ THÁI TRỢ ĐỘNG</strong>]: would, could, should, might</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một khối thống nhất.</li>
 
           <li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>][<strong>HIỆN THÁI TRỢ ĐỘNG</strong>]: will, shall, can, must, may</li>
@@ -210,7 +210,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>][<strong>PHI-THỜI DẠNG</strong>]: HAVing NO TENSE or NO SUBject</li>
 
           <li className="list-none">[<strong>PLAIN FORM</strong>][<strong>GIẢN DẠNG</strong>]: LAUNCH, conSTRUCT, OPerate</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có "to" đi kèm, thường đứng ngay sau [infiniTIval MARKer][NGUYÊN DẤU] "to", [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] hoặc các [LEXical VERB][VỰNG ĐỘNG] kích hoạt/giác quan:</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có "to" đi kèm, thường đứng ngay sau [infiniTIval MARKer][NGUYÊN DẤU] "to", [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] hoặc các [LEXical VERB][VỰNG ĐỘNG] kích hoạt/giác quan:</li>
 
 					<li className="list-none">Nhóm Sai khiến & Cho phép: MAKE, LET, let's, HAVE</li>
 					<li className="list-none">Nhóm Hỗ trợ & Nhờ vả: HELP, GET (trong trường hợp đặc biệt)</li>
@@ -327,9 +327,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>should eVALuate → [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] should (gợi ý) + [PLAIN FORM][GIẢN DẠNG] eVALuate</li>
+          <li>should eVALuate → [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] should (gợi ý) + [PLAIN FORM][GIẢN DẠNG] eVALuate</li>
       
-          <li>could upGRADE → [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] could (khả năng nhẹ) + [PLAIN FORM][GIẢN DẠNG] upGRADE</li>
+          <li>could upGRADE → [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] could (khả năng nhẹ) + [PLAIN FORM][GIẢN DẠNG] upGRADE</li>
       
         </ul>
       
@@ -731,7 +731,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>we will PAUSE deVELopment [be<strong>cause</strong> the CLIent reQUESted alteRAtions].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ tạm dừng phát triển [bởi vì khách hàng yêu cầu những thay đổi].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] bổ nghĩa cho hành động chính của bộ nguồn [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will PAUSE, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] bổ nghĩa cho hành động chính của bộ nguồn [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will PAUSE, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] chứa [prepoSITion][GIỚI] be<strong>cause</strong> và một bộ khung [S]-[HEAD] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
 					
@@ -845,7 +845,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h5 className="margin-y-30">Luật Nghi vấn: Nhấc dòng [Thời] gian lên đầu câu lớn</h5>
 
-			<p className="text-indent-whole">Khi chuyển sang câu hỏi, bạn chỉ cần tách khối và nhấc riêng thành phần trợ nguồn [Thời] gian/khối [Thái] từ đứng trước (như [FInite VERB][HẠN ĐỘNG] / [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] / [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG]) đặt ra trước [NOUN as HEAD][DANH làm LÕI], để lại phần hành động cốt lõi ở phía sau.</p>
+			<p className="text-indent-whole">Khi chuyển sang câu hỏi, bạn chỉ cần tách khối và nhấc riêng thành phần trợ nguồn [Thời] gian/khối [Thái] từ đứng trước (như [FInite VERB][HẠN ĐỘNG] / [PRETerite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] / [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG]) đặt ra trước [NOUN as HEAD][DANH làm LÕI], để lại phần hành động cốt lõi ở phía sau.</p>
 			
 				<ul className="list-square">
 			
