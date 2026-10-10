@@ -504,7 +504,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [STUdents MAStering CORE THEories which are reQUIred for adVANCED PLACEment] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] làm CHỦ]</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [STUdents MAStering CORE THEories which are reQUIred for adVANCED PLACEment] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ]</li>
 			
 					<li className="list-none">Khối giữa: [MAStering CORE THEories which are reQUIred for adVANCED PLACEment] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bám sát phía sau [NOUN as HEAD][DANH làm LÕI] "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
 

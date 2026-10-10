@@ -829,15 +829,19 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[reSPONDing efFECTively to WHAT CUStomers comPLAIN about] imPROVES BRAND LOYalty.</li>
-					<li className="margin-bottom-20 list-none">[Việc phản hồi hiệu quả đối với những gì khách hàng phàn nàn] làm tăng độ trung thành thương hiệu.</li>
+					<li className="margin-bottom-20 list-none">[Phản hồi hiệu quả đối với những điều khách hàng phàn nàn] giúp nâng cao sự trung thành với thương hiệu.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing efFECTively to WHAT CUStomers comPLAIN about] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm  đứng trước hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES". Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] lớn phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing efFECTively to WHAT CUStomers comPLAIN about] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "imPROVES" trong [MAIN CLAUSE][CHÍNH ĐIỀU], chịu trách nhiệm làm một khối đầu việc lớn. Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHAT CUStomers comPLAIN about] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [TRANsitive prepoSITion][NGOẠI GIỚI] "to" ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] riêng "CUStomers" và cụm hành động riêng đi sau thành phần [PROnoun][ĐẠI] "WHAT".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
+
+					<li className="list-none margin-bottom-10">[to WHAT CUStomers comPLAIN about] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "reSPONDing", bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "to" và khối [FInite CLAUSE][THỜI ĐIỀU] "WHAT CUStomers comPLAIN about" phía sau.</li>
+
+					<li className="list-none margin-bottom-10">[WHAT CUStomers comPLAIN about] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive prepoSITion][NGOẠI GIỚI] "to". Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [PROnoun][ĐẠI] "WHAT" và [NOUN as HEAD][DANH làm LÕI] riêng "CUStomers" và cụm hành động riêng đi sau.</li>
 			
 				</ul>
 

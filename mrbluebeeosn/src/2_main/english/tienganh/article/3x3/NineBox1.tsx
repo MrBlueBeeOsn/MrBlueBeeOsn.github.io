@@ -593,7 +593,7 @@ export default function NineBox1(): React.JSX.Element {
 					
 			<p className="margin-top-20 text-indent-whole">Khi các khối dữ liệu lồng ghép chéo nhau theo cấu trúc hình khối, hệ thống vận hành cơ chế phân tầng để bóc tách chính xác từng lớp dữ liệu:</p>
 
-			<h4 className="margin-y-40">A. [NOUN PHRASE][DANH CỤM] làm [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] làm CHỦ]</h4>
+			<h4 className="margin-y-40">A. [NOUN PHRASE][DANH CỤM] làm [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ]</h4>
 			
 				<ul className="list-square">
 			

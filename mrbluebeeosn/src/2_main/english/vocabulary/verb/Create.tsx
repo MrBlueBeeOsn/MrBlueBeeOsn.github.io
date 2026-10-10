@@ -826,15 +826,19 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>[creAting soLUtions for WHAT CLIents STRUGgle with] BUILDS MARket VALue.</li>
-          <li className="margin-bottom-20 list-none">[Việc tạo ra các giải pháp cho những gì khách hàng đang gặp khó khăn] xây dựng giá trị thị trường.</li>
+          <li className="margin-bottom-20 list-none">[Tạo ra các giải pháp cho những vấn đề mà khách hàng đang gặp khó khăn] giúp tăng giá trị thị trường.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting soLUtions for WHAT CLIents STRUGgle with] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của hành động hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "BUILDS", chịu trách nhiệm làm một khối đầu việc lớn. Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] lớn phát triển từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting soLUtions for WHAT CLIents STRUGgle with] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "BUILDS", chịu trách nhiệm làm một khối đầu việc lớn. Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHAT CLIents STRUGgle with] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [TRANsitive prepoSITion][NGOẠI GIỚI] "for" ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] riêng "CLIents" và cụm hành động riêng đi sau thành phần [PROnoun][ĐẠI] "what".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
+
+          <li className="list-none margin-bottom-10">[for WHAT CLIents STRUGgle with] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "creAting", bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "for" và khối [FInite CLAUSE][THỜI ĐIỀU] "WHAT CLIents STRUGgle with" phía sau.</li>
+
+          <li className="list-none margin-bottom-10">[WHAT CLIents STRUGgle with] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive prepoSITion][NGOẠI GIỚI] "for". Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [PROnoun][ĐẠI] "WHAT" và [NOUN as HEAD][DANH làm LÕI] riêng "CLIents" và cụm hành động riêng đi sau.</li>
       
         </ul>
 

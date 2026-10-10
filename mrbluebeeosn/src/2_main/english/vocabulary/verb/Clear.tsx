@@ -763,27 +763,29 @@ export default function CLEAR(): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, các khối mã sẽ lồng vào nhau tạo nên hệ thống phân tầng tối tân.</p>
 
 
-      <h5 className="margin-top-20 text-indent-whole">[NOUN PHRASE][DANH CỤM]</h5>
+      <h5 className="margin-top-20 text-indent-whole">[non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ]</h5>
 
-      <p className="margin-top-20 text-indent-whole" id="12a">Ví dụ 12a: [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] làm CHỦ]</p>
+      <p className="margin-top-20 text-indent-whole" id="12a">Ví dụ 12a:</p>
       
         <ul className="list-square">
       
           <li>[ANalyzing HOW the PROgram CLEARS METadata] is NECessary.</li>
-          <li className="margin-bottom-20 list-none">[Việc phân tích cách mà chương trình xóa siêu dữ liệu] thì cần thiết.</li>
+          <li className="margin-bottom-20 list-none">[Việc phân tích cách thức chương trình xóa dữ liệu meta] là điều cần thiết.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [ANalyzing HOW the PROgram CLEARS METadata] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm [SUBject][CHỦ] để thiết lập nền tảng thông tin đứng đầu toàn câu trước [non-MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] "is". Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [ANalyzing HOW the PROgram CLEARS METadata] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE][CHÍNH ĐIỀU], chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện. Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "ANalyzing" và kéo theo thành phần bổ trợ phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the PROgram CLEARS METadata] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân hành động "Analyzing" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] riêng "program" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] riêng "CLEARS" thiết lập theo trục thời hiện tại.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the PROgram CLEARS METadata] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "Analyzing", tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [ADverb][TRẠNG] "HOW", [NOUN as HEAD][DANH làm LÕI] riêng "PROgram" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] riêng "CLEARS" thiết lập theo trục thời hiện tại.</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole" id="12b">Ví dụ 12b: [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ]</p>
+      <h5 className="margin-top-20 text-indent-whole">[non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ]</h5>
+      
+      <p className="margin-top-20 text-indent-whole" id="12b">Ví dụ 12b:</p>
       
         <ul className="list-square">
       
