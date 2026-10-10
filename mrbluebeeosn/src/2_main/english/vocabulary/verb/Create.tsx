@@ -876,7 +876,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to underSTAND HOW the SYStem creATES AUtomated rePORTS] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres", để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + kết hợp với [VERB PHRASE][ĐỘNG CỤM] "underSTAND ..." kéo theo vùng mã bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to underSTAND HOW the SYStem creATES AUtomated rePORTS] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres", để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "underSTAND ..." kéo theo vùng mã bổ trợ phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem creATES AUtomated rePORTS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN FORM][GIẢN DẠNG] "underSTAND". Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [ADverb][TRẠNG] "HOW" và [NOUN as HEAD][DANH làm LÕI] "SYStem" và cụm hành động riêng đi sau.</li>
       
@@ -896,7 +896,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to STUdy HOW Users creATE PERsonal PROfiles] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "PLANS" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đóng vai trò làm  tiếp nhận mục tiêu kế hoạch. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "STUdy ..." kéo theo vùng mã bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to STUdy HOW Users creATE PERsonal PROfiles] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "PLANS" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đóng vai trò làm  tiếp nhận mục tiêu kế hoạch. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "STUdy ..." kéo theo vùng mã bổ trợ phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW Users creATE PERsonal PROfiles] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN FORM][GIẢN DẠNG] "STUdy". Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa thành phần [ADverb][TRẠNG] "HOW" và [NOUN as HEAD][DANH làm LÕI] riêng "Users" và cụm hành động riêng đi sau.</li>
       
@@ -910,15 +910,15 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>[it] TAKES experTISE [to eVAluate HOW the appliCAtion creATES User LOGS].</li>
-          <li className="margin-bottom-20 list-none">Đòi hỏi chuyên môn [để đánh giá cách ứng dụng tạo ra các nhật ký người dùng].</li>
+          <li className="margin-bottom-20 list-none">Cần phải có chuyên môn [để đánh giá cách ứng dụng tạo nhật ký người dùng].</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVAluate HOW the appliCAtion creATES User LOGS] - [non-FInite CLAUSE as extraPOSED SUBject][PHI-THỜI ĐIỀU làm NGOẠICHỦ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "TAKES", chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò  bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "eVAluate ..." và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVAluate HOW the appliCAtion creATES User LOGS] - [non-FInite CLAUSE as extraPOSED SUBject][PHI-THỜI ĐIỀU làm NGOẠI CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "TAKES" trong [MAIN CLAUSE][CHÍNH ĐIỀU], chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" kết hợp với [VERB PHRASE][ĐỘNG CỤM] "eVAluate ..." và kéo theo thành phần bổ trợ phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the appliCAtion creATES User LOGS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "eVAluate" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] riêng "appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [ADverb][TRẠNG] "HOW". - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the appliCAtion creATES User LOGS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN FORM][GIẢN DẠNG] "eVAluate", tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb][TRẠNG] "HOW" và [NOUN as HEAD][DANH làm LÕI] riêng "appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau.</li>
       
         </ul>
     
