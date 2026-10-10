@@ -790,15 +790,15 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>we recomMEND [MONitoring WHY the DAtabase CLEARS SESsions].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi kiến nghị [việc giám sát tại sao cơ sở dữ liệu lại xóa các phiên làm việc].</li>
+          <li className="margin-bottom-20 list-none">Chúng tôi khuyến nghị [theo dõi lý do tại sao cơ sở dữ liệu xóa các phiên].</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [MONitoring WHY the DAtabase CLEARS SESsions] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "recomMEND", đóng vai trò làm  thành phần chịu tác động đứng ngay sau hạt nhân để bổ sung trọn vẹn thông tin cho hành động kiến nghị này. Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [MONitoring WHY the DAtabase CLEARS SESsions] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "recomMEND" trong [MAIN CLAUSE][CHÍNH ĐIỀU], đóng vai trò làm  thành phần chịu tác động đứng ngay sau hạt nhân [PREDicator][VỊ] "recomMEND" để bổ sung trọn vẹn thông tin cho hành động kiến nghị này. Bản chất là [GERund-PARTicipial CLAUSE][DANH-TÍNH ĐIỀU] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "MONitoring" và kéo theo thành phần bổ trợ phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the DAtabase CLEARS SESsions] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân hành động "MONitoring" ở tầng ngoài, làm rõ nội dung cho việc giám sát. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] riêng "DAtabase" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] riêng "CLEARS" thiết lập theo trục thời hiện tại đi sau [ADverb][TRẠNG] "WHY".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the DAtabase CLEARS SESsions] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "MONitoring", làm rõ nội dung cho việc giám sát. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [ADverb][TRẠNG] "WHY" và [NOUN as HEAD][DANH làm LÕI] riêng "DAtabase" và [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] riêng "CLEARS" thiết lập theo trục thời hiện tại đi sau.</li>
       
         </ul>
 
