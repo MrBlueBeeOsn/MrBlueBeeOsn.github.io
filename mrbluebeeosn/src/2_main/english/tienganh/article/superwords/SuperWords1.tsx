@@ -555,14 +555,14 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* .  */}
 
-			<h3 className="margin-y-50 text-center">Đột Phá Nâng Cao: Bản Chất Của [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU]</h3>
+			<h3 className="margin-y-50 text-center">Đột Phá Nâng Cao: Bản Chất Của [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU]</h3>
 
 			<p>Trong văn phong bản ngữ, người ta thường lược bỏ các cơ liên kết nhằm đẩy tốc độ truyền tải thông tin lên tối đa.</p>
 
 			<p>Về hình thái trực quan, các khối này trông giống hệt như một câu con độc lập có đầy đủ [PROnoun as HEAD][ĐẠI làm LÕI] và hành động riêng, nhưng về bản chất, chúng không thể đứng tách rời một mình mà phải cắm chặt vào cấu trúc tổng thể:</p>
 
 
-			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>ZEro CONtent CLAUSE</strong>][<strong>KHUYẾT NỘI ĐIỀU</strong>]</p>
+			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU]</p>
 			
 				<ul className="list-square">
 			
@@ -571,7 +571,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [you TOOK the corRECT STEPS] – [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] đang đứng vị trí [COMplement][BỔ] để làm rõ sự việc chịu tác động trực tiếp từ [PREDicator HEAD][VỊ LÕI] "beLIEVE".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [you TOOK the corRECT STEPS] – [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [you TOOK the corRECT STEPS] – [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
 			
 				</ul>
 			
@@ -599,7 +599,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should they reQUEST asSIStance] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [should they reQUEST asSIStance] – [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [should they reQUEST asSIStance] – [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng [PREterite MOdal auXILiary VERB][KHỨ THÁI TRỢ ĐỘNG] lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
 			
 				</ul>
 			

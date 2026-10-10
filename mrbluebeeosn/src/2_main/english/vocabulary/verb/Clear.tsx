@@ -704,7 +704,7 @@ export default function CLEAR(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ở phân hệ này, các thành phần liên kết đã được người bản ngữ chủ động lược bỏ để tối ưu tốc độ truyền tải thông tin. Về diện mạo vật lý, khối mã này nhìn hoàn toàn giống như một hệ con độc lập có đầy đủ cặp bài trùng [NOUN as HEAD][DANH làm LÕI] và [PREDicator HEAD][VỊ LÕI], tuy nhiên chức năng của nó vẫn là chức năng phụ thuộc và vẫn sinh ra đầy đủ 3 đầu ra: Danh, Tính, Trạng.</p>
 
@@ -716,11 +716,11 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>i beLIEVE [you CLEARED the STORage SPACE].</li>
-          <li className="margin-bottom-20 list-none">Tôi tin [bạn đã dọn sạch không gian lưu trữ].</li>
+          <li className="margin-bottom-20 list-none">Tôi tin rằng [bạn đã giải phóng dung lượng lưu trữ].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [you CLEARED the STORage SPACE] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] nhận toàn bộ năng lượng niềm tin từ [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "beLIEVE". Bản chất là [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] đã ẩn [SuBORdinator][HẠ] định hướng "that".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [you CLEARED the STORage SPACE] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "beLIEVE" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bản chất là [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU] đã ẩn [SuBORdinator][HẠ] định hướng "that", chỉ còn hiển thị trọn vẹn khối [PROnoun as HEAD][ĐẠI làm LÕI] "you" và cụm hành động [FInite CLAUSE][THỜI ĐIỀU] "CLEARED ..." phía sau..</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [you CLEARED the STORage SPACE] - Chỉ còn hiển thị trọn vẹn khối [PROnoun as HEAD][ĐẠI làm LÕI] "you" và [PRETerite FORM][KHỨ DẠNG] "CLEARED". </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the STORage SPACE] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "CLEARED".</li>
       
         </ul>
       

@@ -165,7 +165,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li><strong>Ở cấp độ</strong> [<strong>deCLARative CONtent CLAUSE</strong>][<strong>THUẬT NỘI ĐIỀU</strong>]: Sinh ra [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] và [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ].</li>
 
-					<li><strong>Ở cấp độ</strong> [<strong>ZEro CONtent CLAUSE</strong>][<strong>KHUYẾT NỘI ĐIỀU</strong>]: Sinh ra [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] và [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ].</li>
+					<li><strong>Ở cấp độ</strong> [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU]: Sinh ra [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] và [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ].</li>
 
 					<li><strong>Ở cấp độ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>][<strong>MỞ VẤN NỘI ĐIỀU</strong>]: Sinh ra [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] và [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ].</li>
 
@@ -577,12 +577,12 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* VI. */}
 
-			<h3 className="margin-y-50 text-center">VI. HIỆN TƯỢNG [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU]</h3>
+			<h3 className="margin-y-50 text-center">VI. HIỆN TƯỢNG [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU]</h3>
 
-			<p>Trong thực tế, rất nhiều khối [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] được lược bỏ hoàn toàn [suBORdinator][HẠ] dẫn dắt. Lúc này, khối biểu hiện có hình thái bề ngoài giống hệt như một câu độc lập, nhưng chúng bắt buộc phải gắn kết chặt chẽ vào hệ thống để thực thi các chức năng cốt lõi:</p>
+			<p>Trong thực tế, rất nhiều khối [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU] được lược bỏ hoàn toàn [suBORdinator][HẠ] dẫn dắt. Lúc này, khối biểu hiện có hình thái bề ngoài giống hệt như một câu độc lập, nhưng chúng bắt buộc phải gắn kết chặt chẽ vào hệ thống để thực thi các chức năng cốt lõi:</p>
 
 
-			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>ZEro CONtent CLAUSE</strong>][<strong>KHUYẾT NỘI ĐIỀU</strong>]:</p>
+			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU]:</p>
 			
 				<ul className="list-square">
 			
@@ -591,7 +591,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [the BOARD would apPROVE the BUDget] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu tác động trực tiếp đứng sau sự điều phối của [PRETerite FORM][KHỨ DẠNG] asSUMED.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [the BOARD would apPROVE the BUDget] - [ZEro CONtent CLAUSE][KHUYẾT NỘI ĐIỀU] lồng ghép trực tiếp đứng sau hành động chính mà không cần sự hỗ trợ của [suBORdinator][HẠ] "that".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [the BOARD would apPROVE the BUDget] - [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU] lồng ghép trực tiếp đứng sau hành động chính mà không cần sự hỗ trợ của [suBORdinator][HẠ] "that".</li>
 			
 				</ul>
 			
