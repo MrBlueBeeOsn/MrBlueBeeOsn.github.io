@@ -785,18 +785,18 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>4.2.2</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>4.2.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="11b">Ví dụ 11b:</p>
 			
 				<ul className="list-square">
 			
 					<li>[the Email she reSPONDed to] conTAINED CRUcial inforMAtion.</li>
-					<li className="margin-bottom-20 list-none">[Email mà cô ấy đã phản hồi] chứa đựng thông tin quan trọng.</li>
+					<li className="margin-bottom-20 list-none">[Email mà cô ấy đã trả lời] chứa thông tin quan trọng.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the Email she reSPONDed to] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the Email she reSPONDed to] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "conTAINED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [she reSPONDed to] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn thành phần [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] vật thể đứng trước, giữ lại khối [PROnoun as HEAD][ĐẠI làm LÕI] "she" và cụm [PRETerite FORM][KHỨ DẠNG] "reSPONDed to". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD][DANH làm LÕI] "Email" để làm rõ đặc điểm cho đối tượng này.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [she reSPONDed to] - [FInite CLAUSE as post-MODifier][THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "Email". Bản chất là [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] đã ẩn thành phần "which", "that" vật thể đứng trước giữ lại khối [PROnoun as HEAD][ĐẠI làm LÕI] "she" và [PRETerite FORM][KHỨ DẠNG] "reSPONDed". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD][DANH làm LÕI] "Email" để làm rõ đặc điểm cho đối tượng này.</li>
 			
 				</ul>
 			

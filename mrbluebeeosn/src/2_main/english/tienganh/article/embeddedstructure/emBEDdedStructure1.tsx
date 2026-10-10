@@ -699,7 +699,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the PLAN i deSIGNED YESterday] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: i deSIGNED YESterday - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] chứa chủ thể "i" và [PRETerite FORM][KHỨ DẠNG] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [RElative PRONOUN][QUAN ĐẠI] định vị nào dẫn đường. Vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng [NOUN as HEAD][DANH làm LÕI] "PLAN" đứng trước.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: i deSIGNED YESterday - [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] chứa chủ thể "i" và [PRETerite FORM][KHỨ DẠNG] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [RElative PRONOUN][QUAN ĐẠI] định vị nào dẫn đường. Vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng [NOUN as HEAD][DANH làm LÕI] "PLAN" đứng trước.</li>
 			
 				</ul>
 			

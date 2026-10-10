@@ -633,7 +633,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the POLicy they IMplemented LAST MONTH] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: họ triển khai tháng trước - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] có cấu trúc [S]-[HEAD] đầy đủ nhưng đã bị chủ động lược bỏ [RElative PRONOUN][QUAN ĐẠI] which/that ở đầu khối để tăng tốc độ truyền đạt của dòng thông tin. Làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm thuộc tính cho thực thể [NOUN as HEAD][DANH làm LÕI] the POLicy.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: họ triển khai tháng trước - [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] có cấu trúc [S]-[HEAD] đầy đủ nhưng đã bị chủ động lược bỏ [RElative PRONOUN][QUAN ĐẠI] which/that ở đầu khối để tăng tốc độ truyền đạt của dòng thông tin. Làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm thuộc tính cho thực thể [NOUN as HEAD][DANH làm LÕI] the POLicy.</li>
 			
 				</ul>
 

@@ -706,7 +706,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro deCLARative CONtent CLAUSE][KHUYẾT THUẬT NỘI ĐIỀU]</h5>
 
-      <p className="margin-top-20 text-indent-whole">Ở phân hệ này, các thành phần liên kết đã được người bản ngữ chủ động lược bỏ để tối ưu tốc độ truyền tải thông tin. Về diện mạo vật lý, khối mã này nhìn hoàn toàn giống như một hệ con độc lập có đầy đủ cặp bài trùng [NOUN as HEAD][DANH làm LÕI] và [PREDicator HEAD][VỊ LÕI], tuy nhiên chức năng của nó vẫn là chức năng phụ thuộc và vẫn sinh ra đầy đủ 3 đầu ra: Danh, Tính, Trạng.</p>
+      <p className="margin-top-20 text-indent-whole">Ở phân hệ này, các thành phần liên kết đã được người bản ngữ chủ động lược bỏ để tối ưu tốc độ truyền tải thông tin. Về diện mạo vật lý, khối mã này nhìn hoàn toàn giống như một hệ con độc lập có đầy đủ cặp bài trùng [NOUN as HEAD][DANH làm LÕI] và [PREDicator HEAD][VỊ LÕI].</p>
 
 
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as COMplement</strong>][<strong>THỜI ĐIỀU làm BỔ</strong>]</p>
@@ -725,18 +725,18 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="11b">Ví dụ 11b:</p>
       
         <ul className="list-square">
       
           <li>[the DESK the emPLOYee CLEARED] LOOKED VERy NEAT.</li>
-          <li className="margin-bottom-20 list-none">[Chiếc bàn làm việc mà người nhân viên đã dọn dẹp] trông rất gọn gàng.</li>
+          <li className="margin-bottom-20 list-none">[Bàn làm việc mà nhân viên đã dọn dẹp] trông rất gọn gàng.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the DESK the emPLOYee CLEARED] - </li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the DESK the emPLOYee CLEARED] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "LOOKED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the emPLOYee CLEARED] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ]. Bản chất là [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [NOUN as HEAD][DANH làm LÕI] "emPLOYee" và [PRETerite FORM][KHỨ DẠNG] "CLEARED". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD][DANH làm LÕI] "DESK" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the emPLOYee CLEARED] - [FInite CLAUSE as post-MODifier][THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "DESK". Bản chất là [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] đã ẩn mã liên kết "which", "that" vật thể đứng trước, giữ lại khối [NOUN as HEAD][DANH làm LÕI] "emPLOYee" và [PRETerite FORM][KHỨ DẠNG] "CLEARED". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD][DANH làm LÕI] "DESK" để làm rõ đặc điểm cho đối tượng này.</li>
       
         </ul>
       

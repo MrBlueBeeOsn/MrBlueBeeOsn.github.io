@@ -466,7 +466,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>[the paRAMeters EXperts recomMEND] must be TESTed.</li>
 					<li className="margin-bottom-20 list-none">Các thông số [mà các chuyên gia khuyên dùng] phải được kiểm tra.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: EXperts recomMEND - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] bỏ qua [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định. Thu gọn không gian biểu đạt để làm rõ đặc điểm đối tượng [NOUN as HEAD][DANH làm LÕI] "paRAMeters".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: EXperts recomMEND - [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] bỏ qua [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định. Thu gọn không gian biểu đạt để làm rõ đặc điểm đối tượng [NOUN as HEAD][DANH làm LÕI] "paRAMeters".</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the paRAMeters EXperts recomMEND] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ].</li>
 			

@@ -605,7 +605,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [the MENtor i conSULted YESterday] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối i conSULted YESterday - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] có sự lược bỏ [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong. Đứng ôm ngay sau thực thể [NOUN as HEAD][DANH làm LÕI] "MENtor" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối i conSULted YESterday - [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] có sự lược bỏ [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong. Đứng ôm ngay sau thực thể [NOUN as HEAD][DANH làm LÕI] "MENtor" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
 			
 				</ul>
 			

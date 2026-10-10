@@ -535,7 +535,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the BOOK she LENT me] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: she LENT me - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [PROnoun as HEAD][ĐẠI làm LÕI] "she" và [PRETerite FORM][KHỨ DẠNG] "LENT". Đứng ngay sau đối tượng cuốn sách nhằm mô tả đặc điểm riêng biệt cho [NOUN as HEAD][DANH làm LÕI] "BOOK".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: she LENT me - [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [PROnoun as HEAD][ĐẠI làm LÕI] "she" và [PRETerite FORM][KHỨ DẠNG] "LENT". Đứng ngay sau đối tượng cuốn sách nhằm mô tả đặc điểm riêng biệt cho [NOUN as HEAD][DANH làm LÕI] "BOOK".</li>
 			
 				</ul>
 			

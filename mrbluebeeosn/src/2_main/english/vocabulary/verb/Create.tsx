@@ -782,18 +782,18 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>4.2.2</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>4.2.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>][<strong>DANH CỤM làm CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="11b">Ví dụ 11b:</p>
       
         <ul className="list-square">
       
           <li>[the deSIGN she creAted for the CLIent] WON a presTIgious aWARD.</li>
-          <li className="margin-bottom-20 list-none">[Mẫu thiết kế mà cô ấy đã tạo ra cho khách hàng] đã giành một giải thưởng uy tín.</li>
+          <li className="margin-bottom-20 list-none">[Thiết kế mà cô ấy đã tạo ra cho khách hàng] đã giành được một giải thưởng danh giá.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deSIGN she creAted for the CLIent] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deSIGN she creAted for the CLIent] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "WON" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [she creAted for the CLIent] - [ZEro RELative CLAUSE][KHUYẾT QUAN CÂU] đã ẩn thành phần [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] vật thể đứng trước, giữ lại khối [PROnoun as HEAD][ĐẠI làm LÕI] "she" và cụm [PAST VERB PHRASE][ĐÃ ĐỘNG CỤM] "creAted for the CLIent". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD][DANH làm LÕI] "deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [she creAted for the CLIent] - [FInite CLAUSE as post-MODifier][THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "deSIGN". Bản chất là [ZEro RELative CLAUSE][KHUYẾT QUAN ĐIỀU] đã ẩn thành phần "which", "that" vật thể đứng trước, giữ lại khối [PROnoun as HEAD][ĐẠI làm LÕI] "she" và cụm [FInite CLAUSE][THỜI ĐIỀU] "creAted for the CLIent". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD][DANH làm LÕI] "deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
       
         </ul>
       
