@@ -447,7 +447,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the STAFF MEMber to CLEAR the MEETing ROOM] - [NOUN PHRASE as SUBject][DANH CỤM làm CHỦ] của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CLEAR the MEETing ROOM] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "MEMber" để quét và hiển thị đặc điểm hành động sắp sửa xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "CLEAR the MEETing ROOM" để biểu thị mục đích, nghĩa vụ hoặc định hướng hành động.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CLEAR the MEETing ROOM] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "MEMber" để quét và hiển thị đặc điểm hành động sắp sửa xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "CLEAR the MEETing ROOM" để biểu thị mục đích, nghĩa vụ hoặc định hướng hành động.</li>
       
         </ul>
 

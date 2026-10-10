@@ -406,7 +406,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to deSIGN the INterface] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng sau [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres creaTIVity" để làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to deSIGN the INterface] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "deSIGN ..." kéo dài cho đến hết đối tượng của nó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to deSIGN the INterface] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "deSIGN ..." kéo dài cho đến hết đối tượng của nó.</li>
 			
 				</ul>
 			
@@ -508,7 +508,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				
 						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to exPLAIN HOW we deSIGN this PLATform] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] đóng vai trò chủ trì điều phối toàn bộ câu làm khối của [COPular inTRANsitive VERB][NỐI NỘI ĐỘNG] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
 						
-						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to exPLAIN HOW we deSIGN this PLATform] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "exPLAIN ..." và kéo theo khối CLAUSE con bên trong.</li>
+						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to exPLAIN HOW we deSIGN this PLATform] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "exPLAIN ..." và kéo theo khối CLAUSE con bên trong.</li>
 				
 					</ul>
 			

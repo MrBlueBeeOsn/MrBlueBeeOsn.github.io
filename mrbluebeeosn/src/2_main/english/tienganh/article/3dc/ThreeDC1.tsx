@@ -434,7 +434,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [to seCURE this CONtract] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] đứng sau [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "TAKES exCEPtional negotiAtion SKILLS" để làm [SUBject][CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [to seCURE this CONtract] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "seCURE ..." kéo theo một [NOUN PHRASE][DANH CỤM] phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [to seCURE this CONtract] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "seCURE ..." kéo theo một [NOUN PHRASE][DANH CỤM] phía sau.</li>
 			
 				</ul>
 
@@ -448,7 +448,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [to LIQuidate the underperFORming ASsets] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] được hình thành từ [NOUN PHRASE][DANH CỤM] mục tiêu cần thực hiện, đứng sau chịu sự điều phối của [PRETerite FORM][KHỨ DẠNG] "reSOLVED".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [to LIQuidate the underperFORming ASsets] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "LIQuidate ..." kéo theo một cụm [NOUN PHRASE][DANH CỤM] phức hợp phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [to LIQuidate the underperFORming ASsets] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "LIQuidate ..." kéo theo một cụm [NOUN PHRASE][DANH CỤM] phức hợp phía sau.</li>
 			
 				</ul>
 			
@@ -476,7 +476,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [to reFINE his LEADership STYLE] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đứng cuối nhằm giải thích bối cảnh mục đích cho hành động tham gia được vận hành bởi [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "atTENDS".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [to reFINE his LEADership STYLE] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "reFINE ..." kéo theo một cụm [NOUN PHRASE][DANH CỤM] làm thành phần bổ trợ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [to reFINE his LEADership STYLE] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "reFINE ..." kéo theo một cụm [NOUN PHRASE][DANH CỤM] làm thành phần bổ trợ.</li>
 			
 				</ul>
 
@@ -650,7 +650,7 @@ export default function ThreeDC1(): React.ReactElement {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">Khối bao ngoài [to underSTAND WHY the SPEcies went exTINCT] là một [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "underSTAND ...".</li>
+					<li className="list-none">Khối bao ngoài [to underSTAND WHY the SPEcies went exTINCT] là một [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "underSTAND ...".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói WHY the SPEcies went exTINCT là một [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
 			
@@ -672,7 +672,7 @@ export default function ThreeDC1(): React.ReactElement {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">Khối bao ngoài [to DEMonstrate HOW the DRUG WORKS] là một [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "DEMonstrate ...".</li>
+					<li className="list-none">Khối bao ngoài [to DEMonstrate HOW the DRUG WORKS] là một [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "DEMonstrate ...".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói HOW the DRUG WORKS là một [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng [ADverb][TRẠNG] "HOW".</li>
 			

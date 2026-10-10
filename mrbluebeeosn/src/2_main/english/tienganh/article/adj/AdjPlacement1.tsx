@@ -526,7 +526,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to dePLOY AUtomated SYStems which OPtimize WORKflow] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "dePLOY ..." kết hợp mở rộng cấu trúc.</li>
+						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to dePLOY AUtomated SYStems which OPtimize WORKflow] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "dePLOY ..." kết hợp mở rộng cấu trúc.</li>
 
 						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: which OPtimize WORKflow - [RELative CLAUSE][QUAN ĐIỀU] lồng sâu bên trong.</li>
 				

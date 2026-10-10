@@ -873,15 +873,15 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] reQUIres RIGorous TESting.</li>
-					<li className="margin-bottom-20 list-none">[Việc hiểu cách hệ thống phản hồi đối với các sự cố mạng] đòi hỏi sự kiểm thử nghiêm ngặt.</li>
+					<li className="margin-bottom-20 list-none">[Để hiểu cách hệ thống phản ứng trước các sự cố mạng] cần phải tiến hành thử nghiệm nghiêm ngặt.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] - [<strong>non-FInite CLAUSE as SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm CHỦ</strong>] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres RIGorous TESting" để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng [to-infiniTIval][TO-NGUYÊN] "To underSTAND" kết hợp vùng mã mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres" trong [MAIN CLAUSE][CHÍNH ĐIỀU], để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + kết hợp với [VERB PHRASE][ĐỘNG CỤM] "underSTAND ..." kéo theo vùng mã bổ trợ phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem reSPONDS to NETwork FAIlures] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "underSTAND" ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] "SYStem" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem reSPONDS to NETwork FAIlures] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN FORM][GIẢN DẠNG] "underSTAND". Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [ADverb][TRẠNG] "HOW" và [NOUN as HEAD][DANH làm LÕI] "SYStem" và cụm hành động riêng đi sau.</li>
 			
 				</ul>
 
@@ -893,15 +893,15 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the COMpany PLANS [to ANalyze HOW USers reSPOND to NEW INterface deSIGNS].</li>
-					<li className="margin-bottom-20 list-none">Công ty có kế hoạch [phân tích cách người dùng phản hồi với các thiết kế giao diện mới].</li>
+					<li className="margin-bottom-20 list-none">Công ty có kế hoạch [phân tích cách người dùng phản ứng với các thiết kế giao diện mới].</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to ANalyze HOW USers reSPOND to NEW INterface deSIGNS] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "PLANS", tiếp nhận mục tiêu kế hoạch cho hành động. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "ANalyze ..." kéo theo vùng mã bổ trợ phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to ANalyze HOW USers reSPOND to NEW INterface deSIGNS] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "PLANS" trong [MAIN CLAUSE][CHÍNH ĐIỀU], tiếp nhận mục tiêu kế hoạch cho hành động. Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "ANalyze ..." kéo theo vùng mã bổ trợ phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW USers reSPOND to NEW INterface deSIGNS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "ANalyze" ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa [NOUN as HEAD][DANH làm LÕI] riêng "USers" và cụm hành động riêng đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW USers reSPOND to NEW INterface deSIGNS] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN FORM][GIẢN DẠNG] "ANalyze". Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa thành phần [ADverb][TRẠNG] "HOW" và [NOUN as HEAD][DANH làm LÕI] riêng "USers" và cụm hành động riêng đi sau.</li>
 			
 				</ul>
 
@@ -919,7 +919,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [<strong>non-FInite CLAUSE as extraPOSED SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm NGOẠI CHỦ</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc "reQUIres experTISE". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "eVALuate ..." và kéo theo thành phần bổ trợ phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [<strong>non-FInite CLAUSE as extraPOSED SUBject</strong>][<strong>PHI-THỜI ĐIỀU làm NGOẠI CHỦ</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it" trong cấu trúc "reQUIres experTISE". Bản chất là [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "eVALuate ..." và kéo theo thành phần bổ trợ phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp từ hạt nhân "eVALuate" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là HOW the appliCAtion reSPONDS to HIGH TRAFfic - [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [NOUN as HEAD][DANH làm LÕI] riêng "appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
 			

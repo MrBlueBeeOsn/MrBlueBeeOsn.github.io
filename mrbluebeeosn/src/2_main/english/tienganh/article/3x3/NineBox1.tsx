@@ -608,7 +608,7 @@ export default function NineBox1(): React.JSX.Element {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">Khối tổng thể [to underSTAND HOW the DAtabase HANdles the WORKload] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] ở tầng ngoài được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "underSTAND ...".</li>
+					<li className="list-none">Khối tổng thể [to underSTAND HOW the DAtabase HANdles the WORKload] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] ở tầng ngoài được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "underSTAND ...".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói HOW the DAtabase HANdles the WORKload - [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] ở tầng trong.</li>
 			
@@ -630,7 +630,7 @@ export default function NineBox1(): React.JSX.Element {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none">Khối tổng thể [to BEAUtify WHAT the LEgacy SCRIPT OUTputs] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] ở tầng ngoài được cấu tạo từ [MARKer][DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "BEAUtify ...".</li>
+					<li className="list-none">Khối tổng thể [to BEAUtify WHAT the LEgacy SCRIPT OUTputs] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] ở tầng ngoài được cấu tạo từ [infiniTIval MARKer][NGUYÊN DẤU] "to" + [VERB PHRASE][ĐỘNG CỤM] "BEAUtify ...".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói WHAT the LEgacy SCRIPT OUTputs - [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] ở tầng trong.</li>
 			
