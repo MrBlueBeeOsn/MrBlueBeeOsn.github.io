@@ -803,24 +803,26 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-top-20 text-indent-whole">[non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</h5>
+      <h5 className="margin-top-20 text-indent-whole">[NOUN PHRASE as COMplement][DANH CỤM làm BỔ]</h5>
 
       <p className="margin-top-20 text-indent-whole" id="13">Ví dụ 13:</p>
       
         <ul className="list-square">
-      
+
           <li>they have [DOUBTS a<strong>bout</strong> HOW they CLEAR the seCUrity CHECK].</li>
-          <li className="margin-bottom-20 list-none">Họ có những nghi ngờ [về cách mà họ vượt qua vòng kiểm tra an ninh].</li>
+          <li className="margin-bottom-20 list-none">Họ có [những nghi ngờ về cách họ vượt qua cửa kiểm tra an ninh].</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [DOUBTS a<strong>bout</strong> HOW they CLEAR the seCUrity CHECK] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "have".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [DOUBTS a<strong>bout</strong> HOW they CLEAR the seCUrity CHECK] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "have" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
 
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a<strong>bout</strong> HOW they CLEAR the seCUrity CHECK] - Bản chất là [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "DOUBTS", biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "a<strong>bout</strong>".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
+
+          <li className="list-none margin-bottom-10">[a<strong>bout</strong> HOW they CLEAR the seCUrity CHECK]  - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "DOUBTS". Bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "a<strong>bout</strong>" và kéo theo thành phần bổ trợ phía sau. Biểu thị dưới dạng một vùng mã lớn.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW they CLEAR the seCUrity CHECK] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [TRANsitive prepoSITion][NGOẠI GIỚI] "a<strong>bout</strong>" ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [PROnoun as HEAD][ĐẠI làm LÕI] "they" và [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "CLEAR".</li>
+          <li className="list-none margin-bottom-10">[HOW they CLEAR the seCUrity CHECK] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive prepoSITion][NGOẠI GIỚI] "a<strong>bout</strong>". Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb][TRẠNG] "HOW", [PROnoun as HEAD][ĐẠI làm LÕI] "they", [PLAIN PRESent FORM][GIẢN HIỆN DẠNG] "CLEAR" và [NOUN PHRASE][DANH CỤM] "the seCUrity CHECK" đi sau.</li>
       
         </ul>
 

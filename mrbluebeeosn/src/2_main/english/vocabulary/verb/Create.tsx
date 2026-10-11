@@ -923,24 +923,26 @@ export default function creATE(): React.JSX.Element {
         </ul>
     
 
-      <p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="13">Ví dụ 13:</p>
       
         <ul className="list-square">
       
-          <li>the BOARD reVIEWED [proPOsals regarding HOW the TEAM creATES NEW MARketing CHANnels].</li>
-          <li className="margin-bottom-20 list-none">Hội đồng đã xem xét các đề xuất [liên quan đến cách đội ngũ tạo ra các kênh tiếp thị mới].</li>
+          <li>the BOARD reVIEWED [proPOsals re<strong>gard</strong>ing HOW the TEAM creATES NEW MARketing CHANnels].</li>
+          <li className="margin-bottom-20 list-none">Hội đồng quản trị đã xem xét [các đề xuất liên quan đến cách thức mà đội ngũ xây dựng các kênh tiếp thị mới].</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [proPOsals regarding HOW the TEAM creATES NEW MARketing CHANnels] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "reVIEWED".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [proPOsals regarding HOW the TEAM creATES NEW MARketing CHANnels] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "reVIEWED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [regarding HOW the TEAM creATES NEW MARketing CHANnels] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "proPOsals" (với "regarding" đóng vai trò [TRANsitive prepoSITion][NGOẠI GIỚI]) biểu thị dưới dạng một vùng mã lớn.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the TEAM creATES NEW MARketing CHANnels] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] "TEAM" và cụm hành động đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
+          <li className="list-none margin-bottom-10">[re<strong>gard</strong>ing HOW the TEAM creATES NEW MARketing CHANnels] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "proPOsals". Bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "re<strong>gard</strong>ing" và kéo theo thành phần bổ trợ phía sau.</li>
+
+          <li className="list-none margin-bottom-10">[HOW the TEAM creATES NEW MARketing CHANnels] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive prepoSITion][NGOẠI GIỚI] "re<strong>gard</strong>ing". Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb][TRẠNG] "HOW", [NOUN as HEAD][DANH làm LÕI] "TEAM", [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "creATES" và [NOUN PHRASE][DANH CỤM] "NEW MARketing CHANnels" đi sau.</li>
       
         </ul>
 

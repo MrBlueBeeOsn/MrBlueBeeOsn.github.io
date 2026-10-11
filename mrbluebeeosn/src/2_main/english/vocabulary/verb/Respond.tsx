@@ -926,22 +926,26 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as COMplement</strong>][<strong>DANH CỤM làm BỔ</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="13">Ví dụ 13:</p>
 			
 				<ul className="list-square">
 			
-					<li>the BOARD reVIEWED rePORTS [regarding HOW the organiZAtion reSPONDS to MARket CRIses].</li>
-					<li className="margin-bottom-20 list-none">Hội đồng đã xem xét các báo cáo [liên quan đến cách tổ chức ứng phó/phản hồi với các khủng hoảng thị trường].</li>
+					<li>the BOARD reVIEWED [rePORTS re<strong>gard</strong>ing HOW the organiZAtion reSPONDS to MARket CRIses].</li>
+					<li className="margin-bottom-20 list-none">Hội đồng quản trị đã xem xét [các báo cáo liên quan đến cách thức tổ chức ứng phó với các cuộc khủng hoảng thị trường].</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [regarding HOW the organiZAtion reSPONDS to MARket CRIses] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của hành động [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "rePORTS", vận hành như một bộ quét tổng thể đặt ngay phía sau đối tượng "rePORTS" để mô tả đặc điểm nội dung. Với "regarding" đóng vai trò [TRANsitive prepoSITion][NGOẠI GIỚI] biểu thị dưới dạng một vùng mã lớn.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [rePORTS re<strong>gard</strong>ing HOW the organiZAtion reSPONDS to MARket CRIses] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "reVIEWED" trong [MAIN CLAUSE][CHÍNH ĐIỀU].</li>
+
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
+
+					<li className="list-none margin-bottom-10">[re<strong>gard</strong>ing HOW the organiZAtion reSPONDS to MARket CRIses] - [prepoSITion PHRASE as post-MODifier][GIỚI CỤM làm HẬU-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] "rePORTS". Bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "re<strong>gard</strong>ing" và kéo theo thành phần bổ trợ phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the organiZAtion reSPONDS to MARket CRIses] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] "organiZAtion" và cụm hành động đi sau thành phần [ADverb][TRẠNG] "HOW".</li>
+					<li className="list-none margin-bottom-10">[HOW the organiZAtion reSPONDS to MARket CRIses] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive prepoSITion][NGOẠI GIỚI] "re<strong>gard</strong>ing". Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb][TRẠNG] "HOW", [NOUN as HEAD][DANH làm LÕI] "organiZAtion", [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reSPONDS" và [prepoSITion PHRASE][GIỚI CỤM] "to MARket CRIses" đi sau.</li>
 			
 				</ul>
 
