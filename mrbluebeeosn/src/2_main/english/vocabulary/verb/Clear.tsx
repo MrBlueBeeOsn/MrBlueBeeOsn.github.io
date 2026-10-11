@@ -828,22 +828,26 @@ export default function CLEAR(): React.JSX.Element {
 
 
           
-      <h5 className="margin-top-20 text-indent-whole">[ADjunct][PHỤ]</h5>
+      <h5 className="margin-top-20 text-indent-whole">[prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ]</h5>
 
       <p className="margin-top-20 text-indent-whole" id="14">Ví dụ 14:</p>
       
         <ul className="list-square">
       
-          <li>the OFFicer LOOKED diRECTly [at where the TEAM CLEARED the LAND].</li>
-          <li className="margin-bottom-20 list-none">Viên sĩ quan đã nhìn thẳng [vào nơi mà đội ngũ đã giải phóng mặt bằng].</li>
+          <li>the OFFicer LOOKED [diRECTly] [at where the TEAM CLEARED the LAND].</li>
+          <li className="margin-bottom-20 list-none">Viên sĩ quan nhìn thẳng [vào nơi mà đội đã dọn sạch khu đất].</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [at where the TEAM CLEARED the LAND] - [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho [PREDicator HEAD][VỊ LÕI] "LOOKED". Bản chất là [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm BỔ] của hành động [PRETerite FORM][KHỨ DẠNG] "LOOKED",biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "at".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài song song</strong>:</li>
+
+          <li className="list-none margin-bottom-10">[diRECTly] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "LOOKED" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Hình thành từ khối [ADjective][TÍNH] nguyên bản "diRECT" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+
+          <li className="list-none margin-bottom-10">[at where the TEAM CLEARED the LAND] - [prepoSITion PHRASE as COMplement][GIỚI CỤM làm BỔ] của [inTRANsitive VERB][NỘI ĐỘNG] ở [PRETerite FORM][KHỨ DẠNG] "LOOKED" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bắt đầu bằng [TRANsitive prepoSITion][NGOẠI GIỚI] "at" và kéo theo thành phần bổ trợ phía sau, đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể, biểu thị dưới dạng một vùng mã xác lập không gian lớn.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [where the TEAM CLEARED the LAND] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] chịu sự điều phối trực tiếp của [TRANsitive prepoSITion][NGOẠI GIỚI] "at" ở tầng ngoài. Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [NOUN as HEAD][DANH làm LÕI] riêng "TEAM" và [PRETerite FORM][KHỨ DẠNG] riêng "CLEARED" thuộc trục thời quá khứ.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [where the TEAM CLEARED the LAND] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] của [TRANsitive prepoSITion][NGOẠI GIỚI] "at". Bản chất là [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb][TRẠNG] "where", [NOUN as HEAD][DANH làm LÕI] riêng "TEAM",  [PRETerite FORM][KHỨ DẠNG] "CLEARED" riêng thuộc trục thời quá khứ và [NOUN PHRASE][DANH CỤM] "the LAND" đi sau.</li>
       
         </ul>
       
