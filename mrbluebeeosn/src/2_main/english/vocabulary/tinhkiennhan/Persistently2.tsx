@@ -75,7 +75,7 @@ export default function perSISTently2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>perSISTently</strong>" (một cách kiên trì) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>perSISTently</strong>" (kiên trì) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function perSISTently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="purSUED-of">she perSISTently [purSUED] her DREAM [of] beCOMing a DOCtor.</li>
-        <li className="list-none margin-bottom-20">Cô ấy kiên trì [theo đuổi] ước mơ trở thành bác sĩ.</li>
+        <li value="1" id="purSUED-of">she perSISTently purSUED her DREAM of beCOMing a DOCtor.</li>
+        <li className="list-none margin-bottom-20">Cô ấy kiên trì theo đuổi ước mơ trở thành bác sĩ.</li>
 
-        <li value="2" id="QUESTioned-about">the JOURnalist perSISTently [QUESTioned] the poliTICian [a<strong>bout</strong>] the SCANdal.</li>
-        <li className="list-none margin-bottom-20">Nhà báo kiên trì [đặt câu hỏi] cho chính trị gia [về] vụ bê bối.</li>
+        <li value="2" id="QUESTioned-about">the JOURnalist perSISTently QUESTioned the poliTICian a<strong>bout</strong> the SCANdal.</li>
+        <li className="list-none margin-bottom-20">Nhà báo liên tục chất vấn chính trị gia về vụ bê bối này.</li>
 
-        <li value="3" id="deNIED">he perSISTently [deNIED] any inVOLVEment in the CRIME.</li>
-        <li className="list-none margin-bottom-20">Anh ta kiên quyết [phủ nhận] bất kỳ liên quan nào đến tội ác.</li>
+        <li value="3" id="deNIED">he perSISTently deNIED any inVOLVEment in the CRIME.</li>
+        <li className="list-none margin-bottom-20">Anh ta liên tục phủ nhận mọi liên quan đến vụ án.</li>
 
-        <li value="4" id="RUmored-that">it was perSISTently [RUmored that] he would reSIGN.</li>
-        <li className="list-none margin-bottom-20">Người ta liên tục [đồn đại rằng] ông ta sẽ từ chức.</li>
+        <li value="4" id="RUmored-that">it was perSISTently RUmored that he would reSIGN.</li>
+        <li className="list-none margin-bottom-20">Có những tin đồn dai dẳng rằng anh ấy sẽ từ chức.</li>
 
-        <li value="5" id="reMAINED">despite the DIFficulties, she [reMAINED] perSISTently optiMIStic.</li>
-        <li className="list-none margin-bottom-20">Mặc dù gặp khó khăn, cô ấy [vẫn] luôn lạc quan.</li>
+        <li value="5" id="reMAINED">de<strong>spite</strong> the DIFficulties, she reMAINED perSISTently optiMIStic.</li>
+        <li className="list-none margin-bottom-20">Dù gặp nhiều khó khăn, cô vẫn luôn kiên trì và lạc quan.</li>
 
-        <li value="6" id="pesSISTic-about">he was perSISTently [pesSISTic a<strong>bout</strong>] the FUture of the COMpany.</li>
-        <li className="list-none margin-bottom-20">Anh ta luôn [bi quan về] tương lai của công ty.</li>
+        <li value="6" id="pesSISTic-about">he was perSISTently pesSISTic a<strong>bout</strong> the FUture of the COMpany.</li>
+        <li className="list-none margin-bottom-20">Anh ấy luôn tỏ ra rất kiên trì khi nói về tương lai của công ty.</li>
 
-        <li value="7" id="anNOYing">the NOISE from the conSTRUCtion SITE was perSISTently [anNOYing].</li>
-        <li className="list-none margin-bottom-20">Tiếng ồn từ công trường xây dựng [làm phiền] dai dẳng.</li>
+        <li value="7" id="anNOYing">the NOISE from the conSTRUCtion SITE was perSISTently anNOYing.</li>
+        <li className="list-none margin-bottom-20">Tiếng ồn từ công trường xây dựng liên tục gây phiền toái.</li>
 
-        <li value="8" id="RAINing-for">it has been perSISTently [RAINing for] DAYS.</li>
-        <li className="list-none margin-bottom-20">Trời đã [mưa] dai dẳng [suốt] mấy ngày.</li>
+        <li value="8" id="RAINing-for">it has been perSISTently RAINing for DAYS.</li>
+        <li className="list-none margin-bottom-20">Trời đã mưa liên tục suốt nhiều ngày nay.</li>
 
-        <li value="9" id="KNOCKing-at">SOMEone was perSISTently [KNOCKing at] the DOOR.</li>
-        <li className="list-none margin-bottom-20">Ai đó [đang gõ] cửa liên tục.</li>
+        <li value="9" id="KNOCKing-at">SOMEone was perSISTently KNOCKing at the DOOR.</li>
+        <li className="list-none margin-bottom-20">Có ai đó đang gõ cửa liên tục.</li>
 
-        <li value="10" id="TRIED">he perSISTently [TRIED] to SOLVE the PUZzle.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [cố gắng] không ngừng để giải câu đố.</li>
+        <li value="10" id="TRIED">he perSISTently TRIED to SOLVE the PUZzle.</li>
+        <li className="list-none margin-bottom-20">Anh ấy kiên trì cố gắng giải câu đố.</li>
 
       </ol>
 

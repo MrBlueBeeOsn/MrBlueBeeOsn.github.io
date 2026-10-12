@@ -1155,7 +1155,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">she là chủ thể. Sau hành động WANT, hành động tiếp theo phải ở dạng to V (to TRAVel).</li>
 			
 					<li>he <strong>PROMised to CALL</strong> his PARents as <strong>soon</strong> as he arRIVED in the CITy.</li>
-					<li className="list-none">Anh ấy <strong>đã hứa sẽ gọi điện</strong> cho bố mẹ ngay khi đến thành phố.</li>
+					<li className="list-none">Anh ấy <strong>đã hứa sẽ gọi điện</strong> cho ba mẹ ngay khi đến thành phố.</li>
 					<li className="margin-bottom-20 list-none">he là chủ thể. Sau hành động PROMise, hành động tiếp theo phải ở dạng to V (to CALL).</li>
 			
 					<li>they <strong>PLAN to MOVE</strong> to a BIGger aPARTment near their WORKplace NEXT MONTH.</li>

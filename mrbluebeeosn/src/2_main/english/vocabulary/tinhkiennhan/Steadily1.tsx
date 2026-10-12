@@ -77,13 +77,13 @@ export default function STEADily1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                STEAdily \<Link to="/pronunciation/5-vowel-system">STEAD i̛ ly</Link>\ /ˈsted.ə.li/ ⬤•• (THREE SYLlables)
+                STEADily \<Link to="/pronunciation/5-vowel-system">STEAD i̛ ly</Link>\ /ˈsted.ə.li/ ⬤•• (THREE SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách đều đặn, ổn định, vững chắc</li>
+            <li>Một cách ổn định</li>
 
           </ul>
 
@@ -102,13 +102,13 @@ export default function STEADily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">the RAIN FELL STEADily throughout the NIGHT.</li>
-          <li className="margin-bottom-20 list-none">Mưa rơi đều đặn suốt đêm.</li>
+          <li className="margin-bottom-20 list-none">Mưa rơi đều đặn suốt cả đêm.</li>
 
           <li>the COMpany's PROFits have been inCREAsing STEADily for the PAST YEAR.</li>
-          <li className="margin-bottom-20 list-none">Lợi nhuận của công ty đã tăng trưởng ổn định trong năm qua.</li>
+          <li className="margin-bottom-20 list-none">Lợi nhuận của công ty đã tăng đều đặn trong suốt năm qua.</li>
 
           <li>he WALKED STEADily along the PATH.</li>
-          <li className="list-none">Anh ấy bước đi vững chắc dọc theo con đường.</li>
+          <li className="list-none">Anh ta bước đi vững chắc dọc theo con đường.</li>
 
         </ul>
 
@@ -128,10 +128,10 @@ export default function STEADily1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Anh ấy có một công việc ổn định.</li>
         
           <li id="VERB">STEADy yourSELF!</li>
-          <li className="margin-bottom-20 list-none">Hãy giữ vững!</li>
+          <li className="margin-bottom-20 list-none">Hãy giữ bình tĩnh!</li>
 
           <li id="NOUN">he adMIred her STEADiness <strong>un</strong>der PRESsure.</li>
-          <li className="list-none">Anh ấy ngưỡng mộ sự ổn định của cô ấy khi chịu áp lực.</li>
+          <li className="list-none">Anh ấy ngưỡng mộ sự bình tĩnh của cô ấy khi phải đối mặt với áp lực.</li>
 
         </ul>
 
@@ -148,7 +148,7 @@ export default function STEADily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he EXercises REGularly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy tập thể dục thường xuyên.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy tập thể dục đều đặn.</li>
 
           <li>the NOISE was CONstantly IRritating.</li>
           <li className="margin-bottom-20 list-none">Tiếng ồn liên tục gây khó chịu.</li>
@@ -157,7 +157,7 @@ export default function STEADily1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Nước chảy liên tục.</li>
 
           <li>he HELD the RAILing FIRMly.</li>
-          <li className="list-none">Anh ấy nắm chặt lan can.</li>
+          <li className="list-none">Anh ấy nắm chắc lan can.</li>
 
         </ul>
 
@@ -176,16 +176,16 @@ export default function STEADily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he atTENDed irREGularly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy tham gia/đi học một cách không đều đặn.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy tham dự không đều đặn.</li>
 
-          <li>the PRICes CHANGED unpreDICTably.</li>
-          <li className="margin-bottom-20 list-none">Giá cả thay đổi một cách không thể dự đoán trước được.</li>
+          <li>the PRIces CHANGED unpreDICTably.</li>
+          <li className="margin-bottom-20 list-none">Giá cả đã thay đổi một cách khó lường.</li>
 
           <li>he beHAVED erRATically.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy cư xử một cách thất thường.</li>
+          <li className="margin-bottom-20 list-none">Anh ta cư xử một cách thất thường.</li>
 
           <li>he WALKED unSTEADily <strong>af</strong>ter the INjury.</li>
-          <li className="list-none">Anh ấy bước đi không vững chắc sau chấn thương.</li>
+          <li className="list-none">Sau khi bị thương, anh ấy đi lại không vững.</li>
 
         </ul>
       
@@ -214,10 +214,10 @@ export default function STEADily1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Ngọn lửa cháy đều đặn.</li>
 
           <li>the CHART TRENDed UPward STEADily.</li>
-          <li className="margin-bottom-20 list-none">Biểu đồ có xu hướng tăng đều đặn.</li>
+          <li className="margin-bottom-20 list-none">Biểu đồ cho thấy xu hướng tăng đều đặn.</li>
 
           <li>he WALKED STEADily with FIRM STEPS.</li>
-          <li className="list-none">Anh ấy bước đi vững chắc.</li>
+          <li className="list-none">Anh ấy bước đi vững chắc với những bước chân quyết đoán.</li>
 
         </ul>
 
@@ -237,7 +237,7 @@ export default function STEADily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the SUN ROSE STEADily in the EAST.</li>
-          <li className="list-none">Mặt trời mọc đều đặn ở phía đông.</li>
+          <li className="list-none">Mặt trời từ từ mọc lên ở phía Đông.</li>
 
         </ul>
 
@@ -259,10 +259,10 @@ export default function STEADily1(): React.JSX.Element {
           <ol>
 
             <li value="1">the RAIN FELL throughout the NIGHT.</li>
-            <li className="list-none margin-bottom-20">Mưa rơi suốt đêm.</li>
+            <li className="list-none margin-bottom-20">Mưa đã rơi suốt cả đêm.</li>
 
             <li value="2">the RAIN FELL STEADily throughout the NIGHT.</li>
-            <li className="list-none margin-bottom-20">Mưa rơi đều đặn suốt đêm.</li>
+            <li className="list-none margin-bottom-20">Mưa rơi đều đặn suốt cả đêm.</li>
 
           </ol>
 
@@ -275,10 +275,10 @@ export default function STEADily1(): React.JSX.Element {
           <ol>
 
             <li>the COMpany's PROFits have been inCREAsing for the PAST YEAR.</li>
-            <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng trưởng trong năm qua.</li>
+            <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng lên trong suốt năm qua.</li>
 
             <li value="2">the COMpany's PROFits have been inCREAsing STEADily for the PAST YEAR.</li>
-            <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng trưởng ổn định trong năm qua.</li>
+            <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng đều đặn trong suốt năm qua.</li>
 
           </ol>
 
@@ -291,10 +291,10 @@ export default function STEADily1(): React.JSX.Element {
           <ol>
 
             <li>he WALKED along the PATH.</li>
-            <li className="list-none margin-bottom-20">Anh ấy bước đi dọc theo con đường.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đi dọc theo con đường mòn.</li>
 
             <li value="2">he WALKED STEADily along the PATH.</li>
-            <li className="list-none margin-bottom-20">Anh ấy bước đi vững chắc dọc theo con đường.</li>
+            <li className="list-none margin-bottom-20">Anh ta bước đi vững chắc dọc theo con đường mòn.</li>
 
           </ol>
 

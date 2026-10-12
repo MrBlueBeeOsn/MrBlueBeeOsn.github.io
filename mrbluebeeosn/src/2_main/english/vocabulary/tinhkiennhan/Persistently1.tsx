@@ -83,7 +83,7 @@ export default function perSISTently1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách kiên trì, bền bỉ, không ngừng</li>
+            <li>Kiên trì</li>
 
           </ul>
 
@@ -102,10 +102,10 @@ export default function perSISTently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she perSISTently ASKED QUESTions un<strong>til</strong> she GOT an ANswer.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy liên tục hỏi cho đến khi nhận được câu trả lời.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy liên tục đặt câu hỏi cho đến khi nhận được câu trả lời.</li>
 
           <li>the RAIN FELL perSISTently throughout the NIGHT.</li>
-          <li className="list-none">Mưa rơi liên tục suốt đêm.</li>
+          <li className="list-none">Mưa đã rơi liên tục suốt cả đêm.</li>
 
         </ul>
 
@@ -124,11 +124,11 @@ export default function perSISTently1(): React.JSX.Element {
           <li id="ADjective">she's a VEry perSIStent PERson.</li>
           <li className="margin-bottom-20 list-none">Cô ấy là một người rất kiên trì.</li>
           
-          <li id="VERB">despite the DIFficulties, she perSISted in her STUDies.</li>
-          <li className="margin-bottom-20 list-none">Dù gặp khó khăn, cô ấy vẫn kiên trì học tập.</li>
+          <li id="VERB">de<strong>spite</strong> the DIFficulties, she perSISted in her STUDies.</li>
+          <li className="margin-bottom-20 list-none">Dù gặp nhiều khó khăn, cô vẫn kiên trì trong việc học.</li>
 
           <li id="NOUN">her perSIStence PAID OFF.</li>
-          <li className="list-none">Sự kiên trì của cô ấy đã được đền đáp.</li>
+          <li className="list-none">Sự kiên trì của cô ấy đã mang lại kết quả.</li>
 
         </ul>
 
@@ -145,7 +145,7 @@ export default function perSISTently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the maCHINE RAN conTINuously for HOURS.</li>
-          <li className="margin-bottom-20 list-none">Máy chạy liên tục trong nhiều giờ.</li>
+          <li className="margin-bottom-20 list-none">Cỗ máy đã chạy liên tục trong nhiều giờ.</li>
 
           <li>the BAby CRIED inCESsantly.</li>
           <li className="list-none">Đứa bé khóc không ngừng.</li>
@@ -167,7 +167,7 @@ export default function perSISTently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/ocCAsionally-1">ocCAsionally</Link> VISit my PARents.</li>
-          <li className="margin-bottom-20 list-none">Thỉnh thoảng tôi đến thăm ba mẹ.</li>
+          <li className="margin-bottom-20 list-none">Thỉnh thoảng tôi về thăm ba mẹ.</li>
 
           <li>the RAIN FELL spoRADically throughout the DAY.</li>
           <li className="list-none">Mưa rơi rải rác suốt cả ngày.</li>
@@ -196,7 +196,7 @@ export default function perSISTently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he is so FOcused, perSISTently WORKing on this eQUAtion.</li>
-          <li className="list-none">Anh ấy rất tập trung, kiên trì làm việc với phương trình này.</li>
+          <li className="list-none">Anh ấy thật sự rất tập trung, kiên trì giải bài toán này.</li>
 
         </ul>
 
@@ -216,7 +216,7 @@ export default function perSISTently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she perSISTently KNOCKED on the DOOR un<strong>til</strong> SOMEone ANswered.</li>
-          <li className="list-none">Cô ấy liên tục gõ cửa cho đến khi có người mở cửa.</li>
+          <li className="list-none">Cô ấy liên tục gõ cửa cho đến khi có người ra mở cửa.</li>
 
         </ul>
 
@@ -238,10 +238,10 @@ export default function perSISTently1(): React.JSX.Element {
           <ol>
 
             <li value="1">he TRIED to FIX the CAR.</li>
-            <li className="list-none margin-bottom-20">Anh ấy cố sửa chiếc xe.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã cố sửa chiếc xe.</li>
 
             <li value="2">he perSISTently TRIED to FIX the CAR for HOURS.</li>
-            <li className="list-none margin-bottom-20">Anh ấy kiên trì cố sửa chiếc xe trong nhiều giờ.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã kiên trì cố gắng sửa chiếc xe trong nhiều giờ liền.</li>
 
           </ol>
 

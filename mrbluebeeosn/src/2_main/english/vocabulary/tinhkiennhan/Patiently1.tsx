@@ -79,7 +79,7 @@ export default function PAtiently1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách kiên nhẫn, nhẫn nại, kiên trì</li>
+            <li>Kiên nhẫn</li>
 
           </ul>
 
@@ -98,7 +98,7 @@ export default function PAtiently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">he WAITed PAtiently for his TURN.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy kiên nhẫn chờ đến lượt của mình.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy kiên nhẫn chờ đến lượt mình.</li>
 
           <li>she PAtiently LIStened to his STORy.</li>
           <li className="list-none">Cô ấy kiên nhẫn lắng nghe câu chuyện của anh ấy.</li>
@@ -121,7 +121,7 @@ export default function PAtiently1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Anh ấy là một giáo viên kiên nhẫn.</li>
 
           <li id="NOUN">the DOCtor TREAted the PAtient with CARE.</li>
-          <li className="margin-bottom-20 list-none">Bác sĩ chăm sóc bệnh nhân một cách cẩn thận.</li>
+          <li className="margin-bottom-20 list-none">Bác sĩ đã điều trị cho bệnh nhân một cách tận tình.</li>
 
           <li className="list-none">he has a LOT of PAtience.</li>
           <li className="list-none">Anh ấy có rất nhiều sự kiên nhẫn.</li>
@@ -141,13 +141,13 @@ export default function PAtiently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he CALMly exPLAINED the situAtion.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy bình tĩnh giải thích tình huống.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã bình tĩnh giải thích tình hình.</li>
 
           <li>he LIStened to their comPLAINTS TOLerantly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy lắng nghe những lời phàn nàn của họ một cách khoan dung.</li>
+          <li className="margin-bottom-20 list-none">Ông đã lắng nghe những lời phàn nàn của họ một cách khoan dung.</li>
 
-          <li>she enDURed the PAIN en<strong>dur</strong>ingly.</li>
-          <li className="list-none">Cô ấy chịu đựng nỗi đau một cách bền bỉ.</li>
+          <li>she enDURed the PAIN enDURingly.</li>
+          <li className="list-none">Cô ấy đã kiên nhẫn chịu đựng cơn đau.</li>
 
         </ul>
 
@@ -169,10 +169,10 @@ export default function PAtiently1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Anh ấy chờ xe buýt một cách sốt ruột.</li>
 
           <li>she SIGHED FRUSTratedly.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy thở dài một cách bực bội.</li>
+          <li className="margin-bottom-20 list-none">Cô thở dài một cách bực bội.</li>
 
-          <li>he PACED AGitatedly around the ROOM.</li>
-          <li className="list-none">Anh ấy đi đi lại lại trong phòng một cách bồn chồn.</li>
+          <li>he PACED AGitatedly a<strong>round</strong> the ROOM.</li>
+          <li className="list-none">Anh ta đi đi lại lại trong phòng một cách bồn chồn.</li>
 
         </ul>
       
@@ -221,7 +221,7 @@ export default function PAtiently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the TEAcher exPLAINED the LESson PAtiently to the STUdents.</li>
-          <li className="list-none">Giáo viên giải thích bài học một cách kiên nhẫn cho học sinh.</li>
+          <li className="list-none">Giáo viên đã giải thích bài học một cách kiên nhẫn cho các học sinh.</li>
 
         </ul>
 
@@ -243,10 +243,10 @@ export default function PAtiently1(): React.JSX.Element {
           <ol>
 
             <li value="1">he WAITed for his TURN.</li>
-            <li className="list-none margin-bottom-20">Anh ấy chờ đến lượt của mình.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã chờ đến lượt mình.</li>
 
             <li value="2">he WAITed PAtiently for his TURN.</li>
-            <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn chờ đến lượt của mình.</li>
+            <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn chờ đến lượt mình.</li>
 
           </ol>
 

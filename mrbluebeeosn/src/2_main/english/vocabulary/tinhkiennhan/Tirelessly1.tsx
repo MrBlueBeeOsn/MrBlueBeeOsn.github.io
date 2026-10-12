@@ -79,7 +79,7 @@ export default function TIRElessly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách không biết mệt mỏi, kiên trì</li>
+            <li>Không ngừng nghỉ</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function TIRElessly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she WORKED TIRElessly to FINish the PROJect on TIME.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy làm việc không biết mệt mỏi để hoàn thành dự án đúng hạn.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã làm việc không mệt mỏi để hoàn thành dự án đúng hạn.</li>
 
           <li>the ATHletes TRAINED TIRElessly for the compeTITion.</li>
-          <li className="list-none">Các vận động viên tập luyện không ngừng nghỉ cho cuộc thi.</li>
+          <li className="list-none">Các vận động viên đã tập luyện không ngừng nghỉ để chuẩn bị cho cuộc thi.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function TIRElessly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">i'm TOO TIred to gO OUT toNIGHT.</li>
-          <li className="list-none">Tôi quá mệt để đi ra ngoài tối nay.</li>
+          <li className="list-none">Tớ mệt quá, không thể ra ngoài tối nay được.</li>
           
           <li id="VERB">the LONG WALK TIred me OUT.</li>
-          <li className="margin-bottom-20 list-none">Cái đi bộ dài đã làm tôi mệt mỏi.</li>
+          <li className="margin-bottom-20 list-none">Chuyến đi bộ dài khiến tôi kiệt sức.</li>
 
         </ul>
 
@@ -141,7 +141,7 @@ export default function TIRElessly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Mưa rơi không ngừng.</li>
 
           <li>she purSUED her GOAL reLENTlessly.</li>
-          <li className="list-none">Cô ấy theo đuổi mục tiêu của mình một cách không ngừng nghỉ.</li>
+          <li className="list-none">Cô ấy đã kiên trì theo đuổi mục tiêu của mình.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function TIRElessly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he <Link to="/vocabulary/LAZily-1">LAZily</Link> SAT on the COUCH.</li>
-          <li className="margin-bottom-20 list-none">Anh ta lười biếng ngồi trên ghế sofa.</li>
+          <li className="margin-bottom-20 list-none">Anh ta thong thả ngồi trên ghế sofa.</li>
 
           <li>she CASually MENtioned her TRIP.</li>
-          <li className="list-none">Cô ấy tình cờ đề cập đến chuyến đi của mình.</li>
+          <li className="list-none">Cô ấy đã thoải mái nhắc đến chuyến đi của mình.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function TIRElessly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he is TIRElessly RUNning the MARathon, SHOWing inCREDible enDURance.</li>
-          <li className="list-none">Anh ấy đang chạy marathon không ngừng nghỉ, thể hiện sức bền đáng kinh ngạc.</li>
+          <li className="list-none">Anh ấy đang chạy marathon một cách không mệt mỏi, thể hiện sức bền đáng kinh ngạc.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function TIRElessly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the SCIentists WORKED TIRElessly to FIND a CURE for the disEASE.</li>
-          <li className="list-none">Các nhà khoa học đã làm việc không mệt mỏi để tìm ra phương pháp chữa trị cho căn bệnh.</li>
+          <li className="list-none">Các nhà khoa học đã làm việc không mệt mỏi để tìm ra phương pháp chữa trị căn bệnh này.</li>
 
         </ul>
 
@@ -230,11 +230,11 @@ export default function TIRElessly1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1">he TRIED to SOLVE the PROBlem</li>
+            <li value="1">he TRIED to SOLVE the PROBlem.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã cố gắng giải quyết vấn đề.</li>
 
             <li value="2">he WORKED TIRElessly to SOLVE the PROBlem.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã làm việc không biết mệt mỏi để giải quyết vấn đề.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã làm việc không mệt mỏi để giải quyết vấn đề.</li>
 
           </ol>
 

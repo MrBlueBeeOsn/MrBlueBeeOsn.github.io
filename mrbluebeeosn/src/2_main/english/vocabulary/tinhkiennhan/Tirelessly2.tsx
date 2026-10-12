@@ -75,7 +75,7 @@ export default function TIRElessly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>TIRElessly</strong>" (không mệt mỏi, kiên trì) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>TIRElessly</strong>" (không ngừng nghỉ) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function TIRElessly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="WORKED">the SCIentists [WORKED] TIRElessly to FIND a CURE for the disEASE.</li>
-        <li className="list-none margin-bottom-20">Các nhà khoa học [làm việc] không ngừng nghỉ để tìm ra phương pháp chữa trị cho căn bệnh.</li>
+        <li value="1" id="WORKED">the SCIentists WORKED TIRElessly to FIND a CURE for the disEASE.</li>
+        <li className="list-none margin-bottom-20">Các nhà khoa học đã làm việc không mệt mỏi để tìm ra phương pháp chữa trị căn bệnh này.</li>
 
-        <li value="2" id="purSUED-of">she TIRElessly [purSUED] her DREAMS [of] beCOMing a DOCtor.</li>
-        <li className="list-none margin-bottom-20">Cô ấy không ngừng [theo đuổi] ước mơ trở thành bác sĩ.</li>
+        <li value="2" id="purSUED-of">she TIRElessly purSUED her DREAMS of beCOMing a DOCtor.</li>
+        <li className="list-none margin-bottom-20">Cô ấy không ngừng theo đuổi ước mơ trở thành bác sĩ.</li>
 
-        <li value="3" id="SEARCHED-for">the deTECtives TIRElessly [SEARCHED for] the MISsing PERson.</li>
-        <li className="list-none margin-bottom-20">Các thám tử không ngừng [tìm kiếm] người mất tích.</li>
+        <li value="3" id="SEARCHED-for">the deTECtives TIRElessly SEARCHED for the MISsing PERson.</li>
+        <li className="list-none margin-bottom-20">Các thám tử đã không ngừng tìm kiếm người mất tích.</li>
 
-        <li value="4" id="STUDied-for">the STUdent TIRElessly [STUDied for] the eXAM.</li>
-        <li className="list-none margin-bottom-20">Sinh viên [học tập] không ngừng nghỉ để chuẩn bị cho kỳ thi.</li>
+        <li value="4" id="STUDied-for">the STUdent TIRElessly STUDied for the eXAM.</li>
+        <li className="list-none margin-bottom-20">Học sinh đã miệt mài ôn tập cho kỳ thi.</li>
 
-        <li value="5" id="camPAIGNED-for">the ACtivist TIRElessly [camPAIGNED for] HUman RIGHTS.</li>
-        <li className="list-none margin-bottom-20">Nhà hoạt động không ngừng [vận động vì] quyền con người.</li>
+        <li value="5" id="camPAIGNED-for">the ACtivist TIRElessly camPAIGNED for HUman RIGHTS.</li>
+        <li className="list-none margin-bottom-20">Nhà hoạt động này đã không ngừng nghỉ đấu tranh vì quyền con người.</li>
 
-        <li value="6" id="deFENDed">the LAWyer TIRElessly [deFENDed] his CLIent.</li>
-        <li className="list-none margin-bottom-20">Luật sư không ngừng [bảo vệ] khách hàng của mình.</li>
+        <li value="6" id="deFENDed">the LAWyer TIRElessly deFENDed his CLIent.</li>
+        <li className="list-none margin-bottom-20">Luật sư đã không ngừng nghỉ bảo vệ thân chủ của mình.</li>
 
-        <li value="7" id="proMOted">the COMpany TIRElessly [proMOted] its NEW PRODuct.</li>
-        <li className="list-none margin-bottom-20">Công ty không ngừng [quảng bá] sản phẩm mới của mình.</li>
+        <li value="7" id="proMOted">the COMpany TIRElessly proMOted its NEW PRODuct.</li>
+        <li className="list-none margin-bottom-20">Công ty đã không ngừng quảng bá sản phẩm mới của mình.</li>
 
-        <li value="8" id="exPLORED">the exPLORers TIRElessly [exPLORED] the unKNOWN TERritory.</li>
-        <li className="list-none margin-bottom-20">Các nhà thám hiểm không ngừng [khám phá] vùng đất chưa biết.</li>
+        <li value="8" id="exPLORED">the exPLORers TIRElessly exPLORED the unKNOWN TERritory.</li>
+        <li className="list-none margin-bottom-20">Những nhà thám hiểm đã không ngừng nghỉ khám phá vùng đất chưa được biết đến.</li>
 
-        <li value="9" id="creAted">the ARTist TIRElessly [creAted] NEW WORKS of ART.</li>
-        <li className="list-none margin-bottom-20">Nghệ sĩ không ngừng [tạo ra] những tác phẩm nghệ thuật mới.</li>
+        <li value="9" id="creAted">the ARTist TIRElessly creAted NEW WORKS of ART.</li>
+        <li className="list-none margin-bottom-20">Nghệ sĩ không ngừng sáng tạo ra những tác phẩm nghệ thuật mới.</li>
 
-        <li value="10" id="imPROVED">the ATHlete TIRElessly [imPROVED] his SKILLS.</li>
-        <li className="list-none margin-bottom-20">Vận động viên không ngừng [cải thiện] kỹ năng của mình.</li>
+        <li value="10" id="imPROVED">the ATHlete TIRElessly imPROVED his SKILLS.</li>
+        <li className="list-none margin-bottom-20">Vận động viên này không ngừng rèn luyện để nâng cao kỹ năng của mình.</li>
 
       </ol>
 
