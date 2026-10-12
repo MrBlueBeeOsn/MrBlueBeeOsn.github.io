@@ -75,7 +75,7 @@ export default function REally1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Thực sự, rất</li>
+            <li>Thật sự</li>
 
           </ul>
 
@@ -94,13 +94,13 @@ export default function REally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">that's REally INTEResting.</li>
-          <li className="margin-bottom-20 list-none">Điều đó thật sự thú vị.</li>
+          <li className="margin-bottom-20 list-none">Điều đó thực sự rất thú vị.</li>
 
           <li>i'm REally TIred.</li>
-          <li className="margin-bottom-20 list-none">Tôi mệt mỏi lắm.</li>
+          <li className="margin-bottom-20 list-none">Mình thực sự mệt quá.</li>
 
           <li>do you REally THINK so?</li>
-          <li className="list-none">Bạn có thực sự nghĩ vậy không?</li>
+          <li className="list-none">Bạn thực sự nghĩ vậy sao?</li>
 
         </ul>
 
@@ -117,7 +117,7 @@ export default function REally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">is THIS a REAL DIamond?</li>
-          <li className="list-none">Đây có phải là kim cương thật không?</li>
+          <li className="list-none">Đây có phải là viên kim cương thật không?</li>
 
         </ul>
 
@@ -134,10 +134,10 @@ export default function REally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> apPREciate your HELP.</li>
-          <li className="margin-bottom-20 list-none">Tôi thực sự biết ơn sự giúp đỡ của bạn.</li>
+          <li className="margin-bottom-20 list-none">Tôi thực sự rất biết ơn sự giúp đỡ của bạn.</li>
 
           <li>it's VEry COLD toDAY.</li>
-          <li className="list-none">Hôm nay lạnh lắm.</li>
+          <li className="list-none">Hôm nay trời rất lạnh.</li>
 
         </ul>
 
@@ -156,10 +156,10 @@ export default function REally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he FALSEly acCUSED her.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã buộc tội cô ấy một cách giả dối.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã vu khống cô ấy.</li>
 
           <li>i do NOT LIKE COFfee at ALL.</li>
-          <li className="list-none">Tôi không thích cà phê chút nào.</li>
+          <li className="list-none">Tôi không thích cà phê chút nào cả.</li>
 
         </ul>
       
@@ -185,7 +185,7 @@ export default function REally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>NO WAY! REally?</li>
-          <li className="list-none">Không thể nào! Thật không?</li>
+          <li className="list-none">Không thể nào! Thật à?</li>
 
         </ul>
 
@@ -205,7 +205,7 @@ export default function REally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm REally exCITed a<strong>bout</strong> the TRIP.</li>
-          <li className="list-none">Tôi rất háo hức về chuyến đi.</li>
+          <li className="list-none">Mình thực sự rất háo hức về chuyến đi này.</li>
 
         </ul>
 
@@ -230,7 +230,7 @@ export default function REally1(): React.JSX.Element {
             <li className="list-none margin-bottom-20">Tôi thích pizza.</li>
 
             <li value="2">i REally LIKE PIZza.</li>
-            <li className="list-none margin-bottom-20">Tôi rất thích pizza.</li>
+            <li className="list-none margin-bottom-20">Tôi thực sự thích pizza.</li>
 
           </ol>
 

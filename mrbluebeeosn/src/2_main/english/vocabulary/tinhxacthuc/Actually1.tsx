@@ -79,7 +79,7 @@ export default function ACtually1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Thực tế, thực ra</li>
+            <li>Thực ra thì</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function ACtually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">i THOUGHT she was a DOCtor, but ACtually, she's a NURSE.</li>
-          <li className="margin-bottom-20 list-none">Tôi tưởng cô ấy là bác sĩ, nhưng thực ra cô ấy là y tá.</li>
+          <li className="margin-bottom-20 list-none">Tôi từng nghĩ cô ấy là bác sĩ, nhưng thực ra, cô ấy là y tá.</li>
 
           <li>i'm GOing to the LIbrary toDAY. - ACtually, i'm GOing to the GYM.</li>
-          <li className="list-none">Tôi sẽ đến thư viện hôm nay. - Thực ra, tôi sẽ đến phòng tập.</li>
+          <li className="list-none">Hôm nay tớ sẽ đi thư viện. - Thực ra, tớ sẽ đi phòng tập thể dục.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function ACtually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the ACtual COST of the PROject was HIGHer than exPECTed.</li>
-          <li className="margin-bottom-20 list-none">Chi phí thực tế của dự án cao hơn dự kiến.</li>
+          <li className="margin-bottom-20 list-none">Chi phí thực tế của dự án cao hơn so với dự kiến.</li>
 
           <li id="NOUN">the actuALity of the situAtion is MUCH WORSE than i THOUGHT.</li>
-          <li className="list-none">Thực tế của tình hình tồi tệ hơn nhiều so với chúng ta nghĩ.</li>
+          <li className="list-none">Thực tế của tình hình còn tệ hơn nhiều so với những gì tôi tưởng.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function ACtually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>in FACT, i do NOT KNOW the ANswer.</li>
-          <li className="margin-bottom-20 list-none">Thực tế, tôi không biết câu trả lời.</li>
+          <li className="margin-bottom-20 list-none">Thực ra, tôi không biết câu trả lời.</li>
 
           <li>as a MATter of FACT, i've alREDy SEEN that MOvie.</li>
-          <li className="list-none">Thực tế, tôi đã xem bộ phim đó rồi.</li>
+          <li className="list-none">Thực ra, tôi đã xem bộ phim đó rồi.</li>
 
         </ul>
 
@@ -158,10 +158,10 @@ export default function ACtually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>theoRETically, it's POSsible, but NOT VEry LIKEly.</li>
-          <li className="margin-bottom-20 list-none">Về mặt lý thuyết thì có thể, nhưng không có khả năng xảy ra lắm.</li>
+          <li className="margin-bottom-20 list-none">Về mặt lý thuyết, điều đó là có thể, nhưng không rất có khả năng.</li>
 
           <li>hypoTHETically, if i WON the LOTtery, i would TRAvel aROUND the WORLD.</li>
-          <li className="list-none">Giả sử mà nói, nếu tôi trúng số, tôi sẽ đi du lịch vòng quanh thế giới.</li>
+          <li className="list-none">Giả sử, nếu tôi trúng xổ số, tôi sẽ đi du lịch vòng quanh thế giới.</li>
 
         </ul>
       
@@ -187,7 +187,7 @@ export default function ACtually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i THOUGHT the CApital of ausTRAlia was SYDney, but ACtually, it's CANberra.</li>
-          <li className="list-none">Tôi nghĩ thủ đô của Úc là Sydney, nhưng thực ra là Canberra.</li>
+          <li className="list-none">Tôi từng nghĩ thủ đô của Úc là Sydney, nhưng thực ra, đó là Canberra.</li>
 
         </ul>
 
@@ -207,7 +207,7 @@ export default function ACtually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>do you LIKE COFfee? - WELL, ACtually, i preFER TEA.</li>
-          <li className="list-none">Bạn có thích cà phê không? - Thật ra thì tôi thích trà hơn.</li>
+          <li className="list-none">Bạn có thích cà phê không? - À, thực ra thì tôi thích trà hơn.</li>
 
         </ul>
 
@@ -229,10 +229,10 @@ export default function ACtually1(): React.JSX.Element {
           <ol>
 
             <li value="1">i THINK i'll have the PIZza.</li>
-            <li className="list-none margin-bottom-20">Tôi nghĩ tôi sẽ ăn pizza.</li>
+            <li className="list-none margin-bottom-20">Tôi nghĩ là tôi sẽ gọi món pizza.</li>
 
             <li value="2">ACtually, i'm FEELing KIND of HUNgry, so i'll have the BURger.</li>
-            <li className="list-none margin-bottom-20">Thực ra, tôi cảm thấy hơi đói, vì vậy tôi sẽ ăn hamburger.</li>
+            <li className="list-none margin-bottom-20">Thực ra, tớ đang thấy hơi đói, nên tớ sẽ gọi món burger.</li>
 
           </ol>
 

@@ -75,7 +75,7 @@ export default function GENuinely2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>GENuinely</strong>" (một cách chân thành) và các cụm từ thường đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>GENuinely</strong>" (thực sự) và các cụm từ thường đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function GENuinely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="HAPpy">she was GENuinely [HAPpy] to SEE her OLD FRIENDS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rất [vui] khi gặp lại bạn bè cũ.</li>
+        <li value="1" id="HAPpy">she was GENuinely HAPpy to SEE her OLD FRIENDS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thực sự rất vui khi được gặp lại những người bạn cũ.</li>
 
-        <li value="2" id="conCERNED-about">he was GENuinely [conCERNED a<strong>bout</strong>] her WELL-BEing.</li>
-        <li className="list-none margin-bottom-20">Anh ấy rất quan tâm đến sức khỏe của cô ấy.</li>
+        <li value="2" id="conCERNED-about">he was GENuinely conCERNED a<strong>bout</strong> her WELL-BEing.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thực sự lo lắng cho sức khỏe của cô ấy.</li>
 
-        <li value="3" id="GRATEful-for">i am GENuinely [GRATEful for] your HELP.</li>
-        <li className="list-none margin-bottom-20">Tôi thật sự [biết ơn] sự giúp đỡ của bạn.</li>
+        <li value="3" id="GRATEful-for">i am GENuinely GRATEful for your HELP.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự rất biết ơn sự giúp đỡ của bạn.</li>
 
-        <li value="4" id="SORry-for">he was GENuinely [SORry for] his  misTAKE.</li>
-        <li className="list-none margin-bottom-20">Anh ấy rất [[hối hận về] lỗi lầm của mình.</li>
+        <li value="4" id="SORry-for">he was GENuinely SORry for his  misTAKE.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thực sự hối hận về sai lầm của mình.</li>
 
-        <li value="5" id="INTERested-in">she was GENuinely [INTERested in] his STOry.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rất [quan tâm đến] câu chuyện của anh ấy.</li>
+        <li value="5" id="INTERested-in">she was GENuinely INTERested in his STOry.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thực sự quan tâm đến câu chuyện của anh ấy.</li>
 
-        <li value="6" id="beLIEVE-in">i GENuinely [beLIEVE in] the POWer of LOVE.</li>
-        <li className="list-none margin-bottom-20">Tôi thật sự [tin vào] sức mạnh của tình yêu.</li>
+        <li value="6" id="beLIEVE-in">i GENuinely beLIEVE in the POWer of LOVE.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự tin tưởng vào sức mạnh của tình yêu.</li>
 
-        <li value="7" id="adMIRE">i GENuinely [adMIRE] her COUrage.</li>
-        <li className="list-none margin-bottom-20">Tôi rất [ngưỡng mộ] sự dũng cảm của cô ấy.</li>
+        <li value="7" id="adMIRE">i GENuinely adMIRE her COUrage.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự ngưỡng mộ sự dũng cảm của cô ấy.</li>
 
-        <li value="8" id="apPREciate">i GENuinely [apPREciate] your KINDness.</li>
-        <li className="list-none margin-bottom-20">Tôi thật sự [trân trọng] lòng tốt của bạn.</li>
+        <li value="8" id="apPREciate">i GENuinely apPREciate your KINDness.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự biết ơn lòng tốt của bạn.</li>
 
-        <li value="9" id="CARES-about">she GENuinely [CARES a<strong>bout</strong>] the WELfare of OTHers.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thật sự [quan tâm đến] phúc lợi của người khác.</li>
+        <li value="9" id="CARES-about">she GENuinely CARES a<strong>bout</strong> the WELfare of OTHers.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thực sự quan tâm đến hạnh phúc của người khác.</li>
 
-        <li value="10" id="LOVES">he GENuinely [LOVES] his FAMILy.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thật sự [yêu thương] gia đình của mình.</li>
+        <li value="10" id="LOVES">he GENuinely LOVES his FAMILy.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thực sự yêu thương gia đình mình.</li>
 
       </ol>
 

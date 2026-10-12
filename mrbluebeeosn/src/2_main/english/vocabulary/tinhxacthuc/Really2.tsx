@@ -75,7 +75,7 @@ export default function REally2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>REally</strong>" (thực sự, rất) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>REally</strong>" (thật sự) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function REally2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="LIKE">i REally [LIKE] PIZza.</li>
-        <li className="list-none margin-bottom-20">Tôi rất [thích] PIZza.</li>
+        <li value="1" id="LIKE">i REally LIKE PIZza.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự thích pizza.</li>
 
-        <li value="2" id="WANT">i REally [WANT] to GO to PARis.</li>
-        <li className="list-none margin-bottom-20">Tôi rất [muốn] đến PARis.</li>
+        <li value="2" id="WANT">i REally WANT to GO to PARis.</li>
+        <li className="list-none margin-bottom-20">Mình thực sự muốn đến paris.</li>
 
-        <li value="3" id="WELL">she SPEAKS ENGlish REally [WELL].</li>
-        <li className="list-none margin-bottom-20">Cô ấy nói tiếng Anh rất [tốt].</li>
+        <li value="3" id="WELL">she SPEAKS ENGlish REally WELL.</li>
+        <li className="list-none margin-bottom-20">Cô ấy nói tiếng anh rất giỏi.</li>
 
-        <li value="4" id="BIG">his HOUSE is REally [BIG].</li>
-        <li className="list-none margin-bottom-20">Nhà của anh ấy rất [lớn].</li>
+        <li value="4" id="BIG">his HOUSE is REally BIG.</li>
+        <li className="list-none margin-bottom-20">Ngôi nhà của anh ấy thực sự rất rộng.</li>
 
-        <li value="5" id="FAST">the CAR can GO REally [FAST].</li>
-        <li className="list-none margin-bottom-20">Chiếc xe có thể chạy rất [nhanh].</li>
+        <li value="5" id="FAST">the CAR can GO REally FAST.</li>
+        <li className="list-none margin-bottom-20">Chiếc xe này có thể chạy rất nhanh.</li>
 
-        <li value="6" id="HARD">THIS MATH PROBlem is REally [HARD].</li>
-        <li className="list-none margin-bottom-20">Bài toán này rất [khó].</li>
+        <li value="6" id="HARD">this MATH PROBlem is REally HARD.</li>
+        <li className="list-none margin-bottom-20">Bài toán này thật sự rất khó.</li>
 
-        <li value="7" id="FUNny">that JOKE was REally [FUNny].</li>
-        <li className="list-none margin-bottom-20">Câu đùa đó thật [hài hước].</li>
+        <li value="7" id="FUNny">that JOKE was REally FUNny.</li>
+        <li className="list-none margin-bottom-20">Câu đùa đó thực sự rất hài hước.</li>
 
-        <li value="8" id="TIred">i'm REally [TIred] <strong>af</strong>ter WORK.</li>
-        <li className="list-none margin-bottom-20">Tôi rất [mệt] sau khi làm việc.</li>
+        <li value="8" id="TIred">i'm REally TIred <strong>af</strong>ter WORK.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự mệt mỏi sau khi đi làm về.</li>
 
-        <li value="9" id="HAPpy">i'm REally [HAPpy] to SEE you.</li>
-        <li className="list-none margin-bottom-20">Tôi rất [vui] khi gặp bạn.</li>
+        <li value="9" id="HAPpy">i'm REally HAPpy to SEE you.</li>
+        <li className="list-none margin-bottom-20">Mình thực sự rất vui khi được gặp bạn.</li>
 
-        <li value="10" id="surPRISED">i was REally [surPRISED] by the NEWS.</li>
-        <li className="list-none margin-bottom-20">Tôi rất [ngạc nhiên] khi nghe tin đó.</li>
+        <li value="10" id="surPRISED">i was REally surPRISED by the NEWS.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự rất ngạc nhiên trước tin tức đó.</li>
 
       </ol>
 

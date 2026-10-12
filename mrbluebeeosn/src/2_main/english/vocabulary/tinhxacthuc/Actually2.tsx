@@ -89,7 +89,7 @@ export default function ACtually2(): React.JSX.Element {
 							
 						</span>
 							
-						&nbsp;trong tiếng Anh có nghĩa là "thực ra", "thực tế là", "thật ra". Từ này thường được dùng để nhấn mạnh một thông tin, một sự thật hoặc một quan điểm nào đó, thường trái ngược hoặc bổ sung cho những gì đã được nói trước đó.
+						&nbsp;trong tiếng Anh có nghĩa là "Thực ra thì", "thực tế là", "thật ra". Từ này thường được dùng để nhấn mạnh một thông tin, một sự thật hoặc một quan điểm nào đó, thường trái ngược hoặc bổ sung cho những gì đã được nói trước đó.
 
 					</p>
 
@@ -103,35 +103,35 @@ export default function ACtually2(): React.JSX.Element {
 
 			<ol className="margin-top-30 padding-left-30">
 
-				<li value="1" id="i-THINK">i THOUGHT he was ANGry, but ACtually, [i THINK] he was JUST TIred.</li>
-				<li className="list-none margin-bottom-20">Tôi tưởng anh ấy tức giận, nhưng thực ra, [tôi nghĩ] anh ấy chỉ mệt mỏi thôi.</li>
+				<li value="1" id="i-THINK">i THOUGHT he was ANGry, but ACtually, i THINK he was JUST TIred.</li>
+				<li className="list-none margin-bottom-20">Tôi từng nghĩ anh ấy đang giận, nhưng thực ra, tôi nghĩ anh ấy chỉ mệt thôi.</li>
 
-				<li value="2" id="it's">i THOUGHT it was a CAT, but ACtually, [it's] a racCOON.</li>
-				<li className="list-none margin-bottom-20">Tôi tưởng đó là một con mèo, nhưng thực ra, [đó là] một con gấu trúc.</li>
+				<li value="2" id="it's">i THOUGHT it was a CAT, but ACtually, it's a racCOON.</li>
+				<li className="list-none margin-bottom-20">Tôi từng nghĩ đó là một con mèo, nhưng thực thực ra, đó là một con chuột chúa.</li>
 
-				<li value="3" id="LIKE">she does NOT ACtually [LIKE] COFfee, she JUST preTENDS.</li>
-				<li className="list-none margin-bottom-20">Cô ấy không thực sự [thích] cà phê, cô ấy chỉ giả vờ thôi.</li>
+				<li value="3" id="LIKE">she does NOT ACtually LIKE COFfee, she JUST preTENDS.</li>
+				<li className="list-none margin-bottom-20">Thực ra cô ấy không thích cà phê, cô ấy chỉ giả vờ thôi</li>
 
-				<li value="4" id="i've-alREADy-SEEN">as a MATter of FACT, ACtually, [i've alREADy SEEN] that MOvie.</li>
-				<li className="list-none margin-bottom-20">Thực tế mà nói thì, [tôi đã xem] bộ phim đó rồi.</li>
+				<li value="4" id="i've-alREADy-SEEN">as a MATter of FACT, ACtually, i've alREADy SEEN that MOvie.</li>
+				<li className="list-none margin-bottom-20">Thực ra, tôi đã xem bộ phim đó rồi.</li>
 
-				<li value="5" id="a-LONG-WALK">it's ACtually [a LONG WALK] to the STORE.</li>
-				<li className="list-none margin-bottom-20">Thực ra thì [đi bộ] đến cửa hàng [khá xa].</li>
+				<li value="5" id="a-LONG-WALK">it's ACtually a LONG WALK to the STORE.</li>
+				<li className="list-none margin-bottom-20">Thực ra thì phải đi bộ một quãng đường khá xa mới đến được cửa hàng.</li>
 
-				<li value="6" id="MEAN">i did NOT ACtually [MEAN] to HURT your FEELings.</li>
-				<li className="list-none margin-bottom-20">Thực ra tôi không [có ý] làm bạn tổn thương.</li>
+				<li value="6" id="MEAN">i did NOT ACtually MEAN to HURT your FEELings.</li>
+				<li className="list-none margin-bottom-20">Thực ra tớ không có ý làm tổn thương cảm xúc của cậu đâu.</li>
 
-				<li value="7" id="SIMple">it's ACtually [SIMple] to DO.</li>
-				<li className="list-none margin-bottom-20">Thực ra thì rất [đơn giản] để làm.</li>
+				<li value="7" id="SIMple">it's ACtually SIMple to DO.</li>
+				<li className="list-none margin-bottom-20">Thực ra thì việc này rất đơn giản.</li>
 
-				<li value="8" id="BEEN-to">i've ACtually [BEEN to] PARis TWICE.</li>
-				<li className="list-none margin-bottom-20">Thực ra tôi [đã đến] Paris hai lần rồi.</li>
+				<li value="8" id="BEEN-to">i've ACtually BEEN to PARis TWICE.</li>
+				<li className="list-none margin-bottom-20">Thực ra tôi đã đến Paris hai lần rồi.</li>
 
-				<li value="9" id="NOT-THAT-exPENsive">it's ACtually [NOT THAT exPENsive].</li>
-				<li className="list-none margin-bottom-20">Thực ra [cái đó không đắt lắm đâu].</li>
+				<li value="9" id="NOT-THAT-exPENsive">it's ACtually NOT THAT exPENsive.</li>
+				<li className="list-none margin-bottom-20">Thực ra thì nó cũng không đắt đến thế đâu.</li>
 
-				<li value="10" id="i-was-WONdering-if">ACtually, [i was WONdering if] you could HELP me with THIS.</li>
-				<li className="list-none margin-bottom-20">Thực ra, [tôi đang tự hỏi liệu] bạn có thể giúp tôi việc này không.</li>
+				<li value="10" id="i-was-WONdering-if">ACtually, i was WONdering if you could HELP me with THIS.</li>
+				<li className="list-none margin-bottom-20">Thực ra, tớ đang tự hỏi không biết cậu có thể giúp tớ việc này không.</li>
 
 			</ol>
 

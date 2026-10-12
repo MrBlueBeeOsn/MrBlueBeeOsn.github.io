@@ -75,7 +75,7 @@ export default function TRUly2(): React.JSX.Element {
 
 			{/* This is the content of Vocabulary Term. */}
 
-			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>TRUly</strong>" (thật sự, thực sự) và các cụm từ hay đi kèm nhé.</p>
+			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>TRUly</strong>" (thực sự) và các cụm từ hay đi kèm nhé.</p>
 
 			<div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -85,11 +85,11 @@ export default function TRUly2(): React.JSX.Element {
 						
 						<span className="highlight-255-padding-3-6">
 							
-							[TRUly \<Link to="/pronunciation/5-vowel-system">TRÜ ly</Link>\ /ˈtruːli/ ⬤• (TWO SYLlables)
+							TRUly \<Link to="/pronunciation/5-vowel-system">TRÜ ly</Link>\ /ˈtruːli/ ⬤• (TWO SYLlables)
 							
 						</span>
 							
-						&nbsp;trong tiếng Anh có nghĩa là "thật sự", "thực tế", thường được dùng để nhấn mạnh tính xác thực, chân thật của một điều gì đó.
+						&nbsp;trong tiếng Anh có nghĩa là "thực sự", "thực tế", thường được dùng để nhấn mạnh tính xác thực, chân thật của một điều gì đó.
 
 					</p>
 
@@ -103,35 +103,35 @@ export default function TRUly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-				<li value="1" id="apPREciate">i TRUly [apPREciate] your HELP.</li>
-				<li className="list-none margin-bottom-20">Tôi thật sự [trân trọng] sự giúp đỡ của bạn.</li>
+				<li value="1" id="apPREciate">i TRUly apPREciate your HELP.</li>
+				<li className="list-none margin-bottom-20">Tôi thực sự rất biết ơn sự giúp đỡ của bạn.</li>
 
-				<li value="2" id="beLIEVE-in">i TRUly [beLIEVE in] the POWer of LOVE.</li>
-				<li className="list-none margin-bottom-20">Tôi thật sự [tin vào] sức mạnh của tình yêu.</li>
+				<li value="2" id="beLIEVE-in">i TRUly beLIEVE in the POWer of LOVE.</li>
+				<li className="list-none margin-bottom-20">Tôi thực sự tin vào sức mạnh của tình yêu.</li>
 
-				<li value="3" id="underSTAND">i TRUly [underSTAND] HOW you FEEL.</li>
-				<li className="list-none margin-bottom-20">Tôi thật sự [hiểu] cảm giác của bạn.</li>
+				<li value="3" id="underSTAND">i TRUly underSTAND HOW you FEEL.</li>
+				<li className="list-none margin-bottom-20">Tôi thực sự hiểu cảm giác của bạn.</li>
 
-				<li value="4" id="SORry">i am TRUly [SORry] for WHAT i SAID.</li>
-				<li className="list-none margin-bottom-20">Tôi thật sự [xin lỗi] về những gì tôi đã nói.</li>
+				<li value="4" id="SORry">i am TRUly SORry for WHAT i SAID.</li>
+				<li className="list-none margin-bottom-20">Tôi thực sự xin lỗi vì những gì tôi đã nói.</li>
 
-				<li value="5" id="reMARKable">her perFORmance was TRUly [reMARKable].</li>
-				<li className="list-none margin-bottom-20">Màn trình diễn của cô ấy thật sự [đáng chú ý].</li>
+				<li value="5" id="reMARKable">her perFORmance was TRUly reMARKable.</li>
+				<li className="list-none margin-bottom-20">Màn trình diễn của cô ấy thực sự rất ấn tượng.</li>
 
-				<li value="6" id="inSPIring">his STOry is TRUly [inSPIring].</li>
-				<li className="list-none margin-bottom-20">Câu chuyện của anh ấy thật sự [truyền cảm hứng].</li>
+				<li value="6" id="inSPIring">his STOry is TRUly inSPIring.</li>
+				<li className="list-none margin-bottom-20">Câu chuyện của anh ấy thực sự rất truyền cảm hứng.</li>
 
-				<li value="7" id="uNIQUE">her ARTwork is TRUly [uNIQUE].</li>
-				<li className="list-none margin-bottom-20">Tác phẩm nghệ thuật của cô ấy thật sự [độc đáo].</li>
+				<li value="7" id="uNIQUE">her ARTwork is TRUly uNIQUE.</li>
+				<li className="list-none margin-bottom-20">Tác phẩm nghệ thuật của cô ấy thực sự rất độc đáo.</li>
 
-				<li value="8" id="GRATEful">i am TRUly [GRATEful] for your supPORT.</li>
-				<li className="list-none margin-bottom-20">Tôi thật sự [biết ơn] sự ủng hộ của bạn.</li>
+				<li value="8" id="GRATEful">i am TRUly GRATEful for your supPORT.</li>
+				<li className="list-none margin-bottom-20">Tôi thực sự rất biết ơn sự ủng hộ của các bạn.</li>
 
-				<li value="9" id="BLESSED">i FEEL TRUly [BLESSED] to have such GOOD FRIENDS.</li>
-				<li className="list-none margin-bottom-20">Tôi cảm thấy thật sự [may mắn] khi có những người bạn tốt như vậy.</li>
+				<li value="9" id="BLESSED">i FEEL TRUly BLESSED to have such GOOD FRIENDS.</li>
+				<li className="list-none margin-bottom-20">Tôi thực sự cảm thấy may mắn khi có những người bạn tốt như vậy.</li>
 
-				<li value="10" id="unforGETtable">it was a TRUly [unforGETtable] exPErience.</li>
-				<li className="list-none margin-bottom-20">Đó là một trải nghiệm thật sự [khó quên].</li>
+				<li value="10" id="unforGETtable">it was a TRUly unforGETtable exPErience.</li>
+				<li className="list-none margin-bottom-20">Đó thực sự là một trải nghiệm không thể nào quên.</li>
 
 			</ol>
 

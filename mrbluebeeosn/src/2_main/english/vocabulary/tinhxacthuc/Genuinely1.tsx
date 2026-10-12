@@ -79,7 +79,7 @@ export default function GENuinely1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách chân thành, thật lòng</li>
+            <li>Thực sự</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function GENuinely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she GENuinely CARES a<strong>bout</strong> her FRIENDS.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy thực sự quan tâm đến bạn bè của mình.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy thực sự quan tâm đến các bạn của mình.</li>
 
           <li>he was GENuinely surPRISED by the GIFT.</li>
-          <li className="list-none">Anh ấy thực sự ngạc nhiên bởi món quà.</li>
+          <li className="list-none">Anh ấy thực sự đã rất ngạc nhiên trước món quà đó.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function GENuinely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he has a GENuine INterest in ART.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy có một sự quan tâm chân thành đến nghệ thuật.</li>
-
+          <li className="margin-bottom-20 list-none">Anh ấy thực sự có niềm đam mê với nghệ thuật.</li>
+          
           <li id="VERB">the WIND TURbine GENerates elecTRICity.</li>
-          <li className="list-none">Tuabin gió tạo ra điện.</li>
+          <li className="list-none">Tuabin gió sản xuất điện.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function GENuinely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she THANKED him sinCEREly for his HELP.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy chân thành cảm ơn anh ấy vì sự giúp đỡ.</li>
+          <li className="margin-bottom-20 list-none">Cô đã chân thành cảm ơn anh vì sự giúp đỡ của anh.</li>
 
           <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> beLIEVE in WHAT he SAID.</li>
-          <li className="list-none">Tôi thực sự tin vào những gì anh ấy nói.</li>
+          <li className="list-none">Tôi thực sự tin vào những gì anh ấy đã nói.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function GENuinely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he SMILED insinCEREly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy cười một cách không chân thành.</li>
+          <li className="margin-bottom-20 list-none">Anh ta mỉm cười một cách không chân thành.</li>
 
           <li>he SPOKE hypoCRITically a<strong>bout</strong> HONEsty.</li>
-          <li className="list-none">Anh ta nói về sự trung thực một cách đạo đức giả.</li>
+          <li className="list-none">Anh ta đã nói một cách đạo đức giả về sự trung thực.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function GENuinely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he is GENuinely GRATEful for the THOUGHTful PREsent.</li>
-          <li className="list-none">Anh ấy thực sự biết ơn món quà chu đáo này.</li>
+          <li className="list-none">Anh ấy thực sự rất biết ơn món quà đầy tâm ý này.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function GENuinely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he GENuinely enJOYS SPENding TIME with his FAMILy.</li>
-          <li className="list-none">Anh ấy thực sự thích dành thời gian cùng gia đình.</li>
+          <li className="list-none">Anh ấy thực sự thích dành thời gian bên gia đình.</li>
 
         </ul>
 

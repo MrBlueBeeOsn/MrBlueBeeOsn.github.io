@@ -79,7 +79,7 @@ export default function TRUly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Thực sự, thật sự</li>
+            <li>Thực sự</li>
 
           </ul>
 
@@ -101,7 +101,7 @@ export default function TRUly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cô ấy thực sự là một nghệ sĩ tài năng.</li>
 
           <li>i TRUly apPREciate your HELP.</li>
-          <li className="list-none">Tôi thực sự biết ơn sự giúp đỡ của bạn.</li>
+          <li className="list-none">Tôi thực sự rất biết ơn sự giúp đỡ của bạn.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function TRUly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">THAT is a TRUE STOry.</li>
-          <li className="margin-bottom-20 list-none">Đó là một câu chuyện có thật.</li>
+          <li className="margin-bottom-20 list-none">Đó là một câu chuyện thật.</li>
 
           <li id="NOUN">the TRUTH will SET you FREE.</li>
-          <li className="list-none">Sự thật sẽ giải phóng bạn.</li>
+          <li className="list-none">Sự thật sẽ giúp các bạn tự do.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function TRUly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm <Link to="/vocabulary/REally-1">REally</Link> TIred.</li>
-          <li className="margin-bottom-20 list-none">Tôi thực sự mệt mỏi.</li>
+          <li className="margin-bottom-20 list-none">Mình thực sự mệt quá.</li>
 
           <li>inDEED, it was a BEAUtiful DAY.</li>
-          <li className="list-none">Thực vậy, đó là một ngày đẹp trời.</li>
+          <li className="list-none">Quả thật, đó là một ngày tuyệt đẹp.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function TRUly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he FALSEly acCUSED her of STEALing.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã vu khống cô ấy ăn trộm.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã vu khống cô ấy là đã ăn cắp.</li>
 
           <li>apPARently, he is LEAVing the COMpany.</li>
-          <li className="list-none">Có vẻ như anh ấy sẽ rời khỏi công ty.</li>
+          <li className="list-none">Có vẻ như anh ấy sắp rời khỏi công ty.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function TRUly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm TRUly HAPpy for you.</li>
-          <li className="list-none">Tôi thực sự vui mừng cho bạn.</li>
+          <li className="list-none">Tớ thực sự rất vui cho cậu.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function TRUly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>TRUly, i apPREciate your KINDness.</li>
-          <li className="list-none">Thật lòng, tôi rất trân trọng lòng tốt của bạn.</li>
+          <li className="list-none">Thật lòng, tôi rất biết ơn lòng tốt của bạn.</li>
 
         </ul>
 
