@@ -100,10 +100,10 @@ export default function BAsically1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">BAsically, i JUST WANT to reLAX.</li>
-          <li className="margin-bottom-20 list-none">Về cơ bản, tôi chỉ muốn thư giãn.</li>
+          <li className="margin-bottom-20 list-none">Nói chung, tớ chỉ muốn thư giãn thôi.</li>
 
           <li>BAsically, the PROBlem is that we DON'T have eNOUGH MONey.</li>
-          <li className="list-none">Về cơ bản, vấn đề là chúng ta không đủ tiền.</li>
+          <li className="list-none">Nói chung, vấn đề là chúng ta không có đủ tiền.</li>
 
         </ul>
 
@@ -123,7 +123,7 @@ export default function BAsically1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Ý tưởng cơ bản rất đơn giản.</li>
 
           <li id="NOUN">the BASE of the PYramid is VEry WIDE.</li>
-          <li className="list-none">Đáy của kim tự tháp rất rộng.</li>
+          <li className="list-none">Đế của kim tự tháp rất rộng.</li>
 
         </ul>
 
@@ -140,7 +140,7 @@ export default function BAsically1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>esSENtially, it's a QUESTion of MONey.</li>
-          <li className="margin-bottom-20 list-none">Về bản chất, đó là một vấn đề về tiền bạc.</li>
+          <li className="margin-bottom-20 list-none">Về cơ bản, đây là vấn đề tiền bạc.</li>
 
           <li>fundaMENtally, i aGREE with you.</li>
           <li className="list-none">Về cơ bản, tôi đồng ý với bạn.</li>
@@ -162,10 +162,10 @@ export default function BAsically1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>speCIFically, i NEED you to FInish this rePORT by FRIday.</li>
-          <li className="margin-bottom-20 list-none">Cụ thể, tôi cần bạn hoàn thành báo cáo này trước thứ Sáu.</li>
+          <li className="margin-bottom-20 list-none">Cụ thể, tôi cần bạn hoàn thành bản báo cáo này trước thứ Sáu.</li>
 
-          <li>[<Link to="/vocabulary/preCISEly-1">preCISEly</Link>], THAT'S WHAT i MEAN.</li>
-          <li className="list-none">Chính xác, đó là điều tôi muốn nói.</li>
+          <li><Link to="/vocabulary/preCISEly-1">preCISEly</Link>, THAT'S WHAT i MEAN.</li>
+          <li className="list-none">Chính xác là, đó là điều tôi muốn nói.</li>
 
         </ul>
       
@@ -191,7 +191,7 @@ export default function BAsically1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the BUILDing is BAsically BUILT on a STRONG founDAtion.</li>
-          <li className="list-none">Tòa nhà cơ bản được xây dựng trên một nền móng vững chắc.</li>
+          <li className="list-none">Tòa nhà này về cơ bản được xây dựng trên một nền móng vững chắc.</li>
 
         </ul>
 
@@ -211,7 +211,7 @@ export default function BAsically1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>BAsically, i JUST NEED some TIME to THINK.</li>
-          <li className="list-none">Về cơ bản, tôi chỉ cần một chút thời gian để suy nghĩ.</li>
+          <li className="list-none">Nói chung, tớ chỉ cần một chút thời gian để suy nghĩ thôi.</li>
 
         </ul>
 
@@ -236,7 +236,7 @@ export default function BAsically1(): React.JSX.Element {
             <li className="list-none margin-bottom-20">Tôi thích ăn rau.</li>
 
             <li value="2">BAsically, i LIKE to EAT HEALthy FOOD.</li>
-            <li className="list-none margin-bottom-20">Về cơ bản, tôi thích ăn thức ăn lành mạnh.</li>
+            <li className="list-none margin-bottom-20">Nói chung, tôi thích ăn thực phẩm lành mạnh.</li>
 
           </ol>
 
