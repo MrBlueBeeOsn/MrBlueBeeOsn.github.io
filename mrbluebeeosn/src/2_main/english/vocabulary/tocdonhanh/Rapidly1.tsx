@@ -75,13 +75,13 @@ export default function RAPidly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [RAPidly \<Link to="/pronunciation/5-vowel-system">RAP id ly</Link>\ /ˈræpɪdli/ ⬤•• (THREE SYLlables)
+                RAPidly \<Link to="/pronunciation/5-vowel-system">RAP id ly</Link>\ /ˈræpɪdli/ ⬤•• (THREE SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách nhanh chóng</li>
+            <li>Nhanh chóng</li>
 
           </ul>
 
@@ -100,10 +100,10 @@ export default function RAPidly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">techNOlogy is adVANCEing RAPidly.</li>
-          <li className="margin-bottom-20 list-none">Công nghệ đang phát triển rất nhanh.</li>
+          <li className="margin-bottom-20 list-none">Công nghệ đang phát triển với tốc độ nhanh chóng.</li>
 
           <li>the CHILD GREW RAPidly during her FIRST YEAR.</li>
-          <li className="list-none">Đứa trẻ lớn rất nhanh trong năm đầu đời.</li>
+          <li className="list-none">Đứa trẻ đã lớn lên rất nhanh trong năm đầu tiên của mình.</li>
 
         </ul>
 
@@ -120,10 +120,10 @@ export default function RAPidly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the RIVer has a RAPid CURrent.</li>
-          <li className="margin-bottom-20 list-none">Con sông có dòng chảy siết.</li>
+          <li className="margin-bottom-20 list-none">Dòng sông có dòng chảy mạnh.</li>
 
           <li id="NOUN">the raPIDity of CHANGE surPRISED us.</li>
-          <li className="list-none">Tốc độ thay đổi khiến chúng tôi ngạc nhiên.</li>
+          <li className="list-none">Tốc độ thay đổi đã khiến chúng tôi ngạc nhiên.</li>
 
         </ul>
 
@@ -140,10 +140,10 @@ export default function RAPidly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she RAN <Link to="/vocabulary/QUICKly-1">QUICKly</Link> to CATCH the BUS.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy chạy nhanh để bắt xe buýt.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy chạy nhanh để bắt kịp xe buýt.</li>
 
           <li>the BIRD FLEW SWIFTly through the AIR.</li>
-          <li className="list-none">Con chim bay nhanh qua không trung.</li>
+          <li className="list-none">Con chim bay lướt nhanh qua không trung.</li>
 
         </ul>
 
@@ -161,8 +161,8 @@ export default function RAPidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the SNAIL MOVED <Link to="/vocabulary/SLOWly-1">SLOWly</Link> across the LEAF.</li>
-          <li className="margin-bottom-20 list-none">Con ốc sên di chuyển chậm trên lá.</li>
+          <li>the SNAIL MOVED <Link to="/vocabulary/SLOWly-1">SLOWly</Link> a<strong>cross</strong> the LEAF.</li>
+          <li className="margin-bottom-20 list-none">Con ốc sên bò chậm rãi trên chiếc lá.</li>
 
           <li>the PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link> TALler.</li>
           <li className="list-none">Cây dần dần cao lên.</li>
@@ -191,10 +191,10 @@ export default function RAPidly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the RACE CAR MOVED RAPidly down the TRACK.</li>
-          <li className="margin-bottom-20 list-none">Chiếc xe đua di chuyển nhanh chóng trên đường đua.</li>
+          <li className="margin-bottom-20 list-none">Chiếc xe đua lao vun vút trên đường đua.</li>
 
-          <li>the BALL FELL RAPidly towards the GROUND.</li>
-          <li className="list-none">Quả bóng rơi nhanh chóng xuống đất.</li>
+          <li>the BALL FELL RAPidly to<strong>wards</strong> the GROUND.</li>
+          <li className="list-none">Quả bóng rơi nhanh xuống mặt đất.</li>
 
         </ul>
 
@@ -213,8 +213,8 @@ export default function RAPidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the NEWS SPREAD RAPidly throughout the TOWN.</li>
-          <li className="list-none">Tin tức lan truyền rất nhanh khắp thị trấn.</li>
+          <li>the NEWS SPREAD RAPidly through<strong>out</strong> the TOWN.</li>
+          <li className="list-none">Tin tức lan truyền nhanh chóng khắp thị trấn.</li>
 
         </ul>
 

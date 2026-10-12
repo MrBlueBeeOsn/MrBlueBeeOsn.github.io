@@ -75,13 +75,13 @@ export default function SUDdenly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [SUDdenly \<Link to="/pronunciation/5-vowel-system">SƯD de̛n ly</Link>\ /ˈsʌdənli/ ⬤•• (THREE SYLlables)
+                SUDdenly \<Link to="/pronunciation/5-vowel-system">SƯD de̛n ly</Link>\ /ˈsʌdənli/ ⬤•• (THREE SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Đột ngột, bất ngờ</li>
+            <li>Bỗng nhiên</li>
 
           </ul>
 
@@ -100,10 +100,10 @@ export default function SUDdenly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">SUDdenly, the LIGHTS wenT OUT.</li>
-          <li className="margin-bottom-20 list-none">Đột nhiên, đèn tắt.</li>
+          <li className="margin-bottom-20 list-none">Bỗng nhiên, đèn tắt nguyên cái.</li>
 
           <li>she SUDdenly REalized she had LEFT her PHONE at HOME.</li>
-          <li className="list-none">Cô ấy đột nhiên nhận ra mình đã để quên điện thoại ở nhà.</li>
+          <li className="list-none">Cô ấy bỗng nhiên nhận ra rằng mình đã để quên điện thoại ở nhà.</li>
 
         </ul>
 
@@ -120,10 +120,10 @@ export default function SUDdenly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">a SUDden STORM CAUSED the POWer OUtage.</li>
-          <li className="margin-bottom-20 list-none">Một cơn bão đột ngột đã gây ra mất điện.</li>
+          <li className="margin-bottom-20 list-none">Một cơn bão bất ngờ đã gây ra sự cố mất điện.</li>
 
           <li id="NOUN">the SUDdenness of the ACcident SHOCKED <strong>ever</strong>yone.</li>
-          <li className="list-none">Sự đột ngột của tai nạn khiến mọi người sốc.</li>
+          <li className="list-none">Sự bất ngờ của vụ tai nạn đã khiến mọi người bàng hoàng.</li>
 
         </ul>
 
@@ -140,10 +140,10 @@ export default function SUDdenly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the MUsic STOPPED aBRUPTly.</li>
-          <li className="margin-bottom-20 list-none">Âm nhạc dừng lại đột ngột.</li>
+          <li className="margin-bottom-20 list-none">Âm nhạc bỗng dưng ngừng lại.</li>
 
           <li>i unexPECtedly RAN into an OLD FRIEND.</li>
-          <li className="list-none">Tôi tình cờ gặp lại một người bạn cũ.</li>
+          <li className="list-none">Tôi đã bất ngờ gặp lại một người bạn cũ.</li>
 
         </ul>
 
@@ -165,7 +165,7 @@ export default function SUDdenly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
 
           <li>as exPECted, it STARted to RAIN.</li>
-          <li className="list-none">Như dự kiến, trời bắt đầu mưa.</li>
+          <li className="list-none">Đúng như dự đoán, trời bắt đầu mưa.</li>
 
         </ul>
       
@@ -191,7 +191,7 @@ export default function SUDdenly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the BALL SUDdenly FELL from the SKY.</li>
-          <li className="list-none">Quả bóng đột ngột rơi từ trên trời xuống.</li>
+          <li className="list-none">Quả bóng bỗng dưng rơi xuống từ trên trời.</li>
 
         </ul>
 
@@ -211,7 +211,7 @@ export default function SUDdenly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>while i was WALking, i SUDdenly HEARD a LOUD NOISE.</li>
-          <li className="list-none">Khi tôi đang đi, đột nhiên tôi nghe thấy một tiếng động lớn.</li>
+          <li className="list-none">Khi tôi đang đi bộ, tôi bỗng nghe thấy một tiếng động lớn.</li>
 
         </ul>
 
@@ -233,10 +233,10 @@ export default function SUDdenly1(): React.JSX.Element {
           <ol>
 
             <li value="1">the TRAIN arRIVED.</li>
-            <li className="list-none margin-bottom-20">Tàu đến.</li>
+            <li className="list-none margin-bottom-20">Tàu đã đến.</li>
 
             <li value="2">the TRAIN SUDdenly arRIVED.</li>
-            <li className="list-none margin-bottom-20">Tàu đột ngột đến.</li>
+            <li className="list-none margin-bottom-20">Chuyến tàu bỗng nhiên đến.</li>
 
           </ol>
 

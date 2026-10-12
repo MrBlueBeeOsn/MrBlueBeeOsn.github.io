@@ -103,35 +103,35 @@ export default function INstantly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="RECognizable-around-the">the EIffel TOWer is INstantly [RECognizable a<strong>round</strong> the] WORLD.</li>
-        <li className="list-none margin-bottom-20">Tháp Eiffel [dễ nhận biết] ngay lập tức [trên] toàn thế giới.</li>
+        <li value="1" id="RECognizable-around-the">the EIffel TOWer is INstantly RECognizable a<strong>round</strong> the WORLD.</li>
+        <li className="list-none margin-bottom-20">Tháp Eiffel là biểu tượng dễ nhận ra ngay lập tức trên toàn thế giới.</li>
 
-        <li value="2" id="adDICTive">THIS GAME is so much FUN, it's INstantly [adDICTive].</li>
-        <li className="list-none margin-bottom-20">Trò chơi này rất vui, nó [gây nghiện] ngay lập tức.</li>
+        <li value="2" id="adDICTive">THIS GAME is so much FUN, it's INstantly adDICTive.</li>
+        <li className="list-none margin-bottom-20">Trò chơi này thật sự rất vui, khiến người chơi ngay lập tức bị cuốn hút.</li>
 
-        <li value="3" id="CLASsic">the NEW SONG beCAME an INstantly [CLASsic] HIT.</li>
-        <li className="list-none margin-bottom-20">Bài hát mới trở thành một bản hit [kinh điển] ngay lập tức.</li>
+        <li value="3" id="CLASsic">the NEW SONG beCAME an INstantly CLASsic HIT.</li>
+        <li className="list-none margin-bottom-20">Bài hát mới này đã trở thành một bản hit kinh điển ngay lập tức.</li>
 
-        <li value="4" id="RECognizable2">i KNEW it was her INstantly [RECognizable] VOICE.</li>
-        <li className="list-none margin-bottom-20">Tôi biết ngay đó là giọng nói [dễ nhận biết] của cô ấy.</li>
+        <li value="4" id="RECognizable2">i KNEW it was her INstantly RECognizable VOICE.</li>
+        <li className="list-none margin-bottom-20">Tôi biết ngay đó chính là giọng nói của cô ấy, một giọng nói dễ nhận ra ngay lập tức.</li>
 
-        <li value="5" id="reGRETful">as <strong>soon</strong> as i SAID it, i FELT INstantly [reGRETful].</li>
-        <li className="list-none margin-bottom-20">Ngay khi tôi nói ra điều đó, tôi đã cảm thấy [hối hận] ngay lập tức.</li>
+        <li value="5" id="reGRETful">as <strong>soon</strong> as i SAID it, i FELT INstantly reGRETful.</li>
+        <li className="list-none margin-bottom-20">Ngay khi tôi vừa nói ra, tôi đã cảm thấy hối hận ngay lập tức.</li>
 
-        <li value="6" id="reLIEVED-when">i FELT INstantly [reLIEVED when] i HEARD the GOOD NEWS.</li>
-        <li className="list-none margin-bottom-20">Tôi cảm thấy [nhẹ nhõm] ngay lập tức [khi] nghe tin tốt lành.</li>
+        <li value="6" id="reLIEVED-when">i FELT INstantly reLIEVED when i HEARD the GOOD NEWS.</li>
+        <li className="list-none margin-bottom-20">Tôi cảm thấy nhẹ nhõm ngay lập tức khi nghe tin vui.</li>
 
-        <li value="7" id="FAmous">the VIdeo WENT VIral and she beCAME INstantly [FAmous].</li>
-        <li className="list-none margin-bottom-20">Video trở nên lan truyền và cô ấy trở nên [nổi tiếng] ngay lập tức.</li>
+        <li value="7" id="FAmous">the VIdeo WENT VIral and she beCAME INstantly FAmous.</li>
+        <li className="list-none margin-bottom-20">Đoạn video đã trở nên viral và cô ấy bỗng chốc trở nên nổi tiếng.</li>
 
-        <li value="8" id="RECognizable3">the NIke SWOOSH is an INstantly [RECognizable] LOgo.</li>
-        <li className="list-none margin-bottom-20">Logo hình dấu ngoặc kép của Nike là một logo [dễ nhận biết] ngay lập tức.</li>
+        <li value="8" id="RECognizable3">the NIke SWOOSH is an INstantly RECognizable LOgo.</li>
+        <li className="list-none margin-bottom-20">Logo SWOOSH của Nike là một biểu tượng có thể nhận ra ngay lập tức.</li>
 
-        <li value="9" id="forGOTten">as <strong>soon</strong> as i LEFT the ROOM, his NAME was INstantly [forGOTten].</li>
-        <li className="list-none margin-bottom-20">Ngay khi tôi rời khỏi phòng, tôi [đã quên] tên anh ấy ngay lập tức.</li>
+        <li value="9" id="forGOTten">as <strong>soon</strong> as i LEFT the ROOM, his NAME was INstantly forGOTten.</li>
+        <li className="list-none margin-bottom-20">Ngay khi tôi bước ra khỏi phòng, tôi đã quên tên anh ấy ngay lập tức.</li>
 
-        <li value="10" id="conNECTed-when">we INstantly [conNECTed when] we FIRST MET.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi [đã kết nối] ngay lập tức [khi] gặp nhau lần đầu.</li>
+        <li value="10" id="conNECTed-when">we INstantly conNECTed when we FIRST MET.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi đã ngay lập tức cảm thấy có sự kết nối ngay từ lần đầu tiên gặp nhau.</li>
 
       </ol>
 

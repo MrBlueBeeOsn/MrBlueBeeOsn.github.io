@@ -75,13 +75,13 @@ export default function QUICKly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [QUICKly \<Link to="/pronunciation/5-vowel-system">QUICK ly</Link>\ /ˈkwɪkli/ ⬤• (TWO SYLlables)
+                QUICKly \<Link to="/pronunciation/5-vowel-system">QUICK ly</Link>\ /ˈkwɪkli/ ⬤• (TWO SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách nhanh chóng</li>
+            <li>Nhanh chóng</li>
 
           </ul>
 
@@ -100,10 +100,10 @@ export default function QUICKly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she RAN QUICKly to CATCH the BUS.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy chạy nhanh để bắt xe buýt.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy chạy nhanh để bắt kịp xe buýt.</li>
 
           <li>PLEASE rePLY to the Email as QUICKly as POSsible.</li>
-          <li className="list-none">Vui lòng trả lời email càng sớm càng tốt.</li>
+          <li className="list-none">Xin vui lòng trả lời email này càng sớm càng tốt.</li>
 
         </ul>
 
@@ -120,10 +120,10 @@ export default function QUICKly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is a QUICK LEARNer.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy là một người học nhanh.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy là người học rất nhanh.</li>
 
           <li id="NOUN">his QUICKness imPRESSED <strong>ever</strong>yone.</li>
-          <li className="list-none">Sự nhanh nhẹn của anh ấy đã gây ấn tượng với mọi người.</li>
+          <li className="list-none">Sự nhanh nhẹn của anh ấy đã gây ấn tượng mạnh với mọi người.</li>
 
         </ul>
 
@@ -143,7 +143,7 @@ export default function QUICKly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Bệnh lây lan rất nhanh.</li>
 
           <li>the BIRD FLEW SWIFTly through the AIR.</li>
-          <li className="list-none">Con chim bay nhanh qua không trung.</li>
+          <li className="list-none">Con chim bay lướt nhanh qua không trung.</li>
 
         </ul>
 
@@ -162,10 +162,10 @@ export default function QUICKly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she WALKED <Link to="/vocabulary/SLOWly-1">SLOWly</Link> down the STREET.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đi bộ chậm rãi trên đường phố.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đi bộ chậm rãi dọc theo con phố.</li>
 
           <li>the PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link> TALLer.</li>
-          <li className="list-none">Cây lớn dần lên.</li>
+          <li className="list-none">Cây dần dần trở nên cao hơn.</li>
 
         </ul>
       
@@ -211,7 +211,7 @@ export default function QUICKly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>PLEASE reSPOND to my MESsage QUICKly.</li>
-          <li className="list-none">Vui lòng trả lời tin nhắn của tôi nhanh nhé.</li>
+          <li className="list-none">Xin hãy trả lời tin nhắn của tôi ngay lập tức.</li>
 
         </ul>
 
@@ -233,10 +233,10 @@ export default function QUICKly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he FINished the TASK.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành nhiệm vụ.</li>
 
             <li value="2">he QUICKly FINished the TASK.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc rất nhanh.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã nhanh chóng hoàn thành công việc.</li>
 
           </ol>
 

@@ -75,13 +75,13 @@ export default function BAsically1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [BAsically \<Link to="/pronunciation/5-vowel-system">BĀ sic a̛lly</Link>\ /ˈbeɪsɪkli/ ⬤•• (THREE SYLlables)
+                BAsically \<Link to="/pronunciation/5-vowel-system">BĀ sic a̛lly</Link>\ /ˈbeɪsɪkli/ ⬤•• (THREE SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Về cơ bản, nói một cách đơn giản</li>
+            <li>Nói chung thì, về cơ bản</li>
 
           </ul>
 
@@ -93,7 +93,7 @@ export default function BAsically1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>BAsically</strong>" được sử dụng để nhấn mạnh ý chính hoặc điểm quan trọng nhất của một vấn đề, một ý tưởng hoặc một tình huống. Nó có nghĩa là "nói một cách đơn giản" hoặc "về cơ bản".</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>BAsically</strong>" được sử dụng để nhấn mạnh ý chính hoặc điểm quan trọng nhất của một vấn đề, một ý tưởng hoặc một tình huống. Nó có nghĩa là "nói chung thì" hoặc "về cơ bản".</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 

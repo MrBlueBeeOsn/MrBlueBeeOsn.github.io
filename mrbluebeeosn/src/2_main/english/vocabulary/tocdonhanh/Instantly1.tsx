@@ -79,7 +79,7 @@ export default function INstantly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Ngay lập tức, tức thì</li>
+            <li>Ngay lập tức</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function INstantly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">when i turnED ON the LIGHT, the ROOM beCAME INstantly BRIGHter.</li>
-          <li className="margin-bottom-20 list-none">Khi tôi bật đèn lên, căn phòng sáng lên ngay lập tức.</li>
+          <li className="margin-bottom-20 list-none">Khi tôi bật đèn lên, căn phòng lập tức trở nên sáng hơn.</li>
 
           <li>she reCOGnized him INstantly.</li>
-          <li className="list-none">Cô ấy nhận ra anh ta ngay lập tức.</li>
+          <li className="list-none">Cô ấy nhận ra anh ấy ngay lập tức.</li>
 
         </ul>
 
@@ -121,7 +121,7 @@ export default function INstantly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Đây là cà phê hòa tan.</li>
 
           <li id="NOUN">the reACtion was instanTAneous.</li>
-          <li className="list-none">Phản ứng diễn ra tức thì.</li>
+          <li className="list-none">Phản ứng diễn ra ngay lập tức.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function INstantly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i rePLIED imMEdiately.</li>
-          <li className="margin-bottom-20 list-none">Tôi trả lời ngay lập tức.</li>
+          <li className="margin-bottom-20 list-none">Tôi đã trả lời ngay lập tức.</li>
 
-          <li>COME HERE at ONCE!/</li>
-          <li className="list-none">Đến đây ngay!</li>
+          <li>COME HERE at ONCE!</li>
+          <li className="list-none">Làm ơn đến đây ngay lập tức!</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function INstantly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link>.</li>
-          <li className="margin-bottom-20 list-none">Cây lớn dần lên.</li>
+          <li className="margin-bottom-20 list-none">Cây đã lớn lên từ từ.</li>
 
           <li>she WALKED <Link to="/vocabulary/SLOWly-1">SLOWly</Link>.</li>
-          <li className="list-none">Cô ấy đi chậm rãi.</li>
+          <li className="list-none">Cô ấy đi bộ chậm rãi.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function INstantly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>as <strong>soon</strong> as i TURNED on the SWITCH, the LIGHT BULB CAME on INstantly.</li>
-          <li className="list-none">Ngay khi tôi bật công tắc, bóng đèn sáng lên ngay lập tức.</li>
+          <li className="list-none">Ngay khi tôi bấm công tắc, bóng đèn đã sáng lên ngay lập tức.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function INstantly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she FELL aSLEEP INstantly <strong>af</strong>ter she CLOSED her EYES.</li>
-          <li className="list-none">Cô ấy ngủ thiếp đi ngay lập tức sau khi nhắm mắt lại.</li>
+          <li className="list-none">Cô ấy đã chìm vào giấc ngủ ngay lập tức sau khi cô ấy nhắm mắt lại.</li>
 
         </ul>
 
@@ -231,7 +231,7 @@ export default function INstantly1(): React.JSX.Element {
           <ol>
 
             <li value="1">the WAter BOILED.</li>
-            <li className="list-none margin-bottom-20">Nước sôi.</li>
+            <li className="list-none margin-bottom-20">Nước đã sôi.</li>
 
             <li value="2">the WAter BOILED INstantly.</li>
             <li className="list-none margin-bottom-20">Nước sôi ngay lập tức.</li>
@@ -240,7 +240,7 @@ export default function INstantly1(): React.JSX.Element {
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>instantly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng quá trình nước <span className="highlight-255-padding-0-4">sôi diễn ra rất nhanh</span>.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>INstantly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng quá trình nước <span className="highlight-255-padding-0-4">sôi diễn ra rất nhanh</span>.</p>
 
       </div>
 
@@ -256,7 +256,7 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Thời gian cực ngắn: "<strong>Instantly</strong>" nhấn mạnh vào sự xảy ra của một sự việc trong một khoảng thời gian cực kỳ ngắn.</li>
+          <li>Thời gian cực ngắn: "<strong>INstantly</strong>" nhấn mạnh vào sự xảy ra của một sự việc trong một khoảng thời gian cực kỳ ngắn.</li>
 
           <li className="margin-bottom-20">Không có sự trì hoãn: Nó đối lập với các ADverb như "<Link to="/vocabulary/GRADually-1">GRADually</Link>" hay "<Link to="/vocabulary/SLOWly-1">SLOWly</Link>".</li>
 

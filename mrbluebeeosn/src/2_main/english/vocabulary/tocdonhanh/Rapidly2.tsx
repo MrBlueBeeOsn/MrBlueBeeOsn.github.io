@@ -103,35 +103,35 @@ export default function RAPidly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="GROWing">the CITy's popuLAtion is RAPidly [GROWing].</li>
-        <li className="list-none margin-bottom-20">Dân số thành phố đang tăng trưởng nhanh chóng.</li>
+        <li value="1" id="GROWing">the CITy's popuLAtion is RAPidly GROWing.</li>
+        <li className="list-none margin-bottom-20">Dân số của thành phố đang tăng nhanh chóng.</li>
 
-        <li value="2" id="CHAnging-due-to">the WORLD is RAPidly [CHAnging due to] technoLOGical adVANCEments.</li>
-        <li className="list-none margin-bottom-20">Thế giới [đang thay đổi] nhanh chóng [do] sự phát triển của công nghệ.</li>
+        <li value="2" id="CHAnging-due-to">the WORLD is RAPidly CHAnging due to technoLOGical adVANCEments.</li>
+        <li className="list-none margin-bottom-20">Thế giới đang thay đổi nhanh chóng do những tiến bộ công nghệ.</li>
 
-        <li value="3" id="SPREADing-throughout-the">the disEASE is RAPidly [SPREADing through<strong>out</strong> the] COUNtry.</li>
-        <li className="list-none margin-bottom-20">Bệnh [đang lan rộng] nhanh chóng [khắp] cả nước.</li>
+        <li value="3" id="SPREADing-throughout-the">the disEASE is RAPidly SPREADing through<strong>out</strong> the COUNtry.</li>
+        <li className="list-none margin-bottom-20">Dịch bệnh đang lây lan nhanh chóng trên khắp cả nước.</li>
 
-        <li value="4" id="deCLIning">the NUMber of enDANgered SPEcies is RAPidly [deCLIning].</li>
-        <li className="list-none margin-bottom-20">Số lượng các loài động vật có nguy cơ tuyệt chủng [đang giảm] nhanh chóng.</li>
+        <li value="4" id="deCLIning">the NUMber of enDANgered SPEcies is RAPidly deCLIning.</li>
+        <li className="list-none margin-bottom-20">Số lượng các loài có nguy cơ tuyệt chủng đang giảm nhanh chóng.</li>
 
-        <li value="5" id="eVOlving">techNOlogy is RAPidly [eVOlving], MAking our LIVES EAsier.</li>
-        <li className="list-none margin-bottom-20">Công nghệ [đang phát triển] nhanh chóng, giúp cuộc sống của chúng ta dễ dàng hơn.</li>
+        <li value="5" id="eVOlving">techNOlogy is RAPidly eVOlving, MAking our LIVES EAsier.</li>
+        <li className="list-none margin-bottom-20">Công nghệ đang phát triển nhanh chóng, giúp cuộc sống của chúng ta trở nên dễ dàng hơn.</li>
 
-        <li value="6" id="apPROACHing">the DEADline is RAPidly [apPROACHing].</li>
-        <li className="list-none margin-bottom-20">Hạn chót [đang đến] gần.</li>
+        <li value="6" id="apPROACHing">the DEADline is RAPidly apPROACHing.</li>
+        <li className="list-none margin-bottom-20">Hạn chót đang đến rất nhanh.</li>
 
-        <li value="7" id="exPANDing-into">the COMpany is RAPidly [exPANDing <strong>in</strong>to] NEW MARkets.</li>
-        <li className="list-none margin-bottom-20">Công ty [đang mở rộng] nhanh chóng [vào] các thị trường mới.</li>
+        <li value="7" id="exPANDing-into">the COMpany is RAPidly exPANDing <strong>in</strong>to NEW MARkets.</li>
+        <li className="list-none margin-bottom-20">Công ty đang mở rộng nhanh chóng sang các thị trường mới.</li>
 
-        <li value="8" id="deTEriorating">the OLD BUILDing is RAPidly [deTEriorating].</li>
-        <li className="list-none margin-bottom-20">Tòa nhà cũ [đang xuống cấp] nhanh chóng.</li>
+        <li value="8" id="deTEriorating">the OLD BUILDing is RAPidly deTEriorating.</li>
+        <li className="list-none margin-bottom-20">Tòa nhà cũ đang xuống cấp nhanh chóng.</li>
 
-        <li value="9" id="acCELerated-down-the">the CAR RAPidly [acCELerated down the] HIGHway.</li>
-        <li className="list-none margin-bottom-20">Chiếc xe [tăng tốc] nhanh chóng [xuống] đường cao tốc.</li>
+        <li value="9" id="acCELerated-down-the">the CAR RAPidly acCELerated down the HIGHway.</li>
+        <li className="list-none margin-bottom-20">Chiếc xe lao vun vút trên đường cao tốc.</li>
 
-        <li value="10" id="disapPEARing-due-to">the RAINforest is RAPidly [disapPEARing due to] deforesTAtion.</li>
-        <li className="list-none margin-bottom-20">Rừng nhiệt đới [đang biến mất] nhanh chóng [do] nạn phá rừng.</li>
+        <li value="10" id="disapPEARing-due-to">the RAINforest is RAPidly disapPEARing due to deforesTAtion.</li>
+        <li className="list-none margin-bottom-20">Rừng nhiệt đới đang biến mất nhanh chóng do nạn phá rừng.</li>
 
       </ol>
 

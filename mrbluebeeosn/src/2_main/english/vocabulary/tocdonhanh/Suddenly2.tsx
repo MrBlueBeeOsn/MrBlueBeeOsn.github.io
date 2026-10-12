@@ -75,7 +75,7 @@ export default function SUDdenly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SUDdenly</strong>" (một cách đột ngột) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SUDdenly</strong>" (bỗng nhiên) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function SUDdenly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="STOPPED-in-the">the CAR SUDdenly [STOPPED in the] MIDdle of the ROAD.</li>
-        <li className="list-none margin-bottom-20">Chiếc xe đột ngột [dừng lại] giữa đường.</li>
+        <li value="1" id="STOPPED-in-the">the CAR SUDdenly STOPPED in the MIDdle of the ROAD.</li>
+        <li className="list-none margin-bottom-20">Chiếc xe đột ngột dừng lại ngay giữa đường.</li>
 
-        <li value="2" id="REalized-that">i SUDdenly [REalized that] i had forGOTten my KEYS.</li>
-        <li className="list-none margin-bottom-20">Tôi đột nhiên [nhận ra rằng] mình đã quên chìa khóa.</li>
+        <li value="2" id="REalized-that">i SUDdenly REalized that i had forGOTten my KEYS.</li>
+        <li className="list-none margin-bottom-20">Tôi bỗng nhiên nhận ra rằng mình đã quên chìa khóa.</li>
 
-        <li value="3" id="apPEARED-in-the">a GHOST SUDdenly [apPEARED in the] MIRror.</li>
-        <li className="list-none margin-bottom-20">Một bóng ma đột nhiên [xuất hiện trong] gương.</li>
+        <li value="3" id="apPEARED-in-the">a GHOST SUDdenly apPEARED in the MIRror.</li>
+        <li className="list-none margin-bottom-20">Một bóng ma bỗng nhiên xuất hiện trong gương.</li>
 
-        <li value="4" id="CHANGED">the WEAther SUDdenly [CHANGED] and it STARted to RAIN.</li>
-        <li className="list-none margin-bottom-20">Thời tiết đột nhiên [thay đổi] và bắt đầu mưa.</li>
+        <li value="4" id="CHANGED">the WEAther SUDdenly CHANGED and it STARted to RAIN.</li>
+        <li className="list-none margin-bottom-20">Thời tiết bỗng dưng thay đổi và trời bắt đầu mưa.</li>
 
-        <li value="5" id="FELT">i SUDdenly [FELT] a SHARP PAIN in my STOMach.</li>
-        <li className="list-none margin-bottom-20">Tôi đột nhiên [cảm thấy] một cơn đau nhói ở bụng.</li>
+        <li value="5" id="FELT">i SUDdenly FELT a SHARP PAIN in my STOMach.</li>
+        <li className="list-none margin-bottom-20">Tôi bỗng dưng cảm thấy một cơn đau nhói ở bụng.</li>
 
-        <li value="6" id="reMEMbered">the SUDdenly [reMEMbered] where i had LEFT my PHONE.</li>
-        <li className="list-none margin-bottom-20">Tôi đột nhiên [nhớ ra] mình đã để điện thoại ở đâu.</li>
+        <li value="6" id="reMEMbered">the SUDdenly reMEMbered where i had LEFT my PHONE.</li>
+        <li className="list-none margin-bottom-20">Bỗng dưng tôi nhớ ra mình đã để điện thoại ở đâu rồi.</li>
 
-        <li value="7" id="disapPEARED-in-a">the maGIcian SUDdenly [disapPEARED in a] PUFF of SMOKE.</li>
-        <li className="list-none margin-bottom-20">Nhà ảo thuật đột nhiên [biến mất trong một] làn khói.</li>
+        <li value="7" id="disapPEARED-in-a">the maGIcian SUDdenly disapPEARED in a PUFF of SMOKE.</li>
+        <li className="list-none margin-bottom-20">Nhà ảo thuật bỗng chốc biến mất trong một làn khói.</li>
 
-        <li value="8" id="beCAME">the sky SUDdenly [beCAME] DARK and STORmy.</li>
-        <li className="list-none margin-bottom-20">Bầu trời đột nhiên [trở nên] tối tăm và bão tố.</li>
+        <li value="8" id="beCAME">the sky SUDdenly beCAME DARK and STORmy.</li>
+        <li className="list-none margin-bottom-20">Bầu trời bỗng chốc trở nên u ám và giông bão.</li>
 
-        <li value="9" id="REalized-that2">i SUDdenly [REalized that] i had been WALking in CIRcles.</li>
-        <li className="list-none margin-bottom-20">Tôi đột nhiên [nhận ra rằng] mình đã đi vòng tròn.</li>
+        <li value="9" id="REalized-that2">i SUDdenly REalized that i had been WALking in CIRcles.</li>
+        <li className="list-none margin-bottom-20">Tôi bỗng nhiên nhận ra rằng mình đã đi vòng vòng.</li>
 
-        <li value="10" id="STOPPED2">the comPUter SUDdenly [STOPPED] WORking.</li>
-        <li className="list-none margin-bottom-20">Máy tính đột nhiên [ngừng] hoạt động.</li>
+        <li value="10" id="STOPPED2">the comPUter SUDdenly STOPPED WORking.</li>
+        <li className="list-none margin-bottom-20">Máy tính đột ngột ngừng hoạt động.</li>
 
       </ol>
 
