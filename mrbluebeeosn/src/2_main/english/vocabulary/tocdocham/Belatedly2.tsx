@@ -75,7 +75,7 @@ export default function beLAtedly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>beLAtedly</strong>" (một cách muộn màng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>beLAtedly</strong>" (muộn màng) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function beLAtedly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="REalized">he beLAtedly [REalized] he had forGOTten his WALlet.</li>
-        <li className="list-none margin-bottom-20">Anh ấy muộn màng [nhận ra] mình đã quên ví.</li>
+        <li value="1" id="REalized">he beLAtedly REalized he had forGOTten his WALlet.</li>
+        <li className="list-none margin-bottom-20">Anh ta chợt nhận ra rằng mình đã quên ví.</li>
 
-        <li value="2" id="aPOLogized-for">she beLAtedly [aPOLogized for] her RUDE beHAVior.</li>
-        <li className="list-none margin-bottom-20">Cô ấy muộn màng [xin lỗi vì] hành vi thô lỗ của mình.</li>
+        <li value="2" id="aPOLogized-for">she beLAtedly aPOLogized for her RUDE beHAVior.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã muộn màng xin lỗi vì hành vi thô lỗ của mình.</li>
 
-        <li value="3" id="arRIVED-at">they beLAtedly [arRIVED at] the MEEting due to TRAFfic.</li>
-        <li className="list-none margin-bottom-20">Họ [đến] cuộc họp một cách muộn màng do tắc đường.</li>
+        <li value="3" id="arRIVED-at">they beLAtedly arRIVED at the MEEting due to TRAFfic.</li>
+        <li className="list-none margin-bottom-20">Họ đã đến muộn tại cuộc họp do kẹt xe.</li>
 
-        <li value="4" id="SENT">he beLAtedly [SENT] the BIRTHday CARD, WEEKS <strong>af</strong>ter the ACtual DATE.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [gửi] thiệp sinh nhật một cách muộn màng, vài tuần sau ngày sinh nhật thật.</li>
+        <li value="4" id="SENT">he beLAtedly SENT the BIRTHday CARD, WEEKS <strong>af</strong>ter the ACtual DATE.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã gửi thẻ chúc mừng sinh nhật muộn, vài tuần sau ngày sinh nhật thực tế.</li>
 
-        <li value="5" id="reSPONDed-to">she beLAtedly [reSPONDed to] his EMail <strong>af</strong>ter a LONG deLAY.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [trả lời] email của anh ấy một cách muộn màng sau một thời gian dài trì hoãn.</li>
+        <li value="5" id="reSPONDed-to">she beLAtedly reSPONDed to his EMail <strong>af</strong>ter a LONG deLAY.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã trả lời email của anh ấy muộn màng sau một khoảng thời gian dài trì hoãn.</li>
 
-        <li value="6" id="conGRATulated">they beLAtedly [conGRATulated] the NEW PArents on the BIRTH of their BAby.</li>
-        <li className="list-none margin-bottom-20">Họ muộn màng [chúc mừng] cặp vợ chồng mới sinh em bé.</li>
+        <li value="6" id="conGRATulated">they beLAtedly conGRATulated the NEW PArents on the BIRTH of their BAby.</li>
+        <li className="list-none margin-bottom-20">Họ đã muộn màng gửi lời chúc mừng đến các bậc cha mẹ mới nhân dịp con họ chào đời.</li>
 
-        <li value="7" id="acKNOWledged">the COMpany beLAtedly [acKNOWledged] the ERror in their PRODuct.</li>
-        <li className="list-none margin-bottom-20">Công ty muộn màng [thừa nhận] lỗi trong sản phẩm của họ.</li>
+        <li value="7" id="acKNOWledged">the COMpany beLAtedly acKNOWledged the ERror in their PRODuct.</li>
+        <li className="list-none margin-bottom-20">Công ty này cuối cùng đã thừa nhận sai sót trong sản phẩm của mình.</li>
 
-        <li value="8" id="disCOVered">they beLAtedly [disCOVered] the MISSing DOCuments.</li>
-        <li className="list-none margin-bottom-20">Họ muộn màng [phát hiện] ra những tài liệu bị thiếu.</li>
+        <li value="8" id="disCOVered">they beLAtedly disCOVered the MISSing DOCuments.</li>
+        <li className="list-none margin-bottom-20">Họ đã phát hiện ra những tài liệu bị thất lạc muộn màng.</li>
 
-        <li value="9" id="underSTOOD">he beLAtedly [underSTOOD] the MEANing of her CRYPtic MESsage.</li>
-        <li className="list-none margin-bottom-20">Anh ấy muộn màng [hiểu ra] ý nghĩa của tin nhắn khó hiểu của cô ấy.</li>
+        <li value="9" id="underSTOOD">he beLAtedly underSTOOD the MEANing of her CRYPtic MESsage.</li>
+        <li className="list-none margin-bottom-20">Anh ấy cuối cùng cũng hiểu được ý nghĩa của tin nhắn khó hiểu của cô ấy.</li>
 
-        <li value="10" id="OFfered-to">the COMpany beLAtedly [OFfered] compenSAtion [to] the afFECted CUStomers.</li>
-        <li className="list-none margin-bottom-20">Công ty muộn màng [đề nghị] bồi thường [cho] những khách hàng bị ảnh hưởng.</li>
+        <li value="10" id="OFfered-to">the COMpany beLAtedly OFfered compenSAtion to the afFECted CUStomers.</li>
+        <li className="list-none margin-bottom-20">Công ty đã chậm trễ trong việc đề xuất bồi thường cho các khách hàng bị ảnh hưởng.</li>
 
       </ol>
 

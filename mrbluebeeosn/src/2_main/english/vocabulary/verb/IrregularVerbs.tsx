@@ -1418,7 +1418,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy [xây] một ngôi nhà mới cho ba mẹ mình.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng BUILDS (cho chủ thể ngôi thứ ba số ít he) để chỉ việc làm diễn ra mang tính thường xuyên hoặc kế hoạch đang thực hiện.</li>
 			
-					<li>they [BUILT] a SMALL BRIDGE <strong>o</strong>verthe RIVER [LAST YEAR].</li>
+					<li>they [BUILT] a SMALL BRIDGE <strong>o</strong>ver the RIVER [LAST YEAR].</li>
 					<li className="list-none">Họ [đã xây] một cây cầu nhỏ bắc qua sông [vào năm ngoái].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng BUILT để chỉ việc đã hoàn tất hoàn toàn trong quá khứ, đi kèm mốc thời gian rõ ràng là LAST YEAR.</li>
 			

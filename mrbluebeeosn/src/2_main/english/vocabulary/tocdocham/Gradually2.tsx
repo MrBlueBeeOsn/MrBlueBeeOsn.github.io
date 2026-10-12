@@ -103,35 +103,35 @@ export default function GRADually2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="inCREASED-throughout-the">the TEMPERature GRADually [inCREASED through<strong>out</strong> the] DAY.</li>
-        <li className="list-none margin-bottom-20">Nhiệt độ [tăng] dần [suốt] cả ngày.</li>
+        <li value="1" id="inCREASED-throughout-the">the TEMPERature GRADually inCREASED through<strong>out</strong> the DAY.</li>
+        <li className="list-none margin-bottom-20">Nhiệt độ tăng dần trong suốt cả ngày.</li>
 
-        <li value="2" id="deCREASED-as">the NOISE GRADually [deCREASED as] we MOVED FARther aWAY.</li>
-        <li className="list-none margin-bottom-20">Tiếng ồn [giảm] dần [khi] chúng tôi đi xa hơn.</li>
+        <li value="2" id="deCREASED-as">the NOISE GRADually deCREASED as we MOVED FARther aWAY.</li>
+        <li className="list-none margin-bottom-20">Tiếng ồn dần dần giảm bớt khi chúng tôi di chuyển ra xa hơn.</li>
 
-        <li value="3" id="reCOVered-from">she GRADually [reCOVered from] her ILLness.</li>
-        <li className="list-none margin-bottom-20">Cô ấy dần dần [hồi phục] sức khỏe sau khi ốm.</li>
+        <li value="3" id="reCOVered-from">she GRADually reCOVered from her ILLness.</li>
+        <li className="list-none margin-bottom-20">Cô ấy dần dần hồi phục sau cơn bệnh.</li>
 
-        <li value="4" id="CHANGED-over">the CLImate GRADually [CHANGED <strong>o</strong>ver] MILlions of YEARS.</li>
-        <li className="list-none margin-bottom-20">Khí hậu [thay đổi] dần [trong] hàng triệu năm.</li>
+        <li value="4" id="CHANGED-over">the CLImate GRADually CHANGED <strong>o</strong>ver MILlions of YEARS.</li>
+        <li className="list-none margin-bottom-20">Khí hậu đã thay đổi dần dần trong hàng triệu năm.</li>
 
-        <li value="5" id="imPROVED-after">his ENGlish GRADually [imPROVED <strong>af</strong>ter] STUDying for a YEAR.</li>
-        <li className="list-none margin-bottom-20">Tiếng Anh của anh ấy [cải thiện] dần [sau khi] học một năm.</li>
+        <li value="5" id="imPROVED-after">his ENGlish GRADually imPROVED <strong>af</strong>ter STUDying for a YEAR.</li>
+        <li className="list-none margin-bottom-20">Tiếng Anh của anh ấy đã dần dần tiến bộ sau một năm học.</li>
 
-        <li value="6" id="FAded-as-the">the SUNlight GRADually [FAded as the] DAY TURNED into NIGHT.</li>
-        <li className="list-none margin-bottom-20">Ánh nắng mặt trời dần dần [mờ nhạt khi] ngày chuyển sang đêm.</li>
+        <li value="6" id="FAded-as-the">the SUNlight GRADually FAded as the DAY TURNED into NIGHT.</li>
+        <li className="list-none margin-bottom-20">Ánh nắng mặt trời dần dần nhạt đi khi ngày chuyển sang đêm.</li>
 
-        <li value="7" id="disapPEARED-after">the PAIN GRADually [disapPEARED <strong>af</strong>ter] TAKing the MEDicine.</li>
-        <li className="list-none margin-bottom-20">Cơn đau dần dần [biến mất sau khi] uống thuốc.</li>
+        <li value="7" id="disapPEARED-after">the PAIN GRADually disapPEARED <strong>af</strong>ter TAKing the MEDicine.</li>
+        <li className="list-none margin-bottom-20">Cơn đau dần dần biến mất sau khi uống thuốc.</li>
 
-        <li value="8" id="deVELoped-into">the CIty GRADually [deVELoped <strong>in</strong>to] a MAjor meTROPolis.</li>
-        <li className="list-none margin-bottom-20">Thành phố dần dần [phát triển thành] một đô thị lớn.</li>
+        <li value="8" id="deVELoped-into">the CIty GRADually deVELoped <strong>in</strong>to a MAjor meTROPolis.</li>
+        <li className="list-none margin-bottom-20">Thành phố này dần dần phát triển thành một đô thị lớn.</li>
 
-        <li value="9" id="aDAPTed-to-the">she GRADually [aDAPTed to the] NEW enVIronment.</li>
-        <li className="list-none margin-bottom-20">Cô ấy dần dần [thích nghi với] môi trường mới.</li>
+        <li value="9" id="aDAPTed-to-the">she GRADually aDAPTed to the NEW enVIronment.</li>
+        <li className="list-none margin-bottom-20">Cô ấy dần dần thích nghi với môi trường mới.</li>
 
-        <li value="10" id="deCLINED-after-the">his HEALTH GRADually [deCLINED <strong>af</strong>ter the] ACcident.</li>
-        <li className="list-none margin-bottom-20">Sức khỏe của ông ấy dần dần [suy giảm sau] tai nạn.</li>
+        <li value="10" id="deCLINED-after-the">his HEALTH GRADually deCLINED <strong>af</strong>ter the ACcident.</li>
+        <li className="list-none margin-bottom-20">Sức khỏe của anh ấy dần dần suy giảm sau vụ tai nạn.</li>
 
       </ol>
 

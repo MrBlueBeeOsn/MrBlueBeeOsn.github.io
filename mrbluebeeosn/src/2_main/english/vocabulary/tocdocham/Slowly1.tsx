@@ -79,7 +79,7 @@ export default function SLOWly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Chậm rãi</li>
+            <li>Từ từ</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function SLOWly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>SLOWly</strong>" được dùng để miêu tả một hành động được thực hiện ở tốc độ chậm, không nhanh. Nó có thể diễn tả sự chậm chạp, từ tốn hoặc sự trì hoãn.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>SLOWly</strong>" được dùng để miêu tả một hành động được thực hiện ở tốc độ từ từ, không nhanh. Nó có thể diễn tả sự chậm chạp, từ tốn hoặc sự trì hoãn.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she WALKED SLOWly down the STREET.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đi bộ chậm rãi trên đường phố.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đi bộ chậm rãi dọc theo con phố.</li>
 
           <li>TIME PASSED SLOWly as i WAITed.</li>
-          <li className="list-none">Thời gian trôi qua chậm rãi khi tôi chờ đợi.</li>
+          <li className="list-none">Thời gian trôi qua chậm chạp trong lúc tôi chờ đợi.</li>
 
         </ul>
 
@@ -121,7 +121,7 @@ export default function SLOWly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Anh ấy là một người chạy chậm.</li>
 
           <li id="NOUN">the SLOWness of the TRAFfic anNOYED me.</li>
-          <li className="list-none">Sự chậm chạp của giao thông làm tôi khó chịu.</li>
+          <li className="list-none">Tình trạng giao thông chậm chạp khiến tôi bực mình.</li>
 
         </ul>
 
@@ -141,7 +141,7 @@ export default function SLOWly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
 
           <li>SLOWly but <Link to="/vocabulary/SUREly-1">SUREly</Link>, she was MAking PROgress.</li>
-          <li className="list-none">Chậm mà chắc, cô ấy đang tiến bộ.</li>
+          <li className="list-none">Dù chậm nhưng chắc chắn, cô ấy đang có những bước tiến.</li>
 
         </ul>
 
@@ -160,7 +160,7 @@ export default function SLOWly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he RAN <Link to="/vocabulary/QUICKly-1">QUICKly</Link> to CATCH the BUS.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy chạy nhanh để bắt xe buýt.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy chạy thật nhanh để kịp lên xe buýt.</li>
 
           <li>the diSEASE SPREAD <Link to="/vocabulary/RAPidly-1">RAPidly</Link>.</li>
           <li className="list-none">Bệnh lây lan rất nhanh.</li>
@@ -189,7 +189,7 @@ export default function SLOWly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the TURtle MOVES as SLOWly as a SNAIL.</li>
-          <li className="list-none">Con rùa di chuyển chậm như ốc sên.</li>
+          <li className="list-none">Con rùa di chuyển chậm như con ốc sên.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function SLOWly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the CLOCK TICKED SLOWly.</li>
-          <li className="list-none">Đồng hồ tích tắc chậm rãi.</li>
+          <li className="list-none">Chiếc đồng hồ tích tắc chậm rãi.</li>
 
         </ul>
 
@@ -231,16 +231,16 @@ export default function SLOWly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he FINished his WORK.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc của mình.</li>
 
             <li value="2">he SLOWly FINished his WORK.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc một cách chậm rãi.</li>
+            <li className="list-none margin-bottom-20">Anh ấy từ từ hoàn thành công việc của mình.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng anh ấy <span className="highlight-255-padding-0-4">đã hoàn thành công việc với tốc độ chậm</span>.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng anh ấy <span className="highlight-255-padding-0-4">đã hoàn thành công việc với tốc độ từ từ.</span>.</p>
 
       </div>
 

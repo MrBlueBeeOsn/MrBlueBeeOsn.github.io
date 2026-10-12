@@ -75,7 +75,7 @@ export default function beLAtedly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Muộn màng, chậm trễ</li>
+            <li>Muộn màng</li>
 
           </ul>
 
@@ -94,13 +94,13 @@ export default function beLAtedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">he beLAtedly REalized his misTAKE.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy muộn màng nhận ra sai lầm của mình.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã nhận ra sai lầm của mình quá muộn.</li>
 
           <li>the BIRTHday CARD arRIVED beLAtedly.</li>
-          <li className="margin-bottom-20 list-none">Tấm thiệp sinh nhật đến muộn.</li>
+          <li className="margin-bottom-20 list-none">Thiệp sinh nhật đã đến muộn.</li>
 
           <li>she beLAtedly aPOLogized for her beHAVior.</li>
-          <li className="list-none">Cô ấy muộn màng xin lỗi về hành vi của mình.</li>
+          <li className="list-none">Cô ấy đã muộn màng xin lỗi về hành vi của mình.</li>
 
         </ul>
 
@@ -117,10 +117,10 @@ export default function beLAtedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he OFfered a beLAted aPOLogy.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đưa ra một lời xin lỗi muộn màng.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã gửi lời xin lỗi muộn màng.</li>
 
           <li>we reCEIVED a beLAted inviTAtion.</li>
-          <li className="list-none">Chúng tôi nhận được một lời mời muộn.</li>
+          <li className="list-none">Chúng tôi đã nhận được một lời mời muộn màng.</li>
 
         </ul>
 
@@ -137,16 +137,16 @@ export default function beLAtedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he arRIVED LATE for the MEEting.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đến muộn cho cuộc họp.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đến muộn trong cuộc họp.</li>
 
           <li>the TRAIN arRIVED TARdily.</li>
           <li className="margin-bottom-20 list-none">Chuyến tàu đến muộn.</li>
 
           <li>the PROJect is RUNning beHIND SCHEDule.</li>
-          <li className="margin-bottom-20 list-none">Dự án đang bị chậm hơn lịch trình.</li>
+          <li className="margin-bottom-20 list-none">Dự án đang bị chậm tiến độ.</li>
 
           <li>it was TOO LATE to aPOLogize.</li>
-          <li className="list-none">Đã quá muộn để xin lỗi.</li>
+          <li className="list-none">Đã quá muộn để xin lỗi rồi.</li>
 
         </ul>
 
@@ -165,16 +165,16 @@ export default function beLAtedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he arRIVED EARly for the apPOINTment.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đến sớm cho cuộc hẹn.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đến sớm hơn giờ hẹn.</li>
 
           <li>she rePLIED PROMPTly to the EMail.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy trả lời email một cách nhanh chóng.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã trả lời email ngay lập tức.</li>
 
           <li>the MEEting STARted PUNCtually.</li>
           <li className="margin-bottom-20 list-none">Cuộc họp bắt đầu đúng giờ.</li>
 
           <li>PLEASE rePORT any ISsues imMEdiately.</li>
-          <li className="list-none">Vui lòng báo cáo mọi vấn đề ngay lập tức.</li>
+          <li className="list-none">Xin vui lòng báo cáo ngay lập tức bất kỳ sự cố nào.</li>
 
         </ul>
       
@@ -200,13 +200,13 @@ export default function beLAtedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the BIRTHday GIFT arRIVED beLAtedly.</li>
-          <li className="margin-bottom-20 list-none">Món quà sinh nhật đến muộn.</li>
+          <li className="margin-bottom-20 list-none">Món quà sinh nhật đã đến muộn.</li>
 
           <li>he beLAtedly REalized his misTAKE <strong>af</strong>ter the CONsequences.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy muộn màng nhận ra lỗi lầm sau hậu quả.</li>
+          <li className="margin-bottom-20 list-none">Anh ta chỉ nhận ra sai lầm của mình quá muộn, sau khi hậu quả đã xảy ra.</li>
 
           <li>the aPOLogy was OFfered beLAtedly to MEND the reLAtionship.</li>
-          <li className="list-none">Lời xin lỗi được đưa ra muộn màng để hàn gắn mối quan hệ.</li>
+          <li className="list-none">Lời xin lỗi đã được đưa ra muộn màng nhằm hàn gắn mối quan hệ.</li>
 
         </ul>
 
@@ -226,7 +226,7 @@ export default function beLAtedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the FIRE dePARTment arRIVED beLAtedly at the SCENE.</li>
-          <li className="list-none">Sở cứu hỏa đến hiện trường một cách muộn màng.</li>
+          <li className="list-none">Lực lượng cứu hỏa đã đến hiện trường muộn.</li>
 
         </ul>
 
@@ -248,10 +248,10 @@ export default function beLAtedly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he REalized his misTAKE.</li>
-            <li className="list-none margin-bottom-20">Anh ấy nhận ra sai lầm của mình.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã nhận ra sai lầm của mình.</li>
 
             <li value="2">he beLAtedly REalized his misTAKE.</li>
-            <li className="list-none margin-bottom-20">Anh ấy muộn màng nhận ra sai lầm của mình.</li>
+            <li className="list-none margin-bottom-20">Anh ta đã nhận ra sai lầm của mình quá muộn.</li>
 
           </ol>
 
@@ -264,10 +264,10 @@ export default function beLAtedly1(): React.JSX.Element {
          <ol>
 
             <li>the BIRTHday CARD arRIVED.</li>
-            <li className="list-none margin-bottom-20">Tấm thiệp sinh nhật đã đến.</li>
+            <li className="list-none margin-bottom-20">Thiệp sinh nhật đã đến rồi.</li>
 
             <li value="2">the BIRTHday CARD arRIVED beLAtedly.</li>
-            <li className="list-none margin-bottom-20">Tấm thiệp sinh nhật đến muộn.</li>
+            <li className="list-none margin-bottom-20">Thiệp sinh nhật đã đến muộn.</li>
 
           </ol>
 

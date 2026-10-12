@@ -94,10 +94,10 @@ export default function LAzily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">he LAzily FLIPPED through the PAges of the BOOK.</li>
-          <li className="margin-bottom-20 list-none">Anh ta lật sách một cách lười biếng.</li>
+          <li className="margin-bottom-20 list-none">Anh ta lười biếng lật qua các trang của cuốn sách.</li>
 
           <li>the CAT LAzily SUNbathed on the PORCH.</li>
-          <li className="list-none">Con mèo lười biếng nằm phơi nắng trên hiên nhà.</li>
+          <li className="list-none">Con mèo lười biếng phơi nắng trên hiên nhà.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function LAzily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">she is TOO LAzy to CLEAN her ROOM.</li>
-          <li className="list-none">Cô ấy quá lười để dọn phòng.</li>
+          <li className="list-none">Cô ấy quá lười để dọn phòng của mình.</li>
 
         </ul>
 
@@ -131,7 +131,7 @@ export default function LAzily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she IDly WATCHED the TV.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy xem TV một cách nhàn rỗi.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy lơ đãng xem tivi.</li>
 
           <li>the eCONomy is GROWing SLUGgishly.</li>
           <li className="list-none">Nền kinh tế đang tăng trưởng chậm chạp.</li>
@@ -153,10 +153,10 @@ export default function LAzily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he WORKED enerGETically on the PROJect.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy làm việc rất năng động trong dự án.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã làm việc rất hăng hái trong dự án này.</li>
 
           <li>she STUDied <Link to="/vocabulary/DILiGENTly-1">DILigently</Link> for the eXAM.</li>
-          <li className="list-none">Cô ấy học hành rất siêng năng để chuẩn bị cho kỳ thi.</li>
+          <li className="list-none">Cô ấy đã học hành chăm chỉ để chuẩn bị cho kỳ thi.</li>
 
         </ul>
       
@@ -182,7 +182,7 @@ export default function LAzily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he LAzily STRETCHED on the COUCH.</li>
-          <li className="list-none">Anh ta lười biếng nằm dài trên ghế sofa.</li>
+          <li className="list-none">Anh ta uể oải duỗi người trên ghế sofa.</li>
 
         </ul>
 
@@ -202,7 +202,7 @@ export default function LAzily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the DOG LAzily CHEWED on its BONE.</li>
-          <li className="list-none">Con chó lười biếng gặm xương.</li>
+          <li className="list-none">Con chó lười biếng nhai chiếc xương của nó.</li>
 
         </ul>
 
@@ -224,10 +224,10 @@ export default function LAzily1(): React.JSX.Element {
           <ol>
 
             <li value="1">he FINished his WORK.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc của mình.</li>
 
             <li value="2">he LAzily FINished his WORK.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc một cách lười biếng.</li>
+            <li className="list-none margin-bottom-20">Anh ta lười biếng hoàn thành công việc của mình.</li>
 
           </ol>
 
