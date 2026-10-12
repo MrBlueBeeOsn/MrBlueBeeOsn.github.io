@@ -333,8 +333,8 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>Ví dụ 1: upGRADing [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] + the SYStem [NOUN as HEAD][DANH làm LÕI]</li>
 					<li className="margin-bottom-20 list-none">→ upGRADing the SYStem [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU].</li>
 			
-					<li>Ví dụ 2: to coORdinate [to-infiniTIval][TO-NGUYÊN] + efFIciently [ADverb HEAD][TRẠNG LÕI]</li>
-					<li className="margin-bottom-20 list-none">→ to coORdinate efFIciently [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU].</li>
+					<li>Ví dụ 2: to coORdinate [to-infiniTIval][TO-NGUYÊN] + efFICiently [ADverb HEAD][TRẠNG LÕI]</li>
+					<li className="margin-bottom-20 list-none">→ to coORdinate efFICiently [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU].</li>
 			
 					<li>Ví dụ 3: will IMplement [PREDicator][VỊ] + the STRATegy [COMplement][BỔ]</li>
 					<li className="list-none">→ will IMplement the STRATegy [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase].</li>

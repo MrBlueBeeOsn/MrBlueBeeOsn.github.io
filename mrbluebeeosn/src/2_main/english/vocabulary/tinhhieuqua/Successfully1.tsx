@@ -79,7 +79,7 @@ export default function sucCESSfully1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách thành công</li>
+            <li>Thành công</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function sucCESSfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she sucCESSfully PASSED the eXAM.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã vượt qua kỳ thi một cách thành công.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã thi đỗ kỳ thi.</li>
 
           <li>the PROBlem was comPLEted on TIME.</li>
-          <li className="list-none">Dự án đã được hoàn thành đúng hạn.</li>
+          <li className="list-none">Vấn đề đã được giải quyết đúng hạn.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function sucCESSfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the PARTy was a sucCESSful eVENT.</li>
-          <li className="list-none">Bữa tiệc là một sự kiện thành công.</li>
+          <li className="list-none">Buổi tiệc là một sự kiện thành công.</li>
 
           <li id="NOUN">his sucCESS was due to HARD WORK.</li>
-          <li className="margin-bottom-20 list-none">Sự thành công của anh ấy là nhờ làm việc chăm chỉ.</li>
+          <li className="margin-bottom-20 list-none">Thành công của anh ấy là nhờ sự nỗ lực không ngừng.</li>
 
         </ul>
 
@@ -138,7 +138,7 @@ export default function sucCESSfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the TEAM triUMphantly WON the CHAMpionship.</li>
-          <li className="margin-bottom-20 list-none">Đội đã chiến thắng giải vô địch một cách vẻ vang.</li>
+          <li className="margin-bottom-20 list-none">Đội đã chiến thắng vang dội và giành chức vô địch.</li>
 
           <li>the PROBlem was satisFACtorily reSOLVED.</li>
           <li className="list-none">Vấn đề đã được giải quyết một cách thỏa đáng.</li>
@@ -160,10 +160,10 @@ export default function sucCESSfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he unsucCESSfully TRIED to Open the DOOR.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã cố gắng mở cửa nhưng không thành công.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã cố mở cửa nhưng không thành công.</li>
 
           <li>the TASK was comPLEted unsatisFACtorily.</li>
-          <li className="list-none">Công việc đã được hoàn thành một cách không thỏa đáng.</li>
+          <li className="list-none">Nhiệm vụ đã được hoàn thành một cách không thỏa đáng.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function sucCESSfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she has sucCESSfully WON the aWARD.</li>
-          <li className="list-none">Cô ấy đã giành được giải thưởng.</li>
+          <li className="list-none">Cô ấy đã giành được giải thưởng này một cách xuất sắc.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function sucCESSfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she sucCESSfully deFENDed her THEsis.</li>
-          <li className="list-none">Cô ấy đã bảo vệ thành công luận văn của mình.</li>
+          <li className="list-none">Cô ấy đã bảo vệ thành công luận án của mình.</li>
 
         </ul>
 
@@ -231,10 +231,10 @@ export default function sucCESSfully1(): React.JSX.Element {
           <ol>
 
             <li value="1">he TRIED to CLIMB the MOUNtain.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã cố gắng leo lên núi.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã cố gắng leo lên ngọn núi.</li>
 
             <li value="2">he sucCESSfully CLIMBED the MOUNtain.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã leo lên núi một cách thành công.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã leo lên đỉnh núi thành công.</li>
 
           </ol>
 

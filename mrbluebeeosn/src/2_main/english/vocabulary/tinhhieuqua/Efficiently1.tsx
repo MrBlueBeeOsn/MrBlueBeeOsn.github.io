@@ -73,7 +73,7 @@ export default function efFICiently1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                efFIciently \<Link to="/pronunciation/5-vowel-system">ef FIC ie̛nt ly</Link>\ /ɪˈfɪʃəntli/ •⬤•• (FOUR SYLlables)
+                efFICiently \<Link to="/pronunciation/5-vowel-system">ef FIC ie̛nt ly</Link>\ /ɪˈfɪʃəntli/ •⬤•• (FOUR SYLlables)
               </span>
             </li>
 
@@ -98,9 +98,9 @@ export default function efFICiently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she comPLETEd the TASK efFICiently.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy hoàn thành công việc một cách hiệu quả.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã hoàn thành nhiệm vụ một cách hiệu quả.</li>
 
-          <li>THIS NEW SOFTware will HELP us WORK MORE efFICiently.</li>
+          <li>this NEW SOFTware will HELP us WORK MORE efFICiently.</li>
           <li className="list-none">Phần mềm mới này sẽ giúp chúng ta làm việc hiệu quả hơn.</li>
 
         </ul>
@@ -118,10 +118,10 @@ export default function efFICiently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is a VERy efFICient WORKer.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy là một người lao động rất hiệu quả.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy là một người làm việc rất hiệu quả.</li>
 
           <li id="NOUN">the efFICiency of this maCHINE is reMARKable.</li>
-          <li className="list-none">Hiệu quả của máy này thật đáng chú ý.</li>
+          <li className="list-none">Hiệu suất của chiếc máy này thật đáng kinh ngạc.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function efFICiently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the MEDicine WORKED <Link to="/vocabulary/efFECTively-1">efFECTively</Link>.</li>
-          <li className="margin-bottom-20 list-none">Thuốc có tác dụng hiệu quả.</li>
+          <li className="margin-bottom-20 list-none">Thuốc đã phát huy tác dụng hiệu quả.</li>
 
           <li>we NEED to WORK MORE <Link to="/vocabulary/proDUCTively-1">proDUCTively</Link> to MEET the DEADline.</li>
-          <li className="list-none">Chúng ta cần làm việc năng suất hơn để kịp tiến độ.</li>
+          <li className="list-none">Chúng ta cần làm việc hiệu quả hơn để đáp ứng thời hạn.</li>
 
         </ul>
 
@@ -163,7 +163,7 @@ export default function efFICiently1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Hệ thống cũ hoạt động không hiệu quả.</li>
 
           <li>he SPENT his MONey WASTEfully.</li>
-          <li className="list-none">Anh ta tiêu tiền một cách lãng phí.</li>
+          <li className="list-none">Anh ta đã tiêu tiền một cách hoang phí.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function efFICiently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he is WORKing VERy efFICiently to FINish the TASK.</li>
-          <li className="list-none">Anh ấy đang làm việc rất hiệu quả để hoàn thành công việc.</li>
+          <li className="list-none">Anh ấy đang làm việc rất hiệu quả để hoàn thành nhiệm vụ.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function efFICiently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she efFICiently MANaged her TIME to FINish all her TASKS.</li>
-          <li className="list-none">Cô ấy đã quản lý thời gian một cách hiệu quả để hoàn thành tất cả công việc của mình.</li>
+          <li className="list-none">Cô ấy đã quản lý thời gian một cách hiệu quả để hoàn thành tất cả các nhiệm vụ của mình.</li>
 
         </ul>
 
@@ -231,10 +231,10 @@ export default function efFICiently1(): React.JSX.Element {
           <ol>
 
             <li value="1">he FINished the rePORT.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành báo cáo.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành bản báo cáo.</li>
 
             <li value="2">he FINished the rePORT efFICiently in JUST ONE HOUR.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành báo cáo một cách hiệu quả chỉ trong một giờ.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành bản báo cáo một cách hiệu quả chỉ trong vòng một giờ.</li>
 
           </ol>
 

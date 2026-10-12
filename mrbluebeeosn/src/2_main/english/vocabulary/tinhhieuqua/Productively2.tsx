@@ -75,7 +75,7 @@ export default function proDUCTively2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>proDUCTively</strong>" (một cách hiệu quả) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>proDUCTively</strong>" (hiệu quả) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function proDUCTively2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="WORKED">the TEAM [WORKED] proDUCTively to MEET the PROJect DEADline.</li>
-        <li className="list-none margin-bottom-20">Cả đội [đã làm việc] một cách hiệu quả để kịp thời hạn của dự án.</li>
+        <li value="1" id="WORKED">the TEAM WORKED proDUCTively to MEET the PROJect DEADline.</li>
+        <li className="list-none margin-bottom-20">Nhóm đã làm việc hiệu quả để hoàn thành dự án đúng hạn.</li>
 
-        <li value="2" id="USED">she proDUCTively [USED] her TIME to LEARN a NEW SKILL.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [đã sử dụng] thời gian của mình một cách hiệu quả để học một kỹ năng mới.</li>
+        <li value="2" id="USED">she proDUCTively USED her TIME to LEARN a NEW SKILL.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã sử dụng thời gian của mình một cách hiệu quả để học một kỹ năng mới.</li>
 
-        <li value="3" id="SPENT">he proDUCTively [SPENT] his MORNing WRITing rePORTS.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [đã dành] buổi sáng của mình một cách hiệu quả để viết báo cáo.</li>
+        <li value="3" id="SPENT">he proDUCTively SPENT his MORNing WRITing rePORTS.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã dành buổi sáng của mình một cách hiệu quả để viết báo cáo.</li>
 
-        <li value="4" id="MANaged">the MANager proDUCTively [MANaged] the TEAM'S REsources.</li>
-        <li className="list-none margin-bottom-20">Người quản lý [đã quản lý] các nguồn lực của nhóm một cách hiệu quả.</li>
+        <li value="4" id="MANaged">the MANager proDUCTively MANaged the TEAM'S REsources.</li>
+        <li className="list-none margin-bottom-20">Người quản lý đã quản lý hiệu quả các nguồn lực của đội ngũ.</li>
 
-        <li value="5" id="ORganized">she proDUCTively [ORganized] her WORKspace to imPROVE efFICiency.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [đã sắp xếp] không gian làm việc của mình một cách hiệu quả để nâng cao năng suất.</li>
+        <li value="5" id="ORganized">she proDUCTively ORganized her WORKspace to imPROVE efFICiency.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã sắp xếp không gian làm việc của mình một cách hiệu quả để nâng cao hiệu suất.</li>
 
-        <li value="6" id="comMUnicated">the TEAM proDUCTively [comMUnicated] their PROGress <strong>dur</strong>ing the MEEting.</li>
-        <li className="list-none margin-bottom-20">Cả đội [đã giao tiếp] một cách hiệu quả về tiến độ của họ trong cuộc họp.</li>
+        <li value="6" id="comMUnicated">the TEAM proDUCTively comMUnicated their PROGress <strong>dur</strong>ing the MEEting.</li>
+        <li className="list-none margin-bottom-20">Nhóm đã trao đổi hiệu quả về tiến độ công việc của mình trong cuộc họp.</li>
 
-        <li value="7" id="colLABorated-on">the TWO dePARTments proDUCTively [colLABorated on] the JOINT PROJect.</li>
-        <li className="list-none margin-bottom-20">Hai phòng ban [đã hợp tác] một cách hiệu quả trong dự án chung.</li>
+        <li value="7" id="colLABorated-on">the TWO dePARTments proDUCTively colLABorated on the JOINT PROJect.</li>
+        <li className="list-none margin-bottom-20">Hai phòng ban đã hợp tác hiệu quả trong dự án chung này.</li>
 
-        <li value="8" id="LEARNED">he proDUCTively [LEARNED] the NEW SOFTware by PRACticing REGularly.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [đã học] phần mềm mới một cách hiệu quả bằng cách luyện tập thường xuyên.</li>
+        <li value="8" id="LEARNED">he proDUCTively LEARNED the NEW SOFTware by PRACticing REGularly.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã học cách sử dụng phần mềm mới một cách hiệu quả nhờ thực hành thường xuyên.</li>
 
-        <li value="9" id="PLANNED">hey proDUCTively [PLANNED] the eVENT to enSURE everything RAN SMOOTHly.</li>
-        <li className="list-none margin-bottom-20">Họ [đã lên kế hoạch] cho sự kiện một cách hiệu quả để đảm bảo mọi thứ diễn ra suôn sẻ.</li>
+        <li value="9" id="PLANNED">they proDUCTively PLANNED the eVENT to enSURE everything RAN SMOOTHly.</li>
+        <li className="list-none margin-bottom-20">Họ đã lên kế hoạch cho sự kiện một cách hiệu quả để đảm bảo mọi việc diễn ra suôn sẻ.</li>
 
-        <li value="10" id="conTRIButed">each MEMber proDUCTively [conTRIButed] their SKILLS to the TEAM'S sucCESS.</li>
-        <li className="list-none margin-bottom-20">Mỗi thành viên [đã đóng góp] kỹ năng của mình một cách hiệu quả vào thành công của đội.</li>
+        <li value="10" id="conTRIButed">each MEMber proDUCTively conTRIButed their SKILLS to the TEAM'S sucCESS.</li>
+        <li className="list-none margin-bottom-20">Mỗi thành viên đều đã đóng góp hiệu quả những kỹ năng của mình vào thành công của đội.</li>
 
       </ol>
 

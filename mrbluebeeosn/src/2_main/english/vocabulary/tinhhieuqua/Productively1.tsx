@@ -83,7 +83,7 @@ export default function proDUCTively1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách hiệu quả, năng suất, có ích</li>
+            <li>Hiệu quả</li>
 
           </ul>
 
@@ -102,13 +102,13 @@ export default function proDUCTively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she SPENT her MORNing proDUCTively, FINishING <strong>sever</strong>al imPORTant TASKS.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành nhiều nhiệm vụ quan trọng.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành một số công việc quan trọng.</li>
 
           <li>the TEAM WORKED proDUCTively toGETHer to MEET the DEADline.</li>
-          <li className="margin-bottom-20 list-none">Cả đội đã làm việc hiệu quả cùng nhau để kịp thời hạn.</li>
+          <li className="margin-bottom-20 list-none">Cả nhóm đã làm việc hiệu quả cùng nhau để hoàn thành công việc đúng hạn.</li>
 
           <li>he USED his FREE TIME proDUCTively by LEARNing a NEW SKILL.</li>
-          <li className="list-none">Anh ấy đã sử dụng thời gian rảnh rỗi của mình một cách có ích bằng cách học một kỹ năng mới.</li>
+          <li className="list-none">Anh ấy đã tận dụng thời gian rảnh rỗi của mình một cách hiệu quả bằng cách học một kỹ năng mới.</li>
 
         </ul>
 
@@ -131,13 +131,13 @@ export default function proDUCTively1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Anh ấy là một thành viên năng suất của đội.</li>
 
           <li id="VERB">the FACtory proDUces CARS.</li>
-          <li className="margin-bottom-20 list-none">Nhà máy sản xuất ô tô.</li>
+          <li className="margin-bottom-20 list-none">Nhà máy này sản xuất ô tô.</li>
 
           <li id="NOUN">they SELL FRESH PROduce at the MARket.</li>
-          <li className="margin-bottom-20 list-none">Họ bán nông sản tươi tại chợ.</li>
+          <li className="margin-bottom-20 list-none">Họ bán các loại rau củ quả tươi tại chợ.</li>
 
           <li className="list-none">the COMpany is FOcused on imPROVing producTIVity.</li>
-          <li className="list-none">Công ty đang tập trung vào việc cải thiện năng suất.</li>
+          <li className="list-none">Công ty tập trung vào việc nâng cao năng suất.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function proDUCTively1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Chiến lược mới đã được triển khai một cách hiệu quả.</li>
 
           <li>they colLABorated FRUITfully on the PROJect.</li>
-          <li className="margin-bottom-20 list-none">Họ đã hợp tác hiệu quả trong dự án.</li>
+          <li className="margin-bottom-20 list-none">Họ đã hợp tác rất hiệu quả trong dự án này.</li>
 
           <li>he SPENT his TIME USEfully volunTEERing.</li>
-          <li className="list-none">Anh ấy đã dành thời gian của mình một cách hữu ích để tình nguyện.</li>
+          <li className="list-none">Anh ấy đã dành thời gian của mình một cách hữu ích để tham gia hoạt động tình nguyện.</li>
 
         </ul>
 
@@ -182,17 +182,16 @@ export default function proDUCTively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the PROJect was MANaged inefFICiently.</li>
-          <li className="margin-bottom-20 list-none">Quy trình đã được quản lý một cách không hiệu quả.</li>
+          <li className="margin-bottom-20 list-none">Dự án đã được quản lý một cách thiếu hiệu quả.</li>
 
           <li>he SPENT the WHOLE DAY unproDUCTively.</li>
-          <li className="list-none">He spent the whole day unproductively.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã dành cả ngày một cách không hiệu quả.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã dành cả ngày mà chẳng làm được việc gì.</li>
 
           <li>they USED REsources WASTEfully.</li>
           <li className="margin-bottom-20 list-none">Họ đã sử dụng tài nguyên một cách lãng phí.</li>
 
           <li>he SAT Idly by while OTHers WORKED.</li>
-          <li className="list-none">Anh ấy ngồi nhàn rỗi trong khi những người khác làm việc.</li>
+          <li className="list-none">Anh ta chỉ ngồi không trong khi những người khác làm việc.</li>
 
         </ul>
       
@@ -218,13 +217,13 @@ export default function proDUCTively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he WORKED proDUCTively and acCOMplished a LOT.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy làm việc hiệu quả và hoàn thành nhiều việc.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã làm việc rất hiệu quả và đạt được rất nhiều thành tựu.</li>
 
           <li>the GARden GREW proDUCTively, YIELding aBUNdant FRUITS and FLOWers.</li>
-          <li className="margin-bottom-20 list-none">Khu vườn phát triển tươi tốt, cho nhiều hoa trái.</li>
+          <li className="margin-bottom-20 list-none">Khu vườn phát triển tươi tốt, cho ra những trái cây và hoa tươi tốt.</li>
 
           <li>the TEAM MET proDUCTively, GENerating NUmerous iDEaS.</li>
-          <li className="list-none">Nhóm đã họp hiệu quả, đưa ra nhiều ý tưởng.</li>
+          <li className="list-none">Nhóm đã làm việc hiệu quả, nảy sinh ra rất nhiều ý tưởng.</li>
 
         </ul>
 
@@ -244,7 +243,7 @@ export default function proDUCTively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i PLAN to USE my comMUTE TIME proDUCTively by LIStening to PODcasts.</li>
-          <li className="list-none">Tôi dự định sử dụng thời gian đi làm một cách hiệu quả bằng cách nghe podcast.</li>
+          <li className="list-none">Tôi dự định sẽ tận dụng thời gian đi làm một cách hiệu quả bằng cách nghe các chương trình podcast.</li>
 
         </ul>
 
@@ -266,10 +265,10 @@ export default function proDUCTively1(): React.JSX.Element {
           <ol>
 
             <li value="1">she SPENT her MORNing WORKing.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đã dành buổi sáng của mình để làm việc.</li>
+            <li className="list-none margin-bottom-20">Cô ấy đã dành cả buổi sáng để làm việc.</li>
 
             <li value="2">she SPENT her MORNing proDUCTively, FINishING <strong>sever</strong>al imPORTant TASKS.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành nhiều nhiệm vụ quan trọng.</li>
+            <li className="list-none margin-bottom-20">Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành một số công việc quan trọng.</li>
 
           </ol>
 
@@ -282,10 +281,10 @@ export default function proDUCTively1(): React.JSX.Element {
       <ol>
 
             <li>the TEAM WORKED toGETHer to MEET the DEADline.</li>
-            <li className="list-none margin-bottom-20">Cả đội đã làm việc cùng nhau để kịp thời hạn.</li>
+            <li className="list-none margin-bottom-20">Cả nhóm đã cùng nhau nỗ lực để hoàn thành công việc đúng hạn.</li>
 
             <li value="2">the TEAM WORKED proDUCTively toGETHer to MEET the DEADline.</li>
-            <li className="list-none margin-bottom-20">Cả đội đã làm việc hiệu quả cùng nhau để kịp thời hạn.</li>
+            <li className="list-none margin-bottom-20">Cả nhóm đã làm việc hiệu quả cùng nhau để hoàn thành công việc đúng hạn.</li>
 
           </ol>
 
@@ -298,10 +297,10 @@ export default function proDUCTively1(): React.JSX.Element {
           <ol>
 
             <li>he USED his FREE TIME by LEARNing a NEW SKILL.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã sử dụng thời gian rảnh rỗi của mình bằng cách học một kỹ năng mới.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã tận dụng thời gian rảnh rỗi để học một kỹ năng mới.</li>
 
             <li value="2">he USED his FREE TIME proDUCTively by LEARNing a NEW SKILL.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã sử dụng thời gian rảnh rỗi của mình một cách có ích bằng cách học một kỹ năng mới.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã tận dụng thời gian rảnh rỗi của mình một cách hiệu quả bằng cách học một kỹ năng mới.</li>
 
           </ol>
 

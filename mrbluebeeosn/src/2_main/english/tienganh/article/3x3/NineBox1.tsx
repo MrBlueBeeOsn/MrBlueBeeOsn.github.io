@@ -412,12 +412,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the MIcroservice is [HANdling USer TRAFfic efFIciently].</li>
+					<li>the MIcroservice is [HANdling USer TRAFfic efFICiently].</li>
 					<li className="margin-bottom-20 list-none">Dịch vụ nhỏ [đang xử lý lưu lượng truy cập người dùng hiệu quả].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HANdling USer TRAFfic efFIciently] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng sau kết hợp với [FInite VERB][HẠN ĐỘNG] "is" nhằm mô tả trạng thái thuộc tính diễn tiến cho [NOUN as HEAD][DANH làm LÕI] "MIcroservice" dịch vụ nhỏ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HANdling USer TRAFfic efFICiently] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng sau kết hợp với [FInite VERB][HẠN ĐỘNG] "is" nhằm mô tả trạng thái thuộc tính diễn tiến cho [NOUN as HEAD][DANH làm LÕI] "MIcroservice" dịch vụ nhỏ.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HANdling USer TRAFfic efFIciently] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] hình thành từ sự phối hợp giữa hạt nhân [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "HANdling" và các tham số bổ nghĩa "USer TRAFfic efFIciently" phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HANdling USer TRAFfic efFICiently] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] hình thành từ sự phối hợp giữa hạt nhân [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "HANdling" và các tham số bổ nghĩa "USer TRAFfic efFICiently" phía sau.</li>
 			
 				</ul>
 			

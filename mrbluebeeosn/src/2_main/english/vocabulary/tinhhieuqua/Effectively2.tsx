@@ -103,35 +103,35 @@ export default function efFECTively2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="comMUnicated-to">she efFECTively [comMUnicated] her iDEas [to] the TEAM.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [đã truyền đạt] ý tưởng của mình [đến] cả nhóm một cách hiệu quả.</li>
+        <li value="1" id="comMUnicated-to">she efFECTively comMUnicated her iDEas to the TEAM.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã truyền đạt ý tưởng của mình một cách hiệu quả đến cả đội.</li>
 
-        <li value="2" id="MANaged">he efFECTively [MANaged] the PROJect within the DEADline.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [đã quản lý] dự án một cách hiệu quả trong thời hạn cho phép.</li>
+        <li value="2" id="MANaged">he efFECTively MANaged the PROJect within the DEADline.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã quản lý dự án một cách hiệu quả và hoàn thành đúng hạn.</li>
 
-        <li value="3" id="SOLVED">the TEAM efFECTively [SOLVED] the PROBlem.</li>
-        <li className="list-none margin-bottom-20">Đội [đã giải quyết] vấn đề một cách hiệu quả.</li>
+        <li value="3" id="SOLVED">the TEAM efFECTively SOLVED the PROBlem.</li>
+        <li className="list-none margin-bottom-20">Đội đã giải quyết vấn đề một cách hiệu quả.</li>
 
-        <li value="4" id="IMplemented">the NEW POLicy was efFECTively [IMplemented].</li>
-        <li className="list-none margin-bottom-20">Chính sách mới đã [được thực hiện] một cách hiệu quả.</li>
+        <li value="4" id="IMplemented">the NEW POLicy was efFECTively IMplemented.</li>
+        <li className="list-none margin-bottom-20">Chính sách mới đã được triển khai một cách hiệu quả.</li>
 
-        <li value="5" id="USED">she efFECTively [USED] her TIME to STUDy for the eXAM.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [đã sử dụng] thời gian của mình một cách hiệu quả để ôn thi.</li>
+        <li value="5" id="USED">she efFECTively USED her TIME to STUDy for the eXAM.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã tận dụng thời gian một cách hiệu quả để ôn thi.</li>
 
-        <li value="6" id="MOtivated">the COACH efFECTively [MOtivated] the TEAM to WIN the GAME.</li>
-        <li className="list-none margin-bottom-20">Huấn luyện viên [đã động viên] đội bóng một cách hiệu quả để giành chiến thắng.</li>
+        <li value="6" id="MOtivated">the COACH efFECTively MOtivated the TEAM to WIN the GAME.</li>
+        <li className="list-none margin-bottom-20">Huấn luyện viên đã khích lệ đội một cách hiệu quả để giành chiến thắng trong trận đấu.</li>
 
-        <li value="7" id="TAUGHT">the TEACHer efFECTively [TAUGHT] the STUdents the NEW CONcept.</li>
-        <li className="list-none margin-bottom-20">Giáo viên [đã dạy] học sinh khái niệm mới một cách hiệu quả.</li>
+        <li value="7" id="TAUGHT">the TEACHer efFECTively TAUGHT the STUdents the NEW CONcept.</li>
+        <li className="list-none margin-bottom-20">Giáo viên đã giảng dạy hiệu quả cho học sinh về khái niệm mới này.</li>
 
-        <li value="8" id="LED">he efFECTively [LED] the COMpany through the CRIsis.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [đã lãnh đạo] công ty vượt qua khủng hoảng một cách hiệu quả.</li>
+        <li value="8" id="LED">he efFECTively LED the COMpany through the CRIsis.</li>
+        <li className="list-none margin-bottom-20">Ông đã dẫn dắt công ty vượt qua cuộc khủng hoảng một cách hiệu quả.</li>
 
-        <li value="9" id="neGOtiated">she efFECTively [neGOtiated] a BETter DEAL for the COMpany.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [đã thương lượng] một thỏa thuận tốt hơn cho công ty.</li>
+        <li value="9" id="neGOtiated">she efFECTively neGOtiated a BETter DEAL for the COMpany.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã đàm phán thành công để đạt được một thỏa thuận có lợi hơn cho công ty.</li>
 
-        <li value="10" id="colLABorated-on">the TEAM efFECTively [colLABorated on] the PROJect.</li>
-        <li className="list-none margin-bottom-20">Đội [đã hợp tác] hiệu quả [trong] dự án.</li>
+        <li value="10" id="colLABorated-on">the TEAM efFECTively colLABorated on the PROJect.</li>
+        <li className="list-none margin-bottom-20">Nhóm đã hợp tác hiệu quả trong dự án này.</li>
 
       </ol>
 

@@ -101,7 +101,7 @@ export default function efFECTively1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cô ấy đã quản lý dự án một cách hiệu quả.</li>
 
           <li>the NEW MEDicine efFECTively reDUCED the SYMPtoms.</li>
-          <li className="list-none">Thuốc mới đã giảm các triệu chứng một cách hiệu quả.</li>
+          <li className="list-none">Loại thuốc mới này đã giảm hiệu quả các triệu chứng.</li>
 
         </ul>
 
@@ -121,7 +121,7 @@ export default function efFECTively1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Đây là một phương pháp rất hiệu quả.</li>
 
           <li id="NOUN">the MEDicine had a POSitive efFECT.</li>
-          <li className="list-none">Thuốc có tác dụng tích cực.</li>
+          <li className="list-none">Thuốc đã mang lại hiệu quả tích cực.</li>
 
         </ul>
 
@@ -163,7 +163,7 @@ export default function efFECTively1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Anh ấy đã cố gắng giải quyết vấn đề nhưng không hiệu quả.</li>
 
           <li>she TRIED to OPen the DOOR but unsucCESSfully.</li>
-          <li className="list-none">Cô ấy cố gắng mở cửa nhưng không thành công.</li>
+          <li className="list-none">Cô ấy đã cố mở cửa nhưng không thành công.</li>
 
         </ul>
       
@@ -209,7 +209,7 @@ export default function efFECTively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he comMUnicated his iDEas VERy efFECTively.</li>
-          <li className="list-none">Anh ấy đã truyền đạt ý tưởng của mình một cách rất hiệu quả.</li>
+          <li className="list-none">Anh ấy đã truyền đạt những ý tưởng của mình một cách rất hiệu quả.</li>
 
         </ul>
 
@@ -231,10 +231,10 @@ export default function efFECTively1(): React.JSX.Element {
           <ol>
 
             <li value="1">she STUDied for the eXAM.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đã học bài cho kỳ thi.</li>
+            <li className="list-none margin-bottom-20">Cô ấy đã ôn thi.</li>
 
             <li value="2">she STUDied efFECTively for the eXAM and GOT a HIGH SCORE.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đã học bài một cách hiệu quả cho kỳ thi và đạt điểm cao.</li>
+            <li className="list-none margin-bottom-20">Cô ấy đã ôn thi một cách hiệu quả và đạt được điểm số cao.</li>
 
           </ol>
 

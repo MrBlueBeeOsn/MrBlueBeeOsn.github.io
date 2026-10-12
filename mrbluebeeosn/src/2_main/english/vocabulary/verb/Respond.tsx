@@ -998,16 +998,16 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[ANswering CUStomer reQUESTS efFIciently] reQUIres proFESsional communiCAtion.</li>
+					<li>[ANswering CUStomer reQUESTS efFICiently] reQUIres proFESsional communiCAtion.</li>
 					<li className="margin-bottom-20 list-none">[Trả lời các yêu cầu của khách hàng một cách hiệu quả] đòi hỏi kỹ năng giao tiếp chuyên nghiệp.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [ANswering CUStomer reQUESTS efFIciently] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ một hành động tiếp diễn [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "ANswering" cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [ANswering CUStomer reQUESTS efFICiently] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] của [TRANsitive VERB][NGOẠI ĐỘNG] ở [3RD SINGular PRESent FORM][3RD ÍT HIỆN DẠNG] "reQUIres" trong [MAIN CLAUSE][CHÍNH ĐIỀU]. Bản chất là [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] cấu tạo từ một hành động tiếp diễn [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "ANswering" cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>:</li>
 
 					<li className="list-none margin-bottom-10">[CUStomer reQUESTS] - [NOUN PHRASE as COMplement][DANH CỤM làm BỔ] của [TRANsitive VERB][NGOẠI ĐỘNG] "ANswering", chứa các yêu cầu của khách hàng.</li>
 
-					<li className="list-none margin-bottom-10">[efFIciently] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của của [TRANsitive VERB][NGOẠI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "ANswering", được thực hiện một cách hiệu quả.</li>
+					<li className="list-none margin-bottom-10">[efFICiently] - [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] của của [TRANsitive VERB][NGOẠI ĐỘNG] ở [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] "ANswering", được thực hiện một cách hiệu quả.</li>
 			
 				</ul>
 
