@@ -260,7 +260,7 @@ export default function HONestly1(): React.JSX.Element {
 
           <li>Câu hỏi tu từ: Đôi khi, "<strong>HONestly</strong>" được dùng trong câu hỏi tu từ để thể hiện sự ngạc nhiên hoặc không đồng tình.</li>
 
-          <li>HONestly, HOW could you DO that?</li>
+          <li>HONestly, HOW could you DO THAT?</li>
           <li className="list-none margin-bottom-20">Thật lòng mà nói, làm sao cậu lại có thể làm thế được chứ?</li>
 
         </ul>

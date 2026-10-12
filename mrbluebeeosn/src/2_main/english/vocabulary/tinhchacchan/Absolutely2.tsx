@@ -75,7 +75,7 @@ export default function ABsolutely2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ABsolutely</strong>" (hoàn toàn, tuyệt đối) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ABsolutely</strong>" (chắc chắn rồi) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function ABsolutely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="CERtain-that">i am ABsolutely [CERtain that] he will WIN the RACE.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn [chắc chắn rằng] anh ấy sẽ thắng cuộc đua.</li>
+        <li value="1" id="CERtain-that">i am ABsolutely CERtain that he will WIN the RACE.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn chắc chắn rằng anh ấy sẽ giành chiến thắng trong cuộc đua.</li>
 
-        <li value="2" id="NECessary-to-HAVE">it is ABsolutely [NECessary to HAVE] a PASSport to TRAVel abROAD.</li>
-        <li className="list-none margin-bottom-20">Tuyệt đối [cần phải có] hộ chiếu để đi du lịch nước ngoài.</li>
+        <li value="2" id="NECessary-to-HAVE">it is ABsolutely NECessary to HAVE a PASSport to TRAVel abROAD.</li>
+        <li className="list-none margin-bottom-20">Để đi du lịch nước ngoài, việc có hộ chiếu là điều tuyệt đối cần thiết.</li>
 
-        <li value="3" id="RIGHT-about">you are ABsolutely [RIGHT a<strong>bout</strong>] that.</li>
-        <li className="list-none margin-bottom-20">Bạn hoàn toàn [đúng về] điều đó.</li>
+        <li value="3" id="RIGHT-about">you are ABsolutely RIGHT a<strong>bout</strong> THAT.</li>
+        <li className="list-none margin-bottom-20">Bạn hoàn toàn đúng về điều đó.</li>
 
-        <li value="4" id="LOVE">i ABsolutely [LOVE] CHOCOLate ICE CREAM.</li>
-        <li className="list-none margin-bottom-20">Tôi cực kỳ [thích] kem sô cô la.</li>
+        <li value="4" id="LOVE">i ABsolutely LOVE CHOCOLate ICE CREAM.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự rất thích kem sô-cô-la.</li>
 
-        <li value="5" id="HATE">i ABsolutely [HATE] SPIders.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn [ghét] nhện.</li>
+        <li value="5" id="HATE">i ABsolutely HATE SPIders.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự ghét nhện.</li>
 
-        <li value="6" id="BEAUtiful">he SUNset was ABsolutely [BEAUtiful].</li>
-        <li className="list-none margin-bottom-20">Hoàng hôn thật [đẹp].</li>
+        <li value="6" id="BEAUtiful">he SUNset was ABsolutely BEAUtiful.</li>
+        <li className="list-none margin-bottom-20">Hoàng hôn thật sự rất đẹp.</li>
 
-        <li value="7" id="PERfect">the CAKE was ABsolutely [PERfect].</li>
-        <li className="list-none margin-bottom-20">Chiếc bánh thật [hoàn hảo].</li>
+        <li value="7" id="PERfect">the CAKE was ABsolutely PERfect.</li>
+        <li className="list-none margin-bottom-20">Chiếc bánh thật sự hoàn hảo.</li>
 
-        <li value="8" id="TRUE">what he SAID was ABsolutely [TRUE].</li>
-        <li className="list-none margin-bottom-20">Những gì anh ấy nói hoàn toàn [đúng sự thật].</li>
+        <li value="8" id="TRUE">what he SAID was ABsolutely TRUE.</li>
+        <li className="list-none margin-bottom-20">Những gì anh ấy nói là hoàn toàn đúng.</li>
 
-        <li value="9" id="conVINCED-that">i am ABsolutely [conVINCED that] she is INnocent.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn [tin rằng] cô ấy vô tội.</li>
+        <li value="9" id="conVINCED-that">i am ABsolutely conVINCED that she is INnocent.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn tin chắc rằng cô ấy vô tội.</li>
 
-        <li value="10" id="exHAUSTed"><strong>af</strong>ter the MARathon, i was ABsolutely [exHAUSTed].</li>
-        <li className="list-none margin-bottom-20">Sau cuộc đua marathon, tôi đã [mệt mỏi rã rời].</li>
+        <li value="10" id="exHAUSTed"><strong>af</strong>ter the MARathon, i was ABsolutely exHAUSTed.</li>
+        <li className="list-none margin-bottom-20">Sau cuộc đua marathon, tôi thực sự kiệt sức.</li>
 
       </ol>
 

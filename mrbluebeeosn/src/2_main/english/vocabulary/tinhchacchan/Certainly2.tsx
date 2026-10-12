@@ -75,7 +75,7 @@ export default function CERtainly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CERtainly</strong>" (chắc chắn) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CERtainly</strong>" (chắc chắn rồi) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function CERtainly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "chắc chắn", thường được sử dụng để khẳng định một điều gì đó là đúng, thật sự hoặc sẽ xảy ra.
+            &nbsp;trong tiếng Anh có nghĩa là "chắc chắn rồi", thường được sử dụng để khẳng định một điều gì đó là đúng, thật sự hoặc sẽ xảy ra.
 
           </p>
 
@@ -103,35 +103,35 @@ export default function CERtainly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="NOT">CERtainly [<Link to="/vocabulary/NOT-1">NOT</Link>], i would NEVer do such a THING.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn [không], tôi sẽ không bao giờ làm việc đó.</li>
+        <li value="1" id="NOT">CERtainly <Link to="/vocabulary/NOT-1">NOT</Link>, i would NEVer do such a THING.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn là không, tôi sẽ không bao giờ làm chuyện như thế.</li>
 
-        <li value="2" id="MOST">[MOST] CERtainly, i will be THERE to supPORT you.</li>
-        <li className="list-none margin-bottom-20">[Hoàn toàn] chắc chắn rồi, tôi sẽ ở đó để ủng hộ bạn.</li>
+        <li value="2" id="MOST">MOST CERtainly, i will be THERE to supPORT you.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn là tôi sẽ có mặt ở đó để ủng hộ bạn.</li>
 
-        <li value="3" id="arRIVE-on">he will QUITE CERtainly [arRIVE on] TIME.</li>
-        <li className="list-none margin-bottom-20">Anh ấy chắc chắn [sẽ đến] đúng giờ.</li>
+        <li value="3" id="arRIVE-on">he will QUITE CERtainly arRIVE on TIME.</li>
+        <li className="list-none margin-bottom-20">Anh ấy chắc chắn sẽ đến đúng giờ.</li>
 
-        <li value="4" id="ABsolutely">THIS is [<Link to="/vocabulary/ABsolutely-1">ABsolutely</Link>] CERtainly the RIGHT deCISion.</li>
-        <li className="list-none margin-bottom-20">Đây chắc chắn [tuyệt đối] là quyết định đúng đắn.</li>
+        <li value="4" id="ABsolutely">THIS is <Link to="/vocabulary/ABsolutely-1">ABsolutely</Link> CERtainly the RIGHT deCISion.</li>
+        <li className="list-none margin-bottom-20">Đây chắc chắn là quyết định đúng.</li>
 
-        <li value="5" id="MORE-than">[MORE than] CERtainly, she will WIN the PRIZE.</li>
-        <li className="list-none margin-bottom-20">[Hơn cả] chắc chắn, cô ấy sẽ giành được giải thưởng.</li>
+        <li value="5" id="MORE-than">MORE than CERtainly, she will WIN the PRIZE.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn là cô ấy sẽ giành được giải thưởng.</li>
 
-        <li value="6" id="KNOW-HOW-you-FEEL">i CERtainly [KNOW HOW you FEEL].</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn [hiểu cảm giác của bạn].</li>
+        <li value="6" id="KNOW-HOW-you-FEEL">i CERtainly KNOW HOW you FEEL.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự hiểu cảm giác của bạn.</li>
 
-        <li value="7" id="beLIEVE-in">i CERtainly [beLIEVE in] the POWer of LOVE.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn [tin vào] sức mạnh của tình yêu.</li>
+        <li value="7" id="beLIEVE-in">i CERtainly beLIEVE in the POWer of LOVE.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự tin vào sức mạnh của tình yêu.</li>
 
-        <li value="8" id="aGREE-with">i CERtainly [aGREE with] your oPINion.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn [đồng ý với] ý kiến của bạn.</li>
+        <li value="8" id="aGREE-with">i CERtainly aGREE with your oPINion.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn đồng ý với ý kiến của bạn.</li>
 
-        <li value="9" id="underSTAND">i CERtainly [underSTAND] your conCERNS.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn hiểu những lo ngại của bạn.</li>
+        <li value="9" id="underSTAND">i CERtainly underSTAND your conCERNS.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn hiểu những lo ngại của bạn.</li>
 
-        <li value="10" id="POSsible-to-aCHIEVE">it is CERtainly [POSsible to aCHIEVE] your GOALS.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn bạn [có thể đạt được] mục tiêu của mình.</li>
+        <li value="10" id="POSsible-to-aCHIEVE">it is CERtainly POSsible to aCHIEVE your GOALS.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn là bạn có thể đạt được mục tiêu của mình.</li>
 
       </ol>
 

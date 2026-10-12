@@ -79,7 +79,7 @@ export default function ABsolutely1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Hoàn toàn, tuyệt đối</li>
+            <li>Chắc chắn rồi</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function ABsolutely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">i ABsolutely LOVE CHOCOLate.</li>
-          <li className="margin-bottom-20 list-none">Tôi hoàn toàn yêu thích sô cô la.</li>
+          <li className="margin-bottom-20 list-none">Tôi thực sự yêu thích sô-cô-la.</li>
 
-          <li>that's ABsolutely riDICulous!</li>
-          <li className="list-none">Điều đó thật là vô lý!</li>
+          <li>THAT's ABsolutely riDICulous!</li>
+          <li className="list-none">Điều đó thật là vớ vẩn!</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function ABsolutely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">THIS is an ABsolute diSASter.</li>
-          <li className="margin-bottom-20 list-none">Đây là một thảm họa hoàn toàn.</li>
+          <li className="margin-bottom-20 list-none">Đây thực sự là một thảm họa tột độ.</li>
 
           <li id="NOUN">he beLIEVED in ABsolutism in POLitics.</li>
-          <li className="list-none">Anh ta tin vào chủ nghĩa tuyệt đối trong chính trị.</li>
+          <li className="list-none">Ông tin vào chủ nghĩa chuyên chế trong chính trị.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function ABsolutely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm comPLETely exHAUSTed.</li>
-          <li className="margin-bottom-20 list-none">Tôi hoàn toàn kiệt sức.</li>
+          <li className="margin-bottom-20 list-none">Tớ mệt lả rồi.</li>
 
-          <li>that's TOtally unFAIR.</li>
-          <li className="list-none">Điều đó hoàn toàn bất công.</li>
+          <li>THAT's TOtally unFAIR.</li>
+          <li className="list-none">Điều đó thật sự quá bất công.</li>
 
         </ul>
 
@@ -160,7 +160,7 @@ export default function ABsolutely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>it's RELatively EAsy.</li>
-          <li className="margin-bottom-20 list-none">Nó tương đối dễ.</li>
+          <li className="margin-bottom-20 list-none">Điều đó tương đối dễ.</li>
 
           <li>i aGREE with you PARtially.</li>
           <li className="list-none">Tôi đồng ý với bạn một phần.</li>
@@ -209,7 +209,7 @@ export default function ABsolutely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>do you WANT to GO to the MOvies toNIGHT? - ABsolutely! THAT SOUNDS like FUN.</li>
-          <li className="list-none">Bạn có muốn đi xem phim tối nay không? - Hoàn toàn! Nghe có vẻ vui đấy.</li>
+          <li className="list-none">Tối nay bạn có muốn đi xem phim không? - Tất nhiên rồi! Nghe có vẻ vui đấy.</li>
 
         </ul>
 
@@ -234,7 +234,7 @@ export default function ABsolutely1(): React.JSX.Element {
             <li className="list-none margin-bottom-20">Tôi thích táo.</li>
 
             <li value="2">i ABsolutely aDORE APples.</li>
-            <li className="list-none margin-bottom-20">Tôi hoàn toàn yêu thích táo.</li>
+            <li className="list-none margin-bottom-20">Tôi thực sự rất thích táo.</li>
 
           </ol>
 

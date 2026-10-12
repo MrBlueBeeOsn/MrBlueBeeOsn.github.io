@@ -81,7 +81,7 @@ export default function DEFinitely1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Chắc chắn, dứt khoát</li>
+            <li>Chắc chắn rồi</li>
 
           </ul>
 
@@ -100,10 +100,10 @@ export default function DEFinitely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">i will DEFinitely be THERE.</li>
-          <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ đến đó.</li>
+          <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ có mặt ở đó.</li>
 
-          <li>hat's DEFinitely <Link to="/vocabulary/NOT-1">NOT</Link> TRUE.</li>
-          <li className="list-none">Điều đó chắc chắn không đúng.</li>
+          <li>THAT's DEFinitely <Link to="/vocabulary/NOT-1">NOT</Link> TRUE.</li>
+          <li className="list-none">Điều đó chắc chắn là không đúng.</li>
 
         </ul>
 
@@ -120,10 +120,10 @@ export default function DEFinitely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">we NEED a DEFinite ANswer.</li>
-          <li className="margin-bottom-20 list-none">Chúng ta cần một câu trả lời dứt khoát.</li>
+          <li className="margin-bottom-20 list-none">Chúng tôi cần một câu trả lời rõ ràng.</li>
 
           <li id="NOUN">the defiNITion of "HAPpy" is DIFferent for <strong>ever</strong>yone.</li>
-          <li className="list-none">Định nghĩa về "hạnh phúc" khác nhau đối với mỗi người.</li>
+          <li className="list-none">Định nghĩa về từ “hạnh phúc” là khác nhau đối với mỗi người.</li>
 
         </ul>
 
@@ -142,7 +142,7 @@ export default function DEFinitely1(): React.JSX.Element {
           <li><Link to="/vocabulary/CERtainly-1">CERtainly</Link>, i can HELP you.</li>
           <li className="margin-bottom-20 list-none">Chắc chắn rồi, tôi có thể giúp bạn.</li>
 
-          <li>that's <Link to="/vocabulary/ABsolutely-1">ABsolutely</Link> RIGHT.</li>
+          <li>THAT's <Link to="/vocabulary/ABsolutely-1">ABsolutely</Link> RIGHT.</li>
           <li className="list-none">Điều đó hoàn toàn đúng.</li>
 
         </ul>
@@ -162,10 +162,10 @@ export default function DEFinitely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/POSsibly-1">POSsibly</Link>, it will RAIN toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Có thể trời sẽ mưa vào ngày mai.</li>
+          <li className="margin-bottom-20 list-none">Có thể là ngày mai sẽ có mưa.</li>
 
           <li><Link to="/vocabulary/MAYbe-1">MAYbe</Link> i'll GO to the PARTy.</li>
-          <li className="list-none">Có lẽ tôi sẽ đi dự tiệc.</li>
+          <li className="list-none">Có lẽ tớ sẽ đi dự tiệc.</li>
 
         </ul>
       
@@ -191,7 +191,7 @@ export default function DEFinitely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he NODded DEFinitely in reSPONSE to the QUESTion.</li>
-          <li className="list-none">Anh ấy gật đầu một cách chắc chắn để trả lời câu hỏi.</li>
+          <li className="list-none">Anh ta gật đầu một cách dứt khoát để trả lời câu hỏi đó.</li>
 
         </ul>
 
@@ -233,10 +233,10 @@ export default function DEFinitely1(): React.JSX.Element {
           <ol>
 
             <li value="1">i MIGHT GO to the MOvies.</li>
-            <li className="list-none margin-bottom-20">Có thể tôi sẽ đi xem phim.</li>
+            <li className="list-none margin-bottom-20">Tôi có thể sẽ đi xem phim.</li>
 
             <li value="2">i will DEFinitely GO to the MOvies.</li>
-            <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ đi xem phim.</li>
+            <li className="list-none margin-bottom-20">Tớ chắc chắn sẽ đi xem phim.</li>
 
           </ol>
 

@@ -75,7 +75,7 @@ export default function SUREly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Chắc chắn, chắc hẳn, hẳn là</li>
+            <li>Chắc chắn là</li>
 
           </ul>
 
@@ -94,10 +94,10 @@ export default function SUREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">SUREly, you're JOking!</li>
-          <li className="margin-bottom-20 list-none">Chắc chắn bạn đang đùa chứ?</li>
+          <li className="margin-bottom-20 list-none">Chắc chắn là anh đang đùa rồi!</li>
 
           <li>he will SUREly WIN the PRIZE.</li>
-          <li className="list-none">Anh ấy chắc chắn sẽ giành được giải thưởng.</li>
+          <li className="list-none">Anh ấy chắc chắn sẽ giành giải thưởng.</li>
 
         </ul>
 
@@ -113,7 +113,7 @@ export default function SUREly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">are you SURE a<strong>bout</strong> that?</li>
+          <li id="ADjective">are you SURE a<strong>bout</strong> THAT?</li>
           <li className="list-none">Bạn có chắc chắn về điều đó không?</li>
 
         </ul>
@@ -156,7 +156,7 @@ export default function SUREly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Anh ấy nói một cách không chắc chắn.</li>
 
           <li>she LOOKED DOUBTfully at the proPOsal.</li>
-          <li className="list-none">Cô ấy nhìn đề xuất một cách nghi ngờ.</li>
+          <li className="list-none">Cô ấy nhìn đề xuất đó với vẻ nghi ngờ.</li>
 
         </ul>
       
@@ -182,7 +182,7 @@ export default function SUREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he NODded SUREly, aGREEing with the proPOsal.</li>
-          <li className="list-none">Anh ấy gật đầu chắc chắn, đồng ý với đề xuất.</li>
+          <li className="list-none">Anh ta gật đầu chắc chắn, đồng ý với đề xuất đó.</li>
 
         </ul>
 
@@ -197,12 +197,12 @@ export default function SUREly1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>surely</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>SUREly</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
           <li>SUREly you would LIKE anOTHer CUP of TEA.</li>
-          <li className="list-none">Chắc chắn bạn muốn một tách trà nữa chứ.</li>
+          <li className="list-none">Chắc chắn là bạn sẽ muốn uống thêm một tách trà nữa.</li>
 
         </ul>
 
@@ -226,8 +226,8 @@ export default function SUREly1(): React.JSX.Element {
             <li value="1">he will WIN the GAME.</li>
             <li className="list-none margin-bottom-20">Anh ấy sẽ thắng trận đấu.</li>
 
-            <li value="2">SUREly he will WIN the GAME. he's been PRACticing so HARD</li>
-            <li className="list-none margin-bottom-20">Chắc chắn anh ấy sẽ thắng trận đấu. Anh ấy đã luyện tập rất chăm chỉ.</li>
+            <li value="2">SUREly he will WIN the GAME. he's been PRACticing so HARD.</li>
+            <li className="list-none margin-bottom-20">Chắc chắn anh ấy sẽ thắng trận đấu này. Anh ấy đã tập luyện rất chăm chỉ.</li>
 
           </ol>
 

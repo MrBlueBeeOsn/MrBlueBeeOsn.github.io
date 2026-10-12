@@ -75,7 +75,7 @@ export default function DEFinitely2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>DEFinitely</strong>" (chắc chắn) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>DEFinitely</strong>" (chắc chắn rồi) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function DEFinitely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="NOT-GOing-to">i DEFinitely [NOT GOing to] that PARTy.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn [sẽ không đi] bữa tiệc đó.</li>
+        <li value="1" id="NOT-GOing-to">i DEFinitely NOT GOing to that PARTy.</li>
+        <li className="list-none margin-bottom-20">Tớ chắc chắn sẽ không đi dự bữa tiệc đó đâu.</li>
 
-        <li value="2" id="will-be-THERE-on-TIME">i DEFinitely [will be THERE on TIME].</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn [sẽ đến đúng giờ].</li>
+        <li value="2" id="will-be-THERE-on-TIME">i DEFinitely will be THERE on TIME.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ có mặt ở đó đúng giờ.</li>
 
-        <li value="3" id="the-BEST-PIZza-i've">THIS is DEFinitely [the BEST PIZza i've] EVer had.</li>
-        <li className="list-none margin-bottom-20">Đây chắc chắn là [PIZza ngon nhất mà tôi] từng ăn.</li>
+        <li value="3" id="the-BEST-PIZza-i've">THIS is DEFinitely the BEST PIZza i've EVer HAD.</li>
+        <li className="list-none margin-bottom-20">Đây chắc chắn là chiếc pizza ngon nhất mà tôi từng ăn.</li>
 
-        <li value="4" id="NEED">i DEFinitely [NEED] a vaCAtion.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn [cần] một kỳ nghỉ.</li>
+        <li value="4" id="NEED">i DEFinitely NEED a vaCAtion.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn cần một kỳ nghỉ.</li>
 
-        <li value="5" id="WORTH-it-WATChing">the MOvie was DEFinitely [WORTH it WATChing].</li>
-        <li className="list-none margin-bottom-20">Bộ phim đó chắc chắn [đáng xem].</li>
+        <li value="5" id="WORTH-it-WATChing">the MOvie was DEFinitely WORTH it WATChing.</li>
+        <li className="list-none margin-bottom-20">Bộ phim này chắc chắn rất đáng xem.</li>
 
-        <li value="6" id="KNOW-to">i DEFinitely [KNOW] the ANswer [to] that QUESTion.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn [biết] câu trả lời [cho] câu hỏi đó.</li>
+        <li value="6" id="KNOW-to">i DEFinitely KNOW the ANswer to that QUESTion.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn biết câu trả lời cho câu hỏi đó.</li>
 
-        <li value="7" id="recomMEND">i DEFinitely [recomMEND] this REStaurant.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn [đề xuất] nhà hàng này.</li>
+        <li value="7" id="recomMEND">i DEFinitely recomMEND this REStaurant.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn khuyên bạn nên ghé thăm nhà hàng này.</li>
 
-        <li value="8" id="aGREE-with">i DEFinitely [aGREE with] you.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn [đồng ý với] bạn.</li>
+        <li value="8" id="aGREE-with">i DEFinitely aGREE with you.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn đồng ý với bạn.</li>
 
-        <li value="9" id="NOT-TRUE">that STOry is DEFinitely [NOT TRUE].</li>
-        <li className="list-none margin-bottom-20">Câu chuyện đó chắc chắn [không đúng].</li>
+        <li value="9" id="NOT-TRUE">that STOry is DEFinitely NOT TRUE.</li>
+        <li className="list-none margin-bottom-20">Câu chuyện đó chắc chắn là không đúng.</li>
 
-        <li value="10" id="the-BEST-CHOICE">BUYing this HOUSE is DEFinitely [the BEST CHOICE].</li>
-        <li className="list-none margin-bottom-20">Mua căn nhà này chắc chắn là [lựa chọn tốt nhất].</li>
+        <li value="10" id="the-BEST-CHOICE">BUYing this HOUSE is DEFinitely the BEST CHOICE.</li>
+        <li className="list-none margin-bottom-20">Mua căn nhà này chắc chắn là sự lựa chọn tốt nhất.</li>
 
       </ol>
 
