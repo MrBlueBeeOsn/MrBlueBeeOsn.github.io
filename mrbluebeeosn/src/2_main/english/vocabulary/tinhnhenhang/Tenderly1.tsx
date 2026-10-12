@@ -83,7 +83,7 @@ export default function TENderly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách dịu dàng, âu yếm, trìu mến</li>
+            <li>Dịu dàng</li>
 
           </ul>
 
@@ -102,10 +102,10 @@ export default function TENderly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">he KISSED her TENderly on the FOREhead.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy hôn nhẹ lên trán cô ấy một cách trìu mến.</li>
+          <li className="margin-bottom-20 list-none">Anh hôn cô một cách dịu dàng lên trán.</li>
 
           <li>she HELD the BAby TENderly in her ARMS.</li>
-          <li className="list-none">Cô ấy bế đứa bé một cách âu yếm trong vòng tay.</li>
+          <li className="list-none">Cô ôm đứa bé một cách dịu dàng trong vòng tay.</li>
 
 
         </ul>
@@ -123,13 +123,13 @@ export default function TENderly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he has a TENder HEART.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy có một trái tim dịu dàng.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy có một trái tim nhạy cảm.</li>
 
           <li id="VERB">she TENDED to the INjured BIRD.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy chăm sóc con chim bị thương một cách dịu dàng.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã chăm sóc con chim bị thương.</li>
 
-          <li id="NOUN">he SHOWED GREAT TENderness towards his CHILDren.</li>
-          <li className="list-none">Anh ấy thể hiện sự âu yếm lớn đối với con cái của mình.</li>
+          <li id="NOUN">he SHOWED GREAT TENderness to<strong>wards</strong> his CHILDren.</li>
+          <li className="list-none">Ông đã thể hiện sự dịu dàng vô cùng đối với các con mình.</li>
 
         </ul>
 
@@ -146,13 +146,13 @@ export default function TENderly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he TOUCHED her HAND <Link to="/vocabulary/GENTly-1">GENtly</Link>.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy chạm nhẹ vào tay cô ấy.</li>
+          <li className="margin-bottom-20 list-none">Anh nhẹ nhàng chạm vào tay cô.</li>
 
           <li>she SMILED afFECtionately at HIM.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy mỉm cười trìu mến với anh ấy.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy mỉm cười đầy tình cảm với anh ấy.</li>
 
           <li>he SPOKE LOVingly of his WIFE.</li>
-          <li className="list-none">Anh ấy nói một cách yêu thương về vợ mình.</li>
+          <li className="list-none">Ông đã nói về vợ mình với tình cảm sâu sắc.</li>
 
         </ul>
 
@@ -171,13 +171,13 @@ export default function TENderly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he SPOKE HARSHly to the CHILD.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy nói gay gắt với đứa trẻ.</li>
+          <li className="margin-bottom-20 list-none">Ông ấy đã nói một cách khắc nghiệt với đứa trẻ.</li>
 
           <li>he TREAted the ANimal ROUGHly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đối xử thô bạo với con vật.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã đối xử thô bạo với con vật.</li>
 
           <li>he was BRUtally atTACKED.</li>
-          <li className="list-none">Anh ấy bị tấn công dã man.</li>
+          <li className="list-none">Anh ta đã bị tấn công một cách dã man.</li>
 
         </ul>
       
@@ -203,10 +203,10 @@ export default function TENderly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he HELD his LOVED ONE TENderly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy ôm người thân yêu một cách dịu dàng.</li>
+          <li className="margin-bottom-20 list-none">Anh ôm người yêu của mình một cách dịu dàng.</li>
 
           <li>she caRESSED her FAMILy MEMber TENderly.</li>
-          <li className="list-none">Cô ấy vuốt ve người thân một cách dịu dàng.</li>
+          <li className="list-none">Cô âu yếm vuốt ve các thành viên trong gia đình mình một cách dịu dàng.</li>
 
         </ul>
 
@@ -226,7 +226,7 @@ export default function TENderly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she SANG a LULlaby TENderly to her BAby.</li>
-          <li className="list-none">Cô ấy hát một bài hát ru con một cách dịu dàng cho đứa bé của mình.</li>
+          <li className="list-none">Cô ấy đã hát một bài hát ru đầy dịu dàng cho con mình.</li>
 
         </ul>
 
@@ -248,10 +248,10 @@ export default function TENderly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he KISSED her.</li>
-            <li className="list-none margin-bottom-20">Anh ấy hôn cô ấy.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hôn cô ấy.</li>
 
             <li value="2">he TENderly KISSED her.</li>
-            <li className="list-none margin-bottom-20">Anh ấy hôn cô ấy một cách trìu mến.</li>
+            <li className="list-none margin-bottom-20">Anh nhẹ nhàng hôn cô.</li>
 
           </ol>
 

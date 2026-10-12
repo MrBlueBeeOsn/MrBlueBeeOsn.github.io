@@ -75,7 +75,7 @@ export default function GENTly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Nhẹ nhàng, dịu dàng</li>
+            <li>Nhẹ nhàng</li>
 
           </ul>
 
@@ -94,10 +94,10 @@ export default function GENTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she CLOSED the DOOR GENTly.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đóng cửa nhẹ nhàng.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đóng cửa một cách nhẹ nhàng.</li>
 
           <li>PLEASE SPEAK GENTly to the CHILD.</li>
-          <li className="list-none">Làm ơn nói chuyện nhẹ nhàng với đứa trẻ.</li>
+          <li className="list-none">Xin hãy nói chuyện nhẹ nhàng với đứa trẻ.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function GENTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">she has a GENTle NAture.</li>
-          <li className="list-none">Cô ấy có một tính cách dịu dàng.</li>
+          <li className="list-none">Cô ấy có tính cách hiền lành.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function GENTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she SPOKE <Link to="/vocabulary/SOFTly-1">SOFTly</Link>.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy nói nhỏ nhẹ.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy nói rất nhẹ nhàng.</li>
 
           <li>HANdle the GLASS <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
-          <li className="list-none">Nhẹ nhàng cầm cái ly.</li>
+          <li className="list-none">Hãy cẩn thận khi cầm ly.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function GENTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he HANDled the PACKage ROUGHly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy cầm gói hàng một cách thô bạo.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã xử lý gói hàng một cách thô bạo.</li>
 
           <li>the STORM RAGED VIolently.</li>
-          <li className="list-none">Bão nổi lên dữ dội.</li>
+          <li className="list-none">Cơn bão đã hoành hành dữ dội.</li>
 
         </ul>
       
@@ -202,7 +202,7 @@ export default function GENTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she CLOSED the BOOK GENTly and PUT it DOWN.</li>
-          <li className="list-none">Cô ấy đóng sách nhẹ nhàng và đặt nó xuống.</li>
+          <li className="list-none">Cô ấy nhẹ nhàng đóng cuốn sách lại và đặt nó xuống.</li>
 
         </ul>
 
@@ -224,10 +224,10 @@ export default function GENTly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he PUSHED the DOOR.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đẩy cửa.</li>
+            <li className="list-none margin-bottom-20">Anh ta đẩy cửa.</li>
 
             <li value="2">he PUSHED the DOOR GENTly.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đẩy cửa nhẹ nhàng.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đẩy cửa một cách nhẹ nhàng.</li>
 
           </ol>
 

@@ -75,7 +75,7 @@ export default function TENderly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>TENderly</strong>" (một cách dịu dàng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>TENderly</strong>" (dịu dàng) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function TENderly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="HELD">she TENderly [HELD] the BAby in her ARMS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [ôm] đứa bé một cách dịu dàng trong vòng tay.</li>
+        <li value="1" id="HELD">she TENderly HELD the BAby in her ARMS.</li>
+        <li className="list-none margin-bottom-20">Cô nhẹ nhàng ôm đứa bé trong vòng tay.</li>
 
-        <li value="2" id="TOUCHED">he TENderly [TOUCHED] her CHEEK.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [chạm nhẹ] vào má cô ấy một cách dịu dàng.</li>
+        <li value="2" id="TOUCHED">he TENderly TOUCHED her CHEEK.</li>
+        <li className="list-none margin-bottom-20">Anh nhẹ nhàng vuốt ve má cô.</li>
 
-        <li value="3" id="KISSED">they TENderly [KISSED] GOODbye.</li>
-        <li className="list-none margin-bottom-20">Họ [hôn] tạm biệt nhau một cách dịu dàng.</li>
+        <li value="3" id="KISSED">they TENderly KISSED GOODbye.</li>
+        <li className="list-none margin-bottom-20">Họ đã nhẹ nhàng hôn nhau để chia tay.</li>
 
-        <li value="4" id="CARED-for">she TENderly [CARED for] her SICK MOTHer.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [chăm sóc] người mẹ ốm yếu của mình một cách dịu dàng.</li>
+        <li value="4" id="CARED-for">she TENderly CARED for her SICK MOTHer.</li>
+        <li className="list-none margin-bottom-20">Cô đã tận tình chăm sóc người mẹ ốm yếu của mình.</li>
 
-        <li value="5" id="SPOKE-to-about">he TENderly [SPOKE to] her [a<strong>bout</strong>] her FEARS.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [nói chuyện với] cô ấy [về] nỗi sợ hãi của cô ấy một cách dịu dàng.</li>
+        <li value="5" id="SPOKE-to-about">he TENderly SPOKE to her a<strong>bout</strong> her FEARS.</li>
+        <li className="list-none margin-bottom-20">Anh nhẹ nhàng nói chuyện với cô về những nỗi sợ hãi của cô.</li>
 
-        <li value="6" id="LOOKED-at">she TENderly [LOOKED at] her SLEEPing CHILD.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [nhìn] đứa con đang ngủ của mình một cách dịu dàng.</li>
+        <li value="6" id="LOOKED-at">she TENderly LOOKED at her SLEEPing CHILD.</li>
+        <li className="list-none margin-bottom-20">Cô dịu dàng nhìn đứa con đang ngủ của mình.</li>
 
-        <li value="7" id="SMILED-at">he TENderly [SMILED at] her.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [mỉm cười với] cô ấy một cách dịu dàng.</li>
+        <li value="7" id="SMILED-at">he TENderly SMILED at her.</li>
+        <li className="list-none margin-bottom-20">Anh mỉm cười dịu dàng với cô.</li>
 
-        <li value="8" id="emBRACED">they TENderly [emBRACED] <strong>af</strong>ter their LONG sepaRAtion.</li>
-        <li className="list-none margin-bottom-20">Họ [ôm ấp] nhau một cách dịu dàng sau thời gian dài xa cách.</li>
+        <li value="8" id="emBRACED">they TENderly emBRACED <strong>af</strong>ter their LONG sepaRAtion.</li>
+        <li className="list-none margin-bottom-20">Họ đã ôm nhau thật dịu dàng sau một thời gian dài xa cách.</li>
 
-        <li value="9" id="COMforted">she TENderly [COMforted] her FRIEND who was CRYing.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [an ủi] người bạn đang khóc của mình một cách dịu dàng.</li>
+        <li value="9" id="COMforted">she TENderly COMforted her FRIEND who was CRYing.</li>
+        <li className="list-none margin-bottom-20">Cô ấy dịu dàng an ủi người bạn đang khóc.</li>
 
-        <li value="10" id="caRESSED">he TENderly [caRESSED] her HAIR.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [vuốt ve] mái tóc cô ấy một cách dịu dàng.</li>
+        <li value="10" id="caRESSED">he TENderly caRESSED her HAIR.</li>
+        <li className="list-none margin-bottom-20">Anh nhẹ nhàng vuốt ve mái tóc cô.</li>
 
       </ol>
 

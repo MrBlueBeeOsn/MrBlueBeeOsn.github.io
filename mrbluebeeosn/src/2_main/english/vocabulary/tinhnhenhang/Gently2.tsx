@@ -103,35 +103,35 @@ export default function GENTly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="caRESSED">she GENTly [caRESSED] the BAby's CHEEK.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng [vuốt ve] má em bé.</li>
+        <li value="1" id="caRESSED">she GENTly caRESSED the BAby's CHEEK.</li>
+        <li className="list-none margin-bottom-20">Cô nhẹ nhàng vuốt ve má em bé.</li>
 
-        <li value="2" id="PUSHED">he GENTly [PUSHED] the DOOR Open.</li>
-        <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng [đẩy] cửa ra.</li>
+        <li value="2" id="PUSHED">he GENTly PUSHED the DOOR Open.</li>
+        <li className="list-none margin-bottom-20">Anh nhẹ nhàng đẩy cánh cửa mở ra.</li>
 
-        <li value="3" id="SHOOK">she GENTly [SHOOK] the BOTtle to MIX the inGREdients.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng [lắc] chai để trộn các thành phần.</li>
+        <li value="3" id="SHOOK">she GENTly SHOOK the BOTtle to MIX the inGREdients.</li>
+        <li className="list-none margin-bottom-20">Cô nhẹ nhàng lắc chai để trộn đều các nguyên liệu.</li>
 
-        <li value="4" id="SLOPED-DOWN-to">the HILL GENTly [SLOPED DOWN to] the VALley.</li>
-        <li className="list-none margin-bottom-20">Ngọn đồi thoai thoải [dốc xuống] thung lũng.</li>
+        <li value="4" id="SLOPED-DOWN-to">the HILL GENTly SLOPED DOWN to the VALley.</li>
+        <li className="list-none margin-bottom-20">Ngọn đồi dốc nhẹ xuống thung lũng.</li>
 
-        <li value="5" id="RAINing">it was GENTly [RAINing] outSIDE.</li>
-        <li className="list-none margin-bottom-20">Trời đang [mưa phùn] bên ngoài.</li>
+        <li value="5" id="RAINing">it was GENTly RAINing outSIDE.</li>
+        <li className="list-none margin-bottom-20">Bên ngoài, trời đang mưa nhẹ.</li>
 
-        <li value="6" id="SPOKE-to">she [SPOKE] GENTly [to] the CHILD.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [nói] nhẹ nhàng [với] đứa trẻ.</li>
+        <li value="6" id="SPOKE-to">she SPOKE GENTly to the CHILD.</li>
+        <li className="list-none margin-bottom-20">Cô ấy nói nhẹ nhàng với đứa trẻ.</li>
 
-        <li value="7" id="SMILED-at">he GENTly [SMILED at] her.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [mỉm cười] nhẹ nhàng [với] cô ấy.</li>
+        <li value="7" id="SMILED-at">he GENTly SMILED at her.</li>
+        <li className="list-none margin-bottom-20">Anh nhẹ nhàng mỉm cười với cô.</li>
 
-        <li value="8" id="LOWered-into">she GENTly [LOWered] herSELF [<strong>in</strong>to] the CHAIR.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng [ngồi xuống] ghế.</li>
+        <li value="8" id="LOWered-into">she GENTly LOWered herSELF <strong>in</strong>to the CHAIR.</li>
+        <li className="list-none margin-bottom-20">Cô nhẹ nhàng ngồi xuống ghế.</li>
 
-        <li value="9" id="TAPPED-on">he GENTly [TAPPED on] the WINdow.</li>
-        <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng [gõ vào] cửa sổ.</li>
+        <li value="9" id="TAPPED-on">he GENTly TAPPED on the WINdow.</li>
+        <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng gõ vào cửa sổ.</li>
 
-        <li value="10" id="SWAYED-in">the TREES GENTly [SWAYED in] the BREEZE.</li>
-        <li className="list-none margin-bottom-20">Những cái cây [đung đưa] nhẹ nhàng [trong] gió.</li>
+        <li value="10" id="SWAYED-in">the TREES GENTly SWAYED in the BREEZE.</li>
+        <li className="list-none margin-bottom-20">Những cây cối nhẹ nhàng đung đưa trong gió.</li>
 
       </ol>
 

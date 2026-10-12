@@ -75,7 +75,7 @@ export default function SOFTly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách nhẹ nhàng, dịu dàng</li>
+            <li>Nhẹ nhàng</li>
 
           </ul>
 
@@ -94,10 +94,10 @@ export default function SOFTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she CLOSED the DOOR SOFTly.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đóng cửa nhẹ nhàng.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đóng cửa một cách nhẹ nhàng.</li>
 
           <li>he SPOKE SOFTly so as NOT to WAKE the BAby.</li>
-          <li className="list-none">Anh ấy nói nhỏ để không đánh thức em bé.</li>
+          <li className="list-none">Anh ấy nói rất nhẹ để không làm thức giấc em bé.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function SOFTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the BLANket is VERy SOFT.</li>
-          <li className="list-none">Chăn rất mềm.</li>
+          <li className="list-none">Chiếc chăn này rất mềm.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function SOFTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she <Link to="/vocabulary/GENTly-1">GENtly</Link> STROKED the CAT.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy vuốt ve con mèo một cách nhẹ nhàng.</li>
+          <li className="margin-bottom-20 list-none">Cô nhẹ nhàng vuốt ve con mèo.</li>
 
           <li>she WALKED QUIetly OUT of the ROOM.</li>
-          <li className="list-none">Cô ấy đi ra khỏi phòng một cách yên lặng.</li>
+          <li className="list-none">Cô ấy lặng lẽ bước ra khỏi phòng.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function SOFTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he SHOUTed LOUDly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy hét lên rất to.</li>
+          <li className="margin-bottom-20 list-none">Anh ta hét lên thật to.</li>
 
           <li>he HANDled the PACKage ROUGHly.</li>
-          <li className="list-none">Anh ấy cầm gói hàng một cách thô bạo.</li>
+          <li className="list-none">Anh ta đã xử lý gói hàng một cách thô bạo.</li>
 
         </ul>
       
@@ -197,12 +197,12 @@ export default function SOFTly1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>softly</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>SOFTly</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
           <li>"can you PLEASE SPEAK SOFTly?" she WHISpered.</li>
-          <li className="list-none">Cô ấy thì thầm: "Bạn có thể nói nhỏ nhẹ được không?"</li>
+          <li className="list-none">"Làm ơn nói nhỏ lại được không?" cô thì thầm.</li>
 
         </ul>
 
@@ -224,10 +224,10 @@ export default function SOFTly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he CLOSED the DOOR.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đóng cửa.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã đóng cửa.</li>
 
             <li value="2">he SOFTly CLOSED the DOOR.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đóng cửa nhẹ nhàng.</li>
+            <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng đóng cửa lại.</li>
 
           </ol>
 

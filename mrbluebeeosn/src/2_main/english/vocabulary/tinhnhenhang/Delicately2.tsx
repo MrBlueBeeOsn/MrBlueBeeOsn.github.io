@@ -75,7 +75,7 @@ export default function DELicately2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>DELicately</strong>" (một cách tinh tế, khéo léo) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>DELicately</strong>" (một cách tinh tế) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function DELicately2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="BALanced">the Ecosystem was DELicately [BALanced] be<strong>fore</strong> HUman interVENtion.</li>
-        <li className="list-none margin-bottom-20">Hệ sinh thái [đã được cân bằng] một cách tinh tế trước khi con người can thiệp.</li>
+        <li value="1" id="BALanced">the Ecosystem was DELicately BALanced be<strong>fore</strong> HUman interVENtion.</li>
+        <li className="list-none margin-bottom-20">Hệ sinh thái đã đạt được sự cân bằng tinh tế trước khi con người can thiệp.</li>
 
-        <li value="2" id="FLORal">the TEA has a DELicately [FLORal] aROma.</li>
-        <li className="list-none margin-bottom-20">Trà có hương thơm [hoa] rất tinh tế.</li>
+        <li value="2" id="FLORal">the TEA has a DELicately FLORal aROma.</li>
+        <li className="list-none margin-bottom-20">Loại trà này có hương thơm hoa nhẹ nhàng.</li>
 
-        <li value="3" id="SHAded">the PAINting was DELicately [SHAded], creAting a SOFT, eTHEreal ATmosphere.</li>
-        <li className="list-none margin-bottom-20">Bức tranh được [tô màu] một cách tinh tế, tạo ra một bầu không khí mềm mại, huyền ảo.</li>
+        <li value="3" id="SHAded">the PAINting was DELicately SHAded, creAting a SOFT, eTHEreal ATmosphere.</li>
+        <li className="list-none margin-bottom-20">Bức tranh được tô bóng một cách tinh tế, tạo nên một bầu không khí nhẹ nhàng, huyền ảo.</li>
 
-        <li value="4" id="HANDled">the situAtion reQUIred to be DELicately [HANDled] to aVOID CONflict.</li>
-        <li className="list-none margin-bottom-20">Tình huống này cần [được xử lý] một cách khéo léo để tránh xung đột.</li>
+        <li value="4" id="HANDled">the situAtion reQUIred to be DELicately HANDled to aVOID CONflict.</li>
+        <li className="list-none margin-bottom-20">Tình huống này cần được xử lý một cách khéo léo để tránh xung đột.</li>
 
-        <li value="5" id="SPICED">the CURry was DELicately [SPICED], alLOWing the NATURal FLAvors of the inGREdients to SHINE THROUGH.</li>
-        <li className="list-none margin-bottom-20">Cà ri [được gia vị] một cách tinh tế, cho phép hương vị tự nhiên của các nguyên liệu tỏa sáng.</li>
+        <li value="5" id="SPICED">the CURry was DELicately SPICED, alLOWing the NATURal FLAvors of the inGREdients to SHINE THROUGH.</li>
+        <li className="list-none margin-bottom-20">Món cà ri được nêm gia vị một cách tinh tế, giúp hương vị tự nhiên của các nguyên liệu được bộc lộ trọn vẹn.</li>
 
-        <li value="6" id="conSTRUCTed-with">the WATCH was DELicately [conSTRUCTed with] INtricate DEtails.</li>
-        <li className="list-none margin-bottom-20">Chiếc đồng hồ [được chế tác] một cách tinh xảo [với] những chi tiết phức tạp.</li>
+        <li value="6" id="conSTRUCTed-with">the WATCH was DELicately conSTRUCTed with INtricate DEtails.</li>
+        <li className="list-none margin-bottom-20">Chiếc đồng hồ được chế tác một cách tinh xảo với những chi tiết phức tạp.</li>
 
-        <li value="7" id="WOven-with">the SILK SCARF was DELicately [WOven with] INtricate PATterns.</li>
-        <li className="list-none margin-bottom-20">Chiếc khăn lụa [được dệt] một cách tinh xảo [với] những họa tiết phức tạp.</li>
+        <li value="7" id="WOven-with">the SILK SCARF was DELicately WOven with INtricate PATterns.</li>
+        <li className="list-none margin-bottom-20">Chiếc khăn lụa được dệt một cách tinh tế với những hoa văn phức tạp.</li>
 
-        <li value="8" id="BALanced-on">the ACrobat DELicately [BALanced on] the TIGHTrope.</li>
-        <li className="list-none margin-bottom-20">Nghệ sĩ xiếc [cân bằng] một cách tinh tế [trên] dây cáp.</li>
+        <li value="8" id="BALanced-on">the ACrobat DELicately BALanced on the TIGHTrope.</li>
+        <li className="list-none margin-bottom-20">Người nhào lộn giữ thăng bằng một cách điêu luyện trên sợi dây thăng bằng.</li>
 
-        <li value="9" id="perFUMED-with">the ROOM was DELicately [perFUMED with] the SCENT of ROSES.</li>
-        <li className="list-none margin-bottom-20">Căn phòng [có mùi thơm] hoa hồng rất tinh tế.</li>
+        <li value="9" id="perFUMED-with">the ROOM was DELicately perFUMED with the SCENT of ROSES.</li>
+        <li className="list-none margin-bottom-20">Căn phòng ngập tràn hương hoa hồng dịu nhẹ.</li>
 
-        <li value="10" id="POISED-on">the balleRIna was DELicately [POISED on] the TIP of her TOES.</li>
-        <li className="list-none margin-bottom-20">Nữ vũ công ba lê [đứng ở tư thế cân bằng] một cách tinh tế trên mũi chân.</li>
+        <li value="10" id="POISED-on">the balleRIna was DELicately POISED on the TIP of her TOES.</li>
+        <li className="list-none margin-bottom-20">Nữ diễn viên múa ba lê đang đứng một cách duyên dáng trên đầu ngón chân.</li>
 
       </ol>
 

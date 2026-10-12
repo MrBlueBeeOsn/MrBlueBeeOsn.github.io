@@ -75,7 +75,7 @@ export default function SOFTly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SOFTly</strong>" (một cách nhẹ nhàng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SOFTly</strong>" (nhẹ nhàng) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function SOFTly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="SPOken-to">she SOFTly [SPOken to] the BAby to CALM it DOWN.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [nói] nhỏ nhẹ [với] em bé để dỗ nó nín.</li>
+        <li value="1" id="SPOken-to">she SOFTly SPOken to the BAby to CALM it DOWN.</li>
+        <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng thì thầm với em bé để dỗ dành em.</li>
 
-        <li value="2" id="LIT-by">the ROOM was SOFTly [LIT by] CANdlelight.</li>
-        <li className="list-none margin-bottom-20">Căn phòng [được chiếu sáng] dịu nhẹ [bởi] ánh nến.</li>
+        <li value="2" id="LIT-by">the ROOM was SOFTly LIT by CANdlelight.</li>
+        <li className="list-none margin-bottom-20">Căn phòng được thắp sáng một cách dịu nhẹ bởi ánh nến.</li>
 
-        <li value="3" id="PADded-for">the CHAIR was SOFTly [PADded for] COMfort.</li>
-        <li className="list-none margin-bottom-20">Chiếc ghế [được đệm] mềm mại để tạo cảm giác thoải mái.</li>
+        <li value="3" id="PADded-for">the CHAIR was SOFTly PADded for COMfort.</li>
+        <li className="list-none margin-bottom-20">Ghế được bọc đệm mềm mại để mang lại sự thoải mái.</li>
 
-        <li value="4" id="PLAYED-in">the MUsic was SOFTly [PLAYED in] the BACKground.</li>
-        <li className="list-none margin-bottom-20">Âm nhạc [được chơi] nhẹ nhàng [ở] nền.</li>
+        <li value="4" id="PLAYED-in">the MUsic was SOFTly PLAYED in the BACKground.</li>
+        <li className="list-none margin-bottom-20">Nhạc được phát nhẹ nhàng ở phía sau.</li>
 
-        <li value="5" id="BRUSHED-with">she SOFTly [BRUSHED] her HAIR [with] a WOODen COMB.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [chải] nhẹ nhàng mái tóc [bằng] chiếc lược gỗ.</li>
+        <li value="5" id="BRUSHED-with">she SOFTly BRUSHED her HAIR with a WOODen COMB.</li>
+        <li className="list-none margin-bottom-20">Cô nhẹ nhàng chải tóc bằng một chiếc lược gỗ.</li>
 
-        <li value="6" id="WHISpered-in">he SOFTly [WHISpered in] her EAR.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [thì thầm] nhẹ nhàng [vào] tai cô ấy.</li>
+        <li value="6" id="WHISpered-in">he SOFTly WHISpered in her EAR.</li>
+        <li className="list-none margin-bottom-20">Anh thì thầm nhẹ nhàng vào tai cô.</li>
 
-        <li value="7" id="CLOSED">she SOFTly [CLOSED] the DOOR behind her.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [đóng] nhẹ nhàng cánh cửa sau lưng.</li>
+        <li value="7" id="CLOSED">she SOFTly CLOSED the DOOR behind her.</li>
+        <li className="list-none margin-bottom-20">Cô nhẹ nhàng đóng cửa lại phía sau lưng.</li>
 
-        <li value="8" id="GLOWing-in">the FIREflies were SOFTly [GLOWing in] the DARKness.</li>
-        <li className="list-none margin-bottom-20">Những con đom đóm [phát ra ánh sáng] dịu nhẹ [trong] bóng tối.</li>
+        <li value="8" id="GLOWing-in">the FIREflies were SOFTly GLOWing in the DARKness.</li>
+        <li className="list-none margin-bottom-20">Những con đom đóm đang phát sáng nhẹ nhàng trong bóng tối.</li>
 
-        <li value="9" id="FALLing-from">SNOWflakes were SOFTly [FALLing from] the SKY.</li>
-        <li className="list-none margin-bottom-20">Những bông tuyết [rơi] nhẹ nhàng [từ] trên trời xuống.</li>
+        <li value="9" id="FALLing-from">SNOWflakes were SOFTly FALLing from the SKY.</li>
+        <li className="list-none margin-bottom-20">Những bông tuyết đang nhẹ nhàng rơi xuống từ bầu trời..</li>
 
-        <li value="10" id="LANDed-on">the BIRD SOFTly [LANDed on] the BRANCH.</li>
-        <li className="list-none margin-bottom-20">Con chim [hạ cánh] nhẹ nhàng [trên] cành cây.</li>
+        <li value="10" id="LANDed-on">the BIRD SOFTly LANDed on the BRANCH.</li>
+        <li className="list-none margin-bottom-20">Con chim nhẹ nhàng đậu xuống cành cây.</li>
 
       </ol>
 

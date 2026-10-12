@@ -75,7 +75,7 @@ export default function DELicately1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách tinh tế, nhẹ nhàng</li>
+            <li>Một cách tinh tế</li>
 
           </ul>
 
@@ -94,10 +94,10 @@ export default function DELicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she DELicately pickED UP the FRAGile VASE.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy nhẹ nhàng nhặt chiếc bình thủy tinh dễ vỡ.</li>
+          <li className="margin-bottom-20 list-none">Cô nhẹ nhàng nhấc chiếc bình dễ vỡ lên.</li>
 
           <li>he DELicately BROACHED the SUBject of MONey with his PARents.</li>
-          <li className="list-none">Anh ấy khéo léo đề cập đến vấn đề tiền bạc với ba mẹ.</li>
+          <li className="list-none">Anh ấy đã khéo léo đề cập đến vấn đề tiền bạc với ba mẹ mình.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function DELicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the CHIna is VERy DELicate.</li>
-          <li className="list-none">Đồ sứ rất dễ vỡ.</li>
+          <li className="list-none">Đồ sứ này rất dễ vỡ..</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function DELicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she <Link to="/vocabulary/GENTly-1">GENTly</Link> CLOSED the DOOR.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy nhẹ nhàng đóng cửa.</li>
+          <li className="margin-bottom-20 list-none">Cô nhẹ nhàng đóng cửa lại.</li>
 
           <li>he <Link to="/vocabulary/CAREfully-1">CAREfully</Link> PACKED the BOX.</li>
-          <li className="list-none">Anh ấy cẩn thận đóng gói hộp.</li>
+          <li className="list-none">Anh ấy đã gói hộp một cách cẩn thận.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function DELicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he HANDled the PACKage ROUGHly.</li>
-          <li className="margin-bottom-20 list-none">Anh ta xử lý gói hàng một cách thô bạo.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã xử lý gói hàng một cách thô bạo.</li>
 
           <li>the STORM RAGED VIolently.</li>
-          <li className="list-none">Bão nổi lên dữ dội.</li>
+          <li className="list-none">Cơn bão đã hoành hành dữ dội.</li>
 
         </ul>
       
@@ -182,7 +182,7 @@ export default function DELicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she is DELicately HOLDing the BEAUtiful CAKE.</li>
-          <li className="list-none">Cô ấy đang nhẹ nhàng giữ chiếc bánh kem đẹp.</li>
+          <li className="list-none">Cô ấy đang nhẹ nhàng cầm chiếc bánh xinh đẹp.</li>
 
         </ul>
 
@@ -202,7 +202,7 @@ export default function DELicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he DELicately sugGESted that she might WANT to reconSIDer her deCISion.</li>
-          <li className="list-none">Anh ấy nhẹ nhàng gợi ý rằng cô ấy có thể muốn xem xét lại quyết định của mình.</li>
+          <li className="list-none">Anh ấy khéo léo gợi ý rằng cô ấy có lẽ nên suy nghĩ lại về quyết định của mình.</li>
 
         </ul>
 
@@ -224,10 +224,10 @@ export default function DELicately1(): React.JSX.Element {
           <ol>
 
             <li value="1">he CLOSED the DOOR.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đóng cửa.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã đóng cửa.</li>
 
             <li value="2">he DELicately CLOSED the DOOR so as NOT to WAKE the BAby.</li>
-            <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng đóng cửa để không đánh thức đứa bé.</li>
+            <li className="list-none margin-bottom-20">Anh nhẹ nhàng đóng cửa để không làm thức giấc em bé.</li>
 
           </ol>
 
