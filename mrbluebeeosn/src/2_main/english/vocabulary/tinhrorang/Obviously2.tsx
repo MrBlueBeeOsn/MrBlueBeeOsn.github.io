@@ -75,7 +75,7 @@ export default function OBviously2(): React.JSX.Element {
 
 			{/* This is the content of Vocabulary Term. */}
 
-			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>OBviously</strong>" (rõ ràng) và các cụm từ thường đi kèm nhé.</p>
+			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>OBviously</strong>" (rõ ràng là) và các cụm từ thường đi kèm nhé.</p>
 
 			<div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function OBviously2(): React.JSX.Element {
 
 			<ol className="margin-top-30 padding-left-30">
 
-				<li value="1" id="WRONG">his ANswer was OBviously [WRONG].</li>
-				<li className="list-none margin-bottom-20">Câu trả lời của anh ấy rõ ràng là [sai].</li>
+				<li value="1" id="WRONG">his ANswer was OBviously WRONG.</li>
+				<li className="list-none margin-bottom-20">Câu trả lời của anh ấy rõ ràng là sai.</li>
 
-				<li value="2" id="corRECT">her soLUtion was OBviously [corRECT].</li>
-				<li className="list-none margin-bottom-20">Giải pháp của cô ấy rõ ràng là [đúng].</li>
+				<li value="2" id="corRECT">her soLUtion was OBviously corRECT.</li>
+				<li className="list-none margin-bottom-20">Giải pháp của cô ấy rõ ràng là đúng.</li>
 
-				<li value="3" id="the-BEST-OPTion">THIS is OBviously [the BEST OPTion].</li>
-				<li className="list-none margin-bottom-20">Đây rõ ràng là [lựa chọn tốt nhất].</li>
+				<li value="3" id="the-BEST-OPTion">THIS is OBviously the BEST OPTion.</li>
+				<li className="list-none margin-bottom-20">Đây rõ ràng là lựa chọn tốt nhất.</li>
 
-				<li value="4" id="upSET-about">she was OBviously [upSET a<strong>bout</strong>] the NEWS.</li>
-				<li className="list-none margin-bottom-20">Cô ấy rõ ràng là [buồn về] tin tức đó.</li>
+				<li value="4" id="upSET-about">she was OBviously upSET a<strong>bout</strong> the NEWS.</li>
+				<li className="list-none margin-bottom-20">Cô ấy rõ ràng là rất buồn vì tin tức đó.</li>
 
-				<li value="5" id="exCIted-about">he was OBviously [exCIted a<strong>bout</strong>] the TRIP.</li>
-				<li className="list-none margin-bottom-20">Anh ấy rõ ràng là [hào hứng về] chuyến đi.</li>
+				<li value="5" id="exCIted-about">he was OBviously exCIted a<strong>bout</strong> the TRIP.</li>
+				<li className="list-none margin-bottom-20">Anh ấy rõ ràng là rất hào hứng với chuyến đi này.</li>
 
-				<li value="6" id="TIred-after">she was OBviously [TIred <strong>af</strong>ter] a LONG DAY.</li>
-				<li className="list-none margin-bottom-20">Cô ấy rõ ràng là rất mệt sau một ngày dài.</li>
+				<li value="6" id="TIred-after">she was OBviously TIred <strong>af</strong>ter a LONG DAY.</li>
+				<li className="list-none margin-bottom-20">Rõ ràng là cô ấy đã rất mệt mỏi sau một ngày dài.</li>
 
-				<li value="7" id="PLANNED">the ACcident was OBviously [PLANNED].</li>
-				<li className="list-none margin-bottom-20">Vụ tai nạn rõ ràng là [đã được lên kế hoạch].</li>
+				<li value="7" id="PLANNED">the ACcident was OBviously PLANNED.</li>
+				<li className="list-none margin-bottom-20">Vụ tai nạn rõ ràng là đã được lên kế hoạch từ trước.</li>
 
-				<li value="8" id="CAREless-with">he was OBviously [CAREless with] his WORK.</li>
-				<li className="list-none margin-bottom-20">Anh ấy rõ ràng là [rất cẩu thả trong] công việc.</li>
+				<li value="8" id="CAREless-with">he was OBviously CAREless with his WORK.</li>
+				<li className="list-none margin-bottom-20">Rõ ràng là anh ta đã làm việc một cách cẩu thả.</li>
 
-				<li value="9" id="inTENTional">the DAMage was OBviously [inTENTional].</li>
-				<li className="list-none margin-bottom-20">Những hư hại này rõ ràng là [cố ý] gây ra.</li>
+				<li value="9" id="inTENTional">the DAMage was OBviously inTENTional.</li>
+				<li className="list-none margin-bottom-20">Rõ ràng là hành vi gây thiệt hại đó là có chủ ý.</li>
 
-				<li value="10" id="misTAken-about">you are OBviously [misTAken a<strong>bout</strong>] the FACTS.</li>
-				<li className="list-none margin-bottom-20">Bạn rõ ràng là [đã nhầm lẫn về] những sự thật.</li>
+				<li value="10" id="misTAken-about">you are OBviously misTAken a<strong>bout</strong> the FACTS.</li>
+				<li className="list-none margin-bottom-20">Rõ ràng là bạn đã hiểu nhầm về các sự kiện.</li>
 
 			</ol>
 

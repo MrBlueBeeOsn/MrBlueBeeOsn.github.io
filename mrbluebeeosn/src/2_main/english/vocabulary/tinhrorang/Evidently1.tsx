@@ -79,7 +79,7 @@ export default function EVidently1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Rõ ràng, hiển nhiên</li>
+            <li>Rõ ràng là</li>
 
           </ul>
 
@@ -98,7 +98,7 @@ export default function EVidently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she was EVidently upSET a<strong>bout</strong> the NEWS.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy rõ ràng rất buồn về tin đó.</li>
+          <li className="margin-bottom-20 list-none">Rõ ràng là cô ấy đã rất buồn vì tin tức đó.</li>
 
           <li>the exPERiment reSULTS were EVidently sucCESSful.</li>
           <li className="list-none">Kết quả thí nghiệm rõ ràng là thành công.</li>
@@ -118,10 +118,10 @@ export default function EVidently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the soLUtion is EVident to <strong>ever</strong>yone.</li>
-          <li className="list-none">Giải pháp rất rõ ràng đối với mọi người.</li>
+          <li className="list-none">Giải pháp là điều hiển nhiên đối với tất cả mọi người.</li>
 
           <li id="NOUN">there is NO EVidence to supPORT his CLAIM.</li>
-          <li className="margin-bottom-20 list-none">Không có bằng chứng nào để chứng minh cho tuyên bố của anh ta.</li>
+          <li className="margin-bottom-20 list-none">Không có bằng chứng nào để chứng minh cho lời khai của anh ta.</li>
 
         </ul>
 
@@ -141,7 +141,7 @@ export default function EVidently1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cô ấy đã nêu rõ quan điểm của mình.</li>
 
           <li>it was <Link to="/vocabulary/OBviously-1">OBviously</Link> a misTAKE.</li>
-          <li className="list-none">Rõ ràng đó là một sai lầm.</li>
+          <li className="list-none">Đó rõ ràng là một sai lầm.</li>
 
         </ul>
 
@@ -158,10 +158,10 @@ export default function EVidently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he LOOKED at me DOUBTfully.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy nhìn tôi một cách nghi ngờ.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy nhìn tôi với vẻ nghi ngờ.</li>
 
           <li>she ANswered unCERtainly.</li>
-          <li className="list-none">Cô ấy trả lời một cách không chắc chắn.</li>
+          <li className="list-none">Cô ấy trả lời một cách lưỡng lự.</li>
 
         </ul>
       
@@ -187,10 +187,10 @@ export default function EVidently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the SIGN was EVidently CLEAR.</li>
-          <li className="margin-bottom-20 list-none">Biển báo rõ ràng.</li>
+          <li className="margin-bottom-20 list-none">Dấu hiệu đó rõ ràng là rất rõ ràng.</li>
 
           <li>she was EVidently SMIling BRIGHTly.</li>
-          <li className="list-none">Cô ấy rõ ràng đang cười rất tươi.</li>
+          <li className="list-none">Rõ ràng là cô ấy đang mỉm cười rạng rỡ.</li>
 
         </ul>
 
@@ -210,7 +210,7 @@ export default function EVidently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>EVidently, he had been CRYing.</li>
-          <li className="list-none">Rõ ràng anh ấy đã khóc.</li>
+          <li className="list-none">Rõ ràng là anh ấy đã khóc.</li>
 
         </ul>
 
@@ -232,10 +232,10 @@ export default function EVidently1(): React.JSX.Element {
           <ol>
 
             <li value="1">she was SAD.</li>
-            <li className="list-none margin-bottom-20">Cô ấy buồn.</li>
+            <li className="list-none margin-bottom-20">Cô ấy cảm thấy buồn.</li>
 
             <li value="2">she was EVidently SAD, with RED, PUFFy EYES.</li>
-            <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất buồn, với đôi mắt đỏ hoe và sưng húp.</li>
+            <li className="list-none margin-bottom-20">Rõ ràng là cô ấy đang buồn, với đôi mắt đỏ và sưng húp.</li>
 
           </ol>
 

@@ -75,7 +75,7 @@ export default function VISibly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>VISibly</strong>" (một cách rõ ràng, dễ thấy) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>VISibly</strong>" (rõ ràng) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function VISibly1(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="exCIted-about">the CHILDren were VISibly [exCIted a<strong>bout</strong>] the UPcoming TRIP.</li>
-        <li className="list-none margin-bottom-20">Những đứa trẻ rõ ràng [phấn khích về] chuyến đi sắp tới.</li>
+        <li value="1" id="exCIted-about">the CHILDren were VISibly exCIted a<strong>bout</strong> the UPcoming TRIP.</li>
+        <li className="list-none margin-bottom-20">Các em nhỏ trông rõ ràng rất háo hức trước chuyến đi sắp tới.</li>
 
-        <li value="2" id="upSET-after-HEARing">she was VISibly [upSET <strong>af</strong>ter HEARing] the BAD NEWS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rõ ràng [buồn sau khi nghe] tin xấu.</li>
+        <li value="2" id="upSET-after-HEARing">she was VISibly upSET <strong>af</strong>ter HEARing the BAD NEWS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy trông rõ ràng là rất buồn bã sau khi nghe tin xấu.</li>
 
-        <li value="3" id="SHAken-after">he was VISibly [SHAken <strong>af</strong>ter] the ACcident.</li>
-        <li className="list-none margin-bottom-20">Anh ấy rõ ràng [hoảng loạn sau] vụ tai nạn.</li>
+        <li value="3" id="SHAken-after">he was VISibly SHAken <strong>af</strong>ter the ACcident.</li>
+        <li className="list-none margin-bottom-20">Anh ấy trông rõ ràng là rất hoảng hốt sau vụ tai nạn.</li>
 
-        <li value="4" id="reLIEVED-when">she was VISibly [reLIEVED when] she FOUND her LOST KEYS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rõ ràng [nhẹ nhõm khi] tìm thấy chìa khóa bị mất.</li>
+        <li value="4" id="reLIEVED-when">she was VISibly reLIEVED when she FOUND her LOST KEYS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy trông rõ ràng là nhẹ nhõm khi tìm thấy chùm chìa khóa bị mất.</li>
 
-        <li value="5" id="AGED"><strong>af</strong>ter YEARS of HARD WORK, he LOOKED VISibly [AGED].</li>
-        <li className="list-none margin-bottom-20">Sau nhiều năm làm việc chăm chỉ, anh ấy trông [già đi] rõ rệt.</li>
+        <li value="5" id="AGED"><strong>af</strong>ter YEARS of HARD WORK, he LOOKED VISibly AGED.</li>
+        <li className="list-none margin-bottom-20">Sau nhiều năm làm việc cần mẫn, anh ấy trông rõ ràng đã già đi.</li>
 
-        <li value="6" id="imPROVED">her HEALTH has VISibly [imPROVED] since she STARted EXercising.</li>
-        <li className="list-none margin-bottom-20">Sức khỏe của cô ấy [đã cải thiện] rõ rệt kể từ khi cô ấy bắt đầu tập thể dục.</li>
+        <li value="6" id="imPROVED">her HEALTH has VISibly imPROVED since she STARted EXercising.</li>
+        <li className="list-none margin-bottom-20">Sức khỏe của cô ấy đã cải thiện rõ rệt kể từ khi cô ấy bắt đầu tập thể dục.</li>
 
-        <li value="7" id="STRAINED">his FACE was VISibly [STRAINED] as he LIFted the HEAVy BOX.</li>
-        <li className="list-none margin-bottom-20">Gương mặt anh ấy rõ ràng [căng thẳng] khi nâng chiếc hộp nặng.</li>
+        <li value="7" id="STRAINED">his FACE was VISibly STRAINED as he LIFted the HEAVy BOX.</li>
+        <li className="list-none margin-bottom-20">Khuôn mặt anh ta rõ ràng đang căng thẳng khi anh ta nhấc chiếc hộp nặng nề lên.</li>
 
-        <li value="8" id="NERvous">she was VISibly [NERvous] be<strong>fore</strong> her SPEECH.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rõ ràng [lo lắng] trước bài phát biểu của mình.</li>
+        <li value="8" id="NERvous">she was VISibly NERvous be<strong>fore</strong> her SPEECH.</li>
+        <li className="list-none margin-bottom-20">Cô ấy trông rõ ràng là rất lo lắng trước khi phát biểu.</li>
 
-        <li value="9" id="unCOMFORTable">he was VISibly [unCOMFORTable] when they ASKED a<strong>bout</strong> his PAST.</li>
-        <li className="list-none margin-bottom-20">Anh ấy rõ ràng [không thoải mái] khi họ hỏi về quá khứ của anh.</li>
+        <li value="9" id="unCOMFORTable">he was VISibly unCOMFORTable when they ASKED a<strong>bout</strong> his PAST.</li>
+        <li className="list-none margin-bottom-20">Anh ta trông rõ ràng là không thoải mái khi họ hỏi về quá khứ của anh ta.</li>
 
-        <li value="10" id="DIFFERent-in">the TWO SISters were VISibly [DIFFERent in] persoNALity.</li>
-        <li className="list-none margin-bottom-20">Hai chị em rõ ràng có tính cách [khác nhau].</li>
+        <li value="10" id="DIFFERent-in">the TWO SISters were VISibly DIFFERent in persoNALity.</li>
+        <li className="list-none margin-bottom-20">Hai chị em này rõ ràng có tính cách khác nhau.</li>
 
       </ol>
 

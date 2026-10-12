@@ -79,7 +79,7 @@ export default function CLEARly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Rõ ràng, một cách rõ ràng</li>
+            <li>Rõ ràng</li>
 
           </ul>
 
@@ -118,7 +118,7 @@ export default function CLEARly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the SKY is CLEAR toDAY.</li>
-          <li className="margin-bottom-20 list-none">Trời hôm nay trong xanh.</li>
+          <li className="margin-bottom-20 list-none">Hôm nay trời trong xanh.</li>
 
           <li id="NOUN">the CLARity of her explaNAtion was imPRESsive.</li>
           <li className="list-none">Sự rõ ràng trong lời giải thích của cô ấy thật ấn tượng.</li>
@@ -138,7 +138,7 @@ export default function CLEARly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/OBviously-1">OBviously</Link>, he's LYing.</li>
-          <li className="margin-bottom-20 list-none">Rõ ràng, anh ta đang nói dối.</li>
+          <li className="margin-bottom-20 list-none">Rõ ràng là anh ta đang nói dối.</li>
 
           <li>the ANswer is PLAINly WRONG.</li>
           <li className="list-none">Câu trả lời rõ ràng là sai.</li>
@@ -158,7 +158,7 @@ export default function CLEARly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i VAGUEly reMEMber his NAME.</li>
-          <li className="margin-bottom-20 list-none">Tôi nhớ mang máng tên anh ấy.</li>
+          <li className="margin-bottom-20 list-none">Tôi chỉ nhớ lờ mờ tên của anh ấy.</li>
 
           <li>she SPOKE unCLEARly.</li>
           <li className="list-none">Cô ấy nói không rõ ràng.</li>
@@ -187,7 +187,7 @@ export default function CLEARly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>you can CLEARly SEE <strong>ever</strong>y deTAIL in the PICture.</li>
-          <li className="list-none">Bạn có thể nhìn thấy rõ ràng mọi chi tiết trong bức tranh.</li>
+          <li className="list-none">Bạn có thể nhìn rõ từng chi tiết trong bức ảnh.</li>
 
         </ul>
 
@@ -207,7 +207,7 @@ export default function CLEARly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i can CLEARly SEE the DIFFERence between the TWO.</li>
-          <li className="list-none">Tôi có thể thấy rõ sự khác biệt giữa hai cái.</li>
+          <li className="list-none">Tôi có thể nhận thấy rõ ràng sự khác biệt giữa hai thứ đó.</li>
 
         </ul>
 
@@ -229,10 +229,10 @@ export default function CLEARly1(): React.JSX.Element {
           <ol>
 
             <li value="1">i underSTAND.</li>
-            <li className="list-none margin-bottom-20">Tôi hiểu.</li>
+            <li className="list-none margin-bottom-20">Tôi hiểu rồi.</li>
 
             <li value="2">i underSTAND CLEARly.</li>
-            <li className="list-none margin-bottom-20">Tôi hiểu rõ.</li>
+            <li className="list-none margin-bottom-20">Tôi hiểu rõ ràng.</li>
 
           </ol>
 

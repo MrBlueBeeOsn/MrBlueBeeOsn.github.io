@@ -79,7 +79,7 @@ export default function VISibly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách rõ ràng, dễ thấy</li>
+            <li>Rõ ràng</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function VISibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she was VISibly upSET.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy rõ ràng đang rất buồn.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy trông rõ ràng là đang buồn bã.</li>
 
           <li>the DAMage to the CAR was VISibly apPARent.</li>
-          <li className="list-none">Vết hư hỏng trên xe rất dễ thấy.</li>
+          <li className="list-none">Hư hỏng trên chiếc xe rất rõ ràng.</li>
 
         </ul>
 
@@ -118,7 +118,7 @@ export default function VISibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the STARS are VISible on a CLEAR NIGHT.</li>
-          <li className="margin-bottom-20 list-none">Các ngôi sao có thể nhìn thấy vào một đêm trời quang.</li>
+          <li className="margin-bottom-20 list-none">Các ngôi sao có thể nhìn thấy được vào một đêm trời quang đãng.</li>
 
           <li id="NOUN">she has EXcellent VISion.</li>
           <li className="list-none">Cô ấy có thị lực rất tốt.</li>
@@ -141,7 +141,7 @@ export default function VISibly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Anh ấy đã nêu rõ quan điểm của mình.</li>
 
           <li>it was <Link to="/vocabulary/OBviously-1">OBviously</Link> a misTAKE.</li>
-          <li className="list-none">Rõ ràng đó là một sai lầm.</li>
+          <li className="list-none">Đó rõ ràng là một sai lầm.</li>
 
         </ul>
 
@@ -158,10 +158,10 @@ export default function VISibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the CHANGE was inVISibly SLOW.</li>
-          <li className="margin-bottom-20 list-none">Sự thay đổi diễn ra một cách chậm chạp đến mức không thể nhận thấy.</li>
+          <li className="margin-bottom-20 list-none">Sự thay đổi diễn ra một cách chậm chạp đến mức không thể nhận ra.</li>
 
           <li>the PLANT GREW imperCEPtibly <strong>o</strong>ver the WEEKS.</li>
-          <li className="list-none">Cây đã lớn lên một cách không thể nhận thấy trong vài tuần.</li>
+          <li className="list-none">Cây đã lớn lên một cách không thể nhận ra trong suốt những tuần qua.</li>
 
         </ul>
       
@@ -187,10 +187,10 @@ export default function VISibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>his FACE was VISibly RED with ANGer.</li>
-          <li className="margin-bottom-20 list-none">Khuôn mặt anh ta đỏ bừng một cách rõ ràng vì tức giận.</li>
+          <li className="margin-bottom-20 list-none">Khuôn mặt anh ta đỏ bừng vì tức giận.</li>
 
           <li>here was a VISibly LARGE STAIN on his WHITE SHIRT.</li>
-          <li className="list-none">Có một vết bẩn lớn một cách rõ ràng trên chiếc áo sơ mi trắng của anh ta.</li>
+          <li className="list-none">Trên chiếc áo sơ mi trắng của anh ấy có một vết bẩn rõ ràng và lớn.</li>
 
         </ul>
 
@@ -210,7 +210,7 @@ export default function VISibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she was VISibly TIred <strong>af</strong>ter the LONG JOURney.</li>
-          <li className="list-none">Cô ấy rõ ràng rất mệt sau chuyến đi dài.</li>
+          <li className="list-none">Cô ấy trông rõ ràng là mệt mỏi sau chuyến đi dài.</li>
 
         </ul>
 
@@ -232,10 +232,10 @@ export default function VISibly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he was SAD.</li>
-            <li className="list-none margin-bottom-20">Anh ấy buồn.</li>
+            <li className="list-none margin-bottom-20">Anh ấy cảm thấy buồn.</li>
 
             <li value="2">he was VISibly SAD, with TEARS in his EYES.</li>
-            <li className="list-none margin-bottom-20">Anh ấy rõ ràng rất buồn, với những giọt nước mắt trên mắt.</li>
+            <li className="list-none margin-bottom-20">Anh ấy trông rõ ràng là buồn, với những giọt nước mắt lăn trên mắt.</li>
 
           </ol>
 

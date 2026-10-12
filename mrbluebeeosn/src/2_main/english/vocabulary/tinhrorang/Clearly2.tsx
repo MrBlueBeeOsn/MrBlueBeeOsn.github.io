@@ -75,7 +75,7 @@ export default function CLEARly2(): React.JSX.Element {
 
 			{/* This is the content of Vocabulary Term. */}
 
-			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CLEARly</strong>" (một cách rõ ràng) và các cụm từ hay đi kèm nhé.</p>
+			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CLEARly</strong>" (rõ ràng) và các cụm từ hay đi kèm nhé.</p>
 
 			<div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function CLEARly2(): React.JSX.Element {
 
 			<ol className="margin-top-30 padding-left-30">
 
-				<li value="1" id="STAted">the RULES were CLEARly [STAted] at the beGINning of the GAME.</li>
-				<li className="list-none margin-bottom-20">Quy tắc đã được nêu rõ ràng ngay từ đầu trò chơi.</li>
+				<li value="1" id="STAted">the RULES were CLEARly STAted at the beGINning of the GAME.</li>
+				<li className="list-none margin-bottom-20">Các quy tắc đã được nêu rõ ràng ngay từ đầu trận đấu.</li>
 
-				<li value="2" id="deFINED">the TERMS of the CONtract were CLEARly [deFINED].</li>
-				<li className="list-none margin-bottom-20">Các điều khoản của hợp đồng đã [được định nghĩa] rõ ràng.</li>
+				<li value="2" id="deFINED">the TERMS of the CONtract were CLEARly deFINED.</li>
+				<li className="list-none margin-bottom-20">Các điều khoản của hợp đồng đã được quy định rõ ràng.</li>
 
-				<li value="3" id="VISible-on">the STARS were CLEARly [VISible on] a CLEAR NIGHT.</li>
-				<li className="list-none margin-bottom-20">Những ngôi sao dễ [thấy vào] một đêm trời quang.</li>
+				<li value="3" id="VISible-on">the STARS were CLEARly VISible on a CLEAR NIGHT.</li>
+				<li className="list-none margin-bottom-20">Các ngôi sao hiện lên rõ ràng trong một đêm trời sáng.</li>
 
-				<li value="4" id="underSTOOD">i HOPE my POINT is CLEARly [underSTOOD].</li>
-				<li className="list-none margin-bottom-20">Tôi hy vọng ý của tôi [đã được hiểu] rõ.</li>
+				<li value="4" id="underSTOOD">i HOPE my POINT is CLEARly underSTOOD.</li>
+				<li className="list-none margin-bottom-20">Tôi hy vọng ý của tôi đã được hiểu rõ ràng.</li>
 
-				<li value="5" id="MORE">can you PLEASE exPLAIN THAT [MORE] CLEARly?</li>
-				<li className="list-none margin-bottom-20">Bạn làm ơn có thể giải thích điều đó rõ ràng [hơn] được không?</li>
+				<li value="5" id="MORE">can you PLEASE exPLAIN THAT MORE CLEARly?</li>
+				<li className="list-none margin-bottom-20">Làm ơn giải thích rõ hơn được không?</li>
 
-				<li value="6" id="esTABlished">the conNECtion between the TWO eVENTS was LESS CLEARly [esTABlished].</li>
-				<li className="list-none margin-bottom-20">Mối liên hệ giữa hai sự kiện [được xác lập] kém rõ ràng hơn.</li>
+				<li value="6" id="esTABlished">the conNECtion between the TWO eVENTS was LESS CLEARly esTABlished.</li>
+				<li className="list-none margin-bottom-20">Mối liên hệ giữa hai sự kiện này chưa được xác định một cách rõ ràng.</li>
 
-				<li value="7" id="DEMonstrates">the exPERiment CLEARly [DEMonstrates] the efFECTS of CLImate CHANGE.</li>
-				<li className="list-none margin-bottom-20">Thí nghiệm rõ ràng [chứng minh] những tác động của biến đổi khí hậu.</li>
+				<li value="7" id="DEMonstrates">the exPERiment CLEARly DEMonstrates the efFECTS of CLImate CHANGE.</li>
+				<li className="list-none margin-bottom-20">Thí nghiệm này đã chứng minh rõ ràng những tác động của biến đổi khí hậu.</li>
 
-				<li value="8" id="INdicates">the MAP CLEARly [INdicates] the SHORtest ROUTE.</li>
-				<li className="list-none margin-bottom-20">Bản đồ rõ ràng [chỉ ra] tuyến đường ngắn nhất.</li>
+				<li value="8" id="INdicates">the MAP CLEARly INdicates the SHORtest ROUTE.</li>
+				<li className="list-none margin-bottom-20">Bản đồ chỉ rõ tuyến đường ngắn nhất.</li>
 
-				<li value="9" id="arTICulated-and-EAsy">his iDEaS were CLEARly [arTICulated and EAsy] to FOLlow.</li>
-				<li className="list-none margin-bottom-20">Các ý tưởng của anh ấy rõ ràng [được diễn đạt lưu loát và dễ dàng] để theo kịp.</li>
+				<li value="9" id="arTICulated-and-EAsy">his iDEaS were CLEARly arTICulated and EAsy to FOLlow.</li>
+				<li className="list-none margin-bottom-20">Những ý tưởng của anh ấy được trình bày một cách rõ ràng và dễ hiểu.</li>
 
-				<li value="10" id="inTENDed-as">it was CLEARly [inTENDed as] a JOKE.</li>
-				<li className="list-none margin-bottom-20">Rõ ràng là [được định ý] như một trò đùa.</li>
+				<li value="10" id="inTENDed-as">it was CLEARly inTENDed as a JOKE.</li>
+				<li className="list-none margin-bottom-20">Điều đó rõ ràng là chỉ nhằm mục đích đùa thôi.</li>
 
 			</ol>
 

@@ -75,7 +75,7 @@ export default function OBviously1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Rõ ràng, hiển nhiên</li>
+            <li>Rõ ràng là</li>
 
           </ul>
 
@@ -94,10 +94,10 @@ export default function OBviously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">OBviously, the SUN RIses in the EAST.</li>
-          <li className="margin-bottom-20 list-none">Rõ ràng, mặt trời mọc ở hướng đông.</li>
+          <li className="margin-bottom-20 list-none">Rõ ràng, Mặt Trời mọc ở phía Đông.</li>
 
           <li>she was OBviously upSET.</li>
-          <li className="list-none">Rõ ràng cô ấy rất buồn.</li>
+          <li className="list-none">Cô ấy rõ ràng là đang buồn bã.</li>
 
         </ul>
 
@@ -134,7 +134,7 @@ export default function OBviously1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Rõ ràng là bạn không hiểu.</li>
 
           <li><Link to="/vocabulary/EVidently-1">EVidently</Link>, she is the BEST CANdidate.</li>
-          <li className="list-none">Rõ ràng, cô ấy là ứng viên tốt nhất.</li>
+          <li className="list-none">Rõ ràng, cô ấy là ứng cử viên tốt nhất.</li>
 
         </ul>
 
@@ -151,10 +151,10 @@ export default function OBviously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he exPLAINED the PROBlem unCLEARly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy giải thích vấn đề không rõ ràng.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã giải thích vấn đề một cách không rõ ràng.</li>
 
           <li>iMAgine a TRAFfic SIGN deSIGNED CLEARly, NOT amBIGuously.</li>
-          <li className="list-none">Hãy tưởng tượng một biển báo giao thông rõ ràng, không mập mờ.</li>
+          <li className="list-none">Hãy tưởng tượng một biển báo giao thông được thiết kế rõ ràng, không gây nhầm lẫn.</li>
 
         </ul>
       
@@ -180,7 +180,7 @@ export default function OBviously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the TRAFfic SIGN with a RED CIRcle and a diAGonal LINE is OBviously a 'NO ENtry' SIGN.</li>
-          <li className="list-none">Biển báo giao thông có hình tròn đỏ và đường chéo rõ ràng là biển cấm đi vào.</li>
+          <li className="list-none">Biển báo giao thông có hình tròn màu đỏ và một đường chéo rõ ràng là biển báo “Cấm vào”.</li>
 
         </ul>
 
@@ -200,7 +200,7 @@ export default function OBviously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>OBviously, you NEED to STUdy HARder if you WANT to PASS the eXAM.</li>
-          <li className="list-none">Rõ ràng, bạn cần học chăm chỉ hơn nếu muốn vượt qua kỳ thi.</li>
+          <li className="list-none">Rõ ràng, bạn phải học chăm chỉ hơn nếu muốn đạt kết quả tốt trong kỳ thi.</li>
 
         </ul>
 
@@ -222,10 +222,10 @@ export default function OBviously1(): React.JSX.Element {
           <ol>
 
             <li value="1">he is TIred.</li>
-            <li className="list-none margin-bottom-20">Anh ấy mệt.</li>
+            <li className="list-none margin-bottom-20">Anh ấy mệt rồi.</li>
 
             <li value="2">OBviously, he is TIred. he has been WORKing all NIGHT.</li>
-            <li className="list-none margin-bottom-20">Rõ ràng, anh ấy mệt. Anh ấy đã làm việc cả đêm.</li>
+            <li className="list-none margin-bottom-20">Rõ ràng là anh ấy mệt rồi. Anh ấy đã làm việc suốt cả đêm.</li>
 
           </ol>
 
