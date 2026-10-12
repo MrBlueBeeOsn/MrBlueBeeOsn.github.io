@@ -73,13 +73,13 @@ export default function DILigently1(): React.JSX.Element {
               
             <li>
               <span className="highlight-255-padding-3-6">
-                [DILigently \<Link to="/pronunciation/5-vowel-system">DIL i̛ ge̛nt ly</Link>\ /ˈdɪl.ə.dʒənt.li/ ⬤••• (FOUR SYLlables)
+                DILigently \<Link to="/pronunciation/5-vowel-system">DIL i̛ ge̛nt ly</Link>\ /ˈdɪl.ə.dʒənt.li/ ⬤••• (FOUR SYLlables)
               </span>
             </li>
             
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách chăm chỉ, cần mẫn, siêng năng</li>
+            <li>Một cách tỉ mỉ</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function DILigently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she DILigently STUDied for the eXAM.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã chăm chỉ học bài để chuẩn bị cho kỳ thi.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã học hành chăm chỉ để chuẩn bị cho kỳ thi.</li>
 
           <li>the WORKers DILigently rePAIRed the ROAD.</li>
-          <li className="list-none">Các công nhân đã chăm chỉ sửa chữa con đường.</li>
+          <li className="list-none">Các công nhân đã cần mẫn sửa chữa con đường.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function DILigently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is a DILigent STUdent.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy là một học sinh chăm chỉ.</li>
+          <li className="margin-bottom-20 list-none">Cậu ấy là một học sinh siêng năng.</li>
 
           <li id="NOUN">her DILigence was reWARded.</li>
-          <li className="list-none">Sự chăm chỉ của cô ấy đã được đền đáp.</li>
+          <li className="list-none">Sự cần cù của cô ấy đã được đền đáp.</li>
 
         </ul>
       
@@ -138,10 +138,10 @@ export default function DILigently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the BEES inDUStriously GATHered POLlen.</li>
-          <li className="margin-bottom-20 list-none">Những con ong cần cù thu thập phấn hoa.</li>
+          <li className="margin-bottom-20 list-none">Những con ong cần mẫn thu thập phấn hoa.</li>
 
           <li>he asSIDuously WORKED on his PROject.</li>
-          <li className="list-none">Anh ấy siêng năng làm việc trên dự án của mình.</li>
+          <li className="list-none">Anh ấy đã miệt mài làm việc trên dự án của mình.</li>
 
         </ul>
 
@@ -158,10 +158,10 @@ export default function DILigently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he <Link to="/vocabulary/LAzily-1">LAzily</Link> SAT on the COUCH.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy lười biếng ngồi trên ghế sofa.</li>
+          <li className="margin-bottom-20 list-none">Anh ta lười biếng ngồi trên ghế sofa.</li>
 
           <li>she CARElessly THREW her PApers on the FLOOR.</li>
-          <li className="list-none">Cô ấy vứt giấy tờ xuống sàn một cách cẩu thả.</li>
+          <li className="list-none">Cô ấy đã vô ý ném đống giấy tờ của mình xuống sàn.</li>
 
         </ul>
 
@@ -187,7 +187,7 @@ export default function DILigently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she is PUTting in a LOT of EFfort, STUDied DILigently for the eXAM.</li>
-          <li className="list-none">Cô ấy đang nỗ lực rất nhiều, chăm chỉ học bài để chuẩn bị cho kỳ thi.</li>
+          <li className="list-none">Cô ấy đang nỗ lực rất nhiều, đã học hành chăm chỉ để chuẩn bị cho kỳ thi.</li>
 
         </ul>
 
@@ -207,7 +207,7 @@ export default function DILigently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she DILigently CLEANED the HOUSE.</li>
-          <li className="list-none">Cô ấy đã chăm chỉ dọn dẹp nhà cửa.</li>
+          <li className="list-none">Cô ấy đã siêng năng dọn dẹp ngôi nhà.</li>
 
         </ul>
 
@@ -229,10 +229,10 @@ export default function DILigently1(): React.JSX.Element {
           <ol>
 
             <li value="1">he WORKED on the PROject.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã làm việc trên dự án.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã tham gia vào dự án.</li>
 
             <li value="2">he DILigently WORKED on the PROject for HOURS.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã chăm chỉ làm việc trên dự án trong nhiều giờ.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã làm việc chăm chỉ trên dự án đó trong nhiều giờ liền.</li>
 
           </ol>
 

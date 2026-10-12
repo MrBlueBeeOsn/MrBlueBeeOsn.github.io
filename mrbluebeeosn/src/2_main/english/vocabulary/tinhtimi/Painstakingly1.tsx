@@ -79,7 +79,7 @@ export default function PAINstakingly1(): React.JSX.Element {
             
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách cẩn thận, tỉ mỉ, chu đáo</li>
+            <li>Một cách tỉ mỉ</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function PAINstakingly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">he PAINstakingly reSTORED the OLD PAINting.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy khôi phục bức tranh cũ một cách tỉ mỉ.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã cẩn thận phục hồi bức tranh cũ.</li>
 
           <li>she reSEARCHED the TOpic PAINstakingly.</li>
-          <li className="list-none">Cô ấy nghiên cứu chủ đề một cách chu đáo.</li>
+          <li className="list-none">Cô ấy đã nghiên cứu chủ đề này một cách tỉ mỉ.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function PAINstakingly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he DID a PAINStaking JOB.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy làm một công việc tỉ mỉ.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã làm một công việc rất công phu.</li>
 
           <li id="NOUN">the PAINStakingness of her WORK was imPRESsive.</li>
-          <li className="list-none">Sự tỉ mỉ trong công việc của cô ấy rất ấn tượng.</li>
+          <li className="list-none">Sự kiên trì trong công việc của cô ấy thật ấn tượng.</li>
 
         </ul>
       
@@ -138,13 +138,13 @@ export default function PAINstakingly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she arRANGED the FLOWers <Link to="/vocabulary/meTICulously-1">meTICulously</Link>.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy sắp xếp hoa một cách tỉ mỉ.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã cắm hoa một cách tỉ mỉ.</li>
 
           <li>he eXAMined the DOCument <Link to="/vocabulary/Carefully-1">CAREfully</Link>.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy xem xét tài liệu một cách cẩn thận.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã xem xét tài liệu một cách cẩn thận.</li>
 
           <li>they SEARCHED the HOUSE <Link to="/vocabulary/THORoughly-1">THORoughly</Link>.</li>
-          <li className="list-none">Họ tìm kiếm căn nhà một cách kỹ lưỡng.</li>
+          <li className="list-none">Họ đã lục soát ngôi nhà một cách kỹ lưỡng.</li>
 
         </ul>
 
@@ -161,13 +161,13 @@ export default function PAINstakingly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he DID the WORK CARElessly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy làm việc một cách cẩu thả.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã làm công việc đó một cách cẩu thả.</li>
 
           <li>she HANDled the eQUIPment NEGligently.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy xử lý thiết bị một cách cẩu thả.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã sử dụng thiết bị một cách cẩu thả.</li>
 
           <li>he MADE a deCISion HAstily.</li>
-          <li className="list-none">Anh ấy đưa ra quyết định một cách vội vàng.</li>
+          <li className="list-none">Anh ấy đã đưa ra quyết định một cách vội vàng.</li>
 
         </ul>
 
@@ -193,10 +193,10 @@ export default function PAINstakingly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he PAINstakingly rePAIRed the anTIQUE CLOCK.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy PAINstakingly sửa chữa chiếc đồng hồ cổ.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã tỉ mỉ sửa chữa chiếc đồng hồ cổ.</li>
 
           <li>the SCIentist PAINstakingly eXAMined the TIny SPEcimen.</li>
-          <li className="list-none">Nhà khoa học tỉ mỉ kiểm tra mẫu vật nhỏ bé.</li>
+          <li className="list-none">Nhà khoa học đã cẩn thận kiểm tra mẫu vật nhỏ xíu đó.</li>
 
         </ul>
 
@@ -216,7 +216,7 @@ export default function PAINstakingly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the ARtist PAINstakingly PAINted <strong>ever</strong>y DEtail of the PORtrait.</li>
-          <li className="list-none">Họa sĩ tỉ mỉ vẽ từng chi tiết của bức chân dung.</li>
+          <li className="list-none">Họa sĩ đã tỉ mỉ vẽ từng chi tiết của bức chân dung.</li>
 
         </ul>
 
@@ -238,10 +238,10 @@ export default function PAINstakingly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he reSTORED the OLD PAINting.</li>
-            <li className="list-none margin-bottom-20">Anh ấy khôi phục bức tranh cũ.</li>
+            <li className="list-none margin-bottom-20">Ông đã phục chế bức tranh cổ.</li>
 
             <li value="2">he PAINstakingly reSTORED the OLD PAINting.</li>
-            <li className="list-none margin-bottom-20">Anh ấy khôi phục bức tranh cũ một cách tỉ mỉ.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã cẩn thận phục hồi bức tranh cũ.</li>
 
           </ol>
 

@@ -75,7 +75,7 @@ export default function THORoughly1(): React.JSX.Element {
             
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách kỹ lưỡng, hoàn toàn</li>
+            <li>Kỹ lưỡng</li>
 
           </ul>
 
@@ -94,10 +94,10 @@ export default function THORoughly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she THORoughly CLEANED the HOUSE be<strong>fore</strong> the GUESTS arRIVED.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã dọn dẹp nhà cửa thật kỹ trước khi khách đến.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã dọn dẹp nhà cửa thật kỹ lưỡng trước khi khách đến.</li>
 
           <li>i have THORoughly reSEARCHED this TOpic.</li>
-          <li className="list-none">Tôi đã nghiên cứu kỹ lưỡng về chủ đề này.</li>
+          <li className="list-none">Tôi đã nghiên cứu rất kỹ lưỡng về chủ đề này.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function THORoughly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he GAVE a THORough explaNAtion.</li>
-          <li className="list-none">Anh ấy đã đưa ra một lời giải thích rất kỹ lưỡng.</li>
+          <li className="list-none">Ông đã đưa ra một lời giải thích chi tiết.</li>
 
         </ul>
       
@@ -134,7 +134,7 @@ export default function THORoughly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Tôi hoàn toàn đồng ý với bạn.</li>
 
           <li>i am TOtally exHAUSTed.</li>
-          <li className="list-none">Tôi hoàn toàn kiệt sức.</li>
+          <li className="list-none">Tôi mệt lả rồi.</li>
 
         </ul>
 
@@ -151,10 +151,10 @@ export default function THORoughly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>they disCUSSED the PROblem superFICially, without GOing into any DEtail.</li>
-          <li className="margin-bottom-20 list-none">Họ thảo luận về vấn đề một cách hời hợt, không đi vào chi tiết.</li>
+          <li className="margin-bottom-20 list-none">Họ đã thảo luận về vấn đề này một cách hời hợt, mà không đi sâu vào bất kỳ chi tiết nào.</li>
 
           <li>the TASK was Only PARtially comPLEted.</li>
-          <li className="list-none">Công việc chỉ được hoàn thành một phần.</li>
+          <li className="list-none">Nhiệm vụ chỉ được hoàn thành một phần.</li>
 
         </ul>
 
@@ -180,7 +180,7 @@ export default function THORoughly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she is THORoughly CLEANing the GLASS TAble.</li>
-          <li className="list-none">Cô ấy đang lau chùi bàn kính rất kỹ.</li>
+          <li className="list-none">Cô ấy đang lau chùi bàn kính thật kỹ lưỡng.</li>
 
         </ul>
 
@@ -200,7 +200,7 @@ export default function THORoughly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i THORoughly enJOYed the MOvie.</li>
-          <li className="list-none">Tôi đã rất thích bộ phim đó.</li>
+          <li className="list-none">Tôi đã thực sự rất thích bộ phim này.</li>
 
         </ul>
 

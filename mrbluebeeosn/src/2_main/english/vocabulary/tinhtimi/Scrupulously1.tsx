@@ -73,13 +73,13 @@ export default function SCRUpulously1(): React.JSX.Element {
               
             <li>
               <span className="highlight-255-padding-3-6">
-                [SCRUpulously \<Link to="/pronunciation/5-vowel-system">SCRÜ pư lơus ly</Link>\ /ˈskruː.pjə.ləs.li/ ⬤••• (FOUR SYLlables)
+                SCRUpulously \<Link to="/pronunciation/5-vowel-system">SCRÜ pư lơus ly</Link>\ /ˈskruː.pjə.ləs.li/ ⬤••• (FOUR SYLlables)
               </span>
             </li>
             
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách tỉ mỉ, cẩn trọng, chu đáo</li>
+            <li>Một cách cẩn trọng</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function SCRUpulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">he FOLlowed the inSTRUCtions SCRUpulously.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy tuân theo các hướng dẫn một cách tỉ mỉ.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã tuân thủ các hướng dẫn một cách nghiêm ngặt.</li>
 
           <li>she CLEANED the HOUSE SCRUpulously.</li>
-          <li className="list-none">Cô ấy lau nhà một cách chu đáo.</li>
+          <li className="list-none">Cô ấy đã dọn dẹp ngôi nhà một cách tỉ mỉ.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function SCRUpulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is a SCRUpulous PERson.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy là một người chu đáo.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy là một người rất cẩn trọng.</li>
 
           <li id="NOUN">her SCRUpulousness imPRESSED <strong>ever</strong>yone.</li>
-          <li className="list-none">Sự chu đáo của cô ấy gây ấn tượng với mọi người.</li>
+          <li className="list-none">Sự cẩn trọng đến từng chi tiết của cô ấy đã gây ấn tượng mạnh với mọi người.</li>
 
         </ul>
       
@@ -138,13 +138,13 @@ export default function SCRUpulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he PLANNED the eVENT <Link to="/vocabulary/meTICulously-1">meTICulously</Link>.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy lên kế hoạch cho sự kiện một cách kỹ lưỡng.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã lên kế hoạch cho sự kiện này một cách tỉ mỉ.</li>
 
           <li>he HANDled the GLASS <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy xử lý cái ly một cách cẩn thận.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy cầm chiếc ly một cách cẩn thận.</li>
 
-          <li className="list-none">he CHECKED the DOCuments <Link to="/vocabulary/THORoughly-1">THORoughly</Link>.</li>
-          <li className="list-none">Anh ấy kiểm tra các tài liệu một cách kỹ lưỡng.</li>
+          <li>he CHECKED the DOCuments <Link to="/vocabulary/THORoughly-1">THORoughly</Link>.</li>
+          <li className="list-none">Anh ấy đã kiểm tra các tài liệu một cách kỹ lưỡng.</li>
 
         </ul>
 
@@ -161,13 +161,13 @@ export default function SCRUpulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he HANDled the GLASS CARElessly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy xử lý cái ly một cách bất cẩn.</li>
+          <li className="margin-bottom-20 list-none">Anh ta cầm chiếc ly một cách bất cẩn.</li>
 
           <li>he perFORMED his DUties NEGligently.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy thực hiện nhiệm vụ của mình một cách cẩu thả.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã thực hiện nhiệm vụ của mình một cách cẩu thả.</li>
 
           <li>the rePORT was WRITten SLOPpily, with <strong>man</strong>y gramMATical misTAKES.</li>
-          <li className="list-none">Báo cáo được viết một cách ẩu tả, với nhiều lỗi ngữ pháp.</li>
+          <li className="list-none">Báo cáo này được viết một cách cẩu thả, với nhiều lỗi ngữ pháp.</li>
 
         </ul>
 
@@ -193,10 +193,10 @@ export default function SCRUpulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he eXAMined the DOCument SCRUpulously.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy kiểm tra tài liệu một cách tỉ mỉ.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã xem xét tài liệu một cách tỉ mỉ.</li>
 
           <li>she CLEANED the HOUSE SCRUpulously.</li>
-          <li className="list-none">Cô ấy lau dọn nhà cửa một cách tỉ mỉ.</li>
+          <li className="list-none">Cô ấy đã dọn dẹp ngôi nhà một cách tỉ mỉ.</li>
 
         </ul>
 
@@ -216,7 +216,7 @@ export default function SCRUpulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the acCOUNtant CHECKED the FIGures SCRUpulously.</li>
-          <li className="list-none">Kế toán kiểm tra các số liệu một cách tỉ mỉ.</li>
+          <li className="list-none">Kế toán viên đã kiểm tra các con số một cách tỉ mỉ.</li>
 
         </ul>
 
@@ -238,10 +238,10 @@ export default function SCRUpulously1(): React.JSX.Element {
           <ol>
 
             <li value="1">he FOLlowed the inSTRUCtions.</li>
-            <li className="list-none margin-bottom-20">Anh ấy tuân theo các hướng dẫn.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã làm theo hướng dẫn.</li>
 
             <li value="2">he FOLlowed the inSTRUCtions SCRUpulously.</li>
-            <li className="list-none margin-bottom-20">Anh ấy tuân theo các hướng dẫn một cách tỉ mỉ.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã tuân thủ các hướng dẫn một cách nghiêm ngặt.</li>
 
           </ol>
 

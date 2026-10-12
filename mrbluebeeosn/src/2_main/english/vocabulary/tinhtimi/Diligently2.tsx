@@ -75,7 +75,7 @@ export default function DILigently2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>DILigently</strong>" (một cách chăm chỉ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>DILigently</strong>" (một cách tỉ mỉ) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function DILigently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="WORKED-on">she DILigently [WORKED on] her PROject un<strong>til</strong> LATE at NIGHT.</li>
-        <li className="list-none margin-bottom-20">Cô ấy chăm chỉ [làm] dự án đến tận khuya.</li>
+        <li value="1" id="WORKED-on">she DILigently WORKED on her PROject un<strong>til</strong> LATE at NIGHT.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã miệt mài làm việc trên dự án của mình cho đến tận khuya.</li>
 
-        <li value="2" id="STUDied-for">he DILigently [STUDied for] his eXAMS.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [chăm chỉ] ôn thi.</li>
+        <li value="2" id="STUDied-for">he DILigently STUDied for his eXAMS.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã học hành chăm chỉ để chuẩn bị cho các kỳ thi.</li>
 
-        <li value="3" id="SEARCHED-for">the deTECtives DILigently [SEARCHED for] CLUES.</li>
-        <li className="list-none margin-bottom-20">Các thám tử [đã tìm kiếm] manh mối một cách cẩn thận.</li>
+        <li value="3" id="SEARCHED-for">the deTECtives DILigently SEARCHED for CLUES.</li>
+        <li className="list-none margin-bottom-20">Các thám tử đã cần mẫn tìm kiếm manh mối.</li>
 
-        <li value="4" id="apPLIED-to">she DILigently [apPLIED] herSELF [to] her NEW JOB.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [đã] nghiêm túc [làm việc với] công việc mới của mình.</li>
+        <li value="4" id="apPLIED-to">she DILigently apPLIED herSELF [to] her NEW JOB.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã tận tâm cống hiến hết mình cho công việc mới của mình.</li>
 
-        <li value="5" id="reCORDed">the SCIentist DILigently [reCORDed] the DAta.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học [đã ghi chép] dữ liệu một cách cẩn thận.</li>
+        <li value="5" id="reCORDed">the SCIentist DILigently reCORDed the DAta.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học đã ghi chép dữ liệu một cách cẩn thận.</li>
 
-        <li value="6" id="mainTAINED">he DILigently [mainTAINED] his GARden.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [đã chăm sóc] khu vườn của mình rất cẩn thận.</li>
+        <li value="6" id="mainTAINED">he DILigently mainTAINED his GARden.</li>
+        <li className="list-none margin-bottom-20">Ông đã chăm sóc khu vườn của mình một cách tận tụy.</li>
 
-        <li value="7" id="FOLlowed">she DILigently [FOLlowed] the DOCtor's inSTRUCtions.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [đã làm theo] chỉ dẫn của bác sĩ một cách nghiêm túc.</li>
+        <li value="7" id="FOLlowed">she DILigently FOLlowed the DOCtor's inSTRUCtions.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã tuân thủ nghiêm túc các chỉ dẫn của bác sĩ.</li>
 
-        <li value="8" id="prePARED-for">the STUdents DILigently [prePARED for] the eXAM.</li>
-        <li className="list-none margin-bottom-20">Học sinh [đã chuẩn bị] kỹ lưỡng cho kỳ thi.</li>
+        <li value="8" id="prePARED-for">the STUdents DILigently prePARED for the eXAM.</li>
+        <li className="list-none margin-bottom-20">Các học sinh đã chuẩn bị rất chăm chỉ cho kỳ thi.</li>
 
-        <li value="9" id="purSUED-of">he DILigently [purSUED] his DREAM [of] beCOMinɡ a WRIter.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [đã] kiên trì [theo đuổi] ước mơ trở thành nhà văn.</li>
+        <li value="9" id="purSUED-of">he DILigently purSUED his DREAM of beCOMinɡ a WRIter.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã kiên trì theo đuổi ước mơ trở thành một nhà văn.</li>
 
-        <li value="10" id="obSERVED">the SCIentist DILigently [obSERVED] the beHAvior of the ANimals.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học [đã quan sát] hành vi của động vật một cách kỹ lưỡng.</li>
+        <li value="10" id="obSERVED">the SCIentist DILigently obSERVED the beHAvior of the ANimals.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học đã quan sát một cách tỉ mỉ hành vi của các loài động vật.</li>
 
       </ol>
 

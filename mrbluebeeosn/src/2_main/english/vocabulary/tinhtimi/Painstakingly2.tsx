@@ -103,35 +103,35 @@ export default function PAINstakingly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="reSEARCHED">the SCIentists PAINstakingly [reSEARCHED] the efFECTS of the NEW DRUG.</li>
-        <li className="list-none margin-bottom-20">Các nhà khoa học [đã nghiên cứu] một cách tỉ mỉ tác dụng của loại thuốc mới.</li>
+        <li value="1" id="reSEARCHED">the SCIentists PAINstakingly reSEARCHED the efFECTS of the NEW DRUG.</li>
+        <li className="list-none margin-bottom-20">Các nhà khoa học đã tiến hành nghiên cứu một cách tỉ mỉ về tác dụng của loại thuốc mới này.</li>
 
-        <li value="2" id="ANalyzed">the DAta was PAINstakingly [ANalyzed] to FIND any PATterns.</li>
-        <li className="list-none margin-bottom-20">Dữ liệu [đã được phân tích] một cách tỉ mỉ để tìm ra bất kỳ mẫu nào.</li>
+        <li value="2" id="ANalyzed">the DAta was PAINstakingly ANalyzed to FIND any PATterns.</li>
+        <li className="list-none margin-bottom-20">Dữ liệu đã được phân tích một cách tỉ mỉ để tìm ra bất kỳ mẫu nào.</li>
 
-        <li value="3" id="creAted">the ARtist PAINstakingly [creAted] the INtricate SCULPture.</li>
-        <li className="list-none margin-bottom-20">Nghệ sĩ [đã tạo ra] tác phẩm điêu khắc phức tạp một cách tỉ mỉ.</li>
+        <li value="3" id="creAted">the ARtist PAINstakingly creAted the INtricate SCULPture.</li>
+        <li className="list-none margin-bottom-20">Nghệ sĩ đã tỉ mỉ tạo nên tác phẩm điêu khắc tinh xảo này.</li>
 
-        <li value="4" id="PLANNED">the TEAM PAINstakingly [PLANNED] the eVent to enSURE its sucCESS.</li>
-        <li className="list-none margin-bottom-20">Nhóm [đã lên kế hoạch] cho sự kiện một cách tỉ mỉ để đảm bảo thành công.</li>
+        <li value="4" id="PLANNED">the TEAM PAINstakingly PLANNED the eVent to enSURE its sucCESS.</li>
+        <li className="list-none margin-bottom-20">Đội ngũ đã lên kế hoạch tỉ mỉ cho sự kiện này để đảm bảo sự thành công của nó.</li>
 
-        <li value="5" id="reSTORED">the oRIGinal CAR was PAINstakingly [reSTORED] to its oRIGinal conDItion.</li>
-        <li className="list-none margin-bottom-20">Chiếc xe cổ [đã được phục hồi] về tình trạng ban đầu một cách tỉ mỉ.</li>
+        <li value="5" id="reSTORED">the oRIGinal CAR was PAINstakingly reSTORED to its oRIGinal conDItion.</li>
+        <li className="list-none margin-bottom-20">Chiếc xe nguyên bản đã được phục chế một cách tỉ mỉ để trở lại trạng thái ban đầu.</li>
 
-        <li value="6" id="DOCumented">the hisTORian PAINstakingly [DOCumented] the eVents of the WAR.</li>
-        <li className="list-none margin-bottom-20">Nhà sử học [đã ghi chép] các sự kiện của cuộc chiến một cách tỉ mỉ.</li>
+        <li value="6" id="DOCumented">the hisTORian PAINstakingly DOCumented the eVents of the WAR.</li>
+        <li className="list-none margin-bottom-20">Nhà sử học đã ghi chép một cách tỉ mỉ các sự kiện của cuộc chiến.</li>
 
-        <li value="7" id="eXAMined">the deTECtive PAINstakingly [eXAMined] the CRIME SCENE.</li>
-        <li className="list-none margin-bottom-20">Thám tử [đã kiểm tra] hiện trường vụ án một cách tỉ mỉ.</li>
+        <li value="7" id="eXAMined">the deTECtive PAINstakingly eXAMined the CRIME SCENE.</li>
+        <li className="list-none margin-bottom-20">Vị thám tử đã tỉ mỉ khám nghiệm hiện trường vụ án.</li>
 
-        <li value="8" id="reVIEWED">the LAWyer PAINstakingly [reVIEWED] the CONtract.</li>
-        <li className="list-none margin-bottom-20">Luật sư [đã xem xét] hợp đồng một cách tỉ mỉ.</li>
+        <li value="8" id="reVIEWED">the LAWyer PAINstakingly reVIEWED the CONtract.</li>
+        <li className="list-none margin-bottom-20">Luật sư đã xem xét kỹ lưỡng bản hợp đồng.</li>
 
-        <li value="9" id="asSEMbled-over">the mOdel AIRplane was PAINstakingly [asSEMbled <strong>o</strong>ver] SEVEral WEEks.</li>
-        <li className="list-none margin-bottom-20">Mô hình máy bay [đã được lắp ráp] một cách tỉ mỉ trong vài tuần.</li>
+        <li value="9" id="asSEMbled-over">the mOdel AIRplane was PAINstakingly asSEMbled <strong>o</strong>ver SEVEral WEEks.</li>
+        <li className="list-none margin-bottom-20">Mô hình máy bay này đã được lắp ráp một cách tỉ mỉ trong suốt vài tuần.</li>
 
-        <li value="10" id="ORganized">the eVent was PAINstakingly [ORganized] to enSURE a SMOOTH exPErience.</li>
-        <li className="list-none margin-bottom-20">Sự kiện [đã được tổ chức] một cách tỉ mỉ để đảm bảo trải nghiệm suôn sẻ.</li>
+        <li value="10" id="ORganized">the eVent was PAINstakingly ORganized to enSURE a SMOOTH exPErience.</li>
+        <li className="list-none margin-bottom-20">Sự kiện này đã được tổ chức một cách tỉ mỉ và công phu để đảm bảo một trải nghiệm suôn sẻ.</li>
 
       </ol>
 
