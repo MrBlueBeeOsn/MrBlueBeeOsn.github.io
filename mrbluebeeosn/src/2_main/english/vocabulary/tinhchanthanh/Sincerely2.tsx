@@ -75,7 +75,7 @@ export default function sinCEREly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>sinCEREly</strong>" (một cách chân thành) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>sinCEREly</strong>" (thành thật) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function sinCEREly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="aPOLogize-for">i sinCEREly [aPOLogize for] my misTAKE.</li>
-        <li className="list-none margin-bottom-20">Tôi [xin lỗi] chân thành [vì] lỗi lầm của mình.</li>
+        <li value="1" id="aPOLogize-for">i sinCEREly aPOLogize for my misTAKE.</li>
+        <li className="list-none margin-bottom-20">Tôi chân thành xin lỗi về sai lầm của mình.</li>
 
-        <li value="2" id="apPREciate">i sinCEREly [apPREciate] your HELP.</li>
-        <li className="list-none margin-bottom-20">Tôi chân thành [cảm kích] sự giúp đỡ của bạn</li>
+        <li value="2" id="apPREciate">i sinCEREly apPREciate your HELP.</li>
+        <li className="list-none margin-bottom-20">Tôi chân thành cảm ơn sự giúp đỡ của bạn.</li>
 
-        <li value="3" id="HOPE-that">i sinCEREly [HOPE that] everything GOES WELL for you.</li>
-        <li className="list-none margin-bottom-20">Tôi thật lòng [hy vọng rằng] mọi việc sẽ diễn ra tốt đẹp với bạn.</li>
+        <li value="3" id="HOPE-that">i sinCEREly HOPE that everything GOES WELL for you.</li>
+        <li className="list-none margin-bottom-20">Tôi thật lòng mong rằng mọi việc sẽ diễn ra suôn sẻ với bạn.</li>
 
-        <li value="4" id="YOURS">sinCEREly [YOURS].</li>
-        <li className="list-none margin-bottom-20">Thân ái.</li>
+        <li value="4" id="YOURS">sinCEREly YOURS.</li>
+        <li className="list-none margin-bottom-20">Trân trọng.</li>
 
-        <li value="5" id="beLIEVE-in-the-POWer-of">i sinCEREly [beLIEVE in the POWer of] LOVE.</li>
-        <li className="list-none margin-bottom-20">Tôi thật lòng [tin vào sức mạnh của] tình yêu.</li>
+        <li value="5" id="beLIEVE-in-the-POWer-of">i sinCEREly beLIEVE in the POWer of LOVE.</li>
+        <li className="list-none margin-bottom-20">Tôi thật sự tin tưởng vào sức mạnh của tình yêu.</li>
 
-        <li value="6" id="reGRET-NOT-BEing-ABle-to-atTEND">i sinCEREly [reGRET NOT BEing ABle to atTEND] your WEDding.</li>
-        <li className="list-none margin-bottom-20">Tôi thật lòng [hối hận vì không thể tham dự] đám cưới của bạn.</li>
+        <li value="6" id="reGRET-NOT-BEing-ABle-to-atTEND">i sinCEREly reGRET NOT BEing ABle to atTEND your WEDding.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự rất tiếc vì không thể tham dự đám cưới của các bạn.</li>
 
-        <li value="7" id="THANK-you-for">i sinCEREly [THANK you for] your supPORT.</li>
-        <li className="list-none margin-bottom-20">Tôi muốn chân thành [cảm ơn bạn vì] sự ủng hộ của bạn.</li>
+        <li value="7" id="THANK-you-for">i sinCEREly THANK you for your supPORT.</li>
+        <li className="list-none margin-bottom-20">Tôi chân thành cảm ơn sự ủng hộ của các bạn.</li>
 
-        <li value="8" id="WISH-you-all-the-BEST-in">i sinCEREly [WISH you all the BEST in] your NEW JOB.</li>
-        <li className="list-none margin-bottom-20">Tôi [chúc bạn] thật lòng [mọi điều tốt đẹp nhất trong] công việc mới.</li>
+        <li value="8" id="WISH-you-all-the-BEST-in">i sinCEREly WISH you all the BEST in your NEW JOB.</li>
+        <li className="list-none margin-bottom-20">Tôi chân thành chúc bạn mọi điều tốt đẹp nhất trong công việc mới.</li>
 
-        <li value="9" id="YOURS-FAITHfully">sinCEREly [YOURS, FAITHfully].</li>
-        <li className="list-none margin-bottom-20">Trân trọng, [một cách trung thành].</li>
+        <li value="9" id="YOURS-FAITHfully">sinCEREly YOURS, FAITHfully.</li>
+        <li className="list-none margin-bottom-20">Thân ái và chân thành, với lòng trung thành.</li>
 
-        <li value="10" id="YOURS-with-LOVE">sinCEREly [YOURS, with LOVE].</li>
-        <li className="list-none margin-bottom-20">Trân trọng, [với tình yêu thương].</li>
+        <li value="10" id="YOURS-with-LOVE">sinCEREly YOURS, with LOVE.</li>
+        <li className="list-none margin-bottom-20">Thân ái và chân thành, với tất cả tình yêu.</li>
 
       </ol>
 

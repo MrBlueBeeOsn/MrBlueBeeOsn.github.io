@@ -79,7 +79,7 @@ export default function FAITHfully1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách trung thành, một cách tin cậy</li>
+            <li>Với lòng tin tưởng</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function FAITHfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she FAITHfully SERVED her COMpany for <strong>man</strong>y YEARS.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã phục vụ công ty một cách trung thành trong nhiều năm.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã tận tụy cống hiến cho công ty trong nhiều năm.</li>
 
           <li>he FOLlowed the inSTRUCtions FAITHfully.</li>
-          <li className="list-none">Anh ấy đã làm theo hướng dẫn một cách chính xác.</li>
+          <li className="list-none">Anh ấy đã tuân thủ nghiêm túc các hướng dẫn.</li>
 
         </ul>
 
@@ -121,7 +121,7 @@ export default function FAITHfully1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Anh ấy là một người bạn trung thành.</li>
 
           <li id="NOUN">he has GREAT FAITH in his TEAM.</li>
-          <li className="list-none">Anh ấy có niềm tin lớn vào đội của mình.</li>
+          <li className="list-none">Anh ấy có niềm tin vững chắc vào đội của mình.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function FAITHfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he SERVED his COUNtry LOYally.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã phục vụ đất nước một cách trung thành.</li>
+          <li className="margin-bottom-20 list-none">Ông đã phục vụ Tổ quốc một cách trung thành.</li>
 
           <li>she deVOtedly CARED for her SICK MOTHer.</li>
-          <li className="list-none">Cô ấy đã chăm sóc mẹ mình một cách tận tâm.</li>
+          <li className="list-none">Cô đã tận tụy chăm sóc người mẹ ốm yếu của mình.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function FAITHfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he beTRAYED his FRIENDS TREACHerously.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã phản bội bạn bè một cách hèn hạ.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã phản bội bạn bè một cách đê hèn.</li>
 
           <li>she ACTed unFAITHfully towards her HUSband.</li>
-          <li className="list-none">Cô ấy đã hành động không chung thủy với chồng.</li>
+          <li className="list-none">Cô ấy đã hành động không chung thủy với chồng mình.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function FAITHfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the DOG FAITHfully FOLlowed its OWner.</li>
-          <li className="list-none">Con chó trung thành đi theo chủ nhân.</li>
+          <li className="list-none">Con chó đã trung thành đi theo chủ của mình.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function FAITHfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she FAITHfully KEPT her PROMise.</li>
-          <li className="list-none">Cô ấy đã giữ lời hứa một cách trung thành.</li>
+          <li className="list-none">Cô ấy đã trung thành giữ lời hứa của mình.</li>
 
         </ul>
 
@@ -234,7 +234,7 @@ export default function FAITHfully1(): React.JSX.Element {
             <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành dự án.</li>
 
             <li value="2">he FAITHfully FINished the PROJect on TIME.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành dự án đúng hạn một cách trung thành.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành dự án một cách tận tâm và đúng hạn.</li>
 
           </ol>
 

@@ -75,7 +75,7 @@ export default function HONestly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>HONestly</strong>" (một cách thành thật) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>HONestly</strong>" (thành thật mà nói) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function HONestly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="SPEAKing-i-DON'T-LIKE">HONestly [SPEAKing, i DON'T LIKE] that MOvie.</li>
-        <li className="list-none margin-bottom-20">Nói thật ra, [tôi không thích] bộ phim đó.</li>
+        <li value="1" id="SPEAKing-i-DON'T-LIKE">HONestly SPEAKing, i DON'T LIKE that MOvie.</li>
+        <li className="list-none margin-bottom-20">Nói thật lòng, tớ không thích bộ phim đó.</li>
 
-        <li value="2" id="beLIEVE-that">i HONestly [beLIEVE that] he is INnocent.</li>
-        <li className="list-none margin-bottom-20">Tôi thật sự [tin rằng] anh ấy vô tội.</li>
+        <li value="2" id="beLIEVE-that">i HONestly beLIEVE that he is INnocent.</li>
+        <li className="list-none margin-bottom-20">Tôi thực sự tin rằng anh ấy vô tội.</li>
 
-        <li value="3" id="THINK-we">i HONestly [THINK we] should reconSIDer our PLANS.</li>
-        <li className="list-none margin-bottom-20">Tôi thật sự [nghĩ rằng chúng ta] nên xem xét lại kế hoạch của mình.</li>
+        <li value="3" id="THINK-we">i HONestly THINK we should reconSIDer our PLANS.</li>
+        <li className="list-none margin-bottom-20">Tôi thật sự nghĩ rằng chúng ta nên xem xét lại kế hoạch của mình.</li>
 
-        <li value="4" id="adMIT-that">i HONestly [adMIT that] i MADE a misTAKE.</li>
-        <li className="list-none margin-bottom-20">Tôi thành thật [thừa nhận rằng] tôi đã mắc sai lầm.</li>
+        <li value="4" id="adMIT-that">i HONestly adMIT that i MADE a misTAKE.</li>
+        <li className="list-none margin-bottom-20">Tôi thành thật thừa nhận rằng mình đã phạm sai lầm.</li>
 
-        <li value="5" id="SPEAKing-HOW-to-SOLVE">HONestly [SPEAKing, HOW to SOLVE] this PROBlem?</li>
-        <li className="list-none margin-bottom-20">[Nói] thật ra, [tôi không biết làm thế nào để giải quyết] vấn đề này.</li>
+        <li value="5" id="SPEAKing-HOW-to-SOLVE">HONestly SPEAKing, HOW to SOLVE this PROBlem?</li>
+        <li className="list-none margin-bottom-20">Nói thật lòng, làm thế nào để giải quyết vấn đề này?</li>
 
-        <li value="6" id="i'm-surPRISED-that">HONestly, [i'm surPRISED that] you SAID that.</li>
-        <li className="list-none margin-bottom-20">Thật sự, [tôi ngạc nhiên khi] bạn nói như vậy.</li>
+        <li value="6" id="i'm-surPRISED-that">HONestly, i'm surPRISED that you SAID that.</li>
+        <li className="list-none margin-bottom-20">Thật lòng mà nói, tớ rất ngạc nhiên khi cậu lại nói thế.</li>
 
-        <li value="7" id="i-DON'T-CARE-WHAT">HONestly, [i DON'T CARE WHAT] he THINKS.</li>
-        <li className="list-none margin-bottom-20">Thành thật mà nói, [tôi không quan tâm những gì] anh ấy nghĩ. (anh ấy nghĩ gì).</li>
+        <li value="7" id="i-DON'T-CARE-WHAT">HONestly, i DON'T CARE WHAT he THINKS.</li>
+        <li className="list-none margin-bottom-20">Thành thật mà nói, tớ không quan tâm anh ta nghĩ gì.</li>
 
-        <li value="8" id="i'm-disapPOINTed-with">HONestly, [i'm disapPOINTed with] the reSULTS.</li>
-        <li className="list-none margin-bottom-20">Thành thật mà nói, [tôi thất vọng với] kết quả.</li>
+        <li value="8" id="i'm-disapPOINTed-with">HONestly, i'm disapPOINTed with the reSULTS.</li>
+        <li className="list-none margin-bottom-20">Thành thật mà nói, tôi cảm thấy thất vọng với kết quả này.</li>
 
-        <li value="9" id="i'm-SCARED-of">HONestly, [i'm SCARED of] the DARK.</li>
-        <li className="list-none margin-bottom-20">Thành thật mà nói, [tôi sợ] bóng tối.</li>
+        <li value="9" id="i'm-SCARED-of">HONestly, i'm SCARED of the DARK.</li>
+        <li className="list-none margin-bottom-20">Thành thật mà nói, tớ sợ bóng tối.</li>
 
-        <li value="10" id="i'm-HAPpy-that">HONestly, [i'm HAPpy that] you're HERE.</li>
-        <li className="list-none margin-bottom-20">Thành thật mà nói, [tôi rất vui khi] bạn ở đây.</li>
+        <li value="10" id="i'm-HAPpy-that">HONestly, i'm HAPpy that you're HERE.</li>
+        <li className="list-none margin-bottom-20">Thật lòng mà nói, tớ rất vui vì cậu đã ở đây.</li>
 
       </ol>
 

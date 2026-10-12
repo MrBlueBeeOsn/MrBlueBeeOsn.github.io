@@ -79,7 +79,7 @@ export default function HONestly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách trung thực, thành thật</li>
+            <li>Thành thật mà nói</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function HONestly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">HONestly, i DON'T KNOW the ANswer.</li>
-          <li className="margin-bottom-20 list-none">Thật sự, tôi không biết câu trả lời.</li>
+          <li className="margin-bottom-20 list-none">Thành thật mà nói, tôi không biết câu trả lời.</li>
 
           <li>HONestly, i THINK you should reconSIDer your deCISion.</li>
-          <li className="list-none">Thành thật mà nói, tôi nghĩ bạn nên xem xét lại quyết định của mình.</li>
+          <li className="list-none">Thành thật mà nói, tớ nghĩ cậu nên suy nghĩ lại về quyết định của mình.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function HONestly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is an HONest MAN.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy là một người đàn ông trung thực.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy là một người trung thực.</li>
 
           <li id="NOUN">HONesty is the BEST POLicy.</li>
-          <li className="list-none">Trung thực là chính sách tốt nhất.</li>
+          <li className="list-none">Sự trung thực là chính sách tốt nhất.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function HONestly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> beLIEVE in you.</li>
-          <li className="margin-bottom-20 list-none">Tôi thực sự tin tưởng bạn.</li>
+          <li className="margin-bottom-20 list-none">Tôi thực sự tin tưởng vào bạn.</li>
 
           <li>i <Link to="/vocabulary/sinCEREly-1">sinCEREly</Link> aPOLogize for my misTAKE.</li>
-          <li className="list-none">Tôi xin lỗi chân thành vì lỗi lầm của mình.</li>
+          <li className="list-none">Tôi chân thành xin lỗi về sai lầm của mình.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function HONestly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he LIED disHONestly a<strong>bout</strong> his qualifiCAtions.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã nói dối một cách không trung thực về trình độ của mình.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã nói dối một cách vô liêm sỉ về trình độ của mình.</li>
 
           <li>she deCEIVED him deCEITfully.</li>
-          <li className="list-none">Cô ấy đã lừa dối anh ta một cách xảo quyệt.</li>
+          <li className="list-none">Cô ta đã lừa dối anh ta một cách xảo quyệt.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function HONestly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>HONestly, i FEEL so GRATEful.</li>
-          <li className="list-none">Thật lòng mà nói, tôi cảm thấy rất biết ơn.</li>
+          <li className="list-none">Thật lòng mà nói, tớ cảm thấy vô cùng biết ơn.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function HONestly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>HONestly, i DON'T CARE WHAT you THINK.</li>
-          <li className="list-none">Thật sự, tôi không quan tâm bạn nghĩ gì.</li>
+          <li className="list-none">Thành thật mà nói, tớ không quan tâm các cậu nghĩ gì.</li>
 
         </ul>
 
@@ -231,10 +231,10 @@ export default function HONestly1(): React.JSX.Element {
           <ol>
 
             <li value="1">i LIKE PIZza.</li>
-            <li className="list-none margin-bottom-20">Tôi thích PIZza.</li>
+            <li className="list-none margin-bottom-20">Tôi thích pizza.</li>
 
             <li value="2">HONestly, i LOVE PIZza. it's my FAvorite FOOD.</li>
-            <li className="list-none margin-bottom-20">Thật sự, tôi yêu PIZza. Đó là món ăn yêu thích của tôi.</li>
+            <li className="list-none margin-bottom-20">Thật lòng mà nói, tớ thích pizza lắm. Đó là món ăn yêu thích nhất của tớ.</li>
 
           </ol>
 
@@ -261,7 +261,7 @@ export default function HONestly1(): React.JSX.Element {
           <li>Câu hỏi tu từ: Đôi khi, "<strong>HONestly</strong>" được dùng trong câu hỏi tu từ để thể hiện sự ngạc nhiên hoặc không đồng tình.</li>
 
           <li>HONestly, HOW could you DO that?</li>
-          <li className="list-none margin-bottom-20">Thật sự, làm sao bạn có thể làm như vậy được?</li>
+          <li className="list-none margin-bottom-20">Thật lòng mà nói, làm sao cậu lại có thể làm thế được chứ?</li>
 
         </ul>
 

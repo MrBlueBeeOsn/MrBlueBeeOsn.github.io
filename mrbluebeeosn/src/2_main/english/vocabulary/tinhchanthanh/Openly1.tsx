@@ -83,7 +83,7 @@ export default function Openly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách công khai, rõ ràng</li>
+            <li>Công khai</li>
 
           </ul>
 
@@ -102,10 +102,10 @@ export default function Openly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">he Openly exPRESSED his oPINions.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy công khai bày tỏ quan điểm của mình.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã công khai bày tỏ quan điểm của mình.</li>
 
           <li>they Openly supPORTed the NEW POLicy.</li>
-          <li className="list-none">Họ công khai ủng hộ chính sách mới.</li>
+          <li className="list-none">Họ đã công khai ủng hộ chính sách mới.</li>
 
         </ul>
 
@@ -122,13 +122,13 @@ export default function Openly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the DOOR is Open.</li>
-          <li className="margin-bottom-20 list-none">Cửa đang mở.</li>
+          <li className="margin-bottom-20 list-none">Cánh cửa đã mở.</li>
 
           <li id="VERB">PLEASE Open the WINdow.</li>
-          <li className="margin-bottom-20 list-none">Làm ơn mở cửa sổ.</li>
+          <li className="margin-bottom-20 list-none">Xin vui lòng mở cửa sổ.</li>
 
           <li id="NOUN">her Openness MADE her <strong>man</strong>y FRIENDS.</li>
-          <li className="list-none">Sự cởi mở của cô ấy đã giúp cô ấy có nhiều bạn bè.</li>
+          <li className="list-none">Sự cởi mở của cô ấy đã giúp cô ấy có được nhiều bạn bè.</li>
 
         </ul>
 
@@ -145,10 +145,10 @@ export default function Openly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she PUBlicly aPOLogized for her misTAKE.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã công khai xin lỗi vì sai lầm của mình.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã công khai xin lỗi về sai lầm của mình.</li>
 
           <li>to be FRANKly, i DON'T aGREE with you.</li>
-          <li className="list-none">Thành thật mà nói, tôi không đồng ý với bạn.</li>
+          <li className="list-none">Nói thẳng ra, tôi không đồng ý với bạn.</li>
 
         </ul>
 
@@ -167,10 +167,10 @@ export default function Openly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>they SEcretly MET at NIGHT.</li>
-          <li className="margin-bottom-20 list-none">Họ bí mật gặp nhau vào ban đêm.</li>
+          <li className="margin-bottom-20 list-none">Họ đã bí mật gặp nhau vào ban đêm.</li>
 
           <li>we TALKED PRIvately a<strong>bout</strong> the MATter.</li>
-          <li className="list-none">Chúng tôi đã nói chuyện riêng về vấn đề này.</li>
+          <li className="list-none">Chúng tôi đã trao đổi riêng về vấn đề này.</li>
 
         </ul>
       
@@ -196,7 +196,7 @@ export default function Openly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he Openly SPEAKing a<strong>bout</strong> his exPERIences.</li>
-          <li className="list-none">Anh ấy đang công khai chia sẻ về những trải nghiệm của mình.</li>
+          <li className="list-none">Anh ấy cởi mở chia sẻ về những trải nghiệm của mình.</li>
 
         </ul>
 
@@ -216,7 +216,7 @@ export default function Openly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she Openly CRITicized the GOVernment's POLicy.</li>
-          <li className="list-none">Cô ấy công khai chỉ trích chính sách của chính phủ.</li>
+          <li className="list-none">Cô ấy đã công khai chỉ trích chính sách của chính phủ.</li>
 
         </ul>
 
@@ -238,10 +238,10 @@ export default function Openly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he supPORTed the TEAM.</li>
-            <li className="list-none margin-bottom-20">Anh ấy ủng hộ đội.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã ủng hộ đội.</li>
 
             <li value="2">he Openly supPORTed the TEAM.</li>
-            <li className="list-none margin-bottom-20">Anh ấy công khai ủng hộ đội.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã công khai ủng hộ đội bóng.</li>
 
           </ol>
 

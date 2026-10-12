@@ -79,7 +79,7 @@ export default function sinCEREly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách chân thành, thật lòng</li>
+            <li>Thành thật</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function sinCEREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">sinCEREly, i apPREciate your HELP.</li>
-          <li className="margin-bottom-20 list-none">Thật lòng, tôi rất cảm ơn sự giúp đỡ của bạn.</li>
+          <li className="margin-bottom-20 list-none">Thành thật mà nói, tôi rất biết ơn sự giúp đỡ của bạn.</li>
 
           <li>i HOPE you have a sinCEREly enJOYable TRIP.</li>
-          <li className="list-none">Tôi hy vọng bạn có một chuyến đi thật vui vẻ.</li>
+          <li className="list-none">Tôi mong bạn sẽ có một chuyến đi thực sự thú vị.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function sinCEREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">she GAVE me a sinCERE aPOLogy.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã xin lỗi tôi một cách chân thành.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã gửi đến tôi một lời xin lỗi chân thành.</li>
 
           <li id="NOUN">his sinCERity TOUCHED me.</li>
-          <li className="list-none">Sự chân thành của anh ấy đã chạm đến trái tim tôi.</li>
+          <li className="list-none">Sự chân thành của anh ấy đã làm tôi xúc động.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function sinCEREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> beLIEVE in you.</li>
-          <li className="margin-bottom-20 list-none">Tôi thật sự tin tưởng bạn.</li>
+          <li className="margin-bottom-20 list-none">Tôi thực sự tin tưởng vào bạn.</li>
 
           <li><Link to="/vocabulary/HONestly-1">HONestly</Link>, i DON'T KNOW the ANswer.</li>
-          <li className="list-none">Thật lòng, tôi không biết câu trả lời.</li>
+          <li className="list-none">Thành thật mà nói, tớ không biết câu trả lời.</li>
 
         </ul>
 
@@ -163,7 +163,7 @@ export default function sinCEREly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Anh ta khen ngợi cô ấy một cách không chân thành.</li>
 
           <li>he ACTed hypoCRITically.</li>
-          <li className="list-none">Anh ta hành động một cách đạo đức giả.</li>
+          <li className="list-none">Anh ta đã hành động một cách đạo đức giả.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function sinCEREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he is SPEAKing to me sinCEREly.</li>
-          <li className="list-none">Anh ấy đang nói với tôi một cách chân thành.</li>
+          <li className="list-none">Anh ấy đang nói chuyện với tôi một cách chân thành.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function sinCEREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i sinCEREly HOPE you reCOVer SOON.</li>
-          <li className="list-none">Tôi thật lòng hy vọng bạn mau khỏe lại.</li>
+          <li className="list-none">Tôi chân thành mong bạn sớm bình phục.</li>
 
         </ul>
 
@@ -231,10 +231,10 @@ export default function sinCEREly1(): React.JSX.Element {
           <ol>
 
             <li value="1">THANK you.</li>
-            <li className="list-none margin-bottom-20">Cảm ơn bạn.</li>
+            <li className="list-none margin-bottom-20">Cảm ơn.</li>
 
             <li value="2">THANK you sinCEREly.</li>
-            <li className="list-none margin-bottom-20">Cảm ơn bạn rất nhiều.</li>
+            <li className="list-none margin-bottom-20">Xin chân thành cảm ơn.</li>
 
           </ol>
 

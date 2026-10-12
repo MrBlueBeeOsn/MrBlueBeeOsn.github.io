@@ -75,7 +75,7 @@ export default function Openly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>Openly</strong>" (một cách công khai) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>Openly</strong>" (công khai) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function Openly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="disCUSSED-at">the ISsue was Openly [disCUSSED at] the MEETing.</li>
-        <li className="list-none margin-bottom-20">Vấn đề này đã [được thảo luận] công khai [tại] cuộc họp.</li>
+        <li value="1" id="disCUSSED-at">the ISsue was Openly disCUSSED at the MEETing.</li>
+        <li className="list-none margin-bottom-20">Vấn đề này đã được thảo luận công khai tại cuộc họp.</li>
 
-        <li value="2" id="CRITicized-for">the poliTICian was Openly [CRITicized for] his POLicies.</li>
-        <li className="list-none margin-bottom-20">Vị chính trị gia [đã bị chỉ trích] công khai [vì] các chính sách của ông ấy.</li>
+        <li value="2" id="CRITicized-for">the poliTICian was Openly CRITicized for his POLicies.</li>
+        <li className="list-none margin-bottom-20">Vị chính trị gia này đã bị chỉ trích công khai vì các chính sách của mình.</li>
 
-        <li value="3" id="adMIred-for">the ATHlete was Openly [adMIred for] his aCHIEVEments.</li>
-        <li className="list-none margin-bottom-20">Vận động viên này [được ngưỡng mộ] công khai [vì] những thành tích của anh ấy.</li>
+        <li value="3" id="adMIred-for">the ATHlete was Openly adMIred for his aCHIEVEments.</li>
+        <li className="list-none margin-bottom-20">Vận động viên này đã được mọi người ngưỡng mộ công khai vì những thành tích của anh ấy.</li>
 
-        <li value="4" id="supPORTed-by">the CAUSE was Openly [supPORTed by] <strong>man</strong>y ceLEBrities.</li>
-        <li className="list-none margin-bottom-20">Nguyên nhân này đã [được ủng hộ bởi] nhiều người nổi tiếng công khai. (được nhiều người nổi tiếng ủng hộ công khai).</li>
+        <li value="4" id="supPORTed-by">the CAUSE was Openly supPORTed by <strong>man</strong>y ceLEBrities.</li>
+        <li className="list-none margin-bottom-20">Sự nghiệp này đã nhận được sự ủng hộ công khai từ nhiều người nổi tiếng.</li>
 
-        <li value="5" id="QUESTioned-by">the THEORy was Openly [QUESTioned by] <strong>man</strong>y SCIentists.</li>
-        <li className="list-none margin-bottom-20">Thuyết này đã [bị đặt câu hỏi bởi] nhiều nhà khoa học công khai. (bị nhiều nhà khoa học đặt câu hỏi công khai.)</li>
+        <li value="5" id="QUESTioned-by">the THEORy was Openly QUESTioned by <strong>man</strong>y SCIentists.</li>
+        <li className="list-none margin-bottom-20">Lý thuyết này đã bị nhiều nhà khoa học công khai đặt câu hỏi.</li>
 
-        <li value="6" id="opPOSED-by">the PLAN was Openly [opPOSED by] the LOcal RESidents.</li>
-        <li className="list-none margin-bottom-20">Kế hoạch này đã [bị phản đối bởi] người dân địa phương công khai.(bị người dân địa phương phản đối công khai).</li>
+        <li value="6" id="opPOSED-by">the PLAN was Openly opPOSED by the LOcal RESidents.</li>
+        <li className="list-none margin-bottom-20">Kế hoạch này đã vấp phải sự phản đối công khai từ phía người dân địa phương.</li>
 
-        <li value="7" id="exPRESSED-in">their FEELings were Openly [exPRESSED in] the LETter.</li>
-        <li className="list-none margin-bottom-20">Cảm xúc của họ đã [được bày tỏ] công khai [trong] bức thư.</li>
+        <li value="7" id="exPRESSED-in">their FEELings were Openly exPRESSED in the LETter.</li>
+        <li className="list-none margin-bottom-20">Cảm xúc của họ đã được bày tỏ một cách cởi mở trong bức thư.</li>
 
-        <li value="8" id="acKNOWledged-by">his contriBUtions to the PROJect were Openly [acKNOWledged by] the TEAM.</li>
-        <li className="list-none margin-bottom-20">Những đóng góp của anh ấy cho dự án đã [được công nhận bởi] nhóm công khai. (được nhóm công nhận công khai.)</li>
+        <li value="8" id="acKNOWledged-by">his contriBUtions to the PROJect were Openly acKNOWledged by the TEAM.</li>
+        <li className="list-none margin-bottom-20">Những đóng góp của anh ấy cho dự án đã được cả nhóm công khai ghi nhận.</li>
 
-        <li value="9" id="deFIED">the proTESters Openly [deFIED] the GOVernment's ORders.</li>
-        <li className="list-none margin-bottom-20">Những người [đã biểu tình] đã công khai thách thức lệnh của chính phủ.</li>
+        <li value="9" id="deFIED">the proTESters Openly deFIED the GOVernment's ORders.</li>
+        <li className="list-none margin-bottom-20">Những người biểu tình đã công khai bất tuân lệnh của chính phủ.</li>
 
-        <li value="10" id="WELcomed-by">the NEW iDEa was Openly [WELcomed by] the TEAM.</li>
-        <li className="list-none margin-bottom-20">Ý tưởng mới đã [được chào đón bởi] đội ngũ nhiệt liệt. (được đội ngũ nhiệt liệt chào đón).</li>
+        <li value="10" id="WELcomed-by">the NEW iDEa was Openly WELcomed by the TEAM.</li>
+        <li className="list-none margin-bottom-20">Ý tưởng mới này đã được cả đội ngũ nhiệt liệt hoan nghênh.</li>
 
       </ol>
 
