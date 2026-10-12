@@ -75,7 +75,7 @@ export default function preCISEly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>preCISEly</strong>" (một cách chính xác) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>preCISEly</strong>" (chính xác) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function preCISEly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="MEASured">the SCIentist preCISEly [MEASured] the CHEMicals.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học [đã đo lường] các hóa chất một cách chính xác.</li>
+        <li value="1" id="MEASured">the SCIentist preCISEly MEASured the CHEMicals.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học đã đo lường các chất hóa học một cách chính xác.</li>
 
-        <li value="2" id="CALculated">the engiNEER preCISEly [CALculated] the diMENsions.</li>
-        <li className="list-none margin-bottom-20">Kỹ sư [đã tính toán] các kích thước một cách chính xác.</li>
+        <li value="2" id="CALculated">the engiNEER preCISEly CALculated the diMENsions.</li>
+        <li className="list-none margin-bottom-20">Kỹ sư đã tính toán chính xác các kích thước.</li>
 
-        <li value="3" id="deFINES">the LAW preCISEly [deFINES] the TERMS.</li>
-        <li className="list-none margin-bottom-20">Luật [định nghĩa] các điều khoản một cách chính xác.</li>
+        <li value="3" id="deFINES">the LAW preCISEly deFINES the TERMS.</li>
+        <li className="list-none margin-bottom-20">Luật đã định nghĩa chính xác các thuật ngữ này.</li>
 
-        <li value="4" id="loCAted">the MAP preCISEly [loCAted] the TREAsure.</li>
-        <li className="list-none margin-bottom-20">Bản đồ [đã xác định] vị trí kho báu một cách chính xác.</li>
+        <li value="4" id="loCAted">the MAP preCISEly loCAted the TREASure.</li>
+        <li className="list-none margin-bottom-20">Bản đồ đã xác định chính xác vị trí kho báu.</li>
 
-        <li value="5" id="FOLlowed">the CHEF preCISEly [FOLlowed] the RECipe.</li>
-        <li className="list-none margin-bottom-20">Đầu bếp [đã tuân theo] công thức một cách chính xác.</li>
+        <li value="5" id="FOLlowed">the CHEF preCISEly FOLlowed the RECipe.</li>
+        <li className="list-none margin-bottom-20">Đầu bếp đã làm theo công thức một cách chính xác.</li>
 
-        <li value="6" id="deSCRIBED">the WITness preCISEly [deSCRIBED] the SUSpect.</li>
-        <li className="list-none margin-bottom-20">Nhân chứng [đã miêu tả] nghi phạm một cách chính xác.</li>
+        <li value="6" id="deSCRIBED">the WITness preCISEly deSCRIBED the SUSpect.</li>
+        <li className="list-none margin-bottom-20">Nhân chứng đã mô tả rất chính xác về nghi phạm.</li>
 
-        <li value="7" id="exPLAINED">the TEACHer preCISEly [exPLAINED] the CONcept.</li>
-        <li className="list-none margin-bottom-20">Giáo viên [đã giải thích] khái niệm một cách chính xác.</li>
+        <li value="7" id="exPLAINED">the TEACHer preCISEly exPLAINED the CONcept.</li>
+        <li className="list-none margin-bottom-20">Giáo viên đã giải thích khái niệm đó một cách chính xác.</li>
 
-        <li value="8" id="conTROLLED">the maCHINE preCISEly [conTROLLED] the TEMPERature.</li>
-        <li className="list-none margin-bottom-20">Máy móc [đã kiểm soát] nhiệt độ một cách chính xác.</li>
+        <li value="8" id="conTROLLED">the maCHINE preCISEly conTROLLED the TEMPERature.</li>
+        <li className="list-none margin-bottom-20">Cỗ máy đã điều khiển nhiệt độ một cách chính xác.</li>
 
-        <li value="9" id="aLIGNED">the PARTS were preCISEly [aLIGNED].</li>
-        <li className="list-none margin-bottom-20">Các bộ phận đã [được căn chỉnh] một cách chính xác.</li>
+        <li value="9" id="aLIGNED">the PARTS were preCISEly aLIGNED.</li>
+        <li className="list-none margin-bottom-20">Các bộ phận đã được căn chỉnh một cách chính xác.</li>
 
-        <li value="10" id="TIMED">the eVENT was preCISEly [TIMED].</li>
-        <li className="list-none margin-bottom-20">Sự kiện đã [được định thời gian] một cách chính xác.</li>
+        <li value="10" id="TIMED">the eVENT was preCISEly TIMED.</li>
+        <li className="list-none margin-bottom-20">Sự kiện này được tổ chức vào đúng thời điểm.</li>
 
       </ol>
 

@@ -75,7 +75,7 @@ export default function eXACTly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Chính xác, đúng đắn</li>
+            <li>Chính xác là</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function eXACTly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>eXACTly</strong>" dùng để nhấn mạnh sự chính xác, hoàn toàn trùng khớp với một điều gì đó. Nó có thể được sử dụng để xác nhận, đồng ý, hoặc để làm rõ một thông tin.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>eXACTly</strong>" dùng để nhấn mạnh sự chính xác là, hoàn toàn trùng khớp với một điều gì đó. Nó có thể được sử dụng để xác nhận, đồng ý, hoặc để làm rõ một thông tin.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li id="ADverb">that's eXACTly WHAT i THINKing.</li>
-          <li className="margin-bottom-20 list-none">Đúng là điều tôi đang nghĩ.</li>
+          <li id="ADverb">THAT's eXACTly WHAT i THINKing.</li>
+          <li className="margin-bottom-20 list-none">Đó chính xác là điều tớ đang nghĩ.</li>
 
           <li>she arRIVED at eXACTly THREE o'CLOCK.</li>
-          <li className="list-none">Cô ấy đến đúng 3 giờ.</li>
+          <li className="list-none">Cô ấy đến đúng ba giờ.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function eXACTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the eXACT TIME is TWO fifTEEN p.M.</li>
-          <li className="list-none">Thời gian chính xác là 2:15 chiều.</li>
+          <li className="list-none">Thời gian chính xác là 2 giờ 15 phút chiều.</li>
 
         </ul>
       
@@ -134,7 +134,7 @@ export default function eXACTly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Đó chính xác là điều tôi muốn nói.</li>
 
           <li>the MEASurement was <Link to="/vocabulary/ACcurately-1">ACcurately</Link> TAken.</li>
-          <li className="list-none">Đo lường đã được thực hiện chính xác.</li>
+          <li className="list-none">Kết quả đo lường đã được thực hiện một cách chính xác.</li>
 
         </ul>
 
@@ -151,10 +151,10 @@ export default function eXACTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>there were apPROXimately a HUNdred PEOple at the PARTy.</li>
-          <li className="margin-bottom-20 list-none">Có khoảng 100 người tại bữa tiệc.</li>
+          <li className="margin-bottom-20 list-none">Có khoảng một trăm người tham dự bữa tiệc.</li>
 
           <li>it TAKES ROUGHly THIRty MINutes to GET THERE.</li>
-          <li className="list-none">Mất khoảng 30 phút để đến đó.</li>
+          <li className="list-none">Khoảng ba mươi phút là đến nơi.</li>
 
         </ul>
 
@@ -179,8 +179,8 @@ export default function eXACTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>This DIGital CALiper can MEASure the LENGTH of this comPOnent eXACTly to the MILlimeter.</li>
-          <li className="list-none">Thước kẹp kỹ thuật số này có thể đo độ dài của thành phần này chính xác đến từng milimet.</li>
+          <li>this DIGital CALiper can MEASure the LENGTH of this comPOnent eXACTly to the MILlimeter.</li>
+          <li className="list-none">Thước kẹp kỹ thuật số này có thể đo chiều dài của bộ phận này chính xác đến từng milimét.</li>
 
         </ul>
 
@@ -200,7 +200,7 @@ export default function eXACTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>can you rePEAT THAT, eXACTly?</li>
-          <li className="list-none">Anh/chị có thể lặp lại điều đó, chính xác không?</li>
+          <li className="list-none">Bạn có thể lặp lại chính xác điều đó được không?</li>
 
         </ul>
 
@@ -222,10 +222,10 @@ export default function eXACTly1(): React.JSX.Element {
           <ol>
 
             <li value="1">i'll be THERE SOON.</li>
-            <li className="list-none margin-bottom-20">Tôi sẽ đến đó sớm.</li>
+            <li className="list-none margin-bottom-20">Tôi sẽ đến đó ngay.</li>
 
             <li value="2">i'll be THERE at eXACTly FIVE p.M.</li>
-            <li className="list-none margin-bottom-20">Tôi sẽ đến đó đúng 5 giờ.</li>
+            <li className="list-none margin-bottom-20">Tôi sẽ có mặt tại đó đúng 5 giờ chiều.</li>
 
           </ol>
 

@@ -75,7 +75,7 @@ export default function ACcurately2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ACcurately</strong>" và các cụm từ thường đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ACcurately</strong>" (chính xác) và các cụm từ thường đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function ACcurately2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="reFLECT">the staTIStics ACcurately [reFLECT] the CURrent ecoNOMic situAtion.</li>
-        <li className="list-none margin-bottom-20">Thống kê [phản ánh] chính xác tình hình kinh tế hiện tại.</li>
+        <li value="1" id="reFLECT">the staTIStics ACcurately reFLECT the CURrent ecoNOMic situAtion.</li>
+        <li className="list-none margin-bottom-20">Các số liệu thống kê phản ánh chính xác tình hình kinh tế hiện nay.</li>
 
-        <li value="2" id="MEASured-of">the SCIentist ACcurately [MEASured] the TEMPERature [of] the soLUtion.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học [đã đo] chính xác nhiệt độ [của] dung dịch.</li>
+        <li value="2" id="MEASured-of">the SCIentist ACcurately MEASured the TEMPERature of the soLUtion.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học đã đo nhiệt độ của dung dịch một cách chính xác.</li>
 
-        <li value="3" id="preDICTed-of">the meteoROLogist ACcurately [preDICTed] the arRIval [of] the STORM.</li>
-        <li className="list-none margin-bottom-20">Nhà khí tượng [đã dự báo] chính xác thời điểm [của] cơn bão.</li>
+        <li value="3" id="preDICTed-of">the meteoROLogist ACcurately preDICTed the arRIval of the STORM.</li>
+        <li className="list-none margin-bottom-20">Nhà khí tượng học đã dự báo chính xác sự xuất hiện của cơn bão.</li>
 
-        <li value="4" id="deSCRIBED-to">the WITness ACcurately [deSCRIBED] the SUSpect [to] the poLICE.</li>
-        <li className="list-none margin-bottom-20">Nhân chứng [đã mô tả] chính xác nghi phạm [cho] cảnh sát.</li>
+        <li value="4" id="deSCRIBED-to">the WITness ACcurately deSCRIBED the SUSpect to the poLICE.</li>
+        <li className="list-none margin-bottom-20">Người làm chứng đã mô tả chính xác nghi phạm cho cảnh sát.</li>
 
-        <li value="5" id="iDENtified">the EXpert ACcurately [iDENtified] the RARE BIRD SPEcies.</li>
-        <li className="list-none margin-bottom-20">Chuyên gia [đã nhận dạng] chính xác loài chim quý hiếm.</li>
+        <li value="5" id="iDENtified">the EXpert ACcurately iDENtified the RARE BIRD SPEcies.</li>
+        <li className="list-none margin-bottom-20">Chuyên gia đã xác định chính xác loài chim quý hiếm này.</li>
 
-        <li value="6" id="CALculated-of">the engiNEER ACcurately [CALculated] the LOAD-BEARing caPACity [of] the BRIDGE.</li>
-        <li className="list-none margin-bottom-20">Kỹ sư [đã tính toán] chính xác khả năng chịu tải [của] cây cầu.</li>
+        <li value="6" id="CALculated-of">the engiNEER ACcurately CALculated the LOAD-BEARing caPACity of the BRIDGE.</li>
+        <li className="list-none margin-bottom-20">Kỹ sư đã tính toán chính xác khả năng chịu tải của cây cầu.</li>
 
-        <li value="7" id="transLAted-from-into">the transLAtor ACcurately [transLAted] the DOCument [from] ENGlish [<strong>in</strong>to] SPANish.</li>
-        <li className="list-none margin-bottom-20">Người phiên dịch [đã dịch] chính xác tài liệu [từ] tiếng Anh [sang] tiếng Tây Ban Nha.</li>
+        <li value="7" id="transLAted-from-into">the transLAtor ACcurately transLAted the DOCument from ENGlish <strong>in</strong>to SPANish.</li>
+        <li className="list-none margin-bottom-20">Người dịch đã dịch chính xác tài liệu này từ tiếng Anh sang tiếng Tây Ban Nha.</li>
 
-        <li value="8" id="repreSENTS-of">the MODel ACcurately [repreSENTS] the STRUCture [of] the MOLecule.</li>
-        <li className="list-none margin-bottom-20">Mô hình [đại diện] chính xác cấu trúc [của] phân tử.</li>
+        <li value="8" id="repreSENTS-of">the MODel ACcurately repreSENTS the STRUCture of the MOLecule.</li>
+        <li className="list-none margin-bottom-20">Mô hình này phản ánh chính xác cấu trúc của phân tử.</li>
 
-        <li value="9" id="asSESSED">the TEACHer ACcurately [asSESSED] the STUdent's perFORmance.</li>
-        <li className="list-none margin-bottom-20">Giáo viên [đã đánh giá] chính xác kết quả học tập của học sinh.</li>
+        <li value="9" id="asSESSED">the TEACHer ACcurately asSESSED the STUdent's perFORmance.</li>
+        <li className="list-none margin-bottom-20">Giáo viên đã đánh giá chính xác kết quả học tập của học sinh.</li>
 
-        <li value="10" id="reproDUCED-in">the ARTist ACcurately [reproDUCED] the SCENE [in] her PAINTing.</li>
-        <li className="list-none margin-bottom-20">Họa sĩ [đã tái tạo] cảnh vật một cách chính xác [trong] bức tranh của mình.</li>
+        <li value="10" id="reproDUCED-in">the ARTist ACcurately reproDUCED the SCENE in her PAINTing.</li>
+        <li className="list-none margin-bottom-20">Nghệ sĩ đã tái hiện chính xác khung cảnh đó trong bức tranh của mình.</li>
 
       </ol>
 

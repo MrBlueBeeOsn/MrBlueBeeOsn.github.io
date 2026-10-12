@@ -79,7 +79,7 @@ export default function ACcurately1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách chính xác</li>
+            <li>Chính xác</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function ACcurately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she ACcurately MEASured the inGREdients.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã đo đạc nguyên liệu một cách chính xác.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã đo lường chính xác các nguyên liệu.</li>
 
           <li>the DAta was inACcurately reCORDed.</li>
-          <li className="list-none">Dữ liệu đã được ghi lại chính xác.</li>
+          <li className="list-none">Dữ liệu đã được ghi chép không chính xác.</li>
 
         </ul>
 
@@ -121,7 +121,7 @@ export default function ACcurately1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Thông tin của anh ấy luôn chính xác.</li>
 
           <li id="NOUN">the ACcuracy of the TEST reSULTS is CRUcial.</li>
-          <li className="list-none">Độ chính xác của kết quả kiểm tra là rất quan trọng.</li>
+          <li className="list-none">Độ chính xác của kết quả xét nghiệm là vô cùng quan trọng.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function ACcurately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i KNOW <Link to="/vocabulary/eXACTly-1">eXACTly</Link> WHAT you MEAN.</li>
-          <li className="margin-bottom-20 list-none">Tôi hiểu chính xác ý của bạn.</li>
+          <li className="margin-bottom-20 list-none">Tớ hiểu rõ ràng ý cậu muốn nói là gì.</li>
 
           <li>the TIME was <Link to="/vocabulary/preCISEly-1">preCISEly</Link> THREE p.M.</li>
-          <li className="list-none">Thời gian chính xác là 3 giờ chiều.</li>
+          <li className="list-none">Đúng 3 giờ chiều.</li>
 
         </ul>
 
@@ -158,10 +158,10 @@ export default function ACcurately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the inforMAtion was inACcurately rePORTed.</li>
-          <li className="margin-bottom-20 list-none">Thông tin đã được báo cáo không chính xác.</li>
+          <li className="margin-bottom-20 list-none">Thông tin đã được đưa tin không chính xác</li>
 
           <li>there were apPROXimately a HUNdred PEOple at the PARTy.</li>
-          <li className="list-none">Có khoảng 100 người tại bữa tiệc.</li>
+          <li className="list-none">Có khoảng một trăm người tham dự bữa tiệc.</li>
 
         </ul>
       
@@ -186,8 +186,8 @@ export default function ACcurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the JEWeler is ACcurately MEASuring the DIamond with a preCISE TOOL.</li>
-          <li className="list-none">Người thợ kim hoàn đang đo viên kim cương một cách chính xác bằng một dụng cụ đo lường.</li>
+          <li>the JEWEler is ACcurately MEASuring the DIamond with a preCISE TOOL.</li>
+          <li className="list-none">Người thợ kim hoàn đang đo lường viên kim cương một cách chính xác bằng một dụng cụ đo lường chính xác.</li>
 
         </ul>
 
@@ -229,10 +229,10 @@ export default function ACcurately1(): React.JSX.Element {
           <ol>
 
             <li value="1">he EStimated the COST.</li>
-            <li className="list-none margin-bottom-20">Anh ấy ước tính chi phí.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã ước tính chi phí.</li>
 
             <li value="2">he ACcurately CALculated the COST.</li>
-            <li className="list-none margin-bottom-20">Anh ấy tính toán chi phí một cách chính xác.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã tính toán chi phí một cách chính xác.</li>
 
           </ol>
 

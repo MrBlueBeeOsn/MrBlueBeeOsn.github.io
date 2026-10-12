@@ -75,7 +75,7 @@ export default function eXACTly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>eXACTly</strong>" (chính xác) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>eXACTly</strong>" (chính xác là) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function eXACTly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="RIGHT">THAT'S eXACTly [RIGHT]! you've HIT the NAIL on the HEAD.</li>
-        <li className="list-none margin-bottom-20">[Đúng] chính xác rồi! Bạn đã nói trúng phóc.</li>
+        <li value="1" id="RIGHT">THAT'S eXACTly RIGHT! you've HIT the NAIL on the HEAD.</li>
+        <li className="list-none margin-bottom-20">Đúng là như vậy! Bạn đã nói trúng tâm vấn đề rồi.</li>
 
-        <li value="2" id="WHAT-i-MEAN">YES, eXACTly [WHAT i MEAN]. it's unFAIR.</li>
-        <li className="list-none margin-bottom-20">Đúng vậy, đó chính là [điều tôi muốn nói]. Nó thật bất công.</li>
+        <li value="2" id="WHAT-i-MEAN">YES, eXACTly WHAT i MEAN. it's unFAIR.</li>
+        <li className="list-none margin-bottom-20">Đúng rồi, chính xác là điều tôi muốn nói. Thật là bất công.</li>
 
-        <li value="3" id="the-SAME-as">my NEW PHONE is eXACTly [the SAME as] my OLD ONE.</li>
-        <li className="list-none margin-bottom-20">Điện thoại mới của tôi [hoàn toàn giống với] cái cũ.</li>
+        <li value="3" id="the-SAME-as">my NEW PHONE is eXACTly the SAME as my OLD ONE.</li>
+        <li className="list-none margin-bottom-20">Chiếc điện thoại mới của tôi hoàn toàn giống hệt chiếc cũ của tôi.</li>
 
-        <li value="4" id="as-PLANNED-for">everything WENT eXACTly [as PLANNED for] the PARTy.</li>
-        <li className="list-none margin-bottom-20">Mọi thứ diễn ra đúng [như kế hoạch cho] bữa tiệc.</li>
+        <li value="4" id="as-PLANNED-for">EVERything WENT eXACTly as PLANNED for the PARTy.</li>
+        <li className="list-none margin-bottom-20">Mọi thứ diễn ra y hệt như kế hoạch đã định cho bữa tiệc.</li>
 
-        <li value="5" id="SURE-WHAT-he-MEANT">i'm NOT eXACTly [SURE WHAT he MEANT] by THAT.</li>
-        <li className="list-none margin-bottom-20">Tôi không thực sự chắc chắn [về ý của anh ấy].</li>
+        <li value="5" id="SURE-WHAT-he-MEANT">i'm NOT eXACTly SURE WHAT he MEANT by THAT.</li>
+        <li className="list-none margin-bottom-20">Tôi không hoàn toàn chắc chắn anh ấy muốn nói gì qua câu nói đó.</li>
 
-        <li value="6" id="HOW-many-PEOple">eXACTly [HOW <strong>man</strong>y PEOple] atTENDed the CONFERence?</li>
-        <li className="list-none margin-bottom-20">Chính xác [có bao nhiêu người] tham dự hội nghị?</li>
+        <li value="6" id="HOW-many-PEOple">eXACTly HOW <strong>man</strong>y PEOple atTENDed the CONFERence?</li>
+        <li className="list-none margin-bottom-20">Chính xác thì có bao nhiêu người đã tham dự hội nghị?</li>
 
-        <li value="7" id="WHERE-the-LIbrary-IS">can you TELL me eXACTly [WHERE the LIbrary IS]?</li>
-        <li className="list-none margin-bottom-20">Bạn có thể cho tôi biết [thư viện ở] chính xác [đâu không]?</li>
+        <li value="7" id="WHERE-the-LIbrary-IS">can you TELL me eXACTly WHERE the LIbrary IS?</li>
+        <li className="list-none margin-bottom-20">Bạn có thể chỉ cho tôi chính xác thư viện nằm ở đâu không?</li>
 
-        <li value="8" id="WHEN-does">eXACTly [WHEN does] the TRAIN LEAVE?</li>
-        <li className="list-none margin-bottom-20">Tàu khởi hành chính xác [lúc mấy giờ]?</li>
+        <li value="8" id="WHEN-does">eXACTly WHEN does the TRAIN LEAVE?</li>
+        <li className="list-none margin-bottom-20">Chính xác thì tàu sẽ khởi hành vào lúc nào?</li>
 
-        <li value="9" id="the-SAME-as-MINE">her DRESS is eXACTly [the SAME as MINE].</li>
-        <li className="list-none margin-bottom-20">Váy của cô ấy hoàn toàn [giống với váy của tôi].</li>
+        <li value="9" id="the-SAME-as-MINE">her DRESS is eXACTly the SAME as MINE.</li>
+        <li className="list-none margin-bottom-20">Chiếc váy của cô ấy hoàn toàn giống hệt chiếc váy của tớ.</li>
 
-        <li value="10" id="WHAT-i-NEEDed-for">THIS BOOK is eXACTly [WHAT i NEEDed for] my reSEARCH.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này đúng là [điều tôi cần cho] bài nghiên cứu của mình.</li>
+        <li value="10" id="WHAT-i-NEEDed-for">this BOOK is eXACTly WHAT i NEEDed for my reSEARCH.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này chính xác là thứ tôi cần cho công trình nghiên cứu của mình.</li>
 
       </ol>
 

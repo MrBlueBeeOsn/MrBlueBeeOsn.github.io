@@ -79,7 +79,7 @@ export default function corRECTly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách chính xác, đúng đắn</li>
+            <li>Đúng</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function corRECTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she ANswered all the QUESTions corRECTly.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã trả lời tất cả các câu hỏi một cách chính xác.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã trả lời đúng tất cả các câu hỏi.</li>
 
           <li>PLEASE MAKE SURE you FILL in the FORM corRECTly.</li>
-          <li className="list-none">Vui lòng đảm bảo bạn điền vào mẫu đơn một cách chính xác.</li>
+          <li className="list-none">Xin vui lòng đảm bảo rằng quý vị điền đúng vào mẫu đơn.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function corRECTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">your ANswer is corRECT.</li>
-          <li className="margin-bottom-20 list-none">Câu trả lời của bạn đúng.</li>
+          <li className="margin-bottom-20 list-none">Câu trả lời của bạn là đúng.</li>
 
           <li id="NOUN">the TEACHer MADE a corRECtion to my ESsay.</li>
-          <li className="list-none">Giáo viên đã sửa một lỗi trong bài luận của tôi.</li>
+          <li className="list-none">Giáo viên đã sửa bài luận của tôi.</li>
 
         </ul>
       
@@ -141,7 +141,7 @@ export default function corRECTly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Dữ liệu đã được ghi lại một cách chính xác.</li>
 
           <li>he exPLAINED the situAtion <Link to="/vocabulary/preCISEly-1">preCISEly</Link>.</li>
-          <li className="list-none">Anh ấy đã giải thích tình hình một cách chính xác.</li>
+          <li className="list-none">Anh ấy đã giải thích tình huống một cách chính xác.</li>
 
         </ul>
 
@@ -158,10 +158,10 @@ export default function corRECTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he ANswered the QUESTion incorRECTly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã trả lời câu hỏi một cách sai lầm.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã trả lời câu hỏi không đúng.</li>
 
           <li>she was TREATed imPROPerly.</li>
-          <li className="list-none">Cô ấy đã bị đối xử một cách không đúng.</li>
+          <li className="list-none">Cô ấy đã bị đối xử không đúng mực.</li>
 
         </ul>
 
@@ -187,7 +187,7 @@ export default function corRECTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the STUdent is CAREfully MARKing the ANswers corRECTly, enSURing a HIGH SCORE.</li>
-          <li className="list-none">Học sinh đang cẩn thận đánh dấu các câu trả lời một cách chính xác, đảm bảo đạt điểm cao.</li>
+          <li className="list-none">Học sinh đang cẩn thận điền đáp án một cách chính xác, nhằm đảm bảo đạt điểm cao.</li>
 
         </ul>
 
@@ -207,7 +207,7 @@ export default function corRECTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>if you WANT to USE the maCHINE, you MUST FOLlow the inSTRUCtions corRECTly.</li>
-          <li className="list-none">Nếu bạn muốn sử dụng máy, bạn phải làm theo hướng dẫn một cách chính xác.</li>
+          <li className="list-none">Nếu bạn muốn sử dụng máy, bạn phải tuân thủ đúng các hướng dẫn.</li>
 
         </ul>
 
@@ -229,7 +229,7 @@ export default function corRECTly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he ANswered the QUESTion.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi đó.</li>
 
             <li value="2">he ANswered the QUESTion corRECTly.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi một cách chính xác.</li>
