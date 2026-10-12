@@ -75,7 +75,7 @@ export default function CHEERfully2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CHEERfully</strong>" (một cách vui vẻ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CHEERfully</strong>" (vui vẻ) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function CHEERfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="aGREED">she CHEERfully [aGREED] to HELP with the PARTy.</li>
-        <li className="list-none margin-bottom-20">Cô ấy vui vẻ [đồng ý] giúp đỡ tổ chức bữa tiệc.</li>
+        <li value="1" id="aGREED">she CHEERfully aGREED to HELP with the PARTy.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã vui vẻ đồng ý giúp tổ chức bữa tiệc.</li>
 
-        <li value="2" id="WAVED-GOODbye-to">the CHILDren CHEERfully [WAVED GOODbye to] the BUS.</li>
-        <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ [vẫy tay chào tạm biệt] xe buýt.</li>
+        <li value="2" id="WAVED-GOODbye-to">the CHILDren CHEERfully WAVED GOODbye to the BUS.</li>
+        <li className="list-none margin-bottom-20">Các em nhỏ hân hoan vẫy tay chào tạm biệt chiếc xe buýt.</li>
 
-        <li value="3" id="OFfered">he CHEERfully [OFfered] to CARry the HEAVy BOXes.</li>
-        <li className="list-none margin-bottom-20">Anh ấy vui vẻ [tình nguyện] mang những chiếc hộp nặng.</li>
+        <li value="3" id="OFfered">he CHEERfully OFfered to CARry the HEAVy BOXes.</li>
+        <li className="list-none margin-bottom-20">Anh ấy hào hứng đề nghị giúp mang những chiếc hộp nặng nề.</li>
 
-        <li value="4" id="comPLIED-with">she CHEERfully [comPLIED with] his reQUEST.</li>
-        <li className="list-none margin-bottom-20">Cô ấy vui vẻ [tuân theo] yêu cầu của anh ấy.</li>
+        <li value="4" id="comPLIED-with">she CHEERfully comPLIED with his reQUEST.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã vui vẻ làm theo yêu cầu của anh ấy.</li>
 
-        <li value="5" id="acCEPTed">he CHEERfully [acCEPTed] the inviTAtion.</li>
-        <li className="list-none margin-bottom-20">Anh ấy vui vẻ [chấp nhận] lời mời.</li>
+        <li value="5" id="acCEPTed">he CHEERfully acCEPTed the inviTAtion.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã vui vẻ nhận lời mời.</li>
 
-        <li value="6" id="parTICipated-in">the STUdents CHEERfully [parTICipated in] the GAME.</li>
-        <li className="list-none margin-bottom-20">Học sinh vui vẻ [tham gia] trò chơi.</li>
+        <li value="6" id="parTICipated-in">the STUdents CHEERfully parTICipated in the GAME.</li>
+        <li className="list-none margin-bottom-20">Các học sinh đã hào hứng tham gia vào trận đấu.</li>
 
-        <li value="7" id="SANG-in">the BIRDS CHEERfully [SANG in] the MORNing.</li>
-        <li className="list-none margin-bottom-20">Những chú chim vui vẻ [hót líu lo vào] buổi sáng.</li>
+        <li value="7" id="SANG-in">the BIRDS CHEERfully SANG in the MORNing.</li>
+        <li className="list-none margin-bottom-20">Các chú chim hót rộn ràng vào buổi sáng.</li>
 
-        <li value="8" id="DANCED-to">the CHILDren CHEERfully [DANCED to] the MUsic.</li>
-        <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ [nhảy múa theo] nhạc.</li>
+        <li value="8" id="DANCED-to">the CHILDren CHEERfully DANCED to the MUsic.</li>
+        <li className="list-none margin-bottom-20">Các em nhỏ nhảy múa vui vẻ theo điệu nhạc.</li>
 
-        <li value="9" id="GREETed">she CHEERfully [GREETed] her FRIENDS at the DOOR.</li>
-        <li className="list-none margin-bottom-20">Cô ấy vui vẻ [chào đón] bạn bè ở cửa.</li>
+        <li value="9" id="GREETed">she CHEERfully GREETed her FRIENDS at the DOOR.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã vui vẻ chào đón các bạn của mình ngay tại cửa.</li>
 
-        <li value="10" id="SMILED-at">he CHEERfully [SMILED at] her.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [cười tươi với] cô ấy.</li>
+        <li value="10" id="SMILED-at">he CHEERfully SMILED at her.</li>
+        <li className="list-none margin-bottom-20">Anh mỉm cười rạng rỡ với cô.</li>
 
       </ol>
 

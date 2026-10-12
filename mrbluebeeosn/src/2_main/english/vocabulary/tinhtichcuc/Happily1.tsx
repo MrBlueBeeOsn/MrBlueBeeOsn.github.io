@@ -79,7 +79,7 @@ export default function HAPpily1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách hạnh phúc</li>
+            <li>Hạnh phúc</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function HAPpily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">they LIVED HAPpily EVer AFter.</li>
-          <li className="margin-bottom-20 list-none">Họ sống hạnh phúc mãi mãi.</li>
+          <li className="margin-bottom-20 list-none">Họ đã sống hạnh phúc mãi mãi về sau.</li>
 
           <li>she SMILED HAPpily.</li>
-          <li className="list-none">Cô ấy cười một cách hạnh phúc.</li>
+          <li className="list-none">Cô ấy mỉm cười vui vẻ.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function HAPpily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">i am VERY HAPpy to SEE you.</li>
-          <li className="margin-bottom-20 list-none">Tôi rất vui khi gặp bạn.</li>
+          <li className="margin-bottom-20 list-none">Tôi rất vui khi được gặp bạn.</li>
 
           <li id="NOUN">HAPpiness is the KEY to a GOOD LIFE.</li>
-          <li className="list-none">Hạnh phúc là chìa khóa cho một cuộc sống tốt đẹp.</li>
+          <li className="list-none">Hạnh phúc là chìa khóa dẫn đến một cuộc sống tốt đẹp.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function HAPpily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the CHILDren PLAYED <Link to="/vocabulary/JOYfully-1">JOYfully</Link>.</li>
-          <li className="margin-bottom-20 list-none">Những đứa trẻ chơi một cách vui mừng.</li>
+          <li className="margin-bottom-20 list-none">Các em nhỏ chơi đùa vui vẻ.</li>
 
           <li>i will GLADly HELP you.</li>
-          <li className="list-none">Tôi rất vui lòng giúp bạn.</li>
+          <li className="list-none">Tôi sẽ rất hân hạnh giúp bạn.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function HAPpily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>SADly, he LOST his JOB.</li>
-          <li className="margin-bottom-20 list-none">Buồn thay, anh ấy mất việc.</li>
+          <li className="margin-bottom-20 list-none">Thật đáng buồn, anh ấy đã mất việc.</li>
 
           <li>she LIVED unHAPpily EVer AFter.</li>
-          <li className="list-none">Cô ấy sống bất hạnh mãi mãi.</li>
+          <li className="list-none">Cô ấy đã sống một cuộc đời bất hạnh mãi mãi về sau.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function HAPpily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she is HAPpily CUDdling a PUPpy.</li>
-          <li className="list-none">Cô ấy đang ôm một chú chó con một cách hạnh phúc.</li>
+          <li className="list-none">Cô ấy đang vui vẻ ôm ấp một chú cún con.</li>
 
         </ul>
 
@@ -234,7 +234,7 @@ export default function HAPpily1(): React.JSX.Element {
             <li className="list-none margin-bottom-20">Cô ấy đi làm.</li>
 
             <li value="2">she WENT to WORK HAPpily.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đi làm một cách vui vẻ.</li>
+            <li className="list-none margin-bottom-20">Cô ấy đi làm với tâm trạng vui vẻ.</li>
 
           </ol>
 

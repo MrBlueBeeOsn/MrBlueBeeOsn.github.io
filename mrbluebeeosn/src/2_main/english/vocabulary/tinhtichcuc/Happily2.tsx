@@ -75,7 +75,7 @@ export default function HAPpily2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>HAPpily</strong>" (một cách vui vẻ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>HAPpily</strong>" (hạnh phúc) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function HAPpily2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="EVer-AFter">they LIVED HAPpily [EVer AFter].</li>
-        <li className="list-none margin-bottom-20">Và họ sống hạnh phúc [mãi mãi].</li>
+        <li value="1" id="EVer-AFter">they LIVED HAPpily EVer AFter.</li>
+        <li className="list-none margin-bottom-20">Họ đã sống hạnh phúc mãi mãi về sau.</li>
 
-        <li value="2" id="MARried-for">they have been HAPpily [MARried for] TWENty YEARS.</li>
-        <li className="list-none margin-bottom-20">Họ [đã kết hôn] hạnh phúc được 20 năm.</li>
+        <li value="2" id="MARried-for">they have been HAPpily MARried for TWENty YEARS.</li>
+        <li className="list-none margin-bottom-20">Họ đã sống hạnh phúc bên nhau suốt hai mươi năm.</li>
 
-        <li value="3" id="surPRISED">she was HAPpily [surPRISED] to SEE him.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rất [vui mừng] khi gặp anh ấy.</li>
+        <li value="3" id="surPRISED">she was HAPpily surPRISED to SEE him.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã vô cùng ngạc nhiên và vui mừng khi thấy anh ấy.</li>
 
-        <li value="4" id="reTIred-and-enJOYS">my GRANDfather is HAPpily [reTIred and enJOYS] GARdening.</li>
-        <li className="list-none margin-bottom-20">Ông nội tôi đã vui vẻ [nghỉ hưu và thích] làm vườn.</li>
+        <li value="4" id="reTIred-and-enJOYS">my GRANDfather is HAPpily reTIred and enJOYS GARdening.</li>
+        <li className="list-none margin-bottom-20">Ông nội của tôi đang tận hưởng cuộc sống hưu trí hạnh phúc và rất thích làm vườn.</li>
 
-        <li value="5" id="enGAGED-and-PLANning">the COUPle is HAPpily [enGAGED and PLANning] their WEDding.</li>
-        <li className="list-none margin-bottom-20">Cặp đôi đang rất hạnh phúc [khi đính hôn và đang lên kế hoạch] cho đám cưới.</li>
+        <li value="5" id="enGAGED-and-PLANning">the COUPle is HAPpily enGAGED and PLANning their WEDding.</li>
+        <li className="list-none margin-bottom-20">Cặp đôi này đang hạnh phúc đính hôn và đang lên kế hoạch cho đám cưới của họ.</li>
 
-        <li value="6" id="aGREE-to">i HAPpily [aGREE to] your proPOsal.</li>
-        <li className="list-none margin-bottom-20">Tôi vui vẻ [đồng ý với] đề xuất của bạn.</li>
+        <li value="6" id="aGREE-to">i HAPpily aGREE to your proPOsal.</li>
+        <li className="list-none margin-bottom-20">Tôi rất vui lòng đồng ý với đề xuất của bạn.</li>
 
-        <li value="7" id="acCEPT">i HAPpily [acCEPT] your inviTAtion.</li>
-        <li className="list-none margin-bottom-20">Tôi vui vẻ [chấp nhận] lời mời của bạn.</li>
+        <li value="7" id="acCEPT">i HAPpily acCEPT your inviTAtion.</li>
+        <li className="list-none margin-bottom-20">Tôi rất vui lòng nhận lời mời của bạn.</li>
 
-        <li value="8" id="oBLIGE">i'll HAPpily [oBLIGE].</li>
-        <li className="list-none margin-bottom-20">Tôi rất [vui lòng].</li>
+        <li value="8" id="oBLIGE">i'll HAPpily oBLIGE.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ rất vui lòng làm điều đó.</li>
 
-        <li value="9" id="for-us">HAPpily [for us], the WEAther was BEAUtiful.</li>
-        <li className="list-none margin-bottom-20">May mắn thay [cho chúng tôi], thời tiết rất đẹp.</li>
+        <li value="9" id="for-us">HAPpily for us, the WEAther was BEAUtiful.</li>
+        <li className="list-none margin-bottom-20">May mắn thay, thời tiết thật tuyệt vời.</li>
 
-        <li value="10" id="OCcupied-with">she is HAPpily [OCcupied with] her NEW HOBby.</li>
-        <li className="list-none margin-bottom-20">Cô ấy [đang bận rộn] một cách vui vẻ [với] sở thích mới của mình.</li>
+        <li value="10" id="OCcupied-with">she is HAPpily OCcupied with her NEW HOBby.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đang rất vui vẻ và bận rộn với sở thích mới của mình.</li>
 
       </ol>
 

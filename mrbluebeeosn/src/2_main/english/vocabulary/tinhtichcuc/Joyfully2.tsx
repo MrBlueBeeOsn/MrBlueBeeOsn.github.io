@@ -75,7 +75,7 @@ export default function JOYfully2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>JOYfully</strong>" (một cách vui vẻ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>JOYfully</strong>" (vui vẻ) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function JOYfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="acCEPTed">the inviTAtion was JOYfully [acCEPTed].</li>
-        <li className="list-none margin-bottom-20">Lời mời [đã được chấp nhận] một cách vui vẻ.</li>
+        <li value="1" id="acCEPTed">the inviTAtion was JOYfully acCEPTed.</li>
+        <li className="list-none margin-bottom-20">Lời mời đã được nhận với niềm vui sướng.</li>
 
-        <li value="2" id="parTICipated-in">the CHILDren JOYfully [parTICipated in] the GAMES.</li>
-        <li className="list-none margin-bottom-20">Những đứa trẻ [đã tham gia vào] các trò chơi một cách vui vẻ.</li>
+        <li value="2" id="parTICipated-in">the CHILDren JOYfully parTICipated in the GAMES.</li>
+        <li className="list-none margin-bottom-20">Các em nhỏ đã hào hứng tham gia các trò chơi.</li>
 
-        <li value="3" id="CELebrated">their WEDding was JOYfully [CELebrated] by FRIENDS and FAMILy.</li>
-        <li className="list-none margin-bottom-20">Đám cưới của họ [đã được] bạn bè và gia đình [tổ chức] một cách vui vẻ.</li>
+        <li value="3" id="CELebrated">their WEDding was JOYfully CELebrated by FRIENDS and FAMILy.</li>
+        <li className="list-none margin-bottom-20">Lễ cưới của họ đã được bạn bè và gia đình tổ chức trong không khí hân hoan.</li>
 
-        <li value="4" id="anTICipated">the HOLiday was JOYfully [anTICipated] by the CHILDren.</li>
-        <li className="list-none margin-bottom-20">Các em nhỏ [đã mong đợi] kỳ nghỉ một cách vui vẻ.</li>
+        <li value="4" id="anTICipated">the HOLiday was JOYfully anTICipated by the CHILDren.</li>
+        <li className="list-none margin-bottom-20">Các em nhỏ đã háo hức mong chờ ngày lễ này.</li>
 
-        <li value="5" id="emBRACED">the COUPle JOYfully [emBRACED] <strong>af</strong>ter a LONG sepaRAtion.</li>
-        <li className="list-none margin-bottom-20">Cặp đôi [đã ôm nhau] thật chặt sau một thời gian dài xa cách.</li>
+        <li value="5" id="emBRACED">the COUPle JOYfully emBRACED <strong>af</strong>ter a LONG sepaRAtion.</li>
+        <li className="list-none margin-bottom-20">Cặp đôi đã vui vẻ ôm chầm lấy nhau sau một thời gian dài xa cách.</li>
 
-        <li value="6" id="SHARED">they JOYfully [SHARED] their exPEriences with each OTHer.</li>
-        <li className="list-none margin-bottom-20">Họ [đã chia sẻ] những trải nghiệm của mình với nhau một cách vui vẻ.</li>
+        <li value="6" id="SHARED">they JOYfully SHARED their exPEriences with each OTHer.</li>
+        <li className="list-none margin-bottom-20">Họ đã hào hứng chia sẻ những trải nghiệm của mình với nhau.</li>
 
-        <li value="7" id="exCLAIMED">"i WON!" she JOYfully [exCLAIMED].</li>
-        <li className="list-none margin-bottom-20">Cô ấy vui sướng [đã kêu lên]: "Tôi đã thắng rồi!"</li>
+        <li value="7" id="exCLAIMED">"i WON!" she JOYfully exCLAIMED.</li>
+        <li className="list-none margin-bottom-20">"Tôi thắng rồi!" cô reo lên đầy hân hoan.</li>
 
-        <li value="8" id="reTURNED">the TRAVelers JOYfully [reTURNED] HOME.</li>
-        <li className="list-none margin-bottom-20">Những người du lịch [đã] vui vẻ [trở về] nhà.</li>
+        <li value="8" id="reTURNED">the TRAVelers JOYfully reTURNED HOME.</li>
+        <li className="list-none margin-bottom-20">Các du khách đã hân hoan trở về nhà.</li>
 
-        <li value="9" id="SANG-in">the BIRDS JOYfully [SANG in] the MORNing.</li>
-        <li className="list-none margin-bottom-20">Những chú chim [đã hót líu lo] một cách vui vẻ [vào] buổi sáng.</li>
+        <li value="9" id="SANG-in">the BIRDS JOYfully SANG in the MORNing.</li>
+        <li className="list-none margin-bottom-20">Các chú chim hân hoan hót vang vào buổi sáng.</li>
 
-        <li value="10" id="DANCED-to">the CHILDren JOYfully [DANCED to] the MUsic.</li>
-        <li className="list-none margin-bottom-20">Những đứa trẻ [nhảy múa] vui vẻ [theo] điệu nhạc.</li>
+        <li value="10" id="DANCED-to">the CHILDren JOYfully DANCED to the MUsic.</li>
+        <li className="list-none margin-bottom-20">Các em nhỏ nhảy múa vui vẻ theo điệu nhạc.</li>
 
       </ol>
 

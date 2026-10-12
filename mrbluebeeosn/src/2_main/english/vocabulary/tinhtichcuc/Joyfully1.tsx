@@ -79,7 +79,7 @@ export default function JOYfully1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách vui vẻ, hân hoan</li>
+            <li>Vui vẻ</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function JOYfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">the CHILDren PLAYED JOYfully in the PARK.</li>
-          <li className="margin-bottom-20 list-none">Những đứa trẻ chơi vui vẻ trong công viên.</li>
+          <li className="margin-bottom-20 list-none">Các em nhỏ đã vui vẻ chơi đùa trong công viên.</li>
 
           <li>she acCEPTed the aWARD JOYfully.</li>
-          <li className="list-none">Cô ấy nhận giải thưởng một cách vui vẻ.</li>
+          <li className="list-none">Cô đã vui vẻ nhận giải thưởng.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function JOYfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">she had a JOYful exPRESsion on her FACE.</li>
-          <li className="list-none">Cô ấy có một biểu cảm vui mừng trên khuôn mặt.</li>
+          <li className="list-none">Trên khuôn mặt cô ấy hiện lên nét mặt tràn đầy niềm vui.</li>
 
           <li id="NOUN">the CHILDren FELT GREAT JOY at reCEIVinɡ the GIFTS.</li>
-          <li className="margin-bottom-20 list-none">Những đứa trẻ cảm thấy rất vui khi nhận được quà.</li>
+          <li className="margin-bottom-20 list-none">Các em nhỏ đã cảm thấy vô cùng vui sướng khi nhận được những món quà.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function JOYfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>they LIVED <Link to="/vocabulary/HAPpily-1">HAPpily</Link> EVer AFter.</li>
-          <li className="margin-bottom-20 list-none">Họ sống hạnh phúc mãi mãi.</li>
+          <li className="margin-bottom-20 list-none">Họ đã sống hạnh phúc mãi mãi về sau.</li>
 
           <li>i will GLADly HELP you.</li>
-          <li className="list-none">Tôi sẽ vui lòng giúp bạn.</li>
+          <li className="list-none">Tôi sẽ rất hân hạnh giúp bạn.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function JOYfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he SHOOK his HEAD SADly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy lắc đầu buồn bã.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy lắc đầu một cách buồn bã.</li>
 
           <li>she CRIED SORrowfully.</li>
-          <li className="list-none">Cô ấy khóc đau khổ.</li>
+          <li className="list-none">Cô ấy khóc nức nở.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function JOYfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she OPened the PREsent and LAUGHED JOYfully.</li>
-          <li className="list-none">Bé mở quà và cười vui vẻ.</li>
+          <li className="list-none">Cô ấy mở món quà ra và cười rạng rỡ.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function JOYfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she SANG JOYfully in the SHOWer.</li>
-          <li className="list-none">Cô ấy hát vui vẻ trong phòng tắm.</li>
+          <li className="list-none">Cô ấy hát vui vẻ dưới vòi sen.</li>
 
         </ul>
 
@@ -234,7 +234,7 @@ export default function JOYfully1(): React.JSX.Element {
             <li className="list-none margin-bottom-20">Cô ấy đi làm.</li>
 
             <li value="2">she WENT to WORK JOYfully.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đi làm một cách vui vẻ.</li>
+            <li className="list-none margin-bottom-20">Cô ấy đi làm với tâm trạng vui vẻ.</li>
 
           </ol>
 

@@ -79,7 +79,7 @@ export default function POSitively1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách tích cực, khẳng định, quả quyết</li>
+            <li>Tích cực</li>
 
           </ul>
 
@@ -108,13 +108,13 @@ export default function POSitively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">he reSPONDed POSitively to the sugGEStion.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy phản hồi tích cực trước đề xuất.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã phản hồi tích cực trước đề xuất đó.</li>
 
           <li>she POSitively iDENtified the SUSpect.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy khẳng định chắc chắn nghi phạm.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã xác định chắc chắn danh tính của nghi phạm.</li>
 
           <li>the NEW POLicy POSitively imPACted the COMpany's PROfits.</li>
-          <li className="list-none">Chính sách mới tác động tích cực đến lợi nhuận của công ty.</li>
+          <li className="list-none">Chính sách mới đã tác động tích cực đến lợi nhuận của công ty.</li>
 
         </ul>
 
@@ -131,13 +131,13 @@ export default function POSitively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he has a POSitive ATtitude.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy có thái độ tích cực.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy có một thái độ tích cực.</li>
 
           <li className="list-none">the TEST reSULT was POSitive.</li>
           <li className="margin-bottom-20 list-none">Kết quả xét nghiệm là dương tính.</li>
 
           <li id="NOUN">her posiTIVity is conTAgious.</li>
-          <li className="list-none">Sự tích cực của cô ấy có tính lan truyền.</li>
+          <li className="list-none">Sự tích cực của cô ấy thật lây lan.</li>
 
         </ul>
 
@@ -154,13 +154,13 @@ export default function POSitively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she CERtainly KNOWS WHAT she's DOing.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy nhìn vào tương lai một cách lạc quan.</li>
-
-          <li>he LOOKED at the FUture optiMIStically.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chắc chắn biết mình đang làm gì.</li>
 
+          <li>he LOOKED at the FUture optiMIStically.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy nhìn về tương lai với tinh thần lạc quan.</li>
+
           <li>the CRITics reVIEWED the MOvie FAvorably.</li>
-          <li className="list-none">Các nhà phê bình đánh giá bộ phim một cách thuận lợi.</li>
+          <li className="list-none">Các nhà phê bình đã đánh giá bộ phim này một cách tích cực.</li>
 
         </ul>
 
@@ -179,13 +179,13 @@ export default function POSitively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he reACTed NEGatively to the NEWS.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy phản ứng tiêu cực với tin tức.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã có phản ứng tiêu cực trước tin tức đó.</li>
 
           <li>she SPOKE unCERtainly a<strong>bout</strong> her PLANS.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy nói một cách không chắc chắn về kế hoạch của mình.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy nói một cách không chắc chắn về những kế hoạch của mình.</li>
 
           <li>the BAD WEAther ADversely afFECTed the CROPS.</li>
-          <li className="list-none">Thời tiết xấu ảnh hưởng bất lợi đến mùa màng.</li>
+          <li className="list-none">Thời tiết xấu đã gây ảnh hưởng tiêu cực đến mùa màng.</li>
 
         </ul>
       
@@ -211,7 +211,7 @@ export default function POSitively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he NODded and POSitively afFIRMED, "YES, we can DO it."</li>
-          <li className="list-none">Anh ấy gật đầu và khẳng định một cách quả quyết: "Vâng, chúng ta có thể làm được."</li>
+          <li className="list-none">Anh ấy gật đầu và khẳng định một cách chắc chắn: “Đúng, chúng ta có thể làm được.”</li>
 
         </ul>
 
@@ -231,7 +231,7 @@ export default function POSitively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the PAtient reSPONDed POSitively to the TREATment.</li>
-          <li className="list-none">Bệnh nhân phản ứng tích cực với điều trị.</li>
+          <li className="list-none">Bệnh nhân đã có phản ứng tích cực với phương pháp điều trị.</li>
 
         </ul>
 
@@ -253,10 +253,10 @@ export default function POSitively1(): React.JSX.Element {
           <ol>
 
             <li value="1">he ANswered the QUESTion.</li>
-            <li className="list-none margin-bottom-20">Anh ấy trả lời câu hỏi.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi đó.</li>
 
             <li value="2">he ANswered the QUESTion POSitively.</li>
-            <li className="list-none margin-bottom-20">Anh ấy trả lời câu hỏi một cách khẳng định/tích cực.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi đó một cách khẳng định.</li>
 
           </ol>
 

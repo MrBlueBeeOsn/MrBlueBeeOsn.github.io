@@ -83,7 +83,7 @@ export default function CHEERfully1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách vui vẻ, hồ hởi</li>
+            <li>Vui vẻ</li>
 
           </ul>
 
@@ -102,10 +102,10 @@ export default function CHEERfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she GREETed me CHEERfully this MORNing.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy chào tôi một cách vui vẻ vào sáng nay.</li>
+          <li className="margin-bottom-20 list-none">Sáng nay, cô ấy đã chào tôi một cách vui vẻ.</li>
 
           <li>he WHISTled CHEERfully as he WORKED.</li>
-          <li className="list-none">Anh ấy huýt sáo vui vẻ khi làm việc.</li>
+          <li className="list-none">Anh ta huýt sáo vui vẻ trong lúc làm việc.</li>
 
         </ul>
 
@@ -122,13 +122,13 @@ export default function CHEERfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">she has a CHEERful persoNALity.</li>
-          <li className="list-none">Cô ấy có một tính cách vui vẻ.</li>
+          <li className="list-none">Cô ấy có tính cách VUI VẺ.</li>
 
           <li id="VERB">the CROWD CHEERED the TEAM ON.</li>
-          <li className="margin-bottom-20 list-none">Đám đông cổ vũ đội bóng.</li>
+          <li className="margin-bottom-20 list-none">Đám đông đã cổ vũ nồng nhiệt cho đội.</li>
 
           <li id="NOUN">her CHEER <strong>bright</strong>enED UP the ROOM.</li>
-          <li className="margin-bottom-20 list-none">Sự vui vẻ của cô ấy làm căn phòng sáng bừng lên.</li>
+          <li className="margin-bottom-20 list-none">Nụ cười rạng rỡ của cô ấy đã làm bừng sáng cả căn phòng.</li>
 
         </ul>
 
@@ -145,10 +145,10 @@ export default function CHEERfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>they LIVED <Link to="/vocabulary/HAPpily-1">HAPpily</Link> EVer AFter.</li>
-          <li className="margin-bottom-20 list-none">Họ sống hạnh phúc mãi mãi.</li>
+          <li className="margin-bottom-20 list-none">Họ đã sống hạnh phúc mãi mãi về sau.</li>
 
           <li>she DANCED <Link to="/vocabulary/JOYfully-1">JOYfully</Link>.</li>
-          <li className="list-none">Cô ấy nhảy múa một cách vui mừng.</li>
+          <li className="list-none">Cô ấy nhảy múa một cách hân hoan.</li>
 
         </ul>
 
@@ -170,7 +170,7 @@ export default function CHEERfully1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Anh ấy lắc đầu một cách buồn bã.</li>
 
           <li>he ANswered GRUMpily.</li>
-          <li className="list-none">Anh ấy trả lời một cách cáu kỉnh.</li>
+          <li className="list-none">Anh ta trả lời một cách cáu kỉnh.</li>
 
         </ul>
       
@@ -196,7 +196,7 @@ export default function CHEERfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>they are GRINning CHEERfully.</li>
-          <li className="list-none">Họ đang cười toe toét.</li>
+          <li className="list-none">Họ đang mỉm cười rạng rỡ.</li>
 
         </ul>
 
@@ -216,7 +216,7 @@ export default function CHEERfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she CHEERfully aGREED to HELP me with the PROject.</li>
-          <li className="list-none">Cô ấy vui vẻ đồng ý giúp tôi làm dự án.</li>
+          <li className="list-none">Cô ấy đã vui vẻ đồng ý giúp tôi thực hiện dự án này.</li>
 
         </ul>
 
@@ -238,10 +238,10 @@ export default function CHEERfully1(): React.JSX.Element {
           <ol>
 
             <li value="1">he ANswered the QUESTion.</li>
-            <li className="list-none margin-bottom-20">Anh ấy trả lời câu hỏi.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi.</li>
 
             <li value="2">he ANswered the QUESTion CHEERfully.</li>
-            <li className="list-none margin-bottom-20">Anh ấy trả lời câu hỏi một cách vui vẻ.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi một cách vui vẻ.</li>
 
           </ol>
 
