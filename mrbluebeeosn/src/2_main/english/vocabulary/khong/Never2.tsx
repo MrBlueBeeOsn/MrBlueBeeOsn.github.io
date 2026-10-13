@@ -85,7 +85,7 @@ export default function NEVer2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              NEver \<Link to="/pronunciation/5-vowel-system">NEV e̛r</Link>\ /ˈnevər/ ⬤• (TWO SYLlables)
+              NEVer \<Link to="/pronunciation/5-vowel-system">NEV e̛r</Link>\ /ˈnevər/ ⬤• (TWO SYLlables)
               
             </span>
               
@@ -103,35 +103,35 @@ export default function NEVer2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="beFORE-SEEN-such-a">i have NEVer [beFORE SEEN such a] BEAUtiful SUNset.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ [trước đây nhìn thấy một] hoàng hôn đẹp [như vậy].</li>
+        <li value="1" id="beFORE-SEEN-such-a">i have NEVer beFORE SEEN such a BEAUtiful SUNset.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa bao giờ được chiêm ngưỡng một cảnh hoàng hôn đẹp đến thế.</li>
 
-        <li value="2" id="aGAIN-MAKE">i will NEVer [aGAIN MAKE] that misTAKE.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ [lặp lại] sai lầm đó nữa.</li>
+        <li value="2" id="aGAIN-MAKE">i will NEVer aGAIN MAKE that misTAKE.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ lại phạm phải sai lầm đó nữa.</li>
 
-        <li value="3" id="MIND">NEVer [MIND], it's NOT imPORTant.</li>
-        <li className="list-none margin-bottom-20">Đừng bao giờ [bận tâm], nó thì không quan trọng.</li>
+        <li value="3" id="MIND">NEVer MIND, it's NOT imPORTant.</li>
+        <li className="list-none margin-bottom-20">Thôi kệ, chuyện đó không quan trọng.</li>
 
-        <li value="4" id="SEEN-such-a">i have NEVer [SEEN such a] BIG DOG.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ [thấy mộtư con chó nào to [như vậy].</li>
+        <li value="4" id="SEEN-such-a">i have NEVer SEEN such a BIG DOG.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy một con chó to như vậy.</li>
 
-        <li value="5" id="HEARD-of">i have NEVer [HEARD of] that BAND.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ [nghe nói về] ban nhạc đó.</li>
+        <li value="5" id="HEARD-of">i have NEVer HEARD of that BAND.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa bao giờ nghe nói đến ban nhạc đó.</li>
 
-        <li value="6" id="forGET">i will NEVer [forGET] your KINDness.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ [quên] lòng tốt của bạn.</li>
+        <li value="6" id="forGET">i will NEVer forGET your KINDness.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ quên lòng tốt của bạn.</li>
 
-        <li value="7" id="TOO-LATE-to-LEARN">it's NEVer [TOO LATE to LEARN] SOMEthing NEW.</li>
-        <li className="list-none margin-bottom-20">Không bao giờ là [quá muộn để học] điều mới.</li>
+        <li value="7" id="TOO-LATE-to-LEARN">it's NEVer TOO LATE to LEARN SOMEthing NEW.</li>
+        <li className="list-none margin-bottom-20">Không bao giờ là quá muộn để học điều mới.</li>
 
-        <li value="8" id="SAY">NEVer [SAY], ANything is POSsible.</li>
-        <li className="list-none margin-bottom-20">[Đừng nói] không bao giờ, mọi thứ đều có thể xảy ra.</li>
+        <li value="8" id="SAY">NEVer SAY, ANything is POSsible.</li>
+        <li className="list-none margin-bottom-20">Đừng bao giờ nói rằng “Mọi thứ đều có thể”.</li>
 
-        <li value="9" id="in-my-LIFE-SEEN-such-a">i have NEVer [in my LIFE SEEN such a] BEAUtiful FLOWer.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ [trong đời thấy một] bông hoa đẹp [như vậy].</li>
+        <li value="9" id="in-my-LIFE-SEEN-such-a">i have NEVer in my LIFE SEEN such a BEAUtiful FLOWer.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa bao giờ trong đời được thấy một bông hoa đẹp đến thế.</li>
 
-        <li value="10" id="giVE-UP-on">NEVer [giVE UP on] your DREAMS.</li>
-        <li className="list-none margin-bottom-20">Đừng bao giờ [từ bỏ] ước mơ của bạn.</li>
+        <li value="10" id="giVE-UP-on">NEVer giVE UP on your DREAMS.</li>
+        <li className="list-none margin-bottom-20">Đừng bao giờ từ bỏ ước mơ của mình.</li>
 
       </ol>
 

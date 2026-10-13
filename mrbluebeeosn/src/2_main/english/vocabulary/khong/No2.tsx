@@ -103,35 +103,35 @@ export default function NO2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="LONGer-LIVES-HERE">she NO [LONGer LIVES HERE].</li>
-        <li className="list-none margin-bottom-20">Cô ấy không [sống lâu hơn ở đây].</li>
+        <li value="1" id="LONGer-LIVES-HERE">she NO LONGer LIVES HERE.</li>
+        <li className="list-none margin-bottom-20">Cô ấy không còn sống ở đây nữa.</li>
 
-        <li value="2" id="MORE-of">i WANT NO [MORE of] your exCUses.</li>
-        <li className="list-none margin-bottom-20">Tôi không muốn [nghe thêm] lời bào chữa của bạn.</li>
+        <li value="2" id="MORE-of">i WANT NO MORE of your exCUses.</li>
+        <li className="list-none margin-bottom-20">Tôi không muốn nghe thêm bất kỳ lý do nào của cậu nữa.</li>
 
-        <li value="3" id="LESS-DIFficult-than">the TASK is NO [LESS DIFficult than] the LAST one.</li>
-        <li className="list-none margin-bottom-20">Nhiệm vụ này không [kém phần khó so với] nhiệm vụ trước.</li>
+        <li value="3" id="LESS-DIFficult-than">the TASK is NO LESS DIFficult than the LAST one.</li>
+        <li className="list-none margin-bottom-20">Nhiệm vụ này không kém phần khó khăn so với nhiệm vụ trước.</li>
 
-        <li value="4" id="MATter-WHAT-you-SAY">NO [MATter WHAT you SAY], i WON'T beLIEVE you.</li>
-        <li className="list-none margin-bottom-20">Không [thành vấn đề bạn nói gì], tôi sẽ không tin bạn.</li>
+        <li value="4" id="MATter-WHAT-you-SAY">NO MATter WHAT you SAY, i WON'T beLIEVE you.</li>
+        <li className="list-none margin-bottom-20">Dù bạn nói gì đi nữa, tôi cũng sẽ không tin bạn.</li>
 
-        <li value="5" id="WAY">NO [WAY]! i'm NOT GOing to do THAT.</li>
-        <li className="list-none margin-bottom-20">Không đời nào! Tôi sẽ không làm việc đó.</li>
+        <li value="5" id="WAY">NO WAY! i'm NOT GOing to do THAT.</li>
+        <li className="list-none margin-bottom-20">Không bao giờ! Tớ sẽ không làm chuyện đó đâu.</li>
 
-        <li value="6" id="WONder">NO [WONder] he's TIred. he's been WORKing all NIGHT.</li>
-        <li className="list-none margin-bottom-20">Không [có gì đáng kinh ngạc] khi anh ấy mệt mỏi. Anh ấy đã và đang làm việc suốt đêm.</li>
+        <li value="6" id="WONder">NO WONder he's TIred. he's been WORKing all NIGHT.</li>
+        <li className="list-none margin-bottom-20">Không có gì ngạc nhiên khi anh ấy mệt mỏi. Anh ấy đã làm việc suốt cả đêm.</li>
 
-        <li value="7" id="DOUBT">NO [DOUBT] she will sucCEED.</li>
-        <li className="list-none margin-bottom-20">Không [nghi ngờ gì nữa], cô ấy sẽ thành công.</li>
+        <li value="7" id="DOUBT">NO DOUBT she will sucCEED.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn cô ấy sẽ thành công.</li>
 
-        <li value="8" id="THANKS">would you LIKE some COFfee? NO [THANKS], i'm NOT THIRsty.</li>
-        <li className="list-none margin-bottom-20">Bạn có muốn uống cà phê không? Không, [cảm ơn], tôi không khát.</li>
+        <li value="8" id="THANKS">would you LIKE some COFfee? NO THANKS, i'm NOT THIRsty.</li>
+        <li className="list-none margin-bottom-20">Bạn có muốn uống một chút cà phê không? Không, cảm ơn, tôi không khát.</li>
 
-        <li value="9" id="LONger-than">the MEETing will be NO [LONger than] TWO HOURs.</li>
-        <li className="list-none margin-bottom-20">Cuộc họp sẽ không [lâu hơn] hai tiếng.</li>
+        <li value="9" id="LONger-than">the MEETing will be NO LONger than TWO HOURs.</li>
+        <li className="list-none margin-bottom-20">Cuộc họp sẽ không kéo dài quá hai giờ.</li>
 
-        <li value="10" id="LESS-than">NO [LESS than] a THOUsand PEOple atTENDed the CONcert.</li>
-        <li className="list-none margin-bottom-20">Không [ít hơn] một nghìn người đã tham dự buổi hòa nhạc.</li>
+        <li value="10" id="LESS-than">NO LESS than a THOUsand PEOple atTENDed the CONcert.</li>
+        <li className="list-none margin-bottom-20">Có không dưới một ngàn người tham dự buổi biểu diễn.</li>
 
       </ol>
 

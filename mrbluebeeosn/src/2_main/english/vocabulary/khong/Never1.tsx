@@ -65,7 +65,7 @@ export default function NEVer1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                NEver \<Link to="/pronunciation/5-vowel-system">NEV e̛r</Link>\ /ˈnevər/ ⬤• (TWO SYLlables)
+                NEVer \<Link to="/pronunciation/5-vowel-system">NEV e̛r</Link>\ /ˈnevər/ ⬤• (TWO SYLlables)
               </span>
             </li>
 
@@ -93,7 +93,7 @@ export default function NEVer1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Tôi chưa bao giờ đến Paris.</li>
 
           <li>she will NEVer forGET that DAY.</li>
-          <li className="list-none">Cô ấy sẽ không bao giờ quên ngày hôm đó.</li>
+          <li className="list-none">Cô ấy sẽ không bao giờ quên ngày đó.</li>
 
         </ul>
 
@@ -126,10 +126,10 @@ export default function NEVer1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i have <Link to="/vocabulary/NOT-1">NOT</Link> EVer SEEN such a BEAUtiful SUNset.</li>
-          <li className="margin-bottom-20 list-none">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp như vậy.</li>
+          <li className="margin-bottom-20 list-none">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp đến thế.</li>
 
           <li>at NO TIME did i susPECT him of CHEATing.</li>
-          <li className="list-none">Tôi không hề nghi ngờ anh ta gian lận.</li>
+          <li className="list-none">Tôi chưa bao giờ nghi ngờ anh ấy ngoại tình.</li>
 
         </ul>
 
@@ -148,7 +148,7 @@ export default function NEVer1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she <Link to="/vocabulary/ALways-1">ALways</Link> COMES on TIME.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy luôn đúng giờ.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy luôn đến đúng giờ.</li>
 
           <li>have you <Link to="/vocabulary/EVer-1">EVer</Link> BEEN to jaPAN?</li>
           <li className="list-none">Bạn đã từng đến Nhật Bản chưa?</li>
@@ -177,7 +177,7 @@ export default function NEVer1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><strong>ever</strong>y TIME i FEEL like GIVing UP, i THINK of the "NEVer giVE UP" SIGN and KEEP GOing.</li>
-          <li className="list-none">Mỗi khi muốn bỏ cuộc, tôi nghĩ đến dòng chữ "Không bao giờ bỏ cuộc" và tiếp tục cố gắng.</li>
+          <li className="list-none">Mỗi khi tôi cảm thấy muốn bỏ cuộc, tôi lại nghĩ đến tấm biển “Đừng bao giờ bỏ cuộc” và tiếp tục cố gắng.</li>
 
         </ul>
 
@@ -197,7 +197,7 @@ export default function NEVer1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>they have NEVer SEEN SNOW.</li>
-          <li className="list-none">Họ chưa bao giờ thấy tuyết.</li>
+          <li className="list-none">Họ chưa bao giờ được nhìn thấy tuyết.</li>
 
         </ul>
 
@@ -219,7 +219,7 @@ export default function NEVer1(): React.JSX.Element {
           <ol>
 
             <li value="1">i have <Link to="/vocabulary/NOT-1">NOT</Link> EVer SEEN such a BEAUtiful SUNset.</li>
-            <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp như vậy.</li>
+            <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp đến thế.</li>
 
             <li value="2">i have NEVer BEEN to PARis.</li>
             <li className="list-none margin-bottom-20">Tôi chưa bao giờ đến Paris.</li>
