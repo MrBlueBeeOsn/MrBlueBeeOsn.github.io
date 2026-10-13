@@ -79,7 +79,7 @@ export default function FREquently1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Thường xuyên, liên tục</li>
+            <li>Thường xuyên</li>
 
           </ul>
 
@@ -101,7 +101,7 @@ export default function FREquently1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cô ấy thường xuyên đến thăm ông bà.</li>
 
           <li>it RAINS FREquently in this REgion.</li>
-          <li className="list-none">Ở vùng này thường xuyên mưa.</li>
+          <li className="list-none">Ở khu vực này, trời thường xuyên mưa.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function FREquently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is a FREquent VISitor to the LIbrary.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy là một khách quen của thư viện.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy là một người thường xuyên ghé thăm thư viện.</li>
 
           <li id="NOUN">the FREquency of ACcidents has inCREASED.</li>
-          <li className="list-none">Tần suất tai nạn đã tăng lên.</li>
+          <li className="list-none">Tần suất xảy ra tai nạn đã tăng lên.</li>
 
         </ul>
 
@@ -163,7 +163,7 @@ export default function FREquently1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn thịt.</li>
 
           <li>she <Link to="/vocabulary/SELdom-1">SELdom</Link> GOES to the MOvies.</li>
-          <li className="list-none">Cô ấy ít khi đi xem phim.</li>
+          <li className="list-none">Cô ấy hiếm khi đi xem phim.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function FREquently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the CLOCK is FREquently TICKing, reMINDing us of the CONstant PASsage of TIME.</li>
-          <li className="list-none">Chiếc đồng hồ thường xuyên tích tắc, nhắc nhở chúng ta về sự trôi chảy không ngừng của thời gian.</li>
+          <li className="list-none">Chiếc đồng hồ liên tục kêu tích tắc, nhắc nhở chúng ta về dòng chảy không ngừng của thời gian.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function FREquently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i FREquently DRINK COFfee in the MORNing.</li>
-          <li className="list-none">Tôi thường uống cà phê vào buổi sáng.</li>
+          <li className="list-none">Tôi thường xuyên uống cà phê vào buổi sáng.</li>
 
         </ul>
 
@@ -231,7 +231,7 @@ export default function FREquently1(): React.JSX.Element {
           <ol>
 
             <li value="1">i GO to the GYM.</li>
-            <li className="list-none margin-bottom-20">Tôi đi đến phòng tập thể dục.</li>
+            <li className="list-none margin-bottom-20">Tôi đi tập gym.</li>
 
             <li value="2">i FREquently GO to the GYM to EXercise.</li>
             <li className="list-none margin-bottom-20">Tôi thường xuyên đến phòng tập thể dục để tập luyện.</li>

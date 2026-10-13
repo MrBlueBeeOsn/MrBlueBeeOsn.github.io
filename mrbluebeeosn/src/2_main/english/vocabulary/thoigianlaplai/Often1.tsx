@@ -65,13 +65,13 @@ export default function OFten1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                OFten \<Link to="/pronunciation/5-vowel-system">OF te̛n</Link>]  /ˈɒf.ən/ ⬤• (TWO SYLlables)
+                OFten \<Link to="/pronunciation/5-vowel-system">OF te̛n</Link>\  /ˈɒf.ən/ ⬤• (TWO SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Thường xuyên</li>
+            <li>Thường thì</li>
 
           </ul>
 
@@ -90,10 +90,10 @@ export default function OFten1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">i OFten GO to the GYM.</li>
-          <li className="margin-bottom-20 list-none">Tôi thường đi tập gym.</li>
+          <li className="margin-bottom-20 list-none">Tôi thường xuyên đi tập gym.</li>
 
           <li>she OFten forGETS her KEYS.</li>
-          <li className="list-none">Cô ấy thường quên chìa khóa.</li>
+          <li className="list-none">Cô ấy thường xuyên quên chìa khóa.</li>
 
         </ul>
 
@@ -126,7 +126,7 @@ export default function OFten1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she <Link to="/vocabulary/FREquently-1">FREquently</Link> VISits her GRANDparents.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy thường xuyên thăm ông bà.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy thường xuyên đến thăm ông bà.</li>
 
           <li>they EXercise REGularly.</li>
           <li className="list-none">Họ tập thể dục đều đặn.</li>
@@ -177,7 +177,7 @@ export default function OFten1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><strong>ever</strong>y TIME the CLOCK STRIKES TWELVE, i OFten TAKE a BREAK from WORK.</li>
-          <li className="list-none">Mỗi khi đồng hồ điểm 12 giờ, tôi thường nghỉ giải lao.</li>
+          <li className="list-none">Mỗi khi đồng hồ điểm mười hai giờ, tôi thường nghỉ ngơi một chút giữa giờ làm việc.</li>
 
         </ul>
 
@@ -219,11 +219,11 @@ export default function OFten1(): React.JSX.Element {
           <ol>
 
             <li value="1">she <Link to="/vocabulary/FREquently-1">FREquently</Link> atTENDS CONFERences.</li>
-            <li className="list-none">Cô ấy thường xuyên tham dự hội nghị.</li>
+            <li className="list-none">Cô ấy thường xuyên tham dự các hội nghị.</li>
             <li className="list-none margin-bottom-20">Cách nói trang trọng hơn, nhấn mạnh tính thường xuyên.</li>
 
             <li value="2">i OFten GO to the PARK.</li>
-            <li className="list-none margin-bottom-20">Tôi thường đi công viên.</li>
+            <li className="list-none">Tôi thường đi công viên.</li>
             <li className="list-none">Cách nói thông thường, dùng trong nhiều tình huống.</li>
 
           </ol>

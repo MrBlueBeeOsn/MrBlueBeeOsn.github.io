@@ -103,35 +103,35 @@ export default function FREquently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="ASKED-about">the fAQ SECtion proVIDES ANswers to FREquently [ASKED] QUESTions [a<strong>bout</strong>] the PRODuct.</li>
-        <li className="list-none margin-bottom-20">Phần FAQ cung cấp câu trả lời cho những câu hỏi thường gặp về sản phẩm.</li>
+        <li value="1" id="ASKED-about">the fAQ SECtion proVIDES ANswers to FREquently ASKED QUESTions a<strong>bout</strong> the PRODuct.</li>
+        <li className="list-none margin-bottom-20">Phần Câu hỏi thường gặp (FAQ) cung cấp câu trả lời cho những câu hỏi thường gặp về sản phẩm.</li>
 
-        <li value="2" id="USED-in">THIS is a FREquently [USED] PHRASE [in] everyday converSAtion.</li>
-        <li className="list-none margin-bottom-20">Đây là một cụm từ [được sử dụng] thường xuyên [trong] cuộc trò chuyện hàng ngày.</li>
+        <li value="2" id="USED-in">THIS is a FREquently USED PHRASE in everyday converSAtion.</li>
+        <li className="list-none margin-bottom-20">Đây là một câu thường được sử dụng trong các cuộc trò chuyện hàng ngày.</li>
 
-        <li value="3" id="ocCURring-in">TRAFfic ACcidents are a FREquently [ocCURring] PROBlem [in] this CITy.</li>
-        <li className="list-none margin-bottom-20">Tai nạn giao thông là một vấn đề thường [xảy ra ở] thành phố này.</li>
+        <li value="3" id="ocCURring-in">TRAFfic ACcidents are a FREquently ocCURring PROBlem in this CITy.</li>
+        <li className="list-none margin-bottom-20">Tai nạn giao thông là một vấn đề thường xuyên xảy ra ở thành phố này.</li>
 
-        <li value="4" id="VISited-in">THIS is ONE of the MOST FREquently [VISited] WEBsites [in] the WORLD.</li>
-        <li className="list-none margin-bottom-20">Đây là một trong những trang web [được truy cập] nhiều nhất [trên] thế giới.</li>
+        <li value="4" id="VISited-in">THIS is ONE of the MOST FREquently VISited WEBsites in the WORLD.</li>
+        <li className="list-none margin-bottom-20">Đây là một trong những trang web được truy cập thường xuyên nhất trên thế giới.</li>
 
-        <li value="5" id="menTIONED-in">his NAME was FREquently [menTIONED in] the NEWS.</li>
-        <li className="list-none margin-bottom-20">Tên của ông ấy đã [được đề cập] thường xuyên [trong] tin tức.</li>
+        <li value="5" id="menTIONED-in">his NAME was FREquently menTIONED in the NEWS.</li>
+        <li className="list-none margin-bottom-20">Tên của ông thường xuyên được nhắc đến trên các phương tiện truyền thông.</li>
 
-        <li value="6" id="upDAted-with"><strong>ever</strong>y WEBSITE is FREquently [upDAted with] NEW inforMAtion.</li>
-        <li className="list-none margin-bottom-20">Trang web [được cập nhật] thường xuyên [với] thông tin mới.</li>
+        <li value="6" id="upDAted-with"><strong>ever</strong>y WEBSITE is FREquently upDAted with NEW inforMAtion.</li>
+        <li className="list-none margin-bottom-20">Mọi trang web đều được cập nhật thường xuyên với những thông tin mới.</li>
 
-        <li value="7" id="ASKED-by">his QUESTion is FREquently [ASKED by] our CUStomers.</li>
-        <li className="list-none margin-bottom-20">Câu hỏi này [được] khách hàng của chúng tôi [hỏi] thường xuyên.</li>
+        <li value="7" id="ASKED-by">his QUESTion is FREquently ASKED by our CUStomers.</li>
+        <li className="list-none margin-bottom-20">Đây là câu hỏi thường gặp của khách hàng chúng tôi.</li>
 
-        <li value="8" id="enCOUNTered-in">this TYPE of ERror is FREquently [enCOUNTered in] this SOFTware.</li>
-        <li className="list-none margin-bottom-20">Loại lỗi này thường [gặp phải trong] phần mềm này.</li>
+        <li value="8" id="enCOUNTered-in">this TYPE of ERror is FREquently enCOUNTered in this SOFTware.</li>
+        <li className="list-none margin-bottom-20">Loại lỗi này thường xuyên xảy ra trong phần mềm này.</li>
 
-        <li value="9" id="overLOOKED-by">this imPORTant DEtail is FREquently [overLOOKED by] PEOple.</li>
-        <li className="list-none margin-bottom-20">Chi tiết quan trọng này thường [bị] mọi người [bỏ qua].</li>
+        <li value="9" id="overLOOKED-by">this imPORTant DEtail is FREquently overLOOKED by PEOple.</li>
+        <li className="list-none margin-bottom-20">Chi tiết quan trọng này thường bị mọi người bỏ qua.</li>
 
-        <li value="10" id="recomMENDed-by">this BOOK is FREquently [recomMENDed by] TEACHers.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này thường [được] giáo viên [khuyến nghị].</li>
+        <li value="10" id="recomMENDed-by">this BOOK is FREquently recomMENDed by TEACHers.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này thường xuyên được các giáo viên giới thiệu.</li>
 
       </ol>
 

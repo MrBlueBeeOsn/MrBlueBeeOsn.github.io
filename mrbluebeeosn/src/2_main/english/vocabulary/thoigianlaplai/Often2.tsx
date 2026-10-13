@@ -75,7 +75,7 @@ export default function OFten2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>OFten</strong>" (thường xuyên) trong tiếng Anh nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>OFten</strong>" (thường thì) trong tiếng Anh nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function OFten2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="DO-in">i OFten [DO] my HOMEwork [in] the EVEning.</li>
+        <li value="1" id="DO-in">i OFten DO my HOMEwork in the EVEning.</li>
         <li className="list-none margin-bottom-20">Tôi thường làm bài tập về nhà vào buổi tối.</li>
 
-        <li value="2" id="GO-to-on">we OFten [GO to] the BEACH [on] WEEKends.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi thường [đi] biển [vào] cuối tuần.</li>
+        <li value="2" id="GO-to-on">we OFten GO to the BEACH on WEEKends.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi thường đi biển vào cuối tuần.</li>
 
-        <li value="3" id="EATS-for">she OFten [EATS] FRUITS [for] BREAKfast.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thường [ăn] trái cây [cho] bữa sáng.</li>
+        <li value="3" id="EATS-for">she OFten EATS FRUITS for BREAKfast.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường ăn trái cây vào bữa sáng.</li>
 
-        <li value="4" id="READS-before">he OFten [READS] BOOKS [be<strong>fore</strong>] GOing to BED.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường [đọc] sách [trước khi] đi ngủ.</li>
+        <li value="4" id="READS-before">he OFten READS BOOKS be<strong>fore</strong> GOing to BED.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường đọc sách trước khi đi ngủ.</li>
 
-        <li value="5" id="PLAY-outSIDE-after">CHILDren OFten [PLAY outSIDE <strong>af</strong>ter] SCHOOL.</li>
-        <li className="list-none margin-bottom-20">Trẻ em thường [chơi ngoài trời sau] giờ học.</li>
+        <li value="5" id="PLAY-outSIDE-after">CHILDren OFten PLAY outSIDE <strong>af</strong>ter SCHOOL.</li>
+        <li className="list-none margin-bottom-20">Các em nhỏ thường chơi ngoài trời sau giờ học.</li>
 
-        <li value="6" id="WATCH-but-SOMEtimes-i-do">i do NOT OFten [WATCH] TV, [but SOMEtimes i do].</li>
-        <li className="list-none margin-bottom-20">Tôi không thường [xuyên xem] TV, [nhưng thỉnh thoảng tôi cũng xem].</li>
+        <li value="6" id="WATCH-but-SOMEtimes-i-do">i do NOT OFten WATCH TV, but SOMEtimes i do.</li>
+        <li className="list-none margin-bottom-20">Tôi không thường xuyên xem tv, nhưng thời gian thì tôi cũng xem.</li>
 
-        <li value="7" id="DRINK-COFfee-in">i OFten [DRINK COFfee in] the MORNing.</li>
-        <li className="list-none margin-bottom-20">Tôi thường [uống cà phê vào] buổi sáng.</li>
+        <li value="7" id="DRINK-COFfee-in">i OFten DRINK COFfee in the MORNing.</li>
+        <li className="list-none margin-bottom-20">Tôi thường uống cà phê vào buổi sáng.</li>
 
-        <li value="8" id="WORKS-LATE-at">he OFten [WORKS LATE at] NIGHT.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường [làm việc muộn vào] ban đêm.</li>
+        <li value="8" id="WORKS-LATE-at">he OFten WORKS LATE at NIGHT.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường làm việc đến khuya.</li>
 
-        <li value="9" id="GO-SHOPping-on">we OFten [GO SHOPping on] WEEKends.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi thường [đi mua sắm vào] cuối tuần.</li>
+        <li value="9" id="GO-SHOPping-on">we OFten GO SHOPping on WEEKends.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi thường đi mua sắm vào cuối tuần.</li>
 
-        <li value="10" id="FEEL-STRESSED">when i OFten [FEEL STRESSED], i LISten to MUsic.</li>
-        <li className="list-none margin-bottom-20">Thường khi tôi [cảm thấy căng thẳng], tôi nghe nhạc.</li>
+        <li value="10" id="FEEL-STRESSED">when i OFten FEEL STRESSED, i LISten to MUsic.</li>
+        <li className="list-none margin-bottom-20">Khi tôi thường xuyên cảm thấy căng thẳng, tôi nghe nhạc.</li>
 
       </ol>
 

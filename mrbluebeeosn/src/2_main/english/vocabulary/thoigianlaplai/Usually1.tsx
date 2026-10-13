@@ -69,13 +69,13 @@ export default function Usually1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                Usually \<Link to="/pronunciation/5-vowel-system">Ū su a̛l ly</Link>]  /ˈjuːʒuəli/ ⬤••• (FOUR SYLlables)
+                Usually \<Link to="/pronunciation/5-vowel-system">Ū su a̛l ly</Link>\  /ˈjuːʒuəli/ ⬤••• (FOUR SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Thường thường, thường xuyên</li>
+            <li>Thường thường</li>
 
           </ul>
 
@@ -94,7 +94,7 @@ export default function Usually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">i Usually geT UP at 7 AM.</li>
-          <li className="margin-bottom-20 list-none">Tôi thường thức dậy lúc 7 giờ sáng.</li>
+          <li className="margin-bottom-20 list-none">Tôi thường dậy lúc 7 giờ sáng.</li>
 
           <li>we Usually GO to the MOvies on WEEKends.</li>
           <li className="list-none">Chúng tôi thường đi xem phim vào cuối tuần.</li>
@@ -114,7 +114,7 @@ export default function Usually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">THIS is my USual rouTINE.</li>
-          <li className="margin-bottom-20 list-none">Đây là thói quen thường ngày của tôi.</li>
+          <li className="margin-bottom-20 list-none">Đây là thói quen hàng ngày của tôi.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function Usually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>TYPically, i EAT BREAKfast at 8 AM.</li>
-          <li className="margin-bottom-20 list-none">Điển hình là, tôi ăn sáng lúc 8 giờ.</li>
+          <li className="margin-bottom-20 list-none">Thông thường, tôi ăn sáng lúc 8 giờ sáng.</li>
 
           <li>NORmally, i GO to BED at 10 p.M.</li>
-          <li className="list-none">Bình thường, tôi đi ngủ lúc 10 giờ tối.</li>
+          <li className="list-none">Thông thường, tôi đi ngủ lúc 10 giờ tối.</li>
 
         </ul>
 
@@ -153,7 +153,7 @@ export default function Usually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/RAREly-1">RAREly</Link> EAT SPIcy FOOD.</li>
-          <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn đồ ăn cay.</li>
+          <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn đồ cay.</li>
 
           <li>i <Link to="/vocabulary/NEVer-1">NEVer</Link> DRINK COFfee.</li>
           <li className="list-none">Tôi không bao giờ uống cà phê.</li>
@@ -182,7 +182,7 @@ export default function Usually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i Usually GO for a RUN <strong>af</strong>ter BREAKfast, as MARKED on my SCHEDule.</li>
-          <li className="list-none">Tôi thường đi chạy bộ sau bữa sáng, như đã đánh dấu trên lịch trình của tôi.</li>
+          <li className="list-none">Thường thì tôi đi chạy bộ sau bữa sáng, như đã ghi trong lịch trình của tôi.</li>
 
         </ul>
 
@@ -202,7 +202,7 @@ export default function Usually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i Usually HAVE COFfee and TOAST for BREAKfast.</li>
-          <li className="list-none">Tôi thường ăn sáng bằng cà phê và bánh mì nướng.</li>
+          <li className="list-none">Thường thì tôi ăn sáng với cà phê và bánh mì nướng.</li>
 
         </ul>
 
@@ -224,10 +224,10 @@ export default function Usually1(): React.JSX.Element {
           <ol>
 
             <li value="1">i GO to the GYM.</li>
-            <li className="list-none margin-bottom-20">Tôi đi đến phòng tập thể dục.</li>
+            <li className="list-none margin-bottom-20">Tôi đi tập gym.</li>
 
             <li value="2">i Usually GO to the GYM on TUESdays and THURSdays.</li>
-            <li className="list-none margin-bottom-20">Tôi thường đi đến phòng tập thể dục vào thứ Ba và thứ Năm.</li>
+            <li className="list-none margin-bottom-20">Thường thì tôi đi tập gym vào thứ Ba và thứ Năm.</li>
 
           </ol>
 

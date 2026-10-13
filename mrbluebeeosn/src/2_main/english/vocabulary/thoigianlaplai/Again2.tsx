@@ -75,7 +75,7 @@ export default function aGAIN2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>aGAIN</strong>" (lại) trong tiếng Anh nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>aGAIN</strong>" (lại nữa) trong tiếng Anh nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -85,7 +85,7 @@ export default function aGAIN2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              aGAIN \<Link to="/pronunciation/5-vowel-system">a̛ GĀ̄IN</Link>\ /əˈɡen/ •⬤ (TWO SYLlables)
+              aGAIN \<Link to="/pronunciation/5-vowel-system">a̛ GĀIN</Link>\ /əˈɡen/ •⬤ (TWO SYLlables)
               
             </span>
               
@@ -103,35 +103,35 @@ export default function aGAIN2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="MADE">he [MADE] the SAME misTAKE aGAIN and aGAIN.</li>
-        <li className="list-none margin-bottom-20">Anh ấy [lặp lại] cùng một sai lầm nhiều lần.</li>
+        <li value="1" id="MADE">he MADE the SAME misTAKE aGAIN and aGAIN.</li>
+        <li className="list-none margin-bottom-20">Anh ta lại lại mắc phải cùng một sai lầm đó.</li>
 
-        <li value="2" id="TRY-THAT-ONCE">let's [TRY THAT ONCE] aGAIN.</li>
-        <li className="list-none margin-bottom-20">Hãy [thử lại một] lần nữa.</li>
+        <li value="2" id="TRY-THAT-ONCE">let's TRY THAT ONCE aGAIN.</li>
+        <li className="list-none margin-bottom-20">Hãy thử lại một lần nữa nào.</li>
 
-        <li value="3" id="NOT-to-DO-THAT">i've TOLD you TIME and aGAIN [NOT to DO THAT].</li>
-        <li className="list-none margin-bottom-20">Tôi đã bảo bạn hết lần này đến lần khác là [không được làm] điều đó.</li>
+        <li value="3" id="NOT-to-DO-THAT">i've TOLD you TIME and aGAIN NOT to DO THAT.</li>
+        <li className="list-none margin-bottom-20">Tớ đã nói với cậu rất nhiều lần là đừng làm thế.</li>
 
-        <li value="4" id="PLAYED-Over-and-Over">she [PLAYED] the SAME SONG [Over and Over] aGAIN</li>
-        <li className="list-none margin-bottom-20">Cô ấy [nghe đi nghe lại cùng] một bài hát.</li>
+        <li value="4" id="PLAYED-Over-and-Over">she PLAYED the SAME SONG Over and Over aGAIN.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã chơi đi chơi lại bài hát đó liên tục.</li>
 
-        <li value="5" id="to-START-all-Over">we had [to START all Over] aGAIN.</li>
-        <li className="list-none margin-bottom-20">Chúng ta [phải bắt đầu] lại [từ đầu].</li>
+        <li value="5" id="to-START-all-Over">we had to START all Over aGAIN.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi đã phải bắt đầu lại từ đầu.</li>
 
-        <li value="6" id="HOPE-to-SEE-SOON">i [HOPE to SEE] you aGAIN [SOON].</li>
-        <li className="list-none margin-bottom-20">Tôi [hy vọng sẽ gặp lại bạn] sớm.</li>
+        <li value="6" id="HOPE-to-SEE-SOON">i HOPE to SEE you aGAIN SOON.</li>
+        <li className="list-none margin-bottom-20">Tôi hy vọng sẽ sớm được gặp lại bạn.</li>
 
-        <li value="7" id="SAY-THAT">could you [SAY THAT] aGAIN, PLEASE?</li>
-        <li className="list-none margin-bottom-20">Bạn có thể [nói lại] một lần nữa được không?</li>
+        <li value="7" id="SAY-THAT">could you SAY THAT aGAIN, PLEASE?</li>
+        <li className="list-none margin-bottom-20">Bạn có thể nói lại lần nữa được không, làm ơn?</li>
 
-        <li value="8" id="NOT">[NOT] aGAIN! i've LOST my KEYS.</li>
-        <li className="list-none margin-bottom-20">[Không phải] lần nữa! Tôi lại làm mất chìa khóa rồi.</li>
+        <li value="8" id="NOT">NOT aGAIN! i've LOST my KEYS.</li>
+        <li className="list-none margin-bottom-20">Lại nữa rồi! Mình lại mất chìa khóa rồi.</li>
 
-        <li value="9" id="ONCE-MORE">could you READ THAT [ONCE MORE]?</li>
-        <li className="list-none margin-bottom-20">Bạn có thể đọc lại [một lần nữa] được không?</li>
+        <li value="9" id="ONCE-MORE">could you READ THAT ONCE MORE?</li>
+        <li className="list-none margin-bottom-20">Bạn có thể đọc lại lần nữa được không?</li>
 
-        <li value="10" id="DO-as-beFORE">PLEASE [DO] it [as beFORE].</li>
-        <li className="list-none margin-bottom-20">Làm ơn [làm như trước đây].</li>
+        <li value="10" id="DO-as-beFORE">PLEASE DO it as beFORE.</li>
+        <li className="list-none margin-bottom-20">Xin hãy làm như trước đây.</li>
 
       </ol>
 

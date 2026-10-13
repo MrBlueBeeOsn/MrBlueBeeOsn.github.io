@@ -69,13 +69,13 @@ export default function aGAIN1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                aGAIN \<Link to="/pronunciation/5-vowel-system">a̛ GĀ̄IN</Link>\ /əˈɡen/ •⬤ (TWO SYLlables)
+                aGAIN \<Link to="/pronunciation/5-vowel-system">a̛ GĀIN</Link>\ /əˈɡen/ •⬤ (TWO SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Lại, một lần nữa</li>
+            <li>Lại nữa</li>
 
           </ul>
 
@@ -94,7 +94,7 @@ export default function aGAIN1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">can you SAY THAT aGAIN?</li>
-          <li className="margin-bottom-20 list-none">Bạn có thể nói lại điều đó được không?</li>
+          <li className="margin-bottom-20 list-none">Tôi đã xem bộ phim này rồi, nhưng tôi muốn xem lại.</li>
 
           <li>i've SEEN this MOvie before, but i WANT to WATCH it aGAIN.</li>
           <li className="list-none">Tôi đã xem bộ phim này rồi, nhưng tôi muốn xem lại.</li>
@@ -114,7 +114,7 @@ export default function aGAIN1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb-as-ADjunct-2">he KEPT ASKing the SAME QUESTion aGAIN and aGAIN.</li>
-          <li className="list-none">Anh ấy cứ hỏi đi hỏi lại cùng một câu hỏi.</li>
+          <li className="list-none">Anh ta cứ liên tục hỏi đi hỏi lại cùng một câu hỏi.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function aGAIN1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>let's TRY ONCE MORE.</li>
-          <li className="margin-bottom-20 list-none">Chúng ta hãy thử thêm một lần nữa.</li>
+          <li className="margin-bottom-20 list-none">Tôi chỉ làm điều đó một lần thôi.</li>
 
           <li>he <Link to="/vocabulary/rePEATedly-1">rePEATedly</Link> MADE the SAME misTAKE.</li>
-          <li className="list-none">Anh ấy liên tục mắc cùng một lỗi lầm.</li>
+          <li className="list-none">Anh ta liên tục lặp lại cùng một sai lầm.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function aGAIN1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i've Only DONE it ONCE.</li>
-          <li className="margin-bottom-20 list-none">Tôi mới chỉ làm điều đó một lần.</li>
+          <li className="margin-bottom-20 list-none">Tôi chỉ làm điều đó một lần thôi.</li>
 
           <li>i'm SEEing this MOvie for the FIRST TIME.</li>
-          <li className="list-none">Tôi đang xem bộ phim này lần đầu tiên.</li>
+          <li className="list-none">Đây là lần đầu tiên tôi xem bộ phim này.</li>
 
         </ul>
       
@@ -182,7 +182,7 @@ export default function aGAIN1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the CLOCK STOPped WORKing, but NOW it's STARTed aGAIN.</li>
-          <li className="list-none">Chiếc đồng hồ đã ngừng hoạt động, nhưng bây giờ nó đã bắt đầu lại.</li>
+          <li className="list-none">Chiếc đồng hồ đã ngừng chạy, nhưng bây giờ nó đã chạy lại rồi.</li>
 
         </ul>
 
@@ -202,7 +202,7 @@ export default function aGAIN1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the PRICE of GAS is <strong>go</strong>iNG UP aGAIN.</li>
-          <li className="list-none">Giá xăng lại tăng lên rồi.</li>
+          <li className="list-none">Giá xăng lại đang tăng trở lại.</li>
 
         </ul>
 
@@ -224,11 +224,11 @@ export default function aGAIN1(): React.JSX.Element {
           <ol>
 
             <li value="1">let's TRY ONCE MORE.</li>
-            <li className="list-none">Chúng ta hãy thử thêm một lần nữa.</li>
+            <li className="list-none">Hãy thử lại một lần nữa.</li>
             <li className="list-none margin-bottom-20">Thường được dùng để nhấn mạnh sự lặp lại cuối cùng hoặc một nỗ lực cuối cùng.</li>
 
             <li value="2">PLEASE rePEAT THAT aGAIN.</li>
-            <li className="list-none">Làm ơn lặp lại điều đó.</li>
+            <li className="list-none">Xin vui lòng nói lại một lần nữa.</li>
             <li className="list-none margin-bottom-20">Thường được dùng trong các tình huống thông thường</li>
 
           </ol>

@@ -83,7 +83,7 @@ export default function rePEATedly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách lặp đi lặp lại, nhiều lần</li>
+            <li>Liên tục</li>
 
           </ul>
 
@@ -102,10 +102,10 @@ export default function rePEATedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she rePEATedly ASKED him the SAME QUESTion.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy liên tục hỏi anh ta cùng một câu hỏi.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy liên tục hỏi anh ấy cùng một câu hỏi.</li>
 
           <li>the exPERiment was rePEATedly conDUCTed to VERify the reSULTS.</li>
-          <li className="list-none">Thí nghiệm được thực hiện lặp đi lặp lại để xác minh kết quả.</li>
+          <li className="list-none">Thí nghiệm này đã được tiến hành nhiều lần để xác minh kết quả.</li>
 
         </ul>
 
@@ -122,10 +122,10 @@ export default function rePEATedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the rePEATed FAIlures disCOURaged him.</li>
-          <li className="list-none">Những thất bại liên tiếp làm anh ta nản lòng.</li>
+          <li className="margin-bottom-20 list-none">Những thất bại lặp đi lặp lại đã khiến anh ấy nản lòng.</li>
           
           <li id="VERB">PLEASE rePEAT THAT.</li>
-          <li className="margin-bottom-20 list-none">Làm ơn lặp lại điều đó.</li>
+          <li className="margin-bottom-20 list-none">Xin vui lòng nói lại điều đó.</li>
 
           <li id="NOUN">the repeTITion of the SAME misTAKE is unacCEPTable.</li>
           <li className="margin-bottom-20 list-none">Việc lặp lại cùng một sai lầm là không thể chấp nhận được.</li>
@@ -144,11 +144,11 @@ export default function rePEATedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he TRIED <Link to="/vocabulary/aGAIN-1">aGAIN</Link> and <Link to="/vocabulary/aGAIN-1">aGAIN</Link>.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã thử lại nhiều lần.</li>
+          <li>he TRIED <Link to="/vocabulary/aGAIN-1">aGAIN</Link> and aGAIN.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã THỬ LẠI nhiều lần.</li>
 
           <li>she SAID it Over and Over.</li>
-          <li className="list-none">Cô ấy nói đi nói lại điều đó.</li>
+          <li className="list-none">Cô ấy đã nói đi nói lại điều đó.</li>
 
         </ul>
 
@@ -167,10 +167,10 @@ export default function rePEATedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i've Only DONE it ONCE.</li>
-          <li className="margin-bottom-20 list-none">Tôi chỉ làm điều đó một lần.</li>
+          <li className="margin-bottom-20 list-none">Tôi chỉ làm điều đó một lần thôi.</li>
 
           <li>he <Link to="/vocabulary/RAREly-1">RAREly</Link> VISits us.</li>
-          <li className="list-none">Anh ấy hiếm khi đến thăm chúng tôi.</li>
+          <li className="list-none">Anh ấy hiếm khi ghé thăm chúng tôi.</li>
 
         </ul>
       
@@ -238,10 +238,10 @@ export default function rePEATedly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he MADE a misTAKE.</li>
-            <li className="list-none margin-bottom-20">Anh ấy mắc một lỗi.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã phạm một sai lầm.</li>
 
             <li value="2">he rePEATedly MADE the SAME misTAKE.</li>
-            <li className="list-none margin-bottom-20">Anh ấy liên tục mắc cùng một lỗi.</li>
+            <li className="list-none margin-bottom-20">Anh ta liên tục lặp lại cùng một sai lầm.</li>
 
           </ol>
 
