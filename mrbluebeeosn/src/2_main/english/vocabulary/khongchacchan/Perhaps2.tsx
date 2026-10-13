@@ -46,7 +46,7 @@ export default function perHAPS2(): React.JSX.Element {
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#if-you-STUDy-HARder">if you STUDy HARder</HashLink>
+            <HashLink smooth to="#if-you-STUDy-HARDer">if you STUDy HARDer</HashLink>
           </span> &nbsp;
 
           <span className="highlight-255-padding-0-4 text-border">
@@ -115,7 +115,7 @@ export default function perHAPS2(): React.JSX.Element {
         <li value="4" id="it-is-TRUE-that">perHAPS, it is TRUE that she is NOT INTERested.</li>
         <li className="list-none margin-bottom-20">Có lẽ, đúng là cô ấy không có hứng thú.</li>
 
-        <li value="5" id="if-you-STUDy-HARder">perHAPS, if you STUDy HARder, you will PASS the eXAM.</li>
+        <li value="5" id="if-you-STUDy-HARDer">perHAPS, if you STUDy HARDer, you will PASS the eXAM.</li>
         <li className="list-none margin-bottom-20">Có lẽ, nếu bạn học chăm chỉ hơn, bạn sẽ đỗ kỳ thi.</li>
 
         <li value="6" id="in-THAT-CASE">perHAPS, in THAT CASE, we should postPONE the MEETing.</li>

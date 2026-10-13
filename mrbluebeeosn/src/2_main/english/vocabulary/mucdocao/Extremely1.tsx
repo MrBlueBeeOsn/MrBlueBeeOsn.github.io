@@ -79,7 +79,7 @@ export default function exTREMEly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Cực kỳ, vô cùng, hết sức</li>
+            <li>Cực kỳ</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function exTREMEly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">the eXAM was exTREMEly DIFficult.</li>
-          <li className="margin-bottom-20 list-none">Bài kiểm tra khó vô cùng.</li>
+          <li className="margin-bottom-20 list-none">Bài thi đó cực kỳ khó.</li>
 
           <li>she is exTREMEly TALented.</li>
-          <li className="list-none">Cô ấy tài năng một cách phi thường.</li>
+          <li className="list-none">Cô ấy cực kỳ tài năng.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function exTREMEly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he TOOK exTREME MEASures to proTECT his FAMILy.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã thực hiện những biện pháp cực đoan để bảo vệ gia đình.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã áp dụng những biện pháp cực đoan để bảo vệ gia đình mình.</li>
 
           <li id="NOUN">the situAtion REACHed its exTREMity.</li>
-          <li className="list-none">Tình hình đã trở nên cực kỳ nghiêm trọng.</li>
+          <li className="list-none">Tình hình đã lên đến đỉnh điểm.</li>
 
         </ul>
 
@@ -138,7 +138,7 @@ export default function exTREMEly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>it's <Link to="/vocabulary/VERy-1">VERy</Link> HOT toDAY.</li>
-          <li className="margin-bottom-20 list-none">Hôm nay rất nóng.</li>
+          <li className="margin-bottom-20 list-none">Hôm nay trời nóng lắm.</li>
 
           <li>she is <Link to="/vocabulary/HIGHly-1">HIGHly</Link> reGARDed in her FIELD.</li>
           <li className="list-none">Cô ấy được đánh giá rất cao trong lĩnh vực của mình.</li>
@@ -160,10 +160,10 @@ export default function exTREMEly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm SLIGHTly TIred.</li>
-          <li className="margin-bottom-20 list-none">Tôi hơi mệt.</li>
+          <li className="margin-bottom-20 list-none">Tớ hơi mệt một chút.</li>
 
           <li>the WEATHer is MODerately WARM.</li>
-          <li className="list-none">Thời tiết ấm áp vừa phải.</li>
+          <li className="list-none">Thời tiết khá ấm.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function exTREMEly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the therMOMeter is READing an exTREMEly HIGH TEMPERature.</li>
-          <li className="list-none">Nhiệt kế đang chỉ một mức nhiệt độ cực kỳ cao.</li>
+          <li className="list-none">Nhiệt kế đang hiển thị một nhiệt độ cực kỳ cao.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function exTREMEly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the COFfee is exTREMEly HOT.</li>
-          <li className="list-none">Cà phê nóng cực kỳ.</li>
+          <li className="list-none">Cà phê này cực kỳ nóng.</li>
 
         </ul>
 
@@ -231,10 +231,10 @@ export default function exTREMEly1(): React.JSX.Element {
           <ol>
 
             <li value="1">the MOvie was GOOD.</li>
-            <li className="list-none margin-bottom-20">Bộ phim hay.</li>
+            <li className="list-none margin-bottom-20">Bộ phim hay lắm.</li>
 
             <li value="2">the MOvie was exTREMEly GOOD.</li>
-            <li className="list-none margin-bottom-20">Bộ phim hay vô cùng.</li>
+            <li className="list-none margin-bottom-20">Bộ phim này cực kỳ hay.</li>
 
           </ol>
 

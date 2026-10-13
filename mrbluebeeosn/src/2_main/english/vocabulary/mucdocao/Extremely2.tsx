@@ -103,35 +103,35 @@ export default function exTREMEly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="HAPpy-to-SEE">she was exTREMEly [HAPpy to SEE] her FAMILy.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rất [vui khi gặp lại] gia đình.</li>
+        <li value="1" id="HAPpy-to-SEE">she was exTREMEly HAPpy to SEE her FAMILy.</li>
+        <li className="list-none margin-bottom-20">Cô ấy vô cùng hạnh phúc khi được gặp lại gia đình mình.</li>
 
-        <li value="2" id="TIred"><strong>af</strong>ter WORKing all NIGHT, he was exTREMEly [TIred].</li>
-        <li className="list-none margin-bottom-20">Sau khi làm việc cả đêm, anh ấy rất [mệt mỏi].</li>
+        <li value="2" id="TIred"><strong>af</strong>ter WORKing all NIGHT, he was exTREMEly TIred.</li>
+        <li className="list-none margin-bottom-20">Sau khi làm việc suốt cả đêm, anh ấy cảm thấy vô cùng mệt mỏi.</li>
 
-        <li value="3" id="DIFficult">the eXAM was exTREMEly [DIFficult].</li>
-        <li className="list-none margin-bottom-20">Bài kiểm tra rất [khó].</li>
+        <li value="3" id="DIFficult">the eXAM was exTREMEly DIFficult.</li>
+        <li className="list-none margin-bottom-20">Bài thi đó cực kỳ khó.</li>
 
-        <li value="4" id="DANgerous-to-SWIM-in">it's exTREMEly [DANgerous to SWIM in] this RIVer.</li>
-        <li className="list-none margin-bottom-20">Thật là cực kỳ [nguy hiểm khi bơi ở] con sông này</li>
+        <li value="4" id="DANgerous-to-SWIM-in">it's exTREMEly DANgerous to SWIM in this RIVer.</li>
+        <li className="list-none margin-bottom-20">Việc bơi lội trên con sông này cực kỳ nguy hiểm.</li>
 
-        <li value="5" id="TALented">she is an exTREMEly [TALented] muSICian.</li>
-        <li className="list-none margin-bottom-20">Cô ấy là một nhạc sĩ rất [tài năng].</li>
+        <li value="5" id="TALented">she is an exTREMEly TALented muSICian.</li>
+        <li className="list-none margin-bottom-20">Cô ấy là một nghệ sĩ âm nhạc cực kỳ tài năng.</li>
 
-        <li value="6" id="BEAUtiful">the SUNset was exTREMEly [BEAUtiful].</li>
-        <li className="list-none margin-bottom-20">Hoàng hôn rất [đẹp].</li>
+        <li value="6" id="BEAUtiful">the SUNset was exTREMEly BEAUtiful.</li>
+        <li className="list-none margin-bottom-20">Hoàng hôn thật sự vô cùng đẹp.</li>
 
-        <li value="7" id="RICH">he is an exTREMEly [RICH] BUSINessman.</li>
-        <li className="list-none margin-bottom-20">Ông ấy là một doanh nhân rất [giàu có].</li>
+        <li value="7" id="RICH">he is an exTREMEly RICH BUSINessman.</li>
+        <li className="list-none margin-bottom-20">Ông ấy là một doanh nhân cực kỳ giàu có.</li>
 
-        <li value="8" id="COLD-outSIDE-toDAY">it's exTREMEly [COLD outSIDE toDAY].</li>
-        <li className="list-none margin-bottom-20">Trời hôm nay [lạnh quá].</li>
+        <li value="8" id="COLD-outSIDE-toDAY">it's exTREMEly COLD outSIDE toDAY.</li>
+        <li className="list-none margin-bottom-20">Hôm nay bên ngoài lạnh cực kỳ.</li>
 
-        <li value="9" id="HUNGry"><strong>af</strong>ter PLAYing SPORTS all DAY, i was exTREMEly [HUNGry].</li>
-        <li className="list-none margin-bottom-20">Sau khi chơi thể thao cả ngày, tôi rất [đói].</li>
+        <li value="9" id="HUNGry"><strong>af</strong>ter PLAYing SPORTS all DAY, i was exTREMEly HUNGry.</li>
+        <li className="list-none margin-bottom-20">Sau khi chơi thể thao cả ngày, tớ đói cồn cào.</li>
 
-        <li value="10" id="ANGry-when">she was exTREMEly [ANGry when] she HEARD the NEWS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy rất [tức giận khi] nghe tin đó.</li>
+        <li value="10" id="ANGry-when">she was exTREMEly ANGry when she HEARD the NEWS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã cực kỳ tức giận khi nghe tin đó.</li>
 
       </ol>
 

@@ -75,7 +75,7 @@ export default function apPARently1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Hình như, có vẻ như, rõ ràng là</li>
+            <li>Có vẻ như</li>
 
           </ul>
 
@@ -94,10 +94,10 @@ export default function apPARently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">apPARently, it's GOing to RAIN toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Hình như mai trời sẽ mưa.</li>
+          <li className="margin-bottom-20 list-none">Có vẻ như ngày mai sẽ có mưa.</li>
 
           <li>apPARently, she's MOving to a NEW CITy.</li>
-          <li className="list-none">Hình như cô ấy sẽ chuyển đến thành phố mới.</li>
+          <li className="list-none">Có vẻ như cô ấy sắp chuyển đến một thành phố mới.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function apPARently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">it's apPARent that she's TIred.</li>
-          <li className="list-none">Rõ ràng là cô ấy mệt mỏi.</li>
+          <li className="list-none">Rõ ràng là cô ấy đang mệt mỏi.</li>
 
         </ul>
 
@@ -131,7 +131,7 @@ export default function apPARently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>SEEMingly, he's HAPpy with his NEW JOB.</li>
-          <li className="margin-bottom-20 list-none">Có vẻ như anh ấy hài lòng với công việc mới.</li>
+          <li className="margin-bottom-20 list-none">Có vẻ như anh ấy rất hạnh phúc với công việc mới của mình.</li>
 
           <li><Link to="/vocabulary/EVidently-1">EVidently</Link>, she's been STUDying HARD.</li>
           <li className="list-none">Rõ ràng là cô ấy đã học rất chăm chỉ.</li>
@@ -153,10 +153,10 @@ export default function apPARently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i LOOKED unCERtainly at his PLANS.</li>
-          <li className="margin-bottom-20 list-none">Tôi nhìn vào những kế hoạch của anh ấy một cách đầy vẻ không chắc chắn.</li>
+          <li className="margin-bottom-20 list-none">Tôi nhìn vào kế hoạch của anh ấy với vẻ băn khoăn.</li>
 
           <li>he LOOKED at me DOUBTfully.</li>
-          <li className="list-none">Anh ấy nhìn tôi một cách nghi ngờ.</li>
+          <li className="list-none">Anh ấy nhìn tôi với vẻ nghi ngờ.</li>
 
         </ul>
       
@@ -181,8 +181,8 @@ export default function apPARently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>apPARently, he's <Link to="/vocabulary/REally-1">REally</Link> into that ARticle.</li>
-          <li className="list-none">Hình như anh ấy rất thích bài báo đó.</li>
+          <li>apPARently, he's <Link to="/vocabulary/REally-1">REally</Link> <strong>in</strong>to that ARticle.</li>
+          <li className="list-none">Có vẻ như anh ấy thực sự rất hứng thú với bài báo đó.</li>
 
         </ul>
 
@@ -202,7 +202,7 @@ export default function apPARently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>apPARently, he QUIT his JOB LAST WEEK.</li>
-          <li className="list-none">Hình như anh ấy đã nghỉ việc tuần trước.</li>
+          <li className="list-none">Có vẻ như anh ấy đã nghỉ việc vào tuần trước.</li>
 
         </ul>
 
@@ -227,7 +227,7 @@ export default function apPARently1(): React.JSX.Element {
             <li className="list-none margin-bottom-20">Cô ấy biết câu trả lời.</li>
 
             <li value="2">apPARently, she KNOWS the ANswer.</li>
-            <li className="list-none margin-bottom-20">Hình như cô ấy biết câu trả lời.</li>
+            <li className="list-none margin-bottom-20">Có vẻ như cô ấy biết câu trả lời.</li>
 
           </ol>
 

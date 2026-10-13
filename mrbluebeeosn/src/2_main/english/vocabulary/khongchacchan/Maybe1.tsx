@@ -71,7 +71,7 @@ export default function MAYbe1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Có lẽ, có thể</li>
+            <li>Có thể</li>
 
           </ul>
 
@@ -90,7 +90,7 @@ export default function MAYbe1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">MAYbe it will RAIN toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Có lẽ trời sẽ mưa vào ngày mai.</li>
+          <li className="margin-bottom-20 list-none">Có thể ngày mai sẽ có mưa.</li>
 
           <li>MAYbe you should CALL her.</li>
           <li className="list-none">Có lẽ bạn nên gọi cho cô ấy.</li>
@@ -126,10 +126,10 @@ export default function MAYbe1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/perHAPS-1">perHAPS</Link> we can meeT UP LAter.</li>
-          <li className="margin-bottom-20 list-none">Có lẽ chúng ta có thể gặp nhau sau.</li>
+          <li className="margin-bottom-20 list-none">Có lẽ chúng ta có thể hẹn gặp nhau sau nhé.</li>
 
           <li>it's <Link to="/vocabulary/POSsibly-1">POSsibly</Link> the BEST DAY of my LIFE.</li>
-          <li className="list-none">Có thể đây là ngày tuyệt vời nhất trong đời tôi.</li>
+          <li className="list-none">Có lẽ đây là ngày tuyệt vời nhất trong cuộc đời tôi.</li>
 
         </ul>
 
@@ -151,7 +151,7 @@ export default function MAYbe1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Tôi chắc chắn muốn đi.</li>
 
           <li><Link to="/vocabulary/CERtainly-1">CERtainly</Link>, you can BORrow my BOOK.</li>
-          <li className="list-none">Chắc chắn rồi, bạn có thể mượn sách của tôi.</li>
+          <li className="list-none">Tất nhiên, bạn có thể mượn cuốn sách của tôi.</li>
 
         </ul>
       
@@ -197,7 +197,7 @@ export default function MAYbe1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm NOT SURE, MAYbe i'll GO to the PARTy.</li>
-          <li className="list-none">Tôi không chắc, có lẽ tôi sẽ đến bữa tiệc.</li>
+          <li className="list-none">Tớ không chắc, có lẽ tớ sẽ đi dự tiệc.</li>
 
         </ul>
 
@@ -219,7 +219,7 @@ export default function MAYbe1(): React.JSX.Element {
           <ol>
 
             <li value="1"><Link to="/vocabulary/perHAPS-1">perHAPS</Link> you could HELP me with this PROJect.</li>
-            <li className="list-none">Có lẽ anh/chị có thể giúp tôi giải quyết vấn đề này.</li>
+            <li className="list-none">Có lẽ bạn có thể giúp tôi thực hiện dự án này.</li>
             <li className="list-none margin-bottom-20">Cách nói lịch sự hơn, thường dùng trong văn viết hoặc các tình huống trang trọng.</li>
 
             <li value="2">MAYbe we can GO to the MOvies toNIGHT.</li>

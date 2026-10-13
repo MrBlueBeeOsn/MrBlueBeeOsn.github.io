@@ -75,7 +75,7 @@ export default function HIGHly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>HIGHly</strong>" (rất, cao) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>HIGHly</strong>" (rất cao) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function HIGHly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="recomMENDed-for">this BOOK is HIGHly [recomMENDed for] <strong>an</strong>yone INTERested in HISTORy.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này rất [được khuyến nghị] cho bất kỳ ai quan tâm đến lịch sử.</li>
+        <li value="1" id="recomMENDed-for">this BOOK is HIGHly recomMENDed for <strong>an</strong>yone INTERested in HISTORy.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này được khuyên đọc nhiệt tình cho bất kỳ ai quan tâm đến lịch sử.</li>
 
-        <li value="2" id="SKILLED">the STUdents were HIGHly [SKILLED] SURgeon.</li>
-        <li className="list-none margin-bottom-20">Cô ấy là một bác sĩ phẫu thuật rất [giỏi].</li>
+        <li value="2" id="SKILLED">the STUdents were HIGHly SKILLED SURgeon.</li>
+        <li className="list-none margin-bottom-20">Các sinh viên là những bác sĩ phẫu thuật có trình độ rất cao.</li>
 
-        <li value="3" id="MOtivated-to-DO-on">the STUdents were HIGHly [MOtivated to DO] WELL [on] the eXAM.</li>
-        <li className="list-none margin-bottom-20">Các học sinh rất [có động lực để làm] tốt bài kiểm tra.</li>
+        <li value="3" id="MOtivated-to-DO-on">the STUdents were HIGHly MOtivated to DO WELL on the eXAM.</li>
+        <li className="list-none margin-bottom-20">Các học sinh đã rất hăng hái để đạt kết quả tốt trong kỳ thi.</li>
 
-        <li value="4" id="efFECtive-in">his NEW MEDicine is HIGHly [efFECtive in] TREATing the diSEASE.</li>
-        <li className="list-none margin-bottom-20">Thuốc mới này rất [hiệu quả trong] việc điều trị bệnh.</li>
+        <li value="4" id="efFECtive-in">his NEW MEDicine is HIGHly efFECtive in TREATing the diSEASE.</li>
+        <li className="list-none margin-bottom-20">Loại thuốc mới này có hiệu quả rất cao trong việc điều trị căn bệnh này.</li>
 
-        <li value="5" id="comPETitive">the JOB MARket is HIGHly [comPETitive].</li>
-        <li className="list-none margin-bottom-20">Thị trường việc làm rất [cạnh tranh].</li>
+        <li value="5" id="comPETitive">the JOB MARket is HIGHly comPETitive.</li>
+        <li className="list-none margin-bottom-20">Thị trường việc làm có tính cạnh tranh rất cao.</li>
 
-        <li value="6" id="unLIKEly-that">it is HIGHly [unLIKEly that] he will WIN the LOTtery.</li>
-        <li className="list-none margin-bottom-20">Rất [khó có thể] anh ấy sẽ trúng số.</li>
+        <li value="6" id="unLIKEly-that">it is HIGHly unLIKEly that he will WIN the LOTtery.</li>
+        <li className="list-none margin-bottom-20">Khả năng anh ấy trúng xổ số là rất thấp.</li>
 
-        <li value="7" id="conTAgious">the FLU is HIGHly [conTAgious].</li>
-        <li className="list-none margin-bottom-20">Cúm rất dễ [lây].</li>
+        <li value="7" id="conTAgious">the FLU is HIGHly conTAgious.</li>
+        <li className="list-none margin-bottom-20">Bệnh cúm có khả năng lây lan rất cao.</li>
 
-        <li value="8" id="PRAISED-by-the">the MOvies was HIGHly [PRAISED by the] CRITics.</li>
-        <li className="list-none margin-bottom-20">Bộ phim đã [được] các nhà phê bình [ca ngợi] rất nhiều.</li>
+        <li value="8" id="PRAISED-by-the">the MOvies was HIGHly PRAISED by the CRITics.</li>
+        <li className="list-none margin-bottom-20">Bộ phim này đã nhận được rất nhiều lời khen ngợi từ các nhà phê bình.</li>
 
-        <li value="9" id="VISible-from">the SIGN is HIGHly [VISible from] the HIGHway.</li>
-        <li className="list-none margin-bottom-20">Biển báo rất [dễ thấy từ] xa lộ.</li>
+        <li value="9" id="VISible-from">the SIGN is HIGHly VISible from the HIGHway.</li>
+        <li className="list-none margin-bottom-20">Biển báo này rất dễ nhìn thấy từ đường cao tốc.</li>
 
-        <li value="10" id="soPHISticated">the techNOLogy USED in this PRODuct is HIGHly [soPHISticated].</li>
-        <li className="list-none margin-bottom-20">Công nghệ được sử dụng trong sản phẩm này rất [tinh vi].</li>
+        <li value="10" id="soPHISticated">the techNOLogy USED in this PRODuct is HIGHly soPHISticated.</li>
+        <li className="list-none margin-bottom-20">Công nghệ được sử dụng trong sản phẩm này vô cùng tinh vi.</li>
 
       </ol>
 

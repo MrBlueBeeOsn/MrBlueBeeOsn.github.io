@@ -75,7 +75,7 @@ export default function GREATly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Rất, rất nhiều, đáng kể</li>
+            <li>Rất</li>
 
           </ul>
 
@@ -94,10 +94,10 @@ export default function GREATly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">i GREATly apPREciated your HELP.</li>
-          <li className="margin-bottom-20 list-none">Tôi rất cảm ơn sự giúp đỡ của bạn.</li>
+          <li className="margin-bottom-20 list-none">Tôi thực sự rất biết ơn sự giúp đỡ của bạn.</li>
 
           <li>the PRICE of HOUSing has GREATly inCREASED.</li>
-          <li className="list-none">Giá nhà đã tăng rất nhiều.</li>
+          <li className="list-none">Giá nhà ở đã tăng lên rất nhiều.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function GREATly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the reSULTS were sigNIFicantly DIFFERent.</li>
-          <li className="margin-bottom-20 list-none">Kết quả khác biệt đáng kể.</li>
+          <li className="margin-bottom-20 list-none">Kết quả có sự khác biệt đáng kể.</li>
 
           <li>the TASK was conSIDerably MORE DIFficult than exPECTed.</li>
-          <li className="list-none">Nhiệm vụ khó hơn nhiều so với dự kiến.</li>
+          <li className="list-none">Nhiệm vụ này khó hơn dự kiến rất nhiều.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function GREATly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the TEMPERature has SLIGHTly inCREASED.</li>
-          <li className="margin-bottom-20 list-none">Nhiệt độ đã tăng nhẹ.</li>
+          <li className="margin-bottom-20 list-none">Nhiệt độ đã tăng lên một chút.</li>
 
           <li>the DAMage was MINimally afFECTed.</li>
-          <li className="list-none">Thiệt hại bị ảnh hưởng tối thiểu.</li>
+          <li className="list-none">Thiệt hại chỉ ở mức tối thiểu.</li>
 
         </ul>
       
@@ -182,7 +182,7 @@ export default function GREATly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the WHALE was GREATly BIGger than <strong>an</strong>yone i had EVer SEEN beFORE.</li>
-          <li className="list-none">Con cá voi đó lớn hơn bất kỳ con nào tôi từng thấy trước đây.</li>
+          <li className="list-none">Con cá voi đó to hơn rất nhiều so với bất kỳ con cá voi nào tôi từng thấy trước đây.</li>
 
         </ul>
 
@@ -202,7 +202,7 @@ export default function GREATly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i am GREATly imPRESSED by your WORK.</li>
-          <li className="list-none">Tôi rất ấn tượng với công việc của bạn.</li>
+          <li className="list-none">Tôi thực sự rất ấn tượng với công việc của bạn.</li>
 
         </ul>
 
@@ -224,10 +224,10 @@ export default function GREATly1(): React.JSX.Element {
           <ol>
 
             <li value="1">the BOOK is INTEResting.</li>
-            <li className="list-none margin-bottom-20">Cuốn sách thú vị.</li>
+            <li className="list-none margin-bottom-20">Cuốn sách này thật thú vị.</li>
 
             <li value="2">the BOOK is GREATly INTEResting.</li>
-            <li className="list-none margin-bottom-20">Cuốn sách thú vị một cách đặc biệt.</li>
+            <li className="list-none margin-bottom-20">Cuốn sách này thực sự rất thú vị.</li>
 
           </ol>
 
