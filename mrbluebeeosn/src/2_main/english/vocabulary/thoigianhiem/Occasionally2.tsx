@@ -103,35 +103,35 @@ export default function ocCAsionally2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="FEELS-LONEly-even-though">she ocCAsionally [FEELS LONEly, <strong>e</strong>ven though] she HAS <strong>man</strong>y FRIENDS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thỉnh thoảng [cảm thấy cô đơn, mặc dù] có nhiều bạn bè.</li>
+        <li value="1" id="FEELS-LONEly-even-though">she ocCAsionally FEELS LONEly, <strong>e</strong>ven though she HAS <strong>man</strong>y FRIENDS.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng cô ấy cảm thấy cô đơn, dù cô ấy có rất nhiều bạn.</li>
 
-        <li value="2" id="RAINS-in-the">it ocCAsionally [RAINS in the] DESert.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng cũng [có mưa] ở sa mạc. (Sa mạc thỉnh thoảng cũng có mưa).</li>
+        <li value="2" id="RAINS-in-the">it ocCAsionally RAINS in the DESert.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng cũng có mưa ở sa mạc.</li>
 
-        <li value="3" id="VISits-on">my GRANDparents ocCAsionally [VISits] us [on] WEEKends.</li>
-        <li className="list-none margin-bottom-20">Ông bà tôi thỉnh thoảng [đến thăm] chúng tôi [vào] cuối tuần.</li>
+        <li value="3" id="VISits-on">my GRANDparents ocCAsionally VISits us on WEEKends.</li>
+        <li className="list-none margin-bottom-20">Ông bà tôi thỉnh thoảng đến thăm chúng tôi vào cuối tuần.</li>
 
-        <li value="4" id="EATS-but">he ocCAsionally [EATS] SPIcy FOOD, [but] he DOESn't LIKE it VERy MUCH.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thỉnh thoảng [ăn] đồ cay, [nhưng] không thích lắm.</li>
+        <li value="4" id="EATS-but">he ocCAsionally EATS SPIcy FOOD, but he DOESn't LIKE it VERy MUCH.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng anh ấy ăn đồ cay, nhưng anh ấy không thích lắm.</li>
 
-        <li value="5" id="WORKS-from-when">she ocCAsionally [WORKS from] HOME [when] she's FEELing <strong>un</strong>der the WEATHer.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thỉnh thoảng [làm việc tại] nhà [khi] không khỏe.</li>
+        <li value="5" id="WORKS-from-when">she ocCAsionally WORKS from HOME when she's FEELing <strong>un</strong>der the WEATHer.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng, cô ấy làm việc tại nhà khi cảm thấy không được khỏe.</li>
 
-        <li value="6" id="PLAYS-for">he ocCAsionally [PLAYS] the piANo [for] FUN.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thỉnh thoảng [chơi] piano [để] giải trí.</li>
+        <li value="6" id="PLAYS-for">he ocCAsionally PLAYS the piANo for FUN.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng anh ấy chơi piano để giải trí.</li>
 
-        <li value="7" id="forGET">i ocCAsionally [forGET] PEOple's NAMES.</li>
-        <li className="list-none margin-bottom-20">Tôi thỉnh thoảng [quên] tên người khác.</li>
+        <li value="7" id="forGET">i ocCAsionally forGET PEOple's NAMES.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi lại quên tên của mọi người.</li>
 
-        <li value="8" id="NEEDS-with">she ocCAsionally [NEEDS] HELP [with] her HOMEwork.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thỉnh thoảng [cần] giúp đỡ [với] bài tập về nhà.</li>
+        <li value="8" id="NEEDS-with">she ocCAsionally NEEDS HELP with her HOMEwork.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng, cô ấy cần sự giúp đỡ để làm bài tập về nhà.</li>
 
-        <li value="9" id="TALKS-about">he ocCAsionally [TALKS a<strong>bout</strong>] his CHILDhood.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thỉnh thoảng [nói về] tuổi thơ của mình.</li>
+        <li value="9" id="TALKS-about">he ocCAsionally TALKS a<strong>bout</strong> his CHILDhood.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng anh ấy kể về thời thơ ấu của mình.</li>
 
-        <li value="10" id="TRAVel-to-in-the">they ocCAsionally [TRAVel to] EURope [in the] SUMmer.</li>
-        <li className="list-none margin-bottom-20">Họ thỉnh thoảng [đi du lịch] châu Âu [vào] mùa hè.</li>
+        <li value="10" id="TRAVel-to-in-the">they ocCAsionally TRAVel to EURope in the SUMmer.</li>
+        <li className="list-none margin-bottom-20">Họ thỉnh thoảng đi du lịch đến châu Âu vào mùa hè.</li>
 
       </ol>
 

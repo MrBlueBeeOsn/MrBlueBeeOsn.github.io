@@ -88,8 +88,8 @@ export default function NguyenAmDoi(): React.JSX.Element {
             <tr>
                 <td>/eə/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
                 <td>
-                  [SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>
-                  [SQUARE][SQUĀ̄RE] /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)
+                  [SQUARE][SQUARE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>
+                  [SQUARE][SQUARE] /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)
                   </td>
             </tr>
           </tbody>

@@ -71,7 +71,7 @@ export default function NOW1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Bây giờ, hiện tại</li>
+            <li>Ngay bây giờ</li>
 
           </ul>
 
@@ -90,10 +90,10 @@ export default function NOW1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">i am EATing NOW.</li>
-          <li className="margin-bottom-20 list-none">Tôi đang ăn bây giờ.</li>
+          <li className="margin-bottom-20 list-none">Tôi đang ăn ngay bây giờ.</li>
 
           <li>NOW, PLEASE be QUIet.</li>
-          <li className="list-none">Bây giờ, làm ơn im lặng.</li>
+          <li className="list-none">Bây giờ, xin hãy im lặng.</li>
 
         </ul>
 
@@ -126,10 +126,10 @@ export default function NOW1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>at PRESent, i am WORKing on a NEW PROJect.</li>
-          <li className="margin-bottom-20 list-none">Hiện tại, tôi đang làm việc trên một dự án mới.</li>
+          <li className="margin-bottom-20 list-none">Hiện tại, tôi đang thực hiện một dự án mới.</li>
 
           <li><Link to="/vocabulary/CURrently-1">CURrently</Link>, the TEMPERature is THIRty deGREES.</li>
-          <li className="list-none">Hiện nay, nhiệt độ là 30 độ.</li>
+          <li className="list-none">Hiện tại, nhiệt độ là ba mươi độ.</li>
 
         </ul>
 
@@ -148,10 +148,10 @@ export default function NOW1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>we can TALK a<strong>bout</strong> it LAter.</li>
-          <li className="margin-bottom-20 list-none">Chúng ta có thể nói về điều đó sau.</li>
+          <li className="margin-bottom-20 list-none">Chúng ta có thể nói về chuyện đó sau.</li>
 
           <li>be<strong>fore</strong> i GO, i WANT to SAY GOODBYE.</li>
-          <li className="list-none">Trước khi đi, tôi muốn nói lời tạm biệt.</li>
+          <li className="list-none">Trước khi đi, tớ muốn nói lời tạm biệt.</li>
 
         </ul>
       
@@ -177,7 +177,7 @@ export default function NOW1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>RIGHT NOW, it's FIVE o'CLOCK.</li>
-          <li className="list-none">Ngay bây giờ là 5 giờ.</li>
+          <li className="list-none">Ngay lúc này, đã là 5 giờ rồi.</li>
 
         </ul>
 
@@ -197,7 +197,7 @@ export default function NOW1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i can SPEAK ENGlish MUCH BETter NOW.</li>
-          <li className="list-none">Bây giờ tôi nói tiếng Anh tốt hơn nhiều rồi.</li>
+          <li className="list-none">Bây giờ tôi nói tiếng anh tốt hơn rất nhiều.</li>
 
         </ul>
 
@@ -223,7 +223,7 @@ export default function NOW1(): React.JSX.Element {
             <li className="list-none margin-bottom-20">Cách nói trang trọng hơn, nhấn mạnh tình trạng hiện tại.</li>
 
             <li value="2">NOW, LISten to me <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
-            <li className="list-none">Bây giờ, hãy nghe tôi cẩn thận.</li>
+            <li className="list-none">Bây giờ, hãy lắng nghe tôi thật kỹ nhé.</li>
             <li className="list-none">Cách nói thông thường, <span className="highlight-255-padding-0-4">nhấn mạnh sự tức thời</span>.</li>
 
           </ol>

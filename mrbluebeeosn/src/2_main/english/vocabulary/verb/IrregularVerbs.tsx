@@ -823,7 +823,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [READS] SPEcialized TECHnical BLOGS [<strong>ever</strong>y EVEning].</li>
+					<li>he [READS] SPECialized TECHnical BLOGS [<strong>ever</strong>y EVEning].</li>
 					<li className="list-none">Anh ấy [đọc] các blog kỹ thuật chuyên ngành [vào mỗi buổi tối].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng READS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			

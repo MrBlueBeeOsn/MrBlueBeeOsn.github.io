@@ -75,7 +75,7 @@ export default function ocCAsionally1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Tính thỉnh thoảng, đôi khi</li>
+            <li>Thỉnh thoảng</li>
 
           </ul>
 
@@ -94,10 +94,10 @@ export default function ocCAsionally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">i ocCAsionally GO to the GYM.</li>
-          <li className="margin-bottom-20 list-none">Tôi thỉnh thoảng đi tập gym.</li>
+          <li className="margin-bottom-20 list-none">Thỉnh thoảng tôi đi tập gym.</li>
 
           <li>it RAINS ocCAsionally in the DESert.</li>
-          <li className="list-none">Ở sa mạc thỉnh thoảng cũng có mưa.</li>
+          <li className="list-none">Thỉnh thoảng cũng có mưa ở sa mạc.</li>
 
         </ul>
 
@@ -113,8 +113,8 @@ export default function ocCAsionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="NOUN">on SPEcial ocCAsions, we WEAR FORmal CLOTHES.</li>
-          <li className="list-none">Trong những dịp đặc biệt, chúng ta mặc quần áo trang trọng.</li>
+          <li id="NOUN">on SPECial ocCAsions, we WEAR FORmal CLOTHES.</li>
+          <li className="list-none">Trong những dịp đặc biệt, chúng ta mặc trang phục trang trọng.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function ocCAsionally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/SOMEtimes-1">SOMEtimes</Link> i FEEL LONEly.</li>
-          <li className="margin-bottom-20 list-none">Đôi khi tôi cảm thấy cô đơn.</li>
+          <li className="margin-bottom-20 list-none">Đôi khi tớ cảm thấy cô đơn.</li>
 
           <li>we meeT UP for COFfee NOW and THEN.</li>
-          <li className="list-none">Chúng tôi gặp nhau uống cà phê thỉnh thoảng.</li>
+          <li className="list-none">Thỉnh thoảng chúng tôi gặp nhau để uống cà phê.</li>
 
         </ul>
 
@@ -156,7 +156,7 @@ export default function ocCAsionally1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cô ấy luôn đúng giờ.</li>
 
           <li>i <Link to="/vocabulary/NEVer-1">NEVer</Link> EAT FAST FOOD.</li>
-          <li className="list-none">Tôi không bao giờ ăn đồ ăn nhanh.</li>
+          <li className="list-none">Tôi không bao giờ ăn thức ăn nhanh.</li>
 
         </ul>
       
@@ -182,7 +182,7 @@ export default function ocCAsionally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she Only READS BOOKS and NEWSpapers ocCAsionally.</li>
-          <li className="list-none">Cô ấy chỉ thỉnh thoảng đọc sách báo.</li>
+          <li className="list-none">Cô ấy chỉ đọc sách và thỉnh thoảng đọc báo.</li>
 
         </ul>
 
@@ -202,7 +202,7 @@ export default function ocCAsionally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i ocCAsionally BAKE COOKies on WEEKends.</li>
-          <li className="list-none">Tôi thỉnh thoảng nướng bánh quy vào cuối tuần.</li>
+          <li className="list-none">Thỉnh thoảng tôi làm bánh quy vào cuối tuần.</li>
 
         </ul>
 
@@ -227,7 +227,7 @@ export default function ocCAsionally1(): React.JSX.Element {
             <li className="list-none margin-bottom-20">Tôi đi xem phim.</li>
 
             <li value="2">i ocCAsionally GO to the MOvies.</li>
-            <li className="list-none margin-bottom-20">Tôi thỉnh thoảng đi xem phim.</li>
+            <li className="list-none margin-bottom-20">Thỉnh thoảng tôi đi xem phim.</li>
 
           </ol>
 

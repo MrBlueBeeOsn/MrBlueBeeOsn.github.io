@@ -53,8 +53,8 @@ export default function NguyenAmDon(): React.JSX.Element {
               <td>/e/</td>
               <td>
                 [BED][BED] /bed/<br/>
-                [SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>
-                [SQUARE][SQUĀ̄RE] /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)<br/>
+                [SQUARE][SQUARE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>
+                [SQUARE][SQUARE] /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)<br/>
                 [BURy][BŪ̄R y] /ˈber.i/
               </td>
             </tr>

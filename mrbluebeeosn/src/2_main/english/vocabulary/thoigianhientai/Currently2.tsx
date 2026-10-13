@@ -103,35 +103,35 @@ export default function CURrently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="WORKing-on">i am CURrently [WORKing on] a NEW PROJect.</li>
-        <li className="list-none margin-bottom-20">Tôi hiện [đang làm việc trên] một dự án mới.</li>
+        <li value="1" id="WORKing-on">i am CURrently WORKing on a NEW PROJect.</li>
+        <li className="list-none margin-bottom-20">Hiện tại tôi đang thực hiện một dự án mới.</li>
 
-        <li value="2" id="STUDying-for">she is CURrently [STUDying for] her eXAMS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy hiện tại [đang học cho] các kỳ thi của mình.</li>
+        <li value="2" id="STUDying-for">she is CURrently STUDying for her eXAMS.</li>
+        <li className="list-none margin-bottom-20">Hiện tại, cô ấy đang ôn thi.</li>
 
-        <li value="3" id="LIVing-in">they are CURrently [LIVing in] vietNAM.</li>
-        <li className="list-none margin-bottom-20">Họ hiện [đang sống ở] Việt Nam.</li>
+        <li value="3" id="LIVing-in">they are CURrently LIVing in vietNAM.</li>
+        <li className="list-none margin-bottom-20">Hiện tại, họ đang sống tại Việt Nam.</li>
 
-        <li value="4" id="unaVAILable">the MANager is CURrently [unaVAILable].</li>
-        <li className="list-none margin-bottom-20">Quản lý hiện [không có mặt].</li>
+        <li value="4" id="unaVAILable">the MANager is CURrently unaVAILable.</li>
+        <li className="list-none margin-bottom-20">Người quản lý hiện không có mặt.</li>
 
-        <li value="5" id="under-conSTRUCtion">the NEW BUILDing is CURrently [<strong>un</strong>der conSTRUCtion].</li>
-        <li className="list-none margin-bottom-20">Tòa nhà mới hiện [đang được xây dựng].</li>
+        <li value="5" id="under-conSTRUCtion">the NEW BUILDing is CURrently <strong>un</strong>der conSTRUCtion.</li>
+        <li className="list-none margin-bottom-20">Tòa nhà mới hiện đang trong quá trình xây dựng.</li>
 
-        <li value="6" id="being-reVIEWED">your APplication is CURrently [<strong>be</strong>ing reVIEWED].</li>
-        <li className="list-none margin-bottom-20">Đơn đăng ký của bạn hiện [đang được xem xét].</li>
+        <li value="6" id="being-reVIEWED">your APplication is CURrently <strong>be</strong>ing reVIEWED.</li>
+        <li className="list-none margin-bottom-20">Đơn đăng ký của bạn hiện đang được xem xét.</li>
 
-        <li value="7" id="in-efFECT">this RULE is CURrently [in efFECT].</li>
-        <li className="list-none margin-bottom-20">Quy tắc này hiện [đang có hiệu lực].</li>
+        <li value="7" id="in-efFECT">this RULE is CURrently in efFECT.</li>
+        <li className="list-none margin-bottom-20">Quy định này hiện đang có hiệu lực.</li>
 
-        <li value="8" id="being-deVELoped">this VACcine is CURrently [<strong>be</strong>ing deVELoped].</li>
-        <li className="list-none margin-bottom-20">Vắc xin này hiện [đang được phát triển].</li>
+        <li value="8" id="being-deVELoped">this VACcine is CURrently <strong>be</strong>ing deVELoped.</li>
+        <li className="list-none margin-bottom-20">Loại vắc-xin này hiện đang được phát triển.</li>
 
-        <li value="9" id="TRENDing-on">this SONG is CURrently [TRENDing on] TIKTok.</li>
-        <li className="list-none margin-bottom-20">Bài hát này hiện [đang rất HOT trên] TikTok.</li>
+        <li value="9" id="TRENDing-on">this SONG is CURrently TRENDing on TIKtok.</li>
+        <li className="list-none margin-bottom-20">Bài hát này hiện đang là xu hướng trên TikTok.</li>
 
-        <li value="10" id="aVAILable-in">the PRODuct is CURrently [aVAILable in] all our STORES.</li>
-        <li className="list-none margin-bottom-20">Sản phẩm này hiện [có sẵn ở] tất cả các cửa hàng.</li>
+        <li value="10" id="aVAILable-in">the PRODuct is CURrently aVAILable in all our STORES.</li>
+        <li className="list-none margin-bottom-20">Sản phẩm hiện đang có sẵn tại tất cả các cửa hàng của chúng tôi.</li>
 
       </ol>
 

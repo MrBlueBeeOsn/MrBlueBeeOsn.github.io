@@ -69,13 +69,13 @@ export default function RAREly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                RAREly \<Link to="/pronunciation/5-vowel-system">RĀ̄RE ly</Link>\ /ˈrerli/ ⬤• (TWO SYLlables)
+                RAREly \<Link to="/pronunciation/5-vowel-system">RARE ly</Link>\ /ˈrerli/ ⬤• (TWO SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Tính hiếm khi, ít khi</li>
+            <li>Rất hiếm khi</li>
 
           </ul>
 
@@ -131,10 +131,10 @@ export default function RAREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/SELdom-1">SELdom</Link> SEE him these DAYS.</li>
-          <li className="margin-bottom-20 list-none">Tôi hiếm khi gặp anh ấy những ngày này.</li>
+          <li className="margin-bottom-20 list-none">Gần đây tôi hiếm khi gặp anh ấy.</li>
 
           <li>she inFREquently VISits her PARents.</li>
-          <li className="list-none">Cô ấy không thường xuyên đến thăm ba mẹ.</li>
+          <li className="list-none">Cô ấy hiếm khi về thăm ba mẹ.</li>
 
         </ul>
 
@@ -153,7 +153,7 @@ export default function RAREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/FREquently-1">FREquently</Link> GO to the GYM.</li>
-          <li className="margin-bottom-20 list-none">Tôi thường xuyên đến phòng tập thể dục.</li>
+          <li className="margin-bottom-20 list-none">Tôi thường xuyên đi tập gym.</li>
 
           <li>she <Link to="/vocabulary/OFten-1">OFten</Link> COOKS DINner.</li>
           <li className="list-none">Cô ấy thường nấu bữa tối.</li>
@@ -182,7 +182,7 @@ export default function RAREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>this ANimal is RAREly SEEN in the WILD.</li>
-          <li className="list-none">Loài động vật này hiếm khi được nhìn thấy trong tự nhiên.</li>
+          <li className="list-none">Loài động vật này rất hiếm khi được nhìn thấy trong tự nhiên.</li>
 
         </ul>
 
@@ -202,7 +202,7 @@ export default function RAREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she RAREly goeS OUT on WEEKends.</li>
-          <li className="list-none">Cô ấy hiếm khi ra ngoài vào các ngày trong tuần.</li>
+          <li className="list-none">Cô ấy hiếm khi đi chơi vào cuối tuần.</li>
 
         </ul>
 
@@ -224,10 +224,10 @@ export default function RAREly1(): React.JSX.Element {
           <ol>
 
             <li value="1">i GO to the LIbrary.</li>
-            <li className="list-none margin-bottom-20">Tôi đi thư viện.</li>
+            <li className="list-none margin-bottom-20">Tôi đi đến thư viện.</li>
 
             <li value="2">i RAREly GO to the LIbrary.</li>
-            <li className="list-none margin-bottom-20">Tôi hiếm khi đi thư viện.</li>
+            <li className="list-none margin-bottom-20">Tôi hiếm khi đến thư viện.</li>
 
           </ol>
 
