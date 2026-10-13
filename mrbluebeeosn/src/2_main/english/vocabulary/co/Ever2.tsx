@@ -103,35 +103,35 @@ export default function EVer2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="since">EVer [since] i was a CHILD, i've LOVED to READ.</li>
-        <li className="list-none margin-bottom-20">Mãi [từ khi] tôi còn là một đứa trẻ, tôi đã thích đọc sách.</li>
+        <li value="1" id="since">EVer since i was a CHILD, i've LOVED to READ.</li>
+        <li className="list-none margin-bottom-20">Từ khi còn là một đứa trẻ, tôi đã rất thích đọc sách.</li>
 
-        <li value="2" id="as">he is, [as] EVer, LATE for the MEETing.</li>
-        <li className="list-none margin-bottom-20">Anh ấy, [như] thường lệ, lại đến muộn cuộc họp.</li>
+        <li value="2" id="as">he is, as EVer, LATE for the MEETing.</li>
+        <li className="list-none margin-bottom-20">Anh ấy, như thường lệ, lại đến muộn cuộc họp.</li>
 
-        <li value="3" id="AFter">they LIVED HAPpily EVer [AFter].</li>
-        <li className="list-none margin-bottom-20">Họ sống hạnh phúc mãi mãi [về sau].</li>
+        <li value="3" id="AFter">they LIVED HAPpily EVer AFter.</li>
+        <li className="list-none margin-bottom-20">Họ đã sống hạnh phúc mãi mãi về sau.</li>
 
-        <li value="4" id="SO-KIND">she is EVer [SO KIND].</li>
-        <li className="list-none margin-bottom-20">Cô ấy lúc nào cũng [rất tốt bụng].</li>
+        <li value="4" id="SO-KIND">she is EVer SO KIND.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thật là tốt bụng.</li>
 
-        <li value="5" id="been-to">have you EVer [been to] PARis?</li>
-        <li className="list-none margin-bottom-20">Bạn đã từng [đến] Paris chưa?</li>
+        <li value="5" id="been-to">have you EVer been to PARis?</li>
+        <li className="list-none margin-bottom-20">Bạn đã từng đến Paris chưa?</li>
 
-        <li value="6" id="there-was-a-TIME">if EVer [there was a TIME] to be BRAVE, it is NOW.</li>
-        <li className="list-none margin-bottom-20">Nếu [có khi nào] cần can đảm, thì đó là bây giờ.</li>
+        <li value="6" id="there-was-a-TIME">if EVer there was a TIME to be BRAVE, it is NOW.</li>
+        <li className="list-none margin-bottom-20">Nếu có lúc nào đó cần phải dũng cảm, thì chính là bây giờ.</li>
 
-        <li value="7" id="forGET">i will NEVer EVer [forGET] that DAY.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ, bao giờ [quên] ngày hôm đó.</li>
+        <li value="7" id="forGET">i will NEVer EVer forGET that DAY.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ, không bao giờ quên được ngày đó.</li>
 
-        <li value="8" id="and-EVer">i will LOVE you for EVer [and EVer].</li>
-        <li className="list-none margin-bottom-20">Anh sẽ yêu em [mãi mãi].</li>
+        <li value="8" id="and-EVer">i will LOVE you for EVer and EVer.</li>
+        <li className="list-none margin-bottom-20">Em sẽ yêu anh mãi mãi và mãi mãi.</li>
 
-        <li value="9" id="AFter2">they LIVED HAPpily EVer [AFter].</li>
-        <li className="list-none margin-bottom-20">Họ sống hạnh phúc mãi [về sau].</li>
+        <li value="9" id="AFter2">they LIVED HAPpily EVer AFter.</li>
+        <li className="list-none margin-bottom-20">Họ đã sống hạnh phúc mãi mãi về sau.</li>
 
-        <li value="10" id="and-aNON">EVer [and aNON], a BIRD would SING.</li>
-        <li className="list-none margin-bottom-20">Luôn [và thoáng chốc], một con chim lại hót.</li>
+        <li value="10" id="and-aNON">EVer and aNON, a BIRD would SING.</li>
+        <li className="list-none margin-bottom-20">Dù thế nào đi nữa, một con chim vẫn sẽ hót.</li>
 
       </ol>
 

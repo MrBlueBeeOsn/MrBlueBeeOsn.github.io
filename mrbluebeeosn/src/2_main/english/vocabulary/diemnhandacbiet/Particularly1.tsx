@@ -79,7 +79,7 @@ export default function parTICularly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Đặc biệt, nhất là</li>
+            <li>Đặc biệt là</li>
 
           </ul>
 
@@ -118,10 +118,10 @@ export default function parTICularly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">she is <Link to="/vocabulary/VERy-1">VERy</Link> parTICular a<strong>bout</strong> her CLOTHES.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy rất kỹ tính về quần áo của mình.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy rất kén chọn về quần áo của mình.</li>
 
           <li id="VERB">can you parTICularize the PROBlem?</li>
-          <li className="list-none">Bạn có thể nêu chi tiết vấn đề không?</li>
+          <li className="list-none">Bạn có thể mô tả cụ thể vấn đề đó được không?</li>
 
         </ul>
 
@@ -141,8 +141,7 @@ export default function parTICularly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Tôi đặc biệt thích màu xanh dương.</li>
 
           <li>i'm LOOKing for a JOB speCIFically in MARketing.</li>
-          <li className="list-none">I'm looking for a job specifically in marketing.</li>
-          <li className="list-none">Tôi đang tìm kiếm một công việc cụ thể trong lĩnh vực marketing.</li>
+          <li className="list-none">Tôi đang tìm kiếm một công việc chuyên về lĩnh vực Tiếp thị.</li>
 
         </ul>
 
@@ -164,7 +163,7 @@ export default function parTICularly1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Nói chung, tôi thích ở nhà vào cuối tuần.</li>
 
           <li>i reMEMber VAguely MEETing her beFORE.</li>
-          <li className="list-none">Tôi nhớ mang máng đã gặp cô ấy trước đây.</li>
+          <li className="list-none">Tôi nhớ lờ mờ là đã từng gặp cô ấy trước đây.</li>
 
         </ul>
       
@@ -190,7 +189,7 @@ export default function parTICularly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>parTICularly, i LIKE the peppeROni.</li>
-          <li className="list-none">Đặc biệt, tôi thích xúc xích Ý</li>
+          <li className="list-none">Đặc biệt, tôi rất thích pepperoni.</li>
 
         </ul>
 
@@ -210,7 +209,7 @@ export default function parTICularly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i enJOY WATCHing MOvies, parTICularly SCIence FICtion FILMS.</li>
-          <li className="list-none">Tôi thích xem phim, đặc biệt là phim khoa học viễn tưởng.</li>
+          <li className="list-none">Tôi rất thích xem phim, đặc biệt là phim khoa học viễn tưởng.</li>
 
         </ul>
 

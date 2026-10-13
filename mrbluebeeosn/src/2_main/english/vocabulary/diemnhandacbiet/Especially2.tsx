@@ -75,7 +75,7 @@ export default function esPECially2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>esPECially</strong>" (đặc biệt là) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>esPECially</strong>" (đặc biệt) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -103,35 +103,35 @@ export default function esPECially2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="INTERested-in-LEARNing-about">i am esPECially [INTERested in LEARNing a<strong>bout</strong>] DIFferent CULtures.</li>
-        <li className="list-none margin-bottom-20">Tôi đặc biệt [quan tâm đến việc tìm hiểu về] các nền văn hóa khác nhau.</li>
+        <li value="1" id="INTERested-in-LEARNing-about">i am esPECially INTERested in LEARNing a<strong>bout</strong> DIFferent CULtures.</li>
+        <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến việc tìm hiểu về các nền văn hóa khác nhau.</li>
 
-        <li value="2" id="GOOD-at-PLAYing-the">she is esPECially [GOOD at PLAYing the] piANo.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đặc biệt [giỏi chơi] piano.</li>
+        <li value="2" id="GOOD-at-PLAYing-the">she is esPECially GOOD at PLAYing the piANo.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đặc biệt GIỎI chơi đàn piano.</li>
 
-        <li value="3" id="imPORTant-for-GROWing">the SLEEP is esPECially [imPORTant for GROWing] CHILDren.</li>
-        <li className="list-none margin-bottom-20">Giấc ngủ đặc biệt [quan trọng đối với] trẻ [đang lớn].</li>
+        <li value="3" id="imPORTant-for-GROWing">the SLEEP is esPECially imPORTant for GROWing CHILDren.</li>
+        <li className="list-none margin-bottom-20">Giấc ngủ đặc biệt quan trọng đối với trẻ em đang trong độ tuổi phát triển.</li>
 
-        <li value="4" id="DIFficult">the FInal eXAM was esPECially [DIFficult].</li>
-        <li className="list-none margin-bottom-20">Bài thi cuối kỳ đặc biệt [khó].</li>
+        <li value="4" id="DIFficult">the FInal eXAM was esPECially DIFficult.</li>
+        <li className="list-none margin-bottom-20">Kỳ thi cuối kỳ đặc biệt khó.</li>
 
-        <li value="5" id="TRUE-of">THIS is esPECially [TRUE of] PEOple who LIVE in BIG CITies.</li>
-        <li className="list-none margin-bottom-20">Điều này đặc biệt [đúng với] những người sống ở các thành phố lớn.</li>
+        <li value="5" id="TRUE-of">THIS is esPECially TRUE of PEOple who LIVE in BIG CITies.</li>
+        <li className="list-none margin-bottom-20">Điều này đặc biệt đúng đối với những người sống ở các thành phố lớn.</li>
 
-        <li value="6" id="when">i enJOY WALKing in the PARK, esPECially [when] the WEATHer is NICE.</li>
-        <li className="list-none margin-bottom-20">Tôi thích đi dạo trong công viên, đặc biệt là [khi] trời đẹp.</li>
+        <li value="6" id="when">i enJOY WALKing in the PARK, esPECially when the WEATHer is NICE.</li>
+        <li className="list-none margin-bottom-20">Tôi rất thích đi dạo trong công viên, nhất là khi thời tiết đẹp.</li>
 
-        <li value="7" id="LIKE">i esPECially [LIKE] CHOCOLate ICE CREAM.</li>
-        <li className="list-none margin-bottom-20">Tôi đặc biệt [thích] kem sô cô la.</li>
+        <li value="7" id="LIKE">i esPECially LIKE CHOCOLate ICE CREAM.</li>
+        <li className="list-none margin-bottom-20">Tôi đặc biệt thích kem sô-cô-la.</li>
 
-        <li value="8" id="since">i've been FEELing TIred LATEly, esPECially [since] i've been WORKing so HARD.</li>
-        <li className="list-none margin-bottom-20">Gần đây tôi cảm thấy mệt mỏi, đặc biệt là [từ khi] tôi làm việc quá nhiều.</li>
+        <li value="8" id="since">i've been FEELing TIred LATEly, esPECially since i've been WORKing so HARD.</li>
+        <li className="list-none margin-bottom-20">Gần đây tớ cảm thấy mệt mỏi, nhất là từ khi tớ làm việc cực kỳ vất vả.</li>
 
-        <li value="9" id="for">this BOOK is esPECially [for] beGINners.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt dành [cho] người mới bắt đầu.</li>
+        <li value="9" id="for">this BOOK is esPECially for beGINners.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt dành cho người mới bắt đầu.</li>
 
-        <li value="10" id="conSIDering-the">it's a GOOD DEAL, esPECially [conSIDering the] QUALity.</li>
-        <li className="list-none margin-bottom-20">Đó là một giao dịch tốt, đặc biệt [khi xét đến] chất lượng.</li>
+        <li value="10" id="conSIDering-the">it's a GOOD DEAL, esPECially conSIDering the QUALity.</li>
+        <li className="list-none margin-bottom-20">Đây là một món hợp đồng tốt, đặc biệt là khi xét về chất lượng.</li>
 
       </ol>
 

@@ -65,13 +65,13 @@ export default function ALways1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                ALways \<Link to="/pronunciation/5-vowel-system">ÅL wāys</Link>\ /ˈɔːl.weɪz/ ⬤• (TWO SYLlables)
+                ALways \<Link to="/pronunciation/5-vowel-system">AL wāys</Link>\ /ˈɔːl.weɪz/ ⬤• (TWO SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Luôn luôn, mọi lúc</li>
+            <li>Luôn luôn</li>
 
           </ul>
 
@@ -93,7 +93,7 @@ export default function ALways1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cô ấy luôn đến đúng giờ.</li>
 
           <li>my MOTHer ALways COOKS BREAKfast for us.</li>
-          <li className="list-none">Mẹ tôi luôn nấu bữa sáng cho chúng tôi.</li>
+          <li className="list-none">Mẹ tớ luôn luôn nấu bữa sáng cho bọn tớ.</li>
 
         </ul>
 
@@ -177,7 +177,7 @@ export default function ALways1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>this CLOCK is ALways on TIME.</li>
-          <li className="list-none">Đồng hồ này luôn đúng giờ.</li>
+          <li className="list-none">Chiếc đồng hồ này luôn đúng giờ.</li>
 
         </ul>
 
@@ -223,7 +223,7 @@ export default function ALways1(): React.JSX.Element {
             <li className="list-none margin-bottom-20">Nhấn mạnh tính chất liên tục và lặp đi lặp lại của một hành động.</li>
 
             <li value="2">the SUN ALways RIses in the EAST.</li>
-            <li className="list-none">Mặt trời luôn mọc ở hướng đông.</li>
+            <li className="list-none">Mặt Trời luôn mọc ở phía Đông.</li>
             <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh tính chất vĩnh cửu và tuyệt đối của một hành động</span>.</li>
 
           </ol>

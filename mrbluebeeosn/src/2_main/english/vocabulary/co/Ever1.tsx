@@ -71,7 +71,7 @@ export default function EVer1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Bao giờ, từng</li>
+            <li>Bao giờ</li>
 
           </ul>
 
@@ -128,10 +128,10 @@ export default function EVer1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>have you EVer, at ANy TIME, SEEN a UFO?</li>
-          <li className="margin-bottom-20 list-none">Bạn đã từng, bất cứ lúc nào, nhìn thấy UFO chưa?</li>
+          <li className="margin-bottom-20 list-none">Bạn đã bao giờ, vào bất kỳ thời điểm nào, nhìn thấy một chiếc UFO chưa?</li>
 
           <li>on ANy ocCAsion, she is ALways the FIRST to arRIVE.</li>
-          <li className="list-none">Bất cứ dịp nào, cô ấy luôn là người đến đầu tiên.</li>
+          <li className="list-none">Dù trong bất kỳ hoàn cảnh nào, cô ấy cũng luôn là người đến đầu tiên.</li>
 
         </ul>
 
@@ -179,7 +179,7 @@ export default function EVer1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>have you EVer SEEN such a BEAUtiful PHOto?</li>
-          <li className="list-none">Bạn đã từng thấy một bức ảnh đẹp như vậy chưa?</li>
+          <li className="list-none">Bạn đã bao giờ thấy một bức ảnh đẹp đến thế chưa?</li>
 
         </ul>
 
@@ -199,7 +199,7 @@ export default function EVer1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>has she EVer TRIED SUshi?</li>
-          <li className="list-none">Cô ấy đã từng thử sushi chưa?</li>
+          <li className="list-none">Cô ấy đã bao giờ thử sushi chưa?</li>
 
         </ul>
 
@@ -221,7 +221,7 @@ export default function EVer1(): React.JSX.Element {
           <ol>
 
             <li value="1">i have <Link to="/vocabulary/NEVer-1">NEVer</Link> been to the BEACH.</li>
-            <li className="list-none">Tôi chưa bao giờ đi biển.</li>
+            <li className="list-none">Tôi chưa bao giờ đến bãi biển.</li>
             <li className="list-none margin-bottom-20">Dùng để phủ định hoàn toàn một trải nghiệm.</li>
 
             <li value="2">have you EVer been to the BEACH?</li>

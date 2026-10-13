@@ -75,7 +75,7 @@ export default function esPECially1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Đặc biệt là, nhất là</li>
+            <li>Đặc biệt</li>
 
           </ul>
 
@@ -94,10 +94,10 @@ export default function esPECially1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">i LOVE all FRUITS, esPECially APples.</li>
-          <li className="margin-bottom-20 list-none">Tôi thích tất cả các loại trái cây, đặc biệt là táo.</li>
+          <li className="margin-bottom-20 list-none">Tớ thích tất cả các loại trái cây, nhất là táo.</li>
 
           <li>she is VERy GOOD at LANguages, esPECially FRENCH.</li>
-          <li className="list-none">Cô ấy rất giỏi ngoại ngữ, đặc biệt là tiếng Pháp.</li>
+          <li className="list-none">Cô ấy rất giỏi các môn ngoại ngữ, đặc biệt là tiếng Pháp.</li>
 
         </ul>
 
@@ -131,7 +131,7 @@ export default function esPECially1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i am <Link to="/vocabulary/parTICularly-1">parTICularly</Link> FOND of this PAINTing.</li>
-          <li className="margin-bottom-20 list-none">Tôi đặc biệt thích bức tranh này.</li>
+          <li className="margin-bottom-20 list-none">Tôi đặc biệt yêu thích bức tranh này.</li>
 
           <li>i LIKE <strong>man</strong>y SPORTS, in parTICular, SWIMming.</li>
           <li className="list-none">Tôi thích nhiều môn thể thao, đặc biệt là bơi lội.</li>
@@ -156,7 +156,7 @@ export default function esPECially1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Nói chung, tôi thích đi ngủ sớm.</li>
 
           <li>i <Link to="/vocabulary/Usually-1">Usually</Link> HAVE BREAKfast at 7 a.M.</li>
-          <li className="list-none">Tôi thường ăn sáng lúc 7 giờ sáng.</li>
+          <li className="list-none">Thường thì tôi ăn sáng lúc 7 giờ sáng.</li>
 
         </ul>
       
@@ -182,7 +182,7 @@ export default function esPECially1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>esPECially this ONE.</li>
-          <li className="list-none">Đặc biệt là cái này</li>
+          <li className="list-none">Đặc biệt là cái này.</li>
 
         </ul>
 
@@ -202,7 +202,7 @@ export default function esPECially1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i enJOY TRAVeling, esPECially to exOTic PLAces.</li>
-          <li className="list-none">Tôi thích đi du lịch, đặc biệt là đến những nơi kỳ lạ.</li>
+          <li className="list-none">Tôi rất thích đi du lịch, đặc biệt là đến những nơi kỳ thú.</li>
 
         </ul>
 
@@ -227,7 +227,7 @@ export default function esPECially1(): React.JSX.Element {
             <li className="list-none margin-bottom-20">Tôi thích ăn rau.</li>
 
             <li value="2">i LIKE to EAT VEGETables, esPECially BROCcoli.</li>
-            <li className="list-none margin-bottom-20">Tôi thích ăn rau, đặc biệt là bông cải xanh.</li>
+            <li className="list-none margin-bottom-20">Tôi thích ăn rau, đặc biệt là bồ công anh.</li>
 
           </ol>
 

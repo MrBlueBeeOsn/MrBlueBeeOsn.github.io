@@ -118,7 +118,7 @@ export default function NguyenAmDon(): React.JSX.Element {
               <td>/ɔː/</td>
               <td>
                 [SHORE][SHȮRE] /ʃɔːr/<br/>
-                [WAR][WÅR] /wɔːr/
+                [WAR][WAR] /wɔːr/
               </td>
             </tr>
 

@@ -85,7 +85,7 @@ export default function ALways2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              ALways \<Link to="/pronunciation/5-vowel-system">ÅL wāys</Link>\ /ˈɔːl.weɪz/ ⬤• (TWO SYLlables)
+              ALways \<Link to="/pronunciation/5-vowel-system">AL wāys</Link>\ /ˈɔːl.weɪz/ ⬤• (TWO SYLlables)
               
             </span>
               
@@ -103,35 +103,35 @@ export default function ALways2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="KIND-to">she ALways [KIND to] <strong>ever</strong>yone.</li>
-        <li className="list-none margin-bottom-20">Cô ấy luôn luôn [tử tế với] mọi người.</li>
+        <li value="1" id="KIND-to">she ALways KIND to <strong>ever</strong>yone.</li>
+        <li className="list-none margin-bottom-20">Cô ấy luôn tử tế với mọi người.</li>
 
-        <li value="2" id="DOES-before">he ALways [DOES] his HOMEwork [be<strong>fore</strong>] DINner.</li>
-        <li className="list-none margin-bottom-20">Anh ấy luôn [làm] bài tập về nhà [trước khi] ăn tối.</li>
+        <li value="2" id="DOES-before">he ALways DOES his HOMEwork be<strong>fore</strong> DINner.</li>
+        <li className="list-none margin-bottom-20">Cậu ấy luôn làm bài tập về nhà trước bữa tối.</li>
 
-        <li value="3" id="GO-to-on">we ALways [GO to] the PARK [on] SUNdays.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi luôn [đi] công viên [vào] Chủ nhật.</li>
+        <li value="3" id="GO-to-on">we ALways GO to the PARK on SUNdays.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi luôn đi đến công viên vào các ngày Chủ nhật.</li>
 
-        <li value="4" id="EATS-in-the">she ALways [EATS] BREAKfast [in the] MORNing.</li>
-        <li className="list-none margin-bottom-20">Cô ấy luôn [ăn] sáng [vào] buổi sáng.</li>
+        <li value="4" id="EATS-in-the">she ALways EATS BREAKfast in the MORNing.</li>
+        <li className="list-none margin-bottom-20">Cô ấy luôn ăn bữa sáng vào buổi sáng.</li>
 
-        <li value="5" id="READS-before-GOing-to">he ALways [READS] a BOOK [be<strong>fore</strong> GOing to] BED.</li>
-        <li className="list-none margin-bottom-20">Anh ấy luôn [đọc] sách [trước khi] đi ngủ.</li>
+        <li value="5" id="READS-before-GOing-to">he ALways READS a BOOK be<strong>fore</strong> GOing to BED.</li>
+        <li className="list-none margin-bottom-20">Cậu ấy luôn đọc sách trước khi đi ngủ.</li>
 
-        <li value="6" id="FEEL-HAPpy-when">i ALways [FEEL HAPpy when] i SEE her.</li>
-        <li className="list-none margin-bottom-20">Tôi luôn [cảm thấy vui khi] nhìn thấy cô ấy.</li>
+        <li value="6" id="FEEL-HAPpy-when">i ALways FEEL HAPpy when i SEE her.</li>
+        <li className="list-none margin-bottom-20">Tôi luôn cảm thấy hạnh phúc mỗi khi nhìn thấy cô ấy.</li>
 
-        <li value="7" id="reMEMber">i will ALways [reMEMber] your BIRthday.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ luôn [nhớ] ngày sinh nhật của bạn.</li>
+        <li value="7" id="reMEMber">i will ALways reMEMber your BIRthday.</li>
+        <li className="list-none margin-bottom-20">Tớ sẽ luôn nhớ ngày sinh nhật của cậu.</li>
 
-        <li value="8" id="THERE-for">my FRIENDS are ALways [THERE for] me.</li>
-        <li className="list-none margin-bottom-20">Bạn bè tôi luôn [ở bên cạnh] tôi.</li>
+        <li value="8" id="THERE-for">my FRIENDS are ALways THERE for me.</li>
+        <li className="list-none margin-bottom-20">Bạn bè của tớ luôn ở bên cạnh tớ.</li>
 
-        <li value="9" id="on-TIME-for">she is ALways [on TIME for] her apPOINTments.</li>
-        <li className="list-none margin-bottom-20">Cô ấy luôn [đúng giờ cho] các cuộc hẹn của mình.</li>
+        <li value="9" id="on-TIME-for">she is ALways on TIME for her apPOINTments.</li>
+        <li className="list-none margin-bottom-20">Cô ấy luôn đến đúng giờ trong các cuộc hẹn của mình.</li>
 
-        <li value="10" id="the-SAME">his ATtitude is ALways [the SAME].</li>
-        <li className="list-none margin-bottom-20">Thái độ của anh ấy luôn [như vậy].</li>
+        <li value="10" id="the-SAME">his ATtitude is ALways the SAME.</li>
+        <li className="list-none margin-bottom-20">Thái độ của anh ấy luôn luôn như vậy.</li>
 
       </ol>
 

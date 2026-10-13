@@ -75,7 +75,7 @@ export default function parTICularly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>parTICularly</strong>" (đặc biệt) và các cụm từ thường đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>parTICularly</strong>" (đặc biệt là) và các cụm từ thường đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function parTICularly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "đặc biệt", "một cách đặc biệt", thường được dùng để nhấn mạnh một điều gì đó hơn những thứ khác.
+            &nbsp;trong tiếng Anh có nghĩa là "đặc biệt là", "một cách đặc biệt", thường được dùng để nhấn mạnh một điều gì đó hơn những thứ khác.
 
           </p>
 
@@ -103,35 +103,35 @@ export default function parTICularly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="INTERested-in">i am parTICularly [INTERested in] HISTORy.</li>
-        <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến lịch sử.</li>
+        <li value="1" id="INTERested-in">i am parTICularly INTERested in HISTORy.</li>
+        <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến Lịch sử.</li>
 
-        <li value="2" id="FOND-of">she is parTICularly [FOND of] CHOCOLate.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đặc biệt [mê] sô cô la.</li>
+        <li value="2" id="FOND-of">she is parTICularly FOND of CHOCOLate.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đặc biệt thích sô-cô-la.</li>
 
-        <li value="3" id="GOOD-at-PLAYing-the">he is parTICularly [GOOD at PLAYing the] piANo.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đặc biệt [giỏi chơi] piano.</li>
+        <li value="3" id="GOOD-at-PLAYing-the">he is parTICularly GOOD at PLAYing the piANo.</li>
+        <li className="list-none margin-bottom-20">Anh ấy chơi piano đặc biệt giỏi.</li>
 
-        <li value="4" id="CHALlenging">this TASK is parTICularly [CHALlenging].</li>
-        <li className="list-none margin-bottom-20">Nhiệm vụ này đặc biệt [khó khăn / thách thức].</li>
+        <li value="4" id="CHALlenging">this TASK is parTICularly CHALlenging.</li>
+        <li className="list-none margin-bottom-20">Nhiệm vụ này đặc biệt khó khăn.</li>
 
-        <li value="5" id="RELevant-to">this inforMAtion is parTICularly [RELevant to] our disCUSsion.</li>
-        <li className="list-none margin-bottom-20">Thông tin này đặc biệt [liên quan đến] cuộc thảo luận của chúng ta.</li>
+        <li value="5" id="RELevant-to">this inforMAtion is parTICularly RELevant to our disCUSsion.</li>
+        <li className="list-none margin-bottom-20">Thông tin này đặc biệt có liên quan đến cuộc thảo luận của chúng ta.</li>
 
-        <li value="6" id="BEAUtiful-toDAY">the SUNset was parTICularly [BEAUtiful toDAY].</li>
-        <li className="list-none margin-bottom-20">Hoàng hôn [hôm nay] đặc biệt [đẹp].</li>
+        <li value="6" id="BEAUtiful-toDAY">the SUNset was parTICularly BEAUtiful toDAY.</li>
+        <li className="list-none margin-bottom-20">Hôm nay, cảnh hoàng hôn đặc biệt đẹp.</li>
 
-        <li value="7" id="imPORTant-to-arRIVE-on-TIME-for-the">it is parTICularly [imPORTant to arRIVE on TIME for the] MEETing.</li>
-        <li className="list-none margin-bottom-20">Đặc biệt [quan trọng là phải đến đúng giờ cho] cuộc họp.</li>
+        <li value="7" id="imPORTant-to-arRIVE-on-TIME-for-the">it is parTICularly imPORTant to arRIVE on TIME for the MEETing.</li>
+        <li className="list-none margin-bottom-20">Điều đặc biệt quan trọng là phải đến đúng giờ cho cuộc họp.</li>
 
-        <li value="8" id="DIFficult-to-SOLVE">this PROBlem is parTICularly [DIFficult to SOLVE].</li>
-        <li className="list-none margin-bottom-20">Vấn đề này đặc biệt [khó giải quyết].</li>
+        <li value="8" id="DIFficult-to-SOLVE">this PROBlem is parTICularly DIFficult to SOLVE.</li>
+        <li className="list-none margin-bottom-20">Vấn đề này đặc biệt khó giải quyết.</li>
 
-        <li value="9" id="efFECtive-for">this MEDicine is parTICularly [efFECtive for] TREATing HEADaches.</li>
-        <li className="list-none margin-bottom-20">Thuốc này đặc biệt [hiệu quả trong] việc điều trị đau đầu.</li>
+        <li value="9" id="efFECtive-for">this MEDicine is parTICularly efFECtive for TREATing HEADaches.</li>
+        <li className="list-none margin-bottom-20">Loại thuốc này đặc biệt hiệu quả trong việc điều trị đau đầu.</li>
 
-        <li value="10" id="SUITable-for">this BOOK is parTICularly [SUITable for] beGINners.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt [phù hợp cho] người mới bắt đầu.</li>
+        <li value="10" id="SUITable-for">this BOOK is parTICularly SUITable for beGINners.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt phù hợp với người mới bắt đầu.</li>
 
       </ol>
 
