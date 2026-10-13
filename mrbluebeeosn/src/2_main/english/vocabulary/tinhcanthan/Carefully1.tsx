@@ -79,7 +79,7 @@ export default function CAREfully1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách cẩn thận</li>
+            <li>Cẩn thận</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function CAREfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">PLEASE READ the inSTRUCtions CAREfully be<strong>fore</strong> you START.</li>
-          <li className="margin-bottom-20 list-none">Vui lòng đọc kỹ hướng dẫn trước khi bắt đầu.</li>
+          <li className="margin-bottom-20 list-none">Xin vui lòng đọc kỹ các hướng dẫn trước khi bắt đầu.</li>
 
           <li>she CAREfully PACKED her SUITcase for the TRIP.</li>
-          <li className="list-none">Cô ấy cẩn thận đóng gói vali cho chuyến đi.</li>
+          <li className="list-none">Cô ấy đã cẩn thận đóng gói vali để chuẩn bị cho chuyến đi.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function CAREfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">be CAREful with that GLASS.</li>
-          <li className="margin-bottom-20 list-none">Cẩn thận với cái ly đó.</li>
+          <li className="margin-bottom-20 list-none">Hãy cẩn thận với cái ly đó.</li>
 
           <li id="NOUN">she TAKES GOOD CARE of her PLANTS.</li>
-          <li className="list-none">Cô ấy chăm sóc cây cối rất tốt.</li>
+          <li className="list-none">Cô ấy chăm sóc cây cảnh của mình rất tốt.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function CAREfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he WALKED <Link to="/vocabulary/CAUtiously-1">CAUtiously</Link> across the Icy ROAD.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đi thận trọng trên con đường băng.</li>
+          <li className="margin-bottom-20 list-none">Anh ta bước đi thận trọng trên con đường băng giá.</li>
 
           <li>she <Link to="/vocabulary/meTICulously-1">meTICulously</Link> CLEANED the HOUSE.</li>
-          <li className="list-none">Cô ấy lau dọn nhà cửa một cách tỉ mỉ.</li>
+          <li className="list-none">Cô ấy đã dọn dẹp ngôi nhà một cách tỉ mỉ.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function CAREfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he CARElessly THREW the PAper on the FLOOR.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy vứt giấy xuống sàn một cách cẩu thả.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã vô tâm ném tờ giấy xuống sàn nhà.</li>
 
           <li>she ACTed RASHly and MADE a misTAKE.</li>
-          <li className="list-none">Cô ấy hành động hấp tấp và mắc lỗi.</li>
+          <li className="list-none">Cô ấy đã hành động thiếu suy nghĩ và mắc phải một sai lầm.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function CAREfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she is CAREfully WALKing on the TIGHTrope.</li>
-          <li className="list-none">Cô ấy đang đi trên dây thừng một cách cẩn thận.</li>
+          <li className="list-none">Cô ấy đang đi trên dây thăng bằng một cách cẩn thận.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function CAREfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she CAREfully PEELED the APple.</li>
-          <li className="list-none">Cô ấy cẩn thận gọt táo.</li>
+          <li className="list-none">Cô ấy cẩn thận gọt vỏ quả táo.</li>
 
         </ul>
 
@@ -231,10 +231,10 @@ export default function CAREfully1(): React.JSX.Element {
           <ol>
 
             <li value="1">he CROSSED the STREET.</li>
-            <li className="list-none margin-bottom-20">Anh ấy băng qua đường.</li>
+            <li className="list-none margin-bottom-20">Anh ấy bạt qua đường.</li>
 
             <li value="2">he CAREfully CROSSED the STREET be<strong>cause</strong> there was a LOT of TRAFfic.</li>
-            <li className="list-none margin-bottom-20">Anh ấy cẩn thận băng qua đường vì có rất nhiều xe.</li>
+            <li className="list-none margin-bottom-20">Anh ấy cẩn thận băng qua đường vì lúc đó có rất nhiều xe cộ qua lại.</li>
 
           </ol>
 

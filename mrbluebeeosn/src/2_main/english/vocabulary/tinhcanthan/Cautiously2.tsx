@@ -103,35 +103,35 @@ export default function CAUtiously2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="apPROACHED">the CAT CAUtiously [apPROACHED] the unfaMILiar OBject.</li>
-        <li className="list-none margin-bottom-20">Con mèo thận trọng [đã tiếp cận] vật thể lạ.</li>
+        <li value="1" id="apPROACHED">the CAT CAUtiously apPROACHED the unfaMILiar OBject.</li>
+        <li className="list-none margin-bottom-20">Con mèo cẩn trọng tiến lại gần vật thể lạ lẫm đó.</li>
 
-        <li value="2" id="MOVED-through">he CAUtiously [MOVED through] the DARK ROOM, FEEling for OBstacles.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thận trọng [đã di chuyển trong] căn phòng tối, dò dẫm tìm vật cản.</li>
+        <li value="2" id="MOVED-through">he CAUtiously MOVED through the DARK ROOM, FEELing for OBstacles.</li>
+        <li className="list-none margin-bottom-20">Anh ta cẩn thận di chuyển qua căn phòng tối, cố gắng sống sót và tìm các chướng ngại vật.</li>
 
-        <li value="3" id="SPOKE-about">she CAUtiously [SPOKE a<strong>bout</strong>] the SENsitive TOPic.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thận trọng [đã nói về] chủ đề nhạy cảm.</li>
+        <li value="3" id="SPOKE-about">she CAUtiously SPOKE a<strong>bout</strong> the SENsitive TOPic.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã nói một cách thận trọng về chủ đề nhạy cảm này.</li>
 
-        <li value="4" id="eXAMined">the SCIentist CAUtiously [eXAMined] the unKNOWN SUBstance.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học thận trọng [đã kiểm tra] chất lạ.</li>
+        <li value="4" id="eXAMined">the SCIentist CAUtiously eXAMined the unKNOWN SUBstance.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học đã thận trọng kiểm tra chất chưa xác định đó.</li>
 
-        <li value="5" id="proCEEDed-with">they CAUtiously [proCEEDed with] the negotiAtions.</li>
-        <li className="list-none margin-bottom-20">Họ thận trọng [đã tiến hành] các cuộc đàm phán.</li>
+        <li value="5" id="proCEEDed-with">they CAUtiously proCEEDed with the negotiAtions.</li>
+        <li className="list-none margin-bottom-20">Họ đã tiến hành các cuộc đàm phán một cách thận trọng.</li>
 
-        <li value="6" id="inVESTed">he CAUtiously [inVESTed] a SMALL PORtion of his SAvings.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thận trọng [đã đầu tư] một phần nhỏ số tiền tiết kiệm của mình.</li>
+        <li value="6" id="inVESTed">he CAUtiously inVESTed a SMALL PORtion of his SAvings.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã thận trọng đầu tư một phần nhỏ số tiền tiết kiệm của mình.</li>
 
-        <li value="7" id="apPROACHED2">the CHILD CAUtiously [apPROACHED] the EDGE of the CLIFF.</li>
-        <li className="list-none margin-bottom-20">Đứa trẻ thận trọng [đã tiếp cận] mép vách đá.</li>
+        <li value="7" id="apPROACHED2">the CHILD CAUtiously apPROACHED the EDGE of the CLIFF.</li>
+        <li className="list-none margin-bottom-20">Đứa trẻ cẩn trọng tiến lại gần mép vách đá.</li>
 
-        <li value="8" id="Opened">she CAUtiously [Opened] the CREAKing DOOR.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thận trọng [đã mở] cánh cửa kêu cót két.</li>
+        <li value="8" id="Opened">she CAUtiously Opened the CREAKing DOOR.</li>
+        <li className="list-none margin-bottom-20">Cô cẩn trọng mở cánh cửa đang kêu cót két.</li>
 
-        <li value="9" id="TAsted">he CAUtiously [TAsted] the unfaMILiar DISH.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thận trọng [đã nếm] món ăn lạ.</li>
+        <li value="9" id="TAsted">he CAUtiously TAsted the unfaMILiar DISH.</li>
+        <li className="list-none margin-bottom-20">Anh ấy cẩn trọng nếm thử món ăn lạ lẫm đó..</li>
 
-        <li value="10" id="aGREED-to">they CAUtiously [aGREED to] the proPOsal, with <strong>sever</strong>al conDITions.</li>
-        <li className="list-none margin-bottom-20">Họ thận trọng [đã đồng ý với] đề xuất, kèm theo một vài điều kiện.</li>
+        <li value="10" id="aGREED-to">they CAUtiously aGREED to the proPOsal, with <strong>sever</strong>al conDITions.</li>
+        <li className="list-none margin-bottom-20">Họ đã thận trọng đồng ý với đề xuất này, với một số điều kiện.</li>
 
       </ol>
 

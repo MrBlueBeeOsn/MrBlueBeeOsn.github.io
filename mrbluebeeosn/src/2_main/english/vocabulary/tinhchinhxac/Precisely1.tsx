@@ -192,7 +192,7 @@ export default function preCISEly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the JEWeler WORKED preCISEly on the INtricate deSIGN.</li>
+          <li>the JEWEler WORKED preCISEly on the INtricate deSIGN.</li>
           <li className="margin-bottom-20 list-none">Người thợ kim hoàn đã chế tác một cách chính xác từng chi tiết của thiết kế phức tạp này.</li>
 
           <li>the SCIentist MEASured the reSULTS preCISEly.</li>

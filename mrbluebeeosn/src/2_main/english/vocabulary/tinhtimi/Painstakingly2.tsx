@@ -112,13 +112,13 @@ export default function PAINstakingly2(): React.JSX.Element {
         <li value="3" id="creAted">the ARtist PAINstakingly creAted the INtricate SCULPture.</li>
         <li className="list-none margin-bottom-20">Nghệ sĩ đã tỉ mỉ tạo nên tác phẩm điêu khắc tinh xảo này.</li>
 
-        <li value="4" id="PLANNED">the TEAM PAINstakingly PLANNED the eVent to enSURE its sucCESS.</li>
+        <li value="4" id="PLANNED">the TEAM PAINstakingly PLANNED the eVENT to enSURE its sucCESS.</li>
         <li className="list-none margin-bottom-20">Đội ngũ đã lên kế hoạch tỉ mỉ cho sự kiện này để đảm bảo sự thành công của nó.</li>
 
         <li value="5" id="reSTORED">the oRIGinal CAR was PAINstakingly reSTORED to its oRIGinal conDItion.</li>
         <li className="list-none margin-bottom-20">Chiếc xe nguyên bản đã được phục chế một cách tỉ mỉ để trở lại trạng thái ban đầu.</li>
 
-        <li value="6" id="DOCumented">the hisTORian PAINstakingly DOCumented the eVents of the WAR.</li>
+        <li value="6" id="DOCumented">the hisTORian PAINstakingly DOCumented the eVENTs of the WAR.</li>
         <li className="list-none margin-bottom-20">Nhà sử học đã ghi chép một cách tỉ mỉ các sự kiện của cuộc chiến.</li>
 
         <li value="7" id="eXAMined">the deTECtive PAINstakingly eXAMined the CRIME SCENE.</li>
@@ -130,7 +130,7 @@ export default function PAINstakingly2(): React.JSX.Element {
         <li value="9" id="asSEMbled-over">the mOdel AIRplane was PAINstakingly asSEMbled <strong>o</strong>ver SEVEral WEEks.</li>
         <li className="list-none margin-bottom-20">Mô hình máy bay này đã được lắp ráp một cách tỉ mỉ trong suốt vài tuần.</li>
 
-        <li value="10" id="ORganized">the eVent was PAINstakingly ORganized to enSURE a SMOOTH exPErience.</li>
+        <li value="10" id="ORganized">the eVENT was PAINstakingly ORganized to enSURE a SMOOTH exPErience.</li>
         <li className="list-none margin-bottom-20">Sự kiện này đã được tổ chức một cách tỉ mỉ và công phu để đảm bảo một trải nghiệm suôn sẻ.</li>
 
       </ol>

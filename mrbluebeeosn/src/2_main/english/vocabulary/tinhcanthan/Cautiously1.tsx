@@ -83,7 +83,7 @@ export default function CAUtiously1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách thận trọng, cẩn thận, dè dặt</li>
+            <li>Một cách thận trọng</li>
 
           </ul>
 

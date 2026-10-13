@@ -79,7 +79,7 @@ export default function meTICulously1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách tỉ mỉ, kỹ lưỡng, chu đáo</li>
+            <li>Một cách tỉ mỉ</li>
 
           </ul>
 
@@ -98,10 +98,10 @@ export default function meTICulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she meTICulously PLANNED her WEDding.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy lên kế hoạch cho đám cưới của mình một cách rất tỉ mỉ.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã lên kế hoạch cho đám cưới của mình một cách tỉ mỉ.</li>
 
           <li>the SCIentist meTICulously reCORDed the DAta.</li>
-          <li className="list-none">Nhà khoa học ghi chép dữ liệu một cách rất kỹ lưỡng.</li>
+          <li className="list-none">Nhà khoa học đã ghi chép dữ liệu một cách tỉ mỉ.</li>
 
         </ul>
 
@@ -121,7 +121,7 @@ export default function meTICulously1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Anh ấy là một người làm việc rất tỉ mỉ.</li>
 
           <li id="NOUN">her meTICulousness is ADmirable.</li>
-          <li className="list-none">Tính tỉ mỉ của cô ấy rất đáng ngưỡng mộ.</li>
+          <li className="list-none">Sự tỉ mỉ của cô ấy thật đáng ngưỡng mộ.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function meTICulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she <Link to="/vocabulary/CAREfully-1">CAREfully</Link> WRAPPED the GIFT.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy gói quà rất cẩn thận.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã gói món quà một cách cẩn thận.</li>
 
           <li>he <Link to="/vocabulary/THORoughly-1">THORoughly</Link> CLEANED the ROOM.</li>
-          <li className="list-none">Anh ấy đã lau dọn phòng rất kỹ lưỡng.</li>
+          <li className="list-none">Anh ấy đã dọn dẹp phòng thật kỹ lưỡng.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function meTICulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he CARElessly threw aWAY the LETter.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy vứt bức thư đi một cách cẩu thả.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã vứt lá thư đi một cách bất cẩn.</li>
 
           <li>she HAStily FINished her WORK.</li>
-          <li className="list-none">Cô ấy đã hoàn thành công việc của mình một cách vội vàng.</li>
+          <li className="list-none">Cô ấy đã vội vàng hoàn thành công việc của mình.</li>
 
         </ul>
       
@@ -188,8 +188,8 @@ export default function meTICulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the JEWeler is meTICulously CRAFTing the INtricate deSIGN.</li>
-          <li className="list-none">Người thợ kim hoàn đang tỉ mỉ tạo ra một thiết kế phức tạp.</li>
+          <li>the JEWEler is meTICulously CRAFTing the INtricate deSIGN.</li>
+          <li className="list-none">Người thợ kim hoàn đang tỉ mỉ chế tác mẫu thiết kế tinh xảo này.</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function meTICulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the ARTist meTICulously PAINTed the PORtrait.</li>
-          <li className="list-none">Họa sĩ vẽ chân dung một cách rất tỉ mỉ.</li>
+          <li className="list-none">Nghệ sĩ đã vẽ bức chân dung một cách tỉ mỉ.</li>
 
         </ul>
 
@@ -231,10 +231,10 @@ export default function meTICulously1(): React.JSX.Element {
           <ol>
 
             <li value="1">he WROTE the rePORT.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã viết báo cáo.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã soạn bản báo cáo.</li>
 
             <li value="2">he meTICulously WROTE the rePORT.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã viết báo cáo một cách rất tỉ mỉ.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã soạn thảo bản báo cáo một cách tỉ mỉ.</li>
 
           </ol>
 
