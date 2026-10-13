@@ -73,13 +73,13 @@ export default function SOON1(): React.JSX.Element {
 
 						<li>
 							<span className="highlight-255-padding-3-6">
-								[SOON \<Link to="/pronunciation/5-vowel-system">SO͞ON</Link>\ /suːn/ ⬤ (ONE SYLlable)
+								SOON \<Link to="/pronunciation/5-vowel-system">SO͞ON</Link>\ /suːn/ ⬤ (ONE SYLlable)
 							</span>
 						</li>
 
 						<li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-						<li>Sớm, chẳng bao lâu nữa</li>
+						<li>Sớm, sắp ra mắt</li>
 
 					</ul>
 
@@ -98,10 +98,10 @@ export default function SOON1(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li id="ADverb">i'll be BACK SOON.</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ quay lại sớm.</li>
+					<li className="margin-bottom-20 list-none">Tôi sẽ quay lại sớm thôi.</li>
 
 					<li>the PARTy will START SOON.</li>
-					<li className="list-none">Bữa tiệc sẽ bắt đầu sớm.</li>
+					<li className="list-none">Bữa tiệc sẽ bắt đầu sớm thôi.</li>
 
 				</ul>
 
@@ -117,11 +117,11 @@ export default function SOON1(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li id="ADverb-er">when can you COME? the SOONer, the BETter.</li>
-					<li className="list-none">Bạn có thể đến khi nào? Càng sớm càng tốt.</li>
+					<li id="ADverb-er">WHEN can you COME? the SOONer, the BETter.</li>
+					<li className="list-none">Khi nào bạn có thể đến? Càng sớm càng tốt.</li>
 					
 					<li id="ADverb-est">i will rePLY SOONest.</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ phản hồi sớm nhất.</li>
+					<li className="margin-bottom-20 list-none">Tôi sẽ trả lời sớm nhất có thể.</li>
 
 				</ul>
 
@@ -138,9 +138,9 @@ export default function SOON1(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>i will be with you SHORTly.</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ đến với bạn ngay thôi.</li>
+					<li className="margin-bottom-20 list-none">Tôi sẽ đến với bạn trong chốc lát.</li>
 
-					<li>i'll be with you <Link to="/vocabulary/PRESently-1">PREsently</Link>.</li>
+					<li>i'll be with you <Link to="/vocabulary/PRESently-1">PRESently</Link>.</li>
 					<li className="list-none">Tôi sẽ đến với bạn ngay bây giờ.</li>
 
 				</ul>
@@ -160,10 +160,10 @@ export default function SOON1(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>let's MEET LAter.</li>
-					<li className="margin-bottom-20 list-none">Chúng ta gặp nhau sau nhé.</li>
+					<li className="margin-bottom-20 list-none">Hẹn gặp lại sau nhé.</li>
 
 					<li>i will <Link to="/vocabulary/NEVer-1">NEVer</Link> forGET you.</li>
-					<li className="list-none">Tôi sẽ không bao giờ quên bạn.</li>
+					<li className="list-none">Tớ sẽ không bao giờ quên cậu.</li>
 
 				</ul>
 			
@@ -189,7 +189,7 @@ export default function SOON1(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>the CLOCK is COUNTing DOWN. TIME'S UP SOON.</li>
-					<li className="list-none">Đồng hồ đang đếm ngược. Thời gian sắp hết.</li>
+					<li className="list-none">Đồng hồ đang đếm ngược. Thời gian sắp hết rồi.</li>
 
 				</ul>
 
@@ -209,7 +209,7 @@ export default function SOON1(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>the MEETing will START SOON.</li>
-					<li className="list-none">Cuộc họp sẽ bắt đầu sớm.</li>
+					<li className="list-none">Cuộc họp sẽ bắt đầu trong ít phút nữa.</li>
 
 				</ul>
 
@@ -231,10 +231,10 @@ export default function SOON1(): React.JSX.Element {
 					<ol>
 
 						<li value="1">the MEETing will comMENCE SHORTly.</li>
-						<li className="list-none margin-bottom-20">Cuộc họp sẽ bắt đầu trong thời gian ngắn.</li>
+						<li className="list-none margin-bottom-20">Cuộc họp sẽ bắt đầu trong ít phút nữa.</li>
 
 						<li value="2">i'll be BACK SOON.</li>
-						<li className="list-none">Tôi sẽ quay lại sớm.</li>
+						<li className="list-none">Tôi sẽ quay lại sớm thôi.</li>
 
 					</ol>
 

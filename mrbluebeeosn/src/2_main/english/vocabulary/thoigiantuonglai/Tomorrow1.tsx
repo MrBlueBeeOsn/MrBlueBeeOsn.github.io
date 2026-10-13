@@ -94,7 +94,7 @@ export default function toMORrow1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">i will GO to the BEACH toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Ngày mai tôi sẽ đi biển.</li>
+          <li className="margin-bottom-20 list-none">Ngày mai tôi sẽ đi ra bãi biển.</li>
 
           <li>it will be SUNny toMORrow.</li>
           <li className="list-none">Ngày mai trời sẽ nắng.</li>
@@ -114,7 +114,7 @@ export default function toMORrow1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="NOUN">toMORrow is my BIRTHday.</li>
-          <li className="margin-bottom-20 list-none">Ngày mai là sinh nhật của tôi.</li>
+          <li className="margin-bottom-20 list-none">Ngày mai là sinh nhật của tớ.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function toMORrow1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm GOing on a TRIP the DAY <strong>af</strong>ter toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Ngày kia tôi sẽ đi du lịch.</li>
+          <li className="margin-bottom-20 list-none">Ngày mốt, tớ sẽ đi du lịch.</li>
 
           <li>the NEXT DAY, she WENT to SCHOOL.</li>
-          <li className="list-none">Ngày hôm sau cô ấy đến trường.</li>
+          <li className="list-none">Ngày hôm sau, cô bé đi học.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function toMORrow1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i WENT to the PARK YESterday.</li>
-          <li className="margin-bottom-20 list-none">Hôm qua tôi đã đến công viên.</li>
+          <li className="margin-bottom-20 list-none">Hôm qua tôi đã đi công viên.</li>
 
           <li>it is SUNny <Link to="/vocabulary/toDAY-1">toDAY</Link>.</li>
-          <li className="list-none">Trời nắng vào hôm nay.</li>
+          <li className="list-none">Hôm nay trời nắng.</li>
 
         </ul>
       
@@ -182,7 +182,7 @@ export default function toMORrow1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i will SEND you the FInal rePORT toMORrow.</li>
-          <li className="list-none">Tôi sẽ gửi cho bạn bản báo cáo cuối cùng vào ngày mai.</li>
+          <li className="list-none">Tôi sẽ gửi cho bạn báo cáo cuối cùng vào ngày mai.</li>
 
         </ul>
 
@@ -202,7 +202,7 @@ export default function toMORrow1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>let's MEET at the CAFe toMORrow at 2 p.M.</li>
-          <li className="list-none">Chúng ta gặp nhau ở quán cà phê lúc 2 giờ chiều ngày mai nhé.</li>
+          <li className="list-none">Hãy hẹn gặp nhau tại quán cà phê vào ngày mai lúc 2 giờ chiều nhé.</li>
 
         </ul>
 
@@ -224,10 +224,10 @@ export default function toMORrow1(): React.JSX.Element {
           <ol>
 
             <li value="1">i have a TEST the DAY <strong>af</strong>ter toMORrow.</li>
-            <li className="list-none margin-bottom-20">Ngày kia tôi có bài kiểm tra.</li>
+            <li className="list-none margin-bottom-20">Tôi có một bài kiểm tra vào ngày mốt.</li>
 
             <li value="2">i will MEET her toMORrow.</li>
-            <li className="list-none">Ngày mai tôi sẽ gặp cô ấy.</li>
+            <li className="list-none">Tôi sẽ gặp cô ấy vào ngày mai.</li>
 
           </ol>
 
