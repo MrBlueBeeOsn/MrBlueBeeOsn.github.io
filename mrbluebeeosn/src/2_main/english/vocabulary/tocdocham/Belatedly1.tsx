@@ -170,7 +170,7 @@ export default function beLAtedly1(): React.JSX.Element {
           <li>she rePLIED PROMPTly to the EMail.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã trả lời email ngay lập tức.</li>
 
-          <li>the MEEting STARted PUNCtually.</li>
+          <li>the MEEting STARTed PUNCtually.</li>
           <li className="margin-bottom-20 list-none">Cuộc họp bắt đầu đúng giờ.</li>
 
           <li>PLEASE rePORT any ISsues imMEdiately.</li>

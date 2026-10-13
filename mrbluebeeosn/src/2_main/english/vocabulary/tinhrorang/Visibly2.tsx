@@ -118,7 +118,7 @@ export default function VISibly1(): React.JSX.Element {
         <li value="5" id="AGED"><strong>af</strong>ter YEARS of HARD WORK, he LOOKED VISibly AGED.</li>
         <li className="list-none margin-bottom-20">Sau nhiều năm làm việc cần mẫn, anh ấy trông rõ ràng đã già đi.</li>
 
-        <li value="6" id="imPROVED">her HEALTH has VISibly imPROVED since she STARted EXercising.</li>
+        <li value="6" id="imPROVED">her HEALTH has VISibly imPROVED since she STARTed EXercising.</li>
         <li className="list-none margin-bottom-20">Sức khỏe của cô ấy đã cải thiện rõ rệt kể từ khi cô ấy bắt đầu tập thể dục.</li>
 
         <li value="7" id="STRAINED">his FACE was VISibly STRAINED as he LIFted the HEAVy BOX.</li>

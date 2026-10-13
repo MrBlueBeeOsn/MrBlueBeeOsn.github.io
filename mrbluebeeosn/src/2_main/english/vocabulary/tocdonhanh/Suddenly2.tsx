@@ -112,7 +112,7 @@ export default function SUDdenly2(): React.JSX.Element {
         <li value="3" id="apPEARED-in-the">a GHOST SUDdenly apPEARED in the MIRror.</li>
         <li className="list-none margin-bottom-20">Một bóng ma bỗng nhiên xuất hiện trong gương.</li>
 
-        <li value="4" id="CHANGED">the WEAther SUDdenly CHANGED and it STARted to RAIN.</li>
+        <li value="4" id="CHANGED">the WEAther SUDdenly CHANGED and it STARTed to RAIN.</li>
         <li className="list-none margin-bottom-20">Thời tiết bỗng dưng thay đổi và trời bắt đầu mưa.</li>
 
         <li value="5" id="FELT">i SUDdenly FELT a SHARP PAIN in my STOMach.</li>

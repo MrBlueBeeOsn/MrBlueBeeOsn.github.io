@@ -106,10 +106,10 @@ export default function PRESently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">i am PRESently WORKing on this PROJect.</li>
-          <li className="margin-bottom-20 list-none">Hiện tại tôi đang làm việc trên dự án này.</li>
+          <li className="margin-bottom-20 list-none">Hiện tại tôi đang thực hiện dự án này.</li>
 
           <li>the MEETing will beGIN PRESently.</li>
-          <li className="list-none">Cuộc họp sẽ bắt đầu sớm thôi.</li>
+          <li className="list-none">Cuộc họp sẽ bắt đầu ngay bây giờ.</li>
 
         </ul>
 
@@ -126,13 +126,13 @@ export default function PRESently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the PRESent situAtion is VERy DIFFERent.</li>
-          <li className="margin-bottom-20 list-none">Tình hình hiện tại rất khó khăn.</li>
+          <li className="margin-bottom-20 list-none">Tình hình hiện tại hoàn toàn khác biệt.</li>
 
           <li id="VERB">i will preSENT my iDEas at the MEETing.</li>
-          <li className="margin-bottom-20 list-none">Tôi sẽ trình bày ý tưởng của mình tại cuộc họp.</li>
+          <li className="margin-bottom-20 list-none">Tôi sẽ trình bày các ý tưởng của mình tại cuộc họp.</li>
 
           <li id="NOUN">as a PRESent for her graduAtion, i BOUGHT her a NEW LAPtop.</li>
-          <li className="list-none">Như một món quà tốt nghiệp, tôi đã mua cho cô ấy một chiếc laptop mới.</li>
+          <li className="list-none">Để làm quà tặng nhân dịp cô ấy tốt nghiệp, tôi đã mua cho cô ấy một chiếc máy tính xách tay mới.</li>
 
         </ul>
 
@@ -149,10 +149,10 @@ export default function PRESently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i am READing a BOOK <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
-          <li className="margin-bottom-20 list-none">Tôi đang đọc sách bây giờ.</li>
+          <li className="margin-bottom-20 list-none">Tôi đang đọc một cuốn sách.</li>
 
           <li>i will be THERE <Link to="/vocabulary/SOON-1">SOON</Link>.</li>
-          <li className="list-none">Tôi sẽ đến đó sớm.</li>
+          <li className="list-none">Tôi sẽ đến đó ngay.</li>
 
         </ul>
 
@@ -171,10 +171,10 @@ export default function PRESently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i PREviously WORKED as a TEACHer.</li>
-          <li className="margin-bottom-20 list-none">Trước đây tôi làm giáo viên.</li>
+          <li className="margin-bottom-20 list-none">Trước đây, tôi từng làm giáo viên.</li>
 
           <li>we will disCUSS this LAter.</li>
-          <li className="list-none">Chúng ta sẽ thảo luận về điều này sau.</li>
+          <li className="list-none">Chúng ta sẽ thảo luận về vấn đề này sau.</li>
 
         </ul>
       
@@ -200,7 +200,7 @@ export default function PRESently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>PRESently, we are on TRACK with the PROJect TIMEline.</li>
-          <li className="list-none">Hiện tại, chúng ta đang đi đúng tiến độ dự án.</li>
+          <li className="list-none">Hiện tại, chúng tôi đang tiến hành đúng tiến độ của dự án.</li>
 
         </ul>
 
@@ -220,10 +220,10 @@ export default function PRESently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>PRESently, i am EATing an APple.</li>
-          <li className="margin-bottom-20 list-none">Hiện tại, tôi đang ăn táo.</li>
+          <li className="margin-bottom-20 list-none">Hiện tại, tôi đang ăn một quả táo.</li>
 
           <li>the TRAIN will arRIVE PRESently.</li>
-          <li className="list-none">Tàu sẽ đến sớm thôi.</li>
+          <li className="list-none">Tàu sẽ đến ngay thôi.</li>
 
         </ul>
 
@@ -245,10 +245,10 @@ export default function PRESently1(): React.JSX.Element {
           <ol>
 
             <li value="1">i will GO to the STORE <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
-            <li className="list-none margin-bottom-20">Tôi sẽ đi đến cửa hàng bây giờ.</li>
+            <li className="list-none margin-bottom-20">Tớ sẽ đi đến cửa hàng ngay bây giờ.</li>
 
             <li value="2">i will GO to the STORE PRESendly.</li>
-            <li className="list-none margin-bottom-20">Tôi sẽ đi đến cửa hàng sớm thôi.</li>
+            <li className="list-none margin-bottom-20">Tôi sẽ đến cửa hàng ngay bây giờ.</li>
 
           </ol>
 

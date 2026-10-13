@@ -71,7 +71,7 @@ export default function SELdom1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Tính hiếm khi, ít khi</li>
+            <li>Hiếm khi</li>
 
           </ul>
 
@@ -129,7 +129,7 @@ export default function SELdom1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn thịt.</li>
 
           <li>she inFREquently VISits her PARents.</li>
-          <li className="list-none">Cô ấy ít khi đến thăm ba mẹ.</li>
+          <li className="list-none">Cô ấy hiếm khi về thăm ba mẹ.</li>
 
         </ul>
 
@@ -177,7 +177,7 @@ export default function SELdom1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the WATCH SELdom KEEPS ACcurate TIME.</li>
-          <li className="margin-bottom-20 list-none">Chiếc đồng hồ hiếm khi chạy đúng giờ.</li>
+          <li className="margin-bottom-20 list-none">Đồng hồ hiếm khi chạy đúng giờ.</li>
 
           <li>this TYPE of FLOWer SELdom BLOOMS.</li>
           <li className="list-none">Loại hoa này hiếm khi nở.</li>
@@ -200,7 +200,7 @@ export default function SELdom1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she SELdom comPLAINS a<strong>bout</strong> her JOB.</li>
-          <li className="list-none">Cô ấy hiếm khi phàn nàn về công việc.</li>
+          <li className="list-none">Cô ấy hiếm khi phàn nàn về công việc của mình.</li>
 
         </ul>
 
@@ -222,11 +222,11 @@ export default function SELdom1(): React.JSX.Element {
           <ol>
 
             <li value="1">i <Link to="/vocabulary/RAREly-1">RAREly</Link> EAT SPIcy FOOD.</li>
-            <li className="list-none">Tôi hiếm khi ăn đồ ăn cay.</li>
+            <li className="list-none">Tôi hiếm khi ăn đồ cay.</li>
             <li className="list-none margin-bottom-20">Có thể có một vài lần xảy ra, nhưng không thường xuyên.</li>
 
             <li value="2">i SELdom SEE him anyMORE.</li>
-            <li className="list-none">Tôi hầu như không bao giờ gặp anh ấy nữa.</li>
+            <li className="list-none">Tôi hiếm khi gặp anh ấy nữa.</li>
             <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh sự hiếm hoi tuyệt đối</span>.</li>
 
           </ol>

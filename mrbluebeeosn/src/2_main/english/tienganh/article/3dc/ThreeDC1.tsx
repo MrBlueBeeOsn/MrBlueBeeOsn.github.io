@@ -943,7 +943,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<ul className="list-square">
 				
-						<li>he [had HARDly] LEFT the HOUSE when it STARted to POUR.</li>
+						<li>he [had HARDly] LEFT the HOUSE when it STARTed to POUR.</li>
 						<li className="margin-bottom-20 list-none">Anh ấy [đã hầu như chưa] rời khỏi nhà thì trời bắt đầu đổ mưa như trút.</li>
 				
 					</ul>
@@ -953,7 +953,7 @@ export default function ThreeDC1(): React.ReactElement {
 				
 					<ul className="list-square">
 
-						<li>[HARDly had] he LEFT the HOUSE when it STARted to POUR.</li>
+						<li>[HARDly had] he LEFT the HOUSE when it STARTed to POUR.</li>
 						<li className="list-none">[Hầu như đã chưa] anh ấy rời khỏi nhà thì trời bắt đầu đổ mưa như trút.</li>
 				
 					</ul>

@@ -103,35 +103,35 @@ export default function SELdom2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="SEE-at">i SELdom [SEE] her [at] SCHOOL.</li>
-        <li className="list-none margin-bottom-20">Tôi hiếm khi [gặp] cô ấy [ở] trường.</li>
+        <li value="1" id="SEE-at">i SELdom SEE her at SCHOOL.</li>
+        <li className="list-none margin-bottom-20">Tôi hiếm khi gặp cô ấy ở trường.</li>
 
-        <li value="2" id="GOES-to-the">he SELdom [GOES to the] CINema.</li>
-        <li className="list-none margin-bottom-20">Anh ấy hiếm khi [đi] xem phim.</li>
+        <li value="2" id="GOES-to-the">he SELdom GOES to the CINema.</li>
+        <li className="list-none margin-bottom-20">Anh ấy hiếm khi đi xem phim.</li>
 
-        <li value="3" id="EATS">she SELdom [EATS] SPIcy FOOD.</li>
-        <li className="list-none margin-bottom-20">Cô ấy hiếm khi [ăn] đồ ăn cay.</li>
+        <li value="3" id="EATS">she SELdom EATS SPIcy FOOD.</li>
+        <li className="list-none margin-bottom-20">Cô ấy hiếm khi ăn đồ cay.</li>
 
-        <li value="4" id="READ">they SELdom [READ] NEWSpapers.</li>
-        <li className="list-none margin-bottom-20">Họ hiếm khi [đọc] báo.</li>
+        <li value="4" id="READ">they SELdom READ NEWSpapers.</li>
+        <li className="list-none margin-bottom-20">Họ hiếm khi đọc báo.</li>
 
-        <li value="5" id="PLAY">we SELdom [PLAY] SPORTS.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi hiếm khi [chơi] thể thao.</li>
+        <li value="5" id="PLAY">we SELdom PLAY SPORTS.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi hiếm khi chơi thể thao.</li>
 
-        <li value="6" id="HAVE-TIME-to-reLAX">i SELdom [HAVE TIME to reLAX].</li>
-        <li className="list-none margin-bottom-20">Tôi hiếm khi [có thời gian để thư giãn].</li>
+        <li value="6" id="HAVE-TIME-to-reLAX">i SELdom HAVE TIME to reLAX.</li>
+        <li className="list-none margin-bottom-20">Tôi hiếm khi có thời gian để thư giãn.</li>
 
-        <li value="7" id="THINKS-about-the">she SELdom [THINKS a<strong>bout</strong> the] PAST.</li>
-        <li className="list-none margin-bottom-20">Cô ấy hiếm khi [nghĩ về] quá khứ.</li>
+        <li value="7" id="THINKS-about-the">she SELdom THINKS a<strong>bout</strong> the PAST.</li>
+        <li className="list-none margin-bottom-20">Cô ấy hiếm khi nghĩ về quá khứ.</li>
 
-        <li value="8" id="MAKES-misTAKES-in">he SELdom [MAKES misTAKES in] his WORK.</li>
-        <li className="list-none margin-bottom-20">Anh ấy hiếm khi [mắc lỗi trong] công việc.</li>
+        <li value="8" id="MAKES-misTAKES-in">he SELdom MAKES misTAKES in his WORK.</li>
+        <li className="list-none margin-bottom-20">Anh ấy hiếm khi mắc lỗi trong công việc.</li>
 
-        <li value="9" id="FEEL-LONEly">i SELdom [FEEL LONEly].</li>
-        <li className="list-none margin-bottom-20">Tôi hiếm khi [cảm thấy cô đơn].</li>
+        <li value="9" id="FEEL-LONEly">i SELdom FEEL LONEly.</li>
+        <li className="list-none margin-bottom-20">Tôi hiếm khi cảm thấy cô đơn.</li>
 
-        <li value="10" id="COME-to-VISit">they SELdom [COME to VISit] us.</li>
-        <li className="list-none margin-bottom-20">Họ hiếm khi [đến thăm] chúng tôi.</li>
+        <li value="10" id="COME-to-VISit">they SELdom COME to VISit us.</li>
+        <li className="list-none margin-bottom-20">Họ hiếm khi đến thăm chúng tôi.</li>
 
       </ol>
 

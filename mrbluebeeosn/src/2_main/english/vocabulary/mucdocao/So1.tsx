@@ -79,7 +79,7 @@ export default function SO1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Rất, quá; như vậy, thế đó; do đó, vì vậy</li>
+            <li>Vậy, quá, nên</li>
 
           </ul>
 
@@ -96,10 +96,10 @@ export default function SO1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">the MOvie was SO GOOD.</li>
-          <li className="margin-bottom-20 list-none">Bộ phim rất hay.</li>
+          <li className="margin-bottom-20 list-none">Bộ phim đó thật sự tuyệt vời.</li>
 
           <li>she SINGS SO BEAUtifully.</li>
-          <li className="list-none">Cô ấy hát rất hay.</li>
+          <li className="list-none">Cô ấy hát thật đẹp.</li>
 
         </ul>
 
@@ -119,17 +119,17 @@ export default function SO1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="PROnoun">is he COMing? - "i THINK SO."</li>
-          <li className="list-none">Anh ấy có đến không? - "Tôi nghĩ thế."</li>
+          <li className="list-none">Anh ấy có đến không? - “Tôi nghĩ là có.”</li>
           <li className="margin-bottom-20 list-none">Như vậy, thế đó (Dùng để thay thế cho một ý đã được đề cập trước, tránh lặp lại.)</li>
           
           <li id="conJUNCtion">it was RAINing, so we STAYED HOME.</li>
-          <li className="margin-bottom-20 list-none">Trời đang mưa, vì vậy chúng tôi ở nhà.</li>
+          <li className="margin-bottom-20 list-none">Trời đang mưa, nên chúng tôi ở nhà.</li>
 
           <li className="list-none">he WORKED HARD, so he GOT a proMOtion.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã làm việc chăm chỉ, do đó anh ấy được thăng chức.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã làm việc chăm chỉ, nên đã được thăng chức.</li>
 
           <li className="list-none">she SAID she would HELP, and so she DID.</li>
-          <li className="list-none">Cô ấy nói sẽ giúp, và cô ấy đã làm như vậy.</li>
+          <li className="list-none">Cô ấy nói rằng cô ấy sẽ giúp, và thế là cô ấy đã làm thế.</li>
 
         </ul>
 
@@ -149,7 +149,7 @@ export default function SO1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Món ăn rất ngon.</li>
 
           <li>he was ILL; THEREfore, he could NOT atTEND the MEETing.</li>
-          <li className="list-none">Anh ấy bị ốm; do đó, anh ấy không thể tham dự cuộc họp.</li>
+          <li className="list-none">Anh ấy bị ốm; vì vậy, anh ấy không thể tham dự cuộc họp.</li>
 
         </ul>
 
@@ -168,10 +168,10 @@ export default function SO1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the MOvie was <Link to="/vocabulary/NOT-1">NOT</Link> INTEResting.</li>
-          <li className="margin-bottom-20 list-none">Bộ phim không mấy thú vị.</li>
+          <li className="margin-bottom-20 list-none">Bộ phim đó không hấp dẫn.</li>
 
           <li>it was COLD; howEVer, we still WENT for a WALK.</li>
-          <li className="list-none">Trời lạnh; tuy nhiên, chúng tôi vẫn đi dạo.</li>
+          <li className="list-none">Trời lạnh lắm; tuy nhiên, chúng tôi vẫn đi dạo.</li>
 
         </ul>
       
@@ -197,7 +197,7 @@ export default function SO1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>THAT is SO COOL!</li>
-          <li className="margin-bottom-20 list-none">Cái đó thật là ngầu quá xá!</li>
+          <li className="margin-bottom-20 list-none">Điều đó thật tuyệt vời!</li>
 
         </ul>
 
@@ -205,9 +205,8 @@ export default function SO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-
           <li>it STARTed to RAIN, so we WENT HOME.</li>
-          <li className="list-none">Trời bắt đầu mưa, vì vậy chúng tôi đi về nhà.</li>
+          <li className="list-none">Trời bắt đầu mưa, nên chúng tôi về nhà.</li>
 
         </ul>
 
@@ -227,15 +226,15 @@ export default function SO1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she was SO TIred that she FELL aSLEEP imMEdiately.</li>
-          <li className="list-none">Cô ấy mệt đến nỗi cô ấy ngủ thiếp đi ngay lập tức.</li>
+          <li className="list-none">Cô ấy mệt đến mức ngủ thiếp đi ngay lập tức.</li>
           <li className="margin-bottom-20 list-none">➝ SO nhấn mạnh TIred: SO là ADverb</li>
 
           <li>are you COMing to the PARTy? "i THINK SO."</li>
-          <li className="list-none">Bạn có đến bữa tiệc không? "Tôi nghĩ vậy."</li>
+          <li className="list-none">Bạn có đến dự tiệc không? “Tôi nghĩ là có.”</li>
           <li className="margin-bottom-20 list-none">➝ SO thay thế OBject: SO là PROnoun</li>
 
-          <li>it STARted RAINing HEAVily, so we deCIded to GO HOME.</li>
-          <li className="list-none">Trời bắt đầu mưa to, do đó/vì vậy chúng tôi quyết định về nhà.</li>
+          <li>it STARTed RAINing HEAVily, so we deCIded to GO HOME.</li>
+          <li className="list-none">Trời bắt đầu mưa to, nên chúng tôi quyết định về nhà.</li>
           <li className="list-none">➝ so chỉ kết quả: so là conJUNCtion</li>
 
         </ul>
@@ -258,11 +257,11 @@ export default function SO1(): React.JSX.Element {
           <ol>
 
             <li value="1">she was <Link to="/vocabulary/VERy-1">VERy</Link> HAPpy.</li>
-            <li className="list-none">Cô ấy rất hạnh phúc.</li>
+            <li className="list-none">Cô ấy rất vui.</li>
             <li className="list-none margin-bottom-20">Đơn thuần chỉ mức độ. Dùng để chỉ mức độ cao nhưng thường mang tính chất khách quan hơn, ít cảm xúc hơn.</li>
 
             <li value="2">she was SO HAPpy that she CRIED.</li>
-            <li className="list-none">Cô ấy hạnh phúc đến nỗi bật khóc.</li>
+            <li className="list-none">Cô ấy vui đến mức đã khóc.</li>
             <li className="list-none">Nhấn mạnh cảm xúc và kết quả. Thường dùng <span className="highlight-255-padding-0-4">để thể hiện cảm xúc mạnh hơn</span> hoặc bất ngờ về mức độ. Đôi khi có thể đi kèm với câu con "that".</li>
 
           </ol>

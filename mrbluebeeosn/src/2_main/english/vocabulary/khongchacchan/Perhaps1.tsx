@@ -71,7 +71,7 @@ export default function perHAPS1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Có lẽ, có thể</li>
+            <li>Có lẽ</li>
 
           </ul>
 
@@ -90,7 +90,7 @@ export default function perHAPS1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">perHAPS it will RAIN toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Có lẽ ngày mai trời sẽ mưa.</li>
+          <li className="margin-bottom-20 list-none">Có lẽ ngày mai sẽ có mưa.</li>
 
           <li>perHAPS you should CALL her.</li>
           <li className="list-none">Có lẽ bạn nên gọi cho cô ấy.</li>
@@ -126,10 +126,10 @@ export default function perHAPS1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/MAYbe-1">MAYbe</Link> we can GO to the PARK LAter.</li>
-          <li className="margin-bottom-20 list-none">Có lẽ chúng ta có thể đi công viên sau.</li>
+          <li className="margin-bottom-20 list-none">Có lẽ sau này chúng ta có thể đi công viên.</li>
           
           <li>it is <Link to="/vocabulary/POSsibly-1">POSsibly</Link> the BEST BOOK i've EVer READ.</li>
-          <li className="list-none">Có thể đây là cuốn sách hay nhất mà tôi từng đọc.</li>
+          <li className="list-none">Đây có thể là cuốn sách hay nhất mà tôi từng đọc.</li>
 
         </ul>
 
@@ -148,10 +148,10 @@ export default function perHAPS1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> WANT to GO to the PARTy.</li>
-          <li className="margin-bottom-20 list-none">Tôi chắc chắn muốn đi dự tiệc.</li>
+          <li className="margin-bottom-20 list-none">Tớ chắc chắn muốn đi dự tiệc.</li>
 
           <li><Link to="/vocabulary/CERtainly-1">CERtainly</Link>, i will HELP you.</li>
-          <li className="list-none">Certainly, I will help you.</li>
+          <li className="list-none">CERtainly, I will help you.</li>
           <li className="list-none">Chắc chắn rồi, tôi sẽ giúp bạn.</li>
 
         </ul>
@@ -178,7 +178,7 @@ export default function perHAPS1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>it's HARD to SAY for SURE, but perHAPS the PROJect will be deLAYED.</li>
-          <li className="list-none">Thật khó để nói chắc chắn, nhưng có lẽ dự án sẽ bị trì hoãn.</li>
+          <li className="list-none">Rất khó để khẳng định chắc chắn, nhưng có lẽ dự án sẽ bị hoãn lại.</li>
 
         </ul>
 
@@ -197,8 +197,8 @@ export default function perHAPS1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>perHAPS it will RAIN toMORrow.</li>
-          <li className="list-none">Có lẽ trời sẽ mưa vào ngày mai.</li>
+          <li>perHAPS it will RAIN <Link to="/vocabulary/toMORrow-1">toMORrow</Link>.</li>
+          <li className="list-none">Có lẽ ngày mai sẽ có mưa.</li>
 
         </ul>
 
@@ -220,7 +220,7 @@ export default function perHAPS1(): React.JSX.Element {
           <ol>
 
             <li value="1"><Link to="/vocabulary/MAYbe-1">MAYbe</Link> we can gO OUT for DINner toNIGHT.</li>
-            <li className="list-none margin-bottom-20">Có lẽ tối nay chúng ta có thể đi ăn tối.</li>
+            <li className="list-none margin-bottom-20">Có lẽ tối nay chúng ta có thể đi ăn tối ngoài.</li>
             <li className="list-none margin-bottom-20">Thông dụng hơn và thường được sử dụng trong giao tiếp hàng ngày.</li>
 
             <li value="2">perHAPS we should reconSIDer our deCISion.</li>

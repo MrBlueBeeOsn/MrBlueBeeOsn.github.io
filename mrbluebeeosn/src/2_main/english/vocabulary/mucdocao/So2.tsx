@@ -79,7 +79,7 @@ export default function SO2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>SO</strong>" (quá, rất; như vậy) khi nó đóng vai trò là một ADverb trong tiếng Anh nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>SO</strong>" (vậy, quá, nên) khi nó đóng vai trò là một ADverb trong tiếng Anh nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -107,38 +107,38 @@ export default function SO2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="MUCH-for">THANK you SO [MUCH for] your HELP!</li>
-        <li className="list-none margin-bottom-20">Cảm ơn bạn rất [nhiều vì] sự giúp đỡ của bạn!</li>
+        <li value="1" id="MUCH-for">THANK you SO MUCH for your HELP!</li>
+        <li className="list-none margin-bottom-20">Cảm ơn bạn rất nhiều vì sự giúp đỡ của bạn!</li>
 
-        <li value="2" id="many-PEOple">there are SO [<strong>man</strong>y PEOple] here toDAY.</li>
-        <li className="list-none margin-bottom-20">Hôm nay có quá [nhiều người] ở đây.</li>
+        <li value="2" id="many-PEOple">there are SO <strong>man</strong>y PEOple here toDAY.</li>
+        <li className="list-none margin-bottom-20">Hôm nay ở đây có rất nhiều người.</li>
 
-        <li value="3" id="GOOD">this CAKE is SO [GOOD]!</li>
-        <li className="list-none margin-bottom-20">Cái bánh này [ngon] quá!</li>
+        <li value="3" id="GOOD">this CAKE is SO GOOD!</li>
+        <li className="list-none margin-bottom-20">Chiếc bánh này ngon quá!</li>
 
-        <li value="4" id="CAREfully-through">she DROVE SO [CAREfully through] the NARrow STREETS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy lái xe rất [cẩn thận qua] những con phố hẹp.</li>
+        <li value="4" id="CAREfully-through">she DROVE SO CAREfully through the NARrow STREETS.</li>
+        <li className="list-none margin-bottom-20">Cô ấy lái xe rất cẩn thận trên những con đường hẹp.</li>
 
-        <li value="5" id="FAST-when">TIME FLIES SO [FAST when] you're HAVing FUN.</li>
-        <li className="list-none margin-bottom-20">Thời gian trôi [rất nhanh khi] bạn vui vẻ.</li>
+        <li value="5" id="FAST-when">TIME FLIES SO FAST when you're HAVing FUN.</li>
+        <li className="list-none margin-bottom-20">Thời gian trôi quá nhanh khi bạn đang vui vẻ.</li>
 
-        <li value="6" id="that">he STUDied HARD so [that] he could PASS the eXAM.</li>
-        <li className="list-none margin-bottom-20">Anh ấy học chăm chỉ [để mà] anh ấy có thể vượt qua kỳ thi.</li>
+        <li value="6" id="that">he STUDied HARD so that he could PASS the eXAM.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã học rất chăm chỉ để có thể đỗ kỳ thi.</li>
 
-        <li value="7" id="LONG-for-NOW">Well, SO [LONG for NOW]!</li>
-        <li className="list-none margin-bottom-20">Chà, quá [dài cho bây giờ]! (Tạm biệt nhé!)</li>
+        <li value="7" id="LONG-for-NOW">WELL, SO LONG for NOW!</li>
+        <li className="list-none margin-bottom-20">Thế là, tạm biệt trong lúc này!</li>
 
-        <li className="list-none" id="LONG-since">it's been SO [LONG since] we LAST MET.</li>
-        <li className="list-none margin-bottom-20">Đã quá [lâu rồi kể từ] lần cuối chúng ta gặp nhau.</li>
+        <li className="list-none" id="LONG-since">it's been SO LONG since we LAST MET.</li>
+        <li className="list-none margin-bottom-20">Đã lâu quá rồi kể từ lần cuối chúng ta gặp nhau.</li>
 
-        <li value="8" id="WHAT">i MADE a misTAKE. "SO [WHAT]? <strong>ever</strong>yone MAKES misTAKES".</li>
-        <li className="list-none margin-bottom-20">Tôi đã mắc lỗi. "Vậy [cái gì]? (Thì sao?) Ai cũng mắc lỗi mà."</li>
+        <li value="8" id="WHAT">i MADE a misTAKE. "SO WHAT? <strong>ever</strong>yone MAKES misTAKES".</li>
+        <li className="list-none margin-bottom-20">Tôi đã mắc lỗi. “Thì sao? Ai cũng mắc lỗi mà.”</li>
 
-        <li value="9" id="ON">we disCUSSED the BUDget, the TIMEline, the reSOURces, and SO [ON].</li>
-        <li className="list-none margin-bottom-20">Chúng tôi đã thảo luận về ngân sách, thời gian biểu, nguồn lực, và [vân vân].</li>
+        <li value="9" id="ON">we disCUSSED the BUDget, the TIMEline, the reSOURces, and SO ON.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi đã thảo luận về ngân sách, tiến độ, nguồn lực, v.v.</li>
 
-        <li value="10" id="do-i-am-i">i LOVE CHOColate. "SO [do i].", "SO [am i]".</li>
-        <li className="list-none margin-bottom-20">Tôi thích sô cô la. ["Tôi cũng vậy."]</li>
+        <li value="10" id="do-i-am-i">i LOVE CHOColate. "SO do i.", "SO am i".</li>
+        <li className="list-none margin-bottom-20">Tớ thích sô-cô-la. "Tớ cũng vậy.", "Tớ cũng thế."</li>
 
       </ol>
 

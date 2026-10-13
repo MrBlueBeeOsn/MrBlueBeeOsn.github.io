@@ -103,35 +103,35 @@ export default function perHAPS2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="howEVer">perHAPS, [HOWEVer], we should conSIDer OTHer OPTions.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, tuy nhiên, chúng ta nên xem xét các lựa chọn khác.</li>
+        <li value="1" id="howEVer">perHAPS, HOWEVer, we should conSIDer OTHer OPTions.</li>
+        <li className="list-none margin-bottom-20">Tuy nhiên, có lẽ chúng ta nên xem xét các phương án khác.</li>
 
-        <li value="2" id="on-the-OTHer-HAND">perHAPS, [on the OTHer HAND], she is JUST TIred.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, [mặt khác], cô ấy chỉ đơn giản là mệt mỏi.</li>
+        <li value="2" id="on-the-OTHer-HAND">perHAPS, on the OTHer HAND, she is JUST TIred.</li>
+        <li className="list-none margin-bottom-20">Có thể, mặt khác, cô ấy chỉ đơn giản là mệt mỏi thôi.</li>
 
-        <li value="3" id="it-is-POSsible-that">perHAPS, [it is POSsible that] he forGOT.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, [có thể là] anh ấy đã quên.</li>
+        <li value="3" id="it-is-POSsible-that">perHAPS, it is POSsible that he forGOT.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, có thể là anh ấy đã quên.</li>
 
-        <li value="4" id="it-is-TRUE-that">perHAPS, [it is TRUE that] she is NOT INTERested.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, [đúng là] cô ấy không hứng thú.</li>
+        <li value="4" id="it-is-TRUE-that">perHAPS, it is TRUE that she is NOT INTERested.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, đúng là cô ấy không có hứng thú.</li>
 
-        <li value="5" id="if-you-STUDy-HARder">perHAPS, [if you STUDy HARder], you will PASS the eXAM.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, [nếu bạn học chăm chỉ hơn], bạn sẽ vượt qua kỳ thi.</li>
+        <li value="5" id="if-you-STUDy-HARder">perHAPS, if you STUDy HARder, you will PASS the eXAM.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, nếu bạn học chăm chỉ hơn, bạn sẽ đỗ kỳ thi.</li>
 
-        <li value="6" id="in-THAT-CASE">perHAPS, [in THAT CASE], we should postPONE the MEETing.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, [trong trường hợp đó], chúng ta nên hoãn cuộc họp.</li>
+        <li value="6" id="in-THAT-CASE">perHAPS, in THAT CASE, we should postPONE the MEETing.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, trong trường hợp đó, chúng ta nên hoãn cuộc họp lại.</li>
 
-        <li value="7" id="instead-of-GOing-to-the">perHAPS, [in<strong>stead</strong> of GOing to the] MOvies, we could STAY HOME and WATCH a DVD.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, [thay vì đi] xem phim, chúng ta có thể ở nhà và xem DVD.</li>
+        <li value="7" id="instead-of-GOing-to-the">perHAPS, in<strong>stead</strong> of GOing to the MOvies, we could STAY HOME and WATCH a DVD.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, thay vì đi xem phim, chúng ta có thể ở nhà và xem đĩa DVD.</li>
 
-        <li value="8" id="we-should-ASK-for">perHAPS, [we should ASK for] HELP.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, [chúng ta nên nhờ] giúp đỡ.</li>
+        <li value="8" id="we-should-ASK-for">perHAPS, we should ASK for HELP.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, chúng ta nên xin giúp đỡ.</li>
 
-        <li value="9" id="i-THINK">perHAPS, [i THINK] it's TIME to GO HOME.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, [tôi nghĩ] đã đến lúc về nhà.</li>
+        <li value="9" id="i-THINK">perHAPS, i THINK it's TIME to GO HOME.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, tớ nghĩ đã đến lúc về nhà rồi.</li>
 
-        <li value="10" id="it-SEEMS-that">perHAPS, [it SEEMS that] he is ANGry.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, [dường như] anh ấy đang tức giận.</li>
+        <li value="10" id="it-SEEMS-that">perHAPS, it SEEMS that he is ANGry.</li>
+        <li className="list-none margin-bottom-20">Có lẽ, có vẻ như anh ấy đang giận.</li>
 
       </ol>
 

@@ -164,7 +164,7 @@ export default function SUDdenly1(): React.JSX.Element {
           <li>the PLANT GREW GRADually TALler.</li>
           <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
 
-          <li>as exPECted, it STARted to RAIN.</li>
+          <li>as exPECted, it STARTed to RAIN.</li>
           <li className="list-none">Đúng như dự đoán, trời bắt đầu mưa.</li>
 
         </ul>
