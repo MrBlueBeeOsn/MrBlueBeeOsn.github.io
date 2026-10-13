@@ -65,7 +65,7 @@ export default function VERy1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                VEry \<Link to="/pronunciation/5-vowel-system">VER y</Link>\ /ˈveri/ ⬤• (TWO SYLlables)
+                VERy \<Link to="/pronunciation/5-vowel-system">VER y</Link>\ /ˈveri/ ⬤• (TWO SYLlables)
               </span>
             </li>
 
@@ -90,10 +90,10 @@ export default function VERy1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">she is VERy BEAUtiful.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy rất đẹp.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy rất xinh đẹp.</li>
 
           <li>he RUNS VERy FAST.</li>
-          <li className="list-none">Anh ấy chạy rất nhanh.</li>
+          <li className="list-none">Cậu ấy chạy rất nhanh.</li>
 
         </ul>
 
@@ -129,7 +129,7 @@ export default function VERy1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cô ấy cực kỳ thông minh.</li>
 
           <li>he <Link to="/vocabulary/HIGHly-1">HIGHly</Link> MOtivated.</li>
-          <li className="list-none">Anh ấy có động lực rất cao.</li>
+          <li className="list-none">Cậu ấy chạy rất nhanh.</li>
 
         </ul>
 
@@ -148,7 +148,7 @@ export default function VERy1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm SLIGHTly TIred.</li>
-          <li className="margin-bottom-20 list-none">Tôi hơi mệt.</li>
+          <li className="margin-bottom-20 list-none">Tớ hơi mệt một chút.</li>
 
           <li>she <Link to="/vocabulary/NOT-1">NOT</Link> VERy TALL.</li>
           <li className="list-none">Cô ấy không cao lắm.</li>
@@ -219,7 +219,7 @@ export default function VERy1(): React.JSX.Element {
           <ol>
 
             <li value="1">she <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link> HAPpy.</li>
-            <li className="list-none">Cô ấy vui sướng vô cùng.</li>
+            <li className="list-none">Cô ấy cực kỳ hạnh phúc.</li>
             <li className="list-none margin-bottom-20">Nhấn mạnh một mức độ cực kỳ cao.</li>
 
             <li value="2">she VERy HAPpy.</li>

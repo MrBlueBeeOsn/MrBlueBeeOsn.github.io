@@ -71,7 +71,7 @@ export default function SOMEtimes1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Tính thỉnh thoảng, đôi khi</li>
+            <li>Đôi khi</li>
 
           </ul>
 
@@ -90,10 +90,10 @@ export default function SOMEtimes1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">i SOMEtimes GO to the GYM <strong>af</strong>ter WORK.</li>
-          <li className="margin-bottom-20 list-none">Tôi thỉnh thoảng đi tập gym sau giờ làm.</li>
+          <li className="margin-bottom-20 list-none">Thỉnh thoảng tôi đi tập gym sau giờ làm việc.</li>
 
           <li>it SOMEtimes RAINS in the SUMmer.</li>
-          <li className="list-none">Mùa hè đôi khi cũng mưa.</li>
+          <li className="list-none">Đôi khi vào mùa hè cũng có mưa.</li>
 
         </ul>
 
@@ -126,9 +126,9 @@ export default function SOMEtimes1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>we <Link to="/vocabulary/ocCAsionally-1">ocCAsionall</Link> MEET for COFfee.</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi thỉnh thoảng gặp nhau để uống cà phê.</li>
+          <li className="margin-bottom-20 list-none">Thỉnh thoảng chúng tôi gặp nhau để uống cà phê.</li>
 
-          <li>from TIME to TIME, I LIKE to WATCH MOvies.</li>
+          <li>from TIME to TIME, i LIKE to WATCH MOvies.</li>
           <li className="list-none">Thỉnh thoảng, tôi thích xem phim.</li>
 
         </ul>
@@ -177,7 +177,7 @@ export default function SOMEtimes1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the WATCH is RUNning erRATically; the SECond HAND SOMEtimes JUMPS.</li>
-          <li className="list-none">Đồng hồ chạy không đều; kim giây đôi khi nhảy.</li>
+          <li className="list-none">Đồng hồ đang chạy không đều; kim giây thỉnh thoảng nhảy vọt.</li>
 
         </ul>
 
@@ -196,8 +196,8 @@ export default function SOMEtimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I FEEL HAPpy SOMEtimes, but OTHer TIMES I FEEL SAD.</li>
-          <li className="list-none">Tôi cảm thấy hạnh phúc đôi khi, nhưng những lúc khác tôi lại cảm thấy buồn.</li>
+          <li>i FEEL HAPpy SOMEtimes, but OTHer TIMES i FEEL SAD.</li>
+          <li className="list-none">Đôi khi tôi cảm thấy hạnh phúc, nhưng có lúc tôi lại cảm thấy buồn.</li>
 
         </ul>
 
@@ -219,11 +219,11 @@ export default function SOMEtimes1(): React.JSX.Element {
           <ol>
 
             <li value="1">we <Link to="/vocabulary/ocCAsionally-1">ocCAsionally</Link> MEET for LUNCH.</li>
-            <li className="list-none">Chúng tôi thỉnh thoảng gặp nhau để ăn trưa.</li>
+            <li className="list-none">Thỉnh thoảng chúng tôi gặp nhau để ăn trưa.</li>
             <li className="list-none margin-bottom-20">Mang ý nghĩa lịch sự hơn và nhấn mạnh tính ngẫu nhiên.</li>
 
-            <li value="2">I SOMEtimes forGET to BRING my umBRELla.</li>
-            <li className="list-none">Tôi đôi khi quên mang ô.</li>
+            <li value="2">i SOMEtimes forGET to BRING my umBRELla.</li>
+            <li className="list-none">Đôi khi tôi lại quên mang theo chiếc ô của mình.</li>
             <li className="list-none"><span className="highlight-255-padding-0-4">Mang ý nghĩa chung chung về sự không thường xuyên</span>.</li>
 
           </ol>
@@ -238,7 +238,7 @@ export default function SOMEtimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Sometimes</strong>" thường đứng trước hành động chính trong câu.</li>
+          <li>"<strong>SOMEtimes</strong>" thường đứng trước hành động chính trong câu.</li>
 
           <li className="margin-bottom-20">Nó có thể được sử dụng để diễn tả sự không chắc chắn hoặc sự thay đổi về tần suất.</li>
 

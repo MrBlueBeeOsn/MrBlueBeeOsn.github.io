@@ -103,35 +103,35 @@ export default function toDAY2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="is-MONday">toDAY [is MONday].</li>
+        <li value="1" id="is-MONday">toDAY is MONday.</li>
         <li className="list-none margin-bottom-20">Hôm nay là thứ Hai.</li>
 
-        <li value="2" id="i-am-GOing-to">toDAY, [i am GOing to] the PARK.</li>
-        <li className="list-none margin-bottom-20">Hôm nay, tôi sẽ đi công viên.</li>
+        <li value="2" id="i-am-GOing-to">toDAY, i am GOing to the PARK.</li>
+        <li className="list-none margin-bottom-20">Hôm nay, tớ sẽ đi công viên.</li>
 
-        <li value="3" id="as-of">[as of] toDAY, we have SOLD ONE HUNdred PROJects.</li>
-        <li className="list-none margin-bottom-20">Tính đến hôm nay, chúng tôi đã bán được 100 sản phẩm.</li>
+        <li value="3" id="as-of">as of toDAY, we have SOLD ONE HUNdred PROJects.</li>
+        <li className="list-none margin-bottom-20">Tính đến hôm nay, chúng tôi đã bán được một trăm dự án.</li>
 
-        <li value="4" id="Even">[Even] toDAY, <strong>man</strong>y PEOple beLIEVE in GHOSTS.</li>
-        <li className="list-none margin-bottom-20">[Ngay cả] ngày nay, nhiều người vẫn tin vào ma.</li>
+        <li value="4" id="Even">Even toDAY, <strong>man</strong>y PEOple beLIEVE in GHOSTS.</li>
+        <li className="list-none margin-bottom-20">Ngay cả ngày nay, vẫn có nhiều người tin vào ma.</li>
 
-        <li value="5" id="CALL-LAter">i will [CALL] you [LAter] toDAY.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ [gọi] cho bạn [vào cuối ngày] hôm nay.</li>
+        <li value="5" id="CALL-LAter">i will CALL you LAter toDAY.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ gọi cho bạn vào cuối ngày hôm nay.</li>
 
-        <li value="6" id="MET-EARlier">i [MET] him [EARlier] toDAY.</li>
-        <li className="list-none margin-bottom-20">Tôi [gặp] anh ấy [sớm hơn] hôm nay.</li>
+        <li value="6" id="MET-EARlier">i MET him EARlier toDAY.</li>
+        <li className="list-none margin-bottom-20">Hôm nay tôi đã gặp anh ấy lúc sớm hơn.</li>
 
-        <li value="7" id="from-ONwards">[from] toDAY [ONwards], i will START EXercising.</li>
-        <li className="list-none margin-bottom-20">[Từ] hôm nay [trở đi], tôi sẽ bắt đầu tập thể dục.</li>
+        <li value="7" id="from-ONwards">from toDAY ONwards, i will START EXercising.</li>
+        <li className="list-none margin-bottom-20">Từ hôm nay trở đi, tôi sẽ bắt đầu tập thể dục.</li>
 
-        <li value="8" id="is-the-DAY-i-get">toDAY [is the DAY i get] MARried.</li>
-        <li className="list-none margin-bottom-20">Hôm nay [là ngày tôi] kết hôn.</li>
+        <li value="8" id="is-the-DAY-i-get">toDAY is the DAY i get MARried.</li>
+        <li className="list-none margin-bottom-20">Hôm nay là ngày tôi kết hôn.</li>
 
-        <li value="9" id="UP-to">[UP to] toDAY, we have comPLEted FIFty perCENT of the PROJect.</li>
-        <li className="list-none margin-bottom-20">Cho đến hôm nay, chúng tôi đã hoàn thành 50% dự án.</li>
+        <li value="9" id="UP-to">UP to toDAY, we have comPLEted FIFty perCENT of the PROJect.</li>
+        <li className="list-none margin-bottom-20">Tính đến hôm nay, chúng tôi đã hoàn thành 50% dự án.</li>
 
-        <li value="10" id="on-this-DAY">[on this DAY], <strong>man</strong>y YEARS aGO, a GREAT WAR beGAN.</li>
-        <li className="list-none margin-bottom-20">[Vào ngày này], nhiều năm trước, một cuộc chiến tranh lớn đã bắt đầu.</li>
+        <li value="10" id="on-this-DAY">on this DAY, <strong>man</strong>y YEARS aGO, a GREAT WAR beGAN.</li>
+        <li className="list-none margin-bottom-20">Vào ngày này, cách đây nhiều năm, một cuộc chiến lớn đã bắt đầu.</li>
 
       </ol>
 

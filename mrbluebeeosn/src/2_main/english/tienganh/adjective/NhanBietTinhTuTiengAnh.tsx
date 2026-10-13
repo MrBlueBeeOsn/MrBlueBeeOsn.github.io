@@ -184,7 +184,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Even in her SEVenties, she reMAINS VEry <strong>ACtive</strong> and GOES JOGging <strong>ever</strong>y MORNing.</li>
+					<li>Even in her SEVenties, she reMAINS VERy <strong>ACtive</strong> and GOES JOGging <strong>ever</strong>y MORNing.</li>
 					<li className="margin-bottom-20 list-none">Dù đã ở tuổi bảy mươi, bà ấy vẫn rất <strong>năng động</strong> và đi chạy bộ mỗi buổi sáng.</li>
 			
 					<li>the MARketing TEAM caME UP with a <strong>creAtive</strong> camPAIGN to atTRACT YOUNGer CUStomers.</li>
@@ -196,7 +196,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>REGular HANDwashing is ONE of the MOST <strong>efFECtive</strong> WAYS to preVENT the SPREAD of ILLness.</li>
 					<li className="margin-bottom-20 list-none">Rửa tay thường xuyên là một trong những cách <strong>hiệu quả</strong> nhất để ngăn chặn sự lây lan của bệnh tật.</li>
 			
-					<li>you NEED to be CAREful with your WORDS be<strong>cause</strong> she is VEry <strong>SENsitive</strong> to CRITicism.</li>
+					<li>you NEED to be CAREful with your WORDS be<strong>cause</strong> she is VERy <strong>SENsitive</strong> to CRITicism.</li>
 					<li className="list-none">Bạn cần cẩn thận với lời nói của mình vì cô ấy rất <strong>nhạy cảm</strong> với những lời chỉ trích.</li>
 			
 				</ul>
@@ -208,7 +208,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>she LOOKED VEry <strong>HAPpy</strong> when she reCEIVED the GOOD NEWS a<strong>bout</strong> her proMOtion.</li>
+					<li>she LOOKED VERy <strong>HAPpy</strong> when she reCEIVED the GOOD NEWS a<strong>bout</strong> her proMOtion.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy trông rất <strong>vui vẻ</strong> khi nhận được tin vui về việc được thăng chức.</li>
 			
 					<li>it was a COLD and <strong>RAIny</strong> afterNOON, so we deCIDed to STAY inDOORS and WATCH a MOvie.</li>
@@ -245,7 +245,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>the KIDS were SO <strong>exCIted</strong> a<strong>bout</strong> GOing to the aMUSEment PARK toMORrow.</li>
 					<li className="margin-bottom-20 list-none">Bọn trẻ rất <strong>hào hứng</strong> về việc đi công viên giải trí vào ngày mai.</li>
 			
-					<li>i am VEry <strong>INTERested</strong> in LEARNing MORE a<strong>bout</strong> artiFIcial inTELligence.</li>
+					<li>i am VERy <strong>INTERested</strong> in LEARNing MORE a<strong>bout</strong> artiFIcial inTELligence.</li>
 					<li className="margin-bottom-20 list-none">Tôi rất <strong>quan tâm</strong> đến việc tìm hiểu thêm về trí tuệ nhân tạo.</li>
 			
 					<li>we were <strong>surPRISED</strong> by the unexPECted BIRTHday PARTy our FRIENDS THREW for us.</li>
@@ -265,7 +265,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>the LECture was SO <strong>BORing</strong> that MOST of the STUdents FELL aSLEEP.</li>
 					<li className="margin-bottom-20 list-none">Bài giảng <strong>nhàm chán</strong> đến mức phần lớn học sinh đã ngủ gật.</li>
 			
-					<li>HIKing up the MOUNtain all DAY was VEry <strong>TIRing</strong>, but the VIEW at the TOP was WORTH it.</li>
+					<li>HIKing up the MOUNtain all DAY was VERy <strong>TIRing</strong>, but the VIEW at the TOP was WORTH it.</li>
 					<li className="margin-bottom-20 list-none">Việc đi bộ đường dài lên núi suốt cả ngày rất <strong>mệt</strong>, nhưng phong cảnh trên đỉnh thì rất đáng giá.</li>
 
 					<li>she TOLD me an <strong>INTEResting</strong> STOry a<strong>bout</strong> her TRIP to jaPAN.</li>

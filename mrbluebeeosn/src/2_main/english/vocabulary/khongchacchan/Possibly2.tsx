@@ -103,35 +103,35 @@ export default function POSsibly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="the-BEST-COFfee">THIS is POSsibly [the BEST COFfee] i've EVer TAsted</li>
-        <li className="list-none margin-bottom-20">Đây có thể là [ly cà phê ngon nhất mà] tôi từng uống.</li>
+        <li value="1" id="the-BEST-COFfee">THIS is POSsibly the BEST COFfee i've EVer TAsted.</li>
+        <li className="list-none margin-bottom-20">Đây có lẽ là ly cà phê ngon nhất mà tôi từng được nếm thử.</li>
 
-        <li value="2" id="TRUE-but">what he SAID is POSsibly [TRUE, but] i'm NOT SURE</li>
-        <li className="list-none margin-bottom-20">Những gì anh ấy nói có thể là [đúng, nhưng] tôi không chắc chắn.</li>
+        <li value="2" id="TRUE-but">what he SAID is POSsibly TRUE, but i'm NOT SURE.</li>
+        <li className="list-none margin-bottom-20">Những gì anh ấy nói có thể là đúng, nhưng tớ không chắc.</li>
 
-        <li value="3" id="DANgerous-due-to-the">SWIMming in this LAKE is POSsibly [DANgerous due to the] STRONG CURrents</li>
-        <li className="list-none margin-bottom-20">Bơi ở hồ này có thể [nguy hiểm do] dòng chảy mạnh.</li>
+        <li value="3" id="DANgerous-due-to-the">SWIMming in this LAKE is POSsibly DANgerous due to the STRONG CURrents.</li>
+        <li className="list-none margin-bottom-20">Việc bơi lội ở hồ này có thể rất nguy hiểm do dòng chảy mạnh.</li>
 
-        <li value="4" id="the-WORST-MOvie">THIS is POSsibly [the WORST MOvie] i've EVer SEEN</li>
-        <li className="list-none margin-bottom-20">Đây có thể là [bộ phim tệ nhất mà] tôi từng xem.</li>
+        <li value="4" id="the-WORST-MOvie">THIS is POSsibly the WORST MOvie i've EVer SEEN.</li>
+        <li className="list-none margin-bottom-20">Đây có lẽ là bộ phim tệ nhất mà tôi từng xem.</li>
 
-        <li value="5" id="LOST-in-the">my KEYS are POSsibly [LOST] SOMEwhere [in the] HOUSE</li>
-        <li className="list-none margin-bottom-20">Chìa khóa của tôi có thể [bị mất] ở đâu đó [trong] nhà.</li>
+        <li value="5" id="LOST-in-the">my KEYS are POSsibly LOST SOMEwhere in the HOUSE.</li>
+        <li className="list-none margin-bottom-20">Có thể chìa khóa của tôi đã bị mất ở đâu đó trong nhà.</li>
 
-        <li value="6" id="misunderSTOOD">my WORDS were POSsibly [misunderSTOOD]</li>
-        <li className="list-none margin-bottom-20">Có thể là lời nói của tôi [đã bị hiểu nhầm].</li>
+        <li value="6" id="misunderSTOOD">my WORDS were POSsibly misunderSTOOD.</li>
+        <li className="list-none margin-bottom-20">Có thể những lời nói của tôi đã bị hiểu lầm.</li>
 
-        <li value="7" id="due-to-BAD-WEATHer">the FLIGHT is POSsibly deLAYED [due to BAD WEATHer].</li>
-        <li className="list-none margin-bottom-20">Chuyến bay có thể bị trì hoãn [do thời tiết xấu].</li>
+        <li value="7" id="due-to-BAD-WEATHer">the FLIGHT is POSsibly deLAYED due to BAD WEATHer.</li>
+        <li className="list-none margin-bottom-20">Chuyến bay có thể bị hoãn do thời tiết xấu.</li>
 
-        <li value="8" id="reLAted">these TWO eVENTS are POSsibly [reLAted].</li>
-        <li className="list-none margin-bottom-20">Hai sự kiện này có thể [có liên quan với nhau].</li>
+        <li value="8" id="reLAted">these TWO eVENTS are POSsibly reLAted.</li>
+        <li className="list-none margin-bottom-20">Hai sự kiện này có thể có liên quan đến nhau.</li>
 
-        <li value="9" id="HARMful-to">EATing TOO much SUgar is POSsibly [HARMful to] your HEALTH</li>
-        <li className="list-none margin-bottom-20">Ăn quá nhiều đường có thể [có hại cho] sức khỏe của bạn.</li>
+        <li value="9" id="HARMful-to">EATing TOO much SUgar is POSsibly HARMful to your HEALTH.</li>
+        <li className="list-none margin-bottom-20">Ăn quá nhiều đường có thể gây hại cho sức khỏe của bạn.</li>
 
-        <li value="10" id="the-BEST-OPTion-for">MOving to a NEW CITy is POSsibly [the BEST OPTion for] my caREER</li>
-        <li className="list-none margin-bottom-20">Chuyển đến thành phố mới có thể là [lựa chọn tốt nhất cho] sự nghiệp của tôi.</li>
+        <li value="10" id="the-BEST-OPTion-for">MOving to a NEW CITy is POSsibly the BEST OPTion for my caREER.</li>
+        <li className="list-none margin-bottom-20">Chuyển đến một thành phố mới có lẽ là lựa chọn tốt nhất cho sự nghiệp của tôi.</li>
 
       </ol>
 

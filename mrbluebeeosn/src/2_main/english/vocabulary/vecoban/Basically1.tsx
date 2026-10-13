@@ -119,10 +119,10 @@ export default function BAsically1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">the BAsic iDEa is VEry SIMple.</li>
+          <li id="ADjective">the BAsic iDEa is VERy SIMple.</li>
           <li className="margin-bottom-20 list-none">Ý tưởng cơ bản rất đơn giản.</li>
 
-          <li id="NOUN">the BASE of the PYramid is VEry WIDE.</li>
+          <li id="NOUN">the BASE of the PYramid is VERy WIDE.</li>
           <li className="list-none">Đế của kim tự tháp rất rộng.</li>
 
         </ul>

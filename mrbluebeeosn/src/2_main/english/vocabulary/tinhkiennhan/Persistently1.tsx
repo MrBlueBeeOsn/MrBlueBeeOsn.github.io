@@ -121,7 +121,7 @@ export default function perSISTently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADjective">she's a VEry perSIStent PERson.</li>
+          <li id="ADjective">she's a VERy perSIStent PERson.</li>
           <li className="margin-bottom-20 list-none">Cô ấy là một người rất kiên trì.</li>
           
           <li id="VERB">de<strong>spite</strong> the DIFficulties, she perSISted in her STUDies.</li>

@@ -97,7 +97,7 @@ export default function toDAY1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Hôm nay trời nắng.</li>
 
           <li>i'm GOing to the MOvies toDAY.</li>
-          <li className="list-none">Hôm nay tôi sẽ đi xem phim.</li>
+          <li className="list-none">Hôm nay tớ sẽ đi xem phim.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function toDAY1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="NOUN">toDAY is a BEAUtiful DAY.</li>
-          <li className="margin-bottom-20 list-none">Hôm nay là một ngày đẹp trời.</li>
+          <li className="margin-bottom-20 list-none">Hôm nay là một ngày thật đẹp.</li>
 
           <li id=""><strong>ever</strong>y DAY i GO to SCHOOL.</li>
           <li className="list-none">Mỗi ngày tôi đều đi học.</li>
@@ -134,10 +134,10 @@ export default function toDAY1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm GOing to BED <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
-          <li className="margin-bottom-20 list-none">Bây giờ tôi sẽ đi ngủ.</li>
+          <li className="margin-bottom-20 list-none">Tớ sẽ đi ngủ ngay bây giờ.</li>
 
-          <li>at PRESent, i am WORKing on a new PROJect.</li>
-          <li className="list-none">Hiện tại, tôi đang làm việc trên một dự án mới.</li>
+          <li>at PRESent, i am WORKing on a NEW PROJect.</li>
+          <li className="list-none">Hiện tại, tôi đang thực hiện một dự án mới.</li>
 
         </ul>
 
@@ -156,10 +156,10 @@ export default function toDAY1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i WENT to the PARK YESterday.</li>
-          <li className="margin-bottom-20 list-none">Hôm qua tôi đã đến công viên.</li>
+          <li className="margin-bottom-20 list-none">Hôm qua tôi đã đi công viên.</li>
 
           <li>i will GO to the BEACH <Link to="/vocabulary/toMORrow-1">toMORrow</Link>.</li>
-          <li className="list-none">Ngày mai tôi sẽ đi biển.</li>
+          <li className="list-none">Ngày mai tớ sẽ đi ra bãi biển.</li>
 
         </ul>
       
@@ -185,7 +185,7 @@ export default function toDAY1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i have a MEETing MARKed on my CALendar toDAY.</li>
-          <li className="list-none">Tôi có một cuộc họp được đánh dấu trên lịch hôm nay.</li>
+          <li className="list-none">Hôm nay tôi có một cuộc họp đã được đánh dấu trên lịch của mình.</li>
 
         </ul>
 
@@ -205,7 +205,7 @@ export default function toDAY1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm GOing to the MOvies toDAY.</li>
-          <li className="list-none">Hôm nay tôi sẽ đi xem phim.</li>
+          <li className="list-none">Hôm nay tớ sẽ đi xem phim.</li>
 
         </ul>
 
@@ -227,11 +227,11 @@ export default function toDAY1(): React.JSX.Element {
           <ol>
 
             <li value="1">i'm EATing <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
-            <li className="list-none">Bây giờ tôi đang ăn.</li>
+            <li className="list-none">Tôi đang ăn đây.</li>
             <li className="list-none margin-bottom-20">Chỉ thời điểm chính xác tại thời điểm nói.</li>
 
             <li value="2">i'm BUSy toDAY.</li>
-            <li className="list-none">Hôm nay tôi bận.</li>
+            <li className="list-none">Hôm nay tớ bận quá.</li>
             <li className="list-none">Chỉ một khoảng thời gian 24 giờ, từ nửa đêm đến nửa đêm.</li>
 
           </ol>

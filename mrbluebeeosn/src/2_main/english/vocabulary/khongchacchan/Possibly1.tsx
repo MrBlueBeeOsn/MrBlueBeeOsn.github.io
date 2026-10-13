@@ -79,7 +79,7 @@ export default function POSsibly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Có thể, có lẽ</li>
+            <li>Có thể</li>
 
           </ul>
 
@@ -97,11 +97,11 @@ export default function POSsibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ADverb">it might POSsibly RAIN toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Có thể trời sẽ mưa vào ngày mai.</li>
+          <li id="ADverb">it might POSsibly RAIN <Link to="/vocabulary/toMORrow-1">toMORrow</Link>.</li>
+          <li className="margin-bottom-20 list-none">Có thể là ngày mai sẽ có mưa.</li>
 
           <li>she could POSsibly be at HOME NOW.</li>
-          <li className="list-none">Có thể cô ấy đang ở nhà bây giờ.</li>
+          <li className="list-none">Có thể là cô ấy đang ở nhà lúc này.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function POSsibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">is it POSsible to FINish this WORK toDAY?</li>
-          <li className="margin-bottom-20 list-none">Có thể hoàn thành công việc này ngày hôm nay không?</li>
+          <li className="margin-bottom-20 list-none">Có thể hoàn thành công việc này trong hôm nay không?</li>
 
           <li id="NOUN">there is a possiBILity of RAIN LAter.</li>
-          <li className="list-none">Có khả năng trời mưa sau này.</li>
+          <li className="list-none">Có khả năng sẽ có mưa vào lúc sau.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function POSsibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i will <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> be THERE.</li>
-          <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ đến đó.</li>
+          <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ có mặt ở đó.</li>
 
           <li>THAT is <Link to="/vocabulary/CERtainly-1">CERtainly</Link> TRUE.</li>
-          <li className="list-none">Điều đó chắc chắn đúng.</li>
+          <li className="list-none">Điều đó chắc chắn là đúng.</li>
 
         </ul>
       
@@ -189,7 +189,7 @@ export default function POSsibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>WHAT do you THINK? is it POSsibly GOing to RAIN?</li>
-          <li className="list-none">Bạn nghĩ sao? Có thể trời sẽ mưa không?</li>
+          <li className="list-none">Bạn nghĩ sao? Liệu có thể sẽ mưa không?</li>
 
         </ul>
 
@@ -209,7 +209,7 @@ export default function POSsibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>they might POSsibly MISS the TRAIN.</li>
-          <li className="list-none">Có thể họ sẽ lỡ tàu.</li>
+          <li className="list-none">Họ có thể sẽ lỡ chuyến tàu.</li>
 
         </ul>
 
@@ -231,10 +231,10 @@ export default function POSsibly1(): React.JSX.Element {
           <ol>
 
             <li value="1">i will GO to the PARTy.</li>
-            <li className="list-none margin-bottom-20">Tôi sẽ đi dự tiệc.</li>
+            <li className="list-none margin-bottom-20">Tớ sẽ đi dự tiệc.</li>
 
             <li value="2">i might POSsibly GO to the PARTy.</li>
-            <li className="list-none margin-bottom-20">Có thể tôi sẽ đi dự tiệc.</li>
+            <li className="list-none margin-bottom-20">Có thể là tớ sẽ đi dự bữa tiệc.</li>
 
           </ol>
 

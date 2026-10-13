@@ -136,7 +136,7 @@ export default function REally1(): React.JSX.Element {
           <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> apPREciate your HELP.</li>
           <li className="margin-bottom-20 list-none">Tôi thực sự rất biết ơn sự giúp đỡ của bạn.</li>
 
-          <li>it's VEry COLD toDAY.</li>
+          <li>it's VERy COLD toDAY.</li>
           <li className="list-none">Hôm nay trời rất lạnh.</li>
 
         </ul>

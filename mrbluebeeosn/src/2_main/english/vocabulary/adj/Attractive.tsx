@@ -49,10 +49,10 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li id="ADjective">the NEW JOB offer CAME with a VEry [atTRACtive] SALary.</li>
+          <li id="ADjective">the NEW JOB offer CAME with a VERy [atTRACtive] SALary.</li>
           <li className="list-none">Lời đề nghị công việc mới đi kèm với một mức lương rất hấp dẫn.</li>
 
-          <li>he has a VEry [atTRACtive] SMILE.</li>
+          <li>he has a VERy [atTRACtive] SMILE.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một nụ cười rất cuốn hút.</li>
       
         </ul>
@@ -124,7 +124,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the iDEa of a LONG vaCAtion is VEry [apPEALing] to me RIGHT NOW.</li>
+          <li>the iDEa of a LONG vaCAtion is VERy [apPEALing] to me RIGHT NOW.</li>
           <li className="list-none">Ý tưởng về một kỳ nghỉ dài ngày rất hấp dẫn đối với tôi vào lúc này.</li>
 
         </ul>
@@ -154,7 +154,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>her [CAPtivating] perFORmance HELD the AUdience’s atTENtion un<strong>til</strong> the VEry END.</li>
+          <li>her [CAPtivating] perFORmance HELD the AUdience’s atTENtion un<strong>til</strong> the VERy END.</li>
           <li className="list-none">Màn trình diễn say đắm của cô ấy đã giữ được sự chú ý của khán giả cho đến tận cuối cùng.</li>
 
         </ul>

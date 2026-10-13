@@ -157,7 +157,7 @@ export default function ACtually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>theoRETically, it's POSsible, but NOT VEry LIKEly.</li>
+          <li>theoRETically, it's POSsible, but NOT VERy LIKEly.</li>
           <li className="margin-bottom-20 list-none">Về mặt lý thuyết, điều đó là có thể, nhưng không rất có khả năng.</li>
 
           <li>hypoTHETically, if i WON the LOTtery, i would TRAvel aROUND the WORLD.</li>

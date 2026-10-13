@@ -85,7 +85,7 @@ export default function VERy2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              VEry \<Link to="/pronunciation/5-vowel-system">VER y</Link>\ /ˈveri/ ⬤• (TWO SYLlables)
+              VERy \<Link to="/pronunciation/5-vowel-system">VER y</Link>\ /ˈveri/ ⬤• (TWO SYLlables)
               
             </span>
               
@@ -103,35 +103,35 @@ export default function VERy2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="HAPpy-to-SEE">i VERy [HAPpy to SEE] you.</li>
-        <li className="list-none margin-bottom-20">Tôi rất [vui khi gặp] bạn.</li>
+        <li value="1" id="HAPpy-to-SEE">i VERy HAPpy to SEE you.</li>
+        <li className="list-none margin-bottom-20">Tôi rất vui được gặp bạn.</li>
 
-        <li value="2" id="TIred-after">i VERy [TIred <strong>af</strong>ter] WORK.</li>
-        <li className="list-none margin-bottom-20">Tôi rất [mệt sau khi] làm việc.</li>
+        <li value="2" id="TIred-after">i VERy TIred <strong>af</strong>ter WORK.</li>
+        <li className="list-none margin-bottom-20">Tôi rất mệt sau khi đi làm về.</li>
 
-        <li value="3" id="HUNgry">i VERy [HUNgry]. can we EAT <Link to="/vocabulary/NOW-1">NOW</Link>?</li>
-        <li className="list-none margin-bottom-20">Tôi rất [đói]. Chúng ta có thể ăn bây giờ không?</li>
+        <li value="3" id="HUNgry">i VERy HUNgry. can we EAT <Link to="/vocabulary/NOW-1">NOW</Link>?</li>
+        <li className="list-none margin-bottom-20">Tớ đói lắm. Bây giờ chúng ta ăn được chưa?</li>
 
-        <li value="4" id="GOOD">your ENGlish VERy [GOOD].</li>
-        <li className="list-none margin-bottom-20">Tiếng Anh của bạn rất [tốt].</li>
+        <li value="4" id="GOOD">your ENGlish VERy GOOD.</li>
+        <li className="list-none margin-bottom-20">Tiếng Anh của bạn rất giỏi.</li>
 
-        <li value="5" id="BAD-toDAY">the WEATHer VERy [BAD <Link to="/vocabulary/toDAY-1">toDAY</Link>].</li>
-        <li className="list-none margin-bottom-20">Thời tiết [hôm nay] rất [tệ].</li>
+        <li value="5" id="BAD-toDAY">the WEATHer VERy BAD <Link to="/vocabulary/toDAY-1">toDAY</Link>.</li>
+        <li className="list-none margin-bottom-20">Hôm nay thời tiết rất xấu.</li>
 
-        <li value="6" id="RUN-QUICKly">she [RUN] VERy [<Link to="/vocabulary/QUICKly-1">QUICKly</Link>].</li>
-        <li className="list-none margin-bottom-20">Cô ấy [chạy] rất [nhanh].</li>
+        <li value="6" id="RUN-QUICKly">she RUN VERy <Link to="/vocabulary/QUICKly-1">QUICKly</Link>.</li>
+        <li className="list-none margin-bottom-20">Cô ấy chạy rất nhanh.</li>
 
-        <li value="7" id="SPEAK-SLOWly">PLEASE [SPEAK] VERy [<Link to="/vocabulary/SLOWly-1">SLOWly</Link>].</li>
-        <li className="list-none margin-bottom-20">Làm ơn hãy [nói] thật [chậm].</li>
+        <li value="7" id="SPEAK-SLOWly">PLEASE SPEAK VERy <Link to="/vocabulary/SLOWly-1">SLOWly</Link>.</li>
+        <li className="list-none margin-bottom-20">Xin hãy nói rất chậm.</li>
 
-        <li value="8" id="HANdle-CAREfully">PLEASE [HANdle] this GLASS VERy [<Link to="/vocabulary/CAREfully-1">CAREfully</Link>].</li>
-        <li className="list-none margin-bottom-20">Làm ơn hãy [cầm] chiếc ly này thật [cẩn thận].</li>
+        <li value="8" id="HANdle-CAREfully">PLEASE HANdle this GLASS VERy <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
+        <li className="list-none margin-bottom-20">Xin hãy cẩn thận khi xử lý chiếc cốc này.</li>
 
-        <li value="9" id="LIKE-MUCH">i [LIKE] COFfee VERy [MUCH].</li>
-        <li className="list-none margin-bottom-20">Tôi [thích] cà phê rất [nhiều].</li>
+        <li value="9" id="LIKE-MUCH">i LIKE COFfee VERy MUCH.</li>
+        <li className="list-none margin-bottom-20">Tôi rất thích cà phê.</li>
 
-        <li value="10" id="have-LITtle-TIME">i [have] VERy [LITtle TIME].</li>
-        <li className="list-none margin-bottom-20">Tôi có rất [ít thời gian].</li>
+        <li value="10" id="have-LITtle-TIME">i have VERy LITtle TIME.</li>
+        <li className="list-none margin-bottom-20">Tôi có rất ít thời gian.</li>
 
       </ol>
 
