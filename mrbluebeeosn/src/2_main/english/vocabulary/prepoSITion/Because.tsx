@@ -15,7 +15,7 @@ export default function Because(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#dc-terms"><mark className="highlight-tertiary-padding-4-8">DC</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#prepoSITion-terms"><mark className="highlight-tertiary-padding-4-8">prepoSITion</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">be<strong>cause</strong></h1>
 
@@ -23,10 +23,6 @@ export default function Because(): React.JSX.Element {
                                             
         <p className="example-sentence text-center">
           <span className="highlight-255-padding-0-4 text-border" >
-            <HashLink smooth to="#conJUNCTion">conJUNCTion</HashLink>
-          </span> &nbsp;
-
-          <span className="highlight-255-padding-0-4 text-border">
             <HashLink smooth to="#prepoSITion">prepoSITion</HashLink>
           </span> &nbsp;
           
@@ -52,15 +48,15 @@ export default function Because(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30">be<strong>cause</strong> (conJUNCTion): Bởi vì. Từ này được dùng để mở đầu cho một câu con chỉ nguyên nhân, lý do giải thích cho một sự việc hoặc hành động trước đó.</p>
+      <p className="margin-bottom-30">be<strong>cause</strong> (prepoSITion): Bởi vì. Từ này được dùng để mở đầu cho một câu con chỉ nguyên nhân, lý do giải thích cho một sự việc hoặc hành động trước đó.</p>
       
         <ul className="list-square">
       
-          <li id="conJUNCTion">we STAYED inDOORS [be<strong>cause</strong>] it was RAINing HEAVily.</li>
-          <li className="list-none">Chúng tôi ở trong nhà [bởi vì] trời mưa to.</li>
+          <li id="prepoSITion">we STAYED inDOORS be<strong>cause</strong> it was RAINing HEAVily.</li>
+          <li className="list-none">Chúng tôi ở trong nhà vì trời đang mưa rất to.</li>
 
-          <li>i PASSED the eXAM [be<strong>cause</strong>] i STUDied HARD <strong>ever</strong>y NIGHT.</li>
-          <li className="margin-bottom-20 list-none">Tôi đã vượt qua kỳ thi [bởi vì] tôi học hành chăm chỉ mỗi tối.</li>
+          <li>i PASSED the eXAM be<strong>cause</strong> i STUDied HARD <strong>ever</strong>y NIGHT.</li>
+          <li className="margin-bottom-20 list-none">Tớ đã đạt kết quả tốt trong kỳ thi vì tớ đã học tập chăm chỉ mỗi đêm.</li>
       
         </ul>
 
@@ -99,27 +95,27 @@ export default function Because(): React.JSX.Element {
 
         <ul className="list-square">
         
-          <li id="prepoSITion">the FLIGHT was deLAYED [be<strong>cause</strong> of] the THICK FOG.</li>
-          <li className="margin-bottom-20 list-none">Chuyến bay đã bị hoãn [vì] sương mù dày đặc.</li>
+          <li id="prepoSITion">the FLIGHT was deLAYED be<strong>cause</strong> of the THICK FOG.</li>
+          <li className="margin-bottom-20 list-none">Chuyến bay đã bị hoãn do sương mù dày đặc.</li>
         
           <li id="ADjective">CAUsal (ADjective) /ˈkɔːzl/</li>
-          <li className="list-none">there is a CLEAR [CAUsal] LINK between POVerty and LACK of eduCAtion.</li>
-          <li className="margin-bottom-20 list-none">Có một mối liên hệ [nhân quả] rõ ràng giữa nghèo đói và sự thiếu thốn giáo dục.</li>
+          <li className="list-none">there is a CLEAR CAUsal LINK between POVerty and LACK of eduCAtion.</li>
+          <li className="margin-bottom-20 list-none">Có một mối liên hệ nhân quả rõ ràng giữa nghèo đói và thiếu giáo dục.</li>
 
-          <li id="NOUN">the poLICE are TRYing to FIND the [CAUSE] of the ACcident.</li>
-          <li className="margin-bottom-20 list-none">Cảnh sát đang cố gắng tìm ra [nguyên nhân] của vụ tai nạn.</li>
+          <li id="NOUN">the poLICE are TRYing to FIND the CAUSE of the ACcident.</li>
+          <li className="margin-bottom-20 list-none">Cảnh sát đang cố gắng tìm ra nguyên nhân của vụ tai nạn.</li>
           
-          <li className="list-none">the STUDy inVEStigates the LAW of [cauSALity] in HUman beHAvior.</li>
-          <li className="margin-bottom-20 list-none">Nghiên cứu điều tra quy luật [nhân quả] trong hành vi của con người.</li>
+          <li className="list-none">the STUDy inVEStigates the LAW of cauSALity in HUman beHAvior.</li>
+          <li className="margin-bottom-20 list-none">Nghiên cứu này tìm hiểu quy luật nhân quả trong hành vi của con người.</li>
 
-          <li className="list-none">the reSEARCH PROVED a STRONG [cauSAtion] between SMOking and LUNG diSEASE.</li>
-          <li className="list-none">Nghiên cứu đã chứng minh một [mối quan hệ nhân quả] mạnh mẽ giữa việc hút thuốc và bệnh phổi.</li>
+          <li className="list-none">the reSEARCH PROVED a STRONG cauSAtion between SMOking and LUNG diSEASE.</li>
+          <li className="list-none">Nghiên cứu đã chứng minh mối quan hệ nhân quả rõ rệt giữa việc hút thuốc và bệnh phổi.</li>
 
-          <li id="VERB">the HEAVy RAIN could [CAUSE] seVERE FLOODing in LOW-LYing AReas.</li>
-          <li className="margin-bottom-20 list-none">Trận mưa lớn có thể [gây ra] lũ lụt nghiêm trọng ở các vùng trũng thấp.</li>
+          <li id="VERB">the HEAVy RAIN could CAUSE seVERE FLOODing in LOW-LYing AReas.</li>
+          <li className="margin-bottom-20 list-none">Mưa lớn có thể gây ra lũ lụt nghiêm trọng ở các khu vực trũng thấp.</li>
 
-          <li id="ADverb">the TWO hisTORical eVENTS are [CAUsally] reLAted to EACH OTHer.</li>
-          <li className="margin-bottom-20 list-none">Hai sự kiện lịch sử này có mối quan hệ [nhân quả] với nhau.</li>
+          <li id="ADverb">the TWO hisTORical eVENTS are CAUsally reLAted to EACH OTHer.</li>
+          <li className="margin-bottom-20 list-none">Hai sự kiện lịch sử này có mối quan hệ nhân quả với nhau.</li>
           
 
         </ul>
@@ -142,8 +138,8 @@ export default function Because(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>[since] you are alREADy HERE, you can HELP us with DINner.</li>
-          <li className="list-none">[Vì] bạn đã ở đây rồi, bạn có thể giúp chúng tôi chuẩn bị bữa tối.</li>
+          <li>since you are alREADy HERE, you can HELP us with DINner.</li>
+          <li className="list-none">Vì bạn đã ở đây rồi, bạn có thể giúp chúng tôi chuẩn bị bữa tối.</li>
 
         </ul>
 
@@ -157,8 +153,8 @@ export default function Because(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>[as] the WEAther was BAD, the OUTdoor FLIGHT was CANceled.</li>
-          <li className="list-none">[Vì] thời thời tiết xấu, chuyến bay ngoài trời đã bị hủy.</li>
+          <li>as the WEAther was BAD, the OUTdoor FLIGHT was CANceled.</li>
+          <li className="list-none">Do thời tiết xấu, chuyến bay ngoài trời đã bị hủy.</li>
 
         </ul>
 
@@ -172,8 +168,8 @@ export default function Because(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>[GIVen that] she has no PRIor exPErience, she DID a WONderful JOB.</li>
-          <li className="list-none">[Xét đến việc] cô ấy không có kinh nghiệm trước đó, cô ấy đã làm một công việc tuyệt vời.</li>
+          <li>GIVen that she has no PRIor exPErience, she DID a WONderful JOB.</li>
+          <li className="list-none">Dù cô ấy chưa từng có kinh nghiệm trước đây, cô ấy đã hoàn thành công việc một cách xuất sắc.</li>
 
         </ul>
 
@@ -187,8 +183,8 @@ export default function Because(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>[NOW that] the eXAMS are OVer, we can FInally reLAX.</li>
-          <li className="list-none">[Giờ đây khi] các kỳ thi đã qua, chúng tôi cuối cùng đã có thể thư giãn.</li>
+          <li>NOW that the eXAMS are OVer, we can FInally reLAX.</li>
+          <li className="list-none">Giờ thì các kỳ thi đã kết thúc, cuối cùng chúng ta cũng có thể thư giãn rồi.</li>
 
         </ul>
 
@@ -202,8 +198,8 @@ export default function Because(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>[SEEing that] it is getting LATE, we should PROBably HEAD HOME.</li>
-          <li className="list-none">[Thấy rằng] trời đang muộn dần, chúng ta có lẽ nên về nhà thôi.</li>
+          <li>SEEing that it is getting LATE, we should PROBably HEAD HOME.</li>
+          <li className="list-none">Thấy đã muộn rồi, có lẽ chúng ta nên về nhà thôi.</li>
 
         </ul>
 
@@ -213,12 +209,12 @@ export default function Because(): React.JSX.Element {
 
       <p className="margin-top-20" id="">6. for /fɔːr/</p>
 
-      <p className="text-indent-whole">Bởi vì; một conJUNCtion mang sắc thái rất trang trọng, mang tính văn học hoặc cổ kính, dùng để đưa ra lý do giải thích cho lời khẳng định trước đó.</p>
+      <p className="text-indent-whole">Bởi vì; một prepoSITion mang sắc thái rất trang trọng, mang tính văn học hoặc cổ kính, dùng để đưa ra lý do giải thích cho lời khẳng định trước đó.</p>
 
         <ul className="list-square">
 
-          <li>we must START EARly, [for] the JOURney is LONG.</li>
-          <li className="list-none">Chúng ta phải khởi hành sớm, [vì] cuộc hành trình còn dài.</li>
+          <li>we must START EARly, for the JOURney is LONG.</li>
+          <li className="list-none">Chúng ta phải bắt đầu sớm, vì hành trình còn dài.</li>
 
         </ul>
 
@@ -232,8 +228,8 @@ export default function Because(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>this comPUter is uNIQUE [in that] it can THINK like a HUman.</li>
-          <li className="list-none">Chiếc máy tính này độc đáo [ở chỗ] nó có thể tư duy như một con người.</li>
+          <li>this comPUter is uNIQUE in that it can THINK like a HUman.</li>
+          <li className="list-none">Chiếc máy tính này có điểm độc đáo là nó có thể suy nghĩ như con người.</li>
 
         </ul>
 
@@ -247,8 +243,8 @@ export default function Because(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he was acQUITTED [on the GROUNDS that] there was insufFICient EVidence.</li>
-          <li className="list-none">Anh ta đã được trắng án [dựa trên lý do là] không có đủ bằng chứng.</li>
+          <li>he was acQUITTED on the GROUNDS that there was insufFICient EVidence.</li>
+          <li className="list-none">Anh ta đã được tuyên trắng án với lý do không có đủ bằng chứng.</li>
 
         </ul>
 

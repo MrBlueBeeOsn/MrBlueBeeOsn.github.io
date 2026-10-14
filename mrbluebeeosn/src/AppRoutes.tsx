@@ -405,10 +405,10 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	
 	
-	const When = lazy(() => import('@/2_main/english/vocabulary/dc/When'));
-	const If = lazy(() => import('@/2_main/english/vocabulary/dc/If'));
-	const Although = lazy(() => import('@/2_main/english/vocabulary/dc/Although'));
-	const Because = lazy(() => import('@/2_main/english/vocabulary/dc/Because'));
+	const When = lazy(() => import('@/2_main/english/vocabulary/prepoSITion/When'));
+	const If = lazy(() => import('@/2_main/english/vocabulary/prepoSITion/If'));
+	const Although = lazy(() => import('@/2_main/english/vocabulary/prepoSITion/Although'));
+	const Because = lazy(() => import('@/2_main/english/vocabulary/prepoSITion/Because'));
 	
 	
 

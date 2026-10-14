@@ -147,16 +147,21 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 			<hr className="hr-short"/>
 
-			<div className="vocabulary-container margin-top-20">
-						
+
+			<div className="flex-container margin-top-20">
+			
+			
 				{/* =============================
-							Adjectives
+						VERB
 				============================= */}
 
+				<div className="sub-box">
 
-				<details className="sub-box-fix">
+					{/* =============================
+							ADjectives
+					============================= */}
 			
-					<summary id="adjectives-terms"><mark className="highlight-secondary-padding-2-4">ADjectives</mark></summary>
+					<p id="ADjectives-terms"><mark className="highlight-secondary-padding-2-4">ADjectives</mark></p>
 
 					<ul className="list-border1">
 
@@ -171,27 +176,22 @@ export default function VocabularyIndex(): React.JSX.Element {
 						<li>
 							<Link to="/vocabulary/GRATEful">GRATEful</Link> 	
 						</li>
-						
 
 					</ul>
 
+				</div>
 
-				</details>
-
-			</div>
-
-			<hr className="hr-short"/>
-
-			<div className="vocabulary-container margin-top-20">
-						
 				{/* =============================
-							Adverbs
+						VERB
 				============================= */}
 
+				<div className="sub-box">
 
-				<details className="sub-box-fix">
+					{/* =============================
+							prepoSITion
+					============================= */}
 			
-					<summary id="dc-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: DC</mark></summary>
+					<p id="prepoSITion-terms"><mark className="highlight-secondary-padding-2-4">prepoSITion</mark></p>
 
 					<ul className="list-border1">
 
@@ -204,19 +204,24 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/although">although</Link> 	
+							<Link to="/vocabulary/although">al<strong>though</strong></Link> 	
 						</li>
 						
 						<li>
-							<Link to="/vocabulary/because">because</Link> 	
+							<Link to="/vocabulary/because">be<strong>cause</strong></Link> 	
 						</li>
+
 
 					</ul>
 
+				</div>
 
-				</details>
+
 
 			</div>
+
+			<hr className="hr-short"/>
+
 
 			<div className="vocabulary-container margin-top-20">
 
