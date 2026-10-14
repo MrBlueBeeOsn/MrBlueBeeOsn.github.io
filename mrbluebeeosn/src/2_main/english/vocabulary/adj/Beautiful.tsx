@@ -17,7 +17,7 @@ export default function BEAUtiful(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adjectives-terms"><mark className="highlight-tertiary-padding-4-8">ADjectives</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">[BEAUtiful]</h1>
+      <h1 className="margin-y-50 text-center">BEAUtiful</h1>
 
       <div className="example">
                                             
@@ -45,26 +45,26 @@ export default function BEAUtiful(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30">[<strong>BEAUtiful</strong>] (ADjective): Đẹp, có những phẩm chất mang lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc tâm trí. Từ này thường ám chỉ sự hài hòa, xuất sắc hoặc giá trị thẩm mỹ cao.</p>
+      <p className="margin-bottom-30"><strong>BEAUtiful</strong> (ADjective): Đẹp, có những phẩm chất mang lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc tâm trí. Từ này thường ám chỉ sự hài hòa, xuất sắc hoặc giá trị thẩm mỹ cao.</p>
 
         <ul className="list-square">
       
-          <li id="ADjective">the SUNset <strong>o</strong>ver the Ocean was TRUly [BEAUtiful].</li>
-          <li className="list-none">Cảnh hoàng hôn trên biển thực sự rất đẹp.</li>
+          <li id="ADjective">the SUNset <strong>o</strong>ver the Ocean was TRUly BEAUtiful.</li>
+          <li className="list-none">Hoàng hôn trên biển thực sự rất đẹp.</li>
 
-          <li>WHAT a [BEAUtiful] SUNset!</li>
-          <li className="margin-bottom-20 list-none">Thật là một cảnh hoàng hôn đẹp tuyệt vời!</li>
+          <li>WHAT a BEAUtiful SUNset!</li>
+          <li className="margin-bottom-20 list-none">Một hoàng hôn thật là đẹp làm sao!</li>
 
-          <li>the POet WROTE a<strong>bout</strong> the [BEAUteous] STARS in the NIGHT SKY.</li>
-          <li className="list-none">Nhà thơ đã viết về những ngôi sao tuyệt đẹp trên bầu trời đêm.</li>
+          <li>the POet WROTE a<strong>bout</strong> the BEAUteous STARS in the NIGHT SKY.</li>
+          <li className="list-none">Nhà thơ đã viết về những vì sao tuyệt đẹp trên bầu trời đêm.</li>
       
         </ul>
 
       {/* =============================
-            pronunciAtion / Phát âm
+            pronunciAtion / Cách phát âm
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">pronunciAtion / Phát âm</h3>
+      <h3 className="margin-y-50 text-center">pronunciAtion / Cách phát âm</h3>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -95,17 +95,17 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
           
-          <li id="NOUN">the [BEAUty] of the LANDscape TOOK my BREATH aWAY.</li>
-          <li className="margin-bottom-20 list-none">Vẻ đẹp của phong cảnh đã khiến tôi sững sờ.</li>
+          <li id="NOUN">the BEAUty of the LANDscape TOOK my BREATH aWAY.</li>
+          <li className="margin-bottom-20 list-none">Vẻ đẹp của phong cảnh đã khiến tôi phải thốt lên kinh ngạc.</li>
 
-          <li className="list-none">the proFESsional [beauTIcian] prePARED the ACtors for the FILM.</li>
-          <li className="margin-bottom-20 list-none">Chuyên gia thẩm mỹ chuyên nghiệp đã chuẩn bị cho các diễn viên trong bộ phim.</li>
+          <li className="list-none">the proFESsional beauTIcian prePARED the ACtors for the FILM.</li>
+          <li className="margin-bottom-20 list-none">Chuyên viên làm đẹp đã chuẩn bị cho các diễn viên tham gia bộ phim.</li>
 
-          <li id="VERB">They deCIded to [BEAUtify] the GARden with SEAsonal FLOWers.</li>
-          <li className="margin-bottom-20 list-none">Họ quyết định làm đẹp khu vườn bằng những loài hoa theo mùa.</li>
+          <li id="VERB">they deCIded to BEAUtify the GARden with SEAsonal FLOWers.</li>
+          <li className="margin-bottom-20 list-none">Họ đã quyết định trang trí khu vườn bằng những loài hoa theo mùa.</li>
 
-          <li id="ADverb">the MUsic was [BEAUtifully] comPOSED and MOVED the enTIre AUdience.</li>
-          <li className="margin-bottom-20 list-none">Bản nhạc được sáng tác một cách tuyệt đẹp và đã làm lay động toàn bộ khán giả.</li>
+          <li id="ADverb">the MUsic was BEAUtifully comPOSED and MOVED the enTIre AUdience.</li>
+          <li className="margin-bottom-20 list-none">Bản nhạc được soạn rất hay và đã lay động cả khán phòng.</li>
 
         </ul>
 
@@ -121,14 +121,14 @@ export default function BEAUtiful(): React.JSX.Element {
             1. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>1. [GORgeous]</strong> (ADjective) /ˈɡɔːrdʒəs/</p>
+      <p className="margin-top-20" id=""><strong>1. GORgeous</strong> (ADjective) /ˈɡɔːrdʒəs/</p>
 
       <p className="text-indent-whole">Dùng cho vẻ đẹp rực rỡ, lộng lẫy, thường gây ấn tượng mạnh ngay lập tức.</p>
 
         <ul className="list-square">
 
-          <li>the BRIDE LOOKED ABsolutely [GORgeous] in her LACE GOWN.</li>
-          <li className="list-none">Cô dâu trông hoàn toàn rực rỡ trong chiếc váy ren.</li>
+          <li>the BRIDE LOOKED ABsolutely GORgeous in her LACE GOWN.</li>
+          <li className="list-none">Cô dâu trông thật lộng lẫy trong chiếc váy ren của mình.</li>
 
         </ul>
 
@@ -136,14 +136,14 @@ export default function BEAUtiful(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>2. [STUNning]</strong> (ADjective) /ˈstʌnɪŋ/</p>
+      <p className="margin-top-20" id=""><strong>2. STUNning</strong> (ADjective) /ˈstʌnɪŋ/</p>
 
       <p className="text-indent-whole">Ám chỉ vẻ đẹp gây choáng ngợp, khiến người xem sững sờ hoặc bất ngờ.</p>
 
         <ul className="list-square">
 
-          <li>the PENThouse OFfers a [STUNning] VIEW of the CIty SKYline.</li>
-          <li className="list-none">Căn hộ tầng thượng mang đến một tầm nhìn choáng ngợp ra đường chân trời của thành phố.</li>
+          <li>the PENThouse OFfers a STUNning VIEW of the CIty SKYline.</li>
+          <li className="list-none">Căn hộ áp mái mang đến tầm nhìn tuyệt đẹp ra đường chân trời thành phố.</li>
 
         </ul>
 
@@ -151,14 +151,14 @@ export default function BEAUtiful(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>3. [exQUISite]</strong> (ADjective) /ɪkˈskwɪzɪt/</p>
+      <p className="margin-top-20" id=""><strong>3. exQUISite</strong> (ADjective) /ɪkˈskwɪzɪt/</p>
 
       <p className="text-indent-whole">Dùng cho vẻ đẹp tinh tế, sắc sảo hoặc có sự gia công cực kỳ tỉ mỉ.</p>
 
         <ul className="list-square">
 
-          <li>the muSEum disPLAYED a colLECtion of [exQUISite] HAND-PAINted ceRAMics.</li>
-          <li className="list-none">Bảo tàng trưng bày một bộ sưu tập đồ gốm vẽ tay tinh xảo.</li>
+          <li>the muSEum disPLAYED a colLECtion of exQUISite HAND-PAINted ceRAMics.</li>
+          <li className="list-none">Bảo tàng đã trưng bày một bộ sưu tập các tác phẩm gốm sứ được vẽ tay vô cùng tinh xảo.</li>
 
         </ul>
 
@@ -166,14 +166,14 @@ export default function BEAUtiful(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>4. [LOVEly]</strong> (ADjective) /ˈlʌvli/</p>
+      <p className="margin-top-20" id=""><strong>4. LOVEly</strong> (ADjective) /ˈlʌvli/</p>
 
       <p className="text-indent-whole">Gợi lên vẻ đẹp duyên dáng, đáng yêu và mang lại cảm giác dễ chịu, ấm áp.</p>
 
         <ul className="list-square">
 
-          <li>we had a [LOVEly] afterNOON WALKing through the boTANical GARdens.</li>
-          <li className="list-none">Chúng tôi đã có một buổi chiều dễ chịu khi đi dạo qua các vườn bách thảo.</li>
+          <li>we had a LOVEly afterNOON WALKing through the boTANical GARdens.</li>
+          <li className="list-none">Chúng tôi đã có một buổi chiều thật thú vị khi đi dạo trong vườn thực vật.</li>
 
         </ul>
 
@@ -181,14 +181,14 @@ export default function BEAUtiful(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>5. [RAdiant]</strong> (ADjective) /ˈreɪdiənt/</p>
+      <p className="margin-top-20" id=""><strong>5. RAdiant</strong> (ADjective) /ˈreɪdiənt/</p>
 
       <p className="text-indent-whole">Ám chỉ vẻ đẹp rạng rỡ, tỏa sáng, thường liên quan đến sức khỏe hoặc sự hạnh phúc.</p>
 
         <ul className="list-square">
 
-          <li>she GAVE a [RAdiant] SMILE that INstantly BRIGHtened the ROOM.</li>
-          <li className="list-none">Cô ấy nở một nụ cười rạng rỡ khiến căn phòng bừng sáng ngay lập tức.</li>
+          <li>she GAVE a RAdiant SMILE that INstantly BRIGHtened the ROOM.</li>
+          <li className="list-none">Cô ấy nở một nụ cười rạng rỡ, khiến cả căn phòng bừng sáng ngay lập tức.</li>
 
         </ul>
 
@@ -196,14 +196,14 @@ export default function BEAUtiful(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>6. [aesTHETic]</strong> (ADjective) /esˈθetɪk/</p>
+      <p className="margin-top-20" id=""><strong>6. aesTHETic</strong> (ADjective) /esˈθetɪk/</p>
 
       <p className="text-indent-whole">Có tính thẩm mỹ, thuộc về cái đẹp hoặc nghệ thuật.</p>
 
         <ul className="list-square">
 
-          <li>the NEW FURniture was CHOsen for PUREly [aesTHETic] REAsons.</li>
-          <li className="list-none">Đồ nội thất mới được chọn hoàn toàn vì những lý do thẩm mỹ.</li>
+          <li>the NEW FURniture was CHOsen for PUREly aesTHETic REAsons.</li>
+          <li className="list-none">Những món đồ nội thất mới này được chọn chỉ dựa trên các yếu tố thẩm mỹ.</li>
 
         </ul>
 
@@ -211,14 +211,14 @@ export default function BEAUtiful(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>7. [magNIFicent]</strong> (ADjective) /mæɡˈnɪfɪsnt/</p>
+      <p className="margin-top-20" id=""><strong>7. magNIFicent</strong> (ADjective) /mæɡˈnɪfɪsnt/</p>
 
       <p className="text-indent-whole">Dùng cho vẻ đẹp hùng vĩ, ấn tượng hoặc có quy mô tráng lệ.</p>
 
         <ul className="list-square">
 
-          <li>the [magNIFicent] ARchitecture of the caTHEdral DATES BACK to the TWELFTH CENtury.</li>
-          <li className="list-none">Kiến trúc hùng vĩ của nhà thờ có niên PROnoun thế kỷ 12.</li>
+          <li>the magNIFicent ARchitecture of the caTHEdral DATES BACK to the TWELFTH CENtury.</li>
+          <li className="list-none">Kiến trúc tuyệt vời của nhà thờ này có từ thế kỷ XII.</li>
 
         </ul>
 

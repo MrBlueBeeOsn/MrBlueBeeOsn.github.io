@@ -49,10 +49,10 @@ export default function Although(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            pronunciAtion / Phát âm
+            pronunciAtion / Cách phát âm
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">pronunciAtion / Phát âm</h3>
+      <h3 className="margin-y-50 text-center">pronunciAtion / Cách phát âm</h3>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
