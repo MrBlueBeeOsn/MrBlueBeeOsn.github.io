@@ -36,19 +36,19 @@ export default function When(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30">when: (prepoSITion): Khi. Dùng để kết nối hai câu con, chỉ thời điểm một sự việc xảy ra hoặc một hành động được thực hiện.</p>
+      <p className="margin-bottom-30">when: (prepoSITion): Used to connect two subordinate clauses, indicating the time when an event occurs or an action is performed.</p>
 
         <ul className="list-square">
       
           <li id="prepoSITion">i will CALL you when i arRIVE at the STAtion.</li>
-          <li className="list-none">Tôi sẽ gọi cho bạn khi tôi đến ga.</li>
+          <li className="margin-bottom-20 list-none">I'll phone you when I get to the station.</li>
 
           <li>he LIVED in LONdon when he was a CHILD.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã sống ở London khi còn nhỏ.</li>
+          <li className="margin-bottom-20 list-none">He lived in London when he was a child.</li>
 
           <li>i will NEVer forGET the DAY when we FIRST MET.</li>
-          <li className="margin-bottom-20 list-none">Tôi sẽ không bao giờ quên ngày chúng ta gặp nhau lần đầu tiên.</li>
-          <li className="list-none">Dùng để thay thế cho một NOUN chỉ thời gian đứng trước và nối liền với câu con quan hệ</li>
+          <li className="margin-bottom-20 list-none">I will always remember the day we first met.</li>
+          <li className="list-none">Used to replace a NOUN referring to time that precedes and is directly connected to the relative clause.</li>
       
         </ul>
 
@@ -66,7 +66,7 @@ export default function When(): React.JSX.Element {
           <ul className="list-square padding-left-40">
 
             <li>IPA: [when] /wen/</li>
-            <li className="margin-bottom-20 list-none">Lưu ý: Một số vùng tại Anh hoặc Mỹ (giọng Scotland hoặc miền Nam nước Mỹ) có thể phát âm là /hwen/, nhưng /wen/ là phát âm phổ biến nhất hiện nay.</li>
+            <li className="margin-bottom-20 list-none">Note: In some regions of the UK or the U.S. (such as Scotland or the Southern U.S.), it may be pronounced /hwen/, but /wen/ is the most common pronunciation today.</li>
             
             <li>phoNETic BREAKdown: wen</li>
 
@@ -86,20 +86,20 @@ export default function When(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">Từ "when" là một từ chức năng (FUNCtion WORD) cốt lõi trong tiếng Anh, bản thân nó không biến đổi thành dạng DANH, hành động hay ADjective bằng cách thêm hậu tố. Tuy nhiên, họ từ của nó bao gồm các từ ghép và ADverb chỉ thời gian, thời điểm dựa trên gốc từ này:</p>
+      <p className="margin-bottom-20">The word "when" is a core function word in English; it does not change into a noun, verb, or adjective by adding a suffix. However, its word family includes compound words and adverbs of time and moment based on this root word:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">WHEN does the MOvie START?</li>
-          <li className="margin-bottom-20 list-none">Bộ phim bắt đầu khi nào?</li>
+          <li className="margin-bottom-20 list-none">When is the film being shown?</li>
 
           <li>you DON'T HAVE to PAY me BACK RIGHT NOW. JUST DO it wheNEVer.</li>
-          <li className="list-none">Bạn không cần phải trả lại tiền cho tôi ngay lập tức. Cứ trả khi nào thì trả.</li>
-          <li className="margin-bottom-20 list-none">Dùng độc lập</li>
+          <li className="list-none">You don't have to pay me back now. You can pay me back at any time.</li>
+          <li className="margin-bottom-20 list-none">Use on its own.</li>
 
           <li>wheNEVer WILL they FINish this conSTRUCTion WORK?</li>
-          <li className="margin-bottom-20 list-none">Không biết bao giờ thì họ mới hoàn thành công trình xây dựng này nhỉ?</li>
-          <li className="list-none">Dùng trong câu hỏi nghi vấn</li>
+          <li className="list-none">When will the building work be finished?</li>
+          <li className="list-none">Used in interrogative sentences.</li>
 
         </ul>
 
@@ -109,20 +109,18 @@ export default function When(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
-      <p className="margin-bottom-20">Dưới đây là các từ và cụm từ có chức năng tương tự như "when" để chỉ thời gian hoặc thời điểm, đi kèm cấu trúc và sắc thái riêng.</p>
+      <p className="margin-bottom-20">Below are words and phrases that function similarly to "when" to indicate time or a specific moment, each with its own structure and nuance.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20" id="">1. as /æz/ hoặc /əz/</p>
-
-      <p className="text-indent-whole">Khi, trong khi; dùng khi hai hành động ngắn diễn ra cùng một lúc, hoặc một hành động đang tiến triển thì một hành động khác xen vào.</p>
+      <p className="margin-top-20" id="">1. as: When, while; used when two brief actions occur at the same time, or when one action is in progress and another interrupts it.</p>
 
         <ul className="list-square">
 
           <li>as she GREW OLDer, she GAINED MORE CONfidence.</li>
-          <li className="list-none">Khi cô ấy ngày càng lớn tuổi hơn, cô ấy càng trở nên tự tin hơn.</li>
+          <li className="list-none">As she got older, she became more confident.</li>
 
         </ul>
 
@@ -130,14 +128,12 @@ export default function When(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id="">2. while /waɪl/</p>
-
-      <p className="text-indent-whole">Trong khi, trong lúc; thường dùng để nhấn mạnh một hành động kéo dài, đang diễn ra liên tục tại thời điểm một sự việc khác xảy ra.</p>
+      <p className="margin-top-20" id="">2. while: Meanwhile, at the same time; often used to emphasize an action that is ongoing and taking place continuously at the moment another event occurs.</p>
 
         <ul className="list-square">
 
           <li>the PHONE RANG while i was TAking a SHOWer.</li>
-          <li className="list-none">Điện thoại reo trong lúc tôi đang tắm.</li>
+          <li className="list-none">I was having a shower when the phone rang.</li>
 
         </ul>
 
@@ -145,14 +141,12 @@ export default function When(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id="">3. once /wʌns/</p>
-
-      <p className="text-indent-whole">Một khi, ngay sau khi; dùng để nhấn mạnh rằng một khi sự việc này đã hoàn thành hoặc xảy ra, thì sự việc kia mới diễn ra.</p>
+      <p className="margin-top-20" id="">3. once: "immediately after"; used to emphasize that once this event is completed or occurs, then that event takes place.</p>
 
         <ul className="list-square">
 
           <li>once you FINish your HOMEwork, you can PLAY VIDeo GAMES.</li>
-          <li className="list-none">Khi con làm xong bài tập về nhà, con có thể chơi trò chơi điện tử.</li>
+          <li className="list-none">When you've finished your homework, you can play video games.</li>
 
         </ul>
 
@@ -160,14 +154,12 @@ export default function When(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id="">4. at the TIME that /æt ðə taɪm ðæt/</p>
-
-      <p className="text-indent-whole">Vào thời điểm mà; một cụm từ cụ thể và trang trọng hơn "when" để nhấn mạnh một mốc thời gian chính xác trong quá khứ hoặc tương lai.</p>
+      <p className="margin-top-20" id="">4. at the TIME that: "At the time when"; a more specific and formal alternative to "when" used to emphasize a precise point in time in the past or future.</p>
 
         <ul className="list-square">
 
           <li>at the TIME that the eCONomy CRASHED, <strong>man</strong>y PEOple LOST their JOBS.</li>
-          <li className="list-none">Vào thời điểm nền kinh tế sụp đổ, rất nhiều người đã mất việc làm.</li>
+          <li className="list-none">When the economy crashed, many people lost their jobs.</li>
 
         </ul>
 
@@ -175,14 +167,12 @@ export default function When(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20" id="">5. U<strong>pon</strong> /əˈpɒn/ (UK) hoặc /əˈpɑːn/ (US)</p>
-
-      <p className="text-indent-whole">Khi, ngay sau khi; GIỚI này thường đi kèm với NOUN hoặc V-ing để chỉ một hành động xảy ra ngay lập tức sau một hành động khác (mang sắc thái trang trọng).</p>
+      <p className="margin-top-20" id="">5. U<strong>pon</strong>: When, immediately after; this PARTICLE is often used with a NOUN or a -ing form to indicate an action that occurs immediately after another action (with a formal tone).</p>
 
         <ul className="list-square">
 
           <li>u<strong>pon</strong> arRIving at the hoTEL, they WENT STRAIGHT to regisTRAtion.</li>
-          <li className="list-none">Khi đến khách sạn, họ đi thẳng đến quầy lễ tân.</li>
+          <li className="list-none">When they got to the hotel, they went straight to the registration desk.</li>
 
         </ul>
 
@@ -190,14 +180,12 @@ export default function When(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20" id="">6. By the TIME /baɪ ðə taɪm/</p>
-
-      <p className="text-indent-whole">Vào lúc, tính đến lúc; dùng để diễn tả một sự việc đã hoặc sẽ hoàn thành trước một thời điểm được nhắc đến ở câu con sau.</p>
+      <p className="margin-top-20" id="">6. By the TIME: "At the time of," "as of"; used to indicate that an event has been or will be completed before a specific time mentioned in the following clause.</p>
 
         <ul className="list-square">
 
           <li>by the TIME we REACHED the CINema, the MOvie had alREADy STARTed.</li>
-          <li className="list-none">Khi chúng tôi đến rạp chiếu phim, bộ phim đã bắt đầu rồi.</li>
+          <li className="list-none">When we got to the cinema, the film had already started.</li>
 
         </ul>
 
@@ -211,7 +199,7 @@ export default function When(): React.JSX.Element {
         <ul className="list-square">
 
           <li>you can BORrow my CAR whe<strong>nev</strong>er you NEED it.</li>
-          <li className="margin-bottom-20 list-none">Bạn có thể mượn xe của tớ bất cứ khi nào bạn cần.</li>
+          <li className="margin-bottom-20 list-none">You can borrow my car whenever you need it.</li>
 
         </ul>
       
@@ -220,14 +208,12 @@ export default function When(): React.JSX.Element {
             8. 
       ============================= */}
 
-      <p className="margin-top-20" id="">8. whence</p>
-
-      <p className="text-indent-whole">Từ cổ / Trang trọng</p>
+      <p className="margin-top-20" id="">8. whence: Archaic / Formal</p>
 
         <ul className="list-square">
 
           <li>they reTURNED whence they CAME.</li>
-          <li className="list-none">Họ đã quay trở lại nơi họ đã đến.</li>
+          <li className="list-none">They went back to where they came from.</li>
 
         </ul>
 
