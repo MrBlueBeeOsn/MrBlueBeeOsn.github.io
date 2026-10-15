@@ -122,12 +122,12 @@ export default function toDAY1(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            Từ đồng nghĩa:
+            SYNonyms:
       ============================= */}
         
       <p className="margin-top-20" id="SYNonyms">
         <mark className="highlight-238-padding-4-8">
-          <strong>Từ đồng nghĩa</strong>:
+          <strong>SYNonyms</strong>:
         </mark>
       </p>
 

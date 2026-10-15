@@ -48,23 +48,23 @@ export default function Because(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30">be<strong>cause</strong> (prepoSITion): Bởi vì. Từ này được dùng để mở đầu cho một câu con chỉ nguyên nhân, lý do giải thích cho một sự việc hoặc hành động trước đó.</p>
+      <p className="margin-bottom-30">be<strong>cause</strong> (prepoSITion): This word is used to introduce a clause that states the cause or reason for a previous event or action.</p>
       
         <ul className="list-square">
       
           <li id="prepoSITion">we STAYED inDOORS be<strong>cause</strong> it was RAINing HEAVily.</li>
-          <li className="list-none">Chúng tôi ở trong nhà vì trời đang mưa rất to.</li>
+          <li className="margin-bottom-20 list-none">We didn't go outside because it was raining really heavily.</li>
 
           <li>i PASSED the eXAM be<strong>cause</strong> i STUDied HARD <strong>ever</strong>y NIGHT.</li>
-          <li className="margin-bottom-20 list-none">Tớ đã đạt kết quả tốt trong kỳ thi vì tớ đã học tập chăm chỉ mỗi đêm.</li>
+          <li className="list-none">I passed the exam because I studied really hard every night.</li>
       
         </ul>
 
       {/* =============================
-            pronunciAtion / Cách phát âm
+            pronunciAtion
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">pronunciAtion / Cách phát âm</h3>
+      <h3 className="margin-y-50 text-center">pronunciAtion</h3>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -91,55 +91,52 @@ export default function Because(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">Từ "be<strong>cause</strong>" ban đầu được hình thành từ cụm từ gốc "by CAUSE of". Do đó, họ từ của nó tập trung xoay quanh gốc từ gốc là CAUSE.</p>
+      <p className="margin-bottom-20">The word "because" originally derived from the phrase "by CAUSE of." Therefore, its derivations are centered around the root word "CAUSE."</p>
 
         <ul className="list-square">
         
           <li id="prepoSITion">the FLIGHT was deLAYED be<strong>cause</strong> of the THICK FOG.</li>
-          <li className="margin-bottom-20 list-none">Chuyến bay đã bị hoãn do sương mù dày đặc.</li>
+          <li className="margin-bottom-20 list-none">The plane couldn't take off because it was too foggy.</li>
         
-          <li id="ADjective">CAUsal (ADjective) /ˈkɔːzl/</li>
-          <li className="list-none">there is a CLEAR CAUsal LINK between POVerty and LACK of eduCAtion.</li>
-          <li className="margin-bottom-20 list-none">Có một mối liên hệ nhân quả rõ ràng giữa nghèo đói và thiếu giáo dục.</li>
+          <li id="ADjective">there is a CLEAR CAUsal LINK between POVerty and LACK of eduCAtion.</li>
+          <li className="margin-bottom-20 list-none">It's clear that being poor and not having a good education are connected.</li>
 
           <li id="NOUN">the poLICE are TRYing to FIND the CAUSE of the ACcident.</li>
-          <li className="margin-bottom-20 list-none">Cảnh sát đang cố gắng tìm ra nguyên nhân của vụ tai nạn.</li>
+          <li className="margin-bottom-20 list-none">The police are trying to work out what caused the accident.</li>
           
-          <li className="list-none">the STUDy inVEStigates the LAW of cauSALity in HUman beHAvior.</li>
-          <li className="margin-bottom-20 list-none">Nghiên cứu này tìm hiểu quy luật nhân quả trong hành vi của con người.</li>
+          <li>the STUDy inVEStigates the LAW of cauSALity in HUman beHAvior.</li>
+          <li className="margin-bottom-20 list-none">The study looks at how people's actions are affected by their emotions.</li>
 
-          <li className="list-none">the reSEARCH PROVED a STRONG cauSAtion between SMOking and LUNG diSEASE.</li>
-          <li className="list-none">Nghiên cứu đã chứng minh mối quan hệ nhân quả rõ rệt giữa việc hút thuốc và bệnh phổi.</li>
+          <li>the reSEARCH PROVED a STRONG cauSAtion between SMOking and LUNG diSEASE.</li>
+          <li className="margin-bottom-20 list-none">Research shows a clear link between smoking and lung disease.</li>
 
           <li id="VERB">the HEAVy RAIN could CAUSE seVERE FLOODing in LOW-LYing AReas.</li>
-          <li className="margin-bottom-20 list-none">Mưa lớn có thể gây ra lũ lụt nghiêm trọng ở các khu vực trũng thấp.</li>
+          <li className="margin-bottom-20 list-none">Heavy rain could lead to severe flooding in areas that are prone to flooding.</li>
 
           <li id="ADverb">the TWO hisTORical eVENTS are CAUsally reLAted to EACH OTHer.</li>
-          <li className="margin-bottom-20 list-none">Hai sự kiện lịch sử này có mối quan hệ nhân quả với nhau.</li>
+          <li className="margin-bottom-20 list-none">There is usually a connection between the two historical events.</li>
           
 
         </ul>
 
       {/* =============================
-            SYNonyms / Từ đồng nghĩa
+            SYNonyms
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">SYNonyms / Từ đồng nghĩa</h3>
+      <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
-      <p className="margin-bottom-20">Dưới đây là các từ và cụm từ có chức năng tương tự như "be<strong>cause</strong>" nhưng mang sắc thái biểu đạt hoặc cấu trúc khác nhau.</p>
+      <p className="margin-bottom-20">Below are words and phrases that serve a similar function to "because" but have different nuances or structures.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20" id="">1. Since /sɪns/</p>
-
-      <p className="text-indent-whole">Dùng khi lý do đã được cả người nói lẫn người nghe biết tới, hoặc khi lý do ít quan trọng hơn kết quả.</p>
+      <p className="margin-top-20" id="">1. Since: Use this when the reason is already known to both the speaker and the listener, or when the reason is less important than the result.</p>
 
         <ul className="list-square">
 
           <li>since you are alREADy HERE, you can HELP us with DINner.</li>
-          <li className="list-none">Vì bạn đã ở đây rồi, bạn có thể giúp chúng tôi chuẩn bị bữa tối.</li>
+          <li className="list-none">You are already here, so you can help us with dinner.</li>
 
         </ul>
 
@@ -147,14 +144,12 @@ export default function Because(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id="">2. as /æz/</p>
-
-      <p className="text-indent-whole">Tương tự như since, thường mang sắc thái trang trọng hơn một chút và thường đặt câu con nguyên nhân ở đầu câu.</p>
+      <p className="margin-top-20" id="">2. as: Similar to "since," it usually has a slightly more formal tone and typically places the causal clause at the beginning of the sentence.</p>
 
         <ul className="list-square">
 
           <li>as the WEAther was BAD, the OUTdoor FLIGHT was CANceled.</li>
-          <li className="list-none">Do thời tiết xấu, chuyến bay ngoài trời đã bị hủy.</li>
+          <li className="list-none">Because the weather was bad, the flight outside was cancelled.</li>
 
         </ul>
 
@@ -162,14 +157,12 @@ export default function Because(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id="">3. GIVen that /ˈɡɪvn ðæt/</p>
-
-      <p className="text-indent-whole">Xét đến việc, dựa vào sự thật là; thường dùng khi muốn đưa một sự kiện thực tế làm căn cứ cho kết luận.</p>
+      <p className="margin-top-20" id="">3. GIVen that: "Considering that" is based on the fact that; it is commonly used when one wishes to cite a factual event as the basis for a conclusion.</p>
 
         <ul className="list-square">
 
           <li>GIVen that she has no PRIor exPErience, she DID a WONderful JOB.</li>
-          <li className="list-none">Dù cô ấy chưa từng có kinh nghiệm trước đây, cô ấy đã hoàn thành công việc một cách xuất sắc.</li>
+          <li className="list-none">She did a great job, especially since she didn't have any previous experience.</li>
 
         </ul>
 
@@ -177,14 +170,12 @@ export default function Because(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id="">4. NOW that /naʊ ðæt/</p>
-
-      <p className="text-indent-whole">Giờ đây khi mà; dùng để chỉ một nguyên nhân mới xuất hiện đem lại một kết quả ở hiện tại hoặc tương lai.</p>
+      <p className="margin-top-20" id="">4. NOW that: is used to refer to a new cause that has arisen and is leading to a result in the present or future.</p>
 
         <ul className="list-square">
 
           <li>NOW that the eXAMS are OVer, we can FInally reLAX.</li>
-          <li className="list-none">Giờ thì các kỳ thi đã kết thúc, cuối cùng chúng ta cũng có thể thư giãn rồi.</li>
+          <li className="list-none">Now that the eXAMS are finished, we can finally relax.</li>
 
         </ul>
 
@@ -192,14 +183,12 @@ export default function Because(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20" id="">5. SEEing that /ˈsiːɪŋ ðæt/</p>
-
-      <p className="text-indent-whole">Thấy rằng, bởi vì; thường dùng phổ biến trong văn nói khi lý do hiển hiện ngay trước mắt hoặc vừa được nhận ra.</p>
+      <p className="margin-top-20" id="">5. SEEing that: "because"; commonly used in spoken language when the reason is obvious or has just been realized./</p>
 
         <ul className="list-square">
 
           <li>SEEing that it is getting LATE, we should PROBably HEAD HOME.</li>
-          <li className="list-none">Thấy đã muộn rồi, có lẽ chúng ta nên về nhà thôi.</li>
+          <li className="list-none">It's getting late, so we should probably go home.</li>
 
         </ul>
 
@@ -207,14 +196,12 @@ export default function Because(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20" id="">6. for /fɔːr/</p>
-
-      <p className="text-indent-whole">Bởi vì; một prepoSITion mang sắc thái rất trang trọng, mang tính văn học hoặc cổ kính, dùng để đưa ra lý do giải thích cho lời khẳng định trước đó.</p>
+      <p className="margin-top-20" id="">6. for: Because; a preposition with a very formal, literary, or archaic tone, used to provide a reason or explanation for the preceding statement.</p>
 
         <ul className="list-square">
 
           <li>we must START EARly, for the JOURney is LONG.</li>
-          <li className="list-none">Chúng ta phải bắt đầu sớm, vì hành trình còn dài.</li>
+          <li className="list-none">We have to start early because the journey is long.</li>
 
         </ul>
 
@@ -222,14 +209,12 @@ export default function Because(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20" id="">7. In that /ɪn ðæt/</p>
-
-      <p className="text-indent-whole">Bởi vì, ở chỗ; dùng để giải thích hoặc làm rõ một nhận định trước đó bằng cách chỉ ra lý do cụ thể.</p>
+      <p className="margin-top-20" id="">7. In that: Because - used to explain or clarify a previous statement by giving a specific reason.</p>
 
         <ul className="list-square">
 
           <li>this comPUter is uNIQUE in that it can THINK like a HUman.</li>
-          <li className="list-none">Chiếc máy tính này có điểm độc đáo là nó có thể suy nghĩ như con người.</li>
+          <li className="list-none">This computer is special because it can think like a person.</li>
 
         </ul>
 
@@ -237,14 +222,12 @@ export default function Because(): React.JSX.Element {
             8. 
       ============================= */}
 
-      <p className="margin-top-20" id="">8. On the GROUNDS that /ɒn ðə ɡraʊndz ðæt/</p>
-
-      <p className="text-indent-whole">Dựa trên lý do là, bởi vì; thường dùng trong bối cảnh trang trọng hoặc pháp lý khi đưa ra lập luận, bằng chứng.</p>
+      <p className="margin-top-20" id="">8. On the GROUNDS that: "Based on the fact that" is often used in formal or legal contexts when presenting arguments or evidence.</p>
 
         <ul className="list-square">
 
           <li>he was acQUITTED on the GROUNDS that there was insufFICient EVidence.</li>
-          <li className="list-none">Anh ta đã được tuyên trắng án với lý do không có đủ bằng chứng.</li>
+          <li className="list-none">He was found not guilty because there was not enough evidence against him.</li>
 
         </ul>
 

@@ -54,10 +54,10 @@ export default function GRATEful(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            pronunciAtion / Cách phát âm
+            pronunciAtion
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">pronunciAtion / Cách phát âm</h3>
+      <h3 className="margin-y-50 text-center">pronunciAtion</h3>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -100,10 +100,10 @@ export default function GRATEful(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            SYNonyms / Từ đồng nghĩa
+            SYNonyms
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">SYNonyms / Từ đồng nghĩa</h3>
+      <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
       <p className="margin-bottom-20">Các từ đồng nghĩa dưới đây cung cấp những sắc thái chính xác hơn tùy thuộc vào ngữ cảnh cụ thể.</p>
 
