@@ -126,7 +126,7 @@ export default function If(): React.JSX.Element {
         <ul className="list-square">
 
           <li>proVIded that you reTURN the CAR by 5 p.M., you can BORrow it.</li>
-          <li className="list-none">If you return the car by 5 p.m., you can borrow it.</li>
+          <li className="list-none">If you return the car by 5 p.M., you can borrow it.</li>
 
         </ul>
 

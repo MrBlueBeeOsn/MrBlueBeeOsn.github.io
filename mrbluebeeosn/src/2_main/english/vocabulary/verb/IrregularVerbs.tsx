@@ -1376,17 +1376,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [HURTS] his KNEE when PLAYing FOOTball.</li>
-					<li className="list-none">Anh ấy [làm đau] đầu gối của mình khi đá bóng.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng HURTS (cho chủ thể ngôi thứ ba số ít he) để chỉ việc xảy ra thường xuyên hoặc một thói quen khi chơi thể thao.</li>
+					<li>he HURTS his KNEE when PLAYing FOOTball.</li>
+					<li className="list-none">He has a sore knee when he plays football</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “HURTS” (for the third-person singular subject “he”) to describe something that happens frequently or a habit when playing sports.</li>
 			
-					<li>she [HURT] her FINger while COOKing [YESterday].</li>
-					<li className="list-none">Cô ấy [đã làm đứt] tay ([làm đau] ngón tay) trong lúc nấu ăn [vào ngày hôm qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng HURT để chỉ việc đã xảy ra và kết thúc trong quá khứ (từ này giữ nguyên hình thức không đổi ở dạng quá khứ).</li>
+					<li>she HURT her FINger while COOKing YESterday.</li>
+					<li className="list-none">She hurt her finger while she was cooking something yesterday.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “HURT” form to indicate an action that occurred and ended in the past (this verb remains unchanged in the past tense).</li>
 			
-					<li>his FEELings [have been HURT] by those HARSH WORDS.</li>
-					<li className="list-none">Cảm xúc của anh ấy [đã bị tổn thương] bởi những lời lẽ cay nghiệt đó.</li>
-					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (HURT) đi sau have been để nói về một việc đã tác động và để lại kết quả ở hiện tại, với chủ thể chịu tác động là his FEELings (cảm xúc của anh ấy).</li>
+					<li>his FEELings have been HURT by those HARSH WORDS.</li>
+					<li className="list-none">His feelings were hurt by the harsh words.</li>
+					<li className="list-none">This structure uses an action verb in the past perfect tense (HURT) following “have been” to describe an event that occurred in the past and has had an effect in the present, with the subject affected being his FEELINGS (his emotions).</li>
 			
 				</ul>
 			
@@ -1395,17 +1395,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>THIS NEW PHONE [COSTS] a LOT of MONey.</li>
-					<li className="list-none">Chiếc điện thoại mới này [tốn] rất nhiều tiền.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng COSTS (cho chủ thể ngôi thứ ba số ít this NEW PHONE) để chỉ một sự thật hoặc mức giá ở hiện tại.</li>
+					<li>this NEW PHONE COSTS a LOT of MONey.</li>
+					<li className="list-none">The new phone costs a lot of money.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the COSTS form (for the third-person singular subject “this NEW PHONE”) to indicate a fact or price at the present time.</li>
 			
-					<li>the TRIP [COST] us a FORtune [LAST SUMmer].</li>
-					<li className="list-none">Chuyến đi đó [đã ngốn] của chúng tôi một gia tài [vào mùa hè năm ngoái].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng COST để chỉ sự việc đã xảy ra và kết thúc trong quá khứ (đặc biệt từ này giữ nguyên hình thức ở dạng quá khứ).</li>
+					<li>the TRIP COST us a FORtune LAST SUMmer.</li>
+					<li className="list-none">We spent a lot of money on the trip last summer.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the COST form to refer to an event that occurred and ended in the past (this particular word retains its form in the past tense).</li>
 			
-					<li>a LOT of TIME [has been COST] by this deLAY.</li>
-					<li className="list-none">Rất nhiều thời gian [đã bị lãng phí/thiệt hại] bởi sự chậm trễ này.</li>
-					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (COST) đi sau has been để nói về một việc đã tác động đến hiện tại, với chủ thể chịu tác động là a LOT of TIME (rất nhiều thời gian).</li>
+					<li>a LOT of TIME has been COST by this deLAY.</li>
+					<li className="list-none">This delay has taken up a lot of time.</li>
+					<li className="list-none">This structure uses a verb in the perfect tense (COST) following “has been” to describe an action that has had an impact on the present, with the subject affected being “a LOT of TIME” (a great deal of time).</li>
 			
 				</ul>
 			
@@ -1414,17 +1414,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [BUILDS] a NEW HOUSE for his PARents.</li>
-					<li className="list-none">Anh ấy [xây] một ngôi nhà mới cho ba mẹ mình.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng BUILDS (cho chủ thể ngôi thứ ba số ít he) để chỉ việc làm diễn ra mang tính thường xuyên hoặc kế hoạch đang thực hiện.</li>
+					<li>he BUILDS a NEW HOUSE for his PARents.</li>
+					<li className="list-none">He builds a house for his parents to live in that is completely new.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Action Tense with the BUILDS form (for the third-person singular subject “he”) to indicate an ongoing action or a plan currently in progress.</li>
 			
-					<li>they [BUILT] a SMALL BRIDGE <strong>o</strong>ver the RIVER [LAST YEAR].</li>
-					<li className="list-none">Họ [đã xây] một cây cầu nhỏ bắc qua sông [vào năm ngoái].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng BUILT để chỉ việc đã hoàn tất hoàn toàn trong quá khứ, đi kèm mốc thời gian rõ ràng là LAST YEAR.</li>
+					<li>they BUILT a SMALL BRIDGE <strong>o</strong>ver the RIVER LAST YEAR.</li>
+					<li className="list-none">they BUILT a SMALL BRIDGE over the RIVER LAST YEAR.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “BUILT” form to indicate an action that was completely finished in the past, accompanied by the specific time reference “LAST YEAR.”</li>
 			
-					<li>THIS WEBsite [has been BUILT] with GREAT CARE.</li>
-					<li className="list-none">Trang web này [đã được xây dựng] rất cẩn thận.</li>
-					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (BUILT) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là this WEBsite (trang WEB này).</li>
+					<li>this WEBsite has been BUILT with GREAT CARE.</li>
+					<li className="list-none">This website was built with great attention to detail.</li>
+					<li className="list-none">This structure uses an action verb in the perfect tense (BUILT) following “has been” to describe an action that has been completed and has produced a result in the present, with “this website” as the object of the action.</li>
 			
 				</ul>
 
@@ -1433,17 +1433,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [CATCHes] the BUS to WORK [<strong>ever</strong>y MORNing].</li>
-					<li className="list-none">Anh ấy [bắt] xe buýt đi làm [vào mỗi buổi sáng].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng CATCHes (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen lặp lại.</li>
+					<li>he CATCHes the BUS to WORK <strong>ever</strong>y MORNing.</li>
+					<li className="list-none">Every morning, he catches the bus to work.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the CATCHes form (for the third-person singular subject “he”) to describe a recurring habit.</li>
 			
-					<li>she [CAUGHT] a BIG FISH [YESterday].</li>
-					<li className="list-none">Cô ấy [đã bắt được] một con cá lớn [vào ngày hôm qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng CAUGHT để chỉ hành động đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>she CAUGHT a BIG FISH YESterday.</li>
+					<li className="list-none">She caught a really big fish yesterday.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “CAUGHT” form to indicate an action that occurred and ended in the past.</li>
 			
-					<li>they [have CAUGHT] the TRAIN JUST in TIME.</li>
-					<li className="list-none">Họ [vừa mới bắt kịp] chuyến tàu đúng lúc.</li>
-					<li className="list-none">Dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với dạng phân từ CAUGHT đi sau have để chỉ hành động vừa mới hoàn tất ảnh hưởng đến hiện tại.</li>
+					<li>they have CAUGHT the TRAIN JUST in TIME.</li>
+					<li className="list-none">They were able to catch the train just in time.</li>
+					<li className="list-none">Use 📏 the Present Perfect Tense with the participle form “CAUGHT” following “have” to indicate an action that has just been completed and is affecting the present.</li>
 			
 				</ul>
 
@@ -1452,17 +1452,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [THROWS] the BALL to his DOG in the PARK.</li>
-					<li className="list-none">Anh ấy [ném] quả bóng cho chú chó của mình ở công viên.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng THROWS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc hành động diễn ra thường xuyên.</li>
+					<li>he THROWS the BALL to his DOG in the PARK.</li>
+					<li className="list-none">He throws the ball to his dog in the park.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “THROWS” (for the third-person singular subject “he”) to indicate a habit or an action that occurs frequently.</li>
 			
-					<li>she [threw aWAY] the OLD LETters [LAST NIGHT].</li>
-					<li className="list-none">Cô ấy [đã vứt bỏ] những bức thư cũ [vào tối qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng threw để chỉ hành động đã xảy ra và kết thúc trong quá khứ (cụm threw aWAY có nghĩa là vứt đi).</li>
+					<li>she threw aWAY the OLD LETters LAST NIGHT.</li>
+					<li className="list-none">Last night, she threw away the old letters.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the form “threw” to refer to an action that occurred and was completed in the past (the phrase “threw aWAY” means “threw away”).</li>
 			
-					<li>the WINdow [has been THROWN] Open by the WIND.</li>
-					<li className="list-none">Cửa sổ [đã bị gió thổi tung] mở ra.</li>
-					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (THROWN) đi sau has been để nói về một việc đã xảy ra và để lại kết quả ở hiện tại, với chủ thể chịu tác động là the WINdow (cửa sổ).</li>
+					<li>the WINdow has been THROWN Open by the WIND.</li>
+					<li className="list-none">The window is open because the wind opened it.</li>
+					<li className="list-none">This structure uses an action verb in the perfect tense (THROWN) following “has been” to describe an event that occurred in the past and has resulted in a current outcome, with “the window” as the object affected.</li>
 			
 				</ul>
 
@@ -1471,149 +1471,155 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [SINGS] aLONG to his FAVORite SONGS while CODing [<strong>ever</strong>y EVEning].</li>
-					<li className="list-none">Anh ấy [hát] theo những bài hát yêu thích của mình trong lúc lập trình [vào mỗi buổi tối].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SINGS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
+					<li>he SINGS aLONG to his FAVORite SONGS while CODing <strong>ever</strong>y EVEning.</li>
+					<li className="list-none">Every evening, he sings his favorite songs while working at his computer.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the SINGS form (for the third-person singular subject “he”) to describe habits or events that occur regularly.</li>
 			
-					<li>she [SANG] a traDITional SONG at the FAMILy GATHering [YESterday].</li>
-					<li className="list-none">Cô ấy [đã hát] một bài hát truyền thống trong buổi sum họp gia đình [vào ngày hôm qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng SANG để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>she SANG a traDITional SONG at the FAMILy GATHering YESterday.</li>
+					<li className="list-none">She sang a traditional song at her family's gathering yesterday.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “SANG” form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they [have SUNG] toGETHer at <strong>man</strong>y comMUnity eVENTS.</li>
-					<li className="list-none">Họ [đã hát] cùng nhau tại nhiều sự kiện cộng đồng [rồi].</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SUNG, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>they have SUNG toGETHer at <strong>man</strong>y comMUnity eVENTS.</li>
+					<li className="list-none">They sang together at a variety of community events.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “have SUNG” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 			
 
-			<h3 className="margin-y-50 text-center">Cách sử dụng 3 cột V1 – V2 – V3 một cách dễ nhớ</h3>
+			<h3 className="margin-y-50 text-center">An Easy-to-Remember Way to Use the 3 Columns V1, V2, and V3</h3>
 
 			{/* V1: Nguyên thể / Hiện tại */}
 
-			<h4 id="V1">V1: ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (Present Simple) (thêm s/es cho he/she/it)</h4>
+			<h4 id="V1">V1: ⏳ Time of Action in the Simple Present Tense (add “s” or ‘es’ to “he,” “she,” or “it”)</h4>
 
-			<p className="margin-top-20">Dùng để diễn tả thói quen, sự thật hiển nhiên, hoặc hành động lặp lại.</p>
+			<p className="margin-top-20">Used to describe habits, obvious truths, or repeated actions.</p>
 			
 				<ul className="list-square">
 			
-					<li>she [GOES] to SCHOOL [<strong>ever</strong>y DAY].</li>
-					<li className="list-none">Cô ấy [đi] học [mỗi ngày]. (⏳ Thời Gian Hành Động ở Hiện Tại Đơn)</li>
+					<li>she GOES to SCHOOL <strong>ever</strong>y DAY.</li>
+					<li className="list-none">She attends school on a daily basis.</li>
+					<li className="list-none">⏳ Time of Action in the Simple Present Tense</li>
 			
 				</ul>
 
 			{/* V2: ⏳ Thời Gian Hành Động ở Quá Khứ Đơn */}
 
-			<h4 className="margin-top-20" id="V2">V2: ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (Past Simple)</h4>
+			<h4 className="margin-top-20" id="V2">V2: ⏳ Past Simple Tense</h4>
 
-			<p className="margin-top-20 text-indent-whole">Dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ, thường đi kèm các từ chỉ thời gian như yesterday, last week, ago.</p>
+			<p className="margin-top-20 text-indent-whole">Used to describe actions that occurred and were completed in the past; often accompanied by time expressions such as “yesterday,” “last week,” or “ago.”</p>
 			
 				<ul className="list-square">
 
-					<li>[YESterday], i [WENT] to the CINema.</li>
-					<li className="list-none">[Hôm qua] tôi [đã đi] xem phim (đi rạp chiếu phim). (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
+					<li>YESterday, i WENT to the CINema.</li>
+					<li className="list-none">Yesterday, I went to the movie theater.</li>
+					<li className="list-none">⏳ Past Simple Tense</li>
 			
 				</ul>
 
-			{/* V3: Quá khứ phân từ (Past Participle) */}
+			{/* V3: Past Participle */}
 
-			<h4 className="margin-top-20" id="V3">V3: Quá khứ phân từ (Past Participle)</h4>
+			<h4 className="margin-top-20" id="V3">V3: Past Participle</h4>
 
-			<p className="margin-top-20">1️⃣ 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (have/has + V3)</p>
+			<p className="margin-top-20">1️⃣ 📏 Time of Action in the Present Perfect (have/has + V3)</p>
 
-			<p className="margin-top-20 text-indent-whole">Dùng để diễn tả hành động đã xảy ra nhưng còn liên quan đến hiện tại, hoặc kinh nghiệm.</p>
+			<p className="margin-top-20 text-indent-whole">Used to describe an action that has already occurred but is still relevant to the present, or an experience.</p>
 			
 				<ul className="list-square">
 
-					<li>i [have just GONE] HOME.</li>
-					<li className="list-none">Tôi [vừa mới về] nhà [rồi]. (📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành)</li>
+					<li>i have just GONE HOME.</li>
+					<li className="list-none">I just got back home.</li>
+					<li className="list-none">📏 Time Period of Action in the Present Perfect Tense</li>
 			
 				</ul>
 
-			<p className="margin-top-20" id="V4">2️⃣ 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (had + V3)</p>
+			<p className="margin-top-20" id="V4">2️⃣ 📏 Past Perfect Tense (had + V3)</p>
 
-			<p className="margin-top-20 text-indent-whole">Dùng để diễn tả hành động xảy ra trước một hành động khác trong quá khứ.</p>
+			<p className="margin-top-20 text-indent-whole">Used to describe an action that occurred before another action in the past.</p>
 			
 				<ul className="list-square">
 
-					<li>i [had FINished] my HOMEwork be<strong>fore</strong> DINner.</li>
-					<li className="list-none">Tôi [đã hoàn thành xong] bài tập về nhà trước bữa tối [rồi]. (📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành)</li>
+					<li>i had FINished my HOMEwork be<strong>fore</strong> DINner.</li>
+					<li className="list-none">I completed my homework before dinner.</li>
+					<li className="list-none">📏 Time Period of Action in the Past Perfect Tense</li>
 			
 				</ul>
 
-			<p className="margin-top-20" id="V5">3️⃣ 📏 Khoảng Thời Gian Hành Động ở Tương Lai Hoàn Thành (will have + V3)</p>
+			<p className="margin-top-20" id="V5">3️⃣ 📏 Future Perfect Tense (will have + V3)</p>
 
-			<p className="margin-top-20 text-indent-whole">Dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm trong tương lai.</p>
+			<p className="margin-top-20 text-indent-whole">Used to describe an action that will be completed before a specific point in the future.</p>
 			
 				<ul className="list-square">
 
-					<li>i [will have FINished] my HOMEwork by NINE p.m.</li>
-					<li className="list-none">Tôi [sẽ hoàn thành xong] bài tập về nhà trước 9 giờ tối [rồi]. (📏 Khoảng Thời Gian Hành Động ở Tương Lai Hoàn Thành)</li>
+					<li>i will have FINished my HOMEwork by NINE p.M.</li>
+					<li className="list-none">I will have finished my homework by nine o'clock this evening.</li>
+					<li className="list-none">📏 Future Perfect Tense</li>
 			
 				</ul>
 					
-			<p className="margin-top-20" id="V6">4️⃣ Thể bị động (be + V3)</p>
+			<p className="margin-top-20" id="V6">4️⃣ Passive voice (be + V3)</p>
 
-			<p className="margin-top-20 text-indent-whole">Dùng để nhấn mạnh hành động hoặc đối tượng chịu tác động, không nhấn mạnh người thực hiện.</p>
+			<p className="margin-top-20 text-indent-whole">Used to emphasize the action or the object affected, not the person performing the action.</p>
 			
 				<ul className="list-square">
 
-					<li>the LETter [was WRITten] by her.</li>
-					<li className="list-none">Bức thư [đã được viết] bởi cô ấy. (Câu bị động ⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
+					<li>the LETter was WRITten by her.</li>
+					<li className="list-none">She wrote the letter.</li>
+					<li className="list-none">Passive Sentences ⏳ Action Time in the Simple Past</li>
 			
 				</ul>
 
-			<h3 className="margin-y-50 text-center" id="HOC-NHANH">Mẹo học nhanh & nhớ lâu (được hàng ngàn học viên áp dụng thành công)</h3>
+			<h3 className="margin-y-50 text-center" id="HOC-NHANH">Tips for Learning Quickly & Retaining Information Long-Term (Successfully Used by Thousands of Students)</h3>
 
-			<h4 className="margin-top-30 margin-bottom-20">1. Học theo nhóm có quy luật phát âm (rất hiệu quả):</h4>
+			<h4 className="margin-top-30 margin-bottom-20">1. Learning in groups based on pronunciation rules (very effective)::</h4>
 					
 				<ul className="list-square">
 			
-					<li>Nhóm nguyên vẹn: [CUTS CUT CUT] / [HITS HIT HIT] / [PUTS PUT PUT]</li>
+					<li>Unaltered group: [CUTS CUT CUT] / [HITS HIT HIT] / [PUTS PUT PUT]</li>
 			
-					<li>Nhóm đổi nguyên âm: [SINGS SANG SUNG] / [DRINKS DRANK DRUNK] / [SWIMS SWAM SWUM]</li>
+					<li>Vowel-changing group: [SINGS SANG SUNG] / [DRINKS DRANK DRUNK] / [SWIMS SWAM SWUM]</li>
 			
-					<li>Nhóm V2 & V3 giống nhau: [BUYS BOUGHT BOUGHT] / [BRINGS BROUGHT BROUGHT]</li>
+					<li>Groups V2 and V3 are the same: [BUYS BOUGHT BOUGHT] / [BRINGS BROUGHT BROUGHT]</li>
 
-					<li>Nhóm “đi & đến” đặc biệt: [GOES WENT GONE] / [COMES CAME COME]</li>
+					<li>Special “Departures & Arrivals” Group: [GOES WENT GONE] / [COMES CAME COME]</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40" id="CHUYEN-NGAN">2. Học theo câu chuyện ngắn:</h4>
+			<h4 className="margin-y-40" id="CHUYEN-NGAN">2. Learning Through Short Stories:</h4>
 			
 				<ul className="list-square">
 			
-					<li>[YESterday] i [TOOK] a PHOto, but toDAY i [have TAken] <strong>man</strong>y PHOtos [alREADy].</li>
-					<li className="margin-bottom-20 list-none">[Ngày hôm qua] tôi [đã chụp] một bức ảnh, nhưng hôm nay tôi [đã chụp] rất nhiều bức ảnh [rồi].</li>
+					<li>YESterday i TOOK a PHOto, but toDAY i have TAken <strong>man</strong>y PHOtos alREADy.</li>
+					<li className="margin-bottom-20 list-none">I took a photograph yesterday, but today, I have already taken many photographs.</li>
 			
-					<li>[YESterday] i [TOOK] a PHOto:</li>
-					<li className="list-none">Cấu trúc này dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng TOOK của hành động TAKE.</li>
-					<li className="margin-bottom-20 list-none">Được dùng để diễn tả một hành động chụp ảnh đã xảy ra và kết thúc hoàn toàn trong quá khứ, đi kèm với trạng từ chỉ thời gian cụ thể là YESterday (ngày hôm qua).</li>
+					<li>YESterday i TOOK a PHOto:</li>
+					<li className="list-none">This structure uses ⏳ the Past Simple Tense for the duration of an action with the “TOOK” form of the verb “TAKE.”</li>
+					<li className="margin-bottom-20 list-none">Used to describe an act of taking a photo that occurred and was completely finished in the past, accompanied by the specific time adverb “yesterday.”</li>
 			
 					<li>...but [toDAY] i [have TAken] <strong>man</strong>y PHOtos [alREADy]:</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với dạng have TAken.</li>
-					<li className="list-none">Được dùng để nhấn mạnh kết quả hoặc số lượng ảnh đã chụp được tính đến thời điểm hiện tại trong ngày, kết hợp với trạng từ toDAY (hôm nay) và alREADy (đã... rồi).</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense for the duration of an action, in the form “have taken.”</li>
+					<li className="list-none">Used to emphasize the results or the number of photos taken so far today, in combination with the adverbs “toDAY” (today) and “alREADy” (already).</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-top-30 margin-bottom-20" id="Flashcard">3. Flashcard 3 mặt (rất mạnh):</h4>
+			<h4 className="margin-top-30 margin-bottom-20" id="Flashcard">3. 3-sided flashcard (very sturdy):</h4>
 					
 				<ul className="list-square">
 			
-					<li>Mặt 1: [GOES]</li>
+					<li>Side 1: [GOES]</li>
 			
-					<li>Mặt 2: [WENT]</li>
+					<li>Side 2: [WENT]</li>
 			
-					<li>Mặt 3: [GONE] + câu ví dụ</li>
+					<li>Side 3: [GONE] + example sentence</li>
 			
 				</ul>
 
-			<h4 className="margin-top-30 margin-bottom-20">4. Ưu tiên 30 hành động đầu tiên → chiếm ~85% tần suất xuất hiện trong giao tiếp & bài thi.</h4>
+			<h4 className="margin-top-30 margin-bottom-20">4. Prioritize the first 30 actions → they account for ~85% of the frequency of occurrence in communication and exams.</h4>
 			
-			<p>Hãy in bảng này ra, dán lên tường, học mỗi ngày 10 hành động trong 1 tuần. Sau 6 tuần bạn sẽ nắm chắc gần như toàn bộ hành động bất quy tắc hay gặp nhất!</p>
+			<p>Print out this chart, hang it on the wall, and learn 10 verbs a day for one week. After 6 weeks, you’ll have a solid grasp of nearly all the most common irregular verbs!</p>
 
-			<p>Chúc bạn học tốt và sớm “thoát kiếp” hành động bất quy tắc! 💪</p>
+			<p>I hope you do well in your studies and soon “break free” from acting recklessly! 💪</p>
 
 			<div className="viewcounter">
 			

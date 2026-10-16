@@ -59,7 +59,7 @@ export default function ThiTiengAnh(): React.JSX.Element {
 						<li className="list-none">She played piano yesterday.</li>
 
 						<li className="margin-top-20"><strong>Quá khứ đang</strong> → S + was/were + V-ing</li>
-						<li className="list-none">She was playing piano at 8 p.m. last night.</li>
+						<li className="list-none">She was playing piano at 8 p.M. last night.</li>
 
 						<li className="margin-top-20"><strong>Quá khứ đã</strong> → S + had + V3/ed</li>
 						<li className="list-none">She had played piano before the guests arrived.</li>
@@ -83,13 +83,13 @@ export default function ThiTiengAnh(): React.JSX.Element {
 						<li className="list-none">She will play piano tomorrow.</li>
 
 						<li className="margin-top-20"><strong>Tương lai sẽ đang</strong> → S + will + be + V-ing</li>
-						<li className="list-none">She will be playing piano at 8 p.m. tomorrow.</li>
+						<li className="list-none">She will be playing piano at 8 p.M. tomorrow.</li>
 
 						<li className="margin-top-20"><strong>Tương lai sẽ đã</strong> → S + will + have + V3/ed</li>
-						<li className="list-none">She will have played piano by 9 p.m.</li>
+						<li className="list-none">She will have played piano by 9 p.M.</li>
 
 						<li className="margin-top-20"><strong>Tương lai sẽ đã và đang</strong> → S + will + have + been + V-ing</li>
-						<li className="list-none">She will have been playing piano for two hours by 10 p.m.</li>
+						<li className="list-none">She will have been playing piano for two hours by 10 p.M.</li>
 
 					</ul>
 
