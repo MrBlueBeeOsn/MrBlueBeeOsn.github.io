@@ -89,7 +89,7 @@ export default function HIGHly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>HIGHly</strong>" được sử dụng để nhấn mạnh mức độ cao của một tính chất, phẩm chất, hoặc cường độ của một hành động. Nó có thể biểu thị sự đánh giá cao, mức độ quan trọng, hoặc cường độ mạnh mẽ.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

@@ -93,7 +93,7 @@ export default function GENuinely1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>GENuinely</strong>" được dùng để nhấn mạnh tính chân thật, sự thật lòng trong một cảm xúc, hành động hoặc lời nói. Nó cho thấy rằng điều gì đó đến từ bên trong và không phải là giả tạo.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

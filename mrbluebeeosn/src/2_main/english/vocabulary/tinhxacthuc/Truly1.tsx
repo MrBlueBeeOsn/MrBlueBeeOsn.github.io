@@ -93,7 +93,7 @@ export default function TRUly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>TRUly</strong>" được dùng để nhấn mạnh sự thật, tính xác thực của một thông tin, cảm xúc hoặc tình huống. Nó thể hiện sự chân thành, thẳng thắn và không giả dối.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

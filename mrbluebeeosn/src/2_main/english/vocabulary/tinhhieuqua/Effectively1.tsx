@@ -93,7 +93,7 @@ export default function efFECTively1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>efFECTively</strong>" được dùng để mô tả một hành động, phương pháp hoặc quá trình đạt được kết quả mong muốn, sử dụng tối ưu các nguồn lực có sẵn. Nó nhấn mạnh sự thành công và hiệu suất trong việc hoàn thành một nhiệm vụ.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

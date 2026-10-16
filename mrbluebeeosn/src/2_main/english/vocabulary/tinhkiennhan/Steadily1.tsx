@@ -97,7 +97,7 @@ export default function STEADily1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>STEADily</strong>" miêu tả cách một hành động, quá trình hoặc trạng thái diễn ra một cách liên tục, không có sự thay đổi đột ngột hoặc dao động lớn, thường cho thấy sự ổn định và chắc chắn.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

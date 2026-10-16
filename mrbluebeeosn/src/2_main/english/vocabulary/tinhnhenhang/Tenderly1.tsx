@@ -97,7 +97,7 @@ export default function TENderly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>TENderly</strong>" miêu tả một hành động hoặc lời nói được thực hiện một cách dịu dàng, trìu mến, thể hiện sự quan tâm, yêu thương và lòng trắc ẩn.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

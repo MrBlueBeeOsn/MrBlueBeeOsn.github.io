@@ -93,7 +93,7 @@ export default function CLEARly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>CLEARly</strong>" được dùng để nhấn mạnh rằng một điều gì đó rất dễ hiểu, dễ nhìn thấy, hoặc không có sự mơ hồ nào. Nó cũng có thể được dùng để chỉ một cách rõ ràng, không có sự nghi ngờ.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

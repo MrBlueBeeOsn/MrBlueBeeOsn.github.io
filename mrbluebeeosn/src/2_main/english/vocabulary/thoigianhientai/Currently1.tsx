@@ -93,7 +93,7 @@ export default function CURrently1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>CURrently</strong>" được dùng để chỉ một hành động, trạng thái hoặc sự kiện đang diễn ra tại thời điểm nói. Nó nhấn mạnh tính chất tạm thời của một tình huống.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

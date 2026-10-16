@@ -89,7 +89,7 @@ export default function REally1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>REally</strong>" có nhiều cách sử dụng, nhưng chủ yếu để nhấn mạnh một ý kiến, cảm xúc hoặc sự thật. Nó có thể biểu thị sự ngạc nhiên, sự đồng ý, hoặc đơn giản là làm cho câu nói trở nên mạnh mẽ hơn.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

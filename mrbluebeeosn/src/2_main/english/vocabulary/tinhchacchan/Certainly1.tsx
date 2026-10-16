@@ -93,7 +93,7 @@ export default function CERtainly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>CERtainly</strong>" được dùng để thể hiện sự đồng ý một cách mạnh mẽ, khẳng định một điều gì đó là đúng hoặc sẽ xảy ra. Nó cũng có thể được sử dụng để nhấn mạnh một ý kiến hoặc một câu trả lời.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

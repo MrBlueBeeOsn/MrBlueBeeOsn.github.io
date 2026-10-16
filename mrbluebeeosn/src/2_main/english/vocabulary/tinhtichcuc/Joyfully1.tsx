@@ -93,7 +93,7 @@ export default function JOYfully1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>JOYfully</strong>" được sử dụng để miêu tả một hành động được thực hiện với niềm vui, sự thích thú và sự phấn khích. Nó thể hiện một trạng thái cảm xúc tích cực và vui vẻ.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

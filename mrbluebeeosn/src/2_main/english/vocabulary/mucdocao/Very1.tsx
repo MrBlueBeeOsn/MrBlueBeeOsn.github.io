@@ -85,7 +85,7 @@ export default function VERy1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Dùng để nhấn mạnh mức độ của một ADjective hoặc một ADverb khác, cho thấy một đặc điểm nào đó ở mức độ cao.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

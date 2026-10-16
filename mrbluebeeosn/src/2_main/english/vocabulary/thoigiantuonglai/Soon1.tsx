@@ -93,7 +93,7 @@ export default function SOON1(): React.JSX.Element {
 
 			<p className="margin-top-30 text-indent-whole">Chỉ một khoảng thời gian ngắn trong tương lai, một sự kiện sẽ xảy ra trong thời gian gần.</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+			<p className="margin-top-20 text-indent-whole">For example:</p>
 
 				<ul className="list-square">
 

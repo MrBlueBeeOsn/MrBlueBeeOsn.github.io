@@ -85,7 +85,7 @@ export default function SELdom1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Chỉ một hành động hoặc sự việc xảy ra không thường xuyên, rất ít lần.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

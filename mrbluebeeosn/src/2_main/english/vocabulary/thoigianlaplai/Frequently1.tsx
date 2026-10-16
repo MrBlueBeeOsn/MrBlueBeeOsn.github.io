@@ -93,7 +93,7 @@ export default function FREquently1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>FREquently</strong>" được dùng để miêu tả một hành động, sự việc xảy ra nhiều lần trong một khoảng thời gian nhất định. Nó cho thấy tính lặp đi lặp lại của một hành động hoặc sự kiện.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

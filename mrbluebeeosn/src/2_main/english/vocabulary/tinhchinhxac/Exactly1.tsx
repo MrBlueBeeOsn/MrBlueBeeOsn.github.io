@@ -89,7 +89,7 @@ export default function eXACTly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>eXACTly</strong>" dùng để nhấn mạnh sự chính xác là, hoàn toàn trùng khớp với một điều gì đó. Nó có thể được sử dụng để xác nhận, đồng ý, hoặc để làm rõ một thông tin.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

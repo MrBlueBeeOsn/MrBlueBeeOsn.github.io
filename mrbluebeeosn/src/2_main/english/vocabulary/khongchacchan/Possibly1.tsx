@@ -93,7 +93,7 @@ export default function POSsibly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>POSsibly</strong>" được dùng để diễn tả một sự việc có khả năng xảy ra, nhưng không chắc chắn hoàn toàn. Nó thường được sử dụng để thể hiện sự không chắc chắn hoặc để đưa ra một giả định.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

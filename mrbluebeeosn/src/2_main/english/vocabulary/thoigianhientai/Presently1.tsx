@@ -101,7 +101,7 @@ export default function PRESently1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">2. Sớm thôi: Khi sử dụng "<strong>PRESently</strong>" với nghĩa tương lai gần, nó có nghĩa là một việc gì đó sẽ xảy ra trong thời gian ngắn sắp tới.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

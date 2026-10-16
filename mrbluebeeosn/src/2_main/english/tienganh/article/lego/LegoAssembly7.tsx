@@ -464,7 +464,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<p className="margin-y-40 text-indent-whole"><strong>S Head DP</strong></p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+			<p className="margin-top-20 text-indent-whole">For example:</p>
 			
 				<ul className="list-square">
 
@@ -495,7 +495,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+			<p className="margin-top-20 text-indent-whole">For example:</p>
 			
 				<ul className="list-square">
 			
@@ -539,7 +539,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 			<p className="text-indent-whole">Đảo <strong>Head</strong> lên trước <strong>S</strong>.</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+			<p className="margin-top-20 text-indent-whole">For example:</p>
 			
 				<ul className="list-square">
 

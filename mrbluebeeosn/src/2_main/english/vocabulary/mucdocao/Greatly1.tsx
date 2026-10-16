@@ -89,7 +89,7 @@ export default function GREATly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>GREATly</strong>" được dùng để nhấn mạnh mức độ cao của một ADjective hoặc ADverb đi kèm. Nó thể hiện sự tăng cường về mức độ, cường độ hoặc quy mô của một hành động, trạng thái hoặc sự vật.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

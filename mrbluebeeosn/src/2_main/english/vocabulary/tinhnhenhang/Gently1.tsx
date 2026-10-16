@@ -89,7 +89,7 @@ export default function GENTly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>GENTly</strong>" được dùng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, không mạnh bạo, không gây tổn thương. Nó có thể áp dụng cho nhiều tình huống khác nhau, từ việc chạm vào một vật dễ vỡ đến việc nói chuyện với ai đó một cách dịu dàng.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

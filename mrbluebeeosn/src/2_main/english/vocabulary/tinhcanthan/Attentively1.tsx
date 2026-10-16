@@ -93,7 +93,7 @@ export default function atTENtively1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>atTENtively</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách cẩn thận, chú ý, tập trung vào chi tiết.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

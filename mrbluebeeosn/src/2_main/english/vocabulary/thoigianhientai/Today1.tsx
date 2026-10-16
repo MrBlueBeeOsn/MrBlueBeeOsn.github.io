@@ -89,7 +89,7 @@ export default function toDAY1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Chỉ thời điểm hiện tại, ngày mà người nói hoặc người nghe đang trải qua.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

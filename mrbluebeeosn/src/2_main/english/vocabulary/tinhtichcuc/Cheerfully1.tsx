@@ -97,7 +97,7 @@ export default function CHEERfully1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>CHEERfully</strong>" được dùng để miêu tả một hành động hoặc thái độ được thực hiện một cách vui vẻ, lạc quan, thể hiện sự hài lòng hoặc hứng thú.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

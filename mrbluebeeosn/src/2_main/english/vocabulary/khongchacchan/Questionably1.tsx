@@ -97,7 +97,7 @@ export default function QUESTionably1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>QUESTionably</strong>" được sử dụng để diễn tả một điều gì đó không chắc chắn, gây nghi ngờ hoặc có thể không đúng sự thật. Nó thường được dùng để thể hiện sự hoài nghi hoặc không đồng ý về một vấn đề nào đó.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

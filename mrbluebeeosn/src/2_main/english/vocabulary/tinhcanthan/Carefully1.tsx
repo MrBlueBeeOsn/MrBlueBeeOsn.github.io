@@ -93,7 +93,7 @@ export default function CAREfully1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>CAREfully</strong>" được dùng để mô tả một hành động được thực hiện một cách tỉ mỉ, chu đáo, tránh sai sót hoặc tai nạn. Nó thể hiện sự cẩn trọng và thận trọng.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

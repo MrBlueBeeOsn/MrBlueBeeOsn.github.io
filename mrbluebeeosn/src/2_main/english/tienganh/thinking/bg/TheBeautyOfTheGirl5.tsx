@@ -80,7 +80,7 @@ export default function TheBeautyOfTheGirl5(): React.JSX.Element {
 
 				<p className="margin-top-20 text-indent-whole">Đọc 10 câu ngắn/ngày:</p>
 
-				<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+				<p className="margin-top-20 text-indent-whole">For example:</p>
 			
 				<ul className="list-square">
 					

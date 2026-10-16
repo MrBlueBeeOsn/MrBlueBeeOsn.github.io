@@ -89,7 +89,7 @@ export default function OBviously1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>OBviously</strong>" được dùng để nhấn mạnh rằng một điều gì đó rất dễ thấy, dễ hiểu và không cần phải giải thích thêm. Nó thể hiện sự chắc chắn và rõ ràng về một thông tin hoặc một sự kiện.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

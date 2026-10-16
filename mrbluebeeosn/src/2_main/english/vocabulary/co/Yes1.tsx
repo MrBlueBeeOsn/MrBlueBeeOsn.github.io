@@ -85,7 +85,7 @@ export default function YES1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Dùng để khẳng định một thông tin, đồng ý với một yêu cầu hoặc câu hỏi.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

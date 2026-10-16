@@ -97,7 +97,7 @@ export default function CAUtiously1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>CAUtiously</strong>" miêu tả cách một hành động được thực hiện hoặc một tình huống được tiếp cận với sự cẩn trọng, chú ý đến những nguy hiểm hoặc vấn đề tiềm ẩn. Nó thể hiện sự đề phòng và cân nhắc kỹ lưỡng trước khi hành động.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

@@ -103,7 +103,7 @@ export default function POSitively1(): React.JSX.Element {
       
         </ol>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

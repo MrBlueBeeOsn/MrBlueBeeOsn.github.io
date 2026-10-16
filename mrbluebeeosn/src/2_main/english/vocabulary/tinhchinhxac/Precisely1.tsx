@@ -93,7 +93,7 @@ export default function preCISEly1(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">Từ "<strong>preCISEly</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách chính xác, đúng đắn, tỉ mỉ đến từng chi tiết, không có sai sót hoặc mơ hồ.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

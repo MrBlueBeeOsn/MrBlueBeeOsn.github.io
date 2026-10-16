@@ -93,7 +93,7 @@ export default function sinCEREly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>sinCEREly</strong>" được sử dụng để nhấn mạnh sự chân thành, thật lòng trong một hành động, cảm xúc hoặc lời nói. Nó thường được đặt ở cuối một bức thư, email hoặc một lời nhắn để thể hiện sự tôn trọng và chân thành của người gửi.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

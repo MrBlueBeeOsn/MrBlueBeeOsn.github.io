@@ -93,7 +93,7 @@ export default function EVidently1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>EVidently</strong>" dùng để nhấn mạnh một điều gì đó rất rõ ràng, dễ nhận thấy và không cần phải bàn cãi. Nó thường được sử dụng khi có bằng chứng rõ ràng để chứng minh một điều gì đó.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

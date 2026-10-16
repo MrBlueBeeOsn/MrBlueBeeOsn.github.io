@@ -89,7 +89,7 @@ export default function esPECially1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>esPECially</strong>" được dùng để nhấn mạnh một điều gì đó quan trọng hơn, nổi bật hơn so với những điều khác trong cùng một ngữ cảnh. Nó thường được sử dụng để chỉ ra một lý do cụ thể hoặc một điểm nhấn đặc biệt.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

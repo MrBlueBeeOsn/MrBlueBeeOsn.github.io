@@ -93,7 +93,7 @@ export default function HAPpily1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>HAPpily</strong>" được dùng để mô tả một hành động, trạng thái hoặc tình huống diễn ra trong niềm vui, sự hài lòng và mãn nguyện. Nó thể hiện cảm xúc tích cực của con người.</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 

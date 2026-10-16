@@ -197,7 +197,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 
 			<p className="text-indent-whole">Là phụ cụm.</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+			<p className="margin-top-20 text-indent-whole">For example:</p>
 			
 				<ul className="list-square">
 			
@@ -228,7 +228,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 
 			<p className="text-indent-whole">Là phụ câu.</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+			<p className="margin-top-20 text-indent-whole">For example:</p>
 			
 				<ul className="list-square">
 			

@@ -15,7 +15,7 @@ export default function BAsically1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-ve-co-ban"><mark className="highlight-tertiary-padding-4-8">ADverbs: về cơ bản</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-ve-co-ban"><mark className="highlight-tertiary-padding-4-8">ADverbs: BAsically</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">BAsically
         <sup><Link to="/vocabulary/BAsically-1">&nbsp;1&nbsp;</Link>
@@ -63,7 +63,7 @@ export default function BAsically1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>BAsically</strong>" nhé.</p>
+      <p>Great! Let's explore the word “Basically” together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -81,7 +81,7 @@ export default function BAsically1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Nói chung thì, về cơ bản</li>
+            <li>Generally speaking</li>
 
           </ul>
 
@@ -93,17 +93,17 @@ export default function BAsically1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>BAsically</strong>" được sử dụng để nhấn mạnh ý chính hoặc điểm quan trọng nhất của một vấn đề, một ý tưởng hoặc một tình huống. Nó có nghĩa là "nói chung thì" hoặc "về cơ bản".</p>
+      <p className="margin-top-30 text-indent-whole">The word “Basically” is used to emphasize the main idea or the most important point of an issue, an idea, or a situation. It means “generally speaking” or “basically.”</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">BAsically, i JUST WANT to reLAX.</li>
-          <li className="margin-bottom-20 list-none">Nói chung, tớ chỉ muốn thư giãn thôi.</li>
+          <li className="margin-bottom-20 list-none">The problem we face is simply that we don't have enough money.</li>
 
           <li>BAsically, the PROBlem is that we DON'T have eNOUGH MONey.</li>
-          <li className="list-none">Nói chung, vấn đề là chúng ta không có đủ tiền.</li>
+          <li className="list-none">The problem we face is simply that we don't have enough money.</li>
 
         </ul>
 
@@ -120,10 +120,10 @@ export default function BAsically1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the BAsic iDEa is VERy SIMple.</li>
-          <li className="margin-bottom-20 list-none">Ý tưởng cơ bản rất đơn giản.</li>
+          <li className="margin-bottom-20 list-none">The basic idea is very easy to understand.</li>
 
           <li id="NOUN">the BASE of the PYramid is VERy WIDE.</li>
-          <li className="list-none">Đế của kim tự tháp rất rộng.</li>
+          <li className="list-none">The bottom of the pyramid is wide.</li>
 
         </ul>
 
@@ -140,10 +140,10 @@ export default function BAsically1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>esSENtially, it's a QUESTion of MONey.</li>
-          <li className="margin-bottom-20 list-none">Về cơ bản, đây là vấn đề tiền bạc.</li>
+          <li className="margin-bottom-20 list-none">Basically, it all boils down to money.</li>
 
           <li>fundaMENtally, i aGREE with you.</li>
-          <li className="list-none">Về cơ bản, tôi đồng ý với bạn.</li>
+          <li className="list-none">I agree with you on the fundamental issue.</li>
 
         </ul>
 
@@ -162,10 +162,10 @@ export default function BAsically1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>speCIFically, i NEED you to FInish this rePORT by FRIday.</li>
-          <li className="margin-bottom-20 list-none">Cụ thể, tôi cần bạn hoàn thành bản báo cáo này trước thứ Sáu.</li>
+          <li className="margin-bottom-20 list-none">Please submit your report by Friday.</li>
 
           <li><Link to="/vocabulary/preCISEly-1">preCISEly</Link>, THAT'S WHAT i MEAN.</li>
-          <li className="list-none">Chính xác là, đó là điều tôi muốn nói.</li>
+          <li className="list-none">I meant exactly that.</li>
 
         </ul>
       
@@ -186,12 +186,12 @@ export default function BAsically1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một tòa nhà với một nền móng vững chắc.</p>
+      <p className="text-indent-whole">Imagine a building with a solid foundation.</p>
 
         <ul className="list-square">
 
           <li>the BUILDing is BAsically BUILT on a STRONG founDAtion.</li>
-          <li className="list-none">Tòa nhà này về cơ bản được xây dựng trên một nền móng vững chắc.</li>
+          <li className="list-none">The building is strong and sturdy, with a solid foundation.</li>
 
         </ul>
 
@@ -206,12 +206,12 @@ export default function BAsically1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ liên quan đến các tình huống hàng ngày hoặc các cuộc trò chuyện.</p>
+      <p className="text-indent-whole">Create example sentences related to everyday situations or conversations.</p>
 
         <ul className="list-square">
 
           <li>BAsically, i JUST NEED some TIME to THINK.</li>
-          <li className="list-none">Nói chung, tớ chỉ cần một chút thời gian để suy nghĩ thôi.</li>
+          <li className="list-none">All I really need is some time to think.</li>
 
         </ul>
 
@@ -226,7 +226,7 @@ export default function BAsically1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className=" margin-bottom-20">Use this word regularly in conversations or in writing.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word regularly in conversations or in writing.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
