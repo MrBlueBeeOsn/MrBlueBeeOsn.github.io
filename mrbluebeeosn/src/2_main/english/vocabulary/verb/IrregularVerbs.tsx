@@ -1262,17 +1262,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>our TEAM [WINS] <strong>ever</strong>y GAME [THIS SEAson].</li>
-					<li className="list-none">Đội của chúng ta [thắng] mọi trận đấu [trong mùa giải này].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng WINS (cho chủ thể ngôi thứ ba số ít our TEAM) để chỉ sự việc diễn ra theo quy luật.</li>
+					<li>our TEAM WINS <strong>ever</strong>y GAME THIS SEAson.</li>
+					<li className="list-none">Our team always wins games during the season.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the WINS form (for the third-person singular subject “our TEAM”) to indicate that the action occurs regularly.</li>
 			
-					<li>she [WON] the FIRST PRIZE in the compeTITion [YESterday].</li>
-					<li className="list-none">Cô ấy [đã giành được] giải nhất trong cuộc thi [ngày hôm qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng WON để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>she WON the FIRST PRIZE in the compeTITion YESterday.</li>
+					<li className="list-none">She came in first place in the competition yesterday.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “WON” form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>he [has WON] all the MATCHes EASily.</li>
-					<li className="list-none">Anh ấy [đã thắng] tất cả các trận đấu một cách dễ dàng.</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với has WON, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>he has WON all the MATCHes EASily.</li>
+					<li className="list-none">He won all the matches without much difficulty.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “has WON” to describe an event that has been completed and is related to the present.</li>
 			
 				</ul>
 
@@ -1281,17 +1281,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>a MAN [WEARS] a WARM COAT in the COLD WEATHer.</li>
-					<li className="list-none">Một người đàn ông [mặc] một chiếc áo khoác ấm trong thời tiết lạnh.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng wears (cho chủ thể ngôi thứ ba số ít A man) để chỉ thói quen hoặc sự việc diễn ra theo điều kiện thời tiết.</li>
+					<li>a MAN WEARS a WARM COAT in the COLD WEATHer.</li>
+					<li className="list-none">A man wears a warm coat in the cold outside.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “wears” (for the third-person singular subject “A man”) to refer to a habit or an event that occurs depending on weather conditions.</li>
 			
-					<li>she [WORE] a LOVEly DRESS to the PARTy [LAST NIGHT].</li>
-					<li className="list-none">Cô ấy [đã mặc] một chiếc váy xinh xắn đến bữa tiệc [vào tối qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng wore để chỉ việc đã xảy ra và kết thúc hoàn toàn trong quá khứ.</li>
+					<li>she WORE a LOVEly DRESS to the PARTy LAST NIGHT.</li>
+					<li className="list-none">She looked beautiful in a lovely dress at last night's party.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the form “wore” to indicate an action that occurred and was completely finished in the past.</li>
 			
-					<li>THIS PAIR of SHOES [has been worN OUT comPLETely].</li>
-					<li className="list-none">Đôi giày này [đã bị mòn đi hoàn toàn] [rồi].</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành bị động với cụm động worN OUT (trong đó OUT là trạng đi liền sau động worn), nói về sự việc đã hoàn tất và để lại kết quả ở hiện tại.</li>
+					<li>this PAIR of SHOES has been worN OUT comPLETely.</li>
+					<li className="list-none">These shoes are completely torn up.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Passive Tense with the verb phrase “worn out” (where ‘out’ is the adverb immediately following “worn”), referring to an action that has been completed and has left a result in the present.</li>
 			
 				</ul>
 
@@ -1300,17 +1300,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>a PLANE [FLIES HIGH] above the CLOUDS.</li>
-					<li className="list-none">Một chiếc máy bay [bay cao] trên những tầng mây.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng FLIES kết hợp với trạng HIGH (cho chủ thể ngôi thứ ba số ít a PLANE) để chỉ sự thật hoặc hành động diễn ra theo quy luật.</li>
+					<li>a PLANE FLIES HIGH above the CLOUDS.</li>
+					<li className="list-none">A plane flies high up in the sky, far above the clouds.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “FLIES” combined with the state verb ‘HIGH’ (for the third-person singular subject “a PLANE”) to express a fact or an action that occurs regularly.</li>
 			
-					<li>the BIRD [flew aWAY] QUICKly [when i CAME CLOSE].</li>
-					<li className="list-none">Con chim [đã bay vụt đi] nhanh chóng [khi tôi đến gần].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với cụm động flew aWAY để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>the BIRD flew aWAY QUICKly when i CAME CLOSE.</li>
+					<li className="list-none">The bird flew away quickly as soon as it saw me.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the phrase “flew away” to indicate an action that occurred and ended in the past.</li>
 			
-					<li>he [has FLOWN] to VietNAM on a BUSIness TRIP.</li>
-					<li className="list-none">Anh ấy [đã bay] đến Việt Nam trong một chuyến công tác.</li>
-					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (has FLOWN) để nói về sự việc đã hoàn tất và liên quan đến hiện tại, với chủ thể là he (anh ấy).</li>
+					<li>he has FLOWN to VietNAM on a BUSIness TRIP.</li>
+					<li className="list-none">He has traveled to Vietnam for work.</li>
+					<li className="list-none">This structure uses a verb in the perfect tense (has FLOWN) to describe an action that has been completed and is related to the present, with “he” as the subject.</li>
 			
 				</ul>
 			
@@ -1319,17 +1319,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the RAIN [FALLS HEAVily] on the ROOF.</li>
-					<li className="list-none">Trời mưa [rơi nặng hạt] trên mái nhà.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng FALLS (cho chủ thể ngôi thứ ba số ít the RAIN) để chỉ hiện tượng hoặc sự việc diễn ra theo quy luật tự nhiên.</li>
+					<li>the RAIN FALLS HEAVily on the ROOF.</li>
+					<li className="list-none">It is raining very heavily on the roof.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the “FALLS” form (for the third-person singular subject “the RAIN”) to describe phenomena or events that occur according to natural laws.</li>
 			
-					<li>he [FELL] from the CAMERa eQUIPment [while WORKing outSIDE].</li>
-					<li className="list-none">Anh ấy [đã bị ngã] từ chỗ thiết bị máy quay [trong lúc làm việc ngoài trời].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng FELL để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>he FELL from the CAMERa eQUIPment while WORKing outSIDE.</li>
+					<li className="list-none">He fell from some equipment while exercising outdoors.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “FELL” form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li><strong>sever</strong>al OLD TREES [have <strong>fal</strong>len DOWN] [<strong>dur</strong>ing the STORM].</li>
-					<li className="list-none">Một số cây cổ thụ [đã bị đổ sập] [trong cơn bão].</li>
-					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (FALLen) đi sau have để nói về sự việc đã xảy ra và để lại kết quả ở hiện tại, với chủ thể là <strong>sever</strong>al OLD TREES (một số cây cổ thụ).</li>
+					<li><strong>sever</strong>al OLD TREES have <strong>fal</strong>len DOWN <strong>dur</strong>ing the STORM.</li>
+					<li className="list-none">The storm knocked over several old trees.</li>
+					<li className="list-none">This structure uses a verb in the past tense (FALLen) following “have” to describe an event that has occurred and has resulted in a current outcome, with the subject being <strong>sever</strong>al OLD TREES (some ancient trees).</li>
 			
 				</ul>
 			
@@ -1338,17 +1338,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [CUTS] the VEGETables for COOKing.</li>
-					<li className="list-none">Anh ấy [cắt] rau củ để nấu ăn.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng CUTS (cho chủ thể ngôi thứ ba số ít He) để chỉ việc làm diễn ra thường xuyên.</li>
+					<li>he CUTS the VEGETables for COOKing.</li>
+					<li className="list-none">He chops the vegetables so that they are ready to cook.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the CUTS form (for the third-person singular subject “He”) to indicate an action that occurs regularly.</li>
 			
-					<li>she [CUT] a PIECE of CAKE for me [YESterday].</li>
-					<li className="list-none">Cô ấy [đã cắt] một miếng bánh ngọt cho tôi [vào ngày hôm qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng CUT để chỉ việc đã xảy ra và kết thúc trong quá khứ (từ này giữ nguyên hình thức không đổi ở dạng quá khứ).</li>
+					<li>she CUT a PIECE of CAKE for me YESterday.</li>
+					<li className="list-none">She cut a slice of cake for me yesterday.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the CUT form to indicate an action that occurred and ended in the past (this verb retains its original form in the past tense).</li>
 			
-					<li>the GRASS [has been CUT SHORT] in the GARden.</li>
-					<li className="list-none">Bãi cỏ trong vườn [đã được cắt ngắn].</li>
-					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (CUT) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là the GRASS (bãi cỏ).</li>
+					<li>the GRASS has been CUT SHORT in the GARden.</li>
+					<li className="list-none">The grass in the garden has been cut very short.</li>
+					<li className="list-none">This structure uses an action verb in the perfect tense (CUT) following “has been” to describe an action that has been completed and has produced a result in the present, with the subject affected being the GRASS (lawn).</li>
 			
 				</ul>
 			
@@ -1357,17 +1357,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [HITS] the TENnis BALL with GREAT FORCE.</li>
-					<li className="list-none">Anh ấy [đánh] quả bóng quần vợt với một lực rất mạnh.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng HITS (cho chủ thể ngôi thứ ba số ít he) để chỉ hành động diễn ra mang tính thường xuyên hoặc kỹ thuật trong thể thao.</li>
+					<li>he HITS the TENnis BALL with GREAT FORCE.</li>
+					<li className="list-none">He hits the tennis ball with a strong swing.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the HITS form (for the third-person singular subject “he”) to describe actions that occur regularly or are technical in nature in sports.</li>
 			
-					<li>the CAR [HIT] a TREE on the SIDE of the ROAD [LAST NIGHT].</li>
-					<li className="list-none">Chiếc ô tô [đã đâm] vào một cái cây bên vệ đường [vào tối qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng HIT để chỉ sự việc đã xảy ra và kết thúc trong quá khứ (từ này giữ nguyên hình thức không đổi ở dạng quá khứ).</li>
+					<li>the CAR HIT a TREE on the SIDE of the ROAD LAST NIGHT.</li>
+					<li className="list-none">The car hit a tree last night while it was on the side of the road.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the HIT form to refer to an event that occurred and ended in the past (this word remains unchanged in the past tense).</li>
 			
-					<li>the TARget [has been HIT sucCESSfully] by the ARcher.</li>
-					<li className="list-none">Mục tiêu [đã bị bắn trúng thành công] bởi cung thủ.</li>
-					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (HIT) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là the TARget (mục tiêu).</li>
+					<li>the TARget has been HIT sucCESSfully by the ARcher.</li>
+					<li className="list-none">The archer successfully hit the target.</li>
+					<li className="list-none">This structure uses an action verb in the perfect tense (HIT) following “has been” to describe an action that has been completed and has produced a result in the present, with “the TARget” as the recipient of the action.</li>
 			
 				</ul>
 			
