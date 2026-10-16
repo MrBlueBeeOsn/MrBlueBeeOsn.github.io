@@ -41,15 +41,15 @@ export default function GRATEful(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>GRATEful</strong> (ADjective): Biết ơn, cảm kích. Từ này thể hiện lòng biết ơn hoặc sự trân trọng đối với những gì người khác đã làm cho mình hoặc những điều tốt đẹp mà mình nhận được.</p>
+      <p className="margin-bottom-30"><strong>GRATEful</strong> (ADjective): Gratitude, appreciation. This word expresses gratitude or appreciation for what others have done for you or for the good things you have received.</p>
 
         <ul className="list-square">
       
           <li id="ADjective">i am DEEPly GRATEful for your supPORT during this DIFFicult TIME.</li>
-          <li className="list-none">Tôi vô cùng biết ơn sự ủng hộ của các bạn trong khoảng thời gian khó khăn này.</li>
+          <li className="margin-bottom-20 list-none">Thank you for your help at this hard time.</li>
 
           <li>she FELT GRATEful for the WARM hospiTALity of her HOSTS.</li>
-          <li className="margin-bottom-20 list-none">Cô cảm thấy vô cùng biết ơn trước sự hiếu khách nồng hậu của những người chủ nhà.</li>
+          <li className="list-none">She was thankful to her hosts for being so kind.</li>
       
         </ul>
 
@@ -65,7 +65,7 @@ export default function GRATEful(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: [GRATEful][GRĀTE ful] /ˈɡreɪt.fəl/</li>
+            <li>IPA: [GRĀTE ful] /ˈɡreɪt.fəl/</li>
             <li>phoNETic BREAKdown: GRAYT-ful</li>
 
           </ul>
@@ -84,18 +84,18 @@ export default function GRATEful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">Việc nắm vững các từ cùng gốc giúp bạn diễn đạt linh hoạt hơn qua các cấu trúc ngữ pháp khác nhau.</p>
+      <p className="margin-bottom-20">Mastering words with the same root helps you express yourself more flexibly using various grammatical structures.</p>
 
         <ul className="list-square">
 
           <li id="NOUN">the SIMplest WAY to exPRESS your GRATitude is by SAYing THANK YOU.</li>
-          <li className="margin-bottom-20 list-none">Cách đơn giản nhất để bày tỏ lòng biết ơn chính là nói “Cảm ơn”.</li>
+          <li className="margin-bottom-20 list-none">The easiest way to show you are grateful is to say "thank you".</li>
 
-          <li className="list-none">a DEEP SENSE of GRATEfulness FILLED her HEART when she SAW her FAMILy SAFE.</li>
-          <li className="list-none">Một cảm giác biết ơn sâu sắc tràn ngập trái tim cô khi cô thấy gia đình mình an toàn.</li>
+          <li>a DEEP SENSE of GRATEfulness FILLED her HEART when she SAW her FAMILy SAFE.</li>
+          <li className="margin-bottom-20 list-none">She felt very grateful when she saw that her family was safe.</li>
 
           <li id="ADverb">he GRATEfully acCEPTed the OFFer of a HOT MEAL.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy rất biết ơn khi nhận được lời mời ăn một bữa ăn nóng hổi.</li>
+          <li className="margin-bottom-20 list-none">He was very thankful to be offered a hot meal.</li>
 
         </ul>
 
@@ -105,20 +105,18 @@ export default function GRATEful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
-      <p className="margin-bottom-20">Các từ đồng nghĩa dưới đây cung cấp những sắc thái chính xác hơn tùy thuộc vào ngữ cảnh cụ thể.</p>
+      <p className="margin-bottom-40">The synonyms below offer more precise nuances depending on the specific context.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>1. THANKful</strong> (ADjective) /ˈθæŋk.fəl/</p>
-
-      <p className="text-indent-whole">Biết ơn, thường đi kèm cảm giác vui mừng hoặc nhẹ nhõm vì một điều tồi tệ đã không xảy ra hoặc một điều tốt đẹp đã đến.</p>
+      <p className="margin-top-20" id=""><strong>1. THANKful</strong>: Gratitude is often accompanied by a feeling of joy or relief that something bad did not happen or that something good did happen.</p>
 
         <ul className="list-square">
 
           <li>we were THANKful that the STORM PASSED without CAUSing any DAMage.</li>
-          <li className="list-none">Chúng tôi rất biết ơn vì cơn bão đã qua đi mà không gây ra bất kỳ thiệt hại nào.</li>
+          <li className="list-none">We were glad the storm didn't cause any damage.</li>
 
         </ul>
 
@@ -126,14 +124,12 @@ export default function GRATEful(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>2. apPREciative</strong> (ADjective) /əˈpriː.ʃə.tɪv/</p>
-
-      <p className="text-indent-whole">Biết trân trọng, thể hiện sự tán thưởng và hiểu rõ giá trị của một hành động hoặc sự giúp đỡ.</p>
+      <p className="margin-top-20" id=""><strong>2. apPREciative</strong>: To appreciate, express appreciation for, and fully understand the value of an action or an act of kindness.</p>
 
         <ul className="list-square">
 
           <li>the COMpany is HIGHly apPREciative of your HARD WORK and dediCAtion.</li>
-          <li className="list-none">Công ty vô cùng trân trọng sự nỗ lực và sự tận tâm của quý vị.</li>
+          <li className="list-none">The company really values your hard work and commitment.</li>
 
         </ul>
 
@@ -141,14 +137,12 @@ export default function GRATEful(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>3. obLIGED</strong> (ADjective) /əˈblaɪdʒd/</p>
-
-      <p className="text-indent-whole">Biết ơn hoặc cảm thấy có bổn phận phải cảm ơn ai đó vì một ân huệ, thường dùng trong bối cảnh trang trọng.</p>
+      <p className="margin-top-20" id=""><strong>3. obLIGED</strong>: To be grateful or to feel obligated to thank someone for a favor; typically used in formal contexts.</p>
 
         <ul className="list-square">
 
           <li>i would be MUCH obLIGED if you could SEND me the PROject DEtails.</li>
-          <li className="list-none">Tôi rất biết ơn nếu bạn có thể gửi cho tôi thông tin chi tiết về dự án.</li>
+          <li className="list-none">Please send me the details of the project.</li>
 
         </ul>
 
@@ -156,14 +150,12 @@ export default function GRATEful(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>4. inDEBTed</strong> (ADjective) /ɪnˈdet.ɪd/</p>
-
-      <p className="text-indent-whole">Mang ơn, biết ơn sâu sắc vì ai đó đã giúp đỡ mình vượt qua hoàn cảnh ngặt nghèo (như thể mắc một món nợ ân nghĩa).</p>
+      <p className="margin-top-20" id=""><strong>4. inDEBTed</strong>: To feel deeply grateful to someone for helping you get through a difficult situation (as if you owed them a debt of gratitude).</p>
 
         <ul className="list-square">
 
           <li>i am forEVer inDEBTed to the DOCtors who SAVED my LIFE.</li>
-          <li className="list-none">Tôi mãi mãi biết ơn các bác sĩ đã cứu mạng tôi.</li>
+          <li className="list-none">I am very grateful to the doctors who saved my life.</li>
 
         </ul>
 
@@ -171,14 +163,12 @@ export default function GRATEful(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>5. beHOLDen</strong> (ADjective) /bɪˈhəʊl.dən/</p>
-
-      <p className="text-indent-whole">Mắc nợ ân nghĩa, cảm thấy bị ràng buộc hoặc phụ thuộc vào ai đó do nhận sự giúp đỡ từ họ.</p>
+      <p className="margin-top-20" id=""><strong>5. beHOLDen</strong>: To feel indebted to someone, or to feel bound to or dependent on them because they have helped you.</p>
 
         <ul className="list-square">
 
           <li>she did NOT WANT to be beHOLDen to ANyone for her fiNANcial sucCESS.</li>
-          <li className="list-none">Cô ấy không muốn phụ thuộc vào bất kỳ ai để thành công về tài chính.</li>
+          <li className="list-none">She didn't want to be tied down to anyone if she was going to be successful financially.</li>
 
         </ul>
 

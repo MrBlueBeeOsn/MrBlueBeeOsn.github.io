@@ -45,18 +45,18 @@ export default function BEAUtiful(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>BEAUtiful</strong> (ADjective): Đẹp, có những phẩm chất mang lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc tâm trí. Từ này thường ám chỉ sự hài hòa, xuất sắc hoặc giá trị thẩm mỹ cao.</p>
+      <p className="margin-bottom-30"><strong>BEAUtiful</strong> (ADjective): possessing qualities that bring pleasure or satisfaction to the senses (especially sight) or the mind. This term often implies harmony, excellence, or high aesthetic value.</p>
 
         <ul className="list-square">
       
           <li id="ADjective">the SUNset <strong>o</strong>ver the Ocean was TRUly BEAUtiful.</li>
-          <li className="list-none">Hoàng hôn trên biển thực sự rất đẹp.</li>
+          <li className="margin-bottom-20 list-none">The sunset over the ocean was really pretty.</li>
 
           <li>WHAT a BEAUtiful SUNset!</li>
-          <li className="margin-bottom-20 list-none">Một hoàng hôn thật là đẹp làm sao!</li>
+          <li className="margin-bottom-20 list-none">Wow, what a lovely sunset!</li>
 
           <li>the POet WROTE a<strong>bout</strong> the BEAUteous STARS in the NIGHT SKY.</li>
-          <li className="list-none">Nhà thơ đã viết về những vì sao tuyệt đẹp trên bầu trời đêm.</li>
+          <li className="list-none">The poet wrote about how beautiful the stars were in the night sky.</li>
       
         </ul>
 
@@ -72,7 +72,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: [BEAUtiful][BĒAU ti fưl] /ˈbjuː.tɪ.fəl/</li>
+            <li>IPA: [BĒAU ti fưl] /ˈbjuː.tɪ.fəl/</li>
             <li>phoNETic BREAKdown: BYOO-tih-ful</li>
 
           </ul>
@@ -91,21 +91,21 @@ export default function BEAUtiful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn linh hoạt hơn trong diễn đạt, đặc biệt là khi áp dụng cấu trúc tập trung vào NOUN để mô tả tính chất.</p>
+      <p className="margin-bottom-20">Understanding how to switch between different parts of speech helps you express yourself more flexibly, especially when using structures that focus on NOUNS to describe characteristics.</p>
 
         <ul className="list-square">
           
           <li id="NOUN">the BEAUty of the LANDscape TOOK my BREATH aWAY.</li>
-          <li className="margin-bottom-20 list-none">Vẻ đẹp của phong cảnh đã khiến tôi phải thốt lên kinh ngạc.</li>
+          <li className="margin-bottom-20 list-none">I was amazed by how beautiful the landscape was.</li>
 
-          <li className="list-none">the proFESsional beauTIcian prePARED the ACtors for the FILM.</li>
-          <li className="margin-bottom-20 list-none">Chuyên viên làm đẹp đã chuẩn bị cho các diễn viên tham gia bộ phim.</li>
+          <li>the proFESsional beauTIcian prePARED the ACtors for the FILM.</li>
+          <li className="margin-bottom-20 list-none">The professional makeup artist made the actors look ready for the film.</li>
 
           <li id="VERB">they deCIded to BEAUtify the GARden with SEAsonal FLOWers.</li>
-          <li className="margin-bottom-20 list-none">Họ đã quyết định trang trí khu vườn bằng những loài hoa theo mùa.</li>
+          <li className="margin-bottom-20 list-none">They decided to make the garden look nice by adding seasonal flowers.</li>
 
           <li id="ADverb">the MUsic was BEAUtifully comPOSED and MOVED the enTIre AUdience.</li>
-          <li className="margin-bottom-20 list-none">Bản nhạc được soạn rất hay và đã lay động cả khán phòng.</li>
+          <li className="list-none">The music was beautifully written and made the whole audience feel something.</li>
 
         </ul>
 
@@ -115,20 +115,18 @@ export default function BEAUtiful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
-      <p className="margin-bottom-20">Các từ đồng nghĩa dưới đây cung cấp những sắc thái chính xác hơn tùy thuộc vào ngữ cảnh cụ thể.</p>
+      <p className="margin-bottom-40">The synonyms below offer more precise nuances depending on the specific context.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>1. GORgeous</strong> (ADjective) /ˈɡɔːrdʒəs/</p>
-
-      <p className="text-indent-whole">Dùng cho vẻ đẹp rực rỡ, lộng lẫy, thường gây ấn tượng mạnh ngay lập tức.</p>
+      <p className="margin-top-20" id=""><strong>1. GORgeous</strong>: Used to create a radiant, dazzling look that often makes an immediate, strong impression.</p>
 
         <ul className="list-square">
 
           <li>the BRIDE LOOKED ABsolutely GORgeous in her LACE GOWN.</li>
-          <li className="list-none">Cô dâu trông thật lộng lẫy trong chiếc váy ren của mình.</li>
+          <li className="list-none">The bride looked really beautiful in her lace gown.</li>
 
         </ul>
 
@@ -136,14 +134,12 @@ export default function BEAUtiful(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>2. STUNning</strong> (ADjective) /ˈstʌnɪŋ/</p>
-
-      <p className="text-indent-whole">Ám chỉ vẻ đẹp gây choáng ngợp, khiến người xem sững sờ hoặc bất ngờ.</p>
+      <p className="margin-top-20" id=""><strong>2. STUNning</strong>: Refers to beauty that is so overwhelming that it leaves the viewer speechless or surprised.</p>
 
         <ul className="list-square">
 
           <li>the PENThouse OFfers a STUNning VIEW of the CIty SKYline.</li>
-          <li className="list-none">Căn hộ áp mái mang đến tầm nhìn tuyệt đẹp ra đường chân trời thành phố.</li>
+          <li className="list-none">The penthouse has amazing views of the city skyline.</li>
 
         </ul>
 
@@ -151,14 +147,12 @@ export default function BEAUtiful(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>3. exQUISite</strong> (ADjective) /ɪkˈskwɪzɪt/</p>
-
-      <p className="text-indent-whole">Dùng cho vẻ đẹp tinh tế, sắc sảo hoặc có sự gia công cực kỳ tỉ mỉ.</p>
+      <p className="margin-top-20" id=""><strong>3. exQUISite</strong>: For a refined, sophisticated look or exceptionally meticulous craftsmanship.</p>
 
         <ul className="list-square">
 
           <li>the muSEum disPLAYED a colLECtion of exQUISite HAND-PAINted ceRAMics.</li>
-          <li className="list-none">Bảo tàng đã trưng bày một bộ sưu tập các tác phẩm gốm sứ được vẽ tay vô cùng tinh xảo.</li>
+          <li className="list-none">The museum had a display of beautiful hand-painted ceramics.</li>
 
         </ul>
 
@@ -166,14 +160,12 @@ export default function BEAUtiful(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>4. LOVEly</strong> (ADjective) /ˈlʌvli/</p>
-
-      <p className="text-indent-whole">Gợi lên vẻ đẹp duyên dáng, đáng yêu và mang lại cảm giác dễ chịu, ấm áp.</p>
+      <p className="margin-top-20" id=""><strong>4. LOVEly</strong>: It evokes a graceful, charming beauty and creates a pleasant, warm feeling.</p>
 
         <ul className="list-square">
 
           <li>we had a LOVEly afterNOON WALKing through the boTANical GARdens.</li>
-          <li className="list-none">Chúng tôi đã có một buổi chiều thật thú vị khi đi dạo trong vườn thực vật.</li>
+          <li className="list-none">We had a lovely afternoon walking through the botanical gardens.</li>
 
         </ul>
 
@@ -181,14 +173,12 @@ export default function BEAUtiful(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>5. RAdiant</strong> (ADjective) /ˈreɪdiənt/</p>
-
-      <p className="text-indent-whole">Ám chỉ vẻ đẹp rạng rỡ, tỏa sáng, thường liên quan đến sức khỏe hoặc sự hạnh phúc.</p>
+      <p className="margin-top-20" id=""><strong>5. RAdiant</strong>: Implies a radiant, glowing beauty, often associated with health or happiness.</p>
 
         <ul className="list-square">
 
           <li>she GAVE a RAdiant SMILE that INstantly BRIGHtened the ROOM.</li>
-          <li className="list-none">Cô ấy nở một nụ cười rạng rỡ, khiến cả căn phòng bừng sáng ngay lập tức.</li>
+          <li className="list-none">She smiled so brightly that the room immediately felt lighter.</li>
 
         </ul>
 
@@ -196,14 +186,12 @@ export default function BEAUtiful(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>6. aesTHETic</strong> (ADjective) /esˈθetɪk/</p>
-
-      <p className="text-indent-whole">Có tính thẩm mỹ, thuộc về cái đẹp hoặc nghệ thuật.</p>
+      <p className="margin-top-20" id=""><strong>6. aesTHETic</strong>: Aesthetic; pertaining to beauty or art.</p>
 
         <ul className="list-square">
 
           <li>the NEW FURniture was CHOsen for PUREly aesTHETic REAsons.</li>
-          <li className="list-none">Những món đồ nội thất mới này được chọn chỉ dựa trên các yếu tố thẩm mỹ.</li>
+          <li className="list-none">The new furniture was chosen because it looks nice.</li>
 
         </ul>
 
@@ -211,14 +199,12 @@ export default function BEAUtiful(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>7. magNIFicent</strong> (ADjective) /mæɡˈnɪfɪsnt/</p>
-
-      <p className="text-indent-whole">Dùng cho vẻ đẹp hùng vĩ, ấn tượng hoặc có quy mô tráng lệ.</p>
+      <p className="margin-top-20" id=""><strong>7. magNIFicent</strong>: Used to describe majestic, striking, or grand beauty.</p>
 
         <ul className="list-square">
 
           <li>the magNIFicent ARchitecture of the caTHEdral DATES BACK to the TWELFTH CENtury.</li>
-          <li className="list-none">Kiến trúc tuyệt vời của nhà thờ này có từ thế kỷ XII.</li>
+          <li className="list-none">The cathedral was built in the 12th century and its architecture is really impressive.</li>
 
         </ul>
 
