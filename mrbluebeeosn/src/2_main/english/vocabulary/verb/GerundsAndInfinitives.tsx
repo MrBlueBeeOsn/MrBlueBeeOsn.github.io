@@ -890,7 +890,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 			{/* IV. Chỉ dùng Infinitive (to V) */}
 
-			<h3 className="margin-y-50 text-center">IV. Chỉ dùng Infinitive (to V)</h3>
+			<h3 className="margin-y-50 text-center">IV. Use only the infinitive (to V)</h3>
 
 
 			<h4 className="margin-y-40" id="HATE2">1. HATE</h4>
@@ -898,8 +898,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i <strong>would HATE to MISS</strong> the DEADline for subMITting the fiNANcial AUdit rePORTS.</li>
-					<li className="list-none">Tôi <strong>sẽ rất không muốn bị lỡ</strong> hạn chót nộp báo cáo kiểm toán tài chính.</li>
-					<li className="list-none">i là chủ thể. Cấu trúc would HATE + to V dùng để bày tỏ cảm giác áy ngại, sợ hãi hoặc không muốn một sự việc cụ thể nào đó xảy ra trong tương lai hoặc trong một tình huống giả định.</li>
+					<li className="list-none">I would really rather not miss the deadline for submitting the financial audit reports.</li>
+					<li className="list-none">“I” is the subject. The structure “would HATE + to V” is used to express reluctance, fear, or a desire to prevent a specific event from occurring in the future or in a hypothetical situation.</li>
 			
 				</ul>
 			
@@ -909,8 +909,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i <strong>would LOVE to disCUSS</strong> the NEW WEB PROJect with you toMORrow.</li>
-					<li className="list-none">Tôi <strong>rất muốn thảo luận</strong> về dự án phát triển web mới với bạn vào ngày mai.</li>
-					<li className="list-none">I là chủ thể. Cấu trúc would LOVE + to V (thường được viết tắt là 'd LOVE to) dùng để bày tỏ một mong muốn mãnh liệt một cách lịch sự về một dự định trong tương lai, hoặc thường dùng để vui vẻ nhận lời mời của ai đó.</li>
+					<li className="list-none">Tomorrow, I would love to talk about the new website project with you.</li>
+					<li className="list-none">“I” is the subject. The structure “would LOVE + to V” (often abbreviated as “d LOVE to”) is used to politely express a strong desire regarding a future plan, or is often used to cheerfully accept someone's invitation.</li>
 			
 				</ul>
 			
@@ -920,8 +920,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i <strong>would LIKE to CHECK</strong> the BANK STATEments and INvoices be<strong>fore</strong> LEAVing the OFfice.</li>
-					<li className="list-none">Tôi <strong>muốn kiểm tra</strong> các bản sao kê ngân hàng và hóa đơn trước khi rời khỏi văn phòng.</li>
-					<li className="list-none">i là chủ thể. Cấu trúc would LIKE + to V (thường được viết tắt là 'd LIKE to) là cách nói trang trọng và lịch sự hơn của từ WANT, dùng để diễn tả mong muốn hoặc yêu cầu thực hiện một hành động cụ thể ở hiện tại hoặc tương lai.</li>
+					<li className="list-none">Before I leave the office, I want to review the bank statements and invoices.</li>
+					<li className="list-none">“I” is the subject. The structure “would LIKE + to V” (often abbreviated as “d LIKE to”) is a more formal and polite way of saying “WANT,” used to express a desire or request to perform a specific action in the present or future.</li>
 			
 				</ul>
 
@@ -931,8 +931,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>aGREED to HELP</strong> reVIEW the MONTHly fiNANcial rePORTs be<strong>fore</strong> the DEADline.</li>
-					<li className="list-none">Anh ấy <strong>đã đồng ý giúp</strong> kiểm tra lại các báo cáo tài chính hàng tháng trước hạn chót.</li>
-					<li className="list-none">He là chủ thể. Sau động từ aGREE, hành động tiếp theo bắt buộc phải ở dạng to V (to HELP), thể hiện sự chấp thuận hoặc cam kết thực hiện một hành động cụ thể.</li>
+					<li className="list-none">He wants to make sure the monthly financial reports are reviewed before the deadline.</li>
+					<li className="list-none">He is the subject. After the verb “aGREE,” the following action must be in the “to V” form (to HELP), expressing agreement or a commitment to perform a specific action.</li>
 			
 				</ul>
 
@@ -942,8 +942,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>LEARNED to COOK</strong> traDITional vietnaMESE DISHes USing a CAST Iron DUTCH OVen.</li>
-					<li className="list-none">Anh ấy <strong>đã học cách nấu</strong> các món ăn truyền thống của Việt Nam bằng một chiếc nồi gang Hà Lan.</li>
-					<li className="list-none">he là chủ thể. Sau động từ LEARN, hành động tiếp theo bắt buộc phải ở dạng to V (to COOK), thể hiện quá trình tiếp thu kỹ năng hoặc kiến thức mới để làm một việc cụ thể.</li>
+					<li className="list-none">He learned to cook traditional Vietnamese dishes using a cast iron Dutch oven.</li>
+					<li className="list-none">He is the subject. After the verb “LEARN,” the following action must be in the “to V” form (to COOK), indicating the process of acquiring a new skill or knowledge to perform a specific task.</li>
 			
 				</ul>
 
@@ -953,8 +953,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>reFUSED to SIGN</strong> the fiNANcial AUdit rePORT un<strong>til</strong> all ERrors were corRECTed.</li>
-					<li className="list-none">Anh ấy <strong>đã từ chối ký</strong> báo cáo kiểm toán tài chính cho đến khi tất cả các lỗi được sửa chữa.</li>
-					<li className="list-none">he là chủ thể. Sau động từ reFUSE, hành động tiếp theo bắt buộc phải ở dạng to V (to SIGN), thể hiện thái độ không đồng ý hoặc kiên quyết không thực hiện một hành động cụ thể.</li>
+					<li className="list-none">He wouldn't sign the financial audit report until all the errors had been corrected.</li>
+					<li className="list-none">He is the subject. After the verb “reFUSE,” the following action must be in the “to V” form (to SIGN), expressing disagreement or a firm refusal to perform a specific action.</li>
 			
 				</ul>
 			
@@ -964,8 +964,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>HOPES to FINish</strong> the WEB deVELopment PROJect be<strong>fore</strong> the END of the MONTH.</li>
-					<li className="list-none">Anh ấy <strong>hy vọng sẽ hoàn thành</strong> dự án phát triển web trước cuối tháng.</li>
-					<li className="list-none">he là chủ thể. Sau động từ HOPE, hành động tiếp theo bắt buộc phải ở dạng to V (to FINish), thể hiện mong ước, sự kỳ vọng sẽ thực hiện được một hành động cụ thể trong tương lai.</li>
+					<li className="list-none">He wants to finish the web development project before the end of the month.</li>
+					<li className="list-none">He is the subject. After the verb “HOPE,” the following action must be in the “to V” form (to FINish), expressing a wish or expectation that a specific action will be carried out in the future.</li>
 			
 				</ul>
 			
@@ -975,8 +975,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>deCIded to BUY</strong> a NEW CAST Iron WOK for his COOKing exPERiments.</li>
-					<li className="list-none">Anh ấy <strong>đã quyết định mua</strong> một chiếc chảo wok bằng gang mới cho các thí nghiệm nấu nướng của mình.</li>
-					<li className="list-none">he là chủ thể. Sau động từ deCIDE, hành động tiếp theo bắt buộc phải ở dạng to V (to BUY), thể hiện sự lựa chọn hoặc quyết định thực hiện một hành động cụ thể sau khi đã cân nhắc.</li>
+					<li className="list-none">He bought a new cast-iron wok to use in his cooking experiments.</li>
+					<li className="list-none">He is the subject. After the verb “decide,” the following action must be in the “to V” form (to buy), indicating a choice or decision to perform a specific action after careful consideration.</li>
 			
 				</ul>
 
@@ -986,8 +986,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>HELPED his COLleague to FIX</strong> the WEB deVELopment BUG on the PLATform.</li>
-					<li className="list-none">Anh ấy <strong>đã giúp đồng nghiệp của mình sửa</strong> lỗi phát triển web trên nền tảng.</li>
-					<li className="list-none">he là chủ thể chính, his COLleague là chủ thể nhận sự giúp đỡ. Sau HELP + sb, bạn có thể dùng trực tiếp to V (to FIX) hoặc bỏ to đi để dùng nguyên mẫu (FIX đều được).</li>
+					<li className="list-none">He helped his colleague solve an issue with the web development platform.</li>
+					<li className="list-none">He is the main subject, and his colleague is the recipient of the help. After “HELP + sb,” you can either use “to V” (e.g., “to FIX”) or omit ‘to’ and use the base form (e.g., “FIX”)—both are acceptable.</li>
 			
 				</ul>
 			
@@ -997,8 +997,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>NEEDS to reVIEW</strong> the fiNANcial STATEments be<strong>fore</strong> subMITting them to the MANager.</li>
-					<li className="list-none">Cô ấy <strong>cần phải xem lại</strong> các báo cáo tài chính trước khi nộp chúng cho người quản lý.</li>
-					<li className="list-none">she là chủ thể. Sau động từ NEED (khi chỉ nhu cầu của chủ thể), hành động tiếp theo bắt buộc phải ở dạng to V (to reVIEW), thể hiện một việc cần thiết phải thực hiện.</li>
+					<li className="list-none">Before she sends the financial statements to the manager, she needs to review them.</li>
+					<li className="list-none">“She” is the subject. After the verb ‘NEED’ (when referring to the subject's need), the following action must be in the “to V” form (to reVIEW), indicating an action that must be performed.</li>
 			
 				</ul>
 
@@ -1008,8 +1008,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>exPECTS to reCEIVE</strong> a POSitive reSPONSE from the CLIent regarding the NEW acCOUNTing SOFTware.</li>
-					<li className="list-none">Cô ấy <strong>mong đợi sẽ nhận được</strong> phản hồi tích cực từ khách hàng về phần mềm kế toán mới.</li>
-					<li className="list-none">she là chủ thể. Sau động từ exPECT, hành động tiếp theo ở dạng to V (to reCEIVE), diễn tả sự trông đợi hoặc dự đoán một sự việc sẽ diễn ra trong tương lai.</li>
+					<li className="list-none">she exPECTS to reCEIVE a POSitive reSPONSE from the CLIent regarding the NEW acCOUNTing SOFTware.</li>
+					<li className="list-none">“She” is the subject. After the verb “exPECT,” the following action is in the “to V” form (to reCEIVE), expressing the expectation or prediction that an event will occur in the future.</li>
 			
 				</ul>
 
@@ -1019,8 +1019,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the SUDden SYStem ERror <strong>FORCED her to reWRITE</strong> the enTIre acCOUNTing rePORT from SCRATCH.</li>
-					<li className="list-none">Lỗi hệ thống bất ngờ <strong>đã buộc cô ấy phải viết lại</strong> toàn bộ báo cáo kế toán từ đầu.</li>
-					<li className="list-none">the SUDden SYStem ERror là chủ thể gây ra hành động, và her là chủ thể nhận sự tác động bị bắt buộc. Sau FORCE + sb, hành động tiếp theo bắt buộc phải ở dạng to V (to reWRITE).</li>
+					<li className="list-none">There was a sudden system error. This forced her to start the accounting report from the beginning.</li>
+					<li className="list-none">“the SUDden SYStem ERror” is the agent performing the action, and ‘her’ is the recipient of the forced action. After “FORCE + sb,” the next action must be in the form of “to V” (to reWRITE).</li>
 			
 				</ul>
 
@@ -1030,8 +1030,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the MANager <strong>TOLD her to subMIT</strong> the fiNANcial SPREADsheet by this afterNOON.</li>
-					<li className="list-none">Người quản lý <strong>đã bảo cô ấy nộp</strong> bảng tính tài chính trước chiều nay.</li>
-					<li className="list-none">the MANager là chủ thể ra lệnh/nhắn nhủ, và her là chủ thể nhận yêu cầu. Sau TELL + sb, hành động tiếp theo bắt buộc phải ở dạng to V (to subMIT), dùng để ra lệnh, dặn dò hoặc hướng dẫn ai đó làm gì.</li>
+					<li className="list-none">The manager asked her to turn in the spreadsheet with the financial information by this afternoon.</li>
+					<li className="list-none">“the MANager” is the subject giving the command or instruction, and ‘her’ is the subject receiving the request. After “TELL + sb,” the following action must be in the “to V” form (e.g., “to subMIT”), which is used to give a command, instruction, or guidance to someone on what to do.</li>
 			
 				</ul>
 
@@ -1041,8 +1041,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>ASKED to LEAVE</strong> EARly to atTEND an imPORTant EVEning MEETing.</li>
-					<li className="list-none">Anh ấy <strong>đã xin phép về</strong> sớm để tham dự một cuộc họp buổi tối quan trọng.</li>
-					<li className="list-none">he là chủ thể. Khi sau ASK không có chủ thể phụ (như sb), mà chủ thể chính tự thực hiện hành động tiếp theo, ta dùng cấu trúc ASK + to V (to LEAVE), thể hiện việc xin phép hoặc đề nghị được làm gì.</li>
+					<li className="list-none">He asked to leave early so that he could attend an important meeting that evening.</li>
+					<li className="list-none">He is the subject. When there is no indirect object (such as “sb”) following “ASK,” and the main subject performs the subsequent action himself, we use the structure “ASK + to V” (to LEAVE) to express a request for permission or a suggestion to do something.</li>
 			
 				</ul>
 
@@ -1052,8 +1052,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>TENDS to CHECK</strong> the ACcuracy of the acCOUNTing rePORTs TWICE be<strong>fore</strong> subMITting them.</li>
-					<li className="list-none">Anh ấy <strong>có xu hướng kiểm tra</strong> độ chính xác của các báo cáo kế toán hai lần trước khi nộp chúng.</li>
-					<li className="list-none">he là chủ thể. Sau động từ TEND, hành động tiếp theo bắt buộc phải ở dạng to V (to CHECK), diễn tả một thói quen hoặc khuynh hướng hành xử thường thấy của chủ thể trong một hoàn cảnh nhất định.</li>
+					<li className="list-none">Before submitting accounting reports, he double-checks them for accuracy.</li>
+					<li className="list-none">He is the subject. After the verb “TEND,” the following action must be in the “to V” form (to CHECK), expressing a habit or common tendency of the subject in a specific situation.</li>
 			
 				</ul>
 			
@@ -1063,8 +1063,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>SEEMS to underSTAND</strong> the NEW WEB deVELopment FRAMEwork VERy QUICKly.</li>
-					<li className="list-none">Anh ấy <strong>dường như hiểu</strong> khung làm việc phát triển web mới rất nhanh.</li>
-					<li className="list-none">he là chủ thể. Sau động từ SEEM, hành động tiếp theo bắt buộc phải ở dạng to V (to underSTAND), dùng để thể hiện phỏng đoán hoặc trạng thái có vẻ như đang xảy ra ở hiện tại.</li>
+					<li className="list-none">He seems to understand the new web development framework easily.</li>
+					<li className="list-none">He is the subject. After the verb “SEEM,” the following action must be in the “to V” form (to UNDERSTAND), which is used to express a conjecture or a state that appears to be occurring in the present.</li>
 			
 				</ul>
 			
@@ -1074,8 +1074,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>apPEARS to SOLVE</strong> the WEBsite BUG that TROUBled the deVELopment TEAM YESterday.</li>
-					<li className="list-none">Anh ấy <strong>dường như đã giải quyết được</strong> lỗi trang web từng làm phiền đội ngũ phát triển vào ngày hôm qua.</li>
-					<li className="list-none">He là chủ thể. Sau động từ apPEAR, hành động tiếp theo bắt buộc phải ở dạng to V (to SOLVE), dùng để diễn tả sự việc trông có vẻ như đang xảy ra hoặc đúng là như vậy dựa trên quan sát thực tế.</li>
+					<li className="list-none">He seems to have fixed the website bug that caused problems for the development team yesterday.</li>
+					<li className="list-none">He is the subject. After the verb “appear,” the following verb must be in the “to V” form (to solve), used to express that something seems to be happening or is indeed the case based on actual observation.</li>
 			
 				</ul>
 
@@ -1085,8 +1085,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>deSERVES to reCEIVE</strong> a BOnus for her HARD WORK on the NEW WEB PROJect.</li>
-					<li className="list-none">Cô ấy <strong>xứng đáng nhận được</strong> một khoản tiền thưởng cho sự chăm chỉ của mình trong dự án web mới.</li>
-					<li className="list-none">she là chủ thể. Sau động từ deSERVE, hành động tiếp theo bắt buộc phải ở dạng to V (to reCEIVE), diễn tả việc một chủ thể hoàn toàn xứng đáng đạt được hoặc nhận lấy một kết quả, hành động nào đó.</li>
+					<li className="list-none">She should get extra credit for her hard work on the new web project.</li>
+					<li className="list-none">“She” is the subject. After the verb “deSERVE,” the following action must be in the “to V” form (to reCEIVE), expressing that a subject is fully deserving of achieving or receiving a certain result or action.</li>
 			
 				</ul>
 
@@ -1096,8 +1096,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>afFORDS to BUY</strong> a NEW proFESsional CAMERa to CAPture BEAUtiful LANDscapes.</li>
-					<li className="list-none">Cô ấy <strong>có đủ khả năng mua</strong> một chiếc máy ảnh chuyên nghiệp mới để ghi lại những khung cảnh thiên nhiên tươi đẹp.</li>
-					<li className="list-none">she là chủ thể. Sau động từ afFORD (thường dùng ở thể phủ định hoặc nghi vấn nhiều hơn, nhưng dạng khẳng định vẫn chính xác khi nói về tiềm lực), hành động tiếp theo bắt buộc phải ở dạng to V (to BUY).</li>
+					<li className="list-none">She decides to buy a new professional camera to take beautiful pictures of the landscape.</li>
+					<li className="list-none">“She” is the subject. After the verb ‘AFFORD’ (which is more commonly used in the negative or interrogative forms, but the affirmative form is still correct when referring to financial capacity), the following action must be in the “to V” form (to BUY).</li>
 			
 				</ul>
 
@@ -1107,8 +1107,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>MANaged to FINish</strong> the COMplex acCOUNTing rePORT be<strong>fore</strong> the STRICT DEADline.</li>
-					<li className="list-none">Anh ấy <strong>đã xoay sở hoàn thành</strong> báo cáo kế toán phức tạp trước thời hạn nghiêm ngặt.</li>
-					<li className="list-none">He là chủ thể. Sau động từ MANage, hành động tiếp theo bắt buộc phải ở dạng to V (to FINish), dùng để nhấn mạnh việc vượt qua khó khăn hoặc trở ngại để hoàn tất thành công một công việc nào đó.</li>
+					<li className="list-none">He finished his complicated accounting report before the due date.</li>
+					<li className="list-none">He is the subject. After the verb “MANage,” the following action must be in the “to V” form (to FINish), which is used to emphasize overcoming difficulties or obstacles to successfully complete a task.</li>
 			
 				</ul>
 
@@ -1118,82 +1118,82 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>FAILED to subMIT</strong> the WEBsite UPdate on TIME due to unexPECTed TECHnical ERrors.</li>
-					<li className="list-none">Cô ấy <strong>đã không thể nộp</strong> bản cập nhật trang web đúng hạn do những lỗi kỹ thuật bất ngờ.</li>
-					<li className="list-none">She là chủ thể. Sau động từ FAIL, hành động tiếp theo bắt buộc phải ở dạng to V (to subMIT), diễn tả việc không hoàn thành hoặc không thực hiện được một nhiệm vụ, hành động đã định.</li>
+					<li className="list-none">She didn't update the website on time because she ran into unexpected technical issues.</li>
+					<li className="list-none">“She” is the subject. After the verb “FAIL,” the following action must be in the “to V” form (to subMIT), expressing the failure to complete or carry out a planned task or action.</li>
 			
 				</ul>
 
 
 			{/* V. Mẹo nhớ siêu nhanh cho người Việt (2025 edition) */}
 
-			<h3 className="margin-y-50 text-center">V. Mẹo nhớ siêu nhanh cho người Việt (2025 edition)</h3>
+			<h3 className="margin-y-50 text-center">V. Super-Fast Memorization Tips for Vietnamese People (2025 Edition)</h3>
 
-			<p className="margin-y-20"><strong>Thích gì</strong>, <strong>ghét gì</strong>, <strong>ngại gì</strong> → thường là -<strong>ing</strong></p>
+			<p className="margin-y-20">What you like, dislike, or are hesitant about → usually ends in -ing</p>
 			
 				<ul className="list-square">
 			
 					<li>she <strong>enJOYS DANcing</strong> to traDITional MUsic during FAMILy GATHerings.</li>
-					<li className="list-none">Cô ấy <strong>thích nhảy múa</strong> theo điệu nhạc truyền thống trong các buổi tụ họp gia đình.</li>
-					<li className="margin-bottom-20 list-none">she là chủ thể. Sau hành động enJOY, hành động tiếp theo bắt buộc phải ở dạng -ing (DANcing), diễn tả sự tận hưởng và niềm vui khi thực hiện hành động đó.</li>
+					<li className="list-none">She likes to dance to traditional music at family gatherings.</li>
+					<li className="margin-bottom-20 list-none">“She” is the subject. After the verb “enJOY,” the next verb must be in the -ing form (DANcing), expressing the enjoyment and joy of performing that action.</li>
 			
 					<li>he <strong>HATES WAITing</strong> in LONG LINES at the COFfee SHOP during PEAK HOURS.</li>
-					<li className="list-none">Anh ấy <strong>ghét việc phải xếp hàng</strong> dài ở quán cà phê vào giờ cao điểm.</li>
-					<li className="margin-bottom-20 list-none">he là chủ thể. Sau hành động HATE, hành động ở dạng -ing (WAITing) dùng để diễn tả sự khó chịu đối với một trải nghiệm hoặc thói quen chung. (Như đã phân tích ở các phần trước, HATE + to V dùng cho việc cụ thể sắp phải làm).</li>
+					<li className="list-none">He can't stand waiting in long lines at coffee shops during busy times.</li>
+					<li className="margin-bottom-20 list-none">He is the subject. After the verb “HATE,” the -ing form (WAITing) is used to express annoyance at a general experience or habit. (As analyzed in previous sections, “HATE + to V” is used for a specific action that is about to be performed.)</li>
 			
 					<li>would you <strong>MIND HELPing</strong> me CARry these HEAVy CAST Iron COOKware BOXes?</li>
-					<li className="list-none">Bạn <strong>có phiền giúp</strong> tôi khiêng những chiếc hộp dụng cụ nấu ăn bằng gang nặng này không?</li>
-					<li className="list-none">you là chủ thể. Sau hành động MIND, hành động tiếp theo luôn ở dạng -ing (HELPing). Cấu trúc này thường dùng trong câu hỏi lịch sự hoặc câu phủ định để hỏi xem ai đó có cảm thấy khó chịu khi làm việc gì hay không.</li>
+					<li className="list-none">Can you help me carry these heavy cast iron cookware boxes?</li>
+					<li className="list-none">“You” is the subject. After the verb “MIND,” the following verb is always in the -ing form (HELPing). This structure is often used in polite questions or negative sentences to ask whether someone feels uncomfortable doing something.</li>
 			
 				</ul>
 
-			<p className="margin-y-20"><strong>Muốn gì</strong>, <strong>hứa gì</strong>, <strong>dự định gì</strong> → hầu hết là <strong>to V</strong></p>
+			<p className="margin-y-20">What you want, what you promise, what you plan → mostly to V</p>
 			
 				<ul className="list-square">
 			
 					<li>she <strong>WANTS to TRAVel</strong> to NEW CITies to exPLORE LOcal COFfee CULtures.</li>
-					<li className="list-none">Cô ấy <strong>muốn đi du lịch</strong> đến các thành phố mới để khám phá văn hóa cà phê địa phương.</li>
-					<li className="margin-bottom-20 list-none">she là chủ thể. Sau hành động WANT, hành động tiếp theo phải ở dạng to V (to TRAVel).</li>
+					<li className="list-none">She wants to travel to new cities to learn about the coffee culture there.</li>
+					<li className="margin-bottom-20 list-none">“She” is the subject. After the verb “WANT,” the next verb must be in the “to V” form (to TRAVel).</li>
 			
 					<li>he <strong>PROMised to CALL</strong> his PARents as <strong>soon</strong> as he arRIVED in the CITy.</li>
-					<li className="list-none">Anh ấy <strong>đã hứa sẽ gọi điện</strong> cho ba mẹ ngay khi đến thành phố.</li>
-					<li className="margin-bottom-20 list-none">he là chủ thể. Sau hành động PROMise, hành động tiếp theo phải ở dạng to V (to CALL).</li>
+					<li className="list-none">He said he'd call his parents as soon as he got to the city.</li>
+					<li className="margin-bottom-20 list-none">He is the subject. After the verb “PROMise,” the next verb must be in the “to V” form (e.g., “to CALL”).</li>
 			
 					<li>they <strong>PLAN to MOVE</strong> to a BIGger aPARTment near their WORKplace NEXT MONTH.</li>
-					<li className="list-none">Họ <strong>dự định chuyển đến</strong> một căn hộ lớn hơn gần nơi làm việc vào tháng tới.</li>
-					<li className="list-none">they là chủ thể. Sau hành động plan, hành động tiếp theo phải ở dạng to V (to MOVE).</li>
+					<li className="list-none">They are planning to move to a bigger apartment next month that is near their workplace.</li>
+					<li className="list-none">“They” is the subject. After the verb “plan,” the next verb must be in the “to V” form (to MOVE).</li>
 			
 				</ul>
 
-			<p className="margin-y-20"><strong>Sau GIỚI thì phải</strong> -<strong>ing</strong> (đây là luật sắt)</p>
+			<p className="margin-y-20">After a preposition, you must use the -ing form (this is an ironclad rule)</p>
 			
 				<ul className="list-square">
 			
 					<li>he <strong>DREAMS of beCOMing</strong> a proFESsional WEB deVELoper and BUILDing USEful appliCAtions.</li>
-					<li className="list-none">Anh ấy <strong>mơ ước trở thành</strong> một lập trình viên web chuyên nghiệp và xây dựng các ứng dụng hữu ích.</li>
-					<li className="margin-bottom-20 list-none">he là chủ thể. Sau giới of, hành động beCOME phải được chuyển thành dạng -ing (beCOMing).</li>
+					<li className="list-none">He dreams of becoming a professional web developer and building useful applications.</li>
+					<li className="margin-bottom-20 list-none">He is the subject. After the preposition “of,” the verb “beCOME” must be converted to the -ing form (beCOMing).</li>
 			
-					<li>she <strong>aPOLogized for being</strong> MORNing acCOUNTing MEETing.</li>
-					<li className="list-none">Cô ấy <strong>đã xin lỗi vì đến muộn</strong> trong buổi họp kế toán buổi sáng.</li>
-					<li className="margin-bottom-20 list-none">she là chủ thể. Sau giới for, hành động be phải được chuyển thành dạng -ing (being).</li>
+					<li>she <strong>aPOLogized for being</strong> LATE for the MORNing acCOUNTing MEETing.</li>
+					<li className="list-none">She apologized for arriving late to the meeting about the morning's accounting.</li>
+					<li className="margin-bottom-20 list-none">“She” is the subject. After the preposition “for,” the verb “be” must be changed to the -ing form (being).</li>
 			
 					<li>he is <strong>GOOD at SINGing</strong> traDITional SONGS and PLAYing MUsical INstruments.</li>
-					<li className="list-none">Anh ấy <strong>giỏi ca hát</strong> các bài hát truyền thống và chơi nhạc cụ.</li>
-					<li className="list-none">he là chủ thể. Sau cụm tính kết hợp giới GOOD at, hành động SING phải được chuyển thành dạng -ing (SINGing).</li>
+					<li className="list-none">He's talented when it comes to singing traditional songs and playing musical instruments.</li>
+					<li className="list-none">He is the subject. After the adjectival phrase combined with the preposition “GOOD at,” the verb “SING” must be converted to the -ing form (SINGing).</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20">Khi không chắc → tự hỏi: Đây là <strong>trải nghiệm</strong>/<strong>hoạt động nói chung hay mục đích</strong>/<strong>ý định tương lai</strong>?</p>
+			<p className="margin-top-20">When in doubt → ask yourself: Is this a general experience or activity, or a future goal or intention?</p>
 			
 				<ul className="list-square">
 
-					<li>→ Chung chung, trải nghiệm → -ing</li>
-					<li>→ Ý định, mục đích → to V</li>
+					<li>→ General experience → -ing</li>
+					<li>→ Intention, purpose → to V</li>
 			
 				</ul>
 
 			
-			<h3 className="margin-y-50 text-center">VI. Bài test nhỏ để kiểm tra ngay (chỉ 5 câu)</h3>
+			<h3 className="margin-y-50 text-center">VI. A quick quiz to test yourself right away (only 5 questions)</h3>
 
 				<ol>
 
@@ -1209,13 +1209,13 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				</ol>
 
-			<p className="margin-top-20"><strong>Đáp án bài test nhỏ</strong></p>
+			<p className="margin-top-20"><strong>Answers to the Short Quiz</strong></p>
 			
 				<ol>
 			
 					<li>SEEing</li>
 			
-					<li>STEALing / having STOlen (cả hai đều đúng, nhưng stealing phổ biến hơn)</li>
+					<li>STEALing / having STOlen (Both are correct, but “stealing” is more common.)</li>
 			
 					<li>NOT PLAYing</li>
 
@@ -1225,23 +1225,23 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				</ol>
 
-			<h3 className="margin-y-50 text-center">Kết luận: Đừng sợ, hãy "làm quen" với họ</h3>
+			<h3 className="margin-y-50 text-center">Conclusion: Don't be afraid - get to know them</h3>
 
-			<p>GERunds và inFINitives không phải là quy tắc cần học thuộc lòng, mà là <strong>hai cách nhìn khác nhau về hành động</strong>:</p>
+			<p>GERunds and inFINitives aren’t rules to be memorized, but rather two different ways of looking at actions:</p>
 			
 				<ul className="list-square">
 
-					<li>GERund (V-ing) = hành động được xem như <strong>một thứ</strong>, <strong>một trải nghiệm</strong></li>
+					<li>GERund (V-ing) = an action viewed as a thing, an experience</li>
 			
-					<li>inFINitive (to V) = hành động được xem như <strong>một mục tiêu</strong>, <strong>một ý định</strong></li>
+					<li>inFINitive (to V) = an action regarded as a goal or an intention</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Khi bạn bắt đầu nghĩ theo cách này thay vì cố nhớ từng ĐỘNG, bạn sẽ thấy chúng… thân thiện hơn rất nhiều.</p>
+			<p className="margin-top-20">Once you start thinking this way instead of trying to memorize each verb, you'll find them much more approachable.</p>
 
-			<p>Hãy thử nói to một câu với cả hai cách và cảm nhận sự khác biệt. Bạn sẽ thấy ngay: ngôn ngữ không chỉ là quy tắc, mà còn là <strong>cảm giác</strong>.</p>
+			<p>Try saying a sentence aloud both ways and notice the difference. You’ll see right away: language isn’t just about rules—it’s also about feeling.</p>
 
-			<p className="margin-top-20">Chúc bạn sớm "hòa hợp" với hai người bạn Gerund & Infinitive nhé! 💙</p>
+			<p className="margin-top-20">I hope you’ll soon “get along” with your two friends, the Gerund and the Infinitive! 💙</p>
 
 			<div className="viewcounter">
 			
