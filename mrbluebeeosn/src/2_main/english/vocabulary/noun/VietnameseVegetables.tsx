@@ -17,7 +17,7 @@ export default function VietnameseVegetables(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#nouns-fruits-&-vegetables"><mark className="highlight-tertiary-padding-4-8">NOUNS: FRUITS & VEGETables</mark></HashLink></h4>
 
-      <h1 className="margin-y-50 text-center">🌿 Rau Củ & Gia Vị Đặc Sản</h1>
+      <h1 className="margin-y-50 text-center">🌿 Specialty Vegetables, Fruits, and Spices</h1>
 
       <div className="example">
                                 
@@ -70,35 +70,35 @@ export default function VietnameseVegetables(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="WAter-SPINach">STIR-FRIED [WAter SPINach] with GARlic is a CLASsic and deLICious vietnaMESE DISH.</li>
-        <li className="list-none margin-bottom-20">[Rau muống] xào tỏi là một món ăn truyền thống và ngon miệng của Việt Nam.</li>
+        <li value="1" id="WAter-SPINach">STIR-FRIED WAter SPINach with GARlic is a CLASsic and deLICious vietnaMESE DISH.</li>
+        <li className="list-none margin-bottom-20">A classic and delicious Vietnamese dish, stir-fried water spinach with garlic is easy to make.</li>
 
-        <li value="2" id="LEMongrass">MINCED [LEMongrass] GIVES GRILLED PORK and CHICKen an inCREDible aROma.</li>
-        <li className="list-none margin-bottom-20">[Sả] băm mang lại hương thơm khó cưỡng cho các món thịt heo và thịt gà nướng.</li>
+        <li value="2" id="LEMongrass">MINCED LEMongrass GIVES GRILLED PORK and CHICKen an inCREDible aROma.</li>
+        <li className="list-none margin-bottom-20">Mixed lemongrass makes grilled pork and chicken taste really good.</li>
 
-        <li value="3" id="GINger">a WARM CUP of [GINger] TEA HELPS SOOTHE a SORE THROAT on COLD DAYS.</li>
-        <li className="list-none margin-bottom-20">Một tách trà [gừng] ấm giúp làm dịu cổ họng trong những ngày trời lạnh.</li>
+        <li value="3" id="GINger">a WARM CUP of GINger TEA HELPS SOOTHE a SORE THROAT on COLD DAYS.</li>
+        <li className="list-none margin-bottom-20">On cold days, a cup of ginger tea can help soothe a sore throat.</li>
 
-        <li value="4" id="CHILi-PEPper">ADDing a FEW SLIces of FRESH [CHILi PEPper] MAKES the NOOdle SOUP MUCH MORE FLAvorful.</li>
-        <li className="list-none margin-bottom-20">Thêm vài lát [ớt] tươi giúp món phở/bún trở nên đậm đà hương vị hơn rất nhiều.</li>
+        <li value="4" id="CHILi-PEPper">ADDing a FEW SLIces of FRESH CHILi PEPper MAKES the NOOdle SOUP MUCH MORE FLAvorful.</li>
+        <li className="list-none margin-bottom-20">Adding a few slices of fresh chilli pepper makes the noodle soup much more flavourful.</li>
 
-        <li value="5" id="bamBOO-SHOOTS">DUCK NOOdle SOUP COOKED with FRESH [bamBOO SHOOTS] is a LOcal FAVORite.</li>
-        <li className="list-none margin-bottom-20">Món bún măng vịt nấu với [măng] tươi là món ăn yêu thích của nhiều người dân địa phương.</li>
+        <li value="5" id="bamBOO-SHOOTS">DUCK NOOdle SOUP COOKED with FRESH bamBOO SHOOTS is a LOcal FAVORite.</li>
+        <li className="list-none margin-bottom-20">Duck noodle soup with fresh bamboo shoots is a local favourite.</li>
 
-        <li value="6" id="LOtus-ROOT">CRISpy FRIED [LOtus ROOT] CHIPS are a uNIQUE and HEALthy SNACK.</li>
-        <li className="list-none margin-bottom-20">Món snack [củ sen] chiên giòn là một món ăn vặt độc đáo và lành mạnh.</li>
+        <li value="6" id="LOtus-ROOT">CRISpy FRIED LOtus ROOT CHIPS are a uNIQUE and HEALthy SNACK.</li>
+        <li className="list-none margin-bottom-20">Crispy fried lotus root chips are a unique and healthy snack.</li>
 
-        <li value="7" id="BITter-MELon">STUFFED [BITter MELon] SOUP is beLIEVED to HELP COOL DOWN the BODy in SUMmer.</li>
-        <li className="list-none margin-bottom-20">Canh [khổ qua] nhồi thịt được cho là giúp giải nhiệt cơ thể vào mùa hè.</li>
+        <li value="7" id="BITter-MELon">STUFFED BITter MELon SOUP is beLIEVED to HELP COOL DOWN the BODy in SUMmer.</li>
+        <li className="list-none margin-bottom-20">Many people think that stuffed bitter melon soup is a good way to cool down in summer.</li>
 
-        <li value="8" id="CORiander">FRESH [CORiander] (or ciLANtro) is SPRINkled on TOP of a HOT BOWL of BEEF NOOdle SOUP be<strong>fore</strong> SERVing.</li>
-        <li className="list-none margin-bottom-20">[Rau mùi] tươi được rắc lên trên bát phở bò nóng hổi trước khi thưởng thức.</li>
+        <li value="8" id="CORiander">FRESH CORiander (or ciLANtro) is SPRINkled on TOP of a HOT BOWL of BEEF NOOdle SOUP be<strong>fore</strong> SERVing.</li>
+        <li className="list-none margin-bottom-20">Fresh coriander (or cilantro) is added to a bowl of beef noodle soup just before it is served.</li>
 
-        <li value="9" id="LOOfah">SWEET [LOOfah] COOKED in a SIMple SHRIMP BROTH MAKES a reFRESHing SOUP for HOT DAYS.</li>
-        <li className="list-none margin-bottom-20">[Mướp] ngọt nấu với nước dùng tôm đơn giản tạo thành món canh thanh mát cho những ngày oi bức.</li>
+        <li value="9" id="LOOfah">SWEET LOOfah COOKED in a SIMple SHRIMP BROTH MAKES a reFRESHing SOUP for HOT DAYS.</li>
+        <li className="list-none margin-bottom-20">A refreshing soup for hot days is made by cooking sweet loofah in a simple shrimp broth.</li>
 
-        <li value="10" id="VietnaMESE-CORiander">a PLATE of baLUT EGGS is NEVer comPLETE without a HANDful of [VietnaMESE CORiander].</li>
-        <li className="list-none margin-bottom-20">Một đĩa trứng vịt lộn sẽ không bao giờ trọn vẹn nếu thiếu đi một nhúm [rau răm].</li>
+        <li value="10" id="VietnaMESE-CORiander">a PLATE of baLUT EGGS is NEVer comPLETE without a HANDful of VietnaMESE CORiander.</li>
+        <li className="list-none margin-bottom-20">A plate of boiled eggs just isn't the same without a little bit of Vietnamese coriander.</li>
 
       </ol>
 
