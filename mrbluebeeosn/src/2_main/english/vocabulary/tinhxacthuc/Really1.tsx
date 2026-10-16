@@ -105,12 +105,12 @@ export default function REally1(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            Gia đình từ:
+            VoCABulary FAMILy:
       ============================= */}
         
       <p className="margin-top-20">
         <mark className="highlight-238-padding-4-8">
-          <strong>Gia đình từ</strong>:
+          <strong>VoCABulary FAMILy:</strong>:
         </mark>
       </p>
 
@@ -144,12 +144,12 @@ export default function REally1(): React.JSX.Element {
         {/* <Link to="/vocabulary/CLEARly-1">Clearly</Link> */}
 
       {/* =============================
-            Từ trái nghĩa:
+            ANtonyms:
       ============================= */}
 
       <p className="margin-top-20" id="ANtonyms">
         <mark className="highlight-238-padding-4-8">
-          <strong>Từ trái nghĩa</strong>:
+          <strong>ANtonyms</strong>:
         </mark>
       </p>
 
@@ -164,20 +164,20 @@ export default function REally1(): React.JSX.Element {
         </ul>
       
       {/* =============================
-            🌻 Mẹo học từ vựng:
+            🌻 Vocabulary-Learning Tips:
       ============================= */}
 
-      <h3 className="margin-y-50 text-center" id="VoCABulary-LEARNing-TIPS">🌻 Mẹo học từ vựng:</h3>
+      <h3 className="margin-y-50 text-center" id="VoCABulary-LEARNing-TIPS">🌻 Vocabulary-Learning Tips:</h3>
 
       {/* =============================
-            1. Liên kết hình ảnh:
+            1. Link to the image:
       ============================= */}
       
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>1. Liên kết</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>1. Link</strong></mark> 
         </strong>
-        <strong>&nbsp;với hình ảnh</strong>:
+        <strong>&nbsp;to the image</strong>:
       </p>
 
       <p className="text-indent-whole">Hình dung một biểu cảm ngạc nhiên hoặc một hành động nhấn mạnh.</p>
@@ -190,14 +190,14 @@ export default function REally1(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            2. Tạo câu ví dụ:
+            2. Create example sentences:
       ============================= */}
 
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>2. Tạo câu</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>2. Create</strong></mark> 
         </strong>
-        <strong>&nbsp;ví dụ</strong>:
+        <strong>&nbsp;example sentences</strong>:
       </p>
 
       <p className="text-indent-whole">Tạo các câu trong nhiều tình huống khác nhau để hiểu rõ hơn về cách sử dụng của "<strong>really</strong>".</p>
@@ -210,19 +210,19 @@ export default function REally1(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            3. Luyện tập thường xuyên:
+            3. Regular practice:
       ============================= */}
 
       <p className="margin-top-20">
         <strong>
-            <mark className="highlight-255-padding-4-8"><strong>3. Luyện tập</strong></mark>
+            <mark className="highlight-255-padding-4-8"><strong>3. Regular</strong></mark>
         </strong>
-        <strong>&nbsp;thường xuyên</strong>:
+        <strong>&nbsp;practice</strong>:
       </p>
 
       <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>REally</strong>" trong cuộc hội thoại để làm quen với từ này.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
+        <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
@@ -248,7 +248,7 @@ export default function REally1(): React.JSX.Element {
       
       <div className="margin-y-30 text-border1 table-container">
 
-        <h3 className="margin-y-30 text-center">Lưu ý:</h3>
+        <h3 className="margin-y-30 text-center">Note:</h3>
 
         <ul className="list-square">
 
@@ -260,7 +260,7 @@ export default function REally1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-50">Chúc bạn học tiếng Anh thật tốt! 🐝</p>
+      <p className="margin-top-50">Hoping you do great in your English studies! 🐝</p>
 
       <div className="viewcounter">
       

@@ -108,12 +108,12 @@ export default function BAsically1(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            Gia đình từ:
+            VoCABulary FAMILy:
       ============================= */}
         
       <p className="margin-top-20">
         <mark className="highlight-238-padding-4-8">
-          <strong>Gia đình từ</strong>:
+          <strong>VoCABulary FAMILy</strong>:
         </mark>
       </p>
 
@@ -150,12 +150,12 @@ export default function BAsically1(): React.JSX.Element {
         {/* <Link to="/vocabulary/CLEARly-1">Clearly</Link> */}
 
       {/* =============================
-            Từ trái nghĩa:
+            ANtonyms:
       ============================= */}
 
       <p className="margin-top-20" id="ANtonyms">
         <mark className="highlight-238-padding-4-8">
-          <strong>Từ trái nghĩa</strong>:
+          <strong>ANtonyms</strong>:
         </mark>
       </p>
 
@@ -170,20 +170,20 @@ export default function BAsically1(): React.JSX.Element {
         </ul>
       
       {/* =============================
-            🌻 Mẹo học từ vựng:
+            🌻 Vocabulary-Learning Tips:
       ============================= */}
 
-      <h3 className="margin-y-50 text-center" id="VoCABulary-LEARNing-TIPS">🌻 Mẹo học từ vựng:</h3>
+      <h3 className="margin-y-50 text-center" id="VoCABulary-LEARNing-TIPS">🌻 Vocabulary-Learning Tips:</h3>
 
       {/* =============================
-            1. Liên kết hình ảnh:
+            1. Link to the image:
       ============================= */}
       
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>1. Liên kết</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>1. Link</strong></mark> 
         </strong>
-        <strong>&nbsp;với hình ảnh</strong>:
+        <strong>&nbsp;to the image</strong>:
       </p>
 
       <p className="text-indent-whole">Hình dung một tòa nhà với một nền móng vững chắc.</p>
@@ -196,14 +196,14 @@ export default function BAsically1(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            2. Tạo câu ví dụ:
+            2. Create example sentences:
       ============================= */}
 
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>2. Tạo câu</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>2. Create</strong></mark> 
         </strong>
-        <strong>&nbsp;ví dụ</strong>:
+        <strong>&nbsp;example sentences</strong>:
       </p>
 
       <p className="text-indent-whole">Tạo các câu ví dụ liên quan đến các tình huống hàng ngày hoặc các cuộc trò chuyện.</p>
@@ -216,33 +216,33 @@ export default function BAsically1(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            3. Luyện tập thường xuyên:
+            3. Regular practice:
       ============================= */}
 
       <p className="margin-top-20">
         <strong>
-            <mark className="highlight-255-padding-4-8"><strong>3. Luyện tập</strong></mark>
+            <mark className="highlight-255-padding-4-8"><strong>3. Regular</strong></mark>
         </strong>
-        <strong>&nbsp;thường xuyên</strong>:
+        <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className=" margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
+      <p className=" margin-bottom-20">Use this word regularly in conversations or in writing.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
+        <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">i LIKE to EAT VEGETables.</li>
-            <li className="list-none margin-bottom-20">Tôi thích ăn rau.</li>
+            <li className="list-none margin-bottom-20">I like eating vegetables.</li>
 
             <li value="2">BAsically, i LIKE to EAT HEALthy FOOD.</li>
-            <li className="list-none margin-bottom-20">Nói chung, tôi thích ăn thực phẩm lành mạnh.</li>
+            <li className="list-none margin-bottom-20">I like to eat healthy food.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>BAsically</strong>" để tổng kết một cách rộng hơn về sở thích ăn uống của người nói.</p>
+        <p className="margin-y-10">The difference: The second sentence uses “Basically” to provide a broader summary of the speaker's eating preferences.</p>
 
       </div>
 
@@ -254,19 +254,19 @@ export default function BAsically1(): React.JSX.Element {
       
       <div className="margin-y-30 text-border1 table-container">
 
-        <h3 className="margin-y-30 text-center">Lưu ý:</h3>
+        <h3 className="margin-y-30 text-center">Note:</h3>
 
         <ul className="list-square">
 
-          <li>Rút gọn: "<strong>BAsically</strong>" thường được dùng để rút gọn một ý tưởng phức tạp thành một ý tưởng đơn giản hơn.</li>
+          <li>Abbreviation: “BAsically” is often used to simplify a complex idea into a simpler one.</li>
 
-          <li className="margin-bottom-20">Tập trung vào ý chính: Nó giúp người nghe hoặc người đọc dễ dàng nắm bắt được ý chính.</li>
+          <li className="margin-bottom-20">Focus on the main idea: This helps listeners or readers easily grasp the main idea.</li>
 
         </ul>
 
       </div>
 
-      <p className="margin-top-50">Chúc bạn học tiếng Anh thật tốt! 🐝</p>
+      <p className="margin-top-50">Hoping you do great in your English studies! 🐝</p>
 
       <div className="viewcounter">
       

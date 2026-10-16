@@ -143,7 +143,7 @@ export default function NOW2(): React.JSX.Element {
 
       <div className="margin-y-30 text-border1 table-container">
 
-        <h3 className="margin-y-30 text-center">Lưu ý:</h3>
+        <h3 className="margin-y-30 text-center">Note:</h3>
 
         <ul className="list-square">
 

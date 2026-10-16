@@ -75,7 +75,7 @@ export default function BAsically2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>BAsically</strong>" (nói chung thì) và các cụm từ thường đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word “Basically” and the phrases that often go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function BAsically2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "về cơ bản", "một cách đơn giản", được dùng để nhấn mạnh ý chính hoặc ý tưởng cốt lõi của một vấn đề.
+            &nbsp;In English, this means “basically” or “simply put” and is used to emphasize the main point or core idea of an issue.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function BAsically2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="the-SAME">these TWO PROducts are BAsically the SAME.</li>
-        <li className="list-none margin-bottom-20">Hai sản phẩm này về cơ bản là giống nhau.</li>
+        <li className="list-none margin-bottom-20">These two products are essentially the same.</li>
 
         <li value="2" id="imPOSsible">it's BAsically imPOSsible to FInish this TASK in ONE DAY.</li>
-        <li className="list-none margin-bottom-20">Về cơ bản, việc hoàn thành nhiệm vụ này trong một ngày là điều không thể.</li>
+        <li className="list-none margin-bottom-20">It is impossible to complete this task in one day.</li>
 
         <li value="3" id="TRUE">what he SAID was BAsically TRUE.</li>
-        <li className="list-none margin-bottom-20">Những gì anh ấy nói về cơ bản là đúng.</li>
+        <li className="list-none margin-bottom-20">He said something that was basically true.</li>
 
         <li value="4" id="FInished">the PROject is BAsically FInished.</li>
-        <li className="list-none margin-bottom-20">Dự án về cơ bản đã hoàn thành.</li>
+        <li className="list-none margin-bottom-20">The PROject is almost done.</li>
 
         <li value="5" id="the-SAME-THING">APples and PEARS are BAsically the SAME THING.</li>
-        <li className="list-none margin-bottom-20">Táo và lê về cơ bản là một thứ.</li>
+        <li className="list-none margin-bottom-20">Apples and pears are very similar.</li>
 
         <li value="6" id="a-WASTE-of-TIME">WATCHing that MOvie was BAsically a WASTE of TIME.</li>
-        <li className="list-none margin-bottom-20">Xem bộ phim đó thực ra chỉ là một sự lãng phí thời gian.</li>
+        <li className="list-none margin-bottom-20">Watching that movie was basically a waste of time.</li>
 
         <li value="7" id="the-iDEa-is">BAsically the iDEa is to SIMplify the PROCess.</li>
-        <li className="list-none margin-bottom-20">Về cơ bản, ý tưởng là nhằm đơn giản hóa quy trình.</li>
+        <li className="list-none margin-bottom-20">The idea is to make the process easier.</li>
 
         <li value="8" id="underSTOOD-the">i THINK <strong>ever</strong>yone BAsically underSTOOD the inSTRUCtions.</li>
-        <li className="list-none margin-bottom-20">Tôi nghĩ về cơ bản thì ai cũng đã hiểu rõ các hướng dẫn.</li>
+        <li className="list-none margin-bottom-20">Everyone pretty much got the instructions.</li>
 
-        <li value="9" id="the-SAME-as-the">THIS NEW MOdel is BAsically the SAME as the OLD one.</li>
-        <li className="list-none margin-bottom-20">Mẫu mới này về cơ bản giống hệt mẫu cũ.</li>
+        <li value="9" id="the-SAME-as-the">this NEW MOdel is BAsically the SAME as the OLD one.</li>
+        <li className="list-none margin-bottom-20">This new model isn't very different from the old one.</li>
 
         <li value="10" id="SPEAKing">BAsically SPEAKing, we NEED MORE TIME to FInish the PROject.</li>
-        <li className="list-none margin-bottom-20">Nói một cách đơn giản, chúng ta cần thêm thời gian để hoàn thành dự án.</li>
+        <li className="list-none margin-bottom-20">In simple terms, we need more time to finish the project.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên thường được sử dụng để làm cho ý tưởng trở nên dễ hiểu hơn, đơn giản hóa thông tin và tập trung vào những điểm chính. Chúng thường được sử dụng trong giao tiếp hàng ngày và trong nhiều lĩnh vực khác nhau.</p>
+      <p>** These phrases are often used to make ideas easier to understand, simplify information, and focus on the main points. They are commonly used in everyday communication and across a variety of fields.</p>
 
       {/* =============================
             Lưu ý:
@@ -143,19 +143,19 @@ export default function BAsically2(): React.JSX.Element {
 
       <div className="margin-y-30 text-border1 table-container">
 
-        <h3 className="margin-y-30 text-center">Lưu ý:</h3>
+        <h3 className="margin-y-30 text-center">Note:</h3>
 
         <ul className="list-square">
 
-          <li>"<strong>BAsically</strong>" thường được đặt ở đầu câu hoặc trước một cụm từ để nhấn mạnh ý nghĩa.</li>
+          <li>"<strong>BAsically</strong>" is often placed at the beginning of a sentence or before a phrase to emphasize the meaning.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ cuộc trò chuyện hàng ngày đến các bài thuyết trình.</li>
+          <li className="margin-bottom-20">This word can be used in a variety of contexts, from everyday conversation to presentations.</li>
 
         </ul>
 
       </div>
 
-      <p className="margin-top-50">Hy vọng những thông tin này hữu ích cho bạn! 🐝</p>
+      <p className="margin-top-50">Hoping this information is helpful to you! 🐝</p>
 
       <div className="viewcounter">
       
