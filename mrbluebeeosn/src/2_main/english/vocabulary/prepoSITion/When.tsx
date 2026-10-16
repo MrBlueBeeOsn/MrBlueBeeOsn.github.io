@@ -199,7 +199,7 @@ export default function When(): React.JSX.Element {
         <ul className="list-square">
 
           <li>you can BORrow my CAR whe<strong>nev</strong>er you NEED it.</li>
-          <li className="margin-bottom-20 list-none">You can borrow my car whenever you need it.</li>
+          <li className="margin-bottom-20 list-none">Should you require a vehicle, I would be happy to lend you mine.</li>
 
         </ul>
       
