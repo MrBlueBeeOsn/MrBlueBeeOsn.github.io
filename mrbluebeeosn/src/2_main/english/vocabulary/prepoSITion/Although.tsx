@@ -36,15 +36,15 @@ export default function Although(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30">al<strong>though</strong> (prepoSITion): Mặc dù, dẫu cho. Từ này được dùng để mở đầu cho một câu con chỉ sự nhượng bộ, thể hiện một kết quả bất ngờ hoặc tương phản với thực tế được nhắc đến trong câu con đó.</p>
+      <p className="margin-bottom-30">al<strong>though</strong> (prepoSITion): even though. This word is used to introduce a subordinate clause that expresses a concession, an unexpected outcome, or a contrast with the fact mentioned in that subordinate clause.</p>
 
         <ul className="list-square">
       
           <li id="prepoSITion">al<strong>though</strong> it RAINED HEAVily, they STILL WENT for a WALK.</li>
-          <li className="margin-bottom-20 list-none">Mặc dù trời mưa rất to, nhưng họ vẫn đi dạo.</li>
+          <li className="margin-bottom-20 list-none">Even though it was raining really heavily, they still went for a walk.</li>
 
           <li>the ROOM was RATHer SMALL, al<strong>though</strong> it was VERy CLEAN and COMFORTable.</li>
-          <li className="list-none">Căn phòng khá nhỏ, mặc dù rất sạch sẽ và thoải mái.</li>
+          <li className="list-none">The room was small, but it was clean and comfortable.</li>
       
         </ul>
 
@@ -79,12 +79,12 @@ export default function Although(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">Từ "al<strong>though</strong>" là một prepoSITion thuần túy và không có các dạng biến đổi trực tiếp như DANH, hành động hay ADjective trong họ từ của riêng nó. Tuy nhiên, nó có mối quan hệ gốc rễ chặt chẽ với từ though và các từ mang gốc biểu đạt sự nhượng bộ hoặc tương phản liên quan bao gồm:</p>
+      <p className="margin-bottom-20">The word "although" is a pure preposition and has no direct inflected forms—such as nouns, verbs, or adjectives—within its own word class. However, it is closely related to the word "though" and other words that express concession or contrast, including:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">we comPLETely forGOT the MAP. we MANaged to FIND the hoTEL, THOUGH.</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi đã hoàn toàn quên mất bản đồ. Tuy nhiên, chúng tôi vẫn tìm được khách sạn.</li>
+          <li className="margin-bottom-20 list-none">We didn't have a map, but we did find the hotel.</li>
 
         </ul>
 
@@ -94,7 +94,7 @@ export default function Although(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
-      <p className="margin-bottom-20">Dưới đây là các prepoSITion và cụm từ có chức năng tương tự như "al<strong>though</strong>" nhưng mang sắc thái biểu đạt hoặc cấu trúc ngữ pháp khác nhau.</p>
+      <p className="margin-bottom-20">Below are prepositions and phrases that function similarly to "although" but have different nuances or grammatical structures.</p>
 
       {/* =============================
             1. 
@@ -102,15 +102,15 @@ export default function Although(): React.JSX.Element {
 
       <p className="margin-top-20" id=""><strong>1. Though</strong> /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</p>
 
-      <p className="text-indent-whole">Thường dùng phổ biến trong văn nói hàng ngày hơn "al<strong>though</strong>", có tính linh hoạt cao vì vừa làm prepoSITion đứng đầu/giữa câu, vừa làm ADverb đứng ở cuối câu.</p>
+      <p className="text-indent-whole">It is more commonly used in everyday speech than "although" and is highly versatile because it can function both as a preposition at the beginning or in the middle of a sentence and as an adverb at the end of a sentence.</p>
 
         <ul className="list-square">
 
           <li>though she was TIred, she FINished the rePORT on TIME.</li>
-          <li className="margin-bottom-20 list-none">Dù cô ấy mệt mỏi, cô ấy vẫn hoàn thành bản báo cáo đúng hạn.</li>
+          <li className="margin-bottom-20 list-none">She was tired, but she finished the report on time.</li>
 
           <li>they deCIded to GO on a PICnic, though the WEATHer was disapPOINting.</li>
-          <li className="list-none">Họ quyết định đi dã ngoại, dù thời tiết không được như mong đợi.</li>
+          <li className="list-none">They decided to go on a picnic, even though the weather was bad.</li>
 
         </ul>
 
@@ -118,14 +118,12 @@ export default function Although(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id="">2. Even though /ˈiːvn ðəʊ/ (UK) hoặc /ˈiːvn ðoʊ/ (US)</p>
-
-      <p className="text-indent-whole">Mang ý nghĩa mạnh hơn "al<strong>though</strong>", nhấn mạnh sự tương phản rõ rệt hoặc một thực tế gây bất ngờ lớn.</p>
+      <p className="margin-top-20" id="">2. Even though: It carries a stronger meaning than "al<strong>though</strong>," emphasizing a stark contrast or a highly surprising fact.</p>
 
         <ul className="list-square">
 
           <li>Even though he STUDied HARD, he FAILED the FInal eXAM.</li>
-          <li className="list-none">Mặc dù cậu ấy đã học rất chăm chỉ, nhưng cậu ấy vẫn trượt kỳ thi cuối kỳ.</li>
+          <li className="list-none">He studied really hard, but he didn't pass the final exam.</li>
 
         </ul>
 
@@ -133,14 +131,12 @@ export default function Although(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id="">3. In spite of /ɪn spaɪt əv/</p>
-
-      <p className="text-indent-whole">Mặc dù; đây là một cụm GIỚI, do đó theo sau nó phải là một DANH, Danh cụm hoặc V-ing (không đi với một câu con).</p>
+      <p className="margin-top-20" id="">3. In spite of: However, this is a PREPOSITIONAL PHRASE, so it must be followed by a NOUN, a noun phrase, or a -ing form (it does not take a subordinate clause).</p>
 
         <ul className="list-square">
 
-          <li>in spite of the HEAVy TRAFfic, we arRIVED at the MEETing on SCHEDule.</li>
-          <li className="list-none">Mặc dù giao thông rất đông đúc, chúng tôi vẫn đến nơi họp đúng giờ.</li>
+          <li>Even though there was a lot of traffic, we made it to the meeting on time.</li>
+          <li className="list-none">There was a lot of traffic, but we made it to the meeting on time.</li>
 
         </ul>
 
@@ -148,14 +144,12 @@ export default function Although(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id="">4. de<strong>spite</strong> /dɪˈspaɪt/</p>
-
-      <p className="text-indent-whole">Tương tự như "in spite of", đây là một GIỚI mang sắc thái trang trọng hơn và theo sau bởi một DANH, Danh cụm hoặc V-ing.</p>
+      <p className="margin-top-20" id="">4. de<strong>spite</strong>: Similar to "in spite of," this is a PREPOSITION with a more formal tone, followed by a NOUN, a noun phrase, or a -ing form.</p>
 
         <ul className="list-square">
 
           <li>de<strong>spite</strong> HAVing a BAD COLD, she perFORMED BRILliantly on STAGE.</li>
-          <li className="list-none">Mặc dù bị cảm lạnh nặng, cô ấy vẫn biểu diễn xuất sắc trên sân khấu.</li>
+          <li className="list-none">She sang really well on stage, even though she had a bad cold.</li>
 
         </ul>
 
@@ -163,14 +157,12 @@ export default function Although(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20" id="">5. Even if /ˈiːvn ɪf/</p>
-
-      <p className="text-indent-whole">Ngay cả khi, cho dù; dùng để diễn tả một giả định hoặc một điều kiện không ảnh hưởng đến kết quả của câu con chính.</p>
+      <p className="margin-top-20" id="">5. Even if: "although"; used to express a supposition or a condition that does not affect the outcome of the main clause.</p>
 
         <ul className="list-square">
 
           <li>Even if you START RIGHT NOW, you will STILL MISS the TRAIN.</li>
-          <li className="list-none">Ngay cả khi bạn bắt đầu ngay lập tức, bạn vẫn sẽ bỏ lỡ chuyến tàu.</li>
+          <li className="list-none">Even if you start right now, you will still miss the train.</li>
 
         </ul>
 
@@ -178,14 +170,12 @@ export default function Although(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20" id="">6. Much as /mʌtʃ æz/ (UK) hoặc /mʌtʃ əz/ (US)</p>
-
-      <p className="text-indent-whole">Mặc dù rất, dù cho rất; thường đi kèm với các hành động chỉ cảm xúc như like, love, want, dislike để nhấn mạnh mức độ của sự nhượng bộ.</p>
+      <p className="margin-top-20" id="">6. Much as: Although very, even though very; often used with verbs expressing emotions—such as like, love, want, and dislike—to emphasize the degree of concession.</p>
 
         <ul className="list-square">
 
           <li>MUCH as i would LIKE to STAY, i REALly must GO HOME NOW.</li>
-          <li className="list-none">Dù rất muốn ở lại, nhưng tôi thực sự phải về nhà ngay bây giờ.</li>
+          <li className="list-none">I would like to stay, but I really must go home now.</li>
 
         </ul>
 
@@ -193,14 +183,12 @@ export default function Although(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20" id="">7. while /waɪl/</p>
-
-      <p className="text-indent-whole">Mặc dù, trong khi; khi đặt ở đầu câu, từ này có thể dùng để thay thế cho "al<strong>though</strong>" nhằm tạo sự đối lập nhẹ nhàng giữa hai sự kiện.</p>
+      <p className="margin-top-20" id="">7. while: Although, when placed at the beginning of a sentence, this word can be used in place of "although" to create a gentle contrast between two events.</p>
 
         <ul className="list-square">
 
           <li>while i underSTAND your POINT of VIEW, i CANnot aGREE with your deCISion.</li>
-          <li className="list-none">Mặc dù tôi hiểu quan điểm của bạn, nhưng tôi không thể đồng ý với quyết định của bạn.</li>
+          <li className="list-none">I see what you mean, but I don't agree with your choice.</li>
 
         </ul>
 
@@ -208,14 +196,12 @@ export default function Although(): React.JSX.Element {
             8. 
       ============================= */}
 
-      <p className="margin-top-20" id="">8. al<strong>be</strong>it /ˌɔːlˈbiːɪt/</p>
-
-      <p className="text-indent-whole">Trang trọng</p>
+      <p className="margin-top-20" id="">8. al<strong>be</strong>it: Solemnly</p>
 
         <ul className="list-square">
 
           <li id="">the uniVERsity acCEPTed the proPOsal, al<strong>be</strong>it with CERtain reserVAtions.</li>
-          <li className="list-none">Trường đại học đã chấp nhận đề xuất này, dù vẫn còn một số băn khoăn.</li>
+          <li className="list-none">The university agreed to the proposal, but said there were some problems with it.</li>
 
         </ul>
 

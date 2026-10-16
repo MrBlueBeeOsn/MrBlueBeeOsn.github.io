@@ -77,7 +77,7 @@ export default function EnglishTopic(): React.JSX.Element {
           //   }
           // }}
         >
-          <mark className="highlight-tertiary-padding-2-4">\pronunciAtion\</mark>
+          <mark className="highlight-tertiary-padding-2-4">pronunciAtion</mark>
         </NavLink>
 
         {/* Tiếng anh */}
@@ -97,7 +97,7 @@ export default function EnglishTopic(): React.JSX.Element {
           //   }
           // }}
         >
-          <mark className="highlight-tertiary-padding-2-4">Tiếng Anh</mark>
+          <mark className="highlight-tertiary-padding-2-4">VietnaMESE</mark>
         </NavLink>
 
         {/* Vocabulary */}
@@ -117,7 +117,7 @@ export default function EnglishTopic(): React.JSX.Element {
           //   }
           // }}
         >
-          <mark className="highlight-tertiary-padding-2-4">Từ vựng</mark>
+          <mark className="highlight-tertiary-padding-2-4">voCABulary</mark>
         </NavLink>
 
       </div>

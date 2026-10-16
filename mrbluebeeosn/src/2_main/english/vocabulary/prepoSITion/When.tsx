@@ -47,7 +47,7 @@ export default function When(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">He lived in London when he was a child.</li>
 
           <li>i will NEVer forGET the DAY when we FIRST MET.</li>
-          <li className="margin-bottom-20 list-none">I will always remember the day we first met.</li>
+          <li className="list-none">I will always remember the day we first met.</li>
           <li className="list-none">Used to replace a NOUN referring to time that precedes and is directly connected to the relative clause.</li>
       
         </ul>

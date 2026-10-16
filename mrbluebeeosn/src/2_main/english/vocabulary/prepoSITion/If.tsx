@@ -44,27 +44,27 @@ export default function If(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>if</strong> (prepoSITion): Nếu, nếu như, giả sử. Từ này được dùng để mở đầu cho một câu con điều kiện, diễn tả một tình huống giả định, một khả năng có thể xảy ra hoặc một điều kiện cần thiết để một sự việc khác diễn ra. Ngoài ra, trong câu gián tiếp, nó còn mang nghĩa là "liệu có... hay không".</p>
+      <p className="margin-bottom-30"><strong>if</strong> (prepoSITion): Suppose. This word is used to introduce a conditional clause, expressing a hypothetical situation, a possible outcome, or a necessary condition for something else to happen. Additionally, in indirect speech, it also means "whether or not."</p>
 
         <ul className="list-square">
       
           <li id="prepoSITion1">if you STUDy HARD, you will PASS the EXAM.</li>
-          <li className="list-none">Nếu bạn học tập chăm chỉ, bạn sẽ đạt kết quả tốt trong kỳ thi.</li>
+          <li className="margin-bottom-20 list-none">If you study hard, you will pass the exam.</li>
 
-          <li className="list-none">if it RAINS toMORrow, we will CANcel the PICnic.</li>
-          <li className="margin-bottom-20 list-none">Nếu ngày mai có mưa, chúng ta sẽ hủy buổi dã ngoại.</li>
+          <li>if it RAINS toMORrow, we will CANcel the PICnic.</li>
+          <li className="margin-bottom-20 list-none">If it rains tomorrow, we will cancel the picnic.</li>
 
-          <li className="list-none">we can GO for a WALK if the RAIN STOPS.</li>
-          <li className="margin-bottom-20 list-none">Nếu trời tạnh mưa, chúng ta có thể đi dạo.</li>
+          <li>we can GO for a WALK if the RAIN STOPS.</li>
+          <li className="margin-bottom-20 list-none">If it stops raining, we can go for a walk.</li>
 
           <li id="prepoSITion2">if i had a LOT of MONey, i would TRAVel around the WORLD.</li>
-          <li className="margin-bottom-20 list-none">Nếu tôi có rất nhiều tiền, tôi sẽ đi du lịch khắp thế giới.</li>
+          <li className="margin-bottom-20 list-none">If I had loads of money, I would travel around the world.</li>
 
           <li id="prepoSITion3">if she had STARTed EARlier, she would NOT have MISSED the TRAIN.</li>
-          <li className="margin-bottom-20 list-none">Nếu cô ấy bắt đầu sớm hơn, cô ấy đã không bị lỡ chuyến tàu.</li>
+          <li className="margin-bottom-20 list-none">If she had got on the train earlier, she would not have missed it.</li>
 
-          <li className="list-none">if you had STUDied HARDer YESterday, you would KNOW the ANswer NOW.</li>
-          <li className="margin-bottom-20 list-none">Nếu hôm qua bạn đã học chăm chỉ hơn, thì bây giờ bạn đã biết câu trả lời rồi.</li>
+          <li>if you had STUDied HARDer YESterday, you would KNOW the ANswer NOW.</li>
+          <li className="margin-bottom-20 list-none">If you had studied harder yesterday, you would know the answer now.</li>
       
         </ul>
 
@@ -99,13 +99,13 @@ export default function If(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">Từ "if" là một prepoSITion ngắn và không có các dạng biến đổi trực tiếp bằng cách thêm tiền tố hay hậu tố. Tuy nhiên, nó nằm trong một nhóm các từ và cụm từ ngữ pháp biểu thị điều kiện hoặc sự giả định có cùng bản chất chức năng:</p>
+      <p className="margin-bottom-20">The word "if" is a short preposition and does not have any direct inflected forms created by adding prefixes or suffixes. However, it belongs to a group of words and grammatical phrases that express conditions or assumptions and share the same functional nature:</p>
 
         <ul className="list-square">
  
           <li id="NOUN">STOP WORrying a<strong>bout</strong> all the  what-ifs and FOCus on the PRESent.</li>
-          <li className="margin-bottom-20 list-none">Đừng lo lắng về những điều “nếu như” nữa và hãy tập trung vào hiện tại.</li>
-          <li className="list-none">Lưu ý ngữ cảnh: Thường dùng số nhiều 'what-ifs'. Stop worrying về những điều "nếu như" và hãy tập trung vào hiện tại.</li>
+          <li className="margin-bottom-20 list-none">Stop worrying about things that might happen and focus on what is happening now.</li>
+          <li className="list-none">Context note: The plural form "what-ifs" is commonly used. Stop worrying about "what-ifs" and focus on the present.</li>
 
         </ul>
 
@@ -115,20 +115,18 @@ export default function If(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
-      <p className="margin-bottom-20">Dưới đây là các từ và cụm từ có chức năng tương tự như "if" dùng để thiết lập một điều kiện hoặc giả định, kèm theo sắc thái biểu đạt riêng.</p>
+      <p className="margin-bottom-20">Below are words and phrases that function similarly to "if" and are used to establish a condition or assumption, each with its own expressive nuance.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20" id="">1. proVIded that /prəˈvaɪdɪd ðæt/ (hoặc proVIding that)</p>
-
-      <p className="text-indent-whole">Với điều kiện là, miễn là; mang sắc thái trang trọng và nhấn mạnh vào điều kiện bắt buộc hơn "if".</p>
+      <p className="margin-top-20" id="">1. proVIded that or proVIding that, as long as: these expressions have a more formal tone and place greater emphasis on the condition than "if."</p>
 
         <ul className="list-square">
 
           <li>proVIded that you reTURN the CAR by 5 p.M., you can BORrow it.</li>
-          <li className="list-none">Miễn là bạn trả lại xe trước 5 giờ chiều, bạn có thể mượn xe.</li>
+          <li className="list-none">If you return the car by 5 p.m., you can borrow it.</li>
 
         </ul>
 
@@ -136,28 +134,21 @@ export default function If(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id="">2. as LONG as /æz lɒŋ æz/ (UK) hoặc /æz lɔːŋ æz/ (US)</p>
-
-      <p className="text-indent-whole">Miễn là, chỉ cần; thường dùng phổ biến trong văn nói hàng ngày để đưa ra một điều kiện cụ thể.</p>
+      <p className="margin-top-20" id="">2. as LONG as: commonly used in everyday speech to state a specific condition.</p>
 
         <ul className="list-square">
 
           <li>you can STAY HERE as LONG as you KEEP the ROOM CLEAN.</li>
-          <li className="list-none">Bạn có thể ở lại đây miễn là bạn giữ phòng sạch sẽ.</li>
+          <li className="list-none">You can stay here as long as you keep the room clean.</li>
 
         </ul>
       
-      
-      <p className="margin-top-20 text-indent-whole">Gộp lại theo đúng logic: "Lâu đến mức như...".</p>
 
       {/* =============================
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id="">3. un<strong>less</strong> /ʌnˈles/</p>
-
-      <p className="text-indent-whole">Trừ khi, nếu không; từ này tương đương với cấu trúc "if not".</p>
-      <p className="text-indent-whole">"Trừ khi" chính là loại trừ một điều kiện/tình huống.</p>
+      <p className="margin-top-20" id="">3. un<strong>less</strong>: otherwise - this phrase is equivalent to the "if not" structure, which excludes a condition or situation.</p>
 
         <ul className="list-square">
 
@@ -170,14 +161,12 @@ export default function If(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id="">4. in case /ɪn keɪs/</p>
-
-      <p className="text-indent-whole">Phòng khi, trong trường hợp; dùng để diễn tả một hành động chuẩn bị trước cho một tình huống có khả năng xảy ra.</p>
+      <p className="margin-top-20" id="">4. in case: "Just in case," "in the event that"; used to describe an action taken in advance to prepare for a situation that may occur.</p>
 
         <ul className="list-square">
 
           <li>TAKE an umBRELla in case it RAINS LAter.</li>
-          <li className="list-none">Hãy mang theo một chiếc ô phòng trường hợp trời mưa sau này.</li>
+          <li className="list-none">Bring an umbrella in case it rains.</li>
 
         </ul>
 
@@ -185,14 +174,12 @@ export default function If(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20" id="">5. asSUMing that /əˈsjuːmɪŋ ðæt/ (UK) hoặc /əˈsuːmɪŋ ðæt/ (US)</p>
-
-      <p className="text-indent-whole">Giả sử rằng, cứ cho là; dùng khi muốn chấp nhận một giả thuyết là đúng để thảo luận về kết quả của nó.</p>
+      <p className="margin-top-20" id="">5. asSUMing that: "Suppose that," "let's assume"; used when one wishes to accept a hypothesis as true in order to discuss its implications.</p>
 
         <ul className="list-square">
 
           <li>asSUMing that we START on TIME, we should FINish by NOON.</li>
-          <li className="list-none">Nếu giả sử chúng ta bắt đầu đúng giờ, thì chúng ta sẽ hoàn thành trước trưa.</li>
+          <li className="list-none">If we start on time, we should finish by midday.</li>
 
         </ul>
 
@@ -200,14 +187,12 @@ export default function If(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20" id="">6. On conDITion that /ɒn kənˈdɪʃn ðæt/ (UK) hoặc /ɑːn kənˈdɪʃn ðæt/ (US)</p>
-
-      <p className="text-indent-whole">Với điều kiện là; một cụm từ rất trang trọng, thường dùng trong các thỏa thuận hoặc văn bản pháp lý.</p>
+      <p className="margin-top-20" id="">6. On conDITion that: "Provided that" is a very formal phrase, commonly used in agreements or legal documents.</p>
 
         <ul className="list-square">
 
           <li>he was GRANTed BAIL on conDITion that he STAYED in the COUNtry.</li>
-          <li className="list-none">Anh ta đã được cho tại ngoại với điều kiện phải ở lại trong nước.</li>
+          <li className="list-none">He was allowed to leave but had to promise to stay in the country.</li>
 
         </ul>
 
@@ -215,14 +200,12 @@ export default function If(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20" id="">7. <strong>wheth</strong>er /ˈweðə(r)/</p>
-
-      <p className="text-indent-whole">Liệu... có hay không; dùng thay thế cho "if" khi có sự lựa chọn giữa hai khả năng (thường đi kèm cấu trúc whether... or not), mang sắc thái trang trọng hơn "if".</p>
+      <p className="margin-top-20" id="">7. <strong>wheth</strong>er: "Whether... or not"; used in place of "if" when there is a choice between two possibilities (usually with the structure "whether... or not"), and has a more formal tone than "if."</p>
 
         <ul className="list-square">
 
           <li>i DON'T KNOW <strong>wheth</strong>er she will acCEPT the JOB OFfer or NOT.</li>
-          <li className="list-none">Tôi không biết liệu cô ấy có chấp nhận lời mời làm việc đó hay không.</li>
+          <li className="list-none">I don't know if she will say yes to the job offer.</li>
 
         </ul>
 
@@ -231,14 +214,12 @@ export default function If(): React.JSX.Element {
             8. 
       ============================= */}
 
-      <p className="margin-top-20" id="">8. if Only /ɪf ˈəʊnli/ (UK) hoặc /ɪf ˈoʊnli/ (US)</p>
-
-      <p className="text-indent-whole">Cụm từ cố định - diễn tả ước muốn</p>
+      <p className="margin-top-20" id="">8. if Only: Fixed phrases - expressing a wish</p>
 
         <ul className="list-square">
 
           <li className="list-none">if Only i had KNOWN the TRUTH EARlier, THINGS would be DIFFERent.</li>
-          <li className="margin-bottom-20 list-none">Giá như tôi biết sự thật sớm hơn, mọi chuyện đã khác rồi.</li>
+          <li className="margin-bottom-20 list-none">I wish I had known the truth sooner. Things would be different if I had.</li>
 
         </ul>
           
