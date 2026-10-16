@@ -110,10 +110,10 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[running], [happiness]</li>
-					<li className="margin-bottom-20 list-none">– [NOUN as HEAD][DANH làm LÕI]</li>
+					<li className="margin-bottom-20 list-none">– [NOUN as HEAD]</li>
 			
 					<li>[reading books], [to win a prize]</li>
-					<li className="margin-bottom-20 list-none">– [NOUN PHRASE][DANH CỤM]</li>
+					<li className="margin-bottom-20 list-none">– [NOUN PHRASE]</li>
 			
 					<li>[what she said], [that he came late]</li>
 					<li className="list-none">– [NOUN CLAUSE][DANH ĐIỀU]</li>
@@ -126,10 +126,10 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[beautiful], [sparkling]</li>
-					<li className="margin-bottom-20 list-none">– [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI]</li>
+					<li className="margin-bottom-20 list-none">– [ADjective as pre-MODifier] của [NOUN as HEAD]</li>
 			
 					<li>[too hot to handle], [full of joy]</li>
-					<li className="margin-bottom-20 list-none">– [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM]</li>
+					<li className="margin-bottom-20 list-none">– [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE]</li>
 			
 					<li>[who helped me], [that I bought]</li>
 					<li className="list-none">– [ADjective CLAUSE][TÍNH ĐIỀU]</li>
@@ -145,10 +145,10 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">– [ADverb HEAD][TRẠNG LÕI]</li>
 			
 					<li>[to earn money], [with great care]</li>
-					<li className="margin-bottom-20 list-none">– [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ]</li>
+					<li className="margin-bottom-20 list-none">– [ADverb PHRASE as ADjunct]</li>
 			
 					<li>[because it rained], [when you arrive]</li>
-					<li className="list-none">– [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ]</li>
+					<li className="list-none">– [ADverb PHRASE as ADjunct]</li>
 			
 				</ul>
 			
@@ -158,7 +158,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[run], [think], [be]</li>
-					<li className="margin-bottom-20 list-none">– [LEXical VERB][VỰNG ĐỘNG]</li>
+					<li className="margin-bottom-20 list-none">– [LEXical VERB]</li>
 			
 					<li>[will finish the report]</li>
 					<li className="margin-bottom-20 list-none">– [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase]</li>
@@ -187,7 +187,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">– [prepoSITion][GIỚI]</li>
 			
 					<li>[in the park], [on the table], [with a smile]</li>
-					<li className="list-none">– [prepoSITion PHRASE][GIỚI CỤM]</li>
+					<li className="list-none">– [prepoSITion PHRASE]</li>
 			
 				</ul>
 			
@@ -240,23 +240,23 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>[______] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Chạy bộ] thì thú vị.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Running] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "Run" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Running] - [GERund-PARTiciple FORM] hình thành từ khối [LEXical VERB] nguyên bản "Run" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Running] – [NOUN as HEAD][DANH làm LÕI] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu, chỉ đối tượng chính của toàn bộ ý).</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Running] – [NOUN as HEAD] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu, chỉ đối tượng chính của toàn bộ ý).</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]: [to paint landscapes]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>NOUN PHRASE</strong>]: [to paint landscapes]</p>
 			
 				<ul className="list-square">
 			
 					<li>She loves [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy thích [vẽ phong cảnh].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to paint landscapes] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] gồm [to-infiniTIval][TO-NGUYÊN] to paint và thành phần đi kèm landscapes.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to paint landscapes] – [to-infiniTIval CLAUSE] gồm [to-infiniTIval][TO-NGUYÊN] to paint và thành phần đi kèm landscapes.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to paint landscapes] – [NOUN PHRASE][DANH CỤM] đóng vai trò [OBject PROnoun] (thành phần chịu tác động từ hành động loves).</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to paint landscapes] – [NOUN PHRASE] đóng vai trò [OBject PROnoun] (thành phần chịu tác động từ hành động loves).</li>
 			
 				</ul>
 			
@@ -303,9 +303,9 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>She wore a [______] necklace.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đeo một chiếc vòng cổ [lấp lánh].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [sparkling] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] hình thành từ khối [LEXical VERB][VỰNG ĐỘNG] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [sparkling] - [GERund-PARTiciple FORM] hình thành từ khối [LEXical VERB] nguyên bản "spark" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [sparkling] – [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] bổ nghĩa trực tiếp cho necklace.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [sparkling] – [ADjective as pre-MODifier] của [NOUN as HEAD] bổ nghĩa trực tiếp cho necklace.</li>
 			
 				</ul>
 			
@@ -317,9 +317,9 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The soup tastes [______].</li>
 					<li className="margin-bottom-20 list-none">Món canh có vị [quá mặn đối với tôi].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [too salty for me] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] gồm [TÍNH] salty và phần mở rộng.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [too salty for me] – [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] gồm [TÍNH] salty và phần mở rộng.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [too salty for me] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ sung ý nghĩa cho The soup.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [too salty for me] – [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] bổ sung ý nghĩa cho The soup.</li>
 			
 				</ul>
 			
@@ -363,9 +363,9 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>She studies hard [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy học chăm chỉ [để qua kỳ thi].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to pass the exam] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng nguyên mẫu.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to pass the exam] – [to-infiniTIval CLAUSE] dạng nguyên mẫu.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] chỉ mục đích, bổ nghĩa cho studies hard.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADverb PHRASE as ADjunct] chỉ mục đích, bổ nghĩa cho studies hard.</li>
 			
 				</ul>
 			
@@ -379,7 +379,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [because it was raining heavily] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] bên trong có cặp it + was raining.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it was raining heavily] – [ADverb PHRASE as ADjunct][TRẠNG CỤM làm PHỤ] chỉ nguyên nhân, bổ nghĩa cho hành động stayed.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it was raining heavily] – [ADverb PHRASE as ADjunct] chỉ nguyên nhân, bổ nghĩa cho hành động stayed.</li>
 			
 				</ul>
 			
@@ -436,9 +436,9 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The boy [______] is my brother.</li>
 					<li className="margin-bottom-20 list-none">Cậu bé [đang chơi bóng đá] là anh tôi.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [playing football] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] dạng -ing.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [playing football] – [GERund-PARTiciple CLAUSE] dạng -ing.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [playing football] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ nghĩa cho The boy.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [playing football] – [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] bổ nghĩa cho The boy.</li>
 			
 				</ul>
 			
@@ -450,9 +450,9 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The car [______] runs smoothly.</li>
 					<li className="margin-bottom-20 list-none">Chiếc xe [được sửa hôm qua] chạy rất êm.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [repaired yesterday] – [PAST PARTiciple CLAUSE][KHỨ TÍNH ĐIỀU] dạng *-ed*.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [repaired yesterday] – [PAST PARTiciple CLAUSE] dạng *-ed*.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [repaired yesterday] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ nghĩa cho The car.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [repaired yesterday] – [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] bổ nghĩa cho The car.</li>
 			
 				</ul>
 			
@@ -464,24 +464,24 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>She is a person [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy là một người [phù hợp với vị trí này].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [suitable for this position] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] gồm [TÍNH] suitable và [Giới Cụm] for this position.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [suitable for this position] – [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] gồm [TÍNH] suitable và [Giới Cụm] for this position.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [suitable for this position] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ nghĩa cho a person.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [suitable for this position] – [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] bổ nghĩa cho a person.</li>
 			
 				</ul>
 			
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>chứa</strong> [<strong>Giới Cụm</strong>] [<strong>Prepositional Phrase</strong>]: [in the blue dress]</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>Giới Cụm</strong>] [<strong>Prepositional Phrase</strong>]: [in the blue dress]</p>
 			
 				<ul className="list-square">
 			
 					<li>The woman [______] is my aunt.</li>
 					<li className="margin-bottom-20 list-none">Người phụ nữ [trong chiếc váy xanh] là dì tôi.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in the blue dress] – [prepoSITion PHRASE][GIỚI CỤM] bắt đầu bằng [GIỚI] in + thành phần đi kèm the blue dress.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in the blue dress] – [prepoSITion PHRASE] bắt đầu bằng [GIỚI] in + thành phần đi kèm the blue dress.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the blue dress] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ nghĩa cho The woman, chỉ đặc điểm nhận dạng.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the blue dress] – [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] bổ nghĩa cho The woman, chỉ đặc điểm nhận dạng.</li>
 			
 				</ul>
 
@@ -617,8 +617,8 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li>The teacher [<strong>explaining slowly</strong>] is very patient.</li>
 					<li className="margin-bottom-20 list-none">Người giáo viên [<strong>giảng chậm</strong>] thì rất kiên nhẫn.</li>
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [explaining slowly] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] dạng -ing.</li>
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [explaining slowly] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ nghĩa cho The teacher, chỉ đặc điểm của giáo viên.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [explaining slowly] – [GERund-PARTiciple CLAUSE] dạng -ing.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [explaining slowly] – [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] bổ nghĩa cho The teacher, chỉ đặc điểm của giáo viên.</li>
 			
 				</ul>
 			
@@ -630,16 +630,16 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Người đàn ông [<strong>đội mũ đen</strong>] là ba tôi.</li>
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [đội mũ đen] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] gồm [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] đội + thành phần đi kèm mũ đen.</li>
-					<li className="margin-bottom-20 list-none">Chức năng: [đội mũ đen] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ nghĩa cho Người đàn ông, chỉ đặc điểm nhận dạng.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [đội mũ đen] – [GERund-PARTiciple CLAUSE] gồm [GERund-PARTiciple FORM] đội + thành phần đi kèm mũ đen.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [đội mũ đen] – [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] bổ nghĩa cho Người đàn ông, chỉ đặc điểm nhận dạng.</li>
 			
 					<li>Cuốn sách [<strong>tôi đọc dở dang</strong>] vẫn nằm trên bàn.</li>
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [tôi đọc dở dang] – [CONtact CLAUSE][CHẠM ĐIỀU] bên trong có cặp tôi + đọc.</li>
 					<li className="margin-bottom-20 list-none">Chức năng: [tôi đọc dở dang] – [ADjective CLAUSE][TÍNH ĐIỀU] bổ nghĩa cho Cuốn sách, xác định cuốn sách nào.</li>
 			
 					<li>Cô gái [<strong>đang hát kia</strong>] là ca sĩ nổi tiếng.</li>
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [đang hát kia] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] dạng đang + [ĐỘNG] hát + chỉ định kia.</li>
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [đang hát kia] – [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] bổ nghĩa cho Cô gái, chỉ đặc điểm nhận dạng.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [đang hát kia] – [GERund-PARTiciple CLAUSE] dạng đang + [ĐỘNG] hát + chỉ định kia.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [đang hát kia] – [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] bổ nghĩa cho Cô gái, chỉ đặc điểm nhận dạng.</li>
 			
 				</ul>
 
@@ -728,7 +728,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>[______] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Học tập] thì thú vị.</li>
 			
-					<li className="list-none">[Learning] – [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] → [NOUN as HEAD][DANH làm LÕI] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu).</li>
+					<li className="list-none">[Learning] – [GERund-PARTiciple FORM] → [NOUN as HEAD] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu).</li>
 			
 				</ul>
 
@@ -741,7 +741,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>[______] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Bơi mỗi sáng] thì thú vị.</li>
 			
-					<li className="list-none">[to swim every morning] – [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] dạng to + thành phần đi kèm → [NOUN PHRASE][DANH CỤM] – vẫn đóng vai trò Danh Chủ.</li>
+					<li className="list-none">[to swim every morning] – [to-infiniTIval CLAUSE] dạng to + thành phần đi kèm → [NOUN PHRASE] – vẫn đóng vai trò Danh Chủ.</li>
 			
 				</ul>
 			
@@ -770,7 +770,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The man [______] is a doctor.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [sống cạnh nhà] là bác sĩ.</li>
 			
-					<li className="list-none">[who lives next door] – [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] → [ADjective CLAUSE][TÍNH ĐIỀU] – bổ nghĩa cho The man.</li>
+					<li className="list-none">[who lives next door] – [Open interROGative CONtent CLAUSE] → [ADjective CLAUSE][TÍNH ĐIỀU] – bổ nghĩa cho The man.</li>
 			
 				</ul>
 			
@@ -782,7 +782,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The man [______] is a doctor.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [sống cạnh nhà] là bác sĩ.</li>
 			
-					<li className="list-none">[living next door] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] rút gọn → [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] – vẫn bổ nghĩa cho The man.</li>
+					<li className="list-none">[living next door] – [GERund-PARTiciple CLAUSE] rút gọn → [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] – vẫn bổ nghĩa cho The man.</li>
 			
 				</ul>
 			
@@ -794,7 +794,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The [______] man is a doctor.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [thân thiện] là bác sĩ.</li>
 			
-					<li className="list-none">[friendly] – [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] – vẫn bổ nghĩa cho man.</li>
+					<li className="list-none">[friendly] – [ADjective as pre-MODifier] của [NOUN as HEAD] – vẫn bổ nghĩa cho man.</li>
 			
 				</ul>
 			
@@ -823,7 +823,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>He succeeded [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy thành công [bằng cách làm việc chăm chỉ].</li>
 			
-					<li className="list-none">[by working hard] – [prepoSITion PHRASE][GIỚI CỤM] dạng [Giới Cụm] + [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] -ing → [ADjunct][PHỤ] – vẫn chỉ nguyên nhân/cách thức.</li>
+					<li className="list-none">[by working hard] – [prepoSITion PHRASE] dạng [Giới Cụm] + [GERund-PARTiciple FORM] -ing → [ADjunct][PHỤ] – vẫn chỉ nguyên nhân/cách thức.</li>
 			
 				</ul>
 			
@@ -868,7 +868,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The teacher [______] is very patient.</li>
 					<li className="margin-bottom-20 list-none">Người giáo viên [giảng chậm] thì rất kiên nhẫn.</li>
 			
-					<li className="list-none">[explaining slowly] – [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] → [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM].</li>
+					<li className="list-none">[explaining slowly] – [GERund-PARTiciple CLAUSE] → [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE].</li>
 			
 				</ul>
 			
@@ -880,7 +880,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The [______] teacher is very kind.</li>
 					<li className="margin-bottom-20 list-none">Người giáo viên [kiên nhẫn] thì rất tử tế.</li>
 			
-					<li className="list-none">[patient] – [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] – bổ nghĩa cho teacher.</li>
+					<li className="list-none">[patient] – [ADjective as pre-MODifier] của [NOUN as HEAD] – bổ nghĩa cho teacher.</li>
 			
 				</ul>
 			

@@ -130,7 +130,7 @@ export default function DependentClause1(): React.JSX.Element {
 
 			<p>Mọi phụ câu dù dài hay ngắn đều chỉ đảm nhận vị trí tương đương với một từ loại cơ bản.</p>
 			
-			<h4 className="margin-y-40">Chức năng [RELative CLAUSE][QUAN ĐIỀU]</h4>
+			<h4 className="margin-y-40">Chức năng [RELative CLAUSE]</h4>
 					
 			<p className="text-indent-whole">Nằm ngay sau một NOUN để định hình hoặc làm rõ đặc điểm cho NOUN đó.</p>
 			
@@ -141,7 +141,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm [THAT is BARKing] đóng vai trò như một [RELative CLAUSE][QUAN ĐIỀU] lớn để phân biệt con chó này với những con khác</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm [THAT is BARKing] đóng vai trò như một [RELative CLAUSE] lớn để phân biệt con chó này với những con khác</p>
 			
 			
 			<h4 className="margin-y-40">Chức năng [ADjunct][PHỤ]</h4>
@@ -158,9 +158,9 @@ export default function DependentClause1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">→ Cụm [be<strong>cause</strong> it was COLD] giải thích nguyên nhân cho việc ở trong nhà.</p>
 			
 			
-			<h4 className="margin-y-40">Chức năng [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU]</h4>
+			<h4 className="margin-y-40">Chức năng [Open interROGative CONtent CLAUSE]</h4>
 					
-			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Câu thông thường để làm [PROnoun as HEAD][ĐẠI làm LÕI] hoặc [RElative PROnoun][QUAN ĐẠI] chịu tác động.</p>
+			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Câu thông thường để làm [PROnoun as HEAD] hoặc [RElative PROnoun][QUAN ĐẠI] chịu tác động.</p>
 			
 				<ul className="list-square">
 			
@@ -169,7 +169,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm  [what you MEAN] đóng vai trò làm [RElative PROnoun][QUAN ĐẠI] đứng sau [PREDicator HEAD][VỊ LÕI] "underSTAND"</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm  [what you MEAN] đóng vai trò làm [RElative PROnoun][QUAN ĐẠI] đứng sau [PREDicator HEAD] "underSTAND"</p>
 
 			{/* 4. Chiến Lược 3 Bước Để Tạo Câu Phức Mượt Mà */}
 

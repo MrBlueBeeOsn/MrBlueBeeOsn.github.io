@@ -28,7 +28,7 @@ export default function (): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [reCORDing every BUSIness transACtion] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa, không có chủ thể thực hiện hành động đứng trước và không biến đổi theo thời gian. \n\n Chức năng: [reCORDing every BUSInesstransACtion] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] cả này giữ vai trò làm thành phần [SUBject][CHỦ] đứng đầu chính đứng trước \"is\"."
+			explanation: "Hình thái: [reCORDing every BUSIness transACtion] - [GERund-PARTiciple CLAUSE] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa, không có chủ thể thực hiện hành động đứng trước và không biến đổi theo thời gian. \n\n Chức năng: [reCORDing every BUSInesstransACtion] - [non-FInite CLAUSE as SUBject] được hình thành từ [NOUN PHRASE] cả này giữ vai trò làm thành phần [SUBject] đứng đầu chính đứng trước \"is\"."
 		},
 		{
 			id: 2,
@@ -38,7 +38,7 @@ export default function (): React.JSX.Element {
 				"[ADVERB]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [adJUSTing] - [GERund-PARTiciple FORM][DANH-TÍNH DẠNG] bắt đầu từ [ĐỘNG] nguyên bản dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adJUSTing] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] đi kèm ngay trước \"ENtries\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [adJUSTing] - [GERund-PARTiciple FORM] bắt đầu từ [ĐỘNG] nguyên bản dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adJUSTing] - [ADjective as pre-MODifier] của [NOUN as HEAD] đi kèm ngay trước \"ENtries\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function (): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [CALculating the TOtal PAYroll for the STAFF] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa phía sau, không có chủ thể riêng biệt. \n\n Chức năng: [CALculating the TOtal PAYroll for the STAFF] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đi kèm sau hành động chính \"WORKED\" đứng ra bổ nghĩa cho hành động đó theo góc độ cách thức."
+			explanation: "Hình thái: [CALculating the TOtal PAYroll for the STAFF] - [GERund-PARTiciple CLAUSE] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa phía sau, không có chủ thể riêng biệt. \n\n Chức năng: [CALculating the TOtal PAYroll for the STAFF] - [non-FInite CLAUSE as ADjunct] đi kèm sau hành động chính \"WORKED\" đứng ra bổ nghĩa cho hành động đó theo góc độ cách thức."
 		},
 		{
 			id: 4,
@@ -58,7 +58,7 @@ export default function (): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to mainTAIN ACcurate fiNANcial REcords] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng hành động đi kèm \"to\" phía trước kết hợp thành phần bổ nghĩa, không chứa chủ thể thực hiện hành động. \n\n Chức năng: [to mainTAIN ACcurate fiNANcial REcords] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] được hình thành từ [NOUN PHRASE][DANH CỤM] cả này giữ vai trò làm thành phần [SUBject][CHỦ] đứng đầu chính đứng trước \"reQUIres\"."
+			explanation: "Hình thái: [to mainTAIN ACcurate fiNANcial REcords] - [to-infiniTIval CLAUSE] bắt đầu bằng hành động đi kèm \"to\" phía trước kết hợp thành phần bổ nghĩa, không chứa chủ thể thực hiện hành động. \n\n Chức năng: [to mainTAIN ACcurate fiNANcial REcords] - [non-FInite CLAUSE as SUBject] được hình thành từ [NOUN PHRASE] cả này giữ vai trò làm thành phần [SUBject] đứng đầu chính đứng trước \"reQUIres\"."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function (): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [conTAINing all the CREDit SALES] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] bắt đầu bằng hành động thêm đuôi \"-ing\" kết hợp thành phần bổ nghĩa, không có chủ thể riêng đứng trước. \n\n Chức năng: [conTAINing all the CREDit SALES] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] đứng sau \"the LEDGer\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [conTAINing all the CREDit SALES] - [GERund-PARTiciple CLAUSE] bắt đầu bằng hành động thêm đuôi \"-ing\" kết hợp thành phần bổ nghĩa, không có chủ thể riêng đứng trước. \n\n Chức năng: [conTAINing all the CREDit SALES] - [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] đứng sau \"the LEDGer\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 6,
@@ -78,7 +78,7 @@ export default function (): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to AUtomate the BOOKkeeping PROCess] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] bắt đầu bằng hành động có \"to\" đi kèm các thành phần bổ nghĩa. \n\n Chức năng: [to AUtomate the BOOKkeeping PROCess] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đứng sau hành động chính \"USE\" đứng ra bổ nghĩa cho hành động đó theo góc độ mục đích."
+			explanation: "Hình thái: [to AUtomate the BOOKkeeping PROCess] - [to-infiniTIval CLAUSE] bắt đầu bằng hành động có \"to\" đi kèm các thành phần bổ nghĩa. \n\n Chức năng: [to AUtomate the BOOKkeeping PROCess] - [non-FInite CLAUSE as ADjunct] đứng sau hành động chính \"USE\" đứng ra bổ nghĩa cho hành động đó theo góc độ mục đích."
 		},
 		{
 			id: 7,
@@ -88,7 +88,7 @@ export default function (): React.JSX.Element {
 				"[emBEDded NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [Open interROGative CONtent CLAUSE][MỞ VẤN NỘI ĐIỀU] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
+			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [GERund-PARTiciple CLAUSE] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [Open interROGative CONtent CLAUSE] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [emBEDded NOUN PHRASE] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [FInite CLAUSE as COMplement] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function (): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [that the BOOKkeeper MADE a SERious ERror] - [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] bắt đầu bằng \"that\", có chứa chủ thể \"the BOOKkeeper\" và hành động \"made\" xác định theo thời quá khứ. \n\n Chức năng: [that the BOOKkeeper MADE a SERious ERror] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] đứng sau hành động \"REalized\" giữ vai trò tiếp nhận tác động từ hành động này."
+			explanation: "Hình thái: [that the BOOKkeeper MADE a SERious ERror] - [deCLARative CONtent CLAUSE] bắt đầu bằng \"that\", có chứa chủ thể \"the BOOKkeeper\" và hành động \"made\" xác định theo thời quá khứ. \n\n Chức năng: [that the BOOKkeeper MADE a SERious ERror] - [FInite CLAUSE as COMplement] đứng sau hành động \"REalized\" giữ vai trò tiếp nhận tác động từ hành động này."
 		},
 		{
 			id: 9,
@@ -108,7 +108,7 @@ export default function (): React.JSX.Element {
 				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [who AUdits our BOOKS every YEAR] - [RELative CLAUSE][QUAN ĐIỀU] bắt đầu bằng thành phần liên kết \"who\", có chứa hành động \"AUdits\" xác định theo thời hiện tại. \n\n Chức năng: [who AUdits our BOOKS every YEAR] - [RELative CLAUSE][QUAN ĐIỀU] đứng sau \"the acCOUNTant\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [who AUdits our BOOKS every YEAR] - [RELative CLAUSE] bắt đầu bằng thành phần liên kết \"who\", có chứa hành động \"AUdits\" xác định theo thời hiện tại. \n\n Chức năng: [who AUdits our BOOKS every YEAR] - [RELative CLAUSE] đứng sau \"the acCOUNTant\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 10,
@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "[because the TAX LAWS CHANGED REcently] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] bắt đầu bằng thành phần liên kết \"because\", có chứa chủ thể \"the TAX LAWS\" và hành động \"CHANGED\" xác định theo thời quá khứ. \n\n Chức năng: [because the TAX LAWS CHANGED REcently] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
+			explanation: "[because the TAX LAWS CHANGED REcently] - [prepoSITion PHRASE as ADjunct] bắt đầu bằng thành phần liên kết \"because\", có chứa chủ thể \"the TAX LAWS\" và hành động \"CHANGED\" xác định theo thời quá khứ. \n\n Chức năng: [because the TAX LAWS CHANGED REcently] - [non-FInite CLAUSE as ADjunct] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
 		}
 	];
 

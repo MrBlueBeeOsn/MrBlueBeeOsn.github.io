@@ -28,7 +28,7 @@ export default function (): React.JSX.Element {
 				"[NOUN]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [reCORDing tranSACtions] - [GERund-PARTiciple CLAUSE][DANH-TÍNH ĐIỀU] consisting of the gerund \"reCORDing\" and its direct object \"tranSACtions\" working together as a structural unit. \n\n Function: [reCORDing tranSACtions] - [non-FInite CLAUSE as SUBject][PHI-THỜI ĐIỀU làm CHỦ] is formed from [NOUN PHRASE][DANH CỤM] serving as the complete subject of the sentence to initiate the main verb \"is\"."
+			explanation: "Form: [reCORDing tranSACtions] - [GERund-PARTiciple CLAUSE] consisting of the gerund \"reCORDing\" and its direct object \"tranSACtions\" working together as a structural unit. \n\n Function: [reCORDing tranSACtions] - [non-FInite CLAUSE as SUBject] is formed from [NOUN PHRASE] serving as the complete subject of the sentence to initiate the main verb \"is\"."
 		},
 		{
 			id: 2,
@@ -38,7 +38,7 @@ export default function (): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to mainTAIN ACcurate LEDgers] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to mainTAIN ACcurate LEDgers] - [non-FInite CLAUSE as CATenative COMplement][PHI-THỜI ĐIỀU làm CHUỖI BỔ] is formed from  [NOUN PHRASE][DANH CỤM] acting as a subject complement to explain what the primary goal is after the linking verb."
+			explanation: "Form: [to mainTAIN ACcurate LEDgers] - [to-infiniTIval CLAUSE] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to mainTAIN ACcurate LEDgers] - [non-FInite CLAUSE as CATenative COMplement] is formed from  [NOUN PHRASE] acting as a subject complement to explain what the primary goal is after the linking verb."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function (): React.JSX.Element {
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [AUdited] - [PAST PARTiciple FORM][KHỨ TÍNH DẠNG] using a single past participle form of the verb to function as a modifier. \n\n Function: [AUdited] - [ADjective as pre-MODifier][TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD][DANH làm LÕI] directly modifying the financial noun \"STATEments\" to clarify their verified status."
+			explanation: "Form: [AUdited] - [PAST PARTiciple FORM] using a single past participle form of the verb to function as a modifier. \n\n Function: [AUdited] - [ADjective as pre-MODifier] của [NOUN as HEAD] directly modifying the financial noun \"STATEments\" to clarify their verified status."
 		},
 		{
 			id: 4,
@@ -58,7 +58,7 @@ export default function (): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [while REconciling the BANK STATEment] - [Liên HIỆN TIẾP ĐỘNG CỤM][Conjunctional Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while REconciling the BANK STATEment] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] modifying the main action \"FOUND\" by establishing the exact accounting timeframe."
+			explanation: "Form: [while REconciling the BANK STATEment] - [Liên HIỆN TIẾP ĐỘNG CỤM][Conjunctional Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while REconciling the BANK STATEment] - [non-FInite CLAUSE as ADjunct] modifying the main action \"FOUND\" by establishing the exact accounting timeframe."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function (): React.JSX.Element {
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [that the COMpany's ANnual REVenue inCREASED] - [deCLARative CONtent CLAUSE][THUẬT NỘI ĐIỀU] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [that the COMpany's ANnual REVenue inCREASED] - [FInite CLAUSE as SUBject][THỜI ĐIỀU làm CHỦ] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
+			explanation: "Form: [that the COMpany's ANnual REVenue inCREASED] - [deCLARative CONtent CLAUSE] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [that the COMpany's ANnual REVenue inCREASED] - [FInite CLAUSE as SUBject] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
 		},
 		{
 			id: 6,
@@ -78,7 +78,7 @@ export default function (): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [to ANalyze the QUARTerly TAX impliCAtions] - [to-infiniTIval CLAUSE][TO-NGUYÊN ĐIỀU] built from an infinitive structure that carries its own complex corporate object. \n\n Function: [to ANalyze the QUARTerly TAX impliCAtions] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] modifying the accounting professional noun \"conSULtant\" by identifying their specific inTENDed responsibility."
+			explanation: "Form: [to ANalyze the QUARTerly TAX impliCAtions] - [to-infiniTIval CLAUSE] built from an infinitive structure that carries its own complex corporate object. \n\n Function: [to ANalyze the QUARTerly TAX impliCAtions] - [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] modifying the accounting professional noun \"conSULtant\" by identifying their specific inTENDed responsibility."
 		},
 		{
 			id: 7,
@@ -88,7 +88,7 @@ export default function (): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [because the TRAVel exPENses were not AUthorized] - [prepoSITion PHRASE as ADjunct][GIỚI CỤM làm PHỤ] utilizing a causal conjunction coupled with a complete financial subject and a passive voice verb structure. \n\n Function: [because the TRAVel exPENses were not AUthorized] - [non-FInite CLAUSE as ADjunct][PHI-THỜI ĐIỀU làm PHỤ] modifying the independent clause by providing the regulatory reason why the reimbursement failed."
+			explanation: "Form: [because the TRAVel exPENses were not AUthorized] - [prepoSITion PHRASE as ADjunct] utilizing a causal conjunction coupled with a complete financial subject and a passive voice verb structure. \n\n Function: [because the TRAVel exPENses were not AUthorized] - [non-FInite CLAUSE as ADjunct] modifying the independent clause by providing the regulatory reason why the reimbursement failed."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function (): React.JSX.Element {
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [USED for PAYroll PROCessing] - [PAST PARTiciple CLAUSE][KHỨ TÍNH ĐIỀU] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [USED for PAYroll PROCessing] - [non-FInite CLAUSE as post-MODifier][PHI-THỜI ĐIỀU làm HẬU-CHỈNH] của [NOUN PHRASE][DANH CỤM] defining and restricting the meaning of the specific technical noun \"SOFTware\" being discussed."
+			explanation: "Form: [USED for PAYroll PROCessing] - [PAST PARTiciple CLAUSE] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [USED for PAYroll PROCessing] - [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] defining and restricting the meaning of the specific technical noun \"SOFTware\" being discussed."
 		},
 		{
 			id: 9,
@@ -108,7 +108,7 @@ export default function (): React.JSX.Element {
 				"[emBEDded NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [KNOW {WHAT she reCORDed}] - [BARE infiniTIval CLAUSE][THUẦN NGUYÊN ĐIỀU] serving as the predicate of the matrix clause, which embeds a finite objective clause inside its boundaries. \n\n Function: [KNOW {WHAT she reCORDed}] - [emBEDded NOUN PHRASE][NHÚNG DANH CỤM] where the outer verbal predicate level marked by [] encapsulates an inner objective noun clause marked by {} representing the bookkeeping data."
+			explanation: "Form: [KNOW {WHAT she reCORDed}] - [BARE infiniTIval CLAUSE] serving as the predicate of the matrix clause, which embeds a finite objective clause inside its boundaries. \n\n Function: [KNOW {WHAT she reCORDed}] - [emBEDded NOUN PHRASE] where the outer verbal predicate level marked by [] encapsulates an inner objective noun clause marked by {} representing the bookkeeping data."
 		},
 		{
 			id: 10,
@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
 				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [whether the GENERal LEDger was UPdated] - [CLOSED interROGative CONtent CLAUSE][ĐÓNG VẤN NỘI ĐIỀU] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the GENERal LEDger was UPdated] - [FInite CLAUSE as COMplement][THỜI ĐIỀU làm BỔ] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"ASKED\"."
+			explanation: "Form: [whether the GENERal LEDger was UPdated] - [CLOSED interROGative CONtent CLAUSE] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the GENERal LEDger was UPdated] - [FInite CLAUSE as COMplement] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"ASKED\"."
 		}
 	];
 
