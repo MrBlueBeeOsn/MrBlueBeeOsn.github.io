@@ -45,15 +45,15 @@ export default function atTRACtive(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>atTRACtive</strong> (ADjective): Captivating, fascinating, alluring. This term refers to a person or object that possesses qualities that attract attention, arouse interest, or inspire goodwill.</p>
+      <p className="margin-bottom-30"><strong>atTRACtive</strong> (ADjective): It's captivating, fascinating, and alluring. This term refers to a person or object that gets people's attention, makes them curious, or makes them want to be nice.</p>
 
         <ul className="list-square">
       
           <li id="ADjective">the NEW JOB OFfer CAME with a VERy atTRACtive SALary.</li>
-          <li className="margin-bottom-20 list-none">The new job on offer paid a lot.</li>
+          <li className="margin-bottom-20 list-none">The new job offer included a very good salary.</li>
 
           <li>he has a VERy atTRACtive SMILE.</li>
-          <li className="list-none">He has a very nice smile.</li>
+          <li className="list-none">He has a very handsome smile.</li>
       
         </ul>
 
@@ -88,21 +88,21 @@ export default function atTRACtive(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">Mastering words with the same root gives you greater flexibility in expressing the same idea using different types of words.</p>
+      <p className="margin-bottom-20">Mastering words with the same root lets you flex your vocabulary and express the same idea using different types of words.</p>
 
         <ul className="list-square">
 
           <li id="NOUN">the Eiffel TOWer is a MAjor TOUrist atTRACtion in PARis.</li>
-          <li className="margin-bottom-20 list-none">The Eiffel Tower is a popular tourist attraction in Paris.</li>
+          <li className="margin-bottom-20 list-none">The Eiffel Tower is a popular tourist destination in Paris.</li>
 
           <li>the PHYSical atTRACtiveness of the PROduct deSIGN HELPED inCREASE SALES.</li>
-          <li className="margin-bottom-20 list-none">The product's looks helped to sell more of it.</li>
+          <li className="margin-bottom-20 list-none">The design of the product made it more attractive to customers, which helped sales.</li>
 
           <li id="VERB">BRIGHT COLors OFten atTRACT BUTterflies to the GARden.</li>
-          <li className="margin-bottom-20 list-none">Bright colours attract butterflies to your garden.</li>
+          <li className="margin-bottom-20 list-none">Bright colors attract butterflies to your garden.</li>
 
           <li id="ADverb">the TAble was atTRACtively DEcorated with FLOWers and CANdles.</li>
-          <li className="list-none">The table was nicely decorated with flowers and candles.</li>
+          <li className="list-none">The table was beautifully decorated with flowers and candles.</li>
 
         </ul>
 
@@ -112,18 +112,18 @@ export default function atTRACtive(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
-      <p className="margin-bottom-40">Below are words with similar meanings but different nuances of usage.</p>
+      <p className="margin-bottom-40">Here are some words that have similar meanings but different usage nuances.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>1. apPEALing</strong>: To evoke interest or desire; often used in reference to ideas or choices.</p>
+      <p className="margin-top-20" id=""><strong>1. apPEALing</strong>: It's appealing because... To make someone interested or want something; often used when talking about ideas or choices.</p>
 
         <ul className="list-square">
 
           <li>the iDEa of a LONG vaCAtion is VERy apPEALing to me RIGHT NOW.</li>
-          <li className="list-none">I really want to go on a long vacation.</li>
+          <li className="list-none">I really want to take a long vacation.</li>
 
         </ul>
 
@@ -131,12 +131,12 @@ export default function atTRACtive(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>2. alLURing</strong>: It has a powerful allure, often of a mysterious or seductive nature.</p>
+      <p className="margin-top-20" id=""><strong>2. alLURing</strong>: It has a strong, mysterious, or attractive charm.</p>
 
         <ul className="list-square">
 
           <li>the TROPical Island has an alLURing ATmosphere that DRAWS VISitors <strong>ever</strong>y YEAR.</li>
-          <li className="list-none">Every year, the tropical island attracts visitors with its beautiful atmosphere.</li>
+          <li className="list-none">The Tropical Island has a beautiful setting that brings visitors back every year.</li>
 
         </ul>
 
@@ -144,12 +144,12 @@ export default function atTRACtive(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>3. CAPtivating</strong>: To captivate someone and hold their full attention.</p>
+      <p className="margin-top-20" id=""><strong>3. CAPtivating</strong>: It's captivating. To fascinate someone and make them pay full attention.</p>
 
         <ul className="list-square">
 
           <li>her CAPtivating perFORmance HELD the AUdience’s atTENtion un<strong>til</strong> the VERy END.</li>
-          <li className="list-none">The audience was captivated by her performance from start to finish.</li>
+          <li className="list-none">The audience was captivated by her performance, which kept their attention until the very end.</li>
 
         </ul>
 
@@ -157,12 +157,12 @@ export default function atTRACtive(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>4. CHARMing</strong>: Graceful, with a gentle charm and endearing personality.</p>
+      <p className="margin-top-20" id=""><strong>4. CHARMing</strong>: She is graceful, charming, and lovable.</p>
 
         <ul className="list-square">
 
           <li>we STAYED in a CHARMing LITtle COTtage by the SEA.</li>
-          <li className="list-none">We stayed in a lovely little cottage by the sea.</li>
+          <li className="list-none">We stayed in a small, charming cottage near the sea.</li>
 
         </ul>
 
@@ -170,12 +170,12 @@ export default function atTRACtive(): React.JSX.Element {
             5.  
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>5. enGAging</strong>: Captivating; something that makes others want to participate or interact.</p>
+      <p className="margin-top-20" id=""><strong>5. enGAging</strong>: It's captivating; it makes others want to participate or interact.</p>
 
         <ul className="list-square">
 
           <li>the SPEAker had an enGAging persoNALity that MADE the LECture enJOYable.</li>
-          <li className="list-none">The speaker was fun and interesting, which made the lecture fun.</li>
+          <li className="list-none">The speaker had a great personality that made everyone enjoy the lecture!</li>
 
         </ul>
 
@@ -183,12 +183,12 @@ export default function atTRACtive(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>6. FAScinating</strong>: It's incredibly fascinating - you can't take your eyes off it or stop thinking about it.</p>
+      <p className="margin-top-20" id=""><strong>6. FAScinating</strong>: It's fascinating - you can't take your eyes off it or stop thinking about it.</p>
 
         <ul className="list-square">
 
           <li>i FOUND the docuMENtary a<strong>bout</strong> DEEP-SEA CREAtures ABsolutely FAScinating.</li>
-          <li className="list-none">I thought the documentary about deep-sea creatures was really interesting.</li>
+          <li className="list-none">I thought the documentary about deep-sea life was really interesting.</li>
 
         </ul>
 

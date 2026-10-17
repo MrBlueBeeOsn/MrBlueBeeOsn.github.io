@@ -45,18 +45,18 @@ export default function BEAUtiful(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>BEAUtiful</strong> (ADjective): possessing qualities that bring pleasure or satisfaction to the senses (especially sight) or the mind. This term often implies harmony, excellence, or high aesthetic value.</p>
+      <p className="margin-bottom-30"><strong>BEAUtiful</strong> (ADjective): something that is beautiful is pleasing to the senses (especially the eyes) or the mind. This term often implies harmony, excellence, or high aesthetic value.</p>
 
         <ul className="list-square">
       
           <li id="ADjective">the SUNset <strong>o</strong>ver the Ocean was TRUly BEAUtiful.</li>
-          <li className="margin-bottom-20 list-none">The sunset over the ocean was really pretty.</li>
+          <li className="margin-bottom-20 list-none">It was beautiful to see the sun setting over the ocean.</li>
 
           <li>WHAT a BEAUtiful SUNset!</li>
-          <li className="margin-bottom-20 list-none">Wow, what a lovely sunset!</li>
+          <li className="margin-bottom-20 list-none">Wow, what a gorgeous sunset!</li>
 
           <li>the POet WROTE a<strong>bout</strong> the BEAUteous STARS in the NIGHT SKY.</li>
-          <li className="list-none">The poet wrote about how beautiful the stars were in the night sky.</li>
+          <li className="list-none">The poet wrote about how beautiful the stars looked in the night sky.</li>
       
         </ul>
 
@@ -91,21 +91,21 @@ export default function BEAUtiful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">Understanding how to switch between different parts of speech helps you express yourself more flexibly, especially when using structures that focus on NOUNS to describe characteristics.</p>
+      <p className="margin-bottom-20">Knowing how to switch between different parts of speech helps you express yourself more flexibly, especially when using structures that focus on nouns to describe characteristics.</p>
 
         <ul className="list-square">
           
           <li id="NOUN">the BEAUty of the LANDscape TOOK my BREATH aWAY.</li>
-          <li className="margin-bottom-20 list-none">I was amazed by how beautiful the landscape was.</li>
+          <li className="margin-bottom-20 list-none">The beauty of the landscape was so amazing that I was very impressed.</li>
 
           <li>the proFESsional beauTIcian prePARED the ACtors for the FILM.</li>
-          <li className="margin-bottom-20 list-none">The professional makeup artist made the actors look ready for the film.</li>
+          <li className="margin-bottom-20 list-none">The professional makeup artist prepared the actors for the movie.</li>
 
           <li id="VERB">they deCIded to BEAUtify the GARden with SEAsonal FLOWers.</li>
-          <li className="margin-bottom-20 list-none">They decided to make the garden look nice by adding seasonal flowers.</li>
+          <li className="margin-bottom-20 list-none">They decided to add some flowers to their garden to make it look more beautiful.</li>
 
           <li id="ADverb">the MUsic was BEAUtifully comPOSED and MOVED the enTIre AUdience.</li>
-          <li className="list-none">The music was beautifully written and made the whole audience feel something.</li>
+          <li className="list-none">The music was beautifully composed and it moved everyone in the audience.</li>
 
         </ul>
 
@@ -115,18 +115,18 @@ export default function BEAUtiful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
-      <p className="margin-bottom-40">The synonyms below offer more precise nuances depending on the specific context.</p>
+      <p className="margin-bottom-40">The synonyms below offer more exact shades of meaning depending on the exact situation.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>1. GORgeous</strong>: Used to create a radiant, dazzling look that often makes an immediate, strong impression.</p>
+      <p className="margin-top-20" id=""><strong>1. GORgeous</strong>: It's beautiful! This look is bright and eye-catching, and it often leaves a strong first impression.</p>
 
         <ul className="list-square">
 
           <li>the BRIDE LOOKED ABsolutely GORgeous in her LACE GOWN.</li>
-          <li className="list-none">The bride looked really beautiful in her lace gown.</li>
+          <li className="list-none">The wedding dress the bride wore made her look absolutely gorgeous.</li>
 
         </ul>
 
@@ -134,12 +134,12 @@ export default function BEAUtiful(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>2. STUNning</strong>: Refers to beauty that is so overwhelming that it leaves the viewer speechless or surprised.</p>
+      <p className="margin-top-20" id=""><strong>2. STUNning</strong>: Wow! This is a reference to beauty that is so overwhelming that it leaves the viewer speechless or surprised.</p>
 
         <ul className="list-square">
 
           <li>the PENThouse OFfers a STUNning VIEW of the CIty SKYline.</li>
-          <li className="list-none">The penthouse has amazing views of the city skyline.</li>
+          <li className="list-none">The penthouse has a great view of the city skyline.</li>
 
         </ul>
 
@@ -147,12 +147,12 @@ export default function BEAUtiful(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>3. exQUISite</strong>: For a refined, sophisticated look or exceptionally meticulous craftsmanship.</p>
+      <p className="margin-top-20" id=""><strong>3. exQUISite</strong>: This looks elegant and sophisticated, and it shows exceptional craftsmanship.</p>
 
         <ul className="list-square">
 
           <li>the muSEum disPLAYED a colLECtion of exQUISite HAND-PAINted ceRAMics.</li>
-          <li className="list-none">The museum had a display of beautiful hand-painted ceramics.</li>
+          <li className="list-none">The museum put on a show of beautiful hand-painted ceramics.</li>
 
         </ul>
 
@@ -160,12 +160,12 @@ export default function BEAUtiful(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>4. LOVEly</strong>: It evokes a graceful, charming beauty and creates a pleasant, warm feeling.</p>
+      <p className="margin-top-20" id=""><strong>4. LOVEly</strong>: It's lovely. It's beautiful, charming, and makes you feel warm and cozy.</p>
 
         <ul className="list-square">
 
           <li>we had a LOVEly afterNOON WALKing through the boTANical GARdens.</li>
-          <li className="list-none">We had a lovely afternoon walking through the botanical gardens.</li>
+          <li className="list-none">We had a wonderful afternoon walking through the botanical gardens.</li>
 
         </ul>
 
@@ -173,12 +173,12 @@ export default function BEAUtiful(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>5. RAdiant</strong>: Implies a radiant, glowing beauty, often associated with health or happiness.</p>
+      <p className="margin-top-20" id=""><strong>5. RAdiant</strong>: This means that it is often seen as a sign of beauty, and it is often associated with feelings of health and happiness.</p>
 
         <ul className="list-square">
 
           <li>she GAVE a RAdiant SMILE that INstantly BRIGHtened the ROOM.</li>
-          <li className="list-none">She smiled so brightly that the room immediately felt lighter.</li>
+          <li className="list-none">She smiled so brightly that it immediately made the room feel lighter and more welcoming.</li>
 
         </ul>
 
@@ -186,12 +186,12 @@ export default function BEAUtiful(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>6. aesTHETic</strong>: Aesthetic; pertaining to beauty or art.</p>
+      <p className="margin-top-20" id=""><strong>6. aesTHETic</strong>: The word "aesthetic" means "relating to beauty or art."</p>
 
         <ul className="list-square">
 
           <li>the NEW FURniture was CHOsen for PUREly aesTHETic REAsons.</li>
-          <li className="list-none">The new furniture was chosen because it looks nice.</li>
+          <li className="list-none">The new furniture's main reason for being chosen was its beautiful appearance.</li>
 
         </ul>
 
@@ -199,12 +199,12 @@ export default function BEAUtiful(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>7. magNIFicent</strong>: Used to describe majestic, striking, or grand beauty.</p>
+      <p className="margin-top-20" id=""><strong>7. magNIFicent</strong>: Amazing! This word describes beauty that is impressive and grand.</p>
 
         <ul className="list-square">
 
           <li>the magNIFicent ARchitecture of the caTHEdral DATES BACK to the TWELFTH CENtury.</li>
-          <li className="list-none">The cathedral was built in the 12th century and its architecture is really impressive.</li>
+          <li className="list-none">The cathedral was built in the 1200s and has a very beautiful design.</li>
 
         </ul>
 
