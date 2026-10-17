@@ -36,19 +36,19 @@ export default function When(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30">when: (prepoSITion): Used to connect two subordinate clauses, indicating the time when an event occurs or an action is performed.</p>
+      <p className="margin-bottom-30">when: (prepoSITion): It is used to connect two smaller clauses. It indicates the time when an event occurs or an action is performed.</p>
 
         <ul className="list-square">
       
           <li id="prepoSITion">i will CALL you when i arRIVE at the STAtion.</li>
-          <li className="margin-bottom-20 list-none">I'll phone you when I get to the station.</li>
+          <li className="margin-bottom-20 list-none">I'll call you as soon as I get to the station.</li>
 
           <li>he LIVED in LONdon when he was a CHILD.</li>
-          <li className="margin-bottom-20 list-none">He lived in London when he was a child.</li>
+          <li className="margin-bottom-20 list-none">He lived in London as a child.</li>
 
           <li>i will NEVer forGET the DAY when we FIRST MET.</li>
-          <li className="list-none">I will always remember the day we first met.</li>
-          <li className="list-none">Used to replace a NOUN referring to time that precedes and is directly connected to the relative clause.</li>
+          <li className="list-none">I'll always remember the day we first met.</li>
+          <li className="list-none">It is used to replace a noun referring to time. This noun is connected to the relative clause.</li>
       
         </ul>
 
@@ -66,7 +66,7 @@ export default function When(): React.JSX.Element {
           <ul className="list-square padding-left-40">
 
             <li>IPA: [when] /wen/</li>
-            <li className="margin-bottom-20 list-none">Note: In some regions of the UK or the U.S. (such as Scotland or the Southern U.S.), it may be pronounced /hwen/, but /wen/ is the most common pronunciation today.</li>
+            <li className="margin-bottom-20 list-none">Note: In some regions of the UK or the U.S., such as Scotland or the Southern U.S., it may be pronounced /hwen/. However, /wen/ is the most common pronunciation today.</li>
             
             <li>phoNETic BREAKdown: wen</li>
 
@@ -86,20 +86,20 @@ export default function When(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">The word "when" is a core function word in English; it does not change into a noun, verb, or adjective by adding a suffix. However, its word family includes compound words and adverbs of time and moment based on this root word:</p>
+      <p className="margin-bottom-20">The word "when" is a basic part of the English language. It doesn't become a noun, verb, or adjective by adding a suffix. However, it also includes compound words and adverbs of time and moment based on this root word:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">WHEN does the MOvie START?</li>
-          <li className="margin-bottom-20 list-none">When is the film being shown?</li>
+          <li className="margin-bottom-20 list-none">When does the movie begin?</li>
 
           <li>you DON'T HAVE to PAY me BACK RIGHT NOW. JUST DO it wheNEVer.</li>
-          <li className="list-none">You don't have to pay me back now. You can pay me back at any time.</li>
-          <li className="margin-bottom-20 list-none">Use on its own.</li>
+          <li className="list-none">You don't have to pay me back right now. Do it whenever you feel ready.</li>
+          <li className="margin-bottom-20 list-none">Use it by itself.</li>
 
           <li>wheNEVer WILL they FINish this conSTRUCTion WORK?</li>
-          <li className="list-none">When will the building work be finished?</li>
-          <li className="list-none">Used in interrogative sentences.</li>
+          <li className="list-none">Will they ever finish the construction work?</li>
+          <li className="list-none">It is used in questions.</li>
 
         </ul>
 
@@ -109,13 +109,13 @@ export default function When(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
-      <p className="margin-bottom-20">Below are words and phrases that function similarly to "when" to indicate time or a specific moment, each with its own structure and nuance.</p>
+      <p className="margin-bottom-20">Here are words and phrases like "when" that show time or a specific moment. Each one is different.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20" id="">1. as: When, while; used when two brief actions occur at the same time, or when one action is in progress and another interrupts it.</p>
+      <p className="margin-top-20" id="">1. as: "When" and "while" are used to talk about two things happening at the same time. "While" also means that something is happening and another thing is happening at the same time.</p>
 
         <ul className="list-square">
 
@@ -128,12 +128,12 @@ export default function When(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id="">2. while: Meanwhile, at the same time; often used to emphasize an action that is ongoing and taking place continuously at the moment another event occurs.</p>
+      <p className="margin-top-20" id="">2. while: Meanwhile, at the same time, is often used to emphasize an ongoing action. It shows that something is happening all the time, even when another event is happening.</p>
 
         <ul className="list-square">
 
           <li>the PHONE RANG while i was TAking a SHOWer.</li>
-          <li className="list-none">I was having a shower when the phone rang.</li>
+          <li className="list-none">I was taking a shower when the phone rang.</li>
 
         </ul>
 
@@ -141,12 +141,12 @@ export default function When(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id="">3. once: "immediately after"; used to emphasize that once this event is completed or occurs, then that event takes place.</p>
+      <p className="margin-top-20" id="">3. once: means "immediately after." It is used when talking about an event happening right after another event.</p>
 
         <ul className="list-square">
 
           <li>once you FINish your HOMEwork, you can PLAY VIDeo GAMES.</li>
-          <li className="list-none">When you've finished your homework, you can play video games.</li>
+          <li className="list-none">After you complete your homework, you can watch video games.</li>
 
         </ul>
 
@@ -154,12 +154,12 @@ export default function When(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id="">4. at the TIME that: "At the time when"; a more specific and formal alternative to "when" used to emphasize a precise point in time in the past or future.</p>
+      <p className="margin-top-20" id="">4. at the TIME that: "At the time when" is a more specific and formal alternative to "when" used to emphasize a precise point in time in the past or future.</p>
 
         <ul className="list-square">
 
           <li>at the TIME that the eCONomy CRASHED, <strong>man</strong>y PEOple LOST their JOBS.</li>
-          <li className="list-none">When the economy crashed, many people lost their jobs.</li>
+          <li className="list-none">A lot of people lost their jobs when the economy crashed.</li>
 
         </ul>
 
@@ -167,12 +167,12 @@ export default function When(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20" id="">5. U<strong>pon</strong>: When, immediately after; this PARTICLE is often used with a NOUN or a -ing form to indicate an action that occurs immediately after another action (with a formal tone).</p>
+      <p className="margin-top-20" id="">5. U<strong>pon</strong>: After: This particle is often used with a noun or an -ing form to indicate an action that occurs immediately after another action (in a formal tone).</p>
 
         <ul className="list-square">
 
           <li>u<strong>pon</strong> arRIving at the hoTEL, they WENT STRAIGHT to regisTRAtion.</li>
-          <li className="list-none">When they got to the hotel, they went straight to the registration desk.</li>
+          <li className="list-none">When they arrived at the hotel, they immediately went to the registration desk.</li>
 
         </ul>
 
@@ -180,12 +180,12 @@ export default function When(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20" id="">6. By the TIME: "At the time of," "as of"; used to indicate that an event has been or will be completed before a specific time mentioned in the following clause.</p>
+      <p className="margin-top-20" id="">6. by the TIME: "At the time of," "as of"; used to indicate that an event has been or will be completed before a specific time mentioned later.</p>
 
         <ul className="list-square">
 
           <li>by the TIME we REACHED the CINema, the MOvie had alREADy STARTed.</li>
-          <li className="list-none">When we got to the cinema, the film had already started.</li>
+          <li className="list-none">By the time we got to the cinema, the movie had already begun.</li>
 
         </ul>
 
@@ -194,12 +194,12 @@ export default function When(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20" id="">7. whe<strong>nev</strong>er</p>
+      <p className="margin-top-20" id="">7. whe<strong>nev</strong>er: at any time, on any occasion</p>
 
         <ul className="list-square">
 
           <li>you can BORrow my CAR whe<strong>nev</strong>er you NEED it.</li>
-          <li className="margin-bottom-20 list-none">Should you require a vehicle, I would be happy to lend you mine.</li>
+          <li className="margin-bottom-20 list-none">You are welcome to borrow my car whenever you need it.</li>
 
         </ul>
       
@@ -208,12 +208,12 @@ export default function When(): React.JSX.Element {
             8. 
       ============================= */}
 
-      <p className="margin-top-20" id="">8. whence: Archaic / Formal</p>
+      <p className="margin-top-20" id="">8. whence: From where: Old-fashioned and formal.</p>
 
         <ul className="list-square">
 
           <li>they reTURNED whence they CAME.</li>
-          <li className="list-none">They went back to where they came from.</li>
+          <li className="list-none">They went back to the place they came from.</li>
 
         </ul>
 

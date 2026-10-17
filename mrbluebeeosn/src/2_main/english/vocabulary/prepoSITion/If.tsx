@@ -44,27 +44,27 @@ export default function If(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>if</strong> (prepoSITion): Suppose. This word is used to introduce a conditional clause, expressing a hypothetical situation, a possible outcome, or a necessary condition for something else to happen. Additionally, in indirect speech, it also means "whether or not."</p>
+      <p className="margin-bottom-30"><strong>if</strong> (prepoSITion): Let's suppose that... This word is used to introduce a conditional clause. A conditional clause expresses a hypothetical situation, a possible outcome, or a necessary condition for something else to happen. Additionally, in indirect speech, it also means "whether or not."</p>
 
         <ul className="list-square">
       
           <li id="prepoSITion1">if you STUDy HARD, you will PASS the EXAM.</li>
-          <li className="margin-bottom-20 list-none">If you study hard, you will pass the exam.</li>
+          <li className="margin-bottom-20 list-none">Study hard, do well on the exam, and you will pass.</li>
 
           <li>if it RAINS toMORrow, we will CANcel the PICnic.</li>
-          <li className="margin-bottom-20 list-none">If it rains tomorrow, we will cancel the picnic.</li>
+          <li className="margin-bottom-20 list-none">The picnic will be canceled if it rains tomorrow.</li>
 
           <li>we can GO for a WALK if the RAIN STOPS.</li>
           <li className="margin-bottom-20 list-none">If it stops raining, we can go for a walk.</li>
 
           <li id="prepoSITion2">if i had a LOT of MONey, i would TRAVel around the WORLD.</li>
-          <li className="margin-bottom-20 list-none">If I had loads of money, I would travel around the world.</li>
+          <li className="margin-bottom-20 list-none">I would travel around the world if I had a lot of money.</li>
 
           <li id="prepoSITion3">if she had STARTed EARlier, she would NOT have MISSED the TRAIN.</li>
-          <li className="margin-bottom-20 list-none">If she had got on the train earlier, she would not have missed it.</li>
+          <li className="margin-bottom-20 list-none">If she had gotten on the right train, she would not have missed it.</li>
 
           <li>if you had STUDied HARDer YESterday, you would KNOW the ANswer NOW.</li>
-          <li className="margin-bottom-20 list-none">If you had studied harder yesterday, you would know the answer now.</li>
+          <li className="margin-bottom-20 list-none">If you had studied more yesterday, you would now know the answer.</li>
       
         </ul>
 
@@ -99,13 +99,13 @@ export default function If(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">The word "if" is a short preposition and does not have any direct inflected forms created by adding prefixes or suffixes. However, it belongs to a group of words and grammatical phrases that express conditions or assumptions and share the same functional nature:</p>
+      <p className="margin-bottom-20">The word "if" is a short preposition. It does not have any inflected forms created by adding prefixes or suffixes. However, it belongs to a group of words and grammatical phrases that express conditions or assumptions and share the same functional nature.</p>
 
         <ul className="list-square">
  
           <li id="NOUN">STOP WORrying a<strong>bout</strong> all the  what-ifs and FOCus on the PRESent.</li>
-          <li className="margin-bottom-20 list-none">Stop worrying about things that might happen and focus on what is happening now.</li>
-          <li className="list-none">Context note: The plural form "what-ifs" is commonly used. Stop worrying about "what-ifs" and focus on the present.</li>
+          <li className="list-none">Stop worrying about things that might happen and focus on what is happening now.</li>
+          <li className="list-none">Note about the context: The plural form "what-ifs" is commonly used. Stop worrying about the future and focus on the present.</li>
 
         </ul>
 
@@ -115,18 +115,18 @@ export default function If(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
-      <p className="margin-bottom-20">Below are words and phrases that function similarly to "if" and are used to establish a condition or assumption, each with its own expressive nuance.</p>
+      <p className="margin-bottom-20">Below are words and phrases that are like "if" and are used to create a situation or idea, each with its own unique detail.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20" id="">1. proVIded that or proVIding that, as long as: these expressions have a more formal tone and place greater emphasis on the condition than "if."</p>
+      <p className="margin-top-20" id="">1. proVIded that or proVIding that: These expressions are more formal and place greater emphasis on the condition than "if".</p>
 
         <ul className="list-square">
 
           <li>proVIded that you reTURN the CAR by 5 p.M., you can BORrow it.</li>
-          <li className="list-none">If you return the car by 5 p.M., you can borrow it.</li>
+          <li className="list-none">You can borrow the car if you return it by 5 p.m.</li>
 
         </ul>
 
@@ -134,12 +134,12 @@ export default function If(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id="">2. as LONG as: commonly used in everyday speech to state a specific condition.</p>
+      <p className="margin-top-20" id="">2. as LONG as: This is used in everyday conversation to talk about a specific situation.</p>
 
         <ul className="list-square">
 
           <li>you can STAY HERE as LONG as you KEEP the ROOM CLEAN.</li>
-          <li className="list-none">You can stay here as long as you keep the room clean.</li>
+          <li className="list-none">You can stay as long as you keep the room clean.</li>
 
         </ul>
       
@@ -148,12 +148,12 @@ export default function If(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id="">3. un<strong>less</strong>: otherwise - this phrase is equivalent to the "if not" structure, which excludes a condition or situation.</p>
+      <p className="margin-top-20" id="">3. un<strong>less</strong>: The phrase "unless otherwise" means the same as "if not," which means that something is not true.</p>
 
         <ul className="list-square">
 
           <li>we will GO to the BEACH un<strong>less</strong> it RAINS toMORrow.</li>
-          <li className="list-none">Chúng tôi sẽ đi ra bãi biển trừ khi ngày mai có mưa.</li>
+          <li className="list-none">Unless it rains tomorrow, we'll go to the beach.</li>
 
         </ul>
 
@@ -161,7 +161,7 @@ export default function If(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id="">4. in case: "Just in case," "in the event that"; used to describe an action taken in advance to prepare for a situation that may occur.</p>
+      <p className="margin-top-20" id="">4. in case: Here's what to do in case: "Just in case" and "in the event that" are used to describe an action taken in advance to prepare for a situation that may occur.</p>
 
         <ul className="list-square">
 
@@ -174,12 +174,12 @@ export default function If(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20" id="">5. asSUMing that: "Suppose that," "let's assume"; used when one wishes to accept a hypothesis as true in order to discuss its implications.</p>
+      <p className="margin-top-20" id="">5. asSUMing that: "Suppose that," or "let's assume" are used when someone is willing to accept a hypothesis as true in order to discuss what could happen as a result.</p>
 
         <ul className="list-square">
 
           <li>asSUMing that we START on TIME, we should FINish by NOON.</li>
-          <li className="list-none">If we start on time, we should finish by midday.</li>
+          <li className="list-none">If we start on time, we should finish by noon.</li>
 
         </ul>
 
@@ -187,12 +187,12 @@ export default function If(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20" id="">6. On conDITion that: "Provided that" is a very formal phrase, commonly used in agreements or legal documents.</p>
+      <p className="margin-top-20" id="">6. On conDITion that: There is one condition: "Provided that" is a very formal phrase often used in agreements or legal documents.</p>
 
         <ul className="list-square">
 
           <li>he was GRANTed BAIL on conDITion that he STAYED in the COUNtry.</li>
-          <li className="list-none">He was allowed to leave but had to promise to stay in the country.</li>
+          <li className="list-none">He was allowed to leave jail as long as he stayed in the country.</li>
 
         </ul>
 
@@ -200,12 +200,12 @@ export default function If(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20" id="">7. <strong>wheth</strong>er: "Whether... or not"; used in place of "if" when there is a choice between two possibilities (usually with the structure "whether... or not"), and has a more formal tone than "if."</p>
+      <p className="margin-top-20" id="">7. <strong>wheth</strong>er: "Whether... or not" is used when there is a choice between two possibilities. It has a more formal tone than "if."</p>
 
         <ul className="list-square">
 
           <li>i DON'T KNOW <strong>wheth</strong>er she will acCEPT the JOB OFfer or NOT.</li>
-          <li className="list-none">I don't know if she will say yes to the job offer.</li>
+          <li className="list-none">I'm not sure if she will accept the job offer.</li>
 
         </ul>
 
@@ -214,12 +214,12 @@ export default function If(): React.JSX.Element {
             8. 
       ============================= */}
 
-      <p className="margin-top-20" id="">8. if Only: Fixed phrases - expressing a wish</p>
+      <p className="margin-top-20" id="">8. If Only... Expressing a wish with fixed phrases</p>
 
         <ul className="list-square">
 
           <li className="list-none">if Only i had KNOWN the TRUTH EARlier, THINGS would be DIFFERent.</li>
-          <li className="margin-bottom-20 list-none">I wish I had known the truth sooner. Things would be different if I had.</li>
+          <li className="margin-bottom-20 list-none">If only I had known the truth before, things would have been different.</li>
 
         </ul>
           
