@@ -36,15 +36,15 @@ export default function Although(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30">al<strong>though</strong> (prepoSITion): even though. This word is used to introduce a subordinate clause that expresses a concession, an unexpected outcome, or a contrast with the fact mentioned in that subordinate clause.</p>
+      <p className="margin-bottom-30">al<strong>though</strong> (prepoSITion): This word is used to introduce a subordinate clause. A subordinate clause expresses a concession, an unexpected outcome, or a contrast with the fact mentioned in that subordinate clause.</p>
 
         <ul className="list-square">
       
           <li id="prepoSITion">al<strong>though</strong> it RAINED HEAVily, they STILL WENT for a WALK.</li>
-          <li className="margin-bottom-20 list-none">Even though it was raining really heavily, they still went for a walk.</li>
+          <li className="margin-bottom-20 list-none">They went out for a walk even though it was raining very heavily.</li>
 
           <li>the ROOM was RATHer SMALL, al<strong>though</strong> it was VERy CLEAN and COMFORTable.</li>
-          <li className="list-none">The room was small, but it was clean and comfortable.</li>
+          <li className="list-none">The room was small, but it was very clean and comfortable.</li>
       
         </ul>
 
@@ -79,7 +79,7 @@ export default function Although(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">The word "although" is a pure preposition and has no direct inflected forms—such as nouns, verbs, or adjectives—within its own word class. However, it is closely related to the word "though" and other words that express concession or contrast, including:</p>
+      <p className="margin-bottom-20">The word "although" is a pure preposition. It has no direct inflected forms—such as nouns, verbs, or adjectives—within its own word class. However, it is closely related to the word "though" and other words that express concession or contrast, including:</p>
 
         <ul className="list-square">
 
@@ -94,23 +94,21 @@ export default function Although(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
-      <p className="margin-bottom-20">Below are prepositions and phrases that function similarly to "although" but have different nuances or grammatical structures.</p>
+      <p className="margin-bottom-20">Below are prepositions and phrases similar to "although" but with different meanings or grammatical structures.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20" id=""><strong>1. Though</strong> /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</p>
-
-      <p className="text-indent-whole">It is more commonly used in everyday speech than "although" and is highly versatile because it can function both as a preposition at the beginning or in the middle of a sentence and as an adverb at the end of a sentence.</p>
+      <p className="margin-top-20" id="">1. Though: is more commonly used in everyday speech than "although." It can be used in many different ways. It can be used as a preposition at the beginning or in the middle of a sentence. It can also be used as an adverb at the end of a sentence.</p>
 
         <ul className="list-square">
 
           <li>though she was TIred, she FINished the rePORT on TIME.</li>
-          <li className="margin-bottom-20 list-none">She was tired, but she finished the report on time.</li>
+          <li className="margin-bottom-20 list-none">Even though she was tired, she completed the report on schedule.</li>
 
           <li>they deCIded to GO on a PICnic, though the WEATHer was disapPOINting.</li>
-          <li className="list-none">They decided to go on a picnic, even though the weather was bad.</li>
+          <li className="list-none">They decided to go on a picnic, even though the weather wasn't great.</li>
 
         </ul>
 
@@ -118,12 +116,12 @@ export default function Although(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id="">2. Even though: It carries a stronger meaning than "al<strong>though</strong>," emphasizing a stark contrast or a highly surprising fact.</p>
+      <p className="margin-top-20" id="">2. Even though: It means more than "although." It's used when talking about something that is extremely surprising or when talking about something that is very different.</p>
 
         <ul className="list-square">
 
           <li>Even though he STUDied HARD, he FAILED the FInal eXAM.</li>
-          <li className="list-none">He studied really hard, but he didn't pass the final exam.</li>
+          <li className="list-none">He studied a lot, but he failed the final exam.</li>
 
         </ul>
 
@@ -131,7 +129,7 @@ export default function Although(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id="">3. In spite of: However, this is a PREPOSITIONAL PHRASE, so it must be followed by a NOUN, a noun phrase, or a -ing form (it does not take a subordinate clause).</p>
+      <p className="margin-top-20" id="">3. In spite of: This is a prepositional phrase. A prepositional phrase must be followed by a noun, a noun phrase, or an -ing form. It cannot be followed by a subordinate clause.</p>
 
         <ul className="list-square">
 
@@ -144,12 +142,12 @@ export default function Although(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id="">4. de<strong>spite</strong>: Similar to "in spite of," this is a PREPOSITION with a more formal tone, followed by a NOUN, a noun phrase, or a -ing form.</p>
+      <p className="margin-top-20" id="">4. de<strong>spite</strong>: This preposition is similar to "in spite of." It is more formal, and it is followed by a noun, a noun phrase, or an -ing form.</p>
 
         <ul className="list-square">
 
           <li>de<strong>spite</strong> HAVing a BAD COLD, she perFORMED BRILliantly on STAGE.</li>
-          <li className="list-none">She sang really well on stage, even though she had a bad cold.</li>
+          <li className="list-none">She sang beautifully on stage, even though she had a bad cold.</li>
 
         </ul>
 
@@ -157,12 +155,12 @@ export default function Although(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20" id="">5. Even if: "although"; used to express a supposition or a condition that does not affect the outcome of the main clause.</p>
+      <p className="margin-top-20" id="">5. Even if: is used to say that something might happen, but it will not change the result of the main idea.</p>
 
         <ul className="list-square">
 
           <li>Even if you START RIGHT NOW, you will STILL MISS the TRAIN.</li>
-          <li className="list-none">Even if you start right now, you will still miss the train.</li>
+          <li className="list-none">If you try to do this, it's likely you'll miss the train, even if you start right away.</li>
 
         </ul>
 
@@ -170,12 +168,12 @@ export default function Although(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20" id="">6. Much as: Although very, even though very; often used with verbs expressing emotions—such as like, love, want, and dislike—to emphasize the degree of concession.</p>
+      <p className="margin-top-20" id="">6. much as: Although is often used with verbs expressing emotions—such as like, love, want, and dislike—to emphasize how strongly something is felt.</p>
 
         <ul className="list-square">
 
           <li>MUCH as i would LIKE to STAY, i REALly must GO HOME NOW.</li>
-          <li className="list-none">I would like to stay, but I really must go home now.</li>
+          <li className="list-none">I would like to stay, but I have to go home now.</li>
 
         </ul>
 
@@ -183,12 +181,12 @@ export default function Although(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20" id="">7. while: Although, when placed at the beginning of a sentence, this word can be used in place of "although" to create a gentle contrast between two events.</p>
+      <p className="margin-top-20" id="">7. while: is a word that can be used in a sentence in two different ways. One way is to place it at the beginning of a sentence. This means it is used to make a gentle contrast between two events. "While" has another use. It can also be used in the middle of a sentence..</p>
 
         <ul className="list-square">
 
           <li>while i underSTAND your POINT of VIEW, i CANnot aGREE with your deCISion.</li>
-          <li className="list-none">I see what you mean, but I don't agree with your choice.</li>
+          <li className="list-none">I see your point, but I don't agree with what you decided to do.</li>
 
         </ul>
 
@@ -196,12 +194,12 @@ export default function Although(): React.JSX.Element {
             8. 
       ============================= */}
 
-      <p className="margin-top-20" id="">8. al<strong>be</strong>it: Solemnly</p>
+      <p className="margin-top-20" id="">8. al<strong>be</strong>it: Solemnly, though.</p>
 
         <ul className="list-square">
 
           <li id="">the uniVERsity acCEPTed the proPOsal, al<strong>be</strong>it with CERtain reserVAtions.</li>
-          <li className="list-none">The university agreed to the proposal, but said there were some problems with it.</li>
+          <li className="list-none">The university said yes to the proposal, but there were a few things that they were unsure about.</li>
 
         </ul>
 

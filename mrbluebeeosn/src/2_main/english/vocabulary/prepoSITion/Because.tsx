@@ -53,10 +53,10 @@ export default function Because(): React.JSX.Element {
         <ul className="list-square">
       
           <li id="prepoSITion">we STAYED inDOORS be<strong>cause</strong> it was RAINing HEAVily.</li>
-          <li className="margin-bottom-20 list-none">We didn't go outside because it was raining really heavily.</li>
+          <li className="margin-bottom-20 list-none">We did not go outside because it was raining a lot.</li>
 
           <li>i PASSED the eXAM be<strong>cause</strong> i STUDied HARD <strong>ever</strong>y NIGHT.</li>
-          <li className="list-none">I passed the exam because I studied really hard every night.</li>
+          <li className="list-none">I passed the exam because I studied hard every night.</li>
       
         </ul>
 
@@ -91,27 +91,27 @@ export default function Because(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
-      <p className="margin-bottom-20">The word "because" originally derived from the phrase "by CAUSE of." Therefore, its derivations are centered around the root word "CAUSE."</p>
+      <p className="margin-bottom-20">The word "because" originally came from the phrase "by CAUSE of." So, words in this language are based on the root word "CAUSE".</p>
 
         <ul className="list-square">
         
           <li id="prepoSITion">the FLIGHT was deLAYED be<strong>cause</strong> of the THICK FOG.</li>
-          <li className="margin-bottom-20 list-none">The plane couldn't take off because it was too foggy.</li>
+          <li className="margin-bottom-20 list-none">The plane could not take off because there was too much fog.</li>
         
           <li id="ADjective">there is a CLEAR CAUsal LINK between POVerty and LACK of eduCAtion.</li>
-          <li className="margin-bottom-20 list-none">It's clear that being poor and not having a good education are connected.</li>
+          <li className="margin-bottom-20 list-none">There is a clear link between being poor and not having a good education.</li>
 
           <li id="NOUN">the poLICE are TRYing to FIND the CAUSE of the ACcident.</li>
-          <li className="margin-bottom-20 list-none">The police are trying to work out what caused the accident.</li>
+          <li className="margin-bottom-20 list-none">The police are trying to figure out what caused the accident.</li>
           
           <li>the STUDy inVEStigates the LAW of cauSALity in HUman beHAvior.</li>
-          <li className="margin-bottom-20 list-none">The study looks at how people's actions are affected by their emotions.</li>
+          <li className="margin-bottom-20 list-none">The study looks at how people's thoughts and actions are related to each other.</li>
 
           <li>the reSEARCH PROVED a STRONG cauSAtion between SMOking and LUNG diSEASE.</li>
-          <li className="margin-bottom-20 list-none">Research shows a clear link between smoking and lung disease.</li>
+          <li className="margin-bottom-20 list-none">Research showed a clear link between smoking and lung disease.</li>
 
           <li id="VERB">the HEAVy RAIN could CAUSE seVERE FLOODing in LOW-LYing AReas.</li>
-          <li className="margin-bottom-20 list-none">Heavy rain could lead to severe flooding in areas that are prone to flooding.</li>
+          <li className="margin-bottom-20 list-none">Heavy rain could cause major flooding in low-lying areas.</li>
 
           <li id="ADverb">the TWO hisTORical eVENTS are CAUsally reLAted to EACH OTHer.</li>
           <li className="margin-bottom-20 list-none">There is usually a connection between the two historical events.</li>
@@ -125,18 +125,18 @@ export default function Because(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms</h3>
 
-      <p className="margin-bottom-20">Below are words and phrases that serve a similar function to "because" but have different nuances or structures.</p>
+      <p className="margin-bottom-20">Here are some different ways to say "because" that have different meanings or structures.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20" id="">1. Since: Use this when the reason is already known to both the speaker and the listener, or when the reason is less important than the result.</p>
+      <p className="margin-top-20" id="">1. since: Use this when the reason is already known to everyone involved, or when the reason is less important than the outcome.</p>
 
         <ul className="list-square">
 
           <li>since you are alREADy HERE, you can HELP us with DINner.</li>
-          <li className="list-none">You are already here, so you can help us with dinner.</li>
+          <li className="list-none">Since you're already here, you can cook dinner.</li>
 
         </ul>
 
@@ -144,12 +144,12 @@ export default function Because(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20" id="">2. as: Similar to "since," it usually has a slightly more formal tone and typically places the causal clause at the beginning of the sentence.</p>
+      <p className="margin-top-20" id="">2. as: It is usually written in a slightly more formal style, and it generally places the main clause—the clause that explains the reason or reason for something - at the beginning of the sentence..</p>
 
         <ul className="list-square">
 
           <li>as the WEAther was BAD, the OUTdoor FLIGHT was CANceled.</li>
-          <li className="list-none">Because the weather was bad, the flight outside was cancelled.</li>
+          <li className="list-none">Since the weather was bad, the flight outside was canceled.</li>
 
         </ul>
 
@@ -157,7 +157,7 @@ export default function Because(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20" id="">3. GIVen that: "Considering that" is based on the fact that; it is commonly used when one wishes to cite a factual event as the basis for a conclusion.</p>
+      <p className="margin-top-20" id="">3. GIVen that: The phrase "given that" is often used when talking about something that led to a certain conclusion.</p>
 
         <ul className="list-square">
 
@@ -170,12 +170,12 @@ export default function Because(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20" id="">4. NOW that: is used to refer to a new cause that has arisen and is leading to a result in the present or future.</p>
+      <p className="margin-top-20" id="">4. NOW that: "Now" is used to talk about something new that has happened and is causing a result in the present or future.</p>
 
         <ul className="list-square">
 
           <li>NOW that the eXAMS are OVer, we can FInally reLAX.</li>
-          <li className="list-none">Now that the eXAMS are finished, we can finally relax.</li>
+          <li className="list-none">Now that the exams are done, we can finally relax.</li>
 
         </ul>
 
@@ -183,12 +183,12 @@ export default function Because(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20" id="">5. SEEing that: "because"; commonly used in spoken language when the reason is obvious or has just been realized./</p>
+      <p className="margin-top-20" id="">5. SEEing that: People often use "see" in spoken language when the reason is obvious or has just been realized.</p>
 
         <ul className="list-square">
 
           <li>SEEing that it is getting LATE, we should PROBably HEAD HOME.</li>
-          <li className="list-none">It's getting late, so we should probably go home.</li>
+          <li className="list-none">It's getting late, so we should probably head home.</li>
 
         </ul>
 
@@ -196,12 +196,12 @@ export default function Because(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20" id="">6. for: Because; a preposition with a very formal, literary, or archaic tone, used to provide a reason or explanation for the preceding statement.</p>
+      <p className="margin-top-20" id="">6. for: A preposition is a word that connects nouns or pronouns in a sentence. It can also add a formal, literary, or archaic tone to a sentence, explaining what the previous statement means.</p>
 
         <ul className="list-square">
 
           <li>we must START EARly, for the JOURney is LONG.</li>
-          <li className="list-none">We have to start early because the journey is long.</li>
+          <li className="list-none">We have to begin early because the journey takes a long time.</li>
 
         </ul>
 
@@ -209,12 +209,12 @@ export default function Because(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20" id="">7. In that: Because - used to explain or clarify a previous statement by giving a specific reason.</p>
+      <p className="margin-top-20" id="">7. in that: "Because" is used to explain or clarify a previous statement by giving a specific reason.</p>
 
         <ul className="list-square">
 
           <li>this comPUter is uNIQUE in that it can THINK like a HUman.</li>
-          <li className="list-none">This computer is special because it can think like a person.</li>
+          <li className="list-none">This computer is different from all the others because it can think like a person.</li>
 
         </ul>
 
@@ -222,12 +222,12 @@ export default function Because(): React.JSX.Element {
             8. 
       ============================= */}
 
-      <p className="margin-top-20" id="">8. On the GROUNDS that: "Based on the fact that" is often used in formal or legal contexts when presenting arguments or evidence.</p>
+      <p className="margin-top-20" id="">8. On the GROUNDS that: The reason is as follows: "Based on the fact that" is often used in formal or legal contexts when presenting arguments or evidence.</p>
 
         <ul className="list-square">
 
           <li>he was acQUITTED on the GROUNDS that there was insufFICient EVidence.</li>
-          <li className="list-none">He was found not guilty because there was not enough evidence against him.</li>
+          <li className="list-none">He was found not guilty because there wasn't enough evidence.</li>
 
         </ul>
 
