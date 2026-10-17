@@ -71,34 +71,34 @@ export default function Vegetables(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="toMAtoes">FRESH toMAtoes are esSENtial for MAking a GREAT iTALian PAsta SAUCE.</li>
-        <li className="list-none margin-bottom-20">You need to use fresh tomatoes to make a really good Italian pasta sauce.</li>
+        <li className="list-none margin-bottom-20">To make great Italian pasta sauce, you need to use fresh tomatoes.</li>
 
         <li value="2" id="poTAtoes">FRENCH FRIES MADE from FRESH poTAtoes are my FAVORite FAST FOOD.</li>
-        <li className="list-none margin-bottom-20">I love French fries made from fresh potatoes. They are my favourite fast food.</li>
+        <li className="list-none margin-bottom-20">I love fast food, and my favorite is French fries made from fresh potatoes.</li>
 
         <li value="3" id="CARrot">BUGS BUNny is FAmous for MUNCHing on a CRUNCHy CARrot.</li>
-        <li className="list-none margin-bottom-20">The cartoon character Bugs Bunny is well-known for eating a crunchy carrot.</li>
+        <li className="list-none margin-bottom-20">The Bugs Bunny cartoon character is well-known for gnawing on a soft, orange vegetable called a "carrot."</li>
 
         <li value="4" id="CUcumber">she PLACED SLIces of COLD CUcumber on her EYES to reDUCE PUFFiness.</li>
-        <li className="list-none margin-bottom-20">She put slices of cucumber on her eyes to make them less puffy.</li>
+        <li className="list-none margin-bottom-20">To reduce puffiness, she placed slices of cold cucumber on her eyes.</li>
 
         <li value="5" id="BROCcoli">STEAMED BROCcoli with a LITtle CHEESE is a HEALTHy and deLICious SIDE DISH.</li>
-        <li className="list-none margin-bottom-20">Broccoli cooked in the microwave with a little bit of cheese is a healthy and tasty side dish.</li>
+        <li className="list-none margin-bottom-20">Broccoli with a little cheese, cooked over steamy heat, is both healthy and delicious.</li>
 
         <li value="6" id="CABbage">SHREDded CABbage is the MAIN inGREdient for MAking COLEslaw SALad.</li>
-        <li className="list-none margin-bottom-20">Shredded cabbage is the most important ingredient for making coleslaw salad.</li>
+        <li className="list-none margin-bottom-20">Cabbage is the main ingredient for making coleslaw salad.</li>
 
         <li value="7" id="LETtuce">a GOOD BURger ALways NEEDS a CRISP LEAF of GREEN LETtuce.</li>
-        <li className="list-none margin-bottom-20">A good burger needs a fresh lettuce leaf.</li>
+        <li className="list-none margin-bottom-20">If you want a good burger, you need to add a piece of lettuce.</li>
 
         <li value="8" id="ONion">CHOPping an ONion OFten MAKES PEOple's EYES WAter.</li>
-        <li className="list-none margin-bottom-20">People often get emotional when they chop an onion.</li>
+        <li className="list-none margin-bottom-20">People often get emotional when they see an onion being chopped.</li>
 
         <li value="9" id="GARlic">ADDing MINCED GARlic MAKES the STIR-FRIED BEEF MUCH MORE FRAgrant.</li>
-        <li className="list-none margin-bottom-20">Adding minced garlic makes the stir-fried beef taste much better.</li>
+        <li className="list-none margin-bottom-20">Adding minced garlic makes the stir-fried beef much more flavorful.</li>
 
         <li value="10" id="SPINach">POPeye, the SAILor GETS his SUper STRENGTH whe<strong>nev</strong>er he EATS a CAN of SPINach.</li>
-        <li className="list-none margin-bottom-20">Popeye, the Sailor Man becomes super-strong every time he eats a can of spinach.</li>
+        <li className="list-none margin-bottom-20">POPeye's superpower is related to spinach. He becomes stronger whenever he eats a can of spinach.</li>
 
       </ol>
 

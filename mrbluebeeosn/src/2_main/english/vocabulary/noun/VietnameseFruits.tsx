@@ -71,34 +71,34 @@ export default function VietnameseFruits(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="DURian">KNOWN as the KING of FRUITS, DURian has a STRONG aROma and a CREAMy TEXture.</li>
-        <li className="list-none margin-bottom-20">Durians are known as the King of Fruits because they have a strong smell and a creamy texture.</li>
+        <li className="list-none margin-bottom-20">Durian is called the king of fruits for good reasons. It has a strong aroma and a creamy texture.</li>
 
         <li value="2" id="DRAGon-FRUIT">with its BRIGHT PINK SKIN and uNIQUE LOOK, DRAGon FRUIT is VERy reFRESHing.</li>
-        <li className="list-none margin-bottom-20">Dragon Fruit has bright pink skin and a unique look. It is very refreshing.</li>
+        <li className="list-none margin-bottom-20">Dragon Fruit is a refreshing fruit. It has bright pink skin and looks very unique.</li>
 
         <li value="3" id="ramBUtan">the HAIRy RED SHELL of a ramBUtan HIDES a SWEET and JUIcy transLUcent FRUIT inSIDE.</li>
-        <li className="list-none margin-bottom-20">The red outer layer of a rambutan is hard, but if you cut it open you will find a sweet and juicy transparent fruit inside.</li>
+        <li className="list-none margin-bottom-20">The red outer covering of the plant is a thin shell that protects a sweet and juicy, translucent fruit inside.</li>
 
         <li value="4" id="JACKfruit">RIPE JACKfruit SEGments have a disTINCT FRAgrance and a CHEWy, SWEET TASTE.</li>
-        <li className="list-none margin-bottom-20">Ripe jackfruit has a strong smell and a chewy, sweet taste.</li>
+        <li className="list-none margin-bottom-20">Ripe jackfruit has a unique smell and a sweet and crunchy texture.</li>
 
         <li value="5" id="LYchees">SUMmer in VietNAM is incomPLETE with<strong>out</strong> enJOYing a BASket of FRESH, SWEET LYchees.</li>
-        <li className="list-none margin-bottom-20">Summer in Vietnam just isn't summer without a basket of fresh, sweet lychees.</li>
+        <li className="list-none margin-bottom-20">Summer in Vietnam isn't summer without a basket of fresh, sweet lychees.</li>
 
         <li value="6" id="LONGan">SWEET LONGan FRUITS are OFten USED to MAKE a COOLing HERBal desSERT SOUP in VietnaMESE.</li>
-        <li className="list-none margin-bottom-20">Sweet longan fruits are often used to make a cool herbal dessert soup in Vietnam.</li>
+        <li className="list-none margin-bottom-20">In Vietnam, sweet longan fruits are often used to make a cool herbal dessert soup.</li>
 
         <li value="7" id="MANGosteen">the THICK PURple RIND of a MANGosteen proTECTS TENder, SNOW-WHITE SEGments inSIDE.</li>
-        <li className="list-none margin-bottom-20">The thick purple skin of a mangosteen protects the soft, white inside.</li>
+        <li className="list-none margin-bottom-20">The thick purple outer layer of a mangosteen protects the soft, white inner parts.</li>
 
         <li value="8" id="STAR-FRUIT">when SLICED CROSSwise, a STAR FRUIT NATurally FORMS a PERfect FIVE-POINTed STAR SHAPE.</li>
-        <li className="list-none margin-bottom-20">When you slice a star fruit crosswise, it naturally forms a perfect five-pointed star shape.</li>
+        <li className="list-none margin-bottom-20">When you slice a star fruit crosswise, you'll see that it naturally takes the shape of a five-pointed star.</li>
 
         <li value="9" id="GUAva">CRUNCHy GREEN GUAva DIPPED in CHILi SALT is a POPular STREET FOOD a<strong>mong</strong> STUdents.</li>
-        <li className="list-none margin-bottom-20">Crunchy green guava dipped in chilli salt is a popular street food among students.</li>
+        <li className="list-none margin-bottom-20">Many students like to eat crunchy green guava, which is usually dipped in chili salt.</li>
 
         <li value="10" id="POMelo">VietnaMESE POMelo has LARGE, JUIcy SEGments that are both SWEET and SLIGHTly TANGy.</li>
-        <li className="list-none margin-bottom-20">Vietnamese pomelo fruit is large and juicy. It is both sweet and slightly tangy.</li>
+        <li className="list-none margin-bottom-20">Vietnamese pommel has large, juicy pieces that are both sweet and slightly tangy.</li>
 
       </ol>
 

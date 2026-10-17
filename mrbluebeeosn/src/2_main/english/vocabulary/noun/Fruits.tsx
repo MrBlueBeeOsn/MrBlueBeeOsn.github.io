@@ -71,34 +71,34 @@ export default function Fruits(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="APple">an APple a DAY KEEPS the DOCtor aWAY.</li>
-        <li className="list-none margin-bottom-20">If you eat an apple every day, you will be healthier.</li>
+        <li className="list-none margin-bottom-20">If you eat an apple every day, you'll stay healthy.</li>
 
         <li value="2" id="baNANas">CHILDren and MONkeys both LOVE EATing SWEET baNANas.</li>
-        <li className="list-none margin-bottom-20">Kids and monkeys both really like sweet bananas.</li>
+        <li className="list-none margin-bottom-20">Children and monkeys both really enjoy eating sweet bananas.</li>
 
         <li value="3" id="ORange">she DRINKS a GLASS of FRESH ORange JUICE <strong>ever</strong>y MORNing.</li>
-        <li className="list-none margin-bottom-20">Every morning, she drinks a glass of fresh orange juice.</li>
+        <li className="list-none margin-bottom-20">Every morning, she drinks a glass of fresh-squeezed orange juice.</li>
 
         <li value="4" id="MANGoes">VietnaMESE MANGoes are FAmous for their RICH and SWEET FLAvor.</li>
-        <li className="list-none margin-bottom-20">Vietnamese mango flavour is well-known for being rich and sweet.</li>
+        <li className="list-none margin-bottom-20">Vietnamese mango flavors are famous for being rich and sweet.</li>
 
         <li value="5" id="PINEapple">my MOM Uses PINEapple to MAKE a deLICious SWEET and SOUr PORK DISH.</li>
-        <li className="list-none margin-bottom-20">My mum uses pineapple to make a really tasty sweet and sour pork dish.</li>
+        <li className="list-none margin-bottom-20">My mom makes a tasty sweet and sour pork dish using pineapple.</li>
 
         <li value="6" id="WAtermelon">EATing a COLD SLICE of WAtermelon is the BEST WAY to BEAT the SUMmer HEAT.</li>
-        <li className="list-none margin-bottom-20">The best way to beat the summer heat is to eat a cold slice of watermelon.</li>
+        <li className="list-none margin-bottom-20">The best thing to eat in the summer heat is a cold slice of watermelon.</li>
 
         <li value="7" id="STRAWberries">she TOPPED the BIRTHday CAKE with FRESH RED STRAWberries.</li>
-        <li className="list-none margin-bottom-20">She put fresh red strawberries on the birthday cake.</li>
+        <li className="list-none margin-bottom-20">She decorated the birthday cake with fresh red strawberries on top.</li>
 
         <li value="8" id="GRAPES">GREEN and PURple GRAPES are both GREAT for MAking WINE.</li>
         <li className="list-none margin-bottom-20">You can make great wine from both green and purple grapes.</li>
 
         <li value="9" id="avoCAdo">TOAST with MASHED avoCAdo and EGGS is a VERy HEALTHy BREAKfast.</li>
-        <li className="list-none margin-bottom-20">Toast with mashed avocado and eggs is a great way to start your day.</li>
+        <li className="list-none margin-bottom-20">Toast with mashed avocado and eggs is a good breakfast choice.</li>
 
         <li value="10" id="paPAYa">RIPE paPAYa is a SOFT, SWEET, and VItamin-RICH TROPical FRUIT.</li>
-        <li className="list-none margin-bottom-20">Ripe papaya is a tropical fruit that is soft, sweet and full of vitamins.</li>
+        <li className="list-none margin-bottom-20">Ripe papaya is a tropical fruit that is soft, sweet, and full of vitamins.</li>
 
       </ol>
 

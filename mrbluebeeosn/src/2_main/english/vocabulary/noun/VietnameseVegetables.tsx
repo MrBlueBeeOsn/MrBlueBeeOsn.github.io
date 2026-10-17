@@ -71,34 +71,34 @@ export default function VietnameseVegetables(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="WAter-SPINach">STIR-FRIED WAter SPINach with GARlic is a CLASsic and deLICious vietnaMESE DISH.</li>
-        <li className="list-none margin-bottom-20">A classic and delicious Vietnamese dish, stir-fried water spinach with garlic is easy to make.</li>
+        <li className="list-none margin-bottom-20">Stir-fried water spinach with garlic is a classic and delicious dish from Vietnam.</li>
 
         <li value="2" id="LEMongrass">MINCED LEMongrass GIVES GRILLED PORK and CHICKen an inCREDible aROma.</li>
-        <li className="list-none margin-bottom-20">Mixed lemongrass makes grilled pork and chicken taste really good.</li>
+        <li className="list-none margin-bottom-20">When you add minced lemongrass to your pork or chicken, it makes it taste more like a delicious Asian meal than a simple grilled meat.</li>
 
         <li value="3" id="GINger">a WARM CUP of GINger TEA HELPS SOOTHE a SORE THROAT on COLD DAYS.</li>
-        <li className="list-none margin-bottom-20">On cold days, a cup of ginger tea can help soothe a sore throat.</li>
+        <li className="list-none margin-bottom-20">On cold days, drinking a cup of ginger tea can help soothe a sore throat.</li>
 
         <li value="4" id="CHILi-PEPper">ADDing a FEW SLIces of FRESH CHILi PEPper MAKES the NOOdle SOUP MUCH MORE FLAvorful.</li>
-        <li className="list-none margin-bottom-20">Adding a few slices of fresh chilli pepper makes the noodle soup much more flavourful.</li>
+        <li className="list-none margin-bottom-20">Add some fresh chili peppers to the noodle soup to make it more flavorful.</li>
 
         <li value="5" id="bamBOO-SHOOTS">DUCK NOOdle SOUP COOKED with FRESH bamBOO SHOOTS is a LOcal FAVORite.</li>
-        <li className="list-none margin-bottom-20">Duck noodle soup with fresh bamboo shoots is a local favourite.</li>
+        <li className="list-none margin-bottom-20">Many people love to eat duck noodle soup made with fresh bamboo shoots.</li>
 
         <li value="6" id="LOtus-ROOT">CRISpy FRIED LOtus ROOT CHIPS are a uNIQUE and HEALthy SNACK.</li>
-        <li className="list-none margin-bottom-20">Crispy fried lotus root chips are a unique and healthy snack.</li>
+        <li className="list-none margin-bottom-20">Crispy fried lotus root chips are a special and healthy snack.</li>
 
         <li value="7" id="BITter-MELon">STUFFED BITter MELon SOUP is beLIEVED to HELP COOL DOWN the BODy in SUMmer.</li>
-        <li className="list-none margin-bottom-20">Many people think that stuffed bitter melon soup is a good way to cool down in summer.</li>
+        <li className="list-none margin-bottom-20">Many believe that stuffed bitter melon soup cools down the body and is a good summertime meal.</li>
 
         <li value="8" id="CORiander">FRESH CORiander (or ciLANtro) is SPRINkled on TOP of a HOT BOWL of BEEF NOOdle SOUP be<strong>fore</strong> SERVing.</li>
-        <li className="list-none margin-bottom-20">Fresh coriander (or cilantro) is added to a bowl of beef noodle soup just before it is served.</li>
+        <li className="list-none margin-bottom-20">Fresh coriander (also called cilantro) is added to a bowl of beef noodle soup just before it is served.</li>
 
         <li value="9" id="LOOfah">SWEET LOOfah COOKED in a SIMple SHRIMP BROTH MAKES a reFRESHing SOUP for HOT DAYS.</li>
-        <li className="list-none margin-bottom-20">A refreshing soup for hot days is made by cooking sweet loofah in a simple shrimp broth.</li>
+        <li className="list-none margin-bottom-20">Sweet loofah, cooked with shrimp in broth, makes a refreshing soup for hot days.</li>
 
         <li value="10" id="VietnaMESE-CORiander">a PLATE of baLUT EGGS is NEVer comPLETE without a HANDful of VietnaMESE CORiander.</li>
-        <li className="list-none margin-bottom-20">A plate of boiled eggs just isn't the same without a little bit of Vietnamese coriander.</li>
+        <li className="list-none margin-bottom-20">A plate of boiled eggs isn't complete without a few sprigs of Vietnamese coriander.</li>
 
       </ol>
 
