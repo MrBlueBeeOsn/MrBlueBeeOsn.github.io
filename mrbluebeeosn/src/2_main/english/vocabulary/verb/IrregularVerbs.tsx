@@ -1091,17 +1091,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [HEARS] a STRANGE NOISE outside his WINdow.</li>
-					<li className="list-none">Anh ấy [nghe thấy] một tiếng động lạ bên ngoài cửa sổ.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng HEARS (cho chủ thể ngôi thứ ba số ít he) để chỉ sự việc diễn ra theo quy luật.</li>
+					<li>he HEARS a STRANGE NOISE outside his WINdow.</li>
+					<li className="list-none">He hears an unusual noise coming from outside his window.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the “HEARS” form (for the third-person singular subject “he”) to describe events that occur regularly.</li>
 			
-					<li>she [HEARD] the GOOD NEWS [YESterday].</li>
-					<li className="list-none">Cô ấy [đã nghe] tin vui [vào ngày hôm qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng HEARD để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>she HEARD the GOOD NEWS YESterday.</li>
+					<li className="list-none">She heard some great news yesterday.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “HEARD” form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>we [have HEARD] a<strong>bout</strong> this PLAN [beFORE].</li>
-					<li className="list-none">Chúng ta [đã nghe] về kế hoạch này [trước đây].</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have HEARD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>we have HEARD a<strong>bout</strong> this PLAN beFORE.</li>
+					<li className="list-none">We already know about this plan.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “have HEARD” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 			
@@ -1110,17 +1110,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she [HOLDS] a MEETing [<strong>ever</strong>y MONday MORNing].</li>
-					<li className="list-none">Cô ấy [tổ chức] một cuộc họp [vào mỗi sáng thứ Hai].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng HOLDS (cho chủ thể ngôi thứ ba số ít she) để chỉ sự việc diễn ra theo quy luật.</li>
+					<li>she HOLDS a MEETing <strong>ever</strong>y MONday MORNing.</li>
+					<li className="list-none">Every Monday morning, she has a meeting.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Action Tense with the “HOLDS” form (for the third-person singular subject “she”) to indicate an event that occurs regularly.</li>
 			
-					<li>he [HELD] the umBRELla for me [in the RAIN].</li>
-					<li className="list-none">Anh ấy [đã giữ] chiếc ô giúp tôi [trong cơn mưa].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng HELD để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>he HELD the umBRELla for me in the RAIN.</li>
+					<li className="list-none">He held my umbrella for me in the rain.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Past Simple “Action” tense with the “HELD” form to indicate an action that began and ended in the past.</li>
 			
-					<li>they [have HELD] this poSITion [for THREE YEARS].</li>
-					<li className="list-none">Họ [đã nắm giữ] vị trí này [được ba năm].</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have HELD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>they have HELD this poSITion for THREE YEARS.</li>
+					<li className="list-none">They've had this position for three years.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “have HELD” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 
@@ -1129,17 +1129,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [LEARNS] a NEW LANguage [<strong>ever</strong>y YEAR].</li>
-					<li className="list-none">Anh ấy [học] một ngôn ngữ mới [mỗi năm].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng LEARNS (cho chủ thể ngôi thứ ba số ít he) để chỉ sự việc diễn ra theo quy luật.</li>
+					<li>he LEARNS a NEW LANguage <strong>ever</strong>y YEAR.</li>
+					<li className="list-none">Every year, he learns a new language.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “LEARNS” (for the third-person singular subject “he”) to indicate an event that occurs regularly.</li>
 			
-					<li>she [LEARNED] a LOT [from the exPERIence].</li>
-					<li className="list-none">Cô ấy [đã học] được rất nhiều [từ kinh nghiệm đó].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng LEARNED để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>she LEARNED a LOT from the exPERIence.</li>
+					<li className="list-none">We've figured out a solution to the problem.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “LEARNED” form to refer to an action that occurred and was completed in the past.</li>
 			
-					<li>we [have LEARNT] HOW to SOLVE the PROBlem.</li>
-					<li className="list-none">Chúng ta [đã học] cách giải quyết vấn đề.</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have LEARNT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>we have LEARNT HOW to SOLVE the PROBlem.</li>
+					<li className="list-none">We've figured out a solution to the problem.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “have LEARNT” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 			
@@ -1148,17 +1148,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she [SENDS] a [WEEkly] rePORT to her MANager.</li>
-					<li className="list-none">Cô ấy [gửi] báo cáo [hàng tuần] cho quản lý của mình.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng sends (cho chủ thể ngôi thứ ba số ít She) để chỉ sự việc diễn ra theo quy luật.</li>
+					<li>she SENDS a WEEkly rePORT to her MANager.</li>
+					<li className="list-none">Each week, she sends her boss a report.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “sends” (for the third-person singular subject “She”) to indicate an action that occurs regularly.</li>
 			
-					<li>he [SENT] an imPORTant Email [YESterday].</li>
-					<li className="list-none">Anh ấy [đã gửi] một email quan trọng [vào ngày hôm qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng SENT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>he SENT an imPORTant Email YESterday.</li>
+					<li className="list-none">he SENT an imPORTant Email YESterday.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “SENT” form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they [have SENT] the PACKage sucCESSfully.</li>
-					<li className="list-none">Họ [đã gửi] bưu phẩm thành công.</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với has SENT / have SENT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>they have SENT the PACKage sucCESSfully.</li>
+					<li className="list-none">They shipped the package, and it was successfully delivered.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “has SENT” / “have SENT” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 			
@@ -1167,17 +1167,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the CHART [SHOWS] the [ANnual] SALES GROWTH CLEARly.</li>
-					<li className="list-none">Biểu đồ [thể hiện] rõ ràng sự tăng trưởng doanh số [hàng năm].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SHOWS (cho chủ thể ngôi thứ ba số ít the CHART) để chỉ sự việc diễn ra theo quy luật.</li>
+					<li>the CHART SHOWS the ANnual SALES GROWTH CLEARly.</li>
+					<li className="list-none">The chart clearly shows how sales have increased each year.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “SHOWS” (for the third-person singular subject “the CHART”) to indicate that an event occurs regularly.</li>
 			
-					<li>he [SHOWED] his NEW PROJect PROUDly at the MEETing.</li>
-					<li className="list-none">Anh ấy [đã thể hiện] một cách tự hào dự án mới của mình tại cuộc họp.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng SHOWED để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>he SHOWED his NEW PROJect PROUDly at the MEETing.</li>
+					<li className="list-none">He was proud to show off his new project at the meeting.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the form “SHOWED” to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>she [has SHOWN] GREAT imPROVEment [REcently].</li>
-					<li className="list-none">Cô ấy [đã thể hiện] sự tiến bộ lớn [gần đây].</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với has SHOWN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>she has SHOWN GREAT imPROVEment REcently.</li>
+					<li className="list-none">She has shown big improvement lately.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “has SHOWN” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 			
@@ -1186,17 +1186,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the BAby [SLEEPS] for EIGHT HOURS [<strong>ever</strong>y NIGHT].</li>
-					<li className="list-none">Em bé [ngủ] tám tiếng [mỗi đêm].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SLEEPS (cho chủ thể ngôi thứ ba số ít the BAby) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
+					<li>the BAby SLEEPS for EIGHT HOURS <strong>ever</strong>y NIGHT.</li>
+					<li className="list-none">Every night, the baby sleeps for eight hours.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the “sleeps” form (for the third-person singular subject “the Baby”) to indicate a habit or a regular occurrence.</li>
 			
-					<li>he [SLEPT SOUNDly] [through the NIGHT].</li>
-					<li className="list-none">Anh ấy [đã ngủ ngon giấc] [suốt cả đêm].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng SLEPT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>he SLEPT SOUNDly through the NIGHT.</li>
+					<li className="list-none">He slept quietly all night.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “SLEPT” form to indicate an action that occurred and ended in the past.</li>
 			
-					<li>she [has SLEPT] for a LONG TIME.</li>
-					<li className="list-none">Cô ấy [đã ngủ] trong một thời gian dài.</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với has SLEPT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>she has SLEPT for a LONG TIME.</li>
+					<li className="list-none">She slept for a long time.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “has SLEPT” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 
@@ -1205,17 +1205,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [SWIMS] in the POOL [<strong>ever</strong>y MORNing].</li>
-					<li className="list-none">Anh ấy [bơi] ở hồ bơi [mỗi buổi sáng].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SWIMS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
+					<li>he SWIMS in the POOL <strong>ever</strong>y MORNing.</li>
+					<li className="list-none">Every morning, he swims in the pool.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense in the SWIMS form (for the third-person singular subject “he”) to refer to habits or events that occur regularly.</li>
 			
-					<li>she [SWAM] across the RIVer [YESterday].</li>
-					<li className="list-none">Cô ấy [đã bơi] qua sông [vào ngày hôm qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng SWAM để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>she SWAM across the RIVer YESterday.</li>
+					<li className="list-none">She was able to swim across the river yesterday.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the SWAM pattern to describe an action that began and ended in the past.</li>
 			
-					<li>they [have SWUM] in this LAKE <strong>man</strong>y TIMES.</li>
-					<li className="list-none">Họ [đã bơi] ở cái hồ này nhiều lần.</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SWUM, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>they have SWUM in this LAKE <strong>man</strong>y TIMES.</li>
+					<li className="list-none">They've swum in this lake many times.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “have SWUM” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 
@@ -1224,17 +1224,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she [TEACHes] ENGlish at a LOcal SCHOOL.</li>
-					<li className="list-none">Cô ấy [dạy] tiếng Anh ở một trường học địa phương.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng TEACHes (cho chủ thể ngôi thứ ba số ít she) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
+					<li>she TEACHes ENGlish at a LOcal SCHOOL.</li>
+					<li className="list-none">She teaches English at a local elementary school.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the TEACHes form (for the third-person singular subject “she”) to describe habits or events that occur regularly.</li>
 			
-					<li>he [TAUGHT] us a VALuable LESson [YESterday].</li>
-					<li className="list-none">Anh ấy [đã dạy] chúng tôi một bài học quý giá [vào ngày hôm qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng TAUGHT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>he TAUGHT us a VALuable LESson YESterday.</li>
+					<li className="list-none">He taught us a very helpful and valuable lesson yesterday.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Past Simple Tense with the form “TAUGHT” to refer to an action that took place and ended in the past.</li>
 			
-					<li>they [have TAUGHT] this SUBject for FIVE YEARS.</li>
-					<li className="list-none">Họ [đã dạy] môn học này được năm năm.</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have TAUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>they have TAUGHT this SUBject for FIVE YEARS.</li>
+					<li className="list-none">They've taught this subject for five years.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “have TAUGHT” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 
@@ -1243,17 +1243,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the TEACHer [underSTANDS] the STUdent's PROBlem.</li>
-					<li className="list-none">Giáo viên [hiểu] vấn đề của học sinh.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng underSTANDS (cho chủ thể ngôi thứ ba số ít the TEACHer) để chỉ sự việc diễn ra theo quy luật.</li>
+					<li>the TEACHer underSTANDS the STUdent's PROBlem.</li>
+					<li className="list-none">The teacher gets what the student's problem is.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “understands” (for the third-person singular subject “the teacher”) to indicate that the action occurs regularly.</li>
 			
-					<li>she [underSTOOD] the LESson CLEARly [<strong>af</strong>ter the explaNAtion].</li>
-					<li className="list-none">Cô ấy [đã hiểu] bài học một cách rõ ràng [sau lời giải thích].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng underSTOOD để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>she underSTOOD the LESson CLEARly <strong>af</strong>ter the explaNAtion.</li>
+					<li className="list-none">She understood the lesson after the instructor's clear explanation.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the form “underSTOOD” to refer to an action that occurred and was completed in the past.</li>
 			
-					<li>he [has underSTOOD] the CORE CONcept THORoughly.</li>
-					<li className="list-none">Anh ấy [đã hiểu] khái niệm cốt lõi một cách thấu đáo.</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với has underSTOOD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>he has underSTOOD the CORE CONcept THORoughly.</li>
+					<li className="list-none">He has a strong understanding of the main idea.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “has understood” to describe an action that has been completed and is relevant to the present.</li>
 			
 				</ul>
 
@@ -1490,7 +1490,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 
 			{/* V1: Nguyên thể / Hiện tại */}
 
-			<h4 id="V1">V1: ⏳ Time of Action in the Simple Present Tense (add “s” or ‘es’ to “he,” “she,” or “it”)</h4>
+			<h4 id="V1">V1: Time of Action in the Simple Present Tense (add “s” or ‘es’ to “he,” “she,” or “it”)</h4>
 
 			<p className="margin-top-20">Used to describe habits, obvious truths, or repeated actions.</p>
 			
@@ -1504,7 +1504,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 
 			{/* V2: ⏳ Thời Gian Hành Động ở Quá Khứ Đơn */}
 
-			<h4 className="margin-top-20" id="V2">V2: ⏳ Past Simple Tense</h4>
+			<h4 className="margin-top-20" id="V2">V2: Past Simple Tense</h4>
 
 			<p className="margin-top-20 text-indent-whole">Used to describe actions that occurred and were completed in the past; often accompanied by time expressions such as “yesterday,” “last week,” or “ago.”</p>
 			
@@ -1520,7 +1520,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 
 			<h4 className="margin-top-20" id="V3">V3: Past Participle</h4>
 
-			<p className="margin-top-20">1️⃣ 📏 Time of Action in the Present Perfect (have/has + V3)</p>
+			<p className="margin-top-20">1️⃣ Time of Action in the Present Perfect (have/has + V3)</p>
 
 			<p className="margin-top-20 text-indent-whole">Used to describe an action that has already occurred but is still relevant to the present, or an experience.</p>
 			
@@ -1532,7 +1532,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20" id="V4">2️⃣ 📏 Past Perfect Tense (had + V3)</p>
+			<p className="margin-top-20" id="V4">2️⃣ Past Perfect Tense (had + V3)</p>
 
 			<p className="margin-top-20 text-indent-whole">Used to describe an action that occurred before another action in the past.</p>
 			
@@ -1544,7 +1544,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20" id="V5">3️⃣ 📏 Future Perfect Tense (will have + V3)</p>
+			<p className="margin-top-20" id="V5">3️⃣ Future Perfect Tense (will have + V3)</p>
 
 			<p className="margin-top-20 text-indent-whole">Used to describe an action that will be completed before a specific point in the future.</p>
 			

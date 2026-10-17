@@ -259,7 +259,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					
 				<ul className="list-square">
 			
-					<li>IELTS/TOEFL/TOEIC ưu tiên ngôn ngữ tự nhiên → dùng PHRAsal VERBS đúng chỗ dễ lên BAND 7.0+ SPEAKing</li>
+					<li>IELTS/TOEFL/TOEIC prioritize natural language → using phrasal verbs correctly can help you easily achieve a BAND 7.0+ in SPEAKING</li>
 			
 					<li id="call-yoU-UP">IELTS/TOEFL/TOEIC prioritize natural language → using phrasal verbs correctly can help you easily achieve a BAND 7.0+ in SPEAKING</li>
 			
