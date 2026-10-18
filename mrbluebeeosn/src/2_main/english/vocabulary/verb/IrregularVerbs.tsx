@@ -900,17 +900,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [LOses] his KEYS [when<strong>ev</strong>er he is in a HURry].</li>
-					<li className="list-none">Anh ấy [hay làm mất] chìa khóa [mỗi khi vội vã].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng LOses (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
+					<li>he LOses his KEYS when<strong>ev</strong>er he is in a HURry.</li>
+					<li className="list-none">He always loses his keys when he's in a rush.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form "loses" (for the third-person singular subject "he") to indicate a habit or a regular occurrence.</li>
 			
-					<li>she [LOST] her FAvorite CAMERa in the PARK [LAST WEEK].</li>
-					<li className="list-none">Cô ấy [đã làm mất] chiếc máy ảnh yêu thích của mình ở công viên [vào tuần trước].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng LOST để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>she LOST her FAvorite CAMERa in the PARK LAST WEEK.</li>
+					<li className="list-none">Last week, she lost her favorite camera in the park.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "LOST" form to refer to an action that took place and ended in the past.</li>
 			
-					<li>they [have LOST] their WAY in the unfaMILiar NEIGHborhood.</li>
-					<li className="list-none">Họ [đã lạc đường] ở khu phố lạ lẫm đó.</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have LOST, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>they have LOST their WAY in the unfaMILiar NEIGHborhood.</li>
+					<li className="list-none">They are not familiar with the neighborhood.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have LOST" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 			
@@ -919,17 +919,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [PAYS] his BILLS at the beGINning of [<strong>ever</strong>y MONTH].</li>
-					<li className="list-none">Anh ấy [thanh toán] các hóa đơn của mình [vào đầu mỗi tháng].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng PAYS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
+					<li>he PAYS his BILLS at the beGINning of <strong>ever</strong>y MONTH.</li>
+					<li className="list-none">Every month, he pays all his bills on time.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the "PAYS" form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she [PAID] for the NEW COFfee GRINDer [YESterday].</li>
-					<li className="list-none">Cô ấy [đã trả tiền] cho chiếc máy xay cà phê mới [vào ngày hôm qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng PAID để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>she PAID for the NEW COFfee GRINDer YESterday.</li>
+					<li className="list-none">she PAID for the NEW COFfee GRINDer YESterday.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "PAID" form to refer to an action that occurred and was completed in the past.</li>
 			
-					<li>they [have PAID] for the SERvice in adVANCE.</li>
-					<li className="list-none">Họ [đã thanh toán] trước cho dịch vụ này [rồi].</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have PAID, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>they have PAID for the SERvice in adVANCE.</li>
+					<li className="list-none">They paid for the service ahead of time.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have PAID" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 
@@ -938,17 +938,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [MEETS] his CLIents [<strong>ever</strong>y TUESday].</li>
-					<li className="list-none">Anh ấy [gặp gỡ] các khách hàng của mình [vào mỗi thứ Ba].</li>
+					<li>he MEETS his CLIents <strong>ever</strong>y TUESday.</li>
+					<li className="list-none">He meets with his clients on Tuesdays.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng MEETS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li>she [MET] an OLD FRIEND [YESterday].</li>
-					<li className="list-none">Cô ấy [đã gặp] một người bạn cũ [vào ngày hôm qua].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng MET để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>she MET an OLD FRIEND YESterday.</li>
+					<li className="list-none">Yesterday, she ran into an old friend.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the MET form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they [have MET beFORE] at the CONference.</li>
-					<li className="list-none">Họ [đã gặp nhau trước] đây ở hội nghị.</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have MET, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>they have MET beFORE at the CONference.</li>
+					<li className="list-none">They met each other at the conference.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have MET" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 			
@@ -957,17 +957,17 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he [RUNS] in the PARK [<strong>ever</strong>y afterNOON].</li>
-					<li className="list-none">Anh ấy [chạy bộ] ở công viên [vào mỗi buổi chiều].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng RUNS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
+					<li>he RUNS in the PARK <strong>ever</strong>y afterNOON.</li>
+					<li className="list-none">He exercises by running in the park every day at noon.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the "RUNS" form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she [RAN] to CATCH the BUS [this MORNing].</li>
-					<li className="list-none">Cô ấy [đã chạy] để bắt xe buýt [vào sáng nay].</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng RAN để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li>she RAN to CATCH the BUS this MORNing.</li>
+					<li className="list-none">She hurried to catch the bus this morning.</li>
+					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "RAN" form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they [have RUN] [FIVE kiLOMeters so FAR].</li>
-					<li className="list-none">Họ [đã chạy được] [năm ki-lô-mét cho đến nay].</li>
-					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have RUN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li>they have RUN FIVE kiLOMeters so FAR.</li>
+					<li className="list-none">They have run five kilometers (3 miles) so far.</li>
+					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have RUN" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
 			
