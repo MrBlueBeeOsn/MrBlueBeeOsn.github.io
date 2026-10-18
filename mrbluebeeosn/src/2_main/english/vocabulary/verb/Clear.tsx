@@ -168,14 +168,14 @@ export default function CLEAR(): React.JSX.Element {
 
           <p>[CLEAR] là một [LEXical VERB] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).</p>
 
-          <p className="margin-top-20">Phát âm:[CLEAR][CLĒAR] /klɪə(r)/</p>
+          <p className="margin-top-20">Phát âm:[CLĒAR] /klɪə(r)/</p>
 
             <ul className="list-square">
           
               <li>you must [CLEAR] the browser history.</li>
               <li className="margin-bottom-20 list-none">Bạn phải [xóa] lịch sử trình duyệt.</li>
 
-              <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEAR] - [PLAIN FORM] dạng nguyên bản đứng sau [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "must" để thực thi hành động tác động lên thành phần chịu tác động "the browser history".</li>
+              <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEAR] - [PLAIN FORM] dạng nguyên bản đứng sau [PREsent MOdal auXILiary VERB] "must" để thực thi hành động tác động lên thành phần chịu tác động "the browser history".</li>
           
             </ul>
 
@@ -216,7 +216,7 @@ export default function CLEAR(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as COMplement] cho [TRANsitive prepoSITion] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
 					
 					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>] - [<strong>PARTicles</strong>]: OUT, IN, WITH, BACK</li>
-					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion][NỘI GIỚI] như OUT, IN, UP, BACK đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
+					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion] như OUT, IN, UP, BACK đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
 
           <li value="3">[<strong>non-MOdal auXILiary VERB</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Là đơn vị từ đơn chuyên biệt chịu trách nhiệm kích hoạt bối cảnh thời gian (Hiện tại/Quá khứ) hoặc làm trợ lực thiết lập thể chủ động/bị động, hoàn thành/tiếp diễn.</li>
@@ -263,22 +263,22 @@ export default function CLEAR(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] quá khứ và hành động [Thuần] khiết hòa tan, là phân hệ tích hợp tối tân, nén cả dấu mốc Thời gian và bản chất Thực thi hành động vào trong một đơn vị từ đơn duy nhất.</li>
       
           <li value="7" className="margin-bottom-20">[<strong>VERB PHRASE as PREDicator</strong>]: is CLEARing, was CLEARing</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đang [Tiếp] diễn. Trong đó, "is", "was" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "CLEARing" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đang [Tiếp] diễn. Trong đó, "is", "was" là [PRImary VERB as PREDicator] mang [FInite], còn "CLEARing" là các dạng [non-FInite] đi kèm.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has CLEARD, had CLEARD</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đã trọn vẹn, [Hoàn] thành. Trong đó, "has", "had" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "CLEARD" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đã trọn vẹn, [Hoàn] thành. Trong đó, "has", "had" là [PRImary VERB as PREDicator] mang [FInite], còn "CLEARD" là các dạng [non-FInite] đi kèm.</li>
       
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has been CLEARing, had been CLEARing</li>
-          <li className="margin-bottom-20 list-none">Là phân hệ cụm mã gồm nhiều thành phần thời phối hợp nhau để xử lý các bối cảnh thời gian phức tạp (như 🏃‍♂️ Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Tiếp Diễn, 🏃‍♂️ Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành Tiếp Diễn). Trong đó, "has", "had" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "been CLEARing" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">Là phân hệ cụm mã gồm nhiều thành phần thời phối hợp nhau để xử lý các bối cảnh thời gian phức tạp (như 🏃‍♂️ Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Tiếp Diễn, 🏃‍♂️ Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành Tiếp Diễn). Trong đó, "has", "had" là [PRImary VERB as PREDicator] mang [FInite], còn "been CLEARing" là các dạng [non-FInite] đi kèm.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: would CLEAR, could CLEAR, should CLEAR</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết. Trong đó, "would", "could", "should" là [PRETerite MOdal auXILiary VERB] mang [FInite], còn "CLEAR" là các dạng [non-FInite] đi kèm.</li>
       
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: will CLEAR, can CLEAR</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết. Trong đó, "will", "can" là [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] mang [FInite], còn "CLEAR" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết. Trong đó, "will", "can" là [PREsent MOdal auXILiary VERB] mang [FInite], còn "CLEAR" là các dạng [non-FInite] đi kèm.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: DID CLEAR, DOES CLEAR</li>
-          <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu. Trong đó, "DID", "DOES" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "CLEAR" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu. Trong đó, "DID", "DOES" là [PRImary VERB as PREDicator] mang [FInite], còn "CLEAR" là các dạng [non-FInite] đi kèm.</li>
       
         </ol>
 
@@ -287,7 +287,7 @@ export default function CLEAR(): React.JSX.Element {
           
       <p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-      <p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement], [FInite CLAUSE as ADjunct], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+      <p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement], [FInite CLAUSE as ADjunct], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE] tương ứng của chính nó.</p>
 
       <ol>
 			
@@ -296,12 +296,12 @@ export default function CLEAR(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none"><strong>Why prepoSITion PHRASE</strong>, <strong>not conJUNCtion CLAUSE</strong>?</li>
 
-					<li className="margin-bottom-20 list-none">[MODern GRAMmar] xem "be<strong>cause</strong> <strong>it RAINS</strong>" là [prepoSITion PHRASE] vì cho rằng [TRANsitive prepoSITion] và [VERB][ĐỘNG] là giống nhau. Nếu phía sau VERB là một CLAUSE thì vẫn gọi là [VERB PHRASE].</li>
+					<li className="margin-bottom-20 list-none">[MODern GRAMmar] xem "be<strong>cause</strong> <strong>it RAINS</strong>" là [prepoSITion PHRASE] vì cho rằng [TRANsitive prepoSITion] và [VERB] là giống nhau. Nếu phía sau VERB là một CLAUSE thì vẫn gọi là [VERB PHRASE].</li>
 
 					<li className="margin-bottom-20 list-none">[MODern GRAMmar] không tách biệt phía sau [TRANsitive prepoSITion] là một [CLAUSE] hay một [NOUN PHRASE]. Bất cứ thứ gì sau [TRANsitive prepoSITion] đều được coi là [COMplement] và được gọi là [prepoSITion PHRASE] "be<strong>cause</strong> <strong>it RAINS</strong>". [MODern GRAMmar] không sử dụng thuật ngữ [conJUNCtion CLAUSE] vì đây là ngữ pháp truyền thống cách đây hàng trăm năm.</li>
 			
 					<li value="2">[<strong>coORdinator</strong>] (ĐỒNG CÂU): to</li>
-					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "but", "or", "and" mới chính là [conJUNCtion][LIÊN], còn lại là [TRANsitive prepoSITion] hoặc các từ khác.</li>
+					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "but", "or", "and" mới chính là [conJUNCtion], còn lại là [TRANsitive prepoSITion] hoặc các từ khác.</li>
 
 					<li value="3">[<strong>suBORdinator</strong>] (HẠ CÂU/ HẠ CẤP CÂU): to</li>
 					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "that" "if" mang nghĩa liệu, "<strong>wheth</strong>er" - liệu</li>
@@ -323,13 +323,13 @@ export default function CLEAR(): React.JSX.Element {
 
           <li>has been CLEARing → [non-MOdal auXILiary VERB] has + [PAST PARTiciple VERB] been + [GERund-PARTiciple FORM] CLEARing</li>
       
-          <li>should CLEAR → [MOdal auXILiary VERB][PHI-THÁI TRỢ ĐỘNG] should + [PLAIN FORM] to CLEAR</li>
+          <li>should CLEAR → [MOdal auXILiary VERB] should + [PLAIN FORM] to CLEAR</li>
           
           <li>CLEARED → [PRETerite FORM] → ⏳ Thời Gian Hành Động ở Quá Khứ Đơn. (Một đơn vị tích hợp cả hai).</li>
 
           <li>CLEARS → [3RD SINGular PRESent FORM] →⏳ Thời Gian Hành Động ở Hiện Tại Đơn. (Một đơn vị tích hợp cả hai).</li>
 
-          <li>is/am/is → [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] hoặc [PRImary PREDicator].</li>
+          <li>is/am/is → [3RD SINGular PRESent BE FORM] hoặc [PRImary PREDicator].</li>
       
         </ul>
       
@@ -392,7 +392,7 @@ export default function CLEAR(): React.JSX.Element {
 
           <li className="list-none margin-bottom-10">[the PROCess] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "exPLAINED" trong [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">[CLEARly] - [ADverb PHRASE as ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "exPLAINED" trong [MAIN CLAUSE]. Hình thành từ khối [ADjective][TÍNH] nguyên bản "CLEAR" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+          <li className="list-none margin-bottom-10">[CLEARly] - [ADverb PHRASE as ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "exPLAINED" trong [MAIN CLAUSE]. Hình thành từ khối [ADjective] nguyên bản "CLEAR" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
       
         </ul>
 
@@ -427,7 +427,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>the IT TEAM FINished [CLEARing OLD DAtabase FILES].</li>
           <li className="margin-bottom-20 list-none">Đội CNTT đã hoàn tất việc [xóa các tệp cơ sở dữ liệu cũ].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing OLD DAtabase FILES] - [non-FInite CLAUSE as CATenative COMplement] của [inTRANsitive CATenative VERB][NỘI CHUỖI ĐỘNG] ở [PRETerite FORM] "FINished" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] chứa [GERund-PARTiciple FORM] "CLEARing", mở rộng thành một vùng mã hành động phức hợp gồm hành động dọn dẹp, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing OLD DAtabase FILES] - [non-FInite CLAUSE as CATenative COMplement] của [inTRANsitive CATenative VERB] ở [PRETerite FORM] "FINished" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] chứa [GERund-PARTiciple FORM] "CLEARing", mở rộng thành một vùng mã hành động phức hợp gồm hành động dọn dẹp, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [OLD DAtabase FILES] - [NOUN PHRASE as COMplement] tiếp nhận trực tiếp mục tiêu của [TRANsitive VERB] ở "CLEARing".</li>
       
@@ -445,7 +445,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[the STAFF MEMber to CLEAR the MEETing ROOM] is outSIDE.</li>
           <li className="margin-bottom-20 list-none">[Nhân viên phụ trách dọn dẹp phòng họp] đang ở bên ngoài.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the STAFF MEMber to CLEAR the MEETing ROOM] - [NOUN PHRASE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the STAFF MEMber to CLEAR the MEETing ROOM] - [NOUN PHRASE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE].</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CLEAR the MEETing ROOM] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "MEMber" để quét và hiển thị đặc điểm hành động sắp sửa xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" + [VERB PHRASE] "CLEAR the MEETing ROOM" để biểu thị mục đích, nghĩa vụ hoặc định hướng hành động.</li>
       
@@ -461,7 +461,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[the LAND to be CLEARED NEXT MONTH] beLONGS to the CITy.</li>
           <li className="margin-bottom-20 list-none">[Khu đất sẽ được giải phóng mặt bằng vào tháng tới] thuộc sở hữu của thành phố.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the LAND to be CLEARED NEXT MONTH] - [NOUN PHRASE as SUBject] của [inTRANsitive VERB] ở [3RD SINGular PRESent FORM] "beLONGS" trong [MAIN CLAUSE]. Trong đó, "beLONGS" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the LAND to be CLEARED NEXT MONTH] - [NOUN PHRASE as SUBject] của [inTRANsitive VERB] ở [3RD SINGular PRESent FORM] "beLONGS" trong [MAIN CLAUSE]. Trong đó, "beLONGS" là [PRImary VERB as PREDicator] mang [FInite].</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to be CLEARED NEXT MONTH] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "LAND" để mô tả đặc điểm trạng thái sắp sửa được tác động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE] hiển thị dưới dạng mô hình "to be + V3/-ed", chứa [PAST PARTiciple FORM] biến đổi hình thái bị động, kết hợp phần mở rộng phương thức để biểu thị trạng thái bị động hướng tới tương lai.</li>
       
@@ -477,7 +477,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[the WORKer CLEARing the ROAD BLOCK] WORE a VEST.</li>
           <li className="margin-bottom-20 list-none">[Người công nhân đang dọn dẹp chướng ngại vật trên đường] mặc một chiếc áo khoác phản quang.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the WORKer CLEARing the ROAD BLOCK]- [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "WORE" trong [MAIN CLAUSE]. Trong đó, "WORE" là [LEXical VERB as PREDicator][VỰNG ĐỘNG làm VỊ] mang [FInite].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the WORKer CLEARing the ROAD BLOCK]- [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "WORE" trong [MAIN CLAUSE]. Trong đó, "WORE" là [LEXical VERB as PREDicator] mang [FInite].</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARing the ROAD BLOCK] - [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] đặt ngay sau đối tượng [NOUN as HEAD] "WORKer" để quét và hiển thị đặc điểm hành động chủ động của đối tượng đó. Bản chất là [GERund-PARTiciple CLAUSE] được cấu tạo từ [GERund-PARTiciple FORM] "CLEARing" kết hợp với [NOUN PHRASE as OBJect] "the ROAD BLOCK" để biểu thị tính chủ động đang xảy ra.</li>
       
@@ -493,7 +493,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[the FILES CLEARED by the adMINistrator] are PERmanently deLETEd.</li>
           <li className="margin-bottom-20 list-none">[Các tệp đã được quản trị viên xóa] sẽ bị xóa vĩnh viễn.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the FILES CLEARED by the adMINistrator] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "are deLETEd" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "are" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn [TRANsitive VERB] "deLETEd" là các dạng [non-FInite] đi kèm, biểu thị đối tượng "the FILES" đã được xóa.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the FILES CLEARED by the adMINistrator] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "are deLETEd" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "are" là [PRImary VERB as PREDicator] mang [FInite], còn [TRANsitive VERB] "deLETEd" là các dạng [non-FInite] đi kèm, biểu thị đối tượng "the FILES" đã được xóa.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEARED by the adMINistrator] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "FILES" để mô tả đặc điểm trạng thái bị động hoàn thành của đối tượng đó. Bản chất là [PAST PARTiciple CLAUSE] hiển thị dưới dạng một vùng mã chứa [PAST PARTiciple FORM] ở dạng bị động thuộc trục thời quá khứ và phần mở rộng phương thức.</li>
       
@@ -599,7 +599,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[the reQUIrement for a CLEAR STRATegy] is URgent.</li>
           <li className="margin-bottom-20 list-none">[Yêu cầu về một chiến lược rõ ràng] là vô cùng cấp bách.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the reQUIrement for a CLEAR STRATegy] - [NOUN PHRASE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the reQUIrement for a CLEAR STRATegy] - [NOUN PHRASE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE].</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [for a CLEAR STRATegy] - [prepoSITion PHRASE as COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reQUIrement" được hình thành từ [TRANsitive VERB] "reQUIre" kéo theo [TRANsitive prepoSITion] "for".</li>
       
@@ -652,7 +652,7 @@ export default function CLEAR(): React.JSX.Element {
           
       <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [CLAUSE]</h5>
 
-      <p className="margin-top-20 text-indent-whole">Phân hệ này sử dụng các mã kết nối ([ADverb], [TRANsitive prepoSITion] hoặc mã định vị [PROnoun][ĐẠI]) xuất hiện trực tiếp ở đầu hệ con để làm điểm tựa liên kết dữ liệu.</p>
+      <p className="margin-top-20 text-indent-whole">Phân hệ này sử dụng các mã kết nối ([ADverb], [TRANsitive prepoSITion] hoặc mã định vị [PROnoun]) xuất hiện trực tiếp ở đầu hệ con để làm điểm tựa liên kết dữ liệu.</p>
 
 
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as SUBject</strong>]</p>
@@ -664,7 +664,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[HOW you CLEAR these SYStem LOGS] is confidential.</li>
           <li className="margin-bottom-20 list-none">[Cách xóa các nhật ký hệ thống này] là thông tin bí mật.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HOW you CLEAR these SYStem LOGS] - [FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" điều khiển chính cho hành động trạng thái. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần liên kết trực quan ở đầu, có [PROnoun as HEAD] "you" và cụm hành động [FInite CLAUSE] "CLEAR ..." phối hợp phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HOW you CLEAR these SYStem LOGS] - [FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" điều khiển chính cho hành động trạng thái. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần liên kết trực quan ở đầu, có [PROnoun as HEAD] "you" và cụm hành động [FInite CLAUSE] "CLEAR ..." phối hợp phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [these SYStem LOGS] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "CLEAR".</li>
       
@@ -741,7 +741,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as ADjunct</strong>][<strong>THỜI ĐIỀU làm PHỤ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as ADjunct</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="11c">Ví dụ 11c:</p>
       
@@ -758,7 +758,7 @@ export default function CLEAR(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">5. Phân hệ [Nhúng Đóng Gói][emBEDded Structure]</h4>
+      <h4 className="margin-y-40">5. Phân hệ [emBEDded Structure]</h4>
 
       <p className="margin-top-20 text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, các khối mã sẽ lồng vào nhau tạo nên hệ thống phân tầng tối tân.</p>
 
@@ -776,7 +776,7 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [ANalyzing HOW the PROgram CLEARS METadata] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE], chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện. Bản chất là [GERund-PARTicipial CLAUSE] bắt đầu bằng [GERund-PARTiciple FORM] "ANalyzing" và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [ANalyzing HOW the PROgram CLEARS METadata] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE], chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện. Bản chất là [GERund-PARTicipial CLAUSE] bắt đầu bằng [GERund-PARTiciple FORM] "ANalyzing" và kéo theo thành phần bổ trợ phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the PROgram CLEARS METadata] - [FInite CLAUSE as COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "Analyzing", tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [ADverb] "HOW", [NOUN as HEAD] riêng "PROgram" và [3RD SINGular PRESent FORM] riêng "CLEARS" thiết lập theo trục thời hiện tại.</li>
       
@@ -843,7 +843,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài song song</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[diRECTly] - [ADverb PHRASE as ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "LOOKED" trong [MAIN CLAUSE]. Hình thành từ khối [ADjective][TÍNH] nguyên bản "diRECT" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+          <li className="list-none margin-bottom-10">[diRECTly] - [ADverb PHRASE as ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "LOOKED" trong [MAIN CLAUSE]. Hình thành từ khối [ADjective] nguyên bản "diRECT" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
 
           <li className="list-none margin-bottom-10">[at where the TEAM CLEARED the LAND] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "LOOKED" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "at" và kéo theo thành phần bổ trợ phía sau, đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể, biểu thị dưới dạng một vùng mã xác lập không gian lớn.</li>
           
@@ -871,7 +871,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[CLEARing the BROWser CACHE] is NECessary.</li>
           <li className="margin-bottom-20 list-none">[Xóa bộ nhớ cache của trình duyệt] là điều cần thiết.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the BROWser CACHE] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "CLEARing" và đối tượng đi kèm.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [CLEARing the BROWser CACHE] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "CLEARing" và đối tượng đi kèm.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the BROWser CACHE] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "CLEARing".</li>
       
@@ -885,7 +885,7 @@ export default function CLEAR(): React.JSX.Element {
           <li>[EMPtying the TEMporary FOLDer] is NECessary.</li>
           <li className="margin-bottom-20 list-none">[Xóa thư mục tạm thời] là việc cần thiết.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [EMPtying the TEMporary FOLDer]- [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ một hành động tiếp diễn  [GERund-PARTiciple FORM] "EMPtying", kết hợp khối mở rộng mới.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [EMPtying the TEMporary FOLDer]- [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ một hành động tiếp diễn  [GERund-PARTiciple FORM] "EMPtying", kết hợp khối mở rộng mới.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [the TEMporary FOLDer] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "EMPtying".</li>
       
@@ -923,7 +923,7 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-y-30 text-indent-whole" id="Case-3">Case 3: Kỹ thuật hạ cấp từ [FInite CLAUSE] về [ADjective][TÍNH]</h5>
+      <h5 className="margin-y-30 text-indent-whole" id="Case-3">Case 3: Kỹ thuật hạ cấp từ [FInite CLAUSE] về [ADjective]</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as post-MODifier</strong>] <strong>→</strong> [<strong>ADjective as pre-MODifier</strong>]</p>
       

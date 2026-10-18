@@ -231,9 +231,9 @@ export default function ThreeDC1(): React.ReactElement {
 
         <ul className="list-square">
       
-          <li>will IMplement → [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will (cam kết) + [PLAIN FORM] to IMplement</li>
+          <li>will IMplement → [PREsent MOdal auXILiary VERB] will (cam kết) + [PLAIN FORM] to IMplement</li>
       
-          <li>must AUthorize → [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] must (ép buộc) + [PLAIN FORM] to AUthorize</li>
+          <li>must AUthorize → [PREsent MOdal auXILiary VERB] must (ép buộc) + [PLAIN FORM] to AUthorize</li>
       
         </ul>
 
@@ -260,7 +260,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as COMplement] cho [prepoSITion][GIỚI] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
 					
 					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>] - [<strong>PARTicles</strong>]: OUT, IN, WITH, BACK</li>
-					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion][NỘI GIỚI] như UP, OUT, DOWN, OFF, ON, IN, aWAY, BACK, Over,... đơn lẻ đứng sau hành động để điều hướng không gian, hoàn tất hoặc biến đổi sắc thái ý nghĩa của hành động gốc. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
+					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion] như UP, OUT, DOWN, OFF, ON, IN, aWAY, BACK, Over,... đơn lẻ đứng sau hành động để điều hướng không gian, hoàn tất hoặc biến đổi sắc thái ý nghĩa của hành động gốc. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
 
           <li value="3">[<strong>non-MOdal auXILiary VERB</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / [Thời] trong câu.</li>
@@ -276,7 +276,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>]: HAVing NO TENSE or NO SUBject</li>
 
           <li className="list-none">[<strong>PLAIN FORM</strong>]: ANalyze, INnovate, transFORM</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [infiniTIval MARKer] "to", [PRETerite MOdal auXILiary VERB] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] hoặc [LEXical VERB] MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL,...</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [infiniTIval MARKer] "to", [PRETerite MOdal auXILiary VERB] hay [PREsent MOdal auXILiary VERB] hoặc [LEXical VERB] MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL,...</li>
       
           <li className="list-none">[<strong>to-infiniTIval</strong>]: to ANalyze, to transFORM</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt ĐỘNG] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
@@ -326,7 +326,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 			<p><strong>Quy tắc cốt lõi</strong>:</p>
 
-			<p className="margin-top-20">Khi bất kỳ họ [PREDicator HEAD] nào (thuộc nhóm các mục trên) kéo theo các [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement], [ADverb HEAD][TRẠNG LÕI], hoặc [ADjunct][PHỤ] phía sau, toàn khối đó tự động chuyển đổi cấu trúc nội bộ và tái dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p className="margin-top-20">Khi bất kỳ họ [PREDicator HEAD] nào (thuộc nhóm các mục trên) kéo theo các [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement], [ADverb HEAD][TRẠNG LÕI], hoặc [ADjunct][PHỤ] phía sau, toàn khối đó tự động chuyển đổi cấu trúc nội bộ và tái dán nhãn thành dạng [PHRASE] tương ứng của chính nó.</p>
 			
 				<ul className="list-square">
 			
@@ -341,7 +341,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 			
-			<p className="margin-top-20">Hệ thống [PHRASE][CỤM] vận hành như một thực thể mở rộng linh hoạt, giữ nguyên thuộc tính gốc của hạt nhân [HEAD][LÕI] nhưng mang theo các thành phần bổ trợ để hoàn chỉnh một khối ý niệm hành động lớn hơn trước khi định vị chức năng trong câu.</p>
+			<p className="margin-top-20">Hệ thống [PHRASE] vận hành như một thực thể mở rộng linh hoạt, giữ nguyên thuộc tính gốc của hạt nhân [HEAD][LÕI] nhưng mang theo các thành phần bổ trợ để hoàn chỉnh một khối ý niệm hành động lớn hơn trước khi định vị chức năng trong câu.</p>
 
 			{/* V. */}
 
@@ -432,7 +432,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[it] TAKES exCEPtional negotiAtion SKILLS [to seCURE this CONtract].</li>
 					<li className="margin-bottom-20 list-none">Cần có kỹ năng đàm phán xuất sắc [để đạt được hợp đồng này].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [to seCURE this CONtract] - [non-FInite CLAUSE as SUBject] được hình thành từ [NOUN PHRASE] đứng sau [3RD SINGular PRESent FORM] "TAKES exCEPtional negotiAtion SKILLS" để làm [SUBject] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [to seCURE this CONtract] - [non-FInite CLAUSE as SUBject] được hình thành từ [NOUN PHRASE] đứng sau [3RD SINGular PRESent FORM] "TAKES exCEPtional negotiAtion SKILLS" để làm [SUBject] bổ nghĩa cho [DUMmy PROnoun] "it".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [to seCURE this CONtract] - [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" + [VERB PHRASE] "seCURE ..." kéo theo một [NOUN PHRASE] phía sau.</li>
 			
@@ -568,7 +568,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>we will HALT proDUCtion [un<strong>less</strong> the QUAlity STANdard imPROVES].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ dừng sản xuất [ngoại trừ khi tiêu chuẩn chất lượng cải thiện].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "will".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [PREsent MOdal auXILiary VERB] "will".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: Khối [un<strong>less</strong> the QUAlity STANdard imPROVES] - [prepoSITion PHRASE as ADjunct] bắt đầu bằng [prepoSITion][GIỚI] điều kiện "un<strong>less</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [NOUN as HEAD] "QUAlity STANdard" và [3RD SINGular PRESent FORM] "imPROVES".</li>
 			
@@ -646,7 +646,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối WHY the SPEcies went exTINCT bên trong đóng vai trò làm [FInite CLAUSE as COMplement] chịu sự điều phối của [PLAIN FORM] "underSTAND".</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [to underSTAND WHY the SPEcies went exTINCT] vận hành với chức năng [non-FInite CLAUSE as SUBject] đóng vai trò tổng thể làm khối nhưng đứng sau [3RD SINGular PRESent FORM] deMANDS sciencTIFic reSEARCH để bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] [it].</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [to underSTAND WHY the SPEcies went exTINCT] vận hành với chức năng [non-FInite CLAUSE as SUBject] đóng vai trò tổng thể làm khối nhưng đứng sau [3RD SINGular PRESent FORM] deMANDS sciencTIFic reSEARCH để bổ nghĩa cho [DUMmy PROnoun] [it].</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
@@ -1053,7 +1053,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>[under NO CIRcumstances must] you SHARE this PASSword.</li>
 						<li className="margin-bottom-20 list-none">[Dưới bất kỳ hoàn cảnh nào cũng không được phép] bạn chia sẻ mật khẩu này.</li>
 
-						<li className="list-none">→ Việc đưa ra giới hạn [under NO CIRcumstances must] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "under NO CIRcumstances" và [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] "must" lên đầu câu ngay từ đầu để "khóa" mọi khả năng ngay lập tức, sau đó mới nhắc đến hành động.</li>
+						<li className="list-none">→ Việc đưa ra giới hạn [under NO CIRcumstances must] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "under NO CIRcumstances" và [PREsent MOdal auXILiary VERB] "must" lên đầu câu ngay từ đầu để "khóa" mọi khả năng ngay lập tức, sau đó mới nhắc đến hành động.</li>
 				
 					</ul>
 

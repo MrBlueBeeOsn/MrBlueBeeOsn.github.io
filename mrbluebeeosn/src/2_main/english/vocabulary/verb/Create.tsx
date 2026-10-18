@@ -198,7 +198,7 @@ export default function creATE(): React.JSX.Element {
 
           <p>[creATE] là một [LEXical VERB] có nghĩa là tạo ra, sáng tạo, hoặc làm cho một điều gì đó xuất hiện.</p>
 
-          <p className="margin-top-20">Phát âm: [creATE][crē ĀTE] /kriːˈeɪt/</p>
+          <p className="margin-top-20">Phát âm: [crē ĀTE] /kriːˈeɪt/</p>
 
             <ul className="list-square">
           
@@ -245,7 +245,7 @@ export default function creATE(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as COMplement] cho [TRANsitive prepoSITion] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
 					
 					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>] (Particles): OUT, IN, WITH, BACK</li>
-					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion][NỘI GIỚI] như OUT, IN, UP, BACK đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
+					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion] như OUT, IN, UP, BACK đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
 
           <li value="3">[<strong>non-MOdal auXILiary VERB</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / [Thời] trong câu.</li>
@@ -291,22 +291,22 @@ export default function creATE(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] quá khứ và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
       
           <li value="7" className="margin-bottom-20">[<strong>VERB PHRASE as PREDicator</strong>]: is creAting, was creAting</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đang [Tiếp] diễn. Trong đó, "is", "was" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "creAting" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đang [Tiếp] diễn. Trong đó, "is", "was" là [PRImary VERB as PREDicator] mang [FInite], còn "creAting" là các dạng [non-FInite] đi kèm.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has creATED, had creATED</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đã trọn vẹn, [Hoàn] thành. Trong đó, "has", "had" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "creATED" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đã trọn vẹn, [Hoàn] thành. Trong đó, "has", "had" là [PRImary VERB as PREDicator] mang [FInite], còn "creATED" là các dạng [non-FInite] đi kèm.</li>
       
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has been creAting, had been creAting</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, tính chất đã trọn vẹn, [Hoàn] thành và tính chất đang [Tiếp] diễn. Trong đó, "has", "had" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "been creAting" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, tính chất đã trọn vẹn, [Hoàn] thành và tính chất đang [Tiếp] diễn. Trong đó, "has", "had" là [PRImary VERB as PREDicator] mang [FInite], còn "been creAting" là các dạng [non-FInite] đi kèm.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: would creATE, could creATE, should creATE</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết. Trong đó, "would", "could", "should" là [PRETerite MOdal auXILiary VERB] mang [FInite], còn "creATE" là các dạng [non-FInite] đi kèm.</li>
       
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: will creATE, can creATE</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết. Trong đó, "will", "can" là [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] mang [FInite], còn "creATE" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết. Trong đó, "will", "can" là [PREsent MOdal auXILiary VERB] mang [FInite], còn "creATE" là các dạng [non-FInite] đi kèm.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: DID creATE, DOES creATE</li>
-          <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu. Trong đó, "DID", "DOES" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "creATE" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu. Trong đó, "DID", "DOES" là [PRImary VERB as PREDicator] mang [FInite], còn "creATE" là các dạng [non-FInite] đi kèm.</li>
       
         </ol>
       
@@ -315,7 +315,7 @@ export default function creATE(): React.JSX.Element {
           
       <p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-      <p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement], [FInite CLAUSE as ADjunct], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+      <p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement], [FInite CLAUSE as ADjunct], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE] tương ứng của chính nó.</p>
 
       <ol className="margin-top-40">
 			
@@ -324,12 +324,12 @@ export default function creATE(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none"><strong>Why prepoSITion PHRASE</strong>, <strong>not conJUNCtion CLAUSE</strong>?</li>
 
-					<li className="margin-bottom-20 list-none">[MODern GRAMmar] xem "be<strong>cause</strong> <strong>it RAINS</strong>" là [prepoSITion PHRASE] vì cho rằng [TRANsitive prepoSITion] và [VERB][ĐỘNG] là giống nhau. Nếu phía sau VERB là một CLAUSE thì vẫn gọi là [VERB PHRASE].</li>
+					<li className="margin-bottom-20 list-none">[MODern GRAMmar] xem "be<strong>cause</strong> <strong>it RAINS</strong>" là [prepoSITion PHRASE] vì cho rằng [TRANsitive prepoSITion] và [VERB] là giống nhau. Nếu phía sau VERB là một CLAUSE thì vẫn gọi là [VERB PHRASE].</li>
 
 					<li className="margin-bottom-20 list-none">[MODern GRAMmar] không tách biệt phía sau [TRANsitive prepoSITion] là một [CLAUSE] hay một [NOUN PHRASE]. Bất cứ thứ gì sau [TRANsitive prepoSITion] đều được coi là [COMplement] và được gọi là [prepoSITion PHRASE] "be<strong>cause</strong> <strong>it RAINS</strong>". [MODern GRAMmar] không sử dụng thuật ngữ [conJUNCtion CLAUSE] vì đây là ngữ pháp truyền thống cách đây hàng trăm năm.</li>
 			
 					<li value="2">[<strong>coORdinator</strong>] (ĐỒNG CÂU): to</li>
-					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "but", "or", "and" mới chính là [conJUNCtion][LIÊN], còn lại là [TRANsitive prepoSITion] hoặc các từ khác.</li>
+					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "but", "or", "and" mới chính là [conJUNCtion], còn lại là [TRANsitive prepoSITion] hoặc các từ khác.</li>
 
 					<li value="3">[<strong>suBORdinator</strong>] (HẠ CÂU/ HẠ CẤP CÂU): to</li>
 					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "that" "if" mang nghĩa liệu, "<strong>wheth</strong>er" - liệu</li>
@@ -433,7 +433,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting enGAging User CONtent] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "priORitized" trong [MAIN CLAUSE] tiếp nhận trực tiếp mục tiêu. Bản chất là [GERund-PARTiciple CLAUSE] hình thành từ [GERund-PARTiciple FORM] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [enGAging User CONtent] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở "creAting". Trong đó "enGAging" là [GERund-PARTiciple as pre-MODifier][DANH-TÍNH làm TIỀN-CHỈNH] của [NOUN as HEAD] "CONtent".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [enGAging User CONtent] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở "creAting". Trong đó "enGAging" là [GERund-PARTiciple as pre-MODifier] của [NOUN as HEAD] "CONtent".</li>
       
         </ul>
 
@@ -447,7 +447,7 @@ export default function creATE(): React.JSX.Element {
           <li>[to creATE susTAINable ENergy SYStems] is the founDAtion's MAIN GOAL.</li>
           <li className="margin-bottom-20 list-none">[Việc tạo ra các hệ thống năng lượng bền vững] là mục tiêu chính của quỹ.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is"trong [MAIN CLAUSE] để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is"trong [MAIN CLAUSE] để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [susTAINable ENergy SYStems] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở "creATE".</li>
       
@@ -463,7 +463,7 @@ export default function creATE(): React.JSX.Element {
           <li>the COMpany aims [to creATE INnovative PROducts for conSUmers].</li>
           <li className="margin-bottom-20 list-none">Công ty đặt mục tiêu [tạo ra các sản phẩm sáng tạo dành cho người tiêu dùng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE INnovative PROducts for conSUmers] - [non-FInite CLAUSE as CATenative COMplement] của [CATenative VERB][CHUỖI ĐỘNG] ở [3RD SINGular PRESent FORM] "AIMS" trong [MAIN CLAUSE]. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE INnovative PROducts for conSUmers] - [non-FInite CLAUSE as CATenative COMplement] của [CATenative VERB] ở [3RD SINGular PRESent FORM] "AIMS" trong [MAIN CLAUSE]. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [INnovative PROducts for conSUmers] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE". Bên trong chứa "for conSUmers" là [prepoSITion PHRASE as post-MODifier] của [NOUN as HEAD] "PROducts".</li>
       
@@ -479,7 +479,7 @@ export default function creATE(): React.JSX.Element {
           <li>[it] is esSENtial [to creATE STRONG seCUrity PROtocols].</li>
           <li className="margin-bottom-20 list-none">[Điều] đó là điều thiết yếu [để xây dựng các giao thức bảo mật vững chắc].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as extraPOSED SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE], bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as extraPOSED SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE], bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [STRONG seCUrity PROtocols] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE".</li>
       
@@ -515,7 +515,7 @@ export default function creATE(): React.JSX.Element {
           <li>[the ARchitect to creATE the BUILDing BLUEprints] has been apPOINted.</li>
           <li className="margin-bottom-20 list-none">[Kiến trúc sư phụ trách thiết kế bản vẽ kiến trúc] đã được bổ nhiệm.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ARchitect to creATE the BUILDing BLUEprints] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "has been apPOINted" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "has" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "been apPOINted" là các dạng [non-FInite] đi kèm, và [TRANsitive VERB] "apPOINted".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ARchitect to creATE the BUILDing BLUEprints] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "has been apPOINted" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "has" là [PRImary VERB as PREDicator] mang [FInite], còn "been apPOINted" là các dạng [non-FInite] đi kèm, và [TRANsitive VERB] "apPOINted".</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to creATE the BUILDing BLUEprints] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "ARchitect" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
@@ -531,7 +531,7 @@ export default function creATE(): React.JSX.Element {
           <li>[the ARTwork to be creAted by the MASter] will be exHIBited toMORrow.</li>
           <li className="margin-bottom-20 list-none">[Tác phẩm nghệ thuật do bậc thầy sáng tạo] sẽ được trưng bày vào ngày mai.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ARTwork to be creAted by the MASter] - [NOUN PHRASE as SUBject] có chức năng làm chủ cho [PREDicator] "will be exHIBited". Trong đó, "will" là [MOdal auXILiary VERB as PREDicator][THÁI TRỢ ĐỘNG làm VỊ] mang [FInite], còn "be exHIBited" là các dạng [non-FInite] đi kèm.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ARTwork to be creAted by the MASter] - [NOUN PHRASE as SUBject] có chức năng làm chủ cho [PREDicator] "will be exHIBited". Trong đó, "will" là [MOdal auXILiary VERB as PREDicator] mang [FInite], còn "be exHIBited" là các dạng [non-FInite] đi kèm.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to be creAted by the MASter] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "ARTwork" để mô tả trạng thái sắp sửa được tác động. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "be creAted by the MASter" chứa [PLAIN FORM] "be" và [PAST PARTiciple FORM] "creAted" để biểu thị trạng thái bị động tương lai.</li>
       
@@ -547,7 +547,7 @@ export default function creATE(): React.JSX.Element {
           <li>[the SYStem creAted by the TECH TEAM] was LAUNCHED YESterday.</li>
           <li className="margin-bottom-20 list-none">[Hệ thống do Đội ngũ Kỹ thuật phát triển] đã được ra mắt vào ngày hôm qua.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the SYStem creAted by the TECH TEAM] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "was LAUNCHED" trong [MAIN CLAUSE]. Trong đó, "was" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn [TRANsitive VERB] "LAUNCHED" là các dạng [non-FInite] đi kèm, biểu thị đối tượng đã được ra mắt.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the SYStem creAted by the TECH TEAM] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "was LAUNCHED" trong [MAIN CLAUSE]. Trong đó, "was" là [PRImary VERB as PREDicator] mang [FInite], còn [TRANsitive VERB] "LAUNCHED" là các dạng [non-FInite] đi kèm, biểu thị đối tượng đã được ra mắt.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAted by the TECH TEAM] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "SYStem" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này. Bản chất là [PAST PARTiciple CLAUSE] cấu tạo từ [PAST PARTiciple FORM] "creAted" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
       
@@ -631,7 +631,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [LATE to creATE the FInal PROtotype] - [ADverb PHRASE as ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "STAYED" trong [MAIN CLAUSE], đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to creATE the FInal PROtotype] - [non-FInite CLAUSE as post-MODifier] của [ADverb as HEAD][TRẠNG làm LÕI] "LATE", đảm nhận vai trò làm một khối bối cảnh mục đích. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to creATE the FInal PROtotype] - [non-FInite CLAUSE as post-MODifier] của [ADverb as HEAD] "LATE", đảm nhận vai trò làm một khối bối cảnh mục đích. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
       
         </ul>
 
@@ -740,7 +740,7 @@ export default function creATE(): React.JSX.Element {
           <li>[the ENgine which creATES SOlar ENergy] was REcently inSTALLED.</li>
           <li className="margin-bottom-20 list-none">[Cỗ máy tạo ra năng lượng mặt trời] vừa được lắp đặt.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ENgine which creATES SOlar ENergy] - [NOUN PHRASE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "was" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ENgine which creATES SOlar ENergy] - [NOUN PHRASE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "was" trong [MAIN CLAUSE].</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which creATES SOlar ENergy] - [FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "ENgine". Bản chất là [RELative CLAUSE] chứa thành phần [PROnoun as HEAD] vật thể "which" ở đầu, mang cụm hành động [FInite CLAUSE] "creATES ..." phối hợp phía sau xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối [NOUN as HEAD] "ENgine" để nhận diện và mô tả đặc điểm cho đối tượng.</li>
       
@@ -798,7 +798,7 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>4.2.3</strong> <strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as ADjunct</strong>][<strong>THỜI ĐIỀU làm PHỤ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>4.2.3</strong> <strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as ADjunct</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="11c">Ví dụ 11c:</p>
       
@@ -815,7 +815,7 @@ export default function creATE(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">5. Phân hệ [Nhúng Đóng Gói][emBEDded Structure]</h4>
+      <h4 className="margin-y-40">5. Phân hệ [emBEDded Structure]</h4>
 
       <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE</strong>]</p>
 
@@ -838,7 +838,7 @@ export default function creATE(): React.JSX.Element {
 
           <li className="list-none margin-bottom-10">[for WHAT CLIents STRUGgle with] - [prepoSITion PHRASE as COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "creAting", bắt đầu bằng [TRANsitive prepoSITion] "for" và khối [FInite CLAUSE] "WHAT CLIents STRUGgle with" phía sau.</li>
 
-          <li className="list-none margin-bottom-10">[WHAT CLIents STRUGgle with] - [FInite CLAUSE as COMplement] của [TRANsitive prepoSITion] "for". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [PROnoun][ĐẠI] "WHAT" và [NOUN as HEAD] riêng "CLIents" và cụm hành động riêng đi sau.</li>
+          <li className="list-none margin-bottom-10">[WHAT CLIents STRUGgle with] - [FInite CLAUSE as COMplement] của [TRANsitive prepoSITion] "for". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [PROnoun] "WHAT" và [NOUN as HEAD] riêng "CLIents" và cụm hành động riêng đi sau.</li>
       
         </ul>
 
@@ -916,7 +916,7 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVAluate HOW the appliCAtion creATES User LOGS] - [non-FInite CLAUSE as extraPOSED SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "TAKES" trong [MAIN CLAUSE], chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "eVAluate ..." và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVAluate HOW the appliCAtion creATES User LOGS] - [non-FInite CLAUSE as extraPOSED SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "TAKES" trong [MAIN CLAUSE], chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "eVAluate ..." và kéo theo thành phần bổ trợ phía sau.</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the appliCAtion creATES User LOGS] - [FInite CLAUSE as COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "eVAluate", tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau.</li>
       
@@ -1015,7 +1015,7 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>FInite CLAUSE as COMplement</strong>][<strong>THỜI ĐIỀU làm COMplement</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>FInite CLAUSE as COMplement</strong>]</p>
       
         <ul className="list-square">
       

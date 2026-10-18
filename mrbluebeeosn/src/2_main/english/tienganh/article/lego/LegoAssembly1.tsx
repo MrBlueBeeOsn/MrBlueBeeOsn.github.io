@@ -128,7 +128,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p>Đó là cách học cũ kỹ – cách học biến tiếng Anh thành một môn toán học đầy tính đánh đố.</p>
 
-			<p>Hôm nay, mình sẽ chia sẻ với bạn một tư duy đột phá, một hệ thống tối giản hóa toàn bộ cấu trúc tiếng Anh về một bộ khung duy nhất. Hệ thống này dựa trên một quy luật ghi nhớ siêu trực quan: Hệ thống ma trận logic 3 Chiều Ngang Chức năng: [NOUN as HEAD] / [ADjective as pre-MODifier] của [NOUN as HEAD] / [ADverb HEAD][TRẠNG LÕI] và 3 Chiều Dọc Cấp độ: [HEAD][LÕI] - [PHRASE][CỤM] - [CLAUSE].</p>
+			<p>Hôm nay, mình sẽ chia sẻ với bạn một tư duy đột phá, một hệ thống tối giản hóa toàn bộ cấu trúc tiếng Anh về một bộ khung duy nhất. Hệ thống này dựa trên một quy luật ghi nhớ siêu trực quan: Hệ thống ma trận logic 3 Chiều Ngang Chức năng: [NOUN as HEAD] / [ADjective as pre-MODifier] của [NOUN as HEAD] / [ADverb HEAD][TRẠNG LÕI] và 3 Chiều Dọc Cấp độ: [HEAD][LÕI] - [PHRASE] - [CLAUSE].</p>
 
 
 
@@ -158,7 +158,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Do đó, khi chuyển sang câu phủ định hoặc nghi vấn, khối hạt nhân [Hạt nhân]/[Bộ nguồn][HEAD] bắt buộc phải thực hiện thao tác tách cấu hình:</p>
 
-			<p className="text-indent-whole">[HEAD] → [FInite VERB][HẠN ĐỘNG] / [PRETerite MOdal auXILiary VERB] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] + [PLAIN FORM]</p>
+			<p className="text-indent-whole">[HEAD] → [FInite VERB][HẠN ĐỘNG] / [PRETerite MOdal auXILiary VERB] hay [PREsent MOdal auXILiary VERB] + [PLAIN FORM]</p>
 					
 			<p className="text-indent-whole">Vì bản chất [dePENDent][PHỤ] là tất cả những gì đứng sau [HEAD], nên:</p>
 			
@@ -194,7 +194,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as COMplement] cho [prepoSITion][GIỚI] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
 					
 					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>] - [<strong>PARTicles</strong>]: OUT, IN, WITH, BACK</li>
-					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion][NỘI GIỚI] như aWAY, BACK, FORward, Over, ... đơn lẻ đứng sau hành động để điều hướng hướng đi, khuếch đại thái độ hoặc biến đổi hoàn toàn sắc thái ý nghĩa của hành động gốc. Ví dụ: pasS <strong>aWAY</strong>, paY <strong>BACK</strong>, briNG <strong>FORward</strong>, taKE <strong>Over</strong>, turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
+					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion] như aWAY, BACK, FORward, Over, ... đơn lẻ đứng sau hành động để điều hướng hướng đi, khuếch đại thái độ hoặc biến đổi hoàn toàn sắc thái ý nghĩa của hành động gốc. Ví dụ: pasS <strong>aWAY</strong>, paY <strong>BACK</strong>, briNG <strong>FORward</strong>, taKE <strong>Over</strong>, turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
 
           <li value="3">[<strong>non-MOdal auXILiary VERB</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / mốc [Thời] gian trong câu.</li>
@@ -210,7 +210,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>]: HAVing NO TENSE or NO SUBject</li>
 
           <li className="list-none">[<strong>PLAIN FORM</strong>]: LAUNCH, conSTRUCT, OPerate</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có "to" đi kèm, thường đứng ngay sau [infiniTIval MARKer] "to", [PRETerite MOdal auXILiary VERB] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] hoặc các [LEXical VERB] kích hoạt/giác quan:</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có "to" đi kèm, thường đứng ngay sau [infiniTIval MARKer] "to", [PRETerite MOdal auXILiary VERB] hay [PREsent MOdal auXILiary VERB] hoặc các [LEXical VERB] kích hoạt/giác quan:</li>
 
 					<li className="list-none">Nhóm Sai khiến & Cho phép: MAKE, LET, let's, HAVE</li>
 					<li className="list-none">Nhóm Hỗ trợ & Nhờ vả: HELP, GET (trong trường hợp đặc biệt)</li>
@@ -263,7 +263,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p><strong>Quy Tắc Cốt Lõi</strong>:</p>
 
-			<p className="margin-top-20">Khi bất kỳ họ [PREDicator HEAD] nào thuộc nhóm các mục trên kéo theo các [COMplement], [TRẠNG CỤM] phía sau, toàn khối đó tự động chuyển đổi cấu trúc và được dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p className="margin-top-20">Khi bất kỳ họ [PREDicator HEAD] nào thuộc nhóm các mục trên kéo theo các [COMplement], [TRẠNG CỤM] phía sau, toàn khối đó tự động chuyển đổi cấu trúc và được dán nhãn thành dạng [PHRASE] tương ứng của chính nó.</p>
 			
 				<ul className="list-square">
 			
@@ -278,7 +278,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Tư duy này giúp bạn giải phóng bộ nền nào khỏi việc ghi nhớ thủ công hàng trăm cụm từ đơn lẻ, chỉ cần nhận diện khối [HEAD][LÕI] gốc và quét toàn bộ phần phụ thuộc bám đuôi để định hình nhãn [PHRASE][CỤM] trong một nốt nhạc.</p>
+			<p className="margin-top-20">Tư duy này giúp bạn giải phóng bộ nền nào khỏi việc ghi nhớ thủ công hàng trăm cụm từ đơn lẻ, chỉ cần nhận diện khối [HEAD][LÕI] gốc và quét toàn bộ phần phụ thuộc bám đuôi để định hình nhãn [PHRASE] trong một nốt nhạc.</p>
 			
 
 
@@ -354,7 +354,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p>Điểm mấu chốt của phương pháp [Lego Assembly] là người học chỉ cần nhìn vào Hình thái (bản chất cấu tạo bề ngoài của khối [Lego]) trước, sau đó mới xác định Chức năng của nó dựa vào vị trí đứng trong câu.</p>
 
 
-			<h4 className="margin-y-40">Chiều Dọc Cấp độ: [HEAD][LÕI] - [PHRASE][CỤM] - [CLAUSE] (Mảnh [Lego] làm bằng gì?)</h4>
+			<h4 className="margin-y-40">Chiều Dọc Cấp độ: [HEAD][LÕI] - [PHRASE] - [CLAUSE] (Mảnh [Lego] làm bằng gì?)</h4>
 
 				<ul className="list-square">
 			
@@ -362,7 +362,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 					<li>[<strong>PHRASE</strong>][<strong>CỤM</strong>]: Khối phức hợp làm một chức năng chung nhưng không có lõi [S] và hành động riêng theo quy tắc kéo theo thành phần phụ thuộc.</li>
 
-					<li>[<strong>CLAUSE</strong>]: Một câu con có cấu trúc [S] và hành động riêng bên trong được khóa lại bởi một [PROnoun][ĐẠI] như who, which, what; [ADverb] như HOW, WHY; [prepoSITion][GIỚI] như where, when, if, because; [SuBORdinator] như that để đi làm thuê cho câu lớn.</li>
+					<li>[<strong>CLAUSE</strong>]: Một câu con có cấu trúc [S] và hành động riêng bên trong được khóa lại bởi một [PROnoun] như who, which, what; [ADverb] như HOW, WHY; [prepoSITion][GIỚI] như where, when, if, because; [SuBORdinator] như that để đi làm thuê cho câu lớn.</li>
 			
 				</ul>
 
@@ -495,7 +495,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [preDICTing HOW the CLImate will SHIFT] là một [GERund-PARTicipial CLAUSE] bắt đầu bằng [GERund-PARTiciple FORM] preDICTing kéo theo cấu trúc phụ thuộc nhiều tầng.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong HOW the CLImate will SHIFT là một [Open interROGative CONtent CLAUSE] bắt đầu bằng [ADverb] "HOW" kết hợp với một cấu trúc [S]-[HEAD] nội bộ chứa [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong HOW the CLImate will SHIFT là một [Open interROGative CONtent CLAUSE] bắt đầu bằng [ADverb] "HOW" kết hợp với một cấu trúc [S]-[HEAD] nội bộ chứa [PREsent MOdal auXILiary VERB] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
 			
 				</ul>
 
@@ -731,7 +731,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>we will PAUSE deVELopment [be<strong>cause</strong> the CLIent reQUESted alteRAtions].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ tạm dừng phát triển [bởi vì khách hàng yêu cầu những thay đổi].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] bổ nghĩa cho hành động chính của bộ nguồn [PRETerite MOdal auXILiary VERB] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] will PAUSE, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] bổ nghĩa cho hành động chính của bộ nguồn [PRETerite MOdal auXILiary VERB] hay [PREsent MOdal auXILiary VERB] will PAUSE, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [prepoSITion PHRASE as ADjunct] chứa [prepoSITion][GIỚI] be<strong>cause</strong> và một bộ khung [S]-[HEAD] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
 					
@@ -845,7 +845,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h5 className="margin-y-30">Luật Nghi vấn: Nhấc dòng [Thời] gian lên đầu câu lớn</h5>
 
-			<p className="text-indent-whole">Khi chuyển sang câu hỏi, bạn chỉ cần tách khối và nhấc riêng thành phần trợ nguồn [Thời] gian/khối [Thái] từ đứng trước (như [FInite VERB][HẠN ĐỘNG] / [PRETerite MOdal auXILiary VERB] / [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG]) đặt ra trước [NOUN as HEAD], để lại phần hành động cốt lõi ở phía sau.</p>
+			<p className="text-indent-whole">Khi chuyển sang câu hỏi, bạn chỉ cần tách khối và nhấc riêng thành phần trợ nguồn [Thời] gian/khối [Thái] từ đứng trước (như [FInite VERB][HẠN ĐỘNG] / [PRETerite MOdal auXILiary VERB] / [PREsent MOdal auXILiary VERB]) đặt ra trước [NOUN as HEAD], để lại phần hành động cốt lõi ở phía sau.</p>
 			
 				<ul className="list-square">
 			

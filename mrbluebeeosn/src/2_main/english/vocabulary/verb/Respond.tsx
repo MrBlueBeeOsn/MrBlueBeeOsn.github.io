@@ -198,7 +198,7 @@ export default function reSPOND(): React.JSX.Element {
 
 					<p>[reSPOND] là một [LEXical VERB] có nghĩa là phản hồi, trả lời, hoặc phản ứng lại một tác động trước đó.</p>
 
-					<p className="margin-top-20">Phát âm: [reSPOND][re SPOND] /rɪˈspɒnd/</p>
+					<p className="margin-top-20">Phát âm: [re SPOND] /rɪˈspɒnd/</p>
 
 						<ul className="list-square">
 					
@@ -245,7 +245,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as COMplement] cho [TRANsitive prepoSITion] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
 					
 					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>] - [<strong>PARTicles</strong>]: OUT, IN, WITH, BACK</li>
-					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion][NỘI GIỚI] như OUT, IN, WITH, BACK đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
+					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion] như OUT, IN, WITH, BACK đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
 					
 
 					<li value="3">[<strong>non-MOdal auXILiary VERB</strong>]: does, did, is, has, was, am, are</li>
@@ -292,23 +292,23 @@ export default function reSPOND(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Trạng thái [Thời] quá khứ và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
 			
 					<li value="7" className="margin-bottom-20">[<strong>VERB PHRASE as PREDicator</strong>]: is reSPONDing, was reSPONDing</li>
-					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đang [Tiếp] diễn. Trong đó, "is", "was" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "reSPONDing" là các dạng [non-FInite] đi kèm.</li>
+					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đang [Tiếp] diễn. Trong đó, "is", "was" là [PRImary VERB as PREDicator] mang [FInite], còn "reSPONDing" là các dạng [non-FInite] đi kèm.</li>
 
 					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has reSPONDed, had reSPONDed</li>
-					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đã trọn vẹn, [Hoàn] thành. Trong đó, "has", "had" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "reSPONDed" là các dạng [non-FInite] đi kèm.</li>
+					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đã trọn vẹn, [Hoàn] thành. Trong đó, "has", "had" là [PRImary VERB as PREDicator] mang [FInite], còn "reSPONDed" là các dạng [non-FInite] đi kèm.</li>
 			
 					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has been reSPONDing, had been reSPONDing</li>
-					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, tính chất đã trọn vẹn, [Hoàn] thành và tính chất đang [Tiếp] diễn. Trong đó, "has", "had" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "been reSPONDing" là các dạng [non-FInite] đi kèm.</li>
+					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, tính chất đã trọn vẹn, [Hoàn] thành và tính chất đang [Tiếp] diễn. Trong đó, "has", "had" là [PRImary VERB as PREDicator] mang [FInite], còn "been reSPONDing" là các dạng [non-FInite] đi kèm.</li>
 
 					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: would reSPOND, could reSPOND, should reSPOND</li>
 
 					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết. Trong đó, "would", "could", "should" là [PRETerite MOdal auXILiary VERB] mang [FInite], còn "reSPOND" là các dạng [non-FInite] đi kèm.</li>
 			
 					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: will reSPOND, can reSPOND</li>
-					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết. Trong đó, "will", "can" là [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] mang [FInite], còn "reSPOND" là các dạng [non-FInite] đi kèm.</li>
+					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết. Trong đó, "will", "can" là [PREsent MOdal auXILiary VERB] mang [FInite], còn "reSPOND" là các dạng [non-FInite] đi kèm.</li>
 
 					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: DID reSPOND, DOES reSPOND</li>
-					<li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu. Trong đó, "DID", "DOES" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "reSPOND" là các dạng [non-FInite] đi kèm.</li>
+					<li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu. Trong đó, "DID", "DOES" là [PRImary VERB as PREDicator] mang [FInite], còn "reSPOND" là các dạng [non-FInite] đi kèm.</li>
 			
 				</ol>
 			
@@ -317,7 +317,7 @@ export default function reSPOND(): React.JSX.Element {
 					
 			<p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement], [FInite CLAUSE as ADjunct], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement], [FInite CLAUSE as ADjunct], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE] tương ứng của chính nó.</p>
 
 			<ol className="margin-top-40">
 			
@@ -326,12 +326,12 @@ export default function reSPOND(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none"><strong>Why prepoSITion PHRASE</strong>, <strong>not conJUNCtion CLAUSE</strong>?</li>
 
-					<li className="margin-bottom-20 list-none">[MODern GRAMmar] xem "be<strong>cause</strong> <strong>it RAINS</strong>" là [prepoSITion PHRASE] vì cho rằng [TRANsitive prepoSITion] và [VERB][ĐỘNG] là giống nhau. Nếu phía sau VERB là một CLAUSE thì vẫn gọi là [VERB PHRASE].</li>
+					<li className="margin-bottom-20 list-none">[MODern GRAMmar] xem "be<strong>cause</strong> <strong>it RAINS</strong>" là [prepoSITion PHRASE] vì cho rằng [TRANsitive prepoSITion] và [VERB] là giống nhau. Nếu phía sau VERB là một CLAUSE thì vẫn gọi là [VERB PHRASE].</li>
 
 					<li className="margin-bottom-20 list-none">[MODern GRAMmar] không tách biệt phía sau [TRANsitive prepoSITion] là một [CLAUSE] hay một [NOUN PHRASE]. Bất cứ thứ gì sau [TRANsitive prepoSITion] đều được coi là [COMplement] và được gọi là [prepoSITion PHRASE] "be<strong>cause</strong> <strong>it RAINS</strong>". [MODern GRAMmar] không sử dụng thuật ngữ [conJUNCtion CLAUSE] vì đây là ngữ pháp truyền thống cách đây hàng trăm năm.</li>
 			
 					<li value="2">[<strong>coORdinator</strong>] (ĐỒNG CÂU): to</li>
-					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "but", "or", "and" mới chính là [conJUNCtion][LIÊN], còn lại là [TRANsitive prepoSITion] hoặc các từ khác.</li>
+					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "but", "or", "and" mới chính là [conJUNCtion], còn lại là [TRANsitive prepoSITion] hoặc các từ khác.</li>
 
 					<li value="3">[<strong>suBORdinator</strong>] (HẠ CÂU/ HẠ CẤP CÂU): to</li>
 					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "that" "if" mang nghĩa liệu, "<strong>wheth</strong>er" - liệu</li>
@@ -449,7 +449,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[to reSPOND efFECTively in CRIsis situAtions] is the TEAM's MAIN GOAL.</li>
 					<li className="margin-bottom-20 list-none">[Phản ứng hiệu quả trong các tình huống khẩn cấp] là mục tiêu chính của đội.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND efFECTively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE] để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ...". Trong đó "efFECTively" là [ADverb PHRASE as ADjunct] của hành động [PLAIN FORM] "reSPOND" và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND efFECTively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE] để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ...". Trong đó "efFECTively" là [ADverb PHRASE as ADjunct] của hành động [PLAIN FORM] "reSPOND" và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in CRIsis situAtions] - [prepoSITion PHRASE as ADjunct] của hành động "reSPOND".</li>
 			
@@ -481,7 +481,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[it] is esSENtial [to reSPOND QUICKly to CUStomer comPLAINts].</li>
 					<li className="margin-bottom-20 list-none">[Điều] đó là điều thiết yếu [để phản hồi nhanh chóng các khiếu nại của khách hàng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND QUICKly to CUStomer comPLAINts] - [non-FInite CLAUSE as extraPOSED SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is" trong [MAIN CLAUSE], bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND QUICKly to CUStomer comPLAINts] - [non-FInite CLAUSE as extraPOSED SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE], bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CUStomer comPLAINts] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND".</li>
 			
@@ -516,7 +516,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[the OFficer to reSPOND to the inQUIRy] has been asSIGNED.</li>
 					<li className="margin-bottom-20 list-none">[Cán bộ phụ trách giải đáp thắc mắc] đã được chỉ định.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the OFficer to reSPOND to the inQUIRy] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "has been asSIGNED" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "has" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn "been asSIGNED" là các dạng [non-FInite] đi kèm, và [TRANsitive VERB] "asSIGNED".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the OFficer to reSPOND to the inQUIRy] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "has been asSIGNED" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "has" là [PRImary VERB as PREDicator] mang [FInite], còn "been asSIGNED" là các dạng [non-FInite] đi kèm, và [TRANsitive VERB] "asSIGNED".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to reSPOND to the inQUIRy] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "OFficer" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
@@ -532,7 +532,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[the Email to be reSPONDed to by the MANager] will be SENT toMORrow.</li>
 					<li className="margin-bottom-20 list-none">[Email mà người quản lý cần trả lời] sẽ được gửi vào ngày mai.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the Email to be reSPONDed to by the MANager] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "will be SENT" trong [MAIN CLAUSE]. Trong đó, [PRImary PREDicator][CHỦ VỊ] "will" là [MOdal auXILiary VERB as PREDicator][THÁI TRỢ ĐỘNG làm VỊ] mang [FInite], còn [SECondary Predicator] "be SENT" là các dạng [non-FInite] đi kèm, và [TRANsitive VERB] "SENT".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the Email to be reSPONDed to by the MANager] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "will be SENT" trong [MAIN CLAUSE]. Trong đó, [PRImary PREDicator] "will" là [MOdal auXILiary VERB as PREDicator] mang [FInite], còn [SECondary Predicator] "be SENT" là các dạng [non-FInite] đi kèm, và [TRANsitive VERB] "SENT".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to be reSPONDed to by the MANager] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "Email" để mô tả trạng thái sắp sửa được tác động. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "be reSPONDed to by the MANager" chứa [PLAIN FORM] "be" và [PAST PARTiciple FORM] "reSPONDed" để biểu thị trạng thái bị động tương lai.</li>
 			
@@ -548,7 +548,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[the comPLAINT reSPONDed to by the SERvice dePARTment] was reSOLVED YESterday.</li>
 					<li className="margin-bottom-20 list-none">[Khiếu nại mà bộ phận dịch vụ đã giải quyết] đã được giải quyết vào ngày hôm qua.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the comPLAINT reSPONDed to by the SERvice dePARTment] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "was reSOLVED" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "was" là [PRImary VERB as PREDicator][CHÍNH ĐỘNG làm VỊ] mang [FInite], còn [TRANsitive VERB] "reSOLVED" là các dạng [non-FInite] đi kèm, biểu thị đối tượng đã được phản hồi.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the comPLAINT reSPONDed to by the SERvice dePARTment] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "was reSOLVED" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "was" là [PRImary VERB as PREDicator] mang [FInite], còn [TRANsitive VERB] "reSOLVED" là các dạng [non-FInite] đi kèm, biểu thị đối tượng đã được phản hồi.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDed to by the SERvice dePARTment] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "comPLAINT" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này. Bản chất là [PAST PARTiciple CLAUSE] cấu tạo từ [PAST PARTiciple FORM] "reSPONDed" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
 			
@@ -801,7 +801,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>4.2.3</strong> <strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as ADjunct</strong>][<strong>THỜI ĐIỀU làm PHỤ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>4.2.3</strong> <strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as ADjunct</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="11c">Ví dụ 11c:</p>
 			
@@ -818,7 +818,7 @@ export default function reSPOND(): React.JSX.Element {
 
 
 
-			<h4 className="margin-y-40">5. Phân hệ [Nhúng Đóng Gói][emBEDded Structure]</h4>
+			<h4 className="margin-y-40">5. Phân hệ [emBEDded Structure]</h4>
 
 			<p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE</strong>]</p>
 
@@ -841,7 +841,7 @@ export default function reSPOND(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10">[to WHAT CUStomers comPLAIN about] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [FInite CLAUSE] "WHAT CUStomers comPLAIN about" phía sau.</li>
 
-					<li className="list-none margin-bottom-10">[WHAT CUStomers comPLAIN about] - [FInite CLAUSE as COMplement] của [TRANsitive prepoSITion] "to". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [PROnoun][ĐẠI] "WHAT" và [NOUN as HEAD] riêng "CUStomers" và cụm hành động riêng đi sau.</li>
+					<li className="list-none margin-bottom-10">[WHAT CUStomers comPLAIN about] - [FInite CLAUSE as COMplement] của [TRANsitive prepoSITion] "to". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [PROnoun] "WHAT" và [NOUN as HEAD] riêng "CUStomers" và cụm hành động riêng đi sau.</li>
 			
 				</ul>
 
@@ -919,7 +919,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [non-FInite CLAUSE as extraPOSED SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it". Bản chất là [to-infiniTIval CLAUSE] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "eVALuate ..." và kéo theo thành phần bổ trợ phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [non-FInite CLAUSE as extraPOSED SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "eVALuate ..." và kéo theo thành phần bổ trợ phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [FInite CLAUSE as COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "eVALuate", tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau.</li>
 			

@@ -150,7 +150,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Chiều dọc</strong> — <strong>Cấp độ mã</strong>:</li>
-					<li className="margin-bottom-20 list-none">Phát triển tuyến tính từ [HEAD][LÕI] → [PHRASE][CỤM] → [CLAUSE].</li>
+					<li className="margin-bottom-20 list-none">Phát triển tuyến tính từ [HEAD][LÕI] → [PHRASE] → [CLAUSE].</li>
 			
 					<li><strong>Chiều ngang</strong> — <strong>Chức năng thực thi</strong>:</li>
 					<li className="list-none">3 chương trình phần mềm cốt lõi được hình thành bao gồm [NOUN as HEAD] (Dữ liệu/Đầu việc), [ADjective as pre-MODifier] của [NOUN as HEAD] (Bộ lọc/Mô tả), và [ADverb HEAD][TRẠNG LÕI] (Bối cảnh).</li>
@@ -243,7 +243,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as COMplement] cho [prepoSITion][GIỚI] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
 					
 					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>] - [<strong>PARTicles</strong>]: OUT, IN, WITH, BACK</li>
-					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion][NỘI GIỚI] như aWAY, BACK, Over, THROUGH, aROUND, aHEAD, ... đơn lẻ đứng sau đóng vai trò định hướng hành động để khuếch đại, chuyển giao hoặc làm rõ quỹ đạo chuyển động cho khối hành động. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
+					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion] như aWAY, BACK, Over, THROUGH, aROUND, aHEAD, ... đơn lẻ đứng sau đóng vai trò định hướng hành động để khuếch đại, chuyển giao hoặc làm rõ quỹ đạo chuyển động cho khối hành động. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
 
           <li value="3">[<strong>non-MOdal auXILiary VERB</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Từ đơn lẻ đóng vai trò làm bộ định vị, mang năng lượng [Thời] gian thực tế vào trong câu.</li>
@@ -259,7 +259,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>]: HAVing NO TENSE or NO SUBject</li>
 
           <li className="list-none">[<strong>PLAIN FORM</strong>]: BUILD, deSIGN, exPLORE</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng [Thuần] khiết, nguyên bản đã được giải phóng hoàn toàn khỏi hạt "to", thường đứng ngay sau [infiniTIval MARKer] "to", [PRETerite MOdal auXILiary VERB] hay [PREsent MOdal auXILiary VERB][HIỆN THÁI TRỢ ĐỘNG] hoặc các [LEXical VERB] tác động / tri giác như MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL, ...</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng [Thuần] khiết, nguyên bản đã được giải phóng hoàn toàn khỏi hạt "to", thường đứng ngay sau [infiniTIval MARKer] "to", [PRETerite MOdal auXILiary VERB] hay [PREsent MOdal auXILiary VERB] hoặc các [LEXical VERB] tác động / tri giác như MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL, ...</li>
       
           <li className="list-none">[<strong>to-infiniTIval</strong>]: to BUILD, to exPLORE</li>
           <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt nhân định hướng [Hạt ĐỘNG] và hành động [Thuần] khiết phía sau.</li>
@@ -306,7 +306,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 			<p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className="text-indent-whole">Khi bất kỳ thành phần nào thuộc 16 họ [PREDicator HEAD] trên kéo theo các thành phần phụ thuộc phía sau như [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement] (khối nhận diện đối tượng), [ADverb HEAD][TRẠNG LÕI], hoặc [ADjunct][PHỤ], toàn bộ khối liên kết đó lập tức chuyển đổi cấu trúc và nâng cấp nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p className="text-indent-whole">Khi bất kỳ thành phần nào thuộc 16 họ [PREDicator HEAD] trên kéo theo các thành phần phụ thuộc phía sau như [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement] (khối nhận diện đối tượng), [ADverb HEAD][TRẠNG LÕI], hoặc [ADjunct][PHỤ], toàn bộ khối liên kết đó lập tức chuyển đổi cấu trúc và nâng cấp nhãn thành dạng [PHRASE] tương ứng của chính nó.</p>
 
 			<p className="margin-top-20"></p>
 			
@@ -404,7 +404,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 					<li>[it] reQUIres creaTIVity [to deSIGN the INterface].</li>
 					<li className="margin-bottom-20 list-none">Đòi hỏi sự sáng tạo [để thiết kế giao diện].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to deSIGN the INterface] - [non-FInite CLAUSE as SUBject] được hình thành từ [NOUN PHRASE] đứng sau [3RD SINGular PRESent FORM] "reQUIres creaTIVity" để làm [SUBject] bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to deSIGN the INterface] - [non-FInite CLAUSE as SUBject] được hình thành từ [NOUN PHRASE] đứng sau [3RD SINGular PRESent FORM] "reQUIres creaTIVity" để làm [SUBject] bổ nghĩa cho [DUMmy PROnoun] "it".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to deSIGN the INterface] - [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" + [VERB PHRASE] "deSIGN ..." kéo dài cho đến hết đối tượng của nó.</li>
 			
@@ -506,7 +506,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to exPLAIN HOW we deSIGN this PLATform] - [non-FInite CLAUSE as SUBject] đóng vai trò chủ trì điều phối toàn bộ câu làm khối của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM][3RD ÍT HIỆN BE DẠNG] "is", bổ nghĩa cho [DUMmy PROnoun][GIẢ ĐẠI] "it".</li>
+						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to exPLAIN HOW we deSIGN this PLATform] - [non-FInite CLAUSE as SUBject] đóng vai trò chủ trì điều phối toàn bộ câu làm khối của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is", bổ nghĩa cho [DUMmy PROnoun] "it".</li>
 						
 						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to exPLAIN HOW we deSIGN this PLATform] - [to-infiniTIval CLAUSE] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer] "to" + [VERB PHRASE] "exPLAIN ..." và kéo theo khối CLAUSE con bên trong.</li>
 				
@@ -727,12 +727,12 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 			<p>Lúc này, Paraphrasing được tối giản hóa thành một bài toán lập trình thuần túy: Kỹ thuật thay thế các khối mã có cùng chức năng đầu ra mà không cần phá vỡ hay làm biến dạng thiết lập tổng thể của câu.</p>
 
-			<p>Bạn có thể tự do nâng cấp hoặc hạ cấp các khối mã giữa các mức độ [HEAD][LÕI], [PHRASE][CỤM], và [CLAUSE] một cách linh hoạt dựa trên sơ đồ phân loại hình thái:</p>
+			<p>Bạn có thể tự do nâng cấp hoặc hạ cấp các khối mã giữa các mức độ [HEAD][LÕI], [PHRASE], và [CLAUSE] một cách linh hoạt dựa trên sơ đồ phân loại hình thái:</p>
 
 
 			<h4 className="margin-y-40">Phân hệ [PREDicator HEAD]: Thay đổi các MODule chứa hành động</h4>
 
-			<h5 className="margin-y-30 text-indent-whole">Case 1: Giữ nguyên cấp độ [PHRASE][CỤM], thay thế khối mã tương đương</h5>
+			<h5 className="margin-y-30 text-indent-whole">Case 1: Giữ nguyên cấp độ [PHRASE], thay thế khối mã tương đương</h5>
 			
 				<ul className="list-square">
 			
@@ -758,7 +758,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				</ul>
 
 			
-			<h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ [PHRASE][CỤM] lên [CLAUSE]</h5>
+			<h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ [PHRASE] lên [CLAUSE]</h5>
 			
 			
 				<ul className="list-square">
@@ -813,7 +813,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Phân hệ [prepoSITion][GIỚI]: Thay đổi các MODule chứa cấu trúc định vị</h4>
 
-			<h5 className="margin-y-30 text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí cấp độ [PHRASE][CỤM] và thay thế khối mã tương đương</h5>
+			<h5 className="margin-y-30 text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí cấp độ [PHRASE] và thay thế khối mã tương đương</h5>
 			
 				<ul className="list-square">
 			
