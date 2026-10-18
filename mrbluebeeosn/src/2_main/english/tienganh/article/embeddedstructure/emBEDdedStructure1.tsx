@@ -425,7 +425,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-3"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-3"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -461,7 +461,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khối hình thái này không tạo ra dữ liệu đầu việc ([Danh]) mà chỉ chuyên biệt hình thành nên các chương trình chức năng:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 7</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 7</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -550,7 +550,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 10</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 10</strong>: [<strong>NOUN PHRASE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -563,7 +563,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a<strong>bout</strong> HOW this TEAM deSIGNED the APP] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho [NOUN as HEAD] "NEWS" đứng trước nó.</li>
+						<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a<strong>bout</strong> HOW this TEAM deSIGNED the APP] - [<strong>NOUN PHRASE</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho [NOUN as HEAD] "NEWS" đứng trước nó.</li>
 						
 						<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a<strong>bout</strong> HOW this TEAM deSIGNED the APP] - [prepoSITion PHRASE] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 				
@@ -642,7 +642,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2"><strong>Ví dụ 13</strong>: <strong>Hình thành chức năng</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2"><strong>Ví dụ 13</strong>: <strong>Hình thành chức năng</strong> [<strong>RELative CLAUSE</strong>]</p>
 
 				<ul className="list-square">
 			
@@ -690,7 +690,7 @@ export default function emBEDdedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 16</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 16</strong>: [<strong>RELative CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			

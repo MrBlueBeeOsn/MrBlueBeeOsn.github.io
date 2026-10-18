@@ -163,13 +163,13 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li><strong>Ở cấp độ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]: Sinh ra [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE], [ADjunct][PHỤ].</li>
 
-					<li><strong>Ở cấp độ</strong> [<strong>deCLARative CONtent CLAUSE</strong>][<strong>THUẬT NỘI ĐIỀU</strong>]: Sinh ra [FInite CLAUSE as SUBject] và [FInite CLAUSE as COMplement].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>deCLARative CONtent CLAUSE</strong>]: Sinh ra [FInite CLAUSE as SUBject] và [FInite CLAUSE as COMplement].</li>
 
 					<li><strong>Ở cấp độ</strong> [ZEro deCLARative CONtent CLAUSE]: Sinh ra [FInite CLAUSE as SUBject] và [FInite CLAUSE as COMplement].</li>
 
 					<li><strong>Ở cấp độ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>]: Sinh ra [FInite CLAUSE as SUBject] và [FInite CLAUSE as COMplement].</li>
 
-					<li><strong>Ở cấp độ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]: Sinh ra [non-FInite CLAUSE as SUBject] và [non-FInite CLAUSE as CATenative COMplement].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>RELative CLAUSE</strong>]: Sinh ra [non-FInite CLAUSE as SUBject] và [non-FInite CLAUSE as CATenative COMplement].</li>
 			
 				</ul>
 
@@ -453,7 +453,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-3"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-3"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>NOUN PHRASE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -485,7 +485,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="text-indent-whole">Là khối không bắt đầu bằng một từ hành động, mà được định hình bắt đầu bằng một [prepoSITion][GIỚI] chỉ quan hệ kết hợp với một [NOUN PHRASE] phía sau.</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>NOUN PHRASE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -547,7 +547,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>RELative CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -596,7 +596,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]:</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>RELative CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -691,7 +691,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Khối whether the COMpany should MERGE bên trong thực thi chức năng làm [FInite CLAUSE as COMplement] nhận quan hệ trực tiếp đứng sau [prepoSITion][GIỚI] over.</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [<strong>o</strong>verwhether the COMpany should MERGE] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm the [NOUN as HEAD] "disPUTE".</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [<strong>o</strong>verwhether the COMpany should MERGE] vận hành với chức năng [<strong>NOUN PHRASE</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm the [NOUN as HEAD] "disPUTE".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
@@ -733,7 +733,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái</strong> [<strong>suBORdinate CLAUSE</strong>][<strong>PHỤ ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái</strong> [<strong>suBORdinate CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -784,7 +784,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 
-			<p className="text-indent-whole"><strong>Dùng hình thái</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]</p>
+			<p className="text-indent-whole"><strong>Dùng hình thái</strong> [<strong>RELative CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -882,10 +882,10 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">→ Khối đó đảm nhiệm chức năng [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>].</li>
 			
 					<li>Nếu thế thế thân bằng một [ADjective as pre-MODifier] của [NOUN as HEAD] đơn lẻ (BEAUtiful, SMART, NEW) thành công</li>
-					<li className="margin-bottom-20 list-none">→ Khối đó phụ trách chức năng [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>].</li>
+					<li className="margin-bottom-20 list-none">→ Khối đó phụ trách chức năng [<strong>RELative CLAUSE</strong>].</li>
 			
 					<li>Nếu thế thế thân bằng một ký hiệu tổng quát "SOMEthing" hoặc "it" (tương đương một [NOUN as HEAD]) thành công</li>
-					<li className="list-none">→ Khối đó gánh vác chức năng [<strong>CONtent CLAUSE</strong>][<strong>NỘI ĐIỀU</strong>].</li>
+					<li className="list-none">→ Khối đó gánh vác chức năng [<strong>CONtent CLAUSE</strong>].</li>
 			
 				</ul>
 
@@ -912,7 +912,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>THIS is the SERver ROOM [where the SIGnal PEAKS].</li>
 					<li className="margin-bottom-20">THIS is the [NEW] SERver ROOM.</li>
 			
-					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] hoàn thành chức năng [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước  "ROOM".</li>
+					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] hoàn thành chức năng [<strong>RELative CLAUSE</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước  "ROOM".</li>
 			
 				</ul>
 			

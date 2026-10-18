@@ -420,7 +420,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20" id="non-FInite-CLAUSE-as-SUBject-3"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20" id="non-FInite-CLAUSE-as-SUBject-3"><strong>Ví dụ 2</strong>: [<strong>NOUN PHRASE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -457,7 +457,7 @@ export default function SuperWords1(): React.JSX.Element {
 			<p>Khi nhìn thấy hình thái [GIỚI CỤM][Prepositional Phrase], chức năng của nó được xác định như sau:</p>
 
 
-			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>NOUN PHRASE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -525,7 +525,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20" id="FInite-CLAUsal-SUBject-2"><strong>Ví dụ 2</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]</p>
+			<p className="margin-top-20" id="FInite-CLAUsal-SUBject-2"><strong>Ví dụ 2</strong>: [<strong>RELative CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -576,7 +576,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>RELative CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -665,7 +665,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">[in which they TEST the SAMple] – [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tầng ngoài đứng ngay sau thành phần [NOUN as HEAD] chính "the LABoratory" để bổ nghĩa và khu biệt không gian.</li>
+					<li className="list-none">[in which they TEST the SAMple] – [<strong>NOUN PHRASE</strong>] tầng ngoài đứng ngay sau thành phần [NOUN as HEAD] chính "the LABoratory" để bổ nghĩa và khu biệt không gian.</li>
 
 					<li className="list-none">Trong đó khối phụ which they TEST the SAMple - [FInite CLAUSE as COMplement] tầng trong chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "in".</li>
 					

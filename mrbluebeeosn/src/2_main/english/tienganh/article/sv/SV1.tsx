@@ -678,7 +678,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">Tầng ngoài: Lớp ngoài [a<strong>bout</strong> HOW she sucCEEDed] đóng vai trò là một [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tổng thể bổ nghĩa cho [NOUN as HEAD] "ARticle" đứng trước nó.</li>
+					<li className="list-none">Tầng ngoài: Lớp ngoài [a<strong>bout</strong> HOW she sucCEEDed] đóng vai trò là một [<strong>NOUN PHRASE</strong>] tổng thể bổ nghĩa cho [NOUN as HEAD] "ARticle" đứng trước nó.</li>
 					
 					<li className="list-none">Tầng trong: Lớp trong HOW she sucCEEDed đóng vai trò là một [FInite CLAUSE as COMplement] đứng làm điểm tựa [FInite CLAUSE as COMplement] dưới sự điều phối của [prepoSITion][GIỚI] a<strong>bout</strong>.</li>
 			

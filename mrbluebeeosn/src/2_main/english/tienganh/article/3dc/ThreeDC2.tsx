@@ -121,7 +121,7 @@ export default function ThreeDC2(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>NOUN CLAUSE</strong>][<strong>DANH ĐIỀU</strong>]: [That you forgot my birthday]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>NOUN CLAUSE</strong>]: [That you forgot my birthday]</p>
 			
 				<ul className="list-square">
 			
@@ -174,7 +174,7 @@ export default function ThreeDC2(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong> – [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]: [wearing a red cap]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong> – [<strong>NOUN PHRASE</strong>]: [wearing a red cap]</p>
 			
 				<ul className="list-square">
 			
@@ -188,7 +188,7 @@ export default function ThreeDC2(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>ADjective CLAUSE</strong>][<strong>TÍNH ĐIỀU</strong>]: [which I dropped yesterday]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>ADjective CLAUSE</strong>]: [which I dropped yesterday]</p>
 			
 				<ul className="list-square">
 			

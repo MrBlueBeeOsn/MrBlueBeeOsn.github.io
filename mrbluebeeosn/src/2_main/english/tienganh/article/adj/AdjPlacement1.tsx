@@ -370,7 +370,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: [<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>PAST PARTiciple CLAUSE</strong>][<strong>KHỨ TÍNH ĐIỀU</strong>] <strong>đã xong</strong>, <strong>bị động</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: [<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>PAST PARTiciple CLAUSE</strong>] <strong>đã xong</strong>, <strong>bị động</strong></p>
 			
 				<ul className="list-square">
 			
@@ -445,7 +445,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center" id="FInite-CLAUsal-SUBject-2">5. Chức năng [RELative CLAUSE]</h3>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -459,7 +459,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro RELative CLAUSE</strong>][<strong>KHUYẾT QUAN ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro RELative CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -478,7 +478,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center" id="emBEDded-CLAUSE">6. [emBEDded STRUCture][NHÚNG CẤU TRÚC]</h3>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>][<strong>GIỚI và NHÚNG ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -544,7 +544,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>][<strong>GIỚI và NHÚNG ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -628,7 +628,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Chuyển đổi</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chuyển đổi</strong>: [<strong>NOUN PHRASE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -644,7 +644,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">B. Chuyển từ [PHRASE][CỤM] ➔ [CLAUSE]</h4>
 
-			<p className="text-indent-whole"><strong>Gốc</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
+			<p className="text-indent-whole"><strong>Gốc</strong>: [<strong>NOUN PHRASE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -658,7 +658,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Chuyển đổi</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chuyển đổi</strong>: [<strong>RELative CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -674,7 +674,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">C. Chuyển từ [CLAUSE] ➔ [HEAD][LÕI]</h4>
 
-			<p className="text-indent-whole"><strong>Gốc</strong>: [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]</p>
+			<p className="text-indent-whole"><strong>Gốc</strong>: [<strong>RELative CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			

@@ -261,7 +261,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>NOUN CLAUSE</strong>][<strong>DANH ĐIỀU</strong>]: [what you whispered yesterday]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>NOUN CLAUSE</strong>]: [what you whispered yesterday]</p>
 			
 				<ul className="list-square">
 			
@@ -310,7 +310,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]: [too salty for me]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>NOUN PHRASE</strong>]: [too salty for me]</p>
 			
 				<ul className="list-square">
 			
@@ -324,7 +324,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>ADjective CLAUSE</strong>][<strong>TÍNH ĐIỀU</strong>]: [which I bought yesterday]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>ADjective CLAUSE</strong>]: [which I bought yesterday]</p>
 			
 				<ul className="list-square">
 			
@@ -399,10 +399,10 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>[<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>]:</li>
 					<li className="margin-bottom-20 list-none">Đối tượng cốt lõi được nhắc đến.</li>
 			
-					<li>[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</li>
+					<li>[<strong>NOUN PHRASE</strong>]:</li>
 					<li className="margin-bottom-20 list-none">Khối cụm mô tả ngắn (không chứa hành động chia theo thời).</li>
 			
-					<li>[<strong>ADjective CLAUSE</strong>][<strong>TÍNH ĐIỀU</strong>]:</li>
+					<li>[<strong>ADjective CLAUSE</strong>]:</li>
 					<li className="list-none">Câu nhỏ mô tả chi tiết (chứa đầy đủ thành phần thực hiện và hành động).</li>
 			
 				</ul>

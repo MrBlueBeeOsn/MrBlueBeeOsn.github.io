@@ -528,7 +528,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro conJUNCtional CLAUSE</strong>][<strong>ẨN LIÊN ĐIỀU</strong>]</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro that CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -588,7 +588,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>][<strong>GIỚI và NHÚNG ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -597,7 +597,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:</li>
 
-					<li className="list-none">Khối tổng thể [with the perSPECtive that FACTS GUIDE deVELopment] đóng vai trò là [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] bổ nghĩa, mô tả đặc điểm thuộc tính cho [NOUN as HEAD] the SPECialist.</li>
+					<li className="list-none">Khối tổng thể [with the perSPECtive that FACTS GUIDE deVELopment] đóng vai trò là [<strong>NOUN PHRASE</strong>] bổ nghĩa, mô tả đặc điểm thuộc tính cho [NOUN as HEAD] the SPECialist.</li>
 
 					<li className="list-none">Khối nhỏ bên trong that FACTS GUIDE deVELopment đóng vai trò là [deCLARative CONtent CLAUSE] làm nhiệm vụ đồng vị, giải thích nội dung trực tiếp cho [NOUN as HEAD] perSPECtive.</li>
 					
@@ -610,7 +610,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2">[<strong>FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2">[<strong>FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -624,7 +624,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro RELative CLAUSE</strong>][<strong>KHUYẾT QUAN ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro RELative CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -684,7 +684,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>][<strong>GIỚI và NHÚNG ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -724,7 +724,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 					
-			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-3">[<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>] <strong>cấu tạo từ</strong> [<strong>suBORdinate CLAUSE</strong>][<strong>PHỤ ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-3">[<strong>ADjunct 3</strong>][<strong>PHỤ 3</strong>] <strong>cấu tạo từ</strong> [<strong>suBORdinate CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -739,7 +739,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro conJUNCtional CLAUSE</strong>][<strong>ẨN LIÊN ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro that CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -809,7 +809,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Biến đổi sang khối</strong> [<strong>deCLARative CONtent CLAUSE</strong>][<strong>THUẬT NỘI ĐIỀU</strong>] <strong>đóng vai trò</strong> [<strong>COMplement</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Biến đổi sang khối</strong> [<strong>deCLARative CONtent CLAUSE</strong>] <strong>đóng vai trò</strong> [<strong>COMplement</strong>]:</p>
 			
 				<ul className="list-square">
 			

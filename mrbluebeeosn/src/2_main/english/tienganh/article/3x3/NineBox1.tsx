@@ -408,7 +408,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-3"><strong>Hình thành Chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUSE-as-SUBject-3"><strong>Hình thành Chức năng</strong> [<strong>NOUN PHRASE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -470,7 +470,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2"><strong>Hình thành Chức năng</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2"><strong>Hình thành Chức năng</strong> [<strong>RELative CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -517,7 +517,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>RELative CLAUSE</strong>][<strong>QUAN ĐIỀU</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>RELative CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -553,7 +553,7 @@ export default function NineBox1(): React.JSX.Element {
 			<p className="text-indent-whole">Khối này được nhận diện trực tiếp bằng mắt thông qua cấu trúc dẫn đường: [prepoSITion][GIỚI] đứng đầu, phối hợp cùng một khối danh mục mục tiêu làm [NOUN PHRASE] phía sau. Khi đưa vào vận hành, khối này chỉ đảm nhận việc kích hoạt thuộc tính hoặc bối cảnh.</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>NOUN PHRASE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -649,7 +649,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="list-none">Khối WHAT the TEAM dePLOYED YESterday bên trong đóng vai trò làm [FInite CLAUSE as COMplement] chịu sự điều phối trực tiếp từ [prepoSITion][GIỚI] đứng trước.</li>
 
-					<li className="list-none">Và toàn bộ khối tổng thể [for WHAT the TEAM dePLOYED YESterday] vận hành với chức năng [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] nhằm mô tả thuộc tính định danh cho khối [NOUN PHRASE] "the SOURCE CODE" phía trước.</li>
+					<li className="list-none">Và toàn bộ khối tổng thể [for WHAT the TEAM dePLOYED YESterday] vận hành với chức năng [<strong>NOUN PHRASE</strong>] nhằm mô tả thuộc tính định danh cho khối [NOUN PHRASE] "the SOURCE CODE" phía trước.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
