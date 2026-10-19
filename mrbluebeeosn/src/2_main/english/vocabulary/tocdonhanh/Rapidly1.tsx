@@ -15,7 +15,7 @@ export default function RAPidly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-nhanh"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhanh</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-fast"><mark className="highlight-tertiary-padding-4-8">ADverbs: fast</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">RAPidly
         <sup><Link to="/vocabulary/RAPidly-1">&nbsp;1&nbsp;</Link>
@@ -229,7 +229,7 @@ export default function RAPidly1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc trò chuyện hoặc bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word frequently in conversations or writing.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 

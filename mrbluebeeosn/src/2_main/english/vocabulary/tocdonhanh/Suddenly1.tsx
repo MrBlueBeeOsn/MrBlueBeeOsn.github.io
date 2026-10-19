@@ -15,7 +15,7 @@ export default function SUDdenly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-nhanh"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhanh</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-fast"><mark className="highlight-tertiary-padding-4-8">ADverbs: fast</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">SUDdenly
         <sup><Link to="/vocabulary/SUDdenly-1">&nbsp;1&nbsp;</Link>
@@ -63,7 +63,7 @@ export default function SUDdenly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>SUDdenly</strong>" nhé.</p>
+      <p>Great! Let's explore the word "SUDdenly" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -81,7 +81,7 @@ export default function SUDdenly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Bỗng nhiên</li>
+            <li>Suddenly</li>
 
           </ul>
 
@@ -93,17 +93,17 @@ export default function SUDdenly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>SUDdenly</strong>" dùng để miêu tả một sự kiện hoặc hành động xảy ra một cách nhanh chóng, không báo trước và thường gây ngạc nhiên.</p>
+      <p className="margin-top-30 text-indent-whole">The word "SUDdenly" is used to describe an event or action that happens quickly, without warning, and often comes as a surprise.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">SUDdenly, the LIGHTS wenT OUT.</li>
-          <li className="margin-bottom-20 list-none">Bỗng nhiên, đèn tắt nguyên cái.</li>
+          <li className="margin-bottom-20 list-none">Out of the blue, the lights suddenly went off.</li>
 
           <li>she SUDdenly REalized she had LEFT her PHONE at HOME.</li>
-          <li className="list-none">Cô ấy bỗng nhiên nhận ra rằng mình đã để quên điện thoại ở nhà.</li>
+          <li className="list-none">She realized that she had forgotten to take her phone with her when she left.</li>
 
         </ul>
 
@@ -120,10 +120,10 @@ export default function SUDdenly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">a SUDden STORM CAUSED the POWer OUtage.</li>
-          <li className="margin-bottom-20 list-none">Một cơn bão bất ngờ đã gây ra sự cố mất điện.</li>
+          <li className="margin-bottom-20 list-none">The power went out because of a sudden storm.</li>
 
           <li id="NOUN">the SUDdenness of the ACcident SHOCKED <strong>ever</strong>yone.</li>
-          <li className="list-none">Sự bất ngờ của vụ tai nạn đã khiến mọi người bàng hoàng.</li>
+          <li className="list-none">Everyone was shocked by how fast the accident happened.</li>
 
         </ul>
 
@@ -140,10 +140,10 @@ export default function SUDdenly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the MUsic STOPPED aBRUPTly.</li>
-          <li className="margin-bottom-20 list-none">Âm nhạc bỗng dưng ngừng lại.</li>
+          <li className="margin-bottom-20 list-none">The music stopped all of a sudden.</li>
 
           <li>i unexPECtedly RAN into an OLD FRIEND.</li>
-          <li className="list-none">Tôi đã bất ngờ gặp lại một người bạn cũ.</li>
+          <li className="list-none">I ran into an old friend I didn't expect to see.</li>
 
         </ul>
 
@@ -162,10 +162,10 @@ export default function SUDdenly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the PLANT GREW GRADually TALler.</li>
-          <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
+          <li className="margin-bottom-20 list-none">The plant grew slowly at first, and then it started growing faster.</li>
 
           <li>as exPECted, it STARTed to RAIN.</li>
-          <li className="list-none">Đúng như dự đoán, trời bắt đầu mưa.</li>
+          <li className="list-none">It rained, just as we thought it would.</li>
 
         </ul>
       
@@ -186,12 +186,12 @@ export default function SUDdenly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một quả bóng rơi đột ngột từ trên cao xuống.</p>
+      <p className="text-indent-whole">Imagine a ball suddenly falling from a great height.</p>
 
         <ul className="list-square">
 
           <li>the BALL SUDdenly FELL from the SKY.</li>
-          <li className="list-none">Quả bóng bỗng dưng rơi xuống từ trên trời.</li>
+          <li className="list-none">The ball suddenly dropped from the sky.</li>
 
         </ul>
 
@@ -203,15 +203,15 @@ export default function SUDdenly1(): React.JSX.Element {
         <strong>
           <mark className="highlight-255-padding-4-8"><strong>2. Create</strong></mark> 
         </strong>
-        <strong>&nbsp;example sentences</strong>:
+        <strong>&nbsp;example sentences</strong>: 
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến những sự kiện bất ngờ trong cuộc sống hàng ngày.</p>
+      <p className="text-indent-whole">Create sentences related to unexpected events in everyday life.</p>
 
         <ul className="list-square">
 
           <li>while i was WALking, i SUDdenly HEARD a LOUD NOISE.</li>
-          <li className="list-none">Khi tôi đang đi bộ, tôi bỗng nghe thấy một tiếng động lớn.</li>
+          <li className="list-none">As I was walking, I heard a very loud noise.</li>
 
         </ul>
 
@@ -226,24 +226,24 @@ export default function SUDdenly1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc trò chuyện hoặc bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word frequently in conversations or writing.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">the TRAIN arRIVED.</li>
-            <li className="list-none margin-bottom-20">Tàu đã đến.</li>
+            <li className="list-none margin-bottom-20">The train has arrived.</li>
 
             <li value="2">the TRAIN SUDdenly arRIVED.</li>
-            <li className="list-none margin-bottom-20">Chuyến tàu bỗng nhiên đến.</li>
+            <li className="list-none margin-bottom-20">The train showed up out of the blue.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng việc tàu <span className="highlight-255-padding-0-4">đến là một sự kiện bất ngờ</span>, không theo lịch trình.</p>
-
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes</span> that the ship's arrival was an<span className="highlight-255-padding-0-4">unexpected, unscheduled</span> event..</p>
+     
       </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
@@ -258,9 +258,9 @@ export default function SUDdenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tính chất bất ngờ: "<strong>SUDdenly</strong>" nhấn mạnh tính chất bất ngờ, không thể dự đoán trước của một sự kiện.</li>
+          <li>The element of surprise: "SUDdenly" emphasizes the unexpected, unpredictable nature of an event.</li>
 
-          <li className="margin-bottom-20">Tạo cảm giác hồi hộp: Từ này thường được sử dụng trong các câu chuyện để tạo ra cảm giác hồi hộp, bất ngờ cho người đọc hoặc người nghe.</li>
+          <li className="margin-bottom-20">Create suspense: This word is often used in stories to create a sense of suspense or surprise for the reader or listener.</li>
 
         </ul>
 

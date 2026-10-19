@@ -34,7 +34,9 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 			<p className="text-center">Stop using your first language if you want to learn new words.</p>
 			
-			<p className="margin-bottom-50 text-center">Stop using your first language when trying to understand vocabulary words.</p>
+			<p className="text-center">Stop using your first language when trying to understand vocabulary words.</p>
+
+			<p className="margin-bottom-50 text-center">If you get stuck, look at <strong>images</strong>, <strong>visuals</strong>, or <strong>synonyms</strong> instead of translating.</p>
 
 
 			<div className="flex-container margin-top-20">
@@ -690,12 +692,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: nhanh
+							ADverbs: fast
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-nhanh"><mark className="highlight-secondary-padding-2-4">ADverbs: nhanh</mark></summary>
+					<summary id="adverbs-fast"><mark className="highlight-secondary-padding-2-4">ADverbs: fast</mark></summary>
 
 					<ul className="list-border1">
 

@@ -15,7 +15,7 @@ export default function SUDdenly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-nhanh"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhanh</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-fast"><mark className="highlight-tertiary-padding-4-8">ADverbs: fast</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">SUDdenly
         <sup>
@@ -75,7 +75,7 @@ export default function SUDdenly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SUDdenly</strong>" (bỗng nhiên) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “SUDdenly” (suddenly) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function SUDdenly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh thường được sử dụng để mô tả một sự kiện hoặc thay đổi xảy ra một cách bất ngờ, không báo trước.
+            &nbsp;is often used in English to describe an event or change that occurs unexpectedly, without warning.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function SUDdenly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="STOPPED-in-the">the CAR SUDdenly STOPPED in the MIDdle of the ROAD.</li>
-        <li className="list-none margin-bottom-20">Chiếc xe đột ngột dừng lại ngay giữa đường.</li>
+        <li className="list-none margin-bottom-20">All of a sudden, the car came to a halt in the middle of the road.</li>
 
         <li value="2" id="REalized-that">i SUDdenly REalized that i had forGOTten my KEYS.</li>
-        <li className="list-none margin-bottom-20">Tôi bỗng nhiên nhận ra rằng mình đã quên chìa khóa.</li>
+        <li className="list-none margin-bottom-20">Out of the blue, I remembered that I had left my keys behind.</li>
 
         <li value="3" id="apPEARED-in-the">a GHOST SUDdenly apPEARED in the MIRror.</li>
-        <li className="list-none margin-bottom-20">Một bóng ma bỗng nhiên xuất hiện trong gương.</li>
+        <li className="list-none margin-bottom-20">Something that looked like a ghost suddenly appeared in the mirror.</li>
 
         <li value="4" id="CHANGED">the WEAther SUDdenly CHANGED and it STARTed to RAIN.</li>
-        <li className="list-none margin-bottom-20">Thời tiết bỗng dưng thay đổi và trời bắt đầu mưa.</li>
+        <li className="list-none margin-bottom-20">The weather changed quickly, and it started to rain.</li>
 
         <li value="5" id="FELT">i SUDdenly FELT a SHARP PAIN in my STOMach.</li>
-        <li className="list-none margin-bottom-20">Tôi bỗng dưng cảm thấy một cơn đau nhói ở bụng.</li>
+        <li className="list-none margin-bottom-20">I felt a sharp pain in my stomach all of a sudden.</li>
 
         <li value="6" id="reMEMbered">the SUDdenly reMEMbered where i had LEFT my PHONE.</li>
-        <li className="list-none margin-bottom-20">Bỗng dưng tôi nhớ ra mình đã để điện thoại ở đâu rồi.</li>
+        <li className="list-none margin-bottom-20">I remembered where I left my phone, out of the blue.</li>
 
         <li value="7" id="disapPEARED-in-a">the maGIcian SUDdenly disapPEARED in a PUFF of SMOKE.</li>
-        <li className="list-none margin-bottom-20">Nhà ảo thuật bỗng chốc biến mất trong một làn khói.</li>
+        <li className="list-none margin-bottom-20">The magician vanished in a cloud of smoke.</li>
 
         <li value="8" id="beCAME">the sky SUDdenly beCAME DARK and STORmy.</li>
-        <li className="list-none margin-bottom-20">Bầu trời bỗng chốc trở nên u ám và giông bão.</li>
+        <li className="list-none margin-bottom-20">Out of nowhere, the sky turned dark and stormy.</li>
 
         <li value="9" id="REalized-that2">i SUDdenly REalized that i had been WALking in CIRcles.</li>
-        <li className="list-none margin-bottom-20">Tôi bỗng nhiên nhận ra rằng mình đã đi vòng vòng.</li>
+        <li className="list-none margin-bottom-20">I realized that I had been going around in circles.</li>
 
         <li value="10" id="STOPPED2">the comPUter SUDdenly STOPPED WORking.</li>
-        <li className="list-none margin-bottom-20">Máy tính đột ngột ngừng hoạt động.</li>
+        <li className="list-none margin-bottom-20">Out of the blue, the computer stopped working.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính bất ngờ, đột ngột của một sự kiện hoặc thay đổi. Chúng thường được sử dụng để tạo ra hiệu ứng kịch tính hoặc nhấn mạnh tính bất ngờ của một tình huống.</p>
+      <p>** The phrases above all emphasize the unexpected or sudden nature of an event or change. They are often used to create a dramatic effect or to highlight the unexpected nature of a situation.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function SUDdenly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>SUDdenly</strong>" thường được đặt ở đầu câu hoặc trước hành động để nhấn mạnh ý nghĩa.</li>
+          <li>"SUDdenly" is often placed at the beginning of a sentence or before an action to emphasize its meaning.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ việc mô tả các sự kiện hàng ngày đến các câu chuyện hư cấu.</li>
+          <li className="margin-bottom-20">This word can be used in a variety of contexts, ranging from describing everyday events to fictional stories.</li>
 
         </ul>
 
