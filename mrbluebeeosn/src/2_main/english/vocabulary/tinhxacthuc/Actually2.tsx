@@ -15,7 +15,7 @@ export default function ACtually2(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/vocabulary#adverbs-xac-thuc"><mark className="highlight-tertiary-padding-4-8">ADverbs: xác thực</mark></HashLink></h4>
+			<h4><HashLink smooth to="/vocabulary#ADverbs-verifiCAtion"><mark className="highlight-tertiary-padding-4-8">ADverbs: verifiCAtion</mark></HashLink></h4>
 			
 			<h1 className="margin-y-50 text-center">ACtually
 				<sup>
@@ -75,7 +75,7 @@ export default function ACtually2(): React.JSX.Element {
 
 			{/* This is the content of Vocabulary Term. */}
 
-			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ACtually</strong>" (thực ra) và các cụm từ thường đi kèm nhé.</p>
+			<p>Great! Let's take a closer look at the word "Actually" and the phrases that often go with it.</p>
 
 			<div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function ACtually2(): React.JSX.Element {
 							
 						</span>
 							
-						&nbsp;trong tiếng Anh có nghĩa là "Thực ra thì", "thực tế là", "thật ra". Từ này thường được dùng để nhấn mạnh một thông tin, một sự thật hoặc một quan điểm nào đó, thường trái ngược hoặc bổ sung cho những gì đã được nói trước đó.
+						&nbsp;in English means “Actually,” “in fact,” or “as a matter of fact.” This word is often used to emphasize a piece of information, a fact, or a point of view—usually one that contradicts or supplements what was said earlier.
 
 					</p>
 
@@ -104,38 +104,38 @@ export default function ACtually2(): React.JSX.Element {
 			<ol className="margin-top-30 padding-left-30">
 
 				<li value="1" id="i-THINK">i THOUGHT he was ANGry, but ACtually, i THINK he was JUST TIred.</li>
-				<li className="list-none margin-bottom-20">Tôi từng nghĩ anh ấy đang giận, nhưng thực ra, tôi nghĩ anh ấy chỉ mệt thôi.</li>
+				<li className="list-none margin-bottom-20">I thought he was mad, but I think he was just tired.</li>
 
 				<li value="2" id="it's">i THOUGHT it was a CAT, but ACtually, it's a racCOON.</li>
-				<li className="list-none margin-bottom-20">Tôi từng nghĩ đó là một con mèo, nhưng thực thực ra, đó là một con chuột chúa.</li>
+				<li className="list-none margin-bottom-20">I thought it was a cat at first, but then I realized it's actually a raccoon.</li>
 
 				<li value="3" id="LIKE">she does NOT ACtually LIKE COFfee, she JUST preTENDS.</li>
-				<li className="list-none margin-bottom-20">Thực ra cô ấy không thích cà phê, cô ấy chỉ giả vờ thôi</li>
+				<li className="list-none margin-bottom-20">She doesn't really like coffee, but she acts like she does.</li>
 
 				<li value="4" id="i've-alREADy-SEEN">as a MATter of FACT, ACtually, i've alREADy SEEN that MOvie.</li>
-				<li className="list-none margin-bottom-20">Thực ra, tôi đã xem bộ phim đó rồi.</li>
+				<li className="list-none margin-bottom-20">Actually, I've already watched the movie.</li>
 
 				<li value="5" id="a-LONG-WALK">it's ACtually a LONG WALK to the STORE.</li>
-				<li className="list-none margin-bottom-20">Thực ra thì phải đi bộ một quãng đường khá xa mới đến được cửa hàng.</li>
+				<li className="list-none margin-bottom-20">The store is far away.</li>
 
 				<li value="6" id="MEAN">i did NOT ACtually MEAN to HURT your FEELings.</li>
-				<li className="list-none margin-bottom-20">Thực ra tớ không có ý làm tổn thương cảm xúc của cậu đâu.</li>
+				<li className="list-none margin-bottom-20">I'm sorry; I didn't mean to hurt your feelings.</li>
 
 				<li value="7" id="SIMple">it's ACtually SIMple to DO.</li>
-				<li className="list-none margin-bottom-20">Thực ra thì việc này rất đơn giản.</li>
+				<li className="list-none margin-bottom-20">It's actually easy.</li>
 
 				<li value="8" id="BEEN-to">i've ACtually BEEN to PARis TWICE.</li>
-				<li className="list-none margin-bottom-20">Thực ra tôi đã đến Paris hai lần rồi.</li>
+				<li className="list-none margin-bottom-20">I've visited Paris two times.</li>
 
 				<li value="9" id="NOT-THAT-exPENsive">it's ACtually NOT THAT exPENsive.</li>
-				<li className="list-none margin-bottom-20">Thực ra thì nó cũng không đắt đến thế đâu.</li>
+				<li className="list-none margin-bottom-20">It's not as expensive as you might think.</li>
 
 				<li value="10" id="i-was-WONdering-if">ACtually, i was WONdering if you could HELP me with THIS.</li>
-				<li className="list-none margin-bottom-20">Thực ra, tớ đang tự hỏi không biết cậu có thể giúp tớ việc này không.</li>
+				<li className="list-none margin-bottom-20">I was hoping you might be able to help me out with this.</li>
 
 			</ol>
 
-			<p>** Các cụm từ trên đều được sử dụng để bổ sung, sửa chữa hoặc làm rõ thông tin. Chúng giúp cho cuộc trò chuyện trở nên chính xác và rõ ràng hơn.</p>
+			<p>** The phrases above are all used to add to, correct, or clarify information. They help make conversations more accurate and clear.</p>
 
 			{/* =============================
 						Lưu ý:
@@ -147,9 +147,9 @@ export default function ACtually2(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>"<strong>ACtually</strong>" thường được đặt ở đầu câu hoặc trước một cụm từ để nhấn mạnh ý nghĩa của chúng.</li>
+					<li>"ACtually" is often placed at the beginning of a sentence or before a phrase to emphasize their meaning.</li>
 
-					<li className="margin-bottom-20">Từ này thường được sử dụng trong giao tiếp hàng ngày để làm cho cuộc trò chuyện trở nên tự nhiên và thân thiện hơn.</li>
+					<li className="margin-bottom-20">This word is commonly used in everyday conversation to make the conversation sound more natural and friendly.</li>
 
 				</ul>
 

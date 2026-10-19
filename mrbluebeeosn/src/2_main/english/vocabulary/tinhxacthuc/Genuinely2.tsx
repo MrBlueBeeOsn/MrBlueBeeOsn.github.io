@@ -15,7 +15,7 @@ export default function GENuinely2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-xac-thuc"><mark className="highlight-tertiary-padding-4-8">ADverbs: xác thực</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-verifiCAtion"><mark className="highlight-tertiary-padding-4-8">ADverbs: verifiCAtion</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">GENuinely
         <sup>
@@ -75,7 +75,7 @@ export default function GENuinely2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>GENuinely</strong>" (thực sự) và các cụm từ thường đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “GENuinely” (truly) and the phrases that often go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function GENuinely2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "một cách chân thành", "một cách thật lòng". Từ này thường được dùng để mô tả cảm xúc, hành động hoặc mối quan hệ mang tính chân thật, không giả tạo.
+            &nbsp;in English means "sincerely" or "genuinely." This word is often used to describe emotions, actions, or relationships that are genuine and not fake.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function GENuinely2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="HAPpy">she was GENuinely HAPpy to SEE her OLD FRIENDS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thực sự rất vui khi được gặp lại những người bạn cũ.</li>
+        <li className="list-none margin-bottom-20">She was actually pretty excited to catch up with her old friends.</li>
 
         <li value="2" id="conCERNED-about">he was GENuinely conCERNED a<strong>bout</strong> her WELL-BEing.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thực sự lo lắng cho sức khỏe của cô ấy.</li>
+        <li className="list-none margin-bottom-20">He really was worried about her well-being.</li>
 
         <li value="3" id="GRATEful-for">i am GENuinely GRATEful for your HELP.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự rất biết ơn sự giúp đỡ của bạn.</li>
+        <li className="list-none margin-bottom-20">Thank you so much for your help!</li>
 
         <li value="4" id="SORry-for">he was GENuinely SORry for his  misTAKE.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thực sự hối hận về sai lầm của mình.</li>
+        <li className="list-none margin-bottom-20">He really felt sorry for what he had done wrong.</li>
 
         <li value="5" id="INTERested-in">she was GENuinely INTERested in his STORy.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thực sự quan tâm đến câu chuyện của anh ấy.</li>
+        <li className="list-none margin-bottom-20">She was really interested in what he had to say.</li>
 
         <li value="6" id="beLIEVE-in">i GENuinely beLIEVE in the POWer of LOVE.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự tin tưởng vào sức mạnh của tình yêu.</li>
+        <li className="list-none margin-bottom-20">I truly believe that love has the power to change everything.</li>
 
         <li value="7" id="adMIRE">i GENuinely adMIRE her COUrage.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự ngưỡng mộ sự dũng cảm của cô ấy.</li>
+        <li className="list-none margin-bottom-20">I really appreciate how brave she is.</li>
 
         <li value="8" id="apPREciate">i GENuinely apPREciate your KINDness.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự biết ơn lòng tốt của bạn.</li>
+        <li className="list-none margin-bottom-20">Thank you. I really appreciate your kindness.</li>
 
         <li value="9" id="CARES-about">she GENuinely CARES a<strong>bout</strong> the WELfare of OTHers.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thực sự quan tâm đến hạnh phúc của người khác.</li>
+        <li className="list-none margin-bottom-20">She really does what's best for other people.</li>
 
         <li value="10" id="LOVES">he GENuinely LOVES his FAMILy.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thực sự yêu thương gia đình mình.</li>
+        <li className="list-none margin-bottom-20">He really, truly loves his family.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh tính chân thật, không giả tạo của cảm xúc, hành động hoặc mối quan hệ. Chúng thường được dùng trong các ngữ cảnh giao tiếp để thể hiện sự chân thành và lòng tin.</p>
+      <p>** All of the above phrases are used to emphasize the authenticity-the lack of pretense-of emotions, actions, or relationships. They are often used in communication to express sincerity and trust.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function GENuinely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>GENuinely</strong>" thường được đặt trước ADjective để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"GENuinely" is often placed before an adjective to emphasize its meaning.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong các tình huống giao tiếp đòi hỏi sự chân thành và tin cậy.</li>
+          <li className="margin-bottom-20">This word is often used in communication situations that call for sincerity and trust.</li>
 
         </ul>
 

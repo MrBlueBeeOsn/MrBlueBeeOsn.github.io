@@ -15,7 +15,7 @@ export default function GENuinely1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-xac-thuc"><mark className="highlight-tertiary-padding-4-8">ADverbs: xác thực</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-verifiCAtion"><mark className="highlight-tertiary-padding-4-8">ADverbs: verifiCAtion</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">GENuinely
         <sup><Link to="/vocabulary/GENuinely-1">&nbsp;1&nbsp;</Link>
@@ -63,7 +63,7 @@ export default function GENuinely1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>GENuinely</strong>" nhé.</p>
+      <p>Great! Let's explore the word "GENuinely" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function GENuinely1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Thực sự</li>
+            <li>Actually</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function GENuinely1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>GENuinely</strong>" được dùng để nhấn mạnh tính chân thật, sự thật lòng trong một cảm xúc, hành động hoặc lời nói. Nó cho thấy rằng điều gì đó đến từ bên trong và không phải là giả tạo.</p>
+      <p className="margin-top-30 text-indent-whole">The word "GENuinely" is used to emphasize the authenticity and sincerity of a feeling, action, or statement. It indicates that something comes from within and is not artificial.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she GENuinely CARES a<strong>bout</strong> her FRIENDS.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy thực sự quan tâm đến các bạn của mình.</li>
+          <li className="margin-bottom-20 list-none">It is clear that she really does care about her friends.</li>
 
           <li>he was GENuinely surPRISED by the GIFT.</li>
-          <li className="list-none">Anh ấy thực sự đã rất ngạc nhiên trước món quà đó.</li>
+          <li className="list-none">He said the gift took him by surprise.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function GENuinely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he has a GENuine INterest in ART.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy thực sự có niềm đam mê với nghệ thuật.</li>
+          <li className="margin-bottom-20 list-none">He really loves art.</li>
           
           <li id="VERB">the WIND TURbine GENerates elecTRICity.</li>
-          <li className="list-none">Tuabin gió sản xuất điện.</li>
+          <li className="list-none">The wind turbine produces electricity.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function GENuinely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she THANKED him sinCEREly for his HELP.</li>
-          <li className="margin-bottom-20 list-none">Cô đã chân thành cảm ơn anh vì sự giúp đỡ của anh.</li>
+          <li className="margin-bottom-20 list-none">She said "Thank you" to him, but she didn't mean sarcastically. She really appreciated his help.</li>
 
           <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> beLIEVE in WHAT he SAID.</li>
-          <li className="list-none">Tôi thực sự tin vào những gì anh ấy đã nói.</li>
+          <li className="list-none">I completely agree with what he said.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function GENuinely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he SMILED insinCEREly.</li>
-          <li className="margin-bottom-20 list-none">Anh ta mỉm cười một cách không chân thành.</li>
+          <li className="margin-bottom-20 list-none">He smiled without really meaning to.</li>
 
           <li>he SPOKE hypoCRITically a<strong>bout</strong> HONEsty.</li>
-          <li className="list-none">Anh ta đã nói một cách đạo đức giả về sự trung thực.</li>
+          <li className="list-none">He spoke without thinking about what was right and wrong.</li>
 
         </ul>
       
@@ -184,12 +184,12 @@ export default function GENuinely1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang cười thật tươi khi nhận được một món quà.</p>
+      <p className="text-indent-whole">Imagine someone smiling broadly when they receive a gift.</p>
 
         <ul className="list-square">
 
           <li>he is GENuinely GRATEful for the THOUGHTful PREsent.</li>
-          <li className="list-none">Anh ấy thực sự rất biết ơn món quà đầy tâm ý này.</li>
+          <li className="list-none">He is really thankful for the thoughtful gift.</li>
 
         </ul>
 
@@ -204,12 +204,12 @@ export default function GENuinely1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu về những cảm xúc hoặc hành động chân thành.</p>
+      <p className="text-indent-whole">Create sentences about sincere emotions or actions.</p>
 
         <ul className="list-square">
 
           <li>he GENuinely enJOYS SPENding TIME with his FAMILy.</li>
-          <li className="list-none">Anh ấy thực sự thích dành thời gian bên gia đình.</li>
+          <li className="list-none">He actually loves spending time with his family.</li>
 
         </ul>
 
@@ -231,16 +231,16 @@ export default function GENuinely1(): React.JSX.Element {
           <ol>
 
             <li value="1">he SAID he LIKED my PAINting.</li>
-            <li className="list-none margin-bottom-20">Anh ấy nói rằng anh ấy thích bức tranh của tôi.</li>
+            <li className="list-none margin-bottom-20">He told me that he liked my painting.</li>
 
             <li value="2">he GENuinely adMIREd my PAINting.</li>
-            <li className="list-none margin-bottom-20">Anh ấy thực sự ngưỡng mộ bức tranh của tôi.</li>
+            <li className="list-none margin-bottom-20">He really liked my painting.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>GENuinely</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng sự ngưỡng mộ</span> của anh ấy <span className="highlight-255-padding-0-4">là chân thành</span> và không chỉ là một lời khen xã giao.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "GENuinely" to <span className="highlight-255-padding-0-4">emphasize that his admiration is sincere and not just a polite compliment</span>.</p>
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -256,9 +256,9 @@ export default function GENuinely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tính chân thật: "<strong>GENuinely</strong>" nhấn mạnh sự chân thật, không giả tạo của một cảm xúc hoặc hành động.</li>
+          <li>Sincerity: "GENuinely" emphasizes the sincerity—the lack of insincerity—of an emotion or action.</li>
 
-          <li className="margin-bottom-20">Đối lập với giả tạo: Nó thường được sử dụng để đối lập với những hành động hoặc lời nói giả dối.</li>
+          <li className="margin-bottom-20">Opposite of insincerity: It is often used to contrast with insincere actions or words.</li>
 
         </ul>
 

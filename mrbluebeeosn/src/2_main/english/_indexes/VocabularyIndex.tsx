@@ -1147,7 +1147,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-xac-thuc"><mark className="highlight-secondary-padding-2-4">ADverbs: xác thực</mark></summary>
+					<summary id="ADverbs-verifiCAtion"><mark className="highlight-secondary-padding-2-4">ADverbs: verifiCAtion</mark></summary>
 
 					<ul className="list-border1">
 
