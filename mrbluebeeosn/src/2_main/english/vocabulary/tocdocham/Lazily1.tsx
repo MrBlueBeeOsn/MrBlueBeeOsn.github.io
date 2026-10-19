@@ -59,7 +59,7 @@ export default function LAzily1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>LAzily</strong>" nhé.</p>
+      <p>Great! Let's explore the word "LAzily" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function LAzily1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách lười biếng</li>
+            <li>In a lazy way</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function LAzily1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>LAzily</strong>" dùng để miêu tả một hành động được thực hiện một cách chậm chạp, không nhiệt tình, hoặc không muốn nỗ lực. Nó thể hiện sự thiếu động lực, sự lười biếng trong việc hoàn thành một công việc nào đó.</p>
+      <p className="margin-top-30 text-indent-whole">The word "LAzily" is used to describe an action performed slowly, halfheartedly, or without effort. It conveys a lack of motivation and laziness in completing a task.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">he LAzily FLIPPED through the PAges of the BOOK.</li>
-          <li className="margin-bottom-20 list-none">Anh ta lười biếng lật qua các trang của cuốn sách.</li>
+          <li className="margin-bottom-20 list-none">He skimmed through the book.</li>
 
           <li>the CAT LAzily SUNbathed on the PORCH.</li>
-          <li className="list-none">Con mèo lười biếng phơi nắng trên hiên nhà.</li>
+          <li className="list-none">The cat was lying on the porch and was feeling very lazy.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function LAzily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">she is TOO LAzy to CLEAN her ROOM.</li>
-          <li className="list-none">Cô ấy quá lười để dọn phòng của mình.</li>
+          <li className="list-none">She isn't cleaning her room because she's too lazy.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function LAzily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she IDly WATCHED the TV.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy lơ đãng xem tivi.</li>
+          <li className="margin-bottom-20 list-none">She was just sitting there mindlessly watching TV.</li>
 
           <li>the eCONomy is GROWing SLUGgishly.</li>
-          <li className="list-none">Nền kinh tế đang tăng trưởng chậm chạp.</li>
+          <li className="list-none">The economy is slowly getting better, but not as fast as it could..</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function LAzily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he WORKED enerGETically on the PROJect.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã làm việc rất hăng hái trong dự án này.</li>
+          <li className="margin-bottom-20 list-none">He put a lot of effort into the project.</li>
 
           <li>she STUDied <Link to="/vocabulary/DILiGENTly-1">DILigently</Link> for the eXAM.</li>
-          <li className="list-none">Cô ấy đã học hành chăm chỉ để chuẩn bị cho kỳ thi.</li>
+          <li className="list-none">She studied really hard for the test.</li>
 
         </ul>
       
@@ -177,12 +177,12 @@ export default function LAzily1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người nằm trên ghế sofa, không muốn làm bất cứ điều gì.</p>
+      <p className="text-indent-whole">Imagine someone lying on the couch, not wanting to do anything.</p>
 
         <ul className="list-square">
 
           <li>he LAzily STRETCHED on the COUCH.</li>
-          <li className="list-none">Anh ta uể oải duỗi người trên ghế sofa.</li>
+          <li className="list-none">He lay on the couch and stretched, not trying very hard.</li>
 
         </ul>
 
@@ -197,12 +197,12 @@ export default function LAzily1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến các hoạt động hàng ngày.</p>
+      <p className="text-indent-whole">Create sentences related to daily activities.</p>
 
         <ul className="list-square">
 
           <li>the DOG LAzily CHEWED on its BONE.</li>
-          <li className="list-none">Con chó lười biếng nhai chiếc xương của nó.</li>
+          <li className="list-none">The dog was not paying attention. It was chewing on its bone without really trying.</li>
 
         </ul>
 
@@ -224,16 +224,16 @@ export default function LAzily1(): React.JSX.Element {
           <ol>
 
             <li value="1">he FINished his WORK.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc của mình.</li>
+            <li className="list-none margin-bottom-20">He completed his task.</li>
 
             <li value="2">he LAzily FINished his WORK.</li>
-            <li className="list-none margin-bottom-20">Anh ta lười biếng hoàn thành công việc của mình.</li>
+            <li className="list-none margin-bottom-20">He didn't put much effort into finishing his work.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh thái độ tiêu cực và sự thiếu nhiệt tình</span> của anh ấy khi <span className="highlight-255-padding-0-4">làm việc</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes</span> his negative attitude and <span className="highlight-255-padding-0-4">lack of enthusiasm</span> at work.</p>
 
       </div>
 
@@ -249,9 +249,9 @@ export default function LAzily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Thái độ: "<strong>LAzily</strong>" thường thể hiện một thái độ tiêu cực đối với công việc hoặc nhiệm vụ.</li>
+          <li>Attitude: "LAzily" often conveys a negative attitude toward work or a task.</li>
 
-          <li className="margin-bottom-20">Hành động: Nó thường được dùng để miêu tả các hành động chậm chạp, thiếu nhiệt tình.</li>
+          <li className="margin-bottom-20">Action: It is often used to describe slow, lackluster actions.</li>
 
         </ul>
 

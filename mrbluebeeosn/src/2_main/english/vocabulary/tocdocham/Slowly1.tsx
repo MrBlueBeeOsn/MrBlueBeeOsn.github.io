@@ -63,7 +63,7 @@ export default function SLOWly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>SLOWly</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "SLOWly."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -91,17 +91,17 @@ export default function SLOWly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>SLOWly</strong>" được dùng để miêu tả một hành động được thực hiện ở tốc độ từ từ, không nhanh. Nó có thể diễn tả sự chậm chạp, từ tốn hoặc sự trì hoãn.</p>
+      <p className="margin-top-30 text-indent-whole">The word "SLOWly" is used to describe an action performed at a slow, unhurried pace. It can convey slowness, deliberateness, or delay.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she WALKED SLOWly down the STREET.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đi bộ chậm rãi dọc theo con phố.</li>
+          <li className="margin-bottom-20 list-none">She strolled down the street at a leisurely pace.</li>
 
           <li>TIME PASSED SLOWly as i WAITed.</li>
-          <li className="list-none">Thời gian trôi qua chậm chạp trong lúc tôi chờ đợi.</li>
+          <li className="list-none">I waited a long time for something to happen.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function SLOWly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is a SLOW RUNner.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy là một người chạy chậm.</li>
+          <li className="margin-bottom-20 list-none">He runs at a pretty moderate pace.</li>
 
           <li id="NOUN">the SLOWness of the TRAFfic anNOYED me.</li>
-          <li className="list-none">Tình trạng giao thông chậm chạp khiến tôi bực mình.</li>
+          <li className="list-none">I was frustrated by how slow the traffic was.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function SLOWly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link> TALler.</li>
-          <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
+          <li className="margin-bottom-20 list-none">The plant grew bigger and bigger.</li>
 
           <li>SLOWly but <Link to="/vocabulary/SUREly-1">SUREly</Link>, she was MAking PROgress.</li>
-          <li className="list-none">Dù chậm nhưng chắc chắn, cô ấy đang có những bước tiến.</li>
+          <li className="list-none">She was making progress, but at a slow pace.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function SLOWly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he RAN <Link to="/vocabulary/QUICKly-1">QUICKly</Link> to CATCH the BUS.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy chạy thật nhanh để kịp lên xe buýt.</li>
+          <li className="margin-bottom-20 list-none">He hurried to catch the bus.</li>
 
           <li>the diSEASE SPREAD <Link to="/vocabulary/RAPidly-1">RAPidly</Link>.</li>
-          <li className="list-none">Bệnh lây lan rất nhanh.</li>
+          <li className="list-none">The disease is spreading like wildfire.</li>
 
         </ul>
       
@@ -184,12 +184,12 @@ export default function SLOWly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một con rùa đang bò chậm rãi.</p>
+      <p className="text-indent-whole">Imagine a turtle crawling slowly.</p>
 
         <ul className="list-square">
 
           <li>the TURtle MOVES as SLOWly as a SNAIL.</li>
-          <li className="list-none">Con rùa di chuyển chậm như con ốc sên.</li>
+          <li className="list-none">The turtle moves very, very slowly, like a snail.</li>
 
         </ul>
 
@@ -204,12 +204,12 @@ export default function SLOWly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu miêu tả các hành động chậm.</p>
+      <p className="text-indent-whole">Form sentences describing slow actions.</p>
 
         <ul className="list-square">
 
           <li>the CLOCK TICKED SLOWly.</li>
-          <li className="list-none">Chiếc đồng hồ tích tắc chậm rãi.</li>
+          <li className="list-none">Time seemed to go by slowly.</li>
 
         </ul>
 
@@ -224,23 +224,23 @@ export default function SLOWly1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word frequently in your writing or conversations.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">he FINished his WORK.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc của mình.</li>
+            <li className="list-none margin-bottom-20">He finished the task at hand.</li>
 
             <li value="2">he SLOWly FINished his WORK.</li>
-            <li className="list-none margin-bottom-20">Anh ấy từ từ hoàn thành công việc của mình.</li>
+            <li className="list-none margin-bottom-20">He took his time finishing the work.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng anh ấy <span className="highlight-255-padding-0-4">đã hoàn thành công việc với tốc độ từ từ.</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes</span> that he <span className="highlight-255-padding-0-4">completed</span> the task <span className="highlight-255-padding-0-4">at a slow pace</span>.</p>
 
       </div>
 
@@ -256,9 +256,9 @@ export default function SLOWly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tốc độ: "<strong>SLOWly</strong>" luôn liên quan đến tốc độ chậm.</li>
+          <li>Speed: "SLOWly" always refers to a slow pace.</li>
 
-          <li className="margin-bottom-20">Cảm giác: Nó có thể tạo ra cảm giác thư thái, bình tĩnh hoặc sốt ruột, tùy thuộc vào ngữ cảnh.</li>
+          <li className="margin-bottom-20">Feeling: It can evoke a sense of relaxation, calm, or impatience, depending on the context.</li>
 
         </ul>
 

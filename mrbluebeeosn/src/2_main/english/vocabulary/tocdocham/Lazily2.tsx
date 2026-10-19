@@ -75,7 +75,7 @@ export default function LAzily2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>LAzily</strong>" (một cách lười biếng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "LAzily" (in a lazy way) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function LAzily2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb dùng để miêu tả một hành động được thực hiện một cách chậm rãi, thiếu năng lượng và không có sự cố gắng.
+            &nbsp;is an adverb used to describe an action performed slowly, listlessly, and without effort.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function LAzily2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="stretchED-OUT-on-the"><strong>af</strong>ter a LONG DAY, he LAzily stretchED OUT on the COUCH.</li>
-        <li className="list-none margin-bottom-20">Sau một ngày dài, anh ấy uể oải nằm dài trên ghế sofa.</li>
+        <li className="list-none margin-bottom-20">He stretched out on the couch after a long day.</li>
 
         <li value="2" id="WANdered-through-the">she LAzily WANdered through the PARK, enJOYing the SUNshine.</li>
-        <li className="list-none margin-bottom-20">Cô lững thững dạo bước trong công viên, tận hưởng ánh nắng mặt trời.</li>
+        <li className="list-none margin-bottom-20">She walked through the park, relaxing and enjoying the sunshine.</li>
 
         <li value="3" id="FLIPPED-through-the">he LAzily FLIPPED through the CHANnels on TV.</li>
-        <li className="list-none margin-bottom-20">Anh ta lười biếng lướt qua các kênh trên TV.</li>
+        <li className="list-none margin-bottom-20">He didn't pay much attention to the TV.</li>
 
         <li value="4" id="ATE">the CAT LAzily ATE its FOOD.</li>
-        <li className="list-none margin-bottom-20">Con mèo ăn một cách lười biếng.</li>
+        <li className="list-none margin-bottom-20">The cat was not interested in its food.</li>
 
         <li value="5" id="LOUNGED-by-the">she LAzily LOUNGED by the POOL.</li>
-        <li className="list-none margin-bottom-20">Cô ấy lười biếng nằm dài bên bể bơi.</li>
+        <li className="list-none margin-bottom-20">She sat by the pool and did nothing.</li>
 
         <li value="6" id="READ-the">he LAzily READ the NEWSpaper.</li>
-        <li className="list-none margin-bottom-20">Anh ta lười biếng đọc báo.</li>
+        <li className="list-none margin-bottom-20">He read the newspaper without much effort.</li>
 
         <li value="7" id="WATCHED-the">they LAzily WATCHED the CLOUDS DRIFT BY.</li>
-        <li className="list-none margin-bottom-20">Họ lười biếng ngắm nhìn những đám mây trôi qua.</li>
+        <li className="list-none margin-bottom-20">They didn't pay much attention as the clouds slowly moved across the sky.</li>
 
         <li value="8" id="SPOKE-into-the">she LAzily SPOKE <strong>in</strong>to the PHONE.</li>
-        <li className="list-none margin-bottom-20">Cô ấy lười biếng nói vào điện thoại.</li>
+        <li className="list-none margin-bottom-20">She spoke into the phone without paying much attention.</li>
 
         <li value="9" id="WALKED-across-the">the DOG LAzily WALKED a<strong>cross</strong> the YARD.</li>
-        <li className="list-none margin-bottom-20">Con chó lững thững đi ngang qua sân.</li>
+        <li className="list-none margin-bottom-20">The dog strolled across the yard easily.</li>
 
         <li value="10" id="SUNbathed-on-the">she LAzily SUNbathed on the BEACH.</li>
-        <li className="list-none margin-bottom-20">Cô ấy lười biếng tắm nắng trên bãi biển.</li>
+        <li className="list-none margin-bottom-20">She was lying on the beach and didn't do much to protect herself from the sun.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều miêu tả một trạng thái thư giãn, thiếu năng lượng và không muốn hoạt động. Chúng thường được sử dụng để mô tả hành động của con người hoặc động vật khi họ cảm thấy mệt mỏi, chán nản hoặc đơn giản là muốn thư giãn.</p>
+      <p>** All of the phrases above describe a state of relaxation, low energy, and a lack of desire to be active. They are often used to describe the behavior of people or animals when they feel tired, bored, or simply want to relax.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function LAzily2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>LAzily</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
+          <li>"LAzily" is often placed before a verb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này thường mang nghĩa tiêu cực, ám chỉ sự lười biếng và thiếu trách nhiệm.</li>
+          <li className="margin-bottom-20">This word usually has a negative connotation, implying laziness and a lack of responsibility.</li>
 
         </ul>
 

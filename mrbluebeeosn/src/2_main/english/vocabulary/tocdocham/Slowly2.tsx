@@ -75,7 +75,7 @@ export default function SLOWly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SLOWly</strong>" (từ từ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "SLOWly" (slowly) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function SLOWly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "một cách chậm rãi", thường được dùng để mô tả tốc độ của một hành động, quá trình hoặc sự thay đổi.
+            &nbsp;in English means "slowly," and is often used to describe the speed of an action, process, or change.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function SLOWly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="but-SUREly-MAking-in">she is SLOWly but SUREly MAking PROgress in her STUDies.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đang tiến bộ chậm rãi nhưng chắc chắn trong việc học.</li>
+        <li className="list-none margin-bottom-20">She's doing well in school, making steady progress.</li>
 
         <li value="2" id="FAded-into-the">the SOUND of the MUsic SLOWly FAded <strong>in</strong>to the NIGHT.</li>
-        <li className="list-none margin-bottom-20">Âm thanh của bản nhạc từ từ tan biến vào màn đêm.</li>
+        <li className="list-none margin-bottom-20">The sound of the music gradually disappeared into the darkness.</li>
 
         <li value="3" id="reCOVering-from">he is SLOWly reCOVering from his ILLness.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đang dần hồi phục sau cơn bệnh.</li>
+        <li className="list-none margin-bottom-20">He's starting to feel better after being sick.</li>
 
         <li value="4" id="GROWing">the PLANT is SLOWly GROWing TALler.</li>
-        <li className="list-none margin-bottom-20">Cây đang từ từ cao lên.</li>
+        <li className="list-none margin-bottom-20">Things aren't moving as quickly as we'd hoped, but the plant is still growing taller.</li>
 
         <li value="5" id="CHAnging-due-to">the CLImate is SLOWly CHAnging due to GLObal WARMing.</li>
-        <li className="list-none margin-bottom-20">Khí hậu đang thay đổi từ từ do hiện tượng nóng lên toàn cầu.</li>
+        <li className="list-none margin-bottom-20">The climate is changing, and it's happening slowly. This is because of global warming.</li>
 
         <li value="6" id="MOving-across-the">the SNAIL was SLOWly MOving a<strong>cross</strong> the LEAF.</li>
-        <li className="list-none margin-bottom-20">Con ốc sên đang di chuyển chậm rãi trên chiếc lá.</li>
+        <li className="list-none margin-bottom-20">The snail was going slowly as it moved across the leaf.</li>
 
         <li value="7" id="DYing">the OLD TREE was SLOWly DYing.</li>
-        <li className="list-none margin-bottom-20">Cây cổ thụ đang từ từ chết dần.</li>
+        <li className="list-none margin-bottom-20">The tree was old and slowly dying.</li>
 
         <li value="8" id="SINKing-into-the">the SHIP was SLOWly SINKing <strong>in</strong>to the OCean.</li>
-        <li className="list-none margin-bottom-20">Con tàu đang từ từ chìm xuống đại dương.</li>
+        <li className="list-none margin-bottom-20">The ship was slowly going under the water.</li>
 
         <li value="9" id="apPROACHing">the STORM was SLOWly apPROACHing the COAST.</li>
-        <li className="list-none margin-bottom-20">Cơn bão đang từ từ tiến gần đến bờ biển.</li>
+        <li className="list-none margin-bottom-20">The storm was moving toward the coast, but it was going pretty slowly.</li>
 
         <li value="10" id="REalizing-the">she was SLOWly REalizing the TRUTH.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đang từ từ nhận ra sự thật.</li>
+        <li className="list-none margin-bottom-20">She was realizing the truth, but it was taking a while.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh ADjective từ và sự dần dần của một quá trình hoặc hành động. Chúng thường được sử dụng để mô tả những thay đổi nhỏ nhặt nhưng liên tục theo thời gian.</p>
+      <p>** The phrases above all emphasize adjectives and the gradual nature of a process or action. They are often used to describe small but continuous changes over time.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function SLOWly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>SLOWly</strong>" thường được đặt trước hành động để nhấn mạnh tốc độ của hành động.</li>
+          <li>"SLOWly" is often placed before an action to emphasize the speed of that action.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ việc mô tả chuyển động của vật thể đến việc diễn tả quá trình phát triển của một sự việc.</li>
+          <li className="margin-bottom-20">This word can be used in a variety of contexts, from describing the movement of an object to depicting the progression of an event.</li>
 
         </ul>
 

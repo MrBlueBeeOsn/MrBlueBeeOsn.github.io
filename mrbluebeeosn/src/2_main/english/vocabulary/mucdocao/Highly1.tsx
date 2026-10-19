@@ -220,7 +220,7 @@ export default function HIGHly1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word frequently in your writing or conversations.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
