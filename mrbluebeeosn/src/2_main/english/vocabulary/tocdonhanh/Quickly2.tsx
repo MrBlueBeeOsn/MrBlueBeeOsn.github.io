@@ -75,7 +75,7 @@ export default function QUICKly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>QUICKly</strong>" (nhanh chóng) và các cụm từ thường đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "QUICKly" (quickly) and the phrases that often go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function QUICKly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "một cách nhanh chóng", "một cách gấp rút". Từ này thường được dùng để mô tả hành động hoặc quá trình diễn ra trong một thời gian ngắn.
+            &nbsp;in English means "quickly" or "hastily." This word is often used to describe an action or process that takes place in a short period of time.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function QUICKly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="GROWing-and-exPANDing">the CIty is QUICKly GROWing and exPANDing.</li>
-        <li className="list-none margin-bottom-20">Thành phố đang phát triển và mở rộng một cách nhanh chóng.</li>
+        <li className="list-none margin-bottom-20">The city is getting bigger quickly.</li>
 
         <li value="2" id="FAded-behind-the">the SUN QUICKly FAded be<strong>hind</strong> the CLOUDS.</li>
-        <li className="list-none margin-bottom-20">Mặt trời nhanh chóng lặn sau những đám mây.</li>
+        <li className="list-none margin-bottom-20">The sun quickly went away and became covered by the clouds.</li>
 
         <li value="3" id="CHAnging">the FASHion INdustry is QUICKly CHAnging.</li>
-        <li className="list-none margin-bottom-20">Ngành công nghiệp thời trang đang thay đổi nhanh chóng.</li>
+        <li className="list-none margin-bottom-20">Things are changing very fast in the fashion industry.</li>
 
         <li value="4" id="REalized">i QUICKly REalized my misTAKE.</li>
-        <li className="list-none margin-bottom-20">Tôi nhanh chóng nhận ra sai lầm của mình.</li>
+        <li className="list-none margin-bottom-20">I realized my mistake right away.</li>
 
         <li value="5" id="forGOTten">the INcident was QUICKly forGOTten.</li>
-        <li className="list-none margin-bottom-20">Vụ việc đó đã nhanh chóng bị lãng quên.</li>
+        <li className="list-none margin-bottom-20">People quickly forgot about the incident.</li>
 
         <li value="6" id="SPREAD-throughout-the">the RUmor QUICKly SPREAD through<strong>out</strong> the SCHOOL.</li>
-        <li className="list-none margin-bottom-20">Tin đồn nhanh chóng lan truyền khắp trường.</li>
+        <li className="list-none margin-bottom-20">The rumor spread fast among the students at school.</li>
 
         <li value="7" id="SOLVED">the PROBlem was QUICKly SOLVED.</li>
-        <li className="list-none margin-bottom-20">Vấn đề đã được giải quyết nhanh chóng.</li>
+        <li className="list-none margin-bottom-20">We solved the problem quickly.</li>
 
         <li value="8" id="TIred"><strong>af</strong>ter a LONG DAY, i was QUICKly TIred.</li>
-        <li className="list-none margin-bottom-20">Sau một ngày dài, tôi nhanh chóng cảm thấy mệt mỏi.</li>
+        <li className="list-none margin-bottom-20">After a long day, I got tired really fast.</li>
 
         <li value="9" id="beCAME-with-the">she QUICKly beCAME BORED with the MOvie.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nhanh chóng cảm thấy chán bộ phim đó.</li>
+        <li className="list-none margin-bottom-20">She quickly started to lose interest in the movie.</li>
 
         <li value="10" id="EATen-by-the">the CAKE was QUICKly EATen by the CHILDren.</li>
-        <li className="list-none margin-bottom-20">Chiếc bánh đã nhanh chóng bị lũ trẻ ăn hết.</li>
+        <li className="list-none margin-bottom-20">The kids ate the cake quickly.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh tốc độ của một hành động hoặc quá trình. Chúng thường được dùng để mô tả những sự việc diễn ra một cách bất ngờ, đột ngột hoặc nhanh chóng.</p>
+      <p>** The phrases above are all used to emphasize the speed of an action or process. They are often used to describe events that occur unexpectedly, suddenly, or quickly.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function QUICKly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>QUICKly</strong>" thường được đặt trước hành động để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"QUICKly" is often placed before an action to emphasize its meaning.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết và văn nói để mô tả sự thay đổi, sự phát triển hoặc sự kết thúc của một sự việc.</li>
+          <li className="margin-bottom-20">This word is commonly used in both written and spoken language to describe a change, a development, or the conclusion of an event.</li>
 
         </ul>
 

@@ -63,7 +63,7 @@ export default function QUICKly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>QUICKly</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "QUICKly."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -81,7 +81,7 @@ export default function QUICKly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Nhanh chóng</li>
+            <li>Quickly</li>
 
           </ul>
 
@@ -93,17 +93,17 @@ export default function QUICKly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>QUICKly</strong>" được dùng để mô tả một hành động được thực hiện trong một khoảng thời gian ngắn, nhanh chóng. Nó thể hiện sự gấp rút, tốc độ và sự hiệu quả trong việc hoàn thành một việc gì đó.</p>
+      <p className="margin-top-30 text-indent-whole">The word "QUICKly" is used to describe an action performed in a short amount of time, quickly. It conveys a sense of urgency, speed, and efficiency in completing a task.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she RAN QUICKly to CATCH the BUS.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy chạy nhanh để bắt kịp xe buýt.</li>
+          <li className="margin-bottom-20 list-none">She hurried to catch the bus.</li>
 
           <li>PLEASE rePLY to the Email as QUICKly as POSsible.</li>
-          <li className="list-none">Xin vui lòng trả lời email này càng sớm càng tốt.</li>
+          <li className="list-none">Please reply to the email as soon as you can.</li>
 
         </ul>
 
@@ -120,10 +120,10 @@ export default function QUICKly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is a QUICK LEARNer.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy là người học rất nhanh.</li>
+          <li className="margin-bottom-20 list-none">He learns new things easily.</li>
 
           <li id="NOUN">his QUICKness imPRESSED <strong>ever</strong>yone.</li>
-          <li className="list-none">Sự nhanh nhẹn của anh ấy đã gây ấn tượng mạnh với mọi người.</li>
+          <li className="list-none">Everyone was impressed by how fast he was.</li>
 
         </ul>
 
@@ -140,10 +140,10 @@ export default function QUICKly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the diSEASE SPREAD <Link to="/vocabulary/RAPidly-1">RAPidly</Link>.</li>
-          <li className="margin-bottom-20 list-none">Bệnh lây lan rất nhanh.</li>
+          <li className="margin-bottom-20 list-none">The disease is spreading quickly.</li>
 
           <li>the BIRD FLEW SWIFTly through the AIR.</li>
-          <li className="list-none">Con chim bay lướt nhanh qua không trung.</li>
+          <li className="list-none">The bird moved quickly through the sky.</li>
 
         </ul>
 
@@ -162,10 +162,10 @@ export default function QUICKly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she WALKED <Link to="/vocabulary/SLOWly-1">SLOWly</Link> down the STREET.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đi bộ chậm rãi dọc theo con phố.</li>
+          <li className="margin-bottom-20 list-none">She strolled down the street at a leisurely pace.</li>
 
           <li>the PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link> TALLer.</li>
-          <li className="list-none">Cây dần dần trở nên cao hơn.</li>
+          <li className="list-none">The plant grew taller little by little.</li>
 
         </ul>
       
@@ -186,12 +186,12 @@ export default function QUICKly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một con thỏ đang chạy rất nhanh.</p>
+      <p className="text-indent-whole">Imagine a rabbit running very fast.</p>
 
         <ul className="list-square">
 
           <li>the RABbit is RUNning VERy QUICKly.</li>
-          <li className="list-none">Con thỏ đang chạy rất nhanh.</li>
+          <li className="list-none">The rabbit is moving at full speed.</li>
 
         </ul>
 
@@ -206,12 +206,12 @@ export default function QUICKly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>QUICKly</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Create various example sentences using the word "QUICKly" in different contexts.</p>
 
         <ul className="list-square">
 
           <li>PLEASE reSPOND to my MESsage QUICKly.</li>
-          <li className="list-none">Xin hãy trả lời tin nhắn của tôi ngay lập tức.</li>
+          <li className="list-none">Please respond to my message as quickly as possible.</li>
 
         </ul>
 
@@ -226,23 +226,23 @@ export default function QUICKly1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word regularly in conversations and writing.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">he FINished the TASK.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành nhiệm vụ.</li>
+            <li className="list-none margin-bottom-20">He completed the task.</li>
 
             <li value="2">he QUICKly FINished the TASK.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã nhanh chóng hoàn thành công việc.</li>
+            <li className="list-none margin-bottom-20">He completed the task quickly.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>QUICKly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng việc <span className="highlight-255-padding-0-4">hoàn thành</span> công việc diễn ra <span className="highlight-255-padding-0-4">trong một khoảng thời gian ngắn</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "QUICKly" to <span className="highlight-255-padding-0-4">emphasize</span> that the task was <span className="highlight-255-padding-0-4">completed in a short amount of time</span>.</p>
 
       </div>
 
@@ -258,9 +258,9 @@ export default function QUICKly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tốc độ: "<strong>QUICKly</strong>" nhấn mạnh tốc độ và sự nhanh chóng của một hành động.</li>
+          <li>Speed: "QUICKly" emphasizes the speed and swiftness of an action.</li>
 
-          <li className="margin-bottom-20">Đối lập với chậm: Nó thường được dùng để đối lập với các trạng thái chậm chạp, từ từ.</li>
+          <li className="margin-bottom-20">Opposite of slow: It is often used to contrast with states of slowness or deliberateness.</li>
 
         </ul>
 
