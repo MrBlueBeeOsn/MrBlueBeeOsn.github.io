@@ -67,7 +67,7 @@ export default function GRADually1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>GRADually</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "GRADually."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -83,7 +83,7 @@ export default function GRADually1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Dần dần</li>
+            <li>Gradually</li>
 
           </ul>
 
@@ -95,17 +95,17 @@ export default function GRADually1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>GRADually</strong>" dùng để miêu tả một quá trình diễn ra dần dần, chậm rãi, từng bước một, không đột ngột.</p>
+      <p className="margin-top-30 text-indent-whole">The word "GRADually" is used to describe a process that takes place gradually, slowly, step by step, and not suddenly.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">the SUN GRADually ROSE <strong>o</strong>ver the hoRIzon.</li>
-          <li className="margin-bottom-20 list-none">Mặt trời từ từ mọc lên phía chân trời.</li>
+          <li className="margin-bottom-20 list-none">Slowly, the sun started appearing over the horizon.</li>
 
           <li>her HEALTH is GRADually imPROVing.</li>
-          <li className="list-none">Sức khỏe của cô ấy đang dần dần được cải thiện.</li>
+          <li className="list-none">She is slowly becoming healthier.</li>
 
         </ul>
 
@@ -122,13 +122,13 @@ export default function GRADually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">there was a GRADual inCREASE in TEMPERature.</li>
-          <li className="margin-bottom-20 list-none">Nhiệt độ đã tăng dần dần.</li>
+          <li className="margin-bottom-20 list-none">The temperature increased by a small amount.</li>
 
           <li id="VERB">the TEAcher GRADed the STUdents' ESsays.</li>
-          <li className="margin-bottom-20 list-none">Giáo viên đã chấm điểm các bài luận của học sinh.</li>
+          <li className="margin-bottom-20 list-none">The teachers reviewed the students' essays and gave them a grade.</li>
 
           <li id="NOUN">she is in the FIFTH GRADE.</li>
-          <li className="list-none">Cô ấy đang học lớp 5.</li>
+          <li className="list-none">She is in the fifth grade, which is the last year of elementary school before middle school.</li>
 
         </ul>
 
@@ -145,13 +145,13 @@ export default function GRADually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the CLOCK <Link to="/vocabulary/SLOWly-1">SLOWly</Link> TICKED.</li>
-          <li className="margin-bottom-20 list-none">Chiếc đồng hồ kêu tích tắc một cách chậm rãi.</li>
+          <li className="margin-bottom-20 list-none">The clock moved very slowly.</li>
 
           <li>the popuLAtion is <Link to="/vocabulary/STEADily-1">STEADily</Link> inCREAsing.</li>
-          <li className="margin-bottom-20 list-none">Dân số đang tăng đều đặn.</li>
+          <li className="margin-bottom-20 list-none">The number of people in the area is getting larger all the time.</li>
 
           <li>the diSEASE was deVELoping proGRESSively.</li>
-          <li className="list-none">Bệnh đang tiến triển dần dần.</li>
+          <li className="list-none">The disease was getting worse over time.</li>
 
         </ul>
 
@@ -170,13 +170,13 @@ export default function GRADually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the LIGHTS <Link to="/vocabulary/SUDdenly-1">SUDdenly</Link> wenT OUT.</li>
-          <li className="margin-bottom-20 list-none">Đèn đột nhiên tức thì tắt.</li>
+          <li className="margin-bottom-20 list-none">Out of the sudden, the lights went off.</li>
 
           <li>the MEEting ENDed abRUPTly.</li>
-          <li className="margin-bottom-20 list-none">Cuộc họp kết thúc đột ngột.</li>
+          <li className="margin-bottom-20 list-none">The meeting ended all of a sudden.</li>
 
           <li>the CAR acCELerated <Link to="/vocabulary/RAPidly-1">RAPidly</Link>.</li>
-          <li className="list-none">Chiếc xe tăng tốc rất nhanh.</li>
+          <li className="list-none">The car sped up quickly.</li>
 
         </ul>
       
@@ -197,15 +197,15 @@ export default function GRADually1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một cây xanh lớn dần theo thời gian hoặc một người đang học một kỹ năng mới và ngày càng thành thạo hơn.</p>
+      <p className="text-indent-whole">Imagine a tree growing over time, or a person learning a new skill and becoming more and more proficient at it.</p>
 
         <ul className="list-square">
 
           <li>the TREE GREW GRADually <strong>o</strong>ver the YEARS.</li>
-          <li className="margin-bottom-20 list-none">Cây đã lớn lên dần dần theo thời gian.</li>
+          <li className="margin-bottom-20 list-none">The tree grew slowly over time.</li>
 
           <li>she GRADually beCAME MORE proFIcient in the NEW SKILL.</li>
-          <li className="list-none">Cô ấy dần dần trở nên thành thạo hơn trong kỹ năng mới này.</li>
+          <li className="list-none">She slowly became better at the new skill.</li>
 
         </ul>
 
@@ -220,12 +220,12 @@ export default function GRADually1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>GRADually</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Create your own example sentences using the word "GRADually" in various contexts.</p>
 
         <ul className="list-square">
 
           <li>the WEATHer is GRADually GETting WARMer.</li>
-          <li className="list-none">Thời tiết đang dần trở nên ấm hơn.</li>
+          <li className="list-none">It's getting warmer, bit by bit.</li>
 
         </ul>
 
@@ -240,23 +240,23 @@ export default function GRADually1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này khi nói về những thay đổi chậm chạp và tiến triển.</p>
+      <p className="text-indent-whole margin-bottom-20">This word is often used when talking about slow changes and progress.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">the PLANT GREW <Link to="/vocabulary/QUICKly-1">QUICKly</Link>.</li>
-            <li className="list-none margin-bottom-20">Cây đó lớn lên rất nhanh.</li>
+            <li className="list-none margin-bottom-20">The plant grew really fast.</li>
 
             <li value="2">the PLANT GREW GRADually <strong>o</strong>ver the SUMmer.</li>
-            <li className="list-none margin-bottom-20">Cây đã lớn lên từ từ trong suốt mùa hè.</li>
+            <li className="list-none margin-bottom-20">The plant grew over the summer, but not all at once; it grew slowly, little by little.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>GRADually</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng quá trình <span className="highlight-255-padding-0-4">lớn lên</span> của cây diễn ra <span className="highlight-255-padding-0-4">từ từ</span>, theo từng giai đoạn, trong một khoảng thời gian dài (suốt mùa hè).</p>
+        <p className="margin-y-10">The difference: The second sentence uses "GRADually" to <span className="highlight-255-padding-0-4">emphasize</span> that the tree's growth occurs <span className="highlight-255-padding-0-4">slowly</span>, in stages, over a long period of time (throughout the summer).</p>
 
       </div>
 
@@ -272,9 +272,9 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Đối lập với đột ngột: "<strong>GRADually</strong>" thường được dùng để đối lập với "<Link to="/vocabulary/SUDdenly-1">SUDdenly</Link>" để nhấn mạnh sự thay đổi chậm chạp.</li>
+          <li>Contrast with "suddenly": "GRADually" is often used in contrast to "<Link to="/vocabulary/SUDdenly-1">SUDdenly</Link>" to emphasize a gradual change.</li>
 
-          <li className="margin-bottom-20">Miêu tả quá trình: Từ này thường được dùng để miêu tả một quá trình diễn ra trong một khoảng thời gian dài.</li>
+          <li className="margin-bottom-20">Describing a process: This word is often used to describe a process that takes place over a long period of time.</li>
 
         </ul>
 

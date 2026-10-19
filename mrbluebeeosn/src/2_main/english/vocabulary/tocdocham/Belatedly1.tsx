@@ -59,7 +59,7 @@ export default function beLAtedly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>beLAtedly</strong>" nhé.</p>
+      <p>Great! Let's explore the word "beLAtedly" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function beLAtedly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Muộn màng</li>
+            <li>Too Late</li>
 
           </ul>
 
@@ -87,20 +87,20 @@ export default function beLAtedly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>beLAtedly</strong>" miêu tả một hành động hoặc sự kiện xảy ra muộn hơn so với thời điểm dự kiến hoặc mong đợi. Nó thường gợi lên cảm giác hối tiếc hoặc nhận ra điều gì đó quá muộn.</p>
+      <p className="margin-top-30 text-indent-whole">The word "beLAtedly" describes an action or event that occurs later than expected or anticipated. It often evokes a sense of regret or the realization that something was recognized too late.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">he beLAtedly REalized his misTAKE.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã nhận ra sai lầm của mình quá muộn.</li>
+          <li className="margin-bottom-20 list-none">He realized he had made a mistake at a later point.</li>
 
           <li>the BIRTHday CARD arRIVED beLAtedly.</li>
-          <li className="margin-bottom-20 list-none">Thiệp sinh nhật đã đến muộn.</li>
+          <li className="margin-bottom-20 list-none">The birthday card didn't arrive until after the due date.</li>
 
           <li>she beLAtedly aPOLogized for her beHAVior.</li>
-          <li className="list-none">Cô ấy đã muộn màng xin lỗi về hành vi của mình.</li>
+          <li className="list-none">She apologized for her behavior, but only after it was too late.</li>
 
         </ul>
 
@@ -117,10 +117,10 @@ export default function beLAtedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he OFfered a beLAted aPOLogy.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã gửi lời xin lỗi muộn màng.</li>
+          <li className="margin-bottom-20 list-none">He apologized, but only after the fact.</li>
 
           <li>we reCEIVED a beLAted inviTAtion.</li>
-          <li className="list-none">Chúng tôi đã nhận được một lời mời muộn màng.</li>
+          <li className="list-none">We got an invitation late.</li>
 
         </ul>
 
@@ -137,16 +137,16 @@ export default function beLAtedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he arRIVED LATE for the MEEting.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đến muộn trong cuộc họp.</li>
+          <li className="margin-bottom-20 list-none">He didn't arrive on time for the meeting.</li>
 
           <li>the TRAIN arRIVED TARdily.</li>
-          <li className="margin-bottom-20 list-none">Chuyến tàu đến muộn.</li>
+          <li className="margin-bottom-20 list-none">The train didn't arrive when it was supposed to.</li>
 
           <li>the PROJect is RUNning beHIND SCHEDule.</li>
-          <li className="margin-bottom-20 list-none">Dự án đang bị chậm tiến độ.</li>
+          <li className="margin-bottom-20 list-none">The project isn't on schedule.</li>
 
           <li>it was TOO LATE to aPOLogize.</li>
-          <li className="list-none">Đã quá muộn để xin lỗi rồi.</li>
+          <li className="list-none">There was no time left to apologize.</li>
 
         </ul>
 
@@ -165,16 +165,16 @@ export default function beLAtedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he arRIVED EARly for the apPOINTment.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đến sớm hơn giờ hẹn.</li>
+          <li className="margin-bottom-20 list-none">He got there before the agreed-upon time.</li>
 
           <li>she rePLIED PROMPTly to the EMail.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã trả lời email ngay lập tức.</li>
+          <li className="margin-bottom-20 list-none">She quickly replied to the email.</li>
 
           <li>the MEEting STARTed PUNCtually.</li>
-          <li className="margin-bottom-20 list-none">Cuộc họp bắt đầu đúng giờ.</li>
+          <li className="margin-bottom-20 list-none">The meeting started right on time.</li>
 
           <li>PLEASE rePORT any ISsues imMEdiately.</li>
-          <li className="list-none">Xin vui lòng báo cáo ngay lập tức bất kỳ sự cố nào.</li>
+          <li className="list-none">If you see an issue, please let us know right away.</li>
 
         </ul>
       
@@ -195,18 +195,18 @@ export default function beLAtedly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một món quà sinh nhật đến sau ngày sinh, một người nhận ra lỗi lầm sau khi gây ra hậu quả, hoặc một lời xin lỗi được đưa ra quá muộn để hàn gắn mối quan hệ.</p>
+      <p className="text-indent-whole">Imagine a birthday gift that arrives after the birthday, someone who realizes their mistake only after the damage has been done, or an apology offered too late to mend a relationship.</p>
 
         <ul className="list-square">
 
           <li>the BIRTHday GIFT arRIVED beLAtedly.</li>
-          <li className="margin-bottom-20 list-none">Món quà sinh nhật đã đến muộn.</li>
+          <li className="margin-bottom-20 list-none">The birthday gift didn't arrive until it was late.</li>
 
           <li>he beLAtedly REalized his misTAKE <strong>af</strong>ter the CONsequences.</li>
-          <li className="margin-bottom-20 list-none">Anh ta chỉ nhận ra sai lầm của mình quá muộn, sau khi hậu quả đã xảy ra.</li>
+          <li className="margin-bottom-20 list-none">He realized his mistake after he saw the consequences.</li>
 
           <li>the aPOLogy was OFfered beLAtedly to MEND the reLAtionship.</li>
-          <li className="list-none">Lời xin lỗi đã được đưa ra muộn màng nhằm hàn gắn mối quan hệ.</li>
+          <li className="list-none">Apologies were offered to try to fix the broken relationship after the fact.</li>
 
         </ul>
 
@@ -221,12 +221,12 @@ export default function beLAtedly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến những tình huống bạn hoặc người khác hành động hoặc nhận ra điều gì đó muộn màng.</p>
+      <p className="text-indent-whole">Create sentences related to situations in which you or someone else acts or realizes something too late.</p>
 
         <ul className="list-square">
 
           <li>the FIRE dePARTment arRIVED beLAtedly at the SCENE.</li>
-          <li className="list-none">Lực lượng cứu hỏa đã đến hiện trường muộn.</li>
+          <li className="list-none">The firefighters showed up late to the scene.</li>
 
         </ul>
 
@@ -241,39 +241,39 @@ export default function beLAtedly1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Chú ý đến những tình huống có sự chậm trễ và cố gắng sử dụng từ này để mô tả chúng.</p>
+      <p className="text-indent-whole margin-bottom-20">Pay attention to situations involving delays and try to use this word to describe them.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">he REalized his misTAKE.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã nhận ra sai lầm của mình.</li>
+            <li className="list-none margin-bottom-20">He understood that he had made a mistake.</li>
 
             <li value="2">he beLAtedly REalized his misTAKE.</li>
-            <li className="list-none margin-bottom-20">Anh ta đã nhận ra sai lầm của mình quá muộn.</li>
+            <li className="list-none margin-bottom-20">It was only then that he realized he had made a mistake.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai ngụ ý rằng anh ấy <span className="highlight-255-padding-0-4">đã mất một khoảng thời gian để nhận ra sai lầm</span>, và có lẽ đã có những hậu quả xảy ra trước khi anh ấy nhận ra.</p>
+        <p className="margin-y-10">The difference: The second sentence implies that it <span className="highlight-255-padding-0-4">took him some time to realize his mistake</span>, and that there may have been consequences before he realized it.</p>
 
       </div>
 
          <ol>
 
             <li>the BIRTHday CARD arRIVED.</li>
-            <li className="list-none margin-bottom-20">Thiệp sinh nhật đã đến rồi.</li>
+            <li className="list-none margin-bottom-20">The birthday card has been delivered.</li>
 
             <li value="2">the BIRTHday CARD arRIVED beLAtedly.</li>
-            <li className="list-none margin-bottom-20">Thiệp sinh nhật đã đến muộn.</li>
+            <li className="list-none margin-bottom-20">The birthday card didn't arrive until after the birthday was over.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">chỉ rõ</span> rằng tấm thiệp <span className="highlight-255-padding-0-4">không đến đúng</span> vào ngày sinh nhật.</p>
+        <p className="margin-y-10">The difference: The second sentence makes it clear that the card <span className="highlight-255-padding-0-4">did not arrive on the birthday itself</span>.</p>
 
       </div>
 
@@ -289,9 +289,9 @@ export default function beLAtedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự chậm trễ so với thời điểm mong đợi: "<strong>beLAtedly</strong>" thường mang ý rằng điều gì đó đáng lẽ nên xảy ra sớm hơn.</li>
+          <li>Emphasizes a delay compared to what was expected: "beLAtedly" often implies that something should have happened sooner.</li>
 
-          <li className="margin-bottom-20">Có thể đi kèm với cảm giác hối tiếc hoặc nhận ra muộn: Khi một người nhận ra sai lầm hoặc đưa ra lời xin lỗi "<strong>beLAtedly</strong>", nó thường ngụ ý rằng họ ước đã hành động sớm hơn.</li>
+          <li className="margin-bottom-20">It can be accompanied by a sense of regret or belated realization: When someone realizes a mistake or offers an apology "beLAtedly," it often implies that they wish they had acted sooner.</li>
 
         </ul>
 
