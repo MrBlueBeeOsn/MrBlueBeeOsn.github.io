@@ -75,7 +75,7 @@ export default function INstantly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>INstantly</strong>" (ngay lập tức) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “instantly” and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function INstantly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "ngay lập tức", "tức thì", thường được dùng để mô tả một hành động hoặc sự kiện xảy ra rất nhanh, không có sự trì hoãn.
+            &nbsp;in English means "immediately" or "instantly" and is often used to describe an action or event that occurs very quickly, without delay.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function INstantly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="RECognizable-around-the">the EIffel TOWer is INstantly RECognizable a<strong>round</strong> the WORLD.</li>
-        <li className="list-none margin-bottom-20">Tháp Eiffel là biểu tượng dễ nhận ra ngay lập tức trên toàn thế giới.</li>
+        <li className="list-none margin-bottom-20">The Eiffel Tower is a world-famous symbol of France that is easily recognized everywhere.</li>
 
-        <li value="2" id="adDICTive">THIS GAME is so much FUN, it's INstantly adDICTive.</li>
-        <li className="list-none margin-bottom-20">Trò chơi này thật sự rất vui, khiến người chơi ngay lập tức bị cuốn hút.</li>
+        <li value="2" id="adDICTive">this GAME is so much FUN, it's INstantly adDICTive.</li>
+        <li className="list-none margin-bottom-20">This game is so much fun. It'll quickly become your new favorite.</li>
 
         <li value="3" id="CLASsic">the NEW SONG beCAME an INstantly CLASsic HIT.</li>
-        <li className="list-none margin-bottom-20">Bài hát mới này đã trở thành một bản hit kinh điển ngay lập tức.</li>
+        <li className="list-none margin-bottom-20">The song was an immediate success, becoming a classic.</li>
 
         <li value="4" id="RECognizable2">i KNEW it was her INstantly RECognizable VOICE.</li>
-        <li className="list-none margin-bottom-20">Tôi biết ngay đó chính là giọng nói của cô ấy, một giọng nói dễ nhận ra ngay lập tức.</li>
+        <li className="list-none margin-bottom-20">I knew it was her voice right away because I could tell it was the same as I remembered.</li>
 
         <li value="5" id="reGRETful">as <strong>soon</strong> as i SAID it, i FELT INstantly reGRETful.</li>
-        <li className="list-none margin-bottom-20">Ngay khi tôi vừa nói ra, tôi đã cảm thấy hối hận ngay lập tức.</li>
+        <li className="list-none margin-bottom-20">I immediately felt regret when I said it.</li>
 
         <li value="6" id="reLIEVED-when">i FELT INstantly reLIEVED when i HEARD the GOOD NEWS.</li>
-        <li className="list-none margin-bottom-20">Tôi cảm thấy nhẹ nhõm ngay lập tức khi nghe tin vui.</li>
+        <li className="list-none margin-bottom-20">I felt a lot better as soon as I heard the good news.</li>
 
         <li value="7" id="FAmous">the VIdeo WENT VIral and she beCAME INstantly FAmous.</li>
-        <li className="list-none margin-bottom-20">Đoạn video đã trở nên viral và cô ấy bỗng chốc trở nên nổi tiếng.</li>
+        <li className="list-none margin-bottom-20">The video spread quickly and made her famous right away.</li>
 
         <li value="8" id="RECognizable3">the NIke SWOOSH is an INstantly RECognizable LOgo.</li>
-        <li className="list-none margin-bottom-20">Logo SWOOSH của Nike là một biểu tượng có thể nhận ra ngay lập tức.</li>
+        <li className="list-none margin-bottom-20">The Nike swoosh is a logo that many people recognize immediately.</li>
 
         <li value="9" id="forGOTten">as <strong>soon</strong> as i LEFT the ROOM, his NAME was INstantly forGOTten.</li>
-        <li className="list-none margin-bottom-20">Ngay khi tôi bước ra khỏi phòng, tôi đã quên tên anh ấy ngay lập tức.</li>
+        <li className="list-none margin-bottom-20">No one remembered his name as soon as I left the room.</li>
 
         <li value="10" id="conNECTed-when">we INstantly conNECTed when we FIRST MET.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi đã ngay lập tức cảm thấy có sự kết nối ngay từ lần đầu tiên gặp nhau.</li>
+        <li className="list-none margin-bottom-20">We were immediately attracted to each other when we first met.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính tức thời, nhanh chóng và không có sự trì hoãn của một hành động, sự kiện hoặc cảm xúc. Chúng thường được sử dụng để tạo nên những hình ảnh sinh động và ấn tượng.</p>
+      <p>** All of the above phrases emphasize the immediacy, speed, and lack of delay in an action, event, or emotion. They are often used to create vivid and memorable imagery.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function INstantly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>INstantly</strong>" thường được đặt trước ADjective hoặc phân từ quá khứ để nhấn mạnh ý nghĩa.</li>
+          <li>"Instantly" is often placed before an adjective or a past participle to emphasize the meaning.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói hoặc văn viết không chính thức để tạo ra hiệu ứng mạnh mẽ.</li>
+          <li className="margin-bottom-20">This word is commonly used in spoken or informal written language to create a strong effect.</li>
 
         </ul>
 

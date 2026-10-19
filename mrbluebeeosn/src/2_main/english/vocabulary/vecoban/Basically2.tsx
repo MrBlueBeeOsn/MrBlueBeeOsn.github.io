@@ -89,7 +89,7 @@ export default function BAsically2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;In English, this means “basically” or “simply put” and is used to emphasize the main point or core idea of an issue.
+            &nbsp;in English, this means “basically” or “simply put” and is used to emphasize the main point or core idea of an issue.
 
           </p>
 

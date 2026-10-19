@@ -224,7 +224,7 @@ export default function parTICularly1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word regularly in conversations or in writing.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
