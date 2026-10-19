@@ -302,112 +302,119 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 			</div>
 
-			<h4 className="margin-y-40">To-V: FORward-looking (Hướng về tương lai)</h4>
+			<h4 className="margin-y-40">To-V: FORward-looking</h4>
 
-			<p className="text-indent-whole">To-V (FORward): Hướng tới một hành động chưa xảy ra, một dự định hoặc mục tiêu.</p>
+			<p className="text-indent-whole">Looking toward the future</p>
+
+			<p className="margin-bottom-20 text-indent-whole">To-V (FORward): Referring to an action that has not yet occurred, an intention, or a goal.</p>
 			
 				<ul className="list-square">
 			
-					<li id="to-LOCK">i reMEMber [to LOCK] the DOOR.</li>
-					<li className="list-none">Tôi nhớ [phải khóa] cửa — hành động khóa cửa chưa diễn ra, bạn nhớ để chuẩn bị làm nó</li>
+					<li id="to-LOCK">i reMEMber to LOCK the DOOR.</li>
+					<li className="list-none">I remember making sure the door was locked.</li>
+					<li className="list-none">The door hasn't been locked yet; please remember to do so.</li>
 			
 				</ul>
 			
 
-			<h4 className="margin-y-40">V-ing: BACKward-looking (Hướng về quá khứ/Hiện tại)</h4>
+			<h4 className="margin-y-40">V-ing: BACKward-looking</h4>
 					
-			<p className="margin-top-20 text-indent-whole">V-ing (BACKward/in PROGress): Hướng về một trải nghiệm đã qua hoặc đang diễn ra.</p>
+			<p className="text-indent-whole">Focusing on the past/present</p>
+			
+			<p className="margin-bottom-20 text-indent-whole">Refers to an experience that has already occurred or is currently taking place.</p>
 			
 				<ul className="list-square">
 			
-					<li id="LOCKing">i reMEMber [LOCKing] the DOOR.</li>
-					<li className="margin-bottom-20 list-none">Tôi nhớ [là đã khóa] cửa rồi — hành động khóa cửa đã làm xong trong quá khứ.</li>
+					<li id="LOCKing">i reMEMber LOCKing the DOOR.</li>
+					<li className="list-none">I remember putting the door on lock.</li>
+					<li className="margin-bottom-20 list-none">The action of locking the door was completed in the past.</li>
 			
 				</ul>
 			
 
-			<h4 className="margin-y-40">Vai trò Chủ (Subject) và Tân (Object)</h4>
+			<h4 className="margin-y-40">The Roles of Subject and Object</h4>
 			
-			<p className="text-indent-whole">Làm chủ (Subject): Gerund (V-ing) được dùng phổ biến và tự nhiên hơn rất nhiều so với To-V khi đứng đầu câu làm chủ.</p>
+			<p className="text-indent-whole">Main Clause (Subject): The gerund (V-ing) is used much more commonly and naturally than "To-V" when it functions as the subject at the beginning of a sentence.</p>
 
 			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li id="SWIMming">[SWIMming] is a GREAT EXercise.</li>
-					<li className="list-none">[Việc bơi lội] là một bài tập thể dục tuyệt vời.</li>
-					<li className="margin-bottom-20 list-none">Tự nhiên</li>
+					<li id="SWIMming">SWIMming is a GREAT EXercise.</li>
+					<li className="list-none">SWIMming is a great way to exercise.</li>
+					<li className="margin-bottom-20 list-none">Nature</li>
 			
-					<li id="to-SWIM">[to SWIM] is a GREAT EXercise.</li>
-					<li className="list-none">[Để bơi được] là một bài tập thể dục tuyệt vời.</li>
-					<li className="list-none">Trang trọng/Thơ văn (ít dùng)</li>
+					<li id="to-SWIM">to SWIM is a GREAT EXercise.</li>
+					<li className="list-none">Swimming is a great form of exercise!</li>
+					<li className="list-none">Formal/Literary (rarely used)</li>
 			
 				</ul>
 
 		
-			<p className="margin-top-20 text-indent-whole">Sau giới từ: Chỉ có Gerund (V-ing) mới được đứng ngay sau các giới từ (in, on, at, about, for, of,...).</p>
+			<p className="margin-top-20 text-indent-whole">After prepositions: Only gerunds (V-ing) can come immediately after prepositions (in, on, at, about, for, of, etc.).</p>
 
 				<ul className="list-square">
 			
-					<li id="DRAWing">she is GOOD at [DRAWing].</li>
-					<li className="margin-bottom-20 list-none">Cô ấy giỏi việc vẽ tranh.</li>
+					<li id="DRAWing">she is GOOD at DRAWing.</li>
+					<li className="margin-bottom-20 list-none">She has a talent for drawing.</li>
 
-					<li>Không dùng good at to DRAW</li>
+					<li>Do not use "good at to DRAW"</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-30 text-center">“Kẻ thù” lớn nhất của người học tiếng Anh… nhưng thực ra rất dễ thương nếu bạn hiểu đúng cách</h4>
+			<h4 className="margin-y-30 text-center">The biggest “enemy” of English learners… but it’s actually quite endearing if you understand it the right way</h4>
 
-			<p className="margin-top-20">Bạn đã bao giờ cảm thấy hoang mang khi đứng trước những câu như:</p>
+			<p className="margin-top-20 text-indent-whole">Have you ever felt confused when faced with sentences like:</p>
 
-			<h4 className="margin-y-40" id="enJOY">enJOY</h4>
+			<h4 className="margin-y-40 text-indent-whole" id="enJOY">enJOY</h4>
 			
 				<ul className="list-square">
 			
-					<li>i <strong>enJOY</strong> SWIMming. → đúng</li>
-					<li className="list-none">Tôi thích bơi lội. (⏳ Thời Gian Hành Động ở Hiện Tại Đơn)</li>
-					<li className="margin-bottom-20 list-none">Từ enJOY thường được theo sau bởi một từ chỉ hành động được thêm đuôi -ing (cụ thể ở đây là SWIMming) để diễn tả một sở thích hoặc niềm vui chung chung ở hiện tại.</li>
+					<li>i <strong>enJOY</strong> SWIMming. → correct</li>
+					<li className="list-none">I love swimming.</li>
+					<li className="list-none">⏳ Action Time in the Simple Present Tense</li>
+					<li className="margin-bottom-20 list-none">The word "enJOY" is often followed by a verb with the -ing ending (specifically, "SWIMming" in this case) to express a general hobby or pleasure in the present.</li>
 			
-					<li>i <strong>enJOY</strong> to SWIM. → sai</li>
+					<li>i <strong>enJOY</strong> to SWIM. → wrong</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40" id="WANT">WANT</h4>
+			<h4 className="margin-y-40 text-indent-whole" id="WANT">WANT</h4>
 			
 				<ul className="list-square">
 			
-					<li>i <strong>WANT</strong> to GO. → đúng</li>
-					<li className="list-none">Tôi muốn đi. (⏳ Thời Gian Hành Động ở Hiện Tại Đơn)</li>
-					<li className="margin-bottom-20 list-none">Từ WANT dùng để diễn tả mong muốn ở hiện tại, và nó được nối tiếp ngay bằng một từ chỉ hành động có chữ to đi kèm ở phía trước (to GO).</li>
+					<li>i <strong>WANT</strong> to GO. → correct</li>
+					<li className="list-none">I want to go there.</li>
+					<li className="list-none">⏳ Action Time in the Simple Present Tense</li>
+					<li className="margin-bottom-20 list-none">The word "WANT" is used to express a desire in the present, and it is immediately followed by an action verb preceded by "to" (e.g., "to GO").</li>
 
-					<li>i <strong>WANT</strong> GOing → sai kinh khủng</li>
+					<li>i <strong>WANT</strong> GOing → horribly wrong</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">Rồi đột nhiên lại gặp những câu "phản bội" kiểu:</p>
+			<p className="margin-top-20 text-indent-whole">Then, all of a sudden, I come across "betrayal" lines like:</p>
 
-			<h4 className="margin-y-40" id="STOP">STOP</h4>
-			
+			<h4 className="margin-y-40 text-indent-whole" id="STOP">STOP</h4>
 				<ul className="list-square">
 			
 					<li>i <strong>STOPPED</strong> SMOKing.</li>
-					<li className="list-none">Tôi <strong>đã bỏ hút thuốc</strong> (rồi). (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
-					<li className="margin-bottom-20 list-none">Cấu trúc stop đi kèm với từ chỉ hành động có đuôi -ing (SMOKing) mang ý nghĩa là ngừng hẳn hoặc từ bỏ một thói quen (tôi đã từng hút thuốc và bây giờ không làm việc đó nữa).</li>
+					<li className="list-none">I gave up smoking.</li>
+					<li className="margin-bottom-20 list-none">The "stop" structure, when used with an action verb ending in -ing (SMOKing), means to stop completely or to give up a habit (I used to smoke, but I don't do that anymore).</li>
 			
 					<li>i <strong>STOPPED</strong> to SMOKE.</li>
-					<li className="list-none">Tôi đã dừng lại để hút thuốc. (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
-					<li className="margin-bottom-20 list-none">Cấu trúc stop đi kèm với từ chỉ hành động có chữ to ở trước (to SMOKE) mang ý nghĩa là tạm dừng một việc đang làm lại để chuyển sang thực hiện một việc khác (ví dụ: đang đi dọc đường thì dừng chân lại để hút thuốc).</li>
+					<li className="list-none">I quit smoking.</li>
+					<li className="margin-bottom-20 list-none">The "stop" structure, when used with an action verb preceded by "to" (e.g., "to SMOKE"), means to temporarily pause what you are doing in order to switch to doing something else (for example, stopping to smoke while walking down the street).</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Hai cấu trúc này khiến hàng triệu người học tiếng Anh phát điên. Nhưng nếu bạn hiểu được "tâm lý" và "tính cách" của chúng, mọi thứ sẽ trở nên… đáng yêu hơn rất nhiều.</p>
+			<p className="margin-top-20 text-indent-whole">These two structures drive millions of English learners crazy. But if you understand their "psychology" and "personality," everything becomes… much more endearing.</p>
 
-			{/* II. Hai nhân vật chính và tính cách cơ bản */}
+			{/* II. The Two Main Characters and Their Basic Personalities */}
 
-			<h3 className="margin-y-50 text-center">I. Hai nhân vật chính và tính cách cơ bản</h3>
+			<h3 className="margin-y-50 text-center">I. The Two Main Characters and Their Basic Personalities</h3>
 
 
 			<h4 className="margin-y-40" id="SWIM">SWIM</h4>
@@ -415,50 +422,50 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>SWIMming</strong> in the COOL BLUE SEA on a HOT SUMmer MORNing MAKES me exTREMEly HAPpy.</li>
-					<li className="list-none"><strong>Bơi lội</strong> ở làn nước biển xanh mát vào một buổi sáng mùa hè nóng nực làm tôi vô cùng hạnh phúc.</li>
-					<li className="margin-bottom-20 list-none">Cụm SWIMming (việc bơi lội) đóng vai trò là chủ thể của câu, kết hợp với hành động MAKES và từ "me" làm danh nhận (đối tượng nhận tác động trở nên hạnh phúc).</li>
+					<li className="list-none">I am very happy when I swim in the cool blue sea on a hot summer morning.</li>
+					<li className="margin-bottom-20 list-none">The phrase "SWIMming" (the act of swimming) serves as the subject of the sentence, combined with the verb "MAKES" and the word "me" as the direct object (the recipient of the action that makes me happy).</li>
 			
 					<li>i <strong>WANT to SWIM</strong> in the NEWly Open inFINity POOL at the ROOFtop hoTEL this WEEKEND.</li>
-					<li className="list-none">Tôi <strong>muốn bơi</strong> ở bể bơi vô cực mới mở trên tầng thượng của khách sạn vào cuối tuần này.</li>
-					<li className="list-none">i là chủ thể, kết hợp với cấu trúc WANT to + hành động nguyên mẫu và cụm từ chỉ địa điểm đóng vai trò là danh nhận nơi chốn phía sau.</li>
+					<li className="list-none">I want to swim in the infinity pool at the hotel's rooftop this weekend. It just opened.</li>
+					<li className="list-none">"I" is the subject, combined with the structure "WANT to + verb in the infinitive" and a phrase indicating location, which functions as the object of place that follows.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20">Tóm tắt điểm khác biệt cấu trúc</p>
+			<p className="margin-top-20"><strong>Summary of Structural Differences</strong></p>
 			
 				<ul className="list-square">
 			
-					<li>Dạng V-ing làm chủ thể: Khi một hành động đứng ở đầu câu làm trung tâm gây ra sự việc (chủ thể chính), nó thường được chia ở dạng thêm đuôi -ing.</li>
+					<li>The -ing form as the subject: When an action at the beginning of a sentence serves as the central cause of an event (the main subject), it is usually conjugated in the -ing form.</li>
 			
-					<li>Dạng want to + hành động: Dùng để diễn tả mong muốn của chủ thể khi thực hiện một hành động nào đó.</li>
+					<li>"Want to" + verb: Used to express the speaker's desire to perform a certain action.</li>
 			
 				</ul>
 			
 
-			{/* II. Bảng phân loại siêu thực dụng (cập nhật 2025) */}
+			{/* II. Ultra-Practical Classification Chart (Updated 2025) */}
 
-			<h3 className="margin-y-50 text-center">II. Bảng phân loại siêu thực dụng (cập nhật 2025)</h3>
+			<h3 className="margin-y-50 text-center">II. Ultra-Practical Classification Chart (Updated 2025)</h3>
 					
-			<p className="margin-top-20">(*nhóm like/love/hate/prefer: dùng cả hai đều được, nhưng -ing mang tính "tổng quát, thường xuyên", to V mang tính "cụ thể, tình huống riêng lẻ")</p>
+			<p className="margin-top-20">"like/love/hate/prefer" group: Both forms are acceptable, but the -ing form conveys a "general, frequent" meaning, while the to-V form conveys a "specific, individual situation."</p>
 
-			{/* 2. Những cặp "anh em sinh đôi nhưng tính cách trái ngược" – dễ nhầm nhất */}
+			{/* 2. "Identical twins with opposite personalities" - the easiest to confuse */}
 
-			<h3 className="margin-y-50 text-center">2. Những cặp "anh em sinh đôi nhưng tính cách trái ngược" – dễ nhầm nhất</h3>
+			<h3 className="margin-y-50 text-center">2. "Identical twins with opposite personalities" - the easiest to confuse</h3>
 					
-			<p>Cặp đôi đáng sợ nhất mà ai cũng từng bị lừa:</p>
+			<p>The scariest duo that has tricked everyone:</p>
 			
 			<h4 className="margin-y-40" id="reMEMber">1. reMEMber</h4>
 			
 				<ul className="list-square">
 			
 					<li>do you <strong>reMEMber LOCKing</strong> the DOOR?</li>
-					<li className="list-none">Bạn có <strong>nhớ là đã khóa</strong> cửa chưa?</li>
-					<li className="margin-bottom-20 list-none">you là chủ thể. Cấu trúc reMEMber + hành động thêm đuôi -ing dùng để hỏi hoặc nhắc lại một sự việc, hành động đã xảy ra trong quá khứ (hành động khóa cửa đã làm rồi, giờ hỏi lại xem có nhớ việc đó không).</li>
+					<li className="list-none">Do you remember closing the door?</li>
+					<li className="margin-bottom-20 list-none">"You" is the subject. The structure "reMEMber + verb + -ing" is used to ask about or recall an event or action that occurred in the past (the action of locking the door has already been done; now you're asking again to see if you remember it).</li>
 			
 					<li><strong>reMEMber to LOCK</strong> the DOOR.</li>
-					<li className="list-none">Hãy <strong>nhớ khóa</strong> cửa nhé.</li>
-					<li className="list-none">Câu mệnh lệnh ngầm hiểu chủ thể là you. Cấu trúc reMEMber + to + hành động nguyên mẫu dùng để nhắc nhở ai đó thực hiện một nhiệm vụ, một việc chưa làm ở tương lai (cửa chưa khóa, cần nhớ để làm).</li>
+					<li className="list-none">Please remember to close the door.</li>
+					<li className="list-none">In an implied imperative sentence, the subject is understood to be "you." The structure "reMEMber + to + verb in the infinitive" is used to remind someone to perform a task or do something they haven't done yet in the future (such as "the door isn't locked yet; remember to lock it").</li>
 			
 				</ul>
 			
@@ -468,12 +475,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i’ll NEVer <strong>forGET MEETing</strong> you at the COFfee SHOP LAST SUMmer.</li>
-					<li className="list-none">Tôi sẽ không bao giờ <strong>quên lần gặp</strong> bạn ở quán cà phê vào mùa hè năm ngoái.</li>
-					<li className="margin-bottom-20 list-none">i là chủ thể. Cấu trúc forGET + hành động thêm đuôi -ing dùng để diễn tả việc không bao giờ quên một sự việc, kỷ niệm đã xảy ra trong quá khứ.</li>
+					<li className="list-none">I will always remember when we met at the coffee shop last summer.</li>
+					<li className="margin-bottom-20 list-none">"I" is the subject. The structure "forGET + action + -ing" is used to express that one will never forget an event or memory that occurred in the past.</li>
 			
 					<li>DON’T <strong>forGET to BUY</strong> MILK on your WAY HOME from WORK toDAY.</li>
-					<li className="list-none">Đừng <strong>quên mua</strong> sữa trên đường đi làm về hôm nay nhé.</li>
-					<li className="list-none">Câu mệnh lệnh ngầm hiểu chủ thể là you. Cấu trúc forGET + to + hành động nguyên mẫu nhắc nhở ai đó nhớ thực hiện một nhiệm vụ, một việc chưa làm ở tương lai.</li>
+					<li className="list-none">Remember to buy milk on your way home from work today!</li>
+					<li className="list-none">An imperative sentence implicitly assumes that the subject is "you." The structure "forGET + to + verb in the infinitive" is used to remind someone to perform a task or action that has not yet been done in the future.</li>
 			
 				</ul>
 			
@@ -483,12 +490,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>STOPPED SMOking</strong> LAST YEAR to imPROVE his HEALTH.</li>
-					<li className="list-none">Anh ấy đã bỏ hút thuốc vào năm ngoái để cải thiện sức khỏe.</li>
-					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc stop + hành động thêm đuôi -ing mang nghĩa dừng hẳn hoặc từ bỏ một việc đang làm/thói quen cũ.</li>
+					<li className="list-none">He gave up smoking last year to get healthier.</li>
+					<li className="margin-bottom-20 list-none">He is the subject. The structure "stop + action + -ing" means to completely stop or give up an activity or old habit.</li>
 			
 					<li>he <strong>STOPPED to SMOKE</strong> a cigaRETTE on his WAY HOME from WORK.</li>
-					<li className="list-none">Anh ấy đã <strong>dừng lại để hút</strong> một điếu thuốc trên đường đi làm về.</li>
-					<li className="list-none">he là chủ thể. Cấu trúc stop + to + hành động nguyên mẫu mang nghĩa dừng việc đang làm lại nhằm mục đích thực hiện hành động tiếp theo.</li>
+					<li className="list-none">He quit smoking cigarettes on his way home from work.</li>
+					<li className="list-none">He is the subject. The structure "stop + to + verb in the infinitive" means to stop what one is doing in order to perform the next action.</li>
 			
 				</ul>
 			
@@ -498,12 +505,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>you should <strong>TRY EATing</strong> LESS SUGar.</li>
-					<li className="list-none">Bạn nên <strong>thử ăn</strong> ít đường đi xem sao.</li>
-					<li className="margin-bottom-20 list-none">you là chủ thể, kết hợp với cấu trúc thử nghiệm một việc để xem kết quả.</li>
+					<li className="list-none">You should try to consume a smaller amount of sugar.</li>
+					<li className="margin-bottom-20 list-none">"You" is the subject, combined with a structure used to test something to see the result.</li>
 			
 					<li>you NEED to <strong>TRY to EAT</strong> LESS SUGar.</li>
-					<li className="list-none">Bạn cần phải <strong>cố gắng ăn</strong> ít đường lại.</li>
-					<li className="list-none">you là chủ thể, kết hợp với cấu trúc thể hiện sự nỗ lực vượt qua khó khăn để thực hiện một hành động.</li>
+					<li className="list-none">It is important that you try to eat less sugar.</li>
+					<li className="list-none">"You" is the subject, combined with a structure that expresses the effort to overcome difficulties in order to perform an action.</li>
 			
 				</ul>
 			
@@ -513,12 +520,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i <strong>reGRET TELLing</strong> her the TRUTH.</li>
-					<li className="list-none">Tôi <strong>hối hận vì đã nói</strong> cho cô ấy sự thật.</li>
-					<li className="margin-bottom-20 list-none">Cấu trúc "reGRET + hành động thêm đuôi -ing": Dùng để diễn tả sự hối hận về một việc đã xảy ra trong quá khứ.</li>
+					<li className="list-none">I wish I hadn't told her the truth.</li>
+					<li className="margin-bottom-20 list-none">The "reGRET + verb + -ing" structure: Used to express regret about something that happened in the past.</li>
 			
 					<li>i <strong>reGRET to TELL</strong> you that your appliCAtion has been reJECTed.</li>
-					<li className="list-none">Tôi <strong>rất tiếc phải thông báo</strong> với bạn rằng đơn xin việc của bạn đã bị từ chối.</li>
-					<li className="list-none">Cấu trúc "reGRET to + hành động nguyên mẫu": Thường dùng ở dạng trang trọng (đặc biệt với các từ chỉ việc thông báo như inFORM, TELL, anNOUNCE) để thông báo một tin buồn hoặc không mấy tốt đẹp ngay tại thời điểm nói.</li>
+					<li className="list-none">I'm sorry to inform you that your application has been rejected.</li>
+					<li className="list-none">The "reGRET to + infinitive" structure: This is commonly used in formal contexts (especially with verbs that convey a message, such as inFORM, TELL, and anNOUNCE) to convey sad or unpleasant news at the very moment of speaking.</li>
 			
 				</ul>
 			
@@ -528,12 +535,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>conTINued WORKing</strong> on her rePORT EVen <strong>af</strong>ter <strong>ever</strong>yone ELSE had LEFT the OFfice.</li>
-					<li className="list-none">Cô ấy <strong>vẫn tiếp tục làm</strong> bản báo cáo của mình ngay cả khi tất cả mọi người khác đã rời khỏi văn phòng.</li>
-					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc này dùng khi một hành động đang diễn ra và được tiếp tục thực hiện liên tục không gián đoạn.</li>
+					<li className="list-none">Even after everyone else had left the office, she kept working on her report.</li>
+					<li className="margin-bottom-20 list-none">"She" is the subject. This structure is used when an action is in progress and continues uninterrupted.</li>
 			
 					<li><strong>af</strong>ter FINishing her COFfee, she <strong>conTINued to WRITE</strong> the Emails.</li>
-					<li className="list-none">Sau khi uống xong cà phê, cô ấy <strong>tiếp tục viết</strong> các Emails tiếp theo.</li>
-					<li className="list-none">she là chủ thể. Cấu trúc này dùng khi chuyển sang một hành động mới hoặc tiếp tục một việc sau một khoảng dừng (tuy nhiên, trong phần lớn các trường hợp thông thường, hai cấu trúc này có nghĩa gần như tương đương nhau).</li>
+					<li className="list-none">After she drank her coffee, she kept writing emails.</li>
+					<li className="list-none">"She" is the subject. This structure is used when transitioning to a new action or resuming an activity after a pause (however, in most ordinary cases, these two structures have nearly equivalent meanings).</li>
 			
 				</ul>
 			
@@ -542,12 +549,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>it <strong>beGAN RAINing</strong> HEAVily JUST as we steppED OUT of the RESTAUrant.</li>
-					<li className="list-none">Trời <strong>bắt đầu đổ mưa</strong> lớn ngay khi chúng tôi bước ra khỏi nhà hàng.</li>
-					<li className="margin-bottom-20 list-none">it là chủ thể. Cấu trúc này thường được dùng khi miêu tả một quá trình hoặc sự việc tự nhiên bắt đầu diễn ra.</li>
+					<li className="list-none">It started raining heavily just as we were leaving the restaurant.</li>
+					<li className="margin-bottom-20 list-none">"It" is the subject. This structure is often used when describing a process or a natural event that begins to take place.</li>
 			
 					<li>he <strong>beGAN to exPLAIN</strong> the NEW acCOUNTing RULES to the TEAM MEMbers.</li>
-					<li className="list-none">Anh ấy <strong>bắt đầu giải thích</strong> các quy tắc kế toán mới cho các thành viên trong nhóm.</li>
-					<li className="list-none">he là chủ thể. Cấu trúc này thường nhấn mạnh vào thời điểm một hành động có chủ ý chính thức được khởi đầu.</li>
+					<li className="list-none">He started to explain the new rules about how to record money to the team members.</li>
+					<li className="list-none">"He" is the subject. This structure typically emphasizes the moment when a deliberate action officially begins.</li>
 			
 				</ul>
 			
@@ -557,12 +564,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the CAR <strong>STARTed MAking</strong> a STRANGE NOISE on the WAY HOME.</li>
-					<li className="list-none">Chiếc xe <strong>bắt đầu phát ra</strong> một tiếng động lạ trên đường về nhà.</li>
-					<li className="margin-bottom-20 list-none">the CAR là chủ thể. Cấu trúc này thường được dùng để chỉ sự khởi đầu của một sự việc, hiện tượng hoặc quá trình đang diễn ra.</li>
+					<li className="list-none">The car made a weird noise on the way home.</li>
+					<li className="margin-bottom-20 list-none">"the CAR" is the subject. This structure is often used to indicate the beginning of an event, phenomenon, or ongoing process.</li>
 			
 					<li>she <strong>STARTed to CHECK</strong> the MONTHly fiNANcial rePORTS on her comPUter.</li>
-					<li className="list-none">Cô ấy <strong>bắt đầu kiểm tra</strong> các báo cáo tài chính hàng tháng trên máy tính của mình.</li>
-					<li className="list-none">she là chủ thể. Cấu trúc này thường nhấn mạnh vào thời điểm mà một người bắt tay vào thực hiện một hành động có ý thức.</li>
+					<li className="list-none">She started checking the monthly financial reports on her computer.</li>
+					<li className="list-none">"She" is the subject. This structure typically emphasizes the moment when a person begins to perform a conscious action.</li>
 			
 				</ul>
 			
@@ -572,12 +579,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>preFERS WORKing</strong> with RAW DAta RATHer than SUMmarizing TEXT.</li>
-					<li className="list-none">Anh ấy <strong>thích làm việc</strong> với dữ liệu thô hơn là tóm tắt văn bản.</li>
-					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc preFER + V-ing thường dùng để diễn tả một sở thích chung mang tính lâu dài hoặc thói quen.</li>
+					<li className="list-none">He enjoys working with unstructured data more than summarizing text.</li>
+					<li className="margin-bottom-20 list-none">He is the subject. The structure "preFER + V-ing" is often used to express a general, long-term preference or habit.</li>
 			
 					<li>RIGHT NOW, she <strong>preFERS to STAY</strong> HOME and READ a BOOK in<strong>stead</strong> of <strong>go</strong>iNG OUT.</li>
-					<li className="list-none">Ngay lúc này, cô ấy <strong>thích ở nhà</strong> đọc sách hơn là đi chơi bên ngoài.</li>
-					<li className="list-none">she là chủ thể. Cấu trúc preFER + to V thường dùng khi nhấn mạnh vào một sở thích hoặc sự lựa chọn trong một tình huống cụ thể (thường đi kèm với từ would preFER hoặc các trạng từ chỉ thời điểm như now).</li>
+					<li className="list-none">At this time, she would rather stay home and read a book than go out.</li>
+					<li className="list-none">"She" is the subject. The structure "prefer + to V" is often used to emphasize a preference or choice in a specific situation (usually accompanied by "would prefer" or adverbs of time such as "now").</li>
 			
 				</ul>
 			
@@ -587,12 +594,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>HATES WAking UP</strong> EARly on FREEzing WINter MORNings.</li>
-					<li className="list-none">Anh ấy <strong>ghét việc thức dậy</strong> sớm vào những buổi sáng mùa đông lạnh giá.</li>
-					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc HATE + V-ing thường dùng để diễn tả sự khó chịu, không thích một thói quen, một hoạt động nói chung hoặc một trải nghiệm lặp đi lặp lại.</li>
+					<li className="list-none">He can't stand getting up early on super-cold winter mornings.</li>
+					<li className="margin-bottom-20 list-none">He is the subject. The structure "HATE + V-ing" is often used to express annoyance or dislike of a habit, a general activity, or a recurring experience.</li>
 			
 					<li>i <strong>HATE to interRUPT</strong> your WORK, but we NEED to CHECK the fiNANcial rePORTS RIGHT NOW.</li>
-					<li className="list-none">Tôi <strong>rất không muốn làm gián đoạn</strong> công việc của bạn, nhưng chúng ta cần kiểm tra các báo cáo tài chính ngay bây giờ.</li>
-					<li className="list-none">i là chủ thể. Cấu trúc HATE + to V thường dùng để nói về việc không muốn phải làm một hành động cụ thể nào đó (thường dùng trong các tình huống giao tiếp lịch sự, áy náy khi phải làm phiền ai đó, ví dụ như i HATE to SAY THIS, but ...).</li>
+					<li className="list-none">I know it's a bad time, but we have to look at the financial reports now.</li>
+					<li className="list-none">"I" is the subject. The structure "HATE + to V" is often used to express a reluctance to perform a specific action (commonly used in polite situations or when feeling apologetic for inconveniencing someone, for example, "I HATE to SAY THIS, but ...").</li>
 			
 				</ul>
 
@@ -602,12 +609,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>LOVES BREWing</strong> traDITional vietnaMESE COFfee Using a PHIN FILter <strong>ever</strong>y MORNing.</li>
-					<li className="list-none">Cô ấy <strong>rất thích pha</strong> cà phê truyền thống Việt Nam bằng phin vào mỗi buổi sáng.</li>
-					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc LOVE + V-ing dùng để diễn tả niềm đam mê, sở thích lâu dài hoặc cảm giác tận hưởng khi làm một việc gì đó nói chung.</li>
+					<li className="list-none">She loves making traditional Vietnamese coffee every morning. She uses a special tool called a phin filter to brew it.</li>
+					<li className="margin-bottom-20 list-none">"She" is the subject. The "LOVE + V-ing" structure is used to express passion, a long-standing interest, or the enjoyment of doing something in general.</li>
 			
 					<li>i <strong>LOVE to READ</strong> SPECialized acCOUNTing and PROgramming BLOGS on the WEEKend.</li>
-					<li className="list-none">Tôi <strong>rất thích đọc</strong> các bài viết chuyên sâu về kế toán và lập trình vào dịp cuối tuần.</li>
-					<li className="list-none">i là chủ thể. Cấu trúc LOVE + to V nhấn mạnh vào sự lựa chọn hoặc thói quen mà chủ thể cho là hợp lý, đáng làm, hoặc rất hào hứng muốn thực hiện. (Ngoài ra, cấu trúc i'd LOVE to... cũng rất hay dùng để bày tỏ mong muốn làm gì đó, ví dụ: i'd LOVE to JOIN your TEAM).</li>
+					<li className="list-none">I love reading specialized blogs on accounting and computer programming during the weekend.</li>
+					<li className="list-none">"I" is the subject. The "LOVE + to V" structure emphasizes a choice or habit that the subject considers reasonable, worthwhile, or is very eager to do. (In addition, the structure "I'd LOVE to..." is also commonly used to express a desire to do something; for example: "I'd LOVE to JOIN your TEAM.")</li>
 			
 				</ul>
 			
@@ -617,12 +624,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>LIKES exPERimenting</strong> with DIFferent PHIN FILter techNIQUES to MAKE his COFfee STRONGer.</li>
-					<li className="list-none">Anh ấy <strong>thích thử nghiệm</strong> các kỹ thuật dùng phin khác nhau để làm cho cà phê của mình đậm đà hơn.</li>
-					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc LIKE + V-ing nhấn mạnh vào sự tận hưởng, cảm giác thích thú khi hành động đó đang diễn ra hoặc sở thích chung.</li>
+					<li className="list-none">He likes to try out different ways to make his coffee stronger using PHIN FILTER techniques.</li>
+					<li className="margin-bottom-20 list-none">He is the subject. The "LIKE + V-ing" structure emphasizes enjoyment, the feeling of pleasure while the action is taking place, or a general preference.</li>
 			
 					<li>she <strong>LIKES to ORganize</strong> her acCOUNTing DOCuments CAREfully be<strong>fore</strong> LEAVing the OFfice.</li>
-					<li className="list-none">Cô ấy <strong>thích sắp xếp</strong> các tài liệu kế toán của mình một cách cẩn thận trước khi rời văn phòng.</li>
-					<li className="list-none">she là chủ thể. Cấu trúc LIKE + to V thường thể hiện thói quen, sự lựa chọn có ý thức hoặc việc mà chủ thể cho là hợp lý, cần thiết phải làm như vậy.</li>
+					<li className="list-none">Before leaving her office, she likes to carefully organize her accounting documents.</li>
+					<li className="list-none">"She" is the subject. The structure "LIKE + to V" typically expresses a habit, a conscious choice, or an action that the subject considers reasonable or necessary to do.</li>
 			
 				</ul>
 
@@ -632,12 +639,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>CHAnging the rePORTing SOFTware <strong>MEANS reWRIting</strong> all the old DAta FILES.</li>
-					<li className="list-none">Việc thay đổi phần mềm báo cáo <strong>có nghĩa là phải viết lại</strong> tất cả các tệp dữ liệu cũ.</li>
-					<li className="margin-bottom-20 list-none">Cụm CHAnging the rePORTing SOFTware là chủ thể. Cấu trúc MEAN + V-ing dùng để chỉ hệ quả, sự việc hoặc kết quả tất yếu mà một hành động dẫn đến.</li>
+					<li className="list-none">If we change the reporting software, we have to rewrite all the old data files.</li>
+					<li className="margin-bottom-20 list-none">The phrase "CHAnging the rePORTing SOFTware" is the subject. The "MEAN + V-ing" structure is used to indicate the consequence, event, or inevitable result that an action leads to.</li>
 			
 					<li>he <strong>MEANT to FINish</strong> the fiNANcial AUdit rePORT YESterday, but he raN OUT of TIME.</li>
-					<li className="list-none">Anh ấy <strong>đã có ý định hoàn thành</strong> báo cáo kiểm toán tài chính vào ngày hôm qua, nhưng anh ấy đã hết thời gian.</li>
-					<li className="list-none">he là chủ thể. Cấu trúc MEAN + to V dùng để diễn tả ý định, dự định hoặc mong muốn thực hiện một việc gì đó (thường dùng trong dạng quá khứ MEANT to để giải thích cho việc chưa hoàn thành).</li>
+					<li className="list-none">He had planned to finish the financial audit report yesterday, but he ran out of time.</li>
+					<li className="list-none">He is the subject. The structure "MEAN + to V" is used to express an intention, plan, or desire to do something (often used in the past tense, "MEANT to," to explain why something was not completed).</li>
 			
 				</ul>
 
@@ -647,12 +654,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>af</strong>ter a SHORT COFfee BREAK, she <strong>wenT ON WORKing</strong> on the MONTHly TAX rePORTS.</li>
-					<li className="list-none">Sau một khoảng nghỉ uống cà phê ngắn, cô ấy <strong>đã tiếp tục làm</strong> các báo cáo thuế hàng tháng.</li>
-					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc gO ON + V-ing dùng để chỉ việc tiếp tục một hành động đang làm trước đó mà không bị gián đoạn hay thay đổi công việc.</li>
+					<li className="list-none">She took a short break to drink some coffee, and then she continued to work on the monthly tax reports.</li>
+					<li className="margin-bottom-20 list-none">"She" is the subject. The structure "gO ON + V-ing" is used to indicate the continuation of an action that was already in progress, without any interruption or change in activity.</li>
 			
 					<li>the acCOUNtant FINished reVIEWing the INvoices and then <strong>wenT ON to CHECK</strong> the BANK STATEments.</li>
-					<li className="list-none">Người kế toán đã xem xét xong các hóa đơn và sau đó <strong>chuyển sang kiểm tra</strong> các sao kê ngân hàng.</li>
-					<li className="list-none">the acCOUNtant là chủ thể. Cấu trúc gO ON + to V dùng khi hoàn thành xong một hành động/giai đoạn này và bước sang thực hiện một hành động, giai đoạn mới tiếp theo.</li>
+					<li className="list-none">The accountant looked at the invoices, and then the bank statements.</li>
+					<li className="list-none">"the acCOUNtant" is the subject. The "gO ON + to V" structure is used when one action or phase is completed and the speaker moves on to perform a new action or enter a new phase.</li>
 			
 				</ul>
 
