@@ -75,7 +75,7 @@ export default function RAPidly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>RAPidly</strong>" (một cách nhanh chóng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "RAPidly" (quickly) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function RAPidly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được sử dụng để mô tả một quá trình, sự thay đổi hoặc sự phát triển diễn ra một cách nhanh chóng.
+            &nbsp;is often used to describe a process, change, or development that occurs quickly.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function RAPidly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="GROWing">the CITy's popuLAtion is RAPidly GROWing.</li>
-        <li className="list-none margin-bottom-20">Dân số của thành phố đang tăng nhanh chóng.</li>
+        <li className="list-none margin-bottom-20">More and more people are moving to the city.</li>
 
         <li value="2" id="CHAnging-due-to">the WORLD is RAPidly CHAnging due to technoLOGical adVANCEments.</li>
-        <li className="list-none margin-bottom-20">Thế giới đang thay đổi nhanh chóng do những tiến bộ công nghệ.</li>
+        <li className="list-none margin-bottom-20">The world is changing quickly because of advances in technology.</li>
 
         <li value="3" id="SPREADing-throughout-the">the disEASE is RAPidly SPREADing through<strong>out</strong> the COUNtry.</li>
-        <li className="list-none margin-bottom-20">Dịch bệnh đang lây lan nhanh chóng trên khắp cả nước.</li>
+        <li className="list-none margin-bottom-20">The disease is spreading quickly across the country.</li>
 
         <li value="4" id="deCLIning">the NUMber of enDANgered SPEcies is RAPidly deCLIning.</li>
-        <li className="list-none margin-bottom-20">Số lượng các loài có nguy cơ tuyệt chủng đang giảm nhanh chóng.</li>
+        <li className="list-none margin-bottom-20">The number of species that could soon disappear is growing quickly.</li>
 
         <li value="5" id="eVOlving">techNOlogy is RAPidly eVOlving, MAking our LIVES EAsier.</li>
-        <li className="list-none margin-bottom-20">Công nghệ đang phát triển nhanh chóng, giúp cuộc sống của chúng ta trở nên dễ dàng hơn.</li>
+        <li className="list-none margin-bottom-20">Technology is changing quickly and making life easier for us.</li>
 
         <li value="6" id="apPROACHing">the DEADline is RAPidly apPROACHing.</li>
-        <li className="list-none margin-bottom-20">Hạn chót đang đến rất nhanh.</li>
+        <li className="list-none margin-bottom-20">The deadline is coming soon.</li>
 
         <li value="7" id="exPANDing-into">the COMpany is RAPidly exPANDing <strong>in</strong>to NEW MARkets.</li>
-        <li className="list-none margin-bottom-20">Công ty đang mở rộng nhanh chóng sang các thị trường mới.</li>
+        <li className="list-none margin-bottom-20">The company is growing quickly and entering new markets.</li>
 
         <li value="8" id="deTEriorating">the OLD BUILDing is RAPidly deTEriorating.</li>
-        <li className="list-none margin-bottom-20">Tòa nhà cũ đang xuống cấp nhanh chóng.</li>
+        <li className="list-none margin-bottom-20">The old building is slowly falling apart.</li>
 
         <li value="9" id="acCELerated-down-the">the CAR RAPidly acCELerated down the HIGHway.</li>
-        <li className="list-none margin-bottom-20">Chiếc xe lao vun vút trên đường cao tốc.</li>
+        <li className="list-none margin-bottom-20">The car sped up quickly on the highway.</li>
 
         <li value="10" id="disapPEARing-due-to">the RAINforest is RAPidly disapPEARing due to deforesTAtion.</li>
-        <li className="list-none margin-bottom-20">Rừng nhiệt đới đang biến mất nhanh chóng do nạn phá rừng.</li>
+        <li className="list-none margin-bottom-20">The rainforest is disappearing quickly because trees are being cut down.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính chất nhanh chóng, cấp bách của một sự thay đổi hoặc quá trình. Chúng thường được sử dụng để mô tả những sự kiện hoặc xu hướng có tác động lớn và đáng chú ý.</p>
+      <p>** All of the phrases above emphasize the rapid, urgent nature of a change or process. They are often used to describe events or trends that have a significant and notable impact.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function RAPidly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>RAPidly</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
+          <li>"RAPidly" is often placed before a verb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong các ngữ cảnh liên quan đến khoa học, kinh tế, xã hội và môi trường.</li>
+          <li className="margin-bottom-20">This word is commonly used in contexts related to science, economics, society, and the environment.</li>
 
         </ul>
 

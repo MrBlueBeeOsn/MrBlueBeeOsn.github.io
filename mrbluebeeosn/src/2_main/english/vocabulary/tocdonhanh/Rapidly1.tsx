@@ -63,7 +63,7 @@ export default function RAPidly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>RAPidly</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "RAPidly."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -81,7 +81,7 @@ export default function RAPidly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Nhanh chóng</li>
+            <li>Quickly</li>
 
           </ul>
 
@@ -93,17 +93,17 @@ export default function RAPidly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>RAPidly</strong>" được dùng để miêu tả một hành động hoặc quá trình diễn ra với tốc độ cao, nhanh chóng. Nó nhấn mạnh sự nhanh nhẹn và sự thay đổi diễn ra trong một khoảng thời gian ngắn.</p>
+      <p className="margin-top-30 text-indent-whole">The word "RAPidly" is used to describe an action or process that occurs at a high speed, quickly. It emphasizes speed and changes that take place in a short period of time.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">techNOlogy is adVANCEing RAPidly.</li>
-          <li className="margin-bottom-20 list-none">Công nghệ đang phát triển với tốc độ nhanh chóng.</li>
+          <li className="margin-bottom-20 list-none">Technology is improving quickly.</li>
 
           <li>the CHILD GREW RAPidly during her FIRST YEAR.</li>
-          <li className="list-none">Đứa trẻ đã lớn lên rất nhanh trong năm đầu tiên của mình.</li>
+          <li className="list-none">The child grew quickly in the first year.</li>
 
         </ul>
 
@@ -120,10 +120,10 @@ export default function RAPidly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the RIVer has a RAPid CURrent.</li>
-          <li className="margin-bottom-20 list-none">Dòng sông có dòng chảy mạnh.</li>
+          <li className="margin-bottom-20 list-none">The river has strong, fast-moving currents.</li>
 
           <li id="NOUN">the raPIDity of CHANGE surPRISED us.</li>
-          <li className="list-none">Tốc độ thay đổi đã khiến chúng tôi ngạc nhiên.</li>
+          <li className="list-none">We were surprised by how quickly things were changing.</li>
 
         </ul>
 
@@ -140,10 +140,10 @@ export default function RAPidly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she RAN <Link to="/vocabulary/QUICKly-1">QUICKly</Link> to CATCH the BUS.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy chạy nhanh để bắt kịp xe buýt.</li>
+          <li className="margin-bottom-20 list-none">She hurried to catch the bus.</li>
 
           <li>the BIRD FLEW SWIFTly through the AIR.</li>
-          <li className="list-none">Con chim bay lướt nhanh qua không trung.</li>
+          <li className="list-none">The bird moved quickly through the air.</li>
 
         </ul>
 
@@ -162,10 +162,10 @@ export default function RAPidly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the SNAIL MOVED <Link to="/vocabulary/SLOWly-1">SLOWly</Link> a<strong>cross</strong> the LEAF.</li>
-          <li className="margin-bottom-20 list-none">Con ốc sên bò chậm rãi trên chiếc lá.</li>
+          <li className="margin-bottom-20 list-none">The snail moved at a slow pace across the leaf.</li>
 
           <li>the PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link> TALler.</li>
-          <li className="list-none">Cây dần dần cao lên.</li>
+          <li className="list-none">The plant grew bigger little by little.</li>
 
         </ul>
       
@@ -186,15 +186,15 @@ export default function RAPidly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một chiếc xe đua đang chạy với tốc độ cao hoặc một quả bóng rơi nhanh xuống đất.</p>
+      <p className="text-indent-whole">Imagine a race car traveling at high speed or a ball falling quickly toward the ground.</p>
 
         <ul className="list-square">
 
           <li>the RACE CAR MOVED RAPidly down the TRACK.</li>
-          <li className="margin-bottom-20 list-none">Chiếc xe đua lao vun vút trên đường đua.</li>
+          <li className="margin-bottom-20 list-none">The race car was going very fast down the track.</li>
 
           <li>the BALL FELL RAPidly to<strong>wards</strong> the GROUND.</li>
-          <li className="list-none">Quả bóng rơi nhanh xuống mặt đất.</li>
+          <li className="list-none">The ball dropped quickly toward the ground.</li>
 
         </ul>
 
@@ -209,12 +209,12 @@ export default function RAPidly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến các sự kiện xảy ra nhanh chóng.</p>
+      <p className="text-indent-whole">Create sentences related to events that happen quickly.</p>
 
         <ul className="list-square">
 
           <li>the NEWS SPREAD RAPidly through<strong>out</strong> the TOWN.</li>
-          <li className="list-none">Tin tức lan truyền nhanh chóng khắp thị trấn.</li>
+          <li className="list-none">The news spread quickly through the town.</li>
 
         </ul>
 
@@ -236,16 +236,16 @@ export default function RAPidly1(): React.JSX.Element {
           <ol>
 
             <li value="1">the TRAIN is MOving.</li>
-            <li className="list-none margin-bottom-20">Tàu đang chạy.</li>
+            <li className="list-none margin-bottom-20">The train's moving.</li>
 
             <li value="2">the TRAIN is MOving RAPidly.</li>
-            <li className="list-none margin-bottom-20">Tàu đang chạy rất nhanh.</li>
+            <li className="list-none margin-bottom-20">The train is traveling at high speed.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh tốc độ di chuyển</span> của tàu.</p>
+        <p className="margin-y-10">The difference: The second sentence emphasizes the ship's <span className="highlight-255-padding-0-4">speed</span>.</p>
 
       </div>
 
@@ -261,9 +261,9 @@ export default function RAPidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ nhanh: "<strong>RAPidly</strong>" thường chỉ sự nhanh chóng ở mức độ cao hơn so với "<Link to="/vocabulary/QUICKly-1">QUICKly</Link>".</li>
+          <li>Degree of speed: "RAPidly" typically indicates a higher degree of speed than "<Link to="/vocabulary/QUICKly-1">QUICKly</Link>".</li>
 
-          <li className="margin-bottom-20">Ngữ cảnh: Ý nghĩa của "<strong>RAPidly</strong>" có thể thay đổi tùy thuộc vào ngữ cảnh câu.</li>
+          <li className="margin-bottom-20">Context: The meaning of "RAPidly" can vary depending on the context of the sentence.</li>
 
         </ul>
 
