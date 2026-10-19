@@ -692,12 +692,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: fast
+							ADverbs: FAST
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-fast"><mark className="highlight-secondary-padding-2-4">ADverbs: fast</mark></summary>
+					<summary id="ADverbs-FAST"><mark className="highlight-secondary-padding-2-4">ADverbs: FAST</mark></summary>
 
 					<ul className="list-border1">
 
@@ -742,12 +742,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: chậm
+							ADverbs: SLOWly
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-cham"><mark className="highlight-secondary-padding-2-4">ADverbs: chậm</mark></summary>
+					<summary id="ADverbs-SLOWly"><mark className="highlight-secondary-padding-2-4">ADverbs: SLOWly</mark></summary>
 
 					<ul className="list-border1">
 
