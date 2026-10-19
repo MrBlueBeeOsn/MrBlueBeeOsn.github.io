@@ -183,6 +183,12 @@ export default function GrammarIndex(): React.JSX.Element {
             
             <li>
               <div className="li-content">
+                <Link to="/grammar/stop-translating">Stop Translating!</Link>
+              </div>
+            </li>
+            
+            <li>
+              <div className="li-content">
                 <Link to="/grammar/content-clauses">Content Clauses</Link>
               </div>
             </li>

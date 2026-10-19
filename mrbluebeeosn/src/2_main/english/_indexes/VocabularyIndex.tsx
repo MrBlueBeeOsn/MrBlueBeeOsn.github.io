@@ -32,6 +32,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 							
 			</div>
 
+			<p className="text-center">Stop using your first language if you want to learn new words.</p>
+			
+			<p className="margin-bottom-50 text-center">Stop using your first language when trying to understand vocabulary words.</p>
+
 
 			<div className="flex-container margin-top-20">
 			
