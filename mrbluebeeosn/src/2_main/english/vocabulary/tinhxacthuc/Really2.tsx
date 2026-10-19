@@ -75,7 +75,7 @@ export default function REally2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>REally</strong>" (thật sự) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "REally" (really) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function REally2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "thực sự", "rất", thường được dùng để nhấn mạnh một ý kiến, cảm xúc hoặc một sự kiện nào đó.
+            &nbsp;in English means "really" or "very" and is often used to emphasize an opinion, emotion, or event.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function REally2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="LIKE">i REally LIKE PIZza.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự thích pizza.</li>
+        <li className="list-none margin-bottom-20">I love pizza!</li>
 
         <li value="2" id="WANT">i REally WANT to GO to PARis.</li>
-        <li className="list-none margin-bottom-20">Mình thực sự muốn đến paris.</li>
+        <li className="list-none margin-bottom-20">I would really like to visit Paris.</li>
 
         <li value="3" id="WELL">she SPEAKS ENGlish REally WELL.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nói tiếng anh rất giỏi.</li>
+        <li className="list-none margin-bottom-20">She's got a solid handle on English.</li>
 
         <li value="4" id="BIG">his HOUSE is REally BIG.</li>
-        <li className="list-none margin-bottom-20">Ngôi nhà của anh ấy thực sự rất rộng.</li>
+        <li className="list-none margin-bottom-20">His house is very large.</li>
 
         <li value="5" id="FAST">the CAR can GO REally FAST.</li>
-        <li className="list-none margin-bottom-20">Chiếc xe này có thể chạy rất nhanh.</li>
+        <li className="list-none margin-bottom-20">The car can go very quickly.</li>
 
         <li value="6" id="HARD">this MATH PROBlem is REally HARD.</li>
-        <li className="list-none margin-bottom-20">Bài toán này thật sự rất khó.</li>
+        <li className="list-none margin-bottom-20">Hey, just a heads-up, this math problem is a real doozy.</li>
 
         <li value="7" id="FUNny">that JOKE was REally FUNny.</li>
-        <li className="list-none margin-bottom-20">Câu đùa đó thực sự rất hài hước.</li>
+        <li className="list-none margin-bottom-20">That was a really funny joke.</li>
 
         <li value="8" id="TIred">i'm REally TIred <strong>af</strong>ter WORK.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự mệt mỏi sau khi đi làm về.</li>
+        <li className="list-none margin-bottom-20">I'm extremely tired from work.</li>
 
         <li value="9" id="HAPpy">i'm REally HAPpy to SEE you.</li>
-        <li className="list-none margin-bottom-20">Mình thực sự rất vui khi được gặp bạn.</li>
+        <li className="list-none margin-bottom-20">It's good to see you! I'm happy to see you.</li>
 
         <li value="10" id="surPRISED">i was REally surPRISED by the NEWS.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự rất ngạc nhiên trước tin tức đó.</li>
+        <li className="list-none margin-bottom-20">I was very surprised to hear the news.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh mức độ của một ADjective hoặc ADverb. "<strong>REally</strong>" được sử dụng để làm tăng cường ý nghĩa của từ đi kèm.</p>
+      <p>** All of the phrases above emphasize the degree of an adjective or adverb. "Really" is used to intensify the meaning of the word it accompanies.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function REally2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>REally</strong>" có thể đứng trước hoặc sau ADjective hoặc ADverb.</li>
+          <li>"REally" can come before or after an adjective or adverb.</li>
 
-          <li className="margin-bottom-20">Từ này rất phổ biến trong ngôn ngữ hàng ngày và được sử dụng trong nhiều ngữ cảnh khác nhau.</li>
+          <li className="margin-bottom-20">This word is very common in everyday language and is used in many different contexts.</li>
 
         </ul>
 

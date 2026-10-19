@@ -222,7 +222,7 @@ export default function ACtually1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết để làm quen với cách sử dụng.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word frequently in conversations and writing to get used to how it’s used.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 

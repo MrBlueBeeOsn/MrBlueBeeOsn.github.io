@@ -59,7 +59,7 @@ export default function REally1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>REally</strong>" nhé.</p>
+      <p>Great! Let's explore the word "REally" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function REally1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Thật sự</li>
+            <li>Actually</li>
 
           </ul>
 
@@ -87,20 +87,20 @@ export default function REally1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>REally</strong>" có nhiều cách sử dụng, nhưng chủ yếu để nhấn mạnh một ý kiến, cảm xúc hoặc sự thật. Nó có thể biểu thị sự ngạc nhiên, sự đồng ý, hoặc đơn giản là làm cho câu nói trở nên mạnh mẽ hơn.</p>
+      <p className="margin-top-30 text-indent-whole">The word "REally" has many uses, but it is primarily used to emphasize an opinion, a feeling, or a fact. It can express surprise, agreement, or simply make a statement sound stronger.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">that's REally INTEResting.</li>
-          <li className="margin-bottom-20 list-none">Điều đó thực sự rất thú vị.</li>
+          <li className="margin-bottom-20 list-none">That's very intriguing.</li>
 
           <li>i'm REally TIred.</li>
-          <li className="margin-bottom-20 list-none">Mình thực sự mệt quá.</li>
+          <li className="margin-bottom-20 list-none">I am extremely tired.</li>
 
           <li>do you REally THINK so?</li>
-          <li className="list-none">Bạn thực sự nghĩ vậy sao?</li>
+          <li className="list-none">Do you really believe that's how you should think?</li>
 
         </ul>
 
@@ -117,7 +117,7 @@ export default function REally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">is THIS a REAL DIamond?</li>
-          <li className="list-none">Đây có phải là viên kim cương thật không?</li>
+          <li className="list-none">Is this a real diamond, or not?</li>
 
         </ul>
 
@@ -134,10 +134,10 @@ export default function REally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> apPREciate your HELP.</li>
-          <li className="margin-bottom-20 list-none">Tôi thực sự rất biết ơn sự giúp đỡ của bạn.</li>
+          <li className="margin-bottom-20 list-none">Thank you for your help. I appreciate it.</li>
 
           <li>it's VERy COLD toDAY.</li>
-          <li className="list-none">Hôm nay trời rất lạnh.</li>
+          <li className="list-none">It's pretty chilly today.</li>
 
         </ul>
 
@@ -156,10 +156,10 @@ export default function REally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he FALSEly acCUSED her.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã vu khống cô ấy.</li>
+          <li className="margin-bottom-20 list-none">He made accusations against her that were not true.</li>
 
           <li>i do NOT LIKE COFfee at ALL.</li>
-          <li className="list-none">Tôi không thích cà phê chút nào cả.</li>
+          <li className="list-none">I'm just not a coffee person.</li>
 
         </ul>
       
@@ -180,12 +180,12 @@ export default function REally1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một biểu cảm ngạc nhiên hoặc một hành động nhấn mạnh.</p>
+      <p className="text-indent-whole">Imagine a look of surprise or a gesture of emphasis.</p>
 
         <ul className="list-square">
 
           <li>NO WAY! REally?</li>
-          <li className="list-none">Không thể nào! Thật à?</li>
+          <li className="list-none">NO WAY! Is that really true?</li>
 
         </ul>
 
@@ -200,12 +200,12 @@ export default function REally1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu trong nhiều tình huống khác nhau để hiểu rõ hơn về cách sử dụng của "<strong>really</strong>".</p>
+      <p className="text-indent-whole">Create sentences in various situations to better understand how to use "Really."</p>
 
         <ul className="list-square">
 
           <li>i'm REally exCITed a<strong>bout</strong> the TRIP.</li>
-          <li className="list-none">Mình thực sự rất háo hức về chuyến đi này.</li>
+          <li className="list-none">I'm looking forward to the trip.</li>
 
         </ul>
 
@@ -220,23 +220,23 @@ export default function REally1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>REally</strong>" trong cuộc hội thoại để làm quen với từ này.</p>
+      <p className="text-indent-whole margin-bottom-20">Use "REally" frequently in conversation to get used to the word.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">i LIKE PIZza.</li>
-            <li className="list-none margin-bottom-20">Tôi thích pizza.</li>
+            <li className="list-none margin-bottom-20">I'm a fan of pizza.</li>
 
             <li value="2">i REally LIKE PIZza.</li>
-            <li className="list-none margin-bottom-20">Tôi thực sự thích pizza.</li>
+            <li className="list-none margin-bottom-20">I'm a big fan of pizza.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh hơn về tình cảm</span> của người nói <span className="highlight-255-padding-0-4">đối với pizza</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence places greater <span className="highlight-255-padding-0-4">emphasis on the speaker's feelings toward pizza</span>.</p>
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -252,9 +252,9 @@ export default function REally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhiều nghĩa: "<strong>REally</strong>" có thể được sử dụng trong nhiều ngữ cảnh khác nhau và có thể mang nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh.</li>
+          <li>Multiple meanings: "REally" can be used in many different contexts and can have different meanings depending on the context.</li>
 
-          <li className="margin-bottom-20">Cường điệu: Đôi khi, "<strong>REally</strong>" được sử dụng để cường điệu hóa một cảm xúc hoặc ý kiến.</li>
+          <li className="margin-bottom-20">Emphasis: Sometimes, "REally" is used to emphasize an emotion or opinion.</li>
 
         </ul>
 

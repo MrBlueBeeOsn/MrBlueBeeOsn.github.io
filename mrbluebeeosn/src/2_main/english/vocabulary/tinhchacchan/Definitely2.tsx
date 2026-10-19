@@ -127,7 +127,7 @@ export default function DEFinitely2(): React.JSX.Element {
         <li value="8" id="aGREE-with">i DEFinitely aGREE with you.</li>
         <li className="list-none margin-bottom-20">Tôi hoàn toàn đồng ý với bạn.</li>
 
-        <li value="9" id="NOT-TRUE">that STOry is DEFinitely NOT TRUE.</li>
+        <li value="9" id="NOT-TRUE">that STORy is DEFinitely NOT TRUE.</li>
         <li className="list-none margin-bottom-20">Câu chuyện đó chắc chắn là không đúng.</li>
 
         <li value="10" id="the-BEST-CHOICE">BUYing this HOUSE is DEFinitely the BEST CHOICE.</li>

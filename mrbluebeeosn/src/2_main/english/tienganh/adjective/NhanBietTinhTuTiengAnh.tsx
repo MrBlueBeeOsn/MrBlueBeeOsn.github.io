@@ -268,7 +268,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>HIKing up the MOUNtain all DAY was VERy <strong>TIRing</strong>, but the VIEW at the TOP was WORTH it.</li>
 					<li className="margin-bottom-20 list-none">Việc đi bộ đường dài lên núi suốt cả ngày rất <strong>mệt</strong>, nhưng phong cảnh trên đỉnh thì rất đáng giá.</li>
 
-					<li>she TOLD me an <strong>INTEResting</strong> STOry a<strong>bout</strong> her TRIP to jaPAN.</li>
+					<li>she TOLD me an <strong>INTEResting</strong> STORy a<strong>bout</strong> her TRIP to jaPAN.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy kể cho tôi nghe một câu chuyện <strong>thú vị</strong> về chuyến đi Nhật Bản của cô ấy.</li>
 			
 					<li>WINning the CHAMpionship MATCH was the MOST <strong>exCIting</strong> MOment of his caREER.</li>
