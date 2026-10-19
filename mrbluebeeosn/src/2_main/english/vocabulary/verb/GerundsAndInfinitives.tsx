@@ -662,20 +662,20 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the COMpany <strong>alLOWS emPLOYees to WORK</strong> from HOME TWICE a WEEK.</li>
-					<li className="list-none">Công ty <strong>cho phép nhân viên làm việc</strong> tại nhà hai lần một tuần.</li>
-					<li className="margin-bottom-20 list-none">the COMpany là chủ thể cấp phép, và employees là chủ thể nhận sự cho phép. Sau alLOW + sb, hành động tiếp theo bắt buộc phải ở dạng to V (to WORK). (Lưu ý: Nếu không có chủ thể phụ đứng ngay sau alLOW, động từ tiếp theo sẽ ở dạng V-ing, ví dụ: alLOWS WORKing).</li>
+					<li className="list-none">The company lets employees work from home two times per week.</li>
+					<li className="margin-bottom-20 list-none">The company is the entity granting permission, and the employees are the recipients of that permission. After "allow + sb," the following action must be in the "to V" form (e.g., "to work"). (Note: If there is no direct object immediately following "allow," the verb that follows will be in the -ing form, e.g., "allows working.")</li>
 			
 					<li>the COMpany <strong>alLOWS WORKing</strong> reMOTEly during the RAINy SEAson.</li>
-					<li className="list-none">Công ty <strong>cho phép làm việc</strong> từ xa trong mùa mưa.</li>
-					<li className="list-none">the COMpany là chủ thể. Ngay sau động từ alLOW không có ai nhận hành động (không có chủ thể phụ như emPLOYees), nên hành động tiếp theo bắt buộc phải ở dạng -ing (WORKing), dùng để chỉ chính sách hoặc sự cho phép chung chung đối với một hoạt động.</li>
+					<li className="list-none">The company lets employees work remotely during the rainy season.</li>
+					<li className="list-none">"the COMpany" is the subject. Since there is no recipient of the action immediately following the verb "alLOW" (there is no indirect object such as "emPLOYees"), the subsequent verb must be in the -ing form ("WORKing"), which indicates a policy or general permission regarding an activity.</li>
 			
 				</ul>
 			
 
 			
-			{/* III. Chỉ dùng Gerund (-ing) */}
+			{/* III. Use only the gerund (-ing) */}
 
-			<h3 className="margin-y-50 text-center">III. Chỉ dùng Gerund (-ing)</h3>
+			<h3 className="margin-y-50 text-center">III. Use only the gerund (-ing)</h3>
 			
 			
 			<h4 className="margin-y-40" id="FANcy">1. FANcy</h4>
@@ -683,8 +683,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>do you <strong>FANcy GRABbing</strong> a CUP of traDITional vietnaMESE COFfee this afterNOON?</li>
-					<li className="list-none">Bạn <strong>có hứng thú đi uống</strong> một ly cà phê truyền thống Việt Nam vào chiều nay không?</li>
-					<li className="list-none">you là chủ thể. Cấu trúc FANcy + V-ing (thường dùng nhiều trong tiếng Anh Anh) mang nghĩa muốn hoặc có hứng thú trải nghiệm một hành động nào đó, thường dùng trong câu hỏi mời mọc hoặc diễn tả sở thích bất chợt.</li>
+					<li className="list-none">Would you like to try some traditional Vietnamese coffee this afternoon?</li>
+					<li className="list-none">"You" is the subject. The structure "FANcy + V-ing" (commonly used in British English) expresses a desire or interest in experiencing a certain action; it is often used in inviting questions or to express a sudden interest.</li>
 			
 				</ul>
 			
@@ -694,8 +694,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i DON'T <strong>MIND WORKing</strong> Overtime to DOUble-CHECK the fiNANcial FIGures.</li>
-					<li className="list-none">Tôi không <strong>ngại làm việc</strong> thêm giờ để kiểm tra lại các số liệu tài chính.</li>
-					<li className="list-none">I là chủ thể. Cấu trúc MIND + V-ing thường được dùng trong câu phủ định (ví dụ: DON'T MIND - không ngại) hoặc câu hỏi (ví dụ: would you MIND...? - Bạn có phiền...) để hỏi ý kiến hoặc bày tỏ cảm giác không bị làm phiền bởi một hành động cụ thể.</li>
+					<li className="list-none">I don't mind working overtime to make sure the financial figures are correct.</li>
+					<li className="list-none">"I" is the subject. The "MIND + V-ing" structure is often used in negative sentences (e.g., DON'T MIND—I don't mind) or questions (e.g., would you MIND...?—Would you mind...?) to ask for someone's opinion or to express that one is not bothered by a specific action.</li>
 			
 				</ul>
 
@@ -705,8 +705,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>sugGESTed TRYing</strong> a NEW PHIN FILter techNIQUE to MAKE the COFfee TASTE BETter.</li>
-					<li className="list-none">Cô ấy <strong>đã gợi ý thử</strong> một kỹ thuật dùng phin mới để làm cho cà phê có vị ngon hơn.</li>
-					<li className="list-none">she là chủ thể. Sau động từ sugGEST, hành động tiếp theo bắt buộc phải ở dạng -ing (TRYing), dùng để đưa ra một ý kiến, đề xuất chung cho mọi người cùng xem xét.</li>
+					<li className="list-none">She said we should try a new way to filter the coffee to improve the taste.</li>
+					<li className="list-none">"She" is the subject. After the verb "suggest," the following action must be in the -ing form (trying), used to offer an opinion or suggestion for everyone to consider.</li>
 			
 				</ul>
 
@@ -716,8 +716,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>iMAGines LIVing</strong> in a QUIet COUNtryside HOUSE surROUNDed by GREEN NAture.</li>
-					<li className="list-none">Cô ấy <strong>tưởng tượng cảnh sống</strong> trong một ngôi nhà vùng quê yên tĩnh được bao quanh bởi thiên nhiên xanh mát.</li>
-					<li className="list-none">she là chủ thể. Sau động từ iMAGine, hành động tiếp theo bắt buộc phải ở dạng -ing (LIVing), dùng để diễn tả sự hình dung hoặc tưởng tượng trong tâm trí về một cảnh tượng hoặc sự việc.</li>
+					<li className="list-none">She imagines living in a small, quiet house in the countryside with a lot of green nature around it.</li>
+					<li className="list-none">"She" is the subject. After the verb "iMAGine," the following action must be in the -ing form (LIVing), which is used to express the mental visualization or imagination of a scene or event.</li>
 			
 				</ul>
 
@@ -727,8 +727,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>conSIDered CHAnging</strong> her caREER PATH to FOcus enTIrely on NEW WEB deVELopment.</li>
-					<li className="list-none">Cô ấy <strong>đã cân nhắc việc thay đổi</strong> con đường sự nghiệp của mình để tập trung hoàn toàn vào việc phát triển web.</li>
-					<li className="list-none">she là chủ thể. Sau động từ conSIDer, hành động tiếp theo bắt buộc phải ở dạng -ing (CHAnging), dùng để chỉ việc suy nghĩ, cân nhắc kỹ lưỡng về một khả năng hoặc hành động nào đó.</li>
+					<li className="list-none">She thought about switching careers and focusing completely on web development.</li>
+					<li className="list-none">"She" is the subject. After the verb "conSIDer," the following action must be in the -ing form (CHAnging), which is used to indicate the act of thinking about or carefully considering a possibility or action.</li>
 			
 				</ul>
 			
@@ -738,8 +738,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>aVOIDed disCUSSing</strong> the COMplex TAX ISsues during the MEETing.</li>
-					<li className="list-none">Cô ấy <strong>đã tránh thảo luận</strong> về các vấn đề thuế phức tạp trong cuộc họp.</li>
-					<li className="list-none">she là chủ thể. Sau động từ aVOID, hành động tiếp theo bắt buộc phải ở dạng -ing (disCUSSing), dùng để chỉ việc cố gắng né tránh hoặc không làm một hành động nào đó.</li>
+					<li className="list-none">During the meeting, she didn't talk about the complicated tax issues that were raised.</li>
+					<li className="list-none">"She" is the subject. After the verb "aVOID," the following action must be in the -ing form ("disCUSSing"), which indicates an attempt to avoid or refrain from performing a certain action.</li>
 			
 				</ul>
 
@@ -749,8 +749,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>KEPT WORKing</strong> on the acCOUNTing LEDGer despite the LATE HOUR.</li>
-					<li className="list-none">Cô ấy <strong>đã tiếp tục làm việc</strong> với sổ sách kế toán mặc dù đã muộn.</li>
-					<li className="list-none">she là chủ thể. Sau động từ KEEP (hoặc KEEP ON), hành động tiếp theo bắt buộc phải ở dạng -ing (WORKing), diễn tả sự việc diễn ra liên tục hoặc lặp đi lặp lại không ngừng.</li>
+					<li className="list-none">She didn't stop working on the accounting ledger, even though it was late.</li>
+					<li className="list-none">"She" is the subject. After the verb "KEEP" (or "KEEP ON"), the following action must be in the -ing form (e.g., "WORKing"), expressing an action that is ongoing or repeated continuously.</li>
 			
 				</ul>
 			
@@ -760,8 +760,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>FINished TYping</strong> the fiNANcial rePORT be<strong>fore</strong> LEAVing the OFfice.</li>
-					<li className="list-none">Cô ấy <strong>đã hoàn thành việc đánh máy</strong> báo cáo tài chính trước khi rời khỏi văn phòng.</li>
-					<li className="list-none">she là chủ thể. Sau động từ FINish, hành động tiếp theo bắt buộc phải ở dạng -ing (TYping), dùng để chỉ việc kết thúc hoặc hoàn tất hoàn toàn một quá trình/hành động nào đó.</li>
+					<li className="list-none">She typed the financial report and then left the office.</li>
+					<li className="list-none">"She" is the subject. After the verb "finish," the following action must be in the -ing form (typing), which indicates the complete end or completion of a process or action.</li>
 			
 				</ul>
 			
@@ -771,8 +771,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>gaVE UP DRINKing</strong> INstant COFfee and SWITCHED enTIrely to traDITional PHIN BREWS.</li>
-					<li className="list-none">Anh ấy <strong>đã từ bỏ việc uống</strong> cà phê hòa tan và chuyển hoàn toàn sang cà phê phin truyền thống.</li>
-					<li className="list-none">he là chủ thể. Sau cụm động từ giVE UP, hành động tiếp theo bắt buộc phải ở dạng -ing (DRINKing), dùng để chỉ việc từ bỏ hoặc chấm dứt một thói quen, hành động nào đó.</li>
+					<li className="list-none">He stopped drinking instant coffee. He started only drinking traditional coffee.</li>
+					<li className="list-none">He is the subject. After the verb phrase "give up," the following action must be in the -ing form (drinking), which indicates giving up or stopping a habit or action.</li>
 			
 				</ul>
 
@@ -782,8 +782,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>is USED to WORKing</strong> LONG HOURS <strong>un</strong>der HIGH PRESsure in the acCOUNTing dePARTment.</li>
-					<li className="list-none">Anh ấy <strong>đã quen với việc làm việc</strong> nhiều giờ liền dưới áp lực cao trong phòng kế toán.</li>
-					<li className="list-none">he là chủ thể. Sau cụm từ be USED to (quen với), hành động tiếp theo bắt buộc phải ở dạng -ing (WORKing). (Lưu ý phân biệt với cấu trúc USED to + V nguyên mẫu dùng để chỉ thói quen trong quá khứ).</li>
+					<li className="list-none">He has experience working long hours in a stressful environment in the accounting department.</li>
+					<li className="list-none">"He" is the subject. After the phrase "be USED to" (be accustomed to), the following action must be in the -ing form (WORKing). (Note the distinction from the structure "USED to + base form of the verb," which is used to describe past habits.)</li>
 			
 				</ul>
 
@@ -793,8 +793,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>LOOKS FORward to VISiting</strong> the NEW COFfee ROASTing WORKshop NEXT WEEKend.</li>
-					<li className="list-none">Cô ấy <strong>rất mong chờ được đến thăm</strong> xưởng rang cà phê mới vào cuối tuần tới.</li>
-					<li className="list-none">she là chủ thể. Sau cụm từ LOOK FORward to, từ to ở đây là một giới nên hành động tiếp theo bắt buộc phải ở dạng -ing (VISiting), thể hiện cảm giác hào hứng, mong mỏi.</li>
+					<li className="list-none">The new coffee roasting workshop is on her agenda for next weekend, and she's looking forward to it.</li>
+					<li className="list-none">"She" is the subject. After the phrase "LOOK FORward to," the word "to" here functions as a preposition, so the following verb must be in the -ing form ("VISiting"), expressing a sense of excitement and anticipation.</li>
 			
 				</ul>
 
@@ -804,8 +804,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she is <strong>TIred of FIXing</strong> the SAME SOFTware BUGS <strong>ever</strong>y SINgle DAY.</li>
-					<li className="list-none">Cô ấy <strong>đã mệt mỏi vì phải sửa</strong> các lỗi phần mềm giống nhau mỗi ngày.</li>
-					<li className="list-none">she là chủ thể. Sau cụm tính kết hợp giới TIred of, hành động tiếp theo bắt buộc phải ở dạng -ing (FIXing), thể hiện cảm giác chán nản hoặc kiệt sức vì một việc lặp đi lặp lại.</li>
+					<li className="list-none">The same problems with the software are happening too often. She is tired of having to fix them every day.</li>
+					<li className="list-none">"She" is the subject. After the attributive phrase "Tired of," the following verb must be in the -ing form (FIXing), expressing a feeling of boredom or exhaustion caused by a repetitive task.</li>
 			
 				</ul>
 
@@ -815,8 +815,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she is <strong>INTERested in LEARNing</strong> adVANCED WEB deVELopment techNIQUES to imPROVE her ONline PROJects.</li>
-					<li className="list-none">Cô ấy <strong>quan tâm đến việc học</strong> các kỹ thuật phát triển web nâng cao để cải thiện các dự án trực tuyến của mình.</li>
-					<li className="list-none">she là chủ thể. Sau cụm tính từ đi với giới từ INTERested in, hành động tiếp theo bắt buộc phải ở dạng -ing (LEARNing), thể hiện sự hứng thú hoặc muốn tìm hiểu về một lĩnh vực, hoạt động nào đó.</li>
+					<li className="list-none">She wants to learn more advanced web development techniques to improve her online projects.</li>
+					<li className="list-none">"She" is the subject. After an adjective phrase followed by the preposition "interested in," the subsequent verb must be in the -ing form (learning), expressing interest in or a desire to learn about a particular field or activity.</li>
 			
 				</ul>
 
@@ -826,8 +826,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>RISKED LOsing</strong> all her fiNANcial DATA by NOT <strong>back</strong>ing UP the SYStem REGularly.</li>
-					<li className="list-none">Cô ấy <strong>đã liều lĩnh để mất</strong> tất cả dữ liệu tài chính của mình vì không sao lưu hệ thống thường xuyên.</li>
-					<li className="list-none">she là chủ thể. Sau động từ risk, hành động tiếp theo bắt buộc phải ở dạng -ing (LOsing), dùng để diễn tả việc chấp nhận mạo hiểm đối mặt với một kết quả bất lợi.</li>
+					<li className="list-none">She could have lost all her financial data if she had not regularly saved a copy of the system.</li>
+					<li className="list-none">"She" is the subject. After the verb "risk," the following action must be in the -ing form (LOsing), which is used to express the act of taking a risk in the face of an unfavorable outcome.</li>
 			
 				</ul>
 
@@ -837,8 +837,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>postPONED upDAting</strong> the fiNANcial RECords un<strong>til</strong> the NEW SOFTware was FULLy inSTALLED.</li>
-					<li className="list-none">Cô ấy <strong>đã hoãn việc cập nhật</strong> hồ sơ tài chính cho đến khi phần mềm mới được cài đặt hoàn chỉnh.</li>
-					<li className="list-none">she là chủ thể. Sau động từ postPONE, hành động tiếp theo bắt buộc phải ở dạng -ing (upDAting), dùng để chỉ việc trì hoãn hoặc dời lại một kế hoạch, hành động sang một thời điểm khác.</li>
+					<li className="list-none">The financial records were postponed until the new software was fully installed.</li>
+					<li className="list-none">"She" is the subject. After the verb "postpone," the following action must be in the -ing form ("updating"), which is used to indicate the postponement or rescheduling of a plan or action to a later time.</li>
 			
 				</ul>
 
@@ -848,8 +848,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>MISSED CATCHing</strong> the EARly BUS be<strong>cause</strong> she SPENT TOO MUCH TIME reVIEWing the fiNANcial SPREADsheets.</li>
-					<li className="list-none">Cô ấy <strong>đã suýt lỡ chuyến</strong> xe buýt sớm vì dành quá nhiều thời gian xem lại các bảng tính tài chính.</li>
-					<li className="list-none">she là chủ thể. Sau động từ MISS, hành động tiếp theo bắt buộc phải ở dạng -ing (CATCHing), dùng để diễn tả việc bỏ lỡ, trượt mất hoặc suýt không làm kịp một hành động nào đó.</li>
+					<li className="list-none">She didn't catch the early bus because she spent too much time looking at the financial spreadsheets.</li>
+					<li className="list-none">"She" is the subject. After the verb "MISS," the following action must be in the -ing form (CATCHing), used to express missing, failing to catch, or nearly missing an action.</li>
 			
 				</ul>
 			
@@ -859,8 +859,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>PRACticed TYping</strong> fiNANcial DATA QUICKly to imPROVE her DAIly WORKflow.</li>
-					<li className="list-none">Cô ấy <strong>đã luyện tập gõ</strong> dữ liệu tài chính nhanh chóng để cải thiện quy trình làm việc hằng ngày của mình.</li>
-					<li className="list-none">she là chủ thể. Sau động từ PRACtice, hành động tiếp theo bắt buộc phải ở dạng -ing (TYping), dùng để chỉ việc lặp lại một hành động nhằm rèn luyện kỹ năng hoặc tay nghề.</li>
+					<li className="list-none">She trained herself to type financial data more quickly to make her daily workflow better.</li>
+					<li className="list-none">"She" is the subject. After the verb "practice," the following action must be in the -ing form (typing), which indicates the repetition of an action for the purpose of honing a skill or craft.</li>
 			
 				</ul>
 
@@ -870,8 +870,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>deNIED MAking</strong> any ERrors in the MONTHly fiNANcial BALance SHEET.</li>
-					<li className="list-none">Anh ấy <strong>đã phủ nhận việc mắc</strong> bất kỳ lỗi nào trong bảng cân đối tài chính hàng tháng.</li>
-					<li className="list-none">he là chủ thể. Sau động từ deNY, hành động tiếp theo bắt buộc phải ở dạng -ing (MAking), dùng để chỉ việc chối bỏ hoặc không nhận một hành động mà mình đã thực hiện.</li>
+					<li className="list-none">He said he did not make any errors on the monthly financial statement.</li>
+					<li className="list-none">He is the subject. After the verb "deNY," the following action must be in the -ing form (MAking), which is used to indicate the denial or rejection of an action one has performed.</li>
 			
 				</ul>
 
@@ -881,14 +881,14 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>adMITted MAking</strong> a SLIGHT misTAKE in the acCOUNTing SPREADsheet.</li>
-					<li className="list-none">Anh ấy <strong>đã thừa nhận việc mắc</strong> một lỗi nhỏ trong bảng tính kế toán.</li>
-					<li className="list-none">He là chủ thể. Sau động từ adMIT, hành động tiếp theo bắt buộc phải ở dạng -ing (MAking), dùng để chỉ việc công nhận hoặc thú nhận một hành động đã xảy ra trong quá khứ.</li>
+					<li className="list-none">He said that there was a small mistake in the spreadsheet.</li>
+					<li className="list-none">He is the subject. After the verb "admit," the following action must be in the -ing form (making), which is used to indicate the acknowledgment or admission of an action that occurred in the past.</li>
 			
 				</ul>
 
 			
 			
-			{/* IV. Chỉ dùng Infinitive (to V) */}
+			{/* IV. Use only the infinitive (to V) */}
 
 			<h3 className="margin-y-50 text-center">IV. Use only the infinitive (to V)</h3>
 
