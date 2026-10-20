@@ -15,7 +15,7 @@ export default function CLEARly2(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/vocabulary#adverbs-ro-rang"><mark className="highlight-tertiary-padding-4-8">ADverbs: rõ ràng</mark></HashLink></h4>
+			<h4><HashLink smooth to="/vocabulary#ADverbs-CLEARly"><mark className="highlight-tertiary-padding-4-8">CLEARly</mark></HashLink></h4>
 			
 			<h1 className="margin-y-50 text-center">CLEARly
 				<sup>
@@ -75,7 +75,7 @@ export default function CLEARly2(): React.JSX.Element {
 
 			{/* This is the content of Vocabulary Term. */}
 
-			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CLEARly</strong>" (rõ ràng) và các cụm từ hay đi kèm nhé.</p>
+			<p>Great! Let's take a closer look at the word "CLEARly" and some common phrases that go with it.</p>
 
 			<div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function CLEARly2(): React.JSX.Element {
 							
 						</span>
 							
-						&nbsp;trong tiếng Anh có nghĩa là "một cách rõ ràng", "một cách hiển nhiên", được dùng để nhấn mạnh sự rõ ràng, dễ hiểu của một ý tưởng, thông tin hoặc tình huống.
+						&nbsp;in English means "clearly" or "obviously" and is used to emphasize the clarity and ease of understanding of an idea, piece of information, or situation.
 
 					</p>
 
@@ -104,38 +104,38 @@ export default function CLEARly2(): React.JSX.Element {
 			<ol className="margin-top-30 padding-left-30">
 
 				<li value="1" id="STAted">the RULES were CLEARly STAted at the beGINning of the GAME.</li>
-				<li className="list-none margin-bottom-20">Các quy tắc đã được nêu rõ ràng ngay từ đầu trận đấu.</li>
+				<li className="list-none margin-bottom-20">The rules of the game were clearly explained at the start.</li>
 
 				<li value="2" id="deFINED">the TERMS of the CONtract were CLEARly deFINED.</li>
-				<li className="list-none margin-bottom-20">Các điều khoản của hợp đồng đã được quy định rõ ràng.</li>
+				<li className="list-none margin-bottom-20">The contract's terms were simple and easy to understand.</li>
 
 				<li value="3" id="VISible-on">the STARS were CLEARly VISible on a CLEAR NIGHT.</li>
-				<li className="list-none margin-bottom-20">Các ngôi sao hiện lên rõ ràng trong một đêm trời sáng.</li>
+				<li className="list-none margin-bottom-20">It was a clear night, and the stars could be seen.</li>
 
 				<li value="4" id="underSTOOD">i HOPE my POINT is CLEARly underSTOOD.</li>
-				<li className="list-none margin-bottom-20">Tôi hy vọng ý của tôi đã được hiểu rõ ràng.</li>
+				<li className="list-none margin-bottom-20">I hope I made my point and you understand it.</li>
 
 				<li value="5" id="MORE">can you PLEASE exPLAIN THAT MORE CLEARly?</li>
-				<li className="list-none margin-bottom-20">Làm ơn giải thích rõ hơn được không?</li>
+				<li className="list-none margin-bottom-20">Could you please explain that in more detail?</li>
 
 				<li value="6" id="esTABlished">the conNECtion between the TWO eVENTS was LESS CLEARly esTABlished.</li>
-				<li className="list-none margin-bottom-20">Mối liên hệ giữa hai sự kiện này chưa được xác định một cách rõ ràng.</li>
+				<li className="list-none margin-bottom-20">It wasn't as obvious how the two events were connected.</li>
 
 				<li value="7" id="DEMonstrates">the exPERiment CLEARly DEMonstrates the efFECTS of CLImate CHANGE.</li>
-				<li className="list-none margin-bottom-20">Thí nghiệm này đã chứng minh rõ ràng những tác động của biến đổi khí hậu.</li>
+				<li className="list-none margin-bottom-20">The experiment shows us what climate change looks like.</li>
 
 				<li value="8" id="INdicates">the MAP CLEARly INdicates the SHORtest ROUTE.</li>
-				<li className="list-none margin-bottom-20">Bản đồ chỉ rõ tuyến đường ngắn nhất.</li>
+				<li className="list-none margin-bottom-20">The map clearly shows the fastest way to go.</li>
 
 				<li value="9" id="arTICulated-and-EAsy">his iDEaS were CLEARly arTICulated and EAsy to FOLlow.</li>
-				<li className="list-none margin-bottom-20">Những ý tưởng của anh ấy được trình bày một cách rõ ràng và dễ hiểu.</li>
+				<li className="list-none margin-bottom-20">He clearly expressed his ideas and made them easy to understand.</li>
 
 				<li value="10" id="inTENDed-as">it was CLEARly inTENDed as a JOKE.</li>
-				<li className="list-none margin-bottom-20">Điều đó rõ ràng là chỉ nhằm mục đích đùa thôi.</li>
+				<li className="list-none margin-bottom-20">It was definitely just a joke.</li>
 
 			</ol>
 
-			<p>** Các cụm từ trên đều nhấn mạnh tính rõ ràng, dễ hiểu và minh bạch của một ý tưởng, thông tin hoặc tình huống. Chúng thường được sử dụng để làm cho ý kiến của người nói trở nên đáng tin cậy và dễ hiểu hơn.</p>
+			<p>** All of the above phrases emphasize the clarity, comprehensibility, and transparency of an idea, piece of information, or situation. They are often used to make the speaker’s opinion more credible and easier to understand.</p>
 
 			{/* =============================
 						Lưu ý:
@@ -147,9 +147,9 @@ export default function CLEARly2(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>"<strong>CLEARly</strong>" thường được đặt trước ADjective hoặc hành động để nhấn mạnh ý nghĩa.</li>
+					<li>"CLEARly" is often placed before an adjective or verb to emphasize its meaning.</li>
 
-					<li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ cuộc trò chuyện hàng ngày đến văn bản học thuật.</li>
+					<li className="margin-bottom-20">This word can be used in a variety of contexts, from everyday conversation to academic writing.</li>
 
 				</ul>
 

@@ -668,12 +668,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: BAsically
+							BAsically
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-ve-co-ban"><mark className="highlight-secondary-padding-2-4">ADverbs: BAsically</mark></summary>
+					<summary id="ADverbs-BAsically"><mark className="highlight-secondary-padding-2-4">BAsically</mark></summary>
 
 					<ul className="list-border1">
 
@@ -692,12 +692,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: FAST
+							FAST
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="ADverbs-FAST"><mark className="highlight-secondary-padding-2-4">ADverbs: FAST</mark></summary>
+					<summary id="ADverbs-FAST"><mark className="highlight-secondary-padding-2-4">FAST</mark></summary>
 
 					<ul className="list-border1">
 
@@ -742,12 +742,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: SLOWly
+							SLOWly
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="ADverbs-SLOWly"><mark className="highlight-secondary-padding-2-4">ADverbs: SLOWly</mark></summary>
+					<summary id="ADverbs-SLOWly"><mark className="highlight-secondary-padding-2-4">SLOWly</mark></summary>
 
 					<ul className="list-border1">
 
@@ -1042,12 +1042,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: meTICulous
+							meTICulously
 				============================= */}
 
 				<details className="sub-box-fix">
 	
-					<summary id="ADverbs-meTICulous"><mark className="highlight-secondary-padding-2-4">ADverbs: meTICulous</mark></summary>
+					<summary id="ADverbs-meTICulous"><mark className="highlight-secondary-padding-2-4">meTICulously</mark></summary>
 
 					<ul className="list-border1">
 
@@ -1092,12 +1092,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: rõ ràng
+							CLEARly
 					============================= */}
 
 				<details className="sub-box-fix">
 
-					<summary id="adverbs-ro-rang"><mark className="highlight-secondary-padding-2-4">ADverbs: rõ ràng</mark></summary>
+					<summary id="ADverbs-CLEARly"><mark className="highlight-secondary-padding-2-4">CLEARly</mark></summary>
 
 					<ul className="list-border1">
 
@@ -1142,12 +1142,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: rõ ràng
+							CLEARly
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="ADverbs-verifiCAtion"><mark className="highlight-secondary-padding-2-4">ADverbs: verifiCAtion</mark></summary>
+					<summary id="ADverbs-verifiCAtion"><mark className="highlight-secondary-padding-2-4">verifiCAtion</mark></summary>
 
 					<ul className="list-border1">
 

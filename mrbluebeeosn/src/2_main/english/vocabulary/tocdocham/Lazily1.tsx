@@ -15,7 +15,7 @@ export default function LAzily1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#ADverbs-SLOWly"><mark className="highlight-tertiary-padding-4-8">ADverbs: SLOWly</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-SLOWly"><mark className="highlight-tertiary-padding-4-8">SLOWly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">LAzily
         <sup><Link to="/vocabulary/LAzily-1">&nbsp;1&nbsp;</Link>

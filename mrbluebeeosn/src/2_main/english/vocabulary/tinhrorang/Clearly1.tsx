@@ -15,7 +15,7 @@ export default function CLEARly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-ro-rang"><mark className="highlight-tertiary-padding-4-8">ADverbs: rõ ràng</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-CLEARly"><mark className="highlight-tertiary-padding-4-8">CLEARly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">CLEARly
         <sup><Link to="/vocabulary/CLEARly-1">&nbsp;1&nbsp;</Link>
@@ -63,7 +63,7 @@ export default function CLEARly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>CLEARly</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "CLEARly."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function CLEARly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Rõ ràng</li>
+            <li>Clearly</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function CLEARly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>CLEARly</strong>" được dùng để nhấn mạnh rằng một điều gì đó rất dễ hiểu, dễ nhìn thấy, hoặc không có sự mơ hồ nào. Nó cũng có thể được dùng để chỉ một cách rõ ràng, không có sự nghi ngờ.</p>
+      <p className="margin-top-30 text-indent-whole">The word "CLEARly" is used to emphasize that something is very easy to understand, easy to see, or completely unambiguous. It can also be used to indicate something that is clear and beyond doubt.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she CLEARly exPLAINED the RULES.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã giải thích rõ ràng các quy tắc.</li>
+          <li className="margin-bottom-20 list-none">She made it clear what the rules were.</li>
 
           <li>the ANswer is CLEARly NO.</li>
-          <li className="list-none">Câu trả lời rõ ràng là không.</li>
+          <li className="list-none">The answer is definitely no.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function CLEARly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the SKY is CLEAR toDAY.</li>
-          <li className="margin-bottom-20 list-none">Hôm nay trời trong xanh.</li>
+          <li className="margin-bottom-20 list-none">The sky is not cloudy today.</li>
 
           <li id="NOUN">the CLARity of her explaNAtion was imPRESsive.</li>
-          <li className="list-none">Sự rõ ràng trong lời giải thích của cô ấy thật ấn tượng.</li>
+          <li className="list-none">The explanation was very clear.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function CLEARly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/OBviously-1">OBviously</Link>, he's LYing.</li>
-          <li className="margin-bottom-20 list-none">Rõ ràng là anh ta đang nói dối.</li>
+          <li className="margin-bottom-20 list-none">He obviously isn't being honest.</li>
 
           <li>the ANswer is PLAINly WRONG.</li>
-          <li className="list-none">Câu trả lời rõ ràng là sai.</li>
+          <li className="list-none">The answer is obviously incorrect.</li>
 
         </ul>
 
@@ -158,10 +158,10 @@ export default function CLEARly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i VAGUEly reMEMber his NAME.</li>
-          <li className="margin-bottom-20 list-none">Tôi chỉ nhớ lờ mờ tên của anh ấy.</li>
+          <li className="margin-bottom-20 list-none">I don't remember his name very well.</li>
 
           <li>she SPOKE unCLEARly.</li>
-          <li className="list-none">Cô ấy nói không rõ ràng.</li>
+          <li className="list-none">Her speech was hard to understand.</li>
 
         </ul>
       
@@ -182,12 +182,12 @@ export default function CLEARly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một bức tranh rất rõ nét.</p>
+      <p className="text-indent-whole">Imagine a very clear picture.</p>
 
         <ul className="list-square">
 
           <li>you can CLEARly SEE <strong>ever</strong>y deTAIL in the PICture.</li>
-          <li className="list-none">Bạn có thể nhìn rõ từng chi tiết trong bức ảnh.</li>
+          <li className="list-none">The picture is clear and detailed.</li>
 
         </ul>
 
@@ -202,12 +202,12 @@ export default function CLEARly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>clearly</strong>" trong nhiều ngữ cảnh.</p>
+      <p className="text-indent-whole">Create various example sentences using the word "CLEARly" in different contexts.</p>
 
         <ul className="list-square">
 
           <li>i can CLEARly SEE the DIFFERence between the TWO.</li>
-          <li className="list-none">Tôi có thể nhận thấy rõ ràng sự khác biệt giữa hai thứ đó.</li>
+          <li className="list-none">There is a clear difference between the two.</li>
 
         </ul>
 
@@ -222,23 +222,23 @@ export default function CLEARly1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này khi bạn muốn nhấn mạnh sự rõ ràng của một ý kiến.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word frequently when you want to emphasize the clarity of an opinion.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">i underSTAND.</li>
-            <li className="list-none margin-bottom-20">Tôi hiểu rồi.</li>
+            <li className="list-none margin-bottom-20">I get it.</li>
 
             <li value="2">i underSTAND CLEARly.</li>
-            <li className="list-none margin-bottom-20">Tôi hiểu rõ ràng.</li>
+            <li className="list-none margin-bottom-20">I understand it perfectly.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>CLEARly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng sự hiểu biết là hoàn toàn</span> và không có bất kỳ sự mơ hồ nào.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "CLEARly" to <span className="highlight-255-padding-0-4">emphasize that the understanding is complete</span> and leaves no room for ambiguity.</p>
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -254,9 +254,9 @@ export default function CLEARly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh: "<strong>CLEARly</strong>" thường được dùng để nhấn mạnh một ý kiến hoặc một sự thật.</li>
+          <li>Emphasis: "CLEARly" is often used to emphasize an opinion or a fact.</li>
 
-          <li className="margin-bottom-20">Không có nghi ngờ: Nó cho thấy rằng không có sự nghi ngờ nào về điều đang được nói đến.</li>
+          <li className="margin-bottom-20">No doubt: It indicates that there is no doubt about what is being discussed.</li>
 
         </ul>
 
