@@ -75,7 +75,7 @@ export default function JOYfully2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>JOYfully</strong>" (vui vẻ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “JOYfully” (joyfully) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function JOYfully2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để mô tả một hành động, cảm xúc hoặc trạng thái được thực hiện hoặc trải nghiệm với niềm vui sướng, hạnh phúc.
+            &nbsp;is often used to describe an action, emotion, or state that is performed or experienced with joy and happiness.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function JOYfully2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="acCEPTed">the inviTAtion was JOYfully acCEPTed.</li>
-        <li className="list-none margin-bottom-20">Lời mời đã được nhận với niềm vui sướng.</li>
+        <li className="list-none margin-bottom-20">They said yes to the invitation, and they were happy about it.</li>
 
         <li value="2" id="parTICipated-in">the CHILDren JOYfully parTICipated in the GAMES.</li>
-        <li className="list-none margin-bottom-20">Các em nhỏ đã hào hứng tham gia các trò chơi.</li>
+        <li className="list-none margin-bottom-20">The children had fun playing the games.</li>
 
         <li value="3" id="CELebrated">their WEDding was JOYfully CELebrated by FRIENDS and FAMILy.</li>
-        <li className="list-none margin-bottom-20">Lễ cưới của họ đã được bạn bè và gia đình tổ chức trong không khí hân hoan.</li>
+        <li className="list-none margin-bottom-20">Their wedding was a happy event for their friends and family.</li>
 
         <li value="4" id="anTICipated">the HOLiday was JOYfully anTICipated by the CHILDren.</li>
-        <li className="list-none margin-bottom-20">Các em nhỏ đã háo hức mong chờ ngày lễ này.</li>
+        <li className="list-none margin-bottom-20">The children were looking forward to the holiday.</li>
 
         <li value="5" id="emBRACED">the COUPle JOYfully emBRACED <strong>af</strong>ter a LONG sepaRAtion.</li>
-        <li className="list-none margin-bottom-20">Cặp đôi đã vui vẻ ôm chầm lấy nhau sau một thời gian dài xa cách.</li>
+        <li className="list-none margin-bottom-20">The couple was happy to be together again after being separated for a long time.</li>
 
         <li value="6" id="SHARED">they JOYfully SHARED their exPEriences with each OTHer.</li>
-        <li className="list-none margin-bottom-20">Họ đã hào hứng chia sẻ những trải nghiệm của mình với nhau.</li>
+        <li className="list-none margin-bottom-20">They shared their experiences with each other and had a great time doing it.</li>
 
         <li value="7" id="exCLAIMED">"i WON!" she JOYfully exCLAIMED.</li>
-        <li className="list-none margin-bottom-20">"Tôi thắng rồi!" cô reo lên đầy hân hoan.</li>
+        <li className="list-none margin-bottom-20">"I won!" she said, excited.</li>
 
         <li value="8" id="reTURNED">the TRAVelers JOYfully reTURNED HOME.</li>
-        <li className="list-none margin-bottom-20">Các du khách đã hân hoan trở về nhà.</li>
+        <li className="list-none margin-bottom-20">The travelers happily came home again.</li>
 
         <li value="9" id="SANG-in">the BIRDS JOYfully SANG in the MORNing.</li>
-        <li className="list-none margin-bottom-20">Các chú chim hân hoan hót vang vào buổi sáng.</li>
+        <li className="list-none margin-bottom-20">In the morning, the birds sang with joy.</li>
 
         <li value="10" id="DANCED-to">the CHILDren JOYfully DANCED to the MUsic.</li>
-        <li className="list-none margin-bottom-20">Các em nhỏ nhảy múa vui vẻ theo điệu nhạc.</li>
+        <li className="list-none margin-bottom-20">The children danced happily to the music.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh cảm giác vui sướng, hạnh phúc và sự tích cực trong một hành động hoặc trạng thái. Chúng thường được sử dụng để miêu tả những khoảnh khắc đáng nhớ và những trải nghiệm tuyệt vời trong cuộc sống.</p>
+      <p>** All of the phrases above emphasize feelings of joy, happiness, and positivity in an action or state. They are often used to describe memorable moments and wonderful experiences in life.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function JOYfully2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>JOYfully</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"JOYfully" is often used before an action to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/HAPpily-1">HAPpily</Link>", "GLADly", "<Link to="/vocabulary/CHEERfully-1">CHEERfully</Link>" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">This word can be replaced with synonyms such as "<Link to="/vocabulary/HAPpily-1">HAPpily</Link>" "GLADly" or "<Link to="/vocabulary/CHEERfully-1">CHEERfully</Link>" to add variety to your writing style.</li>
 
         </ul>
 

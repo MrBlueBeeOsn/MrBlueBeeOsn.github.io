@@ -63,7 +63,7 @@ export default function POSitively1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>POSitively</strong>" nhé.</p>
+      <p>Great! Let's explore the word "POSitively" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function POSitively1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Tích cực</li>
+            <li>Positive</li>
 
           </ul>
 
@@ -91,15 +91,15 @@ export default function POSitively1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>POSitively</strong>" có thể mang nhiều ý nghĩa tùy thuộc vào ngữ cảnh:</p>
+      <p className="margin-top-30 text-indent-whole">The word "POSitively" can have several meanings depending on the context:</p>
       
         <ol>
       
-          <li>Một cách tích cực: Thể hiện sự lạc quan, hy vọng, hoặc hướng tới điều tốt đẹp.</li>
+          <li>In a positive sense: Expressing optimism, hope, or a focus on the good.</li>
       
-          <li>Một cách khẳng định, quả quyết: Thể hiện sự chắc chắn, không nghi ngờ.</li>
+          <li>In an affirmative, decisive sense: Expressing certainty, without doubt.</li>
       
-          <li>Một cách có lợi: Mang lại kết quả tốt.</li>
+          <li>In a beneficial sense: Leading to good results.</li>
       
         </ol>
 
@@ -108,13 +108,13 @@ export default function POSitively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb">he reSPONDed POSitively to the sugGEStion.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã phản hồi tích cực trước đề xuất đó.</li>
+          <li className="margin-bottom-20 list-none">He agreed with the idea and said yes.</li>
 
           <li>she POSitively iDENtified the SUSpect.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã xác định chắc chắn danh tính của nghi phạm.</li>
+          <li className="margin-bottom-20 list-none">She was able to identify the suspect without a doubt.</li>
 
           <li>the NEW POLicy POSitively imPACted the COMpany's PROfits.</li>
-          <li className="list-none">Chính sách mới đã tác động tích cực đến lợi nhuận của công ty.</li>
+          <li className="list-none">The new rule had a positive impact on the company's profits.</li>
 
         </ul>
 
@@ -131,13 +131,13 @@ export default function POSitively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he has a POSitive ATtitude.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy có một thái độ tích cực.</li>
+          <li className="margin-bottom-20 list-none">He is optimistic and upbeat.</li>
 
           <li className="list-none">the TEST reSULT was POSitive.</li>
-          <li className="margin-bottom-20 list-none">Kết quả xét nghiệm là dương tính.</li>
+          <li className="margin-bottom-20 list-none">The test result was good.</li>
 
           <li id="NOUN">her posiTIVity is conTAgious.</li>
-          <li className="list-none">Sự tích cực của cô ấy thật lây lan.</li>
+          <li className="list-none">She is very positive, and that positivity is infectious.</li>
 
         </ul>
 
@@ -154,13 +154,13 @@ export default function POSitively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she CERtainly KNOWS WHAT she's DOing.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy chắc chắn biết mình đang làm gì.</li>
+          <li className="margin-bottom-20 list-none">She is very skilled and knowledgeable.</li>
 
           <li>he LOOKED at the FUture optiMIStically.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy nhìn về tương lai với tinh thần lạc quan.</li>
+          <li className="margin-bottom-20 list-none">He looked to the future with a positive outlook.</li>
 
           <li>the CRITics reVIEWED the MOvie FAvorably.</li>
-          <li className="list-none">Các nhà phê bình đã đánh giá bộ phim này một cách tích cực.</li>
+          <li className="list-none">The movie received a good review from critics.</li>
 
         </ul>
 
@@ -179,13 +179,13 @@ export default function POSitively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he reACTed NEGatively to the NEWS.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã có phản ứng tiêu cực trước tin tức đó.</li>
+          <li className="margin-bottom-20 list-none">He was upset by the news.</li>
 
           <li>she SPOKE unCERtainly a<strong>bout</strong> her PLANS.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy nói một cách không chắc chắn về những kế hoạch của mình.</li>
+          <li className="margin-bottom-20 list-none">She didn't sound very confident when she talked about her future.</li>
 
           <li>the BAD WEAther ADversely afFECTed the CROPS.</li>
-          <li className="list-none">Thời tiết xấu đã gây ảnh hưởng tiêu cực đến mùa màng.</li>
+          <li className="list-none">The bad weather hurt the crops.</li>
 
         </ul>
       
@@ -206,12 +206,12 @@ export default function POSitively1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang mỉm cười và nói "yes" một cách quả quyết.</p>
+      <p className="text-indent-whole">Imagine someone smiling and saying "yes" with conviction.</p>
 
         <ul className="list-square">
 
           <li>he NODded and POSitively afFIRMED, "YES, we can DO it."</li>
-          <li className="list-none">Anh ấy gật đầu và khẳng định một cách chắc chắn: “Đúng, chúng ta có thể làm được.”</li>
+          <li className="list-none">He nodded and emphatically said, "Yes, we can do it!"</li>
 
         </ul>
 
@@ -226,12 +226,12 @@ export default function POSitively1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến các tình huống khác nhau để hiểu rõ các nghĩa của từ.</p>
+      <p className="text-indent-whole">Create sentences related to different situations to fully understand the meanings of the words.</p>
 
         <ul className="list-square">
 
           <li>the PAtient reSPONDed POSitively to the TREATment.</li>
-          <li className="list-none">Bệnh nhân đã có phản ứng tích cực với phương pháp điều trị.</li>
+          <li className="list-none">The patient reacted well to the treatment.</li>
 
         </ul>
 
@@ -253,16 +253,16 @@ export default function POSitively1(): React.JSX.Element {
           <ol>
 
             <li value="1">he ANswered the QUESTion.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi đó.</li>
+            <li className="list-none margin-bottom-20">He responded to the question.</li>
 
             <li value="2">he ANswered the QUESTion POSitively.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi đó một cách khẳng định.</li>
+            <li className="list-none margin-bottom-20">He said "Yes" to the question.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> sự chắc chắn hoặc <span className="highlight-255-padding-0-4">thái độ tích cực trong câu trả lời</span> của anh ấy.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes the certainty or positive attitude</span> in his response.</p>
 
       </div>
 
@@ -278,9 +278,9 @@ export default function POSitively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Đa nghĩa: "<strong>POSitively</strong>" có thể mang nhiều ý nghĩa khác nhau, cần xem xét ngữ cảnh để hiểu chính xác.</li>
+          <li>Multiple meanings: "POSitively" can have several different meanings; context must be considered to understand it accurately</li>
 
-          <li className="margin-bottom-20">Thường dùng trong nhiều ngữ cảnh: Từ này được sử dụng rộng rãi trong nhiều lĩnh vực, từ giao tiếp hàng ngày đến khoa học và kinh doanh.</li>
+          <li className="margin-bottom-20">Commonly used in many contexts: This word is widely used in many fields, from everyday communication to science and business.</li>
 
         </ul>
 

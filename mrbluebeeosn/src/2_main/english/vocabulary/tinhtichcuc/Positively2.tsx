@@ -75,7 +75,7 @@ export default function POSitively2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>POSitively</strong>" (tích cực) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "POSitively" and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,9 @@ export default function POSitively2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để mô tả một hành động, suy nghĩ hoặc kết quả mang tính tích cực, tốt đẹp.
+            &nbsp;is often used to describe a positive, favorable action, thought, or outcome.
+
+
 
           </p>
 
@@ -104,38 +106,38 @@ export default function POSitively2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="imPACted">the NEW POLicy POSitively imPACted emPLOYee moRALE.</li>
-        <li className="list-none margin-bottom-20">Chính sách mới đã tác động tích cực đến tinh thần làm việc của nhân viên.</li>
+        <li className="list-none margin-bottom-20">The new policy made employees' morale better.</li>
 
         <li value="2" id="INfluenced">the MENtor POSitively INfluenced her caREER PATH.</li>
-        <li className="list-none margin-bottom-20">Người cố vấn đã tác động tích cực đến con đường sự nghiệp của cô.</li>
+        <li className="list-none margin-bottom-20">The mentorship program had a positive impact on her career path.</li>
 
         <li value="3" id="conTRIButed">he POSitively conTRIButed to the sucCESS of the PROject.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã đóng góp tích cực vào thành công của dự án.</li>
+        <li className="list-none margin-bottom-20">He helped make the project a success.</li>
 
         <li value="4" id="afFECTS">EXercise POSitively afFECTS both PHYSical and MENtal HEALTH.</li>
-        <li className="list-none margin-bottom-20">Tập thể dục có tác động tích cực đến cả sức khỏe thể chất lẫn tinh thần.</li>
+        <li className="list-none margin-bottom-20">Doing exercise in a positive way can improve both your physical and mental health.</li>
 
         <li value="5" id="reSPONDed">the CUStomers POSitively reSPONDed to the NEW PROduct.</li>
-        <li className="list-none margin-bottom-20">Khách hàng đã phản hồi tích cực về sản phẩm mới.</li>
+        <li className="list-none margin-bottom-20">The customers reacted positively to the new product.</li>
 
         <li value="6" id="CHANGED">the NEW MANagement POSitively CHANGED the COMpany's CULture.</li>
-        <li className="list-none margin-bottom-20">Ban lãnh đạo mới đã thay đổi tích cực văn hóa doanh nghiệp.</li>
+        <li className="list-none margin-bottom-20">The new management made big changes that had a positive effect on the company's culture.</li>
 
         <li value="7" id="reinFORCED">the TEAcher POSitively reinFORCED the STUdents' EFforts.</li>
-        <li className="list-none margin-bottom-20">Giáo viên đã khích lệ tích cực những nỗ lực của học sinh.</li>
+        <li className="list-none margin-bottom-20">The teacher helped the students feel good about their efforts.</li>
 
         <li value="8" id="proMOted">the camPAIGN POSitively proMOted HEALthy EAting HABits.</li>
-        <li className="list-none margin-bottom-20">Chiến dịch này đã tích cực khuyến khích các thói quen ăn uống lành mạnh.</li>
+        <li className="list-none margin-bottom-20">The campaign encouraged people to have healthier eating habits.</li>
 
         <li value="9" id="VIEWED">he POSitively VIEWED the CHALlenges as opporTUnities for GROWTH.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã nhìn nhận những thách thức một cách tích cực như những cơ hội để phát triển.</li>
+        <li className="list-none margin-bottom-20">He saw challenges as chances to grow.</li>
 
         <li value="10" id="afFECT">HARD WORK and dediCAtion POSitively afFECT the OUTcome of any PROject.</li>
-        <li className="list-none margin-bottom-20">Sự chăm chỉ và tâm huyết có tác động tích cực đến kết quả của bất kỳ dự án nào.</li>
+        <li className="list-none margin-bottom-20">Working hard and being committed to your project will make it more likely to be successful.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính tích cực, tốt đẹp của một hành động, suy nghĩ hoặc kết quả. Chúng thường được sử dụng để miêu tả những tình huống mang lại lợi ích, sự hài lòng hoặc thành công.</p>
+      <p>** The phrases above all emphasize the positive, favorable nature of an action, thought, or outcome. They are often used to describe situations that bring benefits, satisfaction, or success.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +149,9 @@ export default function POSitively2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>POSitively</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"POSitively" is often used before a verb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này mang nghĩa tích cực, thể hiện sự tốt đẹp, có lợi.</li>
+          <li className="margin-bottom-20">This word has a positive meaning, expressing something good or beneficial.</li>
 
         </ul>
 

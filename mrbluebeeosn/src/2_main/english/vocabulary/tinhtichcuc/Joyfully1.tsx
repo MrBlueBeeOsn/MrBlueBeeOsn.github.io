@@ -63,7 +63,7 @@ export default function JOYfully1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>JOYfully</strong>" nhé.</p>
+      <p>Great! Let's explore the word "JOYfully" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function JOYfully1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Vui vẻ</li>
+            <li>Happy</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function JOYfully1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>JOYfully</strong>" được sử dụng để miêu tả một hành động được thực hiện với niềm vui, sự thích thú và sự phấn khích. Nó thể hiện một trạng thái cảm xúc tích cực và vui vẻ.</p>
+      <p className="margin-top-30 text-indent-whole">The word "JOYfully" is used to describe an action performed with joy, pleasure, and excitement. It conveys a positive and cheerful emotional state.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">the CHILDren PLAYED JOYfully in the PARK.</li>
-          <li className="margin-bottom-20 list-none">Các em nhỏ đã vui vẻ chơi đùa trong công viên.</li>
+          <li className="margin-bottom-20 list-none">The kids were having a great time playing in the park.</li>
 
           <li>she acCEPTed the aWARD JOYfully.</li>
-          <li className="list-none">Cô đã vui vẻ nhận giải thưởng.</li>
+          <li className="list-none">She was happy when she received the award.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function JOYfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">she had a JOYful exPRESsion on her FACE.</li>
-          <li className="list-none">Trên khuôn mặt cô ấy hiện lên nét mặt tràn đầy niềm vui.</li>
+          <li className="margin-bottom-20 list-none">Her face showed her happiness.</li>
 
           <li id="NOUN">the CHILDren FELT GREAT JOY at reCEIVinɡ the GIFTS.</li>
-          <li className="margin-bottom-20 list-none">Các em nhỏ đã cảm thấy vô cùng vui sướng khi nhận được những món quà.</li>
+          <li className="list-none">The children were really happy when they got the gifts.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function JOYfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>they LIVED <Link to="/vocabulary/HAPpily-1">HAPpily</Link> EVer AFter.</li>
-          <li className="margin-bottom-20 list-none">Họ đã sống hạnh phúc mãi mãi về sau.</li>
+          <li className="margin-bottom-20 list-none">They were very happy together.</li>
 
           <li>i will GLADly HELP you.</li>
-          <li className="list-none">Tôi sẽ rất hân hạnh giúp bạn.</li>
+          <li className="list-none">I'm happy to help you.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function JOYfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he SHOOK his HEAD SADly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy lắc đầu một cách buồn bã.</li>
+          <li className="margin-bottom-20 list-none">He shook his head, looking upset.</li>
 
           <li>she CRIED SORrowfully.</li>
-          <li className="list-none">Cô ấy khóc nức nở.</li>
+          <li className="list-none">She was crying, feeling sad.</li>
 
         </ul>
       
@@ -184,12 +184,12 @@ export default function JOYfully1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một đứa trẻ cười toe toét khi nhận được một món quà.</p>
+      <p className="text-indent-whole">Imagine a child grinning from ear to ear when receiving a gift.</p>
 
         <ul className="list-square">
 
           <li>she OPened the PREsent and LAUGHED JOYfully.</li>
-          <li className="list-none">Cô ấy mở món quà ra và cười rạng rỡ.</li>
+          <li className="list-none">She was happy when she opened the gift and laughed with joy.</li>
 
         </ul>
 
@@ -204,12 +204,12 @@ export default function JOYfully1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến các hoạt động mang lại niềm vui.</p>
+      <p className="text-indent-whole">Create sentences related to activities that bring joy.</p>
 
         <ul className="list-square">
 
           <li>she SANG JOYfully in the SHOWer.</li>
-          <li className="list-none">Cô ấy hát vui vẻ dưới vòi sen.</li>
+          <li className="list-none">She was singing with such joy in the shower!</li>
 
         </ul>
 
@@ -231,16 +231,16 @@ export default function JOYfully1(): React.JSX.Element {
           <ol>
 
             <li value="1">she WENT to WORK.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đi làm.</li>
+            <li className="list-none margin-bottom-20">She headed to work.</li>
 
             <li value="2">she WENT to WORK JOYfully.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đi làm với tâm trạng vui vẻ.</li>
+            <li className="list-none margin-bottom-20">She went to work and was happy about it.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng cô ấy cảm thấy <span className="highlight-255-padding-0-4">vui vẻ khi đi làm</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that she feels happy</span> when she goes to work.</p>
 
       </div>
 
@@ -256,9 +256,9 @@ export default function JOYfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Cảm xúc tích cực: "<strong>JOYfully</strong>" luôn liên quan đến cảm xúc tích cực và vui vẻ.</li>
+          <li>Positive emotions: "JOYfully" is always associated with positive and joyful emotions.</li>
 
-          <li className="margin-bottom-20">Hành động: Nó thường được sử dụng để miêu tả các hành động thể hiện niềm vui.</li>
+          <li className="margin-bottom-20">Actions: It is often used to describe actions that express joy.</li>
 
         </ul>
 
