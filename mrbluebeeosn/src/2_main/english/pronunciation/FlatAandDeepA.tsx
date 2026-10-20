@@ -76,7 +76,7 @@ export default function FlatAandDeepA(): React.JSX.Element {
       
           <li>CATalyst \ˈka-tə-ləst\ vs COTtage \ˈkä-tij\</li>
       
-          <li>MANage \ˈma-nij\ vs MOdel \ˈmä-dəl\</li>
+          <li>MANage \ˈma-nij\ vs MODel \ˈmä-dəl\</li>
       
         </ul>
 

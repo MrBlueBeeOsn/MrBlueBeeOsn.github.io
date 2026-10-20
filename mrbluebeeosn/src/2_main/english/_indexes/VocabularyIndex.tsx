@@ -1042,12 +1042,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: tỉ mỉ
+							ADverbs: meTICulous
 				============================= */}
 
 				<details className="sub-box-fix">
 	
-					<summary id="adverbs-ti-mi"><mark className="highlight-secondary-padding-2-4">ADverbs: tỉ mỉ</mark></summary>
+					<summary id="ADverbs-meTICulous"><mark className="highlight-secondary-padding-2-4">ADverbs: meTICulous</mark></summary>
 
 					<ul className="list-border1">
 

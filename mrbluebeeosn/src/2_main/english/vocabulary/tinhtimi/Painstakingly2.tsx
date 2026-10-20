@@ -15,7 +15,7 @@ export default function PAINstakingly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-ti-mi"><mark className="highlight-tertiary-padding-4-8">ADverbs: tỉ mỉ</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-meTICulous"><mark className="highlight-tertiary-padding-4-8">ADverbs: meTICulous</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">PAINstakingly
         <sup>
@@ -75,7 +75,7 @@ export default function PAINstakingly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>PAINstakingly</strong>" (một cách tỉ mỉ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "PAINstakingly" (meticulously) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function PAINstakingly2(): React.JSX.Element {
             
             </span>
             
-            &nbsp;thường được dùng để mô tả một hành động hoặc quá trình được thực hiện một cách tỉ mỉ, cẩn thận, đòi hỏi nhiều công sức và sự chú ý đến từng chi tiết.
+            &nbsp;is often used to describe an action or process carried out meticulously and carefully, requiring a great deal of effort and attention to detail.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function PAINstakingly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="reSEARCHED">the SCIentists PAINstakingly reSEARCHED the efFECTS of the NEW DRUG.</li>
-        <li className="list-none margin-bottom-20">Các nhà khoa học đã tiến hành nghiên cứu một cách tỉ mỉ về tác dụng của loại thuốc mới này.</li>
+        <li className="list-none margin-bottom-20">The scientists thoroughly researched how the new drug would affect people.</li>
 
         <li value="2" id="ANalyzed">the DAta was PAINstakingly ANalyzed to FIND any PATterns.</li>
-        <li className="list-none margin-bottom-20">Dữ liệu đã được phân tích một cách tỉ mỉ để tìm ra bất kỳ mẫu nào.</li>
+        <li className="list-none margin-bottom-20">The data was closely examined for any patterns.</li>
 
         <li value="3" id="creAted">the ARtist PAINstakingly creAted the INtricate SCULPture.</li>
-        <li className="list-none margin-bottom-20">Nghệ sĩ đã tỉ mỉ tạo nên tác phẩm điêu khắc tinh xảo này.</li>
+        <li className="list-none margin-bottom-20">The artist spent a lot of time and effort to create the complex sculpture.</li>
 
         <li value="4" id="PLANNED">the TEAM PAINstakingly PLANNED the eVENT to enSURE its sucCESS.</li>
-        <li className="list-none margin-bottom-20">Đội ngũ đã lên kế hoạch tỉ mỉ cho sự kiện này để đảm bảo sự thành công của nó.</li>
+        <li className="list-none margin-bottom-20">The team spent a lot of time planning the event to make sure it was a success.</li>
 
         <li value="5" id="reSTORED">the oRIGinal CAR was PAINstakingly reSTORED to its oRIGinal conDItion.</li>
-        <li className="list-none margin-bottom-20">Chiếc xe nguyên bản đã được phục chế một cách tỉ mỉ để trở lại trạng thái ban đầu.</li>
+        <li className="list-none margin-bottom-20">The original car was carefully restored to look like it did when it was new.</li>
 
         <li value="6" id="DOCumented">the hisTORian PAINstakingly DOCumented the eVENTs of the WAR.</li>
-        <li className="list-none margin-bottom-20">Nhà sử học đã ghi chép một cách tỉ mỉ các sự kiện của cuộc chiến.</li>
+        <li className="list-none margin-bottom-20">The historian carefully wrote down what happened during the war.</li>
 
         <li value="7" id="eXAMined">the deTECtive PAINstakingly eXAMined the CRIME SCENE.</li>
-        <li className="list-none margin-bottom-20">Vị thám tử đã tỉ mỉ khám nghiệm hiện trường vụ án.</li>
+        <li className="list-none margin-bottom-20">The detective looked over the crime scene very closely.</li>
 
         <li value="8" id="reVIEWED">the LAWyer PAINstakingly reVIEWED the CONtract.</li>
-        <li className="list-none margin-bottom-20">Luật sư đã xem xét kỹ lưỡng bản hợp đồng.</li>
+        <li className="list-none margin-bottom-20">The lawyer looked at the contract very carefully.</li>
 
-        <li value="9" id="asSEMbled-over">the mOdel AIRplane was PAINstakingly asSEMbled <strong>o</strong>ver SEVEral WEEks.</li>
-        <li className="list-none margin-bottom-20">Mô hình máy bay này đã được lắp ráp một cách tỉ mỉ trong suốt vài tuần.</li>
+        <li value="9" id="asSEMbled-over">the MODel AIRplane was PAINstakingly asSEMbled <strong>o</strong>ver SEVEral WEEks.</li>
+        <li className="list-none margin-bottom-20">The model plane was carefully put together over the past few months.</li>
 
         <li value="10" id="ORganized">the eVENT was PAINstakingly ORganized to enSURE a SMOOTH exPErience.</li>
-        <li className="list-none margin-bottom-20">Sự kiện này đã được tổ chức một cách tỉ mỉ và công phu để đảm bảo một trải nghiệm suôn sẻ.</li>
+        <li className="list-none margin-bottom-20">The event was organized very carefully to guarantee that everything would go smoothly.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính tỉ mỉ, cẩn thận, đòi hỏi nhiều công sức và sự chú ý đến từng chi tiết. Chúng thường được sử dụng để miêu tả những hành động hoặc quá trình cần sự chính xác và hoàn hảo.</p>
+      <p>** All of the above phrases emphasize meticulousness, care, and the need for considerable effort and attention to every detail. They are often used to describe actions or processes that require precision and perfection.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function PAINstakingly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>PAINstakingly</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"PAINstakingly" is usually placed before a verb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này mang nghĩa tích cực, thể hiện sự cẩn thận, tỉ mỉ.</li>
+          <li className="margin-bottom-20">This word has a positive connotation, expressing care and attention to detail.</li>
 
         </ul>
       

@@ -15,7 +15,7 @@ export default function DILigently1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-ti-mi"><mark className="highlight-tertiary-padding-4-8">ADverbs: tỉ mỉ</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-meTICulous"><mark className="highlight-tertiary-padding-4-8">ADverbs: meTICulous</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">DILigently
         <sup><Link to="/vocabulary/DILiGENTly-1">&nbsp;1&nbsp;</Link>
@@ -63,7 +63,7 @@ export default function DILigently1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>DILigently</strong>" nhé.</p>
+      <p>Great! Let's explore the word "DILigently" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function DILigently1(): React.JSX.Element {
             
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách tỉ mỉ</li>
+            <li>Meticulously</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function DILigently1(): React.JSX.Element {
       
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>DILigently</strong>" được dùng để miêu tả một hành động được thực hiện với sự chăm chỉ, nỗ lực và sự tập trung cao độ. Nó thể hiện một thái độ làm việc nghiêm túc và hiệu quả.</p>
+      <p className="margin-top-30 text-indent-whole">The word "DILigently" is used to describe an action performed with diligence, effort, and intense focus. It reflects a serious and effective work ethic.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she DILigently STUDied for the eXAM.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã học hành chăm chỉ để chuẩn bị cho kỳ thi.</li>
+          <li className="margin-bottom-20 list-none">She hit the books hard in preparation for the exam.</li>
 
           <li>the WORKers DILigently rePAIRed the ROAD.</li>
-          <li className="list-none">Các công nhân đã cần mẫn sửa chữa con đường.</li>
+          <li className="list-none">The workers toiled away to fix the road.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function DILigently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is a DILigent STUdent.</li>
-          <li className="margin-bottom-20 list-none">Cậu ấy là một học sinh siêng năng.</li>
+          <li className="margin-bottom-20 list-none">He works hard to do well in school.</li>
 
           <li id="NOUN">her DILigence was reWARded.</li>
-          <li className="list-none">Sự cần cù của cô ấy đã được đền đáp.</li>
+          <li className="list-none">Her hard work was recognized with a reward.</li>
 
         </ul>
       
@@ -138,10 +138,10 @@ export default function DILigently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the BEES inDUStriously GATHered POLlen.</li>
-          <li className="margin-bottom-20 list-none">Những con ong cần mẫn thu thập phấn hoa.</li>
+          <li className="margin-bottom-20 list-none">The bees collected pollen in a businesslike way.</li>
 
           <li>he asSIDuously WORKED on his PROject.</li>
-          <li className="list-none">Anh ấy đã miệt mài làm việc trên dự án của mình.</li>
+          <li className="list-none">He put a lot of effort into his project.</li>
 
         </ul>
 
@@ -158,10 +158,10 @@ export default function DILigently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he <Link to="/vocabulary/LAzily-1">LAzily</Link> SAT on the COUCH.</li>
-          <li className="margin-bottom-20 list-none">Anh ta lười biếng ngồi trên ghế sofa.</li>
+          <li className="margin-bottom-20 list-none">He sat on the couch without really paying attention.</li>
 
           <li>she CARElessly THREW her PApers on the FLOOR.</li>
-          <li className="list-none">Cô ấy đã vô ý ném đống giấy tờ của mình xuống sàn.</li>
+          <li className="list-none">She threw her papers on the floor, not caring about them.</li>
 
         </ul>
 
@@ -182,12 +182,12 @@ export default function DILigently1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang học bài với cuốn sách và bút, hoặc một công nhân đang làm việc chăm chỉ.</p>
+      <p className="text-indent-whole">Imagine someone studying with a book and a pen, or a worker toiling away.</p>
 
         <ul className="list-square">
 
           <li>she is PUTting in a LOT of EFfort, STUDied DILigently for the eXAM.</li>
-          <li className="list-none">Cô ấy đang nỗ lực rất nhiều, đã học hành chăm chỉ để chuẩn bị cho kỳ thi.</li>
+          <li className="list-none">She has been working hard to prepare for her exam.</li>
 
         </ul>
 
@@ -202,12 +202,12 @@ export default function DILigently1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến những hoạt động đòi hỏi sự chăm chỉ.</p>
+      <p className="text-indent-whole">Create sentences related to activities that require hard work.</p>
 
         <ul className="list-square">
 
           <li>she DILigently CLEANED the HOUSE.</li>
-          <li className="list-none">Cô ấy đã siêng năng dọn dẹp ngôi nhà.</li>
+          <li className="list-none">She cleaned the house with great care.</li>
 
         </ul>
 
@@ -229,16 +229,16 @@ export default function DILigently1(): React.JSX.Element {
           <ol>
 
             <li value="1">he WORKED on the PROject.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã tham gia vào dự án.</li>
+            <li className="list-none margin-bottom-20">He participated in the project.</li>
 
             <li value="2">he DILigently WORKED on the PROject for HOURS.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã làm việc chăm chỉ trên dự án đó trong nhiều giờ liền.</li>
+            <li className="list-none margin-bottom-20">He toiled away at the project for hours.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh sự chăm chỉ và nỗ lực</span> của anh ấy <span className="highlight-255-padding-0-4">trong việc hoàn thành</span> dự án.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes his hard work and effort</span> in completing the project.</p>
 
       </div>
 
@@ -252,9 +252,9 @@ export default function DILigently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự nỗ lực: "<strong>DILigently</strong>" luôn nhấn mạnh sự nỗ lực và sự cống hiến trong việc hoàn thành một nhiệm vụ.</li>
+          <li>Emphasizing effort: "DILigently" always emphasizes effort and dedication in completing a task.</li>
 
-          <li className="margin-bottom-20">Dùng trong ngữ cảnh tích cực: Từ này thường được sử dụng trong ngữ cảnh tích cực để miêu tả những hành động đáng khen ngợi.</li>
+          <li className="margin-bottom-20">Used in a positive context: This word is often used in a positive context to describe commendable actions.</li>
 
         </ul>
 

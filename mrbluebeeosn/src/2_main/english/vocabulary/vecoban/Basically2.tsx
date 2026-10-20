@@ -127,7 +127,7 @@ export default function BAsically2(): React.JSX.Element {
         <li value="8" id="underSTOOD-the">i THINK <strong>ever</strong>yone BAsically underSTOOD the inSTRUCtions.</li>
         <li className="list-none margin-bottom-20">Everyone pretty much got the instructions.</li>
 
-        <li value="9" id="the-SAME-as-the">this NEW MOdel is BAsically the SAME as the OLD one.</li>
+        <li value="9" id="the-SAME-as-the">this NEW MODel is BAsically the SAME as the OLD one.</li>
         <li className="list-none margin-bottom-20">This new model isn't very different from the old one.</li>
 
         <li value="10" id="SPEAKing">BAsically SPEAKing, we NEED MORE TIME to FInish the PROject.</li>
