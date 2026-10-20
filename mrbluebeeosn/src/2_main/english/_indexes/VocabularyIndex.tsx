@@ -792,12 +792,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: tích cực
+							ADverbs: POSitive
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-tich-cuc"><mark className="highlight-secondary-padding-2-4">ADverbs: tích cực</mark></summary>
+					<summary id="ADverbs-POSitive"><mark className="highlight-secondary-padding-2-4">ADverbs: POSitive</mark></summary>
 
 					<ul className="list-border1">
 

@@ -15,7 +15,7 @@ export default function HAPpily1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-tich-cuc"><mark className="highlight-tertiary-padding-4-8">ADverbs: tích cực</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-POSitive"><mark className="highlight-tertiary-padding-4-8">ADverbs: POSitive</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">HAPpily
         <sup><Link to="/vocabulary/HAPpily-1">&nbsp;1&nbsp;</Link>
@@ -63,7 +63,7 @@ export default function HAPpily1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>HAPpily</strong>" nhé.</p>
+      <p>Great! Let's explore the word "HAPpily" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function HAPpily1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Hạnh phúc</li>
+            <li>Happiness</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function HAPpily1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>HAPpily</strong>" được dùng để mô tả một hành động, trạng thái hoặc tình huống diễn ra trong niềm vui, sự hài lòng và mãn nguyện. Nó thể hiện cảm xúc tích cực của con người.</p>
+      <p className="margin-top-30 text-indent-whole">The word "HAPpily" is used to describe an action, state, or situation characterized by joy, satisfaction, and contentment. It expresses positive human emotions.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">they LIVED HAPpily EVer AFter.</li>
-          <li className="margin-bottom-20 list-none">Họ đã sống hạnh phúc mãi mãi về sau.</li>
+          <li className="margin-bottom-20 list-none">They were very happy together.</li>
 
           <li>she SMILED HAPpily.</li>
-          <li className="list-none">Cô ấy mỉm cười vui vẻ.</li>
+          <li className="list-none">She smiled, looking very happy.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function HAPpily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">i am VERY HAPpy to SEE you.</li>
-          <li className="margin-bottom-20 list-none">Tôi rất vui khi được gặp bạn.</li>
+          <li className="margin-bottom-20 list-none">I'm thrilled to see you.</li>
 
           <li id="NOUN">HAPpiness is the KEY to a GOOD LIFE.</li>
-          <li className="list-none">Hạnh phúc là chìa khóa dẫn đến một cuộc sống tốt đẹp.</li>
+          <li className="list-none">Being happy is the most important thing in life.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function HAPpily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the CHILDren PLAYED <Link to="/vocabulary/JOYfully-1">JOYfully</Link>.</li>
-          <li className="margin-bottom-20 list-none">Các em nhỏ chơi đùa vui vẻ.</li>
+          <li className="margin-bottom-20 list-none">The children were happy.</li>
 
           <li>i will GLADly HELP you.</li>
-          <li className="list-none">Tôi sẽ rất hân hạnh giúp bạn.</li>
+          <li className="list-none">I am happy to help you.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function HAPpily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>SADly, he LOST his JOB.</li>
-          <li className="margin-bottom-20 list-none">Thật đáng buồn, anh ấy đã mất việc.</li>
+          <li className="margin-bottom-20 list-none">Unfortunately, his job is no longer available.</li>
 
           <li>she LIVED unHAPpily EVer AFter.</li>
-          <li className="list-none">Cô ấy đã sống một cuộc đời bất hạnh mãi mãi về sau.</li>
+          <li className="list-none">She was never happy again.</li>
 
         </ul>
       
@@ -184,12 +184,12 @@ export default function HAPpily1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang cười và ôm một chú chó con.</p>
+      <p className="text-indent-whole">Imagine a person smiling and hugging a puppy.</p>
 
         <ul className="list-square">
 
           <li>she is HAPpily CUDdling a PUPpy.</li>
-          <li className="list-none">Cô ấy đang vui vẻ ôm ấp một chú cún con.</li>
+          <li className="list-none">She is enjoying spending time with a puppy.</li>
 
         </ul>
 
@@ -204,12 +204,12 @@ export default function HAPpily1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>HAPpily</strong>" để diễn tả những khoảnh khắc hạnh phúc trong cuộc sống.</p>
+      <p className="text-indent-whole">Create your own example sentences using the word "HAPpily" to describe happy moments in life.</p>
 
         <ul className="list-square">
 
           <li>she HAPpily GRADuated from uniVERsity.</li>
-          <li className="list-none">Cô ấy đã tốt nghiệp đại học một cách vui vẻ.</li>
+          <li className="list-none">She successfully completed her university studies.</li>
 
         </ul>
 
@@ -231,16 +231,16 @@ export default function HAPpily1(): React.JSX.Element {
           <ol>
 
             <li value="1">she WENT to WORK.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đi làm.</li>
+            <li className="list-none margin-bottom-20">She went to her job.</li>
 
             <li value="2">she WENT to WORK HAPpily.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đi làm với tâm trạng vui vẻ.</li>
+            <li className="list-none margin-bottom-20">She was excited to go to work.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>HAPpily</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng cô ấy cảm thấy <span className="highlight-255-padding-0-4">vui vẻ khi đi làm</span>, không chỉ đơn thuần là đi làm.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "HAPpily" to <span className="highlight-255-padding-0-4">emphasize that she feels happy</span> going to work—not just that she’s going to work.</p>
 
       </div>
 
@@ -256,9 +256,9 @@ export default function HAPpily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Cảm xúc tích cực: "<strong>HAPpily</strong>" luôn liên quan đến những cảm xúc tích cực như vui vẻ, hài lòng.</li>
+          <li>Positive emotions: "HAPpily" is always associated with positive emotions such as joy and contentment.</li>
 
-          <li className="margin-bottom-20">Trạng thái tâm lý: Nó thường được dùng để mô tả trạng thái tâm lý của một người trong một tình huống cụ thể.</li>
+          <li className="margin-bottom-20">Mental state: It is often used to describe a person’s mental state in a specific situation.</li>
 
         </ul>
 

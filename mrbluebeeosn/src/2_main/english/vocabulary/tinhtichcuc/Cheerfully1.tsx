@@ -15,7 +15,7 @@ export default function CHEERfully1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-tich-cuc"><mark className="highlight-tertiary-padding-4-8">ADverbs: tích cực</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-POSitive"><mark className="highlight-tertiary-padding-4-8">ADverbs: POSitive</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">CHEERfully
         <sup><Link to="/vocabulary/CHEERfully-1">&nbsp;1&nbsp;</Link>
@@ -67,7 +67,7 @@ export default function CHEERfully1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>CHEERfully</strong>" nhé.</p>
+      <p>Great! Let's explore the word "CHEERfully" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -83,7 +83,7 @@ export default function CHEERfully1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Vui vẻ</li>
+            <li>Happy</li>
 
           </ul>
 
@@ -95,17 +95,17 @@ export default function CHEERfully1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>CHEERfully</strong>" được dùng để miêu tả một hành động hoặc thái độ được thực hiện một cách vui vẻ, lạc quan, thể hiện sự hài lòng hoặc hứng thú.</p>
+      <p className="margin-top-30 text-indent-whole">The word "CHEERfully" is used to describe an action or attitude carried out in a cheerful, optimistic manner, expressing satisfaction or enthusiasm.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she GREETed me CHEERfully this MORNing.</li>
-          <li className="margin-bottom-20 list-none">Sáng nay, cô ấy đã chào tôi một cách vui vẻ.</li>
+          <li className="margin-bottom-20 list-none">This morning, she greeted me with a happy smile.</li>
 
           <li>he WHISTled CHEERfully as he WORKED.</li>
-          <li className="list-none">Anh ta huýt sáo vui vẻ trong lúc làm việc.</li>
+          <li className="list-none">He made a happy whistling sound while he worked.</li>
 
         </ul>
 
@@ -122,13 +122,13 @@ export default function CHEERfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">she has a CHEERful persoNALity.</li>
-          <li className="list-none">Cô ấy có tính cách VUI VẺ.</li>
+          <li className="margin-bottom-20 list-none">Her personality is full of joy.</li>
 
           <li id="VERB">the CROWD CHEERED the TEAM ON.</li>
-          <li className="margin-bottom-20 list-none">Đám đông đã cổ vũ nồng nhiệt cho đội.</li>
+          <li className="margin-bottom-20 list-none">The crowd cheered loudly to show their support for the team.</li>
 
           <li id="NOUN">her CHEER <strong>bright</strong>enED UP the ROOM.</li>
-          <li className="margin-bottom-20 list-none">Nụ cười rạng rỡ của cô ấy đã làm bừng sáng cả căn phòng.</li>
+          <li className="list-none">Her cheerful smile made the room brighter.</li>
 
         </ul>
 
@@ -145,10 +145,10 @@ export default function CHEERfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>they LIVED <Link to="/vocabulary/HAPpily-1">HAPpily</Link> EVer AFter.</li>
-          <li className="margin-bottom-20 list-none">Họ đã sống hạnh phúc mãi mãi về sau.</li>
+          <li className="margin-bottom-20 list-none">They were very happy together.</li>
 
           <li>she DANCED <Link to="/vocabulary/JOYfully-1">JOYfully</Link>.</li>
-          <li className="list-none">Cô ấy nhảy múa một cách hân hoan.</li>
+          <li className="list-none">She was dancing and feeling very happy.</li>
 
         </ul>
 
@@ -167,10 +167,10 @@ export default function CHEERfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he SHOOK his HEAD SADly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy lắc đầu một cách buồn bã.</li>
+          <li className="margin-bottom-20 list-none">He moved his head back and forth in a sad way.</li>
 
           <li>he ANswered GRUMpily.</li>
-          <li className="list-none">Anh ta trả lời một cách cáu kỉnh.</li>
+          <li className="list-none">He answered angrily.</li>
 
         </ul>
       
@@ -191,12 +191,12 @@ export default function CHEERfully1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang cười tươi rói.</p>
+      <p className="text-indent-whole">Imagine someone smiling brightly.</p>
 
         <ul className="list-square">
 
           <li>they are GRINning CHEERfully.</li>
-          <li className="list-none">Họ đang mỉm cười rạng rỡ.</li>
+          <li className="list-none">They are smiling broadly.</li>
 
         </ul>
 
@@ -211,12 +211,12 @@ export default function CHEERfully1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>CHEERfully</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Create your own example sentences using the word "CHEERfully" in various contexts.</p>
 
         <ul className="list-square">
 
           <li>she CHEERfully aGREED to HELP me with the PROject.</li>
-          <li className="list-none">Cô ấy đã vui vẻ đồng ý giúp tôi thực hiện dự án này.</li>
+          <li className="list-none">She was excited and willing to help me with the project.</li>
 
         </ul>
 
@@ -231,23 +231,23 @@ export default function CHEERfully1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này khi muốn diễn tả sự vui vẻ, hồ hởi.</p>
+      <p className="text-indent-whole margin-bottom-20">This word is often used to express joy and enthusiasm.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">he ANswered the QUESTion.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi.</li>
+            <li className="list-none margin-bottom-20">He gave the answer to the question.</li>
 
             <li value="2">he ANswered the QUESTion CHEERfully.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi một cách vui vẻ.</li>
+            <li className="list-none margin-bottom-20">He replied to the question in a cheerful voice.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh thái độ tích cực</span> của người <span className="highlight-255-padding-0-4">trả lời</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes the respondent's positive attitude</span>.</p>
 
       </div>
 
@@ -263,9 +263,9 @@ export default function CHEERfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Cảm xúc: "<strong>CHEERfully</strong>" thường liên quan đến cảm xúc tích cực như vui mừng, hạnh phúc.</li>
+          <li>Emotions: "CHEERfully" is often associated with positive emotions such as joy and happiness.</li>
 
-          <li className="margin-bottom-20">Thái độ: Nó miêu tả một thái độ lạc quan, sẵn sàng đối mặt với mọi thứ.</li>
+          <li className="margin-bottom-20">Attitude: It describes an optimistic attitude, a willingness to face anything.</li>
 
         </ul>
 
