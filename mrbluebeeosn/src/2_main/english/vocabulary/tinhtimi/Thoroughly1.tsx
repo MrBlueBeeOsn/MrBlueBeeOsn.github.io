@@ -59,7 +59,7 @@ export default function THORoughly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>THORoughly</strong>" nhé.</p>
+      <p>Great! Let's explore the word "THORoughly" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -69,13 +69,13 @@ export default function THORoughly1(): React.JSX.Element {
               
             <li>
               <span className="highlight-255-padding-3-6">
-                [THOroughly \<Link to="/pronunciation/5-vowel-system">THƠR ơugh ly</Link>\ /ˈθʌrəli/ ⬤•• (THREE SYLlables)
+                THORoughly \<Link to="/pronunciation/5-vowel-system">THƠR ơugh ly</Link>\ /ˈθʌrəli/ ⬤•• (THREE SYLlables)
               </span>
             </li>
             
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Kỹ lưỡng</li>
+            <li>Thorough</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function THORoughly1(): React.JSX.Element {
       
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>THORoughly</strong>" được dùng để mô tả một hành động được thực hiện một cách kỹ lưỡng, tỉ mỉ, không bỏ sót bất kỳ chi tiết nào. Nó thể hiện sự hoàn toàn, kỹ lưỡng và chu đáo trong việc thực hiện một công việc gì đó.</p>
+      <p className="margin-top-30 text-indent-whole">The word "THORoughly" is used to describe an action performed thoroughly and meticulously, without overlooking any details. It conveys completeness, thoroughness, and care in carrying out a task.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she THORoughly CLEANED the HOUSE be<strong>fore</strong> the GUESTS arRIVED.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã dọn dẹp nhà cửa thật kỹ lưỡng trước khi khách đến.</li>
+          <li className="margin-bottom-20 list-none">She cleaned the house really well before the guests got there.</li>
 
           <li>i have THORoughly reSEARCHED this TOpic.</li>
-          <li className="list-none">Tôi đã nghiên cứu rất kỹ lưỡng về chủ đề này.</li>
+          <li className="list-none">I've searched a lot on this topic.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function THORoughly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he GAVE a THORough explaNAtion.</li>
-          <li className="list-none">Ông đã đưa ra một lời giải thích chi tiết.</li>
+          <li className="list-none">He explained everything in detail.</li>
 
         </ul>
       
@@ -131,10 +131,10 @@ export default function THORoughly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i comPLEtely aGREE with you.</li>
-          <li className="margin-bottom-20 list-none">Tôi hoàn toàn đồng ý với bạn.</li>
+          <li className="margin-bottom-20 list-none">I agree with what you're saying.</li>
 
           <li>i am TOtally exHAUSTed.</li>
-          <li className="list-none">Tôi mệt lả rồi.</li>
+          <li className="list-none">I am extremely tired.</li>
 
         </ul>
 
@@ -151,10 +151,10 @@ export default function THORoughly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>they disCUSSED the PROblem superFICially, without GOing into any DEtail.</li>
-          <li className="margin-bottom-20 list-none">Họ đã thảo luận về vấn đề này một cách hời hợt, mà không đi sâu vào bất kỳ chi tiết nào.</li>
+          <li className="margin-bottom-20 list-none">They only talked about the problem in a very short way and did not talk about the details.</li>
 
           <li>the TASK was Only PARtially comPLEted.</li>
-          <li className="list-none">Nhiệm vụ chỉ được hoàn thành một phần.</li>
+          <li className="list-none">We only finished part of the task.</li>
 
         </ul>
 
@@ -175,12 +175,12 @@ export default function THORoughly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang lau chùi một chiếc bàn bằng kính một cách kỹ lưỡng, không bỏ sót bất kỳ vết bẩn nào.</p>
+      <p className="text-indent-whole">Imagine someone carefully wiping down a glass table, making sure not to miss a single smudge.</p>
 
         <ul className="list-square">
 
           <li>she is THORoughly CLEANing the GLASS TAble.</li>
-          <li className="list-none">Cô ấy đang lau chùi bàn kính thật kỹ lưỡng.</li>
+          <li className="list-none">She is cleaning the glass table very carefully.</li>
 
         </ul>
 
@@ -200,7 +200,7 @@ export default function THORoughly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i THORoughly enJOYed the MOvie.</li>
-          <li className="list-none">Tôi đã thực sự rất thích bộ phim này.</li>
+          <li className="list-none">I really liked the movie.</li>
 
         </ul>
 
@@ -222,16 +222,16 @@ export default function THORoughly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he READ the BOOK.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã đọc cuốn sách.</li>
+            <li className="list-none margin-bottom-20">The book was read by him.</li>
 
             <li value="2">he THORoughly READ the BOOK and underSTOOD <strong>ever</strong>y DEtail.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã đọc kỹ cuốn sách và hiểu rõ từng chi tiết.</li>
+            <li className="list-none margin-bottom-20">He read the book very carefully and understood every detail.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh rằng</span> anh ấy <span className="highlight-255-padding-0-4">đã đọc</span> cuốn sách <span className="highlight-255-padding-0-4">một cách kỹ lưỡng và hiểu rõ</span> nội dung, không chỉ đọc qua một cách hời hợt.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes</span> that he <span className="highlight-255-padding-0-4">read the book thoroughly</span> and understood its content well, rather than just skimming it superficially.</p>
 
       </div>
 
@@ -245,9 +245,9 @@ export default function THORoughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Chi tiết: "<strong>THORoughly</strong>" nhấn mạnh việc chú ý đến từng chi tiết nhỏ.</li>
+          <li>Details: "THORoughly" emphasizes attention to even the smallest details.</li>
 
-          <li className="margin-bottom-20">Hoàn thành: Nó thường được sử dụng để chỉ ra rằng một việc gì đó đã được hoàn thành một cách triệt để.</li>
+          <li className="margin-bottom-20">Completion: It is often used to indicate that something has been thoroughly completed.</li>
 
         </ul>
 

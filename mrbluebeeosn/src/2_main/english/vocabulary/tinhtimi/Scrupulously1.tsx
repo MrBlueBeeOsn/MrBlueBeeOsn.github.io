@@ -63,7 +63,7 @@ export default function SCRUpulously1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>SCRUpulously</strong>" nhé.</p>
+      <p>Great! Let's explore the word "SCRUpulously" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function SCRUpulously1(): React.JSX.Element {
             
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách cẩn trọng</li>
+            <li>Carefully</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function SCRUpulously1(): React.JSX.Element {
       
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>SCRUpulously</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách tỉ mỉ, cẩn trọng, chu đáo, thể hiện sự chú ý đến từng chi tiết và sự tuân thủ nghiêm ngặt các nguyên tắc hoặc quy tắc.</p>
+      <p className="margin-top-30 text-indent-whole">The word "SCRUpulously" describes an action or state carried out meticulously, carefully, and thoughtfully, reflecting attention to every detail and strict adherence to principles or rules.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">he FOLlowed the inSTRUCtions SCRUpulously.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã tuân thủ các hướng dẫn một cách nghiêm ngặt.</li>
+          <li className="margin-bottom-20 list-none">He strictly followed the instructions.</li>
 
           <li>she CLEANED the HOUSE SCRUpulously.</li>
-          <li className="list-none">Cô ấy đã dọn dẹp ngôi nhà một cách tỉ mỉ.</li>
+          <li className="list-none">She kept the house very clean.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function SCRUpulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is a SCRUpulous PERson.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy là một người rất cẩn trọng.</li>
+          <li className="margin-bottom-20 list-none">He's not a very ethical person.</li>
 
           <li id="NOUN">her SCRUpulousness imPRESSED <strong>ever</strong>yone.</li>
-          <li className="list-none">Sự cẩn trọng đến từng chi tiết của cô ấy đã gây ấn tượng mạnh với mọi người.</li>
+          <li className="list-none">Everyone was impressed by how honest she was.</li>
 
         </ul>
       
@@ -138,13 +138,13 @@ export default function SCRUpulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he PLANNED the eVENT <Link to="/vocabulary/meTICulously-1">meTICulously</Link>.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã lên kế hoạch cho sự kiện này một cách tỉ mỉ.</li>
+          <li className="margin-bottom-20 list-none">He was very careful when planning the event.</li>
 
           <li>he HANDled the GLASS <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy cầm chiếc ly một cách cẩn thận.</li>
+          <li className="margin-bottom-20 list-none">He was very careful when he handled the glass.</li>
 
           <li>he CHECKED the DOCuments <Link to="/vocabulary/THORoughly-1">THORoughly</Link>.</li>
-          <li className="list-none">Anh ấy đã kiểm tra các tài liệu một cách kỹ lưỡng.</li>
+          <li className="list-none">He looked over the documents very carefully.</li>
 
         </ul>
 
@@ -161,13 +161,13 @@ export default function SCRUpulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he HANDled the GLASS CARElessly.</li>
-          <li className="margin-bottom-20 list-none">Anh ta cầm chiếc ly một cách bất cẩn.</li>
+          <li className="margin-bottom-20 list-none">He didn't take care of the glass.</li>
 
           <li>he perFORMED his DUties NEGligently.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã thực hiện nhiệm vụ của mình một cách cẩu thả.</li>
+          <li className="margin-bottom-20 list-none">He didn't do his job carefully and was careless.</li>
 
           <li>the rePORT was WRITten SLOPpily, with <strong>man</strong>y gramMATical misTAKES.</li>
-          <li className="list-none">Báo cáo này được viết một cách cẩu thả, với nhiều lỗi ngữ pháp.</li>
+          <li className="list-none">The report had a lot of grammar mistakes. It was written carelessly.</li>
 
         </ul>
 
@@ -188,15 +188,15 @@ export default function SCRUpulously1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang kiểm tra kỹ lưỡng một tài liệu hoặc một người đang lau dọn nhà cửa một cách tỉ mỉ.</p>
+      <p className="text-indent-whole">Imagine someone carefully reviewing a document or someone meticulously cleaning their home.</p>
 
         <ul className="list-square">
 
           <li>he eXAMined the DOCument SCRUpulously.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã xem xét tài liệu một cách tỉ mỉ.</li>
+          <li className="margin-bottom-20 list-none">He looked over the document very closely.</li>
 
           <li>she CLEANED the HOUSE SCRUpulously.</li>
-          <li className="list-none">Cô ấy đã dọn dẹp ngôi nhà một cách tỉ mỉ.</li>
+          <li className="list-none">She really put a lot of effort into cleaning the house.</li>
 
         </ul>
 
@@ -211,12 +211,12 @@ export default function SCRUpulously1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến các tình huống thể hiện sự tỉ mỉ và cẩn trọng.</p>
+      <p className="text-indent-whole">Create sentences related to situations that demonstrate attention to detail and care.</p>
 
         <ul className="list-square">
 
           <li>the acCOUNtant CHECKED the FIGures SCRUpulously.</li>
-          <li className="list-none">Kế toán viên đã kiểm tra các con số một cách tỉ mỉ.</li>
+          <li className="list-none">The accountant checked the numbers very carefully.</li>
 
         </ul>
 
@@ -238,16 +238,16 @@ export default function SCRUpulously1(): React.JSX.Element {
           <ol>
 
             <li value="1">he FOLlowed the inSTRUCtions.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã làm theo hướng dẫn.</li>
+            <li className="list-none margin-bottom-20">The man did what he was told.</li>
 
             <li value="2">he FOLlowed the inSTRUCtions SCRUpulously.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã tuân thủ các hướng dẫn một cách nghiêm ngặt.</li>
+            <li className="list-none margin-bottom-20">He followed the instructions precisely.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh sự tỉ mỉ và cẩn trọng trong</span> anh ấy <span className="highlight-255-padding-0-4">tuân theo</span> các hướng dẫn.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes how meticulously and carefully</span> he follows the instructions.</p>
 
       </div>
 
@@ -261,9 +261,9 @@ export default function SCRUpulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự tỉ mỉ và cẩn trọng: "<strong>SCRUpulously</strong>" nhấn mạnh sự tỉ mỉ, cẩn trọng và chú ý đến từng chi tiết.</li>
+          <li>Emphasizing meticulousness and care: "SCRUpulously" emphasizes meticulousness, care, and attention to detail.</li>
 
-          <li className="margin-bottom-20">Thường dùng để miêu tả hành động tuân thủ nguyên tắc hoặc quy tắc: Từ này thường được sử dụng để miêu tả hành động tuân thủ nghiêm ngặt các nguyên tắc hoặc quy tắc.</li>
+          <li className="margin-bottom-20">Often used to describe actions that adhere to principles or rules: This word is often used to describe actions that strictly adhere to principles or rules.</li>
 
         </ul>
 

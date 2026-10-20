@@ -75,7 +75,7 @@ export default function THORoughly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>THORoughly</strong>" (kỹ lưỡng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "THORoughly" (thoroughly) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -85,11 +85,11 @@ export default function THORoughly2(): React.JSX.Element {
 
             <span className="highlight-255-padding-3-6">
 
-              THOroughly \<Link to="/pronunciation/5-vowel-system">THƠR ơugh ly</Link>\ /ˈθʌrəli/ ⬤•• (THREE SYLlables)
+              THORoughly \<Link to="/pronunciation/5-vowel-system">THƠR ơugh ly</Link>\ /ˈθʌrəli/ ⬤•• (THREE SYLlables)
 
             </span>
 
-            &nbsp;thường được sử dụng để nhấn mạnh tính kỹ lưỡng, hoàn toàn, triệt để của một hành động hoặc quá trình nào đó.
+            &nbsp;is often used to emphasize the thoroughness, completeness, or thoroughness of a particular action or process.
           
           </p>
 
@@ -104,38 +104,38 @@ export default function THORoughly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="enJOYED">i THORoughly enJOYED the CONcert LAST NIGHT.</li>
-        <li className="list-none margin-bottom-20">Tôi đã thực sự rất thích buổi hòa nhạc tối qua.</li>
+        <li className="list-none margin-bottom-20">I really liked the concert last night.</li>
 
         <li value="2" id="CLEAN">be<strong>fore</strong> we MOVE IN, we NEED to THORoughly CLEAN the HOUSE.</li>
-        <li className="list-none margin-bottom-20">Trước khi chúng ta dọn vào, chúng ta cần phải dọn dẹp gọn gàng cả ngôi nhà.</li>
+        <li className="list-none margin-bottom-20">We have to clean the house really well before we move in.</li>
 
         <li value="3" id="inVESTigating">the poLICE are THORoughly inVESTigating the CRIME SCENE.</li>
-        <li className="list-none margin-bottom-20">Cảnh sát đang tiến hành điều tra kỹ lưỡng hiện trường vụ án.</li>
+        <li className="list-none margin-bottom-20">The police are examining the crime scene closely.</li>
 
         <li value="4" id="conVINCED-of">i am THORoughly conVINCED of his INnocence.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn tin chắc rằng anh ấy vô tội.</li>
+        <li className="list-none margin-bottom-20">I am absolutely certain that he is innocent.</li>
 
         <li value="5" id="MIXED">MAKE SURE the inGREdients are THORoughly MIXED be<strong>fore</strong> BAking.</li>
-        <li className="list-none margin-bottom-20">Hãy đảm bảo các nguyên liệu đã được trộn đều trước khi nướng.</li>
+        <li className="list-none margin-bottom-20">It's important to mix all the ingredients together well before you bake.</li>
 
         <li value="6" id="TESTed">the NEW PROduct has been THORoughly TESTed be<strong>fore</strong> <strong>be</strong>ing reLEASed.</li>
-        <li className="list-none margin-bottom-20">Sản phẩm mới này đã được kiểm tra kỹ lưỡng trước khi được ra mắt.</li>
+        <li className="list-none margin-bottom-20">The new product has been tested thoroughly. Then, it was released for sale.</li>
 
         <li value="7" id="MODern">the CIty's SKYline is THORoughly MODern.</li>
-        <li className="list-none margin-bottom-20">Đường chân trời của thành phố mang đậm nét hiện đại.</li>
+        <li className="list-none margin-bottom-20">The city's skyline looks very modern.</li>
 
         <li value="8" id="disGUSTed">i was THORoughly disGUSTed by his beHAvior.</li>
-        <li className="list-none margin-bottom-20">Tôi đã cảm thấy vô cùng ghê tởm trước hành vi của anh ta.</li>
+        <li className="list-none margin-bottom-20">His behavior made me really, really angry.</li>
 
         <li value="9" id="prePARED">she was THORoughly prePARED for the eXAM.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã chuẩn bị rất kỹ lưỡng cho kỳ thi.</li>
+        <li className="list-none margin-bottom-20">She was completely ready for the test.</li>
 
         <li value="10" id="underSTAND">i THINK i THORoughly underSTAND the CONcept NOW.</li>
-        <li className="list-none margin-bottom-20">Tôi nghĩ bây giờ tôi đã hiểu rõ khái niệm này rồi.</li>
+        <li className="list-none margin-bottom-20">At this point, I feel like I have a good grasp on the concept.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính kỹ lưỡng, hoàn toàn, triệt để trong việc thực hiện một hành động hoặc quá trình nào đó. Chúng thường được sử dụng để tạo ấn tượng mạnh về sự tỉ mỉ, chu đáo và kỹ lưỡng.</p>
+      <p>** All of the above phrases emphasize thoroughness, completeness, and thoroughness in carrying out a particular action or process. They are often used to create a strong impression of meticulousness, thoughtfulness, and thoroughness.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function THORoughly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>THORoughly</strong>" thường được đặt trước hành động hoặc ADjective để bổ nghĩa.</li>
+          <li>"THORoughly" is often placed before a verb or adjective to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để nhấn mạnh một ý tưởng.</li>
+          <li className="margin-bottom-20">This word is commonly used in both spoken and written language to emphasize an idea.</li>
 
         </ul>
       
