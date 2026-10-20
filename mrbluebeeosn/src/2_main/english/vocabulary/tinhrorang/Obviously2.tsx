@@ -75,7 +75,7 @@ export default function OBviously2(): React.JSX.Element {
 
 			{/* This is the content of Vocabulary Term. */}
 
-			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>OBviously</strong>" (rõ ràng là) và các cụm từ thường đi kèm nhé.</p>
+			<p>Great! Let’s take a closer look at the word “OBviously” and the phrases that often go with it.</p>
 
 			<div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function OBviously2(): React.JSX.Element {
 							
 						</span>
 							
-						&nbsp;trong tiếng Anh có nghĩa là "rõ ràng", "hiển nhiên", được dùng để nhấn mạnh một điều gì đó rất dễ thấy hoặc dễ hiểu.
+						&nbsp;in English means "obviously" or "clearly" and is used to emphasize something that is very obvious or easy to understand.
 
 					</p>
 
@@ -104,38 +104,38 @@ export default function OBviously2(): React.JSX.Element {
 			<ol className="margin-top-30 padding-left-30">
 
 				<li value="1" id="WRONG">his ANswer was OBviously WRONG.</li>
-				<li className="list-none margin-bottom-20">Câu trả lời của anh ấy rõ ràng là sai.</li>
+				<li className="list-none margin-bottom-20">He gave the wrong answer, it was obvious.</li>
 
 				<li value="2" id="corRECT">her soLUtion was OBviously corRECT.</li>
-				<li className="list-none margin-bottom-20">Giải pháp của cô ấy rõ ràng là đúng.</li>
+				<li className="list-none margin-bottom-20">Her solution was clearly the right one.</li>
 
 				<li value="3" id="the-BEST-OPTion">THIS is OBviously the BEST OPTion.</li>
-				<li className="list-none margin-bottom-20">Đây rõ ràng là lựa chọn tốt nhất.</li>
+				<li className="list-none margin-bottom-20">This is clearly the best choice.</li>
 
 				<li value="4" id="upSET-about">she was OBviously upSET a<strong>bout</strong> the NEWS.</li>
-				<li className="list-none margin-bottom-20">Cô ấy rõ ràng là rất buồn vì tin tức đó.</li>
+				<li className="list-none margin-bottom-20">It was easy to see that the news upset her.</li>
 
 				<li value="5" id="exCIted-about">he was OBviously exCIted a<strong>bout</strong> the TRIP.</li>
-				<li className="list-none margin-bottom-20">Anh ấy rõ ràng là rất hào hứng với chuyến đi này.</li>
+				<li className="list-none margin-bottom-20">He was clearly looking forward to the trip.</li>
 
 				<li value="6" id="TIred-after">she was OBviously TIred <strong>af</strong>ter a LONG DAY.</li>
-				<li className="list-none margin-bottom-20">Rõ ràng là cô ấy đã rất mệt mỏi sau một ngày dài.</li>
+				<li className="list-none margin-bottom-20">It was clear that she was tired after a busy day.</li>
 
 				<li value="7" id="PLANNED">the ACcident was OBviously PLANNED.</li>
-				<li className="list-none margin-bottom-20">Vụ tai nạn rõ ràng là đã được lên kế hoạch từ trước.</li>
+				<li className="list-none margin-bottom-20">It was clear that the accident was planned.</li>
 
 				<li value="8" id="CAREless-with">he was OBviously CAREless with his WORK.</li>
-				<li className="list-none margin-bottom-20">Rõ ràng là anh ta đã làm việc một cách cẩu thả.</li>
+				<li className="list-none margin-bottom-20">He clearly didn't care about his job.</li>
 
 				<li value="9" id="inTENTional">the DAMage was OBviously inTENTional.</li>
-				<li className="list-none margin-bottom-20">Rõ ràng là hành vi gây thiệt hại đó là có chủ ý.</li>
+				<li className="list-none margin-bottom-20">The damage was clearly deliberate.</li>
 
 				<li value="10" id="misTAken-about">you are OBviously misTAken a<strong>bout</strong> the FACTS.</li>
-				<li className="list-none margin-bottom-20">Rõ ràng là bạn đã hiểu nhầm về các sự kiện.</li>
+				<li className="list-none margin-bottom-20">You have misunderstood the facts.</li>
 
 			</ol>
 
-			<p>** Các cụm từ trên thường được sử dụng để nhấn mạnh một điều gì đó rất dễ thấy hoặc dễ hiểu, không cần phải bàn cãi thêm. Chúng thường mang tính khẳng định và thường được dùng để kết luận một vấn đề.</p>
+			<p>** These phrases are often used to emphasize something that is very obvious or easy to understand, leaving no room for further debate. They are typically assertive in nature and are often used to conclude a discussion.</p>
 
 			{/* =============================
 						Lưu ý:
@@ -147,9 +147,9 @@ export default function OBviously2(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>"<strong>OBviously</strong>" thường được đặt ở đầu câu hoặc trước TÍNH, ADverb để nhấn mạnh ý nghĩa.</li>
+					<li>"OBviously" is often placed at the beginning of a sentence or before an adjective or adverb to emphasize the meaning.</li>
 
-					<li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ cuộc trò chuyện hàng ngày đến các bài viết học thuật.</li>
+					<li className="margin-bottom-20">This word can be used in a variety of contexts, from everyday conversation to academic writing.</li>
 
 				</ul>
 

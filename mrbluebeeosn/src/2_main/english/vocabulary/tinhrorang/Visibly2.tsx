@@ -75,7 +75,7 @@ export default function VISibly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>VISibly</strong>" (rõ ràng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “VISibly” (clearly) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function VISibly1(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để mô tả một điều gì đó có thể nhìn thấy được bằng mắt thường, dễ nhận biết hoặc có sự thay đổi rõ rệt.
+            &nbsp;is often used to describe something that is visible to the naked eye, easily recognizable, or shows a distinct change.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function VISibly1(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="exCIted-about">the CHILDren were VISibly exCIted a<strong>bout</strong> the UPcoming TRIP.</li>
-        <li className="list-none margin-bottom-20">Các em nhỏ trông rõ ràng rất háo hức trước chuyến đi sắp tới.</li>
+        <li className="list-none margin-bottom-20">The children were clearly looking forward to their upcoming trip.</li>
 
         <li value="2" id="upSET-after-HEARing">she was VISibly upSET <strong>af</strong>ter HEARing the BAD NEWS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy trông rõ ràng là rất buồn bã sau khi nghe tin xấu.</li>
+        <li className="list-none margin-bottom-20">She was clearly unhappy when she heard the bad news.</li>
 
         <li value="3" id="SHAken-after">he was VISibly SHAken <strong>af</strong>ter the ACcident.</li>
-        <li className="list-none margin-bottom-20">Anh ấy trông rõ ràng là rất hoảng hốt sau vụ tai nạn.</li>
+        <li className="list-none margin-bottom-20">After the accident, it was clear that he was hurt.</li>
 
         <li value="4" id="reLIEVED-when">she was VISibly reLIEVED when she FOUND her LOST KEYS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy trông rõ ràng là nhẹ nhõm khi tìm thấy chùm chìa khóa bị mất.</li>
+        <li className="list-none margin-bottom-20">She looked so happy when she finally found her lost keys.</li>
 
         <li value="5" id="AGED"><strong>af</strong>ter YEARS of HARD WORK, he LOOKED VISibly AGED.</li>
-        <li className="list-none margin-bottom-20">Sau nhiều năm làm việc cần mẫn, anh ấy trông rõ ràng đã già đi.</li>
+        <li className="list-none margin-bottom-20">Even after working so hard for years, he looked old.</li>
 
         <li value="6" id="imPROVED">her HEALTH has VISibly imPROVED since she STARTed EXercising.</li>
-        <li className="list-none margin-bottom-20">Sức khỏe của cô ấy đã cải thiện rõ rệt kể từ khi cô ấy bắt đầu tập thể dục.</li>
+        <li className="list-none margin-bottom-20">She looks much healthier since she started working out.</li>
 
         <li value="7" id="STRAINED">his FACE was VISibly STRAINED as he LIFted the HEAVy BOX.</li>
-        <li className="list-none margin-bottom-20">Khuôn mặt anh ta rõ ràng đang căng thẳng khi anh ta nhấc chiếc hộp nặng nề lên.</li>
+        <li className="list-none margin-bottom-20">He looked tired when he lifted the heavy box.</li>
 
         <li value="8" id="NERvous">she was VISibly NERvous be<strong>fore</strong> her SPEECH.</li>
-        <li className="list-none margin-bottom-20">Cô ấy trông rõ ràng là rất lo lắng trước khi phát biểu.</li>
+        <li className="list-none margin-bottom-20">She looked nervous before she gave her speech.</li>
 
         <li value="9" id="unCOMFORTable">he was VISibly unCOMFORTable when they ASKED a<strong>bout</strong> his PAST.</li>
-        <li className="list-none margin-bottom-20">Anh ta trông rõ ràng là không thoải mái khi họ hỏi về quá khứ của anh ta.</li>
+        <li className="list-none margin-bottom-20">He looked uncomfortable when they asked about his past.</li>
 
         <li value="10" id="DIFFERent-in">the TWO SISters were VISibly DIFFERent in persoNALity.</li>
-        <li className="list-none margin-bottom-20">Hai chị em này rõ ràng có tính cách khác nhau.</li>
+        <li className="list-none margin-bottom-20">The two sisters were very different in the way they acted.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính dễ nhận thấy, rõ ràng của một trạng thái, cảm xúc hoặc sự thay đổi. Chúng thường được sử dụng để mô tả những gì có thể quan sát được bằng mắt thường.</p>
+      <p>** All of the phrases above emphasize the obviousness or clarity of a state, emotion, or change. They are often used to describe things that can be observed with the naked eye.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function VISibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Visibly</strong>" thường đứng trước ADjective để bổ nghĩa.</li>
+          <li>"Visibly" is often used before an adjective to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/CLEARly-1">CLEARly</Link>", "<Link to="/vocabulary/OBviously-1">OBviously</Link>", "<Link to="/vocabulary/EVidently-1">EVidently</Link>" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">This word can be replaced with synonyms such as "<Link to="/vocabulary/CLEARly-1">CLEARly</Link>" "<Link to="/vocabulary/OBviously-1">OBviously</Link>" or "<Link to="/vocabulary/EVidently-1">EVidently</Link>" to add variety to your writing style.</li>
 
         </ul>
 

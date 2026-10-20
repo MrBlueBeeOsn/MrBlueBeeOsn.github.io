@@ -63,7 +63,7 @@ export default function VISibly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>VISibly</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "VISibly."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function VISibly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Rõ ràng</li>
+            <li>Clearly</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function VISibly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>VISibly</strong>" được dùng để mô tả một điều gì đó dễ dàng nhận thấy bằng mắt thường, một cách rõ ràng và không thể phủ nhận. Nó thường được sử dụng để nhấn mạnh sự hiển nhiên của một trạng thái, cảm xúc hoặc sự thay đổi.</p>
+      <p className="margin-top-30 text-indent-whole">The word "VISibly" is used to describe something that is easily noticeable to the naked eye-clearly and undeniably. It is often used to emphasize the obviousness of a state, emotion, or change.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she was VISibly upSET.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy trông rõ ràng là đang buồn bã.</li>
+          <li className="margin-bottom-20 list-none">She was clearly unhappy.</li>
 
           <li>the DAMage to the CAR was VISibly apPARent.</li>
-          <li className="list-none">Hư hỏng trên chiếc xe rất rõ ràng.</li>
+          <li className="list-none">You could clearly see the damage to the car.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function VISibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the STARS are VISible on a CLEAR NIGHT.</li>
-          <li className="margin-bottom-20 list-none">Các ngôi sao có thể nhìn thấy được vào một đêm trời quang đãng.</li>
+          <li className="margin-bottom-20 list-none">You can see the stars at night if the sky is clear.</li>
 
           <li id="NOUN">she has EXcellent VISion.</li>
-          <li className="list-none">Cô ấy có thị lực rất tốt.</li>
+          <li className="list-none">She sees very well.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function VISibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he <Link to="/vocabulary/CLEARly-1">CLEARly</Link> STAted his oPINion.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã nêu rõ quan điểm của mình.</li>
+          <li className="margin-bottom-20 list-none">He made it clear what his opinion is.</li>
 
           <li>it was <Link to="/vocabulary/OBviously-1">OBviously</Link> a misTAKE.</li>
-          <li className="list-none">Đó rõ ràng là một sai lầm.</li>
+          <li className="list-none">It was obviously just an error.</li>
 
         </ul>
 
@@ -158,10 +158,10 @@ export default function VISibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the CHANGE was inVISibly SLOW.</li>
-          <li className="margin-bottom-20 list-none">Sự thay đổi diễn ra một cách chậm chạp đến mức không thể nhận ra.</li>
+          <li className="margin-bottom-20 list-none">The change was slow, and you couldn't see it.</li>
 
           <li>the PLANT GREW imperCEPtibly <strong>o</strong>ver the WEEKS.</li>
-          <li className="list-none">Cây đã lớn lên một cách không thể nhận ra trong suốt những tuần qua.</li>
+          <li className="list-none">The plant grew very quickly over the past few weeks, and it was easy to miss.</li>
 
         </ul>
       
@@ -182,15 +182,15 @@ export default function VISibly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người mặt đỏ bừng vì tức giận hoặc một vết bẩn lớn trên một chiếc áo trắng.</p>
+      <p className="text-indent-whole">Imagine someone with a face flushed with anger or a large stain on a white shirt.</p>
 
         <ul className="list-square">
 
           <li>his FACE was VISibly RED with ANGer.</li>
-          <li className="margin-bottom-20 list-none">Khuôn mặt anh ta đỏ bừng vì tức giận.</li>
+          <li className="margin-bottom-20 list-none">His face was all red because he was so angry.</li>
 
           <li>here was a VISibly LARGE STAIN on his WHITE SHIRT.</li>
-          <li className="list-none">Trên chiếc áo sơ mi trắng của anh ấy có một vết bẩn rõ ràng và lớn.</li>
+          <li className="list-none">There was a big stain on his white shirt.</li>
 
         </ul>
 
@@ -205,12 +205,12 @@ export default function VISibly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến những tình huống dễ nhận thấy.</p>
+      <p className="text-indent-whole">Create sentences related to easily recognizable situations.</p>
 
         <ul className="list-square">
 
           <li>she was VISibly TIred <strong>af</strong>ter the LONG JOURney.</li>
-          <li className="list-none">Cô ấy trông rõ ràng là mệt mỏi sau chuyến đi dài.</li>
+          <li className="list-none">It was clear that she was tired after the long trip.</li>
 
         </ul>
 
@@ -232,16 +232,16 @@ export default function VISibly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he was SAD.</li>
-            <li className="list-none margin-bottom-20">Anh ấy cảm thấy buồn.</li>
+            <li className="list-none margin-bottom-20">He suffered from depression.</li>
 
             <li value="2">he was VISibly SAD, with TEARS in his EYES.</li>
-            <li className="list-none margin-bottom-20">Anh ấy trông rõ ràng là buồn, với những giọt nước mắt lăn trên mắt.</li>
+            <li className="list-none margin-bottom-20">He looked upset and was crying.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh rằng cảm xúc buồn</span> của anh ấy <span className="highlight-255-padding-0-4">rất dễ nhận thấy</span> qua biểu hiện trên khuôn mặt.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that his sadness is very evident</span> from his facial expression.</p>
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -257,9 +257,9 @@ export default function VISibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sự hiển nhiên: Nhấn mạnh đến tính dễ nhận thấy bằng mắt thường.</li>
+          <li>Obviousness: Emphasizes what is easily noticeable to the naked eye.</li>
 
-          <li className="margin-bottom-20">Trực quan: Thường được sử dụng để mô tả những thay đổi về ngoại hình, cảm xúc hoặc trạng thái.</li>
+          <li className="margin-bottom-20">Intuitive: Often used to describe changes in appearance, emotions, or state.</li>
 
         </ul>
 

@@ -59,7 +59,7 @@ export default function OBviously1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>OBviously</strong>" nhé.</p>
+      <p>Great! Let's explore the word "OBviously" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function OBviously1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Rõ ràng là</li>
+            <li>Clearly</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function OBviously1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>OBviously</strong>" được dùng để nhấn mạnh rằng một điều gì đó rất dễ thấy, dễ hiểu và không cần phải giải thích thêm. Nó thể hiện sự chắc chắn và rõ ràng về một thông tin hoặc một sự kiện.</p>
+      <p className="margin-top-30 text-indent-whole">The word "OBviously" is used to emphasize that something is very obvious, easy to understand, and requires no further explanation. It conveys certainty and clarity regarding a piece of information or an event.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">OBviously, the SUN RIses in the EAST.</li>
-          <li className="margin-bottom-20 list-none">Rõ ràng, Mặt Trời mọc ở phía Đông.</li>
+          <li className="margin-bottom-20 list-none">It's clear that the sunrise is in the east.</li>
 
           <li>she was OBviously upSET.</li>
-          <li className="list-none">Cô ấy rõ ràng là đang buồn bã.</li>
+          <li className="list-none">She was clearly unhappy.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function OBviously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">it's OBvious that he's LYing.</li>
-          <li className="list-none">Rõ ràng là anh ta đang nói dối.</li>
+          <li className="list-none">He obviously isn't being truthful.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function OBviously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/CLEARly-1">CLEARly</Link>, you DON'T underSTAND.</li>
-          <li className="margin-bottom-20 list-none">Rõ ràng là bạn không hiểu.</li>
+          <li className="margin-bottom-20 list-none">It's pretty clear you don't really get it.</li>
 
           <li><Link to="/vocabulary/EVidently-1">EVidently</Link>, she is the BEST CANdidate.</li>
-          <li className="list-none">Rõ ràng, cô ấy là ứng cử viên tốt nhất.</li>
+          <li className="list-none">She is clearly the most qualified candidate.</li>
 
         </ul>
 
@@ -151,10 +151,10 @@ export default function OBviously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he exPLAINED the PROBlem unCLEARly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã giải thích vấn đề một cách không rõ ràng.</li>
+          <li className="margin-bottom-20 list-none">He didn't explain the problem very clearly.</li>
 
           <li>iMAgine a TRAFfic SIGN deSIGNED CLEARly, NOT amBIGuously.</li>
-          <li className="list-none">Hãy tưởng tượng một biển báo giao thông được thiết kế rõ ràng, không gây nhầm lẫn.</li>
+          <li className="list-none">Picture a sign for traffic that's easy to understand.</li>
 
         </ul>
       
@@ -175,12 +175,12 @@ export default function OBviously1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một biển báo giao thông với hình vẽ rõ ràng và dễ hiểu.</p>
+      <p className="text-indent-whole">Imagine a traffic sign with clear and easy-to-understand illustrations.</p>
 
         <ul className="list-square">
 
           <li>the TRAFfic SIGN with a RED CIRcle and a diAGonal LINE is OBviously a 'NO ENtry' SIGN.</li>
-          <li className="list-none">Biển báo giao thông có hình tròn màu đỏ và một đường chéo rõ ràng là biển báo “Cấm vào”.</li>
+          <li className="list-none">The traffic sign with a red circle and a diagonal line is clearly a "no entry" sign.</li>
 
         </ul>
 
@@ -195,12 +195,12 @@ export default function OBviously1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>obviously</strong>" trong nhiều tình huống khác nhau.</p>
+      <p className="text-indent-whole">Create various example sentences using the word "OBviously" in different situations.</p>
 
         <ul className="list-square">
 
           <li>OBviously, you NEED to STUdy HARDer if you WANT to PASS the eXAM.</li>
-          <li className="list-none">Rõ ràng, bạn phải học chăm chỉ hơn nếu muốn đạt kết quả tốt trong kỳ thi.</li>
+          <li className="list-none">If you want to pass the exam, you need to study harder.</li>
 
         </ul>
 
@@ -222,16 +222,16 @@ export default function OBviously1(): React.JSX.Element {
           <ol>
 
             <li value="1">he is TIred.</li>
-            <li className="list-none margin-bottom-20">Anh ấy mệt rồi.</li>
+            <li className="list-none margin-bottom-20">He's pretty tired.</li>
 
             <li value="2">OBviously, he is TIred. he has been WORKing all NIGHT.</li>
-            <li className="list-none margin-bottom-20">Rõ ràng là anh ấy mệt rồi. Anh ấy đã làm việc suốt cả đêm.</li>
+            <li className="list-none margin-bottom-20">It's clear that he's tired. He's been working all night.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>OBviously</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc</span> anh ấy <span className="highlight-255-padding-0-4">mệt mỏi là một điều dễ hiểu</span> và không cần phải giải thích thêm, vì có lý do rõ ràng cho điều đó.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "OBviously" to <span className="highlight-255-padding-0-4">emphasize that it’s understandable</span> that he’s tired and that no further explanation is needed, since there’s a clear reason for it.</p>
 
       </div>
 
@@ -245,9 +245,9 @@ export default function OBviously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sự chắc chắn: "<strong>OBviously</strong>" thể hiện sự chắc chắn của người nói về một thông tin nào đó.</li>
+          <li>Certainty: "OBviously" expresses the speaker's certainty about a particular piece of information.</li>
 
-          <li className="margin-bottom-20">Không cần giải thích: Nó thường được dùng để nhấn mạnh rằng một điều gì đó quá rõ ràng để cần phải giải thích.</li>
+          <li className="margin-bottom-20">No explanation needed: It is often used to emphasize that something is too obvious to require an explanation.</li>
 
         </ul>
 
