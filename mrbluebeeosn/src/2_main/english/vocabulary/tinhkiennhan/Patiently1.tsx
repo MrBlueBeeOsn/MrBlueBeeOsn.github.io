@@ -63,7 +63,7 @@ export default function PAtiently1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>PAtiently</strong>" nhé.</p>
+      <p>Great! Let's explore the word "patiently" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function PAtiently1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Kiên nhẫn</li>
+            <li>Patience</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function PAtiently1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>PAtiently</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách kiên nhẫn, không vội vàng, không dễ cáu kỉnh hoặc khó chịu.</p>
+      <p className="margin-top-30 text-indent-whole">The word "Patiently" describes an action or state carried out with patience-without haste, and without becoming easily irritable or annoyed.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">he WAITed PAtiently for his TURN.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy kiên nhẫn chờ đến lượt mình.</li>
+          <li className="margin-bottom-20 list-none">He waited patiently to be called on.</li>
 
           <li>she PAtiently LIStened to his STORy.</li>
-          <li className="list-none">Cô ấy kiên nhẫn lắng nghe câu chuyện của anh ấy.</li>
+          <li className="list-none">She listened to his story calmly.</li>
 
         </ul>
 
@@ -118,13 +118,13 @@ export default function PAtiently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is a PAtient TEACHer.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy là một giáo viên kiên nhẫn.</li>
+          <li className="margin-bottom-20 list-none">He works in patient education.</li>
 
           <li id="NOUN">the DOCtor TREAted the PAtient with CARE.</li>
-          <li className="margin-bottom-20 list-none">Bác sĩ đã điều trị cho bệnh nhân một cách tận tình.</li>
+          <li className="margin-bottom-20 list-none">The doctor was kind and careful with the patient.</li>
 
-          <li className="list-none">he has a LOT of PAtience.</li>
-          <li className="list-none">Anh ấy có rất nhiều sự kiên nhẫn.</li>
+          <li>he has a LOT of PAtience.</li>
+          <li className="list-none">He is very patient.</li>
 
         </ul>
 
@@ -141,13 +141,13 @@ export default function PAtiently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he CALMly exPLAINED the situAtion.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã bình tĩnh giải thích tình hình.</li>
+          <li className="margin-bottom-20 list-none">He calmly explained what was going on.</li>
 
           <li>he LIStened to their comPLAINTS TOLerantly.</li>
-          <li className="margin-bottom-20 list-none">Ông đã lắng nghe những lời phàn nàn của họ một cách khoan dung.</li>
+          <li className="margin-bottom-20 list-none">He paid attention to their complaints, but didn't seem very worried or concerned by them.</li>
 
           <li>she enDURed the PAIN enDURingly.</li>
-          <li className="list-none">Cô ấy đã kiên nhẫn chịu đựng cơn đau.</li>
+          <li className="list-none">She continued to feel the pain.</li>
 
         </ul>
 
@@ -166,13 +166,13 @@ export default function PAtiently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he WAITed imPAtiently for the BUS.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy chờ xe buýt một cách sốt ruột.</li>
+          <li className="margin-bottom-20 list-none">He was waiting for the bus, but he was getting a little impatient.</li>
 
           <li>she SIGHED FRUSTratedly.</li>
-          <li className="margin-bottom-20 list-none">Cô thở dài một cách bực bội.</li>
+          <li className="margin-bottom-20 list-none">She let out a sigh and looked annoyed.</li>
 
           <li>he PACED AGitatedly a<strong>round</strong> the ROOM.</li>
-          <li className="list-none">Anh ta đi đi lại lại trong phòng một cách bồn chồn.</li>
+          <li className="list-none">He walked around the room, feeling nervous and upset.</li>
 
         </ul>
       
@@ -193,15 +193,15 @@ export default function PAtiently1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang chờ đợi một cách bình tĩnh hoặc một người đang lắng nghe một cách chăm chú.</p>
+      <p className="text-indent-whole">Imagine someone waiting calmly or someone listening intently.</p>
 
         <ul className="list-square">
 
           <li>he WAITed PAtiently for his TURN.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy kiên nhẫn chờ đến lượt mình.</li>
+          <li className="margin-bottom-20 list-none">He waited without moving for his chance to participate.</li>
 
           <li>she PAtiently LIStened to the LONG explaNAtion.</li>
-          <li className="list-none">Cô ấy kiên nhẫn lắng nghe lời giải thích dài dòng.</li>
+          <li className="list-none">She listened to the long explanation without interrupting.</li>
 
         </ul>
 
@@ -216,12 +216,12 @@ export default function PAtiently1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến các tình huống thể hiện sự kiên nhẫn và nhẫn nại.</p>
+      <p className="text-indent-whole">Create sentences related to situations that demonstrate patience and perseverance.</p>
 
         <ul className="list-square">
 
           <li>the TEAcher exPLAINED the LESson PAtiently to the STUdents.</li>
-          <li className="list-none">Giáo viên đã giải thích bài học một cách kiên nhẫn cho các học sinh.</li>
+          <li className="list-none">The teacher took time to thoroughly explain the lesson to the students.</li>
 
         </ul>
 
@@ -243,16 +243,16 @@ export default function PAtiently1(): React.JSX.Element {
           <ol>
 
             <li value="1">he WAITed for his TURN.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã chờ đến lượt mình.</li>
+            <li className="list-none margin-bottom-20">He waited for his chance to participate.</li>
 
             <li value="2">he WAITed PAtiently for his TURN.</li>
-            <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn chờ đến lượt mình.</li>
+            <li className="list-none margin-bottom-20">He waited calmly and patiently for his turn.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh sự kiên nhẫn và nhẫn nại trong quá trình chờ đợi</span> của anh ấy.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes his patience and perseverance</span> while waiting.</p>
 
       </div>
 
@@ -268,9 +268,9 @@ export default function PAtiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự kiên nhẫn và nhẫn nại: "<strong>PAtiently</strong>" nhấn mạnh sự kiên nhẫn, nhẫn nại và không vội vàng hoặc khó chịu.</li>
+          <li>Emphasizing patience and forbearance: "Patiently" emphasizes patience, forbearance, and the absence of haste or irritation.</li>
 
-          <li className="margin-bottom-20">Thường dùng để miêu tả cách chờ đợi hoặc lắng nghe: Từ này thường được sử dụng để miêu tả cách chờ đợi hoặc lắng nghe một cách kiên nhẫn.</li>
+          <li className="margin-bottom-20">Often used to describe the act of waiting or listening: This word is often used to describe the act of waiting or listening patiently.</li>
 
         </ul>
 

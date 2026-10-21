@@ -75,7 +75,7 @@ export default function perSISTently2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>perSISTently</strong>" (kiên trì) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “perSISTently” (persistently) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function perSISTently2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để mô tả một hành động hoặc một trạng thái được duy trì một cách kiên quyết, không ngừng nghỉ, mặc cho những khó khăn hoặc trở ngại.
+            &nbsp;is often used to describe an action or state that is maintained resolutely and relentlessly, despite difficulties or obstacles.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function perSISTently2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="purSUED-of">she perSISTently purSUED her DREAM of beCOMing a DOCtor.</li>
-        <li className="list-none margin-bottom-20">Cô ấy kiên trì theo đuổi ước mơ trở thành bác sĩ.</li>
+        <li className="list-none margin-bottom-20">No matter what, she was always determined to become a doctor.</li>
 
         <li value="2" id="QUESTioned-about">the JOURnalist perSISTently QUESTioned the poliTICian a<strong>bout</strong> the SCANdal.</li>
-        <li className="list-none margin-bottom-20">Nhà báo liên tục chất vấn chính trị gia về vụ bê bối này.</li>
+        <li className="list-none margin-bottom-20">The reporter kept asking the politician about the scandal.</li>
 
         <li value="3" id="deNIED">he perSISTently deNIED any inVOLVEment in the CRIME.</li>
-        <li className="list-none margin-bottom-20">Anh ta liên tục phủ nhận mọi liên quan đến vụ án.</li>
+        <li className="list-none margin-bottom-20">He repeatedly said that he was not involved in the crime.</li>
 
         <li value="4" id="RUmored-that">it was perSISTently RUmored that he would reSIGN.</li>
-        <li className="list-none margin-bottom-20">Có những tin đồn dai dẳng rằng anh ấy sẽ từ chức.</li>
+        <li className="list-none margin-bottom-20">People were always saying that he would re-sign.</li>
 
         <li value="5" id="reMAINED">de<strong>spite</strong> the DIFficulties, she reMAINED perSISTently optiMIStic.</li>
-        <li className="list-none margin-bottom-20">Dù gặp nhiều khó khăn, cô vẫn luôn kiên trì và lạc quan.</li>
+        <li className="list-none margin-bottom-20">Even when things were hard, she was always hopeful.</li>
 
         <li value="6" id="pesSISTic-about">he was perSISTently pesSISTic a<strong>bout</strong> the FUture of the COMpany.</li>
-        <li className="list-none margin-bottom-20">Anh ấy luôn tỏ ra rất kiên trì khi nói về tương lai của công ty.</li>
+        <li className="list-none margin-bottom-20">He was always negative when talking about the company's future.</li>
 
         <li value="7" id="anNOYing">the NOISE from the conSTRUCtion SITE was perSISTently anNOYing.</li>
-        <li className="list-none margin-bottom-20">Tiếng ồn từ công trường xây dựng liên tục gây phiền toái.</li>
+        <li className="list-none margin-bottom-20">The loud noise from the construction site was always annoying.</li>
 
         <li value="8" id="RAINing-for">it has been perSISTently RAINing for DAYS.</li>
-        <li className="list-none margin-bottom-20">Trời đã mưa liên tục suốt nhiều ngày nay.</li>
+        <li className="list-none margin-bottom-20">It has been raining for several days without stopping.</li>
 
         <li value="9" id="KNOCKing-at">SOMEone was perSISTently KNOCKing at the DOOR.</li>
-        <li className="list-none margin-bottom-20">Có ai đó đang gõ cửa liên tục.</li>
+        <li className="list-none margin-bottom-20">Someone was knocking on the door, and they wouldn't stop.</li>
 
         <li value="10" id="TRIED">he perSISTently TRIED to SOLVE the PUZzle.</li>
-        <li className="list-none margin-bottom-20">Anh ấy kiên trì cố gắng giải câu đố.</li>
+        <li className="list-none margin-bottom-20">He tried to solve the puzzle over and over.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính chất kiên trì, không bỏ cuộc của một hành động hoặc trạng thái. Chúng thường được sử dụng để mô tả những người có ý chí mạnh mẽ, quyết tâm cao và không dễ dàng từ bỏ.</p>
+      <p>** The phrases above all emphasize the persistent, never-give-up nature of an action or state. They are often used to describe people who have strong willpower, are highly determined, and do not give up easily.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function perSISTently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>perSISTently</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"perSISTently" is often used before a verb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này có thể mang cả ý nghĩa tích cực và tiêu cực, tùy thuộc vào ngữ cảnh sử dụng.</li>
+          <li className="margin-bottom-20">This word can have both positive and negative connotations, depending on the context.</li>
 
         </ul>
 
