@@ -15,7 +15,7 @@ export default function preCISEly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-chinh-xac"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-eXACTly"><mark className="highlight-tertiary-padding-4-8">ADverbs: eXACTly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">preCISEly
         <sup><Link to="/vocabulary/preCISEly-1">&nbsp;1&nbsp;</Link>
@@ -63,7 +63,7 @@ export default function preCISEly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>preCISEly</strong>" nhé.</p>
+      <p>Great! Let's explore the word "preCISEly" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function preCISEly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Chính xác</li>
+            <li>Exactly</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function preCISEly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-20 text-indent-whole">Từ "<strong>preCISEly</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách chính xác, đúng đắn, tỉ mỉ đến từng chi tiết, không có sai sót hoặc mơ hồ.</p>
+      <p className="margin-top-20 text-indent-whole">The word "preCISEly" describes an action or state that is carried out precisely, correctly, and meticulously down to the last detail, without any errors or ambiguity.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">he MEASured the inGREdients preCISEly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã cân đo các nguyên liệu một cách chính xác.</li>
+          <li className="margin-bottom-20 list-none">He carefully measured the ingredients.</li>
 
           <li>she exPLAINED the situAtion preCISEly.</li>
-          <li className="list-none">Cô ấy đã giải thích tình huống một cách chính xác.</li>
+          <li className="list-none">She gave an exact explanation of the situation.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function preCISEly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he GAVE preCISE inSTRUCtions.</li>
-          <li className="margin-bottom-20 list-none">Ông đã đưa ra những hướng dẫn cụ thể.</li>
+          <li className="margin-bottom-20 list-none">He provided clear instructions.</li>
 
           <li id="NOUN">the maCHINE OPerates with GREAT preCISion.</li>
-          <li className="list-none">Cỗ máy này hoạt động với độ chính xác rất cao.</li>
+          <li className="list-none">The machine works very accurately.</li>
 
         </ul>
       
@@ -138,13 +138,13 @@ export default function preCISEly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he rePORTed the FACTS <Link to="/vocabulary/ACcurately-1">ACcurately</Link>.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã trình bày các sự kiện một cách chính xác.</li>
+          <li className="margin-bottom-20 list-none">He reported the facts correctly.</li>
 
           <li>that's <Link to="/vocabulary/eXACTly-1">eXACTly</Link> WHAT I MEANT.</li>
-          <li className="margin-bottom-20 list-none">Đó chính xác là điều tôi muốn nói.</li>
+          <li className="margin-bottom-20 list-none">That's exactly what I was trying to say.</li>
 
           <li>he speCIFically LISTed the deTAILS.</li>
-          <li className="list-none">Anh ấy đã liệt kê cụ thể các chi tiết.</li>
+          <li className="list-none">He wrote down all the details.</li>
 
         </ul>
 
@@ -161,13 +161,13 @@ export default function preCISEly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he rePORTed the FIGures inACcurately.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã báo cáo các con số một cách không chính xác</li>
+          <li className="margin-bottom-20 list-none">He didn't report those figures correctly.</li>
 
           <li>he reMEMbered VAGUEly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy nhớ lại một cách mơ hồ.</li>
+          <li className="margin-bottom-20 list-none">He remembered only a few things.</li>
 
           <li>he EStimated the COST ROUGHly.</li>
-          <li className="list-none">Anh ấy đã ước tính chi phí một cách sơ bộ.</li>
+          <li className="list-none">He estimated the cost without much precision.</li>
 
         </ul>
 
@@ -188,15 +188,15 @@ export default function preCISEly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người thợ kim hoàn đang chế tác một món đồ trang sức tinh xảo hoặc một nhà khoa học đang thực hiện một thí nghiệm với các phép đo chính xác.</p>
+      <p className="text-indent-whole">Imagine a jeweler crafting an exquisite piece of jewelry or a scientist conducting an experiment with precise measurements.</p>
 
         <ul className="list-square">
 
           <li>the JEWEler WORKED preCISEly on the INtricate deSIGN.</li>
-          <li className="margin-bottom-20 list-none">Người thợ kim hoàn đã chế tác một cách chính xác từng chi tiết của thiết kế phức tạp này.</li>
+          <li className="margin-bottom-20 list-none">The jeweler carefully and efficiently created the complex design.</li>
 
           <li>the SCIentist MEASured the reSULTS preCISEly.</li>
-          <li className="list-none">Nhà khoa học đã đo lường các kết quả một cách chính xác.</li>
+          <li className="list-none">The scientist measured the results correctly.</li>
 
         </ul>
 
@@ -211,12 +211,12 @@ export default function preCISEly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến các tình huống thể hiện sự chính xác và tỉ mỉ.</p>
+      <p className="text-indent-whole">Create sentences related to situations that demonstrate accuracy and attention to detail.</p>
 
         <ul className="list-square">
 
           <li>the SURgeon MADE the inCISion preCISEly.</li>
-          <li className="list-none">Bác sĩ phẫu thuật đã thực hiện vết rạch một cách chính xác.</li>
+          <li className="list-none">The surgeon made the cut with great accuracy.</li>
 
         </ul>
 
@@ -238,16 +238,16 @@ export default function preCISEly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he MEASured the inGREdients.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã cân các nguyên liệu.</li>
+            <li className="list-none margin-bottom-20">He checked the ingredients.</li>
 
             <li value="2">he MEASured the inGREdients preCISEly.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã cân đo các nguyên liệu một cách chính xác.</li>
+            <li className="list-none margin-bottom-20">He carefully measured the ingredients.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc đo</span> lường được thực hiện <span className="highlight-255-padding-0-4">một cách cẩn thận và chính xác</span> đến từng chi tiết.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that the measurement was carried out carefully</span> and with precision down to the smallest detail.</p>
 
       </div>
 
@@ -261,9 +261,9 @@ export default function preCISEly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự chính xác và tỉ mỉ: "<strong>preCISEly</strong>" nhấn mạnh sự chính xác, đúng đắn và tỉ mỉ đến từng chi tiết trong hành động hoặc lời nói.</li>
+          <li>Emphasizing precision and meticulousness: "preCISEly" emphasizes precision, accuracy, and meticulous attention to detail in actions or speech.</li>
 
-          <li className="margin-bottom-20">Thường dùng để miêu tả sự đo lường, giải thích hoặc hành động không có sai sót: Từ này thường được sử dụng để miêu tả sự đo lường, giải thích hoặc hành động được thực hiện một cách cẩn thận và không có sai sót.</li>
+          <li className="margin-bottom-20">Often used to describe measurements, explanations, or actions that are free of errors: This word is often used to describe measurements, explanations, or actions that are carried out carefully and without error.</li>
 
         </ul>
 

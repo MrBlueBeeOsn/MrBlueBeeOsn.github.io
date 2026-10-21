@@ -15,7 +15,7 @@ export default function eXACTly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-chinh-xac"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-eXACTly"><mark className="highlight-tertiary-padding-4-8">ADverbs: eXACTly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">eXACTly
         <sup>
@@ -75,7 +75,7 @@ export default function eXACTly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>eXACTly</strong>" (chính xác là) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "eXACTly" and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function eXACTly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "chính xác", "đúng như vậy", thường được dùng để nhấn mạnh sự chính xác, cụ thể hoặc sự đồng tình hoàn toàn với một ý kiến nào đó.
+            &nbsp;in English means "exactly," "precisely," and is often used to emphasize accuracy, specificity, or complete agreement with a particular opinion.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function eXACTly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="RIGHT">THAT'S eXACTly RIGHT! you've HIT the NAIL on the HEAD.</li>
-        <li className="list-none margin-bottom-20">Đúng là như vậy! Bạn đã nói trúng tâm vấn đề rồi.</li>
+        <li className="list-none margin-bottom-20">You're exactly right. You nailed it.</li>
 
         <li value="2" id="WHAT-i-MEAN">YES, eXACTly WHAT i MEAN. it's unFAIR.</li>
-        <li className="list-none margin-bottom-20">Đúng rồi, chính xác là điều tôi muốn nói. Thật là bất công.</li>
+        <li className="list-none margin-bottom-20">That is exactly what I'm saying. It isn't fair.</li>
 
         <li value="3" id="the-SAME-as">my NEW PHONE is eXACTly the SAME as my OLD ONE.</li>
-        <li className="list-none margin-bottom-20">Chiếc điện thoại mới của tôi hoàn toàn giống hệt chiếc cũ của tôi.</li>
+        <li className="list-none margin-bottom-20">I have the same phone now as I did before.</li>
 
         <li value="4" id="as-PLANNED-for">EVERything WENT eXACTly as PLANNED for the PARTy.</li>
-        <li className="list-none margin-bottom-20">Mọi thứ diễn ra y hệt như kế hoạch đã định cho bữa tiệc.</li>
+        <li className="list-none margin-bottom-20">The party went completely as planned.</li>
 
         <li value="5" id="SURE-WHAT-he-MEANT">i'm NOT eXACTly SURE WHAT he MEANT by THAT.</li>
-        <li className="list-none margin-bottom-20">Tôi không hoàn toàn chắc chắn anh ấy muốn nói gì qua câu nói đó.</li>
+        <li className="list-none margin-bottom-20">I don't know for sure what he meant by that.</li>
 
         <li value="6" id="HOW-many-PEOple">eXACTly HOW <strong>man</strong>y PEOple atTENDed the CONFERence?</li>
-        <li className="list-none margin-bottom-20">Chính xác thì có bao nhiêu người đã tham dự hội nghị?</li>
+        <li className="list-none margin-bottom-20">Please tell me how many people came to the conference.</li>
 
         <li value="7" id="WHERE-the-LIbrary-IS">can you TELL me eXACTly WHERE the LIbrary IS?</li>
-        <li className="list-none margin-bottom-20">Bạn có thể chỉ cho tôi chính xác thư viện nằm ở đâu không?</li>
+        <li className="list-none margin-bottom-20">Please tell me exactly where I can find the library.</li>
 
         <li value="8" id="WHEN-does">eXACTly WHEN does the TRAIN LEAVE?</li>
-        <li className="list-none margin-bottom-20">Chính xác thì tàu sẽ khởi hành vào lúc nào?</li>
+        <li className="list-none margin-bottom-20">When is the train scheduled to leave?</li>
 
         <li value="9" id="the-SAME-as-MINE">her DRESS is eXACTly the SAME as MINE.</li>
-        <li className="list-none margin-bottom-20">Chiếc váy của cô ấy hoàn toàn giống hệt chiếc váy của tớ.</li>
+        <li className="list-none margin-bottom-20">Her dress is just like mine, down to the exact same style and color.</li>
 
         <li value="10" id="WHAT-i-NEEDed-for">this BOOK is eXACTly WHAT i NEEDed for my reSEARCH.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này chính xác là thứ tôi cần cho công trình nghiên cứu của mình.</li>
+        <li className="list-none margin-bottom-20">This book has exactly the information I was looking for.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh sự chính xác, cụ thể và hoàn toàn trùng khớp. Chúng thường được sử dụng để khẳng định một ý kiến, một thông tin hoặc một sự việc nào đó.</p>
+      <p>** All of the above phrases emphasize accuracy, specificity, and exact correspondence. They are often used to affirm an opinion, a piece of information, or a particular event.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function eXACTly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>eXACTly</strong>" thường được đặt ở đầu hoặc giữa câu để nhấn mạnh ý nghĩa.</li>
+          <li>"eXACTly" is often placed at the beginning or in the middle of a sentence to emphasize its meaning.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ cuộc trò chuyện hàng ngày đến các bài viết học thuật.</li>
+          <li className="margin-bottom-20">This word can be used in a variety of contexts, from everyday conversation to academic writing.</li>
 
         </ul>
       

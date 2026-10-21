@@ -15,7 +15,7 @@ export default function eXACTly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-chinh-xac"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-eXACTly"><mark className="highlight-tertiary-padding-4-8">ADverbs: eXACTly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">eXACTly
         <sup><Link to="/vocabulary/eXACTly-1">&nbsp;1&nbsp;</Link>
@@ -59,7 +59,7 @@ export default function eXACTly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng tìm hiểu về từ "<strong>eXACTly</strong>" nhé.</p>
+      <p>Great! Let's learn about the word "eXACTly" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function eXACTly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Chính xác là</li>
+            <li>To be precise,</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function eXACTly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>eXACTly</strong>" dùng để nhấn mạnh sự chính xác là, hoàn toàn trùng khớp với một điều gì đó. Nó có thể được sử dụng để xác nhận, đồng ý, hoặc để làm rõ một thông tin.</p>
+      <p className="margin-top-30 text-indent-whole">The word "eXACTly" is used to emphasize precision - that is, a perfect match with something. It can be used to confirm, agree, or clarify information.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">THAT's eXACTly WHAT i THINKing.</li>
-          <li className="margin-bottom-20 list-none">Đó chính xác là điều tớ đang nghĩ.</li>
+          <li className="margin-bottom-20 list-none">That's exactly what I thought!</li>
 
           <li>she arRIVED at eXACTly THREE o'CLOCK.</li>
-          <li className="list-none">Cô ấy đến đúng ba giờ.</li>
+          <li className="list-none">She got there precisely at 3:00 p.m.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function eXACTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the eXACT TIME is TWO fifTEEN p.M.</li>
-          <li className="list-none">Thời gian chính xác là 2 giờ 15 phút chiều.</li>
+          <li className="list-none">It is precisely two: fifteen minutes past two o'clock in the afternoon.</li>
 
         </ul>
       
@@ -131,10 +131,10 @@ export default function eXACTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>that's <Link to="/vocabulary/preCISEly-1">preCISEly</Link> WHAT i MEANT.</li>
-          <li className="margin-bottom-20 list-none">Đó chính xác là điều tôi muốn nói.</li>
+          <li className="margin-bottom-20 list-none">That's exactly what I was saying.</li>
 
           <li>the MEASurement was <Link to="/vocabulary/ACcurately-1">ACcurately</Link> TAken.</li>
-          <li className="list-none">Kết quả đo lường đã được thực hiện một cách chính xác.</li>
+          <li className="list-none">The size was correctly measured.</li>
 
         </ul>
 
@@ -151,10 +151,10 @@ export default function eXACTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>there were apPROXimately a HUNdred PEOple at the PARTy.</li>
-          <li className="margin-bottom-20 list-none">Có khoảng một trăm người tham dự bữa tiệc.</li>
+          <li className="margin-bottom-20 list-none">About 100 people were at the party.</li>
 
           <li>it TAKES ROUGHly THIRty MINutes to GET THERE.</li>
-          <li className="list-none">Khoảng ba mươi phút là đến nơi.</li>
+          <li className="list-none">The journey takes approximately 30 minutes.</li>
 
         </ul>
 
@@ -175,12 +175,12 @@ export default function eXACTly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một thước đo chính xác đến từng milimet.</p>
+      <p className="text-indent-whole">Imagine a measuring tool that is accurate down to the millimeter.</p>
 
         <ul className="list-square">
 
           <li>this DIGital CALiper can MEASure the LENGTH of this comPOnent eXACTly to the MILlimeter.</li>
-          <li className="list-none">Thước kẹp kỹ thuật số này có thể đo chiều dài của bộ phận này chính xác đến từng milimét.</li>
+          <li className="list-none">This digital caliper can measure the length of the component exactly. It is as precise as a milimeter.</li>
 
         </ul>
 
@@ -200,7 +200,7 @@ export default function eXACTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>can you rePEAT THAT, eXACTly?</li>
-          <li className="list-none">Bạn có thể lặp lại chính xác điều đó được không?</li>
+          <li className="list-none">Can you say those words again the same way?</li>
 
         </ul>
 
@@ -222,16 +222,16 @@ export default function eXACTly1(): React.JSX.Element {
           <ol>
 
             <li value="1">i'll be THERE SOON.</li>
-            <li className="list-none margin-bottom-20">Tôi sẽ đến đó ngay.</li>
+            <li className="list-none margin-bottom-20">I will arrive shortly.</li>
 
             <li value="2">i'll be THERE at eXACTly FIVE p.M.</li>
-            <li className="list-none margin-bottom-20">Tôi sẽ có mặt tại đó đúng 5 giờ chiều.</li>
+            <li className="list-none margin-bottom-20">I will arrive at five o'clock precisely.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>eXACTly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> thời gian đến <span className="highlight-255-padding-0-4">một cách chính xác,</span> không muộn hơn hoặc sớm hơn.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "eXACTly" to <span className="highlight-255-padding-0-4">emphasize arriving at the exact time</span> - neither later nor earlier.</p>
 
       </div>
 
@@ -245,9 +245,9 @@ export default function eXACTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sự chính xác tuyệt đối: "<strong>eXACTly</strong>" thường được sử dụng để nhấn mạnh sự chính xác tuyệt đối, không có sai lệch.</li>
+          <li>Absolute accuracy: "eXACTly" is often used to emphasize absolute accuracy, with no deviation.</li>
 
-          <li className="margin-bottom-20">Xác nhận thông tin: Nó có thể được dùng để xác nhận một thông tin đã được đưa ra trước đó.</li>
+          <li className="margin-bottom-20">Confirming information: It can be used to confirm information that has already been provided.</li>
 
         </ul>
 

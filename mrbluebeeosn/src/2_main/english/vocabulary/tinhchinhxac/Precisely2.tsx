@@ -15,7 +15,7 @@ export default function preCISEly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-chinh-xac"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-eXACTly"><mark className="highlight-tertiary-padding-4-8">ADverbs: eXACTly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">preCISEly
         <sup>
@@ -75,7 +75,7 @@ export default function preCISEly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>preCISEly</strong>" (chính xác) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "preCISEly" and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function preCISEly2(): React.JSX.Element {
 
             </span>
               
-            &nbsp;thường được dùng để mô tả một hành động hoặc trạng thái được thực hiện một cách chính xác, đúng đắn, không có sai sót.
+            &nbsp;is often used to describe an action or state that is carried out precisely, correctly, and without error.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function preCISEly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="MEASured">the SCIentist preCISEly MEASured the CHEMicals.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học đã đo lường các chất hóa học một cách chính xác.</li>
+        <li className="list-none margin-bottom-20">The scientist measured the chemicals accurately.</li>
 
         <li value="2" id="CALculated">the engiNEER preCISEly CALculated the diMENsions.</li>
-        <li className="list-none margin-bottom-20">Kỹ sư đã tính toán chính xác các kích thước.</li>
+        <li className="list-none margin-bottom-20">The engineer measured the dimensions exactly.</li>
 
         <li value="3" id="deFINES">the LAW preCISEly deFINES the TERMS.</li>
-        <li className="list-none margin-bottom-20">Luật đã định nghĩa chính xác các thuật ngữ này.</li>
+        <li className="list-none margin-bottom-20">The law clearly explains what the terms mean.</li>
 
         <li value="4" id="loCAted">the MAP preCISEly loCAted the TREASure.</li>
-        <li className="list-none margin-bottom-20">Bản đồ đã xác định chính xác vị trí kho báu.</li>
+        <li className="list-none margin-bottom-20">The map showed exactly where the treasure was.</li>
 
         <li value="5" id="FOLlowed">the CHEF preCISEly FOLlowed the RECipe.</li>
-        <li className="list-none margin-bottom-20">Đầu bếp đã làm theo công thức một cách chính xác.</li>
+        <li className="list-none margin-bottom-20">The chef followed the recipe step by step.</li>
 
         <li value="6" id="deSCRIBED">the WITness preCISEly deSCRIBED the SUSpect.</li>
-        <li className="list-none margin-bottom-20">Nhân chứng đã mô tả rất chính xác về nghi phạm.</li>
+        <li className="list-none margin-bottom-20">The witness described the suspect in detail.</li>
 
         <li value="7" id="exPLAINED">the TEACHer preCISEly exPLAINED the CONcept.</li>
-        <li className="list-none margin-bottom-20">Giáo viên đã giải thích khái niệm đó một cách chính xác.</li>
+        <li className="list-none margin-bottom-20">The teacher explained the concept in a way that was clear and easy to understand.</li>
 
         <li value="8" id="conTROLLED">the maCHINE preCISEly conTROLLED the TEMPERature.</li>
-        <li className="list-none margin-bottom-20">Cỗ máy đã điều khiển nhiệt độ một cách chính xác.</li>
+        <li className="list-none margin-bottom-20">The machine kept the temperature exactly right.</li>
 
         <li value="9" id="aLIGNED">the PARTS were preCISEly aLIGNED.</li>
-        <li className="list-none margin-bottom-20">Các bộ phận đã được căn chỉnh một cách chính xác.</li>
+        <li className="list-none margin-bottom-20">The parts were lined up with exact precision.</li>
 
         <li value="10" id="TIMED">the eVENT was preCISEly TIMED.</li>
-        <li className="list-none margin-bottom-20">Sự kiện này được tổ chức vào đúng thời điểm.</li>
+        <li className="list-none margin-bottom-20">The timing of the event was very precise.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính chính xác, đúng đắn, không có sai sót. Chúng thường được sử dụng để miêu tả những hành động hoặc trạng thái được thực hiện một cách cẩn thận và đúng đến từng chi tiết.</p>
+      <p>** All of the above phrases emphasize accuracy, correctness, and the absence of errors. They are often used to describe actions or states that are carried out carefully and with attention to every detail.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function preCISEly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>preCISEly</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"preCISEly" is usually placed before a verb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này mang nghĩa tích cực, thể hiện sự cẩn thận và độ chính xác cao.</li>
+          <li className="margin-bottom-20">This word has a positive connotation, conveying carefulness and a high degree of precision.</li>
 
         </ul>
 

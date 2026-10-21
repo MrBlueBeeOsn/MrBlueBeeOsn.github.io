@@ -992,14 +992,23 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: chính xác
+							ADverbs: eXACTly
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-chinh-xac"><mark className="highlight-secondary-padding-2-4">ADverbs: chính xác</mark></summary>
+					<summary id="ADverbs-eXACTly"><mark className="highlight-secondary-padding-2-4">ADverbs: eXACTly</mark></summary>
 
 					<ul className="list-border1">
+						
+						<li>
+							<Link to="/vocabulary/eXACTly-1">eXACTly
+								<sup>&nbsp;1&nbsp;</sup>
+							</Link>
+							<Link to="/vocabulary/eXACTly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
 						
 						<li>
 							<Link to="/vocabulary/ACcurately-1">ACcurately
@@ -1024,15 +1033,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;1&nbsp;</sup>
 							</Link>
 							<Link to="/vocabulary/corRECTly-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/eXACTly-1">eXACTly
-								<sup>&nbsp;1&nbsp;</sup>
-							</Link>
-							<Link to="/vocabulary/eXACTly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
