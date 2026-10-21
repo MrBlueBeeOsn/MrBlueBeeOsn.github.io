@@ -15,7 +15,7 @@ export default function sucCESSfully2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-hieu-qua"><mark className="highlight-tertiary-padding-4-8">ADverbs: hiệu quả</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-efFECTively"><mark className="highlight-tertiary-padding-4-8">efFECTively</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">sucCESSfully
         <sup>
@@ -75,7 +75,7 @@ export default function sucCESSfully2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>sucCESSfully</strong>" (thành công) và các cụm từ thường đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "sucCESSfully" (success) and the phrases that often go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function sucCESSfully2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "một cách thành công", "một cách mỹ mãn". Từ này thường được dùng để mô tả việc hoàn thành một mục tiêu, nhiệm vụ hoặc dự án một cách tốt đẹp.
+            &nbsp;in English means "successfully" or "to one's satisfaction." This word is often used to describe the successful completion of a goal, task, or project.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function sucCESSfully2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="comPLEted-on">the PROJect was sucCESSfully comPLEted on TIME.</li>
-        <li className="list-none margin-bottom-20">Dự án đã được hoàn thành thành công đúng tiến độ.</li>
+        <li className="list-none margin-bottom-20">The project was completed on schedule.</li>
 
         <li value="2" id="LAUNCHED-in">the NEW PRODuct was sucCESSfully LAUNCHED in the MARket.</li>
-        <li className="list-none margin-bottom-20">Sản phẩm mới đã được ra mắt thành công trên thị trường.</li>
+        <li className="list-none margin-bottom-20">The new product did well in the marketplace.</li>
 
         <li value="3" id="IMplemented">the NEW POLicy was sucCESSfully IMplemented.</li>
-        <li className="list-none margin-bottom-20">Chính sách mới đã được triển khai thành công.</li>
+        <li className="list-none margin-bottom-20">The new policy was put into action and was a success.</li>
 
         <li value="4" id="neGOtiated">the CONtract was sucCESSfully neGOtiated.</li>
-        <li className="list-none margin-bottom-20">Hợp đồng đã được đàm phán thành công.</li>
+        <li className="list-none margin-bottom-20">The contract negotiations went well.</li>
 
         <li value="5" id="aDAPTed-to">she sucCESSfully aDAPTed to the NEW enVIronment.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã thích nghi thành công với môi trường mới.</li>
+        <li className="list-none margin-bottom-20">She did well when she had to change to a new situation.</li>
 
         <li value="6" id="deFENDed-against">the CAStle was sucCESSfully deFENDed a<strong>gainst</strong> the atTACK.</li>
-        <li className="list-none margin-bottom-20">Lâu đài đã được bảo vệ thành công trước cuộc tấn công.</li>
+        <li className="list-none margin-bottom-20">The castle was able to protect itself from the attack.</li>
 
         <li value="7" id="reCOVered-from">he sucCESSfully reCOVered from the ILLness.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã hồi phục thành công sau cơn bệnh.</li>
+        <li className="list-none margin-bottom-20">He got better after being sick.</li>
 
         <li value="8" id="INtegrated-into">the NEW SYStem was sucCESSfully INtegrated <strong>in</strong>to the eXISTing one.</li>
-        <li className="list-none margin-bottom-20">Hệ thống mới đã được tích hợp thành công vào hệ thống hiện có.</li>
+        <li className="list-none margin-bottom-20">The new system was added to the existing one and went smoothly.</li>
 
         <li value="9" id="overCAME">she sucCESSfully overCAME her FEAR of PUBlic SPEAKing.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã vượt qua thành công nỗi sợ hãi khi nói trước đám đông.</li>
+        <li className="list-none margin-bottom-20">She got over her fear of public speaking, and did well.</li>
 
         <li value="10" id="perSUAded">he sucCESSfully perSUAded her to CHANGE her MIND.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã thuyết phục thành công cô ấy thay đổi ý định.</li>
+        <li className="list-none margin-bottom-20">He was able to convince her to change her mind.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh kết quả tích cực của một hành động, quá trình hoặc dự án. Chúng thường được dùng để bày tỏ sự hài lòng, đánh giá cao hoặc chúc mừng một thành công nào đó.</p>
+      <p>** The phrases above are all used to emphasize the positive outcome of an action, process, or project. They are often used to express satisfaction, appreciation, or congratulations on a particular success.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function sucCESSfully2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>sucCESSfully</strong>" thường được đặt trước hành động quá khứ phân từ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"sucCESSfully" is often placed before past participle verbs to emphasize their meaning.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết và văn nói để mô tả những kết quả đạt được.</li>
+          <li className="margin-bottom-20">This word is commonly used in both written and spoken language to describe achieved results.</li>
 
         </ul>
 

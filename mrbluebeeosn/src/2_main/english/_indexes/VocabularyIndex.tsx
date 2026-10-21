@@ -942,12 +942,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: hiệu quả
+							efFECTively
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-hieu-qua"><mark className="highlight-secondary-padding-2-4">ADverbs: hiệu quả</mark></summary>
+					<summary id="ADverbs-efFECTively"><mark className="highlight-secondary-padding-2-4">efFECTively</mark></summary>
 
 					<ul className="list-border1">
 
