@@ -75,7 +75,7 @@ export default function efFICiently2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>efFICiently</strong>" (một cách hiệu quả) và các cụm từ thường đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "efFICiently" (effectively) and the phrases that often go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function efFICiently2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "một cách hiệu quả", "một cách năng suất". Từ này thường được dùng để mô tả việc làm gì đó một cách nhanh chóng, tiết kiệm thời gian, công sức và đạt được kết quả mong muốn.
+            &nbsp;in English means "effectively" or "productively." This word is often used to describe doing something quickly, saving time and effort, and achieving the desired results.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function efFICiently2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="MANages">she efFICiently MANages her TIME to comPLETE all her TASKS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy quản lý thời gian một cách hiệu quả để hoàn thành tất cả các nhiệm vụ của mình.</li>
+        <li className="list-none margin-bottom-20">She is good at organizing her time so she can get everything she needs to do done on time.</li>
 
         <li value="2" id="alLOWS">the NEW SOFTware alLOWS us to WORK MORE efFICiently.</li>
-        <li className="list-none margin-bottom-20">Phần mềm mới này giúp chúng ta làm việc hiệu quả hơn.</li>
+        <li className="list-none margin-bottom-20">The new software helps us do more in less time.</li>
 
         <li value="3" id="USE">we NEED to FIND WAYS to efFICiently USE our REsources.</li>
-        <li className="list-none margin-bottom-20">Chúng ta cần tìm cách để sử dụng hiệu quả các nguồn lực của mình.</li>
+        <li className="list-none margin-bottom-20">We need to find ways to use our resources in the best way possible.</li>
 
         <li value="4" id="comMUnicate-to">he is Able to efFICiently comMUnicate COMplex iDEas to his TEAM.</li>
-        <li className="list-none margin-bottom-20">Anh ấy có khả năng truyền đạt hiệu quả những ý tưởng phức tạp cho đội ngũ của mình.</li>
+        <li className="list-none margin-bottom-20">He is good at explaining complicated ideas to his team.</li>
 
         <li value="5" id="proDUCES">the FACtory efFICiently proDUCES HIGH-QUALity PRODucts.</li>
-        <li className="list-none margin-bottom-20">Nhà máy sản xuất hiệu quả các sản phẩm chất lượng cao.</li>
+        <li className="list-none margin-bottom-20">The factory efficiently makes excellent products.</li>
 
         <li value="6" id="SOLVED-and-FOUND">she efFICiently SOLVED the PROBlem and FOUND a soLUtion.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã giải quyết vấn đề một cách hiệu quả và tìm ra giải pháp.</li>
+        <li className="list-none margin-bottom-20">She found a solution to the problem quickly and easily.</li>
 
         <li value="7" id="LEARN-and-acQUIRE">he can efFICiently LEARN and acQUIRE NEW SKILLS in a SHORT TIME.</li>
-        <li className="list-none margin-bottom-20">Anh ấy có thể học và nâng cao các kỹ năng mới một cách hiệu quả trong thời gian ngắn.</li>
+        <li className="list-none margin-bottom-20">He has a fast learning rate and easily picks up new skills in a short time.</li>
 
         <li value="8" id="ORganizes">she efFICiently ORganizes her FILES and DOCuments.</li>
-        <li className="list-none margin-bottom-20">Cô ấy sắp xếp các tệp tin và tài liệu của mình một cách hiệu quả.</li>
+        <li className="list-none margin-bottom-20">She has an effective system for organizing her files and documents.</li>
 
         <li value="9" id="transPORTS-to">the COMpany efFICiently transPORTS GOODS to CUStomers worldWIDE.</li>
-        <li className="list-none margin-bottom-20">Công ty vận chuyển hàng hóa một cách hiệu quả đến khách hàng trên toàn thế giới.</li>
+        <li className="list-none margin-bottom-20">The company moves goods to customers all over the world quickly and efficiently.</li>
 
         <li value="10" id="Utilize">we NEED to efFICiently Utilize our NATURal REsources.</li>
-        <li className="list-none margin-bottom-20">Chúng ta cần phải khai thác hiệu quả các nguồn tài nguyên thiên nhiên của mình.</li>
+        <li className="list-none margin-bottom-20">It's important that we use our natural resources in a way that makes them last.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh khái niệm hiệu quả, tức là làm được nhiều việc hơn với ít thời gian, công sức và nguồn lực hơn. Chúng thường được sử dụng trong các ngữ cảnh liên quan đến công việc, sản xuất, quản lý và các hoạt động hàng ngày.</p>
+      <p>** All of the above phrases emphasize the concept of efficiency - that is, getting more done with less time, effort, and resources. They are commonly used in contexts related to work, production, management, and daily activities.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function efFICiently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>efFICiently</strong>" thường được đặt trước hành động để nhấn mạnh tính chất hiệu quả của hành động đó.</li>
+          <li>"efFICiently" is often placed before an action to emphasize the efficiency of that action.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để đánh giá cao một quá trình hoặc một người nào đó.</li>
+          <li className="margin-bottom-20">This word is commonly used in both spoken and written language to express appreciation for a process or a person.</li>
 
         </ul>
 

@@ -63,7 +63,7 @@ export default function efFECTively1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>efFECTively</strong>" nhé.</p>
+      <p>Great! Let's explore the word "efFECTively" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function efFECTively1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách hiệu quả</li>
+            <li>An effective way</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function efFECTively1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>efFECTively</strong>" được dùng để mô tả một hành động, phương pháp hoặc quá trình đạt được kết quả mong muốn, sử dụng tối ưu các nguồn lực có sẵn. Nó nhấn mạnh sự thành công và hiệu suất trong việc hoàn thành một nhiệm vụ.</p>
+      <p className="margin-top-30 text-indent-whole">The word "efFECTively" is used to describe an action, method, or process that achieves the desired results while making optimal use of available resources. It emphasizes success and efficiency in completing a task.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she efFECTively MANaged the PROJect.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã quản lý dự án một cách hiệu quả.</li>
+          <li className="margin-bottom-20 list-none">She was good at managing the project.</li>
 
           <li>the NEW MEDicine efFECTively reDUCED the SYMPtoms.</li>
-          <li className="list-none">Loại thuốc mới này đã giảm hiệu quả các triệu chứng.</li>
+          <li className="list-none">The new medicine helped make the symptoms much better.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function efFECTively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">THIS is a VERy efFECTive METhod.</li>
-          <li className="margin-bottom-20 list-none">Đây là một phương pháp rất hiệu quả.</li>
+          <li className="margin-bottom-20 list-none">This method works really well.</li>
 
           <li id="NOUN">the MEDicine had a POSitive efFECT.</li>
-          <li className="list-none">Thuốc đã mang lại hiệu quả tích cực.</li>
+          <li className="list-none">The medication had a good impact.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function efFECTively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she WORKS VERy <Link to="/vocabulary/efFICiently-1">efFICiently</Link>.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy làm việc rất hiệu quả.</li>
+          <li className="margin-bottom-20 list-none">She gets things done quickly and easily.</li>
 
           <li>he <Link to="/vocabulary/sucCESSfully-1">sucCESSfully</Link> comPLEted the TASK.</li>
-          <li className="list-none">Anh ấy đã hoàn thành nhiệm vụ một cách thành công.</li>
+          <li className="list-none">He did the task and did it well.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function efFECTively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he TRIED to SOLVE the PROBlem but inefFECTively.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã cố gắng giải quyết vấn đề nhưng không hiệu quả.</li>
+          <li className="margin-bottom-20 list-none">He tried to solve the problem, but he didn't do it well.</li>
 
           <li>she TRIED to OPen the DOOR but unsucCESSfully.</li>
-          <li className="list-none">Cô ấy đã cố mở cửa nhưng không thành công.</li>
+          <li className="list-none">She tried to open the door, but it didn't work.</li>
 
         </ul>
       
@@ -184,12 +184,12 @@ export default function efFECTively1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang sử dụng một công cụ để hoàn thành một nhiệm vụ một cách nhanh chóng, chính xác.</p>
+      <p className="text-indent-whole">Imagine someone using a tool to complete a task quickly and accurately.</p>
 
         <ul className="list-square">
 
           <li>she is Using the TOOL efFECTively to comPLETE the TASK.</li>
-          <li className="list-none">Cô ấy đang sử dụng công cụ một cách hiệu quả để hoàn thành nhiệm vụ.</li>
+          <li className="list-none">She's using the tool the right way to get the job done.</li>
 
         </ul>
 
@@ -204,12 +204,12 @@ export default function efFECTively1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>efFECTively</strong>" trong nhiều ngữ cảnh.</p>
+      <p className="text-indent-whole">Create various example sentences using the word "efFECTively" in different contexts.</p>
 
         <ul className="list-square">
 
           <li>he comMUnicated his iDEas VERy efFECTively.</li>
-          <li className="list-none">Anh ấy đã truyền đạt những ý tưởng của mình một cách rất hiệu quả.</li>
+          <li className="list-none">He shared his ideas in a way that was easy for everyone to understand.</li>
 
         </ul>
 
@@ -231,16 +231,16 @@ export default function efFECTively1(): React.JSX.Element {
           <ol>
 
             <li value="1">she STUDied for the eXAM.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đã ôn thi.</li>
+            <li className="list-none margin-bottom-20">She prepared for the exam.</li>
 
             <li value="2">she STUDied efFECTively for the eXAM and GOT a HIGH SCORE.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đã ôn thi một cách hiệu quả và đạt được điểm số cao.</li>
+            <li className="list-none margin-bottom-20">She studied well and got a high score on the exam.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc học bài</span> của cô ấy không chỉ đơn thuần là học mà còn <span className="highlight-255-padding-0-4">mang lại kết quả tốt</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that</span> her studying isn't just about studying - <span className="highlight-255-padding-0-4">it also yields good results</span>.</p>
 
       </div>
 
@@ -256,9 +256,9 @@ export default function efFECTively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Kết quả: "<strong>efFECTively</strong>" tập trung vào kết quả cuối cùng và cách thức đạt được nó.</li>
+          <li>Results: "efFECTively" focuses on the end result and how to achieve it.</li>
 
-          <li className="margin-bottom-20">Nguồn lực: Nó thường liên quan đến việc sử dụng tối ưu các nguồn lực như thời gian, tiền bạc, năng lượng.</li>
+          <li className="margin-bottom-20">Resources: It often involves the optimal use of resources such as time, money, and energy.</li>
 
         </ul>
 
