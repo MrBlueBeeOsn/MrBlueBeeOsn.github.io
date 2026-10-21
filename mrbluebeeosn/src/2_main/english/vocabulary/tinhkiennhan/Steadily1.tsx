@@ -15,7 +15,7 @@ export default function STEADily1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-kien-nhan"><mark className="highlight-tertiary-padding-4-8">ADverbs: kiên nhẫn</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-PAtiently"><mark className="highlight-tertiary-padding-4-8">PAtiently</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">STEADily
         <sup><Link to="/vocabulary/STEADily-1">&nbsp;1&nbsp;</Link>
@@ -67,7 +67,7 @@ export default function STEADily1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>STEADily</strong>" nhé.</p>
+      <p>Great! Let's explore the word "STEADily" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -83,7 +83,7 @@ export default function STEADily1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách ổn định</li>
+            <li>Consistently</li>
 
           </ul>
 
@@ -95,20 +95,20 @@ export default function STEADily1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>STEADily</strong>" miêu tả cách một hành động, quá trình hoặc trạng thái diễn ra một cách liên tục, không có sự thay đổi đột ngột hoặc dao động lớn, thường cho thấy sự ổn định và chắc chắn.</p>
+      <p className="margin-top-30 text-indent-whole">The word "STEADily" describes how an action, process, or state occurs continuously, without sudden changes or significant fluctuations, and often indicates stability and certainty.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">the RAIN FELL STEADily throughout the NIGHT.</li>
-          <li className="margin-bottom-20 list-none">Mưa rơi đều đặn suốt cả đêm.</li>
+          <li className="margin-bottom-20 list-none">It kept raining all night.</li>
 
           <li>the COMpany's PROFits have been inCREAsing STEADily for the PAST YEAR.</li>
-          <li className="margin-bottom-20 list-none">Lợi nhuận của công ty đã tăng đều đặn trong suốt năm qua.</li>
+          <li className="margin-bottom-20 list-none">For the past year, the company's profits have been going up.</li>
 
           <li>he WALKED STEADily along the PATH.</li>
-          <li className="list-none">Anh ta bước đi vững chắc dọc theo con đường.</li>
+          <li className="list-none">He kept walking along the path.</li>
 
         </ul>
 
@@ -125,13 +125,13 @@ export default function STEADily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he has a STEADy JOB.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy có một công việc ổn định.</li>
+          <li className="margin-bottom-20 list-none">He is working steadily.</li>
         
           <li id="VERB">STEADy yourSELF!</li>
-          <li className="margin-bottom-20 list-none">Hãy giữ bình tĩnh!</li>
+          <li className="margin-bottom-20 list-none">Keep your cool!</li>
 
           <li id="NOUN">he adMIred her STEADiness <strong>un</strong>der PRESsure.</li>
-          <li className="list-none">Anh ấy ngưỡng mộ sự bình tĩnh của cô ấy khi phải đối mặt với áp lực.</li>
+          <li className="list-none">He admired her ability to stay calm and composed under pressure.</li>
 
         </ul>
 
@@ -148,16 +148,16 @@ export default function STEADily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he EXercises REGularly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy tập thể dục đều đặn.</li>
+          <li className="margin-bottom-20 list-none">He exercises on a regular basis.</li>
 
           <li>the NOISE was CONstantly IRritating.</li>
-          <li className="margin-bottom-20 list-none">Tiếng ồn liên tục gây khó chịu.</li>
+          <li className="margin-bottom-20 list-none">The loud noise was always bothering me.</li>
 
           <li>the WAter FLOWED conTINuously.</li>
-          <li className="margin-bottom-20 list-none">Nước chảy liên tục.</li>
+          <li className="margin-bottom-20 list-none">The water didn't stop flowing.</li>
 
           <li>he HELD the RAILing FIRMly.</li>
-          <li className="list-none">Anh ấy nắm chắc lan can.</li>
+          <li className="list-none">He grabbed the rail and held it tightly.</li>
 
         </ul>
 
@@ -176,16 +176,16 @@ export default function STEADily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he atTENDed irREGularly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy tham dự không đều đặn.</li>
+          <li className="margin-bottom-20 list-none">He didn't come to work on a regular basis.</li>
 
           <li>the PRIces CHANGED unpreDICTably.</li>
-          <li className="margin-bottom-20 list-none">Giá cả đã thay đổi một cách khó lường.</li>
+          <li className="margin-bottom-20 list-none">The prices changed in a way that wasn't possible to predict.</li>
 
           <li>he beHAVED erRATically.</li>
-          <li className="margin-bottom-20 list-none">Anh ta cư xử một cách thất thường.</li>
+          <li className="margin-bottom-20 list-none">He acted in a way that was not consistent with the situation.</li>
 
           <li>he WALKED unSTEADily <strong>af</strong>ter the INjury.</li>
-          <li className="list-none">Sau khi bị thương, anh ấy đi lại không vững.</li>
+          <li className="list-none">After the injury, he walked in an unstable way.</li>
 
         </ul>
       
@@ -206,18 +206,18 @@ export default function STEADily1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một ngọn lửa cháy đều, một đường thẳng dốc lên từ từ trên biểu đồ hoặc một người đi bộ với bước chân chắc chắn.</p>
+      <p className="text-indent-whole">Imagine a steady flame, a line rising gradually on a graph, or a person walking with a steady stride.</p>
 
         <ul className="list-square">
 
           <li>The fire burned steadily.</li>
-          <li className="margin-bottom-20 list-none">Ngọn lửa cháy đều đặn.</li>
+          <li className="margin-bottom-20 list-none">As the sun set, the fire continued to burn.</li>
 
           <li>the CHART TRENDed UPward STEADily.</li>
-          <li className="margin-bottom-20 list-none">Biểu đồ cho thấy xu hướng tăng đều đặn.</li>
+          <li className="margin-bottom-20 list-none">The chart showed a continuous upward trend.</li>
 
           <li>he WALKED STEADily with FIRM STEPS.</li>
-          <li className="list-none">Anh ấy bước đi vững chắc với những bước chân quyết đoán.</li>
+          <li className="list-none">He walked steadily and with strong, confident steps.</li>
 
         </ul>
 
@@ -232,12 +232,12 @@ export default function STEADily1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến những thứ bạn thấy diễn ra một cách ổn định.</p>
+      <p className="text-indent-whole">Create sentences related to things you see happening on a regular basis.</p>
 
         <ul className="list-square">
 
           <li>the SUN ROSE STEADily in the EAST.</li>
-          <li className="list-none">Mặt trời từ từ mọc lên ở phía Đông.</li>
+          <li className="list-none">Sunrise in the east is getting closer.</li>
 
         </ul>
 
@@ -252,55 +252,55 @@ export default function STEADily1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Chú ý đến những quá trình hoặc hành động diễn ra một cách liên tục và ổn định xung quanh bạn và cố gắng sử dụng từ này để mô tả chúng.</p>
+      <p className="text-indent-whole margin-bottom-20">Pay attention to the processes or actions that occur continuously and consistently around you, and try to use this word to describe them.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">the RAIN FELL throughout the NIGHT.</li>
-            <li className="list-none margin-bottom-20">Mưa đã rơi suốt cả đêm.</li>
+            <li className="list-none margin-bottom-20">It rained all night.</li>
 
             <li value="2">the RAIN FELL STEADily throughout the NIGHT.</li>
-            <li className="list-none margin-bottom-20">Mưa rơi đều đặn suốt cả đêm.</li>
+            <li className="list-none margin-bottom-20">It rained on and on all night.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: <span className="highlight-255-padding-0-4">Nhấn mạnh rằng mưa rơi liên tục</span> với cường độ không thay đổi nhiều.</p>
+        <p className="margin-y-10">The difference: It <span className="highlight-255-padding-0-4">emphasizes that the rain falls continuously</span> with little variation in intensity.</p>
 
       </div>
 
           <ol>
 
             <li>the COMpany's PROFits have been inCREAsing for the PAST YEAR.</li>
-            <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng lên trong suốt năm qua.</li>
+            <li className="list-none margin-bottom-20">The company has been making more and more money for the past year.</li>
 
             <li value="2">the COMpany's PROFits have been inCREAsing STEADily for the PAST YEAR.</li>
-            <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng đều đặn trong suốt năm qua.</li>
+            <li className="list-none margin-bottom-20">The company has been making more and more money every day for the past year.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Cho thấy sự tăng trưởng liên tục và không có những biến động lớn.</p>
+        <p className="margin-y-10">The difference: <span className="highlight-255-padding-0-4">Indicates steady growth</span> and the absence of major fluctuations.</p>
 
       </div>
 
           <ol>
 
             <li>he WALKED along the PATH.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đi dọc theo con đường mòn.</li>
+            <li className="list-none margin-bottom-20">He strolled along the path.</li>
 
             <li value="2">he WALKED STEADily along the PATH.</li>
-            <li className="list-none margin-bottom-20">Anh ta bước đi vững chắc dọc theo con đường mòn.</li>
+            <li className="list-none margin-bottom-20">He walked along the path without stopping.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Thể hiện cách đi của anh ấy chắc chắn, không bị loạng choạng.</p>
+        <p className="margin-y-10">The difference: <span className="highlight-255-padding-0-4">His gait was steady and sure</span>, without any wavering.</p>
 
       </div>
 
@@ -316,9 +316,9 @@ export default function STEADily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự liên tục và thiếu sự thay đổi đột ngột: "<strong>STEADily</strong>" thường mang ý nghĩa tích cực về sự ổn định và đáng tin cậy.</li>
+          <li>Emphasizing continuity and the absence of sudden changes: "STEADily" typically conveys a positive connotation of stability and reliability.</li>
 
-          <li className="margin-bottom-20">Có thể áp dụng cho thời tiết, tài chính, tốc độ, sự tiến bộ hoặc bất kỳ quá trình nào diễn ra theo thời gian: Từ này mô tả một xu hướng ổn định.</li>
+          <li className="margin-bottom-20">It can be applied to weather, finance, speed, progress, or any process that unfolds over time: This word describes a steady trend.</li>
 
         </ul>
 

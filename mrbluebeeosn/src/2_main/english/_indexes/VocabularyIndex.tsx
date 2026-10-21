@@ -842,7 +842,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: kiên nhẫn
+							PAtiently
 				============================= */}
 
 				<details className="sub-box-fix">
@@ -892,12 +892,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: kiên nhẫn
+							PAtiently
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-kien-nhan"><mark className="highlight-secondary-padding-2-4">ADverbs: kiên nhẫn</mark></summary>
+					<summary id="ADverbs-PAtiently"><mark className="highlight-secondary-padding-2-4">PAtiently</mark></summary>
 
 					<ul className="list-border1">
 

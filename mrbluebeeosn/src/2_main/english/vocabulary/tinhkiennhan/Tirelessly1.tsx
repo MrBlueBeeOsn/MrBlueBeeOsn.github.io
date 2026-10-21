@@ -15,7 +15,7 @@ export default function TIRElessly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-kien-nhan"><mark className="highlight-tertiary-padding-4-8">ADverbs: kiên nhẫn</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-PAtiently"><mark className="highlight-tertiary-padding-4-8">PAtiently</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">TIRElessly
         <sup><Link to="/vocabulary/TIRElessly-1">&nbsp;1&nbsp;</Link>
@@ -63,7 +63,7 @@ export default function TIRElessly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>TIRElessly</strong>" nhé.</p>
+      <p>Great! Let's explore the word "TIRElessly" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function TIRElessly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Không ngừng nghỉ</li>
+            <li>Nonstop</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function TIRElessly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>TIRElessly</strong>" được dùng để miêu tả một hành động được thực hiện một cách liên tục, không ngừng nghỉ, dù phải đối mặt với khó khăn. Nó thể hiện sự kiên trì, quyết tâm cao độ của người thực hiện.</p>
+      <p className="margin-top-30 text-indent-whole">The word "TIRElessly" is used to describe an action performed continuously and without pause, even in the face of difficulties. It conveys the perseverance and strong determination of the person performing the action.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she WORKED TIRElessly to FINish the PROJect on TIME.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã làm việc không mệt mỏi để hoàn thành dự án đúng hạn.</li>
+          <li className="margin-bottom-20 list-none">She didn't stop working until she finished her project on time.</li>
 
           <li>the ATHletes TRAINED TIRElessly for the compeTITion.</li>
-          <li className="list-none">Các vận động viên đã tập luyện không ngừng nghỉ để chuẩn bị cho cuộc thi.</li>
+          <li className="list-none">The athletes worked out very hard to be ready for the competition.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function TIRElessly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">i'm TOO TIred to gO OUT toNIGHT.</li>
-          <li className="list-none">Tớ mệt quá, không thể ra ngoài tối nay được.</li>
+          <li className="margin-bottom-20 list-none">I don't feel like going out tonight.</li>
           
           <li id="VERB">the LONG WALK TIred me OUT.</li>
-          <li className="margin-bottom-20 list-none">Chuyến đi bộ dài khiến tôi kiệt sức.</li>
+          <li className="list-none">The long walk made me very tired.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function TIRElessly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the RAIN FELL inCESsantly.</li>
-          <li className="margin-bottom-20 list-none">Mưa rơi không ngừng.</li>
+          <li className="margin-bottom-20 list-none">It rained steadily.</li>
 
           <li>she purSUED her GOAL reLENTlessly.</li>
-          <li className="list-none">Cô ấy đã kiên trì theo đuổi mục tiêu của mình.</li>
+          <li className="list-none">She didn't stop trying to achieve her goal.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function TIRElessly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he <Link to="/vocabulary/LAZily-1">LAZily</Link> SAT on the COUCH.</li>
-          <li className="margin-bottom-20 list-none">Anh ta thong thả ngồi trên ghế sofa.</li>
+          <li className="margin-bottom-20 list-none">He sat down on the couch without thinking.</li>
 
           <li>she CASually MENtioned her TRIP.</li>
-          <li className="list-none">Cô ấy đã thoải mái nhắc đến chuyến đi của mình.</li>
+          <li className="list-none">She casually mentioned her trip, without giving it much thought.</li>
 
         </ul>
       
@@ -184,12 +184,12 @@ export default function TIRElessly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang chạy marathon, không ngừng nghỉ.</p>
+      <p className="text-indent-whole">Imagine someone running a marathon, without stopping.</p>
 
         <ul className="list-square">
 
           <li>he is TIRElessly RUNning the MARathon, SHOWing inCREDible enDURance.</li>
-          <li className="list-none">Anh ấy đang chạy marathon một cách không mệt mỏi, thể hiện sức bền đáng kinh ngạc.</li>
+          <li className="list-none">He is running the marathon without stopping, showing that he can keep going for a long time.</li>
 
         </ul>
 
@@ -204,12 +204,12 @@ export default function TIRElessly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>TIRElessly</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Create your own example sentences using the word "TIRElessly" in various contexts.</p>
 
         <ul className="list-square">
 
           <li>the SCIentists WORKED TIRElessly to FIND a CURE for the disEASE.</li>
-          <li className="list-none">Các nhà khoa học đã làm việc không mệt mỏi để tìm ra phương pháp chữa trị căn bệnh này.</li>
+          <li className="list-none">The scientists worked nonstop to find a cure for the disease.</li>
 
         </ul>
 
@@ -224,23 +224,23 @@ export default function TIRElessly1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này khi muốn diễn tả sự kiên trì, không biết mệt mỏi.</p>
+      <p className="text-indent-whole margin-bottom-20">This word is often used to describe perseverance and tireless effort.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">he TRIED to SOLVE the PROBlem.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã cố gắng giải quyết vấn đề.</li>
+            <li className="list-none margin-bottom-20">He attempted to solve the problem.</li>
 
             <li value="2">he WORKED TIRElessly to SOLVE the PROBlem.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã làm việc không mệt mỏi để giải quyết vấn đề.</li>
+            <li className="list-none margin-bottom-20">He tried his hardest to solve the problem.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh sự nỗ lực không ngừng nghỉ</span> của anh ta <span className="highlight-255-padding-0-4">để giải quyết</span> vấn đề.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes his relentless efforts to solve</span> the problem.</p>
 
       </div>
 
@@ -256,9 +256,9 @@ export default function TIRElessly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Kiên trì: "<strong>TIRElessly</strong>" thường được dùng để miêu tả một sự kiên trì đáng nể.</li>
+          <li>Perseverance: "TIRElessly" is often used to describe admirable perseverance.</li>
 
-          <li className="margin-bottom-20">Không ngừng nghỉ: Nó nhấn mạnh tính liên tục của một hành động.</li>
+          <li className="margin-bottom-20">Relentless: It emphasizes the continuity of an action.</li>
 
         </ul>
 
