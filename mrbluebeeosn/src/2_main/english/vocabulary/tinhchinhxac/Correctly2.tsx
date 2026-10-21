@@ -75,7 +75,7 @@ export default function corRECTly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>corRECTly</strong>" (đúng) và các cụm từ thường đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "correctly" and the phrases that often go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function corRECTly2(): React.JSX.Element {
               
             </span>
               
-              &nbsp;trong tiếng Anh có nghĩa là "một cách chính xác", "đúng đắn", thường được dùng để mô tả một hành động, câu trả lời, hoặc thông tin hoàn toàn đúng và không có sai sót.
+              &nbsp;in English means "accurately" or "correctly" and is often used to describe an action, answer, or piece of information that is entirely correct and free of errors.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function corRECTly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="iDENtified">the deTECtive corRECTly iDENtified the SUSpect.</li>
-        <li className="list-none margin-bottom-20">Vị thám tử đã xác định chính xác danh tính nghi phạm.</li>
+        <li className="list-none margin-bottom-20">The detective was right. They knew who the suspect is.</li>
 
         <li value="2" id="ANswered-on">she corRECTly ANswered all theQUESTions on the TEST.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã trả lời đúng tất cả các câu hỏi trong bài kiểm tra.</li>
+        <li className="list-none margin-bottom-20">On the test, she gave the correct answer to all the questions.</li>
 
         <li value="3" id="inTERpreted-by">the MESsage was corRECTly inTERpreted by the reCEIver.</li>
-        <li className="list-none margin-bottom-20">Thông điệp đã được người nhận hiểu đúng.</li>
+        <li className="list-none margin-bottom-20">The message was correctly understood by the person who received it.</li>
 
         <li value="4" id="SPELLED-on">he corRECTly SPELLED <strong>ever</strong>y WORD on the LIST.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã viết đúng chính tả mọi từ trong danh sách.</li>
+        <li className="list-none margin-bottom-20">He spelled all the words on the list right.</li>
 
         <li value="5" id="CALculated-of">the engiNEER corRECTly CALculated the LOAD-BEARing caPACity of the BRIDGE.</li>
-        <li className="list-none margin-bottom-20">Kỹ sư đã tính toán chính xác khả năng chịu tải của cây cầu.</li>
+        <li className="list-none margin-bottom-20">The engineer figured out how much the bridge could handle.</li>
 
         <li value="6" id="apPLIED-in">the RULES were corRECTly apPLIED in this CASE.</li>
-        <li className="list-none margin-bottom-20">Các quy định đã được áp dụng đúng đắn trong trường hợp này.</li>
+        <li className="list-none margin-bottom-20">The rules were applied properly in this situation.</li>
 
         <li value="7" id="DIagnosed">the DOCtor corRECTly DIagnosed the PAtient's ILLness.</li>
-        <li className="list-none margin-bottom-20">Bác sĩ đã chẩn đoán chính xác bệnh tình của bệnh nhân.</li>
+        <li className="list-none margin-bottom-20">The doctor was right about the patient's illness.</li>
 
         <li value="8" id="poSITioned-on">the CHESS PIEces were corRECTly poSITioned on the BOARD.</li>
-        <li className="list-none margin-bottom-20">Các quân cờ đã được đặt đúng vị trí trên bàn cờ.</li>
+        <li className="list-none margin-bottom-20">The chess piece positions on the chessboard were correct.</li>
 
         <li value="9" id="MEASured-of">the SCIentist corRECTly MEASured the TEMPERature of the soLUtion.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học đã đo nhiệt độ của dung dịch một cách chính xác.</li>
+        <li className="list-none margin-bottom-20">The scientist measured the solution's temperature correctly.</li>
 
         <li value="10" id="underSTOOD-by">the inSTRUCtions were corRECTly underSTOOD by all the parTICipants.</li>
-        <li className="list-none margin-bottom-20">Tất cả các học viên đều đã hiểu đúng các hướng dẫn.</li>
+        <li className="list-none margin-bottom-20">All the participants understood the instructions correctly.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh sự chính xác và đúng đắn trong việc thực hiện một hành động hoặc cung cấp thông tin. Chúng thường được sử dụng để đánh giá kết quả của một quá trình hoặc để xác nhận tính đúng đắn của một điều gì đó.</p>
+      <p>** The phrases above all emphasize accuracy and correctness in performing an action or providing information. They are often used to evaluate the results of a process or to confirm the correctness of something.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function corRECTly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>corRECTly</strong>" thường được đặt trước hành động quá khứ phân từ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"corRECTly" is often placed before past participle verbs to emphasize their meaning.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong các văn bản hướng dẫn, báo cáo hoặc các văn bản mang tính chuyên môn.</li>
+          <li className="margin-bottom-20">This word is commonly used in instructional texts, reports, or technical documents.</li>
 
         </ul>
 

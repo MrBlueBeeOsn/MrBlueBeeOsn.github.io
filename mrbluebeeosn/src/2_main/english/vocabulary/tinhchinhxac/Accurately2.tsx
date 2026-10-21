@@ -75,7 +75,7 @@ export default function ACcurately2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ACcurately</strong>" (chính xác) và các cụm từ thường đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "accurately" and the phrases that often go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function ACcurately2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "một cách chính xác", "một cách đúng đắn". Từ này thường được dùng để mô tả việc làm gì đó một cách tỉ mỉ, không sai sót, trùng khớp với thực tế.
+            &nbsp;in English means "accurately" or "correctly." This word is often used to describe doing something meticulously, without error, and in accordance with reality.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function ACcurately2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="reFLECT">the staTIStics ACcurately reFLECT the CURrent ecoNOMic situAtion.</li>
-        <li className="list-none margin-bottom-20">Các số liệu thống kê phản ánh chính xác tình hình kinh tế hiện nay.</li>
+        <li className="list-none margin-bottom-20">The statistics accurately show the current state of the economy.</li>
 
         <li value="2" id="MEASured-of">the SCIentist ACcurately MEASured the TEMPERature of the soLUtion.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học đã đo nhiệt độ của dung dịch một cách chính xác.</li>
+        <li className="list-none margin-bottom-20">The scientist measured the solution's temperature correctly.</li>
 
         <li value="3" id="preDICTed-of">the meteoROLogist ACcurately preDICTed the arRIval of the STORM.</li>
-        <li className="list-none margin-bottom-20">Nhà khí tượng học đã dự báo chính xác sự xuất hiện của cơn bão.</li>
+        <li className="list-none margin-bottom-20">The meteorologist correctly predicted when the storm would arrive.</li>
 
         <li value="4" id="deSCRIBED-to">the WITness ACcurately deSCRIBED the SUSpect to the poLICE.</li>
-        <li className="list-none margin-bottom-20">Người làm chứng đã mô tả chính xác nghi phạm cho cảnh sát.</li>
+        <li className="list-none margin-bottom-20">The witness told the police exactly what the suspect looked like.</li>
 
         <li value="5" id="iDENtified">the EXpert ACcurately iDENtified the RARE BIRD SPEcies.</li>
-        <li className="list-none margin-bottom-20">Chuyên gia đã xác định chính xác loài chim quý hiếm này.</li>
+        <li className="list-none margin-bottom-20">The expert correctly identified the rare bird species.</li>
 
         <li value="6" id="CALculated-of">the engiNEER ACcurately CALculated the LOAD-BEARing caPACity of the BRIDGE.</li>
-        <li className="list-none margin-bottom-20">Kỹ sư đã tính toán chính xác khả năng chịu tải của cây cầu.</li>
+        <li className="list-none margin-bottom-20">The engineer calculated how much the bridge could support its weight.</li>
 
         <li value="7" id="transLAted-from-into">the transLAtor ACcurately transLAted the DOCument from ENGlish <strong>in</strong>to SPANish.</li>
-        <li className="list-none margin-bottom-20">Người dịch đã dịch chính xác tài liệu này từ tiếng Anh sang tiếng Tây Ban Nha.</li>
+        <li className="list-none margin-bottom-20">The translator translated the document from English to Spanish correctly.</li>
 
         <li value="8" id="repreSENTS-of">the MODel ACcurately repreSENTS the STRUCture of the MOLecule.</li>
-        <li className="list-none margin-bottom-20">Mô hình này phản ánh chính xác cấu trúc của phân tử.</li>
+        <li className="list-none margin-bottom-20">The model shows the molecular structure very accurately.</li>
 
         <li value="9" id="asSESSED">the TEACHer ACcurately asSESSED the STUdent's perFORmance.</li>
-        <li className="list-none margin-bottom-20">Giáo viên đã đánh giá chính xác kết quả học tập của học sinh.</li>
+        <li className="list-none margin-bottom-20">The teacher understood how well the student did on the test.</li>
 
         <li value="10" id="reproDUCED-in">the ARTist ACcurately reproDUCED the SCENE in her PAINTing.</li>
-        <li className="list-none margin-bottom-20">Nghệ sĩ đã tái hiện chính xác khung cảnh đó trong bức tranh của mình.</li>
+        <li className="list-none margin-bottom-20">The artist painted a very accurate picture of the scene.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh khái niệm về sự chính xác, sự tỉ mỉ và sự trùng khớp với thực tế. Chúng thường được sử dụng trong các ngữ cảnh liên quan đến khoa học, kỹ thuật, nghệ thuật và các hoạt động đòi hỏi độ chính xác cao.</p>
+      <p>** These phrases all emphasize the concepts of accuracy, precision, and conformity to reality. They are commonly used in contexts related to science, technology, the arts, and activities that require a high degree of accuracy.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function ACcurately2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>ACcurately</strong>" thường được đặt trước ADjective hoặc ADverb để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"ACcurately" is often placed before an adjective or adverb to emphasize their meaning.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để tạo ấn tượng mạnh.</li>
+          <li className="margin-bottom-20">This word is commonly used in both spoken and written language to make a strong impression.</li>
 
         </ul>
 
