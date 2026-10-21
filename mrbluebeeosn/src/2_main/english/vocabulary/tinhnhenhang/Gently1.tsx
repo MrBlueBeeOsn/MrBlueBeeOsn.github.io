@@ -59,7 +59,7 @@ export default function GENTly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>GENTly</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "GENTly."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function GENTly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Nhẹ nhàng</li>
+            <li>Gentle</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function GENTly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>GENTly</strong>" được dùng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, không mạnh bạo, không gây tổn thương. Nó có thể áp dụng cho nhiều tình huống khác nhau, từ việc chạm vào một vật dễ vỡ đến việc nói chuyện với ai đó một cách dịu dàng.</p>
+      <p className="margin-top-30 text-indent-whole">The word "GENTly" is used to describe an action performed gently, without force, and without causing harm. It can apply to a variety of situations, from handling a fragile object to speaking to someone gently.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she CLOSED the DOOR GENTly.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đóng cửa một cách nhẹ nhàng.</li>
+          <li className="margin-bottom-20 list-none">She closed the door carefully, closing the door gently.</li>
 
           <li>PLEASE SPEAK GENTly to the CHILD.</li>
-          <li className="list-none">Xin hãy nói chuyện nhẹ nhàng với đứa trẻ.</li>
+          <li className="list-none">Please speak kindly to the child.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function GENTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">she has a GENTle NAture.</li>
-          <li className="list-none">Cô ấy có tính cách hiền lành.</li>
+          <li className="list-none">She is kind and easygoing.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function GENTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she SPOKE <Link to="/vocabulary/SOFTly-1">SOFTly</Link>.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy nói rất nhẹ nhàng.</li>
+          <li className="margin-bottom-20 list-none">She spoke in a soft voice.</li>
 
           <li>HANdle the GLASS <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
-          <li className="list-none">Hãy cẩn thận khi cầm ly.</li>
+          <li className="list-none">Be very careful when you handle the glass.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function GENTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he HANDled the PACKage ROUGHly.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã xử lý gói hàng một cách thô bạo.</li>
+          <li className="margin-bottom-20 list-none">He didn't treat the package carefully.</li>
 
           <li>the STORM RAGED VIolently.</li>
-          <li className="list-none">Cơn bão đã hoành hành dữ dội.</li>
+          <li className="list-none">A storm hit with great force.</li>
 
         </ul>
       
@@ -177,12 +177,12 @@ export default function GENTly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang vuốt ve một con mèo một cách nhẹ nhàng.</p>
+      <p className="text-indent-whole">Imagine someone gently petting a cat.</p>
 
         <ul className="list-square">
 
           <li>she is GENTly PETting the CAT.</li>
-          <li className="list-none">Cô ấy đang vuốt ve con mèo một cách nhẹ nhàng.</li>
+          <li className="list-none">She is petting the cat very gently.</li>
 
         </ul>
 
@@ -197,12 +197,12 @@ export default function GENTly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu miêu tả các hành động nhẹ nhàng.</p>
+      <p className="text-indent-whole">Create sentences that describe gentle actions.</p>
 
         <ul className="list-square">
 
           <li>she CLOSED the BOOK GENTly and PUT it DOWN.</li>
-          <li className="list-none">Cô ấy nhẹ nhàng đóng cuốn sách lại và đặt nó xuống.</li>
+          <li className="list-none">She closed the book slowly and placed it on the table.</li>
 
         </ul>
 
@@ -224,16 +224,16 @@ export default function GENTly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he PUSHED the DOOR.</li>
-            <li className="list-none margin-bottom-20">Anh ta đẩy cửa.</li>
+            <li className="list-none margin-bottom-20">He opened the door.</li>
 
             <li value="2">he PUSHED the DOOR GENTly.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đẩy cửa một cách nhẹ nhàng.</li>
+            <li className="list-none margin-bottom-20">He gently closed the door.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng anh ấy <span className="highlight-255-padding-0-4">đã đẩy</span> cửa <span className="highlight-255-padding-0-4">một cách cẩn thận</span>, không mạnh bạo.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that he pushed the door open carefully</span>, not forcefully.</p>
 
       </div>
 
@@ -249,9 +249,9 @@ export default function GENTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Cảm xúc: "<strong>GENTly</strong>" thường liên quan đến cảm xúc tích cực như sự dịu dàng, ân cần.</li>
+          <li>Emotions: "GENTly" is often associated with positive emotions such as gentleness and kindness.</li>
 
-          <li className="margin-bottom-20">Hành động: Nó có thể được sử dụng để miêu tả cả hành động vật lý và hành động bằng lời nói.</li>
+          <li className="margin-bottom-20">Actions: It can be used to describe both physical actions and verbal actions.</li>
 
         </ul>
 

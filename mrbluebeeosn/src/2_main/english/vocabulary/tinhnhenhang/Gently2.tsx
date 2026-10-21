@@ -75,7 +75,7 @@ export default function GENTly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>GENTly</strong>" (nhẹ nhàng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “GENTly” (gently) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function GENTly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được sử dụng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, dịu dàng, không gây tổn hại hoặc khó chịu.
+            &nbsp;is often used to describe an action performed gently, softly, without causing harm or discomfort.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function GENTly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="caRESSED">she GENTly caRESSED the BAby's CHEEK.</li>
-        <li className="list-none margin-bottom-20">Cô nhẹ nhàng vuốt ve má em bé.</li>
+        <li className="list-none margin-bottom-20">She gently rubbed the baby's cheek.</li>
 
         <li value="2" id="PUSHED">he GENTly PUSHED the DOOR Open.</li>
-        <li className="list-none margin-bottom-20">Anh nhẹ nhàng đẩy cánh cửa mở ra.</li>
+        <li className="list-none margin-bottom-20">He opened the door slowly and carefully.</li>
 
         <li value="3" id="SHOOK">she GENTly SHOOK the BOTtle to MIX the inGREdients.</li>
-        <li className="list-none margin-bottom-20">Cô nhẹ nhàng lắc chai để trộn đều các nguyên liệu.</li>
+        <li className="list-none margin-bottom-20">She carefully shook the bottle. This mixed the ingredients together.</li>
 
         <li value="4" id="SLOPED-DOWN-to">the HILL GENTly SLOPED DOWN to the VALley.</li>
-        <li className="list-none margin-bottom-20">Ngọn đồi dốc nhẹ xuống thung lũng.</li>
+        <li className="list-none margin-bottom-20">The Hill went down to the Valley slowly.</li>
 
         <li value="5" id="RAINing">it was GENTly RAINing outSIDE.</li>
-        <li className="list-none margin-bottom-20">Bên ngoài, trời đang mưa nhẹ.</li>
+        <li className="list-none margin-bottom-20">There was a light drizzle.</li>
 
         <li value="6" id="SPOKE-to">she SPOKE GENTly to the CHILD.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nói nhẹ nhàng với đứa trẻ.</li>
+        <li className="list-none margin-bottom-20">She spoke in a kind and calm voice to the child.</li>
 
         <li value="7" id="SMILED-at">he GENTly SMILED at her.</li>
-        <li className="list-none margin-bottom-20">Anh nhẹ nhàng mỉm cười với cô.</li>
+        <li className="list-none margin-bottom-20">He smiled at her in a gentle way.</li>
 
         <li value="8" id="LOWered-into">she GENTly LOWered herSELF <strong>in</strong>to the CHAIR.</li>
-        <li className="list-none margin-bottom-20">Cô nhẹ nhàng ngồi xuống ghế.</li>
+        <li className="list-none margin-bottom-20">She sat down in the chair slowly and carefully.</li>
 
         <li value="9" id="TAPPED-on">he GENTly TAPPED on the WINdow.</li>
-        <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng gõ vào cửa sổ.</li>
+        <li className="list-none margin-bottom-20">He tapped on the window, carefully, gently.</li>
 
         <li value="10" id="SWAYED-in">the TREES GENTly SWAYED in the BREEZE.</li>
-        <li className="list-none margin-bottom-20">Những cây cối nhẹ nhàng đung đưa trong gió.</li>
+        <li className="list-none margin-bottom-20">The trees gently moved in the breeze.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh sự nhẹ nhàng, dịu dàng trong một hành động hoặc trạng thái. Chúng thường tạo ra một cảm giác thư thái, dễ chịu và không gây tổn hại.</p>
+      <p>** The phrases above are all used to emphasize the gentleness and tenderness of an action or state. They often evoke a sense of calm, comfort, and harmlessness.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function GENTly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>GENTly</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
+          <li>"GENTly" is often placed before a verb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
+          <li className="margin-bottom-20">This word can be used in both spoken and written language.</li>
 
         </ul>
 

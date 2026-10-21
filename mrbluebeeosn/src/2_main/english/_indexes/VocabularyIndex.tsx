@@ -1047,10 +1047,19 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 	
-					<summary id="ADverbs-meTICulous"><mark className="highlight-secondary-padding-2-4">meTICulously</mark></summary>
+					<summary id="ADverbs-DILigently"><mark className="highlight-secondary-padding-2-4">DILigently</mark></summary>
 
 					<ul className="list-border1">
 
+						<li>
+							<Link to="/vocabulary/DILiGENTly-1">DILigently
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/DILiGENTly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
 						<li>
 							<Link to="/vocabulary/PAINstakingly-1">PAINstakingly
 								<sup>&nbsp;1&nbsp;</sup>
@@ -1065,15 +1074,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/THORoughly-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-						
-						<li>
-							<Link to="/vocabulary/DILiGENTly-1">DILigently
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/DILiGENTly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

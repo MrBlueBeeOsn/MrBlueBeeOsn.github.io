@@ -59,7 +59,7 @@ export default function DELicately1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>DELicately</strong>" nhé.</p>
+      <p>Great! Let's explore the word "DELicately" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function DELicately1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách tinh tế</li>
+            <li>In a subtle way</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function DELicately1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>DELicately</strong>" thường được dùng để mô tả một hành động được thực hiện một cách cẩn thận, nhẹ nhàng, tránh gây tổn hại hoặc làm phiền đến người khác hoặc vật khác. Nó cũng có thể ám chỉ sự tinh tế trong cách diễn đạt hoặc xử lý một vấn đề.</p>
+      <p className="margin-top-30 text-indent-whole">The word "DELicately" is often used to describe an action performed carefully and gently, taking care not to cause harm or inconvenience to others or other objects. It can also imply subtlety in the way an issue is expressed or handled.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she DELicately pickED UP the FRAGile VASE.</li>
-          <li className="margin-bottom-20 list-none">Cô nhẹ nhàng nhấc chiếc bình dễ vỡ lên.</li>
+          <li className="margin-bottom-20 list-none">Carefully, she picked up the delicate vase.</li>
 
           <li>he DELicately BROACHED the SUBject of MONey with his PARents.</li>
-          <li className="list-none">Anh ấy đã khéo léo đề cập đến vấn đề tiền bạc với ba mẹ mình.</li>
+          <li className="list-none">He gently mentioned money to his parents.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function DELicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the CHIna is VERy DELicate.</li>
-          <li className="list-none">Đồ sứ này rất dễ vỡ..</li>
+          <li className="list-none">The china plates are very fragile.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function DELicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she <Link to="/vocabulary/GENTly-1">GENTly</Link> CLOSED the DOOR.</li>
-          <li className="margin-bottom-20 list-none">Cô nhẹ nhàng đóng cửa lại.</li>
+          <li className="margin-bottom-20 list-none">She closed the door with care.</li>
 
           <li>he <Link to="/vocabulary/CAREfully-1">CAREfully</Link> PACKED the BOX.</li>
-          <li className="list-none">Anh ấy đã gói hộp một cách cẩn thận.</li>
+          <li className="list-none">He made sure to pack the box carefully.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function DELicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he HANDled the PACKage ROUGHly.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã xử lý gói hàng một cách thô bạo.</li>
+          <li className="margin-bottom-20 list-none">He mishandled the package.</li>
 
           <li>the STORM RAGED VIolently.</li>
-          <li className="list-none">Cơn bão đã hoành hành dữ dội.</li>
+          <li className="list-none">The storm was very intense.</li>
 
         </ul>
       
@@ -177,12 +177,12 @@ export default function DELicately1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang giữ một chiếc bánh kem rất đẹp một cách cẩn thận.</p>
+      <p className="text-indent-whole">Imagine someone carefully holding a beautiful cake.</p>
 
         <ul className="list-square">
 
           <li>she is DELicately HOLDing the BEAUtiful CAKE.</li>
-          <li className="list-none">Cô ấy đang nhẹ nhàng cầm chiếc bánh xinh đẹp.</li>
+          <li className="list-none">She is holding the beautiful cake with care.</li>
 
         </ul>
 
@@ -197,12 +197,12 @@ export default function DELicately1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>DELicately</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Create your own example sentences using the word "DELicately" in various contexts.</p>
 
         <ul className="list-square">
 
           <li>he DELicately sugGESted that she might WANT to reconSIDer her deCISion.</li>
-          <li className="list-none">Anh ấy khéo léo gợi ý rằng cô ấy có lẽ nên suy nghĩ lại về quyết định của mình.</li>
+          <li className="list-none">He subtly hinted that she might want to think again about her choice.</li>
 
         </ul>
 
@@ -217,23 +217,23 @@ export default function DELicately1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này khi muốn diễn tả sự nhẹ nhàng, tinh tế trong hành động.</p>
+      <p className="text-indent-whole margin-bottom-20">This word is often used to describe gentleness and subtlety in one’s actions.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">he CLOSED the DOOR.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã đóng cửa.</li>
+            <li className="list-none margin-bottom-20">He shut the door.</li>
 
             <li value="2">he DELicately CLOSED the DOOR so as NOT to WAKE the BAby.</li>
-            <li className="list-none margin-bottom-20">Anh nhẹ nhàng đóng cửa để không làm thức giấc em bé.</li>
+            <li className="list-none margin-bottom-20">He carefully closed the door so he wouldn't wake the baby.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>DELicately</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh sự cẩn thận</span>, tránh làm phiền đứa bé.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "DELicately" to <span className="highlight-255-padding-0-4">emphasize caution, so as not to disturb the baby</span>.</p>
 
       </div>
 
@@ -249,9 +249,9 @@ export default function DELicately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sự nhẹ nhàng: "<strong>DELicately</strong>" nhấn mạnh sự nhẹ nhàng, cẩn thận trong hành động.</li>
+          <li>Gentleness: "DELicately" emphasizes gentleness and care in one’s actions.</li>
 
-          <li className="margin-bottom-20">Sự tinh tế: Nó cũng có thể ám chỉ sự tinh tế trong cách diễn đạt, xử lý vấn đề.</li>
+          <li className="margin-bottom-20">Subtlety: It can also imply subtlety in the way one expresses oneself or handles issues.</li>
 
         </ul>
 

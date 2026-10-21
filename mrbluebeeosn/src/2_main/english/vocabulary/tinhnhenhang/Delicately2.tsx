@@ -75,7 +75,7 @@ export default function DELicately2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>DELicately</strong>" (một cách tinh tế) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "DELicately" (in a subtle way) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function DELicately2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được sử dụng để miêu tả một hành động được thực hiện một cách khéo léo, nhẹ nhàng, hoặc một tình huống đòi hỏi sự tinh tế và nhạy cảm.
+            &nbsp;is often used to describe an action performed skillfully or gently, or a situation that requires tact and sensitivity.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function DELicately2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="BALanced">the Ecosystem was DELicately BALanced be<strong>fore</strong> HUman interVENtion.</li>
-        <li className="list-none margin-bottom-20">Hệ sinh thái đã đạt được sự cân bằng tinh tế trước khi con người can thiệp.</li>
+        <li className="list-none margin-bottom-20">The ecosystem was in balance before people started changing it.</li>
 
         <li value="2" id="FLORal">the TEA has a DELicately FLORal aROma.</li>
-        <li className="list-none margin-bottom-20">Loại trà này có hương thơm hoa nhẹ nhàng.</li>
+        <li className="list-none margin-bottom-20">The tea has a subtle, floral smell.</li>
 
         <li value="3" id="SHAded">the PAINting was DELicately SHAded, creAting a SOFT, eTHEreal ATmosphere.</li>
-        <li className="list-none margin-bottom-20">Bức tranh được tô bóng một cách tinh tế, tạo nên một bầu không khí nhẹ nhàng, huyền ảo.</li>
+        <li className="list-none margin-bottom-20">The painting's delicate shading created an atmosphere that felt soft and surreal.</li>
 
         <li value="4" id="HANDled">the situAtion reQUIred to be DELicately HANDled to aVOID CONflict.</li>
-        <li className="list-none margin-bottom-20">Tình huống này cần được xử lý một cách khéo léo để tránh xung đột.</li>
+        <li className="list-none margin-bottom-20">The situation needed to be handled with care to prevent conflict.</li>
 
         <li value="5" id="SPICED">the CURry was DELicately SPICED, alLOWing the NATURal FLAvors of the inGREdients to SHINE THROUGH.</li>
-        <li className="list-none margin-bottom-20">Món cà ri được nêm gia vị một cách tinh tế, giúp hương vị tự nhiên của các nguyên liệu được bộc lộ trọn vẹn.</li>
+        <li className="list-none margin-bottom-20">The curry had just the right level of spice. This allowed the natural flavors of the ingredients to stand out.</li>
 
         <li value="6" id="conSTRUCTed-with">the WATCH was DELicately conSTRUCTed with INtricate DEtails.</li>
         <li className="list-none margin-bottom-20">Chiếc đồng hồ được chế tác một cách tinh xảo với những chi tiết phức tạp.</li>
 
         <li value="7" id="WOven-with">the SILK SCARF was DELicately WOven with INtricate PATterns.</li>
-        <li className="list-none margin-bottom-20">Chiếc khăn lụa được dệt một cách tinh tế với những hoa văn phức tạp.</li>
+        <li className="list-none margin-bottom-20">The silk scarf was made with delicate, detailed patterns.</li>
 
         <li value="8" id="BALanced-on">the ACrobat DELicately BALanced on the TIGHTrope.</li>
-        <li className="list-none margin-bottom-20">Người nhào lộn giữ thăng bằng một cách điêu luyện trên sợi dây thăng bằng.</li>
+        <li className="list-none margin-bottom-20">The Acrobat walks lightly on a very thin and slippery tightrope.</li>
 
         <li value="9" id="perFUMED-with">the ROOM was DELicately perFUMED with the SCENT of ROSES.</li>
-        <li className="list-none margin-bottom-20">Căn phòng ngập tràn hương hoa hồng dịu nhẹ.</li>
+        <li className="list-none margin-bottom-20">The room smelled very nice, like roses.</li>
 
         <li value="10" id="POISED-on">the balleRIna was DELicately POISED on the TIP of her TOES.</li>
-        <li className="list-none margin-bottom-20">Nữ diễn viên múa ba lê đang đứng một cách duyên dáng trên đầu ngón chân.</li>
+        <li className="list-none margin-bottom-20">The ballarina was standing on the edge, ready to take her first step.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để miêu tả một hành động được thực hiện một cách khéo léo, nhẹ nhàng, hoặc một tình huống đòi hỏi sự tinh tế và nhạy cảm. Chúng thường được sử dụng để tạo ra một hình ảnh đẹp và tinh tế.</p>
+      <p>** All of the above phrases are used to describe an action performed skillfully or gently, or a situation that requires subtlety and sensitivity. They are often used to create a beautiful and refined image.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function DELicately2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>DELicately</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
+          <li>"DELicately" is often placed before a verb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết trang trọng để tạo ra một cảm giác thanh lịch và tinh tế.</li>
+          <li className="margin-bottom-20">This word is commonly used in formal writing to convey a sense of elegance and refinement.</li>
 
         </ul>
 
