@@ -15,7 +15,7 @@ export default function TENderly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-nhe-nhang"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhẹ nhàng</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-GENTly"><mark className="highlight-tertiary-padding-4-8">GENTly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">TENderly
         <sup><Link to="/vocabulary/TENderly-1">&nbsp;1&nbsp;</Link>
@@ -67,7 +67,7 @@ export default function TENderly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>TENderly</strong>" nhé.</p>
+      <p>Great! Let's explore the word "TENderly" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -83,7 +83,7 @@ export default function TENderly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Dịu dàng</li>
+            <li>Gentle</li>
 
           </ul>
 
@@ -95,17 +95,17 @@ export default function TENderly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>TENderly</strong>" miêu tả một hành động hoặc lời nói được thực hiện một cách dịu dàng, trìu mến, thể hiện sự quan tâm, yêu thương và lòng trắc ẩn.</p>
+      <p className="margin-top-30 text-indent-whole">The word "TENderly" describes an action or statement made in a gentle, affectionate manner that expresses care, love, and compassion.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">he KISSED her TENderly on the FOREhead.</li>
-          <li className="margin-bottom-20 list-none">Anh hôn cô một cách dịu dàng lên trán.</li>
+          <li className="margin-bottom-20 list-none">He gently kissed her on the forehead.</li>
 
           <li>she HELD the BAby TENderly in her ARMS.</li>
-          <li className="list-none">Cô ôm đứa bé một cách dịu dàng trong vòng tay.</li>
+          <li className="list-none">She held the baby close to her chest.</li>
 
 
         </ul>
@@ -123,13 +123,13 @@ export default function TENderly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he has a TENder HEART.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy có một trái tim nhạy cảm.</li>
+          <li className="margin-bottom-20 list-none">He is a kind and compassionate person.</li>
 
           <li id="VERB">she TENDED to the INjured BIRD.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã chăm sóc con chim bị thương.</li>
+          <li className="margin-bottom-20 list-none">She took care of the bird that was hurt.</li>
 
           <li id="NOUN">he SHOWED GREAT TENderness to<strong>wards</strong> his CHILDren.</li>
-          <li className="list-none">Ông đã thể hiện sự dịu dàng vô cùng đối với các con mình.</li>
+          <li className="list-none">He was a very kind father.</li>
 
         </ul>
 
@@ -146,13 +146,13 @@ export default function TENderly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he TOUCHED her HAND <Link to="/vocabulary/GENTly-1">GENtly</Link>.</li>
-          <li className="margin-bottom-20 list-none">Anh nhẹ nhàng chạm vào tay cô.</li>
+          <li className="margin-bottom-20 list-none">He touched her hand with care.</li>
 
           <li>she SMILED afFECtionately at HIM.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy mỉm cười đầy tình cảm với anh ấy.</li>
+          <li className="margin-bottom-20 list-none">She smiled at him in a friendly way.</li>
 
           <li>he SPOKE LOVingly of his WIFE.</li>
-          <li className="list-none">Ông đã nói về vợ mình với tình cảm sâu sắc.</li>
+          <li className="list-none">He said nice things about his wife.</li>
 
         </ul>
 
@@ -171,13 +171,13 @@ export default function TENderly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he SPOKE HARSHly to the CHILD.</li>
-          <li className="margin-bottom-20 list-none">Ông ấy đã nói một cách khắc nghiệt với đứa trẻ.</li>
+          <li className="margin-bottom-20 list-none">He spoke angrily to the child.</li>
 
           <li>he TREAted the ANimal ROUGHly.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã đối xử thô bạo với con vật.</li>
+          <li className="margin-bottom-20 list-none">He didn't treat the animal kindly.</li>
 
           <li>he was BRUtally atTACKED.</li>
-          <li className="list-none">Anh ta đã bị tấn công một cách dã man.</li>
+          <li className="list-none">He was hit very hard.</li>
 
         </ul>
       
@@ -198,15 +198,15 @@ export default function TENderly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang ôm ấp hoặc vuốt ve một người thân yêu.</p>
+      <p className="text-indent-whole">Imagine someone hugging or caressing a loved one.</p>
 
         <ul className="list-square">
 
           <li>he HELD his LOVED ONE TENderly.</li>
-          <li className="margin-bottom-20 list-none">Anh ôm người yêu của mình một cách dịu dàng.</li>
+          <li className="margin-bottom-20 list-none">He gently held the person he loved.</li>
 
           <li>she caRESSED her FAMILy MEMber TENderly.</li>
-          <li className="list-none">Cô âu yếm vuốt ve các thành viên trong gia đình mình một cách dịu dàng.</li>
+          <li className="list-none">She gently stroked her family member.</li>
 
         </ul>
 
@@ -221,12 +221,12 @@ export default function TENderly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến các tình huống thể hiện sự dịu dàng và yêu thương.</p>
+      <p className="text-indent-whole">Create sentences related to situations that express tenderness and love.</p>
 
         <ul className="list-square">
 
           <li>she SANG a LULlaby TENderly to her BAby.</li>
-          <li className="list-none">Cô ấy đã hát một bài hát ru đầy dịu dàng cho con mình.</li>
+          <li className="list-none">She sang a lullaby to her baby. The song was tender.</li>
 
         </ul>
 
@@ -248,16 +248,16 @@ export default function TENderly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he KISSED her.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hôn cô ấy.</li>
+            <li className="list-none margin-bottom-20">He kissed her on the lips.</li>
 
             <li value="2">he TENderly KISSED her.</li>
-            <li className="list-none margin-bottom-20">Anh nhẹ nhàng hôn cô.</li>
+            <li className="list-none margin-bottom-20">He gave her a tender kiss.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh sự dịu dàng và yêu thương trong nụ hôn</span> của anh ấy.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes the tenderness and love</span> in his kiss.</p>
 
       </div>
 
@@ -273,9 +273,9 @@ export default function TENderly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự dịu dàng và yêu thương: "<strong>TENderly</strong>" nhấn mạnh sự dịu dàng, yêu thương và lòng trắc ẩn trong hành động hoặc lời nói.</li>
+          <li>Emphasizing tenderness and love: "TENderly" emphasizes tenderness, love, and compassion in actions or words.</li>
 
-          <li className="margin-bottom-20">Thường dùng để miêu tả hành động và lời nói: Từ này thường được sử dụng để miêu tả hành động và lời nói thể hiện sự yêu thương và quan tâm.</li>
+          <li className="margin-bottom-20">Commonly used to describe actions and words: This word is often used to describe actions and words that express love and care.</li>
 
         </ul>
 

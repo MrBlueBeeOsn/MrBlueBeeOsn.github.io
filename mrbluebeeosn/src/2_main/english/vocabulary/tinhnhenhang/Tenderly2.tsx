@@ -15,7 +15,7 @@ export default function TENderly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-nhe-nhang"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhẹ nhàng</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-GENTly"><mark className="highlight-tertiary-padding-4-8">GENTly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">TENderly
         <sup>
@@ -75,7 +75,7 @@ export default function TENderly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>TENderly</strong>" (dịu dàng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “TENderly” (tender) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function TENderly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để mô tả một hành động hoặc lời nói được thực hiện một cách dịu dàng, trìu mến, thể hiện sự quan tâm và yêu thương.
+            &nbsp;is often used to describe an action or statement made in a gentle, affectionate manner that expresses care and love.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function TENderly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="HELD">she TENderly HELD the BAby in her ARMS.</li>
-        <li className="list-none margin-bottom-20">Cô nhẹ nhàng ôm đứa bé trong vòng tay.</li>
+        <li className="list-none margin-bottom-20">She held the baby very gently.</li>
 
         <li value="2" id="TOUCHED">he TENderly TOUCHED her CHEEK.</li>
-        <li className="list-none margin-bottom-20">Anh nhẹ nhàng vuốt ve má cô.</li>
+        <li className="list-none margin-bottom-20">He gently touched her cheek with his finger.</li>
 
         <li value="3" id="KISSED">they TENderly KISSED GOODbye.</li>
-        <li className="list-none margin-bottom-20">Họ đã nhẹ nhàng hôn nhau để chia tay.</li>
+        <li className="list-none margin-bottom-20">They kissed each other goodbye.</li>
 
         <li value="4" id="CARED-for">she TENderly CARED for her SICK MOTHer.</li>
-        <li className="list-none margin-bottom-20">Cô đã tận tình chăm sóc người mẹ ốm yếu của mình.</li>
+        <li className="list-none margin-bottom-20">She took care of her sick mother with love and compassion.</li>
 
         <li value="5" id="SPOKE-to-about">he TENderly SPOKE to her a<strong>bout</strong> her FEARS.</li>
-        <li className="list-none margin-bottom-20">Anh nhẹ nhàng nói chuyện với cô về những nỗi sợ hãi của cô.</li>
+        <li className="list-none margin-bottom-20">He gently spoke to her about the things she was afraid of.</li>
 
         <li value="6" id="LOOKED-at">she TENderly LOOKED at her SLEEPing CHILD.</li>
-        <li className="list-none margin-bottom-20">Cô dịu dàng nhìn đứa con đang ngủ của mình.</li>
+        <li className="list-none margin-bottom-20">She looked at her baby, who was asleep.</li>
 
         <li value="7" id="SMILED-at">he TENderly SMILED at her.</li>
-        <li className="list-none margin-bottom-20">Anh mỉm cười dịu dàng với cô.</li>
+        <li className="list-none margin-bottom-20">He gave her a gentle smile.</li>
 
         <li value="8" id="emBRACED">they TENderly emBRACED <strong>af</strong>ter their LONG sepaRAtion.</li>
-        <li className="list-none margin-bottom-20">Họ đã ôm nhau thật dịu dàng sau một thời gian dài xa cách.</li>
+        <li className="list-none margin-bottom-20">They hugged each other after being apart for a long time.</li>
 
         <li value="9" id="COMforted">she TENderly COMforted her FRIEND who was CRYing.</li>
-        <li className="list-none margin-bottom-20">Cô ấy dịu dàng an ủi người bạn đang khóc.</li>
+        <li className="list-none margin-bottom-20">She gently took care of her sad friend.</li>
 
         <li value="10" id="caRESSED">he TENderly caRESSED her HAIR.</li>
-        <li className="list-none margin-bottom-20">Anh nhẹ nhàng vuốt ve mái tóc cô.</li>
+        <li className="list-none margin-bottom-20">He gently stroked her hair.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính dịu dàng, trìu mến của một hành động. Chúng thường được sử dụng để miêu tả những hành động thể hiện sự yêu thương, quan tâm.</p>
+      <p>** All of the phrases above emphasize the gentleness and tenderness of an action. They are often used to describe actions that express love and care.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function TENderly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>TENderly</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"TENderly" is often used before a verb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này mang nghĩa tích cực, thể hiện sự dịu dàng, trìu mến.</li>
+          <li className="margin-bottom-20">This word has a positive connotation, expressing tenderness and affection.</li>
 
         </ul>
 

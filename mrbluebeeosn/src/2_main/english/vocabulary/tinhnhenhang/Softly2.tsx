@@ -15,7 +15,7 @@ export default function SOFTly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-nhe-nhang"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhẹ nhàng</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-GENTly"><mark className="highlight-tertiary-padding-4-8">GENTly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">SOFTly
         <sup>
@@ -75,7 +75,7 @@ export default function SOFTly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SOFTly</strong>" (nhẹ nhàng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "SOFTly" (gently) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function SOFTly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb thường được sử dụng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, dịu dàng, không mạnh mẽ.
+            &nbsp;is an adverb commonly used to describe an action performed gently, softly, and not forcefully.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function SOFTly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="SPOken-to">she SOFTly SPOken to the BAby to CALM it DOWN.</li>
-        <li className="list-none margin-bottom-20">Cô ấy nhẹ nhàng thì thầm với em bé để dỗ dành em.</li>
+        <li className="list-none margin-bottom-20">She spoke gently to the baby to help it feel calm.</li>
 
         <li value="2" id="LIT-by">the ROOM was SOFTly LIT by CANdlelight.</li>
-        <li className="list-none margin-bottom-20">Căn phòng được thắp sáng một cách dịu nhẹ bởi ánh nến.</li>
+        <li className="list-none margin-bottom-20">The room was dimly lit by the soft glow of a candle.</li>
 
         <li value="3" id="PADded-for">the CHAIR was SOFTly PADded for COMfort.</li>
-        <li className="list-none margin-bottom-20">Ghế được bọc đệm mềm mại để mang lại sự thoải mái.</li>
+        <li className="list-none margin-bottom-20">The chair had soft padding to make it comfortable.</li>
 
         <li value="4" id="PLAYED-in">the MUsic was SOFTly PLAYED in the BACKground.</li>
-        <li className="list-none margin-bottom-20">Nhạc được phát nhẹ nhàng ở phía sau.</li>
+        <li className="list-none margin-bottom-20">The background music played quietly.</li>
 
         <li value="5" id="BRUSHED-with">she SOFTly BRUSHED her HAIR with a WOODen COMB.</li>
-        <li className="list-none margin-bottom-20">Cô nhẹ nhàng chải tóc bằng một chiếc lược gỗ.</li>
+        <li className="list-none margin-bottom-20">She brushed her hair gently with a wooden comb.</li>
 
         <li value="6" id="WHISpered-in">he SOFTly WHISpered in her EAR.</li>
-        <li className="list-none margin-bottom-20">Anh thì thầm nhẹ nhàng vào tai cô.</li>
+        <li className="list-none margin-bottom-20">He said something quietly to her.</li>
 
         <li value="7" id="CLOSED">she SOFTly CLOSED the DOOR behind her.</li>
-        <li className="list-none margin-bottom-20">Cô nhẹ nhàng đóng cửa lại phía sau lưng.</li>
+        <li className="list-none margin-bottom-20">She gently shut the door.</li>
 
         <li value="8" id="GLOWing-in">the FIREflies were SOFTly GLOWing in the DARKness.</li>
-        <li className="list-none margin-bottom-20">Những con đom đóm đang phát sáng nhẹ nhàng trong bóng tối.</li>
+        <li className="list-none margin-bottom-20">The fireflies were gently glowing in the dark.</li>
 
         <li value="9" id="FALLing-from">SNOWflakes were SOFTly FALLing from the SKY.</li>
-        <li className="list-none margin-bottom-20">Những bông tuyết đang nhẹ nhàng rơi xuống từ bầu trời..</li>
+        <li className="list-none margin-bottom-20">Small, fluffy snowflakes were falling gently from the sky.</li>
 
         <li value="10" id="LANDed-on">the BIRD SOFTly LANDed on the BRANCH.</li>
-        <li className="list-none margin-bottom-20">Con chim nhẹ nhàng đậu xuống cành cây.</li>
+        <li className="list-none margin-bottom-20">The bird touched down gently on the branch.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh sự nhẹ nhàng, dịu dàng của một hành động hoặc trạng thái. Chúng thường được sử dụng để tạo ra một bầu không khí yên bình, thư thái hoặc để miêu tả những cảnh vật, sự vật đẹp đẽ, tinh tế.</p>
+      <p>** The phrases above all emphasize the gentleness and tenderness of an action or state. They are often used to create a peaceful, relaxing atmosphere or to describe beautiful, delicate scenes and objects.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function SOFTly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>SOFTly</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"SOFTly" is often used before a verb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/GENTly-1">GENTly</Link>", "QUIetly" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">This word can be replaced with synonyms such as "<Link to="/vocabulary/GENTly-1">GENTly</Link>" or "QUIetly" to add variety to your writing style.</li>
 
         </ul>
 

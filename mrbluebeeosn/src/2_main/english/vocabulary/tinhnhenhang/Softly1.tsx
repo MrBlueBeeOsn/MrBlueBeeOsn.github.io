@@ -15,7 +15,7 @@ export default function SOFTly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-nhe-nhang"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhẹ nhàng</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-GENTly"><mark className="highlight-tertiary-padding-4-8">GENTly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">SOFTly
         <sup><Link to="/vocabulary/SOFTly-1">&nbsp;1&nbsp;</Link>
@@ -59,7 +59,7 @@ export default function SOFTly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng tìm hiểu về từ "<strong>SOFTly</strong>" nhé.</p>
+      <p>Great! Let's learn about the word "SOFTly" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function SOFTly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Nhẹ nhàng</li>
+            <li>Gentle</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function SOFTly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>SOFTly</strong>" được dùng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, không mạnh mẽ, thường mang ý nghĩa êm dịu, thoải mái. Nó cũng có thể dùng để miêu tả âm thanh nhẹ nhàng, không ồn ào.</p>
+      <p className="margin-top-30 text-indent-whole">The word "SOFTly" is used to describe an action performed gently, without force, and often conveys a sense of gentleness and comfort. It can also be used to describe a soft, quiet sound.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she CLOSED the DOOR SOFTly.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đóng cửa một cách nhẹ nhàng.</li>
+          <li className="margin-bottom-20 list-none">She gently shut the door.</li>
 
           <li>he SPOKE SOFTly so as NOT to WAKE the BAby.</li>
-          <li className="list-none">Anh ấy nói rất nhẹ để không làm thức giấc em bé.</li>
+          <li className="list-none">He spoke softly to avoid waking the baby.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function SOFTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the BLANket is VERy SOFT.</li>
-          <li className="list-none">Chiếc chăn này rất mềm.</li>
+          <li className="list-none">The blanket is very soft to the touch.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function SOFTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she <Link to="/vocabulary/GENTly-1">GENtly</Link> STROKED the CAT.</li>
-          <li className="margin-bottom-20 list-none">Cô nhẹ nhàng vuốt ve con mèo.</li>
+          <li className="margin-bottom-20 list-none">She gently patted the cat.</li>
 
           <li>she WALKED QUIetly OUT of the ROOM.</li>
-          <li className="list-none">Cô ấy lặng lẽ bước ra khỏi phòng.</li>
+          <li className="list-none">She walked out of the room without saying anything.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function SOFTly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he SHOUTed LOUDly.</li>
-          <li className="margin-bottom-20 list-none">Anh ta hét lên thật to.</li>
+          <li className="margin-bottom-20 list-none">He yelled as loudly as he could.</li>
 
           <li>he HANDled the PACKage ROUGHly.</li>
-          <li className="list-none">Anh ta đã xử lý gói hàng một cách thô bạo.</li>
+          <li className="list-none">He was not gentle with the package.</li>
 
         </ul>
       
@@ -177,12 +177,12 @@ export default function SOFTly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang vuốt ve một chú mèo một cách nhẹ nhàng.</p>
+      <p className="text-indent-whole">Imagine someone gently petting a cat.</p>
 
         <ul className="list-square">
 
           <li>she is STROKing the CAT SOFTly.</li>
-          <li className="list-none">Cô ấy đang vuốt ve con mèo một cách nhẹ nhàng.</li>
+          <li className="list-none">She is petting the cat gently.</li>
 
         </ul>
 
@@ -197,12 +197,12 @@ export default function SOFTly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>SOFTly</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Create your own example sentences using the word "SOFTly" in various contexts.</p>
 
         <ul className="list-square">
 
           <li>"can you PLEASE SPEAK SOFTly?" she WHISpered.</li>
-          <li className="list-none">"Làm ơn nói nhỏ lại được không?" cô thì thầm.</li>
+          <li className="list-none">She asked, "Please speak quietly."</li>
 
         </ul>
 
@@ -217,23 +217,23 @@ export default function SOFTly1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này khi muốn miêu tả một hành động hoặc âm thanh nhẹ nhàng.</p>
+      <p className="text-indent-whole margin-bottom-20">This word is often used to describe a gentle action or sound.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">he CLOSED the DOOR.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã đóng cửa.</li>
+            <li className="list-none margin-bottom-20">He slammed the door shut.</li>
 
             <li value="2">he SOFTly CLOSED the DOOR.</li>
-            <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng đóng cửa lại.</li>
+            <li className="list-none margin-bottom-20">He gently shut the door.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng hành động <span className="highlight-255-padding-0-4">đóng</span> cửa được thực hiện <span className="highlight-255-padding-0-4">một cách nhẹ nhàng</span>, không gây tiếng động.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that the action of closing the door was done gently</span>, without making a sound.</p>
 
       </div>
 
@@ -249,9 +249,9 @@ export default function SOFTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Cảm giác: "<strong>SOFTly</strong>" thường gợi lên cảm giác thoải mái, dễ chịu.</li>
+          <li>Feeling: "SOFTly" often evokes a sense of comfort and pleasantness.</li>
 
-          <li className="margin-bottom-20">Âm thanh: Nó cũng dùng để miêu tả âm thanh nhẹ nhàng, dịu tai.</li>
+          <li className="margin-bottom-20">Sound: It is also used to describe a gentle, soothing sound.</li>
 
         </ul>
 
