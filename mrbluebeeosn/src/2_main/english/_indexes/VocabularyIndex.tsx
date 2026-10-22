@@ -65,13 +65,13 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 						<li>
 							<div className="li-content">
-								<Link to="/vocabulary/vietnamese-fruits">VietnaMESE FRUITS</Link>
+								<Link to="/vocabulary/vietnamese-fruits">VN FRUITS</Link>
 							</div>
 						</li>
 
 						<li>
 							<div className="li-content">
-								<Link to="/vocabulary/vietnamese-vegetables">VietnaMESE VEGETables</Link> 
+								<Link to="/vocabulary/vietnamese-vegetables">VN VEGETables</Link> 
 							</div>
 						</li>
 
@@ -92,7 +92,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 						<li>
               <div className="li-content">
-                <Link to="/tieng-anh/gerunds-and-infinitives">GERunds and inFINitives</Link>
+                <Link to="/tieng-anh/gerunds-and-infinitives">V-ing & to-V</Link>
               </div>
             </li>
 
