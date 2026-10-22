@@ -175,9 +175,8 @@ export default function toDAY1(): React.JSX.Element {
       
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>1. Link</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>1. Link to the image</strong>:</mark> 
         </strong>
-        <strong>&nbsp;to the image</strong>:
       </p>
 
       <p className="text-indent-whole">Hình dung một lịch và ngày hôm nay được đánh dấu.</p>
@@ -195,9 +194,8 @@ export default function toDAY1(): React.JSX.Element {
 
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>2. Create</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>2. Create example sentences</strong>:</mark> 
         </strong>
-        <strong>&nbsp;example sentences</strong>:
       </p>
 
       <p className="text-indent-whole">Tạo nhiều câu với "<strong>toDAY</strong>" trong các ngữ cảnh khác nhau.</p>
@@ -215,9 +213,8 @@ export default function toDAY1(): React.JSX.Element {
 
       <p className="margin-top-20">
         <strong>
-            <mark className="highlight-255-padding-4-8"><strong>3. Regular</strong></mark>
+          <mark className="highlight-255-padding-4-8"><strong>3. Regular practice</strong>:</mark>
         </strong>
-        <strong>&nbsp;practice</strong>:
       </p>
 
       <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để nhớ từ vựng lâu hơn.</p>

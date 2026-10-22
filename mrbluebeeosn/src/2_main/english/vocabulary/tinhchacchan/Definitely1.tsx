@@ -63,9 +63,7 @@ export default function DEFinitely1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng tìm hiểu sâu hơn về từ "<strong>DEFinitely</strong>" nhé.
-
-</p>
+      <p>Great! Let's take a closer look at the word "DEFinitely."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -81,7 +79,7 @@ export default function DEFinitely1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Chắc chắn rồi</li>
+            <li>Of course</li>
 
           </ul>
 
@@ -93,17 +91,17 @@ export default function DEFinitely1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>DEFinitely</strong>" được sử dụng để khẳng định một điều gì đó một cách mạnh mẽ, không còn nghi ngờ gì nữa. Nó thể hiện sự chắc chắn, quyết tâm của người nói.</p>
+      <p className="margin-top-30 text-indent-whole">The word "DEFinitely" is used to assert something strongly, leaving no room for doubt. It conveys the speaker's certainty and determination.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i will DEFinitely be THERE.</li>
-          <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ có mặt ở đó.</li>
+          <li className="margin-bottom-20 list-none">I will be there for sure.</li>
 
           <li>THAT's DEFinitely <Link to="/vocabulary/NOT-1">NOT</Link> TRUE.</li>
-          <li className="list-none">Điều đó chắc chắn là không đúng.</li>
+          <li className="list-none">That isn't accurate.</li>
 
         </ul>
 
@@ -120,10 +118,10 @@ export default function DEFinitely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">we NEED a DEFinite ANswer.</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi cần một câu trả lời rõ ràng.</li>
+          <li className="margin-bottom-20 list-none">We need to know exactly what the answer is.</li>
 
           <li id="NOUN">the defiNITion of "HAPpy" is DIFferent for <strong>ever</strong>yone.</li>
-          <li className="list-none">Định nghĩa về từ “hạnh phúc” là khác nhau đối với mỗi người.</li>
+          <li className="list-none">Everyone has a different idea of what makes them happy.</li>
 
         </ul>
 
@@ -140,10 +138,10 @@ export default function DEFinitely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/CERtainly-1">CERtainly</Link>, i can HELP you.</li>
-          <li className="margin-bottom-20 list-none">Chắc chắn rồi, tôi có thể giúp bạn.</li>
+          <li className="margin-bottom-20 list-none">I can definitely help you.</li>
 
           <li>THAT's <Link to="/vocabulary/ABsolutely-1">ABsolutely</Link> RIGHT.</li>
-          <li className="list-none">Điều đó hoàn toàn đúng.</li>
+          <li className="list-none">You're right.</li>
 
         </ul>
 
@@ -162,10 +160,10 @@ export default function DEFinitely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/POSsibly-1">POSsibly</Link>, it will RAIN toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Có thể là ngày mai sẽ có mưa.</li>
+          <li className="margin-bottom-20 list-none">There might be rain tomorrow.</li>
 
           <li><Link to="/vocabulary/MAYbe-1">MAYbe</Link> i'll GO to the PARTy.</li>
-          <li className="list-none">Có lẽ tớ sẽ đi dự tiệc.</li>
+          <li className="list-none">I'm considering going to the party.</li>
 
         </ul>
       
@@ -181,17 +179,16 @@ export default function DEFinitely1(): React.JSX.Element {
       
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>1. Link</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>1. Link to the image</strong>:</mark> 
         </strong>
-        <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang gật đầu một cách chắc chắn khi trả lời một câu hỏi.</p>
+      <p className="text-indent-whole">Imagine someone nodding firmly in response to a question.</p>
 
         <ul className="list-square">
 
           <li>he NODded DEFinitely in reSPONSE to the QUESTion.</li>
-          <li className="list-none">Anh ta gật đầu một cách dứt khoát để trả lời câu hỏi đó.</li>
+          <li className="list-none">He nodded his head to show he was agreeing with the question.</li>
 
         </ul>
 
@@ -201,17 +198,16 @@ export default function DEFinitely1(): React.JSX.Element {
 
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>2. Create</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>2. Create example sentences</strong>:</mark> 
         </strong>
-        <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ trong nhiều tình huống khác nhau: đồng ý, từ chối, đưa ra quyết định.</p>
+      <p className="text-indent-whole">Create example sentences for various situations: agreeing, refusing, and making decisions.</p>
 
         <ul className="list-square">
 
           <li>i DEFinitely WANT to GO to the CONcert.</li>
-          <li className="list-none">Tôi chắc chắn muốn đi xem buổi hòa nhạc.</li>
+          <li className="list-none">I really want to attend the concert.</li>
 
         </ul>
 
@@ -221,9 +217,8 @@ export default function DEFinitely1(): React.JSX.Element {
 
       <p className="margin-top-20">
         <strong>
-            <mark className="highlight-255-padding-4-8"><strong>3. Regular</strong></mark>
+          <mark className="highlight-255-padding-4-8"><strong>3. Regular practice</strong>:</mark>
         </strong>
-        <strong>&nbsp;practice</strong>:
       </p>
 
       <p className="text-indent-whole margin-bottom-20">Use this word regularly in conversations or in writing.</p>
@@ -233,16 +228,16 @@ export default function DEFinitely1(): React.JSX.Element {
           <ol>
 
             <li value="1">i MIGHT GO to the MOvies.</li>
-            <li className="list-none margin-bottom-20">Tôi có thể sẽ đi xem phim.</li>
+            <li className="list-none margin-bottom-20">I may go see a movie.</li>
 
             <li value="2">i will DEFinitely GO to the MOvies.</li>
-            <li className="list-none margin-bottom-20">Tớ chắc chắn sẽ đi xem phim.</li>
+            <li className="list-none margin-bottom-20">I will absolutely go to the movies.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>DEFinitely</strong>" để <span className="highlight-255-padding-0-4">thể hiện sự quyết tâm cao hơn,</span> không còn nghi ngờ về việc đi xem phim.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "DEFinitely" to <span className="highlight-255-padding-0-4">express greater determination</span> - there is no longer any doubt about going to see the movie.</p>
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -258,9 +253,9 @@ export default function DEFinitely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ chắc chắn cao nhất: "<strong>DEFinitely</strong>" thể hiện mức độ chắc chắn cao nhất trong các TRẠNG.</li>
+          <li>Highest degree of certainty: "DEFinitely" expresses the highest degree of certainty among the ADVERBS.</li>
 
-          <li className="margin-bottom-20">Không còn nghi ngờ: Nó loại bỏ mọi khả năng khác.</li>
+          <li className="margin-bottom-20">No doubt: It rules out all other possibilities.</li>
 
         </ul>
 

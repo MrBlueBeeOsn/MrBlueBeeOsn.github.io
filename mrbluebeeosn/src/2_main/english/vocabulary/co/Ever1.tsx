@@ -169,9 +169,8 @@ export default function EVer1(): React.JSX.Element {
       
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>1. Link</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>1. Link to the image</strong>:</mark> 
         </strong>
-        <strong>&nbsp;to the image</strong>:
       </p>
 
       <p className="text-indent-whole">Hãy tưởng tượng một cuốn album ảnh chứa đầy những kỷ niệm, bạn có thể miêu tả là:</p>
@@ -189,9 +188,8 @@ export default function EVer1(): React.JSX.Element {
 
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>2. Create</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>2. Create example sentences</strong>:</mark> 
         </strong>
-        <strong>&nbsp;example sentences</strong>:
       </p>
 
       <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>EVer</strong>".</p>
@@ -209,9 +207,8 @@ export default function EVer1(): React.JSX.Element {
 
       <p className="margin-top-20">
         <strong>
-            <mark className="highlight-255-padding-4-8"><strong>3. Regular</strong></mark>
+          <mark className="highlight-255-padding-4-8"><strong>3. Regular practice</strong>:</mark>
         </strong>
-        <strong>&nbsp;practice</strong>:
       </p>
 
       <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>EVer</strong>".</p>

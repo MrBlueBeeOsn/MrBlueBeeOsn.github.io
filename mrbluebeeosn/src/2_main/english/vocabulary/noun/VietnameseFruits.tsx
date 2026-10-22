@@ -15,7 +15,7 @@ export default function VietnameseFruits(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#nouns-fruits-&-vegetables"><mark className="highlight-tertiary-padding-4-8">NOUNS: FRUITS & VEGETables</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#nouns-fruits-&-vegetables"><mark className="highlight-tertiary-padding-4-8">NOUNS: FRUITS</mark></HashLink></h4>
 
       <h1 className="margin-y-50 text-center">🥭 Vietnamese Specialty Fruits</h1>
 

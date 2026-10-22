@@ -75,7 +75,7 @@ export default function DEFinitely2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>DEFinitely</strong>" (chắc chắn rồi) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "DEFinitely" and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function DEFinitely2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb thường được sử dụng để nhấn mạnh sự chắc chắn hoặc quyết tâm về một điều gì đó.
+            &nbsp;is an adverb commonly used to emphasize certainty or determination about something.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function DEFinitely2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="NOT-GOing-to">i DEFinitely NOT GOing to that PARTy.</li>
-        <li className="list-none margin-bottom-20">Tớ chắc chắn sẽ không đi dự bữa tiệc đó đâu.</li>
+        <li className="list-none margin-bottom-20">There's no way I'm going to the party.</li>
 
         <li value="2" id="will-be-THERE-on-TIME">i DEFinitely will be THERE on TIME.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ có mặt ở đó đúng giờ.</li>
+        <li className="list-none margin-bottom-20">I'll make sure to be there right on time.</li>
 
         <li value="3" id="the-BEST-PIZza-i've">THIS is DEFinitely the BEST PIZza i've EVer HAD.</li>
-        <li className="list-none margin-bottom-20">Đây chắc chắn là chiếc pizza ngon nhất mà tôi từng ăn.</li>
+        <li className="list-none margin-bottom-20">I have never tasted a better pizza.</li>
 
         <li value="4" id="NEED">i DEFinitely NEED a vaCAtion.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn cần một kỳ nghỉ.</li>
+        <li className="list-none margin-bottom-20">I really, truly, completely need a vacation.</li>
 
         <li value="5" id="WORTH-it-WATChing">the MOvie was DEFinitely WORTH it WATChing.</li>
-        <li className="list-none margin-bottom-20">Bộ phim này chắc chắn rất đáng xem.</li>
+        <li className="list-none margin-bottom-20">I definitely want to watch the movie again.</li>
 
         <li value="6" id="KNOW-to">i DEFinitely KNOW the ANswer to that QUESTion.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn biết câu trả lời cho câu hỏi đó.</li>
+        <li className="list-none margin-bottom-20">I know the answer to that question for sure.</li>
 
         <li value="7" id="recomMEND">i DEFinitely recomMEND this REStaurant.</li>
-        <li className="list-none margin-bottom-20">Tôi chắc chắn khuyên bạn nên ghé thăm nhà hàng này.</li>
+        <li className="list-none margin-bottom-20">I really think this restaurant is worth checking out.</li>
 
         <li value="8" id="aGREE-with">i DEFinitely aGREE with you.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn đồng ý với bạn.</li>
+        <li className="list-none margin-bottom-20">I totally agree with you.</li>
 
         <li value="9" id="NOT-TRUE">that STORy is DEFinitely NOT TRUE.</li>
-        <li className="list-none margin-bottom-20">Câu chuyện đó chắc chắn là không đúng.</li>
+        <li className="list-none margin-bottom-20">There's no truth in that story.</li>
 
         <li value="10" id="the-BEST-CHOICE">BUYing this HOUSE is DEFinitely the BEST CHOICE.</li>
-        <li className="list-none margin-bottom-20">Mua căn nhà này chắc chắn là sự lựa chọn tốt nhất.</li>
+        <li className="list-none margin-bottom-20">Buying this house is definitely the best idea.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh sự chắc chắn, quyết tâm hoặc sự đồng ý về một điều gì đó. Chúng giúp cho câu nói trở nên mạnh mẽ và thuyết phục hơn.</p>
+      <p>** All of the above phrases are used to emphasize certainty, determination, or agreement about something. They help make a statement stronger and more persuasive.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function DEFinitely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>DEFinitely</strong>" thường được đặt ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
+          <li>"DEFinitely" is usually placed at the beginning of a sentence or before an action to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
+          <li className="margin-bottom-20">This word can be used in both spoken and written language.</li>
 
         </ul>
 

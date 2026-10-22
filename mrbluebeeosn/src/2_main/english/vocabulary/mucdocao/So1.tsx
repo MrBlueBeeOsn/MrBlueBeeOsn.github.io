@@ -187,9 +187,8 @@ export default function SO1(): React.JSX.Element {
       
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>1. Link</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>1. Link to the image</strong>:</mark> 
         </strong>
-        <strong>&nbsp;to the image</strong>:
       </p>
 
       <p className="text-indent-whole">Hãy tưởng tượng một mũi tên chỉ vào một điều gì đó với một dấu chấm than lớn để thể hiện sự nhấn mạnh ("rất!").</p>
@@ -216,9 +215,8 @@ export default function SO1(): React.JSX.Element {
 
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>2. Create</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>2. Create example sentences</strong>:</mark> 
         </strong>
-        <strong>&nbsp;example sentences</strong>:
       </p>
 
       <p className="text-indent-whole">Tập trung tạo các câu mà "<strong>SO</strong>" thể hiện các chức năng khác nhau của nó: nhấn mạnh, thay thế, hoặc chỉ kết quả.</p>
@@ -245,9 +243,8 @@ export default function SO1(): React.JSX.Element {
 
       <p className="margin-top-20">
         <strong>
-            <mark className="highlight-255-padding-4-8"><strong>3. Regular</strong></mark>
+          <mark className="highlight-255-padding-4-8"><strong>3. Regular practice</strong>:</mark>
         </strong>
-        <strong>&nbsp;practice</strong>:
       </p>
 
       <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>SO</strong>" trong giao tiếp hàng ngày và khi viết.</p>

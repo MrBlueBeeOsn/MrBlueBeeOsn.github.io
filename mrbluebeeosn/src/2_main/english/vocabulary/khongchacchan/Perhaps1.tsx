@@ -168,9 +168,8 @@ export default function perHAPS1(): React.JSX.Element {
       
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>1. Link</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>1. Link to the image</strong>:</mark> 
         </strong>
-        <strong>&nbsp;to the image</strong>:
       </p>
 
       <p className="text-indent-whole">Hãy tưởng tượng một đám mây mù bao phủ một sự kiện trong tương lai.</p>
@@ -188,9 +187,8 @@ export default function perHAPS1(): React.JSX.Element {
 
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>2. Create</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>2. Create example sentences</strong>:</mark> 
         </strong>
-        <strong>&nbsp;example sentences</strong>:
       </p>
 
       <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>perHAPS</strong>" trong các ngữ cảnh khác nhau.</p>
@@ -208,9 +206,8 @@ export default function perHAPS1(): React.JSX.Element {
 
       <p className="margin-top-20">
         <strong>
-            <mark className="highlight-255-padding-4-8"><strong>3. Regular</strong></mark>
+          <mark className="highlight-255-padding-4-8"><strong>3. Regular practice</strong>:</mark>
         </strong>
-        <strong>&nbsp;practice</strong>:
       </p>
 
       <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>perHAPS</strong>".</p>

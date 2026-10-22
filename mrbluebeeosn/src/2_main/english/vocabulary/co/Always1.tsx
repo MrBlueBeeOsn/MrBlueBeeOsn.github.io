@@ -167,9 +167,8 @@ export default function ALways1(): React.JSX.Element {
       
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>1. Link</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>1. Link to the image</strong>:</mark> 
         </strong>
-        <strong>&nbsp;to the image</strong>:
       </p>
 
       <p className="text-indent-whole">Hình dung một đồng hồ luôn chỉ đúng giờ.</p>
@@ -187,9 +186,8 @@ export default function ALways1(): React.JSX.Element {
 
       <p className="margin-top-20">
         <strong>
-          <mark className="highlight-255-padding-4-8"><strong>2. Create</strong></mark> 
+          <mark className="highlight-255-padding-4-8"><strong>2. Create example sentences</strong>:</mark> 
         </strong>
-        <strong>&nbsp;example sentences</strong>:
       </p>
 
       <p className="text-indent-whole">Tạo nhiều câu với "<strong>ALways</strong>" trong các ngữ cảnh khác nhau, liên quan đến thói quen, đặc điểm, sự thật hiển nhiên.</p>
@@ -207,9 +205,8 @@ export default function ALways1(): React.JSX.Element {
 
       <p className="margin-top-20">
         <strong>
-            <mark className="highlight-255-padding-4-8"><strong>3. Regular</strong></mark>
+          <mark className="highlight-255-padding-4-8"><strong>3. Regular practice</strong>:</mark>
         </strong>
-        <strong>&nbsp;practice</strong>:
       </p>
 
       <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ "<strong>ALways</strong>" trong giao tiếp hoặc khi viết.</p>

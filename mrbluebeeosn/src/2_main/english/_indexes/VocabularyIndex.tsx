@@ -45,9 +45,9 @@ export default function VocabularyIndex(): React.JSX.Element {
 						NOUNS
 				============================= */}
 
-				<details className="sub-box-fix-2">
+				<details className="sub-box-fix">
 			
-					<summary id="nouns-fruits-&-vegetables"><mark className="highlight-secondary-padding-2-4">NOUNS: FRUITS & VEGETables</mark></summary>
+					<summary id="nouns-fruits-&-vegetables"><mark className="highlight-secondary-padding-2-4">NOUNS: FRUITS</mark></summary>
 
 					<ul className="list-border1">
 
@@ -70,19 +70,13 @@ export default function VocabularyIndex(): React.JSX.Element {
 					</ul>
 
 				</details>
-			
-			</div>
-
-			<hr className="hr-short"/>
-
-
-			<div className="vocabulary-container margin-top-20">
-						
+				
+				
 				{/* =============================
 						VERB
 				============================= */}
 
-				<details className="sub-box-fix-2">
+				<details className="sub-box-fix">
 			
 					<summary id="verbs-terms"><mark className="highlight-secondary-padding-2-4">VERBS</mark></summary>
 
@@ -114,7 +108,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						VERB
 				============================= */}
 
-				<details className="sub-box-fix-2">
+				<details className="sub-box-fix">
 			
 					<summary id="VERB-PHRAses"><mark className="highlight-secondary-padding-2-4">VERB PHRAses</mark></summary>
 
@@ -148,7 +142,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 							ADjectives
 					============================= */}
 
-				<details className="sub-box-fix-2">
+				<details className="sub-box-fix">
 			
 					<summary id="ADjectives-terms"><mark className="highlight-secondary-padding-2-4">ADjectives</mark></summary>
 
@@ -174,7 +168,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 							prepoSITion
 					============================= */}
 
-				<details className="sub-box-fix-2">
+				<details className="sub-box-fix">
 			
 					<summary id="prepoSITion-terms"><mark className="highlight-secondary-padding-2-4">prepoSITion</mark></summary>
 
