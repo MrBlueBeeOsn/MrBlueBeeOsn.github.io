@@ -59,7 +59,7 @@ export default function Usually1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>Usually</strong>" nhé.</p>
+      <p>Great! Let's explore the word "Usually" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function Usually1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Thường thường</li>
+            <li>Usually</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function Usually1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>Usually</strong>" được dùng để mô tả một hành động, sự kiện hoặc tình huống xảy ra một cách thông thường, quen thuộc và có thể dự đoán được. Nó diễn tả tần suất của một việc gì đó.</p>
+      <p className="margin-top-30 text-indent-whole">The word "Usually" is used to describe an action, event, or situation that occurs regularly, is familiar, and is predictable. It expresses the frequency of something.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i Usually geT UP at 7 AM.</li>
-          <li className="margin-bottom-20 list-none">Tôi thường dậy lúc 7 giờ sáng.</li>
+          <li className="margin-bottom-20 list-none">I typically get up at seven in the morning.</li>
 
           <li>we Usually GO to the MOvies on WEEKends.</li>
-          <li className="list-none">Chúng tôi thường đi xem phim vào cuối tuần.</li>
+          <li className="list-none">We usually watch movies together on the weekend.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function Usually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">THIS is my USual rouTINE.</li>
-          <li className="margin-bottom-20 list-none">Đây là thói quen hàng ngày của tôi.</li>
+          <li className="margin-bottom-20 list-none">This is how I usually do things.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function Usually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>TYPically, i EAT BREAKfast at 8 AM.</li>
-          <li className="margin-bottom-20 list-none">Thông thường, tôi ăn sáng lúc 8 giờ sáng.</li>
+          <li className="margin-bottom-20 list-none">I usually have breakfast around 8:00 a.m.</li>
 
           <li>NORmally, i GO to BED at 10 p.M.</li>
-          <li className="list-none">Thông thường, tôi đi ngủ lúc 10 giờ tối.</li>
+          <li className="list-none">I go to bed at 10 p.m. most nights.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function Usually1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/RAREly-1">RAREly</Link> EAT SPIcy FOOD.</li>
-          <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn đồ cay.</li>
+          <li className="margin-bottom-20 list-none">I don't often eat spicy food.</li>
 
           <li>i <Link to="/vocabulary/NEVer-1">NEVer</Link> DRINK COFfee.</li>
-          <li className="list-none">Tôi không bao giờ uống cà phê.</li>
+          <li className="list-none">I don't like coffee.</li>
 
         </ul>
       
@@ -176,12 +176,12 @@ export default function Usually1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một lịch trình hàng ngày, trong đó các hoạt động thường xuyên được đánh dấu.</p>
+      <p className="text-indent-whole">Imagine a daily schedule in which regular activities are marked.</p>
 
         <ul className="list-square">
 
           <li>i Usually GO for a RUN <strong>af</strong>ter BREAKfast, as MARKED on my SCHEDule.</li>
-          <li className="list-none">Thường thì tôi đi chạy bộ sau bữa sáng, như đã ghi trong lịch trình của tôi.</li>
+          <li className="list-none">I like to go running after I eat breakfast.</li>
 
         </ul>
 
@@ -195,12 +195,12 @@ export default function Usually1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>Usually</strong>" để mô tả thói quen hàng ngày của bạn.</p>
+      <p className="text-indent-whole">Create your own example sentences using the word "Usually" to describe your daily routines.</p>
 
         <ul className="list-square">
 
           <li>i Usually HAVE COFfee and TOAST for BREAKfast.</li>
-          <li className="list-none">Thường thì tôi ăn sáng với cà phê và bánh mì nướng.</li>
+          <li className="list-none">I normally drink coffee and eat toast for breakfast.</li>
 
         </ul>
 
@@ -221,16 +221,16 @@ export default function Usually1(): React.JSX.Element {
           <ol>
 
             <li value="1">i GO to the GYM.</li>
-            <li className="list-none margin-bottom-20">Tôi đi tập gym.</li>
+            <li className="list-none margin-bottom-20">I work out at the gym.</li>
 
             <li value="2">i Usually GO to the GYM on TUESdays and THURSdays.</li>
-            <li className="list-none margin-bottom-20">Thường thì tôi đi tập gym vào thứ Ba và thứ Năm.</li>
+            <li className="list-none margin-bottom-20">I typically work out on Tuesdays and Thursdays.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>Usually</strong>" để chỉ ra rằng <span className="highlight-255-padding-0-4">việc đi</span> đến phòng tập thể dục <span className="highlight-255-padding-0-4">là một phần của thói quen hàng ngày</span> của người nói, và không phải là một sự kiện ngẫu nhiên.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "Usually" to <span className="highlight-255-padding-0-4">indicate that going to the gym is part of the speaker's daily routine,</span> not a random occurrence.</p>
 
       </div>
 
@@ -246,9 +246,9 @@ export default function Usually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tần suất: "<strong>Usually</strong>" nhấn mạnh tính thường xuyên của một hành động hoặc sự kiện.</li>
+          <li>Frequency: "Usually" emphasizes the regularity of an action or event.</li>
 
-          <li className="margin-bottom-20">Không phải luôn luôn: Nó không có nghĩa là một việc gì đó xảy ra 100% thời gian, mà chỉ đơn giản là thường xuyên xảy ra.</li>
+          <li className="margin-bottom-20">Not always: It does not mean that something happens 100% of the time, but simply that it happens frequently.</li>
 
         </ul>
 

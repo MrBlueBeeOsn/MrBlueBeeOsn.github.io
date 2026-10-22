@@ -75,7 +75,7 @@ export default function Usually2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>Usually</strong>" (thông thường) và các cụm từ thường đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “Usually” and the phrases that often go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function Usually2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "thông thường", "thường xuyên". Từ này được dùng để chỉ những việc xảy ra một cách đều đặn hoặc theo thói quen.
+            &nbsp;in English means "NORmally" or "FREquently." This word is used to describe things that happen regularly or out of habit.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function Usually2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="DOES-after">she Usually DOES her HOMEwork <strong>af</strong>ter DINner.</li>
-        <li className="list-none margin-bottom-20">Thường thì cô ấy làm bài tập về nhà sau bữa tối.</li>
+        <li className="list-none margin-bottom-20">She generally does her homework after dinner.</li>
 
         <li value="2" id="GOES-to-at">he Usually GOES to BED at 10 p.M.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường đi ngủ lúc 10 giờ tối.</li>
+        <li className="list-none margin-bottom-20">He goes to bed at 10:00 p.m. on average.</li>
 
         <li value="3" id="RAINS-in">it Usually RAINS in the WINter.</li>
-        <li className="list-none margin-bottom-20">Thường thì vào mùa đông thì có mưa.</li>
+        <li className="list-none margin-bottom-20">Rain is common in the winter.</li>
 
         <li value="4" id="TAKES">it Usually TAKES me an HOUR to GET to WORK.</li>
-        <li className="list-none margin-bottom-20">Thường thì tôi mất một giờ để đến nơi làm việc.</li>
+        <li className="list-none margin-bottom-20">I usually spend an hour getting to work.</li>
 
         <li value="5" id="FEELS-HAPpy-after">she Usually FEELS HAPpy <strong>af</strong>ter EXercising.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thường cảm thấy vui vẻ sau khi tập thể dục.</li>
+        <li className="list-none margin-bottom-20">She usually feels happy after she works out.</li>
 
         <li value="6" id="LOOKS-TIred-in">he Usually LOOKS TIred in the MORNing.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường trông có vẻ mệt mỏi vào buổi sáng.</li>
+        <li className="list-none margin-bottom-20">He looks tired when he wakes up.</li>
 
         <li value="7" id="EATS-for">she Usually EATS FRUITS for BREAKfast.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thường ăn trái cây vào bữa sáng.</li>
+        <li className="list-none margin-bottom-20">Her usual breakfast is fruit.</li>
 
         <li value="8" id="LIVES-in">he Usually LIVES in a SMALL aPARTment.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường sống trong một căn hộ nhỏ.</li>
+        <li className="list-none margin-bottom-20">He typically lives in a small apartment.</li>
 
         <li value="9" id="WORKS-from-on">she Usually WORKS from HOME on FRIdays.</li>
-        <li className="list-none margin-bottom-20">Thường thì cô ấy làm việc tại nhà vào các ngày thứ sáu.</li>
+        <li className="list-none margin-bottom-20">She generally works from home on Fridays.</li>
 
         <li value="10" id="PLAYS-with">he Usually PLAYS BASketball with his FRIENDS on WEEKends.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường chơi bóng rổ với các bạn vào cuối tuần.</li>
+        <li className="list-none margin-bottom-20">On weekends, he usually plays basketball with his friends.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để diễn tả những hành động, tình trạng hoặc sự việc xảy ra một cách thường xuyên, có tính chất lặp đi lặp lại trong cuộc sống hàng ngày. Chúng giúp chúng ta hiểu rõ hơn về thói quen, lịch trình và cách sống của một người hoặc một sự vật nào đó.</p>
+      <p>** The phrases above are all used to describe actions, states, or events that occur frequently and repeatedly in everyday life. They help us better understand the habits, routines, and way of life of a person or thing.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function Usually2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Usually</strong>" thường đứng ở đầu câu hoặc trước hành động để nhấn mạnh tính thường xuyên của một hành động.</li>
+          <li>"Usually" is typically placed at the beginning of a sentence or before an action to emphasize the frequency of that action.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như: <Link to="/vocabulary/OFten-1">OFten</Link>, GENERally, COMmonly.</li>
+          <li className="margin-bottom-20">This word can be replaced with synonyms such as: <Link to="/vocabulary/OFten-1">OFten</Link>, GENERally, COMmonly.</li>
 
         </ul>
 

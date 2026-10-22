@@ -59,7 +59,7 @@ export default function GREATly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>GREATly</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "GREATly."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function GREATly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Rất</li>
+            <li>Very</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function GREATly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>GREATly</strong>" được dùng để nhấn mạnh mức độ cao của một ADjective hoặc ADverb đi kèm. Nó thể hiện sự tăng cường về mức độ, cường độ hoặc quy mô của một hành động, trạng thái hoặc sự vật.</p>
+      <p className="margin-top-30 text-indent-whole">The word "GREATly" is used to emphasize the high degree of an accompanying adjective or adverb. It expresses an increase in the degree, intensity, or scale of an action, state, or thing.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i GREATly apPREciated your HELP.</li>
-          <li className="margin-bottom-20 list-none">Tôi thực sự rất biết ơn sự giúp đỡ của bạn.</li>
+          <li className="margin-bottom-20 list-none">I'm very grateful for your assistance.</li>
 
           <li>the PRICE of HOUSing has GREATly inCREASED.</li>
-          <li className="list-none">Giá nhà ở đã tăng lên rất nhiều.</li>
+          <li className="list-none">The cost of buying a house has increased a lot.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function GREATly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">she is a GREAT SINGer.</li>
-          <li className="list-none">Cô ấy là một ca sĩ tuyệt vời.</li>
+          <li className="list-none">She has a great singing voice.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function GREATly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the reSULTS were sigNIFicantly DIFFERent.</li>
-          <li className="margin-bottom-20 list-none">Kết quả có sự khác biệt đáng kể.</li>
+          <li className="margin-bottom-20 list-none">There was a big difference in the results.</li>
 
           <li>the TASK was conSIDerably MORE DIFficult than exPECTed.</li>
-          <li className="list-none">Nhiệm vụ này khó hơn dự kiến rất nhiều.</li>
+          <li className="list-none">The task turned out to be a lot more difficult than we expected.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function GREATly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the TEMPERature has SLIGHTly inCREASED.</li>
-          <li className="margin-bottom-20 list-none">Nhiệt độ đã tăng lên một chút.</li>
+          <li className="margin-bottom-20 list-none">The temperature has gone up a little bit.</li>
 
           <li>the DAMage was MINimally afFECTed.</li>
-          <li className="list-none">Thiệt hại chỉ ở mức tối thiểu.</li>
+          <li className="list-none">The damage was only slightly damaged.</li>
 
         </ul>
       
@@ -176,12 +176,12 @@ export default function GREATly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một cái gì đó rất lớn, rất nhiều hoặc rất đẹp.</p>
+      <p className="text-indent-whole">Imagine something very big, very numerous, or very beautiful.</p>
 
         <ul className="list-square">
 
           <li>the WHALE was GREATly BIGger than <strong>an</strong>yone i had EVer SEEN beFORE.</li>
-          <li className="list-none">Con cá voi đó to hơn rất nhiều so với bất kỳ con cá voi nào tôi từng thấy trước đây.</li>
+          <li className="list-none">The whale was huge. I had never seen a whale that big before.</li>
 
         </ul>
 
@@ -195,12 +195,12 @@ export default function GREATly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến những tình huống cần nhấn mạnh mức độ.</p>
+      <p className="text-indent-whole">Create sentences related to situations where it is necessary to emphasize degree.</p>
 
         <ul className="list-square">
 
           <li>i am GREATly imPRESSED by your WORK.</li>
-          <li className="list-none">Tôi thực sự rất ấn tượng với công việc của bạn.</li>
+          <li className="list-none">Your work impresses me a lot.</li>
 
         </ul>
 
@@ -221,16 +221,16 @@ export default function GREATly1(): React.JSX.Element {
           <ol>
 
             <li value="1">the BOOK is INTEResting.</li>
-            <li className="list-none margin-bottom-20">Cuốn sách này thật thú vị.</li>
+            <li className="list-none margin-bottom-20">I like the book.</li>
 
             <li value="2">the BOOK is GREATly INTEResting.</li>
-            <li className="list-none margin-bottom-20">Cuốn sách này thực sự rất thú vị.</li>
+            <li className="list-none margin-bottom-20">The book is really fun to read.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng cuốn sách không chỉ thú vị mà còn mang lại <span className="highlight-255-padding-0-4">cảm giác hứng thú rất lớn</span> cho người đọc.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that the book is not only interesting</span> but also generates a great deal of excitement in the reader.</p>
 
       </div>
 
@@ -246,9 +246,9 @@ export default function GREATly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Dùng để nhấn mạnh: Thường được sử dụng để nhấn mạnh mức độ của một ADjective hoặc ADverb đi kèm.</li>
+          <li>Used for emphasis: Often used to emphasize the degree of an accompanying adjective or adverb.</li>
 
-          <li className="margin-bottom-20">Có thể dùng với nhiều loại từ: Có thể kết hợp với nhiều loại từ khác nhau để tạo ra các câu có ý nghĩa khác nhau.</li>
+          <li className="margin-bottom-20">Can be used with many types of words: Can be combined with many different types of words to create sentences with different meanings.</li>
 
         </ul>
 

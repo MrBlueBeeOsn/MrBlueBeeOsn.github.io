@@ -75,7 +75,7 @@ export default function GREATly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>GREATly</strong>" (rất) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “GREATly” (very) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function GREATly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để nhấn mạnh mức độ cao của một hành động, cảm xúc hoặc sự thay đổi.
+            &nbsp;is often used to emphasize the high degree of an action, emotion, or change.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function GREATly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="apPREciated">your HELP is GREATly apPREciated.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi vô cùng biết ơn sự giúp đỡ của bạn.</li>
+        <li className="list-none margin-bottom-20">Thank you so much for your help.</li>
 
         <li value="2" id="imPROVED-since">his HEALTH has GREATly imPROVED since he STARTed EXercising.</li>
-        <li className="list-none margin-bottom-20">Sức khỏe của anh ấy đã cải thiện đáng kể kể từ khi anh ấy bắt đầu tập thể dục.</li>
+        <li className="list-none margin-bottom-20">He looks much healthier since he started working out.</li>
 
         <li value="3" id="INfluenced">his PARents GREATly INfluenced his deCISion.</li>
-        <li className="list-none margin-bottom-20">Cha mẹ anh ấy đã có ảnh hưởng rất lớn đến quyết định của anh ấy.</li>
+        <li className="list-none margin-bottom-20">His parents had a big impact on his decision.</li>
 
         <li value="4" id="adMIred-for">she is GREATly adMIred for her COURage.</li>
-        <li className="list-none margin-bottom-20">Cô ấy được ngưỡng mộ vô cùng vì sự dũng cảm của mình.</li>
+        <li className="list-none margin-bottom-20">People admire her a lot because she shows a lot of courage.</li>
 
         <li value="5" id="reDUCED">the PRICE of the PRODuct has been GREATly reDUCED.</li>
-        <li className="list-none margin-bottom-20">Giá của sản phẩm đã được giảm đáng kể.</li>
+        <li className="list-none margin-bottom-20">The price of the product has dropped a lot.</li>
 
         <li value="6" id="inCREASED-since-the">SALES have GREATly inCREASED since the NEW MARketing camPAIGN.</li>
-        <li className="list-none margin-bottom-20">Doanh số đã tăng lên đáng kể kể từ khi triển khai chiến dịch tiếp thị mới.</li>
+        <li className="list-none margin-bottom-20">There has been a big increase in sales since the new marketing campaign was launched.</li>
 
         <li value="7" id="conCERNED-about-the">i am GREATly conCERNED a<strong>bout</strong> the enVIronment.</li>
-        <li className="list-none margin-bottom-20">Tôi rất lo ngại về vấn đề môi trường.</li>
+        <li className="list-none margin-bottom-20">I am extremely worried about the environment.</li>
 
         <li value="8" id="disapPOINTed-with-the">i was GREATly disapPOINTed with the reSULTS.</li>
-        <li className="list-none margin-bottom-20">Tôi đã vô cùng thất vọng với kết quả này.</li>
+        <li className="list-none margin-bottom-20">I was really disappointed with how things turned out.</li>
 
         <li value="9" id="eXAGgerated">the STORy was GREATly eXAGgerated.</li>
-        <li className="list-none margin-bottom-20">Câu chuyện đó đã bị thổi phồng lên rất nhiều.</li>
+        <li className="list-none margin-bottom-20">The story was told way too big.</li>
 
         <li value="10" id="BENefited-from-the">he has GREATly BENefited from the NEW PROgram.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã được hưởng lợi rất nhiều từ chương trình mới này.</li>
+        <li className="list-none margin-bottom-20">The new program has been really good for him.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh mức độ cao của một hành động, cảm xúc hoặc sự thay đổi. Chúng thường được sử dụng để làm nổi bật tầm quan trọng, cường độ hoặc tác động của một điều gì đó.</p>
+      <p>** The phrases above all emphasize the high degree of an action, emotion, or change. They are often used to highlight the importance, intensity, or impact of something.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function GREATly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>GREATly</strong>" thường đứng trước hành động hoặc ADjective để bổ nghĩa.</li>
+          <li>"GREATly" is often used before a verb or adjective to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "sigNIFicantly", "subSTANtially", "conSIDerably" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">This word can be replaced with synonyms such as "sigNIFicantly," "subSTANtially," or "conSIDerably" to add variety to your writing style.</li>
 
         </ul>
 
