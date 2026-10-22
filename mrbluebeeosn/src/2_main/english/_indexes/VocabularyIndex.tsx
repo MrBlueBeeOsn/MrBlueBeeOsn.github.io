@@ -36,7 +36,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 			
 			<p className="text-center">STOP Using your FIRST LANGuage when TRYing to underSTAND voCABulary WORDS.</p>
 
-			<p className="margin-bottom-50 text-center">if you GET STUCK, LOOK at <span className="highlight-255-padding-0-4"><strong>IMages</strong></span>, <span className="highlight-255-padding-0-4"><strong>VISuals</strong></span>, or <span className="highlight-255-padding-0-4"><strong>SYNonyms</strong></span> in<strong>stead</strong> of translating.</p>
+			<p className="margin-bottom-50 text-center">if you GET STUCK, LOOK at <span className="highlight-255-padding-0-4"><strong>IMages</strong></span>, <span className="highlight-255-padding-0-4"><strong>VISuals</strong></span>, or <span className="highlight-255-padding-0-4"><strong>SYNonyms</strong></span> in<strong>stead</strong> of transLAting.</p>
 
 
 			<div className="vocabulary-container margin-top-20">
