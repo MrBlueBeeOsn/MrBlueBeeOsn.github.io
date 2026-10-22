@@ -15,7 +15,7 @@ export default function SUREly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-chac-chan"><mark className="highlight-tertiary-padding-4-8">ADverbs: chắc chắn</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-CERtainly"><mark className="highlight-tertiary-padding-4-8">CERtainly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">SUREly
         <sup>
@@ -75,9 +75,7 @@ export default function SUREly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SUREly</strong>" (chắc chắn là) và các cụm từ hay đi kèm nhé.
-
-</p>
+      <p>Great! Let’s take a closer look at the word “SUREly” (certainly) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -91,7 +89,7 @@ export default function SUREly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb thường được sử dụng để thể hiện sự chắc chắn, tin tưởng vào một điều gì đó.
+            &nbsp;is an adverb commonly used to express certainty or confidence in something.
 
           </p>
 
@@ -106,38 +104,38 @@ export default function SUREly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="eNOUGH">i THOUGHT i LEFT my KEYS on the TAble, and SUREly eNOUGH, THERE they WERE.</li>
-        <li className="list-none margin-bottom-20">Tôi nghĩ rằng tôi đã bỏ quên chìa khóa trên bàn, và quả thật, chúng vẫn ở đó.</li>
+        <li className="list-none margin-bottom-20">I had a bad feeling, and I was right. My keys were on the table!</li>
 
         <li value="2" id="must-GET">she WORKED SO HARD; she SUREly must GET a proMOtion.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã làm việc rất chăm chỉ; chắc chắn cô ấy sẽ được thăng chức.</li>
+        <li className="list-none margin-bottom-20">She worked really hard, so she should get a promotion.</li>
 
         <li value="3" id="you-KNOW">SUREly you KNOW the ANswer to this QUESTion.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn là bạn biết câu trả lời cho câu hỏi này rồi.</li>
+        <li className="list-none margin-bottom-20">You probably know the answer to this question.</li>
 
         <li value="4" id="you-can-FINish">SUREly you can FINish this TASK by toMORrow.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn là bạn có thể hoàn thành nhiệm vụ này trước ngày mai.</li>
+        <li className="list-none margin-bottom-20">There's still time to finish the task, and you can do it by tomorrow.</li>
 
         <li value="5" id="we-will-NEED">the WEATHer FOREcast SAYS it will RAIN toMORrow, so SUREly we will NEED umBRELlas.</li>
-        <li className="list-none margin-bottom-20">Dự báo thời tiết cho biết ngày mai sẽ có mưa, nên chắc chắn chúng ta sẽ cần ô.</li>
+        <li className="list-none margin-bottom-20">It is going to rain tomorrow, so we definitely need umbrellas.</li>
 
         <li value="6" id="you-underSTAND">SUREly you underSTAND the imPORtance of this PROJect.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn là bạn đã hiểu rõ tầm quan trọng của dự án này rồi.</li>
+        <li className="list-none margin-bottom-20">You certainly understand how important this project is.</li>
 
         <li value="7" id="you-aGREE-that">SUREly you aGREE that THIS is the BEST soLUtion.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn bạn cũng đồng ý rằng đây là giải pháp tốt nhất.</li>
+        <li className="list-none margin-bottom-20">You definitely agree that this is the best solution.</li>
 
         <li value="8" id="you-reMEMber">SUREly you reMEMber the DAY we MET.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn là bạn còn nhớ ngày chúng ta gặp nhau.</li>
+        <li className="list-none margin-bottom-20">You definitely remember the day we met.</li>
 
         <li value="9" id="you-REalize">SUREly you REalize the CONsequences of your ACtions.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn là bạn đã nhận thức được hậu quả của những hành động của mình rồi.</li>
+        <li className="list-none margin-bottom-20">You know what will happen because of what you did.</li>
 
         <li value="10" id="apPREciate-all">SUREly apPREciate all the HARD WORK we've PUT into THIS.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi thực sự đánh giá cao tất cả những nỗ lực mà chúng tôi đã dành cho việc này.</li>
+        <li className="list-none margin-bottom-20">We really appreciate all the hard work on this.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều thể hiện sự chắc chắn, tin tưởng của người nói về một điều gì đó. Chúng thường được sử dụng để nhấn mạnh một ý kiến, một suy nghĩ hoặc một sự kiện mà người nói cho là hiển nhiên hoặc không cần bàn cãi.</p>
+      <p>** All of the above phrases express the speaker’s certainty and confidence regarding something. They are often used to emphasize an opinion, a thought, or an event that the speaker considers self-evident or indisputable.</p>
 
       {/* =============================
             Lưu ý:
@@ -149,9 +147,9 @@ export default function SUREly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>SUREly</strong>" có thể đứng ở đầu câu, giữa câu hoặc cuối câu để tạo ra các sắc thái khác nhau trong câu.</li>
+          <li>"SUREly" can appear at the beginning, in the middle, or at the end of a sentence to convey different nuances.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong các tình huống giao tiếp thông thường hoặc trong văn viết trang trọng.</li>
+          <li className="margin-bottom-20">This word is commonly used in everyday conversation or in formal writing.</li>
 
         </ul>
 

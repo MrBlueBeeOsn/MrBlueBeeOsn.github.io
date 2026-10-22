@@ -15,7 +15,7 @@ export default function creATE(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#VERBS-MODern-CAmbridge-2002"><mark className="highlight-tertiary-padding-4-8">VERBS - MODern CAmbridge 2002</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#VERB-PHRAses"><mark className="highlight-tertiary-padding-4-8">VERB PHRAses</mark></HashLink></h4>
       
             
       <h1 className="margin-y-50 text-center">[creATE]</h1>

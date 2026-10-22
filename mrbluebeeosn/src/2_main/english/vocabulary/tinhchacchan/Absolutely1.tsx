@@ -15,7 +15,7 @@ export default function ABsolutely1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-chac-chan"><mark className="highlight-tertiary-padding-4-8">ADverbs: chắc chắn</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-CERtainly"><mark className="highlight-tertiary-padding-4-8">CERtainly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">ABsolutely
         <sup><Link to="/vocabulary/ABsolutely-1">&nbsp;1&nbsp;</Link>

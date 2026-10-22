@@ -15,7 +15,7 @@ export default function SUREly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-chac-chan"><mark className="highlight-tertiary-padding-4-8">ADverbs: chắc chắn</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-CERtainly"><mark className="highlight-tertiary-padding-4-8">CERtainly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">SUREly
         <sup><Link to="/vocabulary/SUREly-1">&nbsp;1&nbsp;</Link>
@@ -59,7 +59,7 @@ export default function SUREly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>SUREly</strong>" nhé.</p>
+      <p>Great! Let's explore the word "SUREly" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function SUREly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Chắc chắn là</li>
+            <li>Definitely</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function SUREly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>SUREly</strong>" được dùng để thể hiện sự chắc chắn, tin tưởng vào một điều gì đó. Nó thường được đặt ở đầu câu hoặc giữa câu để nhấn mạnh ý kiến của người nói.</p>
+      <p className="margin-top-30 text-indent-whole">The word "SUREly" is used to express certainty or confidence in something. It is often placed at the beginning or in the middle of a sentence to emphasize the speaker's opinion.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">SUREly, you're JOking!</li>
-          <li className="margin-bottom-20 list-none">Chắc chắn là anh đang đùa rồi!</li>
+          <li className="margin-bottom-20 list-none">You're obviously joking!</li>
 
           <li>he will SUREly WIN the PRIZE.</li>
-          <li className="list-none">Anh ấy chắc chắn sẽ giành giải thưởng.</li>
+          <li className="list-none">There is no doubt that he will win the prize.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function SUREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">are you SURE a<strong>bout</strong> THAT?</li>
-          <li className="list-none">Bạn có chắc chắn về điều đó không?</li>
+          <li className="list-none">Do you really have a solid understanding of that?</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function SUREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/CERtainly-1">CERtainly</Link>, i can HELP you.</li>
-          <li className="margin-bottom-20 list-none">Chắc chắn rồi, tôi có thể giúp bạn.</li>
+          <li className="margin-bottom-20 list-none">Yes, I can definitely help you.</li>
 
           <li>i <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> WANT to GO.</li>
-          <li className="list-none">Tôi chắc chắn muốn đi.</li>
+          <li className="list-none">I really want to go.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function SUREly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he SPOKE unCERtainly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy nói một cách không chắc chắn.</li>
+          <li className="margin-bottom-20 list-none">He spoke without confidence.</li>
 
           <li>she LOOKED DOUBTfully at the proPOsal.</li>
-          <li className="list-none">Cô ấy nhìn đề xuất đó với vẻ nghi ngờ.</li>
+          <li className="list-none">She looked doubtful when she saw the proposal.</li>
 
         </ul>
       
@@ -177,12 +177,12 @@ export default function SUREly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang gật đầu một cách chắc chắn.</p>
+      <p className="text-indent-whole">Imagine someone nodding firmly.</p>
 
         <ul className="list-square">
 
           <li>he NODded SUREly, aGREEing with the proPOsal.</li>
-          <li className="list-none">Anh ta gật đầu chắc chắn, đồng ý với đề xuất đó.</li>
+          <li className="list-none">He nodded to show that he agreed with the proposal.</li>
 
         </ul>
 
@@ -197,12 +197,12 @@ export default function SUREly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>SUREly</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Create your own example sentences using the word "SUREly" in various contexts.</p>
 
         <ul className="list-square">
 
           <li>SUREly you would LIKE anOTHer CUP of TEA.</li>
-          <li className="list-none">Chắc chắn là bạn sẽ muốn uống thêm một tách trà nữa.</li>
+          <li className="list-none">You would like another cup of tea, wouldn't you?</li>
 
         </ul>
 
@@ -217,23 +217,23 @@ export default function SUREly1(): React.JSX.Element {
         <strong>&nbsp;practice</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại để thể hiện sự chắc chắn.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word frequently in conversations to express certainty.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">he will WIN the GAME.</li>
-            <li className="list-none margin-bottom-20">Anh ấy sẽ thắng trận đấu.</li>
+            <li className="list-none margin-bottom-20">He's going to win the game!</li>
 
             <li value="2">SUREly he will WIN the GAME. he's been PRACticing so HARD.</li>
-            <li className="list-none margin-bottom-20">Chắc chắn anh ấy sẽ thắng trận đấu này. Anh ấy đã tập luyện rất chăm chỉ.</li>
+            <li className="list-none margin-bottom-20">He's going to win the game, no doubt. He has been practicing so much.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh sự chắc chắn hơn</span> về việc anh ấy <span className="highlight-255-padding-0-4">sẽ thắng</span> trận đấu, dựa trên lý do anh ấy đã luyện tập rất chăm chỉ.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes greater certainty that he will win the match</span>, based on the fact that he has been practicing very hard.</p>
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -249,9 +249,9 @@ export default function SUREly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ chắc chắn: "<strong>SUREly</strong>" thể hiện một mức độ chắc chắn cao hơn so với "<Link to="/vocabulary/CERtainly-1">CERtainly</Link>" hoặc "<Link to="/vocabulary/DEFinitely-1">DEFinitely</Link>".</li>
+          <li>Degree of certainty: "SUREly" expresses a higher degree of certainty than "<Link to="/vocabulary/CERtainly-1">CERtainly</Link>" or "<Link to="/vocabulary/DEFinitely-1">DEFinitely</Link>".</li>
 
-          <li className="margin-bottom-20">Câu hỏi: "<strong>SUREly</strong>" thường được sử dụng trong câu hỏi để thể hiện sự ngạc nhiên hoặc không đồng tình.</li>
+          <li className="margin-bottom-20">Questions: "SUREly" is often used in questions to express surprise or disagreement.</li>
 
         </ul>
 

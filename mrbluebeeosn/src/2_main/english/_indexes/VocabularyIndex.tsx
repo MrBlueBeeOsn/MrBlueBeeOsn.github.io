@@ -39,15 +39,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 			<p className="margin-bottom-50 text-center">If you get stuck, look at <strong>images</strong>, <strong>visuals</strong>, or <strong>synonyms</strong> instead of translating.</p>
 
 
-			<div className="flex-container margin-top-20">
-			
+			<div className="vocabulary-container margin-top-20">
+						
 				{/* =============================
 						NOUNS
 				============================= */}
 
-				<div className="sub-box">
+				<details className="sub-box-fix-2">
 			
-					<p id="nouns-fruits-&-vegetables"><mark className="highlight-secondary-padding-2-4">NOUNS: FRUITS & VEGETables</mark></p>
+					<summary id="nouns-fruits-&-vegetables"><mark className="highlight-secondary-padding-2-4">NOUNS: FRUITS & VEGETables</mark></summary>
 
 					<ul className="list-border1">
 
@@ -69,29 +69,22 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 					</ul>
 
-				</div>
-
+				</details>
 			
-
 			</div>
 
 			<hr className="hr-short"/>
 
 
-			<div className="flex-container margin-top-20">
-			
-			
+			<div className="vocabulary-container margin-top-20">
+						
 				{/* =============================
 						VERB
 				============================= */}
 
-				<div className="sub-box">
-
-					{/* =============================
-							VERBS
-					============================= */}
+				<details className="sub-box-fix-2">
 			
-					<p id="verbs-terms"><mark className="highlight-secondary-padding-2-4">VERBS</mark></p>
+					<summary id="verbs-terms"><mark className="highlight-secondary-padding-2-4">VERBS</mark></summary>
 
 					<ul className="list-border1">
 
@@ -115,19 +108,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 					</ul>
 
-				</div>
+				</details>
 
 				{/* =============================
 						VERB
 				============================= */}
 
-				<div className="sub-box">
-
-					{/* =============================
-							VERBS - MODern CAmbridge 2002
-					============================= */}
+				<details className="sub-box-fix-2">
 			
-					<p id="VERBS-MODern-CAmbridge-2002"><mark className="highlight-secondary-padding-2-4">VERBS - MODern CAmbridge 2002</mark></p>
+					<summary id="VERB-PHRAses"><mark className="highlight-secondary-padding-2-4">VERB PHRAses</mark></summary>
 
 					<ul className="list-border1">
 
@@ -145,29 +134,23 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 					</ul>
 
-				</div>
-
-
-
+				</details>
+			
 			</div>
+			
 
 			<hr className="hr-short"/>
 
 
-			<div className="flex-container margin-top-20">
-			
-			
+			<div className="vocabulary-container margin-top-20">
+						
 				{/* =============================
-						VERB
-				============================= */}
-
-				<div className="sub-box">
-
-					{/* =============================
 							ADjectives
 					============================= */}
+
+				<details className="sub-box-fix-2">
 			
-					<p id="ADjectives-terms"><mark className="highlight-secondary-padding-2-4">ADjectives</mark></p>
+					<summary id="ADjectives-terms"><mark className="highlight-secondary-padding-2-4">ADjectives</mark></summary>
 
 					<ul className="list-border1">
 
@@ -185,19 +168,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 					</ul>
 
-				</div>
+				</details>
 
 				{/* =============================
-						VERB
-				============================= */}
-
-				<div className="sub-box">
-
-					{/* =============================
 							prepoSITion
 					============================= */}
+
+				<details className="sub-box-fix-2">
 			
-					<p id="prepoSITion-terms"><mark className="highlight-secondary-padding-2-4">prepoSITion</mark></p>
+					<summary id="prepoSITion-terms"><mark className="highlight-secondary-padding-2-4">prepoSITion</mark></summary>
 
 					<ul className="list-border1">
 
@@ -220,10 +199,8 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 					</ul>
 
-				</div>
-
-
-
+				</details>
+			
 			</div>
 
 			<hr className="hr-short"/>
@@ -1192,12 +1169,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: chắc chắn
+							CERtainly
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-chac-chan"><mark className="highlight-secondary-padding-2-4">ADverbs: chắc chắn</mark></summary>
+					<summary id="ADverbs-CERtainly"><mark className="highlight-secondary-padding-2-4">CERtainly</mark></summary>
 
 					<ul className="list-border1">
 
