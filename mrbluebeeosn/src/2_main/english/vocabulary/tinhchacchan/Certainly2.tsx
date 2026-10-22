@@ -75,7 +75,7 @@ export default function CERtainly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CERtainly</strong>" (chắc chắn rồi) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “CERtainly” and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function CERtainly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "chắc chắn rồi", thường được sử dụng để khẳng định một điều gì đó là đúng, thật sự hoặc sẽ xảy ra.
+            &nbsp;in English means "certainly," and is often used to affirm that something is true, real, or will happen.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function CERtainly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="NOT">CERtainly <Link to="/vocabulary/NOT-1">NOT</Link>, i would NEVer do such a THING.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn là không, tôi sẽ không bao giờ làm chuyện như thế.</li>
+        <li className="list-none margin-bottom-20">Absolutely not! I would never do something like that.</li>
 
         <li value="2" id="MOST">MOST CERtainly, i will be THERE to supPORT you.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn là tôi sẽ có mặt ở đó để ủng hộ bạn.</li>
+        <li className="list-none margin-bottom-20">I promise I will be there to support you.</li>
 
         <li value="3" id="arRIVE-on">he will QUITE CERtainly arRIVE on TIME.</li>
-        <li className="list-none margin-bottom-20">Anh ấy chắc chắn sẽ đến đúng giờ.</li>
+        <li className="list-none margin-bottom-20">He'll definitely arrive right on schedule.</li>
 
         <li value="4" id="ABsolutely">THIS is <Link to="/vocabulary/ABsolutely-1">ABsolutely</Link> CERtainly the RIGHT deCISion.</li>
-        <li className="list-none margin-bottom-20">Đây chắc chắn là quyết định đúng.</li>
+        <li className="list-none margin-bottom-20">This was definitely the correct decision.</li>
 
         <li value="5" id="MORE-than">MORE than CERtainly, she will WIN the PRIZE.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn là cô ấy sẽ giành được giải thưởng.</li>
+        <li className="list-none margin-bottom-20">There's no doubt she will win the prize.</li>
 
         <li value="6" id="KNOW-HOW-you-FEEL">i CERtainly KNOW HOW you FEEL.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự hiểu cảm giác của bạn.</li>
+        <li className="list-none margin-bottom-20">I completely understand how you feel.</li>
 
         <li value="7" id="beLIEVE-in">i CERtainly beLIEVE in the POWer of LOVE.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự tin vào sức mạnh của tình yêu.</li>
+        <li className="list-none margin-bottom-20">I truly believe that love is powerful.</li>
 
         <li value="8" id="aGREE-with">i CERtainly aGREE with your oPINion.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn đồng ý với ý kiến của bạn.</li>
+        <li className="list-none margin-bottom-20">I agree with what you said.</li>
 
         <li value="9" id="underSTAND">i CERtainly underSTAND your conCERNS.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn hiểu những lo ngại của bạn.</li>
+        <li className="list-none margin-bottom-20">I get your concerns.</li>
 
         <li value="10" id="POSsible-to-aCHIEVE">it is CERtainly POSsible to aCHIEVE your GOALS.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn là bạn có thể đạt được mục tiêu của mình.</li>
+        <li className="list-none margin-bottom-20">You can absolutely achieve your goals.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều mang ý nghĩa khẳng định, chắc chắn về một điều gì đó. Chúng được sử dụng để thể hiện sự tin tưởng, đồng ý hoặc hiểu rõ về một vấn đề.</p>
+      <p>** All of the above phrases convey a sense of certainty or assurance about something. They are used to express confidence, agreement, or a clear understanding of an issue.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function CERtainly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>CERtainly</strong>" thường được đặt ở đầu câu hoặc trước hành động để nhấn mạnh ý nghĩa.</li>
+          <li>"CERtainly" is often placed at the beginning of a sentence or before an action to emphasize its meaning.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ giao tiếp hàng ngày đến văn viết trang trọng.</li>
+          <li className="margin-bottom-20">This word can be used in a variety of contexts, from everyday conversation to formal writing.</li>
 
         </ul>
 

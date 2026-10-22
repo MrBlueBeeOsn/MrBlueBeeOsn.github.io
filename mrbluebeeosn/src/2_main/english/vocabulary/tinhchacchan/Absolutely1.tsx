@@ -63,7 +63,7 @@ export default function ABsolutely1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>ABsolutely</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "ABsolutely."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function ABsolutely1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Chắc chắn rồi</li>
+            <li>Of course</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function ABsolutely1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ABsolutely</strong>" được dùng để nhấn mạnh một ý kiến, một khẳng định hoặc một câu trả lời một cách mạnh mẽ và không có bất kỳ sự nghi ngờ nào. Nó thường được dùng để thể hiện sự đồng ý hoàn toàn hoặc sự phản đối hoàn toàn.</p>
+      <p className="margin-top-30 text-indent-whole">The word "ABsolutely" is used to strongly emphasize an opinion, a statement, or an answer, leaving no room for doubt. It is often used to express complete agreement or complete disagreement.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i ABsolutely LOVE CHOCOLate.</li>
-          <li className="margin-bottom-20 list-none">Tôi thực sự yêu thích sô-cô-la.</li>
+          <li className="margin-bottom-20 list-none">I absolutely adore chocolate.</li>
 
           <li>THAT's ABsolutely riDICulous!</li>
-          <li className="list-none">Điều đó thật là vớ vẩn!</li>
+          <li className="list-none">That's completely ridiculous!</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function ABsolutely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">THIS is an ABsolute diSASter.</li>
-          <li className="margin-bottom-20 list-none">Đây thực sự là một thảm họa tột độ.</li>
+          <li className="margin-bottom-20 list-none">This is a huge disaster.</li>
 
           <li id="NOUN">he beLIEVED in ABsolutism in POLitics.</li>
-          <li className="list-none">Ông tin vào chủ nghĩa chuyên chế trong chính trị.</li>
+          <li className="list-none">He strongly believed in the idea of absolute politics.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function ABsolutely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm comPLETely exHAUSTed.</li>
-          <li className="margin-bottom-20 list-none">Tớ mệt lả rồi.</li>
+          <li className="margin-bottom-20 list-none">I'm totally tired.</li>
 
           <li>THAT's TOtally unFAIR.</li>
-          <li className="list-none">Điều đó thật sự quá bất công.</li>
+          <li className="list-none">That is not fair at all.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function ABsolutely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>it's RELatively EAsy.</li>
-          <li className="margin-bottom-20 list-none">Điều đó tương đối dễ.</li>
+          <li className="margin-bottom-20 list-none">It's not too hard.</li>
 
           <li>i aGREE with you PARtially.</li>
-          <li className="list-none">Tôi đồng ý với bạn một phần.</li>
+          <li className="list-none">I agree with you for some reasons and not for others.</li>
 
         </ul>
       
@@ -183,12 +183,12 @@ export default function ABsolutely1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang gật đầu một cách mạnh mẽ khi đồng ý với một ý kiến nào đó.</p>
+      <p className="text-indent-whole">Imagine someone nodding vigorously in agreement with a certain opinion.</p>
 
         <ul className="list-square">
 
           <li>she ABsolutely aGREED, NODding VIGorously.</li>
-          <li className="list-none">Cô ấy hoàn toàn đồng ý, gật đầu mạnh mẽ.</li>
+          <li className="list-none">She completely agreed, nodding her head a lot.</li>
 
         </ul>
 
@@ -202,12 +202,12 @@ export default function ABsolutely1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>ABsolutely</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Create your own example sentences using the word "ABsolutely" in various contexts.</p>
 
         <ul className="list-square">
 
           <li>do you WANT to GO to the MOvies toNIGHT? - ABsolutely! THAT SOUNDS like FUN.</li>
-          <li className="list-none">Tối nay bạn có muốn đi xem phim không? - Tất nhiên rồi! Nghe có vẻ vui đấy.</li>
+          <li className="list-none">Would you like to go to the movies tonight? - Absolutely! That sounds like fun!</li>
 
         </ul>
 
@@ -228,16 +228,16 @@ export default function ABsolutely1(): React.JSX.Element {
           <ol>
 
             <li value="1">i LIKE APples.</li>
-            <li className="list-none margin-bottom-20">Tôi thích táo.</li>
+            <li className="list-none margin-bottom-20">I enjoy apples.</li>
 
             <li value="2">i ABsolutely aDORE APples.</li>
-            <li className="list-none margin-bottom-20">Tôi thực sự rất thích táo.</li>
+            <li className="list-none margin-bottom-20">I really, really like apples.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>ABsolutely</strong>" để thể hiện một tình cảm mạnh mẽ hơn, <span className="highlight-255-padding-0-4">nhấn mạnh rằng tình yêu</span> dành cho táo <span className="highlight-255-padding-0-4">là rất lớn.</span></p>
+        <p className="margin-y-10">The difference: The second sentence uses "ABsolutely" to convey a stronger emotion, <span className="highlight-255-padding-0-4">emphasizing that the love for apples is immense.</span></p>
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -253,9 +253,9 @@ export default function ABsolutely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh: "<strong>ABsolutely</strong>" được dùng để nhấn mạnh một ý kiến hoặc cảm xúc.</li>
+          <li>Emphasis: "ABsolutely" is used to emphasize an opinion or emotion.</li>
 
-          <li className="margin-bottom-20">Đồng ý hoặc phản đối: Nó có thể được dùng để thể hiện sự đồng ý hoàn toàn hoặc sự phản đối hoàn toàn.</li>
+          <li className="margin-bottom-20">Agreement or disagreement: It can be used to express complete agreement or complete disagreement.</li>
 
         </ul>
 

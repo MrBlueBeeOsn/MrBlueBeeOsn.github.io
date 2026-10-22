@@ -63,7 +63,7 @@ export default function CERtainly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng tìm hiểu về từ "<strong>CERtainly</strong>" nhé.</p>
+      <p>Great! Let's learn about the word "CERtainly" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function CERtainly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Chắc chắn rồi</li>
+            <li>Of course</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function CERtainly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>CERtainly</strong>" được dùng để thể hiện sự đồng ý một cách mạnh mẽ, khẳng định một điều gì đó là đúng hoặc sẽ xảy ra. Nó cũng có thể được sử dụng để nhấn mạnh một ý kiến hoặc một câu trả lời.</p>
+      <p className="margin-top-30 text-indent-whole">The word "CERtainly" is used to express strong agreement or to affirm that something is true or will happen. It can also be used to emphasize an opinion or a response.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">can you HELP me with THIS? CERtainly!</li>
-          <li className="margin-bottom-20 list-none">Bạn có thể giúp mình việc này không? Chắc chắn rồi!</li>
+          <li className="margin-bottom-20 list-none">Can you please help me with this? Absolutely!</li>
 
           <li>i will CERtainly be THERE on TIME.</li>
-          <li className="list-none">Tôi chắc chắn sẽ có mặt ở đó đúng giờ.</li>
+          <li className="list-none">I promise to arrive right on time.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function CERtainly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">i am CERtain that he will WIN.</li>
-          <li className="margin-bottom-20 list-none">Tôi chắc chắn rằng anh ấy sẽ thắng.</li>
+          <li className="margin-bottom-20 list-none">I know he's going to win.</li>
 
           <li id="NOUN">there is NO CERtainty in LIFE.</li>
-          <li className="list-none">Trong cuộc sống, không có gì là chắc chắn cả.</li>
+          <li className="list-none">Life is full of uncertainty.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function CERtainly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i will <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> GO to the PARTy.</li>
-          <li className="margin-bottom-20 list-none">Tớ chắc chắn sẽ đi dự bữa tiệc.</li>
+          <li className="margin-bottom-20 list-none">I will absolutely attend the party.</li>
 
           <li>i <Link to="/vocabulary/ABsolutely-1">ABsolutely</Link> aGREE with you.</li>
-          <li className="list-none">Tôi hoàn toàn đồng ý với bạn.</li>
+          <li className="list-none">I completely agree with you.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function CERtainly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he ANswered unCERtainly.</li>
-          <li className="margin-bottom-20 list-none">Anh ta trả lời một cách lưỡng lự.</li>
+          <li className="margin-bottom-20 list-none">He didn't give a definite answer.</li>
 
           <li>she LOOKED at me DOUBTfully.</li>
-          <li className="list-none">Cô ấy nhìn tôi với ánh mắt hoài nghi.</li>
+          <li className="list-none">She looked at me like she didn't believe me.</li>
 
         </ul>
       
@@ -183,12 +183,12 @@ export default function CERtainly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một người gật đầu một cách chắc chắn khi trả lời một câu hỏi.</p>
+      <p className="text-indent-whole">Imagine someone nodding firmly in response to a question.</p>
 
         <ul className="list-square">
 
           <li>when ASKED if he would atTEND the PARTy, he NODded CERtainly.</li>
-          <li className="list-none">Khi được hỏi liệu anh ấy có tham dự bữa tiệc hay không, anh ấy gật đầu một cách chắc chắn.</li>
+          <li className="list-none">When asked if he would go to the party, he nodded yes.</li>
 
         </ul>
 
@@ -202,15 +202,15 @@ export default function CERtainly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu thể hiện sự đồng ý hoặc khẳng định.</p>
+      <p className="text-indent-whole">Form sentences that express agreement or affirmation.</p>
 
         <ul className="list-square">
 
           <li>CERtainly, i will be THERE.</li>
-          <li className=" margin-bottom-20 list-none">Chắc chắn rồi, tôi sẽ có mặt ở đó.</li>
+          <li className=" margin-bottom-20 list-none">I definitely will be there.</li>
 
           <li>i will CERtainly be THERE to supPORT you.</li>
-          <li className="list-none">Tôi chắc chắn sẽ có mặt ở đó để ủng hộ bạn.</li>
+          <li className="list-none">I will absolutely be there to support you.</li>
 
         </ul>
 
@@ -224,23 +224,23 @@ export default function CERtainly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word frequently in conversations or writing.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">i might GO to the MOvies.</li>
-            <li className="list-none margin-bottom-20">Có lẽ tớ sẽ đi xem phim.</li>
+            <li className="list-none margin-bottom-20">I might go see a movie.</li>
 
             <li value="2">i will CERtainly GO to the MOvies.</li>
-            <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ đi xem phim.</li>
+            <li className="list-none margin-bottom-20">I will definitely watch the movie.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>CERtainly</strong>" để <span className="highlight-255-padding-0-4">thể hiện một quyết định chắc chắn hơn</span> so với câu đầu.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "CERtainly" to <span className="highlight-255-padding-0-4">express a more certain decision</span> than the first sentence.</p>
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -256,9 +256,9 @@ export default function CERtainly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sự khẳng định: "<strong>CERtainly</strong>" mang ý nghĩa khẳng định rất mạnh.</li>
+          <li>Affirmation: "CERtainly" conveys a very strong sense of affirmation.</li>
 
-          <li className="margin-bottom-20">Dùng trong nhiều ngữ cảnh: Từ này có thể được sử dụng trong nhiều tình huống giao tiếp khác nhau.</li>
+          <li className="margin-bottom-20">Used in many contexts: This word can be used in a variety of communication situations.</li>
 
         </ul>
 

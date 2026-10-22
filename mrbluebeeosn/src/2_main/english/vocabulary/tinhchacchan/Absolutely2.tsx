@@ -75,7 +75,7 @@ export default function ABsolutely2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ABsolutely</strong>" (chắc chắn rồi) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "ABsolutely" (of course) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -85,11 +85,11 @@ export default function ABsolutely2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              ABsolutely \<Link to="/pronunciation/5-vowel-system">ab sơ LÜTE ly</Link>\ /ˈæb·səˌlut·li/ ⬤••• (FOUR SYLlables)
+              ABsolutely \<Link to="/pronunciation/5-vowel-system">AB sơ lüte ly</Link>\ /ˈæb·səˌlut·li/ ⬤••• (FOUR SYLlables)
               
             </span>
               
-            &nbsp;là một ADverb thường được dùng để nhấn mạnh một ý kiến, một câu trả lời hoặc một tình huống. Nó mang ý nghĩa hoàn toàn đồng ý, chắc chắn hoặc không có ngoại lệ nào.
+            &nbsp;is an adverb commonly used to emphasize an opinion, a response, or a situation. It conveys complete agreement, certainty, or the absence of any exceptions.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function ABsolutely2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="CERtain-that">i am ABsolutely CERtain that he will WIN the RACE.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn chắc chắn rằng anh ấy sẽ giành chiến thắng trong cuộc đua.</li>
+        <li className="list-none margin-bottom-20">He's definitely going to win the race.</li>
 
         <li value="2" id="NECessary-to-HAVE">it is ABsolutely NECessary to HAVE a PASSport to TRAVel abROAD.</li>
-        <li className="list-none margin-bottom-20">Để đi du lịch nước ngoài, việc có hộ chiếu là điều tuyệt đối cần thiết.</li>
+        <li className="list-none margin-bottom-20">You must have a passport to travel outside the country.</li>
 
         <li value="3" id="RIGHT-about">you are ABsolutely RIGHT a<strong>bout</strong> THAT.</li>
-        <li className="list-none margin-bottom-20">Bạn hoàn toàn đúng về điều đó.</li>
+        <li className="list-none margin-bottom-20">What you said is completely true.</li>
 
         <li value="4" id="LOVE">i ABsolutely LOVE CHOCOLate ICE CREAM.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự rất thích kem sô-cô-la.</li>
+        <li className="list-none margin-bottom-20">I really, really love chocolate ice cream.</li>
 
         <li value="5" id="HATE">i ABsolutely HATE SPIders.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự ghét nhện.</li>
+        <li className="list-none margin-bottom-20">I can't stand spiders.</li>
 
-        <li value="6" id="BEAUtiful">he SUNset was ABsolutely BEAUtiful.</li>
-        <li className="list-none margin-bottom-20">Hoàng hôn thật sự rất đẹp.</li>
+        <li value="6" id="BEAUtiful">the SUNset was ABsolutely BEAUtiful.</li>
+        <li className="list-none margin-bottom-20">The sunset was really pretty!</li>
 
         <li value="7" id="PERfect">the CAKE was ABsolutely PERfect.</li>
-        <li className="list-none margin-bottom-20">Chiếc bánh thật sự hoàn hảo.</li>
+        <li className="list-none margin-bottom-20">The cake was perfectly prepared.</li>
 
         <li value="8" id="TRUE">what he SAID was ABsolutely TRUE.</li>
-        <li className="list-none margin-bottom-20">Những gì anh ấy nói là hoàn toàn đúng.</li>
+        <li className="list-none margin-bottom-20">He was right.</li>
 
         <li value="9" id="conVINCED-that">i am ABsolutely conVINCED that she is INnocent.</li>
-        <li className="list-none margin-bottom-20">Tôi hoàn toàn tin chắc rằng cô ấy vô tội.</li>
+        <li className="list-none margin-bottom-20">She is definitely innocent.</li>
 
         <li value="10" id="exHAUSTed"><strong>af</strong>ter the MARathon, i was ABsolutely exHAUSTed.</li>
-        <li className="list-none margin-bottom-20">Sau cuộc đua marathon, tôi thực sự kiệt sức.</li>
+        <li className="list-none margin-bottom-20">The marathon made me very tired.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh một ý kiến, cảm xúc hoặc tình huống một cách mạnh mẽ. Chúng thường được đặt ở đầu câu để tạo sự chú ý và nhấn mạnh.</p>
+      <p>** All of the phrases above are used to strongly emphasize an opinion, emotion, or situation. They are often placed at the beginning of a sentence to draw attention and add emphasis.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function ABsolutely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>ABsolutely</strong>" thường được đặt trước ADjective hoặc ADverb để bổ nghĩa.</li>
+          <li>"ABsolutely" is often placed before an adjective or adverb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
+          <li className="margin-bottom-20">This word can be used in both spoken and written language.</li>
 
         </ul>
 
