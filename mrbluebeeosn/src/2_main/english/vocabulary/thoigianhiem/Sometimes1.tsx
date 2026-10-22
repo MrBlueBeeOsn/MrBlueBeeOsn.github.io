@@ -224,7 +224,7 @@ export default function SOMEtimes1(): React.JSX.Element {
 
             <li value="2">i SOMEtimes forGET to BRING my umBRELla.</li>
             <li className="list-none">Đôi khi tôi lại quên mang theo chiếc ô của mình.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Mang ý nghĩa chung chung về sự không thường xuyên</span>.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Mang ý nghĩa chung chung về sự không thường xuyên.</span></li>
 
           </ol>
 

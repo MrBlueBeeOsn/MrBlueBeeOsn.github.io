@@ -230,7 +230,7 @@ export default function NO1(): React.JSX.Element {
 
             <li value="2">do you WANT some MILK? - NO.</li>
             <li className="list-none">Bạn có muốn uống sữa không? - Không.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Thường được dùng như một câu trả lời ngắn gọn</span>.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Thường được dùng như một câu trả lời ngắn gọn.</span></li>
 
           </ol>
 

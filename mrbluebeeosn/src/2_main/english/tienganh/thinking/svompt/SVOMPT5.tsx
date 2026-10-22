@@ -89,7 +89,7 @@ export default function SVOMPT5(): React.JSX.Element {
 				<p className="example-label">Ví dụ</p>
 
 				<p className="example-sentence">
-					<span className="s">She</span> &nbsp;<span className="v">eats</span> &nbsp;<span className="o">lunch</span> &nbsp;<span className="m">quietly</span> &nbsp;<span className="p">at school</span> &nbsp;<span className="t">every day</span>.
+					<span className="s">She</span> &nbsp;<span className="v">eats</span> &nbsp;<span className="o">lunch</span> &nbsp;<span className="m">quietly</span> &nbsp;<span className="p">at school</span> &nbsp;<span className="t">every day.</span>
 				</p>
 
 			</div>

@@ -224,7 +224,7 @@ export default function ALways1(): React.JSX.Element {
 
             <li value="2">the SUN ALways RIses in the EAST.</li>
             <li className="list-none">Mặt Trời luôn mọc ở phía Đông.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh tính chất vĩnh cửu và tuyệt đối của một hành động</span>.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh tính chất vĩnh cửu và tuyệt đối của một hành động.</span></li>
 
           </ol>
 

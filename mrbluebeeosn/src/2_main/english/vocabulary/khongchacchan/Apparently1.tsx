@@ -233,7 +233,7 @@ export default function apPARently1(): React.JSX.Element {
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai cho thấy người nói <span className="highlight-255-padding-0-4">không hoàn toàn chắc chắn</span> rằng cô ấy biết <span className="highlight-255-padding-0-4">câu trả lời</span>, mà chỉ dựa trên những gì họ nghe được hoặc quan sát được.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai cho thấy người nói <span className="highlight-255-padding-0-4">không hoàn toàn chắc chắn</span> rằng cô ấy biết <span className="highlight-255-padding-0-4">câu trả lời,</span> mà chỉ dựa trên những gì họ nghe được hoặc quan sát được.</p>
 
       </div>
 

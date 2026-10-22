@@ -240,7 +240,7 @@ export default function POSsibly1(): React.JSX.Element {
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>POSsibly</strong>" để <span className="highlight-255-padding-0-4">thể hiện rằng việc đi</span> dự tiệc <span className="highlight-255-padding-0-4">chưa chắc chắn hoàn toàn</span>.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>POSsibly</strong>" để <span className="highlight-255-padding-0-4">thể hiện rằng việc đi</span> dự tiệc <span className="highlight-255-padding-0-4">chưa chắc chắn hoàn toàn.</span></p>
 
       </div>
 

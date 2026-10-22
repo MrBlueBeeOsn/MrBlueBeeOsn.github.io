@@ -224,7 +224,7 @@ export default function MAYbe1(): React.JSX.Element {
 
             <li value="2">MAYbe we can GO to the MOvies toNIGHT.</li>
             <li className="list-none">Có lẽ tối nay chúng ta có thể đi xem phim.</li>
-            <li className="list-none">Cách nói thông thường, <span className="highlight-255-padding-0-4">thường dùng trong giao tiếp hàng ngày</span>.</li>
+            <li className="list-none">Cách nói thông thường, <span className="highlight-255-padding-0-4">thường dùng trong giao tiếp hàng ngày.</span></li>
 
           </ol>
 

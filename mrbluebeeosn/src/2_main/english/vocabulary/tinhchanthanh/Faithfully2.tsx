@@ -75,7 +75,7 @@ export default function FAITHfully2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>FAITHfully</strong>" (với lòng tin tưởng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “FAITHfully” (with faith) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function FAITHfully2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được sử dụng để miêu tả một hành động được thực hiện một cách trung thành, đáng tin cậy, tuân thủ theo một điều gì đó.
+            &nbsp;is often used to describe an action performed faithfully, reliably, and in accordance with something.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function FAITHfully2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="SERVED-for">he FAITHfully SERVED his COUNtry for <strong>man</strong>y YEARS.</li>
-        <li className="list-none margin-bottom-20">Ông đã trung thành phục vụ đất nước mình trong nhiều năm.</li>
+        <li className="list-none margin-bottom-20">He worked for his country for many years and was always loyal.</li>
 
         <li value="2" id="FOLlowed">she FAITHfully FOLlowed the DOCtor's ORders.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã tuân thủ nghiêm túc chỉ định của bác sĩ.</li>
+        <li className="list-none margin-bottom-20">She did everything the doctor told her to do.</li>
 
         <li value="3" id="reproDUCED-in">the PAINTing was FAITHfully reproDUCED in the PRINT.</li>
-        <li className="list-none margin-bottom-20">Bức tranh đã được tái hiện một cách trung thực trên bản in.</li>
+        <li className="list-none margin-bottom-20">The picture in the print is exactly like the painting.</li>
 
         <li value="4" id="reCORDed-in">the eVENTS were FAITHfully reCORDed in the DIary.</li>
-        <li className="list-none margin-bottom-20">Các sự kiện đã được ghi chép một cách trung thực vào cuốn nhật ký.</li>
+        <li className="list-none margin-bottom-20">The events were recorded in the diary exactly as they happened.</li>
 
         <li value="5" id="repreSENTed">the PAINTing FAITHfully repreSENTed the BEAUty of the LANDscape.</li>
-        <li className="list-none margin-bottom-20">Bức tranh đã tái hiện một cách trung thực vẻ đẹp của phong cảnh.</li>
+        <li className="list-none margin-bottom-20">The painting truly showed off the beautiful landscape.</li>
 
         <li value="6" id="EXecuted">the PLAN was FAITHfully EXecuted.</li>
-        <li className="list-none margin-bottom-20">Kế hoạch đã được thực hiện một cách trung thành.</li>
+        <li className="list-none margin-bottom-20">The plan was followed correctly.</li>
 
         <li value="7" id="beLIEVED-in">they FAITHfully beLIEVED in the POWer of LOVE.</li>
-        <li className="list-none margin-bottom-20">Họ đã tin tưởng một cách chân thành vào sức mạnh của tình yêu.</li>
+        <li className="list-none margin-bottom-20">They believed in the power of love with unwavering devotion.</li>
 
         <li value="8" id="adHERED-to">she FAITHfully adHERED to her PRINciples.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã kiên định tuân thủ các nguyên tắc của mình.</li>
+        <li className="list-none margin-bottom-20">She always followed her principles.</li>
 
         <li value="9" id="mainTAINED">the GARden was FAITHfully mainTAINED.</li>
-        <li className="list-none margin-bottom-20">Khu vườn đã được chăm sóc cẩn thận.</li>
+        <li className="list-none margin-bottom-20">Someone took care of the garden regularly.</li>
 
         <li value="10" id="reMEMbered">he FAITHfully reMEMbered his CHILDhood.</li>
-        <li className="list-none margin-bottom-20">Ông đã nhớ lại tuổi thơ của mình một cách chân thành.</li>
+        <li className="list-none margin-bottom-20">He remembered his childhood without fail.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh sự trung thành, tin cậy và sự tuân thủ trong việc thực hiện một hành động hoặc giữ một niềm tin nào đó. Chúng thường được sử dụng để miêu tả một thái độ tích cực và đáng khen ngợi.</p>
+      <p>** All of the above phrases emphasize loyalty, trustworthiness, and commitment in carrying out an action or upholding a belief. They are often used to describe a positive and commendable attitude.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function FAITHfully2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>FAITHfully</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
+          <li>"FAITHfully" is often placed before a verb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết trang trọng để tạo ra một cảm giác trang trọng và chính thức.</li>
+          <li className="margin-bottom-20">This word is commonly used in formal writing to convey a sense of solemnity and formality.</li>
 
         </ul>
 

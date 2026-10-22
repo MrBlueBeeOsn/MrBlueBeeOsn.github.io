@@ -240,7 +240,7 @@ export default function parTICularly1(): React.JSX.Element {
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>parTICularly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng trong số tất cả các loại trái cây, táo là <span className="highlight-255-padding-0-4">loại trái cây</span> mà người nói <span className="highlight-255-padding-0-4">thích nhất</span>.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>parTICularly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng trong số tất cả các loại trái cây, táo là <span className="highlight-255-padding-0-4">loại trái cây</span> mà người nói <span className="highlight-255-padding-0-4">thích nhất.</span></p>
 
       </div>
 

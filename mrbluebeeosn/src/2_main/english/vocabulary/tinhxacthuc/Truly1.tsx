@@ -240,7 +240,7 @@ export default function TRUly1(): React.JSX.Element {
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">The difference: The second sentence uses "TRUly" to convey a deeper emotion, <span className="highlight-255-padding-0-4">emphasizing</span> that the <span className="highlight-255-padding-0-4">love for pizza is immense</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "TRUly" to convey a deeper emotion, <span className="highlight-255-padding-0-4">emphasizing</span> that the <span className="highlight-255-padding-0-4">love for pizza is immense.</span></p>
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 

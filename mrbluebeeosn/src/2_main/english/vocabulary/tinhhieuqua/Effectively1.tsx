@@ -240,7 +240,7 @@ export default function efFECTively1(): React.JSX.Element {
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that</span> her studying isn't just about studying - <span className="highlight-255-padding-0-4">it also yields good results</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that</span> her studying isn't just about studying - <span className="highlight-255-padding-0-4">it also yields good results.</span></p>
 
       </div>
 

@@ -236,7 +236,7 @@ export default function REally1(): React.JSX.Element {
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">The difference: The second sentence places greater <span className="highlight-255-padding-0-4">emphasis on the speaker's feelings toward pizza</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence places greater <span className="highlight-255-padding-0-4">emphasis on the speaker's feelings toward pizza.</span></p>
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 

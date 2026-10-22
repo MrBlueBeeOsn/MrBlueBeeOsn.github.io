@@ -63,7 +63,7 @@ export default function FAITHfully1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>FAITHfully</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "FAITHfully."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function FAITHfully1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Với lòng tin tưởng</li>
+            <li>With confidence</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function FAITHfully1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>FAITHfully</strong>" được dùng để mô tả một hành động được thực hiện một cách trung thành, tin cậy và đáng tin cường. Nó thường liên quan đến việc giữ lời hứa, thực hiện nhiệm vụ một cách tận tâm và trung thực.</p>
+      <p className="margin-top-30 text-indent-whole">The word "FAITHfully" is used to describe an action performed faithfully, reliably, and trustworthily. It often refers to keeping one's word and carrying out a task with dedication and honesty.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she FAITHfully SERVED her COMpany for <strong>man</strong>y YEARS.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy đã tận tụy cống hiến cho công ty trong nhiều năm.</li>
+          <li className="margin-bottom-20 list-none">She worked for her company for many years and always did her best.</li>
 
           <li>he FOLlowed the inSTRUCtions FAITHfully.</li>
-          <li className="list-none">Anh ấy đã tuân thủ nghiêm túc các hướng dẫn.</li>
+          <li className="list-none">He did exactly what the instructions told him to do.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function FAITHfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is a FAITHful FRIEND.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy là một người bạn trung thành.</li>
+          <li className="margin-bottom-20 list-none">He is a true friend who always has your back.</li>
 
           <li id="NOUN">he has GREAT FAITH in his TEAM.</li>
-          <li className="list-none">Anh ấy có niềm tin vững chắc vào đội của mình.</li>
+          <li className="list-none">He believes in his team a lot.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function FAITHfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he SERVED his COUNtry LOYally.</li>
-          <li className="margin-bottom-20 list-none">Ông đã phục vụ Tổ quốc một cách trung thành.</li>
+          <li className="margin-bottom-20 list-none">He was a good and faithful servant of his country.</li>
 
           <li>she deVOtedly CARED for her SICK MOTHer.</li>
-          <li className="list-none">Cô đã tận tụy chăm sóc người mẹ ốm yếu của mình.</li>
+          <li className="list-none">She truly cared about her sick mom.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function FAITHfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he beTRAYED his FRIENDS TREACHerously.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã phản bội bạn bè một cách đê hèn.</li>
+          <li className="margin-bottom-20 list-none">He was a traitor to his friends.</li>
 
           <li>she ACTed unFAITHfully towards her HUSband.</li>
-          <li className="list-none">Cô ấy đã hành động không chung thủy với chồng mình.</li>
+          <li className="list-none">She didn't act faithfully towards her husband.</li>
 
         </ul>
       
@@ -184,12 +184,12 @@ export default function FAITHfully1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một con chó trung thành bên cạnh chủ nhân.</p>
+      <p className="text-indent-whole">Imagine a loyal dog by its owner's side.</p>
 
         <ul className="list-square">
 
           <li>the DOG FAITHfully FOLlowed its OWner.</li>
-          <li className="list-none">Con chó đã trung thành đi theo chủ của mình.</li>
+          <li className="list-none">The dog always followed its owner.</li>
 
         </ul>
 
@@ -204,12 +204,12 @@ export default function FAITHfully1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu miêu tả những hành động thể hiện sự trung thành.</p>
+      <p className="text-indent-whole">Form sentences describing actions that demonstrate loyalty.</p>
 
         <ul className="list-square">
 
           <li>she FAITHfully KEPT her PROMise.</li>
-          <li className="list-none">Cô ấy đã trung thành giữ lời hứa của mình.</li>
+          <li className="list-none">She did what she said she would do.</li>
 
         </ul>
 
@@ -231,16 +231,16 @@ export default function FAITHfully1(): React.JSX.Element {
           <ol>
 
             <li value="1">he FINished the PROJect.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành dự án.</li>
+            <li className="list-none margin-bottom-20">He completed the project.</li>
 
             <li value="2">he FAITHfully FINished the PROJect on TIME.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành dự án một cách tận tâm và đúng hạn.</li>
+            <li className="list-none margin-bottom-20">He finished the project on time, as promised.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng anh ấy không chỉ hoàn thành dự án mà còn <span className="highlight-255-padding-0-4">làm việc một cách tận tâm và đúng hẹn</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that he not only completed the project but also worked diligently</span> and met the deadline.</p>
 
       </div>
 
@@ -256,9 +256,9 @@ export default function FAITHfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sự trung thành: "<strong>FAITHfully</strong>" luôn nhấn mạnh sự trung thành và đáng tin cậy.</li>
+          <li>Loyalty: "FAITHfully" always emphasizes loyalty and reliability.</li>
 
-          <li className="margin-bottom-20">Thường dùng trong ngữ cảnh tích cực: Nó thường được sử dụng để miêu tả những hành động tích cực, đáng khen ngợi.</li>
+          <li className="margin-bottom-20">Commonly used in positive contexts: It is often used to describe positive, commendable actions.</li>
 
         </ul>
 

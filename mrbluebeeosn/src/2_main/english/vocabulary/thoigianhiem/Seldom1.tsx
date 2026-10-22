@@ -227,7 +227,7 @@ export default function SELdom1(): React.JSX.Element {
 
             <li value="2">i SELdom SEE him anyMORE.</li>
             <li className="list-none">Tôi hiếm khi gặp anh ấy nữa.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh sự hiếm hoi tuyệt đối</span>.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh sự hiếm hoi tuyệt đối.</span></li>
 
           </ol>
 

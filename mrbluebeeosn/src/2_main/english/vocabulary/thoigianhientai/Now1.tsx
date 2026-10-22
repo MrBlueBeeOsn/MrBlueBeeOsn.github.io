@@ -224,7 +224,7 @@ export default function NOW1(): React.JSX.Element {
 
             <li value="2">NOW, LISten to me <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
             <li className="list-none">Bây giờ, hãy lắng nghe tôi thật kỹ nhé.</li>
-            <li className="list-none">Cách nói thông thường, <span className="highlight-255-padding-0-4">nhấn mạnh sự tức thời</span>.</li>
+            <li className="list-none">Cách nói thông thường, <span className="highlight-255-padding-0-4">nhấn mạnh sự tức thời.</span></li>
 
           </ol>
 

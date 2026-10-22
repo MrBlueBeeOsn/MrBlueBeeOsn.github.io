@@ -224,7 +224,7 @@ export default function VERy1(): React.JSX.Element {
 
             <li value="2">she VERy HAPpy.</li>
             <li className="list-none">Cô ấy rất vui.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh một mức độ cao</span>.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh một mức độ cao.</span></li>
 
           </ol>
 

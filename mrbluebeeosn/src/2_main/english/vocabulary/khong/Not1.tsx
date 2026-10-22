@@ -234,7 +234,7 @@ export default function NOT1(): React.JSX.Element {
 
             <li value="2">i am NOT GOing.</li>
             <li className="list-none">Tớ sẽ không đi đâu cả.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Thường dùng để phủ định một ĐỘNG</span>.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Thường dùng để phủ định một ĐỘNG.</span></li>
 
           </ol>
 

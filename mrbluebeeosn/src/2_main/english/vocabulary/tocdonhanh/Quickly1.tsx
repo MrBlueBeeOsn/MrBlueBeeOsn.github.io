@@ -15,7 +15,7 @@ export default function QUICKly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#ADverbs-FAST"><mark className="highlight-tertiary-padding-4-8">FAST</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-QUICKly"><mark className="highlight-tertiary-padding-4-8">QUICKly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">QUICKly
         <sup><Link to="/vocabulary/QUICKly-1">&nbsp;1&nbsp;</Link>
@@ -242,7 +242,7 @@ export default function QUICKly1(): React.JSX.Element {
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">The difference: The second sentence uses "QUICKly" to <span className="highlight-255-padding-0-4">emphasize</span> that the task was <span className="highlight-255-padding-0-4">completed in a short amount of time</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "QUICKly" to <span className="highlight-255-padding-0-4">emphasize</span> that the task was <span className="highlight-255-padding-0-4">completed in a short amount of time.</span></p>
 
       </div>
 

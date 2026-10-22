@@ -226,7 +226,7 @@ export default function EVer1(): React.JSX.Element {
 
             <li value="2">have you EVer been to the BEACH?</li>
             <li className="list-none">Bạn đã từng đi biển chưa?</li>
-            <li className="list-none">Sử dụng trong <span className="highlight-255-padding-0-4">câu hỏi</span> hoặc <span className="highlight-255-padding-0-4">câu khẳng định</span> để <span className="highlight-255-padding-0-4">nhấn mạnh một trải nghiệm</span>.</li>
+            <li className="list-none">Sử dụng trong <span className="highlight-255-padding-0-4">câu hỏi</span> hoặc <span className="highlight-255-padding-0-4">câu khẳng định</span> để <span className="highlight-255-padding-0-4">nhấn mạnh một trải nghiệm.</span></li>
 
           </ol>
 

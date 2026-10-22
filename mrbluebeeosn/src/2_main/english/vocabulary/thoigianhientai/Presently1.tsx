@@ -254,7 +254,7 @@ export default function PRESently1(): React.JSX.Element {
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Cả hai câu đều có nghĩa tương tự, nhưng "<strong>PRESently</strong>" mang một sắc thái trang trọng hơn và <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc đi</span> đến cửa hàng <span className="highlight-255-padding-0-4">sẽ diễn ra trong tương lai rất gần</span>.</p>
+        <p className="margin-y-10">Sự khác biệt: Cả hai câu đều có nghĩa tương tự, nhưng "<strong>PRESently</strong>" mang một sắc thái trang trọng hơn và <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc đi</span> đến cửa hàng <span className="highlight-255-padding-0-4">sẽ diễn ra trong tương lai rất gần.</span></p>
 
       </div>
 

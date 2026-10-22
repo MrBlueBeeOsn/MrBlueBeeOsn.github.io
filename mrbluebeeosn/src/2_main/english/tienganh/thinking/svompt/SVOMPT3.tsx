@@ -120,7 +120,7 @@ export default function SVOMPT3(): React.JSX.Element {
 				<p className="example-label">Ví dụ 1</p>
 
 				<p className="example-sentence">
-					<span className="s">I</span> &nbsp;<span className="v">eat</span> &nbsp;<span className="o">breakfast</span> &nbsp;<span className="m">quickly</span> &nbsp;<span className="p">at home</span> &nbsp;<span className="t">every morning</span>.
+					<span className="s">I</span> &nbsp;<span className="v">eat</span> &nbsp;<span className="o">breakfast</span> &nbsp;<span className="m">quickly</span> &nbsp;<span className="p">at home</span> &nbsp;<span className="t">every morning.</span>
 				</p>
 
 			</div>
@@ -159,7 +159,7 @@ export default function SVOMPT3(): React.JSX.Element {
 				<p className="example-label">Ví dụ 2</p>
 
 				<p className="example-sentence">
-					<span className="s">She</span> &nbsp;<span className="v">sang</span> &nbsp;<span className="o">the song</span> &nbsp;<span className="m">beautifully</span> &nbsp;<span className="p">on the stage</span> &nbsp;<span className="t">last night</span>.
+					<span className="s">She</span> &nbsp;<span className="v">sang</span> &nbsp;<span className="o">the song</span> &nbsp;<span className="m">beautifully</span> &nbsp;<span className="p">on the stage</span> &nbsp;<span className="t">last night.</span>
 				</p>
 
 			</div>
@@ -198,7 +198,7 @@ export default function SVOMPT3(): React.JSX.Element {
 				<p className="example-label">Ví dụ 3</p>
 
 				<p className="example-sentence">
-					<span className="s">The team</span> &nbsp;<span className="v">won</span> &nbsp;<span className="o">the championship</span> &nbsp;<span className="m">convincingly</span> &nbsp;<span className="p">in Seoul</span> &nbsp;<span className="t">last weekend</span>.
+					<span className="s">The team</span> &nbsp;<span className="v">won</span> &nbsp;<span className="o">the championship</span> &nbsp;<span className="m">convincingly</span> &nbsp;<span className="p">in Seoul</span> &nbsp;<span className="t">last weekend.</span>
 				</p>
 
 			</div>

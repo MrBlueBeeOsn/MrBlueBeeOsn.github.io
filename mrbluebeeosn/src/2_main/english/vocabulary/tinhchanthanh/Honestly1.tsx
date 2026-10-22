@@ -63,7 +63,7 @@ export default function HONestly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>HONestly</strong>" nhé.</p>
+      <p>Great! Let's explore the word "HONestly" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function HONestly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Thành thật mà nói</li>
+            <li>To be honest</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function HONestly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>HONestly</strong>" được dùng để nhấn mạnh rằng một điều gì đó được nói ra là hoàn toàn đúng sự thật, không có sự gian dối hoặc phóng đại. Nó thường được dùng để thể hiện sự chân thành, thẳng thắn của người nói.</p>
+      <p className="margin-top-30 text-indent-whole">The word "HONestly" is used to emphasize that what is being said is completely true, without any deception or exaggeration. It is often used to convey the speaker's sincerity and candor.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">HONestly, i DON'T KNOW the ANswer.</li>
-          <li className="margin-bottom-20 list-none">Thành thật mà nói, tôi không biết câu trả lời.</li>
+          <li className="margin-bottom-20 list-none">To be honest, I'm really not sure.</li>
 
           <li>HONestly, i THINK you should reconSIDer your deCISion.</li>
-          <li className="list-none">Thành thật mà nói, tớ nghĩ cậu nên suy nghĩ lại về quyết định của mình.</li>
+          <li className="list-none">I think you should think again before making a decision.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function HONestly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is an HONest MAN.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy là một người trung thực.</li>
+          <li className="margin-bottom-20 list-none">He is a man of integrity.</li>
 
           <li id="NOUN">HONesty is the BEST POLicy.</li>
-          <li className="list-none">Sự trung thực là chính sách tốt nhất.</li>
+          <li className="list-none">Being honest is the best policy.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function HONestly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> beLIEVE in you.</li>
-          <li className="margin-bottom-20 list-none">Tôi thực sự tin tưởng vào bạn.</li>
+          <li className="margin-bottom-20 list-none">I have complete faith in you.</li>
 
           <li>i <Link to="/vocabulary/sinCEREly-1">sinCEREly</Link> aPOLogize for my misTAKE.</li>
-          <li className="list-none">Tôi chân thành xin lỗi về sai lầm của mình.</li>
+          <li className="list-none">I'm sorry for making a mistake.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function HONestly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he LIED disHONestly a<strong>bout</strong> his qualifiCAtions.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã nói dối một cách vô liêm sỉ về trình độ của mình.</li>
+          <li className="margin-bottom-20 list-none">He wasn't honest about the things he was qualified to do.</li>
 
           <li>she deCEIVED him deCEITfully.</li>
-          <li className="list-none">Cô ta đã lừa dối anh ta một cách xảo quyệt.</li>
+          <li className="list-none">She tricked him.</li>
 
         </ul>
       
@@ -184,12 +184,12 @@ export default function HONestly1(): React.JSX.Element {
         <strong>&nbsp;to the image</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang đặt tay lên trái tim và nói một cách chân thành.</p>
+      <p className="text-indent-whole">Imagine someone placing their hand over their heart and speaking sincerely.</p>
 
         <ul className="list-square">
 
           <li>HONestly, i FEEL so GRATEful.</li>
-          <li className="list-none">Thật lòng mà nói, tớ cảm thấy vô cùng biết ơn.</li>
+          <li className="list-none">To be honest, I am very thankful.</li>
 
         </ul>
 
@@ -204,12 +204,12 @@ export default function HONestly1(): React.JSX.Element {
         <strong>&nbsp;example sentences</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>HONestly</strong>" trong nhiều ngữ cảnh.</p>
+      <p className="text-indent-whole">Create various example sentences using the word "HONestly" in different contexts.</p>
 
         <ul className="list-square">
 
           <li>HONestly, i DON'T CARE WHAT you THINK.</li>
-          <li className="list-none">Thành thật mà nói, tớ không quan tâm các cậu nghĩ gì.</li>
+          <li className="list-none">Honestly, your thoughts don't matter to me.</li>
 
         </ul>
 
@@ -231,16 +231,16 @@ export default function HONestly1(): React.JSX.Element {
           <ol>
 
             <li value="1">i LIKE PIZza.</li>
-            <li className="list-none margin-bottom-20">Tôi thích pizza.</li>
+            <li className="list-none margin-bottom-20">Pizza is my favorite food.</li>
 
             <li value="2">HONestly, i LOVE PIZza. it's my FAvorite FOOD.</li>
-            <li className="list-none margin-bottom-20">Thật lòng mà nói, tớ thích pizza lắm. Đó là món ăn yêu thích nhất của tớ.</li>
+            <li className="list-none margin-bottom-20">To be honest, I really like pizza. It's one of my favorite foods.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>HONestly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh mức độ yêu thích</span> của người nói đối với pizza.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "HONestly" to <span className="highlight-255-padding-0-4">emphasize how much the speaker loves pizza.</span></p>
 
       </div>
 
@@ -256,12 +256,12 @@ export default function HONestly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự chân thật: "<strong>HONestly</strong>" thường được dùng để nhấn mạnh rằng người nói đang nói sự thật.</li>
+          <li>Emphasizing honesty: "HONestly" is often used to emphasize that the speaker is telling the truth.</li>
 
-          <li>Câu hỏi tu từ: Đôi khi, "<strong>HONestly</strong>" được dùng trong câu hỏi tu từ để thể hiện sự ngạc nhiên hoặc không đồng tình.</li>
+          <li className="margin-bottom-20">Rhetorical questions: Sometimes, "HONestly" is used in rhetorical questions to express surprise or disagreement.</li>
 
           <li>HONestly, HOW could you DO THAT?</li>
-          <li className="list-none margin-bottom-20">Thật lòng mà nói, làm sao cậu lại có thể làm thế được chứ?</li>
+          <li className="list-none">Honestly, is it even possible to do that?</li>
 
         </ul>
 

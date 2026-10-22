@@ -197,7 +197,7 @@ export default function SVOMPT2(): React.JSX.Element {
 				<p className="example-label">Và câu kết thúc:</p>
 
 				<p className="example-sentence">
-					<span className="s">I</span> &nbsp;<span className="v">eat</span> &nbsp;<span className="o">an apple</span> &nbsp;<span className="m">quietly</span> &nbsp;<span className="p">in my room</span> &nbsp;<span className="t">every night</span>.
+					<span className="s">I</span> &nbsp;<span className="v">eat</span> &nbsp;<span className="o">an apple</span> &nbsp;<span className="m">quietly</span> &nbsp;<span className="p">in my room</span> &nbsp;<span className="t">every night.</span>
 				</p>
 
 			</div>

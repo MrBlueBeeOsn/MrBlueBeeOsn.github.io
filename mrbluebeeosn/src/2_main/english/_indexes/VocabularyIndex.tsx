@@ -697,7 +697,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
-					<summary id="ADverbs-FAST"><mark className="highlight-secondary-padding-2-4">FAST</mark></summary>
+					<summary id="ADverbs-QUICKly"><mark className="highlight-secondary-padding-2-4">QUICKly</mark></summary>
 
 					<ul className="list-border1">
 
@@ -792,15 +792,24 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: POSitive
+							POSitively
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="ADverbs-POSitive"><mark className="highlight-secondary-padding-2-4">ADverbs: POSitive</mark></summary>
+					<summary id="ADverbs-POSitively"><mark className="highlight-secondary-padding-2-4">POSitively</mark></summary>
 
 					<ul className="list-border1">
-
+						
+						<li>
+							<Link to="/vocabulary/POSitively-1">POSitively
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/POSitively-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
 						<li>
 							<Link to="/vocabulary/HAPpily-1">HAPpily
 								<sup>&nbsp;1&nbsp;</sup>
@@ -824,15 +833,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/CHEERfully-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/POSitively-1">POSitively
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/POSitively-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

@@ -15,7 +15,7 @@ export default function SUDdenly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#ADverbs-FAST"><mark className="highlight-tertiary-padding-4-8">FAST</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-QUICKly"><mark className="highlight-tertiary-padding-4-8">QUICKly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">SUDdenly
         <sup>

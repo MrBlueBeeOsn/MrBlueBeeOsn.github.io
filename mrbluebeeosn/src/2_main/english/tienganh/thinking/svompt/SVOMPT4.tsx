@@ -118,7 +118,7 @@ export default function SVOMPT4(): React.JSX.Element {
 				<p className="example-label">Ví dụ</p>
 
 				<p className="example-sentence">
-					<span className="s">She</span> &nbsp;<span className="v">drinks</span> &nbsp;<span className="o">coffee</span> &nbsp;<span className="m">slowly</span> &nbsp;<span className="p">in the park</span> &nbsp;<span className="t">every evening</span>.
+					<span className="s">She</span> &nbsp;<span className="v">drinks</span> &nbsp;<span className="o">coffee</span> &nbsp;<span className="m">slowly</span> &nbsp;<span className="p">in the park</span> &nbsp;<span className="t">every evening.</span>
 				</p>
 
 			</div>
@@ -165,7 +165,7 @@ export default function SVOMPT4(): React.JSX.Element {
 				<p className="example-label">Ví dụ</p>
 
 				<p className="example-sentence">
-					<span className="s">My cousin</span> &nbsp;<span className="v">plays</span> &nbsp;<span className="o">football</span> &nbsp;<span className="m">excitedly</span> &nbsp;<span className="p">at the stadium</span> &nbsp;<span className="t">on weekends</span>.
+					<span className="s">My cousin</span> &nbsp;<span className="v">plays</span> &nbsp;<span className="o">football</span> &nbsp;<span className="m">excitedly</span> &nbsp;<span className="p">at the stadium</span> &nbsp;<span className="t">on weekends.</span>
 				</p>
 
 			</div>

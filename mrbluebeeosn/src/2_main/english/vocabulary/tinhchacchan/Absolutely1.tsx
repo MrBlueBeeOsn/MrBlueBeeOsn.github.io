@@ -240,7 +240,7 @@ export default function ABsolutely1(): React.JSX.Element {
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>ABsolutely</strong>" để thể hiện một tình cảm mạnh mẽ hơn, <span className="highlight-255-padding-0-4">nhấn mạnh rằng tình yêu</span> dành cho táo <span className="highlight-255-padding-0-4">là rất lớn</span>.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>ABsolutely</strong>" để thể hiện một tình cảm mạnh mẽ hơn, <span className="highlight-255-padding-0-4">nhấn mạnh rằng tình yêu</span> dành cho táo <span className="highlight-255-padding-0-4">là rất lớn.</span></p>
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 

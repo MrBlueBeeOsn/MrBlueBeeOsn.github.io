@@ -15,7 +15,7 @@ export default function CHEERfully1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#ADverbs-POSitive"><mark className="highlight-tertiary-padding-4-8">ADverbs: POSitive</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-POSitively"><mark className="highlight-tertiary-padding-4-8">POSitively</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">CHEERfully
         <sup><Link to="/vocabulary/CHEERfully-1">&nbsp;1&nbsp;</Link>
@@ -247,7 +247,7 @@ export default function CHEERfully1(): React.JSX.Element {
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes the respondent's positive attitude</span>.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes the respondent's positive attitude.</span></p>
 
       </div>
 

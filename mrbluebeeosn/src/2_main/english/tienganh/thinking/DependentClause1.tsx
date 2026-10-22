@@ -236,7 +236,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 					<li value="1"><strong>Quét nhanh</strong>: Tìm các từ dẫn dắt (that, as, WHICH, beCAUSE...).</li>
 			
-					<li value="2"><strong>Đóng khung</strong>: Đặt toàn bộ vế câu bắt đầu từ từ dẫn dắt đó vào dấu ngoặc vuông <span className="pill p">[...]</span>.</li>
+					<li value="2"><strong>Đóng khung</strong>: Đặt toàn bộ vế câu bắt đầu từ từ dẫn dắt đó vào dấu ngoặc vuông <span className="pill p">[...].</span></li>
 			
 					<li value="3"><strong>Xử lý lõi</strong>: Đọc phần văn bản nằm ngoài dấu ngoặc trước để nắm ngay 80% thông điệp chính, sau đó mới bổ sung phần thông tin phụ trong ngoặc vào sau.</li>
 			

@@ -75,7 +75,7 @@ export default function HONestly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>HONestly</strong>" (thành thật mà nói) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "HONestly" (to be honest) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function HONestly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "một cách thành thật", thường được sử dụng để nhấn mạnh rằng thông tin được cung cấp là đúng sự thật và không có sự giả dối nào.
+            &nbsp;in English means "honestly"; it is often used to emphasize that the information provided is true and contains no falsehoods.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function HONestly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="SPEAKing-i-DON'T-LIKE">HONestly SPEAKing, i DON'T LIKE that MOvie.</li>
-        <li className="list-none margin-bottom-20">Nói thật lòng, tớ không thích bộ phim đó.</li>
+        <li className="list-none margin-bottom-20">To be honest, I didn't like that movie.</li>
 
         <li value="2" id="beLIEVE-that">i HONestly beLIEVE that he is INnocent.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự tin rằng anh ấy vô tội.</li>
+        <li className="list-none margin-bottom-20">I truly believe he is innocent.</li>
 
         <li value="3" id="THINK-we">i HONestly THINK we should reconSIDer our PLANS.</li>
-        <li className="list-none margin-bottom-20">Tôi thật sự nghĩ rằng chúng ta nên xem xét lại kế hoạch của mình.</li>
+        <li className="list-none margin-bottom-20">We should completely change our plans, I think.</li>
 
         <li value="4" id="adMIT-that">i HONestly adMIT that i MADE a misTAKE.</li>
-        <li className="list-none margin-bottom-20">Tôi thành thật thừa nhận rằng mình đã phạm sai lầm.</li>
+        <li className="list-none margin-bottom-20">I'm sorry I made a mistake.</li>
 
         <li value="5" id="SPEAKing-HOW-to-SOLVE">HONestly SPEAKing, HOW to SOLVE this PROBlem?</li>
-        <li className="list-none margin-bottom-20">Nói thật lòng, làm thế nào để giải quyết vấn đề này?</li>
+        <li className="list-none margin-bottom-20">To be honest, what's the solution to this problem?</li>
 
         <li value="6" id="i'm-surPRISED-that">HONestly, i'm surPRISED that you SAID that.</li>
-        <li className="list-none margin-bottom-20">Thật lòng mà nói, tớ rất ngạc nhiên khi cậu lại nói thế.</li>
+        <li className="list-none margin-bottom-20">I was surprised by what you said.</li>
 
         <li value="7" id="i-DON'T-CARE-WHAT">HONestly, i DON'T CARE WHAT he THINKS.</li>
-        <li className="list-none margin-bottom-20">Thành thật mà nói, tớ không quan tâm anh ta nghĩ gì.</li>
+        <li className="list-none margin-bottom-20">Honestly, his opinion doesn't matter to me.</li>
 
         <li value="8" id="i'm-disapPOINTed-with">HONestly, i'm disapPOINTed with the reSULTS.</li>
-        <li className="list-none margin-bottom-20">Thành thật mà nói, tôi cảm thấy thất vọng với kết quả này.</li>
+        <li className="list-none margin-bottom-20">To be honest, I'm upset with the results.</li>
 
         <li value="9" id="i'm-SCARED-of">HONestly, i'm SCARED of the DARK.</li>
-        <li className="list-none margin-bottom-20">Thành thật mà nói, tớ sợ bóng tối.</li>
+        <li className="list-none margin-bottom-20">To tell you the truth, I'm afraid of the dark.</li>
 
         <li value="10" id="i'm-HAPpy-that">HONestly, i'm HAPpy that you're HERE.</li>
-        <li className="list-none margin-bottom-20">Thật lòng mà nói, tớ rất vui vì cậu đã ở đây.</li>
+        <li className="list-none margin-bottom-20">Honestly, it makes me happy that you're here.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh sự chân thật và thẳng thắn trong cách diễn đạt. Chúng thường được sử dụng để tạo ra sự tin tưởng và thể hiện quan điểm cá nhân một cách trung thực.</p>
+      <p>** The phrases above all emphasize honesty and candor in expression. They are often used to build trust and express personal views truthfully.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function HONestly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>HONestly</strong>" thường được đặt ở đầu câu để nhấn mạnh ý nghĩa.</li>
+          <li>"HONestly" is often placed at the beginning of a sentence to emphasize its meaning.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều tình huống khác nhau, từ cuộc trò chuyện hàng ngày đến các bài viết trang trọng.</li>
+          <li className="margin-bottom-20">This word can be used in a variety of situations, from everyday conversations to formal writing.</li>
 
         </ul>
 

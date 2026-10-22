@@ -99,7 +99,7 @@ export default function SVOMPT6(): React.JSX.Element {
 				<p className="example-label">Ví dụ 1</p>
 
 				<p className="example-sentence">
-					<span className="s">I</span> &nbsp;<span className="v">read</span> &nbsp;<span className="o">the book</span> &nbsp;<span className="m">quietly</span> &nbsp;<span className="p">in the library</span> &nbsp;<span className="t">yesterday</span>.
+					<span className="s">I</span> &nbsp;<span className="v">read</span> &nbsp;<span className="o">the book</span> &nbsp;<span className="m">quietly</span> &nbsp;<span className="p">in the library</span> &nbsp;<span className="t">yesterday.</span>
 				</p>
 
 			</div>
@@ -136,7 +136,7 @@ export default function SVOMPT6(): React.JSX.Element {
 				<p className="example-label">Ví dụ 2</p>
 
 				<p className="example-sentence">
-					<span className="s">She</span> &nbsp;<span className="v">sent</span> &nbsp;<span className="o">him a message</span> &nbsp;<span className="m">quickly</span> &nbsp;<span className="p">from her phone</span> &nbsp;<span className="t">this morning</span>.
+					<span className="s">She</span> &nbsp;<span className="v">sent</span> &nbsp;<span className="o">him a message</span> &nbsp;<span className="m">quickly</span> &nbsp;<span className="p">from her phone</span> &nbsp;<span className="t">this morning.</span>
 				</p>
 
 			</div>
@@ -175,7 +175,7 @@ export default function SVOMPT6(): React.JSX.Element {
 				<p className="example-label">Ví dụ 3</p>
 
 				<p className="example-sentence">
-					<span className="t">Yesterday</span>, &nbsp;<span className="s">I</span> &nbsp;<span className="v">read</span> &nbsp;<span className="o">the book</span> &nbsp;<span className="m">quietly</span> &nbsp;<span className="p">in the library</span> &nbsp;.
+					<span className="t">Yesterday,</span> &nbsp;<span className="s">I</span> &nbsp;<span className="v">read</span> &nbsp;<span className="o">the book</span> &nbsp;<span className="m">quietly</span> &nbsp;<span className="p">in the library</span> &nbsp;.
 				</p>
 
 			</div>
