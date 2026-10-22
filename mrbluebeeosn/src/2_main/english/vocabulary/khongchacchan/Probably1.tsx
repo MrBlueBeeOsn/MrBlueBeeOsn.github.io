@@ -63,7 +63,7 @@ export default function PROBably1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng tìm hiểu sâu hơn về từ "<strong>PROBably</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "PROBably."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -73,13 +73,13 @@ export default function PROBably1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                PROBAbly \<Link to="/pronunciation/5-vowel-system">PROB a̛ ly</Link>\ /ˈprɒbəbli/ ⬤• (THREE SYLlables)
+                PROBAbly \<Link to="/pronunciation/5-vowel-system">PROB ly</Link>\ /ˈprɒli/ ⬤• (TWO SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Có lẽ</li>
+            <li>Perhaps</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function PROBably1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>PROBably</strong>" được dùng để diễn tả sự không chắc chắn hoàn toàn nhưng có khả năng cao một sự việc nào đó sẽ xảy ra. Nó thể hiện một mức độ tin tưởng cao hơn "<Link to="/vocabulary/MAYbe-1">MAYbe</Link>" nhưng thấp hơn "<Link to="/vocabulary/CERtainly-1">CERtainly</Link>".</p>
+      <p className="margin-top-30 text-indent-whole">The word "PROBably" is used to express that, while there is some uncertainty, there is a high likelihood that something will happen. It conveys a higher degree of confidence than "<Link to="/vocabulary/MAYbe-1">MAYbe</Link>" but a lower degree than "<Link to="/vocabulary/CERtainly-1">CERtainly</Link>".</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i'll PROBably be HOME by 10.</li>
-          <li className="margin-bottom-20 list-none">Có lẽ tớ sẽ về nhà trước 10 giờ.</li>
+          <li className="margin-bottom-20 list-none">I will likely arrive home by 10 p.m.</li>
 
           <li>she PROBably KNOWS the ANswer.</li>
-          <li className="list-none">Cô ấy có lẽ biết câu trả lời.</li>
+          <li className="list-none">She likely has the answer.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function PROBably1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">it's PROBable that it will RAIN <Link to="/vocabulary/toMORrow-1">toMORrow</Link>.</li>
-          <li className="margin-bottom-20 list-none">Có khả năng là ngày mai sẽ có mưa.</li>
+          <li className="margin-bottom-20 list-none">Rain is likely tomorrow.</li>
 
           <li id="NOUN">the probaBILity of WINning is LOW.</li>
-          <li className="list-none">Xác suất chiến thắng là thấp.</li>
+          <li className="list-none">There's a low chance of winning.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function PROBably1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>it's LIKEly to RAIN.</li>
-          <li className="margin-bottom-20 list-none">Có khả năng sẽ có mưa.</li>
+          <li className="margin-bottom-20 list-none">It is likely that there will be rain.</li>
 
           <li>it's <Link to="/vocabulary/POSsibly-1">Possibly</Link> the BEST soLUtion.</li>
-          <li className="list-none">Đây có lẽ là giải pháp tốt nhất.</li>
+          <li className="list-none">This solution might be the best one.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function PROBably1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> GOing.</li>
-          <li className="margin-bottom-20 list-none">Tớ chắc chắn sẽ đi.</li>
+          <li className="margin-bottom-20 list-none">I am certainly going to attend.</li>
 
           <li>it's unLIKEly that he will COME.</li>
-          <li className="list-none">Khả năng anh ấy sẽ đến là rất thấp.</li>
+          <li className="list-none">It doesn't seem probable that he will come.</li>
 
         </ul>
       
@@ -183,12 +183,12 @@ export default function PROBably1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một đám mây đen trên trời.</p>
+      <p className="text-indent-whole">Imagine a dark cloud in the sky.</p>
 
         <ul className="list-square">
 
           <li>it will PROBably RAIN.</li>
-          <li className="list-none">Có lẽ sẽ có mưa.</li>
+          <li className="list-none">There's a good chance that it will rain.</li>
 
         </ul>
 
@@ -202,12 +202,12 @@ export default function PROBably1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>PROBably</strong>" trong nhiều ngữ cảnh.</p>
+      <p className="text-indent-whole">Create various example sentences using the word "PROBably" in different contexts.</p>
 
         <ul className="list-square">
 
           <li>i'll PROBably EAT DINner at HOME toNIGHT.</li>
-          <li className="list-none">Tối nay tớ có lẽ sẽ ăn tối ở nhà.</li>
+          <li className="list-none">Tonight, I'll probably have dinner at home.</li>
 
         </ul>
 
@@ -221,23 +221,23 @@ export default function PROBably1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hàng ngày.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word frequently in everyday conversations.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">i might GO to the PARTy.</li>
-            <li className="list-none margin-bottom-20">Có thể tớ sẽ đi dự tiệc.</li>
+            <li className="list-none margin-bottom-20">I'm considering going to the party.</li>
 
             <li value="2">i'll PROBably GO to the PARTy.</li>
-            <li className="list-none margin-bottom-20">Có lẽ tớ sẽ đi dự bữa tiệc.</li>
+            <li className="list-none margin-bottom-20">I'll likely attend the party.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>PROBably</strong>" để <span className="highlight-255-padding-0-4">thể hiện khả năng đi</span> dự tiệc <span className="highlight-255-padding-0-4">cao</span> hơn so với câu đầu sử dụng "might".</p>
+        <p className="margin-y-10">The difference: The second sentence uses "PROBably" to <span className="highlight-255-padding-0-4">express a higher likelihood of attending the party</span> than the first sentence, which uses "might."</p>
 
       </div>
 
@@ -253,9 +253,9 @@ export default function PROBably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ chắc chắn: "<strong>PROBably</strong>" thể hiện một mức độ chắc chắn trung bình, không quá chắc chắn nhưng cũng không quá mơ hồ.</li>
+          <li>Degree of certainty: "PROBably" expresses a moderate degree of certainty—neither too certain nor too vague.</li>
 
-          <li className="margin-bottom-20">Dự đoán: Nó thường được dùng để dự đoán về tương lai hoặc để diễn tả sự không chắc chắn về một thông tin nào đó.</li>
+          <li className="margin-bottom-20">Prediction: It is often used to make predictions about the future or to express uncertainty about a particular piece of information.</li>
 
         </ul>
 

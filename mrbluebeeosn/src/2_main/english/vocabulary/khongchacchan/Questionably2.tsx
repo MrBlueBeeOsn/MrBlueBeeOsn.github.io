@@ -75,7 +75,7 @@ export default function QUESTionably2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>QUESTionably</strong>" (đáng nghi ngờ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "QUESTionably" (questionable) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function QUESTionably2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "một cách đáng ngờ", thường được dùng để mô tả những gì gây nghi ngờ, không chắc chắn hoặc không đáng tin cậy.
+            &nbsp;in English means "questionably," and is often used to describe something that is doubtful, uncertain, or unreliable.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function QUESTionably2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="ETHical">the COMpany's PRACtices were QUESTionably ETHical, RAIsing conCERNS among conSUmers.</li>
-        <li className="list-none margin-bottom-20">Các hoạt động của công ty này bị nghi ngờ về mặt đạo đức, gây lo ngại cho người tiêu dùng.</li>
+        <li className="list-none margin-bottom-20">Some people were worried about the ethics of the company's business practices.</li>
 
         <li value="2" id="LEGAL">the DEAL was QUESTionably LEGAL, and could have SERious CONsequences.</li>
-        <li className="list-none margin-bottom-20">Thỏa thuận này có tính hợp pháp đáng nghi vấn và có thể dẫn đến những hậu quả nghiêm trọng.</li>
+        <li className="list-none margin-bottom-20">The deal was not very clear, and it could have bad results.</li>
 
         <li value="3" id="SAFE">the OLD BUILDing was QUESTionably SAFE, and NEEDed to be RENovated.</li>
-        <li className="list-none margin-bottom-20">Tòa nhà cũ này có mức độ an toàn đáng nghi vấn và cần phải được sửa chữa.</li>
+        <li className="list-none margin-bottom-20">The old building might have been safe, but it needed to be fixed up.</li>
 
         <li value="4" id="TRUE">his STORy SEEMED QUESTionably TRUE, and i had my DOUBTS.</li>
-        <li className="list-none margin-bottom-20">Câu chuyện của anh ấy có vẻ không chắc chắn là sự thật, và tôi đã có những nghi ngờ.</li>
+        <li className="list-none margin-bottom-20">I had my doubts about the truth of the story.</li>
 
         <li value="5" id="MOtivated">her SUDden CHANGE of HEART was QUESTionably MOtivated, and i WONdered WHAT she was REally UP to.</li>
-        <li className="list-none margin-bottom-20">Sự thay đổi đột ngột trong suy nghĩ của cô ấy có động cơ đáng nghi ngờ, và tôi tự hỏi cô ấy thực sự đang có ý đồ gì.</li>
+        <li className="list-none margin-bottom-20">She suddenly changed her mind for some reason, and I was curious about her true intentions.</li>
 
         <li value="6" id="obTAINED-and-could-be-inadMISsible-in">the EVidence was QUESTionably obTAINED and could be inadMISsible in COURT.</li>
-        <li className="list-none margin-bottom-20">Bằng chứng này được thu thập theo cách gây nghi vấn và có thể không được chấp nhận tại tòa án.</li>
+        <li className="list-none margin-bottom-20">The evidence may be questionable and could not be used in court.</li>
 
         <li value="7" id="QUALified-for-the">he was QUESTionably QUALified for the JOB, and <strong>man</strong>y PEOple DOUBTed his aBILities.</li>
-        <li className="list-none margin-bottom-20">Anh ta có trình độ để đảm nhận công việc này hay không vẫn còn là điều đáng nghi vấn, và nhiều người đã nghi ngờ khả năng của anh ta.</li>
+        <li className="list-none margin-bottom-20">He didn't have the right qualifications for the job, and many people doubted that he was able to do the job well.</li>
 
         <li value="8" id="RELevant-to">the inforMAtion preSENTed was QUESTionably RELevant to the CASE.</li>
-        <li className="list-none margin-bottom-20">thông tin được trình bày có mức độ liên quan đến vụ án còn đáng nghi vấn.</li>
+        <li className="list-none margin-bottom-20">The information that was given was not very relevant to the case.</li>
 
         <li value="9" id="FAIR">the deCISion was QUESTionably FAIR, and <strong>man</strong>y PEOple FELT they were TREATed unFAIRly.</li>
-        <li className="list-none margin-bottom-20">Quyết định đó có phần đáng nghi ngờ về tính công bằng, và nhiều người cảm thấy mình bị đối xử bất công.</li>
+        <li className="list-none margin-bottom-20">The decision was unfair, and many people felt they were treated unjustly.</li>
 
         <li value="10" id="HONest">his explaNAtion SEEMED QUESTionably HONest, and i DIDN'T beLIEVE him.</li>
-        <li className="list-none margin-bottom-20">Lời giải thích của anh ta có vẻ không thực sự trung thực, và tôi đã không tin anh ta.</li>
+        <li className="list-none margin-bottom-20">He didn't seem very honest when he was explaining things. I didn't believe what he was telling me.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh sự nghi ngờ, không chắc chắn hoặc thiếu tin tưởng vào một điều gì đó. Chúng thường được sử dụng để mô tả những tình huống, hành động hoặc thông tin gây nghi vấn và cần được kiểm chứng kỹ lưỡng hơn.</p>
+      <p>** All of the above phrases emphasize doubt, uncertainty, or a lack of trust in something. They are often used to describe situations, actions, or information that raise questions and require further verification.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function QUESTionably2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>QUESTionably</strong>" thường được đặt trước ADjective để nhấn mạnh ý nghĩa.</li>
+          <li>"QUESTionably" is often placed before an adjective to emphasize its meaning.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết hoặc nói để tạo ra một hiệu ứng nghi ngờ và cảnh giác.</li>
+          <li className="margin-bottom-20">This word is commonly used in written or spoken language to create a sense of doubt and caution.</li>
 
         </ul>
 

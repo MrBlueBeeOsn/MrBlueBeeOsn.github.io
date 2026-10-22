@@ -67,7 +67,7 @@ export default function QUESTionably1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>QUESTionably</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "QUESTionably."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -83,7 +83,7 @@ export default function QUESTionably1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Đáng nghi ngờ</li>
+            <li>Suspicious</li>
 
           </ul>
 
@@ -95,17 +95,17 @@ export default function QUESTionably1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>QUESTionably</strong>" được sử dụng để diễn tả một điều gì đó không chắc chắn, gây nghi ngờ hoặc có thể không đúng sự thật. Nó thường được dùng để thể hiện sự hoài nghi hoặc không đồng ý về một vấn đề nào đó.</p>
+      <p className="margin-top-30 text-indent-whole">The word "QUESTionably" is used to describe something that is uncertain, questionable, or possibly untrue. It is often used to express skepticism or disagreement regarding a particular issue.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">his STORy SOUNDS QUESTionably TRUE.</li>
-          <li className="margin-bottom-20 list-none">Câu chuyện của anh ta nghe có vẻ đáng nghi ngờ về tính xác thực.</li>
+          <li className="margin-bottom-20 list-none">It's unclear if his story is true.</li>
 
           <li>the DAta is QUESTionably ACcurate.</li>
-          <li className="list-none">Tính chính xác của dữ liệu này còn gây nghi vấn.</li>
+          <li className="list-none">The information might not be correct.</li>
 
         </ul>
 
@@ -122,13 +122,13 @@ export default function QUESTionably1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">his ACTions are QUESTionable.</li>
-          <li className="list-none">Hành động của anh ta thật đáng nghi ngờ.</li>
+          <li className="margin-bottom-20 list-none">People have different opinions about what he does.</li>
           
           <li id="VERB">i QUESTion his MOtives.</li>
-          <li className="margin-bottom-20 list-none">Tôi nghi ngờ động cơ của anh ta.</li>
+          <li className="margin-bottom-20 list-none">I want to know why he did it.</li>
 
           <li id="NOUN">i have a QUESTion for you.</li>
-          <li className="margin-bottom-20 list-none">Tôi có một câu hỏi muốn hỏi bạn.</li>
+          <li className="list-none">I want to ask you something.</li>
 
         </ul>
 
@@ -145,10 +145,10 @@ export default function QUESTionably1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he LOOKED at me DOUBTfully.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy nhìn tôi với vẻ hoài nghi.</li>
+          <li className="margin-bottom-20 list-none">He looked at me as if he didn't believe me.</li>
 
           <li>she GLANCED at him susPICiously.</li>
-          <li className="list-none">Cô liếc nhìn anh ta với ánh mắt nghi ngờ.</li>
+          <li className="list-none">She looked at him with a doubtful expression.</li>
 
         </ul>
 
@@ -167,10 +167,10 @@ export default function QUESTionably1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> KNOW the ANswer.</li>
-          <li className="margin-bottom-20 list-none">Tôi chắc chắn biết câu trả lời.</li>
+          <li className="margin-bottom-20 list-none">I know exactly what the answer is.</li>
 
           <li><Link to="/vocabulary/CERtainly-1">CERtainly</Link>, i will HELP you.</li>
-          <li className="list-none">Chắc chắn rồi, tôi sẽ giúp bạn.</li>
+          <li className="list-none">I'll definitely be there to help.</li>
 
         </ul>
       
@@ -190,12 +190,12 @@ export default function QUESTionably1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một dấu chấm hỏi lớn hoặc một biểu tượng nghi ngờ.</p>
+      <p className="text-indent-whole">Imagine a big question mark or a symbol of doubt.</p>
 
         <ul className="list-square">
 
           <li>the QUALity of the PRODuct is QUESTionably HIGH.</li>
-          <li className="list-none">Chất lượng của sản phẩm này có vẻ cao một cách đáng ngờ.</li>
+          <li className="list-none">The product's quality is not very good.</li>
 
         </ul>
 
@@ -209,12 +209,12 @@ export default function QUESTionably1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến các tình huống gây nghi ngờ.</p>
+      <p className="text-indent-whole">Create sentences related to suspicious situations.</p>
 
         <ul className="list-square">
 
           <li>the EVidence is QUESTionably reLIable.</li>
-          <li className="list-none">Tính đáng tin cậy của bằng chứng này còn đáng nghi ngờ.</li>
+          <li className="list-none">The evidence might not be completely trustworthy.</li>
 
         </ul>
 
@@ -235,16 +235,16 @@ export default function QUESTionably1(): React.JSX.Element {
           <ol>
 
             <li value="1">he is a GOOD PERson.</li>
-            <li className="list-none margin-bottom-20">Anh ấy là một người tốt.</li>
+            <li className="list-none margin-bottom-20">He's a nice guy.</li>
 
             <li value="2">his MOtives are QUESTionably GOOD.</li>
-            <li className="list-none margin-bottom-20">Động cơ của anh ta có vẻ không thực sự trong sáng.</li>
+            <li className="list-none margin-bottom-20">We can't say for sure that his reasons are good.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">tạo ra sự nghi ngờ về ĐỘNG</span> của người đó, trong khi câu đầu tiên khẳng định một cách chắc chắn.</p>
+        <p className="margin-y-10">The difference: <span className="highlight-255-padding-0-4">The second sentence casts doubt on that person’s INTENT,</span> while the first sentence states it with certainty.</p>
 
       </div>
 
@@ -260,9 +260,9 @@ export default function QUESTionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tạo sự hoài nghi: Tạo ra một cảm giác hoài nghi hoặc không tin tưởng.</li>
+          <li>Create skepticism: To instill a sense of skepticism or distrust.</li>
 
-          <li className="margin-bottom-20">Không chắc chắn: Thể hiện sự không chắc chắn về tính xác thực hoặc độ tin cậy của một điều gì đó.</li>
+          <li className="margin-bottom-20">Uncertainty: To express uncertainty about the authenticity or reliability of something.</li>
 
         </ul>
 

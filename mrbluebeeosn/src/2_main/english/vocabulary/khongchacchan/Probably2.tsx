@@ -75,7 +75,7 @@ export default function PROBably2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>PROBably</strong>" (có lẽ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "PROBably" (probably) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -85,11 +85,11 @@ export default function PROBably2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              PROBably \<Link to="/pronunciation/5-vowel-system">PROB a̛ ly</Link>\ /ˈprɒbli/ ⬤• (THREE SYLlables)
+              PROBably \<Link to="/pronunciation/5-vowel-system">PROB ly</Link>\ /ˈprɒbli/ ⬤• (TWO SYLlables)
               
             </span>
               
-            &nbsp;là một ADverb chỉ khả năng, thường được dùng để diễn tả sự không chắc chắn hoàn toàn nhưng có khả năng xảy ra cao.
+            &nbsp;is an adverb of probability, often used to express a situation that is not entirely certain but highly likely to occur.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function PROBably2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="the-BEST-RESTAUrant-in">THIS is PROBably the BEST RESTAUrant in TOWN.</li>
-        <li className="list-none margin-bottom-20">Đây có lẽ là nhà hàng tốt nhất trong thành phố.</li>
+        <li className="list-none margin-bottom-20">This restaurant is probably the best one in the city.</li>
 
         <li value="2" id="will-NOT-be-ABle-to-MAKE-to">i PROBably will NOT be ABle to MAKE it to the PARTy.</li>
-        <li className="list-none margin-bottom-20">Có lẽ tớ sẽ không thể đến dự bữa tiệc được.</li>
+        <li className="list-none margin-bottom-20">I will probably not be able to attend the party.</li>
 
         <li value="3" id="the-MOST">the MOST PROBably, she will arRIVE LATE.</li>
-        <li className="list-none margin-bottom-20">Rất có thể, cô ấy sẽ đến muộn.</li>
+        <li className="list-none margin-bottom-20">It's most likely that she'll arrive late.</li>
 
         <li value="4" id="GO-to-the">i will PROBably GO to the MOvies toMORrow.</li>
-        <li className="list-none margin-bottom-20">Có lẽ mai tớ sẽ đi xem phim.</li>
+        <li className="list-none margin-bottom-20">I'm thinking of going to the movies to watch Morro tomorrow.</li>
 
         <li value="5" id="due-to-the-TRAFfic">the deLAY was PROBably due to the TRAFfic.</li>
-        <li className="list-none margin-bottom-20">Sự chậm trễ có lẽ là do tình trạng giao thông.</li>
+        <li className="list-none margin-bottom-20">The delay was likely because of traffic.</li>
 
         <li value="6" id="the-BEST-deCISion">it is PROBably the BEST deCISion you can MAKE.</li>
-        <li className="list-none margin-bottom-20">Đó có lẽ là quyết định tốt nhất mà bạn có thể đưa ra.</li>
+        <li className="list-none margin-bottom-20">This is likely the best decision.</li>
 
         <li value="7" id="the-REAson-is-that">PROBably the REAson is that he's TIred.</li>
-        <li className="list-none margin-bottom-20">Có lẽ lý do là vì anh ấy mệt rồi.</li>
+        <li className="list-none margin-bottom-20">He is probably tired, and that is why...</li>
 
         <li value="8" id="the-BEST-WAY-is">PROBably the BEST WAY is to CALL him FIRST.</li>
-        <li className="list-none margin-bottom-20">Có lẽ cách tốt nhất là gọi cho anh ấy trước.</li>
+        <li className="list-none margin-bottom-20">The best way to do this is to call him first.</li>
 
         <li value="9" id="upSET-because">she's PROBably upSET be<strong>cause</strong> he DIDN'T CALL.</li>
-        <li className="list-none margin-bottom-20">Có lẽ cô ấy đang buồn vì anh ấy không gọi điện.</li>
+        <li className="list-none margin-bottom-20">She must be upset because he didn't call.</li>
 
         <li value="10" id="the-MOST-DIFficult-TASK">THIS is PROBably the MOST DIFficult TASK i've ever HAD.</li>
-        <li className="list-none margin-bottom-20">Đây có lẽ là nhiệm vụ khó nhất mà tôi từng phải thực hiện.</li>
+        <li className="list-none margin-bottom-20">This is probably the hardest thing I've ever had to do.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều mang ý nghĩa không chắc chắn hoàn toàn nhưng có khả năng xảy ra cao. Chúng thường được sử dụng để diễn tả suy đoán, dự đoán hoặc đưa ra những nhận định chủ quan.</p>
+      <p>** The phrases above all convey a sense of uncertainty but imply a high likelihood of occurrence. They are often used to express speculation, predictions, or subjective opinions.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function PROBably2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>PROBably</strong>" thường đứng ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
+          <li>"PROBably" is often placed at the beginning of a sentence or before an action to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "LIKEly", "<Link to="/vocabulary/POSsibly-1">POSsibly</Link>", "<Link to="/vocabulary/perHAPS-1">perHAPS</Link>" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">This word can be replaced with synonyms such as "LIKEly," "<Link to="/vocabulary/POSsibly-1">POSsibly</Link>", or "<Link to="/vocabulary/perHAPS-1">perHAPS</Link>" to add variety to your writing style.</li>
 
         </ul>
 
