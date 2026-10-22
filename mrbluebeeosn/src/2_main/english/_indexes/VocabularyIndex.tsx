@@ -52,19 +52,27 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/fruits">FRUITS</Link>
+							<div className="li-content">
+								<Link to="/vocabulary/fruits">FRUITS</Link>	
+							</div>
 						</li>
 
 						<li>
-							<Link to="/vocabulary/vegetables">VEGETables</Link> 	
+							<div className="li-content">
+								<Link to="/vocabulary/vegetables">VEGETables</Link> 	
+							</div>
 						</li>
 
 						<li>
-							<Link to="/vocabulary/vietnamese-fruits">VietnaMESE FRUITS</Link> 	
+							<div className="li-content">
+								<Link to="/vocabulary/vietnamese-fruits">VietnaMESE FRUITS</Link>
+							</div>
 						</li>
 
 						<li>
-							<Link to="/vocabulary/vietnamese-vegetables">VietnaMESE VEGETables</Link> 	
+							<div className="li-content">
+								<Link to="/vocabulary/vietnamese-vegetables">VietnaMESE VEGETables</Link> 
+							</div>
 						</li>
 
 					</ul>
