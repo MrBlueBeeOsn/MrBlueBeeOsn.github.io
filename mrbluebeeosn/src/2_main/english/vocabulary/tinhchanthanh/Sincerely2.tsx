@@ -15,7 +15,7 @@ export default function sinCEREly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-chan-thanh"><mark className="highlight-tertiary-padding-4-8">ADverbs: chân thành</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-sinCEREly"><mark className="highlight-tertiary-padding-4-8">sinCEREly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">sinCEREly
         <sup>
@@ -75,7 +75,7 @@ export default function sinCEREly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>sinCEREly</strong>" (thành thật) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “sinCEREly” (sincerely) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function sinCEREly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được sử dụng để nhấn mạnh sự chân thành, thật lòng trong một hành động, lời nói hoặc cảm xúc.
+            &nbsp;is often used to emphasize sincerity and genuine feeling in an action, statement, or emotion.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function sinCEREly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="aPOLogize-for">i sinCEREly aPOLogize for my misTAKE.</li>
-        <li className="list-none margin-bottom-20">Tôi chân thành xin lỗi về sai lầm của mình.</li>
+        <li className="list-none margin-bottom-20">I am truly sorry for the mistake I made.</li>
 
         <li value="2" id="apPREciate">i sinCEREly apPREciate your HELP.</li>
-        <li className="list-none margin-bottom-20">Tôi chân thành cảm ơn sự giúp đỡ của bạn.</li>
+        <li className="list-none margin-bottom-20">Thank you for your help.</li>
 
         <li value="3" id="HOPE-that">i sinCEREly HOPE that everything GOES WELL for you.</li>
-        <li className="list-none margin-bottom-20">Tôi thật lòng mong rằng mọi việc sẽ diễn ra suôn sẻ với bạn.</li>
+        <li className="list-none margin-bottom-20">I hope things go well for you.</li>
 
         <li value="4" id="YOURS">sinCEREly YOURS.</li>
-        <li className="list-none margin-bottom-20">Trân trọng.</li>
+        <li className="list-none margin-bottom-20">This is all for you.</li>
 
         <li value="5" id="beLIEVE-in-the-POWer-of">i sinCEREly beLIEVE in the POWer of LOVE.</li>
-        <li className="list-none margin-bottom-20">Tôi thật sự tin tưởng vào sức mạnh của tình yêu.</li>
+        <li className="list-none margin-bottom-20">I truly believe that love is powerful.</li>
 
         <li value="6" id="reGRET-NOT-BEing-ABle-to-atTEND">i sinCEREly reGRET NOT BEing ABle to atTEND your WEDding.</li>
-        <li className="list-none margin-bottom-20">Tôi thực sự rất tiếc vì không thể tham dự đám cưới của các bạn.</li>
+        <li className="list-none margin-bottom-20">I'm really sad that I can't come to your wedding.</li>
 
         <li value="7" id="THANK-you-for">i sinCEREly THANK you for your supPORT.</li>
-        <li className="list-none margin-bottom-20">Tôi chân thành cảm ơn sự ủng hộ của các bạn.</li>
+        <li className="list-none margin-bottom-20">I am very grateful for your help.</li>
 
         <li value="8" id="WISH-you-all-the-BEST-in">i sinCEREly WISH you all the BEST in your NEW JOB.</li>
-        <li className="list-none margin-bottom-20">Tôi chân thành chúc bạn mọi điều tốt đẹp nhất trong công việc mới.</li>
+        <li className="list-none margin-bottom-20">Congratulations on your new job! I hope it goes well.</li>
 
         <li value="9" id="YOURS-FAITHfully">sinCEREly YOURS, FAITHfully.</li>
-        <li className="list-none margin-bottom-20">Thân ái và chân thành, với lòng trung thành.</li>
+        <li className="list-none margin-bottom-20">I am your loyal and devoted servant.</li>
 
         <li value="10" id="YOURS-with-LOVE">sinCEREly YOURS, with LOVE.</li>
-        <li className="list-none margin-bottom-20">Thân ái và chân thành, với tất cả tình yêu.</li>
+        <li className="list-none margin-bottom-20">I'm sending you my love.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh sự chân thành, thật lòng trong giao tiếp. Chúng thường được sử dụng trong các tình huống trang trọng hoặc khi muốn thể hiện sự tôn trọng và quan tâm đến người khác.</p>
+      <p>** All of the above phrases are used to emphasize sincerity and honesty in communication. They are often used in formal situations or when expressing respect and concern for others.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function sinCEREly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>sinCEREly</strong>" thường được đặt ở đầu hoặc cuối câu.</li>
+          <li>"sinCEREly" is usually placed at the beginning or end of a sentence.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết trang trọng hơn là văn nói hàng ngày.</li>
+          <li className="margin-bottom-20">This word is typically used in formal writing rather than in everyday speech.</li>
 
         </ul>
 

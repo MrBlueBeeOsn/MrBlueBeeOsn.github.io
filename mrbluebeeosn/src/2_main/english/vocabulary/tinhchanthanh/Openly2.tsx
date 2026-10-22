@@ -15,7 +15,7 @@ export default function Openly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-chan-thanh"><mark className="highlight-tertiary-padding-4-8">ADverbs: chân thành</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-sinCEREly"><mark className="highlight-tertiary-padding-4-8">sinCEREly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">Openly
         <sup>
@@ -75,7 +75,7 @@ export default function Openly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>Openly</strong>" (công khai) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "Openly" and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function Openly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "một cách công khai", thường được dùng để mô tả hành động, thái độ hoặc thông tin được chia sẻ một cách rõ ràng, không giấu giếm.
+            &nbsp;in English means "publicly"; it is often used to describe actions, attitudes, or information that are shared openly and without concealment.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function Openly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="disCUSSED-at">the ISsue was Openly disCUSSED at the MEETing.</li>
-        <li className="list-none margin-bottom-20">Vấn đề này đã được thảo luận công khai tại cuộc họp.</li>
+        <li className="list-none margin-bottom-20">People talked about the issue at the meeting.</li>
 
         <li value="2" id="CRITicized-for">the poliTICian was Openly CRITicized for his POLicies.</li>
-        <li className="list-none margin-bottom-20">Vị chính trị gia này đã bị chỉ trích công khai vì các chính sách của mình.</li>
+        <li className="list-none margin-bottom-20">People did not like the politician's policies, and they openly criticized him for them.</li>
 
         <li value="3" id="adMIred-for">the ATHlete was Openly adMIred for his aCHIEVEments.</li>
-        <li className="list-none margin-bottom-20">Vận động viên này đã được mọi người ngưỡng mộ công khai vì những thành tích của anh ấy.</li>
+        <li className="list-none margin-bottom-20">People admired the athlete for what he had achieved.</li>
 
         <li value="4" id="supPORTed-by">the CAUSE was Openly supPORTed by <strong>man</strong>y ceLEBrities.</li>
-        <li className="list-none margin-bottom-20">Sự nghiệp này đã nhận được sự ủng hộ công khai từ nhiều người nổi tiếng.</li>
+        <li className="list-none margin-bottom-20">Many celebrities openly showed their support for the cause.</li>
 
         <li value="5" id="QUESTioned-by">the THEORy was Openly QUESTioned by <strong>man</strong>y SCIentists.</li>
-        <li className="list-none margin-bottom-20">Lý thuyết này đã bị nhiều nhà khoa học công khai đặt câu hỏi.</li>
+        <li className="list-none margin-bottom-20">Many scientists were not sure about the theory.</li>
 
         <li value="6" id="opPOSED-by">the PLAN was Openly opPOSED by the LOcal RESidents.</li>
-        <li className="list-none margin-bottom-20">Kế hoạch này đã vấp phải sự phản đối công khai từ phía người dân địa phương.</li>
+        <li className="list-none margin-bottom-20">The local residents were openly against the plan.</li>
 
         <li value="7" id="exPRESSED-in">their FEELings were Openly exPRESSED in the LETter.</li>
-        <li className="list-none margin-bottom-20">Cảm xúc của họ đã được bày tỏ một cách cởi mở trong bức thư.</li>
+        <li className="list-none margin-bottom-20">They wrote a letter where they shared their feelings.</li>
 
         <li value="8" id="acKNOWledged-by">his contriBUtions to the PROJect were Openly acKNOWledged by the TEAM.</li>
-        <li className="list-none margin-bottom-20">Những đóng góp của anh ấy cho dự án đã được cả nhóm công khai ghi nhận.</li>
+        <li className="list-none margin-bottom-20">The team was open about what he had contributed to the project.</li>
 
         <li value="9" id="deFIED">the proTESters Openly deFIED the GOVernment's ORders.</li>
-        <li className="list-none margin-bottom-20">Những người biểu tình đã công khai bất tuân lệnh của chính phủ.</li>
+        <li className="list-none margin-bottom-20">The protesters clearly disobeyed the government's orders.</li>
 
         <li value="10" id="WELcomed-by">the NEW iDEa was Openly WELcomed by the TEAM.</li>
-        <li className="list-none margin-bottom-20">Ý tưởng mới này đã được cả đội ngũ nhiệt liệt hoan nghênh.</li>
+        <li className="list-none margin-bottom-20">The team was happy about the new idea.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính công khai, rõ ràng và không che giấu của một hành động, thái độ hoặc thông tin. Chúng thường được sử dụng để mô tả những tình huống mà mọi người có thể dễ dàng biết đến và đánh giá.</p>
+      <p>** These phrases all emphasize the openness, clarity, and transparency of an action, attitude, or piece of information. They are often used to describe situations that people can easily become aware of and evaluate.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function Openly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Openly</strong>" thường được đặt trước hành động quá khứ phân từ để nhấn mạnh ý nghĩa.</li>
+          <li>"Openly" is often placed before a past participle to emphasize its meaning.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết hoặc nói để tạo ra một hiệu ứng minh bạch và rõ ràng.</li>
+          <li className="margin-bottom-20">This word is commonly used in both written and spoken language to create a sense of transparency and clarity.</li>
 
         </ul>
 
