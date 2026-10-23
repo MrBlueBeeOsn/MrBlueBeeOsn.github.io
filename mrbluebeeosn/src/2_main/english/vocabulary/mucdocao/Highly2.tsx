@@ -75,7 +75,7 @@ export default function HIGHly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>HIGHly</strong>" (rất cao) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “HIGHly” (very high) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function HIGHly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb dùng để nhấn mạnh mức độ cao của một ADjective hoặc ADverb. Nó thường được sử dụng để diễn tả một điều gì đó ở mức độ rất lớn, rất tích cực hoặc rất tiêu cực.
+            &nbsp;is an adverb used to emphasize the high degree of an adjective or adverb. It is often used to describe something as being to a very high degree—whether very positive or very negative.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function HIGHly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="recomMENDed-for">this BOOK is HIGHly recomMENDed for <strong>an</strong>yone INTERested in HISTORy.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này được khuyên đọc nhiệt tình cho bất kỳ ai quan tâm đến lịch sử.</li>
+        <li className="list-none margin-bottom-20">If you like history, you'll love this book.</li>
 
         <li value="2" id="SKILLED">the STUdents were HIGHly SKILLED SURgeon.</li>
-        <li className="list-none margin-bottom-20">Các sinh viên là những bác sĩ phẫu thuật có trình độ rất cao.</li>
+        <li className="list-none margin-bottom-20">The students were highly skilled surgeons, meaning they had the ability to successfully perform surgical operations.</li>
 
         <li value="3" id="MOtivated-to-DO-on">the STUdents were HIGHly MOtivated to DO WELL on the eXAM.</li>
-        <li className="list-none margin-bottom-20">Các học sinh đã rất hăng hái để đạt kết quả tốt trong kỳ thi.</li>
+        <li className="list-none margin-bottom-20">The students were very excited to do well on the test.</li>
 
         <li value="4" id="efFECtive-in">his NEW MEDicine is HIGHly efFECtive in TREATing the diSEASE.</li>
-        <li className="list-none margin-bottom-20">Loại thuốc mới này có hiệu quả rất cao trong việc điều trị căn bệnh này.</li>
+        <li className="list-none margin-bottom-20">His new medicine works really well to treat the disease.</li>
 
         <li value="5" id="comPETitive">the JOB MARket is HIGHly comPETitive.</li>
-        <li className="list-none margin-bottom-20">Thị trường việc làm có tính cạnh tranh rất cao.</li>
+        <li className="list-none margin-bottom-20">There's a lot of competition in the job market.</li>
 
         <li value="6" id="unLIKEly-that">it is HIGHly unLIKEly that he will WIN the LOTtery.</li>
-        <li className="list-none margin-bottom-20">Khả năng anh ấy trúng xổ số là rất thấp.</li>
+        <li className="list-none margin-bottom-20">He probably won't win the lottery.</li>
 
         <li value="7" id="conTAgious">the FLU is HIGHly conTAgious.</li>
-        <li className="list-none margin-bottom-20">Bệnh cúm có khả năng lây lan rất cao.</li>
+        <li className="list-none margin-bottom-20">The flu is a very dangerous disease.</li>
 
         <li value="8" id="PRAISED-by-the">the MOvies was HIGHly PRAISED by the CRITics.</li>
-        <li className="list-none margin-bottom-20">Bộ phim này đã nhận được rất nhiều lời khen ngợi từ các nhà phê bình.</li>
+        <li className="list-none margin-bottom-20">The movie received a lot of praise from critics.</li>
 
         <li value="9" id="VISible-from">the SIGN is HIGHly VISible from the HIGHway.</li>
-        <li className="list-none margin-bottom-20">Biển báo này rất dễ nhìn thấy từ đường cao tốc.</li>
+        <li className="list-none margin-bottom-20">You can see the sign from the highway.</li>
 
         <li value="10" id="soPHISticated">the techNOLogy USED in this PRODuct is HIGHly soPHISticated.</li>
-        <li className="list-none margin-bottom-20">Công nghệ được sử dụng trong sản phẩm này vô cùng tinh vi.</li>
+        <li className="list-none margin-bottom-20">This product uses cutting-edge technology.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh mức độ cao của một tính chất hoặc đặc điểm. Chúng thường được sử dụng để tạo ấn tượng mạnh hoặc để nhấn mạnh một điểm quan trọng.</p>
+      <p>** The phrases above all emphasize the high degree of a quality or characteristic. They are often used to make a strong impression or to highlight an important point.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function HIGHly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>HIGHly</strong>" thường đứng trước ADjective hoặc ADverb để bổ nghĩa.</li>
+          <li>"HIGHly" is typically used before an adjective or adverb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/exTREMEly-1">exTREMEly</Link>", "<Link to="/vocabulary/VERy-1">VERy</Link>", "reMARKably" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">This word can be replaced with synonyms such as "<Link to="/vocabulary/exTREMEly-1">exTREMEly</Link>", "<Link to="/vocabulary/VERy-1">VERy</Link>", or "reMARKably" to add variety to your writing style.</li>
 
         </ul>
 

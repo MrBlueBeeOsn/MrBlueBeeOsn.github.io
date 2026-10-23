@@ -75,7 +75,7 @@ export default function exTREMEly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>exTREMEly</strong>" (cực kỳ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "exTREMEly" and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function exTREMEly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb dùng để nhấn mạnh mức độ cao nhất của một ADjective hoặc ADverb. Nó thường được sử dụng để diễn tả cảm xúc, tình huống hoặc sự vật vượt quá mức bình thường.
+            &nbsp;is an adverb used to emphasize the highest degree of an adjective or adverb. It is often used to describe emotions, situations, or things that go beyond the norm.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function exTREMEly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="HAPpy-to-SEE">she was exTREMEly HAPpy to SEE her FAMILy.</li>
-        <li className="list-none margin-bottom-20">Cô ấy vô cùng hạnh phúc khi được gặp lại gia đình mình.</li>
+        <li className="list-none margin-bottom-20">She was thrilled to see her family.</li>
 
         <li value="2" id="TIred"><strong>af</strong>ter WORKing all NIGHT, he was exTREMEly TIred.</li>
-        <li className="list-none margin-bottom-20">Sau khi làm việc suốt cả đêm, anh ấy cảm thấy vô cùng mệt mỏi.</li>
+        <li className="list-none margin-bottom-20">He had worked all night, and was very tired.</li>
 
         <li value="3" id="DIFficult">the eXAM was exTREMEly DIFficult.</li>
-        <li className="list-none margin-bottom-20">Bài thi đó cực kỳ khó.</li>
+        <li className="list-none margin-bottom-20">The exam was really hard.</li>
 
         <li value="4" id="DANgerous-to-SWIM-in">it's exTREMEly DANgerous to SWIM in this RIVer.</li>
-        <li className="list-none margin-bottom-20">Việc bơi lội trên con sông này cực kỳ nguy hiểm.</li>
+        <li className="list-none margin-bottom-20">Swimming in this river is very dangerous.</li>
 
         <li value="5" id="TALented">she is an exTREMEly TALented muSICian.</li>
-        <li className="list-none margin-bottom-20">Cô ấy là một nghệ sĩ âm nhạc cực kỳ tài năng.</li>
+        <li className="list-none margin-bottom-20">She has a lot of talent for making music.</li>
 
         <li value="6" id="BEAUtiful">the SUNset was exTREMEly BEAUtiful.</li>
-        <li className="list-none margin-bottom-20">Hoàng hôn thật sự vô cùng đẹp.</li>
+        <li className="list-none margin-bottom-20">It was a very beautiful sunset.</li>
 
         <li value="7" id="RICH">he is an exTREMEly RICH BUSINessman.</li>
-        <li className="list-none margin-bottom-20">Ông ấy là một doanh nhân cực kỳ giàu có.</li>
+        <li className="list-none margin-bottom-20">He is a very wealthy businessman.</li>
 
         <li value="8" id="COLD-outSIDE-toDAY">it's exTREMEly COLD outSIDE toDAY.</li>
-        <li className="list-none margin-bottom-20">Hôm nay bên ngoài lạnh cực kỳ.</li>
+        <li className="list-none margin-bottom-20">Today, it is very cold outside.</li>
 
         <li value="9" id="HUNGry"><strong>af</strong>ter PLAYing SPORTS all DAY, i was exTREMEly HUNGry.</li>
-        <li className="list-none margin-bottom-20">Sau khi chơi thể thao cả ngày, tớ đói cồn cào.</li>
+        <li className="list-none margin-bottom-20">I was extremely hungry after playing sports all day.</li>
 
         <li value="10" id="ANGry-when">she was exTREMEly ANGry when she HEARD the NEWS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã cực kỳ tức giận khi nghe tin đó.</li>
+        <li className="list-none margin-bottom-20">She was very angry when she found out.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh mức độ cao nhất của một ADjective hoặc ADverb, tạo nên một hiệu ứng nhấn mạnh và tăng cường cảm xúc.</p>
+      <p>** All of the above phrases are used to emphasize the highest degree of an adjective or adverb, creating an emphatic effect and heightening emotion.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function exTREMEly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>exTREMEly</strong>" thường được đặt trước ADjective hoặc ADverb để bổ nghĩa.</li>
+          <li>"exTREMEly" is often placed before an adjective or adverb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
+          <li className="margin-bottom-20">This word can be used in both spoken and written language.</li>
 
         </ul>
 

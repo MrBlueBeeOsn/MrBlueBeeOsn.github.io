@@ -59,7 +59,7 @@ export default function HIGHly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>HIGHly</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "HIGHly."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function HIGHly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Rất cao</li>
+            <li>Very high</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function HIGHly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>HIGHly</strong>" được sử dụng để nhấn mạnh mức độ cao của một tính chất, phẩm chất, hoặc cường độ của một hành động. Nó có thể biểu thị sự đánh giá cao, mức độ quan trọng, hoặc cường độ mạnh mẽ.</p>
+      <p className="margin-top-30 text-indent-whole">The word "HIGHly" is used to emphasize the high degree of a characteristic, quality, or the intensity of an action. It can indicate high regard, a high level of importance, or strong intensity.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she is a HIGHly SKILLED muSICian.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy là một nghệ sĩ âm nhạc có trình độ rất cao.</li>
+          <li className="margin-bottom-20 list-none">She has a lot of musical talent.</li>
 
           <li>the PROJect is HIGHly imPORTant to the COMpany.</li>
-          <li className="list-none">Dự án này có tầm quan trọng rất lớn đối với công ty.</li>
+          <li className="list-none">The company considers this project to be very important.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function HIGHly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the MOUNtain is VERy HIGH.</li>
-          <li className="list-none">Ngọn núi này rất cao.</li>
+          <li className="list-none">The mountain is very tall.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function HIGHly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the FOOD was <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link> SPIcy.</li>
-          <li className="margin-bottom-20 list-none">Món ăn đó cực kỳ cay.</li>
+          <li className="margin-bottom-20 list-none">The food had a lot of spice.</li>
 
           <li>he is <Link to="/vocabulary/VERy-1">VERy</Link> inTELligent.</li>
-          <li className="list-none">Anh ấy rất thông minh.</li>
+          <li className="list-none">He's very smart.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function HIGHly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she has a LOWly poSITion in the COMpany.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy giữ một vị trí thấp trong công ty.</li>
+          <li className="margin-bottom-20 list-none">She doesn't have an important position in the company.</li>
 
           <li>i am SLIGHTly HUNGry.</li>
-          <li className="list-none">Tôi hơi đói một chút.</li>
+          <li className="list-none">I'm a little hungry.</li>
 
         </ul>
       
@@ -176,15 +176,15 @@ export default function HIGHly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một ngọn núi cao chót vót hoặc một tòa nhà chọc trời.</p>
+      <p className="text-indent-whole">Imagine a towering mountain or a skyscraper.</p>
 
         <ul className="list-square">
 
           <li>the HIGHly TOWering MOUNtain PIERCED the CLOUDS.</li>
-          <li className="margin-bottom-20 list-none">Ngọn núi cao chót vót đã xuyên thủng những đám mây.</li>
+          <li className="margin-bottom-20 list-none">A mountain that was very tall was seen through the clouds.</li>
 
           <li>the HIGHly TALL SKYscraper DOMinated the SKYline.</li>
-          <li className="list-none">Tòa nhà chọc trời cao chót vót đã chiếm trọn đường chân trời.</li>
+          <li className="list-none">The very tall skyscraper was the tallest thing in the skyline.</li>
 
         </ul>
 
@@ -198,12 +198,12 @@ export default function HIGHly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu miêu tả những thứ có mức độ cao.</p>
+      <p className="text-indent-whole">Form sentences that describe things to a high degree.</p>
 
         <ul className="list-square">
 
           <li>i HIGHly recomMEND this BOOK.</li>
-          <li className="list-none">Tôi rất khuyên bạn nên đọc cuốn sách này.</li>
+          <li className="list-none">You should read this book.</li>
 
         </ul>
 
@@ -224,16 +224,16 @@ export default function HIGHly1(): React.JSX.Element {
           <ol>
 
             <li value="1">the TASK is DIFficult.</li>
-            <li className="list-none margin-bottom-20">Nhiệm vụ này rất khó.</li>
+            <li className="list-none margin-bottom-20">The task is challenging.</li>
 
             <li value="2">the TASK is HIGHly DIFficult.</li>
-            <li className="list-none margin-bottom-20">Nhiệm vụ này cực kỳ khó.</li>
+            <li className="list-none margin-bottom-20">The task is really hard.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh mức độ khó</span> của công việc, cho thấy nó khó hơn so với bình thường.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes the difficulty of the task,</span> indicating that it is harder than usual.</p>
 
       </div>
 
@@ -249,9 +249,9 @@ export default function HIGHly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ: "<strong>HIGHly</strong>" thường được sử dụng để nhấn mạnh mức độ cao hơn so với bình thường.</li>
+          <li>Degree: "HIGHly" is often used to emphasize a degree higher than normal.</li>
 
-          <li className="margin-bottom-20">Đánh giá: Nó có thể mang tính chủ quan, thể hiện sự đánh giá của người nói.</li>
+          <li className="margin-bottom-20">Evaluation: It can be subjective, reflecting the speaker's assessment.</li>
 
         </ul>
 

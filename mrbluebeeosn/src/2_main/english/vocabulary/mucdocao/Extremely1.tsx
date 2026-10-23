@@ -63,7 +63,7 @@ export default function exTREMEly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>exTREMEly</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "exTREMEly."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function exTREMEly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Cực kỳ</li>
+            <li>Extremely</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function exTREMEly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>exTREMEly</strong>" được dùng để nhấn mạnh một đặc điểm, tính chất hoặc mức độ nào đó ở mức độ rất cao, vượt quá mức bình thường.</p>
+      <p className="margin-top-30 text-indent-whole">The word "exTREMEly" is used to emphasize a particular characteristic, quality, or degree that is very high—beyond the norm.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">the eXAM was exTREMEly DIFficult.</li>
-          <li className="margin-bottom-20 list-none">Bài thi đó cực kỳ khó.</li>
+          <li className="margin-bottom-20 list-none">The exam was very hard.</li>
 
           <li>she is exTREMEly TALented.</li>
-          <li className="list-none">Cô ấy cực kỳ tài năng.</li>
+          <li className="list-none">She has a lot of talent.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function exTREMEly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he TOOK exTREME MEASures to proTECT his FAMILy.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã áp dụng những biện pháp cực đoan để bảo vệ gia đình mình.</li>
+          <li className="margin-bottom-20 list-none">He did everything he could to keep his family safe.</li>
 
           <li id="NOUN">the situAtion REACHed its exTREMity.</li>
-          <li className="list-none">Tình hình đã lên đến đỉnh điểm.</li>
+          <li className="list-none">Things went from bad to worse.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function exTREMEly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>it's <Link to="/vocabulary/VERy-1">VERy</Link> HOT toDAY.</li>
-          <li className="margin-bottom-20 list-none">Hôm nay trời nóng lắm.</li>
+          <li className="margin-bottom-20 list-none">The weather is very hot today.</li>
 
           <li>she is <Link to="/vocabulary/HIGHly-1">HIGHly</Link> reGARDed in her FIELD.</li>
-          <li className="list-none">Cô ấy được đánh giá rất cao trong lĩnh vực của mình.</li>
+          <li className="list-none">A lot of people respect her in her field.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function exTREMEly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm SLIGHTly TIred.</li>
-          <li className="margin-bottom-20 list-none">Tớ hơi mệt một chút.</li>
+          <li className="margin-bottom-20 list-none">I'm a bit tired.</li>
 
           <li>the WEATHer is MODerately WARM.</li>
-          <li className="list-none">Thời tiết khá ấm.</li>
+          <li className="list-none">The weather is neither too hot nor too cold. It is moderately warm.</li>
 
         </ul>
       
@@ -183,12 +183,12 @@ export default function exTREMEly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một cái nhiệt kế chỉ mức nhiệt độ rất cao.</p>
+      <p className="text-indent-whole">Imagine a thermometer showing a very high temperature.</p>
 
         <ul className="list-square">
 
           <li>the therMOMeter is READing an exTREMEly HIGH TEMPERature.</li>
-          <li className="list-none">Nhiệt kế đang hiển thị một nhiệt độ cực kỳ cao.</li>
+          <li className="list-none">The thermometer is showing a temperature that is very high.</li>
 
         </ul>
 
@@ -202,12 +202,12 @@ export default function exTREMEly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>exTREMEly</strong>" trong nhiều ngữ cảnh.</p>
+      <p className="text-indent-whole">Create various example sentences using the word "exTREMEly" in different contexts.</p>
 
         <ul className="list-square">
 
           <li>the COFfee is exTREMEly HOT.</li>
-          <li className="list-none">Cà phê này cực kỳ nóng.</li>
+          <li className="list-none">The coffee is very, very hot.</li>
 
         </ul>
 
@@ -228,16 +228,16 @@ export default function exTREMEly1(): React.JSX.Element {
           <ol>
 
             <li value="1">the MOvie was GOOD.</li>
-            <li className="list-none margin-bottom-20">Bộ phim hay lắm.</li>
+            <li className="list-none margin-bottom-20">The movie wasn't bad.</li>
 
             <li value="2">the MOvie was exTREMEly GOOD.</li>
-            <li className="list-none margin-bottom-20">Bộ phim này cực kỳ hay.</li>
+            <li className="list-none margin-bottom-20">I loved the movie!</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng bộ phim <span className="highlight-255-padding-0-4">hay đến mức vượt quá sự mong đợi.</span></p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that the movie is so good</span> that it exceeds expectations.</p>
 
       </div>
 
@@ -253,9 +253,9 @@ export default function exTREMEly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Cường độ: "<strong>exTREMEly</strong>" thường được dùng để nhấn mạnh mức độ cao nhất của một đặc điểm.</li>
+          <li>Intensity: "exTREMEly" is often used to emphasize the highest degree of a characteristic.</li>
 
-          <li className="margin-bottom-20">Cảm xúc: Nó có thể được dùng để diễn tả cảm xúc mạnh mẽ như vui sướng, buồn bã, tức giận, v.v.</li>
+          <li className="margin-bottom-20">Emotions: It can be used to express strong emotions such as joy, sadness, anger, etc.</li>
 
         </ul>
 
