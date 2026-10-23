@@ -454,20 +454,20 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: lặp lại
+							Usually
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-lap-lai"><mark className="highlight-secondary-padding-2-4">ADverbs: lặp lại</mark></summary>
+					<summary id="ADverbs-Usually"><mark className="highlight-secondary-padding-2-4">Usually</mark></summary>
 
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/aGAIN-1">aGAIN
+							<Link to="/vocabulary/Usually-1">Usually
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/aGAIN-2">
+									<Link to="/vocabulary/Usually-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
@@ -477,6 +477,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/OFten-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/aGAIN-1">aGAIN
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/aGAIN-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
@@ -495,15 +504,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/FREquently-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/Usually-1">Usually
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/Usually-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

@@ -75,7 +75,7 @@ export default function eXACTly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>To be precise,</li>
+            <li>To be precise</li>
 
           </ul>
 

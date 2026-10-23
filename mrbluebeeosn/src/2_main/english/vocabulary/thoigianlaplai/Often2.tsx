@@ -15,7 +15,7 @@ export default function OFten2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-lap-lai"><mark className="highlight-tertiary-padding-4-88">ADverbs: lặp lại</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-Usually"><mark className="highlight-tertiary-padding-4-88">Usually</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">OFten
         <sup>
@@ -75,7 +75,7 @@ export default function OFten2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>OFten</strong>" (thường thì) trong tiếng Anh nhé.</p>
+      <p>Great! Let's take a closer look at how to use the word "OFten" in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function OFten2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra nhiều lần.
+            &nbsp;is an adverb of frequency used to express that an action or event occurs repeatedly.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function OFten2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="DO-in">i OFten DO my HOMEwork in the EVEning.</li>
-        <li className="list-none margin-bottom-20">Tôi thường làm bài tập về nhà vào buổi tối.</li>
+        <li className="list-none margin-bottom-20">I often do my homework at night.</li>
 
         <li value="2" id="GO-to-on">we OFten GO to the BEACH on WEEKends.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi thường đi biển vào cuối tuần.</li>
+        <li className="list-none margin-bottom-20">We often visit the beach during the weekend.</li>
 
         <li value="3" id="EATS-for">she OFten EATS FRUITS for BREAKfast.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thường ăn trái cây vào bữa sáng.</li>
+        <li className="list-none margin-bottom-20">She often has fruit as part of her breakfast.</li>
 
         <li value="4" id="READS-before">he OFten READS BOOKS be<strong>fore</strong> GOing to BED.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường đọc sách trước khi đi ngủ.</li>
+        <li className="list-none margin-bottom-20">He often reads books before he goes to sleep.</li>
 
         <li value="5" id="PLAY-outSIDE-after">CHILDren OFten PLAY outSIDE <strong>af</strong>ter SCHOOL.</li>
-        <li className="list-none margin-bottom-20">Các em nhỏ thường chơi ngoài trời sau giờ học.</li>
+        <li className="list-none margin-bottom-20">Children often play outdoors after school.</li>
 
         <li value="6" id="WATCH-but-SOMEtimes-i-do">i do NOT OFten WATCH TV, but SOMEtimes i do.</li>
-        <li className="list-none margin-bottom-20">Tôi không thường xuyên xem tv, nhưng thời gian thì tôi cũng xem.</li>
+        <li className="list-none margin-bottom-20">I don't watch TV very often, but I do sometimes.</li>
 
         <li value="7" id="DRINK-COFfee-in">i OFten DRINK COFfee in the MORNing.</li>
-        <li className="list-none margin-bottom-20">Tôi thường uống cà phê vào buổi sáng.</li>
+        <li className="list-none margin-bottom-20">I drink coffee a lot in the morning.</li>
 
         <li value="8" id="WORKS-LATE-at">he OFten WORKS LATE at NIGHT.</li>
-        <li className="list-none margin-bottom-20">Anh ấy thường làm việc đến khuya.</li>
+        <li className="list-none margin-bottom-20">He often works past midnight.</li>
 
         <li value="9" id="GO-SHOPping-on">we OFten GO SHOPping on WEEKends.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi thường đi mua sắm vào cuối tuần.</li>
+        <li className="list-none margin-bottom-20">We often shop during the weekend.</li>
 
         <li value="10" id="FEEL-STRESSED">when i OFten FEEL STRESSED, i LISten to MUsic.</li>
-        <li className="list-none margin-bottom-20">Khi tôi thường xuyên cảm thấy căng thẳng, tôi nghe nhạc.</li>
+        <li className="list-none margin-bottom-20">I feel better when I listen to music when I'm stressed.</li>
 
       </ol>
 
@@ -147,9 +147,9 @@ export default function OFten2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>OFten</strong>" thường đứng trước hành động chính trong câu.</li>
+          <li>"Often" usually comes before the main action in a sentence.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>OFten</strong>" với nhiều ADverb khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">You can combine "often" with many other adverbs to create more varied phrases.</li>
 
         </ul>
 

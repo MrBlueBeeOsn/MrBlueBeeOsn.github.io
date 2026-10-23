@@ -79,7 +79,7 @@ export default function ACtually1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Actually,</li>
+            <li>Actually</li>
 
           </ul>
 

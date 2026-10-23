@@ -15,7 +15,7 @@ export default function OFten1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-lap-lai"><mark className="highlight-tertiary-padding-4-88">ADverbs: lặp lại</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-Usually"><mark className="highlight-tertiary-padding-4-88">Usually</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">OFten
         <sup><Link to="/vocabulary/OFten-1">&nbsp;1&nbsp;</Link>
@@ -55,7 +55,7 @@ export default function OFten1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>OFten</strong>" và các thành ngữ liên quan nhé.</p>
+      <p>Great! Let's dive into an analysis of the word "OFten" and related idioms.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -71,7 +71,7 @@ export default function OFten1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Thường thì</li>
+            <li>Usually</li>
 
           </ul>
 
@@ -83,17 +83,17 @@ export default function OFten1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Chỉ sự lặp đi lặp lại của một hành động hoặc sự kiện trong một khoảng thời gian.</p>
+      <p className="margin-top-30 text-indent-whole">Refers to the repetition of an action or event over a period of time.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i OFten GO to the GYM.</li>
-          <li className="margin-bottom-20 list-none">Tôi thường xuyên đi tập gym.</li>
+          <li className="margin-bottom-20 list-none">I frequently visit the gym.</li>
 
           <li>she OFten forGETS her KEYS.</li>
-          <li className="list-none">Cô ấy thường xuyên quên chìa khóa.</li>
+          <li className="list-none">She frequently loses track of her keys.</li>
 
         </ul>
 
@@ -109,7 +109,7 @@ export default function OFten1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>OFten</strong>" vì nó là một từ đơn lẻ.</li>
+          <li className="list-none">There is no direct family for "OFten" because it is a single word.</li>
 
         </ul>
 
@@ -126,10 +126,10 @@ export default function OFten1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she <Link to="/vocabulary/FREquently-1">FREquently</Link> VISits her GRANDparents.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy thường xuyên đến thăm ông bà.</li>
+          <li className="margin-bottom-20 list-none">She often goes to see her grandparents.</li>
 
           <li>they EXercise REGularly.</li>
-          <li className="list-none">Họ tập thể dục đều đặn.</li>
+          <li className="list-none">They exercise on a regular basis.</li>
 
         </ul>
 
@@ -148,10 +148,10 @@ export default function OFten1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/RAREly-1">RAREly</Link> EAT FAST FOOD.</li>
-          <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn đồ ăn nhanh.</li>
+          <li className="margin-bottom-20 list-none">It is rare for me to eat fast food.</li>
 
           <li>she <Link to="/vocabulary/NEVer-1">NEVer</Link> LIES.</li>
-          <li className="list-none">Cô ấy không bao giờ nói dối.</li>
+          <li className="list-none">She is always honest.</li>
 
         </ul>
       
@@ -171,12 +171,12 @@ export default function OFten1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một đồng hồ để biểu thị sự lặp đi lặp lại của một hành động.</p>
+      <p className="text-indent-whole">Imagine a clock to represent the repetition of an action.</p>
 
         <ul className="list-square">
 
           <li><strong>ever</strong>y TIME the CLOCK STRIKES TWELVE, i OFten TAKE a BREAK from WORK.</li>
-          <li className="list-none">Mỗi khi đồng hồ điểm mười hai giờ, tôi thường nghỉ ngơi một chút giữa giờ làm việc.</li>
+          <li className="list-none">I often take a break from work at midnight.</li>
 
         </ul>
 
@@ -190,12 +190,12 @@ export default function OFten1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo nhiều câu với "<strong>OFten</strong>" trong các ngữ cảnh khác nhau, liên quan đến các thói quen, hoạt động hàng ngày.</p>
+      <p className="text-indent-whole">Create several sentences using "often" in different contexts related to habits and daily activities.</p>
 
         <ul className="list-square">
 
           <li>she OFten READS BOOKS be<strong>fore</strong> GOing to BED.</li>
-          <li className="list-none">Cô ấy thường đọc sách trước khi đi ngủ.</li>
+          <li className="list-none">She often reads before she goes to bed.</li>
 
         </ul>
 
@@ -209,19 +209,19 @@ export default function OFten1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ "<strong>OFten</strong>" trong giao tiếp hoặc khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Use the word "often" regularly in conversation or in writing.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa FREquently và <strong>OFten</strong>):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between "FREquently" and "OFten"):</p>
 
           <ol>
 
             <li value="1">she <Link to="/vocabulary/FREquently-1">FREquently</Link> atTENDS CONFERences.</li>
-            <li className="list-none">Cô ấy thường xuyên tham dự các hội nghị.</li>
-            <li className="list-none margin-bottom-20">Cách nói trang trọng hơn, nhấn mạnh tính thường xuyên.</li>
+            <li className="list-none">She's a regular at conferences.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">A more formal way of saying it,</span> emphasizing regularity.</li>
 
             <li value="2">i OFten GO to the PARK.</li>
-            <li className="list-none">Tôi thường đi công viên.</li>
-            <li className="list-none">Cách nói thông thường, dùng trong nhiều tình huống.</li>
+            <li className="list-none">I frequently visit the park.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">A common way of speaking,</span> used in many situations.</li>
 
           </ol>
 
@@ -235,9 +235,9 @@ export default function OFten1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Often</strong>" thường đứng trước hành động chính trong câu.</li>
+          <li>"Often" usually comes before the main action in a sentence.</li>
 
-          <li className="margin-bottom-20">Nó có thể được sử dụng để diễn tả mức độ thường xuyên của một hành động.</li>
+          <li className="margin-bottom-20">It can be used to express how frequently an action occurs.</li>
 
         </ul>
 

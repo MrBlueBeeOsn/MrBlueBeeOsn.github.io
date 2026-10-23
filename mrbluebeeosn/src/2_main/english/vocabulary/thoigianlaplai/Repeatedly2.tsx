@@ -15,7 +15,7 @@ export default function rePEATedly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-lap-lai"><mark className="highlight-tertiary-padding-4-88">ADverbs: lặp lại</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-Usually"><mark className="highlight-tertiary-padding-4-88">Usually</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">rePEATedly
         <sup>
@@ -75,9 +75,7 @@ export default function rePEATedly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>rePEATedly</strong>" (liên tục) và các cụm từ hay đi kèm nhé.
-
-</p>
+      <p>Great! Let’s take a closer look at the word “rePEATedly” (continuously) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -91,7 +89,7 @@ export default function rePEATedly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb chỉ việc làm điều gì đó nhiều lần, liên tục.
+            &nbsp;is an adverb that indicates doing something repeatedly, over and over.
 
           </p>
 
@@ -106,38 +104,38 @@ export default function rePEATedly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="ASKED-to-turN-DOWN">she rePEATedly ASKED him to turN DOWN the MUsic.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã nhiều lần yêu cầu anh ấy vặn nhỏ âm lượng nhạc xuống.</li>
+        <li className="list-none margin-bottom-20">She asked him over and over again to turn off the music.</li>
 
         <li value="2" id="FAILED">he rePEATedly FAILED his DRIving TEST.</li>
-        <li className="list-none margin-bottom-20">Anh ta đã liên tục trượt kỳ thi lái xe.</li>
+        <li className="list-none margin-bottom-20">He didn't pass his driving test, and he kept failing.</li>
 
         <li value="3" id="WARNED-about-of">she was rePEATedly WARNED a<strong>bout</strong> the DANGers of SPEEDing.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã nhiều lần bị cảnh báo về những nguy hiểm của việc lái xe quá tốc độ.</li>
+        <li className="list-none margin-bottom-20">She had been told many times that driving too fast was dangerous.</li>
 
         <li value="4" id="EMphasized-of">the TEACHer rePEATedly EMphasized the imPORtance of STUDying.</li>
-        <li className="list-none margin-bottom-20">Giáo viên đã nhiều lần nhấn mạnh tầm quan trọng của việc học tập.</li>
+        <li className="list-none margin-bottom-20">The teacher kept saying how important it was to study.</li>
 
         <li value="5" id="TESTed-for">the NEW DRUG was rePEATedly TESTed for SAFEty.</li>
-        <li className="list-none margin-bottom-20">Loại thuốc mới này đã được kiểm tra nhiều lần về tính an toàn.</li>
+        <li className="list-none margin-bottom-20">The new drug was tested many times to make sure it was safe.</li>
 
         <li value="6" id="exPOSED-to">she was rePEATedly exPOSED to LOUD NOISE.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã nhiều lần phải tiếp xúc với tiếng ồn lớn.</li>
+        <li className="list-none margin-bottom-20">She kept being exposed to loud noises.</li>
 
         <li value="7" id="deLAYED-due-to">the PROJect was rePEATedly deLAYED due to FUNding ISsues.</li>
-        <li className="list-none margin-bottom-20">Dự án đã bị hoãn lại nhiều lần do các vấn đề về kinh phí.</li>
+        <li className="list-none margin-bottom-20">The project was delayed repeatedly because it did not have enough money.</li>
 
         <li value="8" id="MENtioned-to-TRAVel">he rePEATedly MENtioned his deSIre to TRAVel.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã nhiều lần nhắc đến mong muốn được đi du lịch.</li>
+        <li className="list-none margin-bottom-20">He kept talking about how he wanted to travel.</li>
 
         <li value="9" id="obSERVED-of">the SCIentists rePEATedly obSERVED the beHAvior of the ANimals.</li>
-        <li className="list-none margin-bottom-20">Các nhà khoa học đã nhiều lần quan sát hành vi của các loài động vật.</li>
+        <li className="list-none margin-bottom-20">The scientists closely watched the animals' behavior many times.</li>
 
         <li value="10" id="PRACticed-until">she rePEATedly PRACticed the piANo PIECE un<strong>til</strong> she could PLAY it PERfectly.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã luyện tập bản nhạc piano đó nhiều lần cho đến khi có thể chơi nó một cách hoàn hảo.</li>
+        <li className="list-none margin-bottom-20">She repeatedly practiced playing the piano until she could play the piece perfectly.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính lặp đi lặp lại của một hành động, sự kiện hoặc quá trình. Chúng thường được sử dụng để mô tả các tình huống mà một điều gì đó xảy ra nhiều lần, có thể là theo ý muốn hoặc không.</p>
+      <p>** The phrases above all emphasize the repetitive nature of an action, event, or process. They are often used to describe situations in which something happens repeatedly, whether intentionally or not.</p>
 
       {/* =============================
             Lưu ý:
@@ -149,9 +147,9 @@ export default function rePEATedly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>rePEATedly</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
+          <li>"rePEATedly" is often placed before an action to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng để nhấn mạnh tính thường xuyên và sự kiên trì của một hành động.</li>
+          <li className="margin-bottom-20">This word is often used to emphasize the frequency and persistence of an action.</li>
 
         </ul>
 

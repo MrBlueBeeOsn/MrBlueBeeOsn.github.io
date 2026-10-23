@@ -15,7 +15,7 @@ export default function rePEATedly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-lap-lai"><mark className="highlight-tertiary-padding-4-88">ADverbs: lặp lại</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-Usually"><mark className="highlight-tertiary-padding-4-88">Usually</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">rePEATedly
         <sup><Link to="/vocabulary/rePEATedly-1">&nbsp;1&nbsp;</Link>
@@ -67,7 +67,7 @@ export default function rePEATedly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>rePEATedly</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "rePEATedly."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -83,7 +83,7 @@ export default function rePEATedly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Liên tục</li>
+            <li>Continuously</li>
 
           </ul>
 
@@ -95,17 +95,17 @@ export default function rePEATedly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>rePEATedly</strong>" dùng để mô tả một hành động được thực hiện nhiều lần, liên tục. Nó nhấn mạnh tính thường xuyên và sự lặp đi lặp lại của một sự việc.</p>
+      <p className="margin-top-30 text-indent-whole">The word "rePEATedly" is used to describe an action performed many times, continuously. It emphasizes the frequency and repetition of an event.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she rePEATedly ASKED him the SAME QUESTion.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy liên tục hỏi anh ấy cùng một câu hỏi.</li>
+          <li className="margin-bottom-20 list-none">She kept asking him the same question over and over again.</li>
 
           <li>the exPERiment was rePEATedly conDUCTed to VERify the reSULTS.</li>
-          <li className="list-none">Thí nghiệm này đã được tiến hành nhiều lần để xác minh kết quả.</li>
+          <li className="list-none">The experiment was repeated many times to check the results.</li>
 
         </ul>
 
@@ -122,13 +122,13 @@ export default function rePEATedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the rePEATed FAIlures disCOURaged him.</li>
-          <li className="margin-bottom-20 list-none">Những thất bại lặp đi lặp lại đã khiến anh ấy nản lòng.</li>
+          <li className="margin-bottom-20 list-none">His failures, which happened again and again, made him want to quit.</li>
           
           <li id="VERB">PLEASE rePEAT THAT.</li>
-          <li className="margin-bottom-20 list-none">Xin vui lòng nói lại điều đó.</li>
+          <li className="margin-bottom-20 list-none">Would you please repeat that?</li>
 
           <li id="NOUN">the repeTITion of the SAME misTAKE is unacCEPTable.</li>
-          <li className="margin-bottom-20 list-none">Việc lặp lại cùng một sai lầm là không thể chấp nhận được.</li>
+          <li className="margin-bottom-20 list-none">It's not okay to make the same mistake over and over again.</li>
 
         </ul>
 
@@ -145,10 +145,10 @@ export default function rePEATedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he TRIED <Link to="/vocabulary/aGAIN-1">aGAIN</Link> and aGAIN.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã THỬ LẠI nhiều lần.</li>
+          <li className="margin-bottom-20 list-none">He tried over and over.</li>
 
           <li>she SAID it Over and Over.</li>
-          <li className="list-none">Cô ấy đã nói đi nói lại điều đó.</li>
+          <li className="list-none">She repeated it multiple times.</li>
 
         </ul>
 
@@ -167,10 +167,10 @@ export default function rePEATedly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i've Only DONE it ONCE.</li>
-          <li className="margin-bottom-20 list-none">Tôi chỉ làm điều đó một lần thôi.</li>
+          <li className="margin-bottom-20 list-none">I've only done it one time.</li>
 
           <li>he <Link to="/vocabulary/RAREly-1">RAREly</Link> VISits us.</li>
-          <li className="list-none">Anh ấy hiếm khi ghé thăm chúng tôi.</li>
+          <li className="list-none">He doesn't come to see us very often.</li>
 
         </ul>
       
@@ -190,12 +190,12 @@ export default function rePEATedly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một chiếc đồng hồ đang tích tắc hoặc một người đang tập luyện một bài thể dục nhiều lần.</p>
+      <p className="text-indent-whole">Imagine a clock ticking or someone repeating an exercise over and over.</p>
 
         <ul className="list-square">
 
           <li>the CLOCK is TICKing STEADily and rePEATedly.</li>
-          <li className="list-none">Chiếc đồng hồ đang tích tắc đều đặn và liên tục.</li>
+          <li className="list-none">The clock is always ticking, over and over.</li>
 
         </ul>
 
@@ -209,12 +209,12 @@ export default function rePEATedly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến các hoạt động hàng ngày hoặc các thói quen.</p>
+      <p className="text-indent-whole">Create sentences related to daily activities or routines.</p>
 
         <ul className="list-square">
 
           <li>she rePEATedly CHECKED her PHONE.</li>
-          <li className="list-none">Cô ấy liên tục kiểm tra điện thoại của mình.</li>
+          <li className="list-none">She kept looking at her phone over and over again.</li>
 
         </ul>
 
@@ -235,16 +235,16 @@ export default function rePEATedly1(): React.JSX.Element {
           <ol>
 
             <li value="1">he MADE a misTAKE.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã phạm một sai lầm.</li>
+            <li className="list-none margin-bottom-20">He messed up.</li>
 
             <li value="2">he rePEATedly MADE the SAME misTAKE.</li>
-            <li className="list-none margin-bottom-20">Anh ta liên tục lặp lại cùng một sai lầm.</li>
+            <li className="list-none margin-bottom-20">He kept making the same mistake.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh rằng</span> anh ấy <span className="highlight-255-padding-0-4">đã mắc lỗi nhiều lần,</span> cho thấy một sự thiếu cẩn trọng hoặc không rút ra được bài học.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that he has made the same mistake many times,</span> suggesting a lack of care or an inability to learn from his mistakes.</p>
 
       </div>
 
@@ -260,9 +260,9 @@ export default function rePEATedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tần suất: Nhấn mạnh đến việc thực hiện một hành động nhiều lần.</li>
+          <li>Frequency: Emphasizes performing an action multiple times.</li>
 
-          <li className="margin-bottom-20">Sự kiên trì: Có thể ngụ ý sự kiên trì hoặc cố gắng không ngừng.</li>
+          <li className="margin-bottom-20">Perseverance: May imply persistence or unceasing effort.</li>
 
         </ul>
 
