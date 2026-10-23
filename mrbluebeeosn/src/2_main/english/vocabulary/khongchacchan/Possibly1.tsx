@@ -15,7 +15,7 @@ export default function POSsibly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-khong-chac"><mark className="highlight-tertiary-padding-4-8">ADverbs: không chắc</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-MAYbe"><mark className="highlight-tertiary-padding-4-8">MAYbe</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">POSsibly
         <sup><Link to="/vocabulary/POSsibly-1">&nbsp;1&nbsp;</Link>
@@ -63,7 +63,7 @@ export default function POSsibly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>POSsibly</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "POSsibly."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function POSsibly1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Có thể</li>
+            <li>It is possible</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function POSsibly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>POSsibly</strong>" được dùng để diễn tả một sự việc có khả năng xảy ra, nhưng không chắc chắn hoàn toàn. Nó thường được sử dụng để thể hiện sự không chắc chắn hoặc để đưa ra một giả định.</p>
+      <p className="margin-top-30 text-indent-whole">The word "POSsibly" is used to describe a situation that is likely to happen, but not entirely certain. It is often used to express uncertainty or to make an assumption.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">it might POSsibly RAIN <Link to="/vocabulary/toMORrow-1">toMORrow</Link>.</li>
-          <li className="margin-bottom-20 list-none">Có thể là ngày mai sẽ có mưa.</li>
+          <li className="margin-bottom-20 list-none">Tomorrow, there's a chance of rain.</li>
 
           <li>she could POSsibly be at HOME NOW.</li>
-          <li className="list-none">Có thể là cô ấy đang ở nhà lúc này.</li>
+          <li className="list-none">There's a chance she's already home.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function POSsibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">is it POSsible to FINish this WORK toDAY?</li>
-          <li className="margin-bottom-20 list-none">Có thể hoàn thành công việc này trong hôm nay không?</li>
+          <li className="margin-bottom-20 list-none">Can this work be finished today?</li>
 
           <li id="NOUN">there is a possiBILity of RAIN LAter.</li>
-          <li className="list-none">Có khả năng sẽ có mưa vào lúc sau.</li>
+          <li className="list-none">There's a chance it will rain later.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function POSsibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/perHAPS-1">perHAPS</Link> she is BUSy</li>
-          <li className="margin-bottom-20 list-none">Có lẽ cô ấy đang bận.</li>
+          <li className="margin-bottom-20 list-none">She might be busy.</li>
 
           <li><Link to="/vocabulary/MAYbe-1">MAYbe</Link> he will CALL you LAter.</li>
-          <li className="list-none">Có thể anh ấy sẽ gọi cho bạn sau.</li>
+          <li className="list-none">He might give you a ring later.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function POSsibly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i will <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> be THERE.</li>
-          <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ có mặt ở đó.</li>
+          <li className="margin-bottom-20 list-none">I'm definitely going to be there.</li>
 
           <li>THAT is <Link to="/vocabulary/CERtainly-1">CERtainly</Link> TRUE.</li>
-          <li className="list-none">Điều đó chắc chắn là đúng.</li>
+          <li className="list-none">That's definitely right.</li>
 
         </ul>
       
@@ -183,12 +183,12 @@ export default function POSsibly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một đám mây đen trên bầu trời, và bạn đang tự hỏi "Có thể trời sẽ mưa không?".</p>
+      <p className="text-indent-whole">Imagine a dark cloud in the sky, and you're wondering, "Is it going to rain?"</p>
 
         <ul className="list-square">
 
           <li>WHAT do you THINK? is it POSsibly GOing to RAIN?</li>
-          <li className="list-none">Bạn nghĩ sao? Liệu có thể sẽ mưa không?</li>
+          <li className="list-none">What do you think is going to happen? Is it going to rain?</li>
 
         </ul>
 
@@ -202,12 +202,12 @@ export default function POSsibly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu thể hiện sự không chắc chắn.</p>
+      <p className="text-indent-whole">Form sentences that express uncertainty.</p>
 
         <ul className="list-square">
 
           <li>they might POSsibly MISS the TRAIN.</li>
-          <li className="list-none">Họ có thể sẽ lỡ chuyến tàu.</li>
+          <li className="list-none">It's possible that they will miss the train.</li>
 
         </ul>
 
@@ -221,23 +221,23 @@ export default function POSsibly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word frequently in conversations or writing.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">i will GO to the PARTy.</li>
-            <li className="list-none margin-bottom-20">Tớ sẽ đi dự tiệc.</li>
+            <li className="list-none margin-bottom-20">I'll be at the party.</li>
 
             <li value="2">i might POSsibly GO to the PARTy.</li>
-            <li className="list-none margin-bottom-20">Có thể là tớ sẽ đi dự bữa tiệc.</li>
+            <li className="list-none margin-bottom-20">I'm not sure, but it's possible that I'll go to the party.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>POSsibly</strong>" để <span className="highlight-255-padding-0-4">thể hiện rằng việc đi</span> dự tiệc <span className="highlight-255-padding-0-4">chưa chắc chắn hoàn toàn.</span></p>
+        <p className="margin-y-10">The difference: The second sentence uses "POSsibly" to <span className="highlight-255-padding-0-4">indicate that attending the party is not entirely certain.</span></p>
 
       </div>
 
@@ -253,9 +253,9 @@ export default function POSsibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ chắc chắn: "<strong>POSsibly</strong>" thể hiện mức độ chắc chắn thấp hơn so với "<Link to="/vocabulary/DEFinitely-1">DEFinitely</Link>" hoặc "<Link to="/vocabulary/CERtainly-1">CERtainly</Link>".</li>
+          <li>Degree of certainty: "POSsibly" expresses a lower degree of certainty than "<Link to="/vocabulary/DEFinitely-1">DEFinitely</Link>" or "<Link to="/vocabulary/CERtainly-1">CERtainly</Link>".</li>
 
-          <li className="margin-bottom-20">Dùng trong câu hỏi: Thường được sử dụng trong câu hỏi để hỏi về khả năng xảy ra của một sự việc.</li>
+          <li className="margin-bottom-20">Use in questions: It is often used in questions to ask about the likelihood of an event occurring.</li>
 
         </ul>
 

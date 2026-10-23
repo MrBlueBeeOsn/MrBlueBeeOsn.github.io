@@ -270,12 +270,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: không chắc
+							MAYbe
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-khong-chac"><mark className="highlight-secondary-padding-2-4">ADverbs: không chắc</mark></summary>
+					<summary id="ADverbs-MAYbe"><mark className="highlight-secondary-padding-2-4">MAYbe</mark></summary>
 
 					<ul className="list-border1">
 

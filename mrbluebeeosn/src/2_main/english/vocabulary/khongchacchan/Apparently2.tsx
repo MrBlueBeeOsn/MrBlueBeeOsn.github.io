@@ -15,7 +15,7 @@ export default function apPARently2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-khong-chac"><mark className="highlight-tertiary-padding-4-8">ADverbs: không chắc</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-MAYbe"><mark className="highlight-tertiary-padding-4-8">MAYbe</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">apPARently
         <sup>
@@ -75,7 +75,7 @@ export default function apPARently2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>apPARently</strong>" (có vẻ như) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “apPARently” (it seems) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function apPARently2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb thường được dùng để thể hiện một thông tin mà người nói không chắc chắn hoàn toàn về tính xác thực của nó.
+            &nbsp;is an adverb often used to convey information about which the speaker is not entirely certain regarding its accuracy.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function apPARently2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="imPOSsible-but-comPLETE">the TASK SEEMED apPARently imPOSsible, but he MANaged to comPLETE it.</li>
-        <li className="list-none margin-bottom-20">Nhiệm vụ đó dường như là điều không thể, nhưng anh ấy đã tìm cách hoàn thành nó.</li>
+        <li className="list-none margin-bottom-20">The job seemed too difficult, but he was able to do it.</li>
 
         <li value="2" id="TRUE">apPARently TRUE, she is LEAVing the COMpany NEXT WEEK.</li>
-        <li className="list-none margin-bottom-20">Có vẻ như đúng thật, cô ấy sẽ rời công ty vào tuần tới.</li>
+        <li className="list-none margin-bottom-20">It seems that she is quitting the company next week.</li>
 
         <li value="3" id="RANdom-but-a-PATtern">the NUMbers apPEARED to be apPARently RANdom, but there was a PATtern.</li>
-        <li className="list-none margin-bottom-20">Các con số dường như hoàn toàn ngẫu nhiên, nhưng thực ra lại có một quy luật.</li>
+        <li className="list-none margin-bottom-20">The numbers looked random, but they actually followed a pattern.</li>
 
         <li value="4" id="HARMless-but-POIsonous">the SNAKE LOOKED apPARently HARMless, but it was POIsonous.</li>
-        <li className="list-none margin-bottom-20">Con rắn trông có vẻ vô hại, nhưng nó lại có nọc độc.</li>
+        <li className="list-none margin-bottom-20">The snake looked harmless, but it was actually poisonous.</li>
 
         <li value="5" id="SIMple-but-VERy-COMplex">the PROBlem SEEMED apPARently SIMple, but it was ACtually VERy COMplex.</li>
-        <li className="list-none margin-bottom-20">Vấn đề có vẻ đơn giản, nhưng thực ra lại rất phức tạp.</li>
+        <li className="list-none margin-bottom-20">It looked like a simple problem, but it turned out to be really complicated.</li>
 
         <li value="6" id="unreLAted-but-conNECTed">the TWO eVENTS SEEMED apPARently unreLAted, but they were conNECTed.</li>
-        <li className="list-none margin-bottom-20">Hai sự kiện này dường như không liên quan đến nhau, nhưng thực ra chúng lại có mối liên hệ với nhau.</li>
+        <li className="list-none margin-bottom-20">The two events didn't seem related. However, they were actually connected.</li>
 
         <li value="7" id="SATisfied-with">she NODded, apPARently SATisfied with his ANswer.</li>
-        <li className="list-none margin-bottom-20">Cô gật đầu, dường như hài lòng với câu trả lời của anh.</li>
+        <li className="list-none margin-bottom-20">She nodded her head to show that she was happy with his answer.</li>
 
         <li value="8" id="conFUSED">he LOOKED aROUND, apPARently conFUSED.</li>
-        <li className="list-none margin-bottom-20">Anh ta nhìn quanh, có vẻ bối rối.</li>
+        <li className="list-none margin-bottom-20">He looked around, seemingly perplexed.</li>
 
         <li value="9" id="forGOTten-on-the">the BOOK was apPARently forGOTten on the TRAIN.</li>
-        <li className="list-none margin-bottom-20">Có vẻ như cuốn sách đã bị bỏ quên trên tàu.</li>
+        <li className="list-none margin-bottom-20">It seems that the book was left behind on the train.</li>
 
         <li value="10" id="aWARE-of">she SMILED, apPARently aWARE of his FEELings.</li>
-        <li className="list-none margin-bottom-20">Cô ấy mỉm cười, dường như nhận thức được cảm xúc của anh ấy.</li>
+        <li className="list-none margin-bottom-20">She smiled, and it looked like she was aware of how he was feeling.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính không chắc chắn của thông tin. Chúng được sử dụng khi người nói không có bằng chứng rõ ràng để khẳng định một điều gì đó, nhưng lại có một sự hiểu biết hoặc tin đồn về nó.</p>
+      <p>** All of the phrases above emphasize the uncertainty of the information. They are used when the speaker does not have clear evidence to confirm something, but has some understanding of it or has heard rumors about it.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function apPARently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>apPARently</strong>" thường đứng ở đầu câu hoặc trước một ADjective hoặc danh cụm.</li>
+          <li>"apPARently" usually appears at the beginning of a sentence or before an adjective or noun phrase.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "SEEMingly", "<Link to="/vocabulary/EVidently-1">EVidently</Link>", "osTENsibly" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">This word can be replaced with synonyms such as "SEEMingly," "<Link to="/vocabulary/EVidently-1">EVidently</Link>", or "osTENsibly" to add variety to your writing style.</li>
 
         </ul>
 

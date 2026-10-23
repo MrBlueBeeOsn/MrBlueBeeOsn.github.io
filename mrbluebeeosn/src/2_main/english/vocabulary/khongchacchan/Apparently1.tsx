@@ -15,7 +15,7 @@ export default function apPARently1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-khong-chac"><mark className="highlight-tertiary-padding-4-8">ADverbs: không chắc</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-MAYbe"><mark className="highlight-tertiary-padding-4-8">MAYbe</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">apPARently
         <sup><Link to="/vocabulary/apPARently-1">&nbsp;1&nbsp;</Link>
@@ -59,7 +59,7 @@ export default function apPARently1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>apPARently</strong>"!</p>
+      <p>Great! Let's dive deeper into the word "apPARently"!</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function apPARently1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Có vẻ như</li>
+            <li>It seems that</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function apPARently1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>apPARently</strong>" được dùng để diễn tả một điều gì đó được cho là đúng hoặc có thật dựa trên thông tin hiện có, mặc dù người nói không hoàn toàn chắc chắn về điều đó. Nó thường được sử dụng khi người nói đang truyền đạt thông tin mà họ đã nghe được từ người khác hoặc dựa trên những gì họ quan sát được.</p>
+      <p className="margin-top-30 text-indent-whole">The word "apPARently" is used to describe something that is believed to be true or factual based on available information, even though the speaker is not entirely certain about it. It is often used when the speaker is conveying information they have heard from someone else or based on their own observations.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">apPARently, it's GOing to RAIN toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Có vẻ như ngày mai sẽ có mưa.</li>
+          <li className="margin-bottom-20 list-none">It looks like rain is coming tomorrow.</li>
 
           <li>apPARently, she's MOving to a NEW CITy.</li>
-          <li className="list-none">Có vẻ như cô ấy sắp chuyển đến một thành phố mới.</li>
+          <li className="list-none">She's moving to a new city, according to what I've heard.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function apPARently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">it's apPARent that she's TIred.</li>
-          <li className="list-none">Rõ ràng là cô ấy đang mệt mỏi.</li>
+          <li className="list-none">Her body language and tone of voice make it seem like she is tired.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function apPARently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>SEEMingly, he's HAPpy with his NEW JOB.</li>
-          <li className="margin-bottom-20 list-none">Có vẻ như anh ấy rất hạnh phúc với công việc mới của mình.</li>
+          <li className="margin-bottom-20 list-none">It looks like he's satisfied with his new job.</li>
 
           <li><Link to="/vocabulary/EVidently-1">EVidently</Link>, she's been STUDying HARD.</li>
-          <li className="list-none">Rõ ràng là cô ấy đã học rất chăm chỉ.</li>
+          <li className="list-none">It's clear that she has been studying a lot.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function apPARently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i LOOKED unCERtainly at his PLANS.</li>
-          <li className="margin-bottom-20 list-none">Tôi nhìn vào kế hoạch của anh ấy với vẻ băn khoăn.</li>
+          <li className="margin-bottom-20 list-none">I definitely checked out his plans.</li>
 
           <li>he LOOKED at me DOUBTfully.</li>
-          <li className="list-none">Anh ấy nhìn tôi với vẻ nghi ngờ.</li>
+          <li className="list-none">He looked at me like he didn't believe me.</li>
 
         </ul>
       
@@ -176,12 +176,12 @@ export default function apPARently1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang đọc báo.</p>
+      <p className="text-indent-whole">Imagine someone reading a newspaper.</p>
 
         <ul className="list-square">
 
           <li>apPARently, he's <Link to="/vocabulary/REally-1">REally</Link> <strong>in</strong>to that ARticle.</li>
-          <li className="list-none">Có vẻ như anh ấy thực sự rất hứng thú với bài báo đó.</li>
+          <li className="list-none">He is clearly interested in that article.</li>
 
         </ul>
 
@@ -195,12 +195,12 @@ export default function apPARently1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>apPARently</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Create your own example sentences using the word "apPARently" in various contexts.</p>
 
         <ul className="list-square">
 
           <li>apPARently, he QUIT his JOB LAST WEEK.</li>
-          <li className="list-none">Có vẻ như anh ấy đã nghỉ việc vào tuần trước.</li>
+          <li className="list-none">He quit his job last week, it looks like.</li>
 
         </ul>
 
@@ -214,23 +214,23 @@ export default function apPARently1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Use this word frequently in conversations or writing.</p>
 
         <p className="text-indent-whole">Examples for comparison (differences):</p>
 
           <ol>
 
             <li value="1">she KNOWS the ANswer.</li>
-            <li className="list-none margin-bottom-20">Cô ấy biết câu trả lời.</li>
+            <li className="list-none margin-bottom-20">She has the solution.</li>
 
             <li value="2">apPARently, she KNOWS the ANswer.</li>
-            <li className="list-none margin-bottom-20">Có vẻ như cô ấy biết câu trả lời.</li>
+            <li className="list-none margin-bottom-20">It seems that she is aware of the answer.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai cho thấy người nói <span className="highlight-255-padding-0-4">không hoàn toàn chắc chắn</span> rằng cô ấy biết <span className="highlight-255-padding-0-4">câu trả lời,</span> mà chỉ dựa trên những gì họ nghe được hoặc quan sát được.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">indicates that the speaker is not entirely sure she knows the answer,</span> but is basing her assumption solely on what she has heard or observed.</p>
 
       </div>
 
@@ -246,9 +246,9 @@ export default function apPARently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ chắc chắn: "<strong>apPARently</strong>" thể hiện mức độ chắc chắn thấp hơn so với các từ như "<Link to="/vocabulary/CLEARly-1">CLEARly</Link>" (rõ ràng) hoặc "<Link to="/vocabulary/DEFinitely-1">DEFinitely</Link>" (chắc chắn).</li>
+          <li>Degree of certainty: "apPARently" conveys a lower degree of certainty than words such as "<Link to="/vocabulary/CLEARly-1">CLEARly</Link>" (clearly) or "<Link to="/vocabulary/DEFinitely-1">DEFinitely</Link>" (definitely).</li>
 
-          <li className="margin-bottom-20">Nguồn tin: Thông tin được đưa ra bằng "<strong>apPARently</strong>" có thể đến từ nhiều nguồn khác nhau, chẳng hạn như lời đồn, tin đồn, hoặc quan sát cá nhân.</li>
+          <li className="margin-bottom-20">Source: Information presented using "apPARently" may come from various sources, such as rumors, hearsay, or personal observations.</li>
 
         </ul>
 
