@@ -15,7 +15,7 @@ export default function SO1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-muc-do-cao"><mark className="highlight-tertiary-padding-4-8">ADverbs: mức độ cao</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-HIGHly"><mark className="highlight-tertiary-padding-4-8">HIGHly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">SO
         <sup><Link to="/vocabulary/SO-1">&nbsp;1&nbsp;</Link>
@@ -36,7 +36,7 @@ export default function SO1(): React.JSX.Element {
           </span> &nbsp;
           
           <span className="highlight-255-padding-0-4 text-border">
-            <HashLink smooth to="#conJUNCtion">conJUNCtion</HashLink>
+            <HashLink smooth to="#prepoSITion">prepoSITion</HashLink>
           </span> &nbsp;
 
         </p>
@@ -63,7 +63,7 @@ export default function SO1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SO</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "SO."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function SO1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Vậy, quá, nên</li>
+            <li>Well, then, so</li>
 
           </ul>
 
@@ -91,15 +91,15 @@ export default function SO1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Rất, quá (TRẠNG mức độ): Dùng để nhấn mạnh mức độ của một ADjective hoặc ADverb.</p>
+      <p className="margin-top-30 text-indent-whole">Very, extremely (ADVERB of degree): Used to emphasize the degree of an adjective or adverb.</p>
 
         <ul className="list-square">
 
           <li id="ADverb">the MOvie was SO GOOD.</li>
-          <li className="margin-bottom-20 list-none">Bộ phim đó thật sự tuyệt vời.</li>
+          <li className="margin-bottom-20 list-none">The movie was excellent.</li>
 
           <li>she SINGS SO BEAUtifully.</li>
-          <li className="list-none">Cô ấy hát thật đẹp.</li>
+          <li className="list-none">She has a beautiful singing voice.</li>
 
         </ul>
 
@@ -119,17 +119,17 @@ export default function SO1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="PROnoun">is he COMing? - "i THINK SO."</li>
-          <li className="list-none">Anh ấy có đến không? - “Tôi nghĩ là có.”</li>
-          <li className="margin-bottom-20 list-none">Như vậy, thế đó (Dùng để thay thế cho một ý đã được đề cập trước, tránh lặp lại.)</li>
+          <li className="list-none">Is he coming back? "I think that's right."</li>
+          <li className="margin-bottom-20 list-none">That's it, then (Used to refer back to a point already mentioned, to avoid repetition.)</li>
           
-          <li id="conJUNCtion">it was RAINing, so we STAYED HOME.</li>
-          <li className="margin-bottom-20 list-none">Trời đang mưa, nên chúng tôi ở nhà.</li>
+          <li id="prepoSITion">it was RAINing, so we STAYED HOME.</li>
+          <li className="margin-bottom-20 list-none">It was raining, so we didn't go out.</li>
 
-          <li className="list-none">he WORKED HARD, so he GOT a proMOtion.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã làm việc chăm chỉ, nên đã được thăng chức.</li>
+          <li>he WORKED HARD, so he GOT a proMOtion.</li>
+          <li className="margin-bottom-20 list-none">He was diligent in his work and was rewarded with a promotion.</li>
 
-          <li className="list-none">she SAID she would HELP, and so she DID.</li>
-          <li className="list-none">Cô ấy nói rằng cô ấy sẽ giúp, và thế là cô ấy đã làm thế.</li>
+          <li>she SAID she would HELP, and so she DID.</li>
+          <li className="list-none">She promised to help, and she kept her word.</li>
 
         </ul>
 
@@ -146,10 +146,10 @@ export default function SO1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the FOOD was <Link to="/vocabulary/VERy-1">VERy</Link> deLICious.</li>
-          <li className="margin-bottom-20 list-none">Món ăn rất ngon.</li>
+          <li className="margin-bottom-20 list-none">The food was really tasty.</li>
 
           <li>he was ILL; THEREfore, he could NOT atTEND the MEETing.</li>
-          <li className="list-none">Anh ấy bị ốm; vì vậy, anh ấy không thể tham dự cuộc họp.</li>
+          <li className="list-none">He wasn't feeling well, so he couldn't go to the meeting.</li>
 
         </ul>
 
@@ -168,10 +168,10 @@ export default function SO1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the MOvie was <Link to="/vocabulary/NOT-1">NOT</Link> INTEResting.</li>
-          <li className="margin-bottom-20 list-none">Bộ phim đó không hấp dẫn.</li>
+          <li className="margin-bottom-20 list-none">The movie wasn't entertaining.</li>
 
           <li>it was COLD; howEVer, we still WENT for a WALK.</li>
-          <li className="list-none">Trời lạnh lắm; tuy nhiên, chúng tôi vẫn đi dạo.</li>
+          <li className="list-none">The weather was cold, but that didn't stop us from going for a walk.</li>
 
         </ul>
       
@@ -191,21 +191,21 @@ export default function SO1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hãy tưởng tượng một mũi tên chỉ vào một điều gì đó với một dấu chấm than lớn để thể hiện sự nhấn mạnh ("rất!").</p>
+      <p className="text-indent-whole">Imagine an arrow pointing at something with a big exclamation point to show emphasis ("very!").</p>
 
         <ul className="list-square">
 
           <li>THAT is SO COOL!</li>
-          <li className="margin-bottom-20 list-none">Điều đó thật tuyệt vời!</li>
+          <li className="margin-bottom-20 list-none">That's great!</li>
 
         </ul>
 
-        <p className="text-indent-whole">Hoặc một chuỗi domino, cái trước đổ làm cái sau đổ, tượng trưng cho mối quan hệ "do đó".</p>
+        <p className="text-indent-whole">Or a row of dominoes, where the first one falling causes the next one to fall, symbolizing a "therefore" relationship.</p>
 
         <ul className="list-square">
 
           <li>it STARTed to RAIN, so we WENT HOME.</li>
-          <li className="list-none">Trời bắt đầu mưa, nên chúng tôi về nhà.</li>
+          <li className="list-none">We went home because it started to rain.</li>
 
         </ul>
 
@@ -219,21 +219,21 @@ export default function SO1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tập trung tạo các câu mà "<strong>SO</strong>" thể hiện các chức năng khác nhau của nó: nhấn mạnh, thay thế, hoặc chỉ kết quả.</p>
+      <p className="text-indent-whole">Focus on creating sentences in which "SO" expresses its various functions: emphasis, substitution, or simply indicating the result.</p>
 
         <ul className="list-square">
 
           <li>she was SO TIred that she FELL aSLEEP imMEdiately.</li>
-          <li className="list-none">Cô ấy mệt đến mức ngủ thiếp đi ngay lập tức.</li>
-          <li className="margin-bottom-20 list-none">➝ SO nhấn mạnh TIred: SO là ADverb</li>
+          <li className="list-none">She was tired. She fell asleep right away.</li>
+          <li className="margin-bottom-20 list-none">➝ "SO" emphasizes TIred: <span className="highlight-255-padding-0-4">"SO" is an ADverb</span></li>
 
           <li>are you COMing to the PARTy? "i THINK SO."</li>
           <li className="list-none">Bạn có đến dự tiệc không? “Tôi nghĩ là có.”</li>
-          <li className="margin-bottom-20 list-none">➝ SO thay thế OBject: SO là PROnoun</li>
+          <li className="margin-bottom-20 list-none">➝ "SO" replaces OBject: <span className="highlight-255-padding-0-4">"SO" is PROnoun</span></li>
 
           <li>it STARTed RAINing HEAVily, so we deCIded to GO HOME.</li>
-          <li className="list-none">Trời bắt đầu mưa to, nên chúng tôi quyết định về nhà.</li>
-          <li className="list-none">➝ so chỉ kết quả: so là conJUNCtion</li>
+          <li className="list-none">It started pouring, so we decided to go home.</li>
+          <li className="list-none">➝ "so" indicates the result: <span className="highlight-255-padding-0-4">"so" is a prepoSITion</span></li>
 
         </ul>
 
@@ -247,19 +247,19 @@ export default function SO1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>SO</strong>" trong giao tiếp hàng ngày và khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Use "SO" regularly in everyday conversation and writing.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa VERy và <strong>SO</strong>):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between VERy and SO):</p>
 
           <ol>
 
             <li value="1">she was <Link to="/vocabulary/VERy-1">VERy</Link> HAPpy.</li>
-            <li className="list-none">Cô ấy rất vui.</li>
-            <li className="list-none margin-bottom-20">Đơn thuần chỉ mức độ. Dùng để chỉ mức độ cao nhưng thường mang tính chất khách quan hơn, ít cảm xúc hơn.</li>
+            <li className="list-none">She was really pleased.</li>
+            <li className="list-none margin-bottom-20">Simply indicates degree. Used to denote a high degree but is generally more objective and less emotional.</li>
 
             <li value="2">she was SO HAPpy that she CRIED.</li>
-            <li className="list-none">Cô ấy vui đến mức đã khóc.</li>
-            <li className="list-none">Nhấn mạnh cảm xúc và kết quả. Thường dùng <span className="highlight-255-padding-0-4">để thể hiện cảm xúc mạnh hơn</span> hoặc bất ngờ về mức độ. Đôi khi có thể đi kèm với câu con "that".</li>
+            <li className="list-none">She was very happy, and she started crying.</li>
+            <li className="list-none">Emphasizes emotions and results. Often used to <span className="highlight-255-padding-0-4">express stronger emotions</span> or surprise at the degree of something. It can sometimes be accompanied by the word "that."</li>
 
           </ol>
 
@@ -275,11 +275,11 @@ export default function SO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>SO</strong>" là một từ rất linh hoạt và có nhiều chức năng khác nhau trong câu.</li>
+          <li>"SO" is a very versatile word that serves many different functions in a sentence.</li>
 
-          <li>Khi "<strong>SO</strong>" là ADverb chỉ mức độ, nó thường đứng trước ADjective hoặc ADverb.</li>
+          <li>When "SO" is an adverb of degree, it usually comes before an adjective or another adverb.</li>
 
-          <li className="margin-bottom-20">Khi "<strong>so</strong>" là LIÊN, nó thường đứng ở đầu câu con chỉ kết quả.</li>
+          <li className="margin-bottom-20">When "so" is a conjunction, it usually appears at the beginning of a subordinate clause to indicate a result.</li>
 
         </ul>
 

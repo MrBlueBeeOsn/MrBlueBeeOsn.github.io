@@ -15,7 +15,7 @@ export default function SO2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-muc-do-cao"><mark className="highlight-tertiary-padding-4-8">ADverbs: mức độ cao</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-HIGHly"><mark className="highlight-tertiary-padding-4-8">HIGHly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">SO
         <sup>
@@ -79,7 +79,7 @@ export default function SO2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>SO</strong>" (vậy, quá, nên) khi nó đóng vai trò là một ADverb trong tiếng Anh nhé.</p>
+      <p>Great! Let’s take a closer look at how to use the word “SO” (so, too, therefore) when it functions as an adverb in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -93,7 +93,7 @@ export default function SO2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb rất linh hoạt, có thể dùng để nhấn mạnh mức độ, chỉ kết quả hoặc đồng ý với một điều gì đó.
+            &nbsp;is a very versatile adverb that can be used to emphasize degree, indicate a result, or express agreement with something.
 
           </p>
 
@@ -108,37 +108,37 @@ export default function SO2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="MUCH-for">THANK you SO MUCH for your HELP!</li>
-        <li className="list-none margin-bottom-20">Cảm ơn bạn rất nhiều vì sự giúp đỡ của bạn!</li>
+        <li className="list-none margin-bottom-20">I am very grateful for your help.</li>
 
         <li value="2" id="many-PEOple">there are SO <strong>man</strong>y PEOple here toDAY.</li>
-        <li className="list-none margin-bottom-20">Hôm nay ở đây có rất nhiều người.</li>
+        <li className="list-none margin-bottom-20">There are a lot of people here today.</li>
 
         <li value="3" id="GOOD">this CAKE is SO GOOD!</li>
-        <li className="list-none margin-bottom-20">Chiếc bánh này ngon quá!</li>
+        <li className="list-none margin-bottom-20">This cake is delicious!</li>
 
         <li value="4" id="CAREfully-through">she DROVE SO CAREfully through the NARrow STREETS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy lái xe rất cẩn thận trên những con đường hẹp.</li>
+        <li className="list-none margin-bottom-20">She drove slowly and carefully through the small streets.</li>
 
         <li value="5" id="FAST-when">TIME FLIES SO FAST when you're HAVing FUN.</li>
-        <li className="list-none margin-bottom-20">Thời gian trôi quá nhanh khi bạn đang vui vẻ.</li>
+        <li className="list-none margin-bottom-20">Time goes by quickly when you're enjoying yourself.</li>
 
         <li value="6" id="that">he STUDied HARD so that he could PASS the eXAM.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã học rất chăm chỉ để có thể đỗ kỳ thi.</li>
+        <li className="list-none margin-bottom-20">He studied diligently so he could succeed on the exam.</li>
 
         <li value="7" id="LONG-for-NOW">WELL, SO LONG for NOW!</li>
-        <li className="list-none margin-bottom-20">Thế là, tạm biệt trong lúc này!</li>
+        <li className="list-none margin-bottom-20">We will see each other again soon!</li>
 
         <li className="list-none" id="LONG-since">it's been SO LONG since we LAST MET.</li>
-        <li className="list-none margin-bottom-20">Đã lâu quá rồi kể từ lần cuối chúng ta gặp nhau.</li>
+        <li className="list-none margin-bottom-20">It's been a long time since we last saw each other.</li>
 
         <li value="8" id="WHAT">i MADE a misTAKE. "SO WHAT? <strong>ever</strong>yone MAKES misTAKES".</li>
-        <li className="list-none margin-bottom-20">Tôi đã mắc lỗi. “Thì sao? Ai cũng mắc lỗi mà.”</li>
+        <li className="list-none margin-bottom-20">I made a mistake. "It's okay to make mistakes. Everyone does."</li>
 
         <li value="9" id="ON">we disCUSSED the BUDget, the TIMEline, the reSOURces, and SO ON.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi đã thảo luận về ngân sách, tiến độ, nguồn lực, v.v.</li>
+        <li className="list-none margin-bottom-20">We talked about the budget, the timeline, the resources, and other things like that.</li>
 
         <li value="10" id="do-i-am-i">i LOVE CHOColate. "SO do i.", "SO am i".</li>
-        <li className="list-none margin-bottom-20">Tớ thích sô-cô-la. "Tớ cũng vậy.", "Tớ cũng thế."</li>
+        <li className="list-none margin-bottom-20">I really like chocolate. "I do, too," or "I am, too."</li>
 
       </ol>
 
@@ -155,16 +155,16 @@ export default function SO2(): React.JSX.Element {
         <ul className="list-square">
 
           <li><strong>SO</strong> BEAUtiful, <strong>SO</strong> <Link to="/vocabulary/QUICKly-1">QUICKly</Link></li>
-          <li className="list-none">Đẹp quá, nhanh quá!</li>
-          <li className="list-none margin-bottom-20">Nhấn mạnh mức độ: "<strong>SO</strong>" thường được dùng để nhấn mạnh ADjective hoặc ADverb.</li>
+          <li className="list-none">It was beautiful and it happened quickly.</li>
+          <li className="list-none margin-bottom-20">Emphasizing degree: "SO" is often used to <span className="highlight-255-padding-0-4">emphasize an adjective or adverb.</span></li>
           
 
           <li>it RAINED HEAVily, <strong>so</strong> we STAYED HOME.</li>
-          <li className="list-none">Trời mưa rất to, nên chúng tôi ở nhà.</li>
-          <li className="list-none margin-bottom-20">Chỉ kết quả: "<strong>so</strong>" có thể dùng để giới thiệu kết quả của một hành động hoặc tình huống.</li>
+          <li className="list-none">It rained really hard, so we didn't go out.</li>
+          <li className="list-none margin-bottom-20">Result clause: "so" can be used to <span className="highlight-255-padding-0-4">introduce the result of an action</span> or situation.</li>
           
 
-          <li>Đa dạng ngữ cảnh: "<strong>SO</strong>" là một từ rất phổ biến và có nhiều cách dùng khác nhau tùy thuộc vào ngữ cảnh.</li>
+          <li>Contextual Variation: "SO" is a very common word and has many different uses depending on the context.</li>
 
         </ul>
 

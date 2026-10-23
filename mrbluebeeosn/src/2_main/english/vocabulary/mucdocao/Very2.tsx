@@ -15,7 +15,7 @@ export default function VERy2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-muc-do-cao"><mark className="highlight-tertiary-padding-4-8">ADverbs: mức độ cao</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-HIGHly"><mark className="highlight-tertiary-padding-4-8">HIGHly</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">VERy
         <sup>
@@ -75,7 +75,7 @@ export default function VERy2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>VERy</strong>" (rất) trong tiếng Anh nhé.</p>
+      <p>Great! Let's take a closer look at how to use the word "VERy" (very) in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function VERy2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để nhấn mạnh mức độ của một ADjective hoặc một ADverb khác.
+            &nbsp;is often used to emphasize the degree of another ADjective or ADverb.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function VERy2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="HAPpy-to-SEE">i VERy HAPpy to SEE you.</li>
-        <li className="list-none margin-bottom-20">Tôi rất vui được gặp bạn.</li>
+        <li className="list-none margin-bottom-20">I'm very happy that we met.</li>
 
         <li value="2" id="TIred-after">i VERy TIred <strong>af</strong>ter WORK.</li>
-        <li className="list-none margin-bottom-20">Tôi rất mệt sau khi đi làm về.</li>
+        <li className="list-none margin-bottom-20">I'm exhausted from a hard day's work.</li>
 
         <li value="3" id="HUNgry">i VERy HUNgry. can we EAT <Link to="/vocabulary/NOW-1">NOW</Link>?</li>
-        <li className="list-none margin-bottom-20">Tớ đói lắm. Bây giờ chúng ta ăn được chưa?</li>
+        <li className="list-none margin-bottom-20">I am extremely hungry. Is it ok to eat now?</li>
 
         <li value="4" id="GOOD">your ENGlish VERy GOOD.</li>
-        <li className="list-none margin-bottom-20">Tiếng Anh của bạn rất giỏi.</li>
+        <li className="list-none margin-bottom-20">Your English is excellent!</li>
 
         <li value="5" id="BAD-toDAY">the WEATHer VERy BAD <Link to="/vocabulary/toDAY-1">toDAY</Link>.</li>
-        <li className="list-none margin-bottom-20">Hôm nay thời tiết rất xấu.</li>
+        <li className="list-none margin-bottom-20">It's very windy and cold today.</li>
 
         <li value="6" id="RUN-QUICKly">she RUN VERy <Link to="/vocabulary/QUICKly-1">QUICKly</Link>.</li>
-        <li className="list-none margin-bottom-20">Cô ấy chạy rất nhanh.</li>
+        <li className="list-none margin-bottom-20">She runs very fast.</li>
 
         <li value="7" id="SPEAK-SLOWly">PLEASE SPEAK VERy <Link to="/vocabulary/SLOWly-1">SLOWly</Link>.</li>
-        <li className="list-none margin-bottom-20">Xin hãy nói rất chậm.</li>
+        <li className="list-none margin-bottom-20">Speak slowly, please.</li>
 
         <li value="8" id="HANdle-CAREfully">PLEASE HANdle this GLASS VERy <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
-        <li className="list-none margin-bottom-20">Xin hãy cẩn thận khi xử lý chiếc cốc này.</li>
+        <li className="list-none margin-bottom-20">Please handle this glass with care.</li>
 
         <li value="9" id="LIKE-MUCH">i LIKE COFfee VERy MUCH.</li>
-        <li className="list-none margin-bottom-20">Tôi rất thích cà phê.</li>
+        <li className="list-none margin-bottom-20">I really like coffee.</li>
 
         <li value="10" id="have-LITtle-TIME">i have VERy LITtle TIME.</li>
-        <li className="list-none margin-bottom-20">Tôi có rất ít thời gian.</li>
+        <li className="list-none margin-bottom-20">I don't have a lot of time.</li>
 
       </ol>
 
@@ -147,9 +147,9 @@ export default function VERy2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>VERy</strong>" thường đứng trước ADjective hoặc ADverb để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"VERy" is often placed before an adjective or adverb to emphasize their meaning.</li>
 
-          <li className="margin-bottom-20">Có nhiều ADverb khác cũng có thể được sử dụng để thay thế cho "<strong>VERy</strong>" như: <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link>, inCREDibly, <Link to="/vocabulary/HIGHly-1">HIGHly</Link>, DEEPly, và nhiều hơn nữa.</li>
+          <li className="margin-bottom-20">There are many other adverbs that can be used in place of "VERy," such as: <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link>, inCREDibly, <Link to="/vocabulary/HIGHly-1">HIGHly</Link>, DEEPly, and many more.</li>
 
         </ul>
 

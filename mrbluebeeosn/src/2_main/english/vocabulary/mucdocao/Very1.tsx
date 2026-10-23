@@ -15,7 +15,7 @@ export default function VERy1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-muc-do-cao"><mark className="highlight-tertiary-padding-4-8">ADverbs: mức độ cao</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-HIGHly"><mark className="highlight-tertiary-padding-4-8">ADverbs: mức cao</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">VERy
         <sup><Link to="/vocabulary/VERy-1">&nbsp;1&nbsp;</Link>
@@ -55,7 +55,7 @@ export default function VERy1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>VERy</strong>" nhé.</p>
+      <p>Great! Let's dive into an analysis of the word "VERy."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -71,7 +71,7 @@ export default function VERy1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Rất</li>
+            <li>Very</li>
 
           </ul>
 
@@ -83,17 +83,17 @@ export default function VERy1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Dùng để nhấn mạnh mức độ của một ADjective hoặc một ADverb khác, cho thấy một đặc điểm nào đó ở mức độ cao.</p>
+      <p className="margin-top-30 text-indent-whole">Used to emphasize the degree of another adjective or adverb, indicating that a certain characteristic is present to a high degree.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she is VERy BEAUtiful.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy rất xinh đẹp.</li>
+          <li className="margin-bottom-20 list-none">She is stunning.</li>
 
           <li>he RUNS VERy FAST.</li>
-          <li className="list-none">Cậu ấy chạy rất nhanh.</li>
+          <li className="list-none">He runs really quickly.</li>
 
         </ul>
 
@@ -109,7 +109,7 @@ export default function VERy1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>VERy</strong>". Tuy nhiên, "<strong>VERy</strong>" thường được kết hợp với các ADjective và ADverb khác để tạo thành các cụm từ mới.</li>
+          <li className="list-none">"VERy" does not have a direct family. However, "VERy" is often combined with other adjectives and adverbs to form new phrases.</li>
 
         </ul>
 
@@ -126,10 +126,10 @@ export default function VERy1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link> inTELligent.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy cực kỳ thông minh.</li>
+          <li className="margin-bottom-20 list-none">She is very smart.</li>
 
           <li>he <Link to="/vocabulary/HIGHly-1">HIGHly</Link> MOtivated.</li>
-          <li className="list-none">Cậu ấy chạy rất nhanh.</li>
+          <li className="list-none">He is extremely eager and driven.</li>
 
         </ul>
 
@@ -148,10 +148,10 @@ export default function VERy1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm SLIGHTly TIred.</li>
-          <li className="margin-bottom-20 list-none">Tớ hơi mệt một chút.</li>
+          <li className="margin-bottom-20 list-none">I'm a little tired.</li>
 
           <li>she <Link to="/vocabulary/NOT-1">NOT</Link> VERy TALL.</li>
-          <li className="list-none">Cô ấy không cao lắm.</li>
+          <li className="list-none">She is not a tall person.</li>
 
         </ul>
       
@@ -171,12 +171,12 @@ export default function VERy1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hãy tưởng tượng một quả táo đỏ rực, bạn có thể miêu tả là:</p>
+      <p className="text-indent-whole">Imagine a bright red apple. How would you describe it?</p>
 
         <ul className="list-square">
 
           <li>the APple VERy RED.</li>
-          <li className="list-none">Quả táo rất đỏ.</li>
+          <li className="list-none">The apple has a deep red color.</li>
 
         </ul>
 
@@ -190,12 +190,12 @@ export default function VERy1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>VERy</strong>".</p>
+      <p className="text-indent-whole">Try to come up with as many example sentences as possible using "VERy."</p>
 
         <ul className="list-square">
 
           <li>she has VERy LONG HAIR.</li>
-          <li className="list-none">Cô ấy có mái tóc rất dài.</li>
+          <li className="list-none">Her hair is really long.</li>
 
         </ul>
 
@@ -209,19 +209,19 @@ export default function VERy1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>VERy</strong>".</p>
+      <p className="text-indent-whole margin-bottom-20">Read and write frequently to build your vocabulary and improve your use of "VERy."</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa exTREMEly và <strong>VERy</strong>):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between "exTREMEly" and "VERy"):</p>
 
           <ol>
 
             <li value="1">she <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link> HAPpy.</li>
-            <li className="list-none">Cô ấy cực kỳ hạnh phúc.</li>
-            <li className="list-none margin-bottom-20">Nhấn mạnh một mức độ cực kỳ cao.</li>
+            <li className="list-none">She's thrilled.</li>
+            <li className="list-none margin-bottom-20">Emphasize an extremely high level.</li>
 
             <li value="2">she VERy HAPpy.</li>
-            <li className="list-none">Cô ấy rất vui.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh một mức độ cao.</span></li>
+            <li className="list-none">She's in a good mood.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Emphasize a high level.</span></li>
 
           </ol>
 
@@ -237,11 +237,11 @@ export default function VERy1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>VERy</strong>" thường đứng trước ADjective hoặc ADverb.</li>
+          <li>"VERy" usually comes before an adjective or adverb.</li>
 
-          <li>"<strong>VERy</strong>" có thể được sử dụng để nhấn mạnh cả tính chất tích cực và tiêu cực.</li>
+          <li>"VERy" can be used to emphasize both positive and negative qualities.</li>
 
-          <li className="margin-bottom-20">Để tránh lạm dụng "<strong>VERy</strong>", bạn có thể sử dụng các ADjective hoặc ADverb mạnh hơn hoặc các cấu trúc so sánh hơn.</li>
+          <li className="margin-bottom-20">To avoid overusing "VERy," you can use stronger adjectives or adverbs, or comparative structures.</li>
 
         </ul>
 

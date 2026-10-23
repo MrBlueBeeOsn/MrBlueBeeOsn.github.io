@@ -211,15 +211,24 @@ export default function VocabularyIndex(): React.JSX.Element {
 			<div className="vocabulary-container margin-top-20">
 
 				{/* =============================
-							ADverbs: mức độ cao
+							HIGHly
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-muc-do-cao"><mark className="highlight-secondary-padding-2-4">ADverbs: mức độ cao</mark></summary>
+					<summary id="ADverbs-HIGHly"><mark className="highlight-secondary-padding-2-4">HIGHly</mark></summary>
 
 					<ul className="list-border1">
 
+						<li>
+							<Link to="/vocabulary/HIGHly-1">HIGHly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/HIGHly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
 						<li>
 							<Link to="/vocabulary/SO-1">SO
 								<sup>&nbsp;1&nbsp;</sup>
@@ -243,15 +252,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/exTREMEly-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/HIGHly-1">HIGHly
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/HIGHly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
