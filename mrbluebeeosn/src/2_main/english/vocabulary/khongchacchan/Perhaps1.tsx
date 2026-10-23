@@ -55,7 +55,7 @@ export default function perHAPS1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>perHAPS</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "perHAPS."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -71,7 +71,7 @@ export default function perHAPS1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Có lẽ</li>
+            <li>Perhaps</li>
 
           </ul>
 
@@ -83,17 +83,17 @@ export default function perHAPS1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Diễn tả sự không chắc chắn, khả năng xảy ra một điều gì đó.</p>
+      <p className="margin-top-30 text-indent-whole">Expresses uncertainty or the likelihood of something happening.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">perHAPS it will RAIN toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Có lẽ ngày mai sẽ có mưa.</li>
+          <li className="margin-bottom-20 list-none">It may rain tomorrow.</li>
 
           <li>perHAPS you should CALL her.</li>
-          <li className="list-none">Có lẽ bạn nên gọi cho cô ấy.</li>
+          <li className="list-none">You should maybe give her a call.</li>
 
         </ul>
 
@@ -109,7 +109,7 @@ export default function perHAPS1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>perHAPS</strong>" vì nó là một từ đơn lẻ.</li>
+          <li className="list-none">There is no direct family for "perHAPS" because it is a single word.</li>
 
         </ul>
 
@@ -126,10 +126,10 @@ export default function perHAPS1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/MAYbe-1">MAYbe</Link> we can GO to the PARK LAter.</li>
-          <li className="margin-bottom-20 list-none">Có lẽ sau này chúng ta có thể đi công viên.</li>
+          <li className="margin-bottom-20 list-none">We could go to the park together later.</li>
           
           <li>it is <Link to="/vocabulary/POSsibly-1">POSsibly</Link> the BEST BOOK i've EVer READ.</li>
-          <li className="list-none">Đây có thể là cuốn sách hay nhất mà tôi từng đọc.</li>
+          <li className="list-none">I've just finished reading what may very well be the best book I've ever read.</li>
 
         </ul>
 
@@ -148,11 +148,10 @@ export default function perHAPS1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> WANT to GO to the PARTy.</li>
-          <li className="margin-bottom-20 list-none">Tớ chắc chắn muốn đi dự tiệc.</li>
+          <li className="margin-bottom-20 list-none">I really want to go to the party.</li>
 
           <li><Link to="/vocabulary/CERtainly-1">CERtainly</Link>, i will HELP you.</li>
-          <li className="list-none">CERtainly, I will help you.</li>
-          <li className="list-none">Chắc chắn rồi, tôi sẽ giúp bạn.</li>
+          <li className="list-none">Absolutely, I'll be there to help.</li>
 
         </ul>
       
@@ -172,12 +171,12 @@ export default function perHAPS1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hãy tưởng tượng một đám mây mù bao phủ một sự kiện trong tương lai.</p>
+      <p className="text-indent-whole">Imagine a foggy cloud shrouding a future event.</p>
 
         <ul className="list-square">
 
           <li>it's HARD to SAY for SURE, but perHAPS the PROJect will be deLAYED.</li>
-          <li className="list-none">Rất khó để khẳng định chắc chắn, nhưng có lẽ dự án sẽ bị hoãn lại.</li>
+          <li className="list-none">We're not sure what will happen. The project might be delayed.</li>
 
         </ul>
 
@@ -191,12 +190,12 @@ export default function perHAPS1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>perHAPS</strong>" trong các ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Try to come up with as many example sentences as possible using "perHAPS" in different contexts.</p>
 
         <ul className="list-square">
 
           <li>perHAPS it will RAIN <Link to="/vocabulary/toMORrow-1">toMORrow</Link>.</li>
-          <li className="list-none">Có lẽ ngày mai sẽ có mưa.</li>
+          <li className="list-none">Tomorrow might rain.</li>
 
         </ul>
 
@@ -210,19 +209,19 @@ export default function perHAPS1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>perHAPS</strong>".</p>
+      <p className="text-indent-whole margin-bottom-20">Read and write frequently to build your vocabulary and improve your use of "perHAPS."</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa MAYbe và <strong>perHAPS</strong>):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between "MAYbe" and "perHAPS"):</p>
 
           <ol>
 
             <li value="1"><Link to="/vocabulary/MAYbe-1">MAYbe</Link> we can gO OUT for DINner toNIGHT.</li>
-            <li className="list-none margin-bottom-20">Có lẽ tối nay chúng ta có thể đi ăn tối ngoài.</li>
-            <li className="list-none margin-bottom-20">Thông dụng hơn và thường được sử dụng trong giao tiếp hàng ngày.</li>
+            <li className="list-none">Maybe we could go out to eat tonight.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">More common</span> and frequently used in everyday communication.</li>
 
             <li value="2">perHAPS we should reconSIDer our deCISion.</li>
             <li className="list-none">Có lẽ chúng ta nên xem xét lại quyết định của mình.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Mang tính trang trọng hơn một chút</span> so với "maybe".</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">It's a bit more formal</span> than "maybe."</li>
 
           </ol>
 
@@ -238,9 +237,9 @@ export default function perHAPS1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>perHAPS</strong>" thường đứng ở đầu câu hoặc trước hành động chính.</li>
+          <li>"perHAPS" usually appears at the beginning of a sentence or before the main action.</li>
 
-          <li className="margin-bottom-20">"<strong>perHAPS</strong>" thường được sử dụng để diễn tả sự suy đoán hoặc không chắc chắn.</li>
+          <li className="margin-bottom-20">"perHAPS" is often used to express speculation or uncertainty.</li>
 
         </ul>
 

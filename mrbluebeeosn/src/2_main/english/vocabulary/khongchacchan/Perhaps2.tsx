@@ -75,7 +75,7 @@ export default function perHAPS2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>perHAPS</strong>" (có lẽ) trong tiếng Anh nhé.</p>
+      <p>Great! Let's take a closer look at how to use the word "perHAPS" (perhaps) in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function perHAPS2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để diễn tả sự không chắc chắn hoặc một khả năng xảy ra.
+            &nbsp;is often used to express uncertainty or a possibility.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function perHAPS2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="howEVer">perHAPS, HOWEVer, we should conSIDer OTHer OPTions.</li>
-        <li className="list-none margin-bottom-20">Tuy nhiên, có lẽ chúng ta nên xem xét các phương án khác.</li>
+        <li className="list-none margin-bottom-20">We should think about other options, though.</li>
 
         <li value="2" id="on-the-OTHer-HAND">perHAPS, on the OTHer HAND, she is JUST TIred.</li>
-        <li className="list-none margin-bottom-20">Có thể, mặt khác, cô ấy chỉ đơn giản là mệt mỏi thôi.</li>
+        <li className="list-none margin-bottom-20">She might be tired.</li>
 
         <li value="3" id="it-is-POSsible-that">perHAPS, it is POSsible that he forGOT.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, có thể là anh ấy đã quên.</li>
+        <li className="list-none margin-bottom-20">He might have forgotten.</li>
 
         <li value="4" id="it-is-TRUE-that">perHAPS, it is TRUE that she is NOT INTERested.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, đúng là cô ấy không có hứng thú.</li>
+        <li className="list-none margin-bottom-20">It's possible that she's just not interested.</li>
 
         <li value="5" id="if-you-STUDy-HARDer">perHAPS, if you STUDy HARDer, you will PASS the eXAM.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, nếu bạn học chăm chỉ hơn, bạn sẽ đỗ kỳ thi.</li>
+        <li className="list-none margin-bottom-20">You will probably do better on the exam if you study more.</li>
 
         <li value="6" id="in-THAT-CASE">perHAPS, in THAT CASE, we should postPONE the MEETing.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, trong trường hợp đó, chúng ta nên hoãn cuộc họp lại.</li>
+        <li className="list-none margin-bottom-20">If so, maybe we should cancel the meeting.</li>
 
         <li value="7" id="instead-of-GOing-to-the">perHAPS, in<strong>stead</strong> of GOing to the MOvies, we could STAY HOME and WATCH a DVD.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, thay vì đi xem phim, chúng ta có thể ở nhà và xem đĩa DVD.</li>
+        <li className="list-none margin-bottom-20">Maybe we should stay home and watch a movie instead of going out to the movies.</li>
 
         <li value="8" id="we-should-ASK-for">perHAPS, we should ASK for HELP.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, chúng ta nên xin giúp đỡ.</li>
+        <li className="list-none margin-bottom-20">Perhaps asking for help is a good idea.</li>
 
         <li value="9" id="i-THINK">perHAPS, i THINK it's TIME to GO HOME.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, tớ nghĩ đã đến lúc về nhà rồi.</li>
+        <li className="list-none margin-bottom-20">Maybe it's time to head back home.</li>
 
         <li value="10" id="it-SEEMS-that">perHAPS, it SEEMS that he is ANGry.</li>
-        <li className="list-none margin-bottom-20">Có lẽ, có vẻ như anh ấy đang giận.</li>
+        <li className="list-none margin-bottom-20">It looks like he's angry.</li>
 
       </ol>
 
@@ -147,15 +147,15 @@ export default function perHAPS2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>perHAPS</strong>" thường được đặt ở đầu câu để nhấn mạnh tính không chắc chắn.</li>
+          <li>"perHAPS" is often placed at the beginning of a sentence to emphasize uncertainty.</li>
 
-          <li className="margin-bottom-20">Ý nghĩa chính xác của cụm từ phụ thuộc vào ngữ cảnh sử dụng.</li>
+          <li className="margin-bottom-20">The exact meaning of the phrase depends on the context in which it is used.</li>
 
         </ul>
 
       </div>
 
-      <p className="margin-top-50">Hy vọng những thông tin này sẽ giúp bạn hiểu rõ hơn về cách sử dụng từ "<strong>perHAPS</strong>" trong tiếng Anh! 🐝</p>
+      <p className="margin-top-50">Hoping this information helps you better understand how to use the word "perHAPS" in English! 🐝</p>
 
       <div className="viewcounter">
       

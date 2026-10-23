@@ -55,7 +55,7 @@ export default function MAYbe1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>MAYbe</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "MAYbe."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -71,7 +71,7 @@ export default function MAYbe1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Có thể</li>
+            <li>It is possible</li>
 
           </ul>
 
@@ -83,17 +83,17 @@ export default function MAYbe1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Diễn tả sự không chắc chắn, khả năng xảy ra một điều gì đó.</p>
+      <p className="margin-top-30 text-indent-whole">Expresses uncertainty or the likelihood of something happening.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">MAYbe it will RAIN toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Có thể ngày mai sẽ có mưa.</li>
+          <li className="margin-bottom-20 list-none">It might rain tomorrow.</li>
 
           <li>MAYbe you should CALL her.</li>
-          <li className="list-none">Có lẽ bạn nên gọi cho cô ấy.</li>
+          <li className="list-none">It might be a good idea to give her a call.</li>
 
         </ul>
 
@@ -109,7 +109,7 @@ export default function MAYbe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>MAYbe</strong>" vì nó là một từ đơn lẻ.</li>
+          <li className="list-none">There is no direct family for "MAYbe" because it is a single word.</li>
 
         </ul>
 
@@ -126,10 +126,10 @@ export default function MAYbe1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/perHAPS-1">perHAPS</Link> we can meeT UP LAter.</li>
-          <li className="margin-bottom-20 list-none">Có lẽ chúng ta có thể hẹn gặp nhau sau nhé.</li>
+          <li className="margin-bottom-20 list-none">Maybe we can get together later.</li>
 
           <li>it's <Link to="/vocabulary/POSsibly-1">POSsibly</Link> the BEST DAY of my LIFE.</li>
-          <li className="list-none">Có lẽ đây là ngày tuyệt vời nhất trong cuộc đời tôi.</li>
+          <li className="list-none">Today might be the best day of my life.</li>
 
         </ul>
 
@@ -148,10 +148,10 @@ export default function MAYbe1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> WANT to GO.</li>
-          <li className="margin-bottom-20 list-none">Tôi chắc chắn muốn đi.</li>
+          <li className="margin-bottom-20 list-none">I really, really want to go.</li>
 
           <li><Link to="/vocabulary/CERtainly-1">CERtainly</Link>, you can BORrow my BOOK.</li>
-          <li className="list-none">Tất nhiên, bạn có thể mượn cuốn sách của tôi.</li>
+          <li className="list-none">You are welcome to borrow my book.</li>
 
         </ul>
       
@@ -171,12 +171,12 @@ export default function MAYbe1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một dấu hỏi lớn khi bạn không chắc chắn về điều gì đó.</p>
+      <p className="text-indent-whole">Imagine a big question mark when you're unsure about something.</p>
 
         <ul className="list-square">
 
           <li>MAYbe you KNOW the ANswer?</li>
-          <li className="list-none">Có lẽ bạn biết câu trả lời?</li>
+          <li className="list-none">Do you know the answer to this question?</li>
 
         </ul>
 
@@ -190,12 +190,12 @@ export default function MAYbe1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo nhiều câu với "<strong>MAYbe</strong>" trong các tình huống khác nhau, ví dụ khi đưa ra quyết định hoặc dự đoán.</p>
+      <p className="text-indent-whole">Create several sentences using "MAYbe" in different situations, such as when making a decision or making a prediction.</p>
 
         <ul className="list-square">
 
           <li>i'm NOT SURE, MAYbe i'll GO to the PARTy.</li>
-          <li className="list-none">Tớ không chắc, có lẽ tớ sẽ đi dự tiệc.</li>
+          <li className="list-none">I'm not sure. I'm thinking of going to the party.</li>
 
         </ul>
 
@@ -209,19 +209,19 @@ export default function MAYbe1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>MAYbe</strong>" trong giao tiếp hàng ngày.</p>
+      <p className="text-indent-whole margin-bottom-20">I often use "MAYbe" in everyday conversation.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa perHAPS và <strong>MAYbe</strong>):</p>
+        <p className="text-indent-whole">Comparison examples (the difference between perHAPS and MAYbe):</p>
 
           <ol>
 
             <li value="1"><Link to="/vocabulary/perHAPS-1">perHAPS</Link> you could HELP me with this PROJect.</li>
-            <li className="list-none">Có lẽ bạn có thể giúp tôi thực hiện dự án này.</li>
-            <li className="list-none margin-bottom-20">Cách nói lịch sự hơn, thường dùng trong văn viết hoặc các tình huống trang trọng.</li>
+            <li className="list-none">I need some help with a project. Maybe you can help.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">A more polite way of saying it,</span> typically used in writing or formal situations.</li>
 
             <li value="2">MAYbe we can GO to the MOvies toNIGHT.</li>
-            <li className="list-none">Có lẽ tối nay chúng ta có thể đi xem phim.</li>
-            <li className="list-none">Cách nói thông thường, <span className="highlight-255-padding-0-4">thường dùng trong giao tiếp hàng ngày.</span></li>
+            <li className="list-none">Let's watch a movie tonight.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Common expressions,</span> typically used in everyday conversation.</li>
 
           </ol>
 
@@ -237,9 +237,9 @@ export default function MAYbe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>MAYbe</strong>" thường đứng ở đầu câu hoặc trước hành động chính.</li>
+          <li>"MAYbe" usually appears at the beginning of a sentence or before the main action.</li>
 
-          <li className="margin-bottom-20">Nó thể hiện sự do dự hoặc không chắc chắn của người nói.</li>
+          <li className="margin-bottom-20">It expresses the speaker's hesitation or uncertainty.</li>
 
         </ul>
 

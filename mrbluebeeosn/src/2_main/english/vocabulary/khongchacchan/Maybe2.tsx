@@ -75,7 +75,7 @@ export default function MAYbe2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>MAYbe</strong>" (có thể) trong tiếng Anh nhé.</p>
+      <p>Great! Let's take a closer look at how to use the word "MAYbe" in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function MAYbe2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb thường được dùng để diễn tả sự không chắc chắn, khả năng xảy ra một điều gì đó.
+            &nbsp;is an adverb commonly used to express uncertainty or the possibility that something might happen.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function MAYbe2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="LAter">let's meeT UP for COFfee MAYbe LAter.</li>
-        <li className="list-none margin-bottom-20">Hãy hẹn gặp nhau uống cà phê nhé, có lẽ là sau này.</li>
+        <li className="list-none margin-bottom-20">Let's get coffee sometime later.</li>
 
         <li value="2" id="NOT">i'm NOT SURE if i can MAKE it. MAYbe NOT.</li>
-        <li className="list-none margin-bottom-20">Tớ không chắc là mình có thể đến được không. Có lẽ là không.</li>
+        <li className="list-none margin-bottom-20">I'm not sure if I'll be able to make it. It's possible that it is not.</li>
 
         <li value="3" id="SO">you're RIGHT. MAYbe SO.</li>
-        <li className="list-none margin-bottom-20">Bạn nói đúng. Có lẽ là vậy.</li>
+        <li className="list-none margin-bottom-20">You're right. It's possible.</li>
 
         <li value="4" id="if-i-STUDy-HARDer">MAYbe if i STUDy HARDer, i can PASS the eXAM.</li>
-        <li className="list-none margin-bottom-20">Có lẽ nếu tớ học chăm chỉ hơn, tớ sẽ đạt kết quả tốt trong kỳ thi.</li>
+        <li className="list-none margin-bottom-20">If I study more, I might get a better grade on the test.</li>
 
         <li value="5" id="or-GO">i DON'T KNOW WHAT to DO. should i STAY or MAYbe GO?</li>
-        <li className="list-none margin-bottom-20">Tôi không biết phải làm sao. Tôi nên ở lại hay có lẽ nên đi?</li>
+        <li className="list-none margin-bottom-20">I'm unsure what to do. Should I stay or leave?</li>
 
         <li value="6" id="JUST">JUST MAYbe, he'll CHANGE his MIND.</li>
-        <li className="list-none margin-bottom-20">Có thể, anh ấy sẽ thay đổi quan điểm.</li>
+        <li className="list-none margin-bottom-20">There's a chance he'll change his mind.</li>
 
         <li value="7" id="SOMEday">MAYbe SOMEday i'll VISit jaPAN.</li>
-        <li className="list-none margin-bottom-20">Có lẽ một ngày nào đó tôi sẽ đến thăm Nhật Bản.</li>
+        <li className="list-none margin-bottom-20">I might visit Japan one day.</li>
 
         <li value="8" id="it's-because">MAYbe it's be<strong>cause</strong> i'm TIred.</li>
-        <li className="list-none margin-bottom-20">Có lẽ là vì tớ mệt rồi.</li>
+        <li className="list-none margin-bottom-20">It's probably because I'm exhausted.</li>
 
         <li value="9" id="we-should-LEAVE-NOW">i'm NOT SURE, MAYbe we should LEAVE NOW.</li>
-        <li className="list-none margin-bottom-20">Tớ không chắc, có lẽ chúng ta nên đi ngay bây giờ.</li>
+        <li className="list-none margin-bottom-20">I don't know. We should probably leave now.</li>
 
         <li value="10" id="she's-upSET">i THINK MAYbe she's upSET.</li>
-        <li className="list-none margin-bottom-20">Tôi nghĩ có lẽ cô ấy đang buồn.</li>
+        <li className="list-none margin-bottom-20">It's possible that she is unhappy.</li>
 
       </ol>
 
@@ -147,15 +147,15 @@ export default function MAYbe2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>MAYbe</strong>" thường đứng ở đầu câu hoặc trước hành động chính.</li>
+          <li>"MAYbe" usually appears at the beginning of a sentence or before the main action.</li>
 
-          <li className="margin-bottom-20">Cùng với các từ khác, "<strong>MAYbe</strong>" tạo thành nhiều cụm từ khác nhau với ý nghĩa đa dạng.</li>
+          <li className="margin-bottom-20">When combined with other words, "MAYbe" forms various phrases with a range of meanings.</li>
 
         </ul>
 
       </div>
 
-      <p className="margin-top-50">Việc hiểu ngữ cảnh sẽ giúp bạn sử dụng các cụm từ này một cách chính xác. 🐝🐝</p>
+      <p className="margin-top-50">Understanding the context will help you use these phrases correctly. 🐝</p>
 
       <div className="viewcounter">
       
