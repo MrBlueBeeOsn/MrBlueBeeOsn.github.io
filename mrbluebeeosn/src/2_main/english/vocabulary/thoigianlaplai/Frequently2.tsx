@@ -75,7 +75,7 @@ export default function FREquently2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>FREquently</strong>" (thường xuyên) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "FREquently" (often) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function FREquently2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được sử dụng để chỉ một hành động, sự việc xảy ra nhiều lần hoặc trong một khoảng thời gian ngắn.
+            &nbsp;is often used to describe an action or event that occurs many times or within a short period of time.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function FREquently2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="ASKED-about">the fAQ SECtion proVIDES ANswers to FREquently ASKED QUESTions a<strong>bout</strong> the PRODuct.</li>
-        <li className="list-none margin-bottom-20">Phần Câu hỏi thường gặp (FAQ) cung cấp câu trả lời cho những câu hỏi thường gặp về sản phẩm.</li>
+        <li className="list-none margin-bottom-20">The FAQ section has answers to questions people often ask about the product.</li>
 
         <li value="2" id="USED-in">THIS is a FREquently USED PHRASE in everyday converSAtion.</li>
-        <li className="list-none margin-bottom-20">Đây là một câu thường được sử dụng trong các cuộc trò chuyện hàng ngày.</li>
+        <li className="list-none margin-bottom-20">This is something that people say all the time.</li>
 
         <li value="3" id="ocCURring-in">TRAFfic ACcidents are a FREquently ocCURring PROBlem in this CITy.</li>
-        <li className="list-none margin-bottom-20">Tai nạn giao thông là một vấn đề thường xuyên xảy ra ở thành phố này.</li>
+        <li className="list-none margin-bottom-20">There are many traffic accidents in this city.</li>
 
         <li value="4" id="VISited-in">THIS is ONE of the MOST FREquently VISited WEBsites in the WORLD.</li>
-        <li className="list-none margin-bottom-20">Đây là một trong những trang web được truy cập thường xuyên nhất trên thế giới.</li>
+        <li className="list-none margin-bottom-20">This website is visited very often. It is one of the most popular websites in the world.</li>
 
         <li value="5" id="menTIONED-in">his NAME was FREquently menTIONED in the NEWS.</li>
-        <li className="list-none margin-bottom-20">Tên của ông thường xuyên được nhắc đến trên các phương tiện truyền thông.</li>
+        <li className="list-none margin-bottom-20">People were talking a lot about his name in the news.</li>
 
         <li value="6" id="upDAted-with"><strong>ever</strong>y WEBSITE is FREquently upDAted with NEW inforMAtion.</li>
-        <li className="list-none margin-bottom-20">Mọi trang web đều được cập nhật thường xuyên với những thông tin mới.</li>
+        <li className="list-none margin-bottom-20">All websites are regularly updated with new information.</li>
 
         <li value="7" id="ASKED-by">his QUESTion is FREquently ASKED by our CUStomers.</li>
-        <li className="list-none margin-bottom-20">Đây là câu hỏi thường gặp của khách hàng chúng tôi.</li>
+        <li className="list-none margin-bottom-20">This is a question that our customers often ask.</li>
 
         <li value="8" id="enCOUNTered-in">this TYPE of ERror is FREquently enCOUNTered in this SOFTware.</li>
-        <li className="list-none margin-bottom-20">Loại lỗi này thường xuyên xảy ra trong phần mềm này.</li>
+        <li className="list-none margin-bottom-20">This type of error is common with this software.</li>
 
         <li value="9" id="overLOOKED-by">this imPORTant DEtail is FREquently overLOOKED by PEOple.</li>
-        <li className="list-none margin-bottom-20">Chi tiết quan trọng này thường bị mọi người bỏ qua.</li>
+        <li className="list-none margin-bottom-20">Many people don't pay attention to this important detail.</li>
 
         <li value="10" id="recomMENDed-by">this BOOK is FREquently recomMENDed by TEACHers.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này thường xuyên được các giáo viên giới thiệu.</li>
+        <li className="list-none margin-bottom-20">Teachers often suggest this book.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính thường xuyên của một hành động, sự việc hoặc trạng thái. Chúng thường được sử dụng để mô tả các thói quen, xu hướng hoặc đặc điểm của một đối tượng, hiện tượng hoặc quá trình.</p>
+      <p>** The phrases above all emphasize the regularity of an action, event, or state. They are often used to describe the habits, tendencies, or characteristics of an object, phenomenon, or process.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function FREquently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>FREquently</strong>" thường được đặt trước hành động hoặc ADjective để bổ nghĩa.</li>
+          <li>"FREquently" is often placed before a verb or adjective to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết hàng ngày.</li>
+          <li className="margin-bottom-20">This word is commonly used in both spoken and written everyday language.</li>
 
         </ul>
 

@@ -211,56 +211,38 @@ export default function VocabularyIndex(): React.JSX.Element {
 			<div className="vocabulary-container margin-top-20">
 
 				{/* =============================
-							HIGHly
+							ADverbs: có
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="ADverbs-HIGHly"><mark className="highlight-secondary-padding-2-4">HIGHly</mark></summary>
+					<summary id="adverbs-co"><mark className="highlight-secondary-padding-2-4">ADverbs: có</mark></summary>
 
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/HIGHly-1">HIGHly
+							<Link to="/vocabulary/YES-1">YES
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/HIGHly-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-						
-						<li>
-							<Link to="/vocabulary/SO-1">SO
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/SO-2">
+									<Link to="/vocabulary/YES-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
 
 						<li>
-							<Link to="/vocabulary/VERy-1">VERy
+							<Link to="/vocabulary/ALways-1">ALways
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/VERy-2">
+									<Link to="/vocabulary/ALways-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
 
 						<li>
-							<Link to="/vocabulary/exTREMEly-1">exTREMEly
+							<Link to="/vocabulary/EVer-1">EVer
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/exTREMEly-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/GREATly-1">GREATly
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/GREATly-2">
+									<Link to="/vocabulary/EVer-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
@@ -379,38 +361,56 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: có
+							HIGHly
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-co"><mark className="highlight-secondary-padding-2-4">ADverbs: có</mark></summary>
+					<summary id="ADverbs-HIGHly"><mark className="highlight-secondary-padding-2-4">HIGHly</mark></summary>
 
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/YES-1">YES
+							<Link to="/vocabulary/HIGHly-1">HIGHly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/YES-2">
+									<Link to="/vocabulary/HIGHly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+						<li>
+							<Link to="/vocabulary/SO-1">SO
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/SO-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
 
 						<li>
-							<Link to="/vocabulary/ALways-1">ALways
+							<Link to="/vocabulary/VERy-1">VERy
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/ALways-2">
+									<Link to="/vocabulary/VERy-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
 
 						<li>
-							<Link to="/vocabulary/EVer-1">EVer
+							<Link to="/vocabulary/exTREMEly-1">exTREMEly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/EVer-2">
+									<Link to="/vocabulary/exTREMEly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/GREATly-1">GREATly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/GREATly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
