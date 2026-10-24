@@ -15,7 +15,7 @@ export default function NO1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-khong"><mark className="highlight-tertiary-padding-4-8">ADverbs: không</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-NO"><mark className="highlight-tertiary-padding-4-8">NO</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">NO
         <sup><Link to="/vocabulary/NO-1">&nbsp;1&nbsp;</Link>
@@ -55,7 +55,7 @@ export default function NO1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>NO</strong>" nhé.</p>
+      <p>Great! Let's dive into an analysis of the word "NO."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -71,7 +71,7 @@ export default function NO1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Không</li>
+            <li>No</li>
 
           </ul>
 
@@ -83,17 +83,17 @@ export default function NO1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Thường được dùng như một từ đơn lập để trả lời câu hỏi hoặc từ chối một yêu cầu. Dùng để phủ định một thông tin, yêu cầu hoặc câu hỏi.</p>
+      <p className="margin-top-30 text-indent-whole">NO: Often used as a standalone word to answer a question or refuse a request. Used to deny a statement, request, or question..</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">are you COMing to the PARTy? - NO, i'm <Link to="/vocabulary/NOT-1">NOT</Link>.</li>
-          <li className="margin-bottom-20 list-none">Bạn có đến dự tiệc không? - Không, tớ không đi.</li>
+          <li className="margin-bottom-20 list-none">Are you going to the party? No, I'm not.</li>
 
           <li>do you LIKE COFfee? - NO, i preFER TEA.</li>
-          <li className="list-none">Bạn có thích cà phê không? - Không, tôi thích trà hơn.</li>
+          <li className="list-none">Do you like coffee? I would rather have tea.</li>
 
         </ul>
 
@@ -109,7 +109,7 @@ export default function NO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>NO</strong>" vì đây là một từ đơn và rất cơ bản.</li>
+          <li className="list-none">There is no direct family word for "NO" because it is a single word and very basic.</li>
 
         </ul>
 
@@ -126,10 +126,10 @@ export default function NO1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i am <Link to="/vocabulary/NOT-1">NOT</Link> GOing.</li>
-          <li className="margin-bottom-20 list-none">Tớ sẽ không đi đâu cả.</li>
+          <li className="margin-bottom-20 list-none">I'm not attending.</li>
 
           <li>i will <Link to="/vocabulary/NEVer-1">NEVer</Link> forGET you.</li>
-          <li className="list-none">Tớ sẽ không bao giờ quên cậu.</li>
+          <li className="list-none">I will always remember you.</li>
 
         </ul>
 
@@ -148,10 +148,10 @@ export default function NO1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>are you HUNgry? - <Link to="/vocabulary/YES-1">YES</Link>, i am.</li>
-          <li className="margin-bottom-20 list-none">Bạn có đói không? - Có, tôi đói.</li>
+          <li className="margin-bottom-20 list-none">Do you want something to eat? Yes, I am.</li>
 
           <li>can i HELP you? - <Link to="/vocabulary/CERtainly-1">CERtainly</Link>.</li>
-          <li className="list-none">Tôi có thể giúp gì cho bạn không? - Chắc chắn rồi.</li>
+          <li className="list-none">Can I help you out? Absolutely.</li>
 
         </ul>
       
@@ -171,12 +171,12 @@ export default function NO1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một dấu hiệu "Không" để ghi nhớ ý nghĩa của từ này.</p>
+      <p className="text-indent-whole">Imagine a "No" sign to help you remember the meaning of this word.</p>
 
         <ul className="list-square">
 
-          <li>NO!</li>
-          <li className="list-none"> Không! (Dùng khi muốn cấm một hành động nào đó mà không cần chỉ rõ.)</li>
+          <li>NO! (Used when you want to forbid a certain action without specifying it.)</li>
+          <li className="list-none">Nope!</li>
 
         </ul>
 
@@ -190,18 +190,18 @@ export default function NO1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo nhiều câu hỏi và câu trả lời với "<strong>NO</strong>" trong các tình huống khác nhau.</p>
+      <p className="text-indent-whole">Create several questions and answers that include "NO" in various situations.</p>
 
         <ul className="list-square">
           
           <li>would you LIKE some COFfee?</li>
-          <li className=" margin-bottom-20 list-none">Bạn có muốn uống một tách cà phê không?</li>
+          <li className=" margin-bottom-20 list-none">Would you like something to drink? I've got coffee.</li>
 
           <li>YES, PLEASE.</li>
-          <li className=" margin-bottom-20 list-none">Vâng, làm ơn.</li>
+          <li className=" margin-bottom-20 list-none">Absolutely.</li>
 
           <li>NO, THANK you. i'm NOT THIRsty.</li>
-          <li className="list-none">Không, cảm ơn. Tôi không khát.</li>
+          <li className="list-none">I appreciate the offer, but I don't need it.</li>
 
         </ul>
 
@@ -215,19 +215,19 @@ export default function NO1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>NO</strong>" trong giao tiếp hàng ngày.</p>
+      <p className="text-indent-whole margin-bottom-20">Use "NO" frequently in everyday communication.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa NOT và <strong>NO</strong>):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between "NOT" and "NO"):</p>
 
           <ol>
 
             <li value="1">i do <Link to="/vocabulary/NOT-1">NOT</Link> WANT any MILK.</li>
-            <li className="list-none">Tớ không muốn uống sữa đâu.</li>
-            <li className="list-none margin-bottom-20">Được sử dụng để tạo thành câu phủ định đầy đủ.</li>
+            <li className="list-none">I'd like to request that you don't include any milk.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">Used to form a full negative sentence.</span></li>
 
             <li value="2">do you WANT some MILK? - NO.</li>
-            <li className="list-none">Bạn có muốn uống sữa không? - Không.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Thường được dùng như một câu trả lời ngắn gọn.</span></li>
+            <li className="list-none">Would you like some milk? NO.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">It is often used as a brief response.</span></li>
 
           </ol>
 
@@ -243,9 +243,9 @@ export default function NO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>NO</strong>" có thể đứng một mình để trả lời câu hỏi hoặc đặt ở đầu câu để phủ định một câu con.</li>
+          <li>"NO" can stand alone to answer a question or be placed at the beginning of a sentence to negate a clause.</li>
 
-          <li className="margin-bottom-20">"<strong>NO</strong>" cũng có thể được dùng để tạo thành câu phủ định với hành động "to be" (am, is, are, was, were).</li>
+          <li className="margin-bottom-20">"NO" can also be used to form negative sentences with the verb "to be" (am, is, are, was, were).</li>
 
         </ul>
 

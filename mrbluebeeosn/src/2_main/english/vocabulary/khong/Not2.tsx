@@ -15,7 +15,7 @@ export default function NOT2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-khong"><mark className="highlight-tertiary-padding-4-8">ADverbs: không</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-NO"><mark className="highlight-tertiary-padding-4-8">NO</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">NOT
         <sup>
@@ -75,7 +75,7 @@ export default function NOT2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>NOT</strong>" (không) trong tiếng Anh nhé.</p>
+      <p>Great! Let's take a closer look at how to use the word "NOT" in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function NOT2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một từ phủ định rất quan trọng, được dùng để tạo ra câu phủ định.
+            &nbsp;is a very important negative word used to form negative sentences.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function NOT2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="at-ALL">THANK you for your HELP. - NOT at ALL.</li>
-        <li className="list-none margin-bottom-20">Cảm ơn bạn đã giúp đỡ. - Không có gì đâu.</li>
+        <li className="list-none margin-bottom-20">Thanks for your help.  - No, I don't think so.</li>
 
         <li value="2" id="Only-BEAUtiful-but-ALso-inTELligent">she is NOT Only BEAUtiful but ALso inTELligent.</li>
-        <li className="list-none margin-bottom-20">Cô ấy không chỉ xinh đẹp mà còn thông minh nữa.</li>
+        <li className="list-none margin-bottom-20">She's both beautiful and clever.</li>
 
         <li value="3" id="SO-MUCH-INTERested-in">i am NOT SO MUCH INTERested in his STORy as in his REAson.</li>
-        <li className="list-none margin-bottom-20">Tôi không quan tâm nhiều đến câu chuyện của anh ấy bằng việc tìm hiểu lý do của anh ấy.</li>
+        <li className="list-none margin-bottom-20">I'm more interested in his reason than the story itself.</li>
 
         <li value="4" id="EAT">i do NOT EAT MEAT any MORE.</li>
-        <li className="list-none margin-bottom-20">Tôi không còn ăn thịt nữa.</li>
+        <li className="list-none margin-bottom-20">I don't eat meat anymore.</li>
 
         <li value="5" id="LIKE">i do NOT LIKE this MOvie at ALL.</li>
-        <li className="list-none margin-bottom-20">Tôi không thích bộ phim này chút nào cả.</li>
+        <li className="list-none margin-bottom-20">I didn't enjoy this movie.</li>
 
         <li value="6" id="Only-but-ALso">NOT Only is she KIND, but she is ALso VERy HELPful.</li>
-        <li className="list-none margin-bottom-20">Cô ấy không chỉ tử tế mà còn rất tận tâm nữa.</li>
+        <li className="list-none margin-bottom-20">She is kind and helpful.</li>
 
         <li value="7" id="as-TALL-as">she is NOT as TALL as her BROTHer.</li>
-        <li className="list-none margin-bottom-20">Cô ấy không cao bằng anh trai mình.</li>
+        <li className="list-none margin-bottom-20">She is shorter than her brother.</li>
 
         <li value="8" id="a-BIT-TIred">i am NOT a BIT TIred.</li>
-        <li className="list-none margin-bottom-20">Tôi không mệt chút nào.</li>
+        <li className="list-none margin-bottom-20">I'm not even a little bit tired.</li>
 
         <li value="9" id="NEARly-as-DIFficult-as">this TASK is NOT NEARly as DIFficult as i THOUGHT.</li>
-        <li className="list-none margin-bottom-20">Nhiệm vụ này không khó như tôi từng nghĩ.</li>
+        <li className="list-none margin-bottom-20">This task is not as hard as I thought it would be.</li>
 
         <li value="10" id="SO-MUCH-a-PROBlem-as">it's NOT SO MUCH a PROBlem as a CHALlenge.</li>
-        <li className="list-none margin-bottom-20">Đó không phải là một vấn đề mà là một thử thách.</li>
+        <li className="list-none margin-bottom-20">It's more of a challenge than a problem.</li>
 
       </ol>
 
@@ -147,9 +147,9 @@ export default function NOT2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>NOT</strong>" là một từ phủ định rất linh hoạt và có thể được sử dụng trong nhiều ngữ cảnh khác nhau.</li>
+          <li>"NOT" is a very versatile negative word that can be used in many different contexts.</li>
 
-          <li className="margin-bottom-20">Ý nghĩa chính xác của cụm từ phụ thuộc vào ngữ cảnh sử dụng.</li>
+          <li className="margin-bottom-20">The exact meaning of the phrase depends on the context in which it is used.</li>
 
         </ul>
 

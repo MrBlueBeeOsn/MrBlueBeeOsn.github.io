@@ -15,7 +15,7 @@ export default function NO2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-khong"><mark className="highlight-tertiary-padding-4-8">ADverbs: không</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-NO"><mark className="highlight-tertiary-padding-4-8">NO</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">NO
         <sup>
@@ -75,7 +75,7 @@ export default function NO2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>NO</strong>" (không) khi nó đóng vai trò là một ADverb trong tiếng Anh nhé. </p>
+      <p>Great! Let's take a closer look at how to use the word "NO" when it functions as an adverb in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function NO2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được biết đến như một từ phủ định, nhưng khi kết hợp với các từ khác, nó có thể tạo ra nhiều ý nghĩa và sắc thái khác nhau.
+            &nbsp;is commonly known as a negative word, but when combined with other words, it can convey a variety of meanings and nuances.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function NO2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="LONGer-LIVES-HERE">she NO LONGer LIVES HERE.</li>
-        <li className="list-none margin-bottom-20">Cô ấy không còn sống ở đây nữa.</li>
+        <li className="list-none margin-bottom-20">She doesn't live here anymore.</li>
 
         <li value="2" id="MORE-of">i WANT NO MORE of your exCUses.</li>
-        <li className="list-none margin-bottom-20">Tôi không muốn nghe thêm bất kỳ lý do nào của cậu nữa.</li>
+        <li className="list-none margin-bottom-20">I don't want to hear any more excuses from you.</li>
 
         <li value="3" id="LESS-DIFficult-than">the TASK is NO LESS DIFficult than the LAST one.</li>
-        <li className="list-none margin-bottom-20">Nhiệm vụ này không kém phần khó khăn so với nhiệm vụ trước.</li>
+        <li className="list-none margin-bottom-20">The next task will be as challenging as the last one.</li>
 
         <li value="4" id="MATter-WHAT-you-SAY">NO MATter WHAT you SAY, i WON'T beLIEVE you.</li>
-        <li className="list-none margin-bottom-20">Dù bạn nói gì đi nữa, tôi cũng sẽ không tin bạn.</li>
+        <li className="list-none margin-bottom-20">No matter what you say, I'm not going to believe you.</li>
 
         <li value="5" id="WAY">NO WAY! i'm NOT GOing to do THAT.</li>
-        <li className="list-none margin-bottom-20">Không bao giờ! Tớ sẽ không làm chuyện đó đâu.</li>
+        <li className="list-none margin-bottom-20">Absolutely not! I am never going to do that.</li>
 
         <li value="6" id="WONder">NO WONder he's TIred. he's been WORKing all NIGHT.</li>
-        <li className="list-none margin-bottom-20">Không có gì ngạc nhiên khi anh ấy mệt mỏi. Anh ấy đã làm việc suốt cả đêm.</li>
+        <li className="list-none margin-bottom-20">He must be tired because he has been working all night.</li>
 
         <li value="7" id="DOUBT">NO DOUBT she will sucCEED.</li>
-        <li className="list-none margin-bottom-20">Chắc chắn cô ấy sẽ thành công.</li>
+        <li className="list-none margin-bottom-20">She will definitely succeed.</li>
 
         <li value="8" id="THANKS">would you LIKE some COFfee? NO THANKS, i'm NOT THIRsty.</li>
-        <li className="list-none margin-bottom-20">Bạn có muốn uống một chút cà phê không? Không, cảm ơn, tôi không khát.</li>
+        <li className="list-none margin-bottom-20">Would you like a coffee? No thanks. I'm not hungry.</li>
 
         <li value="9" id="LONger-than">the MEETing will be NO LONger than TWO HOURs.</li>
-        <li className="list-none margin-bottom-20">Cuộc họp sẽ không kéo dài quá hai giờ.</li>
+        <li className="list-none margin-bottom-20">The meeting will not take more than 2 hours.</li>
 
         <li value="10" id="LESS-than">NO LESS than a THOUsand PEOple atTENDed the CONcert.</li>
-        <li className="list-none margin-bottom-20">Có không dưới một ngàn người tham dự buổi biểu diễn.</li>
+        <li className="list-none margin-bottom-20">At least a thousand people went to the concert.</li>
 
       </ol>
 
@@ -147,15 +147,15 @@ export default function NO2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Trong nhiều trường hợp, "<strong>NO</strong>" có thể được coi như một phần tử trong một cụm từ hơn là một ADverb độc lập.</li>
+          <li>In many cases, "NO" can be considered part of a phrase rather than a standalone adverb.</li>
 
-          <li className="margin-bottom-20">Ý nghĩa của các cụm từ này có thể thay đổi tùy thuộc vào ngữ cảnh. Việc hiểu ngữ cảnh sẽ giúp bạn sử dụng các cụm từ này một cách chính xác.</li>
+          <li className="margin-bottom-20">The meaning of these phrases can vary depending on the context. Understanding the context will help you use these phrases correctly.</li>
 
         </ul>
 
       </div>
 
-      <p className="margin-top-50">Hy vọng những ví dụ trên sẽ giúp bạn hiểu rõ hơn về cách sử dụng từ "no" trong tiếng Anh! 🐝</p>
+      <p className="margin-top-50">I hope these examples will help you better understand how to use the word "no" in English! 🐝</p>
 
       <div className="viewcounter">
       
