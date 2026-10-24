@@ -83,7 +83,7 @@ export default function ALways1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Describes an action or event that occurs continuously and remains unchanged in all circumstances and at all times.</p>
+      <p className="margin-top-30 text-indent-whole">ALways: This is a description of something that happens all the time and stays the same no matter what.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 

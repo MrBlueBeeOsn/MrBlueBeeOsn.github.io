@@ -83,7 +83,7 @@ export default function EVer1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Use in questions to ask about an experience or event that occurred in the past. Use in declarative sentences to emphasize an experience or event that has occurred or may occur.</p>
+      <p className="margin-top-30 text-indent-whole">EVer: Use "in questions" to ask about something that happened in the past. Use it in declarative sentences to highlight an experience or event that has happened or might happen.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 

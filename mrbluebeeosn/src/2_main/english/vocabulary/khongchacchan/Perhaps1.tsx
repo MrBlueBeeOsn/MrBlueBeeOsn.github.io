@@ -83,7 +83,7 @@ export default function perHAPS1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Expresses uncertainty or the likelihood of something happening.</p>
+      <p className="margin-top-30 text-indent-whole">perHAPS: It shows that something might happen, or that we're not sure it will.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 

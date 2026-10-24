@@ -55,7 +55,7 @@ export default function NEVer1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>NEVer</strong>" nhé.</p>
+      <p>Great! Let's dive into an analysis of the word "NEVer."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -71,7 +71,7 @@ export default function NEVer1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Không bao giờ</li>
+            <li>Never</li>
 
           </ul>
 
@@ -83,17 +83,17 @@ export default function NEVer1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Chỉ sự phủ định hoàn toàn về một hành động, sự việc xảy ra ở bất kỳ thời điểm nào trong quá khứ, hiện tại hoặc tương lai.</p>
+      <p className="margin-top-30 text-indent-whole">NEVer: Indicates a complete negation of an action or event that occurred at any time in the past, present, or future.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i have NEVer BEEN to PARis.</li>
-          <li className="margin-bottom-20 list-none">Tôi chưa bao giờ đến Paris.</li>
+          <li className="margin-bottom-20 list-none">I've never gone to Paris before.</li>
 
           <li>she will NEVer forGET that DAY.</li>
-          <li className="list-none">Cô ấy sẽ không bao giờ quên ngày đó.</li>
+          <li className="list-none">That day will be impossible for her to forget.</li>
 
         </ul>
 
@@ -109,7 +109,7 @@ export default function NEVer1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>NEVer</strong>".</li>
+          <li className="list-none">There is no direct family connection to "NEVer."</li>
 
         </ul>
 
@@ -126,10 +126,10 @@ export default function NEVer1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i have <Link to="/vocabulary/NOT-1">NOT</Link> EVer SEEN such a BEAUtiful SUNset.</li>
-          <li className="margin-bottom-20 list-none">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp đến thế.</li>
+          <li className="margin-bottom-20 list-none">I have never seen a sunset look as beautiful as this one!</li>
 
           <li>at NO TIME did i susPECT him of CHEATing.</li>
-          <li className="list-none">Tôi chưa bao giờ nghi ngờ anh ấy ngoại tình.</li>
+          <li className="list-none">I never thought that he would do something dishonest.</li>
 
         </ul>
 
@@ -148,10 +148,10 @@ export default function NEVer1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she <Link to="/vocabulary/ALways-1">ALways</Link> COMES on TIME.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy luôn đến đúng giờ.</li>
+          <li className="margin-bottom-20 list-none">She always arrives right when she's supposed to.</li>
 
           <li>have you <Link to="/vocabulary/EVer-1">EVer</Link> BEEN to jaPAN?</li>
-          <li className="list-none">Bạn đã từng đến Nhật Bản chưa?</li>
+          <li className="list-none">Have you ever visited Japan?</li>
 
         </ul>
       
@@ -171,12 +171,12 @@ export default function NEVer1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hãy tưởng tượng một chiếc bảng với dòng chữ "<strong>NEVer</strong> giVE UP" (Không bao giờ bỏ cuộc), bạn có thể liên tưởng đến việc kiên trì theo đuổi mục tiêu.</p>
+      <p className="text-indent-whole">Imagine a sign that says "NEVer giVE UP" (Never give up); it might make you think of persevering in pursuit of your goals.</p>
 
         <ul className="list-square">
 
           <li><strong>ever</strong>y TIME i FEEL like GIVing UP, i THINK of the "NEVer giVE UP" SIGN and KEEP GOing.</li>
-          <li className="list-none">Mỗi khi tôi cảm thấy muốn bỏ cuộc, tôi lại nghĩ đến tấm biển “Đừng bao giờ bỏ cuộc” và tiếp tục cố gắng.</li>
+          <li className="list-none">Whenever I feel like throwing in the towel, I think of the "Never Give Up" motto. Sign and keep going.</li>
 
         </ul>
 
@@ -190,12 +190,12 @@ export default function NEVer1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>NEVer</strong>".</p>
+      <p className="text-indent-whole">Try to come up with as many example sentences as possible using "NEVer."</p>
 
         <ul className="list-square">
 
           <li>they have NEVer SEEN SNOW.</li>
-          <li className="list-none">Họ chưa bao giờ được nhìn thấy tuyết.</li>
+          <li className="list-none">They have never seen snow before.</li>
 
         </ul>
 
@@ -209,24 +209,24 @@ export default function NEVer1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>NEVer</strong>".</p>
+      <p className="text-indent-whole margin-bottom-20">Read and write frequently to build your vocabulary and improve your use of "NEVer."</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa NOT EVer và <strong>NEVer</strong>):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between "NOT EVER" and "NEVER"):</p>
 
           <ol>
 
             <li value="1">i have <Link to="/vocabulary/NOT-1">NOT</Link> EVer SEEN such a BEAUtiful SUNset.</li>
-            <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp đến thế.</li>
+            <li className="list-none margin-bottom-20">This is the prettiest sunset I have ever seen.</li>
 
             <li value="2">i have NEVer BEEN to PARis.</li>
-            <li className="list-none margin-bottom-20">Tôi chưa bao giờ đến Paris.</li>
+            <li className="list-none margin-bottom-20">I have never visited Paris.</li>
     
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Cả hai từ đều có nghĩa là "không bao giờ" nhưng "NOT EVer" thường được coi là cách nói nhấn mạnh hơn.</p>
+        <p className="margin-y-10">The difference: Both words mean "never," but "NOT EVER" is <span className="highlight-255-padding-0-4">generally considered a more emphatic way</span> of saying it.</p>
 
       </div>
 
@@ -242,9 +242,9 @@ export default function NEVer1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>NEVer</strong>" thường được đặt ở đầu câu hoặc trước hành động chính.</li>
+          <li>"NEVer" is usually placed at the beginning of a sentence or before the main action.</li>
 
-          <li className="margin-bottom-20">"<strong>NEVer</strong>" thường được dùng để nhấn mạnh sự phủ định hoàn toàn.</li>
+          <li className="margin-bottom-20">"NEVer" is often used to emphasize a complete negation.</li>
 
         </ul>
 

@@ -75,7 +75,7 @@ export default function NEVer2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>NEVer</strong>" (không bao giờ) trong tiếng Anh nhé.</p>
+      <p>Great! Let's take a closer look at how to use the word "NEVer" (never) in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function NEVer2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc không xảy ra bao giờ cả.
+            &nbsp;is an adverb of frequency used to express that an action or event never occurs.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function NEVer2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="beFORE-SEEN-such-a">i have NEVer beFORE SEEN such a BEAUtiful SUNset.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ được chiêm ngưỡng một cảnh hoàng hôn đẹp đến thế.</li>
+        <li className="list-none margin-bottom-20">I have never seen such a beautiful sunset before.</li>
 
         <li value="2" id="aGAIN-MAKE">i will NEVer aGAIN MAKE that misTAKE.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ lại phạm phải sai lầm đó nữa.</li>
+        <li className="list-none margin-bottom-20">I will never make that same mistake again.</li>
 
         <li value="3" id="MIND">NEVer MIND, it's NOT imPORTant.</li>
-        <li className="list-none margin-bottom-20">Thôi kệ, chuyện đó không quan trọng.</li>
+        <li className="list-none margin-bottom-20">It's not important. Forget about it.</li>
 
         <li value="4" id="SEEN-such-a">i have NEVer SEEN such a BIG DOG.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy một con chó to như vậy.</li>
+        <li className="list-none margin-bottom-20">I have never seen a dog that's so big.</li>
 
         <li value="5" id="HEARD-of">i have NEVer HEARD of that BAND.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ nghe nói đến ban nhạc đó.</li>
+        <li className="list-none margin-bottom-20">I'm not familiar with that band.</li>
 
         <li value="6" id="forGET">i will NEVer forGET your KINDness.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ quên lòng tốt của bạn.</li>
+        <li className="list-none margin-bottom-20">I will always remember how kind you were.</li>
 
         <li value="7" id="TOO-LATE-to-LEARN">it's NEVer TOO LATE to LEARN SOMEthing NEW.</li>
-        <li className="list-none margin-bottom-20">Không bao giờ là quá muộn để học điều mới.</li>
+        <li className="list-none margin-bottom-20">You're always able to learn something new.</li>
 
         <li value="8" id="SAY">NEVer SAY, ANything is POSsible.</li>
-        <li className="list-none margin-bottom-20">Đừng bao giờ nói rằng “Mọi thứ đều có thể”.</li>
+        <li className="list-none margin-bottom-20">Don't ever say that something can't happen.</li>
 
         <li value="9" id="in-my-LIFE-SEEN-such-a">i have NEVer in my LIFE SEEN such a BEAUtiful FLOWer.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ trong đời được thấy một bông hoa đẹp đến thế.</li>
+        <li className="list-none margin-bottom-20">I've never seen a flower like it. It's stunning!</li>
 
         <li value="10" id="giVE-UP-on">NEVer giVE UP on your DREAMS.</li>
-        <li className="list-none margin-bottom-20">Đừng bao giờ từ bỏ ước mơ của mình.</li>
+        <li className="list-none margin-bottom-20">Don't ever let anyone make you think you can't make your dreams a reality.</li>
 
       </ol>
 
@@ -147,9 +147,9 @@ export default function NEVer2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>NEVer</strong>" thường đứng ở đầu câu hoặc trước hành động chính.</li>
+          <li>"Never" usually comes at the beginning of a sentence or before the main action.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>NEVer</strong>" với nhiều ADverb khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">You can combine "never" with many other adverbs to create a wider variety of phrases.</li>
 
         </ul>
 

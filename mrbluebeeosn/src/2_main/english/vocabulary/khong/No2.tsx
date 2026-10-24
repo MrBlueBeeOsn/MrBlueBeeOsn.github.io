@@ -125,10 +125,10 @@ export default function NO2(): React.JSX.Element {
         <li className="list-none margin-bottom-20">She will definitely succeed.</li>
 
         <li value="8" id="THANKS">would you LIKE some COFfee? NO THANKS, i'm NOT THIRsty.</li>
-        <li className="list-none margin-bottom-20">Would you like a coffee? No thanks. I'm not hungry.</li>
+        <li className="list-none margin-bottom-20">Hey, would you like some coffee? No thanks. I'm not feeling it.</li>
 
         <li value="9" id="LONger-than">the MEETing will be NO LONger than TWO HOURs.</li>
-        <li className="list-none margin-bottom-20">The meeting will not take more than 2 hours.</li>
+        <li className="list-none margin-bottom-20">The meeting won't take more than two hours.</li>
 
         <li value="10" id="LESS-than">NO LESS than a THOUsand PEOple atTENDed the CONcert.</li>
         <li className="list-none margin-bottom-20">At least a thousand people went to the concert.</li>

@@ -251,6 +251,48 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
+							NO
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="ADverbs-NO"><mark className="highlight-secondary-padding-2-4">NO</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/NO-1">NO
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/NO-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/NOT-1">NOT
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/NOT-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/NEVer-1">NEVer
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/NEVer-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+					</ul>
+
+				</details>
+				
+				
+				{/* =============================
 							MAYbe
 				============================= */}
 
@@ -310,47 +352,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/apPARently-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-						
-					</ul>
-
-				</details>
-
-				{/* =============================
-							NO
-				============================= */}
-
-				<details className="sub-box-fix">
-			
-					<summary id="ADverbs-NO"><mark className="highlight-secondary-padding-2-4">NO</mark></summary>
-
-					<ul className="list-border1">
-
-						<li>
-							<Link to="/vocabulary/NO-1">NO
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/NO-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/NOT-1">NOT
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/NOT-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/NEVer-1">NEVer
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/NEVer-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

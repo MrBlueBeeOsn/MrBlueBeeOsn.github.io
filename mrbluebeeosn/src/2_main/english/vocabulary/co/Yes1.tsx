@@ -83,7 +83,7 @@ export default function YES1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Used to confirm a piece of information or to agree to a request or question.</p>
+      <p className="margin-top-30 text-indent-whole">YES is used to confirm information, agree with a request, or answer a question.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
