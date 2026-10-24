@@ -55,7 +55,7 @@ export default function EVer1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>EVer</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "EVer."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -71,7 +71,7 @@ export default function EVer1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Bao giờ</li>
+            <li>When</li>
 
           </ul>
 
@@ -83,19 +83,17 @@ export default function EVer1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Sử dụng trong câu hỏi để hỏi về một trải nghiệm hoặc sự kiện đã xảy ra trong quá khứ.</p>
-
-      <p className="text-indent-whole">Sử dụng trong câu khẳng định để nhấn mạnh một trải nghiệm hoặc sự kiện đã xảy ra hoặc có thể xảy ra.</p>
+      <p className="margin-top-30 text-indent-whole">Use in questions to ask about an experience or event that occurred in the past. Use in declarative sentences to emphasize an experience or event that has occurred or may occur.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">have you EVer been to PARis?</li>
-          <li className="margin-bottom-20 list-none">Bạn đã từng đến Paris chưa?</li>
+          <li className="margin-bottom-20 list-none">Have you ever gone to Paris?</li>
 
           <li>she is the KINDest PERson i have EVer MET.</li>
-          <li className="list-none">Cô ấy là người tốt bụng nhất mà tôi từng gặp.</li>
+          <li className="list-none">No one is as kind as she. I've never met anyone like her.</li>
 
         </ul>
 
@@ -111,7 +109,7 @@ export default function EVer1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>EVer</strong>".</li>
+          <li className="list-none">There is no direct family for "EVer."</li>
 
         </ul>
 
@@ -128,10 +126,10 @@ export default function EVer1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>have you EVer, at ANy TIME, SEEN a UFO?</li>
-          <li className="margin-bottom-20 list-none">Bạn đã bao giờ, vào bất kỳ thời điểm nào, nhìn thấy một chiếc UFO chưa?</li>
+          <li className="margin-bottom-20 list-none">Have you ever seen a UFO, at any time?</li>
 
           <li>on ANy ocCAsion, she is ALways the FIRST to arRIVE.</li>
-          <li className="list-none">Dù trong bất kỳ hoàn cảnh nào, cô ấy cũng luôn là người đến đầu tiên.</li>
+          <li className="list-none">Whenever there is an occasion, she is the first to arrive.</li>
 
         </ul>
 
@@ -150,10 +148,10 @@ export default function EVer1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i have <Link to="/vocabulary/NEVer-1">NEVer</Link> been to PARis.</li>
-          <li className="margin-bottom-20 list-none">Tôi chưa bao giờ đến Paris.</li>
+          <li className="margin-bottom-20 list-none">Paris is a place I have never visited.</li>
 
           <li>i have <Link to="/vocabulary/NOT-1">NOT</Link> ONCE reGRETted my deCISion.</li>
-          <li className="list-none">Tôi chưa bao giờ hối hận về quyết định của mình.</li>
+          <li className="list-none">I am happy I made that choice. I never regret it.</li>
 
         </ul>
       
@@ -173,12 +171,12 @@ export default function EVer1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hãy tưởng tượng một cuốn album ảnh chứa đầy những kỷ niệm, bạn có thể miêu tả là:</p>
+      <p className="text-indent-whole">Imagine a photo album filled with memories. How would you describe it?</p>
 
         <ul className="list-square">
 
           <li>have you EVer SEEN such a BEAUtiful PHOto?</li>
-          <li className="list-none">Bạn đã bao giờ thấy một bức ảnh đẹp đến thế chưa?</li>
+          <li className="list-none">Have you ever seen a photo that is so beautiful?</li>
 
         </ul>
 
@@ -192,12 +190,12 @@ export default function EVer1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>EVer</strong>".</p>
+      <p className="text-indent-whole">Try to come up with as many example sentences as possible using "EVer."</p>
 
         <ul className="list-square">
 
           <li>has she EVer TRIED SUshi?</li>
-          <li className="list-none">Cô ấy đã bao giờ thử sushi chưa?</li>
+          <li className="list-none">Has she ever had a chance to try sushi?</li>
 
         </ul>
 
@@ -211,19 +209,19 @@ export default function EVer1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>EVer</strong>".</p>
+      <p className="text-indent-whole margin-bottom-20">Read and write frequently to build your vocabulary and improve your use of "EVer."</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa NEVer và <strong>EVer</strong>):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between "NEVer" and "EVer"):</p>
 
           <ol>
 
             <li value="1">i have <Link to="/vocabulary/NEVer-1">NEVer</Link> been to the BEACH.</li>
-            <li className="list-none">Tôi chưa bao giờ đến bãi biển.</li>
-            <li className="list-none margin-bottom-20">Dùng để phủ định hoàn toàn một trải nghiệm.</li>
+            <li className="list-none">I have never visited the beach.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">Used to completely deny an experience.</span></li>
 
             <li value="2">have you EVer been to the BEACH?</li>
-            <li className="list-none">Bạn đã từng đi biển chưa?</li>
-            <li className="list-none">Sử dụng trong <span className="highlight-255-padding-0-4">câu hỏi</span> hoặc <span className="highlight-255-padding-0-4">câu khẳng định</span> để <span className="highlight-255-padding-0-4">nhấn mạnh một trải nghiệm.</span></li>
+            <li className="list-none">Have you ever visited the coast?</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Use in questions</span> or statements to emphasize an experience.</li>
 
           </ol>
 
@@ -239,9 +237,9 @@ export default function EVer1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>EVer</strong>" thường được đặt ở cuối câu hỏi hoặc sau hành động chính trong câu khẳng định.</li>
+          <li>"EVer" is usually placed at the end of a question or after the main action in a declarative sentence.</li>
 
-          <li className="margin-bottom-20">"<strong>EVer</strong>" có thể được dùng để nhấn mạnh một trải nghiệm đặc biệt hoặc một khoảng thời gian dài.</li>
+          <li className="margin-bottom-20">"EVer" can be used to emphasize a particular experience or a long period of time.</li>
 
         </ul>
 

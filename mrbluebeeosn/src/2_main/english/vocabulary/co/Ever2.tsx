@@ -75,7 +75,7 @@ export default function EVer2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>EVer</strong>" (bao giờ) trong tiếng Anh nhé.</p>
+      <p>Great! Let's take a closer look at how to use the word "EVer" (ever) in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function EVer2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để nhấn mạnh tính chất bao quát, trải nghiệm, hoặc sự so sánh cao nhất.
+            &nbsp;is often used to emphasize comprehensiveness, experience, or the highest degree of comparison.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function EVer2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="since">EVer since i was a CHILD, i've LOVED to READ.</li>
-        <li className="list-none margin-bottom-20">Từ khi còn là một đứa trẻ, tôi đã rất thích đọc sách.</li>
+        <li className="list-none margin-bottom-20">Since I was a kid, I've always loved reading.</li>
 
         <li value="2" id="as">he is, as EVer, LATE for the MEETing.</li>
-        <li className="list-none margin-bottom-20">Anh ấy, như thường lệ, lại đến muộn cuộc họp.</li>
+        <li className="list-none margin-bottom-20">He is late for the meeting, just like he always is.</li>
 
         <li value="3" id="AFter">they LIVED HAPpily EVer AFter.</li>
-        <li className="list-none margin-bottom-20">Họ đã sống hạnh phúc mãi mãi về sau.</li>
+        <li className="list-none margin-bottom-20">They were very happy together.</li>
 
         <li value="4" id="SO-KIND">she is EVer SO KIND.</li>
-        <li className="list-none margin-bottom-20">Cô ấy thật là tốt bụng.</li>
+        <li className="list-none margin-bottom-20">She's always nice.</li>
 
         <li value="5" id="been-to">have you EVer been to PARis?</li>
-        <li className="list-none margin-bottom-20">Bạn đã từng đến Paris chưa?</li>
+        <li className="list-none margin-bottom-20">Have you ever visited Paris, the capital of France?</li>
 
         <li value="6" id="there-was-a-TIME">if EVer there was a TIME to be BRAVE, it is NOW.</li>
-        <li className="list-none margin-bottom-20">Nếu có lúc nào đó cần phải dũng cảm, thì chính là bây giờ.</li>
+        <li className="list-none margin-bottom-20">Now is the time to be brave.</li>
 
         <li value="7" id="forGET">i will NEVer EVer forGET that DAY.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ, không bao giờ quên được ngày đó.</li>
+        <li className="list-none margin-bottom-20">I will always remember that day.</li>
 
         <li value="8" id="and-EVer">i will LOVE you for EVer and EVer.</li>
-        <li className="list-none margin-bottom-20">Em sẽ yêu anh mãi mãi và mãi mãi.</li>
+        <li className="list-none margin-bottom-20">I will love you until the end of time.</li>
 
         <li value="9" id="AFter2">they LIVED HAPpily EVer AFter.</li>
-        <li className="list-none margin-bottom-20">Họ đã sống hạnh phúc mãi mãi về sau.</li>
+        <li className="list-none margin-bottom-20">They were happy together forever.</li>
 
         <li value="10" id="and-aNON">EVer and aNON, a BIRD would SING.</li>
-        <li className="list-none margin-bottom-20">Dù thế nào đi nữa, một con chim vẫn sẽ hót.</li>
+        <li className="list-none margin-bottom-20">A bird would sing, no matter what.</li>
 
       </ol>
 
@@ -147,9 +147,9 @@ export default function EVer2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>EVer</strong>" thường được sử dụng trong câu hỏi, câu phủ định và câu so sánh.</li>
+          <li>"EVer" is commonly used in questions, negative sentences, and comparative sentences.</li>
 
-          <li className="margin-bottom-20">Ý nghĩa chính xác của cụm từ phụ thuộc vào ngữ cảnh sử dụng.</li>
+          <li className="margin-bottom-20">The exact meaning of the phrase depends on the context in which it is used.</li>
 
         </ul>
 

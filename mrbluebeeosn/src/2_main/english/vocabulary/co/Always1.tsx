@@ -55,7 +55,7 @@ export default function ALways1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ALways</strong>" và các thành ngữ liên quan nhé.</p>
+      <p>Great! Let's take a closer look at the word "ALways" and some related idioms.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -71,7 +71,7 @@ export default function ALways1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Luôn luôn</li>
+            <li>Always</li>
 
           </ul>
 
@@ -83,17 +83,17 @@ export default function ALways1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Diễn tả một hành động, sự việc xảy ra liên tục, không thay đổi trong mọi trường hợp và thời gian.</p>
+      <p className="margin-top-30 text-indent-whole">Describes an action or event that occurs continuously and remains unchanged in all circumstances and at all times.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">she ALways arRIVES on TIME.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy luôn đến đúng giờ.</li>
+          <li className="margin-bottom-20 list-none">She is always punctual.</li>
 
           <li>my MOTHer ALways COOKS BREAKfast for us.</li>
-          <li className="list-none">Mẹ tớ luôn luôn nấu bữa sáng cho bọn tớ.</li>
+          <li className="list-none">My mom is always the one who makes breakfast for us.</li>
 
         </ul>
 
@@ -109,7 +109,7 @@ export default function ALways1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>ALways</strong>".</li>
+          <li className="list-none">There is no direct family for "ALways."</li>
 
         </ul>
 
@@ -126,10 +126,10 @@ export default function ALways1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he is CONstantly comPLAINing.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy liên tục phàn nàn.</li>
+          <li className="margin-bottom-20 list-none">He is always making a fuss.</li>
 
           <li>she is perPETually LATE.</li>
-          <li className="list-none">Cô ấy luôn luôn đến muộn.</li>
+          <li className="list-none">She always arrives late.</li>
 
         </ul>
 
@@ -148,10 +148,10 @@ export default function ALways1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i have <Link to="/vocabulary/NEVer-1">NEVer</Link> been to PARis.</li>
-          <li className="margin-bottom-20 list-none">Tôi chưa bao giờ đến Paris.</li>
+          <li className="margin-bottom-20 list-none">Paris is a place I've never been to.</li>
 
           <li>she <Link to="/vocabulary/SELdom-1">SELdom</Link> GOES to the CINema.</li>
-          <li className="list-none">Cô ấy hiếm khi đi xem phim.</li>
+          <li className="list-none">She doesn't often go to the movies.</li>
 
         </ul>
       
@@ -171,12 +171,12 @@ export default function ALways1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một đồng hồ luôn chỉ đúng giờ.</p>
+      <p className="text-indent-whole">Imagine a clock that always tells the correct time.</p>
 
         <ul className="list-square">
 
           <li>this CLOCK is ALways on TIME.</li>
-          <li className="list-none">Chiếc đồng hồ này luôn đúng giờ.</li>
+          <li className="list-none">This clock always tells the right time.</li>
 
         </ul>
 
@@ -190,12 +190,12 @@ export default function ALways1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo nhiều câu với "<strong>ALways</strong>" trong các ngữ cảnh khác nhau, liên quan đến thói quen, đặc điểm, sự thật hiển nhiên.</p>
+      <p className="text-indent-whole">Create several sentences using "Always" in different contexts, relating to habits, characteristics, and obvious facts.</p>
 
         <ul className="list-square">
 
           <li>he ALways <strong>get</strong>S UP at 6 a.M.</li>
-          <li className="list-none">Anh ấy luôn dậy lúc 6 giờ sáng.</li>
+          <li className="list-none">He gets up at six in the morning.</li>
 
         </ul>
 
@@ -209,19 +209,19 @@ export default function ALways1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ "<strong>ALways</strong>" trong giao tiếp hoặc khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Frequently use the word "ALways" in speech or writing.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa CONstantly và <strong>ALways</strong>):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between "constantly" and "always"):</p>
 
           <ol>
 
             <li value="1">she is CONstantly TALKing on the PHONE.</li>
-            <li className="list-none">Cô ấy liên tục nói chuyện điện thoại.</li>
-            <li className="list-none margin-bottom-20">Nhấn mạnh tính chất liên tục và lặp đi lặp lại của một hành động.</li>
+            <li className="list-none">She spends a lot of time talking on the phone.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">Emphasizes the continuous and repetitive nature</span> of an action.</li>
 
             <li value="2">the SUN ALways RIses in the EAST.</li>
-            <li className="list-none">Mặt Trời luôn mọc ở phía Đông.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh tính chất vĩnh cửu và tuyệt đối của một hành động.</span></li>
+            <li className="list-none">The sun always appears in the east.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Emphasizes the eternal and absolute nature</span> of an action.</li>
 
           </ol>
 
@@ -235,9 +235,9 @@ export default function ALways1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>ALways</strong>" thường được đặt ở đầu câu hoặc trước hành động chính.</li>
+          <li>"ALways" is usually placed at the beginning of a sentence or before the main action.</li>
 
-          <li className="margin-bottom-20">Nó thể hiện một sự chắc chắn và tuyệt đối về tần suất xảy ra của một hành động.</li>
+          <li className="margin-bottom-20">It expresses certainty and absoluteness regarding the frequency with which an action occurs.</li>
 
         </ul>
 
