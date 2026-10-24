@@ -75,7 +75,7 @@ export default function SOON2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>SOON</strong>" (sớm) trong tiếng Anh nhé.</p>
+      <p>Great! Let’s take a closer look at how to use the word “SOON” in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function SOON2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb chỉ thời gian, thường được dùng để diễn tả một sự kiện sẽ xảy ra trong tương lai gần
+            &nbsp;is an adverb of time, often used to describe an event that will occur in the near future.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function SOON2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="as-i-FINish">as SOON i FINish my WORK, i'll CALL you.</li>
-        <li className="list-none margin-bottom-20">Ngay khi tôi làm xong việc, tôi sẽ gọi cho bạn.</li>
+        <li className="list-none margin-bottom-20">I'll call you as soon as I'm done with my work.</li>
 
         <li value="2" id="i'll-be-BACK-VERy">i'll be BACK VERy SOON.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ quay lại rất sớm.</li>
+        <li className="list-none margin-bottom-20">I will return shortly.</li>
 
         <li value="3" id="SEE-you">it was NICE SEEing you. SEE you SOON!</li>
-        <li className="list-none margin-bottom-20">Rất vui được gặp bạn. Hẹn gặp lại sớm nhé!</li>
+        <li className="list-none margin-bottom-20">I enjoyed seeing you. I hope to see you again soon.</li>
 
         <li value="4" id="as-as-POSsible">PLEASE rePLY as <strong>soon</strong> as POSsible.</li>
-        <li className="list-none margin-bottom-20">Xin vui lòng trả lời càng sớm càng tốt.</li>
+        <li className="list-none margin-bottom-20">Please answer as soon as you can.</li>
 
         <li value="5" id="after-he-arRIVED">SOON <strong>af</strong>ter he arRIVED, the PARTy STARTed.</li>
-        <li className="list-none margin-bottom-20">Ngay sau khi anh ấy đến, bữa tiệc đã bắt đầu.</li>
+        <li className="list-none margin-bottom-20">He arrived just in time because the party had just begun.</li>
 
         <li value="6" id="will-arRIVE">how SOON will the TRAIN arRIVE?</li>
-        <li className="list-none margin-bottom-20">Tàu sẽ đến trong bao lâu nữa?</li>
+        <li className="list-none margin-bottom-20">When will the train get here?</li>
 
         <li value="7" id="till">till SOON!</li>
-        <li className="list-none margin-bottom-20">Hẹn gặp lại sớm!</li>
+        <li className="list-none margin-bottom-20">I'll see you soon!</li>
 
         <li value="8" id="GOing-to-VISit-any-TIME">are you GOing to VISit your PARents <strong>an</strong>y TIME?</li>
-        <li className="list-none margin-bottom-20">Bạn có định đi thăm ba mẹ vào lúc nào không?</li>
+        <li className="list-none margin-bottom-20">Are you planning on going to see your parents soon?</li>
 
         <li value="9" id="or-LAter">SOONer or LAter, you will REalize your misTAKe.</li>
-        <li className="list-none margin-bottom-20">Sớm hay muộn, bạn cũng sẽ nhận ra sai lầm của mình.</li>
+        <li className="list-none margin-bottom-20">You will soon or later realize that you made a mistake.</li>
 
         <li value="10" id="in-the-NEAR-FUture">we HOPE to VISit you in the NEAR FUture.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi hy vọng sẽ có dịp ghé thăm quý vị trong tương lai gần.</li>
+        <li className="list-none margin-bottom-20">Hope to see you soon.</li>
 
       </ol>
 
@@ -147,15 +147,15 @@ export default function SOON2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>SOON</strong>" thường được sử dụng để tạo cảm giác mong đợi hoặc nhấn mạnh sự cấp bách của một hành động.</li>
+          <li>"SOON" is often used to create a sense of anticipation or to emphasize the urgency of an action.</li>
 
-          <li className="margin-bottom-20">Ý nghĩa chính xác của cụm từ phụ thuộc vào ngữ cảnh sử dụng.</li>
+          <li className="margin-bottom-20">The exact meaning of the phrase depends on the context in which it is used.</li>
 
         </ul>
 
       </div>
 
-      <p className="margin-top-50">Hy vọng những thông tin này sẽ giúp bạn hiểu rõ hơn về cách sử dụng từ "<strong>soon</strong>" trong tiếng Anh! 🐝</p>
+      <p className="margin-top-50">Hoping this information helps you better understand how to use the word "soon" in English! 🐝</p>
 
       <div className="viewcounter">
       

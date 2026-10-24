@@ -15,7 +15,7 @@ export default function esPECially2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-dac-biet"><mark className="highlight-tertiary-padding-4-8">ADverbs: đặc biệt</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-esPECially"><mark className="highlight-tertiary-padding-4-8">esPECially</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">esPECially
         <sup>
@@ -75,7 +75,7 @@ export default function esPECially2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>esPECially</strong>" (đặc biệt) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "esPECially" (especially) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function esPECially2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được sử dụng để nhấn mạnh một điều gì đó đặc biệt quan trọng, nổi bật hoặc phù hợp hơn so với những thứ khác trong một ngữ cảnh nhất định.
+            &nbsp;is often used to emphasize something that is particularly important, notable, or more appropriate than other things in a given context.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function esPECially2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="INTERested-in-LEARNing-about">i am esPECially INTERested in LEARNing a<strong>bout</strong> DIFferent CULtures.</li>
-        <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến việc tìm hiểu về các nền văn hóa khác nhau.</li>
+        <li className="list-none margin-bottom-20">Learning about different cultures interests me the most.</li>
 
         <li value="2" id="GOOD-at-PLAYing-the">she is esPECially GOOD at PLAYing the piANo.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đặc biệt GIỎI chơi đàn piano.</li>
+        <li className="list-none margin-bottom-20">She is very talented and has a natural ability to play the piano.</li>
 
         <li value="3" id="imPORTant-for-GROWing">the SLEEP is esPECially imPORTant for GROWing CHILDren.</li>
-        <li className="list-none margin-bottom-20">Giấc ngủ đặc biệt quan trọng đối với trẻ em đang trong độ tuổi phát triển.</li>
+        <li className="list-none margin-bottom-20">Children need plenty of sleep.</li>
 
         <li value="4" id="DIFficult">the FInal eXAM was esPECially DIFficult.</li>
-        <li className="list-none margin-bottom-20">Kỳ thi cuối kỳ đặc biệt khó.</li>
+        <li className="list-none margin-bottom-20">The final exam was very hard.</li>
 
         <li value="5" id="TRUE-of">THIS is esPECially TRUE of PEOple who LIVE in BIG CITies.</li>
-        <li className="list-none margin-bottom-20">Điều này đặc biệt đúng đối với những người sống ở các thành phố lớn.</li>
+        <li className="list-none margin-bottom-20">This is really the case for folks living in big cities.</li>
 
         <li value="6" id="when">i enJOY WALKing in the PARK, esPECially when the WEATHer is NICE.</li>
-        <li className="list-none margin-bottom-20">Tôi rất thích đi dạo trong công viên, nhất là khi thời tiết đẹp.</li>
+        <li className="list-none margin-bottom-20">I like going for walks in the park, especially when it's sunny out.</li>
 
         <li value="7" id="LIKE">i esPECially LIKE CHOCOLate ICE CREAM.</li>
-        <li className="list-none margin-bottom-20">Tôi đặc biệt thích kem sô-cô-la.</li>
+        <li className="list-none margin-bottom-20">I really love chocolate ice cream.</li>
 
         <li value="8" id="since">i've been FEELing TIred LATEly, esPECially since i've been WORKing so HARD.</li>
-        <li className="list-none margin-bottom-20">Gần đây tớ cảm thấy mệt mỏi, nhất là từ khi tớ làm việc cực kỳ vất vả.</li>
+        <li className="list-none margin-bottom-20">Lately I've been feeling tired a lot, especially because of all my hard work.</li>
 
         <li value="9" id="for">this BOOK is esPECially for beGINners.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt dành cho người mới bắt đầu.</li>
+        <li className="list-none margin-bottom-20">This book is perfect for people who are just starting out.</li>
 
         <li value="10" id="conSIDering-the">it's a GOOD DEAL, esPECially conSIDering the QUALity.</li>
-        <li className="list-none margin-bottom-20">Đây là một món hợp đồng tốt, đặc biệt là khi xét về chất lượng.</li>
+        <li className="list-none margin-bottom-20">It's a good deal, especially considering how well it is made.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh một điều gì đó đặc biệt, nổi bật hoặc phù hợp hơn so với những thứ khác. Chúng giúp làm cho câu nói trở nên cụ thể và sinh động hơn.</p>
+      <p>** These phrases are all used to emphasize something that is special, distinctive, or more appropriate than other things. They help make a statement more specific and vivid.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function esPECially2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>esPECially</strong>" thường được đặt trước DANH, ADjective hoặc câu con.</li>
+          <li>"esPECially" is usually placed before a noun, adjective, or subordinate clause.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để làm cho câu nói thêm phần nhấn mạnh.</li>
+          <li className="margin-bottom-20">This word is commonly used in both spoken and written language to add emphasis to a statement.</li>
 
         </ul>
 

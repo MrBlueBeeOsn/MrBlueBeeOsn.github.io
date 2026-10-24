@@ -63,7 +63,7 @@ export default function SOON1(): React.JSX.Element {
 
 			{/* This is the content of Vocabulary Term. */}
 			
-			<p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>SOON</strong>" và các thành ngữ liên quan nhé.</p>
+			<p>Great! Let's dive into an analysis of the word "SOON" and related idioms.</p>
 
 			<div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function SOON1(): React.JSX.Element {
 
 						<li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-						<li>Sớm, sắp ra mắt</li>
+						<li>Coming soon</li>
 
 					</ul>
 
@@ -91,17 +91,17 @@ export default function SOON1(): React.JSX.Element {
 
 			</div>
 
-			<p className="margin-top-30 text-indent-whole">Chỉ một khoảng thời gian ngắn trong tương lai, một sự kiện sẽ xảy ra trong thời gian gần.</p>
+			<p className="margin-top-30 text-indent-whole">SOON: An event will take place in the near future.</p>
 
 			<p className="margin-top-20 text-indent-whole">For example:</p>
 
 				<ul className="list-square">
 
 					<li id="ADverb">i'll be BACK SOON.</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ quay lại sớm thôi.</li>
+					<li className="margin-bottom-20 list-none">I will return shortly!</li>
 
 					<li>the PARTy will START SOON.</li>
-					<li className="list-none">Bữa tiệc sẽ bắt đầu sớm thôi.</li>
+					<li className="list-none">The party will begin soon.</li>
 
 				</ul>
 
@@ -118,10 +118,10 @@ export default function SOON1(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li id="ADverb-er">WHEN can you COME? the SOONer, the BETter.</li>
-					<li className="list-none">Khi nào bạn có thể đến? Càng sớm càng tốt.</li>
+					<li className="margin-bottom-20 list-none">When can you come? It would be great if you could come as soon as possible.</li>
 					
 					<li id="ADverb-est">i will rePLY SOONest.</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ trả lời sớm nhất có thể.</li>
+					<li className="list-none">I'll get back to you soon.</li>
 
 				</ul>
 
@@ -138,10 +138,10 @@ export default function SOON1(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>i will be with you SHORTly.</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ đến với bạn trong chốc lát.</li>
+					<li className="margin-bottom-20 list-none">I'll be with you in a little bit.</li>
 
 					<li>i'll be with you <Link to="/vocabulary/PRESently-1">PRESently</Link>.</li>
-					<li className="list-none">Tôi sẽ đến với bạn ngay bây giờ.</li>
+					<li className="list-none">I'll be there in a moment.</li>
 
 				</ul>
 
@@ -160,10 +160,10 @@ export default function SOON1(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>let's MEET LAter.</li>
-					<li className="margin-bottom-20 list-none">Hẹn gặp lại sau nhé.</li>
+					<li className="margin-bottom-20 list-none">I'll be there right away.</li>
 
 					<li>i will <Link to="/vocabulary/NEVer-1">NEVer</Link> forGET you.</li>
-					<li className="list-none">Tớ sẽ không bao giờ quên cậu.</li>
+					<li className="list-none">I will always remember you.</li>
 
 				</ul>
 			
@@ -174,67 +174,64 @@ export default function SOON1(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center" id="VoCABulary-LEARNing-TIPS">🌻 Vocabulary-Learning Tips:</h3>
 
 			{/* =============================
-						1. Link to the image:
-			============================= */}
-			
-			<p className="margin-top-20">
-				<strong>
-					<mark className="highlight-255-padding-4-8"><strong>1. Liên kết</strong></mark> 
-				</strong>
-				<strong>&nbsp;với hình ảnh</strong>:
-			</p>
+            1. Link to the image:
+      ============================= */}
+      
+      <p className="margin-top-20">
+        <strong>
+          <mark className="highlight-255-padding-4-8"><strong>1. Link to the image</strong>:</mark> 
+        </strong>
+      </p>
 
-			<p className="text-indent-whole">Hình dung một chiếc đồng hồ đang đếm ngược.</p>
+			<p className="text-indent-whole">Imagine a clock counting down.</p>
 
 				<ul className="list-square">
 
 					<li>the CLOCK is COUNTing DOWN. TIME'S UP SOON.</li>
-					<li className="list-none">Đồng hồ đang đếm ngược. Thời gian sắp hết rồi.</li>
+					<li className="list-none">The clock is running out of time. You don't have much time left.</li>
 
 				</ul>
 
 			{/* =============================
-						2. Create example sentences:
-			============================= */}
+            2. Create example sentences:
+      ============================= */}
 
-			<p className="margin-top-20">
-				<strong>
-					<mark className="highlight-255-padding-4-8"><strong>2. Tạo câu</strong></mark> 
-				</strong>
-				<strong>&nbsp;ví dụ</strong>:
-			</p>
+      <p className="margin-top-20">
+        <strong>
+          <mark className="highlight-255-padding-4-8"><strong>2. Create example sentences</strong>:</mark> 
+        </strong>
+      </p>
 
 			<p className="text-indent-whole">Tạo nhiều câu với "<strong>SOON</strong>" trong các ngữ cảnh khác nhau, liên quan đến thời gian.</p>
 
 				<ul className="list-square">
 
 					<li>the MEETing will START SOON.</li>
-					<li className="list-none">Cuộc họp sẽ bắt đầu trong ít phút nữa.</li>
+					<li className="list-none">The meeting is about to begin.</li>
 
 				</ul>
 
 			{/* =============================
-						3. Regular practice:
-			============================= */}
+            3. Regular practice:
+      ============================= */}
 
-			<p className="margin-top-20">
-				<strong>
-						<mark className="highlight-255-padding-4-8"><strong>3. Luyện tập</strong></mark>
-				</strong>
-				<strong>&nbsp;thường xuyên</strong>:
-			</p>
+      <p className="margin-top-20">
+        <strong>
+          <mark className="highlight-255-padding-4-8"><strong>3. Regular practice</strong>:</mark>
+        </strong>
+      </p>
 
-			<p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ "<strong>SOON</strong>" trong giao tiếp hoặc khi viết.</p>
+			<p className="text-indent-whole margin-bottom-20">Create several sentences using "SOON" in different contexts related to time.</p>
 
-				<p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa SHORTly và <strong>SOON</strong>):</p>
+				<p className="text-indent-whole">Examples for comparison (the difference between "SHORTly" and "SOON"):</p>
 
 					<ol>
 
 						<li value="1">the MEETing will comMENCE SHORTly.</li>
-						<li className="list-none margin-bottom-20">Cuộc họp sẽ bắt đầu trong ít phút nữa.</li>
+						<li className="list-none margin-bottom-20">The meeting will start in a few minutes.</li>
 
 						<li value="2">i'll be BACK SOON.</li>
-						<li className="list-none">Tôi sẽ quay lại sớm thôi.</li>
+						<li className="list-none">I will return shortly.</li>
 
 					</ol>
 
@@ -250,9 +247,9 @@ export default function SOON1(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>"<strong>SOON</strong>" thường đứng cuối câu hoặc sau ĐỘNG.</li>
+					<li>"SOON" usually comes at the end of a sentence or after a verb.</li>
 
-					<li className="margin-bottom-20">Nó có thể được dùng để diễn tả sự mong đợi, sự cấp bách hoặc một sự kiện sắp xảy ra.</li>
+					<li className="margin-bottom-20">It can be used to express anticipation, urgency, or an upcoming event.</li>
 
 				</ul>
 

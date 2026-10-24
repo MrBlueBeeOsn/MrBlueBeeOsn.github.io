@@ -15,7 +15,7 @@ export default function esPECially1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-dac-biet"><mark className="highlight-tertiary-padding-4-8">ADverbs: đặc biệt</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-esPECially"><mark className="highlight-tertiary-padding-4-8">esPECially</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">esPECially
         <sup><Link to="/vocabulary/esPECially-1">&nbsp;1&nbsp;</Link>
@@ -59,7 +59,7 @@ export default function esPECially1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>esPECially</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "esPECially."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function esPECially1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Đặc biệt</li>
+            <li>In particular</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function esPECially1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>esPECially</strong>" được dùng để nhấn mạnh một điều gì đó quan trọng hơn, nổi bật hơn so với những điều khác trong cùng một ngữ cảnh. Nó thường được sử dụng để chỉ ra một lý do cụ thể hoặc một điểm nhấn đặc biệt.</p>
+      <p className="margin-top-30 text-indent-whole">The word "esPECially" is used to emphasize something that is more important or stands out more than other things in the same context. It is often used to point out a specific reason or a particular highlight.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i LOVE all FRUITS, esPECially APples.</li>
-          <li className="margin-bottom-20 list-none">Tớ thích tất cả các loại trái cây, nhất là táo.</li>
+          <li className="margin-bottom-20 list-none">I really like all kinds of fruits, but I especially like apples.</li>
 
           <li>she is VERy GOOD at LANguages, esPECially FRENCH.</li>
-          <li className="list-none">Cô ấy rất giỏi các môn ngoại ngữ, đặc biệt là tiếng Pháp.</li>
+          <li className="list-none">She is very skilled in language, especially the French language.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function esPECially1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">THIS is a SPECial ocCAsion.</li>
-          <li className="list-none">Đây là một dịp đặc biệt.</li>
+          <li className="list-none">This event is special.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function esPECially1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i am <Link to="/vocabulary/parTICularly-1">parTICularly</Link> FOND of this PAINTing.</li>
-          <li className="margin-bottom-20 list-none">Tôi đặc biệt yêu thích bức tranh này.</li>
+          <li className="margin-bottom-20 list-none">I especially like this painting.</li>
 
           <li>i LIKE <strong>man</strong>y SPORTS, in parTICular, SWIMming.</li>
-          <li className="list-none">Tôi thích nhiều môn thể thao, đặc biệt là bơi lội.</li>
+          <li className="list-none">I enjoy many sports, and swimming is one of my favorites.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function esPECially1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>GENERally, i LIKE to GO to BED EARly.</li>
-          <li className="margin-bottom-20 list-none">Nói chung, tôi thích đi ngủ sớm.</li>
+          <li className="margin-bottom-20 list-none">Most of the time, I like to go to bed early.</li>
 
           <li>i <Link to="/vocabulary/Usually-1">Usually</Link> HAVE BREAKfast at 7 a.M.</li>
-          <li className="list-none">Thường thì tôi ăn sáng lúc 7 giờ sáng.</li>
+          <li className="list-none">I typically eat breakfast at 7 a.m.</li>
 
         </ul>
       
@@ -176,12 +176,12 @@ export default function esPECially1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một chiếc bánh PIZza với nhiều loại TOPping khác nhau, và bạn đang chỉ vào một miếng TOPping mà bạn thích nhất.</p>
+      <p className="text-indent-whole">Imagine a pizza with lots of different toppings, and you're pointing to the one you like best.</p>
 
         <ul className="list-square">
 
           <li>esPECially this ONE.</li>
-          <li className="list-none">Đặc biệt là cái này.</li>
+          <li className="list-none">This one is especially important.</li>
 
         </ul>
 
@@ -195,12 +195,12 @@ export default function esPECially1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>esPECially</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Create various example sentences using the word "esPECially" in different contexts.</p>
 
         <ul className="list-square">
 
           <li>i enJOY TRAVeling, esPECially to exOTic PLAces.</li>
-          <li className="list-none">Tôi rất thích đi du lịch, đặc biệt là đến những nơi kỳ thú.</li>
+          <li className="list-none">I love traveling, especially to places that are different from where I live.</li>
 
         </ul>
 
@@ -221,16 +221,16 @@ export default function esPECially1(): React.JSX.Element {
           <ol>
 
             <li value="1">i LIKE to EAT VEGETables.</li>
-            <li className="list-none margin-bottom-20">Tôi thích ăn rau.</li>
+            <li className="list-none margin-bottom-20">I like eating vegetables.</li>
 
             <li value="2">i LIKE to EAT VEGETables, esPECially BROCcoli.</li>
-            <li className="list-none margin-bottom-20">Tôi thích ăn rau, đặc biệt là bồ công anh.</li>
+            <li className="list-none margin-bottom-20">I like eating vegetables. I really like broccoli.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>esPECially</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng trong tất cả các loại rau, người nói <span className="highlight-255-padding-0-4">thích bông cải xanh nhất.</span></p>
+        <p className="margin-y-10">The difference: The second sentence uses "esPECially" to <span className="highlight-255-padding-0-4">emphasize that,</span> of all the vegetables, <span className="highlight-255-padding-0-4">the speaker likes broccoli the most.</span></p>
 
       </div>
 
@@ -246,9 +246,9 @@ export default function esPECially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh: "<strong>esPECially</strong>" được dùng để nhấn mạnh một điểm cụ thể.</li>
+          <li>Emphasis: "esPECially" is used to emphasize a specific point.</li>
 
-          <li className="margin-bottom-20">So sánh: Nó thường được sử dụng để so sánh một điều gì đó với những điều khác trong cùng một nhóm.</li>
+          <li className="margin-bottom-20">Comparison: It is often used to compare something to other things in the same group.</li>
 
         </ul>
 

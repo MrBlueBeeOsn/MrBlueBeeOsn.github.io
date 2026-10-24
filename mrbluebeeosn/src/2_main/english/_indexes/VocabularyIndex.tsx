@@ -616,12 +616,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: đặc biệt
+							esPECially
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-dac-biet"><mark className="highlight-secondary-padding-2-4">ADverbs: đặc biệt</mark></summary>
+					<summary id="ADverbs-esPECially"><mark className="highlight-secondary-padding-2-4">esPECially</mark></summary>
 
 					<ul className="list-border1">
 

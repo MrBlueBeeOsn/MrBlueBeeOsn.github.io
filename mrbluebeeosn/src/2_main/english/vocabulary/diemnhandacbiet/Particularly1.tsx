@@ -15,7 +15,7 @@ export default function parTICularly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-dac-biet"><mark className="highlight-tertiary-padding-4-8">ADverbs: đặc biệt</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-esPECially"><mark className="highlight-tertiary-padding-4-8">esPECially</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">parTICularly
         <sup><Link to="/vocabulary/parTICularly-1">&nbsp;1&nbsp;</Link>
@@ -63,7 +63,7 @@ export default function parTICularly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>parTICularly</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "parTICularly."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -73,13 +73,13 @@ export default function parTICularly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                parTIcularly \<Link to="/pronunciation/5-vowel-system">pa̛r TIC ư la̛r ly</Link>\ /pəˈtɪkjələrli/ •⬤••• (FIVE SYLlables)
+                parTIcularly \<Link to="/pronunciation/5-vowel-system">pa̛r TIC u la̛r ly</Link>\ /pəˈtɪkjələrli/ •⬤••• (FIVE SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Đặc biệt là</li>
+            <li>In particular,</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function parTICularly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>parTICularly</strong>" dùng để nhấn mạnh một điều gì đó hơn những điều khác. Nó thường được dùng để chỉ ra một sự việc, tính chất hoặc người nào đó nổi bật hơn so với những cái còn lại.</p>
+      <p className="margin-top-30 text-indent-whole">The word "parTICularly" is used to emphasize something more than other things. It is often used to point out an event, a quality, or a person that stands out more than the rest.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i LIKE all KINDS of FRUITS, parTICularly APples.</li>
-          <li className="margin-bottom-20 list-none">Tôi thích tất cả các loại trái cây, nhất là táo.</li>
+          <li className="margin-bottom-20 list-none">I like many different kinds of fruit, especially apples.</li>
 
           <li>the WEATHer in VietNAM is HOT, parTICularly in the SUMmer.</li>
-          <li className="list-none">Thời tiết ở Việt Nam rất nóng, đặc biệt là vào mùa hè.</li>
+          <li className="list-none">It is hot in Vietnam, especially during the summer.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function parTICularly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">she is <Link to="/vocabulary/VERy-1">VERy</Link> parTICular a<strong>bout</strong> her CLOTHES.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy rất kén chọn về quần áo của mình.</li>
+          <li className="margin-bottom-20 list-none">She is very particular about what she wears.</li>
 
           <li id="VERB">can you parTICularize the PROBlem?</li>
-          <li className="list-none">Bạn có thể mô tả cụ thể vấn đề đó được không?</li>
+          <li className="list-none">Can you explain what the problem is?</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function parTICularly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/esPECially-1">esPECially</Link> LIKE the COLor BLUE.</li>
-          <li className="margin-bottom-20 list-none">Tôi đặc biệt thích màu xanh dương.</li>
+          <li className="margin-bottom-20 list-none">The color blue is my favorite.</li>
 
           <li>i'm LOOKing for a JOB speCIFically in MARketing.</li>
-          <li className="list-none">Tôi đang tìm kiếm một công việc chuyên về lĩnh vực Tiếp thị.</li>
+          <li className="list-none">I want to find a job, and I'm looking for something in the marketing field.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function parTICularly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>GENERally, i LIKE to STAY at HOME on WEEKends.</li>
-          <li className="margin-bottom-20 list-none">Nói chung, tôi thích ở nhà vào cuối tuần.</li>
+          <li className="margin-bottom-20 list-none">I like to spend my weekend at home.</li>
 
           <li>i reMEMber VAguely MEETing her beFORE.</li>
-          <li className="list-none">Tôi nhớ lờ mờ là đã từng gặp cô ấy trước đây.</li>
+          <li className="list-none">I don't remember much about the time before I met her.</li>
 
         </ul>
       
@@ -183,12 +183,12 @@ export default function parTICularly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một chiếc bánh PIZza với nhiều loại topping khác nhau, và bạn đang chỉ vào một miếng topping.</p>
+      <p className="text-indent-whole">Imagine a pizza with many different toppings, and you're pointing to one of them.</p>
 
         <ul className="list-square">
 
           <li>parTICularly, i LIKE the peppeROni.</li>
-          <li className="list-none">Đặc biệt, tôi rất thích pepperoni.</li>
+          <li className="list-none">I especially like Pepperoni.</li>
 
         </ul>
 
@@ -202,12 +202,12 @@ export default function parTICularly1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu về sở thích, đặc điểm hoặc tình huống bằng cách sử dụng "<strong>parTICularly</strong>".</p>
+      <p className="text-indent-whole">Form sentences about hobbies, characteristics, or situations using "parTICularly."</p>
 
         <ul className="list-square">
 
           <li>i enJOY WATCHing MOvies, parTICularly SCIence FICtion FILMS.</li>
-          <li className="list-none">Tôi rất thích xem phim, đặc biệt là phim khoa học viễn tưởng.</li>
+          <li className="list-none">I really like watching movies, especially science fiction movies.</li>
 
         </ul>
 
@@ -228,16 +228,16 @@ export default function parTICularly1(): React.JSX.Element {
           <ol>
 
             <li value="1">i LIKE FRUITS.</li>
-            <li className="list-none margin-bottom-20">Tôi thích trái cây.</li>
+            <li className="list-none margin-bottom-20">I enjoy eating fruit!</li>
 
             <li value="2">i parTICularly LIKE APples.</li>
-            <li className="list-none margin-bottom-20">Tôi đặc biệt thích táo.</li>
+            <li className="list-none margin-bottom-20">I'm a big fan of apples.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>parTICularly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng trong số tất cả các loại trái cây, táo là <span className="highlight-255-padding-0-4">loại trái cây</span> mà người nói <span className="highlight-255-padding-0-4">thích nhất.</span></p>
+        <p className="margin-y-10">The difference: The second sentence uses "parTICularly" to <span className="highlight-255-padding-0-4">emphasize that,</span> of all the fruits, <span className="highlight-255-padding-0-4">apples are the ones the speaker likes best.</span></p>
 
       </div>
 
@@ -253,9 +253,9 @@ export default function parTICularly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sự nhấn mạnh: "<strong>parTICularly</strong>" dùng để nhấn mạnh một điểm cụ thể.</li>
+          <li>Emphasis: "parTICularly" is used to emphasize a specific point.</li>
 
-          <li className="margin-bottom-20">Sự so sánh ngầm: Khi sử dụng "<strong>parTICularly</strong>", chúng ta đang ngầm so sánh với những điều khác.</li>
+          <li className="margin-bottom-20">Implied comparison: When we use "parTICularly," we are implicitly comparing it to other things.</li>
 
         </ul>
 

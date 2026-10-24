@@ -15,7 +15,7 @@ export default function parTICularly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-dac-biet"><mark className="highlight-tertiary-padding-4-8">ADverbs: đặc biệt</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-esPECially"><mark className="highlight-tertiary-padding-4-8">esPECially</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">parTICularly
         <sup>
@@ -75,7 +75,7 @@ export default function parTICularly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>parTICularly</strong>" (đặc biệt là) và các cụm từ thường đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "parTICularly" (especially) and the phrases it's often used with.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -85,11 +85,11 @@ export default function parTICularly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              parTICularly \<Link to="/pronunciation/5-vowel-system">pa̛r TIC ư la̛r ly</Link>\ /pəˈtɪkjələrli/ •⬤••• (FIVE SYLlables)
+              parTICularly \<Link to="/pronunciation/5-vowel-system">pa̛r TIC u la̛r ly</Link>\ /pəˈtɪkjələrli/ •⬤••• (FIVE SYLlables)
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "đặc biệt là", "một cách đặc biệt", thường được dùng để nhấn mạnh một điều gì đó hơn những thứ khác.
+            &nbsp;in English means "especially," "in particular," and is often used to emphasize something over other things.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function parTICularly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="INTERested-in">i am parTICularly INTERested in HISTORy.</li>
-        <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến Lịch sử.</li>
+        <li className="list-none margin-bottom-20">I really like history.</li>
 
         <li value="2" id="FOND-of">she is parTICularly FOND of CHOCOLate.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đặc biệt thích sô-cô-la.</li>
+        <li className="list-none margin-bottom-20">She really loves chocolate.</li>
 
         <li value="3" id="GOOD-at-PLAYing-the">he is parTICularly GOOD at PLAYing the piANo.</li>
-        <li className="list-none margin-bottom-20">Anh ấy chơi piano đặc biệt giỏi.</li>
+        <li className="list-none margin-bottom-20">He is very talented and skilled when it comes to playing the piano.</li>
 
         <li value="4" id="CHALlenging">this TASK is parTICularly CHALlenging.</li>
-        <li className="list-none margin-bottom-20">Nhiệm vụ này đặc biệt khó khăn.</li>
+        <li className="list-none margin-bottom-20">This job is really hard.</li>
 
         <li value="5" id="RELevant-to">this inforMAtion is parTICularly RELevant to our disCUSsion.</li>
-        <li className="list-none margin-bottom-20">Thông tin này đặc biệt có liên quan đến cuộc thảo luận của chúng ta.</li>
+        <li className="list-none margin-bottom-20">This information is especially important for the topic that we are discussing.</li>
 
         <li value="6" id="BEAUtiful-toDAY">the SUNset was parTICularly BEAUtiful toDAY.</li>
-        <li className="list-none margin-bottom-20">Hôm nay, cảnh hoàng hôn đặc biệt đẹp.</li>
+        <li className="list-none margin-bottom-20">The sunset was really lovely today.</li>
 
         <li value="7" id="imPORTant-to-arRIVE-on-TIME-for-the">it is parTICularly imPORTant to arRIVE on TIME for the MEETing.</li>
-        <li className="list-none margin-bottom-20">Điều đặc biệt quan trọng là phải đến đúng giờ cho cuộc họp.</li>
+        <li className="list-none margin-bottom-20">It is very important to be on time for the meeting.</li>
 
         <li value="8" id="DIFficult-to-SOLVE">this PROBlem is parTICularly DIFficult to SOLVE.</li>
-        <li className="list-none margin-bottom-20">Vấn đề này đặc biệt khó giải quyết.</li>
+        <li className="list-none margin-bottom-20">This problem is really hard to solve.</li>
 
         <li value="9" id="efFECtive-for">this MEDicine is parTICularly efFECtive for TREATing HEADaches.</li>
-        <li className="list-none margin-bottom-20">Loại thuốc này đặc biệt hiệu quả trong việc điều trị đau đầu.</li>
+        <li className="list-none margin-bottom-20">This medicine is very good at treating headaches.</li>
 
         <li value="10" id="SUITable-for">this BOOK is parTICularly SUITable for beGINners.</li>
-        <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt phù hợp với người mới bắt đầu.</li>
+        <li className="list-none margin-bottom-20">This book is perfect for people who are just starting out.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh một đặc điểm, một tính chất hoặc một khía cạnh nào đó của một sự vật, sự việc hoặc một người. Chúng giúp làm nổi bật những điểm đặc biệt và thu hút sự chú ý của người nghe hoặc người đọc.</p>
+      <p>** The phrases above are all used to emphasize a particular feature, characteristic, or aspect of an object, event, or person. They help highlight distinctive points and capture the attention of the listener or reader.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function parTICularly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>parTICularly</strong>" thường được đặt trước ADjective hoặc NOUN để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"parTICularly" is often placed before an adjective or noun to emphasize their meaning.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong các văn bản viết và nói để làm cho câu văn trở nên sinh động và hấp dẫn hơn.</li>
+          <li className="margin-bottom-20">This word is commonly used in both written and spoken language to make sentences more vivid and engaging.</li>
 
         </ul>
 
