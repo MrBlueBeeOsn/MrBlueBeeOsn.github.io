@@ -15,7 +15,7 @@ export default function YES2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-co"><mark className="highlight-tertiary-padding-4-8">ADverbs: có</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-YES"><mark className="highlight-tertiary-padding-4-8">YES</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">YES
         <sup>
@@ -75,7 +75,7 @@ export default function YES2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>YES</strong>" (có) khi nó đóng vai trò là một ADverb trong tiếng Anh nhé.</p>
+      <p>Great! Let’s take a closer look at how to use the word “YES” when it functions as an adverb in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function YES2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được biết đến như một từ để trả lời đồng ý, nhưng khi kết hợp với các từ khác, nó có thể tạo ra nhiều sắc thái và ý nghĩa khác nhau.
+            &nbsp;is commonly known as a word used to express agreement, but when combined with other words, it can convey various nuances and meanings.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function YES2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="inDEED">is it a BEAUtiful DAY? YES, inDEED.</li>
-        <li className="list-none margin-bottom-20">Hôm nay có phải là một ngày tựa như một bức tranh không? Đúng vậy.</li>
+        <li className="list-none margin-bottom-20">Is it a nice day? Yes, it is.</li>
 
         <li value="2" id="and">do you LIKE APples? YES, and i LIKE baNANas TOO.</li>
-        <li className="list-none margin-bottom-20">Bạn có thích táo không? Có, và tôi cũng thích chuối nữa.</li>
+        <li className="list-none margin-bottom-20">Hey, do you like apples? Absolutely, and I'm also a fan of bananas.</li>
 
         <li value="3" id="but">can i COME to the PARTy? YES, but i have to LEAVE EARly.</li>
-        <li className="list-none margin-bottom-20">Mình có thể đến dự tiệc không? Có, nhưng mình phải về sớm.</li>
+        <li className="list-none margin-bottom-20">I'd love to come to the party, if that's okay. Yeah, but I've got to head out early.</li>
 
         <li value="4" id="of-COURSE">can i BORrow your PEN? YES, of COURSE.</li>
-        <li className="list-none margin-bottom-20">Tớ mượn bút của cậu được không? Được chứ, tự nhiên rồi.</li>
+        <li className="list-none margin-bottom-20">Hey, I was hoping I could borrow your pen for a sec. Absolutely.</li>
 
         <li value="5" id="CERtainly">would you LIKE some HELP? YES, <Link to="/vocabulary/CERtainly-1">CERtainly</Link>.</li>
-        <li className="list-none margin-bottom-20">Bạn có muốn được giúp đỡ không? Vâng, tất nhiên rồi.</li>
+        <li className="list-none margin-bottom-20">Do you need some help? Yes, absolutely.</li>
 
         <li value="6" id="PLEASE">would you LIKE anOTHer PIECE of CAKE? YES, PLEASE.</li>
-        <li className="list-none margin-bottom-20">Bạn có muốn ăn thêm một miếng bánh nữa không? Vâng, xin vui lòng.</li>
+        <li className="list-none margin-bottom-20">Do you want another piece of cake? YES, PLEASE.</li>
 
         <li value="7" id="eXACTly">THAT'S WHAT i MEAN. YES, <Link to="/vocabulary/eXACTly-1">eXACTly</Link>.</li>
-        <li className="list-none margin-bottom-20">Đó chính là ý tôi muốn nói. Đúng rồi, chính xác là vậy.</li>
+        <li className="list-none margin-bottom-20">That's what I'm talking about. Yes, exactly.</li>
 
         <li value="8" id="inDEEDy">it's a BEAUtiful DAY, ISn't it? YES, inDEEDy.</li>
-        <li className="list-none margin-bottom-20">Hôm nay là một ngày thật tuyệt vời, phải không? Đúng vậy, thật sự đó.</li>
+        <li className="list-none margin-bottom-20">It's a beautiful day, isn't it? Yes, it is indeed the case.</li>
 
         <li value="9" id="SIR">may i TAKE your ORder? YES, SIR.</li>
-        <li className="list-none margin-bottom-20">Tôi có thể nhận đơn đặt hàng của quý khách được không? Vâng, thưa ông.</li>
+        <li className="list-none margin-bottom-20">Can I get your order? Yes, sir.</li>
 
         <li value="10" id="i-supPOSE-so">do you THINK we should GO to the PARTy? YES, i supPOSE so.</li>
-        <li className="list-none margin-bottom-20">Bạn có nghĩ là chúng ta nên đi dự tiệc không? Vâng, tớ cũng nghĩ là nên.</li>
+        <li className="list-none margin-bottom-20">Should we go to the party? Yes, I guess so.</li>
 
       </ol>
 
-      <p>** Việc hiểu ngữ cảnh sẽ giúp bạn sử dụng các cụm từ này một cách chính xác.</p>
+      <p>** Understanding the context will help you use these phrases correctly.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,15 +147,15 @@ export default function YES2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Trong nhiều trường hợp, "<strong>YES</strong>" có thể được coi như một phần tử trong một cụm từ hơn là một ADverb độc lập.</li>
+          <li>In many cases, "YES" can be considered part of a phrase rather than a standalone adverb.</li>
 
-          <li className="margin-bottom-20">Ý nghĩa của các cụm từ này có thể thay đổi tùy thuộc vào ngữ cảnh và giọng điệu.</li>
+          <li className="margin-bottom-20">The meaning of these phrases can vary depending on the context and tone.</li>
 
         </ul>
 
       </div>
 
-      <p className="margin-top-50">Hy vọng những ví dụ trên sẽ giúp bạn hiểu rõ hơn về cách sử dụng từ "<strong>YES</strong>" trong tiếng Anh! 🐝</p>
+      <p className="margin-top-50">Hoping these examples will help you better understand how to use the word "YES" in English! 🐝</p>
 
       <div className="viewcounter">
       

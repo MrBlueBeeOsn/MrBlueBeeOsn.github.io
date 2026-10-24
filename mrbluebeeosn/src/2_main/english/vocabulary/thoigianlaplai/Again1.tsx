@@ -59,7 +59,7 @@ export default function aGAIN1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>aGAIN</strong>" nhé.</p>
+      <p>Great! Let's dive into an analysis of the word "aGAIN."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function aGAIN1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Lại nữa</li>
+            <li>Once again</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function aGAIN1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Chỉ việc lặp lại một hành động, sự việc hoặc trạng thái.</p>
+      <p className="margin-top-30 text-indent-whole">Simply repeat an action, event, or state.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">can you SAY THAT aGAIN?</li>
-          <li className="margin-bottom-20 list-none">Tôi đã xem bộ phim này rồi, nhưng tôi muốn xem lại.</li>
+          <li className="margin-bottom-20 list-none">Would you mind repeating that?</li>
 
           <li>i've SEEN this MOvie before, but i WANT to WATCH it aGAIN.</li>
-          <li className="list-none">Tôi đã xem bộ phim này rồi, nhưng tôi muốn xem lại.</li>
+          <li className="list-none">This is a movie I've seen before. I want to watch it again.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function aGAIN1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADverb-as-ADjunct-2">he KEPT ASKing the SAME QUESTion aGAIN and aGAIN.</li>
-          <li className="list-none">Anh ta cứ liên tục hỏi đi hỏi lại cùng một câu hỏi.</li>
+          <li className="list-none">He repeatedly posed the same question.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function aGAIN1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>let's TRY ONCE MORE.</li>
-          <li className="margin-bottom-20 list-none">Tôi chỉ làm điều đó một lần thôi.</li>
+          <li className="margin-bottom-20 list-none">Let's give it another try.</li>
 
           <li>he <Link to="/vocabulary/rePEATedly-1">rePEATedly</Link> MADE the SAME misTAKE.</li>
-          <li className="list-none">Anh ta liên tục lặp lại cùng một sai lầm.</li>
+          <li className="list-none">He kept making the same mistake over and over again.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function aGAIN1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i've Only DONE it ONCE.</li>
-          <li className="margin-bottom-20 list-none">Tôi chỉ làm điều đó một lần thôi.</li>
+          <li className="margin-bottom-20 list-none">I've only done it a single time.</li>
 
           <li>i'm SEEing this MOvie for the FIRST TIME.</li>
-          <li className="list-none">Đây là lần đầu tiên tôi xem bộ phim này.</li>
+          <li className="list-none">This is my first time seeing this movie.</li>
 
         </ul>
       
@@ -176,12 +176,12 @@ export default function aGAIN1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hãy tưởng tượng một chiếc đồng hồ quay trở lại vị trí ban đầu.</p>
+      <p className="text-indent-whole">Imagine a clock returning to its original position.</p>
 
         <ul className="list-square">
 
           <li>the CLOCK STOPped WORKing, but NOW it's STARTed aGAIN.</li>
-          <li className="list-none">Chiếc đồng hồ đã ngừng chạy, nhưng bây giờ nó đã chạy lại rồi.</li>
+          <li className="list-none">The clock stopped working, but it has started working again.</li>
 
         </ul>
 
@@ -195,12 +195,12 @@ export default function aGAIN1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>aGAIN</strong>" trong các ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Try to come up with as many example sentences as possible using "aGAIN" in different contexts.</p>
 
         <ul className="list-square">
 
           <li>the PRICE of GAS is <strong>go</strong>iNG UP aGAIN.</li>
-          <li className="list-none">Giá xăng lại đang tăng trở lại.</li>
+          <li className="list-none">The cost of gas is increasing again.</li>
 
         </ul>
 
@@ -214,19 +214,19 @@ export default function aGAIN1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>aGAIN</strong>".</p>
+      <p className="text-indent-whole margin-bottom-20">Read and write frequently to build your vocabulary and improve your use of "aGAIN."</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa ONCE MORE và <strong>aGAIN</strong>):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between "ONCE MORE" and "aGAIN"):</p>
 
           <ol>
 
             <li value="1">let's TRY ONCE MORE.</li>
-            <li className="list-none">Hãy thử lại một lần nữa.</li>
-            <li className="list-none margin-bottom-20">Thường được dùng để nhấn mạnh sự lặp lại cuối cùng hoặc một nỗ lực cuối cùng.</li>
+            <li className="list-none">Let's give it one last try.</li>
+            <li className="list-none margin-bottom-20">It is often used to <span className="highlight-255-padding-0-4">emphasize the final repetition</span> or a final effort.</li>
 
             <li value="2">PLEASE rePEAT THAT aGAIN.</li>
-            <li className="list-none">Xin vui lòng nói lại một lần nữa.</li>
-            <li className="list-none margin-bottom-20">Thường được dùng trong các tình huống thông thường</li>
+            <li className="list-none">Could you please say that again?</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">Commonly used in everyday situations</span></li>
 
           </ol>
 
@@ -242,9 +242,9 @@ export default function aGAIN1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>aGAIN</strong>" thường đứng sau ĐỘNG.</li>
+          <li>"aGAIN" usually follows a verb.</li>
 
-          <li className="margin-bottom-20">"<strong>aGAIN</strong>" có thể được dùng để nhấn mạnh một ý tưởng hoặc cảm xúc.</li>
+          <li className="margin-bottom-20">"aGAIN" can be used to emphasize an idea or emotion.</li>
 
         </ul>
 

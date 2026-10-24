@@ -15,7 +15,7 @@ export default function YES1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-co"><mark className="highlight-tertiary-padding-4-8">ADverbs: có</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-YES"><mark className="highlight-tertiary-padding-4-8">YES</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">YES
         <sup><Link to="/vocabulary/YES-1">&nbsp;1&nbsp;</Link>
@@ -55,7 +55,7 @@ export default function YES1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>YES</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "YES."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -71,7 +71,7 @@ export default function YES1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Có</li>
+            <li>Yes</li>
 
           </ul>
 
@@ -83,17 +83,17 @@ export default function YES1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Dùng để khẳng định một thông tin, đồng ý với một yêu cầu hoặc câu hỏi.</p>
+      <p className="margin-top-30 text-indent-whole">Used to confirm a piece of information or to agree to a request or question.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">are you COMing to the PARTy? - YES, i AM.</li>
-          <li className="margin-bottom-20 list-none">Bạn có đến dự tiệc không? - Có, tớ sẽ đến.</li>
+          <li className="margin-bottom-20 list-none">Are you going to the party? Yes, I am.</li>
 
           <li>do you LIKE COFfee? - YES, i DO.</li>
-          <li className="list-none">Bạn có thích cà phê không? - Có, tôi thích.</li>
+          <li className="list-none">Hey, do you like coffee? Absolutely, I do.</li>
 
         </ul>
 
@@ -109,7 +109,7 @@ export default function YES1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>YES</strong>" vì đây là một từ đơn và rất cơ bản.</li>
+          <li className="list-none">There is no direct family word for "YES" because it is a single word and very basic.</li>
 
         </ul>
 
@@ -126,10 +126,10 @@ export default function YES1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>can i HELP you? - <Link to="/vocabulary/CERtainly-1">CERtainly</Link>.</li>
-          <li className="margin-bottom-20 list-none">Tôi có thể giúp gì cho bạn không? - Chắc chắn rồi.</li>
+          <li className="margin-bottom-20 list-none">Can I help you out? Absolutely.</li>
 
           <li>is THAT TRUE? - <Link to="/vocabulary/ABsolutely-1">ABsolutely</Link>.</li>
-          <li className="list-none">Điều đó có đúng không? - Hoàn toàn đúng.</li>
+          <li className="list-none">Is that actually the case? Totally.</li>
 
         </ul>
 
@@ -148,10 +148,10 @@ export default function YES1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>are you COMing to the PARTy? - <Link to="/vocabulary/NO-1">NO</Link>, i'm <Link to="/vocabulary/NOT-1">NOT</Link>.</li>
-          <li className="margin-bottom-20 list-none">Bạn có đến dự tiệc không? - Không, tớ không đi.</li>
+          <li className="margin-bottom-20 list-none">Hey, just wanted to check in and see if you're coming to the party? Nope, I'm not.</li>
 
           <li>are you GOing to QUIT your JOB? - <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> <Link to="/vocabulary/NOT-1">NOT</Link>.</li>
-          <li className="list-none">Bạn có định nghỉ việc không? - Chắc chắn là không.</li>
+          <li className="list-none">Hey, just wondering if you're thinking about quitting your job? -	Absolutely not.</li>
 
         </ul>
       
@@ -171,12 +171,12 @@ export default function YES1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một cái gật đầu để biểu thị sự đồng ý.</p>
+      <p className="text-indent-whole">Imagine a nod to indicate agreement.</p>
 
         <ul className="list-square">
 
           <li>YES.</li>
-          <li className="list-none"> Có. (Cách nói thông dụng nhất.)</li>
+          <li className="list-none">Indeed.</li>
 
         </ul>
 
@@ -190,18 +190,18 @@ export default function YES1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo nhiều câu hỏi và câu trả lời với "<strong>YES</strong>" trong các tình huống khác nhau.</p>
+      <p className="text-indent-whole">Create several questions and answers that include "YES" in various situations.</p>
 
         <ul className="list-square">
 
           <li className="list-none">would you LIKE some COFfee?</li>
-          <li className="margin-bottom-20 list-none">Bạn có muốn uống một tách cà phê không?</li>
+          <li className="margin-bottom-20 list-none">Would you like a cup of coffee?</li>
 
           <li>YES, PLEASE.</li>
-          <li className="margin-bottom-20 list-none">Vâng, làm ơn.</li>
+          <li className="margin-bottom-20 list-none">Yes, please. That would be great!</li>
 
           <li><Link to="/vocabulary/ABsolutely-1">ABsolutely</Link>!</li>
-          <li className="list-none">Chắc chắn rồi!</li>
+          <li className="list-none">Definitely!</li>
 
         </ul>
 
@@ -215,19 +215,19 @@ export default function YES1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>YES</strong>" trong giao tiếp hàng ngày.</p>
+      <p className="text-indent-whole margin-bottom-20">Use "YES" frequently in everyday conversation.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa CERtainly và <strong>YES</strong>):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between "CERtainly" and "YES"):</p>
 
           <ol>
 
             <li value="1">can i BORrow your PEN? - <Link to="/vocabulary/CERtainly-1">CERtainly</Link>.</li>
-            <li className="list-none">Tớ mượn bút của cậu được không? - Được chứ.</li>
-            <li className="list-none margin-bottom-20">Là câu trả lời nhấn mạnh, thể hiện sự sẵn lòng hoặc đồng ý một cách nhiệt tình.</li>
+            <li className="list-none">Can I borrow your pen? Absolutely.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">An emphatic response</span> that expresses willingness or enthusiastic agreement.</li>
 
             <li value="2">do you LIKE CHOCOLate? - YES.</li>
-            <li className="list-none">Bạn có thích sô-cô-la không? - Có.</li>
-            <li className="list-none">Là câu trả lời đơn giản cho một câu hỏi.</li>
+            <li className="list-none">Do you like chocolate? The answer is yes.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">It's a simple answer</span> to a question.</li>
 
           </ol>
 
@@ -241,9 +241,9 @@ export default function YES1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>YES</strong>" thường đứng một mình để trả lời câu hỏi.</li>
+          <li>"YES" is often used on its own to answer a question.</li>
 
-          <li className="margin-bottom-20">"<strong>YES</strong>" cũng có thể được dùng để nhấn mạnh sự đồng ý.</li>
+          <li className="margin-bottom-20">"YES" can also be used to emphasize agreement.</li>
 
         </ul>
 

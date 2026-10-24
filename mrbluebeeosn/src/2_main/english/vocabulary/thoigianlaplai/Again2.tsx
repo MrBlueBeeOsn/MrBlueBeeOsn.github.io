@@ -75,7 +75,7 @@ export default function aGAIN2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>aGAIN</strong>" (lại nữa) trong tiếng Anh nhé.</p>
+      <p>Great! Let's take a closer look at how to use the word "aGAIN" (again) in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function aGAIN2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb chỉ tần suất, thường được dùng để diễn tả một hành động được lặp lại, hoặc một tình huống tương tự xảy ra một lần nữa.
+            &nbsp;is an adverb of frequency, often used to describe a repeated action or a similar situation occurring again.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function aGAIN2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="MADE">he MADE the SAME misTAKE aGAIN and aGAIN.</li>
-        <li className="list-none margin-bottom-20">Anh ta lại lại mắc phải cùng một sai lầm đó.</li>
+        <li className="list-none margin-bottom-20">He kept making this one same mistake over and over again.</li>
 
         <li value="2" id="TRY-THAT-ONCE">let's TRY THAT ONCE aGAIN.</li>
-        <li className="list-none margin-bottom-20">Hãy thử lại một lần nữa nào.</li>
+        <li className="list-none margin-bottom-20">Let's give that another try.</li>
 
         <li value="3" id="NOT-to-DO-THAT">i've TOLD you TIME and aGAIN NOT to DO THAT.</li>
-        <li className="list-none margin-bottom-20">Tớ đã nói với cậu rất nhiều lần là đừng làm thế.</li>
+        <li className="list-none margin-bottom-20">I have told you many times not to do that.</li>
 
         <li value="4" id="PLAYED-Over-and-Over">she PLAYED the SAME SONG Over and Over aGAIN.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã chơi đi chơi lại bài hát đó liên tục.</li>
+        <li className="list-none margin-bottom-20">She sang the same song repeatedly.</li>
 
         <li value="5" id="to-START-all-Over">we had to START all Over aGAIN.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi đã phải bắt đầu lại từ đầu.</li>
+        <li className="list-none margin-bottom-20">We had to start from the beginning again.</li>
 
         <li value="6" id="HOPE-to-SEE-SOON">i HOPE to SEE you aGAIN SOON.</li>
-        <li className="list-none margin-bottom-20">Tôi hy vọng sẽ sớm được gặp lại bạn.</li>
+        <li className="list-none margin-bottom-20">I hope we meet up again soon.</li>
 
         <li value="7" id="SAY-THAT">could you SAY THAT aGAIN, PLEASE?</li>
-        <li className="list-none margin-bottom-20">Bạn có thể nói lại lần nữa được không, làm ơn?</li>
+        <li className="list-none margin-bottom-20">Please repeat that last statement.</li>
 
         <li value="8" id="NOT">NOT aGAIN! i've LOST my KEYS.</li>
-        <li className="list-none margin-bottom-20">Lại nữa rồi! Mình lại mất chìa khóa rồi.</li>
+        <li className="list-none margin-bottom-20">This isn't the first time. I've lost my keys again!</li>
 
         <li value="9" id="ONCE-MORE">could you READ THAT ONCE MORE?</li>
-        <li className="list-none margin-bottom-20">Bạn có thể đọc lại lần nữa được không?</li>
+        <li className="list-none margin-bottom-20">Would you mind reading that one more time?</li>
 
         <li value="10" id="DO-as-beFORE">PLEASE DO it as beFORE.</li>
-        <li className="list-none margin-bottom-20">Xin hãy làm như trước đây.</li>
+        <li className="list-none margin-bottom-20">Please do it the way you did before.</li>
 
       </ol>
 
@@ -147,15 +147,15 @@ export default function aGAIN2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>aGAIN</strong>" có thể được sử dụng để nhấn mạnh sự lặp lại, sự thất vọng, hoặc một mong muốn.</li>
+          <li>"aGAIN" can be used to emphasize repetition, frustration, or a desire.</li>
 
-          <li className="margin-bottom-20">Ý nghĩa chính xác của cụm từ phụ thuộc vào ngữ cảnh sử dụng.</li>
+          <li className="margin-bottom-20">The exact meaning of the phrase depends on the context in which it is used.</li>
 
         </ul>
 
       </div>
 
-      <p className="margin-top-50">Hy vọng những thông tin này sẽ giúp bạn hiểu rõ hơn về cách sử dụng từ "<strong>aGAIN</strong>" trong tiếng Anh! 🐝</p>
+      <p className="margin-top-50">Hoping this information helps you better understand how to use the word "aGAIN" in English! 🐝</p>
 
       <div className="viewcounter">
       

@@ -210,12 +210,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 			<div className="vocabulary-container margin-top-20">
 
 				{/* =============================
-							ADverbs: có
+							YES
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-co"><mark className="highlight-secondary-padding-2-4">ADverbs: có</mark></summary>
+					<summary id="ADverbs-YES"><mark className="highlight-secondary-padding-2-4">YES</mark></summary>
 
 					<ul className="list-border1">
 
