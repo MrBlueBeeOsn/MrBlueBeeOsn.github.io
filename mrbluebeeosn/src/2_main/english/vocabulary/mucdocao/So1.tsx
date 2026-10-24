@@ -15,7 +15,7 @@ export default function SO1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#ADverbs-HIGHly"><mark className="highlight-tertiary-padding-4-8">HIGHly</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-SO"><mark className="highlight-tertiary-padding-4-8">SO</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">SO
         <sup><Link to="/vocabulary/SO-1">&nbsp;1&nbsp;</Link>

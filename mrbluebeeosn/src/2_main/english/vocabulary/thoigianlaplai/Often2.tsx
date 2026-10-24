@@ -15,7 +15,7 @@ export default function OFten2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#ADverbs-Usually"><mark className="highlight-tertiary-padding-4-88">Usually</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-OFten"><mark className="highlight-tertiary-padding-4-88">OFten</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">OFten
         <sup>

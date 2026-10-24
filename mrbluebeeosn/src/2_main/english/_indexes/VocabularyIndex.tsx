@@ -290,7 +290,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 					</ul>
 
 				</details>
-				
+
 				
 				{/* =============================
 							MAYbe
@@ -360,165 +360,14 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				</details>
 
+
 				{/* =============================
-							HIGHly
+							SOON
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="ADverbs-HIGHly"><mark className="highlight-secondary-padding-2-4">HIGHly</mark></summary>
-
-					<ul className="list-border1">
-
-						<li>
-							<Link to="/vocabulary/HIGHly-1">HIGHly
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/HIGHly-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-						
-						<li>
-							<Link to="/vocabulary/SO-1">SO
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/SO-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/VERy-1">VERy
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/VERy-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/exTREMEly-1">exTREMEly
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/exTREMEly-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/GREATly-1">GREATly
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/GREATly-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-						
-					</ul>
-
-				</details>
-
-				{/* =============================
-							ADverbs: đặc biệt
-				============================= */}
-
-				<details className="sub-box-fix">
-			
-					<summary id="adverbs-dac-biet"><mark className="highlight-secondary-padding-2-4">ADverbs: đặc biệt</mark></summary>
-
-					<ul className="list-border1">
-
-						<li>
-							<Link to="/vocabulary/esPECially-1">esPECially
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/esPECially-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/parTICularly-1">parTICularly
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/parTICularly-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						
-						
-					</ul>
-
-				</details>
-
-				{/* =============================
-							Usually
-				============================= */}
-
-				<details className="sub-box-fix">
-			
-					<summary id="ADverbs-Usually"><mark className="highlight-secondary-padding-2-4">Usually</mark></summary>
-
-					<ul className="list-border1">
-
-						<li>
-							<Link to="/vocabulary/Usually-1">Usually
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/Usually-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-						
-						<li>
-							<Link to="/vocabulary/OFten-1">OFten
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/OFten-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/aGAIN-1">aGAIN
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/aGAIN-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/rePEATedly-1">rePEATedly
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/rePEATedly-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/FREquently-1">FREquently
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/FREquently-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-						
-					</ul>
-
-				</details>
-
-				{/* =============================
-							ADverbs: tương lai
-				============================= */}
-
-				<details className="sub-box-fix">
-			
-					<summary id="adverbs-tuong-lai"><mark className="highlight-secondary-padding-2-4">ADverbs: tương lai</mark></summary>
+					<summary id="ADverbs-SOON"><mark className="highlight-secondary-padding-2-4">SOON</mark></summary>
 
 					<ul className="list-border1">
 
@@ -645,6 +494,161 @@ export default function VocabularyIndex(): React.JSX.Element {
 					</ul>
 
 				</details>
+
+
+				{/* =============================
+							SO
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="ADverbs-SO"><mark className="highlight-secondary-padding-2-4">SO</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/SO-1">SO
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/SO-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/VERy-1">VERy
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/VERy-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/HIGHly-1">HIGHly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/HIGHly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/exTREMEly-1">exTREMEly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/exTREMEly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/GREATly-1">GREATly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/GREATly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+					</ul>
+
+				</details>
+
+
+				{/* =============================
+							OFten
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="ADverbs-OFten"><mark className="highlight-secondary-padding-2-4">OFten</mark></summary>
+
+					<ul className="list-border1">
+						
+						<li>
+							<Link to="/vocabulary/OFten-1">OFten
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/OFten-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/aGAIN-1">aGAIN
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/aGAIN-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/Usually-1">Usually
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/Usually-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/rePEATedly-1">rePEATedly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/rePEATedly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/FREquently-1">FREquently
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/FREquently-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+					</ul>
+
+				</details>
+
+				{/* =============================
+							ADverbs: đặc biệt
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="adverbs-dac-biet"><mark className="highlight-secondary-padding-2-4">ADverbs: đặc biệt</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/esPECially-1">esPECially
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/esPECially-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/parTICularly-1">parTICularly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/parTICularly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						
+						
+					</ul>
+
+				</details>
+
 
 				{/* =============================
 							BAsically

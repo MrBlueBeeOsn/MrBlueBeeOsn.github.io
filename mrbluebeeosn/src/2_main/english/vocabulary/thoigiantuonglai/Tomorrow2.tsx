@@ -15,7 +15,7 @@ export default function toMORrow2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-tuong-lai"><mark className="highlight-tertiary-padding-4-88">ADverbs: tương lai</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-SOON"><mark className="highlight-tertiary-padding-4-88">SOON</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">toMORrow
         <sup>
@@ -75,9 +75,7 @@ export default function toMORrow2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>toMORrow</strong>" (ngày mai) trong tiếng Anh nhé.
-
-</p>
+      <p>Great! Let's take a closer look at how to use the word "toMORrow" (tomorrow) in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -87,11 +85,11 @@ export default function toMORrow2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              toMORrow \<Link to="/pronunciation/5-vowel-system">tơ MȮR rōw</Link>\ /təˈmɔː.roʊ/ •⬤• (THREE SYLlables)
+              toMORrow \<Link to="/pronunciation/5-vowel-system">tơ MOR rōw</Link>\ /təˈmɔː.roʊ/ •⬤• (THREE SYLlables)
               
             </span>
               
-            &nbsp;là một ADverb chỉ thời gian, thường được dùng để diễn tả một hành động hoặc sự việc sẽ xảy ra vào ngày mai.
+            &nbsp;is an adverb of time, often used to describe an action or event that will take place tomorrow.
 
           </p>
 
@@ -106,34 +104,34 @@ export default function toMORrow2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="MORNing">i have a MEETing toMORrow MORNing.</li>
-        <li className="list-none margin-bottom-20">Tôi có một cuộc họp vào sáng mai.</li>
+        <li className="list-none margin-bottom-20">I have an appointment to meet with someone tomorrow morning.</li>
 
         <li value="2" id="afterNOON">let's GO to the BEACH toMORrow afterNOON.</li>
-        <li className="list-none margin-bottom-20">Hãy cùng đi biển vào chiều mai nhé.</li>
+        <li className="list-none margin-bottom-20">Let's go to the beach tomorrow at noon.</li>
 
         <li value="3" id="EVEning">i'm GOing to a PARTy toMORrow EVEning.</li>
-        <li className="list-none margin-bottom-20">Tối mai tớ sẽ đi dự tiệc.</li>
+        <li className="list-none margin-bottom-20">Tomorrow night, I'm going to a party.</li>
 
         <li value="4" id="NIGHT">it will be COLD toMORrow NIGHT.</li>
-        <li className="list-none margin-bottom-20">Đêm mai sẽ lạnh lắm.</li>
+        <li className="list-none margin-bottom-20">It's gonna be pretty cold tomorrow night.</li>
 
         <li value="5" id="DAY-after">i'll SEE you DAY <strong>af</strong>ter toMORrow.</li>
-        <li className="list-none margin-bottom-20">Hẹn gặp lại bạn ngày mốt nhé.</li>
+        <li className="list-none margin-bottom-20">We meet again tomorrow.</li>
 
         <li value="6" id="the-DAY-after">i have a DENtist apPOINTment the DAY <strong>af</strong>ter toMORrow.</li>
-        <li className="list-none margin-bottom-20">Tôi có một cuộc hẹn với nha sĩ vào ngày mốt.</li>
+        <li className="list-none margin-bottom-20">I have a dental appointment scheduled for the day after tomorrow.</li>
 
         <li value="7" id="WEEK">i'm going on vaCAtion toMORrow WEEK.</li>
-        <li className="list-none margin-bottom-20">Tuần sau tôi sẽ đi nghỉ mát.</li>
+        <li className="list-none margin-bottom-20">I'm going on vacation for a week starting next Monday.</li>
 
         <li value="8" id="MONTH">my BIRTHday is toMORrow MONTH.</li>
-        <li className="list-none margin-bottom-20">Sinh nhật của tớ là vào tháng sau.</li>
+        <li className="list-none margin-bottom-20">I will celebrate my birthday next month.</li>
 
         <li value="9" id="BUSy">i'll be BUSy toMORrow and the NEXT DAY.</li>
-        <li className="list-none margin-bottom-20">Ngày mai và ngày mốt tớ sẽ bận.</li>
+        <li className="list-none margin-bottom-20">Tomorrow and the day after will be busy for me.</li>
 
         <li value="10" id="MEET">we can MEET toMORrow or the DAY AFter.</li>
-        <li className="list-none margin-bottom-20">Chúng ta có thể gặp nhau vào ngày mai hoặc ngày mốt.</li>
+        <li className="list-none margin-bottom-20">Let's get together tomorrow or the day after.</li>
 
       </ol>
 
@@ -149,9 +147,9 @@ export default function toMORrow2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>toMORrow</strong>" thường được dùng để chỉ một thời điểm gần trong tương lai.</li>
+          <li>"toMORrow" is often used to refer to a time in the near future.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>toMORrow</strong>" với nhiều ADverb khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">You can combine "toMORrow" with various other adverbs to create a wider variety of phrases.</li>
 
         </ul>
 

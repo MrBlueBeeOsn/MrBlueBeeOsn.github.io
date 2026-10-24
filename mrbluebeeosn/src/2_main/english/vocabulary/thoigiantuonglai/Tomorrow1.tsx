@@ -15,7 +15,7 @@ export default function toMORrow1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-tuong-lai"><mark className="highlight-tertiary-padding-4-88">ADverbs: tương lai</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-SOON"><mark className="highlight-tertiary-padding-4-88">SOON</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">toMORrow
         <sup><Link to="/vocabulary/toMORrow-1">&nbsp;1&nbsp;</Link>
@@ -59,7 +59,7 @@ export default function toMORrow1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>toMORrow</strong>" nhé.</p>
+      <p>Great! Let's dive into an analysis of the word "toMORrow."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -69,13 +69,13 @@ export default function toMORrow1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                toMORrow \<Link to="/pronunciation/5-vowel-system">tơ MȮR rōw</Link>\ /təˈmɔː.roʊ/ •⬤• (THREE SYLlables)
+                toMORrow \<Link to="/pronunciation/5-vowel-system">tơ MOR rōw</Link>\ /təˈmɔː.roʊ/ •⬤• (THREE SYLlables)
               </span>
             </li>
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Ngày mai</li>
+            <li>Tomorrow</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function toMORrow1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Chỉ thời điểm sau thời điểm hiện tại 24 giờ, ngày tiếp theo sau ngày hôm nay.</p>
+      <p className="margin-top-30 text-indent-whole">toMORrow: Refers to the time 24 hours after the present, or the day following today.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i will GO to the BEACH toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Ngày mai tôi sẽ đi ra bãi biển.</li>
+          <li className="margin-bottom-20 list-none">I'm planning on heading to the beach tomorrow.</li>
 
           <li>it will be SUNny toMORrow.</li>
-          <li className="list-none">Ngày mai trời sẽ nắng.</li>
+          <li className="list-none">The forecast says the sky is going to clear up tomorrow.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function toMORrow1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="NOUN">toMORrow is my BIRTHday.</li>
-          <li className="margin-bottom-20 list-none">Ngày mai là sinh nhật của tớ.</li>
+          <li className="margin-bottom-20 list-none">Tomorrow's my birthday.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function toMORrow1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i'm GOing on a TRIP the DAY <strong>af</strong>ter toMORrow.</li>
-          <li className="margin-bottom-20 list-none">Ngày mốt, tớ sẽ đi du lịch.</li>
+          <li className="margin-bottom-20 list-none">I'm traveling the day after tomorrow, on Thursday.</li>
 
           <li>the NEXT DAY, she WENT to SCHOOL.</li>
-          <li className="list-none">Ngày hôm sau, cô bé đi học.</li>
+          <li className="list-none">The next day, she went to school.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function toMORrow1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i WENT to the PARK YESterday.</li>
-          <li className="margin-bottom-20 list-none">Hôm qua tôi đã đi công viên.</li>
+          <li className="margin-bottom-20 list-none">I visited the park yesterday.</li>
 
           <li>it is SUNny <Link to="/vocabulary/toDAY-1">toDAY</Link>.</li>
-          <li className="list-none">Hôm nay trời nắng.</li>
+          <li className="list-none">Today is a nice, sunny day.</li>
 
         </ul>
       
@@ -176,12 +176,12 @@ export default function toMORrow1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một lịch và ngày mai được đánh dấu.</p>
+      <p className="text-indent-whole">Imagine a calendar with tomorrow marked.</p>
 
         <ul className="list-square">
 
           <li>i will SEND you the FInal rePORT toMORrow.</li>
-          <li className="list-none">Tôi sẽ gửi cho bạn báo cáo cuối cùng vào ngày mai.</li>
+          <li className="list-none">Tomorrow, I'll send you the final report.</li>
 
         </ul>
 
@@ -195,12 +195,12 @@ export default function toMORrow1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo nhiều câu với "<strong>toMORrow</strong>" trong các ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Create several sentences using "toMORrow" in different contexts.</p>
 
         <ul className="list-square">
 
-          <li>let's MEET at the CAFe toMORrow at 2 p.M.</li>
-          <li className="list-none">Hãy hẹn gặp nhau tại quán cà phê vào ngày mai lúc 2 giờ chiều nhé.</li>
+          <li>let's MEET at the caFE toMORrow at 2 p.M.</li>
+          <li className="list-none">Let's meet at the café to watch the sunset at 2:00 p.m.</li>
 
         </ul>
 
@@ -214,17 +214,17 @@ export default function toMORrow1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để nhớ từ vựng lâu hơn.</p>
+      <p className="text-indent-whole margin-bottom-20">Read and write a lot to remember vocabulary for longer.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa <strong>the DAY <strong>af</strong>ter toMORrow</strong> và <strong>toMORrow</strong>):</p>
+        <p className="text-indent-whole">Example for comparison (the difference between "the DAY after toMORrow" and "toMORrow"):</p>
 
           <ol>
 
             <li value="1">i have a TEST the DAY <strong>af</strong>ter toMORrow.</li>
-            <li className="list-none margin-bottom-20">Tôi có một bài kiểm tra vào ngày mốt.</li>
+            <li className="list-none margin-bottom-20">There's a test scheduled for me the day after tomorrow.</li>
 
             <li value="2">i will MEET her toMORrow.</li>
-            <li className="list-none">Tôi sẽ gặp cô ấy vào ngày mai.</li>
+            <li className="list-none">I'm going to meet her tomorrow.</li>
 
           </ol>
 
@@ -240,9 +240,9 @@ export default function toMORrow1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>toMORrow</strong>" thường đứng ở đầu câu hoặc giữa câu.</li>
+          <li>"toMORrow" usually appears at the beginning or in the middle of a sentence.</li>
 
-          <li className="margin-bottom-20">"<strong>toMORrow</strong>" có thể được dùng để nhấn mạnh sự đối lập với quá khứ hoặc hiện tại.</li>
+          <li className="margin-bottom-20">"toMORrow" can be used to emphasize a contrast with the past or the present.</li>
 
         </ul>
 
