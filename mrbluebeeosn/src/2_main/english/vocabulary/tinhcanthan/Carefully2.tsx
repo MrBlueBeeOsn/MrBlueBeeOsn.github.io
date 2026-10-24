@@ -75,7 +75,7 @@ export default function CAREfully2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CAREfully</strong>" (cẩn thận) và các cụm từ thường đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "CAREfully" (carefully) and the phrases that often go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,9 @@ export default function CAREfully2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "một cách cẩn thận", "một cách chu đáo", thường được dùng để mô tả một hành động được thực hiện một cách tỉ mỉ, tránh sai sót.
+            &nbsp;in English means "carefully" or "thoughtfully," and is often used to describe an action performed meticulously to avoid mistakes.
+
+
 
           </p>
 
@@ -104,38 +106,38 @@ export default function CAREfully2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="conSIDered-by">the proPOsal was CAREfully conSIDered by the comMITtee.</li>
-        <li className="list-none margin-bottom-20">Đề xuất này đã được Ủy ban xem xét một cách cẩn thận.</li>
+        <li className="list-none margin-bottom-20">The committee thought very hard about the proposal.</li>
 
         <li value="2" id="eXAMined">the DOCtor CAREfully eXAMined the PAtient.</li>
-        <li className="list-none margin-bottom-20">Bác sĩ đã khám bệnh nhân một cách cẩn thận.</li>
+        <li className="list-none margin-bottom-20">The doctor looked at the patient closely.</li>
 
         <li value="3" id="seLECTed-for">the inGREdients were CAREfully seLECTed for the DISH.</li>
-        <li className="list-none margin-bottom-20">Các nguyên liệu đã được lựa chọn cẩn thận cho món ăn này.</li>
+        <li className="list-none margin-bottom-20">The ingredients used in the dish were chosen carefully.</li>
 
         <li value="4" id="WRAPPED-to-preVENT">the FRAGile Item was CAREfully WRAPPED to preVENT BREAKage.</li>
-        <li className="list-none margin-bottom-20">Món đồ dễ vỡ đã được gói cẩn thận để tránh bị vỡ.</li>
+        <li className="list-none margin-bottom-20">We wrapped the fragile item carefully so that it wouldn't break.</li>
 
         <li value="5" id="LIStened-to">she CAREfully LIStened to his explaNAtion.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã lắng nghe lời giải thích của anh ấy một cách cẩn thận.</li>
+        <li className="list-none margin-bottom-20">She paid attention to what he said.</li>
 
         <li value="6" id="MEASured-to-enSURE">the inGREdients were CAREfully MEASured to enSURE the PERfect TASTE.</li>
-        <li className="list-none margin-bottom-20">Các thành phần đã được cân đo một cách cẩn thận để đảm bảo hương vị hoàn hảo.</li>
+        <li className="list-none margin-bottom-20">The ingredients were measured exactly to make sure the taste was perfect.</li>
 
         <li value="7" id="PLANNED-to-aVOID">the TRIP was CAREfully PLANNED to aVOID any PROBlems.</li>
-        <li className="list-none margin-bottom-20">Chuyến đi đã được lên kế hoạch một cách cẩn thận để tránh mọi rắc rối.</li>
+        <li className="list-none margin-bottom-20">The trip was planned carefully so that everything would go well.</li>
 
         <li value="8" id="MONitored">the PAtient's conDITion was CAREfully MONitored.</li>
-        <li className="list-none margin-bottom-20">Tình trạng của bệnh nhân đã được theo dõi cẩn thận.</li>
+        <li className="list-none margin-bottom-20">We carefully checked the patient's condition.</li>
 
         <li value="9" id="preSERVED-for">the anTIQUE VASE was CAREfully preSERVED for generAtions.</li>
-        <li className="list-none margin-bottom-20">Chiếc bình cổ đã được bảo quản cẩn thận qua nhiều thế hệ.</li>
+        <li className="list-none margin-bottom-20">The antique vase was carefully kept for many years.</li>
 
         <li value="10" id="HANDled">the FRAGile GLASS was CAREfully HANDled.</li>
-        <li className="list-none margin-bottom-20">Chiếc ly thủy tinh dễ vỡ đã được xử lý một cách cẩn thận.</li>
+        <li className="list-none margin-bottom-20">They were very careful with the fragile glass.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh sự cẩn thận và tỉ mỉ trong việc thực hiện một hành động nào đó. Chúng thường được dùng trong các tình huống đòi hỏi sự chính xác, an toàn hoặc bảo quản.</p>
+      <p>** All of the above phrases are used to emphasize care and attention to detail when performing a particular action. They are often used in situations that require precision, safety, or preservation.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +149,9 @@ export default function CAREfully2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>CAREfully</strong>" thường được đặt trước hành động để nhấn mạnh cách thức thực hiện một hành động.</li>
+          <li>"CAREfully" is often placed before an action to emphasize how that action should be performed.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong các văn bản hướng dẫn, báo cáo hoặc các văn bản mang tính chuyên môn.</li>
+          <li className="margin-bottom-20">This word is commonly used in instructional materials, reports, or technical documents.</li>
 
         </ul>
 

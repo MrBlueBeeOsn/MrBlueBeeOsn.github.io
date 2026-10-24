@@ -63,7 +63,7 @@ export default function CAREfully1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>CAREfully</strong>" nhé.</p>
+      <p>Great! Let's explore the word "CAREfully" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function CAREfully1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Cẩn thận</li>
+            <li>Be careful</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function CAREfully1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>CAREfully</strong>" được dùng để mô tả một hành động được thực hiện một cách tỉ mỉ, chu đáo, tránh sai sót hoặc tai nạn. Nó thể hiện sự cẩn trọng và thận trọng.</p>
+      <p className="margin-top-30 text-indent-whole">The word "CAREfully" is used to describe an action performed meticulously and thoughtfully, avoiding mistakes or accidents. It conveys a sense of care and caution.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">PLEASE READ the inSTRUCtions CAREfully be<strong>fore</strong> you START.</li>
-          <li className="margin-bottom-20 list-none">Xin vui lòng đọc kỹ các hướng dẫn trước khi bắt đầu.</li>
+          <li className="margin-bottom-20 list-none">Please take a moment to read through this manual carefully before getting started.</li>
 
           <li>she CAREfully PACKED her SUITcase for the TRIP.</li>
-          <li className="list-none">Cô ấy đã cẩn thận đóng gói vali để chuẩn bị cho chuyến đi.</li>
+          <li className="list-none">She made sure her suitcase was packed properly before leaving for her trip.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function CAREfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">be CAREful with that GLASS.</li>
-          <li className="margin-bottom-20 list-none">Hãy cẩn thận với cái ly đó.</li>
+          <li className="margin-bottom-20 list-none">Don't let the glass break.</li>
 
           <li id="NOUN">she TAKES GOOD CARE of her PLANTS.</li>
-          <li className="list-none">Cô ấy chăm sóc cây cảnh của mình rất tốt.</li>
+          <li className="list-none">She looks after her plants well.</li>
 
         </ul>
 
@@ -138,10 +138,10 @@ export default function CAREfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he WALKED <Link to="/vocabulary/CAUtiously-1">CAUtiously</Link> across the Icy ROAD.</li>
-          <li className="margin-bottom-20 list-none">Anh ta bước đi thận trọng trên con đường băng giá.</li>
+          <li className="margin-bottom-20 list-none">He walked slowly on the ice-covered road.</li>
 
           <li>she <Link to="/vocabulary/meTICulously-1">meTICulously</Link> CLEANED the HOUSE.</li>
-          <li className="list-none">Cô ấy đã dọn dẹp ngôi nhà một cách tỉ mỉ.</li>
+          <li className="list-none">She made sure the house was very clean.</li>
 
         </ul>
 
@@ -160,10 +160,10 @@ export default function CAREfully1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he CARElessly THREW the PAper on the FLOOR.</li>
-          <li className="margin-bottom-20 list-none">Anh ta đã vô tâm ném tờ giấy xuống sàn nhà.</li>
+          <li className="margin-bottom-20 list-none">He threw the paper on the floor without thinking.</li>
 
           <li>she ACTed RASHly and MADE a misTAKE.</li>
-          <li className="list-none">Cô ấy đã hành động thiếu suy nghĩ và mắc phải một sai lầm.</li>
+          <li className="list-none">She made a mistake because she was too quick to act.</li>
 
         </ul>
       
@@ -183,12 +183,12 @@ export default function CAREfully1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang đi trên dây thừng một cách cẩn thận.</p>
+      <p className="text-indent-whole">Imagine someone walking carefully along a tightrope.</p>
 
         <ul className="list-square">
 
           <li>she is CAREfully WALKing on the TIGHTrope.</li>
-          <li className="list-none">Cô ấy đang đi trên dây thăng bằng một cách cẩn thận.</li>
+          <li className="list-none">Her steps are very careful as she walks on a tightrope.</li>
 
         </ul>
 
@@ -202,12 +202,12 @@ export default function CAREfully1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>CAREfully</strong>" trong nhiều ngữ cảnh.</p>
+      <p className="text-indent-whole">Create various example sentences using the word "CAREfully" in different contexts.</p>
 
         <ul className="list-square">
 
           <li>she CAREfully PEELED the APple.</li>
-          <li className="list-none">Cô ấy cẩn thận gọt vỏ quả táo.</li>
+          <li className="list-none">She peeled the apple slowly and carefully.</li>
 
         </ul>
 
@@ -228,16 +228,16 @@ export default function CAREfully1(): React.JSX.Element {
           <ol>
 
             <li value="1">he CROSSED the STREET.</li>
-            <li className="list-none margin-bottom-20">Anh ấy bạt qua đường.</li>
+            <li className="list-none margin-bottom-20">He walked to the other side of the road.</li>
 
             <li value="2">he CAREfully CROSSED the STREET be<strong>cause</strong> there was a LOT of TRAFfic.</li>
-            <li className="list-none margin-bottom-20">Anh ấy cẩn thận băng qua đường vì lúc đó có rất nhiều xe cộ qua lại.</li>
+            <li className="list-none margin-bottom-20">He crossed the street slowly and carefully because there were many cars on the road.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng anh ấy <span className="highlight-255-padding-0-4">đã băng qua đường một cách cẩn thận</span> do có nhiều xe cộ.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes that he crossed the street carefully</span> because there was a lot of traffic.</p>
 
       </div>
 
@@ -253,9 +253,9 @@ export default function CAREfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sự đối lập: "<strong>CAREfully</strong>" thường được dùng để đối lập với các hành động vội vàng, hấp tấp hoặc không cẩn thận.</li>
+          <li>Contrast: "CAREfully" is often used to contrast with hasty, rushed, or careless actions.</li>
 
-          <li className="margin-bottom-20">Quá trình: Nó nhấn mạnh sự chú ý đến từng chi tiết trong quá trình thực hiện một việc gì đó.</li>
+          <li className="margin-bottom-20">Process: It emphasizes attention to every detail during the process of doing something.</li>
 
         </ul>
 

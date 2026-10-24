@@ -75,7 +75,7 @@ export default function atTENtively2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>atTENtively</strong>" (một cách chú ý) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "atTENtively" (attentively) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function atTENtively2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để mô tả một hành động được thực hiện một cách chú ý, chăm chú, tập trung, chú ý đến từng chi tiết.
+            &nbsp;is often used to describe an action performed attentively, intently, and with focus, paying close attention to every detail.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function atTENtively2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="LISTENed-to">she atTENtively LISTENed to the SPEAKer.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã lắng nghe người nói một cách chăm chú.</li>
+        <li className="list-none margin-bottom-20">She paid close attention to what the speaker was saying.</li>
 
         <li value="2" id="WATCHED">the STUdents atTENtively WATCHED the demonSTRAtion.</li>
-        <li className="list-none margin-bottom-20">Các học sinh chăm chú theo dõi buổi trình diễn.</li>
+        <li className="list-none margin-bottom-20">The students were very focused on the demonstration.</li>
 
         <li value="3" id="READ-before">he atTENtively READ the CONtract be<strong>fore</strong> SIGNing it.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã đọc kỹ hợp đồng trước khi ký.</li>
+        <li className="list-none margin-bottom-20">He read the contract very carefully before signing it.</li>
 
         <li value="4" id="obSERVED-under">the SCIentist atTENtively obSERVED the CELLS <strong>un</strong>der the MIcroscope.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học đã quan sát kỹ lưỡng các tế bào dưới kính hiển vi.</li>
+        <li className="list-none margin-bottom-20">The scientist carefully looked at the cells under the microscope.</li>
 
         <li value="5" id="STUDied-for">she atTENtively STUDied for her eXAMS.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã ôn tập rất chăm chỉ để chuẩn bị cho các kỳ thi.</li>
+        <li className="list-none margin-bottom-20">She studied very hard for her exams.</li>
 
         <li value="6" id="FOLlowed">the DOG atTENtively FOLlowed its OWNer's comMANDS.</li>
-        <li className="list-none margin-bottom-20">Con chó đã tuân theo các mệnh lệnh của chủ một cách chăm chú.</li>
+        <li className="list-none margin-bottom-20">The dog obediently did what its owner told it to do.</li>
 
         <li value="7" id="LIStened-to2">the WORKers atTENtively LIStened to the SAFEty inSTRUCtions.</li>
-        <li className="list-none margin-bottom-20">Các công nhân đã chăm chú lắng nghe các hướng dẫn an toàn.</li>
+        <li className="list-none margin-bottom-20">The employees paid attention to the safety instructions.</li>
 
         <li value="8" id="PAID-atTENtion-to">he atTENtively PAID atTENtion to the LECture.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã chăm chú lắng nghe bài giảng.</li>
+        <li className="list-none margin-bottom-20">He focused intently on the lecture.</li>
 
         <li value="9" id="TOOK-during">she atTENtively TOOK NOTES <strong>dur</strong>ing the MEETing.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã chăm chú ghi chép trong suốt cuộc họp.</li>
+        <li className="list-none margin-bottom-20">She paid close attention during the meeting and took notes.</li>
 
         <li value="10" id="eXAMined">the DOCtor atTENtively eXAMined the PAtient.</li>
-        <li className="list-none margin-bottom-20">Bác sĩ đã khám bệnh nhân một cách cẩn thận.</li>
+        <li className="list-none margin-bottom-20">The doctor checked the patient closely.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính chăm chú, tập trung của một hành động. Chúng thường được sử dụng để miêu tả những hành động được thực hiện với sự cẩn thận và quan tâm đến từng chi tiết.</p>
+      <p>** The phrases above all emphasize the attentiveness and focus involved in an action. They are often used to describe actions performed with care and attention to detail.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function atTENtively2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>atTENtively</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"atTENtively" is usually placed before a verb to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này mang nghĩa tích cực, thể hiện sự chăm chú, tập trung.</li>
+          <li className="margin-bottom-20">This word has a positive connotation, expressing attentiveness and focus.</li>
 
         </ul>
 

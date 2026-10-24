@@ -63,7 +63,7 @@ export default function atTENtively1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>atTENtively</strong>" nhé.</p>
+      <p>Great! Let's explore the word "atTENtively" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function atTENtively1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Một cách chú ý</li>
+            <li>One way to pay attention</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function atTENtively1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>atTENtively</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách cẩn thận, chú ý, tập trung vào chi tiết.</p>
+      <p className="margin-top-30 text-indent-whole">The word "atTENtively" describes an action or state carried out carefully, attentively, and with a focus on detail.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">he LIStened atTENtively to the TEACHer's inSTRUCtions.</li>
-          <li className="margin-bottom-20 list-none">Cậu ấy đã lắng nghe rất chăm chú những hướng dẫn của thầy cô.</li>
+          <li className="margin-bottom-20 list-none">He paid close attention to what the teacher told him.</li>
 
           <li>she WATCHED the perFORmance atTENtively.</li>
-          <li className="list-none">Cô ấy đã theo dõi buổi biểu diễn một cách chăm chú.</li>
+          <li className="list-none">She watched the performance closely.</li>
 
         </ul>
 
@@ -118,10 +118,10 @@ export default function atTENtively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">he is an atTENtive STUdent.</li>
-          <li className="margin-bottom-20 list-none">Cậu ấy là một học sinh chăm chú.</li>
+          <li className="margin-bottom-20 list-none">He pays close attention in class.</li>
 
           <li id="NOUN">he PAID atTENtion to the DEtails.</li>
-          <li className="list-none">Anh ấy đã chú ý đến từng chi tiết.</li>
+          <li className="list-none">He was careful and paid close attention to the details.</li>
 
         </ul>
 
@@ -138,13 +138,13 @@ export default function atTENtively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he HANDled the FRAGile OBject <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã cầm vật dễ vỡ đó một cách cẩn thận.</li>
+          <li className="margin-bottom-20 list-none">He took care of the fragile object with caution.</li>
 
           <li>he eXAMined the DOCument CLOSEly.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã xem xét kỹ lưỡng tài liệu đó.</li>
+          <li className="margin-bottom-20 list-none">He looked at the document closely.</li>
 
           <li>he WATCHED the CHILDren WATCHfully.</li>
-          <li className="list-none">Ông theo dõi lũ trẻ một cách cẩn thận.</li>
+          <li className="list-none">He kept an eye on the children, watching them carefully.</li>
 
         </ul>
 
@@ -163,13 +163,13 @@ export default function atTENtively1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he LIStened to the LECture inatTENtively.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã nghe bài giảng một cách lơ đãng.</li>
+          <li className="margin-bottom-20 list-none">He didn't pay much attention to the lecture.</li>
 
           <li>he DROVE CARElessly and CAUSED an ACcident.</li>
-          <li className="margin-bottom-20 list-none">Anh ta lái xe bộc phát và gây ra một vụ tai nạn.</li>
+          <li className="margin-bottom-20 list-none">He drove without paying attention and caused an accident.</li>
 
           <li>he TREAted his DUties neGLECTfully.</li>
-          <li className="list-none">Anh ta đã thực hiện nhiệm vụ của mình một cách cẩu thả.</li>
+          <li className="list-none">He did not do his job well.</li>
 
         </ul>
       
@@ -189,15 +189,15 @@ export default function atTENtively1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang lắng nghe một cách chăm chú hoặc đang đọc một cuốn sách một cách tập trung.</p>
+      <p className="text-indent-whole">Imagine someone listening intently or reading a book with concentration.</p>
 
         <ul className="list-square">
 
           <li>he LIStened atTENtively.</li>
-          <li className="margin-bottom-20 list-none">Anh ấy đã lắng nghe một cách chăm chú.</li>
+          <li className="margin-bottom-20 list-none">He listened closely.</li>
 
           <li>she READ the BOOK atTENtively.</li>
-          <li className="list-none">Cô ấy đọc cuốn sách một cách chú tâm.</li>
+          <li className="list-none">She read the book very carefully.</li>
 
         </ul>
 
@@ -211,12 +211,12 @@ export default function atTENtively1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến các tình huống thể hiện sự chú ý và tập trung.</p>
+      <p className="text-indent-whole">Create sentences related to situations that demonstrate attention and concentration.</p>
 
         <ul className="list-square">
 
           <li>the SURgeon perFORMED the operAtion atTENtively.</li>
-          <li className="list-none">Bác sĩ phẫu thuật đã thực hiện ca phẫu thuật một cách cẩn thận.</li>
+          <li className="list-none">The doctor did the operation quickly and efficiently.</li>
 
         </ul>
 
@@ -237,16 +237,16 @@ export default function atTENtively1(): React.JSX.Element {
           <ol>
 
             <li value="1">he LIStened to the LECture.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã lắng nghe bài giảng.</li>
+            <li className="list-none margin-bottom-20">He paid attention to the lecture.</li>
 
             <li value="2">he LIStened to the LECture atTENtively.</li>
-            <li className="list-none margin-bottom-20">Anh ấy đã lắng nghe bài giảng một cách chăm chú.</li>
+            <li className="list-none margin-bottom-20">He paid close attention to the lecture.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh sự chú ý và tập trung trong hành động lắng nghe</span> của anh ấy.</p>
+        <p className="margin-y-10">The difference: The second sentence <span className="highlight-255-padding-0-4">emphasizes the attention</span> and focus involved in his act of listening.</p>
 
       </div>
 
@@ -262,9 +262,9 @@ export default function atTENtively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự chú ý và tập trung: "<strong>atTENtively</strong>" nhấn mạnh sự chú ý, tập trung và cẩn thận trong hành động hoặc lắng nghe.</li>
+          <li>Emphasizing attention and focus: "atTENtively" emphasizes attention, focus, and care in one’s actions or while listening.</li>
 
-          <li className="margin-bottom-20">Thường dùng trong các tình huống cần sự tập trung cao độ: Từ này thường được sử dụng trong các tình huống cần sự tập trung cao độ, chẳng hạn như trong lớp học, trong công việc hoặc khi lắng nghe hướng dẫn.</li>
+          <li className="margin-bottom-20">Commonly used in situations requiring intense concentration: This word is often used in situations requiring intense concentration, such as in the classroom, at work, or when listening to instructions.</li>
 
         </ul>
 
