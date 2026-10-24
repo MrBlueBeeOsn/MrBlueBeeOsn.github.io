@@ -15,7 +15,7 @@ export default function CAUtiously2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-can-than"><mark className="highlight-tertiary-padding-4-8">ADverbs: cẩn thận</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-CAREfully"><mark className="highlight-tertiary-padding-4-8">CAREfully</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">CAUtiously
         <sup>
@@ -75,7 +75,7 @@ export default function CAUtiously2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CAUtiously</strong>" (một cách thận trọng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “CAUTiously” (carefully) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function CAUtiously2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để mô tả một hành động được thực hiện với sự cẩn thận, dè dặt và chú ý đến những nguy hiểm hoặc vấn đề tiềm ẩn.
+            &nbsp;is often used to describe an action performed with care, caution, and attention to potential dangers or problems.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function CAUtiously2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="apPROACHED">the CAT CAUtiously apPROACHED the unfaMILiar OBject.</li>
-        <li className="list-none margin-bottom-20">Con mèo cẩn trọng tiến lại gần vật thể lạ lẫm đó.</li>
+        <li className="list-none margin-bottom-20">The cat slowly went towards the strange object.</li>
 
         <li value="2" id="MOVED-through">he CAUtiously MOVED through the DARK ROOM, FEELing for OBstacles.</li>
-        <li className="list-none margin-bottom-20">Anh ta cẩn thận di chuyển qua căn phòng tối, cố gắng sống sót và tìm các chướng ngại vật.</li>
+        <li className="list-none margin-bottom-20">He moved carefully through the dark room, feeling around to avoid any obstacles.</li>
 
         <li value="3" id="SPOKE-about">she CAUtiously SPOKE a<strong>bout</strong> the SENsitive TOPic.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã nói một cách thận trọng về chủ đề nhạy cảm này.</li>
+        <li className="list-none margin-bottom-20">She spoke about the sensitive topic, but she was careful to do so.</li>
 
         <li value="4" id="eXAMined">the SCIentist CAUtiously eXAMined the unKNOWN SUBstance.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học đã thận trọng kiểm tra chất chưa xác định đó.</li>
+        <li className="list-none margin-bottom-20">The scientist looked at the unknown substance, being careful.</li>
 
         <li value="5" id="proCEEDed-with">they CAUtiously proCEEDed with the negotiAtions.</li>
-        <li className="list-none margin-bottom-20">Họ đã tiến hành các cuộc đàm phán một cách thận trọng.</li>
+        <li className="list-none margin-bottom-20">They started negotiating again, but only after thinking about it carefully.</li>
 
         <li value="6" id="inVESTed">he CAUtiously inVESTed a SMALL PORtion of his SAvings.</li>
-        <li className="list-none margin-bottom-20">Anh ấy đã thận trọng đầu tư một phần nhỏ số tiền tiết kiệm của mình.</li>
+        <li className="list-none margin-bottom-20">He invested a small amount of his savings, but only after thinking carefully.</li>
 
         <li value="7" id="apPROACHED2">the CHILD CAUtiously apPROACHED the EDGE of the CLIFF.</li>
-        <li className="list-none margin-bottom-20">Đứa trẻ cẩn trọng tiến lại gần mép vách đá.</li>
+        <li className="list-none margin-bottom-20">The child slowly moved towards the edge of the cliff.</li>
 
         <li value="8" id="Opened">she CAUtiously Opened the CREAKing DOOR.</li>
-        <li className="list-none margin-bottom-20">Cô cẩn trọng mở cánh cửa đang kêu cót két.</li>
+        <li className="list-none margin-bottom-20">She opened the old, creaky door carefully.</li>
 
         <li value="9" id="TAsted">he CAUtiously TAsted the unfaMILiar DISH.</li>
-        <li className="list-none margin-bottom-20">Anh ấy cẩn trọng nếm thử món ăn lạ lẫm đó..</li>
+        <li className="list-none margin-bottom-20">He was careful when trying a dish he hadn't tried before.</li>
 
         <li value="10" id="aGREED-to">they CAUtiously aGREED to the proPOsal, with <strong>sever</strong>al conDITions.</li>
-        <li className="list-none margin-bottom-20">Họ đã thận trọng đồng ý với đề xuất này, với một số điều kiện.</li>
+        <li className="list-none margin-bottom-20">They are hesitant to support the proposal, and they have made several conditions.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều mô tả một hành động được thực hiện với sự cẩn thận, dè dặt và chú ý đến những nguy hiểm hoặc vấn đề tiềm ẩn.</p>
+      <p>** All of the phrases above describe an action performed with care, caution, and attention to potential dangers or problems.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function CAUtiously2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>CAUtiously</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"CAUtiously" is usually placed before an action to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này mang nghĩa về phương thức thận trọng.</li>
+          <li className="margin-bottom-20">This word refers to a cautious approach.</li>
 
         </ul>
 

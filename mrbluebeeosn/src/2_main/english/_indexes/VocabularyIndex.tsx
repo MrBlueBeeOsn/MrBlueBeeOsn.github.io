@@ -825,12 +825,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							PAtiently
+							CAREfully
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-can-than"><mark className="highlight-secondary-padding-2-4">ADverbs: cẩn thận</mark></summary>
+					<summary id="ADverbs-CAREfully"><mark className="highlight-secondary-padding-2-4">CAREfully</mark></summary>
 
 					<ul className="list-border1">
 

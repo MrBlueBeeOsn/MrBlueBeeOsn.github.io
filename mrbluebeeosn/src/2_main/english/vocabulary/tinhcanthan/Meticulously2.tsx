@@ -15,7 +15,7 @@ export default function meTICulously2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-can-than"><mark className="highlight-tertiary-padding-4-8">ADverbs: cẩn thận</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-CAREfully"><mark className="highlight-tertiary-padding-4-8">CAREfully</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">meTICulously
         <sup>
@@ -75,7 +75,7 @@ export default function meTICulously2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>meTICulously</strong>" (một cách tỉ mỉ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “meTICulously” (meticulously) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function meTICulously2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "một cách tỉ mỉ", "một cách cẩn thận từng chi tiết nhỏ". Từ này thường được dùng để mô tả một hành động được thực hiện với sự chăm chút và chính xác cao.
+            &nbsp;in English means "meticulously" or "with great attention to detail." This word is often used to describe an action performed with great care and precision.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function meTICulously2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="PLANNED">she meTICulously PLANNED the PARTy, MAking SURE <strong>ever</strong>y DEtail was PERfect.</li>
-        <li className="list-none margin-bottom-20">Cô ấy đã lên kế hoạch cho bữa tiệc một cách tỉ mỉ, đảm bảo mọi chi tiết đều hoàn hảo.</li>
+        <li className="list-none margin-bottom-20">She planned the party very carefully, making sure every detail was perfect.</li>
 
         <li value="2" id="CRAFTed-by">the WATCH was meTICulously CRAFTed by SKILLED ARtisans.</li>
-        <li className="list-none margin-bottom-20">Chiếc đồng hồ này được chế tác một cách tỉ mỉ bởi những nghệ nhân lành nghề.</li>
+        <li className="list-none margin-bottom-20">The watch was made by people who are good at making things.</li>
 
         <li value="3" id="reSEARCHED">the rePORT was BASED on meTICulously reSEARCHED DAta.</li>
-        <li className="list-none margin-bottom-20">Báo cáo này được xây dựng dựa trên những dữ liệu đã được nghiên cứu một cách tỉ mỉ.</li>
+        <li className="list-none margin-bottom-20">The report was based on data that was researched in detail.</li>
 
         <li value="4" id="mainTAINED">the GARden was meTICulously mainTAINED, with <strong>ever</strong>y PLANT PERfectly TRIMMED.</li>
-        <li className="list-none margin-bottom-20">Khu vườn được chăm sóc một cách tỉ mỉ, với từng cây cối đều được cắt tỉa gọn gàng.</li>
+        <li className="list-none margin-bottom-20">The garden was taken care of very well, with all the plants cut neatly.</li>
 
         <li value="5" id="deTAILED">the PAINTing was meTICulously deTAILED, CAPturing <strong>ever</strong>y NUance of the SUBject.</li>
-        <li className="list-none margin-bottom-20">Bức tranh được vẽ vô cùng tỉ mỉ và chi tiết, lột tả được mọi sắc thái của đối tượng.</li>
+        <li className="list-none margin-bottom-20">The painting was very detailed, showing every little bit of the subject.</li>
 
         <li value="6" id="obSERVED">the SCIentist meTICulously obSERVED the beHAvior of the ANimals.</li>
-        <li className="list-none margin-bottom-20">Nhà khoa học đã quan sát rất tỉ mỉ hành vi của các loài động vật.</li>
+        <li className="list-none margin-bottom-20">The scientist closely studied how the animals acted.</li>
 
         <li value="7" id="reCORDed">the hisTORian meTICulously reCORDed <strong>ever</strong>y DEtail of the eVENT.</li>
-        <li className="list-none margin-bottom-20">Nhà sử học đã ghi chép tỉ mỉ từng chi tiết của sự kiện đó.</li>
+        <li className="list-none margin-bottom-20">A historical record was made of every detail of the event.</li>
 
-        <li value="8" id="prePARED">the CHEF meTICulously prePARED the MEAL, Using Only the FRESHest inGREdients</li>
-        <li className="list-none margin-bottom-20">Đầu bếp đã chuẩn bị bữa ăn một cách tỉ mỉ, chỉ sử dụng những nguyên liệu tươi ngon nhất</li>
+        <li value="8" id="prePARED">the CHEF meTICulously prePARED the MEAL, Using Only the FRESHest inGREdients.</li>
+        <li className="list-none margin-bottom-20">The chef prepared the meal with care, using only freshest ingredients.</li>
 
         <li value="9" id="asSEMbled">the MODel was meTICulously asSEMbled FOLlowing the inSTRUCtions eXACTly.</li>
-        <li className="list-none margin-bottom-20">Mô hình đã được lắp ráp một cách tỉ mỉ, tuân thủ chính xác các hướng dẫn.</li>
+        <li className="list-none margin-bottom-20">The model was put together exactly as the instructions said to do.</li>
 
         <li value="10" id="inSPECTed-for">the engiNEER meTICulously inSPECTed the maCHINE for any DEfects.</li>
-        <li className="list-none margin-bottom-20">Kỹ sư đã kiểm tra máy móc một cách tỉ mỉ để phát hiện bất kỳ khuyết tật nào.</li>
+        <li className="list-none margin-bottom-20">The engineer carefully checked the machine for any problems.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh sự cẩn thận, chính xác và tỉ mỉ trong việc thực hiện một hành động nào đó. Chúng thường được sử dụng để mô tả các công việc đòi hỏi sự tập trung cao độ và sự chú ý đến từng chi tiết nhỏ.</p>
+      <p>** All of the phrases above emphasize care, precision, and attention to detail when performing a particular action. They are often used to describe tasks that require intense concentration and attention to even the smallest details.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function meTICulously2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>meTICulously</strong>" thường được đặt trước hành động để nhấn mạnh cách thức thực hiện hành động đó.</li>
+          <li>"meTICulously" is often placed before an action to emphasize how that action is performed.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong các ngữ cảnh liên quan đến công việc, nghệ thuật, khoa học, hoặc bất kỳ hoạt động nào đòi hỏi sự chính xác cao.</li>
+          <li className="margin-bottom-20">This word is commonly used in contexts related to work, art, science, or any activity that requires a high degree of precision.</li>
 
         </ul>
 
