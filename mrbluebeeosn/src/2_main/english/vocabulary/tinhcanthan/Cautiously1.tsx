@@ -213,13 +213,13 @@ export default function CAUtiously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>he WALKED CAUtiously on the THIN ICE.</li>
-          <li className="margin-bottom-20 list-none">He was walking carefully, as if he knew the risks.</li>
+          <li className="margin-bottom-20 list-none">He walked slowly and carefully on the thin ice.</li>
 
           <li>the CAT MOVED CAUtiously as it STALKED its PREY.</li>
-          <li className="margin-bottom-20 list-none">The cat moved carefully, stalking its prey.</li>
+          <li className="margin-bottom-20 list-none">The cat moved carefully and kept an eye on its prey.</li>
 
           <li>she Opened the STRANGE PACKage CAUtiously.</li>
-          <li className="list-none">She checked out the odd package, not knowing what to expect.</li>
+          <li className="list-none">She was careful when she opened the strange package.</li>
 
         </ul>
 
@@ -238,7 +238,7 @@ export default function CAUtiously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>apPROACH a WILD ANimal CAUtiously.</li>
-          <li className="list-none">When you're dealing with a wild animal, you gotta be careful.</li>
+          <li className="list-none">Be careful when you go near wild animals.</li>
 
         </ul>
 
