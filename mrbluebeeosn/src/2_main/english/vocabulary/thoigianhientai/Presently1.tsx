@@ -67,7 +67,7 @@ export default function PRESently1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>PRESently</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "PRESently."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -83,9 +83,9 @@ export default function PRESently1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Hiện tại: Chỉ thời điểm hiện tại, ngay bây giờ.</li>
+            <li>Refers to the present moment, right now.</li>
 
-            <li>Sớm thôi: Chỉ một thời điểm trong tương lai gần, không lâu nữa.</li>
+            <li>A specific point in the near future, not long from now.</li>
 
           </ul>
 
@@ -97,19 +97,19 @@ export default function PRESently1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">1. Hiện tại: Khi sử dụng "<strong>PRESently</strong>" với nghĩa hiện tại, nó đồng nghĩa với "NOW" (bây giờ).</p>
+      <p className="margin-top-30 text-indent-whole">1. When "PRESently" is used to refer to the present, it is synonymous with "NOW" (right now).</p>
 
-      <p className="margin-top-30 text-indent-whole">2. Sớm thôi: Khi sử dụng "<strong>PRESently</strong>" với nghĩa tương lai gần, nó có nghĩa là một việc gì đó sẽ xảy ra trong thời gian ngắn sắp tới.</p>
+      <p className="margin-top-30 text-indent-whole">2. When "PRESently" is used to refer to the near future, it means that something will happen in the very near future.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i am PRESently WORKing on this PROJect.</li>
-          <li className="margin-bottom-20 list-none">Hiện tại tôi đang thực hiện dự án này.</li>
+          <li className="margin-bottom-20 list-none">I'm working on this project at the moment.</li>
 
           <li>the MEETing will beGIN PRESently.</li>
-          <li className="list-none">Cuộc họp sẽ bắt đầu ngay bây giờ.</li>
+          <li className="list-none">The meeting will start on time.</li>
 
         </ul>
 
@@ -126,13 +126,13 @@ export default function PRESently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the PRESent situAtion is VERy DIFFERent.</li>
-          <li className="margin-bottom-20 list-none">Tình hình hiện tại hoàn toàn khác biệt.</li>
+          <li className="margin-bottom-20 list-none">Things are very different at present.</li>
 
           <li id="VERB">i will preSENT my iDEas at the MEETing.</li>
-          <li className="margin-bottom-20 list-none">Tôi sẽ trình bày các ý tưởng của mình tại cuộc họp.</li>
+          <li className="margin-bottom-20 list-none">I'm going to share my ideas at the meeting.</li>
 
           <li id="NOUN">as a PRESent for her graduAtion, i BOUGHT her a NEW LAPtop.</li>
-          <li className="list-none">Để làm quà tặng nhân dịp cô ấy tốt nghiệp, tôi đã mua cho cô ấy một chiếc máy tính xách tay mới.</li>
+          <li className="list-none">I bought her a new laptop for her graduation.</li>
 
         </ul>
 
@@ -149,10 +149,10 @@ export default function PRESently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i am READing a BOOK <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
-          <li className="margin-bottom-20 list-none">Tôi đang đọc một cuốn sách.</li>
+          <li className="margin-bottom-20 list-none">I am currently reading a book.</li>
 
           <li>i will be THERE <Link to="/vocabulary/SOON-1">SOON</Link>.</li>
-          <li className="list-none">Tôi sẽ đến đó ngay.</li>
+          <li className="list-none">I'll be there shortly.</li>
 
         </ul>
 
@@ -171,10 +171,10 @@ export default function PRESently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i PREviously WORKED as a TEACHer.</li>
-          <li className="margin-bottom-20 list-none">Trước đây, tôi từng làm giáo viên.</li>
+          <li className="margin-bottom-20 list-none">I used to be a teacher.</li>
 
           <li>we will disCUSS this LAter.</li>
-          <li className="list-none">Chúng ta sẽ thảo luận về vấn đề này sau.</li>
+          <li className="list-none">We will talk about this later.</li>
 
         </ul>
       
@@ -194,12 +194,12 @@ export default function PRESently1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một dòng thời gian và vị trí của "<strong>PRESently</strong>" trên đó.</p>
+      <p className="text-indent-whole">Imagine a timeline and the position of "PRESently" on it.</p>
 
         <ul className="list-square">
 
           <li>PRESently, we are on TRACK with the PROJect TIMEline.</li>
-          <li className="list-none">Hiện tại, chúng tôi đang tiến hành đúng tiến độ của dự án.</li>
+          <li className="list-none">We are currently on schedule with our project.</li>
 
         </ul>
 
@@ -213,15 +213,15 @@ export default function PRESently1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu sử dụng "<strong>PRESently</strong>" trong cả hai nghĩa hiện tại và tương lai gần.</p>
+      <p className="text-indent-whole">Form sentences using "PRESently" in both its present and near-future meanings.</p>
 
         <ul className="list-square">
 
           <li>PRESently, i am EATing an APple.</li>
-          <li className="margin-bottom-20 list-none">Hiện tại, tôi đang ăn một quả táo.</li>
+          <li className="margin-bottom-20 list-none">Right now, I'm eating an apple.</li>
 
           <li>the TRAIN will arRIVE PRESently.</li>
-          <li className="list-none">Tàu sẽ đến ngay thôi.</li>
+          <li className="list-none">The train is on its way.</li>
 
         </ul>
 
@@ -242,16 +242,16 @@ export default function PRESently1(): React.JSX.Element {
           <ol>
 
             <li value="1">i will GO to the STORE <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
-            <li className="list-none margin-bottom-20">Tớ sẽ đi đến cửa hàng ngay bây giờ.</li>
+            <li className="list-none margin-bottom-20">I'm heading to the store now.</li>
 
             <li value="2">i will GO to the STORE PRESendly.</li>
-            <li className="list-none margin-bottom-20">Tôi sẽ đến cửa hàng ngay bây giờ.</li>
+            <li className="list-none margin-bottom-20">I'm going to the store soon.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Cả hai câu đều có nghĩa tương tự, nhưng "<strong>PRESently</strong>" mang một sắc thái trang trọng hơn và <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc đi</span> đến cửa hàng <span className="highlight-255-padding-0-4">sẽ diễn ra trong tương lai rất gần.</span></p>
+        <p className="margin-y-10">The difference: Both sentences have a similar meaning, but "PRESently" has a more formal tone and <span className="highlight-255-padding-0-4">emphasizes that the trip to the store will take place in the very near future.</span></p>
 
       </div>
 
@@ -267,9 +267,9 @@ export default function PRESently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sự linh hoạt về nghĩa: Nghĩa của "<strong>PRESently</strong>" có thể thay đổi tùy thuộc vào ngữ cảnh.</li>
+          <li>Flexibility in meaning: The meaning of "PRESently" can vary depending on the context.</li>
 
-          <li className="margin-bottom-20">Sử dụng trong văn viết: "<strong>PRESently</strong>" thường được sử dụng trong văn viết trang trọng hơn là trong giao tiếp hàng ngày.</li>
+          <li className="margin-bottom-20">Use in writing: "PRESently" is typically used in more formal writing than in everyday conversation.</li>
 
         </ul>
 

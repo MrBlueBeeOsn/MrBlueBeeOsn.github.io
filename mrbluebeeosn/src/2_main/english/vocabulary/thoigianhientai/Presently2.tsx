@@ -75,7 +75,7 @@ export default function PRESently2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>PRESently</strong>" (hiện tại) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let’s take a closer look at the word “PRESently” (present) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function PRESently2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để chỉ một thời điểm xảy ra ngay bây giờ hoặc trong tương lai gần.
+            &nbsp;is commonly used to refer to a time that is happening right now or in the near future.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function PRESently2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="enGAGED-in">the MANager is PRESently enGAGED in a MEETing.</li>
-        <li className="list-none margin-bottom-20">Người quản lý hiện đang tham gia một cuộc họp.</li>
+        <li className="list-none margin-bottom-20">The manager is busy in a meeting at the moment.</li>
 
         <li value="2" id="WORKing-on">engiNEERS are PRESently WORKing on a NEW PROJect.</li>
-        <li className="list-none margin-bottom-20">Các kỹ sư hiện đang thực hiện một dự án mới.</li>
+        <li className="list-none margin-bottom-20">Right now, the engineers are working on a new project.</li>
 
         <li value="3" id="aVAILable-in">the PRODuct is PRESently aVAILable in all our STORES.</li>
-        <li className="list-none margin-bottom-20">Sản phẩm hiện đang có sẵn tại tất cả các cửa hàng của chúng tôi.</li>
+        <li className="list-none margin-bottom-20">You can now find this product in all of our stores.</li>
 
         <li value="4" id="under-conSTRUCtion">the NEW BRIDGE is PRESently <strong>un</strong>der conSTRUCtion.</li>
-        <li className="list-none margin-bottom-20">Cây cầu mới hiện đang được xây dựng.</li>
+        <li className="list-none margin-bottom-20">They are building a new bridge.</li>
 
         <li value="5" id="LIVing-in">he is PRESently LIVing in LONdon.</li>
-        <li className="list-none margin-bottom-20">Hiện tại, anh ấy đang sống ở London.</li>
+        <li className="list-none margin-bottom-20">He currently lives in London.</li>
 
         <li value="6" id="conSIDering">we are PRESently conSIDering DIFFERent OPTions.</li>
-        <li className="list-none margin-bottom-20">Hiện tại, chúng tôi đang xem xét các phương án khác nhau.</li>
+        <li className="list-none margin-bottom-20">We are currently thinking about different possibilities.</li>
 
         <li value="7" id="STUDying-for">he is PRESently STUDying for his EXams.</li>
-        <li className="list-none margin-bottom-20">Hiện tại, anh ấy đang ôn thi.</li>
+        <li className="list-none margin-bottom-20">He's currently preparing for his exams.</li>
 
         <li value="8" id="SERving">the WEIter is PRESently SERving the CUStomers.</li>
-        <li className="list-none margin-bottom-20">Hiện tại, nhân viên tiếp tân đang phục vụ khách hàng.</li>
+        <li className="list-none margin-bottom-20">The server is currently assisting customers.</li>
 
         <li value="9" id="atTENDing-in">she is PRESently atTENDing a CONFERence in PARis.</li>
-        <li className="list-none margin-bottom-20">Hiện tại, cô ấy đang tham dự một hội nghị tại Paris.</li>
+        <li className="list-none margin-bottom-20">She is currently working at a conference in Paris.</li>
 
         <li value="10" id="exPEriencing">the CITy is PRESently exPEriencing a HEAT WAVE.</li>
-        <li className="list-none margin-bottom-20">Hiện tại, thành phố đang hứng chịu một đợt nắng nóng.</li>
+        <li className="list-none margin-bottom-20">Right now, the city is experiencing very high temperatures.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính thời sự của một hành động, sự việc hoặc trạng thái. Chúng thường được sử dụng để mô tả những gì đang diễn ra tại thời điểm nói hoặc viết.</p>
+      <p>** The phrases above all emphasize the immediacy of an action, event, or state. They are often used to describe what is happening at the moment of speaking or writing.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function PRESently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>PRESently</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"PRESently" is often used before an action to provide additional meaning.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/CURrently-1">CURrently</Link>", "<Link to="/vocabulary/NOW-1">NOW</Link>", "at the MOment" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">This word can be replaced with synonyms such as "<Link to="/vocabulary/CURrently-1">CURrently</Link>", "<Link to="/vocabulary/NOW-1">NOW</Link>", or "at the MOment" to add variety to your writing style.</li>
 
         </ul>
 

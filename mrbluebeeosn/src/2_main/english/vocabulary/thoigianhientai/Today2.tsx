@@ -75,7 +75,7 @@ export default function toDAY2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>toDAY</strong>" (hôm nay) trong tiếng Anh nhé.</p>
+      <p>Great! Let's take a closer look at how to use the word "toDAY" (today) in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function toDAY2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb chỉ thời gian rất phổ biến, thường được dùng để chỉ thời điểm hiện tại.
+            &nbsp;is a very common adverb of time, often used to refer to the present moment.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function toDAY2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="is-MONday">toDAY is MONday.</li>
-        <li className="list-none margin-bottom-20">Hôm nay là thứ Hai.</li>
+        <li className="list-none margin-bottom-20">It is Monday today.</li>
 
         <li value="2" id="i-am-GOing-to">toDAY, i am GOing to the PARK.</li>
-        <li className="list-none margin-bottom-20">Hôm nay, tớ sẽ đi công viên.</li>
+        <li className="list-none margin-bottom-20">I'm going to the park today.</li>
 
         <li value="3" id="as-of">as of toDAY, we have SOLD ONE HUNdred PROJects.</li>
-        <li className="list-none margin-bottom-20">Tính đến hôm nay, chúng tôi đã bán được một trăm dự án.</li>
+        <li className="list-none margin-bottom-20">We have sold 100 projects so far today.</li>
 
         <li value="4" id="Even">Even toDAY, <strong>man</strong>y PEOple beLIEVE in GHOSTS.</li>
-        <li className="list-none margin-bottom-20">Ngay cả ngày nay, vẫn có nhiều người tin vào ma.</li>
+        <li className="list-none margin-bottom-20">Even today, a lot of people believe in ghosts.</li>
 
         <li value="5" id="CALL-LAter">i will CALL you LAter toDAY.</li>
-        <li className="list-none margin-bottom-20">Tôi sẽ gọi cho bạn vào cuối ngày hôm nay.</li>
+        <li className="list-none margin-bottom-20">I'll give you a call later today.</li>
 
         <li value="6" id="MET-EARlier">i MET him EARlier toDAY.</li>
-        <li className="list-none margin-bottom-20">Hôm nay tôi đã gặp anh ấy lúc sớm hơn.</li>
+        <li className="list-none margin-bottom-20">I met him earlier in the day.</li>
 
         <li value="7" id="from-ONwards">from toDAY ONwards, i will START EXercising.</li>
-        <li className="list-none margin-bottom-20">Từ hôm nay trở đi, tôi sẽ bắt đầu tập thể dục.</li>
+        <li className="list-none margin-bottom-20">Starting today, I am going to start exercising.</li>
 
         <li value="8" id="is-the-DAY-i-get">toDAY is the DAY i get MARried.</li>
-        <li className="list-none margin-bottom-20">Hôm nay là ngày tôi kết hôn.</li>
+        <li className="list-none margin-bottom-20">Today is my wedding day.</li>
 
         <li value="9" id="UP-to">UP to toDAY, we have comPLEted FIFty perCENT of the PROJect.</li>
-        <li className="list-none margin-bottom-20">Tính đến hôm nay, chúng tôi đã hoàn thành 50% dự án.</li>
+        <li className="list-none margin-bottom-20">Today we are halfway done with the project.</li>
 
         <li value="10" id="on-this-DAY">on this DAY, <strong>man</strong>y YEARS aGO, a GREAT WAR beGAN.</li>
-        <li className="list-none margin-bottom-20">Vào ngày này, cách đây nhiều năm, một cuộc chiến lớn đã bắt đầu.</li>
+        <li className="list-none margin-bottom-20">Many years ago, a major conflict, known as the Great War, began on this day.</li>
 
       </ol>
 
