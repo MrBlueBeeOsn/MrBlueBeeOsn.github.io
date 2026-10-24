@@ -15,7 +15,7 @@ export default function CURrently2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-hien-tai"><mark className="highlight-tertiary-padding-4-88">ADverbs: hiện tại</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-toDAY"><mark className="highlight-tertiary-padding-4-88">toDAY</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">CURrently
         <sup>
@@ -75,7 +75,7 @@ export default function CURrently2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CURrently</strong>" (hiện tại) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "CURrently" (present) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,9 @@ export default function CURrently2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được sử dụng để chỉ một hành động, trạng thái hoặc tình huống đang diễn ra tại thời điểm nói.
+            &nbsp;is commonly used to refer to an action, state, or situation that is taking place at the moment of speaking.
+
+
 
           </p>
 
@@ -104,38 +106,38 @@ export default function CURrently2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="WORKing-on">i am CURrently WORKing on a NEW PROJect.</li>
-        <li className="list-none margin-bottom-20">Hiện tại tôi đang thực hiện một dự án mới.</li>
+        <li className="list-none margin-bottom-20">Right now I'm working on something new.</li>
 
         <li value="2" id="STUDying-for">she is CURrently STUDying for her eXAMS.</li>
-        <li className="list-none margin-bottom-20">Hiện tại, cô ấy đang ôn thi.</li>
+        <li className="list-none margin-bottom-20">She is currently preparing for her exams.</li>
 
         <li value="3" id="LIVing-in">they are CURrently LIVing in vietNAM.</li>
-        <li className="list-none margin-bottom-20">Hiện tại, họ đang sống tại Việt Nam.</li>
+        <li className="list-none margin-bottom-20">They are currently residing in Vietnam.</li>
 
         <li value="4" id="unaVAILable">the MANager is CURrently unaVAILable.</li>
-        <li className="list-none margin-bottom-20">Người quản lý hiện không có mặt.</li>
+        <li className="list-none margin-bottom-20">The manager is not available at this time.</li>
 
         <li value="5" id="under-conSTRUCtion">the NEW BUILDing is CURrently <strong>un</strong>der conSTRUCtion.</li>
-        <li className="list-none margin-bottom-20">Tòa nhà mới hiện đang trong quá trình xây dựng.</li>
+        <li className="list-none margin-bottom-20">The new building is being constructed.</li>
 
         <li value="6" id="being-reVIEWED">your APplication is CURrently <strong>be</strong>ing reVIEWED.</li>
-        <li className="list-none margin-bottom-20">Đơn đăng ký của bạn hiện đang được xem xét.</li>
+        <li className="list-none margin-bottom-20">We are reviewing your application.</li>
 
         <li value="7" id="in-efFECT">this RULE is CURrently in efFECT.</li>
-        <li className="list-none margin-bottom-20">Quy định này hiện đang có hiệu lực.</li>
+        <li className="list-none margin-bottom-20">This rule is currently being used.</li>
 
         <li value="8" id="being-deVELoped">this VACcine is CURrently <strong>be</strong>ing deVELoped.</li>
-        <li className="list-none margin-bottom-20">Loại vắc-xin này hiện đang được phát triển.</li>
+        <li className="list-none margin-bottom-20">This vaccine is still being made.</li>
 
         <li value="9" id="TRENDing-on">this SONG is CURrently TRENDing on TIKtok.</li>
-        <li className="list-none margin-bottom-20">Bài hát này hiện đang là xu hướng trên TikTok.</li>
+        <li className="list-none margin-bottom-20">Many people are using this song on TikTok right now.</li>
 
         <li value="10" id="aVAILable-in">the PRODuct is CURrently aVAILable in all our STORES.</li>
-        <li className="list-none margin-bottom-20">Sản phẩm hiện đang có sẵn tại tất cả các cửa hàng của chúng tôi.</li>
+        <li className="list-none margin-bottom-20">You can now buy the product in all our stores.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh tính thời sự của một hành động, trạng thái hoặc tình huống. Chúng giúp chúng ta hiểu rõ hơn về những gì đang xảy ra tại thời điểm nói.</p>
+      <p>** All of the above phrases are used to emphasize the immediacy of an action, state, or situation. They help us better understand what is happening at the moment of speaking.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +149,9 @@ export default function CURrently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>CURrently</strong>" thường được đặt ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
+          <li>"CURrently" is usually placed at the beginning of a sentence or before an action to provide additional information.</li>
 
-          <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để cung cấp thông tin cập nhật.</li>
+          <li className="margin-bottom-20">This word is commonly used in both spoken and written language to provide updated information.</li>
 
         </ul>
 

@@ -15,7 +15,7 @@ export default function NOW2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-hien-tai"><mark className="highlight-tertiary-padding-4-88">ADverbs: hiện tại</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-toDAY"><mark className="highlight-tertiary-padding-4-88">toDAY</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">NOW
         <sup>
@@ -75,7 +75,7 @@ export default function NOW2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>NOW</strong>" (ngay bây giờ) trong tiếng Anh nhé.</p>
+      <p>Great! Let's take a closer look at how to use the word "NOW" (right now) in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function NOW2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb chỉ thời gian rất linh hoạt, có thể được sử dụng trong nhiều ngữ cảnh khác nhau.
+            &nbsp;is a very versatile adverb of time that can be used in many different contexts.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function NOW2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="NEED-RIGHT">i NEED your HELP RIGHT NOW.</li>
-        <li className="list-none margin-bottom-20">Tôi cần sự giúp đỡ của bạn ngay lập tức.</li>
+        <li className="list-none margin-bottom-20">I need your help right away.</li>
 
         <li value="2" id="for">for NOW, let's JUST FOcus on FINishing this PROJect.</li>
-        <li className="list-none margin-bottom-20">Hiện tại, chúng ta hãy chỉ tập trung vào việc hoàn thành dự án này thôi.</li>
+        <li className="list-none margin-bottom-20">Let's put our efforts into completing this project for the time being.</li>
 
         <li value="3" id="and-THEN">i LIKE to GO HIking in the MOUNtains NOW and THEN.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi thích đi leo núi.</li>
+        <li className="list-none margin-bottom-20">I like to go hiking in the mountains sometimes.</li>
 
         <li value="4" id="until">i NEVer KNEW a<strong>bout</strong> this PROBlem un<strong>til</strong> NOW.</li>
-        <li className="list-none margin-bottom-20">Tôi chưa bao giờ biết về vấn đề này cho đến bây giờ.</li>
+        <li className="list-none margin-bottom-20">I just found out about this problem.</li>
 
         <li value="5" id="but-THEN-and">she USED to be VERy SHY, but THEN and NOW, she's VERy OUTgoing.</li>
-        <li className="list-none margin-bottom-20">Trước đây, cô ấy từng rất nhút nhát, nhưng từ đó đến nay, cô ấy lại rất cởi mở.</li>
+        <li className="list-none margin-bottom-20">She was shy at first, but now she's outgoing.</li>
 
         <li value="6" id="from-ON">i will START EXercising <strong>ever</strong>y DAY from NOW ON.</li>
-        <li className="list-none margin-bottom-20">Từ bây giờ, tôi sẽ bắt đầu tập thể dục mỗi ngày.</li>
+        <li className="list-none margin-bottom-20">Starting today, I am going to exercise every day.</li>
 
         <li value="7" id="SAW-JUST">i SAW her JUST NOW.</li>
-        <li className="list-none margin-bottom-20">Tôi vừa thấy cô ấy.</li>
+        <li className="list-none margin-bottom-20">I saw her just a moment ago.</li>
 
         <li value="8" id="Even">Even NOW, i CAN'T beLIEVE it HAPpened.</li>
-        <li className="list-none margin-bottom-20">Ngay cả bây giờ, tớ vẫn không thể tin được chuyện đó đã xảy ra.</li>
+        <li className="list-none margin-bottom-20">I am still in disbelief about what happened.</li>
 
         <li value="9" id="that-you're-HERE">NOW that you're HERE, let's get STARTed.</li>
-        <li className="list-none margin-bottom-20">Giờ thì bạn đã ở đây rồi, hãy bắt đầu thôi.</li>
+        <li className="list-none margin-bottom-20">Since you are here, we can get started.</li>
 
         <li value="10" id="NEED-to-FINish-RIGHT">i NEED to FINish this rePORT RIGHT this NOW.</li>
-        <li className="list-none margin-bottom-20">Tôi phải hoàn thành bản báo cáo này ngay lập tức.</li>
+        <li className="list-none margin-bottom-20">I have to finish this report right now.</li>
 
       </ol>
 
@@ -147,17 +147,17 @@ export default function NOW2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>NOW</strong>" có thể được sử dụng để kết nối các ý tưởng, tạo ra sự chuyển tiếp giữa các câu.</li>
+          <li>"NOW" can appear in various positions within a sentence, depending on the context.</li>
 
-          <li>"<strong>NOW</strong>" có thể đứng ở nhiều vị trí khác nhau trong câu, tùy thuộc vào ngữ cảnh.</li>
+          <li>"NOW" can be used to connect ideas and create transitions between sentences.</li>
 
-          <li className="margin-bottom-20">Ý nghĩa chính xác của cụm từ phụ thuộc vào ngữ cảnh sử dụng.</li>
+          <li className="margin-bottom-20">The exact meaning of the phrase depends on the context in which it is used.</li>
 
         </ul>
 
       </div>
 
-      <p className="margin-top-50">Hy vọng những thông tin này sẽ giúp bạn hiểu rõ hơn về cách sử dụng từ "<strong>NOW</strong>" trong tiếng Anh! 🐝🐝</p>
+      <p className="margin-top-50">Hoping this information helps you better understand how to use the word "NOW" in English! 🐝</p>
 
       <div className="viewcounter">
       

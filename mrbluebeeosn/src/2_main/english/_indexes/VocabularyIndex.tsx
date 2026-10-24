@@ -112,40 +112,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-						VERB
-				============================= */}
-
-				<details className="sub-box-fix">
-			
-					<summary id="VERB-PHRAses"><mark className="highlight-secondary-padding-2-4">VERB PHRAses</mark></summary>
-
-					<ul className="list-border1">
-
-						<li>
-							<Link to="/vocabulary/reSPOND">[reSPOND]</Link> 	
-						</li>
-
-						<li>
-							<Link to="/vocabulary/creATE">[creATE]</Link> 	
-						</li>
-
-						<li>
-							<Link to="/vocabulary/CLEAR">[CLEAR]</Link> 	
-						</li>
-
-					</ul>
-
-				</details>
-			
-			</div>
-			
-
-			<hr className="hr-short"/>
-
-
-			<div className="vocabulary-container margin-top-20">
-						
-				{/* =============================
 							ADjectives
 					============================= */}
 
@@ -170,14 +136,48 @@ export default function VocabularyIndex(): React.JSX.Element {
 					</ul>
 
 				</details>
+			
+			</div>
+			
+
+			<hr className="hr-short"/>
+
+
+			<div className="vocabulary-container margin-top-20">
+						
+				{/* =============================
+						VERB PHRASE
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="VERB-PHRASE"><mark className="highlight-secondary-padding-2-4">VERB PHRASE</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/reSPOND">[reSPOND]</Link> 	
+						</li>
+
+						<li>
+							<Link to="/vocabulary/creATE">[creATE]</Link> 	
+						</li>
+
+						<li>
+							<Link to="/vocabulary/CLEAR">[CLEAR]</Link> 	
+						</li>
+
+					</ul>
+
+				</details>
 
 				{/* =============================
-							prepoSITion
+							prepoSITion PHRASE
 					============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="prepoSITion-terms"><mark className="highlight-secondary-padding-2-4">prepoSITion</mark></summary>
+					<summary id="prepoSITion-PHRASE"><mark className="highlight-secondary-padding-2-4">prepoSITion PHRASE</mark></summary>
 
 					<ul className="list-border1">
 
@@ -359,52 +359,27 @@ export default function VocabularyIndex(): React.JSX.Element {
 					</ul>
 
 				</details>
-
+				
 
 				{/* =============================
-							SOON
+							toDAY
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="ADverbs-SOON"><mark className="highlight-secondary-padding-2-4">SOON</mark></summary>
+					<summary id="ADverbs-toDAY"><mark className="highlight-secondary-padding-2-4">toDAY</mark></summary>
 
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/SOON-1">SOON
+							<Link to="/vocabulary/toDAY-1">toDAY
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/SOON-2">
+									<Link to="/vocabulary/toDAY-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
-
-						<li>
-							<Link to="/vocabulary/toMORrow-1">toMORrow
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/toMORrow-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
 						
-						
-					</ul>
-
-				</details>
-
-				{/* =============================
-							ADverbs: hiện tại
-				============================= */}
-
-				<details className="sub-box-fix">
-			
-					<summary id="adverbs-hien-tai"><mark className="highlight-secondary-padding-2-4">ADverbs: hiện tại</mark></summary>
-
-					<ul className="list-border1">
-
 						<li>
 							<Link to="/vocabulary/NOW-1">NOW
 								<sup>&nbsp;1&nbsp;</sup>
@@ -413,21 +388,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
-
+						
 						<li>
 							<Link to="/vocabulary/CURrently-1">CURrently
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/CURrently-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/toDAY-1">toDAY
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/toDAY-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
@@ -446,29 +412,61 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							ADverbs: hiếm
+							SOON
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="adverbs-hiem"><mark className="highlight-secondary-padding-2-4">ADverbs: hiếm</mark></summary>
+					<summary id="ADverbs-toMORrow"><mark className="highlight-secondary-padding-2-4">toMORrow</mark></summary>
 
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/SELdom-1">SELdom
+							<Link to="/vocabulary/toMORrow-1">toMORrow
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/SELdom-2">
+									<Link to="/vocabulary/toMORrow-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
+						
+						<li>
+							<Link to="/vocabulary/SOON-1">SOON
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/SOON-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>	
+						
+					</ul>
+
+				</details>
+
+				{/* =============================
+							SOMEtimes
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="ADverbs-SOMEtimes"><mark className="highlight-secondary-padding-2-4">SOMEtimes</mark></summary>
+
+					<ul className="list-border1">
 
 						<li>
 							<Link to="/vocabulary/SOMEtimes-1">SOMEtimes
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/SOMEtimes-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+						<li>
+							<Link to="/vocabulary/SELdom-1">SELdom
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/SELdom-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

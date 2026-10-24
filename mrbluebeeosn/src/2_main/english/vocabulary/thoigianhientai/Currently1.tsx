@@ -15,7 +15,7 @@ export default function CURrently1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-hien-tai"><mark className="highlight-tertiary-padding-4-88">ADverbs: hiện tại</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-toDAY"><mark className="highlight-tertiary-padding-4-88">toDAY</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">CURrently
         <sup><Link to="/vocabulary/CURrently-1">&nbsp;1&nbsp;</Link>
@@ -63,7 +63,7 @@ export default function CURrently1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>CURrently</strong>" nhé.</p>
+      <p>Great! Let's explore the word "CURrently" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -79,7 +79,7 @@ export default function CURrently1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Hiện tại</li>
+            <li>Currently</li>
 
           </ul>
 
@@ -91,17 +91,17 @@ export default function CURrently1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>CURrently</strong>" được dùng để chỉ một hành động, trạng thái hoặc sự kiện đang diễn ra tại thời điểm nói. Nó nhấn mạnh tính chất tạm thời của một tình huống.</p>
+      <p className="margin-top-30 text-indent-whole">The word "CURrently" is used to refer to an action, state, or event that is taking place at the moment of speaking. It emphasizes the temporary nature of a situation.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i am CURrently WORKing on a NEW PROJect.</li>
-          <li className="margin-bottom-20 list-none">Hiện tại tôi đang thực hiện một dự án mới.</li>
+          <li className="margin-bottom-20 list-none">I have a new project that I'm working on.</li>
 
           <li>she is CURrently LIVing in PARis.</li>
-          <li className="list-none">Hiện tại, cô ấy đang sống ở Paris.</li>
+          <li className="list-none">At this time, she is living in Paris.</li>
 
         </ul>
 
@@ -118,13 +118,13 @@ export default function CURrently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="ADjective">the CURrent situAtion is VERy COMplex.</li>
-          <li className="margin-bottom-20 list-none">Tình hình hiện tại rất phức tạp.</li>
+          <li className="margin-bottom-20 list-none">Things are very complicated right now.</li>
 
           <li id="NOUN">there is a GROWing CURrency of susPICion reGARDing the NEW POLicy.</li>
-          <li className="margin-bottom-20 list-none">Sự nghi ngờ đối với chính sách mới đang ngày càng gia tăng.</li>
+          <li className="margin-bottom-20 list-none">People are starting to question the new policy.</li>
 
           <li>the DOLlar is the CURrency of the uNIted STATES.</li>
-          <li className="list-none">Đồng dollar là đơn vị tiền tệ của Hoa Kỳ.</li>
+          <li className="list-none">The U.S. dollar is the country's official currency.</li>
 
         </ul>
 
@@ -141,10 +141,10 @@ export default function CURrently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i am WORKing <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
-          <li className="margin-bottom-20 list-none">Tôi đang làm việc.</li>
+          <li className="margin-bottom-20 list-none">I'm at work right now.</li>
 
           <li>at PRESent, we are FAcing <strong>man</strong>y CHALlenges.</li>
-          <li className="list-none">Hiện tại, chúng ta đang phải đối mặt với nhiều thách thức.</li>
+          <li className="list-none">Right now, we are dealing with a lot of problems.</li>
 
         </ul>
 
@@ -163,10 +163,10 @@ export default function CURrently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she FORmerly WORKED as a TEACHer.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy trước đây từng làm giáo viên.</li>
+          <li className="margin-bottom-20 list-none">She used to be a teacher</li>
 
           <li>she had PREviously VISited this PLACE.</li>
-          <li className="list-none">Cô ấy đã từng đến nơi này trước đây.</li>
+          <li className="list-none">She had already gone to this place.</li>
 
         </ul>
       
@@ -186,12 +186,12 @@ export default function CURrently1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một dòng thời gian với một điểm đánh dấu "bây giờ".</p>
+      <p className="text-indent-whole">Imagine a timeline with a marker labeled "now."</p>
 
         <ul className="list-square">
 
-          <li>we are CURrently at this POINT on the TIMEline.</li>
-          <li className="list-none">Hiện tại, chúng ta đang ở thời điểm này trên dòng thời gian.</li>
+          <li>i am CURrently STUDying ENGlish GRAMmar Using a TIMEline METHod.</li>
+          <li className="list-none">I'm learning English grammar using a method that organizes information on a timeline.</li>
 
         </ul>
 
@@ -205,12 +205,12 @@ export default function CURrently1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu về những gì bạn đang làm hoặc những gì đang xảy ra xung quanh bạn.</p>
+      <p className="text-indent-whole">Form sentences about what you're doing or what's happening around you.</p>
 
         <ul className="list-square">
 
           <li>i am CURrently READing a BOOK a<strong>bout</strong> HISTORy.</li>
-          <li className="list-none">Hiện tại tôi đang đọc một cuốn sách về lịch sử.</li>
+          <li className="list-none">Right now I'm reading a book that talks about history.</li>
 
         </ul>
 
@@ -231,16 +231,16 @@ export default function CURrently1(): React.JSX.Element {
           <ol>
 
             <li value="1">she WORKED as a TEACHer for TEN YEARS.</li>
-            <li className="list-none margin-bottom-20">Cô ấy đã làm giáo viên trong mười năm.</li>
+            <li className="list-none margin-bottom-20">She worked as a teacher for a decade.</li>
 
             <li value="2">she is CURrently WORKing on a NEW reSEARCH PROJect.</li>
-            <li className="list-none margin-bottom-20">Hiện tại, cô ấy đang thực hiện một dự án nghiên cứu mới.</li>
+            <li className="list-none margin-bottom-20">She is currently working on a new project, which is a research study.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu đầu tiên mô tả một công việc đã hoàn thành trong quá khứ, còn câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng cô ấy <span className="highlight-255-padding-0-4">đang tham gia</span> vào một dự án nghiên cứu đang diễn ra.</p>
+        <p className="margin-y-10">The difference: The first sentence describes a task that was completed in the past, while the second sentence <span className="highlight-255-padding-0-4">emphasizes that she is currently involved in an ongoing research project.</span></p>
 
       </div>
 
@@ -256,9 +256,9 @@ export default function CURrently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tính tạm thời: "<strong>CURrently</strong>" nhấn mạnh tính chất tạm thời của một tình huống.</li>
+          <li>Temporariness: "CURrently" emphasizes the temporary nature of a situation.</li>
 
-          <li className="margin-bottom-20">Dùng với ⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn: Thường được dùng với ⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn để diễn tả hành động đang diễn ra.</li>
+          <li className="margin-bottom-20">It is often used with ⏱️ the Present Continuous Tense to describe an action that is currently taking place.</li>
 
         </ul>
 

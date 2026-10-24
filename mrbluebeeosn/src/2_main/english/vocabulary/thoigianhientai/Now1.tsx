@@ -15,7 +15,7 @@ export default function NOW1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-hien-tai"><mark className="highlight-tertiary-padding-4-88">ADverbs: hiện tại</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-toDAY"><mark className="highlight-tertiary-padding-4-88">toDAY</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">NOW
         <sup><Link to="/vocabulary/NOW-1">&nbsp;1&nbsp;</Link>
@@ -55,7 +55,7 @@ export default function NOW1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>NOW</strong>" và các thành ngữ liên quan nhé.</p>
+      <p>Great! Let's dive into an analysis of the word "NOW" and related idioms.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -71,7 +71,7 @@ export default function NOW1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Ngay bây giờ</li>
+            <li>Right now</li>
 
           </ul>
 
@@ -83,17 +83,17 @@ export default function NOW1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Chỉ thời điểm hiện tại, ngay lúc này.</p>
+      <p className="margin-top-30 text-indent-whole">NOW: Only the present moment, right now.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i am EATing NOW.</li>
-          <li className="margin-bottom-20 list-none">Tôi đang ăn ngay bây giờ.</li>
+          <li className="margin-bottom-20 list-none">I'm eating right now.</li>
 
           <li>NOW, PLEASE be QUIet.</li>
-          <li className="list-none">Bây giờ, xin hãy im lặng.</li>
+          <li className="list-none">Now, please be silent.</li>
 
         </ul>
 
@@ -109,7 +109,7 @@ export default function NOW1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>NOW</strong>" vì nó là một từ đơn lẻ.</li>
+          <li className="list-none">There is no direct translation for "NOW" because it is a single word.</li>
 
         </ul>
 
@@ -126,10 +126,10 @@ export default function NOW1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>at PRESent, i am WORKing on a NEW PROJect.</li>
-          <li className="margin-bottom-20 list-none">Hiện tại, tôi đang thực hiện một dự án mới.</li>
+          <li className="margin-bottom-20 list-none">Right now, I'm working on a new project.</li>
 
           <li><Link to="/vocabulary/CURrently-1">CURrently</Link>, the TEMPERature is THIRty deGREES.</li>
-          <li className="list-none">Hiện tại, nhiệt độ là ba mươi độ.</li>
+          <li className="list-none">It is currently 30 degrees outside.</li>
 
         </ul>
 
@@ -148,10 +148,10 @@ export default function NOW1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>we can TALK a<strong>bout</strong> it LAter.</li>
-          <li className="margin-bottom-20 list-none">Chúng ta có thể nói về chuyện đó sau.</li>
+          <li className="margin-bottom-20 list-none">We can discuss this later.</li>
 
           <li>be<strong>fore</strong> i GO, i WANT to SAY GOODBYE.</li>
-          <li className="list-none">Trước khi đi, tớ muốn nói lời tạm biệt.</li>
+          <li className="list-none">I would like to say goodbye before I go.</li>
 
         </ul>
       
@@ -171,12 +171,12 @@ export default function NOW1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một chiếc đồng hồ đang chỉ vào thời điểm hiện tại.</p>
+      <p className="text-indent-whole">Imagine a clock showing the current time.</p>
 
         <ul className="list-square">
 
           <li>RIGHT NOW, it's FIVE o'CLOCK.</li>
-          <li className="list-none">Ngay lúc này, đã là 5 giờ rồi.</li>
+          <li className="list-none">It is now five o'clock.</li>
 
         </ul>
 
@@ -190,12 +190,12 @@ export default function NOW1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo nhiều câu với "<strong>NOW</strong>" trong các ngữ cảnh khác nhau, liên quan đến thời gian.</p>
+      <p className="text-indent-whole">Create several sentences using "NOW" in different contexts related to time.</p>
 
         <ul className="list-square">
 
           <li>i can SPEAK ENGlish MUCH BETter NOW.</li>
-          <li className="list-none">Bây giờ tôi nói tiếng anh tốt hơn rất nhiều.</li>
+          <li className="list-none">My English has improved a lot.</li>
 
         </ul>
 
@@ -209,19 +209,19 @@ export default function NOW1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>NOW</strong>" trong giao tiếp hàng ngày.</p>
+      <p className="text-indent-whole margin-bottom-20">Use "NOW" regularly in everyday conversation.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa at PRESent và <strong>NOW</strong>):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between "at present" and "now"):</p>
 
           <ol>
 
             <li value="1">at PRESent, she is LIVing in PARis.</li>
-            <li className="list-none">Hiện tại, cô ấy đang sống ở Paris.</li>
-            <li className="list-none margin-bottom-20">Cách nói trang trọng hơn, nhấn mạnh tình trạng hiện tại.</li>
+            <li className="list-none">She is living in Paris at the moment.</li>
+            <li className="list-none margin-bottom-20">A more formal way of saying it, <span className="highlight-255-padding-0-4">emphasizing the current situation.</span></li>
 
             <li value="2">NOW, LISten to me <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
-            <li className="list-none">Bây giờ, hãy lắng nghe tôi thật kỹ nhé.</li>
-            <li className="list-none">Cách nói thông thường, <span className="highlight-255-padding-0-4">nhấn mạnh sự tức thời.</span></li>
+            <li className="list-none">Pay attention and listen closely.</li>
+            <li className="list-none">A common way of speaking that <span className="highlight-255-padding-0-4">emphasizes immediacy.</span></li>
 
           </ol>
 
@@ -237,9 +237,9 @@ export default function NOW1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>NOW</strong>" thường đứng ở đầu câu hoặc trước hành động chính.</li>
+          <li>"NOW" usually comes at the beginning of a sentence or before the main action.</li>
 
-          <li className="margin-bottom-20">Nó có thể được sử dụng để nhấn mạnh sự khẩn cấp hoặc để chuyển đổi chủ đề.</li>
+          <li className="margin-bottom-20">It can be used to emphasize urgency or to change the subject.</li>
 
         </ul>
 

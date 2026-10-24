@@ -15,7 +15,7 @@ export default function toMORrow2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#ADverbs-SOON"><mark className="highlight-tertiary-padding-4-88">SOON</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#ADverbs-toMORrow"><mark className="highlight-tertiary-padding-4-88">toMORrow</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">toMORrow
         <sup>
