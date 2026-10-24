@@ -147,15 +147,15 @@ export default function toDAY2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>toDAY</strong>" thường đứng ở đầu câu hoặc giữa câu.</li>
+          <li>"toDAY" usually appears at the beginning or in the middle of a sentence.</li>
 
-          <li className="margin-bottom-20">Ý nghĩa chính xác của cụm từ phụ thuộc vào ngữ cảnh sử dụng.</li>
+          <li className="margin-bottom-20">The exact meaning of the phrase depends on the context in which it is used.</li>
 
         </ul>
 
       </div>
 
-      <p className="margin-top-50">Hy vọng những thông tin này sẽ giúp bạn hiểu rõ hơn về cách sử dụng từ "<strong>toDAY</strong>" trong tiếng Anh! 🐝🐝</p>
+      <p className="margin-top-50">Hoping this information helps you better understand how to use the word "toDAY" in English! 🐝</p>
 
       <div className="viewcounter">
       
