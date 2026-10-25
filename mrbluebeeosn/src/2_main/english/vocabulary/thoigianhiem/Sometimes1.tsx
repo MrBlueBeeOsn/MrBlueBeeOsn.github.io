@@ -217,7 +217,7 @@ export default function SOMEtimes1(): React.JSX.Element {
 
             <li value="1">we <Link to="/vocabulary/ocCAsionally-1">ocCAsionally</Link> MEET for LUNCH.</li>
             <li className="list-none">We sometimes meet for lunch together.</li>
-            <li className="list-none margin-bottom-20">ocCAsionally: <span className="highlight-255-padding-0-4">Conveys a more polite tone</span> and emphasizes the random nature of the occurrence.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">ocCAsionally: Conveys a more polite tone</span> and emphasizes the random nature of the occurrence.</li>
 
             <li value="2">i SOMEtimes forGET to BRING my umBRELla.</li>
             <li className="list-none">Sometimes I forget to bring my umbrella.</li>

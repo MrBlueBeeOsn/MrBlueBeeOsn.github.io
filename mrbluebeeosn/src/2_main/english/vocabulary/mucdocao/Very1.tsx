@@ -83,7 +83,7 @@ export default function VERy1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Used to emphasize the degree of another adjective or adverb, indicating that a certain characteristic is present to a high degree.</p>
+      <p className="margin-top-30 text-indent-whole">VERy: It is used to make another adjective or adverb more intense. It shows that a certain characteristic is very strong.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
@@ -217,11 +217,11 @@ export default function VERy1(): React.JSX.Element {
 
             <li value="1">she <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link> HAPpy.</li>
             <li className="list-none">She's thrilled.</li>
-            <li className="list-none margin-bottom-20">Emphasize an extremely high level.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">exTREMEly: This is extreme.</span> Focus on an extremely high level.</li>
 
             <li value="2">she VERy HAPpy.</li>
             <li className="list-none">She's in a good mood.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Emphasize a high level.</span></li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">VERy: Focus on a high level.</span></li>
 
           </ol>
 

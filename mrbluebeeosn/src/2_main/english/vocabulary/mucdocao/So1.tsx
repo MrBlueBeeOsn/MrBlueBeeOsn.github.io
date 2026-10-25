@@ -91,7 +91,7 @@ export default function SO1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Very, extremely (ADVERB of degree): Used to emphasize the degree of an adjective or adverb.</p>
+      <p className="margin-top-30 text-indent-whole">SO: Very, extremely (adverb of degree): It is used to show how strong an adjective or adverb is.</p>
 
         <ul className="list-square">
 
@@ -255,11 +255,11 @@ export default function SO1(): React.JSX.Element {
 
             <li value="1">she was <Link to="/vocabulary/VERy-1">VERy</Link> HAPpy.</li>
             <li className="list-none">She was really pleased.</li>
-            <li className="list-none margin-bottom-20">Simply indicates degree. Used to denote a high degree but is generally more objective and less emotional.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">VERy: It just shows the degree.</span> It used to be a strong word, but now it's more neutral and less emotional.</li>
 
             <li value="2">she was SO HAPpy that she CRIED.</li>
             <li className="list-none">She was very happy, and she started crying.</li>
-            <li className="list-none">Emphasizes emotions and results. Often used to <span className="highlight-255-padding-0-4">express stronger emotions</span> or surprise at the degree of something. It can sometimes be accompanied by the word "that."</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">SO: It focuses on emotions and results.</span> People often use it to express stronger emotions or surprise at the intensity of something. It can sometimes be accompanied by the word "that."</li>
 
           </ol>
 

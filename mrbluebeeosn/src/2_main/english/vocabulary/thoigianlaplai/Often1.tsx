@@ -83,7 +83,7 @@ export default function OFten1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Refers to the repetition of an action or event over a period of time.</p>
+      <p className="margin-top-30 text-indent-whole">OFten: It means to do something again and again over time.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
@@ -217,11 +217,11 @@ export default function OFten1(): React.JSX.Element {
 
             <li value="1">she <Link to="/vocabulary/FREquently-1">FREquently</Link> atTENDS CONFERences.</li>
             <li className="list-none">She's a regular at conferences.</li>
-            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">A more formal way of saying it,</span> emphasizing regularity.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">FREquently: This happens often.</span> Another way of saying it is to use the word "REGularly".</li>
 
             <li value="2">i OFten GO to the PARK.</li>
             <li className="list-none">I frequently visit the park.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">A common way of speaking,</span> used in many situations.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">OFten: This is a common way of speaking</span> that can be used in many situations.</li>
 
           </ol>
 

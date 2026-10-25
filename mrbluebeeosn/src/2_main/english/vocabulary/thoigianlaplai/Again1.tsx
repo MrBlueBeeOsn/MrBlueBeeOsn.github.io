@@ -87,7 +87,7 @@ export default function aGAIN1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Simply repeat an action, event, or state.</p>
+      <p className="margin-top-30 text-indent-whole">aGAIN: Do the same thing again. Simply repeat what you did, what happened, or what is happening.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
@@ -222,11 +222,11 @@ export default function aGAIN1(): React.JSX.Element {
 
             <li value="1">let's TRY ONCE MORE.</li>
             <li className="list-none">Let's give it one last try.</li>
-            <li className="list-none margin-bottom-20">It is often used to <span className="highlight-255-padding-0-4">emphasize the final repetition</span> or a final effort.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">ONCE MORE: It is often used to highlight the last repetition</span> or effort.</li>
 
             <li value="2">PLEASE rePEAT THAT aGAIN.</li>
             <li className="list-none">Could you please say that again?</li>
-            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">Commonly used in everyday situations</span></li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">aGAIN: This is used often in everyday situations.</span></li>
 
           </ol>
 
