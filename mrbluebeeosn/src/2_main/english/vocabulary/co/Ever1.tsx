@@ -217,11 +217,11 @@ export default function EVer1(): React.JSX.Element {
 
             <li value="1">i have <Link to="/vocabulary/NEVer-1">NEVer</Link> been to the BEACH.</li>
             <li className="list-none">I have never visited the beach.</li>
-            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">Used to completely deny an experience.</span></li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">NEVer: It used to be that they would completely deny having had an experience.</span></li>
 
             <li value="2">have you EVer been to the BEACH?</li>
             <li className="list-none">Have you ever visited the coast?</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Use in questions</span> or statements to emphasize an experience.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">EVer: Use it in questions</span> or statements to highlight an experience.</li>
 
           </ol>
 

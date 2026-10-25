@@ -223,11 +223,11 @@ export default function YES1(): React.JSX.Element {
 
             <li value="1">can i BORrow your PEN? - <Link to="/vocabulary/CERtainly-1">CERtainly</Link>.</li>
             <li className="list-none">Can I borrow your pen? Absolutely.</li>
-            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">An emphatic response</span> that expresses willingness or enthusiastic agreement.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">CERtainly: This is a strong answer</span> that shows you agree or are excited.</li>
 
             <li value="2">do you LIKE CHOCOLate? - YES.</li>
             <li className="list-none">Do you like chocolate? The answer is yes.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">It's a simple answer</span> to a question.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">YES: The answer is simple.</span></li>
 
           </ol>
 

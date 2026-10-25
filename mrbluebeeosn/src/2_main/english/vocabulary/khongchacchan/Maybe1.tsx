@@ -217,11 +217,11 @@ export default function MAYbe1(): React.JSX.Element {
 
             <li value="1"><Link to="/vocabulary/perHAPS-1">perHAPS</Link> you could HELP me with this PROJect.</li>
             <li className="list-none">I need some help with a project. Maybe you can help.</li>
-            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">A more polite way of saying it,</span> typically used in writing or formal situations.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">perHAPS: This is a more polite way of saying it,</span> usually used in writing or in formal situations.</li>
 
             <li value="2">MAYbe we can GO to the MOvies toNIGHT.</li>
             <li className="list-none">Let's watch a movie tonight.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Common expressions,</span> typically used in everyday conversation.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">MAYbe: These are common expressions</span> that people use in their daily conversations.</li>
 
           </ol>
 

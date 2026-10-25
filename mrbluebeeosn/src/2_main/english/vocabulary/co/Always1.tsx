@@ -217,11 +217,11 @@ export default function ALways1(): React.JSX.Element {
 
             <li value="1">she is CONstantly TALKing on the PHONE.</li>
             <li className="list-none">She spends a lot of time talking on the phone.</li>
-            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">Emphasizes the continuous and repetitive nature</span> of an action.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">CONstantly: It highlights how actions are repeated and continue over time.</span></li>
 
             <li value="2">the SUN ALways RIses in the EAST.</li>
             <li className="list-none">The sun always appears in the east.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Emphasizes the eternal and absolute nature</span> of an action.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">ALways: It highlights that an action is permanent and unchangeable.</span></li>
 
           </ol>
 

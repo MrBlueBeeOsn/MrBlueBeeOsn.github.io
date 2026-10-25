@@ -225,11 +225,11 @@ export default function NOT1(): React.JSX.Element {
 
             <li value="1">do you WANT COFfee? - <Link to="/vocabulary/NO-1">NO</Link>, THANK you.</li>
             <li className="list-none">Fancy a coffee? Nah, cheers.</li>
-            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">It is often used to answer a question</span> or provide a brief response.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">NO: It is often used to answer a question</span> or give a short answer.</li>
 
             <li value="2">i am NOT GOing.</li>
             <li className="list-none">I won't be going.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Commonly used to negate a VERB.</span></li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">NOT: It is often used to negate a verb.</span></li>
 
           </ol>
 

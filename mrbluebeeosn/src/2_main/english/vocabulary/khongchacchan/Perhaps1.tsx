@@ -217,11 +217,11 @@ export default function perHAPS1(): React.JSX.Element {
 
             <li value="1"><Link to="/vocabulary/MAYbe-1">MAYbe</Link> we can gO OUT for DINner toNIGHT.</li>
             <li className="list-none">Maybe we could go out to eat tonight.</li>
-            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">More common</span> and frequently used in everyday communication.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">Maybe: It's more common</span> and often used in everyday conversation.</li>
 
             <li value="2">perHAPS we should reconSIDer our deCISion.</li>
-            <li className="list-none">Có lẽ chúng ta nên xem xét lại quyết định của mình.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">It's a bit more formal</span> than "maybe."</li>
+            <li className="list-none">Perhaps we should rethink the decision we made.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">perHAPS: It's a bit more formal</span> than "maybe."</li>
 
           </ol>
 
