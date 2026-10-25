@@ -225,11 +225,11 @@ export default function toDAY1(): React.JSX.Element {
 
             <li value="1">i'm EATing <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
             <li className="list-none">I'm eating right now.</li>
-            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">Indicates the exact time at the moment of speaking.</span></li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">NOW: It shows the exact time</span> when something is said.</li>
 
             <li value="2">i'm BUSy toDAY.</li>
             <li className="list-none">I don't have time today.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Just a 24-hour period,</span> from midnight to midnight.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">toDAY: It lasts for 24 hours,</span> from midnight to midnight.</li>
 
           </ol>
 

@@ -211,17 +211,17 @@ export default function NOW1(): React.JSX.Element {
 
       <p className="text-indent-whole margin-bottom-20">Use "NOW" regularly in everyday conversation.</p>
 
-        <p className="text-indent-whole">Examples for comparison (the difference between "at present" and "now"):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between "at PRESent" and "now"):</p>
 
           <ol>
 
             <li value="1">at PRESent, she is LIVing in PARis.</li>
             <li className="list-none">She is living in Paris at the moment.</li>
-            <li className="list-none margin-bottom-20">A more formal way of saying it, <span className="highlight-255-padding-0-4">emphasizing the current situation.</span></li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">"at PRESent" or "at the MOment."</span> Another way of saying it, using more formal language, is to <span className="highlight-255-padding-0-4">emphasize the current situation.</span></li>
 
             <li value="2">NOW, LISten to me <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
             <li className="list-none">Pay attention and listen closely.</li>
-            <li className="list-none">A common way of speaking that <span className="highlight-255-padding-0-4">emphasizes immediacy.</span></li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">NOW: This is a common way of speaking</span> that makes the message seem urgent.</li>
 
           </ol>
 
