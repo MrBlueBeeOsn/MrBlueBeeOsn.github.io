@@ -59,7 +59,7 @@ export default function ocCAsionally1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>ocCAsionally</strong>" nhé.</p>
+      <p>Great! Let's explore the word "occasionally" together.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -75,7 +75,7 @@ export default function ocCAsionally1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Thỉnh thoảng</li>
+            <li>From time to time</li>
 
           </ul>
 
@@ -87,17 +87,17 @@ export default function ocCAsionally1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ocCAsionally</strong>" được dùng để diễn tả một hành động xảy ra không thường xuyên, mà chỉ xảy ra trong một vài trường hợp hoặc một vài lần. Nó thể hiện sự không đều đặn, không liên tục của một sự việc.</p>
+      <p className="margin-top-30 text-indent-whole">The word "ocCAsionally" is used to describe an action that does not happen frequently, but only in a few instances or a few times. It conveys the irregularity or discontinuity of an event.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i ocCAsionally GO to the GYM.</li>
-          <li className="margin-bottom-20 list-none">Thỉnh thoảng tôi đi tập gym.</li>
+          <li className="margin-bottom-20 list-none">I go to the gym sometimes.</li>
 
           <li>it RAINS ocCAsionally in the DESert.</li>
-          <li className="list-none">Thỉnh thoảng cũng có mưa ở sa mạc.</li>
+          <li className="list-none">The desert sometimes gets rain.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ export default function ocCAsionally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li id="NOUN">on SPECial ocCAsions, we WEAR FORmal CLOTHES.</li>
-          <li className="list-none">Trong những dịp đặc biệt, chúng ta mặc trang phục trang trọng.</li>
+          <li className="list-none">We wear our best clothes on special occasions.</li>
 
         </ul>
 
@@ -131,10 +131,10 @@ export default function ocCAsionally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/SOMEtimes-1">SOMEtimes</Link> i FEEL LONEly.</li>
-          <li className="margin-bottom-20 list-none">Đôi khi tớ cảm thấy cô đơn.</li>
+          <li className="margin-bottom-20 list-none">Sometimes, I feel alone.</li>
 
           <li>we meeT UP for COFfee NOW and THEN.</li>
-          <li className="list-none">Thỉnh thoảng chúng tôi gặp nhau để uống cà phê.</li>
+          <li className="list-none">We would meet for coffee sometimes, but not regularly.</li>
 
         </ul>
 
@@ -153,10 +153,10 @@ export default function ocCAsionally1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>she is <Link to="/vocabulary/ALways-1">ALways</Link> on TIME.</li>
-          <li className="margin-bottom-20 list-none">Cô ấy luôn đúng giờ.</li>
+          <li className="margin-bottom-20 list-none">She always arrives on time.</li>
 
           <li>i <Link to="/vocabulary/NEVer-1">NEVer</Link> EAT FAST FOOD.</li>
-          <li className="list-none">Tôi không bao giờ ăn thức ăn nhanh.</li>
+          <li className="list-none">I never eat junk food.</li>
 
         </ul>
       
@@ -176,12 +176,12 @@ export default function ocCAsionally1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một người chỉ thỉnh thoảng mới đọc sách báo.</p>
+      <p className="text-indent-whole">Imagine someone who only reads books and newspapers occasionally.</p>
 
         <ul className="list-square">
 
           <li>she Only READS BOOKS and NEWSpapers ocCAsionally.</li>
-          <li className="list-none">Cô ấy chỉ đọc sách và thỉnh thoảng đọc báo.</li>
+          <li className="list-none">She doesn't read much, only books or the newspaper sometimes.</li>
 
         </ul>
 
@@ -195,12 +195,12 @@ export default function ocCAsionally1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>ocCAsionally</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Create various example sentences using the word "occasionally" in different contexts.</p>
 
         <ul className="list-square">
 
           <li>i ocCAsionally BAKE COOKies on WEEKends.</li>
-          <li className="list-none">Thỉnh thoảng tôi làm bánh quy vào cuối tuần.</li>
+          <li className="list-none">On the weekends, I sometimes bake cookies.</li>
 
         </ul>
 
@@ -221,16 +221,16 @@ export default function ocCAsionally1(): React.JSX.Element {
           <ol>
 
             <li value="1">i GO to the MOvies.</li>
-            <li className="list-none margin-bottom-20">Tôi đi xem phim.</li>
+            <li className="list-none margin-bottom-20">I go out to watch movies.</li>
 
             <li value="2">i ocCAsionally GO to the MOvies.</li>
-            <li className="list-none margin-bottom-20">Thỉnh thoảng tôi đi xem phim.</li>
+            <li className="list-none margin-bottom-20">I sometimes go to the movies.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>ocCAsionally</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc đi xem</span> phim <span className="highlight-255-padding-0-4">không phải là một hoạt động thường xuyên</span> của người nói.</p>
+        <p className="margin-y-10">The difference: The second sentence uses "occasionally" to <span className="highlight-255-padding-0-4">emphasize that going to the movies is not a regular activity</span> for the speaker.</p>
 
       </div>
 
@@ -246,9 +246,9 @@ export default function ocCAsionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tần suất: "<strong>ocCAsionally</strong>" chỉ ra một tần suất thấp của một hành động.</li>
+          <li>Frequency: "occasionally" indicates a low frequency of an action.</li>
 
-          <li className="margin-bottom-20">Không thường xuyên: Nó nhấn mạnh sự không đều đặn, không liên tục.</li>
+          <li className="margin-bottom-20">Not often: It emphasizes irregularity and discontinuity.</li>
 
         </ul>
 

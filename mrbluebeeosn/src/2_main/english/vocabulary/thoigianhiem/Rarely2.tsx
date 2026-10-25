@@ -75,7 +75,7 @@ export default function RAREly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>RAREly</strong>" (rất hiếm khi) và các cụm từ hay đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "RAREly" (very rarely) and some common phrases that go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function RAREly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb dùng để diễn tả một hành động, sự việc hoặc tình huống xảy ra không thường xuyên, ít khi hoặc hiếm có.
+            &nbsp;is an adverb used to describe an action, event, or situation that occurs infrequently, rarely, or seldom.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function RAREly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="HAPpens-that">it RAREly HAPpens that we GET SNOW in this PART of the COUNtry.</li>
-        <li className="list-none margin-bottom-20">Rất hiếm khi có tuyết rơi ở khu vực này của đất nước.</li>
+        <li className="list-none margin-bottom-20">It is uncommon for this part of the country to get snow.</li>
 
         <li value="2" id="SEEN-in">that TYPE of BIRD is RAREly SEEN in this ARea.</li>
-        <li className="list-none margin-bottom-20">Loài chim đó rất hiếm khi được nhìn thấy ở khu vực này.</li>
+        <li className="list-none margin-bottom-20">This type of bird is not usually seen around here.</li>
 
         <li value="3" id="MENtioned-in">the TOPic is RAREly MENtioned in PUBlic.</li>
-        <li className="list-none margin-bottom-20">Chủ đề này hiếm khi được đề cập trước công chúng.</li>
+        <li className="list-none margin-bottom-20">People hardly ever talk about this topic in public.</li>
 
         <li value="4" id="USED-in">that WORD is RAREly USED in EVERyday converSAtion.</li>
-        <li className="list-none margin-bottom-20">Từ đó hiếm khi được sử dụng trong các cuộc trò chuyện hàng ngày.</li>
+        <li className="list-none margin-bottom-20">That word is not used often in everyday conversation.</li>
 
         <li value="5" id="FOUND-in">ANcient ARtifacts are RAREly FOUND in this REgion.</li>
-        <li className="list-none margin-bottom-20">Các di vật cổ xưa hiếm khi được tìm thấy ở khu vực này.</li>
+        <li className="list-none margin-bottom-20">It's not common to find old things like artifacts in this area.</li>
 
         <li value="6" id="VISits">my GRANDmother RAREly VISits us.</li>
-        <li className="list-none margin-bottom-20">Bà nội của tôi hiếm khi đến thăm chúng tôi.</li>
+        <li className="list-none margin-bottom-20">My grandmother doesn't visit us very often.</li>
 
         <li value="7" id="ocCURS-in">such a seVERE STORM RAREly ocCURS in this AREa.</li>
-        <li className="list-none margin-bottom-20">Một cơn bão dữ dội như vậy hiếm khi xảy ra ở khu vực này.</li>
+        <li className="list-none margin-bottom-20">It's not common for such a severe storm to occur in this area.</li>
 
         <li value="8" id="EAT">she RAREly EAT MEAT.</li>
-        <li className="list-none margin-bottom-20">Cô ấy hiếm khi ăn thịt.</li>
+        <li className="list-none margin-bottom-20">She hardly ever eats meat.</li>
 
         <li value="9" id="SLEEPS-MORE-than">due to her BUSy SCHEDule, she RAREly SLEEPS MORE than SIX HOURS a NIGHT.</li>
-        <li className="list-none margin-bottom-20">Do lịch trình bận rộn, cô ấy hiếm khi ngủ hơn sáu giờ mỗi đêm.</li>
+        <li className="list-none margin-bottom-20">She doesn't get more than six hours of sleep a night because she's so busy.</li>
 
         <li value="10" id="TALKS">he is a VERy QUIet PERson and RAREly TALKS.</li>
-        <li className="list-none margin-bottom-20">Anh ấy là một người rất trầm lặng và hiếm khi nói chuyện.</li>
+        <li className="list-none margin-bottom-20">He is a very shy person and hardly ever speaks.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính không thường xuyên, ít xảy ra của một hành động, sự việc hoặc tình huống. Chúng thường được sử dụng để tạo ra sự tương phản hoặc nhấn mạnh sự đặc biệt của một điều gì đó.</p>
+      <p>** All of the above phrases emphasize the infrequent or rare nature of an action, event, or situation. They are often used to create contrast or highlight the uniqueness of something.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function RAREly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>RAREly</strong>" thường đứng ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
+          <li>"RAREly" is usually placed at the beginning of a sentence or before an action to modify it.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/SELdom-1">SELdom</Link>", "inFREquently", "HARDly EVer" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">This word can be replaced with synonyms such as "<Link to="/vocabulary/SELdom-1">SELdom</Link>", "inFREquently," or "HARDly EVer" to add variety to your writing style.</li>
 
         </ul>
 

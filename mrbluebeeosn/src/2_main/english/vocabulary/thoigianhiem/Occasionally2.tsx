@@ -75,7 +75,7 @@ export default function ocCAsionally2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ocCAsionally</strong>" (thỉnh thoảng) và các cụm từ thường đi kèm nhé.</p>
+      <p>Great! Let's take a closer look at the word "occasionally" and the phrases that often go with it.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function ocCAsionally2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;trong tiếng Anh có nghĩa là "thỉnh thoảng", "đôi khi". Từ này được dùng để chỉ những việc xảy ra không thường xuyên, không đều đặn.
+            &nbsp;in English means "from TIME to TIME" or "SOMEtimes." This word is used to describe events that occur infrequently or irregularly.
 
           </p>
 
@@ -104,38 +104,38 @@ export default function ocCAsionally2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="FEELS-LONEly-even-though">she ocCAsionally FEELS LONEly, <strong>e</strong>ven though she HAS <strong>man</strong>y FRIENDS.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng cô ấy cảm thấy cô đơn, dù cô ấy có rất nhiều bạn.</li>
+        <li className="list-none margin-bottom-20">Even though she has many friends, she sometimes feels lonely.</li>
 
         <li value="2" id="RAINS-in-the">it ocCAsionally RAINS in the DESert.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng cũng có mưa ở sa mạc.</li>
+        <li className="list-none margin-bottom-20">Sometimes, rain falls in the desert.</li>
 
         <li value="3" id="VISits-on">my GRANDparents ocCAsionally VISits us on WEEKends.</li>
-        <li className="list-none margin-bottom-20">Ông bà tôi thỉnh thoảng đến thăm chúng tôi vào cuối tuần.</li>
+        <li className="list-none margin-bottom-20">My grandparents sometimes come to visit us on the weekends.</li>
 
         <li value="4" id="EATS-but">he ocCAsionally EATS SPIcy FOOD, but he DOESn't LIKE it VERy MUCH.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng anh ấy ăn đồ cay, nhưng anh ấy không thích lắm.</li>
+        <li className="list-none margin-bottom-20">He sometimes eats spicy food, but it doesn't taste very good to him.</li>
 
         <li value="5" id="WORKS-from-when">she ocCAsionally WORKS from HOME when she's FEELing <strong>un</strong>der the WEATHer.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng, cô ấy làm việc tại nhà khi cảm thấy không được khỏe.</li>
+        <li className="list-none margin-bottom-20">When she's feeling under the weather, she sometimes works from home.</li>
 
         <li value="6" id="PLAYS-for">he ocCAsionally PLAYS the piANo for FUN.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng anh ấy chơi piano để giải trí.</li>
+        <li className="list-none margin-bottom-20">He sometimes plays the piano just for fun.</li>
 
         <li value="7" id="forGET">i ocCAsionally forGET PEOple's NAMES.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi lại quên tên của mọi người.</li>
+        <li className="list-none margin-bottom-20">Sometimes, I forget people's names.</li>
 
         <li value="8" id="NEEDS-with">she ocCAsionally NEEDS HELP with her HOMEwork.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng, cô ấy cần sự giúp đỡ để làm bài tập về nhà.</li>
+        <li className="list-none margin-bottom-20">She needs help with her homework sometimes.</li>
 
         <li value="9" id="TALKS-about">he ocCAsionally TALKS a<strong>bout</strong> his CHILDhood.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng anh ấy kể về thời thơ ấu của mình.</li>
+        <li className="list-none margin-bottom-20">He sometimes talks about what it was like when he was a child.</li>
 
         <li value="10" id="TRAVel-to-in-the">they ocCAsionally TRAVel to EURope in the SUMmer.</li>
-        <li className="list-none margin-bottom-20">Họ thỉnh thoảng đi du lịch đến châu Âu vào mùa hè.</li>
+        <li className="list-none margin-bottom-20">They travel to Europe during the summer, but only sometimes.</li>
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để diễn tả những hành động, tình trạng hoặc sự việc xảy ra không thường xuyên, không có tính chất lặp đi lặp lại. Chúng giúp chúng ta hiểu rõ hơn về tần suất của một hành động hoặc sự kiện.</p>
+      <p>** The phrases above are all used to describe actions, states, or events that occur infrequently and are not repetitive in nature. They help us better understand the frequency of an action or event.</p>
 
       {/* =============================
             Lưu ý:
@@ -147,9 +147,9 @@ export default function ocCAsionally2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>ocCAsionally</strong>" thường đứng ở đầu câu hoặc trước hành động để nhấn mạnh tính không thường xuyên của một hành động.</li>
+          <li>"Occasionally" is often placed at the beginning of a sentence or before an action to emphasize the infrequent nature of that action.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như: <Link to="/vocabulary/SOMEtimes-1">SOMEtimes</Link>, NOW and THEN, from TIME to TIME.</li>
+          <li className="margin-bottom-20">This word can be replaced with synonyms such as: <Link to="/vocabulary/SOMEtimes-1">SOMEtimes</Link>, NOW and THEN, from TIME to TIME.</li>
 
         </ul>
 
