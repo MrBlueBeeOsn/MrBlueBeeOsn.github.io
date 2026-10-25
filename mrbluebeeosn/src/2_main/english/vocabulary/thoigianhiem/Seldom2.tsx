@@ -75,7 +75,7 @@ export default function SELdom2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>SELdom</strong>" (hiếm khi) trong tiếng Anh nhé.</p>
+      <p>Great! Let's take a closer look at how to use the word "SELdom" (rarely) in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function SELdom2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra rất ít lần.
+            &nbsp;is an adverb of frequency used to describe an action or event that occurs very rarely.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function SELdom2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="SEE-at">i SELdom SEE her at SCHOOL.</li>
-        <li className="list-none margin-bottom-20">Tôi hiếm khi gặp cô ấy ở trường.</li>
+        <li className="list-none margin-bottom-20">She doesn't usually go to school.</li>
 
         <li value="2" id="GOES-to-the">he SELdom GOES to the CINema.</li>
-        <li className="list-none margin-bottom-20">Anh ấy hiếm khi đi xem phim.</li>
+        <li className="list-none margin-bottom-20">He hardly ever goes to the movies.</li>
 
         <li value="3" id="EATS">she SELdom EATS SPIcy FOOD.</li>
-        <li className="list-none margin-bottom-20">Cô ấy hiếm khi ăn đồ cay.</li>
+        <li className="list-none margin-bottom-20">She doesn't usually eat spicy food.</li>
 
         <li value="4" id="READ">they SELdom READ NEWSpapers.</li>
-        <li className="list-none margin-bottom-20">Họ hiếm khi đọc báo.</li>
+        <li className="list-none margin-bottom-20">They don't often read the news.</li>
 
         <li value="5" id="PLAY">we SELdom PLAY SPORTS.</li>
-        <li className="list-none margin-bottom-20">Chúng tôi hiếm khi chơi thể thao.</li>
+        <li className="list-none margin-bottom-20">We don't play sports very often.</li>
 
         <li value="6" id="HAVE-TIME-to-reLAX">i SELdom HAVE TIME to reLAX.</li>
-        <li className="list-none margin-bottom-20">Tôi hiếm khi có thời gian để thư giãn.</li>
+        <li className="list-none margin-bottom-20">I hardly ever have a chance to relax.</li>
 
         <li value="7" id="THINKS-about-the">she SELdom THINKS a<strong>bout</strong> the PAST.</li>
-        <li className="list-none margin-bottom-20">Cô ấy hiếm khi nghĩ về quá khứ.</li>
+        <li className="list-none margin-bottom-20">She doesn't usually think about the past.</li>
 
         <li value="8" id="MAKES-misTAKES-in">he SELdom MAKES misTAKES in his WORK.</li>
-        <li className="list-none margin-bottom-20">Anh ấy hiếm khi mắc lỗi trong công việc.</li>
+        <li className="list-none margin-bottom-20">He rarely makes mistakes at work.</li>
 
         <li value="9" id="FEEL-LONEly">i SELdom FEEL LONEly.</li>
-        <li className="list-none margin-bottom-20">Tôi hiếm khi cảm thấy cô đơn.</li>
+        <li className="list-none margin-bottom-20">I almost never feel lonely.</li>
 
         <li value="10" id="COME-to-VISit">they SELdom COME to VISit us.</li>
-        <li className="list-none margin-bottom-20">Họ hiếm khi đến thăm chúng tôi.</li>
+        <li className="list-none margin-bottom-20">They don't often come to visit us.</li>
 
       </ol>
 
@@ -147,9 +147,9 @@ export default function SELdom2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>SELdom</strong>" thường đứng trước hành động chính trong câu.</li>
+          <li>"SELdom" usually comes before the main verb in a sentence.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>SELdom</strong>" với nhiều ADverb khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">You can combine "SELdom" with many other adverbs to create more varied phrases.</li>
 
         </ul>
 

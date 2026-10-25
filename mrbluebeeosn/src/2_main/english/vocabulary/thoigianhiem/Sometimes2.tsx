@@ -75,7 +75,7 @@ export default function SOMEtimes2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>SOMEtimes</strong>" (đôi khi) trong tiếng Anh nhé.</p>
+      <p>Great! Let's take a closer look at how to use the word "SOMEtimes" (sometimes) in English.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -89,7 +89,7 @@ export default function SOMEtimes2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một ADverb chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra không thường xuyên, có thể xảy ra hoặc không xảy ra.
+            &nbsp;is an adverb of frequency used to describe an action or event that occurs infrequently—it may or may not happen.
 
           </p>
 
@@ -104,34 +104,34 @@ export default function SOMEtimes2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1" id="GO-for-a-WALK-in">i SOMEtimes GO for a WALK in the PARK.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi đi dạo trong công viên.</li>
+        <li className="list-none margin-bottom-20">I like to take a walk in the park sometimes.</li>
 
         <li value="2" id="RAINS-in">it SOMEtimes RAINS in the SUMmer.</li>
-        <li className="list-none margin-bottom-20">Đôi khi vào mùa hè cũng có mưa.</li>
+        <li className="list-none margin-bottom-20">Sometimes, it rains in the summer.</li>
 
         <li value="3" id="GO-to-on">we SOMEtimes GO to the MOvies on WEEKends.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng chúng tôi đi xem phim vào cuối tuần.</li>
+        <li className="list-none margin-bottom-20">We go to the movies sometimes on weekends.</li>
 
         <li value="4" id="PLAY-in">they SOMEtimes PLAY SOCcer in the YARD.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng họ chơi bóng đá trong sân.</li>
+        <li className="list-none margin-bottom-20">They sometimes play a game called soccer in the yard.</li>
 
         <li value="5" id="NOT-but-OFten-VISits">he does NOT SOMEtimes but OFten VISits his GRANDparents.</li>
-        <li className="list-none margin-bottom-20">Cậu ấy không chỉ thỉnh thoảng mà thường xuyên đến thăm ông bà.</li>
+        <li className="list-none margin-bottom-20">He doesn't often visit his grandparents, but he does visit them sometimes.</li>
 
         <li value="6" id="LIKES-NOT">she SOMEtimes LIKES COFfee and SOMEtimes NOT.</li>
-        <li className="list-none margin-bottom-20">Có lúc cô ấy thích cà phê, có lúc thì không.</li>
+        <li className="list-none margin-bottom-20">Sometimes she likes coffee, and sometimes she doesn't.</li>
 
         <li value="7" id="DRINK-in">i SOMEtimes DRINK TEA in the MORNing.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi uống trà vào buổi sáng.</li>
+        <li className="list-none margin-bottom-20">Sometimes I drink tea in the morning.</li>
 
         <li value="8" id="READ-at">i SOMEtimes READ BOOKS at NIGHT.</li>
-        <li className="list-none margin-bottom-20">Đôi khi tôi đọc sách vào ban đêm.</li>
+        <li className="list-none margin-bottom-20">I sometimes read books in the evening.</li>
 
         <li value="9" id="GO-on">we SOMEtimes GO CAMPing on WEEKends.</li>
-        <li className="list-none margin-bottom-20">Thỉnh thoảng chúng tôi đi cắm trại vào cuối tuần.</li>
+        <li className="list-none margin-bottom-20">On weekends, we sometimes go camping.</li>
 
         <li value="10" id="FEEL-STRESSED">when i SOMEtimes FEEL STRESSED, I LISten to MUsic.</li>
-        <li className="list-none margin-bottom-20">Khi thỉnh thoảng tôi cảm thấy căng thẳng, tôi nghe nhạc.</li>
+        <li className="list-none margin-bottom-20">When I feel stressed, I like to listen to music to help me relax.</li>
 
       </ol>
 
@@ -147,9 +147,9 @@ export default function SOMEtimes2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>SOMEtimes</strong>" thường đứng ở đầu câu hoặc giữa câu.</li>
+          <li>"SOMEtimes" usually appears at the beginning or in the middle of a sentence.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>SOMEtimes</strong>" với nhiều ADverb khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">You can combine "SOMEtimes" with many other adverbs to create a wider variety of phrases.</li>
 
         </ul>
 

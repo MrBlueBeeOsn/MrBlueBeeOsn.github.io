@@ -55,7 +55,7 @@ export default function SELdom1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SELdom</strong>" nhé.</p>
+      <p>Great! Let's take a closer look at the word "SELdom."</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -71,7 +71,7 @@ export default function SELdom1(): React.JSX.Element {
 
             <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
-            <li>Hiếm khi</li>
+            <li>Rarely</li>
 
           </ul>
 
@@ -83,17 +83,17 @@ export default function SELdom1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Chỉ một hành động hoặc sự việc xảy ra không thường xuyên, rất ít lần.</p>
+      <p className="margin-top-30 text-indent-whole">SELdom: An action or event that occurs infrequently, very rarely.</p>
 
       <p className="margin-top-20 text-indent-whole">For example:</p>
 
         <ul className="list-square">
 
           <li id="ADverb">i SELdom GO to the MOvies.</li>
-          <li className="margin-bottom-20 list-none">Tôi hiếm khi đi xem phim.</li>
+          <li className="margin-bottom-20 list-none">I don't often go to the cinema.</li>
 
           <li>she SELdom MAKES misTAKES.</li>
-          <li className="list-none">Cô ấy hiếm khi mắc lỗi.</li>
+          <li className="list-none">She rarely makes errors.</li>
 
         </ul>
 
@@ -109,7 +109,7 @@ export default function SELdom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp.</li>
+          <li className="list-none">There is no direct vocabulary family.</li>
 
         </ul>
 
@@ -126,10 +126,10 @@ export default function SELdom1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/RAREly-1">RAREly</Link> EAT MEAT.</li>
-          <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn thịt.</li>
+          <li className="margin-bottom-20 list-none">It's not very often that I eat meat.</li>
 
           <li>she inFREquently VISits her PARents.</li>
-          <li className="list-none">Cô ấy hiếm khi về thăm ba mẹ.</li>
+          <li className="list-none">She doesn't visit her parents very often.</li>
 
         </ul>
 
@@ -148,10 +148,10 @@ export default function SELdom1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>i <Link to="/vocabulary/OFten-1">OFten</Link> GO for a WALK in the PARK.</li>
-          <li className="margin-bottom-20 list-none">Tôi thường đi dạo trong công viên.</li>
+          <li className="margin-bottom-20 list-none">I usually go on a walk in the park.</li>
 
           <li>he <Link to="/vocabulary/FREquently-1">FREquently</Link> TRAVels aBROAD.</li>
-          <li className="list-none">Anh ấy thường xuyên đi du lịch nước ngoài.</li>
+          <li className="list-none">He often travels far and wide.</li>
 
         </ul>
       
@@ -171,15 +171,15 @@ export default function SELdom1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Hình dung một chiếc đồng hồ hiếm khi chạy hoặc một bông hoa hiếm khi nở.</p>
+      <p className="text-indent-whole">Imagine a clock that rarely runs or a flower that rarely blooms.</p>
 
         <ul className="list-square">
 
           <li>the WATCH SELdom KEEPS ACcurate TIME.</li>
-          <li className="margin-bottom-20 list-none">Đồng hồ hiếm khi chạy đúng giờ.</li>
+          <li className="margin-bottom-20 list-none">The watch is not very accurate.</li>
 
           <li>this TYPE of FLOWer SELdom BLOOMS.</li>
-          <li className="list-none">Loại hoa này hiếm khi nở.</li>
+          <li className="list-none">This kind of flower doesn't usually bloom.</li>
 
         </ul>
 
@@ -193,12 +193,12 @@ export default function SELdom1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu với "<strong>SELdom</strong>" trong các ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Try to create as many sentences as possible using "SELdom" in different contexts.</p>
 
         <ul className="list-square">
 
           <li>she SELdom comPLAINS a<strong>bout</strong> her JOB.</li>
-          <li className="list-none">Cô ấy hiếm khi phàn nàn về công việc của mình.</li>
+          <li className="list-none">She rarely says she doesn't like her job.</li>
 
         </ul>
 
@@ -212,19 +212,19 @@ export default function SELdom1(): React.JSX.Element {
         </strong>
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để làm quen với từ này.</p>
+      <p className="text-indent-whole margin-bottom-20">Read and write a lot to get familiar with this word.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa RAREly và <strong>SELdom</strong>):</p>
+        <p className="text-indent-whole">Examples for comparison (the difference between "RAREly" and "SELdom"):</p>
 
           <ol>
 
             <li value="1">i <Link to="/vocabulary/RAREly-1">RAREly</Link> EAT SPIcy FOOD.</li>
-            <li className="list-none">Tôi hiếm khi ăn đồ cay.</li>
-            <li className="list-none margin-bottom-20">Có thể có một vài lần xảy ra, nhưng không thường xuyên.</li>
+            <li className="list-none">I almost never eat food that has a lot of spice.</li>
+            <li className="list-none margin-bottom-20"><span className="highlight-255-padding-0-4">RAREly: It may happen a few times,</span> but not often.</li>
 
             <li value="2">i SELdom SEE him anyMORE.</li>
-            <li className="list-none">Tôi hiếm khi gặp anh ấy nữa.</li>
-            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh sự hiếm hoi tuyệt đối.</span></li>
+            <li className="list-none">I don't see him very often now.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">SELdom: Emphasizes absolute rarity.</span></li>
 
           </ol>
 
@@ -238,9 +238,9 @@ export default function SELdom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>SELdom</strong>" thường đứng trước hành động chính trong câu.</li>
+          <li>"SELdom" usually precedes the main verb in a sentence.</li>
 
-          <li className="margin-bottom-20">"<strong>SELdom</strong>" mang nghĩa phủ định, tức là một việc gì đó không xảy ra thường xuyên.</li>
+          <li className="margin-bottom-20">"SELdom" has a negative connotation, meaning that something does not happen often.</li>
 
         </ul>
 
