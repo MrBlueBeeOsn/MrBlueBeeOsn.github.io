@@ -18,7 +18,7 @@ export default function reSPOND(): React.JSX.Element {
 			<h4><HashLink smooth to="/vocabulary#VERB-PHRASE"><mark className="highlight-tertiary-padding-4-8">VERB PHRASE</mark></HashLink></h4>
 			
 						
-			<h1 className="margin-y-50 text-center">[reSPOND]</h1>
+			<h1 className="margin-y-50 text-center">reSPOND</h1>
 
 
 				<div className="example">
@@ -188,24 +188,24 @@ export default function reSPOND(): React.JSX.Element {
 
 			{/* This is the content of Vocabulary Term. */}
 
-			<h4 className="margin-bottom-30 text-center">BẢN THIẾT KẾ MÃ NGUỒN VÀ HỆ THỐNG VẬN HÀNH</h4>
+			<h4 className="margin-bottom-30 text-center">defiNITion</h4>
 
 			<div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
 				<div>
 
-					<p className="margin-bottom-20">[reSPOND] is a [VERB LEXeme] that means to say or write something as an answer, or to react to something.</p>
+					<p className="margin-bottom-20">reSPOND is a [VERB LEXeme] that means to say or write something as an answer, or to react to something.</p>
 
-					<p>[reSPOND] là một [LEXical VERB] có nghĩa là phản hồi, trả lời, hoặc phản ứng lại một tác động trước đó.</p>
+					<p>reSPOND is a [LEXical VERB] that means to respond, answer, or react to a previous stimulus.</p>
 
-					<p className="margin-top-20">Phát âm: [re SPOND] /rɪˈspɒnd/</p>
+					<p className="margin-top-20">Pronunciation: [re SPOND] /rɪˈspɒnd/</p>
 
 						<ul className="list-square">
 					
-							<li>the TEAM should [reSPOND] to the CLIent reQUEST imMEDIately.</li>
-							<li className="margin-bottom-20 list-none">Đội ngũ nên [phản hồi] yêu cầu của khách hàng ngay lập tức.</li>
+							<li>the TEAM should reSPOND to the CLIent reQUEST imMEDIately.</li>
+							<li className="margin-bottom-20 list-none">It's important that the team responds to the client's request right away.</li>
 
-							<li className="list-none margin-bottom-10"><strong>Khối</strong>: [reSPOND] - [PLAIN FORM] hình thành từ khối [LEXical VERB] nguyên bản "reSPOND" đứng sau chịu tác động từ [PRETerite MOdal auXILiary VERB] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "to the CLIent reQUEST".</li>
+							<li className="list-none margin-bottom-10">Block: [reSPOND] - [PLAIN FORM] is formed from the original [LEXical VERB] "reSPOND," which is followed by the [PRETerite MOdal auXILiary VERB] "should" to perform the action directed at the direct recipient "to the CLIent reQUEST."</li>
 					
 						</ul>
 
@@ -226,9 +226,9 @@ export default function reSPOND(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">HỆ THỐNG [VERB CATegories]</h3>
+			<h3 className="margin-y-50 text-center">VERB CATegories and SYNtax</h3>
 
-			<h4 className="margin-y-40">a. Phân hệ [PREDicator]</h4>
+			<h4 className="margin-y-40">a. [PREDicator] Subsystem</h4>
 			
 				<ol>
 			

@@ -18,7 +18,7 @@ export default function creATE(): React.JSX.Element {
       <h4><HashLink smooth to="/vocabulary#VERB-PHRASE"><mark className="highlight-tertiary-padding-4-8">VERB PHRASE</mark></HashLink></h4>
       
             
-      <h1 className="margin-y-50 text-center">[creATE]</h1>
+      <h1 className="margin-y-50 text-center">creATE</h1>
       
 
       <div className="example">
@@ -188,24 +188,24 @@ export default function creATE(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <h4 className="margin-bottom-30 text-center">BẢN THIẾT KẾ MÃ NGUỒN VÀ HỆ THỐNG VẬN HÀNH</h4>
+      <h4 className="margin-bottom-30 text-center">defiNITion</h4>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20">[creATE] is a [VERB LEXeme] that means to bring something into existence, or to cause something to happen.</p>
+          <p className="margin-bottom-20">creATE is a [VERB LEXeme] that means to bring something into existence, or to cause something to happen.</p>
 
-          <p>[creATE] là một [LEXical VERB] có nghĩa là tạo ra, sáng tạo, hoặc làm cho một điều gì đó xuất hiện.</p>
+          <p>"creATE" is a [LEXical VERB] that means to create, to invent, or to bring something into existence.</p>
 
-          <p className="margin-top-20">Phát âm: [crē ĀTE] /kriːˈeɪt/</p>
+          <p className="margin-top-20">Pronunciation: [crē ĀTE] /kriːˈeɪt/</p>
 
             <ul className="list-square">
           
-              <li>the TEAM should [creATE] a NEW MARketing STRATegy imMEdiately.</li>
-              <li className="margin-bottom-20 list-none">Đội ngũ nên [tạo ra] một chiến lược tiếp thị mới ngay lập tức.</li>
+              <li>the TEAM should creATE a NEW MARketing STRATegy imMEdiately.</li>
+              <li className="margin-bottom-20 list-none">The team should make a new marketing plan now.</li>
 
-              <li className="list-none margin-bottom-10"><strong>Khối</strong>: [creATE] - [PLAIN FORM] hình thành từ khối [LEXical VERB] nguyên bản "create" đứng sau chịu tác động từ [PRETerite MOdal auXILiary VERB] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "a NEW MARketing STRATegy".</li>
+              <li className="list-none margin-bottom-10">Block: [creATE] - [PLAIN FORM], formed from the original [LEXical VERB] "create," is followed by the [PRETerite MOdal auXILiary VERB] "should" to carry out the action directed toward the direct recipient "a NEW Marketing STRATegy."</li>
           
             </ul>
 
@@ -226,9 +226,9 @@ export default function creATE(): React.JSX.Element {
 
       {/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">HỆ THỐNG [VERB CATegories]</h3>
+			<h3 className="margin-y-50 text-center">VERB CATegories and SYNtax</h3>
 
-      <h4 className="margin-y-40">a. Phân hệ [PREDicator]</h4>
+      <h4 className="margin-y-40">a. [PREDicator] Subsystem</h4>
       
         <ol>
       

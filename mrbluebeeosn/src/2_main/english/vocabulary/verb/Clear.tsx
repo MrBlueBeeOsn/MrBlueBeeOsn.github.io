@@ -18,7 +18,7 @@ export default function CLEAR(): React.JSX.Element {
       <h4><HashLink smooth to="/vocabulary#VERB-PHRASE"><mark className="highlight-tertiary-padding-4-8">VERB PHRASE</mark></HashLink></h4>
 
       
-      <h1 className="margin-y-50 text-center">[CLEAR]</h1>
+      <h1 className="margin-y-50 text-center">CLEAR</h1>
 
       {/* This is the content of Vocabulary Term. */}
 
@@ -159,23 +159,27 @@ export default function CLEAR(): React.JSX.Element {
 
       </div>
 
+      {/* This is the content of Vocabulary Term. */}
+
+			<h4 className="margin-bottom-30 text-center">defiNITion</h4>
+
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20">[CLEAR] is a [VERB LEXeme] that means to remove things that are not wanted from a place, or to make something easy to see or understand.</p>
+          <p className="margin-bottom-20">CLEAR is a [VERB LEXeme] that means to remove things that are not wanted from a place, or to make something easy to see or understand.</p>
 
-          <p>[CLEAR] là một [LEXical VERB] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).</p>
+          <p>CLEAR is a [LEXical VERB] that means to clean up, remove unwanted items from a place, or make something easier to see or understand (clear).</p>
 
-          <p className="margin-top-20">Phát âm:[CLĒAR] /klɪə(r)/</p>
+          <p className="margin-top-20">Pronunciation: [CLĒAR] /klɪə(r)/</p>
 
             <ul className="list-square">
           
-              <li>you must [CLEAR] the browser history.</li>
-              <li className="margin-bottom-20 list-none">Bạn phải [xóa] lịch sử trình duyệt.</li>
+              <li>you must CLEAR the browser history.</li>
+              <li className="margin-bottom-20 list-none">You have to remove your browser history.</li>
 
-              <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [CLEAR] - [PLAIN FORM] dạng nguyên bản đứng sau [PREsent MOdal auXILiary VERB] "must" để thực thi hành động tác động lên thành phần chịu tác động "the browser history".</li>
+              <li className="list-none margin-bottom-10">The inner clause: [CLEAR] - [PLAIN FORM] in its original form follows the [PRESENT MODAL AUXILIARY VERB] "must" to perform an action that affects the object "the browser history."</li>
           
             </ul>
 
@@ -196,10 +200,10 @@ export default function CLEAR(): React.JSX.Element {
 
       {/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">HỆ THỐNG PHÂN LOẠI HẠT NHÂN VERB [VERB CATegories]</h3>
+			<h3 className="margin-y-50 text-center">VERB CATegories and SYNtax</h3>
 
 
-      <h4 className="margin-y-40">a. Phân hệ [PREDicator]</h4>
+      <h4 className="margin-y-40">a. [PREDicator] Subsystem</h4>
       
         <ol className="margin-top-40">
       
