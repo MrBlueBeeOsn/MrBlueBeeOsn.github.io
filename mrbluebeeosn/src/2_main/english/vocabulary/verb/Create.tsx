@@ -513,12 +513,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the engiNEER creAting the CORE SOFTware] FOUND an efFIcient MEthod.</li>
+          <li>the engiNEER creAting the CORE SOFTware FOUND an efFIcient MEthod.</li>
           <li className="margin-bottom-20 list-none">[Kỹ sư phát triển phần mềm cốt lõi] đã tìm ra một phương pháp hiệu quả.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the engiNEER creAting the CORE SOFTware] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "FOUND" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [the engineer creating the core software]—[NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "FOUND" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [creAting the CORE SOFTware] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "engiNEER" để hiển thị đặc điểm và bổ nghĩa cho đối tượng đó. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
+          <li className="list-none margin-bottom-10">Inner block: [creAting the CORE SOFTware]—[non-finite clause as a post-modifier] of [noun as head] "engiNEER" to describe the characteristics of and provide additional information about that object. Essentially, it is a [GERund-PARTiciple CLAUSE] constructed from the [GERund-PARTiciple FORM] "creAting," incorporating an extended data field that indicates an ongoing active process.</li>
       
         </ul>
       
@@ -530,12 +530,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the ARchitect to creATE the BUILDing BLUEprints] has been apPOINted.</li>
+          <li>the ARchitect to creATE the BUILDing BLUEprints has been apPOINted.</li>
           <li className="margin-bottom-20 list-none">[Kiến trúc sư phụ trách thiết kế bản vẽ kiến trúc] đã được bổ nhiệm.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the ARchitect to creATE the BUILDing BLUEprints] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "has been apPOINted" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "has" là [PRImary VERB as PREDicator] mang [FInite], còn "been apPOINted" là các dạng [non-FInite] đi kèm, và [TRANsitive VERB] "apPOINted".</li>
+          <li className="list-none margin-bottom-10">External block: [the architect to create the building blueprints]—[NOUN PHRASE as SUBJECT] of the action [VERB PHRASE as PREDICATE] "has been appointed" in [MAIN CLAUSE]. In this case, the [non-modal auxiliary verb] “has” is the [primary verb as predicate] functioning as a [finite form], while “been appointed” is the accompanying [non-finite form], and “[transitive verb] ‘appointed’” is the main verb.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [to creATE the BUILDing BLUEprints] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "ARchitect" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [to create the building blueprints]—[non-finite clause as a post-modifier] of [noun as head] "architect" to highlight and display the proactive, future-oriented characteristics of that object. Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "create ...," with an additional extended data segment appended afterward.</li>
       
         </ul>
       
@@ -546,12 +546,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the ARTwork to be creAted by the MASter] will be exHIBited toMORrow.</li>
+          <li>the ARTwork to be creAted by the MASter will be exHIBited toMORrow.</li>
           <li className="margin-bottom-20 list-none">[Tác phẩm nghệ thuật do bậc thầy sáng tạo] sẽ được trưng bày vào ngày mai.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the ARTwork to be creAted by the MASter] - [NOUN PHRASE as SUBject] có chức năng làm chủ cho [PREDicator] "will be exHIBited". Trong đó, "will" là [MOdal auXILiary VERB as PREDicator] mang [FInite], còn "be exHIBited" là các dạng [non-FInite] đi kèm.</li>
+          <li className="list-none margin-bottom-10">External block: [the artwork to be created by the master] - [NOUN PHRASE as SUBJECT] functions as the subject of [PREDICATOR] "will be exhibited." In this case, "will" is a [modal auxiliary verb as predicate] that is [finite], while "be exhibited" is a [non-finite] form that accompanies it.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [to be creAted by the MASter] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "ARTwork" để mô tả trạng thái sắp sửa được tác động. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "be creAted by the MASter" chứa [PLAIN FORM] "be" và [PAST PARTiciple FORM] "creAted" để biểu thị trạng thái bị động tương lai.</li>
+          <li className="list-none margin-bottom-10">Inner block: [to be created by the Master]—[non-finite clause as a post-modifier] of [noun as head] "artwork" to describe the state of being about to be affected. Essentially, it is a [to-infinitive clause] constructed from the [infinitive marker] "to" combined with the [verb phrase] "be created by the Master," containing the [plain form] "be" and the [past participle form] "created" to express the future passive state.</li>
       
         </ul>
       
@@ -562,12 +562,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the SYStem creAted by the TECH TEAM] was LAUNCHED YESterday.</li>
+          <li>the SYStem creAted by the TECH TEAM was LAUNCHED YESterday.</li>
           <li className="margin-bottom-20 list-none">[Hệ thống do Đội ngũ Kỹ thuật phát triển] đã được ra mắt vào ngày hôm qua.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the SYStem creAted by the TECH TEAM] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "was LAUNCHED" trong [MAIN CLAUSE]. Trong đó, "was" là [PRImary VERB as PREDicator] mang [FInite], còn [TRANsitive VERB] "LAUNCHED" là các dạng [non-FInite] đi kèm, biểu thị đối tượng đã được ra mắt.</li>
+          <li className="list-none margin-bottom-10">External block: [the SYSTEM created by the TECH TEAM]—[NOUN PHRASE as SUBJECT] of the action [VERB PHRASE as PREDICATE] "was LAUNCHED" in [MAIN CLAUSE]. In this case, "was" is the [PRIMARY VERB as PREDICATOR] functioning as a [FINITE] form, while the [TRANSITIVE VERB] "LAUNCHED" is a [NON-FINITE] form that accompanies it, indicating the object that was launched.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [creAted by the TECH TEAM] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "SYStem" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này. Bản chất là [PAST PARTiciple CLAUSE] cấu tạo từ [PAST PARTiciple FORM] "creAted" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
+          <li className="list-none margin-bottom-10">Inner block: [created by the TECH TEAM]—[non-finite clause as a post-modifier] of [noun as head] "System" to describe the completed passive state of this object. Essentially, it is a [past participle clause] formed from the [past participle form] "created," expanded in the passive voice in the past tense.</li>
       
         </ul>
       
@@ -578,12 +578,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>they NEED [a STRATegy creAtive in its exeCUtion].</li>
+          <li>they NEED a STRATegy creAtive in its exeCUtion.</li>
           <li className="margin-bottom-20 list-none">Họ cần [một chiến lược được triển khai một cách sáng tạo].</li>
       
-          <li className="list-none margin-bottom-10">External block: [a STRATegy creAtive in its exeCUtion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "NEED" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [a STRATegy creAtive in its exeCUtion] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PLAIN PRESent FORM] "NEED" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [creAtive in its exeCUtion] - [ADjective PHRASE as a post-MODifier] của [NOUN as HEAD] "STRATegy" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó. Hình thành từ khối [LEXical VERB] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITion PHRASE] phía sau "in its exeCUtion".</li>
+          <li className="list-none margin-bottom-10">Inner block: [creative in its execution]—[adjective phrase as a post-modifier] of [noun as head] "strategy" to modify, define characteristics, and directly describe the capabilities of that entity. Formed from the original [lexical verb] "create" by adding the suffix "-ive" and combining it with a [prepositional phrase] following it: "in its execution."</li>
       
         </ul>
       

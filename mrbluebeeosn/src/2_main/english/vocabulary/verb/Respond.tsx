@@ -514,12 +514,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[the Agent reSPONDing to the CRIsis] FOUND an efFECtive soLUtion.</li>
+					<li>the Agent reSPONDing to the CRIsis FOUND an efFECtive soLUtion.</li>
 					<li className="margin-bottom-20 list-none">[Người đại diện ứng phó với cuộc khủng hoảng] đã tìm ra một giải pháp hiệu quả.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [the Agent reSPONDing to the CRIsis] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "FOUND" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10">External block: [the Agent reSPONDing to the CRIsis] - [NOUN PHRASE as SUBject] of [TRANsitive VERB] in the [PRETerite FORM] "FOUND" in [MAIN CLAUSE].</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [reSPONDing to the CRIsis] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "Agent" để hiển thị đặc điểm và bổ nghĩa cho đối tượng đó. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
+					<li className="list-none margin-bottom-10">Inner block: [reSPONDing to the CRIsis]—[non-finite clause as a post-modifier] of [noun as head] "Agent" to describe the characteristics of and provide additional information about that entity. Essentially, it is a [GERund-PARTiciple CLAUSE] constructed from the [GERund-PARTiciple FORM] "reSPONDing," incorporating an extended data field that indicates the active process currently taking place.</li>
 			
 				</ul>
 			
@@ -530,12 +530,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[the OFficer to reSPOND to the inQUIRy] has been asSIGNED.</li>
+					<li>the OFficer to reSPOND to the inQUIRy has been asSIGNED.</li>
 					<li className="margin-bottom-20 list-none">[Cán bộ phụ trách giải đáp thắc mắc] đã được chỉ định.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [the OFficer to reSPOND to the inQUIRy] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "has been asSIGNED" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "has" là [PRImary VERB as PREDicator] mang [FInite], còn "been asSIGNED" là các dạng [non-FInite] đi kèm, và [TRANsitive VERB] "asSIGNED".</li>
+					<li className="list-none margin-bottom-10">External block: [the officer to respond to the inquiry]—[NOUN PHRASE as SUBJECT] of the action [VERB PHRASE as PREDICATE] "has been assigned" in [MAIN CLAUSE]. In this case, the [non-modal auxiliary verb] "has" is the [primary verb as predicate] functioning as a [finite form], while "been assigned" is the accompanying [non-finite form], and [transitive verb] "assigned."</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [to reSPOND to the inQUIRy] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "OFficer" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [to reSPOND to the inQUIRy]—[non-FInite CLAUSE as a post-MODifier] of [NOUN as HEAD] "OFficer" to highlight and display the proactive, imminent characteristics of that object. Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "respond ...," with an additional extended data segment appended afterward.</li>
 			
 				</ul>
 			
@@ -546,12 +546,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[the Email to be reSPONDed to by the MANager] will be SENT toMORrow.</li>
+					<li>the Email to be reSPONDed to by the MANager will be SENT toMORrow.</li>
 					<li className="margin-bottom-20 list-none">[Email mà người quản lý cần trả lời] sẽ được gửi vào ngày mai.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [the Email to be reSPONDed to by the MANager] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "will be SENT" trong [MAIN CLAUSE]. Trong đó, [PRImary PREDicator] "will" là [MOdal auXILiary VERB as PREDicator] mang [FInite], còn [SECondary Predicator] "be SENT" là các dạng [non-FInite] đi kèm, và [TRANsitive VERB] "SENT".</li>
+					<li className="list-none margin-bottom-10">External block: [the email to be replied to by the manager]—[NOUN PHRASE as SUBJECT] of the action [VERB PHRASE as PREDICATE] "will be SENT" in [MAIN CLAUSE]. In this case, the [primary predicate] "will" is a [modal auxiliary verb as predicate] that is [finite], while the [secondary predicate] "be sent" consists of accompanying [non-finite] forms and the [transitive verb] "sent."</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [to be reSPONDed to by the MANager] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "Email" để mô tả trạng thái sắp sửa được tác động. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "be reSPONDed to by the MANager" chứa [PLAIN FORM] "be" và [PAST PARTiciple FORM] "reSPONDed" để biểu thị trạng thái bị động tương lai.</li>
+					<li className="list-none margin-bottom-10">Inner block: [to be reSPONDed to by the MANager] - [non-FInite CLAUSE as a post-MODifier] of [NOUN as HEAD] "Email" to describe the state of being about to be acted upon. Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "be responded to by the manager," which contains the [plain form] "be" and the [past participle form] "responded" to express the future passive state.</li>
 			
 				</ul>
 			
@@ -562,12 +562,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[the comPLAINT reSPONDed to by the SERvice dePARTment] was reSOLVED YESterday.</li>
+					<li>the comPLAINT reSPONDed to by the SERvice dePARTment was reSOLVED YESterday.</li>
 					<li className="margin-bottom-20 list-none">[Khiếu nại mà bộ phận dịch vụ đã giải quyết] đã được giải quyết vào ngày hôm qua.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [the comPLAINT reSPONDed to by the SERvice dePARTment] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "was reSOLVED" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "was" là [PRImary VERB as PREDicator] mang [FInite], còn [TRANsitive VERB] "reSOLVED" là các dạng [non-FInite] đi kèm, biểu thị đối tượng đã được phản hồi.</li>
+					<li className="list-none margin-bottom-10">External block: [the complaint addressed by the service department]—[NOUN PHRASE as SUBJECT] of the action [VERB PHRASE as PREDICATE] "was resolved" in [MAIN CLAUSE]. In this case, the [non-modal auxiliary verb] “was” is the [primary verb as predicate] in the [finite] form, while the [transitive verb] “resolved” is in the [non-finite] form, indicating that the subject has been addressed.</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [reSPONDed to by the SERvice dePARTment] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "comPLAINT" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này. Bản chất là [PAST PARTiciple CLAUSE] cấu tạo từ [PAST PARTiciple FORM] "reSPONDed" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
+					<li className="list-none margin-bottom-10">Inner block: [reSPONDed to by the SERvice dePARTment]—[non-FInite CLAUSE as a post-MODifier] of [NOUN as HEAD] "comPLAINT" to describe the passive perfect state of this object. Essentially, it is a [past participle clause] formed from the [past participle form] "responded," expanded in the passive voice within the past tense.</li>
 			
 				</ul>
 			
@@ -578,12 +578,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>they NEED [a SYStem reSPONsive to MARket CHAnges].</li>
+					<li>they NEED a SYStem reSPONsive to MARket CHAnges.</li>
 					<li className="margin-bottom-20 list-none">Họ cần [một hệ thống có khả năng thích ứng với những thay đổi của thị trường].</li>
 			
-					<li className="list-none margin-bottom-10">External block: [a SYStem reSPONsive to MARket CHAnges] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "NEED" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10">External block: [a system responsive to market changes] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PLAIN PRESENT FORM] "NEED" in the [MAIN CLAUSE].</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [reSPONsive to MARket CHAnges] - [ADjective PHRASE as a post-MODifier] của [NOUN as HEAD] "SYStem" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
+					<li className="list-none margin-bottom-10">Inner block: [reSPONsive to MARket CHAnges] - [ADjective PHRASE as a post-MODifier] of [NOUN as HEAD] "SYStem" to modify, describe the characteristics, and directly specify the capabilities of that entity.</li>
 			
 				</ul>
 			

@@ -459,12 +459,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the STAFF MEMber to CLEAR the MEETing ROOM] is outSIDE.</li>
+          <li>the STAFF MEMber to CLEAR the MEETing ROOM is outSIDE.</li>
           <li className="margin-bottom-20 list-none">[Nhân viên phụ trách dọn dẹp phòng họp] đang ở bên ngoài.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the STAFF MEMber to CLEAR the MEETing ROOM] - [NOUN PHRASE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [the STAFF MEMBER to CLEAR the MEETING ROOM]—[NOUN PHRASE as SUBJECT] of [COPULAR INTRANSITIVE VERB] in the [3RD SINGULAR PRESENT FORM of "BE"] "is" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [to CLEAR the MEETing ROOM] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "MEMber" để quét và hiển thị đặc điểm hành động sắp sửa xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" + [VERB PHRASE] "CLEAR the MEETing ROOM" để biểu thị mục đích, nghĩa vụ hoặc định hướng hành động.</li>
+          <li className="list-none margin-bottom-10">Inner block: [to CLEAR the MEETing ROOM]—[non-finite clause as a post-modifier] of [noun as head] "MEMber" to highlight and indicate the active, imminent nature of the action to be performed by that subject. Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" + [verb phrase] "CLEAR the MEETing ROOM" to express purpose, obligation, or the direction of the action.</li>
       
         </ul>
 
@@ -475,12 +475,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the LAND to be CLEARED NEXT MONTH] beLONGS to the CITy.</li>
+          <li>the LAND to be CLEARED NEXT MONTH beLONGS to the CITy.</li>
           <li className="margin-bottom-20 list-none">[Khu đất sẽ được giải phóng mặt bằng vào tháng tới] thuộc sở hữu của thành phố.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the LAND to be CLEARED NEXT MONTH] - [NOUN PHRASE as SUBject] của [inTRANsitive VERB] ở [3RD SINGular PRESent FORM] "beLONGS" trong [MAIN CLAUSE]. Trong đó, "beLONGS" là [PRImary VERB as PREDicator] mang [FInite].</li>
+          <li className="list-none margin-bottom-10">External block: [the LAND to be CLEARED NEXT MONTH] - [NOUN PHRASE as SUBJECT] of [inTRANsitive VERB] in the [3RD SINGular PRESENT FORM] "beLONGS" in the [MAIN CLAUSE]. In this case, "beLONGS" is the [PRIMARY VERB as PREDICATE] serving as the [FINITE].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [to be CLEARED NEXT MONTH] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "LAND" để mô tả đặc điểm trạng thái sắp sửa được tác động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE] hiển thị dưới dạng mô hình "to be + V3/-ed", chứa [PAST PARTiciple FORM] biến đổi hình thái bị động, kết hợp phần mở rộng phương thức để biểu thị trạng thái bị động hướng tới tương lai.</li>
+          <li className="list-none margin-bottom-10">Inner block: [to be CLEARED NEXT MONTH] - [non-finite clause as a post-modifier] of [noun as head] "LAND" to describe the state of the object that is about to be affected. Essentially, it is a [to-infinitive clause] expressed in the "to be + V3/-ed" pattern, containing a [past participle form] in the passive morphological form, combined with a modal extension to indicate a future-oriented passive state.</li>
       
         </ul>
       
@@ -491,12 +491,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the WORKer CLEARing the ROAD BLOCK] WORE a VEST.</li>
+          <li>the WORKer CLEARing the ROAD BLOCK WORE a VEST.</li>
           <li className="margin-bottom-20 list-none">[Người công nhân đang dọn dẹp chướng ngại vật trên đường] mặc một chiếc áo khoác phản quang.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the WORKer CLEARing the ROAD BLOCK]- [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "WORE" trong [MAIN CLAUSE]. Trong đó, "WORE" là [LEXical VERB as PREDicator] mang [FInite].</li>
+          <li className="list-none margin-bottom-10">External block: [the WORKer CLEARing the ROAD BLOCK]—[NOUN PHRASE as SUBject] of [TRANsitive VERB] in the [PRETerite FORM] "WORE" in the [MAIN CLAUSE]. In this case, "WORE" is a [LEXical VERB as PREDicator] functioning as a [FInite].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [CLEARing the ROAD BLOCK] - [non-FInite CLAUSE as a post-MODifier] của [NOUN PHRASE] đặt ngay sau đối tượng [NOUN as HEAD] "WORKer" để quét và hiển thị đặc điểm hành động chủ động của đối tượng đó. Bản chất là [GERund-PARTiciple CLAUSE] được cấu tạo từ [GERund-PARTiciple FORM] "CLEARing" kết hợp với [NOUN PHRASE as OBJect] "the ROAD BLOCK" để biểu thị tính chủ động đang xảy ra.</li>
+          <li className="list-none margin-bottom-10">Inner block: [CLEARing the ROAD BLOCK]—[non-finite clause as a post-modifier] of [noun phrase] placed immediately after the object [noun as head] "WORKer" to highlight and demonstrate the active nature of that object's action. Essentially, it is a [GERund-PARTiciple CLAUSE] constructed from the [GERund-PARTiciple FORM] "CLEARing" combined with the [NOUN PHRASE as OBJECT] "the ROAD BLOCK" to express the ongoing active action.</li>
       
         </ul>
       
@@ -507,12 +507,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the FILES CLEARED by the adMINistrator] are PERmanently deLETEd.</li>
+          <li>the FILES CLEARED by the adMINistrator are PERmanently deLETEd.</li>
           <li className="margin-bottom-20 list-none">[Các tệp đã được quản trị viên xóa] sẽ bị xóa vĩnh viễn.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the FILES CLEARED by the adMINistrator] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "are deLETEd" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "are" là [PRImary VERB as PREDicator] mang [FInite], còn [TRANsitive VERB] "deLETEd" là các dạng [non-FInite] đi kèm, biểu thị đối tượng "the FILES" đã được xóa.</li>
+          <li className="list-none margin-bottom-10">External block: [the FILES CLEARED by the administrator]—[NOUN PHRASE as SUBJECT] of the action [VERB PHRASE as PREDICATE] "are deleted" in [MAIN CLAUSE]. In this case, the [non-modal auxiliary verb] "are" is the [primary verb as predicate] in the [finite] form, while the [transitive verb] "deleted" is in the [non-finite] form, indicating that the object "the FILES" has been deleted.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [CLEARED by the adMINistrator] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "FILES" để mô tả đặc điểm trạng thái bị động hoàn thành của đối tượng đó. Bản chất là [PAST PARTiciple CLAUSE] hiển thị dưới dạng một vùng mã chứa [PAST PARTiciple FORM] ở dạng bị động thuộc trục thời quá khứ và phần mở rộng phương thức.</li>
+          <li className="list-none margin-bottom-10">Inner block: [CLEARED by the administrator] - [non-finite clause as a post-modifier] of [noun as head] "FILES" to describe the passive perfect state of that object. Essentially, it is a [PAST PARTICIPLE CLAUSE] appearing as a code block containing a [PAST PARTICIPLE FORM] in the passive voice within the past tense and the modal extension.</li>
       
         </ul>
       
@@ -523,12 +523,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we FOUND [an appliCAtion CApable of CLEARing BACKground JUNK].</li>
+          <li>we FOUND an appliCAtion CApable of CLEARing BACKground JUNK.</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã tìm thấy [một ứng dụng có khả năng loại bỏ các tập tin rác trong nền].</li>
       
-          <li className="list-none margin-bottom-10">External block: [an appliCAtion CApable of CLEARing BACKground JUNK] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "FOUND" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [an application capable of clearing background junk]—[a noun phrase as a complement] of [a transitive verb] in the [past tense form] "FOUND" in the [main clause].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [CApable of CLEARing BACKground JUNK] - [ADjective PHRASE as a post-MODifier] của [NOUN as HEAD] "appliCAtion" để quét và xác định năng lực, đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10">Inner block: [Capable of CLEARing BACKground JUNK] - [ADjective PHRASE as a post-MODifier] of [NOUN as HEAD] "appliCAtion" to scan and identify the capabilities and characteristics of that object.</li>
       
         </ul>
       
