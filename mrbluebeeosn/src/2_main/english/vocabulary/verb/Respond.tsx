@@ -596,12 +596,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[reSPONDing to REcent conSUmer TRENDS], the COMpany LAUNCHED NEW FEAtures.</li>
+					<li>reSPONDing to REcent conSUmer TRENDS, the COMpany LAUNCHED NEW FEAtures.</li>
 					<li className="margin-bottom-20 list-none">[Để đáp ứng các xu hướng tiêu dùng gần đây], công ty đã ra mắt các tính năng mới.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [reSPONDing to REcent conSUmer TRENDS] - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "LAUNCHED" trong [MAIN CLAUSE], đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho toàn bộ [CLAUSE] chính. Bản chất là [GERund-PARTiciple CLAUSE] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM] "reSPONDing" kết hợp một hệ [prepoSITion PHRASE as COMPlentment] của "reSPONDing".</li>
+					<li className="list-none margin-bottom-10">External block: [reSPONDing to REcent conSUmer TRENDS]—[non-FInite CLAUSE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "LAUNCHED" within the [MAIN CLAUSE]—serves as a contextual block providing the overall cause or manner, modifying the entire main [CLAUSE]. Essentially, it is a [gerund-participle clause] standing independently at the beginning of the sentence, separated by a comma, in the [gerund-participle form] "reSPONDing" combined with a [prepositional phrase as a complement] of "reSPONDing."</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [to REcent conSUmer TRENDS] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing".</li>
+					<li className="list-none margin-bottom-10">Inner block: [to RECENT consumer TRENDS] - [prepositional PHRASE as a COMPLEMENT] of [intransitive VERB] in the [GERUND-PARTICIPLE FORM] "reSPONDing".</li>
 			
 				</ul>
 
@@ -615,9 +615,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the COMpany ALlocated [FUNDS reSPONDing to URgent MARket RISKS].</li>
 					<li className="margin-bottom-20 list-none">Công ty đã phân bổ [nguồn vốn để ứng phó với các rủi ro thị trường cấp bách].</li>
 			
-					<li className="list-none margin-bottom-10">External block: [FUNDS reSPONDing to URgent MARket RISKS] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "ALlocated" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10">External block: [FUNDS reSPONDing to URgent MARket RISKS] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PRETerite FORM] "ALlocated" in the [MAIN CLAUSE].</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [reSPONDing to URgent MARket RISKS] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "FUNDS". Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "reSPONDing" kết hợp với [prepoSITion PHRASE as a COMplement] "to URgent MARket RISKS" của [inTRANsitive VERB] ở "reSPONDing".</li>
+					<li className="list-none margin-bottom-10">Inner block: [reSPONDing to URgent MARket RISKS] - [non-FInite CLAUSE as a post-MODifier] of [NOUN as HEAD] "FUNDS". Essentially, this is a [gerund-participle clause] formed from the [gerund-participle form] "reSPONDing" combined with the [prepositional phrase as a complement] "to URgent MARket RISKS" of the [intransitive verb] in "reSPONDing".</li>
 			
 				</ul>
 
@@ -628,16 +628,16 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[to reSPOND efFECTively to CUStomer deMANDS], the STAFF exTENDed WORKing HOURS.</li>
+					<li>to reSPOND efFECTively to CUStomer deMANDS, the STAFF exTENDed WORKing HOURS.</li>
 					<li className="margin-bottom-20 list-none">[Để đáp ứng hiệu quả nhu cầu của khách hàng], các nhân viên đã kéo dài thời gian làm việc.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [to reSPOND efFECTively to CUStomer deMANDS] - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "exTENDed" trong [MAIN CLAUSE], đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ...". Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+					<li className="list-none margin-bottom-10">External block: [to reSPOND efFECTively to CUStomer deMANDS]—[non-FInite CLAUSE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "exTENDed" within the [MAIN CLAUSE], serving as a purpose-oriented contextual block that modifies the entire sequence that follows. Essentially, it is a [to-infinitive clause] formed by the [infinitive marker] "to" combined with the [verb phrase] "respond ...". The entire block is moved to the beginning of the sentence as a separate unit and separated by a comma.</li>
 					
 					<li className="list-none margin-bottom-10">Inner block:</li>
 
-					<li className="list-none margin-bottom-10">[efFECTively] - [ADverb PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND". Hình thành từ khối [LEXical VERB] nguyên bản "efFECT" qua biến thể mô tả đặc điểm và thêm hậu tố "ive" và "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+					<li className="list-none margin-bottom-10">[efFECTively] - [ADverb PHRASE as an ADjunct] of [inTRANsitive VERB] in [PLAIN FORM] "reSPOND". Formed from the original [LEXical VERB] "efFECT" through a variant describing its characteristics and the addition of the suffixes "ive" and "-ly" to alter its external form, thereby enhancing the contextual description of the manner.</li>
 
-					<li className="list-none margin-bottom-10">[to CUStomer deMANDS] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND".</li>
+					<li className="list-none margin-bottom-10">[to CUSTOMER REQUESTS] - [prepositional phrase as a complement] of [intransitive verb] in the [plain form] "respond."</li>
 			
 				</ul>
 
@@ -648,12 +648,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the techNICian arRIVED [to reSPOND to the NETwork aLERT].</li>
+					<li>the techNICian arRIVED to reSPOND to the NETwork aLERT.</li>
 					<li className="margin-bottom-20 list-none">Kỹ thuật viên đã đến [để xử lý cảnh báo mạng].</li>
 			
-					<li className="list-none margin-bottom-10">External block: [to reSPOND to the NETwork aLERT] - [non-FInite CLAUSE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "arRIVED" trong [MAIN CLAUSE], đảm nhận vai trò làm một khối bối cảnh mục đích. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
+					<li className="list-none margin-bottom-10">External block: [to reSPOND to the NETwork aLERT]—[non-FInite CLAUSE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "arRIVED" in the [MAIN CLAUSE], functioning as a purpose-oriented contextual block. Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "respond ...," which functions as an expanded complement at the end of the information chain.</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [to the NETwork aLERT] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND".</li>
+					<li className="list-none margin-bottom-10">Inner block: [to the NETwork aLERT] - [prepoSITion PHRASE as a COMplement] of [inTRANsitive VERB] in [PLAIN FORM] "reSPOND".</li>
 			
 				</ul>
 

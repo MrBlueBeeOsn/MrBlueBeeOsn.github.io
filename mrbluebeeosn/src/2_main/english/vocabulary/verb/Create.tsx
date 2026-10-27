@@ -596,12 +596,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[creAting a NEW VIsual iDENtity], the BRAND LAUNCHED its camPAIGN.</li>
+          <li>creAting a NEW VIsual iDENtity, the BRAND LAUNCHED its camPAIGN.</li>
           <li className="margin-bottom-20 list-none">[Tạo ra một hình ảnh thương hiệu mới], thương hiệu đã khởi động chiến dịch của mình.</li>
       
-          <li className="list-none margin-bottom-10">External block: [creAting a NEW VIsual iDENtity] - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "LAUNCHED" trong [MAIN CLAUSE], đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho toàn bộ [CLAUSE] chính. Bản chất là [GERund-PARTiciple CLAUSE] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM] "creAting" kết hợp một hệ [NOUN PHRASE] "a NEW VIsual iDENtity".</li>
+          <li className="list-none margin-bottom-10">External block: [creAting a NEW VIsual iDENtity]—[non-FInite CLAUSE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "LAUNCHED" within the [MAIN CLAUSE], serving as an overarching causal/modal context block that modifies the entire main [CLAUSE]. Essentially, it is a [gerund-participle clause] standing independently at the beginning of the sentence, separated by a comma, featuring the [gerund-participle form] "creating" combined with a [noun phrase] "a new visual identity."</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [a NEW VIsual iDENtity] - [NOUN PHRASE as a COMplement] [TRANsitive VERB] ở [GERund-PARTiciple FORM] "creAting".</li>
+          <li className="list-none margin-bottom-10">Inner block: [a NEW visual identity] - [NOUN PHRASE as a COMPLEMENT] [TRANSITIVE VERB] in the [GERUND-PARTICIPLE FORM] "creating".</li>
       
         </ul>
 
@@ -612,12 +612,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the Agency ALlocated [REsources creAting CUStom SOFTware TOOLS].</li>
+          <li>the Agency ALlocated REsources creAting CUStom SOFTware TOOLS.</li>
           <li className="margin-bottom-20 list-none">Cơ quan này đã phân bổ [nguồn lực để phát triển các công cụ phần mềm tùy chỉnh].</li>
       
-          <li className="list-none margin-bottom-10">External block: [REsources creAting CUStom SOFTware TOOLS] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "ALlocated" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [Resources for creating custom software tools]—[noun phrase as a complement] of [transitive verb] in the [past tense form] "allocated" in the [main clause].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [creAting CUStom SOFTware TOOLS] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "REsources". Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" kết hợp với [NOUN PHRASE as a COMplement] "CUStom SOFTware TOOLS" [TRANsitive VERB] ở "creAting".</li>
+          <li className="list-none margin-bottom-10">Inner block: [creating custom software tools]—[non-finite clause as a post-modifier] of [noun as head] "resources." Essentially, this is a [GERund-PARTiciple CLAUSE] composed of the [GERund-PARTiciple FORM] "creAting" combined with the [NOUN PHRASE as a COMplement] "CUStom SOFTware TOOLS," with "creAting" serving as the [TRANsitive VERB].</li>
       
         </ul>
 
@@ -628,12 +628,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[to creATE HIGH-QUAlity PROducts], the TEAM upGRAded their maCHINES.</li>
+          <li>to creATE HIGH-QUAlity PROducts, the TEAM upGRAded their maCHINES.</li>
           <li className="margin-bottom-20 list-none">[Để tạo ra các sản phẩm chất lượng cao], đội ngũ đã nâng cấp các máy móc của mình.</li>
       
-          <li className="list-none margin-bottom-10">External block: [to creATE HIGH-QUAlity PROducts] - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "upGRAded" trong [MAIN CLAUSE], đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ...". Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10">External block: [to create high-quality products]—[non-finite clause as an adjunct] of [transitive verb] in the [preterite form] "upgraded" within the [main clause]—serves as a purpose-oriented contextual block, providing context for the entire sequence that follows. Essentially, it is a [to-infinitive clause] formed by the [infinitive marker] "to" combined with the [verb phrase] "create ...". The entire structure is moved to the beginning of the sentence as a separate unit and separated by a comma.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [HIGH-QUAlity PROducts] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE".</li>
+          <li className="list-none margin-bottom-10">Inner block: [HIGH-QUAlity PROducts] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PLAIN FORM] "creATE".</li>
       
         </ul>
 
@@ -644,12 +644,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the deSIGNer STAYED [LATE to creATE the FInal PROtotype].</li>
+          <li>the deSIGNer STAYED LATE to creATE the FInal PROtotype.</li>
           <li className="margin-bottom-20 list-none">Nhà thiết kế đã ở lại [muộn để hoàn thiện mẫu thử nghiệm cuối cùng].</li>
       
-          <li className="list-none margin-bottom-10">External block: [LATE to creATE the FInal PROtotype] - [ADverb PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "STAYED" trong [MAIN CLAUSE], đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động.</li>
+          <li className="list-none margin-bottom-10">External block: [LATE to creATE the FInal PROtotype]—[ADverb PHRASE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "STAYED" in the [MAIN CLAUSE], serving as a purpose-based contextual block that directly modifies the action.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [to creATE the FInal PROtotype] - [non-FInite CLAUSE as a post-MODifier] của [ADverb as HEAD] "LATE", đảm nhận vai trò làm một khối bối cảnh mục đích. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
+          <li className="list-none margin-bottom-10">Inner block: [to create the final prototype]—[non-finite clause as a post-modifier] of [adverb as head] "late," functioning as a purpose-context block. Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "create ...," which functions as an extended modifier at the end of the information chain.</li>
       
         </ul>
 

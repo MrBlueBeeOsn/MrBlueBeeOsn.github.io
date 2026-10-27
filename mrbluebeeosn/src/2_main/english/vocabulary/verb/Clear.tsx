@@ -539,12 +539,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>they RAN [the SOFTware to CLEAR CACHE FILES].</li>
+          <li>they RAN the SOFTware to CLEAR CACHE FILES.</li>
           <li className="margin-bottom-20 list-none">Họ đã chạy [phần mềm để xóa các tập tin bộ nhớ đệm].</li>
       
-          <li className="list-none margin-bottom-10">External block: [the SOFTware to CLEAR CACHE FILES] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "RAN" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [the SOFTware to CLEAR CACHE FILES] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "RAN" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [to CLEAR CACHE FILES] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "SOFTware". Bản chất là [to-infiniTIval CLAUSE] bắt đầu bằng [infiniTIval MARKer] "to" kết hợp một [VERB PHRASE] "CLEAR CACHE FILES".</li>
+          <li className="list-none margin-bottom-10">Inner block: [to CLEAR CACHE FILES] - [non-finite clause as a post-modifier] of [noun as head] "SOFTware". Essentially, it is a [to-infinitive clause] beginning with the [infinitive marker] "to" combined with a [verb phrase] "CLEAR CACHE FILES".</li>
       
         </ul>
 
@@ -554,12 +554,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[to CLEAR the misunderSTANDing], she SENT an Email.</li>
+          <li>to CLEAR the misunderSTANDing, she SENT an Email.</li>
           <li className="margin-bottom-20 list-none">[Để làm rõ sự hiểu lầm], cô ấy đã gửi một email.</li>
       
-          <li className="list-none margin-bottom-10">External block: [to CLEAR the misunderSTANDing], - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "SENT" trong [MAIN CLAUSE], đảm nhận nhiệm vụ làm khối bối cảnh mục đích nhấn mạnh cho toàn bộ phần diện thông tin chính phía sau. Bản chất là [to-infiniTIval CLAUSE] bắt đầu bằng [infiniTIval MARKer] "to" kết hợp một [VERB PHRASE] "CLEAR the misunderSTANDing", được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10">External block: [to CLEAR the misunderSTANDing], - [non-finite CLAUSE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "SENT" within the [MAIN CLAUSE], serves as a contextual block intended to emphasize the entire main body of information that follows. Essentially, it is a [to-infinitive clause] beginning with the [infinitive marker] "to" combined with a [verb phrase] "clear the misunderstanding," which is moved to the beginning of the sentence and separated by a comma.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the misunderSTANDing] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "CLEAR".</li>
+          <li className="list-none margin-bottom-10">Inner block: [the misunderSTANDing] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PLAIN FORM] "CLEAR".</li>
       
         </ul>
       
@@ -570,12 +570,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the MANager SPENT [HOURS CLEARing OLD User PROfiles].</li>
+          <li>the MANager SPENT HOURS CLEARing OLD User PROfiles.</li>
           <li className="margin-bottom-20 list-none">Người quản lý đã dành [số giờ để xóa các hồ sơ người dùng cũ].</li>
       
-          <li className="list-none margin-bottom-10">External block: [HOURS CLEARing OLD User PROfiles] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "SPENT" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [HOURS CLEARING OLD User PROFILES] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE FORM] "SPENT" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [CLEARing OLD User PROfiles] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "HOURS". Bản chất là [GERund-PARTiciple CLAUSE] chứa [GERund-PARTiciple FORM] "CLEARing" kết hợp với [NOUN PHRASE as a COMplement] "OLD User PROfiles" của [TRANsitive VERB] ở "CLEARing".</li>
+          <li className="list-none margin-bottom-10">Inner block: [CLEARing OLD User PROfiles] - [non-finite clause as a post-modifier] of [noun as head] "HOURS". Essentially, this is a [GERund-PARTiciple CLAUSE] containing the [GERund-PARTiciple FORM] "CLEARing" combined with the [NOUN PHRASE as a COMPLEMENT] "OLD User PROFILES" of the [TRANsitive VERB] "CLEARing".</li>
       
         </ul>
 
@@ -586,18 +586,18 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[CLEARing the WORKspace EARly], he LEFT the OFFice with PEACE of MIND.</li>
+          <li>CLEARing the WORKspace EARly, he LEFT the OFFice with PEACE of MIND.</li>
           <li className="margin-bottom-20 list-none">[Dọn dẹp không gian làm việc từ sớm], anh ấy rời văn phòng với tâm trạng thoải mái.</li>
       
           <li className="list-none margin-bottom-10">External block:</li>
 
-          <li className="list-none margin-bottom-10">[CLEARing the WORKspace EARly] - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "LEFT" trong [MAIN CLAUSE], đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau. Bản chất là [GERund-PARTiciple CLAUSE] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy. Được rút gọn từ [FInite CLAUSE as an ADjunct] của [PRETerite FORM] "LEFT", mang [GERund-PARTiciple FORM] "CLEARing" kết hợp với [NOUN PHRASE as a COMplement] "the WORKspace" và [ADverb PHRASE as an ADjunct] "EARly" của [TRANsitive VERB] ở "CLEARing".</li>
+          <li className="list-none margin-bottom-10">[CLEARing the WORKspace EARly]—[non-finite CLAUSE as an ADjunct] of [TRANsitive VERB] in [PRETerite FORM] "LEFT" in [MAIN CLAUSE], serves as an overarching causal/modal context to modify the entire main information block that follows. Essentially, it is a [GERund-PARTiciple CLAUSE] standing independently at the beginning of the sentence, separated by a comma. It is a shortened form of the [FInite CLAUSE as an ADjunct] of [PRETerite FORM] "LEFT," carrying the [GERund-PARTiciple FORM] "CLEARing" combined with the [NOUN PHRASE as a COMPLEMENT] "the WORKspace" and the [ADVERB PHRASE as an ADJUNCT] "EARly" of the [TRANsitive VERB] in "CLEARing."</li>
           
           <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[the WORKspace] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "CLEARing".</li>
+          <li className="list-none margin-bottom-10">[the WORKspace] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [GERUND-PARTICIPLE FORM] "CLEARing".</li>
 
-          <li className="list-none margin-bottom-10">[EARly] - [ADverb PHRASE as an ADjunct] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "CLEARing".</li>
+          <li className="list-none margin-bottom-10">[EARly] - [ADverb PHRASE as an ADjunct] of [TRANsitive VERB] in the [GERund-PARTiciple FORM] "CLEARing".</li>
       
         </ul>
 
