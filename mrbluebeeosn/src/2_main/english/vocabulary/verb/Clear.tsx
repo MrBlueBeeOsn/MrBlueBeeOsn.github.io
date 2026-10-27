@@ -229,15 +229,15 @@ export default function CLEAR(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Là mã thiết lập chế độ, tâm thế hoặc khả năng, mức độ chắc chắn của hành động (như bắt buộc, có thể, nên).</li>
       
           <li className="list-none">[<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một khối thống nhất.</li>
+          <li className="margin-bottom-20 list-none">Hành động chỉ Thái độ mang tính Ý nhị, có Ý tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một khối thống nhất.</li>
 
           <li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>]: will, shall, can, must, may</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB] thống nhất.</li>
+          <li className="margin-bottom-20 list-none">Hành động chỉ Thái độ mang tính trực diện, Áp đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB] thống nhất.</li>
 
           <li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>]: HAVing NO TENSE or NO SUBject. Nó là non-FInite vì đã bị tước đi quyền làm [PRImary PREDicator] "be, do, have" hay [LEXical VERB] hay [ACTion VERB] của câu. Nó không hề thay đổi hình thái cho dù bạn có đổi câu này sang thời quá khứ, hiện tại hay tương lai.</li>
 
           <li className="list-none">[<strong>PLAIN FORM</strong>]: CLEAR</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
+          <li className="margin-bottom-20 list-none">Hành động Thuần khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
 
           <li className="list-none">• [<strong>infiniTIval MARKer</strong>]: to</li>
           <li className="list-none">• [<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
@@ -247,7 +247,7 @@ export default function CLEAR(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">• Nhóm VERB Tri Giác / Cảm Nhận: SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL</li>
       
           <li className="list-none">[<strong>to-infiniTIval</strong>]: to CLEAR</li>
-          <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau.</li>
+          <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động Thuần khiết đứng độc lập phía sau.</li>
 
           <li className="list-none">[<strong>GERund-PARTiciple FORM</strong>]: CLEARing</li>
           <li className="margin-bottom-20 list-none">Là mã hành động đã được biến đổi hình thái sang dạng chuyển động tiếp diễn (-ing), trực tiếp hiển thị bản chất thực thi của hành động.</li>
@@ -258,31 +258,31 @@ export default function CLEAR(): React.JSX.Element {
           <li value="6" className="margin-bottom-20">[<strong>FInite FORMS</strong>]: HAVing TENSE or SUBject</li>
 
           <li className="list-none">[<strong>PLAIN PRESent FORM</strong>]: CLEAR</li>
-          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they CLEAR.</li>
+          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [LEXical VERB] nằm trong từ điển. Ví dụ: they CLEAR.</li>
           
           <li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>]: CLEARS, is</li>
-          <li className="margin-bottom-20 list-none">Trạng thái [Thời] hiện tại và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
+          <li className="margin-bottom-20 list-none">Trạng thái Thời hiện tại và hành động Thuần khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
 
           <li className="list-none">[<strong>PRETerite FORM</strong>]: CLEARED</li>
-          <li className="margin-bottom-20 list-none">Trạng thái [Thời] quá khứ và hành động [Thuần] khiết hòa tan, là phân hệ tích hợp tối tân, nén cả dấu mốc Thời gian và bản chất Thực thi hành động vào trong một đơn vị từ đơn duy nhất.</li>
+          <li className="margin-bottom-20 list-none">Trạng thái Thời quá khứ và hành động Thuần khiết hòa tan, là phân hệ tích hợp tối tân, nén cả dấu mốc Thời gian và bản chất Thực thi hành động vào trong một đơn vị từ đơn duy nhất.</li>
       
           <li value="7" className="margin-bottom-20">[<strong>VERB PHRASE as PREDicator</strong>]: is CLEARing, was CLEARing</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đang [Tiếp] diễn. Trong đó, "is", "was" là [PRImary VERB as PREDicator] mang [FInite], còn "CLEARing" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and ongoing actions. In this context, "is" and "was" are [PRImary VERB as PREDicator] in [FInite] form, while "CLEARing" is an accompanying [non-FInite] form.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has CLEARD, had CLEARD</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đã trọn vẹn, [Hoàn] thành. Trong đó, "has", "had" là [PRImary VERB as PREDicator] mang [FInite], còn "CLEARD" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and actions that are complete and finished. In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "CLEARD" refers to accompanying [non-FInite] forms.</li>
       
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has been CLEARing, had been CLEARing</li>
-          <li className="margin-bottom-20 list-none">Là phân hệ cụm mã gồm nhiều thành phần thời phối hợp nhau để xử lý các bối cảnh thời gian phức tạp (như 🏃‍♂️ Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Tiếp Diễn, 🏃‍♂️ Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành Tiếp Diễn). Trong đó, "has", "had" là [PRImary VERB as PREDicator] mang [FInite], còn "been CLEARing" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">This is a code cluster subsystem consisting of multiple components that work together to handle complex temporal contexts (such as 🏃‍♂️ the Present Perfect Continuous Action Time Span, 🏃‍♂️ the Past Perfect Continuous Action Time Span). In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "been CLEARing" are accompanying [non-FInite] forms.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: would CLEAR, could CLEAR, should CLEAR</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết. Trong đó, "would", "could", "should" là [PRETerite MOdal auXILiary VERB] mang [FInite], còn "CLEAR" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">The linear integration of Attitude, Subtlety, Non-coercion, and Pure Action. In this context, "would," "could," and "should" are [PRETerite MODAL AUXILIARY VERBS] that take [FINITE] forms, while "CLEAR" refers to the accompanying [NON-FINITE] forms.</li>
       
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: will CLEAR, can CLEAR</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết. Trong đó, "will", "can" là [PREsent MOdal auXILiary VERB] mang [FInite], còn "CLEAR" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">The linear integration of Attitude, Actual Imposition, and Pure Action. In this context, "will" and "can" are [PRESent MOdal auXILiary VERBS] that take [FInite] forms, while "CLEAR" refers to the accompanying [non-FInite] forms.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: DID CLEAR, DOES CLEAR</li>
-          <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu. Trong đó, "DID", "DOES" là [PRImary VERB as PREDicator] mang [FInite], còn "CLEAR" là các dạng [non-FInite] đi kèm.</li>
+          <li className="margin-bottom-20 list-none">State, Time, and Action go hand in hand, separated by a space within the sentence. In this context, "DID" and "DOES" are [PRImary VERB as PREDicator] with [FInite] forms, while "CLEAR" is an accompanying [non-FInite] form.</li>
       
         </ol>
 
@@ -305,7 +305,7 @@ export default function CLEAR(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">[MODern GRAMmar] does not distinguish whether what follows a [TRANsitive prepoSITion] is a [CLAUSE] or a [NOUN PHRASE]. Anything following a [TRANsitive prepoSITion] is considered a [COMplement] and is called a [prepoSITion PHRASE], as in "because it RAINS." [Modern GRAMmar] does not use the term [conJUNCtion CLAUSE] because this is traditional grammar from hundreds of years ago.</li>
 			
 					<li value="2">[<strong>coORdinator</strong>]: and, or, but</li>
-					<li className="margin-bottom-20 list-none">Modern grammar considers only the three words "but," "or," and "and" to be [conjunctions]; the rest are [transitive prepositions] or other types of words.</li>
+					<li className="margin-bottom-20 list-none">Modern grammar considers only the three words "but," "or," and "and" to be [coORdinator]; the rest are [transitive prepositions] or other types of words.</li>
 
 					<li value="3">[<strong>suBORdinator</strong>]: that, if, whether</li>
 					<li className="list-none">Modern grammar recognizes only three words: "that," "if" (meaning "whether"), and "whether" (meaning "whether").</li>

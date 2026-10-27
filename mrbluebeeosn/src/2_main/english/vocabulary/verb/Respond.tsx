@@ -249,20 +249,20 @@ export default function reSPOND(): React.JSX.Element {
 					
 
 					<li value="3">[<strong>non-MOdal auXILiary VERB</strong>]: does, did, is, has, was, am, are</li>
-					<li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / [Thời] trong câu.</li>
+					<li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng Thời gian / Thời trong câu.</li>
 
 					<li value="4" className="margin-bottom-20">[<strong>MOdal auXILiary VERB</strong>]:</li>
 			
 					<li className="list-none">[<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
-					<li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một khối thống nhất.</li>
+					<li className="margin-bottom-20 list-none">Hành động chỉ Thái độ mang tính Ý nhị, có Ý tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một khối thống nhất.</li>
 
 					<li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>]: will, shall, can, must, may</li>
-					<li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB] thống nhất.</li>
+					<li className="margin-bottom-20 list-none">Hành động chỉ Thái độ mang tính trực diện, Áp đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB] thống nhất.</li>
 
 					<li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>]: HAVing NO TENSE or NO SUBject. Nó là non-FInite vì đã bị tước đi quyền làm [PRImary PREDicator] "be, do, have" hay [LEXical VERB] hay [ACTion VERB] của câu. Nó không hề thay đổi hình thái cho dù bạn có đổi câu này sang thời quá khứ, hiện tại hay tương lai.</li>
 
 					<li className="list-none">[<strong>PLAIN FORM</strong>]: reSPOND</li>
-					<li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
+					<li className="margin-bottom-20 list-none">Hành động Thuần khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
 
 					<li className="list-none">• [<strong>infiniTIval MARKer</strong>]: to</li>
 					<li className="list-none">• [<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
@@ -272,43 +272,43 @@ export default function reSPOND(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">• Nhóm VERB Tri Giác / Cảm Nhận: SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL</li>
 			
 					<li className="list-none">[<strong>to-infiniTIval</strong>]: to reSPOND</li>
-					<li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau.</li>
+					<li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động Thuần khiết đứng độc lập phía sau.</li>
 
 					<li className="list-none">[<strong>GERund-PARTiciple FORM</strong>]: reSPONDing</li>
-					<li className="margin-bottom-20 list-none">Hành động mang đuôi -ing thể hiện tính chất đang [Tiếp] diễn, kéo dài.</li>
+					<li className="margin-bottom-20 list-none">Hành động mang đuôi -ing thể hiện tính chất đang Tiếp diễn, kéo dài.</li>
 
 					<li className="list-none">[<strong>PAST PARTiciple FORM</strong>]: reSPONDed, been</li>
-					<li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành.</li>
+					<li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, Hoàn thành.</li>
 
 					<li value="6" className="margin-bottom-20">[<strong>FInite FORMS</strong>]: HAVing TENSE or SUBject</li>
 
 					<li className="list-none">[<strong>PLAIN PRESent FORM</strong>]: reSPOND</li>
-					<li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [GỐC ĐỘNG] nằm trong từ điển. Ví dụ: they reSPOND.</li>
+					<li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [LEXical VERB] nằm trong từ điển. Ví dụ: they reSPOND.</li>
 
 					<li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>]: reSPONDS</li>
-					<li className="margin-bottom-20 list-none">Trạng thái [Thời] hiện tại và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
+					<li className="margin-bottom-20 list-none">Trạng thái Thời hiện tại và hành động Thuần khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
 
 					<li className="list-none">[<strong>PRETerite FORM</strong>]: reSPONDed</li>
-					<li className="margin-bottom-20 list-none">Trạng thái [Thời] quá khứ và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
+					<li className="margin-bottom-20 list-none">Trạng thái Thời quá khứ và hành động Thuần khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
 			
 					<li value="7" className="margin-bottom-20">[<strong>VERB PHRASE as PREDicator</strong>]: is reSPONDing, was reSPONDing</li>
-					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đang [Tiếp] diễn. Trong đó, "is", "was" là [PRImary VERB as PREDicator] mang [FInite], còn "reSPONDing" là các dạng [non-FInite] đi kèm.</li>
+					<li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and ongoing actions. In this context, "is" and "was" are [PRImary VERB as PREDicator] in [FInite] form, while "reSPONDing" is an accompanying [non-FInite] form.</li>
 
 					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has reSPONDed, had reSPONDed</li>
-					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đã trọn vẹn, [Hoàn] thành. Trong đó, "has", "had" là [PRImary VERB as PREDicator] mang [FInite], còn "reSPONDed" là các dạng [non-FInite] đi kèm.</li>
+					<li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and actions that are complete and finished. In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "reSPONDed" is an accompanying [non-FInite] form.</li>
 			
 					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has been reSPONDing, had been reSPONDing</li>
-					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, tính chất đã trọn vẹn, [Hoàn] thành và tính chất đang [Tiếp] diễn. Trong đó, "has", "had" là [PRImary VERB as PREDicator] mang [FInite], còn "been reSPONDing" là các dạng [non-FInite] đi kèm.</li>
+					<li className="margin-bottom-20 list-none">The linear integration of the three energy levels: Time, the completed aspect, and the ongoing aspect. In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "been reSPONDing" is an accompanying [non-FInite] form.</li>
 
 					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: would reSPOND, could reSPOND, should reSPOND</li>
 
-					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết. Trong đó, "would", "could", "should" là [PRETerite MOdal auXILiary VERB] mang [FInite], còn "reSPOND" là các dạng [non-FInite] đi kèm.</li>
+					<li className="margin-bottom-20 list-none">The linear integration of Attitude, Subtlety, Non-coercion, and Pure Action. In this context, "would," "could," and "should" are [PRETerite MODAL AUXILIARY VERBS] with [FINITE] forms, while "RESPOND" refers to the accompanying [NON-FINITE] forms.</li>
 			
 					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: will reSPOND, can reSPOND</li>
-					<li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết. Trong đó, "will", "can" là [PREsent MOdal auXILiary VERB] mang [FInite], còn "reSPOND" là các dạng [non-FInite] đi kèm.</li>
+					<li className="margin-bottom-20 list-none">The linear integration of Attitude, Actual Imposition, and Pure Action. In this context, "will" and "can" are [PRESent MOdal auXILiary VERB] with [FInite] forms, while "respond" is an accompanying [non-FInite] form.</li>
 
 					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: DID reSPOND, DOES reSPOND</li>
-					<li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu. Trong đó, "DID", "DOES" là [PRImary VERB as PREDicator] mang [FInite], còn "reSPOND" là các dạng [non-FInite] đi kèm.</li>
+					<li className="margin-bottom-20 list-none">State, Time, and Action go hand in hand, separated by a space within the sentence. In this context, "DID" and "DOES" are [PRImary VERB as PREDicator] with [FInite] forms, while "reSPOND" is an accompanying [non-FInite] form.</li>
 			
 				</ol>
 			
@@ -331,7 +331,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">[MODern GRAMmar] does not distinguish whether what follows a [TRANsitive prepoSITion] is a [CLAUSE] or a [NOUN PHRASE]. Anything following a [TRANsitive prepoSITion] is considered a [COMplement] and is called a [prepoSITion PHRASE], as in "because it RAINS." [Modern GRAMmar] does not use the term [conJUNCtion CLAUSE] because this is traditional grammar from hundreds of years ago.</li>
 			
 					<li value="2">[<strong>coORdinator</strong>]: and, or, but</li>
-					<li className="margin-bottom-20 list-none">Modern grammar considers only the three words "but," "or," and "and" to be [conjunctions]; the rest are [transitive prepositions] or other types of words.</li>
+					<li className="margin-bottom-20 list-none">Modern grammar considers only the three words "but," "or," and "and" to be [coORdinator]; the rest are [transitive prepositions] or other types of words.</li>
 
 					<li value="3">[<strong>suBORdinator</strong>]: that, if, whether</li>
 					<li className="list-none">Modern grammar recognizes only three words: "that," "if" (meaning "whether"), and "whether" (meaning "whether").</li>
