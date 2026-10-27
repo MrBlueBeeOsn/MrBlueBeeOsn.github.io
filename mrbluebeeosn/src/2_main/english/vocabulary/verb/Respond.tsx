@@ -784,7 +784,7 @@ export default function reSPOND(): React.JSX.Element {
 
 
 
-			<h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro deCLARative CONtent CLAUSE]</h5>
+			<h5 className="margin-y-30 text-indent-whole">4.2 [ZEro deCLARative CONtent CLAUSE] Subsystem</h5>
 
 			<p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Forming the construction</strong>: [<strong>FInite CLAUSE as a COMplement</strong>]</p>
 
@@ -792,12 +792,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>they beLIEVE [the TEAM reSPONDed apPROpriately to the WARNing].</li>
-					<li className="margin-bottom-20 list-none">Họ tin rằng [đội đã phản ứng một cách thích hợp trước lời cảnh báo].</li>
+					<li>they beLIEVE the TEAM reSPONDed apPROpriately to the WARNing.</li>
+					<li className="margin-bottom-20 list-none">The team's response to the warning was deemed appropriate by them.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [the TEAM reSPONDed apPROpriately to the WARNing] - [FInite CLAUSE as a COMplement] của [inTRANsitive VERB] ở [PLAIN PRESent FORM] "beLIEVE" trong [MAIN CLAUSE]. Bản chất là [ZEro deCLARative CONtent CLAUSE] đã ẩn thành phần [SuBORdinator] định hướng "that", chỉ còn hiển thị trọn vẹn khối [NOUN as HEAD] "TEAM" và cụm hành động [FInite CLAUSE] "reSPONDed ..." phía sau.</li>
+					<li className="list-none margin-bottom-10">External block: [the TEAM reSPONDed apPROpriately to the WARNing] - [FInite CLAUSE as a COMplement] of [inTRANsitive VERB] in the [PLAIN PRESent FORM] "beLIEVE" in the [MAIN CLAUSE]. Essentially, the [zero declarative content clause] has hidden the [subordinator] "that," leaving only the complete [noun as head] "TEAM" and the action phrase [finite clause] "responded..." following it.</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [to the WARNing] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "reSPONDed", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the WARNing" phía sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [to the WARNING] - [prepositional phrase as a complement] of [intransitive verb] in the [past tense form] "responded," beginning with the [transitive preposition] "to" and followed by the [noun phrase] "the WARNING."</li>
 			
 				</ul>
 			
@@ -808,12 +808,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[the Email she reSPONDed to] conTAINED CRUcial inforMAtion.</li>
-					<li className="margin-bottom-20 list-none">[Email mà cô ấy đã trả lời] chứa thông tin quan trọng.</li>
+					<li>the Email she reSPONDed to conTAINED CRUcial inforMAtion.</li>
+					<li className="margin-bottom-20 list-none">Crucial information was contained in the email to which she responded.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [the Email she reSPONDed to] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "conTAINED" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10">External block: [the email she replied to] - [NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "was CONTAINED" in [MAIN CLAUSE].</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [she reSPONDed to] - [FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "Email". Bản chất là [ZEro RELative CLAUSE] đã ẩn thành phần "which", "that" vật thể đứng trước giữ lại khối [PROnoun as HEAD] "she" và [PRETerite FORM] "reSPONDed". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD] "Email" để làm rõ đặc điểm cho đối tượng này.</li>
+					<li className="list-none margin-bottom-10">Inner block: [she reSPONDed to] - [FInite CLAUSE as a post-MODifier] of [NOUN as HEAD] "Email". Essentially, this is a [zero relative clause] that has omitted the relative pronouns "which" or "that" preceding the object, retaining only the [pronoun as head] "she" and the [past tense form] "responded." It functions as a modifier placed immediately after the object [noun as head] "Email" to clarify a characteristic of this object.</li>
 			
 				</ul>
 			
@@ -824,12 +824,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[should the SERver reSPOND SLOWly], reSTART the appliCAtion.</li>
-					<li className="margin-bottom-20 list-none">[Nếu máy chủ phản hồi chậm], hãy khởi động lại ứng dụng.</li>
+					<li>should the SERver reSPOND SLOWly, reSTART the appliCAtion.</li>
+					<li className="margin-bottom-20 list-none">If the server responds slowly, restart the application.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [should the SERver reSPOND SLOWly] - [FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PLAIN FORM] "reSTART" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau. Bản chất là [inVERTed CLAUSE] vận hành ở trạng thái ẩn thành phần [suBORdinator] điều kiện "if" bằng giải pháp đảo [PRETerite MOdal auXILiary VERB] "should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [NOUN as HEAD] "SERver" và [FInite CLAUSE] "reSPOND SLOWly".</li>
+					<li className="list-none margin-bottom-10">External block: [should the SERver reSPOND SLOWly]—[FInite CLAUSE as an ADjunct] of [TRANsitive VERB] in [PLAIN FORM] "reSTART" within [MAIN CLAUSE], serving to establish a hypothetical/conditional context block and modifying the action and command that follow. Essentially, this is an [inverted clause] that operates in a hidden state as a conditional [subordinator] "if" by inverting the [preterite modal auxiliary verb] "should" to the front; although the surface structure changes, the essence remains fully intact [NOUN as HEAD] "SERver" and [FInite CLAUSE] "reSPOND SLOWly".</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [SLOWly] - [ADverb PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND". Hình thành từ khối [LEXical ADjective] nguyên bản "SLOW" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+					<li className="list-none margin-bottom-10">Inner block: [SLOWly]—[adverb phrase as an adjunct] of [intransitive verb] in the [plain form] "respond." Formed from the original [lexical adjective] "SLOW" through a variant describing a characteristic and the addition of the suffix "-ly" to alter its external form, thereby providing contextual support for the manner of action.</li>
 			
 				</ul>
 

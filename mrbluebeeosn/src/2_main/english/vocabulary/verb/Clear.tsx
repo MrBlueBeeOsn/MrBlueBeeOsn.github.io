@@ -721,10 +721,7 @@ export default function CLEAR(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro deCLARative CONtent CLAUSE]</h5>
-
-      <p className="margin-top-20 text-indent-whole">Ở phân hệ này, các thành phần liên kết đã được người bản ngữ chủ động lược bỏ để tối ưu tốc độ truyền tải thông tin. Về diện mạo vật lý, khối mã này nhìn hoàn toàn giống như một hệ con độc lập có đầy đủ cặp bài trùng [NOUN as HEAD] và [PREDicator HEAD].</p>
-
+      <h5 className="margin-y-30 text-indent-whole">4.2 [ZEro deCLARative CONtent CLAUSE] Subsystem</h5>
 
       <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>FInite CLAUSE as a COMplement</strong>]</p>
 
@@ -732,12 +729,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>i beLIEVE [you CLEARED the STORage SPACE].</li>
-          <li className="margin-bottom-20 list-none">Tôi tin rằng [bạn đã giải phóng dung lượng lưu trữ].</li>
+          <li>i beLIEVE you CLEARED the STORage SPACE.</li>
+          <li className="margin-bottom-20 list-none">Clearing the storage space is something I believe you did.</li>
       
-          <li className="list-none margin-bottom-10">External block: [you CLEARED the STORage SPACE] - [FInite CLAUSE as a COMplement] của [inTRANsitive VERB] ở [PLAIN PRESent FORM] "beLIEVE" trong [MAIN CLAUSE]. Bản chất là [ZEro deCLARative CONtent CLAUSE] đã ẩn [SuBORdinator] định hướng "that", chỉ còn hiển thị trọn vẹn khối [PROnoun as HEAD] "you" và cụm hành động [FInite CLAUSE] "CLEARED ..." phía sau..</li>
+          <li className="list-none margin-bottom-10">External block: [you CLEARED the STORage SPACE] - [FInite CLAUSE as a COMplement] of [inTRANsitive VERB] in the [PLAIN PRESent FORM] "beLIEVE" in the [MAIN CLAUSE]. Essentially, the [zero declarative content clause] has hidden the "that"-oriented [subordinator], leaving only the [pronoun as head] "you" and the action phrase [finite clause] "CLEARED ..." that follows fully visible.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the STORage SPACE] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "CLEARED".</li>
+          <li className="list-none margin-bottom-10">Inner block: [the STORage SPACE] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PRETerite FORM] "CLEARED".</li>
       
         </ul>
       
@@ -748,12 +745,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the DESK the emPLOYee CLEARED] LOOKED VERy NEAT.</li>
-          <li className="margin-bottom-20 list-none">[Bàn làm việc mà nhân viên đã dọn dẹp] trông rất gọn gàng.</li>
+          <li>the DESK the emPLOYee CLEARED LOOKED VERy NEAT.</li>
+          <li className="margin-bottom-20 list-none">The desk that the employee had cleared looked very neat.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the DESK the emPLOYee CLEARED] - [NOUN PHRASE as SUBject] của [inTRANsitive VERB] ở [PRETerite FORM] "LOOKED" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [the DESK the emPLOYee CLEARED] - [NOUN PHRASE as SUBJECT] of [inTRANsitive VERB] in the [PRETerite FORM] "LOOKED" in [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the emPLOYee CLEARED] - [FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "DESK". Bản chất là [ZEro RELative CLAUSE] đã ẩn mã liên kết "which", "that" vật thể đứng trước, giữ lại khối [NOUN as HEAD] "emPLOYee" và [PRETerite FORM] "CLEARED". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD] "DESK" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none margin-bottom-10">Inner block: [the emPLOYee CLEARED] - [FInite CLAUSE as a post-MODifier] of [NOUN as HEAD] "DESK". Essentially, this is a [Zero Relative Clause] that omits the linking words "which" or "that" preceding the object, retaining the [NOUN as HEAD] "employee" and the [Past Tense Form] "cleared". It functions as a modifier placed immediately after the [NOUN as HEAD] "DESK" to clarify a characteristic of this object.</li>
       
         </ul>
       
@@ -764,12 +761,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[should you CLEAR the PENDing TASKS toDAY], we will START the NEW PLAN.</li>
-          <li className="margin-bottom-20 list-none">[Nếu bạn hoàn thành các nhiệm vụ đang chờ xử lý trong hôm nay], chúng tôi sẽ bắt đầu thực hiện kế hoạch mới.</li>
+          <li>should you CLEAR the PENDing TASKS toDAY, we will START the NEW PLAN.</li>
+          <li className="margin-bottom-20 list-none">If you clear the pending tasks today, we will start the new plan.</li>
       
-          <li className="list-none margin-bottom-10">External block: [should you CLEAR the PENDing TASKS toDAY] - [FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PLAIN FORM] "START" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau. Bản chất là [inVERTed CLAUSE] vận hành ở trạng thái ẩn [suBORdinator] điều kiện "if" bằng giải pháp đảo [PRETerite MOdal auXILiary VERB] "should" lên trước. Tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [PROnoun as HEAD] "you" và [FInite CLAUSE] "CLEAR the PENDing TASKS toDAY".</li>
+          <li className="list-none margin-bottom-10">External block: [should you CLEAR the PENDING TASKS TODAY]—[Finite CLAUSE as an ADjunct] of [TRANsitive VERB] in [PLAIN FORM] "START" in [MAIN CLAUSE], serves to establish the hypothetical/conditional context block that modifies the entire main information section that follows. Essentially, this is an [inverted clause] that functions as a hidden [subordinator] for the conditional "if" by inverting the [preterite modal auxiliary verb] "should" to the front. Although the surface structure is transformed, the core remains intact with [PRONOUN as HEAD] "you" and [FINITE CLAUSE] "CLEAR the PENDING TASKS TODAY".</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the PENDing TASKS toDAY] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "CLEAR".</li>
+          <li className="list-none margin-bottom-10">Inner block: [the PENDing TASKS toDAY] - [Noun phrase as a complement] of [transitive verb] in the [plain form] "CLEAR".</li>
       
         </ul>
 

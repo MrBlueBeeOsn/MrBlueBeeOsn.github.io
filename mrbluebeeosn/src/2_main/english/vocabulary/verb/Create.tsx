@@ -782,7 +782,7 @@ export default function creATE(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro deCLARative CONtent CLAUSE]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 [ZEro deCLARative CONtent CLAUSE] Subsystem</h5>
 
       <p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Forming the construction</strong>: [<strong>FInite CLAUSE as a COMplement</strong>]</p>
 
@@ -790,12 +790,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>they beLIEVE [the Agency creAted a reLIable SYStem].</li>
-          <li className="margin-bottom-20 list-none">Họ tin rằng [cơ quan này đã xây dựng một hệ thống đáng tin cậy].</li>
+          <li>they beLIEVE the Agency creAted a reLIable SYStem.</li>
+          <li className="margin-bottom-20 list-none">The agency's system is considered reliable by them.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the Agency creAted a reLIable SYStem] - [FInite CLAUSE as a COMplement] của [inTRANsitive VERB] ở [PLAIN PRESent FORM] "beLIEVE" trong [MAIN CLAUSE]. Bản chất là [ZEro deCLARative CONtent CLAUSE] đã ẩn thành phần [SuBORdinator] định hướng "that", chỉ còn hiển thị trọn vẹn khối [NOUN as HEAD] "Agency" và cụm hành động [FInite CLAUSE] "creAted ..." phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [the Agency created a reliable system]—[finite clause as a complement] of [intransitive verb] in the [plain present form] "believe" in the [main clause]. Essentially, the [zero declarative content clause] has hidden the [subordinator] "that," leaving only the complete [noun as head] "Agency" and the action phrase [finite clause] "created ..." following it.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [a reLIable SYStem] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "creAted".</li>
+          <li className="list-none margin-bottom-10">Inner block: [a reliable system]—[NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "created."</li>
       
         </ul>
       
@@ -806,12 +806,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the deSIGN she creAted for the CLIent] WON a presTIgious aWARD.</li>
-          <li className="margin-bottom-20 list-none">[Thiết kế mà cô ấy đã tạo ra cho khách hàng] đã giành được một giải thưởng danh giá.</li>
+          <li>the deSIGN she creAted for the CLIent WON a presTIgious aWARD.</li>
+          <li className="margin-bottom-20 list-none">The design she created won an award. It was a prestigious one.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the deSIGN she creAted for the CLIent] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "WON" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [the design she created for the client]—[NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "WON" in [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [she creAted for the CLIent] - [FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "deSIGN". Bản chất là [ZEro RELative CLAUSE] đã ẩn thành phần "which", "that" vật thể đứng trước, giữ lại khối [PROnoun as HEAD] "she" và cụm [FInite CLAUSE] "creAted for the CLIent". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD] "deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none margin-bottom-10">Inner block: [she created for the client] - [finite clause as a post-modifier] of [noun as head] "design". Essentially, the [zero relative clause] has omitted the preceding "which" or "that," retaining the [pronoun as head] "she" and the [finite clause] "created for the client." It functions as a modifier placed immediately after the [NOUN as HEAD] "deSIGN" to clarify a characteristic of this object.</li>
       
         </ul>
       
@@ -822,12 +822,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[should the PROgram creATE TECHnical ERrors], aLERT the SYStem adMINistrator.</li>
-          <li className="margin-bottom-20 list-none">[Nếu chương trình gặp lỗi kỹ thuật], hãy thông báo cho quản trị viên hệ thống.</li>
+          <li>should the PROgram creATE TECHnical ERrors, aLERT the SYStem adMINistrator.</li>
+          <li className="margin-bottom-20 list-none">The system administrator should be alerted if the program creates technical errors.</li>
       
-          <li className="list-none margin-bottom-10">External block: [should the PROgram creATE TECHnical ERrors] - [FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PLAIN FORM] "aLERT" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau. Bản chất là [inVERTed CLAUSE] vận hành ở trạng thái ẩn thành phần [suBORdinator] điều kiện "if" bằng giải pháp đảo [PRETerite MOdal auXILiary VERB] "should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [NOUN as HEAD] "PROgram" và [FInite CLAUSE] "creATE TECHnical ERrors".</li>
+          <li className="list-none margin-bottom-10">External block: [should the program create technical errors]—[finite clause as an adjunct] of [transitive verb] in [plain form] "alert" in [main clause], serving to establish a hypothetical/conditional context and modify the action and command that follow. Essentially, it is an [inverted clause] that operates in a hidden state as a [subordinator] for the conditional "if" by inverting the [preterite modal auxiliary verb] "should" to the front; although the surface structure changes, the essence remains fully intact [NOUN as HEAD] "PROgram" and [FInite CLAUSE] "creATE TECHnical ERrors".</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [TECHnical ERrors] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE".</li>
+          <li className="list-none margin-bottom-10">Inner block: [TECHnical ERrors] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PLAIN FORM] "creATE".</li>
       
         </ul>
 
