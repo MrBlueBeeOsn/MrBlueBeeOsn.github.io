@@ -221,7 +221,7 @@ export default function creATE(): React.JSX.Element {
               <li>the TEAM should creATE a NEW MARketing STRATegy imMEdiately.</li>
               <li className="margin-bottom-20 list-none">The team should make a new marketing plan now.</li>
 
-              <li className="list-none margin-bottom-10">Block: [creATE] - [Plain Form], formed from the original [Lexical Verb] "create," is followed by the [PRETerite MOdal auXILiary VERB] "should" to carry out the action directed toward the direct recipient "a NEW Marketing STRATegy."</li>
+              <li className="list-none margin-bottom-10">Block: [creATE] - [Plain Form], formed from the original [Lexical Verb] "create", is followed by the [PRETerite MOdal auXILiary VERB] "should" to carry out the action directed toward the direct recipient "a NEW Marketing STRATegy."</li>
           
             </ul>
 
@@ -258,7 +258,7 @@ export default function creATE(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">"to" appears at the beginning of a [Clause] and is considered a grammatical device that structures, permits, and introduces a [Clause]. Examples: • it is esSENtial [<strong>to</strong> mainTAIN neuTRALity]. • they deCIded [<strong>to</strong> deLAY the dePARTure]. • she LEFT EARly in <strong>or</strong>der [<strong>to</strong> CATCH the TRAIN].</li>
 					
 					<li className="list-none">[<strong>TRANsitive PrepoSITion</strong>]: to</li>
-					<li className="margin-bottom-20 list-none">"to" is followed by a [Noun Phrase as a Complement] for the [Transitive Preposition]"to." For example: e WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
+					<li className="margin-bottom-20 list-none">"to" is followed by a [Noun Phrase as a Complement] for the [Transitive Preposition] "to." For example: e WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
 					
 					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>] (Particles): OUT, IN, WITH, BACK</li>
 					<li className="margin-bottom-20 list-none">[InTRANsitive PrepoSITions] such as OUT, IN, UP, and BACK, when used alone, follow the verb to specify the direction of movement, scope of effect, intensity, or whether the action is ongoing or completed. For example: turN OFF the LIGHT. / he saT DOWN.</li>
@@ -276,10 +276,10 @@ export default function creATE(): React.JSX.Element {
 
           <li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>]: <strong>HAVing NO TENSE or NO SUBject</strong>.</li>
 
-          <li className="margin-bottom-20 list-none">It is non-finite because it has been stripped of the role of [primary predicate] ("be," "do," "have"), [lexical verb], or [action verb] in the sentence. It does not change its form regardless of whether you conjugate this sentence in the past, present, or future tense.</li>
+          <li className="margin-bottom-20 list-none">It is non-finite because it has been stripped of the role of [primary predicate] ("be", "do", "have"), [lexical verb], or [action verb] in the sentence. It does not change its form regardless of whether you conjugate this sentence in the past, present, or future tense.</li>
 
           <li className="list-none">[<strong>PLAIN FORM</strong>]: cREATE</li>
-          <li className="margin-bottom-20 list-none">The Pure Action stands alone, completely liberated and without the accompanying "to," and usually follows immediately after:</li>
+          <li className="margin-bottom-20 list-none">The Pure Action stands alone, completely liberated and without the accompanying "to", and usually follows immediately after:</li>
 
           <li className="list-none">• [<strong>infiniTIval MARKer</strong>]: to</li>
           <li className="list-none">• [<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
@@ -318,7 +318,7 @@ export default function creATE(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">The linear integration of the three energy levels: Time, the completed state, and the ongoing state. In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "been creAting" is an accompanying [non-FInite] form.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: would creATE, could creATE, should creATE</li>
-          <li className="margin-bottom-20 list-none">The linear integration of Attitude, Subtlety, Non-Coercion, and Pure Action. In this context, "would," "could," and "should" are [PRETerite MODAL AUXILIARY VERBS] that take [Finite] forms, while "CREATE" is an accompanying [NON-FINITE] form.</li>
+          <li className="margin-bottom-20 list-none">The linear integration of Attitude, Subtlety, Non-Coercion, and Pure Action. In this context, "would", "could", and "should" are [PRETerite MODAL AUXILIARY VERBS] that take [Finite] forms, while "CREATE" is an accompanying [NON-FINITE] form.</li>
       
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: will creATE, can creATE</li>
           <li className="margin-bottom-20 list-none">The linear integration of Attitude, Actual Imposition, and Pure Action. In this context, "will" and "can" are [PRESent MOdal auXILiary VERBS] that take [FInite] forms, while "create" takes [non-FInite] forms.</li>
@@ -347,10 +347,10 @@ export default function creATE(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">[MODern GRAMmar] does not distinguish whether what follows a [Transitive Preposition]is a [Clause] or a [Noun Phrase]. Anything following a [Transitive Preposition]is considered a [Complement] and is called a [prepoSITion PHRASE], as in "because it RAINS." [Modern Grammar] does not use the term [Conjunction Clause] because this is traditional grammar from hundreds of years ago.</li>
 			
 					<li value="2">[<strong>coORdinator</strong>]: and, or, but</li>
-					<li className="margin-bottom-20 list-none">Modern grammar considers only the three words "but," "or," and "and" to be [coORdinator]; the rest are [transitive prepositions] or other types of words.</li>
+					<li className="margin-bottom-20 list-none">Modern grammar considers only the three words "but", "or", and "and" to be [coORdinator]; the rest are [transitive prepositions] or other types of words.</li>
 
 					<li value="3">[<strong>suBORdinator</strong>]: that, if, whether</li>
-					<li className="list-none">Modern grammar recognizes only three words: "that," "if" (meaning "whether"), and "whether" (meaning "whether").</li>
+					<li className="list-none">Modern grammar recognizes only three words: "that", "if" (meaning "whether"), and "whether" (meaning "whether").</li>
 			
 				</ol>
       
@@ -432,7 +432,7 @@ export default function creATE(): React.JSX.Element {
           <li>creAting MODern DIGital soLUtions reQUIres DEEP TECHnical KNOWledge.</li>
           <li className="margin-bottom-20 list-none">Making modern digital solutions requires a lot of technical knowledge.</li>
       
-          <li className="list-none margin-bottom-10">External block: [creAting MODern DIGital soLUtions] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "reQUIres" in the [Main Clause], serving as the main topic at the beginning of the sentence. Essentially, it is a [Gerund-Participle Clause] formed from the [Gerund-Participle Form] "creating," which incorporates an extended data section following it.</li>
+          <li className="list-none margin-bottom-10">External block: [creAting MODern DIGital soLUtions] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "reQUIres" in the [Main Clause], serving as the main topic at the beginning of the sentence. Essentially, it is a [Gerund-Participle Clause] formed from the [Gerund-Participle Form] "creating", which incorporates an extended data section following it.</li>
           
           <li className="list-none margin-bottom-10">Inner block: [MODern DIGital soLUtions] - [Noun Phrase as a Complement] directly receives the object of [Transitive Verb] in "creAting."</li>
       
@@ -449,7 +449,7 @@ export default function creATE(): React.JSX.Element {
           <li>the STARTup TEAM priORitized creAting enGAging User CONtent.</li>
           <li className="margin-bottom-20 list-none">The startup team decided that making interesting content for users was the most important thing to do.</li>
       
-          <li className="list-none margin-bottom-10">External block: [creating engaging user content] - [non-finite clause as a catenaive complement] of [Transitive Verb] in the [Preterite Form] "prioritized" in the [Main Clause] directly addresses the target. Essentially, it is a [Gerund-Participle Clause] formed from the [Gerund-Participle Form] "creating," with an additional extended data segment appended to it.</li>
+          <li className="list-none margin-bottom-10">External block: [creating engaging user content] - [non-finite clause as a catenaive complement] of [Transitive Verb] in the [Preterite Form] "prioritized" in the [Main Clause] directly addresses the target. Essentially, it is a [Gerund-Participle Clause] formed from the [Gerund-Participle Form] "creating", with an additional extended data segment appended to it.</li>
           
           <li className="list-none margin-bottom-10">Inner block: [enGAging User CONtent] - [Noun Phrase as a Complement] of [Transitive Verb] in "creAting." In this case, "enGAging" is [GERund-PARTiciple as a pre-MODifier] of [Noun as Head] "CONtent."</li>
       
@@ -481,7 +481,7 @@ export default function creATE(): React.JSX.Element {
           <li>the COMpany aims to creATE INnovative PROducts for conSUmers.</li>
           <li className="margin-bottom-20 list-none">The company's goal is to create new and innovative products for consumers.</li>
       
-          <li className="list-none margin-bottom-10">External block: [to create innovative products for consumers] - [non-finite clause as a catenaive complement] of [catenaive verb] in the [3rd Singular Present Form] "aims" in the [Main Clause]. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "create ...," with an additional extended data segment appended afterward.</li>
+          <li className="list-none margin-bottom-10">External block: [to create innovative products for consumers] - [non-finite clause as a catenaive complement] of [catenaive verb] in the [3rd Singular Present Form] "aims" in the [Main Clause]. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "create ...", with an additional extended data segment appended afterward.</li>
           
           <li className="list-none margin-bottom-10">Inner block: [INnovative PROducts for conSUmers] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Form] "creATE." The phrase "for conSUmers" inside is a [Preposition Phrase as a Post-modifier] of [Noun as Head] "PROducts."</li>
       
@@ -497,7 +497,7 @@ export default function creATE(): React.JSX.Element {
           <li>it is esSENtial to creATE STRONG seCUrity PROtocols.</li>
           <li className="margin-bottom-20 list-none">Creating strong security protocols is essential.</li>
       
-          <li className="list-none margin-bottom-10">External block: [to create STRONG security protocols] - [non-finite clause as an exposed subject] of [Copular Intransitive Verb] in the [3rd singular present "be" form] "is" in the [Main Clause], modifying the [dummy pronoun] "it." Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "create ...," with an additional data segment appended afterward.</li>
+          <li className="list-none margin-bottom-10">External block: [to create STRONG security protocols] - [non-finite clause as an exposed subject] of [Copular Intransitive Verb] in the [3rd singular present "be" form] "is" in the [Main Clause], modifying the [dummy pronoun] "it." Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "create ...", with an additional data segment appended afterward.</li>
           
           <li className="list-none margin-bottom-10">Inner block: [STRONG security protocols] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Form] "create."</li>
       
@@ -518,7 +518,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [the engineer creating the core software] - [Noun Phrase as Subject] of [Transitive Verb] in the [Preterite Form] "FOUND" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [creAting the CORE SOFTware] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "engiNEER" to describe the characteristics of and provide additional information about that object. Essentially, it is a [Gerund-Participle Clause] constructed from the [Gerund-Participle Form] "creAting," incorporating an extended data field that indicates an ongoing active process.</li>
+          <li className="list-none margin-bottom-10">Inner block: [creAting the CORE SOFTware] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "engiNEER" to describe the characteristics of and provide additional information about that object. Essentially, it is a [Gerund-Participle Clause] constructed from the [Gerund-Participle Form] "creAting", incorporating an extended data field that indicates an ongoing active process.</li>
       
         </ul>
       
@@ -535,7 +535,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [the architect to create the building blueprints] - [Noun Phrase as Subject] of the action [Verb Phrae as Prediate] "has been appointed" in [Main Clause]. In this case, the [Non-modal Auxiliary Verb] “has” is the [primary verb as predicate] functioning as a [finite form], while “been appointed” is the accompanying [non-finite form], and “[transitive verb] ‘appointed’” is the main verb.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [to create the building blueprints] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "architect" to highlight and display the proactive, future-oriented characteristics of that object. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "create ...," with an additional extended data segment appended afterward.</li>
+          <li className="list-none margin-bottom-10">Inner block: [to create the building blueprints] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "architect" to highlight and display the proactive, future-oriented characteristics of that object. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "create ...", with an additional extended data segment appended afterward.</li>
       
         </ul>
       
@@ -551,7 +551,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [the artwork to be created by the master] - [Noun Phrase as Subject] functions as the subject of [PREDICATOR] "will be exhibited." In this case, "will" is a [modal auxiliary verb as predicate] that is [finite], while "be exhibited" is a [Non-finite Form] that accompanies it.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [to be created by the Master] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "artwork" to describe the state of being about to be affected. Essentially, it is a [To-infinitive Clause] constructed from the [Infinitive Marker] "to" combined with the [Verb Phrase] "be created by the Master," containing the [Plain Form] "be" and the [Past Participle Form] "created" to express the future passive state.</li>
+          <li className="list-none margin-bottom-10">Inner block: [to be created by the Master] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "artwork" to describe the state of being about to be affected. Essentially, it is a [To-infinitive Clause] constructed from the [Infinitive Marker] "to" combined with the [Verb Phrase] "be created by the Master", containing the [Plain Form] "be" and the [Past Participle Form] "created" to express the future passive state.</li>
       
         </ul>
       
@@ -567,7 +567,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [the SYSTEM created by the TECH TEAM] - [Noun Phrase as Subject] of the action [Verb Phrae as Prediate] "was LAUNCHED" in [Main Clause]. In this case, "was" is the [PRIMARY VERB as PREDICATOR] functioning as a [Finite] form, while the [Transitive Verb] "LAUNCHED" is a [NON-FINITE] form that accompanies it, indicating the object that was launched.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [created by the TECH TEAM] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "System" to describe the completed passive state of this object. Essentially, it is a [past participle clause] formed from the [Past Participle Form] "created," expanded in the passive voice in the past tense.</li>
+          <li className="list-none margin-bottom-10">Inner block: [created by the TECH TEAM] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "System" to describe the completed passive state of this object. Essentially, it is a [past participle clause] formed from the [Past Participle Form] "created", expanded in the passive voice in the past tense.</li>
       
         </ul>
       
@@ -617,7 +617,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [Resources for creating custom software tools] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "allocated" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [creating custom software tools] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "resources." Essentially, this is a [Gerund-Participle Clause] composed of the [Gerund-Participle Form] "creAting" combined with the [Noun Phrase as a Complement] "CUStom SOFTware TOOLS," with "creAting" serving as the [Transitive Verb].</li>
+          <li className="list-none margin-bottom-10">Inner block: [creating custom software tools] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "resources." Essentially, this is a [Gerund-Participle Clause] composed of the [Gerund-Participle Form] "creAting" combined with the [Noun Phrase as a Complement] "CUStom SOFTware TOOLS", with "creAting" serving as the [Transitive Verb].</li>
       
         </ul>
 
@@ -649,7 +649,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [LATE to creATE the FInal PROtotype] - [Adverb Phrase as an Adjunct] of [Intransitive Verb] in the [Preterite Form] "STAYED" in the [Main Clause], serving as a purpose-based contextual block that directly modifies the action.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [to create the final prototype] - [Non-finite Clause as a Post-modifier] of [adverb as head] "late," functioning as a purpose-context block. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "create ...," which functions as an extended modifier at the end of the information chain.</li>
+          <li className="list-none margin-bottom-10">Inner block: [to create the final prototype] - [Non-finite Clause as a Post-modifier] of [adverb as head] "late", functioning as a purpose-context block. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "create ...", which functions as an extended modifier at the end of the information chain.</li>
       
         </ul>
 
@@ -670,9 +670,9 @@ export default function creATE(): React.JSX.Element {
           
           <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[in the creation of the NEW PORTAL] - [prepositional phrase as a post-modifier] of [Noun as Head] in [derivative noun] "delay," to indicate and describe the scope of that object's belonging, beginning with [Transitive Preposition]"in."</li>
+          <li className="list-none margin-bottom-10">[in the creation of the NEW PORTAL] - [prepositional phrase as a post-modifier] of [Noun as Head] in [derivative noun] "delay", to indicate and describe the scope of that object's belonging, beginning with [Transitive Preposition] "in."</li>
 
-          <li className="list-none margin-bottom-10">[of the NEW Portal] - [Preposition Phrase as a Complement] of [Noun as Head] in [verbal noun] "creation" is formed from [Transitive Verb] "create," followed by [Transitive Preposition]"of" and the [Noun Phrase] "the NEW Portal" that follows.</li>
+          <li className="list-none margin-bottom-10">[of the NEW Portal] - [Preposition Phrase as a Complement] of [Noun as Head] in [verbal noun] "creation" is formed from [Transitive Verb] "create", followed by [Transitive Preposition] "of" and the [Noun Phrase] "the NEW Portal" that follows.</li>
       
         </ul>
       
@@ -686,9 +686,9 @@ export default function creATE(): React.JSX.Element {
           <li>for the creAtion of BETter SERvices, the FIRM inVESTment inCREASED.</li>
           <li className="margin-bottom-20 list-none">The company put more money into its services to create better ones.</li>
       
-          <li className="list-none margin-bottom-10">External block: [for the creation of BETTER SERVICES] - [Preposition Phrase as an Adjunct] of [intransitive verb] in the [past tense] "increased" in the [Main Clause] serves to establish the causal/instrumental context block, beginning with the [Transitive Preposition]"for" followed by the [Noun Phrase as a Complement] "the creation..." afterward. The entire block is moved to the beginning of the sentence as a standalone unit and separated by a comma.</li>
+          <li className="list-none margin-bottom-10">External block: [for the creation of BETTER SERVICES] - [Preposition Phrase as an Adjunct] of [intransitive verb] in the [past tense] "increased" in the [Main Clause] serves to establish the causal/instrumental context block, beginning with the [Transitive Preposition] "for" followed by the [Noun Phrase as a Complement] "the creation..." afterward. The entire block is moved to the beginning of the sentence as a standalone unit and separated by a comma.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [of BETter SERvices] - [Preposition Phrase as a Complement] of [Noun as Head] in [verbal noun] "creation" is formed from [Transitive Verb] "create," followed by [Transitive Preposition]"of" and the [Noun Phrase] "BETter SERvices" that follows.</li>
+          <li className="list-none margin-bottom-10">Inner block: [of BETter SERvices] - [Preposition Phrase as a Complement] of [Noun as Head] in [verbal noun] "creation" is formed from [Transitive Verb] "create", followed by [Transitive Preposition] "of" and the [Noun Phrase] "BETter SERvices" that follows.</li>
       
         </ul>
 
@@ -702,9 +702,9 @@ export default function creATE(): React.JSX.Element {
           <li>the TEAM GAthered for the creAtion of a NEW PROject PLAN.</li>
           <li className="margin-bottom-20 list-none">The team got together to make a new plan for a project.</li>
       
-          <li className="list-none margin-bottom-10">External block: [for the creation of a NEW PROJECT PLAN] - [Preposition Phrase as an Adjunct] of [intransitive verb] in the [Preterite Form] "gathered" in the [Main Clause], serving as a purpose/reason clause, introduced by the [Transitive Preposition]"for".</li>
+          <li className="list-none margin-bottom-10">External block: [for the creation of a NEW PROJECT PLAN] - [Preposition Phrase as an Adjunct] of [intransitive verb] in the [Preterite Form] "gathered" in the [Main Clause], serving as a purpose/reason clause, introduced by the [Transitive Preposition] "for".</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [of a NEW PROJECT PLAN] - [Preposition Phrase as a Complement] of [Noun as Head] in [verbal noun] "creation," formed from [Transitive Verb] "create," followed by [Transitive Preposition]"of" and the [Noun Phrase] "a NEW PROject PLAN" that follows.</li>
+          <li className="list-none margin-bottom-10">Inner block: [of a NEW PROJECT PLAN] - [Preposition Phrase as a Complement] of [Noun as Head] in [verbal noun] "creation", formed from [Transitive Verb] "create", followed by [Transitive Preposition] "of" and the [Noun Phrase] "a NEW PROject PLAN" that follows.</li>
       
         </ul>
 
@@ -774,7 +774,7 @@ export default function creATE(): React.JSX.Element {
           <li>the VENture sucCEEded be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion.</li>
           <li className="margin-bottom-20 list-none">The venture was successful because the founder had a clear vision for it.</li>
       
-          <li className="list-none margin-bottom-10">External block: [because the FOUNder creAted a CLEAR VIsion] - [Preposition Phrase as an Adjunct] of [Intransitive Verb] in the [Preterite Form] "sucCEEded" in the [Main Clause]. Beginning with the [Transitive Preposition]"because," which serves as the cause, containing [Noun as Head] "FOUNder" and the action phrase [Finite Clause] "creAted ..." marked by the past tense, establishing a context module to modify the preceding main clause [Main Clause] "the VENture sucCEEded."</li>
+          <li className="list-none margin-bottom-10">External block: [because the FOUNder creAted a CLEAR VIsion] - [Preposition Phrase as an Adjunct] of [Intransitive Verb] in the [Preterite Form] "sucCEEded" in the [Main Clause]. Beginning with the [Transitive Preposition] "because", which serves as the cause, containing [Noun as Head] "FOUNder" and the action phrase [Finite Clause] "creAted ..." marked by the past tense, establishing a context module to modify the preceding main clause [Main Clause] "the VENture sucCEEded."</li>
           
           <li className="list-none margin-bottom-10">Inner block: [a CLEAR Vision] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "created."</li>
       
@@ -793,7 +793,7 @@ export default function creATE(): React.JSX.Element {
           <li>they beLIEVE the Agency creAted a reLIable SYStem.</li>
           <li className="margin-bottom-20 list-none">They have faith in the agency's system, believing it is trustworthy.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the Agency created a reliable system] - [Finite Clause as a Complement] of [intransitive verb] in the [Plain Present Form] "believe" in the [Main Clause]. Essentially, the [Zero Declarative Content Clause] has hidden the [Subordinator] "that," leaving only the complete [Noun as Head] "Agency" and the action phrase [Finite Clause] "created ..." following it.</li>
+          <li className="list-none margin-bottom-10">External block: [the Agency created a reliable system] - [Finite Clause as a Complement] of [intransitive verb] in the [Plain Present Form] "believe" in the [Main Clause]. Essentially, the [Zero Declarative Content Clause] has hidden the [Subordinator] "that", leaving only the complete [Noun as Head] "Agency" and the action phrase [Finite Clause] "created ..." following it.</li>
           
           <li className="list-none margin-bottom-10">Inner block: [a reliable system] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "created."</li>
       
@@ -811,7 +811,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [the design she created for the client] - [Noun Phrase as Subject] of [Transitive Verb] in the [Preterite Form] "WON" in [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [she created for the client] - [Finite Clause as a Post-modifier] of [Noun as Head] "design". Essentially, the [zero relative clause] has omitted the preceding "which" or "that," retaining the [Pronoun as Head] "she" and the [Finite Clause] "created for the client." It functions as a modifier placed immediately after the [Noun as Head] "deSIGN" to clarify a characteristic of this object.</li>
+          <li className="list-none margin-bottom-10">Inner block: [she created for the client] - [Finite Clause as a Post-modifier] of [Noun as Head] "design". Essentially, the [zero relative clause] has omitted the preceding "which" or "that", retaining the [Pronoun as Head] "she" and the [Finite Clause] "created for the client." It functions as a modifier placed immediately after the [Noun as Head] "deSIGN" to clarify a characteristic of this object.</li>
       
         </ul>
       
@@ -850,13 +850,13 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [creating solutions for what clients struggle with] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "builds," which serves as a major component of the sentence. Essentially, it is a [Gerund-Participial Clause] formed from the [Gerund-Participle Form] "creating," which extends to include the modifying elements that follow.</li>
+          <li className="list-none margin-bottom-10">External block: [creating solutions for what clients struggle with] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "builds", which serves as a major component of the sentence. Essentially, it is a [Gerund-Participial Clause] formed from the [Gerund-Participle Form] "creating", which extends to include the modifying elements that follow.</li>
           
           <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[for WHAT CLIENTS STRUGGLE WITH] - [Preposition Phrase as a Complement] of [Transitive Verb] in the [Gerund-Participle Form] "creating," beginning with the [Transitive Preposition]"for" and followed by the [Finite Clause] "WHAT CLIENTS STRUGGLE WITH."</li>
+          <li className="list-none margin-bottom-10">[for WHAT CLIENTS STRUGGLE WITH] - [Preposition Phrase as a Complement] of [Transitive Verb] in the [Gerund-Participle Form] "creating", beginning with the [Transitive Preposition] "for" and followed by the [Finite Clause] "WHAT CLIENTS STRUGGLE WITH."</li>
 
-          <li className="list-none margin-bottom-10">[WHAT CLIENTS STRUGGLE WITH] - [Finite Clause as a Complement] OF [Transitive Preposition]"for". Essentially, it is an [Open Interrogative Content Clause] structured as a nested code block, containing the [pronoun] "WHAT," the standalone [Noun as Head] "CLIENTS," and a separate verb phrase following it.</li>
+          <li className="list-none margin-bottom-10">[WHAT CLIENTS STRUGGLE WITH] - [Finite Clause as a Complement] OF [Transitive Preposition] "for". Essentially, it is an [Open Interrogative Content Clause] structured as a nested code block, containing the [pronoun] "WHAT", the standalone [Noun as Head] "CLIENTS", and a separate verb phrase following it.</li>
       
         </ul>
 
@@ -874,9 +874,9 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [exPLORing WHY the TEAM creAted outDAted deSIGNS] - [Non-finite Clause as a Catative Complement] of [Transitive Verb] in the [Preterite Form] "sugGESted" in the [Main Clause], serving to convey the content. Essentially, it is a [Gerund-Participial Clause] beginning with the [Gerund-Participle Form] "exploring," combined with the expanded code region that follows.</li>
+          <li className="list-none margin-bottom-10">External block: [exPLORing WHY the TEAM creAted outDAted deSIGNS] - [Non-finite Clause as a Catative Complement] of [Transitive Verb] in the [Preterite Form] "sugGESted" in the [Main Clause], serving to convey the content. Essentially, it is a [Gerund-Participial Clause] beginning with the [Gerund-Participle Form] "exploring", combined with the expanded code region that follows.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [WHY the TEAM created outdated designs] - [Finite Clause as a Complement] of [Transitive Verb] in the [Gerund-Participle Form] "exploring," clarifying the context of the exploration. Essentially, it is an [Open Interrogative Content Clause] structured as a sub-block of code entirely contained within the overall code region, containing the full components of the [Adverb] "WHY," the standalone [Noun as Head] "TEAM," and a distinct action phrase set in the past tense that follows.</li>
+          <li className="list-none margin-bottom-10">Inner block: [WHY the TEAM created outdated designs] - [Finite Clause as a Complement] of [Transitive Verb] in the [Gerund-Participle Form] "exploring", clarifying the context of the exploration. Essentially, it is an [Open Interrogative Content Clause] structured as a sub-block of code entirely contained within the overall code region, containing the full components of the [Adverb] "WHY", the standalone [Noun as Head] "TEAM", and a distinct action phrase set in the past tense that follows.</li>
       
         </ul>
 
@@ -894,9 +894,9 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [to UNDERSTAND HOW the SYSTEM CREATES AUTOMATED REPORTS] - [Non-finite Clause as Subject] of [3rd Singular Present Form] "REQUIRES," to manage the task block at the beginning of the sentence. Essentially, it is a [To-infinitive Clause] formed by the [Infinitive Marker] "to" combined with the [Verb Phrase] "understand ...," followed by the supplementary code segment.</li>
+          <li className="list-none margin-bottom-10">External block: [to UNDERSTAND HOW the SYSTEM CREATES AUTOMATED REPORTS] - [Non-finite Clause as Subject] of [3rd Singular Present Form] "REQUIRES", to manage the task block at the beginning of the sentence. Essentially, it is a [To-infinitive Clause] formed by the [Infinitive Marker] "to" combined with the [Verb Phrase] "understand ...", followed by the supplementary code segment.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [HOW the SYSTEM CREATES AUTOMATED REPORTS] - [Finite Clause as a Complement] of [Transitive Verb] in [Plain Form] "UNDERSTAND". Essentially, it is an [Open Interrogative Content Clause] structured as a nested code block, containing the [Adverb] "HOW," the [Noun as Head] "SYSTEM," and a separate verb phrase that follows.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HOW the SYSTEM CREATES AUTOMATED REPORTS] - [Finite Clause as a Complement] of [Transitive Verb] in [Plain Form] "UNDERSTAND". Essentially, it is an [Open Interrogative Content Clause] structured as a nested code block, containing the [Adverb] "HOW", the [Noun as Head] "SYSTEM", and a separate verb phrase that follows.</li>
       
         </ul>
 
@@ -914,9 +914,9 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [to study how users create personal profiles] - [Non-finite Clause as a Catative Complement] of [Transitive Verb] in the [3rd Singular Present Form] "plans" in the [Main Clause], serving as the object of the plan. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "STUdy ...," followed by the complement.</li>
+          <li className="list-none margin-bottom-10">External block: [to study how users create personal profiles] - [Non-finite Clause as a Catative Complement] of [Transitive Verb] in the [3rd Singular Present Form] "plans" in the [Main Clause], serving as the object of the plan. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "STUdy ...", followed by the complement.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [HOW Users create personal profiles] - [Finite Clause as a Complement] of [Transitive Verb] in [Plain Form] "Study". Essentially, it is an [Open Interrogative Content Clause] that is entirely contained within the overall code block, containing the [Adverb] "HOW," the [Noun as Head] "Users," and a separate action phrase that follows.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HOW Users create personal profiles] - [Finite Clause as a Complement] of [Transitive Verb] in [Plain Form] "Study". Essentially, it is an [Open Interrogative Content Clause] that is entirely contained within the overall code block, containing the [Adverb] "HOW", the [Noun as Head] "Users", and a separate action phrase that follows.</li>
       
         </ul>
 
@@ -936,7 +936,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [to evaluate how the application creates user logs] - [non-finite clause as an exposed subject] of [Transitive Verb] in the [3rd Singular Present Form] "TAKES" in the [Main Clause], serves as a major head region, functioning as a complement to the [dummy pronoun] "it." Essentially, it is a large [To-infinitive Clause] expressed as an expanded code block consisting of the [Infinitive Marker] "to" combined with the [Verb Phrase] "evaluate ..." and followed by supplementary elements.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [HOW the application CREATES User LOGS] - [Finite Clause as a Complement] of [Transitive Verb] in [Plain Form] "evaluate," integrating the sequence of information received from the action to clarify the content for evaluation. Essentially, it is an [Open Interrogative Content Clause] structured as a sub-block of code entirely contained within the overall code block, containing the full components of the [Adverb] "HOW" and the separate [Noun as Head] "application," along with a distinct action phrase set in the present tense that follows.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HOW the application CREATES User LOGS] - [Finite Clause as a Complement] of [Transitive Verb] in [Plain Form] "evaluate", integrating the sequence of information received from the action to clarify the content for evaluation. Essentially, it is an [Open Interrogative Content Clause] structured as a sub-block of code entirely contained within the overall code block, containing the full components of the [Adverb] "HOW" and the separate [Noun as Head] "application", along with a distinct action phrase set in the present tense that follows.</li>
       
         </ul>
     
@@ -958,9 +958,9 @@ export default function creATE(): React.JSX.Element {
           
           <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[regarding HOW the TEAM CREATES NEW MARKETING CHANNELS] - [prepositional phrase as a post-modifier] of [Noun as Head] "proposals." It begins with [Transitive Preposition]"regarding" and is followed by a modifying element.</li>
+          <li className="list-none margin-bottom-10">[regarding HOW the TEAM CREATES NEW MARKETING CHANNELS] - [prepositional phrase as a post-modifier] of [Noun as Head] "proposals." It begins with [Transitive Preposition] "regarding" and is followed by a modifying element.</li>
 
-          <li className="list-none margin-bottom-10">[HOW the TEAM CREATES NEW MARKETING CHANNELS] - [Finite Clause as a Complement] OF [Transitive Preposition]"regarding". Essentially, it is an [Open Interrogative Content Clause] structured as a nested code block, containing four components: the [Adverb] "HOW," the [Noun as Head] "TEAM," the [3rd Singular Present Form] "creates," and the [Noun Phrase] "new marketing channels" that follows.</li>
+          <li className="list-none margin-bottom-10">[HOW the TEAM CREATES NEW MARKETING CHANNELS] - [Finite Clause as a Complement] OF [Transitive Preposition] "regarding". Essentially, it is an [Open Interrogative Content Clause] structured as a nested code block, containing four components: the [Adverb] "HOW", the [Noun as Head] "TEAM", the [3rd Singular Present Form] "creates", and the [Noun Phrase] "new marketing channels" that follows.</li>
       
         </ul>
 
@@ -978,9 +978,9 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [on WHY the designer created complex layouts] - [Preposition Phrase as a Complement] of [intransitive verb] in the [past tense] "focused" in the [Main Clause]. It begins with the [Transitive Preposition]"on" and is followed by a complement, serving as a contextual block that provides the setting and overall content.</li>
+          <li className="list-none margin-bottom-10">External block: [on WHY the designer created complex layouts] - [Preposition Phrase as a Complement] of [intransitive verb] in the [past tense] "focused" in the [Main Clause]. It begins with the [Transitive Preposition] "on" and is followed by a complement, serving as a contextual block that provides the setting and overall content.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [WHY the deSIGNer creAted COMplex LAYouts] - [Finite Clause as a Complement] of [Transitive Preposition]"on". Essentially, it is an [Open interROGative CONtent CLAUSE] structured as a nested code block, containing four components the [Adverb] "WHY," the standalone [Noun as Head] "designer," the standalone action in the past tense [Preterite Form] "created," and the following [Noun Phrase] "complex layouts."</li>
+          <li className="list-none margin-bottom-10">Inner block: [WHY the deSIGNer creAted COMplex LAYouts] - [Finite Clause as a Complement] of [Transitive Preposition] "on". Essentially, it is an [Open interROGative CONtent CLAUSE] structured as a nested code block, containing four components the [Adverb] "WHY", the standalone [Noun as Head] "designer", the standalone action in the past tense [Preterite Form] "created", and the following [Noun Phrase] "complex layouts."</li>
       
         </ul>
 
@@ -1000,7 +1000,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [creating HIGH-IMPACT CONTENT] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "requires" in the [Main Clause] -to handle a major task at the beginning of the sentence. Essentially, it is a [Gerund-Participle Clause] composed of the [Gerund-Participle Form] "creating" and the accompanying object "high-impact content."</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [HIGH-IMpact CONtent] - [Noun Phrase as a Complement] of [Transitive Verb] "creAting," containing characteristics that describe high-impact content.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HIGH-IMpact CONtent] - [Noun Phrase as a Complement] of [Transitive Verb] "creAting", containing characteristics that describe high-impact content.</li>
       
         </ul>
       
@@ -1014,7 +1014,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">New external block: [developing effective promotional material] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "requires" in the [Main Clause]. Essentially, this is a [Gerund-Participle Clause] composed of a continuous action in the [Gerund-Participle Form] "developing" along with an expanded data sequence inserted in its place.</li>
           
-          <li className="list-none margin-bottom-10">New inner block: [efFECtive proMOtional maTErial] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Gerund-Participle Form] "deVELoping," containing characteristics that describe effective promotional material.</li>
+          <li className="list-none margin-bottom-10">New inner block: [efFECtive proMOtional maTErial] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Gerund-Participle Form] "deVELoping", containing characteristics that describe effective promotional material.</li>
       
         </ul>
 
@@ -1028,7 +1028,7 @@ export default function creATE(): React.JSX.Element {
 
           <li className="list-none margin-bottom-10">External block: [VALUE] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "BOOSted" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">Parallel block: [by creating unique products] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in [Preterite Form] "BOOSted" in the [Main Clause], beginning with the [Transitive Preposition]"by" followed by the action phrase [non-finite clause as a complement] "creating unique products."</li>
+          <li className="list-none margin-bottom-10">Parallel block: [by creating unique products] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in [Preterite Form] "BOOSted" in the [Main Clause], beginning with the [Transitive Preposition] "by" followed by the action phrase [non-finite clause as a complement] "creating unique products."</li>
       
         </ul>
       
@@ -1042,7 +1042,7 @@ export default function creATE(): React.JSX.Element {
 
           <li className="list-none margin-bottom-10">External block: [VALUE] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "BOOSted" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">New parallel block: [because the deVElopers creAted uNIQUE PROducts] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "BOOSted" in the [Main Clause]. Beginning with the [Transitive Preposition]"because," which contains "the developers created...," this is a [Finite Clause as a Complement] of the [Transitive Preposition]"because," serving as the causal context at a higher level.</li>
+          <li className="list-none margin-bottom-10">New parallel block: [because the deVElopers creAted uNIQUE PROducts] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "BOOSted" in the [Main Clause]. Beginning with the [Transitive Preposition] "because", which contains "the developers created...", this is a [Finite Clause as a Complement] of the [Transitive Preposition] "because", serving as the causal context at a higher level.</li>
       
         </ul>
 
@@ -1070,7 +1070,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">New external block: [a creative TEAM] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "Hired" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">New inner block: [creAtive] - [Adjective as a Pre-modifier] of [Noun as Head] is positioned immediately before the "TEAM" object to briefly describe and display that object's characteristics. Formed from the original [Lexical Verb] "creATE" combined with the suffix "-ive" to transform it into a [Deverbal Adjective] "creAtive," capable of describing characteristics and fully condensed into a single descriptive component preceding the object.</li>
+          <li className="list-none margin-bottom-10">New inner block: [creAtive] - [Adjective as a Pre-modifier] of [Noun as Head] is positioned immediately before the "TEAM" object to briefly describe and display that object's characteristics. Formed from the original [Lexical Verb] "creATE" combined with the suffix "-ive" to transform it into a [Deverbal Adjective] "creAtive", capable of describing characteristics and fully condensed into a single descriptive component preceding the object.</li>
       
         </ul>
 
@@ -1090,7 +1090,7 @@ export default function creATE(): React.JSX.Element {
           
           <li className="list-none margin-bottom-10">[for the creation of the system interface] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "allocated" in the [Main Clause]. Beginning with the [Transitive Preposition] "for", which indicates reason or context, it introduces the [Noun Phrase] that follows. It serves as a contextual modifier expressing cause or purpose, qualifying the action [past tense] "allocated."</li>
 
-          <li className="list-none margin-bottom-10">Inner block: [of the SYStem INterface] - [prepoSITion PHRASE as a COMplement] of [Noun as Head] in [Deverbal Noun] "creAtion," formed from [Transitive Verb] "creATE," followed by [Transitive Preposition]"of" and the [Noun Phrase] that follows.</li>
+          <li className="list-none margin-bottom-10">Inner block: [of the SYStem INterface] - [prepoSITion PHRASE as a COMplement] of [Noun as Head] in [Deverbal Noun] "creAtion", formed from [Transitive Verb] "creATE", followed by [Transitive Preposition] "of" and the [Noun Phrase] that follows.</li>
       
         </ul>
       
