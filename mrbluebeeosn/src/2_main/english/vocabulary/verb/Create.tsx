@@ -833,7 +833,7 @@ export default function creATE(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">5. Phân hệ [emBEDded Structure]</h4>
+      <h4 className="margin-y-40">5. non-FInite CLAUSE</h4>
 
       <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Forming the construction</strong>: [<strong>non-FInite CLAUSE</strong>]</p>
 
@@ -843,20 +843,20 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[creAting soLUtions for WHAT CLIents STRUGgle with] BUILDS MARket VALue.</li>
-          <li className="margin-bottom-20 list-none">[Tạo ra các giải pháp cho những vấn đề mà khách hàng đang gặp khó khăn] giúp tăng giá trị thị trường.</li>
+          <li>creAting soLUtions for WHAT CLIents STRUGgle with BUILDS MARket VALue.</li>
+          <li className="margin-bottom-20 list-none">We build market value by creating solutions for the problems our clients face.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [creAting soLUtions for WHAT CLIents STRUGgle with] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "BUILDS", chịu trách nhiệm làm một khối đầu việc lớn. Bản chất là [GERund-PARTicipial CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [creating solutions for what clients struggle with]—[non-finite clause as subject] of [transitive verb] in the [3rd singular present form] "builds," which serves as a major component of the sentence. Essentially, it is a [gerund-participial clause] formed from the [gerund-participle form] "creating," which extends to include the modifying elements that follow.</li>
           
           <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[for WHAT CLIents STRUGgle with] - [prepoSITion PHRASE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "creAting", bắt đầu bằng [TRANsitive prepoSITion] "for" và khối [FInite CLAUSE] "WHAT CLIents STRUGgle with" phía sau.</li>
+          <li className="list-none margin-bottom-10">[for WHAT CLIENTS STRUGGLE WITH] - [prepositional phrase as a complement] of [transitive verb] in the [gerund-participle form] "creating," beginning with the [transitive preposition] "for" and followed by the [finite clause] "WHAT CLIENTS STRUGGLE WITH."</li>
 
-          <li className="list-none margin-bottom-10">[WHAT CLIents STRUGgle with] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "for". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [PROnoun] "WHAT" và [NOUN as HEAD] riêng "CLIents" và cụm hành động riêng đi sau.</li>
+          <li className="list-none margin-bottom-10">[WHAT CLIENTS STRUGGLE WITH] - [FINITE CLAUSE AS A COMPLEMENT] OF [TRANSITIVE PREPOSITION] "for". Essentially, it is an [Open interrogative content clause] structured as a nested code block, containing the [pronoun] "WHAT," the standalone [noun as head] "CLIENTS," and a separate verb phrase following it.</li>
       
         </ul>
 
@@ -867,16 +867,16 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the MANager sugGESted [exPLORing WHY the TEAM creAted outDAted deSIGNS].</li>
-          <li className="margin-bottom-20 list-none">Người quản lý đã đề xuất [tìm hiểu lý do tại sao nhóm lại tạo ra những thiết kế lỗi thời].</li>
+          <li>the MANager sugGESted exPLORing WHY the TEAM creAted outDAted deSIGNS.</li>
+          <li className="margin-bottom-20 list-none">The manager proposed that the team investigate the reasons behind the production of designs that were not completed on schedule.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [exPLORing WHY the TEAM creAted outDAted deSIGNS] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "sugGESted" trong [MAIN CLAUSE], đóng vai trò làm  tiếp nhận nội dung. Bản chất là [GERund-PARTicipial CLAUSE] bắt đầu bằng [GERund-PARTiciple FORM] "exPLORing" kết hợp vùng mã mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [exPLORing WHY the TEAM creAted outDAted deSIGNS]—[non-finite clause as a catative complement] of [transitive verb] in the [preterite form] "sugGESted" in the [main clause], serving to convey the content. Essentially, it is a [gerund-participial clause] beginning with the [gerund-participle form] "exploring," combined with the expanded code region that follows.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [WHY the TEAM creAted outDAted deSIGNS] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "exPLORing", làm rõ nội dung cho việc tìm hiểu. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "WHY" và [NOUN as HEAD] riêng "TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [WHY the TEAM created outdated designs] - [Finite clause as a complement] of [transitive verb] in the [gerund-participle form] "exploring," clarifying the context of the exploration. Essentially, it is an [Open interrogative content clause] structured as a sub-block of code entirely contained within the overall code region, containing the full components of the [adverb] "WHY," the standalone [noun as head] "TEAM," and a distinct action phrase set in the past tense that follows.</li>
       
         </ul>
 
@@ -887,16 +887,16 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[to underSTAND HOW the SYStem creATES AUtomated rePORTS] reQUIres TECHnical SKILLS.</li>
-          <li className="margin-bottom-20 list-none">[Để hiểu cách hệ thống tạo ra các báo cáo tự động] cần phải có kỹ năng kỹ thuật.</li>
+          <li>to underSTAND HOW the SYStem creATES AUtomated rePORTS reQUIres TECHnical SKILLS.</li>
+          <li className="margin-bottom-20 list-none">The generation of automated reports by the system is a process that requires technical expertise to comprehend.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [to underSTAND HOW the SYStem creATES AUtomated rePORTS] - [non-FInite CLAUSE as SUBject] của [3RD SINGular PRESent FORM] "reQUIres", để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "underSTAND ..." kéo theo vùng mã bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [to UNDERSTAND HOW the SYSTEM CREATES AUTOMATED REPORTS]—[non-finite clause as subject] of [3rd singular present form] "REQUIRES," to manage the task block at the beginning of the sentence. Essentially, it is a [to-infinitive clause] formed by the [infinitive marker] "to" combined with the [verb phrase] "understand ...," followed by the supplementary code segment.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [HOW the SYStem creATES AUtomated rePORTS] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "underSTAND". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [ADverb] "HOW" và [NOUN as HEAD] "SYStem" và cụm hành động riêng đi sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HOW the SYSTEM CREATES AUTOMATED REPORTS] - [FINITE CLAUSE as a COMPLEMENT] of [TRANSITIVE VERB] in [PLAIN FORM] "UNDERSTAND". Essentially, it is an [Open interrogative content clause] structured as a nested code block, containing the [adverb] "HOW," the [noun as head] "SYSTEM," and a separate verb phrase that follows.</li>
       
         </ul>
 
@@ -907,16 +907,16 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the FIRM PLANS [to STUdy HOW Users creATE PERsonal PROfiles].</li>
-          <li className="margin-bottom-20 list-none">Công ty có kế hoạch [nghiên cứu cách người dùng tạo hồ sơ cá nhân].</li>
+          <li>the FIRM PLANS to STUdy HOW Users creATE PERsonal PROfiles.</li>
+          <li className="margin-bottom-20 list-none">The firm plans to study something. The subject is how users create personal profiles.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [to STUdy HOW Users creATE PERsonal PROfiles] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "PLANS" trong [MAIN CLAUSE], đóng vai trò làm  tiếp nhận mục tiêu kế hoạch. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "STUdy ..." kéo theo vùng mã bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [to study how users create personal profiles]—[non-finite clause as a catative complement] of [transitive verb] in the [3rd singular present form] "plans" in the [main clause], serving as the object of the plan. Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "STUdy ...," followed by the complement.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [HOW Users creATE PERsonal PROfiles] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "STUdy". Bản chất là [Open interROGative CONtent CLAUSE] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "Users" và cụm hành động riêng đi sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HOW Users create personal profiles] - [Finite clause as a complement] of [transitive verb] in [plain form] "Study". Essentially, it is an [Open interrogative content clause] that is entirely contained within the overall code block, containing the [adverb] "HOW," the [noun as head] "Users," and a separate action phrase that follows.</li>
       
         </ul>
 
@@ -927,16 +927,16 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[it] TAKES experTISE [to eVAluate HOW the appliCAtion creATES User LOGS].</li>
-          <li className="margin-bottom-20 list-none">Cần phải có chuyên môn [để đánh giá cách ứng dụng tạo nhật ký người dùng].</li>
+          <li>it TAKES experTISE to eVAluate HOW the appliCAtion creATES User LOGS.</li>
+          <li className="margin-bottom-20 list-none">The ability to assess how the application generates user logs requires expertise.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [to eVAluate HOW the appliCAtion creATES User LOGS] - [non-FInite CLAUSE as extraPOSED SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "TAKES" trong [MAIN CLAUSE], chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "eVAluate ..." và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [to evaluate how the application creates user logs] - [non-finite clause as an exposed subject] of [transitive verb] in the [3rd singular present form] "TAKES" in the [main clause], serves as a major head region, functioning as a complement to the [dummy pronoun] "it." Essentially, it is a large [to-infinitive clause] expressed as an expanded code block consisting of the [infinitive marker] "to" combined with the [verb phrase] "evaluate ..." and followed by supplementary elements.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [HOW the appliCAtion creATES User LOGS] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "eVAluate", tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HOW the application CREATES User LOGS] - [Finite CLAUSE as a COMPLEMENT] of [TRANSITIVE VERB] in [PLAIN FORM] "evaluate," integrating the sequence of information received from the action to clarify the content for evaluation. Essentially, it is an [Open interrogative content clause] structured as a sub-block of code entirely contained within the overall code block, containing the full components of the [adverb] "HOW" and the separate [noun as head] "application," along with a distinct action phrase set in the present tense that follows.</li>
       
         </ul>
     

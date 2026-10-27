@@ -835,7 +835,7 @@ export default function reSPOND(): React.JSX.Element {
 
 
 
-			<h4 className="margin-y-40">5. Phân hệ [emBEDded Structure]</h4>
+			<h4 className="margin-y-40">5. non-FInite CLAUSE</h4>
 
 			<p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Forming the construction</strong>: [<strong>non-FInite CLAUSE</strong>]</p>
 
@@ -845,20 +845,20 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[reSPONDing efFECTively to WHAT CUStomers comPLAIN about] imPROVES BRAND LOYalty.</li>
-					<li className="margin-bottom-20 list-none">[Phản hồi hiệu quả đối với những điều khách hàng phàn nàn] giúp nâng cao sự trung thành với thương hiệu.</li>
+					<li>reSPONDing efFECTively to WHAT CUStomers comPLAIN about imPROVES BRAND LOYalty.</li>
+					<li className="margin-bottom-20 list-none">Brand loyalty is improved by responding effectively to what customers complain about.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10">External block: [reSPONDing efFECTively to WHAT CUStomers comPLAIN about] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "imPROVES" trong [MAIN CLAUSE], chịu trách nhiệm làm một khối đầu việc lớn. Bản chất là [GERund-PARTicipial CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "reSPONDing" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
+					<li className="list-none margin-bottom-10">External block: [reSPONDing efFECTively to WHAT CUStomers comPLAIN about]—[non-FInite CLAUSE as SUBject] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "imPROVES" in the [MAIN CLAUSE]—serves as a major component. Essentially, it is a [gerund-participial clause] formed from the [gerund-participle form] “reSPONDing,” which extends to include the supplementary elements that follow.</li>
 					
 					<li className="list-none margin-bottom-10">Inner block:</li>
 
-					<li className="list-none margin-bottom-10">[to WHAT CUStomers comPLAIN about] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [FInite CLAUSE] "WHAT CUStomers comPLAIN about" phía sau.</li>
+					<li className="list-none margin-bottom-10">[to What customers complain about] - [Prepositional phrase as a complement] of [intransitive verb] in the [gerund-participle form] "responding," beginning with the [transitive preposition] "to" and followed by the [finite clause] "what customers complain about."</li>
 
-					<li className="list-none margin-bottom-10">[WHAT CUStomers comPLAIN about] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "to". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [PROnoun] "WHAT" và [NOUN as HEAD] riêng "CUStomers" và cụm hành động riêng đi sau.</li>
+					<li className="list-none margin-bottom-10">[WHAT Customers complain about] - [Finite clause as a complement] of [transitive preposition] "to". Essentially, it is an [Open interrogative content clause] structured as a nested code block, containing the [pronoun] "WHAT," the standalone [noun as head] "CUSTOMERS," and a separate verb phrase that follows.</li>
 			
 				</ul>
 
@@ -869,16 +869,16 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the MANager sugGESTed [inVESTigating WHY the TEAM reSPONDed POORly to the FEEDback].</li>
-					<li className="margin-bottom-20 list-none">Người quản lý đã đề xuất [tìm hiểu lý do tại sao đội ngũ lại phản ứng kém trước những phản hồi đó].</li>
+					<li>the MANager sugGESTed inVESTigating WHY the TEAM reSPONDed POORly to the FEEDback.</li>
+					<li className="margin-bottom-20 list-none">The manager suggested that an investigation be conducted into the reasons behind the team's subpar response to the feedback.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10">External block: [inVESTigating WHY the TEAM reSPONDed POORly to the FEEDback] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "sugGESTed" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTicipial CLAUSE] bắt đầu bằng [GERund-PARTiciple FORM] "inVESTigating" kết hợp vùng mã mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10">External block: [investigating WHY the TEAM responded poorly to the feedback]—[non-finite clause as a catative complement] of [transitive verb] in the [preterite form] "suggested" in the [main clause]. Essentially, it is a [gerund-participial clause] beginning with the [gerund-participle form] “investigating,” combined with the expanded code region that follows.</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [WHY the TEAM reSPONDed POORly to the FEEDback] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "inVESTigating", làm rõ nội dung cho việc điều tra. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "WHY" và [NOUN as HEAD] riêng "TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [WHY the TEAM reSPONDed POORly to the FEEDback] - [FInite CLAUSE as a COMplement] of [TRANsitive VERB] in the [GERund-PARTiciple FORM] "inVESTigating," clarifying the content of the investigation. Essentially, it is an [Open interrogative content clause] structured as a sub-block of code entirely contained within the overall code region, containing the full components of the [adverb] "WHY," the [noun as head] "TEAM," and a distinct action phrase set in the past tense that follows.</li>
 			
 				</ul>
 
@@ -889,16 +889,16 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] reQUIres RIGorous TESting.</li>
-					<li className="margin-bottom-20 list-none">[Để hiểu cách hệ thống phản ứng trước các sự cố mạng] cần phải tiến hành thử nghiệm nghiêm ngặt.</li>
+					<li>to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures reQUIres RIGorous TESting.</li>
+					<li className="margin-bottom-20 list-none">Rigorous testing is necessary to understand how the system responds to network failures.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10">External block: [to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "underSTAND ..." kéo theo vùng mã bổ trợ phía sau.</li>
+					<li className="list-none margin-bottom-10">External block: [to UNDERSTAND HOW the SYSTEM RESPONDS to NETWORK FAILURES]—[non-finite CLAUSE as SUBJECT] of [TRANSITIVE VERB] in the [3RD SINGULAR PRESENT FORM] "REQUIRES" in the [MAIN CLAUSE]—to manage the task block at the beginning of the sentence. Essentially, it is a [to-infinitive clause] formed by the [infinitive marker] "to" combined with the [verb phrase] "understand ...," followed by the supplementary code region.</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [HOW the SYStem reSPONDS to NETwork FAIlures] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "underSTAND". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [ADverb] "HOW" và [NOUN as HEAD] "SYStem" và cụm hành động riêng đi sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [HOW the SYSTEM RESPONDS to NETWORK FAILURES] - [FINITE CLAUSE as a COMPLEMENT] of [TRANSITIVE VERB] in [PLAIN FORM] "UNDERSTAND". Essentially, it is an [Open interrogative content clause] structured as a nested code block, containing the [adverb] "HOW," the [noun as head] "SYSTEM," and a separate verb phrase that follows.</li>
 			
 				</ul>
 
@@ -909,16 +909,16 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the COMpany PLANS [to ANalyze HOW USers reSPOND to NEW INterface deSIGNS].</li>
-					<li className="margin-bottom-20 list-none">Công ty có kế hoạch [phân tích cách người dùng phản ứng với các thiết kế giao diện mới].</li>
+					<li>the COMpany PLANS to ANalyze HOW USers reSPOND to NEW INterface deSIGNS.</li>
+					<li className="margin-bottom-20 list-none">The company has a plan to study how users react to new interface designs.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10">External block: [to ANalyze HOW USers reSPOND to NEW INterface deSIGNS] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "PLANS" trong [MAIN CLAUSE], tiếp nhận mục tiêu kế hoạch cho hành động. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "ANalyze ..." kéo theo vùng mã bổ trợ phía sau.</li>
+					<li className="list-none margin-bottom-10">External block: [to analyze how users respond to new interface designs]—[non-finite clause as a catative complement] of [transitive verb] in the [3rd singular present form] "plans" in the [main clause], expressing the objective of the action. Essentially, it is a [to-infinitive clause] constructed from the [infinitive marker] "to" combined with the [verb phrase] "analyze ...," followed by the complement.</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [HOW USers reSPOND to NEW INterface deSIGNS] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "ANalyze". Bản chất là [Open interROGative CONtent CLAUSE] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "USers" và cụm hành động riêng đi sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [HOW USers reSPOND to NEW INterface deSIGNS] - [FInite CLAUSE as a COMplement] of [TRANsitive VERB] in [PLAIN FORM] "ANalyze". Essentially, it is an [Open interrogative content clause] that is entirely contained within the overall code block, containing the [adverb] "HOW," the [noun as head] "USers," and a separate verb phrase that follows.</li>
 			
 				</ul>
 
@@ -929,16 +929,16 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[it] reQUIres experTISE [to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic].</li>
-					<li className="margin-bottom-20 list-none">[Điều này] đòi hỏi chuyên môn [để đánh giá cách ứng dụng phản ứng với lưu lượng truy cập cao].</li>
+					<li>it reQUIres experTISE to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic.</li>
+					<li className="margin-bottom-20 list-none">Evaluating how the application responds to high traffic requires expertise.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10">External block: [to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [non-FInite CLAUSE as extraPOSED SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "eVALuate ..." và kéo theo thành phần bổ trợ phía sau.</li>
+					<li className="list-none margin-bottom-10">External block: [to evaluate how the application responds to high traffic] - [non-finite clause as an exposed subject] of [transitive verb] in the [3rd singular present form] "requires" in the [main clause], serves as a major head region, and functions as a complement to the [dummy pronoun] "it." Essentially, this is a large [to-infinitive clause] expressed as an expanded code region consisting of the [infinitive marker] "to" combined with the [verb phrase] "evaluate ..." and followed by supplementary elements.</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "eVALuate", tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [HOW the application responds to high traffic] - [Finite clause as a complement] of [transitive verb] in [plain form] "evaluate," integrating a sequence of information regarding the action to clarify the content for evaluation. Essentially, it is an [Open interrogative content clause] structured as a sub-block of code entirely contained within the overall code block, containing the full components of the [adverb] "HOW" and the separate [noun as head] "application," along with a distinct action phrase set in the present tense that follows.</li>
 			
 				</ul>
 			

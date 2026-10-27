@@ -775,10 +775,7 @@ export default function CLEAR(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">5. Phân hệ [emBEDded Structure]</h4>
-
-      <p className="margin-top-20 text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, các khối mã sẽ lồng vào nhau tạo nên hệ thống phân tầng tối tân.</p>
-
+      <h4 className="margin-y-40">5. non-FInite CLAUSE</h4>
 
       <h5 className="margin-top-20 text-indent-whole">[non-FInite CLAUSE as SUBject]</h5>
 
@@ -786,16 +783,16 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[ANalyzing HOW the PROgram CLEARS METadata] is NECessary.</li>
-          <li className="margin-bottom-20 list-none">[Việc phân tích cách thức chương trình xóa dữ liệu meta] là điều cần thiết.</li>
+          <li>ANalyzing HOW the PROgram CLEARS METadata is NECessary.</li>
+          <li className="margin-bottom-20 list-none">It is necessary to analyze how the program clears metadata.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [ANalyzing HOW the PROgram CLEARS METadata] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE], chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện. Bản chất là [GERund-PARTicipial CLAUSE] bắt đầu bằng [GERund-PARTiciple FORM] "ANalyzing" và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [ANalyzing HOW the PROgram CLEARS METadata]—[non-finite CLAUSE as SUBject] of [COPular inTRANsitive VERB] in the [3RD SINGular PRESent BE FORM] "is" within the [MAIN CLAUSE]—serves as a major task to be performed. Essentially, it is a [gerund-participial clause] beginning with the [gerund-participle form] "ANalyzing" and followed by supplementary elements.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [HOW the PROgram CLEARS METadata] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "Analyzing", tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [ADverb] "HOW", [NOUN as HEAD] riêng "PROgram" và [3RD SINGular PRESent FORM] riêng "CLEARS" thiết lập theo trục thời hiện tại.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HOW the PROGRAM CLEARS METADATA] - [FINITE CLAUSE as a COMPLEMENT] of [TRANSITIVE VERB] in [GERUND-PARTICIPLE FORM] "Analyzing," integrating the sequence of information received during the action to clarify the content for analysis. Essentially, it is an [Open interrogative content clause] structured as a sub-block of code entirely contained within the overall code block, containing the [adverb] "HOW," the standalone [noun as head] "PROgram," and the standalone [3rd singular present form] "CLEARS," all set in the present tense.</li>
       
         </ul>
 
@@ -806,16 +803,16 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we recomMEND [MONitoring WHY the DAtabase CLEARS SESsions].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi khuyến nghị [theo dõi lý do tại sao cơ sở dữ liệu xóa các phiên].</li>
+          <li>we recomMEND MONitoring WHY the DAtabase CLEARS SESsions.</li>
+          <li className="margin-bottom-20 list-none">It is our recommendation that the database clear sessions be monitored.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [MONitoring WHY the DAtabase CLEARS SESsions] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "recomMEND" trong [MAIN CLAUSE], đóng vai trò làm  thành phần chịu tác động đứng ngay sau hạt nhân [PREDicator] "recomMEND" để bổ sung trọn vẹn thông tin cho hành động kiến nghị này. Bản chất là [GERund-PARTicipial CLAUSE] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng [GERund-PARTiciple FORM] "MONitoring" và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [Monitoring WHY the Database CLEARS Sessions] - [non-finite clause as a catative complement] of [transitive verb] in the [plain present form] "recomMEND" in the [main clause], serving as the direct object immediately following the [predicate] "recomMEND" to fully provide context for this act of recommendation. Essentially, it is a [gerund-participial clause] expressed as a large expanded code block beginning with the [gerund-participle form] "monitoring" and followed by the supplementary component.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [WHY the DAtabase CLEARS SESsions] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "MONitoring", làm rõ nội dung cho việc giám sát. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [ADverb] "WHY" và [NOUN as HEAD] riêng "DAtabase" và [3RD SINGular PRESent FORM] riêng "CLEARS" thiết lập theo trục thời hiện tại đi sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [WHY the Database CLEARS Sessions] - [Finite CLAUSE as a COMPLEMENT] of [TRANSITIVE VERB] in [GERUND-PARTICIPLE FORM] "MONITORING," clarifying the context for monitoring. Essentially, it is an [Open interrogative content clause] structured as a code block that is entirely contained within the overall code region, containing the full [adverb] "WHY" and the specific [noun as head] "Database," along with the specific [3rd singular present form] "CLEARS," which is set in the present tense and follows.</li>
       
         </ul>
 
