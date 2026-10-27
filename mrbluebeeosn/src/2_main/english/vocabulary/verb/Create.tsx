@@ -258,37 +258,39 @@ export default function creATE(): React.JSX.Element {
           <li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>]: will, shall, can, must, may</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ Thái độ mang tính trực diện, Áp đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB] thống nhất.</li>
 
-          <li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>]: HAVing NO TENSE or NO SUBject. Nó là non-FInite vì đã bị tước đi quyền làm [PRImary PREDicator] "be, do, have" hay [LEXical VERB] hay [ACTion VERB] của câu. Nó không hề thay đổi hình thái cho dù bạn có đổi câu này sang thời quá khứ, hiện tại hay tương lai.</li>
+          <li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>]: <strong>HAVing NO TENSE or NO SUBject</strong>.</li>
+
+          <li className="margin-bottom-20 list-none">It is non-finite because it has been stripped of the role of [primary predicate] ("be," "do," "have"), [lexical verb], or [action verb] in the sentence. It does not change its form regardless of whether you conjugate this sentence in the past, present, or future tense.</li>
 
           <li className="list-none">[<strong>PLAIN FORM</strong>]: cREATE</li>
-          <li className="margin-bottom-20 list-none">Hành động Thuần khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
+          <li className="margin-bottom-20 list-none">The Pure Action stands alone, completely liberated and without the accompanying "to," and usually follows immediately after:</li>
 
           <li className="list-none">• [<strong>infiniTIval MARKer</strong>]: to</li>
           <li className="list-none">• [<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
           <li className="list-none">• [<strong>PREsent MOdal auXILiary VERB</strong>]: will, shall, can, must, may</li>
-          <li className="list-none">• Nhóm VERB Sai Khiến / Cho Phép: MAKE, LET, let's, HAVE</li>
-          <li className="list-none">• Nhóm VERB Hỗ Trợ / Tương Tác: HELP, GET (khi ở dạng đặc biệt)</li>
-          <li className="margin-bottom-20 list-none">• Nhóm VERB Tri Giác / Cảm Nhận: SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL</li>
+          <li className="list-none">• VERB GROUP: Obligatory / Permissive: MAKE, LET, let's, HAVE</li>
+          <li className="list-none">• VERB GROUP: Auxiliary / Interaction: HELP, GET (in special forms)</li>
+          <li className="margin-bottom-20 list-none">• VERB Group: Perception / Sensation: SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL</li>
       
           <li className="list-none">[<strong>to-infiniTIval</strong>]: to cREATE</li>
-          <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động Thuần khiết đứng độc lập phía sau.</li>
+          <li className="margin-bottom-20 list-none">The seamless integration between the starting point and the Pure Action structure standing independently behind it.</li>
 
           <li className="list-none">[<strong>GERund-PARTiciple FORM</strong>]: creAting</li>
-          <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing thể hiện tính chất đang Tiếp diễn, kéo dài.</li>
+          <li className="margin-bottom-20 list-none">Verbs ending in -ing indicate a continuous, ongoing action.</li>
 
           <li className="list-none">[<strong>PAST PARTiciple FORM</strong>]: creATed, been</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, Hoàn thành.</li>
+          <li className="margin-bottom-20 list-none">Verbs in Column 3 or with the -ed ending indicate that an action has been fully completed.</li>
 
-          <li value="6" className="margin-bottom-20">[<strong>FInite FORMS</strong>]: HAVing TENSE or SUBject</li>
+          <li value="6" className="margin-bottom-20">[<strong>FInite FORMS</strong>]: <strong>HAVing TENSE or SUBject</strong></li>
 
           <li className="list-none">[<strong>PLAIN PRESent FORM</strong>]: cREATE</li>
-          <li className="margin-bottom-20 list-none">Hành động hiện tại dạng nền tảng cho các ngôi còn lại. Đây là hình thái phôi thô khi đưa vào câu để gánh thời hiện tại, phân biệt hoàn toàn với [LEXical VERB] nằm trong từ điển. Ví dụ: they cREATE.</li>
+          <li className="margin-bottom-20 list-none">The present-tense base form for the other verb forms. This is the raw form used in sentences to express the present tense, and is entirely distinct from the [LEXICAL VERB] found in the dictionary. Example: they CREATE.</li>
           
-          <li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>]: creATEs, is</li>
-          <li className="margin-bottom-20 list-none">Trạng thái Thời hiện tại và hành động Thuần khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
+          <li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>]: creATES, is</li>
+          <li className="margin-bottom-20 list-none">The present tense and the pure action merge, completely fused into a single word.</li>
 
           <li className="list-none">[<strong>PRETerite FORM</strong>]: creATed</li>
-          <li className="margin-bottom-20 list-none">Trạng thái Thời quá khứ và hành động Thuần khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
+          <li className="margin-bottom-20 list-none">The past tense and the pure action merge, completely fused into a single word.</li>
       
           <li value="7" className="margin-bottom-20">[<strong>VERB PHRASE as PREDicator</strong>]: is creAting, was creAting</li>
           <li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and ongoing actions. In this context, "is" and "was" are [PRImary VERB as PREDicator] in [FInite] form, while "creAting" is an accompanying [non-FInite] form.</li>
