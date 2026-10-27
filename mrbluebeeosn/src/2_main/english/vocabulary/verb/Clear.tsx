@@ -872,25 +872,22 @@ export default function CLEAR(): React.JSX.Element {
 
       {/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">PHẦN 2: ỨNG DỤNG ĐỘT PHÁ – GIẢI MÃ PARAPHRASING BẰNG KỸ THUẬT "THẾ KHỐI"</h3>
+			<h3 className="margin-y-50 text-center">PART 2: PARaphrasing USING THE TECHNIQUE: [BLOCK REPLACEMENT]</h3>
 
-      <p>Khi tư duy đã chuyển sang nhận diện hệ thống theo <strong>Hình thái trước</strong> - <strong>Chức năng sau</strong>, việc diễn đạt lại thông tin (PARaphrasing) trở thành bài toán lập trình thuần túy: <strong>Thay thế các khối mã có cùng chức năng đầu ra</strong> mà không cần phá vỡ hay làm biến dạng thiết lập tổng thể của khuôn mẫu chung.</p>
+      <h4 className="margin-y-40">1. [PREDicator HEAD] SUBsystem</h4>
 
-
-      <h4 className="margin-y-40">1. Phân hệ Động: Thay đổi các MODule chứa hành động</h4>
-
-      <h5 className="margin-y-30 text-indent-whole" id="Case-1">Case 1: Giữ nguyên cấp độ, thay thế khối mã tương đương</h5>
+      <h5 className="margin-y-30 text-indent-whole" id="Case-1">Case 1: <strong>Keep the level unchanged</strong>:</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>CLAUSE</strong> → <strong>CLAUSE</strong>]</p>
       
         <ul className="list-square">
       
-          <li>[CLEARing the BROWser CACHE] is NECessary.</li>
-          <li className="margin-bottom-20 list-none">[Xóa bộ nhớ cache của trình duyệt] là điều cần thiết.</li>
+          <li>CLEARing the BROWser CACHE is NECessary.</li>
+          <li className="margin-bottom-20 list-none">It is necessary to clear the browser cache.</li>
       
-          <li className="list-none margin-bottom-10">External block: [CLEARing the BROWser CACHE] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "CLEARing" và đối tượng đi kèm.</li>
+          <li className="list-none margin-bottom-10">External block: [CLEARing the BROWser CACHE] - [non-finite clause as subject] of [copular intransitive verb] in the [3rd singular present BE form] "is" in the [main clause]. Essentially, it is a [gerund-participle clause] composed of the [gerund-participle form] "CLEARing" and its accompanying object.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the BROWser CACHE] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "CLEARing".</li>
+          <li className="list-none margin-bottom-10">Inner block: [the BROWser CACHE] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [GERUND-PARTICIPLE FORM] "CLEARing".</li>
       
         </ul>
       
@@ -899,12 +896,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[EMPtying the TEMporary FOLDer] is NECessary.</li>
-          <li className="margin-bottom-20 list-none">[Xóa thư mục tạm thời] là việc cần thiết.</li>
+          <li>EMPtying the TEMporary FOLDer is NECessary.</li>
+          <li className="margin-bottom-20 list-none">It is necessary to empty the temporary folder.</li>
       
           <li className="list-none margin-bottom-10">New external block: [EMPtying the TEMporary FOLDer]- [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ một hành động tiếp diễn  [GERund-PARTiciple FORM] "EMPtying", kết hợp khối mở rộng mới.</li>
           
-          <li className="list-none margin-bottom-10">New inner block: [the TEMporary FOLDer] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "EMPtying".</li>
+          <li className="list-none margin-bottom-10">New inner block: [the TEMporary FOLDer] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [GERund-PARTiciple FORM] "EMPtying".</li>
       
         </ul>
 

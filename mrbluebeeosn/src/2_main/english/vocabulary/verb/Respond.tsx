@@ -989,24 +989,24 @@ export default function reSPOND(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">PHẦN 2: ỨNG DỤNG ĐỘT PHÁ – GIẢI MÃ [PARaphrasing] BẰNG KỸ THUẬT [THẾ KHỐI]</h3>
+			<h3 className="margin-y-50 text-center">PART 2: PARaphrasing USING THE TECHNIQUE: [BLOCK REPLACEMENT]</h3>
 
-			<h4 className="margin-y-40">1. Phân hệ [PREDicator HEAD]: Thay đổi các MODule chứa hành động</h4>
+			<h4 className="margin-y-40">1. [PREDicator HEAD] SUBsystem</h4>
 
-			<p className="margin-top-20 text-indent-whole" id="Case-1"><strong>Case 1</strong>: <strong>Giữ nguyên cấp độ</strong> [<strong>CLAUSE</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-1"><strong>Case 1</strong>: <strong>Keep the level unchanged</strong>: [<strong>CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>[reSPONDing PROMPTly to CLIent QUEries] reQUIres proFESsional communiCAtion.</li>
-					<li className="margin-bottom-20 list-none">[Trả lời kịp thời các thắc mắc của khách hàng] đòi hỏi kỹ năng giao tiếp chuyên nghiệp.</li>
+					<li>reSPONDing PROMPTly to CLIent QUEries reQUIres proFESsional communiCAtion.</li>
+					<li className="margin-bottom-20 list-none">It is important to respond promptly to client queries. This requires professional communication.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [reSPONDing PROMPTly to CLIent QUEries] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], để quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "reSPONDing" và đối tượng đi kèm.</li>
+					<li className="list-none margin-bottom-10">External block: [reSPONDing PROMPTly to CLIent QUEries]—[non-FInite CLAUSE as SUBject] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "reQUIres" in the [MAIN CLAUSE], to handle a major task at the beginning of the sentence. Essentially, it is a [gerund-participle clause] composed of the [gerund-participle form] "reSPONDing" and its accompanying object.</li>
 					
 					<li className="list-none margin-bottom-10">Inner block:</li>
 
-					<li className="list-none margin-bottom-10">[PROMPTly] - [ADverb PHRASE as an ADjunct] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", chứa thông tin về thời gian.</li>
+					<li className="list-none margin-bottom-10">[PROMPTly] - [ADverb PHRASE as an ADjunct] of [inTRANsitive VERB] in the [GERund-PARTiciple FORM] "reSPONDing," which contains information about time.</li>
 
-					<li className="list-none margin-bottom-10">[to CLIent QUEries] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", chứa đối tượng của hành động.</li>
+					<li className="list-none margin-bottom-10">[to CLIent QUEries] - [prepoSITion PHRASE as a COMplement] of [inTRANsitive VERB] in the [GERund-PARTiciple FORM] "reSPONDing," which contains the object of the action.</li>
 			
 				</ul>
 			
@@ -1015,16 +1015,16 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[ANswering CUStomer reQUESTS efFICiently] reQUIres proFESsional communiCAtion.</li>
-					<li className="margin-bottom-20 list-none">[Trả lời các yêu cầu của khách hàng một cách hiệu quả] đòi hỏi kỹ năng giao tiếp chuyên nghiệp.</li>
+					<li>ANswering CUStomer reQUESTS efFICiently reQUIres proFESsional communiCAtion.</li>
+					<li className="margin-bottom-20 list-none">Responding efficiently to customer requests requires professional communication.</li>
 			
-					<li className="list-none margin-bottom-10">New external block: [ANswering CUStomer reQUESTS efFICiently] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ một hành động tiếp diễn [GERund-PARTiciple FORM] "ANswering" cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
+					<li className="list-none margin-bottom-10">New external block: [ANswering CUStomer reQUESTS efFiciently] - [non-FInite CLAUSE as SUBject] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "reQUIres" in the [MAIN CLAUSE]. Essentially, this is a [gerund-participle clause] composed of a continuous action in the [gerund-participle form] "answering" along with an expanded data sequence inserted in its place.</li>
 					
 					<li className="list-none margin-bottom-10">New inner block:</li>
 
-					<li className="list-none margin-bottom-10">[CUStomer reQUESTS] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] "ANswering", chứa các yêu cầu của khách hàng.</li>
+					<li className="list-none margin-bottom-10">[Customer REQUESTS] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] "ANSWERING," containing customer requests.</li>
 
-					<li className="list-none margin-bottom-10">[efFICiently] - [ADverb PHRASE as an ADjunct] của của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "ANswering", được thực hiện một cách hiệu quả.</li>
+					<li className="list-none margin-bottom-10">[efFICiently] - [ADverb PHRASE as an ADjunct] of [TRANsitive VERB] in the [GERund-PARTiciple FORM] "ANswering," performed efficiently.</li>
 			
 				</ul>
 

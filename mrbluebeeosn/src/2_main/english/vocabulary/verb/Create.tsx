@@ -987,20 +987,20 @@ export default function creATE(): React.JSX.Element {
 
       {/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">PHẦN 2: ỨNG DỤNG ĐỘT PHÁ – GIẢI MÃ PARAPHRASING BẰNG KỸ THUẬT [THẾ KHỐI]</h3>
+			<h3 className="margin-y-50 text-center">PART 2: PARaphrasing USING THE TECHNIQUE: [BLOCK REPLACEMENT]</h3>
 
-      <h4 className="margin-y-40">1. Phân hệ [PREDicator HEAD]: Thay đổi các MODule chứa hành động</h4>
+      <h4 className="margin-y-40">1. [PREDicator HEAD] SUBsystem</h4>
 
-      <p className="margin-top-20 text-indent-whole" id="Case-1"><strong>Case 1</strong>: <strong>Giữ nguyên cấp độ</strong> [<strong>CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="Case-1"><strong>Case 1</strong>: <strong>Keep the level unchanged</strong>: [<strong>CLAUSE</strong>]</p>
       
         <ul className="list-square">
       
-          <li>[creAting HIGH-IMpact CONtent] reQUIres proFESsional dediCAtion.</li>
-          <li className="margin-bottom-20 list-none">[Tạo ra nội dung có tác động mạnh] đòi hỏi sự cầm cố chuyên nghiệp.</li>
+          <li>creAting HIGH-IMpact CONtent reQUIres proFESsional dediCAtion.</li>
+          <li className="margin-bottom-20 list-none">Creating high-impact content requires professional dedication, as it is an undertaking that demands a significant amount of commitment and effort.</li>
       
-          <li className="list-none margin-bottom-10">External block: [creAting HIGH-IMpact CONtent] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], để quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" và đối tượng đi kèm "HIGH-IMpact CONtent".</li>
+          <li className="list-none margin-bottom-10">External block: [creating HIGH-IMPACT CONTENT]—[non-finite clause as subject] of [transitive verb] in the [3rd singular present form] "requires" in the [main clause]—to handle a major task at the beginning of the sentence. Essentially, it is a [gerund-participle clause] composed of the [gerund-participle form] "creating" and the accompanying object "high-impact content."</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [HIGH-IMpact CONtent] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] "creAting", chứa các đặc điểm mô tả nội dung có sức tác động cao.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HIGH-IMpact CONtent] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] "creAting," containing characteristics that describe high-impact content.</li>
       
         </ul>
       
@@ -1009,12 +1009,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[deVELoping efFECtive proMOtional maTErial] reQUIres proFESsional dediCAtion.</li>
-          <li className="margin-bottom-20 list-none">[Việc phát triển tài liệu quảng cáo hiệu quả] đòi hỏi sự tận tâm và chuyên nghiệp.</li>
+          <li>deVELoping efFECtive proMOtional maTErial reQUIres proFESsional dediCAtion.</li>
+          <li className="margin-bottom-20 list-none">The development of effective promotional material is a professional undertaking that demands dedication.</li>
       
-          <li className="list-none margin-bottom-10">New external block: [deVELoping efFECtive proMOtional maTErial] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ một hành động tiếp diễn [GERund-PARTiciple FORM] "deVELoping" cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
+          <li className="list-none margin-bottom-10">New external block: [developing effective promotional material]—[non-finite clause as subject] of [transitive verb] in the [3rd singular present form] "requires" in the [main clause]. Essentially, this is a [gerund-participle clause] composed of a continuous action in the [gerund-participle form] "developing" along with an expanded data sequence inserted in its place.</li>
           
-          <li className="list-none margin-bottom-10">New inner block: [efFECtive proMOtional maTErial] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "deVELoping", chứa các đặc điểm mô tả tài liệu quảng bá hiệu quả.</li>
+          <li className="list-none margin-bottom-10">New inner block: [efFECtive proMOtional maTErial] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [GERund-PARTiciple FORM] "deVELoping," containing characteristics that describe effective promotional material.</li>
       
         </ul>
 
