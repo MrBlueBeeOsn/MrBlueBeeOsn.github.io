@@ -426,7 +426,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>CLEARing the BROWser HISTORy imPROVES security.</li>
-          <li className="margin-bottom-20 list-none">[Xóa lịch sử trình duyệt] giúp tăng cường an ninh.</li>
+          <li className="margin-bottom-20 list-none">Clearing your browsing history helps keep your information more secure.</li>
       
           <li className="list-none margin-bottom-10">External block: [CLEARing the BROWser HISTORy]—[non-finite CLAUSE as SUBject] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "imPROVES" in the [MAIN CLAUSE]. Essentially, it is a [GERund-PARTiciple CLAUSE] containing a [GERund-PARTiciple FORM] with the suffix "-ing," expanding into a complex action code zone comprising the action of clearing, the recipient, and accompanying characteristics.</li>
           
@@ -442,7 +442,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the IT TEAM FINished CLEARing OLD DAtabase FILES.</li>
-          <li className="margin-bottom-20 list-none">Đội CNTT đã hoàn tất việc [xóa các tệp cơ sở dữ liệu cũ].</li>
+          <li className="margin-bottom-20 list-none">The IT team deleted old database files.</li>
       
           <li className="list-none margin-bottom-10">External block: [CLEARing OLD DAtabase FILES]—[non-finite clause as a catative complement] of [intransitive catative verb] in the [preterite form] "FINished" in the [main clause]. Essentially, this is a [GERund-PARTiciple CLAUSE] containing the [GERund-PARTiciple FORM] "CLEARing," which expands into a complex action code comprising the action of cleaning, the recipient object, and accompanying characteristics.</li>
           
@@ -460,7 +460,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the STAFF MEMber to CLEAR the MEETing ROOM is outSIDE.</li>
-          <li className="margin-bottom-20 list-none">[Nhân viên phụ trách dọn dẹp phòng họp] đang ở bên ngoài.</li>
+          <li className="margin-bottom-20 list-none">The staff member who is responsible for clearing the meeting room is waiting outside.</li>
       
           <li className="list-none margin-bottom-10">External block: [the STAFF MEMBER to CLEAR the MEETING ROOM]—[NOUN PHRASE as SUBJECT] of [COPULAR INTRANSITIVE VERB] in the [3RD SINGULAR PRESENT FORM of "BE"] "is" in the [MAIN CLAUSE].</li>
           
@@ -476,7 +476,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the LAND to be CLEARED NEXT MONTH beLONGS to the CITy.</li>
-          <li className="margin-bottom-20 list-none">[Khu đất sẽ được giải phóng mặt bằng vào tháng tới] thuộc sở hữu của thành phố.</li>
+          <li className="margin-bottom-20 list-none">The land that will be cleared next month is owned by the city.</li>
       
           <li className="list-none margin-bottom-10">External block: [the LAND to be CLEARED NEXT MONTH] - [NOUN PHRASE as SUBJECT] of [inTRANsitive VERB] in the [3RD SINGular PRESENT FORM] "beLONGS" in the [MAIN CLAUSE]. In this case, "beLONGS" is the [PRIMARY VERB as PREDICATE] serving as the [FINITE].</li>
           
@@ -492,7 +492,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the WORKer CLEARing the ROAD BLOCK WORE a VEST.</li>
-          <li className="margin-bottom-20 list-none">[Người công nhân đang dọn dẹp chướng ngại vật trên đường] mặc một chiếc áo khoác phản quang.</li>
+          <li className="margin-bottom-20 list-none">The person working to clear the roadblock was wearing a vest.</li>
       
           <li className="list-none margin-bottom-10">External block: [the WORKer CLEARing the ROAD BLOCK]—[NOUN PHRASE as SUBject] of [TRANsitive VERB] in the [PRETerite FORM] "WORE" in the [MAIN CLAUSE]. In this case, "WORE" is a [LEXical VERB as PREDicator] functioning as a [FInite].</li>
           
@@ -508,7 +508,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the FILES CLEARED by the adMINistrator are PERmanently deLETEd.</li>
-          <li className="margin-bottom-20 list-none">[Các tệp đã được quản trị viên xóa] sẽ bị xóa vĩnh viễn.</li>
+          <li className="margin-bottom-20 list-none">The administrator deleted the files, and they're gone forever.</li>
       
           <li className="list-none margin-bottom-10">External block: [the FILES CLEARED by the administrator]—[NOUN PHRASE as SUBJECT] of the action [VERB PHRASE as PREDICATE] "are deleted" in [MAIN CLAUSE]. In this case, the [non-modal auxiliary verb] "are" is the [primary verb as predicate] in the [finite] form, while the [transitive verb] "deleted" is in the [non-finite] form, indicating that the object "the FILES" has been deleted.</li>
           
@@ -524,7 +524,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>we FOUND an appliCAtion CApable of CLEARing BACKground JUNK.</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi đã tìm thấy [một ứng dụng có khả năng loại bỏ các tập tin rác trong nền].</li>
+          <li className="margin-bottom-20 list-none">We discovered an app that can get rid of unwanted data on your device.</li>
       
           <li className="list-none margin-bottom-10">External block: [an application capable of clearing background junk]—[a noun phrase as a complement] of [a transitive verb] in the [past tense form] "FOUND" in the [main clause].</li>
           

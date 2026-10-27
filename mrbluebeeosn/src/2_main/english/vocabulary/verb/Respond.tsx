@@ -432,7 +432,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>reSPONDing QUICKly to eMERgency CALLS reQUIres PROPer prepaRAtion.</li>
-					<li className="margin-bottom-20 list-none">[Phản ứng nhanh chóng với các cuộc gọi khẩn cấp] đòi hỏi sự chuẩn bị chu đáo.</li>
+					<li className="margin-bottom-20 list-none">It's important to be ready for emergency calls.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [reSPONDing QUICKly to eMERgency CALLS]—[non-FInite CLAUSE as SUBject] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "reQUIres" in the [MAIN CLAUSE], handling a major task at the beginning of the sentence. Essentially, it is a [gerund-participle clause] formed from the [gerund-participle form] “reSPONDing,” with additional information appended afterward.</li>
 					
@@ -448,7 +448,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the supPORT TEAM priORitized reSPONDing to USer FEEDback.</li>
-					<li className="margin-bottom-20 list-none">Đội ngũ hỗ trợ đã ưu tiên [việc phản hồi ý kiến phản hồi của người dùng].</li>
+					<li className="margin-bottom-20 list-none">The support team made responding to user feedback their top priority.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [reSPONDing to USer FEEDback]—[non-FInite CLAUSE as CATenative COMplement] of [TRANsitive VERB] in [PRETerite FORM] "priORitized" in the [MAIN CLAUSE] directly addresses the target. Essentially, it is a [gerund-participle clause] formed from the [gerund-participle form] "reSPONDing," with an additional extended data segment appended to it.</li>
 
@@ -464,7 +464,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>to reSPOND efFECTively in CRIsis situAtions is the TEAM's MAIN GOAL.</li>
-					<li className="margin-bottom-20 list-none">[Phản ứng hiệu quả trong các tình huống khẩn cấp] là mục tiêu chính của đội.</li>
+					<li className="margin-bottom-20 list-none">The team's main goal is to respond effectively to crisis situations.</li>
 
 					<li className="list-none margin-bottom-10">External block: [to reSPOND efFECTively in CRIsis situAtions]—[non-FInite CLAUSE as SUBject] of [COPular inTRANsitive VERB] in the [3RD SINGular PRESent BE FORM] "is" in the [MAIN CLAUSE] to identify the subject at the beginning of the sentence. Essentially, it is a [to-infinitive clause] formed by the [infinitive marker] "to" combined with the [verb phrase] "respond ...". In this case, "effectively" is an [adverb phrase as an adjunct] to the [plain form] verb "respond" and incorporates additional information following it.</li>
 			
@@ -480,7 +480,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the SYStem AIMS to reSPOND autoMATically to NETwork eVENTS.</li>
-					<li className="margin-bottom-20 list-none">Hệ thống này nhằm mục đích [phản hồi tự động trước các sự kiện mạng].</li>
+					<li className="margin-bottom-20 list-none">The system is designed to respond automatically to network events.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [to reSPOND efFECTively in CRIsis situAtions]—[non-FInite CLAUSE as SUBject] of [COPular inTRANsitive VERB] in the [3RD SINGular PRESent BE FORM] "is" in the [MAIN CLAUSE] to identify the subject at the beginning of the sentence. Essentially, it is a [to-infinitive clause] formed by the [infinitive marker] "to" combined with the [verb phrase] "respond ...". In this case, "effectively" is an [adverb phrase as an adjunct] to the [plain form] verb "respond" and incorporates additional information following it.</li>
 					
@@ -496,7 +496,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>it is esSENtial to reSPOND QUICKly to CUStomer comPLAINts.</li>
-					<li className="margin-bottom-20 list-none">[Điều] đó là điều thiết yếu [để phản hồi nhanh chóng các khiếu nại của khách hàng].</li>
+					<li className="margin-bottom-20 list-none">You have to answer customer complaints right away.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [to reSPOND QUICKly to CUStomer comPLAINts]—[non-FInite CLAUSE as extraPOSED SUBject] of [COPular inTRANsitive VERB] in the [3RD SINGular PRESent BE FORM] "is" in the [MAIN CLAUSE], modifying the [DUMmy PROnoun] "it". Essentially, it is a [to-infinitive clause] formed by the [infinitive marker] "to" combined with the [verb phrase] "respond ...," with an additional extended data segment appended afterward.</li>
 					
@@ -515,7 +515,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the Agent reSPONDing to the CRIsis FOUND an efFECtive soLUtion.</li>
-					<li className="margin-bottom-20 list-none">[Người đại diện ứng phó với cuộc khủng hoảng] đã tìm ra một giải pháp hiệu quả.</li>
+					<li className="margin-bottom-20 list-none">The agent who was dealing with the crisis found a good solution.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [the Agent reSPONDing to the CRIsis] - [NOUN PHRASE as SUBject] of [TRANsitive VERB] in the [PRETerite FORM] "FOUND" in [MAIN CLAUSE].</li>
 					
@@ -531,7 +531,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the OFficer to reSPOND to the inQUIRy has been asSIGNED.</li>
-					<li className="margin-bottom-20 list-none">[Cán bộ phụ trách giải đáp thắc mắc] đã được chỉ định.</li>
+					<li className="margin-bottom-20 list-none">The officer who will answer the question has been chosen.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [the officer to respond to the inquiry]—[NOUN PHRASE as SUBJECT] of the action [VERB PHRASE as PREDICATE] "has been assigned" in [MAIN CLAUSE]. In this case, the [non-modal auxiliary verb] "has" is the [primary verb as predicate] functioning as a [finite form], while "been assigned" is the accompanying [non-finite form], and [transitive verb] "assigned."</li>
 					
@@ -547,7 +547,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the Email to be reSPONDed to by the MANager will be SENT toMORrow.</li>
-					<li className="margin-bottom-20 list-none">[Email mà người quản lý cần trả lời] sẽ được gửi vào ngày mai.</li>
+					<li className="margin-bottom-20 list-none">The manager will receive an email tomorrow that needs to be answered.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [the email to be replied to by the manager]—[NOUN PHRASE as SUBJECT] of the action [VERB PHRASE as PREDICATE] "will be SENT" in [MAIN CLAUSE]. In this case, the [primary predicate] "will" is a [modal auxiliary verb as predicate] that is [finite], while the [secondary predicate] "be sent" consists of accompanying [non-finite] forms and the [transitive verb] "sent."</li>
 					
@@ -563,7 +563,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the comPLAINT reSPONDed to by the SERvice dePARTment was reSOLVED YESterday.</li>
-					<li className="margin-bottom-20 list-none">[Khiếu nại mà bộ phận dịch vụ đã giải quyết] đã được giải quyết vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">The problem that the customer complained about was fixed by the Service Department yesterday.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [the complaint addressed by the service department]—[NOUN PHRASE as SUBJECT] of the action [VERB PHRASE as PREDICATE] "was resolved" in [MAIN CLAUSE]. In this case, the [non-modal auxiliary verb] “was” is the [primary verb as predicate] in the [finite] form, while the [transitive verb] “resolved” is in the [non-finite] form, indicating that the subject has been addressed.</li>
 					
@@ -579,7 +579,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>they NEED a SYStem reSPONsive to MARket CHAnges.</li>
-					<li className="margin-bottom-20 list-none">Họ cần [một hệ thống có khả năng thích ứng với những thay đổi của thị trường].</li>
+					<li className="margin-bottom-20 list-none">The system needs to change in response to market changes.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [a system responsive to market changes] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PLAIN PRESENT FORM] "NEED" in the [MAIN CLAUSE].</li>
 					

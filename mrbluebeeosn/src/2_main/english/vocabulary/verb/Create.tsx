@@ -430,7 +430,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>creAting MODern DIGital soLUtions reQUIres DEEP TECHnical KNOWledge.</li>
-          <li className="margin-bottom-20 list-none">[Tạo ra các giải pháp kỹ thuật số hiện đại] đòi hỏi kiến thức kỹ thuật chuyên sâu.</li>
+          <li className="margin-bottom-20 list-none">Making modern digital solutions requires a lot of technical knowledge.</li>
       
           <li className="list-none margin-bottom-10">External block: [creAting MODern DIGital soLUtions]—[non-FInite CLAUSE as SUBject] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "reQUIres" in the [MAIN CLAUSE], serving as the main topic at the beginning of the sentence. Essentially, it is a [gerund-participle clause] formed from the [gerund-participle form] "creating," which incorporates an extended data section following it.</li>
           
@@ -447,7 +447,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the STARTup TEAM priORitized creAting enGAging User CONtent.</li>
-          <li className="margin-bottom-20 list-none">Đội ngũ khởi nghiệp đã ưu tiên [việc tạo ra nội dung thu hút người dùng].</li>
+          <li className="margin-bottom-20 list-none">The startup team decided that making interesting content for users was the most important thing to do.</li>
       
           <li className="list-none margin-bottom-10">External block: [creating engaging user content]—[non-finite clause as a catenaive complement] of [transitive verb] in the [preterite form] "prioritized" in the [main clause] directly addresses the target. Essentially, it is a [gerund-participle clause] formed from the [gerund-participle form] "creating," with an additional extended data segment appended to it.</li>
           
@@ -463,7 +463,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>to creATE susTAINable ENergy SYStems is the founDAtion's MAIN GOAL.</li>
-          <li className="margin-bottom-20 list-none">[Việc tạo ra các hệ thống năng lượng bền vững] là mục tiêu chính của quỹ.</li>
+          <li className="margin-bottom-20 list-none">The foundation's main goal is to create and maintain energy systems that last.</li>
       
           <li className="list-none margin-bottom-10">External block: [to create sustainable energy systems]—[non-finite clause as subject] of [copular intransitive verb] in the [3rd singular present be form] "is" in the [main clause] to identify the subject at the beginning of the sentence. Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "create ..." and supplemented by additional data following it.</li>
           
@@ -479,7 +479,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the COMpany aims to creATE INnovative PROducts for conSUmers.</li>
-          <li className="margin-bottom-20 list-none">Công ty đặt mục tiêu [tạo ra các sản phẩm sáng tạo dành cho người tiêu dùng].</li>
+          <li className="margin-bottom-20 list-none">The company's goal is to create new and innovative products for consumers.</li>
       
           <li className="list-none margin-bottom-10">External block: [to create innovative products for consumers]—[non-finite clause as a catenaive complement] of [catenaive verb] in the [3rd singular present form] "aims" in the [main clause]. Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "create ...," with an additional extended data segment appended afterward.</li>
           
@@ -495,7 +495,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>it is esSENtial to creATE STRONG seCUrity PROtocols.</li>
-          <li className="margin-bottom-20 list-none">[Điều] đó là điều thiết yếu [để xây dựng các giao thức bảo mật vững chắc].</li>
+          <li className="margin-bottom-20 list-none">Creating strong security protocols is essential.</li>
       
           <li className="list-none margin-bottom-10">External block: [to create STRONG security protocols]—[non-finite clause as an exposed subject] of [copular intransitive verb] in the [3rd singular present "be" form] "is" in the [main clause], modifying the [dummy pronoun] "it." Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "create ...," with an additional data segment appended afterward.</li>
           
@@ -514,7 +514,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the engiNEER creAting the CORE SOFTware FOUND an efFIcient MEthod.</li>
-          <li className="margin-bottom-20 list-none">[Kỹ sư phát triển phần mềm cốt lõi] đã tìm ra một phương pháp hiệu quả.</li>
+          <li className="margin-bottom-20 list-none">The engineer discovered a quick and effective method to make the core software.</li>
       
           <li className="list-none margin-bottom-10">External block: [the engineer creating the core software]—[NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "FOUND" in the [MAIN CLAUSE].</li>
           
@@ -531,7 +531,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the ARchitect to creATE the BUILDing BLUEprints has been apPOINted.</li>
-          <li className="margin-bottom-20 list-none">[Kiến trúc sư phụ trách thiết kế bản vẽ kiến trúc] đã được bổ nhiệm.</li>
+          <li className="margin-bottom-20 list-none">The person who will design the building has been chosen.</li>
       
           <li className="list-none margin-bottom-10">External block: [the architect to create the building blueprints]—[NOUN PHRASE as SUBJECT] of the action [VERB PHRASE as PREDICATE] "has been appointed" in [MAIN CLAUSE]. In this case, the [non-modal auxiliary verb] “has” is the [primary verb as predicate] functioning as a [finite form], while “been appointed” is the accompanying [non-finite form], and “[transitive verb] ‘appointed’” is the main verb.</li>
           
@@ -547,7 +547,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the ARTwork to be creAted by the MASter will be exHIBited toMORrow.</li>
-          <li className="margin-bottom-20 list-none">[Tác phẩm nghệ thuật do bậc thầy sáng tạo] sẽ được trưng bày vào ngày mai.</li>
+          <li className="margin-bottom-20 list-none">The artwork that the master is making will be on display tomorrow.</li>
       
           <li className="list-none margin-bottom-10">External block: [the artwork to be created by the master] - [NOUN PHRASE as SUBJECT] functions as the subject of [PREDICATOR] "will be exhibited." In this case, "will" is a [modal auxiliary verb as predicate] that is [finite], while "be exhibited" is a [non-finite] form that accompanies it.</li>
           
@@ -563,7 +563,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the SYStem creAted by the TECH TEAM was LAUNCHED YESterday.</li>
-          <li className="margin-bottom-20 list-none">[Hệ thống do Đội ngũ Kỹ thuật phát triển] đã được ra mắt vào ngày hôm qua.</li>
+          <li className="margin-bottom-20 list-none">The system that the tech team created was launched yesterday.</li>
       
           <li className="list-none margin-bottom-10">External block: [the SYSTEM created by the TECH TEAM]—[NOUN PHRASE as SUBJECT] of the action [VERB PHRASE as PREDICATE] "was LAUNCHED" in [MAIN CLAUSE]. In this case, "was" is the [PRIMARY VERB as PREDICATOR] functioning as a [FINITE] form, while the [TRANSITIVE VERB] "LAUNCHED" is a [NON-FINITE] form that accompanies it, indicating the object that was launched.</li>
           
@@ -579,7 +579,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>they NEED a STRATegy creAtive in its exeCUtion.</li>
-          <li className="margin-bottom-20 list-none">Họ cần [một chiến lược được triển khai một cách sáng tạo].</li>
+          <li className="margin-bottom-20 list-none">They need a plan that is creative in how it is carried out.</li>
       
           <li className="list-none margin-bottom-10">External block: [a STRATegy creAtive in its exeCUtion] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PLAIN PRESent FORM] "NEED" in the [MAIN CLAUSE].</li>
           
