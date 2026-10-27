@@ -604,21 +604,18 @@ export default function CLEAR(): React.JSX.Element {
 
       <h4 className="margin-y-40">3. Phân hệ [prepoSITion PHRASE]</h4>
           
-      <p className="margin-top-20 text-indent-whole">Khi người học nhìn thấy một vùng mã mở rộng bắt đầu bằng một mã định vị (prepoSITion) kéo theo một khối tên gọi phía sau, họ nhận diện ngay diện mạo vật lý [prepoSITion PHRASE]. Khối hình thái này không tạo ra dữ liệu đầu việc (Danh) mà chỉ chuyên biệt hình thành nên 2 chương trình chức năng:</p>
-      
-      
       <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>NOUN PHRASE as SUBject</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="7">Example 7:</p>
       
         <ul className="list-square">
       
-          <li>[the reQUIrement for a CLEAR STRATegy] is URgent.</li>
+          <li>the reQUIrement for a CLEAR STRATegy is URgent.</li>
           <li className="margin-bottom-20 list-none">[Yêu cầu về một chiến lược rõ ràng] là vô cùng cấp bách.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the reQUIrement for a CLEAR STRATegy] - [NOUN PHRASE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [the requirement for a clear strategy]—[NOUN PHRASE as SUBJECT] of [COPULAR INTRANSITIVE VERB] in the [3RD SINGULAR PRESENT BE FORM] "is" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [for a CLEAR STRATegy] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reQUIrement" được hình thành từ [TRANsitive VERB] "reQUIre" kéo theo [TRANsitive prepoSITion] "for".</li>
+          <li className="list-none margin-bottom-10">Inner block: [for a CLEAR STRATegy] - [prepositional PHRASE as a COMplement] of [NOUN as HEAD] in [deVERBal NOUN] "reQUIrement," which is formed from [TRANsitive VERB] "reQUIre" followed by [TRANsitive prepoSITion] "for."</li>
       
         </ul>
       
@@ -629,14 +626,14 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>they MADE [the deCISion] [<strong>af</strong>ter a CLEAR explaNAtion].</li>
+          <li>they MADE the deCISion <strong>af</strong>ter a CLEAR explaNAtion.</li>
           <li className="margin-bottom-20 list-none">Họ đã ra [quyết định] [sau khi được giải thích rõ ràng].</li>
       
           <li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[the deCISion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "MADE" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">[the deCISion] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE FORM] "MADE" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">[<strong>af</strong>ter a CLEAR explaNAtion] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "MADE" trong [MAIN CLAUSE], đảm nhận vai trò làm một khối bối cảnh thời gian đứng sau, bắt đầu bằng [TRANsitive prepoSITion] "<strong>af</strong>ter" kéo theo vùng [NOUN PHRASE as a COMplement] "a CLEAR explaNAtion" phía sau.</li>
+          <li className="list-none margin-bottom-10">[after a CLEAR explanation] - [prepositional phrase as an adjunct] of [transitive verb] in [past tense form] "MADE" in the [main clause], serving as a temporal context block that follows, beginning with the [transitive preposition] "after" and followed by the [noun phrase as a complement] "a CLEAR explanation."</li>
       
         </ul>
 
@@ -647,12 +644,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[with a CLEAR GOAL], she QUICKly FINished the rePORT.</li>
+          <li>with a CLEAR GOAL, she QUICKly FINished the rePORT.</li>
           <li className="margin-bottom-20 list-none">[Với một mục tiêu rõ ràng], cô ấy đã nhanh chóng hoàn thành bản báo cáo.</li>
       
-          <li className="list-none margin-bottom-10">External block: [with a CLEAR GOAL] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "FINished" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập một khối bối cảnh phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau, kéo theo vùng cụm danh chủ/DANH CỤM phía sau "a CLEAR GOAL". Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10">External block: [with a CLEAR GOAL] - [prepositional phrase as an adjunct] of [transitive verb] in [past tense form] "FINished" in [main clause], serving to establish an overarching contextual framework that modifies the entire main information block that follows, bringing along the noun phrase following "a CLEAR GOAL." The entire block is moved to the beginning of the sentence and separated by a comma.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [a CLEAR GOAL] - [NOUN PHRASE as a COMplement] của [TRANsitive prepoSITion] "with".</li>
+          <li className="list-none margin-bottom-10">Inner block: [a CLEAR GOAL] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE PREPOSITION] "with".</li>
       
         </ul>
 
@@ -660,16 +657,9 @@ export default function CLEAR(): React.JSX.Element {
 
       <h4 className="margin-y-40">4. Phân hệ [CLAUSE]</h4>
 
-      <p className="margin-top-20 text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một hệ con hoàn chỉnh có cả thành phần nền tảng [NOUN as HEAD] riêng và [PREDicator HEAD] riêng, người học xác định được diện mạo vật lý [CLAUSE].</p>
-
-      <p className="margin-top-20 text-indent-whole"><strong>Bản chất vật lý</strong>: [ĐIỀU] tuy mang hình thái của một hệ vế đầy đủ nhưng <strong>không thể đứng một mình độc lập</strong> để tạo thành một thông điệp trọn vẹn. Nó luôn lồng ghép vào sơ đồ tổng thể để thực thi một chức năng phụ thuộc.</p>
-
-      <p className="margin-top-20 text-indent-whole">Dựa trên sự xuất hiện của mã kết nối, [LIÊN ĐIỀU] được chia làm 2 phân hệ vận hành:</p>
-
+      <p className="margin-top-20 text-indent-whole">Physical nature: [CLause] — although it takes the form of a complete clause—cannot stand alone to form a complete message. It is always embedded within the overall structure to perform a dependent function.</p>
           
       <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [CLAUSE]</h5>
-
-      <p className="margin-top-20 text-indent-whole">Phân hệ này sử dụng các mã kết nối ([ADverb], [TRANsitive prepoSITion] hoặc mã định vị [PROnoun]) xuất hiện trực tiếp ở đầu hệ con để làm điểm tựa liên kết dữ liệu.</p>
 
 
       <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>FInite CLAUSE as SUBject</strong>]</p>
@@ -678,12 +668,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[HOW you CLEAR these SYStem LOGS] is confidential.</li>
+          <li>HOW you CLEAR these SYStem LOGS is confidential.</li>
           <li className="margin-bottom-20 list-none">[Cách xóa các nhật ký hệ thống này] là thông tin bí mật.</li>
       
-          <li className="list-none margin-bottom-10">External block: [HOW you CLEAR these SYStem LOGS] - [FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" điều khiển chính cho hành động trạng thái. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần liên kết trực quan ở đầu, có [PROnoun as HEAD] "you" và cụm hành động [FInite CLAUSE] "CLEAR ..." phối hợp phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [HOW you CLEAR these SYStem LOGS]—[FInite CLAUSE as SUBject] of [COPular inTRANsitive VERB] in the [3RD SINGular PRESent BE FORM] "is" serves as the main driver of the state action. Essentially, it is an [Open interrogative content clause] containing a visual linking element at the beginning, with [pronoun as head] "you" and the action phrase [finite clause] "CLEAR ..." following it.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [these SYStem LOGS] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "CLEAR".</li>
+          <li className="list-none margin-bottom-10">Inner block: [these SYSTEM LOGS]—[NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PLAIN PRESENT FORM] "CLEAR".</li>
       
         </ul>
       
@@ -694,12 +684,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the engiNEER who CLEARED the ERror CODES] FIXED the SERver.</li>
+          <li>the engiNEER who CLEARED the ERror CODES FIXED the SERver.</li>
           <li className="margin-bottom-20 list-none">[Kỹ sư đã xóa các mã lỗi] đã khắc phục sự cố máy chủ.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the engiNEER who CLEARED the ERror CODES] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "FIXED" trong [MAIN CLAUSE], đóng vai trò chủ thể cốt lõi trong câu.</li>
+          <li className="list-none margin-bottom-10">External block: [the engineer who cleared the error codes]—[NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "FIXED" in the [MAIN CLAUSE]—serves as the core subject of the sentence.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [who CLEARED the ERror CODES] - [FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "engiNEER". Bản chất là [RELative CLAUSE] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân  xử lý bối cảnh thuộc trục thời quá khứ. Hoạt động như một MODule lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng [NOUN as HEAD] "engiNEER".</li>
+          <li className="list-none margin-bottom-10">Inner block: [who CLEARED the ERROR CODES] - [FINITE CLAUSE as a post-MODIFIER] of [NOUN as HEAD] "ENGINEER." Essentially, it is a [RELATIVE CLAUSE] containing a linking code that identifies the head, carrying a context-processing nucleus belonging to the past tense. It functions as an additional filtering module placed after a named block to identify the object [NOUN as HEAD] "engineer".</li>
       
         </ul>
       
@@ -710,12 +700,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
 
-          <li>the TEAM CELebrated [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget].</li>
+          <li>the TEAM CELebrated be<strong>cause</strong> the LEADer CLEARED the PROject BUDget.</li>
           <li className="margin-bottom-20 list-none">Đội đã tổ chức ăn mừng [vì người lãnh đạo đã hoàn thành ngân sách dự án].</li>
       
-          <li className="list-none margin-bottom-10">External block: [be<strong>cause</strong> the LEADer CLEARED the PROject BUDget] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở "CELebrated" trong [MAIN CLAUSE]. Bắt đầu bằng thành phần [TRANsitive prepoSITion] nguyên nhân "be<strong>cause</strong>", chứa [NOUN as HEAD] "LEADer" và cụm hành động [FInite CLAUSE] "CLEARED ..." mang dấu mốc trục thời quá khứ, thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần điều thông tin chính [MAIN CLAUSE] "the VENture sucCEEded" đứng trước.</li>
+          <li className="list-none margin-bottom-10">External block: [because the LEADer CLEARED the PROject BUDget]—[prepoSITion PHRASE as an ADjunct] of [inTRANsitive VERB] in "CELebrated" within [MAIN CLAUSE]. Begins with the [TRANsitive prepoSITion] "because," which serves as the cause, containing [NOUN as HEAD] "LEADer" and the action phrase [FINITE CLAUSE] "CLEARED ..." marked by the past tense, establishing a context module to modify the preceding main clause [MAIN CLAUSE] "the VENTURE succeeded."</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the PROject BUDget] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "CLEARED".</li>
+          <li className="list-none margin-bottom-10">Inner block: [the PROject BUDget] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PRETerite FORM] "CLEARED".</li>
       
         </ul>
 

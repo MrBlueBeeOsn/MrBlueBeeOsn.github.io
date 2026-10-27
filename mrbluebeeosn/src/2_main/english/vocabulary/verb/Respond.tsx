@@ -667,16 +667,16 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[the deLAY in the reSPONSE to the ofFIcial STATEment] CAUSED PUBlic conCERNS.</li>
+					<li>the deLAY in the reSPONSE to the ofFIcial STATEment CAUSED PUBlic conCERNS.</li>
 					<li className="margin-bottom-20 list-none">[Sự chậm trễ trong việc phản hồi tuyên bố chính thức] đã gây ra lo ngại trong dư luận.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [the deLAY in the reSPONSE to the ofFIcial STATEment] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "CAUSED" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10">External block: [the delay in the response to the official statement]—[NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "CAUSED" in [MAIN CLAUSE].</li>
 					
 					<li className="list-none margin-bottom-10">Inner block:</li>
 
-					<li className="list-none margin-bottom-10">[in the reSPONSE to the ofFIcial STATEment] - [prepoSITion PHRASE as a post-MODifier] của [NOUN as HEAD] ở [deVERBal NOUN] "deLAY" để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [TRANsitive prepoSITion] "in".</li>
+					<li className="list-none margin-bottom-10">[in response to the official statement]—[prepositional phrase as a post-modifier] of [noun as head] in [verbal noun] "delay" to indicate and describe the scope of that object's belonging, beginning with [transitive preposition] "in."</li>
 
-					<li className="list-none margin-bottom-10">[to the ofFIcial STATEment] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE" được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the ofFIcial STATEment" phía sau.</li>
+					<li className="list-none margin-bottom-10">[to the official statement] - [prepositional phrase as a complement] of [noun as head] in [VERBAL NOUN] "response," formed from [INTRANSITIVE VERB] "respond," followed by [TRANSITIVE PREPOSITION] "to" and the [NOUN PHRASE] "the official statement" that follows.</li>
 			
 				</ul>
 			
@@ -687,12 +687,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[in reSPONSE to NEW seCUrity reguLAtions], the SYStem upDAted autoMATically.</li>
+					<li>in reSPONSE to NEW seCUrity reguLAtions, the SYStem upDAted autoMATically.</li>
 					<li className="margin-bottom-20 list-none">[Để đáp ứng các quy định an ninh mới], hệ thống đã tự động cập nhật.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [in reSPONSE to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "upDAted" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [TRANsitive prepoSITion] "in" kéo theo vùng [NOUN PHRASE as a COMplement] "reSPONSE..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+					<li className="list-none margin-bottom-10">External block: [in response to new security regulations] - [prepositional phrase as an adjunct] of [intransitive verb] in the [past tense] "upDAted" in the [MAIN CLAUSE], serves to establish the causal/instrumental context block, beginning with the [TRANsitive prepoSITion] "in" followed by the [NOUN PHRASE as a COMplement] "reSPONSE..." afterward. The entire block is moved to the beginning of the sentence and separated by a comma.</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE" được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "NEW seCUrity reguLAtions" phía sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as a COMplement] of [NOUN as HEAD] in [deVERBal NOUN] "reSPONSE," formed from [inTRANsitive VERB] "reSPOND," followed by [TRANsitive prepoSITion] "to" and the [NOUN PHRASE] "NEW security regulations" following it.</li>
 			
 				</ul>
 
@@ -703,12 +703,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the TEAM GATHered [for a QUICK reSPONSE to the INcident].</li>
+					<li>the TEAM GATHered for a QUICK reSPONSE to the INcident.</li>
 					<li className="margin-bottom-20 list-none">Đội đã tập hợp lại [để phản ứng nhanh chóng trước sự cố].</li>
 			
-					<li className="list-none margin-bottom-10">External block: [for a QUICK reSPONSE to the INcident] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "GATHered" trong [MAIN CLAUSE], đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bắt đầu bằng [TRANsitive prepoSITion] "for".</li>
+					<li className="list-none margin-bottom-10">External block: [for a QUICK response to the incident] - [prepositional phrase as an adjunct] of [intransitive verb] in the [past tense form] "gathered" in the [main clause], functioning as a purpose/cause clause, introduced by the [transitive preposition] "for".</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [to the INcident] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE" được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the INcident" phía sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [to the incident] - [prepositional phrase as a complement] of [noun as head] in [verbal noun] "response," formed from [intransitive verb] "respond," followed by [transitive preposition] "to" and the [noun phrase] "the incident" that follows.</li>
 			
 				</ul>
 
@@ -726,12 +726,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[HOW the SYStem reSPONDS to seCUrity THREATS] deTERmines its reliaBILity.</li>
+					<li>HOW the SYStem reSPONDS to seCUrity THREATS deTERmines its reliaBILity.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống phản ứng trước các mối đe dọa an ninh] quyết định độ tin cậy của nó.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [HOW the SYStem reSPONDS to seCUrity THREATS] - [FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "deTERmines" trong [MAIN CLAUSE]. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần [ADverb] "HOW" ở đầu, mang [NOUN as HEAD] riêng "SYStem" và cụm hành động [FInite CLAUSE] "reSPONDS... " phối hợp phía sau.</li>
+					<li className="list-none margin-bottom-10">External block: [HOW the SYSTEM RESPONDS to SECURITY THREATS] - [FINITE CLAUSE as SUBJECT] of [TRANSITIVE VERB] in the [3RD SINGULAR PRESENT FORM] "dETERMINES" in the [MAIN CLAUSE]. Essentially, it is an [open interrogative content clause] containing the [adverb] "HOW" at the beginning, with the [noun as head] "SYSTEM" and the action phrase [finite clause] "responds..." following it.</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [to seCUrity THREATS] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [3RD SINGular PRESent FORM] "reSPONDS", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "seCUrity THREATS" phía sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [to security threats] - [prepositional phrase as a complement] of [intransitive verb] in the [3rd singular present form] "responds," beginning with the [transitive preposition] "to" and followed by the [noun phrase] "security threats."</li>
 			
 				</ul>
 			
@@ -742,12 +742,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the diRECtor exPLAINED [HOW the TEAM reSPONDS to URgent inQUIRies].</li>
+					<li>the diRECtor exPLAINED HOW the TEAM reSPONDS to URgent inQUIRies.</li>
 					<li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ xử lý các yêu cầu khẩn cấp].</li>
 			
-					<li className="list-none margin-bottom-10">External block:  [HOW the TEAM reSPONDS to URgent inQUIRies] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "exPLAINED" trong [MAIN CLAUSE]. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần [ADverb] "HOW" ở đầu, có [NOUN as HEAD] "TEAM" và cụm hành động [FInite CLAUSE] "reSPONDS ..." phối hợp phía sau.</li>
+					<li className="list-none margin-bottom-10">External block: [HOW the TEAM responds to urgent inquiries] - [finite clause as a complement] of [transitive verb] in the [past tense form] "explained" in the [main clause]. Essentially, it is an [open interrogative content clause] containing the [adverb] "HOW" at the beginning, with [NOUN as HEAD] "TEAM" and the action phrase [finite clause] "responds..." following it.</li>
 					
-					<li className="list-none margin-bottom-10">Inner block:  [to URgent inQUIRies] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [3RD SINGular PRESent FORM] "reSPONDS", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "URgent inQUIRies" phía sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [to URgent inQUIRies] - [prepoSITion PHRASE as a COMplement] of [inTRANsitive VERB] in the [3RD SINGular PRESent FORM] "reSPONDS," beginning with the [TRANsitive prepoSITion] "to" and followed by the [NOUN PHRASE] "URgent inQUIRies."</li>
 			
 				</ul>
 			
@@ -758,12 +758,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[the SERver which reSPONDS to USer reQUESTS] was REcently upGRADed.</li>
+					<li>the SERver which reSPONDS to USer reQUESTS was REcently upGRADed.</li>
 					<li className="margin-bottom-20 list-none">[Máy chủ xử lý các yêu cầu của người dùng] vừa được nâng cấp.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [the SERver which reSPONDS to USer reQUESTS] - [NOUN PHRASE as SUBject] của [COPular inTRANsitive VERB] ở [PRETerite FORM] "was" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10">External block: [the server that responds to user requests]—[NOUN PHRASE as SUBJECT] of [COPULAR INTRANSITIVE VERB] in the [PAST TENSE] "was" in the [MAIN CLAUSE].</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [which reSPONDS to USer reQUESTS] - [FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "SERver". Bản chất là [RELative CLAUSE] chứa thành phần [PROnoun as HEAD] vật thể "which" ở đầu, mang cụm hành động [FInite CLAUSE] "reSPONDS ..." phối hợp phía sau xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối [NOUN as HEAD] "SERver" để nhận diện và mô tả đặc điểm cho đối tượng.</li>
+					<li className="list-none margin-bottom-10">Inner block: [which reSPONDS to USer reQUESTS] - [FInite CLAUSE as a post-MODifier] of [NOUN as HEAD] "SERver". Essentially, it is a [RELative CLAUSE] containing the [PROnoun as HEAD] "which" at the beginning, followed by the action phrase [FInite CLAUSE] "reSPONDS ..." that processes the context in the present tense. It functions as an additional filtering module placed after the [NOUN as HEAD] "SERver" block to identify and describe the characteristics of the object.</li>
 			
 				</ul>
 			
@@ -773,12 +773,12 @@ export default function reSPOND(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole" id="10">Example 10:</p>
 			
 				<ul className="list-square">
-					<li>the camPAIGN sucCEEDed [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges].</li>
+					<li>the camPAIGN sucCEEDed be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges.</li>
 					<li className="margin-bottom-20 list-none">Chiến dịch đã thành công [bởi vì đội ngũ đã kịp thời ứng phó với những thay đổi của thị trường].</li>
 			
-					<li className="list-none margin-bottom-10">External block: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "sucCEEDed" trong [MAIN CLAUSE]. Bắt đầu bằng thành phần [TRANsitive prepoSITion] nguyên nhân "be<strong>cause</strong>", chứa [NOUN as HEAD] "TEAM" và cụm hành động [FInite CLAUSE] "reSPONDed ..." mang dấu mốc trục thời quá khứ, thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần điều thông tin chính [MAIN CLAUSE] "the camPAIGN sucCEEDed" đứng trước.</li>
+					<li className="list-none margin-bottom-10">External block: [because the TEAM reSPONDed to MARket CHAnges]—[prepoSITion PHRASE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "sucCEEDed" in the [MAIN CLAUSE]. Beginning with the [transitive preposition] "because," which serves as the cause, containing [NOUN as HEAD] "TEAM" and the action phrase [FINITE CLAUSE] "responded ..." marked by the past tense, establishing a contextual module to modify the preceding main clause [MAIN CLAUSE] "the campaign succeeded."</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [to MARket CHAnges] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "reSPONDed", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "MARket CHAnges" phía sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [to MARKET CHANGES] - [prepositional phrase as a complement] of [intransitive verb] in the [past tense form] "responded," beginning with the [transitive preposition] "to" and followed by the [noun phrase] "MARKET CHANGES."</li>
 			
 				</ul>
 

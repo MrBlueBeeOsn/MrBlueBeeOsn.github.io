@@ -663,16 +663,16 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the deLAY in the creAtion of the NEW PORtal] RAISED SEVeral conCERNS.</li>
+          <li>the deLAY in the creAtion of the NEW PORtal RAISED SEVeral conCERNS.</li>
           <li className="margin-bottom-20 list-none">[Sự chậm trễ trong việc xây dựng cổng thông tin mới] đã gây ra một số lo ngại.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the deLAY in the creAtion of the NEW PORtal] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "RAISED" trong [MAIN CLAUSE], đứng đầu câu và chịu trách nhiệm về mặt ngữ nghĩa.</li>
+          <li className="list-none margin-bottom-10">External block: [the delay in the creation of the new portal]—[NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "RAISED" in the [MAIN CLAUSE], which heads the sentence and carries the semantic weight.</li>
           
           <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[in the creAtion of the NEW PORtal] - [prepoSITion PHRASE as a post-MODifier] của [NOUN as HEAD] ở [deVERBal NOUN] "deLAY", để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [TRANsitive prepoSITion] "in".</li>
+          <li className="list-none margin-bottom-10">[in the creation of the NEW PORTAL] - [prepositional phrase as a post-modifier] of [noun as head] in [derivative noun] "delay," to indicate and describe the scope of that object's belonging, beginning with [transitive preposition] "in."</li>
 
-          <li className="list-none margin-bottom-10">[of the NEW PORtal] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "creAtion" được hình thành từ [TRANsitive VERB] "creATE" kéo theo [TRANsitive prepoSITion] "of" và khối [NOUN PHRASE] "the NEW PORtal" phía sau.</li>
+          <li className="list-none margin-bottom-10">[of the NEW Portal] - [prepositional phrase as a complement] of [noun as head] in [verbal noun] "creation" is formed from [transitive verb] "create," followed by [transitive preposition] "of" and the [noun phrase] "the NEW Portal" that follows.</li>
       
         </ul>
       
@@ -683,12 +683,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[for the creAtion of BETter SERvices], the FIRM inVESTment inCREASED.</li>
+          <li>for the creAtion of BETter SERvices, the FIRM inVESTment inCREASED.</li>
           <li className="margin-bottom-20 list-none">[Để tạo ra các dịch vụ tốt hơn], công ty đã tăng cường đầu tư.</li>
       
-          <li className="list-none margin-bottom-10">External block: [for the creAtion of BETter SERvices] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "inCREASED" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [TRANsitive prepoSITion] "for" kéo theo vùng [NOUN PHRASE as a COMplement] "the creAtion ..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10">External block: [for the creation of BETTER SERVICES]—[prepositional phrase as an adjunct] of [intransitive verb] in the [past tense] "increased" in the [main clause] serves to establish the causal/instrumental context block, beginning with the [transitive preposition] "for" followed by the [noun phrase as a complement] "the creation..." afterward. The entire block is moved to the beginning of the sentence as a standalone unit and separated by a comma.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [of BETter SERvices] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "creAtion" được hình thành từ [TRANsitive VERB] "creATE" kéo theo [TRANsitive prepoSITion] "of" và khối [NOUN PHRASE] "BETter SERvices" phía sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [of BETter SERvices] - [prepositional phrase as a complement] of [noun as head] in [verbal noun] "creation" is formed from [transitive verb] "create," followed by [transitive preposition] "of" and the [noun phrase] "BETter SERvices" that follows.</li>
       
         </ul>
 
@@ -699,12 +699,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the TEAM GAthered [for the creAtion of a NEW PROject PLAN].</li>
+          <li>the TEAM GAthered for the creAtion of a NEW PROject PLAN.</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã tập hợp lại [để xây dựng một kế hoạch dự án mới].</li>
       
-          <li className="list-none margin-bottom-10">External block: [for the creAtion of a NEW PROject PLAN] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "GAthered" trong [MAIN CLAUSE], đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bắt đầu bằng [TRANsitive prepoSITion] "for".</li>
+          <li className="list-none margin-bottom-10">External block: [for the creation of a NEW PROJECT PLAN] - [prepositional phrase as an adjunct] of [intransitive verb] in the [past tense form] "gathered" in the [main clause], serving as a purpose/reason clause, introduced by the [transitive preposition] "for".</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [of a NEW PROject PLAN] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "creAtion" được hình thành từ [TRANsitive VERB] "creATE" kéo theo [TRANsitive prepoSITion] "of" và khối [NOUN PHRASE] "a NEW PROject PLAN" phía sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [of a NEW PROJECT PLAN] - [prepositional phrase as a complement] of [noun as head] in [verbal noun] "creation," formed from [transitive verb] "create," followed by [transitive preposition] "of" and the [noun phrase] "a NEW PROject PLAN" that follows.</li>
       
         </ul>
 
@@ -722,12 +722,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[HOW the ARtist creATES uNIQUE SCULPtures] FAScinates the AUdience.</li>
+          <li>HOW the ARtist creATES uNIQUE SCULPtures FAScinates the AUdience.</li>
           <li className="margin-bottom-20 list-none">[Cách nghệ sĩ tạo ra những tác phẩm điêu khắc độc đáo] khiến khán giả say mê.</li>
       
-          <li className="list-none margin-bottom-10">External block: [HOW the ARtist creATES uNIQUE SCULPtures] - [FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "FAScinates" trong [MAIN CLAUSE]. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần [ADverb] "HOW" ở đầu, mang [NOUN as HEAD] riêng "ARtist" và cụm hành động [FInite CLAUSE] "creATES ..." phối hợp phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [HOW the ARTIST CREATES UNIQUE SCULPTURES] - [FINITE CLAUSE as SUBJECT] of [TRANSITIVE VERB] in the [3RD SINGULAR PRESENT FORM] "FASCINATES" in the [MAIN CLAUSE]. Essentially, it is an [open interrogative content clause] containing the [adverb] "HOW" at the beginning, with the [noun as head] "ARTIST" and the action phrase [finite clause] "CREATES ..." following it.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [uNIQUE SCULPtures] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "creATES".</li>
+          <li className="list-none margin-bottom-10">Inner block: [uNIQUE SCULPtures] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "creATES".</li>
       
         </ul>
 
@@ -739,12 +739,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the diRECtor exPLAINED [HOW the TEAM creATES efFECtive adVERtisements].</li>
+          <li>the diRECtor exPLAINED HOW the TEAM creATES efFECtive adVERtisements.</li>
           <li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ tạo ra những quảng cáo hiệu quả].</li>
       
-          <li className="list-none margin-bottom-10">External block: [HOW the TEAM creATES efFECtive adVERtisements] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "exPLAINED" trong [MAIN CLAUSE]. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần [ADverb] "HOW" ở đầu, có [NOUN as HEAD] "TEAM" và cụm hành động [FInite CLAUSE] "creATES ..." phối hợp phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [HOW the TEAM CREATES effective advertisements]—[FINITE CLAUSE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "EXPLAINED" in the [MAIN CLAUSE]. Essentially, it is an [open interrogative content clause] containing the [adverb] "HOW" at the beginning, with [NOUN as HEAD] "TEAM" and the action phrase [finite clause] "creates ..." following it.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [efFECtive adVERtisements] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "creATES".</li>
+          <li className="list-none margin-bottom-10">Inner block: [effective advertisements] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [3RD SINGULAR PRESENT FORM] "creates."</li>
       
         </ul>
       
@@ -755,12 +755,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the ENgine which creATES SOlar ENergy] was REcently inSTALLED.</li>
+          <li>the ENgine which creATES SOlar ENergy was REcently inSTALLED.</li>
           <li className="margin-bottom-20 list-none">[Cỗ máy tạo ra năng lượng mặt trời] vừa được lắp đặt.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the ENgine which creATES SOlar ENergy] - [NOUN PHRASE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "was" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [the engine that generates solar energy]—[NOUN PHRASE as SUBJECT] of [COPULAR INTRANSITIVE VERB] in the [3RD SINGULAR PRESENT BE FORM] "was" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [which creATES SOlar ENergy] - [FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "ENgine". Bản chất là [RELative CLAUSE] chứa thành phần [PROnoun as HEAD] vật thể "which" ở đầu, mang cụm hành động [FInite CLAUSE] "creATES ..." phối hợp phía sau xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối [NOUN as HEAD] "ENgine" để nhận diện và mô tả đặc điểm cho đối tượng.</li>
+          <li className="list-none margin-bottom-10">Inner block: [which creates solar energy]—[finite clause as a post-modifier] of [noun as head] "engine." Essentially, it is a [RELative CLAUSE] containing the [PROnoun as HEAD] "which" at the beginning, followed by the [FInite CLAUSE] "creATES ..." that describes the context in the present tense. It functions as an additional filtering module placed after the [NOUN as HEAD] "Engine" block to identify and describe the characteristics of the object.</li>
       
         </ul>
       
@@ -774,9 +774,9 @@ export default function creATE(): React.JSX.Element {
           <li>the VENture sucCEEded be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion.</li>
           <li className="margin-bottom-20 list-none">Dự án đã thành công [bởi vì người sáng lập đã vạch ra một tầm nhìn rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10">External block: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "sucCEEded" trong [MAIN CLAUSE]. Bắt đầu bằng thành phần [TRANsitive prepoSITion] nguyên nhân "be<strong>cause</strong>", chứa [NOUN as HEAD] "FOUNder" và cụm hành động [FInite CLAUSE] "creAted ..." mang dấu mốc trục thời quá khứ, thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần điều thông tin chính [MAIN CLAUSE] "the VENture sucCEEded" đứng trước.</li>
+          <li className="list-none margin-bottom-10">External block: [because the FOUNder creAted a CLEAR VIsion]—[prepoSITion PHRASE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "sucCEEded" in the [MAIN CLAUSE]. Beginning with the [transitive preposition] "because," which serves as the cause, containing [NOUN as HEAD] "FOUNder" and the action phrase [FINITE CLAUSE] "creAted ..." marked by the past tense, establishing a context module to modify the preceding main clause [MAIN CLAUSE] "the VENture sucCEEded."</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [a CLEAR VIsion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "creAted".</li>
+          <li className="list-none margin-bottom-10">Inner block: [a CLEAR Vision] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "created."</li>
       
         </ul>
 
