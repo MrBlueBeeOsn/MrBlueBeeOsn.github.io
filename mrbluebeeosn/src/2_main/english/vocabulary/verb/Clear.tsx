@@ -22,8 +22,24 @@ export default function CLEAR(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-
+      
       <div className="example">
+
+        <p className="example-sentence text-center">
+
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#defiNITion">defiNITion</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB-SUBsystem">VERB SUBsystem</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#CLAUSE-SUBsystem">CLAUSE SUBsystem</HashLink>
+          </span> &nbsp;
+
+        </p>
               
         <p className="example-sentence text-center">
           
@@ -161,7 +177,7 @@ export default function CLEAR(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-			<h4 className="margin-bottom-30 text-center">defiNITion</h4>
+			<h4 className="margin-bottom-30 text-center" id="defiNITion">defiNITion</h4>
 
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
@@ -200,39 +216,39 @@ export default function CLEAR(): React.JSX.Element {
 
       {/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">VERB CATegories and SYNtax</h3>
+			<h3 className="margin-y-50 text-center">VERB CATegories</h3>
 
 
-      <h4 className="margin-y-40">a. [PREDicator] Subsystem</h4>
+      <h4 className="margin-y-40" id="VERB-SUBsystem">a. VERB SUBsystem</h4>
       
         <ol className="margin-top-40">
       
           <li value="1">[<strong>LEXical VERB</strong>]: CLEAR</li>
-          <li className="margin-bottom-20 list-none">Là mã hành động nguyên bản (dọn dẹp, xóa bỏ, làm sạch), chưa qua xử lý dấu mốc thời gian hay phương thức, đóng vai trò là lõi dữ liệu thô.</li>
+          <li className="margin-bottom-20 list-none">This is the original action code (to tidy up, remove, clean), which has not been processed with a timestamp or modifier, and serves as the raw data core.</li>
 
           <li value="2">[<strong>infiniTIval MARKer</strong>]: to</li>
-					<li className="margin-bottom-20 list-none">[infiniTIval MARKer] "to" đơn lẻ đóng vai trò mã định vị độc lập làm điểm tựa khởi động, đặt nền móng trực tiếp trước hành động để kích hoạt trạng thái nguyên bản hoặc định hướng tác động đến đối tượng. Ví dụ: • Sentence A (Marked): You ought <strong>to</strong> leave. • Sentence B (Unmarked): You should leave.</li>
+					<li className="margin-bottom-20 list-none">The single [infiniTIval MARKer] "to" functions as an independent locator code that serves as a starting point, laying the groundwork immediately before the action to trigger the original state or direct the impact on the object. For example: • Sentence A (Marked): You ought to leave. • Sentence B (Unmarked): You should leave.</li>
 
 					<li className="list-none">[<strong>InfiniTIval suBORdinator</strong>]: to</li>
-					<li className="margin-bottom-20 list-none">"to" nằm ở đầu [CLAUSE], được xem như một công cụ ngữ pháp cấu trúc cho phép và giới thiệu một [CLAUSE]. Ví dụ: • it is esSENtial [<strong>to</strong> mainTAIN neuTRALity]. • they deCIded [<strong>to</strong> deLAY the dePARTure]. • she LEFT EARly in <strong>or</strong>der [<strong>to</strong> CATCH the TRAIN].</li>
+					<li className="margin-bottom-20 list-none">"to" appears at the beginning of a [CLAUSE] and is considered a grammatical device that structures, permits, and introduces a [CLAUSE]. Examples: • it is esSENtial [<strong>to</strong> mainTAIN neuTRALity]. • they deCIded [<strong>to</strong> deLAY the dePARTure]. • she LEFT EARly in <strong>or</strong>der [<strong>to</strong> CATCH the TRAIN].</li>
 					
 					<li className="list-none">[<strong>TRANsitive PrepoSITion</strong>]: to</li>
-					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as COMplement] cho [TRANsitive prepoSITion] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
+					<li className="margin-bottom-20 list-none">"to" is followed by a [NOUN PHRASE as COMplement] for the [TRANsitive prepoSITion] "to." For example: he WALKED to SCHOOL. • she LOOKED at the PICture.</li>
 					
 					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>] - [<strong>PARTicles</strong>]: OUT, IN, WITH, BACK</li>
-					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion] như OUT, IN, UP, BACK đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
+					<li className="margin-bottom-20 list-none">[InTRANsitive PrepoSITions] such as OUT, IN, UP, and BACK, when used alone, follow the verb to specify the direction of movement, scope of effect, intensity, or whether the action is ongoing or completed. For example: turN OFF the LIGHT. / he saT DOWN.</li>
 
           <li value="3">[<strong>non-MOdal auXILiary VERB</strong>]: does, did, is, has, was, am, are</li>
-          <li className="margin-bottom-20 list-none">Là đơn vị từ đơn chuyên biệt chịu trách nhiệm kích hoạt bối cảnh thời gian (Hiện tại/Quá khứ) hoặc làm trợ lực thiết lập thể chủ động/bị động, hoàn thành/tiếp diễn.</li>
+          <li className="margin-bottom-20 list-none">These are specific single-word units responsible for indicating tense (present/past) or for helping to establish the active/passive voice and the perfect/progressive aspect.</li>
 
           <li value="4">[<strong>MOdal auXILiary VERB</strong>]: must, can, should, may, might</li>
-          <li className="margin-bottom-20 list-none">Là mã thiết lập chế độ, tâm thế hoặc khả năng, mức độ chắc chắn của hành động (như bắt buộc, có thể, nên).</li>
+          <li className="margin-bottom-20 list-none">These verbs indicate the mode, attitude, or possibility of an action, as well as the degree of certainty (such as obligation, possibility, or recommendation).</li>
       
           <li className="list-none">[<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ Thái độ mang tính Ý nhị, có Ý tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một khối thống nhất.</li>
+          <li className="margin-bottom-20 list-none">These verbs express a subtle, thoughtful attitude; while the desire is genuine, the wording is conciliatory and avoids any sense of coercion. The specific constructions "ought to" and "had <strong>bet</strong>ter" are treated as a single unit.</li>
 
           <li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>]: will, shall, can, must, may</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ Thái độ mang tính trực diện, Áp đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB] thống nhất.</li>
+          <li className="margin-bottom-20 list-none">These actions express a direct attitude, imposing reality on the listener and leaving no room for escape. The specific construction "have to" is treated as a unified [COMplex asSERTive MOdal VERB].</li>
 
           <li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>]: <strong>HAVing NO TENSE or NO SUBject</strong>.</li>
 
@@ -289,7 +305,7 @@ export default function CLEAR(): React.JSX.Element {
         </ol>
 
       
-      <h4 className="margin-y-40">b. [CLAUSE] Subsystem</h4>
+      <h4 className="margin-y-40" id="CLAUSE-SUBsystem">b. CLAUSE SUBsystem</h4>
           
       <p className="text-indent-whole"><strong>CORE PRINCIPLES:</strong>:</p>
 
@@ -315,7 +331,7 @@ export default function CLEAR(): React.JSX.Element {
 				</ol>
 
 
-      <p className="margin-top-20"><strong>Sơ đồ phối hợp mã mã nguồn</strong> [<strong>Clear</strong>]:</p>
+      <p className="margin-top-20"><strong>Diagram</strong>:</p>
       
         <ul className="list-square">
       
@@ -343,19 +359,19 @@ export default function CLEAR(): React.JSX.Element {
 
       {/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">PHẦN 1: HỆ THỐNG CÁC VÍ DỤ PHÂN HỆ MÃ TIẾNG ANH</h3>
+			<h3 className="margin-y-50 text-center">PART 1: A COLLECTION OF EXAMPLES</h3>
 
       
-      <h4 className="margin-y-40">1. Phân hệ [PREDicator HEAD]</h4>
+      <h4 className="margin-y-40">1. [PREDicator HEAD] SUBsystem</h4>
 
       <p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý của nó là [PREDicator HEAD].</p>
 
       <p className="text-indent-whole">Khi đặt vào sơ đồ vận hành, chính hình thái [ĐỘNG] này sẽ hình thành nên các loại chức năng độc lập:</p>
 
           
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>NOUN PHRASE as SUBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="1">Ví dụ 1: /ˈklærəti/</p>
+      <p className="margin-top-20 text-indent-whole" id="1">Example 1: /ˈklærəti/</p>
       
         <ul className="list-square">
       
@@ -369,9 +385,9 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as diRECT OBject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>NOUN PHRASE as diRECT OBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="2">Ví dụ 2: /klɪə(r)/</p>
+      <p className="margin-top-20 text-indent-whole" id="2">Example 2: /klɪə(r)/</p>
       
         <ul className="list-square">
       
@@ -387,7 +403,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành 2 chức năng song song</strong></p>
 
-      <p className="margin-top-20 text-indent-whole" id="3">Ví dụ 3: /ˈklɪəli/</p>
+      <p className="margin-top-20 text-indent-whole" id="3">Example 3: /ˈklɪəli/</p>
       
         <ul className="list-square">
       
@@ -408,9 +424,9 @@ export default function CLEAR(): React.JSX.Element {
       <p className="text-indent-whole">Khi người học nhìn thấy một vùng mã chứa nhiều thành phần đi kèm hành động, họ nhận diện ngay diện mạo vật lý [CLAUSE]. Khối hình thái này sẽ hình thành đầy đủ các chương trình chức năng đầu ra:</p>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as SUBject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>non-FInite CLAUSE as SUBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="4a">Ví dụ 4a:</p>
+      <p className="margin-top-20 text-indent-whole" id="4a">Example 4a:</p>
       
         <ul className="list-square">
       
@@ -424,9 +440,9 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as CATenative COMplement</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>non-FInite CLAUSE as CATenative COMplement</strong>]</p>
       
-      <p className="margin-top-20 text-indent-whole" id="4b">Ví dụ 4b:</p>
+      <p className="margin-top-20 text-indent-whole" id="4b">Example 4b:</p>
       
         <ul className="list-square">
       
@@ -440,11 +456,11 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>NOUN PHRASE</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>biểu thị hành động sắp xảy ra chủ động</strong> -<strong>to V</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="5a">Ví dụ 5a:</p>
+      <p className="margin-top-20 text-indent-whole" id="5a">Example 5a:</p>
       
         <ul className="list-square">
       
@@ -460,7 +476,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>biểu thị hành động sắp xảy ra bị động -to be</strong> <strong>v3</strong>/-<strong>ed</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="5b">Ví dụ 5b:</p>
+      <p className="margin-top-20 text-indent-whole" id="5b">Example 5b:</p>
       
         <ul className="list-square">
       
@@ -476,7 +492,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>biểu thị hành động đang diễn ra</strong> -<strong>ing</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="5c">Ví dụ 5c:</p>
+      <p className="margin-top-20 text-indent-whole" id="5c">Example 5c:</p>
       
         <ul className="list-square">
       
@@ -492,7 +508,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as SUBject</strong>] <strong>biểu thị hành động đã xong bị động</strong> -<strong>v3</strong>/-<strong>ed</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="5d">Ví dụ 5d:</p>
+      <p className="margin-top-20 text-indent-whole" id="5d">Example 5d:</p>
       
         <ul className="list-square">
       
@@ -508,7 +524,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as COMplement</strong>]:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="5e">Ví dụ 5e:</p>
+      <p className="margin-top-20 text-indent-whole" id="5e">Example 5e:</p>
       
         <ul className="list-square">
       
@@ -524,7 +540,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as post-MODifier</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="6a">Ví dụ 6a:</p>
+      <p className="margin-top-20 text-indent-whole" id="6a">Example 6a:</p>
       
         <ul className="list-square">
       
@@ -539,7 +555,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="6b">Ví dụ 6b:</p>
+      <p className="margin-top-20 text-indent-whole" id="6b">Example 6b:</p>
       
         <ul className="list-square">
       
@@ -555,7 +571,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as COMplement</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="6c">Ví dụ 6c:</p>
+      <p className="margin-top-20 text-indent-whole" id="6c">Example 6c:</p>
       
         <ul className="list-square">
       
@@ -571,7 +587,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="6d">Ví dụ 6d:</p>
+      <p className="margin-top-20 text-indent-whole" id="6d">Example 6d:</p>
       
         <ul className="list-square">
       
@@ -596,9 +612,9 @@ export default function CLEAR(): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole">Khi người học nhìn thấy một vùng mã mở rộng bắt đầu bằng một mã định vị (prepoSITion) kéo theo một khối tên gọi phía sau, họ nhận diện ngay diện mạo vật lý [prepoSITion PHRASE]. Khối hình thái này không tạo ra dữ liệu đầu việc (Danh) mà chỉ chuyên biệt hình thành nên 2 chương trình chức năng:</p>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>NOUN PHRASE as SUBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="7">Ví dụ 7:</p>
+      <p className="margin-top-20 text-indent-whole" id="7">Example 7:</p>
       
         <ul className="list-square">
       
@@ -614,7 +630,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành 2 chức năng song song</strong></p>
 
-      <p className="margin-top-20 text-indent-whole" id="8a">Ví dụ 8a:</p>
+      <p className="margin-top-20 text-indent-whole" id="8a">Example 8a:</p>
       
         <ul className="list-square">
       
@@ -630,9 +646,9 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>prepoSITion PHRASE as ADjunct</strong>]:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="8b">Ví dụ 8b:</p>
+      <p className="margin-top-20 text-indent-whole" id="8b">Example 8b:</p>
       
         <ul className="list-square">
       
@@ -661,9 +677,9 @@ export default function CLEAR(): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole">Phân hệ này sử dụng các mã kết nối ([ADverb], [TRANsitive prepoSITion] hoặc mã định vị [PROnoun]) xuất hiện trực tiếp ở đầu hệ con để làm điểm tựa liên kết dữ liệu.</p>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as SUBject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>FInite CLAUSE as SUBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="9a">Ví dụ 9a:</p>
+      <p className="margin-top-20 text-indent-whole" id="9a">Example 9a:</p>
       
         <ul className="list-square">
       
@@ -677,9 +693,9 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>NOUN PHRASE as SUBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="9b">Ví dụ 9b:</p>
+      <p className="margin-top-20 text-indent-whole" id="9b">Example 9b:</p>
       
         <ul className="list-square">
       
@@ -693,9 +709,9 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>prepoSITion PHRASE as ADjunct</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="10">Ví dụ 10:</p>
+      <p className="margin-top-20 text-indent-whole" id="10">Example 10:</p>
       
         <ul className="list-square">
 
@@ -715,9 +731,9 @@ export default function CLEAR(): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole">Ở phân hệ này, các thành phần liên kết đã được người bản ngữ chủ động lược bỏ để tối ưu tốc độ truyền tải thông tin. Về diện mạo vật lý, khối mã này nhìn hoàn toàn giống như một hệ con độc lập có đầy đủ cặp bài trùng [NOUN as HEAD] và [PREDicator HEAD].</p>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as COMplement</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>FInite CLAUSE as COMplement</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="11a">Ví dụ 11a:</p>
+      <p className="margin-top-20 text-indent-whole" id="11a">Example 11a:</p>
       
         <ul className="list-square">
       
@@ -733,7 +749,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as SUBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="11b">Ví dụ 11b:</p>
+      <p className="margin-top-20 text-indent-whole" id="11b">Example 11b:</p>
       
         <ul className="list-square">
       
@@ -749,7 +765,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as ADjunct</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="11c">Ví dụ 11c:</p>
+      <p className="margin-top-20 text-indent-whole" id="11c">Example 11c:</p>
       
         <ul className="list-square">
       
@@ -771,7 +787,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <h5 className="margin-top-20 text-indent-whole">[non-FInite CLAUSE as SUBject]</h5>
 
-      <p className="margin-top-20 text-indent-whole" id="12a">Ví dụ 12a:</p>
+      <p className="margin-top-20 text-indent-whole" id="12a">Example 12a:</p>
       
         <ul className="list-square">
       
@@ -791,7 +807,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <h5 className="margin-top-20 text-indent-whole">[non-FInite CLAUSE as CATenative COMplement]</h5>
       
-      <p className="margin-top-20 text-indent-whole" id="12b">Ví dụ 12b:</p>
+      <p className="margin-top-20 text-indent-whole" id="12b">Example 12b:</p>
       
         <ul className="list-square">
       
@@ -811,7 +827,7 @@ export default function CLEAR(): React.JSX.Element {
 
       <h5 className="margin-top-20 text-indent-whole">[NOUN PHRASE as COMplement]</h5>
 
-      <p className="margin-top-20 text-indent-whole" id="13">Ví dụ 13:</p>
+      <p className="margin-top-20 text-indent-whole" id="13">Example 13:</p>
       
         <ul className="list-square">
 
@@ -836,7 +852,7 @@ export default function CLEAR(): React.JSX.Element {
           
       <h5 className="margin-top-20 text-indent-whole">[prepoSITion PHRASE as COMplement]</h5>
 
-      <p className="margin-top-20 text-indent-whole" id="14">Ví dụ 14:</p>
+      <p className="margin-top-20 text-indent-whole" id="14">Example 14:</p>
       
         <ul className="list-square">
       

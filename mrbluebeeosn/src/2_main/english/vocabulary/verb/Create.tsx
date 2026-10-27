@@ -22,6 +22,22 @@ export default function creATE(): React.JSX.Element {
       
 
       <div className="example">
+
+        <p className="example-sentence text-center">
+        
+          <span className="highlight-255-padding-0-4 text-border" >
+            <HashLink smooth to="#defiNITion">defiNITion</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#VERB-SUBsystem">VERB SUBsystem</HashLink>
+          </span> &nbsp;
+
+          <span className="highlight-255-padding-0-4 text-border">
+            <HashLink smooth to="#CLAUSE-SUBsystem">CLAUSE SUBsystem</HashLink>
+          </span> &nbsp;
+
+        </p>
               
         <p className="example-sentence text-center">
           
@@ -188,7 +204,7 @@ export default function creATE(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <h4 className="margin-bottom-30 text-center">defiNITion</h4>
+      <h4 className="margin-bottom-30 text-center" id="defiNITion">defiNITion</h4>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -226,37 +242,37 @@ export default function creATE(): React.JSX.Element {
 
       {/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">VERB CATegories and SYNtax</h3>
+			<h3 className="margin-y-50 text-center">VERB CATegories</h3>
 
-      <h4 className="margin-y-40">a. [PREDicator] Subsystem</h4>
+      <h4 className="margin-y-40" id="VERB-SUBsystem">a. VERB SUBsystem</h4>
       
         <ol>
       
           <li value="1">[<strong>LEXical VERB</strong>]: cREATE</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng [LEXical VERB] nguyên bản chưa qua xử lý gộp hay biến hóa cấu trúc hình thái vật lý.</li>
+          <li className="margin-bottom-20 list-none">The action in its original [LEXical VERB] form, without any morphological changes or structural transformations.</li>
 
           <li value="2">[<strong>infiniTIval MARKer</strong>]: to</li>
-					<li className="margin-bottom-20 list-none">[infiniTIval MARKer] "to" đơn lẻ đóng vai trò mã định vị độc lập làm điểm tựa khởi động, đặt nền móng trực tiếp trước hành động để kích hoạt trạng thái nguyên bản hoặc định hướng tác động đến đối tượng. Ví dụ: • Sentence A (Marked): You ought <strong>to</strong> leave. • Sentence B (Unmarked): You should leave.</li>
+					<li className="margin-bottom-20 list-none">The single [infiniTIval MARKer] "to" functions as an independent locator code that serves as a starting point, laying the groundwork immediately before the action to trigger the original state or direct the impact on the object. For example: • Sentence A (Marked): You ought to leave. • Sentence B (Unmarked): You should leave.</li>
 
 					<li className="list-none">[<strong>InfiniTIval suBORdinator</strong>]: to</li>
-					<li className="margin-bottom-20 list-none">"to" nằm ở đầu [CLAUSE], được xem như một công cụ ngữ pháp cấu trúc cho phép và giới thiệu một [CLAUSE]. Ví dụ: • it is esSENtial [<strong>to</strong> mainTAIN neuTRALity]. • they deCIded [<strong>to</strong> deLAY the dePARTure]. • she LEFT EARly in <strong>or</strong>der [<strong>to</strong> CATCH the TRAIN].</li>
+					<li className="margin-bottom-20 list-none">"to" appears at the beginning of a [CLAUSE] and is considered a grammatical device that structures, permits, and introduces a [CLAUSE]. Examples: • it is esSENtial [<strong>to</strong> mainTAIN neuTRALity]. • they deCIded [<strong>to</strong> deLAY the dePARTure]. • she LEFT EARly in <strong>or</strong>der [<strong>to</strong> CATCH the TRAIN].</li>
 					
 					<li className="list-none">[<strong>TRANsitive PrepoSITion</strong>]: to</li>
-					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as COMplement] cho [TRANsitive prepoSITion] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
+					<li className="margin-bottom-20 list-none">"to" is followed by a [NOUN PHRASE as COMplement] for the [TRANsitive prepoSITion] "to." For example: e WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
 					
 					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>] (Particles): OUT, IN, WITH, BACK</li>
-					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion] như OUT, IN, UP, BACK đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
+					<li className="margin-bottom-20 list-none">[InTRANsitive PrepoSITions] such as OUT, IN, UP, and BACK, when used alone, follow the verb to specify the direction of movement, scope of effect, intensity, or whether the action is ongoing or completed. For example: turN OFF the LIGHT. / he saT DOWN.</li>
 
           <li value="3">[<strong>non-MOdal auXILiary VERB</strong>]: does, did, is, has, was, am, are</li>
-          <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng Thời gian / Thời trong câu.</li>
+          <li className="margin-bottom-20 list-none">These single actions appear to convey the concept of time in a sentence.</li>
 
           <li value="4" className="margin-bottom-20">[<strong>MOdal auXILiary VERB</strong>]:</li>
       
           <li className="list-none">[<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ Thái độ mang tính Ý nhị, có Ý tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một khối thống nhất.</li>
+          <li className="margin-bottom-20 list-none">These verbs express a subtle, thoughtful attitude; while the desire is genuine, the wording is conciliatory and avoids any sense of coercion. The specific constructions "ought to" and "had <strong>bet</strong>ter" are treated as a single unit</li>
 
           <li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>]: will, shall, can, must, may</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ Thái độ mang tính trực diện, Áp đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB] thống nhất.</li>
+          <li className="margin-bottom-20 list-none">These actions express a direct attitude, imposing reality on the listener and leaving no room for escape. The specific construction "have to" is treated as a unified [COMplex asSERTive MOdal VERB].</li>
 
           <li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>]: <strong>HAVing NO TENSE or NO SUBject</strong>.</li>
 
@@ -313,7 +329,7 @@ export default function creATE(): React.JSX.Element {
         </ol>
       
 
-      <h4 className="margin-y-40">b. [CLAUSE] Subsystem</h4>
+      <h4 className="margin-y-40" id="CLAUSE-SUBsystem">b. CLAUSE SUBsystem</h4>
           
       <p className="text-indent-whole"><strong>CORE PRINCIPLES:</strong>:</p>
 
@@ -342,14 +358,14 @@ export default function creATE(): React.JSX.Element {
 
       {/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">PHẦN 1: HỆ THỐNG CÁC VÍ DỤ PHÂN HỆ MÃ TIẾNG ANH MỚI</h3>
+			<h3 className="margin-y-50 text-center">PART 1: A COLLECTION OF EXAMPLES</h3>
 
       
-      <h4 className="margin-y-40">1. Phân hệ [PREDicator HEAD]</h4>
+      <h4 className="margin-y-40">1. [PREDicator HEAD] SUBsystem</h4>
           
-      <p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE as SUBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="1">Ví dụ 1: [creAtion] \crē Ā tion\ /kriːˈeɪʃn/</p>
+      <p className="margin-top-20 text-indent-whole" id="1">Example 1: [creAtion] \crē Ā tion\ /kriːˈeɪʃn/</p>
       
         <ul className="list-square">
       
@@ -367,9 +383,9 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as diRECT OBject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE as diRECT OBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="2">Ví dụ 2: [creAtive] \crē Ā tive\ /kriːˈeɪtɪv/</p>
+      <p className="margin-top-20 text-indent-whole" id="2">Example 2: [creAtive] \crē Ā tive\ /kriːˈeɪtɪv/</p>
       
         <ul className="list-square">
       
@@ -385,7 +401,7 @@ export default function creATE(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành 3 chức năng song song</strong></p>
 
-      <p className="margin-top-20 text-indent-whole" id="3">Ví dụ 3: [creAtively] \crē Ā tive ly\ /kriːˈeɪtɪvli/</p>
+      <p className="margin-top-20 text-indent-whole" id="3">Example 3: [creAtively] \crē Ā tive ly\ /kriːˈeɪtɪvli/</p>
       
         <ul className="list-square">
       
@@ -405,11 +421,11 @@ export default function creATE(): React.JSX.Element {
 
       <h4 className="margin-y-40">2. Phân hệ [CLAUSE]</h4>
 
-      <p className="margin-top-20 text-indent-whole"><strong>2.1</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>2.1</strong> <strong>Forming the construction</strong>: [<strong>non-FInite CLAUSE</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="4a">Ví dụ 4a:</p>
+      <p className="margin-top-20 text-indent-whole" id="4a">Example 4a:</p>
       
         <ul className="list-square">
       
@@ -426,7 +442,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="4b">Ví dụ 4b:</p>
+      <p className="margin-top-20 text-indent-whole" id="4b">Example 4b:</p>
       
         <ul className="list-square">
       
@@ -442,7 +458,7 @@ export default function creATE(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="4c">Ví dụ 4c:</p>
+      <p className="margin-top-20 text-indent-whole" id="4c">Example 4c:</p>
       
         <ul className="list-square">
       
@@ -458,7 +474,7 @@ export default function creATE(): React.JSX.Element {
   
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as CATenative COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="4d">Ví dụ 4d:</p>
+      <p className="margin-top-20 text-indent-whole" id="4d">Example 4d:</p>
       
         <ul className="list-square">
       
@@ -474,7 +490,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as extraPOSED SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="4e">Ví dụ 4e:</p>
+      <p className="margin-top-20 text-indent-whole" id="4e">Example 4e:</p>
       
         <ul className="list-square">
       
@@ -488,12 +504,12 @@ export default function creATE(): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole"><strong>2.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>2.2</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE</strong>]</p>
 
       
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>GERund-PARTiciple CLAUSE</strong>] <strong>biểu thị hành động đang diễn ra</strong>, <strong>chủ động</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="5a">Ví dụ 5a:</p>
+      <p className="margin-top-20 text-indent-whole" id="5a">Example 5a:</p>
       
         <ul className="list-square">
       
@@ -510,7 +526,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>biểu thị hành động sắp xảy ra</strong>, <strong>chủ động</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="5b">Ví dụ 5b:</p>
+      <p className="margin-top-20 text-indent-whole" id="5b">Example 5b:</p>
       
         <ul className="list-square">
       
@@ -526,7 +542,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>biểu thị hành động sắp xảy ra</strong>, <strong>bị động</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="5c">Ví dụ 5c:</p>
+      <p className="margin-top-20 text-indent-whole" id="5c">Example 5c:</p>
       
         <ul className="list-square">
       
@@ -542,7 +558,7 @@ export default function creATE(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>PAST PARTiciple CLAUSE</strong>] <strong>biểu thị hành động đã xong</strong>, <strong>bị động</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="5d">Ví dụ 5d:</p>
+      <p className="margin-top-20 text-indent-whole" id="5d">Example 5d:</p>
       
         <ul className="list-square">
       
@@ -558,7 +574,7 @@ export default function creATE(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>ADjective PHRASE as post-MODifier</strong>]:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="5e">Ví dụ 5e:</p>
+      <p className="margin-top-20 text-indent-whole" id="5e">Example 5e:</p>
       
         <ul className="list-square">
       
@@ -572,11 +588,11 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>2.3</strong> <strong>Forming the construction</strong>: [<strong>non-FInite CLAUSE as ADjunct</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>] <strong>có dấu phẩy</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="6a">Ví dụ 6a:</p>
+      <p className="margin-top-20 text-indent-whole" id="6a">Example 6a:</p>
       
         <ul className="list-square">
       
@@ -592,7 +608,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as COMplement</strong>]:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="6b">Ví dụ 6b:</p>
+      <p className="margin-top-20 text-indent-whole" id="6b">Example 6b:</p>
       
         <ul className="list-square">
       
@@ -608,7 +624,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>có dấu phẩy</strong>:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="6c">Ví dụ 6c:</p>
+      <p className="margin-top-20 text-indent-whole" id="6c">Example 6c:</p>
       
         <ul className="list-square">
       
@@ -624,7 +640,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="6d">Ví dụ 6d:</p>
+      <p className="margin-top-20 text-indent-whole" id="6d">Example 6d:</p>
       
         <ul className="list-square">
       
@@ -641,9 +657,9 @@ export default function creATE(): React.JSX.Element {
 
       <h4 className="margin-y-40">3. Phân hệ [prepoSITion PHRASE]</h4>
       
-      <p className="margin-top-20 text-indent-whole"><strong>3.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>3.1</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE as SUBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="7">Ví dụ 7:</p>
+      <p className="margin-top-20 text-indent-whole" id="7">Example 7:</p>
       
         <ul className="list-square">
       
@@ -661,9 +677,9 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>3.2</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>3.2</strong> <strong>Forming the construction</strong>: [<strong>prepoSITion PHRASE as ADjunct</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="8a">Ví dụ 8a:</p>
+      <p className="margin-top-20 text-indent-whole" id="8a">Example 8a:</p>
       
         <ul className="list-square">
       
@@ -677,9 +693,9 @@ export default function creATE(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>3.3</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>3.3</strong> <strong>Forming the construction</strong>: [<strong>prepoSITion PHRASE as ADjunct</strong>]:</p>
 
-      <p className="margin-top-20 text-indent-whole" id="8b">Ví dụ 8b:</p>
+      <p className="margin-top-20 text-indent-whole" id="8b">Example 8b:</p>
       
         <ul className="list-square">
       
@@ -698,11 +714,11 @@ export default function creATE(): React.JSX.Element {
           
       <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [CLAUSE]</h5>
 
-      <p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Hình thành chức năng</strong> [<strong>CONtent CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Forming the construction</strong>: [<strong>CONtent CLAUSE</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="9a">Ví dụ 9a:</p>
+      <p className="margin-top-20 text-indent-whole" id="9a">Example 9a:</p>
       
         <ul className="list-square">
       
@@ -719,7 +735,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="9b">Ví dụ 9b:</p>
+      <p className="margin-top-20 text-indent-whole" id="9b">Example 9b:</p>
       
         <ul className="list-square">
       
@@ -733,9 +749,9 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>4.1.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>4.1.2</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE as SUBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="9c">Ví dụ 9c:</p>
+      <p className="margin-top-20 text-indent-whole" id="9c">Example 9c:</p>
       
         <ul className="list-square">
       
@@ -749,9 +765,9 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>4.1.3</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>4.1.3</strong> <strong>Forming the construction</strong>: [<strong>prepoSITion PHRASE as ADjunct</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="10">Ví dụ 10:</p>
+      <p className="margin-top-20 text-indent-whole" id="10">Example 10:</p>
       
         <ul className="list-square">
 
@@ -768,9 +784,9 @@ export default function creATE(): React.JSX.Element {
 
       <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro deCLARative CONtent CLAUSE]</h5>
 
-      <p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as COMplement</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Forming the construction</strong>: [<strong>FInite CLAUSE as COMplement</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="11a">Ví dụ 11a:</p>
+      <p className="margin-top-20 text-indent-whole" id="11a">Example 11a:</p>
       
         <ul className="list-square">
       
@@ -784,9 +800,9 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>4.2.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as SUBject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>4.2.2</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE as SUBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="11b">Ví dụ 11b:</p>
+      <p className="margin-top-20 text-indent-whole" id="11b">Example 11b:</p>
       
         <ul className="list-square">
       
@@ -800,9 +816,9 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>4.2.3</strong> <strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as ADjunct</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>4.2.3</strong> <strong>Forming the construction</strong>: [<strong>FInite CLAUSE as ADjunct</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="11c">Ví dụ 11c:</p>
+      <p className="margin-top-20 text-indent-whole" id="11c">Example 11c:</p>
       
         <ul className="list-square">
       
@@ -819,11 +835,11 @@ export default function creATE(): React.JSX.Element {
 
       <h4 className="margin-y-40">5. Phân hệ [emBEDded Structure]</h4>
 
-      <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Forming the construction</strong>: [<strong>non-FInite CLAUSE</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTicipial CLAUSE</strong>]</p>
       
-      <p className="margin-top-20 text-indent-whole" id="12a">Ví dụ 12a:</p>
+      <p className="margin-top-20 text-indent-whole" id="12a">Example 12a:</p>
       
         <ul className="list-square">
       
@@ -847,7 +863,7 @@ export default function creATE(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as CATenative COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTicipial CLAUSE</strong>]</p>
       
-      <p className="margin-top-20 text-indent-whole" id="12b">Ví dụ 12b:</p>
+      <p className="margin-top-20 text-indent-whole" id="12b">Example 12b:</p>
       
         <ul className="list-square">
       
@@ -867,7 +883,7 @@ export default function creATE(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]</p>
       
-      <p className="margin-top-20 text-indent-whole" id="12c">Ví dụ 12c:</p>
+      <p className="margin-top-20 text-indent-whole" id="12c">Example 12c:</p>
       
         <ul className="list-square">
       
@@ -887,7 +903,7 @@ export default function creATE(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as CATenative COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]</p>
       
-      <p className="margin-top-20 text-indent-whole" id="12d">Ví dụ 12d:</p>
+      <p className="margin-top-20 text-indent-whole" id="12d">Example 12d:</p>
       
         <ul className="list-square">
       
@@ -907,7 +923,7 @@ export default function creATE(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as extraPOSED SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>]</p>
       
-      <p className="margin-top-20 text-indent-whole" id="12e">Ví dụ 12e:</p>
+      <p className="margin-top-20 text-indent-whole" id="12e">Example 12e:</p>
       
         <ul className="list-square">
       
@@ -925,9 +941,9 @@ export default function creATE(): React.JSX.Element {
         </ul>
     
 
-      <p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as COMplement</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE as COMplement</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="13">Ví dụ 13:</p>
+      <p className="margin-top-20 text-indent-whole" id="13">Example 13:</p>
       
         <ul className="list-square">
       
@@ -949,9 +965,9 @@ export default function creATE(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>5.3</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as COMplement</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>5.3</strong> <strong>Forming the construction</strong>: [<strong>prepoSITion PHRASE as COMplement</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="14">Ví dụ 14:</p>
+      <p className="margin-top-20 text-indent-whole" id="14">Example 14:</p>
       
         <ul className="list-square">
       

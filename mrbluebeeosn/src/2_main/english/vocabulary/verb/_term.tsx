@@ -138,7 +138,7 @@ export default function (): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">PHẦN 1: HỆ THỐNG CÁC VÍ DỤ PHÂN HỆ MÃ TIẾNG ANH MỚI</h3>
 
       
-      <h4 className="margin-y-40">1. Phân hệ [PREDicator HEAD]</h4>
+      <h4 className="margin-y-40">1. [PREDicator HEAD] SUBsystem</h4>
           
       <p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN HEAD</strong>][<strong>DANH LÕI</strong>]</p>
 
