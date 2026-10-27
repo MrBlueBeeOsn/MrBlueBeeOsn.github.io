@@ -128,7 +128,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">"to" nằm ở đầu [CLAUSE], được xem như một công cụ ngữ pháp cấu trúc cho phép và giới thiệu một [CLAUSE]. Ví dụ: • it is esSENtial [<strong>to</strong> mainTAIN neuTRALity]. • they deCIded [<strong>to</strong> deLAY the dePARTure]. • she LEFT EARly in <strong>or</strong>der [<strong>to</strong> CATCH the TRAIN].</li>
 					
 					<li className="list-none">[<strong>TRANsitive PrepoSITion</strong>]: to</li>
-					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as COMplement] cho [prepoSITion][GIỚI] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
+					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as a COMplement] cho [prepoSITion][GIỚI] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
 					
 					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>] - [<strong>PARTicles</strong>]: OUT, IN, WITH, BACK</li>
 					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion] như aWAY, BACK, FORTH, THROUGH đơn lẻ đứng sau hành động để tạo ra hướng di chuyển hoặc chuyển hóa trạng thái không gian của hành động đó. Ví dụ: turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
@@ -194,7 +194,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p className=" text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className=" text-indent-whole">Khi bất kỳ họ [PREDicator HEAD] nào kéo theo các [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement], [ADverb HEAD][TRẠNG LÕI], hoặc [ADjunct][PHỤ] phía sau, toàn khối đó tự động chuyển cấu trúc thành [PHRASE].</p>
+			<p className=" text-indent-whole">Khi bất kỳ họ [PREDicator HEAD] nào kéo theo các [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as a COMplement], [ADverb HEAD][TRẠNG LÕI], hoặc [ADjunct][PHỤ] phía sau, toàn khối đó tự động chuyển cấu trúc thành [PHRASE].</p>
 
 			<p className="text-indent-whole margin-top-20">Ví dụ:</p>
 			
@@ -570,7 +570,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [of WHAT they inVEStigated] - [non-FInite CLAUSE as post-MODifier] của [NOUN PHRASE] mở rộng thông tin bổ trợ cho [NOUN as HEAD] "the aNALysis".</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: WHAT they inVEStigated - [FInite CLAUSE as COMplement] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: WHAT they inVEStigated - [FInite CLAUSE as a COMplement] chịu sự điều phối trực tiếp của [prepoSITion][GIỚI] "of".</li>
 			
 				</ul>
 

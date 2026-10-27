@@ -54,7 +54,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
 						<HashLink smooth to="#non-FInite-CLAUSE-as-SUBject-1">non-FInite CLAUSE as SUBject 1</HashLink>&nbsp;/&nbsp;
-						<HashLink smooth to="#NOUN-PHRASE-as-COMplement">NOUN PHRASE as COMplement</HashLink>
+						<HashLink smooth to="#NOUN-PHRASE-as-COMplement">NOUN PHRASE as a COMplement</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -92,15 +92,15 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 				<p className="example-sentence text-center">
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#ADverb-as-ADjunct-1">ADverb as ADjunct 1</HashLink>
+						<HashLink smooth to="#ADverb-as-ADjunct-1">ADverb as an ADjunct 1</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADverb-as-ADjunct-2">ADverb as ADjunct 2</HashLink>
+						<HashLink smooth to="#ADverb-as-ADjunct-2">ADverb as an ADjunct 2</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#ADverb-as-ADjunct-3">ADverb as ADjunct 3</HashLink>
+						<HashLink smooth to="#ADverb-as-ADjunct-3">ADverb as an ADjunct 3</HashLink>
 					</span> &nbsp;
 
 				</p>
@@ -147,7 +147,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 					<li>[<strong>PREDicator HEAD</strong>][<strong>VỊ LÕI</strong>]: Hạt nhân/Bộ nguồn - Khối điều khiển toàn câu, luôn đứng liền kề với [S]. [Hạt nhân]/[Bộ nguồn][HEAD] là hạt nhân [PREDicator HEAD] hoặc chứa các trợ nguồn [Thời] gian, gánh vác bối cảnh [Thời] gian kết hợp logic thực thi hành động để cấp năng lượng cho toàn câu.</li>
 			
-					<li>[<strong>NOUN PHRASE as COMplement</strong>]: Là tất cả những gì đứng sau [HEAD]. Chúng mang tư duy "dePENDent - phụ thuộc", sinh ra là để bám vào [HEAD] và không bao giờ có thể đứng độc lập một mình.</li>
+					<li>[<strong>NOUN PHRASE as a COMplement</strong>]: Là tất cả những gì đứng sau [HEAD]. Chúng mang tư duy "dePENDent - phụ thuộc", sinh ra là để bám vào [HEAD] và không bao giờ có thể đứng độc lập một mình.</li>
 
 				</ul>
 			
@@ -191,7 +191,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">"to" nằm ở đầu [CLAUSE], được xem như một công cụ ngữ pháp cấu trúc cho phép và giới thiệu một [CLAUSE]. Ví dụ: • it is esSENtial [<strong>to</strong> mainTAIN neuTRALity]. • they deCIded [<strong>to</strong> deLAY the dePARTure]. • she LEFT EARly in <strong>or</strong>der [<strong>to</strong> CATCH the TRAIN].</li>
 					
 					<li className="list-none">[<strong>TRANsitive PrepoSITion</strong>]: to</li>
-					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as COMplement] cho [prepoSITion][GIỚI] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
+					<li className="margin-bottom-20 list-none">"to" đi kèm với [NOUN PHRASE as a COMplement] cho [prepoSITion][GIỚI] "to". Ví dụ: he WALKED <strong>to</strong> SCHOOL. • she LOOKED <strong>at</strong> the PICture.</li>
 					
 					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>] - [<strong>PARTicles</strong>]: OUT, IN, WITH, BACK</li>
 					<li className="margin-bottom-20 list-none">Các [InTRANsitive PrepoSITion] như aWAY, BACK, FORward, Over, ... đơn lẻ đứng sau hành động để điều hướng hướng đi, khuếch đại thái độ hoặc biến đổi hoàn toàn sắc thái ý nghĩa của hành động gốc. Ví dụ: pasS <strong>aWAY</strong>, paY <strong>BACK</strong>, briNG <strong>FORward</strong>, taKE <strong>Over</strong>, turN <strong>OFF</strong> the LIGHT. / he saT <strong>DOWN</strong>.</li>
@@ -407,19 +407,19 @@ export default function LegoAssembly1(): React.JSX.Element {
           
           <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [SWIMming ...] - [non-FInite CLAUSE as SUBject] của [SENtence][CÂU], cụ thể là một [GERund-PARTiciple CLAUSE] kích hoạt và cung cấp năng lượng cho bộ nguồn [3RD SINGular PRESent FORM] "imPROVES".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [...] - [ADverb PHRASE as ADjunct] "REGularly" - "thường xuyên" của [GERund-PARTiciple FORM] "SWIMming". Là một [inTRANsitive VERB], nó có thể tự nhiên có có thể mở rộng câu bằng một [prepoSITion PHRASE as ADjunct] về vị trí hay hướng "in the POOL" - "trong hồ bơi".</li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [...] - [ADverb PHRASE as an ADjunct] "REGularly" - "thường xuyên" của [GERund-PARTiciple FORM] "SWIMming". Là một [inTRANsitive VERB], nó có thể tự nhiên có có thể mở rộng câu bằng một [prepoSITion PHRASE as an ADjunct] về vị trí hay hướng "in the POOL" - "trong hồ bơi".</li>
       
         </ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-COMplement">[<strong>NOUN PHRASE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple FORM</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="NOUN-PHRASE-as-COMplement">[<strong>NOUN PHRASE as a COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple FORM</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the CORporate TEAM EMphasizes [TRAINing].</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ doanh nghiệp chú trọng [việc đào tạo].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [TRAINing] - [NOUN PHRASE as COMplement] của [PREDicator as HEAD] "EMphasizes", tiếp nhận sự chú trọng tác động trực tiếp đứng ngay sau bộ nguồn [3RD SINGular PRESent FORM] "EMphasizes".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [TRAINing] - [NOUN PHRASE as a COMplement] của [PREDicator as HEAD] "EMphasizes", tiếp nhận sự chú trọng tác động trực tiếp đứng ngay sau bộ nguồn [3RD SINGular PRESent FORM] "EMphasizes".</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [TRAINing] - [GERund-PARTiciple FORM] hình thành từ khối [LEXical VERB] nguyên bản "TRAIN" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] biểu đạt một tiến trình hành động được thực hiện hóa.</li>
 			
@@ -440,7 +440,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-COMplement">[<strong>non-FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="non-FInite-CLAUsal-COMplement">[<strong>non-FInite CLAUSE as a COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -466,7 +466,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [inVESTigating WHY the appliCAtion FAILED] đóng vai trò là [non-FInite CLAUSE as SUBject] để kích hoạt bộ nguồn hành động chính [3RD SINGular PRESent FORM] "TAKES" phía sau.</li>
 
-					<li className="list-none">Khối nhỏ bên trong WHY the appliCAtion FAILED đóng vai trò là [FInite CLAUSE as COMplement] làm phần tiếp nhận tác động trực tiếp chịu sự điều phối nội bộ của hành động InVESTigating.</li>
+					<li className="list-none">Khối nhỏ bên trong WHY the appliCAtion FAILED đóng vai trò là [FInite CLAUSE as a COMplement] làm phần tiếp nhận tác động trực tiếp chịu sự điều phối nội bộ của hành động InVESTigating.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
@@ -478,7 +478,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTicipial CLAUSE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as a COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTicipial CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -489,7 +489,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [preDICTing HOW the CLImate will SHIFT] đóng vai trò là [non-FInite CLAUSE as CATenative COMplement] cho hành động chính [PLAIN PRESent FORM] "coORdinate".</li>
 
-					<li className="list-none">Khối nhỏ bên trong HOW the CLImate will SHIFT đóng vai trò là [FInite CLAUSE as COMplement] làm phần tiếp nhận tác động trực tiếp cho hành động preDICTing.</li>
+					<li className="list-none">Khối nhỏ bên trong HOW the CLImate will SHIFT đóng vai trò là [FInite CLAUSE as a COMplement] làm phần tiếp nhận tác động trực tiếp cho hành động preDICTing.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
@@ -514,28 +514,28 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-COMplement">[<strong>FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-COMplement">[<strong>FInite CLAUSE as a COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>AUditors CHECK [HOW TECHnicians seCURE DAta].</li>
 					<li className="margin-bottom-20 list-none">Kiểm toán viên kiểm tra [cách các kỹ thuật viên bảo mật dữ liệu].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW TECHnicians seCURE DAta] - [FInite CLAUSE as COMplement] tiếp nhận nội dung thông tin trực tiếp, đứng sau [PLAIN PRESent FORM] CHECK.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW TECHnicians seCURE DAta] - [FInite CLAUSE as a COMplement] tiếp nhận nội dung thông tin trực tiếp, đứng sau [PLAIN PRESent FORM] CHECK.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [HOW TECHnicians seCURE DAta] - [Open interROGative CONtent CLAUSE] chứa [ADverb] "HOW" ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [NOUN as HEAD] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro that CLAUSE</strong>]</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as a COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro that CLAUSE</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>MANagement dyNAMic beLIEVES [the STRATegy DRIVES GROWTH].</li>
 					<li className="margin-bottom-20 list-none">Ban quản lý tin tưởng [chiến lược thúc đẩy tăng trưởng].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the STRATegy DRIVES GROWTH] - [FInite CLAUSE as COMplement] tiếp nhận nội dung thông tin trực tiếp cho hành động beLIEVES.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the STRATegy DRIVES GROWTH] - [FInite CLAUSE as a COMplement] tiếp nhận nội dung thông tin trực tiếp cho hành động beLIEVES.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [the STRATegy DRIVES GROWTH] - [ZEro deCLARative CONtent CLAUSE] có đầy đủ cấu hình [NOUN as HEAD] nội bộ và hành động nhưng đã bị chủ động lược bỏ đi [suBORdinator] "that" ở đầu khối nhằm tối giản cấu trúc bề mặt.</li>
 			
@@ -610,7 +610,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2">[<strong>FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="FInite-CLAUsal-SUBject-2">[<strong>FInite CLAUSE as a COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>RELative CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -649,42 +649,42 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the seCURity PATCH proTECTS the SYStem [efFECTively].</li>
 					<li className="margin-bottom-20 list-none">Bản vá bảo mật bảo vệ hệ thống [một cách hiệu quả thực tế].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [efFECTively] - [ADverb PHRASE as ADjunct] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động proTECTS.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [efFECTively] - [ADverb PHRASE as an ADjunct] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động proTECTS.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [efFECTively] - [ADverb PHRASE as ADjunct] hình thành từ khối [LEXical VERB] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ nghĩa cách thức, mô hình hóa trạng thái cho hành động.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [efFECTively] - [ADverb PHRASE as an ADjunct] hình thành từ khối [LEXical VERB] nguyên bản "efFECT" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có khả năng bổ nghĩa cách thức, mô hình hóa trạng thái cho hành động.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-2">[<strong>non-FInite CLAUSE as ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole" id="ADverb-as-ADjunct-2">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>the TECHnician TESTS WEEKly [to preVENT SYStem FAILures].</li>
 					<li className="margin-bottom-20 list-none">Kỹ thuật viên kiểm tra hàng tuần [để ngăn ngừa sự cố hệ thống].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to preVENT SYStem FAILures] - [non-FInite CLAUSE as ADjunct] đứng cuối câu để làm rõ bối cảnh mục đích hướng tới của hành động thực thi trước đó.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to preVENT SYStem FAILures] - [non-FInite CLAUSE as an ADjunct] đứng cuối câu để làm rõ bối cảnh mục đích hướng tới của hành động thực thi trước đó.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to preVENT SYStem FAILures] - [to-infiniTIval CLAUSE] bắt đầu bằng một [to-infiniTIval][TO-NGUYÊN] to preVENT phối hợp với khối định danh chịu tác động phía sau.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion PHRASE</strong>][<strong>GIỚI CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>we dePLOYED the appliCAtion [in the CLOUD INfrastructure].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã triển khai ứng dụng [trong hạ tầng điện toán đám mây].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the CLOUD INfrastructure] - [non-FInite CLAUSE as ADjunct] đứng cuối câu để bổ sung bối cảnh không gian vị trí nơi diễn ra toàn bộ sự việc.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in the CLOUD INfrastructure] - [non-FInite CLAUSE as an ADjunct] đứng cuối câu để bổ sung bối cảnh không gian vị trí nơi diễn ra toàn bộ sự việc.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in the CLOUD INfrastructure] - [prepoSITion PHRASE] bắt đầu bằng [prepoSITion][GIỚI] in kết hợp một khối chức năng Danh chỉ không gian để xác định phạm vi hoạt động của [prepoSITion][GIỚI].</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as a COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>prepoSITion and emBEDded CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -695,7 +695,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [the tranSITion at the MOment when the upDATe comPLEted] - [non-FInite CLAUSE as CATenative COMplement]</li>
 					
-					<li className="list-none">Khối giữa [at the MOment when the upDATe comPLEted] đóng vai trò là [<strong>ADverb as ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] bổ sung bối cảnh mốc [Thời] gian cụ thể cho hành động chính iNITiated.</li>
+					<li className="list-none">Khối giữa [at the MOment when the upDATe comPLEted] đóng vai trò là [<strong>ADverb as an ADjunct</strong>][<strong>TRẠNG làm PHỤ</strong>] bổ sung bối cảnh mốc [Thời] gian cụ thể cho hành động chính iNITiated.</li>
 
 					<li className="list-none">Khối nhỏ bên trong when the upDATe comPLEted đóng vai trò là [RELative CLAUSE] bổ nghĩa tính chất xác định trực tiếp cho [NOUN as HEAD] MOment.</li>
 					
@@ -710,14 +710,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>COMplex prepoSITional PHRASE</strong>][<strong>PHỨC GIỚI CỤM</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>COMplex prepoSITional PHRASE</strong>][<strong>PHỨC GIỚI CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>the PROgram CRASHED [due to a MEMORy LEAK].</li>
 					<li className="margin-bottom-20 list-none">Chương trình đã bị sập [vì lỗi rò rỉ bộ nhớ].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to a MEMORy LEAK] - [non-FInite CLAUSE as ADjunct] mở rộng bối cảnh nguyên nhân lý do cho trạng thái sự việc CRASHED.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [due to a MEMORy LEAK] - [non-FInite CLAUSE as an ADjunct] mở rộng bối cảnh nguyên nhân lý do cho trạng thái sự việc CRASHED.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [due to a MEMORy LEAK] - [prepoSITion PHRASE] bắt đầu bằng một [prepoSITion][GIỚI] "due kết hợp khối [prepoSITion PHRASE][PHỨC GIỚI CỤM] "to a MEMORy LEAK" đi kèm phía sau để chỉ nguyên nhân khách quan.</li>
 			
@@ -731,22 +731,22 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>we will PAUSE deVELopment [be<strong>cause</strong> the CLIent reQUESted alteRAtions].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ tạm dừng phát triển [bởi vì khách hàng yêu cầu những thay đổi].</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [ADverb as ADjunct 3][TRẠNG làm PHỤ 3] bổ nghĩa cho hành động chính của bộ nguồn [PRETerite MOdal auXILiary VERB] hay [PREsent MOdal auXILiary VERB] will PAUSE, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [ADverb as an ADjunct 3][TRẠNG làm PHỤ 3] bổ nghĩa cho hành động chính của bộ nguồn [PRETerite MOdal auXILiary VERB] hay [PREsent MOdal auXILiary VERB] will PAUSE, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [prepoSITion PHRASE as ADjunct] chứa [prepoSITion][GIỚI] be<strong>cause</strong> và một bộ khung [S]-[HEAD] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [prepoSITion PHRASE as an ADjunct] chứa [prepoSITion][GIỚI] be<strong>cause</strong> và một bộ khung [S]-[HEAD] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
 					
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro that CLAUSE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>ZEro that CLAUSE</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>[had the WARNing TRIGgered SOONer], we would have MITigated RISKS.</li>
 					<li className="margin-bottom-20 list-none">[Nếu cảnh báo kích hoạt sớm hơn], chúng tôi đã giảm thiểu được các rủi ro.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had the WARNing TRIGgered SOONer] - [non-FInite CLAUSE as ADjunct] đóng vai trò cung cấp cảnh báo nền tảng giả định bối cảnh điều kiện tiên quyết cho hệ quả của câu lớn phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [had the WARNing TRIGgered SOONer] - [non-FInite CLAUSE as an ADjunct] đóng vai trò cung cấp cảnh báo nền tảng giả định bối cảnh điều kiện tiên quyết cho hệ quả của câu lớn phía sau.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [had the WARNing TRIGgered SOONer] - [ZEro deCLARative CONtent CLAUSE] giả định đã triệt tiêu hoàn toàn [prepoSITion][GIỚI] điều kiện bằng phương pháp đảo cấu trúc đảo khối [FInite VERB][HẠN ĐỘNG] Had lên đứng trước [NOUN as HEAD] nội bộ the WARNing.</li>
 			
@@ -769,9 +769,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the PLATform upDAted [SEAMlessly].</li>
 					<li className="margin-bottom-20 list-none">Nền tảng đã cập nhật [một cách mượt mà không gián đoạn].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [SEAMlessly] - [ADverb PHRASE as ADjunct] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động upDAted.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [SEAMlessly] - [ADverb PHRASE as an ADjunct] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động upDAted.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [SEAMlessly] - [ADverb PHRASE as ADjunct] hình thành từ khối [LEXical VERB] nguyên bản "SEAM" mặc thêm (kết hợp) hậu tố "-less" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có vai trò chỉ trạng thái hoàn hảo, không có vết nối.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [SEAMlessly] - [ADverb PHRASE as an ADjunct] hình thành từ khối [LEXical VERB] nguyên bản "SEAM" mặc thêm (kết hợp) hậu tố "-less" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI] có vai trò chỉ trạng thái hoàn hảo, không có vết nối.</li>
 			
 				</ul>
 			
@@ -785,7 +785,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>the PLATform upDAted [as <strong>soon</strong> as the CODE PATCH WENT LIVE].</li>
 					<li className="margin-bottom-20 list-none">Nền tảng đã cập nhật [ngay khi bản vá mã nguồn được kích hoạt trực tuyến].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [as <strong>soon</strong> as the CODE PATCH WENT LIVE] - [non-FInite CLAUSE as ADjunct] thay thế vị trí của [ADverb HEAD][TRẠNG LÕI] cũ, mở rộng quy mô thông tin thành bối cảnh [Thời] gian cho hành động chính updated nhưng vẫn giữ nguyên màu sắc chức năng cung cấp bối cảnh.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [as <strong>soon</strong> as the CODE PATCH WENT LIVE] - [non-FInite CLAUSE as an ADjunct] thay thế vị trí của [ADverb HEAD][TRẠNG LÕI] cũ, mở rộng quy mô thông tin thành bối cảnh [Thời] gian cho hành động chính updated nhưng vẫn giữ nguyên màu sắc chức năng cung cấp bối cảnh.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [as <strong>soon</strong> as the CODE PATCH WENT LIVE] - [Phức Liên Câu][Complex Conjunctional Clause] cấp độ [CLAUSE], chứa [Phức LIÊN][Complex conJUNCtion] as <strong>soon</strong> as kết hợp với một bộ cấu trúc [S]-[HEAD] hoàn chỉnh bên trong để mô tả một mốc sự kiện kích hoạt tức thời.</li>
 			
@@ -816,7 +816,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>diRECtors apPROVE [that the dePARTment inCREASes the BUDget].</li>
 					<li className="margin-bottom-20 list-none">Các giám đốc phê duyệt [rằng phòng ban sẽ tăng ngân sách].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [that the dePARTment inCREASes the BUDget] - [FInite CLAUSE as COMplement] giữ nguyên vị trí chức năng [COMplement] đứng sau apPROVE nhưng cấu trúc hình thái được bung mở thành một câu con đầy đủ cấu trúc [S]-[HEAD] bên trong để chi tiết hóa thông tin.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [that the dePARTment inCREASes the BUDget] - [FInite CLAUSE as a COMplement] giữ nguyên vị trí chức năng [COMplement] đứng sau apPROVE nhưng cấu trúc hình thái được bung mở thành một câu con đầy đủ cấu trúc [S]-[HEAD] bên trong để chi tiết hóa thông tin.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that the dePARTment inCREASes the BUDget] - [deCLARative CONtent CLAUSE] bắt đầu bằng [suBORdinator] "that" bao bọc lấy một kết cấu câu hoàn chỉnh có chủ vị phân định rõ ràng.</li>
 			

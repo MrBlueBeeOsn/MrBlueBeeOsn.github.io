@@ -335,7 +335,7 @@ export default function reSPOND(): React.JSX.Element {
 					
 			<p className="text-indent-whole"><strong>CORE PRINCIPLES:</strong>:</p>
 
-			<p className="text-indent-whole">When any [PREDicator HEAD] from the above system is followed by a complement such as [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement], [FInite CLAUSE as ADjunct], the entire structure is immediately labeled and elevated to its corresponding [PHRASE] form.</p>
+			<p className="text-indent-whole">When any [PREDicator HEAD] from the above system is followed by a complement such as [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as a COMplement], [FInite CLAUSE as an ADjunct], the entire structure is immediately labeled and elevated to its corresponding [PHRASE] form.</p>
 
 			<ol className="margin-top-40">
 			
@@ -394,7 +394,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li><strong>ever</strong>y CUStomer SERvice dePARTment reQUIres [a reSPONsive TEAM].</li>
 					<li className="margin-bottom-20 list-none">Mỗi bộ phận Dịch vụ Khách hàng đều cần có [một đội ngũ làm việc nhanh nhạy].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a reSPONsive TEAM] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a reSPONsive TEAM] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE].</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONsive] - [ADjective as pre-MODifier] của [NOUN as HEAD] "TEAM". Hình thành từ khối [LEXical VERB] nguyên bản "reSPOND" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài có khả năng mô tả tính chất đặc điểm của [NOUN as HEAD] "TEAM".</li>
 			
@@ -407,16 +407,16 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the SYStem SOLVED [the QUEry] [reSPONsively] [during the TEST].</li>
-					<li className="margin-bottom-20 list-none">Hệ thống đã giải quyết [câu truy vấn] [một cách linh hoạt] [trong quá trình kiểm thử].</li>
+					<li>the SYStem SOLVED the QUEry reSPONsively during the TEST.</li>
+					<li className="margin-bottom-20 list-none">The system was able to solve the query quickly and without a hitch during the test.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối song</strong>:</li>
 
-					<li className="list-none margin-bottom-10">[the QUEry] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "SOLVED".</li>
+					<li className="list-none margin-bottom-10">[the QUEry] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "SOLVED".</li>
 
-					<li className="list-none margin-bottom-10">[reSPONsively] - [ADverb PHRASE as ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "SOLVED" trong [MAIN CLAUSE]. Hình thành từ khối [LEXical VERB] nguyên bản "reSPOND" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+					<li className="list-none margin-bottom-10">[reSPONsively] - [ADverb PHRASE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "SOLVED" in the [MAIN CLAUSE]. Formed from the original [lexical verb] "reSPOND" through a variant describing a characteristic and the addition of the suffix "-ly" to alter its form and provide contextual information about the manner.</li>
 
-					<li className="list-none margin-bottom-10">[during the TEST] - [prepoSITion PHRASE as ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "SOLVED" để xác định khung thời gian diễn ra.</li>
+					<li className="list-none margin-bottom-10">[during the TEST] - [prepoSITion PHRASE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "SOLVED" to specify the time frame in which it occurred.</li>
 			
 				</ul>
 
@@ -436,13 +436,13 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing QUICKly to eMERgency CALLS] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to eMERgency CALLS] - [prepoSITion PHRASE as ADjunct] của hành động "reSPONDing".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to eMERgency CALLS] - [prepoSITion PHRASE as an ADjunct] của hành động "reSPONDing".</li>
 			
 				</ul>
 
 	
 
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>]</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as a COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="4b">Example 4b:</p>
 			
@@ -453,7 +453,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing to USer FEEDback] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "priORitized" trong [MAIN CLAUSE] tiếp nhận trực tiếp mục tiêu. Bản chất là [GERund-PARTiciple CLAUSE] hình thành từ [GERund-PARTiciple FORM] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to USer FEEDback] - [prepoSITion PHRASE as ADjunct] của [inTRANsitive VERB] "reSPONDing".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to USer FEEDback] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] "reSPONDing".</li>
 			
 				</ul>
 
@@ -467,9 +467,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[to reSPOND efFECTively in CRIsis situAtions] is the TEAM's MAIN GOAL.</li>
 					<li className="margin-bottom-20 list-none">[Phản ứng hiệu quả trong các tình huống khẩn cấp] là mục tiêu chính của đội.</li>
 
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND efFECTively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE] để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ...". Trong đó "efFECTively" là [ADverb PHRASE as ADjunct] của hành động [PLAIN FORM] "reSPOND" và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND efFECTively in CRIsis situAtions] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE] để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ...". Trong đó "efFECTively" là [ADverb PHRASE as an ADjunct] của hành động [PLAIN FORM] "reSPOND" và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in CRIsis situAtions] - [prepoSITion PHRASE as ADjunct] của hành động "reSPOND".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [in CRIsis situAtions] - [prepoSITion PHRASE as an ADjunct] của hành động "reSPOND".</li>
 			
 				</ul>
 
@@ -485,7 +485,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND autoMATically to NETwork eVENTS] - [non-FInite CLAUSE as CATenative COMplement] của [inTRANsitive VERB] ở [3RD SINGular PRESent FORM] "AIMS" trong [MAIN CLAUSE] tiếp nhận trực tiếp mục tiêu tác động. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to NETwork eVENTS] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to NETwork eVENTS] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND".</li>
 			
 				</ul>
 			
@@ -501,7 +501,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND QUICKly to CUStomer comPLAINts] - [non-FInite CLAUSE as extraPOSED SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE], bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CUStomer comPLAINts] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to CUStomer comPLAINts] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND".</li>
 			
 				</ul>
 
@@ -582,16 +582,16 @@ export default function reSPOND(): React.JSX.Element {
 					<li>they NEED [a SYStem reSPONsive to MARket CHAnges].</li>
 					<li className="margin-bottom-20 list-none">Họ cần [một hệ thống có khả năng thích ứng với những thay đổi của thị trường].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a SYStem reSPONsive to MARket CHAnges] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "NEED" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a SYStem reSPONsive to MARket CHAnges] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "NEED" trong [MAIN CLAUSE].</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONsive to MARket CHAnges] - [ADjective PHRASE as post-MODifier] của [NOUN as HEAD] "SYStem" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as ADjunct</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>non-FInite CLAUSE as an ADjunct</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>] <strong>có dấu phẩy</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>] <strong>có dấu phẩy</strong>:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="6a">Example 6a:</p>
 			
@@ -600,14 +600,14 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[reSPONDing to REcent conSUmer TRENDS], the COMpany LAUNCHED NEW FEAtures.</li>
 					<li className="margin-bottom-20 list-none">[Để đáp ứng các xu hướng tiêu dùng gần đây], công ty đã ra mắt các tính năng mới.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing to REcent conSUmer TRENDS] - [non-FInite CLAUSE as ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "LAUNCHED" trong [MAIN CLAUSE], đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho toàn bộ [CLAUSE] chính. Bản chất là [GERund-PARTiciple CLAUSE] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM] "reSPONDing" kết hợp một hệ [prepoSITion PHRASE as COMPlentment] của "reSPONDing".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [reSPONDing to REcent conSUmer TRENDS] - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "LAUNCHED" trong [MAIN CLAUSE], đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho toàn bộ [CLAUSE] chính. Bản chất là [GERund-PARTiciple CLAUSE] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM] "reSPONDing" kết hợp một hệ [prepoSITion PHRASE as COMPlentment] của "reSPONDing".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to REcent conSUmer TRENDS] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to REcent conSUmer TRENDS] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing".</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as COMplement</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as a COMplement</strong>]:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="6b">Example 6b:</p>
 			
@@ -616,14 +616,14 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the COMpany ALlocated [FUNDS reSPONDing to URgent MARket RISKS].</li>
 					<li className="margin-bottom-20 list-none">Công ty đã phân bổ [nguồn vốn để ứng phó với các rủi ro thị trường cấp bách].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [FUNDS reSPONDing to URgent MARket RISKS] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "ALlocated" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [FUNDS reSPONDing to URgent MARket RISKS] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "ALlocated" trong [MAIN CLAUSE].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDing to URgent MARket RISKS] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "FUNDS". Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "reSPONDing" kết hợp với [prepoSITion PHRASE as COMplement] "to URgent MARket RISKS" của [inTRANsitive VERB] ở "reSPONDing".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [reSPONDing to URgent MARket RISKS] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "FUNDS". Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "reSPONDing" kết hợp với [prepoSITion PHRASE as a COMplement] "to URgent MARket RISKS" của [inTRANsitive VERB] ở "reSPONDing".</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>có dấu phẩy</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>có dấu phẩy</strong>:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="6c">Example 6c:</p>
 			
@@ -632,18 +632,18 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[to reSPOND efFECTively to CUStomer deMANDS], the STAFF exTENDed WORKing HOURS.</li>
 					<li className="margin-bottom-20 list-none">[Để đáp ứng hiệu quả nhu cầu của khách hàng], các nhân viên đã kéo dài thời gian làm việc.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND efFECTively to CUStomer deMANDS] - [non-FInite CLAUSE as ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "exTENDed" trong [MAIN CLAUSE], đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ...". Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND efFECTively to CUStomer deMANDS] - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "exTENDed" trong [MAIN CLAUSE], đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ...". Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none margin-bottom-10">[efFECTively] - [ADverb PHRASE as ADjunct] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND". Hình thành từ khối [LEXical VERB] nguyên bản "efFECT" qua biến thể mô tả đặc điểm và thêm hậu tố "ive" và "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+					<li className="list-none margin-bottom-10">[efFECTively] - [ADverb PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND". Hình thành từ khối [LEXical VERB] nguyên bản "efFECT" qua biến thể mô tả đặc điểm và thêm hậu tố "ive" và "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
 
-					<li className="list-none margin-bottom-10">[to CUStomer deMANDS] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND".</li>
+					<li className="list-none margin-bottom-10">[to CUStomer deMANDS] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND".</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="6d">Example 6d:</p>
 			
@@ -652,9 +652,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the techNICian arRIVED [to reSPOND to the NETwork aLERT].</li>
 					<li className="margin-bottom-20 list-none">Kỹ thuật viên đã đến [để xử lý cảnh báo mạng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND to the NETwork aLERT] - [non-FInite CLAUSE as ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "arRIVED" trong [MAIN CLAUSE], đảm nhận vai trò làm một khối bối cảnh mục đích. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to reSPOND to the NETwork aLERT] - [non-FInite CLAUSE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "arRIVED" trong [MAIN CLAUSE], đảm nhận vai trò làm một khối bối cảnh mục đích. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "reSPOND ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the NETwork aLERT] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the NETwork aLERT] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND".</li>
 			
 				</ul>
 
@@ -677,12 +677,12 @@ export default function reSPOND(): React.JSX.Element {
 
 					<li className="list-none margin-bottom-10">[in the reSPONSE to the ofFIcial STATEment] - [prepoSITion PHRASE as post-MODifier] của [NOUN as HEAD] ở [deVERBal NOUN] "deLAY" để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [TRANsitive prepoSITion] "in".</li>
 
-					<li className="list-none margin-bottom-10">[to the ofFIcial STATEment] - [prepoSITion PHRASE as COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE" được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the ofFIcial STATEment" phía sau.</li>
+					<li className="list-none margin-bottom-10">[to the ofFIcial STATEment] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE" được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the ofFIcial STATEment" phía sau.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>3.2</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>3.2</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as an ADjunct</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="8a">Example 8a:</p>
 			
@@ -691,14 +691,14 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[in reSPONSE to NEW seCUrity reguLAtions], the SYStem upDAted autoMATically.</li>
 					<li className="margin-bottom-20 list-none">[Để đáp ứng các quy định an ninh mới], hệ thống đã tự động cập nhật.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in reSPONSE to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "upDAted" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [TRANsitive prepoSITion] "in" kéo theo vùng [NOUN PHRASE as COMplement] "reSPONSE..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [in reSPONSE to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "upDAted" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [TRANsitive prepoSITion] "in" kéo theo vùng [NOUN PHRASE as a COMplement] "reSPONSE..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE" được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "NEW seCUrity reguLAtions" phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to NEW seCUrity reguLAtions] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE" được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "NEW seCUrity reguLAtions" phía sau.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>3.3</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>3.3</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as an ADjunct</strong>]:</p>
 
 			<p className="margin-top-20 text-indent-whole" id="8b">Example 8b:</p>
 			
@@ -707,9 +707,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the TEAM GATHered [for a QUICK reSPONSE to the INcident].</li>
 					<li className="margin-bottom-20 list-none">Đội đã tập hợp lại [để phản ứng nhanh chóng trước sự cố].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for a QUICK reSPONSE to the INcident] - [prepoSITion PHRASE as ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "GATHered" trong [MAIN CLAUSE], đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bắt đầu bằng [TRANsitive prepoSITion] "for".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for a QUICK reSPONSE to the INcident] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "GATHered" trong [MAIN CLAUSE], đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bắt đầu bằng [TRANsitive prepoSITion] "for".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the INcident] - [prepoSITion PHRASE as COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE" được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the INcident" phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the INcident] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE" được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the INcident" phía sau.</li>
 			
 				</ul>
 
@@ -732,12 +732,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HOW the SYStem reSPONDS to seCUrity THREATS] - [FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "deTERmines" trong [MAIN CLAUSE]. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần [ADverb] "HOW" ở đầu, mang [NOUN as HEAD] riêng "SYStem" và cụm hành động [FInite CLAUSE] "reSPONDS... " phối hợp phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to seCUrity THREATS] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [3RD SINGular PRESent FORM] "reSPONDS", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "seCUrity THREATS" phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to seCUrity THREATS] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [3RD SINGular PRESent FORM] "reSPONDS", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "seCUrity THREATS" phía sau.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>]</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as a COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="9b">Example 9b:</p>
 			
@@ -746,9 +746,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the diRECtor exPLAINED [HOW the TEAM reSPONDS to URgent inQUIRies].</li>
 					<li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ xử lý các yêu cầu khẩn cấp].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW the TEAM reSPONDS to URgent inQUIRies] - [FInite CLAUSE as COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "exPLAINED" trong [MAIN CLAUSE]. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần [ADverb] "HOW" ở đầu, có [NOUN as HEAD] "TEAM" và cụm hành động [FInite CLAUSE] "reSPONDS ..." phối hợp phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>:  [HOW the TEAM reSPONDS to URgent inQUIRies] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "exPLAINED" trong [MAIN CLAUSE]. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần [ADverb] "HOW" ở đầu, có [NOUN as HEAD] "TEAM" và cụm hành động [FInite CLAUSE] "reSPONDS ..." phối hợp phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [to URgent inQUIRies] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [3RD SINGular PRESent FORM] "reSPONDS", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "URgent inQUIRies" phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:  [to URgent inQUIRies] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [3RD SINGular PRESent FORM] "reSPONDS", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "URgent inQUIRies" phía sau.</li>
 			
 				</ul>
 			
@@ -769,7 +769,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>4.1.3</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>4.1.3</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as an ADjunct</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="10">Example 10:</p>
 			
@@ -777,9 +777,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the camPAIGN sucCEEDed [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges].</li>
 					<li className="margin-bottom-20 list-none">Chiến dịch đã thành công [bởi vì đội ngũ đã kịp thời ứng phó với những thay đổi của thị trường].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [prepoSITion PHRASE as ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "sucCEEDed" trong [MAIN CLAUSE]. Bắt đầu bằng thành phần [TRANsitive prepoSITion] nguyên nhân "be<strong>cause</strong>", chứa [NOUN as HEAD] "TEAM" và cụm hành động [FInite CLAUSE] "reSPONDed ..." mang dấu mốc trục thời quá khứ, thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần điều thông tin chính [MAIN CLAUSE] "the camPAIGN sucCEEDed" đứng trước.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "sucCEEDed" trong [MAIN CLAUSE]. Bắt đầu bằng thành phần [TRANsitive prepoSITion] nguyên nhân "be<strong>cause</strong>", chứa [NOUN as HEAD] "TEAM" và cụm hành động [FInite CLAUSE] "reSPONDed ..." mang dấu mốc trục thời quá khứ, thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần điều thông tin chính [MAIN CLAUSE] "the camPAIGN sucCEEDed" đứng trước.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to MARket CHAnges] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "reSPONDed", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "MARket CHAnges" phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to MARket CHAnges] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "reSPONDed", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "MARket CHAnges" phía sau.</li>
 			
 				</ul>
 
@@ -787,7 +787,7 @@ export default function reSPOND(): React.JSX.Element {
 
 			<h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro deCLARative CONtent CLAUSE]</h5>
 
-			<p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as COMplement</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as a COMplement</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="11a">Example 11a:</p>
 			
@@ -796,9 +796,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>they beLIEVE [the TEAM reSPONDed apPROpriately to the WARNing].</li>
 					<li className="margin-bottom-20 list-none">Họ tin rằng [đội đã phản ứng một cách thích hợp trước lời cảnh báo].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the TEAM reSPONDed apPROpriately to the WARNing] - [FInite CLAUSE as COMplement] của [inTRANsitive VERB] ở [PLAIN PRESent FORM] "beLIEVE" trong [MAIN CLAUSE]. Bản chất là [ZEro deCLARative CONtent CLAUSE] đã ẩn thành phần [SuBORdinator] định hướng "that", chỉ còn hiển thị trọn vẹn khối [NOUN as HEAD] "TEAM" và cụm hành động [FInite CLAUSE] "reSPONDed ..." phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the TEAM reSPONDed apPROpriately to the WARNing] - [FInite CLAUSE as a COMplement] của [inTRANsitive VERB] ở [PLAIN PRESent FORM] "beLIEVE" trong [MAIN CLAUSE]. Bản chất là [ZEro deCLARative CONtent CLAUSE] đã ẩn thành phần [SuBORdinator] định hướng "that", chỉ còn hiển thị trọn vẹn khối [NOUN as HEAD] "TEAM" và cụm hành động [FInite CLAUSE] "reSPONDed ..." phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the WARNing] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "reSPONDed", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the WARNing" phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the WARNing] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "reSPONDed", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the WARNing" phía sau.</li>
 			
 				</ul>
 			
@@ -819,7 +819,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>4.2.3</strong> <strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as ADjunct</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>4.2.3</strong> <strong>Hình thành chức năng</strong> [<strong>FInite CLAUSE as an ADjunct</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="11c">Example 11c:</p>
 			
@@ -828,9 +828,9 @@ export default function reSPOND(): React.JSX.Element {
 					<li>[should the SERver reSPOND SLOWly], reSTART the appliCAtion.</li>
 					<li className="margin-bottom-20 list-none">[Nếu máy chủ phản hồi chậm], hãy khởi động lại ứng dụng.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the SERver reSPOND SLOWly] - [FInite CLAUSE as ADjunct] của [TRANsitive VERB] ở [PLAIN FORM] "reSTART" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau. Bản chất là [inVERTed CLAUSE] vận hành ở trạng thái ẩn thành phần [suBORdinator] điều kiện "if" bằng giải pháp đảo [PRETerite MOdal auXILiary VERB] "should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [NOUN as HEAD] "SERver" và [FInite CLAUSE] "reSPOND SLOWly".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the SERver reSPOND SLOWly] - [FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PLAIN FORM] "reSTART" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau. Bản chất là [inVERTed CLAUSE] vận hành ở trạng thái ẩn thành phần [suBORdinator] điều kiện "if" bằng giải pháp đảo [PRETerite MOdal auXILiary VERB] "should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [NOUN as HEAD] "SERver" và [FInite CLAUSE] "reSPOND SLOWly".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [SLOWly] - [ADverb PHRASE as ADjunct] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND". Hình thành từ khối [LEXical ADjective] nguyên bản "SLOW" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [SLOWly] - [ADverb PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PLAIN FORM] "reSPOND". Hình thành từ khối [LEXical ADjective] nguyên bản "SLOW" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
 			
 				</ul>
 
@@ -857,14 +857,14 @@ export default function reSPOND(): React.JSX.Element {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none margin-bottom-10">[to WHAT CUStomers comPLAIN about] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [FInite CLAUSE] "WHAT CUStomers comPLAIN about" phía sau.</li>
+					<li className="list-none margin-bottom-10">[to WHAT CUStomers comPLAIN about] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", bắt đầu bằng [TRANsitive prepoSITion] "to" và khối [FInite CLAUSE] "WHAT CUStomers comPLAIN about" phía sau.</li>
 
-					<li className="list-none margin-bottom-10">[WHAT CUStomers comPLAIN about] - [FInite CLAUSE as COMplement] của [TRANsitive prepoSITion] "to". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [PROnoun] "WHAT" và [NOUN as HEAD] riêng "CUStomers" và cụm hành động riêng đi sau.</li>
+					<li className="list-none margin-bottom-10">[WHAT CUStomers comPLAIN about] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "to". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [PROnoun] "WHAT" và [NOUN as HEAD] riêng "CUStomers" và cụm hành động riêng đi sau.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTicipial CLAUSE</strong>]</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as a COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTicipial CLAUSE</strong>]</p>
 			
 			<p className="margin-top-20 text-indent-whole" id="12b">Example 12b:</p>
 			
@@ -879,7 +879,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [inVESTigating WHY the TEAM reSPONDed POORly to the FEEDback] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "sugGESTed" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTicipial CLAUSE] bắt đầu bằng [GERund-PARTiciple FORM] "inVESTigating" kết hợp vùng mã mở rộng phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the TEAM reSPONDed POORly to the FEEDback] - [FInite CLAUSE as COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "inVESTigating", làm rõ nội dung cho việc điều tra. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "WHY" và [NOUN as HEAD] riêng "TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the TEAM reSPONDed POORly to the FEEDback] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "inVESTigating", làm rõ nội dung cho việc điều tra. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "WHY" và [NOUN as HEAD] riêng "TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau.</li>
 			
 				</ul>
 
@@ -899,7 +899,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "underSTAND ..." kéo theo vùng mã bổ trợ phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem reSPONDS to NETwork FAIlures] - [FInite CLAUSE as COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "underSTAND". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [ADverb] "HOW" và [NOUN as HEAD] "SYStem" và cụm hành động riêng đi sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem reSPONDS to NETwork FAIlures] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "underSTAND". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [ADverb] "HOW" và [NOUN as HEAD] "SYStem" và cụm hành động riêng đi sau.</li>
 			
 				</ul>
 
@@ -919,7 +919,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to ANalyze HOW USers reSPOND to NEW INterface deSIGNS] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "PLANS" trong [MAIN CLAUSE], tiếp nhận mục tiêu kế hoạch cho hành động. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "ANalyze ..." kéo theo vùng mã bổ trợ phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW USers reSPOND to NEW INterface deSIGNS] - [FInite CLAUSE as COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "ANalyze". Bản chất là [Open interROGative CONtent CLAUSE] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "USers" và cụm hành động riêng đi sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW USers reSPOND to NEW INterface deSIGNS] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "ANalyze". Bản chất là [Open interROGative CONtent CLAUSE] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "USers" và cụm hành động riêng đi sau.</li>
 			
 				</ul>
 
@@ -939,12 +939,12 @@ export default function reSPOND(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [non-FInite CLAUSE as extraPOSED SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "eVALuate ..." và kéo theo thành phần bổ trợ phía sau.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [FInite CLAUSE as COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "eVALuate", tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the appliCAtion reSPONDS to HIGH TRAFfic] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "eVALuate", tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as COMplement</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE as a COMplement</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="13">Example 13:</p>
 			
@@ -957,18 +957,18 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [rePORTS re<strong>gard</strong>ing HOW the organiZAtion reSPONDS to MARket CRIses] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "reVIEWED" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [rePORTS re<strong>gard</strong>ing HOW the organiZAtion reSPONDS to MARket CRIses] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "reVIEWED" trong [MAIN CLAUSE].</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
 					<li className="list-none margin-bottom-10">[re<strong>gard</strong>ing HOW the organiZAtion reSPONDS to MARket CRIses] - [prepoSITion PHRASE as post-MODifier] của [NOUN as HEAD] "rePORTS". Bắt đầu bằng [TRANsitive prepoSITion] "re<strong>gard</strong>ing" và kéo theo thành phần bổ trợ phía sau.</li>
 					
-					<li className="list-none margin-bottom-10">[HOW the organiZAtion reSPONDS to MARket CRIses] - [FInite CLAUSE as COMplement] của [TRANsitive prepoSITion] "re<strong>gard</strong>ing". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "HOW", [NOUN as HEAD] "organiZAtion", [3RD SINGular PRESent FORM] "reSPONDS" và [prepoSITion PHRASE] "to MARket CRIses" đi sau.</li>
+					<li className="list-none margin-bottom-10">[HOW the organiZAtion reSPONDS to MARket CRIses] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "re<strong>gard</strong>ing". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "HOW", [NOUN as HEAD] "organiZAtion", [3RD SINGular PRESent FORM] "reSPONDS" và [prepoSITion PHRASE] "to MARket CRIses" đi sau.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>5.3</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as COMplement</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>5.3</strong> <strong>Hình thành chức năng</strong> [<strong>prepoSITion PHRASE as a COMplement</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole" id="14">Example 14:</p>
 			
@@ -981,9 +981,9 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [on WHY the GOVernment reSPONDed SLOWly to the eMERgency] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "FOcused" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "on" và kéo theo thành phần bổ trợ phía sau, đảm nhận vai trò làm một khối bối cảnh địa điểm, nội dung tổng thể.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [on WHY the GOVernment reSPONDed SLOWly to the eMERgency] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "FOcused" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "on" và kéo theo thành phần bổ trợ phía sau, đảm nhận vai trò làm một khối bối cảnh địa điểm, nội dung tổng thể.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the GOVernment reSPONDed SLOWly to the eMERgency] - [FInite CLAUSE as COMplement] của [TRANsitive prepoSITion] "on". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "WHY", [NOUN as HEAD] riêng "GOVernment", hành động riêng thuộc trục thời quá khứ [PRETerite FORM] "reSPONDed" và [prepoSITion PHRASE] "to the eMERgency" đi sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the GOVernment reSPONDed SLOWly to the eMERgency] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "on". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "WHY", [NOUN as HEAD] riêng "GOVernment", hành động riêng thuộc trục thời quá khứ [PRETerite FORM] "reSPONDed" và [prepoSITion PHRASE] "to the eMERgency" đi sau.</li>
 			
 				</ul>
 
@@ -1005,9 +1005,9 @@ export default function reSPOND(): React.JSX.Element {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none margin-bottom-10">[PROMPTly] - [ADverb PHRASE as ADjunct] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", chứa thông tin về thời gian.</li>
+					<li className="list-none margin-bottom-10">[PROMPTly] - [ADverb PHRASE as an ADjunct] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", chứa thông tin về thời gian.</li>
 
-					<li className="list-none margin-bottom-10">[to CLIent QUEries] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", chứa đối tượng của hành động.</li>
+					<li className="list-none margin-bottom-10">[to CLIent QUEries] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", chứa đối tượng của hành động.</li>
 			
 				</ul>
 			
@@ -1023,43 +1023,43 @@ export default function reSPOND(): React.JSX.Element {
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>:</li>
 
-					<li className="list-none margin-bottom-10">[CUStomer reQUESTS] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] "ANswering", chứa các yêu cầu của khách hàng.</li>
+					<li className="list-none margin-bottom-10">[CUStomer reQUESTS] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] "ANswering", chứa các yêu cầu của khách hàng.</li>
 
-					<li className="list-none margin-bottom-10">[efFICiently] - [ADverb PHRASE as ADjunct] của của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "ANswering", được thực hiện một cách hiệu quả.</li>
+					<li className="list-none margin-bottom-10">[efFICiently] - [ADverb PHRASE as an ADjunct] của của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "ANswering", được thực hiện một cách hiệu quả.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole" id="Case-2"><strong>Case 2</strong>:[<strong>non-FInite CLAUSE as COMplement</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-2"><strong>Case 2</strong>:[<strong>non-FInite CLAUSE as a COMplement</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the COMpany imPROVED [satisFACtion] [by reSPONDing QUICKly to supPORT TICKets].</li>
 					<li className="margin-bottom-20 list-none">Công ty đã nâng cao [mức độ hài lòng của khách hàng bằng cách phản hồi nhanh chóng các yêu cầu hỗ trợ].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [satisFACtion] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [satisFACtion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối song</strong>: [by reSPONDing QUICKly to supPORT TICKets] - [prepoSITion PHRASE as ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" để mô tả cách thức thực hiện hành động, bắt đầu bằng [TRANsitive prepoSITion] "by" đi kèm cụm hành động [non-FInite CLAUSE as COMplement] "reSPONDing ..." của "by" phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối song</strong>: [by reSPONDing QUICKly to supPORT TICKets] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" để mô tả cách thức thực hiện hành động, bắt đầu bằng [TRANsitive prepoSITion] "by" đi kèm cụm hành động [non-FInite CLAUSE as a COMplement] "reSPONDing ..." của "by" phía sau.</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
 
-					<li className="list-none margin-bottom-10">[QUICKly] - [ADverb PHRASE as ADjunct] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing". Hình thành từ khối [LEXical ADjective] nguyên bản "QUICK" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+					<li className="list-none margin-bottom-10">[QUICKly] - [ADverb PHRASE as an ADjunct] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing". Hình thành từ khối [LEXical ADjective] nguyên bản "QUICK" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
 					
-					<li className="list-none margin-bottom-10">[to supPORT TICKets] - [prepoSITion PHRASE as COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", chứa đối tượng tiếp nhận trực tiếp.</li>
+					<li className="list-none margin-bottom-10">[to supPORT TICKets] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", chứa đối tượng tiếp nhận trực tiếp.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>FInite CLAUSE as COMplement</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>FInite CLAUSE as a COMplement</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the COMpany imPROVED [satisFACtion be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets].</li>
 					<li className="margin-bottom-20 list-none">Công ty đã cải thiện sự hài lòng [vì đội ngũ đã phản hồi nhanh chóng các phiếu hỗ trợ].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [satisFACtion] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [satisFACtion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối song mới</strong>: [be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets] - [prepoSITion PHRASE as ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "be<strong>cause</strong>", bên trong chứa "the TEAM reSPONDED...", là một [FInite CLAUSE as COMplement] của [TRANsitive prepoSITion] "be<strong>cause</strong>", đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối song mới</strong>: [be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "be<strong>cause</strong>", bên trong chứa "the TEAM reSPONDED...", là một [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "be<strong>cause</strong>", đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn.</li>
 			
 				</ul>
 
@@ -1071,7 +1071,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the FIRM HIred [a SERvice which reSPONDS to SYStem ISsues autoMATically].</li>
 					<li className="margin-bottom-20 list-none">Công ty đã thuê [một dịch vụ tự động xử lý các sự cố hệ thống].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a SERvice which reSPONDS to SYStem ISsues autoMATically] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a SERvice which reSPONDS to SYStem ISsues autoMATically] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
 
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which reSPONDS to SYStem ISsues autoMATically] - [FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "SERvice". Bản chất là [RELative CLAUSE] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [PROnoun as HEAD] "which" và cụm hành động [FInite CLAUSE] "reSPONDS to ..." phía sau.. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [NOUN as HEAD] "SERvice".</li>
 			
@@ -1085,7 +1085,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the FIRM HIred [a reSPONsive SERvice].</li>
 					<li className="margin-bottom-20 list-none">Công ty đã thuê [một dịch vụ linh hoạt].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [a reSPONsive SERvice] - [NOUN PHRASE as COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [a reSPONsive SERvice] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [reSPONsive] - [ADjective as pre-MODifier] của [NOUN as HEAD] "SERvice" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Hình thành từ khối [LEXical VERB] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối [deVERBal ADjective] "reSPONsive", có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
 			
@@ -1094,30 +1094,30 @@ export default function reSPOND(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Phân hệ [TRANsitive prepoSITion]: Thay đổi các MODule chứa mã định vị</h4>
 
-			<p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí cấp độ</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí cấp độ</strong> [<strong>prepoSITion PHRASE as an ADjunct</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the SYStem reSTARTed [for a FULL reSPONSE to the seCUrity PATCH].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [để thực hiện phản hồi đầy đủ đối với bản vá bảo mật].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for a FULL reSPONSE to the seCUrity PATCH] - [prepoSITion PHRASE as ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "reSTARTed" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "for" chỉ lý do, bối cảnh kéo theo khối [NOUN PHRASE] phía sau. Để thực thi vai trò làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM] "reSTARTed".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for a FULL reSPONSE to the seCUrity PATCH] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "reSTARTed" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "for" chỉ lý do, bối cảnh kéo theo khối [NOUN PHRASE] phía sau. Để thực thi vai trò làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM] "reSTARTed".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the seCUrity PATCH] - [prepoSITion PHRASE as COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE", được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the seCUrity PATCH" phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to the seCUrity PATCH] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE", được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the seCUrity PATCH" phía sau.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>prepoSITion PHRASE as ADjunct</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>prepoSITion PHRASE as an ADjunct</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>the SYStem reSTARTed [in reSPONSE to the seCUrity PATCH].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [để áp dụng bản vá bảo mật].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [in reSPONSE to the seCUrity PATCH] - [prepoSITion PHRASE as ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "reSTARTed" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "in" được đưa vào thế chỗ, đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể, bổ nghĩa cho hành động [PRETerite FORM] "reSTARTed".</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [in reSPONSE to the seCUrity PATCH] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "reSTARTed" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "in" được đưa vào thế chỗ, đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể, bổ nghĩa cho hành động [PRETerite FORM] "reSTARTed".</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [to the seCUrity PATCH] - [prepoSITion PHRASE as COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE", được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the seCUrity PATCH" phía sau.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [to the seCUrity PATCH] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE", được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the seCUrity PATCH" phía sau.</li>
 			
 				</ul>
 

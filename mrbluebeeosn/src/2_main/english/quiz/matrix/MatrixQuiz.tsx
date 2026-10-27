@@ -48,7 +48,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADVERB]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [Open] - [PLAIN FORM] originating from a bare VERB. \n\n Function: [Open] - [ADverb PHRASE as ADjunct] acts as a resultative complement modifying the verb \"FLEW\" to show the final state achieved by the action."
+			explanation: "Form: [Open] - [PLAIN FORM] originating from a bare VERB. \n\n Function: [Open] - [ADverb PHRASE as an ADjunct] acts as a resultative complement modifying the verb \"FLEW\" to show the final state achieved by the action."
 		},
 		{
 			id: 4,
@@ -78,7 +78,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to FINish his gradUAtion THEsis] - [to-infiniTIval CLAUSE] formed by the infinitive marker \"to\", the VERB \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [non-FInite CLAUSE as ADjunct] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
+			explanation: "Form: [to FINish his gradUAtion THEsis] - [to-infiniTIval CLAUSE] formed by the infinitive marker \"to\", the VERB \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [non-FInite CLAUSE as an ADjunct] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
 		},
 		{
 			id: 7,
@@ -98,7 +98,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [although the TEAM FACED seVERE BUDget CUTS] - [prepoSITion PHRASE as ADjunct] formed by the subordinating conjunction \"although\" followed by a full clause containing the subject \"the TEAM\" and finite verb \"FACED\". \n\n Function: [although the TEAM FACED seVERE BUDget CUTS] - [non-FInite CLAUSE as ADjunct] modifies the entire main clause by providing a situational context of concession."
+			explanation: "Form: [although the TEAM FACED seVERE BUDget CUTS] - [prepoSITion PHRASE as an ADjunct] formed by the subordinating conjunction \"although\" followed by a full clause containing the subject \"the TEAM\" and finite verb \"FACED\". \n\n Function: [although the TEAM FACED seVERE BUDget CUTS] - [non-FInite CLAUSE as an ADjunct] modifies the entire main clause by providing a situational context of concession."
 		},
 		{
 			id: 9,

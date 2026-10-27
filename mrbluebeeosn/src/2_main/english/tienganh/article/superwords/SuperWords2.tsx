@@ -158,9 +158,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He runs [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy chạy [nhanh].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [quickly] - [ADverb PHRASE as ADjunct] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "quick" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [quickly] - [ADverb PHRASE as an ADjunct] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "quick" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [quickly] - [ADverb PHRASE as ADjunct] bổ sung cách thức cho runs.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [quickly] - [ADverb PHRASE as an ADjunct] bổ sung cách thức cho runs.</li>
 			
 				</ul>
 			
@@ -172,9 +172,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>She speaks [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy nói [nhẹ nhàng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [softly] - [ADverb PHRASE as ADjunct] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "soft" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [softly] - [ADverb PHRASE as an ADjunct] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "soft" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [softly] - [ADverb PHRASE as ADjunct] bổ sung cách thức cho speaks.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [softly] - [ADverb PHRASE as an ADjunct] bổ sung cách thức cho speaks.</li>
 			
 				</ul>
 
@@ -261,7 +261,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to earn money] - [to-infiniTIval CLAUSE] dạng to-V chỉ mục đích.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to earn money] - [non-FInite CLAUSE as ADjunct] bổ sung mục đích cho works hard.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to earn money] - [non-FInite CLAUSE as an ADjunct] bổ sung mục đích cho works hard.</li>
 			
 				</ul>
 			
@@ -275,7 +275,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to catch the bus] - [to-infiniTIval CLAUSE] dạng to-V.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to catch the bus] - [non-FInite CLAUSE as ADjunct] bổ sung mục đích cho left.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to catch the bus] - [non-FInite CLAUSE as an ADjunct] bổ sung mục đích cho left.</li>
 			
 				</ul>
 			
@@ -297,7 +297,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] shocked me.</li>
 					<li className="margin-bottom-20 list-none">[Những gì cô ấy nói] làm tôi sốc.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [What she said] - [prepoSITion PHRASE as ADjunct] có she và said.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [What she said] - [prepoSITion PHRASE as an ADjunct] có she và said.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [What she said] - [NOUN CLAUSE][DANH ĐIỀU] đứng đầu câu, chỉ một nội dung.</li>
 			
@@ -311,7 +311,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>I believe [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [rằng bạn đúng].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that you are right] - [prepoSITion PHRASE as ADjunct] có you và are.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that you are right] - [prepoSITion PHRASE as an ADjunct] có you và are.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [that you are right] - [NOUN CLAUSE][DANH ĐIỀU] làm đối tượng cho believe.</li>
 			
@@ -328,7 +328,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The man [______] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [đã giúp tôi] là bạn tôi.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [who helped me] - [prepoSITion PHRASE as ADjunct] có who và helped.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [who helped me] - [prepoSITion PHRASE as an ADjunct] có who và helped.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [who helped me] - [ADjective CLAUSE][TÍNH ĐIỀU] bổ sung cho the man.</li>
 			
@@ -342,7 +342,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The book [______] is great.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [mà tôi mượn] rất hay.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that I borrowed] - [prepoSITion PHRASE as ADjunct] có I và borrowed.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [that I borrowed] - [prepoSITion PHRASE as an ADjunct] có I và borrowed.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [that I borrowed] - [ADjective CLAUSE][TÍNH ĐIỀU] bổ sung cho the book.</li>
 			
@@ -359,9 +359,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______], we stayed home.</li>
 					<li className="margin-bottom-20 list-none">[Vì trời mưa], chúng tôi ở nhà.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Because it rained] - [prepoSITion PHRASE as ADjunct] có it và rained.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [Because it rained] - [prepoSITion PHRASE as an ADjunct] có it và rained.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Because it rained] - [non-FInite CLAUSE as ADjunct] chỉ nguyên nhân cho stayed home</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [Because it rained] - [non-FInite CLAUSE as an ADjunct] chỉ nguyên nhân cho stayed home</li>
 			
 				</ul>
 			
@@ -373,9 +373,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______], call me.</li>
 					<li className="margin-bottom-20 list-none">[Khi bạn đến], hãy gọi tôi.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [When you arrive] - [prepoSITion PHRASE as ADjunct] có you và arrive.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [When you arrive] - [prepoSITion PHRASE as an ADjunct] có you và arrive.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [When you arrive] - [non-FInite CLAUSE as ADjunct] chỉ thời gian cho call me.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [When you arrive] - [non-FInite CLAUSE as an ADjunct] chỉ thời gian cho call me.</li>
 			
 				</ul>
 			
@@ -401,7 +401,7 @@ export default function SuperWords2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Toàn bộ [knows what you did'] - [BARE infiniTIval CLAUSE] tầng ngoài.</li>
-					<li>what you did bên trong - [prepoSITion PHRASE as ADjunct] có you và did.</li>
+					<li>what you did bên trong - [prepoSITion PHRASE as an ADjunct] có you và did.</li>
 			
 				</ul>
 			
@@ -463,7 +463,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Việc bạn bơi thường xuyên] thì tốt cho sức khỏe.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [That you swim regularly] - [prepoSITion PHRASE as ADjunct] có you và swim.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [That you swim regularly] - [prepoSITion PHRASE as an ADjunct] có you và swim.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [That you swim regularly] - [NOUN CLAUSE][DANH ĐIỀU] đứng đầu câu, chỉ một sự việc.</li>
 			
@@ -510,7 +510,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The movie is [______].</li>
 					<li className="margin-bottom-20 list-none">Bộ phim là [điều mọi người gọi là thú vị].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [what everyone calls exciting] - [prepoSITion PHRASE as ADjunct] có everyone và calls.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [what everyone calls exciting] - [prepoSITion PHRASE as an ADjunct] có everyone và calls.</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [what everyone calls exciting] - [ADjective CLAUSE][TÍNH ĐIỀU] miêu tả the movie.</li>
 			
@@ -529,9 +529,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He drives [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [cẩn thận].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [carefully] - [ADverb PHRASE as ADjunct] hình thành từ khối [LEXical VERB] nguyên bản "care" mặc thêm hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [carefully] - [ADverb PHRASE as an ADjunct] hình thành từ khối [LEXical VERB] nguyên bản "care" mặc thêm hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [carefully] - [ADverb PHRASE as ADjunct] bổ sung cách thức cho drives.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [carefully] - [ADverb PHRASE as an ADjunct] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			
@@ -543,9 +543,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He drives [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [với sự cẩn thận lớn].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [with great care] - [non-FInite CLAUSE as ADjunct] dạng giới từ cụm.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [with great care] - [non-FInite CLAUSE as an ADjunct] dạng giới từ cụm.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with great care] - [non-FInite CLAUSE as ADjunct] bổ sung cách thức cho drives.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [with great care] - [non-FInite CLAUSE as an ADjunct] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			
@@ -557,9 +557,9 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He drives [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [như thể đang thi].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [as if he were taking a test] - [prepoSITion PHRASE as ADjunct] có he và were taking.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [as if he were taking a test] - [prepoSITion PHRASE as an ADjunct] có he và were taking.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [as if he were taking a test] - [non-FInite CLAUSE as ADjunct] bổ sung cách thức cho drives.</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [as if he were taking a test] - [non-FInite CLAUSE as an ADjunct] bổ sung cách thức cho drives.</li>
 			
 				</ul>
 			

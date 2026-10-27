@@ -182,14 +182,14 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He answered [politely].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [một cách lịch sự].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [politely] - [ADverb PHRASE as ADjunct] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
+					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [politely] - [ADverb PHRASE as an ADjunct] hình thành từ khối [ROOT ADjective][GỐC TÍNH] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [HEAD][LÕI].</li>
 			
 					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [politely] – [ADverb HEAD][TRẠNG LÕI] làm rõ cách thức cho [ĐỘNG] answered</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Cụm – [ADverb PHRASE as ADjunct]</h4>
+			<h4 className="margin-y-40">Cấp độ Cụm – [ADverb PHRASE as an ADjunct]</h4>
 					
 			<p className="margin-top-20 text-indent-whole"></p>
 			
@@ -200,12 +200,12 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to pass the exam] – [to-infiniTIval CLAUSE] nguyên mẫu chỉ mục đích</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADverb PHRASE as ADjunct] bổ nghĩa cho việc studies nêu mục đích</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to pass the exam] – [ADverb PHRASE as an ADjunct] bổ nghĩa cho việc studies nêu mục đích</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ Câu – [ADverb PHRASE as ADjunct]</h4>
+			<h4 className="margin-y-40">Cấp độ Câu – [ADverb PHRASE as an ADjunct]</h4>
 			
 				<ul className="list-square">
 			
@@ -214,7 +214,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [because it is raining] – [conJUNCtional CLAUSE][LIÊN ĐIỀU] có it và [ĐỘNG] is raining</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it is raining] – [ADverb PHRASE as ADjunct] giải thích nguyên nhân cho hành động will stay home</li>
+					<li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [because it is raining] – [ADverb PHRASE as an ADjunct] giải thích nguyên nhân cho hành động will stay home</li>
 			
 				</ul>
 		
