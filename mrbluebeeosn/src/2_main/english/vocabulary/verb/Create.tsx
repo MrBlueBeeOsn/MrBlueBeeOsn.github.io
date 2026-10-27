@@ -1023,26 +1023,26 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the COMpany BOOSted [VALue] [by creAting uNIQUE PROducts].</li>
-          <li className="margin-bottom-20 list-none">Công ty đã nâng cao [giá trị] [bằng cách tạo ra các sản phẩm độc đáo].</li>
+          <li>the COMpany BOOSted VALue by creAting uNIQUE PROducts.</li>
+          <li className="margin-bottom-20 list-none">The company's value was increased by the creation of unique products.</li>
 
-          <li className="list-none margin-bottom-10">External block: [VALue] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "BOOSted" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [VALUE] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "BOOSted" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối song</strong>: [by creAting uNIQUE PROducts] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "BOOSted" trong [MAIN CLAUSE], bắt đầu bằng [TRANsitive prepoSITion] phương thức "by" đi kèm cụm hành động [non-FInite CLAUSE as a COMplement] "creAting uNIQUE PROducts" của "by" phía sau.</li>
+          <li className="list-none margin-bottom-10">Parallel block: [by creating unique products]—[prepositional phrase as an adjunct] of [transitive verb] in [past tense form] "BOOSted" in the [main clause], beginning with the [transitive preposition] "by" followed by the action phrase [non-finite clause as a complement] "creating unique products."</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>FInite CLAUSE as a COMplement</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Upgrade to</strong>: [<strong>FInite CLAUSE as a COMplement</strong>]</p>
       
         <ul className="list-square">
       
-          <li>the COMpany BOOSted [VALue] [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts].</li>
-          <li className="margin-bottom-20 list-none">Công ty đã gia tăng [giá trị vì các nhà phát triển đã tạo ra các sản phẩm độc đáo].</li>
+          <li>the COMpany BOOSted VALue be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts.</li>
+          <li className="margin-bottom-20 list-none">The company boosted value. This was because the developers created unique products.</li>
 
-          <li className="list-none margin-bottom-10">External block: [VALue] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "BOOSted" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [VALUE] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "BOOSted" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối song mới</strong>: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "BOOSted" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "be<strong>cause</strong>", bên trong chứa "the deVElopers creAted...", là một [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "be<strong>cause</strong>", đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn.</li>
+          <li className="list-none margin-bottom-10">New parallel block: [because the deVElopers creAted uNIQUE PROducts]—[prepoSITion PHRASE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "BOOSted" in the [MAIN CLAUSE]. Beginning with the [transitive preposition] "because," which contains "the developers created...," this is a [finite clause as a complement] of the [transitive preposition] "because," serving as the causal context at a higher level.</li>
       
         </ul>
 

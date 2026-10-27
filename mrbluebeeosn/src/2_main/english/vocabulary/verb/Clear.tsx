@@ -910,32 +910,32 @@ export default function CLEAR(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole" id="Case-2">Case 2: Khối song</h5>
+      <h5 className="margin-y-30 text-indent-whole" id="Case-2">Case 2: Parallel block</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as a COMplement</strong>]</p>
       
         <ul className="list-square">
       
-          <li>we imPROVED [the perFORmance] [by CLEARing OLD DAtabase LOGS].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện [hiệu suất] [bằng cách xóa các nhật ký cơ sở dữ liệu cũ].</li>
+          <li>we imPROVED the perFORmance by CLEARing OLD DAtabase LOGS.</li>
+          <li className="margin-bottom-20 list-none">Old database logs were cleared, which resulted in improved performance.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the perFORmance] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [the performance]—[NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "improved" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối song</strong>: [by CLEARing OLD DAtabase LOGS] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE], bắt đầu bằng [TRANsitive prepoSITion] phương thức "by" đi kèm cụm hành động [FInite CLAUSE as a COMplement] "CLEARing ..." của "by" phía sau.</li>
+          <li className="list-none margin-bottom-10">Parallel block: [by CLEARing OLD DAtabase LOGS]—[prepoSITion PHRASE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "imPROVED" in the [MAIN CLAUSE], beginning with the [TRANsitive prepoSITion] "by" followed by an action phrase [finite clause as a complement] "CLEARing ..." following "by."</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>FInite CLAUSE as a COMplement</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Upgrade to</strong>: [<strong>FInite CLAUSE as a COMplement</strong>]:</p>
       
         <ul className="list-square">
       
-          <li>we imPROVED [the perFORmance] [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện [hiệu suất] [vì hệ thống đã dọn sạch tất cả dữ liệu rác].</li>
+          <li>we imPROVED the perFORmance be<strong>cause</strong> the SYStem CLEARED all JUNK DAta.</li>
+          <li className="margin-bottom-20 list-none">The performance was improved because all junk data was cleared from the system.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the perFORmance] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [the performance]—[NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "improved" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối song mới</strong>: [be<strong>cause</strong> the SYStem CLEARED all JUNK DAta]- [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "be<strong>cause</strong>", bên trong chứa "the SYStem CLEARED ...", là một [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "be<strong>cause</strong>", đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn.</li>
+          <li className="list-none margin-bottom-10">New parallel block: [because the SYSTEM CLEARED all JUNK DATA]—[prepositional phrase as an adjunct] of [transitive verb] in the [past tense] "improved" in the [main clause]. Beginning with the [transitive preposition] "because," which contains "the SYSTEM CLEARED ...," this is a [finite clause as a complement] of the [transitive preposition] "because," serving as the causal context at a higher level.</li>
       
         </ul>
 

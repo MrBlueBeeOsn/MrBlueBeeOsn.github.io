@@ -1033,32 +1033,32 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the COMpany imPROVED [satisFACtion] [by reSPONDing QUICKly to supPORT TICKets].</li>
-					<li className="margin-bottom-20 list-none">Công ty đã nâng cao [mức độ hài lòng của khách hàng bằng cách phản hồi nhanh chóng các yêu cầu hỗ trợ].</li>
+					<li>the COMpany imPROVED satisFACtion by reSPONDing QUICKly to supPORT TICKets.</li>
+					<li className="margin-bottom-20 list-none">The company improved satisfaction by responding quickly to support tickets, which was a positive change.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [satisFACtion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10">External block: [satisFACtion]—[NOUN PHRASE as a COMPLEMENT] of [TRANsitive VERB] in the [PRETerite FORM] "imPROVED" in the [MAIN CLAUSE].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối song</strong>: [by reSPONDing QUICKly to supPORT TICKets] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" để mô tả cách thức thực hiện hành động, bắt đầu bằng [TRANsitive prepoSITion] "by" đi kèm cụm hành động [non-FInite CLAUSE as a COMplement] "reSPONDing ..." của "by" phía sau.</li>
+					<li className="list-none margin-bottom-10">Parallel block: [by responding quickly to support tickets] - [prepositional phrase as an adjunct] of [transitive verb] in the [past tense form] "improved" to describe how the action is performed, beginning with the [transitive preposition] "by" followed by the action phrase [non-finite clause as a complement] "responding..." following "by."</li>
 
 					<li className="list-none margin-bottom-10">Inner block:</li>
 
-					<li className="list-none margin-bottom-10">[QUICKly] - [ADverb PHRASE as an ADjunct] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing". Hình thành từ khối [LEXical ADjective] nguyên bản "QUICK" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+					<li className="list-none margin-bottom-10">[QUICKly] - [ADverb PHRASE as an ADjunct] of [inTRANsitive VERB] in the [GERund-PARTiciple FORM] "reSPONDing". Formed from the original [lexical adjective] "QUICK" through a variant describing a characteristic and the addition of the suffix "-ly" to alter its form and provide contextual information about the manner.</li>
 					
-					<li className="list-none margin-bottom-10">[to supPORT TICKets] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [GERund-PARTiciple FORM] "reSPONDing", chứa đối tượng tiếp nhận trực tiếp.</li>
+					<li className="list-none margin-bottom-10">[to support tickets] - [prepositional phrase as a complement] of [intransitive verb] in the [gerund-participle form] "responding," which contains the direct object.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>FInite CLAUSE as a COMplement</strong>]</p>
-			
+			<p className="margin-top-20 text-indent-whole"><strong>Upgrade to</strong>: [<strong>FInite CLAUSE as a COMplement</strong>]</p>
+			 
 				<ul className="list-square">
 			
-					<li>the COMpany imPROVED [satisFACtion be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets].</li>
-					<li className="margin-bottom-20 list-none">Công ty đã cải thiện sự hài lòng [vì đội ngũ đã phản hồi nhanh chóng các phiếu hỗ trợ].</li>
+					<li>the COMpany imPROVED satisFACtion be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets.</li>
+					<li className="margin-bottom-20 list-none">The team's swift response to support tickets led to an improvement in satisfaction levels within the company.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [satisFACtion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10">External block: [satisFACtion]—[NOUN PHRASE as a COMPLEMENT] of [TRANsitive VERB] in the [PRETerite FORM] "imPROVED" in the [MAIN CLAUSE].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối song mới</strong>: [be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "imPROVED" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "be<strong>cause</strong>", bên trong chứa "the TEAM reSPONDED...", là một [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "be<strong>cause</strong>", đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn.</li>
+					<li className="list-none margin-bottom-10">New parallel block: [because the TEAM responded quickly to support tickets]—[prepositional phrase as an adjunct] of [transitive verb] in the [past tense] "improved" in the [main clause]. Beginning with the [transitive preposition] "because," which contains "the TEAM responded...," this is a [finite clause as a complement] of the [transitive preposition] "because," serving as the causal context at a higher level.</li>
 			
 				</ul>
 
