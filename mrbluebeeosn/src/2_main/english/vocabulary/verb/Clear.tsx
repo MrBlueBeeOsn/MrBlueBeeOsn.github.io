@@ -188,14 +188,14 @@ export default function CLEAR(): React.JSX.Element {
 
           <p>CLEAR is a [LEXical VERB] that means to clean up, remove unwanted items from a place, or make something easier to see or understand (clear).</p>
 
-          <p className="margin-top-20">Pronunciation: [CLĒAR] /klɪə(r)/</p>
+          <p className="margin-top-20">Pronunciation: \CLĒAR\ /klɪə(r)/</p>
 
             <ul className="list-square">
           
-              <li>you must CLEAR the browser history.</li>
+              <li>you must CLEAR the BROWser HIStory.</li>
               <li className="margin-bottom-20 list-none">You have to remove your browser history.</li>
 
-              <li className="list-none margin-bottom-10">The inner clause: [CLEAR] - [PLAIN FORM] in its original form follows the [PRESENT MODAL AUXILIARY VERB] "must" to perform an action that affects the object "the browser history."</li>
+              <li className="list-none margin-bottom-10">The inner clause: [CLEAR] - [PLAIN FORM] in its original form follows the [PRESENT MODAL AUXILIARY VERB] "must" to perform an action that affects the object "the BROWser HIStory."</li>
           
             </ul>
 
@@ -366,7 +366,7 @@ export default function CLEAR(): React.JSX.Element {
  
       <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>NOUN PHRASE as SUBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="1">Example 1: /ˈklærəti/</p>
+      <p className="margin-top-20 text-indent-whole" id="1">Example 1: \CLAR i ty\ /ˈklærəti/</p>
       
         <ul className="list-square">
       
@@ -382,7 +382,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>NOUN PHRASE as diRECT OBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="2">Example 2: /klɪə(r)/</p>
+      <p className="margin-top-20 text-indent-whole" id="2">Example 2: \CLĒAR\ /klɪə(r)/</p>
       
         <ul className="list-square">
       
@@ -398,7 +398,7 @@ export default function CLEAR(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>Establishment of two parallel functions</strong></p>
 
-      <p className="margin-top-20 text-indent-whole" id="3">Example 3: /ˈklɪəli/</p>
+      <p className="margin-top-20 text-indent-whole" id="3">Example 3: \CLĒAR ly\ /ˈklɪəli/</p>
       
         <ul className="list-square">
       

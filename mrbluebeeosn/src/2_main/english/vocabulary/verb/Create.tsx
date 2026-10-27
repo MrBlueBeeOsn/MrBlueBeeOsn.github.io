@@ -214,7 +214,7 @@ export default function creATE(): React.JSX.Element {
 
           <p>"creATE" is a [LEXical VERB] that means to create, to invent, or to bring something into existence.</p>
 
-          <p className="margin-top-20">Pronunciation: [crē ĀTE] /kriːˈeɪt/</p>
+          <p className="margin-top-20">Pronunciation: \crē ĀTE\ /kriːˈeɪt/</p>
 
             <ul className="list-square">
           
@@ -365,7 +365,7 @@ export default function creATE(): React.JSX.Element {
           
       <p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE as SUBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="1">Example 1: [creAtion] \crē Ā tion\ /kriːˈeɪʃn/</p>
+      <p className="margin-top-20 text-indent-whole" id="1">Example 1: \crē Ā tion\ /kriːˈeɪʃn/</p>
       
         <ul className="list-square">
       
@@ -385,7 +385,7 @@ export default function creATE(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE as diRECT OBject</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole" id="2">Example 2: [creAtive] \crē Ā tive\ /kriːˈeɪtɪv/</p>
+      <p className="margin-top-20 text-indent-whole" id="2">Example 2: \crē Ā tive\ /kriːˈeɪtɪv/</p>
       
         <ul className="list-square">
       
@@ -401,7 +401,7 @@ export default function creATE(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Establishment of 3 parallel functions</strong></p>
 
-      <p className="margin-top-20 text-indent-whole" id="3">Example 3: [creAtively] \crē Ā tive ly\ /kriːˈeɪtɪvli/</p>
+      <p className="margin-top-20 text-indent-whole" id="3">Example 3: \crē Ā tive ly\ /kriːˈeɪtɪvli/</p>
       
         <ul className="list-square">
       

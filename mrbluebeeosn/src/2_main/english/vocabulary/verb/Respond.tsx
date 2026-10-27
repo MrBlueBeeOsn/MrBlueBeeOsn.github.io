@@ -214,7 +214,7 @@ export default function reSPOND(): React.JSX.Element {
 
 					<p>reSPOND is a [LEXical VERB] that means to respond, answer, or react to a previous stimulus.</p>
 
-					<p className="margin-top-20">Pronunciation: [re SPOND] /rɪˈspɒnd/</p>
+					<p className="margin-top-20">Pronunciation: \re SPOND\ /rɪˈspɒnd/</p>
 
 						<ul className="list-square">
 					
@@ -367,7 +367,7 @@ export default function reSPOND(): React.JSX.Element {
 					
 			<p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE as SUBject</strong>] </p>
 
-			<p className="margin-top-20 text-indent-whole" id="1">Example 1: [reSPONSE] \re SPONSE\ /rɪˈspɒns/</p>
+			<p className="margin-top-20 text-indent-whole" id="1">Example 1: \re SPONSE\ /rɪˈspɒns/</p>
 			
 				<ul className="list-square">
       
@@ -387,7 +387,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE as diRECT OBject</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole" id="2">Example 2: [reSPONsive] \re SPON sive\ /rɪˈspɒnsɪv/</p>
+			<p className="margin-top-20 text-indent-whole" id="2">Example 2: \re SPON sive\ /rɪˈspɒnsɪv/</p>
 			
 				<ul className="list-square">
 			
@@ -403,7 +403,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Establishment of 3 parallel functions</strong></p>
 
-			<p className="margin-top-20 text-indent-whole" id="3">Example 3: [reSPONsively] \re SPON sive ly\ /rɪˈspɒnsɪvli/</p>
+			<p className="margin-top-20 text-indent-whole" id="3">Example 3: \re SPON sive ly\ /rɪˈspɒnsɪvli/</p>
 			
 				<ul className="list-square">
 			
