@@ -940,32 +940,32 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-y-30 text-indent-whole" id="Case-3">Case 3: Kỹ thuật hạ cấp từ [FInite CLAUSE] về [ADjective]</h5>
+      <h5 className="margin-y-30 text-indent-whole" id="Case-3">Case 3: The technique of downgrading from [FInite CLAUSE] to [ADjective]</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as a post-MODifier</strong>] <strong>→</strong> [<strong>ADjective as a pre-MODifier</strong>]</p>
       
         <ul className="list-square">
       
-          <li>i LIKE [an appliCAtion which CLEARS STORage SMOOTHly].</li>
-          <li className="margin-bottom-20 list-none">Tôi thích [một ứng dụng giúp dọn dẹp bộ nhớ một cách mượt mà].</li>
+          <li>i LIKE an appliCAtion which CLEARS STORage SMOOTHly.</li>
+          <li className="margin-bottom-20 list-none">I prefer an application that allows for smooth and efficient storage management.</li>
       
           <li className="list-none margin-bottom-10">External block: [an appliCAtion which CLEARS STORage SMOOTHly] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "LIKE" trong [MAIN CLAUSE].</li>
          
-          <li className="list-none margin-bottom-10">Inner block: [which CLEARS STORage SMOOTHly] - [FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "appliCAtion". Bản chất là [RELative CLAUSE] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và cụm hành động [FInite CLAUSE] "CLEARS ..." phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng "appliCAtion".</li>
+          <li className="list-none margin-bottom-10">Inner block: [which CLEARS STORage SMOOTHly] - [FInite CLAUSE as a post-MODifier] of [NOUN as HEAD] "appliCAtion". Essentially, this is a [RELative CLAUSE] structured as a full relative clause following a noun phrase, containing the relative pronoun "which" and the finite clause [FInite CLAUSE] "CLEARS ..." that follows. It functions as a filtering module to define the characteristics of the object "appliCAtion".</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về</strong> [<strong>ADjective as a pre-MODifier</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Downgrade to</strong>: [<strong>ADjective as a pre-MODifier</strong>]:</p>
       
         <ul className="list-square">
       
-          <li>i LIKE [a CLEAR SYStem LAYout].</li>
-          <li className="margin-bottom-20 list-none">Tôi thích [một cách bố trí hệ thống rõ ràng].</li>
+          <li>i LIKE a CLEAR SYStem LAYout.</li>
+          <li className="margin-bottom-20 list-none">I prefer a system layout that is straightforward and easy to understand.</li>
       
-          <li className="list-none margin-bottom-10">New external block: [a CLEAR SYStem LAYout] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "LIKE" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">New external block: [a CLEAR SYSTEM LAYOUT]—[NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PLAIN PRESENT FORM] "LIKE" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">New inner block: [CLEAR] - [ADjective as a pre-MODifier] của [NOUN as HEAD] "LAYout". Hình thành từ khối [LEXical VERB] nguyên bản "CLEAR", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm [deVERBal ADjective] "CLEAR", đã được cô đọng hoàn toàn về dạng một thành phần đơn duy nhất. Thiết lập vị trí ngay trước đối tượng [NOUN PHRASE] "SYStem LAYout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10">New inner block: [CLEAR] - [ADjective as a pre-MODifier] of [NOUN as HEAD] "LAYout". Formed from the original [LEXical VERB] "CLEAR," in its completely raw state, without any additional embellishments, condensed into the [deVERBal ADjective] "CLEAR," which has been fully condensed into a single component. Positioned immediately before the [NOUN PHRASE] "SYStem LAYout" to scan and concisely display the characteristics of that object.</li>
       
         </ul>
 

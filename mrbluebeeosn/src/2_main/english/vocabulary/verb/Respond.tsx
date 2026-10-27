@@ -1063,30 +1063,30 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole" id="Case-3"><strong>Case 3</strong>: <strong>Kỹ thuật hạ cấp từ</strong> [<strong>FInite CLAUSE as a post-MODifier</strong>] <strong>về</strong> [<strong>ADjective as a pre-MODifier</strong>]</p>
+			<p className="margin-top-20 text-indent-whole" id="Case-3"><strong>Case 3</strong>: <strong>The technique of downgrading from</strong> [<strong>FInite CLAUSE as a post-MODifier</strong>] <strong>to</strong> [<strong>ADjective as a pre-MODifier</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>the FIRM HIred [a SERvice which reSPONDS to SYStem ISsues autoMATically].</li>
-					<li className="margin-bottom-20 list-none">Công ty đã thuê [một dịch vụ tự động xử lý các sự cố hệ thống].</li>
+					<li>the FIRM HIred a SERvice which reSPONDS to SYStem ISsues autoMATically.</li>
+					<li className="margin-bottom-20 list-none">The firm hired a service that responds to system issues automatically.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [a SERvice which reSPONDS to SYStem ISsues autoMATically] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10">External block: [a service that responds to system issues automatically]—[a noun phrase as a complement] of [a transitive verb] in the [past tense] "hired" in the [main clause].</li>
 
-					<li className="list-none margin-bottom-10">Inner block: [which reSPONDS to SYStem ISsues autoMATically] - [FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "SERvice". Bản chất là [RELative CLAUSE] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [PROnoun as HEAD] "which" và cụm hành động [FInite CLAUSE] "reSPONDS to ..." phía sau.. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng [NOUN as HEAD] "SERvice".</li>
+					<li className="list-none margin-bottom-10">Inner block: [which responds to system issues automatically] - [finite clause as a post-modifier] of [noun as head] "service". Essentially, it is a [RELative CLAUSE] structured as a fully-fledged subordinate clause following a named block, containing the [PROnoun as HEAD] "which" and the action phrase [FInite CLAUSE] "reSPONDS to ..." that follows. It functions as a filtering module to define characteristics for the object [NOUN as HEAD] "SERvice".</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về</strong> [<strong>ADjective as a pre-MODifier</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Downgrade to</strong>: [<strong>ADjective as a pre-MODifier</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>the FIRM HIred [a reSPONsive SERvice].</li>
-					<li className="margin-bottom-20 list-none">Công ty đã thuê [một dịch vụ linh hoạt].</li>
+					<li>the FIRM HIred a reSPONsive SERvice.</li>
+					<li className="margin-bottom-20 list-none">A responsive service was hired by the firm.</li>
 			
-					<li className="list-none margin-bottom-10">New external block: [a reSPONsive SERvice] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10">New external block: [a responsive service]—[NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "Hired" in the [MAIN CLAUSE].</li>
 					
-					<li className="list-none margin-bottom-10">New inner block: [reSPONsive] - [ADjective as a pre-MODifier] của [NOUN as HEAD] "SERvice" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Hình thành từ khối [LEXical VERB] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối [deVERBal ADjective] "reSPONsive", có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
+					<li className="list-none margin-bottom-10">New inner block: [reSPONsive] - [ADjective as a pre-MODifier] of [NOUN as HEAD] "SERvice" to briefly describe and display the characteristics of that object. Formed from the original [LEXical VERB] "reSPOND" combined with the suffix "-ive" to transform it into a [deVERBal ADjective] "reSPONsive," capable of describing characteristics and fully condensed into a single descriptive component preceding the object.</li>
 			
 				</ul>
 

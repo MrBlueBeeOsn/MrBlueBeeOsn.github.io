@@ -1047,30 +1047,30 @@ export default function creATE(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole" id="Case-3"><strong>Case 3</strong>: <strong>Kỹ thuật hạ cấp từ</strong> [<strong>FInite CLAUSE as a post-MODifier</strong>] <strong>về</strong> [<strong>ADjective as a pre-MODifier</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="Case-3"><strong>Case 3</strong>: <strong>The technique of downgrading from</strong> [<strong>FInite CLAUSE as a post-MODifier</strong>] <strong>to</strong> [<strong>ADjective as a pre-MODifier</strong>]</p>
       
         <ul className="list-square">
       
-          <li>the STUdio HIred [a TEAM which creATES interACtive ART PROjects].</li>
-          <li className="margin-bottom-20 list-none">STUdio này đã tuyển dụng [một đội ngũ chuyên thực hiện các dự án nghệ thuật tương tác].</li>
+          <li>the STUdio HIred a TEAM which creATES interACtive ART PROjects.</li>
+          <li className="margin-bottom-20 list-none">The studio hired a team to create interactive art projects.</li>
       
           <li className="list-none margin-bottom-10">External block: [a TEAM which creATES interACtive ART PROjects] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [which creATES interACtive ART PROjects] - [FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "TEAM". Bản chất là [RELative CLAUSE] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [PROnoun as HEAD] "which" và cụm hành động [FInite CLAUSE] "creATES ..." phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng  "TEAM".</li>
+          <li className="list-none margin-bottom-10">Inner block: [which creates interactive art projects]—[finite clause as a post-modifier] of [noun as head] "TEAM". Essentially, this is a [RELative CLAUSE] structured as a fully modified subordinate clause following a noun phrase, containing the [PROnoun as HEAD] "which" and the [FInite CLAUSE] "creATES ..." that follows. It functions as a filtering MODule to define the characteristics of the object "TEAM".</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về</strong> [<strong>ADjective as a pre-MODifier</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Downgrade to</strong>: [<strong>ADjective as a pre-MODifier</strong>]</p>
       
         <ul className="list-square">
       
-          <li>the STUdio HIred [a creAtive TEAM].</li>
-          <li className="margin-bottom-20 list-none">STUdio đã tuyển dụng [một đội ngũ sáng tạo].</li>
+          <li>the STUdio HIred a creAtive TEAM.</li>
+          <li className="margin-bottom-20 list-none">The studio hired a team. The team was creative.</li>
       
-          <li className="list-none margin-bottom-10">New external block: [a creAtive TEAM] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">New external block: [a creative TEAM] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "Hired" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">New inner block: [creAtive] - [ADjective as a pre-MODifier] của [NOUN as HEAD] thiết lập vị trí ngay trước đối tượng "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Hình thành từ khối [LEXical VERB] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối [deVERBal ADjective] "creAtive", có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. </li>
+          <li className="list-none margin-bottom-10">New inner block: [creAtive] - [ADjective as a pre-MODifier] of [NOUN as HEAD] is positioned immediately before the "TEAM" object to briefly describe and display that object's characteristics. Formed from the original [LEXical VERB] "creATE" combined with the suffix "-ive" to transform it into a [deVERBal ADjective] "creAtive," capable of describing characteristics and fully condensed into a single descriptive component preceding the object.</li>
       
         </ul>
 
