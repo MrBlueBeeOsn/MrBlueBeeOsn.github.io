@@ -254,7 +254,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li value="4" className="margin-bottom-20">[<strong>MOdal auXILiary VERB</strong>]:</li>
 			
 					<li className="list-none">[<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
-					<li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tư, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một khối thống nhất.</li>
+					<li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một khối thống nhất.</li>
 
 					<li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>]: will, shall, can, must, may</li>
 					<li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive MOdal VERB] thống nhất.</li>
@@ -313,28 +313,28 @@ export default function reSPOND(): React.JSX.Element {
 				</ol>
 			
 
-			<h4 className="margin-y-40">b. Phân hệ [CLAUSE]</h4>
+			<h4 className="margin-y-40">b. [CLAUSE] Subsystem</h4>
 					
-			<p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
+			<p className="text-indent-whole"><strong>CORE PRINCIPLES:</strong>:</p>
 
-			<p className="text-indent-whole">Khi bất kỳ họ [PREDicator HEAD] nào thuộc hệ thống các mục trên kéo theo thành phần bổ trợ phía sau như [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement], [FInite CLAUSE as ADjunct], toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [PHRASE] tương ứng của chính nó.</p>
+			<p className="text-indent-whole">When any [PREDicator HEAD] from the above system is followed by a complement such as [COMplement], [non-FInite CLAUSE as CATenative COMplement], [FInite CLAUSE as COMplement], [FInite CLAUSE as ADjunct], the entire structure is immediately labeled and elevated to its corresponding [PHRASE] form.</p>
 
 			<ol className="margin-top-40">
 			
-					<li value="1">[<strong>CLAUSE</strong>] (ĐIỀU CÂU): because [it rains].</li>
-					<li className="list-none"><strong>Why ĐIỀU</strong>? - Traditional textbooks teach you that "CLAUSE" is "mệnh đề" or "vế". But to a native speaker, a CLAUSE is simply a distinct, self-contained 'ĐIỀU' (unit). In law, it is a ĐIỀU khoản (legal unit). In grammar, it is a ĐIỀU câu (grammatical unit). Understanding it this way helps you think exactly like a native speaker.</li>
+					<li value="1">[<strong>CLAUSE</strong>]: because [it rains].</li>
+					<li className="list-none">Traditional textbooks teach you that "CLAUSE" is "mệnh đề" or "vế". But to a native speaker, a CLAUSE is simply a distinct, self-contained 'ĐIỀU' (unit). In law, it is a ĐIỀU khoản (legal unit). In grammar, it is a ĐIỀU câu (grammatical unit). Understanding it this way helps you think exactly like a native speaker.</li>
 
-					<li className="margin-bottom-20 list-none"><strong>Why prepoSITion PHRASE</strong>, <strong>not conJUNCtion CLAUSE</strong>?</li>
+					<li className="margin-y-20 list-none"><strong>Why prepoSITion PHRASE</strong>, <strong>not conJUNCtion CLAUSE</strong>?</li>
 
-					<li className="margin-bottom-20 list-none">[MODern GRAMmar] xem "be<strong>cause</strong> <strong>it RAINS</strong>" là [prepoSITion PHRASE] vì cho rằng [TRANsitive prepoSITion] và [VERB] là giống nhau. Nếu phía sau VERB là một CLAUSE thì vẫn gọi là [VERB PHRASE].</li>
+					<li className="margin-bottom-20 list-none">[MODern GRAMmar] considers "because it RAINS" to be a [prepoSITion PHRASE] because it treats the [TRANsitive prepoSITion] and the [VERB] as the same. If a CLAUSE follows the VERB, it is still called a [VERB PHRASE].</li>
 
-					<li className="margin-bottom-20 list-none">[MODern GRAMmar] không tách biệt phía sau [TRANsitive prepoSITion] là một [CLAUSE] hay một [NOUN PHRASE]. Bất cứ thứ gì sau [TRANsitive prepoSITion] đều được coi là [COMplement] và được gọi là [prepoSITion PHRASE] "be<strong>cause</strong> <strong>it RAINS</strong>". [MODern GRAMmar] không sử dụng thuật ngữ [conJUNCtion CLAUSE] vì đây là ngữ pháp truyền thống cách đây hàng trăm năm.</li>
+					<li className="margin-bottom-20 list-none">[MODern GRAMmar] does not distinguish whether what follows a [TRANsitive prepoSITion] is a [CLAUSE] or a [NOUN PHRASE]. Anything following a [TRANsitive prepoSITion] is considered a [COMplement] and is called a [prepoSITion PHRASE], as in "because it RAINS." [Modern GRAMmar] does not use the term [conJUNCtion CLAUSE] because this is traditional grammar from hundreds of years ago.</li>
 			
-					<li value="2">[<strong>coORdinator</strong>] (ĐỒNG CÂU): and, or, but</li>
-					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "but", "or", "and" mới chính là [conJUNCtion], còn lại là [TRANsitive prepoSITion] hoặc các từ khác.</li>
+					<li value="2">[<strong>coORdinator</strong>]: and, or, but</li>
+					<li className="margin-bottom-20 list-none">Modern grammar considers only the three words "but," "or," and "and" to be [conjunctions]; the rest are [transitive prepositions] or other types of words.</li>
 
-					<li value="3">[<strong>suBORdinator</strong>] (HẠ CÂU/ HẠ CẤP CÂU): that, if, whether</li>
-					<li className="margin-bottom-20 list-none">Ngữ pháp hiện đại chỉ xem duy nhất 3 từ "that", "if" mang nghĩa liệu, "<strong>wheth</strong>er" - liệu</li>
+					<li value="3">[<strong>suBORdinator</strong>]: that, if, whether</li>
+					<li className="list-none">Modern grammar recognizes only three words: "that," "if" (meaning "whether"), and "whether" (meaning "whether").</li>
 			
 				</ol>
 			
