@@ -361,7 +361,7 @@ export default function creATE(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">PART 1: A COLLECTION OF EXAMPLES</h3>
 
       
-      <h4 className="margin-y-40">1. [PREDicator HEAD] SUBsystem</h4>
+      <h4 className="margin-y-40">1. PREDicator HEAD SUBsystem</h4>
           
       <p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE as SUBject</strong>]</p>
 
@@ -369,16 +369,16 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[the arTIStic creAtion from the LOcal deSIGNer] imPRESSED the AUdience.</li>
-          <li className="margin-bottom-20 list-none">[Tác phẩm nghệ thuật của nhà thiết kế địa phương] đã gây ấn tượng mạnh với khán giả.</li>
+          <li>the arTIStic creAtion from the LOcal deSIGNer imPRESSED the AUdience.</li>
+          <li className="margin-bottom-20 list-none">The audience was impressed by the art created by the designer who is from the local area.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the arTIStic creAtion from the LOcal deSIGNer] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "imPRESSED" trong [MAIN CLAUSE], đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
+          <li className="list-none margin-bottom-10">External block: [the arTIStic creAtion from the LOcal deSIGNer] - [NOUN PHRASE as SUBject] of [TRANsitive VERB] in the [PRETerite FORM] "imPRESSED" in the [MAIN CLAUSE], serving as the identifying element at the beginning of the sentence.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
+          <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[arTIStic] - [ADjective as pre-MODifier] của [NOUN as HEAD] "creAtion".</li>
+          <li className="list-none margin-bottom-10">[arTIStic] - [ADjective as a pre-MODifier] của [NOUN as HEAD] "creAtion".</li>
 
-          <li className="list-none margin-bottom-10">[from the LOcal deSIGNer] - [prepoSITion PHRASE as post-MODifier] của [NOUN as HEAD] ở [deVERBal NOUN] "creAtion".</li>
+          <li className="list-none margin-bottom-10">[from the LOcal deSIGNer] - [prepoSITion PHRASE as a post-MODifier] of [NOUN as HEAD] in [deVERBal NOUN] "creAtion."</li>
       
         </ul>
       
@@ -389,17 +389,17 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIres [a creAtive TEAM].</li>
-          <li className="margin-bottom-20 list-none">Mỗi bộ phận thiết kế sản phẩm đều cần có [một đội ngũ sáng tạo].</li>
+          <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIres a creAtive TEAM.</li>
+          <li className="margin-bottom-20 list-none">Every product design department needs a team of creative people.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a creAtive TEAM] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [a creAtive TEAM] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "reQUIres" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtive] - [ADjective as pre-MODifier] hình thành từ khối [LEXical VERB] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài có khả năng mô tả tính chất đặc điểm của [NOUN as HEAD] "TEAM".</li>
+          <li className="list-none margin-bottom-10">Inner block: [creAtive] - [ADjective as a pre-MODifier] is formed from the original [LEXical VERB] "creATE" combined with a stem change and the suffix "-ive" to alter its external form so that it can describe the qualities and characteristics of the [NOUN as HEAD] "TEAM."</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành 3 chức năng song song</strong></p>
+      <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Establishment of 3 parallel functions</strong></p>
 
       <p className="margin-top-20 text-indent-whole" id="3">Example 3: [creAtively] \crē Ā tive ly\ /kriːˈeɪtɪvli/</p>
       
@@ -408,7 +408,7 @@ export default function creATE(): React.JSX.Element {
           <li>the ARtist SOLVED the PROBlem creAtively during the PROject.</li>
           <li className="margin-bottom-20 list-none">The artist solved the problem in a smart way during the project.</li>
 
-          <li className="list-none margin-bottom-10"><strong>Khối song</strong>:</li>
+          <li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
           <li className="list-none margin-bottom-10">[the PROBlem] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PRETerite FORM] "SOLVED."</li>
 
@@ -419,11 +419,11 @@ export default function creATE(): React.JSX.Element {
         </ul>
 
 
-      <h4 className="margin-y-40">2. Phân hệ [CLAUSE]</h4>
+      <h4 className="margin-y-40">2. CLAUSE SUBsystem</h4>
 
       <p className="margin-top-20 text-indent-whole"><strong>2.1</strong> <strong>Forming the construction</strong>: [<strong>non-FInite CLAUSE</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>consists of</strong> [<strong>GERund-PARTiciple CLAUSE</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="4a">Example 4a:</p>
       
@@ -432,15 +432,15 @@ export default function creATE(): React.JSX.Element {
           <li>[creAting MODern DIGital soLUtions] reQUIres DEEP TECHnical KNOWledge.</li>
           <li className="margin-bottom-20 list-none">[Tạo ra các giải pháp kỹ thuật số hiện đại] đòi hỏi kiến thức kỹ thuật chuyên sâu.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting MODern DIGital soLUtions] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [creAting MODern DIGital soLUtions] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [MODern DIGital soLUtions] - [NOUN PHRASE as a COMplement] tiếp nhận trực tiếp mục tiêu của [TRANsitive VERB] ở "creAting".</li>
+          <li className="list-none margin-bottom-10">Inner block: [MODern DIGital soLUtions] - [NOUN PHRASE as a COMplement] tiếp nhận trực tiếp mục tiêu của [TRANsitive VERB] ở "creAting".</li>
       
         </ul>
 
   
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as a COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as a COMplement</strong>] <strong>consists of</strong> [<strong>GERund-PARTiciple CLAUSE</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="4b">Example 4b:</p>
       
@@ -449,14 +449,14 @@ export default function creATE(): React.JSX.Element {
           <li>the STARTup TEAM priORitized [creAting enGAging User CONtent].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ khởi nghiệp đã ưu tiên [việc tạo ra nội dung thu hút người dùng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting enGAging User CONtent] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "priORitized" trong [MAIN CLAUSE] tiếp nhận trực tiếp mục tiêu. Bản chất là [GERund-PARTiciple CLAUSE] hình thành từ [GERund-PARTiciple FORM] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [creAting enGAging User CONtent] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "priORitized" trong [MAIN CLAUSE] tiếp nhận trực tiếp mục tiêu. Bản chất là [GERund-PARTiciple CLAUSE] hình thành từ [GERund-PARTiciple FORM] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [enGAging User CONtent] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở "creAting". Trong đó "enGAging" là [GERund-PARTiciple as pre-MODifier] của [NOUN as HEAD] "CONtent".</li>
+          <li className="list-none margin-bottom-10">Inner block: [enGAging User CONtent] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở "creAting". Trong đó "enGAging" là [GERund-PARTiciple as a pre-MODifier] của [NOUN as HEAD] "CONtent".</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>consists of</strong> [<strong>to-infiniTIval CLAUSE</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="4c">Example 4c:</p>
       
@@ -465,14 +465,14 @@ export default function creATE(): React.JSX.Element {
           <li>[to creATE susTAINable ENergy SYStems] is the founDAtion's MAIN GOAL.</li>
           <li className="margin-bottom-20 list-none">[Việc tạo ra các hệ thống năng lượng bền vững] là mục tiêu chính của quỹ.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is"trong [MAIN CLAUSE] để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [to creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is"trong [MAIN CLAUSE] để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [susTAINable ENergy SYStems] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở "creATE".</li>
+          <li className="list-none margin-bottom-10">Inner block: [susTAINable ENergy SYStems] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở "creATE".</li>
       
         </ul>
 
   
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as CATenative COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as CATenative COMplement</strong>] <strong>consists of</strong> [<strong>to-infiniTIval CLAUSE</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="4d">Example 4d:</p>
       
@@ -481,14 +481,14 @@ export default function creATE(): React.JSX.Element {
           <li>the COMpany aims [to creATE INnovative PROducts for conSUmers].</li>
           <li className="margin-bottom-20 list-none">Công ty đặt mục tiêu [tạo ra các sản phẩm sáng tạo dành cho người tiêu dùng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE INnovative PROducts for conSUmers] - [non-FInite CLAUSE as CATenative COMplement] của [CATenative VERB] ở [3RD SINGular PRESent FORM] "AIMS" trong [MAIN CLAUSE]. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [to creATE INnovative PROducts for conSUmers] - [non-FInite CLAUSE as CATenative COMplement] của [CATenative VERB] ở [3RD SINGular PRESent FORM] "AIMS" trong [MAIN CLAUSE]. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [INnovative PROducts for conSUmers] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE". Bên trong chứa "for conSUmers" là [prepoSITion PHRASE as post-MODifier] của [NOUN as HEAD] "PROducts".</li>
+          <li className="list-none margin-bottom-10">Inner block: [INnovative PROducts for conSUmers] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE". Bên trong chứa "for conSUmers" là [prepoSITion PHRASE as a post-MODifier] của [NOUN as HEAD] "PROducts".</li>
       
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as extraPOSED SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as extraPOSED SUBject</strong>] <strong>consists of</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="4e">Example 4e:</p>
       
@@ -497,9 +497,9 @@ export default function creATE(): React.JSX.Element {
           <li>[it] is esSENtial [to creATE STRONG seCUrity PROtocols].</li>
           <li className="margin-bottom-20 list-none">[Điều] đó là điều thiết yếu [để xây dựng các giao thức bảo mật vững chắc].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as extraPOSED SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE], bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as extraPOSED SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE], bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [STRONG seCUrity PROtocols] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE".</li>
+          <li className="list-none margin-bottom-10">Inner block: [STRONG seCUrity PROtocols] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE".</li>
       
         </ul>
 
@@ -516,9 +516,9 @@ export default function creATE(): React.JSX.Element {
           <li>[the engiNEER creAting the CORE SOFTware] FOUND an efFIcient MEthod.</li>
           <li className="margin-bottom-20 list-none">[Kỹ sư phát triển phần mềm cốt lõi] đã tìm ra một phương pháp hiệu quả.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the engiNEER creAting the CORE SOFTware] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "FOUND" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [the engiNEER creAting the CORE SOFTware] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "FOUND" trong [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAting the CORE SOFTware] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "engiNEER" để hiển thị đặc điểm và bổ nghĩa cho đối tượng đó. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
+          <li className="list-none margin-bottom-10">Inner block: [creAting the CORE SOFTware] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "engiNEER" để hiển thị đặc điểm và bổ nghĩa cho đối tượng đó. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
       
         </ul>
       
@@ -533,9 +533,9 @@ export default function creATE(): React.JSX.Element {
           <li>[the ARchitect to creATE the BUILDing BLUEprints] has been apPOINted.</li>
           <li className="margin-bottom-20 list-none">[Kiến trúc sư phụ trách thiết kế bản vẽ kiến trúc] đã được bổ nhiệm.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ARchitect to creATE the BUILDing BLUEprints] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "has been apPOINted" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "has" là [PRImary VERB as PREDicator] mang [FInite], còn "been apPOINted" là các dạng [non-FInite] đi kèm, và [TRANsitive VERB] "apPOINted".</li>
+          <li className="list-none margin-bottom-10">External block: [the ARchitect to creATE the BUILDing BLUEprints] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "has been apPOINted" trong [MAIN CLAUSE]. Trong đó, [non-MOdal auXILiary VERB] "has" là [PRImary VERB as PREDicator] mang [FInite], còn "been apPOINted" là các dạng [non-FInite] đi kèm, và [TRANsitive VERB] "apPOINted".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to creATE the BUILDing BLUEprints] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "ARchitect" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [to creATE the BUILDing BLUEprints] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "ARchitect" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
         </ul>
       
@@ -549,9 +549,9 @@ export default function creATE(): React.JSX.Element {
           <li>[the ARTwork to be creAted by the MASter] will be exHIBited toMORrow.</li>
           <li className="margin-bottom-20 list-none">[Tác phẩm nghệ thuật do bậc thầy sáng tạo] sẽ được trưng bày vào ngày mai.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ARTwork to be creAted by the MASter] - [NOUN PHRASE as SUBject] có chức năng làm chủ cho [PREDicator] "will be exHIBited". Trong đó, "will" là [MOdal auXILiary VERB as PREDicator] mang [FInite], còn "be exHIBited" là các dạng [non-FInite] đi kèm.</li>
+          <li className="list-none margin-bottom-10">External block: [the ARTwork to be creAted by the MASter] - [NOUN PHRASE as SUBject] có chức năng làm chủ cho [PREDicator] "will be exHIBited". Trong đó, "will" là [MOdal auXILiary VERB as PREDicator] mang [FInite], còn "be exHIBited" là các dạng [non-FInite] đi kèm.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to be creAted by the MASter] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "ARTwork" để mô tả trạng thái sắp sửa được tác động. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "be creAted by the MASter" chứa [PLAIN FORM] "be" và [PAST PARTiciple FORM] "creAted" để biểu thị trạng thái bị động tương lai.</li>
+          <li className="list-none margin-bottom-10">Inner block: [to be creAted by the MASter] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "ARTwork" để mô tả trạng thái sắp sửa được tác động. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "be creAted by the MASter" chứa [PLAIN FORM] "be" và [PAST PARTiciple FORM] "creAted" để biểu thị trạng thái bị động tương lai.</li>
       
         </ul>
       
@@ -565,14 +565,14 @@ export default function creATE(): React.JSX.Element {
           <li>[the SYStem creAted by the TECH TEAM] was LAUNCHED YESterday.</li>
           <li className="margin-bottom-20 list-none">[Hệ thống do Đội ngũ Kỹ thuật phát triển] đã được ra mắt vào ngày hôm qua.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the SYStem creAted by the TECH TEAM] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "was LAUNCHED" trong [MAIN CLAUSE]. Trong đó, "was" là [PRImary VERB as PREDicator] mang [FInite], còn [TRANsitive VERB] "LAUNCHED" là các dạng [non-FInite] đi kèm, biểu thị đối tượng đã được ra mắt.</li>
+          <li className="list-none margin-bottom-10">External block: [the SYStem creAted by the TECH TEAM] - [NOUN PHRASE as SUBject] của hành động [VERB PHRASE as PREDicator] "was LAUNCHED" trong [MAIN CLAUSE]. Trong đó, "was" là [PRImary VERB as PREDicator] mang [FInite], còn [TRANsitive VERB] "LAUNCHED" là các dạng [non-FInite] đi kèm, biểu thị đối tượng đã được ra mắt.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAted by the TECH TEAM] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "SYStem" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này. Bản chất là [PAST PARTiciple CLAUSE] cấu tạo từ [PAST PARTiciple FORM] "creAted" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
+          <li className="list-none margin-bottom-10">Inner block: [creAted by the TECH TEAM] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "SYStem" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này. Bản chất là [PAST PARTiciple CLAUSE] cấu tạo từ [PAST PARTiciple FORM] "creAted" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>ADjective PHRASE as post-MODifier</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>ADjective PHRASE as a post-MODifier</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole" id="5e">Example 5e:</p>
       
@@ -581,16 +581,16 @@ export default function creATE(): React.JSX.Element {
           <li>they NEED [a STRATegy creAtive in its exeCUtion].</li>
           <li className="margin-bottom-20 list-none">Họ cần [một chiến lược được triển khai một cách sáng tạo].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a STRATegy creAtive in its exeCUtion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "NEED" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [a STRATegy creAtive in its exeCUtion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "NEED" trong [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAtive in its exeCUtion] - [ADjective PHRASE as post-MODifier] của [NOUN as HEAD] "STRATegy" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó. Hình thành từ khối [LEXical VERB] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITion PHRASE] phía sau "in its exeCUtion".</li>
+          <li className="list-none margin-bottom-10">Inner block: [creAtive in its exeCUtion] - [ADjective PHRASE as a post-MODifier] của [NOUN as HEAD] "STRATegy" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó. Hình thành từ khối [LEXical VERB] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITion PHRASE] phía sau "in its exeCUtion".</li>
       
         </ul>
       
       
       <p className="margin-top-20 text-indent-whole"><strong>2.3</strong> <strong>Forming the construction</strong>: [<strong>non-FInite CLAUSE as an ADjunct</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTiciple CLAUSE</strong>] <strong>có dấu phẩy</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>consists of</strong> [<strong>GERund-PARTiciple CLAUSE</strong>] <strong>có dấu phẩy</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole" id="6a">Example 6a:</p>
       
@@ -599,9 +599,9 @@ export default function creATE(): React.JSX.Element {
           <li>[creAting a NEW VIsual iDENtity], the BRAND LAUNCHED its camPAIGN.</li>
           <li className="margin-bottom-20 list-none">[Tạo ra một hình ảnh thương hiệu mới], thương hiệu đã khởi động chiến dịch của mình.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting a NEW VIsual iDENtity] - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "LAUNCHED" trong [MAIN CLAUSE], đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho toàn bộ [CLAUSE] chính. Bản chất là [GERund-PARTiciple CLAUSE] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM] "creAting" kết hợp một hệ [NOUN PHRASE] "a NEW VIsual iDENtity".</li>
+          <li className="list-none margin-bottom-10">External block: [creAting a NEW VIsual iDENtity] - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "LAUNCHED" trong [MAIN CLAUSE], đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho toàn bộ [CLAUSE] chính. Bản chất là [GERund-PARTiciple CLAUSE] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [GERund-PARTiciple FORM] "creAting" kết hợp một hệ [NOUN PHRASE] "a NEW VIsual iDENtity".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a NEW VIsual iDENtity] - [NOUN PHRASE as a COMplement] [TRANsitive VERB] ở [GERund-PARTiciple FORM] "creAting".</li>
+          <li className="list-none margin-bottom-10">Inner block: [a NEW VIsual iDENtity] - [NOUN PHRASE as a COMplement] [TRANsitive VERB] ở [GERund-PARTiciple FORM] "creAting".</li>
       
         </ul>
 
@@ -615,14 +615,14 @@ export default function creATE(): React.JSX.Element {
           <li>the Agency ALlocated [REsources creAting CUStom SOFTware TOOLS].</li>
           <li className="margin-bottom-20 list-none">Cơ quan này đã phân bổ [nguồn lực để phát triển các công cụ phần mềm tùy chỉnh].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [REsources creAting CUStom SOFTware TOOLS] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "ALlocated" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [REsources creAting CUStom SOFTware TOOLS] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "ALlocated" trong [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [creAting CUStom SOFTware TOOLS] - [non-FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "REsources". Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" kết hợp với [NOUN PHRASE as a COMplement] "CUStom SOFTware TOOLS" [TRANsitive VERB] ở "creAting".</li>
+          <li className="list-none margin-bottom-10">Inner block: [creAting CUStom SOFTware TOOLS] - [non-FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "REsources". Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" kết hợp với [NOUN PHRASE as a COMplement] "CUStom SOFTware TOOLS" [TRANsitive VERB] ở "creAting".</li>
       
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>có dấu phẩy</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>consists of</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>có dấu phẩy</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole" id="6c">Example 6c:</p>
       
@@ -631,14 +631,14 @@ export default function creATE(): React.JSX.Element {
           <li>[to creATE HIGH-QUAlity PROducts], the TEAM upGRAded their maCHINES.</li>
           <li className="margin-bottom-20 list-none">[Để tạo ra các sản phẩm chất lượng cao], đội ngũ đã nâng cấp các máy móc của mình.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to creATE HIGH-QUAlity PROducts] - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "upGRAded" trong [MAIN CLAUSE], đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ...". Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10">External block: [to creATE HIGH-QUAlity PROducts] - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "upGRAded" trong [MAIN CLAUSE], đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho toàn bộ diễn biến phía sau. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ...". Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HIGH-QUAlity PROducts] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE".</li>
+          <li className="list-none margin-bottom-10">Inner block: [HIGH-QUAlity PROducts] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE".</li>
       
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>consists of</strong> [<strong>to-infiniTIval CLAUSE</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole" id="6d">Example 6d:</p>
       
@@ -647,9 +647,9 @@ export default function creATE(): React.JSX.Element {
           <li>the deSIGNer STAYED [LATE to creATE the FInal PROtotype].</li>
           <li className="margin-bottom-20 list-none">Nhà thiết kế đã ở lại [muộn để hoàn thiện mẫu thử nghiệm cuối cùng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [LATE to creATE the FInal PROtotype] - [ADverb PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "STAYED" trong [MAIN CLAUSE], đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động.</li>
+          <li className="list-none margin-bottom-10">External block: [LATE to creATE the FInal PROtotype] - [ADverb PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "STAYED" trong [MAIN CLAUSE], đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [to creATE the FInal PROtotype] - [non-FInite CLAUSE as post-MODifier] của [ADverb as HEAD] "LATE", đảm nhận vai trò làm một khối bối cảnh mục đích. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
+          <li className="list-none margin-bottom-10">Inner block: [to creATE the FInal PROtotype] - [non-FInite CLAUSE as a post-MODifier] của [ADverb as HEAD] "LATE", đảm nhận vai trò làm một khối bối cảnh mục đích. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
       
         </ul>
 
@@ -666,11 +666,11 @@ export default function creATE(): React.JSX.Element {
           <li>[the deLAY in the creAtion of the NEW PORtal] RAISED SEVeral conCERNS.</li>
           <li className="margin-bottom-20 list-none">[Sự chậm trễ trong việc xây dựng cổng thông tin mới] đã gây ra một số lo ngại.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deLAY in the creAtion of the NEW PORtal] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "RAISED" trong [MAIN CLAUSE], đứng đầu câu và chịu trách nhiệm về mặt ngữ nghĩa.</li>
+          <li className="list-none margin-bottom-10">External block: [the deLAY in the creAtion of the NEW PORtal] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "RAISED" trong [MAIN CLAUSE], đứng đầu câu và chịu trách nhiệm về mặt ngữ nghĩa.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
+          <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[in the creAtion of the NEW PORtal] - [prepoSITion PHRASE as post-MODifier] của [NOUN as HEAD] ở [deVERBal NOUN] "deLAY", để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [TRANsitive prepoSITion] "in".</li>
+          <li className="list-none margin-bottom-10">[in the creAtion of the NEW PORtal] - [prepoSITion PHRASE as a post-MODifier] của [NOUN as HEAD] ở [deVERBal NOUN] "deLAY", để hiển thị và mô tả phạm vi thuộc về của đối tượng đó, bắt đầu bằng [TRANsitive prepoSITion] "in".</li>
 
           <li className="list-none margin-bottom-10">[of the NEW PORtal] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "creAtion" được hình thành từ [TRANsitive VERB] "creATE" kéo theo [TRANsitive prepoSITion] "of" và khối [NOUN PHRASE] "the NEW PORtal" phía sau.</li>
       
@@ -686,9 +686,9 @@ export default function creATE(): React.JSX.Element {
           <li>[for the creAtion of BETter SERvices], the FIRM inVESTment inCREASED.</li>
           <li className="margin-bottom-20 list-none">[Để tạo ra các dịch vụ tốt hơn], công ty đã tăng cường đầu tư.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of BETter SERvices] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "inCREASED" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [TRANsitive prepoSITion] "for" kéo theo vùng [NOUN PHRASE as a COMplement] "the creAtion ..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none margin-bottom-10">External block: [for the creAtion of BETter SERvices] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "inCREASED" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bắt đầu bằng [TRANsitive prepoSITion] "for" kéo theo vùng [NOUN PHRASE as a COMplement] "the creAtion ..." phía sau. Cả khối được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [of BETter SERvices] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "creAtion" được hình thành từ [TRANsitive VERB] "creATE" kéo theo [TRANsitive prepoSITion] "of" và khối [NOUN PHRASE] "BETter SERvices" phía sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [of BETter SERvices] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "creAtion" được hình thành từ [TRANsitive VERB] "creATE" kéo theo [TRANsitive prepoSITion] "of" và khối [NOUN PHRASE] "BETter SERvices" phía sau.</li>
       
         </ul>
 
@@ -702,9 +702,9 @@ export default function creATE(): React.JSX.Element {
           <li>the TEAM GAthered [for the creAtion of a NEW PROject PLAN].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã tập hợp lại [để xây dựng một kế hoạch dự án mới].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [for the creAtion of a NEW PROject PLAN] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "GAthered" trong [MAIN CLAUSE], đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bắt đầu bằng [TRANsitive prepoSITion] "for".</li>
+          <li className="list-none margin-bottom-10">External block: [for the creAtion of a NEW PROject PLAN] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "GAthered" trong [MAIN CLAUSE], đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bắt đầu bằng [TRANsitive prepoSITion] "for".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [of a NEW PROject PLAN] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "creAtion" được hình thành từ [TRANsitive VERB] "creATE" kéo theo [TRANsitive prepoSITion] "of" và khối [NOUN PHRASE] "a NEW PROject PLAN" phía sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [of a NEW PROject PLAN] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "creAtion" được hình thành từ [TRANsitive VERB] "creATE" kéo theo [TRANsitive prepoSITion] "of" và khối [NOUN PHRASE] "a NEW PROject PLAN" phía sau.</li>
       
         </ul>
 
@@ -716,7 +716,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Forming the construction</strong>: [<strong>CONtent CLAUSE</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as SUBject</strong>] <strong>consists of</strong> [<strong>Open interROGative CONtent CLAUSE</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="9a">Example 9a:</p>
       
@@ -725,15 +725,15 @@ export default function creATE(): React.JSX.Element {
           <li>[HOW the ARtist creATES uNIQUE SCULPtures] FAScinates the AUdience.</li>
           <li className="margin-bottom-20 list-none">[Cách nghệ sĩ tạo ra những tác phẩm điêu khắc độc đáo] khiến khán giả say mê.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HOW the ARtist creATES uNIQUE SCULPtures] - [FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "FAScinates" trong [MAIN CLAUSE]. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần [ADverb] "HOW" ở đầu, mang [NOUN as HEAD] riêng "ARtist" và cụm hành động [FInite CLAUSE] "creATES ..." phối hợp phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [HOW the ARtist creATES uNIQUE SCULPtures] - [FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "FAScinates" trong [MAIN CLAUSE]. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần [ADverb] "HOW" ở đầu, mang [NOUN as HEAD] riêng "ARtist" và cụm hành động [FInite CLAUSE] "creATES ..." phối hợp phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [uNIQUE SCULPtures] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "creATES".</li>
+          <li className="list-none margin-bottom-10">Inner block: [uNIQUE SCULPtures] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "creATES".</li>
       
         </ul>
 
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as a COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>Open interROGative CONtent CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>FInite CLAUSE as a COMplement</strong>] <strong>consists of</strong> [<strong>Open interROGative CONtent CLAUSE</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="9b">Example 9b:</p>
       
@@ -742,9 +742,9 @@ export default function creATE(): React.JSX.Element {
           <li>the diRECtor exPLAINED [HOW the TEAM creATES efFECtive adVERtisements].</li>
           <li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ tạo ra những quảng cáo hiệu quả].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [HOW the TEAM creATES efFECtive adVERtisements] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "exPLAINED" trong [MAIN CLAUSE]. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần [ADverb] "HOW" ở đầu, có [NOUN as HEAD] "TEAM" và cụm hành động [FInite CLAUSE] "creATES ..." phối hợp phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [HOW the TEAM creATES efFECtive adVERtisements] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "exPLAINED" trong [MAIN CLAUSE]. Bản chất là [Open interROGative CONtent CLAUSE] chứa thành phần [ADverb] "HOW" ở đầu, có [NOUN as HEAD] "TEAM" và cụm hành động [FInite CLAUSE] "creATES ..." phối hợp phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [efFECtive adVERtisements] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "creATES".</li>
+          <li className="list-none margin-bottom-10">Inner block: [efFECtive adVERtisements] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "creATES".</li>
       
         </ul>
       
@@ -758,9 +758,9 @@ export default function creATE(): React.JSX.Element {
           <li>[the ENgine which creATES SOlar ENergy] was REcently inSTALLED.</li>
           <li className="margin-bottom-20 list-none">[Cỗ máy tạo ra năng lượng mặt trời] vừa được lắp đặt.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the ENgine which creATES SOlar ENergy] - [NOUN PHRASE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "was" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [the ENgine which creATES SOlar ENergy] - [NOUN PHRASE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "was" trong [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which creATES SOlar ENergy] - [FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "ENgine". Bản chất là [RELative CLAUSE] chứa thành phần [PROnoun as HEAD] vật thể "which" ở đầu, mang cụm hành động [FInite CLAUSE] "creATES ..." phối hợp phía sau xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối [NOUN as HEAD] "ENgine" để nhận diện và mô tả đặc điểm cho đối tượng.</li>
+          <li className="list-none margin-bottom-10">Inner block: [which creATES SOlar ENergy] - [FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "ENgine". Bản chất là [RELative CLAUSE] chứa thành phần [PROnoun as HEAD] vật thể "which" ở đầu, mang cụm hành động [FInite CLAUSE] "creATES ..." phối hợp phía sau xử lý bối cảnh thuộc trục thời hiện tại. Hoạt động như một MODule lọc bổ sung đặt sau khối [NOUN as HEAD] "ENgine" để nhận diện và mô tả đặc điểm cho đối tượng.</li>
       
         </ul>
       
@@ -771,12 +771,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
 
-          <li>the VENture sucCEEded [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion].</li>
+          <li>the VENture sucCEEded be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion.</li>
           <li className="margin-bottom-20 list-none">Dự án đã thành công [bởi vì người sáng lập đã vạch ra một tầm nhìn rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "sucCEEded" trong [MAIN CLAUSE]. Bắt đầu bằng thành phần [TRANsitive prepoSITion] nguyên nhân "be<strong>cause</strong>", chứa [NOUN as HEAD] "FOUNder" và cụm hành động [FInite CLAUSE] "creAted ..." mang dấu mốc trục thời quá khứ, thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần điều thông tin chính [MAIN CLAUSE] "the VENture sucCEEded" đứng trước.</li>
+          <li className="list-none margin-bottom-10">External block: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "sucCEEded" trong [MAIN CLAUSE]. Bắt đầu bằng thành phần [TRANsitive prepoSITion] nguyên nhân "be<strong>cause</strong>", chứa [NOUN as HEAD] "FOUNder" và cụm hành động [FInite CLAUSE] "creAted ..." mang dấu mốc trục thời quá khứ, thiết lập MODule bối cảnh để bổ nghĩa cho toàn bộ phần điều thông tin chính [MAIN CLAUSE] "the VENture sucCEEded" đứng trước.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a CLEAR VIsion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "creAted".</li>
+          <li className="list-none margin-bottom-10">Inner block: [a CLEAR VIsion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "creAted".</li>
       
         </ul>
 
@@ -793,9 +793,9 @@ export default function creATE(): React.JSX.Element {
           <li>they beLIEVE [the Agency creAted a reLIable SYStem].</li>
           <li className="margin-bottom-20 list-none">Họ tin rằng [cơ quan này đã xây dựng một hệ thống đáng tin cậy].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the Agency creAted a reLIable SYStem] - [FInite CLAUSE as a COMplement] của [inTRANsitive VERB] ở [PLAIN PRESent FORM] "beLIEVE" trong [MAIN CLAUSE]. Bản chất là [ZEro deCLARative CONtent CLAUSE] đã ẩn thành phần [SuBORdinator] định hướng "that", chỉ còn hiển thị trọn vẹn khối [NOUN as HEAD] "Agency" và cụm hành động [FInite CLAUSE] "creAted ..." phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [the Agency creAted a reLIable SYStem] - [FInite CLAUSE as a COMplement] của [inTRANsitive VERB] ở [PLAIN PRESent FORM] "beLIEVE" trong [MAIN CLAUSE]. Bản chất là [ZEro deCLARative CONtent CLAUSE] đã ẩn thành phần [SuBORdinator] định hướng "that", chỉ còn hiển thị trọn vẹn khối [NOUN as HEAD] "Agency" và cụm hành động [FInite CLAUSE] "creAted ..." phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [a reLIable SYStem] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "creAted".</li>
+          <li className="list-none margin-bottom-10">Inner block: [a reLIable SYStem] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "creAted".</li>
       
         </ul>
       
@@ -809,9 +809,9 @@ export default function creATE(): React.JSX.Element {
           <li>[the deSIGN she creAted for the CLIent] WON a presTIgious aWARD.</li>
           <li className="margin-bottom-20 list-none">[Thiết kế mà cô ấy đã tạo ra cho khách hàng] đã giành được một giải thưởng danh giá.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [the deSIGN she creAted for the CLIent] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "WON" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [the deSIGN she creAted for the CLIent] - [NOUN PHRASE as SUBject] của [TRANsitive VERB] ở [PRETerite FORM] "WON" trong [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [she creAted for the CLIent] - [FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "deSIGN". Bản chất là [ZEro RELative CLAUSE] đã ẩn thành phần "which", "that" vật thể đứng trước, giữ lại khối [PROnoun as HEAD] "she" và cụm [FInite CLAUSE] "creAted for the CLIent". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD] "deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none margin-bottom-10">Inner block: [she creAted for the CLIent] - [FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "deSIGN". Bản chất là [ZEro RELative CLAUSE] đã ẩn thành phần "which", "that" vật thể đứng trước, giữ lại khối [PROnoun as HEAD] "she" và cụm [FInite CLAUSE] "creAted for the CLIent". Đóng vai trò như bộ quét đặt ngay sau đối tượng [NOUN as HEAD] "deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
       
         </ul>
       
@@ -825,9 +825,9 @@ export default function creATE(): React.JSX.Element {
           <li>[should the PROgram creATE TECHnical ERrors], aLERT the SYStem adMINistrator.</li>
           <li className="margin-bottom-20 list-none">[Nếu chương trình gặp lỗi kỹ thuật], hãy thông báo cho quản trị viên hệ thống.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [should the PROgram creATE TECHnical ERrors] - [FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PLAIN FORM] "aLERT" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau. Bản chất là [inVERTed CLAUSE] vận hành ở trạng thái ẩn thành phần [suBORdinator] điều kiện "if" bằng giải pháp đảo [PRETerite MOdal auXILiary VERB] "should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [NOUN as HEAD] "PROgram" và [FInite CLAUSE] "creATE TECHnical ERrors".</li>
+          <li className="list-none margin-bottom-10">External block: [should the PROgram creATE TECHnical ERrors] - [FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PLAIN FORM] "aLERT" trong [MAIN CLAUSE], đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau. Bản chất là [inVERTed CLAUSE] vận hành ở trạng thái ẩn thành phần [suBORdinator] điều kiện "if" bằng giải pháp đảo [PRETerite MOdal auXILiary VERB] "should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [NOUN as HEAD] "PROgram" và [FInite CLAUSE] "creATE TECHnical ERrors".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [TECHnical ERrors] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE".</li>
+          <li className="list-none margin-bottom-10">Inner block: [TECHnical ERrors] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE".</li>
       
         </ul>
 
@@ -837,7 +837,7 @@ export default function creATE(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Forming the construction</strong>: [<strong>non-FInite CLAUSE</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTicipial CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>consists of</strong> [<strong>GERund-PARTicipial CLAUSE</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole" id="12a">Example 12a:</p>
       
@@ -850,9 +850,9 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting soLUtions for WHAT CLIents STRUGgle with] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "BUILDS", chịu trách nhiệm làm một khối đầu việc lớn. Bản chất là [GERund-PARTicipial CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [creAting soLUtions for WHAT CLIents STRUGgle with] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "BUILDS", chịu trách nhiệm làm một khối đầu việc lớn. Bản chất là [GERund-PARTicipial CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
+          <li className="list-none margin-bottom-10">Inner block:</li>
 
           <li className="list-none margin-bottom-10">[for WHAT CLIents STRUGgle with] - [prepoSITion PHRASE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "creAting", bắt đầu bằng [TRANsitive prepoSITion] "for" và khối [FInite CLAUSE] "WHAT CLIents STRUGgle with" phía sau.</li>
 
@@ -861,7 +861,7 @@ export default function creATE(): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as CATenative COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>GERund-PARTicipial CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as CATenative COMplement</strong>] <strong>consists of</strong> [<strong>GERund-PARTicipial CLAUSE</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole" id="12b">Example 12b:</p>
       
@@ -874,14 +874,14 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [exPLORing WHY the TEAM creAted outDAted deSIGNS] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "sugGESted" trong [MAIN CLAUSE], đóng vai trò làm  tiếp nhận nội dung. Bản chất là [GERund-PARTicipial CLAUSE] bắt đầu bằng [GERund-PARTiciple FORM] "exPLORing" kết hợp vùng mã mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [exPLORing WHY the TEAM creAted outDAted deSIGNS] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "sugGESted" trong [MAIN CLAUSE], đóng vai trò làm  tiếp nhận nội dung. Bản chất là [GERund-PARTicipial CLAUSE] bắt đầu bằng [GERund-PARTiciple FORM] "exPLORing" kết hợp vùng mã mở rộng phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the TEAM creAted outDAted deSIGNS] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "exPLORing", làm rõ nội dung cho việc tìm hiểu. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "WHY" và [NOUN as HEAD] riêng "TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [WHY the TEAM creAted outDAted deSIGNS] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "exPLORing", làm rõ nội dung cho việc tìm hiểu. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "WHY" và [NOUN as HEAD] riêng "TEAM" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau.</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as SUBject</strong>] <strong>consists of</strong> [<strong>to-infiniTIval CLAUSE</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole" id="12c">Example 12c:</p>
       
@@ -894,14 +894,14 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to underSTAND HOW the SYStem creATES AUtomated rePORTS] - [non-FInite CLAUSE as SUBject] của [3RD SINGular PRESent FORM] "reQUIres", để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "underSTAND ..." kéo theo vùng mã bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [to underSTAND HOW the SYStem creATES AUtomated rePORTS] - [non-FInite CLAUSE as SUBject] của [3RD SINGular PRESent FORM] "reQUIres", để quản lý khối đầu việc ở đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "underSTAND ..." kéo theo vùng mã bổ trợ phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the SYStem creATES AUtomated rePORTS] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "underSTAND". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [ADverb] "HOW" và [NOUN as HEAD] "SYStem" và cụm hành động riêng đi sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HOW the SYStem creATES AUtomated rePORTS] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "underSTAND". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa thành phần [ADverb] "HOW" và [NOUN as HEAD] "SYStem" và cụm hành động riêng đi sau.</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as CATenative COMplement</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as CATenative COMplement</strong>] <strong>consists of</strong> [<strong>to-infiniTIval CLAUSE</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole" id="12d">Example 12d:</p>
       
@@ -914,14 +914,14 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to STUdy HOW Users creATE PERsonal PROfiles] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "PLANS" trong [MAIN CLAUSE], đóng vai trò làm  tiếp nhận mục tiêu kế hoạch. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "STUdy ..." kéo theo vùng mã bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [to STUdy HOW Users creATE PERsonal PROfiles] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "PLANS" trong [MAIN CLAUSE], đóng vai trò làm  tiếp nhận mục tiêu kế hoạch. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "STUdy ..." kéo theo vùng mã bổ trợ phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW Users creATE PERsonal PROfiles] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "STUdy". Bản chất là [Open interROGative CONtent CLAUSE] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "Users" và cụm hành động riêng đi sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HOW Users creATE PERsonal PROfiles] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "STUdy". Bản chất là [Open interROGative CONtent CLAUSE] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "Users" và cụm hành động riêng đi sau.</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as extraPOSED SUBject</strong>] <strong>cấu tạo từ</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as extraPOSED SUBject</strong>] <strong>consists of</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole" id="12e">Example 12e:</p>
       
@@ -934,9 +934,9 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [to eVAluate HOW the appliCAtion creATES User LOGS] - [non-FInite CLAUSE as extraPOSED SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "TAKES" trong [MAIN CLAUSE], chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "eVAluate ..." và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [to eVAluate HOW the appliCAtion creATES User LOGS] - [non-FInite CLAUSE as extraPOSED SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "TAKES" trong [MAIN CLAUSE], chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] lớn biểu hiện dưới dạng một vùng mã mở rộng được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "eVAluate ..." và kéo theo thành phần bổ trợ phía sau.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HOW the appliCAtion creATES User LOGS] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "eVAluate", tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HOW the appliCAtion creATES User LOGS] - [FInite CLAUSE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "eVAluate", tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá. Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ thành phần [ADverb] "HOW" và [NOUN as HEAD] riêng "appliCAtion" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau.</li>
       
         </ul>
     
@@ -954,11 +954,11 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [proPOsals regarding HOW the TEAM creATES NEW MARketing CHANnels] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "reVIEWED" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [proPOsals regarding HOW the TEAM creATES NEW MARketing CHANnels] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "reVIEWED" trong [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>:</li>
+          <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[re<strong>gard</strong>ing HOW the TEAM creATES NEW MARketing CHANnels] - [prepoSITion PHRASE as post-MODifier] của [NOUN as HEAD] "proPOsals". Bắt đầu bằng [TRANsitive prepoSITion] "re<strong>gard</strong>ing" và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10">[re<strong>gard</strong>ing HOW the TEAM creATES NEW MARketing CHANnels] - [prepoSITion PHRASE as a post-MODifier] của [NOUN as HEAD] "proPOsals". Bắt đầu bằng [TRANsitive prepoSITion] "re<strong>gard</strong>ing" và kéo theo thành phần bổ trợ phía sau.</li>
 
           <li className="list-none margin-bottom-10">[HOW the TEAM creATES NEW MARketing CHANnels] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "re<strong>gard</strong>ing". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "HOW", [NOUN as HEAD] "TEAM", [3RD SINGular PRESent FORM] "creATES" và [NOUN PHRASE] "NEW MARketing CHANnels" đi sau.</li>
       
@@ -978,9 +978,9 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [on WHY the deSIGNer creAted COMplex LAYouts] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "FOcused" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "on" và kéo theo thành phần bổ trợ phía sau, đảm nhận vai trò làm một khối bối cảnh địa điểm, nội dung tổng thể.</li>
+          <li className="list-none margin-bottom-10">External block: [on WHY the deSIGNer creAted COMplex LAYouts] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "FOcused" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "on" và kéo theo thành phần bổ trợ phía sau, đảm nhận vai trò làm một khối bối cảnh địa điểm, nội dung tổng thể.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [WHY the deSIGNer creAted COMplex LAYouts] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "on". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "WHY", [NOUN as HEAD] riêng "deSIGNer", hành động riêng thuộc trục thời quá khứ [PRETerite FORM] "creAted", và [NOUN PHRASE] "COMplex LAYouts" đi sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [WHY the deSIGNer creAted COMplex LAYouts] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "on". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "WHY", [NOUN as HEAD] riêng "deSIGNer", hành động riêng thuộc trục thời quá khứ [PRETerite FORM] "creAted", và [NOUN PHRASE] "COMplex LAYouts" đi sau.</li>
       
         </ul>
 
@@ -998,9 +998,9 @@ export default function creATE(): React.JSX.Element {
           <li>[creAting HIGH-IMpact CONtent] reQUIres proFESsional dediCAtion.</li>
           <li className="margin-bottom-20 list-none">[Tạo ra nội dung có tác động mạnh] đòi hỏi sự cầm cố chuyên nghiệp.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [creAting HIGH-IMpact CONtent] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], để quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" và đối tượng đi kèm "HIGH-IMpact CONtent".</li>
+          <li className="list-none margin-bottom-10">External block: [creAting HIGH-IMpact CONtent] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], để quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" và đối tượng đi kèm "HIGH-IMpact CONtent".</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [HIGH-IMpact CONtent] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] "creAting", chứa các đặc điểm mô tả nội dung có sức tác động cao.</li>
+          <li className="list-none margin-bottom-10">Inner block: [HIGH-IMpact CONtent] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] "creAting", chứa các đặc điểm mô tả nội dung có sức tác động cao.</li>
       
         </ul>
       
@@ -1026,7 +1026,7 @@ export default function creATE(): React.JSX.Element {
           <li>the COMpany BOOSted [VALue] [by creAting uNIQUE PROducts].</li>
           <li className="margin-bottom-20 list-none">Công ty đã nâng cao [giá trị] [bằng cách tạo ra các sản phẩm độc đáo].</li>
 
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [VALue] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "BOOSted" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [VALue] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "BOOSted" trong [MAIN CLAUSE].</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối song</strong>: [by creAting uNIQUE PROducts] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "BOOSted" trong [MAIN CLAUSE], bắt đầu bằng [TRANsitive prepoSITion] phương thức "by" đi kèm cụm hành động [non-FInite CLAUSE as a COMplement] "creAting uNIQUE PROducts" của "by" phía sau.</li>
       
@@ -1040,28 +1040,28 @@ export default function creATE(): React.JSX.Element {
           <li>the COMpany BOOSted [VALue] [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts].</li>
           <li className="margin-bottom-20 list-none">Công ty đã gia tăng [giá trị vì các nhà phát triển đã tạo ra các sản phẩm độc đáo].</li>
 
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [VALue] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "BOOSted" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [VALue] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "BOOSted" trong [MAIN CLAUSE].</li>
           
           <li className="list-none margin-bottom-10"><strong>Khối song mới</strong>: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "BOOSted" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "be<strong>cause</strong>", bên trong chứa "the deVElopers creAted...", là một [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "be<strong>cause</strong>", đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn.</li>
       
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole" id="Case-3"><strong>Case 3</strong>: <strong>Kỹ thuật hạ cấp từ</strong> [<strong>FInite CLAUSE as post-MODifier</strong>] <strong>về</strong> [<strong>ADjective as pre-MODifier</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="Case-3"><strong>Case 3</strong>: <strong>Kỹ thuật hạ cấp từ</strong> [<strong>FInite CLAUSE as a post-MODifier</strong>] <strong>về</strong> [<strong>ADjective as a pre-MODifier</strong>]</p>
       
         <ul className="list-square">
       
           <li>the STUdio HIred [a TEAM which creATES interACtive ART PROjects].</li>
           <li className="margin-bottom-20 list-none">STUdio này đã tuyển dụng [một đội ngũ chuyên thực hiện các dự án nghệ thuật tương tác].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài</strong>: [a TEAM which creATES interACtive ART PROjects] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [a TEAM which creATES interACtive ART PROjects] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [which creATES interACtive ART PROjects] - [FInite CLAUSE as post-MODifier] của [NOUN as HEAD] "TEAM". Bản chất là [RELative CLAUSE] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [PROnoun as HEAD] "which" và cụm hành động [FInite CLAUSE] "creATES ..." phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng  "TEAM".</li>
+          <li className="list-none margin-bottom-10">Inner block: [which creATES interACtive ART PROjects] - [FInite CLAUSE as a post-MODifier] của [NOUN as HEAD] "TEAM". Bản chất là [RELative CLAUSE] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [PROnoun as HEAD] "which" và cụm hành động [FInite CLAUSE] "creATES ..." phía sau. Đóng vai trò một MODule lọc nhằm định nghĩa đặc điểm cho đối tượng  "TEAM".</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về</strong> [<strong>ADjective as pre-MODifier</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về</strong> [<strong>ADjective as a pre-MODifier</strong>]</p>
       
         <ul className="list-square">
       
@@ -1070,7 +1070,7 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [a creAtive TEAM] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [creAtive] - [ADjective as pre-MODifier] của [NOUN as HEAD] thiết lập vị trí ngay trước đối tượng "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Hình thành từ khối [LEXical VERB] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối [deVERBal ADjective] "creAtive", có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. </li>
+          <li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [creAtive] - [ADjective as a pre-MODifier] của [NOUN as HEAD] thiết lập vị trí ngay trước đối tượng "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Hình thành từ khối [LEXical VERB] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối [deVERBal ADjective] "creAtive", có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. </li>
       
         </ul>
 
@@ -1090,7 +1090,7 @@ export default function creATE(): React.JSX.Element {
           
           <li className="list-none margin-bottom-10">[for the creAtion of the SYStem INterface] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "ALlocated" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "for" chỉ lý do, bối cảnh kéo theo khối [NOUN PHRASE] phía sau. Để thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích, bổ nghĩa cho hành động [PRETerite FORM] "ALlocated".</li>
 
-          <li className="list-none margin-bottom-10"><strong>Khối trong</strong>: [of the SYStem INterface] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "creAtion" được hình thành từ [TRANsitive VERB] "creATE" kéo theo [TRANsitive prepoSITion] "of" và khối [NOUN PHRASE] phía sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [of the SYStem INterface] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "creAtion" được hình thành từ [TRANsitive VERB] "creATE" kéo theo [TRANsitive prepoSITion] "of" và khối [NOUN PHRASE] phía sau.</li>
       
         </ul>
       
