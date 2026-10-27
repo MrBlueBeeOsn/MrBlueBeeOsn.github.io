@@ -826,20 +826,20 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
 
-          <li>they have [DOUBTS a<strong>bout</strong> HOW they CLEAR the seCUrity CHECK].</li>
-          <li className="margin-bottom-20 list-none">Họ có [những nghi ngờ về cách họ vượt qua cửa kiểm tra an ninh].</li>
+          <li>they have DOUBTS a<strong>bout</strong> HOW they CLEAR the seCUrity CHECK.</li>
+          <li className="margin-bottom-20 list-none">Concerns have been raised about the method used to clear the security check.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [DOUBTS a<strong>bout</strong> HOW they CLEAR the seCUrity CHECK] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "have" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [DOUBTS about HOW they CLEAR the security check] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [SIMPLE PRESENT TENSE] "have" in the [MAIN CLAUSE].</li>
 
           <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[a<strong>bout</strong> HOW they CLEAR the seCUrity CHECK]  - [prepoSITion PHRASE as a post-MODifier] của [NOUN as HEAD] "DOUBTS". Bắt đầu bằng [TRANsitive prepoSITion] "a<strong>bout</strong>" và kéo theo thành phần bổ trợ phía sau. Biểu thị dưới dạng một vùng mã lớn.</li>
+          <li className="list-none margin-bottom-10">[about HOW they CLEAR the seCUrity CHECK] - [prepoSITion PHRASE as a post-MODifier] of [NOUN as HEAD] "DOUBTS." Begins with [TRANsitive prepoSITion] "about" and is followed by a modifying phrase. Represented as a large code block.</li>
           
-          <li className="list-none margin-bottom-10">[HOW they CLEAR the seCUrity CHECK] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "a<strong>bout</strong>". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "HOW", [PROnoun as HEAD] "they", [PLAIN PRESent FORM] "CLEAR" và [NOUN PHRASE] "the seCUrity CHECK" đi sau.</li>
+          <li className="list-none margin-bottom-10">[HOW they CLEAR the seCUrity CHECK] - [FInite CLAUSE as a COMplement] of [TRANsitive prepoSITion] "about". Essentially, it is an [Open interrogative content clause] structured as a nested code block, containing four components: the [adverb] "HOW," the [pronoun as head] "they," the [plain present form] "CLEAR," and the [noun phrase] "the security check" that follows.</li>
       
         </ul>
 
@@ -851,20 +851,20 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the OFFicer LOOKED [diRECTly] [at where the TEAM CLEARED the LAND].</li>
-          <li className="margin-bottom-20 list-none">Viên sĩ quan nhìn thẳng [vào nơi mà đội đã dọn sạch khu đất].</li>
+          <li>the OFFicer LOOKED diRECTly at where the TEAM CLEARED the LAND.</li>
+          <li className="margin-bottom-20 list-none">The officer looked directly at where the team cleared the land, and his gaze was focused on the area.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài song song</strong>:</li>
+          <li className="list-none margin-bottom-10"><strong>Parallel external block</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[diRECTly] - [ADverb PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "LOOKED" trong [MAIN CLAUSE]. Hình thành từ khối [ADjective] nguyên bản "diRECT" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài có khả năng bổ trợ bối cảnh phương thức.</li>
+          <li className="list-none margin-bottom-10">[diRECTly] - [adverbial phrase as an adjunct] of [intransitive verb] in the [past tense form] "LOOKED" in the [main clause]. Formed from the original [adjective] "diRECT" by adding the suffix "-ly" to alter its form and provide contextual information about the manner.</li>
 
-          <li className="list-none margin-bottom-10">[at where the TEAM CLEARED the LAND] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "LOOKED" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "at" và kéo theo thành phần bổ trợ phía sau, đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể, biểu thị dưới dạng một vùng mã xác lập không gian lớn.</li>
+          <li className="list-none margin-bottom-10">[at where the TEAM CLEARED the LAND] - [prepositional phrase as a complement] of [intransitive verb] in the [past tense form] "LOOKED" in the [main clause]. It begins with the [transitive preposition] "at" and is followed by a complement, functioning as a single, overarching contextual unit of location, expressed as a broad spatial unit.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [where the TEAM CLEARED the LAND] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "at". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "where", [NOUN as HEAD] riêng "TEAM",  [PRETerite FORM] "CLEARED" riêng thuộc trục thời quá khứ và [NOUN PHRASE] "the LAND" đi sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [where the TEAM CLEARED the LAND] - [Finite CLAUSE as a COMPLEMENT] of [Transitive preposition] "at". Essentially, it is an [Open interrogative content clause] structured as a nested subclause, containing four components: the [adverb] "where," the [noun as head] "TEAM," the [preterite form] "CLEARED" (belonging to the past tense), and the [noun phrase] "the LAND" that follows.</li>
       
         </ul>
       

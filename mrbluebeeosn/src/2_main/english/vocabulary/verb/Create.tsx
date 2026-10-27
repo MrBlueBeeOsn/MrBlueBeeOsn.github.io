@@ -947,20 +947,20 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the BOARD reVIEWED [proPOsals re<strong>gard</strong>ing HOW the TEAM creATES NEW MARketing CHANnels].</li>
-          <li className="margin-bottom-20 list-none">Hội đồng quản trị đã xem xét [các đề xuất liên quan đến cách thức mà đội ngũ xây dựng các kênh tiếp thị mới].</li>
+          <li>the BOARD reVIEWED proPOsals re<strong>gard</strong>ing HOW the TEAM creATES NEW MARketing CHANnels.</li>
+          <li className="margin-bottom-20 list-none">The board reviewed proposals. These proposals were about how the team creates new marketing channels.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [proPOsals regarding HOW the TEAM creATES NEW MARketing CHANnels] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "reVIEWED" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">External block: [proposals regarding HOW the TEAM CREATES NEW marketing channels] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "REVIEWED" in the [MAIN CLAUSE].</li>
           
           <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[re<strong>gard</strong>ing HOW the TEAM creATES NEW MARketing CHANnels] - [prepoSITion PHRASE as a post-MODifier] của [NOUN as HEAD] "proPOsals". Bắt đầu bằng [TRANsitive prepoSITion] "re<strong>gard</strong>ing" và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none margin-bottom-10">[regarding HOW the TEAM CREATES NEW MARKETING CHANNELS] - [prepositional phrase as a post-modifier] of [noun as head] "proposals." It begins with [transitive preposition] "regarding" and is followed by a modifying element.</li>
 
-          <li className="list-none margin-bottom-10">[HOW the TEAM creATES NEW MARketing CHANnels] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "re<strong>gard</strong>ing". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "HOW", [NOUN as HEAD] "TEAM", [3RD SINGular PRESent FORM] "creATES" và [NOUN PHRASE] "NEW MARketing CHANnels" đi sau.</li>
+          <li className="list-none margin-bottom-10">[HOW the TEAM CREATES NEW MARKETING CHANNELS] - [FINITE CLAUSE AS A COMPLEMENT] OF [TRANSITIVE PREPOSITION] "regarding". Essentially, it is an [Open interrogative content clause] structured as a nested code block, containing four components: the [adverb] "HOW," the [noun as head] "TEAM," the [3rd singular present form] "creates," and the [noun phrase] "new marketing channels" that follows.</li>
       
         </ul>
 
@@ -971,16 +971,16 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the MEEting FOcused [on WHY the deSIGNer creAted COMplex LAYouts].</li>
-          <li className="margin-bottom-20 list-none">Cuộc họp tập trung [vào lý do tại sao nhà thiết kế lại tạo ra các bố cục phức tạp].</li>
+          <li>the MEEting FOcused on WHY the deSIGNer creAted COMplex LAYouts.</li>
+          <li className="margin-bottom-20 list-none">The focus of the meeting was the rationale behind the designer's decision to craft complex layouts.</li>
       
         </ul>
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [on WHY the deSIGNer creAted COMplex LAYouts] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "FOcused" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "on" và kéo theo thành phần bổ trợ phía sau, đảm nhận vai trò làm một khối bối cảnh địa điểm, nội dung tổng thể.</li>
+          <li className="list-none margin-bottom-10">External block: [on WHY the designer created complex layouts] - [prepositional phrase as a complement] of [intransitive verb] in the [past tense] "focused" in the [main clause]. It begins with the [transitive preposition] "on" and is followed by a complement, serving as a contextual block that provides the setting and overall content.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [WHY the deSIGNer creAted COMplex LAYouts] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "on". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "WHY", [NOUN as HEAD] riêng "deSIGNer", hành động riêng thuộc trục thời quá khứ [PRETerite FORM] "creAted", và [NOUN PHRASE] "COMplex LAYouts" đi sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [WHY the deSIGNer creAted COMplex LAYouts] - [FInite CLAUSE as a COMplement] of [TRANsitive prepoSITion] "on". Essentially, it is an [Open interROGative CONtent CLAUSE] structured as a nested code block, containing four components the [adverb] "WHY," the standalone [noun as head] "designer," the standalone action in the past tense [preterite form] "created," and the following [noun phrase] "complex layouts."</li>
       
         </ul>
 

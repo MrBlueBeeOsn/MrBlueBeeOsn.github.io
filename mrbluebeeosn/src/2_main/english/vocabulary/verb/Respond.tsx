@@ -949,20 +949,20 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the BOARD reVIEWED [rePORTS re<strong>gard</strong>ing HOW the organiZAtion reSPONDS to MARket CRIses].</li>
-					<li className="margin-bottom-20 list-none">Hội đồng quản trị đã xem xét [các báo cáo liên quan đến cách thức tổ chức ứng phó với các cuộc khủng hoảng thị trường].</li>
+					<li>the BOARD reVIEWED rePORTS re<strong>gard</strong>ing HOW the organiZAtion reSPONDS to MARket CRIses.</li>
+					<li className="margin-bottom-20 list-none">Reports regarding how the organization responds to market crises were reviewed by the board.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10">External block: [rePORTS re<strong>gard</strong>ing HOW the organiZAtion reSPONDS to MARket CRIses] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "reVIEWED" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10">External block: [rePORTS regarding HOW the organiZAtion reSPONDS to MARket CRIses] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PRETerite FORM] "reVIEWED" in the [MAIN CLAUSE].</li>
 
 					<li className="list-none margin-bottom-10">Inner block:</li>
 
-					<li className="list-none margin-bottom-10">[re<strong>gard</strong>ing HOW the organiZAtion reSPONDS to MARket CRIses] - [prepoSITion PHRASE as a post-MODifier] của [NOUN as HEAD] "rePORTS". Bắt đầu bằng [TRANsitive prepoSITion] "re<strong>gard</strong>ing" và kéo theo thành phần bổ trợ phía sau.</li>
+					<li className="list-none margin-bottom-10">[regarding HOW the organization responds to market crises] - [prepositional phrase as a post-modifier] of [noun as head] "reports." It begins with [transitive preposition] "regarding" and is followed by a modifying element.</li>
 					
-					<li className="list-none margin-bottom-10">[HOW the organiZAtion reSPONDS to MARket CRIses] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "re<strong>gard</strong>ing". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "HOW", [NOUN as HEAD] "organiZAtion", [3RD SINGular PRESent FORM] "reSPONDS" và [prepoSITion PHRASE] "to MARket CRIses" đi sau.</li>
+					<li className="list-none margin-bottom-10">[HOW the organization responds to market crises] - [finite clause as a complement] of [transitive preposition] "regarding." Essentially, it is an [open interrogative content clause] structured as a nested code block, containing four components [ADverb] "HOW", [NOUN as HEAD] "organiZAtion", [3RD SINGular PRESENT FORM] "reSPONDS", and the [prepoSITion PHRASE] "to MARket CRIses" that follows.</li>
 			
 				</ul>
 
@@ -973,16 +973,16 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the deBATE FOcused [on WHY the GOVernment reSPONDed SLOWly to the eMERgency].</li>
-					<li className="margin-bottom-20 list-none">Cuộc tranh luận tập trung [vào lý do tại sao Chính phủ lại phản ứng chậm chạp trước tình huống khẩn cấp].</li>
+					<li>the deBATE FOcused on WHY the GOVernment reSPONDed SLOWly to the eMERgency.</li>
+					<li className="margin-bottom-20 list-none">The government's slow response to the emergency was the focus of the debate.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li className="list-none margin-bottom-10">External block: [on WHY the GOVernment reSPONDed SLOWly to the eMERgency] - [prepoSITion PHRASE as a COMplement] của [inTRANsitive VERB] ở [PRETerite FORM] "FOcused" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "on" và kéo theo thành phần bổ trợ phía sau, đảm nhận vai trò làm một khối bối cảnh địa điểm, nội dung tổng thể.</li>
+					<li className="list-none margin-bottom-10">External block: [on WHY the GOVernment reSPONDed SLOWly to the eMERgency] - [prepoSITion PHRASE as a COMplement] of [inTRANsitive VERB] in the [PRETerite FORM] "FOcused" in the [MAIN CLAUSE]. It begins with the [transitive preposition] "on" and is followed by a complement, serving as a contextual block that provides the setting and overall context.</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [WHY the GOVernment reSPONDed SLOWly to the eMERgency] - [FInite CLAUSE as a COMplement] của [TRANsitive prepoSITion] "on". Bản chất là [Open interROGative CONtent CLAUSE] định hình dưới dạng khối mã con nằm gọn bên trong, chứa 4 thành phần [ADverb] "WHY", [NOUN as HEAD] riêng "GOVernment", hành động riêng thuộc trục thời quá khứ [PRETerite FORM] "reSPONDed" và [prepoSITion PHRASE] "to the eMERgency" đi sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [WHY the GOVernment reSPONDed SLOWly to the eMERgency] - [FInite CLAUSE as a COMplement] of [TRANsitive prepoSITion] "on". Essentially, it is an [Open interROGative CONtent CLAUSE] structured as a nested code block, containing four components the [adverb] "WHY," the [noun as head] "Government," the past-tense verb [preterite form] "responded," and the [prepositional phrase] "to the emergency" that follows.</li>
 			
 				</ul>
 
