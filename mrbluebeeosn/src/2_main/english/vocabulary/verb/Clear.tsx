@@ -867,7 +867,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>CLEARing the BROWser CACHE is NECessary.</li>
-          <li className="margin-bottom-20 list-none">It is necessary to clear the browser cache.</li>
+          <li className="margin-bottom-20 list-none">You need to clear the cache in your browser.</li>
       
           <li className="list-none margin-bottom-10">External block: [CLEARing the BROWser CACHE] - [non-finite clause as subject] of [copular intransitive verb] in the [3rd singular present BE form] "is" in the [main clause]. Essentially, it is a [gerund-participle clause] composed of the [gerund-participle form] "CLEARing" and its accompanying object.</li>
           
@@ -881,7 +881,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>EMPtying the TEMporary FOLDer is NECessary.</li>
-          <li className="margin-bottom-20 list-none">It is necessary to empty the temporary folder.</li>
+          <li className="margin-bottom-20 list-none">You need to empty the temporary folder.</li>
       
           <li className="list-none margin-bottom-10">New external block: [EMPtying the TEMporary FOLDer]- [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ một hành động tiếp diễn  [GERund-PARTiciple FORM] "EMPtying", kết hợp khối mở rộng mới.</li>
           
@@ -898,7 +898,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>we imPROVED the perFORmance by CLEARing OLD DAtabase LOGS.</li>
-          <li className="margin-bottom-20 list-none">Old database logs were cleared, which resulted in improved performance.</li>
+          <li className="margin-bottom-20 list-none">We made the performance better by removing old database logs.</li>
       
           <li className="list-none margin-bottom-10">External block: [the performance]—[NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "improved" in the [MAIN CLAUSE].</li>
           
@@ -912,7 +912,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>we imPROVED the perFORmance be<strong>cause</strong> the SYStem CLEARED all JUNK DAta.</li>
-          <li className="margin-bottom-20 list-none">The performance was improved because all junk data was cleared from the system.</li>
+          <li className="margin-bottom-20 list-none">We made the performance better because the system deleted all the unnecessary data.</li>
       
           <li className="list-none margin-bottom-10">External block: [the performance]—[NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "improved" in the [MAIN CLAUSE].</li>
           
@@ -928,7 +928,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>i LIKE an appliCAtion which CLEARS STORage SMOOTHly.</li>
-          <li className="margin-bottom-20 list-none">I prefer an application that allows for smooth and efficient storage management.</li>
+          <li className="margin-bottom-20 list-none">I like an app that clears storage in a smooth way.</li>
       
           <li className="list-none margin-bottom-10">External block: [an appliCAtion which CLEARS STORage SMOOTHly] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "LIKE" trong [MAIN CLAUSE].</li>
          
@@ -942,7 +942,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>i LIKE a CLEAR SYStem LAYout.</li>
-          <li className="margin-bottom-20 list-none">I prefer a system layout that is straightforward and easy to understand.</li>
+          <li className="margin-bottom-20 list-none">I prefer a system with a clear layout.</li>
       
           <li className="list-none margin-bottom-10">New external block: [a CLEAR SYSTEM LAYOUT]—[NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PLAIN PRESENT FORM] "LIKE" in the [MAIN CLAUSE].</li>
           
@@ -958,7 +958,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>we STARTed the implemenTAtion <strong>af</strong>ter a CLEAR BRIEFing.</li>
-          <li className="margin-bottom-20 list-none">Clear briefing was given before the implementation was started.</li>
+          <li className="margin-bottom-20 list-none">We began the process after receiving clear instructions.</li>
       
           <li className="list-none margin-bottom-10"><strong>Parallel block</strong>: </li>
 
@@ -974,7 +974,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>we STARTed the implemenTAtion with a CLEAR BRIEFing.</li>
-          <li className="margin-bottom-20 list-none">The implementation process began with a comprehensive briefing.</li>
+          <li className="margin-bottom-20 list-none">We started the project with a meeting to explain what was needed.</li>
       
           <li className="list-none margin-bottom-10"><strong>New parallel block</strong>:</li>
 

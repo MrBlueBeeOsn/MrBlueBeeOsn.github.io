@@ -998,7 +998,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>reSPONDing PROMPTly to CLIent QUEries reQUIres proFESsional communiCAtion.</li>
-					<li className="margin-bottom-20 list-none">It is important to respond promptly to client queries. This requires professional communication.</li>
+					<li className="margin-bottom-20 list-none">It's important to respond to client queries quickly. This requires professional communication.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [reSPONDing PROMPTly to CLIent QUEries]—[non-FInite CLAUSE as SUBject] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "reQUIres" in the [MAIN CLAUSE], to handle a major task at the beginning of the sentence. Essentially, it is a [gerund-participle clause] composed of the [gerund-participle form] "reSPONDing" and its accompanying object.</li>
 					
@@ -1016,7 +1016,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>ANswering CUStomer reQUESTS efFICiently reQUIres proFESsional communiCAtion.</li>
-					<li className="margin-bottom-20 list-none">Responding efficiently to customer requests requires professional communication.</li>
+					<li className="margin-bottom-20 list-none">Answering customer requests requires effective communication from professionals.</li>
 			
 					<li className="list-none margin-bottom-10">New external block: [ANswering CUStomer reQUESTS efFiciently] - [non-FInite CLAUSE as SUBject] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "reQUIres" in the [MAIN CLAUSE]. Essentially, this is a [gerund-participle clause] composed of a continuous action in the [gerund-participle form] "answering" along with an expanded data sequence inserted in its place.</li>
 					
@@ -1034,7 +1034,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the COMpany imPROVED satisFACtion by reSPONDing QUICKly to supPORT TICKets.</li>
-					<li className="margin-bottom-20 list-none">The company improved satisfaction by responding quickly to support tickets, which was a positive change.</li>
+					<li className="margin-bottom-20 list-none">The company made customers happier by responding faster to their support tickets.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [satisFACtion]—[NOUN PHRASE as a COMPLEMENT] of [TRANsitive VERB] in the [PRETerite FORM] "imPROVED" in the [MAIN CLAUSE].</li>
 					
@@ -1054,7 +1054,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the COMpany imPROVED satisFACtion be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets.</li>
-					<li className="margin-bottom-20 list-none">The team's swift response to support tickets led to an improvement in satisfaction levels within the company.</li>
+					<li className="margin-bottom-20 list-none">The company's satisfaction levels increased because the team answered the support tickets quickly.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [satisFACtion]—[NOUN PHRASE as a COMPLEMENT] of [TRANsitive VERB] in the [PRETerite FORM] "imPROVED" in the [MAIN CLAUSE].</li>
 					
@@ -1068,7 +1068,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the FIRM HIred a SERvice which reSPONDS to SYStem ISsues autoMATically.</li>
-					<li className="margin-bottom-20 list-none">The firm hired a service that responds to system issues automatically.</li>
+					<li className="margin-bottom-20 list-none">The firm used a service that automatically responds to system issues.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [a service that responds to system issues automatically]—[a noun phrase as a complement] of [a transitive verb] in the [past tense] "hired" in the [main clause].</li>
 
@@ -1082,7 +1082,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the FIRM HIred a reSPONsive SERvice.</li>
-					<li className="margin-bottom-20 list-none">A responsive service was hired by the firm.</li>
+					<li className="margin-bottom-20 list-none">The firm hired a service that responds quickly.</li>
 			
 					<li className="list-none margin-bottom-10">New external block: [a responsive service]—[NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "Hired" in the [MAIN CLAUSE].</li>
 					
@@ -1098,7 +1098,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the SYStem reSTARTed for a FULL reSPONSE to the seCUrity PATCH.</li>
-					<li className="margin-bottom-20 list-none">The system restarted in order to provide a full response to the security patch.</li>
+					<li className="margin-bottom-20 list-none">The system started working normally to handle the security update.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [for a FULL reSPONSE to the seCUrity PATCH] - [prepoSITion PHRASE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "reSTARTed" in the [MAIN CLAUSE]. Beginning with the [TRANsitive prepoSITion] "for," which indicates the reason or context, it introduces the [noun phrase] that follows. It serves as a contextual modifier, providing the purpose for the action [past tense] "restarted."</li>
 					
@@ -1112,7 +1112,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the SYStem reSTARTed in reSPONSE to the seCUrity PATCH.</li>
-					<li className="margin-bottom-20 list-none">The system's restart was prompted by the implementation of the security patch.</li>
+					<li className="margin-bottom-20 list-none">The system started working again after the security update.</li>
 			
 					<li className="list-none margin-bottom-10">New external block: [in reSPONSE to the seCUrity PATCH] - [prepoSITion PHRASE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "reSTARTed" in the [MAIN CLAUSE]. Beginning with the [TRANsitive prepoSITion] "in," which is inserted to establish the overall causal context, it modifies the [past tense] action "reSTARTed."</li>
 					

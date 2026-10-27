@@ -996,7 +996,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>creAting HIGH-IMpact CONtent reQUIres proFESsional dediCAtion.</li>
-          <li className="margin-bottom-20 list-none">Creating high-impact content requires professional dedication, as it is an undertaking that demands a significant amount of commitment and effort.</li>
+          <li className="margin-bottom-20 list-none">Making content that has a big impact requires a lot of hard work.</li>
       
           <li className="list-none margin-bottom-10">External block: [creating HIGH-IMPACT CONTENT]—[non-finite clause as subject] of [transitive verb] in the [3rd singular present form] "requires" in the [main clause]—to handle a major task at the beginning of the sentence. Essentially, it is a [gerund-participle clause] composed of the [gerund-participle form] "creating" and the accompanying object "high-impact content."</li>
           
@@ -1010,7 +1010,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>deVELoping efFECtive proMOtional maTErial reQUIres proFESsional dediCAtion.</li>
-          <li className="margin-bottom-20 list-none">The development of effective promotional material is a professional undertaking that demands dedication.</li>
+          <li className="margin-bottom-20 list-none">Making effective promotional materials requires a lot of hard work.</li>
       
           <li className="list-none margin-bottom-10">New external block: [developing effective promotional material]—[non-finite clause as subject] of [transitive verb] in the [3rd singular present form] "requires" in the [main clause]. Essentially, this is a [gerund-participle clause] composed of a continuous action in the [gerund-participle form] "developing" along with an expanded data sequence inserted in its place.</li>
           
@@ -1024,7 +1024,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the COMpany BOOSted VALue by creAting uNIQUE PROducts.</li>
-          <li className="margin-bottom-20 list-none">The company's value was increased by the creation of unique products.</li>
+          <li className="margin-bottom-20 list-none">The company increased its value by creating products that were unlike any others.</li>
 
           <li className="list-none margin-bottom-10">External block: [VALUE] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "BOOSted" in the [MAIN CLAUSE].</li>
           
@@ -1038,7 +1038,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the COMpany BOOSted VALue be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts.</li>
-          <li className="margin-bottom-20 list-none">The company boosted value. This was because the developers created unique products.</li>
+          <li className="margin-bottom-20 list-none">The company's products were special and valuable because they were created by talented developers.</li>
 
           <li className="list-none margin-bottom-10">External block: [VALUE] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "BOOSted" in the [MAIN CLAUSE].</li>
           
@@ -1052,7 +1052,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the STUdio HIred a TEAM which creATES interACtive ART PROjects.</li>
-          <li className="margin-bottom-20 list-none">The studio hired a team to create interactive art projects.</li>
+          <li className="margin-bottom-20 list-none">The Studio hired a group of people who make art projects that you can interact with.</li>
       
           <li className="list-none margin-bottom-10">External block: [a TEAM which creATES interACtive ART PROjects] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
           
@@ -1066,7 +1066,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the STUdio HIred a creAtive TEAM.</li>
-          <li className="margin-bottom-20 list-none">The studio hired a team. The team was creative.</li>
+          <li className="margin-bottom-20 list-none">The studio brought on a creative team.</li>
       
           <li className="list-none margin-bottom-10">New external block: [a creative TEAM] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "Hired" in the [MAIN CLAUSE].</li>
           
@@ -1082,7 +1082,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the TEAM ALlocated TIME for the creAtion of the SYStem INterface.</li>
-          <li className="margin-bottom-20 list-none">The system interface's creation was prioritized by the team.</li>
+          <li className="margin-bottom-20 list-none">The team found time to develop the system interface.</li>
       
           <li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
@@ -1100,7 +1100,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the TEAM ALlocated TIME to creATE the SYStem INterface.</li>
-          <li className="margin-bottom-20 list-none">The team allocated time. They used that time to create the system interface.</li>
+          <li className="margin-bottom-20 list-none">The team took the time to develop the system interface.</li>
       
           <li className="list-none margin-bottom-10"><strong>New parallel block</strong>:</li>
 
