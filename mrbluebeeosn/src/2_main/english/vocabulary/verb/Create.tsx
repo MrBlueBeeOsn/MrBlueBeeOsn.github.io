@@ -597,7 +597,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>creAting a NEW VIsual iDENtity, the BRAND LAUNCHED its camPAIGN.</li>
-          <li className="margin-bottom-20 list-none">[Tạo ra một hình ảnh thương hiệu mới], thương hiệu đã khởi động chiến dịch của mình.</li>
+          <li className="margin-bottom-20 list-none">The brand started a new advertising campaign to create a new visual identity.</li>
       
           <li className="list-none margin-bottom-10">External block: [creAting a NEW VIsual iDENtity]—[non-FInite CLAUSE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "LAUNCHED" within the [MAIN CLAUSE], serving as an overarching causal/modal context block that modifies the entire main [CLAUSE]. Essentially, it is a [gerund-participle clause] standing independently at the beginning of the sentence, separated by a comma, featuring the [gerund-participle form] "creating" combined with a [noun phrase] "a new visual identity."</li>
           
@@ -613,7 +613,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the Agency ALlocated REsources creAting CUStom SOFTware TOOLS.</li>
-          <li className="margin-bottom-20 list-none">Cơ quan này đã phân bổ [nguồn lực để phát triển các công cụ phần mềm tùy chỉnh].</li>
+          <li className="margin-bottom-20 list-none">The agency's primary function is the creation of custom software tools.</li>
       
           <li className="list-none margin-bottom-10">External block: [Resources for creating custom software tools]—[noun phrase as a complement] of [transitive verb] in the [past tense form] "allocated" in the [main clause].</li>
           
@@ -629,7 +629,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>to creATE HIGH-QUAlity PROducts, the TEAM upGRAded their maCHINES.</li>
-          <li className="margin-bottom-20 list-none">[Để tạo ra các sản phẩm chất lượng cao], đội ngũ đã nâng cấp các máy móc của mình.</li>
+          <li className="margin-bottom-20 list-none">The team upgraded their machines to create high-quality products.</li>
       
           <li className="list-none margin-bottom-10">External block: [to create high-quality products]—[non-finite clause as an adjunct] of [transitive verb] in the [preterite form] "upgraded" within the [main clause]—serves as a purpose-oriented contextual block, providing context for the entire sequence that follows. Essentially, it is a [to-infinitive clause] formed by the [infinitive marker] "to" combined with the [verb phrase] "create ...". The entire structure is moved to the beginning of the sentence as a separate unit and separated by a comma.</li>
           
@@ -645,7 +645,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the deSIGNer STAYED LATE to creATE the FInal PROtotype.</li>
-          <li className="margin-bottom-20 list-none">Nhà thiết kế đã ở lại [muộn để hoàn thiện mẫu thử nghiệm cuối cùng].</li>
+          <li className="margin-bottom-20 list-none">The final prototype's creation was delayed by the designer.</li>
       
           <li className="list-none margin-bottom-10">External block: [LATE to creATE the FInal PROtotype]—[ADverb PHRASE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "STAYED" in the [MAIN CLAUSE], serving as a purpose-based contextual block that directly modifies the action.</li>
           
@@ -664,7 +664,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the deLAY in the creAtion of the NEW PORtal RAISED SEVeral conCERNS.</li>
-          <li className="margin-bottom-20 list-none">[Sự chậm trễ trong việc xây dựng cổng thông tin mới] đã gây ra một số lo ngại.</li>
+          <li className="margin-bottom-20 list-none">The delay in creating the new portal gave rise to several concerns.</li>
       
           <li className="list-none margin-bottom-10">External block: [the delay in the creation of the new portal]—[NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "RAISED" in the [MAIN CLAUSE], which heads the sentence and carries the semantic weight.</li>
           
@@ -684,7 +684,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>for the creAtion of BETter SERvices, the FIRM inVESTment inCREASED.</li>
-          <li className="margin-bottom-20 list-none">[Để tạo ra các dịch vụ tốt hơn], công ty đã tăng cường đầu tư.</li>
+          <li className="margin-bottom-20 list-none">The firm invested more money to create better services.</li>
       
           <li className="list-none margin-bottom-10">External block: [for the creation of BETTER SERVICES]—[prepositional phrase as an adjunct] of [intransitive verb] in the [past tense] "increased" in the [main clause] serves to establish the causal/instrumental context block, beginning with the [transitive preposition] "for" followed by the [noun phrase as a complement] "the creation..." afterward. The entire block is moved to the beginning of the sentence as a standalone unit and separated by a comma.</li>
           
@@ -700,7 +700,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the TEAM GAthered for the creAtion of a NEW PROject PLAN.</li>
-          <li className="margin-bottom-20 list-none">Đội ngũ đã tập hợp lại [để xây dựng một kế hoạch dự án mới].</li>
+          <li className="margin-bottom-20 list-none">A new project plan was created by a team that got together for that purpose.</li>
       
           <li className="list-none margin-bottom-10">External block: [for the creation of a NEW PROJECT PLAN] - [prepositional phrase as an adjunct] of [intransitive verb] in the [past tense form] "gathered" in the [main clause], serving as a purpose/reason clause, introduced by the [transitive preposition] "for".</li>
           
@@ -723,7 +723,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>HOW the ARtist creATES uNIQUE SCULPtures FAScinates the AUdience.</li>
-          <li className="margin-bottom-20 list-none">[Cách nghệ sĩ tạo ra những tác phẩm điêu khắc độc đáo] khiến khán giả say mê.</li>
+          <li className="margin-bottom-20 list-none">The audience is fascinated by the artist's unique approach to creating sculptures.</li>
       
           <li className="list-none margin-bottom-10">External block: [HOW the ARTIST CREATES UNIQUE SCULPTURES] - [FINITE CLAUSE as SUBJECT] of [TRANSITIVE VERB] in the [3RD SINGULAR PRESENT FORM] "FASCINATES" in the [MAIN CLAUSE]. Essentially, it is an [open interrogative content clause] containing the [adverb] "HOW" at the beginning, with the [noun as head] "ARTIST" and the action phrase [finite clause] "CREATES ..." following it.</li>
           
@@ -740,7 +740,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the diRECtor exPLAINED HOW the TEAM creATES efFECtive adVERtisements.</li>
-          <li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ tạo ra những quảng cáo hiệu quả].</li>
+          <li className="margin-bottom-20 list-none">The team's effective advertisements were explained by the diRECtor.</li>
       
           <li className="list-none margin-bottom-10">External block: [HOW the TEAM CREATES effective advertisements]—[FINITE CLAUSE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "EXPLAINED" in the [MAIN CLAUSE]. Essentially, it is an [open interrogative content clause] containing the [adverb] "HOW" at the beginning, with [NOUN as HEAD] "TEAM" and the action phrase [finite clause] "creates ..." following it.</li>
           
@@ -756,7 +756,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the ENgine which creATES SOlar ENergy was REcently inSTALLED.</li>
-          <li className="margin-bottom-20 list-none">[Cỗ máy tạo ra năng lượng mặt trời] vừa được lắp đặt.</li>
+          <li className="margin-bottom-20 list-none">The installation of the engine that generates solar energy was recently completed.</li>
       
           <li className="list-none margin-bottom-10">External block: [the engine that generates solar energy]—[NOUN PHRASE as SUBJECT] of [COPULAR INTRANSITIVE VERB] in the [3RD SINGULAR PRESENT BE FORM] "was" in the [MAIN CLAUSE].</li>
           
@@ -772,7 +772,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the VENture sucCEEded be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion.</li>
-          <li className="margin-bottom-20 list-none">Dự án đã thành công [bởi vì người sáng lập đã vạch ra một tầm nhìn rõ ràng].</li>
+          <li className="margin-bottom-20 list-none">The venture succeeded because the founder created a clear vision, which is essential for the success of any business.</li>
       
           <li className="list-none margin-bottom-10">External block: [because the FOUNder creAted a CLEAR VIsion]—[prepoSITion PHRASE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "sucCEEded" in the [MAIN CLAUSE]. Beginning with the [transitive preposition] "because," which serves as the cause, containing [NOUN as HEAD] "FOUNder" and the action phrase [FINITE CLAUSE] "creAted ..." marked by the past tense, establishing a context module to modify the preceding main clause [MAIN CLAUSE] "the VENture sucCEEded."</li>
           

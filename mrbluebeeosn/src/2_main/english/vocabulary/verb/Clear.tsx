@@ -540,7 +540,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>they RAN the SOFTware to CLEAR CACHE FILES.</li>
-          <li className="margin-bottom-20 list-none">Họ đã chạy [phần mềm để xóa các tập tin bộ nhớ đệm].</li>
+          <li className="margin-bottom-20 list-none">They used software to remove temporary internet files from the computer.</li>
       
           <li className="list-none margin-bottom-10">External block: [the SOFTware to CLEAR CACHE FILES] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "RAN" in the [MAIN CLAUSE].</li>
           
@@ -555,7 +555,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>to CLEAR the misunderSTANDing, she SENT an Email.</li>
-          <li className="margin-bottom-20 list-none">[Để làm rõ sự hiểu lầm], cô ấy đã gửi một email.</li>
+          <li className="margin-bottom-20 list-none">To make things clear, she sent an email.</li>
       
           <li className="list-none margin-bottom-10">External block: [to CLEAR the misunderSTANDing], - [non-finite CLAUSE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "SENT" within the [MAIN CLAUSE], serves as a contextual block intended to emphasize the entire main body of information that follows. Essentially, it is a [to-infinitive clause] beginning with the [infinitive marker] "to" combined with a [verb phrase] "clear the misunderstanding," which is moved to the beginning of the sentence and separated by a comma.</li>
           
@@ -571,7 +571,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the MANager SPENT HOURS CLEARing OLD User PROfiles.</li>
-          <li className="margin-bottom-20 list-none">Người quản lý đã dành [số giờ để xóa các hồ sơ người dùng cũ].</li>
+          <li className="margin-bottom-20 list-none">The manager spent hours removing old user profiles.</li>
       
           <li className="list-none margin-bottom-10">External block: [HOURS CLEARING OLD User PROFILES] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE FORM] "SPENT" in the [MAIN CLAUSE].</li>
           
@@ -587,7 +587,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>CLEARing the WORKspace EARly, he LEFT the OFFice with PEACE of MIND.</li>
-          <li className="margin-bottom-20 list-none">[Dọn dẹp không gian làm việc từ sớm], anh ấy rời văn phòng với tâm trạng thoải mái.</li>
+          <li className="margin-bottom-20 list-none">He was able to clear the workspace early and leave the office without worrying.</li>
       
           <li className="list-none margin-bottom-10">External block:</li>
 
@@ -611,7 +611,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the reQUIrement for a CLEAR STRATegy is URgent.</li>
-          <li className="margin-bottom-20 list-none">[Yêu cầu về một chiến lược rõ ràng] là vô cùng cấp bách.</li>
+          <li className="margin-bottom-20 list-none">We really need a clear strategy as soon as possible.</li>
       
           <li className="list-none margin-bottom-10">External block: [the requirement for a clear strategy]—[NOUN PHRASE as SUBJECT] of [COPULAR INTRANSITIVE VERB] in the [3RD SINGULAR PRESENT BE FORM] "is" in the [MAIN CLAUSE].</li>
           
@@ -627,7 +627,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>they MADE the deCISion <strong>af</strong>ter a CLEAR explaNAtion.</li>
-          <li className="margin-bottom-20 list-none">Họ đã ra [quyết định] [sau khi được giải thích rõ ràng].</li>
+          <li className="margin-bottom-20 list-none">They made the decision only after receiving a thorough explanation.</li>
       
           <li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
@@ -645,7 +645,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>with a CLEAR GOAL, she QUICKly FINished the rePORT.</li>
-          <li className="margin-bottom-20 list-none">[Với một mục tiêu rõ ràng], cô ấy đã nhanh chóng hoàn thành bản báo cáo.</li>
+          <li className="margin-bottom-20 list-none">She had a clear goal, so she quickly finished the report.</li>
       
           <li className="list-none margin-bottom-10">External block: [with a CLEAR GOAL] - [prepositional phrase as an adjunct] of [transitive verb] in [past tense form] "FINished" in [main clause], serving to establish an overarching contextual framework that modifies the entire main information block that follows, bringing along the noun phrase following "a CLEAR GOAL." The entire block is moved to the beginning of the sentence and separated by a comma.</li>
           
@@ -669,7 +669,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>HOW you CLEAR these SYStem LOGS is confidential.</li>
-          <li className="margin-bottom-20 list-none">[Cách xóa các nhật ký hệ thống này] là thông tin bí mật.</li>
+          <li className="margin-bottom-20 list-none">The process for clearing system logs is confidential.</li>
       
           <li className="list-none margin-bottom-10">External block: [HOW you CLEAR these SYStem LOGS]—[FInite CLAUSE as SUBject] of [COPular inTRANsitive VERB] in the [3RD SINGular PRESent BE FORM] "is" serves as the main driver of the state action. Essentially, it is an [Open interrogative content clause] containing a visual linking element at the beginning, with [pronoun as head] "you" and the action phrase [finite clause] "CLEAR ..." following it.</li>
           
@@ -685,7 +685,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the engiNEER who CLEARED the ERror CODES FIXED the SERver.</li>
-          <li className="margin-bottom-20 list-none">[Kỹ sư đã xóa các mã lỗi] đã khắc phục sự cố máy chủ.</li>
+          <li className="margin-bottom-20 list-none">The engineer who figured out the error codes fixed the server.</li>
       
           <li className="list-none margin-bottom-10">External block: [the engineer who cleared the error codes]—[NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "FIXED" in the [MAIN CLAUSE]—serves as the core subject of the sentence.</li>
           
@@ -701,7 +701,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the TEAM CELebrated be<strong>cause</strong> the LEADer CLEARED the PROject BUDget.</li>
-          <li className="margin-bottom-20 list-none">Đội đã tổ chức ăn mừng [vì người lãnh đạo đã hoàn thành ngân sách dự án].</li>
+          <li className="margin-bottom-20 list-none">The team was happy because the leader had finished the project within the set budget.</li>
       
           <li className="list-none margin-bottom-10">External block: [because the LEADer CLEARED the PROject BUDget]—[prepoSITion PHRASE as an ADjunct] of [inTRANsitive VERB] in "CELebrated" within [MAIN CLAUSE]. Begins with the [TRANsitive prepoSITion] "because," which serves as the cause, containing [NOUN as HEAD] "LEADer" and the action phrase [FINITE CLAUSE] "CLEARED ..." marked by the past tense, establishing a context module to modify the preceding main clause [MAIN CLAUSE] "the VENTURE succeeded."</li>
           
