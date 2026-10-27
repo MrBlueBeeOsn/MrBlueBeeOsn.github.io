@@ -392,7 +392,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>ever</strong>y CUStomer SERvice dePARTment reQUIres a reSPONsive TEAM.</li>
-					<li className="margin-bottom-20 list-none">Each customer service department needs a team that can respond quickly.</li>
+					<li className="margin-bottom-20 list-none">Each Customer Service department needs a team that is able to respond quickly.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [a reSPONsive TEAM] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "reQUIres" in the [MAIN CLAUSE].</li>
 
@@ -408,7 +408,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the SYStem SOLVED the QUEry reSPONsively during the TEST.</li>
-					<li className="margin-bottom-20 list-none">The system was able to solve the query quickly and without a hitch during the test.</li>
+					<li className="margin-bottom-20 list-none">The system answered the query quickly during the test.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
@@ -579,7 +579,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>they NEED a SYStem reSPONsive to MARket CHAnges.</li>
-					<li className="margin-bottom-20 list-none">The system needs to change in response to market changes.</li>
+					<li className="margin-bottom-20 list-none">They need a system that can adapt to changes in the market.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [a system responsive to market changes] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PLAIN PRESENT FORM] "NEED" in the [MAIN CLAUSE].</li>
 					
@@ -597,7 +597,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>reSPONDing to REcent conSUmer TRENDS, the COMpany LAUNCHED NEW FEAtures.</li>
-					<li className="margin-bottom-20 list-none">The company recently introduced new features in response to recent consumer trends.</li>
+					<li className="margin-bottom-20 list-none">The company added new features in response to recent consumer trends.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [reSPONDing to REcent conSUmer TRENDS]—[non-FInite CLAUSE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "LAUNCHED" within the [MAIN CLAUSE]—serves as a contextual block providing the overall cause or manner, modifying the entire main [CLAUSE]. Essentially, it is a [gerund-participle clause] standing independently at the beginning of the sentence, separated by a comma, in the [gerund-participle form] "reSPONDing" combined with a [prepositional phrase as a complement] of "reSPONDing."</li>
 					
@@ -613,7 +613,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the COMpany ALlocated FUNDS reSPONDing to URgent MARket RISKS.</li>
-					<li className="margin-bottom-20 list-none">The company's approach to combating market risks involves allocating funds in response to urgent market conditions.</li>
+					<li className="margin-bottom-20 list-none">The company is ready to deal with problems in the market that require immediate attention.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [FUNDS reSPONDing to URgent MARket RISKS] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PRETerite FORM] "ALlocated" in the [MAIN CLAUSE].</li>
 					
@@ -629,7 +629,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>to reSPOND efFECTively to CUStomer deMANDS, the STAFF exTENDed WORKing HOURS.</li>
-					<li className="margin-bottom-20 list-none">The staff extended their working hours. This was done to respond effectively to customer demands.</li>
+					<li className="margin-bottom-20 list-none">The staff worked longer hours to better meet customer needs.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [to reSPOND efFECTively to CUStomer deMANDS]—[non-FInite CLAUSE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "exTENDed" within the [MAIN CLAUSE], serving as a purpose-oriented contextual block that modifies the entire sequence that follows. Essentially, it is a [to-infinitive clause] formed by the [infinitive marker] "to" combined with the [verb phrase] "respond ...". The entire block is moved to the beginning of the sentence as a separate unit and separated by a comma.</li>
 					
@@ -649,7 +649,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the techNICian arRIVED to reSPOND to the NETwork aLERT.</li>
-					<li className="margin-bottom-20 list-none">The network alert was addressed by the technician.</li>
+					<li className="margin-bottom-20 list-none">The technician arrived at the scene to deal with the alert on the network.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [to reSPOND to the NETwork aLERT]—[non-FInite CLAUSE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "arRIVED" in the [MAIN CLAUSE], functioning as a purpose-oriented contextual block. Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "respond ...," which functions as an expanded complement at the end of the information chain.</li>
 					
@@ -668,7 +668,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the deLAY in the reSPONSE to the ofFIcial STATEment CAUSED PUBlic conCERNS.</li>
-					<li className="margin-bottom-20 list-none">The delay in responding to the official statement caused public concern.</li>
+					<li className="margin-bottom-20 list-none">People were worried because they were waiting too long to respond to the official statement.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [the delay in the response to the official statement]—[NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "CAUSED" in [MAIN CLAUSE].</li>
 					
@@ -688,7 +688,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>in reSPONSE to NEW seCUrity reguLAtions, the SYStem upDAted autoMATically.</li>
-					<li className="margin-bottom-20 list-none">The system underwent an automatic update in response to the new security regulations.</li>
+					<li className="margin-bottom-20 list-none">The system automatically updated because of new security regulations.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [in response to new security regulations] - [prepositional phrase as an adjunct] of [intransitive verb] in the [past tense] "upDAted" in the [MAIN CLAUSE], serves to establish the causal/instrumental context block, beginning with the [TRANsitive prepoSITion] "in" followed by the [NOUN PHRASE as a COMplement] "reSPONSE..." afterward. The entire block is moved to the beginning of the sentence and separated by a comma.</li>
 					
@@ -704,7 +704,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the TEAM GATHered for a QUICK reSPONSE to the INcident.</li>
-					<li className="margin-bottom-20 list-none">A quick response to the incident was organized by the team.</li>
+					<li className="margin-bottom-20 list-none">The team met to discuss what happened.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [for a QUICK response to the incident] - [prepositional phrase as an adjunct] of [intransitive verb] in the [past tense form] "gathered" in the [main clause], functioning as a purpose/cause clause, introduced by the [transitive preposition] "for".</li>
 					
@@ -727,7 +727,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>HOW the SYStem reSPONDS to seCUrity THREATS deTERmines its reliaBILity.</li>
-					<li className="margin-bottom-20 list-none">The reliability of a system is determined by how it responds to security threats.</li>
+					<li className="margin-bottom-20 list-none">The system's ability to respond to security threats is key to its reliability.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [HOW the SYSTEM RESPONDS to SECURITY THREATS] - [FINITE CLAUSE as SUBJECT] of [TRANSITIVE VERB] in the [3RD SINGULAR PRESENT FORM] "dETERMINES" in the [MAIN CLAUSE]. Essentially, it is an [open interrogative content clause] containing the [adverb] "HOW" at the beginning, with the [noun as head] "SYSTEM" and the action phrase [finite clause] "responds..." following it.</li>
 					
@@ -743,7 +743,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the diRECtor exPLAINED HOW the TEAM reSPONDS to URgent inQUIRies.</li>
-					<li className="margin-bottom-20 list-none">The director clarified the team's approach to handling urgent inquiries.</li>
+					<li className="margin-bottom-20 list-none">The director explained how the team reacts to important questions.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [HOW the TEAM responds to urgent inquiries] - [finite clause as a complement] of [transitive verb] in the [past tense form] "explained" in the [main clause]. Essentially, it is an [open interrogative content clause] containing the [adverb] "HOW" at the beginning, with [NOUN as HEAD] "TEAM" and the action phrase [finite clause] "responds..." following it.</li>
 					
@@ -759,7 +759,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the SERver which reSPONDS to USer reQUESTS was REcently upGRADed.</li>
-					<li className="margin-bottom-20 list-none">The server that responds to user requests was recently upgraded.</li>
+					<li className="margin-bottom-20 list-none">The server that responds to user requests has been upgraded.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [the server that responds to user requests]—[NOUN PHRASE as SUBJECT] of [COPULAR INTRANSITIVE VERB] in the [PAST TENSE] "was" in the [MAIN CLAUSE].</li>
 					

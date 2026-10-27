@@ -370,7 +370,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the arTIStic creAtion from the LOcal deSIGNer imPRESSED the AUdience.</li>
-          <li className="margin-bottom-20 list-none">The audience was impressed by the art created by the designer who is from the local area.</li>
+          <li className="margin-bottom-20 list-none">The audience was impressed by the artistic creation of the local designer.</li>
           
           <li className="list-none margin-bottom-10">External block: [the arTIStic creAtion from the LOcal deSIGNer] - [NOUN PHRASE as SUBject] of [TRANsitive VERB] in the [PRETerite FORM] "imPRESSED" in the [MAIN CLAUSE], serving as the identifying element at the beginning of the sentence.</li>
           
@@ -390,7 +390,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIres a creAtive TEAM.</li>
-          <li className="margin-bottom-20 list-none">Every product design department needs a team of creative people.</li>
+          <li className="margin-bottom-20 list-none">Every company that designs products for a living needs a creative team.</li>
       
           <li className="list-none margin-bottom-10">External block: [a creAtive TEAM] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "reQUIres" in the [MAIN CLAUSE].</li>
           
@@ -406,7 +406,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the ARtist SOLVED the PROBlem creAtively during the PROject.</li>
-          <li className="margin-bottom-20 list-none">The artist solved the problem in a smart way during the project.</li>
+          <li className="margin-bottom-20 list-none">The artist used creative thinking to solve the problem while working on the project.</li>
 
           <li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
@@ -613,7 +613,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the Agency ALlocated REsources creAting CUStom SOFTware TOOLS.</li>
-          <li className="margin-bottom-20 list-none">The agency's primary function is the creation of custom software tools.</li>
+          <li className="margin-bottom-20 list-none">The agency found ways to create custom software tools.</li>
       
           <li className="list-none margin-bottom-10">External block: [Resources for creating custom software tools]—[noun phrase as a complement] of [transitive verb] in the [past tense form] "allocated" in the [main clause].</li>
           
@@ -629,7 +629,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>to creATE HIGH-QUAlity PROducts, the TEAM upGRAded their maCHINES.</li>
-          <li className="margin-bottom-20 list-none">The team upgraded their machines to create high-quality products.</li>
+          <li className="margin-bottom-20 list-none">To make better products, the team improved their machines.</li>
       
           <li className="list-none margin-bottom-10">External block: [to create high-quality products]—[non-finite clause as an adjunct] of [transitive verb] in the [preterite form] "upgraded" within the [main clause]—serves as a purpose-oriented contextual block, providing context for the entire sequence that follows. Essentially, it is a [to-infinitive clause] formed by the [infinitive marker] "to" combined with the [verb phrase] "create ...". The entire structure is moved to the beginning of the sentence as a separate unit and separated by a comma.</li>
           
@@ -645,7 +645,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the deSIGNer STAYED LATE to creATE the FInal PROtotype.</li>
-          <li className="margin-bottom-20 list-none">The final prototype's creation was delayed by the designer.</li>
+          <li className="margin-bottom-20 list-none">The designer stayed late at work to finish the final prototype.</li>
       
           <li className="list-none margin-bottom-10">External block: [LATE to creATE the FInal PROtotype]—[ADverb PHRASE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "STAYED" in the [MAIN CLAUSE], serving as a purpose-based contextual block that directly modifies the action.</li>
           
@@ -664,7 +664,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the deLAY in the creAtion of the NEW PORtal RAISED SEVeral conCERNS.</li>
-          <li className="margin-bottom-20 list-none">The delay in creating the new portal gave rise to several concerns.</li>
+          <li className="margin-bottom-20 list-none">There were several problems because it took so long to create the new portal.</li>
       
           <li className="list-none margin-bottom-10">External block: [the delay in the creation of the new portal]—[NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "RAISED" in the [MAIN CLAUSE], which heads the sentence and carries the semantic weight.</li>
           
@@ -684,7 +684,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>for the creAtion of BETter SERvices, the FIRM inVESTment inCREASED.</li>
-          <li className="margin-bottom-20 list-none">The firm invested more money to create better services.</li>
+          <li className="margin-bottom-20 list-none">The company put more money into its services to create better ones.</li>
       
           <li className="list-none margin-bottom-10">External block: [for the creation of BETTER SERVICES]—[prepositional phrase as an adjunct] of [intransitive verb] in the [past tense] "increased" in the [main clause] serves to establish the causal/instrumental context block, beginning with the [transitive preposition] "for" followed by the [noun phrase as a complement] "the creation..." afterward. The entire block is moved to the beginning of the sentence as a standalone unit and separated by a comma.</li>
           
@@ -700,7 +700,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the TEAM GAthered for the creAtion of a NEW PROject PLAN.</li>
-          <li className="margin-bottom-20 list-none">A new project plan was created by a team that got together for that purpose.</li>
+          <li className="margin-bottom-20 list-none">The team got together to make a new plan for a project.</li>
       
           <li className="list-none margin-bottom-10">External block: [for the creation of a NEW PROJECT PLAN] - [prepositional phrase as an adjunct] of [intransitive verb] in the [past tense form] "gathered" in the [main clause], serving as a purpose/reason clause, introduced by the [transitive preposition] "for".</li>
           
@@ -723,7 +723,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>HOW the ARtist creATES uNIQUE SCULPtures FAScinates the AUdience.</li>
-          <li className="margin-bottom-20 list-none">The audience is fascinated by the artist's unique approach to creating sculptures.</li>
+          <li className="margin-bottom-20 list-none">People are fascinated by how artists create unique sculptures.</li>
       
           <li className="list-none margin-bottom-10">External block: [HOW the ARTIST CREATES UNIQUE SCULPTURES] - [FINITE CLAUSE as SUBJECT] of [TRANSITIVE VERB] in the [3RD SINGULAR PRESENT FORM] "FASCINATES" in the [MAIN CLAUSE]. Essentially, it is an [open interrogative content clause] containing the [adverb] "HOW" at the beginning, with the [noun as head] "ARTIST" and the action phrase [finite clause] "CREATES ..." following it.</li>
           
@@ -740,7 +740,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the diRECtor exPLAINED HOW the TEAM creATES efFECtive adVERtisements.</li>
-          <li className="margin-bottom-20 list-none">The team's effective advertisements were explained by the diRECtor.</li>
+          <li className="margin-bottom-20 list-none">The director explained how his team creates effective advertisements.</li>
       
           <li className="list-none margin-bottom-10">External block: [HOW the TEAM CREATES effective advertisements]—[FINITE CLAUSE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE] "EXPLAINED" in the [MAIN CLAUSE]. Essentially, it is an [open interrogative content clause] containing the [adverb] "HOW" at the beginning, with [NOUN as HEAD] "TEAM" and the action phrase [finite clause] "creates ..." following it.</li>
           
@@ -756,7 +756,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the ENgine which creATES SOlar ENergy was REcently inSTALLED.</li>
-          <li className="margin-bottom-20 list-none">The installation of the engine that generates solar energy was recently completed.</li>
+          <li className="margin-bottom-20 list-none">The engine that makes solar energy was recently installed.</li>
       
           <li className="list-none margin-bottom-10">External block: [the engine that generates solar energy]—[NOUN PHRASE as SUBJECT] of [COPULAR INTRANSITIVE VERB] in the [3RD SINGULAR PRESENT BE FORM] "was" in the [MAIN CLAUSE].</li>
           
