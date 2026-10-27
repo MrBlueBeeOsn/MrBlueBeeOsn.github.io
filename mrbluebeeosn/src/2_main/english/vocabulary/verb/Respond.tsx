@@ -774,7 +774,7 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 					<li>the camPAIGN sucCEEDed be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges.</li>
-					<li className="margin-bottom-20 list-none">The campaign's success can be attributed to the team's ability to adapt and respond effectively to shifts in the market.</li>
+					<li className="margin-bottom-20 list-none">The campaign was a success because the team was able to adapt to changes in the market.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [because the TEAM reSPONDed to MARket CHAnges]—[prepoSITion PHRASE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "sucCEEDed" in the [MAIN CLAUSE]. Beginning with the [transitive preposition] "because," which serves as the cause, containing [NOUN as HEAD] "TEAM" and the action phrase [FINITE CLAUSE] "responded ..." marked by the past tense, establishing a contextual module to modify the preceding main clause [MAIN CLAUSE] "the campaign succeeded."</li>
 					
@@ -793,7 +793,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>they beLIEVE the TEAM reSPONDed apPROpriately to the WARNing.</li>
-					<li className="margin-bottom-20 list-none">The team's response to the warning was deemed appropriate by them.</li>
+					<li className="margin-bottom-20 list-none">They believe that the team reacted the right way to the warning.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [the TEAM reSPONDed apPROpriately to the WARNing] - [FInite CLAUSE as a COMplement] of [inTRANsitive VERB] in the [PLAIN PRESent FORM] "beLIEVE" in the [MAIN CLAUSE]. Essentially, the [zero declarative content clause] has hidden the [subordinator] "that," leaving only the complete [noun as head] "TEAM" and the action phrase [finite clause] "responded..." following it.</li>
 					
@@ -809,7 +809,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the Email she reSPONDed to conTAINED CRUcial inforMAtion.</li>
-					<li className="margin-bottom-20 list-none">Crucial information was contained in the email to which she responded.</li>
+					<li className="margin-bottom-20 list-none">The email she replied to had important information.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [the email she replied to] - [NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "was CONTAINED" in [MAIN CLAUSE].</li>
 					
@@ -825,7 +825,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>should the SERver reSPOND SLOWly, reSTART the appliCAtion.</li>
-					<li className="margin-bottom-20 list-none">If the server responds slowly, restart the application.</li>
+					<li className="margin-bottom-20 list-none">If the server is slow, try restarting the application.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [should the SERver reSPOND SLOWly]—[FInite CLAUSE as an ADjunct] of [TRANsitive VERB] in [PLAIN FORM] "reSTART" within [MAIN CLAUSE], serving to establish a hypothetical/conditional context block and modifying the action and command that follow. Essentially, this is an [inverted clause] that operates in a hidden state as a conditional [subordinator] "if" by inverting the [preterite modal auxiliary verb] "should" to the front; although the surface structure changes, the essence remains fully intact [NOUN as HEAD] "SERver" and [FInite CLAUSE] "reSPOND SLOWly".</li>
 					
@@ -846,7 +846,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>reSPONDing efFECTively to WHAT CUStomers comPLAIN about imPROVES BRAND LOYalty.</li>
-					<li className="margin-bottom-20 list-none">Brand loyalty is improved by responding effectively to what customers complain about.</li>
+					<li className="margin-bottom-20 list-none">Listening to what customers complain about and doing something about it can make them more likely to continue buying your brand.</li>
 			
 				</ul>
 			
@@ -870,7 +870,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the MANager sugGESTed inVESTigating WHY the TEAM reSPONDed POORly to the FEEDback.</li>
-					<li className="margin-bottom-20 list-none">The manager suggested that an investigation be conducted into the reasons behind the team's subpar response to the feedback.</li>
+					<li className="margin-bottom-20 list-none">The manager suggested that we look into why the team didn't respond well to the feedback.</li>
 			
 				</ul>
 			
@@ -890,7 +890,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures reQUIres RIGorous TESting.</li>
-					<li className="margin-bottom-20 list-none">Rigorous testing is necessary to understand how the system responds to network failures.</li>
+					<li className="margin-bottom-20 list-none">To understand how the system responds to network failures, you need to do some serious testing.</li>
 			
 				</ul>
 			
@@ -910,7 +910,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the COMpany PLANS to ANalyze HOW USers reSPOND to NEW INterface deSIGNS.</li>
-					<li className="margin-bottom-20 list-none">The company has a plan to study how users react to new interface designs.</li>
+					<li className="margin-bottom-20 list-none">The company is going to see how people react to new designs for the user interface.</li>
 			
 				</ul>
 			
@@ -930,7 +930,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>it reQUIres experTISE to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic.</li>
-					<li className="margin-bottom-20 list-none">Evaluating how the application responds to high traffic requires expertise.</li>
+					<li className="margin-bottom-20 list-none">It takes special knowledge to figure out how the application responds to a lot of traffic.</li>
 			
 				</ul>
 			
@@ -950,7 +950,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the BOARD reVIEWED rePORTS re<strong>gard</strong>ing HOW the organiZAtion reSPONDS to MARket CRIses.</li>
-					<li className="margin-bottom-20 list-none">Reports regarding how the organization responds to market crises were reviewed by the board.</li>
+					<li className="margin-bottom-20 list-none">The board looked at reports about how the organization reacts to market problems.</li>
 			
 				</ul>
 			
@@ -974,7 +974,7 @@ export default function reSPOND(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the deBATE FOcused on WHY the GOVernment reSPONDed SLOWly to the eMERgency.</li>
-					<li className="margin-bottom-20 list-none">The government's slow response to the emergency was the focus of the debate.</li>
+					<li className="margin-bottom-20 list-none">The debate was about why the government took so long to respond to the emergency.</li>
 			
 				</ul>
 			

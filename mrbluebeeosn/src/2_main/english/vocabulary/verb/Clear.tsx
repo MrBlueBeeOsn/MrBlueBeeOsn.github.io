@@ -701,7 +701,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the TEAM CELebrated be<strong>cause</strong> the LEADer CLEARED the PROject BUDget.</li>
-          <li className="margin-bottom-20 list-none">The team was happy because the leader had finished the project within the set budget.</li>
+          <li className="margin-bottom-20 list-none">The team was happy because the project leader had finished the budget.</li>
       
           <li className="list-none margin-bottom-10">External block: [because the LEADer CLEARED the PROject BUDget]—[prepoSITion PHRASE as an ADjunct] of [inTRANsitive VERB] in "CELebrated" within [MAIN CLAUSE]. Begins with the [TRANsitive prepoSITion] "because," which serves as the cause, containing [NOUN as HEAD] "LEADer" and the action phrase [FINITE CLAUSE] "CLEARED ..." marked by the past tense, establishing a context module to modify the preceding main clause [MAIN CLAUSE] "the VENTURE succeeded."</li>
           
@@ -720,7 +720,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>i beLIEVE you CLEARED the STORage SPACE.</li>
-          <li className="margin-bottom-20 list-none">Clearing the storage space is something I believe you did.</li>
+          <li className="margin-bottom-20 list-none">I think you deleted the files from the storage space.</li>
       
           <li className="list-none margin-bottom-10">External block: [you CLEARED the STORage SPACE] - [FInite CLAUSE as a COMplement] of [inTRANsitive VERB] in the [PLAIN PRESent FORM] "beLIEVE" in the [MAIN CLAUSE]. Essentially, the [zero declarative content clause] has hidden the "that"-oriented [subordinator], leaving only the [pronoun as head] "you" and the action phrase [finite clause] "CLEARED ..." that follows fully visible.</li>
           
@@ -736,7 +736,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the DESK the emPLOYee CLEARED LOOKED VERy NEAT.</li>
-          <li className="margin-bottom-20 list-none">The desk that the employee had cleared looked very neat.</li>
+          <li className="margin-bottom-20 list-none">The desk that the employee cleared looked very clean and organized.</li>
       
           <li className="list-none margin-bottom-10">External block: [the DESK the emPLOYee CLEARED] - [NOUN PHRASE as SUBJECT] of [inTRANsitive VERB] in the [PRETerite FORM] "LOOKED" in [MAIN CLAUSE].</li>
           
@@ -752,7 +752,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>should you CLEAR the PENDing TASKS toDAY, we will START the NEW PLAN.</li>
-          <li className="margin-bottom-20 list-none">If you clear the pending tasks today, we will start the new plan.</li>
+          <li className="margin-bottom-20 list-none">If you complete the tasks that are waiting for you, we can start the new plan.</li>
       
           <li className="list-none margin-bottom-10">External block: [should you CLEAR the PENDING TASKS TODAY]—[Finite CLAUSE as an ADjunct] of [TRANsitive VERB] in [PLAIN FORM] "START" in [MAIN CLAUSE], serves to establish the hypothetical/conditional context block that modifies the entire main information section that follows. Essentially, this is an [inverted clause] that functions as a hidden [subordinator] for the conditional "if" by inverting the [preterite modal auxiliary verb] "should" to the front. Although the surface structure is transformed, the core remains intact with [PRONOUN as HEAD] "you" and [FINITE CLAUSE] "CLEAR the PENDING TASKS TODAY".</li>
           
@@ -771,7 +771,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>ANalyzing HOW the PROgram CLEARS METadata is NECessary.</li>
-          <li className="margin-bottom-20 list-none">It is necessary to analyze how the program clears metadata.</li>
+          <li className="margin-bottom-20 list-none">We need to look at how the program clears metadata.</li>
       
         </ul>
       
@@ -791,7 +791,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>we recomMEND MONitoring WHY the DAtabase CLEARS SESsions.</li>
-          <li className="margin-bottom-20 list-none">It is our recommendation that the database clear sessions be monitored.</li>
+          <li className="margin-bottom-20 list-none">We suggest checking why the database is clearing sessions.</li>
       
         </ul>
       
@@ -811,7 +811,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
 
           <li>they have DOUBTS a<strong>bout</strong> HOW they CLEAR the seCUrity CHECK.</li>
-          <li className="margin-bottom-20 list-none">Concerns have been raised about the method used to clear the security check.</li>
+          <li className="margin-bottom-20 list-none">They are unsure how they will pass the security check.</li>
       
         </ul>
       
@@ -836,7 +836,7 @@ export default function CLEAR(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the OFFicer LOOKED diRECTly at where the TEAM CLEARED the LAND.</li>
-          <li className="margin-bottom-20 list-none">The officer looked directly at where the team cleared the land, and his gaze was focused on the area.</li>
+          <li className="margin-bottom-20 list-none">The officer looked directly at the spot where the team cleared the land.</li>
       
         </ul>
       

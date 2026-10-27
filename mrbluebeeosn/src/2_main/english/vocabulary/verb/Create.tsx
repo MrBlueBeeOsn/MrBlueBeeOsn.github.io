@@ -772,7 +772,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
 
           <li>the VENture sucCEEded be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion.</li>
-          <li className="margin-bottom-20 list-none">The venture succeeded because the founder created a clear vision, which is essential for the success of any business.</li>
+          <li className="margin-bottom-20 list-none">The venture was successful because the founder had a clear vision for it.</li>
       
           <li className="list-none margin-bottom-10">External block: [because the FOUNder creAted a CLEAR VIsion]—[prepoSITion PHRASE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "sucCEEded" in the [MAIN CLAUSE]. Beginning with the [transitive preposition] "because," which serves as the cause, containing [NOUN as HEAD] "FOUNder" and the action phrase [FINITE CLAUSE] "creAted ..." marked by the past tense, establishing a context module to modify the preceding main clause [MAIN CLAUSE] "the VENture sucCEEded."</li>
           
@@ -791,7 +791,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>they beLIEVE the Agency creAted a reLIable SYStem.</li>
-          <li className="margin-bottom-20 list-none">The agency's system is considered reliable by them.</li>
+          <li className="margin-bottom-20 list-none">They have faith in the agency's system, believing it is trustworthy.</li>
       
           <li className="list-none margin-bottom-10">External block: [the Agency created a reliable system]—[finite clause as a complement] of [intransitive verb] in the [plain present form] "believe" in the [main clause]. Essentially, the [zero declarative content clause] has hidden the [subordinator] "that," leaving only the complete [noun as head] "Agency" and the action phrase [finite clause] "created ..." following it.</li>
           
@@ -807,7 +807,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the deSIGN she creAted for the CLIent WON a presTIgious aWARD.</li>
-          <li className="margin-bottom-20 list-none">The design she created won an award. It was a prestigious one.</li>
+          <li className="margin-bottom-20 list-none">She designed something for the client that won an important award.</li>
       
           <li className="list-none margin-bottom-10">External block: [the design she created for the client]—[NOUN PHRASE as SUBJECT] of [TRANSITIVE VERB] in the [PAST TENSE] "WON" in [MAIN CLAUSE].</li>
           
@@ -823,7 +823,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>should the PROgram creATE TECHnical ERrors, aLERT the SYStem adMINistrator.</li>
-          <li className="margin-bottom-20 list-none">The system administrator should be alerted if the program creates technical errors.</li>
+          <li className="margin-bottom-20 list-none">If the program causes technical problems, let the system administrator know.</li>
       
           <li className="list-none margin-bottom-10">External block: [should the program create technical errors]—[finite clause as an adjunct] of [transitive verb] in [plain form] "alert" in [main clause], serving to establish a hypothetical/conditional context and modify the action and command that follow. Essentially, it is an [inverted clause] that operates in a hidden state as a [subordinator] for the conditional "if" by inverting the [preterite modal auxiliary verb] "should" to the front; although the surface structure changes, the essence remains fully intact [NOUN as HEAD] "PROgram" and [FInite CLAUSE] "creATE TECHnical ERrors".</li>
           
@@ -844,7 +844,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>creAting soLUtions for WHAT CLIents STRUGgle with BUILDS MARket VALue.</li>
-          <li className="margin-bottom-20 list-none">We build market value by creating solutions for the problems our clients face.</li>
+          <li className="margin-bottom-20 list-none">We solve problems for our clients. This helps us build a better market.</li>
       
         </ul>
       
@@ -868,7 +868,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the MANager sugGESted exPLORing WHY the TEAM creAted outDAted deSIGNS.</li>
-          <li className="margin-bottom-20 list-none">The manager proposed that the team investigate the reasons behind the production of designs that were not completed on schedule.</li>
+          <li className="margin-bottom-20 list-none">The manager said that the team should think about why they made designs that were late.</li>
       
         </ul>
       
@@ -888,7 +888,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>to underSTAND HOW the SYStem creATES AUtomated rePORTS reQUIres TECHnical SKILLS.</li>
-          <li className="margin-bottom-20 list-none">The generation of automated reports by the system is a process that requires technical expertise to comprehend.</li>
+          <li className="margin-bottom-20 list-none">You need technical skills to understand how the system creates automated reports.</li>
       
         </ul>
       
@@ -908,7 +908,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the FIRM PLANS to STUdy HOW Users creATE PERsonal PROfiles.</li>
-          <li className="margin-bottom-20 list-none">The firm plans to study something. The subject is how users create personal profiles.</li>
+          <li className="margin-bottom-20 list-none">The company is planning to study how people make personal profiles.</li>
       
         </ul>
       
@@ -928,7 +928,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>it TAKES experTISE to eVAluate HOW the appliCAtion creATES User LOGS.</li>
-          <li className="margin-bottom-20 list-none">The ability to assess how the application generates user logs requires expertise.</li>
+          <li className="margin-bottom-20 list-none">It takes knowledge to understand how the application creates user logs.</li>
       
         </ul>
       
@@ -948,7 +948,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the BOARD reVIEWED proPOsals re<strong>gard</strong>ing HOW the TEAM creATES NEW MARketing CHANnels.</li>
-          <li className="margin-bottom-20 list-none">The board reviewed proposals. These proposals were about how the team creates new marketing channels.</li>
+          <li className="margin-bottom-20 list-none">The board looked at the ideas about how the team can make new ways to sell products.</li>
       
         </ul>
       
@@ -972,7 +972,7 @@ export default function creATE(): React.JSX.Element {
         <ul className="list-square">
       
           <li>the MEEting FOcused on WHY the deSIGNer creAted COMplex LAYouts.</li>
-          <li className="margin-bottom-20 list-none">The focus of the meeting was the rationale behind the designer's decision to craft complex layouts.</li>
+          <li className="margin-bottom-20 list-none">The meeting's main focus was on why the designer chose to create complex layouts.</li>
       
         </ul>
       
