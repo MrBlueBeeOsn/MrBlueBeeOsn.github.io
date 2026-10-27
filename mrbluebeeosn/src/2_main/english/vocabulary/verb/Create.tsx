@@ -429,12 +429,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[creAting MODern DIGital soLUtions] reQUIres DEEP TECHnical KNOWledge.</li>
+          <li>creAting MODern DIGital soLUtions reQUIres DEEP TECHnical KNOWledge.</li>
           <li className="margin-bottom-20 list-none">[Tạo ra các giải pháp kỹ thuật số hiện đại] đòi hỏi kiến thức kỹ thuật chuyên sâu.</li>
       
-          <li className="list-none margin-bottom-10">External block: [creAting MODern DIGital soLUtions] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE], quản lý một đầu việc lớn ở đầu câu. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ [GERund-PARTiciple FORM] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [creAting MODern DIGital soLUtions]—[non-FInite CLAUSE as SUBject] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "reQUIres" in the [MAIN CLAUSE], serving as the main topic at the beginning of the sentence. Essentially, it is a [gerund-participle clause] formed from the [gerund-participle form] "creating," which incorporates an extended data section following it.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [MODern DIGital soLUtions] - [NOUN PHRASE as a COMplement] tiếp nhận trực tiếp mục tiêu của [TRANsitive VERB] ở "creAting".</li>
+          <li className="list-none margin-bottom-10">Inner block: [MODern DIGital soLUtions] - [NOUN PHRASE as a COMplement] directly receives the object of [TRANsitive VERB] in "creAting."</li>
       
         </ul>
 
@@ -446,12 +446,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the STARTup TEAM priORitized [creAting enGAging User CONtent].</li>
+          <li>the STARTup TEAM priORitized creAting enGAging User CONtent.</li>
           <li className="margin-bottom-20 list-none">Đội ngũ khởi nghiệp đã ưu tiên [việc tạo ra nội dung thu hút người dùng].</li>
       
-          <li className="list-none margin-bottom-10">External block: [creAting enGAging User CONtent] - [non-FInite CLAUSE as CATenative COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "priORitized" trong [MAIN CLAUSE] tiếp nhận trực tiếp mục tiêu. Bản chất là [GERund-PARTiciple CLAUSE] hình thành từ [GERund-PARTiciple FORM] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [creating engaging user content]—[non-finite clause as a catenaive complement] of [transitive verb] in the [preterite form] "prioritized" in the [main clause] directly addresses the target. Essentially, it is a [gerund-participle clause] formed from the [gerund-participle form] "creating," with an additional extended data segment appended to it.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [enGAging User CONtent] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở "creAting". Trong đó "enGAging" là [GERund-PARTiciple as a pre-MODifier] của [NOUN as HEAD] "CONtent".</li>
+          <li className="list-none margin-bottom-10">Inner block: [enGAging User CONtent] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in "creAting." In this case, "enGAging" is [GERund-PARTiciple as a pre-MODifier] of [NOUN as HEAD] "CONtent."</li>
       
         </ul>
 
@@ -462,12 +462,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[to creATE susTAINable ENergy SYStems] is the founDAtion's MAIN GOAL.</li>
+          <li>to creATE susTAINable ENergy SYStems is the founDAtion's MAIN GOAL.</li>
           <li className="margin-bottom-20 list-none">[Việc tạo ra các hệ thống năng lượng bền vững] là mục tiêu chính của quỹ.</li>
       
-          <li className="list-none margin-bottom-10">External block: [to creATE susTAINable ENergy SYStems] - [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is"trong [MAIN CLAUSE] để định danh đầu việc làm chủ thể đầu câu. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [to create sustainable energy systems]—[non-finite clause as subject] of [copular intransitive verb] in the [3rd singular present be form] "is" in the [main clause] to identify the subject at the beginning of the sentence. Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "create ..." and supplemented by additional data following it.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [susTAINable ENergy SYStems] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở "creATE".</li>
+          <li className="list-none margin-bottom-10">Inner block: [susTAINable ENergy SYStems] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in "creATE".</li>
       
         </ul>
 
@@ -478,12 +478,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the COMpany aims [to creATE INnovative PROducts for conSUmers].</li>
+          <li>the COMpany aims to creATE INnovative PROducts for conSUmers.</li>
           <li className="margin-bottom-20 list-none">Công ty đặt mục tiêu [tạo ra các sản phẩm sáng tạo dành cho người tiêu dùng].</li>
       
-          <li className="list-none margin-bottom-10">External block: [to creATE INnovative PROducts for conSUmers] - [non-FInite CLAUSE as CATenative COMplement] của [CATenative VERB] ở [3RD SINGular PRESent FORM] "AIMS" trong [MAIN CLAUSE]. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [to create innovative products for consumers]—[non-finite clause as a catenaive complement] of [catenaive verb] in the [3rd singular present form] "aims" in the [main clause]. Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "create ...," with an additional extended data segment appended afterward.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [INnovative PROducts for conSUmers] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE". Bên trong chứa "for conSUmers" là [prepoSITion PHRASE as a post-MODifier] của [NOUN as HEAD] "PROducts".</li>
+          <li className="list-none margin-bottom-10">Inner block: [INnovative PROducts for conSUmers]—[NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PLAIN FORM] "creATE." The phrase "for conSUmers" inside is a [prepoSITion PHRASE as a post-MODifier] of [NOUN as HEAD] "PROducts."</li>
       
         </ul>
       
@@ -494,12 +494,12 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[it] is esSENtial [to creATE STRONG seCUrity PROtocols].</li>
+          <li>it is esSENtial to creATE STRONG seCUrity PROtocols.</li>
           <li className="margin-bottom-20 list-none">[Điều] đó là điều thiết yếu [để xây dựng các giao thức bảo mật vững chắc].</li>
       
-          <li className="list-none margin-bottom-10">External block: [to creATE STRONG seCUrity PROtocols] - [non-FInite CLAUSE as extraPOSED SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE], bổ nghĩa cho [DUMmy PROnoun] "it". Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">External block: [to create STRONG security protocols]—[non-finite clause as an exposed subject] of [copular intransitive verb] in the [3rd singular present "be" form] "is" in the [main clause], modifying the [dummy pronoun] "it." Essentially, it is a [to-infinitive clause] composed of the [infinitive marker] "to" combined with the [verb phrase] "create ...," with an additional data segment appended afterward.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [STRONG seCUrity PROtocols] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN FORM] "creATE".</li>
+          <li className="list-none margin-bottom-10">Inner block: [STRONG security protocols] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PLAIN FORM] "create."</li>
       
         </ul>
 

@@ -425,12 +425,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[CLEARing the BROWser HISTORy] imPROVES security.</li>
+          <li>CLEARing the BROWser HISTORy imPROVES security.</li>
           <li className="margin-bottom-20 list-none">[Xóa lịch sử trình duyệt] giúp tăng cường an ninh.</li>
       
-          <li className="list-none margin-bottom-10">External block: [CLEARing the BROWser HISTORy] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "imPROVES" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] chứa [GERund-PARTiciple FORM] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động xóa bỏ, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
+          <li className="list-none margin-bottom-10">External block: [CLEARing the BROWser HISTORy]—[non-finite CLAUSE as SUBject] of [TRANsitive VERB] in the [3RD SINGular PRESent FORM] "imPROVES" in the [MAIN CLAUSE]. Essentially, it is a [GERund-PARTiciple CLAUSE] containing a [GERund-PARTiciple FORM] with the suffix "-ing," expanding into a complex action code zone comprising the action of clearing, the recipient, and accompanying characteristics.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the BROWser HISTORy] - [NOUN PHRASE as a COMplement] tiếp nhận trực tiếp mục tiêu của [TRANsitive VERB] ở "CLEARing".</li>
+          <li className="list-none margin-bottom-10">Inner block: [the BROWser HISTORy] - [NOUN PHRASE as a COMplement] directly receives the object of [TRANsitive VERB] in "CLEARing".</li>
       
         </ul>
 
@@ -441,12 +441,12 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the IT TEAM FINished [CLEARing OLD DAtabase FILES].</li>
+          <li>the IT TEAM FINished CLEARing OLD DAtabase FILES.</li>
           <li className="margin-bottom-20 list-none">Đội CNTT đã hoàn tất việc [xóa các tệp cơ sở dữ liệu cũ].</li>
       
-          <li className="list-none margin-bottom-10">External block: [CLEARing OLD DAtabase FILES] - [non-FInite CLAUSE as CATenative COMplement] của [inTRANsitive CATenative VERB] ở [PRETerite FORM] "FINished" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] chứa [GERund-PARTiciple FORM] "CLEARing", mở rộng thành một vùng mã hành động phức hợp gồm hành động dọn dẹp, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
+          <li className="list-none margin-bottom-10">External block: [CLEARing OLD DAtabase FILES]—[non-finite clause as a catative complement] of [intransitive catative verb] in the [preterite form] "FINished" in the [main clause]. Essentially, this is a [GERund-PARTiciple CLAUSE] containing the [GERund-PARTiciple FORM] "CLEARing," which expands into a complex action code comprising the action of cleaning, the recipient object, and accompanying characteristics.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [OLD DAtabase FILES] - [NOUN PHRASE as a COMplement] tiếp nhận trực tiếp mục tiêu của [TRANsitive VERB] ở "CLEARing".</li>
+          <li className="list-none margin-bottom-10">Inner block: [OLD DATABASE FILES] - [NOUN PHRASE as a COMPLEMENT] directly receives the object of the [TRANSITIVE VERB] in "CLEARING."</li>
       
         </ul>
 
