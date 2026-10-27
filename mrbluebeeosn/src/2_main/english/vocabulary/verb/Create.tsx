@@ -1005,16 +1005,16 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>non-FInite CLAUSE as SUBject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Equivalent phrase</strong> [<strong>non-FInite CLAUSE as SUBject</strong>]</p>
       
         <ul className="list-square">
       
           <li>[deVELoping efFECtive proMOtional maTErial] reQUIres proFESsional dediCAtion.</li>
           <li className="margin-bottom-20 list-none">[Việc phát triển tài liệu quảng cáo hiệu quả] đòi hỏi sự tận tâm và chuyên nghiệp.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [deVELoping efFECtive proMOtional maTErial] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ một hành động tiếp diễn [GERund-PARTiciple FORM] "deVELoping" cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
+          <li className="list-none margin-bottom-10">New external block: [deVELoping efFECtive proMOtional maTErial] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ một hành động tiếp diễn [GERund-PARTiciple FORM] "deVELoping" cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [efFECtive proMOtional maTErial] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "deVELoping", chứa các đặc điểm mô tả tài liệu quảng bá hiệu quả.</li>
+          <li className="list-none margin-bottom-10">New inner block: [efFECtive proMOtional maTErial] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "deVELoping", chứa các đặc điểm mô tả tài liệu quảng bá hiệu quả.</li>
       
         </ul>
 
@@ -1068,45 +1068,45 @@ export default function creATE(): React.JSX.Element {
           <li>the STUdio HIred [a creAtive TEAM].</li>
           <li className="margin-bottom-20 list-none">STUdio đã tuyển dụng [một đội ngũ sáng tạo].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [a creAtive TEAM] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">New external block: [a creAtive TEAM] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [creAtive] - [ADjective as a pre-MODifier] của [NOUN as HEAD] thiết lập vị trí ngay trước đối tượng "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Hình thành từ khối [LEXical VERB] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối [deVERBal ADjective] "creAtive", có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. </li>
+          <li className="list-none margin-bottom-10">New inner block: [creAtive] - [ADjective as a pre-MODifier] của [NOUN as HEAD] thiết lập vị trí ngay trước đối tượng "TEAM" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Hình thành từ khối [LEXical VERB] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối [deVERBal ADjective] "creAtive", có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng. </li>
       
         </ul>
 
 
-      <h4 className="margin-y-40">2. Phân hệ [TRANsitive prepoSITion]: Thay đổi các MODule chứa mã định vị</h4>
+      <h4 className="margin-y-40">2. TRANsitive prepoSITion SUBsystem:</h4>
 
-      <p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí cấp độ</strong> [<strong>prepoSITion PHRASE as an ADjunct</strong>]</p>
+      <p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Position-Swapping Technique</strong>: [<strong>prepoSITion PHRASE as an ADjunct</strong>]</p>
       
         <ul className="list-square">
       
-          <li>the TEAM ALlocated [TIME] [for the creAtion of the SYStem INterface].</li>
-          <li className="margin-bottom-20 list-none">Nhóm đã dành [thời gian] [để xây dựng giao diện hệ thống].</li>
+          <li>the TEAM ALlocated TIME for the creAtion of the SYStem INterface.</li>
+          <li className="margin-bottom-20 list-none">The system interface's creation was prioritized by the team.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối song song</strong>:</li>
+          <li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[TIME] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "ALlocated" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">[TIME] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE FORM] "Allocated" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">[for the creAtion of the SYStem INterface] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "ALlocated" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "for" chỉ lý do, bối cảnh kéo theo khối [NOUN PHRASE] phía sau. Để thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích, bổ nghĩa cho hành động [PRETerite FORM] "ALlocated".</li>
+          <li className="list-none margin-bottom-10">[for the creation of the system interface] - [prepositional phrase as an adjunct] of [transitive verb] in the [past tense form] "allocated" in the [main clause]. Beginning with the [transitive preposition] "for," which indicates reason or context, it introduces the [noun phrase] that follows. It serves as a contextual modifier expressing cause or purpose, qualifying the action [past tense] "allocated."</li>
 
-          <li className="list-none margin-bottom-10">Inner block: [of the SYStem INterface] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "creAtion" được hình thành từ [TRANsitive VERB] "creATE" kéo theo [TRANsitive prepoSITion] "of" và khối [NOUN PHRASE] phía sau.</li>
+          <li className="list-none margin-bottom-10">Inner block: [of the SYStem INterface] - [prepoSITion PHRASE as a COMplement] of [NOUN as HEAD] in [deVERBal NOUN] "creAtion," formed from [TRANsitive VERB] "creATE," followed by [TRANsitive prepoSITion] "of" and the [NOUN PHRASE] that follows.</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>non-FInite CLAUSE as an ADjunct</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Equivalent phrase</strong> [<strong>non-FInite CLAUSE as an ADjunct</strong>]:</p>
       
         <ul className="list-square">
       
-          <li>the TEAM ALlocated [TIME] [to creATE the SYStem INterface].</li>
-          <li className="margin-bottom-20 list-none">Nhóm đã dành [thời gian] [để phát triển giao diện hệ thống].</li>
+          <li>the TEAM ALlocated TIME to creATE the SYStem INterface.</li>
+          <li className="margin-bottom-20 list-none">The team allocated time. They used that time to create the system interface.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối song song mới</strong>:</li>
+          <li className="list-none margin-bottom-10"><strong>New parallel block</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[TIME] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "ALlocated" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">[TIME] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PRETerite FORM] "Allocated" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">[to creATE the SYStem INterface] - [non-FInite CLAUSE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "ALlocated" trong [MAIN CLAUSE], đảm nhận vai trò thiết lập khối bối cảnh mục đích tổng thể. Bản chất là [to-infiniTIval CLAUSE] được cấu tạo từ [infiniTIval MARKer] "to" kết hợp với [VERB PHRASE] "creATE ..." và tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none margin-bottom-10">[to creATE the SYStem INterface] - [non-FInite CLAUSE as an ADjunct] of a [TRANsitive VERB] in the [PRETerite FORM] "allocated" within the [MAIN CLAUSE] - serves to establish the overall contextual framework. Essentially, it is a [to-infiniTIval CLAUSE] composed of the [infiniTIval MARKer] "to" combined with the [VERB PHRASE] "creATE ..." and supplemented by an extended data segment following it.</li>
       
         </ul>
 

@@ -412,7 +412,7 @@ export default function reSPOND(): React.JSX.Element {
 					
 					<li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
-					<li className="list-none margin-bottom-10">[the QUEry] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "SOLVED".</li>
+					<li className="list-none margin-bottom-10">[the QUEry] - [NOUN PHRASE as a COMplement] of [TRANSITIVE VERB] in the [PRETerite FORM] "SOLVED".</li>
 
 					<li className="list-none margin-bottom-10">[reSPONsively] - [ADverb PHRASE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "SOLVED" in the [MAIN CLAUSE]. Formed from the original [lexical verb] "reSPOND" through a variant describing a characteristic and the addition of the suffix "-ly" to alter its form and provide contextual information about the manner.</li>
 
@@ -1011,16 +1011,16 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>non-FInite CLAUSE as SUBject</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Equivalent phrase</strong> [<strong>non-FInite CLAUSE as SUBject</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>[ANswering CUStomer reQUESTS efFICiently] reQUIres proFESsional communiCAtion.</li>
 					<li className="margin-bottom-20 list-none">[Trả lời các yêu cầu của khách hàng một cách hiệu quả] đòi hỏi kỹ năng giao tiếp chuyên nghiệp.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [ANswering CUStomer reQUESTS efFICiently] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ một hành động tiếp diễn [GERund-PARTiciple FORM] "ANswering" cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
+					<li className="list-none margin-bottom-10">New external block: [ANswering CUStomer reQUESTS efFICiently] - [non-FInite CLAUSE as SUBject] của [TRANsitive VERB] ở [3RD SINGular PRESent FORM] "reQUIres" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ một hành động tiếp diễn [GERund-PARTiciple FORM] "ANswering" cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>:</li>
+					<li className="list-none margin-bottom-10">New inner block:</li>
 
 					<li className="list-none margin-bottom-10">[CUStomer reQUESTS] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] "ANswering", chứa các yêu cầu của khách hàng.</li>
 
@@ -1084,39 +1084,39 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the FIRM HIred [a reSPONsive SERvice].</li>
 					<li className="margin-bottom-20 list-none">Công ty đã thuê [một dịch vụ linh hoạt].</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [a reSPONsive SERvice] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
+					<li className="list-none margin-bottom-10">New external block: [a reSPONsive SERvice] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "HIred" trong [MAIN CLAUSE].</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [reSPONsive] - [ADjective as a pre-MODifier] của [NOUN as HEAD] "SERvice" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Hình thành từ khối [LEXical VERB] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối [deVERBal ADjective] "reSPONsive", có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
+					<li className="list-none margin-bottom-10">New inner block: [reSPONsive] - [ADjective as a pre-MODifier] của [NOUN as HEAD] "SERvice" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó. Hình thành từ khối [LEXical VERB] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối [deVERBal ADjective] "reSPONsive", có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">2. Phân hệ [TRANsitive prepoSITion]: Thay đổi các MODule chứa mã định vị</h4>
+			<h4 className="margin-y-40">2. TRANsitive prepoSITion SUBsystem:</h4>
 
-			<p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí cấp độ</strong> [<strong>prepoSITion PHRASE as an ADjunct</strong>]</p>
-			
+			<p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Position-Swapping Technique</strong>: [<strong>prepoSITion PHRASE as an ADjunct</strong>]</p>
+	
 				<ul className="list-square">
 			
-					<li>the SYStem reSTARTed [for a FULL reSPONSE to the seCUrity PATCH].</li>
-					<li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [để thực hiện phản hồi đầy đủ đối với bản vá bảo mật].</li>
+					<li>the SYStem reSTARTed for a FULL reSPONSE to the seCUrity PATCH.</li>
+					<li className="margin-bottom-20 list-none">The system restarted in order to provide a full response to the security patch.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [for a FULL reSPONSE to the seCUrity PATCH] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "reSTARTed" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "for" chỉ lý do, bối cảnh kéo theo khối [NOUN PHRASE] phía sau. Để thực thi vai trò làm khối bối cảnh mục đích, bổ nghĩa cho hành động [PRETerite FORM] "reSTARTed".</li>
+					<li className="list-none margin-bottom-10">External block: [for a FULL reSPONSE to the seCUrity PATCH] - [prepoSITion PHRASE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "reSTARTed" in the [MAIN CLAUSE]. Beginning with the [TRANsitive prepoSITion] "for," which indicates the reason or context, it introduces the [noun phrase] that follows. It serves as a contextual modifier, providing the purpose for the action [past tense] "restarted."</li>
 					
-					<li className="list-none margin-bottom-10">Inner block: [to the seCUrity PATCH] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE", được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the seCUrity PATCH" phía sau.</li>
+					<li className="list-none margin-bottom-10">Inner block: [to the seCUrity PATCH] - [prepoSITion PHRASE as a COMplement] of [NOUN as HEAD] in [deVERBAL NOUN] "reSPONSE," formed from [inTRANsitive VERB] "reSPOND" followed by [TRANsitive prepoSITion] "to" and the [NOUN PHRASE] "the seCUrity PATCH" that follows.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>prepoSITion PHRASE as an ADjunct</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Equivalent phrase</strong> [<strong>prepoSITion PHRASE as an ADjunct</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>the SYStem reSTARTed [in reSPONSE to the seCUrity PATCH].</li>
-					<li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [để áp dụng bản vá bảo mật].</li>
+					<li>the SYStem reSTARTed in reSPONSE to the seCUrity PATCH.</li>
+					<li className="margin-bottom-20 list-none">The system's restart was prompted by the implementation of the security patch.</li>
 			
-					<li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [in reSPONSE to the seCUrity PATCH] - [prepoSITion PHRASE as an ADjunct] của [inTRANsitive VERB] ở [PRETerite FORM] "reSTARTed" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] "in" được đưa vào thế chỗ, đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể, bổ nghĩa cho hành động [PRETerite FORM] "reSTARTed".</li>
+					<li className="list-none margin-bottom-10">New external block: [in reSPONSE to the seCUrity PATCH] - [prepoSITion PHRASE as an ADjunct] of [inTRANsitive VERB] in the [PRETerite FORM] "reSTARTed" in the [MAIN CLAUSE]. Beginning with the [TRANsitive prepoSITion] "in," which is inserted to establish the overall causal context, it modifies the [past tense] action "reSTARTed."</li>
 					
-					<li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [to the seCUrity PATCH] - [prepoSITion PHRASE as a COMplement] của [NOUN as HEAD] ở [deVERBal NOUN] "reSPONSE", được hình thành từ [inTRANsitive VERB] "reSPOND" kéo theo [TRANsitive prepoSITion] "to" và khối [NOUN PHRASE] "the seCUrity PATCH" phía sau.</li>
+					<li className="list-none margin-bottom-10">New inner block: [to the seCUrity PATCH] - [prepoSITion PHRASE as a COMplement] of [noun as head] in [deVERBAL NOUN] "reSPONSE," formed from [inTRANsitive VERB] "reSPOND" followed by [TRANsitive prepoSITion] "to" and the [NOUN PHRASE] "the seCUrity PATCH" that follows.</li>
 			
 				</ul>
 

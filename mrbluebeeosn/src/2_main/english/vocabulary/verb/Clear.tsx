@@ -895,16 +895,16 @@ export default function CLEAR(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong>:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Equivalent phrase</strong>:</p>
       
         <ul className="list-square">
       
           <li>[EMPtying the TEMporary FOLDer] is NECessary.</li>
           <li className="margin-bottom-20 list-none">[Xóa thư mục tạm thời] là việc cần thiết.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [EMPtying the TEMporary FOLDer]- [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ một hành động tiếp diễn  [GERund-PARTiciple FORM] "EMPtying", kết hợp khối mở rộng mới.</li>
+          <li className="list-none margin-bottom-10">New external block: [EMPtying the TEMporary FOLDer]- [non-FInite CLAUSE as SUBject] của [COPular inTRANsitive VERB] ở [3RD SINGular PRESent BE FORM] "is" trong [MAIN CLAUSE]. Bản chất là [GERund-PARTiciple CLAUSE] cấu tạo từ một hành động tiếp diễn  [GERund-PARTiciple FORM] "EMPtying", kết hợp khối mở rộng mới.</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [the TEMporary FOLDer] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "EMPtying".</li>
+          <li className="list-none margin-bottom-10">New inner block: [the TEMporary FOLDer] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [GERund-PARTiciple FORM] "EMPtying".</li>
       
         </ul>
 
@@ -963,43 +963,43 @@ export default function CLEAR(): React.JSX.Element {
           <li>i LIKE [a CLEAR SYStem LAYout].</li>
           <li className="margin-bottom-20 list-none">Tôi thích [một cách bố trí hệ thống rõ ràng].</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối ngoài mới</strong>: [a CLEAR SYStem LAYout] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "LIKE" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">New external block: [a CLEAR SYStem LAYout] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PLAIN PRESent FORM] "LIKE" trong [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10"><strong>Khối trong mới</strong>: [CLEAR] - [ADjective as a pre-MODifier] của [NOUN as HEAD] "LAYout". Hình thành từ khối [LEXical VERB] nguyên bản "CLEAR", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm [deVERBal ADjective] "CLEAR", đã được cô đọng hoàn toàn về dạng một thành phần đơn duy nhất. Thiết lập vị trí ngay trước đối tượng [NOUN PHRASE] "SYStem LAYout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+          <li className="list-none margin-bottom-10">New inner block: [CLEAR] - [ADjective as a pre-MODifier] của [NOUN as HEAD] "LAYout". Hình thành từ khối [LEXical VERB] nguyên bản "CLEAR", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm [deVERBal ADjective] "CLEAR", đã được cô đọng hoàn toàn về dạng một thành phần đơn duy nhất. Thiết lập vị trí ngay trước đối tượng [NOUN PHRASE] "SYStem LAYout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
         </ul>
 
 
-      <h4 className="margin-y-40">2. Phân hệ Giới: Thay đổi các MODule chứa mã định vị</h4>
+      <h4 className="margin-y-40">2. TRANsitive prepoSITion SUBsystem:</h4>
 
-      <p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí và thay thế khối mã</strong> [<strong>prepoSITion PHRASE as an ADjunct</strong>] <strong>tương đương</strong></p>
+      <p className="margin-top-20 text-indent-whole" id="Case-4"><strong>Case 4</strong>: <strong>Position-Swapping Technique</strong>: [<strong>prepoSITion PHRASE as an ADjunct</strong>]</p>
       
         <ul className="list-square">
       
-          <li>we STARTed [the implemenTAtion] [<strong>af</strong>ter a CLEAR BRIEFing].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi đã bắt đầu [việc triển khai] [sau khi có một buổi hội thảo rõ ràng].</li>
+          <li>we STARTed the implemenTAtion <strong>af</strong>ter a CLEAR BRIEFing.</li>
+          <li className="margin-bottom-20 list-none">Clear briefing was given before the implementation was started.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối song song</strong>: </li>
+          <li className="list-none margin-bottom-10"><strong>Parallel block</strong>: </li>
 
-          <li className="list-none margin-bottom-10">[the implemenTAtion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "STARTed" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">[the implementation] - [NOUN PHRASE as a COMPLEMENT] of [TRANSITIVE VERB] in the [PAST TENSE FORM] "STARTed" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">[<strong>af</strong>ter a CLEAR BRIEFing] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "STARTed" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] chỉ mốc thời gian "<strong>af</strong>ter " kéo theo khối [NOUN PHRASE] phía sau. Để thực thi vai trò làm khối bối cảnh thời gian đứng sau để xác định cơ sở cho hành động chính [PRETerite FORM] "STARTed".</li>
+          <li className="list-none margin-bottom-10">[after a CLEAR BRIEFing] - [prepoSITion PHRASE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "STARTed" in the [MAIN CLAUSE]. It begins with the [transitive preposition] indicating the time marker "after," followed by the [noun phrase]. This serves as the temporal context that establishes the basis for the main action [past tense form] "STARTed."</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Thế khối [prepoSITion PHRASE as an ADjunct] tương đương</strong>:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>The equivalent phrase: [prepoSITion PHRASE as an ADjunct]</strong>:</p>
       
         <ul className="list-square">
       
-          <li>we STARTed [the implemenTAtion] [with a CLEAR BRIEFing].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi đã bắt đầu [việc triển khai] [bằng một buổi hội thảo rõ ràng].</li>
+          <li>we STARTed the implemenTAtion with a CLEAR BRIEFing.</li>
+          <li className="margin-bottom-20 list-none">The implementation process began with a comprehensive briefing.</li>
       
-          <li className="list-none margin-bottom-10"><strong>Khối song song mới</strong>:</li>
+          <li className="list-none margin-bottom-10"><strong>New parallel block</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[the implemenTAtion] - [NOUN PHRASE as a COMplement] của [TRANsitive VERB] ở [PRETerite FORM] "STARTed" trong [MAIN CLAUSE].</li>
+          <li className="list-none margin-bottom-10">[the implemenTAtion] - [NOUN PHRASE as a COMplement] of [TRANsitive VERB] in the [PRETerite FORM] "STARTed" in the [MAIN CLAUSE].</li>
           
-          <li className="list-none margin-bottom-10">[with a CLEAR BRIEFing] - [prepoSITion PHRASE as an ADjunct] của [TRANsitive VERB] ở [PRETerite FORM] "STARTed" trong [MAIN CLAUSE]. Bắt đầu bằng [TRANsitive prepoSITion] đồng hành/phương thức "with" và khối [NOUN PHRASE] "a CLEAR BRIEFing" phía sau được đưa vào thế chỗ, tiếp tục đảm nhận chính xác vai trò thiết lập khối bối cảnh phương thức cho hành động chính mà không làm biến dạng sơ đồ sắp xếp tổng thể.</li>
+          <li className="list-none margin-bottom-10">[with a CLEAR BRIEFing] - [prepoSITion PHRASE as an ADjunct] of [TRANsitive VERB] in the [PRETerite FORM] "STARTed" in the [MAIN CLAUSE]. Beginning with the [TRANsitive prepoSITion] "with" and the [noun phrase] "a CLEAR BRIEFing" following it, the phrase is inserted to precisely fulfill the role of establishing the contextual framework for the main action without altering the overall structural arrangement.</li>
       
         </ul>
 
