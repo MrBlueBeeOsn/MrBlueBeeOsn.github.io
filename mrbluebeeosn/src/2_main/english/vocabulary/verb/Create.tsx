@@ -1088,7 +1088,7 @@ export default function creATE(): React.JSX.Element {
 
           <li className="list-none margin-bottom-10">[TIME] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "Allocated" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">[for the creation of the system interface] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "allocated" in the [Main Clause]. Beginning with the [Transitive Preposition]"for," which indicates reason or context, it introduces the [Noun Phrase] that follows. It serves as a contextual modifier expressing cause or purpose, qualifying the action [past tense] "allocated."</li>
+          <li className="list-none margin-bottom-10">[for the creation of the system interface] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "allocated" in the [Main Clause]. Beginning with the [Transitive Preposition] "for", which indicates reason or context, it introduces the [Noun Phrase] that follows. It serves as a contextual modifier expressing cause or purpose, qualifying the action [past tense] "allocated."</li>
 
           <li className="list-none margin-bottom-10">Inner block: [of the SYStem INterface] - [prepoSITion PHRASE as a COMplement] of [Noun as Head] in [Deverbal Noun] "creAtion," formed from [Transitive Verb] "creATE," followed by [Transitive Preposition]"of" and the [Noun Phrase] that follows.</li>
       

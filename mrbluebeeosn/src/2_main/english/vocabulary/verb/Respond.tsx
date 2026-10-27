@@ -1100,7 +1100,7 @@ export default function reSPOND(): React.JSX.Element {
 					<li>the SYStem reSTARTed for a FULL reSPONSE to the seCUrity PATCH.</li>
 					<li className="margin-bottom-20 list-none">The system started working normally to handle the security update.</li>
 			
-					<li className="list-none margin-bottom-10">External block: [for a FULL reSPONSE to the seCUrity PATCH] - [Preposition Phrase as an Adjunct] of [Intransitive Verb] in the [Preterite Form] "reSTARTed" in the [Main Clause]. Beginning with the [Transitive Preposition]"for," which indicates the reason or context, it introduces the [Noun Phrase] that follows. It serves as a contextual modifier, providing the purpose for the action [past tense] "restarted."</li>
+					<li className="list-none margin-bottom-10">External block: [for a FULL reSPONSE to the seCUrity PATCH] - [Preposition Phrase as an Adjunct] of [Intransitive Verb] in the [Preterite Form] "reSTARTed" in the [Main Clause]. Beginning with the [Transitive Preposition] "for", which indicates the reason or context, it introduces the [Noun Phrase] that follows. It serves as a contextual modifier, providing the purpose for the action [past tense] "restarted."</li>
 					
 					<li className="list-none margin-bottom-10">Inner block: [to the seCUrity PATCH] - [prepoSITion PHRASE as a COMplement] of [Noun as Head] in [deVERBAL NOUN] "reSPONSE," formed from [Intransitive Verb] "reSPOND" followed by [Transitive Preposition]"to" and the [Noun Phrase] "the seCUrity PATCH" that follows.</li>
 			
