@@ -285,22 +285,22 @@ export default function CLEAR(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">The Past Tense and Pure Action states merge to form a state-of-the-art integrated subsystem that condenses both the temporal marker and the essence of the action into a single word.</li>
       
           <li value="7" className="margin-bottom-20">[<strong>VERB PHRASE as PREDicator</strong>]: is CLEARing, was CLEARing</li>
-          <li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and ongoing actions. In this context, "is" and "was" are [PRImary VERB as PREDicator] in [FInite] form, while "CLEARing" is an accompanying [non-FInite] form.</li>
+          <li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and ongoing actions. In this context, "is" and "was" are [PRImary VERB as PREDicator] in [FInite] form, while "CLEARing" is an accompanying [Non-finite] form.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has CLEARD, had CLEARD</li>
-          <li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and actions that are complete and finished. In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "CLEARD" refers to accompanying [non-FInite] forms.</li>
+          <li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and actions that are complete and finished. In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "CLEARD" refers to accompanying [Non-finite] forms.</li>
       
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has been CLEARing, had been CLEARing</li>
-          <li className="margin-bottom-20 list-none">This is a code cluster subsystem consisting of multiple components that work together to handle complex temporal contexts (such as 🏃‍♂️ the Present Perfect Continuous Action Time Span, 🏃‍♂️ the Past Perfect Continuous Action Time Span). In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "been CLEARing" are accompanying [non-FInite] forms.</li>
+          <li className="margin-bottom-20 list-none">This is a code cluster subsystem consisting of multiple components that work together to handle complex temporal contexts (such as 🏃‍♂️ the Present Perfect Continuous Action Time Span, 🏃‍♂️ the Past Perfect Continuous Action Time Span). In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "been CLEARing" are accompanying [Non-finite] forms.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: would CLEAR, could CLEAR, should CLEAR</li>
           <li className="margin-bottom-20 list-none">The linear integration of Attitude, Subtlety, Non-coercion, and Pure Action. In this context, "would", "could", and "should" are [PRETerite MODAL AUXILIARY VERBS] that take [Finite] forms, while "CLEAR" refers to the accompanying [NON-FINITE] forms.</li>
       
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: will CLEAR, can CLEAR</li>
-          <li className="margin-bottom-20 list-none">The linear integration of Attitude, Actual Imposition, and Pure Action. In this context, "will" and "can" are [PRESent MOdal auXILiary VERBS] that take [FInite] forms, while "CLEAR" refers to the accompanying [non-FInite] forms.</li>
+          <li className="margin-bottom-20 list-none">The linear integration of Attitude, Actual Imposition, and Pure Action. In this context, "will" and "can" are [PRESent MOdal auXILiary VERBS] that take [FInite] forms, while "CLEAR" refers to the accompanying [Non-finite] forms.</li>
 
           <li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: DID CLEAR, DOES CLEAR</li>
-          <li className="margin-bottom-20 list-none">State, Time, and Action go hand in hand, separated by a space within the sentence. In this context, "DID" and "DOES" are [PRImary VERB as PREDicator] with [FInite] forms, while "CLEAR" is an accompanying [non-FInite] form.</li>
+          <li className="margin-bottom-20 list-none">State, Time, and Action go hand in hand, separated by a space within the sentence. In this context, "DID" and "DOES" are [PRImary VERB as PREDicator] with [FInite] forms, while "CLEAR" is an accompanying [Non-finite] form.</li>
       
         </ol>
 
