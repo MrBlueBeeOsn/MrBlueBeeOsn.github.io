@@ -195,7 +195,7 @@ export default function CLEAR(): React.JSX.Element {
               <li>you must CLEAR the BROWser HIStory.</li>
               <li className="margin-bottom-20 list-none">You have to remove your browser history.</li>
 
-              <li className="list-none margin-bottom-10">The inner clause: [CLEAR] - [Plain Form] in its original form follows the [PRESENT MODAL AUXILIARY VERB] "must" to perform an action that affects the object "the BROWser HIStory."</li>
+              <li className="list-none margin-bottom-10">The inner clause: [clear] - [Plain Form] in its original form follows the [Present Modal Auxiliary Verb] "must" to perform an action that affects the object "the BROWser HIStory."</li>
           
             </ul>
 
@@ -313,8 +313,8 @@ export default function CLEAR(): React.JSX.Element {
 
       <ol className="margin-top-40">
 			
-					<li value="1">[<strong>CLAUSE</strong>]: because [it rains].</li>
-					<li className="list-none">Traditional textbooks teach you that "CLAUSE" is "mệnh đề" or "vế". But to a native speaker, a CLAUSE is simply a distinct, self-contained 'ĐIỀU' (unit). In law, it is a ĐIỀU khoản (legal unit). In grammar, it is a ĐIỀU câu (grammatical unit). Understanding it this way helps you think exactly like a native speaker.</li>
+					<li value="1">[<strong>CLAUSE</strong>]: because it rains.</li>
+					<li className="list-none">Traditional textbooks teach you that "Clause" is "Mệnh Đề" or "Vế". But to a native speaker, a Clause is simply a distinct, self-contained 'Điều' (Unit). In law, it is a "Điều Khoản" (Legal Unit). In grammar, it is a "Điều Câu" (Grammatical Unit). Understanding it this way helps you think exactly like a native speaker.</li>
 
 					<li className="margin-y-20 list-none"><strong>Why prepoSITion PHRASE</strong>, <strong>not conJUNCtion CLAUSE</strong>?</li>
 
@@ -373,9 +373,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>the CLARity of this inSTRUCTion HELPED EVERyone.</li>
           <li className="margin-bottom-20 list-none">The instructions were easy to understand, which helped everyone.</li>
           
-          <li className="list-none margin-bottom-10">External block: [the CLARity of this inSTRUCTion] - [Noun Phrase Subject] of the action [Preterite Form] "HELPED" in [Main Clause], serving as the opening element of the entire main clause.</li>
+          <li className="list-none margin-bottom-10">External block: [The clarity of this instruction] - [Noun Phrase Subject] of the action [Preterite Form] "HELPED" in [Main Clause], serving as the opening element of the entire main clause.</li>
           
-          <li className="list-none margin-bottom-10">Internal block: [of this inSTRUCTion] - [Preposition Phrase as a Post-modifier] of [Noun as Head] in [Deverbal Noun] "CLARity".</li>
+          <li className="list-none margin-bottom-10">Internal block: [of this instruction] - [Preposition Phrase as a Post-modifier] of [Noun as Head] in [Deverbal Noun] "CLARity".</li>
       
         </ul>
       
@@ -389,9 +389,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>we NEED a CLEAR explaNAtion.</li>
           <li className="margin-bottom-20 list-none">We need an explanation that is easy to understand.</li>
       
-          <li className="list-none margin-bottom-10">External block: [a CLEAR explaNAtion] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Present Form] "NEED" in the [Main Clause].</li>
+          <li className="list-none margin-bottom-10">External block: [a clear explanation] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Present Form] "NEED" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">Internal block: [CLEAR] - [Adjective as a Pre-modifier] is formed from the original [Lexical Verb] block "CLEAR", which has an external form capable of describing the properties and characteristics of [Noun as Head] "explaNAtion."</li>
+          <li className="list-none margin-bottom-10">Internal block: [clear] - [Adjective as a Pre-modifier] is formed from the original [Lexical Verb] block "CLEAR", which has an external form capable of describing the properties and characteristics of [Noun as Head] "explaNAtion."</li>
       
         </ul>
       
@@ -407,9 +407,9 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[the PROCess] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "exPLAINED" in the [Main Clause].</li>
+          <li className="list-none margin-bottom-10">[the process] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "exPLAINED" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">[CLEARly] - [Adverb Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "exPLAINED" in the [Main Clause]. Formed from the original [Adjective] "CLEAR" by adding the suffix "-ly" to alter its form and provide contextual information about the manner.</li>
+          <li className="list-none margin-bottom-10">[clearly] - [Adverb Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "exPLAINED" in the [Main Clause]. Formed from the original [Adjective] "CLEAR" by adding the suffix "-ly" to alter its form and provide contextual information about the manner.</li>
       
         </ul>
 
@@ -428,9 +428,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>CLEARing the BROWser HISTORy imPROVES security.</li>
           <li className="margin-bottom-20 list-none">Clearing your browsing history helps keep your information more secure.</li>
       
-          <li className="list-none margin-bottom-10">External block: [CLEARing the BROWser HISTORy] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "imPROVES" in the [Main Clause]. Essentially, it is a [Gerund-Participle Clause] containing a [Gerund-Participle Form] with the suffix "-ing", expanding into a complex action code zone comprising the action of clearing, the recipient, and accompanying characteristics.</li>
+          <li className="list-none margin-bottom-10">External block: [Clearing the browser history] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "imPROVES" in the [Main Clause]. Essentially, it is a [Gerund-Participle Clause] containing a [Gerund-Participle Form] with the suffix "-ing", expanding into a complex action code zone comprising the action of clearing, the recipient, and accompanying characteristics.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the BROWser HISTORy] - [Noun Phrase as a Complement] directly receives the object of [Transitive Verb] in "CLEARing".</li>
+          <li className="list-none margin-bottom-10">Inner block: [the browser history] - [Noun Phrase as a Complement] directly receives the object of [Transitive Verb] in "CLEARing".</li>
       
         </ul>
 
@@ -444,64 +444,64 @@ export default function CLEAR(): React.JSX.Element {
           <li>the IT TEAM FINished CLEARing OLD DAtabase FILES.</li>
           <li className="margin-bottom-20 list-none">The IT team deleted old database files.</li>
       
-          <li className="list-none margin-bottom-10">External block: [CLEARing OLD DAtabase FILES] - [Non-finite Clause as a Catative Complement] of [Intransitive Catative Verb] in the [Preterite Form] "FINished" in the [Main Clause]. Essentially, this is a [Gerund-Participle Clause] containing the [Gerund-Participle Form] "CLEARing", which expands into a complex action code comprising the action of cleaning, the recipient object, and accompanying characteristics.</li>
+          <li className="list-none margin-bottom-10">External block: [clearing old database files] - [Non-finite Clause as a Catative Complement] of [Intransitive Catative Verb] in the [Preterite Form] "FINished" in the [Main Clause]. Essentially, this is a [Gerund-Participle Clause] containing the [Gerund-Participle Form] "CLEARing", which expands into a complex action code comprising the action of cleaning, the recipient object, and accompanying characteristics.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [OLD DATABASE FILES] - [Noun Phrase as a Complement] directly receives the object of the [Transitive Verb] in "CLEARING."</li>
+          <li className="list-none margin-bottom-10">Inner block: [old database files] - [Noun Phrase as a Complement] directly receives the object of the [Transitive Verb] in "CLEARING."</li>
       
         </ul>
 
       
       <p className="margin-top-20 text-indent-whole"><strong>Forming the construction</strong>: [<strong>NOUN PHRASE</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>biểu thị hành động sắp xảy ra chủ động</strong> -<strong>to V</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>containing a</strong> [<strong>GERund-PARTiciple CLAUSE</strong>] <strong>indicates an ongoing action</strong>, <strong>active voice</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole" id="5a">Example 5a:</p>
-      
-        <ul className="list-square">
-      
-          <li>the STAFF MEMber to CLEAR the MEETing ROOM is outSIDE.</li>
-          <li className="margin-bottom-20 list-none">The staff member who is responsible for clearing the meeting room is waiting outside.</li>
-      
-          <li className="list-none margin-bottom-10">External block: [the STAFF MEMBER to CLEAR the MEETING ROOM] - [Noun Phrase as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause].</li>
-          
-          <li className="list-none margin-bottom-10">Inner block: [to CLEAR the MEETing ROOM] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "MEMber" to highlight and indicate the active, imminent nature of the action to be performed by that subject. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" + [Verb Phrase] "CLEAR the MEETing ROOM" to express purpose, obligation, or the direction of the action.</li>
-      
-        </ul>
-
-      
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>biểu thị hành động sắp xảy ra bị động -to be</strong> <strong>v3</strong>/-<strong>ed</strong>:</p>
-
-      <p className="margin-top-20 text-indent-whole" id="5b">Example 5b:</p>
-      
-        <ul className="list-square">
-      
-          <li>the LAND to be CLEARED NEXT MONTH beLONGS to the CITy.</li>
-          <li className="margin-bottom-20 list-none">The land that will be cleared next month is owned by the city.</li>
-      
-          <li className="list-none margin-bottom-10">External block: [the LAND to be CLEARED NEXT MONTH] - [Noun Phrase as Subject] of [Intransitive Verb] in the [3rd Singular Present Form] "beLONGS" in the [Main Clause]. In this case, "beLONGS" is the [Primary Verb as Predicate] serving as the [Finite].</li>
-          
-          <li className="list-none margin-bottom-10">Inner block: [to be CLEARED NEXT MONTH] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "LAND" to describe the state of the object that is about to be affected. Essentially, it is a [To-infinitive Clause] expressed in the "to be + V3/-ed" pattern, containing a [Past Participle Form] in the passive morphological form, combined with a modal extension to indicate a future-oriented passive state.</li>
-      
-        </ul>
-      
-
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>biểu thị hành động đang diễn ra</strong> -<strong>ing</strong>:</p>
-
-      <p className="margin-top-20 text-indent-whole" id="5c">Example 5c:</p>
       
         <ul className="list-square">
       
           <li>the WORKer CLEARing the ROAD BLOCK WORE a VEST.</li>
           <li className="margin-bottom-20 list-none">The person working to clear the roadblock was wearing a vest.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the WORKer CLEARing the ROAD BLOCK] - [Noun Phrase Subject] of [Transitive Verb] in the [Preterite Form] "WORE" in the [Main Clause]. In this case, "WORE" is a [Lexical Verb as Predicator] functioning as a [FInite].</li>
+          <li className="list-none margin-bottom-10">External block: [The worker clearing the road block] - [Noun Phrase Subject] of [Transitive Verb] in the [Preterite Form] "WORE" in the [Main Clause]. In this case, "WORE" is a [Lexical Verb as Predicator] functioning as a [FInite].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [CLEARing the ROAD BLOCK] - [Non-finite Clause as a Post-modifier] of [Noun Phrase] placed immediately after the object [Noun as Head] "WORKer" to highlight and demonstrate the active nature of that object's action. Essentially, it is a [Gerund-Participle Clause] constructed from the [Gerund-Participle Form] "CLEARing" combined with the [Noun Phrase as Object] "the ROAD BLOCK" to express the ongoing active action.</li>
+          <li className="list-none margin-bottom-10">Inner block: [clearing the road block] - [Non-finite Clause as a Post-modifier] of [Noun Phrase] placed immediately after the object [Noun as Head] "WORKer" to highlight and demonstrate the active nature of that object's action. Essentially, it is a [Gerund-Participle Clause] constructed from the [Gerund-Participle Form] "CLEARing" combined with the [Noun Phrase as Object] "the ROAD BLOCK" to express the ongoing active action.</li>
+      
+        </ul>
+      
+
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>containing</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>indicates an action about to take place</strong>, <strong>active</strong>:</p>
+      
+      <p className="margin-top-20 text-indent-whole" id="5b">Example 5b:</p>
+      
+        <ul className="list-square">
+      
+          <li>the STAFF MEMber to CLEAR the MEETing ROOM is outSIDE.</li>
+          <li className="margin-bottom-20 list-none">The staff member who is responsible for clearing the meeting room is waiting outside.</li>
+      
+          <li className="list-none margin-bottom-10">External block: [the staff member to clear the meeting room] - [Noun Phrase as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause].</li>
+          
+          <li className="list-none margin-bottom-10">Inner block: [to clear the meeting room] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "MEMber" to highlight and indicate the active, imminent nature of the action to be performed by that subject. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" + [Verb Phrase] "CLEAR the MEETing ROOM" to express purpose, obligation, or the direction of the action.</li>
+      
+        </ul>
+
+      
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>containing</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>indicates an action that is about to occur</strong>, <strong>in the passive voice</strong>:</p>
+
+			<p className="margin-top-20 text-indent-whole" id="5c">Example 5c:</p>
+      
+        <ul className="list-square">
+      
+          <li>the LAND to be CLEARED NEXT MONTH beLONGS to the CITy.</li>
+          <li className="margin-bottom-20 list-none">The land that will be cleared next month is owned by the city.</li>
+      
+          <li className="list-none margin-bottom-10">External block: [the land to be cleared next month] - [Noun Phrase as Subject] of [Intransitive Verb] in the [3rd Singular Present Form] "beLONGS" in the [Main Clause]. In this case, "beLONGS" is the [Primary Verb as Predicate] serving as the [Finite].</li>
+          
+          <li className="list-none margin-bottom-10">Inner block: [to be cleared next month] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "LAND" to describe the state of the object that is about to be affected. Essentially, it is a [To-infinitive Clause] expressed in the "to be + V3/-ed" pattern, containing a [Past Participle Form] in the passive morphological form, combined with a modal extension to indicate a future-oriented passive state.</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as SUBject</strong>] <strong>biểu thị hành động đã xong bị động</strong> -<strong>v3</strong>/-<strong>ed</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>containing</strong> [<strong>PAST PARTiciple CLAUSE</strong>] <strong>indicates a completed</strong>, <strong>passive action</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole" id="5d">Example 5d:</p>
       
@@ -510,14 +510,14 @@ export default function CLEAR(): React.JSX.Element {
           <li>the FILES CLEARED by the adMINistrator are PERmanently deLETEd.</li>
           <li className="margin-bottom-20 list-none">The administrator deleted the files, and they're gone forever.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the FILES CLEARED by the administrator] - [Noun Phrase as Subject] of the action [Verb Phrae as Prediate] "are deleted" in [Main Clause]. In this case, the [Non-modal Auxiliary Verb] "are" is the [primary verb as predicate] in the [finite] form, while the [Transitive Verb] "deleted" is in the [Non-finite Form], indicating that the object "the FILES" has been deleted.</li>
+          <li className="list-none margin-bottom-10">External block: [The files cleared by the administrator] - [Noun Phrase as Subject] of the action [Verb Phrae as Prediate] "are deleted" in [Main Clause]. In this case, the [Non-modal Auxiliary Verb] "are" is the [primary verb as predicate] in the [finite] form, while the [Transitive Verb] "deleted" is in the [Non-finite Form], indicating that the object "the FILES" has been deleted.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [CLEARED by the administrator] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "FILES" to describe the passive perfect state of that object. Essentially, it is a [Past Participle Clause] appearing as a code block containing a [Past Participle Form] in the passive voice within the past tense and the modal extension.</li>
+          <li className="list-none margin-bottom-10">Inner block: [cleared by the administrator] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "FILES" to describe the passive perfect state of that object. Essentially, it is a [Past Participle Clause] appearing as a code block containing a [Past Participle Form] in the passive voice within the past tense and the modal extension.</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE as a COMplement</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>containing</strong> [<strong>ADjective PHRASE as a post-MODifier</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole" id="5e">Example 5e:</p>
       
@@ -528,7 +528,8 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [an application capable of clearing background junk] - a [Noun Phrase as a Complement] of a [Transitive Verb] in the [Preterite Form] "FOUND" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [Capable of CLEARing BACKground JUNK] - [Adjective Phrase as a Post-modifier] of [Noun as Head] "appliCAtion" to scan and identify the capabilities and characteristics of that object.</li>
+          <li className="list-none margin-bottom-10">Inner block: [capable of clearing background junk]
+ - [Adjective Phrase as a Post-modifier] of [Noun as Head] "appliCAtion" to scan and identify the capabilities and characteristics of that object.</li>
       
         </ul>
       
@@ -542,9 +543,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>they RAN the SOFTware to CLEAR CACHE FILES.</li>
           <li className="margin-bottom-20 list-none">They used software to remove temporary internet files from the computer.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the SOFTware to CLEAR CACHE FILES] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "RAN" in the [Main Clause].</li>
+          <li className="list-none margin-bottom-10">External block: [the software to clear cache files] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "RAN" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [to CLEAR CACHE FILES] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "SOFTware". Essentially, it is a [To-infinitive Clause] beginning with the [Infinitive Marker] "to" combined with a [Verb Phrase] "CLEAR CACHE FILES".</li>
+          <li className="list-none margin-bottom-10">Inner block: [to clear cache files] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "SOFTware". Essentially, it is a [To-infinitive Clause] beginning with the [Infinitive Marker] "to" combined with a [Verb Phrase] "CLEAR CACHE FILES".</li>
       
         </ul>
 
@@ -557,9 +558,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>to CLEAR the misunderSTANDing, she SENT an Email.</li>
           <li className="margin-bottom-20 list-none">To make things clear, she sent an email.</li>
       
-          <li className="list-none margin-bottom-10">External block: [to CLEAR the misunderSTANDing], - [Non-finite Clause as an Adjunct] of [Transitive Verb] in the [Preterite Form] "SENT" within the [Main Clause], serves as a contextual block intended to emphasize the entire main body of information that follows. Essentially, it is a [To-infinitive Clause] beginning with the [Infinitive Marker] "to" combined with a [Verb Phrase] "clear the misunderstanding", which is moved to the beginning of the sentence and separated by a comma.</li>
+          <li className="list-none margin-bottom-10">External block: [To clear the misunderstanding], - [Non-finite Clause as an Adjunct] of [Transitive Verb] in the [Preterite Form] "SENT" within the [Main Clause], serves as a contextual block intended to emphasize the entire main body of information that follows. Essentially, it is a [To-infinitive Clause] beginning with the [Infinitive Marker] "to" combined with a [Verb Phrase] "clear the misunderstanding", which is moved to the beginning of the sentence and separated by a comma.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the misunderSTANDing] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Form] "CLEAR".</li>
+          <li className="list-none margin-bottom-10">Inner block: [the misunderstanding] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Form] "CLEAR".</li>
       
         </ul>
       
@@ -573,9 +574,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>the MANager SPENT HOURS CLEARing OLD User PROfiles.</li>
           <li className="margin-bottom-20 list-none">The manager spent hours removing old user profiles.</li>
       
-          <li className="list-none margin-bottom-10">External block: [HOURS CLEARING OLD User PROFILES] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "SPENT" in the [Main Clause].</li>
+          <li className="list-none margin-bottom-10">External block: [hours clearing old user profiles] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "SPENT" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [CLEARing OLD User PROfiles] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "HOURS". Essentially, this is a [Gerund-Participle Clause] containing the [Gerund-Participle Form] "CLEARing" combined with the [Noun Phrase as a Complement] "OLD User PROFILES" of the [Transitive Verb] "CLEARing".</li>
+          <li className="list-none margin-bottom-10">Inner block: [clearing old user profiles] - [Non-finite Clause as a Post-modifier] of [Noun as Head] "HOURS". Essentially, this is a [Gerund-Participle Clause] containing the [Gerund-Participle Form] "CLEARing" combined with the [Noun Phrase as a Complement] "OLD User PROFILES" of the [Transitive Verb] "CLEARing".</li>
       
         </ul>
 
@@ -591,13 +592,13 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block:</li>
 
-          <li className="list-none margin-bottom-10">[CLEARing the WORKspace EARly] - [Non-finite Clause as an Adjunct] of [Transitive Verb] in [Preterite Form] "LEFT" in [Main Clause], serves as an overarching causal/modal context to modify the entire main information block that follows. Essentially, it is a [Gerund-Participle Clause] standing independently at the beginning of the sentence, separated by a comma. It is a shortened form of the [Finite Clause as an Adjunct] of [Preterite Form] "LEFT", carrying the [Gerund-Participle Form] "CLEARing" combined with the [Noun Phrase as a Complement] "the WORKspace" and the [Adverb Phrase as an Adjunct] "EARly" of the [Transitive Verb] in "CLEARing."</li>
+          <li className="list-none margin-bottom-10">[Clearing the workspace early] - [Non-finite Clause as an Adjunct] of [Transitive Verb] in [Preterite Form] "LEFT" in [Main Clause], serves as an overarching causal/modal context to modify the entire main information block that follows. Essentially, it is a [Gerund-Participle Clause] standing independently at the beginning of the sentence, separated by a comma. It is a shortened form of the [Finite Clause as an Adjunct] of [Preterite Form] "LEFT", carrying the [Gerund-Participle Form] "CLEARing" combined with the [Noun Phrase as a Complement] "the WORKspace" and the [Adverb Phrase as an Adjunct] "EARly" of the [Transitive Verb] in "CLEARing."</li>
           
           <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[the WORKspace] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Gerund-Participle Form] "CLEARing".</li>
+          <li className="list-none margin-bottom-10">[the workspace] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Gerund-Participle Form] "CLEARing".</li>
 
-          <li className="list-none margin-bottom-10">[EARly] - [Adverb Phrase as an Adjunct] of [Transitive Verb] in the [Gerund-Participle Form] "CLEARing".</li>
+          <li className="list-none margin-bottom-10">[early] - [Adverb Phrase as an Adjunct] of [Transitive Verb] in the [Gerund-Participle Form] "CLEARing".</li>
       
         </ul>
 
@@ -615,7 +616,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [the requirement for a clear strategy] - [Noun Phrase as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [for a CLEAR STRATegy] - [Preposition Phrase as a Complement] of [Noun as Head] in [Deverbal Noun] "reQUIrement", which is formed from [Transitive Verb] "reQUIre" followed by [Transitive Preposition] "for."</li>
+          <li className="list-none margin-bottom-10">Inner block: [for a clear strategy] - [Preposition Phrase as a Complement] of [Noun as Head] in [Deverbal Noun] "reQUIrement", which is formed from [Transitive Verb] "reQUIre" followed by [Transitive Preposition] "for."</li>
       
         </ul>
       
@@ -631,9 +632,9 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[the deCISion] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "MADE" in the [Main Clause].</li>
+          <li className="list-none margin-bottom-10">[the decision] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "MADE" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">[after a CLEAR explanation] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in [Preterite Form] "MADE" in the [Main Clause], serving as a temporal context block that follows, beginning with the [Transitive Preposition] "after" and followed by the [Noun Phrase as a Complement] "a CLEAR explanation."</li>
+          <li className="list-none margin-bottom-10">[after a clear explanation] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in [Preterite Form] "MADE" in the [Main Clause], serving as a temporal context block that follows, beginning with the [Transitive Preposition] "after" and followed by the [Noun Phrase as a Complement] "a CLEAR explanation."</li>
       
         </ul>
 
@@ -647,9 +648,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>with a CLEAR GOAL, she QUICKly FINished the rePORT.</li>
           <li className="margin-bottom-20 list-none">She had a clear goal, so she quickly finished the report.</li>
       
-          <li className="list-none margin-bottom-10">External block: [with a CLEAR GOAL] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in [Preterite Form] "FINished" in [Main Clause], serving to establish an overarching contextual framework that modifies the entire main information block that follows, bringing along the noun phrase following "a CLEAR GOAL." The entire block is moved to the beginning of the sentence and separated by a comma.</li>
+          <li className="list-none margin-bottom-10">External block: [with a clear goal] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in [Preterite Form] "FINished" in [Main Clause], serving to establish an overarching contextual framework that modifies the entire main information block that follows, bringing along the noun phrase following "a CLEAR GOAL." The entire block is moved to the beginning of the sentence and separated by a comma.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [a CLEAR GOAL] - [Noun Phrase as a Complement] of [Transitive Preposition] "with".</li>
+          <li className="list-none margin-bottom-10">Inner block: [a clear goal] - [Noun Phrase as a Complement] of [Transitive Preposition] "with".</li>
       
         </ul>
 
@@ -671,9 +672,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>HOW you CLEAR these SYStem LOGS is confidential.</li>
           <li className="margin-bottom-20 list-none">The process for clearing system logs is confidential.</li>
       
-          <li className="list-none margin-bottom-10">External block: [HOW you CLEAR these SYStem LOGS] - [Finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" serves as the main driver of the state action. Essentially, it is an [Open Interrogative Content Clause] containing a visual linking element at the beginning, with [Pronoun as Head] "you" and the action phrase [Finite Clause] "CLEAR ..." following it.</li>
+          <li className="list-none margin-bottom-10">External block: [How you clear these system logs] - [Finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" serves as the main driver of the state action. Essentially, it is an [Open Interrogative Content Clause] containing a visual linking element at the beginning, with [Pronoun as Head] "you" and the action phrase [Finite Clause] "CLEAR ..." following it.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [these SYSTEM LOGS] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Present Form] "CLEAR".</li>
+          <li className="list-none margin-bottom-10">Inner block: [these system logs] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Present Form] "CLEAR".</li>
       
         </ul>
       
@@ -687,9 +688,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>the engiNEER who CLEARED the ERror CODES FIXED the SERver.</li>
           <li className="margin-bottom-20 list-none">The engineer who figured out the error codes fixed the server.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the engineer who cleared the error codes] - [Noun Phrase as Subject] of [Transitive Verb] in the [Preterite Form] "FIXED" in the [Main Clause] -serves as the core subject of the sentence.</li>
+          <li className="list-none margin-bottom-10">External block: [The engineer who cleared the error codes] - [Noun Phrase as Subject] of [Transitive Verb] in the [Preterite Form] "FIXED" in the [Main Clause] -serves as the core subject of the sentence.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [who CLEARED the ERROR CODES] - [Finite Clause as a Post-modifier] of [Noun as Head] "ENGINEER." Essentially, it is a [Relative Clause] containing a linking code that identifies the head, carrying a context-processing nucleus belonging to the past tense. It functions as an additional filtering module placed after a named block to identify the object [Noun as Head] "engineer".</li>
+          <li className="list-none margin-bottom-10">Inner block: [who cleared the error codes] - [Finite Clause as a Post-modifier] of [Noun as Head] "ENGINEER." Essentially, it is a [Relative Clause] containing a linking code that identifies the head, carrying a context-processing nucleus belonging to the past tense. It functions as an additional filtering module placed after a named block to identify the object [Noun as Head] "engineer".</li>
       
         </ul>
       
@@ -703,9 +704,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>the TEAM CELebrated be<strong>cause</strong> the LEADer CLEARED the PROject BUDget.</li>
           <li className="margin-bottom-20 list-none">The team was happy because the project leader had finished the budget.</li>
       
-          <li className="list-none margin-bottom-10">External block: [because the LEADer CLEARED the PROject BUDget] - [Preposition Phrase as an Adjunct] of [Intransitive Verb] in "CELebrated" within [Main Clause]. Begins with the [Transitive Preposition] "because", which serves as the cause, containing [Noun as Head] "LEADer" and the action phrase [Finite Clause] "CLEARED ..." marked by the past tense, establishing a context module to modify the preceding main clause [Main Clause] "the VENTURE succeeded."</li>
+          <li className="list-none margin-bottom-10">External block: [because the leader cleared the project budget] - [Preposition Phrase as an Adjunct] of [Intransitive Verb] in "CELebrated" within [Main Clause]. Begins with the [Transitive Preposition] "because", which serves as the cause, containing [Noun as Head] "LEADer" and the action phrase [Finite Clause] "CLEARED ..." marked by the past tense, establishing a context module to modify the preceding main clause [Main Clause] "the VENTURE succeeded."</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the PROject BUDget] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "CLEARED".</li>
+          <li className="list-none margin-bottom-10">Inner block: [the project budget] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "CLEARED".</li>
       
         </ul>
 
@@ -722,9 +723,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>i beLIEVE you CLEARED the STORage SPACE.</li>
           <li className="margin-bottom-20 list-none">I think you deleted the files from the storage space.</li>
       
-          <li className="list-none margin-bottom-10">External block: [you CLEARED the STORage SPACE] - [Finite Clause as a Complement] of [Intransitive Verb] in the [Plain Present Form] "beLIEVE" in the [Main Clause]. Essentially, the [Zero Declarative Content Clause] has hidden the "that"-oriented [Subordinator], leaving only the [Pronoun as Head] "you" and the action phrase [Finite Clause] "CLEARED ..." that follows fully visible.</li>
+          <li className="list-none margin-bottom-10">External block: [you cleared the storage space] - [Finite Clause as a Complement] of [Intransitive Verb] in the [Plain Present Form] "beLIEVE" in the [Main Clause]. Essentially, the [Zero Declarative Content Clause] has hidden the "that"-oriented [Subordinator], leaving only the [Pronoun as Head] "you" and the action phrase [Finite Clause] "CLEARED ..." that follows fully visible.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the STORage SPACE] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "CLEARED".</li>
+          <li className="list-none margin-bottom-10">Inner block: [the storage space] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "CLEARED".</li>
       
         </ul>
       
@@ -738,9 +739,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>the DESK the emPLOYee CLEARED LOOKED VERy NEAT.</li>
           <li className="margin-bottom-20 list-none">The desk that the employee cleared looked very clean and organized.</li>
       
-          <li className="list-none margin-bottom-10">External block: [the DESK the emPLOYee CLEARED] - [Noun Phrase as Subject] of [Intransitive Verb] in the [Preterite Form] "LOOKED" in [Main Clause].</li>
+          <li className="list-none margin-bottom-10">External block: [The desk the employee cleared] - [Noun Phrase as Subject] of [Intransitive Verb] in the [Preterite Form] "LOOKED" in [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the emPLOYee CLEARED] - [Finite Clause as a Post-modifier] of [Noun as Head] "DESK". Essentially, this is a [Zero Relative Clause] that omits the linking words "which" or "that" preceding the object, retaining the [Noun as Head] "employee" and the [Past Tense Form] "cleared". It functions as a modifier placed immediately after the [Noun as Head] "DESK" to clarify a characteristic of this object.</li>
+          <li className="list-none margin-bottom-10">Inner block: [the employee cleared] - [Finite Clause as a Post-modifier] of [Noun as Head] "DESK". Essentially, this is a [Zero Relative Clause] that omits the linking words "which" or "that" preceding the object, retaining the [Noun as Head] "employee" and the [Past Tense Form] "cleared". It functions as a modifier placed immediately after the [Noun as Head] "DESK" to clarify a characteristic of this object.</li>
       
         </ul>
       
@@ -754,9 +755,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>should you CLEAR the PENDing TASKS toDAY, we will START the NEW PLAN.</li>
           <li className="margin-bottom-20 list-none">If you complete the tasks that are waiting for you, we can start the new plan.</li>
       
-          <li className="list-none margin-bottom-10">External block: [should you CLEAR the PENDING TASKS TODAY] - [Finite Clause as an Adjunct] of [Transitive Verb] in [Plain Form] "START" in [Main Clause], serves to establish the hypothetical/conditional context block that modifies the entire main information section that follows. Essentially, this is an [inverted clause] that functions as a hidden [Subordinator] for the conditional "if" by inverting the [preterite modal auxiliary verb] "should" to the front. Although the surface structure is transformed, the core remains intact with [PRONOUN as HEAD] "you" and [Finite Clause] "CLEAR the PENDING TASKS TODAY".</li>
+          <li className="list-none margin-bottom-10">External block: [should you clear the pending tasks today] - [Finite Clause as an Adjunct] of [Transitive Verb] in [Plain Form] "START" in [Main Clause], serves to establish the hypothetical/conditional context block that modifies the entire main information section that follows. Essentially, this is an [inverted clause] that functions as a hidden [Subordinator] for the conditional "if" by inverting the [Preterite Modal Auxiliary Verb] "should" to the front. Although the surface structure is transformed, the core remains intact with [PRONOUN as HEAD] "you" and [Finite Clause] "CLEAR the PENDING TASKS TODAY".</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the PENDing TASKS toDAY] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Form] "CLEAR".</li>
+          <li className="list-none margin-bottom-10">Inner block: [the pending tasks today] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Form] "CLEAR".</li>
       
         </ul>
 
@@ -777,9 +778,9 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [ANalyzing HOW the PROgram CLEARS METadata] - [Non-finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" within the [Main Clause] -serves as a major task to be performed. Essentially, it is a [Gerund-Participial Clause] beginning with the [Gerund-Participle Form] "ANalyzing" and followed by supplementary elements.</li>
+          <li className="list-none margin-bottom-10">External block: [Analyzing how the program clears metadata] - [Non-finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" within the [Main Clause] -serves as a major task to be performed. Essentially, it is a [Gerund-Participial Clause] beginning with the [Gerund-Participle Form] "ANalyzing" and followed by supplementary elements.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [HOW the PROGRAM CLEARS METADATA] - [Finite Clause as a Complement] of [Transitive Verb] in [Gerund-Participle Form] "Analyzing", integrating the sequence of information received during the action to clarify the content for analysis. Essentially, it is an [Open Interrogative Content Clause] structured as a sub-block of code entirely contained within the overall code block, containing the [Adverb] "HOW", the standalone [Noun as Head] "PROgram", and the standalone [3rd Singular Present Form] "CLEARS", all set in the present tense.</li>
+          <li className="list-none margin-bottom-10">Inner block: [how the program clears metadata] - [Finite Clause as a Complement] of [Transitive Verb] in [Gerund-Participle Form] "Analyzing", integrating the sequence of information received during the action to clarify the content for analysis. Essentially, it is an [Open Interrogative Content Clause] structured as a sub-block of code entirely contained within the overall code block, containing the [Adverb] "HOW", the standalone [Noun as Head] "PROgram", and the standalone [3rd Singular Present Form] "CLEARS", all set in the present tense.</li>
       
         </ul>
 
@@ -797,9 +798,9 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [Monitoring WHY the Database CLEARS Sessions] - [Non-finite Clause as a Catative Complement] of [Transitive Verb] in the [Plain Present Form] "recomMEND" in the [Main Clause], serving as the direct object immediately following the [predicate] "recomMEND" to fully provide context for this act of recommendation. Essentially, it is a [Gerund-Participial Clause] expressed as a large expanded code block beginning with the [Gerund-Participle Form] "monitoring" and followed by the supplementary component.</li>
+          <li className="list-none margin-bottom-10">External block: [monitoring why the database clears sessions] - [Non-finite Clause as a Catative Complement] of [Transitive Verb] in the [Plain Present Form] "recomMEND" in the [Main Clause], serving as the direct object immediately following the [predicate] "recomMEND" to fully provide context for this act of recommendation. Essentially, it is a [Gerund-Participial Clause] expressed as a large expanded code block beginning with the [Gerund-Participle Form] "monitoring" and followed by the supplementary component.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [WHY the Database CLEARS Sessions] - [Finite Clause as a Complement] of [Transitive Verb] in [Gerund-Participle Form] "MONITORING", clarifying the context for monitoring. Essentially, it is an [Open Interrogative Content Clause] structured as a code block that is entirely contained within the overall code region, containing the full [Adverb] "WHY" and the specific [Noun as Head] "Database", along with the specific [3rd Singular Present Form] "CLEARS", which is set in the present tense and follows.</li>
+          <li className="list-none margin-bottom-10">Inner block: [why the database clears sessions] - [Finite Clause as a Complement] of [Transitive Verb] in [Gerund-Participle Form] "MONITORING", clarifying the context for monitoring. Essentially, it is an [Open Interrogative Content Clause] structured as a code block that is entirely contained within the overall code region, containing the full [Adverb] "WHY" and the specific [Noun as Head] "Database", along with the specific [3rd Singular Present Form] "CLEARS", which is set in the present tense and follows.</li>
       
         </ul>
 
@@ -817,13 +818,13 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none margin-bottom-10">External block: [DOUBTS about HOW they CLEAR the security check] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Simple Present Tense] "have" in the [Main Clause].</li>
+          <li className="list-none margin-bottom-10">External block: [doubts about how they clear the security check] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Simple Present Tense] "have" in the [Main Clause].</li>
 
           <li className="list-none margin-bottom-10">Inner block:</li>
 
-          <li className="list-none margin-bottom-10">[about HOW they CLEAR the seCUrity CHECK] - [Preposition Phrase as a Post-modifier] of [Noun as Head] "DOUBTS." Begins with [Transitive Preposition] "about" and is followed by a modifying phrase. Represented as a large code block.</li>
+          <li className="list-none margin-bottom-10">[about how they clear the security check] - [Preposition Phrase as a Post-modifier] of [Noun as Head] "DOUBTS." Begins with [Transitive Preposition] "about" and is followed by a modifying phrase. Represented as a large code block.</li>
           
-          <li className="list-none margin-bottom-10">[HOW they CLEAR the seCUrity CHECK] - [Finite Clause as a Complement] of [Transitive Preposition] "about". Essentially, it is an [Open Interrogative Content Clause] structured as a nested code block, containing four components: the [Adverb] "HOW", the [Pronoun as Head] "they", the [Plain Present Form] "CLEAR", and the [Noun Phrase] "the security check" that follows.</li>
+          <li className="list-none margin-bottom-10">[how they clear the security check] - [Finite Clause as a Complement] of [Transitive Preposition] "about". Essentially, it is an [Open Interrogative Content Clause] structured as a nested code block, containing four components: the [Adverb] "HOW", the [Pronoun as Head] "they", the [Plain Present Form] "CLEAR", and the [Noun Phrase] "the security check" that follows.</li>
       
         </ul>
 
@@ -844,11 +845,11 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>Parallel external block</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[diRECTly] - [Adverb Phrase as an Adjunct] of [Intransitive Verb] in the [Preterite Form] "LOOKED" in the [Main Clause]. Formed from the original [Adjective] "diRECT" by adding the suffix "-ly" to alter its form and provide contextual information about the manner.</li>
+          <li className="list-none margin-bottom-10">[directly] - [Adverb Phrase as an Adjunct] of [Intransitive Verb] in the [Preterite Form] "LOOKED" in the [Main Clause]. Formed from the original [Adjective] "diRECT" by adding the suffix "-ly" to alter its form and provide contextual information about the manner.</li>
 
-          <li className="list-none margin-bottom-10">[at where the TEAM CLEARED the LAND] - [Preposition Phrase as a Complement] of [Intransitive Verb] in the [Preterite Form] "LOOKED" in the [Main Clause]. It begins with the [Transitive Preposition] "at" and is followed by a complement, functioning as a single, overarching contextual unit of location, expressed as a broad spatial unit.</li>
+          <li className="list-none margin-bottom-10">[at where the team cleared the land] - [Preposition Phrase as a Complement] of [Intransitive Verb] in the [Preterite Form] "LOOKED" in the [Main Clause]. It begins with the [Transitive Preposition] "at" and is followed by a complement, functioning as a single, overarching contextual unit of location, expressed as a broad spatial unit.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [where the TEAM CLEARED the LAND] - [Finite Clause as a Complement] of [Transitive Preposition] "at". Essentially, it is an [Open Interrogative Content Clause] structured as a nested subclause, containing four components: the [Adverb] "where", the [Noun as Head] "TEAM", the [Preterite Form] "CLEARED" (belonging to the past tense), and the [Noun Phrase] "the LAND" that follows.</li>
+          <li className="list-none margin-bottom-10">Inner block: [where the team cleared the land] - [Finite Clause as a Complement] of [Transitive Preposition] "at". Essentially, it is an [Open Interrogative Content Clause] structured as a nested subclause, containing four components: the [Adverb] "where", the [Noun as Head] "TEAM", the [Preterite Form] "CLEARED" (belonging to the past tense), and the [Noun Phrase] "the LAND" that follows.</li>
       
         </ul>
       
@@ -869,9 +870,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>CLEARing the BROWser CACHE is NECessary.</li>
           <li className="margin-bottom-20 list-none">You need to clear the cache in your browser.</li>
       
-          <li className="list-none margin-bottom-10">External block: [CLEARing the BROWser CACHE] - [Non-finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause]. Essentially, it is a [Gerund-Participle Clause] composed of the [Gerund-Participle Form] "CLEARing" and its accompanying object.</li>
+          <li className="list-none margin-bottom-10">External block: [clearing the browser cache] - [Non-finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause]. Essentially, it is a [Gerund-Participle Clause] composed of the [Gerund-Participle Form] "CLEARing" and its accompanying object.</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [the BROWser CACHE] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Gerund-Participle Form] "CLEARing".</li>
+          <li className="list-none margin-bottom-10">Inner block: [the browser cache] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Gerund-Participle Form] "CLEARing".</li>
       
         </ul>
       
@@ -883,9 +884,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>EMPtying the TEMporary FOLDer is NECessary.</li>
           <li className="margin-bottom-20 list-none">You need to empty the temporary folder.</li>
       
-          <li className="list-none margin-bottom-10">New external block: [EMPtying the TEMporary FOLDer]—[Non-finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause]. Essentially, this is a [Gerund-Participle Clause] composed of a continuous action [Gerund-Participle Form] "EMPtying", combined with the new external block.</li>
+          <li className="list-none margin-bottom-10">New external block: [emptying the temporary folder] - [Non-finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause]. Essentially, this is a [Gerund-Participle Clause] composed of a continuous action [Gerund-Participle Form] "EMPtying", combined with the new external block.</li>
           
-          <li className="list-none margin-bottom-10">New inner block: [the TEMporary FOLDer] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Gerund-Participle Form] "EMPtying".</li>
+          <li className="list-none margin-bottom-10">New inner block: [the temporary folder] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Gerund-Participle Form] "EMPtying".</li>
       
         </ul>
 
@@ -902,7 +903,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [the performance] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "improved" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">Parallel block: [by CLEARing OLD DAtabase LOGS] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "imPROVED" in the [Main Clause], beginning with the [Transitive Preposition] "by" followed by an action phrase [Finite Clause as a Complement] "CLEARing ..." following "by."</li>
+          <li className="list-none margin-bottom-10">Parallel block: [by clearing old database logs] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "imPROVED" in the [Main Clause], beginning with the [Transitive Preposition] "by" followed by an action phrase [Finite Clause as a Complement] "CLEARing ..." following "by."</li>
       
         </ul>
       
@@ -916,7 +917,7 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [the performance] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "improved" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">New parallel block: [because the SYSTEM CLEARED all JUNK DATA] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [past tense] "improved" in the [Main Clause]. Beginning with the [Transitive Preposition] "because", which contains "the SYSTEM CLEARED ...", this is a [Finite Clause as a Complement] of the [Transitive Preposition] "because", serving as the causal context at a higher level.</li>
+          <li className="list-none margin-bottom-10">New parallel block: [because the system cleared all junk data] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [past tense] "improved" in the [Main Clause]. Beginning with the [Transitive Preposition] "because", which contains "the SYSTEM CLEARED ...", this is a [Finite Clause as a Complement] of the [Transitive Preposition] "because", serving as the causal context at a higher level.</li>
       
         </ul>
 
@@ -930,9 +931,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>i LIKE an appliCAtion which CLEARS STORage SMOOTHly.</li>
           <li className="margin-bottom-20 list-none">I like an app that clears storage in a smooth way.</li>
       
-          <li className="list-none margin-bottom-10">External block: [an application that clears storage smoothly]—[Noun Phrase as a Complement] of [Transitive Verb] in the  [Plain Present Form] "LIKE" in the [Main Clause].</li>
+          <li className="list-none margin-bottom-10">External block: [an application that clears storage smoothly] - [Noun Phrase as a Complement] of [Transitive Verb] in the  [Plain Present Form] "LIKE" in the [Main Clause].</li>
          
-          <li className="list-none margin-bottom-10">Inner block: [which CLEARS STORage SMOOTHly] - [Finite Clause as a Post-modifier] of [Noun as Head] "appliCAtion". Essentially, this is a [Relative Clause] structured as a full relative clause following a noun phrase, containing the relative pronoun "which" and the finite clause [Finite Clause] "CLEARS ..." that follows. It functions as a filtering module to define the characteristics of the object "appliCAtion".</li>
+          <li className="list-none margin-bottom-10">Inner block: [which clears storage smoothly] - [Finite Clause as a Post-modifier] of [Noun as Head] "appliCAtion". Essentially, this is a [Relative Clause] structured as a full relative clause following a noun phrase, containing the relative pronoun "which" and the finite clause [Finite Clause] "CLEARS ..." that follows. It functions as a filtering module to define the characteristics of the object "appliCAtion".</li>
       
         </ul>
       
@@ -944,9 +945,9 @@ export default function CLEAR(): React.JSX.Element {
           <li>i LIKE a CLEAR SYStem LAYout.</li>
           <li className="margin-bottom-20 list-none">I prefer a system with a clear layout.</li>
       
-          <li className="list-none margin-bottom-10">New external block: [a CLEAR SYSTEM LAYOUT] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Present Form] "LIKE" in the [Main Clause].</li>
+          <li className="list-none margin-bottom-10">New external block: [a clear system layout] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Present Form] "LIKE" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">New inner block: [CLEAR] - [Adjective as a Pre-modifier] of [Noun as Head] "LAYout". Formed from the original [Lexical Verb] "CLEAR", in its completely raw state, without any additional embellishments, condensed into the [Deverbal Adjective] "CLEAR", which has been fully condensed into a single component. Positioned immediately before the [Noun Phrase] "SYStem LAYout" to scan and concisely display the characteristics of that object.</li>
+          <li className="list-none margin-bottom-10">New inner block: [clear] - [Adjective as a Pre-modifier] of [Noun as Head] "LAYout". Formed from the original [Lexical Verb] "CLEAR", in its completely raw state, without any additional embellishments, condensed into the [Deverbal Adjective] "CLEAR", which has been fully condensed into a single component. Positioned immediately before the [Noun Phrase] "SYStem LAYout" to scan and concisely display the characteristics of that object.</li>
       
         </ul>
 
@@ -964,7 +965,7 @@ export default function CLEAR(): React.JSX.Element {
 
           <li className="list-none margin-bottom-10">[the implementation] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "STARTed" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">[after a CLEAR BRIEFing] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "STARTed" in the [Main Clause]. It begins with the [Transitive Preposition]indicating the time marker "after", followed by the [Noun Phrase]. This serves as the temporal context that establishes the basis for the main action [Preterite Form] "STARTed."</li>
+          <li className="list-none margin-bottom-10">[after a clear briefing] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "STARTed" in the [Main Clause]. It begins with the [Transitive Preposition]indicating the time marker "after", followed by the [Noun Phrase]. This serves as the temporal context that establishes the basis for the main action [Preterite Form] "STARTed."</li>
       
         </ul>
       
@@ -978,9 +979,9 @@ export default function CLEAR(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10"><strong>New parallel block</strong>:</li>
 
-          <li className="list-none margin-bottom-10">[the implemenTAtion] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "STARTed" in the [Main Clause].</li>
+          <li className="list-none margin-bottom-10">[the implementation] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "STARTed" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">[with a CLEAR BRIEFing] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "STARTed" in the [Main Clause]. Beginning with the [Transitive Preposition] "with" and the [Noun Phrase] "a CLEAR BRIEFing" following it, the phrase is inserted to precisely fulfill the role of establishing the contextual framework for the main action without altering the overall structural arrangement.</li>
+          <li className="list-none margin-bottom-10">[with a clear briefing] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in the [Preterite Form] "STARTed" in the [Main Clause]. Beginning with the [Transitive Preposition] "with" and the [Noun Phrase] "a CLEAR BRIEFing" following it, the phrase is inserted to precisely fulfill the role of establishing the contextual framework for the main action without altering the overall structural arrangement.</li>
       
         </ul>
 

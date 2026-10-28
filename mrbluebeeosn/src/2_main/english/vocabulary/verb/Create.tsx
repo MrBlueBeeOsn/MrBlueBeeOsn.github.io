@@ -221,7 +221,7 @@ export default function creATE(): React.JSX.Element {
               <li>the TEAM should creATE a NEW MARketing STRATegy imMEdiately.</li>
               <li className="margin-bottom-20 list-none">The team should make a new marketing plan now.</li>
 
-              <li className="list-none margin-bottom-10">Block: [creATE] - [Plain Form], formed from the original [Lexical Verb] "create", is followed by the [PRETerite MOdal auXILiary VERB] "should" to carry out the action directed toward the direct recipient "a NEW Marketing STRATegy."</li>
+              <li className="list-none margin-bottom-10">Block: [creATE] - [Plain Form], formed from the original [Lexical Verb] "create", is followed by the [Preterite Modal Auxiliary Verb] "should" to carry out the action directed toward the direct recipient "a NEW Marketing STRATegy."</li>
           
             </ul>
 
@@ -338,7 +338,7 @@ export default function creATE(): React.JSX.Element {
       <ol className="margin-top-40">
 			
 					<li value="1">[<strong>CLAUSE</strong>]: because [it rains].</li>
-					<li className="list-none">Traditional textbooks teach you that "CLAUSE" is "mệnh đề" or "vế". But to a native speaker, a CLAUSE is simply a distinct, self-contained 'ĐIỀU' (unit). In law, it is a ĐIỀU khoản (legal unit). In grammar, it is a ĐIỀU câu (grammatical unit). Understanding it this way helps you think exactly like a native speaker.</li>
+					<li className="list-none">Traditional textbooks teach you that "Clause" is "Mệnh Đề" or "Vế". But to a native speaker, a Clause is simply a distinct, self-contained 'Điều' (Unit). In law, it is a "Điều Khoản" (Legal Unit). In grammar, it is a "Điều Câu" (Grammatical Unit). Understanding it this way helps you think exactly like a native speaker.</li>
 
 					<li className="margin-y-20 list-none"><strong>Why prepoSITion PHRASE</strong>, <strong>not conJUNCtion CLAUSE</strong>?</li>
 
@@ -488,7 +488,7 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as extraPOSED SUBject</strong>] <strong>consists of</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>bổ nghĩa</strong> [<strong>DUMmy PROnoun</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as extraPOSED SUBject</strong>] <strong>consists of</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>làm</strong> <strong>modifying</strong> [<strong>DUMmy PROnoun</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole" id="4e">Example 4e:</p>
       
@@ -507,7 +507,7 @@ export default function creATE(): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole"><strong>2.2</strong> <strong>Forming the construction</strong>: [<strong>NOUN PHRASE</strong>]</p>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>GERund-PARTiciple CLAUSE</strong>] <strong>biểu thị hành động đang diễn ra</strong>, <strong>chủ động</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>containing a</strong> [<strong>GERund-PARTiciple CLAUSE</strong>] <strong>indicates an ongoing action</strong>, <strong>active voice</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole" id="5a">Example 5a:</p>
       
@@ -524,7 +524,7 @@ export default function creATE(): React.JSX.Element {
       
     
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>biểu thị hành động sắp xảy ra</strong>, <strong>chủ động</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>containing</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>indicates an action about to take place</strong>, <strong>active</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole" id="5b">Example 5b:</p>
       
@@ -540,7 +540,7 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>biểu thị hành động sắp xảy ra</strong>, <strong>bị động</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>containing</strong> [<strong>to-infiniTIval CLAUSE</strong>] <strong>indicates an action that is about to occur</strong>, <strong>in the passive voice</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole" id="5c">Example 5c:</p>
       
@@ -556,7 +556,7 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>PAST PARTiciple CLAUSE</strong>] <strong>biểu thị hành động đã xong</strong>, <strong>bị động</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>containing</strong> [<strong>PAST PARTiciple CLAUSE</strong>] <strong>indicates a completed</strong>, <strong>passive action</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole" id="5d">Example 5d:</p>
       
@@ -572,7 +572,7 @@ export default function creATE(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>chứa</strong> [<strong>ADjective PHRASE as a post-MODifier</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>] <strong>containing</strong> [<strong>ADjective PHRASE as a post-MODifier</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole" id="5e">Example 5e:</p>
       
@@ -583,14 +583,14 @@ export default function creATE(): React.JSX.Element {
       
           <li className="list-none margin-bottom-10">External block: [a STRATegy creAtive in its exeCUtion] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Present Form] "NEED" in the [Main Clause].</li>
           
-          <li className="list-none margin-bottom-10">Inner block: [creative in its execution] - [adjective phrase as a post-modifier] of [Noun as Head] "strategy" to modify, define characteristics, and directly describe the capabilities of that entity. Formed from the original [lexical verb] "create" by adding the suffix "-ive" and combining it with a [prepositional phrase] following it: "in its execution."</li>
+          <li className="list-none margin-bottom-10">Inner block: [creative in its execution] - [Adjective Phrase as a Post-modifier] of [Noun as Head] "strategy" to modify, define characteristics, and directly describe the capabilities of that entity. Formed from the original [lexical verb] "create" by adding the suffix "-ive" and combining it with a [prepositional phrase] following it: "in its execution."</li>
       
         </ul>
       
       
       <p className="margin-top-20 text-indent-whole"><strong>2.3</strong> <strong>Forming the construction</strong>: [<strong>non-FInite CLAUSE as an ADjunct</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>consists of</strong> [<strong>GERund-PARTiciple CLAUSE</strong>] <strong>có dấu phẩy</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>non-FInite CLAUSE as an ADjunct</strong>] <strong>consists of a</strong> [<strong>GERund-PARTiciple CLAUSE</strong>] <strong>separated by a comma</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole" id="6a">Example 6a:</p>
       
@@ -825,7 +825,7 @@ export default function creATE(): React.JSX.Element {
           <li>should the PROgram creATE TECHnical ERrors, aLERT the SYStem adMINistrator.</li>
           <li className="margin-bottom-20 list-none">If the program causes technical problems, let the system administrator know.</li>
       
-          <li className="list-none margin-bottom-10">External block: [should the program create technical errors] - [Finite Clause as an Adjunct] of [Transitive Verb] in [Plain Form] "alert" in [Main Clause], serving to establish a hypothetical/conditional context and modify the action and command that follow. Essentially, it is an [inverted clause] that operates in a hidden state as a [Subordinator] for the conditional "if" by inverting the [preterite modal auxiliary verb] "should" to the front; although the surface structure changes, the essence remains fully intact [Noun as Head] "PROgram" and [Finite Clause] "creATE TECHnical ERrors".</li>
+          <li className="list-none margin-bottom-10">External block: [should the program create technical errors] - [Finite Clause as an Adjunct] of [Transitive Verb] in [Plain Form] "alert" in [Main Clause], serving to establish a hypothetical/conditional context and modify the action and command that follow. Essentially, it is an [inverted clause] that operates in a hidden state as a [Subordinator] for the conditional "if" by inverting the [Preterite Modal Auxiliary Verb] "should" to the front; although the surface structure changes, the essence remains fully intact [Noun as Head] "PROgram" and [Finite Clause] "creATE TECHnical ERrors".</li>
           
           <li className="list-none margin-bottom-10">Inner block: [TECHnical ERrors] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Form] "creATE".</li>
       
