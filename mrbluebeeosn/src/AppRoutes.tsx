@@ -169,7 +169,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const NguyenAmDon = lazy(() => import('@/2_main/english/tienganh/pronunciation/NguyenAmDon'));
 	const NguyenAmDoi = lazy(() => import('@/2_main/english/tienganh/pronunciation/NguyenAmDoi'));
 
-	const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/tienganh/GiaoVienTiengAnh'));
+	const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/tienganh/WhatisanEnglishteacher'));
 
 	const SauDangHanhDong1 = lazy(() => import('@/2_main/english/tienganh/verbs/SixTypesofVerbs'));
 	const SauDangHanhDong2 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangHanhDong2'));
