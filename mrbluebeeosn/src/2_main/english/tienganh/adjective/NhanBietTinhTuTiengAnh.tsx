@@ -178,84 +178,84 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">7. Có xu hướng… / mang tính…: -ive</h4>
+			<h4 className="margin-y-40">7. Tends to… / is… in nature: -ive</h4>
 					
 			<p className="margin-top-20 text-indent-whole">ACtive, creAtive, atTRACtive, efFECtive, SENsitive</p>
 			
 				<ul className="list-square">
 			
 					<li>Even in her SEVenties, she reMAINS VERy <strong>ACtive</strong> and GOES JOGging <strong>ever</strong>y MORNing.</li>
-					<li className="margin-bottom-20 list-none">Dù đã ở tuổi bảy mươi, bà ấy vẫn rất <strong>năng động</strong> và đi chạy bộ mỗi buổi sáng.</li>
+					<li className="margin-bottom-20 list-none">Even though she is seventy years old, she is still very active. She goes jogging every morning.</li>
 			
 					<li>the MARketing TEAM caME UP with a <strong>creAtive</strong> camPAIGN to atTRACT YOUNGer CUStomers.</li>
-					<li className="margin-bottom-20 list-none">Đội ngũ tiếp thị đã đưa ra một chiến dịch <strong>sáng tạo</strong> để thu hút khách hàng trẻ tuổi.</li>
+					<li className="margin-bottom-20 list-none">The Marketing team thought of a new way to sell their products. They want to attract young customers.</li>
 
 					<li>the hisTORical TOWN has <strong>man</strong>y ANcient BUILDings and an <strong>atTRACtive</strong> OLD-WORLD CHARM.</li>
-					<li className="margin-bottom-20 list-none">Thị trấn lịch sử này có rất nhiều tòa nhà cổ và một vẻ đẹp <strong>quyến rũ</strong> mang hơi hướng hoài cổ.</li>
+					<li className="margin-bottom-20 list-none">The historic town boasts many old buildings and an appealing old-world charm.</li>
 			
 					<li>REGular HANDwashing is ONE of the MOST <strong>efFECtive</strong> WAYS to preVENT the SPREAD of ILLness.</li>
-					<li className="margin-bottom-20 list-none">Rửa tay thường xuyên là một trong những cách <strong>hiệu quả</strong> nhất để ngăn chặn sự lây lan của bệnh tật.</li>
+					<li className="margin-bottom-20 list-none">Washing your hands regularly is one of the best ways to stop germs from spreading.</li>
 			
 					<li>you NEED to be CAREful with your WORDS be<strong>cause</strong> she is VERy <strong>SENsitive</strong> to CRITicism.</li>
-					<li className="list-none">Bạn cần cẩn thận với lời nói của mình vì cô ấy rất <strong>nhạy cảm</strong> với những lời chỉ trích.</li>
+					<li className="list-none">Choose your words carefully because she takes criticism personally.</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">8. Có đặc điểm… / giống như…: -y</h4>
+			<h4 className="margin-y-40">8. Has the characteristic… / is like…: -y</h4>
 					
 			<p className="margin-top-20 text-indent-whole">HAPpy, RAIny, SUNny, HEALthy, TAsty, CLOUdy</p>
 			
 				<ul className="list-square">
 
 					<li>she LOOKED VERy <strong>HAPpy</strong> when she reCEIVED the GOOD NEWS a<strong>bout</strong> her proMOtion.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy trông rất <strong>vui vẻ</strong> khi nhận được tin vui về việc được thăng chức.</li>
+					<li className="margin-bottom-20 list-none">She was very happy when she found out she was being promoted.</li>
 			
 					<li>it was a COLD and <strong>RAIny</strong> afterNOON, so we deCIDed to STAY inDOORS and WATCH a MOvie.</li>
-					<li className="margin-bottom-20 list-none">Đó là một buổi chiều lạnh và <strong>có mưa</strong>, vì vậy chúng tôi quyết định ở trong nhà và xem phim.</li>
+					<li className="margin-bottom-20 list-none">It was a very cold and rainy afternoon. Because of this, we decided to stay inside and watch a movie.</li>
 			
 					<li>we SPENT our WEEKend at the BEACH be<strong>cause</strong> the WEAther was BRIGHT and <strong>SUNny</strong>.</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã dành cuối tuần ở bãi biển vì thời tiết sáng sủa và <strong>có nhiều nắng</strong>.</li>
+					<li className="margin-bottom-20 list-none">We went to the beach over the weekend because it was sunny.</li>
 
 					<li>EATing PLENty of FRESH VEGETables and EXercising REGularly KEEPS your BOdy <strong>HEALthy</strong>.</li>
-					<li className="margin-bottom-20 list-none">Ăn nhiều rau tươi và tập thể dục thường xuyên giúp cơ thể bạn <strong>khỏe mạnh</strong>.</li>
+					<li className="margin-bottom-20 list-none">If you eat lots of fresh vegetables and exercise regularly, you'll have a healthy body.</li>
 			
 					<li>my GRANDmother COOKED a <strong>TAsty</strong> BOWL of BEEF NOOdle SOUP for BREAKfast.</li>
-					<li className="margin-bottom-20 list-none">Bà của tôi đã nấu một bát phở bò <strong>ngon miệng</strong> cho bữa sáng.</li>
+					<li className="margin-bottom-20 list-none">My grandmother used to make a tasty bowl of beef noodle soup for breakfast.</li>
 			
 					<li>the SKY beCAME <strong>CLOUdy</strong> in the afterNOON, but THANKfully it DIDn't RAIN.</li>
-					<li className="list-none">Bầu trời trở nên <strong>nhiều mây</strong> vào buổi chiều, nhưng may mắn là trời không mưa.</li>
+					<li className="list-none">It started to rain in the afternoon, but it didn't.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">9. Cảm thấy…: -ed</h4>
+			<h4 className="margin-y-40">9. Feel…: -ed</h4>
 					
 			<p className="margin-top-20 text-indent-whole">BORED, TIred, exCIted, INTERested, surPRISED</p>
 			
 				<ul className="list-square">
 			
 					<li>he FELT <strong>BORED</strong> be<strong>cause</strong> there was NOthing to DO on a RAIny SUNday afterNOON.</li>
-					<li className="margin-bottom-20 list-none">Anh ấy cảm thấy <strong>chán nản</strong> vì chẳng có việc gì để làm vào một buổi chiều Chủ Nhật mưa gió.</li>
+					<li className="margin-bottom-20 list-none">He was bored. There was nothing to do on a rainy Sunday afternoon.</li>
 			
 					<li><strong>af</strong>ter WORKing for TEN HOURS STRAIGHT, she was TOO <strong>TIred</strong> to COOK DINner.</li>
-					<li className="margin-bottom-20 list-none">Sau khi làm việc suốt mười tiếng đồng hồ, cô ấy quá <strong>mệt mỏi</strong> để nấu bữa tối.</li>
+					<li className="margin-bottom-20 list-none">She worked for ten hours without stopping. Then she was too tired to cook dinner.</li>
 
 					<li>the KIDS were SO <strong>exCIted</strong> a<strong>bout</strong> GOing to the aMUSEment PARK toMORrow.</li>
-					<li className="margin-bottom-20 list-none">Bọn trẻ rất <strong>hào hứng</strong> về việc đi công viên giải trí vào ngày mai.</li>
+					<li className="margin-bottom-20 list-none">The kids couldn't wait to go to the amusement park tomorrow.</li>
 			
 					<li>i am VERy <strong>INTERested</strong> in LEARNing MORE a<strong>bout</strong> artiFIcial inTELligence.</li>
-					<li className="margin-bottom-20 list-none">Tôi rất <strong>quan tâm</strong> đến việc tìm hiểu thêm về trí tuệ nhân tạo.</li>
+					<li className="margin-bottom-20 list-none">I want to know more about artificial intelligence.</li>
 			
 					<li>we were <strong>surPRISED</strong> by the unexPECted BIRTHday PARTy our FRIENDS THREW for us.</li>
-					<li className="list-none">Chúng tôi đã rất <strong>ngạc nhiên</strong> trước bữa tiệc sinh nhật bất ngờ mà những người bạn tổ chức cho mình.</li>
+					<li className="list-none">We were surprised by a birthday party that our friends threw for us.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">10. Gây ra cảm giác…: -ing</h4>
+			<h4 className="margin-y-40">10. To evoke a feeling…: -ing</h4>
 					
 			<p className="margin-top-20 text-indent-whole">BORing, TIRing, INTEResting, exCIting, conFUsing</p>
 
@@ -263,90 +263,90 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the LECture was SO <strong>BORing</strong> that MOST of the STUdents FELL aSLEEP.</li>
-					<li className="margin-bottom-20 list-none">Bài giảng <strong>nhàm chán</strong> đến mức phần lớn học sinh đã ngủ gật.</li>
+					<li className="margin-bottom-20 list-none">The lecture was so boring that most of the students fell asleep.</li>
 			
 					<li>HIKing up the MOUNtain all DAY was VERy <strong>TIRing</strong>, but the VIEW at the TOP was WORTH it.</li>
-					<li className="margin-bottom-20 list-none">Việc đi bộ đường dài lên núi suốt cả ngày rất <strong>mệt</strong>, nhưng phong cảnh trên đỉnh thì rất đáng giá.</li>
+					<li className="margin-bottom-20 list-none">Hiking up the mountain all day was really tiring, but the view at the top made it worth the effort.</li>
 
 					<li>she TOLD me an <strong>INTEResting</strong> STORy a<strong>bout</strong> her TRIP to jaPAN.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy kể cho tôi nghe một câu chuyện <strong>thú vị</strong> về chuyến đi Nhật Bản của cô ấy.</li>
+					<li className="margin-bottom-20 list-none">She told me an exciting story about her trip to Japan.</li>
 			
 					<li>WINning the CHAMpionship MATCH was the MOST <strong>exCIting</strong> MOment of his caREER.</li>
-					<li className="margin-bottom-20 list-none">Chiến thắng trận chung kết là khoảnh khắc <strong>hào hứng</strong> nhất trong sự nghiệp của anh ấy.</li>
+					<li className="margin-bottom-20 list-none">His career reached its most exciting point when he won the championship match.</li>
 			
 					<li>the inSTRUCtions for asSEMbling the BOOKshelf were TOO <strong>conFUsing</strong> to FOLlow.</li>
-					<li className="list-none">Hướng dẫn lắp ráp chiếc kệ sách quá <strong>khó hiểu</strong> để có thể làm theo.</li>
+					<li className="list-none">The instructions for building the bookshelf were too confusing.</li>
 			
 				</ul>
 			
 
-			<h3 className="margin-y-50 text-center">Mẹo “bắt bài” siêu nhanh khi làm bài</h3>
+			<h3 className="margin-y-50 text-center">Tips for “spotting” words super fast while taking a test</h3>
 
-			<p>Gặp các đuôi -<strong>able</strong>, -<strong>ible</strong>, -<strong>ous</strong>, -<strong>ful</strong>, -<strong>less</strong>, -<strong>al</strong>, -<strong>ic</strong>, -<strong>ive</strong>, -<strong>y</strong> → gần như chắc chắn là ADjective (90% trường hợp).</p>
+			<p>If you see the endings -able, -ible, -ous, -ful, -less, -al, -ic, -ive, or -y → it’s almost certainly an adjective (90% of the time).</p>
 
-			<p>Cặp đôi -<strong>ed</strong> vs -<strong>ing</strong> cực kỳ phổ biến trong bài thi:</p>
+			<p>The -ed vs. -ing pair is extremely common on tests:</p>
 
-			<p className="margin-top-20">-<strong>ed</strong> → cảm xúc của <strong>người</strong></p>
+			<p className="margin-top-20">-ed → a person's emotions</p>
 			
 				<ul className="list-square">
 			
 					<li>i’m INTERested.</li>
-					<li className="margin-bottom-20 list-none">Tôi quan tâm.</li>
+					<li className="margin-bottom-20 list-none">This interests me.</li>
 			
 					<li>i’m BORED.</li>
-					<li className="margin-bottom-20 list-none">Tôi chán quá.</li>
+					<li className="margin-bottom-20 list-none">I'm tired of this.</li>
 			
 					<li>i’m TIred.</li>
-					<li className="list-none">Tôi mệt.</li>
+					<li className="list-none">All this has left me tired.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20">-<strong>ing</strong> → đặc điểm của <strong>sự việc</strong></p>
+			<p className="margin-top-20">-ing → characteristics of the event</p>
 			
 				<ul className="list-square">
 			
 					<li>The LESson is INTEResting.</li>
-					<li className="margin-bottom-20 list-none">Bài học thì rất thú vị.</li>
+					<li className="margin-bottom-20 list-none">The lesson is fun.</li>
 			
 					<li>The LESson is BORing.</li>
-					<li className="margin-bottom-20 list-none">Bài học thật chán quá.</li>
+					<li className="margin-bottom-20 list-none">This lesson is boring.</li>
 			
 					<li>The LESson is TIRing.</li>
-					<li className="list-none">Buổi học thật mệt mỏi.</li>
+					<li className="list-none">The lesson is tiresome.</li>
 			
 				</ul>
 			
 
-			<h3 className="margin-y-50 text-center">Một số ví dụ minh họa sinh động</h3>
+			<h3 className="margin-y-50 text-center">Some vivid examples</h3>
 
-			<p>Hãy tưởng tượng những tình huống đời thường sau:</p>
+			<p>Imagine the following everyday situations:</p>
 			
 				<ul className="list-square">
 
-					<li>Cô ấy rất <strong>CAREful</strong> khi lái xe → cẩn thận (người cảm thấy)</li>
+					<li>She’s very CAREful when she drives → careful (a person’s state of mind)</li>
 
-					<li>Con đường này <strong>DANgerous</strong> lắm! → nguy hiểm (đặc điểm của đường)</li>
+					<li>This road is very DANgerous! → dangerous (a characteristic of the road)</li>
 
-					<li>Món ăn này <strong>deLICious</strong> quá! → ngon tuyệt (mô tả món ăn)</li>
+					<li>This dish is so deLICious! → absolutely delicious (a description of the dish)</li>
 
-					<li>Tôi cảm thấy <strong>HOPEless</strong> khi thi trượt lần thứ ba → tuyệt vọng (cảm xúc cá nhân)</li>
+					<li>I felt HOPEless when I failed the exam for the third time → hopeless (a personal emotion)</li>
 			
-					<li>Bộ phim đó <strong>exCITing</strong> từ đầu đến cuối → hấp dẫn, gây hứng thú</li>
+					<li>That movie was exCITing from start to finish → captivating, engaging</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Chỉ 10 phút mỗi ngày, sau 3 ngày bạn sẽ thấy: Tiếng Anh không còn là “ĐỘNG lằng nhằng” nữa, mà chỉ còn 3 cặp đấu tay đôi vui vẻ và dễ nhớ!</p>
+			<p className="margin-top-20">Just 10 minutes a day, and after 3 days you’ll see: English is no longer a “messy jumble” - it’s just 3 fun and easy-to-remember pairings!</p>
 
-			<h3 className="margin-y-50 text-center">Tóm lại – Top 8 đuôi “vàng” cần ghi nhớ ngay hôm nay</h3>
+			<h3 className="margin-y-50 text-center">In Summary – The Top 8 “Golden” Endings You Need to Remember Today</h3>
 
 			<p>-<strong>able</strong>/-<strong>ible</strong> – <strong>ous</strong> – <strong>ful</strong> – <strong>less</strong> – <strong>al</strong> – <strong>ic</strong>/-<strong>ical</strong> – <strong>ive</strong> – <strong>y</strong></p>
 					
-			<p>Chỉ cần nắm vững 8 đuôi này, bạn đã có “vũ khí bí mật” để nhận diện ADjective cực nhanh trong bài đọc hiểu, điền từ, viết câu hay thậm chí khi nói chuyện với người bản xứ.</p>
+			<p>Just by mastering these 8 suffixes, you’ll have a “secret weapon” for quickly identifying adjectives in reading comprehension, fill-in-the-blank exercises, writing sentences, or even when talking to native speakers.</p>
 			
-			<p>Hãy thử áp dụng ngay hôm nay: lấy một bài báo tiếng Anh, gạch chân tất cả từ có đuôi trong danh sách trên và xem bạn đoán đúng bao nhiêu % nhé!</p>
+			<p>Try it out today: pick an English article, underline all the words with the endings listed above, and see what percentage you get right!</p>
 
-			<p>Chúc bạn học tốt và sớm trở thành “pro” nhận diện TÍNH! 🌟</p>
+			<p>Good luck with your studies, and may you soon become a “pro” at identifying adjectives! 🌟</p>
 
 			<div className="viewcounter">
 			
