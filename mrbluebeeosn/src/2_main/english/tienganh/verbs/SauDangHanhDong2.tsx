@@ -19,7 +19,7 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">6 Dạng [Hành Động]
 												
-				<sup><HashLink smooth to="/tieng-anh/6-dang-hanh-dong-1">&nbsp;1&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/6-types-of-verbs">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/6-dang-hanh-dong-2">&nbsp;2&nbsp;</HashLink>

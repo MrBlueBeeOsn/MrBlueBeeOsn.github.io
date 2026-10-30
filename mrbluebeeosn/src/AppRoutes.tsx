@@ -171,7 +171,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/tienganh/GiaoVienTiengAnh'));
 
-	const SauDangHanhDong1 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangHanhDong1'));
+	const SauDangHanhDong1 = lazy(() => import('@/2_main/english/tienganh/verbs/SixTypesofVerbs'));
 	const SauDangHanhDong2 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangHanhDong2'));
 
 	const PREsentPERfect = lazy(() => import('@/2_main/english/tienganh/verbs/PREsentPERfect'));
@@ -820,7 +820,7 @@ export default function AppRoutes(): React.JSX.Element {
 
 					<Route path="/tieng-anh/giao-vien-tieng-anh-la-gi" element={<GiaoVienTiengAnh />} />
 
-					<Route path="/tieng-anh/6-dang-hanh-dong-1" element={<SauDangHanhDong1 />} />
+					<Route path="/tieng-anh/6-types-of-verbs" element={<SauDangHanhDong1 />} />
 					<Route path="/tieng-anh/6-dang-hanh-dong-2" element={<SauDangHanhDong2 />} />
 
 					<Route path="/tieng-anh/present-perfect" element={<PREsentPERfect />} />
