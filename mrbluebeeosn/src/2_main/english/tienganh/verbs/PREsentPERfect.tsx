@@ -19,52 +19,52 @@ export default function PREsentPERfect(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">PREsent PERfect</h1>					
 
-			<h4 className="margin-bottom-30 text-center">Hiểu Đúng Về 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</h4>
+			<h4 className="margin-bottom-30 text-center">Understanding 📏 the Time Frame of the Present Perfect Tense</h4>
 
-			<p>Bạn đã bao giờ tự hỏi: "📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành có phải dùng để nói về hành động chưa hoàn thành trong quá khứ không?" Đây là một câu hỏi rất phổ biến của người học tiếng Anh, và câu trả lời là <strong>đúng một phần</strong>, nhưng chưa đầy đủ. Hãy cùng mình khám phá sâu hơn về thời này để nắm rõ và dùng chính xác nhé!</p>
+			<p>Have you ever wondered, “📏 Is the Present Perfect Tense used to talk about actions that were not yet completed in the past?” This is a very common question among English learners, and the answer is partly correct, but not entirely. Let’s dive deeper into this tense together so you can fully understand and use it correctly!</p>
 
-			<h3 className="margin-y-50 text-center">📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Là Gì?</h3>
+			<h3 className="margin-y-50 text-center">📏 What Is the Present Perfect Tense?</h3>
 
-			<p>📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành được cấu tạo bởi <strong>have/has</strong> + <strong>ĐỘNG ở dạng AST PARticiple</strong> (V3).</p>
+			<p>📏 The Present Perfect Tense is formed using "have/has" + the verb in the past participle form (V3).</p>
 
-			<p className="text-indent-whole">Ví dụ:</p>
+			<p className="text-indent-whole">For example:</p>
 
 				<ul className="list-square">
 
 					<li>i <strong>have JUST FINished</strong> WRIting this ARticle.</li>
-					<li className="margin-bottom-20 list-none">Tôi <strong>vừa mới viết xong</strong> bài báo này.</li>
+					<li className="margin-bottom-20 list-none">I just finished writing this article.</li>
 
-					<li className="margin-bottom-20 list-none">Từ just được dùng để nhấn mạnh một hành động vừa mới xảy ra ngay trước thời điểm nói.</li>
+					<li className="margin-bottom-20 list-none">The word "just" is used to emphasize an action that has just taken place immediately before the moment of speaking.</li>
 
-					<li>she <strong>has LIVED</strong> in saiGON since TWENty fifTEEN.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy <strong>đã sống</strong> ở Sài Gòn từ năm 2015.</li>
+					<li>she <strong>has LIVED</strong> in San Francisco since TWENty fifTEEN.</li>
+					<li className="margin-bottom-20 list-none">She has lived in San Francisco since 2015.</li>
 					
-					<li className="margin-bottom-20 list-none">Từ since kết hợp với một mốc thời gian cụ thể (2015) dùng để chỉ hành động bắt đầu từ quá khứ và vẫn đang tiếp tục kéo dài đến hiện tại.</li>
+					<li className="margin-bottom-20 list-none">The word "since," when used with a specific date (2015), is used to indicate an action that began in the past and is still continuing into the present.</li>
 
 				</ul>
 
-			<p className="margin-top-20">Khác với ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (Past Simple), 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành <strong>luôn có sự liên kết với hiện tại</strong>. Nó không chỉ kể về quá khứ mà còn nhấn mạnh hậu quả hoặc sự tiếp diễn đến thời điểm bây giờ.</p>
+			<p className="margin-top-20">Unlike ⏳ the time of the action in the Past Simple, 📏 the time of the action in the Present Perfect is always connected to the present. It not only describes the past but also emphasizes the consequences or the continuation of the action up to the present.</p>
 
-			<h3 className="margin-y-50 text-center">Các Ý Nghĩa Chính Của 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</h3>
+			<h3 className="margin-y-50 text-center">The Main Meanings of 📏 the Present Perfect Tense</h3>
 
 			{/* 1. Hành động bắt đầu trong quá khứ và vẫn tiếp diễn đến hiện tại */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">1. Hành động bắt đầu trong quá khứ và vẫn tiếp diễn đến hiện tại</h3>
+				<h3 className="margin-y-50 text-center">1. An action that began in the past and is still ongoing in the present</h3>
 
-				<p>Đây chính là trường hợp "hành động chưa hoàn thành" mà nhiều bạn hay nghĩ đến.</p>
+				<p>This is exactly the case of an "incomplete action" that many of you often think of.</p>
 
 					<ul className="list-square">
 
 						<li>i <strong>have WORKED</strong> at this COMpany for FIVE YEARS.</li>
-						<li className="margin-bottom-20 list-none">Tôi <strong>đã làm việc</strong> ở công ty này được 5 năm (rồi).</li>
+						<li className="margin-bottom-20 list-none">I've been employed at this company for the last five years.</li>
 
-						<li className="list-none">Câu này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với từ for để chỉ một hành động bắt đầu trong quá khứ và vẫn tiếp tục kéo dài đến thời điểm hiện tại (bây giờ tôi vẫn đang làm ở công ty này).</li>
+						<li className="list-none">This sentence uses 📏 the Present Perfect Tense with the word "for" to indicate an action that began in the past and is still ongoing at the present time (I’m still working at this company now).</li>
 
-						<li className="list-none">→ Bắt đầu làm việc 5 năm trước → vẫn đang làm việc bây giờ → hành động chưa kết thúc.</li>
+						<li className="list-none">→ Started working 5 years ago → still working now → the action hasn’t ended.</li>
 
-						<li className="list-none">Thường đi với <strong>for</strong> (khoảng thời gian) hoặc <strong>since</strong> (mốc thời gian).</li>
+						<li className="list-none">It is usually used with “for” (a period of time) or “since” (a specific point in time).</li>
 
 					</ul>
 
@@ -74,29 +74,29 @@ export default function PREsentPERfect(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">2. Hành động đã hoàn thành trong quá khứ nhưng kết quả vẫn ảnh hưởng đến hiện tại</h3>
+				<h3 className="margin-y-50 text-center">2. Actions that were completed in the past but whose results still affect the present</h3>
 
-				<p>Ở đây, hành động <strong>đã xong</strong>, nhưng hậu quả còn rõ ràng ở hiện tại, và không đề cập thời gian cụ thể.</p>
+				<p>Here, the action has been completed, but its consequences are still evident in the present, and no specific time is mentioned.</p>
 
 					<ul className="list-square">
 
 						<li>i <strong>have LOST</strong> my WALlet.</li>
-						<li className="margin-bottom-20 list-none">Tôi <strong>đã làm mất</strong> ví tiền của mình (rồi).</li>
+						<li className="margin-bottom-20 list-none">I lost my wallet.</li>
 
-						<li className="list-none">Nhấn mạnh kết quả ở hiện tại (bây giờ tôi vẫn chưa tìm lại được ví).</li>
-						<li className="list-none">→ Đã làm mất ví (không nói lúc nào) → hiện tại vẫn không có ví → cần tìm hoặc làm lại.</li>
+						<li className="list-none">Emphasizing the current situation (I still haven't found my wallet).</li>
+						<li className="list-none">→ I lost my wallet (without specifying when) → I still don't have my wallet → I need to find it or get a new one.</li>
 
 					</ul>
 
-				<p className="margin-top-20">Nếu nói thời gian cụ thể:</p>
+				<p className="margin-top-20">If we're talking about a specific time:</p>
 
 					<ul className="list-square">
 
 						<li>i <strong>LOST</strong> my WALlet YESterday.</li>
-						<li className="margin-bottom-20 list-none">Tôi <strong>đã làm mất</strong> ví tiền của mình vào ngày hôm qua.</li>
+						<li className="margin-bottom-20 list-none">Yesterday, I lost my wallet.</li>
 						
-						<li className="list-none">Nhấn mạnh hành động mất ví xảy ra và kết thúc vào thời điểm cụ thể trong quá khứ (YESterday).</li>
-						<li className="list-none">→ dùng PAST SIMple.</li>
+						<li className="list-none">Emphasize that the act of losing the wallet occurred and ended at a specific time in the past (YESterday).</li>
+						<li className="list-none">→ Use the PAST Simple.</li>
 
 					</ul>
 
@@ -106,27 +106,27 @@ export default function PREsentPERfect(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">3. Nói về kinh nghiệm cá nhân đến thời điểm hiện tại</h3>
+				<h3 className="margin-y-50 text-center">3. Discuss your personal experiences to date</h3>
 
 				<ul className="list-square">
 
 						<li>he <strong>has VISited</strong> jaPAN THREE TIMES.</li>
-						<li className="margin-bottom-20 list-none">Anh ấy <strong>đã đến thăm</strong> Nhật Bản ba lần rồi.</li>
+						<li className="margin-bottom-20 list-none">He has traveled to Japan a total of three times.</li>
 
-						<li className="list-none">→ Trong cuộc đời đến nay, anh ấy đã đến Nhật 3 lần.</li>
+						<li className="list-none">→ So far in his life, he has been to Japan three times.</li>
 
-						<li className="margin-top-20">Thường dùng với <Link to="/vocabulary/EVer-1">EVer</Link>, <Link to="/vocabulary/NEVer-1">NEVer</Link>, alREAdy, YET, JUST, REcently..</li>
+						<li className="margin-top-20">Commonly used with <Link to="/vocabulary/EVer-1">EVer</Link>, <Link to="/vocabulary/NEVer-1">NEVer</Link>, alREAdy, YET, JUST, REcently...</li>
 
 					</ul>
 			</div>
 
-				<h3 className="margin-y-50 text-center">So Sánh Nhanh Với ⏳ Thời Gian Hành Động ở Quá Khứ Đơn</h3>
+				<h3 className="margin-y-50 text-center">Quick Comparison with ⏳ the Simple Past Tense</h3>
 
 				<table className="margin-y-50">
 					<thead>
 						<tr>
-							<th>📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</th>
-							<th>⏳ Thời Gian Hành Động ở Quá Khứ Đơn</th>
+							<th>📏 Time Period of Action in the Present Perfect Tense</th>
+							<th>⏳ Action Time in the Simple Past</th>
 						</tr>
 					</thead>
 
@@ -135,49 +135,49 @@ export default function PREsentPERfect(): React.JSX.Element {
 						<tr>
 								<td>
 									i <strong>have SEEN</strong> that MOvie.<br/>
-									Tôi <strong>đã xem</strong> bộ phim đó rồi.<br/><br/>
+									I've watched that movie.<br/><br/>
 									
-									(và giờ mình biết nội dung)
+									(and now I know what it's about)
 								</td>
 								<td>
 									I <strong>SAW</strong> that MOvie LAST WEEK.<br/>
-									Tôi <strong>đã xem</strong> bộ phim đó vào tuần trước.<br/><br/>
+									I watched the movie last week.<br/><br/>
 
-									(chỉ kể sự kiện)
+									(list only the events)
 								</td>
 						</tr>
 
 						<tr>
-								<td>Liên quan đến hiện tại</td>
-								<td>Chỉ xảy ra và kết thúc trong quá khứ</td>
+								<td>Regarding the present</td>
+								<td>It occurred and ended only in the past</td>
 						</tr>
 
 						<tr>
-								<td>Không có thời gian cụ thể (hoặc <strong>for</strong>/<strong>since</strong>)</td>
-								<td>Có thời gian cụ thể (<strong>YESterday</strong>, <strong>in 2020</strong>)</td>
+								<td>No specific time (or "for" or "since")</td>
+								<td>Has a specific time (YESterday, in 2020)</td>
 						</tr>
 
 					</tbody>
 				</table>
 
-			<h3 className="margin-y-50 text-center">Mẹo Nhớ Nhanh</h3>
+			<h3 className="margin-y-50 text-center">Quick Memory Tips</h3>
 
-			<p>→ Dùng <strong>PREsent PERfect</strong>: Nếu bạn đang nghĩ về hậu quả hiện tại hoặc sự tiếp diễn đến bây giờ.</p>
+			<p>→ Use the Present Perfect: If you're thinking about current consequences or something that has been ongoing up to now.</p>
 
-			<p>→ Dùng <strong>PAST SIMple</strong>: Nếu chỉ kể chuyện quá khứ như một sự kiện đã xong.</p>
+			<p>→ Use the past simple: If you're simply recounting a past event as something that has already happened.</p>
 
-			<p className="margin-top-20">📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành không khó, chỉ cần luyện tập là sẽ quen thôi! Hãy thử viết vài câu về bản thân bằng thời này xem sao:</p>
+			<p className="margin-top-20">📏 The Present Perfect Tense isn’t hard - you’ll get the hang of it with a little practice! Try writing a few sentences about yourself using this tense and see how it goes:</p>
 			
 				<ul className="list-square">
 			
 					<li>WHERE have you LIVED?</li>
-					<li className="margin-bottom-20 list-none">Bạn đã từng sống ở đâu? / Bạn đã sinh sống ở những đâu rồi?</li>
+					<li className="margin-bottom-20 list-none">Where did you grow up?</li>
 			
 					<li>WHAT have you EAten toDAY?</li>
-					<li className="margin-bottom-20 list-none">Hôm nay bạn đã ăn những gì rồi?</li>
+					<li className="margin-bottom-20 list-none">What did you have for dinner today?</li>
 			
 					<li>have you EVer TRAVeled aBROAD?</li>
-					<li className="list-none">Bạn đã từng đi du lịch nước ngoài bao giờ chưa?</li>
+					<li className="list-none">Have you ever taken a trip that was very long and wide?</li>
 			
 				</ul>
 
