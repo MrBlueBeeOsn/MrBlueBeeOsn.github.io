@@ -654,7 +654,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
           <ul className="list-border1">
 
-            <li><Link to="/tieng-anh/giao-vien-tieng-anh-la-gi?">What is an English teacher?</Link></li>
+            <li><Link to="/tieng-anh/what-is-an-english-teacher?">What is an English teacher?</Link></li>
             
           </ul>
 
