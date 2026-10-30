@@ -826,7 +826,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/present-perfect" element={<PREsentPERfect />} />
 
 					<Route path="/tieng-anh/gerunds-and-infinitives" element={<GerundsAndInfinitives />} />
-					<Route path="/tieng-anh/bi-quyet-nhan-biet-tinh-tu-trong-tieng-anh" element={<NhanBietTinhTuTiengAnh />} />
+					<Route path="/tieng-anh/tips-for-recognizing-adjectives" element={<NhanBietTinhTuTiengAnh />} />
 
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-1" element={<BiMatVeTuDuyNgonNgu1 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />

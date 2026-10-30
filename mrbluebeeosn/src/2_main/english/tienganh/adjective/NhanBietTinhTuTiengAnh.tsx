@@ -17,162 +17,162 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#adjective-terms"><mark className="highlight-tertiary-padding-4-8">ADjective</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Bí Quyết Nhận Biết [TÍNH] Tiếng Anh Nhanh Như Chớp Qua Đuôi Từ</h1>
+			<h1 className="margin-y-50 text-center">Tips for Recognizing ADJECTIVES in English in the Blink of an Eye by Looking at the Word Endings</h1>
 
-			<p>Bạn có bao giờ cảm thấy bối rối khi phải phân biệt <strong>TÍNH</strong> (<strong>adjective</strong>) với các từ loại khác trong câu? Đừng lo! Trong tiếng Anh, hầu hết ADjective đều để lại “dấu vân tay” rất rõ ràng qua <strong>đuôi từ</strong> (<strong>suffix</strong>). Chỉ cần ghi nhớ khoảng 8–10 đuôi phổ biến nhất, bạn đã có thể đoán đúng đến 85–90% các ADjective khi làm bài thi, viết luận hay giao tiếp hàng ngày.</p>
+			<p>Have you ever felt confused about distinguishing adjectives from other parts of speech in a sentence? Don’t worry! In English, most adjectives leave a very clear “fingerprint” through their suffixes. Just by memorizing about 8-10 of the most common suffixes, you’ll be able to correctly identify 85–90% of adjectives when taking tests, writing essays, or communicating in everyday situations.</p>
 			
-			<p>Dưới đây là hướng dẫn chi tiết, sinh động và dễ nhớ nhất để bạn “bắt bài” ADjective chỉ trong tích tắc!</p>
+			<p>Here’s the most detailed, engaging, and easy-to-remember guide to help you “crack the code” on adjectives in the blink of an eye!</p>
 
-			<h3 className="margin-y-50 text-center">Tại sao đuôi từ lại “bật mí” TÍNH? Tóm tắt các đuôi ADjective phổ biến nhất</h3>
+			<h3 className="margin-y-50 text-center">Why Do Word Endings “Reveal” ADJECTIVES? A Summary of the Most Common ADJECTIVE Endings</h3>
 
-			<p>TÍNH thường được tạo ra từ NOUN hoặc hành động bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.</p>
+			<p>ADJECTIVES are often formed from NOUNS or verbs by adding suffixes. Each suffix carries a specific meaning, helping us quickly identify the word’s role in a sentence.</p>
 					
-			<p>Dưới đây là <strong>bảng tóm tắt các đuôi ADjective phổ biến nhất</strong> kèm rất nhiều ví dụ thực tế:</p>
+			<p>Below is a summary table of the most common ADJECTIVE endings, along with many real-life examples:</p>
 
-			<h4 className="margin-y-40">1. Có thể… / đáng…: -able / -ible</h4>
+			<h4 className="margin-y-40">1. Can… / worth…: -able / -ible</h4>
 					
 			<p className="margin-top-20 text-indent-whole">COMFORtable, reSPONsible, FLEXible, VISible, inCREDible</p>
 			
 				<ul className="list-square">
 			
 					<li><strong>af</strong>ter a LONG DAY at WORK, I LOVE reLAXing on my <strong>COMFORtable</strong> SOfa with a GOOD BOOK.</li>
-					<li className="margin-bottom-20 list-none">Sau một ngày dài làm việc, tôi thích thư giãn trên chiếc ghế sofa <strong>thoải mái</strong> của mình với một cuốn sách hay.</li>
+					<li className="margin-bottom-20 list-none">I love unwinding on my cozy sofa with a good book after a long day at work.</li>
 			
 					<li>as a TEAM LEADer, he is <strong>reSPONsible</strong> for MAking SURE all PROJects are comPLEted on TIME.</li>
-					<li className="margin-bottom-20 list-none">Với tư cách là trưởng nhóm, anh ấy <strong>chịu trách nhiệm</strong> đảm bảo tất cả các dự án được hoàn thành đúng hạn.</li>
+					<li className="margin-bottom-20 list-none">His job as the team leader is to make sure that all projects are finished on time.</li>
 
 					<li>our COMpany OFfers <strong>FLEXible</strong> WORKing HOURS, alLOWing emPLOYees to START WORK between EIGHT AM and TEN AM.</li>
-					<li className="margin-bottom-20 list-none">Công ty chúng tôi cung cấp giờ làm việc <strong>linh hoạt</strong>, cho phép nhân viên bắt đầu làm việc trong khoảng từ 8 giờ sáng đến 10 giờ sáng.</li>
+					<li className="margin-bottom-20 list-none">Our company lets employees start work between 8:00 a.m. and 10:00 a.m. We also offer flexible working hours.</li>
 			
 					<li>the STARS are CLEARly <strong>VISible</strong> toNIGHT be<strong>cause</strong> the SKY is comPLETEly FREE of CLOUDS.</li>
-					<li className="margin-bottom-20 list-none">Các vì sao có thể nhìn thấy <strong>rõ ràng</strong> vào đêm nay vì bầu trời hoàn toàn không có mây.</li>
+					<li className="margin-bottom-20 list-none">You can see the stars at night when the sky is clear of clouds.</li>
 			
 					<li>the ACrobat perFORMED an <strong>inCREDible</strong> STUNT that LEFT the AUdience CHEERing in aMAZEment.</li>
-					<li className="list-none">Người biểu diễn nhào lộn đã thực hiện một pha biểu diễn <strong>đáng kinh ngạc</strong> khiến khán giả hò reo trong ngạc nhiên.</li>
+					<li className="list-none">The performer amazed the audience with an incredible stunt.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">2. Đầy… / có nhiều…: -ous</h4>
+			<h4 className="margin-y-40">2. Full of… / having many…: -ous</h4>
 					
 			<p className="margin-top-20 text-indent-whole">DANgerous, FAmous, deLICious, CURious, eNORmous</p>
 			
 				<ul className="list-square">
 			
 					<li>SWIMming in this DEEP RIVer <strong>dur</strong>ing a HEAVy STORM is exTREMEly <strong>DANgerous</strong>.</li>
-					<li className="margin-bottom-20 list-none">Bơi lội ở dòng sông sâu này trong một trận bão lớn là cực kỳ <strong>nguy hiểm</strong>.</li>
+					<li className="margin-bottom-20 list-none">Swimming in this river during a storm is very dangerous. The river is deep, and there are strong currents.</li>
 			
 					<li>PARis is FAmous for its <strong>roMANtic</strong> ATmosphere and iCONic LANDmarks like the EIFFel TOWer.</li>
-					<li className="margin-bottom-20 list-none">Paris nổi tiếng với bầu không khí <strong>lãng mạn</strong> và các thắng cảnh biểu tượng như Tháp Eiffel.</li>
+					<li className="margin-bottom-20 list-none">Paris is famous for its romantic feel and well-known attractions, like the Eiffel Tower.</li>
 
 					<li>my MOTHer BAKED a <strong>deLICious</strong> CHOCOLate CAKE for my BIRTHday PARTy.</li>
-					<li className="margin-bottom-20 list-none">Mẹ tôi đã nướng một chiếc bánh sô-cô-la <strong>ngon tuyệt</strong> cho bữa tiệc sinh nhật của tôi.</li>
+					<li className="margin-bottom-20 list-none">For my birthday party, my mom baked a delicious chocolate cake.</li>
 			
 					<li>CHILDren are NATURally <strong>CURious</strong> a<strong>bout</strong> the WORLD around them and ALWAYS ASK <strong>man</strong>y QUESTions.</li>
-					<li className="margin-bottom-20 list-none">Trẻ em vốn dĩ <strong>tò mò</strong> về thế giới xung quanh và luôn đặt ra rất nhiều câu hỏi.</li>
+					<li className="margin-bottom-20 list-none">Kids are always interested in the world around them and have a lot of questions.</li>
 			
 					<li>the COMpany MADE an <strong>eNORmous</strong> PROFit this YEAR <strong>af</strong>ter LAUNCHing their NEW PRODuct LINE.</li>
-					<li className="list-none">Công ty đã thu về lợi nhuận <strong>khổng lồ</strong> trong năm nay sau khi ra mắt dòng sản phẩm mới của họ.</li>
+					<li className="list-none">The company made a lot of money this year after they released their new products.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">3. Đầy… / có chất lượng tốt: -ful</h4>
+			<h4 className="margin-y-40">3. Full… / of good quality: -ful</h4>
 					
 			<p className="margin-top-20 text-indent-whole">BEAUtiful, CAREful, HELPful, sucCESSful, POWerful</p>
 			
 				<ul className="list-square">
 			
 					<li>we WATCHED a <strong>BEAUtiful</strong> SUNset over the Ocean on our last EVening of the HOLiday.</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã ngắm nhìn một hoàng hôn <strong>đẹp tuyệt vời</strong> trên đại dương vào buổi tối cuối cùng của kỳ nghỉ.</li>
+					<li className="margin-bottom-20 list-none">On our last night of the trip, we watched the sunset over the ocean. It was beautiful.</li>
 			
 					<li>PLEASE be <strong>CAREful</strong> with that FRAGile GLASS VASE while MOving it to the LIVing ROOM.</li>
-					<li className="margin-bottom-20 list-none">Xin hãy <strong>cẩn thận</strong> với chiếc bình thủy tinh dễ vỡ đó khi chuyển nó vào phòng khách.</li>
+					<li className="margin-bottom-20 list-none">Be careful when moving the fragile glass vase to the living room.</li>
 
 					<li>the LOcal TOURist GUIDE GAVE us <strong>HELPful</strong> adVICE on where to FIND the BEST STREET FOOD.</li>
-					<li className="margin-bottom-20 list-none">Hướng dẫn viên du lịch địa phương đã cho chúng tôi những lời khuyên <strong>hữu ích</strong> về nơi tìm thấy những món ăn đường phố ngon nhất.</li>
+					<li className="margin-bottom-20 list-none">The local tourist guide gave us helpful advice on where to find the best street food.</li>
 			
 					<li><strong>af</strong>ter years of HARD WORK, her TECH STARTup FInally beCAME a <strong>sucCESSful</strong> GLObal COMpany.</li>
-					<li className="margin-bottom-20 list-none">Sau nhiều năm làm việc chăm chỉ, công ty khởi nghiệp công nghệ của cô ấy cuối cùng đã trở thành một công ty toàn cầu <strong>thành công</strong>.</li>
+					<li className="margin-bottom-20 list-none">After working hard for years, her technology startup finally became a global company that was very successful.</li>
 			
 					<li>the CEO deLIVered a <strong>POWerful</strong> SPEECH that inSPIred all the emPLOYees at the MEETing.</li>
-					<li className="list-none">Giám đốc điều hành đã có một bài phát biểu <strong>mạnh mẽ</strong> truyền cảm hứng cho tất cả nhân viên trong cuộc họp.</li>
+					<li className="list-none">The CEO gave a great speech that motivated all the employees at the meeting.</li>
 			
 				</ul>
 			
 
-			<h4 className="margin-y-40">4. Không… / thiếu…: -less</h4>
+			<h4 className="margin-y-40">4. No… / lacking…: -less</h4>
 					
 			<p className="margin-top-20 text-indent-whole">HOPEless, CAREless, HOMEless, ENDless, USEless</p>
 			
 				<ul className="list-square">
 			
 					<li>he FELT <strong>HOPEless</strong> <strong>af</strong>ter FAILing the eXAM for the THIRD TIME, but his TEACHer enCOURaged him to TRY aGAIN.</li>
-					<li className="margin-bottom-20 list-none">Anh ấy cảm thấy <strong>tuyệt vọng</strong> sau khi trượt kỳ thi lần thứ ba, nhưng giáo viên của anh ấy đã động viên anh thử lại.</li>
+					<li className="margin-bottom-20 list-none">After failing the exam for the third time, he felt hopeless, but his teacher encouraged him to try again.</li>
 			
 					<li>MAking a <strong>CAREless</strong> misTAKE on the FInal MATH TEST COST him the HIGHest GRADE in the CLASS.</li>
-					<li className="margin-bottom-20 list-none">Việc mắc một lỗi <strong>bất cẩn</strong> trong bài kiểm tra toán cuối kỳ đã khiến cậu ấy mất đi điểm số cao nhất lớp.</li>
+					<li className="margin-bottom-20 list-none">He made a careless mistake on the final math test. Because of that, he got the highest grade in the class.</li>
 
 					<li>the LOcal CHARity ORganization proVIDES FOOD and SHELter for <strong>HOMEless</strong> PEOple <strong>dur</strong>ing the COLD WINter MONTHS.</li>
-					<li className="margin-bottom-20 list-none">Tổ chức từ thiện địa phương cung cấp thức ăn và chỗ ở cho những người <strong>vô gia cư</strong> trong những tháng mùa đông lạnh giá.</li>
+					<li className="margin-bottom-20 list-none">During the cold winter months, the local charity organization provides food and shelter for people without homes.</li>
 			
 					<li>we were STUCK in <strong>ENDless</strong> TRAFfic on the HIGHway for over TWO HOURS.</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã mắc kẹt trong dòng xe cộ <strong>vô tận</strong> trên đường cao tốc hơn hai tiếng đồng hồ.</li>
+					<li className="margin-bottom-20 list-none">We got stuck in traffic on the highway. We were stuck there for over two hours.</li>
 			
 					<li>THROWing aWAY BROken elecTRONics is BETter than KEEPing them aROUND as <strong>USEless</strong> CLUTter.</li>
-					<li className="list-none">Vứt bỏ đồ điện tử bị hỏng đi còn hơn là giữ chúng lại xung quanh như những thứ bề bộn <strong>vô dụng</strong>.</li>
+					<li className="list-none">Don't keep broken electronics around. Throw them away instead. They're just collecting dust and taking up space.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">5. Thuộc về… / liên quan đến…: -al</h4>
+			<h4 className="margin-y-40">5. Belonging to… / related to…: -al</h4>
 					
 			<p className="margin-top-20 text-indent-whole">NATional, PERsonal, NATURal, SOcial, traDITional</p>
 			
 				<ul className="list-square">
 			
 					<li>indePENdence DAY is a MAjor <strong>NATional</strong> HOLiday CELibrated aCROSS the COUNtry.</li>
-					<li className="margin-bottom-20 list-none">Ngày Quốc khánh là một ngày lễ lớn của <strong>quốc gia</strong> được kỷ niệm trên khắp đất nước.</li>
+					<li className="margin-bottom-20 list-none">Independence Day is a national holiday that is celebrated all over the country.</li>
 			
 					<li>she KEEPS her <strong>PERsonal</strong> DIary LOCKED in a DRAWer where NO ONE ELSE can READ it.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy giữ cuốn nhật ký <strong>cá nhân</strong> của mình khóa trong một ngăn kéo nơi không ai khác có thể đọc được.</li>
+					<li className="margin-bottom-20 list-none">She keeps her personal diary locked in a drawer so that no one else can read it.</li>
 
 					<li>HONey is a deLICious and HEALthy <strong>NATURal</strong> SWEETener USED in <strong>man</strong>y RECipes.</li>
-					<li className="margin-bottom-20 list-none">Mật ong là một chất làm ngọt <strong>tự nhiên</strong> ngon miệng và lành mạnh được sử dụng trong nhiều công thức nấu ăn.</li>
+					<li className="margin-bottom-20 list-none">Honey is a tasty and healthy natural sweetener that you can use in many different recipes.</li>
 			
 					<li>volunTEERing at the LOcal FOOD BANK is a GREAT WAY to BUILD STRONG <strong>SOcial</strong> conNECtions.</li>
-					<li className="margin-bottom-20 list-none">Làm tình nguyện tại ngân hàng thực phẩm địa phương là một cách tuyệt vời để xây dựng các mối quan hệ <strong>xã hội</strong> khăng khít.</li>
+					<li className="margin-bottom-20 list-none">Volunteering at the local food bank is a great way to make new friends.</li>
 			
 					<li>my FAMILy ALways GATHers to COOK <strong>traDITional</strong> DISHes <strong>dur</strong>ing the LUnar NEW YEAR.</li>
-					<li className="list-none">Gia đình tôi luôn quây quần nấu các món ăn <strong>truyền thống</strong> trong dịp Tết Nguyên Đán.</li>
+					<li className="list-none">My family always gets together to cook traditional foods during the Lunar New Year.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">6. Có tính chất… / thuộc về…: -ic / -ical</h4>
+			<h4 className="margin-y-40">6. Having the nature of… / pertaining to…: -ic / -ical</h4>
 					
 			<p className="margin-top-20 text-indent-whole">ecoNOMic, scienTIFic, hisTORic, roMANtic, psychoLOgical</p>
 			
 				<ul className="list-square">
 			
 					<li>the COUNtry is CURrently FAcing MAjor <strong>ecoNOMic</strong> CHALlenges due to inFLAtion.</li>
-					<li className="margin-bottom-20 list-none">Đất nước hiện đang phải đối mặt với những thách thức <strong>kinh tế</strong> lớn do lạm phát.</li>
+					<li className="margin-bottom-20 list-none">The country is currently facing major economic challenges because prices are rising quickly.</li>
 			
 					<li>reSEARCHers USED <strong>scienTIFic</strong> MEthods to TEST the SAFEty of the NEW MEDicine.</li>
-					<li className="margin-bottom-20 list-none">Các nhà nghiên cứu đã sử dụng các phương pháp <strong>khoa học</strong> để kiểm tra độ an toàn của loại thuốc mới.</li>
+					<li className="margin-bottom-20 list-none">Researchers used science-based methods to test whether the new medicine was safe.</li>
 
 					<li>the TWO NAtions SIGNED a <strong>hisTORic</strong> PEACE aGREEment <strong>af</strong>ter DEcades of CONflict.</li>
-					<li className="margin-bottom-20 list-none">Hai quốc gia đã ký kết một hiệp định hòa bình <strong>mang tính lịch sử</strong> sau nhiều thập kỷ xung đột.</li>
+					<li className="margin-bottom-20 list-none">After many years of fighting, the two countries made a very important agreement to stop the fighting and become friends.</li>
 			
 					<li>he PLANNED a <strong>roMANtic</strong> DINner by the BEACH with CANdles and SOFT MUsic.</li>
-					<li className="margin-bottom-20 list-none">Anh ấy đã lên kế hoạch cho một bữa tối <strong>lãng mạn</strong> bên bờ biển với nến và âm nhạc du dương.</li>
+					<li className="margin-bottom-20 list-none">He planned a romantic dinner by the beach. He wanted to make it special, so he arranged for candles and soft music.</li>
 			
 					<li>STRESS and anXIety can have SERious <strong>psychoLOgical</strong> and PHYSical efFECTS on a PERson.</li>
-					<li className="list-none">Căng thẳng và lo âu có thể gây ra những ảnh hưởng nghiêm trọng về mặt <strong>tâm lý</strong> và thể chất đối với một người.</li>
+					<li className="list-none">Stress and anxiety can have serious effects on a person's mental and physical health.</li>
 			
 				</ul>
 			
