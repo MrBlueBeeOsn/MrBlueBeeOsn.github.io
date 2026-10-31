@@ -52,15 +52,15 @@ export default function SixTypesofVerbs(): React.JSX.Element {
 					<ul className="list-square">
 
 						<li>i WORK from HOME.</li>
-						<li className="list-none">Tôi làm việc ở nhà.</li>
+						<li className="list-none">I am a work-from-home employee.</li>
 						<li className="margin-bottom-20 list-none">Affirmative form. Used to describe how or where you usually work at present.</li>
 
 						<li>do you WORK on WEEKends?</li>
-						<li className="list-none">Bạn có làm việc vào các ngày cuối tuần không?</li>
+						<li className="list-none">Do you have a job on weekends?</li>
 						<li className="margin-bottom-20 list-none">Question type (interrogative). The auxiliary verb is moved to the beginning of the sentence to ask about the other person’s habits or work schedule.</li>
 
 						<li>they DON'T WORK VERy HARD.</li>
-						<li className="list-none">Họ không làm việc chăm chỉ cho lắm.</li>
+						<li className="list-none">They don't put much effort into their work.</li>
 						<li className="margin-bottom-20 list-none">Negative form. Use "DON'T" (do NOT) with the base form of the verb "WORK" to express that an action is not taking place in the present.</li>
 
 					</ul>
@@ -72,15 +72,15 @@ export default function SixTypesofVerbs(): React.JSX.Element {
 					<ul className="list-square">
 
 						<li>she WORKS in a BIG COMpany.</li>
-						<li className="list-none">Cô ấy làm việc trong một công ty lớn.</li>
+						<li className="list-none">She has a job at a big company.</li>
 						<li className="margin-bottom-20 list-none">Used to express a fact or a stable condition in the present. The verb "WORK" takes an "S" because the subject is third-person singular (she).</li>
 
 						<li>he LIKES SPIcy FOOD.</li>
-						<li className="list-none">Anh ấy thích đồ ăn cay.</li>
+						<li className="list-none">He enjoys spicy food.</li>
 						<li className="margin-bottom-20 list-none">Used to describe current preferences, habits, or tastes. The verb "LIKE" takes an "s" when the subject is "he."</li>
 
 						<li>the PHONE RINGS a LOT toDAY.</li>
-						<li className="list-none">Điện thoại reo rất nhiều trong ngày hôm nay.</li>
+						<li className="list-none">The phone rings quite a bit today.</li>
 						<li className="margin-bottom-20 list-none">Used to describe an event that repeats itself many times during the present (today). The verb "RING" takes an "S" because the subject is a singular noun (the PHONE).</li>
 
 					</ul>
@@ -99,40 +99,40 @@ export default function SixTypesofVerbs(): React.JSX.Element {
 
 					<p>Worked (simple past): Used to describe an action that has been completed and took place at a specific time in the past.</p>
 
-					<p className="text-indent-whole">Ví dụ:</p>
+					<p className="text-indent-whole">For example:</p>
 
 					<ul className="list-square">
 
 						<li>YESterday i WORKED until MIDnight.</li>
-						<li className="list-none">Hôm qua tôi đã làm việc cho đến tận nửa đêm. (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
-						<li className="margin-bottom-20 list-none">The action extended until a specific point in the past (MIDnight) and is associated with the clear time marker YESterday.</li>
+						<li className="list-none">Yesterday I was working late, past midnight.</li>
+						<li className="margin-bottom-20 list-none">⏳ Action Time in the Simple Past. The action extended until a specific point in the past (MIDnight) and is associated with the clear time marker YESterday.</li>
 
 						<li>we ATE SUshi LAST NIGHT.</li>
-						<li className="list-none">Chúng tôi đã ăn sushi vào tối qua. (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
-						<li className="margin-bottom-20 list-none">The irregular verb "EAT" changes to "ATE," combined with the past time expression "LAST NIGHT."</li>
+						<li className="list-none">Last night, we had sushi.</li>
+						<li className="margin-bottom-20 list-none">⏳ Action Time in the Simple Past. The irregular verb "EAT" changes to "ATE," combined with the past time expression "LAST NIGHT."</li>
 
 						<li>she WENT to jaPAN TWO YEARS aGO.</li>
-						<li className="list-none">Cô ấy đã đi Nhật Bản cách đây hai năm. (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
-						<li className="margin-bottom-20 list-none">The irregular verb "go" is conjugated as "WENT," combined with the phrase "TWO YEARS AGO" (two years ago) to indicate a point in time that has passed in the past.</li>
+						<li className="list-none">She traveled to Japan two years ago.</li>
+						<li className="margin-bottom-20 list-none">⏳ Action Time in the Simple Past. The irregular verb "go" is conjugated as "WENT," combined with the phrase "TWO YEARS AGO" (two years ago) to indicate a point in time that has passed in the past.</li>
 
 					</ul>
 
-				<p className="margin-top-20">Have/Has/had WORKED (past participle in 📏 the time frame of the action in the Present Perfect: Used to describe experiences or results that extend to the present (Present Perfect) or to a point in the past (Past Perfect).</p>
+				<p className="margin-top-20">Have/Has/had WORKED (past participle in 📏 the time frame of the action in the Present Perfect) - Used to describe experiences or results that extend to the present (Present Perfect) or to a point in the past (Past Perfect).</p>
 
-					<p className="text-indent-whole">Ví dụ:</p>
+					<p className="text-indent-whole">For example:</p>
 
 					<ul className="list-square">
 
 						<li>i have WORKED HERE for 5 YEARS.</li>
-						<li className="list-none">Tôi đã làm việc ở đây được 5 năm.</li>
+						<li className="list-none">I have worked in this place for five years.</li>
 						<li className="margin-bottom-20 list-none">📏 The Present Perfect Tense. This structure is used to describe an action that began in the past and is still ongoing in the present (as of now, I am still working here).</li>
 
 						<li>she has NEVer EAten DURian.</li>
-						<li className="list-none">Cô ấy chưa bao giờ ăn sầu riêng.</li>
+						<li className="list-none">She has never tried durian before.</li>
 						<li className="margin-bottom-20 list-none">📏 The Present Perfect Tense. The adverb "never" is often used to describe experiences up to the present time.</li>
 
 						<li>by 5 p.M., we had FINished all the TASKS.</li>
-						<li className="list-none">Trước 5 giờ chiều, chúng tôi đã hoàn thành tất cả các nhiệm vụ.</li>
+						<li className="list-none">By 5 p.m., we had completed all the tasks we needed to do.</li>
 						<li className="margin-bottom-20 list-none">📏 The Past Perfect Tense. Used to describe an action that was completed before a specific point in the past (before 5 p.m. that day).</li>
 
 					</ul>
@@ -151,41 +151,41 @@ export default function SixTypesofVerbs(): React.JSX.Element {
 
 				<p>be WORKing (the -ing form – present participle): Used with am/is/are (⏱️ Present Continuous Tense), was/were, or after enJOY, HATE, KEEP, STOP, MIND…</p>
 
-				<p className="text-indent-whole">Ví dụ:</p>
+				<p className="text-indent-whole">For example:</p>
 
 					<ul className="list-square">
 
 						<li>RIGHT NOW i am WORKing on this ARticle!</li>
-						<li className="list-none">Ngay lúc này tôi đang làm bài báo này!</li>
+						<li className="list-none">I'm working on this article right now.</li>
 						<li className="margin-bottom-20 list-none">Use ⏱️ the Present Continuous Tense (am WORKing) to describe an action that is actually taking place at the very moment of speaking.</li>
 
 						<li>they were PLAYing GAMES when i CALLED.</li>
-						<li className="list-none">Họ đang chơi trò chơi thì tôi gọi điện đến.</li>
+						<li className="list-none">They were just messing around when I got on the phone.</li>
 						<li className="margin-bottom-20 list-none">Use ⏱️ the Past Continuous Tense (were PLAYing) to indicate an action that was in progress in the past when another action interrupted it (expressed in ⏳ the Simple Past Tense—CALLED).</li>
 
 						<li>i enJOY WORKing with MUsic ON.</li>
-						<li className="list-none">Tôi thích làm việc khi có bật nhạc.</li>
+						<li className="list-none">Working with music is enjoyable.</li>
 						<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple tense (enJOY) and the verb form "WORKing" following the action "enjoy," combined with the phrase indicating a state, "with Music ON" (with the music on).</li>
 
 					</ul>
 
 					<p className="margin-top-20">To Work (infinitive with “to” – to-infinitive): Used after WANT, NEED, DECIDE, PLAN, HOPE, LEARN, TRY, PROMISE…</p>
 
-					<p className="text-indent-whole">Ví dụ:</p>
+					<p className="text-indent-whole">For example:</p>
 
 					<ul className="list-square">
 
 						<li>i WANT to WORK aBROAD NEXT YEAR.</li>
-						<li className="list-none">Tôi muốn làm việc ở nước ngoài vào năm tới. (⏳ Thời Gian Hành Động ở Hiện Tại Đơn)</li>
-						<li className="margin-bottom-20 list-none">The "WANT to do SOMEthing" structure is used to express a current desire regarding future plans (NEXT YEAR).</li>
+						<li className="list-none">I want to work in many different jobs next year.</li>
+						<li className="margin-bottom-20 list-none">⏳ Action Time in the Simple Present Tense. The "WANT to do SOMEthing" structure is used to express a current desire regarding future plans (NEXT YEAR).</li>
 
 						<li>she deCIded to STUDy ENGlish SERiously.</li>
-						<li className="list-none">Cô ấy đã quyết định học tiếng Anh một cách nghiêm túc. (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
-						<li className="margin-bottom-20 list-none">The structure "decided to do SOMETHING" is used to express a decision that was made and carried out in the past.</li>
+						<li className="list-none">She decided to start studying English seriously.</li>
+						<li className="margin-bottom-20 list-none">⏳ Action Time in the Simple Past. The structure "decided to do SOMETHING" is used to express a decision that was made and carried out in the past.</li>
 
 						<li>it’s NICE to EAT HEALthy FOOD.</li>
-						<li className="list-none">Thật tuyệt khi ăn những thực phẩm lành mạnh. (⏳ Thời Gian Hành Động ở Hiện Tại Đơn)</li>
-						<li className="margin-bottom-20 list-none">The structure "it is + adjective + to do SOMETHING" is used to express an opinion or feeling about a particular action.</li>
+						<li className="list-none">Eating healthy food is a good thing.</li>
+						<li className="list-none">⏳ Action Time in the Simple Present Tense. The structure "it is + adjective + to do SOMETHING" is used to express an opinion or feeling about a particular action.</li>
 
 					</ul>
 
@@ -197,14 +197,14 @@ export default function SixTypesofVerbs(): React.JSX.Element {
 			
 				<ol>
 
-					<li>Tôi/anh/em: <strong>WORK</strong></li>
-					<li className="margin-bottom-20 list-none">Anh ấy/cô ấy/nó: <strong>WORKS</strong> </li>
+					<li>I/we/you/they: WORK</li>
+					<li className="margin-bottom-20">He/she/it: WORKS</li>
 			
-					<li>Chuyện xưa kết thúc: <strong>WORKED</strong></li>
-					<li className="margin-bottom-20 list-none">Chuyện xưa vẫn còn ảnh hưởng: <strong>have</strong>/<strong>has</strong>/<strong>had WORKED</strong></li>
+					<li>The End of an Old Story: WORKED</li>
+					<li className="margin-bottom-20">The past still has an impact: have/has/had WORKED</li>
 
-					<li>Đang làm thật: <strong>be</strong> <strong>WORKing</strong></li>
-					<li className="margin-bottom-20 list-none">Muốn/làm được: <strong>to WORK</strong></li>
+					<li>Really working: be WORKing</li>
+					<li className="margin-bottom-20">Want to/be able to: to WORK</li>
 			
 				</ol>
 
@@ -215,15 +215,15 @@ export default function SixTypesofVerbs(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li><strong>ever</strong>y day i WORK HARD, but RIGHT NOW i am WORKing Even HARDer!</li>
-					<li className="list-none">Mỗi ngày tôi đều làm việc chăm chỉ, nhưng ngay lúc này tôi còn đang làm việc chăm chỉ hơn nữa!</li>
+					<li className="list-none">I put in a lot of work every day, but right now it's even harder.</li>
 					<li className="margin-bottom-20 list-none">The first sentence uses ⏳ the Present Simple Tense (daily routine), while the second sentence uses ⏱️ the Present Continuous Tense (an action taking place at the moment of speaking).</li>
 			
 					<li>she WORKS in jaPAN, but i WORKED in vietNAM LAST YEAR.</li>
-					<li className="list-none">Cô ấy làm việc ở Nhật, nhưng tôi đã từng làm việc ở Việt Nam vào năm ngoái.</li>
+					<li className="list-none">She works in Japan, but last year I worked in Vietnam.</li>
 					<li className="margin-bottom-20 list-none">The first clause uses ⏳ the Present Simple Tense (facts/habits in the present), while the second clause uses ⏳ the Past Simple Tense (actions that occurred and were completed in the past, with the specific time reference being LAST YEAR).</li>
 			
 					<li>i have WORKED from HOME for 3 YEARS, and i WANT to WORK like this forEVer.</li>
-					<li className="list-none">Tôi đã làm việc ở nhà được 3 năm rồi, và tôi muốn làm việc thế này mãi mãi.</li>
+					<li className="list-none">I have worked from home for three years, and I want to continue working from home indefinitely.</li>
 					<li className="margin-bottom-20 list-none">The first clause uses 📏 the Present Perfect Tense with "for 3 YEARS" (an action that began in the past and continues to the present), while the second clause uses ⏳ the Simple Present Tense (to express a current desire or preference).</li>
 			
 				</ul>
