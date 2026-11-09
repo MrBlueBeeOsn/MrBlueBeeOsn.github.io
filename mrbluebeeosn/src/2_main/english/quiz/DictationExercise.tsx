@@ -14,16 +14,42 @@ type Item = { en: string; vi: string; audio?: string };
 const postId = "DictationExercise";
  
 const ITEMS: Item[] = [
-  { en: "Hello, Oyster Bay Sailing Club. How can I help you?", vi: "Xin chào, Câu lạc bộ Thuyền buồm Oyster Bay. Tôi có thể giúp gì cho bạn?" },
-  { en: "I'd like to book a table for two at seven.", vi: "Tôi muốn đặt bàn cho hai người lúc bảy giờ." },
-  { en: "Could you tell me where the nearest station is?", vi: "Bạn có thể cho tôi biết ga gần nhất ở đâu không?" },
-  { en: "The meeting has been moved to Thursday afternoon.", vi: "Cuộc họp đã được dời sang chiều thứ Năm." },
-  { en: "She hasn't replied to my email yet.", vi: "Cô ấy vẫn chưa trả lời email của tôi." },
-  { en: "We're running out of time, so let's start.", vi: "Chúng ta sắp hết thời gian rồi, nên bắt đầu thôi." },
-  { en: "Do you mind if I open the window?", vi: "Bạn có phiền nếu tôi mở cửa sổ không?" },
-  { en: "He told me that the flight was delayed.", vi: "Anh ấy nói với tôi rằng chuyến bay bị hoãn." },
-  { en: "I've been learning English for three years.", vi: "Tôi đã học tiếng Anh được ba năm." },
-  { en: "Thank you for waiting. Your order is ready.", vi: "Cảm ơn bạn đã chờ. Đơn hàng của bạn đã sẵn sàng." },
+  { en: "Hello, Oyster Bay Sailing Club.",
+		vi: "Greetings, Oyster Bay Sailing Club!." },
+
+	{ en: "How can I help you?",
+		vi: "What can I do to help you?" },
+  
+	{ en: "I'd like to book a table for two at seven.", 
+		vi: "I'd like to make reservations for two people at 7:00 p.m." },
+
+  { en: "Could you tell me where the nearest station is?", 
+		vi: "Could you tell me where I can find the closest train station?" },
+
+  { en: "The meeting has been moved to Thursday afternoon.", 
+		vi: "Cuộc họp đã được dời sang chiều thứ Năm." },
+
+  { en: "She hasn't replied to my email yet.", 
+		vi: "I've sent her an email, but she hasn't replied yet." },
+
+  { en: "We're running out of time, so let's start.", 
+		vi: "We don't have much time, so let's begin." },
+
+  { en: "Do you mind if I open the window?", 
+		vi: "Do you mind if the window is opened?" },
+
+  { en: "He told me that the flight was delayed.", 
+		vi: "He said the flight was delayed." },
+
+  { en: "I've been learning English for three years.", 
+		vi: "I've been studying English for the last three years." },
+
+  { en: "Thank you for waiting.", 
+		vi: "Thank you for your patience." },
+
+	{ en: "Your order is ready.", 
+		vi: "Your order is ready to be picked up." },
+		
 ];
  
 const tokenize = (s: string) =>
