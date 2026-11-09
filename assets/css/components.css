@@ -1109,26 +1109,8 @@ summary::after {
   margin: 0 auto;
   color: var(--tm-ink);
   font-family: inherit;
+  font-size: 1.2rem;
   box-sizing: border-box;
-}
-
-@media (prefers-color-scheme: dark) {
-  .tm-root {
-    --tm-ink: #eceff4;
-    --tm-mute: #aab2c0;
-    --tm-line: rgba(236,239,244,.18);
-    --tm-axis: #eceff4;
-    --tm-v1: #6ea0ff;
-    --tm-vs: #3ed1c0;
-    --tm-v2: #ffb347;
-    --tm-v3: #c792ff;
-    --tm-ving: #ff7a7a;
-    --tm-now: #4ade80;
-    --tm-past: #3a2b17;
-    --tm-pres: #16342a;
-    --tm-fut: #1a2a46;
-    --tm-band: rgba(74,222,128,.10);
-  }
 }
 
 .tm-root * {
@@ -1148,7 +1130,7 @@ summary::after {
   border-radius: 99px;
   border: 1.5px solid currentColor;
   font-weight: 600;
-  font-size: 1rem;
+  font-size: 1em;
 }
 
 .tm-scroll {
@@ -1165,7 +1147,7 @@ summary::after {
   writing-mode: vertical-rl;
   transform: rotate(180deg);
   font-weight: 800;
-  font-size: 1rem;
+  font-size: 1em;
   letter-spacing: .15em;
   color: var(--tm-axis);
   display: flex;
@@ -1188,14 +1170,14 @@ summary::after {
   text-align: right;
   padding-right: 8px;
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 1em;
   line-height: 1.25;
 }
 
 .tm-ytick small {
   font-weight: 400;
   color: var(--tm-mute);
-  font-size: .85rem;
+  font-size: .85em;
   line-height: 1.2;
 }
 
@@ -1250,7 +1232,7 @@ summary::after {
   transform: translateX(-50%);
   color: var(--tm-now);
   font-weight: 800;
-  font-size: 1rem;
+  font-size: 1em;
   letter-spacing: .12em;
 }
 
@@ -1270,12 +1252,12 @@ summary::after {
 
 .tm-name {
   font-weight: 800;
-  font-size: 1rem;
+  font-size: 1em;
   line-height: 1.25;
 }
 
 .tm-f {
-  font-size: 1rem;
+  font-size: 1em;
   font-weight: 700;
   line-height: 1.35;
   overflow-wrap: anywhere;
@@ -1283,7 +1265,7 @@ summary::after {
 
 .tm-ex {
   color: var(--tm-mute);
-  font-size: 1rem;
+  font-size: 1em;
   line-height: 1.35;
   border-top: 1px dashed var(--tm-line);
   padding-top: 4px;
@@ -1313,7 +1295,7 @@ summary::after {
 .tm-xtick {
   text-align: center;
   font-weight: 800;
-  font-size: 1rem;
+  font-size: 1em;
   border-radius: 6px;
   padding: 5px 2px;
   margin: 0 4px;
@@ -1323,7 +1305,7 @@ summary::after {
 .tm-xtick small {
   display: block;
   font-weight: 400;
-  font-size: .85rem;
+  font-size: .85em;
   opacity: .75;
 }
 
@@ -1344,7 +1326,7 @@ summary::after {
   grid-column: 3;
   text-align: center;
   font-weight: 800;
-  font-size: 1rem;
+  font-size: 1em;
   letter-spacing: .2em;
   margin-top: 8px;
   color: var(--tm-axis);
