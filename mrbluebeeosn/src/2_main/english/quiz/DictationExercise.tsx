@@ -181,29 +181,20 @@ export default function DictationExercise() {
  
       {status === "wrong" && (
         <p className="dictation__wrong">
-          Not quite.{" "}
-          {target.map((w, i) => (
-            <span
-              key={i}
-              className={`dictation__word ${typed[i] === w ? "is-ok" : "is-bad"}`}
-            >
-              {typed[i] === w ? w : "•".repeat(Math.max(w.length, 1))}
-            </span>
-          ))}
+					
+					<div>
+						<p className="dictation__muted">Answer</p>
+						<p className="dictation__text">{item.en}</p>
+						<p className="dictation__muted">{item.vi}</p>
+					</div>
+        
         </p>
+				
       )}
  
       {status === "correct" && (
         <div>
           <p className="dictation__correct">✓ Correct!</p>
-          <p className="dictation__text">{item.en}</p>
-          <p className="dictation__muted">{item.vi}</p>
-        </div>
-      )}
- 
-      {status === "revealed" && (
-        <div>
-          <p className="dictation__muted">Answer</p>
           <p className="dictation__text">{item.en}</p>
           <p className="dictation__muted">{item.vi}</p>
         </div>
@@ -217,14 +208,6 @@ export default function DictationExercise() {
         >
           ← Previous
         </button>
-        {!answered && (
-          <button
-            className="dictation__btn dictation__btn--text"
-            onClick={() => setStatus("revealed")}
-          >
-            Show answer
-          </button>
-        )}
         {answered ? (
           <button className="dictation__btn dictation__btn--primary" onClick={() => go(index + 1)}>
             Next →
