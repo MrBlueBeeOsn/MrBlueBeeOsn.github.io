@@ -233,6 +233,15 @@
       "content": "Stop Translating! The Secret to Mastering English Vocabulary Long-Term 🚀",
       "slug": "grammar/stop-translating",
       "date": "2026-10-19"
+    },
+    { 
+      "id": "TensesChart",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Tenses Chart",
+      "content": "A Comprehensive Guide to English Tenses",
+      "slug": "grammar/tenses-chart",
+      "date": "2026-11-09"
     }
   ]
 }

@@ -716,6 +716,17 @@
       "likes": 0
     },
     {
+      "id": "TensesChart",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Tenses Chart",
+      "content": "A Comprehensive Guide to English Tenses",
+      "slug": "grammar/tenses-chart",
+      "date": "2026-11-09",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Pronunciation",
       "categoryDisplay": "Pronunciation",
       "categorySlug": "pronunciation",

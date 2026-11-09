@@ -123,6 +123,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const The6ElementFormula = lazy(() => import('@/2_main/english/grammar/The6ElementFormula'));
 	const ContentClauses = lazy(() => import('@/2_main/english/grammar/ContentClauses'));
 	const StopTranslating = lazy(() => import('@/2_main/english/grammar/StopTranslating'));
+	const TensesChart = lazy(() => import('@/2_main/english/grammar/TensesChart'));
 	
 	// Modern Grammar
 	
@@ -773,6 +774,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/6-element-formula" element={<The6ElementFormula />} />
 					<Route path="/grammar/content-clauses" element={<ContentClauses />} />
 					<Route path="/grammar/stop-translating" element={<StopTranslating />} />
+					<Route path="/grammar/tenses-chart" element={<TensesChart />} />
 
 					{/* Modern Grammar */}
 					<Route path="/grammar/preposition-phrase" element={<PrepositionPhrase />} />
