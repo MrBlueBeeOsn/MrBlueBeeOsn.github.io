@@ -41,7 +41,7 @@ export default function EnglishIndex(): React.JSX.Element {
 
         <details className="sub-box-fix-2">
       
-          <summary id="english-basic-practice"><mark className="highlight-secondary-padding-2-4">Dictation</mark></summary>
+          <summary id="dictation-exercise"><mark className="highlight-secondary-padding-2-4">Dictation</mark></summary>
 
           <ul className="list-border1">
 
