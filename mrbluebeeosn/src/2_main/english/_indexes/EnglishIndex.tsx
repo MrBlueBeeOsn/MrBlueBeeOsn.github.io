@@ -36,6 +36,27 @@ export default function EnglishIndex(): React.JSX.Element {
       <div className="vocabulary-container margin-top-20">
       
         {/* =============================
+              Dictation Exercise
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="english-basic-practice"><mark className="highlight-secondary-padding-2-4">Dictation</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/dictation-exercise">Dictation Exercise</Link>
+              </div>
+            </li>
+            
+          </ul>
+
+        </details>
+        
+        
+        {/* =============================
               English Quiz
         ============================= */}
 

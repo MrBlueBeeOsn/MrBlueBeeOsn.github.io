@@ -1353,3 +1353,175 @@ summary::after {
 }
 
 
+/* Dictation Exercise */
+
+.dictation {
+  --dictation-ok: #2e9e6b;
+  --dictation-bad: #e5484d;
+  --dictation-white-50: rgba(245, 245, 245, 0.5);
+  --dictation-gray-50: rgba(33, 33, 33, 0.5);
+  --dictation-gray-30: rgba(51, 51, 51, 0.3);
+  --dictation-gray-10: rgba(51, 51, 51, 0.08);
+
+  max-width: 56rem;
+  margin: 2.4rem auto;
+  padding: 2.4rem;
+  border-radius: 1.6rem;
+  border: 0.1rem solid var(--accent-color, rgba(32, 178, 170, 1));
+  background: var(--dictation-white-50);
+  color: var(--text-color);
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+  font-family: inherit;
+}
+
+.dictation__row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.dictation__title {
+  margin: 0;
+  font-size: 2.2rem;
+}
+
+.dictation__text {
+  margin: 0;
+  font-size: 1.8rem;
+  line-height: 1.5;
+}
+
+.dictation__muted {
+  margin: 0;
+  color: var(--dictation-gray-50);
+  font-size: 1.5rem;
+}
+
+.dictation__play {
+  align-self: flex-start;
+  padding: 0.8rem 1.8rem;
+  border-radius: 99.9rem;
+  border: none;
+  background: var(--primary-color-header);
+  color: var(--text-color);
+  font: inherit;
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.dictation__play:hover {
+  background: var(--tertiary-color);
+}
+
+.dictation__input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 1.4rem;
+  border-radius: 1rem;
+  border: 0.1rem solid var(--dictation-gray-30);
+  background: var(--dictation-gray-10);
+  color: var(--text-color);
+  font: inherit;
+  font-size: 1.8rem;
+  resize: vertical;
+}
+
+.dictation__input::placeholder {
+  color: var(--dictation-gray-50);
+}
+
+.dictation__input:focus {
+  outline: none;
+  border-color: var(--accent-color);
+}
+
+.dictation__chip {
+  padding: 0.4rem 1rem;
+  border-radius: 0.6rem;
+  border: 0.1rem solid var(--dictation-gray-30);
+  background: transparent;
+  color: var(--dictation-gray-50);
+  font: inherit;
+  font-size: 1.4rem;
+  cursor: pointer;
+}
+
+.dictation__chip.is-active {
+  background: var(--primary-color);
+  border-color: var(--primary-color);
+  color: #fff;
+}
+
+.dictation__btn {
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  font: inherit;
+  font-size: 1.6rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.dictation__btn--primary {
+  border: none;
+  background: var(--primary-color);
+  color: #fff;
+}
+
+.dictation__btn--primary:hover:not(:disabled) {
+  background: var(--accent-color);
+}
+
+.dictation__btn--ghost {
+  border: 0.1rem solid var(--dictation-gray-30);
+  background: transparent;
+  color: var(--dictation-gray-50);
+  font-weight: 400;
+}
+
+.dictation__btn--text {
+  border: none;
+  background: transparent;
+  color: var(--accent-color);
+  font-weight: 400;
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+}
+
+.dictation__btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.dictation__input:disabled {
+  opacity: 0.8;
+  cursor: default;
+}
+
+.dictation__correct {
+  margin: 0 0 0.8rem;
+  color: var(--dictation-ok);
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.dictation__wrong {
+  margin: 0;
+  color: var(--dictation-bad);
+  font-size: 1.6rem;
+}
+
+.dictation__word {
+  margin-right: 0.6rem;
+}
+
+.dictation__word.is-ok {
+  color: var(--dictation-ok);
+}
+
+.dictation__word.is-bad {
+  color: var(--dictation-bad);
+}

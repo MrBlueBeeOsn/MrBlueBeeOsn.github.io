@@ -56,6 +56,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const EnglishMultipleChoice = lazy(() => import('@/2_main/english/quiz/EnglishMultipleChoice'));
 	const MixedEnglishGrammarAndVocabulary = lazy(() => import('@/2_main/english/quiz/MixedEnglishGrammarAndVocabulary'));
 
+	// DictationExercise
+	const DictationExercise = lazy(() => import('@/2_main/english/quiz/DictationExercise'));
+
 	// IELTS
 	const IELTSQuestions = lazy(() => import('@/2_main/english/quiz/ielts/IELTSQuestions'));
 
@@ -703,6 +706,9 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Quiz */}
 					<Route path="/english/english-multiple-choice" element={<EnglishMultipleChoice />} />
 					<Route path="/english/mixed-english-grammar-&-vocabulary" element={<MixedEnglishGrammarAndVocabulary />} />
+
+					{/* DictationExercise */}
+					<Route path="/english/dictation-exercise" element={<DictationExercise />} />
 
 					{/* IELTS */}
 					<Route path="/english/ielts-questions" element={<IELTSQuestions />} />

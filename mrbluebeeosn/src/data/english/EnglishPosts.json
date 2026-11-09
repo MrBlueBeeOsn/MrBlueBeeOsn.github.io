@@ -200,21 +200,30 @@
     },
 		{
 			"id": "MatrixQuiz",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
+			"categoryDisplay": "English",
+      "categorySlug": "english",
 			"title": "Matrix Quiz",
 			"content": "Form × Function Matrix Mastery",
-			"slug": "tieng-anh/matrix-quiz",
+			"slug": "english/matrix-quiz",
 			"date": "2026-06-14"
 		},
 		{
 			"id": "BookkeepingMatrix",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
+			"categoryDisplay": "English",
+			"categorySlug": "english",
 			"title": "Bookkeeping Matrix",
 			"content": "Bookkeeping Matrix",
-			"slug": "tieng-anh/bookkeeping-matrix-quiz",
+			"slug": "english/bookkeeping-matrix-quiz",
 			"date": "2026-06-16"
+		},
+		{
+			"id": "DictationExercise",
+			"categoryDisplay": "English",
+			"categorySlug": "english",
+			"title": "Dictation Exercise",
+			"content": "Dictation Exercise",
+			"slug": "english/dictation-exercise",
+			"date": "2026-11-09"
 		}
   ]
 }
