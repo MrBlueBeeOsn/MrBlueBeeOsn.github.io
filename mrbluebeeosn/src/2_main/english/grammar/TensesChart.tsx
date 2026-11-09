@@ -123,7 +123,7 @@ export default function TensesChart(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>sepTEMber 11, 2026 · by Claude ·</span>
+					<span>noVEMber 09, 2026 · by Claude ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
