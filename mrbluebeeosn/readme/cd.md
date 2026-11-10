@@ -104,5 +104,5 @@ npm run master
 •  git add . && git commit -m 'bee' && git push origin master
 
 npm run main
-•  Nhảy sang main -> Hút code từ master về main -> Bắn lên main GitHub -> Xuất bản web.
-•  git checkout main && git merge master && git push origin main && npm run deploy
+•  Nhảy sang main -> Hút code từ master về main -> Bắn lên main GitHub -> Xuất bản web -> Nhảy sang master
+•  git checkout main && git merge master && git push origin main && npm run deploy && git checkout master

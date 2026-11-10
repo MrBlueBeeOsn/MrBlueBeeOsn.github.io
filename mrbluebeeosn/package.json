@@ -17,7 +17,7 @@
     "back": "git checkout master && git merge main && git push origin master",
     
     "master": "git add . && git commit -m 'bee' && git push origin master",
-    "main": "git checkout main && git merge master && git push origin main && npm run deploy",
+    "main": "git checkout main && git merge master && git push origin main && npm run deploy && git checkout master",
 
     "build:db": "node generate-db.js",
     "db:generate": "node generate-db.js",
