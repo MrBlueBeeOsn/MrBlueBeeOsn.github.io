@@ -23,9 +23,13 @@ export default function SearchIndex(): React.JSX.Element {
 
           <SearchComponent />
 
-          {/* <VideoSearch3 /> */}
+          <VideoSearch3 />
+            
+        </div>
 
-            {/* <YouGlishWidget /> */}
+        <div className="table-search" style={{ marginTop: '50px', padding: '0px', backgroundColor: '#f9f9f9', borderRadius: '8px' }}>
+
+          <YouGlishWidget />
             
         </div>
 
