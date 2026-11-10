@@ -90,7 +90,7 @@ npm run up
 git add . && git commit -m 'bee' && git push origin main && npm run deploy
 
 npm run back
-git checkout master && git merge main
+git checkout master && git merge main && git push origin master
 
 ---------
 
