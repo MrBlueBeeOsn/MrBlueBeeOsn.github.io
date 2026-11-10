@@ -84,7 +84,7 @@ export default function Home(): React.JSX.Element {
 			
 				  {/* <SearchComponent /> */}
         
-          {/* <VideoSearch /> */}
+          <VideoSearch />
 							
 			  </div>
 
