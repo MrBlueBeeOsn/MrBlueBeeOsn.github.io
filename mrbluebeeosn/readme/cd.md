@@ -30,7 +30,17 @@ npm run db:server
 json-server --watch src/data/db.json --port 3001
 npx json-server src/data/db.json --port 3001
 
+---------
+
+Lưu setting:
+
+ctr + , → gõ: persistentSessionReviveProcess → rồi chọn: onExitAndWindowClose
+
+---------
+
 npm run install
+
+---------
 
 Bash
 cd /D/Github/Black/MrBlackBeeOsn.github.io/mrblackbeeosn
