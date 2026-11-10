@@ -37,6 +37,13 @@ cd /D/Github/Black/MrBlackBeeOsn.github.io/mrblackbeeosn
 cd /D/Github/Blue/MrBlueBeeOsn.github.io/mrbluebeeosn
 cd /D/Github/Green/MrGreenBeeOsn.github.io/mrgreenbeeosn
 
+---------
+
+• Bước 1: git checkout master
+• Bước 2: git add . && git commit -m "sua code o master"
+• Bước 3: git checkout main
+• Bước 4: git merge master && npm run up
+
 git add . → git commit -m "bee" → git push → npm run deploy.
 
 npm run dev
