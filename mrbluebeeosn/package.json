@@ -12,6 +12,7 @@
     "lint": "eslint .",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
+    "up": "git add . && git commit -m \"bee\" && git push && npm run deploy",
     "build:db": "node generate-db.js",
     "db:generate": "node generate-db.js",
     "db:update-likes": "node update-likes-only.js",
