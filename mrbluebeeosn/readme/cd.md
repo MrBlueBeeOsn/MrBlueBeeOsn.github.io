@@ -82,3 +82,14 @@ Ctr shift G: commit và đồng bộ
 ---------
 
 Cách 3: npm run up
+
+---------
+
+npm run up
+git add . && git commit -m 'bee' && git push origin main && npm run deploy
+
+npm run master
+git add . && git commit -m 'bee' && git push origin master
+
+npm run main
+git checkout main && git merge master && git push origin main && npm run deploy
