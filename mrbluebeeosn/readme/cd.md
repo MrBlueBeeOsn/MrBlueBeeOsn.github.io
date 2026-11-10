@@ -39,6 +39,7 @@ cd /D/Github/Green/MrGreenBeeOsn.github.io/mrgreenbeeosn
 
 ---------
 
+Merge nhánh master vào main:
 • Bước 1: git checkout master
 • Bước 2: git add . && git commit -m "sua code o master"
 • Bước 3: git checkout main
@@ -51,6 +52,11 @@ Xem trước: npm run dev
 npm run db:generate
 npm run db:update-views
 npm run db:update-likes
+
+---------
+
+Tạo nhánh:
+Creat new branch: master → git push -u origin master
 
 ---------
 
