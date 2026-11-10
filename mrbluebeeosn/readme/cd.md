@@ -85,9 +85,16 @@ Cách 3: npm run up
 
 ---------
 
+Main:
 npm run up
 git add . && git commit -m 'bee' && git push origin main && npm run deploy
 
+npm run back
+git checkout master && git merge main
+
+---------
+
+Nhánh Master:
 npm run master
 git add . && git commit -m 'bee' && git push origin master
 
