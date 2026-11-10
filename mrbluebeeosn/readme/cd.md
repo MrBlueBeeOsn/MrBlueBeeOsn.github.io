@@ -44,17 +44,25 @@ cd /D/Github/Green/MrGreenBeeOsn.github.io/mrgreenbeeosn
 • Bước 3: git checkout main
 • Bước 4: git merge master && npm run up
 
-git add . → git commit -m "bee" → git push → npm run deploy.
+---------
 
-npm run dev
+Xem trước: npm run dev
 
 npm run db:generate
 npm run db:update-views
 npm run db:update-likes
 
-npm run build
-npm run deploy
+---------
+
+Cách 1: git add . → git commit -m "bee" → git push → npm run deploy.
 
 ---------
 
-npm run up
+Cách 2:
+npm run build
+npm run deploy
+Ctr shift G: commit và đồng bộ
+
+---------
+
+Cách 3: npm run up
