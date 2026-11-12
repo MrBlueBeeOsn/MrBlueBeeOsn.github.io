@@ -284,7 +284,7 @@ const VideoSearch: React.FC = () => {
         <header>
           {/* <h1 className="margin-y-50 text-center">YouTube Video Search</h1> */}
           <p className="message-button-below">Find videos and browse the table of contents.</p>
-          <p className="message-button-below"><strong>F</strong>: Enter/Exit Fullscreen, <strong>K</strong>: Pause / Play, <strong>M</strong>: Mute / Unmute</p>
+          <p className="message-button-below"><strong>F</strong>: Enter/Exit Fullscreen, <strong>K</strong>: Pause / Play, <strong>M</strong>: Mute / Unmute, <strong>C</strong>: Captions</p>
         </header>
 
         {/* Error Message */}

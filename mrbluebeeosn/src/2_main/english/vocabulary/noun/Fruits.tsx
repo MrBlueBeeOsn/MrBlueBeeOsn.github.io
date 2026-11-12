@@ -70,23 +70,23 @@ export default function Fruits(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="APple">an APple a DAY KEEPS the DOCtor aWAY.</li>
-        <li className="list-none margin-bottom-20">If you eat an apple every day, you'll stay healthy.</li>
+        <li value="1" id="APple">an APple a DAY <span className="pill-teal">KEEPS</span> the DOCtor aWAY.</li>
+        <li className="list-none margin-bottom-20">If you <span className="pill-teal">eat</span> an apple every day, you<span className="pill-teal">'ll stay</span> healthy.</li>
 
-        <li value="2" id="baNANas">CHILDren and MONkeys both LOVE EATing SWEET baNANas.</li>
-        <li className="list-none margin-bottom-20">Children and monkeys both really enjoy eating sweet bananas.</li>
+        <li value="2" id="baNANas">CHILDren and MONkeys both <span className="pill-teal">LOVE EATing</span> SWEET baNANas.</li>
+        <li className="list-none margin-bottom-20">Children and monkeys both really <span className="pill-teal">enjoy eating</span> sweet bananas.</li>
 
-        <li value="3" id="ORange">she DRINKS a GLASS of FRESH ORange JUICE <strong>ever</strong>y MORNing.</li>
-        <li className="list-none margin-bottom-20">Every morning, she drinks a glass of fresh-squeezed orange juice.</li>
+        <li value="3" id="ORange">she <span className="pill-teal">DRINKS</span> a GLASS of FRESH ORange JUICE <strong>ever</strong>y MORNing.</li>
+        <li className="list-none margin-bottom-20">Every morning, she <span className="pill-teal">drinks</span> a glass of fresh-squeezed orange juice.</li>
+    
+        <li value="4" id="MANGoes">VietnaMESE MANGoes <span className="pill-teal">are</span> FAmous for their RICH and SWEET FLAvor.</li>
+        <li className="list-none margin-bottom-20">Vietnamese mango flavors <span className="pill-teal">are</span> famous for <span className="pill-teal">being</span> rich and sweet.</li>
 
-        <li value="4" id="MANGoes">VietnaMESE MANGoes are FAmous for their RICH and SWEET FLAvor.</li>
-        <li className="list-none margin-bottom-20">Vietnamese mango flavors are famous for being rich and sweet.</li>
+        <li value="5" id="PINEapple">my MOM <span className="pill-teal">Uses</span> PINEapple to <span className="pill-teal">MAKE</span> a deLICious SWEET and SOUr PORK DISH.</li>
+        <li className="list-none margin-bottom-20">My mom <span className="pill-teal">makes</span> a tasty sweet and sour pork dish <span className="pill-teal">using</span> pineapple.</li>
 
-        <li value="5" id="PINEapple">my MOM Uses PINEapple to MAKE a deLICious SWEET and SOUr PORK DISH.</li>
-        <li className="list-none margin-bottom-20">My mom makes a tasty sweet and sour pork dish using pineapple.</li>
-
-        <li value="6" id="WAtermelon">EATing a COLD SLICE of WAtermelon is the BEST WAY to BEAT the SUMmer HEAT.</li>
-        <li className="list-none margin-bottom-20">The best thing to eat in the summer heat is a cold slice of watermelon.</li>
+        <li value="6" id="WAtermelon"><span className="pill-teal">EATing</span> a COLD SLICE of WAtermelon <span className="pill-teal">is</span> the BEST WAY to <span className="pill-teal">BEAT</span> the SUMmer HEAT.</li>
+        <li className="list-none margin-bottom-20">The best thing to <span className="pill-teal">eat</span> in the summer heat <span className="pill-teal">is</span> a cold slice of watermelon.</li>
 
         <li value="7" id="STRAWberries">she TOPPED the BIRTHday CAKE with FRESH RED STRAWberries.</li>
         <li className="list-none margin-bottom-20">She decorated the birthday cake with fresh red strawberries on top.</li>
