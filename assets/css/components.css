@@ -1053,6 +1053,14 @@ summary::after {
     font-size: 14px;
   }
 
+	.pill-teal { background: rgba(166, 239, 241, 0.5);}
+	.pill-purple { background: #eeedfe; color: #3c3489; }
+  .pill-green { background: #e1f5ee; color: #0f6e56; }
+  .pill-red { background: #faece7; color: #712b13; }
+  .pill-brown { background: #faeeda; color: #633806; }
+  .pill-blue { background: #e6f1fb; color: #0c447c; }
+  .pill-grey { background: #f1efe8; color: #444441; }
+
 	/* Example sentence */
   .example {
     margin: 32px 0;
@@ -1085,6 +1093,14 @@ summary::after {
   .example-sentence .m { color: #854f0b; }
   .example-sentence .p { color: #185fa5; }
   .example-sentence .t { color: #5f5e5a; }
+
+	.color-teal { color: rgba(1, 172, 193, 1); }
+	.color-purple { color: #534ab7; }
+  .color-green { color: #0f6e56; }
+  .color-red { color: #993c1d; }
+  .color-brown { color: #854f0b; }
+  .color-blue { color: #185fa5; }
+  .color-grey { color: #5f5e5a; }
 
 
 /* English Tenses – Time × Form */
