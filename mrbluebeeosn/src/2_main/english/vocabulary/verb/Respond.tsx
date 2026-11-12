@@ -15,7 +15,7 @@ export default function reSPOND(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/vocabulary#VERB-PHRASE"><mark className="highlight-tertiary-padding-4-8">VERB PHRASE</mark></HashLink></h4>
+			<h4><HashLink smooth to="/vocabulary#FInite-FORMS"><mark className="highlight-tertiary-padding-4-8">VERB PHRASE</mark></HashLink></h4>
 			
 						
 			<h1 className="margin-y-50 text-center">reSPOND</h1>
@@ -25,16 +25,24 @@ export default function reSPOND(): React.JSX.Element {
 
 					<p className="example-sentence text-center">
 					
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#VERB-CATegories">VERB</HashLink>
+						</span> &nbsp;
+	
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#PHRASE-CATegories">PHRASE</HashLink>
+						</span> &nbsp;
+						
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#prepoSITion-CATegories">prepoSITion</HashLink>
+						</span> &nbsp;
+	
+						<span className="highlight-255-padding-0-4 text-border">
+							<HashLink smooth to="#OTHer-CATegories">OTHer</HashLink>
+						</span> &nbsp;
+						
 						<span className="highlight-255-padding-0-4 text-border" >
 							<HashLink smooth to="#defiNITion">defiNITion</HashLink>
-						</span> &nbsp;
-	
-						<span className="highlight-255-padding-0-4 text-border">
-							<HashLink smooth to="#VERB-SUBsystem">VERB SUBsystem</HashLink>
-						</span> &nbsp;
-	
-						<span className="highlight-255-padding-0-4 text-border">
-							<HashLink smooth to="#CLAUSE-SUBsystem">CLAUSE SUBsystem</HashLink>
 						</span> &nbsp;
 	
 					</p>
@@ -204,6 +212,148 @@ export default function reSPOND(): React.JSX.Element {
 
 			{/* This is the content of Vocabulary Term. */}
 
+			{/* =============================
+						VERB CATegories
+			============================= */}
+
+
+			{/* 1.  */}
+
+			<h3 className="margin-y-50 text-center" id="VERB-CATegories">VERB CATegories</h3>
+			
+				<ol>
+			
+					<li value="1">[<strong>FInite FORMS</strong>]:</li>
+					<li className="margin-bottom-20 list-none">HAVing TENSE or SUBject</li>
+
+					<li className="list-none">◼ [<strong>PLAIN PRESent FORM</strong>]: reSPOND</li>
+					<li className="margin-bottom-20 list-none">The base form of the present tense for the remaining persons. This is the raw form used in a sentence to express the present tense, and is entirely distinct from the [LEXICAL VERB] found in the dictionary. Example: they reSPOND.</li>
+
+					<li className="list-none">◼ [<strong>3RD SINGular PRESent FORM</strong>]: reSPONDS</li>
+					<li className="margin-bottom-20 list-none">The present tense and the pure action merge, completely fused into a single word.</li>
+
+					<li className="list-none">◼ [<strong>PRETerite FORM</strong>]: reSPONDed</li>
+					<li className="margin-bottom-20 list-none">The past tense and the pure action merge, completely fused into a single word.</li>
+					
+					<li value="2">[<strong>non-FInite FORMS</strong>]:</li>
+					<li className="list-none">HAVing NO TENSE or NO SUBject</li>
+
+					<li className="margin-bottom-20 list-none">It is non-finite because it has been stripped of the role of [primary predicate] ("be", "do", "have"), [lexical verb], or [action verb] in the sentence. It does not change its form regardless of whether you conjugate this sentence in the past, present, or future tense.</li>
+
+					<li className="list-none">◼ [<strong>PLAIN FORM</strong>]: reSPOND</li>
+					<li className="margin-bottom-20 list-none">The Pure Action stands alone, completely liberated and without the accompanying "to", and usually follows immediately after:</li>
+
+					<li className="list-none">• [<strong>infiniTIval MARKer</strong>]: to</li>
+					<li className="list-none">• [<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
+					<li className="list-none">• [<strong>PREsent MOdal auXILiary VERB</strong>]: will, shall, can, must, may</li>
+					<li className="list-none">• VERB GROUP: Obligatory / Permissive: MAKE, LET, let's, HAVE</li>
+          <li className="list-none">• VERB GROUP: Auxiliary / Interaction: HELP, GET (in special forms)</li>
+          <li className="margin-bottom-20 list-none">• VERB Group: Perception / Sensation: SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL</li>
+			
+					<li className="list-none">◼ [<strong>to-infiniTIval</strong>]: to reSPOND</li>
+					<li className="margin-bottom-20 list-none">The seamless integration between the launch point and the Pure Action structure standing independently behind it.</li>
+
+					<li className="list-none">◼ [<strong>GERund-PARTiciple FORM</strong>]: reSPONDing</li>
+					<li className="margin-bottom-20 list-none">Verbs ending in -ing indicate a continuous, ongoing action.</li>
+
+					<li className="list-none">◼ [<strong>PAST PARTiciple FORM</strong>]: reSPONDed, been</li>
+					<li className="margin-bottom-20 list-none">Verbs in Column 3 or with the suffix -ed indicate that the action is complete.</li>
+
+					
+					
+					<li value="3">[<strong>LEXical VERB</strong>]: reSPOND</li>
+					<li className="margin-bottom-20 list-none">The action in its original [Lexical Verb] form, without any morphological changes or structural transformations.</li>
+			
+					<li value="4">[<strong>infiniTIval MARKer</strong>]: to</li>
+					<li className="margin-bottom-20 list-none">The single [infiniTIval MARKer] "to" functions as an independent locator code that serves as a starting point, laying the groundwork immediately before the action to trigger the original state or direct the impact on the object. For example: • Sentence A (Marked): You ought to leave. • Sentence B (Unmarked): You should leave.</li>
+					
+					
+					
+
+					<li value="5">[<strong>MOdal auXILiary VERB</strong>]:</li>
+					
+					<li className="list-none">◼ [<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
+					<li className="margin-bottom-20 list-none">These verbs express a subtle, thoughtful attitude; while the desire is genuine, the wording is conciliatory and avoids any sense of coercion. The specific constructions "ought to" and "had <strong>bet</strong>ter" are treated as a single unit.</li>
+
+					<li className="list-none">◼ [<strong>PREsent MOdal auXILiary VERB</strong>]: will, shall, can, must, may</li>
+					<li className="margin-bottom-20 list-none">These actions express a direct attitude, imposing reality on the listener and leaving no room for escape. The specific construction "have to" is treated as a unified [COMplex asSERTive MOdal VERB].</li>
+
+					<li value="6">[<strong>non-MOdal auXILiary VERB</strong>]: does, did, is, has, was, am, are</li>
+					<li className="margin-bottom-20 list-none">These single actions appear to convey the concept of time in a sentence.</li>
+					
+			
+					<li value="7" className="margin-bottom-20">[<strong>VERB PHRASE as PREDicator</strong>]: is reSPONDing, was reSPONDing</li>
+					<li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and ongoing actions. In this context, "is" and "was" are [PRImary VERB as PREDicator] in [FInite] form, while "reSPONDing" is an accompanying [Non-finite] form.</li>
+
+					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has reSPONDed, had reSPONDed</li>
+					<li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and actions that are complete and finished. In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "reSPONDed" is an accompanying [Non-finite] form.</li>
+			
+					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has been reSPONDing, had been reSPONDing</li>
+					<li className="margin-bottom-20 list-none">The linear integration of the three energy levels: Time, the completed aspect, and the ongoing aspect. In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "been reSPONDing" is an accompanying [Non-finite] form.</li>
+
+					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: would reSPOND, could reSPOND, should reSPOND</li>
+
+					<li className="margin-bottom-20 list-none">The linear integration of Attitude, Subtlety, Non-coercion, and Pure Action. In this context, "would", "could", and "should" are [PRETerite MODAL AUXILIARY VERBS] with [Finite] forms, while "RESPOND" refers to the accompanying [NON-FINITE] forms.</li>
+			
+					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: will reSPOND, can reSPOND</li>
+					<li className="margin-bottom-20 list-none">The linear integration of Attitude, Actual Imposition, and Pure Action. In this context, "will" and "can" are [Present Modal Auxiliary Verb] with [FInite] forms, while "respond" is an accompanying [Non-finite] form.</li>
+
+					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: DID reSPOND, DOES reSPOND</li>
+					<li className="margin-bottom-20 list-none">State, Time, and Action go hand in hand, separated by a space within the sentence. In this context, "DID" and "DOES" are [PRImary VERB as PREDicator] with [FInite] forms, while "reSPOND" is an accompanying [Non-finite] form.</li>
+
+			
+				</ol>
+
+			
+			<h3 className="margin-y-50 text-center" id="PHRASE-CATegories">PHRASE CATegories</h3>
+
+			
+			<p className="margin-top-40 text-indent-whole"><strong>CORE PRINCIPLES:</strong>:</p>
+
+			<p className="text-indent-whole">When any [PREDicator HEAD] from the above system is followed by a complement such as [Complement], [Non-finite Clause as Catenative Complement], [Finite Clause as a Complement], [Finite Clause as an Adjunct], the entire structure is immediately labeled and elevated to its corresponding [Phrase] form.</p>
+
+      
+        <ol className="margin-top-40">
+
+					<li className="list-none">[<strong>CLAUSE</strong>]: because [it rains].</li>
+					<li className="margin-bottom-20 list-none">Understanding it this way helps you think exactly like a native speaker.</li>
+
+				</ol>
+
+			
+			<h3 className="margin-y-50 text-center" id="prepoSITion-CATegories">prepoSITion CATegories</h3>
+      
+        <ol className="margin-top-40">
+
+        	<li className="list-none">◼ [<strong>TRANsitive PrepoSITion</strong>]: to</li>
+					<li className="margin-bottom-20 list-none">"to" is followed by a [Noun Phrase as a Complement] for the [Transitive Preposition] "to." For example: he WALKED to SCHOOL. • she LOOKED at the PICture.</li>
+					
+					<li className="list-none">◼ [<strong>InTRANsitive PrepoSITion</strong>] - [<strong>PARTicles</strong>]: OUT, IN, WITH, BACK</li>
+					<li className="margin-bottom-20 list-none">[InTRANsitive PrepoSITions] such as OUT, IN, WITH, and BACK, when used alone, follow the verb to specify the direction of movement, scope of effect, intensity, or whether the action is ongoing or completed. For example: turN OFF the LIGHT. / he saT DOWN.</li>
+
+        </ol>
+
+			
+			<h3 className="margin-y-50 text-center" id="OTHer-CATegories">OTHer CATegories</h3>
+      
+        <ol className="margin-top-40">
+			
+					<li className="list-none">[<strong>coORdinator</strong>]: and, or, but</li>
+					<li className="margin-bottom-20 list-none">Modern grammar considers only the three words "but", "or", and "and" to be [coORdinator]; the rest are [transitive prepositions] or other types of words.</li>
+
+					<li className="list-none">[<strong>suBORdinator</strong>]: that, if, whether</li>
+					<li className="list-none">Modern grammar recognizes only three words: "that", "if" (meaning "whether"), and "whether" (meaning "whether").</li>
+
+				</ol>
+			
+
+			
+
+
+			{/* =============================
+						defiNITion
+			============================= */}
+
 			<h4 className="margin-bottom-30 text-center" id="defiNITion">defiNITion</h4>
 
 			<div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
@@ -235,126 +385,6 @@ export default function reSPOND(): React.JSX.Element {
 
 
 
-			{/* =============================
-						
-			============================= */}
-
-
-			{/* 1.  */}
-
-			<h3 className="margin-y-50 text-center">VERB CATegories</h3>
-
-			<h4 className="margin-y-40" id="VERB-SUBsystem">a. VERB SUBsystem</h4>
-			
-				<ol>
-			
-					<li value="1">[<strong>LEXical VERB</strong>]: reSPOND</li>
-					<li className="margin-bottom-20 list-none">The action in its original [Lexical Verb] form, without any morphological changes or structural transformations.</li>
-			
-					<li value="2">[<strong>infiniTIval MARKer</strong>]: to</li>
-					<li className="margin-bottom-20 list-none">The single [infiniTIval MARKer] "to" functions as an independent locator code that serves as a starting point, laying the groundwork immediately before the action to trigger the original state or direct the impact on the object. For example: • Sentence A (Marked): You ought to leave. • Sentence B (Unmarked): You should leave.</li>
-
-					<li className="list-none">[<strong>InfiniTIval suBORdinator</strong>]: to</li>
-					<li className="margin-bottom-20 list-none">"to" appears at the beginning of a [Clause] and is considered a grammatical device that structures, permits, and introduces a [Clause]. Examples: • it is esSENtial [<strong>to</strong> mainTAIN neuTRALity]. • they deCIded [<strong>to</strong> deLAY the dePARTure]. • she LEFT EARly in <strong>or</strong>der [<strong>to</strong> CATCH the TRAIN].</li>
-					
-					<li className="list-none">[<strong>TRANsitive PrepoSITion</strong>]: to</li>
-					<li className="margin-bottom-20 list-none">"to" is followed by a [Noun Phrase as a Complement] for the [Transitive Preposition] "to." For example: he WALKED to SCHOOL. • she LOOKED at the PICture.</li>
-					
-					<li className="list-none">[<strong>InTRANsitive PrepoSITion</strong>] - [<strong>PARTicles</strong>]: OUT, IN, WITH, BACK</li>
-					<li className="margin-bottom-20 list-none">[InTRANsitive PrepoSITions] such as OUT, IN, WITH, and BACK, when used alone, follow the verb to specify the direction of movement, scope of effect, intensity, or whether the action is ongoing or completed. For example: turN OFF the LIGHT. / he saT DOWN.</li>
-					
-
-					<li value="3">[<strong>non-MOdal auXILiary VERB</strong>]: does, did, is, has, was, am, are</li>
-					<li className="margin-bottom-20 list-none">These single actions appear to convey the concept of time in a sentence.</li>
-
-					<li value="4" className="margin-bottom-20">[<strong>MOdal auXILiary VERB</strong>]:</li>
-			
-					<li className="list-none">[<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
-					<li className="margin-bottom-20 list-none">These verbs express a subtle, thoughtful attitude; while the desire is genuine, the wording is conciliatory and avoids any sense of coercion. The specific constructions "ought to" and "had <strong>bet</strong>ter" are treated as a single unit.</li>
-
-					<li className="list-none">[<strong>PREsent MOdal auXILiary VERB</strong>]: will, shall, can, must, may</li>
-					<li className="margin-bottom-20 list-none">These actions express a direct attitude, imposing reality on the listener and leaving no room for escape. The specific construction "have to" is treated as a unified [COMplex asSERTive MOdal VERB].</li>
-					
-					<li value="5" className="margin-bottom-20">[<strong>non-FInite FORMS</strong>]: <strong>HAVing NO TENSE or NO SUBject</strong>.</li>
-
-					<li className="margin-bottom-20 list-none">It is non-finite because it has been stripped of the role of [primary predicate] ("be", "do", "have"), [lexical verb], or [action verb] in the sentence. It does not change its form regardless of whether you conjugate this sentence in the past, present, or future tense.</li>
-
-					<li className="list-none">[<strong>PLAIN FORM</strong>]: reSPOND</li>
-					<li className="margin-bottom-20 list-none">The Pure Action stands alone, completely liberated and without the accompanying "to", and usually follows immediately after:</li>
-
-					<li className="list-none">• [<strong>infiniTIval MARKer</strong>]: to</li>
-					<li className="list-none">• [<strong>PRETerite MOdal auXILiary VERB</strong>]: would, could, should, might</li>
-					<li className="list-none">• [<strong>PREsent MOdal auXILiary VERB</strong>]: will, shall, can, must, may</li>
-					<li className="list-none">• VERB GROUP: Obligatory / Permissive: MAKE, LET, let's, HAVE</li>
-          <li className="list-none">• VERB GROUP: Auxiliary / Interaction: HELP, GET (in special forms)</li>
-          <li className="margin-bottom-20 list-none">• VERB Group: Perception / Sensation: SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL</li>
-			
-					<li className="list-none">[<strong>to-infiniTIval</strong>]: to reSPOND</li>
-					<li className="margin-bottom-20 list-none">The seamless integration between the launch point and the Pure Action structure standing independently behind it.</li>
-
-					<li className="list-none">[<strong>GERund-PARTiciple FORM</strong>]: reSPONDing</li>
-					<li className="margin-bottom-20 list-none">Verbs ending in -ing indicate a continuous, ongoing action.</li>
-
-					<li className="list-none">[<strong>PAST PARTiciple FORM</strong>]: reSPONDed, been</li>
-					<li className="margin-bottom-20 list-none">Verbs in Column 3 or with the suffix -ed indicate that the action is complete.</li>
-
-					<li value="6" className="margin-bottom-20">[<strong>FInite FORMS</strong>]: <strong>HAVing TENSE or SUBject</strong></li>
-
-					<li className="list-none">[<strong>PLAIN PRESent FORM</strong>]: reSPOND</li>
-					<li className="margin-bottom-20 list-none">The base form of the present tense for the remaining persons. This is the raw form used in a sentence to express the present tense, and is entirely distinct from the [LEXICAL VERB] found in the dictionary. Example: they reSPOND.</li>
-
-					<li className="list-none">[<strong>3RD SINGular PRESent FORM</strong>]: reSPONDS</li>
-					<li className="margin-bottom-20 list-none">The present tense and the pure action merge, completely fused into a single word.</li>
-
-					<li className="list-none">[<strong>PRETerite FORM</strong>]: reSPONDed</li>
-					<li className="margin-bottom-20 list-none">The past tense and the pure action merge, completely fused into a single word.</li>
-			
-					<li value="7" className="margin-bottom-20">[<strong>VERB PHRASE as PREDicator</strong>]: is reSPONDing, was reSPONDing</li>
-					<li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and ongoing actions. In this context, "is" and "was" are [PRImary VERB as PREDicator] in [FInite] form, while "reSPONDing" is an accompanying [Non-finite] form.</li>
-
-					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has reSPONDed, had reSPONDed</li>
-					<li className="margin-bottom-20 list-none">The linear integration of time-bearing actions and actions that are complete and finished. In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "reSPONDed" is an accompanying [Non-finite] form.</li>
-			
-					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: has been reSPONDing, had been reSPONDing</li>
-					<li className="margin-bottom-20 list-none">The linear integration of the three energy levels: Time, the completed aspect, and the ongoing aspect. In this context, "has" and "had" are [PRImary VERB as PREDicator] with [FInite] forms, while "been reSPONDing" is an accompanying [Non-finite] form.</li>
-
-					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: would reSPOND, could reSPOND, should reSPOND</li>
-
-					<li className="margin-bottom-20 list-none">The linear integration of Attitude, Subtlety, Non-coercion, and Pure Action. In this context, "would", "could", and "should" are [PRETerite MODAL AUXILIARY VERBS] with [Finite] forms, while "RESPOND" refers to the accompanying [NON-FINITE] forms.</li>
-			
-					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: will reSPOND, can reSPOND</li>
-					<li className="margin-bottom-20 list-none">The linear integration of Attitude, Actual Imposition, and Pure Action. In this context, "will" and "can" are [Present Modal Auxiliary Verb] with [FInite] forms, while "respond" is an accompanying [Non-finite] form.</li>
-
-					<li className="list-none">[<strong>VERB PHRASE as PREDicator</strong>]: DID reSPOND, DOES reSPOND</li>
-					<li className="margin-bottom-20 list-none">State, Time, and Action go hand in hand, separated by a space within the sentence. In this context, "DID" and "DOES" are [PRImary VERB as PREDicator] with [FInite] forms, while "reSPOND" is an accompanying [Non-finite] form.</li>
-			
-				</ol>
-			
-
-			<h4 className="margin-y-40" id="CLAUSE-SUBsystem">b. CLAUSE SUBsystem</h4>
-					
-			<p className="text-indent-whole"><strong>CORE PRINCIPLES:</strong>:</p>
-
-			<p className="text-indent-whole">When any [PREDicator HEAD] from the above system is followed by a complement such as [Complement], [Non-finite Clause as Catenative Complement], [Finite Clause as a Complement], [Finite Clause as an Adjunct], the entire structure is immediately labeled and elevated to its corresponding [Phrase] form.</p>
-
-			<ol className="margin-top-40">
-			
-					<li value="1">[<strong>CLAUSE</strong>]: because [it rains].</li>
-					<li className="list-none">Traditional textbooks teach you that "Clause" is "Mệnh Đề" or "Vế". But to a native speaker, a Clause is simply a distinct, self-contained 'Điều' (Unit). In law, it is a "Điều Khoản" (Legal Unit). In grammar, it is a "Điều Câu" (Grammatical Unit). Understanding it this way helps you think exactly like a native speaker.</li>
-
-					<li className="margin-y-20 list-none"><strong>Why prepoSITion PHRASE</strong>, <strong>not conJUNCtion CLAUSE</strong>?</li>
-
-					<li className="margin-bottom-20 list-none">[MODern GRAMmar] considers "because it RAINS" to be a [prepoSITion PHRASE] because it treats the [Transitive Preposition]and the [VERB] as the same. If a CLAUSE follows the VERB, it is still called a [Verb Phrase].</li>
-
-					<li className="margin-bottom-20 list-none">[MODern GRAMmar] does not distinguish whether what follows a [Transitive Preposition]is a [Clause] or a [Noun Phrase]. Anything following a [Transitive Preposition]is considered a [Complement] and is called a [prepoSITion PHRASE], as in "because it RAINS." [Modern Grammar] does not use the term [Conjunction Clause] because this is traditional grammar from hundreds of years ago.</li>
-			
-					<li value="2">[<strong>coORdinator</strong>]: and, or, but</li>
-					<li className="margin-bottom-20 list-none">Modern grammar considers only the three words "but", "or", and "and" to be [coORdinator]; the rest are [transitive prepositions] or other types of words.</li>
-
-					<li value="3">[<strong>suBORdinator</strong>]: that, if, whether</li>
-					<li className="list-none">Modern grammar recognizes only three words: "that", "if" (meaning "whether"), and "whether" (meaning "whether").</li>
-			
-				</ol>
 			
 
 
@@ -421,7 +451,7 @@ export default function reSPOND(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">2. CLAUSE SUBsystem</h4>
+			<h4 className="margin-y-40" id="CLAUSE-SUBsystem">2. CLAUSE SUBsystem</h4>
 
 			<p className="margin-top-20 text-indent-whole"><strong>2.1</strong> <strong>Forming the construction</strong>: [<strong>non-FInite CLAUSE</strong>]</p>
 

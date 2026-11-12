@@ -146,12 +146,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 			<div className="vocabulary-container margin-top-20">
 						
 				{/* =============================
-						VERB PHRASE
+						FInite VERB
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="VERB-PHRASE"><mark className="highlight-secondary-padding-2-4">VERB PHRASE</mark></summary>
+					<summary id="FInite-FORMS"><mark className="highlight-secondary-padding-2-4">FInite VERB</mark></summary>
 
 					<ul className="list-border1">
 
