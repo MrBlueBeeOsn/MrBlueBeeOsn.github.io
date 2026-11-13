@@ -1167,16 +1167,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the CHART SHOWS the ANnual SALES GROWTH CLEARly.</li>
-					<li className="list-none">The chart clearly shows how sales have increased each year.</li>
+					<li>the CHART <span className="pill-teal">SHOWS</span> the ANnual SALES GROWTH CLEARly.</li>
+					<li className="list-none">The chart clearly <span className="pill-teal">shows</span> how sales <span className="pill-teal">have increased</span> each year.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “SHOWS” (for the third-person singular subject “the CHART”) to indicate that an event occurs regularly.</li>
 			
-					<li>he SHOWED his NEW PROJect PROUDly at the MEETing.</li>
-					<li className="list-none">He was proud to show off his new project at the meeting.</li>
+					<li>he <span className="pill-teal">SHOWED</span> his NEW PROJect PROUDly at the MEETing.</li>
+					<li className="list-none">He <span className="pill-teal">was</span> proud to <span className="pill-teal">show off</span> his new project at the meeting.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the form “SHOWED” to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>she has SHOWN GREAT imPROVEment REcently.</li>
-					<li className="list-none">She has shown big improvement lately.</li>
+					<li>she <span className="pill-teal">has SHOWN</span> GREAT imPROVEment REcently.</li>
+					<li className="list-none">She <span className="pill-teal">has shown</span> big improvement lately.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “has SHOWN” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -1186,16 +1186,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the BAby SLEEPS for EIGHT HOURS <strong>ever</strong>y NIGHT.</li>
-					<li className="list-none">Every night, the baby sleeps for eight hours.</li>
+					<li>the BAby <span className="pill-teal">SLEEPS</span> for EIGHT HOURS <strong>ever</strong>y NIGHT.</li>
+					<li className="list-none">Every night, the baby <span className="pill-teal">sleeps</span> for eight hours.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the “sleeps” form (for the third-person singular subject “the Baby”) to indicate a habit or a regular occurrence.</li>
 			
-					<li>he SLEPT SOUNDly through the NIGHT.</li>
-					<li className="list-none">He slept quietly all night.</li>
+					<li>he <span className="pill-teal">SLEPT</span> SOUNDly through the NIGHT.</li>
+					<li className="list-none">He <span className="pill-teal">slept</span> quietly all night.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “SLEPT” form to indicate an action that occurred and ended in the past.</li>
 			
-					<li>she has SLEPT for a LONG TIME.</li>
-					<li className="list-none">She slept for a long time.</li>
+					<li>she <span className="pill-teal">has SLEPT</span> for a LONG TIME.</li>
+					<li className="list-none">She <span className="pill-teal">slept</span> for a long time.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “has SLEPT” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -1205,16 +1205,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he SWIMS in the POOL <strong>ever</strong>y MORNing.</li>
-					<li className="list-none">Every morning, he swims in the pool.</li>
+					<li>he <span className="pill-teal">SWIMS</span> in the POOL <strong>ever</strong>y MORNing.</li>
+					<li className="list-none">Every morning, he <span className="pill-teal">swims</span> in the pool.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense in the SWIMS form (for the third-person singular subject “he”) to refer to habits or events that occur regularly.</li>
 			
-					<li>she SWAM across the RIVer YESterday.</li>
-					<li className="list-none">She was able to swim across the river yesterday.</li>
+					<li>she <span className="pill-teal">SWAM across</span> the RIVer YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">was</span> able to <span className="pill-teal">swim</span> across the river yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the SWAM pattern to describe an action that began and ended in the past.</li>
 			
-					<li>they have SWUM in this LAKE <strong>man</strong>y TIMES.</li>
-					<li className="list-none">They've swum in this lake many times.</li>
+					<li>they <span className="pill-teal">have SWUM</span> in this LAKE <strong>man</strong>y TIMES.</li>
+					<li className="list-none">They <span className="pill-teal">have gone swimming</span> in this lake many times.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “have SWUM” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -1224,16 +1224,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she TEACHes ENGlish at a LOcal SCHOOL.</li>
-					<li className="list-none">She teaches English at a local elementary school.</li>
+					<li>she <span className="pill-teal">TEACHes</span> ENGlish at a LOcal SCHOOL.</li>
+					<li className="list-none">She <span className="pill-teal">is</span> a teacher who <span className="pill-teal">teaches</span> English at a local school.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the TEACHes form (for the third-person singular subject “she”) to describe habits or events that occur regularly.</li>
 			
-					<li>he TAUGHT us a VALuable LESson YESterday.</li>
-					<li className="list-none">He taught us a very helpful and valuable lesson yesterday.</li>
+					<li>he <span className="pill-teal">TAUGHT</span> us a VALuable LESson YESterday.</li>
+					<li className="list-none">He <span className="pill-teal">taught</span> us a very helpful and valuable lesson yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Past Simple Tense with the form “TAUGHT” to refer to an action that took place and ended in the past.</li>
 			
-					<li>they have TAUGHT this SUBject for FIVE YEARS.</li>
-					<li className="list-none">They've taught this subject for five years.</li>
+					<li>they <span className="pill-teal">have TAUGHT</span> this SUBject for FIVE YEARS.</li>
+					<li className="list-none">They <span className="pill-teal">have been teaching</span> this subject for five years.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “have TAUGHT” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -1243,16 +1243,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the TEACHer underSTANDS the STUdent's PROBlem.</li>
-					<li className="list-none">The teacher gets what the student's problem is.</li>
+					<li>the TEACHer <span className="pill-teal">underSTANDS</span> the STUdent's PROBlem.</li>
+					<li className="list-none">The teacher <span className="pill-teal">gets</span> what the student's problem <span className="pill-teal">is.</span></li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “understands” (for the third-person singular subject “the teacher”) to indicate that the action occurs regularly.</li>
 			
-					<li>she underSTOOD the LESson CLEARly <strong>af</strong>ter the explaNAtion.</li>
-					<li className="list-none">She understood the lesson after the instructor's clear explanation.</li>
+					<li>she <span className="pill-teal">underSTOOD</span> the LESson CLEARly <strong>af</strong>ter the explaNAtion.</li>
+					<li className="list-none">She <span className="pill-teal">understood</span> the lesson after the instructor's clear explanation.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the form “underSTOOD” to refer to an action that occurred and was completed in the past.</li>
 			
-					<li>he has underSTOOD the CORE CONcept THORoughly.</li>
-					<li className="list-none">He has a strong understanding of the main idea.</li>
+					<li>he <span className="pill-teal">has underSTOOD</span> the CORE CONcept THORoughly.</li>
+					<li className="list-none">He <span className="pill-teal">has</span> a strong understanding of the main idea.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “has understood” to describe an action that has been completed and is relevant to the present.</li>
 			
 				</ul>
@@ -1262,16 +1262,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>our TEAM WINS <strong>ever</strong>y GAME THIS SEAson.</li>
-					<li className="list-none">Our team always wins games during the season.</li>
+					<li>our TEAM <span className="pill-teal">WINS</span> <strong>ever</strong>y GAME THIS SEAson.</li>
+					<li className="list-none">Our team always <span className="pill-teal">wins</span> games during the season.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the WINS form (for the third-person singular subject “our TEAM”) to indicate that the action occurs regularly.</li>
 			
-					<li>she WON the FIRST PRIZE in the compeTITion YESterday.</li>
-					<li className="list-none">She came in first place in the competition yesterday.</li>
+					<li>she <span className="pill-teal">WON</span> the FIRST PRIZE in the compeTITion YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">came</span> in first place in the competition yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “WON” form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>he has WON all the MATCHes EASily.</li>
-					<li className="list-none">He won all the matches without much difficulty.</li>
+					<li>he <span className="pill-teal">has WON</span> all the MATCHes EASily.</li>
+					<li className="list-none">He <span className="pill-teal">won</span> all the matches without much difficulty.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “has WON” to describe an event that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -1281,16 +1281,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>a MAN WEARS a WARM COAT in the COLD WEATHer.</li>
-					<li className="list-none">A man wears a warm coat in the cold outside.</li>
+					<li>a MAN <span className="pill-teal">WEARS</span> a WARM COAT in the COLD WEATHer.</li>
+					<li className="list-none">A man <span className="pill-teal">wears</span> a warm coat in the cold outside.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “wears” (for the third-person singular subject “A man”) to refer to a habit or an event that occurs depending on weather conditions.</li>
 			
-					<li>she WORE a LOVEly DRESS to the PARTy LAST NIGHT.</li>
-					<li className="list-none">She looked beautiful in a lovely dress at last night's party.</li>
+					<li>she <span className="pill-teal">WORE</span> a LOVEly DRESS to the PARTy LAST NIGHT.</li>
+					<li className="list-none">She <span className="pill-teal">looked</span> beautiful in a lovely dress at last night's party.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the form “wore” to indicate an action that occurred and was completely finished in the past.</li>
 			
-					<li>this PAIR of SHOES has been worN OUT comPLETely.</li>
-					<li className="list-none">These shoes are completely torn up.</li>
+					<li>this PAIR of SHOES <span className="pill-teal">has been worN OUT</span> comPLETely.</li>
+					<li className="list-none">These shoes <span className="pill-teal">are</span> completely <span className="pill-teal">torn up.</span></li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Passive Tense with the verb phrase “worn out” (where ‘out’ is the adverb immediately following “worn”), referring to an action that has been completed and has left a result in the present.</li>
 			
 				</ul>
@@ -1300,16 +1300,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>a PLANE FLIES HIGH above the CLOUDS.</li>
-					<li className="list-none">A plane flies high up in the sky, far above the clouds.</li>
+					<li>a PLANE <span className="pill-teal">FLIES</span> HIGH above the CLOUDS.</li>
+					<li className="list-none">A plane <span className="pill-teal">flies</span> high up in the sky, far above the clouds.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “FLIES” combined with the state verb ‘HIGH’ (for the third-person singular subject “a PLANE”) to express a fact or an action that occurs regularly.</li>
 			
-					<li>the BIRD flew aWAY QUICKly when i CAME CLOSE.</li>
-					<li className="list-none">The bird flew away quickly as soon as it saw me.</li>
+					<li>the BIRD <span className="pill-teal">FLEW aWAY</span> QUICKly when i <span className="pill-teal">CAME</span> CLOSE.</li>
+					<li className="list-none">The bird <span className="pill-teal">flew away</span> quickly as soon as it <span className="pill-teal">saw</span> me.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the phrase “flew away” to indicate an action that occurred and ended in the past.</li>
 			
-					<li>he has FLOWN to VietNAM on a BUSIness TRIP.</li>
-					<li className="list-none">He has traveled to Vietnam for work.</li>
+					<li>he <span className="pill-teal">has FLOWN</span> to VietNAM on a BUSIness TRIP.</li>
+					<li className="list-none">He <span className="pill-teal">has traveled</span> to Vietnam for work.</li>
 					<li className="list-none">This structure uses a verb in the perfect tense (has FLOWN) to describe an action that has been completed and is related to the present, with “he” as the subject.</li>
 			
 				</ul>
@@ -1319,16 +1319,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the RAIN FALLS HEAVily on the ROOF.</li>
-					<li className="list-none">It is raining very heavily on the roof.</li>
+					<li>the RAIN <span className="pill-teal">FALLS</span> HEAVily on the ROOF.</li>
+					<li className="list-none">It <span className="pill-teal">is raining</span> very heavily on the roof.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the “FALLS” form (for the third-person singular subject “the RAIN”) to describe phenomena or events that occur according to natural laws.</li>
 			
-					<li>he FELL from the CAMERa eQUIPment while WORKing outSIDE.</li>
-					<li className="list-none">He fell from some equipment while exercising outdoors.</li>
+					<li>he <span className="pill-teal">FELL</span> from the CAMERa eQUIPment while <span className="pill-teal">WORKing</span> outSIDE.</li>
+					<li className="list-none">He <span className="pill-teal">fell</span> from some equipment while <span className="pill-teal">exercising</span> outdoors.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “FELL” form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li><strong>sever</strong>al OLD TREES have <strong>fal</strong>len DOWN <strong>dur</strong>ing the STORM.</li>
-					<li className="list-none">The storm knocked over several old trees.</li>
+					<li><strong>sever</strong>al OLD TREES <span className="pill-teal">have FALLen DOWN</span> <strong>dur</strong>ing the STORM.</li>
+					<li className="list-none">The storm <span className="pill-teal">knocked over</span> several old trees.</li>
 					<li className="list-none">This structure uses a verb in the past tense (FALLen) following “have” to describe an event that has occurred and has resulted in a current outcome, with the subject being <strong>sever</strong>al OLD TREES (some ancient trees).</li>
 			
 				</ul>
@@ -1338,16 +1338,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he CUTS the VEGETables for COOKing.</li>
-					<li className="list-none">He chops the vegetables so that they are ready to cook.</li>
+					<li>he <span className="pill-teal">CUTS</span> the VEGETables for <span className="pill-teal">COOKing.</span></li>
+					<li className="list-none">He <span className="pill-teal">chops</span> the vegetables so that they <span className="pill-teal">are</span> ready to <span className="pill-teal">cook.</span></li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the CUTS form (for the third-person singular subject “He”) to indicate an action that occurs regularly.</li>
 			
-					<li>she CUT a PIECE of CAKE for me YESterday.</li>
-					<li className="list-none">She cut a slice of cake for me yesterday.</li>
+					<li>she <span className="pill-teal">CUT</span> a PIECE of CAKE for me YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">cut</span> a slice of cake for me yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the CUT form to indicate an action that occurred and ended in the past (this verb retains its original form in the past tense).</li>
 			
-					<li>the GRASS has been CUT SHORT in the GARden.</li>
-					<li className="list-none">The grass in the garden has been cut very short.</li>
+					<li>the GRASS <span className="pill-teal">has been CUT</span> SHORT in the GARden.</li>
+					<li className="list-none">The grass in the garden <span className="pill-teal">has been cut</span> very short.</li>
 					<li className="list-none">This structure uses an action verb in the perfect tense (CUT) following “has been” to describe an action that has been completed and has produced a result in the present, with the subject affected being the GRASS (lawn).</li>
 			
 				</ul>
@@ -1357,16 +1357,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he HITS the TENnis BALL with GREAT FORCE.</li>
-					<li className="list-none">He hits the tennis ball with a strong swing.</li>
+					<li>he <span className="pill-teal">HITS</span> the TENnis BALL with GREAT FORCE.</li>
+					<li className="list-none">The player <span className="pill-teal">hits</span> the tennis ball with a lot of force..</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the HITS form (for the third-person singular subject “he”) to describe actions that occur regularly or are technical in nature in sports.</li>
 			
-					<li>the CAR HIT a TREE on the SIDE of the ROAD LAST NIGHT.</li>
-					<li className="list-none">The car hit a tree last night while it was on the side of the road.</li>
+					<li>the CAR <span className="pill-teal">HIT</span> a TREE on the SIDE of the ROAD LAST NIGHT.</li>
+					<li className="list-none">The car <span className="pill-teal">hit</span> a tree last night while it <span className="pill-teal">was</span> on the side of the road.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the HIT form to refer to an event that occurred and ended in the past (this word remains unchanged in the past tense).</li>
 			
-					<li>the TARget has been HIT sucCESSfully by the ARcher.</li>
-					<li className="list-none">The archer successfully hit the target.</li>
+					<li>the TARget <span className="pill-teal">has been HIT</span> sucCESSfully by the ARcher.</li>
+					<li className="list-none">The archer successfully <span className="pill-teal">hit</span> the target.</li>
 					<li className="list-none">This structure uses an action verb in the perfect tense (HIT) following “has been” to describe an action that has been completed and has produced a result in the present, with “the TARget” as the recipient of the action.</li>
 			
 				</ul>
@@ -1376,16 +1376,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he HURTS his KNEE when PLAYing FOOTball.</li>
-					<li className="list-none">He has a sore knee when he plays football</li>
+					<li>he <span className="pill-teal">HURTS</span> his KNEE when <span className="pill-teal">PLAYing</span> FOOTball.</li>
+					<li className="list-none">He <span className="pill-teal">has</span> a sore knee when he <span className="pill-teal">plays</span> football</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “HURTS” (for the third-person singular subject “he”) to describe something that happens frequently or a habit when playing sports.</li>
 			
-					<li>she HURT her FINger while COOKing YESterday.</li>
-					<li className="list-none">She hurt her finger while she was cooking something yesterday.</li>
+					<li>she <span className="pill-teal">HURT</span> her FINger while <span className="pill-teal">COOKing</span> YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">cut</span> her finger while she <span className="pill-teal">was cooking</span> yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “HURT” form to indicate an action that occurred and ended in the past (this verb remains unchanged in the past tense).</li>
 			
-					<li>his FEELings have been HURT by those HARSH WORDS.</li>
-					<li className="list-none">His feelings were hurt by the harsh words.</li>
+					<li>his FEELings <span className="pill-teal">have been HURT</span> by those HARSH WORDS.</li>
+					<li className="list-none">His feelings <span className="pill-teal">were hurt</span> by the harsh words.</li>
 					<li className="list-none">This structure uses an action verb in the past perfect tense (HURT) following “have been” to describe an event that occurred in the past and has had an effect in the present, with the subject affected being his FEELINGS (his emotions).</li>
 			
 				</ul>

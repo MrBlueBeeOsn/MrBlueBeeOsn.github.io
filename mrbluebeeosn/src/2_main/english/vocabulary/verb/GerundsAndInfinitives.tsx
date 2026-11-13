@@ -832,8 +832,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>RISKED LOsing</strong> all her fiNANcial DATA by NOT <strong>back</strong>ing UP the SYStem REGularly.</li>
-					<li className="list-none">She could have lost all her financial data if she had not regularly saved a copy of the system.</li>
+					<li>she <span className="pill-teal">RISKED LOsing</span> all her fiNANcial DATA by NOT <span className="pill-teal">BACKing UP</span> the SYStem REGularly.</li>
+					<li className="list-none">She <span className="pill-teal">could have lost</span> all her financial data if she <span className="pill-teal">had</span> not regularly <span className="pill-teal">saved</span> a copy of the system.</li>
 					<li className="list-none">"She" is the subject. After the verb "risk," the following action must be in the -ing form (LOsing), which is used to express the act of taking a risk in the face of an unfavorable outcome.</li>
 			
 				</ul>
@@ -843,8 +843,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>postPONED upDAting</strong> the fiNANcial RECords un<strong>til</strong> the NEW SOFTware was FULLy inSTALLED.</li>
-					<li className="list-none">The financial records were postponed until the new software was fully installed.</li>
+					<li>she <span className="pill-teal">postPONED upDAting</span> the fiNANcial RECords un<strong>til</strong> the NEW SOFTware <span className="pill-teal">was</span> FULLy <span className="pill-teal">inSTALLED.</span></li>
+					<li className="list-none">The financial records <span className="pill-teal">were postponed</span> until the new software <span className="pill-teal">was</span> fully <span className="pill-teal">installed.</span></li>
 					<li className="list-none">"She" is the subject. After the verb "postpone," the following action must be in the -ing form ("updating"), which is used to indicate the postponement or rescheduling of a plan or action to a later time.</li>
 			
 				</ul>
@@ -854,8 +854,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>MISSED CATCHing</strong> the EARly BUS be<strong>cause</strong> she SPENT TOO MUCH TIME reVIEWing the fiNANcial SPREADsheets.</li>
-					<li className="list-none">She didn't catch the early bus because she spent too much time looking at the financial spreadsheets.</li>
+					<li>she <span className="pill-teal">MISSED CATCHing</span> the EARly BUS be<strong>cause</strong> she <span className="pill-teal">SPENT</span> TOO MUCH TIME <span className="pill-teal">reVIEWing</span> the fiNANcial SPREADsheets.</li>
+					<li className="list-none">She <span className="pill-teal">didn't catch</span> the early bus because she <span className="pill-teal">spent</span> too much time <span className="pill-teal">looking at</span> the financial spreadsheets.</li>
 					<li className="list-none">"She" is the subject. After the verb "MISS," the following action must be in the -ing form (CATCHing), used to express missing, failing to catch, or nearly missing an action.</li>
 			
 				</ul>
@@ -865,8 +865,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>PRACticed TYping</strong> fiNANcial DATA QUICKly to imPROVE her DAIly WORKflow.</li>
-					<li className="list-none">She trained herself to type financial data more quickly to make her daily workflow better.</li>
+					<li>she <span className="pill-teal">PRACticed TYping</span> fiNANcial DATA QUICKly to <span className="pill-teal">imPROVE</span> her DAIly WORKflow.</li>
+					<li className="list-none">She <span className="pill-teal">trained</span> herself to <span className="pill-teal">type</span> financial data more quickly to <span className="pill-teal">make</span> her daily workflow better.</li>
 					<li className="list-none">"She" is the subject. After the verb "practice," the following action must be in the -ing form (typing), which indicates the repetition of an action for the purpose of honing a skill or craft.</li>
 			
 				</ul>
@@ -876,8 +876,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>deNIED MAking</strong> any ERrors in the MONTHly fiNANcial BALance SHEET.</li>
-					<li className="list-none">He said he did not make any errors on the monthly financial statement.</li>
+					<li>he <span className="pill-teal">deNIED MAking</span> any ERrors in the MONTHly fiNANcial BALance SHEET.</li>
+					<li className="list-none">He <span className="pill-teal">said</span> he <span className="pill-teal">did</span> not <span className="pill-teal">make</span> any errors on the monthly financial statement.</li>
 					<li className="list-none">He is the subject. After the verb "deNY," the following action must be in the -ing form (MAking), which is used to indicate the denial or rejection of an action one has performed.</li>
 			
 				</ul>
@@ -887,8 +887,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>adMITted MAking</strong> a SLIGHT misTAKE in the acCOUNTing SPREADsheet.</li>
-					<li className="list-none">He said that there was a small mistake in the spreadsheet.</li>
+					<li>he <span className="pill-teal">adMITted MAking</span> a SLIGHT misTAKE in the acCOUNTing SPREADsheet.</li>
+					<li className="list-none">He <span className="pill-teal">said</span> that there <span className="pill-teal">was</span> a small mistake in the spreadsheet.</li>
 					<li className="list-none">He is the subject. After the verb "admit," the following action must be in the -ing form (making), which is used to indicate the acknowledgment or admission of an action that occurred in the past.</li>
 			
 				</ul>
@@ -904,8 +904,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i <strong>would HATE to MISS</strong> the DEADline for subMITting the fiNANcial AUdit rePORTS.</li>
-					<li className="list-none">I would really rather not miss the deadline for submitting the financial audit reports.</li>
+					<li>i <span className="pill-teal">would HATE</span> to <span className="pill-teal">MISS</span> the DEADline for <span className="pill-teal">subMITting</span> the fiNANcial AUdit rePORTS.</li>
+					<li className="list-none">I <span className="pill-teal">would</span> really rather not <span className="pill-teal">miss</span> the deadline for <span className="pill-teal">submitting</span> the financial audit reports.</li>
 					<li className="list-none">“I” is the subject. The structure “would HATE + to V” is used to express reluctance, fear, or a desire to prevent a specific event from occurring in the future or in a hypothetical situation.</li>
 			
 				</ul>
@@ -915,8 +915,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i <strong>would LOVE to disCUSS</strong> the NEW WEB PROJect with you toMORrow.</li>
-					<li className="list-none">Tomorrow, I would love to talk about the new website project with you.</li>
+					<li>i <span className="pill-teal">would LOVE</span> to <span className="pill-teal">disCUSS</span> the NEW WEB PROJect with you toMORrow.</li>
+					<li className="list-none">Tomorrow, I <span className="pill-teal">would love</span> to <span className="pill-teal">talk</span> about the new website project with you.</li>
 					<li className="list-none">“I” is the subject. The structure “would LOVE + to V” (often abbreviated as “d LOVE to”) is used to politely express a strong desire regarding a future plan, or is often used to cheerfully accept someone's invitation.</li>
 			
 				</ul>
@@ -926,8 +926,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i <strong>would LIKE to CHECK</strong> the BANK STATEments and INvoices be<strong>fore</strong> LEAVing the OFfice.</li>
-					<li className="list-none">Before I leave the office, I want to review the bank statements and invoices.</li>
+					<li>i <span className="pill-teal">would LIKE</span> to <span className="pill-teal">CHECK</span> the BANK STATEments and INvoices be<strong>fore</strong> <span className="pill-teal">LEAVing</span> the OFfice.</li>
+					<li className="list-none">Before I <span className="pill-teal">leave</span> the office, I <span className="pill-teal">want</span> to <span className="pill-teal">review</span> the bank statements and invoices.</li>
 					<li className="list-none">“I” is the subject. The structure “would LIKE + to V” (often abbreviated as “d LIKE to”) is a more formal and polite way of saying “WANT,” used to express a desire or request to perform a specific action in the present or future.</li>
 			
 				</ul>
@@ -937,8 +937,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>aGREED to HELP</strong> reVIEW the MONTHly fiNANcial rePORTs be<strong>fore</strong> the DEADline.</li>
-					<li className="list-none">He wants to make sure the monthly financial reports are reviewed before the deadline.</li>
+					<li>he <span className="pill-teal">aGREED</span> to <span className="pill-teal">HELP reVIEW</span> the MONTHly fiNANcial rePORTs be<strong>fore</strong> the DEADline.</li>
+					<li className="list-none">He <span className="pill-teal">wants</span> to <span className="pill-teal">make</span> sure the monthly financial reports <span className="pill-teal">are reviewed</span> before the deadline.</li>
 					<li className="list-none">He is the subject. After the verb “aGREE,” the following action must be in the “to V” form (to HELP), expressing agreement or a commitment to perform a specific action.</li>
 			
 				</ul>
@@ -948,8 +948,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>LEARNED to COOK</strong> traDITional vietnaMESE DISHes USing a CAST Iron DUTCH OVen.</li>
-					<li className="list-none">He learned to cook traditional Vietnamese dishes using a cast iron Dutch oven.</li>
+					<li>he <span className="pill-teal">LEARNED</span> to <span className="pill-teal">COOK</span> traDITional vietnaMESE DISHes <span className="pill-teal">Using</span> a CAST Iron DUTCH OVen.</li>
+					<li className="list-none">He <span className="pill-teal">learned</span> to <span className="pill-teal">cook</span> traditional Vietnamese dishes <span className="pill-teal">using</span> a cast iron Dutch oven.</li>
 					<li className="list-none">He is the subject. After the verb “LEARN,” the following action must be in the “to V” form (to COOK), indicating the process of acquiring a new skill or knowledge to perform a specific task.</li>
 			
 				</ul>
@@ -959,8 +959,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>reFUSED to SIGN</strong> the fiNANcial AUdit rePORT un<strong>til</strong> all ERrors were corRECTed.</li>
-					<li className="list-none">He wouldn't sign the financial audit report until all the errors had been corrected.</li>
+					<li>he <span className="pill-teal">reFUSED</span> to <span className="pill-teal">SIGN</span> the fiNANcial AUdit rePORT un<strong>til</strong> all ERrors <span className="pill-teal">were corRECTed.</span></li>
+					<li className="list-none">He <span className="pill-teal">wouldn't sign</span> the financial audit report until all the errors <span className="pill-teal">had been corrected.</span></li>
 					<li className="list-none">He is the subject. After the verb “reFUSE,” the following action must be in the “to V” form (to SIGN), expressing disagreement or a firm refusal to perform a specific action.</li>
 			
 				</ul>
@@ -970,8 +970,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>HOPES to FINish</strong> the WEB deVELopment PROJect be<strong>fore</strong> the END of the MONTH.</li>
-					<li className="list-none">He wants to finish the web development project before the end of the month.</li>
+					<li>he <span className="pill-teal">HOPES</span> to <span className="pill-teal">FINish</span> the WEB deVELopment PROJect be<strong>fore</strong> the END of the MONTH.</li>
+					<li className="list-none">He <span className="pill-teal">wants</span> to <span className="pill-teal">finish</span> the web development project before the end of the month.</li>
 					<li className="list-none">He is the subject. After the verb “HOPE,” the following action must be in the “to V” form (to FINish), expressing a wish or expectation that a specific action will be carried out in the future.</li>
 			
 				</ul>
@@ -981,8 +981,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>deCIded to BUY</strong> a NEW CAST Iron WOK for his COOKing exPERiments.</li>
-					<li className="list-none">He bought a new cast-iron wok to use in his cooking experiments.</li>
+					<li>he <span className="pill-teal">deCIded</span> to <span className="pill-teal">BUY</span> a NEW CAST Iron WOK for his COOKing exPERiments.</li>
+					<li className="list-none">He <span className="pill-teal">bought</span> a new cast-iron wok to <span className="pill-teal">use</span> in his cooking experiments.</li>
 					<li className="list-none">He is the subject. After the verb “decide,” the following action must be in the “to V” form (to buy), indicating a choice or decision to perform a specific action after careful consideration.</li>
 			
 				</ul>
@@ -992,8 +992,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>HELPED his COLleague to FIX</strong> the WEB deVELopment BUG on the PLATform.</li>
-					<li className="list-none">He helped his colleague solve an issue with the web development platform.</li>
+					<li>he <span className="pill-teal">HELPED</span> his COLleague to <span className="pill-teal">FIX</span> the WEB deVELopment BUG on the PLATform.</li>
+					<li className="list-none">He <span className="pill-teal">helped</span> his colleague <span className="pill-teal">solve</span> an issue with the web development platform.</li>
 					<li className="list-none">He is the main subject, and his colleague is the recipient of the help. After “HELP + sb,” you can either use “to V” (e.g., “to FIX”) or omit ‘to’ and use the base form (e.g., “FIX”)—both are acceptable.</li>
 			
 				</ul>
@@ -1003,8 +1003,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>NEEDS to reVIEW</strong> the fiNANcial STATEments be<strong>fore</strong> subMITting them to the MANager.</li>
-					<li className="list-none">Before she sends the financial statements to the manager, she needs to review them.</li>
+					<li>she <span className="pill-teal">NEEDS</span> to <span className="pill-teal">reVIEW</span> the fiNANcial STATEments be<strong>fore</strong> <span className="pill-teal">subMITting</span> them to the MANager.</li>
+					<li className="list-none">Before she <span className="pill-teal">sends</span> the financial statements to the manager, she <span className="pill-teal">needs</span> to <span className="pill-teal"></span> them.</li>
 					<li className="list-none">“She” is the subject. After the verb ‘NEED’ (when referring to the subject's need), the following action must be in the “to V” form (to reVIEW), indicating an action that must be performed.</li>
 			
 				</ul>
@@ -1014,8 +1014,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>exPECTS to reCEIVE</strong> a POSitive reSPONSE from the CLIent regarding the NEW acCOUNTing SOFTware.</li>
-					<li className="list-none">she exPECTS to reCEIVE a POSitive reSPONSE from the CLIent regarding the NEW acCOUNTing SOFTware.</li>
+					<li>she <span className="pill-teal">exPECTS</span> to <span className="pill-teal">reCEIVE</span> a POSitive reSPONSE from the CLIent regarding the NEW acCOUNTing SOFTware.</li>
+					<li className="list-none">She <span className="pill-teal">hopes</span> the client <span className="pill-teal">will like</span> the new accounting software.</li>
 					<li className="list-none">“She” is the subject. After the verb “exPECT,” the following action is in the “to V” form (to reCEIVE), expressing the expectation or prediction that an event will occur in the future.</li>
 			
 				</ul>
@@ -1025,8 +1025,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the SUDden SYStem ERror <strong>FORCED her to reWRITE</strong> the enTIre acCOUNTing rePORT from SCRATCH.</li>
-					<li className="list-none">There was a sudden system error. This forced her to start the accounting report from the beginning.</li>
+					<li>the SUDden SYStem ERror <span className="pill-teal">FORCED</span> her to <span className="pill-teal">reWRITE</span> the enTIre acCOUNTing rePORT from SCRATCH.</li>
+					<li className="list-none">There <span className="pill-teal">was</span> a sudden system error. This <span className="pill-teal">forced</span> her to <span className="pill-teal">start</span> the accounting report from the beginning.</li>
 					<li className="list-none">“the SUDden SYStem ERror” is the agent performing the action, and ‘her’ is the recipient of the forced action. After “FORCE + sb,” the next action must be in the form of “to V” (to reWRITE).</li>
 			
 				</ul>
@@ -1036,8 +1036,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the MANager <strong>TOLD her to subMIT</strong> the fiNANcial SPREADsheet by this afterNOON.</li>
-					<li className="list-none">The manager asked her to turn in the spreadsheet with the financial information by this afternoon.</li>
+					<li>the MANager <span className="pill-teal">TOLD </span>her to <span className="pill-teal">subMIT</span> the fiNANcial SPREADsheet by this afterNOON.</li>
+					<li className="list-none">The manager <span className="pill-teal">asked</span> her to <span className="pill-teal">turn</span> in the spreadsheet with the financial information by this afternoon.</li>
 					<li className="list-none">“the MANager” is the subject giving the command or instruction, and ‘her’ is the subject receiving the request. After “TELL + sb,” the following action must be in the “to V” form (e.g., “to subMIT”), which is used to give a command, instruction, or guidance to someone on what to do.</li>
 			
 				</ul>
@@ -1047,8 +1047,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>ASKED to LEAVE</strong> EARly to atTEND an imPORTant EVEning MEETing.</li>
-					<li className="list-none">He asked to leave early so that he could attend an important meeting that evening.</li>
+					<li>he <span className="pill-teal">ASKED</span> to <span className="pill-teal">LEAVE</span> EARly to <span className="pill-teal">atTEND</span> an imPORTant EVEning MEETing.</li>
+					<li className="list-none">He <span className="pill-teal">asked</span> to <span className="pill-teal">leave</span> early so that he <span className="pill-teal">could attend</span> an important meeting that evening.</li>
 					<li className="list-none">He is the subject. When there is no indirect object (such as “sb”) following “ASK,” and the main subject performs the subsequent action himself, we use the structure “ASK + to V” (to LEAVE) to express a request for permission or a suggestion to do something.</li>
 			
 				</ul>
@@ -1058,8 +1058,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>TENDS to CHECK</strong> the ACcuracy of the acCOUNTing rePORTs TWICE be<strong>fore</strong> subMITting them.</li>
-					<li className="list-none">Before submitting accounting reports, he double-checks them for accuracy.</li>
+					<li>he <span className="pill-teal">TENDS</span> to <span className="pill-teal">CHECK</span> the ACcuracy of the acCOUNTing rePORTs TWICE be<strong>fore</strong> <span className="pill-teal">subMITting</span> them.</li>
+					<li className="list-none">Before <span className="pill-teal">submitting</span> accounting reports, he <span className="pill-teal">double-checks</span> them for accuracy.</li>
 					<li className="list-none">He is the subject. After the verb “TEND,” the following action must be in the “to V” form (to CHECK), expressing a habit or common tendency of the subject in a specific situation.</li>
 			
 				</ul>
@@ -1069,8 +1069,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>SEEMS to underSTAND</strong> the NEW WEB deVELopment FRAMEwork VERy QUICKly.</li>
-					<li className="list-none">He seems to understand the new web development framework easily.</li>
+					<li>he <span className="pill-teal">SEEMS</span> to <span className="pill-teal">underSTAND</span> the NEW WEB deVELopment FRAMEwork VERy QUICKly.</li>
+					<li className="list-none">He quickly <span className="pill-teal">understands</span> the new web development framework.</li>
 					<li className="list-none">He is the subject. After the verb “SEEM,” the following action must be in the “to V” form (to UNDERSTAND), which is used to express a conjecture or a state that appears to be occurring in the present.</li>
 			
 				</ul>
@@ -1080,8 +1080,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>apPEARS to SOLVE</strong> the WEBsite BUG that TROUBled the deVELopment TEAM YESterday.</li>
-					<li className="list-none">He seems to have fixed the website bug that caused problems for the development team yesterday.</li>
+					<li>he <span className="pill-teal">apPEARS</span> to <span className="pill-teal">SOLVE</span> the WEBsite BUG that <span className="pill-teal">TROUBled</span> the deVELopment TEAM YESterday.</li>
+					<li className="list-none">He <span className="pill-teal">seems</span> to <span className="pill-teal">have fixed</span> the website bug that <span className="pill-teal">caused</span> problems for the development team yesterday.</li>
 					<li className="list-none">He is the subject. After the verb “appear,” the following verb must be in the “to V” form (to solve), used to express that something seems to be happening or is indeed the case based on actual observation.</li>
 			
 				</ul>
@@ -1091,8 +1091,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>deSERVES to reCEIVE</strong> a BOnus for her HARD WORK on the NEW WEB PROJect.</li>
-					<li className="list-none">She should get extra credit for her hard work on the new web project.</li>
+					<li>she <span className="pill-teal">deSERVES</span> to <span className="pill-teal">reCEIVE</span> a BOnus for her HARD WORK on the NEW WEB PROJect.</li>
+					<li className="list-none">She <span className="pill-teal">should get</span> extra credit for her hard work on the new web project.</li>
 					<li className="list-none">“She” is the subject. After the verb “deSERVE,” the following action must be in the “to V” form (to reCEIVE), expressing that a subject is fully deserving of achieving or receiving a certain result or action.</li>
 			
 				</ul>
@@ -1102,8 +1102,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>afFORDS to BUY</strong> a NEW proFESsional CAMERa to CAPture BEAUtiful LANDscapes.</li>
-					<li className="list-none">She decides to buy a new professional camera to take beautiful pictures of the landscape.</li>
+					<li>she <span className="pill-teal">afFORDS</span> to <span className="pill-teal">BUY</span> a NEW proFESsional CAMERa to <span className="pill-teal">CAPture</span> BEAUtiful LANDscapes.</li>
+					<li className="list-none">She <span className="pill-teal">decides</span> to <span className="pill-teal">buy</span> a new professional camera to <span className="pill-teal">take</span> beautiful pictures of the landscape.</li>
 					<li className="list-none">“She” is the subject. After the verb ‘AFFORD’ (which is more commonly used in the negative or interrogative forms, but the affirmative form is still correct when referring to financial capacity), the following action must be in the “to V” form (to BUY).</li>
 			
 				</ul>
@@ -1113,8 +1113,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>MANaged to FINish</strong> the COMplex acCOUNTing rePORT be<strong>fore</strong> the STRICT DEADline.</li>
-					<li className="list-none">He finished his complicated accounting report before the due date.</li>
+					<li>he <span className="pill-teal">MANaged</span> to <span className="pill-teal">FINish</span> the COMplex acCOUNTing rePORT be<strong>fore</strong> the STRICT DEADline.</li>
+					<li className="list-none">He <span className="pill-teal">finished</span> his complicated accounting report before the due date.</li>
 					<li className="list-none">He is the subject. After the verb “MANage,” the following action must be in the “to V” form (to FINish), which is used to emphasize overcoming difficulties or obstacles to successfully complete a task.</li>
 			
 				</ul>
@@ -1124,8 +1124,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>FAILED to subMIT</strong> the WEBsite UPdate on TIME due to unexPECTed TECHnical ERrors.</li>
-					<li className="list-none">She didn't update the website on time because she ran into unexpected technical issues.</li>
+					<li>she <span className="pill-teal">FAILED</span> to <span className="pill-teal">subMIT</span> the WEBsite UPdate on TIME due to unexPECTed TECHnical ERrors.</li>
+					<li className="list-none">She <span className="pill-teal">didn't update</span> the website on time because she <span className="pill-teal">ran into</span> unexpected technical issues.</li>
 					<li className="list-none">“She” is the subject. After the verb “FAIL,” the following action must be in the “to V” form (to subMIT), expressing the failure to complete or carry out a planned task or action.</li>
 			
 				</ul>
@@ -1148,7 +1148,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">He is the subject. After the verb “HATE,” the -ing form (WAITing) is used to express annoyance at a general experience or habit. (As analyzed in previous sections, “HATE + to V” is used for a specific action that is about to be performed.)</li>
 			
 					<li><span className="pill-teal">would</span> you <span className="pill-teal">MIND HELPing</span> me <span className="pill-teal">CARry</span> these HEAVy CAST Iron COOKware BOXes?</li>
-					<li className="list-none">Can you help me carry these heavy cast iron cookware boxes?</li>
+					<li className="list-none"><span className="pill-teal">Can</span> you <span className="pill-teal">help</span> me <span className="pill-teal">carry</span> these heavy cast iron cookware boxes?</li>
 					<li className="list-none">“You” is the subject. After the verb “MIND,” the following verb is always in the -ing form (HELPing). This structure is often used in polite questions or negative sentences to ask whether someone feels uncomfortable doing something.</li>
 			
 				</ul>
