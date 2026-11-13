@@ -1204,7 +1204,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 				<ol>
 
-					<li>i’m lookiNG FORward to __________ (SEE) you next WEEK.</li>
+					<li>i’m LOOKing FORward to __________ (SEE) you next WEEK.</li>
 
 					<li>she adMITted __________ (STEAL) the COOKies..</li>
 

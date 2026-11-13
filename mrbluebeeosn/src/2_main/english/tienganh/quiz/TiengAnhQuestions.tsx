@@ -70,7 +70,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "she is lookiNG FORward _______ her GRANDparents NEXT WEEK.",
+			question: "she is LOOKing FORward _______ her GRANDparents NEXT WEEK.",
 			options: [
 				"to SEEing",
 				"to SEE",

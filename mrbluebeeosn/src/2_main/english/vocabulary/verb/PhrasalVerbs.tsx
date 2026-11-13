@@ -51,7 +51,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#lookiNG-AFter">lookiNG AFter</HashLink>
+						<HashLink smooth to="#lookiNG-AFter">LOOKing AFter</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -87,7 +87,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#lookiNG-FORward">lookiNG FORward</HashLink>
+						<HashLink smooth to="#lookiNG-FORward">LOOKing FORward</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -247,9 +247,9 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>“GIVE” = to give</li>
+					<li>“GIVE” = to <span className="pill-teal">give</span></li>
 			
-					<li id="giVE-UP">But “giVE UP” means to give up (not “to give up,” mind you!)</li>
+					<li id="giVE-UP">But “giVE UP” means to give up.</li>
 			
 				</ul>
 
@@ -275,98 +275,98 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ol>
 			
-					<li value="1" id="waKE-UP">i Usually <strong>waKE UP</strong> at SEVen a.m. Even on WEEKends.</li>
-					<li className="margin-bottom-20 list-none">I typically wake up at 7:00 a.m., even on the weekends.</li>
+					<li value="1" id="waKE-UP">i Usually <span className="pill-teal">waKE UP</span> at SEVen a.m. Even on WEEKends.</li>
+					<li className="margin-bottom-20 list-none">I typically <span className="pill-teal">wake up</span> at 7:00 a.m., even on the weekends.</li>
 			
-					<li value="2" id="geT-UP">it’s HARD to <strong>geT UP</strong> when it’s RAINing outSIDE.</li>
-					<li className="margin-bottom-20 list-none">It is difficult to get up when it's raining.</li>
+					<li value="2" id="geT-UP">it<span className="pill-teal">’s</span> HARD to <span className="pill-teal">geT UP</span> when it<span className="pill-teal">’s RAINing</span> outSIDE.</li>
+					<li className="margin-bottom-20 list-none">It <span className="pill-teal">is</span> difficult to <span className="pill-teal">get up</span> when it<span className="pill-teal">'s raining.</span></li>
 
-					<li value="3" id="turn-ON">can you <strong>turn the LIGHTS ON</strong>? it’s TOO DARK.</li>
-					<li className="margin-bottom-20 list-none">Could you please turn on the light? It's too dark.</li>
+					<li value="3" id="turn-ON"><span className="pill-teal">can</span> you <span className="pill-teal">TURN</span> the LIGHTS <span className="pill-teal">ON</span>? it<span className="pill-teal">’s</span> TOO DARK.</li>
+					<li className="margin-bottom-20 list-none"><span className="pill-teal">Could</span> you please <span className="pill-teal">turn on</span> the light? It<span className="pill-teal">'s</span> too dark.</li>
 			
-					<li value="4" id="lookiNG-AFter">i’m <strong>lookiNG AFter</strong> my NIECE this WEEKend.</li>
-					<li className="margin-bottom-20 list-none">This weekend, I am searching for my niece.</li>
+					<li value="4" id="lookiNG-AFter">i<span className="pill-teal">’m LOOKing AFter</span> my NIECE this WEEKend.</li>
+					<li className="margin-bottom-20 list-none">This weekend, I <span className="pill-teal">am searching</span> for my niece.</li>
 
-					<li value="5" id="pick-yoU-UP">i’ll <strong>pick yoU UP</strong> at EIGHT.</li>
-					<li className="margin-bottom-20 list-none">I will pick you up at 8:00.</li>
+					<li value="5" id="pick-yoU-UP">i<span className="pill-teal">’ll pick</span> yoU <span className="pill-teal">UP</span> at EIGHT.</li>
+					<li className="margin-bottom-20 list-none">I <span className="pill-teal">will pick</span> you <span className="pill-teal">up</span> at 8:00.</li>
 
-					<li className="list-none" id="pickED-UP">she <strong>pickED UP</strong> SPANish QUICKly.</li>
-					<li className="margin-bottom-20 list-none">She learned to speak Spanish quickly.</li>
+					<li className="list-none" id="pickED-UP">she <span className="pill-teal">pickED UP</span> SPANish QUICKly.</li>
+					<li className="margin-bottom-20 list-none">She <span className="pill-teal">learned</span> to <span className="pill-teal">speak</span> Spanish quickly.</li>
 			
-					<li value="6" id="giVE-UP2">DON’T <strong>giVE UP</strong> on your DREAMS!</li>
-					<li className="margin-bottom-20 list-none">Don't let anyone discourage you from achieving your dreams.</li>
+					<li value="6" id="giVE-UP2"><span className="pill-teal">DON’T giVE UP</span> on your DREAMS!</li>
+					<li className="margin-bottom-20 list-none"><span className="pill-teal">Don't let</span> anyone <span className="pill-teal">discourage</span> you from <span className="pill-teal">achieving</span> your dreams.</li>
 
-					<li value="7" id="ruN-OUT">we’ve <strong>ruN OUT</strong> of MILK aGAIN.</li>
-					<li className="margin-bottom-20 list-none">We don't have any more milk.</li>
+					<li value="7" id="ruN-OUT">we<span className="pill-teal">’ve ruN OUT</span> of MILK aGAIN.</li>
+					<li className="margin-bottom-20 list-none">We <span className="pill-teal">don't have</span> any more milk.</li>
 			
-					<li value="8" id="founD-OUT">i JUST <strong>founD OUT</strong> that the CONcert is FREE!</li>
-					<li className="margin-bottom-20 list-none">I just found out that the concert won't cost me anything!</li>
+					<li value="8" id="founD-OUT">i JUST <span className="pill-teal">founD OUT</span> that the CONcert <span className="pill-teal">is</span> FREE!</li>
+					<li className="margin-bottom-20 list-none">I just <span className="pill-teal">found out</span> that the concert <span className="pill-teal">won't cost</span> me anything!</li>
 
-					<li value="9" id="get-aLONG">i <strong>GET aLONG</strong> REally WELL with my NEW BOSS.</li>
-					<li className="margin-bottom-20 list-none">I get along great with my new supervisor.</li>
+					<li value="9" id="get-aLONG">i <span className="pill-teal">GET aLONG</span> REally WELL with my NEW BOSS.</li>
+					<li className="margin-bottom-20 list-none">I <span className="pill-teal">get along</span> great with my new supervisor.</li>
 			
-					<li value="10" id="haNG-OUT">we Usually <strong>haNG OUT</strong> at the caFÉ <strong>af</strong>ter CLASS.</li>
-					<li className="margin-bottom-20 list-none">We usually spend time together at the café after class.</li>
+					<li value="10" id="haNG-OUT">we Usually <span className="pill-teal">haNG OUT</span> at the caFÉ <strong>af</strong>ter CLASS.</li>
+					<li className="margin-bottom-20 list-none">We usually <span className="pill-teal">spend</span> time together at the café after class.</li>
 
-					<li value="11" id="broKE-DOWN">my CAR <strong>broKE DOWN</strong> on the HIGHway YESterday.</li>
-					<li className="margin-bottom-20 list-none">My car stopped working on the highway yesterday.</li>
+					<li value="11" id="broKE-DOWN">my CAR <span className="pill-teal">broKE DOWN</span> on the HIGHway YESterday.</li>
+					<li className="margin-bottom-20 list-none">My car <span className="pill-teal">stopped working</span> on the highway yesterday.</li>
 			
-					<li value="12" id="lookiNG-FORward">i’m <strong>lookiNG FORward</strong> to the TET HOLiday!</li>
-					<li className="margin-bottom-20 list-none">I can't wait for the Tet holiday.</li>
+					<li value="12" id="lookiNG-FORward">i<span className="pill-teal">’m LOOKing FORward</span> to the TET HOLiday!</li>
+					<li className="margin-bottom-20 list-none">I <span className="pill-teal">can't wait</span> for the Tet holiday.</li>
 
-					<li value="13" id="puT-OFF">they <strong>puT OFF</strong> the MEETing un<strong>til</strong> NEXT WEEK.</li>
-					<li className="margin-bottom-20 list-none">The meeting is canceled and will be rescheduled for next week.</li>
+					<li value="13" id="puT-OFF">they <span className="pill-teal">puT OFF</span> the MEETing un<strong>til</strong> NEXT WEEK.</li>
+					<li className="margin-bottom-20 list-none">The meeting <span className="pill-teal">is canceled</span> and <span className="pill-teal">will be rescheduled</span> for next week.</li>
 			
-					<li value="14" id="takeS-AFter">she REally <strong>takeS AFter</strong> her MOTHer.</li>
-					<li className="margin-bottom-20 list-none">She looks after her mother very well.</li>
+					<li value="14" id="takeS-AFter">she REally <span className="pill-teal">takeS AFter</span> her MOTHer.</li>
+					<li className="margin-bottom-20 list-none">She <span className="pill-teal">looks after</span> her mother very well.</li>
 
-					<li value="15" id="came-aCROSS">i <strong>came aCROSS</strong> an OLD PHOto of us LAST NIGHT.</li>
-					<li className="margin-bottom-20 list-none">I saw an old photo of us last night.</li>
+					<li value="15" id="came-aCROSS">i <span className="pill-teal">CAME aCROSS</span> an OLD PHOto of us LAST NIGHT.</li>
+					<li className="margin-bottom-20 list-none">I <span className="pill-teal">saw</span> an old photo of us last night.</li>
 			
-					<li value="16" id="called-the-WEDdiNG-OFF">they <strong>called the WEDdiNG OFF</strong> at the LAST MINutes.</li>
-					<li className="margin-bottom-20 list-none">They called off their wedding at the last minute.</li>
+					<li value="16" id="called-the-WEDdiNG-OFF">they <span className="pill-teal">CALLED</span> the WEDdiNG <span className="pill-teal">OFF</span> at the LAST MINutes.</li>
+					<li className="margin-bottom-20 list-none">They <span className="pill-teal">called off</span> their wedding at the last minute.</li>
 
-					<li value="17" id="cheeR-UP"><strong>cheeR UP</strong>! THINGS will GET BETter.</li>
-					<li className="margin-bottom-20 list-none">Cheer up! Things will get better.</li>
+					<li value="17" id="cheeR-UP"><span className="pill-teal">cheeR UP</span>! THINGS <span className="pill-teal">will GET</span> BETter.</li>
+					<li className="margin-bottom-20 list-none"><span className="pill-teal">Cheer up</span>! Things <span className="pill-teal">will get</span> better.</li>
 			
-					<li value="18" id="drop-mE-OFF">can you <strong>drop mE OFF</strong> at the STAtion?</li>
-					<li className="margin-bottom-20 list-none">Can you drive me to the train station?</li>
+					<li value="18" id="drop-mE-OFF"><span className="pill-teal">can</span> you <span className="pill-teal">DROP</span> mE <span className="pill-teal">OFF</span> at the STAtion?</li>
+					<li className="margin-bottom-20 list-none"><span className="pill-teal">Can</span> you <span className="pill-teal">drive</span> me to the train station?</li>
 
-					<li value="19" id="geT-Over">it TOOK me MONTHS to <strong>geT Over</strong> the BREAKup.</li>
-					<li className="margin-bottom-20 list-none">It took me months to feel better after the breakup.</li>
+					<li value="19" id="geT-Over">it <span className="pill-teal">TOOK</span> me MONTHS to <span className="pill-teal">geT Over</span> the BREAKup.</li>
+					<li className="margin-bottom-20 list-none">It <span className="pill-teal">took</span> me months to <span className="pill-teal">feel</span> better after the breakup.</li>
 			
-					<li value="20" id="looK-INto">the MANager will <strong>looK INto</strong> the comPLAINT.</li>
-					<li className="margin-bottom-20 list-none">The manager will review the complaint.</li>
+					<li value="20" id="looK-INto">the MANager <span className="pill-teal">will looK INto</span> the comPLAINT.</li>
+					<li className="margin-bottom-20 list-none">The manager <span className="pill-teal">will review</span> the complaint.</li>
 
-					<li value="21" id="maDE-UP">we ARGued but we <strong>maDE UP</strong> QUICKly.</li>
-					<li className="margin-bottom-20 list-none">We had a fierce debate, but we made up right away.</li>
+					<li value="21" id="maDE-UP">we <span className="pill-teal">ARGued</span> but we <span className="pill-teal">maDE UP</span> QUICKly.</li>
+					<li className="margin-bottom-20 list-none">We <span className="pill-teal">had</span> a fierce debate, but we <span className="pill-teal">made up</span> right away.</li>
 			
-					<li value="22" id="turnS-UP">he ALways <strong>turnS UP</strong> LATE!</li>
-					<li className="margin-bottom-20 list-none">He consistently arrives late.</li>
+					<li value="22" id="turnS-UP">he ALways <span className="pill-teal">turnS UP</span> LATE!</li>
+					<li className="margin-bottom-20 list-none">He consistently <span className="pill-teal">arrives</span> late.</li>
 
-					<li value="23" id="catCH-UP">let’s <strong>catCH UP</strong> <strong>o</strong>verCOFfee NEXT WEEK!</li>
-					<li className="margin-bottom-20 list-none">Let's meet for coffee next week!</li>
+					<li value="23" id="catCH-UP"><span className="pill-teal">let</span>’s <span className="pill-teal">catCH UP</span> <strong>o</strong>ver COFfee NEXT WEEK!</li>
+					<li className="margin-bottom-20 list-none"><span className="pill-teal">Let</span>'s <span className="pill-teal">meet</span> for coffee next week!</li>
 			
-					<li value="24" id="cuT-DOWN">i’m TRYing to <strong>cuT DOWN</strong> on SUGar.</li>
-					<li className="margin-bottom-20 list-none">I'm trying to reduce how much sugar I eat.</li>
+					<li value="24" id="cuT-DOWN">i<span className="pill-teal">’m TRYing</span> to <span className="pill-teal">cuT DOWN</span> on SUGar.</li>
+					<li className="margin-bottom-20 list-none">I<span className="pill-teal">'m trying</span> to <span className="pill-teal">reduce</span> how much sugar I <span className="pill-teal">eat</span>.</li>
 
-					<li value="25" id="gO-ON"><strong>gO ON</strong>, TELL me the STORy!</li>
-					<li className="margin-bottom-20 list-none">Please tell me the story!</li>
+					<li value="25" id="gO-ON"><span className="pill-teal">gO ON</span>, <span className="pill-teal">TELL</span> me the STORy!</li>
+					<li className="margin-bottom-20 list-none">Please <span className="pill-teal">tell</span> me the story!</li>
 			
-					<li value="26" id="holD-ON"><strong>holD ON</strong> a SECond, i’m COMing!</li>
-					<li className="margin-bottom-20 list-none">Wait a moment. I'm on my way!</li>
+					<li value="26" id="holD-ON"><span className="pill-teal">holD ON</span> a SECond, i<span className="pill-teal">’m COMing</span>!</li>
+					<li className="margin-bottom-20 list-none"><span className="pill-teal">Wait</span> a moment. I<span className="pill-teal">'m</span> on my way!</li>
 
-					<li value="27" id="let-mE-DOWN">DON’T <strong>let mE DOWN</strong> this TIME.</li>
-					<li className="margin-bottom-20 list-none">I hope you won't let me down this time.</li>
+					<li value="27" id="let-mE-DOWN"><span className="pill-teal">DON’T LET</span> mE <span className="pill-teal">DOWN</span> this TIME.</li>
+					<li className="margin-bottom-20 list-none">I <span className="pill-teal">hope</span> you <span className="pill-teal">won't let</span> me <span className="pill-teal">down</span> this time.</li>
 			
-					<li value="28" id="seT-UP">we <strong>seT UP</strong> a NEW GROUP CHAT for the CLASS.</li>
-					<li className="margin-bottom-20 list-none">We created a new group chat for the class.</li>
+					<li value="28" id="seT-UP">we <span className="pill-teal">seT UP</span> a NEW GROUP CHAT for the CLASS.</li>
+					<li className="margin-bottom-20 list-none">We <span className="pill-teal">created</span> a new group chat for the class.</li>
 
-					<li value="29" id="tooK-OFF">the PLANE <strong>tooK OFF</strong> TEN MINutes LATE.</li>
-					<li className="margin-bottom-20 list-none">The plane was delayed by ten minutes.</li>
+					<li value="29" id="tooK-OFF">the PLANE <span className="pill-teal">tooK OFF</span> TEN MINutes LATE.</li>
+					<li className="margin-bottom-20 list-none">The plane <span className="pill-teal">was delayed</span> by ten minutes.</li>
 			
-					<li value="30" id="worK-OUT">everything will <strong>worK OUT</strong> in the END.</li>
-					<li className="list-none">Everything is going to be fine in the end.</li>
+					<li value="30" id="worK-OUT">everything <span className="pill-teal">will worK OUT</span> in the END.</li>
+					<li className="list-none">Everything <span className="pill-teal">is going</span> to <span className="pill-teal">be</span> fine in the end.</li>
 			
 				</ol>
 		
