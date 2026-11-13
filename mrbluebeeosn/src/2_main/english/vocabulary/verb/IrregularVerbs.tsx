@@ -1395,16 +1395,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>this NEW PHONE COSTS a LOT of MONey.</li>
-					<li className="list-none">The new phone costs a lot of money.</li>
+					<li>this NEW PHONE <span className="pill-teal">COSTS</span> a LOT of MONey.</li>
+					<li className="list-none">The new phone <span className="pill-teal">costs</span> a lot of money.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the COSTS form (for the third-person singular subject “this NEW PHONE”) to indicate a fact or price at the present time.</li>
 			
-					<li>the TRIP COST us a FORtune LAST SUMmer.</li>
-					<li className="list-none">We spent a lot of money on the trip last summer.</li>
+					<li>the TRIP <span className="pill-teal">COST</span> us a FORtune LAST SUMmer.</li>
+					<li className="list-none">We <span className="pill-teal">spent</span> a lot of money on the trip last summer.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the COST form to refer to an event that occurred and ended in the past (this particular word retains its form in the past tense).</li>
 			
-					<li>a LOT of TIME has been COST by this deLAY.</li>
-					<li className="list-none">This delay has taken up a lot of time.</li>
+					<li>a LOT of TIME <span className="pill-teal">has been COST</span> by this deLAY.</li>
+					<li className="list-none">This delay <span className="pill-teal">has taken up</span> a lot of time.</li>
 					<li className="list-none">This structure uses a verb in the perfect tense (COST) following “has been” to describe an action that has had an impact on the present, with the subject affected being “a LOT of TIME” (a great deal of time).</li>
 			
 				</ul>
@@ -1414,16 +1414,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he BUILDS a NEW HOUSE for his PARents.</li>
-					<li className="list-none">He builds a house for his parents to live in that is completely new.</li>
+					<li>he <span className="pill-teal">BUILDS</span> a NEW HOUSE for his PARents.</li>
+					<li className="list-none">He <span className="pill-teal">builds</span> a house for his parents to <span className="pill-teal">live</span> in that <span className="pill-teal">is</span> completely new.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Action Tense with the BUILDS form (for the third-person singular subject “he”) to indicate an ongoing action or a plan currently in progress.</li>
 			
-					<li>they BUILT a SMALL BRIDGE <strong>o</strong>ver the RIVER LAST YEAR.</li>
-					<li className="list-none">they BUILT a SMALL BRIDGE over the RIVER LAST YEAR.</li>
+					<li>they <span className="pill-teal">BUILT</span> a SMALL BRIDGE <strong>o</strong>ver the RIVER LAST YEAR.</li>
+					<li className="list-none">A small bridge <span className="pill-teal">was built</span> over the river last year.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “BUILT” form to indicate an action that was completely finished in the past, accompanied by the specific time reference “LAST YEAR.”</li>
 			
-					<li>this WEBsite has been BUILT with GREAT CARE.</li>
-					<li className="list-none">This website was built with great attention to detail.</li>
+					<li>this WEBsite <span className="pill-teal">has been BUILT</span> with GREAT CARE.</li>
+					<li className="list-none">This website <span className="pill-teal">was built</span> with great attention to detail.</li>
 					<li className="list-none">This structure uses an action verb in the perfect tense (BUILT) following “has been” to describe an action that has been completed and has produced a result in the present, with “this website” as the object of the action.</li>
 			
 				</ul>
@@ -1433,16 +1433,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he CATCHes the BUS to WORK <strong>ever</strong>y MORNing.</li>
-					<li className="list-none">Every morning, he catches the bus to work.</li>
+					<li>he <span className="pill-teal">CATCHes</span> the BUS to WORK <strong>ever</strong>y MORNing.</li>
+					<li className="list-none">Every morning, he <span className="pill-teal">catches</span> the bus to work.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the CATCHes form (for the third-person singular subject “he”) to describe a recurring habit.</li>
 			
-					<li>she CAUGHT a BIG FISH YESterday.</li>
-					<li className="list-none">She caught a really big fish yesterday.</li>
+					<li>she <span className="pill-teal">CAUGHT</span> a BIG FISH YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">caught</span> a really big fish yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “CAUGHT” form to indicate an action that occurred and ended in the past.</li>
 			
-					<li>they have CAUGHT the TRAIN JUST in TIME.</li>
-					<li className="list-none">They were able to catch the train just in time.</li>
+					<li>they <span className="pill-teal">have CAUGHT</span> the TRAIN JUST in TIME.</li>
+					<li className="list-none">They <span className="pill-teal">were</span> able to <span className="pill-teal">catch</span> the train just in time.</li>
 					<li className="list-none">Use 📏 the Present Perfect Tense with the participle form “CAUGHT” following “have” to indicate an action that has just been completed and is affecting the present.</li>
 			
 				</ul>
@@ -1452,16 +1452,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he THROWS the BALL to his DOG in the PARK.</li>
-					<li className="list-none">He throws the ball to his dog in the park.</li>
+					<li>he <span className="pill-teal">THROWS</span> the BALL to his DOG in the PARK.</li>
+					<li className="list-none">He <span className="pill-teal">throws</span> the ball to his dog in the park.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form “THROWS” (for the third-person singular subject “he”) to indicate a habit or an action that occurs frequently.</li>
 			
-					<li>she threw aWAY the OLD LETters LAST NIGHT.</li>
-					<li className="list-none">Last night, she threw away the old letters.</li>
+					<li>she <span className="pill-teal">threw aWAY</span> the OLD LETters LAST NIGHT.</li>
+					<li className="list-none">Last night, she <span className="pill-teal">threw away</span> the old letters.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the form “threw” to refer to an action that occurred and was completed in the past (the phrase “threw aWAY” means “threw away”).</li>
 			
-					<li>the WINdow has been THROWN Open by the WIND.</li>
-					<li className="list-none">The window is open because the wind opened it.</li>
+					<li>the WINdow <span className="pill-teal">has been THROWN</span> Open by the WIND.</li>
+					<li className="list-none">The window <span className="pill-teal">is</span> open because the wind <span className="pill-teal">opened</span> it.</li>
 					<li className="list-none">This structure uses an action verb in the perfect tense (THROWN) following “has been” to describe an event that occurred in the past and has resulted in a current outcome, with “the window” as the object affected.</li>
 			
 				</ul>

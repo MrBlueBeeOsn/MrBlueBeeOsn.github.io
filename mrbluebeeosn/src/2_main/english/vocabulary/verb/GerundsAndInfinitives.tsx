@@ -1139,15 +1139,15 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>enJOYS DANcing</strong> to traDITional MUsic during FAMILy GATHerings.</li>
-					<li className="list-none">She likes to dance to traditional music at family gatherings.</li>
+					<li>she <span className="pill-teal">enJOYS DANcing</span> to traDITional MUsic during FAMILy GATHerings.</li>
+					<li className="list-none">She <span className="pill-teal">likes</span> to <span className="pill-teal">dance</span> to traditional music at family gatherings.</li>
 					<li className="margin-bottom-20 list-none">“She” is the subject. After the verb “enJOY,” the next verb must be in the -ing form (DANcing), expressing the enjoyment and joy of performing that action.</li>
 			
-					<li>he <strong>HATES WAITing</strong> in LONG LINES at the COFfee SHOP during PEAK HOURS.</li>
-					<li className="list-none">He can't stand waiting in long lines at coffee shops during busy times.</li>
+					<li>he <span className="pill-teal">HATES WAITing</span> in LONG LINES at the COFfee SHOP during PEAK HOURS.</li>
+					<li className="list-none">He <span className="pill-teal">can't stand waiting</span> in long lines at coffee shops during busy times.</li>
 					<li className="margin-bottom-20 list-none">He is the subject. After the verb “HATE,” the -ing form (WAITing) is used to express annoyance at a general experience or habit. (As analyzed in previous sections, “HATE + to V” is used for a specific action that is about to be performed.)</li>
 			
-					<li>would you <strong>MIND HELPing</strong> me CARry these HEAVy CAST Iron COOKware BOXes?</li>
+					<li><span className="pill-teal">would</span> you <span className="pill-teal">MIND HELPing</span> me <span className="pill-teal">CARry</span> these HEAVy CAST Iron COOKware BOXes?</li>
 					<li className="list-none">Can you help me carry these heavy cast iron cookware boxes?</li>
 					<li className="list-none">“You” is the subject. After the verb “MIND,” the following verb is always in the -ing form (HELPing). This structure is often used in polite questions or negative sentences to ask whether someone feels uncomfortable doing something.</li>
 			
@@ -1157,16 +1157,16 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>WANTS to TRAVel</strong> to NEW CITies to exPLORE LOcal COFfee CULtures.</li>
-					<li className="list-none">She wants to travel to new cities to learn about the coffee culture there.</li>
+					<li>she <span className="pill-teal">WANTS</span> to <span className="pill-teal">TRAVel</span> to NEW CITies to <span className="pill-teal">exPLORE</span> LOcal COFfee CULtures.</li>
+					<li className="list-none">She <span className="pill-teal">wants</span> to <span className="pill-teal">travel</span> to new cities to <span className="pill-teal">learn</span> about the coffee culture there.</li>
 					<li className="margin-bottom-20 list-none">“She” is the subject. After the verb “WANT,” the next verb must be in the “to V” form (to TRAVel).</li>
 			
-					<li>he <strong>PROMised to CALL</strong> his PARents as <strong>soon</strong> as he arRIVED in the CITy.</li>
-					<li className="list-none">He said he'd call his parents as soon as he got to the city.</li>
+					<li>he <span className="pill-teal">PROMised</span> to <span className="pill-teal">CALL</span> his PARents as <strong>soon</strong> as he <span className="pill-teal">arRIVED</span> in the CITy.</li>
+					<li className="list-none">He <span className="pill-teal">said</span> he<span className="pill-teal">'d call</span> his parents as soon as he <span className="pill-teal">got</span> to the city.</li>
 					<li className="margin-bottom-20 list-none">He is the subject. After the verb “PROMise,” the next verb must be in the “to V” form (e.g., “to CALL”).</li>
 			
-					<li>they <strong>PLAN to MOVE</strong> to a BIGger aPARTment near their WORKplace NEXT MONTH.</li>
-					<li className="list-none">They are planning to move to a bigger apartment next month that is near their workplace.</li>
+					<li>they <span className="pill-teal">PLAN</span> to <span className="pill-teal">MOVE</span> to a BIGger aPARTment near their WORKplace NEXT MONTH.</li>
+					<li className="list-none">They <span className="pill-teal">are planning</span> to <span className="pill-teal">move</span> to a bigger apartment next month that <span className="pill-teal">is</span> near their workplace.</li>
 					<li className="list-none">“They” is the subject. After the verb “plan,” the next verb must be in the “to V” form (to MOVE).</li>
 			
 				</ul>

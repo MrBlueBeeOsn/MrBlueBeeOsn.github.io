@@ -381,17 +381,17 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li id="waKE-UP2">i Usually <strong>waKE UP</strong> at SIX a.M. <strong>ever</strong>y DAY, EVEN on WEEKends.</li>
-					<li className="margin-bottom-20 list-none">I wake up at 6:00 a.m. every day, including weekends.</li>
+					<li id="waKE-UP2">i Usually <span className="pill-teal">waKE UP</span> at SIX a.M. <strong>ever</strong>y DAY, EVEN on WEEKends.</li>
+					<li className="margin-bottom-20 list-none">I <span className="pill-teal">wake up</span> at 6:00 a.m. every day, <span className="pill-teal">including</span> weekends.</li>
 			
-					<li id="geT-UP2"><strong>af</strong>ter the aLARM CLOCK RANG, it TOOK her TEN MINutes to FINally <strong>geT UP</strong>.</li>
-					<li className="margin-bottom-20 list-none">After her alarm sounded, she was awake after ten minutes.</li>
+					<li id="geT-UP2"><strong>af</strong>ter the aLARM CLOCK <span className="pill-teal">RANG</span>, it <span className="pill-teal">TOOK</span> her TEN MINutes to FINally <span className="pill-teal">geT UP</span>.</li>
+					<li className="margin-bottom-20 list-none">After her alarm <span className="pill-teal">sounded</span>, she <span className="pill-teal">was</span> awake after ten minutes.</li>
 
-					<li id="turN-ON">PLEASE <strong>turN ON</strong> the AIR conDITioner be<strong>cause</strong> it is GETting VERy HOT in this ROOM.</li>
-					<li className="margin-bottom-20 list-none">Please turn the air conditioner on because it is very hot in this room.</li>
+					<li id="turN-ON">PLEASE <span className="pill-teal">turN ON</span> the AIR conDITioner be<strong>cause</strong> it <span className="pill-teal">is GETting</span> VERy HOT in this ROOM.</li>
+					<li className="margin-bottom-20 list-none">Please <span className="pill-teal">turn</span> the air conditioner on because it <span className="pill-teal">is</span> very hot in this room.</li>
 			
-					<li id="eaT-OUT">we are TOO TIred to COOK toNIGHT, so let's <strong>eaT OUT</strong> at that iTALian REStaurant.</li>
-					<li className="list-none">We don't feel like cooking tonight. Let's go out to that Italian restaurant instead.</li>
+					<li id="eaT-OUT">we <span className="pill-teal">are</span> TOO TIred to <span className="pill-teal">COOK</span> toNIGHT, so let's <span className="pill-teal">eaT OUT</span> at that iTALian REStaurant.</li>
+					<li className="list-none">We <span className="pill-teal">don't feel</span> like <span className="pill-teal">cooking</span> tonight. <span className="pill-teal">Let</span>'s <span className="pill-teal">go out</span> to that Italian restaurant instead.</li>
 			
 				</ul>
 
@@ -400,17 +400,17 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li id="cheeR-UP2">she BOUGHT him his FAVORite ICE CREAM to <strong>cheeR UP</strong> <strong>af</strong>ter he FAILED his DRIving test.</li>
-					<li className="margin-bottom-20 list-none">To make him feel better after he failed his driving test, she bought him his favorite ice cream.</li>
+					<li id="cheeR-UP2">she <span className="pill-teal">BOUGHT</span> him his FAVORite ICE CREAM to <span className="pill-teal">cheeR UP</span> <strong>af</strong>ter he <span className="pill-teal">FAILED</span> his DRIving test.</li>
+					<li className="margin-bottom-20 list-none">To <span className="pill-teal">make</span> him <span className="pill-teal">feel</span> better after he <span className="pill-teal">failed</span> his driving test, she <span className="pill-teal">bought</span> him his favorite ice cream.</li>
 			
-					<li id="calM-DOWN">TAKE a DEEP BREATH and <strong>calM DOWN</strong> be<strong>fore</strong> you MAKE any HASty deCISions.</li>
-					<li className="margin-bottom-20 list-none">Take a deep breath and relax before making any rushed decisions.</li>
+					<li id="calM-DOWN"><span className="pill-teal">TAKE</span> a DEEP BREATH and <span className="pill-teal">calM DOWN</span> be<strong>fore</strong> you <span className="pill-teal">MAKE</span> any HASty deCISions.</li>
+					<li className="margin-bottom-20 list-none"><span className="pill-teal">Take</span> a deep breath and <span className="pill-teal">relax</span> before <span className="pill-teal">making</span> any rushed decisions.</li>
 
-					<li id="broKE-DOWN2">she COULdn't hold BACK her eMOtions anyMORE and <strong>broKE DOWN</strong> in TEARS <strong>af</strong>ter HEARing the BAD NEWS.</li>
-					<li className="margin-bottom-20 list-none">She was too upset to control her tears when she heard the bad news.</li>
+					<li id="broKE-DOWN2">she <span className="pill-teal">COULdn't hold BACK</span> her eMOtions anyMORE and <span className="pill-teal">broKE DOWN</span> in TEARS <strong>af</strong>ter <span className="pill-teal">HEARing</span> the BAD NEWS.</li>
+					<li className="margin-bottom-20 list-none">She <span className="pill-teal">was</span> too upset to <span className="pill-teal">control</span> her tears when she <span className="pill-teal">heard</span> the bad news.</li>
 			
-					<li id="geT-Over2">it TOOK him a LONG TIME to <strong>geT Over</strong> the HEARTbreak of their BREAKup.</li>
-					<li className="list-none">It took him a long time to stop feeling sad about their breakup.</li>
+					<li id="geT-Over2">it <span className="pill-teal">TOOK</span> him a LONG TIME to <span className="pill-teal">geT Over</span> the HEARTbreak of their BREAKup.</li>
+					<li className="list-none">It <span className="pill-teal">took</span> him a long time to <span className="pill-teal">stop feeling</span> sad about their breakup.</li>
 			
 				</ul>
 
@@ -419,8 +419,8 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li id="haNG-OUT2">on WEEKends, i Usually LIKE to <strong>haNG OUT</strong> with my FRIENDS at a LOcal COFfee SHOP.</li>
-					<li className="margin-bottom-20 list-none">On the weekends, I like to spend time with my friends at a nearby coffee shop.</li>
+					<li id="haNG-OUT2">on WEEKends, i Usually <span className="pill-teal">LIKE</span> to <span className="pill-teal">haNG OUT</span> with my FRIENDS at a LOcal COFfee SHOP.</li>
+					<li className="margin-bottom-20 list-none">On the weekends, I <span className="pill-teal">like</span> to <span className="pill-teal">spend</span> time with my friends at a nearby coffee shop.</li>
 			
 					<li id="catCH-UP2">we <span className="pill-teal">HAVEn't SEEN</span> EACH OTHer for MONTHS, so we <span className="pill-teal">meT UP</span> for LUNCH to <span className="pill-teal">catCH UP</span> on EACH OTHer's LIVES.</li>
 					<li className="margin-bottom-20 list-none">We <span className="pill-teal">haven't seen</span> each other in a long time, so we <span className="pill-teal">met up</span> for lunch to <span className="pill-teal">talk</span> about what<span className="pill-teal">'s been going</span> on in our lives.</li>
