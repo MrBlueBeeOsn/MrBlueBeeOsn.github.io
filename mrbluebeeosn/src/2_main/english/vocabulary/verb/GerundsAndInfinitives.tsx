@@ -1175,16 +1175,16 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>DREAMS of beCOMing</strong> a proFESsional WEB deVELoper and BUILDing USEful appliCAtions.</li>
-					<li className="list-none">He dreams of becoming a professional web developer and building useful applications.</li>
+					<li>he <span className="pill-teal">DREAMS</span> of <span className="pill-teal">beCOMing</span> a proFESsional WEB deVELoper and <span className="pill-teal">BUILDing</span> USEful appliCAtions.</li>
+					<li className="list-none">His ambition <span className="pill-teal">is</span> to <span className="pill-teal">become</span> a web developer who <span className="pill-teal">creates</span> useful applications.</li>
 					<li className="margin-bottom-20 list-none">He is the subject. After the preposition “of,” the verb “beCOME” must be converted to the -ing form (beCOMing).</li>
 			
-					<li>she <strong>aPOLogized for being</strong> LATE for the MORNing acCOUNTing MEETing.</li>
-					<li className="list-none">She apologized for arriving late to the meeting about the morning's accounting.</li>
+					<li>she <span className="pill-teal">aPOLogized</span> for <span className="pill-teal">being</span> LATE for the MORNing acCOUNTing MEETing.</li>
+					<li className="list-none">She <span className="pill-teal">apologized</span> for <span className="pill-teal">arriving</span> late to the meeting about the morning's accounting.</li>
 					<li className="margin-bottom-20 list-none">“She” is the subject. After the preposition “for,” the verb “be” must be changed to the -ing form (being).</li>
 			
-					<li>he is <strong>GOOD at SINGing</strong> traDITional SONGS and PLAYing MUsical INstruments.</li>
-					<li className="list-none">He's talented when it comes to singing traditional songs and playing musical instruments.</li>
+					<li>he <span className="pill-teal">is</span> GOOD at <span className="pill-teal">SINGing</span> traDITional SONGS and <span className="pill-teal">PLAYing</span> MUsical INstruments.</li>
+					<li className="list-none">He<span className="pill-teal">'s</span> talented when it <span className="pill-teal">comes</span> to <span className="pill-teal">singing</span> traditional songs and <span className="pill-teal">playing</span> musical instruments.</li>
 					<li className="list-none">He is the subject. After the adjectival phrase combined with the preposition “GOOD at,” the verb “SING” must be converted to the -ing form (SINGing).</li>
 			
 				</ul>
@@ -1220,15 +1220,15 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ol>
 			
-					<li>SEEing</li>
+					<li><span className="pill-teal">SEEing</span></li>
 			
-					<li>STEALing / having STOlen (Both are correct, but “stealing” is more common.)</li>
+					<li><span className="pill-teal">STEALing</span> / <span className="pill-teal">having STOlen</span> (Both are correct, but “stealing” is more common.)</li>
 			
-					<li>NOT PLAYing</li>
+					<li>NOT <span className="pill-teal">PLAYing</span></li>
 
-					<li>to OPen</li>
+					<li>to <span className="pill-teal">Open</span></li>
 			
-					<li>to inFORM</li>
+					<li>to <span className="pill-teal">inFORM</span></li>
 			
 				</ol>
 

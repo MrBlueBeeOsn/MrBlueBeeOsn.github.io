@@ -1471,16 +1471,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he SINGS aLONG to his FAVORite SONGS while CODing <strong>ever</strong>y EVEning.</li>
-					<li className="list-none">Every evening, he sings his favorite songs while working at his computer.</li>
+					<li>he <span className="pill-teal">SINGS</span> aLONG to his FAVORite SONGS while <span className="pill-teal">CODing</span> <strong>ever</strong>y EVEning.</li>
+					<li className="list-none">Every evening, he <span className="pill-teal">sings</span> his favorite songs while <span className="pill-teal">working</span> at his computer.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the SINGS form (for the third-person singular subject “he”) to describe habits or events that occur regularly.</li>
 			
-					<li>she SANG a traDITional SONG at the FAMILy GATHering YESterday.</li>
-					<li className="list-none">She sang a traditional song at her family's gathering yesterday.</li>
+					<li>she <span className="pill-teal">SANG</span> a traDITional SONG at the FAMILy GATHering YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">sang</span> a traditional song at her family's gathering yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the “SANG” form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have SUNG toGETHer at <strong>man</strong>y comMUnity eVENTS.</li>
-					<li className="list-none">They sang together at a variety of community events.</li>
+					<li>they <span className="pill-teal">have SUNG</span> toGETHer at <strong>man</strong>y comMUnity eVENTS.</li>
+					<li className="list-none">They <span className="pill-teal">sang</span> together at a variety of community events.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with “have SUNG” to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -1496,8 +1496,8 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she GOES to SCHOOL <strong>ever</strong>y DAY.</li>
-					<li className="list-none">She attends school on a daily basis.</li>
+					<li>she <span className="pill-teal">GOES</span> to SCHOOL <strong>ever</strong>y DAY.</li>
+					<li className="list-none">She <span className="pill-teal">attends</span> school on a daily basis.</li>
 					<li className="list-none">⏳ Time of Action in the Simple Present Tense</li>
 			
 				</ul>
@@ -1510,8 +1510,8 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>YESterday, i WENT to the CINema.</li>
-					<li className="list-none">Yesterday, I went to the movie theater.</li>
+					<li>YESterday, i <span className="pill-teal">WENT</span> to the CINema.</li>
+					<li className="list-none">Yesterday, I <span className="pill-teal">went</span> to the movie theater.</li>
 					<li className="list-none">⏳ Past Simple Tense</li>
 			
 				</ul>
@@ -1526,8 +1526,8 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>i have just GONE HOME.</li>
-					<li className="list-none">I just got back home.</li>
+					<li>i <span className="pill-teal">have</span> just <span className="pill-teal">GONE</span> HOME.</li>
+					<li className="list-none">I just <span className="pill-teal">got</span> back home.</li>
 					<li className="list-none">📏 Time Period of Action in the Present Perfect Tense</li>
 			
 				</ul>
@@ -1538,8 +1538,8 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>i had FINished my HOMEwork be<strong>fore</strong> DINner.</li>
-					<li className="list-none">I completed my homework before dinner.</li>
+					<li>i <span className="pill-teal">had FINished</span> my HOMEwork be<strong>fore</strong> DINner.</li>
+					<li className="list-none">I <span className="pill-teal">had completed</span> my homework before dinner.</li>
 					<li className="list-none">📏 Time Period of Action in the Past Perfect Tense</li>
 			
 				</ul>
@@ -1550,8 +1550,8 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>i will have FINished my HOMEwork by NINE p.M.</li>
-					<li className="list-none">I will have finished my homework by nine o'clock this evening.</li>
+					<li>i <span className="pill-teal">will have FINished</span> my HOMEwork by NINE p.M.</li>
+					<li className="list-none">I <span className="pill-teal">will have finished</span> my homework by nine o'clock this evening.</li>
 					<li className="list-none">📏 Future Perfect Tense</li>
 			
 				</ul>
@@ -1562,8 +1562,8 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>the LETter was WRITten by her.</li>
-					<li className="list-none">She wrote the letter.</li>
+					<li>the LETter <span className="pill-teal">was WRITten</span> by her.</li>
+					<li className="list-none">She <span className="pill-teal">wrote</span> the letter.</li>
 					<li className="list-none">Passive Sentences ⏳ Action Time in the Simple Past</li>
 			
 				</ul>
@@ -1589,14 +1589,14 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>YESterday i TOOK a PHOto, but toDAY i have TAken <strong>man</strong>y PHOtos alREADy.</li>
-					<li className="margin-bottom-20 list-none">I took a photograph yesterday, but today, I have already taken many photographs.</li>
+					<li>YESterday i <span className="pill-teal">TOOK</span> a PHOto, but toDAY i <span className="pill-teal">have TAken</span> <strong>man</strong>y PHOtos alREADy.</li>
+					<li className="margin-bottom-20 list-none">I <span className="pill-teal">took</span> a photograph yesterday, but today, I <span className="pill-teal">have</span> already <span className="pill-teal">taken</span> many photographs.</li>
 			
-					<li>YESterday i TOOK a PHOto:</li>
+					<li>YESterday i <span className="pill-teal">TOOK</span> a PHOto:</li>
 					<li className="list-none">This structure uses ⏳ the Past Simple Tense for the duration of an action with the “TOOK” form of the verb “TAKE.”</li>
 					<li className="margin-bottom-20 list-none">Used to describe an act of taking a photo that occurred and was completely finished in the past, accompanied by the specific time adverb “yesterday.”</li>
 			
-					<li>...but [toDAY] i [have TAken] <strong>man</strong>y PHOtos [alREADy]:</li>
+					<li>...but toDAY i <span className="pill-teal">have TAken</span> <strong>man</strong>y PHOtos alREADy:</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense for the duration of an action, in the form “have taken.”</li>
 					<li className="list-none">Used to emphasize the results or the number of photos taken so far today, in combination with the adverbs “toDAY” (today) and “alREADy” (already).</li>
 			

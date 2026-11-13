@@ -10,47 +10,57 @@ export default function TensesChart(): React.JSX.Element {
 	const postId = "TensesChart";
 
 	type Part = { t: string; c?: "v1" | "vs" | "v2" | "v3" | "ving" };
-	type Tense = { name: string; formula: Part[]; example: string };
-
-	const V = (t: string, c: Part["c"]): Part => ({ t, c });
-	const T = (t: string): Part => ({ t });
+type Tense = { name: string; formula: Part[]; example: string };
+ 
+const V = (t: string, c: Part["c"]): Part => ({ t, c });
+const T = (t: string): Part => ({ t });
+ 
+// Chữ trong [ ] sẽ được hiển thị dạng pill
+const renderExample = (text: string) =>
+  text.split(/(\[[^\]]+\])/).map((part, i) =>
+    part.startsWith("[") ? (
+      <span key={i} className="tm-pill">{part.slice(1, -1)}</span>
+    ) : (
+      part
+    )
+  );
  
 // Thứ tự hàng: từ trên xuống (Perfect Continuous -> Simple); mỗi hàng: Past, Present, Future
-	const rows: Tense[][] = [
-		[
-			{ name: "Past Perfect Continuous", formula: [T("S + had been + "), V("V-ing", "ving")], example: "She had been studying for 2 hours." },
-			{ name: "Present Perfect Continuous", formula: [T("S + have/has been + "), V("V-ing", "ving")], example: "She has been studying since 7." },
-			{ name: "Future Perfect Continuous", formula: [T("S + will have been + "), V("V-ing", "ving")], example: "She will have been studying for 3 hours." },
-		],
-		[
-			{ name: "Past Perfect", formula: [T("S + had + "), V("V3/ed", "v3")], example: "She had studied before I came." },
-			{ name: "Present Perfect", formula: [T("S + have/has + "), V("V3/ed", "v3")], example: "She has studied English for years." },
-			{ name: "Future Perfect", formula: [T("S + will have + "), V("V3/ed", "v3")], example: "She will have studied by Friday." },
-		],
-		[
-			{ name: "Past Continuous", formula: [T("S + was/were + "), V("V-ing", "ving")], example: "She was studying at 8 p.m." },
-			{ name: "Present Continuous", formula: [T("S + am/is/are + "), V("V-ing", "ving")], example: "She is studying right now." },
-			{ name: "Future Continuous", formula: [T("S + will be + "), V("V-ing", "ving")], example: "She will be studying at 8 p.m." },
-		],
-		[
-			{ name: "Past Simple", formula: [T("S + "), V("V2/ed", "v2")], example: "She studied English yesterday." },
-			{ name: "Present Simple", formula: [T("S + "), V("V1", "v1"), T(" / "), V("V-s/es", "vs")], example: "She studies English every day." },
-			{ name: "Future Simple", formula: [T("S + will + "), V("V1", "v1")], example: "She will study tomorrow." },
-		],
-	];
-	
-	const yLabels = [
-		["Perfect Continuous", "hoàn thành tiếp diễn"],
-		["Perfect", "hoàn thành"],
-		["Continuous", "tiếp diễn"],
-		["Simple", "đơn"],
-	];
-	
-	const xLabels = [
-		["tm-p", "PAST", "quá khứ"],
-		["tm-n", "PRESENT", "hiện tại"],
-		["tm-f", "FUTURE", "tương lai"],
-	];
+const rows: Tense[][] = [
+  [
+    { name: "Past Perfect Continuous", formula: [T("S + had been + "), V("V-ing", "ving")], example: "She [had been studying] for 2 hours." },
+    { name: "Present Perfect Continuous", formula: [T("S + have/has been + "), V("V-ing", "ving")], example: "She [has been studying] since 7." },
+    { name: "Future Perfect Continuous", formula: [T("S + will have been + "), V("V-ing", "ving")], example: "She [will have been studying] for 3 hours." },
+  ],
+  [
+    { name: "Past Perfect", formula: [T("S + had + "), V("V3/ed", "v3")], example: "She [had studied] before I came." },
+    { name: "Present Perfect", formula: [T("S + have/has + "), V("V3/ed", "v3")], example: "She [has studied] English for years." },
+    { name: "Future Perfect", formula: [T("S + will have + "), V("V3/ed", "v3")], example: "She [will have studied] by Friday." },
+  ],
+  [
+    { name: "Past Continuous", formula: [T("S + was/were + "), V("V-ing", "ving")], example: "She [was studying] at 8 p.m." },
+    { name: "Present Continuous", formula: [T("S + am/is/are + "), V("V-ing", "ving")], example: "She [is studying] right now." },
+    { name: "Future Continuous", formula: [T("S + will be + "), V("V-ing", "ving")], example: "She [will be studying] at 8 p.m." },
+  ],
+  [
+    { name: "Past Simple", formula: [T("S + "), V("V2/ed", "v2")], example: "She [studied] English yesterday." },
+    { name: "Present Simple", formula: [T("S + "), V("V1", "v1"), T(" / "), V("V-s/es", "vs")], example: "She [studies] English every day." },
+    { name: "Future Simple", formula: [T("S + will + "), V("V1", "v1")], example: "She [will study] tomorrow." },
+  ],
+];
+ 
+const yLabels = [
+  ["Perfect Continuous", "hoàn thành tiếp diễn"],
+  ["Perfect", "hoàn thành"],
+  ["Continuous", "tiếp diễn"],
+  ["Simple", "đơn"],
+];
+ 
+const xLabels = [
+  ["tm-p", "PAST", "quá khứ"],
+  ["tm-n", "PRESENT", "hiện tại"],
+  ["tm-f", "FUTURE", "tương lai"],
+];
 
 	return (<>
 
@@ -65,8 +75,6 @@ export default function TensesChart(): React.JSX.Element {
 			{/* This is the content of English Learning Term. */}
 
 			<h4 className="margin-bottom-30 text-center">A Comprehensive Guide to English Tenses</h4>
-
-			<p></p>
 
 			<div className="tm-root">
       <div className="tm-legend">
@@ -101,7 +109,7 @@ export default function TensesChart(): React.JSX.Element {
                       <span key={i} className={p.c ? `tm-${p.c}` : undefined}>{p.t}</span>
                     ))}
                   </div>
-                  <div className="tm-ex">{tense.example}</div>
+                  <div className="tm-ex">{renderExample(tense.example)}</div>
                 </div>
               ))
             )}

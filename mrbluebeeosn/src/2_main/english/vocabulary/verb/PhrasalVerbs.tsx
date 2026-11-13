@@ -75,7 +75,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border" >
-						<HashLink smooth to="#get-aLONG">get aLONG</HashLink>
+						<HashLink smooth to="#get-aLONG">GET aLONG</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -207,7 +207,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#get-aLONG2">get aLONG</HashLink>
+						<HashLink smooth to="#get-aLONG2">GET aLONG</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -219,7 +219,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
-						<HashLink smooth to="#get-aLONG3">get aLONG</HashLink>
+						<HashLink smooth to="#get-aLONG3">GET aLONG</HashLink>
 					</span> &nbsp;
 
 					<span className="highlight-255-padding-0-4 text-border">
@@ -302,7 +302,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					<li value="8" id="founD-OUT">i JUST <strong>founD OUT</strong> that the CONcert is FREE!</li>
 					<li className="margin-bottom-20 list-none">I just found out that the concert won't cost me anything!</li>
 
-					<li value="9" id="get-aLONG">i <strong>get aLONG</strong> REally WELL with my NEW BOSS.</li>
+					<li value="9" id="get-aLONG">i <strong>GET aLONG</strong> REally WELL with my NEW BOSS.</li>
 					<li className="margin-bottom-20 list-none">I get along great with my new supervisor.</li>
 			
 					<li value="10" id="haNG-OUT">we Usually <strong>haNG OUT</strong> at the caFÉ <strong>af</strong>ter CLASS.</li>
@@ -422,14 +422,14 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					<li id="haNG-OUT2">on WEEKends, i Usually LIKE to <strong>haNG OUT</strong> with my FRIENDS at a LOcal COFfee SHOP.</li>
 					<li className="margin-bottom-20 list-none">On the weekends, I like to spend time with my friends at a nearby coffee shop.</li>
 			
-					<li id="catCH-UP2">we HAVEn't SEEN EACH OTHer for MONTHS, so we meT UP for LUNCH to <strong>catCH UP</strong> on EACH OTHer's LIVES.</li>
-					<li className="margin-bottom-20 list-none">We haven't seen each other in a long time, so we met up for lunch to talk about what's been going on in our lives.</li>
+					<li id="catCH-UP2">we <span className="pill-teal">HAVEn't SEEN</span> EACH OTHer for MONTHS, so we <span className="pill-teal">meT UP</span> for LUNCH to <span className="pill-teal">catCH UP</span> on EACH OTHer's LIVES.</li>
+					<li className="margin-bottom-20 list-none">We <span className="pill-teal">haven't seen</span> each other in a long time, so we <span className="pill-teal">met up</span> for lunch to <span className="pill-teal">talk</span> about what<span className="pill-teal">'s been going</span> on in our lives.</li>
 
-					<li id="get-aLONG2">FORtunately, ALL of my NEW COLleagues are VERy FRIENDly, and i <strong>get aLONG</strong> with them QUITE WELL.</li>
-					<li className="margin-bottom-20 list-none">Luckily, all my new colleagues are friendly, and I mesh well with them.</li>
+					<li id="get-aLONG2">FORtunately, ALL of my NEW COLleagues <span className="pill-teal">are</span> VERy FRIENDly, and i <span className="pill-teal">GET aLONG</span> with them QUITE WELL.</li>
+					<li className="margin-bottom-20 list-none">Luckily, all my new colleagues <span className="pill-teal">are</span> friendly, and I <span className="pill-teal">mesh</span> well with them.</li>
 			
-					<li id="gO-OUT">they deCIded to <strong>gO OUT</strong> for DINner and a MOvie to CELebrate their WEDding anniVERsary.</li>
-					<li className="list-none">they deCIded to gO OUT for DINner and a MOvie to CELebrate their WEDding anniVERsary.</li>
+					<li id="gO-OUT">they <span className="pill-teal">deCIded</span> to <span className="pill-teal">gO OUT</span> for DINner and a MOvie to <span className="pill-teal">CELebrate</span> their WEDding anniVERsary.</li>
+					<li className="list-none">To <span className="pill-teal">celebrate</span> their wedding anniversary, they <span className="pill-teal">went out</span> for dinner and a movie.</li>
 			
 				</ul>
 			
@@ -439,12 +439,12 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i disCOverED the TRUTH.</li>
-					<li className="list-none">I figured out what was really going on.</li>
+					<li>i <span className="pill-teal">disCOverED</span> the TRUTH.</li>
+					<li className="list-none">I <span className="pill-teal">figured out</span> what was really going on.</li>
 					<li className="margin-bottom-20 list-none">It's often used for more formal occasions and highlights finding something new or hidden.</li>
 			
-					<li id="founD-OUT2">i <strong>founD OUT</strong> the TRUTH.</li>
-					<li className="list-none">I discovered the truth about this.</li>
+					<li id="founD-OUT2">i <span className="pill-teal">founD OUT</span> the TRUTH.</li>
+					<li className="list-none">I <span className="pill-teal">discovered</span> the truth about this.</li>
 					<li className="list-none">It typically means finding something by chance or after looking for it.</li>
 			
 			
@@ -459,8 +459,8 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li id="get-aLONG3">i <strong>get aLONG</strong> WELL with my SIBlings.</li>
-					<li className="list-none">I get along well with my brothers and sisters.</li>
+					<li id="get-aLONG3">i <span className="pill-teal">GET aLONG</span> WELL with my SIBlings.</li>
+					<li className="list-none">I <span className="pill-teal">get along</span> well with my brothers and sisters.</li>
 			
 				</ul>
 
@@ -468,8 +468,8 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li id="tooK-UP">LAST YEAR i <strong>tooK UP</strong> YOga to <strong>geT Over</strong> STRESS.</li>
-					<li className="list-none">Last year, I started doing yoga to help deal with my stress.</li>
+					<li id="tooK-UP">LAST YEAR i <span className="pill-teal">tooK UP</span> YOga to <span className="pill-teal">geT</span> Over STRESS.</li>
+					<li className="list-none">Last year, I <span className="pill-teal">started doing</span> yoga to <span className="pill-teal">help</span> deal with my stress.</li>
 			
 				</ul>
 
@@ -477,15 +477,15 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li id="giVE-UP3"><strong>man</strong>y PEOple <strong>giVE UP</strong> EAsily when THINGS GET TOUGH.</li>
-					<li className="list-none">Many people quit easily when things get hard.</li>
+					<li id="giVE-UP3"><strong>man</strong>y PEOple <span className="pill-teal">giVE UP</span> EAsily when THINGS <span className="pill-teal">GET</span> TOUGH.</li>
+					<li className="list-none">Many people <span className="pill-teal">quit</span> easily when things <span className="pill-teal">get</span> hard.</li>
 			
 				</ul>
 			
 
 			<p className="margin-top-20">Learn 5–10 phrases each week. Use them right away when talking with other people or when speaking on your own. After 2–3 months, you will find yourself speaking much more naturally!</p>
 
-			<p id="leveL-UP">Hoping you learn more phrasal verbs soon! 🚀</p>
+			<p>Hoping you learn more phrasal verbs soon! 🚀</p>
 
 			<div className="viewcounter">
 			

@@ -88,17 +88,17 @@ export default function Fruits(): React.JSX.Element {
         <li value="6" id="WAtermelon"><span className="pill-teal">EATing</span> a COLD SLICE of WAtermelon <span className="pill-teal">is</span> the BEST WAY to <span className="pill-teal">BEAT</span> the SUMmer HEAT.</li>
         <li className="list-none margin-bottom-20">The best thing to <span className="pill-teal">eat</span> in the summer heat <span className="pill-teal">is</span> a cold slice of watermelon.</li>
 
-        <li value="7" id="STRAWberries">she TOPPED the BIRTHday CAKE with FRESH RED STRAWberries.</li>
-        <li className="list-none margin-bottom-20">She decorated the birthday cake with fresh red strawberries on top.</li>
+        <li value="7" id="STRAWberries">she <span className="pill-teal">TOPPED</span> the BIRTHday CAKE with FRESH RED STRAWberries.</li>
+        <li className="list-none margin-bottom-20">She <span className="pill-teal">decorated</span> the birthday cake with fresh red strawberries on top.</li>
 
-        <li value="8" id="GRAPES">GREEN and PURple GRAPES are both GREAT for MAking WINE.</li>
-        <li className="list-none margin-bottom-20">You can make great wine from both green and purple grapes.</li>
+        <li value="8" id="GRAPES">GREEN and PURple GRAPES <span className="pill-teal">are</span> both GREAT for MAking WINE.</li>
+        <li className="list-none margin-bottom-20">You <span className="pill-teal">can make</span> great wine from both green and purple grapes.</li>
 
-        <li value="9" id="avoCAdo">TOAST with MASHED avoCAdo and EGGS is a VERy HEALTHy BREAKfast.</li>
-        <li className="list-none margin-bottom-20">Toast with mashed avocado and eggs is a good breakfast choice.</li>
+        <li value="9" id="avoCAdo">TOAST with MASHED avoCAdo and EGGS <span className="pill-teal">is</span> a VERy HEALTHy BREAKfast.</li>
+        <li className="list-none margin-bottom-20">Toast with mashed avocado and eggs <span className="pill-teal">is</span> a good breakfast choice.</li>
 
-        <li value="10" id="paPAYa">RIPE paPAYa is a SOFT, SWEET, and VItamin-RICH TROPical FRUIT.</li>
-        <li className="list-none margin-bottom-20">Ripe papaya is a tropical fruit that is soft, sweet, and full of vitamins.</li>
+        <li value="10" id="paPAYa">RIPE paPAYa <span className="pill-teal">is</span> a SOFT, SWEET, and VItamin-RICH TROPical FRUIT.</li>
+        <li className="list-none margin-bottom-20">Ripe papaya <span className="pill-teal">is</span> a tropical fruit that <span className="pill-teal">is</span> soft, sweet, and full of vitamins.</li>
 
       </ol>
 
