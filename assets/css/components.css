@@ -1368,6 +1368,17 @@ summary::after {
   color: var(--tm-ving);
 }
 
+.tm-pill {
+  display: inline;
+  padding: 1px 9px;
+  border-radius: 99px;
+  background: rgba(166, 239, 241, 0.5);
+  /* color: #000; */
+  /* font-weight: 700; */
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
 
 /* Dictation Exercise */
 
