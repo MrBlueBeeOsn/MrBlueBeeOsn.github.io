@@ -709,16 +709,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he PUTS his DOCuments in a SAFE DRAWer <strong>ever</strong>y EVEning.</li>
-					<li className="list-none">Every night, he stashes his documents in the safe drawer.</li>
+					<li>he <span className="pill-teal">PUTS</span> his DOCuments in a SAFE DRAWer <strong>ever</strong>y EVEning.</li>
+					<li className="list-none">Every night, he <span className="pill-teal">stashes</span> his documents in the safe drawer.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the PUTS form (for the third-person singular subject "He") to describe habits or events that occur regularly.</li>
 			
-					<li>she put her CAMERa ON the TAble YESterday.</li>
-					<li className="list-none">She set her camera on the table yesterday.</li>
+					<li>she <span className="pill-teal">PUT</span> her CAMERa <span className="pill-teal">ON</span> the TAble YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">set</span> her camera <span className="pill-teal">on</span> the table yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the PUT form to refer to an action that occurred and ended in the past.</li>
 			
-					<li>they have PUT a LOT of EFfort into the NEW PROJect.</li>
-					<li className="list-none">They worked really hard on the new project.</li>
+					<li>they <span className="pill-teal">have PUT</span> a LOT of EFfort into the NEW PROJect.</li>
+					<li className="list-none">They <span className="pill-teal">worked</span> really hard on the new project.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have PUT" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -728,16 +728,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he BRINGS a HOT CUP of COFfee to his DESK <strong>ever</strong>y MORNing.</li>
-					<li className="list-none">Every morning, he gets a hot cup of coffee for his desk.</li>
+					<li>he <span className="pill-teal">BRINGS</span> a HOT CUP of COFfee to his DESK <strong>ever</strong>y MORNing.</li>
+					<li className="list-none">Every morning, he <span className="pill-teal">gets</span> a hot cup of coffee for his desk.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the "BRINGS" form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she BROUGHT her CAMERa along to TAKE PHOtos YESterday.</li>
-					<li className="list-none">She brought her camera with her so she could take pictures.</li>
+					<li>she <span className="pill-teal">BROUGHT</span> her CAMERa along to TAKE PHOtos YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">brought</span> her camera with her so she <span className="pill-teal">could take</span> pictures.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "BROUGHT" form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have BROUGHT all the NECessary DOCuments for the MEETing.</li>
-					<li className="list-none">They have all the documents they need for the meeting.</li>
+					<li>they <span className="pill-teal">have BROUGHT</span> all the NECessary DOCuments for the MEETing.</li>
+					<li className="list-none">They <span className="pill-teal">have</span> all the documents they <span className="pill-teal">need</span> for the meeting.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have BROUGHT" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -747,16 +747,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he beGINS his WORKday EARly <strong>ever</strong>y MORNing.</li>
-					<li className="list-none">He starts working early every morning.</li>
+					<li>he <span className="pill-teal">beGINS</span> his WORKday EARly <strong>ever</strong>y MORNing.</li>
+					<li className="list-none">He <span className="pill-teal">starts working</span> early every morning.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the "beGINS" form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she beGAN LEARNing ENGlish Using a NEW METHod LAST YEAR.</li>
-					<li className="list-none">She started learning English using a new approach last year.</li>
+					<li>she <span className="pill-teal">beGAN LEARNing</span> ENGlish <span className="pill-teal">Using</span> a NEW METHod LAST YEAR.</li>
+					<li className="list-none">She <span className="pill-teal">started learning</span> English <span className="pill-teal">using</span> a new approach last year.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "beGAN" form to indicate an action that occurred and ended in the past.</li>
 			
-					<li>they have beGUN WORKing on the NEW acCOUNTing rePORT.</li>
-					<li className="list-none">The new accounting report is being prepared.</li>
+					<li>they <span className="pill-teal">have beGUN WORKing</span> on the NEW acCOUNTing rePORT.</li>
+					<li className="list-none">The new accounting report <span className="pill-teal">is being prepared.</span></li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have begun" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -766,16 +766,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he KEEPS his WORKspace NEAT and ORganized <strong>ever</strong>y DAY.</li>
-					<li className="list-none">He makes sure to keep his workspace tidy and well-organized each day.</li>
+					<li>he <span className="pill-teal">KEEPS</span> his WORKspace NEAT and ORganized <strong>ever</strong>y DAY.</li>
+					<li className="list-none">He <span className="pill-teal">makes</span> sure to <span className="pill-teal">keep</span> his workspace tidy and well-organized each day.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the "KEEPS" form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she KEPT all her NOTES from the acCOUNTing COURSE LAST YEAR.</li>
-					<li className="list-none">She saved all her notes from the accounting course she took last year.</li>
+					<li>she <span className="pill-teal">KEPT</span> all her NOTES from the acCOUNTing COURSE LAST YEAR.</li>
+					<li className="list-none">She <span className="pill-teal">saved</span> all her notes from the accounting course she <span className="pill-teal">took</span> last year.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "KEPT" form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have KEPT their PROMise to FINish the PROJect on TIME.</li>
-					<li className="list-none">They finished the project on time, as they had promised they would.</li>
+					<li>they <span className="pill-teal">have KEPT</span> their PROMise to <span className="pill-teal">FINish</span> the PROJect on TIME.</li>
+					<li className="list-none">They <span className="pill-teal">finished</span> the project on time, as they <span className="pill-teal">had promised</span> they <span className="pill-teal">would.</span></li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have KEPT" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -785,16 +785,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he LETS his TEAM WORK from HOME on FRIdays.</li>
-					<li className="list-none">He allows his team to work from home on Fridays.</li>
+					<li>he <span className="pill-teal">LETS</span> his TEAM WORK from HOME on FRIdays.</li>
+					<li className="list-none">He <span className="pill-teal">allows</span> his team to <span className="pill-teal">work</span> from home on Fridays.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the "LETS" form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she let the CAT OUT of the HOUSE this MORNing.</li>
-					<li className="list-none">This morning, she let the cat out of the house.</li>
+					<li>she <span className="pill-teal">LET</span> the CAT <span className="pill-teal">OUT</span> of the HOUSE this MORNing.</li>
+					<li className="list-none">This morning, she <span className="pill-teal">let</span> the cat <span className="pill-teal">out</span> of the house.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "LET" form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have LET us USE their OFFice SPACE for the MEEting.</li>
-					<li className="list-none">We're allowed to use their office for the meeting.</li>
+					<li>they <span className="pill-teal">have LET</span> us <span className="pill-teal">USE</span> their OFFice SPACE for the MEEting.</li>
+					<li className="list-none">We<span className="pill-teal">'re allowed</span> to <span className="pill-teal">use</span> their office for the meeting.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have + LET" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -804,16 +804,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he SETS a CLEAR GOAL at the beGINning of <strong>ever</strong>y MONTH.</li>
-					<li className="list-none">Every month, he makes a clear goal.</li>
+					<li>he <span className="pill-teal">SETS</span> a CLEAR GOAL at the beGINning of <strong>ever</strong>y MONTH.</li>
+					<li className="list-none">Every month, he <span className="pill-teal">makes</span> a clear goal.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the SETS form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she SET her aLARM CLOCK EARly YESterday.</li>
-					<li className="list-none">She set the alarm on her phone early yesterday.</li>
+					<li>she <span className="pill-teal">SET</span> her aLARM CLOCK EARly YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">set</span> the alarm on her phone early yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "SET" form to refer to an action that occurred and ended in the past.</li>
 			
-					<li>they have SET all the RULES for the NEW PROJect.</li>
-					<li className="list-none">All of the rules for the new project have been set by them.</li>
+					<li>they <span className="pill-teal">have SET</span> all the RULES for the NEW PROJect.</li>
+					<li className="list-none">All of the rules for the new project <span className="pill-teal">have been set</span> by them.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have SET" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -823,16 +823,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he READS SPECialized TECHnical BLOGS <strong>ever</strong>y EVEning.</li>
-					<li className="list-none">Every evening, he reads technical blogs that are written for professionals in his field.</li>
+					<li>he <span className="pill-teal">READS</span> SPECialized TECHnical BLOGS <strong>ever</strong>y EVEning.</li>
+					<li className="list-none">Every evening, he <span className="pill-teal">reads</span> technical blogs that <span className="pill-teal">are written</span> for professionals in his field.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form "READS" (for the third-person singular subject "he") to describe a habit or an event that occurs regularly.</li>
 			
-					<li>she READ an INTEResting BOOK LAST WEEK.</li>
-					<li className="list-none">I hear she read an interesting book last week.</li>
+					<li>she <span className="pill-teal">READ</span> an INTEResting BOOK LAST WEEK.</li>
+					<li className="list-none">I <span className="pill-teal">hear</span> she <span className="pill-teal">read</span> an interesting book last week.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the form "READ" (pronounced /red/) to refer to an action that took place and ended in the past.</li>
 			
-					<li>they have READ the NEW PROJect GUIDElines THORoughly.</li>
-					<li className="list-none">They have read the new guidelines for the project very carefully.</li>
+					<li>they <span className="pill-teal">have READ</span> the NEW PROJect GUIDElines THORoughly.</li>
+					<li className="list-none">They <span className="pill-teal">have read</span> the new guidelines for the project very carefully.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have READ" (pronounced /red/), referring to an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -842,16 +842,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he BUYS FRESH roBUSta BEANS <strong>ever</strong>y MONTH.</li>
-					<li className="list-none">Every month, he buys fresh, locally-produced Robusta beans.</li>
+					<li>he <span className="pill-teal">BUYS</span> FRESH roBUSta BEANS <strong>ever</strong>y MONTH.</li>
+					<li className="list-none">Every month, he <span className="pill-teal">buys</span> fresh, locally-produced Robusta beans.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form "BUYS" (for the third-person singular subject "he") to indicate a habit or a regular occurrence.</li>
 			
-					<li>she BOUGHT a NEW CAST IRON PAN YESterday.</li>
-					<li className="list-none">She picked up a cast iron skillet yesterday.</li>
+					<li>she <span className="pill-teal">BOUGHT</span> a NEW CAST IRON PAN YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">picked up</span> a cast iron skillet yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the form "BOUGHT" to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have BOUGHT all the NECessary inGREdients.</li>
-					<li className="list-none">All the necessary ingredients have been purchased.</li>
+					<li>they <span className="pill-teal">have BOUGHT</span> all the NECessary inGREdients.</li>
+					<li className="list-none">All the necessary ingredients <span className="pill-teal">have been purchased.</span></li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have BOUGHT" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -861,16 +861,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he SITS at his DESK <strong>ever</strong>y MORNing to WORK.</li>
-					<li className="list-none">He sits at his desk every morning and works.</li>
+					<li>he <span className="pill-teal">SITS</span> at his DESK <strong>ever</strong>y MORNing to WORK.</li>
+					<li className="list-none">He <span className="pill-teal">sits</span> at his desk every morning and <span className="pill-teal">works.</span></li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense in the SITS form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she SAT on the BENCH in the PARK YESterday.</li>
-					<li className="list-none">She was sitting on the bench in the park yesterday.</li>
+					<li>she <span className="pill-teal">SAT</span> on the BENCH in the PARK YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">was sitting</span> on the bench in the park yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the SAT form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have SAT in the MEETing ROOM for <strong>o</strong>veran HOUR.</li>
-					<li className="list-none">Họ [đã ngồi] trong phòng họp [hơn một tiếng đồng hồ] [rồi].</li>
+					<li>they <span className="pill-teal">have SAT</span> in the MEETing ROOM for <strong>o</strong>veran HOUR.</li>
+					<li className="list-none">They <span className="pill-teal">have spent</span> over an hour in the meeting room.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have SAT" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -880,16 +880,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he STANDS by the WINdow <strong>ever</strong>y MORNing to WATCH the SUNrise.</li>
-					<li className="list-none">Every morning, he's at the window, waiting for the sun to come up.</li>
+					<li>he <span className="pill-teal">STANDS</span> by the WINdow <strong>ever</strong>y MORNing to <span className="pill-teal">WATCH</span> the SUNrise.</li>
+					<li className="list-none">Every morning, he<span className="pill-teal">'s</span> at the window, <span className="pill-teal">waiting</span> for the sun to <span className="pill-teal">come up.</span></li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the STANDS form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she STOOD in the RAIN for a LONG TIME YESterday.</li>
-					<li className="list-none">She stood in the rain for quite a while yesterday.</li>
+					<li>she <span className="pill-teal">STOOD</span> in the RAIN for a LONG TIME YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">stood</span> in the rain for quite a while yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the form "STOOD" to indicate an action that occurred and ended in the past.</li>
 			
-					<li>they have STOOD FIRM against all the DIFficulties.</li>
-					<li className="list-none">They have remained strong in the face of challenges.</li>
+					<li>they <span className="pill-teal">have STOOD</span> FIRM against all the DIFficulties.</li>
+					<li className="list-none">They <span className="pill-teal">have remained</span> strong in the face of challenges.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have STOOD" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
