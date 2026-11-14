@@ -459,12 +459,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>do you <strong>reMEMber LOCKing</strong> the DOOR?</li>
-					<li className="list-none">Do you remember closing the door?</li>
+					<li><span className="pill-teal">do</span> you <span className="pill-teal">reMEMber LOCKing</span> the DOOR?</li>
+					<li className="list-none"><span className="pill-teal">Do</span> you <span className="pill-teal">remember closing</span> the door?</li>
 					<li className="margin-bottom-20 list-none">"You" is the subject. The structure "reMEMber + verb + -ing" is used to ask about or recall an event or action that occurred in the past (the action of locking the door has already been done; now you're asking again to see if you remember it).</li>
 			
-					<li><strong>reMEMber to LOCK</strong> the DOOR.</li>
-					<li className="list-none">Please remember to close the door.</li>
+					<li><span className="pill-teal">reMEMber</span> to <span className="pill-teal">LOCK</span> the DOOR.</li>
+					<li className="list-none">Please <span className="pill-teal">remember</span> to <span className="pill-teal">close</span> the door.</li>
 					<li className="list-none">In an implied imperative sentence, the subject is understood to be "you." The structure "reMEMber + to + verb in the infinitive" is used to remind someone to perform a task or do something they haven't done yet in the future (such as "the door isn't locked yet; remember to lock it").</li>
 			
 				</ul>
@@ -474,12 +474,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i’ll NEVer <strong>forGET MEETing</strong> you at the COFfee SHOP LAST SUMmer.</li>
-					<li className="list-none">I will always remember when we met at the coffee shop last summer.</li>
+					<li>i<span className="pill-teal">’ll</span> NEVer <span className="pill-teal">forGET MEETing</span> you at the COFfee SHOP LAST SUMmer.</li>
+					<li className="list-none">I <span className="pill-teal">will</span> always <span className="pill-teal">remember</span> when we <span className="pill-teal">met</span> at the coffee shop last summer.</li>
 					<li className="margin-bottom-20 list-none">"I" is the subject. The structure "forGET + action + -ing" is used to express that one will never forget an event or memory that occurred in the past.</li>
 			
-					<li>DON’T <strong>forGET to BUY</strong> MILK on your WAY HOME from WORK toDAY.</li>
-					<li className="list-none">Remember to buy milk on your way home from work today!</li>
+					<li><span className="pill-teal">DON’T forGET</span> to <span className="pill-teal">BUY</span> MILK on your WAY HOME from WORK toDAY.</li>
+					<li className="list-none"><span className="pill-teal">Remember</span> to <span className="pill-teal">buy</span> milk on your way home from work today!</li>
 					<li className="list-none">An imperative sentence implicitly assumes that the subject is "you." The structure "forGET + to + verb in the infinitive" is used to remind someone to perform a task or action that has not yet been done in the future.</li>
 			
 				</ul>
@@ -489,12 +489,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>STOPPED SMOking</strong> LAST YEAR to imPROVE his HEALTH.</li>
-					<li className="list-none">He gave up smoking last year to get healthier.</li>
+					<li>he <span className="pill-teal">STOPPED SMOking</span> LAST YEAR to <span className="pill-teal">imPROVE</span> his HEALTH.</li>
+					<li className="list-none">He <span className="pill-teal">gave up smoking</span> last year to <span className="pill-teal">get</span> healthier.</li>
 					<li className="margin-bottom-20 list-none">He is the subject. The structure "stop + action + -ing" means to completely stop or give up an activity or old habit.</li>
 			
-					<li>he <strong>STOPPED to SMOKE</strong> a cigaRETTE on his WAY HOME from WORK.</li>
-					<li className="list-none">He quit smoking cigarettes on his way home from work.</li>
+					<li>he <span className="pill-teal">STOPPED</span> to <span className="pill-teal">SMOKE</span> a cigaRETTE on his WAY HOME from WORK.</li>
+					<li className="list-none">He <span className="pill-teal">quit smoking</span> cigarettes on his way home from work.</li>
 					<li className="list-none">He is the subject. The structure "stop + to + verb in the infinitive" means to stop what one is doing in order to perform the next action.</li>
 			
 				</ul>
@@ -504,12 +504,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>you should <strong>TRY EATing</strong> LESS SUGar.</li>
-					<li className="list-none">You should try to consume a smaller amount of sugar.</li>
+					<li>you <span className="pill-teal">should TRY EATing</span> LESS SUGar.</li>
+					<li className="list-none">You <span className="pill-teal">should try</span> to <span className="pill-teal">consume</span> a smaller amount of sugar.</li>
 					<li className="margin-bottom-20 list-none">"You" is the subject, combined with a structure used to test something to see the result.</li>
 			
-					<li>you NEED to <strong>TRY to EAT</strong> LESS SUGar.</li>
-					<li className="list-none">It is important that you try to eat less sugar.</li>
+					<li>you <span className="pill-teal">NEED</span> to <span className="pill-teal">TRY</span> to <span className="pill-teal">EAT</span> LESS SUGar.</li>
+					<li className="list-none">It <span className="pill-teal">is</span> important that you <span className="pill-teal">try</span> to <span className="pill-teal">eat</span> less sugar.</li>
 					<li className="list-none">"You" is the subject, combined with a structure that expresses the effort to overcome difficulties in order to perform an action.</li>
 			
 				</ul>
@@ -519,12 +519,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i <strong>reGRET TELLing</strong> her the TRUTH.</li>
-					<li className="list-none">I wish I hadn't told her the truth.</li>
+					<li>i <span className="pill-teal">reGRET TELLing</span> her the TRUTH.</li>
+					<li className="list-none">I <span className="pill-teal">wish</span> I <span className="pill-teal">hadn't told</span> her the truth.</li>
 					<li className="margin-bottom-20 list-none">The "reGRET + verb + -ing" structure: Used to express regret about something that happened in the past.</li>
 			
-					<li>i <strong>reGRET to TELL</strong> you that your appliCAtion has been reJECTed.</li>
-					<li className="list-none">I'm sorry to inform you that your application has been rejected.</li>
+					<li>i <span className="pill-teal">reGRET</span> to <span className="pill-teal">TELL</span> you that your appliCAtion <span className="pill-teal">has been reJECTed.</span></li>
+					<li className="list-none">I<span className="pill-teal">'m</span> sorry to <span className="pill-teal">inform</span> you that your application <span className="pill-teal">has been rejected.</span></li>
 					<li className="list-none">The "reGRET to + infinitive" structure: This is commonly used in formal contexts (especially with verbs that convey a message, such as inFORM, TELL, and anNOUNCE) to convey sad or unpleasant news at the very moment of speaking.</li>
 			
 				</ul>
@@ -534,12 +534,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>conTINued WORKing</strong> on her rePORT EVen <strong>af</strong>ter <strong>ever</strong>yone ELSE had LEFT the OFfice.</li>
-					<li className="list-none">Even after everyone else had left the office, she kept working on her report.</li>
+					<li>she <span className="pill-teal">conTINued WORKing</span> on her rePORT EVen <strong>af</strong>ter <strong>ever</strong>yone ELSE <span className="pill-teal">had LEFT</span> the OFfice.</li>
+					<li className="list-none">Even after everyone else <span className="pill-teal">had left</span> the office, she <span className="pill-teal">kept working</span> on her report.</li>
 					<li className="margin-bottom-20 list-none">"She" is the subject. This structure is used when an action is in progress and continues uninterrupted.</li>
 			
-					<li><strong>af</strong>ter FINishing her COFfee, she <strong>conTINued to WRITE</strong> the Emails.</li>
-					<li className="list-none">After she drank her coffee, she kept writing emails.</li>
+					<li><strong>af</strong>ter <span className="pill-teal">FINishing</span> her COFfee, she <span className="pill-teal">conTINued</span> to <span className="pill-teal">WRITE</span> the Emails.</li>
+					<li className="list-none">After she <span className="pill-teal">drank</span> her coffee, she <span className="pill-teal">kept writing</span> emails.</li>
 					<li className="list-none">"She" is the subject. This structure is used when transitioning to a new action or resuming an activity after a pause (however, in most ordinary cases, these two structures have nearly equivalent meanings).</li>
 			
 				</ul>
@@ -548,12 +548,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>it <strong>beGAN RAINing</strong> HEAVily JUST as we steppED OUT of the RESTAUrant.</li>
-					<li className="list-none">It started raining heavily just as we were leaving the restaurant.</li>
+					<li>it <span className="pill-teal">beGAN RAINing</span> HEAVily JUST as we <span className="pill-teal">steppED OUT</span> of the RESTAUrant.</li>
+					<li className="list-none">It <span className="pill-teal">started raining</span> heavily just as we <span className="pill-teal">were leaving</span> the restaurant.</li>
 					<li className="margin-bottom-20 list-none">"It" is the subject. This structure is often used when describing a process or a natural event that begins to take place.</li>
 			
-					<li>he <strong>beGAN to exPLAIN</strong> the NEW acCOUNTing RULES to the TEAM MEMbers.</li>
-					<li className="list-none">He started to explain the new rules about how to record money to the team members.</li>
+					<li>he <span className="pill-teal">beGAN</span> to <span className="pill-teal">exPLAIN</span> the NEW acCOUNTing RULES to the TEAM MEMbers.</li>
+					<li className="list-none">He <span className="pill-teal">started</span> to <span className="pill-teal">explain</span> the new rules about how to <span className="pill-teal">record</span> money to the team members.</li>
 					<li className="list-none">"He" is the subject. This structure typically emphasizes the moment when a deliberate action officially begins.</li>
 			
 				</ul>
@@ -563,12 +563,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the CAR <strong>STARTed MAking</strong> a STRANGE NOISE on the WAY HOME.</li>
-					<li className="list-none">The car made a weird noise on the way home.</li>
+					<li>the CAR <span className="pill-teal">STARTed MAking</span> a STRANGE NOISE on the WAY HOME.</li>
+					<li className="list-none">The car <span className="pill-teal">made</span> a weird noise on the way home.</li>
 					<li className="margin-bottom-20 list-none">"the CAR" is the subject. This structure is often used to indicate the beginning of an event, phenomenon, or ongoing process.</li>
 			
-					<li>she <strong>STARTed to CHECK</strong> the MONTHly fiNANcial rePORTS on her comPUter.</li>
-					<li className="list-none">She started checking the monthly financial reports on her computer.</li>
+					<li>she <span className="pill-teal">STARTed</span> to <span className="pill-teal">CHECK</span> the MONTHly fiNANcial rePORTS on her comPUter.</li>
+					<li className="list-none">She <span className="pill-teal">started checking</span> the monthly financial reports on her computer.</li>
 					<li className="list-none">"She" is the subject. This structure typically emphasizes the moment when a person begins to perform a conscious action.</li>
 			
 				</ul>
@@ -578,12 +578,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>preFERS WORKing</strong> with RAW DAta RATHer than SUMmarizing TEXT.</li>
-					<li className="list-none">He enjoys working with unstructured data more than summarizing text.</li>
+					<li>he <span className="pill-teal">preFERS WORKing</span> with RAW DAta RATHer than <span className="pill-teal">SUMmarizing</span> TEXT.</li>
+					<li className="list-none">He <span className="pill-teal">enjoys working</span> with unstructured data more than <span className="pill-teal">summarizing</span> text.</li>
 					<li className="margin-bottom-20 list-none">He is the subject. The structure "preFER + V-ing" is often used to express a general, long-term preference or habit.</li>
 			
-					<li>RIGHT NOW, she <strong>preFERS to STAY</strong> HOME and READ a BOOK in<strong>stead</strong> of <strong>go</strong>iNG OUT.</li>
-					<li className="list-none">At this time, she would rather stay home and read a book than go out.</li>
+					<li>RIGHT NOW, she <span className="pill-teal">preFERS</span> to <span className="pill-teal">STAY</span> HOME and <span className="pill-teal">READ</span> a BOOK in<strong>stead</strong> of <span className="pill-teal">GOing OUT.</span></li>
+					<li className="list-none">At this time, she <span className="pill-teal">would</span> rather <span className="pill-teal">stay</span> home and <span className="pill-teal">read</span> a book than <span className="pill-teal">go out.</span></li>
 					<li className="list-none">"She" is the subject. The structure "prefer + to V" is often used to emphasize a preference or choice in a specific situation (usually accompanied by "would prefer" or adverbs of time such as "now").</li>
 			
 				</ul>

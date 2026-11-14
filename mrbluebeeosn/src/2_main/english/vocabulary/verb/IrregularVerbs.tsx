@@ -518,16 +518,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he GIVES HELPful adVICE on WEB deVELopment <strong>ever</strong>y EVEning.</li>
-					<li className="list-none">He's always happy to give helpful advice on website development whenever someone needs it.</li>
+					<li>he <span className="pill-teal">GIVES</span> HELPful adVICE on WEB deVELopment <strong>ever</strong>y EVEning.</li>
+					<li className="list-none">He<span className="pill-teal">'s</span> always happy to <span className="pill-teal">give</span> helpful advice on website development whenever someone <span className="pill-teal">needs</span> it.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the "GIVES" form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she GAVE a presenTAtion a<strong>bout</strong> her phoTOGraphy portFOlio YESterday.</li>
-					<li className="list-none">She gave a presentation yesterday about the photos she took.</li>
+					<li>she <span className="pill-teal">GAVE</span> a presenTAtion a<strong>bout</strong> her phoTOGraphy portFOlio YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">gave</span> a presentation yesterday about the photos she <span className="pill-teal">took.</span></li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "gave" form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have GIVen all the NECessary DAta to the acCOUNTing dePARTment.</li>
-					<li className="list-none">They have given all the information needed to the accounting department.</li>
+					<li>they <span className="pill-teal">have GIVen</span> all the NECessary DAta to the acCOUNTing dePARTment.</li>
+					<li className="list-none">They <span className="pill-teal">have given</span> all the information <span className="pill-teal">needed</span> to the accounting department.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have given" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -537,16 +537,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he WRITES CODE for his WEB deVELopment PROJects <strong>ever</strong>y EVEning.</li>
-					<li className="list-none">Every evening, he puts his nose to the grindstone as he writes code for his web development projects.</li>
+					<li>he <span className="pill-teal">WRITES</span> CODE for his WEB deVELopment PROJects <strong>ever</strong>y EVEning.</li>
+					<li className="list-none">Every evening, he <span className="pill-teal">puts</span> his nose to the grindstone as he <span className="pill-teal">writes</span> code for his web development projects.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the WRITES form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she WROTE an ARticle a<strong>bout</strong> her phoTOGraphy JOURney YESterday.</li>
-					<li className="list-none">She wrote an article yesterday about her journey as a photographer.</li>
+					<li>she <span className="pill-teal">WROTE</span> an ARticle a<strong>bout</strong> her phoTOGraphy JOURney YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">wrote</span> an article yesterday about her journey as a photographer.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the form "wrote" to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have WRITten a compreHENsive fiNANcial rePORT for the COMpany.</li>
-					<li className="list-none">They wrote a financial report that clearly explained the company's financial situation.</li>
+					<li>they <span className="pill-teal">have WRITten</span> a compreHENsive fiNANcial rePORT for the COMpany.</li>
+					<li className="list-none">They <span className="pill-teal">wrote</span> a financial report that clearly <span className="pill-teal">explained</span> the company's financial situation.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have written" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -556,16 +556,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he SPEAKS ENGlish FLUently <strong>af</strong>ter PRACticing with his LANGuage APP <strong>ever</strong>y EVEning.</li>
-					<li className="list-none">He speaks English very well because he practices with an app every night.</li>
+					<li>he <span className="pill-teal">SPEAKS</span> ENGlish FLUently <strong>af</strong>ter <span className="pill-teal">PRACticing</span> with his LANGuage APP <strong>ever</strong>y EVEning.</li>
+					<li className="list-none">He <span className="pill-teal">speaks</span> English very well because he <span className="pill-teal">practices</span> with an app every night.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form "SPEAKS" (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she SPOKE to the phoTOGraphy CLIent a<strong>bout</strong> the PROJect DEtails YESterday.</li>
-					<li className="list-none">She spoke with the client about the details of the photo project last night.</li>
+					<li>she <span className="pill-teal">SPOKE</span> to the phoTOGraphy CLIent a<strong>bout</strong> the PROJect DEtails YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">spoke</span> with the client about the details of the photo project last night.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the SPOKE form to refer to an action that took place and ended in the past.</li>
 			
-					<li>they have SPOken a<strong>bout</strong> the NEW acCOUNTing STRATegies alREADy.</li>
-					<li className="list-none">People have already talked about the new accounting techniques.</li>
+					<li>they <span className="pill-teal">have SPOken</span> a<strong>bout</strong> the NEW acCOUNTing STRATegies alREADy.</li>
+					<li className="list-none">People <span className="pill-teal">have</span> already <span className="pill-teal">talked</span> about the new accounting techniques.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have spoken" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -575,16 +575,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he FINDS NEW inspirAtion for his WEB PROJects <strong>ever</strong>y EVEning.</li>
-					<li className="list-none">Every evening, he comes up with new ideas for his web projects.</li>
+					<li>he <span className="pill-teal">FINDS</span> NEW inspirAtion for his WEB PROJects <strong>ever</strong>y EVEning.</li>
+					<li className="list-none">Every evening, he <span className="pill-teal">comes up</span> with new ideas for his web projects.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the "FINDS" form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she FOUND a GREAT DEAL on a CAMERa LENS YESterday.</li>
-					<li className="list-none">She bought a camera lens yesterday for a very low price.</li>
+					<li>she <span className="pill-teal">FOUND</span> a GREAT DEAL on a CAMERa LENS YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">bought</span> a camera lens yesterday for a very low price.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "FOUND" form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have FOUND a soLUtion to the acCOUNTing disCREPancy.</li>
-					<li className="list-none">They've figured out a way to fix the accounting problems.</li>
+					<li>they <span className="pill-teal">have FOUND</span> a soLUtion to the acCOUNTing disCREPancy.</li>
+					<li className="list-none">They<span className="pill-teal">'ve figured out</span> a way to <span className="pill-teal">fix</span> the accounting problems.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have FOUND" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
