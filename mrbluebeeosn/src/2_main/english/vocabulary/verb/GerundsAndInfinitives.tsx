@@ -689,8 +689,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>do you <strong>FANcy GRABbing</strong> a CUP of traDITional vietnaMESE COFfee this afterNOON?</li>
-					<li className="list-none">Would you like to try some traditional Vietnamese coffee this afternoon?</li>
+					<li><span className="pill-teal">do</span> you <span className="pill-teal">FANcy GRABbing</span> a CUP of traDITional vietnaMESE COFfee this afterNOON?</li>
+					<li className="list-none"><span className="pill-teal">Would</span> you <span className="pill-teal">like</span> to <span className="pill-teal">try</span> some traditional Vietnamese coffee this afternoon?</li>
 					<li className="list-none">"You" is the subject. The structure "FANcy + V-ing" (commonly used in British English) expresses a desire or interest in experiencing a certain action; it is often used in inviting questions or to express a sudden interest.</li>
 			
 				</ul>
@@ -700,8 +700,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i DON'T <strong>MIND WORKing</strong> Overtime to DOUble-CHECK the fiNANcial FIGures.</li>
-					<li className="list-none">I don't mind working overtime to make sure the financial figures are correct.</li>
+					<li>i <span className="pill-teal">DON'T MIND WORKing</span> Overtime to <span className="pill-teal">DOUble-CHECK</span> the fiNANcial FIGures.</li>
+					<li className="list-none">I <span className="pill-teal">don't mind working </span>overtime to <span className="pill-teal">make</span> sure the financial figures <span className="pill-teal">are</span> correct.</li>
 					<li className="list-none">"I" is the subject. The "MIND + V-ing" structure is often used in negative sentences (e.g., DON'T MIND—I don't mind) or questions (e.g., would you MIND...?—Would you mind...?) to ask for someone's opinion or to express that one is not bothered by a specific action.</li>
 			
 				</ul>
@@ -711,8 +711,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>sugGESTed TRYing</strong> a NEW PHIN FILter techNIQUE to MAKE the COFfee TASTE BETter.</li>
-					<li className="list-none">She said we should try a new way to filter the coffee to improve the taste.</li>
+					<li>she <span className="pill-teal">sugGESTed TRYing</span> a NEW PHIN FILter techNIQUE to <span className="pill-teal">MAKE</span> the COFfee TASTE BETter.</li>
+					<li className="list-none">She <span className="pill-teal">said</span> we <span className="pill-teal">should try</span> a new way to <span className="pill-teal">filter</span> the coffee to <span className="pill-teal">improve</span> the taste.</li>
 					<li className="list-none">"She" is the subject. After the verb "suggest," the following action must be in the -ing form (trying), used to offer an opinion or suggestion for everyone to consider.</li>
 			
 				</ul>
@@ -722,8 +722,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>iMAGines LIVing</strong> in a QUIet COUNtryside HOUSE surROUNDed by GREEN NAture.</li>
-					<li className="list-none">She imagines living in a small, quiet house in the countryside with a lot of green nature around it.</li>
+					<li>she <span className="pill-teal">iMAGines LIVing</span> in a QUIet COUNtryside HOUSE <span className="pill-teal">surROUNDed</span> by GREEN NAture.</li>
+					<li className="list-none">She <span className="pill-teal">imagines living</span> in a small, quiet house in the countryside with a lot of green nature around it.</li>
 					<li className="list-none">"She" is the subject. After the verb "iMAGine," the following action must be in the -ing form (LIVing), which is used to express the mental visualization or imagination of a scene or event.</li>
 			
 				</ul>
@@ -733,8 +733,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>conSIDered CHAnging</strong> her caREER PATH to FOcus enTIrely on NEW WEB deVELopment.</li>
-					<li className="list-none">She thought about switching careers and focusing completely on web development.</li>
+					<li>she <span className="pill-teal">conSIDered CHAnging</span> her caREER PATH to <span className="pill-teal">FOcus</span> enTIrely on NEW WEB deVELopment.</li>
+					<li className="list-none">She <span className="pill-teal">thought</span> about <span className="pill-teal">switching</span> careers and <span className="pill-teal">focusing</span> completely on web development.</li>
 					<li className="list-none">"She" is the subject. After the verb "conSIDer," the following action must be in the -ing form (CHAnging), which is used to indicate the act of thinking about or carefully considering a possibility or action.</li>
 			
 				</ul>
@@ -744,8 +744,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>aVOIDed disCUSSing</strong> the COMplex TAX ISsues during the MEETing.</li>
-					<li className="list-none">During the meeting, she didn't talk about the complicated tax issues that were raised.</li>
+					<li>she <span className="pill-teal">aVOIDed disCUSSing</span> the COMplex TAX ISsues during the MEETing.</li>
+					<li className="list-none">During the meeting, she <span className="pill-teal">didn't talk</span> about the complicated tax issues that <span className="pill-teal">were raised.</span></li>
 					<li className="list-none">"She" is the subject. After the verb "aVOID," the following action must be in the -ing form ("disCUSSing"), which indicates an attempt to avoid or refrain from performing a certain action.</li>
 			
 				</ul>
@@ -755,8 +755,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>KEPT WORKing</strong> on the acCOUNTing LEDGer despite the LATE HOUR.</li>
-					<li className="list-none">She didn't stop working on the accounting ledger, even though it was late.</li>
+					<li>she <span className="pill-teal">KEPT WORKing</span> on the acCOUNTing LEDGer despite the LATE HOUR.</li>
+					<li className="list-none">She <span className="pill-teal">didn't stop working</span> on the accounting ledger, even though it <span className="pill-teal">was</span> late.</li>
 					<li className="list-none">"She" is the subject. After the verb "KEEP" (or "KEEP ON"), the following action must be in the -ing form (e.g., "WORKing"), expressing an action that is ongoing or repeated continuously.</li>
 			
 				</ul>
@@ -766,8 +766,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>FINished TYping</strong> the fiNANcial rePORT be<strong>fore</strong> LEAVing the OFfice.</li>
-					<li className="list-none">She typed the financial report and then left the office.</li>
+					<li>she <span className="pill-teal">FINished TYping</span> the fiNANcial rePORT be<strong>fore</strong> <span className="pill-teal">LEAVing</span> the OFfice.</li>
+					<li className="list-none">She <span className="pill-teal">typed</span> the financial report and then <span className="pill-teal">left</span> the office.</li>
 					<li className="list-none">"She" is the subject. After the verb "finish," the following action must be in the -ing form (typing), which indicates the complete end or completion of a process or action.</li>
 			
 				</ul>
@@ -777,8 +777,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>gaVE UP DRINKing</strong> INstant COFfee and SWITCHED enTIrely to traDITional PHIN BREWS.</li>
-					<li className="list-none">He stopped drinking instant coffee. He started only drinking traditional coffee.</li>
+					<li>he <span className="pill-teal">gaVE UP DRINKing</span> INstant COFfee and <span className="pill-teal">SWITCHED</span> enTIrely to traDITional PHIN BREWS.</li>
+					<li className="list-none">He <span className="pill-teal">stopped drinking</span> instant coffee. He started only drinking traditional coffee.</li>
 					<li className="list-none">He is the subject. After the verb phrase "give up," the following action must be in the -ing form (drinking), which indicates giving up or stopping a habit or action.</li>
 			
 				</ul>
@@ -788,8 +788,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>is USED to WORKing</strong> LONG HOURS <strong>un</strong>der HIGH PRESsure in the acCOUNTing dePARTment.</li>
-					<li className="list-none">He has experience working long hours in a stressful environment in the accounting department.</li>
+					<li>he <span className="pill-teal">is</span> USED to <span className="pill-teal">WORKing</span> LONG HOURS <strong>un</strong>der HIGH PRESsure in the acCOUNTing dePARTment.</li>
+					<li className="list-none">He <span className="pill-teal">has</span> experience <span className="pill-teal">working</span> long hours in a stressful environment in the accounting department.</li>
 					<li className="list-none">"He" is the subject. After the phrase "be USED to" (be accustomed to), the following action must be in the -ing form (WORKing). (Note the distinction from the structure "USED to + base form of the verb," which is used to describe past habits.)</li>
 			
 				</ul>
@@ -799,8 +799,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>LOOKS FORward to VISiting</strong> the NEW COFfee ROASTing WORKshop NEXT WEEKend.</li>
-					<li className="list-none">The new coffee roasting workshop is on her agenda for next weekend, and she's looking forward to it.</li>
+					<li>she <span className="pill-teal">LOOKS FORward</span> to <span className="pill-teal">VISiting</span> the NEW COFfee ROASTing WORKshop NEXT WEEKend.</li>
+					<li className="list-none">The new coffee roasting workshop <span className="pill-teal">is</span> on her agenda for next weekend, and she<span className="pill-teal">'s looking forward</span> to it.</li>
 					<li className="list-none">"She" is the subject. After the phrase "LOOK FORward to," the word "to" here functions as a preposition, so the following verb must be in the -ing form ("VISiting"), expressing a sense of excitement and anticipation.</li>
 			
 				</ul>
@@ -810,8 +810,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she is <strong>TIred of FIXing</strong> the SAME SOFTware BUGS <strong>ever</strong>y SINgle DAY.</li>
-					<li className="list-none">The same problems with the software are happening too often. She is tired of having to fix them every day.</li>
+					<li>she <span className="pill-teal">is</span> TIred of <span className="pill-teal">FIXing</span> the SAME SOFTware BUGS <strong>ever</strong>y SINgle DAY.</li>
+					<li className="list-none">The same problems with the software <span className="pill-teal">are happening</span> too often. She <span className="pill-teal">is</span> tired of <span className="pill-teal">having</span> to <span className="pill-teal">fix</span> them every day.</li>
 					<li className="list-none">"She" is the subject. After the attributive phrase "Tired of," the following verb must be in the -ing form (FIXing), expressing a feeling of boredom or exhaustion caused by a repetitive task.</li>
 			
 				</ul>
@@ -821,8 +821,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she is <strong>INTERested in LEARNing</strong> adVANCED WEB deVELopment techNIQUES to imPROVE her ONline PROJects.</li>
-					<li className="list-none">She wants to learn more advanced web development techniques to improve her online projects.</li>
+					<li>she <span className="pill-teal">is</span> INTERested in <span className="pill-teal">LEARNing</span> adVANCED WEB deVELopment techNIQUES to <span className="pill-teal">imPROVE</span> her ONline PROJects.</li>
+					<li className="list-none">She <span className="pill-teal">wants</span> to <span className="pill-teal">learn</span> more advanced web development techniques to <span className="pill-teal">improve</span> her online projects.</li>
 					<li className="list-none">"She" is the subject. After an adjective phrase followed by the preposition "interested in," the subsequent verb must be in the -ing form (learning), expressing interest in or a desire to learn about a particular field or activity.</li>
 			
 				</ul>
