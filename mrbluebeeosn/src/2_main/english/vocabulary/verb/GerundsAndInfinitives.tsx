@@ -593,12 +593,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>HATES WAking UP</strong> EARly on FREEzing WINter MORNings.</li>
-					<li className="list-none">He can't stand getting up early on super-cold winter mornings.</li>
+					<li>he <span className="pill-teal">HATES WAking UP</span> EARly on FREEzing WINter MORNings.</li>
+					<li className="list-none">He <span className="pill-teal">can't stand getting up</span> early on super-cold winter mornings.</li>
 					<li className="margin-bottom-20 list-none">He is the subject. The structure "HATE + V-ing" is often used to express annoyance or dislike of a habit, a general activity, or a recurring experience.</li>
 			
-					<li>i <strong>HATE to interRUPT</strong> your WORK, but we NEED to CHECK the fiNANcial rePORTS RIGHT NOW.</li>
-					<li className="list-none">I know it's a bad time, but we have to look at the financial reports now.</li>
+					<li>i <span className="pill-teal">HATE</span> to <span className="pill-teal">interRUPT</span> your WORK, but we <span className="pill-teal">NEED</span> to <span className="pill-teal">CHECK</span> the fiNANcial rePORTS RIGHT NOW.</li>
+					<li className="list-none">I <span className="pill-teal">know</span> it<span className="pill-teal">'s</span> a bad time, but we <span className="pill-teal">have</span> to <span className="pill-teal">look at</span> the financial reports now.</li>
 					<li className="list-none">"I" is the subject. The structure "HATE + to V" is often used to express a reluctance to perform a specific action (commonly used in polite situations or when feeling apologetic for inconveniencing someone, for example, "I HATE to SAY THIS, but ...").</li>
 			
 				</ul>
@@ -608,12 +608,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>LOVES BREWing</strong> traDITional vietnaMESE COFfee Using a PHIN FILter <strong>ever</strong>y MORNing.</li>
-					<li className="list-none">She loves making traditional Vietnamese coffee every morning. She uses a special tool called a phin filter to brew it.</li>
+					<li>she <span className="pill-teal">LOVES BREWing</span> traDITional vietnaMESE COFfee <span className="pill-teal">Using</span> a PHIN FILter <strong>ever</strong>y MORNing.</li>
+					<li className="list-none">She <span className="pill-teal">loves making</span> traditional Vietnamese coffee every morning. She <span className="pill-teal">uses</span> a special tool <span className="pill-teal">called</span> a phin filter to <span className="pill-teal">brew</span> it.</li>
 					<li className="margin-bottom-20 list-none">"She" is the subject. The "LOVE + V-ing" structure is used to express passion, a long-standing interest, or the enjoyment of doing something in general.</li>
 			
-					<li>i <strong>LOVE to READ</strong> SPECialized acCOUNTing and PROgramming BLOGS on the WEEKend.</li>
-					<li className="list-none">I love reading specialized blogs on accounting and computer programming during the weekend.</li>
+					<li>i <span className="pill-teal">LOVE</span> to <span className="pill-teal">READ</span> SPECialized acCOUNTing and PROgramming BLOGS on the WEEKend.</li>
+					<li className="list-none">I <span className="pill-teal">love reading</span> specialized blogs on accounting and computer programming during the weekend.</li>
 					<li className="list-none">"I" is the subject. The "LOVE + to V" structure emphasizes a choice or habit that the subject considers reasonable, worthwhile, or is very eager to do. (In addition, the structure "I'd LOVE to..." is also commonly used to express a desire to do something; for example: "I'd LOVE to JOIN your TEAM.")</li>
 			
 				</ul>
@@ -623,12 +623,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>LIKES exPERimenting</strong> with DIFferent PHIN FILter techNIQUES to MAKE his COFfee STRONGer.</li>
-					<li className="list-none">He likes to try out different ways to make his coffee stronger using PHIN FILTER techniques.</li>
+					<li>he <span className="pill-teal">LIKES exPERimenting</span> with DIFferent PHIN FILter techNIQUES to <span className="pill-teal">MAKE</span> his COFfee STRONGer.</li>
+					<li className="list-none">He <span className="pill-teal">likes</span> to <span className="pill-teal">try out</span> different ways to <span className="pill-teal">make</span> his coffee stronger <span className="pill-teal">using</span> phin filter techniques.</li>
 					<li className="margin-bottom-20 list-none">He is the subject. The "LIKE + V-ing" structure emphasizes enjoyment, the feeling of pleasure while the action is taking place, or a general preference.</li>
 			
-					<li>she <strong>LIKES to ORganize</strong> her acCOUNTing DOCuments CAREfully be<strong>fore</strong> LEAVing the OFfice.</li>
-					<li className="list-none">Before leaving her office, she likes to carefully organize her accounting documents.</li>
+					<li>she <span className="pill-teal">LIKES</span> to <span className="pill-teal">ORganize</span> her acCOUNTing DOCuments CAREfully be<strong>fore</strong> <span className="pill-teal">LEAVing</span> the OFfice.</li>
+					<li className="list-none">Before <span className="pill-teal">leaving</span> her office, she <span className="pill-teal">likes</span> to carefully <span className="pill-teal">organize</span> her accounting documents.</li>
 					<li className="list-none">"She" is the subject. The structure "LIKE + to V" typically expresses a habit, a conscious choice, or an action that the subject considers reasonable or necessary to do.</li>
 			
 				</ul>
@@ -638,12 +638,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>CHAnging the rePORTing SOFTware <strong>MEANS reWRIting</strong> all the old DAta FILES.</li>
-					<li className="list-none">If we change the reporting software, we have to rewrite all the old data files.</li>
+					<li><span className="pill-teal">CHAnging</span> the rePORTing SOFTware <span className="pill-teal">MEANS reWRIting</span> all the old DAta FILES.</li>
+					<li className="list-none">If we <span className="pill-teal">change</span> the reporting software, we <span className="pill-teal">have</span> to <span className="pill-teal">rewrite</span> all the old data files.</li>
 					<li className="margin-bottom-20 list-none">The phrase "CHAnging the rePORTing SOFTware" is the subject. The "MEAN + V-ing" structure is used to indicate the consequence, event, or inevitable result that an action leads to.</li>
 			
-					<li>he <strong>MEANT to FINish</strong> the fiNANcial AUdit rePORT YESterday, but he raN OUT of TIME.</li>
-					<li className="list-none">He had planned to finish the financial audit report yesterday, but he ran out of time.</li>
+					<li>he <span className="pill-teal">MEANT</span> to <span className="pill-teal">FINish</span> the fiNANcial AUdit rePORT YESterday, but he <span className="pill-teal">raN OUT</span> of TIME.</li>
+					<li className="list-none">He <span className="pill-teal">had planned</span> to <span className="pill-teal">finish</span> the financial audit report yesterday, but he <span className="pill-teal">ran out</span> of time.</li>
 					<li className="list-none">He is the subject. The structure "MEAN + to V" is used to express an intention, plan, or desire to do something (often used in the past tense, "MEANT to," to explain why something was not completed).</li>
 			
 				</ul>
@@ -653,12 +653,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>af</strong>ter a SHORT COFfee BREAK, she <strong>wenT ON WORKing</strong> on the MONTHly TAX rePORTS.</li>
-					<li className="list-none">She took a short break to drink some coffee, and then she continued to work on the monthly tax reports.</li>
+					<li><strong>af</strong>ter a SHORT COFfee BREAK, she <span className="pill-teal">wenT ON</span> <span className="pill-teal">WORKing</span> on the MONTHly TAX rePORTS.</li>
+					<li className="list-none">She <span className="pill-teal">took</span> a short break to <span className="pill-teal">drink</span> some coffee, and then she <span className="pill-teal">continued</span> to <span className="pill-teal">work</span> on the monthly tax reports.</li>
 					<li className="margin-bottom-20 list-none">"She" is the subject. The structure "gO ON + V-ing" is used to indicate the continuation of an action that was already in progress, without any interruption or change in activity.</li>
 			
-					<li>the acCOUNtant FINished reVIEWing the INvoices and then <strong>wenT ON to CHECK</strong> the BANK STATEments.</li>
-					<li className="list-none">The accountant looked at the invoices, and then the bank statements.</li>
+					<li>the acCOUNtant <span className="pill-teal">FINished reVIEWing</span> the INvoices and then <span className="pill-teal">wenT ON</span> to <span className="pill-teal">CHECK</span> the BANK STATEments.</li>
+					<li className="list-none">The accountant <span className="pill-teal">looked at</span> the invoices, and then the bank statements.</li>
 					<li className="list-none">"the acCOUNtant" is the subject. The "gO ON + to V" structure is used when one action or phase is completed and the speaker moves on to perform a new action or enter a new phase.</li>
 			
 				</ul>
@@ -668,12 +668,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the COMpany <strong>alLOWS emPLOYees to WORK</strong> from HOME TWICE a WEEK.</li>
-					<li className="list-none">The company lets employees work from home two times per week.</li>
+					<li>the COMpany <span className="pill-teal">alLOWS</span> emPLOYees to <span className="pill-teal">WORK</span> from HOME TWICE a WEEK.</li>
+					<li className="list-none">The company <span className="pill-teal">lets</span> employees <span className="pill-teal">work</span> from home two times per week.</li>
 					<li className="margin-bottom-20 list-none">The company is the entity granting permission, and the employees are the recipients of that permission. After "allow + sb," the following action must be in the "to V" form (e.g., "to work"). (Note: If there is no direct object immediately following "allow," the verb that follows will be in the -ing form, e.g., "allows working.")</li>
 			
-					<li>the COMpany <strong>alLOWS WORKing</strong> reMOTEly during the RAINy SEAson.</li>
-					<li className="list-none">The company lets employees work remotely during the rainy season.</li>
+					<li>the COMpany <span className="pill-teal">alLOWS WORKing</span> reMOTEly during the RAINy SEAson.</li>
+					<li className="list-none">The company <span className="pill-teal">lets</span> employees <span className="pill-teal">work </span>remotely during the rainy season.</li>
 					<li className="list-none">"the COMpany" is the subject. Since there is no recipient of the action immediately following the verb "alLOW" (there is no indirect object such as "emPLOYees"), the subsequent verb must be in the -ing form ("WORKing"), which indicates a policy or general permission regarding an activity.</li>
 			
 				</ul>

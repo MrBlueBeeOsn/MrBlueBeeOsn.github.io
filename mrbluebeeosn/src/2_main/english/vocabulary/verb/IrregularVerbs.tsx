@@ -594,16 +594,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he THINKS a<strong>bout</strong> NEW STRATegies for his WEB deVELopment WORK <strong>ever</strong>y EVEning.</li>
-					<li className="list-none">Every night, he thinks about new ways to improve his web development work.</li>
+					<li>he <span className="pill-teal">THINKS</span> a<strong>bout</strong> NEW STRATegies for his WEB deVELopment WORK <strong>ever</strong>y EVEning.</li>
+					<li className="list-none">Every night, he <span className="pill-teal">thinks</span> about new ways to <span className="pill-teal">improve</span> his web development work.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form "THINKS" (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she THOUGHT a<strong>bout</strong> rePAIRing her BROken CAMERa YESterday.</li>
-					<li className="list-none">She was thinking about getting her busted camera fixed yesterday.</li>
+					<li>she <span className="pill-teal">THOUGHT</span> a<strong>bout</strong> <span className="pill-teal">rePAIRing</span> her BROken CAMERa YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">was thinking</span> about <span className="pill-teal">getting</span> her busted camera <span className="pill-teal">fixed</span> yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense in the "THOUGHT" form to refer to an action that occurred and ended in the past.</li>
 			
-					<li>they have THOUGHT CAREfully a<strong>bout</strong> the NEW fiNANcial PLAN.</li>
-					<li className="list-none">They've given the new financial plan a great deal of thought.</li>
+					<li>they <span className="pill-teal">have THOUGHT</span> CAREfully a<strong>bout</strong> the NEW fiNANcial PLAN.</li>
+					<li className="list-none">They<span className="pill-teal">'ve given</span> the new financial plan a great deal of thought.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have THOUGHT" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -613,16 +613,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he TELLS his TEAM a<strong>bout</strong> his NEW PROJect iDEaS <strong>ever</strong>y EVEning.</li>
-					<li className="list-none">He shares details about his new project, iDEA, with his team each evening.</li>
+					<li>he <span className="pill-teal">TELLS</span> his TEAM a<strong>bout</strong> his NEW PROJect iDEaS <strong>ever</strong>y EVEning.</li>
+					<li className="list-none">He <span className="pill-teal">shares</span> details about his new project, iDEA, with his team each evening.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense in the "tells" form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she TOLD me the WHOLE STORy a<strong>bout</strong> her CAMERa YESterday.</li>
-					<li className="list-none">She told me everything she knew about her camera yesterday.</li>
+					<li>she <span className="pill-teal">TOLD</span> me the WHOLE STORy a<strong>bout</strong> her CAMERa YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">told</span> me everything she <span className="pill-teal">knew</span> about her camera yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "TOLD" form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have TOLD us all the DEtails a<strong>bout</strong> the acCOUNTing rePORT.</li>
-					<li className="list-none">They have explained everything to us about the report on how the money was accounted for.</li>
+					<li>they <span className="pill-teal">have TOLD </span>us all the DEtails a<strong>bout</strong> the acCOUNTing rePORT.</li>
+					<li className="list-none">They <span className="pill-teal">have explained</span> everything to us about the report on how the money <span className="pill-teal">was accounted for.</span></li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have TOLD" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -632,16 +632,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he SAYS that he preFERS a STRONG CUP of COFfee <strong>ever</strong>y EVEning.</li>
-					<li className="list-none">He says he likes to drink a strong cup of coffee every night.</li>
+					<li>he <span className="pill-teal">SAYS</span> that he <span className="pill-teal">preFERS</span> a STRONG CUP of COFfee <strong>ever</strong>y EVEning.</li>
+					<li className="list-none">He <span className="pill-teal">says</span> he <span className="pill-teal">likes</span> to <span className="pill-teal">drink</span> a strong cup of coffee every night.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the "SAYS" form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she SAID that she forGOT her CAMERa BAG YESterday.</li>
-					<li className="list-none">She told me she didn't realize she'd left her camera bag at home the day before.</li>
+					<li>she <span className="pill-teal">SAID</span> that she <span className="pill-teal">forGOT</span> her CAMERa BAG YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">told</span> me she <span className="pill-teal">didn't realize</span> she<span className="pill-teal">'d left</span> her camera bag at home the day before.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "SAID" form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have SAID that the NEW PROJect PLAN is READy.</li>
-					<li className="list-none">They have announced that the new project plan is ready.</li>
+					<li>they <span className="pill-teal">have SAID</span> that the NEW PROJect PLAN <span className="pill-teal">is</span> READy.</li>
+					<li className="list-none">They <span className="pill-teal">have announced</span> that the new project plan <span className="pill-teal">is</span> ready.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have said" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -651,16 +651,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he beCOMES more FOcused <strong>af</strong>ter DRINKing a STRONG CUP of COFfee <strong>ever</strong>y EVEning.</li>
-					<li className="list-none">He gets more done every evening if he starts with a strong cup of coffee.</li>
+					<li>he <span className="pill-teal">beCOMES</span> more FOcused <strong>af</strong>ter <span className="pill-teal">DRINKing</span> a STRONG CUP of COFfee <strong>ever</strong>y EVEning.</li>
+					<li className="list-none">He <span className="pill-teal">gets</span> more done every evening if he <span className="pill-teal">starts</span> with a strong cup of coffee.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the "becomes" form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she beCAME a proFESSional phoTOGrapher YESterday <strong>af</strong>ter reCEIVing her cerTIFicate.</li>
-					<li className="list-none">She became a professional photographer yesterday, after getting a certificate in the field.</li>
+					<li>she <span className="pill-teal">beCAME</span> a proFESSional phoTOGrapher YESterday <strong>af</strong>ter <span className="pill-teal">reCEIVing</span> her cerTIFicate.</li>
+					<li className="list-none">She <span className="pill-teal">became</span> a professional photographer yesterday, after <span className="pill-teal">getting</span> a certificate in the field.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "became" form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have beCOME KEY MEMbers of the acCOUNTing TEAM.</li>
-					<li className="list-none">They're now an important part of the accounting team.</li>
+					<li>they <span className="pill-teal">have beCOME</span> KEY MEMbers of the acCOUNTing TEAM.</li>
+					<li className="list-none">They<span className="pill-teal">'re</span> now an important part of the accounting team.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have become" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -670,16 +670,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he LEAVES his OFFice <strong>ever</strong>y EVEning <strong>af</strong>ter FINishing all TASKS.</li>
-					<li className="list-none">He bows out of the office every night after wrapping up everything on his to-do list.</li>
+					<li>he <span className="pill-teal">LEAVES</span> his OFFice <strong>ever</strong>y EVEning <strong>af</strong>ter <span className="pill-teal">FINishing</span> all TASKS.</li>
+					<li className="list-none">He <span className="pill-teal">bows out</span> of the office every night after <span className="pill-teal">wrapping up</span> everything on his to-do list.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the form "LEAVES" (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she LEFT her CAMERa on the TAble YESterday.</li>
-					<li className="list-none">She forgot to take her camera with her when she left for the day.</li>
+					<li>she <span className="pill-teal">LEFT</span> her CAMERa on the TAble YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">forgot</span> to <span className="pill-teal">take</span> her camera with her when she <span className="pill-teal">left</span> for the day.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "LEFT" form to indicate an action that began and ended in the past.</li>
 			
-					<li>they have LEFT for the MEETing ROOM alREADy.</li>
-					<li className="list-none">They've already made their way to the meeting room, by the way.</li>
+					<li>they <span className="pill-teal">have LEFT</span> for the MEETing ROOM alREADy.</li>
+					<li className="list-none">They<span className="pill-teal">'ve</span> already <span className="pill-teal">made</span> their way to the meeting room, by the way.</li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have LEFT" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
@@ -689,16 +689,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he FEELS reLAXED <strong>af</strong>ter DRINKing a HOT CUP of COFfee <strong>ever</strong>y EVEning.</li>
-					<li className="list-none">Drinking a hot cup of coffee makes him feel relaxed every evening.</li>
+					<li>he <span className="pill-teal">FEELS</span> reLAXED <strong>af</strong>ter <span className="pill-teal">DRINKing</span> a HOT CUP of COFfee <strong>ever</strong>y EVEning.</li>
+					<li className="list-none"><span className="pill-teal">Drinking</span> a hot cup of coffee <span className="pill-teal">makes</span> him <span className="pill-teal">feel</span> relaxed every evening.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Present Simple Tense with the "FEELS" form (for the third-person singular subject "he") to describe habits or events that occur regularly.</li>
 			
-					<li>she FELT TIred <strong>af</strong>ter CARrying her CAMERa BAG YESterday.</li>
-					<li className="list-none">She was pretty tired from lugging her camera bag around yesterday.</li>
+					<li>she <span className="pill-teal">FELT</span> TIred <strong>af</strong>ter <span className="pill-teal">CARrying</span> her CAMERa BAG YESterday.</li>
+					<li className="list-none">She <span className="pill-teal">was</span> pretty tired from <span className="pill-teal">lugging</span> her camera bag around yesterday.</li>
 					<li className="margin-bottom-20 list-none">Use ⏳ the Simple Past Tense with the "FELT" form to indicate an action that occurred and was completed in the past.</li>
 			
-					<li>they have FELT VERy MOtivated since the PROJect STARTed.</li>
-					<li className="list-none">They've been super pumped about the project since it kicked off.</li>
+					<li>they <span className="pill-teal">have FELT</span> VERy MOtivated since the PROJect <span className="pill-teal">STARTed.</span></li>
+					<li className="list-none">They<span className="pill-teal">'ve been</span> super pumped about the project since it <span className="pill-teal">kicked off.</span></li>
 					<li className="list-none">This structure uses 📏 the Present Perfect Tense with "have FELT" to describe an action that has been completed and is related to the present.</li>
 			
 				</ul>
