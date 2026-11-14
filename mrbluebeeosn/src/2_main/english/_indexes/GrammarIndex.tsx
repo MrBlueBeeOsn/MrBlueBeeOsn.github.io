@@ -153,12 +153,6 @@ export default function GrammarIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/lexical-verb-READ">Lexical Verb: READ</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
                 <Link to="/grammar/catenative-constructions">Catenative Constructions</Link>
               </div>
             </li>

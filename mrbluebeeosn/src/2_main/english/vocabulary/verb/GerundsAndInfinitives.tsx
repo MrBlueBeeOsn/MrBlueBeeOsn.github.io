@@ -310,8 +310,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li id="to-LOCK">i reMEMber to LOCK the DOOR.</li>
-					<li className="list-none">I remember making sure the door was locked.</li>
+					<li id="to-LOCK">i <span className="pill-teal">reMEMber</span> to <span className="pill-teal">LOCK</span> the DOOR.</li>
+					<li className="list-none">I <span className="pill-teal">remember making</span> sure the door <span className="pill-teal">was locked.</span></li>
 					<li className="list-none">The door hasn't been locked yet; please remember to do so.</li>
 			
 				</ul>
@@ -325,8 +325,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li id="LOCKing">i reMEMber LOCKing the DOOR.</li>
-					<li className="list-none">I remember putting the door on lock.</li>
+					<li id="LOCKing">i <span className="pill-teal">reMEMber LOCKing</span> the DOOR.</li>
+					<li className="list-none">I <span className="pill-teal">remember putting</span> the door on lock.</li>
 					<li className="margin-bottom-20 list-none">The action of locking the door was completed in the past.</li>
 			
 				</ul>
@@ -340,12 +340,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li id="SWIMming">SWIMming is a GREAT EXercise.</li>
-					<li className="list-none">SWIMming is a great way to exercise.</li>
+					<li id="SWIMming"><span className="pill-teal">SWIMming</span> <span className="pill-teal">is</span> a GREAT EXercise.</li>
+					<li className="list-none"><span className="pill-teal">SWIMming</span> <span className="pill-teal">is</span> a great way to exercise.</li>
 					<li className="margin-bottom-20 list-none">Nature</li>
 			
-					<li id="to-SWIM">to SWIM is a GREAT EXercise.</li>
-					<li className="list-none">Swimming is a great form of exercise!</li>
+					<li id="to-SWIM">to <span className="pill-teal">SWIM</span> <span className="pill-teal">is</span> a GREAT EXercise.</li>
+					<li className="list-none"><span className="pill-teal">Swimming</span> <span className="pill-teal">is</span> a great form of exercise!</li>
 					<li className="list-none">Formal/Literary (rarely used)</li>
 			
 				</ul>
@@ -355,8 +355,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 				<ul className="list-square">
 			
-					<li id="DRAWing">she is GOOD at DRAWing.</li>
-					<li className="margin-bottom-20 list-none">She has a talent for drawing.</li>
+					<li id="DRAWing">she <span className="pill-teal">is</span> GOOD at <span className="pill-teal">DRAWing.</span></li>
+					<li className="margin-bottom-20 list-none">She <span className="pill-teal">has</span> a talent for <span className="pill-teal">drawing.</span></li>
 
 					<li>Do not use "good at to DRAW"</li>
 			
@@ -371,8 +371,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i <strong>enJOY</strong> SWIMming. → correct</li>
-					<li className="list-none">I love swimming.</li>
+					<li>i <span className="pill-teal">enJOY SWIMming.</span> → correct</li>
+					<li className="list-none">I <span className="pill-teal">love swimming.</span></li>
 					<li className="list-none">⏳ Action Time in the Simple Present Tense</li>
 					<li className="margin-bottom-20 list-none">The word "enJOY" is often followed by a verb with the -ing ending (specifically, "SWIMming" in this case) to express a general hobby or pleasure in the present.</li>
 			
@@ -385,8 +385,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i <strong>WANT</strong> to GO. → correct</li>
-					<li className="list-none">I want to go there.</li>
+					<li>i <span className="pill-teal">WANT</span> to <span className="pill-teal">GO.</span> → correct</li>
+					<li className="list-none">I <span className="pill-teal">want</span> to <span className="pill-teal">go</span> there.</li>
 					<li className="list-none">⏳ Action Time in the Simple Present Tense</li>
 					<li className="margin-bottom-20 list-none">The word "WANT" is used to express a desire in the present, and it is immediately followed by an action verb preceded by "to" (e.g., "to GO").</li>
 
@@ -400,12 +400,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			<h4 className="margin-y-40 text-indent-whole" id="STOP">STOP</h4>
 				<ul className="list-square">
 			
-					<li>i <strong>STOPPED</strong> SMOKing.</li>
-					<li className="list-none">I gave up smoking.</li>
+					<li>i <span className="pill-teal">STOPPED SMOKing.</span></li>
+					<li className="list-none">I <span className="pill-teal">gave up smoking.</span></li>
 					<li className="margin-bottom-20 list-none">The "stop" structure, when used with an action verb ending in -ing (SMOKing), means to stop completely or to give up a habit (I used to smoke, but I don't do that anymore).</li>
 			
-					<li>i <strong>STOPPED</strong> to SMOKE.</li>
-					<li className="list-none">I quit smoking.</li>
+					<li>i <span className="pill-teal">STOPPED</span> to <span className="pill-teal">SMOKE.</span></li>
+					<li className="list-none">I <span className="pill-teal">quit smoking.</span></li>
 					<li className="margin-bottom-20 list-none">The "stop" structure, when used with an action verb preceded by "to" (e.g., "to SMOKE"), means to temporarily pause what you are doing in order to switch to doing something else (for example, stopping to smoke while walking down the street).</li>
 			
 				</ul>
@@ -421,12 +421,12 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>SWIMming</strong> in the COOL BLUE SEA on a HOT SUMmer MORNing MAKES me exTREMEly HAPpy.</li>
-					<li className="list-none">I am very happy when I swim in the cool blue sea on a hot summer morning.</li>
+					<li><span className="pill-teal">SWIMming</span> in the COOL BLUE SEA on a HOT SUMmer MORNing <span className="pill-teal">MAKES</span> me exTREMEly HAPpy.</li>
+					<li className="list-none">I <span className="pill-teal">am</span> very happy when I <span className="pill-teal">swim</span> in the cool blue sea on a hot summer morning.</li>
 					<li className="margin-bottom-20 list-none">The phrase "SWIMming" (the act of swimming) serves as the subject of the sentence, combined with the verb "MAKES" and the word "me" as the direct object (the recipient of the action that makes me happy).</li>
 			
-					<li>i <strong>WANT to SWIM</strong> in the NEWly Open inFINity POOL at the ROOFtop hoTEL this WEEKEND.</li>
-					<li className="list-none">I want to swim in the infinity pool at the hotel's rooftop this weekend. It just opened.</li>
+					<li>i <span className="pill-teal">WANT</span> to <span className="pill-teal">SWIM</span> in the NEWly Open inFINity POOL at the ROOFtop hoTEL this WEEKEND.</li>
+					<li className="list-none">I <span className="pill-teal">want</span> to <span className="pill-teal">swim</span> in the infinity pool at the hotel's rooftop this weekend. It just <span className="pill-teal">opened.</span></li>
 					<li className="list-none">"I" is the subject, combined with the structure "WANT to + verb in the infinitive" and a phrase indicating location, which functions as the object of place that follows.</li>
 			
 				</ul>
@@ -447,7 +447,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">II. Ultra-Practical Classification Chart (Updated 2025)</h3>
 					
-			<p className="margin-top-20">"like/love/hate/prefer" group: Both forms are acceptable, but the -ing form conveys a "general, frequent" meaning, while the to-V form conveys a "specific, individual situation."</p>
+			<p className="margin-top-20">"<span className="pill-teal">like/love/hate/prefer</span>" group: Both forms are acceptable, but the -ing form conveys a "general, frequent" meaning, while the to-V form conveys a "specific, individual situation."</p>
 
 			{/* 2. "Identical twins with opposite personalities" - the easiest to confuse */}
 

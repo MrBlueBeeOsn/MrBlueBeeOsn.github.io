@@ -1656,6 +1656,15 @@
 			"slug": "vocabulary/creATE",
 			"date": "2026-07-07"
 		},
+    { 
+      "id": "READ",
+      "categoryDisplay": "Đọc",
+			"categorySlug": "vocabulary#verbs-terms",
+			"title": "READ",
+      "content": "The Morphological Framework of CGEL 2002: Understanding \"Forms\" and Syncretism in the Paradigm of Read",
+      "slug": "grammar/lexical-verb-READ",
+      "date": "2026-09-27"
+    },
 		{ 
 			"id": "Fruits",
 			"categoryDisplay": "Tạo ra",

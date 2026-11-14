@@ -136,7 +136,6 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const PredicatorAndAdjunct = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Predicator&Adjunct'));
 	const VerbAndPredicator = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Verb&Predicator'));
 	const FormsOFfTheVerb = lazy(() => import('@/2_main/english/grammar/ModernGrammar/FormsOFfTheVerb'));
-	const LexicalVerbREAD = lazy(() => import('@/2_main/english/grammar/ModernGrammar/LexicalVerbREAD'));
 	const Cambridge2002Framework = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Cambridge2002Framework'));
 	const Complements = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Complements'));
 	const Phrases = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Phrases'));
@@ -392,6 +391,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 
 	// 2. Verbs
+	const READ = lazy(() => import('@/2_main/english/vocabulary/verb/READ'));
 	const CLEAR = lazy(() => import('@/2_main/english/vocabulary/verb/CLEAR'));
 	const ReSPOND = lazy(() => import('@/2_main/english/vocabulary/verb/reSPOND'));
 	const CreATE = lazy(() => import('@/2_main/english/vocabulary/verb/creATE'));
@@ -789,7 +789,6 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/predicator-&-adjunct" element={<PredicatorAndAdjunct />} />
 					<Route path="/grammar/verb-&-predicator" element={<VerbAndPredicator />} />
 					<Route path="/grammar/forms-of-the-verb" element={<FormsOFfTheVerb />} />
-					<Route path="/grammar/lexical-verb-READ" element={<LexicalVerbREAD />} />
 					<Route path="/grammar/cambridge-2002-framework" element={<Cambridge2002Framework />} />
 					<Route path="/grammar/complements" element={<Complements />} />
 					<Route path="/grammar/phrases" element={<Phrases />} />
@@ -1048,6 +1047,7 @@ export default function AppRoutes(): React.JSX.Element {
 
 
 					{/* 1. Vocabulary - Verbs */}
+					<Route path="/vocabulary/READ" element={<READ />} />
 					<Route path="/vocabulary/CLEAR" element={<CLEAR />} />
 					<Route path="/vocabulary/reSPOND" element={<ReSPOND />} />
 					<Route path="/vocabulary/creATE" element={<CreATE />} />
