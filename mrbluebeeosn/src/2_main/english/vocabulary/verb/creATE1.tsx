@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function creATE(): React.JSX.Element {
+export default function creATE1(): React.JSX.Element {
 
-  const postId = "creATE";
+  const postId = "creATE1";
 
   return (<>
 
@@ -876,8 +876,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>creAting soLUtions for WHAT CLIents STRUGgle with BUILDS MARket VALue.</li>
-          <li className="margin-bottom-20 list-none">We solve problems for our clients. This helps us build a better market.</li>
+          <li><span className="pill-teal">creAting</span> soLUtions for WHAT CLIents <span className="pill-teal">STRUGgle</span> with BUILDS MARket VALue.</li>
+          <li className="margin-bottom-20 list-none">We <span className="pill-teal">solve</span> problems for our clients. This <span className="pill-teal">helps</span> us <span className="pill-teal">build</span> a better market.</li>
       
         </ul>
       
@@ -900,8 +900,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the MANager sugGESted exPLORing WHY the TEAM creAted outDAted deSIGNS.</li>
-          <li className="margin-bottom-20 list-none">The manager said that the team should think about why they made designs that were late.</li>
+          <li>the MANager <span className="pill-teal">sugGESted exPLORing</span> WHY the TEAM <span className="pill-teal">creAted</span> outDAted deSIGNS.</li>
+          <li className="margin-bottom-20 list-none">The manager <span className="pill-teal">said</span> that the team <span className="pill-teal">should think</span> about why they <span className="pill-teal">made</span> designs that <span className="pill-teal">were</span> late.</li>
       
         </ul>
       
@@ -920,8 +920,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>to underSTAND HOW the SYStem creATES AUtomated rePORTS reQUIres TECHnical SKILLS.</li>
-          <li className="margin-bottom-20 list-none">You need technical skills to understand how the system creates automated reports.</li>
+          <li>to <span className="pill-teal">underSTAND</span> HOW the SYStem <span className="pill-teal">creATES</span> AUtomated rePORTS <span className="pill-teal">reQUIres</span> TECHnical SKILLS.</li>
+          <li className="margin-bottom-20 list-none">You <span className="pill-teal">need</span> technical skills to <span className="pill-teal">understand</span> how the system <span className="pill-teal">creates</span> automated reports.</li>
       
         </ul>
       
@@ -940,8 +940,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the FIRM PLANS to STUdy HOW Users creATE PERsonal PROfiles.</li>
-          <li className="margin-bottom-20 list-none">The company is planning to study how people make personal profiles.</li>
+          <li>the FIRM <span className="pill-teal">PLANS</span> to <span className="pill-teal">STUdy</span> HOW Users <span className="pill-teal">creATE</span> PERsonal PROfiles.</li>
+          <li className="margin-bottom-20 list-none">The company <span className="pill-teal">is planning</span> to <span className="pill-teal">study</span> how people <span className="pill-teal">make</span> personal profiles.</li>
       
         </ul>
       
@@ -960,8 +960,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>it TAKES experTISE to eVAluate HOW the appliCAtion creATES User LOGS.</li>
-          <li className="margin-bottom-20 list-none">It takes knowledge to understand how the application creates user logs.</li>
+          <li>it <span className="pill-teal">TAKES</span> experTISE to <span className="pill-teal">eVAluate</span> HOW the appliCAtion <span className="pill-teal">creATES</span> User LOGS.</li>
+          <li className="margin-bottom-20 list-none">It <span className="pill-teal">takes</span> knowledge to <span className="pill-teal">understand</span> how the application <span className="pill-teal">creates</span> user logs.</li>
       
         </ul>
       
@@ -980,8 +980,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the BOARD reVIEWED proPOsals re<strong>gard</strong>ing HOW the TEAM creATES NEW MARketing CHANnels.</li>
-          <li className="margin-bottom-20 list-none">The board looked at the ideas about how the team can make new ways to sell products.</li>
+          <li>the BOARD <span className="pill-teal">reVIEWED</span> proPOsals re<strong>gard</strong>ing HOW the TEAM <span className="pill-teal">creATES</span> NEW MARketing CHANnels.</li>
+          <li className="margin-bottom-20 list-none">The board <span className="pill-teal">looked at</span> the ideas about how the team <span className="pill-teal">can make</span> new ways to <span className="pill-teal">sell</span> products.</li>
       
         </ul>
       
@@ -1004,8 +1004,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the MEEting FOcused on WHY the deSIGNer creAted COMplex LAYouts.</li>
-          <li className="margin-bottom-20 list-none">The meeting's main focus was on why the designer chose to create complex layouts.</li>
+          <li>the MEEting <span className="pill-teal">FOcused on</span> WHY the deSIGNer <span className="pill-teal">creAted</span> COMplex LAYouts.</li>
+          <li className="margin-bottom-20 list-none">The meeting's main focus <span className="pill-teal">was</span> on why the designer <span className="pill-teal">chose</span> to <span className="pill-teal">create</span> complex layouts.</li>
       
         </ul>
       
@@ -1028,8 +1028,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>creAting HIGH-IMpact CONtent reQUIres proFESsional dediCAtion.</li>
-          <li className="margin-bottom-20 list-none">Making content that has a big impact requires a lot of hard work.</li>
+          <li><span className="pill-teal">creAting</span> HIGH-IMpact CONtent <span className="pill-teal">reQUIres</span> proFESsional dediCAtion.</li>
+          <li className="margin-bottom-20 list-none"><span className="pill-teal">Making</span> content that <span className="pill-teal">has</span> a big impact <span className="pill-teal">requires</span> a lot of hard work.</li>
       
           <li className="list-none margin-bottom-10">External block: [Creating high-impact content] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "requires" in the [Main Clause] -to handle a major task at the beginning of the sentence. Essentially, it is a [Gerund-Participle Clause] composed of the [Gerund-Participle Form] "creating" and the accompanying object "high-impact content."</li>
           
@@ -1042,8 +1042,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>deVELoping efFECtive proMOtional maTErial reQUIres proFESsional dediCAtion.</li>
-          <li className="margin-bottom-20 list-none">Making effective promotional materials requires a lot of hard work.</li>
+          <li><span className="pill-teal">deVELoping</span> efFECtive proMOtional maTErial <span className="pill-teal">reQUIres</span> proFESsional dediCAtion.</li>
+          <li className="margin-bottom-20 list-none"><span className="pill-teal">Making</span> effective promotional materials <span className="pill-teal">requires</span> a lot of hard work.</li>
       
           <li className="list-none margin-bottom-10">New external block: [Developing effective promotional material] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "requires" in the [Main Clause]. Essentially, this is a [Gerund-Participle Clause] composed of a continuous action in the [Gerund-Participle Form] "developing" along with an expanded data sequence inserted in its place.</li>
           
@@ -1056,8 +1056,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the COMpany BOOSted VALue by creAting uNIQUE PROducts.</li>
-          <li className="margin-bottom-20 list-none">The company increased its value by creating products that were unlike any others.</li>
+          <li>the COMpany <span className="pill-teal">BOOSted</span> VALue by <span className="pill-teal">creAting</span> uNIQUE PROducts.</li>
+          <li className="margin-bottom-20 list-none">The company <span className="pill-teal">increased</span> its value by <span className="pill-teal">creating</span> products that <span className="pill-teal">were</span> unlike any others.</li>
 
           <li className="list-none margin-bottom-10">External block: [value] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "BOOSted" in the [Main Clause].</li>
           
@@ -1070,8 +1070,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the COMpany BOOSted VALue be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts.</li>
-          <li className="margin-bottom-20 list-none">The company's products were special and valuable because they were created by talented developers.</li>
+          <li>the COMpany <span className="pill-teal">BOOSted</span> VALue be<strong>cause</strong> the deVElopers <span className="pill-teal">creAted</span> uNIQUE PROducts.</li>
+          <li className="margin-bottom-20 list-none">The company's products <span className="pill-teal">were</span> special and valuable because they <span className="pill-teal">were created</span> by talented developers.</li>
 
           <li className="list-none margin-bottom-10">External block: [value] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "BOOSted" in the [Main Clause].</li>
           
@@ -1084,8 +1084,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the STUdio HIred a TEAM which creATES interACtive ART PROjects.</li>
-          <li className="margin-bottom-20 list-none">The Studio hired a group of people who make art projects that you can interact with.</li>
+          <li>the STUdio <span className="pill-teal">HIred</span> a TEAM which <span className="pill-teal">creATES</span> interACtive ART PROjects.</li>
+          <li className="margin-bottom-20 list-none">The Studio <span className="pill-teal">hired</span> a group of people who <span className="pill-teal">make</span> art projects that you <span className="pill-teal">can interact</span> with.</li>
       
           <li className="list-none margin-bottom-10">External block: [a team that creates interactive art projects] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "hired" in the [Main Clause].</li>
           
@@ -1098,8 +1098,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the STUdio HIred a creAtive TEAM.</li>
-          <li className="margin-bottom-20 list-none">The studio brought on a creative team.</li>
+          <li>the STUdio <span className="pill-teal">HIred</span> a creAtive TEAM.</li>
+          <li className="margin-bottom-20 list-none">The studio <span className="pill-teal">brought</span> on a creative team.</li>
       
           <li className="list-none margin-bottom-10">New external block: [a creative team] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "Hired" in the [Main Clause].</li>
           

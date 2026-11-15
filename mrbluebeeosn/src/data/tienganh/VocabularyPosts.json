@@ -1630,7 +1630,7 @@
 			"date": "2026-05-26"
 		},
 		{ 
-			"id": "CLEAR",
+			"id": "CLEAR1",
 			"categoryDisplay": "Làm rõ",
 			"categorySlug": "vocabulary#verbs-terms",
 			"title": "CLEAR",
@@ -1639,7 +1639,7 @@
 			"date": "2026-06-19"
 		},
 		{ 
-			"id": "reSPOND",
+			"id": "reSPOND1",
 			"categoryDisplay": "Phản hồi",
 			"categorySlug": "vocabulary#verbs-terms",
 			"title": "reSPOND",
@@ -1648,7 +1648,7 @@
 			"date": "2026-06-20"
 		},
 		{ 
-			"id": "creATE",
+			"id": "creATE1",
 			"categoryDisplay": "Tạo ra",
 			"categorySlug": "vocabulary#verbs-terms",
 			"title": "creATE",
@@ -1657,7 +1657,7 @@
 			"date": "2026-07-07"
 		},
     { 
-      "id": "READ",
+      "id": "READ1",
       "categoryDisplay": "Đọc",
 			"categorySlug": "vocabulary#verbs-terms",
 			"title": "READ",

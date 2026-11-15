@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function CLEAR(): React.JSX.Element {
+export default function CLEAR1(): React.JSX.Element {
 
-  const postId = "CLEAR";
+  const postId = "CLEAR1";
 
   return (<>
 
@@ -802,8 +802,8 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>ANalyzing HOW the PROgram CLEARS METadata is NECessary.</li>
-          <li className="margin-bottom-20 list-none">We need to look at how the program clears metadata.</li>
+          <li><span className="pill-teal">ANalyzing</span> HOW the PROgram <span className="pill-teal">CLEARS</span> METadata <span className="pill-teal">is</span> NECessary.</li>
+          <li className="margin-bottom-20 list-none">We <span className="pill-teal">need</span> to <span className="pill-teal">look at</span> how the program <span className="pill-teal">clears</span> metadata.</li>
       
         </ul>
       
@@ -822,8 +822,8 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we recomMEND MONitoring WHY the DAtabase CLEARS SESsions.</li>
-          <li className="margin-bottom-20 list-none">We suggest checking why the database is clearing sessions.</li>
+          <li>we <span className="pill-teal">recomMEND MONitoring</span> WHY the DAtabase <span className="pill-teal">CLEARS</span> SESsions.</li>
+          <li className="margin-bottom-20 list-none">We <span className="pill-teal">suggest checking</span> why the database <span className="pill-teal">is clearing</span> sessions.</li>
       
         </ul>
       
@@ -842,8 +842,8 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
 
-          <li>they have DOUBTS a<strong>bout</strong> HOW they CLEAR the seCUrity CHECK.</li>
-          <li className="margin-bottom-20 list-none">They are unsure how they will pass the security check.</li>
+          <li>they <span className="pill-teal">have</span> DOUBTS a<strong>bout</strong> HOW they <span className="pill-teal">CLEAR</span> the seCUrity CHECK.</li>
+          <li className="margin-bottom-20 list-none">They <span className="pill-teal">are</span> unsure how they <span className="pill-teal">will pass</span> the security check.</li>
       
         </ul>
       
@@ -867,8 +867,8 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the OFFicer LOOKED diRECTly at where the TEAM CLEARED the LAND.</li>
-          <li className="margin-bottom-20 list-none">The officer looked directly at the spot where the team cleared the land.</li>
+          <li>the OFFicer <span className="pill-teal">LOOKED</span> diRECTly <span className="pill-teal">at</span> where the TEAM <span className="pill-teal">CLEARED</span> the LAND.</li>
+          <li className="margin-bottom-20 list-none">The officer <span className="pill-teal">looked</span> directly <span className="pill-teal">at</span> the spot where the team <span className="pill-teal">cleared</span> the land.</li>
       
         </ul>
       
@@ -898,8 +898,8 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>CLEARing the BROWser CACHE is NECessary.</li>
-          <li className="margin-bottom-20 list-none">You need to clear the cache in your browser.</li>
+          <li><span className="pill-teal">CLEARing</span> the BROWser CACHE <span className="pill-teal">is</span> NECessary.</li>
+          <li className="margin-bottom-20 list-none">You <span className="pill-teal">need</span> to <span className="pill-teal">clear</span> the cache in your browser.</li>
       
           <li className="list-none margin-bottom-10">External block: [clearing the browser cache] - [Non-finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause]. Essentially, it is a [Gerund-Participle Clause] composed of the [Gerund-Participle Form] "CLEARing" and its accompanying object.</li>
           
@@ -912,8 +912,8 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>EMPtying the TEMporary FOLDer is NECessary.</li>
-          <li className="margin-bottom-20 list-none">You need to empty the temporary folder.</li>
+          <li><span className="pill-teal">EMPtying</span> the TEMporary FOLDer <span className="pill-teal">is</span> NECessary.</li>
+          <li className="margin-bottom-20 list-none">You <span className="pill-teal">need</span> to <span className="pill-teal">empty</span> the temporary folder.</li>
       
           <li className="list-none margin-bottom-10">New external block: [emptying the temporary folder] - [Non-finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause]. Essentially, this is a [Gerund-Participle Clause] composed of a continuous action [Gerund-Participle Form] "EMPtying", combined with the new external block.</li>
           
@@ -929,8 +929,8 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we imPROVED the perFORmance by CLEARing OLD DAtabase LOGS.</li>
-          <li className="margin-bottom-20 list-none">We made the performance better by removing old database logs.</li>
+          <li>we <span className="pill-teal">imPROVED</span> the perFORmance by <span className="pill-teal">CLEARing</span> OLD DAtabase LOGS.</li>
+          <li className="margin-bottom-20 list-none">We <span className="pill-teal">made</span> the performance better by <span className="pill-teal">removing</span> old database logs.</li>
       
           <li className="list-none margin-bottom-10">External block: [the performance] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "improved" in the [Main Clause].</li>
           
@@ -943,8 +943,8 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we imPROVED the perFORmance be<strong>cause</strong> the SYStem CLEARED all JUNK DAta.</li>
-          <li className="margin-bottom-20 list-none">We made the performance better because the system deleted all the unnecessary data.</li>
+          <li>we <span className="pill-teal">imPROVED</span> the perFORmance be<strong>cause</strong> the SYStem <span className="pill-teal">CLEARED</span> all JUNK DAta.</li>
+          <li className="margin-bottom-20 list-none">We <span className="pill-teal">made</span> the performance better because the system <span className="pill-teal">deleted</span> all the unnecessary data.</li>
       
           <li className="list-none margin-bottom-10">External block: [the performance] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "improved" in the [Main Clause].</li>
           
@@ -959,8 +959,8 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>i LIKE an appliCAtion which CLEARS STORage SMOOTHly.</li>
-          <li className="margin-bottom-20 list-none">I like an app that clears storage in a smooth way.</li>
+          <li>i <span className="pill-teal">LIKE</span> an appliCAtion which <span className="pill-teal">CLEARS</span> STORage SMOOTHly.</li>
+          <li className="margin-bottom-20 list-none">I <span className="pill-teal">like</span> an app that <span className="pill-teal">clears</span> storage in a smooth way.</li>
       
           <li className="list-none margin-bottom-10">External block: [an application that clears storage smoothly] - [Noun Phrase as a Complement] of [Transitive Verb] in the  [Plain Present Form] "LIKE" in the [Main Clause].</li>
          
@@ -973,8 +973,8 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>i LIKE a CLEAR SYStem LAYout.</li>
-          <li className="margin-bottom-20 list-none">I prefer a system with a clear layout.</li>
+          <li>i <span className="pill-teal">LIKE</span> a CLEAR SYStem LAYout.</li>
+          <li className="margin-bottom-20 list-none">I <span className="pill-teal">prefer</span> a system with a clear layout.</li>
       
           <li className="list-none margin-bottom-10">New external block: [a clear system layout] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Present Form] "LIKE" in the [Main Clause].</li>
           

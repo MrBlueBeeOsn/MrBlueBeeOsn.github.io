@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function reSPOND(): React.JSX.Element {
+export default function reSPOND1(): React.JSX.Element {
 
-	const postId = "reSPOND";
+	const postId = "reSPOND1";
 
 	return (<>
 
@@ -875,8 +875,8 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>reSPONDing efFECTively to WHAT CUStomers comPLAIN about imPROVES BRAND LOYalty.</li>
-					<li className="margin-bottom-20 list-none">Listening to what customers complain about and doing something about it can make them more likely to continue buying your brand.</li>
+					<li><span className="pill-teal">reSPONDing</span> efFECTively to WHAT CUStomers <span className="pill-teal">comPLAIN</span> about <span className="pill-teal">imPROVES</span> BRAND LOYalty.</li>
+					<li className="margin-bottom-20 list-none"><span className="pill-teal">Listening</span> to what customers <span className="pill-teal">complain</span> about and <span className="pill-teal">doing</span> something about it <span className="pill-teal">can make</span> them more likely to <span className="pill-teal">continue buying</span> your brand.</li>
 			
 				</ul>
 			
@@ -899,8 +899,8 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the MANager sugGESTed inVESTigating WHY the TEAM reSPONDed POORly to the FEEDback.</li>
-					<li className="margin-bottom-20 list-none">The manager suggested that we look into why the team didn't respond well to the feedback.</li>
+					<li>the MANager <span className="pill-teal">sugGESTed inVESTigating</span> WHY the TEAM <span className="pill-teal">reSPONDed</span> POORly to the FEEDback.</li>
+					<li className="margin-bottom-20 list-none">The manager <span className="pill-teal">suggested</span> that we <span className="pill-teal">look into</span> why the team <span className="pill-teal">didn't respond</span> well to the feedback.</li>
 			
 				</ul>
 			
@@ -919,8 +919,8 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>to underSTAND HOW the SYStem reSPONDS to NETwork FAIlures reQUIres RIGorous TESting.</li>
-					<li className="margin-bottom-20 list-none">To understand how the system responds to network failures, you need to do some serious testing.</li>
+					<li>to <span className="pill-teal">underSTAND</span> HOW the SYStem <span className="pill-teal">reSPONDS</span> to NETwork FAIlures <span className="pill-teal">reQUIres</span> RIGorous TESting.</li>
+					<li className="margin-bottom-20 list-none">To <span className="pill-teal">understand</span> how the system <span className="pill-teal">responds</span> to network failures, you <span className="pill-teal">need</span> to <span className="pill-teal">do</span> some serious testing.</li>
 			
 				</ul>
 			
@@ -939,8 +939,8 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the COMpany PLANS to ANalyze HOW USers reSPOND to NEW INterface deSIGNS.</li>
-					<li className="margin-bottom-20 list-none">The company is going to see how people react to new designs for the user interface.</li>
+					<li>the COMpany <span className="pill-teal">PLANS</span> to <span className="pill-teal">ANalyze</span> HOW USers <span className="pill-teal">reSPOND</span> to NEW INterface deSIGNS.</li>
+					<li className="margin-bottom-20 list-none">The company <span className="pill-teal">is going</span> to <span className="pill-teal">see</span> how people <span className="pill-teal">react</span> to new designs for the user interface.</li>
 			
 				</ul>
 			
@@ -959,8 +959,8 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>it reQUIres experTISE to eVALuate HOW the appliCAtion reSPONDS to HIGH TRAFfic.</li>
-					<li className="margin-bottom-20 list-none">It takes special knowledge to figure out how the application responds to a lot of traffic.</li>
+					<li>it <span className="pill-teal">reQUIres</span> experTISE to <span className="pill-teal">eVALuate</span> HOW the appliCAtion <span className="pill-teal">reSPONDS</span> to HIGH TRAFfic.</li>
+					<li className="margin-bottom-20 list-none">It <span className="pill-teal">takes</span> special knowledge to <span className="pill-teal">figure out</span> how the application <span className="pill-teal">responds</span> to a lot of traffic.</li>
 			
 				</ul>
 			
@@ -979,8 +979,8 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the BOARD reVIEWED rePORTS re<strong>gard</strong>ing HOW the organiZAtion reSPONDS to MARket CRIses.</li>
-					<li className="margin-bottom-20 list-none">The board looked at reports about how the organization reacts to market problems.</li>
+					<li>the BOARD <span className="pill-teal">reVIEWED</span> rePORTS re<strong>gard</strong>ing HOW the organiZAtion <span className="pill-teal">reSPONDS</span> to MARket CRIses.</li>
+					<li className="margin-bottom-20 list-none">The board <span className="pill-teal">looked at</span> reports about how the organization <span className="pill-teal">reacts</span> to market problems.</li>
 			
 				</ul>
 			
@@ -1003,8 +1003,8 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the deBATE FOcused on WHY the GOVernment reSPONDed SLOWly to the eMERgency.</li>
-					<li className="margin-bottom-20 list-none">The debate was about why the government took so long to respond to the emergency.</li>
+					<li>the deBATE <span className="pill-teal">FOcused on</span> WHY the GOVernment <span className="pill-teal">reSPONDed</span> SLOWly to the eMERgency.</li>
+					<li className="margin-bottom-20 list-none">The debate <span className="pill-teal">was</span> about why the government <span className="pill-teal">took</span> so long to <span className="pill-teal">respond</span> to the emergency.</li>
 			
 				</ul>
 			

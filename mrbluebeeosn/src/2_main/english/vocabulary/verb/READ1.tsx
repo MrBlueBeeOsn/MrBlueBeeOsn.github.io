@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function READ(): React.JSX.Element {
+export default function READ1(): React.JSX.Element {
 
-  const postId = "READ";
+  const postId = "READ1";
 
   return (<>
 

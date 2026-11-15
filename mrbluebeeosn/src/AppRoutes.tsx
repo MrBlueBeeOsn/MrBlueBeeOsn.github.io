@@ -391,10 +391,10 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 
 	// 2. Verbs
-	const READ = lazy(() => import('@/2_main/english/vocabulary/verb/READ'));
-	const CLEAR = lazy(() => import('@/2_main/english/vocabulary/verb/CLEAR'));
-	const ReSPOND = lazy(() => import('@/2_main/english/vocabulary/verb/reSPOND'));
-	const CreATE = lazy(() => import('@/2_main/english/vocabulary/verb/creATE'));
+	const READ = lazy(() => import('@/2_main/english/vocabulary/verb/READ1'));
+	const CLEAR = lazy(() => import('@/2_main/english/vocabulary/verb/CLEAR1'));
+	const ReSPOND = lazy(() => import('@/2_main/english/vocabulary/verb/reSPOND1'));
+	const CreATE = lazy(() => import('@/2_main/english/vocabulary/verb/creATE1'));
 	
 
 
