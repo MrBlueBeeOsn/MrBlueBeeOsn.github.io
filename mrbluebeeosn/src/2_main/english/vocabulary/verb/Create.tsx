@@ -1114,8 +1114,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the TEAM ALlocated TIME for the creAtion of the SYStem INterface.</li>
-          <li className="margin-bottom-20 list-none">The team found time to develop the system interface.</li>
+          <li>the TEAM <span className="pill-teal">ALlocated</span> TIME for the creAtion of the SYStem INterface.</li>
+          <li className="margin-bottom-20 list-none">The team <span className="pill-teal">found</span> time to <span className="pill-teal">develop</span> the system interface.</li>
       
           <li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
@@ -1132,8 +1132,8 @@ export default function creATE(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the TEAM ALlocated TIME to creATE the SYStem INterface.</li>
-          <li className="margin-bottom-20 list-none">The team took the time to develop the system interface.</li>
+          <li>the TEAM <span className="pill-teal">ALlocated</span> TIME to <span className="pill-teal">creATE</span> the SYStem INterface.</li>
+          <li className="margin-bottom-20 list-none">The team <span className="pill-teal">took</span> the time to <span className="pill-teal">develop</span> the system interface.</li>
       
           <li className="list-none margin-bottom-10"><strong>New parallel block</strong>:</li>
 

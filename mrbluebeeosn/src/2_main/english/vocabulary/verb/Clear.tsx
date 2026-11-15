@@ -989,8 +989,8 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we STARTed the implemenTAtion <strong>af</strong>ter a CLEAR BRIEFing.</li>
-          <li className="margin-bottom-20 list-none">We began the process after receiving clear instructions.</li>
+          <li>we <span className="pill-teal">STARTed</span> the implemenTAtion <strong>af</strong>ter a CLEAR BRIEFing.</li>
+          <li className="margin-bottom-20 list-none">We <span className="pill-teal">began</span> the process after <span className="pill-teal">receiving</span> clear instructions.</li>
       
           <li className="list-none margin-bottom-10"><strong>Parallel block</strong>: </li>
 
@@ -1005,8 +1005,8 @@ export default function CLEAR(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we STARTed the implemenTAtion with a CLEAR BRIEFing.</li>
-          <li className="margin-bottom-20 list-none">We started the project with a meeting to explain what was needed.</li>
+          <li>we <span className="pill-teal">STARTed</span> the implemenTAtion with a CLEAR BRIEFing.</li>
+          <li className="margin-bottom-20 list-none">We <span className="pill-teal">started</span> the project with a meeting to <span className="pill-teal">explain</span> what <span className="pill-teal">was needed.</span></li>
       
           <li className="list-none margin-bottom-10"><strong>New parallel block</strong>:</li>
 

@@ -70,35 +70,35 @@ export default function VietnameseVegetables(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1" id="WAter-SPINach">STIR-FRIED WAter SPINach with GARlic is a CLASsic and deLICious vietnaMESE DISH.</li>
-        <li className="list-none margin-bottom-20">Stir-fried water spinach with garlic is a classic and delicious dish from Vietnam.</li>
+        <li value="1" id="WAter-SPINach">STIR-FRIED WAter SPINach with GARlic <span className="pill-teal">is</span> a CLASsic and deLICious vietnaMESE DISH.</li>
+        <li className="list-none margin-bottom-20">Stir-fried water spinach with garlic <span className="pill-teal">is</span> a classic and delicious dish from Vietnam.</li>
 
-        <li value="2" id="LEMongrass">MINCED LEMongrass GIVES GRILLED PORK and CHICKen an inCREDible aROma.</li>
-        <li className="list-none margin-bottom-20">When you add minced lemongrass to your pork or chicken, it makes it taste more like a delicious Asian meal than a simple grilled meat.</li>
+        <li value="2" id="LEMongrass">MINCED LEMongrass <span className="pill-teal">GIVES</span> GRILLED PORK and CHICKen an inCREDible aROma.</li>
+        <li className="list-none margin-bottom-20">When you <span className="pill-teal">add</span> minced lemongrass to your pork or chicken, it <span className="pill-teal">makes</span> it <span className="pill-teal">taste</span> more like a delicious Asian meal than a simple grilled meat.</li>
 
-        <li value="3" id="GINger">a WARM CUP of GINger TEA HELPS SOOTHE a SORE THROAT on COLD DAYS.</li>
-        <li className="list-none margin-bottom-20">On cold days, drinking a cup of ginger tea can help soothe a sore throat.</li>
+        <li value="3" id="GINger">a WARM CUP of GINger TEA <span className="pill-teal">HELPS SOOTHE</span> a SORE THROAT on COLD DAYS.</li>
+        <li className="list-none margin-bottom-20">On cold days, <span className="pill-teal">drinking</span> a cup of ginger tea <span className="pill-teal">can help</span> soothe a sore throat.</li>
 
-        <li value="4" id="CHILi-PEPper">ADDing a FEW SLIces of FRESH CHILi PEPper MAKES the NOOdle SOUP MUCH MORE FLAvorful.</li>
-        <li className="list-none margin-bottom-20">Add some fresh chili peppers to the noodle soup to make it more flavorful.</li>
+        <li value="4" id="CHILi-PEPper"><span className="pill-teal">ADDing</span> a FEW SLIces of FRESH CHILi PEPper <span className="pill-teal">MAKES</span> the NOOdle SOUP MUCH MORE FLAvorful.</li>
+        <li className="list-none margin-bottom-20"><span className="pill-teal">Add</span> some fresh chili peppers to the noodle soup to <span className="pill-teal">make</span> it more flavorful.</li>
 
-        <li value="5" id="bamBOO-SHOOTS">DUCK NOOdle SOUP COOKED with FRESH bamBOO SHOOTS is a LOcal FAVORite.</li>
-        <li className="list-none margin-bottom-20">Many people love to eat duck noodle soup made with fresh bamboo shoots.</li>
+        <li value="5" id="bamBOO-SHOOTS">DUCK NOOdle SOUP <span className="pill-teal">COOKED</span> with FRESH bamBOO SHOOTS <span className="pill-teal">is</span> a LOcal FAVORite.</li>
+        <li className="list-none margin-bottom-20">Many people <span className="pill-teal">love</span> to <span className="pill-teal">eat</span> duck noodle soup <span className="pill-teal">made</span> with fresh bamboo shoots.</li>
 
-        <li value="6" id="LOtus-ROOT">CRISpy FRIED LOtus ROOT CHIPS are a uNIQUE and HEALthy SNACK.</li>
-        <li className="list-none margin-bottom-20">Crispy fried lotus root chips are a special and healthy snack.</li>
+        <li value="6" id="LOtus-ROOT">CRISpy FRIED LOtus ROOT CHIPS <span className="pill-teal">are</span> a uNIQUE and HEALthy SNACK.</li>
+        <li className="list-none margin-bottom-20">Crispy fried lotus root chips <span className="pill-teal">are</span> a special and healthy snack.</li>
 
-        <li value="7" id="BITter-MELon">STUFFED BITter MELon SOUP is beLIEVED to HELP COOL DOWN the BODy in SUMmer.</li>
-        <li className="list-none margin-bottom-20">Many believe that stuffed bitter melon soup cools down the body and is a good summertime meal.</li>
+        <li value="7" id="BITter-MELon">STUFFED BITter MELon SOUP <span className="pill-teal">is beLIEVED</span> to <span className="pill-teal">HELP COOL DOWN</span> the BODy in SUMmer.</li>
+        <li className="list-none margin-bottom-20">Many <span className="pill-teal">believe</span> that stuffed bitter melon soup <span className="pill-teal">cools down</span> the body and <span className="pill-teal">is</span> a good summertime meal.</li>
 
-        <li value="8" id="CORiander">FRESH CORiander (or ciLANtro) is SPRINkled on TOP of a HOT BOWL of BEEF NOOdle SOUP be<strong>fore</strong> SERVing.</li>
-        <li className="list-none margin-bottom-20">Fresh coriander (also called cilantro) is added to a bowl of beef noodle soup just before it is served.</li>
+        <li value="8" id="CORiander">FRESH CORiander (or ciLANtro) <span className="pill-teal">is SPRINkled</span> on TOP of a HOT BOWL of BEEF NOOdle SOUP be<strong>fore</strong> <span className="pill-teal">SERVing.</span></li>
+        <li className="list-none margin-bottom-20">Fresh coriander (also <span className="pill-teal">called</span> cilantro) <span className="pill-teal">is added</span> to a bowl of beef noodle soup just before it <span className="pill-teal">is served.</span></li>
 
-        <li value="9" id="LOOfah">SWEET LOOfah COOKED in a SIMple SHRIMP BROTH MAKES a reFRESHing SOUP for HOT DAYS.</li>
-        <li className="list-none margin-bottom-20">Sweet loofah, cooked with shrimp in broth, makes a refreshing soup for hot days.</li>
+        <li value="9" id="LOOfah">SWEET LOOfah <span className="pill-teal">COOKED</span> in a SIMple SHRIMP BROTH <span className="pill-teal">MAKES</span> a reFRESHing SOUP for HOT DAYS.</li>
+        <li className="list-none margin-bottom-20">Sweet loofah, <span className="pill-teal">cooked</span> with shrimp in broth, <span className="pill-teal">makes</span> a refreshing soup for hot days.</li>
 
-        <li value="10" id="VietnaMESE-CORiander">a PLATE of baLUT EGGS is NEVer comPLETE without a HANDful of VietnaMESE CORiander.</li>
-        <li className="list-none margin-bottom-20">A plate of boiled eggs isn't complete without a few sprigs of Vietnamese coriander.</li>
+        <li value="10" id="VietnaMESE-CORiander">a PLATE of baLUT EGGS <span className="pill-teal">is</span> NEVer comPLETE without a HANDful of VietnaMESE CORiander.</li>
+        <li className="list-none margin-bottom-20">A plate of boiled eggs <span className="pill-teal">isn't</span> complete without a few sprigs of Vietnamese coriander.</li>
 
       </ol>
 
