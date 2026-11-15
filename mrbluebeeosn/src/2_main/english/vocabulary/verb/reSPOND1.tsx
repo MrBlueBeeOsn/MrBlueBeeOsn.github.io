@@ -592,8 +592,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the comPLAINT reSPONDed to by the SERvice dePARTment was reSOLVED YESterday.</li>
-					<li className="margin-bottom-20 list-none">The problem that the customer complained about was fixed by the Service Department yesterday.</li>
+					<li>the comPLAINT <span className="pill-teal">reSPONDed</span> to by the SERvice dePARTment <span className="pill-teal">was reSOLVED</span> YESterday.</li>
+					<li className="margin-bottom-20 list-none">The problem that the customer <span className="pill-teal">complained</span> about <span className="pill-teal">was fixed</span> by the Service Department yesterday.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [the complaint addressed by the service department] - [Noun Phrase as Subject] of the action [Verb Phrae as Prediate] "was resolved" in [Main Clause]. In this case, the [Non-modal Auxiliary Verb] “was” is the [primary verb as predicate] in the [finite] form, while the [Transitive Verb] “resolved” is in the [Non-finite Form], indicating that the subject has been addressed.</li>
 					
@@ -608,8 +608,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>they NEED a SYStem reSPONsive to MARket CHAnges.</li>
-					<li className="margin-bottom-20 list-none">They need a system that can adapt to changes in the market.</li>
+					<li>they <span className="pill-teal">NEED</span> a SYStem reSPONsive to MARket CHAnges.</li>
+					<li className="margin-bottom-20 list-none">They <span className="pill-teal">need</span> a system that <span className="pill-teal">can adapt</span> to changes in the market.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [a system responsive to market changes] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Present Form] "NEED" in the [Main Clause].</li>
 					
@@ -626,8 +626,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>reSPONDing to REcent conSUmer TRENDS, the COMpany LAUNCHED NEW FEAtures.</li>
-					<li className="margin-bottom-20 list-none">The company added new features in response to recent consumer trends.</li>
+					<li><span className="pill-teal">reSPONDing</span> to REcent conSUmer TRENDS, the COMpany <span className="pill-teal">LAUNCHED</span> NEW FEAtures.</li>
+					<li className="margin-bottom-20 list-none">The company <span className="pill-teal">added</span> new features in response to recent consumer trends.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [Responding to recent consumer trends] - [Non-finite Clause as an Adjunct] of [Transitive Verb] in the [Preterite Form] "LAUNCHED" within the [Main Clause] -serves as a contextual block providing the overall cause or manner, modifying the entire main [Clause]. Essentially, it is a [Gerund-Participle Clause] standing independently at the beginning of the sentence, separated by a comma, in the [Gerund-Participle Form] "reSPONDing" combined with a [Preposition Phrase as a Complement] of "reSPONDing."</li>
 					
@@ -642,8 +642,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the COMpany ALlocated FUNDS reSPONDing to URgent MARket RISKS.</li>
-					<li className="margin-bottom-20 list-none">The company is ready to deal with problems in the market that require immediate attention.</li>
+					<li>the COMpany <span className="pill-teal">ALlocated</span> FUNDS <span className="pill-teal">reSPONDing</span> to URgent MARket RISKS.</li>
+					<li className="margin-bottom-20 list-none">The company <span className="pill-teal">is</span> ready to <span className="pill-teal">deal with</span> problems in the market that <span className="pill-teal">require</span> immediate attention.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [funds responding to urgent market risks] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "ALlocated" in the [Main Clause].</li>
 					
@@ -658,8 +658,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>to reSPOND efFECTively to CUStomer deMANDS, the STAFF exTENDed WORKing HOURS.</li>
-					<li className="margin-bottom-20 list-none">The staff worked longer hours to better meet customer needs.</li>
+					<li>to <span className="pill-teal">reSPOND</span> efFECTively to CUStomer deMANDS, the STAFF <span className="pill-teal">exTENDed</span> WORKing HOURS.</li>
+					<li className="margin-bottom-20 list-none">The staff <span className="pill-teal">worked</span> longer hours to better <span className="pill-teal">meet</span> customer needs.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [to respond effectively to customer demands] - [Non-finite Clause as an Adjunct] of [Transitive Verb] in the [Preterite Form] "exTENDed" within the [Main Clause], serving as a purpose-oriented contextual block that modifies the entire sequence that follows. Essentially, it is a [To-infinitive Clause] formed by the [Infinitive Marker] "to" combined with the [Verb Phrase] "respond ...". The entire block is moved to the beginning of the sentence as a separate unit and separated by a comma.</li>
 					
@@ -678,8 +678,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the techNICian arRIVED to reSPOND to the NETwork aLERT.</li>
-					<li className="margin-bottom-20 list-none">The technician arrived at the scene to deal with the alert on the network.</li>
+					<li>the techNICian <span className="pill-teal">arRIVED</span> to <span className="pill-teal">reSPOND</span> to the NETwork aLERT.</li>
+					<li className="margin-bottom-20 list-none">The technician <span className="pill-teal">arrived</span> at the scene to <span className="pill-teal">deal with</span> the alert on the network.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [to respond to the network alert] - [Non-finite Clause as an Adjunct] of [Intransitive Verb] in the [Preterite Form] "arRIVED" in the [Main Clause], functioning as a purpose-oriented contextual block. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "respond ...", which functions as an expanded complement at the end of the information chain.</li>
 					
@@ -697,8 +697,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the deLAY in the reSPONSE to the ofFIcial STATEment CAUSED PUBlic conCERNS.</li>
-					<li className="margin-bottom-20 list-none">People were worried because they were waiting too long to respond to the official statement.</li>
+					<li>the deLAY in the reSPONSE to the ofFIcial STATEment <span className="pill-teal">CAUSED</span> PUBlic conCERNS.</li>
+					<li className="margin-bottom-20 list-none">People <span className="pill-teal">were</span> worried because they <span className="pill-teal">were waiting</span> too long to <span className="pill-teal">respond</span> to the official statement.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [the delay in the response to the official statement] - [Noun Phrase as Subject] of [Transitive Verb] in the [Preterite Form] "CAUSED" in [Main Clause].</li>
 					
@@ -717,8 +717,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>in reSPONSE to NEW seCUrity reguLAtions, the SYStem upDAted autoMATically.</li>
-					<li className="margin-bottom-20 list-none">The system automatically updated because of new security regulations.</li>
+					<li>in reSPONSE to NEW seCUrity reguLAtions, the SYStem <span className="pill-teal">upDAted</span> autoMATically.</li>
+					<li className="margin-bottom-20 list-none">The system automatically <span className="pill-teal">updated</span> because of new security regulations.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [in response to new security regulations] - [Preposition Phrase as an Adjunct] of [Intransitive Verb] in the [past tense] "upDAted" in the [Main Clause], serves to establish the causal/instrumental context block, beginning with the [Transitive Preposition] "in" followed by the [Noun Phrase as a Complement] "reSPONSE..." afterward. The entire block is moved to the beginning of the sentence and separated by a comma.</li>
 					
@@ -733,8 +733,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the TEAM GATHered for a QUICK reSPONSE to the INcident.</li>
-					<li className="margin-bottom-20 list-none">The team met to discuss what happened.</li>
+					<li>the TEAM <span className="pill-teal">GATHered</span> for a QUICK reSPONSE to the INcident.</li>
+					<li className="margin-bottom-20 list-none">The team <span className="pill-teal">met</span> to <span className="pill-teal">discuss</span> what <span className="pill-teal">happened.</span></li>
 			
 					<li className="list-none margin-bottom-10">External block: [for a quick response to the incident] - [Preposition Phrase as an Adjunct] of [Intransitive Verb] in the [Preterite Form] "gathered" in the [Main Clause], functioning as a purpose/cause clause, introduced by the [Transitive Preposition] "for".</li>
 					
@@ -756,8 +756,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>HOW the SYStem reSPONDS to seCUrity THREATS deTERmines its reliaBILity.</li>
-					<li className="margin-bottom-20 list-none">The system's ability to respond to security threats is key to its reliability.</li>
+					<li>HOW the SYStem <span className="pill-teal">reSPONDS</span> to seCUrity THREATS <span className="pill-teal">deTERmines</span> its reliaBILity.</li>
+					<li className="margin-bottom-20 list-none">The system's ability to <span className="pill-teal">respond</span> to security threats <span className="pill-teal">is</span> key to its reliability.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [how the system responds to security threats] - [Finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "dETERMINES" in the [Main Clause]. Essentially, it is an [open interrogative content clause] containing the [Adverb] "HOW" at the beginning, with the [Noun as Head] "SYSTEM" and the action phrase [Finite Clause] "responds..." following it.</li>
 					
@@ -772,8 +772,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the diRECtor exPLAINED HOW the TEAM reSPONDS to URgent inQUIRies.</li>
-					<li className="margin-bottom-20 list-none">The director explained how the team reacts to important questions.</li>
+					<li>the diRECtor <span className="pill-teal">exPLAINED</span> HOW the TEAM <span className="pill-teal">reSPONDS</span> to URgent inQUIRies.</li>
+					<li className="margin-bottom-20 list-none">The director <span className="pill-teal">explained</span> how the team <span className="pill-teal">reacts</span> to important questions.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [how the team responds to urgent inquiries] - [Finite Clause as a Complement] of [Transitive Verb] in the [Preterite Form] "explained" in the [Main Clause]. Essentially, it is an [open interrogative content clause] containing the [Adverb] "HOW" at the beginning, with [Noun as Head] "TEAM" and the action phrase [Finite Clause] "responds..." following it.</li>
 					
@@ -788,8 +788,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the SERver which reSPONDS to USer reQUESTS was REcently upGRADed.</li>
-					<li className="margin-bottom-20 list-none">The server that responds to user requests has been upgraded.</li>
+					<li>the SERver which <span className="pill-teal">reSPONDS</span> to USer reQUESTS <span className="pill-teal">was</span> REcently <span className="pill-teal">upGRADed.</span></li>
+					<li className="margin-bottom-20 list-none">The server that <span className="pill-teal">responds</span> to user requests <span className="pill-teal">has been upgraded.</span></li>
 			
 					<li className="list-none margin-bottom-10">External block: [the server that responds to user requests] - [Noun Phrase as Subject] of [Copular Intransitive Verb] in the [Preterite Form] "was" in the [Main Clause].</li>
 					
@@ -803,8 +803,8 @@ export default function reSPOND1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole" id="10">Example 10:</p>
 			
 				<ul className="list-square">
-					<li>the camPAIGN sucCEEDed be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges.</li>
-					<li className="margin-bottom-20 list-none">The campaign was a success because the team was able to adapt to changes in the market.</li>
+					<li>the camPAIGN <span className="pill-teal">sucCEEDed</span> be<strong>cause</strong> the TEAM <span className="pill-teal">reSPONDed</span> to MARket CHAnges.</li>
+					<li className="margin-bottom-20 list-none">The campaign <span className="pill-teal">was</span> a success because the team <span className="pill-teal">was</span> able to <span className="pill-teal">adapt</span> to changes in the market.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [because the team responded to market changes] - [Preposition Phrase as an Adjunct] of [Intransitive Verb] in the [Preterite Form] "sucCEEDed" in the [Main Clause]. Beginning with the [Transitive Preposition] "because", which serves as the cause, containing [Noun as Head] "TEAM" and the action phrase [Finite Clause] "responded ..." marked by the past tense, establishing a contextual module to modify the preceding main clause [Main Clause] "the campaign succeeded."</li>
 					
@@ -822,8 +822,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>they beLIEVE the TEAM reSPONDed apPROpriately to the WARNing.</li>
-					<li className="margin-bottom-20 list-none">They believe that the team reacted the right way to the warning.</li>
+					<li>they <span className="pill-teal">beLIEVE</span> the TEAM <span className="pill-teal">reSPONDed</span> apPROpriately to the WARNing.</li>
+					<li className="margin-bottom-20 list-none">They <span className="pill-teal">believe</span> that the team <span className="pill-teal">reacted</span> the right way to the warning.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [the team responded appropriately to the warning] - [Finite Clause as a Complement] of [Intransitive Verb] in the [Plain Present Form] "beLIEVE" in the [Main Clause]. Essentially, the [Zero Declarative Content Clause] has hidden the [Subordinator] "that", leaving only the complete [Noun as Head] "TEAM" and the action phrase [Finite Clause] "responded..." following it.</li>
 					
@@ -838,8 +838,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the Email she reSPONDed to conTAINED CRUcial inforMAtion.</li>
-					<li className="margin-bottom-20 list-none">The email she replied to had important information.</li>
+					<li>the Email she <span className="pill-teal">reSPONDed</span> to <span className="pill-teal">conTAINED</span> CRUcial inforMAtion.</li>
+					<li className="margin-bottom-20 list-none">The email she <span className="pill-teal">replied</span> to <span className="pill-teal">had</span> important information.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [The email she replied to] - [Noun Phrase as Subject] of [Transitive Verb] in the [Preterite Form] "was CONTAINED" in [Main Clause].</li>
 					
@@ -854,8 +854,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>should the SERver reSPOND SLOWly, reSTART the appliCAtion.</li>
-					<li className="margin-bottom-20 list-none">If the server is slow, try restarting the application.</li>
+					<li><span className="pill-teal">should</span> the SERver <span className="pill-teal">reSPOND</span> SLOWly, <span className="pill-teal">reSTART</span> the appliCAtion.</li>
+					<li className="margin-bottom-20 list-none">If the server <span className="pill-teal">is</span> slow, <span className="pill-teal">try restarting</span> the application.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [should the server respond slowly] - [Finite Clause as an Adjunct] of [Transitive Verb] in [Plain Form] "reSTART" within [Main Clause], serving to establish a hypothetical/conditional context block and modifying the action and command that follow. Essentially, this is an [inverted clause] that operates in a hidden state as a conditional [Subordinator] "if" by inverting the [Preterite Modal Auxiliary Verb] "should" to the front; although the surface structure changes, the essence remains fully intact [Noun as Head] "SERver" and [Finite Clause] "reSPOND SLOWly".</li>
 					

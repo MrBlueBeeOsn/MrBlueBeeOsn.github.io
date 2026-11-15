@@ -595,8 +595,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the SYStem creAted by the TECH TEAM was LAUNCHED YESterday.</li>
-          <li className="margin-bottom-20 list-none">The system that the tech team created was launched yesterday.</li>
+          <li>the SYStem <span className="pill-teal">creAted</span> by the TECH TEAM <span className="pill-teal">was LAUNCHED</span> YESterday.</li>
+          <li className="margin-bottom-20 list-none">The system that the tech team <span className="pill-teal">created</span> <span className="pill-teal">was launched</span> yesterday.</li>
       
           <li className="list-none margin-bottom-10">External block: [The system created by the tech team] - [Noun Phrase as Subject] of the action [Verb Phrae as Prediate] "was LAUNCHED" in [Main Clause]. In this case, "was" is the [PRIMARY VERB as PREDICATOR] functioning as a [Finite] form, while the [Transitive Verb] "LAUNCHED" is a [NON-FINITE] form that accompanies it, indicating the object that was launched.</li>
           
@@ -611,8 +611,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>they NEED a STRATegy creAtive in its exeCUtion.</li>
-          <li className="margin-bottom-20 list-none">They need a plan that is creative in how it is carried out.</li>
+          <li>they <span className="pill-teal">NEED</span> a STRATegy creAtive in its exeCUtion.</li>
+          <li className="margin-bottom-20 list-none">They <span className="pill-teal">need</span> a plan that <span className="pill-teal">is</span> creative in how it <span className="pill-teal">is carried out.</span></li>
       
           <li className="list-none margin-bottom-10">External block: [a strategy creative in its execution] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Present Form] "NEED" in the [Main Clause].</li>
           
@@ -629,8 +629,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>creAting a NEW VIsual iDENtity, the BRAND LAUNCHED its camPAIGN.</li>
-          <li className="margin-bottom-20 list-none">The brand started a new advertising campaign to create a new visual identity.</li>
+          <li><span className="pill-teal">creAting</span> a NEW VIsual iDENtity, the BRAND <span className="pill-teal">LAUNCHED</span> its camPAIGN.</li>
+          <li className="margin-bottom-20 list-none">The brand <span className="pill-teal">started</span> a new advertising campaign to <span className="pill-teal">create</span> a new visual identity.</li>
       
           <li className="list-none margin-bottom-10">External block: [Creating a new visual identity] - [Non-finite Clause as an Adjunct] of [Transitive Verb] in the [Preterite Form] "LAUNCHED" within the [Main Clause], serving as an overarching causal/modal context block that modifies the entire main [Clause]. Essentially, it is a [Gerund-Participle Clause] standing independently at the beginning of the sentence, separated by a comma, featuring the [Gerund-Participle Form] "creating" combined with a [Noun Phrase] "a new visual identity."</li>
           
@@ -645,8 +645,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the Agency ALlocated REsources creAting CUStom SOFTware TOOLS.</li>
-          <li className="margin-bottom-20 list-none">The agency found ways to create custom software tools.</li>
+          <li>the Agency <span className="pill-teal">ALlocated</span> REsources <span className="pill-teal">creAting</span> CUStom SOFTware TOOLS.</li>
+          <li className="margin-bottom-20 list-none">The agency <span className="pill-teal">found</span> ways to <span className="pill-teal">create</span> custom software tools.</li>
       
           <li className="list-none margin-bottom-10">External block: [resources for creating custom software tools] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "allocated" in the [Main Clause].</li>
           
@@ -661,8 +661,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>to creATE HIGH-QUAlity PROducts, the TEAM upGRAded their maCHINES.</li>
-          <li className="margin-bottom-20 list-none">To make better products, the team improved their machines.</li>
+          <li>to <span className="pill-teal">creATE</span> HIGH-QUAlity PROducts, the TEAM <span className="pill-teal">upGRAded</span> their maCHINES.</li>
+          <li className="margin-bottom-20 list-none">To <span className="pill-teal">make</span> better products, the team <span className="pill-teal">improved</span> their machines.</li>
       
           <li className="list-none margin-bottom-10">External block: [To create high-quality products] - [Non-finite Clause as an Adjunct] of [Transitive Verb] in the [Preterite Form] "upgraded" within the [Main Clause] -serves as a purpose-oriented contextual block, providing context for the entire sequence that follows. Essentially, it is a [To-infinitive Clause] formed by the [Infinitive Marker] "to" combined with the [Verb Phrase] "create ...". The entire structure is moved to the beginning of the sentence as a separate unit and separated by a comma.</li>
           
@@ -677,8 +677,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the deSIGNer STAYED LATE to creATE the FInal PROtotype.</li>
-          <li className="margin-bottom-20 list-none">The designer stayed late at work to finish the final prototype.</li>
+          <li>the deSIGNer <span className="pill-teal">STAYED</span> LATE to <span className="pill-teal">creATE</span> the FInal PROtotype.</li>
+          <li className="margin-bottom-20 list-none">The designer <span className="pill-teal">stayed</span> late at work to <span className="pill-teal">finish</span> the final prototype.</li>
       
           <li className="list-none margin-bottom-10">External block: [late to create the final prototype] - [Adverb Phrase as an Adjunct] of [Intransitive Verb] in the [Preterite Form] "STAYED" in the [Main Clause], serving as a purpose-based contextual block that directly modifies the action.</li>
           
@@ -696,8 +696,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the deLAY in the creAtion of the NEW PORtal RAISED SEVeral conCERNS.</li>
-          <li className="margin-bottom-20 list-none">There were several problems because it took so long to create the new portal.</li>
+          <li>the deLAY in the creAtion of the NEW PORtal <span className="pill-teal">RAISED</span> SEVeral conCERNS.</li>
+          <li className="margin-bottom-20 list-none">There <span className="pill-teal">were</span> several problems because it <span className="pill-teal">took</span> so long to <span className="pill-teal">create</span> the new portal.</li>
       
           <li className="list-none margin-bottom-10">External block: [The delay in the creation of the new portal] - [Noun Phrase as Subject] of [Transitive Verb] in the [Preterite Form] "RAISED" in the [Main Clause], which heads the sentence and carries the semantic weight.</li>
           
@@ -716,8 +716,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>for the creAtion of BETter SERvices, the FIRM inVESTment inCREASED.</li>
-          <li className="margin-bottom-20 list-none">The company put more money into its services to create better ones.</li>
+          <li>for the creAtion of BETter SERvices, the FIRM inVESTment <span className="pill-teal">inCREASED.</span></li>
+          <li className="margin-bottom-20 list-none">The company <span className="pill-teal">put</span> more money into its services to <span className="pill-teal">create</span> better ones.</li>
       
           <li className="list-none margin-bottom-10">External block: [for the creation of better services] - [Preposition Phrase as an Adjunct] of [intransitive verb] in the [past tense] "increased" in the [Main Clause] serves to establish the causal/instrumental context block, beginning with the [Transitive Preposition] "for" followed by the [Noun Phrase as a Complement] "the creation..." afterward. The entire block is moved to the beginning of the sentence as a standalone unit and separated by a comma.</li>
           
@@ -732,8 +732,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the TEAM GAthered for the creAtion of a NEW PROject PLAN.</li>
-          <li className="margin-bottom-20 list-none">The team got together to make a new plan for a project.</li>
+          <li>the TEAM <span className="pill-teal">GAthered</span> for the creAtion of a NEW PROject PLAN.</li>
+          <li className="margin-bottom-20 list-none">The team <span className="pill-teal">got</span> together to <span className="pill-teal">make</span> a new plan for a project.</li>
       
           <li className="list-none margin-bottom-10">External block: [for the creation of a new project plan] - [Preposition Phrase as an Adjunct] of [intransitive verb] in the [Preterite Form] "gathered" in the [Main Clause], serving as a purpose/reason clause, introduced by the [Transitive Preposition] "for".</li>
           
@@ -755,8 +755,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>HOW the ARtist creATES uNIQUE SCULPtures FAScinates the AUdience.</li>
-          <li className="margin-bottom-20 list-none">People are fascinated by how artists create unique sculptures.</li>
+          <li>HOW the ARtist <span className="pill-teal">creATES</span> uNIQUE SCULPtures <span className="pill-teal">FAScinates</span> the AUdience.</li>
+          <li className="margin-bottom-20 list-none">People <span className="pill-teal">are</span> fascinated by how artists <span className="pill-teal">create</span> unique sculptures.</li>
       
           <li className="list-none margin-bottom-10">External block: [how the artist creates unique sculptures] - [Finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "FASCINATES" in the [Main Clause]. Essentially, it is an [open interrogative content clause] containing the [Adverb] "HOW" at the beginning, with the [Noun as Head] "ARTIST" and the action phrase [Finite Clause] "CREATES ..." following it.</li>
           
@@ -772,8 +772,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the diRECtor exPLAINED HOW the TEAM creATES efFECtive adVERtisements.</li>
-          <li className="margin-bottom-20 list-none">The director explained how his team creates effective advertisements.</li>
+          <li>the diRECtor <span className="pill-teal">exPLAINED</span> HOW the TEAM <span className="pill-teal">creATES</span> efFECtive adVERtisements.</li>
+          <li className="margin-bottom-20 list-none">The director <span className="pill-teal">explained</span> how his team <span className="pill-teal">creates</span> effective advertisements.</li>
       
           <li className="list-none margin-bottom-10">External block: [how the team creates effective advertisements] - [Finite Clause as a Complement] of [Transitive Verb] in the [Preterite Form] "EXPLAINED" in the [Main Clause]. Essentially, it is an [open interrogative content clause] containing the [Adverb] "HOW" at the beginning, with [Noun as Head] "TEAM" and the action phrase [Finite Clause] "creates ..." following it.</li>
           
@@ -788,8 +788,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the ENgine which creATES SOlar ENergy was REcently inSTALLED.</li>
-          <li className="margin-bottom-20 list-none">The engine that makes solar energy was recently installed.</li>
+          <li>the ENgine which <span className="pill-teal">creATES</span> SOlar ENergy <span className="pill-teal">was</span> REcently <span className="pill-teal">inSTALLED.</span></li>
+          <li className="margin-bottom-20 list-none">The engine that <span className="pill-teal">makes</span> solar energy <span className="pill-teal">was</span> recently <span className="pill-teal">installed.</span></li>
       
           <li className="list-none margin-bottom-10">External block: [The engine that generates solar energy] - [Noun Phrase as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "was" in the [Main Clause].</li>
           
@@ -804,8 +804,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
 
-          <li>the VENture sucCEEded be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion.</li>
-          <li className="margin-bottom-20 list-none">The venture was successful because the founder had a clear vision for it.</li>
+          <li>the VENture <span className="pill-teal">sucCEEded</span> be<strong>cause</strong> the FOUNder <span className="pill-teal">creAted</span> a CLEAR VIsion.</li>
+          <li className="margin-bottom-20 list-none">The venture <span className="pill-teal">was</span> successful because the founder <span className="pill-teal">had</span> a clear vision for it.</li>
       
           <li className="list-none margin-bottom-10">External block: [because the founder created a clear vision] - [Preposition Phrase as an Adjunct] of [Intransitive Verb] in the [Preterite Form] "sucCEEded" in the [Main Clause]. Beginning with the [Transitive Preposition] "because", which serves as the cause, containing [Noun as Head] "FOUNder" and the action phrase [Finite Clause] "creAted ..." marked by the past tense, establishing a context module to modify the preceding main clause [Main Clause] "the VENture sucCEEded."</li>
           
@@ -823,8 +823,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>they beLIEVE the Agency creAted a reLIable SYStem.</li>
-          <li className="margin-bottom-20 list-none">They have faith in the agency's system, believing it is trustworthy.</li>
+          <li>they <span className="pill-teal">beLIEVE</span> the Agency <span className="pill-teal">creAted</span> a reLIable SYStem.</li>
+          <li className="margin-bottom-20 list-none">They <span className="pill-teal">have</span> faith in the agency's system, <span className="pill-teal">believing</span> it is trustworthy.</li>
       
           <li className="list-none margin-bottom-10">External block: [the agency created a reliable system] - [Finite Clause as a Complement] of [intransitive verb] in the [Plain Present Form] "believe" in the [Main Clause]. Essentially, the [Zero Declarative Content Clause] has hidden the [Subordinator] "that", leaving only the complete [Noun as Head] "Agency" and the action phrase [Finite Clause] "created ..." following it.</li>
           
@@ -839,8 +839,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the deSIGN she creAted for the CLIent WON a presTIgious aWARD.</li>
-          <li className="margin-bottom-20 list-none">She designed something for the client that won an important award.</li>
+          <li>the deSIGN she <span className="pill-teal">creAted</span> for the CLIent <span className="pill-teal">WON</span> a presTIgious aWARD.</li>
+          <li className="margin-bottom-20 list-none">She <span className="pill-teal">designed</span> something for the client that <span className="pill-teal">won</span> an important award.</li>
       
           <li className="list-none margin-bottom-10">External block: [The design she created for the client] - [Noun Phrase as Subject] of [Transitive Verb] in the [Preterite Form] "WON" in [Main Clause].</li>
           
@@ -855,8 +855,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>should the PROgram creATE TECHnical ERrors, aLERT the SYStem adMINistrator.</li>
-          <li className="margin-bottom-20 list-none">If the program causes technical problems, let the system administrator know.</li>
+          <li><span className="pill-teal">should</span> the PROgram <span className="pill-teal">creATE</span> TECHnical ERrors, <span className="pill-teal">aLERT</span> the SYStem adMINistrator.</li>
+          <li className="margin-bottom-20 list-none">If the program <span className="pill-teal">causes</span> technical problems, <span className="pill-teal">let</span> the system administrator <span className="pill-teal">know.</span></li>
       
           <li className="list-none margin-bottom-10">External block: [Should the program create technical errors] - [Finite Clause as an Adjunct] of [Transitive Verb] in [Plain Form] "alert" in [Main Clause], serving to establish a hypothetical/conditional context and modify the action and command that follow. Essentially, it is an [inverted clause] that operates in a hidden state as a [Subordinator] for the conditional "if" by inverting the [Preterite Modal Auxiliary Verb] "should" to the front; although the surface structure changes, the essence remains fully intact [Noun as Head] "PROgram" and [Finite Clause] "creATE TECHnical ERrors".</li>
           

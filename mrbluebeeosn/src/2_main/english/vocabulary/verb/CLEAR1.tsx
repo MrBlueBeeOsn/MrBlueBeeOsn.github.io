@@ -538,8 +538,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the FILES CLEARED by the adMINistrator are PERmanently deLETEd.</li>
-          <li className="margin-bottom-20 list-none">The administrator deleted the files, and they're gone forever.</li>
+          <li>the FILES <span className="pill-teal">CLEARED</span> by the adMINistrator <span className="pill-teal">are</span> PERmanently <span className="pill-teal">deLETEd.</span></li>
+          <li className="margin-bottom-20 list-none">The administrator <span className="pill-teal">deleted</span> the files, and they<span className="pill-teal">'re gone</span> forever.</li>
       
           <li className="list-none margin-bottom-10">External block: [The files cleared by the administrator] - [Noun Phrase as Subject] of the action [Verb Phrae as Prediate] "are deleted" in [Main Clause]. In this case, the [Non-modal Auxiliary Verb] "are" is the [primary verb as predicate] in the [finite] form, while the [Transitive Verb] "deleted" is in the [Non-finite Form], indicating that the object "the FILES" has been deleted.</li>
           
@@ -554,8 +554,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we FOUND an appliCAtion CApable of CLEARing BACKground JUNK.</li>
-          <li className="margin-bottom-20 list-none">We discovered an app that can get rid of unwanted data on your device.</li>
+          <li>we <span className="pill-teal">FOUND</span> an appliCAtion CApable of <span className="pill-teal">CLEARing</span> BACKground JUNK.</li>
+          <li className="margin-bottom-20 list-none">We <span className="pill-teal">discovered</span> an app that <span className="pill-teal">can get</span> rid of unwanted data on your device.</li>
       
           <li className="list-none margin-bottom-10">External block: [an application capable of clearing background junk] - a [Noun Phrase as a Complement] of a [Transitive Verb] in the [Preterite Form] "FOUND" in the [Main Clause].</li>
           
@@ -571,8 +571,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>they RAN the SOFTware to CLEAR CACHE FILES.</li>
-          <li className="margin-bottom-20 list-none">They used software to remove temporary internet files from the computer.</li>
+          <li>they <span className="pill-teal">RAN</span> the SOFTware to <span className="pill-teal">CLEAR</span> CACHE FILES.</li>
+          <li className="margin-bottom-20 list-none">They <span className="pill-teal">used</span> software to <span className="pill-teal">remove</span> temporary internet files from the computer.</li>
       
           <li className="list-none margin-bottom-10">External block: [the software to clear cache files] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "RAN" in the [Main Clause].</li>
           
@@ -586,8 +586,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>to CLEAR the misunderSTANDing, she SENT an Email.</li>
-          <li className="margin-bottom-20 list-none">To make things clear, she sent an email.</li>
+          <li>to <span className="pill-teal">CLEAR</span> the misunderSTANDing, she <span className="pill-teal">SENT</span> an Email.</li>
+          <li className="margin-bottom-20 list-none">To <span className="pill-teal">make</span> things clear, she <span className="pill-teal">sent</span> an email.</li>
       
           <li className="list-none margin-bottom-10">External block: [To clear the misunderstanding], - [Non-finite Clause as an Adjunct] of [Transitive Verb] in the [Preterite Form] "SENT" within the [Main Clause], serves as a contextual block intended to emphasize the entire main body of information that follows. Essentially, it is a [To-infinitive Clause] beginning with the [Infinitive Marker] "to" combined with a [Verb Phrase] "clear the misunderstanding", which is moved to the beginning of the sentence and separated by a comma.</li>
           
@@ -602,8 +602,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the MANager SPENT HOURS CLEARing OLD User PROfiles.</li>
-          <li className="margin-bottom-20 list-none">The manager spent hours removing old user profiles.</li>
+          <li>the MANager <span className="pill-teal">SPENT</span> HOURS <span className="pill-teal">CLEARing</span> OLD User PROfiles.</li>
+          <li className="margin-bottom-20 list-none">The manager <span className="pill-teal">spent</span> hours <span className="pill-teal">removing</span> old user profiles.</li>
       
           <li className="list-none margin-bottom-10">External block: [hours clearing old user profiles] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "SPENT" in the [Main Clause].</li>
           
@@ -618,8 +618,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>CLEARing the WORKspace EARly, he LEFT the OFFice with PEACE of MIND.</li>
-          <li className="margin-bottom-20 list-none">He was able to clear the workspace early and leave the office without worrying.</li>
+          <li><span className="pill-teal">CLEARing</span> the WORKspace EARly, he <span className="pill-teal">LEFT</span> the OFFice with PEACE of MIND.</li>
+          <li className="margin-bottom-20 list-none">He <span className="pill-teal">was</span> able to <span className="pill-teal">clear</span> the workspace early and <span className="pill-teal">leave</span> the office without <span className="pill-teal">worrying.</span></li>
       
           <li className="list-none margin-bottom-10">External block:</li>
 
@@ -642,8 +642,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the reQUIrement for a CLEAR STRATegy is URgent.</li>
-          <li className="margin-bottom-20 list-none">We really need a clear strategy as soon as possible.</li>
+          <li>the reQUIrement for a CLEAR STRATegy <span className="pill-teal">is</span> URgent.</li>
+          <li className="margin-bottom-20 list-none">We really <span className="pill-teal">need</span> a clear strategy as soon as possible.</li>
       
           <li className="list-none margin-bottom-10">External block: [the requirement for a clear strategy] - [Noun Phrase as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause].</li>
           
@@ -658,8 +658,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>they MADE the deCISion <strong>af</strong>ter a CLEAR explaNAtion.</li>
-          <li className="margin-bottom-20 list-none">They made the decision only after receiving a thorough explanation.</li>
+          <li>they <span className="pill-teal">MADE</span> the deCISion <strong>af</strong>ter a CLEAR explaNAtion.</li>
+          <li className="margin-bottom-20 list-none">They <span className="pill-teal">made</span> the decision only after <span className="pill-teal">receiving</span> a thorough explanation.</li>
       
           <li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
@@ -676,8 +676,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>with a CLEAR GOAL, she QUICKly FINished the rePORT.</li>
-          <li className="margin-bottom-20 list-none">She had a clear goal, so she quickly finished the report.</li>
+          <li>with a CLEAR GOAL, she QUICKly <span className="pill-teal">FINished</span> the rePORT.</li>
+          <li className="margin-bottom-20 list-none">She <span className="pill-teal">had</span> a clear goal, so she quickly <span className="pill-teal">finished</span> the report.</li>
       
           <li className="list-none margin-bottom-10">External block: [with a clear goal] - [Preposition Phrase as an Adjunct] of [Transitive Verb] in [Preterite Form] "FINished" in [Main Clause], serving to establish an overarching contextual framework that modifies the entire main information block that follows, bringing along the noun phrase following "a CLEAR GOAL." The entire block is moved to the beginning of the sentence and separated by a comma.</li>
           
@@ -700,8 +700,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>HOW you CLEAR these SYStem LOGS is confidential.</li>
-          <li className="margin-bottom-20 list-none">The process for clearing system logs is confidential.</li>
+          <li>HOW you <span className="pill-teal">CLEAR</span> these SYStem LOGS <span className="pill-teal">is</span> confidential.</li>
+          <li className="margin-bottom-20 list-none">The process for <span className="pill-teal">clearing</span> system logs <span className="pill-teal">is</span> confidential.</li>
       
           <li className="list-none margin-bottom-10">External block: [How you clear these system logs] - [Finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" serves as the main driver of the state action. Essentially, it is an [Open Interrogative Content Clause] containing a visual linking element at the beginning, with [Pronoun as Head] "you" and the action phrase [Finite Clause] "CLEAR ..." following it.</li>
           
@@ -716,8 +716,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the engiNEER who CLEARED the ERror CODES FIXED the SERver.</li>
-          <li className="margin-bottom-20 list-none">The engineer who figured out the error codes fixed the server.</li>
+          <li>the engiNEER who <span className="pill-teal">CLEARED</span> the ERror CODES <span className="pill-teal">FIXED</span> the SERver.</li>
+          <li className="margin-bottom-20 list-none">The engineer who <span className="pill-teal">figured out</span> the error codes <span className="pill-teal">fixed</span> the server.</li>
       
           <li className="list-none margin-bottom-10">External block: [The engineer who cleared the error codes] - [Noun Phrase as Subject] of [Transitive Verb] in the [Preterite Form] "FIXED" in the [Main Clause] -serves as the core subject of the sentence.</li>
           
@@ -732,8 +732,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
 
-          <li>the TEAM CELebrated be<strong>cause</strong> the LEADer CLEARED the PROject BUDget.</li>
-          <li className="margin-bottom-20 list-none">The team was happy because the project leader had finished the budget.</li>
+          <li>the TEAM <span className="pill-teal">CELebrated</span> be<strong>cause</strong> the LEADer <span className="pill-teal">CLEARED</span> the PROject BUDget.</li>
+          <li className="margin-bottom-20 list-none">The team <span className="pill-teal">was</span> happy because the project leader <span className="pill-teal">had finished</span> the budget.</li>
       
           <li className="list-none margin-bottom-10">External block: [because the leader cleared the project budget] - [Preposition Phrase as an Adjunct] of [Intransitive Verb] in "CELebrated" within [Main Clause]. Begins with the [Transitive Preposition] "because", which serves as the cause, containing [Noun as Head] "LEADer" and the action phrase [Finite Clause] "CLEARED ..." marked by the past tense, establishing a context module to modify the preceding main clause [Main Clause] "the VENTURE succeeded."</li>
           
@@ -751,8 +751,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>i beLIEVE you CLEARED the STORage SPACE.</li>
-          <li className="margin-bottom-20 list-none">I think you deleted the files from the storage space.</li>
+          <li>i <span className="pill-teal">beLIEVE</span> you <span className="pill-teal">CLEARED</span> the STORage SPACE.</li>
+          <li className="margin-bottom-20 list-none">I <span className="pill-teal">think</span> you <span className="pill-teal">deleted</span> the files from the storage space.</li>
       
           <li className="list-none margin-bottom-10">External block: [you cleared the storage space] - [Finite Clause as a Complement] of [Intransitive Verb] in the [Plain Present Form] "beLIEVE" in the [Main Clause]. Essentially, the [Zero Declarative Content Clause] has hidden the "that"-oriented [Subordinator], leaving only the [Pronoun as Head] "you" and the action phrase [Finite Clause] "CLEARED ..." that follows fully visible.</li>
           
@@ -767,8 +767,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the DESK the emPLOYee CLEARED LOOKED VERy NEAT.</li>
-          <li className="margin-bottom-20 list-none">The desk that the employee cleared looked very clean and organized.</li>
+          <li>the DESK the emPLOYee <span className="pill-teal">CLEARED</span> <span className="pill-teal">LOOKED</span> VERy NEAT.</li>
+          <li className="margin-bottom-20 list-none">The desk that the employee <span className="pill-teal">cleared</span> <span className="pill-teal">looked</span> very clean and organized.</li>
       
           <li className="list-none margin-bottom-10">External block: [The desk the employee cleared] - [Noun Phrase as Subject] of [Intransitive Verb] in the [Preterite Form] "LOOKED" in [Main Clause].</li>
           
@@ -783,8 +783,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>should you CLEAR the PENDing TASKS toDAY, we will START the NEW PLAN.</li>
-          <li className="margin-bottom-20 list-none">If you complete the tasks that are waiting for you, we can start the new plan.</li>
+          <li><span className="pill-teal">should</span> you <span className="pill-teal">CLEAR</span> the PENDing TASKS toDAY, we <span className="pill-teal">will START</span> the NEW PLAN.</li>
+          <li className="margin-bottom-20 list-none">If you <span className="pill-teal">complete</span> the tasks that <span className="pill-teal">are waiting</span> for you, we <span className="pill-teal">can start</span> the new plan.</li>
       
           <li className="list-none margin-bottom-10">External block: [should you clear the pending tasks today] - [Finite Clause as an Adjunct] of [Transitive Verb] in [Plain Form] "START" in [Main Clause], serves to establish the hypothetical/conditional context block that modifies the entire main information section that follows. Essentially, this is an [inverted clause] that functions as a hidden [Subordinator] for the conditional "if" by inverting the [Preterite Modal Auxiliary Verb] "should" to the front. Although the surface structure is transformed, the core remains intact with [PRONOUN as HEAD] "you" and [Finite Clause] "CLEAR the PENDING TASKS TODAY".</li>
           
