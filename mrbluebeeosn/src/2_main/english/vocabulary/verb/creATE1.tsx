@@ -402,8 +402,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the arTIStic creAtion from the LOcal deSIGNer imPRESSED the AUdience.</li>
-          <li className="margin-bottom-20 list-none">The audience was impressed by the artistic creation of the local designer.</li>
+          <li>the arTIStic creAtion from the LOcal deSIGNer <span className="pill-teal">imPRESSED</span> the AUdience.</li>
+          <li className="margin-bottom-20 list-none">The audience <span className="pill-teal">was impressed</span> by the artistic creation of the local designer.</li>
           
           <li className="list-none margin-bottom-10">External block: [The artistic creation from the local designer] - [Noun Phrase Subject] of [Transitive Verb] in the [Preterite Form] "imPRESSED" in the [Main Clause], serving as the identifying element at the beginning of the sentence.</li>
           
@@ -422,8 +422,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIres a creAtive TEAM.</li>
-          <li className="margin-bottom-20 list-none">Every company that designs products for a living needs a creative team.</li>
+          <li><strong>ever</strong>y PROduct deSIGN dePARTment <span className="pill-teal">reQUIres</span> a creAtive TEAM.</li>
+          <li className="margin-bottom-20 list-none">Every company that <span className="pill-teal">designs</span> products for a living <span className="pill-teal">needs</span> a creative team.</li>
       
           <li className="list-none margin-bottom-10">External block: [a creative team] - [Noun Phrase as a Complement] of [Transitive Verb] in the [3rd Singular Present Form] "reQUIres" in the [Main Clause].</li>
           
@@ -438,8 +438,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the ARtist SOLVED the PROBlem creAtively during the PROject.</li>
-          <li className="margin-bottom-20 list-none">The artist used creative thinking to solve the problem while working on the project.</li>
+          <li>the ARtist <span className="pill-teal">SOLVED</span> the PROBlem creAtively during the PROject.</li>
+          <li className="margin-bottom-20 list-none">The artist <span className="pill-teal">used</span> creative thinking to <span className="pill-teal">solve</span> the problem while <span className="pill-teal">working</span> on the project.</li>
 
           <li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
@@ -462,8 +462,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>creAting MODern DIGital soLUtions reQUIres DEEP TECHnical KNOWledge.</li>
-          <li className="margin-bottom-20 list-none">Making modern digital solutions requires a lot of technical knowledge.</li>
+          <li><span className="pill-teal">creAting</span> MODern DIGital soLUtions <span className="pill-teal">reQUIres</span> DEEP TECHnical KNOWledge.</li>
+          <li className="margin-bottom-20 list-none"><span className="pill-teal">Making</span> modern digital solutions <span className="pill-teal">requires</span> a lot of technical knowledge.</li>
       
           <li className="list-none margin-bottom-10">External block: [Creating modern digital solutions] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "reQUIres" in the [Main Clause], serving as the main topic at the beginning of the sentence. Essentially, it is a [Gerund-Participle Clause] formed from the [Gerund-Participle Form] "creating", which incorporates an extended data section following it.</li>
           
@@ -479,8 +479,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the STARTup TEAM priORitized creAting enGAging User CONtent.</li>
-          <li className="margin-bottom-20 list-none">The startup team decided that making interesting content for users was the most important thing to do.</li>
+          <li>the STARTup TEAM <span className="pill-teal">priORitized creAting</span> enGAging User CONtent.</li>
+          <li className="margin-bottom-20 list-none">The startup team <span className="pill-teal">decided</span> that <span className="pill-teal">making</span> interesting content for users <span className="pill-teal">was</span> the most important thing to <span className="pill-teal">do.</span></li>
       
           <li className="list-none margin-bottom-10">External block: [creating engaging user content] - [Non-finite Clause as a Catenaive Complement] of [Transitive Verb] in the [Preterite Form] "prioritized" in the [Main Clause] directly addresses the target. Essentially, it is a [Gerund-Participle Clause] formed from the [Gerund-Participle Form] "creating", with an additional extended data segment appended to it.</li>
           
@@ -495,8 +495,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>to creATE susTAINable ENergy SYStems is the founDAtion's MAIN GOAL.</li>
-          <li className="margin-bottom-20 list-none">The foundation's main goal is to create and maintain energy systems that last.</li>
+          <li>to <span className="pill-teal">creATE</span> susTAINable ENergy SYStems <span className="pill-teal">is</span> the founDAtion's MAIN GOAL.</li>
+          <li className="margin-bottom-20 list-none">The foundation's main goal <span className="pill-teal">is</span> to <span className="pill-teal">create</span> and <span className="pill-teal">maintain</span> energy systems that <span className="pill-teal">last.</span></li>
       
           <li className="list-none margin-bottom-10">External block: [To create sustainable energy systems] - [Non-finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause] to identify the subject at the beginning of the sentence. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "create ..." and supplemented by additional data following it.</li>
           
@@ -511,10 +511,10 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the COMpany aims to creATE INnovative PROducts for conSUmers.</li>
-          <li className="margin-bottom-20 list-none">The company's goal is to create new and innovative products for consumers.</li>
+          <li>the COMpany <span className="pill-teal">AIMS</span> to <span className="pill-teal">creATE</span> INnovative PROducts for conSUmers.</li>
+          <li className="margin-bottom-20 list-none">The company's goal <span className="pill-teal">is</span> to <span className="pill-teal">create</span> new and innovative products for consumers.</li>
       
-          <li className="list-none margin-bottom-10">External block: [to create innovative products for consumers] - [Non-finite Clause as a Catenaive Complement] of [catenaive verb] in the [3rd Singular Present Form] "aims" in the [Main Clause]. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "create ...", with an additional extended data segment appended afterward.</li>
+          <li className="list-none margin-bottom-10">External block: [to create innovative products for consumers] - [Non-finite Clause as a Catenaive Complement] of [catenaive verb] in the [3rd Singular Present Form] "AIMS" in the [Main Clause]. Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "creATE ...", with an additional extended data segment appended afterward.</li>
           
           <li className="list-none margin-bottom-10">Inner block: [innovative products for consumers] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Form] "creATE." The phrase "for conSUmers" inside is a [Preposition Phrase as a Post-modifier] of [Noun as Head] "PROducts."</li>
       
@@ -527,8 +527,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>it is esSENtial to creATE STRONG seCUrity PROtocols.</li>
-          <li className="margin-bottom-20 list-none">Creating strong security protocols is essential.</li>
+          <li>it <span className="pill-teal">is</span> esSENtial to <span className="pill-teal">creATE</span> STRONG seCUrity PROtocols.</li>
+          <li className="margin-bottom-20 list-none"><span className="pill-teal">Creating</span> strong security protocols <span className="pill-teal">is</span> essential.</li>
       
           <li className="list-none margin-bottom-10">External block: [to create strong security protocols] - [Non-finite Clause as an Exposed Subject] of [Copular Intransitive Verb] in the [3rd singular present "be" form] "is" in the [Main Clause], modifying the [dummy pronoun] "it." Essentially, it is a [To-infinitive Clause] composed of the [Infinitive Marker] "to" combined with the [Verb Phrase] "create ...", with an additional data segment appended afterward.</li>
           
@@ -546,8 +546,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the engiNEER creAting the CORE SOFTware FOUND an efFIcient MEthod.</li>
-          <li className="margin-bottom-20 list-none">The engineer discovered a quick and effective method to make the core software.</li>
+          <li>the engiNEER <span className="pill-teal">creAting</span> the CORE SOFTware <span className="pill-teal">FOUND</span> an efFIcient MEthod.</li>
+          <li className="margin-bottom-20 list-none">The engineer <span className="pill-teal">discovered</span> a quick and effective method to <span className="pill-teal">make</span> the core software.</li>
       
           <li className="list-none margin-bottom-10">External block: [The engineer creating the core software] - [Noun Phrase as Subject] of [Transitive Verb] in the [Preterite Form] "FOUND" in the [Main Clause].</li>
           
@@ -563,8 +563,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the ARchitect to creATE the BUILDing BLUEprints has been apPOINted.</li>
-          <li className="margin-bottom-20 list-none">The person who will design the building has been chosen.</li>
+          <li>the ARchitect to <span className="pill-teal">creATE</span> the BUILDing BLUEprints <span className="pill-teal">has been apPOINted.</span></li>
+          <li className="margin-bottom-20 list-none">The person who <span className="pill-teal">will design</span> the building <span className="pill-teal"></span>has been chosen.</li>
       
           <li className="list-none margin-bottom-10">External block: [The architect to create the building blueprints] - [Noun Phrase as Subject] of the action [Verb Phrae as Prediate] "has been appointed" in [Main Clause]. In this case, the [Non-modal Auxiliary Verb] “has” is the [primary verb as predicate] functioning as a [finite form], while “been appointed” is the accompanying [Non-finite Form], and “[transitive verb] ‘appointed’” is the main verb.</li>
           
@@ -579,8 +579,8 @@ export default function creATE1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the ARTwork to be creAted by the MASter will be exHIBited toMORrow.</li>
-          <li className="margin-bottom-20 list-none">The artwork that the master is making will be on display tomorrow.</li>
+          <li>the ARTwork to <span className="pill-teal">be creAted</span> by the MASter <span className="pill-teal">will be exHIBited</span> toMORrow.</li>
+          <li className="margin-bottom-20 list-none">The artwork that the master <span className="pill-teal">is making</span> <span className="pill-teal">will be</span> on display tomorrow.</li>
       
           <li className="list-none margin-bottom-10">External block: [The artwork to be created by the master] - [Noun Phrase as Subject] functions as the subject of [PREDICATOR] "will be exhibited." In this case, "will" is a [modal auxiliary verb as predicate] that is [finite], while "be exhibited" is a [Non-finite Form] that accompanies it.</li>
           

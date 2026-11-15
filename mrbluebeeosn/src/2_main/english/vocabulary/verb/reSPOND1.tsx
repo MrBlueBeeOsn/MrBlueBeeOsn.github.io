@@ -401,8 +401,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
       
-          <li>the RAPid reSPONSE from the supPORT TEAM imPRESSED the CUStomers.</li>
-          <li className="margin-bottom-20 list-none">The customers were impressed by the team's quick response.</li>
+          <li>the RAPid reSPONSE from the supPORT TEAM <span className="pill-teal">imPRESSED</span> the CUStomers.</li>
+          <li className="margin-bottom-20 list-none">The customers <span className="pill-teal">were impressed</span> by the team's quick response.</li>
           
           <li className="list-none margin-bottom-10">External block: [The rapid response from the support team] - [Noun Phrase Subject] of [Transitive Verb] in the [Preterite Form] "imPRESSED" in the [Main Clause] - serves as the identifying element at the beginning of the sentence.</li>
           
@@ -421,8 +421,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>ever</strong>y CUStomer SERvice dePARTment reQUIres a reSPONsive TEAM.</li>
-					<li className="margin-bottom-20 list-none">Each Customer Service department needs a team that is able to respond quickly.</li>
+					<li><strong>ever</strong>y CUStomer SERvice dePARTment <span className="pill-teal">reQUIres</span> a reSPONsive TEAM.</li>
+					<li className="margin-bottom-20 list-none">Each Customer Service department <span className="pill-teal">needs</span> a team that <span className="pill-teal">is</span> able to <span className="pill-teal">respond</span> quickly.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [a responsive team] - [Noun Phrase as a Complement] of [Transitive Verb] in the [3rd Singular Present Form] "reQUIres" in the [Main Clause].</li>
 
@@ -437,8 +437,9 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the SYStem SOLVED the QUEry reSPONsively during the TEST.</li>
-					<li className="margin-bottom-20 list-none">The system answered the query quickly during the test.</li>
+					<li>the SYStem <span className="pill-teal">SOLVED</span> the QUEry reSPONsively during the TEST.</li>
+					<li className="margin-bottom-20 list-none">The system <span className="pill-teal"></span> the query quickly during the test.</li>
+					<li className="margin-bottom-20 list-none">The system <span className="pill-teal"></span> the query quickly during the test.</li>
 					
 					<li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
@@ -461,8 +462,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>reSPONDing QUICKly to eMERgency CALLS reQUIres PROPer prepaRAtion.</li>
-					<li className="margin-bottom-20 list-none">It's important to be ready for emergency calls.</li>
+					<li><span className="pill-teal">reSPONDing</span> QUICKly to eMERgency CALLS <span className="pill-teal">reQUIres</span> PROPer prepaRAtion.</li>
+					<li className="margin-bottom-20 list-none">It<span className="pill-teal">'s</span> important to <span className="pill-teal">be</span> ready for emergency calls.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [Responding quickly to emergency calls] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "reQUIres" in the [Main Clause], handling a major task at the beginning of the sentence. Essentially, it is a [Gerund-Participle Clause] formed from the [Gerund-Participle Form] “reSPONDing,” with additional information appended afterward.</li>
 					
@@ -477,8 +478,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the supPORT TEAM priORitized reSPONDing to USer FEEDback.</li>
-					<li className="margin-bottom-20 list-none">The support team made responding to user feedback their top priority.</li>
+					<li>the supPORT TEAM <span className="pill-teal">priORitized</span> <span className="pill-teal">reSPONDing</span> to USer FEEDback.</li>
+					<li className="margin-bottom-20 list-none">The support team <span className="pill-teal">made</span> <span className="pill-teal">responding</span> to user feedback their top priority.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [responding to user feedback] - [Non-finite Clause as Catenative Complement] of [Transitive Verb] in [Preterite Form] "priORitized" in the [Main Clause] directly addresses the target. Essentially, it is a [Gerund-Participle Clause] formed from the [Gerund-Participle Form] "reSPONDing", with an additional extended data segment appended to it.</li>
 
@@ -493,8 +494,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>to reSPOND efFECTively in CRIsis situAtions is the TEAM's MAIN GOAL.</li>
-					<li className="margin-bottom-20 list-none">The team's main goal is to respond effectively to crisis situations.</li>
+					<li>to <span className="pill-teal">reSPOND</span> efFECTively in CRIsis situAtions <span className="pill-teal">is</span> the TEAM's MAIN GOAL.</li>
+					<li className="margin-bottom-20 list-none">The team's main goal <span className="pill-teal">is</span> to <span className="pill-teal">respond</span> effectively to crisis situations.</li>
 
 					<li className="list-none margin-bottom-10">External block: [To respond effectively in crisis situations] - [Non-finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause] to identify the subject at the beginning of the sentence. Essentially, it is a [To-infinitive Clause] formed by the [Infinitive Marker] "to" combined with the [Verb Phrase] "respond ...". In this case, "effectively" is an [adverb phrase as an adjunct] to the [Plain Form] verb "respond" and incorporates additional information following it.</li>
 			
@@ -509,8 +510,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the SYStem AIMS to reSPOND autoMATically to NETwork eVENTS.</li>
-					<li className="margin-bottom-20 list-none">The system is designed to respond automatically to network events.</li>
+					<li>the SYStem <span className="pill-teal">AIMS</span> to <span className="pill-teal">reSPOND</span> autoMATically to NETwork eVENTS.</li>
+					<li className="margin-bottom-20 list-none">The system <span className="pill-teal">is designed</span> to <span className="pill-teal">respond</span> automatically to network events.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [to respond effectively in crisis situations] - [Non-finite Clause as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause] to identify the subject at the beginning of the sentence. Essentially, it is a [To-infinitive Clause] formed by the [Infinitive Marker] "to" combined with the [Verb Phrase] "respond ...". In this case, "effectively" is an [adverb phrase as an adjunct] to the [Plain Form] verb "respond" and incorporates additional information following it.</li>
 					
@@ -525,8 +526,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>it is esSENtial to reSPOND QUICKly to CUStomer comPLAINts.</li>
-					<li className="margin-bottom-20 list-none">You have to answer customer complaints right away.</li>
+					<li>it <span className="pill-teal">is</span> esSENtial to <span className="pill-teal">reSPOND</span> QUICKly to CUStomer comPLAINts.</li>
+					<li className="margin-bottom-20 list-none">You <span className="pill-teal">have</span> to <span className="pill-teal">answer</span> customer complaints right away.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [to reSPOND QUICKly to CUStomer comPLAINts] - [Non-finite Clause as Extraposed Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause], modifying the [DUMmy PROnoun] "it". Essentially, it is a [To-infinitive Clause] formed by the [Infinitive Marker] "to" combined with the [Verb Phrase] "respond ...", with an additional extended data segment appended afterward.</li>
 					
@@ -544,8 +545,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the Agent reSPONDing to the CRIsis FOUND an efFECtive soLUtion.</li>
-					<li className="margin-bottom-20 list-none">The agent who was dealing with the crisis found a good solution.</li>
+					<li>the Agent <span className="pill-teal">reSPONDing</span> to the CRIsis <span className="pill-teal">FOUND</span> an efFECtive soLUtion.</li>
+					<li className="margin-bottom-20 list-none">The agent who <span className="pill-teal">was dealing with</span> the crisis <span className="pill-teal">found</span> a good solution.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [The agent responding to the crisis] - [Noun Phrase Subject] of [Transitive Verb] in the [Preterite Form] "FOUND" in [Main Clause].</li>
 					
@@ -560,8 +561,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the OFficer to reSPOND to the inQUIRy has been asSIGNED.</li>
-					<li className="margin-bottom-20 list-none">The officer who will answer the question has been chosen.</li>
+					<li>the OFficer to <span className="pill-teal">reSPOND</span> to the inQUIRy <span className="pill-teal">has been asSIGNED.</span></li>
+					<li className="margin-bottom-20 list-none">The officer who <span className="pill-teal">will answer</span> the question <span className="pill-teal">has been chosen.</span></li>
 			
 					<li className="list-none margin-bottom-10">External block: [The officer to respond to the inquiry] - [Noun Phrase as Subject] of the action [Verb Phrae as Prediate] "has been assigned" in [Main Clause]. In this case, the [Non-modal Auxiliary Verb] "has" is the [primary verb as predicate] functioning as a [finite form], while "been assigned" is the accompanying [Non-finite Form], and [Transitive Verb] "assigned."</li>
 					
@@ -576,8 +577,8 @@ export default function reSPOND1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the Email to be reSPONDed to by the MANager will be SENT toMORrow.</li>
-					<li className="margin-bottom-20 list-none">The manager will receive an email tomorrow that needs to be answered.</li>
+					<li>the Email to <span className="pill-teal">be reSPONDed</span> to by the MANager <span className="pill-teal">will be SENT</span> toMORrow.</li>
+					<li className="margin-bottom-20 list-none">The manager <span className="pill-teal">will receive</span> an email tomorrow that <span className="pill-teal">needs</span> to <span className="pill-teal">be answered.</span></li>
 			
 					<li className="list-none margin-bottom-10">External block: [The email to be replied to by the manager] - [Noun Phrase as Subject] of the action [Verb Phrae as Prediate] "will be SENT" in [Main Clause]. In this case, the [primary predicate] "will" is a [modal auxiliary verb as predicate] that is [finite], while the [secondary predicate] "be sent" consists of accompanying [Non-finite Form]s and the [Transitive Verb] "sent."</li>
 					

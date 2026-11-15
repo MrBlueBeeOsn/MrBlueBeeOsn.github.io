@@ -401,8 +401,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the CLARity of this inSTRUCTion HELPED EVERyone.</li>
-          <li className="margin-bottom-20 list-none">The instructions were easy to understand, which helped everyone.</li>
+          <li>the CLARity of this inSTRUCTion <span className="pill-teal">HELPED</span> EVERyone.</li>
+          <li className="margin-bottom-20 list-none">The instructions <span className="pill-teal">were</span> easy to <span className="pill-teal">understand</span>, which <span className="pill-teal">helped</span> everyone.</li>
           
           <li className="list-none margin-bottom-10">External block: [The clarity of this instruction] - [Noun Phrase Subject] of the action [Preterite Form] "HELPED" in [Main Clause], serving as the opening element of the entire main clause.</li>
           
@@ -417,8 +417,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we NEED a CLEAR explaNAtion.</li>
-          <li className="margin-bottom-20 list-none">We need an explanation that is easy to understand.</li>
+          <li>we <span className="pill-teal">NEED</span> a CLEAR explaNAtion.</li>
+          <li className="margin-bottom-20 list-none">We <span className="pill-teal">need</span> an explanation that <span className="pill-teal">is</span> easy to <span className="pill-teal">understand.</span></li>
       
           <li className="list-none margin-bottom-10">External block: [a clear explanation] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Plain Present Form] "NEED" in the [Main Clause].</li>
           
@@ -433,8 +433,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>she exPLAINED the PROCess CLEARly.</li>
-          <li className="margin-bottom-20 list-none">She explained the process in a way that was easy to understand.</li>
+          <li>she <span className="pill-teal">exPLAINED</span> the PROCess CLEARly.</li>
+          <li className="margin-bottom-20 list-none">She <span className="pill-teal">explained</span> the process in a way that <span className="pill-teal">was</span> easy to <span className="pill-teal">understand.</span></li>
       
           <li className="list-none margin-bottom-10"><strong>Parallel block</strong>:</li>
 
@@ -456,8 +456,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>CLEARing the BROWser HISTORy imPROVES security.</li>
-          <li className="margin-bottom-20 list-none">Clearing your browsing history helps keep your information more secure.</li>
+          <li><span className="pill-teal">CLEARing</span> the BROWser HISTORy <span className="pill-teal">imPROVES</span> security.</li>
+          <li className="margin-bottom-20 list-none"><span className="pill-teal">Clearing</span> your browsing history <span className="pill-teal">helps keep</span> your information more secure.</li>
       
           <li className="list-none margin-bottom-10">External block: [Clearing the browser history] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "imPROVES" in the [Main Clause]. Essentially, it is a [Gerund-Participle Clause] containing a [Gerund-Participle Form] with the suffix "-ing", expanding into a complex action code zone comprising the action of clearing, the recipient, and accompanying characteristics.</li>
           
@@ -472,8 +472,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the IT TEAM FINished CLEARing OLD DAtabase FILES.</li>
-          <li className="margin-bottom-20 list-none">The IT team deleted old database files.</li>
+          <li>the IT TEAM <span className="pill-teal">FINished CLEARing</span> OLD DAtabase FILES.</li>
+          <li className="margin-bottom-20 list-none">The IT team <span className="pill-teal">deleted</span> old database files.</li>
       
           <li className="list-none margin-bottom-10">External block: [clearing old database files] - [Non-finite Clause as a Catative Complement] of [Intransitive Catative Verb] in the [Preterite Form] "FINished" in the [Main Clause]. Essentially, this is a [Gerund-Participle Clause] containing the [Gerund-Participle Form] "CLEARing", which expands into a complex action code comprising the action of cleaning, the recipient object, and accompanying characteristics.</li>
           
@@ -490,8 +490,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the WORKer CLEARing the ROAD BLOCK WORE a VEST.</li>
-          <li className="margin-bottom-20 list-none">The person working to clear the roadblock was wearing a vest.</li>
+          <li>the WORKer <span className="pill-teal">CLEARing</span> the ROAD BLOCK <span className="pill-teal">WORE</span> a VEST.</li>
+          <li className="margin-bottom-20 list-none">The person <span className="pill-teal">working</span> to <span className="pill-teal">clear</span> the roadblock <span className="pill-teal">was wearing</span> a vest.</li>
       
           <li className="list-none margin-bottom-10">External block: [The worker clearing the road block] - [Noun Phrase Subject] of [Transitive Verb] in the [Preterite Form] "WORE" in the [Main Clause]. In this case, "WORE" is a [Lexical Verb as Predicator] functioning as a [FInite].</li>
           
@@ -506,8 +506,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the STAFF MEMber to CLEAR the MEETing ROOM is outSIDE.</li>
-          <li className="margin-bottom-20 list-none">The staff member who is responsible for clearing the meeting room is waiting outside.</li>
+          <li>the STAFF MEMber to <span className="pill-teal">CLEAR</span> the MEETing ROOM <span className="pill-teal">is</span> outSIDE.</li>
+          <li className="margin-bottom-20 list-none">The staff member who <span className="pill-teal">is</span> responsible for <span className="pill-teal">clearing</span> the meeting room <span className="pill-teal">is waiting</span> outside.</li>
       
           <li className="list-none margin-bottom-10">External block: [the staff member to clear the meeting room] - [Noun Phrase as Subject] of [Copular Intransitive Verb] in the [3rd Singular Present Form of "Be"] "is" in the [Main Clause].</li>
           
@@ -522,8 +522,8 @@ export default function CLEAR1(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the LAND to be CLEARED NEXT MONTH beLONGS to the CITy.</li>
-          <li className="margin-bottom-20 list-none">The land that will be cleared next month is owned by the city.</li>
+          <li>the LAND to <span className="pill-teal">be CLEARED</span> NEXT MONTH <span className="pill-teal">beLONGS</span> to the CITy.</li>
+          <li className="margin-bottom-20 list-none">The land that <span className="pill-teal">will be cleared</span> next month <span className="pill-teal">is owned</span> by the city.</li>
       
           <li className="list-none margin-bottom-10">External block: [the land to be cleared next month] - [Noun Phrase as Subject] of [Intransitive Verb] in the [3rd Singular Present Form] "beLONGS" in the [Main Clause]. In this case, "beLONGS" is the [Primary Verb as Predicate] serving as the [Finite].</li>
           
