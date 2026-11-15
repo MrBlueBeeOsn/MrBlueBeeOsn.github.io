@@ -1027,8 +1027,8 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>reSPONDing PROMPTly to CLIent QUEries reQUIres proFESsional communiCAtion.</li>
-					<li className="margin-bottom-20 list-none">It's important to respond to client queries quickly. This requires professional communication.</li>
+					<li><span className="pill-teal">reSPONDing</span> PROMPTly to CLIent QUEries <span className="pill-teal">reQUIres</span> proFESsional communiCAtion.</li>
+					<li className="margin-bottom-20 list-none">It<span className="pill-teal">'s</span> important to <span className="pill-teal">respond</span> to client queries quickly. This <span className="pill-teal">requires</span> professional communication.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [Responding promptly to client queries] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "reQUIres" in the [Main Clause], to handle a major task at the beginning of the sentence. Essentially, it is a [Gerund-Participle Clause] composed of the [Gerund-Participle Form] "reSPONDing" and its accompanying object.</li>
 					
@@ -1045,8 +1045,8 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>ANswering CUStomer reQUESTS efFICiently reQUIres proFESsional communiCAtion.</li>
-					<li className="margin-bottom-20 list-none">Answering customer requests requires effective communication from professionals.</li>
+					<li><span className="pill-teal">ANswering</span> CUStomer reQUESTS efFICiently <span className="pill-teal">reQUIres</span> proFESsional communiCAtion.</li>
+					<li className="margin-bottom-20 list-none"><span className="pill-teal">Answering</span> customer requests <span className="pill-teal">requires</span> effective communication from professionals.</li>
 			
 					<li className="list-none margin-bottom-10">New external block: [Answering customer requests efficiently] - [Non-finite Clause as Subject] of [Transitive Verb] in the [3rd Singular Present Form] "reQUIres" in the [Main Clause]. Essentially, this is a [Gerund-Participle Clause] composed of a continuous action in the [Gerund-Participle Form] "answering" along with an expanded data sequence inserted in its place.</li>
 					
@@ -1063,8 +1063,8 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the COMpany imPROVED satisFACtion by reSPONDing QUICKly to supPORT TICKets.</li>
-					<li className="margin-bottom-20 list-none">The company made customers happier by responding faster to their support tickets.</li>
+					<li>the COMpany <span className="pill-teal">imPROVED</span> satisFACtion by <span className="pill-teal">reSPONDing</span> QUICKly to supPORT TICKets.</li>
+					<li className="margin-bottom-20 list-none">The company <span className="pill-teal">made</span> customers happier by <span className="pill-teal">responding</span> faster to their support tickets.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [satisfaction] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "imPROVED" in the [Main Clause].</li>
 					
@@ -1083,8 +1083,8 @@ export default function reSPOND(): React.JSX.Element {
 			 
 				<ul className="list-square">
 			
-					<li>the COMpany imPROVED satisFACtion be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets.</li>
-					<li className="margin-bottom-20 list-none">The company's satisfaction levels increased because the team answered the support tickets quickly.</li>
+					<li>the COMpany <span className="pill-teal">imPROVED</span> satisFACtion be<strong>cause</strong> the TEAM <span className="pill-teal">reSPONDED</span> QUICKly to <span className="pill-teal">supPORT</span> TICKets.</li>
+					<li className="margin-bottom-20 list-none">The company's satisfaction levels <span className="pill-teal">increased</span> because the team <span className="pill-teal">answered</span> the support tickets quickly.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [satisfaction] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "imPROVED" in the [Main Clause].</li>
 					
@@ -1097,8 +1097,8 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the FIRM HIred a SERvice which reSPONDS to SYStem ISsues autoMATically.</li>
-					<li className="margin-bottom-20 list-none">The firm used a service that automatically responds to system issues.</li>
+					<li>the FIRM <span className="pill-teal">HIred</span> a SERvice which <span className="pill-teal">reSPONDS</span> to SYStem ISsues autoMATically.</li>
+					<li className="margin-bottom-20 list-none">The firm <span className="pill-teal">used</span> a service that automatically <span className="pill-teal">responds</span> to system issues.</li>
 			
 					<li className="list-none margin-bottom-10">External block: [a service that responds to system issues automatically] - a [Noun Phrase as a Complement] of a [Transitive Verb] in the [past tense] "hired" in the [Main Clause].</li>
 
@@ -1111,8 +1111,8 @@ export default function reSPOND(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the FIRM HIred a reSPONsive SERvice.</li>
-					<li className="margin-bottom-20 list-none">The firm hired a service that responds quickly.</li>
+					<li>the FIRM <span className="pill-teal">HIred</span> a reSPONsive SERvice.</li>
+					<li className="margin-bottom-20 list-none">The firm <span className="pill-teal">hired</span> a service that <span className="pill-teal">responds</span> quickly.</li>
 			
 					<li className="list-none margin-bottom-10">New external block: [a responsive service] - [Noun Phrase as a Complement] of [Transitive Verb] in the [Preterite Form] "Hired" in the [Main Clause].</li>
 					
