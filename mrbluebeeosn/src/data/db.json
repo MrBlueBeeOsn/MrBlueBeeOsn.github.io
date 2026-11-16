@@ -287,50 +287,6 @@
       "likes": 0
     },
     {
-      "id": "PrimaryAuxiliaryVerbsQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Primary Auxiliary Verbs Quiz",
-      "slug": "english/primary-auxiliary-verbs-quiz",
-      "date": "2026-03-26",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "SingularPluralVerbsQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Singular and Plural Verbs Quiz",
-      "slug": "english/singular-and-plural-verbs-quiz",
-      "date": "2026-03-29",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "SingularPluralNounsQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Singular and Plural Nouns Quiz",
-      "slug": "english/singular-and-plural-nouns-quiz",
-      "date": "2026-03-29",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "prepositionsQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Prepositions Quiz",
-      "slug": "english/prepositions-quiz",
-      "date": "2026-03-29",
-      "views": 0,
-      "likes": 0
-    },
-    {
       "id": "SAndEsInNounsVerbsQuiz",
       "categoryDisplay": "English",
       "categorySlug": "english",
@@ -650,17 +606,6 @@
       "likes": 0
     },
     {
-      "id": "TheLexicalVerbREAD",
-      "categoryDisplay": "Grammar",
-      "categorySlug": "grammar",
-      "title": "The Lexical Verb READ",
-      "content": "The Morphological Framework of CGEL 2002: Understanding \"Forms\" and Syncretism in the Paradigm of Read",
-      "slug": "grammar/lexical-verb-READ",
-      "date": "2026-09-27",
-      "views": 0,
-      "likes": 0
-    },
-    {
       "id": "Cambridge2002Framework",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
@@ -734,6 +679,127 @@
       "content": "A Comprehensive Guide to English Tenses",
       "slug": "grammar/tenses-chart",
       "date": "2026-11-09",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "VerbForms",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Verb Forms",
+      "content": "The Complete Guide to the 5 Verb Forms in English (V1 – V5)",
+      "slug": "grammar/verb-forms",
+      "date": "2026-11-16",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "VerbForms",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Verb Forms 01-10",
+      "content": "Test your knowledge of verb forms with this quiz! Challenge yourself and see how well you know the different forms of verbs in English.",
+      "slug": "grammar/verb-forms-01-10",
+      "date": "2026-11-16",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "ENPrimaryAuxiliaryVerbsQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "EN Primary Auxiliary Verbs Quiz",
+      "content": "Test your knowledge of primary auxiliary verbs with this quiz! Challenge yourself and see how well you know the different forms of primary auxiliary verbs in English.",
+      "slug": "grammar/en-primary-auxiliary-verbs-quiz",
+      "date": "2026-03-26",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVAuxiliaryVerbsQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "EV Auxiliary Verbs Quiz",
+      "content": "Test your knowledge of auxiliary verbs with this quiz! Challenge yourself and see how well you know the different forms of auxiliary verbs in English.",
+      "slug": "grammar/ev-auxiliary-verbs-quiz",
+      "date": "2026-03-25",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVPrimaryAuxiliaryVerbsQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "EV Primary Auxiliary Verbs Quiz",
+      "content": "Test your knowledge of primary auxiliary verbs with this quiz! Challenge yourself and see how well you know the different forms of primary auxiliary verbs in English.",
+      "slug": "grammar/ev-primary-auxiliary-verbs-quiz",
+      "date": "2026-03-26",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "SingularPluralVerbsQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Singular and Plural Verbs Quiz",
+      "slug": "english/singular-and-plural-verbs-quiz",
+      "date": "2026-03-29",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "SingularPluralNounsQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Singular and Plural Nouns Quiz",
+      "slug": "english/singular-and-plural-nouns-quiz",
+      "date": "2026-03-29",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "prepositionsQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Prepositions Quiz",
+      "slug": "english/prepositions-quiz",
+      "date": "2026-03-29",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVSingularPluralVerbsQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "EV Singular Plural Verbs Quiz",
+      "content": "Singular Plural Verbs",
+      "slug": "grammar/ev-singular-and-plural-verbs-quiz",
+      "date": "2026-03-29",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVSingularPluralNounsQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "EV Singular Plural Nouns Quiz",
+      "content": "Singular Plural Nouns",
+      "slug": "grammar/ev-singular-and-plural-nouns-quiz",
+      "date": "2026-03-29",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVprepositionsQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "EV prepositions Quiz",
+      "content": "Prepositions",
+      "slug": "grammar/ev-prepositions-quiz",
+      "date": "2026-03-29",
       "views": 0,
       "likes": 0
     },
@@ -1229,61 +1295,6 @@
       "content": "Trắc Nghiệm Subject-Verb Agreement (SVA) là một phần quan trọng trong việc học ngữ pháp tiếng Anh. SVA đảm bảo rằng danh chủ và hành động trong câu phải phù hợp về số lượng (số ít hoặc số nhiều). Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
       "slug": "tieng-anh/ev-subject-verb-quiz",
       "date": "2026-03-20",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "EVAuxiliaryVerbsQuiz",
-      "categoryDisplay": "Tiếng Anh",
-      "categorySlug": "tieng-anh",
-      "title": "Trắc Nghiệm Auxiliary Verbs",
-      "content": "Trắc Nghiệm Auxiliary Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững các hành động phụ trợ giúp bạn xây dựng câu đúng và giao tiếp hiệu quả hơn.",
-      "slug": "tieng-anh/ev-auxiliary-verbs-quiz",
-      "date": "2026-03-25",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "EVPrimaryAuxiliaryVerbsQuiz",
-      "categoryDisplay": "Tiếng Anh",
-      "categorySlug": "tieng-anh",
-      "title": "Trắc Nghiệm Primary Auxiliary Verbs",
-      "content": "Trắc Nghiệm Primary Auxiliary Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững các hành động phụ trợ giúp bạn xây dựng câu đúng và giao tiếp hiệu quả hơn.",
-      "slug": "tieng-anh/ev-primary-auxiliary-verbs-quiz",
-      "date": "2026-03-26",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "EVSingularPluralVerbsQuiz",
-      "categoryDisplay": "Tiếng Anh",
-      "categorySlug": "tieng-anh",
-      "title": "Trắc Nghiệm Singular and Plural Verbs",
-      "content": "Trắc Nghiệm Singular and Plural Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
-      "slug": "tieng-anh/ev-singular-and-plural-verbs-quiz",
-      "date": "2026-03-29",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "EVSingularPluralNounsQuiz",
-      "categoryDisplay": "Tiếng Anh",
-      "categorySlug": "tieng-anh",
-      "title": "Trắc Nghiệm Singular and Plural Nouns",
-      "content": "Trắc Nghiệm Singular and Plural Nouns là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
-      "slug": "tieng-anh/ev-singular-and-plural-nouns-quiz",
-      "date": "2026-03-29",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "EVprepositionsQuiz",
-      "categoryDisplay": "Tiếng Anh",
-      "categorySlug": "tieng-anh",
-      "title": "Trắc Nghiệm Prepositions",
-      "content": "Trắc Nghiệm Prepositions là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
-      "slug": "tieng-anh/ev-prepositions-quiz",
-      "date": "2026-03-29",
       "views": 0,
       "likes": 0
     },
@@ -4192,7 +4203,7 @@
       "likes": 0
     },
     {
-      "id": "CLEAR",
+      "id": "CLEAR1",
       "categoryDisplay": "Làm rõ",
       "categorySlug": "vocabulary#verbs-terms",
       "title": "CLEAR",
@@ -4203,7 +4214,7 @@
       "likes": 0
     },
     {
-      "id": "reSPOND",
+      "id": "reSPOND1",
       "categoryDisplay": "Phản hồi",
       "categorySlug": "vocabulary#verbs-terms",
       "title": "reSPOND",
@@ -4214,13 +4225,24 @@
       "likes": 0
     },
     {
-      "id": "creATE",
+      "id": "creATE1",
       "categoryDisplay": "Tạo ra",
       "categorySlug": "vocabulary#verbs-terms",
       "title": "creATE",
       "content": "creATE] is a [Root Verb Base] that means to bring something into existence, or to cause something to happen. [creATE] là một [Rễ Động Cơ \\Root Verb Base] có nghĩa là tạo ra, sáng tạo, hoặc làm cho một điều gì đó xuất hiện.",
       "slug": "vocabulary/creATE",
       "date": "2026-07-07",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "READ1",
+      "categoryDisplay": "Đọc",
+      "categorySlug": "vocabulary#verbs-terms",
+      "title": "READ",
+      "content": "The Morphological Framework of CGEL 2002: Understanding \"Forms\" and Syncretism in the Paradigm of Read",
+      "slug": "grammar/lexical-verb-READ",
+      "date": "2026-09-27",
       "views": 0,
       "likes": 0
     },
