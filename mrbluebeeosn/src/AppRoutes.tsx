@@ -150,6 +150,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// Tenses
 	const EnglishTensesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/tenses/EnglishTensesQuiz'));
+
+	// Verb Forms 0110
+	const VerbForms0110 = lazy(() => import('@/2_main/english/grammar/quiz/forms/VerbForms0110'));
 	
 	// 3. Pronunciation
 	const PronunciationIndex = lazy(() => import('@/2_main/english/_indexes/PronunciationIndex'));
@@ -804,6 +807,9 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* Tenses */}
 					<Route path="/grammar/english-tenses-quiz" element={<EnglishTensesQuiz />} />
+
+					{/* Verb Forms */}
+					<Route path="/grammar/verb-forms-01-10" element={<VerbForms0110 />} />
 					
 					{/* 3. Pronunciation */}
 					<Route path="/pronunciation" element={<PronunciationIndex />} />

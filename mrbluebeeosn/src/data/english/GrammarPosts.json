@@ -242,6 +242,15 @@
       "content": "The Complete Guide to the 5 Verb Forms in English (V1 – V5)",
       "slug": "grammar/verb-forms",
       "date": "2026-11-16"
+    },
+    { 
+      "id": "VerbForms",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Verb Forms 01-10",
+      "content": "Test your knowledge of verb forms with this quiz! Challenge yourself and see how well you know the different forms of verbs in English.",
+      "slug": "grammar/verb-forms-01-10",
+      "date": "2026-11-16"
     }
   ]
 }
