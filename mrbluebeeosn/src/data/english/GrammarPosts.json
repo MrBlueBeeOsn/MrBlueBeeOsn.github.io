@@ -278,6 +278,60 @@
 			"content": "Test your knowledge of primary auxiliary verbs with this quiz! Challenge yourself and see how well you know the different forms of primary auxiliary verbs in English.",
 			"slug": "grammar/ev-primary-auxiliary-verbs-quiz",
 			"date": "2026-03-26"
+		},
+    { 
+      "id": "SingularPluralVerbsQuiz",
+      "categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Singular and Plural Verbs Quiz",
+      "slug": "english/singular-and-plural-verbs-quiz",
+      "date": "2026-03-29"
+    },
+    { 
+      "id": "SingularPluralNounsQuiz",
+      "categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Singular and Plural Nouns Quiz",
+      "slug": "english/singular-and-plural-nouns-quiz",
+      "date": "2026-03-29"
+    },
+    { 
+      "id": "prepositionsQuiz",
+      "categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Prepositions Quiz",
+      "slug": "english/prepositions-quiz",
+      "date": "2026-03-29"
+    },
+		{
+			"id": "EVSingularPluralVerbsQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Singular Plural Verbs Quiz",
+			"content": "Singular Plural Verbs",
+			"slug": "grammar/ev-singular-and-plural-verbs-quiz",
+			"date": "2026-03-29"
+		},
+		{
+			"id": "EVSingularPluralNounsQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Singular Plural Nouns Quiz",
+			"content": "Singular Plural Nouns",
+			"slug": "grammar/ev-singular-and-plural-nouns-quiz",
+			"date": "2026-03-29"
+		},
+		{
+			"id": "EVprepositionsQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV prepositions Quiz",
+			"content": "Prepositions",
+			"slug": "grammar/ev-prepositions-quiz",
+			"date": "2026-03-29"
 		}
   ]
 }

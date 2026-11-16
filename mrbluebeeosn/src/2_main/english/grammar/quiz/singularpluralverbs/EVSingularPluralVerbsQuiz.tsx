@@ -148,7 +148,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/tieng-anh#ev-singular-and-plural-verbs-quiz"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
+				<h4><HashLink smooth to="/grammar#singular-and-plural-verbs-quiz"><mark className="highlight-tertiary-padding-4-8">Singular and Plural Verbs Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
 					<h1 className="margin-y-50 text-center">Singular and Plural Verbs</h1>

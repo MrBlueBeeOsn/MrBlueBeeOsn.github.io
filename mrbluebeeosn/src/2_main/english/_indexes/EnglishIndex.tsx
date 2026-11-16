@@ -194,71 +194,7 @@ export default function EnglishIndex(): React.JSX.Element {
 
         
 
-        {/* =============================
-              Singular and Plural Verbs Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="singular-and-plural-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Verbs</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/singular-and-plural-verbs-quiz">Singular and Plural Verbs Quiz</Link>
-              </div>
-            </li>
-
-           
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              Singular and Plural Nouns Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="singular-and-plural-nouns-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Nouns</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/singular-and-plural-nouns-quiz">Singular and Plural Nouns Quiz</Link>
-              </div>
-            </li>
-
-           
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              Prepositions Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="prepositions-quiz"><mark className="highlight-secondary-padding-2-4">Prepositions</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/prepositions-quiz">Prepositions Quiz</Link>
-              </div>
-            </li>
-
-           
-            
-          </ul>
-
-        </details>
+        
 
         {/* =============================
               S And Es In Nouns Verbs Quiz

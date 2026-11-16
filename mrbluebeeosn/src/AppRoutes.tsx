@@ -75,15 +75,6 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const ENSubjectVerbQuiz = lazy(() => import('@/2_main/english/quiz/sva/ENSubjectVerbQuiz'));
 
 
-	// Singular Plural Verbs
-	const SingularPluralVerbsQuiz = lazy(() => import('@/2_main/english/quiz/singularpluralverbs/SingularPluralVerbsQuiz'));
-
-	// Singular Plural Nouns Quiz
-	const SingularPluralNounsQuiz = lazy(() => import('@/2_main/english/quiz/singularpluralnouns/SingularPluralNounsQuiz'));
-
-	// Prepositions Quiz
-	const PrepositionsQuiz = lazy(() => import('@/2_main/english/quiz/prepositions/PrepositionsQuiz'));
-
 	// S And Es In Nouns Verbs
 	const SAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/quiz/ses/SAndEsInNounsVerbsQuiz'));
 
@@ -139,6 +130,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const PrepositionsAndTo = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Prepositions&To'));
 
 
+	// Verb Forms 0110
+	const VerbForms0110 = lazy(() => import('@/2_main/english/grammar/quiz/forms/VerbForms0110'));
+	
 	// Quiz
 	const EnglishGrammarQuestions = lazy(() => import('@/2_main/english/grammar/quiz/EnglishGrammarQuestions'));
 	const EnglishGrammarQuestions2 = lazy(() => import('@/2_main/english/grammar/quiz/EnglishGrammarQuestions2'));
@@ -152,8 +146,18 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Tenses
 	const EnglishTensesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/tenses/EnglishTensesQuiz'));
 
-	// Verb Forms 0110
-	const VerbForms0110 = lazy(() => import('@/2_main/english/grammar/quiz/forms/VerbForms0110'));
+	// Singular Plural Verbs
+	const SingularPluralVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/singularpluralverbs/SingularPluralVerbsQuiz'));
+	const EVSingularPluralVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/singularpluralverbs/EVSingularPluralVerbsQuiz'));
+
+	// Singular Plural Nouns Quiz
+	const SingularPluralNounsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/singularpluralnouns/SingularPluralNounsQuiz'));
+	const EVSingularPluralNounsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/singularpluralnouns/EVSingularPluralNounsQuiz'));
+
+	// Prepositions Quiz
+	const PrepositionsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/prepositions/PrepositionsQuiz'));
+	const EVPrepositionsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/prepositions/EVPrepositionsQuiz'));
+	
 	
 	// 3. Pronunciation
 	const PronunciationIndex = lazy(() => import('@/2_main/english/_indexes/PronunciationIndex'));
@@ -344,15 +348,6 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// Subject-Verb Agreement
 	const EVSubjectVerbQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/sva/EVSubjectVerbQuiz'));
-
-	// EVSingularPluralVerbsQuiz
-	const EVSingularPluralVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evsingularpluralverbs/EVSingularPluralVerbsQuiz'));
-
-	// EV Singular Plural Nouns Quiz
-	const EVSingularPluralNounsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evsingularpluralnouns/EVSingularPluralNounsQuiz'));
-
-	// EV Prepositions Quiz
-	const EVPrepositionsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evprepositions/EVPrepositionsQuiz'));
 
 	// EV Prepositions Quiz
 	const EVSAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evses/EVSAndEsInNounsVerbsQuiz'));
@@ -724,15 +719,6 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Subject-Verb Agreement */}
 					<Route path="/english/en-subject-verb-quiz" element={<ENSubjectVerbQuiz />} />
 
-					{/* Singular and Plural Verbs */}
-					<Route path="/english/singular-and-plural-verbs-quiz" element={<SingularPluralVerbsQuiz />} />
-
-					{/* Singular Plural Nouns Quiz */}
-					<Route path="/english/singular-and-plural-nouns-quiz" element={<SingularPluralNounsQuiz />} />
-
-					{/* Prepositions Quiz */}
-					<Route path="/english/prepositions-quiz" element={<PrepositionsQuiz />} />
-
 					{/* S And Es In Nouns Verbs */}
 					<Route path="/english/s-and-es-in-nouns-and-verbs-quiz" element={<SAndEsInNounsVerbsQuiz />} />
 
@@ -790,6 +776,9 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/prepositions-&-to" element={<PrepositionsAndTo />} />
 					
 
+					{/* Verb Forms */}
+					<Route path="/grammar/verb-forms-01-10" element={<VerbForms0110 />} />
+					
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />
 					<Route path="/grammar/english-grammar-questions-2" element={<EnglishGrammarQuestions2 />} />
@@ -803,8 +792,18 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Tenses */}
 					<Route path="/grammar/english-tenses-quiz" element={<EnglishTensesQuiz />} />
 
-					{/* Verb Forms */}
-					<Route path="/grammar/verb-forms-01-10" element={<VerbForms0110 />} />
+					{/* Singular and Plural Verbs */}
+					<Route path="/grammar/singular-and-plural-verbs-quiz" element={<SingularPluralVerbsQuiz />} />
+					<Route path="/grammar/ev-singular-and-plural-verbs-quiz" element={<EVSingularPluralVerbsQuiz />} />
+
+					{/* Singular Plural Nouns Quiz */}
+					<Route path="/grammar/singular-and-plural-nouns-quiz" element={<SingularPluralNounsQuiz />} />
+					<Route path="/grammar/ev-singular-and-plural-nouns-quiz" element={<EVSingularPluralNounsQuiz />} />
+
+					{/* Prepositions Quiz */}
+					<Route path="/grammar/prepositions-quiz" element={<PrepositionsQuiz />} />
+					<Route path="/grammar/ev-prepositions-quiz" element={<EVPrepositionsQuiz />} />
+					
 					
 					{/* 3. Pronunciation */}
 					<Route path="/pronunciation" element={<PronunciationIndex />} />
@@ -994,15 +993,6 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* Subject-Verb Agreement */}
 					<Route path="/tieng-anh/ev-subject-verb-quiz" element={<EVSubjectVerbQuiz />} />
-
-					{/* EVSingularPluralVerbs */}
-					<Route path="/tieng-anh/ev-singular-and-plural-verbs-quiz" element={<EVSingularPluralVerbsQuiz />} />
-
-					{/* EV Singular Plural Nouns Quiz */}
-					<Route path="/tieng-anh/ev-singular-and-plural-nouns-quiz" element={<EVSingularPluralNounsQuiz />} />
-
-					{/* EV Prepositions Quiz */}
-					<Route path="/tieng-anh/ev-prepositions-quiz" element={<EVPrepositionsQuiz />} />
 
 					{/* EV Prepositions Quiz */}
 					<Route path="/tieng-anh/ev-s-and-es-in-nouns-and-verbs-quiz" element={<EVSAndEsInNounsVerbsQuiz />} />
