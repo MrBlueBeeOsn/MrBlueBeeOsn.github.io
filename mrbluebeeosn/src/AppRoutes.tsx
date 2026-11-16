@@ -71,16 +71,6 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Gerunds and Infinitives
 	const GerundsAndInfinitivesQuiz = lazy(() => import('@/2_main/english/quiz/vingtov/GerundsandInfinitivesQuiz'));
 
-	// Subject-Verb Agreement
-	const ENSubjectVerbQuiz = lazy(() => import('@/2_main/english/quiz/sva/ENSubjectVerbQuiz'));
-
-
-	// S And Es In Nouns Verbs
-	const SAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/quiz/ses/SAndEsInNounsVerbsQuiz'));
-
-	// Articles Quiz
-	const ArticlesQuiz = lazy(() => import('@/2_main/english/quiz/articles/ArticlesQuiz'));
-
 	// Paraphrasing Techniques Quiz
 	const ParaphrasingTechniquesQuiz = lazy(() => import('@/2_main/english/quiz/paraphrasing/ParaphrasingTechniquesQuiz'));
 
@@ -138,9 +128,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const EnglishGrammarQuestions2 = lazy(() => import('@/2_main/english/grammar/quiz/EnglishGrammarQuestions2'));
 
 	// Auxiliary Verbs
-	const ENAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/auxiliaryverbs/ENAuxiliaryVerbsQuiz'));
+	const ENAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/auxiliaryverbs/AuxiliaryVerbsQuiz'));
 	const EVAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/auxiliaryverbs/EVAuxiliaryVerbsQuiz'));
-	const ENPrimaryAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/auxiliaryverbs/ENPrimaryAuxiliaryVerbsQuiz'));
+	const ENPrimaryAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/auxiliaryverbs/PrimaryAuxiliaryVerbsQuiz'));
 	const EVPrimaryAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/auxiliaryverbs/EVPrimaryAuxiliaryVerbsQuiz'));
 
 	// Tenses
@@ -157,7 +147,18 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Prepositions Quiz
 	const PrepositionsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/prepositions/PrepositionsQuiz'));
 	const EVPrepositionsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/prepositions/EVPrepositionsQuiz'));
-	
+
+	// Subject-Verb Agreement
+	const SubjectVerbQuiz = lazy(() => import('@/2_main/english/grammar/quiz/s&v/SubjectVerbQuiz'));
+	const EVSubjectVerbQuiz = lazy(() => import('@/2_main/english/grammar/quiz/s&v/EVSubjectVerbQuiz'));
+
+	// S And Es In Nouns Verbs
+	const SAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/s&es/SAndEsInNounsVerbsQuiz'));
+	const EVSAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/s&es/EVSAndEsInNounsVerbsQuiz'));
+
+	// Articles Quiz
+	const ArticlesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/articles/ArticlesQuiz'));
+	const EVArticlesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/articles/EVArticlesQuiz'));
 	
 	// 3. Pronunciation
 	const PronunciationIndex = lazy(() => import('@/2_main/english/_indexes/PronunciationIndex'));
@@ -345,15 +346,6 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// Gerunds and Infinitives
 	const TracNghiemGerundsAndInfinitives = lazy(() => import('@/2_main/english/tienganh/quiz/vingtov/TracNghiemGerundsAndInfinitives'));
-
-	// Subject-Verb Agreement
-	const EVSubjectVerbQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/sva/EVSubjectVerbQuiz'));
-
-	// EV Prepositions Quiz
-	const EVSAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evses/EVSAndEsInNounsVerbsQuiz'));
-
-	// EV Articles Quiz
-	const EVArticlesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evarticles/EVArticlesQuiz'));
 
 	// EV Paraphrasing TechniquesQuiz
 	const EVParaphrasingTechniquesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evparaphrasing/EVParaphrasingTechniquesQuiz'));
@@ -716,15 +708,6 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Gerunds and Infinitives */}
 					<Route path="/english/gerunds-and-infinitives-quiz" element={<GerundsAndInfinitivesQuiz />} />
 
-					{/* Subject-Verb Agreement */}
-					<Route path="/english/en-subject-verb-quiz" element={<ENSubjectVerbQuiz />} />
-
-					{/* S And Es In Nouns Verbs */}
-					<Route path="/english/s-and-es-in-nouns-and-verbs-quiz" element={<SAndEsInNounsVerbsQuiz />} />
-
-					{/* Articles Quiz */}
-					<Route path="/english/articles-quiz" element={<ArticlesQuiz />} />
-
 					{/* Paraphrasing Techniques Quiz */}
 					<Route path="/english/paraphrasing-techniques-quiz" element={<ParaphrasingTechniquesQuiz />} />
 
@@ -803,7 +786,19 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Prepositions Quiz */}
 					<Route path="/grammar/prepositions-quiz" element={<PrepositionsQuiz />} />
 					<Route path="/grammar/ev-prepositions-quiz" element={<EVPrepositionsQuiz />} />
-					
+
+					{/* Subject-Verb Agreement */}
+					<Route path="/grammar/subject-verb-quiz" element={<SubjectVerbQuiz />} />
+					<Route path="/grammar/ev-subject-verb-quiz" element={<EVSubjectVerbQuiz />} />
+
+					{/* S And Es In Nouns Verbs */}
+					<Route path="/grammar/s-and-es-in-nouns-and-verbs-quiz" element={<SAndEsInNounsVerbsQuiz />} />
+					<Route path="/grammar/ev-s-and-es-in-nouns-and-verbs-quiz" element={<EVSAndEsInNounsVerbsQuiz />} />
+
+					{/* Articles Quiz */}
+					<Route path="/grammar/articles-quiz" element={<ArticlesQuiz />} />
+					<Route path="/grammar/ev-articles-quiz" element={<EVArticlesQuiz />} />
+
 					
 					{/* 3. Pronunciation */}
 					<Route path="/pronunciation" element={<PronunciationIndex />} />
@@ -990,15 +985,6 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* Gerunds and Infinitives */}
 					<Route path="/tieng-anh/trac-nghiem-gerunds-and-infinitives" element={<TracNghiemGerundsAndInfinitives />} />
-
-					{/* Subject-Verb Agreement */}
-					<Route path="/tieng-anh/ev-subject-verb-quiz" element={<EVSubjectVerbQuiz />} />
-
-					{/* EV Prepositions Quiz */}
-					<Route path="/tieng-anh/ev-s-and-es-in-nouns-and-verbs-quiz" element={<EVSAndEsInNounsVerbsQuiz />} />
-
-					{/* EV Articles Quiz */}
-					<Route path="/tieng-anh/ev-articles-quiz" element={<EVArticlesQuiz />} />
 
 					{/* EV Paraphrasing TechniquesQuiz */}
 					<Route path="/tieng-anh/ev-paraphrasing-techniques-quiz" element={<EVParaphrasingTechniquesQuiz />} />

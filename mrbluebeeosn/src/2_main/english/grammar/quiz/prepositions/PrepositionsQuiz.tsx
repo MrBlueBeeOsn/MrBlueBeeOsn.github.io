@@ -152,7 +152,7 @@ export default function PrepositionsQuiz(): React.JSX.Element {
 	
 				<header className="quiz-header">
 					<h1 className="margin-y-50 text-center">Prepositions Quiz</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental English concepts</p>
+					<p className="subtitle text-center">Test your knowledge of fundamental Prepositions</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

@@ -1,4 +1,4 @@
-// TiengAnhPracticeQuizDPDK.tsx
+// EnglishPracticeQuizDPDK.tsx
 
 import React, { useState, useEffect } from 'react';
 import EnglishPracticeQuiz from '../../../../../components/quiz/EnglishPracticeQuiz';
@@ -18,7 +18,7 @@ interface Question {
 }
 
 export default function (): React.JSX.Element {
-	// Danh sách câu hỏi về Tiếng Anh cơ bản
+	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
 		{
 			id: 1,
@@ -148,11 +148,11 @@ export default function (): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/tieng-anh#ev-s-and-es-in-nouns-and-verbs-quiz"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
+				<h4><HashLink smooth to="/grammar#s-and-es-quiz"><mark className="highlight-tertiary-padding-4-8">S & ES Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center"></h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental ngữ pháp tiếng Anh concepts</p>
+					<h1 className="margin-y-50 text-center">S & ES Quiz</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental S & ES</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

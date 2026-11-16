@@ -151,8 +151,8 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				<h4><HashLink smooth to="/grammar#singular-and-plural-verbs-quiz"><mark className="highlight-tertiary-padding-4-8">Singular and Plural Verbs Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">Singular and Plural Verbs</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental ngữ pháp tiếng Anh concepts</p>
+					<h1 className="margin-y-50 text-center">Singular and Plural Verbs Quiz</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental Singular and Plural Verbs</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

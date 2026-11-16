@@ -151,8 +151,8 @@ export default function SingularPluralNounsQuiz(): React.JSX.Element {
 				<h4><HashLink smooth to="/grammar#singular-and-plural-nouns-quiz"><mark className="highlight-tertiary-padding-4-8">Singular and Plural Nouns Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">Singular and Plural Nouns</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental English concepts</p>
+					<h1 className="margin-y-50 text-center">Singular and Plural Nouns Quiz</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental Singular and Plural Nouns</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

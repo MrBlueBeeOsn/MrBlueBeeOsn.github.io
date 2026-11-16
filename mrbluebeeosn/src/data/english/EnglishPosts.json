@@ -82,42 +82,6 @@
       "date": "2025-12-28"
     },
     { 
-      "id": "ENSubjectVerbQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Subject-Verb Agreement Quiz",
-      "slug": "english/ev-subject-verb-quiz",
-      "date": "2026-03-20"
-    },
-    { 
-      "id": "EVAuxiliaryVerbsQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Auxiliary Verbs Quiz",
-      "slug": "english/ev-auxiliary-verbs-quiz",
-      "date": "2026-03-25"
-    },
-    { 
-      "id": "SAndEsInNounsVerbsQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "S And Es In Nouns Verbs Quiz",
-      "slug": "english/s-and-es-in-nouns-and-verbs-quiz",
-      "date": "2026-04-05"
-    },
-    { 
-      "id": "ArticlesQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Articles Quiz",
-      "slug": "english/articles-quiz",
-      "date": "2026-04-15"
-    },
-    { 
       "id": "ParaphrasingTechniquesQuiz",
       "categoryDisplay": "English",
       "categorySlug": "english",

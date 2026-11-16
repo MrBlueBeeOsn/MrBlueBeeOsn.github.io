@@ -1,7 +1,7 @@
 // EnglishPracticeQuizDPDK.tsx
 
 import React, { useState, useEffect } from 'react';
-import EnglishPracticeQuiz from '../../../../components/quiz/EnglishPracticeQuiz';
+import EnglishPracticeQuiz from '../../../../../components/quiz/EnglishPracticeQuiz';
 
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
@@ -148,11 +148,11 @@ export default function SAndEsInNounsVerbs(): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/english#s-and-es-in-nouns-and-verbs-quiz"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
+				<h4><HashLink smooth to="/grammar#s-and-es-quiz"><mark className="highlight-tertiary-padding-4-8">S & ES Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">-s and -es in Nouns and Verbs</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental English concepts</p>
+					<h1 className="margin-y-50 text-center">S & ES Quiz</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental S & ES</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

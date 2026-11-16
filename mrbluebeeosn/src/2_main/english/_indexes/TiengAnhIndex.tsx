@@ -145,75 +145,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </details>
 
-        {/* =============================
-              Subject-Verb Agreement Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
       
-          <summary id="ev-subject-verb-agreement-basic-practice"><mark className="highlight-secondary-padding-2-4">Subject-Verb Agreement</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-subject-verb-quiz">Trắc Nghiệm Subject-Verb Agreement (SVA)</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        
-
-        
-
-        {/* =============================
-              EV S And Es In Nouns Verbs Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-s-and-es-in-nouns-and-verbs-quiz"><mark className="highlight-secondary-padding-2-4">S And Es In Nouns Verbs</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-s-and-es-in-nouns-and-verbs-quiz">Trắc Nghiệm - S And Es In Nouns Verbs</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              EV Articles Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-articles-quiz"><mark className="highlight-secondary-padding-2-4">Articles</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-articles-quiz">Trắc Nghiệm - Articles</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
 
         {/* =============================
               EV ParaphrasingTechniquesQuiz

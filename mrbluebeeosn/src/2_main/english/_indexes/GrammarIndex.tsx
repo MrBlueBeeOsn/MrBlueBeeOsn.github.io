@@ -229,7 +229,92 @@ export default function GrammarIndex(): React.JSX.Element {
 
         </details>
 
+        
+        {/* =============================
+              Subject-Verb Agreement Quiz
+        ============================= */}
 
+        <details className="sub-box-fix-2">
+      
+          <summary id="subject-verb-agreement-quiz"><mark className="highlight-secondary-padding-2-4">Subject-Verb Agreement</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/subject-verb-quiz">Subject Verb Agreement Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/ev-subject-verb-quiz">Subject Verb Agreement Quiz (EV)</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+
+
+        {/* =============================
+              S And Es In Nouns Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="s-and-es-quiz"><mark className="highlight-secondary-padding-2-4">S & ES Quiz</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/s-and-es-in-nouns-and-verbs-quiz">S & ES Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/ev-s-and-es-in-nouns-and-verbs-quiz">S & ES Quiz (EV)</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Articles Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="articles-quiz"><mark className="highlight-secondary-padding-2-4">Articles</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/articles-quiz">Articles Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/ev-articles-quiz">Articles Quiz (EV)</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
 
 
 

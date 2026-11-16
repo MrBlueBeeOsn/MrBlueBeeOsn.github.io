@@ -17,7 +17,7 @@ interface Question {
 	explanation: string;
 }
 
-export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
+export default function AuxiliaryVerbsQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
 		{
@@ -152,7 +152,7 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 	
 				<header className="quiz-header">
 					<h1 className="margin-y-50 text-center">Auxiliary Verbs Quiz</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental English concepts</p>
+					<p className="subtitle text-center">Test your knowledge of fundamental Auxiliary Verbs</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

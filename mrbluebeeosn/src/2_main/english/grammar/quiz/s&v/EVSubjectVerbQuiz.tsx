@@ -148,11 +148,11 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/tieng-anh#ev-subject-verb-agreement-basic-practice"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
+				<h4><HashLink smooth to="/grammar#subject-verb-agreement-quiz"><mark className="highlight-tertiary-padding-4-8">Subject Verb Agreement Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">Trắc Nghiệm Subject-Verb Agreement (SVA)</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental ngữ pháp tiếng Anh concepts</p>
+					<h1 className="margin-y-50 text-center">Subject Verb Agreement Quiz</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental Subject Verb Agreement</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

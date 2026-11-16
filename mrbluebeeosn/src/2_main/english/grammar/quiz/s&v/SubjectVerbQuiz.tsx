@@ -1,7 +1,7 @@
 // EnglishPracticeQuizDPDK.tsx
 
 import React, { useState, useEffect } from 'react';
-import EnglishPracticeQuiz from '../../../../components/quiz/EnglishPracticeQuiz';
+import EnglishPracticeQuiz from '../../../../../components/quiz/EnglishPracticeQuiz';
 
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
@@ -17,7 +17,7 @@ interface Question {
 	explanation: string;
 }
 
-export default function ENSubjectVerbQuiz(): React.JSX.Element {
+export default function SubjectVerbQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
 		{
@@ -148,11 +148,11 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/english#en-subject-verb-agreement-basic-practice"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
+				<h4><HashLink smooth to="/grammar#subject-verb-agreement-quiz"><mark className="highlight-tertiary-padding-4-8">Subject Verb Agreement Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">Subject-Verb Agreement Quiz</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental English concepts</p>
+					<h1 className="margin-y-50 text-center">Subject Verb Agreement Quiz</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental Subject Verb Agreement</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

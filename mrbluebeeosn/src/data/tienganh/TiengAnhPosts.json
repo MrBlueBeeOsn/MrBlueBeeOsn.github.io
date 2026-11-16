@@ -298,33 +298,6 @@
 			"date": "2026-01-12"
 		},
 		{
-			"id": "EVSubjectVerbQuiz",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
-			"title": "EV Subject-Verb Quiz",
-			"content": "Trắc Nghiệm Subject-Verb Agreement (SVA) là một phần quan trọng trong việc học ngữ pháp tiếng Anh. SVA đảm bảo rằng danh chủ và hành động trong câu phải phù hợp về số lượng (số ít hoặc số nhiều). Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
-			"slug": "tieng-anh/ev-subject-verb-quiz",
-			"date": "2026-03-20"
-		},
-		{
-			"id": "EVSAndEsInNounsVerbsQuiz",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
-			"title": "Trắc Nghiệm S And Es In Nouns Verbs",
-			"content": "Trắc Nghiệm S And Es In Nouns Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
-			"slug": "tieng-anh/ev-s-and-es-in-nouns-and-verbs-quiz",
-			"date": "2026-04-05"
-		},
-		{
-			"id": "EVArticlesQuiz",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
-			"title": "Trắc Nghiệm Articles",
-			"content": "Trắc Nghiệm Articles là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
-			"slug": "tieng-anh/ev-articles-quiz",
-			"date": "2026-04-15"
-		},
-		{
 			"id": "EVParaphrasingTechniquesQuiz",
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",

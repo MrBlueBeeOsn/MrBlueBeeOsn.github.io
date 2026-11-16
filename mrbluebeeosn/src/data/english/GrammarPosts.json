@@ -285,7 +285,7 @@
 			"categorySlug": "grammar",
       "title": "Quiz",
       "content": "Singular and Plural Verbs Quiz",
-      "slug": "english/singular-and-plural-verbs-quiz",
+      "slug": "grammar/singular-and-plural-verbs-quiz",
       "date": "2026-03-29"
     },
     { 
@@ -294,7 +294,7 @@
 			"categorySlug": "grammar",
       "title": "Quiz",
       "content": "Singular and Plural Nouns Quiz",
-      "slug": "english/singular-and-plural-nouns-quiz",
+      "slug": "grammar/singular-and-plural-nouns-quiz",
       "date": "2026-03-29"
     },
     { 
@@ -303,7 +303,7 @@
 			"categorySlug": "grammar",
       "title": "Quiz",
       "content": "Prepositions Quiz",
-      "slug": "english/prepositions-quiz",
+      "slug": "grammar/prepositions-quiz",
       "date": "2026-03-29"
     },
 		{
@@ -332,6 +332,60 @@
 			"content": "Prepositions",
 			"slug": "grammar/ev-prepositions-quiz",
 			"date": "2026-03-29"
+		},
+    { 
+      "id": "SubjectVerbQuiz",
+      "categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Subject-Verb Agreement Quiz",
+      "slug": "grammar/ev-subject-verb-quiz",
+      "date": "2026-03-20"
+    },
+    { 
+      "id": "SAndEsInNounsVerbsQuiz",
+      "categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "S And Es In Nouns Verbs Quiz",
+      "slug": "grammar/s-and-es-in-nouns-and-verbs-quiz",
+      "date": "2026-04-05"
+    },
+    { 
+      "id": "ArticlesQuiz",
+      "categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Articles Quiz",
+      "slug": "grammar/articles-quiz",
+      "date": "2026-04-15"
+    },
+		{
+			"id": "EVSubjectVerbQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Subject-Verb Quiz",
+			"content": "Test your knowledge of subject-verb agreement with this quiz! Challenge yourself and see how well you know the rules of subject-verb agreement in English.",
+			"slug": "grammar/ev-subject-verb-quiz",
+			"date": "2026-03-20"
+		},
+		{
+			"id": "EVSAndEsInNounsVerbsQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EVSAndEsInNounsVerbsQuiz",
+			"content": "Test your knowledge of singular and plural forms of nouns and verbs with this quiz! Challenge yourself and see how well you know the rules of singular and plural forms in English.",
+			"slug": "grammar/ev-s-and-es-in-nouns-and-verbs-quiz",
+			"date": "2026-04-05"
+		},
+		{
+			"id": "EVArticlesQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Articles Quiz",
+			"content": "Test your knowledge of articles with this quiz! Challenge yourself and see how well you know the rules of using articles in English.",
+			"slug": "grammar/ev-articles-quiz",
+			"date": "2026-04-15"
 		}
   ]
 }

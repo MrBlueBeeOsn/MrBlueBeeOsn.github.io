@@ -162,7 +162,7 @@ export default function (): React.JSX.Element {
 	
 				<header className="quiz-header">
 					<h1 className="margin-y-50 text-center">Verb Forms Quiz</h1>
-					<p className="subtitle text-center">Test your knowledge of verb forms</p>
+					<p className="subtitle text-center">Test your knowledge of Verb Forms</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />
