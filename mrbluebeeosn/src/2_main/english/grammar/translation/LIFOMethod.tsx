@@ -15,7 +15,7 @@ export default function TheLIFOMethod(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/grammar#grammar-terms"><mark className="highlight-tertiary-padding-4-8">Grammar</mark></HashLink></h4>
+      <h4><HashLink smooth to="/grammar#translation"><mark className="highlight-tertiary-padding-4-8">Translation</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">LIFO METHod</h1>
 

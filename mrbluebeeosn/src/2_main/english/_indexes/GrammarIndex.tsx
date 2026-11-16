@@ -88,7 +88,7 @@ export default function GrammarIndex(): React.JSX.Element {
       <div className="flex-container margin-top-20">
                     
         {/* =============================
-            NOUNS
+            Modern Grammar
         ============================= */}
 
         <div className="sub-box">
@@ -168,12 +168,16 @@ export default function GrammarIndex(): React.JSX.Element {
         </div>
 
         <div className="sub-box">
-                
-          {/* =============================
-              How to remember verbs add s
-          ============================= */}
+      
+          <p id="verbs"><mark className="highlight-secondary-padding-2-4">Verbs</mark></p>
 
           <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/verb-forms">Verb Forms</Link>
+              </div>
+            </li>
             
             <li>
               <div className="li-content">
@@ -181,29 +185,6 @@ export default function GrammarIndex(): React.JSX.Element {
               </div>
             </li>
             
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/stop-translating">Stop Translating!</Link>
-              </div>
-            </li>
-            
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/content-clauses">Content Clauses</Link>
-              </div>
-            </li>
-            
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/6-element-formula">6-Element Formula</Link>
-              </div>
-            </li>
-            
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/LIFO-method">LIFO METHod</Link>
-              </div>
-            </li>
 
             <li>
               <div className="li-content">
@@ -222,47 +203,110 @@ export default function GrammarIndex(): React.JSX.Element {
                 <Link to="/grammar/verb-&-object">Verb & Object</Link>
               </div>
             </li>
-            
+
           </ul>
 
         </div>
 
       
       </div>
-      
 
       <div className="flex-container margin-top-20">
+                    
+        {/* =============================
+            Definitions
+        ============================= */}
 
         <div className="sub-box">
-        
-          {/* =============================
-              Grammar Terms
-          ============================= */}
+      
+          <p id="definitions"><mark className="highlight-secondary-padding-2-4">Definitions</mark></p>
 
           <ul className="list-border1">
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/what-is-an-adverb?">Adverb</Link>&nbsp;
-                <Link to="/grammar/what-is-a-verb?">Verb</Link>
+                <Link to="/grammar/what-is-an-adverb?">What is an adverb?</Link>
               </div>
             </li>
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/what-is-an-adjective?">Adjective</Link>&nbsp;
-                <Link to="/grammar/what-is-a-noun?">Noun</Link>
+                <Link to="/grammar/what-is-a-verb?">What is a verb?</Link>
               </div>
             </li>
-            
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/what-is-an-adjective?">What is an adjective?</Link>&nbsp;
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/what-is-a-noun?">What is a noun?</Link>
+              </div>
+            </li>
+
           </ul>
 
         </div>
 
-        
+        <div className="sub-box">
+      
+          <p id="translation"><mark className="highlight-secondary-padding-2-4">Translation</mark></p>
 
+          <ul className="list-border1">
 
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/LIFO-method">LIFO METHod</Link>
+              </div>
+            </li>
+            
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/stop-translating">Stop Translating!</Link>
+              </div>
+            </li>
+
+          </ul>
+
+        </div>
+
+      
       </div>
+
+      <div className="flex-container margin-top-20">
+                    
+        {/* =============================
+            WH Questions
+        ============================= */}
+
+        <div className="sub-box">
+      
+          <p id="wh-questions"><mark className="highlight-secondary-padding-2-4">WH Questions</mark></p>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/6-element-formula">6-Element Formula</Link>
+              </div>
+            </li>
+            
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/content-clauses">Content Clauses</Link>
+              </div>
+            </li>
+
+          </ul>
+
+        </div>
+
+      
+      </div>
+      
 
       {/* <VERBSADDS /> */}
 

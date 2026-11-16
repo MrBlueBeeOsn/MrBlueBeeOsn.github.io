@@ -115,18 +115,19 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// 2. Grammar
 	const GrammarIndex = lazy(() => import('@/2_main/english/_indexes/GrammarIndex'));
-	const Adverb = lazy(() => import('@/2_main/english/grammar/Adverb'));
-	const Verb = lazy(() => import('@/2_main/english/grammar/Verb'));
-	const Adjective = lazy(() => import('@/2_main/english/grammar/Adjective'));
-	const Noun = lazy(() => import('@/2_main/english/grammar/Noun'));
-	const VerbsAddS = lazy(() => import('@/2_main/english/grammar/VerbAddS'));
-	const VerbAndS = lazy(() => import('@/2_main/english/grammar/Verb&S'));
-	const VerbAndObject = lazy(() => import('@/2_main/english/grammar/Verb&Object'));
-	const LIFOMethod = lazy(() => import('@/2_main/english/grammar/LIFOMethod'));
-	const The6ElementFormula = lazy(() => import('@/2_main/english/grammar/The6ElementFormula'));
-	const ContentClauses = lazy(() => import('@/2_main/english/grammar/ContentClauses'));
-	const StopTranslating = lazy(() => import('@/2_main/english/grammar/StopTranslating'));
-	const TensesChart = lazy(() => import('@/2_main/english/grammar/TensesChart'));
+	const Adverb = lazy(() => import('@/2_main/english/grammar/definition/Adverb'));
+	const Verb = lazy(() => import('@/2_main/english/grammar/definition/Verb'));
+	const Adjective = lazy(() => import('@/2_main/english/grammar/definition/Adjective'));
+	const Noun = lazy(() => import('@/2_main/english/grammar/definition/Noun'));
+	const VerbsAddS = lazy(() => import('@/2_main/english/grammar/verbs/VerbAddS'));
+	const VerbAndS = lazy(() => import('@/2_main/english/grammar/verbs/Verb&S'));
+	const VerbAndObject = lazy(() => import('@/2_main/english/grammar/verbs/Verb&Object'));
+	const LIFOMethod = lazy(() => import('@/2_main/english/grammar/translation/LIFOMethod'));
+	const The6ElementFormula = lazy(() => import('@/2_main/english/grammar/wh-questions/The6ElementFormula'));
+	const ContentClauses = lazy(() => import('@/2_main/english/grammar/wh-questions/ContentClauses'));
+	const StopTranslating = lazy(() => import('@/2_main/english/grammar/translation/StopTranslating'));
+	const TensesChart = lazy(() => import('@/2_main/english/grammar/verbs/TensesChart'));
+	const VerbForms = lazy(() => import('@/2_main/english/grammar/verbs/VerbForms'));
 	
 	// Modern Grammar
 	
@@ -781,6 +782,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/content-clauses" element={<ContentClauses />} />
 					<Route path="/grammar/stop-translating" element={<StopTranslating />} />
 					<Route path="/grammar/tenses-chart" element={<TensesChart />} />
+					<Route path="/grammar/verb-forms" element={<VerbForms />} />
 
 					{/* Modern Grammar */}
 					<Route path="/grammar/preposition-phrase" element={<PrepositionPhrase />} />

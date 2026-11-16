@@ -233,6 +233,15 @@
       "content": "A Comprehensive Guide to English Tenses",
       "slug": "grammar/tenses-chart",
       "date": "2026-11-09"
+    },
+    { 
+      "id": "VerbForms",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Verb Forms",
+      "content": "The Complete Guide to the 5 Verb Forms in English (V1 – V5)",
+      "slug": "grammar/verb-forms",
+      "date": "2026-11-16"
     }
   ]
 }
