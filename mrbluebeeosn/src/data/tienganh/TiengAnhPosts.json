@@ -73,33 +73,6 @@
 			"date": "2024-04-22"
 		},
 		{
-			"id": "TiengAnhQuestions",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
-			"title": "Quiz",
-			"content": "Tiếng Anh Questions",
-			"slug": "tieng-anh/tieng-anh-questions",
-			"date": "2025-12-08"
-		},
-		{
-			"id": "TracNghiemNguPhapTiengAnh",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
-			"title": "Quiz",
-			"content": "Trắc Nghiệm Ngữ Pháp Tiếng Anh",
-			"slug": "tieng-anh/trac-nghiem-ngu-phap-tieng-anh",
-			"date": "2025-12-09"
-		},
-		{
-			"id": "TracNghiemThiTiengAnh",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
-			"title": "Quiz",
-			"content": "Trắc Nghiệm Thời Gian Hành Động Tiếng Anh",
-			"slug": "tieng-anh/trac-nghiem-thoi-gian-hanh-dong-tieng-anh",
-			"date": "2025-12-11"
-		},
-		{
 			"id": "GerundsAndInfinitives",
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
@@ -278,15 +251,6 @@
 			"content": "KHÓA MỞ CỬA TIẾNG ANH: ĐỔI CẤU TRÚC TIẾNG VIỆT ĐỂ CHINH PHỤC THẾ GIỚI",
 			"slug": "tieng-anh/think-straight-flow-fast-8",
 			"date": "2026-01-12"
-		},
-		{
-			"id": "EVParaphrasingTechniquesQuiz",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
-			"title": "Trắc Nghiệm Paraphrasing Techniques",
-			"content": "Trắc Nghiệm Paraphrasing Techniques là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
-			"slug": "tieng-anh/ev-paraphrasing-techniques-quiz",
-			"date": "2026-04-16"
 		},
 		{
 			"id": "SVOMPT1",
@@ -944,24 +908,6 @@
 			"content": "emBEDded STRUCture 1: BẬT TƯ DUY LẬP TRÌNH: TUYỆT CHƯƠNG ĐÓNG GÓI MÃ NGUỒN [CƠ][CỤM][CÂU]",
 			"slug": "tieng-anh/emBEDded-structure-1",
 			"date": "2026-06-11"
-		},
-		{
-			"id": "EVMatrixQuiz",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
-			"title": "EV Matrix Quiz",
-			"content": "Hình thái × Chức năng Matrix",
-			"slug": "tieng-anh/ev-matrix-quiz",
-			"date": "2026-06-14"
-		},
-		{
-			"id": "EVBookkeepingMatrix",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
-			"title": "EV Bookkeeping Matrix",
-			"content": "EV Bookkeeping Matrix",
-			"slug": "tieng-anh/ev-bookkeeping-matrix-quiz",
-			"date": "2026-06-16"
 		},
 		{
 			"id": "TheNounDropMethod",

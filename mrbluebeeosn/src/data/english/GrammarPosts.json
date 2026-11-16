@@ -37,21 +37,21 @@
       "date": "2024-07-09"
     },
     { 
-      "id": "EnglishGrammarQuestions",
+      "id": "GrammarQuiz",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
       "title": "Quiz",
       "content": "English Grammar Questions 1",
-      "slug": "grammar/english-grammar-questions",
+      "slug": "grammar/grammar-questions",
       "date": "2025-12-07"
     },
     { 
-      "id": "EnglishGrammarQuestions2",
+      "id": "GrammarQuiz2",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
       "title": "Quiz",
       "content": "English Grammar Questions 2",
-      "slug": "grammar/english-grammar-questions-2",
+      "slug": "grammar/grammar-questions-2",
       "date": "2025-12-10"
     },
     { 
@@ -494,6 +494,69 @@
 			"content": "EV Noun Clause Quiz",
 			"slug": "grammar/ev-noun-clauses-quiz",
 			"date": "2026-05-25"
+		},
+		{
+			"id": "EVEnglishTensesQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV English Tenses Quiz",
+			"content": "",
+			"slug": "grammar/ev-english-tenses-quiz",
+			"date": "2025-12-11"
+		},
+		{
+			"id": "EVGrammarQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Grammar Quiz",
+			"content": "EV Grammar Quiz",
+			"slug": "grammar/ev-grammar-quiz",
+			"date": "2025-12-08"
+		},
+		{
+			"id": "EVGrammarQuiz2",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Grammar Quiz 2",
+			"content": "EV Grammar Quiz 2",
+			"slug": "grammar/ev-forms-&-function-quiz-2",
+			"date": "2025-12-09"
+		},
+		{
+			"id": "Forms&FunctionQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "Forms & Function Quiz",
+			"content": "Forms & Function",
+			"slug": "grammar/forms-&-function-quiz",
+			"date": "2026-06-14"
+		},
+		{
+			"id": "Forms&FunctionBookkeepingQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "Forms & Function Bookkeeping Quiz",
+			"content": "Forms & Function Bookkeeping",
+			"slug": "grammar/forms-&-function-bookkeeping-quiz",
+			"date": "2026-06-16"
+		},
+		{
+			"id": "EVForms&FunctionQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Forms & Function Quiz",
+			"content": "EV Forms & Function",
+			"slug": "grammar/ev-forms-&-function-quiz",
+			"date": "2026-06-14"
+		},
+		{
+			"id": "EVForms&FunctionBookkeepingQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Forms & Function Bookkeeping Quiz",
+			"content": "EV Forms & Function Bookkeeping",
+			"slug": "grammar/ev-forms-&-function-bookkeeping-quiz",
+			"date": "2026-06-16"
 		}
   ]
 }

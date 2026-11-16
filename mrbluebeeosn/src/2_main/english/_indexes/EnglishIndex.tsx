@@ -144,37 +144,11 @@ export default function EnglishIndex(): React.JSX.Element {
               </div>
             </li>
 
-           
-            
-          </ul>
-
-        </details>
-
-        
-
-        {/* =============================
-              Matrix Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="matrix-quiz"><mark className="highlight-secondary-padding-2-4">Matrix</mark></summary>
-
-          <ul className="list-border1">
-
             <li>
               <div className="li-content">
-                <Link to="/english/matrix-quiz">Matrix Quiz</Link>
+                <Link to="/english/ev-paraphrasing-techniques-quiz">Paraphrasing Techniques Quiz (EV)</Link>
               </div>
             </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/bookkeeping-matrix-quiz">Bookkeeping Matrix</Link>
-              </div>
-            </li>
-
-            
 
            
             
@@ -182,6 +156,7 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </details>
 
+ 
         
 
       </div>
@@ -208,6 +183,9 @@ export default function EnglishIndex(): React.JSX.Element {
                 <Link to="/english/what-is-the-english-language?">The English language</Link>
               </div>
             </li>
+
+            
+
             
           </ul>
 
@@ -224,6 +202,12 @@ export default function EnglishIndex(): React.JSX.Element {
             <li>
               <div className="li-content">
                 <Link to="/english/what-is-an-english-teacher?">English Teacher</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/what-is-an-english-teacher?">What is an English teacher?</Link>
               </div>
             </li>
             

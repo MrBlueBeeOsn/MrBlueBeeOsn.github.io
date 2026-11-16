@@ -17,7 +17,7 @@ interface Question {
 	explanation: string;
 }
 
-export default function (): React.JSX.Element {
+export default function EVFormsandFunctionBookkeepingQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
 		{
@@ -128,11 +128,11 @@ export default function (): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/tieng-anh#ev-matrix-quiz"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
-	
+				<h4><HashLink smooth to="/grammar#forms-&-function-quiz"><mark className="highlight-tertiary-padding-4-8">Forms & Function Quiz</mark></HashLink></h4>
+									
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">EV Bookkeeping Matrix</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental ngữ pháp tiếng Anh concepts</p>
+					<h1 className="margin-y-50 text-center">Forms & Function Bookkeeping Quiz (EV)</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental Forms & Function</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

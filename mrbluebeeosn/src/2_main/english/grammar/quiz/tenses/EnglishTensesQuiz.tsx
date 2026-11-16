@@ -148,7 +148,7 @@ export default function EnglishTensesQuiz(): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/grammar#tenses-basic-practice"><mark className="highlight-tertiary-padding-4-8">Tenses</mark></HashLink></h4>
+				<h4><HashLink smooth to="/grammar#english-tenses-quiz"><mark className="highlight-tertiary-padding-4-8">English Tenses Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
 					<h1 className="margin-y-50 text-center">English Tenses Quiz</h1>

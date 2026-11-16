@@ -73,24 +73,6 @@
       "date": "2026-04-16"
     },
 		{
-			"id": "MatrixQuiz",
-			"categoryDisplay": "English",
-      "categorySlug": "english",
-			"title": "Matrix Quiz",
-			"content": "Form × Function Matrix Mastery",
-			"slug": "english/matrix-quiz",
-			"date": "2026-06-14"
-		},
-		{
-			"id": "BookkeepingMatrix",
-			"categoryDisplay": "English",
-			"categorySlug": "english",
-			"title": "Bookkeeping Matrix",
-			"content": "Bookkeeping Matrix",
-			"slug": "english/bookkeeping-matrix-quiz",
-			"date": "2026-06-16"
-		},
-		{
 			"id": "DictationExercise",
 			"categoryDisplay": "English",
 			"categorySlug": "english",
@@ -98,6 +80,15 @@
 			"content": "Dictation Exercise",
 			"slug": "english/dictation-exercise",
 			"date": "2026-11-09"
+		},
+		{
+			"id": "EVParaphrasingTechniquesQuiz",
+			"categoryDisplay": "English",
+			"categorySlug": "english",
+			"title": "EV Paraphrasing Techniques Quiz",
+			"content": "Paraphrasing Techniques Quiz",
+			"slug": "english/ev-paraphrasing-techniques-quiz",
+			"date": "2026-04-16"
 		}
   ]
 }

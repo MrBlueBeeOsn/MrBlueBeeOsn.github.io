@@ -34,131 +34,9 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
 
       <div className="vocabulary-container margin-top-20">
-                  
-        {/* =============================
-              Tiếng Anh Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="tieng-anh-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/tieng-anh-questions">Tiếng Anh questions</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              Ngữ pháp Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ngu-phap-basic-practice"><mark className="highlight-secondary-padding-2-4">Ngữ pháp</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/trac-nghiem-ngu-phap-tieng-anh">Trắc Nghiệm Ngữ Pháp Tiếng Anh</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
+                      
 
         
-
-        {/* =============================
-              EV Tense Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Thời Gian Hành Động</mark></summary>
-
-          <ul className="list-border1">
-
-              <li>
-                <div className="li-content">
-                  <Link to="trac-nghiem-thoi-gian-hanh-dong-tieng-anh">Trắc Nghiệm Thời Gian Hành Động Tiếng Anh</Link>
-                </div>
-              </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-   
-
-        {/* =============================
-              EV ParaphrasingTechniquesQuiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-paraphrasing-techniques-quiz"><mark className="highlight-secondary-padding-2-4">Paraphrasing Techniques</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-paraphrasing-techniques-quiz">Trắc Nghiệm - Paraphrasing Techniques</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        
-
-        {/* =============================
-              EV Matrix Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-matrix-quiz"><mark className="highlight-secondary-padding-2-4">Matrix</mark></summary>
-
-          <ul className="list-border1">
-
-            
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-matrix-quiz">EV Matrix Quiz</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-bookkeeping-matrix-quiz">EV Bookkeeping Matrix</Link>
-              </div>
-            </li>
-
-            
-
-            
-            
-          </ul>
-
-        </details>
 
       
 
@@ -392,20 +270,6 @@ export default function TiengAnhIndex(): React.JSX.Element {
       </div>
 
 
-
-      <div className="flex-container margin-top-20">
-
-        <div className="sub-box">
-
-          <ul className="list-border1">
-
-            <li><Link to="/tieng-anh/what-is-an-english-teacher?">What is an English teacher?</Link></li>
-            
-          </ul>
-
-        </div>
-
-      </div>
 
 
     </article>

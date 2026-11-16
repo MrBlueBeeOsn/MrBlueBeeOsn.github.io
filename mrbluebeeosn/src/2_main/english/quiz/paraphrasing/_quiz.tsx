@@ -148,11 +148,11 @@ export default function (): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/english#paraphrasing-techniques-quiz"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
-	
+				<h4><HashLink smooth to="/english#paraphrasing-techniques-quiz"><mark className="highlight-tertiary-padding-4-8">Paraphrasing Techniques Quiz</mark></HashLink></h4>
+					
 				<header className="quiz-header">
 					<h1 className="margin-y-50 text-center">Paraphrasing Techniques Quiz</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental English concepts</p>
+					<p className="subtitle text-center">Test your knowledge of fundamental Paraphrasing Techniques</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

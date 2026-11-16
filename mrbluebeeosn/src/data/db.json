@@ -254,28 +254,6 @@
       "likes": 0
     },
     {
-      "id": "MatrixQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Matrix Quiz",
-      "content": "Form × Function Matrix Mastery",
-      "slug": "english/matrix-quiz",
-      "date": "2026-06-14",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "BookkeepingMatrix",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Bookkeeping Matrix",
-      "content": "Bookkeeping Matrix",
-      "slug": "english/bookkeeping-matrix-quiz",
-      "date": "2026-06-16",
-      "views": 0,
-      "likes": 0
-    },
-    {
       "id": "DictationExercise",
       "categoryDisplay": "English",
       "categorySlug": "english",
@@ -283,6 +261,17 @@
       "content": "Dictation Exercise",
       "slug": "english/dictation-exercise",
       "date": "2026-11-09",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVParaphrasingTechniquesQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "EV Paraphrasing Techniques Quiz",
+      "content": "Paraphrasing Techniques Quiz",
+      "slug": "english/ev-paraphrasing-techniques-quiz",
+      "date": "2026-04-16",
       "views": 0,
       "likes": 0
     },
@@ -331,23 +320,23 @@
       "likes": 0
     },
     {
-      "id": "EnglishGrammarQuestions",
+      "id": "GrammarQuiz",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
       "title": "Quiz",
       "content": "English Grammar Questions 1",
-      "slug": "grammar/english-grammar-questions",
+      "slug": "grammar/grammar-questions",
       "date": "2025-12-07",
       "views": 0,
       "likes": 0
     },
     {
-      "id": "EnglishGrammarQuestions2",
+      "id": "GrammarQuiz2",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
       "title": "Quiz",
       "content": "English Grammar Questions 2",
-      "slug": "grammar/english-grammar-questions-2",
+      "slug": "grammar/grammar-questions-2",
       "date": "2025-12-10",
       "views": 0,
       "likes": 0
@@ -892,6 +881,83 @@
       "likes": 0
     },
     {
+      "id": "EVEnglishTensesQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "EV English Tenses Quiz",
+      "content": "",
+      "slug": "grammar/ev-english-tenses-quiz",
+      "date": "2025-12-11",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVGrammarQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "EV Grammar Quiz",
+      "content": "EV Grammar Quiz",
+      "slug": "grammar/ev-grammar-quiz",
+      "date": "2025-12-08",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVGrammarQuiz2",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "EV Grammar Quiz 2",
+      "content": "EV Grammar Quiz 2",
+      "slug": "grammar/ev-forms-&-function-quiz-2",
+      "date": "2025-12-09",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Forms&FunctionQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Forms & Function Quiz",
+      "content": "Forms & Function",
+      "slug": "grammar/forms-&-function-quiz",
+      "date": "2026-06-14",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Forms&FunctionBookkeepingQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Forms & Function Bookkeeping Quiz",
+      "content": "Forms & Function Bookkeeping",
+      "slug": "grammar/forms-&-function-bookkeeping-quiz",
+      "date": "2026-06-16",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVForms&FunctionQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "EV Forms & Function Quiz",
+      "content": "EV Forms & Function",
+      "slug": "grammar/ev-forms-&-function-quiz",
+      "date": "2026-06-14",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVForms&FunctionBookkeepingQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "EV Forms & Function Bookkeeping Quiz",
+      "content": "EV Forms & Function Bookkeeping",
+      "slug": "grammar/ev-forms-&-function-bookkeeping-quiz",
+      "date": "2026-06-16",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Pronunciation",
       "categoryDisplay": "Pronunciation",
       "categorySlug": "pronunciation",
@@ -1097,39 +1163,6 @@
       "content": "An English teacher is someone with the expertise and skills to impart knowledge and English language skills to students. They play a crucial role in helping students learn and develop their language abilities.",
       "slug": "tieng-anh/what-is-an-english-teacher",
       "date": "2024-04-22",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "TiengAnhQuestions",
-      "categoryDisplay": "Tiếng Anh",
-      "categorySlug": "tieng-anh",
-      "title": "Quiz",
-      "content": "Tiếng Anh Questions",
-      "slug": "tieng-anh/tieng-anh-questions",
-      "date": "2025-12-08",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "TracNghiemNguPhapTiengAnh",
-      "categoryDisplay": "Tiếng Anh",
-      "categorySlug": "tieng-anh",
-      "title": "Quiz",
-      "content": "Trắc Nghiệm Ngữ Pháp Tiếng Anh",
-      "slug": "tieng-anh/trac-nghiem-ngu-phap-tieng-anh",
-      "date": "2025-12-09",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "TracNghiemThiTiengAnh",
-      "categoryDisplay": "Tiếng Anh",
-      "categorySlug": "tieng-anh",
-      "title": "Quiz",
-      "content": "Trắc Nghiệm Thời Gian Hành Động Tiếng Anh",
-      "slug": "tieng-anh/trac-nghiem-thoi-gian-hanh-dong-tieng-anh",
-      "date": "2025-12-11",
       "views": 0,
       "likes": 0
     },
@@ -1350,17 +1383,6 @@
       "content": "KHÓA MỞ CỬA TIẾNG ANH: ĐỔI CẤU TRÚC TIẾNG VIỆT ĐỂ CHINH PHỤC THẾ GIỚI",
       "slug": "tieng-anh/think-straight-flow-fast-8",
       "date": "2026-01-12",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "EVParaphrasingTechniquesQuiz",
-      "categoryDisplay": "Tiếng Anh",
-      "categorySlug": "tieng-anh",
-      "title": "Trắc Nghiệm Paraphrasing Techniques",
-      "content": "Trắc Nghiệm Paraphrasing Techniques là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
-      "slug": "tieng-anh/ev-paraphrasing-techniques-quiz",
-      "date": "2026-04-16",
       "views": 0,
       "likes": 0
     },
@@ -2164,28 +2186,6 @@
       "content": "emBEDded STRUCture 1: BẬT TƯ DUY LẬP TRÌNH: TUYỆT CHƯƠNG ĐÓNG GÓI MÃ NGUỒN [CƠ][CỤM][CÂU]",
       "slug": "tieng-anh/emBEDded-structure-1",
       "date": "2026-06-11",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "EVMatrixQuiz",
-      "categoryDisplay": "Tiếng Anh",
-      "categorySlug": "tieng-anh",
-      "title": "EV Matrix Quiz",
-      "content": "Hình thái × Chức năng Matrix",
-      "slug": "tieng-anh/ev-matrix-quiz",
-      "date": "2026-06-14",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "EVBookkeepingMatrix",
-      "categoryDisplay": "Tiếng Anh",
-      "categorySlug": "tieng-anh",
-      "title": "EV Bookkeeping Matrix",
-      "content": "EV Bookkeeping Matrix",
-      "slug": "tieng-anh/ev-bookkeeping-matrix-quiz",
-      "date": "2026-06-16",
       "views": 0,
       "likes": 0
     },

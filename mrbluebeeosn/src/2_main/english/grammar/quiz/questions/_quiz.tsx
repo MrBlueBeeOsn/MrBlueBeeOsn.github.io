@@ -1,7 +1,7 @@
 // EnglishPracticeQuizDPDK.tsx
 
 import React, { useState, useEffect } from 'react';
-import EnglishPracticeQuiz from '../../../../components/quiz/EnglishPracticeQuiz';
+import EnglishPracticeQuiz from '../../../../../components/quiz/EnglishPracticeQuiz';
 
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
@@ -22,103 +22,123 @@ export default function (): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: " \n ",
+			question: "",
 			options: [
+				"",
+				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: ""
 		},
 		{
 			id: 2,
-			question: " \n ",
+			question: "",
 			options: [
+				"",
+				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: ""
 		},
 		{
 			id: 3,
-			question: " \n ",
+			question: "",
 			options: [
+				"",
+				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: ""
 		},
 		{
 			id: 4,
-			question: " \n ",
+			question: "",
 			options: [
+				"",
+				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: ""
 		},
 		{
 			id: 5,
-			question: " \n ",
+			question: "",
 			options: [
+				"",
+				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: ""
 		},
 		{
 			id: 6,
-			question: " \n ",
+			question: "",
 			options: [
+				"",
+				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: ""
 		},
 		{
 			id: 7,
-			question: " \n ",
+			question: "",
 			options: [
+				"",
+				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: ""
 		},
 		{
 			id: 8,
-			question: " \n ",
+			question: "",
 			options: [
+				"",
+				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: ""
 		},
 		{
 			id: 9,
-			question: " \n ",
+			question: "",
 			options: [
+				"",
+				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: ""
 		},
 		{
 			id: 10,
-			question: " \n ",
+			question: "",
 			options: [
+				"",
+				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: ""
 		}
 	];
 
@@ -128,11 +148,11 @@ export default function (): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/english#matrix-quiz"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
-	
+				<h4><HashLink smooth to="/grammar#grammar-quiz"><mark className="highlight-tertiary-padding-4-8">Grammar Quiz</mark></HashLink></h4>
+									
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">Form × Function Matrix</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental English concepts</p>
+					<h1 className="margin-y-50 text-center">Grammar Quiz</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental Grammar</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />
@@ -140,7 +160,7 @@ export default function (): React.JSX.Element {
 				<div className="viewcounter">
 	
 					<div className="post-date no-margin">
-						<span>JUNE 14, 2026 · by 💎GEM ·</span>
+						<span> · by 💎GEM ·</span>
 					</div>
 	
 				</div>
