@@ -43,7 +43,7 @@ export default function GrammarIndex(): React.JSX.Element {
 
         <details className="sub-box-fix-2">
       
-          <summary id="verb-forms"><mark className="highlight-secondary-padding-2-4">Verb Forms</mark></summary>
+          <summary id="verb-forms"><mark className="highlight-secondary-padding-2-4">Verb Forms Quiz</mark></summary>
 
           <ul className="list-border1">
 
@@ -89,7 +89,7 @@ export default function GrammarIndex(): React.JSX.Element {
 
         <details className="sub-box-fix-2">
       
-          <summary id="tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Tenses</mark></summary>
+          <summary id="tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Tenses Quiz</mark></summary>
 
           <ul className="list-border1">
 
@@ -102,6 +102,49 @@ export default function GrammarIndex(): React.JSX.Element {
           </ul>
 
         </details>
+
+        {/* =============================
+              Primary Auxiliary Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="Auxiliary-Verbs-Quiz"><mark className="highlight-secondary-padding-2-4">Auxiliary Verbs Quiz</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/en-auxiliary-verbs-quiz">Auxiliary Verbs Quiz (EN)</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/ev-auxiliary-verbs-quiz">Auxiliary Verbs Quiz (EV)</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/en-primary-auxiliary-verbs-quiz">Primary Auxiliary Verbs Quiz (EN)</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/ev-primary-auxiliary-verbs-quiz">Primary Auxiliary Verbs Quiz (EV)</Link>
+              </div>
+            </li>
+
+            
+
+            
+            
+          </ul>
+
+        </details>
+
 
       </div>
 

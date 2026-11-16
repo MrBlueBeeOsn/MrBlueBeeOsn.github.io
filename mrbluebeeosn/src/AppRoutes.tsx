@@ -74,11 +74,6 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Subject-Verb Agreement
 	const ENSubjectVerbQuiz = lazy(() => import('@/2_main/english/quiz/sva/ENSubjectVerbQuiz'));
 
-	// Primary Auxiliary Verbs
-	const PrimaryAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/quiz/primaryauxiliaryverbs/PrimaryAuxiliaryVerbsQuiz'));
-
-	// Auxiliary Verbs
-	const ENAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/quiz/auxiliaryverbs/ENAuxiliaryVerbsQuiz'));
 
 	// Singular Plural Verbs
 	const SingularPluralVerbsQuiz = lazy(() => import('@/2_main/english/quiz/singularpluralverbs/SingularPluralVerbsQuiz'));
@@ -147,6 +142,12 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Quiz
 	const EnglishGrammarQuestions = lazy(() => import('@/2_main/english/grammar/quiz/EnglishGrammarQuestions'));
 	const EnglishGrammarQuestions2 = lazy(() => import('@/2_main/english/grammar/quiz/EnglishGrammarQuestions2'));
+
+	// Auxiliary Verbs
+	const ENAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/auxiliaryverbs/ENAuxiliaryVerbsQuiz'));
+	const EVAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/auxiliaryverbs/EVAuxiliaryVerbsQuiz'));
+	const ENPrimaryAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/auxiliaryverbs/ENPrimaryAuxiliaryVerbsQuiz'));
+	const EVPrimaryAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/auxiliaryverbs/EVPrimaryAuxiliaryVerbsQuiz'));
 
 	// Tenses
 	const EnglishTensesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/tenses/EnglishTensesQuiz'));
@@ -343,12 +344,6 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// Subject-Verb Agreement
 	const EVSubjectVerbQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/sva/EVSubjectVerbQuiz'));
-
-	// Primary Auxiliary Verbs
-	const EVPrimaryAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evprimaryauxiliaryverbs/EVPrimaryAuxiliaryVerbsQuiz'));
-
-	// AuxiliaryVerbsQuiz
-	const EVAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/trodongtu/EVAuxiliaryVerbsQuiz'));
 
 	// EVSingularPluralVerbsQuiz
 	const EVSingularPluralVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evsingularpluralverbs/EVSingularPluralVerbsQuiz'));
@@ -729,12 +724,6 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Subject-Verb Agreement */}
 					<Route path="/english/en-subject-verb-quiz" element={<ENSubjectVerbQuiz />} />
 
-					{/* Primary Auxiliary Verbs */}
-					<Route path="/english/primary-auxiliary-verbs-quiz" element={<PrimaryAuxiliaryVerbsQuiz />} />
-
-					{/* Auxiliary Verbs */}
-					<Route path="/english/en-auxiliary-verbs-quiz" element={<ENAuxiliaryVerbsQuiz />} />
-
 					{/* Singular and Plural Verbs */}
 					<Route path="/english/singular-and-plural-verbs-quiz" element={<SingularPluralVerbsQuiz />} />
 
@@ -804,6 +793,12 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />
 					<Route path="/grammar/english-grammar-questions-2" element={<EnglishGrammarQuestions2 />} />
+
+					{/* Auxiliary Verbs */}
+					<Route path="/grammar/en-auxiliary-verbs-quiz" element={<ENAuxiliaryVerbsQuiz />} />
+					<Route path="/grammar/ev-auxiliary-verbs-quiz" element={<EVAuxiliaryVerbsQuiz />} />
+					<Route path="/grammar/en-primary-auxiliary-verbs-quiz" element={<ENPrimaryAuxiliaryVerbsQuiz />} />
+					<Route path="/grammar/ev-primary-auxiliary-verbs-quiz" element={<EVPrimaryAuxiliaryVerbsQuiz />} />
 
 					{/* Tenses */}
 					<Route path="/grammar/english-tenses-quiz" element={<EnglishTensesQuiz />} />
@@ -999,12 +994,6 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* Subject-Verb Agreement */}
 					<Route path="/tieng-anh/ev-subject-verb-quiz" element={<EVSubjectVerbQuiz />} />
-
-					{/* Primary Auxiliary Verbs */}
-					<Route path="/tieng-anh/ev-primary-auxiliary-verbs-quiz" element={<EVPrimaryAuxiliaryVerbsQuiz />} />
-
-					{/* Auxiliary Verbs */}
-					<Route path="/tieng-anh/ev-auxiliary-verbs-quiz" element={<EVAuxiliaryVerbsQuiz />} />
 
 					{/* EVSingularPluralVerbs */}
 					<Route path="/tieng-anh/ev-singular-and-plural-verbs-quiz" element={<EVSingularPluralVerbsQuiz />} />

@@ -176,6 +176,14 @@ export default function VerbForms(): React.JSX.Element {
           <tbody>
 
             <tr>
+              <td>Be (irregular)</td>
+              <td>Was / Were</td>
+							<td>Been</td>
+              <td>Being</td>
+							<td>Is (Note: Present simple also uses am and are)</td>
+            </tr>
+
+						<tr>
               <td>Work (regular)</td>
               <td>Worked</td>
 							<td>Worked</td>

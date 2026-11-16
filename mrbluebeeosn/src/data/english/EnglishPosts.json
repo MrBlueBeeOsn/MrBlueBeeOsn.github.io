@@ -100,15 +100,6 @@
       "date": "2026-03-25"
     },
     { 
-      "id": "PrimaryAuxiliaryVerbsQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Primary Auxiliary Verbs Quiz",
-      "slug": "english/primary-auxiliary-verbs-quiz",
-      "date": "2026-03-26"
-    },
-    { 
       "id": "SingularPluralVerbsQuiz",
       "categoryDisplay": "English",
       "categorySlug": "english",

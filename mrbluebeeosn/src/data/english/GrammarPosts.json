@@ -251,6 +251,33 @@
       "content": "Test your knowledge of verb forms with this quiz! Challenge yourself and see how well you know the different forms of verbs in English.",
       "slug": "grammar/verb-forms-01-10",
       "date": "2026-11-16"
-    }
+    },
+    { 
+      "id": "ENPrimaryAuxiliaryVerbsQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "EN Primary Auxiliary Verbs Quiz",
+      "content": "Test your knowledge of primary auxiliary verbs with this quiz! Challenge yourself and see how well you know the different forms of primary auxiliary verbs in English.",
+      "slug": "grammar/en-primary-auxiliary-verbs-quiz",
+      "date": "2026-03-26"
+    },
+		{
+			"id": "EVAuxiliaryVerbsQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Auxiliary Verbs Quiz",
+			"content": "Test your knowledge of auxiliary verbs with this quiz! Challenge yourself and see how well you know the different forms of auxiliary verbs in English.",
+			"slug": "grammar/ev-auxiliary-verbs-quiz",
+			"date": "2026-03-25"
+		},
+		{
+			"id": "EVPrimaryAuxiliaryVerbsQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Primary Auxiliary Verbs Quiz",
+			"content": "Test your knowledge of primary auxiliary verbs with this quiz! Challenge yourself and see how well you know the different forms of primary auxiliary verbs in English.",
+			"slug": "grammar/ev-primary-auxiliary-verbs-quiz",
+			"date": "2026-03-26"
+		}
   ]
 }

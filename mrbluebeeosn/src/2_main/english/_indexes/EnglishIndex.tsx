@@ -192,49 +192,7 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </details>
 
-        {/* =============================
-              Primary Auxiliary Verbs Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="primary-auxiliary-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Primary Auxiliary Verbs</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/primary-auxiliary-verbs-quiz">Primary Auxiliary Verbs Quiz</Link>
-              </div>
-            </li>
-
-           
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              EN Auxiliary Verbs Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="en-auxiliary-verbs-basic-practice"><mark className="highlight-secondary-padding-2-4">Auxiliary Verbs</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/en-auxiliary-verbs-quiz">Auxiliary Verbs Quiz</Link>
-              </div>
-            </li>
-
-           
-            
-          </ul>
-
-        </details>
+        
 
         {/* =============================
               Singular and Plural Verbs Quiz

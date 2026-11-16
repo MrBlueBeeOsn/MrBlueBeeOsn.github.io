@@ -148,7 +148,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/tieng-anh#ev-primary-auxiliary-verbs-quiz"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
+				<h4><HashLink smooth to="/grammar#Auxiliary-Verbs-Quiz"><mark className="highlight-tertiary-padding-4-8">Auxiliary Verbs</mark></HashLink></h4>
 	
 				<header className="quiz-header">
 					<h1 className="margin-y-50 text-center">Trắc Nghiệm Primary Auxiliary Verbs</h1>
