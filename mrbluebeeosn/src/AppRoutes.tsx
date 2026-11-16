@@ -65,20 +65,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// TOEIC
 	const TOEICPractice = lazy(() => import('@/2_main/english/quiz/toeic/TOEICPractice'));
 
-	// Phrasal Verbs
-	const PhrasalVerbsQuestions = lazy(() => import('@/2_main/english/quiz/phrasalverbs/PhrasalVerbsQuestions'));
-
-	// Gerunds and Infinitives
-	const GerundsAndInfinitivesQuiz = lazy(() => import('@/2_main/english/quiz/vingtov/GerundsandInfinitivesQuiz'));
-
 	// Paraphrasing Techniques Quiz
 	const ParaphrasingTechniquesQuiz = lazy(() => import('@/2_main/english/quiz/paraphrasing/ParaphrasingTechniquesQuiz'));
-
-	// DC Quiz
-	const DCQuiz = lazy(() => import('@/2_main/english/quiz/dc/DCQuiz'));
-	const AdjectiveClausesQuiz = lazy(() => import('@/2_main/english/quiz/dc/AdjectiveClausesQuiz'));
-	const AdverbClausesQuiz = lazy(() => import('@/2_main/english/quiz/dc/AdverbClausesQuiz'));
-	const NounClausesQuiz = lazy(() => import('@/2_main/english/quiz/dc/NounClausesQuiz'));
 
 	// Matrix Quiz
 	const MatrixQuiz = lazy(() => import('@/2_main/english/quiz/matrix/MatrixQuiz'));
@@ -153,12 +141,31 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const EVSubjectVerbQuiz = lazy(() => import('@/2_main/english/grammar/quiz/s&v/EVSubjectVerbQuiz'));
 
 	// S And Es In Nouns Verbs
-	const SAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/s&es/SAndEsInNounsVerbsQuiz'));
-	const EVSAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/s&es/EVSAndEsInNounsVerbsQuiz'));
+	const SAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/s&es/S&ESQuiz'));
+	const EVSAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/s&es/EVS&ESQuiz'));
 
 	// Articles Quiz
 	const ArticlesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/articles/ArticlesQuiz'));
 	const EVArticlesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/articles/EVArticlesQuiz'));
+
+	// Phrasal Verbs
+	const PhrasalVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/phrasalverbs/PhrasalVerbsQuiz'));
+	const EVPhrasalVerbsQuiz = lazy(() => import('@/2_main/english/grammar/quiz/phrasalverbs/EVPhrasalVerbsQuiz'));
+
+	// Gerunds and Infinitives
+	const GerundsAndInfinitivesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/ving&tov/GerundsandInfinitivesQuiz'));
+	const EVGerundsAndInfinitivesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/ving&tov/EVGerundsandInfinitivesQuiz'));
+
+	// DC Quiz
+	const DCQuiz = lazy(() => import('@/2_main/english/grammar/quiz/dc/DCQuiz'));
+	const AdjectiveClausesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/dc/AdjectiveClausesQuiz'));
+	const AdverbClausesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/dc/AdverbClausesQuiz'));
+	const NounClausesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/dc/NounClausesQuiz'));
+	const EVDCQuiz = lazy(() => import('@/2_main/english/grammar/quiz/dc/EVDCQuiz'));
+	const EVAdjectiveClausesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/dc/EVAdjectiveClausesQuiz'));
+	const EVAdverbClausesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/dc/EVAdverbClausesQuiz'));
+	const EVNounClausesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/dc/EVNounClausesQuiz'));
+	
 	
 	// 3. Pronunciation
 	const PronunciationIndex = lazy(() => import('@/2_main/english/_indexes/PronunciationIndex'));
@@ -338,23 +345,11 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Ngữ pháp
 	const TracNghiemNguPhapTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/nguphap/TracNghiemNguPhapTiengAnh'));
 
-	// Động cụm
-	const PhrasalVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/cumdongtu/PhrasalVerbsQuiz'));
-
 	// Thời Gian Hành Động
 	const TracNghiemThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/thi/TracNghiemThiTiengAnh'));
 
-	// Gerunds and Infinitives
-	const TracNghiemGerundsAndInfinitives = lazy(() => import('@/2_main/english/tienganh/quiz/vingtov/TracNghiemGerundsAndInfinitives'));
-
 	// EV Paraphrasing TechniquesQuiz
 	const EVParaphrasingTechniquesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evparaphrasing/EVParaphrasingTechniquesQuiz'));
-
-	// EV DC Quiz
-	const EVDCQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evdc/EVDCQuiz'));
-	const EVAdjectiveClausesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evdc/EVAdjectiveClausesQuiz'));
-	const EVAdverbClausesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evdc/EVAdverbClausesQuiz'));
-	const EVNounClausesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evdc/EVNounClausesQuiz'));
 
 	// EV Matrix Quiz
 	const EVMatrixQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evmatrix/EVMatrixQuiz'));
@@ -702,20 +697,8 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* TOEIC */}
 					<Route path="/english/toeic-practice" element={<TOEICPractice />} />
 
-					{/* Phrasal Verbs */}
-					<Route path="/english/phrasal-verbs-questions" element={<PhrasalVerbsQuestions />} />
-
-					{/* Gerunds and Infinitives */}
-					<Route path="/english/gerunds-and-infinitives-quiz" element={<GerundsAndInfinitivesQuiz />} />
-
 					{/* Paraphrasing Techniques Quiz */}
 					<Route path="/english/paraphrasing-techniques-quiz" element={<ParaphrasingTechniquesQuiz />} />
-
-					{/* DC Quiz */}
-					<Route path="/english/dc-quiz" element={<DCQuiz />} />
-					<Route path="/english/adjective-clauses-quiz" element={<AdjectiveClausesQuiz />} />
-					<Route path="/english/adverb-clauses-quiz" element={<AdverbClausesQuiz />} />
-					<Route path="/english/noun-clauses-quiz" element={<NounClausesQuiz />} />
 
 					{/* Matrix Quiz */}
 					<Route path="/english/matrix-quiz" element={<MatrixQuiz />} />
@@ -724,10 +707,7 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Matrix Quiz */}
 					<Route path="/english/bookkeeping-matrix-quiz" element={<BookkeepingMatrix />} />
 					
-					
-					
-
-
+				
 
 					{/* 2. Grammar */}
 					<Route path="/grammar" element={<GrammarIndex />} />
@@ -792,12 +772,33 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/ev-subject-verb-quiz" element={<EVSubjectVerbQuiz />} />
 
 					{/* S And Es In Nouns Verbs */}
-					<Route path="/grammar/s-and-es-in-nouns-and-verbs-quiz" element={<SAndEsInNounsVerbsQuiz />} />
-					<Route path="/grammar/ev-s-and-es-in-nouns-and-verbs-quiz" element={<EVSAndEsInNounsVerbsQuiz />} />
+					<Route path="/grammar/s-and-es-quiz" element={<SAndEsInNounsVerbsQuiz />} />
+					<Route path="/grammar/ev-s-and-es-quiz" element={<EVSAndEsInNounsVerbsQuiz />} />
 
 					{/* Articles Quiz */}
 					<Route path="/grammar/articles-quiz" element={<ArticlesQuiz />} />
 					<Route path="/grammar/ev-articles-quiz" element={<EVArticlesQuiz />} />
+
+
+					{/* Phrasal Verbs */}
+					<Route path="/grammar/phrasal-Verbs-quiz" element={<PhrasalVerbsQuiz />} />
+					<Route path="/grammar/ev-phrasal-Verbs-quiz" element={<EVPhrasalVerbsQuiz />} />
+
+					{/* Gerunds and Infinitives */}
+					<Route path="/grammar/gerunds-and-infinitives-quiz" element={<GerundsAndInfinitivesQuiz />} />
+					<Route path="/grammar/ev-gerunds-and-infinitives-quiz" element={<EVGerundsAndInfinitivesQuiz />} />
+
+					{/* DC Quiz */}
+					<Route path="/grammar/dc-quiz" element={<DCQuiz />} />
+					<Route path="/grammar/adjective-clauses-quiz" element={<AdjectiveClausesQuiz />} />
+					<Route path="/grammar/adverb-clauses-quiz" element={<AdverbClausesQuiz />} />
+					<Route path="/grammar/noun-clauses-quiz" element={<NounClausesQuiz />} />
+					<Route path="/grammar/ev-dc-quiz" element={<EVDCQuiz />} />
+					<Route path="/grammar/ev-adjective-clauses-quiz" element={<EVAdjectiveClausesQuiz />} />
+					<Route path="/grammar/ev-adverb-clauses-quiz" element={<EVAdverbClausesQuiz />} />
+					<Route path="/grammar/ev-noun-clauses-quiz" element={<EVNounClausesQuiz />} />
+
+					
 
 					
 					{/* 3. Pronunciation */}
@@ -977,23 +978,11 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Ngữ pháp */}
 					<Route path="/tieng-anh/trac-nghiem-ngu-phap-tieng-anh" element={<TracNghiemNguPhapTiengAnh />} />
 
-					{/* Động cụm */}
-					<Route path="/tieng-anh/phrasal-verbs-quiz" element={<PhrasalVerbsQuiz />} />
-
 					{/* Thời gian hành động tiếng Anh */}
 					<Route path="/tieng-anh/trac-nghiem-thoi-gian-hanh-dong-tieng-anh" element={<TracNghiemThiTiengAnh />} />
 
-					{/* Gerunds and Infinitives */}
-					<Route path="/tieng-anh/trac-nghiem-gerunds-and-infinitives" element={<TracNghiemGerundsAndInfinitives />} />
-
 					{/* EV Paraphrasing TechniquesQuiz */}
 					<Route path="/tieng-anh/ev-paraphrasing-techniques-quiz" element={<EVParaphrasingTechniquesQuiz />} />
-
-					{/* EV DC Quiz */}
-					<Route path="/tieng-anh/ev-dc-quiz" element={<EVDCQuiz />} />
-					<Route path="/tieng-anh/ev-adjective-clauses-quiz" element={<EVAdjectiveClausesQuiz />} />
-					<Route path="/tieng-anh/ev-adverb-clauses-quiz" element={<EVAdverbClausesQuiz />} />
-					<Route path="/tieng-anh/ev-noun-clauses-quiz" element={<EVNounClausesQuiz />} />
 
 					{/* EV Matrix Quiz */}
 					<Route path="/tieng-anh/ev-matrix-quiz" element={<EVMatrixQuiz />} />
@@ -1001,11 +990,6 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* EV Matrix Quiz */}
 					<Route path="/tieng-anh/ev-bookkeeping-matrix-quiz" element={<EVBookkeepingMatrix />} />
 					
-
-
-
-
-
 
 					{/* Vocabulary */}
 					<Route path="/vocabulary" element={<VocabularyIndex />} />

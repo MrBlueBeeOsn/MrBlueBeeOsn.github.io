@@ -1,4 +1,4 @@
-// TiengAnhPracticeQuizDPDK.tsx
+// EnglishPracticeQuizDPDK.tsx
 
 import React, { useState, useEffect } from 'react';
 import EnglishPracticeQuiz from '../../../../../components/quiz/EnglishPracticeQuiz';
@@ -18,7 +18,7 @@ interface Question {
 }
 
 export default function (): React.JSX.Element {
-	// Danh sách câu hỏi về Gerunds (V-ing) và Infinitives (To V/V nguyên thể) cơ bản
+	// Danh sách câu hỏi về Phrasal Verbs cơ bản
 	const questions: Question[] = [
 		{
 			id: 1,
@@ -148,11 +148,11 @@ export default function (): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/tieng-anh#ving-tov-basic-practice"><mark className="highlight-tertiary-padding-4-8">Gerunds and Infinitives</mark></HashLink></h4>
+				<h4><HashLink smooth to="/grammar#phrasal-verbs-quiz"><mark className="highlight-tertiary-padding-4-8">Phrasal Verbs Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center"></h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental Gerunds (V-ing) và Infinitives (To V/V nguyên thể)</p>
+					<h1 className="margin-y-50 text-center">Phrasal Verbs Questions Quiz</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental Phrasal Verbs</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

@@ -148,11 +148,11 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/tieng-anh#ev-dc-quiz"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
+				<h4><HashLink smooth to="/grammar#clauses-quiz"><mark className="highlight-tertiary-padding-4-8">Clauses Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">Trắc Nghiệm DC - Noun</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental ngữ pháp tiếng Anh concepts</p>
+					<h1 className="margin-y-50 text-center">Noun Clauses Quiz (EV)</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental Clauses</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

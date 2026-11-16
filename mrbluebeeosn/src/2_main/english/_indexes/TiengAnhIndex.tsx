@@ -79,27 +79,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </details>
 
-        {/* =============================
-              Phrasal Verbs Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="cum-dong-tu-basic-practice"><mark className="highlight-secondary-padding-2-4">Động cụm</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/phrasal-verbs-quiz">Phrasal Verbs Quiz</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
+        
 
         {/* =============================
               EV Tense Quiz
@@ -123,29 +103,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </details>
 
-        {/* =============================
-              GERunds and inFINitives Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ving-tov-basic-practice"><mark className="highlight-secondary-padding-2-4">GERunds and inFINitives</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/trac-nghiem-gerunds-and-infinitives">Trắc Nghiệm Gerunds và Infinitives</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-      
+   
 
         {/* =============================
               EV ParaphrasingTechniquesQuiz
@@ -169,46 +127,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </details>
 
-        {/* =============================
-              EV DC Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-dc-quiz"><mark className="highlight-secondary-padding-2-4">DC</mark></summary>
-
-          <ul className="list-border1">
-
-            
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-adjective-clauses-quiz">Trắc Nghiệm DC - Adjective</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-adverb-clauses-quiz">Trắc Nghiệm DC - Adverb</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-noun-clauses-quiz">Trắc Nghiệm DC - Noun</Link>
-              </div>
-            </li>
-            
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-dc-quiz">Trắc Nghiệm DC</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
+        
 
         {/* =============================
               EV Matrix Quiz

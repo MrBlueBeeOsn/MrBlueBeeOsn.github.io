@@ -1,7 +1,7 @@
 // EnglishPracticeQuizDPDK.tsx
 
 import React, { useState, useEffect } from 'react';
-import EnglishPracticeQuiz from '../../../../components/quiz/EnglishPracticeQuiz';
+import EnglishPracticeQuiz from '../../../../../components/quiz/EnglishPracticeQuiz';
 
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
@@ -148,10 +148,10 @@ export default function GerundsAndInfinitivesQuiz(): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/english#ving-tov-basic-practice"><mark className="highlight-tertiary-padding-4-8">Gerunds and Infinitives</mark></HashLink></h4>
+				<h4><HashLink smooth to="/grammar#gerunds&infinitives-quiz"><mark className="highlight-tertiary-padding-4-8">Gerunds and Infinitives Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center"></h1>
+					<h1 className="margin-y-50 text-center">Gerunds and Infinitives Quiz</h1>
 					<p className="subtitle text-center">Test your knowledge of fundamental Gerunds and Infinitives</p>
 				</header>
 	

@@ -126,50 +126,6 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </details>
 
-        {/* =============================
-              TOEIC Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="phrasal-verbs-basic-practice"><mark className="highlight-secondary-padding-2-4">Phrasal Verbs</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/phrasal-verbs-questions">Phrasal Verbs Questions</Link>
-              </div>
-            </li>
-
-           
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              Gerunds andInfinitives Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ving-tov-basic-practice"><mark className="highlight-secondary-padding-2-4">Gerunds and Infinitives</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/gerunds-and-infinitives-quiz">Gerunds and Infinitives Quiz</Link>
-              </div>
-            </li>
-
-           
-            
-          </ul>
-
-        </details>
-
         
 
         {/* =============================
@@ -194,45 +150,7 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </details>
 
-        {/* =============================
-              Dependent Clauses Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="dc-quiz"><mark className="highlight-secondary-padding-2-4">DC</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/adjective-clauses-quiz">Adjective - DC Quiz</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/adverb-clauses-quiz">Adverb - DC Quiz</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/noun-clauses-quiz">Noun - DC Quiz</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/dc-quiz">DC Quiz</Link>
-              </div>
-            </li>
-
-           
-            
-          </ul>
-
-        </details>
+        
 
         {/* =============================
               Matrix Quiz

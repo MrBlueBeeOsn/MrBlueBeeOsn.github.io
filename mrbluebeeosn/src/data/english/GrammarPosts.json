@@ -343,12 +343,12 @@
       "date": "2026-03-20"
     },
     { 
-      "id": "SAndEsInNounsVerbsQuiz",
+      "id": "SAndESQuiz",
       "categoryDisplay": "Grammar",
 			"categorySlug": "grammar",
       "title": "Quiz",
-      "content": "S And Es In Nouns Verbs Quiz",
-      "slug": "grammar/s-and-es-in-nouns-and-verbs-quiz",
+      "content": "S And ES Quiz",
+      "slug": "grammar/s-and-es-quiz",
       "date": "2026-04-05"
     },
     { 
@@ -370,12 +370,12 @@
 			"date": "2026-03-20"
 		},
 		{
-			"id": "EVSAndEsInNounsVerbsQuiz",
+			"id": "EVSAndESQuiz",
 			"categoryDisplay": "Grammar",
 			"categorySlug": "grammar",
-			"title": "EVSAndEsInNounsVerbsQuiz",
+			"title": "EVSAndEsQuiz",
 			"content": "Test your knowledge of singular and plural forms of nouns and verbs with this quiz! Challenge yourself and see how well you know the rules of singular and plural forms in English.",
-			"slug": "grammar/ev-s-and-es-in-nouns-and-verbs-quiz",
+			"slug": "grammar/ev-s-and-es-quiz",
 			"date": "2026-04-05"
 		},
 		{
@@ -386,6 +386,114 @@
 			"content": "Test your knowledge of articles with this quiz! Challenge yourself and see how well you know the rules of using articles in English.",
 			"slug": "grammar/ev-articles-quiz",
 			"date": "2026-04-15"
+		},
+    { 
+      "id": "PhrasalVerbsQuiz",
+      "categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+      "title": "Phrasal Verbs Quiz",
+      "content": "Phrasal Verbs Questions",
+      "slug": "grammar/phrasal-verbs-quiz",
+      "date": "2025-12-10"
+    },
+    { 
+      "id": "GerundsAndInfinitivesQuiz",
+      "categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Gerunds and Infinitives Quiz",
+      "slug": "grammar/gerunds-and-infinitives-quiz",
+      "date": "2025-12-28"
+    },
+		{
+			"id": "EVPhrasalVerbsQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "Quiz",
+			"content": "EV Phrasal Verbs Quiz",
+			"slug": "grammar/ev-phrasal-verbs-quiz",
+			"date": "2025-12-10"
+		},
+		{
+			"id": "EVGerundsandInfinitivesQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Gerunds and Infinitives Quiz",
+			"content": "EV Gerunds and Infinitives Quiz",
+			"slug": "grammar/EV-gerunds-and-infinitives-quiz",
+			"date": "2025-12-28"
+		},
+    { 
+      "id": "DCQuiz",
+      "categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Dependent Clauses Quiz",
+      "slug": "grammar/dc-quiz",
+      "date": "2026-05-23"
+    },
+    { 
+      "id": "AdjectiveClausesQuiz",
+      "categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Adjective Clauses Quiz",
+      "slug": "grammar/adjective-clauses-quiz",
+      "date": "2026-05-25"
+    },
+    { 
+      "id": "AdverbClausesQuiz",
+      "categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Adverb Clauses Quiz",
+      "slug": "grammar/adverb-clauses-quiz",
+      "date": "2026-05-25"
+    },
+    { 
+      "id": "NounClausesQuiz",
+      "categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "Noun Clauses Quiz",
+      "slug": "grammar/noun-clauses-quiz",
+      "date": "2026-05-25"
+    },
+		{
+			"id": "EVDCQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV DC Quiz",
+			"content": "EV DC Quiz",
+			"slug": "grammar/ev-dc-quiz",
+			"date": "2026-05-23"
+		},
+		{
+			"id": "EVAdjectiveClausesQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Adjective Clauses Quiz",
+			"content": "EV Adjective Clauses Quiz",
+			"slug": "grammar/ev-adjective-clauses-quiz",
+			"date": "2026-05-25"
+		},
+		{
+			"id": "EVAdverbClausesQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Adverb Clauses Quiz",
+			"content": "EV Adverb Clauses Quiz",
+			"slug": "grammar/ev-adverb-clauses-quiz",
+			"date": "2026-05-25"
+		},
+		{
+			"id": "EVNounClauseQuiz",
+			"categoryDisplay": "Grammar",
+			"categorySlug": "grammar",
+			"title": "EV Noun Clause Quiz",
+			"content": "EV Noun Clause Quiz",
+			"slug": "grammar/ev-noun-clauses-quiz",
+			"date": "2026-05-25"
 		}
   ]
 }

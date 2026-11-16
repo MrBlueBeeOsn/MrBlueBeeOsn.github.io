@@ -272,13 +272,13 @@ export default function GrammarIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/s-and-es-in-nouns-and-verbs-quiz">S & ES Quiz</Link>
+                <Link to="/grammar/s-and-es-quiz">S & ES Quiz</Link>
               </div>
             </li>
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/ev-s-and-es-in-nouns-and-verbs-quiz">S & ES Quiz (EV)</Link>
+                <Link to="/grammar/ev-s-and-es-quiz">S & ES Quiz (EV)</Link>
               </div>
             </li>
 
@@ -316,6 +316,125 @@ export default function GrammarIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              TOEIC Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="phrasal-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Phrasal Verbs Quiz</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/phrasal-Verbs-quiz">PhrasalVerbsQuiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/ev-phrasal-verbs-quiz">Phrasal Verbs Quiz (EV)</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+          Gerunds andInfinitives Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="gerunds&infinitives-quiz"><mark className="highlight-secondary-padding-2-4">Gerunds and Infinitives Quiz</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/gerunds-and-infinitives-quiz">Gerunds and Infinitives Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/ev-gerunds-and-infinitives-quiz">Gerunds and Infinitives Quiz (EV)</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+            Clauses Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="clauses-quiz"><mark className="highlight-secondary-padding-2-4">Clauses Quiz</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/adjective-clauses-quiz">Adjective Clauses Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/adverb-clauses-quiz">Adverb Clauses Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/noun-clauses-quiz">Noun Clauses Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/dc-quiz">Dependent Clauses Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/ev-adjective-clauses-quiz">Adjective Clauses (EV)</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/ev-adverb-clauses-quiz">Adverb Clauses Quiz (EV)</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/ev-noun-clauses-quiz">Noun Clauses Quiz (EV)</Link>
+              </div>
+            </li>
+            
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/ev-dc-quiz">Dependent Clauses Quiz (EV)</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
 
 
       </div>

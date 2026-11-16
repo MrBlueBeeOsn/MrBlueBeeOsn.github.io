@@ -17,7 +17,7 @@ interface Question {
 	explanation: string;
 }
 
-export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
+export default function EVGerundsandInfinitivesQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Gerunds (V-ing) và Infinitives (To V/V nguyên thể) cơ bản
 	const questions: Question[] = [
 		{
@@ -148,11 +148,11 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/tieng-anh#ving-tov-basic-practice"><mark className="highlight-tertiary-padding-4-8">Gerunds and Infinitives</mark></HashLink></h4>
+				<h4><HashLink smooth to="/grammar#gerunds&infinitives-quiz"><mark className="highlight-tertiary-padding-4-8">Gerunds and Infinitives Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">Bài tập trắc nghiệm Gerunds & Infinitives</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental Gerunds (V-ing) và Infinitives (To V/V nguyên thể)</p>
+					<h1 className="margin-y-50 text-center">Gerunds and Infinitives Quiz (EV)</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental Gerunds and Infinitives</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

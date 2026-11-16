@@ -1,4 +1,4 @@
-// TiengAnhPracticeQuizDPDK.tsx
+// EnglishPracticeQuizDPDK.tsx
 
 import React, { useState, useEffect } from 'react';
 import EnglishPracticeQuiz from '../../../../../components/quiz/EnglishPracticeQuiz';
@@ -18,7 +18,7 @@ interface Question {
 }
 
 export default function (): React.JSX.Element {
-	// Danh sách câu hỏi về Phrasal Verbs cơ bản
+	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
 		{
 			id: 1,
@@ -148,11 +148,11 @@ export default function (): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/tieng-anh#cum-dong-tu-basic-practice"><mark className="highlight-tertiary-padding-4-8">Phrasal Verbs</mark></HashLink></h4>
+				<h4><HashLink smooth to="/grammar#clauses-quiz"><mark className="highlight-tertiary-padding-4-8">Clauses Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center"></h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental phrasal verbs</p>
+					<h1 className="margin-y-50 text-center">Clauses Quiz</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental Clauses</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

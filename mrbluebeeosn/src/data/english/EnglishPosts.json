@@ -64,24 +64,6 @@
       "date": "2025-12-10"
     },
     { 
-      "id": "PhrasalVerbsQuestions",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Phrasal Verbs Questions",
-      "slug": "english/phrasal-verbs-questions",
-      "date": "2025-12-10"
-    },
-    { 
-      "id": "GerundsAndInfinitivesQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Gerunds and Infinitives Quiz",
-      "slug": "english/gerunds-and-infinitives-quiz",
-      "date": "2025-12-28"
-    },
-    { 
       "id": "ParaphrasingTechniquesQuiz",
       "categoryDisplay": "English",
       "categorySlug": "english",
@@ -89,42 +71,6 @@
       "content": "Paraphrasing Techniques Quiz",
       "slug": "english/paraphrasing-techniques-quiz",
       "date": "2026-04-16"
-    },
-    { 
-      "id": "DCQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Dependent Clauses Quiz",
-      "slug": "english/dc-quiz",
-      "date": "2026-05-23"
-    },
-    { 
-      "id": "AdjectiveClausesQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Adjective Clauses Quiz",
-      "slug": "english/adjective-clauses-quiz",
-      "date": "2026-05-25"
-    },
-    { 
-      "id": "AdverbClausesQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Adverb Clauses Quiz",
-      "slug": "english/adverb-clauses-quiz",
-      "date": "2026-05-25"
-    },
-    { 
-      "id": "NounClausesQuiz",
-      "categoryDisplay": "English",
-      "categorySlug": "english",
-      "title": "Quiz",
-      "content": "Noun Clauses Quiz",
-      "slug": "english/noun-clauses-quiz",
-      "date": "2026-05-25"
     },
 		{
 			"id": "MatrixQuiz",

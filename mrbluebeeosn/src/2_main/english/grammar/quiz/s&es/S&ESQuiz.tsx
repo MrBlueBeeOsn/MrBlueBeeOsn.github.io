@@ -17,7 +17,7 @@ interface Question {
 	explanation: string;
 }
 
-export default function SAndEsInNounsVerbs(): React.JSX.Element {
+export default function SAndESQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
 		{
