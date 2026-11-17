@@ -73,15 +73,6 @@
       "date": "2026-04-16"
     },
 		{
-			"id": "DictationExercise",
-			"categoryDisplay": "English",
-			"categorySlug": "english",
-			"title": "Dictation Exercise",
-			"content": "Dictation Exercise",
-			"slug": "english/dictation-exercise",
-			"date": "2026-11-09"
-		},
-		{
 			"id": "EVParaphrasingTechniquesQuiz",
 			"categoryDisplay": "English",
 			"categorySlug": "english",
@@ -89,6 +80,33 @@
 			"content": "Paraphrasing Techniques Quiz",
 			"slug": "english/ev-paraphrasing-techniques-quiz",
 			"date": "2026-04-16"
+		},
+    { 
+      "id": "TheLIFOMethod",
+      "categoryDisplay": "English",
+			"categorySlug": "english",
+      "title": "The LIFO Method",
+      "content": "Train your brain to use the \"Last In, First Out\" rule.",
+      "slug": "english/LIFO-method",
+      "date": "2026-09-20"
+    },
+    { 
+      "id": "Translating",
+      "categoryDisplay": "English",
+			"categorySlug": "english",
+      "title": "Stop Translating",
+      "content": "Stop Translating! The Secret to Mastering English Vocabulary Long-Term 🚀",
+      "slug": "english/translating",
+      "date": "2026-10-19"
+    },
+		{
+			"id": "DictationExercise",
+			"categoryDisplay": "English",
+			"categorySlug": "english",
+			"title": "Dictation Exercise",
+			"content": "Dictation Exercise",
+			"slug": "english/dictation-exercise",
+			"date": "2026-11-09"
 		}
   ]
 }

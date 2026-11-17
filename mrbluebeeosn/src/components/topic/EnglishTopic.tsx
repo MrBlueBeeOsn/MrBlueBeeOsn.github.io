@@ -81,24 +81,14 @@ export default function EnglishTopic(): React.JSX.Element {
         </NavLink>
 
         {/* Tiếng anh */}
-        <NavLink to="/tieng-anh"
+        {/* <NavLink to="/tieng-anh"
           className={`link-rounded ${selected ? 'selected' : ''}`}
           style={({ isActive }) => ({
             background: isActive ? 'var(--accent-color-50)' : '',
           })}
-          // onMouseEnter={(e) => {
-          //   if (!e.currentTarget.classList.contains('active')) {
-          //     e.currentTarget.style.background = 'var(--accent-color-50)';
-          //   }
-          // }}
-          // onMouseLeave={(e) => {
-          //   if (!e.currentTarget.classList.contains('active')) {
-          //     e.currentTarget.style.background = 'var(--tertiary-color)';
-          //   }
-          // }}
         >
           <mark className="highlight-tertiary-padding-2-4">VietnaMESE</mark>
-        </NavLink>
+        </NavLink> */}
 
         {/* Vocabulary */}
         <NavLink to="/vocabulary"

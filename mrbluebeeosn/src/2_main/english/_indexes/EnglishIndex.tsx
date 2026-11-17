@@ -34,27 +34,7 @@ export default function EnglishIndex(): React.JSX.Element {
       
 
       <div className="vocabulary-container margin-top-20">
-      
-        {/* =============================
-              Dictation Exercise
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="dictation-exercise"><mark className="highlight-secondary-padding-2-4">Dictation</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/dictation-exercise">Dictation Exercise</Link>
-              </div>
-            </li>
-            
-          </ul>
-
-        </details>
-        
+    
         
         {/* =============================
               English Quiz
@@ -156,11 +136,60 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </details>
 
- 
+        {/* =============================
+                Dictation Exercise
+          ============================= */}
+  
+          <details className="sub-box-fix-2">
         
+            <summary id="dictation-exercise"><mark className="highlight-secondary-padding-2-4">Dictation</mark></summary>
+  
+            <ul className="list-border1">
+  
+              <li>
+                <div className="li-content">
+                  <Link to="/english/dictation-exercise">Dictation Exercise</Link>
+                </div>
+              </li>
+              
+            </ul>
+  
+          </details>
+
 
       </div>
 
+
+      <div className="flex-container margin-top-20">
+
+        <div className="sub-box">
+
+
+          {/* =============================
+              Translation
+          ============================= */}
+              
+          <p id="translation"><mark className="highlight-secondary-padding-2-4">Translation</mark></p>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/LIFO-method">LIFO METHod</Link>
+              </div>
+            </li>
+            
+            <li>
+              <div className="li-content">
+                <Link to="/english/translating">Translating</Link>
+              </div>
+            </li>
+
+          </ul>
+
+        </div>
+
+      </div>
 
       <div className="flex-container margin-top-20">
 
@@ -207,7 +236,7 @@ export default function EnglishIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/what-is-an-english-teacher?">What is an English teacher?</Link>
+                <Link to="/english/what-is-an-english-teacher?">What is an English teacher?</Link>
               </div>
             </li>
             
@@ -216,6 +245,7 @@ export default function EnglishIndex(): React.JSX.Element {
         </div>
 
       </div>
+
 
     </article>
     

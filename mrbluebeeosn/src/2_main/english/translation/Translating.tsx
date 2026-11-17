@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function StopTranslating(): React.JSX.Element {
+export default function Translating(): React.JSX.Element {
 
-  const postId = "StopTranslating";
+  const postId = "Translating";
 
   return (<>
 
@@ -15,9 +15,9 @@ export default function StopTranslating(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/grammar#translation"><mark className="highlight-tertiary-padding-4-8">Translation</mark></HashLink></h4>
+      <h4><HashLink smooth to="/english#translation"><mark className="highlight-tertiary-padding-4-8">Translation</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">Stop Translating!</h1>
+      <h1 className="margin-y-50 text-center">Translating!</h1>
 
       {/* This is the content of English Learning Term. */}
 

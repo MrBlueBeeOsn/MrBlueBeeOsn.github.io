@@ -56,9 +56,6 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const EnglishMultipleChoice = lazy(() => import('@/2_main/english/quiz/EnglishMultipleChoice'));
 	const MixedEnglishGrammarAndVocabulary = lazy(() => import('@/2_main/english/quiz/MixedEnglishGrammarAndVocabulary'));
 
-	// DictationExercise
-	const DictationExercise = lazy(() => import('@/2_main/english/quiz/DictationExercise'));
-
 	// IELTS
 	const IELTSQuestions = lazy(() => import('@/2_main/english/quiz/ielts/IELTSQuestions'));
 
@@ -68,6 +65,16 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Paraphrasing Techniques Quiz
 	const ParaphrasingTechniquesQuiz = lazy(() => import('@/2_main/english/quiz/paraphrasing/ParaphrasingTechniquesQuiz'));
 	const EVParaphrasingTechniquesQuiz = lazy(() => import('@/2_main/english/quiz/paraphrasing/EVParaphrasingTechniquesQuiz'));
+
+	
+	// 
+	const LIFOMethod = lazy(() => import('@/2_main/english/translation/LIFOMethod'));
+	const Translating = lazy(() => import('@/2_main/english/translation/Translating'));
+
+
+	// Dictation Exercise
+
+	const DictationExercise = lazy(() => import('@/2_main/english/dictation/DictationExercise'));
 
 	
 
@@ -80,12 +87,16 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const VerbsAddS = lazy(() => import('@/2_main/english/grammar/verbs/VerbAddS'));
 	const VerbAndS = lazy(() => import('@/2_main/english/grammar/verbs/Verb&S'));
 	const VerbAndObject = lazy(() => import('@/2_main/english/grammar/verbs/Verb&Object'));
-	const LIFOMethod = lazy(() => import('@/2_main/english/grammar/translation/LIFOMethod'));
 	const The6ElementFormula = lazy(() => import('@/2_main/english/grammar/wh-questions/The6ElementFormula'));
 	const ContentClauses = lazy(() => import('@/2_main/english/grammar/wh-questions/ContentClauses'));
-	const StopTranslating = lazy(() => import('@/2_main/english/grammar/translation/StopTranslating'));
 	const TensesChart = lazy(() => import('@/2_main/english/grammar/verbs/TensesChart'));
 	const VerbForms = lazy(() => import('@/2_main/english/grammar/verbs/VerbForms'));
+	const SixTypesofVerbs = lazy(() => import('@/2_main/english/grammar/verbs/SixTypesofVerbs'));
+	const PREsentPERfect = lazy(() => import('@/2_main/english/grammar/verbs/PREsentPERfect'));
+
+	
+	// Adj
+	const RecognizingADjectives = lazy(() => import('@/2_main/english/grammar/adj/RecognizingADjectives'));
 	
 	// Modern Grammar
 	
@@ -189,6 +200,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const COMmenter = lazy(() => import('@/2_main/english/pronunciation/COMmenter'));
 	const ConnoisSEUR = lazy(() => import('@/2_main/english/pronunciation/connoisSEUR'));
 
+
 	// 4. Tiếng Anh
 	const TiengAnhIndex = lazy(() => import('@/2_main/english/_indexes/TiengAnhIndex'));
 	const BayDauPhuPhienAmTiengAnh1 = lazy(() => import('@/2_main/english/tienganh/pronunciation/BayDauPhuPhienAmTiengAnh1'));
@@ -198,13 +210,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/WhatisanEnglishteacher'));
 
-	const SauDangHanhDong1 = lazy(() => import('@/2_main/english/tienganh/verbs/SixTypesofVerbs'));
 	const SauDangHanhDong2 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangHanhDong2'));
 
-	const PREsentPERfect = lazy(() => import('@/2_main/english/tienganh/verbs/PREsentPERfect'));
-
 	const GerundsAndInfinitives = lazy(() => import('@/2_main/english/vocabulary/verb/GerundsAndInfinitives'));
-	const NhanBietTinhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/adjective/NhanBietTinhTuTiengAnh'));
 
 	const BiMatVeTuDuyNgonNgu1 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu1'));
 	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu2'));
@@ -674,8 +682,6 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/english/english-multiple-choice" element={<EnglishMultipleChoice />} />
 					<Route path="/english/mixed-english-grammar-&-vocabulary" element={<MixedEnglishGrammarAndVocabulary />} />
 
-					{/* DictationExercise */}
-					<Route path="/english/dictation-exercise" element={<DictationExercise />} />
 
 					{/* IELTS */}
 					<Route path="/english/ielts-questions" element={<IELTSQuestions />} />
@@ -686,6 +692,15 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Paraphrasing Techniques Quiz */}
 					<Route path="/english/paraphrasing-techniques-quiz" element={<ParaphrasingTechniquesQuiz />} />
 					<Route path="/english/ev-paraphrasing-techniques-quiz" element={<EVParaphrasingTechniquesQuiz />} />
+
+					{/*  */}
+					<Route path="/english/LIFO-method" element={<LIFOMethod />} />
+					<Route path="/english/translating" element={<Translating />} />
+
+					
+					{/* Dictation Exercise */}
+
+					<Route path="/english/dictation-exercise" element={<DictationExercise />} />
 
 		
 
@@ -698,12 +713,16 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/Verb-add-S" element={<VerbsAddS />} />
 					<Route path="/grammar/verb-&-S" element={<VerbAndS />} />
 					<Route path="/grammar/verb-&-object" element={<VerbAndObject />} />
-					<Route path="/grammar/LIFO-method" element={<LIFOMethod />} />
 					<Route path="/grammar/6-element-formula" element={<The6ElementFormula />} />
 					<Route path="/grammar/content-clauses" element={<ContentClauses />} />
-					<Route path="/grammar/stop-translating" element={<StopTranslating />} />
 					<Route path="/grammar/tenses-chart" element={<TensesChart />} />
 					<Route path="/grammar/verb-forms" element={<VerbForms />} />
+					<Route path="/grammar/6-types-of-verbs" element={<SixTypesofVerbs />} />
+					<Route path="/grammar/present-perfect" element={<PREsentPERfect />} />
+
+					{/* Adj */}
+					<Route path="/grammar/recognizing-adjectives" element={<RecognizingADjectives />} />
+					
 
 					{/* Modern Grammar */}
 					<Route path="/grammar/preposition-phrase" element={<PrepositionPhrase />} />
@@ -807,6 +826,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/pronunciation/COMmenter" element={<COMmenter />} />
 					<Route path="/pronunciation/connoisSEUR" element={<ConnoisSEUR />} />
 					
+					
 					{/* 4. Tiếng Anh */}
 					<Route path="/tieng-anh" element={<TiengAnhIndex />} />
 					<Route path="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1" element={<BayDauPhuPhienAmTiengAnh1 />} />
@@ -816,13 +836,9 @@ export default function AppRoutes(): React.JSX.Element {
 
 					<Route path="/tieng-anh/what-is-an-english-teacher" element={<GiaoVienTiengAnh />} />
 
-					<Route path="/tieng-anh/6-types-of-verbs" element={<SauDangHanhDong1 />} />
 					<Route path="/tieng-anh/6-dang-hanh-dong-2" element={<SauDangHanhDong2 />} />
 
-					<Route path="/tieng-anh/present-perfect" element={<PREsentPERfect />} />
-
 					<Route path="/tieng-anh/gerunds-and-infinitives" element={<GerundsAndInfinitives />} />
-					<Route path="/tieng-anh/tips-for-recognizing-adjectives" element={<NhanBietTinhTuTiengAnh />} />
 
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-1" element={<BiMatVeTuDuyNgonNgu1 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />

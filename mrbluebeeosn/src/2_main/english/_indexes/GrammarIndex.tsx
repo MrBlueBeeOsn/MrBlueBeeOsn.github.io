@@ -619,6 +619,19 @@ export default function GrammarIndex(): React.JSX.Element {
               </div>
             </li>
 
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/6-types-of-verbs">6 Types of Verbs
+                </Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/present-perfect">PREsent PERfect</Link>
+              </div>
+            </li>
+
           </ul>
 
         </div>
@@ -667,26 +680,26 @@ export default function GrammarIndex(): React.JSX.Element {
         </div>
 
         <div className="sub-box">
+
+          {/* =============================
+              ADjective
+          ============================= */}
       
-          <p id="translation"><mark className="highlight-secondary-padding-2-4">Translation</mark></p>
+          <p id="adjective-terms"><mark className="highlight-secondary-padding-2-4">ADjectives</mark></p>
 
           <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/LIFO-method">LIFO METHod</Link>
-              </div>
-            </li>
             
             <li>
               <div className="li-content">
-                <Link to="/grammar/stop-translating">Stop Translating!</Link>
+                <Link to="/grammar/recognizing-adjectives">Recognizing ADJECTIVES</Link>
               </div>
             </li>
 
           </ul>
 
         </div>
+
+        
 
       
       </div>

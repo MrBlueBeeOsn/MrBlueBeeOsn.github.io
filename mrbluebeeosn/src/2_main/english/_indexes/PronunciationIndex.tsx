@@ -91,12 +91,12 @@ export default function PronunciationIndex(): React.JSX.Element {
 
 
         {/* =============================
-            aMERican IPA
+            IPA
         ============================= */}
 
         <div className="sub-box">
       
-          <p id="aMERican-IPA"><mark className="highlight-secondary-padding-2-4">aMERican IPA</mark></p>
+          <p id="aMERican-IPA"><mark className="highlight-secondary-padding-2-4">IPA</mark></p>
 
             <li>
               <div className="li-content">
@@ -128,11 +128,11 @@ export default function PronunciationIndex(): React.JSX.Element {
               </div>
             </li>
 
-            <li>
+            {/* <li>
               <div className="li-content">
                 <Link to="/pronunciation/ban-chat-am-schwa">Bản Chất Âm Schwa</Link>
               </div>
-            </li>
+            </li> */}
 
             <li>
               <div className="li-content">

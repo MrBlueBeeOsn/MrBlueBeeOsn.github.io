@@ -15,7 +15,7 @@ export default function SixTypesofVerbs(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBS</mark></HashLink></h4>
+			<h4><HashLink smooth to="/grammar#verbs"><mark className="highlight-tertiary-padding-4-8">Verbs</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">6 Types of Verbs
 									
