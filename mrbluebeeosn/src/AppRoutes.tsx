@@ -175,15 +175,6 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const EVAdverbClausesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/dc/EVAdverbClausesQuiz'));
 	const EVNounClausesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/dc/EVNounClausesQuiz'));
 
-	// Matrix Quiz
-	const MatrixQuiz = lazy(() => import('@/2_main/english/grammar/quiz/forms&function/Forms&FunctionQuiz'));
-	const EVMatrixQuiz = lazy(() => import('@/2_main/english/grammar/quiz/forms&function/EVForms&FunctionQuiz'));
-
-	// Bookkeeping Matrix
-	const BookkeepingMatrix = lazy(() => import('@/2_main/english/grammar/quiz/forms&function/Forms&FunctionBookkeepingQuiz'));
-	const EVBookkeepingMatrix = lazy(() => import('@/2_main/english/grammar/quiz/forms&function/EVForms&FunctionBookkeepingQuiz'));
-	
-	
 	
 	// 3. Pronunciation
 	const PronunciationIndex = lazy(() => import('@/2_main/english/_indexes/PronunciationIndex'));
@@ -799,16 +790,6 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/ev-adjective-clauses-quiz" element={<EVAdjectiveClausesQuiz />} />
 					<Route path="/grammar/ev-adverb-clauses-quiz" element={<EVAdverbClausesQuiz />} />
 					<Route path="/grammar/ev-noun-clauses-quiz" element={<EVNounClausesQuiz />} />
-
-
-					{/* Matrix Quiz */}
-					<Route path="/grammar/forms-&-function-quiz" element={<MatrixQuiz />} />
-					<Route path="/grammar/ev-forms-&-function-quiz" element={<EVMatrixQuiz />} />
-
-					<Route path="/grammar/forms-&-function-bookkeeping-quiz" element={<BookkeepingMatrix />} />
-					<Route path="/grammar/ev-forms-&-function-bookkeeping-quiz" element={<EVBookkeepingMatrix />} />
-
-					
 
 					
 					{/* 3. Pronunciation */}

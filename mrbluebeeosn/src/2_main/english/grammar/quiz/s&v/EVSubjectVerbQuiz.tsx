@@ -20,9 +20,9 @@ interface Question {
 export default function EVSubjectVerbQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "each of the STUdents _______ reQUIred to subMIT the asSIGNment by FRIday.",
+			question: "Each of the students _______ required to submit the assignment by Friday.",
 			options: [
 				"is",
 				"are",
@@ -30,11 +30,11 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 0,
-			explanation: "Khi danh chủ bắt đầu bằng \"each of\" (Mỗi trong số...), hành động luôn chia ở dạng số ít bất kể NOUN theo sau là số nhiều."
+			explanation: "When a subject starts with \"each of\" (meaning each one among...), the verb is always singular regardless of the plural noun that follows."
 		},
 		{
 			id: 2,
-			question: "neither the MANager nor the emPLOYees _______ aWARE of the NEW POLicy.",
+			question: "Neither the manager nor the employees _______ aware of the new policy.",
 			options: [
 				"was",
 				"were",
@@ -42,23 +42,23 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"neither... nor...\" (Không... cũng không...), hành động phải chia theo danh chủ gần nó nhất (ở đây là \"emPLOYees\" - NOUN số nhiều)."
+			explanation: "With \"neither... nor...,\" the verb must agree with the subject closest to it (here, \"employees\" is a plural noun)."
 		},
 		{
 			id: 3,
-			question: "the TEAM _______ PRACtice every MORNing at SIX a.M.",
+			question: "The team _______ every morning at six a.m.",
 			options: [
 				"do",
-				"PRACtices",
-				"PRACtice",
-				"are PRACticing"
+				"practices",
+				"practice",
+				"are practicing"
 			],
 			correctAnswer: 1,
-			explanation: "\"TEAM\" là NOUN tập hợp (colLECtive NOUN). Khi cả đội hoạt động như một đơn vị thống nhất, chúng ta chia hành động ở ngôi thứ 3 số ít."
+			explanation: "\"Team\" is a collective noun. When the group acts together as a single unit, we use a singular verb."
 		},
 		{
 			id: 4,
-			question: "matheMATics _______ my most CHALlenging SUBject in HIGH SCHOOL.",
+			question: "Mathematics _______ my most challenging subject in high school.",
 			options: [
 				"are",
 				"were",
@@ -66,11 +66,11 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 2,
-			explanation: "Các môn học kết thúc bằng đuôi \"-ics\" (matheMATics, PHYSics, ecoNOMics...) luôn được coi là NOUN số ít."
+			explanation: "School subjects ending in \"-ics\" (mathematics, physics, economics, etc.) are always treated as singular nouns."
 		},
 		{
 			id: 5,
-			question: "a NUMber of PEOple _______ WAITing in LINE for the CONcert TICKets.",
+			question: "A number of people _______ waiting in line for the concert tickets.",
 			options: [
 				"is",
 				"was",
@@ -78,11 +78,11 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 2,
-			explanation: "Cấu trúc \"a NUMber of + N số nhiều\" luôn đi với hành động số nhiều (mang nghĩa là \"Nhiều người/vật\")."
+			explanation: "The structure \"a number of + plural noun\" always takes a plural verb (meaning \"many people or things\")."
 		},
 		{
 			id: 6,
-			question: "either my SISter or my PARents _______ COMing to the graduAtion CERemony.",
+			question: "Either my sister or my parents _______ coming to the graduation ceremony.",
 			options: [
 				"is",
 				"are",
@@ -90,11 +90,11 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"either... or...\" (Hoặc... hoặc...), hành động chia theo danh chủ đứng gần nó nhất là \"PARents\" (số nhiều)."
+			explanation: "With \"either... or...,\" the verb agrees with the subject closest to it, which is \"parents\" (plural)."
 		},
 		{
 			id: 7,
-			question: "POLitics _______ a COMplicated TOPic for many PEOple.",
+			question: "Politics _______ a complicated topic for many people.",
 			options: [
 				"are",
 				"is",
@@ -102,11 +102,11 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 1,
-			explanation: "Tương tự môn học, từ \"Politics\" (chính trị) khi nói về một lĩnh vực chung thì được tính là NOUN số ít."
+			explanation: "Similar to school subjects, \"politics\" is treated as a singular noun when referring to a general field or topic."
 		},
 		{
 			id: 8,
-			question: "BREAD and BUTter _______ her FAvorite BREAKfast.",
+			question: "Bread and butter _______ her favorite breakfast.",
 			options: [
 				"are",
 				"were",
@@ -114,11 +114,11 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 2,
-			explanation: "Mặc dù có hai NOUN nối bằng \"and\", nhưng \"BREAD and BUTter\" được coi là một món ăn duy nhất (một chỉnh thể), nên dùng hành động số ít."
+			explanation: "Although two nouns are joined by \"and,\" \"bread and butter\" is considered a single dish (one unified item), so it takes a singular verb."
 		},
 		{
 			id: 9,
-			question: "TEN MILES _______ a LONG DIStance to RUN for a beGINner.",
+			question: "Ten miles _______ a long distance to run for a beginner.",
 			options: [
 				"are",
 				"were",
@@ -126,19 +126,19 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 2,
-			explanation: "Các đơn vị đo lường (khoảng cách, thời gian, số tiền, trọng lượng) được coi là một khối thống nhất nên đi với hành động số ít."
+			explanation: "Units of measurement (distance, time, money, weight) are treated as a single collective unit and take a singular verb."
 		},
 		{
 			id: 10,
-			question: "everyone in the OFFice _______ to atTEND the MEETing toMORrow.",
+			question: "Everyone in the office _______ to attend the meeting tomorrow.",
 			options: [
-				"NEED",
-				"NEEDS",
-				"are NEEDing",
-				"have NEEDed"
+				"need",
+				"needs",
+				"are needing",
+				"have needed"
 			],
 			correctAnswer: 1,
-			explanation: "Các PROnoun bất định (everyone, SOMEone, NO one, everything...) luôn đi kèm với hành động chia ở số ít."
+			explanation: "Indefinite pronouns (everyone, someone, no one, everything, etc.) always take a singular verb."
 		}
 	];
 

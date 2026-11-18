@@ -20,125 +20,125 @@ interface Question {
 export default function EVSingularPluralNounsQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "the SHEPherd is LOOKing after a LARGE FLOCK of ________.",
+			question: "The shepherd is looking after a large flock of ________.",
 			options: [
-				"SHEEPS",
-				"SHEEP",
-				"SHEEPES",
-				"SHEEPses"
+				"sheeps",
+				"sheep",
+				"sheepes",
+				"sheepses"
 			],
 			correctAnswer: 1,
-			explanation: "\"SHEEP\" là NOUN có hình thức số ít và số nhiều giống hệt nhau. Không bao giờ thêm \"S\" vào sau từ này."
+			explanation: "\"Sheep\" is a noun with the exact same singular and plural forms. Never add \"-s\" to this word."
 		},
 		{
 			id: 2,
-			question: "i NEED to BUY TWO NEW ________ for the KITCHen.",
+			question: "I need to buy two new ________ for the kitchen.",
 			options: [
-				"KNIFES",
-				"KNIFVES",
-				"KNIVES",
-				"KNIVS"
+				"knifes",
+				"knifves",
+				"knives",
+				"knivs"
 			],
 			correctAnswer: 2,
-			explanation: "Các NOUN kết thúc bằng đuôi \"-FE\" thường được đổi thành \"-VES\" khi chuyển sang số nhiều (KNIFE -> KNIVES)."
+			explanation: "Nouns ending in \"-fe\" usually change to \"-ves\" in the plural form (knife -> knives)."
 		},
 		{
 			id: 3,
-			question: "many ________ are PLAYing in the PARK toDAY.",
+			question: "Many ________ are playing in the park today.",
 			options: [
-				"CHILDS",
-				"CHILDren",
-				"CHILDrens",
-				"CHILDES"
+				"childs",
+				"children",
+				"childrens",
+				"childes"
 			],
 			correctAnswer: 1,
-			explanation: "\"CHILDren\" là dạng số nhiều bất quy tắc của \"CHILD\". Bản thân nó đã là số nhiều nên không thêm \"S\"."
+			explanation: "\"Children\" is the irregular plural form of \"child.\" Since it is already plural, do not add \"-s.\""
 		},
 		{
 			id: 4,
-			question: "could you PLEASE BRUSH your ________ before GOing to BED?",
+			question: "Could you please brush your ________ before going to bed?",
 			options: [
-				"TOOTHS",
-				"TEETHS",
-				"TEETH",
-				"TOOTHES"
+				"tooths",
+				"teeths",
+				"teeth",
+				"toothes"
 			],
 			correctAnswer: 2,
-			explanation: "\"TEETH\" là dạng số nhiều bất quy tắc của \"TOOTH\" (thay đổi nguyên âm bên trong)."
+			explanation: "\"Teeth\" is the irregular plural form of \"tooth\" (changing the internal vowels)."
 		},
 		{
 			id: 5,
-			question: "there are FIVE ________ WORKing in this OFfice.",
+			question: "There are five ________ working in this office.",
 			options: [
-				"WOMen",
-				"WOMan",
-				"WOMens",
-				"WOMans"
+				"women",
+				"woman",
+				"womens",
+				"womans"
 			],
 			correctAnswer: 0,
-			explanation: "\"Women\" là dạng số nhiều của \"WOMan\". Tương tự như MAN/MEN, ta thay đổi nguyên âm \"a\" thành \"e\"."
+			explanation: "\"Women\" is the plural form of \"woman.\" Similar to man/men, we change the vowel \"a\" to \"e.\""
 		},
 		{
 			id: 6,
-			question: "SCIentists are STUDying the ________ of the LOcal enVIronment.",
+			question: "Scientists are studying the ________ of the local environment.",
 			options: [
-				"pheNOMenons",
-				"pheNOMena",
-				"pheNOMenas",
-				"pheNOMenoes"
+				"phenomenons",
+				"phenomena",
+				"phenomenas",
+				"phenomenoes"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là NOUN gốc Hy Lạp. \"pheNOMenon\" là số ít và \"pheNOMena\" là số nhiều."
+			explanation: "This is a noun of Greek origin. \"Phenomenon\" is singular and \"phenomena\" is plural."
 		},
 		{
 			id: 7,
-			question: "HOW many ________ did you CATCH during the FISHing TRIP?",
+			question: "How many ________ did you catch during the fishing trip?",
 			options: [
-				"FISH",
-				"FISHes",
-				"FISHS",
-				"FISHies"
+				"fish",
+				"fishes",
+				"fishs",
+				"fishies"
 			],
 			correctAnswer: 0,
-			explanation: "Thông thường, \"FISH\" giữ nguyên hình thức ở số nhiều. (Lưu ý: \"FISHes\" chỉ dùng khi nói về nhiều loài cá khác nhau, nhưng trong ngữ cảnh thông thường ta dùng \"FISH\")."
+			explanation: "Normally, \"fish\" remains unchanged in the plural form. (Note: \"fishes\" is only used when referring to multiple different species of fish)."
 		},
 		{
 			id: 8,
-			question: "the ________ were SCATtered all over the FLOOR.",
+			question: "The ________ were scattered all over the floor.",
 			options: [
-				"LEAFES",
-				"LEAFS",
-				"LEAVES",
-				"LEAF"
+				"leafes",
+				"leafs",
+				"leaves",
+				"leaf"
 			],
 			correctAnswer: 2,
-			explanation: "DANH kết thúc bằng \"-f\" thường chuyển thành \"-VES\" ở số nhiều (LEAF -> LEAVES)."
+			explanation: "Nouns ending in \"-f\" typically change to \"-ves\" in the plural form (leaf -> leaves)."
 		},
 		{
 			id: 9,
-			question: "my GRANDmother has THREE ________.",
+			question: "My grandmother has three ________.",
 			options: [
-				"GEESE",
-				"GOOSes",
-				"GEESes",
-				"GOOSess"
+				"geese",
+				"gooses",
+				"geeses",
+				"goosess"
 			],
 			correctAnswer: 0,
-			explanation: "\"GEESE\" là dạng số nhiều bất quy tắc của \"GOOSE\"."
+			explanation: "\"Geese\" is the irregular plural form of \"goose.\""
 		},
 		{
 			id: 10,
-			question: "PLEASE PUT the ________ on the TOP SHELF.",
+			question: "Please put the ________ on the top shelf.",
 			options: [
-				"BOXS",
-				"BOX",
-				"BOXes",
-				"BOXies"
+				"boxs",
+				"box",
+				"boxes",
+				"boxies"
 			],
 			correctAnswer: 2,
-			explanation: "DANH kết thúc bằng đuôi \"-x\" thì ta thêm hậu tố \"-es\" để tạo thành số nhiều."
+			explanation: "For nouns ending in \"-x,\" we add the suffix \"-es\" to form the plural."
 		}
 	];
 

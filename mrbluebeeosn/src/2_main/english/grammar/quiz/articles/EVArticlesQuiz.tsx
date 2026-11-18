@@ -20,9 +20,9 @@ interface Question {
 export default function EVArticlesQuiz() {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "i SAW ______ MOvie LAST NIGHT. ______ MOvie was EXcellent.",
+			question: "I saw ______ movie last night. ______ movie was excellent.",
 			options: [
 				"a / a",
 				"a / the",
@@ -30,115 +30,115 @@ export default function EVArticlesQuiz() {
 				"an / the"
 			],
 			correctAnswer: 1,
-			explanation: "Lần đầu nhắc đến \"MOvie\" dùng mạo từ bất định \"a\". Khi nhắc lại bộ phim đó ở câu thứ hai, vật thể đã được xác định nên dùng \"the\"."
+			explanation: "When mentioning \"movie\" for the first time, we use the indefinite article \"a.\" When referring to that same movie again in the second sentence, it is now specific, so we use \"the.\""
 		},
 		{
 			id: 2,
-			question: "my BROTHer is ______ uniVERsity STUdent in LONdon.",
+			question: "My brother is ______ university student in London.",
 			options: [
 				"a",
 				"an",
 				"the",
-				"(no ARticle)"
+				"(no article)"
 			],
 			correctAnswer: 0,
-			explanation: "Mặc dù \"uniVERsity\" bắt đầu bằng chữ \"u\", nhưng phát âm là /juː/ (phụ âm), nên ta dùng \"a\" thay vì \"an\"."
+			explanation: "Although \"university\" starts with the letter \"u,\" it is pronounced with a consonant sound /juː/, so we use \"a\" instead of \"an.\""
 		},
 		{
 			id: 3,
-			question: "she WANTS to beCOME ______ engiNEER when she GROWS UP.",
+			question: "She wants to become ______ engineer when she grows up.",
 			options: [
 				"a",
 				"the",
 				"an",
-				"(no ARticle)"
+				"(no article)"
 			],
 			correctAnswer: 2,
-			explanation: "\"engiNEER\" bắt đầu bằng nguyên âm /e/, vì vậy ta dùng mạo từ \"an\"."
+			explanation: "\"Engineer\" starts with a vowel sound /e/, so we use the article \"an.\""
 		},
 		{
 			id: 4,
-			question: "______ MOUNT EVerest is the HIGHest MOUNTain in the WORLD.",
+			question: "______ Mount Everest is the highest mountain in the world.",
 			options: [
 				"a",
 				"an",
 				"the",
-				"(no ARticle)"
+				"(no article)"
 			],
 			correctAnswer: 3,
-			explanation: "Quy tắc chung là không dùng mạo từ \"the\" trước tên các ngọn núi đơn lẻ (chỉ dùng cho các dãy núi)."
+			explanation: "As a general rule, we do not use the article \"the\" before the names of individual mountains (it is only used for mountain ranges)."
 		},
 		{
 			id: 5,
-			question: "he is ______ HONest MAN you can TRUST.",
+			question: "He is ______ honest man you can trust.",
 			options: [
 				"a",
 				"an",
 				"the",
-				"(no ARticle)"
+				"(no article)"
 			],
 			correctAnswer: 1,
-			explanation: "Từ \"honest\" có âm \"h\" câm, phát âm bắt đầu bằng nguyên âm /ɒ/, nên dùng \"an\"."
+			explanation: "The word \"honest\" has a silent \"h\" and begins with a vowel sound /ɒ/, so we use \"an.\""
 		},
 		{
 			id: 6,
-			question: "LOOK at ______ MOON! it's so BRIGHT toNIGHT.",
+			question: "Look at ______ moon! It's so bright tonight.",
 			options: [
 				"a",
 				"an",
 				"the",
-				"(no ARticle)"
+				"(no article)"
 			],
 			correctAnswer: 2,
-			explanation: "Dùng \"the\" cho những vật thể duy nhất, độc nhất (như mặt trăng, mặt trời, trái đất)."
+			explanation: "We use \"the\" for unique objects or things that are one of a kind (such as the moon, the sun, and the earth)."
 		},
 		{
 			id: 7,
-			question: "we Usually HAVE ______ LUNCH at 12:30 p.M.",
+			question: "We usually have ______ lunch at 12:30 p.m.",
 			options: [
 				"a",
 				"an",
 				"the",
-				"(no ARticle)"
+				"(no article)"
 			],
 			correctAnswer: 3,
-			explanation: "Không dùng mạo từ trước tên các bữa ăn (BREAKfast, LUNCH, DINner) ngoại trừ khi có ADjective đứng trước hoặc nói về một bữa ăn cụ thể."
+			explanation: "We do not use an article before the names of meals (breakfast, lunch, dinner) unless they are preceded by an adjective or refer to a specific meal."
 		},
 		{
 			id: 8,
-			question: "my FAther PLAYS ______ piANo VERy WELL.",
+			question: "My father plays ______ piano very well.",
 			options: [
 				"a",
 				"an",
 				"the",
-				"(no ARticle)"
+				"(no article)"
 			],
 			correctAnswer: 2,
-			explanation: "Dùng mạo từ \"the\" trước tên các loại nhạc cụ khi nói về kỹ năng chơi nhạc cụ đó."
+			explanation: "We use the article \"the\" before the names of musical instruments when talking about playing them."
 		},
 		{
 			id: 9,
-			question: "PARis is ______ CAPital of FRANCE.",
+			question: "Paris is ______ capital of France.",
 			options: [
 				"a",
 				"an",
 				"the",
-				"(no ARticle)"
+				"(no article)"
 			],
 			correctAnswer: 2,
-			explanation: "Cấu trúc \"the + NOUN + of + NOUN\" dùng để chỉ một đối tượng cụ thể, xác định."
+			explanation: "The structure \"the + noun + of + noun\" is used to refer to a specific, defined person or thing."
 		},
 		{
 			id: 10,
-			question: "can you PASS me ______ SALT, PLEASE?",
+			question: "Can you pass me ______ salt, please?",
 			options: [
 				"a",
 				"an",
 				"the",
-				"(no ARticle)"
+				"(no article)"
 			],
 			correctAnswer: 2,
-			explanation: "Trong ngữ cảnh này, cả người nói và người nghe đều biết rõ \"lọ muối\" đang được nhắc tới ở trên bàn, nên dùng \"the\"."
+			explanation: "In this context, both the speaker and the listener know which specific salt shaker on the table is being referred to, so we use \"the.\""
 		}
 	];
 

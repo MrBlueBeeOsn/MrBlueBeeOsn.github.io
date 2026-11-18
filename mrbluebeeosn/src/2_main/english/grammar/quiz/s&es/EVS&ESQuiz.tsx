@@ -20,125 +20,125 @@ interface Question {
 export default function EVSAndESQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "my YOUNGer BROTHer _______ his TEETH THREE TIMES a DAY.",
+			question: "My younger brother _______ his teeth three times a day.",
 			options: [
-				"BRUSH",
-				"BRUSHes",
-				"BRUSHS",
-				"BRUSHing"
+				"brush",
+				"brushes",
+				"brushs",
+				"brushing"
 			],
 			correctAnswer: 1,
-			explanation: "Với danh chủ số ít (my YOUNGer BROTHer), hành động tận cùng là -SH ta thêm -es."
+			explanation: "With a singular subject (my younger brother), verbs ending in -sh take -es."
 		},
 		{
 			id: 2,
-			question: "there are many _______ GRAzing in the FIELD.",
+			question: "There are many _______ growing in the field.",
 			options: [
-				"toMAto",
-				"toMAtos",
-				"toMAtoes",
-				"toMAtoies"
+				"tomato",
+				"tomatos",
+				"tomatoes",
+				"tomatoies"
 			],
 			correctAnswer: 2,
-			explanation: "DANH tận cùng là -o (trước đó là một phụ âm) thường thêm -es để tạo thành số nhiều."
+			explanation: "Nouns ending in -o (preceded by a consonant) usually add -es to form the plural."
 		},
 		{
 			id: 3,
-			question: "she ALways _______ the LAUNdry on SUNday MORNings.",
+			question: "She always _______ the laundry on Sunday mornings.",
 			options: [
-				"DO",
-				"DOSE",
-				"DOES",
-				"DOing"
+				"do",
+				"dose",
+				"does",
+				"doing"
 			],
 			correctAnswer: 2,
-			explanation: "ĐỘNG \"DO\" khi đi với danh chủ ngôi thứ ba số ít (she) sẽ thêm -ES thành \"DOES\"."
+			explanation: "The verb \"do\" adds -es to become \"does\" when used with a third-person singular subject (she)."
 		},
 		{
 			id: 4,
-			question: "the BAker SELLS VARious TYPES of _______ at his SHOP.",
+			question: "The baker sells various types of _______ at his shop.",
 			options: [
-				"LOAFS",
-				"LOAFES",
-				"LOAVES",
-				"LOAF"
+				"loafs",
+				"loafes",
+				"loaves",
+				"loaf"
 			],
 			correctAnswer: 2,
-			explanation: "Các NOUN tận cùng bằng -F hoặc -FE thường đổi thành -v rồi thêm -ES (LOAF -> LOAVES)."
+			explanation: "Nouns ending in -f or -fe usually change the -f to -v and add -es (loaf -> loaves)."
 		},
 		{
 			id: 5,
-			question: "WHICH of the FOLlowing is the corRECT PLURal FORM of \"FACtory\"?",
+			question: "Which of the following is the correct plural form of \"factory\"?",
 			options: [
-				"FACtorys",
-				"FACtories",
-				"FACtoryes",
-				"FACtories"
+				"factorys",
+				"factories",
+				"factoryes",
+				"factoryies"
 			],
 			correctAnswer: 1,
-			explanation: "DANH tận cùng là phụ âm + -y, ta đổi -y thành -i rồi thêm -es."
+			explanation: "For nouns ending in a consonant + -y, change -y to -i and add -es."
 		},
 		{
 			id: 6,
-			question: "the meCHANic _______ the BROken ENgine in LESS than an HOUR.",
+			question: "The mechanic _______ the broken engine in less than an hour.",
 			options: [
-				"FIX",
-				"FIXs",
-				"FIXes",
-				"FIXing"
+				"fix",
+				"fixs",
+				"fixes",
+				"fixing"
 			],
 			correctAnswer: 2,
-			explanation: "ĐỘNG tận cùng là -X khi chia ở ngôi thứ ba số ít ta thêm -es."
+			explanation: "Verbs ending in -x add -es in the third-person singular present tense."
 		},
 		{
 			id: 7,
-			question: "my CAT OFTen _______ on the SOfa after LUNCH.",
+			question: "My cat often _______ on the sofa after lunch.",
 			options: [
-				"reLAXS",
-				"reLAXes",
-				"reLAX",
-				"reLAXing"
+				"relaxs",
+				"relaxes",
+				"relax",
+				"relaxing"
 			],
 			correctAnswer: 1,
-			explanation: "Tương tự câu 6, hành động tận cùng là -X nên ta thêm -es."
+			explanation: "Similar to question 6, verbs ending in -x take -es for third-person singular subjects."
 		},
 		{
 			id: 8,
-			question: "HOW many _______ did you BUY for the PARTy?",
+			question: "How many _______ did you buy for the party?",
 			options: [
-				"BOXS",
-				"BOXies",
-				"BOXes",
-				"BOX"
+				"boxs",
+				"boxies",
+				"boxes",
+				"box"
 			],
 			correctAnswer: 2,
-			explanation: "DANH tận cùng là -X thêm -es để tạo thành số nhiều."
+			explanation: "Nouns ending in -x add -es to form the plural."
 		},
 		{
 			id: 9,
-			question: "he _______ to WORK by BUS every DAY.",
+			question: "He _______ to work by bus every day.",
 			options: [
-				"GO",
-				"GOES",
-				"GOS",
-				"GOing"
+				"go",
+				"goes",
+				"gos",
+				"going"
 			],
 			correctAnswer: 1,
-			explanation: "ĐỘNG tận cùng là -O thêm -ES khi đi với danh chủ số ít (he)."
+			explanation: "Verbs ending in -o add -es when used with a singular subject (he)."
 		},
 		{
 			id: 10,
-			question: "the CHILDren LOVE to WATCH the _______ at the ZOO.",
+			question: "The children love to watch the _______ at the zoo.",
 			options: [
-				"MONkeys",
-				"MONkies",
-				"MONkeies",
-				"MONkeyes"
+				"monkeys",
+				"monkies",
+				"monkeies",
+				"monkeyes"
 			],
 			correctAnswer: 0,
-			explanation: "DANH tận cùng là nguyên âm (e) + -y, chúng ta chỉ cần thêm -s, không đổi thành -ies."
+			explanation: "For nouns ending in a vowel (e) + -y, simply add -s without changing -y to -ies."
 		}
 	];
 

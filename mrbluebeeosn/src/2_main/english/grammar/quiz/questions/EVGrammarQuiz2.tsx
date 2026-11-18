@@ -20,81 +20,81 @@ interface Question {
 export default function EVGrammarQuiz2(): React.JSX.Element {
 	// Danh sách câu hỏi về Ngữ pháp Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "i'm TIred because I _________ all MORNing.",
+			question: "I'm tired because I _________ all morning.",
 			options: [
-				"WORK",
-				"WORKED",
-				"have been WORKing",
-				"am WORKing"
+				"work",
+				"worked",
+				"have been working",
+				"am working"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là 🏃‍♂️ Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Tiếp Diễn (PRESent PERfect conTINuous), dùng để diễn tả một hành động bắt đầu trong quá khứ, kéo dài liên tục đến hiện tại và có kết quả rõ rệt (i'm TIred) ở hiện tại. Cấu trúc là: s + have/has + been + V-ing."
+			explanation: "This is the 🏃‍♂️ Present Perfect Continuous tense, used to describe an action that started in the past, continued up to the present, and has a visible present result (\"I'm tired\"). Structure: S + have/has + been + V-ing."
 		},
 		{
 			id: 2,
-			question: "that MAN _________ be the NEW CEO; he LOOKS too YOUNG.",
+			question: "That man _________ be the new CEO; he looks too young.",
 			options: [
 				"must",
 				"can",
-				"CAN'T",
+				"can't",
 				"should"
 			],
 			correctAnswer: 2,
-			explanation: "Ta dùng hành động khuyết thiếu CAN'T (không thể nào) để diễn tả sự suy luận mang tính phủ định mạnh mẽ, gần như chắc chắn rằng điều gì đó không đúng hoặc không thể xảy ra dựa trên bằng chứng hiện tại (vì anh ta trông quá trẻ)."
+			explanation: "We use the modal verb \"can't\" to express a strong negative deduction, indicating near certainty that something is impossible based on present evidence (he looks too young)."
 		},
 		{
 			id: 3,
-			question: "if you had STUDied HARDer, you _________ the eXAM.",
+			question: "If you had studied harder, you _________ the exam.",
 			options: [
-				"would PASS",
-				"would have PASSED",
-				"PASSED",
-				"will PASS"
+				"would pass",
+				"would have passed",
+				"passed",
+				"will pass"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là câu điều kiện loại 3 (THIRD conDITional), dùng để diễn tả một điều kiện không có thật trong quá khứ. Cấu trúc là: if + s + had + V3/ed, câu con chính dùng s + would/could/might + have + V3/ed."
+			explanation: "This is the Third Conditional, used to talk about an unreal condition in the past. Structure: If + S + had + V3/ed, S + would/could/might + have + V3/ed."
 		},
 		{
 			id: 4,
-			question: "she deNIED _________ the SEcret to ANyone.",
+			question: "She denied _________ the secret to anyone.",
 			options: [
-				"to TELL",
-				"TELLing",
-				"having TOLD",
-				"TOLD"
+				"to tell",
+				"telling",
+				"having told",
+				"told"
 			],
 			correctAnswer: 2,
-			explanation: "ĐỘNG deny (phủ nhận) luôn theo sau bởi một Gerund (V-ing). Trong trường hợp này, dùng Gerund hoàn thành (having TOLD) để nhấn mạnh rằng hành động kể bí mật xảy ra trước hành động phủ nhận."
+			explanation: "The verb \"deny\" is always followed by a gerund (V-ing). Here, the perfect gerund (\"having told\") emphasizes that telling the secret happened before denying it."
 		},
 		{
 			id: 5,
-			question: "he SAID he would CALL me _________.",
+			question: "He said he would call me _________.",
 			options: [
-				"toMORrow",
-				"NEXT DAY",
-				"the NEXT DAY",
-				"the DAY beFORE"
+				"tomorrow",
+				"next day",
+				"the next day",
+				"the day before"
 			],
 			correctAnswer: 2,
-			explanation: "Khi chuyển từ câu trực tiếp sang câu gián tiếp (rePORTed SPEECH), ADverb chỉ thời gian toMORrow (ngày mai) phải được đổi thành the NEXT DAY hoặc the FOLlowing DAY."
+			explanation: "When changing from direct to reported speech, the time adverb \"tomorrow\" changes to \"the next day\" or \"the following day.\""
 		},
 		{
 			id: 6,
-			question: "ENGlish _________ by MORE than a BILlion PEOple worldWIDE.",
+			question: "English _________ by more than a billion people worldwide.",
 			options: [
-				"is SPEAKing",
-				"SPEAKS",
-				"is SPOken",
-				"SPOKE"
+				"is speaking",
+				"speaks",
+				"is spoken",
+				"spoke"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là câu Bị động (PASSive VOICE) ở ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (PRESent SIMple). English là danh chủ chịu tác động, và việc nói tiếng Anh là một sự thật hoặc hành động thường xuyên. Cấu trúc bị động ⏳ Thời Gian Hành Động ở Hiện Tại Đơn là: S + am/is/are + V3/ed."
+			explanation: "This is the Passive Voice in the ⏳ Present Simple tense. \"English\" receives the action, and speaking English is a general fact. Structure: S + am/is/are + V3/ed."
 		},
 		{
 			id: 7,
-			question: "the STUdent _________ HANDwriting is NEAT WON the compeTITion.",
+			question: "The student _________ handwriting is neat won the competition.",
 			options: [
 				"who",
 				"whom",
@@ -102,11 +102,11 @@ export default function EVGrammarQuiz2(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 3,
-			explanation: "Ta dùng PROnoun quan hệ whose (của người mà/của cái mà) để chỉ mối quan hệ sở hữu. Cụm từ whose HANDwriting có nghĩa là \"chữ viết của học sinh đó\"."
+			explanation: "We use the relative pronoun \"whose\" to show possession. \"Whose handwriting\" means \"the student's handwriting.\""
 		},
 		{
 			id: 8,
-			question: "the MEETing is SCHEDuled to START _________ TWO THIRty p.M..",
+			question: "The meeting is scheduled to start _________ two thirty p.m.",
 			options: [
 				"in",
 				"on",
@@ -114,31 +114,31 @@ export default function EVGrammarQuiz2(): React.JSX.Element {
 				"for"
 			],
 			correctAnswer: 2,
-			explanation: "GIỚI at được dùng để chỉ thời điểm cụ thể, chính xác trong ngày (giờ, phút)."
+			explanation: "The preposition \"at\" is used to indicate a specific, exact time of day (hours and minutes)."
 		},
 		{
 			id: 9,
-			question: "_________ you PRACtice, _________ you will GET.",
+			question: "_________ you practice, _________ you will get.",
 			options: [
-				"the HARD/the GOOD",
-				"HARDer/BETter",
-				"the HARDer/the BETter",
-				"HARD/GOOD"
+				"the hard / the good",
+				"harder / better",
+				"the harder / the better",
+				"hard / good"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là cấu trúc So sánh kép (DOUBle comPARative) diễn tả hai hành động thay đổi đồng thời (càng... càng...). Cấu trúc là: the + so sánh hơn + S + V, the + so sánh hơn + S + V."
+			explanation: "This is a Double Comparative structure used to show two things changing together. Structure: The + comparative + S + V, the + comparative + S + V."
 		},
 		{
 			id: 10,
-			question: "the MOvie was SO _________ that I FELL aSLEEP.",
+			question: "The movie was so _________ that I fell asleep.",
 			options: [
-				"BORing",
-				"BORED",
-				"BORE",
-				"BORES"
+				"boring",
+				"bored",
+				"bore",
+				"bores"
 			],
 			correctAnswer: 0,
-			explanation: "Ta dùng ADjective tận cùng bằng -ing (BORing) để mô tả bản chất của sự vật, sự việc (bộ phim mang tính chất buồn chán). ADjective tận cùng bằng -ed (BORED) dùng để mô tả cảm xúc của con người hoặc sinh vật."
+			explanation: "We use adjectives ending in -ing (\"boring\") to describe the quality or nature of a thing (the movie). Adjectives ending in -ed (\"bored\") describe a person's feelings."
 		}
 	];
 

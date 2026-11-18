@@ -20,9 +20,9 @@ interface Question {
 export default function AdverbClausesQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "___________ the TRAFfic was inCREDibly HEAVy, we MANaged to arRIVE at the AIRport before our FLIGHT CLOSED.",
+			question: "___________ the traffic was incredibly heavy, we managed to arrive at the airport before our flight closed.",
 			options: [
 				"despite",
 				"although",
@@ -30,11 +30,11 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 				"because"
 			],
 			correctAnswer: 1,
-			explanation: "This sentence expresses concession. \"although\" is a subordinating conjunction that introduces an adverb clause of concession (although + CLAUSE). \"despite\" and \"in spite of\" require a noun phrase or gerund, not a full clause. \"because\" would change the meaning to cause-and-effect, which does not fit the context."
+			explanation: "This sentence expresses concession. \"Although\" is a subordinating conjunction that introduces an adverb clause of concession (although + clause). \"Despite\" and \"in spite of\" require a noun phrase or gerund, not a full clause. \"Because\" would change the meaning to cause-and-effect, which does not fit the context."
 		},
 		{
 			id: 2,
-			question: "you should wriTE DOWN the apPOINTment DATE in your CALendar ___________ you DON'T forGET it.",
+			question: "You should write down the appointment date in your calendar ___________ you don't forget it.",
 			options: [
 				"so that",
 				"in order to",
@@ -42,23 +42,23 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 				"as long as"
 			],
 			correctAnswer: 0,
-			explanation: "This introduces an adverb clause of purpose. \"so that\" is followed by a clause (SUBject + VERB, OFten with MOdal VERBS like can/could/will/would). \"in order to\" must be followed directly by a base verb, and \"because of\" requires a noun phrase."
+			explanation: "This introduces an adverb clause of purpose. \"So that\" is followed by a clause (subject + verb, often with modal verbs like can/could/will/would). \"In order to\" must be followed directly by a base verb, and \"because of\" requires a noun phrase."
 		},
 		{
 			id: 3,
-			question: "the COMpany will LAUNCH the NEW PRODuct NEXT MONTH ___________ any unexPECTed manuFACturing deLAYS ocCUR.",
+			question: "The company will launch the new product next month ___________ any unexpected manufacturing delays occur.",
 			options: [
 				"providing that",
 				"unless",
 				"if only",
-				"as SOON as"
+				"as soon as"
 			],
 			correctAnswer: 1,
-			explanation: "\"unless\" means \"if... not,\" introducing an adverb clause of condition. The sentence means the company will launch the product if there are no unexpected delays. \"providing that\" means \"if,\" which would create an illogical statement here."
+			explanation: "\"Unless\" means \"if... not,\" introducing an adverb clause of condition. The sentence means the company will launch the product if there are no unexpected delays. \"Providing that\" means \"if,\" which would create an illogical statement here."
 		},
 		{
 			id: 4,
-			question: "___________ JAMES GRADuated from uniVERsity, he has been WORKing as a JUnior acCOUNTant at an interNATional FIRM.",
+			question: "___________ James graduated from university, he has been working as a junior accountant at an international firm.",
 			options: [
 				"when",
 				"while",
@@ -66,11 +66,11 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 				"until"
 			],
 			correctAnswer: 2,
-			explanation: "This is an adverb clause of time. \"since\" indicates a starting point in the past up to the present, which perfectly matches the use of the present perfect tense (has been WORKing) in the main clause."
+			explanation: "This is an adverb clause of time. \"Since\" indicates a starting point in the past up to the present, which perfectly matches the use of the present perfect tense (has been working) in the main clause."
 		},
 		{
 			id: 5,
-			question: "she SPOKE in a VERy LOW VOICE ___________ she would waKE UP the SLEEPing BAby in the NEXT ROOM.",
+			question: "She spoke in a very low voice ___________ she would wake up the sleeping baby in the next room.",
 			options: [
 				"for fear that",
 				"so as to",
@@ -78,11 +78,11 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 				"even if"
 			],
 			correctAnswer: 0,
-			explanation: "\"for fear that\" introduces an adverb clause of purpose/negative intention, meaning \"to aVOID the RISK of.\" It is followed by a full clause (she would waKE UP). \"so as to\" requires a base verb, and \"in case of\" requires a noun phrase."
+			explanation: "\"For fear that\" introduces an adverb clause of purpose/negative intention, meaning \"to avoid the risk of.\" It is followed by a full clause (she would wake up). \"So as to\" requires a base verb, and \"in case of\" requires a noun phrase."
 		},
 		{
 			id: 6,
-			question: "the CHEF prePARED the DISH eXACTly ___________ the traDITional REcipe inSTRUCTed.",
+			question: "The chef prepared the dish exactly ___________ the traditional recipe instructed.",
 			options: [
 				"as if",
 				"like",
@@ -90,23 +90,23 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 				"whereas"
 			],
 			correctAnswer: 2,
-			explanation: "\"as\" is used here to introduce an adverb clause of manner, showing how the action was performed based on a guide or instruction. While \"like\" is common in casual spoken English, \"as\" is the correct subordinating conjunction for a full formal clause. \"as if\" implies an unreal or hypothetical situation, which does not apply to a real recipe."
+			explanation: "\"As\" is used here to introduce an adverb clause of manner, showing how the action was performed based on a guide or instruction. While \"like\" is common in casual spoken English, \"as\" is the correct subordinating conjunction for a full formal clause. \"As if\" implies an unreal or hypothetical situation, which does not apply to a real recipe."
 		},
 		{
 			id: 7,
-			question: "___________ HARD he TRIED to FIX the BROken LAPtop, he could NOT GET it to TURN on aGAIN.",
+			question: "___________ hard he tried to fix the broken laptop, he could not get it to turn on again.",
 			options: [
-				"Although",
+				"although",
 				"no matter",
 				"however",
 				"even though"
 			],
 			correctAnswer: 2,
-			explanation: "\"hoWEVer\" acts as a subordinating conjunction meaning \"no matter how\" and must be followed directly by an adjective or adverb (hoWEVer + ADjective/ADverb + SUBject + VERB). \"no matter\" needs the word \"HOW\" to be complete in this structure."
+			explanation: "\"However\" acts as a subordinating conjunction meaning \"no matter how\" and must be followed directly by an adjective or adverb (however + adjective/adverb + subject + verb). \"No matter\" needs the word \"how\" to be complete in this structure."
 		},
 		{
 			id: 8,
-			question: "we deCIded to STAY inDOORS and WATCH a MOvie ___________ it was RAINing HEAVily outSIDE.",
+			question: "We decided to stay indoors and watch a movie ___________ it was raining heavily outside.",
 			options: [
 				"now that",
 				"due to",
@@ -114,11 +114,11 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 				"so"
 			],
 			correctAnswer: 0,
-			explanation: "\"now that\" introduces an adverb clause of cause/reason, meaning \"because NOW.\" It explains the reason for staying indoors. \"due to\" is a prepositional phrase and cannot be followed by a clause. \"even though\" indicates concession, which contradicts the logic of the sentence."
+			explanation: "\"Now that\" introduces an adverb clause of cause/reason, meaning \"because now.\" It explains the reason for staying indoors. \"Due to\" is a prepositional phrase and cannot be followed by a clause. \"Even though\" indicates concession, which contradicts the logic of the sentence."
 		},
 		{
 			id: 9,
-			question: "you can BORrow my FAvorite NOVel ___________ you PROMise to reTURN it to me by NEXT FRIday.",
+			question: "You can borrow my favorite novel ___________ you promise to return it to me by next Friday.",
 			options: [
 				"as far as",
 				"as long as",
@@ -126,11 +126,11 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 				"in case"
 			],
 			correctAnswer: 1,
-			explanation: "\"as long as\" is a subordinating conjunction of condition meaning \"proVIded that\" or \"only if.\" It sets the condition under which the person is allowed to borrow the"
+			explanation: "\"As long as\" is a subordinating conjunction of condition meaning \"provided that\" or \"only if.\" It sets the condition under which the person is allowed to borrow the novel."
 		},
 		{
 			id: 10,
-			question: "PLEASE DOUble-CHECK the fiNANcial FIgures in the SPREADsheet ___________ you subMIT the FInal rePORT to the MANager.",
+			question: "Please double-check the financial figures in the spreadsheet ___________ you submit the final report to the manager.",
 			options: [
 				"before",
 				"after",

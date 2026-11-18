@@ -20,9 +20,9 @@ interface Question {
 export default function PrepositionsQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "the MEETing is SCHEDuled to START _____ 9:00 a.M. SHARP.",
+			question: "The meeting is scheduled to start _____ 9:00 a.m. sharp.",
 			options: [
 				"in",
 				"on",
@@ -34,7 +34,7 @@ export default function PrepositionsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "i am REALly LOOKing FORward _____ VISiting my GRANDparents this SUMmer.",
+			question: "I am really looking forward _____ visiting my grandparents this summer.",
 			options: [
 				"to",
 				"for",
@@ -42,11 +42,11 @@ export default function PrepositionsQuiz(): React.JSX.Element {
 				"with"
 			],
 			correctAnswer: 0,
-			explanation: "The phrasal verb is \"LOOK FORward to,\" which means to be excited about something in the future."
+			explanation: "The phrasal verb is \"look forward to,\" which means to be excited about something in the future."
 		},
 		{
 			id: 3,
-			question: "my BROTHer is VERy GOOD _____ PLAYing the guiTAR.",
+			question: "My brother is very good _____ playing the guitar.",
 			options: [
 				"in",
 				"at",
@@ -54,11 +54,11 @@ export default function PrepositionsQuiz(): React.JSX.Element {
 				"with"
 			],
 			correctAnswer: 1,
-			explanation: "We use the adjective phrase \"GOOD at\" + NOUN/V-ing to describe a skill or talent."
+			explanation: "We use the adjective phrase \"good at\" + noun/V-ing to describe a skill or talent."
 		},
 		{
 			id: 4,
-			question: "we arRIVED _____ the AIRport JUST in TIME for our FLIGHT.",
+			question: "We arrived _____ the airport just in time for our flight.",
 			options: [
 				"in",
 				"to",
@@ -70,7 +70,7 @@ export default function PrepositionsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "she has been LIVing in this CITy _____ FIVE YEARS.",
+			question: "She has been living in this city _____ five years.",
 			options: [
 				"since",
 				"during",
@@ -78,11 +78,11 @@ export default function PrepositionsQuiz(): React.JSX.Element {
 				"from"
 			],
 			correctAnswer: 2,
-			explanation: "\"for\" is used to show a duration or period of time (FIVE YEARS)."
+			explanation: "\"For\" is used to show a duration or period of time (five years)."
 		},
 		{
 			id: 6,
-			question: "is your HOUSE _____ the LEFT or the RIGHT SIDE of the STREET?",
+			question: "Is your house _____ the left or the right side of the street?",
 			options: [
 				"in",
 				"at",
@@ -90,11 +90,11 @@ export default function PrepositionsQuiz(): React.JSX.Element {
 				"by"
 			],
 			correctAnswer: 2,
-			explanation: "We use the preposition \"on\" for directions like \"on the LEFT\" or \"on the RIGHT.\""
+			explanation: "We use the preposition \"on\" for directions like \"on the left\" or \"on the right.\""
 		},
 		{
 			id: 7,
-			question: "i'm SORry, but i DON'T aGREE _____ your oPINion on this MATter.",
+			question: "I'm sorry, but I don't agree _____ your opinion on this matter.",
 			options: [
 				"to",
 				"with",
@@ -102,11 +102,11 @@ export default function PrepositionsQuiz(): React.JSX.Element {
 				"about"
 			],
 			correctAnswer: 1,
-			explanation: "The verb \"aGREE\" is followed by \"with\" when referring to a person or their iDEas/oPINions."
+			explanation: "The verb \"agree\" is followed by \"with\" when referring to a person or their ideas/opinions."
 		},
 		{
 			id: 8,
-			question: "the CAT is HIding _____ the BED because it is SCARED of the VACUum CLEANer.",
+			question: "The cat is hiding _____ the bed because it is scared of the vacuum cleaner.",
 			options: [
 				"between",
 				"among",
@@ -114,11 +114,11 @@ export default function PrepositionsQuiz(): React.JSX.Element {
 				"through"
 			],
 			correctAnswer: 2,
-			explanation: "\"under\" indicates a position directly below or covered by something else."
+			explanation: "\"Under\" indicates a position directly below or covered by something else."
 		},
 		{
 			id: 9,
-			question: "PLEASE WAIT for me. i’ll be BACK _____ a FEW MINutes.",
+			question: "Please wait for me. I’ll be back _____ a few minutes.",
 			options: [
 				"at",
 				"in",
@@ -130,7 +130,7 @@ export default function PrepositionsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "he is reSPONsible _____ MANaging the MARketing dePARTment.",
+			question: "He is responsible _____ managing the marketing department.",
 			options: [
 				"with",
 				"of",
@@ -138,7 +138,7 @@ export default function PrepositionsQuiz(): React.JSX.Element {
 				"about"
 			],
 			correctAnswer: 2,
-			explanation: "The adjective \"reSPONsible\" is followed by the preposition \"for.\""
+			explanation: "The adjective \"responsible\" is followed by the preposition \"for.\""
 		}
 	];
 

@@ -20,9 +20,9 @@ interface Question {
 export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "the LIST of Items _______ on the DESK.",
+			question: "The list of items _______ on the desk.",
 			options: [
 				"is",
 				"are",
@@ -30,23 +30,23 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"being"
 			],
 			correctAnswer: 0,
-			explanation: "Danh chủ chính là NOUN số ít \"the LIST\", không phải \"Items\". Vì vậy, hành động phải chia ở số ít."
+			explanation: "The main subject is the singular noun \"the list,\" not \"items.\" Therefore, a singular verb is required."
 		},
 		{
 			id: 2,
-			question: "neither the TEACHer nor the STUdents _______ to SKIP the EXtra CLASS.",
+			question: "Neither the teacher nor the students _______ to skip the extra class.",
 			options: [
-				"WANTS",
-				"WANTing",
-				"WANT",
-				"has WANTed"
+				"wants",
+				"wanting",
+				"want",
+				"has wanted"
 			],
 			correctAnswer: 2,
-			explanation: "Với cấu trúc \"neither... nor...\", hành động chia theo danh chủ gần nó nhất. \"the STUdents\" là NOUN số nhiều nên dùng \"WANT\"."
+			explanation: "With \"neither... nor...,\" the verb agrees with the subject closest to it. \"The students\" is plural, so \"want\" is required."
 		},
 		{
 			id: 3,
-			question: "ecoNOMics _______ a DIFficult SUBject for many PEOple.",
+			question: "Economics _______ a difficult subject for many people.",
 			options: [
 				"are",
 				"is",
@@ -54,11 +54,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"were"
 			],
 			correctAnswer: 1,
-			explanation: "Một số NOUN kết thúc bằng \"s\" nhưng là tên môn học, lĩnh vực (ecoNOMics, PHYSics, matheMATics) thì luôn chia hành động ở số ít."
+			explanation: "Nouns ending in \"-ics\" that refer to a field of study or subject (like economics, physics, or mathematics) always take a singular verb."
 		},
 		{
 			id: 4,
-			question: "a NUMber of emPLOYees _______ comPLAINED about the NEW POLicy.",
+			question: "A number of employees _______ complained about the new policy.",
 			options: [
 				"has",
 				"is",
@@ -66,11 +66,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 2,
-			explanation: "Cấu trúc \"a NUMber of + NOUN số nhiều\" luôn đi với hành động số nhiều. (Ngược lại, \"The NUMber of\" sẽ đi với hành động số ít)."
+			explanation: "The structure \"a number of + plural noun\" always takes a plural verb. (In contrast, \"the number of\" takes a singular verb)."
 		},
 		{
 			id: 5,
-			question: "every MAN, WOMan, and CHILD _______ the RIGHT to be HAPpy.",
+			question: "Every man, woman, and child _______ the right to be happy.",
 			options: [
 				"has",
 				"have",
@@ -78,11 +78,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"are having"
 			],
 			correctAnswer: 0,
-			explanation: "Khi danh chủ bắt đầu bằng \"every\" hoặc \"EACH\", hành động luôn chia ở số ít bất kể có bao nhiêu NOUN đi sau."
+			explanation: "When a subject begins with \"every\" or \"each,\" the verb is always singular regardless of how many nouns follow."
 		},
 		{
 			id: 6,
-			question: "the PAIR of SCISsors _______ on the SEWing TAble.",
+			question: "The pair of scissors _______ on the sewing table.",
 			options: [
 				"are",
 				"were",
@@ -90,11 +90,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"been"
 			],
 			correctAnswer: 2,
-			explanation: "Mặc dù \"SCISsors\" là NOUN luôn ở dạng số nhiều, nhưng khi có cụm \"the PAIR of\" (Cặp/Cái) đứng trước, ta chia theo \"PAIR\" (số ít)."
+			explanation: "Although \"scissors\" is a plural noun, the subject \"the pair\" is singular, so the verb agrees with \"pair.\""
 		},
 		{
 			id: 7,
-			question: "TEN DOLlars _______ TOO MUCH to PAY for this SMALL SNACK.",
+			question: "Ten dollars _______ too much to pay for this small snack.",
 			options: [
 				"are",
 				"were",
@@ -102,11 +102,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 2,
-			explanation: "Các khoảng thời gian, số tiền, khoảng cách hoặc trọng lượng được coi là một đơn vị duy nhất nên chia hành động số ít."
+			explanation: "Periods of time, sums of money, distances, or weights are treated as a single unit and take a singular verb."
 		},
 		{
 			id: 8,
-			question: "either my BROTHers or my FAther _______ reSPONsible for the rePAIRS.",
+			question: "Either my brothers or my father _______ responsible for the repairs.",
 			options: [
 				"are",
 				"is",
@@ -114,11 +114,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"either... or...\", hành động chia theo danh chủ gần nó nhất là \"my FAther\" (số ít)."
+			explanation: "With \"either... or...,\" the verb agrees with the subject closest to it, which is \"my father\" (singular)."
 		},
 		{
 			id: 9,
-			question: "the TEAM _______ ARguing among themSELVES about the STRATegy.",
+			question: "The team _______ arguing among themselves about the strategy.",
 			options: [
 				"is",
 				"are",
@@ -126,11 +126,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 1,
-			explanation: "DANH tập hợp (TEAM, FAMILy, STAFF) dùng hành động số nhiều khi muốn nhấn mạnh vào hành động riêng rẽ của từng thành viên trong nhóm (ở đây là đang tranh cãi lẫn nhau)."
+			explanation: "Collective nouns (like team, family, or staff) take a plural verb when emphasizing the individual actions of the members (here, arguing with one another)."
 		},
 		{
 			id: 10,
-			question: "BREAD and BUTter _______ our DAIly BREAKfast.",
+			question: "Bread and butter _______ our daily breakfast.",
 			options: [
 				"is",
 				"are",
@@ -138,7 +138,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 0,
-			explanation: "Khi hai NOUN nối với nhau bằng \"and\" nhưng cùng chỉ về một món ăn hoặc một ý tưởng thống nhất, hành động sẽ chia ở số ít."
+			explanation: "When two nouns joined by \"and\" refer to a single dish or unified idea, they take a singular verb."
 		}
 	];
 

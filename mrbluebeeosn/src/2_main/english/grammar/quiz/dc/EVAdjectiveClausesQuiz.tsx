@@ -20,9 +20,9 @@ interface Question {
 export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "the WOMan _______ LIVES NEXT DOOR is a FAmous DOCtor.",
+			question: "The woman _______ lives next door is a famous doctor.",
 			options: [
 				"whom",
 				"who",
@@ -30,11 +30,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 1,
-			explanation: "ĐẠI quan hệ thay thế cho NOUN chỉ người \"the WOMan\" và đóng vai trò làm danh chủ trong câu con quan hệ (đứng trước hành động \"LIVES\")."
+			explanation: "A relative pronoun replacing the person noun \"the woman\" and acting as the subject in the relative clause (before the verb \"lives\")."
 		},
 		{
 			id: 2,
-			question: "the BOOK _______ i BORrowed from the LIbrary YESterday is VERy INTEResting.",
+			question: "The book _______ I borrowed from the library yesterday is very interesting.",
 			options: [
 				"who",
 				"whom",
@@ -42,11 +42,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 2,
-			explanation: "ĐẠI quan hệ thay thế cho NOUN chỉ vật \"the BOOK\" và đóng vai trò làm danh nhận trong câu con quan hệ."
+			explanation: "A relative pronoun replacing the thing noun \"the book\" and acting as the object in the relative clause."
 		},
 		{
 			id: 3,
-			question: "do you KNOW the BOY _______ BIcycle was STOlen LAST NIGHT?",
+			question: "Do you know the boy _______ bicycle was stolen last night?",
 			options: [
 				"who",
 				"whose",
@@ -54,11 +54,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"that"
 			],
 			correctAnswer: 1,
-			explanation: "Dùng để chỉ sở hữu cho NOUN đứng trước (\"the BOY's BIcycle\" → \"the BOY whose BIcycle\")."
+			explanation: "Used to show possession for the preceding noun (\"the boy's bicycle\" -> \"the boy whose bicycle\")."
 		},
 		{
 			id: 4,
-			question: "the RESTAUrant _______ we had DINner LAST WEEK was fanTAStic.",
+			question: "The restaurant _______ we had dinner last week was fantastic.",
 			options: [
 				"where",
 				"which",
@@ -66,11 +66,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"when"
 			],
 			correctAnswer: 0,
-			explanation: "TRẠNG quan hệ chỉ nơi chốn, thay thế cho \"the RESTAUrant\" (tương đương với cụm \"at which\")."
+			explanation: "A relative adverb of place replacing \"the restaurant\" (equivalent to \"at which\")."
 		},
 		{
 			id: 5,
-			question: "i will NEVer forGET the DAY _______ i FIRST MET my BEST FRIEND.",
+			question: "I will never forget the day _______ I first met my best friend.",
 			options: [
 				"which",
 				"where",
@@ -78,11 +78,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"who"
 			],
 			correctAnswer: 2,
-			explanation: "TRẠNG quan hệ chỉ thời gian, thay thế cho NOUN \"the DAY\"."
+			explanation: "A relative adverb of time replacing the noun \"the day.\""
 		},
 		{
 			id: 6,
-			question: "the MAN _______ you MET at the PARTy is my UNcle.",
+			question: "The man _______ you met at the party is my uncle.",
 			options: [
 				"which",
 				"whose",
@@ -90,11 +90,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"who"
 			],
 			correctAnswer: 2,
-			explanation: "ĐẠI quan hệ thay thế cho NOUN chỉ người \"the MAN\" và đóng vai trò làm danh nhận trong câu con quan hệ (sau nó là một ĐẠI/danh chủ \"you\")."
+			explanation: "A relative pronoun replacing the person noun \"the man\" and acting as the object in the relative clause (followed by the subject pronoun \"you\")."
 		},
 		{
 			id: 7,
-			question: "the REAson _______ he FAILED the eXAM was his LAziness.",
+			question: "The reason _______ he failed the exam was his laziness.",
 			options: [
 				"why",
 				"which",
@@ -102,11 +102,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"when"
 			],
 			correctAnswer: 0,
-			explanation: "TRẠNG quan hệ chỉ lý do, thường đi kèm sau cụm từ NOUN \"the REAson\"."
+			explanation: "A relative adverb of reason, typically used immediately after the noun phrase \"the reason.\""
 		},
 		{
 			id: 8,
-			question: "the BUILDing, _______ was BUILT in nineTEEN TWENty, is being RENovated.",
+			question: "The building, _______ was built in nineteen twenty, is being renovated.",
 			options: [
 				"that",
 				"which",
@@ -114,11 +114,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là câu con quan hệ không xác định (có dấu phẩy), bổ nghĩa cho vật \"the BUILDing\". Quy tắc ngữ pháp không dùng \"that\" sau dấu phẩy."
+			explanation: "This is a non-defining relative clause (with commas) modifying the thing \"the building.\" Grammar rules do not allow \"that\" after a comma."
 		},
 		{
 			id: 9,
-			question: "the STUdents _______ comPLEted the asSIGNment on TIME reCEIVED EXtra MARKS.",
+			question: "The students _______ completed the assignment on time received extra marks.",
 			options: [
 				"whom",
 				"which",
@@ -126,11 +126,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 2,
-			explanation: "Thay thế cho NOUN số nhiều chỉ người \"the STUdents\" và làm danh chủ cho hành động \"comPLEted\"."
+			explanation: "Replaces the plural person noun \"the students\" and acts as the subject for the verb \"completed.\""
 		},
 		{
 			id: 10,
-			question: "the LAPtop _______ she is Using beLONGS to her BROTHer.",
+			question: "The laptop _______ she is using belongs to her brother.",
 			options: [
 				"whose",
 				"who",
@@ -138,7 +138,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"that"
 			],
 			correctAnswer: 3,
-			explanation: "\"that\" được dùng để thay thế cho NOUN chỉ vật \"the LAPtop\" trong câu con quan hệ xác định (ở đây có thể dùng \"which\" nhưng trong các phương án chỉ có \"that\" là chính xác)."
+			explanation: "\"That\" is used to replace the thing noun \"the laptop\" in a defining relative clause (\"which\" is also possible, though \"that\" is the only correct option provided)."
 		}
 	];
 

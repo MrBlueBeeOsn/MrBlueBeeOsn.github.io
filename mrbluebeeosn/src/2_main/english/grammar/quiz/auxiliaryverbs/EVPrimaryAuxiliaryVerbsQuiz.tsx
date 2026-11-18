@@ -20,9 +20,9 @@ interface Question {
 export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "she ________ NOT FINished her acCOUNTing rePORT YET.",
+			question: "She ________ not finished her accounting report yet.",
 			options: [
 				"does",
 				"has",
@@ -30,11 +30,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 1,
-			explanation: "Câu ở 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (PRESent PERfect) với cấu trúc s + have/has + V3/ed. Với danh chủ \"she\", ta dùng \"has\"."
+			explanation: "This sentence uses the 📏 Present Perfect tense with the structure S + have/has + V3/ed. With the subject \"she,\" we use \"has.\""
 		},
 		{
 			id: 2,
-			question: "________ you STUDy the NEW interNATional acCOUNTing STANDards YESterday?",
+			question: "________ you study the new international accounting standards yesterday?",
 			options: [
 				"do",
 				"have",
@@ -42,11 +42,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"were"
 			],
 			correctAnswer: 2,
-			explanation: "Câu nghi vấn ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (PAST SIMple) mượn thời gian hành động \"did\" đứng trước danh chủ, hành động chính \"STUDy\" giữ nguyên mẫu."
+			explanation: "A question in the ⏳ Simple Past tense uses the auxiliary \"did\" before the subject, while the main verb \"study\" remains in its base form."
 		},
 		{
 			id: 3,
-			question: "the fiNANcial STATEments ________ being AUdited by the inTERnal TEAM RIGHT NOW.",
+			question: "The financial statements ________ being audited by the internal team right now.",
 			options: [
 				"are",
 				"have",
@@ -54,11 +54,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"is"
 			],
 			correctAnswer: 0,
-			explanation: "Câu ở ⏱️ thời điểm hành động ở hiện tại tiếp diễn thể bị động (PRESent conTINuous PASSive): s + am/is/are + being + V3/ed. \"STATEments\" là NOUN số nhiều nên dùng \"are\"."
+			explanation: "This is the ⏱️ Present Continuous Passive voice: S + am/is/are + being + V3/ed. \"Statements\" is plural, so we use \"are.\""
 		},
 		{
 			id: 4,
-			question: "WHY ________ he ALways inSIST on Using MANual SPREADsheets inSTEAD of SOFTware?",
+			question: "Why ________ he always insist on using manual spreadsheets instead of software?",
 			options: [
 				"is",
 				"has",
@@ -66,11 +66,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 2,
-			explanation: "Câu hỏi ở ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với hành động thường \"inSIST\". Danh chủ \"he\" yêu cầu thời gian hành động \"does\"."
+			explanation: "This is a ⏳ Simple Present question with the action verb \"insist.\" The singular subject \"he\" requires the auxiliary \"does.\""
 		},
 		{
 			id: 5,
-			question: "we ________ had many opporTUnities to PRACtice exCEL FUNCtions this MONTH.",
+			question: "We ________ had many opportunities to practice Excel functions this month.",
 			options: [
 				"are",
 				"do",
@@ -78,11 +78,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 2,
-			explanation: "📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành dùng để diễn tả hành động kéo dài đến hiện tại. Cấu trúc s (we) + have + V3 (had)."
+			explanation: "The 📏 Present Perfect tense is used to describe an action continuing up to the present. Structure: S (we) + have + V3 (had)."
 		},
 		{
 			id: 6,
-			question: "________ the COMpany proVIDE FREE ENGlish COURSes for its emPLOYees LAST YEAR?",
+			question: "________ the company provide free English courses for its employees last year?",
 			options: [
 				"does",
 				"did",
@@ -90,11 +90,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 1,
-			explanation: "Dấu hiệu \"LAST YEAR\" cho thấy đây là ⏳ Thời Gian Hành Động ở Quá Khứ Đơn. Mượn thời gian hành động \"did\" cho câu hỏi với hành động thường \"proVIDE\"."
+			explanation: "The time marker \"last year\" indicates the ⏳ Simple Past tense. We use the auxiliary \"did\" to form a question with the action verb \"provide.\""
 		},
 		{
 			id: 7,
-			question: "i ________ CURrently READing a BOOK about efFECtive transLAtion techNIQUES.",
+			question: "I ________ currently reading a book about effective translation techniques.",
 			options: [
 				"do",
 				"have",
@@ -102,11 +102,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"be"
 			],
 			correctAnswer: 2,
-			explanation: "⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn diễn tả hành động đang xảy ra: s (i) + am + V-ing."
+			explanation: "The ⏱️ Present Continuous tense describes an action happening right now: S (I) + am + V-ing."
 		},
 		{
 			id: 8,
-			question: "they ________ NOT LIKE the WAY the NEW SOFTware ORganizes the DAta.",
+			question: "They ________ not like the way the new software organizes the data.",
 			options: [
 				"does",
 				"are",
@@ -114,11 +114,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 2,
-			explanation: "Câu phủ định ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với danh chủ \"they\" (số nhiều) sử dụng thời gian hành động \"do\" + not."
+			explanation: "A negative sentence in the ⏳ Simple Present tense with the plural subject \"they\" uses the auxiliary \"do\" + not."
 		},
 		{
 			id: 9,
-			question: "the TAX DOCuments ________ alREADy been SENT to the TAX OFfice.",
+			question: "The tax documents ________ already been sent to the tax office.",
 			options: [
 				"are",
 				"have",
@@ -126,11 +126,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 1,
-			explanation: "📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành thể bị động: s + have/has + been + V3/ed. \"DOCuments\" số nhiều đi với \"have\"."
+			explanation: "This is the 📏 Present Perfect Passive voice: S + have/has + been + V3/ed. \"Documents\" is plural, so it takes \"have.\""
 		},
 		{
 			id: 10,
-			question: "________ she WORKing on the BALance SHEET when you CALLED her?",
+			question: "________ she working on the balance sheet when you called her?",
 			options: [
 				"does",
 				"has",
@@ -138,7 +138,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 2,
-			explanation: "Câu hỏi ở ⏱️ Thời Điểm Hành Động ở Quá Khứ Tiếp Diễn: was/were + s + V-ing. Với danh chủ \"she\", ta dùng \"was\"."
+			explanation: "This is a question in the ⏱️ Past Continuous tense: Was/Were + S + V-ing. With the subject \"she,\" we use \"was.\""
 		}
 	];
 

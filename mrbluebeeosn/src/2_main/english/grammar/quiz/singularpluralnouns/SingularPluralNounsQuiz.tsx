@@ -20,125 +20,125 @@ interface Question {
 export default function SingularPluralNounsQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "the __________ are PLAYing HAPpily in the PARK.",
+			question: "The __________ are playing happily in the park.",
 			options: [
-				"CHILD",
-				"CHILDS",
-				"CHILDren",
-				"CHILDrens"
+				"child",
+				"childs",
+				"children",
+				"childrens"
 			],
 			correctAnswer: 2,
-			explanation: "\"CHILDren\" is the irregular plural form of the singular noun \"CHILD.\" Options b and d are grammatically incorrect."
+			explanation: "\"Children\" is the irregular plural form of the singular noun \"child.\" Options B and D are grammatically incorrect."
 		},
 		{
 			id: 2,
-			question: "I NEED to BUY TWO __________ of BREAD from the BAkery.",
+			question: "I need to buy two __________ of bread from the bakery.",
 			options: [
-				"LOAF",
-				"LOAFS",
-				"LOAVES",
-				"LOAFES"
+				"loaf",
+				"loafs",
+				"loaves",
+				"loafes"
 			],
 			correctAnswer: 2,
-			explanation: "For most nouns ending in \"-F\" or \"-FE,\" we change the ending to \"-VES\" to form the plural."
+			explanation: "For most nouns ending in \"-f\" or \"-fe,\" we change the ending to \"-ves\" to form the plural."
 		},
 		{
 			id: 3,
-			question: "all the __________ in the BUILDing must be rePLACED.",
+			question: "All the __________ in the building must be replaced.",
 			options: [
-				"WINdow",
-				"WINdows",
-				"WINdowes",
-				"WINdows's"
+				"window",
+				"windows",
+				"windowes",
+				"windows's"
 			],
 			correctAnswer: 1,
-			explanation: "\"WINdow\" is a regular noun, so we simply add \"-s\" to make it plural."
+			explanation: "\"Window\" is a regular noun, so we simply add \"-s\" to make it plural."
 		},
 		{
 			id: 4,
-			question: "a PAIR of __________ was SEEN ROAMing near the FORest.",
+			question: "A pair of __________ was seen roaming near the forest.",
 			options: [
-				"WOLF",
-				"WOLFS",
-				"WOLVES",
-				"WOLVEses"
+				"wolf",
+				"wolfs",
+				"wolves",
+				"wolveses"
 			],
 			correctAnswer: 2,
-			explanation: "Similar to \"LOAF,\" the noun \"WOLF\" ends in \"-F,\" so the plural form is \"WOLVES.\""
+			explanation: "Similar to \"loaf,\" the noun \"wolf\" ends in \"-f,\" so the plural form is \"wolves.\""
 		},
 		{
 			id: 5,
-			question: "HOW many __________ did you CATCH during the FISHing TRIP?",
+			question: "How many __________ did you catch during the fishing trip?",
 			options: [
-				"FISH",
-				"FISHS",
-				"FISHes",
-				"FISHies"
+				"fish",
+				"fishs",
+				"fishes",
+				"fishies"
 			],
 			correctAnswer: 0,
-			explanation: "\"FISH\" is a noun that remains the same in both singular and plural forms when referring to the same species."
+			explanation: "\"Fish\" is a noun that remains the same in both singular and plural forms when referring to the same species."
 		},
 		{
 			id: 6,
-			question: "the DENtist TOLD him to BRUSH his __________ TWICE a DAY.",
+			question: "The dentist told him to brush his __________ twice a day.",
 			options: [
-				"TOOTH",
-				"TOOTHS",
-				"TEETH",
-				"TEETHS"
+				"tooth",
+				"tooths",
+				"teeth",
+				"teeths"
 			],
 			correctAnswer: 2,
-			explanation: "\"TEETH\" is an irregular plural noun. The singular form is \"TOOTH.\""
+			explanation: "\"Teeth\" is an irregular plural noun. The singular form is \"tooth.\""
 		},
 		{
 			id: 7,
-			question: "several __________ were GRAzing in the GREEN FIELD.",
+			question: "Several __________ were grazing in the green field.",
 			options: [
-				"SHEEP",
-				"SHEEPS",
-				"SHEEPes",
-				"SHEEPses"
+				"sheep",
+				"sheeps",
+				"sheepes",
+				"sheepses"
 			],
 			correctAnswer: 0,
-			explanation: "Like \"FISH,\" the word \"SHEEP\" has the same form for both singular and plural."
+			explanation: "Like \"fish,\" the word \"sheep\" has the same form for both singular and plural."
 		},
 		{
 			id: 8,
-			question: "the CHEF USED a SHARP __________ to CUT the VEGETables.",
+			question: "The chef used a sharp __________ to cut the vegetables.",
 			options: [
-				"KNIFE",
-				"KNIFES",
-				"KNIVES",
-				"KNIFEses"
+				"knife",
+				"knifes",
+				"knives",
+				"knifeses"
 			],
 			correctAnswer: 0,
-			explanation: "The sentence uses the article \"a,\" which indicates a singular noun is required. \"KNIFE\" is the singular form."
+			explanation: "The sentence uses the article \"a,\" which indicates a singular noun is required. \"Knife\" is the singular form."
 		},
 		{
 			id: 9,
-			question: "these __________ are very COMFORtable for RUNning.",
+			question: "These __________ are very comfortable for running.",
 			options: [
-				"SHOE",
-				"SHOES",
-				"SHOESS",
-				"SHOESE"
+				"shoe",
+				"shoes",
+				"shoess",
+				"shoese"
 			],
 			correctAnswer: 1,
-			explanation: "The demonstrative adjective \"these\" indicates a plural noun. \"SHOES\" is the correct plural of \"SHOE.\""
+			explanation: "The demonstrative adjective \"these\" indicates a plural noun. \"Shoes\" is the correct plural of \"shoe.\""
 		},
 		{
 			id: 10,
-			question: "many __________ STRUGgle with FINDing a WORK-LIFE BALance.",
+			question: "Many __________ struggle with finding a work-life balance.",
 			options: [
-				"PERson",
-				"PERsons",
-				"PEOple",
-				"PEOples"
+				"person",
+				"persons",
+				"people",
+				"peoples"
 			],
 			correctAnswer: 2,
-			explanation: "While \"PERsons\" is sometimes used in legal contexts, \"PEOple\" is the standard irregular plural form of \"PERson\" in general English."
+			explanation: "While \"persons\" is sometimes used in legal contexts, \"people\" is the standard irregular plural form of \"person\" in general English."
 		}
 	];
 

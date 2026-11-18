@@ -20,125 +20,125 @@ interface Question {
 export default function EVEnglishTensesQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tenses cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "she _______ to the GYM THREE TIMES a WEEK.",
+			question: "She _______ to the gym three times a week.",
 			options: [
-				"is GOing",
-				"GOES",
-				"WENT",
-				"has GONE"
+				"is going",
+				"goes",
+				"went",
+				"has gone"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là hành động lặp đi lặp lại (thói quen), được diễn tả bằng ADverb chỉ tần suất \"THREE TIMES a WEEK\". Ta sử dụng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (SIMple PRESent)."
+			explanation: "This is a repeated action (habit) indicated by the frequency phrase \"three times a week\". We use the ⏳ Simple Present tense."
 		},
 		{
 			id: 2,
-			question: "when the PHONE RANG, i _______ a SHOWer.",
+			question: "When the phone rang, I _______ a shower.",
 			options: [
-				"TOOK",
-				"was TAking",
-				"TAKE",
-				"have TAken"
+				"took",
+				"was taking",
+				"take",
+				"have taken"
 			],
 			correctAnswer: 1,
-			explanation: "Hành động tắm đang diễn ra (dài hơn) thì bị một hành động khác (điện thoại reo) cắt ngang. Hành động đang diễn ra sử dụng ⏱️ Thời Điểm Hành Động ở Quá Khứ Tiếp Diễn (PAST conTINuous)."
+			explanation: "An ongoing action (taking a shower) was interrupted by a shorter past action (the phone rang). We use the ⏱️ Past Continuous tense for the ongoing action."
 		},
 		{
 			id: 3,
-			question: "by the TIME we arRIVE at the AIRport, the PLANE _______.",
+			question: "By the time we arrive at the airport, the plane _______.",
 			options: [
-				"LEAVES",
-				"will LEAVE",
-				"is LEAving",
-				"will have LEFT"
+				"leaves",
+				"will leave",
+				"is leaving",
+				"will have left"
 			],
 			correctAnswer: 3,
-			explanation: "Hành động máy bay cất cánh sẽ hoàn thành trước một thời điểm hoặc một hành động khác trong tương lai (khi chúng ta đến sân bay). Ta sử dụng 📏 Khoảng Thời Gian Hành Động ở Tương Lai Hoàn Thành (FUture PERfect)."
+			explanation: "The action of the plane leaving will be completed before a specific time or another action in the future (when we arrive). We use the 📏 Future Perfect tense."
 		},
 		{
 			id: 4,
-			question: "they _______ HERE since 2010.",
+			question: "They _______ here since 2010.",
 			options: [
-				"LIVE",
-				"LIVED",
-				"are LIVing",
-				"have LIVED"
+				"live",
+				"lived",
+				"are living",
+				"have lived"
 			],
 			correctAnswer: 3,
-			explanation: "Hành động sống bắt đầu trong quá khứ (2010) và vẫn tiếp tục đến hiện tại (có \"since\"). Ta sử dụng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (PRESent PERfect)."
+			explanation: "The action started in the past (2010) and continues into the present (indicated by \"since\"). We use the 📏 Present Perfect tense."
 		},
 		{
 			id: 5,
-			question: "LOOK! the SUN _______ so BRIGHTly.",
+			question: "Look! The sun _______ so brightly.",
 			options: [
-				"SHINES",
-				"is SHIning",
-				"SHONE",
-				"has SHONE"
+				"shines",
+				"is shining",
+				"shone",
+				"has shone"
 			],
 			correctAnswer: 1,
-			explanation: "Hành động đang diễn ra tại thời điểm nói, thường đi kèm với các từ như \"LOOK!\" hoặc \"LISten!\". Ta sử dụng ⏱️ thời điểm hành động ở hiện tại tiếp diễn (PRESent conTINuous)."
+			explanation: "The action is happening right at the moment of speaking, often signaled by words like \"Look!\" or \"Listen!\". We use the ⏱️ Present Continuous tense."
 		},
 		{
 			id: 6,
-			question: "before he WENT to BED, he _______ his HOMEwork.",
+			question: "Before he went to bed, he _______ his homework.",
 			options: [
-				"DOES",
-				"DID",
-				"had DONE",
-				"was DOing"
+				"does",
+				"did",
+				"had done",
+				"was doing"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động hoàn thành bài tập xảy ra và hoàn tất trước một hành động khác trong quá khứ (đi ngủ). Hành động xảy ra trước sử dụng 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (PAST PERfect)."
+			explanation: "Finishing homework happened and was completed before another past action (going to bed). We use the 📏 Past Perfect tense for the earlier action."
 		},
 		{
 			id: 7,
-			question: "this TIME toMORrow, i _______ on a BEACH in haWAIi.",
+			question: "This time tomorrow, I _______ on a beach in Hawaii.",
 			options: [
-				"will LIE",
-				"am LYing",
-				"will be LYing",
-				"LIE"
+				"will lie",
+				"am lying",
+				"will be lying",
+				"lie"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động đang diễn ra tại một thời điểm cụ thể trong tương lai (\"this TIME toMORrow\"). Ta sử dụng ⏱️ Thời Điểm Hành Động ở Tương Lai Tiếp Diễn (FUture conTINuous)."
+			explanation: "The action will be in progress at a specific time in the future (\"this time tomorrow\"). We use the ⏱️ Future Continuous tense."
 		},
 		{
 			id: 8,
-			question: "i _______ my KEY, so i CAN'T Open the DOOR.",
+			question: "I _______ my key, so I can't open the door.",
 			options: [
-				"LOSE",
-				"LOST",
-				"have LOST",
-				"had LOST"
+				"lose",
+				"lost",
+				"have lost",
+				"had lost"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động làm mất chìa khóa xảy ra trong quá khứ nhưng có kết quả/ảnh hưởng rõ rệt đến hiện tại (không mở được cửa). Ta sử dụng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (PRESent PERfect)."
+			explanation: "Losing the key happened in the past, but it has a clear result or impact on the present (being unable to open the door). We use the 📏 Present Perfect tense."
 		},
 		{
 			id: 9,
-			question: "HOW LONG _______ the piANo before you STARTed TAking SINGing LESsons?",
+			question: "How long _______ the piano before you started taking singing lessons?",
 			options: [
-				"do you PLAY",
-				"did you PLAY",
-				"were you PLAYing",
-				"had you been PLAYing"
+				"do you play",
+				"did you play",
+				"were you playing",
+				"had you been playing"
 			],
 			correctAnswer: 3,
-			explanation: "Hành động chơi piano diễn ra liên tục, kéo dài đến một thời điểm trong quá khứ (trước khi bắt đầu học hát). Ta sử dụng 🏃‍♂️ Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành Tiếp Diễn (PAST PERfect conTINuous)."
+			explanation: "Playing the piano was a continuous action lasting up until a specific point in the past (before starting singing lessons). We use the 🏃‍♂️ Past Perfect Continuous tense."
 		},
 		{
 			id: 10,
-			question: "if the WEATHer is GOOD, we will GO for a PICnic NEXT WEEKend.",
+			question: "If the weather is good, we _______ for a picnic next weekend.",
 			options: [
-				"GO",
-				"WENT",
-				"will GO",
-				"are GOing"
+				"go",
+				"went",
+				"will go",
+				"are going"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động sẽ xảy ra trong tương lai (NEXT WEEKend) và không có kế hoạch hay sắp xếp cụ thể. Ta sử dụng ⏳ Thời Gian Hành Động ở Tương Lai Đơn (SIMple FUture)."
+			explanation: "This is a First Conditional sentence describing a likely future result (\"next weekend\") based on a real condition. We use the ⏳ Simple Future tense in the main clause."
 		}
 	];
 

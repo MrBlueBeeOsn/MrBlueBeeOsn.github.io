@@ -20,33 +20,33 @@ interface Question {
 export default function EVNounClausesQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "________ MADE everyone in the room LAUGH was his hiLARious imiTAtion of the BOSS.",
+			question: "________ made everyone in the room laugh was his hilarious imitation of the boss.",
 			options: [
-				"WHAT",
+				"what",
 				"that",
 				"which",
 				"whatever"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ đóng vai trò làm danh chủ trong câu này cần một câu con DANH. \"what\" đóng vai trò là danh chủ bên trong câu con NOUN đó (what MADE everyone... = Điều mà đã làm cho mọi người...). \"that\" không thể làm danh chủ của hành động \"MADE\" trong ngữ cảnh này nếu không có một NOUN đi trước."
+			explanation: "The subject of this sentence requires a noun clause. \"What\" acts as the subject inside that clause (What made everyone... = The thing that made everyone...). \"That\" cannot serve as the subject of \"made\" without a preceding noun."
 		},
 		{
 			id: 2,
-			question: "the proFESsor exPLAINED ________ the NEW SOFTware PROgram could imPROVE our efFICiency.",
+			question: "The professor explained ________ the new software program could improve our efficiency.",
 			options: [
-				"WHAT",
+				"what",
 				"how",
 				"which",
 				"who"
 			],
 			correctAnswer: 1,
-			explanation: "Danh câu làm danh nhận cho hành động \"exPLAINED\". Dựa vào ngữ nghĩa của câu, chúng ta cần một từ nối chỉ cách thức: \"Giáo sư giải thích bằng cách nào/làm thế nào phần mềm mới có thể cải thiện hiệu suất\"."
+			explanation: "The noun clause acts as the direct object of the verb \"explained.\" Based on the meaning of the sentence, we need a connector indicating method or manner: \"how.\""
 		},
 		{
 			id: 3,
-			question: "the deCISion dePENDS on ________ CANdidate PASSes the FInal INterview.",
+			question: "The decision depends on ________ candidate passes the final interview.",
 			options: [
 				"whoever",
 				"whichever",
@@ -54,47 +54,47 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whatever"
 			],
 			correctAnswer: 1,
-			explanation: "Sau GIỚI \"on\" cần một câu con DANH. Ở đây có NOUN \"CANdidate\" ngay phía sau, do đó ta cần một hạn định cơ bổ nghĩa cho NOUN này. \"whichever\" mang ý nghĩa \"bất cứ... nào\" trong một nhóm đối tượng có giới hạn (các ứng viên tham gia phỏng vấn)."
+			explanation: "A noun clause is needed after the preposition \"on.\" Since the noun \"candidate\" follows immediately, we need a determiner to modify it. \"Whichever\" means \"any one of a limited group\" (the candidates interviewing)."
 		},
 		{
 			id: 4,
-			question: "it is esSENtial that she ________ the rePORT before the BOARD MEETing toMORrow.",
+			question: "It is essential that she ________ the report before the board meeting tomorrow.",
 			options: [
-				"subMITS",
-				"subMIT",
-				"subMITted",
-				"will subMIT"
+				"submits",
+				"submit",
+				"submitted",
+				"will submit"
 			],
 			correctAnswer: 1,
-			explanation: "Câu này sử dụng cấu trúc giả định (subJUNCtive MOOD) với ADjective \"esSENtial \" (it is esSENtial  that + s + V-inf). Trong câu con NOUN đi sau \"that\", hành động luôn ở dạng nguyên mẫu không \"to\" (BARE inFINitive) cho tất cả các ngôi."
+			explanation: "This sentence uses the subjunctive mood with the adjective \"essential\" (It is essential that + S + V-inf). In the noun clause following \"that,\" the verb always takes the bare infinitive form for all subjects."
 		},
 		{
 			id: 5,
-			question: "do you KNOW ________ the PACKage will arRIVE from LONdon?",
+			question: "Do you know ________ the package will arrive from London?",
 			options: [
 				"when",
 				"that",
-				"WHAT",
+				"what",
 				"why"
 			],
 			correctAnswer: 0,
-			explanation: "Danh câu làm danh nhận cho hành động \"KNOW\". Xét về mặt ngữ nghĩa, hành động \"arRIVE\" (đến) thường đi với ADverb chỉ thời gian, câu hỏi hỏi về thời điểm gói hàng đến nên dùng \"when\"."
+			explanation: "The noun clause functions as the direct object of the verb \"know.\" Because the question asks about the arrival time of the package, \"when\" is the correct choice."
 		},
 		{
 			id: 6,
-			question: "________ she MANaged to FINish the PROJect in just TWO DAYS surPRISED all of us.",
+			question: "________ she managed to finish the project in just two days surprised all of us.",
 			options: [
-				"WHAT",
+				"what",
 				"how",
 				"that",
 				"if"
 			],
 			correctAnswer: 2,
-			explanation: "Cả câu con đứng đầu câu làm danh chủ chính. Câu con phía sau \"she MANaged to FINish...\" đã đầy đủ các thành phần cấu trúc (s-V-O), do đó ta dùng \"that\" để biến toàn bộ sự việc này thành một câu con NOUN (Việc mà cô ấy hoàn thành... đã làm tất cả bất ngờ)."
+			explanation: "The entire clause at the beginning acts as the main subject. Since \"she managed to finish...\" is already grammatically complete (S-V-O), we use \"that\" to turn the statement of fact into a noun clause."
 		},
 		{
 			id: 7,
-			question: "we are STILL disCUSSing the ISsue of ________ should be apPOINTed as the NEW MANager.",
+			question: "We are still discussing the issue of ________ should be appointed as the new manager.",
 			options: [
 				"whom",
 				"who",
@@ -102,35 +102,35 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Danh câu đứng sau GIỚI \"of\". Trong câu con này, ta cần một từ đóng vai trò làm danh chủ trước hành động bị động \"should be apPOINTed\". Vì vậy, ta phải chọn PROnoun danh chủ chỉ người là \"who\"."
+			explanation: "The noun clause follows the preposition \"of.\" Inside this clause, we need a subject pronoun before the passive verb phrase \"should be appointed.\" Therefore, the subjective pronoun \"who\" is required."
 		},
 		{
 			id: 8,
-			question: "she COULDn't HEAR ________ the TOUR GUIDE was SAYing because of the LOUD NOISE.",
+			question: "She couldn't hear ________ the tour guide was saying because of the loud noise.",
 			options: [
 				"that",
 				"which",
-				"WHAT",
+				"what",
 				"whatever"
 			],
 			correctAnswer: 2,
-			explanation: "Danh câu làm danh nhận cho hành động \"HEAR\". Hành động \"SAYing\" bên trong câu con NOUN đang thiếu danh nhận trực tiếp (nói cái gì). \"what\" vừa làm từ nối vừa đóng vai trò là danh nhận cho \"SAYing\" (...nghe những gì hướng dẫn viên đang nói)."
+			explanation: "The noun clause is the object of \"hear.\" Inside the clause, the verb \"saying\" lacks a direct object. \"What\" acts both as the connector and the object of \"saying\" (the things that the tour guide was saying)."
 		},
 		{
 			id: 9,
-			question: "the TRUE PROBlem is ________ we LACK the NECessary BUDget to LAUNCH the CAMpaign.",
+			question: "The true problem is ________ we lack the necessary budget to launch the campaign.",
 			options: [
 				"that",
-				"WHAT",
+				"what",
 				"if",
 				"whether"
 			],
 			correctAnswer: 0,
-			explanation: "Danh câu đóng vai trò làm bổ ngữ cho danh chủ (SUBject COMplement) sau hành động nối \"is\". Vì câu con phía sau \"we LACK...\" đã trọn vẹn về nghĩa và cấu trúc, ta dùng \"that\" để dẫn dắt sự thật/sự việc đó."
+			explanation: "The noun clause acts as a subject complement following the linking verb \"is.\" Because the clause \"we lack...\" is complete in meaning and structure, \"that\" is used to introduce the fact."
 		},
 		{
 			id: 10,
-			question: "the HR dePARTment will HIRE ________ QUALifies for the TECHnical poSITion.",
+			question: "The HR department will hire ________ qualifies for the technical position.",
 			options: [
 				"who",
 				"whomever",
@@ -138,7 +138,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"anyone"
 			],
 			correctAnswer: 2,
-			explanation: "Danh câu làm danh nhận cho hành động \"HIRE\". Trong câu con NOUN này, từ cần điền đóng vai trò làm danh chủ trực tiếp của hành động \"QUALifies\", do đó ta phải chọn PROnoun nhân xưng dạng danh chủ là \"whoever\" (bất kỳ ai), chứ không dùng dạng danh nhận \"whomever\"."
+			explanation: "The noun clause functions as the object of \"hire.\" Within this noun clause, the missing word acts as the subject of the verb \"qualifies,\" so the subjective pronoun \"whoever\" is required rather than \"whomever.\""
 		}
 	];
 

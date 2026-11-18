@@ -20,125 +20,125 @@ interface Question {
 export default function SAndESQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "WHICH of the FOLlowing NOUNS FORMS its PLURal by ADding -es?",
+			question: "Which of the following nouns forms its plural by adding -es?",
 			options: [
-				"PHOto",
-				"BENCH",
-				"piANo",
-				"RAdio"
+				"photo",
+				"bench",
+				"piano",
+				"radio"
 			],
 			correctAnswer: 1,
-			explanation: "Nouns ending in -CH, -SH, -S, -X, or -Z require -es to become plural (e.g., BENCHes)."
+			explanation: "Nouns ending in -ch, -sh, -s, -x, or -z require -es to become plural (e.g., benches)."
 		},
 		{
 			id: 2,
-			question: "CHOOSE the corRECT VERB FORM: my BROTHer ALways _______ his TEETH after BREAKfast.",
+			question: "Choose the correct verb form: My brother always _______ his teeth after breakfast.",
 			options: [
-				"BRUSHS",
-				"BRUSH",
-				"BRUSHes",
-				"BRUSHing"
+				"brushs",
+				"brush",
+				"brushes",
+				"brushing"
 			],
 			correctAnswer: 2,
-			explanation: "For third-person singular subjects (he, she, it), verbs ending in -SH take -es."
+			explanation: "For third-person singular subjects (he, she, it), verbs ending in -sh take -es."
 		},
 		{
 			id: 3,
-			question: "iDENtify the corRECTly SPELLED PLURal NOUN:",
+			question: "Identify the correctly spelled plural noun:",
 			options: [
-				"toMAtoe",
-				"CITys",
-				"PUPpys",
-				"poTAtoes"
+				"tomatoe",
+				"citys",
+				"puppys",
+				"potatoes"
 			],
 			correctAnswer: 3,
 			explanation: "Most nouns ending in a consonant + o take -es. Photo and piano are exceptions that only take -s."
 		},
 		{
 			id: 4,
-			question: "the techNICian _______ the BROken SCREEN CAREfully.",
+			question: "The technician _______ the broken screen carefully.",
 			options: [
-				"FIXS",
-				"FIXes",
-				"FIXies",
-				"FIX"
+				"fixs",
+				"fixes",
+				"fixies",
+				"fix"
 			],
 			correctAnswer: 1,
 			explanation: "Verbs ending in -x take -es in the third-person singular present tense."
 		},
 		{
 			id: 5,
-			question: "WHICH WORD is the corRECT PLURal of \"BUTterfly\"?",
+			question: "Which word is the correct plural of \"butterfly\"?",
 			options: [
-				"BUTterflys",
-				"BUTterflies",
-				"BUTterflyes",
-				"BUTterflyies"
+				"butterflys",
+				"butterflies",
+				"butterflyes",
+				"butterflyies"
 			],
 			correctAnswer: 1,
 			explanation: "For nouns ending in a consonant + y, you change the y to i and add -es."
 		},
 		{
 			id: 6,
-			question: "seLECT the SENtence with the corRECT SUBject-VERB aGREEment:",
+			question: "Select the sentence with the correct subject-verb agreement:",
 			options: [
-				"the CAT CHASE the MOUSE.",
-				"the CAT CHAses the MOUSE.",
-				"the CAT CHASses the MOUSE.",
-				"the CAT CHAsees the MOUSE."
+				"The cat chase the mouse.",
+				"The cat chases the mouse.",
+				"The cat chasses the mouse.",
+				"The cat chasees the mouse."
 			],
 			correctAnswer: 1,
-			explanation: "The subject the CAT is singular. The verb chase already ends in -e, so you simply add -S."
+			explanation: "The subject \"the cat\" is singular. The verb \"chase\" already ends in -e, so you simply add -s."
 		},
 		{
 			id: 7,
-			question: "CHOOSE the corRECT PLURal FORM of \"BUS\":",
+			question: "Choose the correct plural form of \"bus\":",
 			options: [
-				"BUSS",
-				"BUSes",
-				"BUSses",
-				"BUSies"
+				"buss",
+				"buses",
+				"busses",
+				"busies"
 			],
 			correctAnswer: 1,
-			explanation: "Nouns ending in -S add -es to form the plural."
+			explanation: "Nouns ending in -s add -es to form the plural."
 		},
 		{
 			id: 8,
-			question: "comPLETE the SENtence: she _______ to the GYM every MORNing.",
+			question: "Complete the sentence: She _______ to the gym every morning.",
 			options: [
-				"GOS",
-				"GOES",
-				"GOSE",
-				"GO"
+				"gos",
+				"goes",
+				"gose",
+				"go"
 			],
 			correctAnswer: 1,
-			explanation: "The verbs go and do always add -es for third-person singular subjects (GOES/DOES)."
+			explanation: "The verbs \"go\" and \"do\" always add -es for third-person singular subjects (goes/does)."
 		},
 		{
 			id: 9,
-			question: "WHICH of these NOUNS ENDS in -es in its PLURal FORM?",
+			question: "Which of these nouns ends in -es in its plural form?",
 			options: [
-				"beLIEF",
-				"ROOF",
-				"FOX",
-				"CHIEF"
+				"belief",
+				"roof",
+				"fox",
+				"chief"
 			],
 			correctAnswer: 2,
-			explanation: "Nouns ending in -x form their plural by adding -es (FOXes)."
+			explanation: "Nouns ending in -x form their plural by adding -es (foxes)."
 		},
 		{
 			id: 10,
-			question: "MARK _______ his HOMEwork before DINner.",
+			question: "Mark _______ his homework before dinner.",
 			options: [
-				"FINishs",
-				"FINish",
-				"FINishes",
-				"FINishing"
+				"finishs",
+				"finish",
+				"finishes",
+				"finishing"
 			],
 			correctAnswer: 2,
-			explanation: "Verbs ending in -sh require -es when used with a singular subject like MARK."
+			explanation: "Verbs ending in -sh require -es when used with a singular subject like Mark."
 		}
 	];
 

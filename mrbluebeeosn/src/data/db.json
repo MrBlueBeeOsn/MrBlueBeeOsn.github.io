@@ -914,50 +914,6 @@
       "likes": 0
     },
     {
-      "id": "Forms&FunctionQuiz",
-      "categoryDisplay": "Grammar",
-      "categorySlug": "grammar",
-      "title": "Forms & Function Quiz",
-      "content": "Forms & Function",
-      "slug": "grammar/forms-&-function-quiz",
-      "date": "2026-06-14",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "Forms&FunctionBookkeepingQuiz",
-      "categoryDisplay": "Grammar",
-      "categorySlug": "grammar",
-      "title": "Forms & Function Bookkeeping Quiz",
-      "content": "Forms & Function Bookkeeping",
-      "slug": "grammar/forms-&-function-bookkeeping-quiz",
-      "date": "2026-06-16",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "EVForms&FunctionQuiz",
-      "categoryDisplay": "Grammar",
-      "categorySlug": "grammar",
-      "title": "EV Forms & Function Quiz",
-      "content": "EV Forms & Function",
-      "slug": "grammar/ev-forms-&-function-quiz",
-      "date": "2026-06-14",
-      "views": 0,
-      "likes": 0
-    },
-    {
-      "id": "EVForms&FunctionBookkeepingQuiz",
-      "categoryDisplay": "Grammar",
-      "categorySlug": "grammar",
-      "title": "EV Forms & Function Bookkeeping Quiz",
-      "content": "EV Forms & Function Bookkeeping",
-      "slug": "grammar/ev-forms-&-function-bookkeeping-quiz",
-      "date": "2026-06-16",
-      "views": 0,
-      "likes": 0
-    },
-    {
       "id": "PREsentPERfect",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",

@@ -20,33 +20,33 @@ interface Question {
 export default function EVAdverbClausesQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "we deCIded to GO for a WALK __________ the RAIN had STOPPED.",
+			question: "We decided to go for a walk __________ the rain had stopped.",
 			options: [
 				"although",
-				"as SOON as",
+				"as soon as",
 				"whereas",
 				"so that"
 			],
 			correctAnswer: 1,
-			explanation: "as SOON as (ngay khi) khởi đầu một câu con trạng ngữ chỉ thời gian (ADverb CLAUSE of TIME), diễn tả một hành động xảy ra ngay sau một hành động khác. Các phương án khác không phù hợp ngữ cảnh logic của câu: although (mặc dù), whereas (trong khi đó), so that (để mà)."
+			explanation: "\"As soon as\" introduces an adverb clause of time, describing an action that happens immediately after another action. The other options do not fit the logical context: \"although\" (concession), \"whereas\" (contrast), and \"so that\" (purpose)."
 		},
 		{
 			id: 2,
-			question: "__________ she WORKS HARD, she ALways FINDS TIME to PLAY with her CHILDren.",
+			question: "__________ she works hard, she always finds time to play with her children.",
 			options: [
 				"because",
 				"even though",
-				"proVIded that",
+				"provided that",
 				"as long as"
 			],
 			correctAnswer: 1,
-			explanation: "even though (mặc dù) mở đầu câu con trạng ngữ chỉ sự nhượng bộ/tương phản (ADverb CLAUSE of conCESsion) giữa hai vế \"làm việc chăm chỉ\" và \"vẫn có thời gian chơi với con\". because chỉ nguyên nhân, proVIded that/as long as chỉ điều kiện (miễn là) đều làm câu bị sai LOGic."
+			explanation: "\"Even though\" introduces an adverb clause of concession, showing a contrast between working hard and still finding time for her children. \"Because\" indicates cause, while \"provided that\" and \"as long as\" indicate condition, which would make the sentence illogical."
 		},
 		{
 			id: 3,
-			question: "PUT the KEYS __________ you can EAsily FIND them LAter.",
+			question: "Put the keys __________ you can easily find them later.",
 			options: [
 				"where",
 				"which",
@@ -54,11 +54,11 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"because"
 			],
 			correctAnswer: 0,
-			explanation: "where (nơi mà) mở đầu câu con trạng ngữ chỉ nơi chốn (ADverb CLAUSE of PLACE) để bổ nghĩa cho hành động \"PUT\". Which dùng cho câu con quan hệ, until (cho đến khi) và because (bởi vì) không dùng để chỉ vị trí đặt vật thể."
+			explanation: "\"Where\" introduces an adverb clause of place modifying the verb \"put.\" \"Which\" is used for relative clauses, while \"until\" (time) and \"because\" (reason) do not indicate location."
 		},
 		{
 			id: 4,
-			question: "the COMpany CHANGED its POLicy __________ BOOST emPLOYee moRALE.",
+			question: "The company changed its policy __________ boost employee morale.",
 			options: [
 				"in order that they could",
 				"so that",
@@ -66,11 +66,11 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"because of"
 			],
 			correctAnswer: 2,
-			explanation: "Phía sau khoảng trống là một hành động nguyên mẫu (BOOST). Cấu trúc đúng ở đây là in order to + V-inf để chỉ mục đích. Các từ in order that và so that phải đi với một câu con hoàn chỉnh (s + V), còn because of đi với danh cụm/V-ing."
+			explanation: "The blank is followed by a base verb (\"boost\"). The correct structure is \"in order to + V-inf\" to express purpose. \"In order that\" and \"so that\" require a full clause (S + V), while \"because of\" requires a noun phrase or V-ing."
 		},
 		{
 			id: 5,
-			question: "you can BORrow my LAPtop __________ you PROMise to BRING it BACK toMORrow.",
+			question: "You can borrow my laptop __________ you promise to bring it back tomorrow.",
 			options: [
 				"even if",
 				"as if",
@@ -78,11 +78,11 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"unless"
 			],
 			correctAnswer: 2,
-			explanation: "as long as (miễn là) dùng để mở đầu câu con trạng ngữ chỉ điều kiện (ADverb CLAUSE of conDITion). Các conJUNCtion còn lại không tạo nên mối quan hệ điều kiện hợp lý: even if (ngay cả khi), as if (như thể là), unless (ngoại trừ khi)."
+			explanation: "\"As long as\" introduces an adverb clause of condition (meaning \"provided that\"). The other conjunctions do not create a logical condition here: \"even if\" (concession), \"as if\" (manner), and \"unless\" (negative condition)."
 		},
 		{
 			id: 6,
-			question: "Tom RAN to the BUS STAtion __________ he WOULDn't MISS the LAST BUS.",
+			question: "Tom ran to the bus station __________ he wouldn't miss the last bus.",
 			options: [
 				"so that",
 				"in order to",
@@ -90,11 +90,11 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"since"
 			],
 			correctAnswer: 0,
-			explanation: "Phía sau là một câu con hoàn chỉnh (he WOULDn't MISS...), do đó cần conJUNCtion so that (để mà) để mở đầu câu con trạng ngữ chỉ mục đích. in order to cũng mang nghĩa chỉ mục đích nhưng bắt buộc phải đi trực tiếp với hành động nguyên mẫu."
+			explanation: "The blank is followed by a full clause (\"he wouldn't miss...\"), so the conjunction \"so that\" is required to introduce an adverb clause of purpose. \"In order to\" also expresses purpose, but must be followed directly by a base verb."
 		},
 		{
 			id: 7,
-			question: "__________ the TRAFfic was inCREDibly HEAVy, they arRIVED at the MEETing on TIME.",
+			question: "__________ the traffic was incredibly heavy, they arrived at the meeting on time.",
 			options: [
 				"despite",
 				"in spite of",
@@ -102,11 +102,11 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"because"
 			],
 			correctAnswer: 2,
-			explanation: "though (mặc dù) là conJUNCtion mở đầu một câu con trạng ngữ chỉ sự tương phản chứa cả danh chủ và hành động (the TRAFfic was...). despite và in spite of cũng mang nghĩa tương tự nhưng theo sau chúng bắt buộc phải là một danh cụm hoặc V-ing."
+			explanation: "\"Though\" is a conjunction that introduces an adverb clause of contrast containing a subject and verb (\"the traffic was...\"). \"Despite\" and \"in spite of\" have a similar meaning, but must be followed by a noun phrase or V-ing."
 		},
 		{
 			id: 8,
-			question: "she TALKED about the MOvie __________ she had SEEN it herSELF, but she ACtually HADn't.",
+			question: "She talked about the movie __________ she had seen it herself, but she actually hadn't.",
 			options: [
 				"as though",
 				"because",
@@ -114,11 +114,11 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"while"
 			],
 			correctAnswer: 0,
-			explanation: "as though (hoặc as if) có nghĩa là \"như thể là\", mở đầu câu con trạng ngữ chỉ cách thức (ADverb CLAUSE of MANner) dùng để diễn tả một giả định không có thật ở quá khứ (vế sau làm rõ thực tế là cô ấy chưa xem she ACtually HADn't)."
+			explanation: "\"As though\" (or \"as if\") introduces an adverb clause of manner describing an unreal or hypothetical situation in the past (the second clause clarifies that she actually hadn't seen it)."
 		},
 		{
 			id: 9,
-			question: "The PRICE of GOLD inCREASED as the ecoNOMic instaBILity GREW.",
+			question: "The price of gold increased __________ the economic instability grew.",
 			options: [
 				"whereas",
 				"as",
@@ -126,19 +126,19 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"unless"
 			],
 			correctAnswer: 1,
-			explanation: "LIÊN as ở đây được dùng với nghĩa \"khi / cùng với lúc\" (ADverb CLAUSE of TIME), diễn tả hai hành động hoặc tiến trình biến đổi diễn ra song song với nhau (giá vàng tăng cùng lúc với sự bất ổn kinh tế tăng)."
+			explanation: "The conjunction \"as\" is used here to introduce an adverb clause of time, showing two actions or changes happening simultaneously (gold prices rising at the same time economic instability grew)."
 		},
 		{
 			id: 10,
-			question: "you will FAIL the upCOMing eXAM __________ you START STUDying SERiously RIGHT NOW.",
+			question: "You will fail the upcoming exam __________ you start studying seriously right now.",
 			options: [
 				"if",
 				"unless",
-				"proVIded that",
+				"provided that",
 				"even though"
 			],
 			correctAnswer: 1,
-			explanation: "unless có nghĩa là \"ngoại trừ khi\" (bằng với if... NOT), mở đầu câu con trạng ngữ chỉ điều kiện. Nếu dùng các conJUNCtion điều kiện mang tính khẳng định như if hoặc proVIded that (nếu/miễn là bạn học nghiêm túc thì bạn sẽ trượt) sẽ làm câu bị sai hoàn toàn về mặt logic."
+			explanation: "\"Unless\" means \"if... not\" and introduces an adverb clause of condition. Using positive conditional conjunctions like \"if\" or \"provided that\" would make the sentence completely illogical."
 		}
 	];
 

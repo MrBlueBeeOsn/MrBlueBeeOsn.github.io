@@ -456,47 +456,6 @@ export default function GrammarIndex(): React.JSX.Element {
 
         </details>
 
-        {/* =============================
-              Matrix Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="forms-&-function-quiz"><mark className="highlight-secondary-padding-2-4">Forms & Function</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/forms-&-function-quiz">Forms & Function Quiz</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/ev-forms-&-function-quiz">Forms & Function Quiz (EV)</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/forms-&-function-bookkeeping-quiz">Forms & Function (Bookkeeping)</Link>
-              </div>
-            </li>
-
-          
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/ev-forms-&-function-bookkeeping-quiz">Forms & Function (Bookkeeping) (EV)</Link>
-              </div>
-            </li>
-            
-            
-          </ul>
-
-        </details>
-
-
 
       </div>
 

@@ -20,69 +20,69 @@ interface Question {
 export default function EVGrammarQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "CHOOSE the WORD that has the MAIN STRESS PLACED DIFFERently from the OTHers.",
+			question: "Choose the word that has the main stress placed differently from the others.",
 			options: [
-				"NECessary",
-				"DIFficulty",
-				"eCONomy",
-				"reLIable"
+				"necessary",
+				"difficulty",
+				"economy",
+				"comfortable"
 			],
 			correctAnswer: 2,
-			explanation: "NECessary /'nɛsəsəri/ (Trọng âm rơi vào âm tiết thứ nhất). DIFficulty /'dɪfɪkəlti/ (Trọng âm rơi vào âm tiết thứ nhất). eCONomy /ɪ'kɒnəmi/ (Trọng âm rơi vào âm tiết thứ hai). reLIable /rɪ'laɪəbəl/ (Trọng âm rơi vào âm tiết thứ hai). eCONomy có trọng âm rơi vào âm tiết thứ hai, khác biệt so với NECessary và DIFficulty (trọng âm 1)."
+			explanation: "\"Necessary\" /ˈnesəseri/, \"difficulty\" /ˈdɪfɪkəlti/, and \"comfortable\" /ˈkʌmftəbl/ all have stress on the first syllable, while \"economy\" /ɪˈkɒnəmi/ has stress on the second syllable."
 		},
 		{
 			id: 2,
-			question: "if i had KNOWN about the TRAFfic JAM, i _______ a DIFFERent ROUTE.",
+			question: "If I had known about the traffic jam, I _______ a different route.",
 			options: [
-				"would TAKE",
-				"would have TAken",
-				"had TAken",
-				"will TAKE"
+				"would take",
+				"would have taken",
+				"had taken",
+				"will take"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là câu điều kiện loại 3, dùng để diễn tả một hành động không có thật trong quá khứ. Cấu trúc đúng là: if + s + had + PII, S + would/could/might + have + PII."
+			explanation: "This is the Third Conditional, used to describe an unreal action in the past. Structure: If + S + had + V3/ed, S + would/could/might + have + V3/ed."
 		},
 		{
 			id: 3,
-			question: "despite the HEAVy RAIN, the FOOTball MATCH was NOT _______.",
+			question: "Despite the heavy rain, the football match was not _______.",
 			options: [
-				"puT OFF",
-				"puT ON",
-				"PUT UP",
-				"put aWAY"
+				"put off",
+				"put on",
+				"put up",
+				"put away"
 			],
 			correctAnswer: 0,
-			explanation: "puT OFF là động cụm (PHRAsal VERB) có nghĩa là hoãn lại (postPONE). Câu này có nghĩa: Mặc dù trời mưa to, trận đấu bóng đá đã không bị hoãn lại."
+			explanation: "\"Put off\" is a phrasal verb meaning to postpone or delay something."
 		},
 		{
 			id: 4,
-			question: "i STILL don't underSTAND _______ you deCIded to QUIT your JOB.",
+			question: "I still don't understand _______ you decided to quit your job.",
 			options: [
-				"WHAT",
+				"what",
 				"why",
 				"when",
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Từ cần điền là một từ nghi vấn chỉ lý do. why (tại sao) hoàn thành câu một cách hợp lý: \"Tôi vẫn không hiểu tại sao bạn quyết định nghỉ việc.\""
+			explanation: "The blank requires a question word indicating a reason. \"Why\" logically completes the sentence."
 		},
 		{
 			id: 5,
-			question: "she is LOOKing FORward _______ her GRANDparents NEXT WEEK.",
+			question: "She is looking forward _______ her grandparents next week.",
 			options: [
-				"to SEEing",
-				"to SEE",
-				"SEEing",
-				"SEE"
+				"to seeing",
+				"to see",
+				"seeing",
+				"see"
 			],
 			correctAnswer: 0,
-			explanation: "Động cụm cố định là LOOK FORward to (mong chờ, mong đợi). Cấu trúc đúng là: LOOK FORward to + V-ing (danh ĐỘNG)."
+			explanation: "The fixed phrasal verb is \"look forward to\" (to be excited about something). Structure: look forward to + V-ing (gerund)."
 		},
 		{
 			id: 6,
-			question: "the MANager reFUSED to acCEPT the aPOLogy from the emPLOYee, _______ MADE the ATmosphere TENSE.",
+			question: "The manager refused to accept the apology from the employee, _______ made the atmosphere tense.",
 			options: [
 				"who",
 				"which",
@@ -90,47 +90,47 @@ export default function EVGrammarQuiz(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là câu con quan hệ không xác định, và từ quan hệ which được dùng để thay thế cho cả một câu con/sự việc đứng trước nó (việc người quản lý từ chối lời xin lỗi)."
+			explanation: "This is a non-defining relative clause where \"which\" is used to refer back to the entire preceding clause (the manager's refusal to accept the apology)."
 		},
 		{
 			id: 7,
-			question: "by the TIME the poLICE arRIVED, the THIEVES _______ with all the JEWels.",
+			question: "By the time the police arrived, the thieves _______ with all the jewels.",
 			options: [
-				"have esCAPED",
-				"are esCAping",
-				"had esCAPED",
-				"esCAPE"
+				"have escaped",
+				"are escaping",
+				"had escaped",
+				"escape"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động tẩu thoát của những tên trộm xảy ra trước hành động cảnh sát đến trong quá khứ. Để diễn tả hành động xảy ra trước một hành động khác trong quá khứ, ta dùng 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (had + PII)."
+			explanation: "The thieves' escape happened before the police arrived in the past. To describe an action completed before another past action, we use the 📏 Past Perfect tense (had + V3/ed)."
 		},
 		{
 			id: 8,
-			question: "he is QUITE sucCESSful NOW, but he USED to FIND it HARD to _______ ENDS MEET.",
+			question: "He is quite successful now, but he used to find it hard to _______ ends meet.",
 			options: [
-				"MAKE",
-				"DO",
+				"make",
+				"do",
 				"have",
-				"GET"
+				"get"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm thành ngữ cố định là MAKE ENDS MEET, có nghĩa là kiếm đủ sống hoặc xoay xở đủ tiền trang trải cuộc sống."
+			explanation: "The fixed idiom is \"make ends meet,\" which means to earn just enough money to cover basic living expenses."
 		},
 		{
 			id: 9,
-			question: "my MOTHer adVISED me _______ LATE for WORK.",
+			question: "My mother advised me _______ late for work.",
 			options: [
-				"NOT to be",
-				"to NOT be",
-				"NOT being",
-				"DON'T be"
+				"not to be",
+				"to not be",
+				"not being",
+				"don't be"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là cấu trúc câu gián tiếp với hành động adVISE (khuyên bảo). Cấu trúc phủ định là: S + adVISED + O + NOT + to-V (nguyên mẫu có to)."
+			explanation: "This is reported speech with the verb \"advise.\" The negative structure is: S + advised + object + not + to-V (to-infinitive)."
 		},
 		{
 			id: 10,
-			question: "Only after the PLANE had takeN OFF _______ REalize HOW NERvous he was.",
+			question: "Only after the plane had taken off _______ realize how nervous he was.",
 			options: [
 				"did he",
 				"he did",
@@ -138,7 +138,7 @@ export default function EVGrammarQuiz(): React.JSX.Element {
 				"had he"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Câu con 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (hành động trước) + Thời gian hành động + S + Hành động chính (hành động sau). Vì hành động \"REalize\" ở quá khứ, ta dùng thời gian hành động did."
+			explanation: "This is an inversion structure starting with \"Only after.\" Structure: Only after + Past Perfect clause + auxiliary verb + S + main verb. Since \"realize\" refers to the past, we use the auxiliary \"did.\""
 		}
 	];
 

@@ -20,9 +20,9 @@ interface Question {
 export default function EVDCQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "i DON'T KNOW _______ she is PLANning to inVITE to the PARTy.",
+			question: "I don't know _______ she is planning to invite to the party.",
 			options: [
 				"who",
 				"whom",
@@ -30,23 +30,23 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm từ \"whom she is PLANning to inVITE to the PARTy\" là một Noun Clause (Danh câu) làm danh nhận cho hành động \"KNOW \". Trong câu con phụ này, \"she\" là danh chủ và hành động \"inVITE\" cần một danh nhận chỉ người đứng trước, do đó ta dùng \"whom\" thay vì \"who\" (làm danh chủ)."
+			explanation: "The phrase \"whom she is planning to invite to the party\" is a noun clause acting as the direct object of \"know.\" Within this subordinate clause, \"she\" is the subject and \"invite\" needs a preceding object pronoun for a person, so we use \"whom\" instead of \"who\" (subject pronoun)."
 		},
 		{
 			id: 2,
-			question: "the BOOK _______ you LENT me YESterday was ABsolutely FAScinating.",
+			question: "The book _______ you lent me yesterday was absolutely fascinating.",
 			options: [
 				"who",
 				"whom",
 				"that",
-				"WHAT"
+				"what"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"that you LENT me YESterday\" là một Adjective Clause (Câu con tính ngữ/quan hệ) bổ nghĩa cho NOUN chỉ vật \"the BOOK\". Ta dùng PROnoun quan hệ \"that\" (hoặc \"which\") làm danh nhận thay thế cho vật. \"what\" không đứng sau NOUN để bổ nghĩa như vậy."
+			explanation: "The clause \"that you lent me yesterday\" is an adjective (relative) clause modifying the noun \"book.\" We use the relative pronoun \"that\" (or \"which\") as an object pronoun for things. \"What\" cannot follow a noun to modify it in this way."
 		},
 		{
 			id: 3,
-			question: "_______ he WORKED HARD all DAY, he COULDn't FINish the rePORT on TIME.",
+			question: "_______ he worked hard all day, he couldn't finish the report on time.",
 			options: [
 				"because",
 				"although",
@@ -54,11 +54,11 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"despite"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm \"although he WORKED HARD all DAY\" là một Adverb Clause of Concession (Trạng câu chỉ sự nhượng bộ). Ta chọn \"although\" vì phía sau là một câu con hoàn chỉnh (s + V) và mang ý nghĩa tương phản. \"despite\" cũng mang nghĩa tương tự nhưng chỉ đi với danh cụm hoặc V-ing."
+			explanation: "The clause \"although he worked hard all day\" is an adverb clause of concession. We choose \"although\" because it is followed by a complete clause (S + V) and expresses contrast. \"Despite\" has a similar meaning, but can only be followed by a noun phrase or V-ing."
 		},
 		{
 			id: 4,
-			question: "the REAson _______ she LEFT EARly was NEVer exPLAINED.",
+			question: "The reason _______ she left early was never explained.",
 			options: [
 				"why",
 				"because",
@@ -66,11 +66,11 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm \"why she LEFT EARly\" là một Adjective Clause bổ nghĩa cho NOUN \"the REAson\". ADverb quan hệ \"why\" được dùng để chỉ lý do cho NOUN đứng trước nó."
+			explanation: "The clause \"why she left early\" is an adjective clause modifying the noun \"the reason.\" The relative adverb \"why\" is used to give a reason for the noun preceding it."
 		},
 		{
 			id: 5,
-			question: "you can SIT _______ you LIKE in the audiTORium.",
+			question: "You can sit _______ you like in the auditorium.",
 			options: [
 				"whatever",
 				"wherever",
@@ -78,23 +78,23 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"however"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm \"wherever you LIKE\" là một Adverb Clause of Place (Trạng câu chỉ nơi chốn). \"wherever\" có nghĩa là \"bất cứ nơi nào\", phù hợp nhất với ngữ cảnh chọn vị trí chỗ ngồi trong khán phòng."
+			explanation: "The clause \"wherever you like\" is an adverb clause of place. \"Wherever\" means \"in any place,\" which best fits the context of choosing a seat in an auditorium."
 		},
 		{
 			id: 6,
-			question: "the DOCtor recomMENDed that he _______ a FEW DAYS OFF from WORK.",
+			question: "The doctor recommended that he _______ a few days off from work.",
 			options: [
-				"TAKES",
-				"TAKE",
-				"TOOK",
-				"TAking"
+				"takes",
+				"take",
+				"took",
+				"taking"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm \"that he TAKE a FEW DAYS OFF...\" là một Noun Clause đi sau hành động mang tính cầu khiến \"recomMENDed\". Đây là cấu trúc giả định (subJUNCtive MOOD), hành động trong câu con \"that\" bắt buộc phải ở dạng nguyên mẫu không \"to\" cho tất cả các ngôi (he TAKE)."
+			explanation: "The clause \"that he take a few days off...\" is a noun clause following the verb of recommendation \"recommended.\" This is the subjunctive mood, where the verb in the \"that\" clause must be in the bare infinitive form for all subjects (he take)."
 		},
 		{
 			id: 7,
-			question: "the LAPtop, _______ BATtery LIFE is aMAzing, beLONGS to my SISter.",
+			question: "The laptop, _______ battery life is amazing, belongs to my sister.",
 			options: [
 				"which",
 				"that",
@@ -102,11 +102,11 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"whom"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"whose BATtery LIFE is aMAzing\" là một Adjective Clause (câu con quan hệ không xác định). \"whose\" là PROnoun quan hệ chỉ sự sở hữu, thay thế cho cụm \"the LAPtop's BATtery LIFE\"."
+			explanation: "The clause \"whose battery life is amazing\" is a non-defining adjective (relative) clause. \"Whose\" is a possessive relative pronoun replacing \"the laptop's battery life.\""
 		},
 		{
 			id: 8,
-			question: "she ACTS as if she _______ the BOSS of this COMpany.",
+			question: "She acts as if she _______ the boss of this company.",
 			options: [
 				"is",
 				"was",
@@ -114,11 +114,11 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"as if she were the BOSS ...\" là một Adverb Clause of Manner (Trạng câu chỉ cách thức) chứa cấu trúc giả định với \"as if\" (như thể là). Vì thực tế cô ấy không phải là sếp (trái thực tế ở hiện tại), hành động \"to be\" được chia thành \"were\" cho tất cả các ngôi."
+			explanation: "The clause \"as if she were the boss...\" is an adverb clause of manner containing the subjunctive structure with \"as if.\" Because she is not actually the boss (unreal present situation), \"to be\" becomes \"were\" for all subjects."
 		},
 		{
 			id: 9,
-			question: "_______ WINS the compeTITion will reCEIVE a CASH PRIZE.",
+			question: "_______ wins the competition will receive a cash prize.",
 			options: [
 				"who",
 				"whoever",
@@ -126,19 +126,19 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"someone"
 			],
 			correctAnswer: 1,
-			explanation: "Toàn bộ cụm \"whoever WINS the compeTITion\" đóng vai trò là một Noun Clause làm danh chủ chính cho hành động \"will reCEIVE\". \"whoever\" (bất cứ ai) vừa làm từ nối vừa làm danh chủ cho hành động \"WINS\" bên trong câu con phụ. Nếu chọn \"anyone\", ta phải có thêm \"who\" (anyone who WINS...)."
+			explanation: "The entire clause \"whoever wins the competition\" functions as a noun clause acting as the main subject for \"will receive.\" \"Whoever\" serves both as the connector and the subject for \"wins\" inside the subordinate clause. Using \"anyone\" would require adding \"who\" (anyone who wins...)."
 		},
 		{
 			id: 10,
-			question: "we STAYED inSIDE _______ it STARTed RAINing HEAVily.",
+			question: "We stayed inside _______ it started raining heavily.",
 			options: [
-				"as SOON as",
+				"as soon as",
 				"until",
 				"unless",
 				"although"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm \"as SOON as it STARTed RAINing HEAVily\" là một Adverb Clause of Time (Trạng câu chỉ thời gian). conJUNCtion \"as SOON as\" (ngay khi) giúp câu diễn đạt đúng logic: hành động \"ở trong nhà\" diễn ra ngay tại thời điểm \"trời bắt đầu mưa to\"."
+			explanation: "The clause \"as soon as it started raining heavily\" is an adverb clause of time. The conjunction \"as soon as\" creates the correct logical meaning: staying indoors happened immediately at the moment it started raining heavily."
 		}
 	];
 

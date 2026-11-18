@@ -20,9 +20,9 @@ interface Question {
 export default function EVPrepositionsQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "i am INTERested _______ LEARNing MORE about ANcient HISTORy.",
+			question: "I am interested _______ learning more about ancient history.",
 			options: [
 				"in",
 				"on",
@@ -30,11 +30,11 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"for"
 			],
 			correctAnswer: 0,
-			explanation: "Cấum từ cố định \"be INTERested in SOMEthing\" có nghĩa là quan tâm hoặc hứng thú với cái gì đó."
+			explanation: "The fixed phrase \"be interested in something\" means to be curious about or enjoy something."
 		},
 		{
 			id: 2,
-			question: "we aGREED _______ the DATE of the MEETing after a LONG disCUSSion.",
+			question: "We agreed _______ the date of the meeting after a long discussion.",
 			options: [
 				"to",
 				"with",
@@ -42,11 +42,11 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"for"
 			],
 			correctAnswer: 2,
-			explanation: "\"aGREE on SOMEthing\" được dùng khi các bên cùng thống nhất về một kế hoạch, ngày tháng hoặc quyết định chung."
+			explanation: "\"Agree on something\" is used when people reach a shared decision about a plan, date, or topic."
 		},
 		{
 			id: 3,
-			question: "she has been WAITing for the BUS _______ 8 o'CLOCK this MORNing.",
+			question: "She has been waiting for the bus _______ 8 o'clock this morning.",
 			options: [
 				"for",
 				"since",
@@ -54,11 +54,11 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"during"
 			],
 			correctAnswer: 1,
-			explanation: "\"since\" dùng để chỉ một mốc thời gian cụ thể trong quá khứ khi hành động bắt đầu và kéo dài đến hiện tại."
+			explanation: "\"Since\" is used to indicate a specific starting point in the past for an action that continues into the present."
 		},
 		{
 			id: 4,
-			question: "the CAT is HIding _______ the BED because it is SCARed of the VACuum CLEANer.",
+			question: "The cat is hiding _______ the bed because it is scared of the vacuum cleaner.",
 			options: [
 				"above",
 				"over",
@@ -66,11 +66,11 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"through"
 			],
 			correctAnswer: 2,
-			explanation: "\"under\" nghĩa là ở phía dưới/dưới gầm, phù hợp với vị trí trốn dưới giường."
+			explanation: "\"Under\" means directly below or beneath something, which fits the position of hiding beneath a bed."
 		},
 		{
 			id: 5,
-			question: "my BROTHer is VERy GOOD _______ PLAYing the guiTAR.",
+			question: "My brother is very good _______ playing the guitar.",
 			options: [
 				"in",
 				"at",
@@ -78,11 +78,11 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"about"
 			],
 			correctAnswer: 1,
-			explanation: "Cấu trúc \"be GOOD at SOMEthing/DOing SOMEthing\" dùng để nói về việc giỏi một lĩnh vực hay kỹ năng nào đó."
+			explanation: "The structure \"be good at something/doing something\" is used to describe being skilled at an activity."
 		},
 		{
 			id: 6,
-			question: "they deCIded to GO for a WALK _______ the RAIN.",
+			question: "They decided to go for a walk _______ the rain.",
 			options: [
 				"despite",
 				"although",
@@ -90,11 +90,11 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"even though"
 			],
 			correctAnswer: 0,
-			explanation: "\"deSPITE\" hoặc \"in SPITE of\" đi kèm với một DANH/danh cụm (the RAIN) để chỉ sự nhượng bộ (mặc dù)."
+			explanation: "\"Despite\" or \"in spite of\" is followed by a noun or noun phrase (the rain) to express contrast."
 		},
 		{
 			id: 7,
-			question: "PLEASE reMIND me _______ CALL my MOTHer toNIGHT.",
+			question: "Please remind me _______ call my mother tonight.",
 			options: [
 				"of",
 				"about",
@@ -102,11 +102,11 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"for"
 			],
 			correctAnswer: 2,
-			explanation: "Cấu trúc \"reMIND SOMEone to DO SOMEthing\" nghĩa là nhắc nhở ai đó làm việc gì."
+			explanation: "The structure \"remind someone to do something\" means to help someone remember to perform an action."
 		},
 		{
 			id: 8,
-			question: "the KEYS are _______ the TAbIe in the HALLway.",
+			question: "The keys are _______ the table in the hallway.",
 			options: [
 				"in",
 				"at",
@@ -114,11 +114,11 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"into"
 			],
 			correctAnswer: 2,
-			explanation: "Dùng GIỚI \"on\" để chỉ vị trí trên bề mặt của một vật phẳng như cái bàn."
+			explanation: "We use the preposition \"on\" to indicate a position resting on a flat surface like a table."
 		},
 		{
 			id: 9,
-			question: "he aPOLogized _______ his TEACHer for being LATE.",
+			question: "He apologized _______ his teacher for being late.",
 			options: [
 				"with",
 				"to",
@@ -126,11 +126,11 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"at"
 			],
 			correctAnswer: 1,
-			explanation: "Cấu trúc đầy đủ là \"aPOLogize to SOMEone for SOMEthing\" (xin lỗi ai về việc gì)."
+			explanation: "The complete structure is \"apologize to someone for something.\""
 		},
 		{
 			id: 10,
-			question: "we are GOing to NEW YORK _______ JUNE.",
+			question: "We are going to New York _______ June.",
 			options: [
 				"in",
 				"on",
@@ -138,7 +138,7 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"since"
 			],
 			correctAnswer: 0,
-			explanation: "GIỚI \"in\" được dùng trước các tháng, mùa, năm và các khoảng thời gian dài."
+			explanation: "The preposition \"in\" is used before months, seasons, years, and longer periods of time."
 		}
 	];
 

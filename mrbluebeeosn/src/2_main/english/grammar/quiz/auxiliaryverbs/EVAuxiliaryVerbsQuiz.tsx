@@ -20,21 +20,21 @@ interface Question {
 export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "i _______ NOT SEEN that MOvie beFORE, so i'm exCIted to WATCH it toNIGHT.",
+			question: "I _______ not seen that movie before, so I'm excited to watch it tonight.",
 			options: [
 				"do",
 				"have",
 				"am",
-				"DID"
+				"did"
 			],
 			correctAnswer: 1,
-			explanation: "Câu này sử dụng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (have + V3/ed) để diễn tả một trải nghiệm chưa từng xảy ra trong quá khứ tính đến hiện tại."
+			explanation: "This sentence uses the 📏 Present Perfect tense (have + V3/ed) to describe an experience that has never happened up to the present."
 		},
 		{
 			id: 2,
-			question: "_______ you FINish your HOMEwork YESterday EVEning?",
+			question: "_______ you finish your homework yesterday evening?",
 			options: [
 				"do",
 				"have",
@@ -42,11 +42,11 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"were"
 			],
 			correctAnswer: 2,
-			explanation: "Để đặt câu hỏi cho hành động đã kết thúc trong quá khứ (YESterday), ta dùng thời gian hành động \"did\" của ⏳ Thời Gian Hành Động ở Quá Khứ Đơn."
+			explanation: "To ask a question about a completed action in the past (yesterday), we use the auxiliary verb \"did\" of the ⏳ Simple Past tense."
 		},
 		{
 			id: 3,
-			question: "she _______ WORKing on a VERy imPORTant PROJect at the MOment.",
+			question: "She _______ working on a very important project at the moment.",
 			options: [
 				"is",
 				"does",
@@ -54,23 +54,23 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"will"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ \"at the MOment\" dấu hiệu của ⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn, công thức là \"be + V-ing\". Với danh chủ \"she\", thời gian hành động phù hợp là \"is\"."
+			explanation: "The phrase \"at the moment\" signals the ⏱️ Present Continuous tense (be + V-ing). With the singular subject \"she,\" the correct auxiliary is \"is.\""
 		},
 		{
 			id: 4,
-			question: "you _______ TAKE an umBRELla with you; the SKY LOOKS VERy DARK.",
+			question: "You _______ take an umbrella with you; the sky looks very dark.",
 			options: [
-				"DID",
+				"did",
 				"have",
 				"should",
 				"are"
 			],
 			correctAnswer: 2,
-			explanation: "\"should\" là thời gian hành động khuyết thiếu dùng để đưa ra lời khuyên. Ngữ cảnh trời tối sầm nên khuyên mang theo ô là hợp lý nhất."
+			explanation: "\"Should\" is a modal auxiliary verb used to give advice. Given that the sky looks dark, advising someone to take an umbrella makes the most sense."
 		},
 		{
 			id: 5,
-			question: "_______ they EVer been to EURope before their TRIP LAST SUMmer?",
+			question: "_______ they ever been to Europe before their trip last summer?",
 			options: [
 				"had",
 				"did",
@@ -78,35 +78,35 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 0,
-			explanation: "Câu hỏi về một hành động xảy ra trước một thời điểm trong quá khứ (LAST SUMmer) nên ta dùng 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (had + V3/ed)."
+			explanation: "This asks about an action occurring before a specific time in the past (last summer), so we use the 📏 Past Perfect tense (had + V3/ed)."
 		},
 		{
 			id: 6,
-			question: "he _______ LIKE PLAYing FOOTball when he was a CHILD, but he LOVES it NOW.",
+			question: "He _______ like playing football when he was a child, but he loves it now.",
 			options: [
-				"DOESn't",
-				"DIDn't",
-				"HASn't",
-				"WASn't"
+				"doesn't",
+				"didn't",
+				"hasn't",
+				"wasn't"
 			],
 			correctAnswer: 1,
-			explanation: "Câu diễn tả một thói quen hoặc trạng thái trong quá khứ (\"when he was a CHILD\") nên dùng thời gian hành động phủ định của quá khứ đơn là \"DIDn't\"."
+			explanation: "The sentence describes a past habit or state (\"when he was a child\"), requiring the negative past simple auxiliary \"didn't.\""
 		},
 		{
 			id: 7,
-			question: "this CAKE _______ MADE by my GRANDmother YESterday.",
+			question: "This cake _______ made by my grandmother yesterday.",
 			options: [
 				"is",
 				"was",
-				"DID",
+				"did",
 				"has"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là câu bị động ở ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (be + V3/ed). Vì \"YESterday\" và \"CAKE\" là số ít nên ta dùng \"was\"."
+			explanation: "This is a passive voice sentence in the ⏳ Simple Past tense (be + V3/ed). Because of \"yesterday\" and the singular subject \"cake,\" we use \"was.\""
 		},
 		{
 			id: 8,
-			question: "_______ i HELP you with those HEAVy BAGS?",
+			question: "_______ I help you with those heavy bags?",
 			options: [
 				"do",
 				"have",
@@ -114,31 +114,31 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"can"
 			],
 			correctAnswer: 3,
-			explanation: "\"can\" được dùng làm thời gian hành động để đưa ra một lời đề nghị giúp đỡ hoặc hỏi về khả năng."
+			explanation: "\"Can\" is used as a modal auxiliary to make a polite offer of help or ask about ability."
 		},
 		{
 			id: 9,
-			question: "we _______ been WAITing for the BUS for over THIRty MINutes NOW.",
+			question: "We _______ been waiting for the bus for over thirty minutes now.",
 			options: [
 				"are",
 				"do",
 				"have",
-				"DID"
+				"did"
 			],
 			correctAnswer: 2,
-			explanation: "Cấu trúc \"have/has + been + V-ing\" của 🏃‍♂️ Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Tiếp Diễn dùng để diễn tả hành động bắt đầu trong quá khứ và vẫn đang tiếp tục."
+			explanation: "The structure \"have/has + been + V-ing\" in the 🏃‍♂️ Present Perfect Continuous tense describes an action that started in the past and is still continuing."
 		},
 		{
 			id: 10,
-			question: "if it RAINS toMORrow, we _______ STAY at HOME and WATCH MOvies.",
+			question: "If it rains tomorrow, we _______ stay at home and watch movies.",
 			options: [
 				"will",
-				"DID",
+				"did",
 				"had",
 				"were"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là câu điều kiện loại 1, câu con chính dùng thời gian hành động \"will\" để diễn tả một kết quả có thể xảy ra ở tương lai."
+			explanation: "This is a First Conditional sentence; the main clause uses the auxiliary \"will\" to express a likely future result."
 		}
 	];
 

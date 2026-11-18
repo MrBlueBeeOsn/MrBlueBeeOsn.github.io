@@ -20,125 +20,125 @@ interface Question {
 export default function EVGerundsandInfinitivesQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Gerunds (V-ing) và Infinitives (To V/V nguyên thể) cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "i am LOOKing FORward to _______ my OLD FRIENDS at the PARTy toNIGHT.",
+			question: "I am looking forward to _______ my old friends at the party tonight.",
 			options: [
-				"MEET",
-				"MEETing",
-				"MET",
-				"to MEET"
+				"meet",
+				"meeting",
+				"met",
+				"to meet"
 			],
 			correctAnswer: 1,
-			explanation: "Cấu trúc \"LOOK FORward to\" là một cụm từ cố định mang ý nghĩa mong đợi một điều gì đó với sự hân hoan. Trong cấu trúc này, từ \"to\" đóng vai trò là một GIỚI chứ không phải là dấu hiệu của hành động nguyên mẫu (to-inFINitive), vì vậy theo quy tắc ngữ pháp, sau GIỚI chúng ta phải sử dụng một danh hành động (V-ing)."
+			explanation: "The phrase \"look forward to\" ends with the preposition \"to\", so it must be followed by a gerund (V-ing)."
 		},
 		{
 			id: 2,
-			question: "my PARents DON'T LET me _______ OUT TOO LATE on WEEKdays.",
+			question: "My parents don't let me _______ out too late on weekdays.",
 			options: [
-				"GOing",
-				"GO",
-				"to GO",
-				"GONE"
+				"going",
+				"go",
+				"to go",
+				"gone"
 			],
 			correctAnswer: 1,
-			explanation: "Cấu trúc \"LET + SOMEone + V (BARE-inFINitive)\" được dùng để diễn tả việc cho phép ai đó làm gì. Trong cấu trúc này, hành động đi sau danh nhận (me) bắt buộc phải ở dạng nguyên thể không có \"to\"."
+			explanation: "The structure \"let + someone + V (bare-infinitive)\" requires the base form of the verb without \"to\"."
 		},
 		{
 			id: 3,
-			question: "we deCIded _______ a NEW CAR because the OLD ONE KEPT BREAKing DOWN.",
+			question: "We decided _______ a new car because the old one kept breaking down.",
 			options: [
-				"BUY",
-				"BUYing",
-				"to BUY",
-				"BOUGHT"
+				"buy",
+				"buying",
+				"to buy",
+				"bought"
 			],
 			correctAnswer: 2,
-			explanation: "ĐỘNG \"deCIDE\" (quyết định) là một trong những hành động luôn đi kèm với hành động nguyên mẫu có \"to\" (to-inFINitive) khi muốn diễn tả quyết định thực hiện một hành động nào đó trong tương lai."
+			explanation: "The verb \"decide\" is followed by a to-infinitive (to-V)."
 		},
 		{
 			id: 4,
-			question: "it’s NO USE _______ about the PAST; you should FOcus on the FUture.",
+			question: "It’s no use _______ about the past; you should focus on the future.",
 			options: [
-				"CRY",
-				"to CRY",
-				"CRYing",
-				"CRIED"
+				"cry",
+				"to cry",
+				"crying",
+				"cried"
 			],
 			correctAnswer: 2,
-			explanation: "\"it’s NO USE\" là một thành ngữ cố định có nghĩa là \"chẳng ích gì\" hoặc \"vô ích khi làm gì\". Theo quy tắc ngữ pháp, sau cấu trúc này chúng ta luôn sử dụng danh hành động (V-ing)."
+			explanation: "The idiom \"it’s no use\" is always followed by a gerund (V-ing)."
 		},
 		{
 			id: 5,
-			question: "she sugGESTed _______ to the CINema, but i WANTed to STAY HOME.",
+			question: "She suggested _______ to the cinema, but I wanted to stay home.",
 			options: [
-				"GO",
-				"to GO",
-				"GOing",
-				"GONE"
+				"go",
+				"to go",
+				"going",
+				"gone"
 			],
 			correctAnswer: 2,
-			explanation: "ĐỘNG \"sugGEST\" (gợi ý) khi được theo sau trực tiếp bởi một hành động khác mà không có danh nhận chỉ người thì hành động đó phải được chia ở dạng danh hành động (V-ing)."
+			explanation: "When \"suggest\" is followed directly by another verb without an object, that verb must take the gerund (V-ing) form."
 		},
 		{
 			id: 6,
-			question: "i reMEMber _______ the DOOR, but NOW i CAN’T FIND my KEYS.",
+			question: "I remember _______ the door, but now I can’t find my keys.",
 			options: [
-				"LOCK",
-				"LOCKing",
-				"to LOCK",
-				"LOCKED"
+				"lock",
+				"locking",
+				"to lock",
+				"locked"
 			],
 			correctAnswer: 1,
-			explanation: "ĐỘNG \"reMEMber\" có hai cách dùng: \"reMEMber + to V\" là nhớ phải làm gì (chưa làm), còn \"reMEMber + V-ing\" là nhớ đã làm gì trong quá khứ. Trong ngữ cảnh này, người nói nhớ về hành động khóa cửa đã thực hiện rồi nên phải dùng dạng V-ing."
+			explanation: "Remember + V-ing is used to talk about a memory of a past action that has already been completed."
 		},
 		{
 			id: 7,
-			question: "he STOPPED _______ a cigatRETTE because he REalized it was BAD for his HEALTH.",
+			question: "He stopped _______ a cigarette because he realized it was bad for his health.",
 			options: [
-				"SMOking",
-				"SMOKE",
-				"to SMOKE",
-				"SMOKED"
+				"smoking",
+				"smoke",
+				"to smoke",
+				"smoked"
 			],
 			correctAnswer: 0,
-			explanation: "ĐỘNG \"STOP\" khi đi với \"V-ing\" có nghĩa là dừng hẳn một thói quen hoặc một hành động đang diễn ra. Ở đây, nhân vật này dừng hẳn việc hút thuốc vì lý do sức khỏe nên \"SMOking\" là đáp án đúng."
+			explanation: "Stop + V-ing means to quit or completely give up a habit or ongoing activity."
 		},
 		{
 			id: 8,
-			question: "it is VERy DIFficult _______ a JOB in this eCONomy.",
+			question: "It is very difficult _______ a job in this economy.",
 			options: [
-				"FIND",
-				"FInding",
-				"to FIND",
-				"FOUND"
+				"find",
+				"finding",
+				"to find",
+				"found"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là cấu trúc ADjective dùng với danh chủ giả: \"it + be + Adj + to V\". Cấu trúc này dùng để đưa ra nhận xét hoặc đánh giá về việc thực hiện một hành động nào đó."
+			explanation: "The dummy subject structure \"It + be + adjective + to-V\" requires a to-infinitive."
 		},
 		{
 			id: 9,
-			question: "they MANaged _______ the PROJect on TIME deSPITE many DIFficulties.",
+			question: "They managed _______ the project on time despite many difficulties.",
 			options: [
-				"FINish",
-				"to FINish",
-				"FINishing",
-				"FINished"
+				"finish",
+				"to finish",
+				"finishing",
+				"finished"
 			],
 			correctAnswer: 1,
-			explanation: "ĐỘNG \"Manage\" mang nghĩa là xoay xở hoặc thành công làm được việc gì đó. Theo sau hành động này, chúng ta luôn sử dụng dạng nguyên mẫu có \"to\" (to-inFINitive)."
+			explanation: "The verb \"manage\" is followed by a to-infinitive (to-V)."
 		},
 		{
 			id: 10,
-			question: "do you MIND CLOsing the WINdow? it’s GETting a BIT COLD in HERE.",
+			question: "Do you mind _______ the window? It’s getting a bit cold in here.",
 			options: [
-				"CLOSE",
-				"to CLOSE",
-				"CLOsing",
-				"CLOSED"
+				"close",
+				"to close",
+				"closing",
+				"closed"
 			],
 			correctAnswer: 2,
-			explanation: "Trong các câu hỏi lịch sự với \"do you MIND\" hoặc \"would you MIND\" (Bạn có phiền/ngại làm gì đó không), hành động chính theo sau luôn phải ở dạng danh hành động (V-ing)."
+			explanation: "In polite requests with \"Do you mind\" or \"Would you mind\", the following verb always takes the gerund (V-ing) form."
 		}
 	];
 

@@ -20,9 +20,9 @@ interface Question {
 export default function AdjectiveClausesQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "the MAN ________ LIVES NEXT DOOR is a FAmous muSICian.",
+			question: "The man ________ lives next door is a famous musician.",
 			options: [
 				"which",
 				"whom",
@@ -30,11 +30,11 @@ export default function AdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 2,
-			explanation: "\"who\" is used as a subject pronoun for clear reference to a person (\"the MAN\") performing the action of living next door."
+			explanation: "\"Who\" is used as a subject pronoun for clear reference to a person (\"the man\") performing the action of living next door."
 		},
 		{
 			id: 2,
-			question: "the BOOK ________ you LENT me YESterday was DEEPly MOving.",
+			question: "The book ________ you lent me yesterday was deeply moving.",
 			options: [
 				"who",
 				"which",
@@ -42,11 +42,11 @@ export default function AdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 1,
-			explanation: "\"which\" is used as an object pronoun to refer to things or objects (\"the BOOK\")."
+			explanation: "\"Which\" is used as an object pronoun to refer to things or objects (\"the book\")."
 		},
 		{
 			id: 3,
-			question: "the CORporate BUILding ________ we VISited LAST WEEK HAS FIFty FLOORS.",
+			question: "The corporate building ________ we visited last week has fifty floors.",
 			options: [
 				"where",
 				"that",
@@ -54,11 +54,11 @@ export default function AdjectiveClausesQuiz(): React.JSX.Element {
 				"in where"
 			],
 			correctAnswer: 1,
-			explanation: "\"that\" acts as the object of the verb \"VISited.\" \"where\" cannot be used here because \"VISited\" requires a direct object, not an adverbial modifier of place."
+			explanation: "\"That\" acts as the object of the verb \"visited.\" \"Where\" cannot be used here because \"visited\" requires a direct object, not an adverbial modifier of place."
 		},
 		{
 			id: 4,
-			question: "the STUdent ________ PROJect WON FIRST PRIZE was HIGHly PRAISED by the PRINcipal.",
+			question: "The student ________ project won first prize was highly praised by the principal.",
 			options: [
 				"who",
 				"whom",
@@ -66,11 +66,11 @@ export default function AdjectiveClausesQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 2,
-			explanation: "\"whose\" is a possessive relative pronoun used to show that the project belongs to the STUdent."
+			explanation: "\"Whose\" is a possessive relative pronoun used to show that the project belongs to the student."
 		},
 		{
 			id: 5,
-			question: "THIS is the eXACT RESTAURant ________ my PARents MET for the FIRST TIME.",
+			question: "This is the exact restaurant ________ my parents met for the first time.",
 			options: [
 				"which",
 				"that",
@@ -78,11 +78,11 @@ export default function AdjectiveClausesQuiz(): React.JSX.Element {
 				"whom"
 			],
 			correctAnswer: 2,
-			explanation: "\"where\" is a relative adverb used to modify a place (\"the RESTAURant\") and functions as an adverbial of place within the clause."
+			explanation: "\"Where\" is a relative adverb used to modify a place (\"the restaurant\") and functions as an adverbial of place within the clause."
 		},
 		{
 			id: 6,
-			question: "the proFESsor ________ i SPOKE to this MORning GAVE me some EXcellent caREER adVICE.",
+			question: "The professor ________ I spoke to this morning gave me some excellent career advice.",
 			options: [
 				"which",
 				"whose",
@@ -90,11 +90,11 @@ export default function AdjectiveClausesQuiz(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 2,
-			explanation: "\"whom\" is used as the object of the preposition \"to\" when referring to a person (\"the proFESsor\")."
+			explanation: "\"Whom\" is used as the object of the preposition \"to\" when referring to a person (\"the professor\")."
 		},
 		{
 			id: 7,
-			question: "2020 was the YEAR ________ the GLObal panDEMic CHANGED EVERyone's DAIly LIVES.",
+			question: "2020 was the year ________ the global pandemic changed everyone's daily lives.",
 			options: [
 				"which",
 				"when",
@@ -102,11 +102,11 @@ export default function AdjectiveClausesQuiz(): React.JSX.Element {
 				"that's"
 			],
 			correctAnswer: 1,
-			explanation: "\"when\" is a relative adverb used to modify a noun of time (\"the YEAR\")."
+			explanation: "\"When\" is a relative adverb used to modify a noun of time (\"the year\")."
 		},
 		{
 			id: 8,
-			question: "the REAson ________ she LEFT the COMpany so SUDdenly reMAINS a comPLETE MYStery.",
+			question: "The reason ________ she left the company so suddenly remains a complete mystery.",
 			options: [
 				"why",
 				"which",
@@ -114,11 +114,11 @@ export default function AdjectiveClausesQuiz(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 0,
-			explanation: "\"why\" is the relative adverb typically used to modify the noun \"REAson\" to explain a cause."
+			explanation: "\"Why\" is the relative adverb typically used to modify the noun \"reason\" to explain a cause."
 		},
 		{
 			id: 9,
-			question: "the LOcal TEAM, ________ TRACKing REcord had been POOR, surPRIsingly WON the CHAMpionship.",
+			question: "The local team, ________ track record had been poor, surprisingly won the championship.",
 			options: [
 				"who",
 				"that",
@@ -126,11 +126,11 @@ export default function AdjectiveClausesQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 2,
-			explanation: "\"whose\" indicates possession over the \"TRACKing REcord.\" Note that \"that\" cannot be used in non-defining relative clauses (seT OFF by COMmas)."
+			explanation: "\"Whose\" indicates possession over the \"track record.\" Note that \"that\" cannot be used in non-defining relative clauses (set off by commas)."
 		},
 		{
 			id: 10,
-			question: "the WAter FILter ________ we BOUGHT LAST MONTH has alREADy STOPPED WORKing efFICiently.",
+			question: "The water filter ________ we bought last month has already stopped working efficiently.",
 			options: [
 				"who",
 				"whom",
@@ -138,7 +138,7 @@ export default function AdjectiveClausesQuiz(): React.JSX.Element {
 				"that"
 			],
 			correctAnswer: 3,
-			explanation: "\"that\" is used to refer to an object (\"the WAter FILter\") in a defining relative clause."
+			explanation: "\"That\" is used to refer to an object (\"the water filter\") in a defining relative clause."
 		}
 	];
 
