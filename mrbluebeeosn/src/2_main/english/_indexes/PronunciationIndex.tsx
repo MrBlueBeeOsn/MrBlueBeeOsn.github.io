@@ -35,36 +35,12 @@ export default function PronunciationIndex(): React.JSX.Element {
                           
       </div>
 
-      
-
-      {/* <div className="vocabulary-container margin-top-20">
-                      
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="pronunciation-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/english-multiple-choice"></Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-      </div> */}
 
 
       <div className="flex-container margin-top-20">
               
         {/* =============================
-            NOUNS
+            SYLlable SEcret
         ============================= */}
 
         <div className="sub-box">
@@ -86,7 +62,6 @@ export default function PronunciationIndex(): React.JSX.Element {
         </div>
 
 
-
         {/* =============================
             IPA
         ============================= */}
@@ -94,6 +69,8 @@ export default function PronunciationIndex(): React.JSX.Element {
         <div className="sub-box">
       
           <p id="aMERican-IPA"><mark className="highlight-secondary-padding-2-4">IPA</mark></p>
+
+          <ul className="list-border1">
 
             <li>
               <div className="li-content">
@@ -125,30 +102,28 @@ export default function PronunciationIndex(): React.JSX.Element {
               </div>
             </li>
 
-            {/* <li>
-              <div className="li-content">
-                <Link to="/pronunciation/ban-chat-am-schwa">Bản Chất Âm Schwa</Link>
-              </div>
-            </li> */}
-
             <li>
               <div className="li-content">
                 <Link to="/pronunciation/flat-a-and-deep-a">Flat \a\ and Deep \ä\ Sounds</Link>
               </div>
             </li>
 
+          </ul>
+
         </div>
 
+
       </div>
-      
 
       <div className="flex-container margin-top-20">
+              
+        {/* =============================
+            Definition
+        ============================= */}
 
         <div className="sub-box">
-
-          {/* =============================
-              Pronunciation Terms
-          ============================= */}
+      
+          <p id="definition"><mark className="highlight-secondary-padding-2-4">Definition</mark></p>
 
           <ul className="list-border1">
 
@@ -163,7 +138,7 @@ export default function PronunciationIndex(): React.JSX.Element {
                 <Link to="/pronunciation/what-is-IPA?">IPA</Link>
               </div>
             </li>
-            
+
           </ul>
 
         </div>

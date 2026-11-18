@@ -189,15 +189,14 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </div>
 
-      </div>
-
-      <div className="flex-container margin-top-20">
-
         <div className="sub-box">
-        
+
+
           {/* =============================
-              English Terms
+              Definition
           ============================= */}
+              
+          <p id="definition"><mark className="highlight-secondary-padding-2-4">Definition</mark></p>
 
           <ul className="list-border1">
 
@@ -213,21 +212,6 @@ export default function EnglishIndex(): React.JSX.Element {
               </div>
             </li>
 
-            
-
-            
-          </ul>
-
-        </div>
-
-        <div className="sub-box">
-        
-          {/* =============================
-              English Teacher
-          ============================= */}
-
-          <ul className="list-border1">
-
             <li>
               <div className="li-content">
                 <Link to="/english/what-is-an-english-teacher?">English Teacher</Link>
@@ -239,10 +223,12 @@ export default function EnglishIndex(): React.JSX.Element {
                 <Link to="/english/what-is-an-english-teacher?">What is an English teacher?</Link>
               </div>
             </li>
-            
+
           </ul>
 
         </div>
+
+        
 
       </div>
 

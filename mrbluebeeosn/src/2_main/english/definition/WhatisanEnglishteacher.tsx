@@ -15,7 +15,7 @@ export default function WhatisanEnglishteacher(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/english#english-learning-terms"><mark className="highlight-tertiary-padding-4-8">English</mark></HashLink></h4>
+      <h4><HashLink smooth to="/english#definition"><mark className="highlight-tertiary-padding-4-8">Definition</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">What is an <strong>English teacher</strong>?</h1>
 

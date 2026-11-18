@@ -48,9 +48,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// 1. English
 	const EnglishIndex = lazy(() => import('@/2_main/english/_indexes/EnglishIndex'));
-	const English = lazy(() => import('@/2_main/english/English'));
-	const TheEnglishLanguage = lazy(() => import('@/2_main/english/TheEnglishLanguage'));
-	const EnglishTeacher = lazy(() => import('@/2_main/english/EnglishTeacher'));
+	const English = lazy(() => import('@/2_main/english/definition/English'));
+	const TheEnglishLanguage = lazy(() => import('@/2_main/english/definition/TheEnglishLanguage'));
+	const EnglishTeacher = lazy(() => import('@/2_main/english/definition/EnglishTeacher'));
 
 	// EnglishMultipleChoice
 	const EnglishMultipleChoice = lazy(() => import('@/2_main/english/quiz/EnglishMultipleChoice'));
@@ -178,18 +178,18 @@ const Posts = lazy(() => import('@/data/Posts'));
 	
 	// 3. Pronunciation
 	const PronunciationIndex = lazy(() => import('@/2_main/english/_indexes/PronunciationIndex'));
-	const Pronunciation = lazy(() => import('@/2_main/english/pronunciation/Pronunciation'));
-	const IPA = lazy(() => import('@/2_main/english/pronunciation/IPA'));
-	const UnstressedWords = lazy(() => import('@/2_main/english/pronunciation/UnstressedWords'));
-	const VowelSystem = lazy(() => import('@/2_main/english/pronunciation/VowelSystem'));
-	const ClosedAndOpenSyllables = lazy(() => import('@/2_main/english/pronunciation/ClosedAndOpenSyllables'));
-	const EDSounds = lazy(() => import('@/2_main/english/pronunciation/EDSounds'));
-	const Schwa = lazy(() => import('@/2_main/english/pronunciation/Schwa'));
-	const BanChatAmSchwa = lazy(() => import('@/2_main/english/pronunciation/BanChatAmSchwa'));
-	const FlatAandDeepA = lazy(() => import('@/2_main/english/pronunciation/FlatAandDeepA'));
+	const Pronunciation = lazy(() => import('@/2_main/english/pronunciation/definition/Pronunciation'));
+	const IPA = lazy(() => import('@/2_main/english/pronunciation/definition/IPA'));
+	const UnstressedWords = lazy(() => import('@/2_main/english/pronunciation/ipa/UnstressedWords'));
+	const VowelSystem = lazy(() => import('@/2_main/english/pronunciation/ipa/VowelSystem'));
+	const ClosedAndOpenSyllables = lazy(() => import('@/2_main/english/pronunciation/ipa/ClosedAndOpenSyllables'));
+	const EDSounds = lazy(() => import('@/2_main/english/pronunciation/ipa/EDSounds'));
+	const Schwa = lazy(() => import('@/2_main/english/pronunciation/ipa/Schwa'));
+	const BanChatAmSchwa = lazy(() => import('@/2_main/english/pronunciation/ipa/BanChatAmSchwa'));
+	const FlatAandDeepA = lazy(() => import('@/2_main/english/pronunciation/ipa/FlatAandDeepA'));
 
-	const COMmenter = lazy(() => import('@/2_main/english/pronunciation/COMmenter'));
-	const ConnoisSEUR = lazy(() => import('@/2_main/english/pronunciation/connoisSEUR'));
+	const COMmenter = lazy(() => import('@/2_main/english/pronunciation/secret/COMmenter'));
+	const ConnoisSEUR = lazy(() => import('@/2_main/english/pronunciation/secret/connoisSEUR'));
 
 
 	// 4. Tiếng Anh
@@ -199,7 +199,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const NguyenAmDon = lazy(() => import('@/2_main/english/tienganh/pronunciation/NguyenAmDon'));
 	const NguyenAmDoi = lazy(() => import('@/2_main/english/tienganh/pronunciation/NguyenAmDoi'));
 
-	const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/WhatisanEnglishteacher'));
+	const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/definition/WhatisanEnglishteacher'));
 
 	const SauDangHanhDong2 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangHanhDong2'));
 
