@@ -151,6 +151,12 @@ export default function EnglishIndex(): React.JSX.Element {
                   <Link to="/english/dictation-exercise">Dictation Exercise</Link>
                 </div>
               </li>
+
+              <li>
+                <div className="li-content">
+                  <Link to="/english/numbers-exercise-01-10">Numbers Exercise 01-10</Link>
+                </div>
+              </li>
               
             </ul>
   

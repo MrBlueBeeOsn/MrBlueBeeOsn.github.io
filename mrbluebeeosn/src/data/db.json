@@ -298,6 +298,17 @@
       "likes": 0
     },
     {
+      "id": "NumbersExercise0110",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Numbers Exercise",
+      "content": "",
+      "slug": "english/numbers-exercise",
+      "date": "2026-11-18",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Adverb",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",

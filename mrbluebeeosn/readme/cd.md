@@ -106,3 +106,11 @@ npm run master
 npm run main
 •  Nhảy sang main -> Hút code từ master về main -> Bắn lên main GitHub -> Xuất bản web -> Nhảy sang master
 •  git checkout main && git merge master && git push origin main && npm run deploy && git checkout master
+
+
+Audio:
+
+npm install -D node-edge-tts
+node make-audio.mjs
+
+node make-audio.mjs dictation

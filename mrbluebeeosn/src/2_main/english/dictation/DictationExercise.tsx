@@ -123,8 +123,20 @@ export default function DictationExercise() {
     go(0);
   };
  
-  if (finished) {
-    return (
+if (finished) {
+    
+  return (<>
+
+  <main className="image image2">
+
+    <article>
+    
+      <h4><HashLink smooth to="/english#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Dictation</mark></HashLink></h4>
+      
+      <h1 className="margin-y-50 text-center">Dictation Exercise</h1>
+
+      {/* This is the content of English Learning Term. */}
+
       <div className="dictation">
         <h3 className="dictation__title">All done</h3>
         <p className="dictation__text">
@@ -134,8 +146,33 @@ export default function DictationExercise() {
           Try again
         </button>
       </div>
-    );
-  }
+
+      <div className="viewcounter">
+      
+        <div className="post-date no-margin">
+          <span>noVEMber 09, 2026 · by Claude ·</span>
+        </div>
+
+        <div className="eye-icon no-margin">
+          <EyeIcon />
+        </div>
+
+        <div className="post-date no-margin">
+          <ViewCounter postId={postId} />
+        </div>
+
+        <div className="like-button no-margin">
+          <LikeButton postId={postId} />
+        </div>
+
+      </div>
+
+    </article>
+
+  </main> 
+      
+  </>);
+}
 
 	return (<>
 
