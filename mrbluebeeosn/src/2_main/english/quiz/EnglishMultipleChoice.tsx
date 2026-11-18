@@ -20,21 +20,21 @@ interface Question {
 export default function EnglishMultipleChoice(): React.JSX.Element {
 	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "CHOOSE the SENtence that is gramMATically corRECT.",
+			question: "Choose the sentence that is grammatically correct.",
 			options: [
-				"she DON'T LIKE COFfee.",
-				"she DOESN'T LIKES COFfee.",
-				"she DOESN'T LIKE COFfee.",
-				"she NOT LIKE COFfee."
+				"She don't like coffee.",
+				"She doesn't likes coffee.",
+				"She doesn't like coffee.",
+				"She not like coffee."
 			],
 			correctAnswer: 2,
-			explanation: "The subject \"she\" is a third-person singular pronoun. In the negative present simple tense, it requires the auxiliary verb \"does\" + the base form of the main verb \"LIKE\". The other options demonstrate errors in subject-verb agreement."
+			explanation: "The subject \"she\" is a third-person singular pronoun. In the negative present simple tense, it requires the auxiliary verb \"does\" + the base form of the main verb \"like\". The other options demonstrate errors in subject-verb agreement."
 		},
 		{
 			id: 2,
-			question: "iDENtify the corRECT prepoSITion: he is VERy GOOD ______ PLAYing the guiTAR.",
+			question: "Identify the correct preposition: He is very good ______ playing the guitar.",
 			options: [
 				"at",
 				"in",
@@ -42,103 +42,103 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 				"for"
 			],
 			correctAnswer: 0,
-			explanation: "The fixed adjective preposition combination is \"GOOD at (DOing) SOMEthing,\" which means to have talent or skill in a particular area."
+			explanation: "The fixed adjective-preposition combination is \"good at (doing) something,\" which means to have talent or skill in a particular area."
 		},
 		{
 			id: 3,
-			question: "CHOOSE the corRECT MEANing of the PHRAsal VERB \"calL OFF\".",
+			question: "Choose the correct meaning of the phrasal verb \"call off\".",
 			options: [
-				"to VISit SOMEone",
-				"to CANcel SOMEthing",
-				"to SHOUT LOUDly",
-				"to inVITE SOMEone"
+				"to visit someone",
+				"to cancel something",
+				"to shout loudly",
+				"to invite someone"
 			],
 			correctAnswer: 1,
-			explanation: "The phrasal verb \"to calL OFF\" means to cancel an event or activity. Example: \"they callED OFF the MEETing due to ILLness.\""
+			explanation: "The phrasal verb \"to call off\" means to cancel an event or activity. Example: \"They called off the meeting due to illness.\""
 		},
 		{
 			id: 4,
-			question: "which SENtence Uses the PREsent PERfect TENSE corRECTly?",
+			question: "Which sentence uses the present perfect tense correctly?",
 			options: [
-				"i have SEEN that MOvie YESterday.",
-				"i SAW that MOvie YESterday.",
-				"i have SEEN that MOvie.",
-				"i SEE that MOvie."
+				"I have seen that movie yesterday.",
+				"I saw that movie yesterday.",
+				"I have seen that movie.",
+				"I see that movie."
 			],
 			correctAnswer: 2,
-			explanation: "The present perfect tense (have/has + past participle) describes an action that occurred at an unspecified time in the past or has relevance to the present. It is generally not used with specific time adverbs like \"YESterday\" (making option a incorrect). Option b is grammatically correct but is in the simple past tense, not the present perfect as requested."
+			explanation: "The present perfect tense (have/has + past participle) describes an action that occurred at an unspecified time in the past or has relevance to the present. It is generally not used with specific time adverbs like \"yesterday\" (making option A incorrect). Option B is grammatically correct but is in the simple past tense, not the present perfect as requested."
 		},
 		{
 			id: 5,
-			question: "WHAT is the SYNonym \"beNEVolent\"?",
+			question: "What is the synonym of \"benevolent\"?",
 			options: [
-				"SELfish",
-				"MEAN",
-				"KIND HEARTed",
-				"WEALthy"
+				"selfish",
+				"mean",
+				"kind-hearted",
+				"wealthy"
 			],
 			correctAnswer: 2,
-			explanation: "\"beNEVolent\" means well-meaning and kindly, so the closest synonym is \"KIND HEARTed.\" The other words are antonyms (SELfish, MEAN) or unrelated (WEALthy)."
+			explanation: "\"Benevolent\" means well-meaning and kindly, so the closest synonym is \"kind-hearted.\" The other words are antonyms (selfish, mean) or unrelated (wealthy)."
 		},
 		{
 			id: 6,
-			question: "seLECT the corRECTly PUNCtuated SENtence.",
+			question: "Select the correctly punctuated sentence.",
 			options: [
-				"let's EAT GRANDma!",
-				"let's EAT, GRANDma!",
-				"lets EAT GRANDma.",
-				"lets EAT, GRANDma."
+				"Let's eat Grandma!",
+				"Let's eat, Grandma!",
+				"Lets eat Grandma.",
+				"Lets eat, Grandma."
 			],
 			correctAnswer: 1,
-			explanation: "The comma is crucial here as it separates the vocative (\"GRANDma\") from the main clause. Without it, the sentence suggests cannibalism (\"let's EAT GRANDma!\"). The correct meaning is an invitation: \"GRANDma, let's EAT.\" \"let's\" is the correct contraction of \"let us.\""
+			explanation: "The comma is crucial here as it separates the vocative (\"Grandma\") from the main clause. Without it, the sentence suggests cannibalism (\"Let's eat Grandma!\"). The correct meaning is an invitation: \"Grandma, let's eat.\" \"Let's\" is the correct contraction of \"let us.\""
 		},
 		{
 			id: 7,
-			question: "which OPTion corRECTly comPLETES this conDITional SENtence? if i had KNOWN, i __________________ you.",
+			question: "Which option correctly completes this conditional sentence? If I had known, I __________________ you.",
 			options: [
-				"will HELP",
-				"would HELP",
-				"would have HELPED",
-				"had HELPED"
+				"will help",
+				"would help",
+				"would have helped",
+				"had helped"
 			],
 			correctAnswer: 2,
-			explanation: "This is a third conditional sentence, used to talk about a hypothetical situation in the past and its impossible result. The structure is: if + past perfect (had KNOWN), would/could/might + have + past participle (would have HELPED)."
+			explanation: "This is a third conditional sentence, used to talk about a hypothetical situation in the past and its impossible result. The structure is: If + past perfect (had known), would/could/might + have + past participle (would have helped)."
 		},
 		{
 			id: 8,
-			question: "FIND the SENtence with the incorRECT ARticle Usage.",
+			question: "Find the sentence with the incorrect article usage.",
 			options: [
-				"he is an HONest MAN.",
-				"i NEED an umBRELla.",
-				"she WORKS for an interNATional COMpany.",
-				"the SUN RIses in the EAST."
+				"He is an honest man.",
+				"I need a umbrella.",
+				"She works for an international company.",
+				"The sun rises in the east."
 			],
 			correctAnswer: 1,
-			explanation: "The choice of the indefinite article depends on the sound that follows it. Although \"umBRELla\" begins with the letter 'u', it is pronounced with an initial vowel sound /ʌ/. Therefore, it requires \"an umBRELla.\" \"HONest\" begins with a silent 'h', so it correctly takes \"an.\""
+			explanation: "The choice of the indefinite article depends on the sound that follows it. Although \"umbrella\" begins with the letter 'u', it is pronounced with an initial vowel sound /ʌ/, so it requires \"an umbrella\" rather than \"a umbrella.\" \"Honest\" begins with a silent 'h', so it correctly takes \"an.\""
 		},
 		{
 			id: 9,
-			question: "WHICH of the FOLlowing is an eXAMple of the PASsive VOICE?",
+			question: "Which of the following is an example of the passive voice?",
 			options: [
-				"the CHEF COOKED a WONderful MEAL.",
-				"the CHILDren are PLAYing in the PARK.",
-				"a WONderful MEAL was COOKED by the CHEF.",
-				"does she DRIVE to WORK?"
+				"The chef cooked a wonderful meal.",
+				"The children are playing in the park.",
+				"A wonderful meal was cooked by the chef.",
+				"Does she drive to work?"
 			],
 			correctAnswer: 2,
-			explanation: "A passive voice construction places the object of an action as the subject of the sentence. The structure is: Subject + a form of 'to be' + past participle (+ by + agent). Here, \"was COOKED\" is the passive form in the simple past tense. The other sentences are in the active voice."
+			explanation: "A passive voice construction places the object of an action as the subject of the sentence. The structure is: Subject + a form of 'to be' + past participle (+ by + agent). Here, \"was cooked\" is the passive form in the simple past tense. The other sentences are in the active voice."
 		},
 		{
 			id: 10,
-			question: "CHOOSE the OPTion that BEST exPRESSes the SAME MEANing: \"it's a PIECE of CAKE.\"",
+			question: "Choose the option that best expresses the same meaning: \"It's a piece of cake.\"",
 			options: [
-				"it's VERy DIFficult.",
-				"it's a deLICious desSERT.",
-				"it's VERy EAsy.",
-				"it's a TRICKy situAtion."
+				"It's very difficult.",
+				"It's a delicious dessert.",
+				"It's very easy.",
+				"It's a tricky situation."
 			],
 			correctAnswer: 2,
-			explanation: "This is an idiom. \"a PIECE of CAKE\" is a common metaphorical expression meaning something is VERy easy to do."
+			explanation: "This is an idiom. \"A piece of cake\" is a common metaphorical expression meaning something is very easy to do."
 		}
 	];
 

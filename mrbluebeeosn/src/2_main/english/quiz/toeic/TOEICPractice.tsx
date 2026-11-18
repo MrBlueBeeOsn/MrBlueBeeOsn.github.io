@@ -20,33 +20,33 @@ interface Question {
 export default function TOEICPractice(): React.JSX.Element {
 	// Danh sách câu hỏi về TOEIC cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "the NEWly apPOINTed MANager is exPECTed to ______ sigNIFicant CHAnges to the COMpany's MARketing STRATegy.",
+			question: "The newly appointed manager is expected to ______ significant changes to the company's marketing strategy.",
 			options: [
-				"IMplement",
-				"implemenTAtion",
-				"IMplementing",
-				"IMplemented"
+				"implement",
+				"implementation",
+				"implementing",
+				"implemented"
 			],
 			correctAnswer: 0,
-			explanation: "The sentence requires a base verb (V1) to follow the auxiliary structure \"is exPECTed to\". This is part of the passive infinitive form: SUBject + is/am/are + exPECTed + to + V1. The base form of the verb is \"IMplement\"."
+			explanation: "The sentence requires a base verb (V1) to follow the auxiliary structure \"is expected to\". This is part of the passive infinitive form: subject + is/am/are + expected + to + V1. The base form of the verb is \"implement\"."
 		},
 		{
 			id: 2,
-			question: "the COMpany is OFfering a conSIDerable ______ to CUScomers who PAY for the ANnual subSCRIPtion in adVANCE.",
+			question: "The company is offering a considerable ______ to customers who pay for the annual subscription in advance.",
 			options: [
-				"DIScount",
-				"disPOsable",
-				"disCHARGE",
-				"DIStance"
+				"discount",
+				"disposable",
+				"discharge",
+				"distance"
 			],
 			correctAnswer: 0,
-			explanation: "The noun that fits the business context of paying less for a product or service is \"DIScount\". \"disPOsable,\" \"disCHARGE,\" and \"DIStance\" do not fit the meaning."
+			explanation: "The noun that fits the business context of paying less for a product or service is \"discount\". \"Disposable,\" \"discharge,\" and \"distance\" do not fit the meaning."
 		},
 		{
 			id: 3,
-			question: "since the MERger, Ms. LEE has been priMARily reSPONsible ______ overSEEing the inteGRAtion of the TWO SALES TEAMS.",
+			question: "Since the merger, Ms. Lee has been primarily responsible ______ overseeing the integration of the two sales teams.",
 			options: [
 				"at",
 				"with",
@@ -54,91 +54,91 @@ export default function TOEICPractice(): React.JSX.Element {
 				"on"
 			],
 			correctAnswer: 2,
-			explanation: "The correct and fixed prepositional phrase is \"reSPONsible for\". This phrase means 'having the DUty of TAking CARE of SOMEthing or having conTROL over SOMEone'."
+			explanation: "The correct and fixed prepositional phrase is \"responsible for\". This phrase means 'having the duty of taking care of something or having control over someone'."
 		},
 		{
 			id: 4,
-			question: "all emPLOYees must atTEND the ______ TRAINing SESsion SCHEDuled for NEXT MONday.",
+			question: "All employees must attend the ______ training session scheduled for next Monday.",
 			options: [
-				"CApable",
-				"MANdatory",
-				"SPAcious",
-				"CONfident"
+				"capable",
+				"mandatory",
+				"spacious",
+				"confident"
 			],
 			correctAnswer: 1,
-			explanation: "The word \"MANdatory\" (adjective) means 'required by law or rule; compulsory'. This fits the context of a session that all employees 'must attend'."
+			explanation: "The word \"mandatory\" (adjective) means 'required by law or rule; compulsory'. This fits the context of a session that all employees 'must attend'."
 		},
 		{
 			id: 5,
-			question: "if you have any QUESTions reGARDing your inSURance POLicy, PLEASE ______ a repreSENtative imMEdiately.",
+			question: "If you have any questions regarding your insurance policy, please ______ a representative immediately.",
 			options: [
-				"CONtact",
-				"CONtacting",
-				"CONtacted",
-				"CONtacts"
+				"contact",
+				"contacting",
+				"contacted",
+				"contacts"
 			],
 			correctAnswer: 0,
-			explanation: "This is an imperative sentence (a comMAND or reQUEST) which requires the base form of the verb without a subject."
+			explanation: "This is an imperative sentence (a command or request) which requires the base form of the verb without a subject."
 		},
 		{
 			id: 6,
-			question: "the ______ LAUNCH of the NEW SOFTware was LARGEly due to the TIREless EFforts of the deVELopment TEAM.",
+			question: "The ______ launch of the new software was largely due to the tireless efforts of the development team.",
 			options: [
-				"sucCEED",
-				"sucCESSful",
-				"sucCESSfully",
-				"sucCESSion"
+				"succeed",
+				"successful",
+				"successfully",
+				"succession"
 			],
 			correctAnswer: 1,
-			explanation: "The blank requires an adjective (sucCESSful) to modify the noun \"launch.\" \"Succeed\" is a verb, \"sucCESSfully\" is an adverb, and \"sucCESSion\" is an unrelated noun."
+			explanation: "The blank requires an adjective (successful) to modify the noun \"launch.\" \"Succeed\" is a verb, \"successfully\" is an adverb, and \"succession\" is an unrelated noun."
 		},
 		{
 			id: 7,
-			question: "we are CURrently SEEKing a HIGHly ______ CANdidate to FILL the poSITion of CHIEF fiNANcial OFficer.",
+			question: "We are currently seeking a highly ______ candidate to fill the position of chief financial officer.",
 			options: [
-				"QUALify",
-				"QUALity",
-				"QUALified",
-				"qualifiCAtion"
+				"qualify",
+				"quality",
+				"qualified",
+				"qualification"
 			],
 			correctAnswer: 2,
-			explanation: "The blank requires a past participle functioning as an adjective to describe the candidate. \"QUALified\" means 'ofFICially RECognized as being TRAINED to perFORM a parTICular JOB'."
+			explanation: "The blank requires a past participle functioning as an adjective to describe the candidate. \"Qualified\" means 'officially recognized as being trained to perform a particular job'."
 		},
 		{
 			id: 8,
-			question: "the FInal rePORT was comPILED by the MARketing TEAM, but it had to be signed ______ by the CEO before publiCAtion.",
+			question: "The final report was compiled by the marketing team, but it had to be signed ______ by the CEO before publication.",
 			options: [
-				"OFF",
-				"Over",
-				"UNder",
-				"UP"
+				"off",
+				"over",
+				"under",
+				"up"
 			],
 			correctAnswer: 0,
-			explanation: "The correct phrasal verb is \"signed OFF\" (meaning 'GIVE one's ofFICial apPROval or authoriZAtion'). This fits the context that the CEO must approve the report before it can be published."
+			explanation: "The correct phrasal verb is \"signed off\" (meaning 'give one's official approval or authorization'). This fits the context that the CEO must approve the report before it can be published."
 		},
 		{
 			id: 9,
-			question: "the SEMinar was TEMporarily ______ due to the unexPECted dePARture of the KEYnote SPEAKer.",
+			question: "The seminar was temporarily ______ due to the unexpected departure of the keynote speaker.",
 			options: [
-				"imPOSED",
-				"supPOSED",
-				"disCLOSED",
-				"postPONED"
+				"imposed",
+				"supposed",
+				"disclosed",
+				"postponed"
 			],
 			correctAnswer: 3,
-			explanation: "The word that means 'to cause or arrange for something to happen at a later time' is \"postPONED\". This fits the context that the seminar was delayed because the speaker left unexpectedly. \"imPOSED\" means to force a rule/tax; \"supPOSED\" means generally thought to be or required to; \"disCLOSED\" means revealed."
+			explanation: "The word that means 'to cause or arrange for something to happen at a later time' is \"postponed\". This fits the context that the seminar was delayed because the speaker left unexpectedly. \"Imposed\" means to force a rule/tax; \"supposed\" means generally thought to be or required to; \"disclosed\" means revealed."
 		},
 		{
 			id: 10,
-			question: "the COMpany NEEds to STREAMline its opeRAtions to reDUCE COSTS and ______ efFICiency.",
+			question: "The company needs to streamline its operations to reduce costs and ______ efficiency.",
 			options: [
-				"inCREAsing",
-				"inCREASE",
-				"to inCREAsing",
-				"inCREASED",
+				"increasing",
+				"increase",
+				"to increasing",
+				"increased"
 			],
 			correctAnswer: 1,
-			explanation: "The sentence requires a parallel structure with the previous verb \"reDUCE\" within the infinitive phrase \"to reDUCE COSTS and inCREASE efFICiency.\" The phrase \"to reDUCE COSTS and inCREASE efFICiency\" links the two base verbs using the conjunction \"and.\""
+			explanation: "The sentence requires a parallel structure with the previous verb \"reduce\" within the infinitive phrase \"to reduce costs and increase efficiency.\" The phrase \"to reduce costs and increase efficiency\" links the two base verbs using the conjunction \"and.\""
 		}
 	];
 

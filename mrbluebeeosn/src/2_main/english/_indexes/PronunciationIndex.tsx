@@ -37,11 +37,8 @@ export default function PronunciationIndex(): React.JSX.Element {
 
       
 
-      <div className="vocabulary-container margin-top-20">
-                        
-        {/* =============================
-              PronunciationIndex Quiz
-        ============================= */}
+      {/* <div className="vocabulary-container margin-top-20">
+                      
 
         <details className="sub-box-fix-2">
       
@@ -61,7 +58,7 @@ export default function PronunciationIndex(): React.JSX.Element {
 
         </details>
 
-      </div>
+      </div> */}
 
 
       <div className="flex-container margin-top-20">

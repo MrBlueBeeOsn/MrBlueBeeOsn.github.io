@@ -20,33 +20,33 @@ interface Question {
 export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "she _______ to the CINema with her FRIENDS YESterday EVEning.",
+			question: "She _______ to the cinema with her friends yesterday evening.",
 			options: [
-				"GO",
-				"WENT",
-				"GONE",
-				"GOES"
+				"go",
+				"went",
+				"gone",
+				"goes"
 			],
 			correctAnswer: 1,
-			explanation: "The sentence contains the past time adverb \"YESterday EVEning,\" which signals the Past Simple Tense. The Past Simple form of \"GO\" is \"WENT.\""
+			explanation: "The sentence contains the past time adverb \"yesterday evening,\" which signals the Past Simple tense. The Past Simple form of \"go\" is \"went.\""
 		},
 		{
 			id: 2,
-			question: "if it RAINS toMORrow we _______ the PICnic.",
+			question: "If it rains tomorrow, we _______ the picnic.",
 			options: [
-				"CANcel",
-				"will CANcel",
-				"CANceled",
-				"would CANcel"
+				"cancel",
+				"will cancel",
+				"canceled",
+				"would cancel"
 			],
 			correctAnswer: 1,
-			explanation: "This is a Type 1 Conditional sentence, which describes a real and possible situation in the future. The structure for the main clause is S + will + V(BARE inFINitive)."
+			explanation: "This is a Type 1 Conditional sentence, which describes a real and possible situation in the future. The structure for the main clause is S + will + V (bare infinitive)."
 		},
 		{
 			id: 3,
-			question: "he is VERy INTERested _______ LEARNing NEW LANGuages.",
+			question: "He is very interested _______ learning new languages.",
 			options: [
 				"on",
 				"at",
@@ -54,71 +54,71 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"of"
 			],
 			correctAnswer: 2,
-			explanation: "The fixed structure for expressing interest is \"to be INTERested in + V-ing/Noun\" (to have an INTERest or conCERN in SOMEthing)."
+			explanation: "The fixed structure for expressing interest is \"to be interested in + V-ing/noun\" (to have an interest or concern in something)."
 		},
 		{
 			id: 4,
-			question: "this CAR is _______ than the ONE i DROVE YESterday.",
+			question: "This car is _______ than the one I drove yesterday.",
 			options: [
-				"MORE exPENsive",
-				"exPENsive",
-				"exPENsiver",
-				"MOST exPENsive"
+				"more expensive",
+				"expensive",
+				"expensiver",
+				"most expensive"
 			],
 			correctAnswer: 0,
-			explanation: "This is a comparative sentence using the word \"than.\" Because \"exPENsive\" is a long adjective (three syllables), the correct comparative structure is \"MORE + ADjective + than.\""
+			explanation: "This is a comparative sentence using the word \"than.\" Because \"expensive\" is a long adjective (three syllables), the correct comparative structure is \"more + adjective + than.\""
 		},
 		{
 			id: 5,
-			question: "i have LIVED in this CITy _______ 2010.",
+			question: "I have lived in this city _______ 2010.",
 			options: [
 				"for",
 				"since",
 				"in",
-				"aGO"
+				"ago"
 			],
 			correctAnswer: 1,
-			explanation: "In the Present Perfect Tense (i have LIVED), \"since\" is used before a specific point in time (2010) to indicate when the action started. \"for\" is used for a duration (e.g., for fifTEEN YEARS)."
+			explanation: "In the Present Perfect tense (I have lived), \"since\" is used before a specific point in time (2010) to indicate when the action started. \"For\" is used for a duration (e.g., for fifteen years)."
 		},
 		{
 			id: 6,
-			question: "my BROTHer enJOYS _______ FOOTball on the WEEKends.",
+			question: "My brother enjoys _______ football on the weekends.",
 			options: [
-				"PLAY",
-				"to PLAY",
-				"PLAYing",
-				"PLAYED"
+				"play",
+				"to play",
+				"playing",
+				"played"
 			],
 			correctAnswer: 2,
-			explanation: "Following verbs expressing preference or enjoyment like \"enJOY,\" the subsequent verb is always in the V-ing form (Gerund)."
+			explanation: "Following verbs expressing preference or enjoyment like \"enjoy,\" the subsequent verb is always in the V-ing form (gerund)."
 		},
 		{
 			id: 7,
-			question: "the LETter _______ by the SECretary RIGHT NOW.",
+			question: "The letter _______ by the secretary right now.",
 			options: [
-				"is TYping",
-				"is being TYPED",
-				"TYPES",
-				"was TYPED"
+				"is typing",
+				"is being typed",
+				"types",
+				"was typed"
 			],
 			correctAnswer: 1,
-			explanation: "The subject, \"the LETter,\" is an object and the action is happening \"RIGHT NOW,\" so this requires the Present Continuous Passive voice. The structure is: am/is/are + being + V3/ed."
+			explanation: "The subject, \"the letter,\" is an object and the action is happening \"right now,\" so this requires the Present Continuous Passive voice. The structure is: am/is/are + being + V3/ed."
 		},
 		{
 			id: 8,
-			question: "you _______ SMOKE HERE. it is STRICTly proHIBited.",
+			question: "You _______ smoke here. It is strictly prohibited.",
 			options: [
-				"MUSTn't",
-				"NEEDn't",
-				"DON'T have to",
+				"mustn't",
+				"needn't",
+				"don't have to",
 				"should"
 			],
 			correctAnswer: 0,
-			explanation: "\"MUSTn't\" (must NOT) is the modal verb used to express strong prohibition or something that is against the rules, which aligns with the phrase \"STRICTly proHIBited.\""
+			explanation: "\"Mustn't\" (must not) is the modal verb used to express strong prohibition or something that is against the rules, which aligns with the phrase \"strictly prohibited.\""
 		},
 		{
 			id: 9,
-			question: "do you have _______ MONey LEFT in your WALlet?",
+			question: "Do you have _______ money left in your wallet?",
 			options: [
 				"some",
 				"many",
@@ -126,11 +126,11 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"a"
 			],
 			correctAnswer: 2,
-			explanation: "\"any\" is typically used in questions and negative sentences when referring to indefinite quantities. \"MONey\" is an uncountable noun."
+			explanation: "\"Any\" is typically used in questions and negative sentences when referring to indefinite quantities. \"Money\" is an uncountable noun."
 		},
 		{
 			id: 10,
-			question: "the MAN _______ LIVES NEXT DOOR is a DOCtor.",
+			question: "The man _______ lives next door is a doctor.",
 			options: [
 				"which",
 				"who",
@@ -138,7 +138,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"whom"
 			],
 			correctAnswer: 1,
-			explanation: "We need a relative pronoun that refers to a person (\"the MAN\") and functions as the subject of the verb \"LIVES\" in the relative clause, making \"who\" the correct choice."
+			explanation: "We need a relative pronoun that refers to a person (\"the man\") and functions as the subject of the verb \"lives\" in the relative clause, making \"who\" the correct choice."
 		}
 	];
 

@@ -20,69 +20,69 @@ interface Question {
 export default function IELTSQuestions(): React.JSX.Element {
 	// Danh sách câu hỏi về IELTS cơ bản
 	const questions: Question[] = [
-		{
+				{
 			id: 1,
-			question: "WHICH PART of the Ielts TEST adDRESses your aBILity to WRITE an acaDEMic ESsay based on a GIVen GRAPH, TAble, CHART, or DIagram?",
+			question: "Which part of the IELTS test assesses your ability to write an academic essay based on a given graph, table, chart, or diagram?",
 			options: [
-				"READing",
-				"LIStening",
-				"WRIting TASK 1 (acaDEMic)",
-				"SPEAKing"
+				"Reading",
+				"Listening",
+				"Writing Task 1 (Academic)",
+				"Speaking"
 			],
 			correctAnswer: 2,
-			explanation: "The IELTS Academic Writing Task 1 requires candidates to summarize, describe, or explain visual information (like a GRAPH, CHART, or DIagram) in their own words, typically in about 150 words."
+			explanation: "The IELTS Academic Writing Task 1 requires candidates to summarize, describe, or explain visual information (like a graph, chart, or diagram) in their own words, typically in at least 150 words."
 		},
 		{
 			id: 2,
-			question: "in the Ielts SPEAKing TEST, the CANdidate is exPECTed to SPEAK about a speCIFic TOPic for ONE to TWO MINutes in WHICH SECtion?",
+			question: "In the IELTS Speaking test, the candidate is expected to speak about a specific topic for one to two minutes in which section?",
 			options: [
-				"PART 1: IntroDUCtion and INterview",
-				"PART 2: LONG TURN (CUE CARD)",
-				"PART 3: TWO-WAY DisCUSsion",
-				"PART 4: conCLUsion"
+				"Part 1: Introduction and Interview",
+				"Part 2: Long Turn (Cue Card)",
+				"Part 3: Two-Way Discussion",
+				"Part 4: Conclusion"
 			],
 			correctAnswer: 1,
-			explanation: "Part 2 of the Speaking test is the Long Turn. The candidate is given a topic card (a CUE CARD) and one minute to prepare, then they must speak on that topic for between one and two minutes."
+			explanation: "Part 2 of the Speaking test is the Long Turn. The candidate is given a topic card (a cue card) and one minute to prepare, then they must speak on that topic for between one and two minutes."
 		},
 		{
 			id: 3,
-			question: "WHAT is the TYPical duRAtion of the enTIre Ielts LIStening TEST?",
+			question: "What is the typical duration of the entire IELTS Listening test?",
 			options: [
-				"20 MINutes",
-				"30 MINutes (plus 10 MINutes TRANSfer TIME)",
-				"40 MINutes",
-				"60 MINutes"
+				"20 minutes",
+				"30 minutes (plus 10 minutes transfer time)",
+				"40 minutes",
+				"60 minutes"
 			],
 			correctAnswer: 1,
 			explanation: "The IELTS Listening test is approximately 30 minutes long, consisting of four sections. Candidates are then given an extra 10 minutes at the end to transfer their answers from the question booklet to the answer sheet."
 		},
 		{
 			id: 4,
-			question: "WHICH of the FOLlowing is NOT a COMmon QUESTion TYPE in the Ielts READing TEST?",
+			question: "Which of the following is not a common question type in the IELTS Reading test?",
 			options: [
-				"MATCHing HEADings",
-				"TRUE / FALSE / NOT GIVen",
-				"SENtence comPLEtion",
-				"deSCRIbing a PROCess"
+				"Matching Headings",
+				"True / False / Not Given",
+				"Sentence Completion",
+				"Describing a Process"
 			],
 			correctAnswer: 3,
-			explanation: "Describing a Process is a typical requirement for Writing Task 1 (acaDEMic), not a question type found in the IELTS Reading test. Reading questions test comprehension and information retrieval."
+			explanation: "Describing a process is a typical requirement for Writing Task 1 (Academic), not a question type found in the IELTS Reading test. Reading questions test comprehension and information retrieval."
 		},
 		{
 			id: 5,
-			question: "WHAT does the ACronym Ielts STAND for?",
+			question: "What does the acronym IELTS stand for?",
 			options: [
-				"InterNATional ENGlish LANGuage TRAINing STANDard",
-				"INtegrated ENGlish LEARNing TEST SYStem",
-				"InterNATional ENGlish LANGuage TESTing SYStem",
-				"InterNATional ExamiNAtion for LinGUIStic and TESTing SKILLS"
+				"International English Language Training Standard",
+				"Integrated English Learning Test System",
+				"International English Language Testing System",
+				"International Examination for Linguistic and Testing Skills"
 			],
 			correctAnswer: 2,
 			explanation: "IELTS is the official acronym for the International English Language Testing System, a globally recognized test of English language proficiency."
 		},
 		{
 			id: 6,
-			question: "the SCORing SCALE for the Ielts TEST RAnges from:",
+			question: "The scoring scale for the IELTS test ranges from:",
 			options: [
 				"0 to 5",
 				"1 to 8",
@@ -90,52 +90,52 @@ export default function IELTSQuestions(): React.JSX.Element {
 				"5 to 10"
 			],
 			correctAnswer: 2,
-			explanation: "The IELTS uses a 9-band scale, with scores reported in whole and half bands (e.g., 6.0, 6.5, 7.0), ranging from Band 1 (non-User) to Band 9 (EXpert User)."
+			explanation: "The IELTS uses a 9-band scale, with scores reported in whole and half bands (e.g., 6.0, 6.5, 7.0), ranging from Band 1 (Non-User) to Band 9 (Expert User)."
 		},
 		{
 			id: 7,
-			question: "in Ielts WRIting TASK 2, CANdidates are reQUIred to WRITE an ESsay that adDRESses:",
+			question: "In IELTS Writing Task 2, candidates are required to write an essay that addresses:",
 			options: [
-				"a SUMmary of a GRAPH or CHART.",
-				"a PERsonal LETter or Email.",
-				"an ARgument, oPINion, or PROBlem / soLUtion based on a GIVen TOPic.",
-				"a FICtional STORy about a speCIFic eVENT."
+				"a summary of a graph or chart.",
+				"a personal letter or email.",
+				"an argument, opinion, or problem/solution based on a given topic.",
+				"a fictional story about a specific event."
 			],
 			correctAnswer: 2,
-			explanation: "IELTS Writing Task 2 requires candidates to write a full academic or general training essay (Usually around 250 WORDS) where they must present an argument, discuss an opinion, or propose solutions to a problem."
+			explanation: "IELTS Writing Task 2 requires candidates to write a full academic or general training essay (usually at least 250 words) where they must present an argument, discuss an opinion, or propose solutions to a problem."
 		},
 		{
 			id: 8,
-			question: "WHAT is the MAIN DIFFERence between the acaDEMic MODule and the GENERal TRAINing MODule of the Ielts TEST?",
+			question: "What is the main difference between the Academic module and the General Training module of the IELTS test?",
 			options: [
-				"the LIStening and SPEAKing TESTS are DIFFERent.",
-				"the READing and WRIting TESTS have DIFFERent CONtent.",
-				"Only the GENERal TRAINing MODule is acCEPTed by uniVERsities.",
-				"the SCORing criTEria are comPLETEly DIFFERent."
+				"The Listening and Speaking tests are different.",
+				"The Reading and Writing tests have different content.",
+				"Only the General Training module is accepted by universities.",
+				"The scoring criteria are completely different."
 			],
 			correctAnswer: 1,
-			explanation: "The Listening and Speaking tests are the same for both MODules. However, the Reading and Writing tests differ in content and task requirements to reflect the different purposes (acaDEMic for uniVERsity / proFESsional regisTRAtion; GENERal TRAINing for miGRAtion / WORK / SECondary eduCAtion)."
+			explanation: "The Listening and Speaking tests are the same for both modules. However, the Reading and Writing tests differ in content and task requirements to reflect the different purposes (Academic for university/professional registration; General Training for migration/work/secondary education)."
 		},
 		{
 			id: 9,
-			question: "WHICH BAND SCORE is GENERally conSIDered 'COMpetent User' in the Ielts TEST?",
+			question: "Which band score is generally considered 'Competent User' in the IELTS test?",
 			options: [
-				"BAND 5",
-				"BAND 6",
-				"BAND 7",
-				"BAND 8"
+				"Band 5",
+				"Band 6",
+				"Band 7",
+				"Band 8"
 			],
 			correctAnswer: 1,
-			explanation: "A Band 6 is classified as a Competent User, meaning the candidate generally has an effective command of the language despite some inaccuracies, inappropriacies, and misunderstandings, and can use and understand fairly complex language, particularly in familiar situations. (BAND 7 is 'GOOD User')."
+			explanation: "A Band 6 is classified as a Competent User, meaning the candidate generally has an effective command of the language despite some inaccuracies, inappropriacies, and misunderstandings, and can use and understand fairly complex language, particularly in familiar situations. (Band 7 is 'Good User')."
 		},
 		{
 			id: 10,
-			question: "the FIRST PART of the Ielts LIStening TEST Usually conSISTS of:",
+			question: "The first part of the IELTS Listening test usually consists of:",
 			options: [
-				"an acaDEMic LECture.",
-				"a converSAtion between TWO PEOple in a SOcial or EVERyday CONtext.",
-				"a NEWS rePORT or anNOUNCEment.",
-				"a MONologue about a reSEARCH PROJect."
+				"an academic lecture.",
+				"a conversation between two people in a social or everyday context.",
+				"a news report or announcement.",
+				"a monologue about a research project."
 			],
 			correctAnswer: 1,
 			explanation: "Listening Section 1 is typically a dialogue (a conversation between two people) set in a social context, such as booking a hotel, inquiring about a service, or opening a bank account."
