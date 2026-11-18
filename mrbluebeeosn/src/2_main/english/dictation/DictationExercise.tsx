@@ -15,41 +15,52 @@ const postId = "DictationExercise";
  
 const ITEMS: Item[] = [
   { en: "Hello, Oyster Bay Sailing Club.",
-		vi: "Greetings, Oyster Bay Sailing Club!." },
+    vi: "Greetings, Oyster Bay Sailing Club!",
+    audio: "/assets/audio/dictation/01.mp3" },
 
-	{ en: "How can I help you?",
-		vi: "What can I do to help you?" },
-  
-	{ en: "I'd like to book a table for two at seven.", 
-		vi: "I'd like to make reservations for two people at 7:00 p.m." },
+  { en: "How can I help you?",
+    vi: "What can I do to help you?",
+    audio: "/assets/audio/dictation/02.mp3" },
 
-  { en: "Could you tell me where the nearest station is?", 
-		vi: "Could you tell me where I can find the closest train station?" },
+  { en: "I'd like to book a table for two at seven.",
+    vi: "I'd like to make reservations for two people at 7:00 p.m.",
+    audio: "/assets/audio/dictation/03.mp3" },
 
-  { en: "The meeting has been moved to Thursday afternoon.", 
-		vi: "Cuộc họp đã được dời sang chiều thứ Năm." },
+  { en: "Could you tell me where the nearest station is?",
+    vi: "Could you tell me where I can find the closest train station?",
+    audio: "/assets/audio/dictation/04.mp3" },
 
-  { en: "She hasn't replied to my email yet.", 
-		vi: "I've sent her an email, but she hasn't replied yet." },
+  { en: "The meeting has been moved to Thursday afternoon.",
+    vi: "The meeting has been rescheduled to Thursday afternoon.",
+    audio: "/assets/audio/dictation/05.mp3" },
 
-  { en: "We're running out of time, so let's start.", 
-		vi: "We don't have much time, so let's begin." },
+  { en: "She hasn't replied to my email yet.",
+    vi: "I've sent her an email, but she hasn't replied yet.",
+    audio: "/assets/audio/dictation/06.mp3" },
 
-  { en: "Do you mind if I open the window?", 
-		vi: "Do you mind if the window is opened?" },
+  { en: "We're running out of time, so let's start.",
+    vi: "We don't have much time, so let's begin.",
+    audio: "/assets/audio/dictation/07.mp3" },
 
-  { en: "He told me that the flight was delayed.", 
-		vi: "He said the flight was delayed." },
+  { en: "Do you mind if I open the window?",
+    vi: "Do you mind if the window is opened?",
+    audio: "/assets/audio/dictation/08.mp3" },
 
-  { en: "I've been learning English for three years.", 
-		vi: "I've been studying English for the last three years." },
+  { en: "He told me that the flight was delayed.",
+    vi: "He said the flight was delayed.",
+    audio: "/assets/audio/dictation/09.mp3" },
 
-  { en: "Thank you for waiting.", 
-		vi: "Thank you for your patience." },
+  { en: "I've been learning English for three years.",
+    vi: "I've been studying English for the last three years.",
+    audio: "/assets/audio/dictation/10.mp3" },
 
-	{ en: "Your order is ready.", 
-		vi: "Your order is ready to be picked up." },
-		
+  { en: "Thank you for waiting.",
+    vi: "Thank you for your patience.",
+    audio: "/assets/audio/dictation/11.mp3" },
+
+  { en: "Your order is ready.",
+    vi: "Your order is ready to be picked up.",
+    audio: "/assets/audio/dictation/12.mp3" },
 ];
  
 const tokenize = (s: string) =>

@@ -12,13 +12,10 @@
     "lint": "eslint .",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    
     "up": "git add . && git commit -m 'bee' && git push origin main && npm run deploy",
     "back": "git checkout master && git merge main && git push origin master",
-    
     "master": "git add . && git commit -m 'bee' && git push origin master",
     "main": "git checkout main && git merge master && git push origin main && npm run deploy && git checkout master",
-
     "build:db": "node generate-db.js",
     "db:generate": "node generate-db.js",
     "db:update-likes": "node update-likes-only.js",
@@ -57,6 +54,7 @@
     "eslint-plugin-react-refresh": "^0.4.20",
     "gh-pages": "^6.3.0",
     "globals": "^16.4.0",
+    "node-edge-tts": "^1.2.12",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.14",
     "typescript": "^5.9.3",
