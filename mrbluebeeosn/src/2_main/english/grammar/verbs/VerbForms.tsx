@@ -169,7 +169,7 @@ export default function VerbForms(): React.JSX.Element {
               <th>Past Simple (V2)</th>
 							<th>Past Participle (V3)</th>
 							<th>Present Participle (V4)</th>
-							<th>3rd Person Singular Present (V5)</th>
+							<th>3rd Person Singular (V5)</th>
             </tr>
           </thead>
 
@@ -180,7 +180,23 @@ export default function VerbForms(): React.JSX.Element {
               <td>Was / Were</td>
 							<td>Been</td>
               <td>Being</td>
-							<td>Is (Note: Present simple also uses am and are)</td>
+							<td>Is (Present simple also uses am / are)</td>
+            </tr>
+
+						<tr>
+              <td>Do (irregular)</td>
+              <td>Did</td>
+							<td>Done</td>
+              <td>Doing</td>
+							<td>Does</td>
+            </tr>
+
+						<tr>
+              <td>Have (irregular)</td>
+              <td>Had</td>
+							<td>Had</td>
+              <td>Having</td>
+							<td>Has</td>
             </tr>
 
 						<tr>
