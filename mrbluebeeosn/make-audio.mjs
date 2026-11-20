@@ -23,17 +23,17 @@ const LESSONS = {
     "Thank you for waiting.",
     "Your order is ready.",
   ],
-  numbers: [
-    "One",
-    "Two",
-    "Three",
-    "Four",
-    "Five",
-    "Six",
-    "Seven",
-    "Eight",
-    "Nine",
-    "Ten",
+  numbers1120: [
+    "Eleven",
+    "Twelve",
+    "Thirteen",
+    "Fourteen",
+    "Fifteen",
+    "Sixteen",
+    "Seventeen",
+    "Eighteen",
+    "Nineteen",
+    "Twenty",
   ],
 };
 

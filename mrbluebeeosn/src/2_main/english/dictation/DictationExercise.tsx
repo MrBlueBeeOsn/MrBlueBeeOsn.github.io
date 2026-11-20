@@ -9,57 +9,81 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-type Item = { en: string; vi: string; audio?: string };
+type Item = { en: string; write: string; stress: string; vi: string; audio?: string };
 
 const postId = "DictationExercise";
  
 const ITEMS: Item[] = [
   { en: "Hello, Oyster Bay Sailing Club.",
-    vi: "Greetings, Oyster Bay Sailing Club!",
+    write: "Greetings, Oyster Bay Sailing Club!",
+    stress: "",
+    vi: "",
     audio: "/assets/audio/dictation/01.mp3" },
 
   { en: "How can I help you?",
-    vi: "What can I do to help you?",
+    write: "What can I do to help you?",
+    stress: "",
+    vi: "",
     audio: "/assets/audio/dictation/02.mp3" },
 
   { en: "I'd like to book a table for two at seven.",
-    vi: "I'd like to make reservations for two people at 7:00 p.m.",
+    write: "I'd like to make reservations for two people at 7:00 p.m.",
+    stress: "",
+    vi: "",
     audio: "/assets/audio/dictation/03.mp3" },
 
   { en: "Could you tell me where the nearest station is?",
-    vi: "Could you tell me where I can find the closest train station?",
+    write: "Could you tell me where I can find the closest train station?",
+    stress: "",
+    vi: "",
     audio: "/assets/audio/dictation/04.mp3" },
 
   { en: "The meeting has been moved to Thursday afternoon.",
-    vi: "The meeting has been rescheduled to Thursday afternoon.",
+    write: "The meeting has been rescheduled to Thursday afternoon.",
+    stress: "",
+    vi: "",
     audio: "/assets/audio/dictation/05.mp3" },
 
   { en: "She hasn't replied to my email yet.",
-    vi: "I've sent her an email, but she hasn't replied yet.",
+    write: "I've sent her an email, but she hasn't replied yet.",
+    stress: "",
+    vi: "",
     audio: "/assets/audio/dictation/06.mp3" },
 
   { en: "We're running out of time, so let's start.",
-    vi: "We don't have much time, so let's begin.",
+    write: "We don't have much time, so let's begin.",
+    stress: "",
+    vi: "",
     audio: "/assets/audio/dictation/07.mp3" },
 
   { en: "Do you mind if I open the window?",
-    vi: "Do you mind if the window is opened?",
+    write: "Do you mind if the window is opened?",
+    stress: "",
+    vi: "",
     audio: "/assets/audio/dictation/08.mp3" },
 
   { en: "He told me that the flight was delayed.",
-    vi: "He said the flight was delayed.",
+    write: "He said the flight was delayed.",
+    stress: "",
+    vi: "",
     audio: "/assets/audio/dictation/09.mp3" },
 
   { en: "I've been learning English for three years.",
-    vi: "I've been studying English for the last three years.",
+    write: "I've been studying English for the last three years.",
+    stress: "",
+    vi: "",
     audio: "/assets/audio/dictation/10.mp3" },
 
   { en: "Thank you for waiting.",
-    vi: "Thank you for your patience.",
+    write: "Thank you for your patience.",
+    stress: "",
+    vi: "",
     audio: "/assets/audio/dictation/11.mp3" },
 
   { en: "Your order is ready.",
-    vi: "Your order is ready to be picked up.",
+    write: "Your order is ready to be picked up.",
+    stress: "",
+    vi: "",
     audio: "/assets/audio/dictation/12.mp3" },
 ];
  
@@ -231,9 +255,10 @@ if (finished) {
         <p className="dictation__wrong">
 					
 					<div>
-						<p className="dictation__muted">Answer</p>
 						<p className="dictation__text">{item.en}</p>
-						<p className="dictation__muted">{item.vi}</p>
+          <p className="dictation__muted">{item.write}</p>
+          <p className="dictation__muted">{item.stress}</p>
+          <p className="dictation__muted">{item.vi}</p>
 					</div>
         
         </p>
@@ -244,6 +269,8 @@ if (finished) {
         <div>
           <p className="dictation__correct">✓ Correct!</p>
           <p className="dictation__text">{item.en}</p>
+          <p className="dictation__muted">{item.write}</p>
+          <p className="dictation__muted">{item.stress}</p>
           <p className="dictation__muted">{item.vi}</p>
         </div>
       )}

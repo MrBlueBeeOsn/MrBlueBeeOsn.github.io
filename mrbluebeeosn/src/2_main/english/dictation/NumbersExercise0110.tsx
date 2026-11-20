@@ -9,50 +9,70 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-type Item = { en: string; vi: string; audio?: string };
+type Item = { en: string; write: string; stress: string; vi: string; audio?: string };
 
 const postId = "NumbersExercise0110";
  
 const ITEMS: Item[] = [
   { en: "One",
-    vi: "...",
-    audio: "/assets/audio/numbers/01.mp3" },
+    write: "One is the correct answer.",
+    stress: "ONE",
+    vi: "1",
+    audio: "/assets/audio/numbers0110/01.mp3" },
 
   { en: "Two",
-    vi: "...",
-    audio: "/assets/audio/numbers/02.mp3" },
+    write: "Two is the correct answer.",
+    stress: "TWO",
+    vi: "2",
+    audio: "/assets/audio/numbers0110/02.mp3" },
 
   { en: "Three",
-    vi: "...",
-    audio: "/assets/audio/numbers/03.mp3" },
+    write: "Three is the correct answer.",
+    stress: "THREE",
+    vi: "3",
+    audio: "/assets/audio/numbers0110/03.mp3" },
 
   { en: "Four",
-    vi: "...",
-    audio: "/assets/audio/numbers/04.mp3" },
+    write: "Four is the correct answer.",
+    stress: "FOUR",
+    vi: "4",
+    audio: "/assets/audio/numbers0110/04.mp3" },
 
   { en: "Five",
-    vi: "...",
-    audio: "/assets/audio/numbers/05.mp3" },
+    write: "Five is the correct answer.",
+    stress: "FIVE",
+    vi: "5",
+    audio: "/assets/audio/numbers0110/05.mp3" },
 
   { en: "Six",
-    vi: "...",
-    audio: "/assets/audio/numbers/06.mp3" },
+    write: "Six is the correct answer.",
+    stress: "SIX",
+    vi: "6",
+    audio: "/assets/audio/numbers0110/06.mp3" },
 
   { en: "Seven",
-    vi: "...",
-    audio: "/assets/audio/numbers/07.mp3" },
+    write: "Seven is the correct answer.",
+    stress: "SEVen",
+    vi: "7",
+    audio: "/assets/audio/numbers0110/07.mp3" },
 
   { en: "Eight",
-    vi: "...",
-    audio: "/assets/audio/numbers/08.mp3" },
+    write: "Eight is the correct answer.",
+    stress: "EIGHT",
+    vi: "8",
+    audio: "/assets/audio/numbers0110/08.mp3" },
 
   { en: "Nine",
-    vi: "...",
-    audio: "/assets/audio/numbers/09.mp3" },
+    write: "Nine is the correct answer.",
+    stress: "NINE",
+    vi: "9",
+    audio: "/assets/audio/numbers0110/09.mp3" },
 
   { en: "Ten",
-    vi: "...",
-    audio: "/assets/audio/numbers/10.mp3" },
+    write: "Ten is the correct answer.",
+    stress: "TEN",
+    vi: "10",
+    audio: "/assets/audio/numbers0110/10.mp3" },
 ];
  
 const tokenize = (s: string) =>
@@ -125,7 +145,7 @@ export default function DictationExercise() {
 		
 			<h4><HashLink smooth to="/dictation#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Numbers</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Numbers Exercise</h1>
+			<h1 className="margin-y-50 text-center">Numbers Exercise 01-10np</h1>
 
 			{/* This is the content of English Learning Term. */}
 
@@ -174,7 +194,7 @@ export default function DictationExercise() {
 		
 			<h4><HashLink smooth to="/dictation#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Dictation</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Dictation Exercise</h1>
+			<h1 className="margin-y-50 text-center">Dictation Exercise 01-10</h1>
 
 			{/* This is the content of English Learning Term. */}
 
@@ -225,7 +245,9 @@ export default function DictationExercise() {
 					<div>
 						<p className="dictation__muted">Answer</p>
 						<p className="dictation__text">{item.en}</p>
-						<p className="dictation__muted">{item.vi}</p>
+            <p className="dictation__muted">{item.write}</p>
+						<p className="dictation__muted">{item.stress}</p>
+            <p className="dictation__muted">{item.vi}</p>
 					</div>
         
         </p>
@@ -236,6 +258,8 @@ export default function DictationExercise() {
         <div>
           <p className="dictation__correct">✓ Correct!</p>
           <p className="dictation__text">{item.en}</p>
+          <p className="dictation__muted">{item.write}</p>
+          <p className="dictation__muted">{item.stress}</p>
           <p className="dictation__muted">{item.vi}</p>
         </div>
       )}
