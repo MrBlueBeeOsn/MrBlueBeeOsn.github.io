@@ -24,7 +24,7 @@ export default function PronunciationIndex(): React.JSX.Element {
           3. Pronunciation
       ============================= */}
 
-      <h3 className="margin-y-50 text-center" id="pronunciation-terms">Pronunciation</h3>
+      <h3 className="margin-y-50 text-center" id="pronunciation-terms">Pronunciation Search</h3>
 
       <div className="table-search margin-bottom-50">
                   

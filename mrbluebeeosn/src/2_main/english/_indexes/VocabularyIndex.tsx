@@ -22,7 +22,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 					6. Vocabulary
 			============================= */}
 
-			<h3 className="margin-y-50 text-center" id="vocabulary-terms">Vocabulary</h3>
+			<h3 className="margin-y-50 text-center" id="vocabulary-terms">Vocabulary Search</h3>
 
 			<div className="table-search margin-bottom-50">
 			

@@ -22,7 +22,7 @@ export default function EnglishIndex(): React.JSX.Element {
           1. English
       ============================= */}
       
-      <h3 className="margin-y-50 text-center" id="english-learning-terms">English</h3>
+      <h3 className="margin-y-50 text-center" id="english-learning-terms">English Search</h3>
 
       <div className="table-search margin-bottom-50">
                         

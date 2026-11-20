@@ -17,7 +17,7 @@ export default function BookkeepingIndex(): React.JSX.Element {
             Bookkeeping Terms
       ============================= */}
       
-      <h3 className="margin-y-50 text-center" id="bookkeeping-terms">Bookkeeping Terms</h3>
+      <h3 className="margin-y-50 text-center" id="bookkeeping-terms">Bookkeeping Search</h3>
 
       <div className="table-search margin-bottom-50">
                         

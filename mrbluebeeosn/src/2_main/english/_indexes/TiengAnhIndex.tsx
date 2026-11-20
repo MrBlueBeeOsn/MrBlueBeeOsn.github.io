@@ -22,7 +22,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
           5. Tiếng Anh
       ============================= */}
 
-      <h3 className="margin-y-50 text-center" id="tieng-anh-terms">Tiếng Anh</h3>
+      <h3 className="margin-y-50 text-center" id="tieng-anh-terms">Tiếng Anh Search</h3>
 
       <div className="table-search margin-bottom-50">
             

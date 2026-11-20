@@ -23,7 +23,7 @@ export default function GrammarIndex(): React.JSX.Element {
           2. Grammar
       ============================= */}
 
-      <h3 className="margin-y-50 text-center" id="grammar-terms">Grammar</h3>
+      <h3 className="margin-y-50 text-center" id="grammar-terms">Grammar Search</h3>
 
       <div className="table-search margin-bottom-50">
                         
