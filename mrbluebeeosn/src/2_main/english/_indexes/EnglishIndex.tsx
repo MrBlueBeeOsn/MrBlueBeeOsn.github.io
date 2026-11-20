@@ -19,10 +19,10 @@ export default function EnglishIndex(): React.JSX.Element {
         <EnglishTopic/>
 
       {/* =============================
-          1. English Learning Terms
+          1. English
       ============================= */}
       
-      <h3 className="margin-y-50 text-center" id="english-learning-terms">English Learning Terms</h3>
+      <h3 className="margin-y-50 text-center" id="english-learning-terms">English</h3>
 
       <div className="table-search margin-bottom-50">
                         
@@ -135,32 +135,6 @@ export default function EnglishIndex(): React.JSX.Element {
           </ul>
 
         </details>
-
-        {/* =============================
-                Dictation Exercise
-          ============================= */}
-  
-          <details className="sub-box-fix-2">
-        
-            <summary id="dictation-exercise"><mark className="highlight-secondary-padding-2-4">Dictation</mark></summary>
-  
-            <ul className="list-border1">
-  
-              <li>
-                <div className="li-content">
-                  <Link to="/english/dictation-exercise">Dictation Exercise</Link>
-                </div>
-              </li>
-
-              <li>
-                <div className="li-content">
-                  <Link to="/english/numbers-exercise-01-10">Numbers Exercise 01-10</Link>
-                </div>
-              </li>
-              
-            </ul>
-  
-          </details>
 
 
       </div>

@@ -1,0 +1,22 @@
+{
+  "posts": [
+		{
+			"id": "DictationExercise",
+			"categoryDisplay": "English",
+			"categorySlug": "english",
+			"title": "Dictation Exercise",
+			"content": "Dictation Exercise",
+			"slug": "english/dictation-exercise",
+			"date": "2026-11-09"
+		},
+		{
+			"id": "NumbersExercise0110",
+			"categoryDisplay": "English",
+			"categorySlug": "english",
+			"title": "Numbers Exercise",
+			"content": "",
+			"slug": "english/numbers-exercise",
+			"date": "2026-11-18"
+		}
+  ]
+}

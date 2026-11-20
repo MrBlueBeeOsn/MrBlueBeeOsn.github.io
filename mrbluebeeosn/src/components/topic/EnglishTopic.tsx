@@ -40,6 +40,16 @@ export default function EnglishTopic(): React.JSX.Element {
         <mark className="highlight-tertiary-padding-2-4">ENGlish</mark>
         </NavLink>
 
+        {/* English */}
+        <NavLink to="/dictation"
+          className={`link-rounded ${selected ? 'selected' : ''}`}
+          style={({ isActive }) => ({
+            background: isActive ? 'var(--accent-color-50)' : '',
+          })}
+        >
+        <mark className="highlight-tertiary-padding-2-4">dicTAtion</mark>
+        </NavLink>
+
         {/* Grammar */}
         <NavLink to="/grammar"
           className={`link-rounded ${selected ? 'selected' : ''}`}

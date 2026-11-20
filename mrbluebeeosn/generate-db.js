@@ -38,6 +38,7 @@ function generateDB() {
   const MrBeeOsn = readJSONFile('./src/data/mrbeeosn/MrBeeOsn.json');
   const BookkeepingPosts = readJSONFile('./src/data/bookkeeping/BookkeepingPosts.json');
   const EnglishPosts = readJSONFile('./src/data/english/EnglishPosts.json');
+  const DictationPosts = readJSONFile('./src/data/english/DictationPosts.json');
   const GrammarPosts = readJSONFile('./src/data/english/GrammarPosts.json');
   const PronunciationPosts = readJSONFile('./src/data/english/PronunciationPosts.json');
   const TiengAnhPosts = readJSONFile('./src/data/tienganh/TiengAnhPosts.json');
@@ -48,6 +49,7 @@ function generateDB() {
     ...MrBeeOsn,
     ...BookkeepingPosts,
     ...EnglishPosts,
+    ...DictationPosts,
     ...GrammarPosts,
     ...PronunciationPosts,
     ...TiengAnhPosts,

@@ -73,6 +73,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 
 	// Dictation Exercise
+	const DictationIndex = lazy(() => import('@/2_main/english/_indexes/DictationIndex'));
 
 	const DictationExercise = lazy(() => import('@/2_main/english/dictation/DictationExercise'));
 	const NumbersExercise0110 = lazy(() => import('@/2_main/english/dictation/NumbersExercise0110'));
@@ -690,10 +691,11 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/english/translating" element={<Translating />} />
 
 					
+					
 					{/* Dictation Exercise */}
-
-					<Route path="/english/dictation-exercise" element={<DictationExercise />} />
-					<Route path="/english/numbers-exercise-01-10" element={<NumbersExercise0110 />} />
+					<Route path="/dictation" element={<DictationIndex />} />
+					<Route path="/dictation/dictation-exercise" element={<DictationExercise />} />
+					<Route path="/dictation/numbers-exercise-01-10" element={<NumbersExercise0110 />} />
 
 		
 

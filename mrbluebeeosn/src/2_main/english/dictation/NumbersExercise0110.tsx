@@ -123,7 +123,7 @@ export default function DictationExercise() {
 
 		<article>
 		
-			<h4><HashLink smooth to="/english#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Numbers</mark></HashLink></h4>
+			<h4><HashLink smooth to="/dictation#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Numbers</mark></HashLink></h4>
 			
 			<h1 className="margin-y-50 text-center">Numbers Exercise</h1>
 
@@ -172,7 +172,7 @@ export default function DictationExercise() {
 
 		<article>
 		
-			<h4><HashLink smooth to="/english#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Dictation</mark></HashLink></h4>
+			<h4><HashLink smooth to="/dictation#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Dictation</mark></HashLink></h4>
 			
 			<h1 className="margin-y-50 text-center">Dictation Exercise</h1>
 

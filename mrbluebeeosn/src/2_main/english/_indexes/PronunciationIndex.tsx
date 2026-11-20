@@ -21,10 +21,10 @@ export default function PronunciationIndex(): React.JSX.Element {
         <EnglishTopic/>
 
       {/* =============================
-          3. Pronunciation Terms
+          3. Pronunciation
       ============================= */}
 
-      <h3 className="margin-y-50 text-center" id="pronunciation-terms">Pronunciation Terms</h3>
+      <h3 className="margin-y-50 text-center" id="pronunciation-terms">Pronunciation</h3>
 
       <div className="table-search margin-bottom-50">
                   

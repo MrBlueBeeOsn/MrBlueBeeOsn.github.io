@@ -1,6 +1,7 @@
 import BookkeepingPosts from './bookkeeping/BookkeepingPosts';
 
 import EnglishPosts from './english/EnglishPosts';
+import DictationPosts from './english/DictationPosts';
 import GrammarPosts from './english/GrammarPosts';
 import PronunciationPosts from './english/PronunciationPosts';
 
@@ -11,6 +12,7 @@ export default function Posts() {
   return [
     ...BookkeepingPosts (),
     ...EnglishPosts (),
+    ...DictationPosts (),
     ...GrammarPosts (),
     ...PronunciationPosts (),
     ...TiengAnhPosts (),
