@@ -115,8 +115,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const PrepositionsAndTo = lazy(() => import('@/2_main/english/grammar/ModernGrammar/Prepositions&To'));
 
 
-	// Verb Forms 0110
+	// Verb Forms
 	const VerbForms0110 = lazy(() => import('@/2_main/english/grammar/quiz/forms/VerbForms0110'));
+	const VerbForms1120 = lazy(() => import('@/2_main/english/grammar/quiz/forms/VerbForms1120'));
 	
 	// Quiz
 	const GrammarQuiz = lazy(() => import('@/2_main/english/grammar/quiz/questions/GrammarQuiz'));
@@ -736,6 +737,7 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* Verb Forms */}
 					<Route path="/grammar/verb-forms-01-10" element={<VerbForms0110 />} />
+					<Route path="/grammar/verb-forms-11-20" element={<VerbForms1120 />} />
 					
 					{/* Quiz */}
 					<Route path="/grammar/grammar-quiz" element={<GrammarQuiz />} />

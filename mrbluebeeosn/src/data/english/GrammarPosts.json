@@ -226,15 +226,6 @@
       "date": "2026-11-16"
     },
     { 
-      "id": "VerbForms",
-      "categoryDisplay": "Grammar",
-      "categorySlug": "grammar",
-      "title": "Verb Forms 01-10",
-      "content": "Test your knowledge of verb forms with this quiz! Challenge yourself and see how well you know the different forms of verbs in English.",
-      "slug": "grammar/verb-forms-01-10",
-      "date": "2026-11-16"
-    },
-    { 
       "id": "ENPrimaryAuxiliaryVerbsQuiz",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
@@ -530,6 +521,24 @@
 			"content": "ADJECTIVES are often formed from NOUNS or verbs by adding suffixes. Each suffix carries a specific meaning, helping us quickly identify the word’s role in a sentence.",
 			"slug": "grammar/recognizing-adjectives",
 			"date": "2025-12-29"
-		}
+		},
+    { 
+      "id": "VerbForms0110",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Verb Forms 01-10",
+      "content": "Test your knowledge of verb forms with this quiz! Challenge yourself and see how well you know the different forms of verbs in English.",
+      "slug": "grammar/verb-forms-01-10",
+      "date": "2026-11-16"
+    },
+    { 
+      "id": "VerbForms1120",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Verb Forms 11-20",
+      "content": "Test your knowledge of verb forms with this quiz! Challenge yourself and see how well you know the different forms of verbs in English.",
+      "slug": "grammar/verb-forms-11-20",
+      "date": "2026-11-21"
+    }
   ]
 }
