@@ -11,68 +11,68 @@ import LikeButton from '@/components/like/LikeButton';
 
 type Item = { en: string; write: string; stress: string; vi: string; audio?: string };
 
-const postId = "NumbersExercise1120";
+const postId = "NumbersExercise0110";
  
 const ITEMS: Item[] = [
-  { en: "Eleven",
-    write: "Eleven is the correct answer.",
-    stress: "eLEVen",
-    vi: "11",
-    audio: "/assets/audio/numbers1120/01.mp3" },
+  { en: "ONE",
+    write: "",
+    stress: "",
+    vi: "1",
+    audio: "/assets/audio/numbers0110/01.mp3" },
 
-  { en: "Twelve",
-    write: "Twelve is the correct answer.",
-    stress: "TWELVE",
-    vi: "12",
-    audio: "/assets/audio/numbers1120/02.mp3" },
+  { en: "TWO",
+    write: "",
+    stress: "",
+    vi: "2",
+    audio: "/assets/audio/numbers0110/02.mp3" },
 
-  { en: "Thirteen",
-    write: "Thirteen is the correct answer.",
-    stress: "thirTEEN",
-    vi: "13",
-    audio: "/assets/audio/numbers1120/03.mp3" },
+  { en: "THREE",
+    write: "",
+    stress: "",
+    vi: "3",
+    audio: "/assets/audio/numbers0110/03.mp3" },
 
-  { en: "Fourteen",
-    write: "Fourteen is the correct answer.",
-    stress: "fourTEEN",
-    vi: "14",
-    audio: "/assets/audio/numbers1120/04.mp3" },
+  { en: "FOUR",
+    write: "",
+    stress: "",
+    vi: "4",
+    audio: "/assets/audio/numbers0110/04.mp3" },
 
-  { en: "Fifteen",
-    write: "Fifteen is the correct answer.",
-    stress: "fifTEEN",
-    vi: "15",
-    audio: "/assets/audio/numbers1120/05.mp3" },
+  { en: "FIVE",
+    write: "",
+    stress: "",
+    vi: "5",
+    audio: "/assets/audio/numbers0110/05.mp3" },
 
-  { en: "Sixteen",
-    write: "Sixteen is the correct answer.",
-    stress: "sixTEEN",
-    vi: "16",
-    audio: "/assets/audio/numbers1120/06.mp3" },
+  { en: "SIX",
+    write: "",
+    stress: "",
+    vi: "6",
+    audio: "/assets/audio/numbers0110/06.mp3" },
 
-  { en: "Seventeen",
-    write: "Seventeen is the correct answer.",
-    stress: "sevenTEEN",
-    vi: "17",
-    audio: "/assets/audio/numbers1120/07.mp3" },
+  { en: "SEVen",
+    write: "",
+    stress: "",
+    vi: "7",
+    audio: "/assets/audio/numbers0110/07.mp3" },
 
-  { en: "Eighteen",
-    write: "Eighteen is the correct answer.",
-    stress: "eighTEEN",
-    vi: "18",
-    audio: "/assets/audio/numbers1120/08.mp3" },
+  { en: "EIGHT",
+    write: "",
+    stress: "",
+    vi: "8",
+    audio: "/assets/audio/numbers0110/08.mp3" },
 
-  { en: "Nineteen",
-    write: "Nineteen is the correct answer.",
-    stress: "nineTEEN",
-    vi: "19",
-    audio: "/assets/audio/numbers1120/09.mp3" },
+  { en: "NINE",
+    write: "",
+    stress: "",
+    vi: "9",
+    audio: "/assets/audio/numbers0110/09.mp3" },
 
-  { en: "Twenty",
-    write: "Twenty is the correct answer.",
-    stress: "TWENty",
-    vi: "20",
-    audio: "/assets/audio/numbers1120/00.mp3" },
+  { en: "TEN",
+    write: "",
+    stress: "",
+    vi: "10",
+    audio: "/assets/audio/numbers0110/10.mp3" },
 ];
  
 const tokenize = (s: string) =>
@@ -145,7 +145,7 @@ export default function DictationExercise() {
 		
 			<h4><HashLink smooth to="/dictation#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Numbers</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Numbers Exercise 11-20</h1>
+			<h1 className="margin-y-50 text-center">Numbers Exercise 01-10np</h1>
 
 			{/* This is the content of English Learning Term. */}
 
@@ -162,7 +162,7 @@ export default function DictationExercise() {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>noVEMber 20, 2026 · by Claude and GEM ·</span>
+					<span>noVEMber 18, 2026 · by Claude ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
@@ -194,7 +194,7 @@ export default function DictationExercise() {
 		
 			<h4><HashLink smooth to="/dictation#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Dictation</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Dictation Exercise 11-20</h1>
+			<h1 className="margin-y-50 text-center">Dictation Exercise 01-10</h1>
 
 			{/* This is the content of English Learning Term. */}
 
@@ -246,8 +246,8 @@ export default function DictationExercise() {
 						<p className="dictation__muted">Answer</p>
 						<p className="dictation__text">{item.en}</p>
             <p className="dictation__muted">{item.write}</p>
-            <p className="dictation__muted">{item.stress}</p>
-						<p className="dictation__muted">{item.vi}</p>
+						<p className="dictation__muted">{item.stress}</p>
+            <p className="dictation__muted">{item.vi}</p>
 					</div>
         
         </p>
@@ -293,7 +293,7 @@ export default function DictationExercise() {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>noVEMber 20, 2026 · by Claude and GEM·</span>
+					<span>noVEMber 18, 2026 · by Claude ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

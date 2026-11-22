@@ -11,68 +11,80 @@ import LikeButton from '@/components/like/LikeButton';
 
 type Item = { en: string; write: string; stress: string; vi: string; audio?: string };
 
-const postId = "NumbersExercise0110";
+const postId = "ColorsExercise0112";
  
 const ITEMS: Item[] = [
-  { en: "One",
-    write: "One is the correct answer.",
-    stress: "ONE",
-    vi: "1",
-    audio: "/assets/audio/numbers0110/01.mp3" },
+  { en: "RED",
+    write: "",
+    stress: "",
+    vi: "",
+    audio: "/assets/audio/colors0112/01.mp3" },
 
-  { en: "Two",
-    write: "Two is the correct answer.",
-    stress: "TWO",
-    vi: "2",
-    audio: "/assets/audio/numbers0110/02.mp3" },
+  { en: "BLUE",
+    write: "",
+    stress: "",
+    vi: "",
+    audio: "/assets/audio/colors0112/02.mp3" },
 
-  { en: "Three",
-    write: "Three is the correct answer.",
-    stress: "THREE",
-    vi: "3",
-    audio: "/assets/audio/numbers0110/03.mp3" },
+  { en: "YELlow",
+    write: "",
+    stress: "",
+    vi: "",
+    audio: "/assets/audio/colors0112/03.mp3" },
 
-  { en: "Four",
-    write: "Four is the correct answer.",
-    stress: "FOUR",
-    vi: "4",
-    audio: "/assets/audio/numbers0110/04.mp3" },
+  { en: "GREEN",
+    write: "",
+    stress: "",
+    vi: "",
+    audio: "/assets/audio/colors0112/04.mp3" },
 
-  { en: "Five",
-    write: "Five is the correct answer.",
-    stress: "FIVE",
-    vi: "5",
-    audio: "/assets/audio/numbers0110/05.mp3" },
+  { en: "ORange",
+    write: "",
+    stress: "",
+    vi: "",
+    audio: "/assets/audio/colors0112/05.mp3" },
 
-  { en: "Six",
-    write: "Six is the correct answer.",
-    stress: "SIX",
-    vi: "6",
-    audio: "/assets/audio/numbers0110/06.mp3" },
+  { en: "PURple",
+    write: "",
+    stress: "",
+    vi: "",
+    audio: "/assets/audio/colors0112/06.mp3" },
 
-  { en: "Seven",
-    write: "Seven is the correct answer.",
-    stress: "SEVen",
-    vi: "7",
-    audio: "/assets/audio/numbers0110/07.mp3" },
+  { en: "PINK",
+    write: "",
+    stress: "",
+    vi: "",
+    audio: "/assets/audio/colors0112/07.mp3" },
 
-  { en: "Eight",
-    write: "Eight is the correct answer.",
-    stress: "EIGHT",
-    vi: "8",
-    audio: "/assets/audio/numbers0110/08.mp3" },
+  { en: "BLACK",
+    write: "",
+    stress: "",
+    vi: "",
+    audio: "/assets/audio/colors0112/08.mp3" },
 
-  { en: "Nine",
-    write: "Nine is the correct answer.",
-    stress: "NINE",
-    vi: "9",
-    audio: "/assets/audio/numbers0110/09.mp3" },
+  { en: "WHITE",
+    write: "",
+    stress: "",
+    vi: "",
+    audio: "/assets/audio/colors0112/09.mp3" },
 
-  { en: "Ten",
-    write: "Ten is the correct answer.",
-    stress: "TEN",
-    vi: "10",
-    audio: "/assets/audio/numbers0110/10.mp3" },
+  { en: "BROWN",
+    write: "",
+    stress: "",
+    vi: "",
+    audio: "/assets/audio/colors0112/10.mp3" },
+
+  { en: "GREY",
+    write: "",
+    stress: "",
+    vi: "",
+    audio: "/assets/audio/colors0112/11.mp3" },
+
+  { en: "BEIGE",
+    write: "",
+    stress: "",
+    vi: "",
+    audio: "/assets/audio/colors0112/12.mp3" },
 ];
  
 const tokenize = (s: string) =>
@@ -135,19 +147,19 @@ export default function DictationExercise() {
     go(0);
   };
  
-  if (finished) {
+if (finished) {
     
   return (<>
 
   <main className="image image2">
 
-		<article>
-		
-			<h4><HashLink smooth to="/dictation#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Numbers</mark></HashLink></h4>
-			
-			<h1 className="margin-y-50 text-center">Numbers Exercise 01-10np</h1>
+    <article>
+    
+      <h4><HashLink smooth to="/dictation#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Dictation</mark></HashLink></h4>
+      
+      <h1 className="margin-y-50 text-center">Dictation Exercise</h1>
 
-			{/* This is the content of English Learning Term. */}
+      {/* This is the content of English Learning Term. */}
 
       <div className="dictation">
         <h3 className="dictation__title">All done</h3>
@@ -159,29 +171,29 @@ export default function DictationExercise() {
         </button>
       </div>
 
-			<div className="viewcounter">
-			
-				<div className="post-date no-margin">
-					<span>noVEMber 18, 2026 · by Claude ·</span>
-				</div>
+      <div className="viewcounter">
+      
+        <div className="post-date no-margin">
+          <span>noVEMber 22, 2026 · by GEM ·</span>
+        </div>
 
-				<div className="eye-icon no-margin">
-					<EyeIcon />
-				</div>
+        <div className="eye-icon no-margin">
+          <EyeIcon />
+        </div>
 
-				<div className="post-date no-margin">
-					<ViewCounter postId={postId} />
-				</div>
+        <div className="post-date no-margin">
+          <ViewCounter postId={postId} />
+        </div>
 
-				<div className="like-button no-margin">
-					<LikeButton postId={postId} />
-				</div>
+        <div className="like-button no-margin">
+          <LikeButton postId={postId} />
+        </div>
 
-			</div>
+      </div>
 
-		</article>
+    </article>
 
-	</main> 
+  </main> 
       
   </>);
 }
@@ -192,14 +204,14 @@ export default function DictationExercise() {
 
 		<article>
 		
-			<h4><HashLink smooth to="/dictation#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Dictation</mark></HashLink></h4>
+			<h4><HashLink smooth to="/dictation#colors-exercise"><mark className="highlight-tertiary-padding-4-8">Colors</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Dictation Exercise 01-10</h1>
+			<h1 className="margin-y-50 text-center">Colors Exercise 01-12</h1>
 
 			{/* This is the content of English Learning Term. */}
 
 
-			<div className="dictation">
+			 <div className="dictation">
       <div className="dictation__row">
         <span className="dictation__muted">
           {index + 1} / {ITEMS.length}
@@ -243,11 +255,10 @@ export default function DictationExercise() {
         <p className="dictation__wrong">
 					
 					<div>
-						<p className="dictation__muted">Answer</p>
 						<p className="dictation__text">{item.en}</p>
-            <p className="dictation__muted">{item.write}</p>
-						<p className="dictation__muted">{item.stress}</p>
-            <p className="dictation__muted">{item.vi}</p>
+          <p className="dictation__muted">{item.write}</p>
+          <p className="dictation__muted">{item.stress}</p>
+          <p className="dictation__muted">{item.vi}</p>
 					</div>
         
         </p>
@@ -293,7 +304,7 @@ export default function DictationExercise() {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>noVEMber 18, 2026 · by Claude ·</span>
+					<span>noVEMber 22, 2026 · by GEM ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

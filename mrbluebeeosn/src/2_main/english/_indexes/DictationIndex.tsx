@@ -76,11 +76,36 @@ export default function DictationIndex(): React.JSX.Element {
                   <Link to="/dictation/numbers-exercise-11-20">Numbers Exercise 11-20</Link>
                 </div>
               </li>
+
+              <li>
+                <div className="li-content">
+                  <Link to="/dictation/numbers-exercise-00-100">Numbers Exercise 00-100</Link>
+                </div>
+              </li>
               
             </ul>
   
           </details>
 
+          {/* =============================
+                Numbers Exercise
+          ============================= */}
+  
+          <details className="sub-box-fix-2">
+        
+            <summary id="colors-exercise"><mark className="highlight-secondary-padding-2-4">Colors</mark></summary>
+  
+            <ul className="list-border1">
+
+              <li>
+                <div className="li-content">
+                  <Link to="/dictation/colors-exercise-01-12">Colors Exercise 01-10</Link>
+                </div>
+              </li>
+              
+            </ul>
+  
+          </details>
 
       </div>
 

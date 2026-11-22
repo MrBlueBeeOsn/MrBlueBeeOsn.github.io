@@ -26,6 +26,24 @@
 			"content": "Numbers Exercise 11-20",
 			"slug": "dictation/numbers-exercise-11-20",
 			"date": "2026-11-20"
+		},
+		{
+			"id": "NumbersExercise00100",
+			"categoryDisplay": "Dictation",
+			"categorySlug": "dictation",
+			"title": "Numbers Exercise 00-100",
+			"content": "Numbers Exercise 00-100",
+			"slug": "dictation/numbers-exercise-00-100",
+			"date": "2026-11-22"
+		},
+		{
+			"id": "ColorsExercise0112",
+			"categoryDisplay": "Dictation",
+			"categorySlug": "dictation",
+			"title": "Colors Exercise 0112",
+			"content": "ColorsExercise0112",
+			"slug": "dictation/colors-exercise-01-12",
+			"date": "2026-11-22"
 		}
   ]
 }
