@@ -17,7 +17,7 @@ interface Question {
 	explanation: string;
 }
 
-export default function BookkeepingQuiz(): React.JSX.Element {
+export default function Bookkeeping0110(): React.JSX.Element {
 	// Danh sách câu hỏi về Bookkeeping cơ bản
 	const questions: Question[] = [
 		{
@@ -148,11 +148,11 @@ export default function BookkeepingQuiz(): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/bookkeeping#bookkeeping-basic-practice"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
-
+				<h4><HashLink smooth to="/bookkeeping#bookkeeping-quiz"><mark className="highlight-tertiary-padding-4-8">Bookkeeping Quiz</mark></HashLink></h4>
+				
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">Bookkeeping Quiz</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental bookkeeping concepts</p>
+					<h1 className="margin-y-50 text-center">Bookkeeping 01-10</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental Bookkeeping</p>
 				</header>
 	
 				{/* This is the content of Bookkeeping Quiz. */}

@@ -34,7 +34,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const AccountReconciliation = lazy(() => import('@/2_main/bookkeeping/AccountReconciliation'));
 
 	// Quiz
-	const BookkeepingQuiz = lazy(() => import('@/2_main/bookkeeping/quiz/BookkeepingQuiz'));
+	const Bookkeeping0110 = lazy(() => import('@/2_main/bookkeeping/quiz/Bookkeeping0110'));
+	const Bookkeeping1120 = lazy(() => import('@/2_main/bookkeeping/quiz/Bookkeeping1120'));
 	const EVBookkeepingQuiz = lazy(() => import('@/2_main/bookkeeping/quiz/EVBookkeepingQuiz'));
 	const VNBookkeepingQuiz = lazy(() => import('@/2_main/bookkeeping/quiz/VNBookkeepingQuiz'));
 
@@ -127,6 +128,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Verb Forms
 	const VerbForms0110 = lazy(() => import('@/2_main/english/grammar/quiz/forms/VerbForms0110'));
 	const VerbForms1120 = lazy(() => import('@/2_main/english/grammar/quiz/forms/VerbForms1120'));
+	const VerbForms2130 = lazy(() => import('@/2_main/english/grammar/quiz/forms/VerbForms2130'));
 	
 	// Quiz
 	const GrammarQuiz = lazy(() => import('@/2_main/english/grammar/quiz/questions/GrammarQuiz'));
@@ -663,7 +665,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/bookkeeping/what-is-account-reconciliation?" element={<AccountReconciliation />} />
 					
 					{/* Quiz */}
-					<Route path="/bookkeeping/bookkeeping-quiz" element={<BookkeepingQuiz />} />
+					<Route path="/bookkeeping/bookkeeping-01-10" element={<Bookkeeping0110 />} />
+					<Route path="/bookkeeping/bookkeeping-11-20" element={<Bookkeeping1120 />} />
 					<Route path="/bookkeeping/ev-bookkeeping-Quiz" element={<EVBookkeepingQuiz />} />
 					<Route path="/bookkeeping/vn-bookkeeping-Quiz" element={<VNBookkeepingQuiz />} />
 
@@ -756,6 +759,7 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Verb Forms */}
 					<Route path="/grammar/verb-forms-01-10" element={<VerbForms0110 />} />
 					<Route path="/grammar/verb-forms-11-20" element={<VerbForms1120 />} />
+					<Route path="/grammar/verb-forms-21-30" element={<VerbForms2130 />} />
 					
 					{/* Quiz */}
 					<Route path="/grammar/grammar-quiz" element={<GrammarQuiz />} />

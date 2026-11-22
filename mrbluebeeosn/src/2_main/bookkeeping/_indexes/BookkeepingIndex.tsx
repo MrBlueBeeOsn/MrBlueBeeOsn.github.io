@@ -37,15 +37,36 @@ export default function BookkeepingIndex(): React.JSX.Element {
 
         <details className="sub-box-fix-2">
       
-          <summary id="bookkeeping-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
+          <summary id="bookkeeping-quiz"><mark className="highlight-secondary-padding-2-4">Bookkeeping Quiz</mark></summary>
 
           <ul className="list-border1">
 
             <li>
               <div className="li-content">
-                <Link to="/bookkeeping/bookkeeping-quiz">Bookkeeping Quiz</Link>
+                <Link to="/bookkeeping/bookkeeping-01-10">Bookkeeping 01-10</Link>
               </div>
             </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/bookkeeping/bookkeeping-11-20">Bookkeeping 11-20</Link>
+              </div>
+            </li>
+
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Bookkeeping Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-bookkeeping-quiz"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
+
+          <ul className="list-border1">
 
             <li>
               <div className="li-content">
