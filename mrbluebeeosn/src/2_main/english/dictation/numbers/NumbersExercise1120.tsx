@@ -143,9 +143,9 @@ export default function DictationExercise() {
 
 		<article>
 		
-			<h4><HashLink smooth to="/dictation#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Numbers</mark></HashLink></h4>
-			
-			<h1 className="margin-y-50 text-center">Numbers Exercise 11-20</h1>
+			<h4><HashLink smooth to="/dictation#numbers-exercise"><mark className="highlight-tertiary-padding-4-8">Numbers</mark></HashLink></h4>
+            
+      <h1 className="margin-y-50 text-center">Numbers: 11, 12, 12, ... 20</h1>
 
 			{/* This is the content of English Learning Term. */}
 
@@ -192,9 +192,9 @@ export default function DictationExercise() {
 
 		<article>
 		
-			<h4><HashLink smooth to="/dictation#dictation-exercise"><mark className="highlight-tertiary-padding-4-8">Dictation</mark></HashLink></h4>
-			
-			<h1 className="margin-y-50 text-center">Dictation Exercise 11-20</h1>
+			<h4><HashLink smooth to="/dictation#numbers-exercise"><mark className="highlight-tertiary-padding-4-8">Numbers</mark></HashLink></h4>
+            
+      <h1 className="margin-y-50 text-center">Numbers: 11, 12, 12, ... 20</h1>
 
 			{/* This is the content of English Learning Term. */}
 

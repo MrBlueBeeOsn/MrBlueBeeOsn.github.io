@@ -193,6 +193,30 @@ export default function CLEAR1(): React.JSX.Element {
       {/* 1.  */}
 
 			<h3 className="margin-y-50 text-center" id="VERB-CATegories">VERB CATegories</h3>
+
+      <table className="margin-y-50">
+          <thead>
+            <tr>
+              <th>Base Form (V1)</th>
+              <th>Past Simple (V2)</th>
+							<th>Past Participle (V3)</th>
+							<th>Present Participle (V4)</th>
+							<th>3rd Person Singular (V5)</th>
+            </tr>
+          </thead>
+
+          <tbody>
+
+						<tr>
+              <td>CLEAR</td>
+              <td>CLEARED</td>
+							<td>CLEARED</td>
+              <td>CLEARing</td>
+							<td>CLEARS</td>
+            </tr>
+
+          </tbody>
+        </table>
       
         <ol className="margin-top-40">
       

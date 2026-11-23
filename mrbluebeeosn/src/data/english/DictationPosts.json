@@ -37,6 +37,15 @@
 			"date": "2026-11-22"
 		},
 		{
+			"id": "NumbersExercise1001000",
+			"categoryDisplay": "Dictation",
+			"categorySlug": "dictation",
+			"title": "Numbers Exercise 100-1000",
+			"content": "Numbers Exercise 100-1000",
+			"slug": "dictation/numbers-exercise-100-1000",
+			"date": "2026-11-23"
+		},
+		{
 			"id": "ColorsExercise0112",
 			"categoryDisplay": "Dictation",
 			"categorySlug": "dictation",

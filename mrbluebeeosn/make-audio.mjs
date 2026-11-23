@@ -21,6 +21,18 @@ const LESSONS = {
     "",
     "",
   ],
+  numbers1001000: [
+    "One hundred",
+    "Two hundred",
+    "Three hundred",
+    "Four hundred",
+    "Five hundred",
+    "Six hundred",
+    "Seven hundred",
+    "Eight hundred",
+    "Nine hundred",
+    "One thousand",
+  ],
   numbers00100: [
     "Zero",
     "Ten",

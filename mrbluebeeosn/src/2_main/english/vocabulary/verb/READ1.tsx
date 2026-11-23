@@ -32,33 +32,31 @@ export default function READ1(): React.JSX.Element {
       
       <p>The lexical verb read serves as a classic textbook example of heavy syncretism. While a prototypical irregular verb like take utilizes five distinct written shapes (take, takes, took, taking, taken), read collapses its paradigm into only three distinct written shapes and four distinct spoken shapes to cover all six core inflectional roles:</p>
 
-      <h4 className="margin-y-40">1. Preterite form: READ /rɛd/</h4>
-          
-      <p className="text-indent-whole">– Used exclusively for the independent past tense literal or modal contexts.</p>
-      
-        <ul className="list-square">
-      
-          <li>She <span className="pill-teal">read</span> the entire novel last night before <span className="pill-teal">going </span>to bed.</li>
-      
-          <li>We <span className="pill-teal">read</span> the contract thoroughly before <span className="pill-teal">signing</span> it yesterday.</li>
-      
-        </ul>
+      <table className="margin-y-50">
+          <thead>
+            <tr>
+              <th>Base Form (V1)</th>
+              <th>Past Simple (V2)</th>
+							<th>Past Participle (V3)</th>
+							<th>Present Participle (V4)</th>
+							<th>3rd Person Singular (V5)</th>
+            </tr>
+          </thead>
 
-      
-      <h4 className="margin-y-40">2. 3rd singular present form: reads /riːdz/</h4>
-          
-      <p className="text-indent-whole">– Used for the present tense with a third-person singular subject.</p>
-      
-        <ul className="list-square">
-      
-          <li>He <span className="pill-teal">reads</span> the morning newspaper every single day.</li>
-      
-          <li>The professor <span className="pill-teal">reads</span> every essay with meticulous attention.</li>
-      
-        </ul>
+          <tbody>
 
-      
-      <h4 className="margin-y-40">3. Plain present form: read /riːd/</h4>
+						<tr>
+              <td>READ</td>
+              <td>READ</td>
+							<td>READ</td>
+              <td>READing</td>
+							<td>READS</td>
+            </tr>
+
+          </tbody>
+        </table>
+
+      <h4 className="margin-y-40">1. Plain present form: read /riːd/</h4>
           
       <p className="text-indent-whole">– Used for the present tense with all other subject persons and numbers.</p>
       
@@ -71,7 +69,7 @@ export default function READ1(): React.JSX.Element {
         </ul>
 
       
-      <h4 className="margin-y-40">4. Plain form: read /riːd/</h4>
+      <h4 className="margin-y-40">Plain form: read /riːd/</h4>
           
       <p className="text-indent-whole">– Used as the base for inflected constructions, including imperative, subjunctive, and infinitival clauses.</p>
       
@@ -83,9 +81,35 @@ export default function READ1(): React.JSX.Element {
           <li className="list-none">Since we say "that he <strong>be</strong> here" (<strong>Plain form</strong>) and not "that he <strong>is</strong>/<strong>reads</strong> here", the verb read in your example is 100% a <strong>Plain form</strong>.</li>
       
         </ul>
+      
+      
+      <h4 className="margin-y-40">2. Preterite form: READ /rɛd/</h4>
+          
+      <p className="text-indent-whole">– Used exclusively for the independent past tense literal or modal contexts.</p>
+      
+        <ul className="list-square">
+      
+          <li>She <span className="pill-teal">read</span> the entire novel last night before <span className="pill-teal">going </span>to bed.</li>
+      
+          <li>We <span className="pill-teal">read</span> the contract thoroughly before <span className="pill-teal">signing</span> it yesterday.</li>
+      
+        </ul>
 
       
-      <h4 className="margin-y-40">5. Gerund-participle form: reading /riːdɪŋ/</h4>
+      <h4 className="margin-y-40">3. Past participle form: read /rɛd/ </h4>
+          
+      <p className="text-indent-whole">– Used in perfective aspects and passive voice constructions.</p>
+      
+        <ul className="list-square">
+      
+          <li>I <span className="pill-teal">have</span> already <span className="pill-teal">read</span> that email three times today.</li>
+      
+          <li>The poem <span className="pill-teal">was</span> beautifully <span className="pill-teal">read</span> by the author at the event.</li>
+      
+        </ul>
+      
+      
+      <h4 className="margin-y-40">4. Gerund-participle form: reading /riːdɪŋ/</h4>
           
       <p className="text-indent-whole">– A unified form representing the single inflectional shape historically divided into gerunds and present participles.</p>
       
@@ -98,15 +122,15 @@ export default function READ1(): React.JSX.Element {
         </ul>
 
       
-      <h4 className="margin-y-40">6. Past participle form: read /rɛd/ </h4>
+      <h4 className="margin-y-40">5. 3rd singular present form: reads /riːdz/</h4>
           
-      <p className="text-indent-whole">– Used in perfective aspects and passive voice constructions.</p>
+      <p className="text-indent-whole">– Used for the present tense with a third-person singular subject.</p>
       
         <ul className="list-square">
       
-          <li>I <span className="pill-teal">have</span> already <span className="pill-teal">read</span> that email three times today.</li>
+          <li>He <span className="pill-teal">reads</span> the morning newspaper every single day.</li>
       
-          <li>The poem <span className="pill-teal">was</span> beautifully <span className="pill-teal">read</span> by the author at the event.</li>
+          <li>The professor <span className="pill-teal">reads</span> every essay with meticulous attention.</li>
       
         </ul>
 

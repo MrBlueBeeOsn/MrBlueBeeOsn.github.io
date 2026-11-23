@@ -56,7 +56,7 @@ export default function DictationIndex(): React.JSX.Element {
           </details>
 
           {/* =============================
-                Numbers Exercise
+                Numbes:
           ============================= */}
   
           <details className="sub-box-fix-2">
@@ -67,19 +67,25 @@ export default function DictationIndex(): React.JSX.Element {
 
               <li>
                 <div className="li-content">
-                  <Link to="/dictation/numbers-exercise-01-10">Numbers Exercise 01-10</Link>
+                  <Link to="/dictation/numbers-exercise-01-10">Numbers: 1, 2, 3, ... 10</Link>
                 </div>
               </li>
 
               <li>
                 <div className="li-content">
-                  <Link to="/dictation/numbers-exercise-11-20">Numbers Exercise 11-20</Link>
+                  <Link to="/dictation/numbers-exercise-11-20">Numbes: 11, 12, 13, ... 20</Link>
                 </div>
               </li>
 
               <li>
                 <div className="li-content">
-                  <Link to="/dictation/numbers-exercise-00-100">Numbers Exercise 00-100</Link>
+                  <Link to="/dictation/numbers-exercise-00-100">Numbes: 0, 10, 20, ... 100</Link>
+                </div>
+              </li>
+
+              <li>
+                <div className="li-content">
+                  <Link to="/dictation/numbers-exercise-100-1000">Numbes: 100, 200, 300, ... 1000</Link>
                 </div>
               </li>
               
@@ -88,7 +94,7 @@ export default function DictationIndex(): React.JSX.Element {
           </details>
 
           {/* =============================
-                Numbers Exercise
+                Numbes:
           ============================= */}
   
           <details className="sub-box-fix-2">

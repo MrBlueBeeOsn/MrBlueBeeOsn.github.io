@@ -17,67 +17,67 @@ const ITEMS: Item[] = [
   { en: "ZEro",
     write: "",
     stress: "",
-    vi: "",
+    vi: "0",
     audio: "/assets/audio/numbers00100/01.mp3" },
 
   { en: "TEN",
     write: "",
     stress: "",
-    vi: "",
+    vi: "10",
     audio: "/assets/audio/numbers00100/02.mp3" },
 
   { en: "TWENty",
     write: "",
     stress: "",
-    vi: "",
+    vi: "20",
     audio: "/assets/audio/numbers00100/03.mp3" },
 
   { en: "THIRty",
     write: "",
     stress: "",
-    vi: "",
+    vi: "30",
     audio: "/assets/audio/numbers00100/04.mp3" },
 
   { en: "FORty",
     write: "",
     stress: "",
-    vi: "",
+    vi: "40",
     audio: "/assets/audio/numbers00100/05.mp3" },
 
   { en: "FIFty",
     write: "",
     stress: "",
-    vi: "",
+    vi: "50",
     audio: "/assets/audio/numbers00100/06.mp3" },
 
   { en: "SIXty",
     write: "",
     stress: "",
-    vi: "",
+    vi: "60",
     audio: "/assets/audio/numbers00100/07.mp3" },
 
   { en: "SEVenty",
     write: "",
     stress: "",
-    vi: "",
+    vi: "70",
     audio: "/assets/audio/numbers00100/08.mp3" },
 
   { en: "EIGHty",
     write: "",
     stress: "",
-    vi: "",
+    vi: "80",
     audio: "/assets/audio/numbers00100/09.mp3" },
 
   { en: "NINEty",
     write: "",
     stress: "",
-    vi: "",
+    vi: "90",
     audio: "/assets/audio/numbers00100/10.mp3" },
 
   { en: "ONE HUNDred",
-    write: "",
+    write: "A hundred",
     stress: "",
-    vi: "",
+    vi: "100",
     audio: "/assets/audio/numbers00100/11.mp3" },
 ];
  
@@ -150,8 +150,8 @@ if (finished) {
     <article>
     
       <h4><HashLink smooth to="/dictation#numbers-exercise"><mark className="highlight-tertiary-padding-4-8">Numbers</mark></HashLink></h4>
-      
-      <h1 className="margin-y-50 text-center">Numbers Exercise 00-100</h1>
+            
+      <h1 className="margin-y-50 text-center">Numbers: 0, 10, 20, ... 100</h1>
 
       {/* This is the content of English Learning Term. */}
 
@@ -199,8 +199,8 @@ if (finished) {
 		<article>
 		
 			<h4><HashLink smooth to="/dictation#numbers-exercise"><mark className="highlight-tertiary-padding-4-8">Numbers</mark></HashLink></h4>
-			
-			<h1 className="margin-y-50 text-center">Numbers Exercise 00-100</h1>
+            
+      <h1 className="margin-y-50 text-center">Numbers: 0, 10, 20, ... 100</h1>
 
 			{/* This is the content of English Learning Term. */}
 
