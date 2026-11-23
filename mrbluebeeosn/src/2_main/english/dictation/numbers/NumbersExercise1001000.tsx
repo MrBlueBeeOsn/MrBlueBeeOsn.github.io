@@ -20,7 +20,7 @@ const ITEMS: Item[] = [
     vi: "100",
     audio: "/assets/audio/numbers1001000/01.mp3" },
 
-  { en: "T HUNDred",
+  { en: "TWO HUNDred",
     write: "",
     stress: "",
     vi: "200",

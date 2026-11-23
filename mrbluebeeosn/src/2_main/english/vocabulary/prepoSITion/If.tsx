@@ -48,23 +48,23 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li id="prepoSITion1">if you STUDy HARD, you will PASS the EXAM.</li>
-          <li className="margin-bottom-20 list-none">Study hard, do well on the exam, and you will pass.</li>
+          <li id="prepoSITion1">if you <span className="pill-teal">STUDy</span> HARD, you <span className="pill-teal">will PASS</span> the EXAM.</li>
+          <li className="margin-bottom-20 list-none"><span className="pill-teal">Study</span> hard, <span className="pill-teal">do</span> well on the exam, and you <span className="pill-teal">will pass.</span></li>
 
-          <li>if it RAINS toMORrow, we will CANcel the PICnic.</li>
-          <li className="margin-bottom-20 list-none">The picnic will be canceled if it rains tomorrow.</li>
+          <li>if it <span className="pill-teal">RAINS</span> toMORrow, we <span className="pill-teal">will CANcel</span> the PICnic.</li>
+          <li className="margin-bottom-20 list-none">The picnic <span className="pill-teal">will be canceled</span> if it <span className="pill-teal">rains</span> tomorrow.</li>
 
-          <li>we can GO for a WALK if the RAIN STOPS.</li>
+          <li>we <span className="pill-teal">can GO</span> for a WALK if the RAIN <span className="pill-teal">STOPS.</span></li>
           <li className="margin-bottom-20 list-none">If it stops raining, we can go for a walk.</li>
 
-          <li id="prepoSITion2">if i had a LOT of MONey, i would TRAVel around the WORLD.</li>
-          <li className="margin-bottom-20 list-none">I would travel around the world if I had a lot of money.</li>
+          <li id="prepoSITion2">if i <span className="pill-teal">had</span> a LOT of MONey, i <span className="pill-teal">would TRAVel</span> around the WORLD.</li>
+          <li className="margin-bottom-20 list-none">I <span className="pill-teal">would travel</span> around the world if I <span className="pill-teal">had</span> a lot of money.</li>
 
-          <li id="prepoSITion3">if she had STARTed EARlier, she would NOT have MISSED the TRAIN.</li>
-          <li className="margin-bottom-20 list-none">If she had gotten on the right train, she would not have missed it.</li>
+          <li id="prepoSITion3">if she <span className="pill-teal">had STARTed</span> EARlier, she <span className="pill-teal">would NOT have MISSED</span> the TRAIN.</li>
+          <li className="margin-bottom-20 list-none">If she <span className="pill-teal">had gotten</span> on the right train, she <span className="pill-teal">would not have missed</span> it.</li>
 
-          <li>if you had STUDied HARDer YESterday, you would KNOW the ANswer NOW.</li>
-          <li className="margin-bottom-20 list-none">If you had studied more yesterday, you would now know the answer.</li>
+          <li>if you <span className="pill-teal">had STUDied</span> HARDer YESterday, you <span className="pill-teal">would KNOW</span> the ANswer NOW.</li>
+          <li className="margin-bottom-20 list-none">If you <span className="pill-teal">had studied</span> more yesterday, you <span className="pill-teal">would</span> now <span className="pill-teal">know</span> the answer.</li>
       
         </ul>
 
@@ -103,8 +103,8 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
  
-          <li id="NOUN">STOP WORrying a<strong>bout</strong> all the  what-ifs and FOCus on the PRESent.</li>
-          <li className="list-none">Stop worrying about things that might happen and focus on what is happening now.</li>
+          <li id="NOUN"><span className="pill-teal">STOP WORrying</span> a<strong>bout</strong> all the  what-ifs and <span className="pill-teal">FOCus on</span> the PRESent.</li>
+          <li className="list-none"><span className="pill-teal">Stop worrying</span> about things that <span className="pill-teal">might happen</span> and <span className="pill-teal">focus on</span> what <span className="pill-teal">is happening</span> now.</li>
           <li className="list-none">Note about the context: The plural form "what-ifs" is commonly used. Stop worrying about the future and focus on the present.</li>
 
         </ul>
@@ -125,8 +125,8 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>proVIded that you reTURN the CAR by 5 p.M., you can BORrow it.</li>
-          <li className="list-none">You can borrow the car if you return it by 5 p.m.</li>
+          <li><span className="pill-teal">proVIded</span> that you reTURN the CAR by 5 p.M., you <span className="pill-teal">can BORrow</span> it.</li>
+          <li className="list-none">You <span className="pill-teal">can borrow</span> the car if you <span className="pill-teal">return</span> it by 5 p.m.</li>
 
         </ul>
 
@@ -138,8 +138,8 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>you can STAY HERE as LONG as you KEEP the ROOM CLEAN.</li>
-          <li className="list-none">You can stay as long as you keep the room clean.</li>
+          <li>you <span className="pill-teal">can STAY</span> HERE as LONG as you <span className="pill-teal">KEEP</span> the ROOM CLEAN.</li>
+          <li className="list-none">You <span className="pill-teal">can stay</span> as long as you <span className="pill-teal">keep</span> the room clean.</li>
 
         </ul>
       
@@ -152,8 +152,8 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>we will GO to the BEACH un<strong>less</strong> it RAINS toMORrow.</li>
-          <li className="list-none">Unless it rains tomorrow, we'll go to the beach.</li>
+          <li>we <span className="pill-teal">will GO</span> to the BEACH un<strong>less</strong> it <span className="pill-teal">RAINS</span> toMORrow.</li>
+          <li className="list-none">Unless it <span className="pill-teal">rains</span> tomorrow, we<span className="pill-teal">'ll go</span> to the beach.</li>
 
         </ul>
 
@@ -165,8 +165,8 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>TAKE an umBRELla in case it RAINS LAter.</li>
-          <li className="list-none">Bring an umbrella in case it rains.</li>
+          <li><span className="pill-teal">TAKE</span> an umBRELla in case it <span className="pill-teal">RAINS</span> LAter.</li>
+          <li className="list-none"><span className="pill-teal">Bring</span> an umbrella in case it <span className="pill-teal">rains.</span></li>
 
         </ul>
 
@@ -178,8 +178,8 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>asSUMing that we START on TIME, we should FINish by NOON.</li>
-          <li className="list-none">If we start on time, we should finish by noon.</li>
+          <li><span className="pill-teal">asSUMing</span> that we <span className="pill-teal">START</span> on TIME, we <span className="pill-teal">should FINish</span> by NOON.</li>
+          <li className="list-none">If we <span className="pill-teal">start</span> on time, we <span className="pill-teal">should finish</span> by noon.</li>
 
         </ul>
 
@@ -191,8 +191,8 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he was GRANTed BAIL on conDITion that he STAYED in the COUNtry.</li>
-          <li className="list-none">He was allowed to leave jail as long as he stayed in the country.</li>
+          <li>he <span className="pill-teal">was GRANTed</span> BAIL on conDITion that he <span className="pill-teal">STAYED</span> in the COUNtry.</li>
+          <li className="list-none">He <span className="pill-teal">was allowed</span> to <span className="pill-teal">leave</span> jail as long as he <span className="pill-teal">stayed</span> in the country.</li>
 
         </ul>
 
@@ -204,8 +204,8 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i DON'T KNOW <strong>wheth</strong>er she will acCEPT the JOB OFfer or NOT.</li>
-          <li className="list-none">I'm not sure if she will accept the job offer.</li>
+          <li>i <span className="pill-teal">DON'T KNOW</span> <strong>wheth</strong>er she <span className="pill-teal">will acCEPT</span> the JOB OFfer or NOT.</li>
+          <li className="list-none">I<span className="pill-teal">'m</span> not sure if she <span className="pill-teal">will accept</span> the job offer.</li>
 
         </ul>
 
@@ -218,8 +218,8 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">if Only i had KNOWN the TRUTH EARlier, THINGS would be DIFFERent.</li>
-          <li className="margin-bottom-20 list-none">If only I had known the truth before, things would have been different.</li>
+          <li>if Only i <span className="pill-teal">had KNOWN</span> the TRUTH EARlier, THINGS <span className="pill-teal">would be</span> DIFFERent.</li>
+          <li className="margin-bottom-20 list-none">If only I <span className="pill-teal">had known</span> the truth before, things <span className="pill-teal">would have been</span> different.</li>
 
         </ul>
           
